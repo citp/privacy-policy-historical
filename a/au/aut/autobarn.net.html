@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the autobarn.net privacy policy that was archived on 2006-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060610044237id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autobarn.net privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205033139id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="javascript"> 
  <!-- 
-if (document.referrer && (document.referrer!='') && window.Image) 
-{ 
- (new Image).src="http://store.yahoo.com/cgi-bin/refsd?e=http://autobarn.net/privacypolicy.html&r=&v=1.0&dr=" + escape(document.referrer); 
-}
-// --> 
+ (new Image).src="http://store.yahoo.com/cgi-bin/refsd?e=http://autobarn.net/privacypolicy.html&h=autobarn.net&v=1.0&dr=" + escape(document.referrer); 
+ --> 
  </script>
 
 <!--nosearch-->
-<title>AutoBarn.com Info</title><link rel="alternate" type="application/rss+xml" title="Autobarn.com" href="http://www.autobarn.com/rss/rss.xml">
+<title>AutoBarn.com Info</title><link rel="alternate" type="application/rss+xml" title="Autobarn.com" href="http://198.173.64.150/rss/rss.xml">
 <link rel="SHORTCUT ICON" href="http://lib.store.yahoo.net/lib/rodi/autobarn.ico">
-<script language="JavaScript" src="http://www.autobarn.com/rss/fadomatic-1_2.js"></script>
-<script language="JavaScript" src="http://www.autobarn.com/banners/rotation.js"></script>
+<script language="JavaScript" src="http://198.173.64.150/rss/fadomatic-1_2.js"></script>
+<script language="JavaScript" src="http://198.173.64.150/banners/rotation.js"></script>
+
+<!--<script language="JavaScript" src="http://198.173.64.150/banners/PopIn.js"
+  type="text/javascript"></script>-->
 <script language="JavaScript">
 //News box fading out to start with a variable of 0 *not faded in*
 var faded = 0;
@@ -27,9 +27,9 @@ function addbookmark() {
 }
 
 function submit_search() {
-			var yearObj = document.getElementById('SelYear');
+			var yearObj = document.getElementById('year');
 			var yearIndex = yearObj.selectedIndex;
-			var makeObj = document.getElementById('SelMake');
+			var makeObj = document.getElementById('make');
 			var makeIndex = makeObj.selectedIndex;
 			
 			var year_choice = yearObj.options[yearIndex].value;
@@ -55,6 +55,57 @@ function loadOrderPage()
 {
    setBanner();
    getData();
+}
+
+function loadOtherPages()
+{
+   setBanner();
+   var argv = loadOtherPages.arguments;
+   if (argv.length > 0)
+   {
+     calcShippingCost(argv);
+   }
+}
+function calcShippingCost(argv)
+{
+   var totalPrice = 0;
+   var cookieInfo = new Array();
+   var cookieData = '&nbsp;&nbsp;&nbsp;';
+   if (document.cookie.indexOf('howMany') != -1) 
+  {
+	var catalog = 'rodi';
+	var cookieData = '&nbsp;&nbsp;&nbsp;';
+	eatFCCookie(cookieInfo,'floatingCartCookie');
+	if (cookieInfo['howMany'] != 0) 
+	  {
+  		cookieData += cookieInfo['howMany'] + ' Item(s)';
+		for (var bit in cookieInfo) 
+		   {
+			if (bit != 'howMany') 
+			  {
+				totalPrice = totalPrice + parseFloat(cookieInfo[bit].split('^')[0]);
+			  }
+		    }
+		}
+    }
+	totalPrice = totalPrice + argv[0];
+
+	for (var ndx = argv.length - 2; ndx >= 1; ndx-=2)
+	{
+	  if (totalPrice >= argv[ndx])
+	  {
+	   if(argv[ndx + 1] == 0)
+		{
+		  document.getElementById("shipcalc").innerHTML = "Estimated shipping (Via Ground to 48 US States) if this item is added to your cart: FREE";
+		}
+		else
+		 {
+		  document.getElementById("shipcalc").innerHTML = "Estimated total shipping cost (Via Ground to 48 US States) if this item is added to your cart: " + argv[ndx + 1];
+		 }
+		break;
+	  }
+	}
+
 }
 </script>
 <style type="text/css">
@@ -152,13 +203,45 @@ A.quicksearch {
 	cursor:hand;
 	cursor: pointer;
 }
-</style></head><body hspace="0" onload="setBanner()" vspace="0" style="margin:0; padding:0" bgcolor="ffffff" link="996600" vlink="996600" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td bgcolor="#990000" align="left" width="150" rowspan="20"><table cellpadding="0" cellspacing="0" border="0" style="padding-left:10px;">
+
+</style></head><body hspace="0" onload="setBanner()" vspace="0" style="margin:0; padding:0" bgcolor="ffffff" link="996600" vlink="996600" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td bgcolor="#990000" align="left" width="150" rowspan="20"><table cellpadding="0" cellspacing="0" border="0" style="padding-left: 10px">
 <tbody><tr>
 <td>
+<p align="center">
 <a href="http://www.autobarn.net/index.html">
-    <img src="http://lib.store.yahoo.net/lib/rodi/home.ycow.gif" border="0" width="121" height="161"></a></td></tr><tr><td style="padding-top:20px;padding-bottom:20px;"><span style="font-family:arial; font-size:x-small; border:1px solid white; color:white; background-color:#CD0000;cursor:hand;cursor:pointer;" onclick="window.location='http://order.store.yahoo.com/cgi-bin/wg-order?rodi'">&nbsp;Free Shipping: <b>$150+</b>&nbsp;</span></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="150" style="padding-right:10px;padding-left:10px;"><tbody><tr valign="top"><td bgcolor="" valign="top" class="yst-side-nav"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="accessories.html">Accessories</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="caraudio.html">Mobile Video &amp; Sound</a><br><a class="yst-side-nav-subsection" href="int.html">Interior Accessories</a><br><a class="yst-side-nav-subsection" href="ext.html">Exterior Accessories</a><br><a class="yst-side-nav-subsection" href="repairmanuals.html">Repair Manuals</a><br><a class="yst-side-nav-subsection" href="tools.html">Tools &amp; Equipment</a><br><a class="yst-side-nav-subsection" href="safetysecurity.html">Safety &amp; Security</a><br><a class="yst-side-nav-subsection" href="repair.html">Repair Acc's. &amp; Chems.</a><br><a class="yst-side-nav-subsection" href="gaacst.html">Garage Accessories</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="autoparts.html">Auto Parts</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="brakes.html">Brakes</a><br><a class="yst-side-nav-subsection" href="batteries.html">Batteries</a><br><a class="yst-side-nav-subsection" href="exhausttips.html">Mufflers &amp; Exhaust Tips</a><br><a class="yst-side-nav-subsection" href="mirrors.html">Mirrors</a><br><a class="yst-side-nav-subsection" href="headlights.html">Lighting</a><br><a class="yst-side-nav-subsection" href="oilfilters.html">Filters-Intakes-Tornado</a><br><a class="yst-side-nav-subsection" href="shocksstruts.html">Shocks &amp; Struts</a><br><a class="yst-side-nav-subsection" href="wiperblades.html">Wiper Blades</a><br><a class="yst-side-nav-subsection" href="sparkplugs.html">Tune-Up Parts</a><br><a class="yst-side-nav-subsection" href="tireswheels.html">Tires &amp; Wheels</a><br><a class="yst-side-nav-subsection" href="keystone.html">Accessory Lookup</a><br><a class="yst-side-nav-subsection" href="partslookup.html">Make/Model Lookup</a><br><a class="yst-side-nav-subsection" href="worldpac.html">OEM Parts Lookup</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="car-care.html">Car Care Products</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="carwashacc.html">Car Wash &amp; Accessories</a><br><a class="yst-side-nav-subsection" href="polishes.html">Car Wax &amp; Polish</a><br><a class="yst-side-nav-subsection" href="interiorcarcare.html">Interior Care</a><br><a class="yst-side-nav-subsection" href="glasscare.html">Glass Care</a><br><a class="yst-side-nav-subsection" href="wheeltirecare.html">Wheel &amp; Tire Care</a><br><a class="yst-side-nav-subsection" href="carcarestores.html">Shop Car Care By Brand</a><br><a class="yst-side-nav-subsection" href="trimcare.html">Cleaners &amp; Protectants</a><br><a class="yst-side-nav-subsection" href="carcareadd.html">Oils &amp; Additives</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="carcareadd.html">Oils &amp; Additives</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="oiladditives.html">Motor Oil &amp; Additives</a><br><a class="yst-side-nav-subsection" href="fuelsystemadditives.html">Fuel System Additives</a><br><a class="yst-side-nav-subsection" href="radiatoradd.html">Radiator Additives</a><br><a class="yst-side-nav-subsection" href="steeringadditives.html">Power Steering Add's.</a><br><a class="yst-side-nav-subsection" href="transmissionadditives.html">Transmission Additives</a><br><a class="yst-side-nav-subsection" href="hydraulicadditives.html">Hydraulic Additives</a><br><a class="yst-side-nav-subsection" href="lubgarworfin.html">LubeGard Store</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="perstor.html">Performance Store</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="performance.html">Performance</a><br><a class="yst-side-nav-subsection" href="americanper1.html">American Performance</a><br><a class="yst-side-nav-subsection" href="imperstor.html">Import Performance</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="sumac.html">Summer Accessories</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="decsticandem.html">Emblems, Decals &amp; Sun Shades</a><br><a class="yst-side-nav-subsection" href="sundeflectors.html">Sun Deflectors</a><br><a class="yst-side-nav-subsection" href="barcarmounra.html">Bar Carriers, Bike Racks, Ski Racks &amp; Mounting Racks</a><br><a class="yst-side-nav-subsection" href="cartopcarriers.html">Car Top Carriers</a><br><a class="yst-side-nav-subsection" href="coolretsys.html">Coolant Return Systems</a><br><a class="yst-side-nav-subsection" href="airpumandcom.html">Air Pumps and Compressors</a><br><a class="yst-side-nav-subsection" href="carwash.html">Car Wash Formulas</a><br><a class="yst-side-nav-subsection" href="cleaningacc.html">Cleaning Accessories</a><br><a class="yst-side-nav-subsection" href="tinting.html">Tinting</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0" style="padding-left:10px;width:100%;"><tbody><tr><td style="border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="newaust.html">In-Store Boutiques</a></td></tr>
-<tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="gif.html">Gift Cards</a></td></tr>
-<tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="newusedcars.html">New &amp; Used Cars</a></td></tr><tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="affiliate-program.html">Affiliate Program</a></td></tr><tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="summer-specials.html">Summer Specials</a></td></tr></tbody></table>
+    <img src="http://lib.store.yahoo.net/lib/rodi/home.ycow.gif" border="0" width="121" height="161"></a></p>
+</td></tr><tr><td style="padding-top: 10px; padding-bottom: 10px"> <center><b><font face="Helvetica" color="#F17800"><font size="2">CALL TOLL FREE:<br></font><font size="3">1-888-484-9560</font></font></b></center>
+    <img border="0" src="http://lib.store.yahoo.net/lib/rodi/shipping4.gif" width="136" height="100"></td></tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="150" style="padding-right:10px;padding-left:10px;"><tbody><tr valign="top"><td bgcolor="" valign="top" class="yst-side-nav"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="holiday-gifts.html">Holiday Gifts</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="giftsunder10.html">Gifts Under $10</a><br><a class="yst-side-nav-subsection" href="giftsunder25.html">Gifts Under $25</a><br><a class="yst-side-nav-subsection" href="giftsunder50.html">Gifts Under $50</a><br><a class="yst-side-nav-subsection" href="giftsunder100.html">Gifts Under $100</a><br><a class="yst-side-nav-subsection" href="corporategifts.html">Corporate Gifts</a><br><a class="yst-side-nav-subsection" href="gif.html">Gift Cards</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="accessories.html">Accessories</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="caraudio.html">Mobile Video &amp; Sound</a><br><a class="yst-side-nav-subsection" href="int.html">Interior Accessories</a><br><a class="yst-side-nav-subsection" href="ext.html">Exterior Accessories</a><br><a class="yst-side-nav-subsection" href="repairmanuals.html">Repair Manuals</a><br><a class="yst-side-nav-subsection" href="tools.html">Tools &amp; Equipment</a><br><a class="yst-side-nav-subsection" href="safetysecurity.html">Safety &amp; Security</a><br><a class="yst-side-nav-subsection" href="repair.html">Repair Acc's. &amp; Chems.</a><br><a class="yst-side-nav-subsection" href="gaacst.html">Garage Accessories</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="autoparts.html">Auto Parts</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="brakes.html">Brakes</a><br><a class="yst-side-nav-subsection" href="batteries.html">Batteries</a><br><a class="yst-side-nav-subsection" href="exhausttips.html">Mufflers &amp; Exhaust Tips</a><br><a class="yst-side-nav-subsection" href="mirrors.html">Mirrors</a><br><a class="yst-side-nav-subsection" href="headlights.html">Lighting</a><br><a class="yst-side-nav-subsection" href="oilfilters.html">Filters-Intakes-Tornado</a><br><a class="yst-side-nav-subsection" href="shocksstruts.html">Shocks &amp; Struts</a><br><a class="yst-side-nav-subsection" href="wiperblades.html">Wiper Blades</a><br><a class="yst-side-nav-subsection" href="sparkplugs.html">Tune-Up Parts</a><br><a class="yst-side-nav-subsection" href="tireswheels.html">Tires &amp; Wheels</a><br><a class="yst-side-nav-subsection" href="keystone.html">Accessory Lookup</a><br><a class="yst-side-nav-subsection" href="partslookup.html">Make/Model Lookup</a><br><a class="yst-side-nav-subsection" href="worldpac.html">OEM Parts Lookup</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="car-care.html">Car Care Products</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="carwashacc.html">Car Wash &amp; Accessories</a><br><a class="yst-side-nav-subsection" href="polishes.html">Car Wax &amp; Polish</a><br><a class="yst-side-nav-subsection" href="interiorcarcare.html">Interior Care</a><br><a class="yst-side-nav-subsection" href="glasscare.html">Glass Care</a><br><a class="yst-side-nav-subsection" href="wheeltirecare.html">Wheel &amp; Tire Care</a><br><a class="yst-side-nav-subsection" href="carcarestores.html">Shop Car Care By Brand</a><br><a class="yst-side-nav-subsection" href="trimcare.html">Cleaners &amp; Protectants</a><br><a class="yst-side-nav-subsection" href="carcareadd.html">Oils &amp; Additives</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="carcareadd.html">Oils &amp; Additives</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="oiladditives.html">Motor Oil &amp; Additives</a><br><a class="yst-side-nav-subsection" href="fuelsystemadditives.html">Fuel System Additives</a><br><a class="yst-side-nav-subsection" href="radiatoradd.html">Radiator Additives</a><br><a class="yst-side-nav-subsection" href="steeringadditives.html">Power Steering Add's.</a><br><a class="yst-side-nav-subsection" href="transmissionadditives.html">Transmission Additives</a><br><a class="yst-side-nav-subsection" href="hydraulicadditives.html">Hydraulic Additives</a><br><a class="yst-side-nav-subsection" href="lubgarworfin.html">LubeGard Store</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="perstor.html">Performance Store</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="performance.html">Performance</a><br><a class="yst-side-nav-subsection" href="americanper1.html">American Performance</a><br><a class="yst-side-nav-subsection" href="imperstor.html">Import Performance</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#C97200" align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tl.gif"></td><td bgcolor="#C97200" align="center" style="padding-top:5px;"><a class="yst-side-nav" href="winter.html">Winter Sale!</a></td><td bgcolor="#C97200" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-tr.gif"></td></tr><tr><td bgcolor="white" colspan="3" style="padding-left:5px;padding-right:5px;padding-top:5px;"><a class="yst-side-nav-subsection" href="winter1.html">Popular Winter Accessories</a><br><a class="yst-side-nav-subsection" href="winter2.html">Battery Chargers, Jump Starters &amp; Power Inverters</a><br><a class="yst-side-nav-subsection" href="winter3.html">Floor Mats &amp; Seat Covers</a><br><a class="yst-side-nav-subsection" href="winter4.html">Snow Brooms, Brushes &amp; Ice Scrapers</a><br><a class="yst-side-nav-subsection" href="winter5.html">Miscellaneous Winter Accessories</a><br><a class="yst-side-nav-subsection" href="winter6.html">Other Winter Categories</a><br></td></tr><tr><td bgcolor="white" align="left" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-bl.gif"></td><td bgcolor="white"></td><td bgcolor="white" align="right" valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curvemenu-br.gif"></td></tr></tbody></table><br></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="140"><tbody><tr><td align="center" style="padding-left: 12px" width="140">
+<b><font color="#FFFFFF" face="Verdana" size="2">Customer&nbsp;<br>
+ Testimonials</font></b></td></tr><tr><td width="126">
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr>
+<td valign="top" style="padding-top: 10px; padding-left: 10px; padding-bottom: 20px; font: normal 11px">
+<font color="#FFFFFF" face="Verdana">
+<script>var testimonial = new Array();    
+testimonial[0]='"A super pleasure to shop on line at Auto Barn. Delighted with my dash cover and I received it MUCH quicker than I thought I would. I will shop again and spread the web site." <br><STRONG>Sep 04, 2006</STRONG> ';
+testimonial[1]='"Great Job Auto Barn! I found a product that was hard to find in my area and got the best deal on it because of your rebate. Thanks!" <br><STRONG>Sep 02, 2006</STRONG> ';
+testimonial[2]='"Went with Autobarn because quite honestly they had what I was looking for, and I got my order promptly. Very happy." <br><STRONG>Aug 31, 2006</STRONG> ';
+testimonial[3]='"I plan to use AutoBarn every time I need products. It is a great place to shop. I am handicaped and it is hard to get out to shop, and I can find the paints and supplies on your web site and they are delivered in a timely manor and every item I order is in the shipment with no problems. Plus it is great to find every color and application I wanted. Thank You Autobarn and your outstanding employees!" <br><STRONG>Oct 06, 2006 </STRONG> ';
+testimonial[4]='"Only place I could find the item for which I was shopping. Price, ease of ordering and purchasing,and prompt delivery were all impressive. Thank you." <br><STRONG>Aug 28, 2006</STRONG> ';
+testimonial[5]='"Fast shipping, Loved my Wolo Programable horn now I can play La Cucaracha anytime i want to by pressing my horn totally cool man.... " <br><STRONG>Oct 03, 2006 </STRONG> ';
+testimonial[6]='"Wheelskins is high-quality product, delivered as promised, and with no moving parts, failures are highly unlikely. Yes, I will browse your site again." <br><STRONG>Sep 25, 2006</STRONG> ';
+testimonial[7]='"Easy to find products on order website. Good variety and selection to choose from." <br><STRONG>Sep 27, 2006</STRONG> ';
+testimonial[8]='"Great Shipping Price and fast and smooth service....Seat Covers fit great, I plan on buying another set for my wifes car." <br><STRONG>Sep 27, 2006 </STRONG> ';
+testimonial[9]='"I originally ordered the wrong part and I sent an e-mail following the order. The customer support team was very kind and responded quickly to update my order and I recieved my parts within 3 business days from purchase. Very pleasant experience." <br><STRONG>Sep 27, 2006 </STRONG> ';
+testimonial[10]='"I was very happy with AutoBarn! I thought i was looking for a spark plug boot for my newer model car. When what I needed was a ignition coil. Anyway they lead me in the right direction. Thanks a lot i will be shopping with them again!" <br><STRONG>Sep 28, 2006 </STRONG> ';
+testimonial[11]='"First purchase from you.  Very satisfied wiht the whole transaction from order to receiving, especially the on going communication after the order was placed and shipped. Thank you." <br><STRONG>Sep 28, 2006</STRONG> ';
+testimonial[12]='"Excellent and very prompt services, I received my silicon blade sooner than I expected. Great job!!! Thanks a million." <br><STRONG>Sep 29, 2006 </STRONG> ';
+testimonial[13]='"The entire shopping experience at AutoBarn was on the level of companies like LL Bean. If fact, AutoBarn has set a new bench mark for other companies for us. The deliveries were so prompt, the need for tracking service was negated."<br><STRONG>Sep 30, 2006 </STRONG> ';
+randomnum=Math.floor(Math.random()*(testimonial.length));document.write(testimonial[randomnum]);
+</script>"Went with Autobarn because quite honestly they had what I was looking for, and I got my order promptly. Very happy." <br><strong>Aug 31, 2006</strong> 
+</font>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" style="padding-left:10px;width:100%;"><tbody><tr><td style="border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="newaust.html">In-Store Boutiques</a></td></tr>
+<tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="newusedcars.html">New &amp; Used Cars</a></td></tr><tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="cheap-gas-prices.html">Cheap Gas Prices</a></td></tr><tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="get-an-auto-loan.html">Get an Auto Loan</a></td></tr><tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="affiliate-program.html">Affiliate Program</a></td></tr>   <tr><td style="padding-top:10px;border-bottom:1px solid #D4D1AC;" valign="bottom"><a class="yst-side-nav" href="winter1.html">Winter Specials</a></td></tr></tbody></table>
 <br><br><br><br><br><br><br></td><td><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family:verdana;">
 	<tbody><tr>
 		<td>
@@ -166,7 +249,7 @@ A.quicksearch {
 			<tbody><tr>
 					<td style="padding-right:10px;"><a href="http://www.autobarn.net" style="text-decoration:none;color:white;"><img alt="Home" src="http://lib.store.yahoo.net/lib/rodi/homeicon.gif" border="0">Home</a></td>
 					<td style="padding-right:10px;"><a href="http://www.autobarn.net/order-info.html" style="text-decoration:none;color:white;"><img src="http://lib.store.yahoo.net/lib/rodi/ordericon.gif" border="0">Ordering</a></td>
-					<td style="padding-right:10px;"><a onclick="window.open('http://www.autobarn.com/orderinfo/shipping.html','shipping','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=700,height=500');return false" href="http://www.autobarn.com/orderinfo/shipping.html" style="text-decoration:none;color:white;"><img alt="Shipping" src="http://lib.store.yahoo.net/lib/rodi/shippingicon.gif" border="0">Shipping/Tracking</a></td>
+					<td style="padding-right:10px;"><a onclick="window.open('http://www.autobarn.com/orderinfo/shipping.html','shipping','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=no,width=700,height=500');return false" href="http://www.autobarn.com/orderinfo/shipping.html" style="text-decoration:none;color:white;"><img alt="Shipping" src="http://lib.store.yahoo.net/lib/rodi/shippingicon.gif" border="0">Shipping/Tracking</a></td>
 					<td style="padding-right:10px;"><a onclick="window.open('http://www.autobarn.com/orderinfo/ReturnsPolicy.html','returns','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=360,height=340');return false" href="http://www.autobarn.com/orderinfo/ReturnsPolicy.html" style="text-decoration:none;color:white;"><img alt="Returns" src="http://lib.store.yahoo.net/lib/rodi/returnsicon.gif" border="0">Returns</a></td>
 					<td bgcolor="white"><img src="http://lib.store.yahoo.net/lib/rodi/curvemini-brtl.gif"></td>
 					<td style="font-size:xx-small;font-weight:bolder;" bgcolor="white"><a href="http://order.store.yahoo.com/cgi-bin/wg-order?rodi" style="text-decoration:none;color:black;"><img src="http://lib.store.yahoo.net/lib/rodi/cart.gif" border="0">&nbsp;&nbsp;view shopping cart</a> <span id="floatingCartContents">
@@ -231,8 +314,7 @@ else {
 	document.getElementById("floatingCartContents").innerHTML = " ";
 }
 //-->
-</script></td>
-				</tr>
+</script></td></tr>
 			</tbody></table>
 		</td>
 	</tr>
@@ -240,8 +322,17 @@ else {
 		<td>
 			<table cellspacing="0" cellpadding="0" border="0" width="100%">
 				<tbody><tr>
-					<td bgcolor="#990000" style="padding-top:5px;" align="center"><div style="border:1px solid tomato;width:579px;height:92px;" id="banner"></div></td>
-					<td align="right" bgcolor="#990000" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curveminiout-brtl.gif" border="0"></td>
+					<td bgcolor="#990000" style="padding-top:5px;" align="center"><div style="border:1px solid tomato;width:579px;height:92px;" id="banner">
+						
+					
+				
+                      </div>
+                      &nbsp;
+	
+					</td>
+                    <td bgcolor="#990000">
+					<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.autobarn.net"><img border="0" src="http://images.scanalert.com/meter/www.autobarn.net/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" width="94" height="54"></a>
+					</td><td align="right" bgcolor="#990000" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curveminiout-brtl.gif" border="0" width="25" height="25"></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -260,227 +351,248 @@ else {
 								<td align="left" colspan="2" style="padding-top:10px;"><form name="navform"><select name="category" size="1" onchange="window.location=document.navform.category.options[document.navform.category.selectedIndex].value">
 			              <option selected="">Browse our Departments</option>
 			              <option value="http://store.yahoo.com/rodi/accessories.html">
-			              Accessories</option>
+                          Accessories</option>
 
-			              <option value="http://www.autobarn.net/airfresheners.html">Air 
-			              Fresheners</option>
-			              <option value="http://www.autobarn.net/airpumandcom.html">Air 
-			              Compressors</option>
-			              <option value="http://www.autobarn.net/oilfilters.html">Air 
-			              Filters</option>
-			              <option value="http://www.autobarn.net/autoparts.html">Auto Parts
+			              <option value="http://www.autobarn.net/airfresheners.html">Air
+                          Fresheners</option>
+			              <option value="http://www.autobarn.net/airpumandcom.html">Air
+                          Compressors</option>
+			              <option value="http://www.autobarn.net/oilfilters.html">Air
+                          Filters</option>
+			              <option value="http://www.autobarn.net/autoparts.html">Auto
+                          Parts
 			              </option>
 			              <option value="http://www.autobarn.net/opbat92cca.html">Batteries
 			              </option>
-			              <option value="http://www.autobarn.net/jumpstarters.html">Battery 
-			              Chargers</option>
+			              <option value="http://www.autobarn.net/jumpstarters.html">Battery
+                          Chargers</option>
 
 			              <option value="http://www.autobarn.net/brakes.html">Brakes
 			              </option>
 			              <option value="http://www.autobarn.net/fronendmasbr.html">Bras
 			              </option>
-			              <option value="http://www.autobarn.net/bugdeflectors.html">Bug 
-			              Deflectors</option>
-			              <option value="http://www.autobarn.net/caraudio.html">Car Stereos 
-			              &amp; Speakers</option>
-			              <option value="http://www.autobarn.net/andev.html">Car Alarms
+			              <option value="http://www.autobarn.net/bugdeflectors.html">Bug
+                          Deflectors</option>
+			              <option value="http://www.autobarn.net/caraudio.html">Car
+                          Stereos &amp; Speakers</option>
+			              <option value="http://www.autobarn.net/andev.html">Car
+                          Alarms
 			              </option>
 
-			              <option value="http://www.autobarn.net/carcovers.html">Car &amp; Truck 
-			              Covers</option>
-			              <option value="http://www.autobarn.net/carwashacc.html">Car 
-			              Wash &amp; Wax</option>
-			              <option value="http://www.autobarn.net/trunktrays.html">Cargo 
-			              Liners</option>
-			              <option value="http://www.autobarn.net/cartopcarriers.html">Cartop 
-			              Carriers &amp; Racks</option>
+			              <option value="http://www.autobarn.net/carcovers.html">Car
+                          &amp; Truck Covers</option>
+			              <option value="http://www.autobarn.net/carwashacc.html">Car
+                          Wash &amp; Wax</option>
+			              <option value="http://www.autobarn.net/trunktrays.html">Cargo
+                          Liners</option>
+			              <option value="http://www.autobarn.net/cartopcarriers.html">Cartop
+                          Carriers &amp; Racks</option>
 
-			              <option value="http://www.autobarn.net/celphonac.html">Cell Phone 
-			              Accessories</option>
-			              <option value="http://www.autobarn.net/decsticandem.html">Decals &amp; 
-			              Emblems</option>
-			              <option value="http://www.autobarn.net/auxlig.html">Driving &amp; Fog 
-			              Lights</option>
-			              <option value="http://www.autobarn.net/emsafkit.html">Emergency 
-			              Road Kits</option>
-			              <option value="http://www.autobarn.net/exhausttips.html">Exhaust 
-			              Tips</option>
+			              <option value="http://www.autobarn.net/celphonac.html">Cell
+                          Phone Accessories</option>
+			              <option value="http://www.autobarn.net/decsticandem.html">Decals
+                          &amp; Emblems</option>
+			              <option value="http://www.autobarn.net/auxlig.html">Driving
+                          &amp; Fog Lights</option>
+			              <option value="http://www.autobarn.net/emsafkit.html">Emergency
+                          Road Kits</option>
+			              <option value="http://www.autobarn.net/exhausttips.html">Exhaust
+                          Tips</option>
 
 			              <option value="http://www.autobarn.net/oilfilters.html">Filters
 			              </option>
-			              <option value="http://www.autobarn.net/fire.html">Fire 
-			              Extinguishers</option>
-			              <option value="http://www.autobarn.net/floormats.html">Floor Mats
+			              <option value="http://www.autobarn.net/fire.html">Fire
+                          Extinguishers</option>
+			              <option value="http://www.autobarn.net/floormats.html">Floor
+                          Mats
 			              </option>
 			              <option value="http://www.autobarn.net/fuelsystemadditives.html">
-			              Fuel Additives &amp; Boosters</option>
-			              <option value="http://www.autobarn.net/oiladditives.html">Oil &amp; 
-			              Engine Additives</option>
+                          Fuel Additives &amp; Boosters</option>
+			              <option value="http://www.autobarn.net/oiladditives.html">Oil
+                          &amp; Engine Additives</option>
 
 			              <option value="http://www.autobarn.net/gauges.html">Gauges
 			              </option>
-			              <option value="http://www.autobarn.net/greatgiftideas.html">Gift 
-			              Ideas</option>
-			              <option value="http://www.autobarn.net/keyheadlightcovers.html">Headlight 
-			              Covers</option>
+			              <option value="http://www.autobarn.net/greatgiftideas.html">Gift
+                          Ideas</option>
+			              <option value="http://www.autobarn.net/keyheadlightcovers.html">Headlight
+                          Covers</option>
 			              <option value="http://www.autobarn.net/headlights.html">Headlights
 			              </option>
 			              <option value="http://www.autobarn.net/horns.html">Horns</option>
-			              <option value="http://www.autobarn.net/jacks.html">Jacks &amp; Stands
+			              <option value="http://www.autobarn.net/jacks.html">Jacks
+                          &amp; Stands
 			              </option>
 
-			              <option value="http://www.autobarn.net/jeepaccessories.html">Jeep 
-			              Accessories</option>
-			              <option value="http://www.autobarn.net/keychains.html">Key Chains
+			              <option value="http://www.autobarn.net/jeepaccessories.html">Jeep
+                          Accessories</option>
+			              <option value="http://www.autobarn.net/keychains.html">Key
+                          Chains
 			              </option>
-			              <option value="http://www.autobarn.net/licenseframes.html">License 
-			              Frames</option>
-			              <option value="http://store.yahoo.com/rodi/maac.html">Marine 
-			              Accessories</option>
+			              <option value="http://www.autobarn.net/licenseframes.html">License
+                          Frames</option>
+			              <option value="http://store.yahoo.com/rodi/maac.html">Marine
+                          Accessories</option>
 			              <option value="http://www.autobarn.net/mirrors.html">Mirrors
 			              </option>
-			              <option value="http://www.autobarn.net/oiladditives.html">Motor 
-			              Oils</option>
+			              <option value="http://www.autobarn.net/oiladditives.html">Motor
+                          Oils</option>
 
 			              <option value="http://www.autobarn.net/motorcycles.html">
-			              Motorcycle Accessories</option>
-			              <option value="http://www.autobarn.net/exteriorlights.html">Neon 
-			              Effects</option>
-			              <option value="http://www.autobarn.net/newusedcars.html">New Cars
+                          Motorcycle Accessories</option>
+			              <option value="http://www.autobarn.net/exteriorlights.html">Neon
+                          Effects</option>
+			              <option value="http://www.autobarn.net/newusedcars.html">New
+                          Cars
 			              </option>
-						   <option value="http://www.autobarn.net/performance.html">Performance Products
+						   <option value="http://www.autobarn.net/performance.html">Performance
+                           Products
 			              </option>
 						  
-			              <option value="http://www.autobarn.net/winddeflectors.html">Rain 
-			              Guards</option>
-			              <option value="http://www.autobarn.net/manuals.html">Repair 
-			              Manuals</option>
+			              <option value="http://www.autobarn.net/winddeflectors.html">Rain
+                          Guards</option>
+			              <option value="http://www.autobarn.net/manuals.html">Repair
+                          Manuals</option>
 
-			              <option value="http://www.autobarn.net/readremremca.html">Remote 
-			              Car Starters</option>
-			              <option value="http://www.autobarn.net/sadseatcov.html">Seat 
-			              Covers</option>
-			              <option value="http://www.autobarn.net/bacresseatcu.html">Seat 
-			              Cushions &amp; Back Rests</option>
-			              <option value="http://www.autobarn.net/shocksstruts.html">Shock 
-			              Absorbers</option>
-			              <option value="http://www.autobarn.net/andev.html">Steering Wheel 
-			              Locks</option>
+			              <option value="http://www.autobarn.net/readremremca.html">Remote
+                          Car Starters</option>
+			              <option value="http://www.autobarn.net/sadseatcov.html">Seat
+                          Covers</option>
+			              <option value="http://www.autobarn.net/bacresseatcu.html">Seat
+                          Cushions &amp; Back Rests</option>
+			              <option value="http://www.autobarn.net/shocksstruts.html">Shock
+                          Absorbers</option>
+			              <option value="http://www.autobarn.net/andev.html">Steering
+                          Wheel Locks</option>
 
-			              <option value="http://www.autobarn.net/steerwheelco.html">Steering 
-			              Wheel Covers</option>
-			              <option value="http://www.autobarn.net/keytaillightcovers.html">Taillight 
-			              Covers</option>
-			              <option value="http://www.autobarn.net/tiedowtowac.html">Tie 
-			              Downs, Ropes &amp; Straps</option>
-			              <option value="http://www.autobarn.net/tiregauges.html">Tire 
-			              Gauges</option>
+			              <option value="http://www.autobarn.net/steerwheelco.html">Steering
+                          Wheel Covers</option>
+			              <option value="http://www.autobarn.net/keytaillightcovers.html">Taillight
+                          Covers</option>
+			              <option value="http://www.autobarn.net/tiedowtowac.html">Tie
+                          Downs, Ropes &amp; Straps</option>
+			              <option value="http://www.autobarn.net/tiregauges.html">Tire
+                          Gauges</option>
 			              <option value="http://www.autobarn.net/tireswheels.html">Tires
 			              </option>
 
-			              <option value="http://www.autobarn.net/duplicolor.html">Touch-Up 
-			              Paints</option>
-			              <option value="http://www.autobarn.net/tiedowtowac.html">Towing 
-			              Accessories</option>
+			              <option value="http://www.autobarn.net/duplicolor.html">Touch-Up
+                          Paints</option>
+			              <option value="http://www.autobarn.net/tiedowtowac.html">Towing
+                          Accessories</option>
 			              <option value="http://store.yahoo.com/rodi/trwipetpr.html">
-			              Traveling With Pet Products</option>
-			              <option value="http://www.autobarn.net/consoles.html">Video 
-			              Consoles</option>
-			              <option value="http://www.autobarn.net/wheelcovers.html">Wheel 
-			              Covers</option>
+                          Traveling With Pet Products</option>
+			              <option value="http://www.autobarn.net/consoles.html">Video
+                          Consoles</option>
+			              <option value="http://www.autobarn.net/wheelcovers.html">Wheel
+                          Covers</option>
 
 			              <option value="http://www.autobarn.net/tireswheels.html">Wheels
 			              </option>
-			              <option value="http://www.autobarn.net/winddeflectors.html">Wind 
-			              Deflectors</option>
-			              <option value="http://www.autobarn.net/tinting.html">Window Tint
+			              <option value="http://www.autobarn.net/winddeflectors.html">Wind
+                          Deflectors</option>
+			              <option value="http://www.autobarn.net/tinting.html">Window
+                          Tint
 			              </option>
-			              <option value="http://www.autobarn.net/winter.html">Winter 
-			              Products</option>
-			              <option value="http://www.autobarn.net/wiperblades.html">Wiper 
-			              Blades</option>
+			              <option value="http://www.autobarn.net/winter.html">Winter
+                          Products</option>
+			              <option value="http://www.autobarn.net/wiperblades.html">Wiper
+                          Blades</option>
 			              </select></form></td>
 								</tr>
 							</tbody></table>				
 					</td>
 					<td align="center" bgcolor="#990000">
-						<table cellspacing="0" cellpadding="0" border="0" style="font-size:xx-small;font-weight:bolder;" width="100%">
+							<table cellspacing="0" cellpadding="0" border="0" style="font-size:xx-small;font-weight:bolder;" width="100%">
 							<tbody><tr>
-								<td align="right"><a href="http://www.autobarn.net/tobasp.html"><img alt="Today's BARNBURNER SPECIAL!" src="http://lib.store.yahoo.net/lib/rodi/barnflame.gif" border="0"></a></td><td style="padding-right:2px;"><a href="http://www.autobarn.net/tobasp.html" style="text-decoration:none;color:orange;">BarnBurner!</a></td>
-								<td><a href="http://www.autobarn.net/clearance.html" style="text-decoration:none;color:orange;"><img alt="Clearance" src="http://lib.store.yahoo.net/lib/rodi/clearanceicon.gif" border="0">Clearance</a></td>
+								<td align="right"><a href="http://www.autobarn.net/tobasp.html"><img alt="Today's BARNBURNER SPECIAL!" src="http://lib.store.yahoo.net/lib/rodi/barnflame.gif" border="0" width="16" height="16"></a></td><td style="padding-right:2px;"><a href="http://www.autobarn.net/tobasp.html" style="text-decoration:none;color:orange;">BarnBurner!</a></td>
+								<td><a href="http://www.autobarn.net/clearance.html" style="text-decoration:none;color:orange;"><img alt="Clearance" src="http://lib.store.yahoo.net/lib/rodi/clearanceicon.gif" border="0" width="16" height="16">Clearance</a></td>
 							</tr>
 							<tr>
-								<td align="right" style="padding-top:5px;"><a href="http://www.autobarn.net/onsalenow.html"><img alt="Sale" src="http://lib.store.yahoo.net/lib/rodi/onsaleicon.gif" border="0"></a></td><td style="padding-top:5px"><a href="http://www.autobarn.net/onsalenow.html" style="text-decoration:none;color:orange;">On Sale</a>
+								<td align="right" style="padding-top:5px;"><a href="http://www.autobarn.net/holiday-gifts.html"><img alt="Gift Guide" src="http://lib.store.yahoo.net/lib/rodi/onsaleicon.gif" border="0" width="16" height="16"></a></td><td style="padding-top:5px"><a href="http://www.autobarn.net/holiday-gifts.html" style="text-decoration:none;color:orange;">Holiday Gift Guide</a>
 								</td>
-								<td style="padding-top:5px;"><a href="http://www.autobarn.com/forums/" style="text-decoration:none;color:#ffe4b5;"><img alt="Forum" src="http://lib.store.yahoo.net/lib/rodi/forumicon.gif" border="0">Forum</a></td>
+								<td style="padding-top:5px;"><a href="http://www.autobarn.com/forums/" style="text-decoration:none;color:#ffe4b5;"><img alt="Forum" src="http://lib.store.yahoo.net/lib/rodi/forumicon.gif" border="0" width="16" height="16">Forum</a><a style="text-decoration: none; color: #ffe4b5">&nbsp;&nbsp;
+                                  </a><a href="http://198.173.64.150/blog/"><img alt="Blog" src="http://lib.store.yahoo.net/lib/rodi/blogger2.gif" border="0" width="16" height="16"></a> <a style="text-decoration: none; color: #ffe4b5" href="http://198.173.64.150/blog/">Blog</a></td>
 							</tr>
 							<tr>
-								<td style="padding-top:5px;" align="right"><a href="http://www.autobarn.net/wholesale.html"><img alt="WholeSale Deals" src="http://lib.store.yahoo.net/lib/rodi/wholesale.gif" border="0"></a></td><td style="padding-top:5px"><a href="http://www.autobarn.net/wholesale.html" style="text-decoration:none;color:orange;">Wholesale Deals</a></td>
-								<td style="padding-right:2px;padding-top:5px;" align="left"><div class="news" onclick="newsShowHide();"><img alt="News" src="http://lib.store.yahoo.net/lib/rodi/news.gif" border="0">New Items!</div><div class="newsDrop" id="newZ"><div>&nbsp;</div><div class="closeButton" onclick="newsShowHide();">close</div><iframe src="http://www.autobarn.com/rss/rss_frame.html" border="0" scrolling="no" frameborder="0" class="newsiFrame">Click <a href="http://www.autobarn.com/rss/">here</a> to see the latest info on our new products!</iframe></div></td>
-							</tr>
+								<td style="padding-top:5px;" align="right"><a href="http://www.autobarn.net/wholesale.html"><img alt="WholeSale Deals" src="http://lib.store.yahoo.net/lib/rodi/wholesale.gif" border="0" width="16" height="16"></a></td><td style="padding-top:5px"><a href="http://www.autobarn.net/wholesale.html" style="text-decoration:none;color:orange;">Wholesale Deals</a></td>
+	<!-- Fadomatic RSS LINK -->							<td style="padding-right:2px;padding-top:5px;" align="left"> <div class="news" onclick="newsShowHide();"> <img alt="News" src="http://lib.store.yahoo.net/lib/rodi/news.gif" border="0" width="16" height="16">New Items!</div><div class="newsDrop" id="newZ"><div>&nbsp;</div><div class="closeButton" onclick="newsShowHide();">close</div><iframe src="http://198.173.64.150/rss/rss_frame.html" border="0" scrolling="no" frameborder="0" class="newsiFrame">Click <a href="http://198.173.64.15/rss/">here</a> to see the latest info on our new products!</iframe></div></td>
+
+<!-- Standard link
+<td style="padding-right:2px;padding-top:5px;" align="left"><div class="news"> <a style="text-decoration: none; color: #ffe4b5" href="http://198.173.64.150/rss/">
+<img alt="News" src="http://lib.store.yahoo.net/lib/rodi/news.gif" border="0" width="16" height="16">New Items!</a></div></td>
+-->							</tr>
 						</tbody></table>
 					</td>
 					<td align="right" bgcolor="#990000" style="padding-left:5px;">
-						<form target="_top" name="webepc" action="http://www.autobarn.com/framepage.php" method="POST"><table cellpadding="0" cellspacing="0" border="0" style="font-size:xx-small;">
+						<form target="_top" name="webepc" action="http://198.173.64.150/the_parts_listing.php" method="GET"><table cellpadding="0" cellspacing="0" border="0" style="font-size:xx-small;">
+
 							<tbody><tr>
-								<td style="color:orange" align="left" valign="bottom" colspan="2"><b>Looking for Car Parts?</b></td>
-								<td rowspan="3" valign="bottom" style="padding-top:25px;" align="right"><img src="http://lib.store.yahoo.net/lib/rodi/curveout-bltr.gif" border="0"></td>
+
+	<td align="left" valign="bottom" width="2" rowspan="3">
+							<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="64" height="65" id="partssmall" align="">
+ <param name="movie" value="http://www.autobarn.com/partsmall.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#990000"> <embed src="http://198.173.64.150/partssmall.swf" quality="high" bgcolor="#990000" width="64" height="65" name="partssmall" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+						
+								</td>		
+							<td style="color:orange" align="left" valign="bottom" colspan="2"><b>Looking for Car Parts?</b></td>
+								<td rowspan="3" valign="bottom" style="padding-top:25px;" align="right"><img src="http://lib.store.yahoo.net/lib/rodi/curveout-bltr.gif" border="0" width="60" height="60"></td>
 							</tr>
 							<tr>
-								<td align="left"><select class="drop" name="SelMake" id="SelMake">
-	<option selected="" value="1|ACURA">ACURA
-	</option><option value="7|AUDI">AUDI
-	</option><option value="12|BMW">BMW
-</option><option value="13|BUICK">BUICK
-</option><option value="14|CADILLAC">CADILLAC
-</option><option value="16|CHEVROLET">CHEVROLET
-</option><option value="17|CHRYSLER">CHRYSLER
-</option><option value="18|CITROEN">CITROEN
-</option><option value="19|DAEWOO">DAEWOO
-</option><option value="23|DODGE">DODGE
-</option><option value="24|EAGLE">EAGLE
+								<td align="left"><select class="drop" name="make" id="make">
+	<option selected="" value="Acura">ACURA
+	</option><option value="Audi">AUDI
+	</option><option value="Bmw">BMW
 
-</option><option value="28|FORD">FORD
-</option><option value="29|GENERAL" motors="">GENERAL MOTORS
-	</option><option value="30|GEO">GEO
-</option><option value="31|GMC">GMC
-	</option><option value="32|HONDA">HONDA
-	</option><option value="33|HYUNDAI">HYUNDAI
-	</option><option value="34|INFINITI">INFINITI
-	</option><option value="36|ISUZU">ISUZU
-</option><option value="37|JAGUAR">JAGUAR
-</option><option value="38|JEEP">JEEP
-	</option><option value="40|KIA">KIA
-</option><option value="45|LAND" rover="">LAND ROVER
-	</option><option value="46|LEXUS">LEXUS
-</option><option value="47|LINCOLN">LINCOLN
-	</option><option value="51|MAZDA">MAZDA
-	</option><option value="52|MERCEDES-BENZ">MERCEDES-BENZ
-</option><option value="53|MERCURY">MERCURY
-	</option><option value="56|MINI">MINI
-	</option><option value="57|MITSUBISHI">MITSUBISHI
-	</option><option value="60|NISSAN/DATSUN">NISSAN/DATSUN
+</option><option value="Buick">BUICK
+</option><option value="Cadillac">CADILLAC
+</option><option value="Chevrolet">CHEVROLET
+</option><option value="Chrysler">CHRYSLER
+</option><option value="Daewoo">DAEWOO
+</option><option value="Dodge">DODGE
+</option><option value="Eagle">EAGLE
 
-</option><option value="61|OLDSMOBILE">OLDSMOBILE
-</option><option value="65|PEUGEOT">PEUGEOT
-</option><option value="66|PLYMOUTH">PLYMOUTH
-</option><option value="67|PONTIAC">PONTIAC
-	</option><option value="68|PORSCHE">PORSCHE
-</option><option value="70|RENAULT">RENAULT
-	</option><option value="73|SAAB">SAAB
-</option><option value="74|SATURN">SATURN
-	</option><option value="78|SUBARU">SUBARU
-	</option><option value="80|SUZUKI">SUZUKI
-	</option><option value="81|TOYOTA">TOYOTA
-	</option><option value="83|VOLKSWAGEN">VOLKSWAGEN
-	</option><option value="84|VOLVO">VOLVO
+</option><option value="Ford">FORD
+	</option><option value="Geo">GEO
+</option><option value="Gmc">GMC
+	</option><option value="Honda">HONDA
+	</option><option value="Hyundai">HYUNDAI
+	</option><option value="Infiniti">INFINITI
+	</option><option value="Isuzu">ISUZU
+</option><option value="Jaguar">JAGUAR
+
+</option><option value="Jeep">JEEP
+	</option><option value="Kia">KIA
+	</option><option value="Lexus">LEXUS
+</option><option value="Lincoln">LINCOLN
+	</option><option value="Mazda">MAZDA
+	</option><option value="Mercedes Benz">MERCEDES-BENZ
+</option><option value="Mercury">MERCURY
+	</option><option value="Mini">MINI
+	</option><option value="Mitsubishi">MITSUBISHI
+	</option><option value="Nissan">NISSAN/DATSUN
+
+</option><option value="Oldsmobile">OLDSMOBILE
+</option><option value="Plymouth">PLYMOUTH
+</option><option value="Pontiac">PONTIAC
+	</option><option value="Porsche">PORSCHE
+	</option><option value="Saab">SAAB
+
+</option><option value="Saturn">SATURN
+</option><option value="Scion">SCION
+	</option><option value="Subaru">SUBARU
+	</option><option value="Toyota">TOYOTA
+	</option><option value="Volkswagen">VOLKSWAGEN
+	</option><option value="Volvo">VOLVO
 </option></select></td><td>
-<select class="drop" name="SelYear" id="SelYear">
-<option selected="" value="2006">2006</option>
+<select class="drop" name="year" id="year">
+<option selected="" value="2007">2007</option>
+<option value="2006">2006</option>
 <option value="2005">2005</option>
 <option value="2004">2004</option>
 <option value="2003">2003</option>
 <option value="2002">2002</option>
+
 <option value="2001">2001</option>
 <option value="2000">2000</option>
 <option value="1999">1999</option>
@@ -490,6 +602,7 @@ else {
 <option value="1996">1996</option>
 <option value="1995">1995</option>
 <option value="1994">1994</option>
+
 <option value="1993">1993</option>
 <option value="1992">1992</option>
 <option value="1991">1991</option>
@@ -499,6 +612,7 @@ else {
 <option value="1988">1988</option>
 <option value="1987">1987</option>
 <option value="1986">1986</option>
+
 <option value="1985">1985</option>
 <option value="1984">1984</option>
 <option value="1983">1983</option>
@@ -508,6 +622,7 @@ else {
 
 <option value="1979">1979</option>
 <option value="1978">1978</option>
+
 <option value="1977">1977</option>
 <option value="1976">1976</option>
 <option value="1975">1975</option>
@@ -517,6 +632,7 @@ else {
 <option value="1971">1971</option>
 
 <option value="1970">1970</option>
+
 <option value="1969">1969</option>
 <option value="1968">1968</option>
 <option value="1967">1967</option>
@@ -531,32 +647,190 @@ else {
 </select></td>
 </tr>
 <tr>
-<td align="left" valign="top"><select class="drop" name="SelGroup" id="SelGroup">
-<option value=" 1	|Ignition/Filters">Ignition/Filters                        	
-</option><option value=" 2	|Belts/Hoses/Cooling">Belts/Hoses/Cooling
-</option><option value=" 3	|Electrical">Electrical
-</option><option value=" 4	|Brake/Wheel Bearing">Brake/Wheel Bearing
-</option><option value=" 5	|Fuel/Emissions">Fuel/Emissions
-</option><option value=" 6	|Heating/AC">Heating/AC
-</option><option value=" 7	|Engine Parts">Engine Parts
+<td align="left" valign="top"><select class="drop" name="category" id="category">
+<option value="AC Clutch">AC Clutch
+</option><option value="AC Clutch Solenoid">AC Clutch Solenoid
+</option><option value="AC Compressor">AC Compressor
+</option><option value="AC Condenser">AC Condenser
+</option><option value="AC Relay">AC Relay
+</option><option value="ACC Cabin Filter">ACC Cabin Filter
+</option><option value="Air Box and Plenum">Air Box and Plenum
+</option><option value="Air Filter">Air Filter
+</option><option value="Air Meter and Valve">Air Meter and Valve
+</option><option value="Air Pump">Air Pump
+</option><option value="Alternator">Alternator
+</option><option value="Antenna">Antenna
+</option><option value="Anti Lock Braking System">Anti Lock Braking System
+</option><option value="Anti Rattle Spring">Anti Rattle Spring
+</option><option value="Auxiliary Fan Assembly">Auxiliary Fan Assembly
+</option><option value="Auxiliary Fan Motor">Auxiliary Fan Motor
+</option><option value="Auxiliary Fan Switch">Auxiliary Fan Switch
+</option><option value="Axle Assembly">Axle Assembly
+</option><option value="Axle Nut">Axle Nut
+</option><option value="Ball Joint">Ball Joint
+</option><option value="Battery">Battery
+</option><option value="Blower Motor">Blower Motor
+</option><option value="Body Hardware">Body Hardware
+</option><option value="Booster Vacuum Hose">Booster Vacuum Hose
+</option><option value="Brake Booster">Brake Booster
+</option><option value="Brake Caliper">Brake Caliper
+</option><option value="Brake Disc">Brake Rotor
+</option><option value="Brake Drum">Brake Drum
+</option><option value="Brake Hose">Brake Hose
+</option><option value="Brake Master Cylinder">Brake Master Cylinder
+</option><option value="Brake Pad Set">Brake Pad Set
+</option><option value="Brake Pedal Pad">Brake Pedal Pad
+</option><option value="Brake Pedal Stop Pad">Brake Pedal Stop Pad
+</option><option value="Brake Shoe Set">Brake Shoe Set
+</option><option value="Bumper">Bumper
+</option><option value="Bypass Hose">Bypass Hose
+</option><option value="Camshaft Position Sensor">Camshaft Position Sensor
+</option><option value="Camshaft Seal">Camshaft Seal
+</option><option value="Carburetor">Carburetor
+</option><option value="Catalytic Converter">Catalytic Converter
+</option><option value="Clutch Disc">Clutch Disc
+</option><option value="Clutch Hose">Clutch Hose
+</option><option value="Clutch Kit">Clutch Kit
+</option><option value="Clutch Master Cylinder">Clutch Master Cylinder
+</option><option value="Clutch Pedal Pad">Clutch Pedal Pad
+</option><option value="Clutch Slave Cylinder">Clutch Slave Cylinder
+</option><option value="Control Arm">Control Arm
+</option><option value="Control Arm Bushing">Control Arm Bushing
+</option><option value="Crankcase">Crankcase
+</option><option value="Crankcase Gasket Set">Crankcase Gasket Set
+</option><option value="Crankshaft Pulley">Crankshaft Pulley
+</option><option value="Crankshaft Seal">Crankshaft Seal
+</option><option value="Cruise Control">Cruise Control
+</option><option value="CV Boot Clamp">CV Boot Clamp
+</option><option value="CV Boot Clamp Kit">CV Boot Clamp Kit
+</option><option value="CV Boot Kit">CV Boot Kit
+</option><option value="Cylinder Head">Cylinder Head
+</option><option value="Cylinder Head Gasket">Cylinder Head Gasket
+</option><option value="Cylinder Head Gasket Set">Cylinder Head Gasket Set
+</option><option value="Diesel Injection">Diesel Injection
+</option><option value="Diesel Injection Pump">Diesel Injection Pump
+</option><option value="Diesel Vacuum Pump">Diesel Vacuum Pump
+</option><option value="Differential">Differential
+</option><option value="Door and Window Part">Door and Window Part
+</option><option value="Drive Axle Seal">Drive Axle Seal
+</option><option value="Driveshaft">Driveshaft
+</option><option value="EGR System">EGR System
+</option><option value="Engine Mount">Engine Mount
+</option><option value="Exhaust Bolt">Exhaust Bolt
+</option><option value="Exhaust Flange Gasket">Exhaust Flange Gasket
+</option><option value="Exhaust Gasket">Exhaust Gasket
+</option><option value="Exhaust Manifold">Exhaust Manifold
+</option><option value="Exhaust Manifold Gasket">Exhaust Manifold Gasket
+</option><option value="Exhaust Pipe">Exhaust Pipe
+</option><option value="Exterior Trim">Exterior Trim
+</option><option value="Flasher Relay">Flasher Relay
+</option><option value="Flywheel">Flywheel
+</option><option value="Fog Light Relay">Fog Light Relay
+</option><option value="Front Panel">Front Panel
+</option><option value="Fuel Accumulator">Fuel Accumulator
+</option><option value="Fuel Line">Fuel Line
+</option><option value="Fuel Pump">Fuel Pump
+</option><option value="Fuel Pump Relay">Fuel Pump Relay
+</option><option value="Fuel Screen">Fuel Screen
+</option><option value="Fuel Tank Cap">Fuel Tank Cap
+</option><option value="Header Pipe">Header Pipe
+</option><option value="Headlight Bulb">Headlight Bulb
+</option><option value="Heater Core">Heater Core
+</option><option value="Heater Hose">Heater Hose
+</option><option value="Heater Valve">Heater Valve
+</option><option value="Hood and Trunk">Hood and Trunk
+</option><option value="Horn">Horn
+</option><option value="Ignition Coil">Ignition Coil
+</option><option value="Ignition Control Unit">Ignition Control Unit
+</option><option value="Ignition Distributor">Ignition Distributor
+</option><option value="Ignition Lock Assembly">Ignition Lock Assembly
+</option><option value="Ignition Switch">Ignition Switch
+</option><option value="Interior Trim">Interior Trim
+</option><option value="Light Bulb">Light Bulb
+</option><option value="Lighting - Side and Rear">Lighting - Side and Rear
+</option><option value="Lug Nut">Lug Nut
+</option><option value="Muffler">Muffler
+</option><option value="Multi Rib Belt">Multi Rib Belt
+</option><option value="Nuts and Bolts">Nuts and Bolts
+</option><option value="Oil Drain Plug">Oil Drain Plug
+</option><option value="Oil Drain Plug Gasket">Oil Drain Plug Gasket
+</option><option value="Oil Filter">Oil Filter
+</option><option value="Oil Pan">Oil Pan
+</option><option value="Oil Pan Gasket">Oil Pan Gasket
+</option><option value="Oil Pressure Sender">Oil Pressure Sender
+</option><option value="Parking Brake Cable">Parking Brake Cable
+</option><option value="PCV Valve">PCV Valve
+</option><option value="Power Steering Hose">Power Steering Hose
+</option><option value="Power Steering Pump">Power Steering Pump
+</option><option value="Pressure Plate">Pressure Plate
+</option><option value="Radiator">Radiator
+</option><option value="Radiator Cap">Radiator Cap
+</option><option value="Radiator Drain Plug">Radiator Drain Plug
+</option><option value="Radiator Drain Plug Gasket">Radiator Drain Plug Gasket
+</option><option value="Radiator Hose">Radiator Hose
+</option><option value="Rel. Brg. Retain. Spring">Rel. Brg. Retain. Spring
+</option><option value="Relay">Relay
+</option><option value="Release Bearing">Release Bearing
+</option><option value="Rocker Panel">Rocker Panel
+</option><option value="Self Leveling Suspension">Self Leveling Suspension
+</option><option value="Shock Absorber">Shock Absorber
+</option><option value="Shock Bushing">Shock Bushing
+</option><option value="Shock Mounting Kit">Shock Mounting Kit
+</option><option value="Short Ram Intake">Short Ram Intake
+</option><option value="Spark Plug">Spark Plug
+</option><option value="Spark Plug Seal">Spark Plug Seal
+</option><option value="Spindle and Housing">Spindle and Housing
+</option><option value="Starter">Starter
+</option><option value="Steering Damper">Steering Damper
+</option><option value="Steering Rack">Steering Rack
+</option><option value="Steering Rack Boot Kit">Steering Rack Boot Kit
+</option><option value="Stop Light Switch">Stop Light Switch
+</option><option value="Strut Assembly">Strut Assembly
+</option><option value="Strut Bearing">Strut Bearing
+</option><option value="Strut Insert">Strut Insert
+</option><option value="Sunroof/Convertible Top">Sunroof/Convertible Top
+</option><option value="Suspension Kit">Suspension Kit
+</option><option value="Suspension Knuckle Assy">Suspension Knuckle Assy
+</option><option value="Sway Bar Link">Sway Bar Link
+</option><option value="Tail Pipe">Tail Pipe
+</option><option value="T-Belt Tensioner Spring">T-Belt Tensioner Spring
+</option><option value="Thermostat">Thermostat
+</option><option value="Thermostat Gasket">Thermostat Gasket
+</option><option value="Thermostat Housing Cover">Thermostat Housing Cover
+</option><option value="Thermostat Housing Gskt.">Thermostat Housing Gskt.
+</option><option value="Tie Rod End">Tie Rod End
+</option><option value="Timing Belt">Timing Belt
+</option><option value="Timing Belt Kit">Timing Belt Kit
+</option><option value="Timing Belt Tensioner">Timing Belt Tensioner
+</option><option value="Timing Cover Gasket">Timing Cover Gasket
+</option><option value="Trailing Arm Bushing">Trailing Arm Bushing
+</option><option value="Transmission Mount">Transmission Mount
+</option><option value="Turbocharger">Turbocharger
+</option><option value="Valve Cover Gasket">Valve Cover Gasket
+</option><option value="Valve Cover Gasket Set">Valve Cover Gasket Set
+</option><option value="Valve Cover Seal Washer">Valve Cover Seal Washer
+</option><option value="Valve Stem Seal">Valve Stem Seal
+</option><option value="Water Pump">Water Pump
+</option><option value="Water Pump Gasket">Water Pump Gasket
+</option><option value="Weatherstrip and Seal">Weatherstrip and Seal
+</option><option value="Wheel Bearing">Wheel Bearing
+</option><option value="Wheel Cylinder">Wheel Cylinder
+</option><option value="Wheel Hub Assembly">Wheel Hub Assembly
+</option><option value="Wiper Blade">Wiper Blade
+</option><option value="Wiring Harness">Wiring Harness
 
-</option><option value=" 8	|Drivetrain">Drivetrain
-</option><option value=" 9	|Steering/Suspension">Steering/Suspension
-</option><option value="10	|Exhaust/Clutch">Exhaust/Clutch
-</option><option value="11	|Wipers/Lamps/Fuses">Wipers/Lamps/Fuses
-</option><option value="12	|Body/Cable/Misc">Body/Cable/Misc
-</option><option value="13	|Chemicals/Waxes/Lube">Chemicals/Waxes/Lube
-</option><option value="14	|Tires/Accessories">Tires/Accessories
+
+
 </option></select></td><td valign="top" align="right"><span style="cursor:pointer; font-family:arial; font-size:xx-small; border:1px solid orange; background-color:tomato;color:white; width:35px;text-align:center;" onclick="submit_search()">Go!</span></td>
 								</tr>
-							</tbody></table><input type="hidden" name="SelSearchFor" maxlength="20" size="15"><input type="hidden" name="SearchType" value="Models"><input type="hidden" name="MidWebEPC" value="Y"><input type="hidden" name="Client" value="autobarn"><input type="hidden" name="SearchFor" value=""><input type="hidden" name="SelEngine" value=""><input type="hidden" name="CompVeh" value=""><input type="hidden" name="cartID" value=""><input type="hidden" name="multiGroups" value=""><input type="hidden" name="PartTypeDesc" value=""><input type="hidden" name="GPartTypeDesc" value=""><input type="hidden" name="count" value="0">
+							</tbody></table>
 <input type="hidden" name="DoNext" value=""></form>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-</tbody></table><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curve-bltr.gif" border="0"></td><td><a href="index.html"><img src="http://us.st11.yimg.com/us.st.yimg.com/I/rodi_1901_2451693" width="1" height="1" border="0" hspace="0" vspace="0"></a><br><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr valign="top"><td><font size="2" face="arial, helvetica"><br><br><br><font face="Arial" size="4" color="#FF0000"><b>AutoBarn.com Privacy Policy</b></font><br><br><table>
+    </tbody></table><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curve-bltr.gif" border="0"></td><td><a href="index.html"><img src="http://us.st11.yimg.com/us.st.yimg.com/I/rodi_1925_695110" width="1" height="1" border="0" hspace="0" vspace="0"></a><br><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr valign="top"><td><font size="2" face="arial, helvetica"><br><br><br><font face="Arial" size="4" color="#FF0000"><b>AutoBarn.com Privacy Policy</b></font><br><br><table>
   <tbody><tr>
     <td valign="top"><font face="Arial,Helvetica,Geneva,Swiss," size="2"><b>We
       are committed to maintaining your privacy.</b><br>
@@ -851,7 +1125,38 @@ else {
       </table>
     </td>
   </tr>
-</tbody></table><br><br><i>This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the <a href="http://privacy.yahoo.com/privacy/us/">Yahoo! Privacy Policy</a> for more information about how Yahoo! uses this information.</i><br><br></font></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign="bottom" colspan="10"><br><br>
+</tbody></table><br><br><i>This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the <a href="http://privacy.yahoo.com/privacy/us/">Yahoo! Privacy Policy</a> for more information about how Yahoo! uses this information.</i><br><br></font></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign="bottom" colspan="10"><script language="JavaScript">
+			function displayinfo(CompanyID){
+			var form = window.document.associate_members_results
+			form.CompanyID.value = CompanyID
+			form.submit()
+			}// function displayinfo(CompanyID)
+
+</script>
+
+
+
+<form id="associate_members_results" name="associate_members_results" method="post" action="http://www.aftermarket.org/Information/Directories/associate_members_detail.asp" target="_blank">
+		<input type="HIDDEN" name="CompanyID" value="">
+		<input type="HIDDEN" name="strWhere" value="WHERE [Company Name] Like '%rodi%'">
+	 </form> 
+<br><br>
+<div align="center">
+  <center>
+      </center><table border="0" width="100%">
+    <tbody><tr>
+      <td width="50%">
+        <p align="right">Extended Holiday <br>Sales and Support Hours<br>
+       Monday - Friday: 8:00AM - 8:00PM<br>
+Saturday: 10:00AM - 3:00PM<br>
+Sunday: 12:00PM - 6:00PM<br>
+        &nbsp;<b>CALL TOLL FREE:<br>
+        1-888-484-9560</b></p></td>
+      <td width="50%"><a href="http://www.autobarn.net/info.html"><img src="http://lib.store.yahoo.net/lib/rodi/50tthanniv.gif" border="0" width="200" height="111"></a></td>
+      </tr>
+    </tbody></table>
+  
+</div>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 	<tbody><tr>
 		<td colspan="3" align="center" width="100%">
@@ -860,13 +1165,13 @@ else {
 					<td><a onclick="window.open('http://hc2.humanclick.com/hc/50255095/?cmd=file&amp;file=visitorWantsToChat&amp;site=50255095','chat50255095','width=500,height=320');return false;" href="http://hc2.humanclick.com/hc/50255095/?cmd=file&amp;file=visitorWantsToChat&amp;site=50255095&amp;byhref=1" target="chat50255095"><img src="http://hc2.humanclick.com/hc/50255095/?cmd=repstate&amp;site=50255095&amp;category=en;general;set-c&amp;ver=1" border="0" name="hcIcon"></a></td>
 					<td><a href="http://lib.store.yahoo.net/lib/rodi/buyerprotection.html" target="_blank"><img border="0" src="http://lib.store.yahoo.net/lib/rodi/images.buyerprotectionnew.jpg" width="175" height="55"></a></td>
 					<td><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--25755.html" target="bizrate.com"><img src="http://medals.bizrate.com/medals/dynamic/25755_medal.gif" alt="BizRate Customer Certified (GOLD) Site" align="top" border="0" target="_blank" width="125" height="73"></a></td>
-					<td><a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.autobarn.net"><img border="0" src="http://images.scanalert.com/meter/www.autobarn.net/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" width="94" height="54"></a></td>
+					<td><a href="javascript:displayinfo(1003425)"><img border="0" src="http://lib.store.yahoo.net/lib/rodi/proudmembers.jpg" width="200"></a></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 	<tr>
-		<td valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curve-brtl.gif"></td>
+		<td valign="bottom"><img src="http://lib.store.yahoo.net/lib/rodi/curve-brtl.gif" width="60" height="60"></td>
 		<td style="font-face:verdana;font-weight:bolder;text-align:center;"><a href="http://www.autobarn.net/topratedstore.html"><img src="http://lib.store.yahoo.net/lib/rodi/5star.gif" align="absMiddle" border="0" width="64" height="18"><br>Click here to see what our customers are saying about us!</a></td>
 		<td>&nbsp;</td>
 	</tr>
@@ -884,7 +1189,7 @@ else {
 				</tr>
 				<tr>
 					<td><a style="color:white;" href="http://www.autobarn.com/employme.htm">Employment</a></td>
-					<td><a href="http://www.autobarn.com/rss/rss.xml" style="text-decoration:none;color:orange;"><img type="application/rss+xml" alt="XML/RSS 2.0" src="http://lib.store.yahoo.net/lib/rodi/rss.gif" border="0"></a></td>
+					<td><a href="http://198.173.64.150/rss/rss.xml" style="text-decoration:none;color:orange;"><img type="application/rss+xml" alt="XML/RSS 2.0" src="http://lib.store.yahoo.net/lib/rodi/rss.gif" border="0" width="80" height="15"></a></td>
 					<td><a style="color:white;" href="http://www.autobarn.com/links.htm">Links</a></td>
 					<td><a style="color:white;" href="http://www.autobarnparts.com">Parts</a></td>
 					<td><a style="color:white;" href="http://www.autobarndeals.com/">Deals</a></td>
@@ -892,13 +1197,13 @@ else {
 				</tr>
 			</tbody></table>
 		</td>
-		<td bgcolor="#990000" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curveout-tlbr.gif"></td>
+		<td bgcolor="#990000" align="right" valign="top"><img src="http://lib.store.yahoo.net/lib/rodi/curveout-tlbr.gif" width="60" height="60"></td>
 	</tr>
 </tbody></table></td><td width="5%">&nbsp;</td></tr></tbody></table>
 <script language="javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=448a4ee9&catalog=rodi&r=" + escape(document.referrer) + "&v=1"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4574e947&catalog=rodi&r=" + escape(document.referrer) + "&v=1"; }
  // --> 
  </script></body></html>
