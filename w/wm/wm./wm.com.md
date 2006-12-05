@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wm.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618180016id_/http%3A//www.wm.com/wm/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wm.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202001id_/http%3A//www.wm.com/wm/privacy.asp) for the most accurate reproduction.*
 
 # Waste Management Privacy Statement
 
@@ -41,8 +41,6 @@ If you have questions about this Privacy Policy you may contact:
 Waste Management Corporate Headquarters   
 1001 Fannin St., Suite 4000  
 Houston, Texas 77002  
-(713) 265-6200
-
-or email us at: [webmaster@wm.com](mailto:webmaster@wm.com)
+(713) 512-6200
 
 Revised: June 1, 2006
