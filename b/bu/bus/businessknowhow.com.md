@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613050219id_/http%3A//businessknowhow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205800id_/http%3A//businessknowhow.com/privacy.htm) for the most accurate reproduction.*
 
 # Business Know-How Privacy Statement
 
@@ -8,7 +8,7 @@
 All information collected at this site and at any site run by Attard Communications, Inc. will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise used in ways that you have not consented to.
 
 **Personal Information**  
-Attard Communications, Inc. does not sell, rent, loan, trade, or lease any private personal information collected at our site, including membership forms, urveys or email lists. 
+Attard Communications, Inc. does not sell, rent, loan, trade, or lease any private personal information collected at our site, including membership forms, surveys or email lists. 
 
 **Browser information collected on the website**  
 Attard Communications, Inc. analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
