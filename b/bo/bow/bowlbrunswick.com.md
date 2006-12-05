@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616192630id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201943id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - Brunswick Bowling
 
@@ -124,7 +124,7 @@ We are the sole owner of the information collected through the sites. We will no
 
 This privacy policy addresses some types of information, means of collecting information, and uses of information that may not presently apply to one or more of the sites.  We tell you about these types of information, means of collecting information, and uses of information anyway because we want to maintain flexibility in offering additional features without having to revisit our terms and conditions or privacy policy every time we revise a site or offer new functions.  No description of any type of information, means of collecting information, or use of information will require us to collect any particular information, make any particular use of any information, or offer any particular functionality through any site.
 
-Brunswick takes its obligations to your privacy seriously. By completing and submitting web forms on this site or other sites covered by this privacy policy, you consent and authorize Brunswick to collect and disclose this information to its affiliates, dealers, and marketing agencies in order to better maintain its relationship with you, determine your needs, and to contact you regarding offers, programs, discounts, and surveys. Brunswick will not sell, share or rent this information to others except to our designated agents and strictly for our communication to you. If you choose to access, revise, or remove your personal information from Brunswick's database, located at Third Wave Research, 131 W. Wilson St., Ste. M102, Madison, WI 53703, please call the Brunswick Privacy Liaison, at (847)735-4700 or e-mail privacy@brunbowl.com
+Brunswick takes its obligations to your privacy seriously. By completing and submitting web forms on this site or other sites covered by this privacy policy, you consent and authorize Brunswick to collect and disclose this information to its affiliates, dealers, and marketing agencies in order to better maintain its relationship with you, determine your needs, and to contact you regarding offers, programs, discounts, and surveys. Brunswick will not sell, share or rent this information to others except to our designated agents and strictly for our communication to you. If you choose to access, revise, or remove your personal information from Brunswick's database, located at Third Wave Research, 131 W. Wilson St., Ste. M102, Madison, WI 53703, please call the Brunswick Privacy Liaison, at (847)735-4700 or e-mail [privacy@brunbowl.com](mailto:privacy@brunbowl.com)
 
 **COPPA Privacy Policy**
 
@@ -138,7 +138,7 @@ Brunswick Bowling & Billiards Corporation
 Lake Forest, IL 60045   
 Phone: (847) 735-4700   
 Fax: (847) 735-4929   
-privacy@brunbowl.com   
+[privacy@brunbowl.com](mailto:privacy@brunbowl.com)   
 
 
 This site may collect information both directly from a COPPA Covered Person or passively through cookies and similar devices. Detailed information regarding cookies may be found in the General Privacy Policy. The collected information may be used to fulfill a requested transaction, keep records, and/or market back to the COPPA Covered Person. In particular, we use the collected information to conduct a birthday party program and to mail birthday party reminders and promotional materials to parents of children who may be interested in hosting birthday parties at our bowling centers. The following kinds of information may be collected: parent's name; child's name; parent's address, telephone number and e-mail address; age, birthday and gender of child; and any other information that is reasonably necessary for this program. The operators do not disclose collected information about COPPA Covered Persons to third parties except as necessary to actually operate the site(s). Further, the site(s) do not offer activities that allow the child or the site to disclose the child’s personal information publicly—for example, through chat rooms, message boards or e-mail accounts. 
@@ -159,7 +159,7 @@ Brunswick Bowling & Billiards Corporation
 Lake Forest, IL 60045   
 Phone: (847) 735-4700   
 Fax: (847) 735-4929   
-privacy@brunbowl.com 
+[privacy@brunbowl.com](mailto:privacy@brunbowl.com)
 
 A direct notice to parents containing the information included on this site will be sent by e-mail or postal mail. The direct notice will further notify the parent that we wish to collect personal information from his or her COPPA Covered Person; that the parent’s consent is required for the collection, use, and disclosure of the information; and that the parent can provide consent by any of the following methods: E-mail; manually-signed postal mail or facsimile; or e-mail accompanied by digital signature. If consent is provided by e-mail without digital signature, the operator will seek confirmation from a parent in a delayed confirmatory e-mail, by letter, or phone call. If there are material changes in the collection, use, or disclosure practices to which a parent has previously consented, the operators will send a new notice and request for consent to the parent.
 
@@ -239,7 +239,7 @@ Users who no longer wish to receive newsletters or promotional materials or have
 
 In most cases, it is impractical for use to stop any other party to whom we have supplied your information from continuing to use the information and opting out will usually not stop other to whom we have provided your information from continuing to use it.
 
-To change your preference with regard to the way your information is treated, visit the appropriate area of the website.
+To change your preference with regard to the way your information is treated, visit the appropriate area of the website or e-mail the Privacy Liaison [privacy@brunbowl.com](mailto:privacy@brunbowl.com).
 
 **Response Times**
 
@@ -269,7 +269,7 @@ Brunswick Corporation
 Lake Forest, IL 60045   
 Phone: (847) 735-4700   
 Fax: (847) 735-4765   
-**[privacy@brunbowl.com]**
+**[[privacy@brunbowl.com]](mailto:privacy@brunbowl.com)**
 
 If you (a) wish to begin or end receipt of newsletters or promotional information (b) wish to update your user information, or (c) wish to opt in or out of any other service offered through the site, please contact our technical personnel using the following information. Please be sure to include your name and your user name (if applicable), but do not include any information regarding your password(s), if any.
 
@@ -279,6 +279,6 @@ Brunswick Corporation
 Lake Forest, IL 60045   
 Phone: (847) 735-4700   
 Fax: (847) 735-4765   
-**[webmaster@brunbowl.com]**
+**[[webmaster@brunbowl.com]](mailto:webmaster@brunbowl.com)**
 
-Last Modified 5/31/2006     Effective 10-6-2005
+Last Modified 8/16/2006     Effective 10-6-2005
