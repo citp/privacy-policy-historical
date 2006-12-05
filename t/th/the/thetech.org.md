@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012719id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194808id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
 
 # The Tech Museum of Innovation | About Us | Privacy Policy
 
