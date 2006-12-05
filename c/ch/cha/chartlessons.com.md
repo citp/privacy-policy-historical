@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chartlessons.com privacy policy that was archived on 2006-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060409115741id_/http%3A//chartlessons.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartlessons.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235652id_/http%3A//chartlessons.com/pp.html) for the most accurate reproduction.*
 
 # Privacy
 
-[Home](https://web.archive.org/web/20060409115741id_/http%3A//chartlessons.com/index.html)
+[Home](https://web.archive.org/web/20061205235652id_/http%3A//chartlessons.com/index.html)
 
 **PRIVACY POLICY/RISK DISCLOSURE STATEMENT **
 
