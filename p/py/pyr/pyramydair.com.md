@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616054600id_/http%3A//pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221430id_/http%3A//pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -8,11 +8,11 @@ Join the Pyramyd Air mailing list. Stay ahead of **air gun news, articles,** and
 
 |  **Enter your e-mail** :  
   
-News & Promotions  
-Airgun Tips and Tricks  
 |   
   
+  
 ---|---  
+We will NOT sell your email address to anybody!  
   
   
   
