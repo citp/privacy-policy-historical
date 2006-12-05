@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518145901id_/http%3A//www.edvisors.com/cgi/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221614id_/http%3A//www.edvisors.com/cgi/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Online Education Directory: Privacy
 
