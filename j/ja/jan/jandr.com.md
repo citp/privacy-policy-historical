@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202735id_/http%3A//www.jr.com/templates/information/privacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205093821id_/http%3A//www.jr.com/templates/information/privacy.tem) for the most accurate reproduction.*
 
 # JR.com: PRIVACY AND SECURITY
 
-General Information
+**General Information**
 
-Shopping Help
+**Shopping Help**
 
 | 
 
