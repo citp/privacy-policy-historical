@@ -1,74 +1,80 @@
-<!--The following is the downloaded HTML source of the bittorrent.com privacy policy that was archived on 2006-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060522234215id_/http%3A//bittorrent.com/privacy.myt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bittorrent.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205191632id_/http%3A//www.bittorrent.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Download the official BitTorrent peer to peer client; search for, find and download torrents; learn how BitTorrent works; read BitTorrent's FAQ, documentation, and online help; download BitTorrent open source code.">
-<meta name="keywords" content="BitTorrent, BitTorrent.com, BitTorrent.org, Bit Torrent, Search, Download, Torrents, Movies, Videos, TV Shows, Clips, Video Games, Games, Music, Anime, Linux, Software">
-<link rel="SHORTCUT ICON" href="favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="BitTorrent is a peer-assisted digital content delivery platform that enables users to easily publish and download movies, music, games and other entertainment media" />
+<meta name="keywords" content="download, p2p, bittorrent, torrent, movies, tv, video, music, podcasts, comedy, animation, anime, film, indie, software, shareware" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.bittorrent.com/img/BitTorrent-IE7-osd.xml" title="BitTorrent" />
 <title>
 BitTorrent
 </title>
 <style type="text/css" media="screen">
-@import url("css/global.css");
-@import url("css/results.css");
+@import url("/css/main.css");
+@import url("/css/utils.css");
+@import url("/css/results.css");
+@import url("/css/layouta.css");
 </style>
-<script type="text/javascript" src="./js/platform.js"></script>
-<script type="text/javascript" src="./js/prototype.lite.js"></script>
-<script type="text/javascript" src="./js/moo.fx.js"></script>
-<script type="text/javascript" src="./js/moo.fx.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/platform.js"></script>
+<script language="javascript" type="text/javascript" src="/js/token.js"></script>
 <script language="javascript" type="text/javascript">
 /*<![CDATA[*/
+function addLoadEvent(func) {
+var oldonload = window.onload;
+if (typeof window.onload != 'function') {
+window.onload = func;
+} else {
+window.onload = function() {
+if (oldonload) {
+oldonload();
+}
+func();
+}
+}
+}
+addLoadEvent(platformSniffer);
+addLoadEvent(function() {
+tokenize(0);
+});
 /*]]>*/
 </script>
 <style type="text/css">
-#win {display:none;}
+#win {display:inline;}
 #mac {display:none;}
 #other {display:none;}
-#win_not_on {display:none;}
+#win_not_on {display:inline;}
 #mac_not_on {display:none;}
 #other_not_on {display:none;}
 </style>
-<style type="text/css">
-#win {display:block;}
-#mac {display:block;}
-#other {display:block;}
-</style>
 </head>
-<body onload="platformSniffer();">
-<div id="hdr" class="a">
-<div id="hdrCt" class="b">
-<div id="logo">
-<a href="./">
-<img src="img/global/logo.gif" alt="BitTorrent" width="189" height="43">
-</a>
+<body>
+<div id="header">
+<div id="logoLinkTarget"><a href="http://www.bittorrent.com/"><img src="/img//global/spacer.gif" width="300" height="60" alt="" /></a></div>
+<div class="navutil">
+<a href="https://www.bittorrent.com/login.html">My Torrents</a> |
+<a href="https://www.bittorrent.com/login.html">Log in</a> |
+<a href="https://www.bittorrent.com/signup.html">Sign up</a>
 </div>
-<div id="util">
-<ul class="nav">
-<li class="f"><a href="./documentation.myt">Help</a></li>
-</ul>
-</div>
-<div id="gloNav">
-<ul class="nav">
-<li><a href="index.myt">Home</a></li><li><a href="submit.myt">Submit a Torrent</a></li><li><a href="donate.myt">Donate</a></li><li><a href="download.myt">Download BitTorrent</a></li>
-</ul>
+<div class="navglobal">
+<a href="http://www.bittorrent.com/">Home</a>
+<a href="http://www.bittorrent.com/publish.html">Publish</a>
+<a href="http://www.bittorrent.com/download.html">Get BitTorrent</a>
+<a href="http://www.bittorrent.com/companyoverview.html">About Us</a>
+<a href="http://support.bittorrent.com/cgi-bin/bittorrent.cfg/php/enduser/std_alp.php">Help</a>
 </div>
 </div>
-</div>
-
- <div id="search" class="a">
-<div id="searchCt" class="b">
-<form action="search_result.myt">
-<label for="searchBox" class="access">Search for:</label>
-<input type="text" id="searchBox" name="search" value="">
-<input type="image" class="btn" src="./img/global/search_btn.png" alt="Search">
+<div id="container">
+<div class="search">
+<form action="/search_result.html" class="srchbar">
+<input type="text" name="search" value="" class="gSearchInput" />
+<input type="submit" value="Search" class="gSearchButton" />
 </form>
 </div>
-</div>
-<div id="main" class="a">
-<div id="mainCt" class="b">
-<div class="leftCol">
-<h2 id="results"><em>Privacy Policy</em></h2>
+<div id="wrapper">
+<div id="content-main">
+<h2 class="listtitle"><em>Privacy Policy</em></h2>
 <div class="terms">
 <p>
 BitTorrent.com, and the other websites and intellectual property and proprietary information associated therewith (the "Sites"), and the various services provided through the Sites (the "Services"), are owned and operated by BitTorrent, Inc., its affiliates and subsidiaries ("we" "us" or "BitTorrent"). BitTorrent is committed to respecting the privacy rights and concerns of all users of our Sites and Services (we refer to the Sites and Services collectively as the "BitTorrent Features"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
@@ -76,16 +82,16 @@ BitTorrent.com, and the other websites and intellectual property and proprietary
 <h3>What information does BitTorrent collect and how does BitTorrent use it?</h3>
 <ul>
 <li>
-Gathering and Use of Anonymous Information<br><br>
-Each time a visitor comes to a Site, we collect some limited information that your browser makes available whenever you visit a website to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.<br><br>
-In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Sites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.<br><br>
+Gathering and Use of Anonymous Information<br /><br />
+Each time a visitor comes to a Site, we collect some limited information that your browser makes available whenever you visit a website to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.<br /><br />
+In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Sites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.<br /><br />
 In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions.
 </li>
 <li>
-Gathering and Use of Personally Identifiable Information<br><br>
-You may visit the BitTorrent Features without any registration at all. However, from time to time, we may enable certain additional functionality to the BitTorrent Features, whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests) from time to time. Your user name and password will be used so you can securely access and maintain your account. BitTorrent may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to its members and visitors improved content and features.<br><br>
-We may use the information we collect to tailor your experience through the BitTorrent Features by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us, sending you information about us and promotional material from some of our partners, and allowing us to contact you, if necessary.<br><br>
-By registering for the BitTorrent Features, when applicable, you agree to receive e-mails from us from time to time. We may use the information we collect to occasionally notify you about important functionality changes to the BitTorrent Features, new products and services available through the BitTorrent Features, and special offers we think you'll find valuable.<br><br>
+Gathering and Use of Personally Identifiable Information<br /><br />
+You may visit the BitTorrent Features without any registration at all. However, from time to time, we may enable certain additional functionality to the BitTorrent Features, whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests) from time to time. Your user name and password will be used so you can securely access and maintain your account. BitTorrent may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to its members and visitors improved content and features.<br /><br />
+We may use the information we collect to tailor your experience through the BitTorrent Features by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us, sending you information about us and promotional material from some of our partners, and allowing us to contact you, if necessary.<br /><br />
+By registering for the BitTorrent Features, when applicable, you agree to receive e-mails from us from time to time. We may use the information we collect to occasionally notify you about important functionality changes to the BitTorrent Features, new products and services available through the BitTorrent Features, and special offers we think you'll find valuable.<br /><br />
 Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
 </li>
 </ul>
@@ -125,7 +131,8 @@ By visiting the Site or using the Services, you consent to the collection and us
 <p>
 If you have any questions about our privacy practices, please do not hesitate to contact:
 </p>
-<pre>BitTorrent, Inc.
+<pre>
+BitTorrent, Inc.
 201 Mission St. Suite 900
 San Francisco, California 94105
 </pre>
@@ -135,51 +142,39 @@ Please also read the Terms of Service establishing the use, disclaimers, and lim
 </p>
 </div>
 </div>
-<div class="rightCol">
- <div class="side_outer first">
-<div class="side_inner">
-<h3>Add BitTorrent™ Search to Your Site</h3>
-<p>You can put a BitTorrent search box on your site with this simple code snippet.</p>
-<a href="./widget.myt" class="dload">Download the code here</a>
+<div id="content-side">
 </div>
+<div class="clearfix"></div>
 </div>
-<div class="side_outer">
-<div class="side_inner">
-<h3>Get BitTorrent™</h3>
-<p>
-Our client helps you find and download cool stuff to watch, hear, and enjoy.
-</p>
-<div id="win" style="display: none;">
-<a href="http://download.bittorrent.com/dl/BitTorrent-Stable.exe" class="dload">Download BitTorrent for Windows</a> <br>
+<div class="searchFoot">
+<form action="/search_result.html" class="srchbar">
+<input type="text" name="search" value="" class="gSearchInput" />
+<input type="submit" value="Search" class="gSearchButton" />
+</form>
 </div>
-<div id="mac" style="display: none;">
-<a href="http://download.bittorrent.com/dl/BitTorrent-Stable.dmg" class="dload">Download BitTorrent for OS X</a> <br>
+<div id="footer">
+<div class="navglobal">
+<a href="http://www.bittorrent.com/">Home</a>
+<a href="http://www.bittorrent.com/submit.html">Publish</a>
+<a href="http://www.bittorrent.com/download.html">Get BitTorrent</a>
+<a href="http://www.bittorrent.com/companyoverview.html">About Us</a>
+<a href="http://support.bittorrent.com/cgi-bin/bittorrent.cfg/php/enduser/std_alp.php">Help</a>
 </div>
-<div id="other" style="display: block;">
-<a href="./download.myt" class="dload">Download BitTorrent</a> <br>
+<div class="footutil">
+<a href="http://www.bittorrent.com/terms.html">Terms of Use</a> -
+<a href="http://www.bittorrent.com/privacy.html">Privacy Policy</a> -
+<a href="http://www.bittorrent.com/trademark.html">Trademark Use Guidelines</a>
 </div>
-<a id="win_not_on" href="./download.myt" class="dload" style="font-weight: normal; display: none;">(Not on Windows?)</a>
-<a id="mac_not_on" href="./download.myt" class="dload" style="font-weight: normal; display: none;">(Not on OS X?)</a>
-</div>
-</div>
+<div class="footcopy vcard">
+© 2001-2006. <span class="fn">BitTorrent, Inc.</span> All rights reserved. BitTorrent, the BitTorrent Logo, and Torrent are trademarks of BitTorrent, Inc.
 </div>
 </div>
 </div>
-<div id="footer" class="a">
-<hr class="access">
-<div id="footerCt" class="b">
-<ul class="nav">
-<li><a href="index.myt">Home</a></li><li><a href="submit.myt">Submit a Torrent</a></li><li><a href="about.myt">About BitTorrent</a></li><li><a href="faq.myt">FAQ</a></li><li><a href="donate.myt">Donate to BitTorrent.org</a></li>
-</ul>
-<p>
-© 2001-2006. BitTorrent, Inc. All rights reserved. BitTorrent, the BitTorrent Logo, and Torrent are trademarks of BitTorrent, Inc.
-</p>
-<p>
-<a href="./terms.myt">Terms of Service</a> -
-<a href="./privacy.myt">Privacy Policy</a>
-</p>
-</div>
-</div>
-
-
-</body></html>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-747528-1";
+urchinTracker();
+</script>
+</body>
+</html>
