@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020031id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224536id_/http%3A//250free.com/privacy.php) for the most accurate reproduction.*
 
 # 250Free.com - Get your 250 Megabyte homepage free! Build your website free!
 
@@ -10,7 +10,7 @@ Las Vegas, NV 89107
 
 **Collection of Personal Information**
 
-250Free does not collect personal information for third party use.  Personal information may be collected in two instances:  1.)  By signing up for a free account.   2.)  Through the use of premium services at 250Free.  Premium services consist of the user receiving a specially offered service in exchange for money.  The use of premium and free services is completely optional and the user is given the option of agreeing to terms before joining.
+250Free does not collect personal information for third party use.  Personal information may be collected in two instances:  1.)  By signing up for a free account.   2.) By registering at the forum or Support Center.   3.)  Through the use of premium services at 250Free.  Premium services consist of the user receiving a specially offered service in exchange for money.  The use of premium and free services is completely optional and the user is given the option of agreeing to terms before joining.
 
 **Unsolicited Mail**
 
@@ -30,7 +30,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Third Party Advertising**
 
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.maxonline.com/privacy_policy/index.php>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
 **Questions or Concerns**
 
