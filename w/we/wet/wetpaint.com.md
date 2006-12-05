@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616014035id_/http%3A//wetpaint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225124id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Wet Paint
+# Privacy Policy for Wet Paint - Start a free website in 3 easy steps - Wetpaint
 
-## Wetpaint.com, inc.
+## Privacy Policy
 
-### Privacy Policy
-
-  
-Date of Last Revision: 3/3/2006
+Date of Last Revision: 3/3/2006 
 
 At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](http://www.wetpaint.com/), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
 
@@ -61,11 +58,11 @@ We encourage parents to take an active interest in their children's use of the I
 
 ## Security
 
-We have put into place reasonable security measures in an effort to protect personal information while it is under our control. For example, your account information is accessible online only through the use of a password. To protect the confidentiality of personal information on such sites, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. Please [contact us](https://web.archive.org/web/20060616014035id_/http%3A//wetpaint.com/contact.html) immediately if you believe your password has been misused.
+We have put into place reasonable security measures in an effort to protect personal information while it is under our control. For example, your account information is accessible online only through the use of a password. To protect the confidentiality of personal information on such sites, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. Please [contact us](https://web.archive.org/static/contact) immediately if you believe your password has been misused.
 
 ## Choice
 
-To opt-out of receiving communications from us or to request that we correct or delete your personal information, please [contact us](https://web.archive.org/web/20060616014035id_/http%3A//wetpaint.com/contact.html), or edit your online profile settings on this website.
+To opt-out of receiving communications from us or to request that we correct or delete your personal information, please [contact us](https://web.archive.org/static/contact), or edit your online profile settings on this website.
 
 ## Policy Changes
 
@@ -73,4 +70,4 @@ We will modify this privacy policy from time to time as our privacy practices ke
 
 ## Your Comments or Concerns
 
-We welcome your feedback. If you have any comments or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20060616014035id_/http%3A//wetpaint.com/contact.html).
+We welcome your feedback. If you have any comments or concerns about this privacy policy, please [contact us](https://web.archive.org/static/contact).
