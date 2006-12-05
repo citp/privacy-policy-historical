@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the city.ac.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403181747id_/http%3A//www.city.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city.ac.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234455id_/http%3A//www.city.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](https://web.archive.org/web/20050403191205id_/http://www.city.ac.uk/ic/default_print_1_6465_6465.html)
+[](https://web.archive.org/web/20061205234455id_/http://www.city.ac.uk/ic/default_print_1_6465_6465.html)
 
 City University, London (referred to in this document as ‘the University’) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This University Privacy Statement applies to the University and its  family of websites ([www. _name_.city.ac.uk/](http://www.name.city.ac.uk/)   ) and governs data collection and usage at all the University sites and services worldwide. By using the University websites, you consent to the data practices described in this statement.
 
