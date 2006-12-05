@@ -1,36 +1,6 @@
-> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615070415id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231359id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Piano World
-
-  
-[](http://www.pianoworld.com/)SM
-
-**Browse Piano World**  
-(Choose from drop-down and click GO)   
-Or see our [Directory/Site Map](http://www.pianoworld.com/directory.htm)
-
-[](http://www.pianoworld.com/cgi-bin/tellscript/tell.cgi)
-
-  
-[In PianoSupplies.com now](http://www.pianosupplies.com/Merchant2/merchant.mvc?Screen=SFNT) Our online store   
-Piano tuning tools, piano lamps, cushions, benches, metronomes, moving equipment, and other accessories. 
-
-[](http://service.bfast.com/bfast/click?bfmid=5607334&siteid=29777701&bfpage=1781943)
-
-[](http://www.sheetmusicplus.com/a/featured.html?id=16685)
-
-In a hurry? **  
-[Download sheet music instantly!](http://www.musicnotes.com/sheetmusic/ard.asp?SID=718&LID=74)**   
-(from MusicNotes.com) or order a copy shipped to you.   
-It's great! You can listen to what the music should sound like, and even watch the notes being played! 
-
-[ TipBook PIANO](http://www.amazon.com/exec/obidos/ASIN/9076192367/allaboutpianos)
-
-Add an [RSS Feed](http://www.pianoworld.com/rss.htm) of our **World Famous Piano Forums** to your [   
-My Yahoo!](http://www.pianoworld.com/rss.htm)   
-account, or to your own web site! 
-
-**Top**
 
   |   
 
@@ -82,7 +52,7 @@ Privacy Policy - Piano World
 > 
 > Questions or comments? 
 > 
-> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20060615070415id_/http%3A//www.pianoworld.com/contact.htm) us. 
+> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20061205231359id_/http%3A//www.pianoworld.com/contact.htm) us. 
 > 
 > Purchase Policy 
 > 
