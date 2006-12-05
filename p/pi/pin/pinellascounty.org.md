@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203105id_/http%3A//pinellascounty.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215451id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Security Notice
 
-**SB 80- effective July 1, 2006**  
-Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity. Instead contact this office by [**phone**](https://web.archive.org/web/20060616203105id_/http%3A//pinellascounty.org/phone.htm) or in writing.
+**[SB 80](http://www.flsenate.gov/data/session/2006/Senate/bills/billtext/pdf/s0080c1.pdf)\- effective July 1, 2006**  
+E-mail addresses are public records under Florida law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone directory](https://web.archive.org/web/20061205215451id_/http%3A//www.pinellascounty.org/phone.htm)
 
 Thank you for visiting the Pinellas County website and reviewing our privacy policy. We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
