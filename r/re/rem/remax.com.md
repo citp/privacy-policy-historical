@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060006id_/http%3A//www.remax.com/misc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223649id_/http%3A//www.remax.com/misc/privacy_policy) for the most accurate reproduction.*
 
 # Inside RE/MAX | Privacy Policy
 
@@ -67,7 +67,7 @@ UNDER NO CIRCUMSTANCES SHALL RE/MAX INTERNATIONAL, INC. BE LIABLE FOR ANY SPECIA
 This policy is governed by the laws of the State of Colorado without giving effect to any principles of conflict of law.
 
 **Contact Us**  
-To contact us with your questions or comments regarding this policy or the information collection and dissemination practices of this Site, please email us at [admin@remax.net](mailto:admin@remax.net).
+To contact us with your questions or comments regarding this policy or the information collection and dissemination practices of this Site, please email us at [ecare@remax.net](mailto:ecare@remax.net).
 
 To see the Terms and Conditions that apply to this Site, click [here](https://web.archive.org/misc/terms_of_use/).  
 All trademarks, service marks, and other proprietary materials herein are the property of RE/MAX International, Inc. 2005\. All rights reserved.
