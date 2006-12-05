@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2006-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060410050849id_/http%3A//www.dailyfx.com/page/502-privacy-policy-and.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000654id_/http%3A//www.dailyfx.com/page/privacy_policy_and_disclosure.html) for the most accurate reproduction.*
 
-# Privacy policy and disclosure
+# Privacy Policy and Disclosure
 
 ## Security and Disclaimer
 
@@ -10,8 +10,7 @@ DailyFX respects each individual's right to privacy. We value our relationship w
 
 * * *
 
-When you apply for or maintain a live or demo account with DailyFX, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. The personal information we collect is only accessible to DailyFX and its affiliates and is not disclosed to any nonaffiliated third parties. Such information includes:   
-
+When you apply for or maintain a live or demo account with DailyFX, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. The personal information we collect is only accessible to DailyFX and its affiliates and is not disclosed to any nonaffiliated third parties. Such information includes:
 
   * Information you provide to us on applications and other forms, such as your name, address, birth date, social security number, occupation, assets, and income.
   * Information about your transactions with us and with our affiliates.
