@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615075331id_/http%3A//www.homesandland.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191821id_/http%3A//www.homesandland.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Homes & Land Privacy Policy
-
-HomesAndLand.com Privacy Policy
 
 You can browse HomesAndLand.com without revealing personal information about yourself. Unlike most web sites, we do not use cookies to track your individual movement or to serve you banner advertisements. 
 
