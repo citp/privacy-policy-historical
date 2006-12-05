@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194312id_/http%3A//www.citysports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204736id_/http%3A//www.citysports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # City Sports Helpdesk
 
