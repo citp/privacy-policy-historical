@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629031951id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193702id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
 
 # iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices!
 
-  **iDotz.Net? Privacy Policy  
+  **iDotz.Net™ Privacy Policy  
    **(effective July 1, 2002) 
 
   This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with dotFM, you agree to accept the practices described in this Privacy Policy. For questions on the Privacy Policy please contact 
@@ -23,8 +23,8 @@ Registrants may elect not to receive e-mail communications from iDotz.Net regard
 
 BRS Media Inc.  
 Attention: iDotz.Net Opting Out  
-760 Market St. Suite 958  
-San Francisco, CA 94102-2311
+55 New Montgomery St. Suite 622  
+San Francisco, CA 94105-3432
 
  iDotz.Net understands that security is important to our users. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. When you transmit personal information to us, we encrypt it using SSL (Secure Socket Layer), the industry standard for encryption software. Encryption provides a secure means to protect your information as it passes over the web to our server. iDotz.Net utilizes Thawte SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. You can verify this certificate by clicking here: 
 
@@ -63,5 +63,5 @@ iDotz.Net Certificate
 
 BRS Media Inc.  
 Attention: iDotz.Net Privacy Policy  
-760 Market St. Suite 958  
-San Francisco, CA 94102-2311
+55 New Montgomery St. Suite 622  
+San Francisco, CA 94105-3432
