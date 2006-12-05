@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629235004id_/http%3A//www.export.gov/privacypolicy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183002id_/http%3A//www.export.gov/about/exp_000875.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**International Trade Administration Web Site Privacy Policy**
+Note: Export.gov is managed by the International Trade Administration and follows its privacy policy.
 
 **Effective Date: October 24, 2005**
 
@@ -31,3 +31,6 @@ Unauthorized attempts to upload or change information, or otherwise cause damage
 Links to Other Web Sites: Our websites contain links to other federal agencies and private organizations. Websites of those organizations may contain links to outside organizations. This linking does not constitute an endorsement by ITA. These links are provided for user convenience only. 
 
 For more information, please review the [Department of Commerce Privacy Policy Statement](http://www.commerce.gov/privacystatement.html).
+
+  
+
