@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623182449id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235931id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
 
 # Trinity Western University Website Privacy Notice
 
@@ -18,10 +18,8 @@ In browsing the major portions of our site, users do not need to provide any per
 
 Since the nature of myTWU.ca is to keep you connected to your friends we do ask for personal information such as your address and phone number.  It is your choice however if you want this shown to others on the web by checking off the box indicating Show on the Web.  This information is then only available to those who are part of our community.  In addition to this information we reveal basic Yearbook type information such as when someone was a student here, when someone graduated and what degrees he /she has obtained or are working on so classmates can keep in contact with each other.  We do not reveal your email address, but rather require users to send a notice through us and you can then choose to respond or not. 
 
-  
 In some cases, such as click-through tracking for email messages sent to subscribers, statistics for tracking are collected by the agency TWU employs to handle the mailer client currently whatcounts.com. Their privacy statement is available at whatcounts.com. TWU denies responsibility or accountability for whatcounts.coms security. Neither Trinity Western University nor whatcounts.com support or are involved in any form of spam mailing or information sale to commercial clients. We collect information in regards to mailings in order to provide targeted content. While in some cases TWU may store other information about an individual, providing this information is optional and it is not used to profile users.
 
-  
 Trinity Western University does make limited use of cookies on its Web servers in some portions of our site, but not in any manner that could impinge on your privacy. A cookie is a small text file that our Web server places on a users computer hard drive as a unique identifier. Cookies enable TWU to deliver customized content to users. Our cookies do have an expiration date; typically very shortly after the user leaves our site. Our cookies do collect personally identifiable information, as in the case of logging into a part of the website authenticated with our twuPASS system. Without cookies, users would have to resend their information to the server every time they requested a page within an area restricted to registered users. TWU uses cookies in this case to simplify the browsing experience. For students registered in eCourses, cookies are used to track which lessons a student has accessed and how long they spent logged in and reading which articles which is then shown to the professor to see their involvement. TWU does not use cookies for any purposes other than what is listed in this document. The information we collect is not used to create customer profiles based on browsing history. We do not supplement information collected at our Web site with data from other sources. Trinity Western University is not involved in aggressive marketing practices. 
 
 Our Web site offers a message board for members of our community. Please be advised that information posted in message board venues becomes public knowledge. 
@@ -60,5 +58,4 @@ By using TWU web services you agree not to use this service to do any of the fol
 
 
 
-TWU reserves the right to remove any information deemed inappropriate or infraction of these terms of use at its sole discretion.  TWU also reserves the right to terminate anyones access to our services without notice, at any time, for any reason.  
-
+TWU reserves the right to remove any information deemed inappropriate or infraction of these terms of use at its sole discretion.  TWU also reserves the right to terminate anyones access to our services without notice, at any time, for any reason.
