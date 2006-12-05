@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616050454id_/http%3A//www.jewishworldreview.com/0400/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205031600id_/http%3A//www.jewishworldreview.com/0400/privacy1.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Jewish World Review
 
@@ -36,18 +36,6 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Jewish World Reviewenesis works with a third party, The Flycast Network, that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html). 
 
-## Children's Guidelines
-
-Our upcoming children’s Web site will meet the guidelines of TRUSTe's Children's program. We will:
-
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
-  2. NOT collect personally identifiable offline contact information without prior parental consent 
-  3. NOT distribute to third parties any personally identifiable information without prior parental consent 
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
-
-
-
 ## Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
@@ -70,4 +58,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Benyamin L. Jolkovsky Jewish World Review [bljolkov@jewishworldreview.com](https://web.archive.org/web/20060616050454id_/http%3A//www.jewishworldreview.com/0400/bljolkov@jewishworldreview.com) _© 2000, JWR_
+Benyamin L. Jolkovsky Jewish World Review [bljolkov@jewishworldreview.com](https://web.archive.org/web/20061205031600id_/http%3A//www.jewishworldreview.com/0400/bljolkov@jewishworldreview.com) _© 2000, JWR_
