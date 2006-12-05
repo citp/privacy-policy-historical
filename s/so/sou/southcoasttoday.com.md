@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southcoasttoday.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630022551id_/http%3A//www.southcoasttoday.com/2002/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southcoasttoday.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224611id_/http%3A//www.southcoasttoday.com/docs/privacy.html) for the most accurate reproduction.*
 
-# SouthCoastToday.com
+# SouthCoastToday.com - Site Documents - Privacy Policy
 
 **This privacy policy was last updated on 6/22/01.**
 
