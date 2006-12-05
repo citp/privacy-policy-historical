@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002837id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212845id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # moneybookers.com - and money moves
 
@@ -31,7 +31,7 @@ To open your Moneybookers account, we must obtain certain personal information, 
 We only use your personal information to service your account and to improve our services to you. However, we do share some financial information as part of normal business operations with banks or credit/debit card processing and verification services. These entities may not use your information for secondary purposes, unless required by law. Furthermore, when sending money to another Moneybookers account holder we will always pass on your email address to the recipient. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. Otherwise, UNDER NO CIRCUMSTANCES will information you provide to Moneybookers be transmitted in any way to a third party.
 
  **Control of Personal Information**  
-If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct and update that user's personally identifiable information provided to us. This can usually be done by logging into your account and clicking on the "profile" link or by emailing our Customer Support at [service@moneybookers.com](mailto:service@moneybookers.com). Your zip code, phone and postal address can only be changed once in any 3 month period. In order to deactivate your account your will need to contact our Customer Support at [service@moneybookers.com](mailto:service@moneybookers.com). However, please understand we cannot completely delete user information because of legal/regulatory and technical back up requirements.
+If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct and update that user's personally identifiable information provided to us. This can usually be done by logging into your account and clicking on the "profile" link or by contacting our [Customer Service Department](http://www.moneybookers.com/app/faqmessaging.pl). Your zip code, phone and postal address can only be changed once in any 3 month period. In order to deactivate your account your will need to contact our [Customer Service Department](http://www.moneybookers.com/app/faqmessaging.pl). However, please understand we cannot completely delete user information because of legal/regulatory and technical back up requirements.
 
  **Communication**  
 Upon registration every user will receive an email confirming his successful registration. Established members will occasionally receive information on products, services and special deals via newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. This can usually be done by logging into your account and clicking on the "profile" link.
@@ -47,7 +47,7 @@ Changes to this privacy statement are posted here so you know what use is made o
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Customer support: service@moneybookers.com  
-Telephone: 0709 204 2000  
+Customer support: [Messaging Centre](http://www.moneybookers.com/app/faqmessaging.pl)  
+Telephone: +44 870 383 0232  
 Fax: 0709 204 2001  
 Postal Address: C3 Cairngorm House, Meridian Gate, 203 Marsh Wall, London E14 9YT, UK
