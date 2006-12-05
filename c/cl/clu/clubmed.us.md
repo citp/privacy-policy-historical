@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195942id_/http%3A//www.clubmed.us/cm/Satellite%3Fc%3DPage%26pagename%3DClubMedDev%252FTools-PrivacyPolicy%26cid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212311id_/http%3A//www.clubmed.us/cm/Satellite%3Fc%3DPage%26pagename%3DClubMedDev%252FTools-PrivacyPolicy%26cid%3D0) for the most accurate reproduction.*
 
 # Club Med USA - Privacy Policy
 
