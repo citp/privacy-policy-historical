@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623155445id_/http%3A//hsbc.com.au/utility/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233440id_/http%3A//hsbc.com.au/utility/footer/privacy.html) for the most accurate reproduction.*
 
 # HSBC - Privacy and Security
 
@@ -49,7 +49,7 @@ HSBC will use and disclose information it holds about an individual for the main
 
 We also use personal information for planning, product development, and research purposes and to seek feedback on our products and services. 
 
-Your personal information may be shared amongst the entities which make up the HSBC Group. The HSBC Group means HSBC and its related bodies corporate which includes HSBC Asset Management (Australia) Limited. It also includes HSBC related companies overseas. In particular, as some of our computer systems are located overseas (with back up in Shanghai), you should be aware we will process your information in those places as necessary to provide the products and services you choose. 
+Your personal information may be shared amongst the entities which make up the HSBC Group. The HSBC Group means HSBC and its related bodies corporate. It also includes HSBC related companies overseas. In particular, as some of our computer systems are located overseas (with back up in Shanghai), you should be aware we will process your information in those places as necessary to provide the products and services you choose. 
 
 The sorts of organisations outside the HSBC Group to which we typically disclose personal information include the following. This is not a complete list - there will be others which are less common or which you have been told, or will be told, about when you applied or apply for the relevant product or service. 
 
@@ -78,6 +78,8 @@ The sorts of organisations outside the HSBC Group to which we typically disclose
 **Where you use online share trading:**
 
 HSBC Stockbroking (Australia) Pty Limited. 
+
+HSBC Stockbroking is operated by ETRADE Stockbroking (Australia) Pty Limited ABN 60 007 114 605, formerly known as HSBC Stockbroking (Australia) Pty Limited. From 1 July 2006, it is a wholly owned subsidiary of ETRADE Australia Securities Limited ABN 93 078 174 973 ("ETRADE"). It is not part of the HSBC Holdings plc Group. ETRADE has been granted a limited licence to use the HSBC trademark.
 
 **If we issue a deposit power bond at your request in connection with a purchase of property:**
 
