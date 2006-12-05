@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automobile.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193010id_/http%3A//about.automobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobile.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193719id_/http%3A//about.automobile.com/privacy) for the most accurate reproduction.*
 
-# About Automobile Inc.
+# Automobile.com - Everything Automobile. Free automobile classifieds, automobile directory, automobile news, automobile reviews. Cars, trucks and more.:
 
 Privacy Policy  
 Automobile Inc. connects people with automobile products and services. In order to provide our users with various services, including free car quotes, we need to gather and supply personal information about prospective car buyers. We will not abuse your personal information and will use it only as outlined below.
