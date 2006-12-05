@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014320id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231031id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Bristol UWE - Privacy Policy
 
@@ -16,7 +16,7 @@ You are not personally identifiable as an individual from such information alone
 
 ## Cookies
 
-Please see the University's [Cookie Policy](https://web.archive.org/web/20060615014320id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **UWEonline** , which depends on use of cookies. 
+Please see the University's [Cookie Policy](https://web.archive.org/web/20061205231031id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **UWEonline** , which depends on use of cookies. 
 
 ## Personal disclosures 
 
