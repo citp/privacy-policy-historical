@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211719id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214937id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for the University of Aberdeen Web Site
 
-  * You can also download this policy [as Word](https://web.archive.org/web/20060615211719id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.doc)
+  * You can also download this policy [as Word](https://web.archive.org/web/20061205214937id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.doc)
 
 
 
