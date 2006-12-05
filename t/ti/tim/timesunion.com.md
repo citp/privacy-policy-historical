@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesunion.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201112id_/http%3A//www.timesunion.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesunion.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205131id_/http%3A//timesunion.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Albany, N.Y. : Timesunion.com : Privacy Policy
 
