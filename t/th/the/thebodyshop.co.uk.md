@@ -1,25 +1,28 @@
-> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623223348id_/http%3A//www.uk.thebodyshop.com/web/tbsuk/legal_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211131id_/http%3A//www.thebodyshop.co.uk/page/privacy%3Fcm_re%3Ddefault-_-Footer-_-Privacy) for the most accurate reproduction.*
 
-# The Body Shop
+# The Body Shop - Privacy Policy
 
-At The Body Shop we take your right to privacy very seriously. Please read on for more details about our privacy policy.
+This Section, headed “The Body Shop Online Store Privacy Policy” applies in addition to The Body Shop’s Privacy Policy. In the event of any conflict between the [Privacy Policy](http://www.thebodyshopinternational.com/Privacy+Policy/) and The Body Shop Online Store Privacy Policy, the latter shall prevail. 
 
-The Body Shop International plc ('we' or 'us') is registered to collect and process data under the UK Data Protection Act 1998. We will deal with any personal information that you provide to us when you use our Site in accordance with the provisions of UK data protection laws.
+When you visit The Body Shop Online Store, The Body Shop will record and process basic data such as your URL, IP address, browser type, the country and telephone area code where your computer is located and the pages of The Body Shop Online Store that you viewed. In addition when you register with The Body Shop Online Store, The Body Shop will ask you to input and will collect and process personal information from you such as your name, e-mail address, telephone number, home address, products selected, credit card information and a password (“Personal Data”). 
 
-  
+The Body Shop will only process your Personal Data in order to:
 
+\- Process any product orders you place, amend or cancel;   
+\- enhance the layout and efficiency of The Body Shop Online Store;  
+\- administration of The Body shop Online Store;   
+\- profile and augment The Body Shop’s understanding of you, for the purpose of enhancing the product/service offer The Body Shop can offer you.   
+\- if you consent, to notify you of products, promotions or special offers that may be of interest to you (see * below);  
+\- where The Body Shop has appointed third party providers of web-hosting services and e-mail/data processing services (“Third Party Data Processors”), to allow such Third Party Data Processors to collect and process your Personal Data for the above purposes on behalf of The Body Shop  
+\- to forward your Personal Data to other businesses within The Body Shop group of companies and within the L’Oreal group of companies, to The Body Shop franchisees and to The Body Shop At Home consultants. These businesses will treat your Personal Data as fully confidential, in accordance with all applicable Data Protection legislation and will process such Personal Data only for the purposes and within the consents set out above. 
 
-When you browse the Site, we may automatically collect information about you such as the type of internet browser you use or the web site from which you linked to our Site. You cannot be identified from this information and it is only used to assist us in providing an effective service on the Site.
+* When you register with The Body Shop Online Store, The Body Shop will offer you the opportunity to be sent information by post, e-mail or telephone, about products, promotions or special offers that may be of interest to you. Should you not wish to receive such information, please tick the relevant box on registering. You may unsubscribe from The Body Shop mailing lists at any time by contacting The Body Shop by e-mail at [UKUnsubscribe@thebodyshop.com](mailto:UKUnsubscribe@thebodyshop.com) or by telephone on 0870 010 1638; in addition at the bottom of each e-mail you receive, you will be given the opportunity not to receive any further e-mails. 
 
-'Cookies' are small text files that reside on your computer that enable us to track your use of our Site. We use cookies on the Site in order to allow you to set your individual preferences for present and future use of the Site. You can disable these cookies either by clicking on the within your specific browser options, however, this will impair the functionality of the Site and, ultimately, your browsing experience. [For IE users click here](http://www.microsoft.com/info/cookies.htm).
+In addition to the above, the Body Shop may from time to time work on specific initiatives with carefully selected third party companies/organisations to share opportunities with you. If the Body Shop should do this, The Body Shop will inform you at the time of such initiatives that, if you decide to submit any Personal Data, it will be shared with those selected companies/organisation. You will always be given the opportunity to opt in to your information being shared in this manner, and the selected companies/organisation will be sufficiently identified to allow you to make an informed decision. If you do opt in and subsequently visit such companies’/organisations’ websites, The Body Shop cannot control how they use or otherwise process any Personal Data you provide. The Body Shop always encourages you to check their sites’ terms and conditions and privacy policy before you give out any Personal Data.
 
-When you use our Site, you may choose to contact us by sending us an email using our Contact Us page. We will use your email address to respond to your query. We may also keep a note of your query to help us improve the Site. We would also like to retain your e-mail address in order that we can provide you with details about those of our corporate activities which we think may be of interest to you from time to time. If you would like us to use your e-mail address to contact you in this way please email the address below.
+**PLEASE NOTE:**
 
-[webmaster@the-body-shop.com](mailto:webmaster@the-body-shop.com)
+\- It is your responsibility to ensure that Personal Data provided is and remains accurate and up-to-date – if you wish at any time to update your Personal Data, please contact [UKOnline.CareCentre@thebodyshop.com](mailto:UKOnline.CareCentre@thebodyshop.com). Should you not do so, The Body Shop will not be responsible for any resulting failure to process your order
 
-Our Site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information from them. This privacy policy applies solely to information collected by this Site.
-
-We reserve the right to change our privacy policy from time to time. If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect from them, how we use it, and under what circumstances, if any, we disclose this information to third parties.
-
-If at any point we decide that we wish to use personally identifiable information collected from our users in a manner that differs from that stated at the time this information was collected, we will notify users by way of an email. Users will have a choice whether or not to consent to our using their personal information in accordance with our updated privacy policy.  
+\- Disabling Cookies means that you will not be able to make purchases from this The Body Shop Online Store.  
 
