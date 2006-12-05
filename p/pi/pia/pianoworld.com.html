@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pianoworld.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615070415id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pianoworld.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205231359id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Privacy Policy - Piano World</title>
@@ -25,6 +25,14 @@
 <!--Left Nav Bar Add sub directories as needed-->
 
 <a name="top"></a>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-57W281C3j4cK2";quantserve();</script>
+<noscript><img src="http://quantserve.com/pixel/57W281C3j4cK2.gif" style="display: none" height="1" width="1"></noscript>
+<!-- End Quantcast tag -->
+<script src="http://www.pianoworld.com/BannerRotater/BanRot1.js" language="JavaScript" type="text/javascript"> </script>
+
+
 <script language="JavaScript">
 <!--
 function OpenCertDetails()
@@ -40,8 +48,8 @@ var theImages = new Array() // do not change this
 // To add more image files, continue with the
 // pattern below, adding to the array.
 
-theImages[0] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/mini_music_note_sm.gif'
-theImages[1] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/Mini_Piano_Clock_2725.gif'
+theImages[0] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/thumb_344.jpg'
+theImages[1] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/Fender_piano_care_kitSM2.jpg'
 theImages[2] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/thumb_420005_MT.jpg'
 theImages[3] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/thumb_wcc5_sm.jpg'
 theImages[4] = 'http://www.pianoworld.com/thumbs/thumb_WittnerMetronomes.jpg'
@@ -52,7 +60,7 @@ theImages[8] = 'http://www.pianoworld.com/thumbs/thumb_model_1014-6.jpg'
 theImages[9] = 'http://www.pianoworld.com/thumbs/thumb_75x90MusicStand_69_sm.jpg'
 theImages[10] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/thumb_supermini.jpg'
 theImages[11] = 'http://www.pianosupplies.com/Merchant2/graphics/jansensmall/thumb_ArtistStandard.jpg'
-theImages[12] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/thumb_130012keyboardtie.jpg'
+theImages[12] = 'http://www.pianosupplies.com/Merchant2/graphics/thumbs/BeachTowelSm.gif'
 
 // do not edit anything below this line
 
@@ -70,7 +78,31 @@ document.write('<img src="'+theImages[whichImage]+'">');
 
 //  End -->
 </script>
+<script language="JavaScript">
+<!--
+function popupForm(url) {
+	window.opener.location.href = url;
+	self.close();
+}
 
+function openPopupWindow(url, windowname, height, width, scrollbar, resize) {
+	var features ='width=' + width + ',height=' + height +
+			 ',scrollbars=' + scrollbar +
+			 ',resizable=' + resize +
+			 ',menubar=yes,personalbar=no,left=0, top=0, screenX=20,screenY=10,titlebar=yes,toolbar=yes';
+	if( window.remote && !window.remote.closed) {
+		remote.focus();
+	}else{
+		remote = window.open( url, windowname, features);
+	}
+}
+
+function openNewWindow(url) {
+   window.open(url);
+}
+
+//-->
+</script>
 <table cellpadding="0" cellspacing="0" width="150" border="0" align="center">
 <tbody><tr>
 <td valign="top" align="center" width="150">
@@ -91,13 +123,14 @@ document.write('<img src="'+theImages[whichImage]+'">');
 
 <font face="helvtica,geneva,arial" size="2" color="#FFFFAA"><b>Browse Piano World</b></font><br>
 <font size="-2" color="#FFFFAA">(Choose from drop-down and click GO)</font>
-<br><font size="-2" color="#FFFFAA">Or see our <a href="http://www.pianoworld.com/directory.htm">Directory/Site Map</a></font>
+<br><font size="-2" color="#FFFFAA">Or see our <a href="http://www.pianoworld.com/directory.htm">Directory/Site Map</a></font><br><a href="JavaScript:openPopupWindow('http://www.pianoworld.com/SearchOptions.html', 'starthere', 750, 600, 1, 1)"><font size="-1" color="#FFFFAA"><b>Additional Search Options</b></font></a>
 </p><form action="http://www.pianoworld.com/cgi-bin/pros.cgi" method="POST">
 <font face="helvtica,geneva,arial" size="2" color="#FFFFAA"><b>Find A Professional</b></font>
 <select name="name">
-<option value="Dealers">Dealers</option>
+<option value="Dealers">Piano Dealers</option>
 <option value="Tuners">Tuners</option>
-<option value="Teachers">Teachers</option>
+<option value="organdealers">Organ Dealers</option>
+<option value="Teachers">Teachers / Lessons</option>
 <option value="Movers">Movers</option>
 <option value="Restorations">Restorations</option>
 <option value="Buyers">Buyers</option>
@@ -143,7 +176,7 @@ document.write('<img src="'+theImages[whichImage]+'">');
 <form action="http://www.pianoworld.com/cgi-bin/buyit.cgi" method="POST">
 <font face="helvtica,geneva,arial" size="2" color="#FFFFAA"><b>Buy It Online</b></font>
 <br>
-<select name="name">
+<select name="name" size="2">
 <option value="classified">Pianos For Sale</option>
 <option value="sellpiano">Sell your Piano</option>
 <option value="store">Piano Accessories</option>
@@ -178,7 +211,7 @@ document.write('<img src="'+theImages[whichImage]+'">');
 <option value="screensaver">Piano Screen Saver</option>
 <option value="Contest">Contest (prizes)</option>
 <option value="Wordsearch">Music Word Search</option>
-<option value="links">Music Links</option>
+<option value="links">Music Resource Links</option>
 <option value="publishers">Music Publishers</option>
 <option value="schools">Music Schools</option>
 <option value="Facts">Piano Fun Facts</option>
@@ -223,42 +256,67 @@ document.write('<img src="'+theImages[whichImage]+'">');
 </select>  
 <input type="image" src="http://www.pianoworld.com/images/goup.gif" width="31" height="20" border="0" alt="GO">
 </form>
+<br>
+<table align="center" cellpadding="2" cellspacing="0" border="1" bordercolor="#666633">
+<tbody><tr>
+<td bgcolor="#ffffff" class="body" align="center">
+<a href="http://www.pianoworld.com/Newsletters/">
+<img src="http://www.pianosupplies.com/images/FreeNewsletter6.gif" border="0" alt="Free Piano Newsletter"></a>
+</td></tr></tbody></table>
 <p align="center">
-<a target="_blank" href="http://www.pianoworld.com/cgi-bin/tellscript/tell.cgi" onclick="window.open('http://www.pianoworld.com/cgi-bin/tellscript/tell.cgi?referer='+escape(window.location.href),'','width=360,height=360,status=1');return false;"><img src="http://www.pianoworld.com/images/tellafriend.gif" border="0" alt="Tell a friend about the Piano Forums"></a>
-</p><table cellpadding="2" cellspacing="0" width="150" align="center" border="1">
+<a target="_blank" href="http://www.pianoworld.com/cgi-bin/tellscript/Dotell.cgi" onclick="window.open('http://www.pianoworld.com/cgi-bin/tellscript/Dotell.cgi?referer='+escape(window.location.href),'','width=360,height=390,status=1');return false;"><img src="http://www.pianoworld.com/images/tellafriend.gif" border="0" alt="Tell a friend about the Piano Forums"></a>
+</p>
+<center>
+<a href="#" onclick="window.open(url,'BannerWin');"> <img src="http://www.musicnotes.com/club/linkimages/christmas2_125x125.jpg" name="banner1" width="125" height="125" border="0"></a> 
+</center><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=kgwKKqF7sKs&amp;bids=78941.10001098&amp;type=4&amp;subid=0">
+
+<p align="center">
+<table cellpadding="2" cellspacing="0" width="150" align="center" border="1" bordercolor="#666633">
 <tbody><tr><td valign="top" align="center" bgcolor="#ffffff">
 <center><script language="JavaScript">
 <!-- Begin
 showImage();
 //  End -->
-</script><img src="http://www.pianoworld.com/thumbs/thumb_p14-202.jpg"></center><br><a href="http://www.pianosupplies.com/Merchant2/merchant.mvc?Screen=SFNT">In PianoSupplies.com now</a> Our online store
-<br>Piano tuning tools, piano lamps, cushions, benches, metronomes, moving equipment, and other accessories.
+</script><img src="http://www.pianoworld.com/thumbs/thumb_WittnerMetronomes.jpg"></center><br><a href="http://www.pianosupplies.com/Merchant2/merchant.mvc?Screen=SFNT">In PianoSupplies.com now</a> Our online store
+<br>Piano tuning tools, piano lamps, cushions, benches, polish, metronomes, moving equipment, and other accessories.
 </td></tr></tbody></table>
-<p align="center">
-<img src="http://service.bfast.com/bfast/serve?bfmid=5607334&amp;siteid=29777701&amp;bfpage=1781943" border="0" width="1" height="1" nosave="">
-<a href="http://service.bfast.com/bfast/click?bfmid=5607334&amp;siteid=29777701&amp;bfpage=1781943" target="_blank"><img src="http://img3.musiciansfriend.com/dbase/graphics/affiliate/060606-125x125.jpg" border="0" width="125" height="125" alt="Gifts for Dads, at Musicians Friend"></a>
 </p>
-<p>
 
-<table cellpadding="2" cellspacing="2" width="150" align="center" border="1" bordercolor="#ffffff">
-<tbody><tr><td valign="top" align="center" bgcolor="#ffffff">
-<b>It's Here!!<br><a href="http://www.pianoworld.com/Piano_CD_MP3.html">
-The First Ever PWPF CD!<br>
+<!--<table cellpadding="2" cellspacing="2" width="150" align="center" border="1" bordercolor="#ffffff">
+<tr><td valign="top" align="center" bgcolor="#ffffff">
+<b>It's Here!!<br /><a href="http://www.pianoworld.com/Piano_CD_MP3.html">
+The First Ever PWPF CD!<br />
 
 <img src="http://www.pianosupplies.com/Merchant2/graphics/thumbs/thumb_PW_CD_Label.jpg" border="0"></a></b>
 <br>Over 4-1/2 hours of great piano music, 2 CD set!
-
-<!--<a href="http://www.pianosupplies.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=support" Target="_blank"><img src="http://www.pianosupplies.com/Merchant2/graphics/thumbs/SupportPianoSm.gif" border="0"><br clear="all">Save the Music! (Click Here)</a>--></td></tr></tbody></table>
-<br><br>
-<table cellpadding="2" cellspacing="0" width="100%" align="center" border="1" bordercolor="#666633">
-<tbody><tr><td bgcolor="#CCCC99">
+</td></tr></table><br><br>-->
+<table cellpadding="2" cellspacing="2" width="150" align="center" border="1" bordercolor="#ffffff">
+<tbody><tr><td valign="top" align="center" bgcolor="#ffffff">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3828295670381575";
+google_ad_width = 120;
+google_ad_height = 90;
+google_ad_format = "120x90_0ads_al";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "C0C0C0";
+google_color_url = "C0C0C0";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr></tbody></table>
+<!--<br><br>
+<table cellpadding="2" cellspacing="0" width="100%" align="center"  border="1" bordercolor="#666633">
+<tr><td bgcolor="#CCCC99">
 
 Are you a piano industry professional?
 <br>Find out why you should be
 <br><b><a href="http://www.pianoworld.com/advertising/">Advertising on Piano world</a></b>
 </td></tr>
-</tbody></table>
-</p>
+</table>-->
+
 
 <p>
 <!--Begin Join Our Forums-->
@@ -279,7 +337,6 @@ Join our World Famous<br>  <a href="http://www.pianoworld.com/ubb/ubb/ultimatebb
 In a hurry? <b>
 <br><a href="http://www.musicnotes.com/sheetmusic/ard.asp?SID=718&amp;LID=74">Download  sheet music instantly!</a></b>
 <br>(from MusicNotes.com) or order a copy shipped to you.
-<br>It's great! You can listen to what the music should sound like, and even watch the notes being played!
 
 </td></tr>
 </tbody></table>
@@ -290,35 +347,12 @@ In a hurry? <b>
 TipBook PIANO</a>
 </p>
 <p>
-<script src="http://rcm.amazon.com/e/cm?t=allaboutpianos&amp;l=rc1&amp;p=1&amp;o=1" type="text/JavaScript"></script>
-<noscript>
-<table border="0" cellpadding="0" cellspacing="0" width="125"><tr><td>
-<MAP NAME="buttonmap"><AREA SHAPE="RECT" COORDS="19, 149, 106, 159" HREF="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1">
-<AREA COORDS="0,0,10000,10000" HREF="http://www.amazon.com/exec/obidos/redirect-home/allaboutpianos"></MAP>
-<img src="http://rcm-images.amazon.com/images/G/01/associates/amzn_recommends/gnbox125x160.gif" width="125" height="160" border="0" usemap="#buttonmap">
-</td></tr></table>
-</noscript>
+<script type="text/javascript"><!--
+  amazon_ad_tag = "allaboutpianos";  amazon_ad_width = "120";  amazon_ad_height = "240";  amazon_ad_link_target = "new";  amazon_ad_price = "retail";  amazon_ad_include = "piano";  amazon_ad_categories = "abcdf";//--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script>
 </p>
 <p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-3828295670381575";
-google_ad_width = 110;
-google_ad_height = 32;
-google_ad_format = "110x32_as_rimg";
-google_cpa_choice = "CAAQ0ZGazgEaCNfGe9Y_ARDqKPmNxXQ";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-3828295670381575";
-google_ad_width = 110;
-google_ad_height = 32;
-google_ad_format = "110x32_as_rimg";
-google_cpa_choice = "CAAQ7Ir88AEaCPqhiHbD6t8CKJC76n4";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<br><br>
+
 <table align="center" cellpadding="2" cellspacing="0" border="1" bordercolor="#666633">
 <tbody><tr>
 <td bgcolor="#ffffff" class="body" align="center">
@@ -328,7 +362,7 @@ Add an <a href="http://www.pianoworld.com/rss.htm">RSS Feed</a> of our
 </td></tr></tbody></table>
 
 <a href="#top"><b>Top</b></a>
-<p><a href="javascript:OpenCertDetails()">
+</p><p><a href="javascript:OpenCertDetails()">
 <img src="https://www.pianoworld.com/images/thawte_stamp.gif" border="0" alt="Click here for more details"></a>
 </p>
 <p>
@@ -456,7 +490,7 @@ Please note that this information is exactly as we received it from you.
 <tbody><tr>
 
 <td align="center" valign="top" bgcolor="#CCCC99">
-<b>Our Piano Classified Ads</b><br>
+<b>Piano Classified Ads</b><br>
 | <a href="http://www.pianoworld.com/dealers/dealers.htm">Dealers</a> | 
 <a href="http://www.pianoworld.com/tuners/tuners.htm">Tuners</a> | 
 <a href="http://www.pianoworld.com/teachers/teachers.htm">Lessons</a> | 
@@ -467,51 +501,59 @@ Please note that this information is exactly as we received it from you.
 <br><br>
 | <a href="http://www.pianoworld.com/exchange.htm">Pianos For Sale</a> | 
 <a href="https://www.pianoworld.com/placead.htm">Sell Your Piano</a> |
+<br>
 
 </td></tr><tr>
 <td align="center" valign="top" bgcolor="#CCCC99">
-Ads below are courtesy of Google<br>
 <script type="text/javascript"><!--
 google_ad_client = "pub-3828295670381575";
-google_alternate_color = "CCCC99";
 google_ad_width = 468;
 google_ad_height = 60;
 google_ad_format = "468x60_as";
-google_ad_type = "text_image";
+google_ad_type = "text";
 google_ad_channel ="";
 google_color_border = "CCCC99";
-google_color_bg = "FFFFCC";
-google_color_link = "0000CC";
+google_color_bg = "CCCC99";
+google_color_link = "0000FF";
+google_color_text = "000000";
 google_color_url = "008000";
-google_color_text = "6F6F6F";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr><tr>
+</script>
+
+
+</td></tr><tr>
 <td align="center" valign="top" bgcolor="#CCCC99">
 <font face="helvetica,geneva,arial" size="1">| 
 <a href="http://www.pianoworld.com/">Home</a> | 
 <a href="http://www.pianosupplies.com/Merchant2/merchant.mvc?Screen=SFNT" title="Our online store for Piano and music-related gifts and accessories">Store</a> | 
 <a href="http://www.pianoworld.com/advertising">Advertise on Piano World</a> | 
-<a href="http://www.pianoworld.com/linktous.htm" title="Please add a link to Piano World on your site">Link to Us</a> <!--| 
-<a href="http://www.pianosupplies.com/">Gifts</a> -->|
-<a href="https://www.pianosupplies.com/Merchant2/merchant.mvc?&amp;Screen=AFCL" title="PianoSupplies.com Affiliate Program">Affiliate Program</a> | 
-<a href="http://www.pianoworld.com/directory.htm" title="Explains the different categories available in the left menu">Site Map</a> | 
-<a href="http://www.pianoworld.com/ubb/ubb/ultimatebb.php" title="Piano World Forums">Piano Forums</a> |
-<br>|  <!-- Start theGuestbook.com Code -->
- <a href="http://www.TheGuestBook.com/sign.php/613157" target="_blank">
-Sign our Guestbook</a> | <a href="http://www.TheGuestBook.com/read.php/613157" target="_blank">View our Guestbook</a> |
-<!-- End theGuestBook.com Code --> 
+<a href="http://www.pianoworld.com/linktous.htm" title="Please add a link to Piano World on your site">Link to Us</a>  | <a href="http://www.pianoworld.com/ubb/ubb/ultimatebb.php" title="Piano World Forums">Piano Forums</a> |
+<br>|  <a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="http://www.pianosupplies.com/images/delicious.gif" border="0"> Del.icio.us</a> | 
 <a href="http://www.pianoworld.com/contact.htm">Contact</a> | 
-<a href="http://www.pianoworld.com/privacy.htm">Privacy</a> |
-<br> <br><a target="_blank" href="http://www.pianoworld.com/cgi-bin/tellscript/tell.cgi" onclick="window.open('http://www.pianoworld.com/cgi-bin/tellscript/tell.cgi?referer='+escape(window.location.href),'','width=360,height=360,status=1');return false;"><img src="http://www.pianoworld.com/images/tellafriend.gif" alt="Tell a friend about this web site" border="0"></a></font>
+<a href="http://www.pianoworld.com/privacy.htm">Privacy</a> | <a href="http://www.pianoworld.com/aboutus.htm">About Us</a> | 
+<a href="http://www.pianoworld.com/directory.htm" title="Explains the different categories available in the left menu">Site Map</a> | 
+<br> <br><a target="_blank" href="http://www.pianoworld.com/cgi-bin/tellscript/Dotell.cgi" onclick="window.open('http://www.pianoworld.com/cgi-bin/tellscript/Dotell.cgi?referer='+escape(window.location.href),'','width=360,height=360,status=1');return false;"><img src="http://www.pianoworld.com/images/tellafriend.gif" alt="Tell a friend about this web site" border="0"></a></font>
 <br><br>
 <center>Join our World Famous <a href="http://www.pianoworld.com/ubb/ubb/ultimatebb.php" title="Piano World Forums">Piano Forums</a> Today! (it's Free)
-<font face="helvetica,geneva,arial" size="1">
-<p>Piano World
-<br>"Where the World Turns for Information About Pianos"
+<br><br><a href="http://www.pianoworld.com/advertising/"><b>Advertise on Piano World</b></a>
+<br>Click the link above to find out why you should be 
+<br>advertising your piano related business on Piano World.
+<p align="center">
+<img src="http://service.bfast.com/bfast/serve?bfmid=5607334&amp;siteid=29777701&amp;bfpage=1789169" border="0" width="1" height="1" nosave="">
+<a href="http://service.bfast.com/bfast/click?bfmid=5607334&amp;siteid=29777701&amp;bfpage=1789169" target="_blank"><img src="http://img3.musiciansfriend.com/dbase/graphics/affiliate/2006-11-28/giftcenter-234x60.gif" border="0" width="234" height="60" alt=""></a> &nbsp; <a href="http://click.linksynergy.com/fs-bin/click?id=kgwKKqF7sKs&amp;offerid=119965.430&amp;type=4&amp;subid=0" target="_blank"><img alt="" border="0" src="http://images.misupply.com/banners/music123/234x60/images/234x60general.gif"></a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=kgwKKqF7sKs&amp;bids=119965.430&amp;type=4&amp;subid=0"><!--
+<a href="http://www.jdoqocy.com/click-2155044-10427467" target="_blank">
+<img src="http://www.afcyhf.com/image-2155044-10427467" width="125" height="125" alt="Broadband Essentials by RealNetworks " border="0"/></a> &nbsp; <a href="http://www.kqzyfj.com/click-2155044-10396970" target="_blank">
+<img src="http://www.afcyhf.com/image-2155044-10396970" width="120" height="120" alt="Get 5 Free Song Downloads with Rhapsody" border="0"/></a>-->
+<br><br>
 
-</p>
-© Copyright 1997-2006 Piano World All Rights Reserved</font>
+<a href="http://www.jdoqocy.com/click-2155044-10363698" target="_blank">
+<img src="http://www.ftjcfx.com/image-2155044-10363698" width="468" height="60" alt="Get a Letter from Santa" border="0"></a>
+</p><font face="helvetica,geneva,arial" size="1">Piano World
+<br>"Where the World Turns for Information About Pianos"
+<br>
+
+© Copyright 1997-2006 Piano World All Rights Reserved</font><p></p>
 </center></td></tr></tbody></table>
 
 &nbsp;
