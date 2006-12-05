@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616201314id_/http%3A//corp.warcry.com/index.phtml/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001320id_/http%3A//corp.warcry.com/index.phtml/content/privacy_policy) for the most accurate reproduction.*
 
 # WarCry Network - The Front Line of Entertainment!
 
