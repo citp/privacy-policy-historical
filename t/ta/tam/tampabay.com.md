@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211443id_/http%3A//www.sptimes.com/INCLUDE/specials/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184023id_/http%3A//www.sptimes.com/INCLUDE/specials/privacypolicy/index.html) for the most accurate reproduction.*
 
 # St. Petersburg Times Online - Privacy Policy
 
-The St. Petersburg Times/Times Publishing Company is committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [www.sptimes.com](http://www.sptimes.com/), [www.tampabay.com](http://www.tampabay.com/) and [www.floridaforecast.com](http://www.floridaforecast.com/).
+The St. Petersburg Times/Times Publishing Company is committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [www.tampabay.com](http://www.tampabay.com/), [www.sptimes.com](http://www.sptimes.com/home.shtml) and [www.tbt.com](http://www.tbt.com/index.jsp).
 
 The following privacy policy applies only to our Web sites. This policy does not apply to any information obtained outside the Web sites, such as information provided to, or obtained by, writers of news articles and editorial columns.
 
@@ -20,4 +20,4 @@ If you have questions or concerns about your privacy while using this site, plea
 
 This policy may be updated from time to time.
 
-1-15-04
+8-14-06
