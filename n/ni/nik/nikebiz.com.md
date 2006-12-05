@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp%3Fitem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206004104id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
 # Niketown.com : Customer Service : Privacy & Security
 
 Nike's Online Privacy Policy (USA)
 
-Nike is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy, updated in March 2005, describes the information we collect and how we use it. By using this website, you consent to our privacy policy. If you would like to review our policy for children, see "[Children's Online Privacy Policy](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)". 
+Nike is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy, updated in March 2005, describes the information we collect and how we use it. By using this website, you consent to our privacy policy. If you would like to review our policy for children, see "[Children's Online Privacy Policy](https://web.archive.org/web/20061206004104id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)". 
 
 For questions or concerns, please [email us](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.48&p_prods=40%2C48&p_cats=&prod_lvl1=40&prod_lvl2=48) or contact us at: 
 
@@ -21,7 +21,7 @@ Sharing Information
 Protecting Your Information  
 Cookies and Pixel Tags  
 Unsubscribing, Removing or Modifying Your Information  
-[Children's Online Privacy Policy](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)
+[Children's Online Privacy Policy](https://web.archive.org/web/20061206004104id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)
 
 **Collecting Information**
 
@@ -84,7 +84,7 @@ For example, we use cookies to:
 You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service number at 1.800.806.6453.   
 
 
-We also use pixel tags – tiny graphic images – to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. 
+We also use pixel tags - tiny graphic images - to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. 
 
 We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising.   
 
@@ -95,9 +95,9 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 
 **Registration Information, Email and Other Subscriptions**
 
-To modify or delete entirely the information you have provided during registration, please [click here](https://secure-niketown.nike.com/niketown/account/account_login.jsp) to login and update your profile. 
+To modify or delete entirely the information you have provided during registration, please [login](https://secure-niketown.nike.com/niketown/account/account_login.jsp) and update your profile. 
 
-To unsubscribe from an email, please follow the instructions in any email you receive. You can also send a request by [clicking here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.412&p_prods=40%2C412&p_cats=&prod_lvl1=40&prod_lvl2=412). Be sure to include your first and last name and account email address in the "message" box. 
+To unsubscribe from an email, please follow the instructions in any email you receive. You can also send a [request](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.412&p_prods=40%2C412&p_cats=&prod_lvl1=40&prod_lvl2=412). Be sure to include your first and last name and account email address in the "message" box. 
 
 **SMS Messages**
 
@@ -105,7 +105,7 @@ To unsubscribe from SMS messages, please follow the instructions in the SMS mess
 
 **Direct Mail (including Catalogs)**
 
-If you would like your name and address removed from Nike's direct mailing list or if you would like to update your mailing information , you can phone us at 1.800.806.6453 or send a request by [clicking here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.64&p_prods=40%2C64&p_cats=&prod_lvl1=40&prod_lvl2=64). Be sure to include your first and last name and mailing address in the "message" box. 
+If you would like your name and address removed from Nike's direct mailing list or if you would like to update your mailing information, you can phone us at 1-800-806-6453 (5am - 10pm PST, 7 days a week) or [email](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.64&p_prods=40%2C64&p_cats=&prod_lvl1=40&prod_lvl2=64) us a request. Be sure to include your first and last name and mailing address in the "message" box. 
 
 **Communications in Progress/Sales and Service Information.**
 
@@ -122,10 +122,8 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions ](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=terms) section that explains other terms governing the use of our website.
+Please also visit our [Terms and Conditions ](https://web.archive.org/web/20061206004104id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=terms) section that explains other terms governing the use of our website.
 
 back to top
 
-[Children's Online Privacy Policy](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)
-
-[](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/custserv.jsp)
+[Children's Online Privacy Policy](https://web.archive.org/web/20061206004104id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)
