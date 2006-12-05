@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023147id_/http%3A//xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002113id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy
 
-|  |  February 06, 2001  
-
+February 06, 2001
 
 ### Purpose and Scope
 
@@ -61,10 +60,3 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 **Email** : To update or unsubscribe from our email newsletters or product announcements, go to elists.oreilly.com. To get help from a human, send email to xml-help@xml.com or call 800-998-9938 or 707-829-0515. 
 
 **Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
-
-|  | 
-
-Sponsored By:
-
-  
-
