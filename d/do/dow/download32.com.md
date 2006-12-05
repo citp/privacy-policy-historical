@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627105112id_/http%3A//www.download32.com/aboutus/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231353id_/http%3A//download32.com/aboutus/pp.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
