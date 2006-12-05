@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030551id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193556id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
 
 # Kelly Services : Privacy Statement
 
