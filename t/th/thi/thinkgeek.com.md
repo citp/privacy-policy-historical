@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001931id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191051id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkGeek :: ThinkGeek :: Privacy Policy
 
@@ -43,6 +43,6 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Jennifer Frazier ThinkGeek, Inc. 10801 Main Street, Suite 700 Fairfax, VA 22030
+Jennifer Frazier ThinkGeek, Inc. 10201 Main Street, Suite 100 Fairfax, VA 22030
 
 webmaster@thinkgeek.com 
