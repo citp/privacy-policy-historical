@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618181325id_/http%3A//www.pplweb.com/privacy%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212812id_/http%3A//www.pplweb.com/privacy%2Bpolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Through the use of online data entry, survey, and registration forms, PPL may ch
 
 **"Cookies"**
 
-"Cookies" are small pieces of information that are stored by your Web browser software on your computer’s hard drive. The use of cookies is now an industry standard, and Users will find them on most major Web sites including PPL. 
+"Cookies" are small pieces of information that are stored by your Web browser software on your computer's hard drive. The use of cookies is now an industry standard, and Users will find them on most major Web sites including PPL. 
 
 **Use of Personal Information Collected**
 
@@ -100,7 +100,7 @@ At any time, a User may contact PPL via postal mail, E-mail, or phone to request
 
 • removal of the User's personal data record from PPL's database. 
 
-Users may send their requests by mail to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-5192, or may send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User’s personal record.
+Users may send their requests by mail to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-5192, or may send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User's personal record.
 
 **Collection of Personal Information from Children**
 
