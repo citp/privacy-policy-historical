@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035818id_/http%3A//www.ntu.ac.uk/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224841id_/http%3A//www.ntu.ac.uk/privacy_statement) for the most accurate reproduction.*
 
 # Privacy statement
 
-|  |    | 
+|  |   | 
 
 **(http://www.ntu.ac.uk) (the "website")**
 
@@ -77,5 +77,5 @@ Responsibilities
 
 The Director of Information Systems is assigned as the responsible person/compliance officer for this policy and any related procedures or guidelines. 
 
-|    |   
+|   |   
 ---|---|---|---|---
