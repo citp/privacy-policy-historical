@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205056id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205041814id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -47,12 +47,12 @@ Telephone Number: 847-869-2300 ext. 3929
 E-mail Address: [annmarie_mcnamara@hmco.com](mailto:annmarie_mcnamara@hmco.com)
 
 Division: Riverside Publishing Company  
-Name: Tracey Barrett  
-Title: Senior Director, Strategic Marketing  
+Name: John Malley  
+Title: Director, Marketing Communications  
 Address: 425 Spring Lake Drive  
 Itasca, IL 60143  
-Telephone Number: 630-467-7130  
-E-mail Address: [tracey_barrett@hmco.com](mailto:tracey_barrett@hmco.com)
+Telephone Number: 630-467-6061  
+E-mail Address: [john_malley@hmco.com](mailto:john_malley@hmco.com)
 
 Division: Great Source Education Group  
 Name: Lauren McDonough  
