@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022707id_/http%3A//www.wholefoodsmarket.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190952id_/http%3A//www.wholefoodsmarket.com/privacystatement.html) for the most accurate reproduction.*
 
 # Whole Foods Market : Privacy Policy
 
