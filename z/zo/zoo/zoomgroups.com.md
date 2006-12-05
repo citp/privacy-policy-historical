@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomgroups.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191218id_/http%3A//www.zoomgroups.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomgroups.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200710id_/http%3A//www.zoomgroups.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ZoomGroups - The Ultimate Playground to Communicate, Connect, Trade and more!
 
@@ -24,7 +24,14 @@ Later, from your profile and settings page, you can enter more information about
   
 **ZoomGroups** will not sell, publish or deliver to third parties any of the private information entered by **ZoomGroups** users under any circumstance, except when we are required for legal reasons. 
 
-We might have to deliver personal information to a third party in order to protect our intellectual property, in any case always abiding to legal obligations.   
+We might have to deliver personal information to a third party in order to protect our intellectual property, in any case always abiding to legal obligations. 
+
+**Child Pornography:**  
+Should **ZoomGroups** find any child pornography content of any kind posted by you on your account, blogs or groups, **ZoomGroups** will immediately notify the corresponding authorities, law enforcement agencies and the FBI, making availaboe to them all information related to this activity, including email addresses of all users subscribed to the group or blog and/or directly or indirectly related to the posting of such contents, including IP addresses and timestamps. 
+
+The use of **ZoomGroups** implies the acceptance of this clause. If you do not wish **ZoomGroups** to share your information and use of the service with the corresponding authorities, law enforcement agencies and the FBI, do not engage on these "activities", period. 
+
+Accidental running into any of the content described above does **not** result in reporting your account activities to the authorities, and is protected by our general privacy policy.   
  
 
 **What information does a group or blog administrator have when I subscribe to their group or blog?**  
