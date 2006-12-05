@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shopworldkitchen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003056id_/http%3A//www.worldkitchen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopworldkitchen.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214854id_/http%3A//www.worldkitchen.com/privacy.asp) for the most accurate reproduction.*
 
 # Wold Kitchen Privacy Policy
 
 I. General  
-World Kitchen, LLC. and its affiliates ("WK" or "we") respect the privacy of every individual who visits this website or responds to our interactive advertisements. This Privacy Statement outlines the information we at WK will collect and how we will use that information.
+World Kitchen, LLC and its affiliates ("WK" or "we") respect the privacy of every individual who visits this website or responds to our interactive advertisements. This Privacy Statement outlines the information we at WK will collect and how we will use that information.
 
 Please note, that this website and the privacy practices described in this Privacy Statement are directed to and apply only to residents of the United States.
 
