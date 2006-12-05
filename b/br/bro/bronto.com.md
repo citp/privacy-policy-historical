@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617173200id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000625id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
 
 # Email Marketing Software from Bronto: Privacy Policy
+
+## Privacy Policy
 
 To report any abuse or violations of the Bronto service, please [send us a message](https://web.archive.org/contact/inquiry/). We will follow up with you and make every effort to trace the origin of the message. Feel free to [contact us](https://web.archive.org/contact/inquiry/) with any questions or concerns regarding this privacy policy. 
 
@@ -16,7 +18,7 @@ Bronto is not an email list rental service and does not rent or sell any email a
 **E-mail and Direct Response Contact**   
 All of our direct response methods are opt-in. If you subscribed to our e-mail newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s). 
 
-Free trial users will receive a series of automated emails alerting them to the status of the trial. Bronto representatives may contact free trial users to inquire about their experience. Should you not wish to receive any communication from Bronto, please email [unsubscribe@bronto.com](mailto:unsubscribe@bronto.com) from the email address you wish to besuppressed. 
+Free trial users will receive a series of automated emails alerting them to the status of the trial. Bronto representatives may contact free trial users to inquire about their experience. Should you not wish to receive any communication from Bronto, please email [unsubscribe@bronto.com](mailto:unsubscribe@bronto.com) from the email address you wish to besuppressed.
 
 **Postal Address Collection and Use**   
 If you supply us with your postal address on-line, we will use it to send you the information for which you provided us your address. If you supply us with your telephone number on-line, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission. 
