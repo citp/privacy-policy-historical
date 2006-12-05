@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010927id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200013id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.*
 
-# The Academy of American Poets - Privacy Policy Statement
+# Poets.org - Poetry, Poems, Bios & More - Privacy Policy Statement
 
 _Poets.org_ is the website of the Academy of American Poets.
 
