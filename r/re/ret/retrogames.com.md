@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the retrogames.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202105id_/http%3A//www.ztnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrogames.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205032402id_/http%3A//www.ztnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## Privacy Statement for ZTNet,L.L.C. and it's Network of sites: 
 
-**ZTNet** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ZTNet](http://www.ztnet.com/)
+**ZTNet** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ZTNet](http://www.ztnet.com/) and [www.ztnetstore.com](http://www.ztnetstore.com/)
 
 This information is inclusive of all ZTNet Hosted Sites, unless otherwise stated at that site. 
 
