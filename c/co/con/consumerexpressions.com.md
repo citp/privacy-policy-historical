@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerexpressions.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630015938id_/http%3A//www.consumerexpressions.com/privacy.cfm%3Fnolinks%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerexpressions.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190332id_/http%3A//www.consumerexpressions.com/privacy.cfm%3Fnolinks%3D1) for the most accurate reproduction.*
 
 # ConsumerExpressions.com
 
