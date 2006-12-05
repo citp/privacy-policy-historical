@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfect-optimization.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051210id_/http%3A//perfect-optimization.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfect-optimization.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210909id_/http%3A//www.perfect-optimization.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Perfect-Optimization.com
 
@@ -77,4 +77,4 @@ This Website contains links to other Websites. Please note that when you click o
 * * *
 
   
-[Send this page to a friend](https://web.archive.org/web/20060615051210id_/http%3A//perfect-optimization.com/email-friend.php)
+[Send this page to a friend](http://www.perfect-optimization.com/email-friend.php)
