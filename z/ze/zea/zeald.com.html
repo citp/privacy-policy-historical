@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the zeald.com privacy policy that was archived on 2006-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060627133643id_/http%3A//www.zeald.com/Company/Privacy%2BPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeald.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205222034id_/http%3A//www.zeald.com/Company/Privacy%2BPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Zeald.com Privacy Policy</title>
 	<meta name="Description" content="Zeald.com Privacy Policy">
 	<meta name="Keywords" content="Zeald.com Privacy Policy">		<link rel="SHORTCUT ICON" href="/interchange-5/en_US/zeald_icon.ico">	
 	<style type="text/css">
-		@import "/zeald/stylesheet/x_0/423/template/117/template_style.css";
-		@import "/zeald/stylesheet/x_0/423/page/413/page_style.css";
+		@import "/zeald/stylesheet/x_0/158/template/117/template_style.css";
+		@import "/zeald/stylesheet/x_0/158/page/413/page_style.css";
 		
 	</style>
 	<script language="javascript" type="text/javascript">var doonload=false;</script>
@@ -29,7 +29,7 @@
 	<div id="c150" class="component_ContentDisplay_Header">
 			
 		<div class="header_inner">
-			<a href="http://www.zeald.com/index.html"><img id="logo" src="/site/zeald2/images/basic_theme/logo.gif" alt="Zeald.com - Websites That Work!" title="Zeald.com - Websites That Work!"></a>
+			<a href="http://www.zeald.com/index.html"><img id="logo" src="/site/zeald2/images/basic_theme/logo.gif" alt="Zeald.com - website design" title="Zeald.com - website design"></a>
 			
 			<div class="header_alt">
 				
@@ -43,7 +43,10 @@
 	<div style="text-align: right;">
 <h3>Free Phone Now!   </h3>
 <h2>0508 </h2>
-<h4>WEBSITE</h4>
+<h4>WEBSITE<br>
+</h4>
+<h4><span style="font-weight: bold;">or 0508 9327483</span><br>
+</h4>
 </div>
 </div>
 
@@ -56,20 +59,8 @@
 	<div class="search_box">
 
 
-<form action="http://www.zeald.com/search.html" method="post">
-	<input type="hidden" name="mv_session_id" value="nsession">
-	<input type="hidden" name="mv_coordinate" value="1">
-	<input type="hidden" name="mv_searchtype" value="db">
-	<input type="hidden" name="mv_matchlimit" value="999999">
-	<input type="hidden" name="mv_sort_field" value="category">
-	<input type="hidden" name="mv_search_field" value="*">
-	<input type="hidden" name="mv_substring_match" value="1">
-	<input type="hidden" name="mv_column_op" value="ne">
-	<input type="hidden" name="mv_column_op" value="rm">
-	<input type="hidden" name="mv_searchspec" value="1">
-	<input type="text" name="mv_searchspec" class="search_criteria"> 
-
-<input type="image" class="search_button" alt="search" src="/site/zeald2/images/basic_theme/btn_search_go.gif">
+<form action="http://www.zeald.com/results.html" method="get">
+<input type="text" name="q" class="search_criteria"><input type="submit" class="zbtn search_button" value="Search" style="background:url( /site/zeald2/images/basic_theme/btn_search_go.gif ) no-repeat; width:52px; height:17px;">
 </form>
 </div>
 
@@ -141,7 +132,68 @@
 		<div class="content_menu_title">
 			<h6>Company</h6>
 		</div>
-		<script src="http://www.zeald.com/process/x_mv_display/droptreejs.html" language="javascript" type="text/javascript"></script>
+		<script language="javascript" type="text/javascript">
+			<!--
+			var icons = 0;
+			var dropcall = 0;
+			var dropinit = 0;
+			var s = s_tpl = false;
+			
+			if (icons) {
+				var minus=new Image();
+				minus.src = '/interchange-5/en_US/ico_minus.gif';
+			}
+			
+			function dropit(e) {
+				dropcall = 1;
+				nodes = e.split(';');
+				o = 0;
+				if (nodes[0] == '1') o = nodes.shift();
+				for (i=0;i<nodes.length;i++) {
+					e = nodes[i];
+					var ul = document.getElementById(e);
+					if (icons) var img = document.getElementById(e+'i');
+					if (ul) {
+						if (ul && ul.style.display == 'none' || ul.style.display == '') {
+							ul.style.display = 'block';
+							if (icons) img.src = minus.src;
+						} else if (!o) {
+							ul.style.display = 'none';
+							if (icons) img.src = '/interchange-5/en_US/ico_plus.gif';
+						}
+					h(e+'d');
+					}
+
+				}
+			}
+
+			// When we need to reload the page too
+			function reloadit(e, arg_uid) {
+				dropcall = 1;
+				nodes = e.split(';');
+				o = 0;
+				if (nodes[0] == '1') o = nodes.shift();
+				for (i=0;i<nodes.length;i++) {
+					e = nodes[i];
+					var ul = document.getElementById(e);
+					if (icons) var img = document.getElementById(e+'i');
+					if (ul) {
+						if (ul && ul.style.display == 'none' || ul.style.display == '') {
+							ul.style.display = 'block';
+							if (icons) img.src = minus.src;
+							window.location = 'http://www.zeald.com/Company/Privacy+Policy.html?cat_uid='+arg_uid+'';
+
+						} else if (!o) {
+							ul.style.display = 'none';
+							if (icons) img.src = '/interchange-5/en_US/ico_plus.gif';
+						}
+					h(e+'d');
+					}
+
+				}
+			}
+			// -->
+	</script>
 			<ul id="ctmdt_0_0" class="dt_lvl0">
 				<li id="ctmfirst">
 					<div id="ctmdt_1_1d" class="dt_istate1" onclick=""><a href="http://www.zeald.com/Company/Company+Profile.html">Company Profile</a></div>
@@ -196,6 +248,21 @@
 			<td class="content content_leftonly">
 				<!-- index -->
 				
+	<div class="content_main">
+		
+	<div id="c926" class="component_Navigation_BreadCrumb">
+	<!-- noindex -->
+
+
+<div class="breadcrumb">
+	 <a href="http://www.zeald.com/Company.html">Company</a> &gt; Privacy Policy
+</div>
+
+<!-- index -->
+
+	</div>
+	
+	</div>
 	<div class="content_main">
 		
 	<div id="c159" class="component_ContentDisplay_PageTitle">
@@ -261,10 +328,10 @@
 </div>
 
 	
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 
 
-</script>
+
 <script type="text/javascript">
 _uacct = "UA-250060-1";
 urchinTracker();
