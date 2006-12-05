@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616122836id_/http%3A//peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220458id_/http%3A//www.peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
 
 # Privacy and Other Policies — Privacy Policy
 
