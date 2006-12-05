@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softballfans.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614202051id_/http%3A//store.softballfans.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softballfans.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002626id_/http%3A//store.softballfans.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ Secure Sockets Layer (SSL) technology is presently the safest way to send credit
 
 **Passwords**
 
-While registering on our site, you�ll be asked to provide a personal password of your choice. This password will be used for all future access to your account. For security reasons, we cannot assign a password for you, nor can we provide it to you over the phone in case you forget it. You can use our automated system online to have your password emailed to the address in file. 
+While registering on our site, you'll be asked to provide a personal password of your choice. This password will be used for all future access to your account. For security reasons, we cannot assign a password for you, nor can we provide it to you over the phone in case you forget it. You can use our automated system online to have your password emailed to the address in file.
