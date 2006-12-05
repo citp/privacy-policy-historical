@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060652id_/http%3A//www.bucknell.edu/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214945id_/http%3A//bucknell.edu/x362.xml) for the most accurate reproduction.*
 
-# Bucknell University Internet Privacy Statement
+# Privacy Statement || Bucknell University
 
 Bucknell University's Internet and World Wide Web sites, comprising but not limited to the hosts www.bucknell.edu, www.departments.bucknell.edu, www.facstaff.bucknell.edu, www.students.bucknell.edu, www.orgs.bucknell.edu, www.eg.bucknell.edu, www.isr.bucknell.edu, www.bb.bucknell.edu, stories.bucknell.edu, mybucknell.bucknell.edu, www.banner.bucknell.edu, www.search.bucknell.edu, webmail.bucknell.edu, r25web.bucknell.edu, easyweb.bucknell.edu, libcat.bucknell.edu, bucktix.bucknell.edu, and webpay.bucknell.edu, are committed to protecting the privacy and confidentiality of our site users. Among our goals is the intention to give the end user as much control as possible over personal information. Collecting information is an inherent part of the normal operation of our sites (and of practically all Internet sites). This Statement describes what information is collected, how it is collected, why it is collected, and how it may be used. After reading it, users can make informed decisions about whether and how to make use of our various Internet services.
 
