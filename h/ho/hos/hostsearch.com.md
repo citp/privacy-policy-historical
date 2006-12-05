@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010108id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223608id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
 
 # Web Hosting Search & Web Host Directory - HostSearch.com
 
@@ -10,12 +10,12 @@
 This website, all images, and content contained within is owned and operated by:  
   
 Clicksee Network Co., Ltd.   
-CRC Tower, 44th Floor, All Seasons Place  
-87/2 Wireless Road  
-Patumwan, Bangkok 10330  
+7th Floor, The Offices at Centralworld  
+Rama 1 Road, Patumwan,  
+Bangkok 10330   
 Thailand 
 
-We can be reached via email at support@hostsearch.com, or you can reach us by telephone at: +66-2-654-0224. **Privacy Policy for Users of HostSearch.com**   
+We can be reached via email at support@hostsearch.com, or you can reach us by telephone at: +66-2-646 1818-21 , Fax: +66-2-646 1822 **Privacy Policy for Users of HostSearch.com**   
 At HostSearch.com we are committed to protecting our users' right to privacy, and do not collect domain names or email addresses of our users for distribution or sale to advertisers. We adhere to a strict anti-spam policy, and at no time disclose user information to our advertisers. **Hyperlinks**   
 HostSearch.com contains hyperlinks to other web sites, and this privacy policy applies only to material found in this site. **Security**   
 We place a high importance on ensuring that transactions are secure. For this reason we take security precautions to protect against loss, misuse or alteration of your personal information. As you may be aware, no data transmission over the Internet can be entirely secure. As a result, while we will always use reasonable endeavors to protect the personal information you provide to us, we cannot guarantee the security of your information and the use of our facilities (e.g. email) is at your own risk. **Termination**   
