@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbssports.com privacy policy that was archived on 2006-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613083058id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbssports.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205064228id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title> SportsLine.com - CBS SportsLine.com</title>
@@ -13,7 +13,7 @@
 <link rel="alternate" title="SportsLine.com: NFL Headlines" href="http://www.sportsline.com/partners/feeds/rss/nfl_news" type="application/rss+xml">
 <link rel="alternate" title="SportsLine.com: NHL Headlines" href="http://www.sportsline.com/partners/feeds/rss/nhl_news" type="application/rss+xml">
 
-<link href="http://images.sportsline.com/css/spln.css?0013" rel="stylesheet" type="text/css">
+<link href="http://images.sportsline.com/css/spln.css?0016" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/javascript">
 var ua = navigator.userAgent;
 if (ua.indexOf("AOL") > 0) {
@@ -21,8 +21,8 @@ if (ua.indexOf("AOL") > 0) {
 	var dclk_seg="aol"; // for Doubleclick
     }
 </script>
-<script language="JavaScript1.2" src="http://images.sportsline.com/script/show_hide_covered.js?0013"></script>
-<script language="JavaScript" src="http://images.sportsline.com/script/global.js?0013"></script>
+<script language="JavaScript1.2" src="http://images.sportsline.com/script/show_hide_covered.js?0016"></script>
+<script language="JavaScript" src="http://images.sportsline.com/script/global.js?0016"></script>
 <script language="javaScript" src="http://images.sportsline.com/script/flashObj.js"></script>
 <link rel="SHORTCUT ICON" href="http://images.sportsline.com/favicon.ico">
 
@@ -49,6 +49,7 @@ if (ua.indexOf("AOL") > 0) {
 	var switchTacoda="on";
 	var switchForesee="on";
 	var fs_adsize_option="234x42";
+	var noShowFloat = 0;
 	var vTag = "other;arena=other;feat=aboutspln;type=ros;user=Anonymous";
 	var vTarget = "cust=no;vip=no";
 	var pTag = "pop=off";
@@ -145,16 +146,21 @@ if (dclk_vp!='NUL') vTag+=';vpmp='+dclk_vp;
 var omni_vp=(VwVt)?'Installed-'+VwVv:'Not Installed';
 
 /* surround cookie */
-var surroundC = readCookie('surround');
-if (surroundC > -1) {
-    surroundX = random % 2;
-    surroundC = (surroundX > 0 ) ? 'b' : 'a';
-    document.cookie=("surround="+surroundC+";domain=.sportsline.com;path=/" );
-    vTag += ";adv="+surroundC;
-    }
+var surround=new Object();
+surround.excludes=""; // set per arena
+surround.cat = ['a','b','c','d','e','f','g','h','i'];
+surround.cookie = readCookie('surround');
+
+if ( (surround.cookie == false) || (surround.cookie=='a') || (surround.cookie=='b') ) { 
+	surround.pick = Math.floor(Math.random() * surround.cat.length);
+    document.cookie=("surround="+surround.pick+";domain=.sportsline.com;path=/" );
+   	vTag += ";adv="+surround.cat[surround.pick];
+	if (surround.excludes!="") {vTag += ";!category="+surround.excludes[surround.pick];}
+}
 else {
-    vTag += ";adv="+surroundC;
-    }
+	vTag += ";adv="+surround.cat[surround.cookie];
+	if (surround.excludes!="") {vTag += ";!category="+surround.excludes[surround.cookie];}
+}
 
 //-->
 </script>
@@ -522,7 +528,7 @@ un,pg,ss)}
 
 var s_code=s.t();if(s_code)document.write(s_code)
 
-//--></script><img name="s_i_cbsspln" height="1" width="1" border="0" alt="" src="https://cbs.112.2O7.net/b/ss/cbsspln/1/H.1-pdv-2/s16050665416088?[AQB]&amp;ndh=1&amp;t=30/0/2020%2010%3A34%3A7%204%200&amp;ns=cbs&amp;pageName=/info/about/privacy&amp;g=https%3A//web.archive.org/web/20060613083058id_/http%253A//www.sportsline.com/info/about/privacy&amp;cc=USD&amp;server=sportsline.com&amp;c1=Site%20Level%20Features&amp;h1=Site%20Level%20Features%3AAbout%20SPLN%3A/info/about/privacy&amp;c2=About%20SPLN&amp;c8=Site%20Level%20Features%3AAbout%20SPLN%3A/info/about/privacy&amp;c9=Other&amp;c10=Media-Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;c17=Anonymous&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+//--></script><img name="s_i_cbsspln" height="1" width="1" border="0" alt="" src="https://cbs.112.2O7.net/b/ss/cbsspln/1/H.1-pdv-2/s14463095593979?[AQB]&amp;ndh=1&amp;t=30/0/2020%2010%3A34%3A11%204%200&amp;ns=cbs&amp;pageName=/info/about/privacy&amp;g=https%3A//web.archive.org/web/20061205064228id_/http%253A//www.sportsline.com/info/about/privacy&amp;cc=USD&amp;server=sportsline.com&amp;c1=Site%20Level%20Features&amp;h1=Site%20Level%20Features%3AAbout%20SPLN%3A/info/about/privacy&amp;c2=About%20SPLN&amp;c8=Site%20Level%20Features%3AAbout%20SPLN%3A/info/about/privacy&amp;c9=Other&amp;c10=Media-Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;c17=Anonymous&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <noscript><img src="http://cbsspln.112.2O7.net/b/ss/cbsspln/1/H.1--NS/0?c1%3DSite%20Level%20Features%26c2%3DAbout%20SPLN%26server%3Dsportsline.com%26pageName%3D%2Finfo%2Fabout%2Fprivacy%26c8%3DSite%20Level%20Features%3AAbout%20SPLN%3A%2Finfo%2Fabout%2Fprivacy%26c9%3DOther%26c10%3DMedia-Anonymous%26c11%3DUnknown%26c12%3DUnknown%26c13%3DUnknown%26c14%3DUnknown%26c15%3DUnknown%26c16%3DUnknown" height="1" width="1" border="0" alt=""></noscript>
 
 </td></tr></tbody></table></div>
@@ -554,7 +560,7 @@ var s_code=s.t();if(s_code)document.write(s_code)
 <div style="position:relative; z-index:2;">
 <table width="770" border="0" cellspacing="0" cellpadding="0" background="http://images.sportsline.com/images/home/gn_google_bar_bg.gif">
 <tbody><tr valign="middle">
-<td align="left" width="300" height="28" nowrap=""><div style="overflow:hidden; width:300">
+<td align="left" height="28" nowrap="">
 <nobr>
 <!-- network-row-form -->
 <table border="0" cellspacing="0" cellpadding="0">
@@ -562,16 +568,15 @@ var s_code=s.t();if(s_code)document.write(s_code)
 <td><table border="0" cellspacing="0" cellpadding="0" width="10"><tbody><tr><td></td></tr></tbody></table></td>
 <td><form method="post" action="http://www.sportsline.com/login" name="loginform" id="loginform"></form></td>
 <td><input type="hidden" name="xurl" value="http://sportsline.com/info/about/privacy"></td>
-<td><input type="text" name="id" onfocus="this.style.background='#eeeeee'" onchange="this.style.background='#eeeeee'" size="8" style="font-family: Arial; font-size: 11px; color: #5B5B5B; text-align: left; background-image: url(http://images.sportsline.com/images/home/login_userid_bg.gif); background-repeat: no-repeat; background-position: center; background-color:#eeeeee;"></td>
+<td><input type="text" name="id" onfocus="this.style.background='#eeeeee'" onchange="this.style.background='#eeeeee'" size="8" style="font-family: Arial; font-size: 11px; color: #5B5B5B; text-align: left; background-image: url(http://images.sportsline.com/images/home/login_loginid_bg.gif); background-repeat: no-repeat; background-position: center; background-color:#eeeeee;"></td>
 <td>&nbsp;&nbsp;</td>
 <td><input type="password" name="password" onfocus="this.style.background='#eeeeee'" onchange="this.style.background='#eeeeee'" size="8" maxlength="15" style="font-family: Arial; font-size: 11px; color: #5B5B5B; text-align: left; background-image: url(http://images.sportsline.com/images/home/login_password_bg.gif); background-repeat: no-repeat; background-position: center; background-color:#eeeeee;"></td>
-<td><input type="image" src="http://images.sportsline.com/images/home/gn_signin_btn.gif" width="45" height="15" border="0" hspace="4"></td>
+<td><input type="image" src="http://images.sportsline.com/images/home/gn_login_btn.gif" width="45" height="15" border="0" hspace="4"></td>
 <td class="gnnbreg"><a href="http://www.sportsline.com/registration?master_product=150&amp;end=http%3A%2F%2Fsportsline.com%2Finfo%2Fabout%2Fprivacy">Register</a></td>
 <td class="gnnbreg">&nbsp;<b>·</b>&nbsp;<a href="javascript: void window.open('/help?referurl=/info/about/privacy','h_link','width=645,height=600,scrollbars=yes')">Help</a>&nbsp;</td>
 <td></td></tr></tbody></table></nobr>
-</div>
 </td>
-<td align="right" width="685" height="28">
+<td align="right" height="28">
 	<table border="0" cellspacing="0" cellpadding="0" background="">
 	<tbody><tr>
 	<td>
@@ -597,11 +602,13 @@ var s_code=s.t();if(s_code)document.write(s_code)
 </td>
 </tr>
 </tbody></table>
-</div>
+</div> 
+
         <!-- _spln_header -->
 		<table width="770" border="0" cellpadding="0" cellspacing="0" bgcolor="#000248">
         <tbody><tr valign="top">
         <td width="195" height="77"><a href="/" title="CBS SportsLine.com"><img src="http://images.sportsline.com/images/header327x77/arena_sportsline.jpg" alt="CBS SportsLine.com" width="195" height="77" border="0"></a></td>
+        
         <td width="327" height="77"><a href="http://www.sportsline.com/info/about" alt=" Sports News"><img src="http://images.sportsline.com/images/header327x77/aboutsportsline.jpg" width="327" height="77" alt=" Sports News" border="0" usemap="#arenaheader"></a></td>
         <td width="248" height="77" valign="top" background="http://images.sportsline.com/images/header327x77/arena_sponsor_default.jpg"><script language="JavaScript"><!--//
 var dclkPresenting='http://ad.doubleclick.net/adj/sponsorships.spln.com/as/'+vTag+';'+vTarget+';'+uID+';sz=248x77;tile=2;ord='+random+'?';
@@ -609,7 +616,8 @@ if (switchDclk != 'off') {
     if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkPresenting+'" style="width:248px">');
     document.write('<scr'+'ipt src="'+dclkPresenting+'"><\/script>');
     }
-// --></script><script src="http://ad.doubleclick.net/adj/sponsorships.spln.com/as/other;arena=other;feat=aboutspln;type=ros;user=Anonymous;seg=nonaol;vpmp=no;cust=no;vip=no;u=;sz=248x77;tile=2;ord=41558069008729404?"></script><noscript><a href="http://ad.doubleclick.net/jump/sponsorships.spln.com/as/other;arena=other;feat=aboutspln;type=ros;user=Anonymous;cust=no;vip=no;sz=248x77;tile=2;ord=935391150187457?" target="_blank"><img src="http://ad.doubleclick.net/ad/sponsorships.spln.com/as/other;arena=other;feat=aboutspln;type=ros;user=Anonymous;cust=no;vip=no;sz=248x77;tile=2;ord=935391150187457?" width="248" height="77" border="0"></a></noscript></td>
+// --></script><script src="http://ad.doubleclick.net/adj/sponsorships.spln.com/as/other;arena=other;feat=aboutspln;type=ros;user=Anonymous;seg=nonaol;vpmp=no;cust=no;vip=no;u=;sz=248x77;tile=2;ord=45664400165919017?"></script><noscript><a href="http://ad.doubleclick.net/jump/sponsorships.spln.com/as/other;arena=other;feat=aboutspln;type=ros;user=Anonymous;cust=no;vip=no;sz=248x77;tile=2;ord=28051165300948?" target="_blank"><img src="http://ad.doubleclick.net/ad/sponsorships.spln.com/as/other;arena=other;feat=aboutspln;type=ros;user=Anonymous;cust=no;vip=no;sz=248x77;tile=2;ord=28051165300948?" width="248" height="77" border="0"></a></noscript></td>
+        
 		
         </tr></tbody></table>
         <script language="JavaScript1.2"><!--
@@ -621,14 +629,14 @@ function OutLayer(){return};
 <table width="770" border="0" cellspacing="0" cellpadding="0" background="http://images.sportsline.com/images/home/gn_bg.gif">
 <tbody><tr>
 <td height="30" width="685" align="LEFT" class="gnsbtxt">
-<table border="0" cellspacing="0" cellpadding="0" background=""><tbody><tr><td>&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/" name="gnddhomeA" id="gnddhomeA" onmouseover="ShowLayer('gnddhome', event, 'postGlobalNav')" onmouseout="OutLayer();">Home</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/nfl" name="gnddnflA" id="gnddnflA" onmouseover="ShowLayer('gnddnfl', event, 'postGlobalNav')" onmouseout="OutLayer();">NFL</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/nba" name="gnddnbaA" id="gnddnbaA" onmouseover="ShowLayer('gnddnba', event, 'postGlobalNav')" onmouseout="OutLayer();">NBA</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/mlb" name="gnddmlbA" id="gnddmlbA" onmouseover="ShowLayer('gnddmlb', event, 'postGlobalNav')" onmouseout="OutLayer();">MLB</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/nhl" name="gnddnhlA" id="gnddnhlA" onmouseover="ShowLayer('gnddnhl', event, 'postGlobalNav')" onmouseout="OutLayer();">NHL</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/collegefootball" name="gnddcollegefootballA" id="gnddcollegefootballA" onmouseover="ShowLayer('gnddcollegefootball', event, 'postGlobalNav')" onmouseout="OutLayer();">Coll&nbsp;FB</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.pgatour.com/" name="gnddpgatourA" id="gnddpgatourA" onmouseover="ShowLayer('gnddpgatour', event, 'postGlobalNav')" onmouseout="OutLayer();">PGA&nbsp;TOUR</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/autoracing" name="gnddautoracingA" id="gnddautoracingA" onmouseover="ShowLayer('gnddautoracing', event, 'postGlobalNav')" onmouseout="OutLayer();">Autos</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/tennis" name="gnddtennisA" id="gnddtennisA" onmouseover="ShowLayer('gnddtennis', event, 'postGlobalNav')" onmouseout="OutLayer();">Tennis</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/worldcup" name="gnddworldcupA" id="gnddworldcupA" onmouseover="ShowLayer('gnddworldcup', event, 'postGlobalNav')" onmouseout="OutLayer();">World&nbsp;Cup</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://horseracing.sportsline.com/cbs/" name="gnddhorseracingA" id="gnddhorseracingA" onmouseover="ShowLayer('gnddhorseracing', event, 'postGlobalNav')" onmouseout="OutLayer();">Horses</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/info/siteindex" name="gnddmoreA" id="gnddmoreA" onmouseover="ShowLayer('gnddmore', event, 'postGlobalNav')" onmouseout="OutLayer();">More</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" background=""><tbody><tr><td>&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/" name="gnddhomeA" id="gnddhomeA" onmouseover="ShowLayer('gnddhome', event, 'postGlobalNav')" onmouseout="OutLayer();">Home</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/nfl" name="gnddnflA" id="gnddnflA" onmouseover="ShowLayer('gnddnfl', event, 'postGlobalNav')" onmouseout="OutLayer();">NFL</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/nba" name="gnddnbaA" id="gnddnbaA" onmouseover="ShowLayer('gnddnba', event, 'postGlobalNav')" onmouseout="OutLayer();">NBA</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/mlb" name="gnddmlbA" id="gnddmlbA" onmouseover="ShowLayer('gnddmlb', event, 'postGlobalNav')" onmouseout="OutLayer();">MLB</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/nhl" name="gnddnhlA" id="gnddnhlA" onmouseover="ShowLayer('gnddnhl', event, 'postGlobalNav')" onmouseout="OutLayer();">NHL</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/collegefootball" name="gnddcollegefootballA" id="gnddcollegefootballA" onmouseover="ShowLayer('gnddcollegefootball', event, 'postGlobalNav')" onmouseout="OutLayer();">Coll&nbsp;FB</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/collegebasketball" name="gnddcollegebasketballA" id="gnddcollegebasketballA" onmouseover="ShowLayer('gnddcollegebasketball', event, 'postGlobalNav')" onmouseout="OutLayer();">Coll&nbsp;BK</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.pgatour.com/" name="gnddpgatourA" id="gnddpgatourA" onmouseover="ShowLayer('gnddpgatour', event, 'postGlobalNav')" onmouseout="OutLayer();">PGA&nbsp;TOUR</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/autoracing" name="gnddautoracingA" id="gnddautoracingA" onmouseover="ShowLayer('gnddautoracing', event, 'postGlobalNav')" onmouseout="OutLayer();">Autos</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/tennis" name="gnddtennisA" id="gnddtennisA" onmouseover="ShowLayer('gnddtennis', event, 'postGlobalNav')" onmouseout="OutLayer();">Tennis</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://horseracing.sportsline.com/cbs/" name="gnddhorseracingA" id="gnddhorseracingA" onmouseover="ShowLayer('gnddhorseracing', event, 'postGlobalNav')" onmouseout="OutLayer();">Horses</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td class="gnsbtxt"><a href="http://www.sportsline.com/info/siteindex" name="gnddmoreA" id="gnddmoreA" onmouseover="ShowLayer('gnddmore', event, 'postGlobalNav')" onmouseout="OutLayer();">More</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td></tr></tbody></table>
 </td>
 <td height="30" width="300" align="RIGHT" class="gnsbtxt">
 	<table border="0" cellspacing="0" cellpadding="0" background="">
 	<tbody><tr>
 	<td>&nbsp;</td>
 	<td><a href="http://www.sportsline.com/fantasy">Fantasy</a></td>
-	<td></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td><a href="http://www.sportsline.com/spin">SPiN</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td><a href="http://www.sportsline.com/games">Games</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td><a href="http://www.sportsline.com/contests">Contests</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td>
+	<td></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td><a href="http://www.sportsline.com/mobile">Mobile</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td><a href="http://www.sportsline.com/games">Games</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td><td><a href="http://www.sportsline.com/contests">Contests</a></td><td>&nbsp;<img src="http://images.sportsline.com/images/home/gn_divider.gif" width="2" height="18" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;</td>
 	<td><a href="http://www.sportsline.com/redir?url=4899" name="gnddshopA" id="gnddshopA" onmouseover="ShowLayer('gnddshop', event, 'postGlobalNav')" onmouseout="OutLayer();">Shop</a></td>
 	<td><a name="rightGlobalNav" id="rightGlobalNav"></a>&nbsp;</td>
 	</tr>
@@ -907,13 +915,7 @@ Fort Lauderdale, Florida 33309
 </tbody></table>
 <br clear="all">
     
-    <!-- Generated by CI Version 1.6.1 Date: 03/08/2004 Time : 02:50:06 for IMU -->
-	    	<!-- IMU Video_PreCache--2X2--Floating -->
-	    	<script language="javascript">
-	    	var VwCthru="";
-	    	</script>
-	    	<script language="JavaScript" src="http://creativeby.viewpoint.com/A105/N800/M351/P824/Q1104/F_2_2/placement_2_2.js"></script>
-	    	
+    <!-- dl recruitment --><script src="http://content.dl-rms.com/rms/mother/546/nodetag.js"></script>
 <script language="JavaScript1.2">
 var ahY=0;
 var hdrPosition=whereami('hdrIMG');
@@ -921,8 +923,10 @@ ahY=parseInt(hdrPosition[1]);
 var ahX = 2; // show header x times
 var ahName = "media-other-ABOUTspln"; 
 var showHdr=mTrack(ahName,ahX);
+var deadman='';
+
 var dclkAh='http://ad.doubleclick.net/adj/sponsorships.spln.com/ah/ABOUTspln/'+vTag+';'+vTarget+';'+uID+';sz=770x100;tile=6;ord='+random+'?';
-if ( (switchDclk!='off') && (showHdr==true)) {
+if ( (switchDclk!='off') && (showHdr==true) && (deadman!='Yes') ) {
     if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<div style="position:absolute; width:770; height:10; left:-3; top:' +(ahY+90) +'; z-index:5;"><table><tr><td height="10"><input type="text" value="'+dclkAh+'" style="width:770px"></td></tr></table></div>');
     document.write('<scr'+'ipt src="'+dclkAh+'"><\/script>');
     }
@@ -939,17 +943,23 @@ Poll();
         
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr class="ftbg0">
-<td height="30" class="fttxt1" align="center">
+<td height="40" class="fttxt1" align="center">
 <a href="javascript: void window.open('/help?referurl=/info/about/privacy','h_link','width=645,height=600,scrollbars=yes')">Help</a> <b>·</b>
 <a href="http://www.sportsline.com/help/contactus/usersspeak">User Comments</a> <b>·</b>
 <a href="http://www.sportsline.com/info/siteindex">Site Index</a> <b>·</b>
 <a href="http://www.sportsline.com/info/about/privacy">Privacy Policy</a> <b>·</b>
 <a href="http://www.sportsline.com/info/about/">About Us</a> <b>·</b>
 <a href="http://www.sportsline.com/info/about/tos">Terms of Service</a> 
-<b>·</b> 
+<br>
 <a href="http://www.cbs.com" target="_blank" title="TV listings">CBS.com</a> <b>·</b>
 <a href="http://www.cbsnews.com" target="_blank" title="Breaking World News">CBSNews.com</a> <b>·</b>
-<a href="http://www.cbscorporation.com" target="_blank" title="CBS Corporation">CBS Corporation</a>
+<a href="http://www.showbuzz.cbsnews.com" target="_blank" title="">TheShowBuzz.com</a> <b>·</b>
+<a href="http://www.cbscorporation.com" target="_blank" title="CBS Corporation">CBS Corporation</a> <b>·</b>
+<a href="http://www.cbsdigitalmedia.com" target="_blank" title="Advertise With Us">Advertise With Us</a>
+<br>
+<a href="http://www.cbssportsstore.com/home/index.jsp" target="_blank" title="CBS Sports Store">CBS Sports Store</a> <b>·</b>
+<a href="http://theINSIDERonline.com" target="_blank" title="The INSIDER">The INSIDER</a> <b>·</b>
+<a href="http://ETOnline.com" target="_blank" title="Entertainment Tonight">Entertainment Tonight</a>
 </td>
 </tr>
 </tbody></table>
@@ -964,5 +974,5 @@ CBS "eye device" is a registered trademark of CBS Broadcasting, Inc.
 
 
 
-<!-- Page build info: RI53wQq0DLQAABbhlp8 'ws180.fl.sportsline.com' 5857 20060613 4:30:57 /spln/local/media/cache/full/spln/1323/%2Finfo%2Fabout%2Fprivacy -->
+<!-- Page build info: RXUU1Aq0HxYAAEktRKw 'ws1522.tm.cbsig.net' 18733 20061205 1:42:28 /spln/local/media/cache/full/spln/1323/%2Finfo%2Fabout%2Fprivacy -->
 </body></html>
