@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043802id_/http%3A//www.makingfriends.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202034id_/http%3A//www.makingfriends.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-##   
-Privacy Statement for  
+##  Privacy Statement for  
 MakingFriends.com
 
 Ad Impact, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
@@ -35,9 +34,7 @@ This site gives users the option of removing, changing or modifying information 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Terri Bose  
-Ad Impact, Inc.  
+MakingFriends.com, Inc.  
 7 Dogwood Road  
 Kings Park, NY 11754  
 terri@makingfriends.com
-
-**Last modified: December 07, 2004     **©1998-2003 MakingFriends.com, Inc. 
