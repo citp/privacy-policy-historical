@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200841id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222011id_/http%3A//newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
