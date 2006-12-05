@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2006-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060129175117id_/http%3A//www.niagararents.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232222id_/http%3A//niagararents.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D7) for the most accurate reproduction.*
 
-# NiagaraRents.com - including Niagara Rentals, Apartments, Houses, Rooms, Homes & more. Welland, St.Catharines, Thorold, Niagara Falls Apartment Rentals, Welland Apartments, Apartments in Niagara Falls Ontario, renting rooms in Niagara. - NiagaraRents.com - Niagara Rentals, Apartments, Houses, Student Housing, For Rent!
+# NiagaraRents.com - Privacy Policy
 
 _Our Commitment To Privacy_
 
@@ -18,4 +18,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-All secure credit card information is collected by our payment processor Paypal.com.
+All secure credit card information is collected by our payment processor Paypal.com. For information on the Paypal Privacy Policy please visit [Paypal.com](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
+
+  
+
