@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the badongo.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415010515id_/http%3A//www.badongo.com/index.php%3Fpage%3Dprivacy%26s%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badongo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213137id_/http%3A//www.badongo.com/%3Fpage%3Dbprivacy) for the most accurate reproduction.*
 
-# Badongo - One Click hosting
+# Badongo One Click Web hosting
 
+  
 BADONGO.COM Privacy Statement 
 
 At , BADONGO, your right to privacy and data security is a primary concern. We offer services to internet users. We do not knowingly collect data from minors. The following discloses our information gathering and dissemination practices. 
@@ -16,6 +17,5 @@ You are solely responsible for maintaining the secrecy of your passwords or any 
 
 Opt-Out Methods: 
 
-1.You can send email to legal@badongo.com  
-2.Call the following telephone number: +31 (0)433523653  
+By email to legal@badongo.com  
 
