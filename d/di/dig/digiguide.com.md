@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211137id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210734id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # DigiGuide: The Best TV Guide - Privacy Statement
 
