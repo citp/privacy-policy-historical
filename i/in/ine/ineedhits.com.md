@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035806id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx%3Ffrombnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201833id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx%3Ffrombnav) for the most accurate reproduction.*
 
 # Privacy Policy and Free Search Engine Submission Information - ineedhits
 
@@ -114,7 +114,7 @@ Top
 
 **Questions?**
 
-Contact us now using the Live Chat button in the top right corner of this page! Alternatively, visit the [Contact Us](https://web.archive.org/search-engine-help/contact.aspx) for other options of getting in touch with ineedhits. 
+Contact us now using the Live Chat button in the top right corner of this page! Alternatively, visit the [Contact Us](https://web.archive.org/about/contact.aspx) for other options of getting in touch with ineedhits. 
 
 ineedhits.com Pty Ltd   
 Unit 5/166 Stirling Highway  
