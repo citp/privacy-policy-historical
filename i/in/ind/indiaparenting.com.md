@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indiaparenting.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200600id_/http%3A//www.indiaparenting.com/commonfiles/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaparenting.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202801id_/http%3A//www.indiaparenting.com/commonfiles/privacy.htm) for the most accurate reproduction.*
 
 # IndiaParenting.com - Privacy Policy
 
 **Privacy Policy**
 
-DataMagic Websolutions Pvt. Ltd. values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources. 
+India Parenting Pvt. Ltd. values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources. 
 
 We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided. 
 
