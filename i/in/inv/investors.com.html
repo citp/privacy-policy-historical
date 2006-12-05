@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615204353id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205220646id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript" type="text/javascript">
+<html><head><script type="text/javascript">
 	<!--
 		if ("Miscellaneous" != "")
 		{
@@ -53,100 +53,20 @@
 
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 <title>Investor's Business Daily: Privacy Statement</title>
-</head><body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="CSScriptInit();"><csscriptdict>
-<script><!--
-CSStopExecution = false;
-CSInit = new Array;
-function CSScriptInit() {
-if(typeof(skipPage) != "undefined") { if(skipPage) return; }
-idxArray = new Array;
-for(var i=0;i<CSInit.length;i++)
-	idxArray[i] = i;
-CSAction2(CSInit, idxArray);
-}
-CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
-function IsIE() { return CSAg.indexOf("MSIE") > 0;}
-function CSIEStyl(s) { return document.all.tags("div")[s].style; }
-function CSNSStyl(s) { return CSFindElement(s,0); }
-function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
-	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
-	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
-		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
-	return elem;
-}
-function CSClickReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return true; // dont follow link
-	else return false; // dont follow link
-}
-function CSButtonReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return false; // follow link
-	else return true; // follow link
-}
-CSIm = new Object();
-function CSIShow(n,i) {
-	if (document.images) {
-		if (CSIm[n]) {
-			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
-			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
-			if(i != 0)
-				self.status = CSIm[n][3];
-			else
-				self.status = " ";
-			return true;
-		}
-	}
-	return false;
-}
-function CSILoad(action) {
-	im = action[1];
-	if (document.images) {
-		CSIm[im] = new Object();
-		for (var i=2;i<5;i++) {
-			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
-			else CSIm[im][i-2] = 0;
-		}
-		CSIm[im][3] = action[5];
-	}
-}
-CSStopExecution = false;
 
-function CSAction(array) { 
-	return CSAction2(CSAct, array);
+<script type="text/javascript"><!--
+
+function jsfPrintPage() {
+  if (window.print)
+    window.print()
+  else
+    alert("Please use your Browser's Print function as the requested feature is not supported in your browser.");
+}	
+
+function CSScriptInit() {
+//no longer used, but still called with onLoad in many body tags 
 }
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var actArray = fct[array[i]];
-		if(actArray == null) return false; 
-		var tempArray = new Array;
-		for(var j=1;j<actArray.length;j++) {
-			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
-				if(actArray[j][0] == "VAR") {
-					tempArray[j] = CSStateArray[actArray[j][1]];
-				}
-				else {
-					if(actArray[j][0] == "ACT") {
-						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
-					}
-				else
-					tempArray[j] = actArray[j];
-				}
-			}
-			else
-				tempArray[j] = actArray[j];
-		}			
-		result = actArray[0](tempArray);
-	}
-	return result;
-}
-CSAct = new Object;
+
 
 //function for Editorial pages to open the Power Tools page
 //	iType = 1 - Quotes
@@ -256,42 +176,34 @@ function jsfOpenPowerTool(sSymbol,iType,sPage)
 		form.submit();
 	}
 // --></script>
-</csscriptdict>
-<csactiondict>
-<script><!--
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'ButtonHome',/*URL*/'/images/btnTopHomeOff.gif',/*URL*/'/images/btnTopHomeOver.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'ButtonResearch',/*URL*/'/images/btnTopResearchOff.gif',/*URL*/'/images/btnTopResearchOver.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'ButtonLearn',/*URL*/'/images/btnTopLearnOff.gif',/*URL*/'/images/btnTopLearnOver.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'ButtonProducts',/*URL*/'/images/btnTopIBDstoreOff.gif',/*URL*/'/images/btnTopIBDstoreOver.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'ButtonSubscribe',/*URL*/'/images/btnTopSubscribeOff.gif',/*URL*/'/images/btnTopSubscribeOver.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'ButtonToday',/*URL*/'/images/btnTopTodayInIBDOff.gif',/*URL*/'/images/btnTopTodayInIBDOver.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button',/*URL*/'../../images/staEduB02_01.gif',/*URL*/'../../images/staEduB02_01o.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button2',/*URL*/'../../images/staEduB02_02.gif',/*URL*/'../../images/staEduB02_02o.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button3',/*URL*/'../../images/staEduB02_03.gif',/*URL*/'../../images/staEduB02_03o.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'btnAskibd_01',/*URL*/'../../../images/btnAskibd_01.gif',/*URL*/'../../../images/btnAskibd_01-over.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'btnAskibd_01b',/*URL*/'../../images/btnAskibd_01.gif',/*URL*/'../../images/btnAskibd_01-over.gif',/*URL*/'','');
 
-// --></script>
-</csactiondict>
 
-<link rel="stylesheet" href="http://www.investors.com/rel04.css" type="text/css">
-<link rel="stylesheet" href="http://www.investors.com/icomnavR06.css" type="text/css">	
+
+<link rel="stylesheet" href="http://www.investors.com/rel07.css" type="text/css">
+<link rel="stylesheet" href="http://www.investors.com/icomnavR07.css" type="text/css">	
+
+<style type="text/css"><!--
+#tradingcenter {margin: 0px; width: 487px}
+#tradingcenter a {font-size: 10px}
+.imgtxtpair, .imgtxtpairend {font-size: 10px; text-align: center; float: left; width: 92px; white-space: wrap; padding: 0px; margin-right: 5px}
+.imgtxtpairend {padding-right: 0px}
+.storyimage {float: left; clear: both; margin: 10px 10px 10px 0px; padding-top: 10px}
+.txtadspace {font-size: 12px}
+#IBDdisclaimer {background-color: #fff; font-size: 10px}
+--></style>
+
 <script type="text/javascript"> 
 <!-- 
     function postage(one,two,three){ 
         window.location = 'mailto:'+one+two+three;} 
 //  -->
 </script>
-
-
-	
-
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 //configuration
 OAS_url = 'http://oascentral.investors.com/RealMedia/ads/';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
-OAS_sitepage = '';
-OAS_listpos = '';
+OAS_sitepage = '';;
+OAS_listpos = '';;
 if('' != '')
 {	OAS_query = '';	}
 else
@@ -307,17 +219,13 @@ function OAS_NORMAL(pos) {
   document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0><');
   document.write('/A>');
 }
-//--></script>
-
-<script language="JavaScript1.1" type="text/javascript"><!--
+//--></script><script language="JavaScript1.1" type="text/javascript"><!--
 OAS_version = 11;
 if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
 	OAS_version = 10;
 if (OAS_version >= 11)
 	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-//--></script><script language="JavaScript1.1" src="http://oascentral.investors.com/RealMedia/ads/adstream_mjx.ads//1826697330@?"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
+//--></script><script language="JavaScript1.1" src="http://oascentral.investors.com/RealMedia/ads/adstream_mjx.ads//1272252818@?"></script><script type="text/javascript"><!--
 document.write('');
 function OAS_AD(pos) {
   if (OAS_version >= 11)
@@ -325,10 +233,18 @@ function OAS_AD(pos) {
   else
     OAS_NORMAL(pos);
 }
-//--></script>
+//--></script></head>
+
+	
 
 
 
+
+
+
+
+
+<body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="CSScriptInit();">
 
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">		
 		<tbody><tr class="navtop">
@@ -340,12 +256,10 @@ function OAS_AD(pos) {
 		<tr class="navtop">
 			<!-- class="adspace"-->
 			<td align="center" colspan="3">
-	
-			<script language="JavaScript" type="text/javascript"><!--
+			<script type="text/javascript"><!--
 			OAS_AD('Top1');
 			//-->
 			</script></td>
-			
 			<td><img height="1" width="1" src="http://www.investors.com/images/px.gif" alt=""></td>
 		</tr>
 		<tr class="navtop">
@@ -363,7 +277,7 @@ function OAS_AD(pos) {
 			
 	
 			<td class="navtop" nowrap="nowrap" style="vertical-align: bottom" rowspan="2"><div align="right">
-				<a href="http://ibdweb9" style="text-decoration: none">&nbsp;&nbsp;&nbsp;<br>
+				<a href="http://ibdweb6" style="text-decoration: none">&nbsp;&nbsp;&nbsp;<br>
 				&nbsp;&nbsp;&nbsp;<br>
 				&nbsp;&nbsp;&nbsp;</a>
 			</div></td>
@@ -385,7 +299,7 @@ function OAS_AD(pos) {
 	
 		<map name="btnTopNavTabsMap" id="topnavtabs">
 		<area shape="rect" alt="Subscribe/Renew" coords="0,0,146,26" href="http://www.investors.com/IBDStore/">
-		<area shape="rect" alt="Free Trial" coords="147,0,257,26" href="http://www.investors.com/offers/freetrialicom.asp?src=A482GGP&amp;tn=top">
+		<area shape="rect" alt="Free Trial" coords="147,0,257,26" href="http://www.investors.com/offers/freetrialicom.asp">
 		</map>
 	
 			<div style="width: 100%; background: #fff none; margin: 0px">
@@ -405,7 +319,7 @@ function OAS_AD(pos) {
 			<div style="width: 100%; background: #afc2d5 none; margin: 0px; border-top: 1px solid #6C94BC">
 			<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td class="topoff" nowrap="nowrap" width="142" align="center"><a href="http://www.investors.com/?tn=top" class="navtopbtnoff" title="Home">HOME</a></td><td class="topoff" nowrap="nowrap" width="225" align="center"><a href="http://www.investors.com/newsResearchAnalysis.asp?tn=top" class="navtopbtnoff" title="News, Research, &amp; Analysis">NEWS, RESEARCH, &amp; ANALYSIS</a></td><td class="topoff" nowrap="nowrap" width="150" align="center"><a href="http://www.investors.com/ibdstocklists.asp?tn=top" class="navtopbtnoff" title="IBD Stock Lists">IBD<span class="navreg">®</span> STOCK LISTS</a></td><td class="topoff" nowrap="nowrap" width="140" align="center"><a href="http://www.investors.com/howtoinvest.asp?tn=top" class="navtopbtnoff" title="How To Invest">HOW TO INVEST</a></td><td class="topoff" nowrap="nowrap" width="120" align="center"><a href="http://www.investors.com/ibdstore/?tn=top" class="navtopbtnoff" title="IBD Store">IBD<span class="navreg">®</span> STORE</a></td>
+					<td class="topoff" nowrap="nowrap" width="142" align="center"><a href="http://www.investors.com/?tn=top" class="navtopbtnoff" title="Home">HOME</a></td><td class="topoff" nowrap="nowrap" width="225" align="center"><a href="http://www.investors.com/newsResearchAnalysis.asp?tn=top" class="navtopbtnoff" title="News, Research, &amp; Analysis">NEWS, RESEARCH, &amp; ANALYSIS</a></td><td class="topoff" nowrap="nowrap" width="150" align="center"><a href="http://www.investors.com/ibdstocklists.asp?tn=top" class="navtopbtnoff" title="IBD Stock Lists">IBD® STOCK LISTS</a></td><td class="topoff" nowrap="nowrap" width="140" align="center"><a href="http://www.investors.com/howtoinvest.asp?tn=top" class="navtopbtnoff" title="How To Invest">HOW TO INVEST</a></td><td class="topoff" nowrap="nowrap" width="120" align="center"><a href="http://www.investors.com/ibdstore/?tn=top" class="navtopbtnoff" title="IBD Store">IBD® STORE</a></td>
 					<td width="40%">&nbsp;</td>
 				</tr>
 				<tr><td style="background: #fff url(/images/bacTopNavBuffer2.gif) repeat-x" colspan="6"><img height="13" width="1" src="http://www.investors.com/images/px.gif" alt=""></td>
@@ -436,7 +350,16 @@ function OAS_AD(pos) {
 		<td class="leftnavminor"><a href="http://www.investors.com/indicesibd.asp" class="leftnavminor" title="IBD® Indexes">IBD<span class="navreg">®</span> Indexes</a></td>
 	</tr>
 	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/editorial/IBDArticles.asp?artsec=29&amp;issue=" class="leftnavminor" title="Options">Options</a> <img src="/images/staNew20x8.gif" alt="NEW!"></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="JavaScript:popup=window.open('http://www.investors.com/MediaCenter','MediaCenter','width=770,height=612,directories=no,status=yes,location=no,toolbar=no,scrollbars=no,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes');popup.focus();" class="leftnavminor" title="Media Center">Media Center</a> <img src="/images/staNew20x8.gif" alt="NEW!"></td>
+	</tr>
+	<tr>
 		<td class="leftnavminor"><a href="http://www.investors.com/etf/default.asp?tn=left" class="leftnavminor" title="ETF Center">ETF Center</a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><a href="http://www.investors.com/tech" class="leftnavminor" title="Tech Center">Tech Center</a> <img src="/images/staNew20x8.gif" alt="NEW!"></td>
 	</tr>
 	<tr>
 		<td class="leftnavminor"><a href="http://www.investors.com/member/editorialxtra/ibdextra.asp" class="leftnavminor" title="IBD®extra! Newsletter">IBD<span class="navreg">®</span>extra! Newsletter</a></td>
@@ -450,7 +373,7 @@ function OAS_AD(pos) {
 		<td class="leftnavminor"><a href="http://www.investors.com/store/toolsmain.asp?tn=left" class="leftnavminor" title="Investing Tools">Investing Tools</a></td>
 	</tr>	
 	<tr>
-		<td class="leftnavmajor" nowrap=""><a href="http://www.investors.com/ibdStockLists.asp" class="leftnavmajor" title="IBD® Stock Lists">IBD<span class="navreg">®</span> STOCK LISTS</a> <img src="http://www.investors.com/images/staBlueKey.gif" alt="Subscribers Only"></td>
+		<td class="leftnavmajor" nowrap="nowrap"><a href="http://www.investors.com/ibdStockLists.asp" class="leftnavmajor" title="IBD® Stock Lists">IBD<span class="navreg">®</span> STOCK LISTS</a> <img src="http://www.investors.com/images/staBlueKey.gif" alt="Subscribers Only"></td>
 	</tr>
 	<tr>
 		<td class="leftdiv">&nbsp;</td>
@@ -472,6 +395,9 @@ function OAS_AD(pos) {
 	</tr>
 	<tr>
 		<td class="leftdiv">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="leftnavminor" nowrap="nowrap"><a href="http://www.investors.com/financialdictionary" class="leftnavminor" title="Financial Dictionary">Financial Dictionary</a></td>
 	</tr>
 	<tr>
 		<td class="leftnavminor"><a href="http://www.investors.com/editorial/editorialcontent.asp?secid=1100&amp;status=article&amp;show=1" class="leftnavminor" title="Investor's Corner">Investor's Corner</a></td>
@@ -503,7 +429,7 @@ function OAS_AD(pos) {
 	</tr>
 
 	<tr>
-		<td class="leftnavmajor" nowrap=""><a href="http://www.investors.com/register/default.asp?/member/editorialxtra/ibdextra.asp?src=A16KCNC&amp;ps=70&amp;winname=registration" class="leftnavmajor" title="FREE MEMBERSHIP">FREE MEMBERSHIP</a></td>
+		<td class="leftnavmajor" nowrap="nowrap"><a href="http://www.investors.com/register/default.asp?/member/editorialxtra/ibdextra.asp?src=A16KCNC&amp;ps=70&amp;winname=registration" class="leftnavmajor" title="FREE MEMBERSHIP">FREE MEMBERSHIP</a></td>
 	</tr>
 	<tr>
 		<td class="leftdiv" style="background-image: none">&nbsp;</td>
@@ -513,7 +439,8 @@ function OAS_AD(pos) {
 		<td class="leftnavmajor"><b>SERVICES</b></td>
 	</tr>
 	<tr>
-		<td class="leftnavplain"><p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD® Store">IBD<span class="navreg">®</span> Store</a></p>
+		<td class="leftnavplain"><p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD Store">IBD<span class="navreg">®</span> Store</a></p>
+		<p class="navtightalt" style="margin-right: 0px; padding-right: 0px"><a href="http://www.investors.com/licensing/canslim/" class="leftnavplain" title="CAN SLIM® Licensing Opportunities">CAN&nbsp;SLIM<span class="navreg">®</span>&nbsp;Licensing Opportunities</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/rss/" class="leftnavplain" title="RSS Feeds">RSS Feeds</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/mobile/wap.asp" class="leftnavplain" title="Mobile">Investors.com Mobile</a></p>
 			<p class="navtightalt"><a href="http://www.bankrate.com/ibd" class="leftnavplain" title="Rates and Calculators">Rates &amp;&nbsp;Calculators</a></p>
@@ -527,7 +454,7 @@ function OAS_AD(pos) {
 
 	<tr>
 		<td align="center">&nbsp;<br>
-		<script language="JavaScript" type="text/javascript"><!--
+		<script type="text/javascript"><!--
 	OAS_AD('Left1');
 	//--></script></td>
 	</tr>
@@ -549,7 +476,8 @@ function OAS_AD(pos) {
 </tbody></table>
 
 <p class="leftsmalltext"><a href="http://www.investors.com/faq/startpageinstruct.asp" class="lnavsmall" title="Make investors.com your homepage">Make investors.com your&nbsp;homepage</a></p>
-</td>
+
+<p>&nbsp;</p></td>
 		<td class="vdot" bgcolor="#ffffff"><img height="1" width="9" src="px.gif"></td>
 		<td class="content">
 			<!-- CONTENT STARTS HERE -->
@@ -1712,8 +1640,8 @@ function cleanTickerSymbols(s) {
 		<td colspan="4">
 			<table cellspacing="0" cellpadding="0" width="100%" style="background: #fff url(/images/bacRegTabs.gif) repeat-x bottom right">
 				<tbody><tr valign="bottom">
-					<td width="49"><img src="http://www.investors.com/images/btnSignInTab49x24.gif" border="0" width="49" height="24" alt="Sign In"></td>
-					<td><a href="http://www.investors.com/register/roadblock.asp?dest=/default.aspwinName=registration"><img src="http://www.investors.com/images/btnRegisterNowTab.gif" border="0" width="82" height="24" alt="Register Now"></a></td>
+					<td width="49"><img src="http://www.investors.com/images/btnSignInTab49x24.gif" width="49" height="24" alt="Sign In"></td>
+					<td><a href="http://www.investors.com/register/roadblock.asp?dest=/default.aspwinName=registration"><img src="http://www.investors.com/images/btnRegisterNowTab.gif" width="82" height="24" alt="Register Now"></a></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -1737,7 +1665,7 @@ function cleanTickerSymbols(s) {
 	<tr>
 		<td><img height="1" width="1" src="px.gif" alt=""></td>
 		<td bgcolor="white" colspan="2"><input type="password" name="htmPassword" size="10" class="rtnavinput"></td>
-		<td class=""><input type="image" src="/images/btnGoBlueOnWhite16x16d.gif" width="16" height="16" border="0" hspace="2" alt="Go!"></td>
+		<td class=""><input type="image" src="/images/btnGoBlueOnWhite16x16d.gif" width="16" height="16" hspace="2" alt="Go!"></td>
 	</tr>
 	<tr>
 		<td><img height="1" width="1" src="px.gif" alt=""></td>
@@ -1763,7 +1691,7 @@ function cleanTickerSymbols(s) {
 			<input type="hidden" value="" name="htmAdditionalValue">
 			<img height="1" width="3" src="px.gif" alt="">
 		</td>
-		<td colspan="3" class="rtnavticker" nowrap="">Enter Symbol <img height="1" width="3" src="px.gif" alt=""><input type="text" name="htmTicker" value="" size="5" class="rtnavinput"></td>
+		<td colspan="3" class="rtnavticker" nowrap="nowrap">Enter Symbol <img height="1" width="3" src="px.gif" alt=""><input type="text" name="htmTicker" value="" size="5" class="rtnavinput"></td>
 	</tr>
 	<tr>
 		<td class="rightnav"><img height="1" width="1" src="px.gif" alt=""></td>
@@ -1772,21 +1700,21 @@ function cleanTickerSymbols(s) {
 	</tr>
 	<tr>
 		<td class="rightnavt"><img height="1" width="1" src="px.gif" alt=""></td>
-		<td class="rightnavt"><a href="#" onclick="JavaScript:document.forCharts.htmChartValue.value=1;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/btnRtNavQuotes.gif" width="18" height="18" border="0" vspace="0" hspace="0" alt="Quotes &amp; News"></a></td>
+		<td class="rightnavt"><a href="#" onclick="JavaScript:document.forCharts.htmChartValue.value=1;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/btnRtNavQuotes.gif" width="18" height="18" vspace="0" hspace="0" alt="Quotes &amp; News"></a></td>
 		<td class="rightnavt" valign="bottom"><a href="#" onclick="JavaScript:document.forCharts.htmChartValue.value=1;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();" class="tool" title="Quotes &amp; News">Quotes/News</a></td>
-		<td class="rightnavt" align="center"><a href="#" onclick="JavaScript:document.forCharts.htmChartValue.value=1;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/bntGoBlueOnBlue16x16.gif" width="16" height="16" border="0" hspace="2" alt="Go!"></a></td>
+		<td class="rightnavt" align="center"><a href="#" onclick="JavaScript:document.forCharts.htmChartValue.value=1;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/bntGoBlueOnBlue16x16.gif" width="16" height="16" hspace="2" alt="Go!"></a></td>
 	</tr>
 	<tr>
 		<td class="rightnavt"><img height="1" width="1" src="px.gif" alt=""></td>
-		<td class="rightnavt"><a href="JavaScript:document.forCharts.htmChartValue.value=2;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/btnRtNavCheck.gif" width="18" height="18" border="0" vspace="0" hspace="0" alt="Stock Checkup"></a></td>
-		<td class="rightnavt" valign="bottom" nowrap=""><a href="JavaScript:document.forCharts.htmChartValue.value=2;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();" class="tool" title="Stock Checkup">Stock Checkup<span class="navreg">®</span></a></td>
-		<td class="rightnavt" align="center"><a href="JavaScript:document.forCharts.htmChartValue.value=2;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/bntGoBlueOnBlue16x16.gif" width="16" height="16" border="0" hspace="2" alt="Go!"></a></td>
+		<td class="rightnavt"><a href="JavaScript:document.forCharts.htmChartValue.value=2;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/btnRtNavCheck.gif" width="18" height="18" vspace="0" hspace="0" alt="Stock Checkup"></a></td>
+		<td class="rightnavt" valign="bottom" nowrap="nowrap"><a href="JavaScript:document.forCharts.htmChartValue.value=2;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();" class="tool" title="Stock Checkup">Stock Checkup<span class="navreg">®</span></a></td>
+		<td class="rightnavt" align="center"><a href="JavaScript:document.forCharts.htmChartValue.value=2;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/bntGoBlueOnBlue16x16.gif" width="16" height="16" hspace="2" alt="Go!"></a></td>
 	</tr>
 	<tr>
 		<td class="rightnavt"><img height="1" width="1" src="px.gif" alt=""></td>
-		<td class="rightnavt"><a href="JavaScript:document.forCharts.htmChartValue.value=3;document.forCharts.htmAdditionalValue.value='pvc;daily;1;';document.forCharts.submit();"><img src="/images/btnRtNavPVC.gif" width="18" height="18" border="0" vspace="0" hspace="0" alt="IBD Charts"></a></td>
+		<td class="rightnavt"><a href="JavaScript:document.forCharts.htmChartValue.value=3;document.forCharts.htmAdditionalValue.value='pvc;daily;1;';document.forCharts.submit();"><img src="/images/btnRtNavPVC.gif" width="18" height="18" vspace="0" hspace="0" alt="IBD Charts"></a></td>
 		<td class="rightnavt" valign="bottom"><a href="JavaScript:document.forCharts.htmChartValue.value=3;document.forCharts.htmAdditionalValue.value='pvc;daily;1;';document.forCharts.submit();" class="tool" title="IBD® Charts">IBD<span class="navreg">®</span> Charts</a></td>
-		<td class="rightnavt" align="center"><a href="JavaScript:document.forCharts.htmChartValue.value=3;document.forCharts.htmAdditionalValue.value='pvc;daily;1;';document.forCharts.submit();"><img src="/images/bntGoBlueOnBlue16x16.gif" width="16" height="16" border="0" hspace="2" alt="Go!"></a></td>
+		<td class="rightnavt" align="center"><a href="JavaScript:document.forCharts.htmChartValue.value=3;document.forCharts.htmAdditionalValue.value='pvc;daily;1;';document.forCharts.submit();"><img src="/images/bntGoBlueOnBlue16x16.gif" width="16" height="16" hspace="2" alt="Go!"></a></td>
 	</tr>
 	<tr>
 		<td class="rightnavt"><img height="1" width="1" src="px.gif" alt=""></td>
@@ -1809,12 +1737,10 @@ function cleanTickerSymbols(s) {
 		
 			<p class="premlines" style="margin-top: 5px"><a href="/eibd/" class="navprem" title="eIBD<span class='tm'>TM</span> - Digital Edition"><i>e</i>IBD<span class="tm">TM</span> - Digital Edition</a></p>
 			<p class="premlines"><a href="/member/IBD100TopRated/" class="navprem" title="IBD® 100 Top-Rated Stocks"><span style="">IBD<span class="navreg">®</span> 100 Top-Rated Stocks</span></a></p>
-			<p class="premlines"><a href="/member/trunder10/" class="navprem" title="Top-Rated Stocks Under $10">Top-Rated Stocks Under&nbsp;$10</a></p>					
-			<p class="premlines"><a href="/member/etables/" class="navprem" title="IBD® eTables">IBD<span class="navreg">®</span> <i>e</i>Tables</a>		
-			</p>
-			
+			<p class="premlines"><a href="/member/trunder10/" class="navprem" title="Top-Rated Stocks Under $10">Top-Rated Stocks Under&nbsp;$10</a></p>				
+			<p class="premlines"><a href="/member/etables/" class="navprem" title="IBD® eTables">IBD<span class="navreg">®</span> <i>e</i>Tables</a></p>			
 			<p class="premlines"><a href="/subscribe/mobile.asp" class="navprem" title="IBD® Mobile Products">IBD<span class="navreg">®</span> Mobile Products</a></p>
-			</td>
+		</td>
 	</tr>
 	<tr>
 		<td class="rightnavdk"><img height="1" width="1" src="px.gif" alt=""></td>
@@ -1837,13 +1763,14 @@ function cleanTickerSymbols(s) {
 </tbody></table>
 
 
+
 <table border="0" cellpadding="0" cellspacing="0" width="128" style="margin-top: 5px; border-left: 0px solid #cc9">
 	<tbody><tr>
 		<td align="center"><img height="2" width="2" src="px.gif" alt=""></td>
 	</tr>
 	<tr>
 		<td align="center">
-		<script language="JavaScript" type="text/javascript"><!--
+		<script type="text/javascript"><!--
 		OAS_AD('Right2');
 		//--></script>
 		</td>
@@ -1852,7 +1779,7 @@ function cleanTickerSymbols(s) {
 <table border="0" cellpadding="0" cellspacing="0" width="128" style="margin-top: 10px; border-left: 0px solid #cc9">
 	<tbody><tr>
 		<td align="center">
-		<script language="JavaScript" type="text/javascript"><!--
+		<script type="text/javascript"><!--
 		OAS_AD('Right1');
 		//--></script>
 		</td>
@@ -1860,7 +1787,7 @@ function cleanTickerSymbols(s) {
 </tbody></table>
 
 
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 browserName = navigator.appName;
 browserVer = parseInt(navigator.appVersion);
 
@@ -1942,29 +1869,27 @@ function goSymbolLookup(){
 	</tr>
 	<tr>
 		<td class="bottomlttan"><img width="1" height="1" src="http://www.investors.com/images/px.gif" alt=""></td>
-		<td class="bottomlttan" valign="middle"><p class="navblackfont">The Database and all data contained herein is provided by<img src="http://www.investors.com/images/staWonLogo2005.gif" width="170" height="32" border="0" hspace="1" vspace="0" alt="William O'Neil + Co. Inc">and is used by IBD under license agreement.</p><br></td>
+		<td class="bottomlttan">
+			
+	<p style="font-size: 11px">Investor's Business Daily, IBD and CAN SLIM and their corresponding logos are registered trademarks of Data Analysis, Inc. <br>
+	<a href="http://www.investors.com/terms/?tp=1#copyright" style="font-size: 11px">Copyright and Trademark Notice</a></p>
+	<p style="font-size: 11px">© 2000-2006 Investor's Business Daily, Inc. All rights reserved.<br>
+	<a href="http://www.investors.com/privacy/" style="font-size: 11px">Privacy Statement</a> <a href="http://www.investors.com/terms/?tp=1" style="font-size: 11px">Terms and Conditions of Use</a></p>
+
+
+		
+			<p style="border-bottom: 1px solid #999; padding-bottom: 5px; font-size: 11px"><img src="http://www.investors.com/images/staWonLogo2006.gif" width="170" height="23" alt="William O'Neil + Co. Incorporated" style="float: left">© 2006 William O'Neil + Co. Incorporated.  All Rights Reserved. The William O'Neil + Co. Database and all data contained herein are provided by William O'Neil + Co. Incorporated and are used by IBD under license agreement. Daily Graphs and Daily Graphs Online are trademarks of William O'Neil + Co. Incorporated or its subsidiaries.</p>
+			
+			<p style="padding-bottom: 25px; font-size: 11px"><img src="http://www.investors.com/images/staHfmd.gif" align="left" width="114" height="37" alt="" style="padding-right: 5px">This site is powered by HyperFeed® market data. Price and Volume data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by HyperFeed Technologies, Inc. and is subject to HyperFeed Technologies, Inc. terms. All times are Eastern United States.<br>
+			*Index pricing and Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
+			
+		</td>
 		<td class="bottomlttan"><img width="1" height="1" src="http://www.investors.com/images/px.gif" alt=""></td>
 	</tr>
-	<tr valign="top">
-			<td class="bottomlttan">&nbsp;</td>
-			<td class="bottomlttan"><p class="navblackfont"><img src="http://www.investors.com/images/staHfmd.gif" align="left" width="114" height="37" hspace="0" vspace="0" alt="" style="padding-right: 5px">This site is powered by HyperFeed® market data. Price and Volume data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by HyperFeed Technologies, Inc. and is subject to HyperFeed Technologies, Inc. terms. All times are Eastern United States.</p>
-			<p class="navblackfont">*Index pricing and Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
-			<p class="navblackfont">© 2000-2006 Investor's Business Daily, Inc. All rights reserved. Investor's Business Daily is a registered trademark of Investor's Business Daily, Inc.<br>
-			<a href="http://www.investors.com/privacy/" class="navbluelink">Privacy Statement</a>&nbsp;&nbsp;&nbsp;<a href="http://www.investors.com/terms/?tp=1" class="navbluelink">Terms and Conditions of Use</a></p>
-			<p><img src="http://www.investors.com/images/px.gif" height="1" width="5" alt=""><br>
-			<a href="http://ibdweb9"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" border="0" align="left"></a></p></td>
-			<td class="bottomlttan"><img width="1" height="1" src="http://www.investors.com/images/px.gif" alt=""></td>
-	</tr>
-	
 </tbody></table>
-
-<script language="JavaScript" type="text/javascript"><!--
-OAS_AD('x02');
-//--></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-OAS_AD('x03');
-//--></script>
+<br>
+<a href="http://ibdweb6"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
+		
 
 
 
