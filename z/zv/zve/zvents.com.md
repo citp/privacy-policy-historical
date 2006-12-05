@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zvents.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040331id_/http%3A//www.zvents.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zvents.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220637id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.*
 
-# Zvents - Privacy Policy
+# Privacy Policy - Zvents.com
 
 Your privacy is important to you and to us. We recognize that we must earn and keep your trust. This Privacy Policy outlines the types of personal information we gather when you use Zvents, as well as some of the steps we take to safeguard it. 
 
@@ -44,4 +44,4 @@ The sites displayed as search results or linked to by Zvents' services are devel
 
 Zvents may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Zvents' search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
 
-Please note this Privacy Policy may change from time to time. We will always announce any change in advance. If you have any questions about this privacy statement, you can contact us at [support@zvents.com](mailto:support@zvents.com). 
+Please note this Privacy Policy may change from time to time. We will always announce any change in advance. If you have any questions about this privacy statement, you can [contact us](https://web.archive.org/support/contact?issues=). 
