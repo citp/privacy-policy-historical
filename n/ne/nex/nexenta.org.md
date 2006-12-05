@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nexenta.org privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213161057id_/http%3A//www.gnusolaris.org/gswiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexenta.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221846id_/http%3A//www.gnusolaris.org/gswiki/PrivacyPolicy) for the most accurate reproduction.*
 
-# Unix Portal:PrivacyPolicy - Nexenta GNU/Solaris
+# Unix Portal:PrivacyPolicy - Nexenta GNU/OpenSolaris
 
   * **Effective Date of Current Policy: December 12, 2005**
 
