@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175130id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202910id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
 
 # LocateADoc Disclaimer
 
 |  |  |  |   
 ---|---  
   
-[](http://www.truste.org/ivalidate.php?url=www.locateadoc.com&sealid=101)Last Updated: Feb 24, 2006
+[](http://www.truste.org/ivalidate.php?url=www.locateadoc.com&sealid=104)Last Updated: July 24, 2006
 
 LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us at [support@LocateADoc.com](mailto:support@LocateADoc.com). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
 
 LocateADoc, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.LocateADoc.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact our Client Services Specialists by email at [support@LocateADoc.com](mailto:support@LocateADoc.com), or by phone at (407) 830-9957 Mon-Friday 9AM-5PM EST, or by postal mail at One Perlieu Place, Suite 250, Winter Park, FL, 32835. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our Client Services Specialists by email at [support@LocateADoc.com](mailto:support@LocateADoc.com), or by phone at (407) 830-9957 Mon-Friday 9AM-5PM EST, or by postal mail at 1060 Woodcock Road, Orlando, FL, 32803. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 ##  **What Information About it's Visitors Does LocateADoc.com Gather?**
 
@@ -83,6 +83,14 @@ No person under 13 should disclose information on this site. If we learn that we
 
 We have links to other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree with them before using or making purchases. 
 
+## **Service Providers**
+
+We use other third parties to provide online shopping services on our site. When you use these online shopping services, you are doing so subject to their policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree with them before using or making purchases. 
+
+## **Co-branded sites**
+
+We have online shopping pages on our site that are co-branded with other third parties. We do not collect any personal information on these pages. We also do not have access to any personal information collected by third parties on these pages. When you visit these co-branded pages, you are doing so subject to the privacy and data collection policies of these third parties, and you should read their privacy policies to make sure you agree with them before doing so. 
+
 ## **Receiving Products and Services**
 
 From time to time, you will receive information pertaining to products and services we think you may be interested in. If you would not like to receive this information or if you wish to cancel a request or update your personal information, please email us at [support@LocateADoc.com](mailto:support@LocateADoc.com). Users and/or clients who no longer wish to receive our electronic newsletter or promotional materials from LocateADoc.com and/or our partners may follow the directions on the received email to unsubscribe. 
@@ -100,7 +108,7 @@ You will be notified when your personal information is collected by any third pa
   * **Newsletters  
 ** If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section above. 
   * **Service-related Announcements  
-** We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+** We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
@@ -133,8 +141,8 @@ By using our site, you consent to the collection and use of your information as 
 If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by emailing our Client Services Specialists at [support@LocateADoc.com](mailto:support@LocateADoc.com), or by contacting us by telephone or postal mail at the contact information listed below.
 
 LocateADoc.com  
-One Perlieu Place, Suite 250  
-Winter Park, FL 32825  
+1060 Woodcock Road  
+Orlando, FL, 32803  
 Ph: 407-830-9957   
   
 [](http://www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) [](http://www.hon.ch/HONcode/Conduct.html?HONConduct823986)All of the information on LocateADoc.com, (except for information provided by members of the LocateADoc.com community), is either written by health professionals or supported by public health recommendations. We subscribe to the [HONcode principles](http://www.hon.ch/HONcode/Conduct.html?HONConduct823986) of the [Health On the Net Foundation](http://www.hon.ch/). 
