@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624000141id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220306id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
 
 # ServiceMagic - Privacy Statement
 
@@ -104,6 +104,9 @@ Your information may be transferred to and maintained in whole or in part on com
 
 If users have any questions about the security at our Web site, users can send an email to [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
 
+**COPPA**  
+In accordance with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we do not knowingly collect personally identifiable information from anyone under the age of 13. Registration on the Sites and Services is not available to anyone under the age of 13.
+
 **Verification and Supplementation of Information**   
 In order for us to better conduct our business it is sometimes advisable or necessary for us to verify and/or supplement the information we receive from service providers and users of our Web site with information from 3rd party sources, provided that such sources confirm to us that they are permitted to share such information, such information is publicly available or the collection is required or authorized by law. Examples of collection from other sources include collections from:
 
@@ -122,7 +125,6 @@ Your rights to access your personal information are not absolute. We may deny ac
 
      • when denial of access is required or authorized by law;  
      • when granting you access would have an unreasonable impact on other people’s privacy;  
-       privacy;  
      • to protect our Company’s rights and property; or  
      • where the request is frivolous or vexatious.
 
