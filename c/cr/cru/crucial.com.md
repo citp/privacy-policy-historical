@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210023id_/http%3A//www.crucial.com/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192730id_/http%3A//www.crucial.com/store/privacy.asp) for the most accurate reproduction.*
 
 # Memory upgrades from Crucial.com - Memory news
 
@@ -51,7 +51,7 @@ We may supplement the information that you provide with information that is rece
 Crucial's site contains links to other sites. Crucial is not responsible for the privacy practices or the content of such Web sites.
 
 **Choice/opt-out**  
-Our site provides you with the opportunity to opt-out of receiving communications from us at any point where we request information. To change or cancel your Crucial newsletter subscriptions, visit our [newsletter subscription](https://web.archive.org/company/newslettersignup.asp) page. Un-selecting the boxes and clicking "Select" on this page will remove you from our e-mailing list. If you have any problems canceling your e-mail subscriptions, please contact us at 800-336-8915 (US and Canada only) or 208-363-5790. Or you can send an e-mail to [crucial.service@micron.com](mailto:crucial.service@micron.com).
+Our site provides you with the opportunity to opt-out of receiving communications from us at any point where we request information. To change or cancel your Crucial newsletter subscriptions, visit our [newsletter subscription](https://web.archive.org/us/mysite/newslettersignup.aspx) page. If you have any problems canceling your e-mail subscriptions, please contact us at 800-336-8915 (US and Canada only) or 208-363-5790. Or you can send an e-mail to [crucial.service@micron.com](mailto:crucial.service@micron.com).
 
 **Correct/update**  
 If you want to change or modify information you have previously provided to us, simply log in to your password-protected account. Once you are logged in, you will see links that will allow you to update your address book, e-mail subscriptions, password, and customer profile. (This list may change over time as our Web site is updated.) If you do not have a password-protected account with Crucial, you can modify your e-mail subscriptions on our e-mail subscription page. 
