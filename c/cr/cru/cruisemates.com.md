@@ -1,76 +1,54 @@
-> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214022id_/http%3A//cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # About CruiseMates.com
 
   
   
-A guarantee of confidentiality concerning personal information conveyed by CruiseMates Readers.
+
 
 * * *
 
-CruiseMates will NEVER release your individual personal information without your consent. It is not required to register to enter CruiseMates but access to these features "Meet on Board," "Cruise Trivia," and the "Ship Poll" not be enabled. The CruiseMates registration process makes records of information we need in order to track your test scores and ship ratings, for example.
+  
+**Privacy Statement**
 
-Importantly, registration for oue message boards is a completely separate record, and registering for either CruiseMates or CruiseMates message boards does not imply you are registered with both entities. You must register separately for the message boards. Click on the "Register" link on the main message board page.
+Cruisemates.com, an Internet Brands website, is committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit www.Cruisemates.com ("Site") without revealing who you are or providing any personal information about yourself. 
 
-To register with CruiseMates, we only require you to answer the following questions: 
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices. 
 
-> **
-> * User Name:  
-> 
-> * Password  
-> 
-> * Email Address  
-> 
-> **
-> * **ZIP code  
->  **
-> * **Where did you hear about us?**   
-> 
+This Site contains links to other sites. These include links to cruise and travel resources and other third-party sites that offer other travel-related products. Cruisemates.com is not responsible for the privacy practices or the content of such Web sites. 
 
-You create the user name and password. If a user name is already in use you will be asked to create a different name.
+**Browsing the Site**
 
-We also strongly REQUEST that you tell us additional information, such as your age, income, cruising history and cruising preferences -- you are NOT required to fill out this information. The information you submit voluntarily to our member registration is used to gather important statistics about the general demographics of our overall readership.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site. 
 
-This optional information is solely to help create a better website through better understanding of who comprises our readership.
+**Information Collected**
 
-**Aggregate statistical information:**  
-We may convey aggregated profile data regarding our members. This data DOES NOT contain personally identifying information such as name or email address. Individual identifying information will NEVER be provided to any of our advertisers or anyone else without your consent. However, aggregated data from our members may be shared with our partners. For example, we may let our advertisers know that approximately "X% of our members have cruised 5 times or more." However, we would never tell them anything about individual consumers (such as their name) unless the individual has given his/her consent to be contacted directly.
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email. 
 
-**Other uses of information:**  
-As we state above, we will never sell, exchange, or release our members' individual identifying information (such as their name, email address or preferences data) to a third party without your consent. Occasionally, we might send data files containing personal information (such as email addresses) to third party agents for data processing services. These third parties are restricted from using this data in any way other than to provide services for us, and may not use or resell the data.
+Any information provided by consumers becomes the property of Internet Brands once received by us and may be used and disclosed as permitted in this Policy. 
 
-Unfortunately, CruiseMates cannot be responsible for any third parties who enter CruiseMates with the intention of gathering names and/or email addresses for the purposes of solicitation. If you should be solicited by anyone without your consent you can forward the solicitation to CruiseMates and we will look into the matter to see what if any action can be taken.
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent you personal information to third parties for unknown reasons. 
 
-According to S.2326, Children's Online Privacy Protection Act of 1998 Websites must provide notice of its personal information collection and use practices; obtain parental consent for the collection, use, or disclosure of personal information from children aged 12 and under; provide parents access to their child's personal information; and establish and maintain reasonable procedures to ensure the confidentiality, security, accuracy, and integrity of personal information on children. CruiseMates supports and conforms with this pending legislation. The minimum age requirement to register with Cruisemates is 13. Any parents of children younger that 13 whose parents discover have registered with CruiseMates by lying about their age may contact us at [Editor](mailto:editor@cruisemates.com) to retrieve and delete the registration information of their children.
+**Use of Forums**
 
-**How and When We May Contact You:**  
-Cruisemates reserves the right to occasionally send its registered users email describing new articles, features or cruising opportunities offered by CruiseMates. You can opt out of these contacts completely, without giving up your right to remain a registered user of CruiseMates. See below for an explanation of how to do so.
+If you choose to transmit, submit or post information through the Site's review feature, chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. Cruisemates.com retains this information as necessary to resolve disputes, provide customer support and troubleshoots problem as permitted by law and pursuant to our Terms of use. 
 
-We request that you give us as much contact information as possible, including mailing address and phone number, in case we ever need to contact you for an emergency situation. What if you won our cruise contest but had been deleting the emails because you thought they were spam? Wouldn't you appreciate a phone call?
+**Cookies**
 
-**Recommend an Article:**  
-If you use our recommendation service to email one of our articles to a friend, you will need to provide us with your friend's email address and your email address as a return address. CruiseMates will automatically send this person a one-time email, attaching the recommended article. We will also invite him or her to visit and register with our site. We will not use these email addresses for any other purpose.
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about you more than once. 
 
-**Security:**  
-All the data you provide to Cruisemates is protected to ensure both its privacy and authenticity. Remember to keep your CruiseMates information private and secure; do not share your password with anyone!
+**Security**
 
-**Cookies:**  
-Cruisemates uses cookies when you register and login to CruiseMates. These cookies allow us to remember you as you visit pages in our site, so that you don't need to re-enter your password many times. These cookies do NOT track your movements in any other location other than the CruiseMates website. In addition, they do not register any personal information while tracking in CruiseMates. In other words, if your married but go to our singles cruising area, we will NOT be able to ascertain your individual identity.    [More on Cookies?](https://web.archive.org/articles/about/help.cfm#cookies)
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-**Newsletter Opt-in / Opt-out Policy:**  
-If you wish to be a CruiseMates member but do not wish to receive any newsletter e-mailings about special features and offers, you can OPT-OUT of our mailing list by following the instructions contained in our newsletter. This is the only way to opt-out. It works, and it is private. If you have a problem opting out, please contact [Customer Service](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/custsvc.cfm).
+**Contacting the Web Site**
 
-We reserve the right to place advertising related information into our newsletter which you will see as a subscriber to our newsletter, but we promise to keep it to a minimum and always include "Opt-out" information with the newsletter. We may send out a "dedicated" email advertisement to companies that wish to contact people with an interest in cruising, but these emails will always contain opt out information.
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently. 
 
-**Updating Our Records:**  
-Should we ever have the need to update our records, including those of people who have opted out of our newsletter subscription, we reserve the right to contact everyone who has ever registered with CruiseMates for the purposes of re-authentication of your subscription status at least once every two years. If you have no interest in hearing from us, please simply opt out of our email messages once again. Opting opt is simple and painless. 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: 
 
-**To change, update or correct User Profile:**  
-Go to our "[Help](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/help.cfm)" area of cruisemates and look the words "How can I change my Personal Profile?" for the information on how to update your personal profile. If you have a problem please contact [Customer Service](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/custsvc.cfm). 
+[Customer Service](http://www.cruisemates.com/articles/about/custsvc.cfm)
 
-**Other Questions:**  
-If you have other questions about CruiseMates or this Privacy Policy, please contact us at [Customer Service](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/custsvc.cfm).
+Cruisemates.com
 
-* * *
-
-[More About CruiseMates - About Us.](https://web.archive.org/articles/about/)
+Effective: August 11, 2006
