@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cycletrader.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323061724id_/http%3A//www.cycletrader.com/about.html%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cycletrader.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220236id_/http%3A//www.cycletrader.com/about.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # About Cycle Trader
 
