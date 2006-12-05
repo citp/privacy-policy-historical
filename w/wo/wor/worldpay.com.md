@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpay.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617143959id_/http%3A//www.worldpay.com/about_us/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194631id_/http%3A//www.worldpay.com/about_us/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # WorldPay About Us
 
@@ -12,7 +12,32 @@ To enable us to process your application we will typically acquire information w
 
 **Use and disclosure of Information**
 
-We use the information which you provide us to process your application. Some details are made available when we make a credit check. Subject to the above, WorldPay will not disclose the information to third parties, or make any use of it, without your permission (unless we are required to do so by statute or by an authorised body in order to aid the investigation or prevention of crime).
+Your information includes information about your transactions.
+
+We may use and share your information with other members of the Group to help us and them:
+
+  * assess financial and insurance risks;
+  * recover debt;
+  * prevent and detect crime;
+  * understand our customers' requirements;
+  * develop and test products and services
+
+
+
+We do not disclose your information to anyone outside the Group except:
+
+  * where we have your permission; or
+  * where we are required or permitted to do so by law; or
+  * to other companies who provide a service to us or you 
+  * where we may transfer rights and obligations under this agreement.
+
+
+
+We may transfer your information to other countries. If we do this we will ensure that anyone to whom we pass it provides an adequate level of protection.
+
+From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we shall write to you. If you do not object to the change within 60 days, you consent to that change.
+
+If you would like a copy of the information we hold about you, please write to: The Royal Bank of Scotland plc, 36 St Andrew Square, Edinburgh, EH2 2YB. A fee may be payable.
 
 **Security**
 
