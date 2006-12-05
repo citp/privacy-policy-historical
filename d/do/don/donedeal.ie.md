@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200242id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204245id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - DoneDeal.ie
 
@@ -31,7 +31,8 @@ We will process any Personal Data you provide to us for the following purposes:
 
   1. to provide you with the services you have ordered;
   2. to contact you if required in connection with your order or to respond to any communications you might send to us;
-  3. and as DoneDeal.ie is being actively developed we might contact you to get feedback on the service provided;
+  3. to inform you about changes to our service or web site that we believe will be of interest to you;
+  4. and as DoneDeal.ie is being actively developed we might contact you to get feedback on the service provided;
 
 
 
