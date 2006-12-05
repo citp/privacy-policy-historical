@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205921id_/http%3A//www.bfi.org.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201559id_/http%3A//www.bfi.org.uk/help/privacy.html) for the most accurate reproduction.*
 
-# bfi | Help | Your privacy
+# BFI | Help | Your privacy
 
 ## Your Privacy & Security
 
