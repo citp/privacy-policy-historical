@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619192229id_/http%3A//www.conservatives.com/tile.do%3Fdef%3Dprivacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202407id_/http%3A//www.conservatives.com/tile.do%3Fdef%3Dprivacy.page) for the most accurate reproduction.*
 
 # Conservative Party - Conservatives.com Privacy Policy
 
 |  |   |   
 ---|---|---  
   
-Your views matter to Conservatives. We have tried to make it as easy as possible for you to get in touch and let us know about the issues that really matter to you. We also want you to do this with confidence. We take privacy very seriously and want you to know exactly what happens to any information you send us.
+Your views matter to Conservatives. We have tried to make it as easy as possible for you to get in touch and let us know about the issues that really matter to you. We also want you to do this with confidence. We take privacy very seriously and want you to know exactly what happens to any information you send us. 
 
 On this page, we set out:
 
@@ -20,7 +20,7 @@ On this page, we set out:
   
 | About Us |   
   
-This is a privacy policy for the Conservative Party website. Our homepage on the Web is located at [http://www.conservatives.com](http://www.conservatives.com/).
+This is a privacy policy for the Conservative Party website. Our homepage on the Web is located at [http://www.conservatives.com](http://www.conservatives.com/). 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
@@ -47,7 +47,7 @@ Join and Donate
 
 In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
 
-If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [http://www.electoralcommission.gov.uk/](https://web.archive.org/web/20060619192229id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
+If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [http://www.electoralcommission.gov.uk/](https://web.archive.org/web/20061205202407id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
 
 Under the Political Party Elections and Referendums Act 2000 (PPERA) you must be on the electoral register in the UK excluding the Channel Islands and the Isle of Man in order to make a donation of more than £200.
 
@@ -63,17 +63,14 @@ Feedback
 
 To send us a message using our feedback forms we collect your name, email address and comments. At your option we may also collect your postal code. This data will be used by ourselves and our agents for contacting you. You may opt out of any future mailing.
 
-Online Polls
+Online polls and surveys
 
-If you wish to participate in an online poll, in addition to your answer, we collect your Internet Protocol (IP) address. This data will be used by ourselves and our agents to help validate the results and help prevent multiple entries from individuals. In addition to this a cookie will be placed on your system after participating in a poll. No identifiable information will be stored in this cookie.
+If you wish to participate in an online poll or survey, in addition to your answers, we collect your Internet Protocol (IP) address. This data will be used by ourselves and our agents to help validate the results and help prevent multiple entries from individuals. In addition to this a cookie will be placed on your system after participating in a poll or survey. No identifiable information will be stored in this cookie.
 
-Shop
+Log files and statistics
 
-Our online shop has its own privacy policy which you can [view here](http://shop.conservatives.com/page.jsp?name=privacy).
-
-Log Files
-
-We use IP addresses, URI's of requested resources, timestamps and HTTP user-agents to analyse trends, administer the system and gather broad demographic information for aggregate use.  
+We use IP addresses, URI's of requested resources, timestamps and HTTP user-agents to analyse trends, administer the system and gather broad demographic information for aggregate use. In addition to this we use Google Analytics, a web analytics service provided by Google, Inc ("Google"). Google Analytics uses cookies, to help analyse how visitors use our site. The information generated by the cookie about the use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for the Conservative Party and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your Web browser, however please note that if you do this you may not be able to make full use of our website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
+  
   
 | Cookies |   
   
@@ -86,7 +83,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
   * User targeting 
   * Contacting users 
   * User analysis 
-  * Online Polls
+  * Online polls and surveys
 
   
 | Links |   
@@ -108,11 +105,13 @@ We take our responsibilities to protect you from fraud very seriously. To fulfil
 | Correcting/Updating Information |   
 We recognise that details such as your post code or email address are bound to change over time. We will do what we can to ensure that you can change the information we hold about you.   
 | Choice/Opt Out |   
+  
 You will always be able to opt out of having your information used for any purpose other than that specifically related to the page where we ask for it. Our membership form, for instance, has an opt out mechanism so that you can join online without subscribing to our email list.
 
 If you ever want to stop us getting in touch, you can opt out by following the instructions at the foot of every email we send.   
   
 | Notification of Changes |   
+  
 If we change our privacy policy, we shall post a link to those changes on our homepage so that you always know what information we collect, how we use it and under what circumstances, if any, we disclose it.
 
 When we collect information from you, we tell you what we intend to do with it; if we later want to use that information for a different purpose, we shall first send you an email setting out our plans - and it will be up to you whether or not we do so. 
