@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200520id_/http%3A//www.commercialappeal.com/mca/home/article/0%2C1426%2CMCA_435_1660485%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210936id_/http%3A//www.commercialappeal.com/mca/home/article/0%2C1426%2CMCA_435_1660485%2C00.html) for the most accurate reproduction.*
 
-# commercialappeal.com - Memphis, TN
+# Memphis Commercial Appeal - Memphis' Source for News and Information
 
-### October 27, 2003
+### October 27, 2006
 
 **For The Commercial Appeal / commercialappeal.com**
 
@@ -24,6 +24,15 @@ Like many other commercial sites, our site **** may utilize a standard technolog
 We also may use cookies in connection with chat rooms in order to record your preferences. These cookies may store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also may have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site. 
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons in the following way: 
+
+  * For auditing purposes and to collect information from the websites of certain partners.
+  * Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. 
+
+
+
+Our practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out by contacting us at the e-mail address, postal address or telephone number stated above. 
 
 In addition, users may complete a subscription form online in order to subscribe to The Commercial Appeal. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
 
