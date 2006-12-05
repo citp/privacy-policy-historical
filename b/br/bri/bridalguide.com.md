@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617130550id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003546id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
 
-# WELCOME TO BRIDALGUIDE.COM
+# Wedding Planning, Advice | Bridal Guide Magazine
 
 Bridalguide.com is committed to safeguarding your privacy while you are on our site. The following privacy policy describes what personal information we collect from you and exactly how we use it. 
 
