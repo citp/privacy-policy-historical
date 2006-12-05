@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517005053id_/http%3A//www.nextstudent.com/about_NextStudent/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234205id_/http%3A//www.nextstudent.com/about_NextStudent/privacy.asp) for the most accurate reproduction.*
 
 # NextStudent Privacy Policy - Student Loans and Federal Loan Consolidation - NextStudent.com
 
@@ -124,7 +124,7 @@ please contact us at:
 NextStudent  
 19601 N Black Canyon Hwy   
 Phoenix, Arizona 85027   
-Phone: (800) 299-4639  
+Phone: (800) 658-6801  
 Web site: [www.nextstudent.com ](http://www.nextstudent.com/)
 
   
