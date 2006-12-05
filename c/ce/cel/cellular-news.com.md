@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellular-news.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219211320id_/http%3A//www.cellular-news.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellular-news.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191700id_/http%3A//www.cellular-news.com/misc/privacy.php) for the most accurate reproduction.*
 
 # cellular-news privacy policy
 
