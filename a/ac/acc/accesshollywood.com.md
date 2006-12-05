@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210249id_/http%3A//www.accesshollywood.com/insideaccess/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233014id_/http%3A//accesshollywood.com/insideaccess/privacypolicy.shtml) for the most accurate reproduction.*
 
 # None
 
