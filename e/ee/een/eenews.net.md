@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626015559id_/http%3A//eenews.net/learn_more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231144id_/http%3A//www.eenews.net/learn_more/privacy_policy) for the most accurate reproduction.*
 
 # E&E Publishing -- Privacy Policy
 
@@ -14,7 +14,7 @@ The information we automatically collect is used to determine what stories, publ
 
 ## What do we tell others about you? 
 
-We do not provide information automatically collected by our Web site -- or provided to us voluntarily -- to third parties unless we are legally required to do this. We do on occasion provide statistical data to partners and clients in order to explain how subscribers use our Web site. This data is aggregated and does not provide specific information about individuals or their usage of our Web site. Some organizations, as part of a subscription agreement, do require us to provide information about how frequently their employees, in aggregate, use our site.
+We do not provide information about individual usage automatically collected by our Web site -- or provided to us voluntarily -- to third parties unless we are legally required to do this. We do on occasion provide statistical data to partners and clients in order to explain how subscribers use our Web site. This data is aggregated and does not provide specific information about individuals or their usage of our Web site. Some organizations, as part of a subscription agreement, do require us to provide information about how frequently their employees, in aggregate, use our site.
 
 ## What are your options?
 
