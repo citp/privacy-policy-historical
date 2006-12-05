@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000513id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212829id_/http%3A//poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
 
 # Amateur, Voyeur & Exhibitionist PoseParty - The Sexiest Party On Earth
 
+##  PRIVACY STATEMENT 
+
 We will not collect any personal or business information, nor store or share that information with any third party without your express permission. 
 
-##  Why we need Information 
+###  Why we need Information 
 
 When you visit our site you will receive explicit advice when we seek to gather information about you. The information you provide is used to produce your web page and any information you supply is displayed to the public on this page, unless otherwise stated. 
 
-##  The Registration Process 
+###  The Registration Process 
 
 The information harvested during the registration process is used to create your own unique identification as a site visitor/services user and enable us to undertake the various administration processes necessary. 
 
-##  Your Unique Identification 
+###  Your Unique Identification 
 
 This identification is provided in the form of a member name and password. It is important that you keep this identification secret to avoid unauthorized use of your account. 
 
-##  How we use your Information 
+###  How we use your Information 
 
 The information we collect about you or your business enables us to: 
 
@@ -29,46 +31,46 @@ The information we collect about you or your business enables us to:
 
 
 
-##  How do you know if we are gathering Information? 
+###  How do you know if we are gathering Information? 
 
 Detailed information about you is only collected when you are advised explicitly that is what we are doing and you supply it voluntarily. 
 
-##  Sharing Information 
+###  Sharing Information 
 
 PoseParty.Com does not share your information with any sub-contractors or third parties. We do however encourage you to look at the privacy statements of our billing agents, Paycom abd CCBill. 
 
-##  Checking Information 
+###  Checking Information 
 
 You can check the accuracy of our records and make modifications at any time in the 'My Account' settings area. 
 
-##  Deleting Information 
+###  Deleting Information 
 
 You can immediately delete any information we hold about you by using the facilities in My Account. But please remember that deletion of key information may affect your status as a registered user. 
 
-##  Legal Disclosure 
+###  Legal Disclosure 
 
 When approached by the appropriate authorities, information about you, your business or account usage may be disclosed but only when legally required under European Law. 
 
-##  Payment Encryption Technology 
+###  Payment Encryption Technology 
 
 To maintain the highest security we use the services of Paycom and CCBill, both very technologically advanced billing agents who use state-of-the-art 128 bit encyption techniques. 
 
-##  Hackers and Viruses 
+###  Hackers and Viruses 
 
 Your registration details are very important - please keep your password and member name secret. It is better for other users to register separately than to share your account access information. We will never write to ask for your login details - be cautious of anyone asking for this information. 
 
-##  Automated Collection of Other Information 
+###  Automated Collection of Other Information 
 
 Some non-personal information may be collected automatically, such as the computer operating system and the type of browser software you are using, along with special codes that tell us which pages you have visited. Some information is stored in the form of a 'cookie', a small file which remains on your computer but which acts as a reminder about any preferences you have selected when visiting our sites. We only use 'cookies' to improve our service to you. We may also store your log in details on your computer, but only if you explicitly request us to do so. Remember that if you opt for us to do this, any other user of the same computer can access your account. You can delete this 'cookie' by clicking the Log Out link at the top of any page. 
 
-##  Switching Cookies Off 
+###  Switching Cookies Off 
 
 Cookies are required in order to become a member of PoseParty, or to use the PoseParty Services. 
 
-##  Changes to our Privacy Promise 
+###  Changes to our Privacy Promise 
 
 We reserve the right to change this statement at any time without warning to meet any statutory requirements or changes in the nature of our activities and services. This privacy statement does not form the basis of any contract between any party. 
 
-##  Protect your Privacy 
+###  Protect your Privacy 
 
 We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes. 
