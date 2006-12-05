@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025346id_/http%3A//www.channelregister.co.uk/Design/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205182748id_/http%3A//www.channelregister.co.uk/Design/page/privacy) for the most accurate reproduction.*
 
 # Your Privacy and Channel Register
 
