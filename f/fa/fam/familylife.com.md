@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210336id_/http%3A//familylife.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204755id_/http%3A//www.familylife.com/about/privacy.asp) for the most accurate reproduction.*
 
 # About FamilyLife: Privacy Policy - FamilyLife - Strengthening families, marriages and relationships
 
