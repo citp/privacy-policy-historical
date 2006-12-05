@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020500id_/http%3A//www.automobilemag.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221616id_/http%3A//www.automobilemag.com/corporate/privacy) for the most accurate reproduction.*
 
 # Automobile Magazine Privacy Policy
 
@@ -154,6 +154,3 @@ Or you can fax us at (212) 745-0131, Att: Privacy Coordinator
 _
 
 Updated July 30, 2002 
-
-  
- 
