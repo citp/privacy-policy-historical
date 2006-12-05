@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204626id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215705id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Cooks Recipes | Privacy Policy for CooksRecipes.com
 
@@ -10,7 +10,7 @@ For the Web User to CooksRecipes.com's Web page, our Web server automatically co
 
 With respect to cookies: We do not set any cookies.
 
-All email addresses submitted to CooksRecipes.com in regard to our newsletter, CooksRecipes Digest, or for any other reason will be kept strictly confidential and private. You can be assured our mailing list will NEVER be shared or sold as a whole or in part.
+All email addresses submitted to CooksRecipes.com in regard to our newsletter, The Daily Recipe, or for any other reason will be kept strictly confidential and private. You can be assured the mailing list will NEVER be shared or sold as a whole or in part.
 
 If you supply CooksRecipes.com with your postal address on-line you will only receive the information for which you provided us your address.
 
@@ -34,4 +34,4 @@ Regarding Outside Links: This website contains links to other websites. Please b
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-[Contact CooksRecipes.com](https://web.archive.org/web/20060616204626id_/http%3A//cooksrecipes.com/contact.htm)
+[Contact CooksRecipes.com](https://web.archive.org/web/20061205215705id_/http%3A//cooksrecipes.com/contact.htm)
