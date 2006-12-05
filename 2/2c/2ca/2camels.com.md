@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 2camels.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204635id_/http%3A//www.2camels.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2camels.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235851id_/http%3A//www.2camels.com/privacy-policy.php) for the most accurate reproduction.*
 
-# 2camels Privacy Policy - Festivals and Events from 2camels
+# 2camels Privacy Policy
 
-You are at the website of 2camels.com. The editor of this site can be reached [here](mailto:editor@2camels..com).
+You are at the website of 2camels. The editor of this site can be reached [here](mailto:editor@2camels..com).
 
-2camels.com does not collect individual data on its users.
+2camelsdoes not collect individual data on its users.
 
-2camels.com collects agregate data for statistical purposes using AWStats. This data is used for internal purposes only.
+2camelscollects agregate data for statistical purposes using AWStats. This data is used for internal purposes only.
 
 The information collected on subscibers to the site is maintained for internal purposes only. This information is never sold, rented or made available to any third parties.
 
