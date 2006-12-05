@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324051444id_/http%3A//www.manning.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222624id_/http%3A//www.manning.com/about/privacy.html) for the most accurate reproduction.*
 
-# Manning Manning Privacy Policy
+# Manning Publicity Department
 
 This statement concerns our policy regarding the personal information that we may gather from visitors to our Web sites (all manning.com, manning-sandbox.com and manning-source.com) or from customers who buy directly from us.  It lets you know why we collect information and the things that you can do to control it.
 
@@ -34,4 +34,4 @@ If we revise our Privacy Policy, we will post any changes on [www.manning.com](h
 
 ### How to update, correct, or delete your information
 
-To make changes or to unsubscribe for our email newsletters or product announcements, please send an email to Manning’s Publicist, Helen Trimes [hetr@manning.com](mailto:hetr@manning.com).
+To make changes or to unsubscribe for our email newsletters or product announcements, please send an email to the Manning Marketing Department at [mkt@manning.com](mailto:mkt@manning.com).
