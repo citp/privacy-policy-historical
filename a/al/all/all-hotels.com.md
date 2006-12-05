@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023416id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202951id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # help and info - faq menu page
 
