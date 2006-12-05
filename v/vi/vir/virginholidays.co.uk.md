@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616081932id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002522id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy - Important - Virgin Holidays
 
