@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cio.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616201006id_/http%3A//www.cio.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cio.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205183052id_/http%3A//www.cio.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head><base target="_top">
 
@@ -8,7 +8,7 @@
 <!-- begin MetaTags -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="resource-type" content="document">
-<meta name="publicationDate" content="2006-06-16">
+<meta name="publicationDate" content="2006-12-05">
 <meta name="source" content="CIO.com">
 <meta name="contributer" content="CIO.com">
 <meta name="publisher" content="CXO Media">
@@ -24,11 +24,13 @@
 <meta name="description" content="">
 <meta name="idg-url" content="http://www.cio.com/privacy.html">
 <meta name="keywords" content="">
-<link rel="stylesheet" type="text/css" href="/styles.css">
-<link rel="stylesheet" type="text/css" href="/top_nav_styles.css">
+<link rel="stylesheet" type="text/css" href="/styles_072006.css">
+<link rel="stylesheet" type="text/css" href="/top_nav_styles_072006.css">
 <script type="text/javascript">
 <!--
+var pageisloaded = 'false';
 var time = 3000;
+var numberofmenuitems = 8;
 var numofitems = 8;
 var menuitem1 ;
 var menuitem2 ;
@@ -41,6 +43,7 @@ var menuitem8 ;
 
 //menu constructor
 function menu(allitems,thisitem,startstate){ 
+if (pageisloaded == 'true'){
   callname= "gl"+thisitem;
   divname="subglobal"+thisitem;  
   this.numberofmenuitems = 8;
@@ -48,17 +51,20 @@ function menu(allitems,thisitem,startstate){
   this.thediv = document.getElementById(divname);
   this.thediv.style.visibility = startstate;
 }
+}
 
 //menu methods
 function ehandler(event,theobj){
+if (pageisloaded == 'true'){
   for (var i=1; i<= theobj.numberofmenuitems; i++){
     var shutdiv =eval( "menuitem"+i+".thediv");
     shutdiv.style.visibility="hidden";
   }
   theobj.thediv.style.visibility="visible";
 }
-				
+}				
 function closesubnav(event){
+if (pageisloaded == 'true'){
   if ((event.clientY <8)||(event.clientY > 207)){
     for (var i=1; i<= numofitems; i++){
       var shutdiv =eval('menuitem'+i+'.thediv');
@@ -66,15 +72,23 @@ function closesubnav(event){
     }
   }
 }
+}
+
+function redirect (){
+	var list = document.forms["navList"].urlList;
+	var redirectURL = list.options[list.selectedIndex].value;
+	location.href = redirectURL;
+}
+
+function redirect2 (){
+	var list2 = document.forms["navList2"].urlList2;
+	var redirectURL2 = list2.options[list2.selectedIndex].value;
+	location.href = redirectURL2;
+}
+
 // -->
 </script>
-
-<!-- EOLAS fix -->
-<!--[if IE]>
-<script type="text/javascript"  src="/fix_eolas.js"  defer="defer"></script>
-<![endif]-->
-<!-- END EOLAS fix -->
-
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <link rel="alternate" type="application/rss+xml" title="CIO News Podcasts" href="http://www.cio.com/podcasts/IDGnews_podcasts.xml">
 <link rel="alternate" type="application/rss+xml" title="CIO Coach Casting" href="http://www.cio.com/podcasts/podcasts.xml">
 <link rel="alternate" type="application/rss+xml" title="CIO Week in Review" href="http://www.cio.com/podcasts/weekinreview_podcasts.xml">
@@ -83,74 +97,74 @@ function closesubnav(event){
 
 </head>
 <!-- create valid UNIX timestamp for date/time formatting -->
-<body background="http://www.cio.com/images/cio_background_05.gif" bgcolor="#ffffff" marginwidth="0" marginheight="0" bottommargin="0" topmargin="0" rightmargin="0" leftmargin="0" onmousemove="closesubnav(event);" id="home">
+
+<body style="background-image:url(/images/BG_cio_06.gif); background-repeat:repeat-y; background-color:#036;" marginwidth="0" marginheight="0" bottommargin="0" topmargin="0" bgcolor="#003366" rightmargin="0" leftmargin="0" onmousemove="closesubnav(event);" id="home">
+
 <!-- begin Banner Ad -->
-<table border="0" cellpadding="0" cellspacing="0" width="955">
+<table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td align="center" width="130" valign="top"><!--<A HREF="http://subscribe.cio.com/newsletters.cfm"><IMG SRC="http://images.cio.com/images/newsletters_sidebutton.gif" WIDTH="99" HEIGHT="68" ALT="Free Newsletters" BORDER="0"></A><IMG SRC="http://images.cio.com/images/dotclear.gif" WIDTH="125" HEIGHT="1">--><a href="http://subscribe.cio.com/"><img src="/images2005/hp/091205-pic-free-mag-sub.gif" width="110" height="90" border="0" vspace="5" alt="FREE CIO magazine Subscription"></a></td>
-<td bgcolor="#003366" valign="top" width="10"><img src="http://images.cio.com/images/dotclear.gif" width="10" height="1"></td>
-<td align="center" bgcolor="#003366" width="815">
+<td width="160" bgcolor="#003366" valign="top"><!--<A href="http://subscribe.cio.com/newsletters.cfm"><IMG SRC="http://images.cio.com/images/newsletters_sidebutton.gif" WIDTH="99" HEIGHT="68" ALT="Free Newsletters" BORDER="0"></A><IMG SRC="http://images.cio.com/images/dotclear.gif" WIDTH="125" HEIGHT="1">--><a href="http://subscribe.cio.com/"><img style="margin-left:22px;" src="/images2005/hp/091205-pic-free-mag-sub.gif" width="110" height="90" border="0" vspace="5" alt="FREE CIO magazine Subscription"></a><br>
+<img src="/images/dotclear.gif" width="160" height="1"></td>
+
+<td colspan="2" height="90" align="left" bgcolor="#003366" style="width:auto; background-color:#003366;">
+
+<!-- begin interstitial serving script code -->
+
+<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/idg.us.cio.cio;dcopt=ist;abr=!webtv;pos=top;sz=1x1;ord=1205200613231?">
+<!--
+//-->
+</script> 
+ 
+<script> 
+<!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+document.write('<a style="height:1px; width:1px; margin:0;" href="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=int;sz=1x1;ord=1205200613231?">');
+document.write('<img style="height:1px; width:1px; margin:0;" src="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=int;sz=1x1;ord=1205200613231?" border="0" height="1" width="1"></a>') 
+} 
+//-->
+</script> 
+<noscript> 
+<a style="height:1px; width:1px; margin:0;" href="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=int;sz=1x1;ord=1205200613231?" >
+<img  style="height:1px; width:1px; margin:0;" src="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=int;sz=1x1;ord=1205200613231?" border="0" height="1" width="1"></a>
+</noscript>
+
+<!--end interstitial code 
 <nolayer>
-	<iframe src="http://ad.doubleclick.net/adi/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=06162006155610?" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-	<a HREF='http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=06162006155610?'><img SRC='http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=06162006155610?' BORDER="0" HEIGHT="90" WIDTH="728"></a>
+	<iframe SRC='http://ad.doubleclick.net/adi/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=1205200613231?' WIDTH="728" HEIGHT="90" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+	<a href='http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=1205200613231?'><img SRC='http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=1205200613231?' BORDER="0" HEIGHT="90" WIDTH="728"></a>
 	</iframe>
 	</nolayer>
-	<ilayer id="layer3" visibility="hidden" width="728" height="90"></ilayer>
-<layer src="http://ad.doubleclick.net/adl/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=06162006155610?" width="728" height="90" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=90;clip.width=728; visibility='show';"></layer>
+	<ilayer ID="layer3" VISIBILITY="hidden" WIDTH="728" HEIGHT="90"></ilayer>
+<layer SRC='http://ad.doubleclick.net/adl/idg.us.cio.cio;pos=top;sz=468x60;ptile=2;ord=1205200613231?' width=728 height=90 visibility="hidden" onLoad="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=90;clip.width=728; visibility='show';"></layer>
+-->
 
-<!--
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/idg.us.cio.cio;abr=!webtv;pos=top;sz=468x60;ord=06162006155610?">
+ <script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/idg.us.cio.cio;abr=!webtv;pos=top;sz=468x60;ord=1205200613231?">
 </script> 
  
 <script> 
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-document.write('<A HREF="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=468x60;ord=06162006155610?">');
-document.write('<IMG SRC="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=468x60;ord=06162006155610?" border="0" height="60" width="468"></A>') 
+document.write('<a href="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=468x60;ord=1205200613231?">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=468x60;ord=1205200613231?" border="0" height="60" width="468"></A>') 
 } 
 </script> 
 <noscript> 
-<a HREF="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=468x60;ord=06162006155610?" ><img SRC="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=468x60;ord=06162006155610?" border="0" height="60" width="468"></a>
+<a href='http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=468x60;ord=1205200613231?' ><img SRC='http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=468x60;ord=1205200613231?' border="0" height="60" width="468"></a>
 </noscript>
--->
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top" class="spacerrowblue"></td>
+<td colspan="3" width="1000" valign="top" class="spacerrowblue" bgcolor="#003366"></td>
 </tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="955">
+<table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td align="center" valign="top" width="132"><a href="http://www.cio.com/"><img src="http://images.cio.com/images/navbar/cio-logo.gif" width="110" height="59" border="0" alt="CIO.com - The Resource for Information Executives"></a>
+<td style="height:59px; overflow:hidden;" width="160" valign="top" bgcolor="#003366"><a href="http://www.cio.com/"><img style="margin-left:22px;" src="http://www.cio.com/asts/log/cio-logo.gif" width="110" height="59" border="0" alt="CIO.com - Business Technology Leadership"></a><br>
+<img src="/images/dotclear.gif" width="160" height="1"></td>
 <!-- end CIO logo -->
-<!-- SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript">
-<!-- /* You may give each page an identifying name, server, and channel on the next lines. */ 
-var s_pageName="CIO.COM Privacy Statement  - Subscribe"
-var s_server="www.cio.com"
-var s_channel="Subscribe"
-var s_pageType="PHP"
-var s_prop1=""
-var s_prop2=""
-var s_prop3=""
-var s_prop4=""
-var s_prop5=""
-/* E-commerce Variables */
-var s_campaign=""
-var s_state=""
-var s_zip=""
-var s_events=""
-var s_products=""
-var s_purchaseID=""
-var s_eVar1=""
-var s_eVar2=""
-var s_eVar3=""
-var s_eVar4=""
-var s_eVar5=""
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/ //-->
-</script>
-<script language="JavaScript" src="http://www.cio.com/2005_omniture_code.js"></script> 
-<!-- End SiteCatalyst code version: G.7. -->
-</td>
-<td height="60" valign="top" width="778">
+
+
+<td style="margin:0;" width="840" height="60" valign="top" colspan="2">
+
 <div id="globalNav"> 
 <div id="tab">
 <ul>
@@ -174,9 +188,36 @@ var s_eVar5=""
 <div id="subglobal6" class="subglobalNav" style="visibility: hidden;"><a href="http://www.cio.com/sourcing/outsourcing/">Outsourcing</a><img src="http://www.cio.com/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://www.cio.com/sourcing/staffing/">Staffing &amp; Retention</a></div>
 <div id="subglobal7" class="subglobalNav" style="visibility: hidden;"><a href="http://www.cio.com/soa/">SOA</a><img src="http://www.cio.com/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://www.cio.com/technology/technologies/">Emerging Technologies</a><img src="http://www.cio.com/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://www.cio.com/technology/infrastructure/">Infrastructure</a><img src="http://www.cio.com/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://www.cio.com/technology/wireless/">Wireless</a></div>
 <div id="subglobal8" class="subglobalNav" style="visibility: hidden;"><a href="http://www.cio.com/research/executive/counselor.html">Career Counselor</a><img src="http://www.cio.com/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://www.cio.com/leadership/executive/">CIO Executive</a><img src="/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://jobs.cio.com/">CIO Wanted</a><img src="http://www.cio.com/images/div/div-hp-subnav.gif" width="18" height="15" border="0" alt=""><a href="http://www.cio.com/career/future/">Future CIO</a></div></div>
-</td>
-</tr>
-</tbody></table>
+
+<!-- SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+<!-- 
+/* You may give each page an identifying name, server, and channel on the next lines. */ 
+var s_pageName="CIO.COM Privacy Statement  - Subscribe"
+var s_server="www.cio.com"
+var s_channel="Subscribe"
+var s_pageType=""
+var s_prop1="/web/apache/share/htdocs/cio/www"
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+/* E-commerce Variables */
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5="http://www.cio.com/privacy.html"
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/ 
+//-->
+</script>
+<script language="JavaScript" src="http://www.cio.com/2005_omniture_code.js"></script> 
 <script type="text/javascript">
 	<!--
 	var menuitem1 = new menu(8,1,"hidden");
@@ -189,65 +230,72 @@ var s_eVar5=""
 	var menuitem8 = new menu(8,8,"hidden");
     // -->
 </script>
+
+</td>
+</tr>
+</tbody></table>
+
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td bgcolor="#003366" valign="top" width="130">
+<td class="small" bgcolor="#003366" valign="top" width="160">
 
-<font class="small">
 <!-- begin Search Box -->
 <form name="seek1" method="GET" accept-charset="iso-8859-1" action="http://search.cxo.com/cio/query.html">
 <input type="hidden" name="col" id="cio" value="cio">
-&nbsp;<input type="text" name="qt" id="search" size="16" style="margin-left: 4px; margin-top: 5px; width: 120px; height: 22px;" value=" " maxlength="1991">
-&nbsp;<input type="image" name="search" src="http://www.cio.com/asts/btn/btn-search-cio.gif" border="0" style="margin-left: 4px;">
+&nbsp;<input type="text" name="qt" id="search" size="16" style="margin-left: 19px; margin-top: 5px; width: 120px; height: 22px;" value=" " maxlength="1991">
+&nbsp;<input type="image" name="search" src="http://www.cio.com/asts/btn/btn-search-cio.gif" border="0" style="margin-left: 22px;">
 <br>
-<div align="center" style="margin: 3px;"><a href="http://www.cio.com/rss/"><img src="http://www.cio.com/asts/btn/btn-rss-xml.gif" width="50" height="11" border="0" alt="RSS/XML Feed"></a></div>
-<script language="JavaScript" type="text/javascript">
+<div style="margin: 3px 0px 0px 53px;"><a href="http://www.cio.com/rss/"><img src="http://www.cio.com/asts/btn/btn-rss-xml.gif" width="50" height="11" border="0" alt="RSS/XML Feed"></a></div>
+<!-- <script language="JavaScript" type="text/javascript">
 <!--
 
 // ********************************
 // application-specific functions *
 // ********************************
 
-function showMenu(menuNumber, eventObj) {
+// function showMenu(menuNumber, eventObj) {
     //    alert(eventObj);
-    hideAllMenus();
-    var menuId = 'surveyMenu' + menuNumber;
-    if(changeObjectVisibility(menuId, 'visible')) {
-	var surveyMenuTitle = getStyleObject('surveyMenuTitle' + menuNumber);
-	surveyMenuTitle.backgroundColor = '#ff9900';
-	eventObj.cancelBubble = true;
-	return true;
-    } else {
-	return false;
-    }
-}
+//     hideAllMenus();
+ //    var menuId = 'surveyMenu' + menuNumber;
+//     if(changeObjectVisibility(menuId, 'visible')) {
+// 	var surveyMenuTitle = getStyleObject('surveyMenuTitle' + menuNumber);
+// 	surveyMenuTitle.backgroundColor = '#ff9900';
+// 	eventObj.cancelBubble = true;
+// 	return true;
+ //    } else {
+// 	return false;
+//     }
+// }
 
-var numMenus = 2;
+// var numMenus = 2;
 
-function hideAllMenus() {
-    for(counter = 1; counter <= numMenus; counter++) {
-	changeObjectVisibility('surveyMenu' + counter, 'hidden');
-	var surveyMenuTitle = getStyleObject('surveyMenuTitle' + counter);
-	surveyMenuTitle.backgroundColor = '#FFFFFF';
-    }
-}
+// function hideAllMenus() {
+//     for(counter = 1; counter <= numMenus; counter++) {
+// 	changeObjectVisibility('surveyMenu' + counter, 'hidden');
+// 	var surveyMenuTitle = getStyleObject('surveyMenuTitle' + counter);
+// 	surveyMenuTitle.backgroundColor = '#FFFFFF';
+//     }
+// }
 
-document.onclick = hideAllMenus;
+// document.onclick = hideAllMenus;
 
 // -->
-</script>
+<!-- </SCRIPT> -->
 <style>
 /* Left Nav */
 #left_nav {
 	background: #081D32;
-	width: 128px;
+	width: 160px;
 	margin: 15px 0px 0px 0px;
-	padding: 1px 1px 1px 1px;
+	padding: 0;
 	font-family: arial, helvetica;
 	color: #ffff33;
+	text-align:left;
+	background-color:#003366;
 	}
 *html #left_nav {
-	width: 130px;
+	width: 160px;
+	background-color:#003366;
 	}
 #left_nav a:link, #left_nav a:visited {
 	color: #ffff66;
@@ -265,10 +313,9 @@ document.onclick = hideAllMenus;
 	padding: 4px 2px 4px 5px;
 	}
 #left_nav h3.blue {
-	background: #003366 url("/asts/bak/bak-left-nav-h3-blue.gif");
-	}
+	 background: #003366 url("/asts/bak/bak-left-nav-h3-blue_072006.gif");	}
 #left_nav h4 a:link, #left_nav h4 a:visited {
-	color: #ffffff;
+	
 	text-decoration: none;
 	}
 #left_nav h4 a:hover {
@@ -277,10 +324,10 @@ document.onclick = hideAllMenus;
 	}
 #left_nav h4 {
 	font-family: verdana, helvetica;
-	font-size: 11px;
-	font-weight: 400;
-	margin: 0px 0px 0px 0px;
-	padding: 0px 0px 0px 0px;
+	font-size: 12px;
+	font-weight: 700;
+	margin: 0px 0px 2px 0px;
+	padding: 1px 0px 1px 0px;
 	}
 #left_nav ul {
 	margin: 0px 0px 1px 0px;
@@ -288,63 +335,93 @@ document.onclick = hideAllMenus;
 	list-style-type: none;
 	}
 #left_nav li {
-	background: #002C5a url("/asts/bak/bak-left-nav-h3-sub.gif") no-repeat 1px -1px;
+	background: #002C5a url("/asts/bak/bak-left-nav-h3-sub_072006.gif") no-repeat 1px -1px ; 
 	margin: 0px 0px 0px 0px;
 	padding: 5px 0px 0px 12px;
 	}
 *html #left_nav li {
-	background: #002C5a url("/asts/bak/bak-left-nav-h3-sub.gif") no-repeat 1px -6px;
+	background: #002C5a url("/asts/bak/bak-left-nav-h3-sub_072006.gif") no-repeat 1px -6px;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 12px;
 	}
 </style>
-<!-- Start Left Nav -->
+
 <div id="left_nav">
-<h3 class="blue"><a href="http://www.cio.com/current/">Current issue</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/archive/">Issue archives</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/career/">Career</a></h3>
 <ul>
-<li><h4><a href="http://jobs.cio.com/">CIO Wanted</a></h4></li>
-<li><h4><a href="http://www.cio.com/research/executive/counselor.html">Counselor</a></h4></li>
-<li style="padding-bottom: 10px;"><h4><a href="http://www2.cio.com/events/index.cfm">IT Events Calendar</a></h4></li>
-</ul>
-<h3 class="blue"><a href="http://www.cio.com/blog_view.html?ID=221">CIO News Alerts</a></h3>
-<h3 class="blue"><a href="http://blogs.cio.com/">Blogs</a></h3>
-<ul>
-<li><h4><a href="http://blogs.cio.com/moversandshakers">Movers and Shakers</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/theopensource">The Open Source</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/itstrategy">Koch's IT Strategy</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/blog/michael_hugos">Doing Business in Real Time</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/techlinkletter">Tech LinkLetter</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/neteffect">Net Effect</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/thenumbersneverlie">The Numbers Never Lie</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/blog/thomas_wailgum">Fully Mobile</a></h4></li>
-<li><h4><a href="http://blogs.cio.com/venturewatch">Venture Watch</a></h4></li>
-<li style="padding-bottom: 10px;"><h4><a href="http://blogs.cio.com/practicalinnovation">Practical Innovation</a></h4></li>
-</ul>
-<h3 class="blue"><a href="http://www.cio.com/viewpoints/">Columns</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/podcasts/">Podcasts</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/webcasts/">Webcasts</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/specialreports/">Special Reports</a></h3>
-<ul>
-<li style="padding-bottom: 10px;"><h4><a href="http://www.cio.com/abcs/">ABCs</a></h4></li>
-</ul>
-<h3 class="blue"><a href="http://www2.cio.com/research/">CIO Research</a></h3>
-<h3 class="blue"><a href="http://www2.cio.com/techpoll/index.cfm">Tech Poll</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/viewpoints/experts.html">Industry Experts</a></h3>
-<ul>
-<li><h4><a href="http://www.cio.com/research/executive/counselor.html">Career Counselor</a></h4></li>
-<li><h4><a href="http://www2.cio.com/analyst/index.cfm">Analyst Corner</a></h4></li>
-<li style="padding-bottom: 10px;"><h4><a href="http://www2.cio.com/higher/index.cfm">Knowledge/Wharton</a></h4></li>
-</ul>
-<h3 class="blue"><a href="http://www2.cio.com/sponsors/">White Papers</a></h3>
-<h3 class="blue"><a href="http://domains.cio.com/">Partner Domains</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/conferences/">Conferences</a></h3>
-<h3 class="blue"><a href="http://www.cioexecutivecouncil.com/">CIO Exec. Council</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/newsletters/newsletter.html">Newsletters</a></h3>
-<h3 class="blue"><a href="http://www.cio.com/awards/">CIO Awards Progs.</a></h3>
+<li><h4 class="blue"><a href="/career/">
+    Career/Jobs
+  </a></h4> </li>
+<li><h4 class="blue"><a href="/abcs/">
+    Tutorials
+  </a></h4> </li>
+<li><h4 class="blue"><a href="/specialreports/">
+    Special Reports
+  </a></h4></li> 
+<li><h4 class="blue"><a href="/viewpoints/experts.html">
+    Expert Advice
+  </a></h4> </li>
+<li><h4 class="blue"><a href="http://blogs.cio.com">
+    Blogs
+  </a></h4> </li>
+<li><h4 class="blue"><a href="/viewpoints/">
+    Columns
+  </a></h4> </li>
+<li><h4 class="blue"><a href="http://www.cio.com/blog_view.html?ID=221">
+    News
+  </a></h4> </li>  
+<li><h4 class="blue"><a href="/podcasts/">
+    Podcasts
+  </a></h4> </li>
+  <li><h4 class="blue"><a href="/webcasts/">
+    Webcasts
+  </a></h4> </li>
+<li><h4 class="blue"><a href="http://www2.cio.com/research/">
+    Research
+  </a></h4> </li>
+<li><h4 class="blue"><a href="http://www.cio.com/cio100/">
+    CIO 100
+  </a></h4> </li>
+<li><h4 class="blue"><a href="/conferences/">
+    Conferences
+  </a></h4></li> 
+<li><h4 class="blue"><a href="/awards/">
+    CIO Awards
+  </a></h4> </li>
+<li><h4 class="blue"><a href="/archive/">
+  CIO Magazine
+</a></h4></li>   
+<li><h4 class="blue"><a href="http://www.cioexecutivecouncil.com">
+    Executive Council
+  </a></h4> </li>
+<li><h4 class="blue"><a href="/sponsors/">
+    White Papers
+  </a></h4></li> 
+<li><h4 class="blue"><a href="http://domains.cio.com/">
+    Partner Domains
+  </a></h4></li>
+<li><h4 class="blue"><a href="http://www.cio.com/newsletters/newsletter.html?source=nlsignup_home">
+    Newsletters
+  </a></h4></li>
+  </ul> 
 </div>
+
 </form>
+<!-- skyscraper ad -->
+<p style="color:#6699CC; margin:10px 0 0 4px;">Advertisement</p>
+<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/idg.us.cio.cio;abr=!webtv;pos=top;sz=160x600;ord=1205200613231?">
+</script> 
+ 
+<script> 
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+document.write('<A HREF="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=160x600;ord=1205200613231?">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=160x600;ord=1205200613231?" border="0" height="600" width="160"></A>') 
+} 
+</script> 
+<noscript> 
+<a HREF="http://ad.doubleclick.net/jump/idg.us.cio.cio;pos=top;sz=160x600;ord=1205200613231?" ><img SRC="http://ad.doubleclick.net/ad/idg.us.cio.cio;pos=top;sz=160x600;ord=1205200613231?" border="0" height="600" width="160"></a>
+</noscript>
+
+<!-- end skyscraper ad -->
 <style>
 <!--
 #newsletter_box {
@@ -355,6 +432,7 @@ document.onclick = hideAllMenus;
 	margin: 30px 0px 0px 2px;
 	padding: 5px;
 	width: 90%;
+	text-align:left;
 	}
 *html #newsletter_box {
 	margin: 30px 0px 0px 5px;
@@ -371,6 +449,8 @@ document.onclick = hideAllMenus;
 #newsletter_box .check {
 	padding: 0px 0px 0px 0px;
 	margin: 3px 3px 0px 0px;
+	background: #ededed;
+	border: none;
 	}
 #newsletter_box input {
 	color: #333333;
@@ -380,167 +460,173 @@ document.onclick = hideAllMenus;
 
 -->
 </style>
-<form action="http://cxolyris.cxomedia.com/subscribe/subscribe.tml" method="POST">
+<form action="http://cxolyris.cxomedia.com/subscribe/subscribe.tml?source=nlsignup_nav" method="POST">
 <div id="newsletter_box">
-<h5>Free Newsletters</h5>
-<p><input type="checkbox" name="list" class="check" value="cio_insider" checked=""><b>CIO Insider</b><br>
-CIO.com updates</p>
-<p><input type="checkbox" name="list" class="check" value="cio_enterprise"><b>CIO Enterprise</b><br>
-Strategy how-to</p>
-<p><input type="checkbox" name="list" class="check" value="cio_leader"><b>CIO Leader</b><br>
-Management tips</p>
-<p style="margin-top: 15px;">E-mail address:</p>
-<p><input type="text" name="email" value="" size="10" style="width: 112px;"></p>
-<p><input type="image" border="0" height="17" width="59" title="subscribe" alt="subscribe" src="http://cxolyris.cxomedia.com/img/english/button_subscribe.gif" name="subscribe"></p>
+	<h5>Free Newsletters</h5>
+
+	<p>
+		<input type="checkbox" name="list" class="check" value="cio_enterprise">
+		<b>CIO Enterprise</b><br>
+		Strategy how-to
+	</p>
+
+	<p>
+		<input type="checkbox" name="list" class="check" value="cio_erp">
+		<b>CIO ERP</b><br>
+		Enterprise Resource Plan
+	</p>
+
+	<p>
+		<input type="checkbox" name="list" class="check" value="cio_soa">
+		<b>CIO SOA</b><br>
+		Service Oriented Architecture
+	</p>
+
+	<p>
+		<input type="checkbox" name="list" value="cio_3rd_party_announcements" class="check" checked="">
+		<b>Third Party Offers</b><br>
+		I agree to receive e-mail communications from third parties, such as product and
+		service offerings, that are approved by the editor and publisher of CIO.
+	</p>
+
+	<p style="margin-top: 15px;">E-mail address:</p>
+	<p><input type="text" name="email" value="" size="10" style="width: 112px;"></p>
+	<p><input type="image" border="0" height="17" width="59" title="subscribe" alt="subscribe" src="http://cxolyris.cxomedia.com/img/english/button_subscribe.gif" name="subscribe"></p>
 </div>
-<input type="hidden" name="confirm" value="one">
-<input type="hidden" name="showconfirm" value="F">
-<input type="hidden" name="url" value="http://www.cio.com/newsletters/newsletter_confirmation.html">
+
+	<input type="hidden" name="Comment_" value="CIO">
+	<input type="hidden" name="demographics" value="Comment_">
+	<input type="hidden" name="confirm" value="one_hello">
+	<input type="hidden" name="showconfirm" value="F">
+	<input type="hidden" name="url" value="http://www.cio.com/newsletters/newsletter_confirmation.html">
+	<input type="hidden" name="appendsubinfotourl" value="T">
 </form>
 <!-- End Navigational Links -->
 <!-- End Navigational Links -->
+
 <br>
 <br><br>
-</font>
+
 </td>
+
 <!-- removed the bgcolor attribute from the tag below to make the cell transparent  bhh 050505 -->
-<td width="10">
-<img src="http://images.cio.com/images/dotclear.gif" width="10" height="1"></td>
-			<td width="650" cellpadding="2" cellspacing="2" border="0" valign="TOP" align="left"><img src="http://images.cio.com/images/dotclear.gif" width="650" height="0">
-		<font class="medium">
-			
- 
-<h1>1. CIO.COM  ONLINE PRIVACY POLICY</h1>
 
-<p>The CIO.com  Web site and associated sites are maintained by</p>
-
-<p>CXO Media Inc.<br>
-492 Old Connecticut Path<br>
-Framingham, Mass. 01701</p>
-
-<p>CIO.com  collects personally identifying information and data about individuals, their company, and the companies demographics "personally identifying information and data" including  (i)  when you provide information to CIO.com, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with CIO.com (ii) when you register or sign up on the CIO.com site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to CIO.com and (iii) from time to time we may add other information that  we collect from third party sources to enhance the information that you provided to CIO.com.</p>
-<p>Below is the current policy regarding the usage of personally identifying information and data collected by CIO.com. We reevaluate this policy on an ongoing basis based on feedback from readers.  CIO.com reserves the right to change its privacy policy.  However, if there are any changes to the use of personally identifiying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website.</p>   
-
-<p>CIO.com or one of our IDG affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user.</p>
-
-<p>If you have registered with CIO.com, the information in your "cookie" is used to provide a more personalized experience on our Web site.</p>
-
-For example, in our forums, a cookie allows us to show you which posted messages are new since your last log-in. You may change your forum registration profile information in our <a href="http://discuss.cio.com/members/forums.asp?">Community Service Center</a>.  
-
-<p>If you haven't registered with our site, we may place a cookie on your system to help provide a more personalized experience on CIO.com. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our site, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address.</p>
-
-<p>Other cookies without personally identifying information and data are used to enable CIO.com to manage the banner advertisements presented or personalized information to the user.</p>
-
-<p>Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by CIO.com.</p>
-
-<p>For more information about cookies, head to Computerworld.com's <a href="http://www.computerworld.com/securitytopics/security/story/0,10801,43428,00.html">Cookies QuickStudy</a>.</p>
-
-<p>The aggregated information we collect is used for a number of purposes including the following :
-</p></font><ol><font class="medium">
-<li>to improve the content and design of the CIO.com Web site </li>
-<li>to enable our audit bureau to verify our claims of traffic to the site </li>
-<li>to help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns </li>
-<li>as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit <a href="http://www.doubleclick.net" target="_blank">www.doubleclick.net</a>.</li>
-<li>CIO.com has contracted with DoubleClick to serve all advertising on www.CIO.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on www.CIO.com aren't connected with personally identifiable information collected either at www.CIO.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit <a href="http://www.doubleclick.net/privacy_policy/" target="_blank">www.doubleclick.net/privacy_policy/</a>. We use web metric vendors to gather information to help us understand how users utilize our websites and other electronic products.</li>
-<li>We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of CIO.com, its sister IDG companies, or select organizations.</li><p></p> 
-<p>Postal addresses, and other personally identifying information and data will be used to promote CIO.com and other IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.</p>
-
-<p>Telephone numbers of CIO print subscribers are used by CIO.com to collect re-qualification data and may be used by CIO.com, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. CIO.com may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented  and/or licensed for use are required to target their offers carefully.</p>
-
-<p>Fax numbers of CIO print subscribers are used by CIO.com to collect re-qualification data and may be used for surveys for CIO.com and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.</p>
-
-<p>E-mail addresses of CIO print subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote CIO.com and IDG products and services, and they may be rented to other firms and/or licensed for promotional purposes.  When you provide your e-mail address to us, you agree to receive e-mail from CIO.com and its sister IDG companies, and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however,  when e-mail information is collected and with each e-mail use of the user's address you can "opt-out" of receiving further e-mail from outside firms, CIO.com, its sister IDG companies and the IDG Network If a user does not choose to "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be  rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.</p>
-
-<p>Users who later decide they want to change their preferences may do so @ <a href="http://www.CIO.com/newsletters/newsletter.html">www.CIO.com/newsletters/newsletter.html</a>. 
-Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as CIO.com's. CIO.com, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties.</p>
-
-<p>CIO.com users should be aware that when they disclose personal identifying information (e.g., user name, address, company  name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. CIO.com nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas. </p>
-<p>In the event that the ownership of CIO.com or any of its products are sold or transferred all lists and data which contains personally identifying information and data including  for  example user name, address, company  name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.</p>
-
-<p>2. PRINT SUBSCRIBER AND "AUTO REGISTER" PRIVACY POLICY</p>
-
-<p>CIO.com collects personally identifying information and data  about individuals their company and the company’s  demographics ("personally identifying information and data")  (i)  when you provide information to CIO.com, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, web casts, White Papers, online seminars, conferences e-mails, contests, newsletters, memberships and other communications with CIO.com. (ii) when you register or sign up on the CIO.com site or when you register for any other IDG Publishing Network products individually or through "auto register", your information your information will be known to CIO.com and (iii) from time to time we may add other information that  we collect from third party sources to enhance the information that you provided to CIO.com.</p>
-<p>Below is the current policy regarding the usage of personally identifying information and data collected by CIO.com.  We reevaluate this policy on an ongoing basis based on feedback from readers. CIO.com reserves the right to change its privacy policy.  However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. </p>
-
-<p>Subscribers and applicants for CIO print subscriptions are asked to complete a questionnaire with personally identifying information and demographics. The data is used in a number of ways including the following:
-</p><ol>
-<li>to improve the content of CIO.com</li>
-<li>to notify subscribers about re-qualification and renewal</li>
-<li>used by us for marketing CIO.com products and services</li>
-<li>used by our audit bureau to verify cumulative demographic statistics</li>
-<li>used by CIO.com, IDG, its subsidiaries and its affiliates and IDC for research surveys</li>
-<li>used by Editorial for consultation with readers</li></ol><p></p>
-<p>Postal addresses, and other personally identifying information and data will be used to promote CIO.com and IDG products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the names are rented and/or licensed for use and the users are required to target their offers carefully.</p>
-
-<p>Telephone numbers of CIO print subscribers are used by CIO.com to collect re-qualification data and may be used by CIO.com, IDG, its subsidiaries and affiliates, their advertisers for promotional purposes. CIO.com may rent and/or license for use telephone numbers to selected outside firms for promotional purposes. Offers for which the telephone numbers are rented and/or licensed for use require users to target their offers carefully.</p>
-
-<p>Fax numbers of CIO print subscribers are used by CIO.com to collect re-qualification data and may be used for surveys for CIO.com, IDG and its affiliates and third parties. Except as set forth in this policy, no fax numbers are rented and/or licensed to outside firms.</p>
-
-<p>E-mail addresses of CIO print subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback from subscribers by members of our editorial or research team, to promote CIO.com and IDG products and services, and they may be rented and/or licensed to other firms for promotional purposes. When you provide your email address to us, you agree to receive email from CIO.com, its sister IDG companies and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however,  when e-mail information is collected and with each e-mail use of the user's address you can "opt-out" of receiving further email from outside firms, CIO.com and its sister IDG companies. If a user does not "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be  rented and/or licensed to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.</p>
-
-<p>In the event that the ownership of CIO.com or any of its products are sold the all lists and data which contains personally identifing information and data including  for  example user name, address, company  name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.</p>
-
-
-<p>Print Subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:</p>
-
-<p>CIO <br>
-P.O. Box 3500<br>
-Northbrook, IL 60065-3500 </p>
-
-<p>3. IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY</p>
-
-<p>Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers.  The IDG Publishing Network reserves the right to change its privacy policy.  However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website.</p> 
-
-<p>About the IDG Publishing Network<br>
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including Bio-IT World, CIO, CSO, CMO, Darwin, InfoWorld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes <a href="http://www.bio-itworld.com">bio-itworld.com</a>, <a href="http://www.CIO.com">CIO.com</a>, <a href="http://www.csoonline.com">csoonline.com</a>, <a href="http://www.cmomagazine.com">cmomagazine.com</a>, <a href="http://www.health-itworld.com">health-itworld.com</a>, <a href="http://www.">infoworld.com</a>, <a href="http://www.">nwfusion.com</a>, <a href="http://www.">macworld.com</a>, <a href="http://www.maccentral.com">maccentral.com</a>, <a href="http://www.pcworld.com">pcworld.com</a> and <a href="http://www.gamepro.com">gamepro.com</a>. A complete listing is available at <a href="http://www.idg.com">www.idg.com</a>.</p>
-
-<p>To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time.</p> 
-
-<p>You can update or change the identifying information you provided during registration at any time by clicking the link to access your IDG Publishing Network profile. The profile can be accessed from any IDG Publishing Network site. You also at any time may request not to receive further email from the editor and publisher of an IDG Publishing Network site or from third parties they approve by updating  your IDG Publishing Network profile on the given site. You can also "opt-out" of receiving further email by clinking the appropriate links that appear at the bottom of any email you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow. </p>
-
-<p>The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.</p>
-
-<p>If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to <a href="mailto:IDGNetwork@idg.com">IDGNetwork@idg.com</a> or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.</p>
-
-<p>Last updated: November 1, 2005</p>
-
-
+					<td style="padding-left:8px;" width="820" cellspacing="0" border="0" valign="TOP">
+		<font class="medium" style="text-align:left;">
+	
+ <h1><a name="pagetop" id="pagetop"></a>Privacy Policy</h1>
+ <p><a href="#online">online</a>  |  <a href="#printsubscriberprivacypolicy">print subscribers </a>  |  <a href="#idgpolicy">online registration</a></p>
+ <a name="online" id="online"></a><h2>1. CXO Media Inc. ONLINE PRIVACY POLICY</h2>
+<p> The CIO Web site and associated sites are  maintained by</p>
+<p>
+CXO Media Inc.<br>
+492 Old Connecticut Path, Framingham, MA 01701</p>
+<p>
+CIO &nbsp;collects personally identifying information  and data about individuals, their company, and the companies demographics  (“personally identifying information and data”) including&nbsp; (i)&nbsp;  when you provide information to CIO, such as when you register or sign up for any of  our products such as publications, subscriptions, e-mails, contests,  newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars,  conferences and other communications with CIO, (ii) when you register or sign up on the CIO site or when you  register for any other IDG Publishing Network products individually or through  “auto register”, your information will be known to CIO and (iii) from time to time we may add  other information that&nbsp; we collect from  third party sources to enhance the information that you provided to CIO<br>
+Below is the current policy regarding the usage of personally identifying  information and data collected by CIO. We reevaluate this policy on an ongoing basis based on  feedback from readers<strong>.&nbsp; CIO</strong> reserves the  right to change its privacy policy.&nbsp; However,  if there are any changes to the use of personally identifiying information and  data that is different from that stated at the time of collection, we will  notify you by posting a notice on our website.&nbsp;&nbsp; </p>
+<p>
+CIO or one of our IDG affiliated companies, or third  party partners may place a "cookie" in the browser files of a user's  computer. The cookie itself does not contain any personally identifying  information, except when such information has been supplied by a subscriber or  registered user.</p>
+<p>
+If you have registered with CIO, the information in  your "cookie" is used to provide a more personalized experience on  our Web site.</p>
+<!--<p>
+For example, in our forums, a cookie allows us  to show you which posted messages are new since your last log-in. You may  change your forum registration profile information in our <a href="http://cwforums.computerworld.com/webx?25@@">Community Service Center</a>.</p>-->
+<p>
+If you haven't registered with our site, we  may place a cookie on your system to help provide a more personalized  experience on CIO.com.  This cookie identifies you as a unique user by means of a tracking ID. However,  if you have not registered on our site, we cannot link that user ID with  personal identifying information and data about you such as your name or e-mail  address.</p>
+<p>
+Other cookies without personally identifying  information and data are used to enable CIO to manage the banner advertisements presented  or personalized information to the user.</p>
+<p>
+Browsers or third-party software can allow you  to block the use of cookies while you surf our site. Or, you can use  third-party "anonymizer" services to mask information in your  cookies, or even general data such as your IP address. In such cases you would  not be able to take advantage of most of the personalization services offered  by CIO.com.</p>
+<!--<p>
+For more information about cookies, head to <a href="http://www.computerworld.com/securitytopics/security/story/0,10801,43428,00.html">CIO's Cookies QuickStudy</a>.</p>-->
+<p>
+The aggregated information we collect is used  for a number of purposes including the following :</p>
+<ol start="1" type="1">
+  <li>to improve the       content and design of the CIO Web site </li>
+  <li>to enable our audit bureau to       verify our claims of traffic to the site </li>
+  <li>to help advertisers, potential       advertisers or marketers assess the suitability of the site for their ad       campaigns </li>
+  <li>as clear GIFs, also known as       pixel tags, provided by our ad-serving company to help manage online       advertising. These clear GIFS let our ad-serving company recognize a       browser's cookie when a user visits our site. The information we collect       and share through this technology is not personally identifiable (It does       not include your name, address, telephone number or e-mail address). For       more information about our ad-serving company or for your choices about       not having this anonymous information used, please visit <a href="http://www.doubleclick.net" target="new">www.doubleclick.net</a> </li>
+  <li>CIO has contracted with DoubleClick. to       serve all advertising on www.CIO.com, both on the Web site itself and through its e-mail       newsletters. When DoubleClick is serving ads, it recognizes certain types       of non-personally identifiable information, such as a user's IP address,       browser version or type, operating system, service provider and time zone.       DoubleClick also uses cookies to note the general content of the sites       that users visit over time in order to serve ads on this site and other       sites. Any pages a user calls up on www.CIO.com aren't connected with personally       identifiable information collected either at www.[name of publication.com or elsewhere.       For more details about the non-personally identifiable information DoubleClick       collects and the opportunity to opt out of such data collection, please       visit <a href="http://www.doubleclick.net/privacy_policy/" target="new">www.doubleclick.net/privacy_policy/</a> . We use web metric vendors to gather information to help us       understand how users utilize our websites and other electronic products.</li>
+  <li>We may create and use aggregate       customer data to understand more about the interests of our customers and       may use the data to offer goods and services we believe may be of interest       to our customers, on behalf of CIO, its sister IDG companies, or select organizations. </li>
+</ol>
+<p>Postal addresses, and other personally identifying information and data  will be used to promote CIO  and other IDG companies ‘ products and services, and may be rented and/or  licensed to selected outside firms for promotional purposes. Offers for which  the personally identifying information and data are rented and/or licensed for  use and the users are required to target their offers carefully.</p>
+<p>
+  Telephone numbers of CIO print subscribers are  used by CIO to collect re-qualification data and may be used by CIO, IDG and other IDG  companies, affiliates and it's advertisers for promotional purposes. CIO may rent and/or  license for use phone numbers to selected outside firms for promotional  purposes. Offers for which the numbers are rented and/or licensed for use are  required to target their offers carefully.</p>
+<p>
+  Fax numbers of CIO print subscribers are used by CIO to collect  re-qualification data and may be used for surveys for CIO and third parties. Except as set forth  in this policy no fax numbers are rented and/or licensed to outside firms.</p>
+<p>
+  E-mail addresses of CIO print subscribers are used for  re-qualification purposes. These e-mail addresses may also be used to collect  feedback by members of our editorial or research team, to promote CIO and IDG  products and services, and they may be rented to other firms and/or licensed  for promotional purposes.&nbsp; When you  provide your email address to us, you agree to receive email from CIO and its  sister IDG companies, and the IDG Network. We allow users to  "opt-out" of receiving e-mail from outside firms, however, when  e-mail information is collected and with each e-mail use of the user's address  you can individually “opt-out” of receiving further e-mail from outside firms, CIO, its sister IDG  companies and the IDG Network If a user does not choose to “opt-out” at the  time the e-mail address is collected, or does not respond to the questions  concerning how we may use their email address, the address may be rented and/or  licensed for use to outside firms. Offers for which the e-mail address is  rented and/or licensed for use require the users to target their offers  carefully.</p>
+<p>
+  Users who later decide they want to change  their preferences may do so at <a href="http://www.cio.com/newsletters/newsletter.html">www.CIO.com/newsletters/newsletter.html</a>. <br>
+  Personal identifying information submitted on portions of our site  developed with outside third parties may be shared with those third parties,  and the information will be governed by those parties' privacy policies as well  as CIO's. CIO, nor any of its parent  companies or any of its subsidiaries or affiliates do not bear any  responsibility for any actions or policies of such third parties.</p>
+<p>
+  CIO users should be aware that when they  disclose personal identifying information (e.g., user name, address,  company&nbsp; name, telephone number,  demographic information, buying information, other data and E-mail address) in  discussion forums, chat rooms or other areas that are publicly accessible by  others, that information can be collected and used by others and may result in  unsolicited messages from other posters or parties. CIO nor its parent company  or any of its subsidiaries or affiliates are not responsible for any  information that you provide in the above areas. <br>
+  In the event that the  ownership of CIO or any of its products are sold or transferred, all lists and  data which contains personally identifying information and data including&nbsp; for&nbsp;  example user name, address, company&nbsp;  name, telephone number, demographic information, buying information,  other data and e-mail address, will be transferred to the new owner.</p>
+<p><a href="#pagetop">back to top</a></p>
+<h2>
+  <a name="printsubscriberprivacypolicy" id="printsubscriberprivacypolicy"></a>2. PRINT SUBSCRIBER AND “AUTO REGISTER”  PRIVACY POLICY</h2>
+<p>
+  CIO collects personally identifying information and data about  individuals their company and the company’s&nbsp;  demographics (‘personally identifying information and data”)&nbsp; (i)&nbsp;  when you provide information to CIO, such as when you register or sign up for any  of our products such as publications, subscriptions, RSS Feeds, web casts,  White Papers, online seminars, conferences emails, contests, newsletters,  memberships and other communications with CIO. (ii) when you register or sign up on the CIO site or when you  register for any other IDG Publishing Network products individually or through  “auto register”, your information &nbsp;will  be known to CIO and (iii) from time to time we may add other information  that&nbsp; we collect from third party sources  to enhance the information that you provided to CIO.&nbsp; <br>
+  Below is the current policy regarding the usage of personally identifying  information and data collected by CIO. We reevaluate this policy on an ongoing basis based on  feedback from readers.&nbsp; CIO reserves the right to  change its privacy policy.&nbsp; However, if  there are any changes to the use of personally identifying information and data  that is different from that stated at the time of collection, we will notify  you by posting a notice on our website. <br>
+  Subscribers and applicants  for CIO Print subscriptions are asked to complete a questionnaire with  personally identifying information and demographics. The data is used in a  number of ways including the following:</p>
+<ol start="1" type="1">
+  <li>to improve the       content of CIO</li>
+  <li>to notify subscribers about       re-qualification and renewal</li>
+  <li>used by us for marketing CIO products and       services</li>
+  <li>used by our audit bureau to       verify cumulative demographic statistics</li>
+  <li>used by CIO, IDG, its subsidiaries       and its affiliates and IDC for research surveys</li>
+  <li>used by Editorial for       consultation with readers</li>
+</ol>
+<p>Postal addresses, and other personally identifying information and data  will be used to promote CIO and IDG products and services, and may be rented  and/or licensed to selected outside firms for promotional purposes. Offers for  which the names are rented and/or licensed for use and the users are required  to target their offers carefully.</p>
+<p>
+  Telephone numbers of CIO print subscribers are  used by CIO to collect re-qualification data and may be used by CIO, IDG, its subsidiaries  and affiliates, their advertisers for promotional purposes. CIO may rent and/or  license for use telephone numbers to selected outside firms for promotional  purposes. Offers for which the telephone numbers are rented and/or licensed for  use require users to target their offers carefully.</p>
+<p>
+  Fax numbers of CIO print subscribers are used  by CIO to collect re-qualification data and may be used for surveys for CIO, IDG and its affiliates  and third parties. Except as set forth in this policy, no fax numbers are  rented and/or licensed to outside firms.</p>
+<p>
+  E-mail addresses of CIO print subscribers are  used for re-qualification purposes. These e-mail addresses may also be used to  collect feedback from subscribers by members of our editorial or research team,  to promote CIO and IDG products and services, and they may be rented and/or  licensed to other firms for promotional purposes. When you provide your email  address to us, you agree to receive email from CIO, its sister IDG companies  and the IDG Network. We allow users to "opt-out" of receiving e-mail  from outside firms, however, when e-mail information is collected and with each  e-mail use of the user's address you can individually “opt-out” of receiving  further email from outside firms, CIO and its sister IDG companies. If a user does not “opt-out”  at the time the e-mail address is collected, or does not respond to the  questions concerning how we may use their email address, the address may be  rented and/or licensed to outside firms. Offers for which the e-mail address is  rented and/or licensed for use require the users to target their offers  carefully.</p>
+<p>
+  In the event that the ownership of CIO or any of its products are sold the all lists  and data which contains personally identifing information and data including  for&nbsp; example user name, address,  company&nbsp; name, telephone number,  demographic information, buying information, other data and e-mail address,  will be transferred to the new owner.</p>
+<p>
+  Print Subscribers or applicants who do not  want their names used in any of the above ways may write and ask to be removed  from the promotion list. Requests should be sent to:</p>
+<p>
+  CIO<br>
+  P.O.    Box 3500<br>
+  Northbrook, IL 60065-3500 </p>
+<p><a href="#pagetop">back to top</a></p>
+<h2>
+  <a name="idgpolicy" id="idgpolicy"></a>3. IDG PUBLISHING  NETWORK ONLINE REGISTRATION PRIVACY POLICY</h2>
+<p>
+  Below is the current policy regarding the usage of personally identifying  information and data collected by the IDG Publishing Network. We reevaluate  this policy on an ongoing basis based on feedback from readers.&nbsp; The IDG Publishing Network reserves the right  to change its privacy policy.&nbsp; However,  if there are any changes to the use of personally identifiable information and  data that is different from that stated at the time of collection, we will  notify you by posting a notice on our website. <br>
+  About the IDG Publishing Network<br>
+  The  International Data Group, Inc. (IDG) family of on-line and print publications  consists of hundreds of award-winning titles including &nbsp;CIO, CSO, Darwin, InfoWorld, CIO, Game Pro, Network  World, Macworld and PC World. The IDG Publishing Network is a growing  collection of IDG web sites that presently includes &nbsp;cio.com, csoonline.com, CIO.com, darwinmag.com, &nbsp;infoworld.com, networkworld.com, macworld.com,  maccentral.com, pcworld.com and gamepro.com. A complete listing is available at  www.idg.com.</p>
+<p>
+  To access restricted content on any IDG  Publishing Network web site you must be a member of the IDG Publishing Network.  To become a member of the IDG Publishing Network, you need to provide certain  information about yourself. Any of the IDG Publishing Network sites may use  this identifying information for internal analytical and business development  purposes and, to send you email. However, other forms of communication,  including postal mail, may be directed to you pursuant to the site's specific  privacy policy, as may be updated from time to time. </p>
+<p>
+  &nbsp;You can  &nbsp;"opt-out" of receiving further  email by clicking the appropriate links that appear at the bottom of any email  you receive. If you do not want to receive other types of communication,  including as applicable, postal mail, from the editor and publisher of the  site, please refer to the site's privacy policy for the procedure to follow. </p>
+<p>The IDG Publishing Network is intended for individuals over the age of  13 years old. Personal information may not be provided by anyone under 13 years  of age. Further no one under 13 years old may participate in the forums or chat  rooms or any other areas where public discussions may take place. In addition  no one under that age of 18 may conduct any transactions for the purposes or  purchasing or selling any items. Parents should be sure that their children are  not conducting any of the above activities on the IDG Publishing Network.</p>
+<p>
+  If you have any questions or comments  regarding the IDG Publishing Network or its use of information please send  email to <a href="mailto:IDGNetwork@idg.com">IDGNetwork@idg.com</a> or write to  us at IDG Publishing Network, 3    Post Office Square, Boston, MA 02109.</p>
+<p>
+  Last  updated: July 28, 2006. </p>
+<p><a href="#pagetop">back to top</a></p>
+</font></td>
 
 
-</font>
 
-</ol></td>
-<td bgcolor="#ffffff" width="10"><img src="http://images.cio.com/images/dotclear.gif" width="10" height="1"></td>
-<td bgcolor="#ffffff" valign="top" width="190"><br>
-<font style="font-family: arial, helvetica; font-size: 12px; color: #333333;">
-<p></p>
-	<p><table bgcolor="#ffffff" border="1" cellpadding="10" cellspacing="0" height="1600">
-	<tbody><tr>
-	<td align="center" bgcolor="#000000"><font face="Verdana,Arial,Helvetica" size="-1" color="White"><b>Advertisers</b></font></td>
-	</tr>
-	<tr>
-	<td valign="top"><nolayer>
-	<iframe src="http://www.cio.com/ads/150x800_ad.html?adsite=idg.us.cio.cio;pos=right;sz=150x800;tile=4;ord=06162006155610?" width="150" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><a HREF="http://www.cio.com/ads/150x800_ad.html?adsite=idg.us.cio.cio;abr=!ie;pos=right;sz=150x800;tile=4;ord=06162006155610?"><img SRC="http://www.cio.com/ads/150x800_ad.html?adsite=idg.us.cio.cio;abr=!ie;pos=right;sz=150x800;tile=4;ord=06162006155610?" BORDER="0" HEIGHT="800" WIDTH="150"></a></iframe>
-	</nolayer>
-	<ilayer id="layer3" visibility="hidden" width="150" height="800"></ilayer>
-	<br clear="a11"><br>
-	<!--
-	<script language=Javascript1.1>
-	document.write('<IFRAME SRC=http://ilinks.industrybrains.com/showct?sid=143&ct=CiO_HP_ROS&num=5&layt=1 width="150" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0" SCROLLING="no">');
-	document.write('</IFRAME>');
-	</script>
-	-->
-	</td>
-	</tr>
-	</tbody></table></p>
-</font>
-</td>
 </tr>
 <tr>
-<td valign="top" width="130"></td>
-<td width="10"><br></td>
-<td valign="top" width="650"><font style="font-family: arial, helvetica; font-size: 12px; color: #333333;">
+<td valign="top" width="160" bgcolor="#003366"></td>
 
+<td valign="top" width="840"><font style="font-family: arial, helvetica; font-size: 12px; color: #333333;">
+      <div id="leadgenModule" style="width:650px;">
+	 
+<!-- begin ad tag   --> 
+<script language="JavaScript" type="text/javascript"> 
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/idg.us.cio.cio;pos=constrip;sz=650x440;ord=ord=1205200613231?" type="text/javascript"><\/script>'); 
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/idg.us.cio.cio;pos=constrip;sz=650x440;ord=ord=1205200613231?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0) {document.write('<a href="http://ad.doubleclick.net/adj/idg.us.cio.cio;pos=constrip;sz=650x440;ord=' + ord + '?" target="_blank"><img src="http://ad.doubleclick.net/adj/idg.us.cio.cio;pos=constrip;sz=650x440;ord=1205200613231?" width="650" height="440" border="0" alt=""><\/a>');}</script><noscript><a href="http://ad.doubleclick.net/adj/idg.us.cio.cio;pos=constrip;sz=650x440;ord=1205200613231?" target="_blank"><img src="http://ad.doubleclick.net/adj/idg.us.cio.cio;pos=constrip;sz=650x440;ord=1205200613231?" width="650" height="440" border="0" alt=""></a></noscript> 
+<!-- End ad tag --> 
+        
+	  </div>
+<div id="sponsoredItems">
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;"><img src="http://images.cio.com/images/navbar/700px-blu-diam-2.gif" width="640" height="20" border="0" alt=""></div>
 <style>
 <!--
@@ -549,10 +635,11 @@ The International Data Group, Inc. (IDG) family of on-line and print publication
 	border-bottom: #ccc 1px solid;
 	border-left: #ccc 1px solid;
 	padding: 5px;
-	margin: 0px 0px 30px 107px;
+	margin: 0px 0px 30px 100px;
 	width: 588px;
 	}
 *html #quigo {
+	margin: 0px 0px 30px 100px;
 	width: 600px;
 	}
 #quigo p {
@@ -561,13 +648,14 @@ The International Data Group, Inc. (IDG) family of on-line and print publication
 	font-size: 11px;
 	margin: 3px 0px 0px 0px;
 	padding: 2px 10px 4px 0px;
+	text-align: left;
 	}
 -->
 </style>
-<img src="/asts/hdr/hdr_techwords2.gif" alt="" width="600" height="13" border="0" style="margin: 0px 0px -4px 107px;">
+<img src="http://www.cio.com/asts/hdr/hdr-techwords2.gif" alt="" width="600" height="22" border="0" style="margin: 20px 0px -4px 100px;">
 <div id="quigo">
 <script type="text/javascript">adsonar_pid=462762;adsonar_ps=1064705;adsonar_zw=500;adsonar_zh=155;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
-<p align="right"><a href="http://www.techwords.com" target="_blank">Buy a Link Here</a></p>
+<p><a href="http://www.techwords.com/" target="_blank"><img src="http://www.cio.com/asts/log/log-techwords.gif" alt="Ads by TechWords" width="100" height="12" border="0" style="margin-right: 365px; margin-left: 5px;"></a><a href="http://www.techwords.com" target="_blank">See Your Link Here</a></p>
 </div>
 
 	
@@ -604,46 +692,46 @@ The International Data Group, Inc. (IDG) family of on-line and print publication
 		</table>
 	</td>
 	<td background="/images/navbar/bak-02.gif" valign="top" width="210"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 700; color: #3366CC;">&nbsp;Webcasts</span><br /><table width=100%><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;36329138;4234599;s?http://www.accelacomm.com/jlp/cioWebcastLP/10/10008139/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;36329138;4234599;s?http://www.accelacomm.com/jlp/cioWebcastLP/10/10008139/"><strong>Critical Success Factors for Business Intelligence</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62180796;4234599;w?http://www.accelacomm.com/jlp/ciowcl/15/10011226/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62180796;4234599;w?http://www.accelacomm.com/jlp/ciowcl/15/10011226/"><strong>Strategies for Next-Generation Field Services</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;35092689;4234599;z?https://systinet.webex.com/systinet/onstage/g.php?d=921515419&t=a&SourceId=IDG"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;35092689;4234599;z?https://systinet.webex.com/systinet/onstage/g.php?d=921515419&t=a&SourceId=IDG"><strong>What Business Needs from SOA: The SOA Killer Application</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;61543670;4234599;p?http://www.cio.com/webcast/sponsored/microsoft/infrastructure/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;61543670;4234599;p?http://www.cio.com/webcast/sponsored/microsoft/infrastructure/"><strong>Thought Leadership Strategies: Infrastructure Security & Management</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;35134101;4234599;b?http://www.accelacomm.com/jlp/CIOwebcastLP/10/10008220/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;35134101;4234599;b?http://www.accelacomm.com/jlp/CIOwebcastLP/10/10008220/"><strong>Perspectives on Building an Efficient Data Center: Best Practices from Industry Experts </strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;45133853;4234599;p?http://www.accelacomm.com/jlp/cio_orange_webcast/11/10009730/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;45133853;4234599;p?http://www.accelacomm.com/jlp/cio_orange_webcast/11/10009730/"><strong>The Innovation Imperative: Strategies for using R&D to grow the bottom line</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;34213482;4234599;k?http://www.theitevolution.com/webcast1.html?source=cio"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;34213482;4234599;k?http://www.theitevolution.com/webcast1.html?source=cio"><strong>Leveraging Storage Virtualization to Optimize Utilization</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;58136229;4234599;t?http://ad.doubleclick.net/clk;57695632;14829782;b?http://h30294.www3.hp.com/hp/pub/changeartists?rd=9573"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;58136229;4234599;t?http://ad.doubleclick.net/clk;57695632;14829782;b?http://h30294.www3.hp.com/hp/pub/changeartists?rd=9573"><strong>Embracing Change, Embracing Opportunity</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;34214005;4234599;c?http://www.theitevolution.com/webcast2.html?source=cio"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;34214005;4234599;c?http://www.theitevolution.com/webcast2.html?source=cio"><strong>Dynamic Business Models Require Dynamic Enterprises</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;59641897;4234599;g?http://w.on24.com/r.htm?e=30800&s=1&k=D249107068C147EFA879461C3553931C&partnerref=CIOMail"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;59641897;4234599;g?http://w.on24.com/r.htm?e=30800&s=1&k=D249107068C147EFA879461C3553931C&partnerref=CIOMail"><strong>How Prepared are you for Business Mobility?</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;34214247;4234599;k?http://www.theitevolution.com/webcast3.html?source=cio"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;34214247;4234599;k?http://www.theitevolution.com/webcast3.html?source=cio"><strong>Thinking Outside the Box: Architecting for Agility</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;59675602;4234599;x?http://www.cio.com/webcasts/wc_leadership_raytheon.html?source=cioWebcastLib"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;59675602;4234599;x?http://www.cio.com/webcasts/wc_leadership_raytheon.html?source=cioWebcastLib"><strong>The CIO Leaders Series Webcast: An Interview with Rebecca Rhoads</strong></a></td>
 				</tr><tr>
 		<td valign="top"><a href="http://www.cio.com/sponsors/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
 		<td class="small"><a href="http://www.cio.com/webcasts/"><strong>All CIO Webcasts</strong></a></td>
 		</tr>
 </table></td>
 	<td background="/images/navbar/bak-02.gif" valign="top" width="210"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 700; color: #3366CC;">&nbsp;White Papers</span><br /><table width=100%><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;37015566;4234599;q?http://www.accelacomm.com/jlp/cio_accenture_wp_infrastructure/10/10008540/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;37015566;4234599;q?http://www.accelacomm.com/jlp/cio_accenture_wp_infrastructure/10/10008540/"><strong>Accenture Launches Global Infrastructure Research</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62180599;4234599;x?http://www.cio.com/sponsors/Enterprise_Mobility_Megatrends.pdf"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62180599;4234599;x?http://www.cio.com/sponsors/Enterprise_Mobility_Megatrends.pdf"><strong>Enterprise Mobility Megatrends</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;37015872;4234599;q?http://www.accelacomm.com/jlp/accenture_cio_wp_avianflu/10/10008542/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;37015872;4234599;q?http://www.accelacomm.com/jlp/accenture_cio_wp_avianflu/10/10008542/"><strong>Are Businesses Prepared for the Avian Flu?</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62180496;4234599;t?http://www.cio.com/sponsors/Managing_Mobility_in_the_Enterprise_Sybase.pdf"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62180496;4234599;t?http://www.cio.com/sponsors/Managing_Mobility_in_the_Enterprise_Sybase.pdf"><strong>Managing Mobility in the Enterprise</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;34745334;4234599;q?http://ad.doubleclick.net/clk;34645381;13347614;g?http://h30294.www3.hp.com/hp/pub/changeartists?rd=9344"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;34745334;4234599;q?http://ad.doubleclick.net/clk;34645381;13347614;g?http://h30294.www3.hp.com/hp/pub/changeartists?rd=9344"><strong>Hear how top CIOs turn change into a competitive advantage.</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62044924;4234599;o?http://www.accelacomm.com/jlp/ciowpl/7/10010927/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62044924;4234599;o?http://www.accelacomm.com/jlp/ciowpl/7/10010927/"><strong>Novell and Intel: Bringing Virtualization to the Data Center</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;36623179;4234599;u?http://www.accelacomm.com/jlp/ProSight_wp_cio_6-13-06/10/10008463/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;36623179;4234599;u?http://www.accelacomm.com/jlp/ProSight_wp_cio_6-13-06/10/10008463/"><strong>Helping Army's IT Be All IT Can Be</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62044957;4234599;u?http://www.accelacomm.com/jlp/ciowpl/7/1945/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62044957;4234599;u?http://www.accelacomm.com/jlp/ciowpl/7/1945/"><strong>The ROI of Moving from UNIX to Linux</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;35752474;4234599;u?http://www.accelacomm.com/jlp/cio_sonic_wp/10/10008037/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;35752474;4234599;u?http://www.accelacomm.com/jlp/cio_sonic_wp/10/10008037/"><strong>Prevent your SOA from being DOA: Avoid "Worst" Practices</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62064338;4234599;p?http://www.accelacomm.com/jlp/ciowpl/10/2506/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62064338;4234599;p?http://www.accelacomm.com/jlp/ciowpl/10/2506/"><strong>Which CRM Deployment is Right For You?</strong></a></td>
 				</tr><tr>
-				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;35240610;4234599;e?http://www.cio.com/sponsors/MSVistaWP.pdf"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
-				<td class="small"><a href="http://ad.doubleclick.net/clk;35240610;4234599;e?http://www.cio.com/sponsors/MSVistaWP.pdf"><strong>Microsoft Vista: What's It All About?</strong></a></td>
+				<td valign="top" width="14"><a href="http://ad.doubleclick.net/clk;62052049;4234599;l?http://www.accelacomm.com/jlp/ciowpl/10/2499/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
+				<td class="small"><a href="http://ad.doubleclick.net/clk;62052049;4234599;l?http://www.accelacomm.com/jlp/ciowpl/10/2499/"><strong>Business Benefits of CRM On Demand</strong></a></td>
 				</tr><tr>
 		<td valign="top"><a href="http://www.cio.com/sponsors/"><img src="http://www.cio.com/images/redesign/blue-arrow.gif" alt="Compliance" width="11" height="13" border=0></a></td>
 		<td class="small"><a href="http://www.cio.com/sponsors/"><strong>All CIO White Papers</strong></a></td>
@@ -657,164 +745,164 @@ The International Data Group, Inc. (IDG) family of on-line and print publication
 	<!-- Start Sponsored Links -->
 <table align="center" cellpadding="3" cellspacing="0" style="border: 2px solid #cccccc;" width="500">
 <tbody><tr><td colspan="2" style="font: 13px Verdana, Geneva, Arial, Helvetica, sans-serif; color: #000000;"><strong>SPONSORED LINKS:</strong><a href="http://ad.doubleclick.net/jump/idg.us.ciotextbox/exclusive;pos=text;sz=1x1;tile=20;ord=?"><img src="http://ad.doubleclick.net/ad/idg.us.ciotextbox/exclusive;pos=text;sz=1x1;tile=20;ord=?" border="0" height="1" width="1"></a></td></tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34974867;4234599;f?http://ad.doubleclick.net/clk;34913472;13374880;k?http://www.bulldogsolutions.net/IBMWebSphere/IBW05232006/frmRegistration.aspx?bdls=4109" target="_blank">Webcast: Extending your ESB with WebSphere Adapters: Mission Accomplished</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;61591928;4234599;y?http://ad.doubleclick.net/clk;60344391;14988877;z?http://www.oracle.com/go/?&amp;Src=4979710&amp;Act=78" target="_blank">Visit oracle.com/markdrake and find out who stole Mark Drake</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;33102256;4234599;f?http://ad.doubleclick.net/clk;33056481;13072124;t?http://www.sap.com/solutions/rm/yoursize_2.epx" target="_blank">MORE THAN 65% OF SAP CUSTOMERS ARE SMALL OR MIDSIZE.  LEARN MORE. Visit sap.com/yoursize</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;61592269;4234599;x?http://ad.doubleclick.net/clk;60344630;14988882;r?http://www.oracle.com/go/?&amp;Src=4979710&amp;Act=79" target="_blank">The Only Comprehensive, Hot-Pluggable, Unbreakable Middleware</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34212461;4234599;g?http://www.theitevolution.com/?source=cio" target="_blank">A new wave of innovation is rolling across the IT industry. Learn more at TheITEvolution.com.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;31998242;4234599;v?http://ad.doubleclick.net/clk;31117380;13122747;u?http://www.sap.com/speaks-retail" target="_blank">Over 3,400 retail businesses use our scalable solutions - like category management and forecast &amp; replenishment applications - to increase their responsiveness, flexibility, and profits. Learn More at sap.com/speaks-retail</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;28801646;4234599;s?http://ad.doubleclick.net/clk;29562663;12865535;r?http://www.microsoft.com/technet/security/default.mspx" target="_blank">Microsoft Free Security Tools &amp; Updates</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416129;4234599;s?http://www.accelacomm.com/jlp/ciotextlink/10/10011613/" target="_blank">Find out how to measure maturity of ITIL implementation and how HDI's Support Center Certification facilitates it!</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32910114;4234599;e?http://ad.doubleclick.net/clk;32510126;13191439;u?http://ibm.com/software/info/takebackcontrol/r/bdd" target="_blank">Effective software development needs to work hand-in-hand with business goals. Take back control of out-of-sync development with IBM Rational.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59706152;4234599;s?http://www.hp.com/changeartists" target="_blank">Hear how top CIOs turn change into a competitive advantage. </a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34966495;4234599;d?http://ad.doubleclick.net/clk;34904559;13374299;u?http://www-306.ibm.com/software/info1/websphere/index.jsp?tab=landings/portal_live" target="_blank">Learn how to be productive, efficient &amp; get started on your SOA initiative.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57695800;4234599;x?http://www.accelacomm.com/jlp/ciotextlink/10/10010550/" target="_blank">Learn how to use more than SLAs to effectively measure sourcing value.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34568682;4234599;z?http://www.accelacomm.com/jlp/cyveillance_textlink/10/10007895/" target="_blank">Three Proven Approaches To Squashing Illegal Online Pharmaceuticals Sales</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59020086;4234599;n?http://ad.doubleclick.net/clk;58524650;14891424;l" target="_blank">Introducing the HP BladeSystem c-Class server. Now you can set IT free.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;37015871;4234599;p?http://www.accelacomm.com/jlp/cio_accenture_textlink_infrastructure/10/10008540/" target="_blank">Learn about Accenture's Global Infrastructure Research Findings</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416226;4234599;q?http://www.accelacomm.com/jlp/ciotextlink/10/10010684/" target="_blank">Iron Mountain explains why you need to separate backup vs. archiving.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;30086803;4234599;l?http://ad.doubleclick.net/clk;30022770;13030716;l?http://ibm.com/software/info/takebackcontrol/r/information" target="_blank">Get true business value from information: Integrate all your critical data, seamlessly. Take back control of information chaos with IBM Information Management.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;61610026;4234599;f?http://www.gemalto.com" target="_blank">Secure, convenient solutions for identification, communications and transactions</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34651425;4234599;n?http://www.safenet-inc.com/hse/darp7" target="_blank">Easy and affordable PC Disk and File Encryption for Enterprises from the company that protects YOUR Government - Free 30 day evaluation</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;56080433;4234599;m?http://www.accelacomm.com/jlp/ciotextlink/10/10011694/" target="_blank">Gain a deeper understanding of business performance in real-time</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;28971354;4234599;w?http://ad.doubleclick.net/clk;32810086;13166689;l?http://www.microsoft.com/bigdata" target="_blank">Microsoft SQL Server 2005.  Learn More.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;61080373;4234599;l?http://ad.doubleclick.net/clk;60276158;14986663;v?http://www.oracle.com/go/?&amp;Src=4979715&amp;Act=11" target="_blank">Get the New Neil Raden White Paper on Ambient Business Intelligence</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;22848018;4234599;q?http://ad.doubleclick.net/clk;22596099;12048860;o?http://www.ssaglobal.com/demanddrives/na" target="_blank">Start responding to customer demand in real time. Now.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;42710267;4234599;m?http://www.nextgenerationinsights.com/?source=ciot2" target="_blank">IT Strategies to Simplify, Accelerate, and Grow Your Business</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34451041;4234599;f?http://www.bridgeovertw.co.in/dolphin/bannertrack/redirect.asp?WTOBDIDATCERIDER=5162006651161" target="_blank">Business Agility with SOA! Click to access TIBCO's SOA resource center.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;42259390;4234599;r?http://www.mnc.orange-business.com/" target="_blank">Dollars and Sense:  Calculate the ROI Orange solutions can bring your business</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32304472;4234599;i?http://www.accelacomm.com/jlp/cio_oracle_textlink/10/10007390/" target="_blank">Click Here and learn how to choose the best database for your business!  </a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;58167301;4234599;o?http://www.accelacomm.com/jlp/ciotextlink/10/1907/" target="_blank">Here's a must-read tutorial for grid computing.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;33893416;4234599;u?http://www.bulldogsolutions.net/BMCSoftware/BMC05102006/index.aspx?bdls=4244" target="_blank">Free Webinar: How Software as a Service Is Changing the Face of IT Systems Management. Register.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;51660824;4234599;p?http://www.accelacomm.com/jlp/Symantec_cio_textlink_promotingWP/10/10010913/" target="_blank">Taming the Hybrid Beast: Strategies for CIOs to reduce operational overhead and focus more on innovation</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34218467;4234599;s?http://www.theitevolution.com/blog?source=cio" target="_blank">Interact with Vernon Turner, Group Vice President and General Manager of IDC's Enterprise Computing</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59671727;4234599;b?http://www.accelacomm.com/jlp/ciotextlink/10/2266/" target="_blank">SOA Worst Practices Volume II: A Look At Governance</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32908902;4234599;q?http://ad.doubleclick.net/clk;30253497;13045551;a?http://www.sun.com/emrkt/trycoolthreads/?cid=134986" target="_blank">Sun FireTM servers with CoolThreadsTM Technology. Try one free for 60 days.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;58130996;4234599;y?http://ad.doubleclick.net/clk;57695620;14829781;x?http://h30294.www3.hp.com/hp/pub/changeartists?rd=9572" target="_blank">Hear how top CIOs turn change into a competitive advantage.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32302422;4234599;b?http://www.accelacomm.com/jlp/cio_wp2_verisign/10/10007291/" target="_blank">Five Questions for Every CISO: Managing Your Risk Exposure</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;47427403;4234599;o?http://www.accelacomm.com/jlp/interwoven_cio_textlink/10/10010133/" target="_blank">The Web Application Management Struggle.  View this Webcast Now!</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32913117;4234599;k?http://clk.atdmt.com/MRT/go/cxxxoitp0010000002mrt/direct/01/" target="_blank">Upgrade from UNIX to a reliable and flexible server. Learn how.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;52196322;4234599;n?http://ad.doubleclick.net/clk;55482446;14550777;r?http://ibm.com/software/info/takebackcontrol/r/optimize" target="_blank">Take back control with IBM IT Optimization solutions.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32303229;4234599;h?http://www.accelacomm.com/jlp/cio_sybase_textlink/10/10006486/" target="_blank">TechRepublic Study on how to extend applications to remote users. Download Now!</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59676936;4234599;i?http://www.cio.com/webcasts/wc_leadership_raytheon.html?source=cioTextlink" target="_blank">Learn how IT strategy drives business growth: The CIO Leaders Series Webcast</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34975001;4234599;m?http://ad.doubleclick.net/clk;34917168;13374973;t?http://www-306.ibm.com/software/data/ondemandbusiness/conf2006/" target="_blank">Register Today! IBM Information Management Global Conference Oct. 15-20</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57477551;4234599;y?http://domains.cio.com/unisys/" target="_blank">Create an outsourcing strategy today and deliver greater business value tomorrow.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34568684;4234599;b?http://www.accelacomm.com/jlp/emc_textlink/10/10007643/" target="_blank">15 Minutes to Better Content Management.Learn More!</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416344;4234599;r?http://www.accelacomm.com/jlp/ciotextlink/10/10011042/" target="_blank">Learn how Lucent Technologies Inc. simultaneously addressed its compliance requirements and transformed and consolidated its IT infrastructure.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34975078;4234599;a?http://ad.doubleclick.net/clk;34893047;13373868;u?http://www.ibm.com/software/rational/rsdc" target="_blank">Register for the IBM Rational Software Development Conference 2006!</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59647434;4234599;z?http://ad.doubleclick.net/clk;59599407;14890525;z" target="_blank">Introducing the HP StorageWorks All-in-One Storage System</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;29076238;4234599;u?http://ad.doubleclick.net/clk;30983417;13109716;g?http://www.oracle.com/go/?&amp;Src=4043822&amp;Act=925" target="_blank">Watch the SOA Leadership Roundtable, sponsored by Oracle. Click here. </a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;53726160;4234599;n?http://ad.doubleclick.net/clk;53587137;14541248;l?http://ibm.com/software/info/takebackcontrol/r/bdd" target="_blank">Coordinate and align development process to release higher quality software, faster. Eradicate the problems that keep your development out-of-sync with IBM Rational Software Quality Solutions.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34222999;4234599;x?http://ad.doubleclick.net/clk;34218464;13306531;x?http://www.duet.com" target="_blank">Introducing Duet for Microsoft Office and SAP</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416116;4234599;o?http://www.accelacomm.com/jlp/ciotextlink/10/10011517/" target="_blank">Find out why "IT" does matter in BPO.  EquaTerra tells you how!</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34974319;4234599;x?http://ad.doubleclick.net/clk;34909008;13374731;f?https://tivoli.on.raindance.com/confmgr/event_register.jsp?eventId=9708" target="_blank">Online event: IT Service Mgmt: A Better Way to Manage the Business of IT</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;42067922;4234599;p?http://www.mks.com/go/cioadreport" target="_blank">IDG Research Report Reveals CIO Visibility Blind Spot for Application Development Investments</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;29076337;4234599;u?http://www.fortifysoftware.com" target="_blank">Wouldn't you rather know how to protect your software at the source?</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416188;4234599;x?http://www.accelacomm.com/jlp/ciotextlink/10/1459/" target="_blank">Check out this pro-active approach to process outsourcing efficiency and business agility!</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34745149;4234599;u?http://ad.doubleclick.net/clk;34645380;13347611;c?http://h30294.www3.hp.com/hp/pub/changeartists?rd=9339" target="_blank">Hear how top CIOs turn change into a competitive advantage.</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;29134837;4234599;u?http://ad.doubleclick.net/clk;30635711;13080035;p?http://www.oracle.com/go/?&amp;Src=4008296&amp;Act=1228" target="_blank">Get a FREE Forrester white paper courtesy of Oracle. Click here.</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;33216132;4234599;e?http://ad.doubleclick.net/clk;30226260;13032988;y?http://ibm.com/software/info/takebackcontrol/r/lotus" target="_blank">Get simplified access to people, information and tools with IBM Lotus software.  Find out how: Take back control with IBM Lotus software.</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;26068467;4234599;w?http://www.sun.com/x64/" target="_blank">Extreme performance &amp; power savings for your Enterprise</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;33001769;4234599;m?http://ad.doubleclick.net/clk;32981069;13218467;n?http://ibm.com/software/info/takebackcontrol/r/tivoli" target="_blank">IT infrastructures can easily get insecure and slow. Take back control of creeping IT complexities with IBM Tivoli software.</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34980622;4234599;r?http://www.cio.com/sponsors/InformationBuilders-Custom1.pdf" target="_blank">Business intelligence is going operational, so click through now to get on board.</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32721646;4234599;o?http://www.knightsbridge.com/forms/mdm/whitepaper.php?campaignID=70130000000GNVy&amp;leadSource=Advertising-Online&amp;memberStatus=Downloaded" target="_blank">The 7 Deadly Sins of Master Data Management, a new Knightsbridge white paper</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;35841960;4234599;t?http://clk.atdmt.com/M0N/go/ctdyxspr0260000001m0n/direct/01/" target="_blank">Connect at blazing speeds with the Sprint Mobile Broadband Card</a>
-</td>
-</tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;31998229;4234599;a?http://ad.doubleclick.net/clk;31117380;13122747;u?http://www.sap.com/results" target="_blank">BOOST YOUR COMPANY'S PERFORMANCE</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;48680841;4234599;w?http://clk.atdmt.com/SFO/go/dgxxghit0690000012sfo/direct/01/" target="_blank">Build an intelligent tiered storage infrastructure</a>
 </td>
 </tr>
 <tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;25233231;4196459;g?http://www.lumigent.com/go/cm20" target="_blank">Effective RDBMS Security Management: A Process-Based Solution</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;29383791;4234599;z?http://clk.atdmt.com/DWO/go/cxxxocoa0280000003dwo/direct/01/" target="_blank">CIO's Practical Guide to Integration Success</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416149;4234599;u?http://www.accelacomm.com/jlp/ciotextlink/10/10011442/" target="_blank">Read this study and learn how Symantec's tools help businesses manage their data centers</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34980679;4234599;d?http://www.cio.com/sponsors/InformationBuilders-Custom2.pdf" target="_blank">Get the skinny on an affordable SOA-based BI integration strategy.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59660831;4234599;v?http://www.accelacomm.com/jlp/ciotextlink/10/10010488/" target="_blank">Click through now and you'll be 7 steps closer to more secure software.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;35134457;4234599;p?http://www.accelacomm.com/jlp/cso_netapp_textlink/10/10008220/" target="_blank">Dealing with data center storage concerns - webcast</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;54198855;4234599;c?http://www.radware.com/content/solutions/application-security/default.asp" target="_blank">Protect your business today! Make your network secure, fast and reliable with Radware</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;35133399;4234599;t?https://systinet.webex.com/systinet/onstage/g.php?d=921515419&amp;t=a&amp;SourceId=IDG" target="_blank">What Business Needs from SOA: The SOA Killer Application</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;58150156;4234599;o?http://www.springcm.com/Landing/springcm_praise.aspx?tag=NEWS-CIO-060921" target="_blank">Leverage the power of on-demand document management with SpringCM's free whitepaper.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;28803089;4234599;v?http://ad.doubleclick.net/clk;29567604;12869524;t?http://www.microsoft.com/windowsserversystem/facts/default.mspx" target="_blank">Microsoft Windows Server delivers a lower TCO.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57695832;4234599;c?http://www.accelacomm.com/jlp/ciotextlink/10/10010509/" target="_blank">Click here to learn about progressive sourcing and why it's part of a growing trend.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;34568694;4234599;c?http://www.accelacomm.com/jlp/mercury_textlink/10/10007805/" target="_blank">Find Out Why Change Is Good When You Mitigate Its Business Risk. </a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416261;4234599;p?http://www.accelacomm.com/jlp/ciotextlink/10/10010133/" target="_blank">Watch this webcast :  The Web Application Management Struggle - brought to you by Interwoven</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;36493490;4234599;v?http://www.pcconnection.com/B2C/PM/Brands/Intel/IntelServers.htm?oext=492B" target="_blank">Intel Dual Core Xeon Servers starting at $919. Buy now at PC Connection!</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;61168779;4234599;c?http://blogs2.cio.com/node/470" target="_blank">Click here to join the discussion in the Leadership Agenda Blog</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32305378;4234599;o?http://www.accelacomm.com/jlp/cio_monosphere_textlink/10/10007342/" target="_blank">Analyze the planning process and make the most of your storage capacity. Learn How Now!</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;54994215;4234599;w?http://www.cio.com/webcast/sponsored/microsoft/IT" target="_blank">Learn how CIOs are taking care of business and delivering top - and bottom - line value</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;32306482;4234599;l?http://www.accelacomm.com/jlp/cio_azul_textlink/10/10007001/" target="_blank">Click here for an innovative look at the challenges of data center transformation.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;46616930;4234599;s?http://ad.doubleclick.net/clk;41625254;13773012;w?http://www.sun.com/solaris/domore/?cid=228335" target="_blank">Solaris 10.  Free &amp; Open Source.  Like printing money in your datacenter. www.sun.com/solaris/domore</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;33314888;4234599;v?http://www.netezza.com/netezza67/page.cfm" target="_blank">Don't just let your data sit there. Make it actionable - quickly, simply, affordably.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;56786313;4234599;w?http://www.accelacomm.com/jlp/ciotextlink/10/10011884/" target="_blank">Read this informative tutorial for bold thinking around SOA.</a>
 </td>
 </tr>
-<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;30183420;4234599;e?http://ad.doubleclick.net/clk;29880398;13022333;h?http://ibm.com/software/info/takebackcontrol/r/websphere" target="_blank">Take back control of your company's frozen assets with IBM WebSphere.</a>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416384;4234599;v?http://www.accelacomm.com/jlp/ciotextlink/10/10010565/" target="_blank">The Compliance Challenge. Read this CIO Focus Guide and see how "noncompliance" is just not an option.</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;42710604;4234599;h?http://www.nextgenerationinsights.com/registration.php?item=5&amp;source=ciot3" target="_blank">Service-oriented Enterprise - How to Make Your Business Fast, Flexible, More Responsive</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;57416332;4234599;o?http://www.accelacomm.com/jlp/ciotextlink/10/10010249/" target="_blank">Assett Management: The New Frontier of Commoditized "IT".  Read this White Paper written by Industry Expert, Larry Shoup, brought to you by HP.</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;53724018;4234599;n?http://ad.doubleclick.net/clk;53583670;14468608;r?http://ibm.com/software/info/takebackcontrol/r/compliance" target="_blank">Meet government and audit regulations with compliance management that helps turn requirements into strategic advantages. Protect your business integrity with proper compliance. Management solutions help you take back control with IBM Tivoli.</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;42709959;4234599;c?http://www.nextgenerationinsights.com/?source=ciot1" target="_blank">The relationship between business and IT is changing. Learn more at NextGenerationInsights.com</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;53288909;4234599;b?http://www.accelacomm.com/jlp/Acorn_cio_textlink/10/10011221/" target="_blank">Learn how top CIOs use ITVM to run huge IT organizations like a business</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;59178619;4234599;d?http://w.on24.com/r.htm?e=30358&amp;s=1&amp;k=C0F3E6C3BBEA053E531CA0EEA98D1535&amp;partnerref=XXXX" target="_blank">Click here to learn how to better protect your assets!</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;56269274;4234599;y?http://clk.atdmt.com/IWC/go/cxxxohit0010000021iwc/direct/01/" target="_blank">Hitachi True Stories</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;53347470;4234599;q?http://www.accelacomm.com/jlp/IFS_cio_textink/10/10011228/" target="_blank">Three Things Business Decision-Makers Need To Know About SOA White Paper</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;53769004;4234599;r?http://www.accelacomm.com/jlp/ciotextlink/10/10010684/" target="_blank">A closer look at data backup vs. data archiving</a>
+</td>
+</tr>
+<tr><td align="right" valign="top" width="15"><img src="http://images.cio.com/images/navbar/bul-02.gif" width="11" height="13" border="0" alt=""></td><td style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;" width="505"><a href="http://ad.doubleclick.net/clk;61543226;4234599;m?http://www.cio.com/webcast/sponsored/microsoft/infrastructure/" target="_blank">Get market leaders' perspectives on infrastructure and security management.</a>
 </td>
 </tr>
 </tbody></table>	<!-- End Sponsored Links -->
 	<!-- End Sponsored Links -->
-
-<div align="center" style="margin-top: 30px; margin-bottom: -20px;">
-<script language="Javascript1.1">
-	document.write('<IFRAME SRC=http://ilinks.industrybrains.com/showct?sid=143&ct=CiO_HP_ROS&num=5&layt=1 width="600" height="350" frameborder="no" border="0" marginwidth="0" marginheight="0" SCROLLING="no">');
-	document.write('</IFRAME>');
-</script><iframe src="http://ilinks.industrybrains.com/showct?sid=143&amp;ct=CiO_HP_ROS&amp;num=5&amp;layt=1" width="600" height="350" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div>
 
 <!-- footer links bh05192005 -->
 <div id="ciofooter">
 <center>
-Dated: June 16, 2006<br>
+Dated: December 05, 2006<br>
 http://www.cio.com/privacy.html<br><br>
 <div id="ciofooterlinks">
 <p><a href="http://www.cio.com/"><img border="0" src="http://images.cio.com/images/logo_ciocom.gif" alt="CIO magazine chief information officer ERP strategy IT research analysis business technology management e-business knowledge management intranet CRM cio.com CRM customer relationship management e-business ERP enterprise resource management leadership management measuring IT value outsourcing supply chain"></a><br>
@@ -827,8 +915,8 @@ http://www.cio.com/privacy.html<br><br>
 <!-- idg network links bh05192005 -->
 <div id="idgfooterlinks">
 <h2><a href="http://www.cio.com/idg.html">THE IDG NETWORK</a></h2>
-<p><a href="http://www.csoonline.com" target="_new">CSO</a> | <a href="http://www.cmomagazine.com" target="_new">CMO</a> | <a href="http://www.darwinmagazine.com" target="_new">Darwin</a> | <a href="http://www.computerworld.com" target="_new">Computerworld</a> | <a href="http://www.networkworld.com" target="_new">Network World</a> | <a href="http://www.infoworld.com" target="_new">Infoworld</a> | <a href="http://www.pcworld.com" target="_new">PC World</a> | <a href="http://www.bio-itworld.com" target="_new">Bio-IT World</a> <br>
-<a href="http://www.itcareers.com" target="_new">IT Careers</a> | <a href="http://www.itworldcanada.com/" target="_new">ITWorld Canada</a> | <a href="http://www.javaworld.com" target="_new">JavaWorld</a> | <a href="http://www.macworld.com" target="_new">Macworld</a> | <a href="http://www.maccentral.com" target="_new">Mac Central</a> | <a href="http://www.playlistmag.com" target="_new">Playlist</a> | <a href="http://www.gamepro.com" target="_new">GamePro</a> | <a href="http://www.gamestar.com" target="_new">GameStar</a> | <a href="http://www.gamerhelp.com" target="_new">Gamerhelp</a></p>
+<p><a href="http://www.csoonline.com" target="_new">CSO</a> | <a href="http://www.computerworld.com" target="_new">Computerworld</a> | <a href="http://www.networkworld.com" target="_new">Network World</a> | <a href="http://www.infoworld.com" target="_new">Infoworld</a> | <a href="http://www.pcworld.com" target="_new">PC World</a>  <br>
+<a href="http://www.idgconnect.com" target="_new">IDG Connect</a> | <a href="http://www.itworldcanada.com/" target="_new">ITWorld Canada</a> | <a href="http://www.javaworld.com" target="_new">JavaWorld</a> | <a href="http://www.macworld.com" target="_new">Macworld</a> | <a href="http://www.maccentral.com" target="_new">Mac Central</a> | <a href="http://www.playlistmag.com" target="_new">Playlist</a> | <a href="http://www.gamepro.com" target="_new">GamePro</a> | <a href="http://www.games.net" target="_new">Games.net</a> | <a href="http://www.gamerhelp.com" target="_new">Gamerhelp</a></p>
 </div>
 <!-- end idg network links -->
 
@@ -847,6 +935,7 @@ http://www.cio.com/privacy.html<br><br>
 </tbody></table>
 <script type="text/javascript">
 	<!--
+	var pageisloaded = 'true';
 	var menuitem1 = new menu(8,1,"hidden");
 	var menuitem2 = new menu(8,2,"hidden");
 	var menuitem3 = new menu(8,3,"hidden");
