@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010658id_/http%3A//starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211627id_/http%3A//www.starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Star Wars: Welcome | Privacy Policy
 
