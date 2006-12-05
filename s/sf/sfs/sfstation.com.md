@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621160840id_/http%3A//www.sfstation.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223118id_/http%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
 
-# SF Station : Terms & Conditions
+# SF Station Privacy Policy
 
-SF Station . Privacy Policy
+**World Cafe Productions, Inc. (SF Station ) Privacy Policy**
 
-« [SF Station Home](https://web.archive.org/index.php)
+SF Station , a division of World Cafe Productions, Inc., is strongly committed to protecting the privacy of its users. All Products and Services on SF Station (as defined in our Terms and Conditions) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable on the SF Station Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout SF Station near the bottom of most pages.
 
-World Cafe Productions, Inc. (SFStation.com) Privacy Policy
-
-SFStation.com, a division of World Cafe Productions, Inc., is strongly committed to protecting the privacy of its users. All Products and Services on SF Station (as defined in our Terms and Conditions) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable on the SFStation.com Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout SFStation.com near the bottom of most pages.
-
-This Privacy Policy governs the use and collection of information from you by World Cafe Producitons, Inc., d/b/a SF Station ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms & Conditions](https://web.archive.org/web/20060621160840id_/http%3A//www.sfstation.com/legal/terms.html) Agreement.
+This Privacy Policy governs the use and collection of information from you by World Cafe Producitons, Inc., d/b/a SF Station ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms & Conditions Agreement.
 
 IP ADDRESSES:
 
-An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. SFStation.com uses IP addresses to help diagnose problems with our server, to administer our Web site, and to report aggregate information.
+An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. SF Station uses IP addresses to help diagnose problems with our server, to administer our Web site, and to report aggregate information.
 
 The information we collect includes:  
 \- The IP address of the computer making the request  
@@ -29,13 +25,13 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 We use cookies to help target ads based on user behavior. For example, our site uses cookies to make sure you don't see the same ad repeatedly.
 
-We also use cookies to remember certain actions you take, such as logging in to one of our services, voting in our polls, or remembering a set of search results you requested. Most internet web browsers will allow you to adjust your cookie settings. However, some SFStation.com services will not work if you disable our ability to set cookies.
+We also use cookies to remember certain actions you take, such as logging in to one of our services, voting in our polls, or remembering a set of search results you requested. Most internet web browsers will allow you to adjust your cookie settings. However, some SF Station services will not work if you disable our ability to set cookies.
 
 Some of our third party partners use cookies. Please see the section on Third Party Advertising and Content for specific information and links to third party privacy policies.
 
 REGISTRATION:
 
-SFStation.com requires registration for these features on our site:
+SF Station requires registration for these features on our site:
 
 Email Announcements (special advertiser and editorial announcements from SF Station)
 
@@ -49,39 +45,39 @@ We require your email address to sign up for most of our newsletters. Your e-mai
 
 ORDER FORMS:
 
-Our site uses an order form when customers purchase services from us. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to get in touch with the customer when necessary. Reasons we may contact you include problems with the payment transaction or credit processing. If you purchase an Enhanced Event or Business Listing from SFStation.com, we may contact you regarding the content of the ad if it is missing information or has any questionable information. Financial information that is collected is used to bill the user for services. Contact information and financial information are kept private and is used for no other purpose than what is indicated above.
+Our site uses an order form when customers purchase services from us. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to get in touch with the customer when necessary. Reasons we may contact you include problems with the payment transaction or credit processing. If you purchase an Enhanced Event or Business Listing from SF Station , we may contact you regarding the content of the ad if it is missing information or has any questionable information. Financial information that is collected is used to bill the user for services. Contact information and financial information are kept private and is used for no other purpose than what is indicated above.
 
-Any financial information provided by users is sent via a secure server and encrypted for user protection. SFStation.com does not see, store or retain credit card numbers. Credit card information is submitted directly to Verisign, a third party that processes the financial transaction.
+Any financial information provided by users is sent via a secure server and encrypted for user protection. SF Station does not see, store or retain credit card numbers. Credit card information is submitted directly to Verisign, a third party that processes the financial transaction.
 
 CONTACT FORMS:
 
-SFStation.com features a contact page to assist users in directing their feedback to the correct party.
+SF Station features a contact page to assist users in directing their feedback to the correct party.
 
-If a user sends feedback to SFStation.com and includes a valid email address, SFStation.com may reply to the user. The reply will be used to provide the user with additional information, answer a user question, or direct the user to another source for information.
+If a user sends feedback to SF Station and includes a valid email address, SF Station may reply to the user. The reply will be used to provide the user with additional information, answer a user question, or direct the user to another source for information.
 
-Information submitted to SFStation.com via the user contact form will be kept confidential by SFStation.com. Information in the feedback may be used in aggregate to help guide policy decisions at SFStation.com. For example, if a certain number of people write in requesting the same service, we may use that information in our decision to begin providing that service.
+Information submitted to SF Station via the user contact form will be kept confidential by SF Station . Information in the feedback may be used in aggregate to help guide policy decisions at SF Station . For example, if a certain number of people write in requesting the same service, we may use that information in our decision to begin providing that service.
 
-SFStation.com cannot guarantee the confidentiality of feedback sent to outside sources.
+SF Station cannot guarantee the confidentiality of feedback sent to outside sources.
 
 ADVERTISER SUBMISSION FORMS:
 
-On SFStation.com pages related to advertising, we provide advertising inquiry forms. If a user submits information via these forms and requests information, SFStation.com will provide the user information using one of the contact channels provided.
+On SF Station pages related to advertising, we provide advertising inquiry forms. If a user submits information via these forms and requests information, SF Station will provide the user information using one of the contact channels provided.
 
 CONTESTS & SURVEYS:
 
-SFStation.com runs contests on our site in which we ask visitors for contact information (like email address). Your contact information is used to contact you if you are a winner in the contest. SFStation.com keeps this information private. However, contest sponsors may request this information from SFStation.com. If we plan to use this information for secondary purposes or plan to provide this information to contest sponsors, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for purposes.
+SF Station runs contests on our site in which we ask visitors for contact information (like email address). Your contact information is used to contact you if you are a winner in the contest. SF Station keeps this information private. However, contest sponsors may request this information from SF Station . If we plan to use this information for secondary purposes or plan to provide this information to contest sponsors, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for purposes.
 
-SFStation.com's contest forms may also ask visitors for demographic information (like zip code, age, or income level). This information is shared with advertisers on an aggregate basis only. We may ask for contact information if we are providing an incentive to users for completing our surveys. The contact information is kept private and only used to contact you if necessary. Your contact information is used to contact you if you are a winner in the contest. For surveys, contact is only necessary if there is an incentive associated with filling out the survey, and we need to provide you with the incentive (gift, money, etc.). It is kept separate from any demographic information you provide. If we plan to use this information for those purposes, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for those purposes.
+SF Station 's contest forms may also ask visitors for demographic information (like zip code, age, or income level). This information is shared with advertisers on an aggregate basis only. We may ask for contact information if we are providing an incentive to users for completing our surveys. The contact information is kept private and only used to contact you if necessary. Your contact information is used to contact you if you are a winner in the contest. For surveys, contact is only necessary if there is an incentive associated with filling out the survey, and we need to provide you with the incentive (gift, money, etc.). It is kept separate from any demographic information you provide. If we plan to use this information for those purposes, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for those purposes.
 
 CHILDREN:
 
-SFStation.com and World Cafe Productions, Inc., take special care to protect the safety and privacy of children using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace and to review our important safety tips before your child explores the Internet.
+SF Station and World Cafe Productions, Inc., take special care to protect the safety and privacy of children using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace and to review our important safety tips before your child explores the Internet.
 
 THIRD PARTY ADVERTISING AND CONTENT:
 
-In addition to partnerships with other companies, SFStation.com contains many links to advertiser and content web sites, including but not limited to those listed below. If you choose to visit and/or use the services provided by those sites, you may be asked by those sites to provide certain personally indentifiable information. Some of this information may, on an individual or aggregated basis, be shared with us. However, we will keep any individually identifiable information private. Please be aware that SFStation.com is not responsible for the privacy practices or the content of other Web sites, even if our name or logo may appear on those sites (aka co-branded). Third party web sites may appear in a new window, or they may appear in a frame. If frames are used, you may still see our site's URL in the address window, but you are actually on another web site. In most cases, any third party web page, even in a frame, is branded with their name. We encourage you to be aware when you leave our site and read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy policy applies solely to SFStation.com. 
+In addition to partnerships with other companies, SF Station contains many links to advertiser and content web sites, including but not limited to those listed below. If you choose to visit and/or use the services provided by those sites, you may be asked by those sites to provide certain personally indentifiable information. Some of this information may, on an individual or aggregated basis, be shared with us. However, we will keep any individually identifiable information private. Please be aware that SF Station is not responsible for the privacy practices or the content of other Web sites, even if our name or logo may appear on those sites (aka co-branded). Third party web sites may appear in a new window, or they may appear in a frame. If frames are used, you may still see our site's URL in the address window, but you are actually on another web site. In most cases, any third party web page, even in a frame, is branded with their name. We encourage you to be aware when you leave our site and read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy policy applies solely to SF Station . 
 
-Following are some of the third parties affiliated with SFStation.com:
+Following are some of the third parties affiliated with SF Station :
 
 LIST THIRD PARTIES HERE
 
@@ -96,7 +92,7 @@ Any financial information provided by users is sent via a secure server and encr
 
 ILLEGAL ACTIVITY:
 
-SFStation.com may be asked by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or at our discretion in order to cooperate with a law enforcement investigation, without prior notice to you. SFGate.com reserves the right to share personal identifiable information to cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we believe to be unlawful.
+SF Station may be asked by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or at our discretion in order to cooperate with a law enforcement investigation, without prior notice to you. SF Station reserves the right to share personal identifiable information to cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we believe to be unlawful.
 
 CHOICE/OPT OUT:
 
@@ -113,5 +109,7 @@ CONTACTING THE WEB SITE:
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us:
 
 SF Station Support  
-3528 17th Street  
-San Francisco CA 94110
+1475 Folsom Street, Suite 200  
+San Francisco CA 94103
+
+You can also contact us via email, by [clicking here](https://web.archive.org/app/contact/us.php).
