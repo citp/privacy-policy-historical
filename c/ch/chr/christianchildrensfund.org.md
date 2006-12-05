@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the christianchildrensfund.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052849id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianchildrensfund.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223350id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.*
 
-# None
+# Christian Children's Fund Privacy Policy
 
 [](https://web.archive.org/register/CWRegister.aspx)
 
-| 
-
-**  
-** We at the Christian Children’s Fund (“CCF”) respect your concerns about privacy and value the relationship we have with you.  This Privacy Notice describes the types of personal information we collect on our website, how we may use that information, and with whom we may share it.  Our Privacy Notice also describes the measures we take to protect the security of the information.  In addition, we describe the choices you can make about how we use the information you provide to us.  We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices.
+|  We at the Christian Children’s Fund (“CCF”) respect your concerns about privacy and value the relationship we have with you.  This Privacy Notice describes the types of personal information we collect on our website, how we may use that information, and with whom we may share it.  Our Privacy Notice also describes the measures we take to protect the security of the information.  In addition, we describe the choices you can make about how we use the information you provide to us.  We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices.
 
 Click on one of the links below to jump to the listed section:  
 
@@ -92,4 +89,4 @@ PRIVACY NOTICE EFFECTIVE DATE:  8/17/04
 
 Return to [_Terms and Conditions_](https://web.archive.org/content.aspx?id=740)
 
-     | 
+| 
