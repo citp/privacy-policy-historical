@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031142id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003526id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
 
-# civilrights.org -- Privacy Policy
+# About civilrights.org
 
 civilrights.org does not sell, rent, exchange or otherwise disclose our mailing lists or information about our site visitors. 
 
@@ -10,4 +10,4 @@ If you choose to submit content to civilrights.org and provide personally identi
 
 Action alerts on civilrights.org may request zip code information so that we can match you with your members of Congress. If you are interested in receiving future alerts, we ask for your email address so that we may send you these updates. This information is not used for any other purpose. 
 
-civilrights.org also collects e-mail addresses for [our email publications](http://www.civilrights.org/publications/contribute/subscribe.cfm). Your e-mail address for these publications is not used for any other purpose.
+civilrights.org also collects e-mail addresses for [our email publications](https://web.archive.org/publications/contribute/subscribe.cfm). Your e-mail address for these publications is not used for any other purpose. 
