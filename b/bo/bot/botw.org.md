@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botw.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034516id_/http%3A//botw.org/helpcenter/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botw.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201812id_/http%3A//botw.org/helpcenter/privacy.aspx) for the most accurate reproduction.*
 
 # Best of the Web - Privacy Policy
 
