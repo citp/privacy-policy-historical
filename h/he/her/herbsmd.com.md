@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205332id_/http%3A//herbsmd.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232204id_/http%3A//www.herbsmd.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
 
 # HerbsMD - Herbal Privacy Policy
 
   
 Privacy Policy **Overview**  
-Simply, We do not sell, rent or share personal information with any third party. The information you give us is totally confidential, and will not be sold or given to any individual or company or organization under any circumstances.
+Simply, We do not sell, rent or share personal information with any third party. The information you give us is totally confidential, and will not be sold or given to any individual or company or organization under any circumstances. 
 
-The privacy practices of this statement apply to our services available under the domain and sub-domains of [HerbsMD.com](https://web.archive.org/default.asp). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
+The privacy practices of this statement apply to our services available under the domain and sub-domains of [herbsmd.com](https://web.archive.org/default.asp). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
 
 The HerbsMD Privacy Policy discloses our privacy practices and contains detailed information about the following:
 
