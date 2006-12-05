@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623113028id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224927id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
 # Domain Name Registration, Cheap UK Bulk Domain Name Registration Services
 
