@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623072539id_/http%3A//www.davidsprom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212739id_/http%3A//www.davidsprom.com/privacy1.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | David's Prom 2006
+# David's Prom 2006
 
 |   
 ---  
-|  David's Bridal Prom (www.davidsprom.com) is committed to maintaining your confidence and trust, and maintains the following privacy policy to protect the personally identifiable information you provide online. To make this notice easy to find, we make it available on our homepage and at every point where we request personally identifiable information from you. 
+| 
+
+  
+David's Bridal Prom (www.davidsprom.com) is committed to maintaining your confidence and trust, and maintains the following privacy policy to protect the personally identifiable information you provide online. To make this notice easy to find, we make it available on our homepage and at every point where we request personally identifiable information from you. 
 
  WHAT INFORMATION DO WE COLLECT ON THIS WEBSITE? 
 
@@ -50,4 +53,6 @@ In short, if you provide personally identifiable information online that is acce
 
   
 By using our web site, you consent to our collection and use of the information you provide. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please send an email to: [remove@davidsbridal.net](mailto:remove@davidsbridal.net).   
-If you have other questions or concerns about our privacy policy, please send us an email at [remove@davidsbridal.net](mailto:remove@davidsbridal.net). Our address is 1001 Washington Street, Conshohocken, PA 19428. | 
+If you have other questions or concerns about our privacy policy, please send us an email at [remove@davidsbridal.net](mailto:remove@davidsbridal.net). Our address is 1001 Washington Street, Conshohocken, PA 19428.
+
+| 
