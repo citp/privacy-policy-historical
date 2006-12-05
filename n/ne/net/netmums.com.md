@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmums.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613231906id_/http%3A//netmums.com/cm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmums.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184552id_/http%3A//netmums.com/cm/privacy.htm) for the most accurate reproduction.*
 
 # netmums in your area?
 
