@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214517id_/http%3A//www.cardomain.com/service/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193134id_/http%3A//www.cardomain.com/service/privacy.pl) for the most accurate reproduction.*
 
 # CarDomain Network's Privacy Policy
 
