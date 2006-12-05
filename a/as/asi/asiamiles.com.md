@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiamiles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224335id_/http%3A//www.asiamiles.com/en/about/privacy/1%2C%2C117567%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiamiles.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221402id_/http%3A//www.asiamiles.com/en/about/privacy/1%2C%2C117567%2C00.html) for the most accurate reproduction.*
 
 # Asia Miles - About Asia Miles - Privacy Policy
 
