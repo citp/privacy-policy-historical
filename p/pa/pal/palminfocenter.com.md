@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the palminfocenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012036id_/http%3A//palminfocenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palminfocenter.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195316id_/http%3A//palminfocenter.com/privacy.asp) for the most accurate reproduction.*
 
-# PalmInfocenter.com: Privacy Statement
+# PalmInfocenter Privacy Policy
 
-**PalmInfocenter Privacy Statement**   
+  
+
+
+PalmInfocenter Privacy Statement
+
 **_Registration_**  
 We will **NEVER** sell, share or redistribute your email address for any reason. 
 
