@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020346id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231359id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
 
-# Broadway.com: New York & London Theater Tickets, News, Interviews, Broadway Show Information, Photos & Video, Musicals & Plays
+# Privacy Policy
 
 Hollywood Media Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Broadway.com. 
 
