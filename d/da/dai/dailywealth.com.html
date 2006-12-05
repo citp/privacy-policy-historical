@@ -1,0 +1,400 @@
+<!--The following is the downloaded HTML source of the dailywealth.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205235358id_/http%3A//www.dailywealth.com/privacy_policy.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+<style type="text/css">
+<!--
+.style1 {font-size: 8pt}
+.style2 {font-size: 10pt}
+-->
+</style>
+<link rel="stylesheet" media="print" href="http://www.dailywealth.com/includes/print.css" type="text/css">
+<title>Steve Sjuggerud's DailyWealth - Privacy Policy</title>
+</head>
+
+<body link="#0000FF" vlink="#0000FF" alink="#0000FF">
+
+<script language="JavaScript" type="text/JavaScript">
+<!-- Begin
+function emailCheck (emailStr) {
+/* The following pattern is used to check if the entered e-mail address
+   fits the user@domain format.  It also is used to separate the username
+   from the domain. */
+var emailPat=/^(.+)@(.+)$/
+/* The following string represents the pattern for matching all special
+   characters.  We don't want to allow special characters in the address. 
+   These characters include ( ) < > @ , ; : \ " . [ ]    */
+var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
+/* The following string represents the range of characters allowed in a 
+   username or domainname.  It really states which chars aren't allowed. */
+var validChars="\[^\\s" + specialChars + "\]"
+/* The following pattern applies if the "user" is a quoted string (in
+   which case, there are no rules about which characters are allowed
+   and which aren't; anything goes).  E.g. "jiminy cricket"@disney.com
+   is a legal e-mail address. */
+var quotedUser="(\"[^\"]*\")"
+/* The following pattern applies for domains that are IP addresses,
+   rather than symbolic names.  E.g. joe@[123.124.233.4] is a legal
+   e-mail address. NOTE: The square brackets are required. */
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
+/* The following string represents an atom (basically a series of
+   non-special characters.) */
+var atom=validChars + '+'
+/* The following string represents one word in the typical username.
+   For example, in john.doe@somewhere.com, john and doe are words.
+   Basically, a word is either an atom or quoted string. */
+var word="(" + atom + "|" + quotedUser + ")"
+// The following pattern describes the structure of the user
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
+/* The following pattern describes the structure of a normal symbolic
+   domain, as opposed to ipDomainPat, shown above. */
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
+
+
+/* Finally, let's start trying to figure out if the supplied address is
+   valid. */
+
+/* Begin with the coarse pattern to simply break up user@domain into
+   different pieces that are easy to analyze. */
+var matchArray=emailStr.match(emailPat)
+if (matchArray==null) {
+  /* Too many/few @'s or something; basically, this address doesn't
+     even fit the general mould of a valid e-mail address. */
+	alert("Email address seems incorrect (check @ and .'s)")
+	return false
+}
+var user=matchArray[1]
+var domain=matchArray[2]
+
+// See if "user" is valid 
+if (user.match(userPat)==null) {
+    // user is not valid
+    alert("The username doesn't seem to be valid.")
+    return false
+}
+
+/* if the e-mail address is at an IP address (as opposed to a symbolic
+   host name) make sure the IP address is valid. */
+var IPArray=domain.match(ipDomainPat)
+if (IPArray!=null) {
+    // this is an IP address
+	  for (var i=1;i<=4;i++) {
+	    if (IPArray[i]>255) {
+	        alert("Destination IP address is invalid!")
+		return false
+	    }
+    }
+    return true
+}
+
+// Domain is symbolic name
+var domainArray=domain.match(domainPat)
+if (domainArray==null) {
+	alert("The domain name doesn't seem to be valid.")
+    return false
+}
+
+/* domain name seems valid, but now make sure that it ends in a
+   three-letter word (like com, edu, gov) or a two-letter word,
+   representing country (uk, nl), and that there's a hostname preceding 
+   the domain or country. */
+
+/* Now we need to break up the domain to get a count of how many atoms
+   it consists of. */
+var atomPat=new RegExp(atom,"g")
+var domArr=domain.match(atomPat)
+var len=domArr.length
+if (domArr[domArr.length-1].length<2 || 
+    domArr[domArr.length-1].length>3) {
+   // the address must end in a two letter or three letter word.
+   alert("The address must end in a three-letter domain, or two letter country.")
+   return false
+}
+
+// Make sure there's a host name preceding the domain.
+if (len<2) {
+   var errStr="This address is missing a hostname!"
+   alert(errStr)
+   return false
+}
+
+// If we've gotten this far, everything's valid!
+return true;
+}
+//  End -->
+</script>
+<table width="802" align="center" cellpadding="0" cellspacing="0" class="noprint">
+  <tbody><tr>
+    <td colspan="4" align="left" valign="top"><img src="http://www.dailywealth.com/images/top_border.gif"></td>
+  </tr>
+  <tr>
+    <td width="294" rowspan="2" align="left" valign="top"><a href="http://www.dailywealth.com/index.asp"><img src="http://www.dailywealth.com/images/main_logo.gif" border="0"></a></td>
+    <td width="48" align="right" valign="top"><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp; </font></td>
+    <td width="424" align="right" valign="top"><div align="right">
+        <form method="GET" action="http://www.picosearch.com/cgi-bin/ts.pl">
+          <font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">
+          <input type="HIDDEN" name="index" value="233678">
+          <input name="query" type="TEXT" class="style1" value="" size="20">
+          <input name="SEARCH" type="SUBMIT" class="style1" value="Archive Search">
+          </font><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+          </font>
+        </form>
+        <font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif"> </font> </div></td>
+    <td width="34" align="right" valign="top"><img src="http://www.dailywealth.com/images/top_right_line.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top"><a href="about_sdw.asp"><img src="http://www.dailywealth.com/images/about_SDWn.gif" border="0"></a><a href="sdw_premium.asp"><img src="http://www.dailywealth.com/images/premium_contentn.gif" border="0"></a><a href="sdw_archive.asp"><img src="http://www.dailywealth.com/images/SDW_Archive_n.gif" border="0"></a></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="left" valign="top"><img src="http://www.dailywealth.com/images/top_grey_bar.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="left" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td bgcolor="#006699"><img src="http://www.dailywealth.com/images/top_blue_fade.gif"></td>
+          <td width="68%" rowspan="3" align="right" valign="top"><a href="index.asp"><img src="http://www.dailywealth.com/images/home_new.gif" border="0"></a><a href="sdw_contributors.asp"><img src="http://www.dailywealth.com/images/contributors_button.gif" border="0"></a><a href="sdw_resources.asp"><img src="http://www.dailywealth.com/images/sdw_resources_button.gif" border="0"></a><a href="sdw_reports.asp"><img src="http://www.dailywealth.com/images/research_reports_button.gif" border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="left" valign="middle" bgcolor="#006699"><font color="#FFFFFF" size="3"><img src="http://www.dailywealth.com/images/top_grey_box.gif"><img src="http://www.dailywealth.com/images/top_grey_box.gif"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> </font></font></td>
+        </tr>
+        <tr>
+          <td><img src="http://www.dailywealth.com/images/top_grey_nav_fill.gif" width="256" height="3"></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="35" colspan="4" align="left" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="noprint">
+        <tbody><tr>
+          <td><table width="100%" border="0" align="center" cellpadding="1" cellspacing="0">
+              <form name="form1" method="post" action="scripts/opt_in_submit_home.asp" onsubmit="return emailCheck(this.email.value);"></form>
+                <tbody><tr>
+                  <td bgcolor="#006699"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tbody><tr align="left" valign="top">
+                        <td valign="middle" background="http://www.dailywealth.com/images/signup_fill.gif"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" background="http://www.dailywealth.com/images/signup_fill.gif">
+                            <tbody><tr>
+                              <td><img src="http://www.dailywealth.com/images/signup_left.gif"></td>
+                              <td align="center" valign="middle"><input name="email" type="text" id="email" size="20">
+                                  <input name="Submit" type="submit" class="style1" value="Join Now">
+                                  <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>
+                                  <input name="source" type="hidden" value="X350G824">
+                                </strong></font></td>
+                              <td><img src="http://www.dailywealth.com/images/signup_right.gif"></td>
+                            </tr>
+                        </tbody></table></td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+              
+          </tbody></table></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<table width="800" align="center" cellpadding="0" cellspacing="0" class="noprint">
+  <tbody><tr>
+    <td width="32"><font face="Verdana," arial,="" helvetica,="" sans-serif,="" impact="" size="1"><font face="Verdana," arial,="" helvetica,="" sans-serif,="" impact="" size="1"><font face="Verdana," arial,="" helvetica,="" sans-serif,="" impact="" size="1"><font size="2"><img src="http://www.dailywealth.com/images/icon.gif" alt="DailyWealth Print Edition" border="0"></font></font></font></font></td>
+    <td width="493"><font face="Verdana," arial,="" helvetica,="" sans-serif,="" impact="" size="1"><font face="Verdana," arial,="" helvetica,="" sans-serif,="" impact="" size="1"><font face="Verdana," arial,="" helvetica,="" sans-serif,="" impact="" size="1"><font size="2"><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#000000"> Also visit: <a href="http://www.growthstockwire.com">The Growth Stock Wire</a></font></font></font></font></font></font></td>
+    <td><div align="right"><a href="http://www.stansberryresearch.com/TRW/TRW-secure/TRW-home.html"><img src="http://www.dailywealth.com/images/true_wealth_login.gif" border="0"></a></div></td>
+  </tr>
+</tbody></table>
+
+<table width="800" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="main">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="100%" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="67%" height="338" align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+            <tbody><tr>
+              <td align="left" valign="top"><div class="Section1">
+                <div class="Section1"> 
+                  <p align="left"><strong><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><em>PRIVACY POLICY </em></font></strong></p>
+                  <p align="left"> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">We take your privacy very seriously. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <strong>e-Mail Address</strong> </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> When you subscribe, your e-mail address is placed in a database and used to send your issues and occasional advertisements or special notices from the service or publication you subscribed to. We will not sell, rent, or otherwise share your e-mail address with anyone. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> You can remove your address from our e-mailing list by following the instructions at the end of every e-mail we send. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Any e-mail you send to us is considered confidential unless you tell us otherwise. We will not add your name to our e-mail list without your permission. If your inquiry is about an order or subscription, our customer service staff will ask you to verify your identity by confirming information already in your record. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <strong>Personal Information </strong></font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> We will never ask you for personal information--your credit card number, for example--except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. Only our authorized employees will have access to this information. We will not sell or rent this information to anyone, nor share it in any other way, unless required to by a law enforcement agency that takes the proper steps to require it. Please note that "personal information" does not include your mailing address. See&nbsp;Mailing Address, below. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <strong>Mailing Address</strong> </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> When you give us your mailing address, we&nbsp;will use this information to fulfill your order or subscription and to send you information on other products that may suit your interests. If you don't want us to send you this other information, please contact our customer service department: </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Attn: Customer Service <br>
+  1217 St. Paul Street.<br>
+  Baltimore, Maryland 21202&nbsp; USA </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <strong>Cookies </strong></font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Cookies are small files placed on your computer by a web page when you visit it. They can be used to store all sorts of useful information to make your next visit easier and more convenient, but some people are uncomfortable not knowing what information is in a cookie. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Stansberry &amp; Associates&nbsp;web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> In other words, you can leave the site and come back without having to re-enter your user name and password every time (within a set time period). We do not use cookies to track your browsing habits or collect any information about you. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <strong>Copyright and Disclaimer </strong></font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> All contents of this website are copyright&nbsp;2006 by Stansberry &amp; Associates Investment Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Porter Stansberry. </font></p>
+                  <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U.S.C. Section 2319}: Infringements can be punishable by up to five years in prison and $250,000 in fines.</font></p>
+                  <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DISCLAIMER:This work is based on SEC filings, current events, interviews, corporate press releases and what we've learned as financial journalists. It may contain errors and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry &amp; Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry &amp; Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.</font></div>
+                  </div>
+              </div></td>
+            </tr>
+          </tbody></table>
+            <div align="center">
+                <div align="center"></div>
+          </div></td>
+          <td width="1%" align="left" valign="top"><p><br>
+                  <img src="http://www.dailywealth.com/images/hline.gif" width="1" height="100%"></p></td>
+          <td width="32%" align="left" valign="top" bgcolor="#FFFFFF"><div align="right">
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td align="left" valign="top"><p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+        Sign up for <em><strong>DailyWealth</strong></em> today and we'll immediately send you, free of charge, our latest research reports on some of the most profitable investments you can make right now.</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Just enter your email address in the space provided above. </font></p></td>
+                </tr>
+              </tbody></table>
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td height="21" align="left" valign="top"><div align="center">
+                      <div align="center">
+                        <div align="left">
+                          <div align="left">
+                            <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="http://www.dailywealth.com/images/hline2.gif" width="100%" height="1"></strong></font></div>
+                          </div>
+                        </div>
+                      </div>
+                  </div></td>
+                </tr>
+              </tbody></table>
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td height="21" align="left" valign="top"><div align="center">
+                      <div align="center">
+                        <div align="left">
+                          <div align="left">
+                            <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                              <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>The Largest Onshore Oil Discovery Since 1967
+</strong></font>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">On a 75-mile stretch of windswept land in Central Utah, geologists have made the discovery of a lifetime…</font></p>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">“It's enormous – it's a major discovery,” says Steve Sonnenberg from the American Association of Petroleum Geologists.</font></p>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">“The size of the structures here are massive. They’re elephants,” says Kimball Hodges, a U.S. oil executive.</font></p>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">And recently, the U.S. Energy Dep’t made their own assessment: “[This] discovery represents one of the most promising new onshore plays in the United States in recent years.”</font></p>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Now, 2 little-known companies are quietly preparing to tap this discovery… </font></p>
+</font><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For more info, <a href="http://www.stansberryonline.com/PRO/0611OILUTA49/WOILGB03/200611OIL-UTA-99.html">click here</a>.</font>
+                            </font></p></div>
+                          </div>
+                        </div>
+                      </div>
+                  </div></td>
+                </tr>
+              </tbody></table>
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td height="21" align="left" valign="top"><div align="center">
+                      <div align="center">
+                        <div align="left">
+                          <div align="left">
+                            <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="http://www.dailywealth.com/images/hline2.gif" width="100%" height="1"></strong></font></div>
+                          </div>
+                        </div>
+                      </div>
+                  </div></td>
+                </tr>
+              </tbody></table>
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td align="left" valign="top"><p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="4"><em>FAQ's</em></font></strong></font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Q</strong>: Who publishes <em><strong>DailyWealth</strong></em>?</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A</strong>: DailyWealth is published by Stansberry &amp; Associates Investment Research. For more information on us, <a href="about_s&amp;a_research.asp"><strong>click here</strong></a>.</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Q</strong>: How can I invite a friend to receive <em><strong>DailyWealth</strong></em>?</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A</strong>: To invite a friend, just <a href="login.asp"><strong>click here</strong></a> and follow the instructions.</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Q</strong>: How many people can I invite to receive <em><strong>DailyWealth</strong></em>?</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A</strong>: You will initially receive 5 invitations. </font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Q</strong>: What does <strong> Whitelist Us</strong> mean?</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A</strong>: Whitelisting is the placing of an email source on your “Do Not Spam” list. </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Placing <em><strong>DailyWealth</strong></em> on your whitelist ensures that your issue reaches you without being blocked by your internet service provider.</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To ensure <em><strong>DailyWealth</strong></em> is whitelisted, just add us to your address book. <a href="whitelist.asp"><strong>Click</strong></a> to learn how. </font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Q</strong>: How do I unsubscribe?</font></p>
+                      <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A</strong>: To unsubscribe from <em><strong>DailyWealth</strong></em>, click the unsubscribe link at the bottom of your daily email.</font></p></td>
+                </tr>
+              </tbody></table>
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td height="21" align="left" valign="top"><div align="center">
+                      <div align="center">
+                        <div align="left">
+                          <div align="left">
+                            <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="http://www.dailywealth.com/images/hline2.gif" width="100%" height="1"></strong></font></div>
+                          </div>
+                        </div>
+                      </div>
+                  </div></td>
+                </tr>
+              </tbody></table>
+              <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+                <tbody><tr>
+                  <td align="left" valign="top"><div align="left">
+                      <p><em><strong><font size="4" face="Verdana, Arial, Helvetica, sans-serif">RESOURCES</font></strong></em></p>
+                      <p><span class="MsoNormal"><font face="Verdana" size="2"><a href="trw_classics.asp">True Wealth Classics</a> <br>
+                            <a href="sdw_resources.asp">Recommended Reading</a><br>
+                            <a href="sdw_resources.asp">News &amp; Editorial</a><br>
+                            <a href="sdw_resources.asp#research">Research</a><br>
+                            <a href="sdw_resources.asp#smart">Smart People We Read</a><br>
+                            <a href="sdw_reports.asp">Research Reports</a></font></span></p>
+                  </div></td>
+                </tr>
+              </tbody></table>
+          </div></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<table width="800" border="0" align="center" cellpadding="1" cellspacing="0" class="noprint">
+  <form name="form1" method="post" action="http://www.dailywealth.com/scripts/opt_in_submit_home.asp" onsubmit="return emailCheck(this.email.value);"></form>
+    <tbody><tr>
+      <td bgcolor="#006699"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr align="left" valign="top">
+            <td valign="middle" background="http://www.dailywealth.com/images/signup_fill.gif"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" background="http://www.dailywealth.com/images/signup_fill.gif">
+                <tbody><tr>
+                  <td><img src="http://www.dailywealth.com/images/signup_left.gif"></td>
+                  <td align="center" valign="middle"><input name="email" type="text" id="email" size="20">
+                      <input name="Submit" type="submit" class="style1" value="Join Now">
+                      <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>
+                      <input name="source" type="hidden" value="X350G824">
+					
+                    </strong></font></td>
+                  <td><img src="http://www.dailywealth.com/images/signup_right.gif"></td>
+                </tr>
+            </tbody></table></td>
+          </tr>
+      </tbody></table></td>
+    </tr>
+  
+</tbody></table>
+<table width="800" align="center" cellpadding="0" cellspacing="0" class="noprint">
+  <tbody><tr>
+    <td><img src="http://www.dailywealth.com/images/new_footer.gif"></td>
+  </tr>
+</tbody></table>
+<table width="800" align="center" cellpadding="0" cellspacing="0" class="noprint">
+  <tbody><tr>
+    <td align="left" valign="top"><div align="center">
+        <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.dailywealth.com">Home</a> | <a href="http://www.dailywealth.com/about_sdw.asp">About DailyWealth</a> | <a href="http://www.dailywealth.com/sdw_premium.asp">Premium Content</a> | <a href="http://www.dailywealth.com/sdw_archive.asp">DailyWealth Archive</a>  | <a href="http://www.dailywealth.com/sdw_resources.asp"></a><a href="http://www.dailywealth.com/sdw_contributors.asp">Contributors</a><br>
+        <a href="http://www.dailywealth.com/sdw_resources.asp">DailyWealth Resources</a> | <a href="http://www.dailywealth.com/sdw_resources.asp"></a><a href="http://www.dailywealth.com/sdw_reports.asp">Research Reports</a> | <a href="http://www.dailywealth.com/privacy_policy.asp">Privacy Policy</a> </font></p>
+    </div></td>
+  </tr>
+</tbody></table>
+<table width="800" align="center" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF" id="main">
+  <tbody><tr>
+    <td height="21" align="left" valign="top"><div align="center">
+        <div align="center">
+          <div align="left">
+            <div align="left">
+              <div align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src="http://www.dailywealth.com/images/hline2.gif" width="100%" height="1"></strong></font></div>
+            </div>
+          </div>
+        </div>
+    </div></td>
+  </tr>
+</tbody></table>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0" id="main">
+  <tbody><tr>
+    <td align="left" valign="top"><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">Customer Service: <span class="Oxford_XX-Small_-_Black">1-888-261-2693</span>&nbsp;ALL CONTENTS OF THIS E-MAIL ARE COPYRIGHT 2006 BY STANSBERRY &amp; ASSOCIATES INVESTMENT RESEARCH. ALL RIGHTS RESERVED: REPRODUCING ANY PART OF THIS DOCUMENT IS PROHIBITED WITHOUT THE EXPRESS WRITTEN CONSENT OF PORTER STANSBERRY. Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U.S.C. Section 2319}: Infringements can be punishable by up to five years in prison and $250,000 in fines. </font></td>
+  </tr>
+</tbody></table>
+
+
+
+
+</body></html>
