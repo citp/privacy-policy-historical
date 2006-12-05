@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215822id_/http%3A//indiangiftsportal.com/myshop/help-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232854id_/http%3A//www.indiangiftsportal.com/myshop/help-privacy-policy.php) for the most accurate reproduction.*
 
 # Indian Gifts Portal
 
@@ -15,5 +15,3 @@ When you place orders it is through a secure server. The secure server software 
 **Will Indian Gifts Portal disclose the information it collects to outside parties?**
 
 **Indian Gifts Portal** does not sell, trade, or rent your personal information to others. By using our web site, you consent to the collection and use of this information by Indian Gifts Portal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-**IMPORTANT: Kindly also refer [_IndiaMART Privacy Policy_](http://www.indiamart.com/privacy-policy.html)**
