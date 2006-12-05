@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222114id_/http%3A//bea.gov/bea/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200326id_/https%3A//www.bea.gov/bea/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
@@ -13,6 +13,15 @@ Our web server automatically collects the default information logged by most ser
 The logs may be preserved indefinitely, and they may be used to prevent security breaches and to ensure the integrity of the data on our servers. 
 
 We do not use "persistent cookies" or use any persistent tracking technologies that can identify a specific visitor, or information about that visitor, over multiple visits. However some interactive features on our site (for example, the [balance of payments interactive](https://web.archive.org/bea/international/bp_web/) feature) do use "session cookies" that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends.
+
+## Purchasers of BEA Products
+
+Any information that we collect for the purpose of purchasing products will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act.  The BEA collects customer information (name, address, phone number, and email address) to process orders for data products.  Any information that would permit identification of individual customers is used only for this purpose and not shared with other agencies or organizations, or with other areas in the Bureau.
+
+If you choose not to enter your e-mail address, you cannot complete your Regional Input-Output Multipliers (RIMS II) order online.  However, you can call our RIMS II staff at (202) 606-5343 and place an order without providing an e-mail address.  
+
+The BEA does not capture credit card numbers on our servers; credit card, debit card, and check transactions are processed through to the U.S. Government's [PAY.GOV](https://www.pay.gov/paygov/ "https://www.pay.gov/paygov/") system.   
+
 
 ## Session cookies and BEA's Web satisfaction survey 
 
