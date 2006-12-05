@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the clothes2order.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617043808id_/http%3A//www.clothes2order.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothes2order.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234734id_/http%3A//www.clothes2order.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Notice... - Clothes2order.com
+# Privacy Notice... - Clothes2order suppliers of Promotional Clothing, Uniforms, embroidered polo shirts and printed T-shirts.
+
+............................................................. ............................................................. .............................................................
 
 We are committed to protecting your privacy. We want you to be able to place your order with us free from worry.
 
@@ -51,4 +53,4 @@ Using a credit card may give you additional protection. Under the Consumer Credi
 
 In addition, all the major credit card companies, along with IBM, Netscape Communications, and many others, are committed to the continuing development of open standards, in order to further improve the security of online transactions.
 
-We want you to feel totally at ease every time you visit our site to get information, request a sample and place an order. If you still do not feel comfortable about leaving your credit card information on our secured Web site, please click on payment options or contact one of our customer care representatives at 0161 236 2206 and they'll be happy to help you with your order.
+We want you to feel totally at ease every time you visit our site to get information, request a sample and place an order. If you still do not feel comfortable about leaving your credit card information on our secured Web site, please click on payment options or contact one of our customer care representatives at 0161 855 3961 and they'll be happy to help you with your order.
