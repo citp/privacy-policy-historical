@@ -1,48 +1,10 @@
-> *The following text is extracted and transformed from the metrokc.gov privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229230743id_/http%3A//www.metrokc.gov/terms.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrokc.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183919id_/http%3A//www.metrokc.gov/privacy.aspx) for the most accurate reproduction.*
 
-# About King County web site: Terms and conditions of use
-
-Terms of use
-
-External links
-
-Use of forums
-
-Privacy
-
-| 
-
-King County adheres to the highest of Internet standards, protecting its users' privacy, observing and championing Net etiquette, linking externally without endorsements, and aiming for factual information throughout. To that end, here's a look at what we expect from users of our site and what users can expect from us.
-
-**Terms of us** **e**  
-By visiting the King County Web site, users agree that they will not use the site for any unlawful activity, or use it in any way that would violate the following terms and conditions.
-
-This Web site is governed and construed by the laws of the State of Washington. Any use of the Web site shall comply with all King County, Washington and State of Washington laws and regulations as well as with all federal laws and regulations. Any lawsuit or claim arising from this Web site shall be brought in the King County Superior Court, Seattle, Washington.
-
-**Linkage**
-
-King County links to external Web sites in the hope that users will find reference material on county-related subjects. Because King County cannot control those sites, it cannot be held responsible for content included in them. Moreover, in no way should an external link be considered any form of endorsement by King County.
-
-**Use of communication forums**
-
-The King County Web site has or will contain threaded discussions, chat rooms, and other communication forums. By participating in any of these, users agree to send and receive messages that are both proper and related to the forum topic. The following actions are prohibited:
-
-  * Defaming, harassing, threatening or otherwise violating the legal rights of others, including their privacy (see below);
-  * Misrepresenting one's person, background, or character;
-  * Posting any defamatory, infringing, obscene, false, or unlawful material;
-  * Selling, advertising, or exchanging any goods or services unless expressly allowed;
-  * Posting any copyrighted material owned by a third party.
-
-
-
-Also, you agree to use any King County forum at your own risk. While championing proper use of such forums, King County cannot guarantee that violations of the above code will not occur.
-
-**Privacy**  
-
+# About King County web site: Privacy notice
 
 **Preface**
 
-King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under Chapter [ 42.17 RCW](http://www.leg.wa.gov/rcw/index.cfm?fuseaction=chapterdigest&chapter=42.17) (external link, Washington Public Disclosure Act) consistent with [ KCC 2.14.030](http://www.metrokc.gov/mkcc/code/05-Title%202.pdf) (549K PDF; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
+King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under Chapter 42.17 RCW ([www.leg.wa.gov/rcw/index.cfm?fuseaction=chapterdigest&chapter=42.17](http://www.leg.wa.gov/rcw/index.cfm?fuseaction=chapterdigest&chapter=42.17), Washington Public Disclosure Act) consistent with KCC 2.14.030 ([www.metrokc.gov/mkcc/code/05-Title%202.pdf](http://www.metrokc.gov/mkcc/code/05-Title%202.pdf) (549K PDF; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
 
 This privacy notice does not apply to personnel files, job applications, court records, law enforcement investigation, regulatory investigation, assessor records, and recorded documents maintained by the Records, Elections, and Licensing Services division.
 
@@ -67,9 +29,9 @@ King County gathers personal information when it is relevant and necessary to ac
 We also collect information on our Web site, both anonymous and personal.
 
   * Anonymous information cannot be linked to a specific person, such as user hits, visits and sessions that we track by Internet service provider. We use this information to help us create a better overall experience for our Web site users.
-  * Cookies are another example of anonymous information that we use. Web site cookies are small text files that are placed on a user's computer by a Web server. We occasionally use cookies to tailor information to the needs of a user's specific browser. Our Web server is unable to determine any data about you nor does it do anything with these cookies.
+  * Cookies are another example of anonymous information that we use. Web site cookies are small text files that are placed on a user's computer by a Web server. We occasionally use cookies to tailor information to the needs of a user's specific browser. Our Web server is not able to determine any data about you nor does it do anything with these cookies.
   * Personal information collected on certain King County Web pages is data that you provide to us about yourself. Providing information to us on our Web site is purely voluntary. This information is used to better serve you. Should you choose not to provide information to King County on the Internet, you may provide this information to us in another way, such as visiting a county office during normal business hours or, for some county services, completing your business by mail or telephone.
-  * When King County collects personal information from children using the Internet, it complies with the federal [Children's Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm) (external link).
+  * When King County collects personal information from children using the Internet, it complies with the federal Children's Online Privacy Protection Act, [www.ftc.gov/ogc/coppa1.htm](http://www.ftc.gov/ogc/coppa1.htm)
 
 
 
@@ -83,12 +45,17 @@ Upon written request to a specific King County agency, you may receive a written
 
 To find out more, contact King County at the e-mail address or telephone number listed below.
 
-**Contact** **information**
+**Contact information and alternate languages**
 
-For privacy inquiries, please contact King County by e-mail at [PrivacyContact@metrokc.gov](mailto:PrivacyContact@METROKC.gov) or leave a telephone message at 206-205-6899.
+For privacy inquiries or alternate languages, please contact King County by e-mail at [PrivacyContact@metrokc.gov](mailto:PrivacyContact@metrokc.gov) or leave a telephone message at 206-205-6899. (Languages offered: Chinese, Russian, Vietnamese, Cambodian, Korean, Laotian and Spanish).
 
 **Other King County privacy notices**
 
-Some King County organizations may have privacy notices that are more restrictive than this information privacy notice. In that case, the organization's specific privacy notice takes precedence over this information privacy notice. For privacy inquiries specific to a King County organization's privacy notice, please contact that organization directly.  
-  
-Updated: Sept. 26, 2005
+Some King County organizations may have privacy notices that are more restrictive than this information privacy notice. In that case, the organization's specific privacy notice takes precedence over this information privacy notice. For privacy inquiries specific to a King County organization's privacy notice, please contact that organization directly.
+
+Alternate formats of this document are available by telephone, at 206-205-6899 or TTY Relay 711.
+
+Links to external sites do not constitute endorsements by King County.  
+By visiting this and other King County web pages,  
+you expressly agree to be bound by terms and conditions of the site.  
+[The details.](https://web.archive.org/web/20061205183919id_/http%3A//www.metrokc.gov/terms.htm)
