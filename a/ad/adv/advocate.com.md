@@ -1,79 +1,58 @@
-> *The following text is extracted and transformed from the advocate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094151id_/http%3A//advocate.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocate.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204159id_/http%3A//www.planetoutinc.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Advocate.com | Privacy Policy
+# PlanetOut Inc.
 
-Advocate.com, part of LPI Media, is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy.
-
-Third-party partners, Advocate.com advertisers, and other Web sites you may access via Advocate.com have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such Web site to find out how your personal information is protected.
-
-**Collection and Use of User Details**
-
-If you opt-in to receive Advocate.com’s email newsletter, your email address will be collected. You also have the option of receiving periodic emails from our sponsors or advertisers. We do not collect personally identifying information from our visitors, other than what is supplied to us on a voluntary basis such as geographic location (via zip code), gender, age, and income. We do not sell or rent email addresses obtained through Advocate.com to any other organization. We do not sell or rent identifying information about our visitors; such information is used internally or to provide general website visitor information to our advertisers (also see “Managing Your Print Subscription”).
-
-When you visit the site, we also collect website usage information and information about your computer and Internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at Advocate.com via a link from another website, the URL of the linking page.  
+|   
+---  
+| [](https://web.archive.org/legal/) |  | [**Legal**](https://web.archive.org/legal/) |   
+| [](https://web.archive.org/legal/privacy_policy) [ **Privacy Policy**](https://web.archive.org/legal/privacy_policy)  
+| [](https://web.archive.org/legal/user_agreement) [User Agreement](https://web.archive.org/legal/user_agreement)  
+| [](https://web.archive.org/legal/community_guidelines) [Community Guidelines](https://web.archive.org/legal/community_guidelines)  
+| [](https://web.archive.org/legal/legal_notice) [Legal Notice](https://web.archive.org/legal/legal_notice)  
   
-**We use this information to:**
-
-  * Personalize the content and advertising you will see based on your personal characteristics or preferences
-  * Notify you of relevant new products and features on Advocate.com (if you choose to receive such information)
-  * Notify you of promotions from Advocate.com (if you choose to receive such information)
-  * Ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors.
-
-
-
   
-**We also use the information for in-house research to:**
+**PlanetOut Privacy Policy**
 
-  * Improve our understanding of customer needs in developing Advocate.com
-  * Aid strategic development
-  * Manage our relationship with advertisers
+_Effective Date: August 15, 2006_
 
+We at PlanetOut Inc. (including our subsidiaries, "PlanetOut") are committed to protecting the privacy of our users. We have prepared this privacy policy ("Privacy Policy") to inform you how we handle the information that we collect about you or that you choose to submit to us. 
 
+Unless a specific privacy policy resides at a particular property, this Privacy Policy applies to all of PlanetOut's properties, including planetoutinc.com, planetout.com, gay.com, advocate.com, out.com, menmagazine.com, freshmen.com, buygay.com, rsvpvacations.com, and any country-specific (e.g., uk.gay.com) or foreign language (e.g., latino.gay.com) versions thereof (collectively, the "Network"). Because the Network is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries other than the one in which you reside. By using the Network, you explicitly consent to such use of your information. 
 
-  
-The results of all such research and analysis will be presented as anonymous or aggregated information and will not reveal any personal facts about individual customers.
+This Privacy Policy complies with the Safe Harbor Principles of the European Commission's Directive on Data Protection. 
 
-**Managing Your Print Subscription**
+**Your California Privacy Rights**
 
-We collect your name, postal address, and e-mail address to service and deliver your print magazine subscription. Credit card information is collected only when you choose to make an online payment for your subscription order. Our site is secure for credit card transactions.
+Under California Civil Code section 1798.83, a California resident has the right to request and obtain either (1) information about certain companies' disclosures of personal information to third parties for direct marketing purposes, or (2) access to a cost-free means of preventing such disclosures. As more fully described in this Privacy Policy, you may request that PlanetOut Inc. not disclose your personal information to third parties. You may do so either at the time you register, by following the instructions below in the "Modifications and Deactivations" section, or by contacting us by mail at P.O. Box 500, San Francisco, CA 94104-0500. 
 
-The e-mail address you provide for your print subscription will be used only to contact you about your account with us. We will send confirmation e-mails whenever you place an order, change your address, or otherwise manage your subscription account online. We may also e-mail you when it is time to renew your current subscription or with other special offers directly related to your subscription. Your e-mail address will never be rented or sold to any third party.
+**Notice - Information We Automatically Collect**
 
-On occasion, your postal address may be used to market to you carefully screened direct-mail offers about products or services from other organizations that we think may be of interest of you. If you prefer not to receive such offers at your postal address, please click here (http://www.lpimagazines.com/theadvocate/cs.aspx) to e-mail your request to our customer service department.
+We automatically collect certain information to help us understand how our users use the Network (which we will refer to in this Privacy Policy collectively as "Usage Data"). For example, each time you visit the Network we automatically collect your IP address, browser and computer type, access times, the web page from which you came, and the web page(s) you access. In addition, we use technologies called "cookies" and "tracking pixels" that allow us to enhance your experience on the Network (for example, to keep track of your purchases, to allow you to see information you've previously entered (like responses to member polls), to deliver content specific to your interests, and, if you tell us to do so, to save your member name and password so that you do not have to re-enter it each time you visit the Network or access an area of the Network that requires you to log in). We use cookies to deliver advertisements that are most likely to interest you, based on the areas of the Network you visit, and the products, features and services you select on the Network. We also may use cookies or tracking pixels to track information related to your searching and browsing of member profiles, such as which profiles you browse or respond to, search parameters of searches you conduct, the number of results returned by your searches, how you review, rank and respond to search results, and how often your profile is searched or browsed. We may use such information to improve the functionality of the Network and to offer additional services, such as enhanced searching or automated user matching. In addition, third parties who place advertisements on the Network may also collect information through cookies or tracking pixels to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements. Cookies or tracking pixels set by these third parties are governed by the privacy policies set by those third parties. In addition, third-party partners, advertisers, and other web sites you may access via the Network have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each web site to find out how your personal information is protected. 
 
-We also collect information you can submit about other people if you order a gift. In such cases, we will use the recipient's name and address to service and deliver his or her print magazine subscription.
+From time to time we may share Usage Data with third parties. We do so, however, only in the aggregate and not in a manner that will enable the recipient to personally identify you, unless you have given us permission to do so. In addition, we may combine Usage Data with Personal Information (as defined below) in a manner that enables us to trace Usage Data to an individual user. We do so, however, only for our own internal purposes and will not share such combined data with third parties unless you have given us permission to do so or we are required to do so by law. 
 
-It is important to us that we have your correct contact information so that you don't experience problems with the delivery of products.
+**Information You Choose To Submit**
 
-You can manage your print subscription account information at:
+When you register to become a Network member or when you participate in certain Network activities (e.g., contests or surveys), we may ask that you provide us with demographic information (e.g., gender, age, zip code) and with information through which you could be contacted (e.g., your full name, postal or e-mail address, or phone number) (which we will refer to in this privacy policy collectively as "Personal Information"). Except for aggregate demographic information that we may share with third parties in a manner that does not link such information to any individual, we will not share your Personal Information with third parties unless you have given us permission to do so. In addition, when you order products or services through the Network, we may ask that you provide us with information (e.g., credit card number, billing, and shipping information) we will need to enable us to provide you with the requested product or service. We will share such information (e.g., to our billing vendors) with third parties to the extent necessary to fulfill your order or to complete the Network activity. 
 
-[Subscriber Services](http://www.lpimagazines.com/theadvocate/login.aspx)
+**Other Authorized Disclosures**
 
-For all other print subscription concerns, please contact us by calling (800) 827-0561, or by writing to us at:
+Notwithstanding anything in this privacy policy to the contrary, we may share any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims or demands; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve abuse of our Network infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of the Network infrastructure); (4) to a parent company, subsidiaries, joint ventures, or other companies under common control with PlanetOut (in which case we will require such entities to honor this privacy policy); and (5) if PlanetOut is acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this privacy policy). 
 
-The Advocate  
-P.O. Box 410  
-Montvale, NJ 07645
+**Public Areas**
 
-**Cookies**
+Your use of areas of the Network that are intended for interaction with other users (e.g., personal ads, chat rooms, online polls, and message boards) may reveal your member name and e-mail address and may allow you to publish certain personal information about you. By choosing to use these areas, you understand and agree that anyone may access and forward any information about you that is contained in or that you post to those areas. While chat, e-mail, and instant message-like conversations pass through our servers, our practice is not to store contents of such communications. We do, however, temporarily store logs of certain data related to such communications, such as the length and frequency of messaging and the Network member with whom communications are exchanged. We may use such data to improve the functionality of the Network and to offer additional services, such as enhanced searching or automated user matching. 
 
-A cookie is a small file that is placed on the user's hard drive during an Advocate.com visit or when you click on an ad that refers to you to Advocate.com. This file allows the user to move quickly and easily around our site. We also use a cookie to track a user's sessions. We use this information to find out what site features are most popular so that we can develop Advocate.com in the light of our analysis of people’s usage. We also use cookies and the information we collect to show you relevant content and advertising.
+**Data Integrity and Security**
 
-You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete these cookies, any settings such as your stored user name and password will have to be reset when you log in again.
+We take reasonable precautions to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction. We also take reasonable steps to ensure that Personal Information is relevant for the purposes for which it is to be used and that the Usage Data is reliable for its intended use, accurate, complete, and current. 
 
-**Our Commitment to Security**
+**Modifications and Deactivations**
 
-Advocate.com has put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+If you would like to modify any Personal Information you previously submitted through the Network, visit your account information section for each Network property to which you made the submission. If you have agreed to receive communications from us or to permit us to share your Personal Information with third parties, you may request that, in the future, we not send you communications or share your Personal Information by writing to our Customer Member Care center at our corporate address below or by visiting your account information section for each Network property. Please note, however, that we reserve the right to send you administrative messages relating to the Network (e.g., about changes to this privacy policy). If at any time you would like us to deactivate your member profile and remove it from public and member viewing on the Network, please write to us at our corporate address or visit your account information section for each Network property. Please note that (1) we will retain your Personal Information in back-up storage after deactivation, and (2) we are not responsible for removing information about you from the database of any third parties to whom you previously authorized us to share your Personal Information. 
 
-**Changes to this Statement**
+As more fully described in this Privacy Policy, you may request that PlanetOut Inc. not disclose your personal information to third parties. You may do so either at the time you register or by contacting us by mail at PlanetOut Inc., Attention: Customer Member Care, P.O. Box 500, San Francisco, CA 94104-0500. 
 
-Due to changes in legislation and best practice or enhancements to functionality and content on Advocate.com, we may make changes to our privacy policy and will reflect those changes in this statement.
+**Changes to Policy**
 
-**Contact Us**
-
-LPI Media  
-6922 Hollywood Blvd., Suite 1000  
-Los Angeles, CA 90028
-
-323.871.1225  
-[info@lpimedia.net](mailto:info@lpimedia.net)
+Due to changes in legislation, best practices, or enhancements to functionality and content, we may make changes to our privacy policy and will reflect those changes in this statement. We may update this policy from time to time. If we make any significant changes to the way in which we treat Personal Information about you, we will inform you of such changes via e-mail or by posting a notice on relevant areas of the Network. If you have any questions about this privacy policy, please feel free to write to us at the address given above. 
