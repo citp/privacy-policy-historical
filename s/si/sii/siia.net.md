@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020930id_/http%3A//siia.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212743id_/http%3A//www.siia.net/privacy.asp) for the most accurate reproduction.*
 
 # SIIA Privacy Policy & Use Agreement
 
