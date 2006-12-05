@@ -1,60 +1,47 @@
-> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064913id_/http%3A//www.jobsearch.co.uk/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224644id_/http%3A//jobsearch.co.uk/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
-# Job Search - Jobs from the best UK companies
+# UK Jobs from the best companies - JobSearch
 
-JobSearch is strongly committed to protecting your privacy, and this document sets out our policy on the use of personal data. This privacy policy may be updated from time to time. 
+**At JobSearch we are committed to protecting your privacy**  
+JobSearch endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users. 
 
-What information will we collect about you?
+**What this Privacy Policy covers**   
+This Privacy Policy covers treatment of personally identifiable information that we collect when you are on the JobSearch website, register with JobSearch, set up a job alert with JobSearch or apply for a job via the JobSearch site. This policy does not apply to companies that JobSearch does not own or control, or to people that JobSearch does not employ.
 
-  * When you register to use the JobSearch website, we will record - your name, address, telephone number, email address, year of birth, sex, current salary level, education level, current and desired location, ideal job description and all other details comprising your curriculum vitae ("CV") submitted by you.
-  * We also collect broad demographic data and general "traffic" data to enable us to see which are the most popular areas of our site and to provide you with a more tailored service.
+**Information collection and use**   
+JobSearch collects personally identifiable information when you register with JobSearch, when you use certain JobSearch products or services eg apply for a job via the JobSearch site, when you visit JobSearch web pages, and when you enter competitions. JobSearch may also receive personally identifiable information from clients. 
 
-How your information is used 
+JobSearch automatically receives and records information on our web server logs from your browser including your Internet Protocol address. Every computer on the internet has an IP address which is a unique number by which it can be identified. JobSearch records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
 
-  * By marking your CV "private" on the registration form, we may use your personal information for job applications posted on the JobSearch website. Your information will not be accessible to third parties who search our database for candidates and will only be distributed to recruitment agencies with whom you have applied for a job.
-  * If you do not mark your CV as "private", information contained in your CV will be accessible online to third parties through the JobSearch database and your personal information may be provided to third parties for the purpose of finding employment for you.
-  * We may email you with information updates, news or promotional material from JobSearch from time to time, which you have subscribed to or may be of interest to you.
+JobSearch may set and access cookies on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. Each website can send its own cookies to your browser if your browser's preference settings allow it. To protect your privacy, your browser will only permit a website to access the cookies it has already sent to you. You can choose whether or not to accept cookies, however, if you do not accept JobSearch cookies, some of our services may not be available to you. 
 
-Who sees your personal information?
+**General information**   
+JobSearch gathers general information about users, for example, what services users access the most and which areas of the JobSearch site are most frequently visited. Such data is used in the aggregate to help us to understand how the JobSearch site is used. We gather this information so that we can continue to improve and develop our services to benefit of our users. We may make this aggregated information available to users of the JobSearch site, to our clients and also to auditors eg ABCe. These statistics are anonymous and contain no personal information and cannot be used to gather such information.
 
-  * Any third party who registers to use the JobSearch services and accesses your personal information through the JobSearch database (if your CV is not marked "private"), or receives your personal information from JobSearch, in order to place you for employment.
-  * A copy of your CV may be retained by any third party in their own files or databases, and circulated to other people within their organisation. We are not responsible for the use or privacy of the contents of your CV in such instances.
-  * We do not sell or rent out our database of personal information.
+**Your personal information**   
+When you register with JobSearch, set up a job alert, enter a competition, or buy a product or service, we ask for personal information such as your name, date of birth, contact details, and other details. Once you register with JobSearch and accept our Terms & Conditions, you are not anonymous to us. We may use information that you provide to alert you to our own products and services. We may contact you regarding site changes or changes to the JobSearch products or services that you use.
 
-Transfer outside the EEA
+**Disclosure of personal information**   
+We do not disclose information about your individual visits to the JobSearch site, or personal information that you provide, such as your name and personal contact details unless you have given us your permission or we believe that the law requires it. We may record and share aggregated information with our clients. Additionally, if you input your information on a co-branded registration page or job application page, eg a JobSearch client-company registration page then the information that you give becomes the property of both JobSearch and the client. JobSearch is not responsible for the information that the client receives.
 
-  * Personal information comprising your CV may be accessed through the JobSearch database by third parties outside the Economic European Area ("EEA").
-  * If indicated by your preference of location on the registration form, we may forward your personal information to third parties outside the EEA for the purposes of gaining you employment in such countries.
-  * By registering and using the JobSearch website, you consent to this transfer.
+**JobSearch may send personally identifiable information about you to other clients when:**
 
-Cookies
+  * we have your consent to share the information;
+  * we need to share your information to provide the service you have requested;
+  * we need to send the information to companies who work on behalf of JobSearch to provide a product or service to you. (Unless otherwise stated, these companies do not have the right to use the personally identifiable information we provide to them beyond what is necessary to assist us and you);
+  * we respond to subpoenas, court orders or legal process;
 
-  * A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive, used to store and track information about you.
-  * Generally, we use cookies on our website to:
-    * remind us who you are and to access your member information (stored on our computers) in order to deliver a better and more personalised service;
-    * record searches your have made whilst visiting our site;
-    * collect anonymous data for direct marketing and promotional purposes;
-  * JobSearch also collects Internet Protocol ("IP") addresses. Your IP address is the address your web browser or email application automatically gives to the computer whose web page or email you are trying to access over the Internet.
-  * IP addresses may be used for the system administration of our website and to gather broad demographic information, including to:
-    * send you the most appropriate employment information based on geographic area or information derived from your IP address, and
-    * estimate the total amount of users visiting the JobSearch website from various locations.
 
-Other ways of ensuring your privacy
 
-  * You may amend your personal details at any time or if you wish, remove your CV from the JobSearch database. These options are available from the "My Profile" page of our website.
-  * You may unsubscribe to any employment or promotional information you have subscribed to receive from JobSearch at any time, from the "My Profile" page of our website.
+**Other ways of ensuring your privacy** : 
 
-Contacting JobSearch
+  * You may amend your personal details at any time or if you wish. These options are available from the "My Profile" page of our website.
+  * You may unsubscribe from any employment or promotional information that we may send to you by using the unsubscribe function at the bottom of the email.
 
-If you have any questions, concerns or comments regarding JobSearch or this website, please contact us: 
 
-Email: 
 
-**Mailing Address:**
+**Contact JobSearch Ltd.**  
+If you have any questions, concerns or comments regarding JobSearch Ltd or this website, please contact us: JobSearch Ltd, Beaumont House , Kensington Village, Avonmore Road, London, W14 8TS, 
 
-JobSearch   
-Beaumont House  
-Kensington Village  
-Avonmore Road  
-London  
-W14 8TS 
+  
+
