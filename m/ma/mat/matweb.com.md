@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619222113id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002951id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
 
 # MatWeb - Privacy Statement
 
