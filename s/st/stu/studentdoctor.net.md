@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614011727id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205043425id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -187,6 +187,3 @@ If you have any questions or suggestions regarding our privacy policy, please co
 Or use our contact form at: 
 
 > [http://www.studentdoctor.net/corporate/contact_us.asp](https://web.archive.org/corporate/contact_us.asp)
-
-  [](https://web.archive.org/sponsorship/index.asp) |   
----|---
