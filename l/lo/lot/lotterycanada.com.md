@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095714id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214425id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement on Lottery Canada
 
-[](http://feeds.feedburner.com/LotteryCanada "Subscribe to Results Feed") [](http://feeds.feedburner.com/LotteryCanadaNews "Subscribe to News Feed")   
-<[more info](http://www.lotterycanada.com/lottery/?job=site_news#RSS)>  
   
   
-[](http://www.digitalpoint.com/tools/geovisitors/) |  | 
+|  | 
 
 Privacy Statement
 
@@ -35,7 +33,7 @@ Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [info@lotterycanada.com](mailto:info@lotterycanada.com)
+  1. email [privacy@lotterycanada.com](mailto:privacy@lotterycanada.com)
   2. visit [http://www.lotterycanada.com](http://www.lotterycanada.com/)
 
 Contact Information
@@ -44,9 +42,10 @@ If you have any questions about this privacy policy, the practices of this site,
 
 Lottery Canada Email: [privacy@lotterycanada.com](mailto:privacy@lotterycanada.com) |  | 
 
-[ ](http://www.dpbolvw.net/click-589657-10416371)  
+[](http://canadiansponsors.directtrack.com/z/5562/CD159/)  
   
 All lottery results are unofficial. Please check with your local lottery retailer for confirmation.  
 Application & Design by Q9 Media. Copyright © 2000-2006 LotteryCanada.com. All rights reserved.  
 Read our [Privacy Statement](http://www.lotterycanada.com/lottery/?job=privacy_statement) or [Disclaimer](http://www.lotterycanada.com/lottery/?job=disclaimer).   
+International Results available at [www.latestlotterynumbers.com](http://www.latestlotterynumbers.com/)   
 
