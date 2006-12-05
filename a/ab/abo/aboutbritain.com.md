@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072841id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200137id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
 
 # AboutBritain.com - Terms and Copyright
 
@@ -17,8 +17,13 @@ We also use cookies to track the effectiveness of our own online advertising, by
 
 We have contracted with Overture Search Services (Ireland). ("Overture") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorised by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. The data collected for this will be anonymous data only, detailing how many times a specific page on our website has been clicked on. For more information about how the information collected by Overture is used, please see [Overture's Privacy Policy](http://www.content.overture.com/d/UKm/legal/privacypolicy.jhtml). 
 
+We have also contracted Google for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorised by us, Google may compile anonymous statistics on our Web site visitors. This will be anonymous data, showing how often specific pages have been viewed, or links clicked. For more information on Google's privacy policy, please see [Google's Privacy Policy](http://www.google.com/intl/en/privacy.html). 
+
 Our online hotel reservation facilities are provided under an agreement with Superbreak.com. In the case of hotel bookings made on this site, Superbreak.com's privacy policy would also apply. 
 
 AboutBritain.com contains many links to external sites operated by third parties. We have no control over those sites, and are not responsible for the privacy practices or content of third-party sites. 
 
 If you have any questions regarding our privacy policy, please contact [editor@aboutbritain.com](mailto:editor@aboutbritain.com)
+
+ [Copyright](http://www.aboutbritain.com/TermsAndCopyright.htm) © 1999-2006 Excelsior Information Systems Limited. All rights reserved.  
+[Press Room](http://www.aboutbritain.com/PressRoom.asp)  [Terms of Use](http://www.aboutbritain.com/TermsAndCopyright.htm)  [Privacy](http://www.aboutbritain.com/Privacy.htm)  [Link to Us](http://www.aboutbritain.com/LinkToUs.asp)  [Self-Catering Advertising](http://www.aboutbritain.com/advertising/self-catering.htm)  [Index](http://www.aboutbritain.com/index/index-a.asp)  [Site Map](http://www.aboutbritain.com/sitemap.asp)
