@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231604id_/http%3A//www.imperfectparent.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000620id_/http%3A//www.imperfectparent.com/privacy/index.php) for the most accurate reproduction.*
 
 # The Imperfect Parent || Privacy Policy
 
-|  | 
+| 
+
+| [HOME](http://www.imperfectparent.com/index.php)  
+---  
+PARENTING  
+POLITICS/SOCIETY  
+HUMOR  
+LIFESTYLE   
+RESOURCES  
+[COMMUNITY](http://www.imperfectparent.com/community/index.php)  
+[BLOG](http://blog.imperfectparent.com/)  
+[PODCAST](http://podcast.imperfectparent.com/)  
+[DECLARATION](http://www.imperfectparent.com/declaration/index.php)  
+[STORE](http://www.imperfectparent.com/store/index.php)  
+  
+If you don't get our newsletter, you are more than imperfect, you're a horrible person. Enter your email address below to sign up. 
 
 ## Privacy Policy
 
@@ -27,6 +42,8 @@ _Last updated 04/18/06_
 
 | 
 
-* * *  
-  
----|---|---
+Our supporters:
+
+* * *
+
+* * *
