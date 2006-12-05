@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613054409id_/http%3A//www.diabetes.org/privacy.jsp%3FWTLPromo%3DFOOTER_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210834id_/http%3A//www.diabetes.org/privacy.jsp%3FWTLPromo%3DFOOTER_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Diabetes Association
 
