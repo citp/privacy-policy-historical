@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yehey.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615114207id_/http%3A//yehey.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yehey.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205223238id_/http%3A//yehey.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -36,9 +36,13 @@ function headersearch_click()
 	var txtbox = document.getElementById( "q" );	
     var txtbox_value = trim(txtbox.value)
 	if( txtbox_value.length > 2 )
-	  document.headersearch_form.submit();
-	else
-	  return false;
+	if( txtbox_value.length > 2 )
+	{
+		window.location = 'http://www.yehey.com/search/search.aspx?q=' + txtbox_value;
+	}
+//	  document.headersearch_form.submit();
+//	else
+//	  return false;
 }
 -->
 </script>
@@ -47,7 +51,7 @@ function headersearch_click()
 	<div id="yehey" align="left"><a href="/"><img src="/images/yeheylogo.gif" width="137" height="72" border="0"></a></div>	
 	<div id="searchbox">
 		<table width="349" border="0" cellspacing="0" cellpadding="0">
-			<form name="headersearch_form" method="post" action="/search/search.aspx"></form>
+			<!--  method="post" action="/search/search.aspx" -->
   			<tbody><tr>
     			<td width="36"><img src="/images/img1.gif" width="36" height="30"></td>
     			<td background="/images/bg10.gif" class="byline">Hanapin sa web 
@@ -62,8 +66,8 @@ function headersearch_click()
     			<span id="Header_lbSpacer"></span><a id="Header_lbSignIn" class="Nav_Yehey" href="https://secure.yehey.com/signin/SignIn.aspx?ru=http%3a%2f%2fwww.yehey.com%2fprivacypolicy%2fdefault.aspx">Sign In</a> <a id="Header_lbSignInLine" class="Nav_Yehey">|</a> <a id="Header_lbSignInRegister" class="Nav_Yehey" href="https://secure.yehey.com/signin/Register.aspx?ru=http%3a%2f%2fwww.yehey.com%2fprivacypolicy%2fdefault.aspx">Register</a>
     			</td>
   			</tr>
-			<input type="hidden" id="type" name="type" value="web">
-			
+			<!-- type="hidden" id="type" name="type" value="web" / -->
+			<!-- /form -->
 		</tbody></table>
 	</div>	
 </div>
