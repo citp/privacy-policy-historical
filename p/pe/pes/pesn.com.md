@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesn.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413195738id_/http%3A//pureenergysystems.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesn.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001826id_/http%3A//pureenergysystems.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Pure Energy Systems
 
@@ -35,13 +35,12 @@ The Pure Energy Systems website contains advertisements from third parties. We a
 ###
 
 [**Contact  
-**](https://web.archive.org/web/20060413195738id_/http%3A//pureenergysystems.com/contact/index.html)**email:** <[legal {at} pureenergysystems.com](mailto:legal@pureenergysystems.com?subject=PES%20Privacy%20Statement) >[  
-](https://web.archive.org/web/20060413195738id_/http%3A//pureenergysystems.com/contact/index.html)**Pure Energy Systems**  
-666 S. 60 E.  
-Ephraim, UT 84627  
-**Ph:** 435-283-6340  
+**](https://web.archive.org/web/20061206001826id_/http%3A//pureenergysystems.com/contact/index.html)**email:** <[legal {at} pureenergysystems.com](mailto:legal@pureenergysystems.com?subject=PES%20Privacy%20Statement) >[  
+](https://web.archive.org/web/20061206001826id_/http%3A//pureenergysystems.com/contact/index.html)**Pure Energy Systems**  
+4157 N. West Pinion Cir., Eagle Mountain UT 84043, USA  
+**Ph:** 801-407-1292  
 **Fax:** 801-880-8322
 
-Posted by [SDA](https://web.archive.org/web/20060413195738id_/http%3A//pureenergysystems.com/about/personnel/SterlingDAllan/index.html) June 8, 2004  
-Last updated July 13, 2004  
+Posted by [SDA](https://web.archive.org/web/20061206001826id_/http%3A//pureenergysystems.com/about/personnel/SterlingDAllan/index.html) June 8, 2004  
+Last updated May 12, 2006  
 [](http://member.bcentral.com/cgi-bin/fc/fastcounter-login?3365039)
