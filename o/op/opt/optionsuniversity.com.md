@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425221901id_/http%3A//www.options-university.com/Legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225929id_/http%3A//www.options-university.com/Legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # DISCLAIMER AND TERMS OF USE AGREEMENT
 
@@ -59,7 +59,7 @@ We can be reached by contacting:
 
 OptionsUniversity.com
 
-Email: privacy@OptionsUniversity.com
+Email: support@OptionsUniversity.com
 
 Changes to this Policy
 
