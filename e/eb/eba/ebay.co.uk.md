@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210016id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html%3FssPageName%3Df%3Af%3AUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214038id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html%3FssPageName%3Df%3Af%3AUK) for the most accurate reproduction.*
 
 # eBay UK: Help : Topics : Policies and Guidelines : Privacy Policies
 
