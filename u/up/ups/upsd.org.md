@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upsd.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224029id_/http%3A//www.schoolwires.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsd.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190052id_/http%3A//www.schoolwires.com/policies) for the most accurate reproduction.*
 
-# Schoolwires Academic Portal - Content Management Based School Web Sites! | Legal
+# Schoolwires Academic Portal - Content Management | Legal
 
 | 
 
@@ -184,7 +184,7 @@ Site and Subsite Directors have access and the ability to update personal inform
   
 **  
 Schoolwires Privacy Policy Statement Changes**  
-If we change our privacy policy, we will post the revised policy to [www.schoolwires.com/policies](https://web.archive.org/web/20060629104344id_/http://www.schoolwires.com/5420_100524234157/blank/www.schoolwires.com/policies) and other places we deem reasonable and appropriate to keep you informed. When material changes affecting users under 13 years of age are made to this privacy policy, **Schoolwires** will post a change notification announcement on all of our clients’ **Schoolwires** sites. This announcement will include a link to the current privacy policy. The same notification procedure will be followed for users over the age of 13. If Schoolwires materially changes how it uses personal information about children under age 13, Schoolwires will have the school obtain verifiable parental consent for the new use of children’s personal information. 
+If we change our privacy policy, we will post the revised policy to [www.schoolwires.com/policies](https://web.archive.org/web/20061205190052id_/http://www.schoolwires.com/5420_100524234157/blank/www.schoolwires.com/policies) and other places we deem reasonable and appropriate to keep you informed. When material changes affecting users under 13 years of age are made to this privacy policy, **Schoolwires** will post a change notification announcement on all of our clients’ **Schoolwires** sites. This announcement will include a link to the current privacy policy. The same notification procedure will be followed for users over the age of 13. If Schoolwires materially changes how it uses personal information about children under age 13, Schoolwires will have the school obtain verifiable parental consent for the new use of children’s personal information. 
 
 **Usage Implies Consent**  
 By using sites powered by **Schoolwires, Inc.** , you consent to this Privacy Statement. If you do not agree to this Privacy Statement, please do not use **Schoolwires** services.
