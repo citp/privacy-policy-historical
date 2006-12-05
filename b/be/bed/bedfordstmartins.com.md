@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedfordstmartins.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616213417id_/http%3A//www.bfwpub.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedfordstmartins.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232442id_/http%3A//www.bfwpub.com/privacy/default.htm) for the most accurate reproduction.*
 
 # Effective Date: November 23, 2005
 
