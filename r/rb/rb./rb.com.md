@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204505id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233933id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,10 @@ Cambridge, MA 02138 
 617-876-9235 Fax
 
 | 
+
+**[BentleyPublishers.com](https://web.archive.org/web/20061205233933id_/http%3A/) > [FAQ](https://web.archive.org/faq/) > [Bentley Publishers](https://web.archive.org/faq/bentley/) > Privacy Policy**
+
+### Frequently asked questions:
 
 BentleyPublishers.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting BentleyPublishers.com and/or using the eBahn® Reader, you are accepting the practices described in this Privacy Notice.
 
