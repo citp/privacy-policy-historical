@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616130842id_/http%3A//www.healthinsurance.org/privacypolicy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205081922id_/http%3A//www.healthinsurance.org/privacypolicy.lasso) for the most accurate reproduction.*
 
 # Privacy Policy for the Health Insurance Resource Center
 
-This Privacy Policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org via e-mail [through this form](https://web.archive.org/web/20060616130842id_/http%3A//www.healthinsurance.org/contact.lasso) or via postal mail at healthinsurance.org, 19350 Ireland Court, Lakeville, MN 55044.
+This Privacy Policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org via e-mail [through this form](https://web.archive.org/web/20061205081922id_/http%3A//www.healthinsurance.org/writeus.lasso) or via postal mail at healthinsurance.org, 19350 Ireland Court, Lakeville, MN 55044.
 
 **No disclosure of your personal information**
 
@@ -24,7 +24,7 @@ Please refer to **ehealthinsurance's[privacy policy](https://www.ehealthinsuranc
 
 On April 21, 2006, we began a test program with dentalplans.com to offer a quoting service for dental discount programs, and when you request a dental plan quote you are taken to its Web site. These are not insurance -- they are prenegotiated discount programs that dentists can elect to participate in. They are much lower cost than insurance programs but are not insurance -- we urge you to read about these programs at dentalplans.com.
 
-We chose this vendor for the same reasons we chose our health quote vendor -- to give you access to the widest variety of products with complete pricing and benefit information without having to first reveal any personal information such as a name or e-mail address. **[Please send us any feedback](https://web.archive.org/web/20060616130842id_/http%3A//www.healthinsurance.org/contact.lasso)you have on this service, and whether you think it is of value for our site to continue. **Read dentalplan.com's privacy policy here [using the link on the front of its homepage.](http://www.dentalplans.com/afftracker.asp?affid=17233)
+We chose this vendor for the same reasons we chose our health quote vendor -- to give you access to the widest variety of products with complete pricing and benefit information without having to first reveal any personal information such as a name or e-mail address. **[Please send us any feedback](https://web.archive.org/web/20061205081922id_/http%3A//www.healthinsurance.org/writeus.lasso)you have on this service, and whether you think it is of value for our site to continue. **Read dentalplan.com's privacy policy here [using the link on the front of its homepage.](http://www.dentalplans.com/afftracker.asp?affid=17233)
 
 **Your privacy and book orders**
 
