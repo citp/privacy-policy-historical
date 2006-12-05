@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175847id_/http%3A//www.eetasia.com/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211401id_/http%3A//www.eetasia.com/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
 
 # In-depth analysis of industry issues and technology trends
 
