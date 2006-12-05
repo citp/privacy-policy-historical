@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501234815id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203756id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,25 +83,25 @@ We provide registered Stylus Studio® users the opportunity to opt-out of receiv
 
 If you would like to correct and/or update your information, please [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio").
 
-[Prev: **"XML Industry News"**](https://web.archive.org/xml_industry_news.html "XML Industry News") [Next: **"Stylus Studio 2006 EULA"**](https://web.archive.org/eula.html "Stylus Studio 2006 End User Product License Agreement")
+[Prev: **"XML Industry News"**](https://web.archive.org/xml_industry_news.html "XML Industry News") [Next: **"Stylus Studio 2007 EULA"**](https://web.archive.org/eula.html "Stylus Studio 2007 End User Product License Agreement")
 
-### [Working with Tables in XSLT](https://web.archive.org/videos/tutorial2/tutorial2.html "Working with Tables in XSLT Video")
+### [Using DataDirect XQuery with Stylus Studio](http://www.stylusstudio.com/videos/ddxqdemo/datadirectxquery.html)
 
-A video tutorial about working with tables in XSLT.
+Learn how to query any relational database using XQuery and the XQuery API for Java using DataDirect XQuery, an embeddable Java component, and Stylus Studio the world's leading XML IDE.
 
-### [Food & Beverage Services](https://web.archive.org/customers/FoodServices.html "Food & Beverage Services")
+### [Whitepaper: FIXML - Working with Complex Message Sets Defined Using XML Schema](http://www.stylusstudio.com/fixml.html)
 
-"I'll have a burger and a side of Stylus Studio", says these top food & beverage services that use Stylus Studio in everyday operations. Come see which food & beverage services eat up the idea of having the most powerful XML IDE at their finger tips!
+The advanced XML Schema handling and presentation capabilities of Stylus Studio have valuable implications for users of industry-specific XML message sets. 
 
-### [W3C XML Specifications](https://web.archive.org/w3c/ "W3C XML Specifications")
+### [XML Publisher](http://www.stylusstudio.com/xml/publisher.html)
 
-Learn about the official W3C XML specifications for XML, XSLT, XQuery, XPath, DOM, XML Namespaces, XInclude, XML Base, XPointer, WSDL and more.
+The XML Publisher lets you easily design beautiful documents in HTML or PDF format from relational, XML and other data sources using XSL:FO or XSLT, using an intuitive visual interface.
 
-### [Getting EDI to XML and back to EDI Again: Round Trip Engineering using Stylus Studio URL Adapters](https://web.archive.org/videos/convert-to-xml3/convert-to-xml3.html "Getting EDI to XML and back to EDI Again: Round Trip Engineering using Stylus Studio URL Adapters")
+### [Database-to-XML Mapping](http://www.stylusstudio.com/db_to_xml_mapper.html)
 
-A free online video demonstration shows how to use Stylus Studio's Adapter URL technologies to convert EDI to XML and back again. Convert, validate, view and edit EDIFACT data directly in Stylus Studio. 
+Stylus Studio features several database-to-XML mapping tools that allow you to easily query a relational database using SQL/XML or SQL and render the results as XML. Stylus Studio also supports the world's first and only visual SQL/XML Editor!
 
-#### Stylus Most Wanted 
+#### [Stylus Most Wanted](https://web.archive.org/advertise.html "Advertise with Stylus Studio")
 
 |   
 ---|---|---
