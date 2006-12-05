@@ -1,10 +1,24 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004601id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215635id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
 
 # Free downloads of the best computer software freeware and shareware
 
 Hot Spots
 
-Highlights
+Top Searches
+
+Advanced Server   
+Data Center   
+DeskJet   
+Microsoft Access   
+HP Photosmart   
+Business Inkjet   
+Color Laser Printer   
+ink jet   
+Digital Camera   
+Microsoft Office XP   
+USB cable   
+HP Photosmart   
+Virtualization 
 
 ADVERTISEMENT
 
