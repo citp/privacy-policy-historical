@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205954id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194753id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
 
 # University at Buffalo - Privacy Policy
 
@@ -108,7 +108,7 @@ The information provided in this privacy policy should not be construed as givin
 
 For questions regarding this Internet privacy policy, please contact: 
 
-|  (via e-mail)| [privacy@buffalo.edu](mailto:privacy@buffalo.edu)  
+|  (via e-mail)|  [privacy@buffalo.edu](mailto:privacy@buffalo.edu)  
 ---|---  
 (via regular mail)|  Privacy Compliance Office  
 c/o The Office of the CIO  
