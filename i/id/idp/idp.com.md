@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217115126id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003555id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement - IDP Education Australia
+# Privacy Statement - IDP Education Pty Ltd
 
   * Privacy Policy
   * Protecting Personal Information
@@ -34,7 +34,7 @@ Sensitive information includes details of an individual's racial or ethnic origi
 
 ## Web site traffic tracking
 
-Idp uses an independent company, Red Sheriff ([www.redsheriff.com](http://www.redsheriff.com/) ) to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but idp global gains insights on how make the site more useful for advertisers as well as our users. Red Sheriff is a leader in the internet industry in interactive measurement technologies and market research. Its tracking collects broadly aggregated statistics on: 
+Idp uses web analytics software to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but idp global gains insights on how make the site more useful for advertisers as well as our users. Idp collects broadly aggregated statistics on: 
 
   * The number of page views (or page impressions) that occur on an idp site; 
   * The number of unique visitors; 
@@ -42,29 +42,6 @@ Idp uses an independent company, Red Sheriff ([www.redsheriff.com](http://www.re
   * Common entry and exit points to idp sites. 
 
 
-
-The grouped Red Sheriff statistics are made available to educational and other potential advertisers for the purpose of conducting comparisons with other competitive sites. 
-
-Pages on idp sites may be coded with the Red Measure software. This uses either Javascript or a Java Applet*, on the source of the web page. This software stores a "cookie" in the browser, that contains a unique identifier. This enables Red Sheriff to track the number of unique visitors to idp sites. This information is collected and aggregated by Red Sheriff, and in no way does this unique identifier identify a user personally. idp does not and will not marry any data collected by Red Sheriff with any personal information collected by idp. 
-
-If necessary, users can view the content on the web site and disable aspects of its tracking. Red Sheriff’s software code cannot be disabled entirely as the code takes into account all web-browser configurations, including the disabling of Java and Javascript. But, if cookies are disabled in your browser, then Red Sheriff cannot track you as a unique visitor, and will consider you as a new visitor each time you browse a new page on the Network. 
-
-### Disabling Cookies in Netscape and Internet Explorer (IE)
-
-If you use Netscape browser, go to the Edit -> Preferences -> Advanced menu. Change your cookie configuration.
-
-Disabling Microsoft’s Internet Explorer depends on which version you use. To check for your version, click Help -> About Internet Explorer 
-
-In the latest version IE 6.0, go to the Tools -> Internet Options -> Privacy menu. You then select how the browser accepts cookies, based on the source of the cookie, and whether the source has a "privacy policy." There are also features for the advanced user for greater control over cookies. 
-
-In IE 5.0, go Tools -> Internet Options -> Security. Choose the security level for four different browsing conditions: Internet Sites, Local Sites, "Trusted" Sites, and Restricted Sites. If you select "Internet," and click on Custom Level, a dialog box enables you to either accept all, warn before accepting, or reject all cookies. 
-
-With IE 4.0, go View -> Internet Options ->Advanced menu. Again, as with IE5, you can accept all, warn before accepting, or reject all. 
-
-To learn more about Red Sheriff's privacy policy, [click here](http://www.redsheriff.com/uk/6.0.0.htm).   
-
-
-*The use of Javascript and/or Java Applet depends on which browser you use. Typically Internet Explorer users with Version 4 or above will use the Javascript method. Netscape users, or users whose browser does not support Javascript 1.1, will use a Java Applet method.
 
 ## Use and Disclosure of Personal Information 
 
@@ -100,18 +77,18 @@ The company can refuse to provide access to personal information where the Priva
 
 IDP's Privacy Representative is the Company Secretary. Any questions, concerns or complaints about the company's Privacy Policy or its practices related to privacy of personal information should be address to the Representative, as follows:
 
-> The Company Secretary  
-> IDP Education Australia Limited  
+> Corporate Governance  
+> IDP Education Pty Ltd  
 > Level 4, 210 Clarence Street   
 > Sydney NSW 2000   
 > AUSTRALIA
 > 
-> Telephone: +61 2 8251 2740  
+> Telephone: +61 2 8251 2708  
 > Facsimile +61 2 8251 2785
 
 ## Personal Information Management Policy Statement 
 
-IDP Education Australia Limited (IDP) is bound by the National Privacy Principles (NPP's), as set out in the [Privacy Act 1988](http://www.privacy.gov.au/act/index.html) (as amended).
+IDP Education Pty Ltd (IDP) is bound by the National Privacy Principles (NPP's), as set out in the [Privacy Act 1988](http://www.privacy.gov.au/act/index.html) (as amended).
 
 In general, IDP holds the following types of personal information:
 
@@ -144,8 +121,8 @@ IDP is a contractor to the Commonwealth and State governments, and contracts out
 
 Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
 
-> The Company Secretary  
-> IDP Education Australia Limited  
+> Corporate Governance  
+> IDP Education Pty Ltd  
 > Level 4, 210 Clarence Street   
 > Sydney NSW 2000   
 > AUSTRALIA
@@ -162,12 +139,12 @@ Where the individual's identity cannot be verified to the satisfaction of the Co
 
 For more information contact:
 
-> Joanna Burke  
-> Company Secretary   
-> IDP Education Australia Limited   
-> Phone - +61 2 8251 2740  
+> Jenny Tallis  
+> Corporate Governance  
+> IDP Education Pty Ltd  
+> Phone - +61 2 8251 2708  
 > Fax -    +61 2 8251 2785   
-> Email - [joanna.burke@idp.com](mailto:joanna.burke@idp.com)
+> Email - [jenny.tallis@idp.com](mailto:jenny.tallis@idp.com)
 
 Back to top  
 
