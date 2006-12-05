@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203929id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205044256id_/http%3A//www.colapublib.org/disclaim.html) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer
 
@@ -12,13 +12,9 @@ The Board of Supervisors of Los Angeles County recognizes the public's concern a
 
 The following describes how information may be collected depending on your activities at this Website:
 
-****
-
 **If you read or download information** :
 
 We may collect and store information for statistical purposes. For example, we may count the number of visitors to the different sections of our site to help us make them more useful. The information collected may include such items as the name and domain of the host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using or your browser software and operating system. This information does not identify you personally.
-
-****
 
 **If you send E-mail to this Website:**
 
@@ -58,18 +54,10 @@ If you want to get information about you that may be in our records, the Califor
 
 **
 
-No use of "cookies":
-
-**
-
-We do not use "cookies" on this site. A "cookie" is a small text file that a Website can place on your computer's hard drive to collect information about your activities on the site. The "cookie" transmits this information back to the Website's computer, which, generally speaking, is the only computer that can read it. Most users do not know that "cookies" are being placed on their computers. If you want to know when this happens or to prevent it from happening, you can set your browser to warn you when a Website attempts to place a "cookie" on your computer.
-
-**
-
 Disclaimer of Liability:
 
 **
 
 With respect to information available from this web page, neither the County of Los Angeles Public Library nor any of its employees make any warranty, express or implied, including the warranty of merchantability and fitness for a particular purpose, or assume any liability or responsibility for the accuracy, completeness, or usefulness of such information.
 
-Revised 06/02 
+Revised11/06 
