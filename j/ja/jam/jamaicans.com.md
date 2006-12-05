@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315004845id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235155id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Jamaicans.com Privacy Policy and Disclaimer (Jamaica)
+
+  
+
 
 **Jamaicans.com Privacy Policy **Jamaicans.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.****
 
@@ -19,7 +22,7 @@ Personal information will not be released to third parties except to further the
 
 Jamaicans.com works with a third party that serves ads to this site.
 
-If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20060315004845id_/http%3A//www.jamaicans.com/about/contact.shtml).
+If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20061205235155id_/http%3A//www.jamaicans.com/about/contact.shtml).
 
 **Jamaicans.com Disclaimer**
 
@@ -49,4 +52,5 @@ We at this BB also reserve the right to reveal your identity (or whatever inform
 
 Please note that advertisements, chain letters, pyramid schemes, and solicitations are inappropriate on this BB.
 
-| [Our Team](http://www.jamaicans.com/about/team/index.shtml) | [Announcements & Events](http://www.jamaicans.com/about/eventsannounce/index.shtml) | [Submit Articles and Volunteer](http://www.jamaicans.com/about/submitarticle/index.shtml) | 
+  
+
