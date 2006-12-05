@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324174334id_/http%3A//www.savings.com/corporate/privacy.pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232328id_/http%3A//www.savings.com/corporate/articles/privacy.pc) for the most accurate reproduction.*
 
-# Privacy Policy - Savings.com
+# Privacy Policy - www.savings.com
 
 **Privacy Statement**
 
@@ -68,10 +68,7 @@ Savings.com does not sell trade or rent your personal information to other peopl
  **Cookies and IP Addresses  
 **
 
-To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used Savings.com. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner's web sites, limited to the activity involved with the completion of offers listed on our web site This information is used to monitor the performance of our partners. We also use a third-party tracking service, Revenue Science, that uses cookies to track non-personally identifiable information about our visitors.This aggregrate visitor usage information collected on Savings.com and used by the Revenue Science network for the purposes of delivering relevant advertising to our audience.  
-
-
-We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.   
+To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used Savings.com. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner's web sites, limited to the activity involved with the completion of offers listed on our web site This information is used to monitor the performance of our partners. We also allow select third-parties to set cookies on our website.  For example, we use a tracking service, Revenue Science, that uses cookies to track non-personally identifiable information about our visitors. This aggregrate visitor usage information collected on Savings.com and used by the Revenue Science network for the purposes of delivering relevant advertising to our audience. Other examples include session cookies when accessing the Blog section of the website. These cookies simply track the session and are not tied to your personal information.We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.   
 
 
 **Clear Gifs  
