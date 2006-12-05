@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaiboss.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005212id_/http%3A//hentaiboss.com/external.php%3Fpage%3Dprivacy%26ref%3D%26nats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaiboss.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224936id_/http%3A//www.hentaiboss.com/external.php%3Fpage%3Dprivacy%26ref%3D%26nats%3D) for the most accurate reproduction.*
 
 # Hentaiboss
 
@@ -30,6 +30,4 @@
 > 
 > How To Contact Us: 
 > 
-> Should you have other questions or concerns about these privacy policies, please send us an email at webmaster@kamikazeemedia.com  
-  
-© Hentaiboss.com \- All rights reserved.
+> Should you have other questions or concerns about these privacy policies, please send us an email at webmaster@kamikazeemedia.com
