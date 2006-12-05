@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613004532id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220330id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
 
-# calendarlive.com: Calendarlive.com Privacy Policy
+# Calendarlive.com Privacy Policy - Los Angeles Times - calendarlive.com
 
 |  |    
   
