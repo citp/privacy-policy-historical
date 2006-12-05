@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621155535id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190046id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
+
+  *  Now Largest Online Immigration Collection 
+  *  100 major port cites of entry dating from 1820 - 1960
+  *  Images of Passenger Ships
+
+
 
   
 
