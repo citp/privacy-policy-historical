@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230084120id_/http%3A//www.tycoelectronics.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203743id_/http%3A//www.tycoelectronics.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# Welcome to Tyco Electronics - Privacy Statement
+# Privacy Policy - Tyco Electronics
 
-**Tyco Electronics Corporation**  
-
-
-**Privacy Policy**  
 Tyco Electronics is committed to protecting any personal information that you may provide to us. Further, Tyco Electronics recognizes the importance of informing you how we treat information about you that we may receive from this Site. 
 
 **Information Collected**  
@@ -26,7 +22,7 @@ Tyco Electronics maintains strict physical, electronic, and administrative safeg
 You may review and update the information that you provide to Tyco Electronics through this Site by contacting us as described below. 
 
 **Contacting Us**  
-If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics [welcomes your questions and suggestions](https://web.archive.org/web/20051230084120id_/http%3A//www.tycoelectronics.com/cust.stm) about this privacy policy. 
+If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics [welcomes your questions and suggestions](http://tycoelectronics.custhelp.com/cgi-bin/tycoelectronics.cfg/php/enduser/ask.php) about this privacy policy. 
 
 **Changes to this Policy**  
 Please check this privacy policy periodically to inform yourself of any changes. Although Tyco Electronics reserves the right to modify or supplement this privacy policy, Tyco Electronics will provide notice to you on this Site of any major changes for at least 30 days following the change. 
