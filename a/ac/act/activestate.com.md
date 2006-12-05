@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023604id_/http%3A//www.activestate.com/privacy.plex%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213254id_/http%3A//activestate.com/privacy.plex%3Fft%3D1) for the most accurate reproduction.*
 
 # ActiveState - Privacy Policy - Dynamic Tools for Dynamic Languages
 
 [](https://web.archive.org/privacy.plex)
 
-ActiveState is committed to respecting your right to privacy while using our site. This Privacy Policy contains information regarding our privacy practices for the entire ActiveState site (including www.ActiveState.com and ASPN.ActiveState.com). 
+ActiveState is committed to respecting your right to privacy while using our site. This Privacy Policy contains information regarding our privacy practices for the entire ActiveState site (including www.activestate.com and aspn.activestate.com). 
 
 ## Information Collection and Use
 
@@ -16,15 +16,15 @@ Throughout our site, you are provided with the opportunity to contact us via ema
 
 ## Cookies
 
-A cookie is a piece of data stored on the user's hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information while on our site. For example, by setting a cookie on our site a user would not have to enter a password more than once. If a user rejects the cookie, they may still use our site, though some areas may be functionally limited. For example, a user will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. 
+A cookie is a piece of data stored on a user's hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information. For example, by setting a cookie on our site, you would not have to enter your password more than once. If you reject the cookie, you may still use our site, though some areas may be functionally limited. For example, you will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. 
 
 ## Log Files
 
-Our website servers generate standard traffic log files. We use these files to prepare aggregate traffic statistics for our site. There is no personally-identifiable information in these log files. We use IP addresses and cookie values to analyze trends, administer the site, track users' movements, and gather broad demographic information to improve the performance of our site. 
+Our website servers generate standard traffic log files. We use these files to prepare aggregate traffic statistics for our site. There is no personally identifiable information in these log files. We use IP addresses and cookie values to analyze trends, administer the site, track users' movements, and gather broad demographic information to improve the performance of our site. 
 
 ## Requested Services and Product Evaluations
 
-We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. Two expiration reminder notices will be sent by email for all Pro Studio bundle subscriptions. Two expiration reminder notices will be sent by email to users who have obtained an evaluation license for any of our products. 
+We communicate with our users to provide requested services, and in regard to issues relating to their account via email or phone. Three expiration reminder notices are sent by email for all Pro Studio bundle subscriptions. Two expiration reminder notices are sent by email to users who have obtained at trial license for any of our products. 
 
 ## Language Downloads
 
@@ -36,7 +36,7 @@ When a user enrolls for free membership in ASPN Open, they will be asked to prov
 
 ## Ordering
 
-We request user information on our order form. A user may be asked to provide contact information (e.g. name and shipping address) and financial information (e.g. credit card number, expiration date). This information is used for billing purposes and to fulfill orders. If we have difficulty processing an order, the contact information is used to contact the customer. 
+We request user information during the account setup and purchase processes. Users may be asked to provide contact information (e.g. name and shipping address) and financial information (e.g. credit card number, expiration date). This information is used for billing and order fulfillment. If we have difficulty processing an order, the contact information may be used to contact the customer. 
 
 ## Surveys & Contests
 
@@ -50,7 +50,7 @@ ASPN includes archives of mailing lists hosted by other sites. ActiveState does 
 
 ## Security
 
-Our Web site takes every precaution to protect our users' information. When a user submits sensitive information, the information is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open. 
+Our Web site takes every precaution to protect our users' information. When a user submits sensitive information, it is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of Web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open. 
 
 ## Suppliers
 
@@ -84,6 +84,6 @@ If we change our privacy policy, we will post notification of those changes on o
 
 ## Questions
 
-If you have questions, or if you feel we are in violation of this privacy policy, please email [website-feedback@ActiveState.com](mailto:website-feedback@ActiveState.com). 
+If you have questions, or if you feel we are in violation of this privacy policy, please [contact us](mailto:website-feedback@ActiveState.com). 
 
 ActiveState 
