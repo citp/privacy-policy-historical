@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoftheworld.co.uk privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429002732id_/http%3A//www.newsoftheworld.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoftheworld.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225530id_/http%3A//www.newsoftheworld.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # News Of the World - Online Edition
 
