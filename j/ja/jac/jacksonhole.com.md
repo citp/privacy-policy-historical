@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the jacksonhole.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014339id_/http%3A//jacksonhole.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonhole.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001331id_/http%3A//jacksonhole.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Jackson Hole | Privacy Policy
 
-  
-
+Privacy Policy
 
 We at Jackson Hole Mountain Resort respect the privacy of the visitors to our web site. Any information that you provide us through our web site is the sole property of Jackson Hole Mountain Resort, and will not be shared with anyone outside of Jackson Hole Mountain Resort .
 
