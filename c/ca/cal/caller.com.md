@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613043505id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205035739id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
 
 # Caller.com
 
@@ -16,6 +16,13 @@ Our site(s) may contain links to other web sites, including web sites directed t
 I. Information Which We Collect 
 
 We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information. 
+
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons in the following way: 
+
+• For auditing purposes and to collect information from the websites of certain partners.   
+• Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. 
+
+Our practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out by contacting us at the e-mail address, postal address or telephone number stated below. 
 
 Like many other commercial sites, our site(s) may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web site(s) may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent. 
 
@@ -53,4 +60,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 VII. Use of Materials 
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at ctinter@scripps.com.
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at support@caller.com.
