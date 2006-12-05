@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030655id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222622id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # mtvU.com
 
-[](https://web.archive.org/games/)
+[](http://bestmusiconcampus.com/)
 
   
   |  | 
@@ -11,8 +11,6 @@ Privacy Policy
 
 
 Updated June 9, 2005 
-
-If you’ve been receiving mtvU.com newsletters and wish to unsubscribe, [**click here**](https://web.archive.org/uconnect/newsletter/unsubscribe.jhtml). 
 
 We are committed to protecting our users' privacy. Keeping the information you share with us on the Site secure and ensuring your understanding of how we collect, use and maintain your information is important to us at mtvU. We maintain physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. We continually assess new technology for protecting information and, when appropriate, we upgrade our information security systems. 
 
