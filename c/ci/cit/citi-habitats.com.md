@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629011313id_/http%3A//citi-habitats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201357id_/http%3A//citi-habitats.com/privacy.html) for the most accurate reproduction.*
 
-# Citi-Habitats New York City Apartments - NYC Apartments - Manhattan Lofts, Real Estate Rental
+# Citi-Habitats Privacy Policy is designed to keep your information confidential
 
 **Citi Habitats**  
 **PRIVACY POLICY**
@@ -66,6 +66,6 @@ By using Our Web Site, You signify Your agreement to Citi-Habitats’ Privacy Po
 © 1994-2006 Citi Habitats. All Rights Reserved.   
 Headquarters: Phone 212.685.7777 - Fax 212.674.8501  
 [Other Offices](https://web.archive.org/offices.php) | [Site Map](https://web.archive.org/sitemap.html)  
-[Fair Housing Pledge](https://web.archive.org/fairhousing.html) | [Privacy Policy](https://web.archive.org/privacy.html) | [Terms and Conditions of Use](https://web.archive.org/termsofuse.html)
+[Fair Housing Pledge](https://web.archive.org/media/doc/NRTFairHousingPledge.doc) | [Privacy Policy](https://web.archive.org/privacy.html) | [Terms and Conditions of Use](https://web.archive.org/termsofuse.html)
 
 Owned and operated by NRT, Inc. 
