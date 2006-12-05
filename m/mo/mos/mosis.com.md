@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosis.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618070824id_/http%3A//www.mosis.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosis.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233353id_/http%3A//www.mosis.com/about/privacy.html) for the most accurate reproduction.*
 
 # MOSIS Web Site Privacy Statement
 
@@ -24,4 +24,4 @@ MOSIS provides links to other web sites that we think may be useful to VLSI desi
 
 Comments and Questions 
 
-Please direct any comments or questions regarding the MOSIS Web Site Privacy Policy to [support@mosis.org](mailto:support@mosis.org). 
+Please direct any comments or questions regarding the MOSIS Web Site Privacy Policy to [support@mosis.com](mailto:support@mosis.com). 
