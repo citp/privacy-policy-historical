@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sapient.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513184553id_/http%3A//www.sapient.com/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapient.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233809id_/http%3A//www.sapient.com/Privacy%2BPolicy) for the most accurate reproduction.*
 
-# Sapient
+# Privacy Policy
 
 Sapient Corporation ("Sapient" or "we") is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site (the "Site"). The scope of Sapient's commitment is detailed in this Privacy Policy. By submitting information, you agree to Sapient's use of such information as described herein. Please see our [Terms of Use](http://sapient.com/terms+of+use) for more information about our on-line policies in general.
 
