@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaljewish.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616071305id_/http%3A//nationaljewish.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaljewish.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214007id_/http%3A//nationaljewish.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # About NJ - Privacy Policy Statement - National Jewish Medical and Research Center
 
