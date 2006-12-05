@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the sugarcrm.com privacy policy that was archived on 2006-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060620024520id_/http%3A//www.sugarcrm.com/crm/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sugarcrm.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205200145id_/http%3A//www.sugarcrm.com/crm/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
 
 
 
@@ -48,7 +47,7 @@ function switchMenu(obj,cookiename,imagename) {
 //-->
 </script>
 <script language="javascript" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/cookie.js"></script>
-<link href="http://www.sugarcrm.com/crm/templates/sugar_2_5/css/template_css.css" rel="stylesheet" type="text/css">
+<link href="http://www.sugarcrm.com/crm/templates/sugar_2_5/css/template2_css.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="http://www.sugarcrm.com/crm/images/favicon.ico">
 
 </head>
@@ -59,109 +58,268 @@ function switchMenu(obj,cookiename,imagename) {
 
 
 
-    <table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td align="left" width="650">
+    <script type="text/javascript">
 
-		<table width="100%" height="46" align="center" border="0" cellspacing="0" cellpadding="0">
+	// layer== id of div, action:true==show,false==hide, z==z index
+	function toTop(layer, action, z)
+	{
+		var lref;
+		
+		if(document.getElementById && (lRef=document.getElementById(layer)))
+		{
+			lRef.style.visibility=action?'visible':'hidden';
+			lRef.style.zIndex=z;
+		}
+	}
+</script>
+
+<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td>
+	<!-- header quick search form - SITE DIRECTORY -->	
+		<div id="popup" style="position:absolute;top:25px;padding:10px;margin-left:326px;z-index:0;visibility:hidden;width:450px;">
+		<table border="0" cellpadding="0" cellspacing="0" width="">
 			<tbody><tr>
-				<td width="201" nowrap=""><a href="/crm/"><img src="http://www.sugarcrm.com/crm/images/header_192_46.gif" border="0"></a><img src="http://www.sugarcrm.com/crm/images/header_192_47.gif" border="0"></td>
-				<td style="padding-top: 5px;" height="46">
-					&nbsp;<font style="font-family:Verdana; font-size: 12px; color: #666666;">Commercial Open Source Customer Relationship Management</font>
-				</td>
+				<td align="center" class="sdir_title"><a href="/crm/"><img src="/crm/images/content_images/sitemap/sugarcrm.jpg" alt="SugarCRM.com" width="202" height="160" border="0"></a>
+				<p class="sdir_text">The corporate home page of SugarCRM</p></td><td align="right" valign="top"><a href="javascript:void(0);" class="tempHeader" onclick="toTop('popup',false,0)"><img src="/crm/images/content_images/button_close.gif" alt="Close" width="48" height="21" border="0"></a></td>
 			</tr>
+			<tr>
+				<td class="sdir_title"><a href="/crm/demo/sugar-suite.html"><img src="/crm/images/content_images/sitemap/demo.jpg" alt="Demo Center" width="202" height="160" border="0"></a>
+				<p class="sdir_text">Learn how Sugar can help your business succeed</p></td>
+				<td class="sdir_title"><a href="http://store.sugarcrm.com/"><img src="/crm/images/content_images/sitemap/store.jpg" alt="Store" width="202" height="160" border="0"></a>
+				<p class="sdir_text">Purchase products from SugarCRM</p></td>
+			</tr>
+			<tr>
+				<td class="sdir_title"><a href="http://www.sugarforge.org" target="_blank"><img src="/crm/images/content_images/sitemap/sugarforge.jpg" alt="SugarForge.org" width="202" height="160" border="0"></a>
+				<p class="sdir_text">Collaborate and develop Sugar extensions</p></td>
+				<td class="sdir_title"><a href="http://www.sugarexchange.com" target="_blank"><img src="/crm/images/content_images/sitemap/sugarexchange.jpg" alt="SugarExchange.com" width="202" height="160" border="0"></a>
+				<p class="sdir_text">Buy and sell certified SugarCRM extensions</p></td>
+			</tr>
+			<tr>
+				<td class="sdir_title"><a href="/crm/download/sugar-suite.html"><img src="/crm/images/content_images/sitemap/downloads.jpg" alt="Downloads" width="202" height="160" border="0"></a>
+				<p class="sdir_text">Download Sugar Open Source and go live in 15 minutes</p></td>
+				<td class="sdir_title"><a href="http://forums.sugarcrm.com/"><img src="/crm/images/content_images/sitemap/forums.jpg" alt="Forums" width="202" height="160" border="0"></a>
+				<p class="sdir_text">Discuss SugarCRM with users from around the world</p></td>
+			</tr>
+			<tr><td align="right" style="border-top: none;" colspan="2"><a href="javascript:void(0);" class="tempHeader" onclick="toTop('popup',false,0)"><img src="/crm/images/content_images/button_close.gif" alt="Close" width="48" height="21" border="0"></a></td></tr>
 		</tbody></table>
+</div>
+	<!-- / header quick search form -->	
+	<div id="sugarnet">
+		<div id="navcontainer">
+			<ul id="navlist">
+			<li><a href="">SugarCRM&nbsp;&nbsp;Home</a></li>
+			<li><a href="http://www.sugarexchange.com/" target="_blank">SugarExchange</a></li>
+			<li><a href="http://www.sugarforge.org" target="_blank">SugarForge</a></li>
+			<li><a href="/forums/" target="_blank">Forums</a></li>
+			<li><a href="/wiki/" target="_blank">Wiki</a></li>
+			<li><a href="http://www.sugarcrm.com/crm/download/sugar-suite.html">Downloads</a></li>
+			<li><a href="http://www.sugarcrm.com/crm/demo/sugar-suite.html" target="_blank">Demo</a></li>
+			<li><a href="javascript:void(0);" id="last" onclick="toTop('popup',true,103)">Site Directory<img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/arrow2.gif" alt="More" border="0" style="margin-left: 2px;margin-right: 2px; margin-top: 3px;"></a>
+			</li>			
+			</ul>
+		</div>
+	</div>
+	</td></tr>
+</tbody></table> 
+		
+<!-- DISPLAY Login/Logout, Account, XCart -->
+<table width="800" align="center" border="0" cellspacing="0" cellpadding="0" class="headerTopBar" style="margin-bottom: 8px;">
+	<tbody><tr>
+		<td style="padding-left: 10px; font-size: 10px;	border-left: solid 1px #dddddd; height: 22px;" class="tempHeader">
+		
+	
+		<a href="javascript:void(0);" class="tempHeader" onclick="toTop('popup_login',true,102)">Login<img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/arrow.gif" alt="More" border="0" style="margin-left: 2px;margin-right: 2px;"></a>
+	 
+	<font style="font-family:Verdana; font-size: 14px; color: #bbbbbb;">|</font> 
+			<a href="http://www.sugarcrm.com/crm/index.php?option=com_user" class="tempHeader">My Account</a>  
+		<font style="font-family:Verdana; font-size: 14px; color: #bbbbbb;">|</font> 
 
-		<table width="100%" height="21" cellpadding="0" cellspacing="0" border="0" <tr="">
-			<!-- <td style="background-image: url('/templates/sugar_2_5/images/tbshade.gif'); background-repeat: repeat-x;">&nbsp;</td> -->
-			<tbody><tr><td width="6" style="background-position: bottom; background-image: url('http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/tab_bg_shade.gif'); background-repeat: repeat-x;">&nbsp;</td>
-			<td width="220" style="padding-left: 10px; background-position: bottom; background-image: url('http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/tab_bg_shade.gif'); background-repeat: repeat-x;"></td>
-			<td style="background-position: bottom; background-image: url('http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/tab_bg_shade.gif'); background-repeat: repeat-x;">
-						<table cellpadding="0" cellspacing="0" class="moduletable">
+
+<!-- XCART FUNCTIONALITY -->
+		<img src="/sugarshop/skin1/images/cart_empty.gif" border="0" width="12" height="15" align="absmiddle" style="margin-right: 2px;">empty<br>
+	
+
+	<!-- <a href="/sugarshop/cart.php" class="tempHeader"><img src="/sugarshop/skin1/images/cart_empty.gif" alt="Cart" border="0" align="absmiddle"> empty</a> -->
+
+	</td>
+	<td style="padding-right: 10px;	border-right: solid 1px #dddddd; height: 22px; padding-bottom: 2px;" align="right" class="tempHeader"><span class="phones"><b style="color: #666666;">1 (877) 842-7276</b>&nbsp;
++1 (408) 454-6940</span><span class="separator"> | </span><a class="tempHeader" href="http://www.sugarcrm.com/crm/products/faq.html">FAQs</a><span class="separator"> | <a class="tempHeader" href="http://www.sugarcrm.com/crm/about/contact-us.html">Call Us</a><span class="separator"> | </span><a class="tempHeader" href="http://www.sugarcrm.com/crm/we-call-you.html">We Call You</a>
+			
+	</span></td>
+	</tr>
+	<tr><td colspan="2" style="border: none;background-image: url(/crm/templates/sugar_2_5/images/tabs/header_bottom_bg.gif); background-repeat: repeat-x; background-position:bottom;"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="5"></td></tr>
+	</tbody></table>
+	<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>			
+		<td><a href="/crm/"><img src="http://www.sugarcrm.com/crm/images/header_192_46.gif" border="0" title="SugarCRM"></a><!-- <img src="http://www.sugarcrm.com/crm/images/header_192_47.gif" border="0"/> --></td>
+		<td align="right" width="450" valign="top" nowrap="" style="padding-top: 0px; padding-right: 3px;">
+		<a class="tempHeader" href="/crm/demo/sugar-suite.html">Demo</a><span class="separator"> | </span><a class="tempHeader" href="/crm/download/sugar-suite.html">Download</a><span class="separator"> | </span><a class="tempHeader" href="/forums/">Forums</a><span class="separator"> | </span></td>
+		<td align="right" valign="top" style="padding-top: 0px;" nowrap="">		
+		<form action="/crm/" method="post" style="margin: 0px;">
+		<input class="search_inputbox" type="text" name="searchword" size="17" value="" style="border-color: #999999">&nbsp;<input type="image" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/search.gif" name="Search" value="Search" border="0" align="absmiddle" style="border: none; background: none;"><input type="hidden" name="option" value="search">
+		</form>
+		</td>
+		</tr>
+	</tbody></table>
+	<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td align="left" valign="top">
+
+		<table width="800" cellpadding="0" cellspacing="0" border="0" style="margin-top: 10px;">
+			
+			<tbody><tr>
+		    	<td width="5" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_lcap_on.gif'); background-repeat: no-repeat; background-position: left;"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="5" height="1"></td>
+			<td width="190" align="right" valign="middle" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_bg_on.gif'); background-repeat: repeat-x; padding: 0px; height: 26px; white-space: nowrap;" nowrap=""><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="188" height="1"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/ltabs.gif" width="2" height="26"></td>
+			<td valign="middle" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_bg_on.gif'); background-repeat: repeat-x; padding: 0px; height: 26px;">			<table cellpadding="0" cellspacing="0" class="moduletable">
 				
 			<tbody><tr>
 				<td colspan="2"><div id="myvar_mod_mainmenu">
-				<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="/sugarshop" class="mainlevel-top">Buy Now</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/tab_spacer.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="http://www.sugarcrm.com/crm/products/crm-products.html" class="mainlevel-top">Products</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/tab_spacer.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="http://www.sugarcrm.com/crm/demo/sugar-suite.html" class="mainlevel-top">Demo</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/tab_spacer.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="http://www.sugarcrm.com/crm/download/sugar-suite.html" class="mainlevel-top">Download</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/tab_spacer.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="/forums" class="mainlevel-top">Forums</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/tab_spacer.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="http://www.sugarforge.org" target="_blank" class="mainlevel-top">SugarForge</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/tab_spacer.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/ltab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td><td nowrap="nowrap" style="background-position: bottom; background-image: url('/crm/templates/sugar_2_5/images/tabs/tbody_bg_off.gif'); background-repeat: repeat-x;"><a href="http://www.sugarcrm.net" target="_blank" class="mainlevel-top">SugarNet</a></td><td style="background-image: url(&quot;/crm/templates/sugar_2_5/images/tabs/rtab_off.gif&quot;)"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="23"></td></tr></tbody></table></div>
+				
+	<link rel="stylesheet" href="http://www.sugarcrm.com/crm/templates/sugar_2_5/css/dmenu2.css" type="text/css">
+	<script language="JavaScript" src="http://www.sugarcrm.com/crm/includes/js/dmenu.js" type="text/javascript"></script>
+
+<div id="anylinkmenu1" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/crm/about/about-sugarcrm.html">About SugarCRM</a><a class="sublevel" href="/crm/about/careers.html">Careers</a><a class="sublevel" href="/crm/about/leadership.html">Executive Team</a><a class="sublevel" href="/crm/about/board-of-directors.html">Board of Directors</a><a class="sublevel" href="/crm/about/investors.html">Investors</a><a class="sublevel" href="/crm/about/news-articles.html">News Articles</a><a class="sublevel" href="/crm/about/press-releases.html">Press Releases</a><a class="sublevel" href="/crm/about/events.html">Events</a><a class="sublevel" href="/crm/about/webcasts.html">Webcasts</a><a class="sublevel" href="/crm/about/podcasts.html">Podcasts</a><a class="sublevel" href="/crm/about/newsletter-registration.html">Newsletter Registration</a><a class="sublevel" href="/crm/products/sugarcrm-security-policy.html">Security Policy</a><a class="sublevel" href="/crm/about/contact-us.html">Contact Us</a></div><div id="anylinkmenu2" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/crm/products/crm-products.html">Products Overview</a><a class="sublevel" href="/crm/products/sugar-suite/components.html">Capabilities</a><a class="sublevel" href="/crm/products/editions.html">Editions</a><a class="sublevel" href="/crm/products/deployment-options.html">Deployment Options</a><a class="sublevel" href="/crm/products/sugar-network.html">Sugar Network</a><a class="sublevel" href="/crm/demo/sugar-suite.html">Demo</a><a class="sublevel" href="/crm/products/sugar-enterprise/sugar-enterprise-architecture.html">Why Sugar</a><a class="sublevel" href="/crm/products/45-roadmap.html">Sugar 4.5</a><a class="sublevel" href="/crm/user_documentation">User Documentation</a></div><div id="anylinkmenu3" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/crm/community/sugarcrm-community.html">Open Source Overview</a><a class="sublevel" href="/crm/download/sugar-suite.html">Download</a><a class="sublevel" href="/crm/sugar-network-for-sugar-open-source.html">Sugar Network</a><a class="sublevel" href="/forums/">Forums</a><a class="sublevel" href="http://www.sugarforge.org/">SugarForge</a><a class="sublevel" href="http://www.sugarexchange.com/">SugarExchange</a></div><div id="anylinkmenu4" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/crm/sugarcrm-customer-services.html">Services Overview</a><a class="sublevel" href="/crm/services/support-services.html">Support Services</a><a class="sublevel" href="/crm/services/implementation.html">Implementation Services</a><a class="sublevel" href="/crm/services/professional-services.html">Professional Services</a><a class="sublevel" href="/crm/services/sugar-network.html">Sugar Network</a></div><div id="anylinkmenu5" class="anylinkcss" style="background-color: white;"></div><div id="anylinkmenu6" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/crm/partners/sugarcrm-partners.html">Partners Overview</a><a class="sublevel" href="/crm/partners/partner-programs.html">Becoming a Partner</a><a class="sublevel" href="/crm/partners/partnerfinder.html">Partner Directory</a><a class="sublevel" href="index.php?option=com_partners&amp;task=solutionlist&amp;Itemid=357">Industry Solutions</a><a class="sublevel" href="/crm/partners/success.html">Partner Spotlight</a><a class="sublevel" href="/crm/index.php?option=com_portal&amp;tmpl=&amp;Itemid=332">Partner Portal</a></div><div id="anylinkmenu7" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/sugarshop">Store Home</a><a class="sublevel" href="/sugarshop/home.php?cat=11">Sugar Enterprise</a><a class="sublevel" href="/sugarshop/home.php?cat=1">Sugar Professional</a><a class="sublevel" href="/sugarshop/home.php?cat=15">Sugar Installers</a><a class="sublevel" href="/sugarshop/home.php?cat=12">Sugar Network</a><a class="sublevel" href="/sugarshop/home.php?cat=14">Sugar University</a></div><div id="anylinkmenu8" class="anylinkcss" style="background-color: white;"><a class="sublevel" href="/crm/support">Support Portal</a><a class="sublevel" href="/forums/">Forums</a><a class="sublevel" href="/wiki/">Wiki</a><a class="sublevel" href="/crm/university">Training</a><a class="sublevel" href="/crm/support/documentation">Documentation</a></div><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="ltab_on"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu1')" nowrap="nowrap" class="mainlevel-top-selected"><a href="/crm/about/about-sugarcrm.html">About Us</a></td><td class="rtab_on"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu2')" nowrap="nowrap" class="mainlevel-top"><a href="/crm/sugarcrm-defines-the-new-crm-generation.html">Products</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu3')" nowrap="nowrap" class="mainlevel-top"><a href="/crm/community/sugarcrm-community.html">Open Source</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu4')" nowrap="nowrap" class="mainlevel-top"><a href="/crm/sugarcrm-customer-services.html">Services</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td nowrap="nowrap" class="mainlevel-top"><a href="/crm/customer-snapshot.html">Customers</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')" nowrap="nowrap" class="mainlevel-top"><a href="/crm/partners/sugarcrm-partners.html">Partners</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu7')" nowrap="nowrap" class="mainlevel-top"><a href="/sugarshop">Store</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td id="tspacer"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="1" height="1"></td><td class="ltab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td><td onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu8')" nowrap="nowrap" class="mainlevel-top"><a href="https://www.sugarcrm.com/crm/support">Support &amp; Training</a></td><td class="rtab_off"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="7" height="25"></td></tr></tbody></table></div>
 				</td>
 			</tr>
 			
 			</tbody></table>	
-					</td>
-			<!-- <td style="background-image: url('/templates/sugar_2_5/images/tbshade.gif'); background-repeat: repeat-x;">&nbsp;</td> -->
-			<td align="right" width="12" style="padding-bottom: 7px; background-position: bottom; background-image: url('http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/tab_bg_shade.gif'); background-repeat: repeat-x;">&nbsp;</td>
-			<td style="background-position: bottom; background-image: url('http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/tab_bg_shade.gif'); background-repeat: repeat-x;">&nbsp;</td>
-		    </tr>
-		</tbody></table>
 			</td>
-
-	<td valign="top" style="background-position: bottom; background-image: url('http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/tab_bg_shade.gif'); background-repeat: repeat-x;">
-		<table width="150" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td height="32" valign="top" align="right" nowrap="">
-					<a class="tempHeader" href="http://www.sugarcrm.com/crm/products/faq.html">FAQs</a> <font style="font-family:Verdana; font-size: 14px; color: #EA1313;">|</font> <a class="tempHeader" href="http://www.sugarcrm.com/crm/about/contact-us.html">Call Us</a>
-					<font style="font-family:Verdana; font-size: 14px; color: #EA1313;">|</font>
-					<a class="tempHeader" href="http://www.sugarcrm.com/crm/we-call-you.html">We Call You</a>
-					
-				</td>
+			<td width="100%" align="left" valign="middle" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_bg_on.gif'); background-repeat: repeat-x; padding: 0px; height: 26px;"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/tabs/rtabs.gif" width="1" height="26"></td>
+	    		<td width="5" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_rcap_on.gif');"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="5" height="1"></td>
 			</tr>
-			<tr><td height="30" align="right" valign="top"><font style="font-family: Verdana; color: #000000; font-size: 10px;">
-US: 1 (877) 842-7276<br>
-Intl: + 1 (408) 454-6940</font></td></tr>
+
 		</tbody></table>
+		<!--------------------end tabs table--------------------- -->
 	</td>
 	</tr>
-</tbody></table>
-		<table cellpadding="0" cellspacing="0" border="0" width="800" align="center">
-		<tbody><tr height="35">
-		    <td width="6" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_lcap_off.gif');"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="5" height="1"></td>
-			<td width="100%" align="right" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_bg_off.gif'); background-repeat: repeat-x; padding: 0 10px 8px 0;">
-				<form action="/crm/" method="post">
-					<input class="inputbox" type="text" name="searchword" size="17" value="">&nbsp;<input class="searchbutton" type="Submit" name="Search" value="search..."><input type="hidden" name="option" value="search">
-				</form>
-			</td>
-	    	<td width="6" style="background-image: url('/crm/templates/sugar_2_5/images/tabs/tbar_rcap_off.gif');"><img border="0" src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/pixel.gif" width="5" height="1"></td>
-		</tr>
 	</tbody></table>
+	<!-- ------------------end header table table--------------------- -->
+	
+	
+<!-- NAVBAR POPUP MENUS -->
+<style type="text/css">
+#top {
+	background-image: url(/crm/images/content_images/table_top_bg.gif);  
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-color: #fafafa;
+	padding-bottom: 3px;
+}
+.sdir_text {
+font-size: 12px;
+font-weight: normal;
+margin-bottom: 0px;
+padding-top: 7px;
+padding-bottom: 0px;
+}
+.sdir_title {
+padding: 30px 10px 10px 10px;
+vertical-align: top;
+font-weight: bold;
+font-size: 13px;
+width: 260px;
+text-align: center;
+border-bottom: 1px solid #cccccc;
+}
 
+#popup_login{
+background-color:#fafafa;
+border: 1px solid #cccccc;
+padding: 5px 10px 5px 10px;
+width: 177px;
+position: relative;
+}
+
+#popup {
+background-color:#fafafa;
+border: 2px solid #cccccc;
+padding: 0px 10px 0px 10px;
+width: 400px;
+}
+table.popup_login_table td {
+
+padding: 0px 5px 5px 0px;
+}
+</style>
+
+
+<!-- LOGIN POP UP FUNCTIONALITY -->
+	<div id="popup_login" style="position:absolute;margin:0px;width:177px;top:48px;z-index:0;visibility:hidden;">
+
+	<form action="/crm/" method="post" name="login">
+		<table width="177" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr><td align="right" style="border-bottom: 1px solid #cccccc;"><a href="javascript:void(0);" class="tempHeader" onclick="toTop('popup_login',false,0)"><img src="/crm/images/content_images/button_close.gif" alt="Close" width="48" height="21" border="0"></a></td></tr>
+	<tr>
+		<td style="padding-top: 10px;">
+		
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" class="popup_login_table">
+		<tbody><tr>
+		    <td>User name: </td>
+		    <td><input name="username" type="text" class="inputbox" alt="username" size="10"></td>
+		</tr>
+		<tr>
+		    <td>Password: </td>
+		    <td><input type="password" name="passwd" class="inputbox" size="10" alt="password"></td>
+		</tr>
+		<tr>
+		    <td></td><td style="font-size: 11px;"><input type="checkbox" name="remember" class="checkbox" value="yes" alt="Remember Me" checked="">Remember me</td>
+		</tr>
+		<tr>
+		    <td></td>
+		    <td style="padding-bottom: 10px;"><input type="hidden" name="option" value="login">
+		<input type="submit" name="Submit" class="button" value="Login"></td>
+		</tr>
+		<tr>
+		<td colspan="2" style="border-top: 1px solid #cccccc; padding-top: 5px;">
+		<a class="moduletable" href="http://www.sugarcrm.com/crm/component/option,com_registration/Itemid,0/task,lostPassword/">
+		Forgotten your password?		</a></td>
+		</tr>
+			<tr>
+			<td colspan="2">
+			<a class="moduletable" href="http://www.sugarcrm.com/crm/component/option,com_registration/Itemid,0/task,register/">
+			Create an account.			</a>
+			</td>
+		</tr>
+				
+		</tbody></table>
+		</td>
+	</tr>
+
+	</tbody></table>
+		<input type="hidden" name="redirect" value="mambo">
+	<input type="hidden" name="usertype" value="C">
+	<input type="hidden" name="op2" value="login">
+	<input type="hidden" name="lang" value="english">
+	<input type="hidden" name="return" value="/crm/index.php?option=com_content&amp;task=view&amp;id=175&amp;Itemid=209">
+	<input type="hidden" name="message" value="0">
+	</form>
+
+</div>
+<!-- FUNCTION to highlight based on whats selected in the top menu -->
 <table width="800" cellspacing="0" cellpadding="0" border="0" align="center">
 	<tbody><tr>
-	    <td width="180" valign="top" bgcolor="#D2D2D2">
-
+	    <td valign="top" class="left_column" width="178px">
+<div class="left_column_top"><img src="/crm/images/content_images/spacer.gif" width="177" height="4" border="0"></div>
 	    <!-- begin left column -->
 		    			<table cellpadding="0" cellspacing="0" class="moduletable">
 				
 			<tbody><tr>
 				<td colspan="2"><div id="myvar_mod_mainmenu">
-				
-<table width="100%" border="0" cellpadding="0" cellspacing="0" class="mainlevel">
-<tbody><tr align="left"><td style="padding-left: 5px;"><a href="/crm/" class="mainlevel-selected">Home</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/about/careers.html" class="mainlevel-selected">Careers</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/about/about-sugarcrm.html" class="mainlevel-selected">About SugarCRM</a>
-
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/leadership.html" class="sublevel-selected">Executive Team</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/board-of-directors.html" class="sublevel-selected">Board of Directors</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/investors.html" class="sublevel-selected">Investors</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/news-articles.html" class="sublevel-selected">News Articles</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/press-releases.html" class="sublevel-selected">Press Releases</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/events.html" class="sublevel-selected">Events</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/webcasts.html" class="sublevel-selected">Webcasts</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/podcasts.html" class="sublevel-selected">Podcasts</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="about/newsletter-registration.html" class="sublevel-selected">Newsletter Registration</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/products/sugarcrm-security-policy.html" class="sublevel-selected">Security Policy</a></div>
-<div style="padding: 1px 0px 1px 0px;"><img src="http://www.sugarcrm.com/crm/templates/sugar_2_5/images/indent1.png" alt="" style="margin-right: 2px;"><a href="http://www.sugarcrm.com/crm/about/contact-us.html" class="sublevel-selected">Contact Us</a></div>
-</td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/products/crm-products.html" class="mainlevel">Products</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/services/services.html" class="mainlevel-selected">Services</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/customers/index.html" class="mainlevel-selected">Customers</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/demo/sugar-suite.html" class="mainlevel">Demo Sugar Suite</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/download/sugar-suite.html" class="mainlevel">Downloads</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/partners/sugarcrm-partners.html" class="mainlevel-selected">Partners</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/community/sugarcrm-community.html" class="mainlevel-selected">Open Source</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="/forums" class="mainlevel">Forums</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarforge.org" target="_blank" class="mainlevel-selected">SugarForge</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="/sugarshop" class="mainlevel-selected">Buy Now</a></td></tr>
-<tr align="left"><td style="padding-left: 5px;"><a href="http://www.sugarcrm.com/crm/support" class="mainlevel-selected">Support</a></td></tr>
-</tbody></table><br></div>
+				<div id="leftnav"><ul class="mainmenu"><li class="mainlevel-selected"><a href="index.php?option=com_content&amp;task=view&amp;id=1">About Us</a></li></ul></div>
+<table width="177" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top" class="mainmenu_column"><div id="leftnav"><ul class="mainmenu">
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/careers.html">Careers</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/leadership.html">Executive Team</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/board-of-directors.html">Board of Directors</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/investors.html">Investors</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/news-articles.html">News Articles</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/press-releases.html">Press Releases</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/events.html">Events</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/webcasts.html">Webcasts</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/podcasts.html">Podcasts</a></li>
+<li class="mainlevel"><a href="about/newsletter-registration.html">Newsletter Registration</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/products/sugarcrm-security-policy.html">Security Policy</a></li>
+<li class="mainlevel"><a href="http://www.sugarcrm.com/crm/about/contact-us.html">Contact Us</a></li>
+</ul></div></td></tr></tbody></table></div>
 				</td>
 			</tr>
 			
@@ -170,65 +328,157 @@ Intl: + 1 (408) 454-6940</font></td></tr>
 				
 			<tbody><tr>
 				<td colspan="2"><div id="myvar_mod_xcart">
-					
-	
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<style type="text/css">
+ #navx ul, #navx
+ { /* all lists */
+	padding: 0;
+	margin: 0;
+	list-style: none;
+  	padding-left: 0px;
+  	margin-left:0;
+  	cursor: default;
+	list-style-type: none;
+}
+
+#navx li { /* all list items */
+  list-style:none;
+  padding-left:0;
+  padding:0px;
+  margin-left:0;
+  margin:0;
+  background-color: #ffffff;
+  border-bottom: 1px solid #dddddd; 
+}
+
+#navx li.a, #navx a {
+  display: block;
+  text-decoration: none;
+  list-style:none;
+  /* width: 177px; */
+}
+
+#navx li ul { /* second-level lists */
+  position: absolute;
+  width: 176px;
+  margin:0;
+  left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+  padding:0px;
+}
+
+#navx li:hover ul, #navx li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+  	border-left: 1px solid #cccccc;
+  	background-color: #eeeeee;
+  	/* border-bottom: 1px solid #666666; */
+}
+#navx li ul a:link, #navx li ul a:visited {
+   padding: 3px 3px 3px 6px;
+   /* width: 177px; */
+}
+
+#navx a
+{
+  *width: 100%;
+  display: block;
+}
+#plix
+{
+  margin: 0;
+  padding: 1px;
+  /* width: 177px; */
+}
+#clix
+{
+	list-style: none;
+	list-style-image: none;
+	list-style-type: none;
+	border-top:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+}	
+</style>
+<script type="text/javascript">
+
+sfHover = function() {
+	var sfEls = document.getElementById("navx").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+<table border="0" cellpadding="0" cellspacing="0" width="178">
 <tbody><tr>
-    <th class="moduletablePSth" valign="top"><a href="/sugarshop"><img src="/sugarshop/skin1/images/sugarshop.gif" width="68" height="24" alt="SugarShop" border="0"></a></th>
- </tr>
+	<td class="moduletablePStd" style="border: none; background-color: #e0e0e0;" valign="top" colspan="2"><br></td>
+</tr>
 <tr>
-	<td class="moduletablePStd" style="border-top: none;" valign="top">
-	
-	
+    	<th valign="top" nowrap="" style="border-top-color: #c0c0c0; border-right: none;" width="133"><a href="/sugarshop" style="cursor: pointer; text-decoration: none; color: #666666; line-height: 22px;">Featured Products</a></th>
+	<th align="right" valign="top" style="padding-right:0px; border-left: none;border-top-color: #c0c0c0;" width="34"><a href="/sugarshop" style="cursor: pointer;"><img src="/sugarshop/skin1/images/xcart_moduletablePSth.gif" alt="Sugar Store" border="0" style="margin: 0px;"></a></th>
+</tr>
+<tr>
+	<td class="moduletablePStd" style="border-top: none;" valign="top" colspan="2">
 		<table border="0" cellspacing="0" cellpadding="0" class="moduletablePSfeatured">
-		
-			<tbody><tr><td valign="top"><a href="/sugarshop/product.php?productid=4"><img src="/sugarshop/skin1/images/icons_products_pro_on-demand.gif" width="39" height="52" alt="Sugar Professional On-Demand" border="0" style="margin-right: 7px; margin-top: 3px;"></a></td>
-				<td valign="top" style="font-size: 11px;color: #666666;"><b><a href="/sugarshop/product.php?productid=4" id="moduletablePSproduct">Sugar Professional<br>On-Demand</a></b><br>
-				Hosted CRM with easy migration</td></tr>
-			<tr><td colspan="2" class="moduletablePSbuy" style="font-size: 11px; padding-top:4px;">$<b id="moduletablePSprice">40</b> per user per month<a href="/sugarshop/product.php?productid=4"><img src="/sugarshop/skin1/images/buy_button.gif" border="0" width="46" height="13" alt="Buy Now" align="absmiddle" style="margin-left: 3px;"></a></td></tr>			
-	
-			<tr><td valign="top"><a href="/sugarshop/product.php?productid=3"><img src="/sugarshop/skin1/images/icons_products_pro_on-premise.gif" width="39" height="52" alt="Sugar Professional On-Premise" border="0" style="margin-right: 7px; margin-top: 3px;"></a></td>
-				<td valign="top" style="font-size: 11px;color: #666666;"><b><a href="/sugarshop/product.php?productid=3" id="moduletablePSproduct">Sugar Professional<br>On-Premise</a></b><br>
-				Run CRM within your <br>IT environment</td></tr>
-			<tr><td colspan="2" class="moduletablePSbuy" style="font-size: 11px; padding-top:4px; padding-top:4px;">$<b id="moduletablePSprice">239</b> per user per year<a href="/sugarshop/product.php?productid=3"><img src="/sugarshop/skin1/images/buy_button.gif" border="0" width="46" height="13" alt="Buy Now" align="absmiddle" style="margin-left: 3px;"></a></td></tr>	
-
-			<tr><td valign="top"><a href="/sugarshop/product.php?productid=78"><img src="/sugarshop/skin1/images/icons_products_ent_on-demand.gif" width="39" height="52" alt="Sugar Enterprise On-Demand" border="0" style="margin-right: 7px; margin-top: 3px;"></a></td>
-				<td valign="top" style="font-size: 11px;color: #666666;"><b><a href="/sugarshop/product.php?productid=78" id="moduletablePSproduct">Sugar Enterprise<br>On-Demand</a></b><br>
-				Enterprise-class CRM On-Demand</td></tr>
-			<tr><td colspan="2" class="moduletablePSbuy" style="font-size: 11px; padding-top:4px;">$<b id="moduletablePSprice">75</b> per user per month<a href="/sugarshop/product.php?productid=78"><img src="/sugarshop/skin1/images/buy_button.gif" border="0" width="46" height="13" alt="Buy Now" align="absmiddle" style="margin-left: 3px;"></a></td></tr>			
-	
-			<tr><td valign="top"><a href="/sugarshop/product.php?productid=36"><img src="/sugarshop/skin1/images/icons_products_ent_on-premise.gif" width="39" height="52" alt="Sugar Enterprise On-Premise" border="0" style="margin-right: 7px; margin-top: 3px;"></a></td>
-				<td valign="top" style="font-size: 11px;color: #666666;"><b><a href="/sugarshop/product.php?productid=36" id="moduletablePSproduct">Sugar Enterprise<br>On-Premise</a></b><br>
-				Enterprise-class CRM on site</td></tr>
-			<tr><td colspan="2" class="moduletablePSbuy" style="font-size: 11px; padding-top:4px; border-bottom: 0px;">$<b id="moduletablePSprice">449</b> per user per year<a href="/sugarshop/product.php?productid=36"><img src="/sugarshop/skin1/images/buy_button.gif" border="0" width="46" height="13" alt="Buy Now" align="absmiddle" style="margin-left: 3px;"></a></td></tr>			
-
+			<tbody><tr><td colspan="2" class="moduletablePSbuy" style="font-size: 12px; padding-top:10px; border:none; padding-bottom:0px;"><b><a href="/sugarshop/product.php?productid=4" id="moduletablePSproduct" style="font-size: 12px;">Sugar Professional On-Demand</a></b></td></tr>	
+			<tr><td valign="top" class="moduletablePSbuy" style="border-bottom: none;"><a href="/sugarshop/product.php?productid=4"><img src="/sugarshop/skin1/images/icons_products_pro_on-demand2.gif" width="56" height="56" alt="Sugar Professional On-Demand" border="0" style="margin-right: 3px; margin-top: 4px;"></a></td>
+				
+	<td valign="top" style="font-size: 11px;color: #666666;"><a href="/sugarshop/product.php?productid=4" id="moduletablePSproduct" style="font-size: 12px;"><img src="/sugarshop/skin1/images/xcart_pro_pricing.gif" alt="Only $40/mo/user" border="0"></a><br><a href="/sugarshop/product.php?productid=4" id="moduletablePSproduct"><img src="/sugarshop/skin1/images/xcart_button_buy.gif" alt="Buy Now" border="0" style="margin-top: 5px;"></a></td>
+</tr>	
+<tr>
+	<td colspan="2" class="moduletablePSbuy" style="font-size: 11px; padding-top:4px;"><img src="/sugarshop/skin1/images/spacer.gif" width="1" height="1" border="0"></td>
+</tr>	
+<tr>
+	<td colspan="2" class="moduletablePSbuy" style="font-size: 12px; padding-top:10px; border:none; padding-bottom:3px;"><b><a href="/sugarshop/product.php?productid=36" id="moduletablePSproduct" style="font-size: 12px;">Sugar Enterprise On-Site</a></b></td>
+</tr>	
+<tr>
+	<td valign="top" class="moduletablePSbuy" style="border-bottom: none;"><a href="/sugarshop/product.php?productid=36"><img src="/sugarshop/skin1/images/icons_products_ent_on-site2.gif" width="56" height="56" alt="Sugar Enterprise Cube" border="0" style="margin-right: 3px; margin-top: 0px;"></a></td>
+	<td valign="top" style="font-size: 11px;color: #666666; border: none;">
+		<a href="/sugarshop/product.php?productid=36" id="moduletablePSproduct" style="font-size: 11px;">Enterprise-class CRM on site<br>
+		<b>$449</b>/user/year</a><br><a href="/sugarshop/product.php?productid=36" id="moduletablePSproduct"><img src="/sugarshop/skin1/images/xcart_button_buy.gif" alt="Order Now" border="0" style="margin-top: 5px;"></a></td>
+</tr>	
+<tr>
+	<td colspan="2" class="moduletablePSbuy" style="font-size: 11px; padding-top:4px; border: none;"><img src="/sugarshop/skin1/images/spacer.gif" width="1" height="1" border="0"></td>
+</tr>	
+				
 </tbody></table>
-	
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+	<td style="background-color: #fafafa; padding:0px; background-image: url(/sugarshop/skin1/images/sugarshopbottom_more_bg.gif); background-repeat: repeat-x;"><img src="/sugarshop/skin1/images/spacer.gif" width="1" height="3" border="0"></td>
+	</tr>	
+	<tr><td style="font-size: 12px; border-top: 1px solid #cccccc;" "="">
+			<ul id="navx">
+  			<li id="plix"><a href="/sugarshop"><img src="/sugarshop/skin1/images/xcart_more_products.gif" border="0" width="176" height="20"></a>
+				<ul id="clix">
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=4" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Professional On-Demand</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=3" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Professional On-Site</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=36" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Enterprise On-Site</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=78" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Enterprise On-Demand</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=99" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Network</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=128" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Learning Credits</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=170" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar University Learning Pack - Sales Operations Manager</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=172" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar University Learning Pack - Administrator Getting Started</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=185" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Enterprise FastStack</a></li>
+				      				<li style="width:175px;;font-size:11px;"><a href="/sugarshop/product.php?productid=186" style="text-decoration: none;"><img src="/crm/images/custom/hp_demo_option.gif" alt="*" border="0" align="top">Sugar Professional FastStack</a></li>
+								</ul>
+			</li>
+  		</ul> 
+	</td></tr>	
+		
+</tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" class="moduletablePSbottom" width="100%">
 	<tbody><tr>
-	<td><a href="/sugarshop" style="text-decoration: none;">More Products&gt;</a></td>
-	</tr>	
-	<tr>
-	<td style="font-size: 11px;"><b>Questions?</b>&nbsp;&nbsp;<a href="/crm/products/faq.html" style="font-size: 11px;">FAQs</a> | <a href="/crm/products/sugar-suite/components.html" style="font-size: 11px;">Capabilities</a><p style="padding-top: 4px; font-size:12px; text-align: right; margin-bottom: 4px;">
+	<td style="font-size: 11px; border-bottom: none;"><b>Questions?</b>&nbsp;&nbsp;<a href="/crm/products/faq.html" style="font-size: 11px;">FAQs</a> | <a href="/crm/products/sugar-suite/components.html" style="font-size: 11px;">Capabilities</a><p style="padding-top: 4px; font-size:12px; text-align: right; margin-bottom: 10px;">
 	+1 (408) 454 6940&nbsp;</p></td>
 	</tr>
-	
-	<tr>
-		<td style="padding-bottom: 4px; border-bottom: none;"><!-- <img src="homepage_files/cart_empty.gif" border="0" height="18" width="18" align="absmiddle" style="margin-bottom: 4px; margin-right: 4px;"><b>Cart is empty</b><br />		 -->
-		<img src="/sugarshop/skin1/images/cart_empty.gif" border="0" height="18" width="18" align="absmiddle" style="margin-bottom: 4px; margin-right: 4px;"><b>Cart is empty</b><br>
-
-
-</td>
-</tr>	
 	
 </tbody></table>
 </td>
 </tr>
-</tbody></table>
-
-<br>
-
-</div>
+</tbody></table></div>
 				</td>
 			</tr>
 			
@@ -252,7 +502,8 @@ Intl: + 1 (408) 454-6940</font></td></tr>
 <br>
 <table cellpadding="0" cellspacing="0" border="0" style="padding-left: 10px;"><tbody><tr><td style="padding-bottom: 4px;"><font style="font-size: 
 10px;">Sugar Developer News</font></td><td>&nbsp;<a href="http://www.sugarcrm.com/crm/index2.php?no_html=1&amp;stype=rss20&amp;task=returnRSS&amp;option=com_rss_feed_manager&amp;channel=Developer"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td style="padding-bottom: 4px;"><font style="font-size: 
-10px;">SugarCRM News</font></td><td>&nbsp;<a href="http://www.sugarcrm.com/crm/index2.php?no_html=1&amp;stype=rss20&amp;task=returnRSS&amp;option=com_rss_feed_manager&amp;channel=Corporate"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td><font style="font-size: 10px;">All News</font></td><td style="padding-right: 3px;">&nbsp;<a href="http://www.sugarcrm.com/crm/index2.php?no_html=1&amp;stype=rss20&amp;task=returnRSS&amp;option=com_rss_feed_manager&amp;channel=all"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td><font style="font-size: 10px;">SugarCRM Forums</font></td><td style="padding-right: 3px;">&nbsp;<a href="http://www.sugarcrm.com/forums/external.php?type=rss" target="_blank"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td><font style="font-size: 10px;">SugarForge News</font></td><td style="padding-right: 3px;">&nbsp;<a href="http://www.sugarforge.org/export/rss_sfnews.php" target="_blank"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr></tbody></table><br>
+10px;">SugarCRM News</font></td><td>&nbsp;<a href="http://www.sugarcrm.com/crm/index2.php?no_html=1&amp;stype=rss20&amp;task=returnRSS&amp;option=com_rss_feed_manager&amp;channel=Corporate"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td style="padding-bottom: 4px;"><font style="font-size: 
+10px;">SugarCRM Training News</font></td><td>&nbsp;<a href="http://www.sugarcrm.com/crm/index2.php?no_html=1&amp;stype=rss20&amp;task=returnRSS&amp;option=com_rss_feed_manager&amp;channel=Product"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td><font style="font-size: 10px;">All News</font></td><td style="padding-right: 3px;">&nbsp;<a href="http://www.sugarcrm.com/crm/index2.php?no_html=1&amp;stype=rss20&amp;task=returnRSS&amp;option=com_rss_feed_manager&amp;channel=all"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td><font style="font-size: 10px;">SugarCRM Forums</font></td><td style="padding-right: 3px;">&nbsp;<a href="http://www.sugarcrm.com/forums/external.php?type=rss" target="_blank"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr><tr><td><font style="font-size: 10px;">SugarForge News</font></td><td style="padding-right: 3px;">&nbsp;<a href="http://www.sugarforge.org/export/rss_sfnews.php" target="_blank"><img src="http://www.sugarcrm.com/crm/components/com_rss_feed_manager/rss_xml.gif" border="0"></a></td></tr></tbody></table><br>
 </div>
 </div>
 				</td>
@@ -284,97 +535,14 @@ Intl: + 1 (408) 454-6940</font></td></tr>
 			</tr>
 			
 			</tbody></table>	
-						<table cellpadding="0" cellspacing="0" class="moduletable">
-							<tbody><tr>
-					<th valign="top" style="border-right: none;" width="100%">
-										<a onclick="switchMenu('myvar_mod_login','moduleState_mod_login','HideHandle_mod_login');" title="Hide/Show Login" style="cursor: pointer; text-decoration: none; font-weight: bold; color: #666666;">Login</a>
-					</th>
-					<th align="right" valign="top" style="border-left: none;" width="22">
-					<a onclick="switchMenu('myvar_mod_login','moduleState_mod_login','HideHandle_mod_login');" title="Hide-Show" style="cursor: pointer;"><img src="/crm/images/menu_arrow.gif" name="HideHandle_mod_login" alt="Hide or Show" border="0" style="margin-right: 8px;"></a>
-					</th>
-				</tr>
-
-
-		
-			<tr>
-				<td colspan="2"><div id="myvar_mod_login">
-					<form action="/crm/" method="post" name="login">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr>
-		<td style="padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
-		
-		<table cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-		    <td>Username</td>
-		    <td><input name="username" type="text" class="inputbox" alt="username" size="10"></td>
-		</tr>
-		<tr>
-		    <td>Password</td>
-		    <td><input type="password" name="passwd" class="inputbox" size="10" alt="password"></td>
-		</tr>
-		<tr>
-		    <td></td>
-		    <td><input type="hidden" name="option" value="login">
-		<input type="submit" name="Submit" class="button" value="Login"></td>
-		</tr>
-		<tr>
-		    <td colspan="2"><input type="checkbox" name="remember" class="checkbox" value="yes" alt="Remember Me" checked=""> Remember me</td>
-		</tr>
-		<tr>
-		    <td colspan="2"><a class="moduletable" href="http://www.sugarcrm.com/crm/component/option,com_registration/Itemid,0/task,lostPassword/">
-		Forgotten your password?		</a></td>
-		</tr>
-			<tr>
-			<td colspan="2">
-			<a class="moduletable" href="http://www.sugarcrm.com/crm/component/option,com_registration/Itemid,0/task,register/">
-			Create an account.			</a>
-			</td>
-		</tr>
-				
-		</tbody></table>
-		</td>
-	</tr>
-
-	</tbody></table>
-		<input type="hidden" name="redirect" value="mambo">
-	<input type="hidden" name="usertype" value="C">
-	<input type="hidden" name="op2" value="login">
-	<input type="hidden" name="lang" value="english">
-	<input type="hidden" name="return" value="/crm/index.php?option=com_content&amp;task=view&amp;id=175&amp;Itemid=209">
-	<input type="hidden" name="message" value="0">
-	</form>
-	</div>
-				</td>
-			</tr>
-			
-			</tbody></table>				<script language="Javascript">
-	if (!Get_Cookie('moduleState_mod_login')) {
-		Set_Cookie('moduleState_mod_login','true',30,'/','','');
-	}
-	var show = Get_Cookie('moduleState_mod_login');
-
-	if (show == 'true') {
-		this.document.getElementById('myvar_mod_login').style.display='none';
-		document['HideHandle_mod_login'].src = '/crm/images/menu_arrow.gif';
-	} else {
-		
-		this.document.getElementById('myvar_mod_login').style.display='inline';
-		document['HideHandle_mod_login'].src = '/crm/images/menu_arrow_up.gif';
-		
-	}
-	</script>
-		
-					    <img src="http://www.sugarcrm.com/crm/templates/sugar/images/pixel.gif" alt="" width="180" height="1" border="0">
-
-
-	    <!-- end left column -->
-<img src="/crm/images/content_images/spacer.gif" width="180" height="1">
+				    <!-- end left column -->
 	    </td>
 
-	    <td width="100%" valign="top" rowspan="2">
+	    <td valign="top" width="620" rowspan="1" class="main_top">
 
 	    	<!-- begin middle column -->
-			 <div style="margin: 10px 10px 10px 10px; _width:100%;">    					<table class="contentpaneopen">
+			
+    					<table class="contentpaneopen">
 			<tbody><tr>
 								<td class="contentheading" width="100%">
 				<h2>Privacy Policy</h2>
@@ -423,103 +591,29 @@ Intl: + 1 (408) 454-6940</font></td></tr>
 		</tr>
 				</tbody></table>
 		
-		    </div>		    <!-- end middle column -->
+		    <!-- end middle column -->
     	</td>
 
    	    
-	    <td width="1" valign="top" bgcolor="#dcdcdc" nowrap="">
-<img src="/crm/images/content_images/spacer.gif" width="1" height="1">
-<style type="text/css">
-th.latest_buzz {
-background-color: #dcdcdc;
-border-bottom: 1px solid #bcbcbc;
-vertical-align: middle;
-text-align: left;
-FONT: 12px/18px arial,helvetica,sans-serif; 
-font-weight: bold;
-COLOR: #777777;
-padding-top: 2px;
-padding-bottom: 2px;
-}
-.latest_buzz {
-background-color: #e9e9e9;
-border-bottom: 1px solid #f4f4f4;
-padding: 5px 10px 10px 10px;
-FONT: 11px/15px arial,helvetica,sans-serif; 
-COLOR: #777777;
-border-left: 1px solid #dcdcdc;
-border-right: 1px solid #dcdcdc;
-}
-.latest_buzz_more {
-margin-top: 10px; 
-margin-bottom: 0px;
-text-align: right;
-}
-
-
-</style>
-	<!-- <p>&nbsp;</p>    	
-<table width="175" border="0" cellspacing="0" cellpadding="0">
-	<tr>
-		<th class="latest_buzz">Latest Article:</th>
-	</tr>
-	<tr>
-		<td class="latest_buzz"><b>Investor's Business Daily</b><br />		
-<a href="http://www.investors.com/editorial/IBDArticles.asp?artsec=16&issue=20050921" target="_blank" style="color: #777777; FONT: 11px/15px arial,helvetica,sans-serif;">Open-Source Success Roiling Software Field</a>
-<p class="latest_buzz_more"><a href="/crm/about/news-articles.html" style="FONT: 11px/15px arial,helvetica,sans-serif; color: #555555;">
-More Articles ></a></p>
-</td>
-	</tr>
-</table>
-	
-	<table width="175" border="0" cellspacing="0" cellpadding="0">
-	<tr>
-		<th class="latest_buzz">Latest Press Release:</th>
-	</tr>
-	<tr>
-		<td class="latest_buzz"><a href="/crm/about/press-releases/20050919-oracle.html" style="color: #777777; FONT: 11px/15px arial,helvetica,sans-serif;">SugarCRM Joins Oracle&reg; PartnerNetwork</a>
-</td>
-	</tr>
-	
-</table>
-
-<table width="175" border="0" cellspacing="0" cellpadding="0">
-	<tr>
-		<th class="latest_buzz">Featured Customer:</th>
-	</tr>
-	<tr>
-		<td class="latest_buzz"><a href="/crm/customers/athenahealth.html" style="color: #777777; FONT: 11px/15px arial,helvetica,sans-serif;">athenahealth</a>, United States
-</td>
-	</tr>
-	
-</table> -->
-
-	    </td>
+	    
 	    <!-- end right  column -->
         
 </tr>
 
-	<tr>
-	    <td bgcolor="#D2D2D2">
-	    </td>
+
+	<tr class="right_corner">
+	    <td class="left_column_corner"><img src="/crm/templates/sugar_2_5/images/tabs/corner_left_column.gif" width="4" height="4" border="0"></td>
 	
-	    <td bgcolor="#E9E9E9" align="center"><!-- <p align="center"><a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=0&amp;t=78" target="_blank"><img border="0" alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/120x60/get.gif"/></a></p>
-	      <p><a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=107819&amp;type=2" width="125" height="37" border="0" alt="SourceForge.net Logo" valign="bottom"/></a> 
-	      </p> --></td>
+	    <td align="right"><img src="/crm/templates/sugar_2_5/images/tabs/corner_right.gif" border="0" width="4" height="4"></td>
 	</tr>
+<tr>
+    <td colspan="2">
+		<table width="800" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>    
+				<td width="4"><img src="/crm/images/content_images/spacer.gif" width="4" height="4" border="0"></td>
+				<td class="footer" width="792">
+<a href="/crm/terms.html">Terms &amp; Conditions</a>  |  <a href="/crm/privacy.html">Privacy</a>  |  <a href="/crm/open-source/trademark-information.html">Trademark Info</a>  | <a href="/crm/about/contact-us.html">Contact Info</a> | <a href="/crm/products/faq.html">FAQs</a> |<!-- <a href="http://www.sugarcrm.com/home/component/option,com_sitemap/">Sitemap</a-->&nbsp;SugarCRM Inc.© 2004 - 2006 All rights reserved.
 
-<tr bgcolor="#646464">
-    <td colspan="3" height="20">
-    	<div align="center">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" class="footer">
-	<tbody><tr>
-	<td align="center" style="background-image: url('http://www.sugarcrm.com/crm/templates/sugar/images/slices/tbar_bg_off.gif'); background-repeat: repeat-x; color: #eeeeee;">
-<a href="/crm/privacy.html" class="footer">Privacy</a>  | <a href="/crm/open-source/trademark-information.html" class="footer">Trademark Info</a>  | <a href="/crm/about/contact-us.html" class="footer">Contact Info</a> | <a href="/crm/products/faq.html" class="footer">FAQs</a><!-- | <a href="http://www.sugarcrm.com/home/component/option,com_sitemap/"  class="footer">Sitemap</a-->
-	<br>SugarCRM Inc.© 2004 - 2006 All rights reserved.</td>
-	</tr>
-</tbody></table>
-
-</div>
 <script language="javascript" type="text/javascript"><!--
 document.write('<s'
 	+ 'cript language=javascript src="'
@@ -590,14 +684,15 @@ function localLink(link) {
 } // localLink
 document.onclick=procClick;
 document.ondblclick=procClick;	//-->
-</script><script language="javascript" src="https://stats.sugarcrm.com/cgi-bin/ctasp-server.cgi?i=sugarcrmcom&amp;fp=1&amp;c="></script>    </td>
-</tr>
-<tr>
-    <td colspan="3" bgcolor="#EA1313"></td>
+</script><script language="javascript" src="https://stats.sugarcrm.com/cgi-bin/ctasp-server.cgi?i=sugarcrmcom&amp;fp=1&amp;c="></script></td>
+				<td width="4"><img src="/crm/images/content_images/spacer.gif" width="4" height="4" border="0"></td>
+			</tr>
+    		</tbody></table>
+    </td>
 </tr>
 
 </tbody></table>
 
 
 
-<!-- 1150771530 --></body></html>
+<!-- 1165348905 --></body></html>
