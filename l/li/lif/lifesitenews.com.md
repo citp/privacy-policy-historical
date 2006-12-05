@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020301id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224753id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
 
 # LifeSite - Your Life, Family and Culture Outpost
 
@@ -46,38 +46,82 @@ If you have any additional questions or concerns about our privacy policy, pleas
 ### NewsBytes
 
 Last Updated  
-2006-06-14 05:32:29 ET
+2006-12-05 05:25:07 ET
 
-[Sidewalk Counselor Helped an Abortionist Find a New Path ](http://www.sdnewsnotes.com/ed/articles/2006/0606rk.htm)
+[Wikipedia Not to be Trusted to Publish Accurate Info on Porn Studies ](http://www.renewamerica.us/columns/abbott/061203)
 
-[Priests persecuted for revealing abuse by confreres: A growing problem in US ](http://catholiccitizens.org/press/pressview.asp?c=33823)
+[Cardinal Mahoney's L.A. Archdiocese to Pay $60 Million to Settle 45 Sex Abuse Cases ](http://www.washingtonpost.com/wp-dyn/content/article/2006/12/01/AR2006120100603.html)
 
-[Feminized 'Schools are letting boys down' ](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/06/13/uboys.xml&sSheet=/news/2006/06/13/ixnews.html)
+[Child-care center warned over 'loving Jesus' songs ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=53201)
 
-[Belgian bishops oppose assisted-procreation law ](http://www.cwnews.com/news/viewstory.cfm?recnum=44725)
+[Turks surprised by Pope, says bishops’ spokesman ](http://www.catholicnewsagency.com/new.php?n=8194)
 
-[Morning-after pill spreading out of control in Spanish schools ](http://www.catholicnewsagency.com/new.php?n=6935)
+[Media Blow it Big Time: Pope Did Not Change Stand on Turkey and EU ](http://www.catholicleague.org/06press_releases/quarter%204/061130_pope_did_not.htm)
 
-[President-elect of Peru pledges “devotion to the Church and service to the people” ](http://www.catholicnewsagency.com/new.php?n=6937)
+[Wave of Anti-Life Bills Expected in New Congress ](http://ncregister.com/site/article/1483/)
 
-[Drive to give 'human' rights to apes leaves Spanish divided ](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/06/10/wapes10.xml&sSheet=/news/2006/06/10/ixnews.html)
+[Democrats Pledge to Make Stem-Cell Bill Top Priority ](http://www.citizenlink.org/CLtopstories/A000003263.cfm)
 
-[Western Standard Publisher Ezra Levant advocates Scrapping Hate Crimes Law ](http://calsun.canoe.ca/News/Columnists/Levant_Ezra/2006/06/12/1626504.html)
+[New U.S. Leadership Numb to the Pain of Abortion ](http://www.frc.org/get.cfm?i=WU06K24)
 
-[Gov. Bush signs bill allowing stillborn children birth certificates ](http://www.orlandosentinel.com/news/local/state/orl-bk-bushbill060906,0,4374979.story?coll=orl-home-headlines)
+[Pro-Lifers, US Election Results Not as Bad as It Looks ](http://ncregister.com/site/article/1495/)
 
-[Corpse-harvesting case drips horror ](http://www.thenewstribune.com/news/nationworld/story/5806637p-5186049c.html)
+[Bush pledges fight against AIDS, promotes abstinence ](http://www.breitbart.com/news/2006/12/01/061201063456.e815ql0i.html)
 
-[The New York Times calls the Polish Government “Bigoted” and Homophobic for upholding life, family and Catholic radio station. ](http://www.nytimes.com/2006/06/11/opinion/11sun2.html?_r=2&oref=slogin&oref=slogin)
+[Pope Benedict's tour of Turkey winds up on Friday looking like across-the-board success for effort to repair battered relations with Turkey's Muslims ](http://in.news.yahoo.com/061201/137/69w3t.html)
 
-[6.06.06 | Is the End At Hand? | An Interview with Michael O’Brien by Valerie Schmalz ](http://www.ignatiusinsight.com/features2006/vschmalz_theend_jun06.asp)
+[St. Nick Ban Causes Stir in Vienna ](http://www.guardian.co.uk/worldlatest/story/0,,-6248278,00.html)
 
-[Quebec scrambles to save its churches - Politicians call for funds to support the province's religious heritage ](http://www.theglobeandmail.com/servlet/story/RTGAM.20060608.wxchurches08/BNStory/National/home)
+[Campaign for a real Christmas: Religious leaders unite against political correctness ](http://www.thisislondon.co.uk/news/article-23376554-details/Campaign+for+a+real+Christmas%253A+Religious+leaders+unite+against+political+correctness/article.do)
 
-[Movie Rated PG - for Christianity, Group Says ](http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200606/CUL20060609a.html)
+[Best Buy Bans Use of Merry Christmas in Advertising ](http://www.afa.net/petitions/issuedetail.asp?id=222)
 
-[Vocations to religious life and priesthood begin with parents ](http://www.sentinel.org/articles/2006-23/14761.html)
+[Spanish school cancels Christmas ](http://today.reuters.co.uk/news/articlenews.aspx?storyid=2006-11-29T171300Z_01_L29524422_RTRIDST_0_OUKOE-UK-CHRISTMAS-CANCELLED.XML&type=oddlyEnoughNews&WTmodLoc=Oddly+Enough-C3-More-2)
 
-[SUMMARY: What senators said during (marriage) debate Monday ](http://www.bpnews.net/bpnews.asp?ID=23400)
+[Santa Claus Deemed Too 'Religious' for School Fundraiser ](http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200611/CUL20061130e.html)
 
-[Coulter: Abortion is Dems' Version of 'Virgin Sacrifice' ](http://www.cnsnews.com/ViewSpecialReports.asp?Page=/SpecialReports/archive/200606/SPE20060606a.html)
+[Atheism, not religion, is the real force behind the mass murders of history ](http://www.csmonitor.com/2006/1121/p09s01-coop.html)
+
+[Gibson's "Apocalypto" exists just to show violence for itself - extremely violent film far surpasses violence in "The Passion of Christ" ](http://www.foxnews.com/story/0,2933,233518,00.html)
+
+[We are going to need a great outbreak of grace to navigate the next difficult months - Peggy Noonan ](http://www.opinionjournal.com/columnists/pnoonan/)
+
+[Call Me Mrs.: A Journey from Feminism to Common Sense ](http://www.gilbertmagazine.com/page_26.html)
+
+[Split-Shift Parenting Bad for Families ](http://www.citizenlink.org/CLNews/A000003262.cfm)
+
+[More Muslims gaining political ground in U.S. ](http://www.msnbc.msn.com/id/15958637/)
+
+[Muslim Congressman Won't Use Koran When Taking Oath of Office ](http://www.cnsnews.com/ViewPolitics.asp?Page=/Politics/archive/200612/POL20061201a.html)
+
+[Court Upholds Ballot Initiative to Save Mt. Soledad Cross ](http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200612/CUL20061201a.html)
+
+[British Catholic Archbishop Rebukes Government for Marginalising Morality ](http://www.christiantoday.com/article/catholic.archbishop.rebukes.government.for.marginalising.morality/8550.htm)
+
+[Chinese Bishops loyal to the Pope detained, forced to take part in unlawful ordination ](http://www.asianews.it/view.php?l=en&art=7884)
+
+[Bishop escapes from abductors to avoid participating in an ordination not allowed by the Holy See ](http://www.asianews.it/view.php?l=en&art=7892)
+
+[Episcopal ordination in Xuzhou is “indecent and astounding”, says Cardinal Zen ](http://www.asianews.it/view.php?l=en&art=7893)
+
+[The bishops of America want to improve the quality of hymns sung in church. ](http://ncregister.com/site/article/1480/)
+
+[The infiltration of New Age practices into convents and retreat houses operated by Catholic nuns ](http://www.spiritdaily.com/newagefolo1.htm)
+
+[Neo-conservatism at the Vatican? Kissinger to become Political Adviser to Pope Benedict XVI ](http://www.globalresearch.ca/index.php?context=viewArticle&code=20061130&articleId=4022)
+
+[Company's Income drops as Christians publicize 'gay' Wal-Mart ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=53170)
+
+[Why Gays Are Not Permitted to Be 'Pro-Choice' ](http://www.townhall.com/Columnists/KevinMcCullough/2006/11/26/why_gays_can_not_be_pro-choice)
+
+[A 70 per cent jump in new HIV/AIDS cases in Shanghai ](http://www.asianews.it/view.php?l=en&art=7883)
+
+[Ford 'Proves' Commitment To Homosexual Agenda ](http://www.afa.net/aa112806.asp)
+
+[Gaia scientist Lovelock predicts planetary wipeout ](http://today.reuters.com/news/articlenews.aspx?type=scienceNews&storyid=2006-11-28T153508Z_01_L28841108_RTRUKOC_0_US-EARTH-FEVER.xml&src=rss&rpc=22)
+
+[China forces bishops to join in illicit ordination ](http://www.cwnews.com/news/viewstory.cfm?recnum=47912)
+
+  
+  
+
