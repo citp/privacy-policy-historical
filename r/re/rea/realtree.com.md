@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtree.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630073304id_/http%3A//www.realtree.com/about/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtree.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233252id_/http%3A//www.realtree.com/about/privacy.tpl) for the most accurate reproduction.*
 
 # Privacy Policy - Realtree.com
 
