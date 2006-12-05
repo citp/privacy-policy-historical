@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613053153id_/http%3A//www.site5.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220009id_/http%3A//www.site5.com/support/privacy.php) for the most accurate reproduction.*
 
 # Site5 General Purpose Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy policy governs the manner in which Site5 uses, maintains and disclo
 
 ## 1\. Privacy
 
-Site5 is committed to developing long lasting relationships based on trust. As such, Site5 will do everything in its power to ensure that your right to privacy is maintained and protected.  Our Services are not directed at children under 13 years of age.
+Site5 is committed to developing long lasting relationships based on trust. As such, Site5 will do everything in its power to ensure that your right to privacy is maintained and protected. �Our Services are not directed at children under 13 years of age.
 
 ## 2\. Information We Collect
 
