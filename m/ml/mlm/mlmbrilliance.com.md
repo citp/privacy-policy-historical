@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217110814id_/http%3A//mlmbrilliance.com/privacy.cfm%3F%26CFID%3D1188889%26CFTOKEN%3D39371963%26SID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231932id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
-# PRIVACY POLICY - MLM Brilliance [United States]
+# Privacy Policy
 
-| 
+[](http://www.mlmbrilliance.com/about-tim-sales.cfm)  
+Hi, I'm [Tim Sales](http://www.mlmbrilliance.com/about-tim-sales.cfm) and I want to help you to expand your network marketing business.
 
-Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable using our site. 
+|  | 
 
-  MLM Brilliance believes that your personal information -- including your purchases, email and residential addresses, and credit card data -- belongs to you. We collect this type of information when you provide it to us, but we do not rent or sell information concerning our customers to third parties. We may partner with other reputable organizations whose products or services we think you might find interesting, but we will never share your personal information with these organizations unless you give us permission to do so. 
+Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable using our site.
 
-  **How We Use The Information Collected**
+MLM Brilliance believes that your personal information -- including your purchases, email and residential addresses, and credit card data -- belongs to you. We collect this type of information when you provide it to us, but we do not rent or sell information concerning our customers to third parties. We may partner with other reputable organizations whose products or services we think you might find interesting, but we will never share your personal information with these organizations unless you give us permission to do so.
 
-  During your visit to MLM Brilliance we collect the following information to be stored in our system: 
+**How We Use The Information Collected**
+
+During your visit to MLM Brilliance we collect the following information to be stored in our system:
 
   * Your e-mail address and password that provide access to special areas of our web site where you can streamline your shopping experience. 
   * Your shipping and billing address for orders. 
@@ -21,8 +24,23 @@ Privacy is a primary concern today, on and off the Internet. We are aware of the
 
 **What about cookies?**
 
-  MLM Brilliance uses a technology called "cookies" to remember you and the information you are saving, such as your shipping address. When you visit MLM Brilliance, we send you back a cookie, a small text file that includes a temporary inquiry number, your IP address, plus any items you've chosen. Your web browser has a special folder on your computer where it keeps cookies. Cookies cannot harm your computer in any way. Only the website that places a cookie on your computer can read it; no other website may access the cookie MLM Brilliance places on your computer. 
+MLM Brilliance uses a technology called "cookies" to remember you and the information you are saving, such as your shipping address. When you visit MLM Brilliance, we send you back a cookie, a small text file that includes a temporary inquiry number, your IP address, plus any items you've chosen. Your web browser has a special folder on your computer where it keeps cookies. Cookies cannot harm your computer in any way. Only the website that places a cookie on your computer can read it; no other website may access the cookie MLM Brilliance places on your computer.
 
-  **Security**
+**Security**
 
-  Ensuring secure online ordering is an important part of our pledge to honor your privacy. MLM Brilliance utilizes SSL (secure socket layers) to protect your credit card information. SSL encrypts all ordering information, such as your name and credit card number, so that it cannot be read in transit. When you place an order with MLM Brilliance your credit card information is captured and stored separately from your order, so that it cannot be read by anyone other than our customer service staff. 
+Ensuring secure online ordering is an important part of our pledge to honor your privacy. MLM Brilliance utilizes SSL (secure socket layers) to protect your credit card information. SSL encrypts all ordering information, such as your name and credit card number, so that it cannot be read in transit. When you place an order with MLM Brilliance your credit card information is captured and stored separately from your order, so that it cannot be read by anyone other than our customer service staff. 
+
+|  | 
+
+#### Testimonials to the Success of _Brilliant Compensation_
+
+Thank you very much Tim!!  
+I began using the Brilliant Compensation® online program almost a year ago and my results have truly been unbelievable. I was just named a top sponsor in my company last week, so I know it's working.  
+The beauty of using this system is that **I no longer have to overcome the objection of Network Marketing. This NEVER even comes up!** Using the power of the Internet and the tools available, such as Brilliant Compensation®, my sponsoring efforts have gone through the roof!  
+I'm sold on the power of this system and intend to keep this program in my arsenal!  
+\- Jackie U.
+
+Before using these movies, my group had one out of every 40 visitors to our website request further information about our business. **Now, since we have added the movies, we have one out of every 12 visitors request more information. That's a 333% increase!"**  
+\- V.Z.
+
+More Testimonials
