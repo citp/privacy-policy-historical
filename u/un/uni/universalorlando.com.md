@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalorlando.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033515id_/http%3A//www.universalorlando.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalorlando.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224755id_/http%3A//www.universalorlando.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Universal Studios Orlando Resort & Theme Park - Florida Vacation
 
