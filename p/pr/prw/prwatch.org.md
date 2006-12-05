@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022231id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224541id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Media and Democracy
 
