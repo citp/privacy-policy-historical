@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gerber.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615204558id_/http%3A//gerber.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gerber.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205210704id_/http%3A//www.gerber.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -22,6 +22,7 @@
 
 	<link rel="STYLESHEET" type="text/css" href="http://www.gerber.com:80/content/usa/css/style.css">
 	
+	<script src="http://www.gerber.com:80/content/usa/js/loadevent.js"></script>
 	<script src="http://www.gerber.com:80/content/usa/js/script.js"></script>
 	<script>
 	<!--
@@ -50,10 +51,10 @@
 		
 			
 		
-		var whatsright_on = new Image();
-		whatsright_on.src = "http://www.gerber.com:80/content/usa/images/nav/top/whatsright_on.gif";
-		var whatsright_off = new Image();
-		whatsright_off.src = "http://www.gerber.com:80/content/usa/images/nav/top/whatsright_off.gif";
+		var map_on = new Image();
+		map_on.src = "http://www.gerber.com:80/content/usa/images/nav/top/whatsright_on.gif";
+		var map_off = new Image();
+		map_off.src = "http://www.gerber.com:80/content/usa/images/nav/top/whatsright_off.gif";
 		
 			
 		
@@ -128,13 +129,14 @@
 	<!--
 		function doOnLoad()
 		{
+			if (LoadEvent) LoadEvent.exec();
 			var dummyVar = 1;
 			
 		}
 	//-->
 	</script>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="return doOnLoad()">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="doOnLoad();">
 <a name="top" id="top"></a>
 
 
@@ -169,11 +171,11 @@
 			
 		
 		
-		<a class="gheadnav" href="/contactus" name="/images/nav/top/contact">Contact Us</a>
+		<a href="/contactus" class="gheadnav" name="/images/nav/top/contact">Contact Us</a>
 			
 		 | 
 		
-		<a class="gheadnav" href="/register" name="/images/nav/top/register">Sign Up/Login</a>
+		<a href="/register" class="gheadnav" name="/images/nav/top/register">Sign Up/Login</a>
 	
 	</div>
     </td>
@@ -209,7 +211,7 @@
 		
 		
 		
-			<td><a href="/tipsandtools" onmouseover="changeImg('whatsright', 'on');" onmouseout="changeImg('whatsright', 'off');"><img src="http://www.gerber.com:80/content/usa/images/nav/top/whatsright_off.gif" alt="Tips and Tools" border="0" name="whatsright"></a></td>
+			<td><a href="/tipsandtools" onmouseover="changeImg('map', 'on');" onmouseout="changeImg('map', 'off');"><img src="http://www.gerber.com:80/content/usa/images/nav/top/whatsright_off.gif" alt="Tips and Tools" border="0" name="map"></a></td>
 		
 			
 		
@@ -350,9 +352,8 @@
 	<td><a href="/storelocator"><img src="http://www.gerber.com:80/content/usa/images/storelocator.gif" width="162" height="57" border="0"></a></td>
 </tr>
 </tbody></table>
-
-
-	</form></td>
+</form>
+	</td>
 	<td valign="top" width="590">
 		<table width="590" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -661,9 +662,9 @@ If you have any queries or complaints about our compliance with this Privacy Pol
 	 <font size="-2">|</font> 
 	<a href="/map" name="/images/nav/footer/map"><span style="font: 9px Verdana; color:#000077; text-decoration:none;">Site Map</span></a>
 
-&nbsp;&nbsp;&nbsp;<span style="font: 9px Verdana; color:#000077;><span style=" font:="" 11px="" verdana;="" color:#666666"="">© 2006</span>
-</center>
-
-
+&nbsp;&nbsp;&nbsp;<span style="font: 9px Verdana; color:#000077;"><span style="font: 11px Verdana; color:#666666">© 2006</span>
+</span></center>
+<!--</body>
+</html>-->
 
 </body></html>
