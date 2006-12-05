@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204172639id_/http%3A//hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205050015id_/http%3A//www.hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
 
-# The Holland Sentinel - Privacy Policy
+# HollandSentinel.com - Your local online source for news and information.
 
-** **The Holland Sentinel Privacy Policy    
-The Holland Sentinel is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Hollandsentinel.com, we intend to give you as much control as possible over your personal information.
+## Holland Sentinel Privacy Policy
+
+The Holland Sentinel is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Wowcom.net, we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -29,7 +30,7 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to hollandsentinel.com [Webmaster](mailto:webadmin@sentinelnet.com), or you can reach us by telephone at 616-392-2311. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to wowcom.net Webmaster, or you can reach us by telephone at 616-392-2311. You can also write us at:
 
 The Holland Sentinel  
 54 W. 8th Street  
@@ -43,8 +44,9 @@ We use our best efforts to ensure the security of personal information submitted
 
 **VI. Opting-out**
 
-At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s)). For further information about opting-out, contact us at the e-mail addresses, postal addresses or telephone numbers stated above.
+Your choice to opt out   
+The quality news and information on HollandSentinel.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we will sometimes send e-mail about services, features, products, special offers and unique content we believe might interest you on behalf of our advertising and promotional partners. If you prefer not to receive e-mail communications sent from us on behalf of our advertisers and promotional partners, you will be given an opportunity to opt out from receiving any more emails. Opting out will revoke your membership to HollandSentinel.com. As a registered member of HollandSentinel.com, you agree to receive emails from us on behalf of our advertisers.
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at webadmin@sentinelnet.com.
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at hnagel@sentinelnet.com.
