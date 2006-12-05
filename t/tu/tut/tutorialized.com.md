@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialized.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619154611id_/http%3A//www.tutorialized.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialized.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220427id_/http%3A//www.tutorialized.com/privacy.php) for the most accurate reproduction.*
 
 # Photoshop Tutorials and Flash Tutorials
 
