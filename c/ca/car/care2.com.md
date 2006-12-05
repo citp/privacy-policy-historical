@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205312id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202955id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
 
 # Care2 Help Center
 
@@ -126,7 +126,7 @@ Care2 will only disclose your personal information when we believe in good faith
 
 **How do I change my personal information?**
 
-To make changes to your name, password, address, subscriptions and other account information, simply log in to your account and click on the " [ My Account](https://web.archive.org/accounts/manageaccount.html) " link. Select the appropriate function(s) to make your desired change(s). For other changes to your account, please send an email, from the email account you have on file with Care2, to  support@earth.care2.com . 
+To make changes to your name, password, address, subscriptions and other account information, simply log in to your account and click on the " [ My Account](https://web.archive.org/accounts/manageaccount.html) " link. Select the appropriate function(s) to make your desired change(s). For other changes to your account, please send an email, using our [Help Form](http://www.care2.com/help/support) detailing the changes you wish to make to your account. 
 
 * * *
 
