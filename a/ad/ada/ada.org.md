@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200443id_/http%3A//www.ada.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193631id_/http%3A//www.ada.org/privacy.asp) for the most accurate reproduction.*
 
 # ADA.org: Privacy Policy
 
@@ -21,9 +21,7 @@ You may contact us about this Privacy Policy:
 
 Via postal address 211 E. Chicago Ave.  
 Chicago, IL 60611   
-By e-mail [online@ada.org](mailto:online@ada.org)  
-By telephone 312-440-2601   
-By facsimile 312-440-2800 
+By e-mail [online@ada.org](mailto:online@ada.org)
 
 Return to Top
 
