@@ -1,13 +1,7 @@
-<!--The following is the downloaded HTML source of the funjet.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211642id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funjet.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205232847id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-var fgn_expDate=new Date(),fgn_cookieTTL=600000,fgn_PostUrl="/fgn/perfmon/fgn_post.html",fgn_ResponseId="0z41v2mgs5zbgqqla0agjzcrkb305",fgn_appscopeMode="no-measure";
-</script>
-<script language="Javascript" src="/fgn/perfmon/fgn_appscopebpcz0xip1nixpuzq1rebrwqyab.js"></script>
- 
-
-<script language="javascript">
+<html><head><script language="javascript">
 <!--
 
 // apppends a query string to the href of a link
@@ -50,6 +44,7 @@ function BodyLoadHandler()
 		//                Searching for xmlFile in the querystring to determine that we are on a blob page
 		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1)&&(workString.indexOf(".htm") == -1)&&(workString.indexOf(".html") == -1)&&(workString.indexOf("funjet") != -1)) {
 			
+			
 		}
 		
 		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1)&&(workString.indexOf("#") == -1)&&(workString.indexOf(".htm") == -1)&&(workString.indexOf(".html") == -1)&&(workString.indexOf("funjet") != -1)) {
@@ -69,9 +64,11 @@ function BodyLoadHandler()
 					if (workString.indexOf("OAC") == -1) {
 						document.links[ix].href = document.links[ix].href + "&OAC=" + OAC.substring(0, 3);
 					}
+					
 					if (workString.indexOf("plCode") == -1) {
 						document.links[ix].href = document.links[ix].href + "&plCode=" + plCode;
 					}
+					
 				}
 			} else {
 				if (workString.indexOf("#") != -1) {
@@ -90,6 +87,390 @@ function BodyLoadHandler()
 		}
 	}	
 }
+
+// START 06/12/06 - Kreis/Rhines
+//goal of resolving issue of plcodes dropping for low bandwidth users
+
+//assign an event handler for any click on the document		
+document.onclick = handleDocumentClick;
+
+function getTargetString(e)
+{
+	var targ, targStr;
+	
+	if (!e) 
+	{
+		var e = window.event;
+	}
+	
+	if (e.target) 
+	{
+		targ = e.target;
+	}
+	else if (e.srcElement) 
+	{	
+		targ = e.srcElement;
+	}
+	
+	if (targ.nodeType == 3) 
+	{ // defeat Safari bug
+		targ = targ.parentNode;
+	}
+	
+	targStr = targ.toString();
+	
+	return targStr;
+}
+
+function handleDocumentClick(e)
+{
+	var thisTargStr = getTargetString(e);
+	var plCode = "";
+	var thisGetPlCode = "";
+	var newHrefWithPlCode = "";
+
+	/* if a link is clicked, the "e" returned represents
+		the full href of the link. Thus the event target of
+		<a href="index.asp"... on www.funjet.com is 
+		http://www.funjet.com/index.asp
+	*/
+	
+	if ( thisTargStr.indexOf("http:\/\/") != -1 )
+	{ // it's a link
+	
+		if ( thisTargStr.indexOf("plCode=") == -1 )
+		{
+			appendPLCode(thisTargStr);
+			
+			if (window.event) 
+			{ 
+				window.event.cancelBubble = true; 
+				window.event.returnValue = false; 
+			} 
+			
+			if (e && e.preventDefault && e.stopPropagation) 
+			{ 
+				e.preventDefault(); 
+				e.stopPropagation(); 
+			}
+		}
+		
+		// check to see if plCode var is present in qs
+		// but doesn't have a value
+		else if ( thisTargStr.indexOf("plCode=") != -1 )
+		{
+			thisGetPlCode = getPlCode(thisTargStr);
+			
+			if( thisGetPlCode == "null" )
+			{
+				newHrefWithPlCode = insertPlCode(thisTargStr, plCode);
+				REDIRECT(thisTargStr);
+			}
+		}
+		
+		else {
+			return;
+		}
+		
+	}
+	else {
+		return;
+	}
+}
+
+function appendPLCode(thisHref)
+{
+	//alert("appendPLCode called");
+
+	var plCode, qsPlCode;	
+	plCode = "";
+	qsPlCode = getPlCode(thisHref);
+	
+	var thisHash = "";
+	var newLoc = "";
+	
+	if ( (thisHref.indexOf("?") == -1) && (thisHref.indexOf("plCode=") == -1) ) 
+	{
+		if ( thisHref.indexOf("#") != -1 )
+		{
+			thisHash = getHash(thisHref);
+			thisHref = removeHash(thisHref);
+			newLoc = thisHref + "?plCode=" + plCode + thisHash;
+		}
+		else {
+			newLoc = thisHref + "?plCode=" + plCode;
+		}
+		
+		REDIRECT(newLoc);
+	}
+	
+	else if ( (thisHref.indexOf("plCode=") == -1) && (thisHref.indexOf("?") != -1) )
+	{
+		if ( thisHref.indexOf("#") != -1 )
+		{
+			thisHash = getHash(thisHref);
+			thisHref = removeHash(thisHref);
+			newLoc = thisHref + "&plCode=" + plCode + thisHash;
+		}
+		else {
+			newLoc = thisHref + "&plCode=" + plCode;
+		}
+		
+		REDIRECT(newLoc);
+	}
+}
+
+function REDIRECT(loc)
+{
+	location = loc;
+}
+
+
+// END 06/12/06 - Kreis/Rhines
+
+// BEGIN 06/28/06 - Kreis
+// find and return url hash (bookmark)
+
+function getHash(str)
+{
+	var workString = str;
+	
+	if (workString.indexOf("#") != 1) 
+	{
+		var beginHash = workString.indexOf("#");
+		var hashSubstring = workString.substring(beginHash);
+		
+		var isAmpAfterHash = hashSubstring.indexOf("&");
+		
+		if(isAmpAfterHash != -1){
+			// if an ampersand appears AFTER the hash character,
+			// hashSubstring is string between beginning of 
+			// hashSubstring and first ampersand occurrence
+			hashSubstring = hashSubstring.substring(0,isAmpAfterHash);
+			//alert("there is an ampersand after the hash character");
+		}
+		
+		//alert(hashSubstring);
+		return(hashSubstring);
+	}
+}
+
+function removeHash(str)
+{
+	var workString = str;
+	
+	if (workString.indexOf("#") != 1) 
+	{
+		var beginHash = workString.indexOf("#");
+		var hashSubstring = workString.substring(beginHash);
+		var returnStr = "";
+		
+		var isAmpAfterHash = hashSubstring.indexOf("&");
+		
+		if(isAmpAfterHash != -1){
+			// if an ampersand appears AFTER the hash character,
+			// hashSubstring is string between beginning of 
+			// hashSubstring and first ampersand occurrence
+			hashSubstring = hashSubstring.substring(0,isAmpAfterHash);
+			//alert("there is an ampersand after the hash character");
+		}
+		
+		var beginReturnStr = workString.substring(0,workString.indexOf(hashSubstring));
+		//alert(beginReturnStr);
+		
+		var endReturnStr = workString.substring(workString.indexOf(hashSubstring) + hashSubstring.length);
+		//alert(endReturnStr);
+		
+		var returnStr = beginReturnStr + endReturnStr;
+		
+		//alert(returnStr);
+		return(returnStr);
+	}
+}
+
+// returns plCode value from URL if present, "null" if plCode is in the QS but has no value,
+// and noVar if plCode is not in the query string at all
+function getPlCode(str)
+{
+	var workString = str;
+	var workStringLcase = workString.toLowerCase();
+	var workStringLcaseLen = workStringLcase.length;
+	var strAfterPlCode = "";
+	var strLenBeforeActualPlCode = 0;
+	var returnPlCode = "";
+	var qsVarPlCodeStrLen = "plcode=".length;
+	var qsVarPlCodeIdxOf = workStringLcase.indexOf("plcode=");
+	var qsPlCode = "";
+	
+	// is there an ampersand after plCode?
+	var isAmpAfterPlCode = false;
+	var ampAfterPlCodeIdxOf;
+	var ampFirst;
+	
+	// is there a # after plCode?
+	var isHashAfterPlCode = false;
+	var hashAfterPlCodeIdxOf;
+	
+	if ( qsVarPlCodeIdxOf != -1 )
+	{
+		lenBeforeActualPlCode = qsVarPlCodeIdxOf + qsVarPlCodeStrLen;
+		
+		strAfterPlCode = workStringLcase.substring(lenBeforeActualPlCode);
+		
+		if ( strAfterPlCode.length > 0 ) // there is something after plCode in query string
+		{ 
+			// check if contains &
+			if ( strAfterPlCode.indexOf("&") != -1 )
+			{
+				isAmpAfterPlCode = true;
+				ampAfterPlCodeIdxOf = strAfterPlCode.indexOf("&");
+			}
+			
+			// check if contains #
+			if ( strAfterPlCode.indexOf("#") != -1 )
+			{
+				isHashAfterPlCode = true;
+				hashAfterPlCodeIdxOf = strAfterPlCode.indexOf("#");
+			}
+			
+			// check which char comes first 
+			if ( isHashAfterPlCode && isAmpAfterPlCode )
+			{
+				ampFirst = ( ampAfterPlCodeIdxOf < hashAfterPlCodeIdxOf ) ? true : false;
+			}
+			else if ( isAmpAfterPlCode && !isHashAfterPlCode )
+			{
+				ampFirst = true;
+			}
+			else if ( !isAmpAfterPlCode && isHashAfterPlCode )
+			{
+				ampFirst = false;
+			}
+			else {
+				ampFirst = false;
+			}
+			
+			if ( ampFirst ) // an ampersand is the closing character after plCode
+			{
+				qsPlCode = workStringLcase.substring(lenBeforeActualPlCode,(lenBeforeActualPlCode + ampAfterPlCodeIdxOf));
+			}
+			else if ( !ampFirst && isHashAfterPlCode) // a hash symbol is the closing character after plCode
+			{
+				qsPlCode = workStringLcase.substring(lenBeforeActualPlCode,(lenBeforeActualPlCode + hashAfterPlCodeIdxOf));
+			}
+			else 
+			{ 	// plCode is the last query string variable
+				qsPlCode = workStringLcase.substring(lenBeforeActualPlCode);
+			}
+			
+			// if the space between the appearance of "plCode=" and an "&" or "#" is 0 
+			// then the value for plCode is empty
+			if ( qsPlCode == "" )
+			{
+				qsPlCode = "null";
+			}
+		}
+		else {
+			// plCode is present in the query string, but has no value; 
+			// there is no string after plCode variable
+			qsPlCode = "null";
+		}
+	}
+	else {
+		qsPlCode = "noVar";
+	}
+	
+	returnPlCode = qsPlCode;
+	
+	//DEBUG
+	//alert("function getPlCode() will return: " + returnPlCode);
+	
+	return(returnPlCode);
+}
+
+
+function insertPlCode(str, thePlCode)
+{
+	var workString = str;
+	var workStringLcase = workString.toLowerCase();
+	var qsVarPlCodeStrLen = "plcode=".length;
+	var qsVarPlCodeIdxOf = workStringLcase.indexOf("plcode=");
+	
+	var lenBeforePlCode = 0;
+	var strBeforePlCode = "";
+	var strAfterPlCode = "";
+	
+	var lenBeforePlCodeVar = 0;
+	var strBeforePlCodeVar = "";
+	var strAfterPlCodeVar = "";
+	
+	var isHash = false;
+	var thisHash = "";
+	
+	var returnStrHrefWithPlCode = "";
+
+	var thisGetPlCode = getPlCode(workString);
+	
+	if ( thisGetPlCode == "null" )
+	{
+		lenBeforePlCode = qsVarPlCodeIdxOf + qsVarPlCodeStrLen;
+		strBeforePlCode = workStringLcase.substring(0,lenBeforePlCode);
+		strAfterPlCode = workStringLcase.substring(lenBeforePlCode);
+		
+		// construct return string with plCode sammiched in place
+		returnStrHrefWithPlCode = strBeforePlCode + thePlCode + strAfterPlCode;
+	}
+	
+	else if ( thisGetPlCode == "noVar" )
+	{
+		// plug in "plCode=" and plCode value directly behind the beginning of query string (?)
+		// if no question mark, add that too.
+		
+		if ( workStringLcase.indexOf("#") != -1 )
+		{
+			isHash = true;
+			thisHash = getHash(workString);
+			workStringLcase = removeHash(workString);
+		}
+		
+		if ( workStringLcase.indexOf("?") != -1 ) 
+		{
+			if ( !isHash )
+			{	// construct return string with plCode var, plCode value, and ampersand
+				returnStrHrefWithPlCode = workStringLcase + "&plCode=" + thePlCode;
+			}
+			else {
+				// tack hash back on to end of workString
+				returnStrHrefWithPlCode = workStringLcase + "&plCode=" + thePlCode + thisHash;
+			}
+			
+		}
+		else {
+			// query string does not exist
+			if ( !isHash )
+			{	// construct return string with plCode var, plCode value, and ampersand
+				returnStrHrefWithPlCode = workStringLcase + "?plCode=" + thePlCode;
+			}
+			else {
+				// tack hash back on to end of workString
+				returnStrHrefWithPlCode = workStringLcase + "?plCode=" + thePlCode + thisHash;
+			}
+		}
+	}
+	
+	else {
+		// plCode is already in URL with value, so simply echo back incoming URL argument
+		returnStrHrefWithPlCode = workStringLcase;
+	}
+	
+	//DEBUG
+	//alert(returnStrHrefWithPlCode);
+	
+	return(returnStrHrefWithPlCode);
+}
+
+// END 06/28/06 - Kreis
+
 window.onload = BodyLoadHandler;
 window.onUnload = BodyLoadHandler;
 
@@ -101,13 +482,12 @@ window.onUnload = BodyLoadHandler;
 
 
 
-			<title>Funjet Vacations - Privacy Policy</title>
+			<title>Privacy Policy - Funjet Vacations - Customer Information Privacy Protection</title>
 			<meta name="Description" content="At Funjet Vacations, we believe that it is important to protect the privacy of our customers. This privacy policy helps you understand the ways in which your personal information is gathered and used on the www.Funjet.com website.">
-			<meta name="KeyWords" content="privacy policy, information security, child privacy, opt-in, contact Funjet, Funjet vacations, Funjet.com, Funjet, Funjet.com">
+			<meta name="KeyWords" content="privacy policy, information security, child privacy, opt-in, funjet privacy policy, funjet information security">
 		
 <link rel="shortcut icon" href="http://www.funjet.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/IFJ_Prod_FineGround_fu1tnj5by3myhukdpaf5ler52_FGN_V01.css">
-
+<link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/IFJ_Prod.css">
 
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
@@ -183,10 +563,7 @@ var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + 
 document.write(pm_tag);
 // -->
 </script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=C07AVPHD7ILLCM2B78CVG78KJ4"></script>
-<script>
-var rnd=Math.round(Math.random()*10000000); 
-document.write("<scr"+"ipt src='http://c4.maxserving.com/ecb.js?advid=1381&list=homepage&type=ec&pageId="+rnd+"'>"); 
-</script><script src="http://c4.maxserving.com/ecb.js?advid=1381&amp;list=homepage&amp;type=ec&amp;pageId=8591140"> 
+ 
 
 <script language="javascript">
 function submitpage(TEMPAgent2,zip, TEMPManager3)
@@ -250,7 +627,7 @@ if (OAS_version >= 11)
 
 
 //-->
-</script><script language="JavaScript1.1" src="http://adserver.triseptsolutions.com/RealMedia/ads/adstream_mjx.cgi/www.funjet.com/cs/privacy.asp/1850112494@Footer,?_RM_HTML_plCode_=&amp;_RM_HTML_Referrer_="></script><script language="JavaScript">
+</script><script language="JavaScript1.1" src="http://adserver.triseptsolutions.com/RealMedia/ads/adstream_mjx.cgi/www.funjet.com/cs/privacy.asp/1560637818@Footer,?_RM_HTML_plCode_=&amp;_RM_HTML_Referrer_="></script><script language="JavaScript">
 <!--
 document.write('');
 function OAS_AD(pos) {  
@@ -310,7 +687,9 @@ function OAS_AD(pos) {
 	.header strong { color:#FFCC33; font-weight: bold; text-decoration:none; }
 	.header b { color:#FFCC33; font-weight: bold; text-decoration:underline; }
 	
-</style></head>
+</style><script language="JavaScript">
+var TZpopup = true;
+</script></head>
 <!------ OAS SETUP begin ------>
 
 
@@ -319,25 +698,30 @@ function OAS_AD(pos) {
 <!-- REFERENCE FOR CSS IMAGE ROLLOVERS: http://www.alistapart.com/articles/sprites/ -->
 
 
+
+
 <body bgcolor="#077BB4">
 <!-- START REQUIRED FOR DHTML TOOL TIPS -->
 <div id="dhtmltooltip"></div>
 <!-- END REQUIRED FOR DHTML TOOL TIPS -->
 
-<script type="text/javascript" src="http://www.funjet.com/includes/ifj_FineGround_ppf3re4zvxwjfww25mcnfd2ci_FGN_V01.js"></script>
+<script type="text/javascript" src="http://www.funjet.com/includes/ifj.js"></script>
+
 
 
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="185">
 			
-				<a href="http://www.funjet.com/index.asp" name="&amp;lid=HomeLogo" id="HomeLogo" onmouseover="window.status='Home';return true" onmouseout="window.status='';return true"><img src="http://www.funjet.com/images/IFJ_logo_header_FineGround_43tvsn0cf24j13ddq2cjbqlbz_FGN_V01.gif" width="185" height="80" border="0" alt="Funjet Vacations"></a></td>
+				<a href="http://www.funjet.com/index.asp" name="&amp;lid=HomeLogo" id="HomeLogo" onmouseover="window.status='Home';return true" onmouseout="window.status='';return true"><img src="http://www.funjet.com/images/IFJ_logo_header.gif" width="185" height="80" border="0" alt="Funjet Vacations"></a></td>
 			<td align="right" valign="bottom" class="header">
 		
 				
 						<strong style="color: #FFCC33">New Guest?</strong> <a href="http://reservations.funjet.com/profiles/login.aspx"><b>Start Here for Personalized Deals</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
 				
-					<a href="http://reservations.funjet.com/profiles/login.aspx" onmouseover="window.status='Sign-In';return true" onmouseout="window.status='';return true">Sign-In</a>
+					<!-- NWZ 08/16/08 Begin : Sign-in is not a secure link -->
+					<!--<a href="http://reservations.funjet.com/profiles/login.aspx" onMouseOver="window.status='Sign-In';return true" onMouseOut="window.status='';return true">Sign-In</a> -->
+					<a href="https://reservations.funjet.com/profiles/login.aspx" onmouseover="window.status='Sign-In';return true" onmouseout="window.status='';return true">Sign-In</a>
 				
 				<br><br><br>
 				<a href="http://www.funjet.com/cs/cres.asp" name="&amp;lid=My_Vacations" id="My_Vacations" onmouseover="window.status='My Vacations';return true" onmouseout="window.status='';return true">My Vacations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/cs/FlightSchedule.asp" name="&amp;lid=Flight_Schedule" id="Flight_Schedule" onmouseover="window.status='Flight Schedule';return true" onmouseout="window.status='';return true">Flight Schedule</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/agents/index.asp" onmouseover="window.status='Recommended Agents';return true" onmouseout="window.status='';return true">Recommended Agents</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/cs/index.asp" name="&amp;lid=CustomerService" id="Customer_Service" onmouseover="window.status='Customer Service';return true" onmouseout="window.status='';return true">Help / Customer Service</a></td>
@@ -358,7 +742,7 @@ function OAS_AD(pos) {
 			
 		<td align="right" width="64">
 			
-				<img src="http://www.funjet.com/images/navigation_quickfind_FineGround_kdrzjq50zrgrzlw0gm5q2n501_FGN_V01.gif" width="64" height="30" border="0" alt="QuickFind"></td>
+				<img src="http://www.funjet.com/images/navigation_quickfind.gif" width="64" height="30" border="0" alt="QuickFind"></td>
 			
 		<td align="right" width="100">
 			
@@ -367,7 +751,7 @@ function OAS_AD(pos) {
 			</form></td>
 		<td align="right" width="46">
 			
-				<input type="image" src="http://www.funjet.com/images/navigation_button_go_FineGround_i2ccvlw01r23uxkdodtv4lk4q_FGN_V01.gif" border="0" width="34" height="30" value="" id="BookNow" name="GO" alt="GO"><img src="http://www.funjet.com/images/IFJ_navigation_rightcurve_FineGround_fezjwdaig2gbaqonu2ncjypkc_FGN_V01.gif" width="12" height="30" border="0" alt=""></td>
+				<input type="image" src="http://www.funjet.com/images/navigation_button_go.gif" border="0" width="34" height="30" value="" id="BookNow" name="GO" alt="GO"><img src="http://www.funjet.com/images/IFJ_navigation_rightcurve.gif" width="12" height="30" border="0" alt=""></td>
 			
 	</tr>
 </tbody></table>	
@@ -468,17 +852,15 @@ function OAS_AD(pos) {
 <table width="770" border="0" cellspacing="0" cellpadding="0" class="white">
 	<tbody><tr>
 		<td width="100%" bgcolor="#F0A607" height="5">
-			<img src="http://www.funjet.com/images/spacer_FineGround_gjkheyavohzr2g5qaz0mg0gtg_FGN_V01.gif" width="" height="5" border="0" alt=""></td>
+			<img src="http://www.funjet.com/images/spacer.gif" width="" height="5" border="0" alt=""></td>
 	</tr>
 	
 		<tr align="center">
 			<td class="borderT">
-				<!--<a href="http://www.funjet.com/specials/fs0336.asp?"><img src="http://www.funjet.com/images/new_featured_images/760x40_fs0336_index.gif" width="760" height="40" border="0" alt="ALL THE WORLDS A PLATE" /></a>-->
+				<a href="http://www.funjet.com/destinations/partners_karisma.asp"><img src="http://www.funjet.com/images/new_featured_images/karisma_760x40.gif" width="760" height="40" border="0" alt="Karisma Resorts"></a>
 <!------ OAS AD 'Footer' begin ------>
 				<script language="JavaScript">
-					<!--
-						OAS_AD('Footer');
-					//-->
+					<!--OAS_AD('Footer');//-->
 				</script>
 				</td>
 		</tr>	
@@ -486,14 +868,32 @@ function OAS_AD(pos) {
 <table width="770" border="0" cellspacing="0" cellpadding="0" class="white">
 	<tbody><tr>
 		<td width="10">
-			<img src="http://www.funjet.com/images/spacer_FineGround_gjkheyavohzr2g5qaz0mg0gtg_FGN_V01.gif" width="10" height="1" border="0" alt=""></td>
+			<img src="http://www.funjet.com/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
 		<td>
 			<br>
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<!--tr>
+					<td>
+						 					
+						<div style="position:relative;top:-15;left:350">
+						<script type='text/javascript' src="http://www.funjet.com/includes/feedback.js"></script>					
+						<ul id="navDrop" class="navDrop">
+							<li id="navField" class="navDrop">Page Feedback</a>
+								<ul class="navDrop">
+									<li><!--Include File="../includes/mini_feedback.asp" </div></li>
+								</ul>
+							</li>
+						</ul>
+						</div>
+						</td>
+				</tr-->
 				<tbody><tr>	
 					<td width="120" valign="middle">
-						<a href="http://www.funjet.com/specials/mastercard.asp"><img src="http://www.funjet.com/images/logos/ifjprefers_mastercard_FineGround_l4bvjterv3y5ac0hpq0zlliux_FGN_V01.gif" width="112" height="21" border="0" alt="Funjet Prefers MasterCard®"></a></td>
+						<a href="http://www.funjet.com/specials/mastercard.asp"><img src="http://www.funjet.com/images/logos/ifjprefers_mastercard.gif" width="112" height="21" border="0" alt="Funjet Prefers MasterCard®"></a></td>
 					<td width="100%" align="center" class="footernav">
+						 
+							<p><a href="javascript:;" onclick="window.open('http://www.funjet.com/includes/feedback.asp?url=www.funjet.com/cs/privacy.asp?', 'sendToFriendWin', 'menubar=no,scrollbars=no,height=515,width=345,titlebar=no,resizeable=yes');">Page Feedback</a></p>
+						
 						<a href="http://www.funjet.com/index.asp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="http://www.funjet.com/destinations/index.asp?pageMode=D">Destinations</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="http://www.funjet.com/destinations/index.asp?pageMode=H">Hotels</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -506,17 +906,16 @@ function OAS_AD(pos) {
 						<a href="https://www.secure02.com/ovm/giftcert/IFJ/giftcert.asp">Gift Certificates</a>
 						<br>
 						<a href="http://www.funjet.com/cs/privacy.asp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/cs/billofrights.asp">Bill of Rights</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="http://www.funjet.com/cs/billofrights.pdf" target="_blank">Bill of Rights</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="http://www.funjet.com/cs/useragreement.asp">Site User Agreement</a>&nbsp;&nbsp;|&nbsp;&nbsp;						
 						<a href="http://www.funjet.com/about/press.asp">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="http://www.funjet.com/cs/detail.asp?xmlfile=supportedBrowsers">Supported Browsers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="http://www.funjet.com/sitemap.asp">Site Map</a>
 						 
 						&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/agents/spanish.asp">en Español</a>
-						
-					</td>
+						</td>
 					<td width="20">
-						<img src="http://www.funjet.com/images/spacer_FineGround_gjkheyavohzr2g5qaz0mg0gtg_FGN_V01.gif" width="20" height="1" border="0" alt=""></td>
+						<img src="http://www.funjet.com/images/spacer.gif" width="20" height="1" border="0" alt=""></td>
 				</tr>
 			</tbody></table>
 			<br>
@@ -525,19 +924,18 @@ function OAS_AD(pos) {
 					<td width="50%">
 						<span class="dagger">†</span> Unless otherwise noted, fares do not include all applicable taxes, charges, and government-imposed fees.  MasterCard<sup>®</sup> and the MasterCard brand marks are registered trademarks of MasterCard International Incorporated.<br><a href="http://www.funjet.com/cs/disclaimer.asp">Air fees and tax information</a></td>
 					<td width="10">
-						<img src="http://www.funjet.com/images/spacer_FineGround_gjkheyavohzr2g5qaz0mg0gtg_FGN_V01.gif" width="10" height="1" border="0" alt=""></td>
+						<img src="http://www.funjet.com/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
 					<td width="50%">
 						© 2006 Funjet Vacations, All Rights Reserved. Use of this Web site constitutes acceptance of the Funjet Vacations <a href="http://www.funjet.com/cs/useragreement.asp">Site User Agreement</a>.<br>CST# 2009218-20<br><br>
-					</td>
+						</td>
 				</tr>
 			</tbody></table>
 		</td>
 		<td valign="bottom">
-			<img src="http://www.funjet.com/images/footer_bluecurve_FineGround_pxd3g55twxogh351ehtjp1kvm_FGN_V01.gif" width="10" height="15" border="0" alt=""></td>
+			<img src="http://www.funjet.com/images/footer_bluecurve.gif" width="10" height="15" border="0" alt=""></td>
 	</tr>
 	
 </tbody></table>
 
 
-<script language="Javascript">fgn_endHtml();</script>
 </body></html>
