@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319015057id_/http%3A//www.brainshark.com/m/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223758id_/http%3A//presentation.brainshark.com/privacy.asp) for the most accurate reproduction.*
 
 # Brainshark -- Create, manage, and share on-demand presentations
 
-Copyright© 2005 Brainshark, Inc. All rights reserved.
+Copyright© 2006 Brainshark, Inc. All rights reserved.
 
 Under the copyright laws, the content of these pages may not be copied, in whole or in part, without prior written consent of Brainshark, Inc. or its assignees. 
 
@@ -13,13 +13,23 @@ The purpose of this Web site is to provide easily accessible information about B
 
 **Privacy Policy**
 
-In the process of using the Brainshark web site and related services (referred to as the "Site" and "Services"), information about each site visitor is gathered. This statement is provided to explain our privacy practices and to clarify Brainshark's commitment to privacy.
+We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
 
-**Web Server Access Logs**  
-Brainshark tracks your IP address, and time and date of each request made to our servers. This information is used to help diagnose problems with our server, to administer our Site, and to quantify sources of site traffic. 
+Individual information is only collected if the visitor volunteers the information. Aggregate information is collected for troubleshooting purposes. We cannot identify individuals from the aggregate information. We collect information for the following purpose(s): 
 
-**Information requests**  
-Contact information that has been provided voluntarily is collected by Brainshark support, sales and marketing in order to understand and respond to the needs of customers and prospective customers. In responding to these needs, Brainshark will contact the individual using the information provided. Brainshark does not sell or release this information without your permission.
+  * Completing or supporting an activity 
+  * Website and system administration 
+  * Research and development 
+  * Research, analysis, reporting 
+  * Contacting our visitors for promotion of the site or products 
+
+
+
+Who has access to the information we collect?
+
+Information is only shared with third parties working on behalf of Brainshark and under specific agreement. 
+
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us at [info@brainshark.com](mailto:info@brainshark.com). 
 
 **Unregistered viewing of content**  
 The Brainshark site contains content owned by third parties that is available for viewing without requiring registration or use of a password or user ID. Information collected about the usage of this content is provided to third parties in aggregate form only, and is provided only to the company who has provided the content, as marked by use of the company name or trademark.
@@ -41,10 +51,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 |  |  |  |  |  |  |   
 ---|---|---|---|---  
-[](https://web.archive.org/m/forward/index.asp?url=)  
+[](https://web.archive.org/forward/index.asp?url=)  
 |  |  |  |   
 | Get Started  
 |  |  | Call Brainshark Sales at: 866-276-7427 |   
-| [](https://web.archive.org/m/company/contact.asp) |  | Have a solutions expert contact me |   
-| [](https://web.archive.org/m/freetrial.asp) |  | Free Brainshark Express account |   
-| [](http://inter.viewcentral.com/events/cust/search_results.asp?cid=brainshark&pid=2&event_type=demo) |  | Join live demo | 
+| [](https://web.archive.org/company/contact.asp) |  | Have a solutions expert contact me |   
+| [](http://inter.viewcentral.com/events/cust/search_results.asp?cid=brainshark&pid=2&event_type=demo) |  | Register for a live demo | 
