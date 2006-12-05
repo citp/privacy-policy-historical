@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233449id_/http%3A//www.independentmail.com/and/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205054416id_/http%3A//www.independentmail.com/and/privacy_policy) for the most accurate reproduction.*
 
 # Anderson Independent Mail: Privacy Policy
 
   
 Privacy Policy
 
- **June 25, 2003**
+ **June 24, 2003**
 
 IndependentMail.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At IndependentMail.com we intend to give you as much control as possible over your personal information. 
 
@@ -22,6 +22,18 @@ Like many other commercial sites, our sites may utilize a standard technology ca
 We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in chat rooms, forums and other sites as indicated on the particular site. 
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons in the following way:   
+
+
+  *  For auditing purposes and to collect information from the websites of certain partners.
+  
+
+  *  Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners.
+
+
+
+Our practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out by contacting us at the e-mail address, postal address or telephone number stated above. 
 
 In addition, users may complete a subscription form online in order to subscribe to The Anderson Independent-Mail. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
 
