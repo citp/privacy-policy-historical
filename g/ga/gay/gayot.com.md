@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002314id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193708id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# Gayot.com: About Us
+# GAYOT.com Privacy Policy
 
-**Gayot Privacy Policy**
+**GAYOT.com Privacy Policy**
 
 Maintaining your privacy—online and off—is of utmost importance to Gayot. This policy will tell you exactly what we will and won't do with the private, personal information you provide us. Please feel free to read it in full, but here is a summary: 
 
@@ -16,7 +16,7 @@ Maintaining your privacy—online and off—is of utmost importance to Gayot. Th
 If you ever have any questions about your privacy, please email us immediately at [privacy@gayot.com](mailto:%20privacy@gayot.com). 
 
 **Who We Are**  
-Andr� Gayot—who with his friends, Henri Gault and Christian Millau, invented the term "Nouvelle Cuisine" in the early '70s—has been directing sophisticated travelers to the best restaurants, hotels, shops, sightseeing, and cultural attractions throughout the world for over 40 years. Written by a team of savvy restaurant critics and food-and-travel experts, Gayot guidebooks are informative, honest and witty. Above all, they tell it like it is! Since 1981, "The Best Of" guides in English have become the travel bible of an international readership in quest of the best. And since 1995, "Restaurants" guides cover everything there is to know about the food and restaurant scenes of major American cities. Gayot guidebooks are complemented by a comprehensive website for up-to-date travel and restaurant information, [Gayot.com](http://www.gayot.com/). For more information about Gayot Publication, please visit the [About Us](http://www.gayot.com/aboutus/main.html) area on Gayot.com. 
+André Gayot—who with his friends, Henri Gault and Christian Millau, invented the term "Nouvelle Cuisine" in the early '70s—has been directing sophisticated travelers to the best restaurants, hotels, shops, sightseeing, and cultural attractions throughout the world for over 40 years. Written by a team of savvy restaurant critics and food-and-travel experts, Gayot guidebooks are informative, honest and witty. Above all, they tell it like it is! Since 1981, "The Best Of" guides in English have become the travel bible of an international readership in quest of the best. And since 1995, "Restaurants" guides cover everything there is to know about the food and restaurant scenes of major American cities. Gayot guidebooks have now been succeeded by a comprehensive website for up-to-date travel and restaurant information, [Gayot.com](http://www.gayot.com/). For more information about Gayot Publications, please visit the [About Us](http://www.gayot.com/aboutus/main.html) area on Gayot.com. 
 
 **Personal Information Collection**  
 Two kinds of personal information are requested during registration: personally identifiable information and demographic information. Personally identifiable information is required for registration, but other demographic information is optional and may be given at your discretion. During registration, Gayot asks for your full name and an e-mail address. Personally identifiable information is not shared with anyone, nor is it sold to anyone. The demographic information gathered includes street address, city, state, zip code, country, phone and fax. The more information you provide us with, and the more accurate it is, the easier it is for us to provide information to you that you will find useful. 
@@ -35,13 +35,10 @@ Personal information collected by Gayot is stored and maintained in secure opera
 Gayot links to third-party websites. These linked sites are not under the control of Gayot and are not affiliated with Gayot. Gayot cannot be responsible for the contents of any linked site or the contents of any link contained in a linked site.
 
 **Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+We use third-party advertising companies to serve some ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
-
-**WebTrends Live  
-**WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/wtl_system/privacy_policy.htm).  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.  
   
 **Content Disclaimer**  
 Gayot.com makes every effort to ensure the accuracy of information provided on all of our websites ([www.gayot.com](http://www.gayot.com/), [www.novusvinum.com](http://www.novusvinum.com/), [www.thefoodpaper.com](http://www.thefoodpaper.com/), [www.qualiteas.com](http://www.qualiteas.com/) and [www.chateaugayot.com](http://www.chateaugayot.com/)). However, Gayot does not assume, and hereby disclaims, any liability for any loss or damage brought about by errors, omissions, misleading information or the use or reliability of information presented on these websites, even if such errors occurred unintentionally, as a result of negligence or any other cause.
@@ -58,12 +55,10 @@ Questions regarding this statement should be directed to the Gayot site coordina
 
 
 
-The [Gayot website](http://www.gayot.com/) is owned and operated by:   
-Cyberlingot, Inc.   
+The [GAYOT.com](http://www.gayot.com/) is owned and operated by:   
+GaultMillau, Inc.   
 [4311 Wilshire Blvd.](http://www.gayot.com/aboutus/4311wilshire.html), Suite 405  
 Los Angeles, CA 90010  
 USA  
 Tel.: 323.965.3529   
-Fax: 323.936.2883  
-  
-
+Fax: 323.936.2883
