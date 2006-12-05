@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halloweenhorrornights.com privacy policy that was archived on 2006-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060130035027id_/http%3A//themeparks.universalstudios.com/orlando/website/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenhorrornights.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210711id_/http%3A//www.universalstudios.com/privacy.html) for the most accurate reproduction.*
 
-# Universal Orlando - Privacy Policy
+# Privacy Policy
 
-### Universal Studios Online Privacy Policy
+### Universal Studios Privacy Policy
 
 Universal Studios respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
@@ -30,7 +30,7 @@ Although children under 13 years of age may be allowed to participate in some co
 
 **Links to Other Sites:** Universal Studios is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may also be linked to websites operated by other companies. Visitors to these web sites should refer to each web site's respective privacy policies and practices.
 
-**Bulletin Boards and Chat Areas:** Guests of Universal Studios Sites are solely responsible for the content of messages they post on public forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people.
+**Bulletin Boards and Chat Areas:** Guests of Universal Studios Sites are solely responsible for the content of messages they post on public forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people. 
 
 **Choice/Opt-Out:** Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list to not receive future communications. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since Universal Studios operates numerous sites tailored to specific interests. However, if you are unable to complete the process indicated in the communications, then just [send us an e-mail](http://www.universalstudios.com/homepage/html/contact_us/contact_form.cgi?email_id=38) with a copy of the undesired email attached to the request and state you wish to be removed from the mailing list.
 
