@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020700id_/http%3A//www.onlinesports.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193636id_/http%3A//www.onlinesports.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Online Sports Privacy
-
-| 
 
 ## OnlineSports.com Statement on Privacy
 
@@ -11,8 +9,9 @@ Your privacy is a very sensitive subject for us and we take it very seriously. S
 
 Also, OnlineSports.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. OnlineSports.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of OnlineSports.com, our users, or others. 
 
-What Type Of Information Is Kept?  
-    **Via Newsletter Registration:**  
+What Type Of Information Is Kept?
+
+Via Newsletter Registration:  
 If you register on the site for the OnlineSports.com newsletter, we ask that you provide your name and email address. Additionally, we ask some questions that help us better understand our customers in general such as what sports people are interested in, who they buy for, and how they heard about OnlineSports.com. 
 
 When Ordering:  
@@ -42,5 +41,3 @@ If you have any questions, or would like further clarification, please contact o
 
 Your Consent  
 By using the OnlineSports.com web site, you consent to the collection and use of this information by OnlineSports.com. Please check this site regularly for updates or changes. 
-
-| 
