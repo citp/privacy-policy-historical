@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the refurbdepot.com privacy policy that was archived on 2006-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060414230559id_/http%3A//refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the refurbdepot.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205222106id_/http%3A//www.refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <html><head><style><!--A:hover {color : #FF3300;} A:active {color : #33cc00}--></style>  
 
@@ -15,45 +15,70 @@
 
 
 
-<title>RefurbDepot.COM - Privacy Policy</title>
-
-<script language="JAVASCRIPT" type="text/javascript">
-
+<title>RefurbDepot.COM - Privacy Policy</title><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
-
-function  _CF_checkCFForm_1(_CF_this)
-
+    function  _CF_checkCFForm_1(_CF_this)
     {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-    return true;
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
     }
-
-
 //-->
-
 </script>
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
+<script type="text/javascript">
 <!--
-
-function  _CF_checkSearch1(_CF_this)
-
+    function  _CF_checkSearch1(_CF_this)
     {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-    return true;
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
     }
-
-
 //-->
-
 </script>
-
 </head>
-<body text="#000000" bgcolor="#FFFFFF" link="#000099" vlink="#000000" alink="#CCCCCC" topmargin="0" leftmargin="0" marginwidth="0" marginborder="0" marginheight="0">
+<body text="#000000" bgcolor="#FFFFFF" link="#000099" vlink="#000000" alink="#CCCCCC" topmargin="0" leftmargin="0" marginwidth="0" marginborder="0" marginheight="0" onload="randombanner(); startTime();">
  
 
 
@@ -65,15 +90,92 @@ function  _CF_checkSearch1(_CF_this)
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td width="100%" colspan="3">
-	<table border="0" cellspacing="0" cellpadding="0" width="100%" height="85">
+	
+<script language="JavaScript">
+<!-- Hide from old browsers
+// Copyright &copy; 1999 Doug Popeney
+// Created by Doug Popeney (easyjava@easyjavascipt.com)
+// JavaScript Made Easy!! - http://www.easyjavascript.com
+
+i = 3 // Number of banners that you have
+banner1 = new Image();
+banner1.src = "images/banners/topbanner25.gif";
+banner2 = new Image();
+banner2.src = "images/banners/topbanner26.gif";
+banner3 = new Image();
+banner3.src = "images/banners/topbanner28.gif";
+
+
+links = new Array
+links[1] = "results2.cfm?CategorySearchList=digital%20cameras&CompanySearchList=canon"
+links[2] = "results2.cfm?CategorySearchList=Category+Search&CompanySearchList=Makita"
+links[3] = "http://www.refurbdepot.com/results2.cfm?CategorySearchList=mp3 players&CompanySearchList=samsung"
+
+description = new Array
+description[1] = "This is your description takes you to main index"
+description[2] = "This is your description takes you to about page"
+description[3] = "This is your description takes you to IE5 stuff"
+
+function randombanner(){
+	var randomnumber = Math.random();
+	i = Math.round( (i - 1) * randomnumber) + 1;
+	document.banner.src = eval("banner" + i + ".src");
+}
+
+function startTime(){
+
+        var time= new Date();
+        hours= time.getHours();
+        mins= time.getMinutes();
+        secs= time.getSeconds();
+        closeTime=hours*3600+mins*60+secs;
+        closeTime+=10;
+        Timer();
+
+}
+
+function Timer(){
+        var time= new Date();
+        hours= time.getHours();
+        mins= time.getMinutes();
+        secs= time.getSeconds();
+        curTime=hours*3600+mins*60+secs
+        if (curTime>=closeTime){
+                if (i < 3){
+                        i++;
+                        document.banner.src = eval("banner" + i + ".src");
+                }
+                else{
+                        i = 1;
+                        document.banner.src = eval("banner" + i + ".src");
+                }
+                startTime();
+        }
+        else{
+                window.setTimeout("Timer()",1000)}
+
+}
+
+function clickLink(){
+        top.location = links[i]
+}
+
+function descript(){
+        window.status = description[i]
+}
+
+// -->
+
+</script>
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="85">
 <tbody><tr bgcolor="white">
 <td width="10%">
 	<img alt="" border="0" height="60" src="images/formatting/RDlogo.gif" width="200">
 </td>
 <td width="80%" align="middle">
-    <a href="productdetails2.cfm?Product_ID=4024">
-	<img alt="" border="0" height="60" src="images/banners/topbanner20.gif" width="468">
-	</a>
+<center><a href="" onclick="clickLink(); return false;" onmouseover="descript(); return true;" onmouseout="window.status=''"><img src="https://web.archive.org/web/20061205222106id_/http%3A//www.refurbdepot.com/images/banners/topbanner26.gif" border="0" name="banner"></a></center>
 </td>
 <td width="10%">
 <a href="category.cfm?PageID=9999">
@@ -82,7 +184,7 @@ function  _CF_checkSearch1(_CF_this)
 </td>
 </tr>
 <tr>
-<td width="10%" bgcolor="#8B0509" style="border-top: 1px solid Black;"><font face="Verdana, arial, sans-serif" size="-2" color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Fri, Apr. 14, 2006</strong></font></td>
+<td width="10%" bgcolor="#8B0509" style="border-top: 1px solid Black;"><font face="Verdana, arial, sans-serif" size="-2" color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tue, Dec. 05, 2006</strong></font></td>
 
 <td width="80%" bgcolor="#8B0509" style="border-top: 1px solid Black;" align="center">
 <style>             
@@ -112,9 +214,10 @@ function  _CF_checkSearch1(_CF_this)
 </div></td>
 
 <td width="10%" bgcolor="#8B0509" style="border-top: 1px solid Black;" align="center">
-<font face="Verdana, arial, sans-serif" size="-1" color="#ffffff"><strong>1.800.660.4443&nbsp;</strong></font>
+<font face="Verdana, arial, sans-serif" size="-1" color="#ffffff"><strong>1.800.660.4443 &nbsp;</strong></font>
 </td></tr>
 </tbody></table>
+
 </td>
 </tr>
 <tr>
@@ -134,7 +237,7 @@ function  _CF_checkSearch1(_CF_this)
 <div align="left">
 <font face="Arial" size="-2">
 
-<form name="CFForm_1" action="freetext2.cfm" method="POST" onsubmit="return _CF_checkCFForm_1(this)">
+<form name="CFForm_1" action="freetext2.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)">
 	<table border="0" width="125" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr><td bgcolor="#ddddff">
 		<img src="images/formatting/Sidebar_QuickSearch.gif" width="125" height="18" border="0" alt=""><br>
@@ -147,7 +250,8 @@ function  _CF_checkSearch1(_CF_this)
 	</tbody></table>
 </form>
 
-<form name="Search1" action="results2.cfm" method="POST" onsubmit="return _CF_checkSearch1(this)">
+
+<form name="Search1" action="results2.cfm" method="post" onsubmit="return _CF_checkSearch1(this)">
 	<table width="125" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr align="left" width="125"><td bgcolor="#231aa9">
 	<img src="images/formatting/Sidebar_PowerSearch.gif" width="140" height="18" alt="" border="0"><br>
@@ -170,6 +274,8 @@ function  _CF_checkSearch1(_CF_this)
 			<option>Camcorders</option>
 			 
 			<option>Cameras</option>
+			 
+			<option>Car Audio/Video</option>
 			 
 			<option>Car Stereo</option>
 			 
@@ -227,7 +333,7 @@ function  _CF_checkSearch1(_CF_this)
 			 
 			<option>Home Theater</option>
 			 
-			<option>It's Not Too Late</option>
+			<option>iPod Store</option>
 			 
 			<option>Jigsaws</option>
 			 
@@ -293,6 +399,8 @@ function  _CF_checkSearch1(_CF_this)
 			 
 			<option>Turntables</option>
 			 
+			<option>TV/DVD Combos</option>
+			 
 			<option>Under $100</option>
 			 
 			<option>Under $1000</option>
@@ -306,6 +414,8 @@ function  _CF_checkSearch1(_CF_this)
 			<option>VCR's</option>
 			 
 			<option>Wine Cellars</option>
+			 
+			<option>XM Satellite Radio</option>
 			
 		</select>
 		
@@ -323,21 +433,23 @@ function  _CF_checkSearch1(_CF_this)
 			 
 			<option>CANON</option>
 			 
+			<option>CASIO</option>
+			 
 			<option>COMPAQ</option>
+			 
+			<option>CPS</option>
 			 
 			<option>CTA</option>
 			 
 			<option>DELL</option>
 			 
+			<option>DeLonghi</option>
+			 
+			<option>DELPHI</option>
+			 
 			<option>DICOTA</option>
 			 
-			<option>EPSON</option>
-			 
 			<option>FUJI</option>
-			 
-			<option>GARMIN</option>
-			 
-			<option>GATEWAY</option>
 			 
 			<option>GENERIC</option>
 			 
@@ -355,13 +467,13 @@ function  _CF_checkSearch1(_CF_this)
 			 
 			<option>MAKITA</option>
 			 
-			<option>MICROSOFT</option>
-			 
 			<option>MINOLTA</option>
 			 
 			<option>NIKON</option>
 			 
-			<option>OKIDATA</option>
+			<option>NORELCO</option>
+			 
+			<option>OLEVIA</option>
 			 
 			<option>OLYMPUS</option>
 			 
@@ -371,15 +483,11 @@ function  _CF_checkSearch1(_CF_this)
 			 
 			<option>PANASONIC</option>
 			 
-			<option>PENTAX</option>
-			 
 			<option>PHILIPS</option>
 			 
 			<option>PIONEER</option>
 			 
 			<option>POLAROID</option>
-			 
-			<option>QUASAR</option>
 			 
 			<option>RCA</option>
 			 
@@ -395,11 +503,11 @@ function  _CF_checkSearch1(_CF_this)
 			 
 			<option>SONY</option>
 			 
-			<option>TIFFEN</option>
+			<option>TOMTOM</option>
 			 
 			<option>TOSHIBA</option>
 			 
-			<option>VIEWSONIC</option>
+			<option>UNIDEN</option>
 			 
 			<option>YAMAHA</option>
 			
@@ -411,6 +519,7 @@ function  _CF_checkSearch1(_CF_this)
 		
 
 </form>
+
 			<table width="125" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td>
 			<center>
 			<!-- START OF SCANALERT METER TAG -->
@@ -514,6 +623,7 @@ function  _CF_checkSearch1(_CF_this)
 <table width="125" cellspacing="0" cellpadding="0" align="center" bgcolor="#231AA9"><tbody><tr><td width="2%" bgcolor="#ddddff"></td><td width="96%" height="0" rowspan="0"><b><font face="Verdana, Arial, sans-serif" size="2" color="White">&nbsp;Gadgets</font></b></td><td width="2%" bgcolor="#ddddff"></td></tr></tbody></table>
 <font size="-2" face="Verdana, Arial, sans-serif">
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=007">MP3 Players</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=017">XM Satellite Radio</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=508">Portable DVD Players</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=008">Voice Recorders</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=011">2-Way Radios</a><br>
@@ -539,6 +649,7 @@ function  _CF_checkSearch1(_CF_this)
 <font size="-2" face="Verdana, Arial, sans-serif">
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=503">Televisions</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=512">Plasma TV's</a><br>
+&nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=512">TV/DVD Combos</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=501">Camcorders</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=502">DVD Players</a><br>
 &nbsp;&nbsp;&nbsp;<a href="category.cfm?PageID=505">DVD/VCR Combos</a><br>
@@ -663,7 +774,7 @@ customerservice@refurbdepot.com</a>. </span></p>
 		
 
 		
-<a href="category.cfm?PageID=015">		<img src="images/formatting/aquos2.gif" width="150" height="150" border="0" alt="" align="center"></a>
+<a href="productdetails2.cfm?Product_ID=4958"><img src="images/formatting/TodaysDeal_120406.gif" width="150" height="200" border="0" alt="" align="center"></a>
 		
 		
 		
@@ -769,23 +880,23 @@ customerservice@refurbdepot.com</a>. </span></p>
 	
 	
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3896">MAGELLAN RoadMate 300 Touch Screen GPS</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4621">SAMSUNG BD-P1000</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3894">COMPAQ PRESARIO V4005CL</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4332">PHILIPS 20MF605T</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3403">CANON PowerShot S500</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4779">CANON PowerShot SD630</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">4.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3967">PANASONIC SC-HT730</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4507">SAMSUNG DVD-VR330</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">5.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3666">RIO Fuse 128MB</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4752">HP PAVILION DV6058CL</a><br></font></td>
       </tr>
 	  
 	</tbody></table>
@@ -812,23 +923,23 @@ customerservice@refurbdepot.com</a>. </span></p>
 	
 	
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">1.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=2892"> </a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4661">COMPAQ PRESARIO SR1817CL</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">2.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3986">HP iPod 20GB</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4033">PHILIPS 15MF605T</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">3.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4019">MAGELLAN RoadMate 700 Touch Screen GPS</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4253">SHARP AQUOS LC-37GB5U</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">4.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=3678">RCA DRC8000N</a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4629">SAMSUNG HT-Q80</a><br></font></td>
       </tr>
 	  
     <tr><td valign="top" align="left" width="5"><font face="Verdana, Arial, sans-serif" size="-2">5.</font></td> 
-        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=2573"> </a><br></font></td>
+        <td valign="top" align="left" width="144"><font face="Verdana, Arial, sans-serif" size="-2"><a href="productdetails2.cfm?Product_ID=4695">OLYMPUS SP-350 Ultra Zoom</a><br></font></td>
       </tr>
 	  
 	</tbody></table>
