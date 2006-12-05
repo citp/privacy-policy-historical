@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024929id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235359id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
 
 # Royal LePage - Canadian Real Estate and MLS Listings
 
@@ -172,16 +172,6 @@ top
 Questions, Concerns, and Complaints
 
 If you have any questions, concerns, or complaints about your Personal Information, or about the Royal LePage Privacy Policy, contact our privacy officer using the contact information provide below: 
-
-Megan O'Toole  
-39 Wynford Drive,  
-Don Mills, Ontario M3C 3K5
-
-Tel.: (416) 510-5669  
-Fax.: (416) 510-5856  
-E-mail: [motoole@royallepage.ca](mailto:motoole@royallepage.ca)
-
-If you have contacted this individual and are still not satisfied with the manner in which we have dealt with your privacy concerns, please contact:
 
 Max M. Cohen  
 General Counsel and Secretary  
