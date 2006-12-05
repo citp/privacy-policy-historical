@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usyd.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220754id_/http%3A//www.usyd.edu.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usyd.edu.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210324id_/http%3A//www.usyd.edu.au/privacy.shtml) for the most accurate reproduction.*
 
 # University Web Sites Privacy Statement - The University of Sydney
 
@@ -59,9 +59,9 @@ Student users may opt-in to having their name and email addresses published as p
 **Public Forums**  
 | Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
   
-| The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/su/studentcentre/) and / or [Personnel Services](http://www.usyd.edu.au/personnel/) as appropriate. 
+      | The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/studentcentre/) and / or [Personnel Services](http://www.usyd.edu.au/personnel/) as appropriate. 
 
-Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/pdf/pmp.pdf).  
+Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/pdf/pmp.pdf).   
   
 ---|---  
   
