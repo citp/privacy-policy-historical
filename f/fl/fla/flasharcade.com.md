@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622034352id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224120id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
-# CleverMedia : Privacy Policy
-
-CleverMedia Privacy Statement
+# CleverMedia
 
 CleverMedia, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. We do not collect information for any marketing purposes at all. No membership or sign-up is required for playing any of the games on our sites.
 
@@ -22,11 +20,11 @@ CleverMedia is required by law to provide you with the following information:
 
 
 * There is a link to the site's privacy policy (this page) on the home page of each of CleverMedia sites. 
-* There is a a link to the site's privacy policy on each page where personal information is collected. However, no personal information collected on any of our pages. 
-* Here is a disclosure of the types of personal information we collect from children and how our site uses that information: We don't collect ANY information from children. 
-* Here is a disclosure in about whether the personal information we collect from children is shared with third parties, and, if so, how the third parties use the information: We don't collect ANY information from children or anyone else, so we don't have any information to share. 
-* Here is a disclosure in that parents have the right to review and delete any personal information your site previously collected from their child: We don't collect ANY information from children or anyone else, so we don't have any information that parents can review or delete. 
-* Here is the contact information for our website operator: [email us](http://clevermedia.com/email-feedback.html). See the bottom of this page for complete contact information. 
+* There is a a link to the site's privacy policy on each page where personal information is collected. However, no personal information collected on any of our pages.
+* Here is a disclosure of the types of personal information we collect from children and how our site uses that information: We don't collect ANY information from children.
+* Here is a disclosure in about whether the personal information we collect from children is shared with third parties, and, if so, how the third parties use the information: We don't collect ANY information from children or anyone else, so we don't have any information to share.
+* Here is a disclosure in that parents have the right to review and delete any personal information your site previously collected from their child: We don't collect ANY information from children or anyone else, so we don't have any information that parents can review or delete.
+* Here is the contact information for our website operator: [email us](http://clevermedia.com/email-feedback.html). See the bottom of this page for complete contact information.
 
 **Privacy at the CleverMedia Shockwave Arcade:**
 
@@ -44,7 +42,7 @@ Some ads at our sites are served by MaxOnline. Read their privacy policy at <htt
 
 **Privacy at Flash Arcade:**
 
-FlashArcade.com ads are served by BurstMedia. Read their privacy statement at <http://www.burstmedia.com/release/privacy.asp>. 
+FlashArcade.com ads are served by BurstMedia. Read their privacy statement at <http://www.burstmedia.com/release/privacy.asp>.
 
 * * *
 
