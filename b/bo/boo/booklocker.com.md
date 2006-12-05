@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211057id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203226id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
 
 # BookLocker.com
 
 **Privacy Statement for BookLocker.com** BookLocker.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BookLocker.com.
 
-You may visit BookLocker.com without identifying yourself, but if you'd like to make a purchase you will need to register. Any information you provide during the registration process, and the purchases you make, are considered part of your BookLocker.com account. We use this information to fill your orders, provide customer service assistance, and improve the content of our site so that we may better serve you. 
-
-We have an email newsletter. We only send this newsletter to people who have explicitly asked to be on the mailing list (opt-in). We immediately remove anyone who does not want to be on the email list any longer. All our email marketing efforts adhere to the MAPS (Mail Abuse Prevention System) best practices guidelines .
+You may visit BookLocker.com without identifying yourself, but if you'd like to make a purchase you will need to register. Any information you provide during the registration process, and the purchases you make, are considered part of your BookLocker.com account. We use this information to fill your orders, provide customer service assistance, and improve the content of our site so that we may better serve you.
 
 BookLocker.com believes that your personal information - including your purchases, email and residential addresses, and credit card information \- belongs to you. We collect this information when you provide it and we use it to develop our own marketing programs, but we do not rent or sell information concerning our customers to third parties. 
 
@@ -26,7 +24,7 @@ This site contains links to other sites. BookLocker.com is not responsible for t
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us in the following ways:
 
-Using the form [here](https://web.archive.org/web/20060615211057id_/http%3A//www.booklocker.com/help/contact.html).
+Using the form [here](https://web.archive.org/web/20061205203226id_/http%3A//www.booklocker.com/help/contact.html).
 
 Mailing us at:  
 Booklocker.com, Inc.  
