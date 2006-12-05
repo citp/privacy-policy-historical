@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221193434id_/http%3A//www.daytonainternationalspeedway.com/fans/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220110id_/http%3A//daytonainternationalspeedway.com/privacy) for the most accurate reproduction.*
 
-# Daytona International Speedway - Privacy Policy
+# Privacy - Daytona International Speedway
+
+| 
 
 Privacy Policy
 
@@ -55,7 +57,7 @@ How does this site support the Children's Online Privacy Protection Rule?
 How do I tell this site that I don't want to be contacted for promotional purposes?
 
 **  
-We only send promotional e-mail messages to you if you have voluntarily provided us with your e-mail address. You may request to be removed from this site’s e-mail subscription list by updating your personal account. By clicking on your Member Name at the top of the page you can access your personal account to make the necessary changes. **
+We only send promotional e-mail messages to you if you have voluntarily provided us with your e-mail address. You may request to be removed from this site's e-mail subscription list by updating your personal account. By clicking on your Member Name at the top of the page you can access your personal account to make the necessary changes. **
 
 How do I update personal information such as my address?
 
