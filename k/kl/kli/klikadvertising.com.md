@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615235312id_/http%3A//klikadvertising.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225446id_/http%3A//klikadvertising.com/policy.php) for the most accurate reproduction.*
 
 # KLIK Advertising • Privacy policy
 
@@ -23,9 +23,12 @@ By using our site, you consent to the collection and use of your information as 
 If you have any questions regarding our privacy policy please contact [support@klikadvertising.com](mailto:support@klikadvertising.com)  
   
 ---  
+  
+**Show Results for country:**
+
 |   
   
-©2005 KlikAdvertising.com. [Terms of Use](https://web.archive.org/web/20060615235312id_/http%3A//klikadvertising.com/terms.php) | Privacy Policy | [Contact Us](https://web.archive.org/web/20060615235312id_/http%3A//klikadvertising.com/contact.php)
+©2005 KlikAdvertising.com. [Terms of Use](https://web.archive.org/web/20061205225446id_/http%3A//klikadvertising.com/terms.php) | Privacy Policy | [Contact Us](https://web.archive.org/web/20061205225446id_/http%3A//klikadvertising.com/contact.php)
 
   
 
