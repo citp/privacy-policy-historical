@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004858id_/http%3A//www.mayoclinic.com/health/Privacy-Policy/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183831id_/http%3A//www.mayoclinic.com/health/Privacy-Policy/PrivacyPolicy) for the most accurate reproduction.*
 
 # Mayo Clinic medical information and tools for healthy living - MayoClinic.com
 
-**Updated October 7, 2005.**
+**Updated October 4, 2006.**
 
 MayoClinic.com is committed to protecting your online privacy. We feel it is important for you to know how we handle the information we receive from you via the Internet. In general, you can visit www.MayoClinic.com without revealing any personal information. However, you are required to provide personal information to gain access to some of our content and services, as explained below.
 
