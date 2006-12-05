@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the intranetjournal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203604id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intranetjournal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205014015id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
+
+[](http://www.jupitermedia.com/RealMedia/ads/click_lx.cgi/intm/www.jupitermedia.com/corporate/privacy/privacypolicy.html/436675829/336x280/OasDefault/HP_Integrity_SC_GEMS_1eb/HPintegrity_entryserver_bob.gif/34306430616362323435373562616130)
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the JUPM Network. The "JUPM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia Corporation and each of its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Hemera Technologies Inc., PictureArts Corporation, Goodshoot SAS, and the Dynamic Graphics Group as linked directly or indirectly from the Jupitermedia.com (collectively the "Site") home page (collectively hereafter "JUPM"). By accessing the JUPM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
 
