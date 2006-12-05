@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205248id_/http%3A//www.carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192726id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
 
 # Privacy Policy : carsales.com.au
 
@@ -62,7 +62,7 @@ We do not purchase or sell lists of mobile phone numbers.
 **Can I access my personal information that I have previously given to carsales.com.au Limited?**  
 Yes you can. You can request access to all of your personal information held in the secure carsales.com.au Ltd. database. We endeavour to ensure your information is true and correct at all times. Upon request, we can make adjustments and update your details to reflect correct data. 
 
-To send a request, please click on the "contact us" link at the bottom of this page. Your request will be processed within 7 working days, depending on the nature of the request. There is no fee to access this information. 
+To send a request, please [click here](https://web.archive.org/web/20061205192726id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) to contact us. Your request will be processed within 7 working days, depending on the nature of the request. There is no fee to access this information. 
 
 **Security**  
 In addition to the above assurances, any information held by carsales and related individuals is held secure in a manner designed to protect information from internal and external access by anyone other than specifically authorised carsales staff. 
@@ -73,12 +73,12 @@ From time to time, we may use customer information for new, unanticipated uses n
 **Contact Information**  
 Contact details for carsales.com.au Ltd. are as follows:
 
-Location: | Level 2, 810 Whitehorse Road, Box Hill VIC 3128  
+Location: | 77 Atherton Road, Oakleigh VIC 3166  
 ---|---  
-Postal Address:    | PO Box 643, Box Hill VIC 3128  
-Phone: | +61 (03) 8803 3000 (Business Hours EST)  
+Postal Address:    | Locked Bag 3333, Oakleigh VIC 3166  
+Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20060615205248id_/http%3A//www.carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click here](https://web.archive.org/web/20061205192726id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) to contact us  
   
 We will try our best to answer any queries as quickly as possible.
 
