@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195439id_/http%3A//help.fotki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184957id_/http%3A//help.fotki.com/privacy) for the most accurate reproduction.*
 
 # Help | Fotki.com
 
@@ -24,6 +24,10 @@ We have a variety of security measures implemented to maintain the safety of you
 
 This site contains links to other sites that may offer information, products or services that may be of interest to you. Fotki is not responsible for the privacy practices or the content of such sites.
 
+**Jurisdiction**
+
+The statutory body that has jurisdiction to hear any claims against the organization regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy is the State of New York.
+
 **Questions or Comments**
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with the Web site, you can contact Fotki via email at [support@fotki.com.](mailto:support@fotki.com)
@@ -37,4 +41,4 @@ If you have any questions about this privacy policy, the practices of this site,
 
 * * *
 
-Written on 2003-09-17 18:32:29 and updated on 2005-08-05 06:01:44.
+Written on 2003-09-17 18:32:29 and updated on 2006-11-28 11:32:20.
