@@ -1,36 +1,15 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420061219id_/http%3A//icsc.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190503id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
 
-# ICSC Privacy Policy
+# Privacy Policy
 
-| [](https://web.archive.org/about/about.php)  
----  
-[](https://web.archive.org/search/index.php)  
-[](https://web.archive.org/help/help.php)  
-[](https://web.archive.org/about/info_main.php)  
-[](https://web.archive.org/srch/about/presreport.php?region=)  
-[](https://web.archive.org/srch/about/icschist.php?region=)  
-[](https://web.archive.org/srch/about/trustees.html)  
-[](https://web.archive.org/srch/about/2005_06CombinedListing_wEuro.pdf)  
-[](https://web.archive.org/srch/about/16reasons.php?region=)  
-[](https://web.archive.org/apps/contact.php)  
-[](https://web.archive.org/srch/about/services.php?region=)  
-[](https://web.archive.org/about/KioskWeb2.html)  
-[](https://web.archive.org/srch/about/ICSC_bylaws2004.pdf)  
-  
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. All capitalized terms not defined in this Privacy Policy shall have the meanings assigned to them in the Terms and Conditions for use of the Web Site, located at [http://www.icsc.org/terms.php](https://web.archive.org/terms.php?region=). 
+Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. All capitalized terms not defined in this Privacy Policy shall have the meanings assigned to them in the Terms and Conditions for use of the Web Site, located at [http://www.icsc.org/terms.php](https://web.archive.org/terms.php). 
 
-## The Information We Collect
-
-  
 The type of personally identifiable information that ICSC collects includes: name, address, e-mail address, telephone number, fax number, credit card information, and may also include information about your interests in and use of various products, programs, and services. 
 
 The Web Site also allows you to submit information about other people. For example, you might submit a person's mailing and e-mail address to enroll them in an ICSC seminar, or if you order publications online and want them sent directly to the recipient, you might submit the recipient's name and address. 
 
 We also may collect certain non-personally identifiable information when you visit the Web Site, such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
 
-## How We Use the Information
-
-  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
 We sometimes use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill an online order for ICSC products, or to contact you about issues regarding your membership. 
@@ -55,29 +34,16 @@ We may, on occasion, combine information we receive online with outside records 
 
 Finally, ICSC will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above. 
 
-## Collection of Information by Third-Party Sites and Sponsors
-
-  
 The Web Site may contain links to other sites whose information practices may be different from ours. Users should consult the other sites' privacy notices as ICSC has no control over information that is submitted to, or collected by, these third parties. 
 
 The ICSC sites covered by this Privacy Notice sometimes may offer content which is co-branded with third parties (the "Co-Branded Content"). By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to use the Co-Branded Content. ICSC has no control over third party use of this information. 
 
 ICSC may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. 
 
-## Cookies
-
-  
 To enhance your experience with our site, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
 
-## Our Commitment to Security
-
-  
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-## How to Contact Us
-
-  
-If you have any questions or concerns about this policy or its implementation you may contact us at [web@icsc.org](mailto:web@icsc.org).   
-
+If you have any questions or concerns about this policy or its implementation you may contact us at [web@icsc.org](mailto:web@icsc.org). 
