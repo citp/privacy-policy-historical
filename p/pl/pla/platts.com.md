@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131910id_/http%3A//www.platts.com/Privacy%2520Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212933id_/http%3A//platts.com/Privacy%2520Notice) for the most accurate reproduction.*
 
 # Platts
 
-| [](https://web.archive.org/)| [](https://web.archive.org/Oil/Resources/)| [](https://web.archive.org/Electric%20Power/Resources/)| [](https://web.archive.org/Natural%20Gas/Resources/)| [](https://web.archive.org/Coal/Resources/)| [](https://web.archive.org/Nuclear/Resources/)| [](https://web.archive.org/Petrochemicals/Resources/)| [](https://web.archive.org/Metals/Resources/)  
----|---|---|---|---|---|---|---  
-  
-| | 
-
-|  Privacy
+Privacy
 
 |   
 ---  
@@ -46,21 +41,21 @@ First Name:*|
 Last Name:*|   
 Email Address:*|   
 Company Name:*|   
-Address:|   
+Address:*|   
     
-City:|   
+City:*|   
 State/Province (For US and Canada):|   
 Zip/Postal Code:*|   
 Country:*|   
 Contact Telephone number (please include country and area codes):*|   
   
-From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. If you have questions about our privacy practices or if you would like to exercise your right to access and correct the accuracy of your information, please send a request to Platts Privacy Official, Platts, 2 Penn Plaza, New York, NY, 10121, USA, or to [Sue_Ballantine@platts.com](mailto:sue_ballantine@platts.com) or call +1 212-904-6215. This information will be maintained in a secure database in the United States and accessed only by authorized employees.
+From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. If you have questions about our privacy practices or if you would like to exercise your right to access and correct the accuracy of your information, please send a request to Platts Privacy Official, Platts, 2 Penn Plaza, New York, NY, 10121, USA, or to [unsubscribe@platts.com](mailto:unsubscribe@platts.com) or call +1 212-904-6215. This information will be maintained in a secure database in the United States and accessed only by authorized employees.
 
 For more information about The McGraw-Hill Companies' Customer Privacy Policy, visit our Web site at <http://www.mcgraw-hill.com/privacy.html>.  
   
-[Printer-friendly format](https://web.archive.org/web/20051219131910id_/http://www.platts.com/Privacy%20Notice/?S=printer&)
+[Printer-friendly format](https://web.archive.org/web/20061205212933id_/http://www.platts.com/Privacy%20Notice/?S=printer&)
 
-[About Us](https://web.archive.org/Contact%20Us/)     [Contact Us](https://web.archive.org/Contact%20Us/)     [Client Services](https://web.archive.org/Client%20Services/)     [Help](https://web.archive.org/Help/)[
+[About Us](https://web.archive.org/About%20Platts/)     [Contact Us](https://web.archive.org/Contact%20Us/)     [Client Services](https://web.archive.org/Client%20Services/)     [Help](https://web.archive.org/Help/)[
 
 For Advertisers
 
