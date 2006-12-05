@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200636id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220344id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -60,12 +60,12 @@ If we make any changes to this policy, you will be the first to know; we'll anno
 
 ## In Touch
 
-If you have any questions about this privacy statement or the professional practices of Lockergnome, you may contact one of the head geeks, Jason DeFillippo:
+If you have any questions about this privacy statement or the professional practices of Lockergnome, you may contact one of the head geeks:
 
 [Email](https://web.archive.org/contact/staff.phtml?r=2)  
 Lockergnome   
-18034 Ventura Blvd, #415   
-Encino, CA 91316-3516   
-1.888.472.0483 
+1425 Broadway #503   
+Seattle, WA 98122-3813   
+1.888.472.0604 
 
-Lockergnome's Top 50 Windows XP Tips - MP3 Format: "For Windows XP Experts and Novices." Written by Chris Pirillo and voiced by David Lawrence of Online Tonight, these tips offer you helpful advice for tweaking your Windows XP system. Whether you've been using it for a while or are planning to upgrade to the new OS soon, this GnomeTome is right up your alley. These tips have been verified on Windows XP Professional only. [ 50 Tips in MP3 format for $5.00 /... [[Click Here to Download](http://tutorials.lockergnome.com/library/20030423_lockergnomes_top_50_windows_xp_tips_mp3_format.phtml)] 
+Fly High with Publicity in the In-Flight Magazines: Almost three-quarters of the Frequent Flyers read an in-flight magazine during every flight. And the average pass-along rate for in-flight magazines is 5.5. This often overlooked media can be a goldmine to your publicity campaign if you can match your needs with what their editors want. [ Expert Advice for $9 / Download ]... [[Click Here to Download](http://tutorials.lockergnome.com/library/20021202_fly_high_with_publicity_in_the_inflight_magazines.phtml)] 
