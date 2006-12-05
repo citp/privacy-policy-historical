@@ -1,68 +1,79 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202021852id_/http%3A//www.nflshop.com/nfl/index.jsp%3FpageId%3DnflCustomerService%26catId%3D2400008%26pageType%3DdetailLevel2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232830id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
-# NFLShop.com : Customer Service
+# NFL Shop
 
 Privacy Policy
 
-NFLSHOP.com believes in keeping your confidential information confidential. With this in mind, we have adopted the privacy policy described below: 
+GSI Commerce Solutions, Inc. ("GSI") operates this Web site, nflshop.com (this "Web Site"), pursuant to agreements with NFL Properties LLC (the "NFL"). Both the NFL and GSI ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
 
-**Registration**
+Please be advised that the practices described in this Privacy Policy apply only to information gathered by us through this Web Site and, where applicable, through our Customer Service Department in connection with this Web Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. This Privacy Policy does not apply to information, including Personal Information (see below), you reveal or post in any public forum on this Web Site, your use of Web sites linked to this Web Site, or any other Web sites.
 
-We encourage you to register when shopping at the NFLSHOP.com site, however, it is not required. Our registration form requires users to give us contact information (such as name, age range, password, and e-mail address). You must be 13 years of age or older to register. Registration helps us to provide you with an easy and personalized shopping experience, with quick and simple checkout options. The customer contact information you supply on the registration form will be used to send you e-mail NFL Newsletters and updates about upcoming sales, contests, promotions and product information. In addition, the information is used, when necessary, to contact you concerning the status of an order or to answer any of your questions. 
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at customerservice@nflshop.com.
 
-At all times, you have the option of "opting out" of receiving future e-mail updates by visiting our choice/opt-out form. 
+By using this Web Site, you signify your assent to the collection, use and sharing practices described in this Privacy Policy with respect to Non-Personal Information (see below). By providing Personal Information to us through this Web Site or through our Customer Service Department in connection with this Web Site, you signify your assent to the collection, use and sharing practices described in this Privacy Policy with respect to Personal Information.
 
-If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.
+**_What Information About Me Is Collected and Stored?_**
 
- **Order Information**
+We collect two types of information on this Web Site: Personal Information and Non-Personal Information.
 
-Customers use an order form to request information or products. When you place an order, we collect contact information, such as your shipping and e-mail addresses, and financial information, such as your account or credit card numbers. Contact information from the order form is used to send orders and information about us to our customers and to get in touch with them when necessary. Financial information is used to bill the customer for products. You also have the option of ordering products over the telephone, and you may choose to pay by check. 
+**Personal Information**
 
-If you register with our Website, we can store your credit card information on file on our secure servers for your use on future orders. If you select this option, you will be able to store multiple credit card information in "My Account". You will be shown the name you selected for your card, its last four digits, and the expiration date to confirm it is the card you want to use again.  When you select this payment option, your credit card information goes over a secured server. 
+"Personal Information" is information we collect on this Web Site that can be used to identify or contact you, such as your full name, street address, e-mail address, telephone number, credit card number and credit card expiration date. We will use the Personal Information that you provide to us only for the purposes described in this Privacy Policy or as otherwise disclosed at the time we request such information from you.
 
-**Use of Information**
+We collect and store Personal Information that you provide to us when using this Web Site or that you provide to our Customer Service Department when communicating offline or through e-mail. For example, when you open an account or place an order, we collect and store some or all of the Personal Information that you provide. This Personal Information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web Site.
 
-NFLSHOP.com will not collect any personally identifying information, except when specifically provided by visitors to our Website. Such information includes name, address, e-mail address, and telephone number. We do not sell or share any information about our users on the individual customer level. At times, we may share aggregate, or summary, information such as statistics about our customers, sales traffic patterns and related site information to reputable third-party vendors. However, this information will not include any personally identifiable information. 
+We also may collect and store information about you that we receive from other sources, to enable us to update and correct the Personal Information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-**Sharing Information**
+**Non-Personal Information**
 
-We also may offer you the opportunity to purchase products and services provided by third parties, such as magazine subscriptions and credit card offers. If you purchase any of these products or services, we will provide your personal information to the third parties that provide them, but we authorize these third parties to use this information only in connection with the products and services they provide.
+"Non-Personal Information" is information we collect on this Web Site that by itself cannot be used to identify or contact you, such as demographic information and other anonymous statistical data relating to the use of this Web Site. For example, we collect and store certain Non-Personal Information automatically whenever you interact with this Web Site, including your IP address, browser information and reference site domain name. We also collect Non-Personal Information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web Site and to provide our customers with a fulfilling shopping experience.
 
- **Updating of Information**
+Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web Site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.
 
-In order to change or modify information previously provided by you, please choose "My Account" and update your information using the options on this page. 
+**_Is Information Collected From Children?_**
 
-**Option to Opt-out**
+We do not sell or ship any items ordered through this Web Site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. Because it is important to protect the privacy of children on the Internet, if you are under the age of 18, you should use this Web Site only with the involvement of a parent or guardian and should not submit any personal information to us.
 
-You may opt-out of receiving communications from us at any time. In order to remove your information from our database, and to no longer receive communications, please visit: [Unsubscribe Options](http://www.nflshop.com/nfl/index.jsp?pageId=nflEmailUnsubscribe)
+**_With Whom Do You Share Information?_**
 
- **Security of Information**
+We do not share with others any Personal Information that you provide to us through this Web Site or through our Customer Service Department, except as described in this Privacy Policy at the time of disclosure, or in situations where you have provided consent.
 
-NFLSHOP.com has security measures in place to protect against the loss, misuse or alteration of the information you provide. We encrypt your personal information, including your credit card number, when transmitting over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure socket Layer), to safeguard your Internet transactions. VeriSign, Inc. is a leading provider of Public Key Infrastructure (PKI) and digital certificate solutions used by enterprises, Websites and consumers to conduct secure communications and transactions over the Internet and private networks. 
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide Personal Information to these third parties, but we authorize them to use this information only in connection with the services they perform.
 
-Browsers that allow for SSL Technology Ordering from our Website require the use of an SSL-compliant browser, such as Netscape 4.0 or later; Microsoft Internet Explorer 5.0 or later; 5.0 AOL client for PCs; or the 5.0 AOL client for Macs. You will not be able to use Secure Mode if you have an older version of an Internet browser that does not support secure transactions, or if your computer is located on a local area network (LAN) that uses a firewall that prohibits secure transactions. If Secure Mode is not possible, please select one of our off-line options to place your order. 
+We also may offer you the opportunity to purchase products and services provided by third parties, such as magazine subscriptions and extended warranty plans. If you purchase any of these products or services, we will provide your Personal Information to the third parties that provide them, but we authorize these third parties to use this information only in connection with the products and services they provide.
 
-**Cookies**
+We may release Personal Information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of the NFL or GSI, or any of our respective affiliates, business partners, customers or others.
 
-NFLSHOP.com does place a feature called a "cookie" on your hard drive. A cookie is a small data file that Websites often store on your computer's hard drive when you visit. A cookie may contain certain information, such as a unique user session ID number, which is used to track the page(s) you visited. We do not store any personally identifiable information in your cookie. This unique number allows us to keep track of your order as you shop on our site. Cookies also allow us to recognize registered users when they visit, and to provide those customers with their account information. If you register with us or order from our site, we use cookies to monitor and maintain information about how you use our site and what you buy. If you do not register or buy from the site, we may monitor and maintain information about your use of our Website in a manner that does not identify you. Cookies do not allow us to collect any additional information other than the information that was provided by you at the time of registration. 
+We may share Non-Personal Information with our marketing partners, advertisers and others from time to time. Examples of Non-Personal Information that may be shared include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. This information generally is shared in an aggregated form.
 
-Most Web browsers automatically accept cookies, but you can usually change the configuration of your browser to prevent this from occurring. Even without a cookie, you can still take advantage of most of the features of our site, including making a purchase, but we will not be able to recognize you as a registered user. As a result, you will be unable to access (or change or delete) your account information. 
+As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that the NFL or GSI, or substantially all of our respective assets are acquired by a third party, such information may be one of the transferred assets (unless the Personal Information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, the NFL or GSI, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy.
 
-**Contests**
+**_What Steps Are Taken To Keep Personal Information Secure?_**
 
-NFLSHOP.com may occasionally conduct contests on our Website in which we ask users for contact information, such as e-mail address or telephone number. Participation in any contest is not mandatory. If you participate in a contest, we may use this contact information to send users, when necessary, information about the contest or our company. If you participate in a contest, and then prefer not to receive information or be contacted by us, please contact us at the Website or address listed below. 
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at customerservice@nflshop.com or by phone at 1.877.NFL.Shop
 
-**Contacting the Website**
+Although we exercise care to protect your Personal Information, we remind you that there is always some risk involved in transferring data over the Internet, particularly if you send information to us via an unsecured means, such as an email.
 
-Should you have any further questions regarding this privacy statement, the practices of this site, or your dealings with this Website, please: 
+**_How Can I Access, Correct and Update Personal Information?_**
 
-Visit our customer service Website: customer_service@NFLSHOP.com; or 
+You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web Site.
 
-Write to us at:  
-NFL Shop Customer Service  
-111 South First Avenue  
-Wausau, WI 54401
+**_Can I Indicate Whether or Not I Want To Receive Promotional Communications?_**
 
- **External Links**
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.
 
-This Website contains links to other sites. We are not responsible for the privacy practices or content of such other Websites. 
+**_What Happens When I Link To or From Another Web Site?_**
+
+This Web Site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web Site and to read the privacy policies of each and every Web site that you visit.
+
+If you have accessed this Web Site through a link from certain of our advertising or marketing partners, this Web Site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.
+
+**_What About Contests and Sweepstakes?_**
+
+When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.
+
+**_How Will I Be Informed About Changes Regarding This Privacy Policy?_**
+
+If we make any material changes to this Privacy Policy, we will post a notice on this Web Site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred. 
+
+Effective: April 15, 2006
