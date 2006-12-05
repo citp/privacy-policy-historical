@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031220id_/http%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203340id_/http%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
 
 # SSL Certificate Free SSL Secure Server Certificate Branded SSL
 
-As part of the Comodo pledge to our customers, we recognise and respect your right to privacy. This privacy policy statement informs our customers of the privacy practices employed in the provision of Comodo's products, services and website. 
+As part of the Comodo pledge to our customers, we recognize and respect your right to privacy. This privacy policy statement informs our customers of the privacy practices employed in the provision of Comodo's products, services and website. 
 
 Questions relating to this policy statement should be directed towards the Comodo support team at info@comodogroup.com. 
 
@@ -12,7 +12,7 @@ This Privacy Policy statement supplements the practices and policies stated with
 [http://www.comodogroup.com/repository/index.html ](http://www.comodogroup.com/repository/index.html)
 
 **Anti-Spam Policy**  
-Comodo does not employ the use of spam for propogating its product awareness or special offers. 
+Comodo does not employ the use of spam for propagating its product awareness or special offers. 
 
 **Informational Collection and Use**  
 Comodo do not collect any information on customers without consent. As part of the service offerings, customers will be prompted for information when enrolling for a certificate, downloading a product or requesting further information. No information is collected about a customer if just browsing the website. 
@@ -30,7 +30,7 @@ Comodo provide the ability to request further information or ask questions to th
 A cookie is a piece of data stored on a computer's hard disk containing information about the owner. Comodo employ the use of cookies to gauge success of internal marketing campaigns and within the use of the Referrer programs. Such cookies contain no personally identifiable information. Our partners may also use cookies. Comodo do not exercise any access or control of such cookies. 
 
 **Log Files**  
-Comodo use log files comprising of IP addresses to analyse trends, administer the site, track movements throughout the site, calculate the number of document and file downloads, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+Comodo use log files comprising of IP addresses to analyze trends, administer the site, track movements throughout the site, calculate the number of document and file downloads, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 **Sharing**  
 Comodo will share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person. 
