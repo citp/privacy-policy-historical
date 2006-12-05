@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629193252id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213624id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
 
-# projo.com | Providence, R.I.
+# Rhode Island news | projo.com | The Providence Journal
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1824429617/Left/default/empty.gif/7a2f486f655634304a6e4541416a7a64?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1847058239/Left/default/empty.gif/7a2f4869356c347a414b6f414159324b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/214291691/Left1/default/empty.gif/7a2f486f655634304a6e4541416a7a64?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1571510896/Left1/default/empty.gif/7a2f4869356c347a414b6f414159324b?x)
 
 | 
 
@@ -106,7 +106,8 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) <http://www.projo.com/sharedcontent/registration/membercenter.jsp> in your browser.
+  1. Enter (or click) [http://www.projo.com/sharedcontent/registration/  
+membercenter.jsp](http://www.projo.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -131,12 +132,11 @@ This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to 
 
 | 
 
-Advertising 
+Advertising
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/322161957/Position1/default/empty.gif/7a2f486f655634304a6e4541416a7a64?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1404177739/Position1/default/empty.gif/7a2f4869356c347a414b6f414159324b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/202883576/Position2/default/empty.gif/7a2f486f655634304a6e4541416a7a64?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1008748603/Position2/default/empty.gif/7a2f4869356c347a414b6f414159324b?x)
 
-##### adcenter
+  
 
-##### shop & subscribe
