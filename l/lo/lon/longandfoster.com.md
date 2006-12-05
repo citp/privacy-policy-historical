@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211234id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003848id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  |    |    
+
+
+Long & Foster has financing for your home purchase covered with our mortgage company Prosperity Mortgage. 
+
+[ Online Pre-approval](http://mortgages.longandfoster.com/Pre-Approval.aspx)
+
+Buying a home is just the beginning of the homeownership experience. Find out how to maintain, upgrade, and protect your home. 
+
+[Home Service Connections](http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Owning)
 
 ##  Privacy Policy
 
@@ -68,3 +79,6 @@ This privacy policy only applies to longandfoster.com. The site contains links t
 Questions or Concerns
 
 If you have any questions about this privacy policy, you may contact us by sending us an e-mail at [privacy@longandfoster.com](mailto:privacy@longandfoster.com). 
+
+|    |     
+---|---|---|---|---
