@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616001743id_/http%3A//idg.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190010id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
 
 # Corporate : Privacy Policy
 
 **Privacy Policy**
 
-This site is a member of the [**_IDG_** **Network of Sites**](http://idg.net.nz/). _IDG_ complies strictly with New Zealand’s [**Privacy Act**](http://www.privacy.org.nz/people/peotop.html) and its 12 information privacy principles which deal with the collection, holding, use and disclosure of personal information. _IDG_ does not monitor individual traffic patterns — only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.
+This site is a member of the [**Fairfax Business Media of Sites**](http://fairfaxbm.co.nz/). Fairfax Business Media complies strictly with New Zealand’s [**Privacy Act**](http://www.privacy.org.nz/privacy-act) and its 12 information privacy principles which deal with the collection, holding, use and disclosure of personal information. _Fairfax Business Media_ does not monitor individual traffic patterns — only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.
 
-Most of the _IDG_ network can be accessed without disclosing personal information. Where personal information is provided to us, _IDG_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. IDG_ will not release your personal data without your consent.
+Most of the _Fairfax Business Media_ network can be accessed without disclosing personal information. Where personal information is provided to us, _Fairfax Business Media_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. Fairfax Business Media_ will not release your personal data without your consent.
 
-You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer by emailing [lawrie_dipple@idg.co.nz](mailto:lawrie_dipple@idg.co.nz).
+You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer by emailing [lawrie_dipple@fairfaxbm.co.nz](mailto:lawrie_dipple@fairfaxbm.co.nz).
 
-_IDG_
+_Fairfax Business Media_
 
-will not share personally identifiable information with third parties unless we have your permission or we believe in good faith we are required to by law. _IDG_ occasionally uses email and subscriber lists on behalf of companies who wish to mail our subscribers. We believe direct communication can be an efficient way to present our subscribers with information relevant to them. All communication is controlled by us and companies do not have access to our subscribers’ names and addresses. Any information our subscribers give us remains confidential. Where information collected on this site may be used in this way, you will be advised at the point where this information is collected and given the opportunity to decline such use then or later.
+will not share personally identifiable information with third parties unless we have your permission or we believe in good faith we are required to by law. _Fairfax Business Media_ occasionally uses email and subscriber lists on behalf of companies who wish to mail our subscribers. We believe direct communication can be an efficient way to present our subscribers with information relevant to them. All communication is controlled by us and companies do not have access to our subscribers’ names and addresses. Any information our subscribers give us remains confidential. Where information collected on this site may be used in this way, you will be advised at the point where this information is collected and given the opportunity to decline such use then or later.
 
 **Co** **okies**
 
-Cookies are small files that contain information a Web site uses for tracking purposes. _IDG_ does not typically use “cookies” but it may use them from time to time to facilitate the user experience or to enhance site content by compiling aggregate information about what specific sections and pages users visit. Cookies do not provide any personally identifiable information. They do provide details of your IP address, the computer platform and browser that you use and what domain you are accessing our site from.
+Cookies are small files that contain information a Web site uses for tracking purposes. _Fairfax Business Media_ does not typically use “cookies” but it may use them from time to time to facilitate the user experience or to enhance site content by compiling aggregate information about what specific sections and pages users visit. Cookies do not provide any personally identifiable information. They do provide details of your IP address, the computer platform and browser that you use and what domain you are accessing our site from.
 
-They may also be used by partner and advertiser sites associated with _IDG_ sites. Advertisers or independent third parties who operate the servers on which the ads reside may also place cookies. 
+They may also be used by partner and advertiser sites associated with _Fairfax Business Media_ sites. Advertisers or independent third parties who operate the servers on which the ads reside may also place cookies. 
 
 Our third party ad server, DoubleClick, may use a cookie file to identify your computer, but no personally identifiable information is collected. This cookie may be used to limit the number of times you see certain ads. You may opt-out from receiving this cookie by going to the following page, however DoubleClick will be unable to recognize your browser from one visit to the next, and you may therefore notice that you receive the same ad multiple times:
 
 [Doubleclick Ad-Serving Cookie Opt-Out](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/default.asp)
 
-Although _IDG_ encourages third parties to adhere to appropriate privacy standards and policies, _IDG_ is not responsible for the actions or policies of such parties.
+Although _Fairfax Business Media_ encourages third parties to adhere to appropriate privacy standards and policies, _Fairfax Business Media_ is not responsible for the actions or policies of such parties.
 
 Cookie information and privacy statements can be obtained directly from our third party ad server, **DoubleClick**.
 
@@ -38,11 +38,11 @@ When you sign up to the PressF1 forum you will be asked for a username and email
 
 More information on the use of cookies in the PressF1 forum, and how to clear them is available at:
 
-[Does this forum use cookies?](http://pressf1.pcworld.co.nz/faq.php?faq=vb_user_maintain#faq_vb_use_cookies)
+[Does this forum use cookies?](http://pressf1.co.nz/faq.php?faq=vb_user_maintain#faq_vb_use_cookies)
 
 **Email Newsletters**
 
-You will only receive email newsletters from us if you have a) expressly signed up for a newsletter on an IDGNet or UnlimitedNet website or b) you are a subscriber to one of our publications and have been invited to sign up to an IDGNet or Unlimited email newsletter.
+You will only receive email newsletters from us if you have a)expressly signed up for a newsletter on Fairfax Business Media website or b) you are a subscriber to one of our publications and have been invited to sign up to an Fairfax Business Media email newsletter.
 
 The information we gather from subscribers to our email newsletters (including email addresses) is not shared with our email advertisers or other parties. From time to time we may send out emails on behalf of these advertisers, but we do not provide them with access to any personal information that you have provided.
 
@@ -52,11 +52,11 @@ All emails sent contain a link to unsubscribe or to modify your profile. You may
 
 **HTML Newsletters**
 
-We make use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e. emails that contain text and images) but we don't link this to personally identifiable information. . Open-tracking allows us to find out how many people have viewed our email newsletters and click-tracking allows us to find out which links in the newsletter were clicked on. This helps us to refine and improve the editorial content of our newsletters, and to provide you with relevant information.
+We make use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e. emails that contain text and images) but we don't link this to personally identifiable information. Open-tracking allows us to find out how many people have viewed our email newsletters and click-tracking allows us to find out which links in the newsletter were clicked on. This helps us to refine and improve the editorial content of our newsletters, and to provide you with relevant information.
 
 "HTML-sensing" is used to determine if your email client supports HTML-based emails. This is employed only if you request our system to detect whether you can receive HTML emails.
 
-If you have any questions, please email: [**info@idg.tx.co.nz**](mailto:info@idg.tx.co.nz)
+If you have any questions, please email: [**info@fairfax.tx.co.nz**](mailto:info@fairfax.tx.co.nz)
 
 **Nielsen//NetRatings**
 
@@ -70,17 +70,13 @@ For more information on Nielsen//NetRatings and to opt out of cookie-setting, re
 
 **Online Transactions**
 
-Online transactions including credit card transactions on _IDG_ are secured using SSL (Secure Sockets Layer). This is a standard for online transactions on the Web which provides security using digital certificates issued by Certification Authorities (companies who verify the authority of organisations before issuing them with a digital certificate). Most browsers also ship with a number of built-in certificates from major certification authorities such as Verisign or Thawte Consulting.
+Online transactions including credit card transactions on _Fairfax Business Media_ are secured using SSL (Secure Sockets Layer). This is a standard for online transactions on the Web which provides security using digital certificates issued by Certification Authorities (companies who verify the authority of organisations before issuing them with a digital certificate). Most browsers also ship with a number of built-in certificates from major certification authorities such as Verisign or Thawte Consulting.
 
 The certificate our server is using is issued by [**Thawte Consulting**](http://www.thawte.com/) , who have "trusted root certificates" included in Netscape Navigator, Microsoft Internet Explorer and other common browsers. This "trusted root certificate" allows your browser to be certain that our server is the same server which was issued a Secure Sockets Layer certificate by Thawte Consulting. 
-
-**Traffic Counting Clear Gifs**
-
-Our web sites also use clear gifs, or pixel tags, provided by **DoubleClick** to help double-check our traffic figures. These clear GIFS allow DoubleClick to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or email address).
 
 **What security procedures are in place to protect my information?**
 
   
-Internally, _IDG_ restricts access to personally identifiable information. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies. 
+Internally, _Fairfax Business Media_ restricts access to personally identifiable information. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies. 
 
-If you have any privacy concerns relating to this site, please address them to IDG’s privacy officer through the _IDG_[ **webmaster**](mailto:nzwebmaster@idg.co.nz) **.**
+If you have any privacy concerns relating to this site, please address them to Fairfax Business Media’s privacy officer through the _Fairfax Business Media_[ **webmaster**](mailto:webmaster@fairfaxbm.co.nz) **.**
