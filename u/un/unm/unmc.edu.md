@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613034539id_/http%3A//www.unmc.edu/5/npp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221722id_/http%3A//www.unmc.edu/5/npp.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Practices How Your Medical Information Is Used
 
