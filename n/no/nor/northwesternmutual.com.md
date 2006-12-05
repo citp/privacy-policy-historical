@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwesternmutual.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219151515id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwesternmutual.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005734id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.*
 
 # NMFN: Online Privacy Statement
 
@@ -116,7 +116,7 @@ We reserve the right to amend this Statement from time to time. Any material cha
   
 For More Information  
   
-The Northwestern Mutual Financial Network Web site is maintained by The Northwestern Mutual Life Insurance Company, 720 E. Wisconsin Avenue, Milwaukee, WI, 53202. We can be reached by email at [webmaster@northwesternmutual.com](mailto:webmaster@northwesternmutual.com).
+The Northwestern Mutual Financial Network Web site is maintained by The Northwestern Mutual Life Insurance Company, 720 E. Wisconsin Avenue, Milwaukee, WI, 53202. We can be reached by email at [ webmaster@northwesternmutual.com](mailto:webmaster@northwesternmutual.com).
 
 Last revised: June 25, 2004
 
