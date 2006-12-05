@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduref.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615232012id_/http%3A//eduref.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduref.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190604id_/http%3A//www.eduref.org/privacy.shtml) for the most accurate reproduction.*
 
 # The Educator's Reference Desk: Privacy Policy
 
