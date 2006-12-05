@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234841id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232811id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Legal Forms - Documents - Papers - FindLegalForms.com - Help section
 
   |  |  | Form Categories  
 ---|---  
   
-  |  [ FindLegalForms.com ](https://web.archive.org/web/20060615234841id_/http%3A//www.findlegalforms.com/xcart/customer/home.php) :: Help Zone :: 
+  
+  
+  |  [FindLegalForms.com](https://web.archive.org/web/20061205232811id_/http%3A//www.findlegalforms.com/xcart/customer/home.php) :: Help Zone :: 
 
 |   Privacy statement  
 ---  
