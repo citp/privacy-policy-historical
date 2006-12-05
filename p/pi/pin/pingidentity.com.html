@@ -1,75 +1,211 @@
-<!--The following is the downloaded HTML source of the pingidentity.com privacy policy that was archived on 2006-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060621082431id_/http%3A//www.pingidentity.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pingidentity.com privacy policy that was archived on 2006-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206003939id_/http%3A//www.pingidentity.com/about/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>Privacy Policy - Ping Identity Corporation</title>
-    <link href="/stylesheets/application.css?1150400132" media="screen" rel="Stylesheet" type="text/css">
-    <link href="http://www.pingidentity.com/news/feed" rel="alternate" title="RSS" type="application/rss+xml">
-    <script src="/javascripts/prototype.js?1150400132" type="text/javascript"></script>
-    <script src="/javascripts/rico.js?1150400132" type="text/javascript"></script>
-    <script src="/javascripts/redzoneglobal.js?1150400132" type="text/javascript"></script>
-    <script type="text/javascript">
-      window.onload = function()
-      {
-        new Rico.Effect.Round('div', 'rounded');
-      }
-    </script>
-    
-      <script src="/mint/?js" type="text/javascript" language="javascript"></script>
-    
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+		<link href="/stylesheets/application.css?1164919046" media="screen" rel="Stylesheet" type="text/css">
+		<link href="http://www.pingidentity.com/news/feed" rel="alternate" title="RSS" type="application/rss+xml">
+		<script src="/javascripts/prototype.js?1164919045" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1164919045" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1164919045" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1164919045" type="text/javascript"></script>
+<script src="/javascripts/application.js?1164919045" type="text/javascript"></script>
+		<script src="/javascripts/lightbox.js?1164919045" type="text/javascript"></script>
+		<link href="/stylesheets/lightbox.css?1164919046" media="screen" rel="Stylesheet" type="text/css">
+
+		
+		  <script src="/mint/?js" type="text/javascript" language="javascript"></script>
+		
+
+		<script type="text/javascript" language="javascript">
+		// <![CDATA[
+		
+			function showNav(section){
+				if(section != 'customers' && section != 'resources'){
+					hideAll();
+					var elementToShow = 'secondary-nav-' + section;
+					Element.show(elementToShow);
+				}
+			}
+
+			function hideAll(){
+				var sections = ['products', 'support', 'partners', 'about', 'customers', 'resources'];
+				for(var i = 0; i < sections.length; i++) {
+					var elementToHide = 'secondary-nav-' + sections[i];
+					Element.hide(elementToHide);
+				}
+			}
+	
+			function hideNav(section){
+				if(section != 'about') {
+					var elementToHide = 'secondary-nav-' + section;
+					if ($(elementToHide) != undefined) {
+						Element.hide(elementToHide);
+						if('about' != 'content'){
+							showNav('about');
+						}
+					}
+			  }
+			}
+			
+			function setNav(section) {
+				var imgWidth;
+				if(section != "content" && section != 'account'){
+
+					if(section == "products") {
+						imgWidth = "-94px";
+					} else if(section == "support"){
+						imgWidth = "-162px";
+					} else if(section == "resources"){
+						imgWidth = "-154px";
+					} else if(section == "customers"){
+						imgWidth = "-96px";
+					} else if(section == "partners"){
+						imgWidth = "-87px";
+					} else if(section == "about"){
+						imgWidth = "-85px";
+					} else if(section == "blog"){
+						imgWidth = "-60px";
+					}
+		
+					var downStateImage = section + '-image';
+					var navToSet = 'secondary-nav-' + section;
+					var backgroundInfo = "url('/images/nav/btn_" + section + ".png') no-repeat " + imgWidth + " 0px;";
+					Element.setStyle(downStateImage, {background: backgroundInfo});	
+			
+					if(section != 'customers' && section != 'resources'){
+						Element.setStyle(navToSet, {display:'block'});
+						Element.addClassName(navToSet, 'secondary-nav');
+
+						if('privacy_policy' != 'index'){
+							setSecNav('privacy_policy');
+						}
+					}
+				}
+			}
+			
+			function setSecNav(currentAction) {
+				if(false){ currentAction = 'management'}
+				if(false){ currentAction = 'news_events'}
+				if(false){currentAction = 'pingfederate'}
+				if(false){currentAction= 'licensing'}
+				var navLink = currentAction + "-link";
+				Element.setStyle(navLink, {color:"#ff0000"});
+			}
+	
+		function init(){
+			setNav('about');
+		}
+		
+		window.onload = init;
+		
+		// ]]>
+		</script>
+		
+	  <title>Privacy Policy - Ping Identity Corporation</title>
   </head>
   <body>
+	<div class="page">
     <div id="header">
-  <div id="logo">
-    <a href="/"><img alt="Logo" src="/images/logo.gif?1150400132"></a>
-  </div>
-  <div id="account">
-    
-      Not Signed In
-      |
-      <a href="http://www.pingidentity.com/account/login">Sign In</a>
-      or
-      <a href="http://www.pingidentity.com/landing_pages/register">Register</a>
-    
-  </div>
+	<div style="margin-bottom:5px;">
+		<a href="/" style="border:0; height:36px; width:179px">
+			<img src="/images/common/PingIdentityLogo.png" alt="Ping Identity" border="0" height="36" width="179" style="margin:20px 10px 10px 20px"></a>
+	<img src="/images/home/NWQuote2.png" alt="Customer Quote" height="46" width="468" style="margin-right:10px">
+	</div>
 </div>
-    <img alt="About" id="corner" src="/images/corners/about.gif?1150400067">
-    <div id="navigation">
+    <div id="primary-nav">
+	
+		<span class="primary-nav-button" onmouseover="showNav('products');" onmouseout="hideNav('products');">
+			<a id="nav-products" href="http://www.pingidentity.com/products" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="Products" id="products-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-products" class="secondary-nav" style="display:none;">
+				<a href="http://www.pingidentity.com/products/pingfederate" class="nav-text-link" id="pingfederate-link" style="text-decoration:none;">PingFederate</a>
+				<a href="http://www.pingidentity.com/products/pinglogin" class="nav-text-link" id="pinglogin-link" style="text-decoration:none;">PingLogin</a>
+				<a href="http://www.pingidentity.com/products/pingtrust" class="nav-text-link" id="pingtrust-link" style="text-decoration:none;">PingTrust</a>
+			</span>
+		</span>
+		
+		<span class="primary-nav-button" onmouseover="showNav('support');" onmouseout="hideNav('support');">
+			<a id="nav-support" href="http://www.pingidentity.com/support/index" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="Support and Services" id="support-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-support" class="secondary-nav" style="display:none;">
+				<a href="/support/support_form" class="nav-text-link" id="support_form-link" style="text-decoration:none;">Support Request Form</a>
+				<a href="/support/consulting_services" class="nav-text-link" id="consulting_services-link" style="text-decoration:none;">Consulting Services</a>
+				<a href="/support/production_services" class="nav-text-link" id="production_services-link" style="text-decoration:none;">Production Services</a>
+				<a href="http://www.pingidentity.com/support/licensing" class="nav-text-link" id="licensing-link" style="text-decoration:none;">Licensing</a>
+			</span>
+		</span>
+		
+		<span class="primary-nav-button">
+			<a id="nav-resources" href="http://www.pingidentity.com/resources" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="Information Library" id="resources-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-resources" class="secondary-nav" style="display:none;">&nbsp;</span>
+		</span>
+		
+		<span class="primary-nav-button">
+			<a id="nav-customers" href="http://www.pingidentity.com/customers" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="Customers" id="customers-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-customers" class="secondary-nav" style="display:none;">&nbsp;</span>
+		</span>
+		
+		<span class="primary-nav-button" onmouseover="showNav('partners');" onmouseout="hideNav('partners');">
+			<a id="nav-partners" href="http://www.pingidentity.com/partners" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="Partners" id="partners-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-partners" class="secondary-nav" style="display:none;">
+				<a href="http://www.pingidentity.com/partners/list" class="nav-text-link" id="list-link" style="text-decoration:none;">Partner List</a>
+				<a href="http://www.pingidentity.com/partners/program" class="nav-text-link" id="program-link" style="text-decoration:none;">Partner Program</a>	
+				<a href="http://www.pingidentity.com/partners/portal" class="nav-text-link" id="portal-link" style="text-decoration:none;">Partner Portal</a>
+			</span>
+		</span>
+		
+		<span class="primary-nav-button" onmouseover="showNav('about');" onmouseout="hideNav('about');">
+			<a id="nav-about" href="http://www.pingidentity.com/about/index" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="About Us" id="about-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-about" class="secondary-nav" style="display:none;">
+				<a href="/about/news_events" class="nav-text-link" id="news_events-link" style="text-decoration:none;">News and Events</a>
+				<a href="/about/management" class="nav-text-link" id="management-link" style="text-decoration:none;">Management</a>
+				<a href="/about/careers" class="nav-text-link" id="careers-link" style="text-decoration:none;">Careers</a>
+				<a href="/about/contact" class="nav-text-link" id="contact-link" style="text-decoration:none;">Contact Us</a>
+			</span>
+		</span>
+		
+		<span class="primary-nav-button">
+			<a id="nav-blog" href="http://blog.pingidentity.com/" style="margin:0;padding:0;border:0;">
+				<img src="/images/spacer.gif" alt="Blog" id="blog-image" style="margin:0;padding:0;border:0;">
+			</a>
+			<span id="secondary-nav-blog" class="secondary-nav" style="display:none;">&nbsp;</span>
+		</span>
+		
+</div>
 
-  <a href="/products" id="products"><img alt="Products &amp; Services" height="21" src="/images/spacer.gif?1150400132" width="113"></a>
-  <a href="/solutions" id="solutions"><img alt="Solutions" height="21" src="/images/spacer.gif?1150400132" width="65"></a>
-  <a href="/support" id="support"><img alt="Support" height="21" src="/images/spacer.gif?1150400132" width="59"></a>
-  <a href="/resources" id="resources"><img alt="Resources" height="21" src="/images/spacer.gif?1150400132" width="68"></a>
-  <a href="/news" id="news"><img alt="News &amp; Events" height="21" src="/images/spacer.gif?1150400132" width="79"></a>
-  <a href="/partners" id="partners"><img alt="Partners" height="21" src="/images/spacer.gif?1150400132" width="61"></a>
-  <a href="/about" id="about"><img alt="About" height="21" src="/images/spacer.gif?1150400132" width="51"></a>
-  <a href="http://blog.pingidentity.com" id="blog"><img alt="About" height="21" src="/images/spacer.gif?1150400132" width="48"></a>
+<div id="top-space">
+	<img src="/images/spacer.gif" width="738" height="27" border="0" alt="spacer element">
 </div>
-    <div id="sidebar">
-      <div id="secondaryNavigation">
-        <ul>
-          <li>
-            <a href="/about/management">Management</a>
-          </li>
-          <li>
-            <a href="/about/board_of_directors">Board of Directors</a>
-          </li>
-          <li>
-            <a href="/about/careers">Careers</a>
-          </li>
-          <li>
-            <a href="http://www.cafepress.com/PingID" target="new">Ping Identity Store</a>
-          </li>
-          <li>
-            <a href="/about/contact">Contact Us</a>
-          </li>
-        </ul>
+
+
+		<div id="local-pic" class="clearfix">
+			<img src="/images/sections/AboutUs.jpg" height="105" width="738" alt="About Us">
+		</div>
+
+		<div class="red-rule">&nbsp;</div>
+
+    <div id="left-col">
+    	<div id="local-nav">
+			
+
+
+			
       </div>
-      <div id="salesContact">
-        <a href="mailto:%73%61%6c%65%73@%70%69%6e%67%69%64%65%6e%74%69%74%79.%63%6f%6d"><img alt="Contact Sales - 303.468.2882 - sales@pingidentity.com" src="/images/contactSales.jpg?1150400132"></a>
-      </div>
-      <div id="subscribe">
-        <script type="text/javascript">
+      <div id="contact-sales">
+	        <img src="/images/common/contact-sales.png" height="250" width="139" border="0" alt="Contact Sales">
+					<div id="subscribe">
+		        <script type="text/javascript">
 	function emailFieldFocused(field)
 	{
 		field.style.color = 'black';
@@ -88,14 +224,13 @@
 	}
 </script>
 <form action="/mailers/subscribe/2" method="get">
-  <div style="font-size: smaller; font-weight: bold">
-    Ping Identity<br> Newsletter:
-  </div>
   <input id="email" name="email" onblur="emailFieldBlurred(this)" onfocus="emailFieldFocused(this)" style="width: 100px; margin-bottom: 5px; color: #aaaaaa" type="text" value="e-mail address..."><br>
-  <input src="/images/button_subscribe.gif?1150400132" type="image">
+  <input src="/images/button_subscribe.gif?1164919044" type="image">
 </form>
-      </div>
+		      </div>
+	    </div>
     </div>
+
     <div id="content">
       ﻿
 
@@ -217,13 +352,23 @@
 </p>
 
     </div>
+  </div>
     <div id="footer">
-	© 2003-2006 Ping Identity Corporation
-	-
-  <a href="/about/privacy_policy">Privacy Policy</a>
-	-
-  <a href="/about/contact">Contact Us</a>
+	<span style="float:left; margin:0 0 0 10px; padding:0;">
+		© 2003-2006 Ping Identity Corporation
+	</span>
+	<span style="float:right; margin:0 10px 0 0; padding:0;">
+		
+			<a href="http://www.pingidentity.com/account/login" class="lbOn">Sign In</a>
+    	or
+			<a href="http://www.pingidentity.com/account/register">Register</a>
+     | 
+  <p></p>      
+		<a href="/about/privacy_policy">Privacy Policy</a> | 
+		<a href="/about/contact">Contact Us</a>
+	</span>
 </div>
+
         <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
       </script>
       <script type="text/javascript">
