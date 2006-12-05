@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marthastewartweddings.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231170209id_/http%3A//www.marthastewart.com/page.jhtml%3Ftype%3Dpage-cat%26id%3Dcat672%26navLevel%3D3%26navHistory%3D%26rsc%3Dmsfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marthastewartweddings.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225631id_/http%3A//www.marthastewart.com/page.jhtml%3Ftype%3Dpage-cat%26id%3Dcat672%26navLevel%3D3%26navHistory%3D%26rsc%3Dmsfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
