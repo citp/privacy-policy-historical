@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621185452id_/http%3A//www.accelacommunications.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002807id_/http%3A//www.accelacommunications.com/company/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Accela Communications - Privacy Policy
 
@@ -17,7 +17,7 @@ Accela Communications, Inc. provides this privacy policy to ensure clear notice 
 
 
 **What information does Accela Communications collect?**  
-Accela Communications collects optional data supplied by visitors through various registration forms, surveys, sweepstakes and contests, as well as information gathered from visitors via our server log. This information allows us to provide a more personalized and robust user experience and allows our vendor customers to better understand and communicate with the audience they are reaching.
+Accela Communications collects data supplied by visitors through various registration forms, surveys, sweepstakes and contests, as well as information gathered from visitors via our server log. This information allows us to provide a more personalized and robust user experience and allows our vendor customers to better understand and communicate with the audience they are reaching.
 
 **How is registration data used?**  
 Accela Communications, Inc. and its customers offer optional information services that require registration. Accela Communications provides some of those services directly while others are provided on behalf of third parties. 
