@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060434id_/http%3A//responsys.com/utility/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233520id_/http%3A//responsys.com/utility/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Responsys
 
@@ -9,7 +9,7 @@ Responsys makes the same firm commitment to privacy for our web site visitors as
 
 Responsys abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-For privacy questions related to an email message you received from a company using Responsys' service, please see our frequently asked questions page.
+For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [permission marketing policy/FAQ](https://web.archive.org/web/20061205233520id_/http%3A//responsys.com/utility/index.asp?page=legalnotices) page.
 
   
 **TRUSTe Privacy Program**  
@@ -23,7 +23,7 @@ Responsys is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent,
   * The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under Responsys' control
   * How you can correct any inaccuracies in the information
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Advocate by e-mail at [privacy@responsys.com](mailto:privacy@responsys.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our Privacy Advocate by email at [privacy@responsys.com](mailto:privacy@responsys.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the web site to resolve your concerns.
 
 **Information Tracked**  
 We use your IP address to help diagnose problems with our server and to administer our web site. We also track browser types to help us understand our visitors' needs related to our web site design.
