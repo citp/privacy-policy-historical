@@ -1,0 +1,45 @@
+> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203925id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
+
+# Lavasoft
+
+_Lavasoft AB respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy._
+
+This Privacy Policy explains Lavasoft AB’s treatment of your personally identifiable information collected in connection with your activities on Lavasoft’s website. Please also review our Terms of Use for the Lavasoft website.
+
+##### 1\. Data Collection
+
+Lavasoft AB will not collect or use any information about the visitors to the website; your visit to the website is anonymous. The only exception is when we need information that personally identifies you in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below.
+
+##### 2\. Contractual Obligation 
+
+If you make a purchase from the website, you will be asked to provide your name, billing address, e-mail and credit card information (if you have chosen credit card as payment method). Lavasoft AB will use such information only for processing your order and to send important product specific information such as a receipt, invoice, or license key.
+
+The information you provide will not be used for any other commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party with the exception of our subcontractor Element 5, who will process your orders and distribute the goods or services that you have requested.
+
+##### 3\. Cookies
+
+To enhance your experience with our site, some of our web pages use "cookies." Cookies are small text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, by registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.   
+We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site). We also may use cookies to offer you products, programs, or services. 
+
+#####  4\. Links to Other Sites 
+
+The website may contain links to other websites. Lavasoft AB does not monitor or control the content of such websites or whether such websites collect or process your personal data. Accordingly, Lavasoft AB assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
+
+##### 5.  Information Sharing
+
+We do not rent or sell your personally identifiable information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
+
+  * We have your consent. 
+  * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. 
+
+
+
+We may share aggregated information with others. Examples of this include the number of users who downloaded a specific product or how many users clicked on a particular advertisement. 
+
+##### 6\. Changes to This Policy 
+
+Lavasoft AB may occasionally update this Privacy Policy. Any changes will be posted here on the site, so we encourage you to continuously review our Privacy Policy.
+
+##### 7\. Contact Information 
+
+For questions regarding this Privacy Policy, please e-mail Lavasoft AB at [web@lavasoft.com](mailto:web@lavasoft.com).
