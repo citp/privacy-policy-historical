@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414003142id_/http%3A//quixtar.com/Quixtar/PrivacyStatement/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205185448id_/http%3A//www.quixtar.com/Quixtar/PrivacyStatement) for the most accurate reproduction.*
 
-# 
+# Quixtar - Privacy Statement
 
   
-Thank you for visiting [www.quixtar.com](http://www.quixtar.com/) or the personalized QHealthZone.com or QBeautyZone.com Web site of your authorized Quixtar® Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is powered by Quixtar Inc. and made available by Quixtar as a service to your IBO. As used in this Privacy Statement, the terms "our," "we" and "us" refer to both Quixtar and your IBO unless the context clearly provides otherwise.
+Thank you for visiting www.quixtar.com or the personalized QHealthZone.com, QBeautyZone.com, or OrderMyGift.com Web site of your authorized Quixtar® Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is powered by Quixtar Inc. and made available by Quixtar as a service to your IBO. As used in this Privacy Statement, the terms “our,” “we” and “us” refer to both Quixtar and your IBO unless the context clearly provides otherwise.
 
 We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
 
@@ -90,7 +90,7 @@ Any updates or changes to the terms of this Privacy Statement will be posted her
 **Contact Us**  
 If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to [quixtar.customer.support@quixtar.com](mailto:quixtar.customer.support@quixtar.com), or call 800-253-6500. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
 
-Updated and effective January 12, 2006.
+Updated and effective May 16, 2006.
 
 ©2006 Quixtar Inc., U.S.A, all rights reserved.
 
