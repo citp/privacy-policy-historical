@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042019id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/1141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202310id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/1141) for the most accurate reproduction.*
 
 # Star-Gazette.COM - Customer Service
 
