@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615135417id_/http%3A//www.voip-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223338id_/http%3A//www.voip-news.com/privacy) for the most accurate reproduction.*
 
-# VoIP-News Privacy Policy
+# Voip-news.com Terms and Conditions
 
-**Tippit** ("Tippit") is committed to your privacy. We created this privacy policy ("Privacy Policy") so that you can understand the care with which we intend to treat your information and to inform you of our information gathering and dissemination policies for [www.VoIP-News.com](http://www.voip-news.com/ "Go to VoIP-News.com") (the "Site"). You can generally visit our Site without revealing any personal information about yourself. However, when you engage in certain activities on the Site, such as registering to subscribe to the VoIP Report newsletter or to participate on the message boards, we may ask you to provide certain information that is personally identifiable. 
+Tippit ("Tippit") is committed to your privacy. We created this privacy policy ("Privacy Policy") so that you can understand the care with which we intend to treat your information and to inform you of our information gathering and dissemination policies for [www.VoIP-News.com](http://www.voip-news.com/ "Go to VoIP-News.com") (the "Site"). You can generally visit our Site without revealing any personal information about yourself. However, when you engage in certain activities on the Site, such as registering to subscribe to the VoIP Report newsletter or to participate on the message boards, we may ask you to provide certain information that is personally identifiable. 
 
-**Acquisition of Information**  
+Acquisition of Information  
 Tippit collects information from you in the following ways: 
 
   * User supplied information: Our registration process requires your e-mail address. In addition, our registration process allows you to provide the following information at your option: personal name, title, address, phone number, company name, and the technologies you are interested in. From time to time, we may request additional information.
@@ -13,7 +13,7 @@ Tippit collects information from you in the following ways:
 
 
 
-**Use of Information**  
+Use of Information  
 We may use the information we collect as follows: 
 
   * The non-personally identifiable information that Tippit collects is used to better target content in an effort to create a more relevant experience for every user. The information is also used to predict responses to offers and advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
@@ -21,7 +21,7 @@ We may use the information we collect as follows:
 
 
 
-**Sharing Information with Third Parties**  
+Sharing Information with Third Parties  
 All personally identifiable information you provide is maintained in confidence by Tippit. There are cases where your personally identifiable and non-personally identifiable information is shared with third parties, as described below: 
 
   * Your non-personally identifiable data may be shared with third-party partners of Tippit on an anonymous basis.
@@ -31,29 +31,23 @@ All personally identifiable information you provide is maintained in confidence 
 
 
 
-**Data Quality**
-
+Data Quality  
 Tippit would like to maintain the accuracy of your personally identifiable information. Should you need to update or correct your information, please send changes to the address below. 
 
-**Security**
-
+Security  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of personally identifiable information, we have put in place reasonable safeguards to secure the information we collect online. 
 
-**Your California Privacy Rights**
-
+Your California Privacy Rights  
 Beginning January 1, 2005, California passed legislation requiring certain disclosures be made available to California residents who use the Internet to provide information that may be used for marketing purposes. California residents may request information about whether the business has disclosed personally identifiable information to third parties and may also request that this information not be shared. If you are a California resident, you may request this at the address below. 
 
-**Children**
+Children  
+In compliance with the Children's Online Privacy Protection Act (COPPA), Tippit websites are not directed at children under thirteen years of age, and Tippit does not intend to collect personally identifiable information from such individuals. 
 
-In compliance with the Children’s Online Privacy Protection Act (COPPA), Tippit websites are not directed at children under thirteen years of age, and Tippit does not intend to collect personally identifiable information from such individuals. 
+Due to the Internet's rapidly evolving nature, Tippit may need to update this Privacy Policy from time to time. If so, Tippit will post its updated policy at [www.VoIP-News.com](http://www.voip-news.com/ "Go to VoIP News.com"). Tippit encourages you to review this Privacy Policy regularly for any changes. 
 
-Due to the Internet’s rapidly evolving nature, Tippit may need to update this Privacy Policy from time to time. If so, Tippit will post its updated policy at [www.VoIP-News.com](http://www.voip-news.com/ "Go to VoIP-News.com"). Tippit encourages you to review this Privacy Policy regularly for any changes. 
-
-**Questions?**  
-If you have any questions or suggestions about our privacy or security policies, or if you wish to opt-out or have your information removed from our database, please feel free to contact us at: 
-
+Questions?  
+If you have any questions or suggestions about our privacy or security policies, or if you wish to opt-out or have your information removed from our database, please feel free to contact us at:   
 Tippit  
-531 Howard Street  
-4th Floor  
-San Francisco, CA 94105  
+514 Bryant Street  
+San Francisco, CA 94107  
 
