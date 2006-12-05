@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200317id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220433id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
 
 # A-Z Lyrics Universe Privacy Policy
 
@@ -31,4 +31,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](mailto:azlyrics@azlyrics.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.azlyrics.com/contact.html)
