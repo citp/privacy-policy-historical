@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/privacy.php) for the most accurate reproduction.*
 
 # Jay Naylor Illustrations Comics Games
 
   
-[Main](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/index.php) . [Comics](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/comics.html) . [Pictures](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/pictures.html) . [Catalog](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/catalog.html) . [News](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/news.html) . [Profile](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/profile.html) . [WIP](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/wip.html) . [Links](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/links.html) . [Contact](mailto:jay@jaynaylor.com)
+[Main](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/index.php) . [Comics](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/comics.html) . [Pictures](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/pictures.html) . [Catalog](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/catalog.html) . [News](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/news.html) . [Profile](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/profile.html) . [WIP](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/wip.html) . [Links](https://web.archive.org/web/20061206003045id_/http%3A//www.jaynaylor.com/links.html) . [Contact](mailto:jay@jaynaylor.com)
 
 * * *
 
