@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the metal-pages.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210143824id_/http%3A//www.metal-pages.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metal-pages.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205230905id_/http%3A//www.metal-pages.com/privacy.php) for the most accurate reproduction.*
 
-# Metal Pages
+# Metal-Pages. Your link to the world's metal markets!
 
-|  |   
----  
-**PRIVACY POLICY**
+|  [](https://web.archive.org/)[](https://web.archive.org/contact.php)[](http://china.metal-pages.com/)  
+[](https://web.archive.org/reg/reg.php) [Take a trial](https://web.archive.org/reg/reg.php) [Subscribe](https://web.archive.org/reg/subscr.php) [Renew](https://web.archive.org/reg/subscr.php) [Marketplace](https://web.archive.org/subscr/market.php) [Open Marketplace](https://web.archive.org/market/market.php) [News](https://web.archive.org/news.php) [Metals](https://web.archive.org/metals.php) [Daily summary](https://web.archive.org/ds/index.php) My Page [   Relevant proposals](https://web.archive.org/subscr/mypage/prop_rel.php) [   Negotiating](https://web.archive.org/subscr/mypage/prop_neg.php) [   My proposals](https://web.archive.org/subscr/mypage/prop_my.php) [   New proposal](https://web.archive.org/subscr/mypage/prop_edit.php) [   News](https://web.archive.org/subscr/mypage/news.php) [   My RSS](https://web.archive.org/subscr/mypage/rss.php) [   Prices](https://web.archive.org/subscr/mypage/prices.php) [   My profile](https://web.archive.org/subscr/mypage/profile.php) Prices [   Minor, Ferro, Precious](https://web.archive.org/subscr/prices/mp.php) [   Chinese market New!](https://web.archive.org/subscr/prices/cn.php) [   Rare Earth](https://web.archive.org/subscr/prices/re.php) [   Base Metal – Live](https://web.archive.org/subscr/prices/live.php) [   LME settlement](https://web.archive.org/subscr/prices/lme.php) [   Historical](https://web.archive.org/subscr/prices/hist.php) [   Historical (LME)](https://web.archive.org/subscr/prices/hist_lme.php) [Directory](https://web.archive.org/subscr/dir/dir.php) [Customs tariff](https://web.archive.org/subscr/tariffs.php) [Currency converter](https://web.archive.org/subscr/curr.php) [Links](https://web.archive.org/links.php) [What we offer](https://web.archive.org/offer.php) [Advertising](https://web.archive.org/ad.php) [About us](https://web.archive.org/about.php) [Contact us](https://web.archive.org/contact.php) | 
+
+Privacy policy
 
 **_Information Collection and Use_**  
-Metal-Pages Ltd (“Metal-Pages”) is the sole owner of the information collected on this web site. The nature of our web site means that we will obtain and use (together “Use”) certain personal information on our web site located at www.metal-pages.com (“the Site”). We will not however sell, share, or rent this information to others in ways other than that which is disclosed in this statement. Metal-Pages collects information from you at several different points on the Site. This statement sets out the principles governing our Use of your Personal information on the Site. By using the Site you agree to this Use.   
-  
+Metal-Pages Ltd (“Metal-Pages”) is the sole owner of the information collected on this web site. The nature of our web site means that we will obtain and use (together “Use”) certain personal information on our web site located at www.metal-pages.com (“the Site”). We will not however sell, share, or rent this information to others in ways other than that which is disclosed in this statement. Metal-Pages collects information from you at several different points on the Site. This statement sets out the principles governing our Use of your Personal information on the Site. By using the Site you agree to this Use. 
+
   1. **_Registration_**  
 In order to use the Site, you must first complete the registration form. During registration you are required to give certain personal information (such as company and contact name, business address and email address) and specific areas of interest, i.e. metals and minerals handled or services provided (“Personal Information”). This Personal Information is stored and used to contact you about the services on the Site for which you have expressed an interest, provide you with information and otherwise for the normal use and improvement of the Site. **If you would like to review or modify any part of your Personal Information then you should email us at info@metal-pages.com.**
   2. **_Subscription_**  
@@ -35,8 +36,12 @@ If you have any questions about the security at the Site, you can send an email 
 
 Whilst we will take all reasonable steps to protect your Personal Information, we cannot guarantee the security of any Personal Information you disclose online. You accept the inherent security implications of providing information on-line over the internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default. 
 
-If you feel that Metal-pages is not abiding by its posted privacy policy, you should first contact Nigel Tunna by e-mail: [info@metal-pages.com](mailto:info@metal-pages.com) or phone +44 (0)20 7613 0888. 
+If you feel that Metal-pages is not abiding by its posted privacy policy, you should first contact Nigel Tunna by e-mail: [info@metal-pages.com](mailto:info@metal-pages.com) or phone +44 (0) 208 255 8325. 
 
 
+|  | Poll  
+---  
   
- 
+Will the HG cobalt price reach $35/lb by the end of the year
+
+**[Answer »](https://web.archive.org/subscr/poll.php)**
