@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614101334id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215133id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -8,7 +8,7 @@ The University of South Australia respects the privacy of your personal informat
 
 ## Collection and use of information
 
-One way of collecting information is through cookies, which are small information files that many websites store on your hard disk. When you log on to your UniSA [ email](http://www.unisa.edu.au/email.asp) from a particular computer for the first time, cookies containing your log on information will be saved to your hard disk. The server can then read your cookie file to confirm your identity for that site.
+One way of collecting information is through cookies, which are small information files that many websites store on your hard disk. When you log on to your UniSA [email](https://my.unisa.edu.au/exchange/) from a particular computer for the first time, cookies containing your log on information will be saved to your hard disk. The server can then read your cookie file to confirm your identity for that site.
 
 Cookies can only collect information that has been provided by the user, or information such as the IP address which the server already knows. UniSA will not use any electronic address captured by this means to send unsolicited commercial messages.
 
@@ -41,6 +41,6 @@ The network which hosts this facility has sophisticated security and publishing 
 
 ## Internal users of the UniSA computer environment
 
-The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www.unisa.edu.au/ists/Governance/Policies/pppg/protocols.asp). formalises this commitment.
+The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www.unisa.edu.au/ists/Governanceinit/Policies/pppg/protocols.asp). formalises this commitment.
 
 top^
