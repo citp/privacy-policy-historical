@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205432id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205022746id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
 
-[Terms & Conditions](https://web.archive.org/web/20060615205432id_/http%3A//www.zenimax.com/legal_terms.htm)  
+[Terms & Conditions](https://web.archive.org/web/20061205022746id_/http%3A//www.zenimax.com/legal_terms.htm)  
 **Privacy Policy**  
-[Legal Information](https://web.archive.org/web/20060615205432id_/http%3A//www.zenimax.com/legal_info.htm)
+[Legal Information](https://web.archive.org/web/20061205022746id_/http%3A//www.zenimax.com/legal_info.htm)
 
-[](http://www.esrb.com/confirm/zenimax-confirmation.htm)
+[](http://www.esrb.org/confirm/zenimax-confirmation.jsp)
 
 **ZENIMAX MEDIA ONLINE PRIVACY POLICY**
 
@@ -56,11 +56,11 @@ This Privacy Policy currently applies to the following websites operated by Zeni
 [www.morrowind.com](http://www.morrowind.com/)  
 [www.elderscrolls.com](http://www.elderscrolls.com/)  
 [www.vir2l.com](http://www.vir2l.com/)  
+[startrek.bethsoft.com](http://startrek.bethsoft.com/)  
 [pirates.bethsoft.com](http://pirates.bethsoft.com/)  
 [ihra.bethsoft.com](http://ihra.bethsoft.com/)  
 [www.ihramobile.com](http://www.ihramobile.com/)  
 [www.mudduckgames.com](http://www.mudduckgames.com/)  
-[www.fill-up.com](http://www.fill-up.com/)  
 [www.callofcthulhu.com](http://www.callofcthulhu.com/)  
 [breeders.bethsoft.com](http://breeders.bethsoft.com/)  
 [www.ducatiextreme.com](http://www.ducatiextreme.com/)
@@ -176,18 +176,25 @@ We also have security measures in place to protect against the loss, misuse and 
 
 **How do I ask a question or file a complaint?**
 
-If you have any questions, complaints or comments regarding our Privacy Policy Statement or practices, please contact us via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), or by regular mail at:
+If you have any questions, complaints or comments regarding our Privacy Policy Statement or practices, please contact us via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), by phone at _(301) 963-2000_ , or by regular mail at:
 
-Privacy Coordinator  
+_Privacy Coordinator  
 ZeniMax Media Inc.  
 1370 Piccard Drive, Suite 120  
-Rockville, MD 20850  
-USA 
+Rockville, MD 20850_ _  
+USA_
 
   
-For complaints, you can also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017.
+You can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or at:
+
+_ESRB Privacy Online  
+Attn.: Director, Privacy Online  
+317 Madison Avenue, 22 Floor  
+New York, NY 10017  
+(212) 759-0700  
+[privacy@esrb.org](mailto:privacy@esrb.org)_
 
 _By using this site, you signify your assent to the ZeniMax Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on this site or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes._
 
   
-Updated 01/05/2006
+Updated 10/02/2006
