@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613025019id_/http%3A//www.reporternews.com/abil/home/article/0%2C1874%2CABIL_7941_1600432%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190529id_/http%3A//www.reporternews.com/abil/home/article/0%2C1874%2CABIL_7941_1600432%2C00.html) for the most accurate reproduction.*
 
 # Abilene Reporter News
 
@@ -7,7 +7,7 @@ Privacy Policy
 
  **December 10, 2002**
 
-Reporter-News.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **Reporter-News.com** we intend to give you as much control as possible over your personal information. 
+ **Reporter-News.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **Reporter-News.com** we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -15,7 +15,7 @@ Our **site(s)** may contain links to other web sites, including web sites direct
 
 **I. Information Which We Collect**
 
-We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information. 
+We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need — to correspond with you, process an order or provide you with a subscription, for example — it is our intent to let you know how we will use such information. 
 
 Like many other commercial sites, our **site(s)** may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. 
 
@@ -24,6 +24,13 @@ Like many other commercial sites, our **site(s)** may utilize a standard technol
 We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site. 
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons in the following way: 
+
+* For auditing purposes and to collect information from the websites of certain partners. 
+* Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. 
+
+Our practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out by contacting us at the e-mail address, postal address or telephone number stated above. 
 
 In addition, users may complete a **[subscription form online](http://www.reporter-news.com/circulation/)** in order to subscribe to the **Abilene Reporter-News**. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
 
