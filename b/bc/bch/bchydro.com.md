@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221742id_/http%3A//bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204541id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # BC Hydro - Privacy Statement
 
@@ -18,4 +18,4 @@ We request information from the user on our order forms. Here a user must provid
 
 From time-to-time our site may have a contest or request information from users via surveys. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose any information. Information requested may include contact information, such as name and shipping address, and demographic information. Contact information will be used only to notify the winners and award prizes. Survey information will be used on an aggregated (not individually identifiable) basis only, for purposes of monitoring and/or improving the use and satisfaction of this site.
 
-[](https://web.archive.org/web/20060615221742id_/http%3A//bchydro.com/siteinfo/privacy.html?printnow)
+[](https://web.archive.org/web/20061205204541id_/http%3A//www.bchydro.com/siteinfo/privacy.html?printnow)
