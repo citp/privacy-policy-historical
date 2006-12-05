@@ -1,43 +1,11 @@
-> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812182316id_/http%3A//freelang.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002005id_/http%3A//www.freelang.net/privacy.html) for the most accurate reproduction.*
 
-# FREELANG.net - privacy
-
-|  [DICTIONARY](https://web.archive.org/web/20030812182316id_/http%3A//freelang.net/dictionary/index.html)  
----  
-Offline dictionary program (freeware for Windows). Install the program once, then download as many word lists as needed.  
-  
- [FREE TRANSLATION](https://web.archive.org/web/20030812182316id_/http%3A//freelang.net/translation/index.html)  
----  
-Having trouble translating something? Ask your question to volunteers ready to help you... for free!  
-  
- [FONT CENTER](https://web.archive.org/web/20030812182316id_/http%3A//freelang.net/fonts/index.html)  
----  
-From Arab to Vietnamese, including Hebrew, Japanese... more than 300 fonts available to download on one page.  
-  
-* * *
-
-**FREELANG - Privacy policy**
+# FREELANG - Privacy Policy
 
 Freelang does not collect or save any personal information for commercial purpose about any visitor and will not send any unsolicited information (spam) to anyone. 
 
-Freelang logs statistic information about browsers, operating systems, IP-addresses and referring websites for security purposes and to further improve the website. None of this information is distributed to any third party. 
+Freelang logs information about browsers, operating systems, IP-addresses and referring websites for statistic purposes and to further improve the website. None of this information is distributed to any third party. 
 
-Freelang does not use cookies (except for registered translators, but the cookie is deleted when the session is closed). 
+Freelang does not use cookies (except when registered translators log in, but the cookie is deleted when the session is closed). 
 
-* * *
-
-| 
-
-|  MAILING LIST  
----  
-  
-  MISC.  
----  
-Best viewed with  
-IExplorer 5.x, 800x600
-
-* * *
-
-© Beaumont 1997-2003
-
-* * *
+Our newsletter is sent to people who typed in their address email for this purpose, on our website only. Our mailing list is thus based on voluntary subscription ( _opt in_ ), we don't use the _opt out_ system and we don't buy or collect addresses from any third party. 
