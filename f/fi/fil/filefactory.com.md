@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2006-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060601063130id_/http%3A//www.filefactory.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231058id_/http%3A//www.filefactory.com/info/privacy.php) for the most accurate reproduction.*
 
 # FileFactory. Privacy Policy.
 
-#### WEBSITE PRIVACY POLICY  
-EFFECTIVE DATE: September 15, 2005
+#### EFFECTIVE DATE: September 15, 2005
 
 #### 1\. INTRODUCTION
 
@@ -50,15 +49,3 @@ We reserve the right, at any time and without notice, to add to, change, update,
 
   
 
-
-### FileFactory - fast, simple and free file hosting!
-
-FileFactory lets you host files up to 500MB for free. You don't have to register and there is nothing to download. All files are uploaded through your browser. 
-
-We host your files indefinitely, however if nobody downloads your file for 15 days, it will be removed automatically.
-
-### OK, there must be a catch?
-
-Nope! We developed this service because we discovered there was a need to store and send large files. We want to make sure that you are happy with our service so you'll come back and use it again and again.
-
-So, how can we do this for free? We generate all our revenue from advertising. 
