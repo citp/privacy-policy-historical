@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedousa.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050259id_/http%3A//www.speedousa.com/index.cfm/fuseaction/content.page/nodeID/57a04622-584d-415a-b209-98091e7acb44) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedousa.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235723id_/http%3A//www.speedousa.com/index.cfm/fuseaction/content.page/nodeID/57a04622-584d-415a-b209-98091e7acb44) for the most accurate reproduction.*
 
 # SpeedoUSA > Help and Info > Privacy and Security
 
