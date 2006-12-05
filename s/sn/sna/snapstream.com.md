@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200431id_/http%3A//www.snapstream.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213749id_/http%3A//www.snapstream.com/privacy.asp) for the most accurate reproduction.*
 
 # SnapStream: Privacy Policy
 
@@ -75,7 +75,7 @@ Via e-mail: [privacy@snapstream.com](mailto:privacy@snapstream.com)
 
 **To view a past version of the Privacy Policy, select a link below:**
 
-  * **[Privacy Policy (10/18/2000 \- 3/23/2006)](https://web.archive.org/web/20060616200431id_/http%3A//www.snapstream.com/privacy-2000-10.asp)  
+  * **[Privacy Policy (10/18/2000 \- 3/23/2006)](https://web.archive.org/web/20061205213749id_/http%3A//www.snapstream.com/privacy-2000-10.asp)  
 **
 
 |  
