@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014538id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183721id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
 
-# EWTN Background
+# EWTN Internet Privacy Policy
 
 This web site is owned and operated by Eternal Word Television Network, Inc. (EWTN). We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns and our commitment to protecting your privacy on this web site. The information we collect from you is used to improve the content of our web site and to provide you with information, products or other services available to you through EWTN. This Privacy Policy may be changed or updated from time to time and we recommend that you review these terms periodically. 
 
@@ -47,9 +47,9 @@ If you no longer wish to receive electronic mailings from us, you may opt-out of
 Thank you for visiting our web site. We are available to answer your questions and hear your concerns. For inquiries concerning our information practices and Privacy Policy, you may contact us at: 
 
 > EWTN Global Catholic Network  
->  Attention: EWTN Webmaster  
+>  Attention: Scott Hults  
 >  5817 Old Leeds Rd.  
 >  Irondale, AL 35210-2164  
->  or e-mail us at [webmaster@ewtn.com](mailto:webmaster@ewtn.com)
+>  or e-mail us at [shults@ewtn.com](mailto:shults@ewtn.com)
 
-Rev. October 26, 2004
+Rev. September 19, 2006
