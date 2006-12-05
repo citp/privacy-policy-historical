@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034046id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213021id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# BlogWonks: Your Alternate Daily » Privacy Policy
+# MND: » Privacy Policy
 
-## Privacy Policy
+| 
 
 Java King, Inc. is the owner of various domains, including MensNewsDaily.com, MNDnet.com, blogwonks.com, and others.
 
@@ -33,3 +33,27 @@ _JKI_ webistes contain many links to other sites on the Web. We cannot control a
 If you have questions or concerns regarding this statement, contact editor(at)MensNewsDaily.com. 
 
 You must be [logged in](http://mensnewsdaily.com/wp/wp-login.php?redirect_to=http://mensnewsdaily.com/privacy-policy/) to post a comment.
+
+|   
+  
+* * *
+
+* * *
+
+MensNEWSdaily®, mndnet.com, BlogWonks.com™, BlogWonk.com™, NewsWax.com™, YakVox.com™, DorkWatch.org™, CounterPulse.com™, JavaKing.com™ © 2001 - 2006 Java King, Inc.. _Opinions found on this website are expressly those of the author(s) and do not necessarily reflect the opinion of this publication, its editorial staff or contributors._ Words, graphics, audio, video, and all other content published on this domain must adhere to our [ Terms of Service ](http://mensnewsdaily.com/terms-of-service/). JAVA KING, INC AND ITS SUBSIDIARIES, ADVERTISERS, SPONSORS AND AFFILIATES, DISCLAIM ALL WARRANTIES, REPRESENTATIONS OR ENDORSEMENTS HEREIN EXPRESSED OR IMPLIED. 
+
+* * *
+
+[](http://pr.blogflux.com/)
+
+* * *
+
+[ ](http://s11.sitemeter.com/stats.asp?site=s11mndnet)
+
+[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00221208P001)
+
+* * *
+
+* * *
+
+©2001-2006 Java King, Inc. All Rights Reserved. 
