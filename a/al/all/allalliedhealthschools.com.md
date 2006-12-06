@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allalliedhealthschools.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322051842id_/http%3A//www.allalliedhealthschools.com/w3c/privacy_popup.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allalliedhealthschools.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206160202id_/http%3A//www.allalliedhealthschools.com/w3c/privacy_popup.php) for the most accurate reproduction.*
 
 # All Allied Health Schools - Privacy Policy
 
