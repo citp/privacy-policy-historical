@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013320id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014150id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
 
-# Olan Mills Portrait Studios - The Family's Choice for Studio Portraits
+# Olan Mills Portrait Studios - Sharing the Love of Portraits
 
-This is the web site of **Olan Mills,Inc.**
+This is the web site of **Olan Mills, Inc.**
 
-Our postal address is:  
-**Olan Mills, Inc.  
-P.O. Box 23456  
-Chattanooga, TN 37422**  
+Our postal address is: 
 
+> **Olan Mills, Inc.  
+>  P.O. Box 23456  
+>  Chattanooga, TN 37422**
 
 For each visitor to our web page, our web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
