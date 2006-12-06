@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224920id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206053649id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Automotivetouchup.com is the website of Microfinish LLC. **  
  **
 
-Our postal address is   
-**713 Thirba St  
-Metairie, LA 70003**
+Our postal address is 
+
+**Microfinish LLC  
+****1501 Kuebel St Suite E  
+Harahan, LA 70123**
 
 We can be reached via e-mail at [web@automotivetouchup.com](mailto:web@automotivetouchup.com)  
 or you can reach us toll free by phone at 1-888-710-5192  
@@ -27,8 +29,6 @@ If you supply us with your postal address on-line you will only receive the info
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, a description of information that we maintain about them.
-
-Consumers can access this information by visiting us at [ http://www.automotivetouchup.com/online/customer/customer_login.asp](http://www.automotivetouchup.com/online/customer/customer_login.aspx). 
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
