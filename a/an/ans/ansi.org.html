@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ansi.org privacy policy that was archived on 2006-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617214134id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ansi.org privacy policy that was archived on 2006-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206192548id_/http%3A//ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>Privacy Statement for ANSI Online</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,28 +13,31 @@
 	<body onload="P7_setMenuMagic1(0,40,10,'cNavP_p7menubottom','cNavP_p7menu0','cNavP_p7submenu0','store','cNavP_p7menu1','cNavP_p7submenu1','about','cNavP_p7menu2','cNavP_p7submenu2','membership','cNavP_p7menu3','cNavP_p7submenu3','standards_activ','cNavP_p7menu4','cNavP_p7submenu4','conformity','cNavP_p7menu5','cNavP_p7submenu5','consumer','cNavP_p7menu6','cNavP_p7submenu6','gov','cNavP_p7menu7','cNavP_p7submenu7','news','cNavP_p7menu8','cNavP_p7submenu8','events','cNavP_p7menu9','cNavP_p7submenu9','edu','cNavP_p7menu10','cNavP_p7submenu10','other','cNavP_p7menu11','cNavP_p7submenu11','lib','cNavP_p7menu12','cNavP_p7submenu12','inter','cNavP_p7menu13','cNavP_p7submenu13','career');P7_trigMenuMagic1('cNavP_p7menu1',1)">	
 <div id="top" style="Z-INDEX:1; LEFT:15px; VISIBILITY:visible; WIDTH:735px; POSITION:absolute; TOP:0px; HEIGHT:104px">
 	<link rel="SHORTCUT ICON" href="images/home/favicon.ico">
-	<script language="JavaScript" src="/searchConstants.js">
+		<script language="JavaScript">
+	function GetResults()
+	{
+		var	f =	document.forms[0];
+
+		if(f.elements['searchstring'].value == '')
+		{
+			alert('Please enter one or more search words.');
+			return false;
+		}
+		else
+		{
+			f.action = 'http://publicaa.ansi.org/sites/apdl/_layouts/1033/searchresults.aspx';
+			f.submit();
+		}
+	}
 	</script>
-	<script language="JavaScript" src="/searchFunctions.js">
-	</script>
-	<script language="JavaScript" src="/miscFunctions.js">
-	</script>
-	<form action="http://public.ansi.org/ansionline/portal/search" method="post" name="publishing_SearchForm" onsubmit="return generateAndSaveSearchQueries();">
-		<input type="hidden" name="publishing_q_ShowAdvanced"> <input type="hidden" name="publishing_q_WasAdvanced">
-		<input type="hidden" name="publishing_q_StartResultRow"> <input type="hidden" name="publishing_q_CarriedBestBetCount">
-		<input type="hidden" name="publishing_qs_clause"> <input type="hidden" name="publishing_q_categories">
-		<input type="hidden" name="publishing_q_documents"> <input type="hidden" name="publishing_q_DateSearchUsed">
-		<input type="hidden" name="publishing_q_PrevCategoryKeywordConstraints"> <input type="hidden" name="publishing_q_PrevDocumentKeywordConstraints">
-		<input type="hidden" name="publishing_q_PrevPropertyConstraints"> <input type="hidden" name="publishing_q_SubscriptionQuery">
-		<input type="hidden" name="SubscribedSearch"> <input type="hidden" name="publishing_q_AutoCatEnabled" value="true">
-		<input type="hidden" name="publishing_q_HiddenKeyword"> <input type="hidden" name="publishing_q_SearchScope" value="This site">
+	<form method="post" action="" onsubmit="GetResults();return true;">
 		<table width="735" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr valign="bottom">
 				<td width="400" valign="top"><a href="http://www.ansi.org"><img src="/images/inside/top/About-ANSI.gif" border="0" width="210" height="75" alt="ANSI - American National Standards Institute" name="ansilog"></a></td>
 				<td align="right"><img src="/images/inside/top/text.gif" width="253" height="20" name="write"><br>
 					<a href="/default.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('hom','','/images/inside/top/home_on.gif',1)">
 						<img src="/images/inside/top/home.gif" width="84" height="31" alt="Home" name="hom" border="0"></a><a href="/contact_us/contact_us.aspx?menuid=contact" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('con','','/images/inside/top/contact_on.gif',1)"><img src="/images/inside/top/contact.gif" width="96" height="31" alt="Contact Us" name="con" border="0"></a><!--a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sit','','/images/inside/top/sitemap_on.gif',1)"><img src="/images/inside/top/sitemap.gif" width="84" height="31" alt="Sitemap" name="sit" border="0"></a--><a href="/help/help.aspx?menuid=help" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('hel','','/images/inside/top/help_on.gif',1)"><img src="/images/inside/top/help.gif" width="91" height="31" alt="Help" name="hel" border="0"></a>
-					<input type="text" name="publishing_q_SearchKeyword" value="Search" size="30" maxlength="4096" onfocus="MakeSelected(this);">&nbsp;<input type="image" name="iGo" src="/images/home/go1.gif" width="34" height="21">
+					<input type="text" name="searchstring" value="Search" size="30" maxlength="2000" onfocus="MakeSelected(this);">&nbsp;<input type="image" name="iGo" src="/images/home/go1.gif" width="34" height="21">
 				</td>
 			</tr>
 		</tbody></table>
@@ -103,17 +106,17 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/About%20ANSI/">Constitution and By-Laws</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/About%20ANSI/">Constitution and By-Laws</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/News%20and%20Publications/Brochures/">Annual Report</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/News%20and%20Publications/Brochures/">Annual Report</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/About%20ANSI/2006%20Framework%20for%20Action.pdf">Framework for Action</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/About%20ANSI/2006%20Framework%20for%20Action.pdf">Framework for Action</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -122,17 +125,17 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Conformity%20Assessment/Product%20Certification%20Accreditation/Client%20Companies%20and%20Applicants/">ANSI Accredited Certification Programs</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Conformity%20Assessment/Product%20Certification%20Accreditation/Client%20Companies%20and%20Applicants/">ANSI Accredited Certification Programs</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/American%20National%20Standards/ANSI%20Accredited%20Standards%20Developers/">ANSI - Accredited Standards Developers</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/American%20National%20Standards/ANSI%20Accredited%20Standards%20Developers/">ANSI - Accredited Standards Developers</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/International%20Standardization/ISO/US%20TAGs%20to%20ISO/">ANSI-Accredited Technical Advisory Groups to ISO</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/International%20Standardization/ISO/US%20TAGs%20to%20ISO/">ANSI-Accredited Technical Advisory Groups to ISO</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -183,27 +186,27 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Membership/Membership Rosters/Company Members.doc">Company Members</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Membership/Membership Rosters/Company Members.doc">Company Members</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Membership/Membership Rosters/Educational Members.doc">Educational Members</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Membership/Membership Rosters/Educational Members.doc">Educational Members</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Membership/Membership Rosters/Government Members.doc">Government Members</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Membership/Membership Rosters/Government Members.doc">Government Members</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Membership/Membership Rosters/International Members.doc">International Members</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Membership/Membership Rosters/International Members.doc">International Members</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Membership/Membership Rosters/Organizational Members.doc">Organizational Members</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Membership/Membership Rosters/Organizational Members.doc">Organizational Members</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -259,17 +262,17 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/American%20National%20Standards/Procedures,%20Guides,%20and%20Forms/">Procedures, Guides and Forms</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/American%20National%20Standards/Procedures,%20Guides,%20and%20Forms/">Procedures, Guides and Forms</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://12.15.192.27/">PINS &amp; BSR8/108 WEB Data Submittal Forms</a></td>
+		<td><a class="nav3" href="http://psawebforms.ansi.org">PINS &amp; BSR8/108 WEB Data Submittal Forms</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/American%20National%20Standards/ANSI%20Accredited%20Standards%20Developers/">ANSI - Accredited Standards Developers</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/American%20National%20Standards/ANSI%20Accredited%20Standards%20Developers/">ANSI - Accredited Standards Developers</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -347,7 +350,7 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/International%20Standardization/IEC/Procedures,%20Guides%20and%20Forms/">Procedures, Guides and Forms</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/International%20Standardization/IEC/Procedures,%20Guides%20and%20Forms/">Procedures, Guides and Forms</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -376,12 +379,12 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/International%20Standardization/ISO/US%20TAGs%20to%20ISO/">US TAGs to ISO</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/International%20Standardization/ISO/US%20TAGs%20to%20ISO/">US TAGs to ISO</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Standards%20Activities/International%20Standardization/ISO/">Procedures, Guides and Forms</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/International%20Standardization/ISO/">Procedures, Guides and Forms</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -428,21 +431,30 @@
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
+		<td>&nbsp;&nbsp;</td>
+		<td><a class="nav3" href="/standards_activities/standards_boards_panels/idsp/overview.aspx?menuid=3">Identity Theft Prevention and Identity Management Standards Panel</a></td>
+	</tr>
+	<tr>
+		<td>&nbsp;&nbsp;</td>
 		<td colspan="2"><a class="nav2" href="http://www.NSSN.org" target="_blank">Search American National Standards</a></td>
 	</tr>
 </tbody></table>
 </div><div id="cNavP_p7menu4" style="position: absolute; top: 154px; left: 15px; z-index: 105; visibility: visible;"><a onmouseover="P7_rollCMenu1(event,'cNavP_p7menu4',0)" onmouseout="P7_rollCMenu1(event,'cNavP_p7menu4',0)" href="/conformity_assessment/overview/overview.aspx?menuid=4"><img src="https://web.archive.org/images/inside/nav/conformity.gif" border="0" alt="Accreditation Services" name="conformity"></a></div><div id="cNavP_p7submenu4" style="position: absolute; top: 154px; left: -185px; z-index: 2054; visibility: visible;"><table border="0" width="180" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/overview/overview.aspx?menuid=4">-Overview</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/overview/overview.aspx?menuid=4">Overview</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/references.aspx?menuid=4">-References</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/benefits.aspx?menuid=4">Benefits of Accreditation</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/accreditation_certification_programs.aspx?menuid=4">-Product Certification Accreditation</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/references.aspx?menuid=4">Reference Materials</a></td>
+	</tr>
+	<tr>
+		<td>&nbsp;&nbsp;</td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/accreditation_certification_programs.aspx?menuid=4">Product Certification Accreditation</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -457,7 +469,7 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Conformity%20Assessment/Product%20Certification%20Accreditation/Procedures,%20Guides%20and%20Forms/">Documents</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Conformity%20Assessment/Product%20Certification%20Accreditation/Procedures,%20Guides%20and%20Forms/">Documents Library</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -467,7 +479,7 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="/conformity_assessment/accreditation_programs/accred_prod_cert_bodies.aspx?menuid=4">Online Directory</a></td>
+		<td><a class="nav3" href="/conformity_assessment/accreditation_programs/accred_prod_cert_bodies.aspx?menuid=4">Directory of Accredited Bodies and Applicants</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -476,7 +488,12 @@
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/personnel_certification/overview.aspx?menuid=4">-Personnel Certification Accreditation</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/personnel_certification/overview.aspx?menuid=4">Personnel Certification Accreditation</a></td>
+	</tr>
+	<tr>
+		<td>&nbsp;&nbsp;</td>
+		<td>&nbsp;&nbsp;</td>
+		<td><a class="nav3" href="/conformity_assessment/workshop.aspx?menuid=4">NEW: 2-day Course</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -486,12 +503,17 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
+		<td><a class="nav3" href="/conformity_assessment/personnel_certification/informational_visits.aspx?menuid=4">Informational Visits</a></td>
+	</tr>
+	<tr>
+		<td>&nbsp;&nbsp;</td>
+		<td>&nbsp;&nbsp;</td>
 		<td><a class="nav3" href="/conformity_assessment/personnel_certification/process_summary.aspx?menuid=4">Process Summary</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/Conformity Assessment/Personnel Certifier Accreditation/">Documents</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/Conformity Assessment/Personnel Certifier Accreditation/">Document Library</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -501,7 +523,7 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="/conformity_assessment/personnel_certification/person_sert_bodies.aspx?menuid=4">Online Directory</a></td>
+		<td><a class="nav3" href="/conformity_assessment/personnel_certification/person_sert_bodies.aspx?menuid=4">Directory of Accredited Bodies and Applicants</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -510,23 +532,23 @@
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/standards_activities/domestic_programs/overview.aspx?menuid=3">-Standards Developer Accreditation</a></td>
+		<td colspan="2"><a class="nav2" href="/standards_activities/domestic_programs/overview.aspx?menuid=3">Standards Developer Accreditation</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/accreditation_qms.aspx?menuid=4">-QMS Registration</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/accreditation_qms.aspx?menuid=4">QMS Registration</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/accreditation_ems.aspx?menuid=4">-EMS Registration</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/accreditation_programs/accreditation_ems.aspx?menuid=4">EMS Registration</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/proced_guides_forms/accred_certif.aspx?menuid=4">-Accreditation Symbols</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/proced_guides_forms/accred_certif.aspx?menuid=4">Accreditation Symbols</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/conformity_assessment/governance_committee/governance_committees.aspx?menuid=4">-Governance Committees</a></td>
+		<td colspan="2"><a class="nav2" href="/conformity_assessment/governance_committee/governance_committees.aspx?menuid=4">Governance Committees</a></td>
 	</tr>
 </tbody></table>
 </div><div id="cNavP_p7menu5" style="position: absolute; top: 170px; left: 15px; z-index: 106; visibility: visible;"><a onmouseover="P7_rollCMenu1(event,'cNavP_p7menu5',0)" onmouseout="P7_rollCMenu1(event,'cNavP_p7menu5',0)" href="/consumer_affairs/overview.aspx?menuid=5"><img src="https://web.archive.org/images/inside/nav/consumer.gif" border="0" alt="Consumer Affairs" name="consumer"></a></div><div id="cNavP_p7submenu5" style="position: absolute; top: 170px; left: -185px; z-index: 2065; visibility: visible;"><table border="0" width="180" cellspacing="0" cellpadding="0">
@@ -609,12 +631,12 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/News%20and%20Publications/What's%20New%20Archive">What's New Archive</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/News%20and%20Publications/What's%20New%20Archive">What's New Archive</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/News%20and%20Publications/Congressional%20Standards%20Update%20Archive/">Congressional Standards Update Archive</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/News%20and%20Publications/Congressional%20Standards%20Update%20Archive/">Congressional Standards Update Archive</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -626,12 +648,12 @@
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="http://public.ansi.org/ansionline/Documents/News%20and%20Publications/Speeches/">Speeches &amp; Presentations</a></td>
+		<td colspan="2"><a class="nav2" href="http://publicaa.ansi.org/sites/apdl/Documents/News%20and%20Publications/Speeches/">Speeches &amp; Presentations</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td>&nbsp;&nbsp;</td>
-		<td><a class="nav3" href="http://public.ansi.org/ansionline/Documents/News%20and%20Publications/Speeches/">Library of Presentations</a></td>
+		<td><a class="nav3" href="http://publicaa.ansi.org/sites/apdl/Documents/News%20and%20Publications/Speeches/">Library of Presentations</a></td>
 	</tr>
 </tbody></table>
 </div><div id="cNavP_p7menu8" style="position: absolute; top: 218px; left: 15px; z-index: 109; visibility: visible;"><a onmouseover="P7_rollCMenu1(event,'cNavP_p7menu8',0)" onmouseout="P7_rollCMenu1(event,'cNavP_p7menu8',0)" href="/meetings_events/online_calendar/events.aspx?menuid=8"><img src="https://web.archive.org/images/inside/nav/meetings.gif" border="0" alt="Meetings and Events" name="events"></a></div><div id="cNavP_p7submenu8" style="position: absolute; top: 218px; left: -185px; z-index: 2098; visibility: visible;"><table border="0" width="180" cellspacing="0" cellpadding="0">
@@ -642,10 +664,6 @@
 	<tr>
 		<td>&nbsp;&nbsp;</td>
 		<td colspan="2"><a class="nav2" href="/meetings_events/upcoming_overview.aspx?menuid=8">Upcoming ANSI Events</a></td>
-	</tr>
-	<tr>
-		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/meetings_events/sponsorship.aspx?menuid=8">Sponsorship Opportunities</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
@@ -774,21 +792,17 @@
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="/meetings_events/sponsorship.aspx?menuid=8">Sponsorship Opportunities</a></td>
-	</tr>
-	<tr>
-		<td>&nbsp;&nbsp;</td>
 		<td colspan="2"><a class="nav2" href="/other_services/customer_service_cont/customer_service.aspx?menueid=10">Customer Service</a></td>
 	</tr>
 </tbody></table>
 </div><div id="cNavP_p7menu11" style="position: absolute; top: 266px; left: 15px; z-index: 112; visibility: visible;"><a onmouseover="P7_rollCMenu1(event,'cNavP_p7menu11',0)" onmouseout="P7_rollCMenu1(event,'cNavP_p7menu11',0)" href="/library/overview.aspx?menuid=11"><img src="https://web.archive.org/images/inside/nav/library.gif" border="0" alt="Library" name="lib"></a></div><div id="cNavP_p7submenu11" style="position: absolute; top: 266px; left: -185px; z-index: 21211; visibility: visible;"><table border="0" width="180" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="http://public.ansi.org/ansionline/Documents">ANSI Public Documents</a></td>
+		<td colspan="2"><a class="nav2" href="http://publicaa.ansi.org/sites/apdl">ANSI Public Documents</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;&nbsp;</td>
-		<td colspan="2"><a class="nav2" href="http://search.ansi.org/ANSIMembers/Documents">ANSI Member Documents</a></td>
+		<td colspan="2"><a class="nav2" href="http://members.ansi.org">ANSI Member Documents</a></td>
 	</tr>
 </tbody></table>
 </div><div id="cNavP_p7menu12" style="position: absolute; top: 282px; left: 15px; z-index: 113; visibility: visible;"><a onmouseover="P7_rollCMenu1(event,'cNavP_p7menu12',0)" onmouseout="P7_rollCMenu1(event,'cNavP_p7menu12',0)" href="/internet_resources/overview/overview.aspx?menuid=12"><img src="https://web.archive.org/images/inside/nav/internet.gif" border="0" alt="Internet Resources" name="inter"></a></div><div id="cNavP_p7submenu12" style="position: absolute; top: 282px; left: -185px; z-index: 21312; visibility: visible;"><table border="0" width="180" cellspacing="0" cellpadding="0">
@@ -981,7 +995,7 @@
 				</tr-->
 				<tbody><tr>
 					<td>
-						<a id="cAds_AdRotator1" href="/conformity_assessment/accreditation_programs/accreditation_certification_programs.aspx?menuid=4" target="_top"><img src="/images/adds/Product.jpg" alt="Accreditation Of Product Certification Programs" border="0"></a>
+						<a id="cAds_AdRotator1" href="/standards_activities/standards_boards_panels/idsp/overview.aspx?menuid=3" target="_top"><img src="/images/adds/IDSP_vert.gif" alt="Identity Theft Prevention and Identity Management Standards Panel" border="0"></a>
 					</td>
 				</tr>
 			</tbody></table>
