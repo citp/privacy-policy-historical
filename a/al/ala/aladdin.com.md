@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aladdin.com privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610072106id_/http%3A//aladdin.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aladdin.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206032642id_/http%3A//www.aladdin.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Aladdin Security Portal: Aladdin Privacy Statement
 
