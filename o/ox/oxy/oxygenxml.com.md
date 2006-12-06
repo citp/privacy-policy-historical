@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618152024id_/http%3A//oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207003546id_/http%3A//oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
 # <oXygen/> XML editor - Privacy Policy
 
@@ -10,4 +10,4 @@ A cookie is a piece of data stored on your hard drive that reference information
 
 This web site may contain links to other sites. SyncRO Soft Ltd. is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please [support@oxygenxml.com](mailto:support@oxygenxml.com). 
+These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please . 
