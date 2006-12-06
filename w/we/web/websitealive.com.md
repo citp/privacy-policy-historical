@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042039id_/http%3A//websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206012603id_/http%3A//www.websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Live help, Live chat software, Live support, Chat software, Live chat by WebsiteAlive
 
