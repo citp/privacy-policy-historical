@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616210255id_/http%3A//coroflot.com/public/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011203id_/http%3A//www.coroflot.com/public/privacy.asp) for the most accurate reproduction.*
 
-# coroflot.com - privacy policy
+# coroflot.com - Privacy Policy
 
-**Information Collection and Use**
+##### This web site has agreed to notify you of:
+
+  * What personally identifiable information of yours or third party personally identification is collected from you through the web site 
+  * The organization collecting the information 
+  * How the information is used 
+  * With whom the information may be shared 
+  * What choices are available to you regarding collection, use and distribution of the information 
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Coroflot's control 
+  * How you can correct any inaccuracies in the information. 
+
+
+
+##### Information Collection and Use
 
 Coroflot is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Coroflot collects information from our users in several places on our site. 
 
