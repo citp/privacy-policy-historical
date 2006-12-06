@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gosale.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616222630id_/http%3A//gosale.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosale.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207000841id_/http%3A//gosale.com/help/privacy.php) for the most accurate reproduction.*
 
 # GoSale.com Privacy Policy
 
-|  Privacy Policy   
+Privacy Policy   
 ---  
 GoSale.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting GoSale.com, you are accepting the practices described in this Privacy Notice.  
 1\. Collecting of Information  
