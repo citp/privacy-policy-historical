@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customize.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194553id_/http%3A//www.customize.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customize.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206224614id_/http%3A//www.customize.org/privacy) for the most accurate reproduction.*
 
 # [Customize.org] Download Skins, Themes, Wallpapers and Icons for Windows from the original skin site!
 
