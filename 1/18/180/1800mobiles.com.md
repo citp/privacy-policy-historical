@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005552id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206022352id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy Statement for 1800Mobiles.com
 
-  
+| Security and Privacy Statement for 1800Mobiles.com  
 [](http://www.truste.org/ivalidate.php?url=www.1800mobiles.com&sealid=101)   
 [_**Click here to start shopping at 1800mobiles.com for cell phones and accessories !**_](http://www.1800mobiles.com/)
 
-Effective June 30, 2005.
+Effective September 22, 2006.
 
 1-800 MOBILES Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.1800mobiles.com and pages within our store hosted by our third party hosting provider.
 
@@ -14,13 +14,21 @@ Our site's shopping cart requires users to give us contact information (like you
 
 1800mobiles.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.1800mobiles.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Office at privacy@1800mobiles.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:
+If you have questions or concerns regarding this statement, you should first contact our Privacy Office at privacy@1800mobiles.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact 
+
+[_TRUSTe_](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:
 
 When customers buy a phone, they are also making a commitment with a specific carrier for a minimum of 12 months. Carriers require credit history checks when activating new service. These credit checks are not required when 1800mobiles customers are purchasing accessories, electronics or any other product that does not involve a contract with a wireless carrier.
 
 1800Mobiles.com only uses personal information such as social security number or date of birth, to run a credit history check for wireless service activation. We perform a standard industry credit check by inputting your data into the wireless carrier system. Once the carrier runs the check, it informs us of your approval status so that we can either process the order where the credit is approved or notify if you have not matched the carrier's credit requirements. Aside from approval status information, we do not have access to any credit-history information and we do not use it or re-sell it in any other way.
 
 1800Mobiles has an opt-in email newsletter containing marketing and promotional offers. These email newsletters are from 1800mobiles.com only and it is entirely your choice whether you want to receive them or not. Newsletter broadcasting infrastructure may be powered by a third-party provider. We will ask for your email address when signing up for this service. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services only.
+
+ **Service-related Announcements**
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, you will receive confirmation of any orders, response to any email inquiries and if our service is temporarily suspended for maintenance, we will send you an email.
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. This may include order confirmations, emails containing tracking number details, back-order notifications. If you do not wish to receive them, you have the option to deactivate your account. At any time you can optout our promotional mailings database.
 
  **Security**
 
@@ -38,11 +46,17 @@ Your friend may contact us at optout@1800mobiles.com to request that we remove t
 
  **Co-Branded Websites**
 
-We may at times direct you to co-branded sites for the purpose of purchasing products and services. Please note than, once exited 1800mobiles.com, the applicable privacy policy is the one posted by the co-branded sites. Co-branded sites are operating independently from 1800mobiles.com. 1800mobiles.com is not responsible for the effectiveness of their privacy policies.
+We may at times direct you to co-branded sites for the purpose of purchasing products and services. Examples of co-branded websites include phone offers powered by Inphonic and Letstalk, two wireless carrier approved activation enablers.
+
+Please note than, once exited 1800mobiles.com, the applicable privacy policy is the one posted by the co-branded sites. Co-branded sites are operating independently from 1800mobiles.com. 1800mobiles.com is not responsible for the effectiveness of their privacy policies.
+
+We will not share, rent, or sell your personally identifiable information in ways other than disclosed in this privacy statement
 
  **Agents**
 
 We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+We may, from time to time, use a third party email broadcasting software. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
  **Service Providers**
 
@@ -100,7 +114,7 @@ This site gives users the following options for changing and modifying informati
 
 2\. send mail to the following postal address: 1800mobiles 264 W 40th -14th floor, New York NY 10018
 
-3\. access our site in the “my account section” so you can update/edit your information.
+3\. access our site in the “my account section” so you can update/edit your information. Please note that the "my account" area is hosted on Yahoo servers.
 
  **Changes to Our Privacy Policy**
 
@@ -115,6 +129,10 @@ If you have any questions about this privacy statement, the practices of this si
 Webmaster 1800mobiles Inc. 264 W 40th -14th floor New York, NY 10018 customerservice@1800mobiles.com
 
 This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.
+
+Click here for 
+
+[_**TMobile**_](http://www.1800mobiles.com/tmobilerateplans.html), [_**Cingular Phones**_](http://www.1800mobiles.com/) or [_**Nextel Phones**_](http://www.1800mobiles.com/nextel.html) !
 
 * * *
 
