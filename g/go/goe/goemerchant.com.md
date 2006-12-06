@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022845id_/http%3A//goemerchant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010217id_/http%3A//www.goemerchant.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - GoEmerchant.com
 
@@ -53,3 +53,10 @@ As a customer/merchant to one of our web sites, you may be provided with a uniqu
 **Questions.**
 
 If you have questions about this privacy policy, please send an e-mail to [sales@goEmerchant.com](mailto:sales@goEmerchant.com).
+
+**Call 1-888-638-7867 or[Apply Online](https://www.goemerchant.com/cgi-bin/goeapp.cgi?page=Profile) Today
+
+Our Total Package is ONLY $59.95/month
+
+**  
+(Plus merchant account fees)
