@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articlevista.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616021329id_/http%3A//www.articlevista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlevista.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020718id_/http%3A//www.articlevista.com/privacy.php) for the most accurate reproduction.*
 
 # Article Vista | Article Submission | Free Website Content | Publishing
+
+Article Vista Directory Privacy Policy
 
 ArticleVista.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -37,3 +39,5 @@ We can be reached by emailing us.
 **Changes to this Policy:**
 
 ArticleVista.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+|  [](http://www.altrana.com/top-sites/)
