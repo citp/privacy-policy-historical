@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212525id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206065646id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Alfresco Privacy Policy
 
@@ -38,4 +38,4 @@ Please also see our Legal Information, which describes the restrictions, disclai
 
 ## 9\. General.
 
-If you have questions regarding our Privacy Statement, please contact us at [info at alfresco](mailto:info@alfresco.com) . For other general questions, please go to our [Contacts](https://web.archive.org/web/20060615212525id_/http://www.alfresco.com/contact/) page. 
+If you have questions regarding our Privacy Statement, please contact us at [info at alfresco](mailto:info@alfresco.com) . For other general questions, please go to our [Contacts](https://web.archive.org/web/20061206065646id_/http://www.alfresco.com/contact/) page. 
