@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the allcamp.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615083826id_/http%3A//www.allcamp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcamp.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206145102id_/http%3A//www.allcamp.com/privacy.htm) for the most accurate reproduction.*
 
-# Camping Directory, Camping Information, Camp Resource
+# Privacy, Camping Directory, Camping Information, Camp Resource
 
 **AllCamp.com Privacy Statement**  
 We respect your privacy. Our purpose in collecting information from you is to help us provide you with better service. The data that we collect is not used to send newsletters or promotional materials and is not shared with any third parties. 
 
-**Site submission**  
+**Site Submission**  
 In order to submit a site on this website, a user must complete the submission process. During submission, a user is not required to provide any personal information. E-mail field is optional. If provided, this information is used to inform the user about site acceptance or rejection and to verify the identity of anyone requesting a site information update.
 
 **Payment Information**  
