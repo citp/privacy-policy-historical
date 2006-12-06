@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044943id_/http%3A//ipaddressguide.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206233123id_/http%3A//ipaddressguide.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,6 +45,6 @@ _IPAddressGuide.com_ welcomes your comments regarding this privacy statement. If
 
 * * *
 
-**|[Ping](https://web.archive.org/ping.aspx) | [Traceroute](https://web.archive.org/traceroute.aspx) | [IP2Location™](https://web.archive.org/ip2location.aspx) | [NSLookup](https://web.archive.org/dnslookup.aspx) | [Deobsfucator](https://web.archive.org/deobfuscator.aspx) | [CIDR](https://web.archive.org/cidr.aspx) | [IP Decimal](https://web.archive.org/ipdecimal.aspx) | [HTML Validator](https://web.archive.org/htmlvalidator.aspx) |**  
+**|[Ping](https://web.archive.org/ping.aspx) | [ Traceroute](https://web.archive.org/traceroute.aspx) | [IP2Location™](https://web.archive.org/ip2location.aspx) | [NSLookup](https://web.archive.org/dnslookup.aspx) | [ Deobsfucator](https://web.archive.org/deobfuscator.aspx) | [CIDR](https://web.archive.org/cidr.aspx) | [ IP Decimal](https://web.archive.org/ipdecimal.aspx) | [HTML Validator](https://web.archive.org/htmlvalidator.aspx) | [Free Bandwidth Speed Test](http://speedtest.ipaddressguide.com/) |  
 **|[Home](https://web.archive.org/) | [Email](mailto:support@ipaddressguide.com) |**  
-Copyright © 2005 IPAddressGuide.com. All rights reserved. [Privacy Statement](https://web.archive.org/privacypolicy.aspx). [Terms of Service](https://web.archive.org/termsofservice.aspx).IP2Location™ is a registered trademark of [http://www.ip2location.com](http://www.ip2location.com/)
+Copyright © 2005 - 2006 IPAddressGuide.com. All rights reserved. [ Privacy Statement](https://web.archive.org/privacypolicy.aspx). [Terms of Service](https://web.archive.org/termsofservice.aspx).IP2Location™ is a registered trademark of [ http://www.ip2location.com](http://www.ip2location.com/) ******
