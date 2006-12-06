@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rfidjournal.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417205644id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfidjournal.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010233id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
 
-# RFID Journal - RFID Journal Privacy Statement
+# RFID Journal - RFID Journal Privacy Statement - RFID (Radio Frequency Identification) Technology News & Features
 
-RFID Journal, Inc. ("RFID Journal") recognizes the importance of protecting the privacy of all information provided by users of our Web site and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by RFID Journal, including but not limited to Web sites and newsletters. 
+RFID Journal LLC. ("RFID Journal") recognizes the importance of protecting the privacy of all information provided by users of our Web site and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by RFID Journal, including but not limited to Web sites and newsletters. 
 
 **Information Collection And Use**   
 RFID Journal collects information from our Web site users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
