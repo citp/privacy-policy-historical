@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2006-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060205040430id_/http%3A//www.stansberryresearch.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206211505id_/http%3A//www.stansberryresearch.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Stansberry Privacy Policy
 
@@ -15,19 +15,20 @@ We will never ask you for personal information--your credit card number, for exa
 When you give us your mailing address, we will use this information to fulfill your order or subscription and to send you information on other products that may suit your interests. If you don't want us to send you this other information, please contact our customer service department:
 
 > > Attn: Customer Service  
-> 105 West Monument St.  
-> Baltimore, Maryland 21201  USA
+> 1217 St. Paul Street  
+> Baltimore, Maryland 21202  USA
 
 Cookies are small files placed on your computer by a web page when you visit it. They can be used to store all sorts of useful information to make your next visit easier and more convenient, but some people are uncomfortable not knowing what information is in a cookie.
 
-Stansberry & Associates web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites. 
+Stansberry & Associates web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites.
 
 In other words, you can leave the site and come back without having to re-enter your user name and password every time (within a set time period). We do not use cookies to track your browsing habits or collect any information about you.
 
-All contents of this website are copyright 2005 by Stansbyerr & Associates Investment Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Porter Stansberry.   
-Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U.S.C. Section 2319}: Infringements can be punishable by up to five years in prison and $250,000 in fines. 
+All contents of this website are copyright 2005 by Stansberry & Associates Investment Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Porter Stansberry.
 
- DISCLAIMER:This work is based on SEC filings, current events, interviews, corporate press releases and what we've learned as financial journalists. It may contain errors and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
+Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U.S.C. Section 2319}: Infringements can be punishable by up to five years in prison and $250,000 in fines.
 
-[Click here to return home.   
-www.stansberryreseach.com](https://web.archive.org/)
+DISCLAIMER:This work is based on SEC filings, current events, interviews, corporate press releases and what we've learned as financial journalists. It may contain errors and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
+
+[Click here to return home.  
+www.stansberryreseach.com](https://web.archive.org/index.html)
