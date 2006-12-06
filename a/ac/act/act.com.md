@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213231307id_/http%3A//www.act.com/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010438id_/http%3A//www.act.com/footer/privacy) for the most accurate reproduction.*
 
-# Legal Notices - Privacy Statement -- Sage Software SB, Inc.
+# ACT! – Contact & Customer Management Software
 
 At Sage Software SB, Inc. ("Sage Software Small Business Division"), user privacy is important to us. We want you to feel confident visiting Sage Software Small Business Division Web sites and using our products. This Privacy Statement outlines the privacy practices regarding information collected by Sage Software Small Business Division at this Web site and other Sage Software Small Business Division Web sites that link to this Privacy Statement (the "Sites") and will tell you, as of the "Last Revised" date set forth at the end of this Privacy Statement, what information Sage Software Small Business Division collects at the Sites, how we use that information, what choices you have concerning how such information is used and how we protect your information. We encourage you to read our Privacy Statement so that you will understand both our commitment to you and your privacy and how you can participate in that commitment.
 
@@ -21,7 +21,9 @@ The following sections make up our Privacy Statement. For immediate access to sp
 
 **Statement Regarding Children.** Sage Software Small Business Division's products and services are not designed to appeal to children under the age of 13. As such, the Sites are not directed at children under the age of 13 nor do we knowingly collect or maintain information from children under the age of 13 on the Sites.
 
-##  [Back to Top] Business Information Collection and Use By Sage Software Small Business Division
+**[Back to Top]**
+
+**Business Information Collection and Use By Sage Software Small Business Division**
 
 Sage Software Small Business Division collects the Business Information necessary to enable us to respond to your requests for our products and services and to send you information regarding our products and services from time to time. Since most of the users of our products and Sites are doing so in their capacity as employees or companies, most Business Information we collect will be in that capacity (rather than information about you individually, such as your personal tastes, etc.). For these purposes, we have defined "Business Information" as any information that identifies or may identify a company or an individual contact at a company or that allows others to contact a company or an individual contact at a company. When you visit the Sites, you may be asked to submit information such as e-mail address, company name, address, phone number, your product version and/or areas of interest. We may also ask you where you heard about our company or products, or for other information that will help us understand more about your needs or help us process your requests for information. In addition, we collect credit card and related payment information when you order products, services or support plans online. Our information collection and use practices are described in more detail below.
 
@@ -37,10 +39,10 @@ Sage Software Small Business Division collects the Business Information necessar
 
 **Product-Related Information Collection.** Sage Software Small Business Division collects certain additional information in connection with your use of our Web-based services or desktop products with online features. For instance:
 
-  * **Product Updates.** Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect Business Information, including customer ID number and product version, type and serial number, in order to authorize your access and provide you with the appropriate update.
+  * **Product Updates.** Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect Business Information, including customer ID number and product version, type and serial number, in order to authorize your access and provide you with the appropriate update. 
   * **Account Set-Up and Access.** Upon subscribing to our Web-based services, we collect Business Information, which may include information such as product serial number, customer ID and your customer profile information, in order to identify you and authorize your access and provide you with your relevant account information. Certain products provide you with the ability to access your account in order to obtain information such as your support plan status, service subscriptions, registrations and order history. 
-  * **Online Product/Account Application.** Certain products are subject to an application and enrollment process, which may be completed online. Information requested via the online application process may include federal ID number, bank account, aggregate payroll, credit card and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account.
-  * **Web-based Services.** In connection with certain of our Web-based services we collect certain additional information, including IP address, browser, connection speed, domain, referring URL and other environment-related information to enable us to provide a secure environment for the use of the services, to pre-populate forms and calculate aggregate statistical information about the customers using these services.
+  * **Online Product/Account Application.** Certain products are subject to an application and enrollment process, which may be completed online. Information requested via the online application process may include federal ID number, bank account, aggregate payroll, credit card and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account. 
+  * **Web-based Services.** In connection with certain of our Web-based services we collect certain additional information, including IP address, browser, connection speed, domain, referring URL and other environment-related information to enable us to provide a secure environment for the use of the services, to pre-populate forms and calculate aggregate statistical information about the customers using these services. 
 
 
 
@@ -50,7 +52,9 @@ Sage Software Small Business Division collects the Business Information necessar
 
 **Third-Party Products.** Sage Software Small Business Division may also use your Business Information to inform you of special discounts or offers from other companies we have carefully selected and whose products and services may be of interest to you.
 
-##  [Back to Top] Disclosure of Your Business Information
+**[Back to Top]**
+
+**Disclosure of Your Business Information**
 
 From time to time, Sage Software Small Business Division may be required to release Business Information: 1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; 2) to enforce or apply the terms of any of our service or license agreements with customers; or 3) in special cases, such as protecting the rights, property or safety of Sage Software Small Business Division, our customers or others. We may also provide Business Information to our vendors, suppliers, Certified Consultants and other business partners ("Partners") where it is necessary in order for such Partners to: 1) provide us with products and services related to better operation and maintenance of the Sites; 2) provide you with a product or service requested by you; or 3) enable them to market products or services to you. Sage Software Small Business Division also may provide information about you that does not allow you to be identified to, or contacted by, ("Aggregate Information") third parties. For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services and the Sites.
 
@@ -60,7 +64,9 @@ From time to time, Sage Software Small Business Division may be required to rele
 
 **Business Transfers.** In the event that all or a portion of Sage Software Small Business Division or any other Sage Company (or the assets of one of those entities), is bought or sold, Business Information will likely be included among the transferred business assets, but such information remains subject to this Privacy Statement unless you consent otherwise. Sage Software Small Business Division will provide you notice of any such event as set forth in Changes to this Privacy Statement.
 
-##  [Back to Top] How Sage Software Small Business Division Protects Your Privacy Internally
+**[Back to Top]**
+
+**How Sage Software Small Business Division Protects Your Privacy Internally**
 
 Sage Software Small Business Division wants your Business Information to remain as secure as reasonably possible. We combine industry-standard technical safeguards with a code of conduct for those employees that are permitted to access our customers' Business Information. When you purchase a product or service online, Sage Software Small Business Division uses SSL encryption to encrypt your credit card information before it is sent to us in order to ensure the integrity and privacy of the credit card information that you provide to us via the Internet.
 
@@ -70,7 +76,9 @@ Only authorized Sage Software Small Business Division employees, agents or indep
 
 Despite these security measures, Sage Software Small Business Division does not represent or warrant that Business Information will be protected against loss, misuse, attacks, or alteration by third parties.
 
-##  [Back to Top] Your Privacy Choices
+**[Back to Top]**
+
+**Your Privacy Choices**
 
 Occasionally, Sage Software Small Business Division may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. However, please note that any election not to receive future communications applies only to promotional messages. We may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as tax and other compliance-related matters, for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, e-mail or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads and requests for information. 
 
@@ -82,18 +90,26 @@ Occasionally, Sage Software Small Business Division may send you communications 
 
 **Other Third-Party Communications (Non E-Mail).** You may opt out of receiving future third-party mail or telephone communications by contacting our Customer Service department at 800-278-2190. If you choose to opt out of receiving future third-party promotions, Sage Software Small Business Division will not disclose your Business Information to such third parties.
 
-##  [Back to Top] Correcting or Updating Your Business Information and Contacting Sage Software Small Business Division
+**[Back to Top]**
+
+**Correcting or Updating Your Business Information and Contacting Sage Software Small Business Division**
 
 You can always update the Business Information that you have provided to us and/or change your preferences with respect to marketing contacts from Sage Software Small Business Division by contacting our Customer Service department at 800-278-2190. Please note that it may take up to 4 weeks to be removed from Sage Software Small Business Division mail lists and 10 days to be removed from e-mail and phone lists.
 
-##  [Back to Top] Linked Sites
+**[Back to Top]**
+
+**Linked Sites**
 
 The Sites may contain links to third-party Web sites and resources (collectively, "Linked Sites"). These Linked Sites are provided solely as a convenience to you and not as an endorsement by Sage Software Small Business Division of the content on such Linked Sites. Sage Software Small Business Division makes no representations or warranties regarding the correctness, accuracy, performance or quality of any content, software, service or application found at any Linked Site. Sage Software Small Business Division is not responsible for the availability of the Linked Sites or the content or activities of such sites. If you decide to access any Linked Site, you do so at your own risk. Your use of any Linked Site is subject to the policies, terms of use and privacy policies of such Linked Site.
 
-##  [Back to Top] Consent to Transfer
+**[Back to Top]**
+
+**Consent to Transfer**
 
 Users located outside the United States who submit Business Information to Sage Software Small Business Division via the Sites should be aware that the information they submit will be transferred to our servers located in the United States. Your submission of Business Information to us constitutes your consent to this transfer. Although Sage Software Small Business Division will collect and use your Business Information only as stated in this Privacy Statement, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.
 
-##  [Back to Top] Changes to this Privacy Statement
+**[Back to Top]**
+
+**Changes to this Privacy Statement**
 
 Sage Software Small Business Division may change this Privacy Statement at any time by posting revisions to the Sites and you will be notified of any such changes by notice on the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Statement and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Statement. Prior to making any decision that would result in Sage Software Small Business Division using your information in a manner materially different from that stated at the time it was collected, Sage Software Small Business Division will notify you by mail or email and you will have a choice as to whether we use your information in this different manner.
