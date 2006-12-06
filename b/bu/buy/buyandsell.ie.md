@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630155138id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206133125id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.*
 
-# Buy and Sell - Ireland's No.1 Free-Ads Paper to Buy and Sell Online
+# free classifieds, ads for free, classified ads for cars, property, jobs- Buy and Sell
 
 PRIVACY STATEMENT
 
