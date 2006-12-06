@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefirst.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211940id_/http%3A//www.affiliatefirst.com/cgi-bin/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefirst.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206154201id_/http%3A//www.affiliatefirst.com/cgi-bin/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # AffiliateFirst Submission Services
 
