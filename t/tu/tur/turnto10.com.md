@@ -1,74 +1,57 @@
-> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204548id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010501id_/http%3A//www.turnto10.com/news/9432069/detail.html) for the most accurate reproduction.*
 
-# TurnTo10 - Local News - Online Privacy Statement
+# Privacy Policy - Local News - TurnTo10.com | WJAR
 
-The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of National Broadcasting, Inc., including WJAR-TV(Providence, RI) turnto10.com; WNCN-TV (Raleigh, NC) nbc17.com; WCMH-TV (Columbus, OH) nbc4columbus.com; KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; WVTM-TV (Birmingham, AL) nbc13.com; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc11.com. 
+For each visitor to the Web site, MEDIA GENERAL's servers automatically collect information about which pages are visited and the domain name (e.g.TurnTo10.com) of visitors. This information is used for internal review, to tailor information to individual visitors and for Web site traffic audits. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers.
 
-If you have any questions about this privacy policy, about information gathered by this site, or about the operation of this site, please contact us at security@ibsys.com. 
+MEDIA GENERAL may place a "cookie" on the browser of your computer. The cookie itself does not contain any personally identifying information. A cookie may be used to tell when your computer has contacted the Web site. MEDIA GENERAL uses the information for editorial purposes and for other purposes such as delivery of features and advertisements, so MEDIA GENERAL can customize delivery of information to you without compromising privacy. For example, cookies may be used to ensure that you will not see the same banner advertisement too often in a single session.
 
-**Privacy Policy**
+Through your use of the Web site, MEDIA GENERAL may collect information about you that identifies you or your household. Normally, you would provide such information when specifically asked for it by MEDIA GENERAL. Any information in MEDIA GENERAL's possession solely as a result of your use of the Web site and that is associated with you or your household is considered "Personal Information." It consists of both information supplied by you (e.g. name, address, telephone number and e-mail address) and information collected about how you use the Web site (e.g. the fact that you have bought merchandise through the Web site). It does not include aggregate information (e.g. the total number of household users older than 18 years, the zip code in which a user lives) or information that you have made public on the Web site or that is otherwise publicly available.
 
-Your privacy on the Internet is important to us. As part of the operation of our site, we gather certain types of information about our users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information. 
+MEDIA GENERAL uses Personal Information only for purposes necessary to provide the Web site and other products and services to you. These purposes are:
 
-**Information Collected by This Site**
+  * to process requests or orders placed with advertisers or merchants
+  * to perform such normal business operations as billing, collecting and accounting
+  * to personalize and publicize the Web site based on your interests, including making you aware of editorial features, advertisements and commercial items
+  * to investigate complaints and to protect the Web site and MEDIA GENERAL, its readers and employees as provided by law or in case of emergency, as determined by legal counsel for MEDIA GENERAL
 
-We collect two types of personally identifying information from users: personal data (such as names and e-mail addresses); and aggregated data (such as information about traffic patterns on the site, for example how many users log into the site on a daily basis). 
 
-**Personal Data**
 
-Personal data is collected when users provide personal data to the site, for example in registering for electronic newsletters or other membership services, answering surveys, purchasing items from the site, sending email to the site, and registering for contests and other promotional opportunities. Also, we collect the e-mail addresses of users who post messages to the message boards and chat areas. 
+Except as necessary to process your requests or orders placed with advertisers or merchants featured on the Web site, MEDIA GENERAL does not rent, sell, barter or give away any lists containing Personal Information for use by any outside company. MEDIA GENERAL also respects the privacy of data on your personal computer and does not access, read, upload or store data contained in or derived from your private files without your authorization.
 
-**Aggregated Information**
+**Links**   
+The MEDIA GENERAL site contains links to other sites. MEDIA GENERAL is not responsible for the privacy practices or the content of such Web sites, including any sites that may indicate a special relationship or partnership with MEDIA GENERAL (such as co-branded pages or "powered by" or "in cooperation with" relationships). MEDIA GENERAL does not disclose personally identifiable information or unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you that is not subject to MEDIA GENERAL's control. To ensure protection of your privacy, always review the privacy policy of the sites you may visit by linking from the MEDIA GENERAL site.
 
-Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, we collect IP addresses. An IP address is a number that is automatically assigned to your computer whenever you’re surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to the site. We collect IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on the site. 
+**Opt Out Procedures**  
+You always may opt out of receiving future mailings or other information from MEDIA GENERAL. If the mailing does not have an e-mail cancellation form, send e-mail to comments@mediageneral.com detailing the type of information that you no longer desire to receive.
 
-**Use of Cookies**
+**Children's Privacy**  
+The following additional terms, conditions and notices apply to use of the Web site by children under the age of 13 years whenever MEDIA GENERAL becomes aware that a user is in that age range:
 
-Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties. 
+• Users under 13 years of age may not submit or post information on the Web site without the consent of the user's parent or legal guardian. Prior to collecting any personal information about a child under 13, MEDIA GENERAL makes reasonable efforts to obtain consent from the child's parent after informing the parent about the types of information the MEDIA GENERAL will collect, how it will be used, and under what circumstances it will be disclosed.
 
-You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so. 
+• Although MEDIA GENERAL will apply these children's terms and conditions whenever it becomes aware that a user who submits Personal Information is less than 13 years old, no method is foolproof. MEDIA GENERAL strongly encourages parents and guardians to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personal information without parental permission.
 
-**Third Party Advertising**
+• "Personal information" collected from children may include any of the information defined above as "Personal Information" with respect to general users of the Web site and may be used by MEDIA GENERAL for the same purposes. Except as necessary to process a child's requests or orders placed with advertisers or merchants featured on the Web site, MEDIA GENERAL does not rent, sell, barter or give away any lists containing a child's Personal Information for use by any outside company.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here. ](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+• If a child enters a game, contest or other activity sponsored by MEDIA GENERAL on the Web site, the child may be required by MEDIA GENERAL to provide the minimum Personal Information reasonably necessary for the child to participate in such activity.
 
-**Third Party Cookies**
+• A child's parent or legal guardian may request MEDIA GENERAL to provide a description of the Personal Information that MEDIA GENERAL has collected from the child, as well as instruct MEDIA GENERAL to cease further use, maintenance and collection of Personal Information from the child.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+• If a child voluntarily discloses his or her name, e-mail address or other personally-identifying information on chat areas, bulletin boards or other forums or public posting areas, such disclosures may result in unsolicited messages from other parties.
 
-**Use of Information Collected by Our Site**
+**General**  
+These Terms and Conditions constitute the entire agreement and understanding between you and MEDIA GENERAL with respect to use of the Web site, superseding all prior or contemporaneous communications and/or proposals. MEDIA GENERAL reserves the right to make changes to these Terms and Conditions immediately by posting the changed Terms and Conditions in this location. By continuing to use the Web site, you are agreeing to all changes made by MEDIA GENERAL. A printed version of these Terms and Conditions shall be admissible in judicial or administrative proceedings based upon or relating to use of the Web site to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
-Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you. 
+The Web site is controlled and operated by MEDIA GENERAL from its principal office in the State/Commonwealth of Virginia, USA. MEDIA GENERAL makes no representation that materials on the Web site are appropriate or available for use in other locations. Those who choose to access the Web site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. The Web site is not intended to subject MEDIA GENERAL to the laws or jurisdiction of any state, country or territory other than the State/Commonwealth of Virginia and the United States of America.
 
-We share aggregated information collected from the site with third parties for both advertising and promotional purposes. 
+**Contacting Us**  
+If you have any questions about this privacy statement, the practices of the MEDIA GENERAL site, or your dealings with MEDIA GENERAL, you may contact us at:
 
-Personal information collected by this site may be shared with other NBC-owned or controlled entities. With your permission, we may also share personal information collected on the site with prescreened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, in the event we plan to post any such information on the site (for example, if you are the winner of a contest) we will either notify you of this possibility when you provide the information and/or, if possible, when the information is posted. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services. In addition, FCC regulations require that certain emails and correspondence sent to the television station via the site (which may include personally identifiable information, such as name and address) on matters including television signal reception, community matters, programming and suggestions for investigative reports and other similar issues, be kept in a file that is available to the public for a period of three years. 
-
-Also, if you have subscribed to one or more e-mail newsletters and do not want to receive such e-mail in the future, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message. 
-
-**Children and Privacy**
-
-We encourage parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. At various places on the sites, we ask whether users are under the age of 18, or 13, for example when requesting personal information from a user, we may ask for parental consent. We rely on users to be truthful in responding to these questions. 
-
-**Individuals Under 13**
-
-No information should be submitted to or posted on the site by users under the age of 13 years without consent of their parent or guardian. The site does not provide any personally identifying information, regardless of its source collected from users under the age of 13 to any third party for any purpose whatsoever unless disclosed during collection. Users under the age of 13 are asked not to participate in contests or other promotional opportunities, and the site does not knowingly collect information from users under the age of 13. 
-
-**Individuals 13 Through 17**
-
-We request that children under the age of 18 do not submit or post information to the site without a parent or guardian’s consent. The site may collect information, including personally identifying information, from users between the ages of 13 and 17, and this information may be used for marketing and promotional purposes by the site and which may be shared with prescreened third parties, with the permission of the user. A user or their parent or guardian may stop the use - either by e-mail request or by modifying his/her registration information online as described above in "Use of Information Collected by The Site." 
-
-**Message Board and Chat**
-
-Please remember that information posted to message boards and chat areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using chat rooms or message boards. As set forth in our Terms and Conditions of use, users of chat rooms and message boards must follow acceptable standards of behavior when posting messages online. 
-
-**Links to Other Sites**
-
-It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites’ logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that the sites would not. 
-
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY. 
-
-We reserve the right to change this policy at any time by posting a revised privacy policy. 
-
-  
-
+MEDIA GENERAL OPERATIONS, INC.  
+Attn: Mike Steele  
+111 N. 4th Street  
+Richmond, Virginia 23219  
+phone: 804.649.6000  
+fax: 804.649.6580  
+e-mail: [comments@mediageneral.com](mailto:comments@mediageneral.com)
