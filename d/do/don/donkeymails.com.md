@@ -1,31 +1,6 @@
-> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616050211id_/http%3A//donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206022545id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DonkeyMails.com: No Minimum Payout!
-
-|  |   
----|---  
-[](http://www.worldwide-mail.net/)  
-|   
----  
-|   | 
-
-|  |  | Latest News  
----  
-Welcome to DonkeyMails.com! 
-
-DonkeyMails.com made in January 2006 more then 16,000 Payouts with an amount of more then $8,700. With our Paid to Promote that earns $0.75 per 1,000 Credits and a lot of Emails earning will be easy, [join now](http://donkeymails.com/pages/confirm.php) start promoting and cashout at no-minimum!!  
-  
-   
-   
-| Statistics  
----  
-Total Members | 70,477  
-Total Payouts | 62,541.53  
-Mails in queue | 3  
-Ads in rotation | 120  
-   
-  
-[](http://www.donkeymails.com/scripts/runner.php?BA=1655&hash=0f65de391181a034b784d905c0936323&url=%20http%3A%2F%2Fwww.thenumber1ptr.biz%2Fpages%2Findex.php%3Frefid%3Dnorteh)
 
   
 **DonkeyMails.com: No Minimum Payout! Respects Your Privacy** **Information Collected** DonkeyMails.com: No Minimum Payout! has created this privacy statement in order to demonstrate our firm commitment to privacy. DonkeyMails.com: No Minimum Payout! uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. DonkeyMails.com: No Minimum Payout! uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. DonkeyMails.com: No Minimum Payout!'s registration form requires users to give us contact information (like their name, address, and email address). DonkeyMails.com: No Minimum Payout! uses member contact information from the registration form to send the member information about our company and email advertisements. 
@@ -55,7 +30,3 @@ We do not collect online contact information without prior parental consent or p
 **
 
 DonkeyMails.com: No Minimum Payout! gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with DonkeyMails.com: No Minimum Payout!, you can [Contact Us](http://www.donkeymails.com/pages/contact.php). 
-
-  
-  
-
