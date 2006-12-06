@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015926id_/http%3A//www.timeoutny.com/newyork/ViewSection.do%3FsectionId%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206224316id_/http%3A//www.timeoutny.com/newyork/ViewSection.do%3FsectionId%3Dprivacy) for the most accurate reproduction.*
 
 # Time Out New York /
 
@@ -47,15 +47,15 @@ Third-party disclosure of personal information
 
 2\. Links to other sites: Our site contains links to other sites that are not under our control, even though some of them may feature the _TONY_ logo through a marketing agreement with us. _TONY_ cannot be held responsible for the privacy policies of other companies. We recommend that you review the privacy policy of any site you visit on the Internet. _TONY_ may receive a commission from member transactions on these partner sites. 
 
-The _TONY_ Personals section is operated by Lavalife. The Lavalife terms of service governs the use of personal information you provide at the Personals site. You may review the Personals terms of service at <http://www.tonypersonals.com/133/guest/privacy.act>. _Time Out New York_ receives a commission for transactions processed via www.tonypersonals.com.
-
 The _TONY_ Hotel reservations listings section is operated by Lodging.com. Lodging.com's privacy policy governs the use of personal information you provide at the Hotel reservations listings site. You may review Lodging.com's privacy policy by [clicking here](http://reservations.lodging.com/servlet/lodging.PersonalAccount?action=static&page=privacy&remote=timeoutny), or by clicking on "Privacy Policy" in the footer of the page. _Time Out New York_ receives a commission for transactions processed via this site.
 
 The _TONY_ Hostel bookings section is operated by HostelWorld. HostelWorld.com's privacy policy governs the use of personal information you provide at the Hostel bookings site. You may review HostelWorld.com's privacy policy at <http://www.hostelworld.com/privacy.php> and clicking on "Privacy Policy" in the footer of the page. _Time Out New York_ receives a commission for transactions processed via this site.
 
 The _TONY_ restaurant reservations section is operated by OpenTable. OpenTable's privacy policy governs the use of personal information you provide at the OpenTable site. You may review OpenTable's privacy policy at <http://www.opentable.com/info/helpindex.asp>. _Time Out New York_ receives a commission for transactions processed via this site.
 
-3\. On occasion, _TONY_ sponsors special promotions, sweepstakes and contests that are hosted by partner websites, which may require that your browser accept cookies, or that you agree to receive information from affiliated sponsors. Such requirements are clearly noted. 
+Links within the _TONY_ Store, and elsewhere on the site, may link to Amazon.com, which handles the orders and distribution. 
+
+3\. On occasion, _TONY_ sponsors special promotions, sweepstakes and contests that are hosted by partner websites, which may require that your browser accept cookies, or that you agree to receive information from affiliated sponsors. Such requirements are clearly noted. Amazon.com's privacy policy governs the use of personal information you provide at the Amazon.com site. You may review Amazon.com's privacy policy at [http://www.opentable.com/info/helpindex.asp](http://www.amazon.com/gp/help/customer/display.html/102-4816897-7450555?ie=UTF8&nodeId=468496). _Time Out New York_ receives a commission for transactions processed via this site.
 
 4\. Magazine subscriptions: _TONY_ subscriptions are managed by Kable News Company Inc. Whether you have subscribed to the magazine via phone, mail or online, your account information can be accessed via Kable's site through links from [http://www.timeout.com/newyork/](https://www.kable.com/pub/tnew/subServices.asp) or <http://www.tonykids.com/help/>. New subscribers link from _TONY_ to Kable to sign up for a subscription via a secure server. In addition, _TONY_ sometimes makes the names and addresses of our magazine subscribers available to carefully screened organizations outside _TONY_ whose products and activities might prove interesting to you. If you do not wish to receive mailings from such organizations, please let us know by writing to us at Time Out New York, P.O. Box 385, Mt. Morris, IL 61054-0385.
 
