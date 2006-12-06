@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417185916id_/http%3A//www.diy-dating.com/privacy.php%3FSESSID%3D47f6d19d23fbed94a652401260422621) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014010id_/http%3A//www.diy-dating.com/privacy.php%3FSESSID%3Db71abc78d77d207105fd7a9f76e8c85f) for the most accurate reproduction.*
 
-# DIY-Dating -
+# DIY-Dating
 
 This Privacy Statement covers DIY-Dating's treatment of your personal information. This Statement does not apply to the practices of companies that DIY-Dating does not own or control, or to people we do not employ. 
 
