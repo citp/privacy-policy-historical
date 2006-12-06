@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520030456id_/http%3A//www.arcamax.com/news/page/1000/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206214219id_/http%3A//www.arcamax.com/arcapub/privacy) for the most accurate reproduction.*
 
-# Free newsletters, comics, book, games and much more! - ArcaMax Publishing
+# Free newsletters, comics, books and much more! - ArcaMax Publishing
 
 **Our Privacy Pledge to You,    
 Our Customers, Users, and Subscribers**
@@ -9,11 +9,13 @@ ArcaMax Publishing, Inc. respects your privacy, therefore we treat any identifia
 
 ArcaMax Publishing, Inc. is fully compliant with the 2004 Federal "CAN SPAM" act regulating email delivery. We will maintain the confidentially and integrity of our subscriber and customer data files as mandated by federal law. We reserve the right to modify this policy at anytime. 
 
+  
+
+
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
 
-**Summary**
-
+**Summary**  
 At ArcaMax Publishing, Inc., we take the issue of privacy very seriously. We treat your information with the utmost care. This includes your e-mail address, name, home address or other personal information. Your trust is what we value most. 
 
 **_Thank you for the privilege of serving you._**
