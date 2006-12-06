@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2006-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060607232525id_/http%3A//www.drugfree.org/TermsOfUse/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206195442id_/http%3A//www.drugfree.org/TermsOfUse/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - The Partnership For a Drugfree America
 
@@ -56,11 +56,11 @@ Suite 1601
 New York, NY 10174   
 You can also call the following telephone number: (212) 922-1560. 
 
-#### “Stories and Personal Stories” 
+#### Stories: Personal Stories, Recovery Stories and Memorial Stories
 
 Many visitors to our site have stories to share about their experiences, or experiences of their friends and siblings, with substance abuse, recovery, treatment, prevention, etc. We created the “Stories” and “Personal Stories” sections to enable visitors to submit a personal story for possible posting to our site. Only select stories will be posted to the site. Submitting gender, age range, ethnic background, city and state is optional. When you submit a story to this section, an email address is required in case we need to contact you. By submitting a story, you automatically give us permission to post the story on our web site. The Partnership reserves the right to edit the story for publication. Your email address will not be published, and your email address will not be shared with any outside organizations or individuals. Please review our Terms and Conditions of Use for more information. 
 
-We created a Memorials section for individuals to submit memorials in memory of loved ones lost to drugs or alcohol. For Memorial stories that we publish, we require follow-up written confirmation from the submitter verifying the story details. Memorials published on the site contain the real first name and first initial of last name of the deceased. We also ask for the month and year of the deceased's birth and death as well as the substance they used or died from. For longer-formatted stories we develop in house, full names and specific dates of birth and death of the deceased may be used. 
+We created a Memorials site for individuals to submit memorials in memory of loved ones lost to drugs or alcohol. For Memorial stories that we publish, we may follow-up to with the submitter to verify the story details. Memorials published on the site contain the real first name and last name of the deceased. We also ask for the year of the deceased's birth and death as well as the substance they used or died from. For longer-formatted stories we develop in house, specific dates of birth and death of the deceased may be used. 
 
 #### Online "Volunteerism" Submissions: 
 
@@ -76,9 +76,9 @@ Our eNewsletter sign-up section requires you to enter your email address to sign
 
 #### Online Surveys
 
-Our occasional online surveys ask visitors for contact information (like email or mailing address). We use contact data from our surveys to send the user information about the Partnership and its activities. Users may opt-out of receiving future mailings (see the Choice/Opt-out section below). Other data collected by online surveys is used to educate the Partnership about the interests and concerns of its supporters and general site visitors concerning the Partnership's mission, programs and events. This information is not shared with other organizations. The Partnership operates email discussion, and contact lists to reach its members who request such information. Such services are run both by the Partnership and contracted vendors. These email addresses whether housed on the Partnership servers or those of our third-party contractor are never shared with any other organization and users may opt out of participating or receiving email information from the Partnership at any time. Instructions are contained within each email sent as well as on our site Common Questions page in the About the Partnership section. 
+Our occasional online surveys ask visitors for contact information (like email or mailing address). We use contact data from our surveys to send the user information about the Partnership and its activities. Users may opt-out of receiving future mailings (see the Choice/Opt-out section below). Other data collected by online surveys is used to educate the Partnership about the interests and concerns of its supporters and general site visitors concerning the Partnership's mission, programs and events. This information is not shared with other organizations. The Partnership operates email discussion, and contact lists to reach its members who request such information. Such services are run both by the Partnership and contracted vendors. These email addresses whether housed on the Partnership servers or those of our third-party contractor are never shared with any other organization and users may opt out of participating or receiving email information from the Partnership at any time. Instructions are contained within each email sent. 
 
-#### “Tell-A-Friend,” “Email Others”
+#### “Tell-A-Friend,” “Email Others”, "Tell Others"
 
 If a user elects to use our referral service for informing a friend about our site, programs or events, we ask them for the friend's name and email address. The Partnership will automatically send the friend a one-time email inviting them to visit the site to learn about the feature, program or event. The Partnership stores this information for the sole purpose of sending this one-time email. The friend may contact the Partnership at [webmaster@drugfree.org](mailto:webmaster@drugfree.org) to request the removal of this information from the database. 
 
@@ -94,4 +94,4 @@ If you have any questions, concerns, or comments about our privacy policies or p
 
 The Partnership may at any time revise this Privacy Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Policy to which you are bound. 
 
-#### Updated: November 24, 2004
+#### Updated: September 19, 2006
