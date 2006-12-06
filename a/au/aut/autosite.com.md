@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the autosite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021736id_/http%3A//www.autosite.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosite.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206110446id_/http%3A//www.autosite.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy and Security
 
+|  |  |  |   
+---|---  
+  
+
+
 **AUTOSITE.COM CONSUMER PRIVACY AND SECURITY POLICY**
 
-**Date Last Revised: 1/10/2006**
+ **Date Last Revised: 6/20/2006**
 
 AutoSite.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our website, we assure you that we are committed to protecting your personal privacy. 
 
-[](http://www.truste.org/ivalidate.php?url=www.autosite.com&sealid=101)AutoSite.com is a licensee of the TRUSTe Web Privacy Seal Program. This privacy and security policy discloses the privacy practices for http://www.autosite.com. If you have questions or concerns regarding this policy, you should first contact our Consumer Privacy Advocate by e-mail at ASPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+[](https://web.archive.org/system/fnc_logjump.cfm/log/general/partner/truste/linkpage/privacyPolicy_AWEB_validate)
+
+AutoSite.com is a licensee of the TRUSTe Web Privacy Seal Program. This privacy and security policy discloses the privacy practices for http://www.autosite.com. If you have questions or concerns regarding this policy, you should first contact our Consumer Privacy Advocate by e-mail at ASPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **1\. Information AutoSite.com Collects**
 
@@ -40,7 +47,7 @@ AutoSite.com may track consumer interest in goods and services marketed to users
 
 Purchase Request Information is used to transmit to third parties requests for products or services and to contact consumers regarding vehicle purchases. Similarly, Finance Information is used to transmit to third parties requests for vehicle financing. Typically, in either case the information is transmitted to dealers, manufacturers, lenders or fulfillment entities, as applicable, who may be in a position to respond to your request. As part of the request process, we may verify the information you provide, or obtain omitted address or other contact information, from third parties. 
 
-Occasionally, in the case of Purchase Request Information or Finance Information, when Autobytel does not have a dealership or lender available to assist you, we may forward your request information to a dealer or lender through another automotive referral service. Your submission of the request authorizes us to do this. Any Purchase Request Information or Finance Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services. 
+Occasionally, in the case of Purchase Request Information or Finance Information, when AutoSite.com does not have a dealership or lender available to assist you, we may forward your request information to a dealer or lender through another automotive referral service. Your submission of the request authorizes us to do this. Any Purchase Request Information or Finance Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services. 
 
 Similarly, Purchase Request or Finance Information transmitted to a dealer, manufacturer, lender or fulfillment entity becomes the property of that dealer, manufacturer, lender or fulfillment entity, in addition to AutoSite.com. The information is used to process your purchase request or financing application and to provide you with information about goods and services. Any request to opt out of future dealer, lender, manufacturer or other third-party communications must be made directly to that third party. 
 
@@ -64,7 +71,7 @@ In addition to our own internal uses of your information, we may provide your pe
   * To our advertiser clients solely to assess the effectiveness of ad campaigns we have provided for them; 
   * To contractors or service providers who may provide services or perform functions on our behalf, in which case those service providers may use your information only for the purposes provided and not disclose it to any third party except upon our direction; 
   * To enforce our rights or as required by law or order of a court or government agency; and 
-  * On occasion, unless you opt-out (as described below), to other third parties who may wish to send you e-mails or postal communications regarding services or products that you may find of interest. 
+  * On occasion, unless you opt-out (as described below), to other third parties who may wish to send you e-mails regarding services or products that you may find of interest or for other reasons that are disclosed to us and that we believe to be appropriate and consistent with our commitment to prevent abuse of your personal information. 
 
 
 
@@ -74,7 +81,7 @@ You always have the option of removing yourself from further marketing contact f
 
 In addition, those consumers who submit a purchase request or financing request to us are given the opportunity at the time they provide their information to decide what types of offerings of products or services they wish to receive or to opt-out. You may update those preferences at any time by [clicking here](https://web.archive.org/content/home/index.cfm?action=updateProfile). 
 
-In each case, even if you decide not to receive offers or other product or service information, AutoSite.com and its member dealers may use a phone number or email address that you have provided to contact you regarding your purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with Autobytel Inc.-accredited dealers. Phone numbers are made available only to AutoSite.com, its affiliates and member dealers, lenders or manufacturers who receive your purchase request. 
+In each case, even if you decide not to receive offers or other product or service information, AutoSite.com and its member dealers may use a phone number or email address that you have provided to contact you regarding your purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with AutoSite.com-accredited dealers. Phone numbers are made available only to AutoSite.com, its affiliates and member dealers, lenders or manufacturers who receive your purchase request. 
 
 The submission of a purchase or financing request itself is permission for us to submit your Purchase Request Information or Finance Information (as applicable) to the third parties necessary to fulfill your request. 
 
@@ -84,7 +91,7 @@ AutoSite.com understands the importance of security for our consumers. We use SS
 
 **6\. Corrections or Changes to Your Personal Information**
 
-You may make corrections and updates to your personal information by contacting [AutoSiteConsumerCare@autobytel.com.](mailto:AutoSiteConsumerCare@autobytel.com)
+You may also make corrections and updates to your personal information by contacting AutoSiteConsumerCare@autobytel.com. 
 
 **7\. Cookies and Web Beacons**
 
@@ -102,14 +109,24 @@ We also place "web beacons" on the website on behalf of third parties. A web bea
 
 **8\. Changes or Revisions to This Policy**
 
-If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will revise this policy and update the date displayed at the top of this policy to reflect that the policy has been changed. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 In the event AutoSite.com or its assets are acquired, such as through merger, acquisition or similar event, resulting in a change in ultimate control over customers' personal information (other than through an internal corporate reorganization or similar transaction), customers will be notified promptly of such change. We will make reasonable efforts to ensure that the acquirer of our customers' personal information respects the provisions of this privacy policy, although this may not be possible in certain legal settings (such as bankruptcy). 
 
 **9\. Questions or Concerns?**
 
-If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at ASPrivacy@autobytel.com. 
+If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at ASPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. NOTHING IN THIS PRIVACY AND SECURITY POLICY IS INTENDED TO CREATE OR PROVIDE ANY RIGHT OF ACTION FOR VIOLATION. THE SOLE REMEDY PROVIDED TO YOU IF YOU THINK YOUR RIGHTS UNDER THIS POLICY HAVE BEEN VIOLATED IS TO SEEK REDRESS THROUGH TRUSTE. 
 
 For any other issues, please contact our customer service department at AutoSiteConsumerCare@autobytel.com. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400. 
 
-For the AutoSite.com Usage Terms and Disclaimers please [click here](https://web.archive.org/content/home/help/index.cfm?id10714;ASITE&action=terms).
+For the AutoSite.com Usage Terms and Disclaimers please [click here](https://web.archive.org/content/home/help/index.cfm/action/terms). 
+
+| 
+
+[ ]()
+
+|    
+---  
+|  A D V E R T I S E M E N T   
+---  
+ 
