@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212252id_/http%3A//www.centerpointe.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206203247id_/http%3A//centerpointe.com/about/privacy.php) for the most accurate reproduction.*
 
 # Centerpointe Research Institute: Privacy Policy
 
