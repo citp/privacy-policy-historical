@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618003509id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206062214id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
 
 # AuctionStealer - FREE online auction site sniping software esniper ebay snipe site e snipe auctions ebay auction sniper site bid sniper free auction
 
@@ -72,5 +72,5 @@ CONTACT INFORMATION
 
 If you have any questions or concerns about (a) access to personal information, (b) the collection, use, management, or disclosure of personal information, (c) this policy or our information handling practices, or if you need further assistance with respect to our Privacy Policy, you may contact our Privacy Officer as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them. 
 
-E-mail: privacy@auctionstealer.com,   
+E-mail: [Contact our Privacy Officer](http://www.auctionstealer.com/contact.cfm?privacy=yes)   
 Mailing address: AuctionStealer Privacy Officer 8620 North New Braunfels, Suite 422 San Antonio, TX 78217 
