@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025228id_/http%3A//www.adesa.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206151744id_/http%3A//adesa.com/privacy.do) for the most accurate reproduction.*
 
-# ADESA.com [Working for Dealers...Everyday!]
+# ADESA.com [Working for Dealers Every Day!]
 
 ADESA is committed to providing you the opportunity for a positive experience during your visit to our website, while respecting and striving to protect your on-line privacy. And because protecting your privacy is very important, we have adopted this policy to safeguard your personal information and protect its confidentiality. We will limit the collection and use of personal information to what is necessary to administer our business, provide you with the highest quality visit, and offer you information we think will be of interest. We will not disclose any individual information to other organizations. 
 
