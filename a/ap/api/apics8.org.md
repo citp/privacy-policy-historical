@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apics8.org privacy policy that was archived on 2006-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060214061636id_/http%3A//www.apics8.org/Privacy%2520Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics8.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206070058id_/http%3A//www.apics8.org/Privacy%2520Statement.htm) for the most accurate reproduction.*
 
 # Region VIII Privacy Statement
 
