@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617055458id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010446id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
 
 # NAFSA: Association of International Educators - Privacy Policy
 
