@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513081217id_/http%3A//www.banfflakelouise.com/m_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206041837id_/http%3A//banfflakelouise.com/m_privacy.html) for the most accurate reproduction.*
 
 # The Banff, Lake Louise Tourism Bureau - Privacy
 
@@ -25,11 +25,11 @@ BLLTB is responsible for personal information under its control and has designat
 
  Attention:     Elizabeth Archer, Privacy Officer
 
-                        Banff Lake Louise Tourism Bureau
+                    Banff Lake Louise Tourism
 
-Box 1298, Banff, Alberta  T1L 1B3 
+                    Box 1298, Banff, Alberta  T1L 1B3 
 
-e-mail: liz@banfflakelouise.com
+                    e-mail: liz@banfflakelouise.com
 
 2\.         Identifying Purposes  
 The purposes for which personal information is collected will be identified by BLLTB at or before the time the information is collected. We will collect, use or disclose personal information only for purposes that are reasonable and appropriate.
