@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231053830id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206200627id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # Federal Reserve Board: Privacy Policy
 
@@ -11,7 +11,7 @@ The Board automatically collects and stores information about your Internet conn
   * the date and time that you access our site
   * the pages that you visit
   * if you linked to the Board web site from another web site, the address of that web site
-  * the type of browser (for example, Netscape 4.0) used to access our site
+  * the type of browser (for example, Internet Explorer) used to access our site
   * the IP (Internet Protocol) address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access our site
   * the action that you tried to perform (for example, download a document) and whether or not you were successful.
 
@@ -37,4 +37,18 @@ For the security of our site and to ensure that the site remains available to al
 
 ### How to Contact Us about the Web Site
 
-If you have a question about the way your information is used in connection with this web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20051231053830id_/http%3A//federalreserve.gov/privacy.cfm).
+If you have a question about the way your information is used in connection with this web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20061206200627id_/http%3A//federalreserve.gov/feedback.cfm).
+
+### Privacy Impact Assessments
+
+[Electronic Governors' Systems (38 KB PDF)](https://web.archive.org/web/20061206200627id_/http%3A//federalreserve.gov/generalinfo/privacy/pia_egovsystems.pdf)  
+
+
+[Internet Consumer Complaints System (39 KB PDF)](https://web.archive.org/web/20061206200627id_/http%3A//federalreserve.gov/generalinfo/privacy/pia_iccs.pdf)  
+
+
+[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/web/20061206200627id_/http%3A//federalreserve.gov/generalinfo/privacy/privacyimpactpiv.pdf)  
+
+
+[Web CAESAR System (48 KB PDF)](https://web.archive.org/web/20061206200627id_/http%3A//federalreserve.gov/generalinfo/privacy/pia_caesar.pdf)  
+
