@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorlingkindersley-uk.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617024139id_/http%3A//www.dorlingkindersley-uk.co.uk/static/cs/uk/11/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorlingkindersley-uk.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206115848id_/http%3A//www.dorlingkindersley-uk.co.uk/static/cs/uk/11/copyright/privacy.html) for the most accurate reproduction.*
 
 # Dorling Kindersley: Copyright - Privacy Policies
 
