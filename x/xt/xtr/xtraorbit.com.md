@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052702id_/http%3A//xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011217id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy
 
