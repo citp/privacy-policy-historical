@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044034id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206015910id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
 
 # PE.com | Inland Southern California | Privacy Policy
 
@@ -102,7 +102,8 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) <http://www.pe.com/sharedcontent/registration/membercenter.jsp> in your browser.
+  1. Enter (or click) [http://www.pe.com/sharedcontent/registration/  
+membercenter.jsp](http://www.pe.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -131,10 +132,10 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/939948332/Position1/default/empty.gif/7a2f486a6156347972527341414c6641?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/645837888/Position1/default/empty.gif/7a2f4868396c347972526b4144556f37?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/146172014/Position4/default/empty.gif/7a2f486a6156347972527341414c6641?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1948389371/Position4/default/empty.gif/7a2f4868396c347972526b4144556f37?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1845863249/Position5/default/empty.gif/7a2f486a6156347972527341414c6641?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/951339931/Position5/default/empty.gif/7a2f4868396c347972526b4144556f37?x)
 
-##### adcenter
+##### shopping
