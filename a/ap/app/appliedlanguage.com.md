@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023036id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206074302id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Translation Services Company - Language Translation Agency
 
-| 
+## Privacy Policy
 
 At Applied Language Solutions we are committed to protecting your data and privacy. So, we have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
 
-##### **What information do we collect and how do we obtain it?**
+### **What information do we collect and how do we obtain it?**
 
 We receive information when you complete any of the forms on our website.
 
 To complete your request we need to know your name, email address, telephone number and country of residence.
 
-##### **How do we use your information?**
+### **How do we use your information?**
 
 We may use your information as follows: 
 
@@ -25,7 +25,7 @@ We may use your information as follows:
 
 
 
-##### **How do we protect your information?**
+### **How do we protect your information?**
 
 We protect your information in the following ways: 
 
@@ -36,43 +36,56 @@ We protect your information in the following ways:
 
 
 
-##### **Receipt of Information**
+### **Receipt of Information**
 
 If you do not want to continue to be contacted by Applied Language Solutions, please write to: 
 
-Data Protection Department,   
-The Yarn Store,   
-Dogley Mills,   
-Penistone Road,   
-Huddersfield   
-HD8 0NQ 
+UK
+
+Yorkshire Office Park,  
+Armitage Bridge,  
+Huddersfield,  
+HD4 7NR
+
+USA
+
+511 N. Brookhurst Str.,  
+Ste 204,  
+Anaheim,  
+CA 92801
+
+Bulgaria
+
+8 Tru Ushi Str.,  
+Fl. 1,  
+Offices 1 and 2,  
+Triaditsa 1301,  
+Sofia
 
 You may continue to receive communications on route to you for a short period of time while your suppression is being processed. You have the right to see personal information which is held about you or your company upon written request.
 
-##### **What about "cookies"?**
+### **What about "cookies"?**
 
 Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. 
 
 Cookies also allow us to make our website more user friendly. We use cookies so that we can give you a better experience when you return to our website.
 
-##### **Your Consent**
+### **Your Consent**
 
 By completing any of our online forms, you are consenting to the collection, processing and use of this information by Applied Language Solutions.
 
-August 2005
+_Last revision: August 2005_
 
-|    
----|---  
-  
-| [](http://www.appliedlanguage.com/news.shtml) | 
+###  Instant Quote
 
-#### © Copyright 2005 Applied Language Solutions a Translation Services Company
+Get your free translation quote in just 3 steps, starting here:
 
-#### UK Office: Yorkshire Office Park, Armitage Bridge, Huddersfield, HD4 7NR UK
-
-#### US Office: 511 N. Brookhurst Str., Ste 204, Anaheim, CA 92801, US
-
-#### Bulgarian Office: 8 Tri Ushi Str., Fl. 1,Offices 1 and 2 Triaditsa 1301, Sofia, 1040, Bulgaria
-
-| [](http://www.appliedlanguage.com/news.shtml)  
----|---|---
+Source Language   
+Desired Languages Currency **Additional Proof Reading?**  
+Yes, please  
+No thanks  
+Just Proof Reading, please  
+**What translation do you need?**  
+Normal translation  
+Specialist translation  
+Medical, Legal, Financial etc.
