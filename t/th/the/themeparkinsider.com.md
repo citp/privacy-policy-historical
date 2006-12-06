@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614150749id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206221918id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
@@ -10,7 +10,7 @@ As an interactive community where readers provide the bulk of the site's coverag
 
 Only readers who register with the site may submit comments or vote on attractions. Theme Park Insider uses cookies to tell which readers are registered and who they are. (A "cookie" is a line of text in your browser's folder on your personal computer that includes that website's domain name and a unique user number. The cookie does not reveal any other information on your computer, including your name and passwords.)
 
-If you do not want your name and hometown published on Theme Park Insider, or if you are under age 13, do not register with the site. Theme Park Insider reserves the right to republish any comments or articles submitted to it in any medium at any time.
+If you do not want your name and hometown published on Theme Park Insider, do not register with the site. Readers under age 13 must register via our [TPI Kids](https://web.archive.org/kids/) program. Theme Park Insider reserves the right to republish any comments or articles submitted to it in any medium at any time.
 
 ### No spam
 
@@ -20,11 +20,11 @@ Registered users can send "blind" e-mails to other registered users via the site
 
 ### No annoying ads
 
-Theme Park Insider does not, has not and will not serve pop-up or pop-under ads on the site. Nor will we try to install "spyware" or other software on your computer. If you see pop-ups, pop-unders or graphical banner ads when you visit Theme Park Insider, your computer is likely infected with a spyware or adware program that it downloaded from another site. [Click here](http://www.microsoft.com/mscorp/twc/privacy/spyware.mspx) to learn about spyware and how you can remove it from your computer.
+Theme Park Insider does not, has not and will not serve pop-up or pop-under ads on the site. Nor will we try to install "spyware" or other software on your computer. If you see pop-ups, pop-unders or screen "takeover" ads when you visit Theme Park Insider, your computer likely is infected with a spyware or adware program that it downloaded from another site. [Click here](http://www.microsoft.com/mscorp/twc/privacy/spyware.mspx) to learn about spyware and how you can remove it from your computer.
 
-We also strongly encourage you to use the free [Firefox](http://www.mozilla.org/products/firefox/) browser from Mozilla to help protect your computer from spyware and viruses that spread via the Internet Explorer browser. If you must use IE, please try the free Google toolbar to block pop-ups and set your IE security settings to medium or higher.
+We also strongly encourage you to use the free [Firefox](http://www.mozilla.org/products/firefox/) browser from Mozilla to help protect your computer from spyware and viruses that spread via the Internet Explorer browser. If you must use IE, please try the free [Google toolbar](http://toolbar.google.com/) to block pop-ups and set your IE security settings to medium or higher.
 
-The only ads we present on ThemeParkInsider.com are text ads sold and served via Google's AdWords program and Yahoo's Publisher Network. Our travel agent partner, TravelNow, may also run text and graphical banner ads on Theme Park Insider co-branded pages hosted on its site.
+The only ads we present on ThemeParkInsider.com are text and banner ads sold and served via Google's AdWords program and Yahoo's Publisher Network. Our travel agent partner, TravelNow, may also run text and graphical banner ads on Theme Park Insider co-branded pages hosted on its site.
 
 ### Editorial integrity
 
@@ -39,3 +39,6 @@ As a community-driven website, we are only as successful as our readers allow us
 Also, please do clean your computer of any spyware or adware programs, as those programs hijack weblinks and ad clicks, depriving this and other sites of revenue, which instead goes straight into those spammers' pockets.
 
 Again, this site is a community. If you are uncomfortable participating as a public member of an online community, you are welcome to "lurk" and read the content of this site without adding any of your own. Otherwise, please be aware of the policies and practices described on this page before submitting any statements or content to the site.
+
+Thanks for visiting,  
+[Robert Niles](http://www.themeparkinsider.com/contact/), Founder and Editor, ThemeParkInsider.com
