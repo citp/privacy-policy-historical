@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203919id_/http%3A//www.amazingmoms.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010746id_/http%3A//www.amazingmoms.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # Amazingmoms Privacy Statement
 
@@ -23,7 +23,7 @@ For example: 70% of our viewers reside in the USA
                    and so on....  
 This information is not sold to marketing companies for the purposes of unsolicited advertising.
 
-Please feel free to [contact us](https://web.archive.org/web/20060615203919id_/http%3A//www.amazingmoms.com/htm/contact_us.htm) with questions regarding this  
+Please feel free to [contact us](https://web.archive.org/web/20061206010746id_/http%3A//www.amazingmoms.com/htm/contact_us.htm) with questions regarding this  
 Privacy statement.
 
 |   
