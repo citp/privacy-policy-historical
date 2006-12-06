@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030755id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120644id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
 
 # Mercantila | Privacy Notice
 
@@ -26,6 +26,6 @@ Mercantila uses several of the latest encryption technologies to keep your perso
 
 You may contact us at any time to update the information we have about you. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either by email, postal mail, or phone, please let us know by sending us an email or by calling us at (800) 718-1710 Mon.-Fri. (6am to 8pm, PST) or Sat.-Sun. and holidays (8am to 5pm, PST). 
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either by email, postal mail, or phone, please let us know by sending us an email or by calling us at (800) 718-1710 Mon.-Fri. (5am to 8pm, PST) or Sat.-Sun. and holidays (6am to 5pm, PST). 
 
 Please note that such requests may take up to 6-8 weeks to become effective. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you by phone, mail, or email if we have other questions regarding your order. 
