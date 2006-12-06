@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617192000id_/http%3A//www.adelaidemetro.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206033550id_/http%3A//adelaidemetro.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Adelaide Metro - About Us - Privacy Statement
 
@@ -27,8 +27,3 @@ Please note that Adelaide Metro website contains links to a large number of othe
 The Adelaide Metro is committed to protecting your privacy and the confidential security of information provided to us.
 
 This privacy statement is periodically reviewed in line with the on-going development of the Adelaide Metro website. 
-
-
-
-
-Page last updated on October 27, 2005
