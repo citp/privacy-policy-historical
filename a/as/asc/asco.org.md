@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214849id_/http%3A//www.asco.org/vgn-ext-templating/v/%3Fvgnextoid%3De508201eb61a7010VgnVCM100000ed730ad1RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206024656id_/http%3A//www.asco.org/vgn-ext-templating/v/%3Fvgnextoid%3De508201eb61a7010VgnVCM100000ed730ad1RCRD) for the most accurate reproduction.*
 
 # ASCO - Privacy Policy
 
   
 
+
+##### ****
 
 ##### **American Society of Clinical Oncology  
 ** (last updated March 24, 2005)
