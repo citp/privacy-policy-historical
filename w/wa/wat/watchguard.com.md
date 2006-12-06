@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615122625id_/http%3A//watchguard.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206052756id_/http%3A//watchguard.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | WatchGuard Technologies, Inc.
 
@@ -10,7 +10,7 @@
 
 [Export Compliance](https://web.archive.org/corporate/export_compliance.asp)
 
-[Environmental Information](https://web.archive.org/corporate/weee.asp)
+[Environment Stewardship](https://web.archive.org/corporate/weee.asp)
 
 | 
 
@@ -43,7 +43,7 @@ The personal information collected on watchguard.com is used to deliver requeste
 Where we deem appropriate, contact information will be shared with WatchGuard Authorized Channel Partners to assist customers with their WatchGuard purchase decisions. Otherwise, information collected on this site is not distributed outside of WatchGuard. WatchGuard might also share information with parties with whom we contract to provide certain services such as broadcasting security alerts or updates. These contractors are also required to keep the information confidential and to not use it for any purpose other than to carry out the services they are performing for WatchGuard.
 
 **WatchGuard third party opt-out policy**  
-If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20060615122625id_/http%3A//watchguard.com/about/thirdpartycomm.asp), or email [WatchGuard Customer Care](mailto:supportid@watchguard.com)
+If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20061206052756id_/http%3A//watchguard.com/about/thirdpartycomm.asp), or email [WatchGuard Customer Care](mailto:supportid@watchguard.com)
 
 **WatchGuard opt-out policy**  
 If you would like to opt-out of being contacted by WatchGuard, please contact [WatchGuard Customer Care](mailto:supportid@watchguard.com)
