@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodblitz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040602id_/http%3A//bollywoodblitz.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodblitz.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206193008id_/http%3A//bollywoodblitz.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Bollywood Blitz - Privacy Policy
 
