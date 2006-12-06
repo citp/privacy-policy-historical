@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arts.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233923id_/http%3A//www.arts.gov/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.gov privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206121928id_/http%3A//www.arts.gov/about/Privacy.html) for the most accurate reproduction.*
 
 # NEA Web Site Privacy Policy
 
@@ -6,7 +6,9 @@ Thank you for visiting the National Endowment for the Arts Website and reviewing
 
 ### Cookies
 
-Our public web site does not use "cookies." We consider "cookies" to be computer files that a web site places on your computer system without your knowledge or permission. 
+We do not use "persistent" web cookies. Persistent web cookies are defined as web cookies that can track "the activities of users over time and across different web sites.
+
+Session cookies, the kind used on this site, automatically expire when users leave a site. Session cookies retain information only during the session or for the purpose of completing a particular online transaction, without any capacity to track users over time and across different web sites.
 
 ### Emails and Web Forms
 
