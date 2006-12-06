@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211637id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206052846id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
 
-# A View on Cities - Privacy Policy
+# A View On Cities - Privacy Policy
 
-|  | 
-
+---  
+|  |  [Home](https://web.archive.org/) |  [City Index](https://web.archive.org/_cityindex.htm) |  [Attractions](https://web.archive.org/_attractions.htm) |  [Hotels](https://web.archive.org/_travelcenter.htm) |  [Buildings](https://web.archive.org/_buildingindex.htm) |  [Facts](https://web.archive.org/_cityfacts.htm) |  [Maps](https://web.archive.org/_citymaps.htm) |  [Pictures](https://web.archive.org/gallery/_galleryindex.htm) |  [Sitemap](https://web.archive.org/_sitemap.htm) |   
+---|---|---|---|---|---|---|---|---|---|---  
+[A View On Cities](http://www.aviewoncities.com/) > [Privacy Policy](https://web.archive.org/_privacy.htm)  
+   
+  
+  
 | 
 
 Information collected  \-   Use of information   \-   External links  
   
 ---  
    
- Information collected   
+ Information collected  
    
   
 The following information is collected when you visit A View on Cities:
@@ -21,26 +26,22 @@ The following information is collected when you visit A View on Cities:
 
 This site does _not   _ make use of cookies or user sessions.  
   
-back to top  
-  
    
  Use of Information  
    
   
-None of the information gathered when you visit this site is communicated with external parties. 
+None of the information gathered when you visit this site is communicated with external parties.
 
 You will not receive any promotional material from A View on Cities.  
   
-back to top  
-  
    
- External Links   
+ External Links  
    
   
-Please be aware that other internet sites to which a user hyperlinks from the site may contain privacy provisions that differ from the provisions provided herein. A View on Cities is not responsible for such provisions and expressly disclaims any and all liability related to such provisions. 
+Please be aware that other internet sites to which a user hyperlinks from the site may contain privacy provisions that differ from the provisions provided herein. A View on Cities is not responsible for such provisions and expressly disclaims any and all liability related to such provisions.  
+  
+   
+  
 
-Items sold on this site are handled by Amazon.com. For their privacy statement, click [here](http://www.amazon.com/exec/obidos/tg/browse/-/468496/104-4663807-8815948).  
-  
-back to top  
-  
+
  
