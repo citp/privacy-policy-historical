@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascential.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200109id_/http%3A//ibm.ascential.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascential.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206135441id_/http%3A//ibm.ascential.com/company/privacy.html) for the most accurate reproduction.*
 
 # Data Integration Software - IBM WebSphere Information Integration (formerly Ascential Software)
 
@@ -73,6 +73,6 @@ If you have any questions about the security at our Web site, you can send an em
 
 This Privacy Policy will be updated from time to time. IBM's updated privacy statement is posted on this Web site, within a reasonable period of time, so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-[Return to Terms and Conditions](https://web.archive.org/web/20060615200109id_/http%3A//ibm.ascential.com/company/legal.html)
+[Return to Terms and Conditions](https://web.archive.org/web/20061206135441id_/http%3A//ibm.ascential.com/company/legal.html)
 
 For more information call 1-800-966-9875 or [contact us](https://web.archive.org/company/contact_form.html)
