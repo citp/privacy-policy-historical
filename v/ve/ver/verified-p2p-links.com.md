@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verified-p2p-links.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614114905id_/http%3A//verified-p2p-links.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verified-p2p-links.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206193054id_/http%3A//verified-p2p-links.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy || isoHunt - P2P and BitTorrent link Releases
+# Privacy Policy || isoHunt - P2P and BitTorrent link releases
 
 Privacy Policy
 
@@ -16,9 +16,7 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-| 
-
-[](http://a.isohunt.com/adclick.php?bannerid=33&zoneid=1&source=others&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
+|  [](http://verified-p2p-links.com/a/adclick.php?bannerid=88&zoneid=1&source=others&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
 
   
 | Shout Box  
