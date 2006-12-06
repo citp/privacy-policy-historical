@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328211243id_/http%3A//www.advancedmd.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206021746id_/http%3A//www.advancedmd.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
-
-* * *
-
-* * *
+# AdvancedMD Privacy Policy
 
 AdvancedMD Software, Inc. respects the privacy of our website visitors and manages this website accordingly. During visits to the AdvancedMD Software website, the web servers only collect basic information such as referring page, file requested, date/time and IP address. 
 
@@ -14,10 +10,6 @@ AdvancedMD is currently using and has contracted with Omniture, a third party, t
 
 AdvancedMD Software, Inc. reserves the right to change this policy at any time without prior notice. Please check this page periodically for policy updates. 
 
-This policy does not govern web sites of other parties to which AdvancedMD Software may provide links. We do not control and are not responsible for the privacy practices of or the data available on the web sites of third parties.  
+This policy does not govern web sites of other parties to which AdvancedMD Software may provide links. We do not control and are not responsible for the privacy practices of or the data available on the web sites of third parties.
 
-
-* * *
-
-  
-
+[](https://web.archive.org/info/request.asp?source=amdlink-footer-demo "Request a Demo") [](https://web.archive.org/info/request-info.asp?source=amdlink-footer-info "Request Info")
