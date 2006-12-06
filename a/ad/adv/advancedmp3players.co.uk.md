@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616022127id_/http%3A//www.advancedmp3players.co.uk/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206025917id_/http%3A//www.advancedmp3players.co.uk/shop/privacy.php) for the most accurate reproduction.*
 
 # Advanced MP3 Players
 
