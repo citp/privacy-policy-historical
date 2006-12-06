@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cduniverse.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227085609id_/http%3A//www.cduniverse.com/help/help.asp%3Fpage%3Dprivacy%26style%3Dmusic%26cart%3D506) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cduniverse.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010521id_/http%3A//www.cduniverse.com/help/help.asp%3Fstyle%3Dmusic%26page%3Dprivacy%26cart%3D506) for the most accurate reproduction.*
 
 # CD Universe
 
