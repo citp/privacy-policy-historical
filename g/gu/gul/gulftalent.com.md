@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205639id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206211117id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # GulfTalent.com Privacy Policy
 
-|   
----  
-  
-[](http://www.khaleejtimes.com/)  
-  
-   
-  
-| **Privacy Policy**  
+|  | **Privacy Policy**  
 ---  
 **Introduction**  
 GulfTalent is committed to protecting the privacy of your personal data collected at this website. This statement summarizes the policies of this website regarding the collection, use, and transfer of your personal data, and the security measures GulfTalent employs to protect such data.  
@@ -60,7 +53,7 @@ Nothing contained in this Privacy Policy is intended to create a contract or agr
 |    
 
 
-  **Latest Research**        
+     **Latest Research**        
 
 
   
