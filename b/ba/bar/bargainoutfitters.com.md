@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203326id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206053445id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.*
 
-# Discount Work Boots, Bargain Hunting Boots, Closeout Hiking Boots, Discount Running Shoes, Clothing Deals
+# Bargain Outfitters
 
 This Privacy Statement describes the practices pertaining to the collection and handling of personal information from visitors to www.bargainoutfitters.com. The statement does not pertain to the privacy practices for partnered sites, and we encourage those who visit external sites from links within www.bargainoutfitters.com to read the privacy policy statements of those sites. If you have questions or concerns regarding this statement, you can contact us via the following: 
 
