@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618074748id_/http%3A//herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206172550id_/http%3A//www.herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
 
-# Herbs Pro - Alternative herbal medicine -Privacy Policy Statement
+# Herbal Medicine for natural health from your HerbsPro
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to HerbsPro.com to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
 
