@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418022611id_/http%3A//nuvox.com/index.php/22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014324id_/http%3A//nuvox.com/index.php/22) for the most accurate reproduction.*
 
 # NuVox Communications
 
