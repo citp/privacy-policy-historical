@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430020658id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206171352id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # womensforum : A Community of Women and their Special Interests
 
@@ -16,7 +16,7 @@ Unless otherwise noted in special promotions, womensforum.com generally gathers 
 
 **Advertising**
 
-We may release subscriber data to responsible third parties for marketing purposes. womensforum.com uses several two third parity ad-serving companies to serve and monitor the advertisements that you see on our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third-party ad servers, please contact us at [support@womenforum.com](mailto:support@womenforum.com).
+We may release subscriber data to responsible third parties for marketing purposes. womensforum.com uses several two third parity ad-serving companies to serve and monitor the advertisements that you see on our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third-party ad servers, please contact us at [support@womensforum.com](mailto:support@womensforum.com).
 
 **Research**
 
@@ -60,7 +60,7 @@ We do not knowingly collect information from children under the age of 13 and fe
 
 **Membership Cancellation**
 
-Our members have the option of canceling their membership with womensforum.com at any time by sending an email to [unsubscribe@womensforum.com](mailto:unsubscribe@womensforum.com).
+Our members have the option of canceling their membership with womensforum.com at any time by sending an email to [unsubscribeme@womensforum.com](mailto:unsubscribeme@womensforum.com).
 
 **Your IP Address**
 
