@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020158id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy%2C0%2C6872368.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206122120id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy%2C0%2C6872368.story) for the most accurate reproduction.*
 
 # SouthFlorida.com Privacy Policy: South Florida Sun-Sentinel
 
@@ -42,4 +42,4 @@ SouthFlorida.com does not knowingly collect or solicit Personally Identifiable I
 
 **Contacting us**
 
-[](http://www.sun-sentinel.com/services/sfl-startsub,0,2480096.htmlstory)
+[](https://subscribe.sun-sentinel.com/Circulation/)
