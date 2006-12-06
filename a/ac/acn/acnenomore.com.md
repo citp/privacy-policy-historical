@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210132id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206071812id_/http%3A//acnenomore.com/privacy.html) for the most accurate reproduction.*
 
-# Acne No More™ - Open The Door To An Acne Free Life
+# Acne No More™- Privacy
 
 **PRIVACY POLICY  
 IMPORTANT -- PLEASE READ**
