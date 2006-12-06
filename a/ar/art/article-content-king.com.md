@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629210020id_/http%3A//www.article-content-king.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D34dcdf0612b1609f5995b926d9260bf5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206022911id_/http%3A//article-content-king.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3De2ce17669b553e850ded556600e52215) for the most accurate reproduction.*
 
 # privacy Article-Content-King.com
+
+  
+
 
 Article-Content-King.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
