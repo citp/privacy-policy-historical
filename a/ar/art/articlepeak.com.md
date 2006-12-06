@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlepeak.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229172821id_/http%3A//articlepeak.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepeak.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207000208id_/http%3A//articlepeak.com/privacy.php) for the most accurate reproduction.*
 
 # www.articlepeak.com
 
