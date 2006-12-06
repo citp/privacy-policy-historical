@@ -1,156 +1,119 @@
-> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421090400id_/http%3A//egames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011120id_/http%3A//egames.com/privacy/aff%3Dtrygames) for the most accurate reproduction.*
 
-# Privacy Statement
+# Egames.com Privacy
 
-**Privacy Statement** **  
-** eGames has created this privacy statement in order to demonstrate our firm commitment to the privacy rights of our online visitors and to the purchasers of our products. At eGames, we strive to help our customers protect their privacy while using our products and services. This privacy statement contains information about our website and our products, some of which may make use of your Internet connection. This privacy statement provides information about: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; and how you can correct any inaccuracies in the information. Please note that this policy relates only to websites or products developed and/ or maintained by eGames, Inc. This policy does not apply to websites or products developed and/or maintained by other companies to which we link or which provide services to our website. 
+The privacy of your information is important to us. The following are the privacy policies of Trymedia Systems, Inc.
 
-**Information Collected**  
-  
+Trymedia will be collecting two types of information from you: we collect non-personal information every time you visit our Web site or communicate with us over the Internet; and we collect personal information from you only when you engage in a transaction, download software or join a subscription service on our site. We explain how we collect and use both types of information below.
 
+**The Personal Information Collected**  
+Personal information is information that is unique to you, such as your name, address, e-mail address, phone number and credit card number. The following are the ways in which we collect personal information:
 
-On some pages of the eGames website, you can purchase products or register a product online. If you are purchasing a product online, the type of personal information collected includes:           
+  * **Transaction Information**  
+In order to complete a software purchase, you will be asked to share with us information required to complete the transaction successfully, such as billing and shipping addresses, credit card number and expiration date, etc.
 
-Name              
-Address              
-Email address              
-Phone Number              
-Credit Card Information           
 
-If you register a product online, the type of personal information collected includes:           
 
-Name              
-Email address              
-Address              
-Product purchased              
-Location of Purchase              
-Your computer platform              
-Age              
-Gender              
-Telephone Number 
+  * **Subscription Information**  
+You have the opportunity to receive our special software offers via e-mail. When you sign up for this service, you will be asked to provide us with your e-mail address.
 
-**What Organizations Collect Information**
 
-When you purchase a product online, you are providing the information identified above to eGames. 
 
-We have contracted with two third party entities to provide our e-commerce shopping cart: 1) A host service, Visual Impact Productions, which provides server space and bandwidth availability and 2) Skipjack, a credit card processor. The host service maintains a secure database of customer information, including name, email and street address, telephone number, but excluding any credit card information. The credit card processor utilizes a customer's credit card information to process debits or credits to the customer's credit card account as necessary. Both entities maintain security measures designed to protect against the loss, misuse and alteration of your user data under their control. Both use physical, electronic, and procedural safeguards to protect any personally identifiable data stored on their computers. Only authorized employees have access to the information you provide us. Listed are links to their respective privacy policies:[ http://www.skipjack.com/privacy/index.html ](http://www.skipjack.com/privacy/index.html%20)
+  * **Download Information**  
+Each software download started by you generates a unique serial number. If you purchase a license to a product, the serial number will be used to protect the copyright of the software and prevent piracy.
 
-When you register a product online, you are providing the information to Equifax Direct Marketing Solutions, Inc. (“Equifax”), an unaffiliated third party. For more information on the registration process and use of the information collected, click **[here](http://www.equifax.com/universal/privacy.shtml). **
 
-**The Way Your Information Is Used  
-  
-**
 
-The information you provide about yourself when placing an order is used by eGames and its third-party e-commerce providers to complete that order. The information may also be used by eGames to send promotional email messages, but only if you have agreed to receive future promotional messages when completing your order. **** Customers who buy products from the eGames website are shopping on a secure server, which encrypts all of the customer’s personal information including name, address and credit card number. Encryption is used to block access and use of this information in an unauthorized manner.  The eGames’ shopping cart uses Secure Socket Layers. This means that the data being sent to the eGames server from your browser is encrypted using high-level encryption technology.
 
-**_Who Your Information is Shared With_**
+**How Personal Information Is Used**  
+When you make a purchase, we use your information in the following ways:
 
-When you register a product through Equifax, as described below, the personal information you provide in the registration form – name, address, etc. -- allows eGames and Equifax to inform you of additional special offers which may be forthcoming, and to send you coupons, or notify you of products and services of affiliates of Equifax that relate directly to your specific interests, hobbies or other information you have given. As part of the entry process, we give you the opportunity to decline to receive any communications from other parties to whom the information may be provided.
+  * Your personal information will be shared with third parties involved in facilitating or completing the transaction (for example, credit card authorization companies, the publisher of the software and, if applicable, the owner of the Web site that you were visiting when you clicked on a promotion for the software you are downloading).
 
-The data collected is used in the aggregate to give eGames and Equifax demographic information about the entire audience registering eGames products. eGames uses this information to better understand that audience and to improve our offerings to our customers. The data collected may also be disclosed by Equifax to unaffiliated third parties (companies that are not owned or controlled by us) for various business purposes, including marketing and joint business efforts for related and unrelated products and services. ****
 
-**What choices are available to you regarding collection, use and distribution of the information**  
 
+  * Trymedia will send you, from time to time, email or mail on topics, including: (i) information regarding your purchase, such as news of software patches or updates; (ii) news regarding updates to our Web sites; and (iii) details regarding any special promotions sponsored by Trymedia, such as rebates, sweepstakes and gift promotions.
 
-Users may opt out of receiving future notifications about new products and features by checking “no” at the bottom of the registration form or shopping cart. This option allows customers to purchase a product or register a product without receiving promotional notices. Registering through Equifax, as described below under the heading “Register,” does provide information to third parties. In order to “opt out” of sharing information with third parties, users should not register their products through Equifax.
 
-**How You Can Access or Correct Your Information**
 
-  
-You can access your personally identifiable information that we collect online in our registration form by contacting our Customer Service Department at 215-750-6606 and pressing 5 (for our customer service department) or by email at [techpriority@egames.com](mailto:%20techpriority@egames.com).  You can correct factual errors in your personally identifiable information that you have submitted in a registration form by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**Register**
+If you opt-in to a subscription or mailing list then Trymedia and the third parties described above who receive your information will use your information in the following ways:
 
-**  
-** You can register products online to receive information about upcoming products and announcements. Information you submit when completing our online registration form will not be used for this purpose unless you indicate that you wish to receive such additional information when you fill out the registration form. We use the information from the registration form to better design our website, create better products, bring to market products that consumers are looking for, and, to the extent you have agreed, to send email messages notifying you of special offers and promotions. 
+  * Trymedia will send you emails and mail on special promotions that we believe will be valuable to you, including e-mails promoting special software deals, sponsored by Trymedia or third parties.
 
-  
-eGames has partnered with Equifax to handle our customer registration process. Through their proprietary technology, all new eGames products sold at retail and on our website will have an option for users to register their product at the time of installation. This registration is optional, and allows the user to send their registration information over the Internet or through traditional mail services. Equifax will also be collecting registration information from the eGames website registration page.
 
-Equifax (NYSE:EFX), a 103-year-old S&P 500 company, enables and secures global commerce through its information management, marketing services, direct to consumer, commercial and authentication businesses. More information about Equifax, including their privacy policy, can be viewed at <http://www.equifax.com/>
 
-**Cookies**  
-  
+  * Third parties will send you emails and mail on special promotions that they believe are valuable to you.
 
 
-What are cookies? Cookies are pieces of information – in the form of a small text file - that a Web site transfers to an individual's hard drive. The cookie transmits information back to the server that placed it, and most times can only be read by that server. Cookies can make Web-surfing easier for website visitors by saving the user’s preferences while at our site.
 
-The use of cookies is an industry standard -- you'll find them at most major Web sites. By showing how and when visitors use a site, cookies help us see which areas of our website are popular and which are not. Many improvements and updates to the site are based on the data collected by cookies such as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users’ needs. 
+  * Trymedia and third parties may conduct market research analysis in relation to mailing list subscribers.
 
-We have two primary uses for cookies. First, we use them to specify unique preferences. Secondly, we use cookies to track website user trends and patterns. This helps us to better understand and improve areas of our website. You may also get cookies from third-party advertisers. eGames does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
 
-Most Internet browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. If you take affirmative steps to decline cookies, it will not impair your ability to browse our website, but you will not be able to sign up for an account or purchase products online unless cookies are accepted.
 
-**Online Information Display**
 
-**  
-** All new eGames' products released between May 15, 2002 and December 1, 2003 contain a technology, the "Online Information Display", that can receive and display messages in the interface of your game. These messages may include product updates, patches, special offers and new product information from eGames. 
+We may also make the following general uses of your information:
 
-The end user will be asked if they wish to utilize this new feature during the installation of the product. No personally identifiable information of any kind is collected, and the feature may be turned off at any time in the game's main interface.
+  * We may use independent contractors to provide services on our behalf, for example credit card processing and market research analysis. These third parties may have access to your information in the course of providing these services on behalf of Trymedia. Any personal information we provide to such third parties is protected under confidentiality agreements.
 
-The online information display is a one-way website broadcast from www.eGames.com to the eGames software you are installing. It will present messages about your product, patches, updates, promotions, new products and other such information from our website, [www.eGames.com](http://www.egames.com/).
 
-The way it works is that the software you are installing will use your existing Internet service connection to download very small messages in html (world wide web page) format from our server onto your computer, which are then displayed in the game's interface. This download interaction only occurs if you are connected to the Internet, and only when you start the eGames product you have purchased or downloaded. This interaction only occurs when you start the program, and no interaction occurs when the game is not running. If you are not connected to the Internet when you begin playing this game, no download will occur. These interactions typically are very small, and should not have a significant impact on your internet connection bandwidth, even for 56k telephone modem users. 
 
-No information is collected or stored before, during or after this information display system functions. 
+  * We may disclose your personal information to authorities (i) if you violate our Terms of Use or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
 
-No third party software of any kind will be installed on your computer. The system works solely through the eGames software you have purchased or downloaded, in conjunction with our website, www.egames.com.. 
 
-An existing Internet Service Provider (such as America Online, cable modem, DSL, etc.) is required for this service to function.
 
-**Advertising Integrated into our Products**
+  * In the event that Trymedia or certain of our assets are acquired, your personal information may be one of the transferred assets.
 
-  
-Some older eGames applications make use of third-party software developed by Conducent Technologies, Inc. The software utility (sometimes referred to as the TimeSink, TSAD.DLL and/or TSADBOT.EXE utilities) was developed by Conducent to allow unattended updates of advertising messages to be displayed. The utility was designed to start up each time the computer is turned on, and then used the Internet connection to retrieve information from Conducent’s ad servers about what ads to display (and when) in order to refresh the displayed advertising from time to time. The utility had also sent other information to Conducent’s ad servers, including the computer’s operating system type and IP address, which information permitted Conducent to track the number of advertising impressions and “click-throughs” of ads.The information sent to Conducent’s ad servers also identified the eGames software product being used in order to serve appropriate ads, and to track the ad impressions and click-throughs served to the consumer by that product. These utilities had made use of your hard drive when downloading advertisements, create folders to store the files and other data and modify your Windows Registry.  This utility is not part of eGames’ software, but had been integrated into it solely for the purpose of serving and tracking advertisements. Conducent’s servers that the software attempts to contact for updates and reporting purposes are no longer active. 
 
-**If you do not wish to make use of this technology, click _[here](http://www.egames.com/support/AdWare/index.htm)_ to access a Windows uninstall program to remove this utility from your computer.**
 
-**Internet Links in Our Products  
-  
-**
 
-Many of our products contain direct links to the Internet. The user needs to be connected to a full-service Internet Service Provider in order to visit the websites indicated on these products. The Internet can be accessed if the user “clicks” on the website buttons. If your computer is set up to link to the Internet automatically when the user clicks on a website “hyperlink”, your Internet connection will automatically be accessed when the website buttons are clicked on.
+Use of your personal information by third party contractors when working on behalf of Trymedia shall be subject to our Privacy Policy. Use of your personal information by other third parties who receive your information will be in accordance with their privacy policies.
 
-Some of our products access the Internet through the eGames browser. This browser and game interface is launched when the game is used, and it contains buttons that, when clicked on by the user, can access the Internet. The game play buttons do not access the Internet. 
+You may unsubscribe from Trymedia's promotional mailing list at anytime by following the unsubscribe instructions that appear in each email that you will receive from Trymedia. To unsubscribe from the mailing lists of third parties you will need to follow their stated unsubscribe processes.
 
-If a user clicks on one of the buttons with Internet access, a screen may open asking the user to identify from which retail store the user purchased the product. If the user’s computer is set up to accept cookies, our server will send a cookie to the user’s computer, which cookie stores (1) the UPC code of the product, (2) the selected retailer identification, and (3) an expiration date for the cookie. If a user’s computer is set up not to accept cookies, the user will be directed to the eGames web site, as default, whenever the browser buttons are clicked.
+Many questions regarding your purchase history and assistance with your software can be answered by visiting our [ Customer Support Center](http://csc.trymedia.com/csc/start/affiliate=trygames/lang=en). If you would like access to other information and records that Trymedia retains in relation to you please complete and submit the Trymedia Information Request Form which can be obtained by sending an email requesting the form to: [privacy@trymedia.com](mailto:privacy@trymedia.com). Please be aware that information will not be released in response to a request until Trymedia has received a completed request form, verified the authenticity of the request and received payment of the modest fee due for each request. Once you have received the information and records you have requested you may request that they be changed, updated or removed. However, you should be aware that it is not technologically possible to remove or verify each and every record of the information you have provided to us and that any changes or deletions will not effect the information we have provided to third parties in accordance with this policy prior to such change or deletion. The need to back-up our systems to protect information from inadvertent loss means that a copy of your information may exist in a non-erasable form that will be difficult or impossible for us to locate.
 
-**Use of IP Addresses**  
-  
+**What We Won't Do With Personal Information**  
+Trymedia Systems, Inc. will not sell or rent your personal information to any third parties unconnected with your purchase of the software.
 
+**Where Your Information is Used**  
+When you provide us with your information you acknowledge that this information may be stored and processed on servers located any where in the World, including either inside or outside of the USA or the European Economic Area ("EEA"). You consent to your information being transferred outside the USA and EEA and being stored and processed at our discretion on any of our servers wherever located.
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the computers that "serve up" Web pages to your computer- automatically identify your computer by its IP address. eGames collects IP addresses for the purpose of tracking visitors’ usage of our site. We do not link IP addresses to any personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us.  Personally identifiable information includes name, address, phone number and email address. 
+**Security**  
+Because security is important to us, we exercise care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers, including Netscape and Microsoft Explorer, to encrypt (or convert into code) most of your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and then store such information in our databases.
 
-**Advertising on our Website**
+Remember to close your browser window when you have finished a purchase in order to ensure that others cannot access your personal information.
 
-eGames uses a third-party online advertising service company, Fastclick.com, Inc., to display advertisements throughout the eGames website.  Fastclick is responsible for maintaining and displaying the advertisements you may see on our website. 
+We will permit only authorized employees, who are trained in the proper handling of personal data, to access your personal information.
 
-Fastclick uses cookies to collect data from browsers to aggregate statistical information. This includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of Fastclick. Fastclick does not, and cannot, collect personally identifiable information about visitors to our website, such as email address, name, phone number and street address.
+To further protect your personal information, we have a security system that includes: firewall technologies; logical network segmentation, allowing restricted access to stored profile information; encryption; and logical and physical security restrictions to our databases and systems.
 
-For more information about Fastclick.com, Inc., and their technology, or to opt-out of receiving cookies via their advertisements, please view their privacy policy on their website at <http://www.fastclick.com/co_privacy.html>
+However, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
 
-**Children’s Guidelines**  
-  
+**Other, Non-Personal Information Collected and Used**  
+Like many other Internet sites, we automatically collect non-personal information regarding our visitors, such as software client information (for example, IP addresses, browser versions and operating systems) and aggregate information (for example, number of pages accessed) in order to analyze Web traffic and usage trends. Information of this nature does not pertain to your specific identity and is not associated with your personal information.
 
+To enhance your experience on our Web pages, Trymedia and our third party advertiser(s) commonly employ Internet technologies, such as "cookies," to collect and store non-personal information about our visitors. "Cookies" are small pieces of information that are transferred by a website and stored by your Web browser on your computer's hard drive. With most browsers, you can set the preferences to show a warning each time a cookie request is received. You can also set the browser not to accept cookies at all. However, because we won't be able to personalize your experience if we cannot recognize you, we suggest that you allow your browser to accept cookies.
 
-eGames encourages parents and guardians to spend time online with their children and to participate in the activities offered by our website. No information should be submitted to or posted at eGames.com by customers under 13 years of age without the consent of their parent or guardian. All customers under the age of 13 are required to have a parent register products online for them. We currently do not collect personally identifiable information from anyone under the age of 13.
+Cookies and Web beacons (also called "pixel tags") may be used by Trymedia or our third party advertiser(s) to determine how you reached us, to track your usage patterns once you are on our Web pages or Web Site, and to target our Internet banner advertisements on our Web pages and Web sites.
 
-**Links to Other Sites**  
-  
+We may also provide to third parties information about you that does not allow you to be identified or contacted, including where such information is combined with similar information about other users. For example, we might inform third parties regarding the number of unique users who have purchased software from Trymedia and the demographic breakdown of our user community.
 
+**What Is Not Covered By This Privacy Policy**  
+Except as stated above, this Privacy Policy does not apply to the practices or policies of any third parties, such as companies or entities that we do not own or control, and does not apply to any links to sites that are not maintained by us, or to people that we do not employ or manage.
 
-Users should be aware that when they are at eGames.com, they could be directed to other sites that are beyond our control. There are links to other sites from eGames web pages that take you outside our website. For example, if you "click" on a banner advertisement, the "click" takes you off the eGames site. This includes links to advertisers, website traffic auditing services, e-commerce service providers and co-branding partners. These other sites may send their own cookies to users, collect data, or solicit personal information. The eGames privacy policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond the control of eGames.
+**Questions, Comments or Concerns**  
+Many questions regarding your purchase history and assistance with your software can be answered by visiting our [ Customer Support Center](http://csc.trymedia.com/csc/start/affiliate=trygames/lang=en). If you have additional questions or concerns regarding our Privacy Policy, please contact us at either of the addresses below:
 
-**Your Consent**   
-  
+By email: [privacy@trymedia.com](mailto:privacy@trymedia.com)
 
+By mail:  
+Trymedia Systems, Inc.   
+135 Main Street  
+San Francisco, CA 94105  
+Attention: Privacy and Legal Depts.
 
-By using this website, you consent to this privacy policy. If you do not agree to this policy, please do not use our website.
+ **Privacy Policy Updates**  
+This privacy policy has been in effect since March 15, 2005. We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted on the [www.trygames.com](http://www.trygames.com/) Web site. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.
 
-**Changes to this Policy**  
-  
-
-
-Here at eGames, we continuously work to expand and improve the eGames.com website. When new features are added, we will incorporate the information collection and use practices stated in the policy. We will post any changes to this privacy policy at least 14 days prior to the change taking effect unless otherwise required by law.
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at [webmaster@egames.com](mailto:%20webmaster@egames.com). 
+BY USING OUR WEB SITE OR PURCHASING THE SOFTWARE YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF US PROCESSING YOUR INFORMATION IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEB SITE OR PURCHASE THE SOFTWARE. 
