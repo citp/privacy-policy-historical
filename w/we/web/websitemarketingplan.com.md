@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619184701id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206232722id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
+## 60 Day Free Trial  
+Constant Contact Email Service (below):  
+  
 ---  
-**Haven't found what you want? Search below.**  
+__________________  
+   
   
 ##  **Information Use**
 
@@ -25,11 +29,11 @@ WebSiteMarketingPlan.com uses cookies to avoid repeating some advertising messag
 
 Third party sites providing content, links, or advertising, however, may use cookies, typically for fulfilling a request or for tracking purposes. Third party sites are governed by their own privacy policies. 
 
-You are not required to accept cookies when viewing WebSiteMarketingPlan.com or WebMarketingPlace.com.  If you are concerned about cookies, you have the option of setting your browser to block or prompt for cookies.
+You are not required to accept cookies when viewing WebsiteMarketingPlan.com, WebMarketingPlace.com, or MyOnlineWeddingHelp.com.  If you are concerned about cookies, you have the option of setting your browser to block or prompt for cookies.
 
 ##  Business Transitions 
 
-In the event WebsiteMarketingPlan.com or WebMarketingPlace.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+In the event WebsiteMarketingPlan.com, WebMarketingPlace.com, or MyOnlineWeddingHelp.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
 
 ##  Newsletter 
 
@@ -66,7 +70,3 @@ Postal Mail: Web Marketing Place
                       8050 Watson Road, Suite 315  
                       St. Louis, MO 63119  
 Telephone: 314-842-1446
-
-Copyright ©2001-2006 Website Marketing Plan .com (Web Marketing Place LLC) and Bobette Kyle. All rights reserved.
-
-###  [Web Marketing Place LLC](http://www.webmarketingplace.com/), 8050 Watson Road, Suite 315, St. Louis, MO 63119
