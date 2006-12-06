@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615111103id_/http%3A//www.agric.wa.gov.au/pls/portal30/url/PAGE/IKMP_MAIN/IKMP_PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206132608id_/http%3A//www.agric.wa.gov.au/pls/portal30/url/PAGE/IKMP_MAIN/IKMP_PRIVACY) for the most accurate reproduction.*
 
-# Department of Agriculture, Western Australia
+# Department of Agriculture and Food, Western Australia
 
-The Department of Agriculture Western Australia records your visit and logs the following information for statistical purposes: 
+The Department of Agriculture and Food Western Australia records your visit and logs the following information for statistical purposes: 
 
    \- the user's server address,  
    \- the user's top level domain name (eg. .com, .gov, .au, .uk etc.),   
