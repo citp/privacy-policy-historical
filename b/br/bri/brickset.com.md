@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brickset.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193210id_/http%3A//brickset.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickset.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206231303id_/http%3A//brickset.com/privacy.aspx) for the most accurate reproduction.*
 
 # Brickset
 
-[Home](https://web.archive.org/web/20060615193210id_/http%3A//brickset.com/default.aspx) >
+[Home](https://web.archive.org/web/20061206231303id_/http%3A//brickset.com/default.aspx) >
 
 Brickset is an online LEGO set database which welcomes LEGO enthusiasts of all ages. In order to comply with United States regulations limiting online danger to children under 13 years of age, we hereby post this privacy policy.
 
