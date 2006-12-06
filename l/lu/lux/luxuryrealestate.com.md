@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luxuryrealestate.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618081400id_/http%3A//luxuryrealestate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryrealestate.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011047id_/http%3A//www.luxuryrealestate.com/privacy.html) for the most accurate reproduction.*
 
-# Privatcy Policy | Luxury Real Estate
+# Privacy Policy | Luxury Real Estate
 
-Updated 3/12/2004
+Updated 7/12/2004
 
 #### BY PROVIDING PERSONAL INFORMATION TO US ON THIS WEB SITE, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF THAT INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY.
 
@@ -12,7 +12,7 @@ John Brian Losh, Inc., doing business as LuxuryRealEstate.com ("LuxuryRealEstate
 
 We may modify, alter, or update this Privacy Policy at any time, so we encourage you to review this policy frequently. 
 
-This Privacy Policy was last updated on **July 24, 2003.**
+This Privacy Policy was last updated on **July 12, 2004.**
 
 #### Information We Collect Automatically
 
