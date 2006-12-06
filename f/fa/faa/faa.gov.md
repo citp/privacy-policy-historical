@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629230149id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206083013id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # Federal Aviation Administration - Privacy Policy
 
@@ -94,13 +94,13 @@ When FAA collects information from you online that is subject to the Privacy Act
 View our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html).
 
 **Our Privacy Practices**  
-For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Carla Mauney, by [email](https://web.archive.org/contact_faa/index.cfm?url=/privacy/index.cfm&mailto=Carla%2EMauney%40faa%2Egov&subject=Privacy%20Concerns&sid=true). Also, DOT has conducted a Privacy Impact Assessment on some systems.   
+For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Carla Mauney, by [email](https://web.archive.org/contact_faa/index.cfm?url=/Privacy/index.cfm&mailto=Carla%2EMauney%40faa%2Egov&subject=Privacy%20Concerns&sid=true). Also, DOT has conducted a Privacy Impact Assessment on some systems.   
 View our [Privacy Impact Assessments](http://www.dot.gov/pia.html). 
 
 |  |  |   
 ---  
 | faa.gov Tools |   
-|  |  | [Print this page](https://web.archive.org/privacy/index.cfm?print=go)  
+|  |  | [Print this page](https://web.archive.org/Privacy/index.cfm?print=go)  
 ---|---  
-|  |  | [Email this page](https://web.archive.org/email_page/?title=Privacy%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)  
+|  |  | [Email this page](https://web.archive.org/email_page/?title=Privacy%20Policy&pageurl=%2FPrivacy%2Findex%2Ecfm&sid=true)  
 ---|---
