@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000737id_/http%3A//www.dow.com/Homepage/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207000244id_/http%3A//www.dow.com/homepage/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
+| 
+
 We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include personal information. We do not require personal information to obtain access to most of our site. We do, however, require it to download product information, order products and take advantage of certain other features of our site.
 
-We use the information that visitors provide for such purposes as processing and responding to requests, improving our operations, and communicating with visitors about our products, services and businesses. Subsidiaries and external service providers participate in some of these activities, but we do not sell or rent personal information to unrelated businesses for direct marketing purposes.Also, as our business evolves we may transfer or acquire businesses and related assets, and we may transfer information about customers and site visitors in connection with such transactions. 
+We use the information that visitors provide for such purposes as processing and responding to requests, improving our operations, and communicating with visitors about our products, services and businesses. Subsidiaries and external service providers participate in some of these activities, but we do not sell or rent personal information to unrelated businesses for direct marketing purposes.Also, as our business evolves we may transfer or acquire businesses and related assets, and we may transfer information about customers and site visitors in connection with such transactions.
 
-Visitors who complete our registration form have the option of receiving occasional email updates and surveys in their selected areas of interest. Those who elect to receive updates and surveys may change this election at any time by updating their registration information. 
+Visitors who complete our registration form have the option of receiving occasional email updates and surveys in their selected areas of interest. Those who elect to receive updates and surveys may change this election at any time by updating their registration information.
 
-If you have registered with our site and would like to update your registration information, please [click here](https://web.archive.org/web/20050307000737id_/http%3A//www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/index.html) or write us at:
+If you have registered with our site and would like to update your registration information, please [click here](https://web.archive.org/web/20061207000301id_/http://www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/index.html) or write us at:
 
 Dow Chemical Customer Information Group  
 Dow Ashman Center  
@@ -32,3 +34,5 @@ Our site contains links to other web sites. These sites are not covered by this 
 We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site.
 
 LAST UPDATED: August 28, 2001
+
+| 
