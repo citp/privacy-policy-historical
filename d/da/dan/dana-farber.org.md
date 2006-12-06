@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001014id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206032653id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
 
 # Dana-Farber Privacy Statement
 
@@ -54,3 +54,7 @@ Phone: (800) 52-JIMMY or (800) 525-4669
 E-mail: [jimmyfundevents@dfci.harvard.edu](mailto:jimmyfundevents@dfci.harvard.edu)
 
 Updated August 2005
+
+[ ](http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 "Go to http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 \(opens in a new window\)")
+
+[Email this page](https://web.archive.org/email-page?pageUrl=http%3a%2f%2fdana-farber.org%2fprivacy-policy%2fDefault.html)
