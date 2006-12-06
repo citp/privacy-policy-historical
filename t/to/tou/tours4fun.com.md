@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tours4fun.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529112052id_/http%3A//www.tours4fun.com/privacy-policy.php%3FosCsid%3Db4061956d1e98b073befff4a924411b8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tours4fun.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206174436id_/http%3A//www.tours4fun.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Tours4Fun
 
