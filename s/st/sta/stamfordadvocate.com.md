@@ -1,30 +1,18 @@
-> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410181753id_/http%3A//www.stamfordadvocate.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010143id_/http%3A//www.stamfordadvocate.com/go/services/privacy) for the most accurate reproduction.*
 
-# The Advocate - Privacy Policy
+# Privacy Policy - The Advocate
 
-**
+**Last Updated: May, 2006**
 
-Last Updated: January, 2002
+**Stamfordadvocate.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Stamfordadvocate.com online and does not impact information collected or used by Stamfordadvocate.com or its affiliates through other means.**
 
-**
-
-**Stamfordadvocate.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by **Stamfordadvocate.com** online and does not impact information collected or used by **Stamfordadvocate.com** or its affiliates through other means. 
-
-**
-
-How we gather information from users.
-
-**
+**How we gather information from users.**
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters, news updates and other products, or when you make a purchase, such as a newspaper subscription. You may provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms, and other interactive areas of our site.
 
 Like most Web sites, **Stamfordadvocate.com** also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-**
-
-What we do with the information we collect.
-
-**
+**What we do with the information we collect.**
 
 Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising, and we sometimes permit our advertising and promotional partners to call to your attention products, special offers and unique content we believe might be of interest to you. We offer you the opportunity to elect not to receive direct communications sent by our advertisers or promotional partners, as described below.
 
@@ -34,70 +22,44 @@ We may use Personally Identifiable Information collected on Stamfordadvocate.com
 
 Personally Identifiable Information collected by Stamfordadvocate.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
-****
-
 **Your choice to opt out**.
 
-****
+From time to time our advertising and promotional partners may use Personally Identifiable Information to call to your attention products and offers they believe might interest you. If you prefer not to receive direct communications sent by our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us with such information, you will not receive e-mail or other communications sent directly by our advertisers using information collected from our site, though we may on occasion send you information on their behalf.
 
-From time to time our advertising and promotional partners may use Personally Identifiable Information to call to your attention products and offers they believe might interest you. If you prefer not to receive direct communications sent by our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us with such information, you will not receive e-mail or other communications sent directly by our advertisers using information collected from our site, though we may on occasion send you information on their behalf. 
-
-**
-
-Affiliated sites, linked sites and advertisements.
-
-**
+**Affiliated sites, linked sites and advertisements.**
 
 **Stamfordadvocate.com** expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a **Stamfordadvocate.com** page, certain content that is actually created or hosted by a third party. Also, through **Stamfordadvocate.com** you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. **Stamfordadvocate.com** is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. **Stamfordadvocate.com** does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of **Stamfordadvocate.com** , not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on **Stamfordadvocate.com**. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on **Stamfordadvocate.com**. **Stamfordadvocate.com** does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. **Stamfordadvocate.com** maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
+
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of **Stamfordadvocate.com** and this policy.
 
-**
-
-Children.
-
-** ****
+**Children.**
 
 **Stamfordadvocate.com** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe **Stamfordadvocate.com** has any information from or about anyone under 13, please contact us at the address listed below.
 
-**
-
-Contacting us.
-
-**
+**Contacting us.**
 
 We can be reached by contacting:
 
-**
+**Stamfordadvocate.com**
 
-Stamfordadvocate.com
+**c/o John Dunster, Website General Manager**
 
-c/o Charlie Ponger, Website General Manager
+**75 Tresser Blvd.**
 
-75 Tresser Blvd.
+**Stamford, CT 06904**
 
-Stamford, CT 06904
+**Email:** [**jdunster@scni.com**](mailto:jdunster@scni.com)
 
-**
-
-**Email:**[ **cponger@scni.com**](mailto:cponger@scni.com)
-
-**
-
-Changes to this policy.
-
-** ****
+**Changes to this policy.**
 
 **Stamfordadvocate.com** reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**
+**Governing law.**
 
-Governing law.
+This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of **Stamfordadvocate.com** consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. **Stamfordadvocate.com** is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-**
-
-This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of **Stamfordadvocate.com** consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. **Stamfordadvocate.com** is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
-
-Copyright © 2005, Southern Connecticut Newspapers, Inc.
+Copyright © 2006, Southern Connecticut Newspapers, Inc.
