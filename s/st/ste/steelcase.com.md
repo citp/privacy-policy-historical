@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616224513id_/http%3A//www.steelcase.com/na/privacy_policy_cnav.aspx%3Ff%3D10033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206231134id_/http%3A//www.steelcase.com/na/privacy_policy_cnav.aspx%3Ff%3D10033) for the most accurate reproduction.*
 
-# Steelcase - Privacy Policy - Privacy Policy
-
-| 
+# Steelcase - Privacy Policy
 
 Introduction  
 Welcome to Steelcase.com (which includes Leap.Steelcase.com and 360Steelcase.com) (the "Site"). This Site is owned by Steelcase Inc. This Privacy Policy is designed to tell you how this Site collects, uses, and discloses the information you provide via this Site. **By using this Site, you acknowledge that you have reviewed, and agree to, the terms of this Privacy Policy and the Terms of Use. If you do not agree to this Privacy Policy and the Terms of Use, do not use this Site.**
