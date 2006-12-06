@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002754id_/http%3A//www.infoserve.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010228id_/http%3A//www.infoserve.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Targeted Local Marketing Solutions - Infoserve - Privacy Policy
 
