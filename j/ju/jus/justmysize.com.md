@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427091951id_/http%3A//www.jms.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011409id_/http%3A//www.jms.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
-# JMS:Just My Size Plus Size Apparel and Lingerie !
+# JMS:Just My Size Plus Size Apparel and Lingerie !!
 
 At Sara Lee, we respect our customers and understand that you may have concerns about privacy, so we have instituted privacy policies intended to ensure that your personal information is handled safely and responsibly. 
 
