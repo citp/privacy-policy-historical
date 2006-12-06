@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124005625id_/http%3A//www.uniden.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020529id_/http%3A//www.uniden.com/info/privacy.cfm) for the most accurate reproduction.*
 
-# Uniden America Corporation - Privacy Policy
+# Uniden | A World Without Wires
 
-## Privacy Policy
-
+  
 This Privacy Policy applies only to web sites maintained by Uniden America Corporation ("Uniden") and to information provided by you or otherwise collected online through a Uniden web site.
 
 **_Information Collected and Its Use_**
