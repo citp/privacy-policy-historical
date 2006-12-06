@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the articlesandauthors.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125010152id_/http%3A//articlesandauthors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesandauthors.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120930id_/http%3A//www.articlesandauthors.com/privacy.php) for the most accurate reproduction.*
 
-# ArticlesAndAuthors.com - THE Premier Site for Articles AND Authors
+# ArticlesandAuthors.com - THE Premier Site for Free Articles AND Article Authors
 
-**Article Authors/Writers:** Got articles? Need links?  **Sign up** for free as an author with ArticlesandAuthors.com ([learn more...](https://web.archive.org/learnmore.php))  
-**Website Owners/Publishers:** Got websites? Need content?  **Get free articles** from ArticlesandAuthors.com ([learn more...](https://web.archive.org/web/20051125010152id_/http%3A//learnmore-publishers.php))   
+**Article Authors/Writers:** Got articles? Need links?  **Submit your articles** for free as an author with ArticlesandAuthors.com ([learn more...](https://web.archive.org/learnmore.php))  
+**Website Owners/Publishers:** Got websites? Need content?  **Get free articles** from ArticlesandAuthors.com ([learn more...](https://web.archive.org/web/20061206120930id_/http%3A//learnmore-publishers.php))   
   
-**Search ArticlesandAuthors.com:**        |  [About Us](https://web.archive.org/aboutus.php)  |  [Contact Us](https://web.archive.org/contacts.php)  |  [Home](http://www.articlesandauthors.com/)  
+**Search ArticlesandAuthors.com:**        |  Bookmark Us  |  [Contact Us](https://web.archive.org/contacts.php)  |  [Home](http://www.articlesandauthors.com/)  
   
 Privacy Policy
 
@@ -27,7 +27,7 @@ We have created this privacy statement in order to demonstrate our firm and cont
 **2\. Web Site Use Information  
 **
 
-> Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+> Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
 **How Do We Use the Information That You Provide to Us?  
 **Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
@@ -71,11 +71,14 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 | 
 
-Learn about [Article Submission Software](http://www.articlesandauthors.com/article-software.html) that submits articles _automatically_ to hundreds of article directories, submission sites, ezines, and mailing groups.  
-
-
 Main Site Menu
 
 Authors/Writers Menu
 
 Website Owners Menu
+
+[](http://www.articlesandauthors.com/guy.html)
+
+[](http://www.articlemarketingnetwork.com/)
+
+New Articles 
