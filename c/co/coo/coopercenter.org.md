@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopercenter.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617045609id_/http%3A//www.coopercenter.org/PRIVACY%2520POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopercenter.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206090811id_/http%3A//www.coopercenter.org/PRIVACY%2520POLICY) for the most accurate reproduction.*
 
 # Weldon Cooper Center for Public Service
 
