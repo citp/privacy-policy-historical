@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the body.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619141050id_/http%3A//www.body.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the body.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206174300id_/http%3A//www.body.com/privacy.php) for the most accurate reproduction.*
 
-# Body.com - What Every Body Needs! Shop beauty, fushion, nutrition, fitness and more
+# Body.com - What Every Body Needs! Shop beauty, fashion, nutrition, fitness and more
 
 Body.com is committed to our visitors and to protecting their privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Policy applies to all visitors to the Body.com network of sites, and to all referrals made by our visitors. 
 
