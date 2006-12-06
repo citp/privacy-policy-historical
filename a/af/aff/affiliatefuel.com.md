@@ -1,68 +1,90 @@
-> *The following text is extracted and transformed from the affiliatefuel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205443id_/http%3A//affiliatefuel.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuel.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206070406id_/http%3A//affiliatefuel.com/about_us/privacy.html) for the most accurate reproduction.*
 
-# Affiliate Fuel - CPA, CPC, Lead Generation, Performance Based Advertising Network
+# AFFILIATEFUEL.COM - PRIVACY POLICY
 
-|  |    
-**_  Privacy Policy_**  
+**AFFILIATEFUEL.COM**
 
+**PRIVACY POLICY**
 
-Affiliate Fuel, LLC (“Affiliate Fuel”), a California Limited Liability Company, doing business as Affiliate Fuel (affliliatefuel.com).
+Revised: June 30, 2006
 
-Affiliate Fuel is committed to protecting the privacy of all Internet users, Website publishers, and advertisers. This Privacy Policy statement explains how Affiliate Fuel operates to protect your privacy.
+This Privacy Policy covers this AffiliateFuel.com Web site, which is owned and operated by Affiliate Fuel Corp. ("Affiliate Fuel," "We," "Us," or "Our").
 
-Please note that Affiliate Fuel may find it necessary, or be legally obligated, to modify this Privacy Policy from time to time. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected prior to the effective date of the policy change. Affiliate Fuel reserves the right to modify this Privacy Policy at any time without notice by posting of such modification herein. Affiliates (as defined below) and visitors should review this Privacy Policy periodically to note any changes that may have occurred. An Affiliate (“Affiliate”) is a corporation, other legal entity, or adult person that has applied to Affiliate Fuel, and has been accepted by Affiliate Fuel into the Advertising Network (defined below) in accordance with the terms, conditions and procedures outlined in this Web site.
+Before you submit any information to Our Web site, please read this Privacy Policy for an explanation of how We will handle your information. By using any part of Our Web site, you agree, without limitation or qualification, to be bound by this Privacy Policy.  If you do not agree with this Privacy Policy, please do not use Our Web site. 
 
-Affiliate Fuel does not collect any personal information about visitors to, or users of, this Web site solely as a result of such visits or usage, other than persons or entities joining Affiliate Fuel’s advertising network (“Advertising Network”) of Web sites as an Affiliate pursuant to either a written or online contract.
+**WHAT IS OUR COMMITMENT TO YOU?**
 
-When an Internet user clicks on one of Affiliate Fuel's served advertisements (running throughout the Advertising Network), Affiliate Fuel does collect "ad delivery and reporting data" (type of browser, operating system, IP address, domain type, page(s) visited, date and time of when an Internet user has responded to an advertisement, etc.). None of the data can be linked to any individual Internet user, and therefore it cannot be used for personal identification or profiling. Affiliate Fuel does not collect any personally identifiable information regarding the user that clicked on the ad (e.g. name, address, social security number, e-mail address, etc.).
+We are sensitive to your privacy concerns, and are committed to letting you know what Information is being collected on Our Web site, how the Information is being used and what choices you have regarding the collection and use of the Information. Please take a moment to review this Privacy Policy and contact Us with any questions at . 
 
-Some information is collected through “Cookies” as described below. 
+**PRIVACY POLICY CHANGES**
 
-**“Cookies”**
+We reserve the right to change this Privacy Policy at any time. You agree to this Privacy Policy, and any changes to the same, by visiting this Web site. Therefore, We encourage you to review this Web site from time to time to review changes to Our Privacy Policy.
 
-An Internet user's browser normally places Cookies that contain small amounts of data on the Internet user's computer after a visit to any Web site. Cookies assist Affiliate Fuel in tracking Internet users' activities beginning from an Affiliate’s Web site or e-mail. If the Internet user visits or revisits an advertiser’s site directly from such Affiliate, Affiliate Fuel is able to continue to track the Internet user's activities on the advertiser's site and reward the Affiliate that referred the Internet user. The Cookies tell Affiliate Fuel nothing about the Internet user personally.
+**WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU AND WHY?**
 
-Cookies are used (1) when an advertiser's banner image or other text is loaded on a Web page for viewing by an Internet user, and (2) when the banner or other text is clicked by an Internet user. The function of these Cookies is to provide Affiliate Fuel with information solely for the purpose of paying an Affiliate’s commissions when an Internet user clicks on a link or makes a purchase on an advertiser's Web site.
+We gather personally identifiable information that you expressly provide when you enter information into a form on Our Web site including, without limitation, your name, mailing address, e-mail address, and other unique personal identifiers (e.g., date of birth) (“Personal Information”). If you choose not to provide the requested Personal Information, We may not be able to offer you personalized services that require such information.
 
-**Affiliate–Identifiable Data**
+We also collect anonymous information, which includes any information that is not tied to your Personal Information, such as your IP address (“Anonymous Information”). You are not required to register on Our Web site in order for Us to collect Anonymous Information about you.  In addition, We may receive information about you from other sources including, but not limited to, service providers for tracking and marketing purposes (“Source Information”). Source Information may consist of referral data or the Web site you were previously visiting prior to visiting Our Web site; and information related to the browser and/or platform you are using to access Our Web site. Personal Information, Anonymous Information, and Source Information are collectively referred hereinafter as “Information.”
 
-Affiliate Fuel collects certain personally identifiable information from Web sites and their owners wishing to join the Advertising Network. The collection of this information is a part of normal business practices. Persons and entities wishing to become Affiliates and join the Advertising Network are asked to provide personally identifiable data through the sign up and registration process. Examples of personally identifiable data that may be requested include name, address, phone number, e-mail address, tax ID number, VAT number, etc. All personally identifiable information that Affiliate Fuel collects from potential and actual Affiliates is principally intended for internal administrative needs such as accounting and invoicing.
+In addition to the Information that you provide to Us or that We obtain about you, We will also collect certain information arising out of your use of Our Web site, or augment the data We collect with other information from other online or offline sources. We use “cookies" and the Information to enhance your experience and present you with personalized offers. Likewise, We may use third-party advertising companies to serve and track advertisements appearing on Our Web site. Such third-party companies may employ cookies and action tags to measure advertising effectiveness. To learn more about “cookies,” please see the section below titled “Cookies and Web Bugs.”
 
-Periodically Affiliate Fuel may desire to communicate with the Advertising Network of Affiliates via e-mail newsletters or other methods to offer marketing information or other communications to assist in business related activities. In such instances Affiliate Fuel will access Affiliates' personally identifiable information. In the event that an Affiliate wishes not to have personally identifiable information used as described in this paragraph, such Affiliate may elect to opt-out by notifying Affiliate Fuel in writing or electronically at any time.
+We collect Information about you to (a) provide products, programs, and services that you have requested; (b) operate and improve the features, offerings and content presented to you by Us and Our affiliated companies, successors, and assigns; (c) personalize the content and advertisements provided to you; (d) communicate with you and respond to your inquiries; (e) conduct research about your use of the features, offerings and content from Us, Our parent or sister companies and partners; (f) provide product improvement; (g) “pre-populate” forms; (h) provide you with advertising targeted to your preferences; and (i) help offer you other products, programs, or services that may be of interest to you. We also reserve the right to collect and reuse Information about you for marketing purposes.
 
-All personally identifiable data provided by individual Affiliates will be kept in strict confidence by Affiliate Fuel and will be treated with the same level of care that Affiliate Fuel treats its other proprietary information and trade secrets; notwithstanding the foregoing, Affiliate Fuel may in limited instances provide personally identifiable information to a third party to assist Affiliate Fuel in normal and customary operational and statistical matters, or for efficiency purposes in providing administrative services such as billing, delivery and payouts. Any third-party receiving such information will be required to treat it in a confidential and safeguarded manner, in accordance with industry standards and in accordance with the policies stated herein. In the event that an Affiliate wishes not to have personally identifiable information used as described in this paragraph, such Affiliate may elect to opt-out by notifying Affiliate Fuel in writing or electronically at any time.
+We reserve the right to collect Information about you and store it in connection with other online or offline information We may possess or obtain about you. Such information may include, without limitation, information about the different sites that you visit on the Internet, the time and frequency at which you visit them, and the content that you transmit or post on other Web sites.
 
-**Security Precautions**
+**WITH WHOM WILL THE INFORMATION BE SHARED?**
 
-Affiliate Fuel makes every effort to maintain the security of its Advertising Network, business operations and any and all data collected. Any data that is stored on Affiliate Fuel's server is treated as proprietary and confidential and is not available to the public. Affiliate Fuel has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees or third parties that have a need to know such information for the purpose of effectively delivering Affiliate Fuel’s products and services; notwithstanding any other provision herein, information may be disclosed:
+We may share Information about you with other people or nonaffiliated companies or for particular purposes including, without limitation, the purposes described below. In all cases, you may opt-out of sharing your Information with such providers by choosing not to use or register for that service or content. Please see “Offering You Choices-Marketing Options” below for information on how to opt-out of sharing your Information.
 
-to government agencies or officials or other third parties if Affiliate Fuel believes such disclosure to be required or compelled under applicable law or regulations or legal process;
+**Products or Service Requests -** If you submit a request for a product or service on Our Web site, We will share Information about you contained in the request form with Our business partners to process and fulfill your request. Our business partners may contact you by telephone, e-mail, or mail based on the Information you provided to Us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of Our business partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. 
 
-to government agencies or officials upon their request, even if not compelled by a subpoena or other legal process, and without any duty on Affiliate Fuel’s part to independently confirm that such agencies or officials are legally entitled to such disclosure;
+**Service Providers -** We may disclose Information about you to companies that host certain services for Us, such as marketing distribution or credit card processing services. Our service providers use the Information received from Us solely for the purposes of providing you with the products you requested.  
+In select circumstances, We may also share aggregate order information with third parties and business partners. 
 
-to a buyer, subcontractor or agent, in the event that Affiliate Fuel sells or transfers ownership, operation or control of any or all of its Advertising Networks or engages any subcontractor or agent to operate any Advertising Network or provide any service related to any Advertising Network.
+**Sweepstakes or Promotions:** We may run promotions and/or sweepstakes. Such promotions and sweepstakes may be sponsored or co-sponsored by third-party companies. Information about you collected during a promotion or sweepstakes is shared with the sponsor or co-sponsor unless you opt-out of sharing Information with such parties. Please see “Offering You Choices-Marketing Options” below for information on how to opt-out of sharing your Information.
 
-**Access to Data**
+**Subsidiaries, Parent, or Sister Companies:** We may share Information about you with Our subsidiaries, sister companies, parent company, successors, and assigns unless you opt-out of sharing Information with such parties. Please see “Offering You Choices-Marketing Options” below for information on how to opt-out of sharing your Information.
 
-Affiliate Fuel allows Affiliates and potential Affiliates who have provided personally identifiable data, access to such data at any reasonable time, in order to ensure that such data is correct, and to make any changes.
+**Non-Affiliated Companies:** **We do not share Information with any non-affiliated third parties** except: (1) in select circumstances when Our business partner refers you to Us and you give Us permission to share specific Information, such as your name and email address, with such business partner on your order form, or (2) when Our business partner provides a product or service that We feel may be of interest to you.
 
-**Privacy Policy Statements of Affiliates**
+**Required by Law:** We may also share Information about you as permitted or required by law including, without limitation, inquires by law enforcement or to comply with Federal laws including, without limitation, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (“CAN-SPAM Act of 2003”).
 
-Affiliate Fuel encourages all Web sites within the Advertising Network to create privacy policy statements and provide Internet users with prominently placed access to such statements. Additionally, Affiliate Fuel requests that all Web site publishers doing business with Affiliate Fuel disclose any and all information that is being collected from Internet users on their Web site, including data gathered from banners and other forms of advertising being served on their Web site.
+**OFFERING YOU CHOICES - MARKETING OPTIONS**
 
-**Spam and E-mail lists**
+You have choices when it comes to learning about new offers or services. If you do not wish to receive offers of products or services from Us, Our sister companies, or partners, here are the methods you may employ to opt-out: 
 
-Affiliate Fuel does not intentionally send unsolicited e-mail messages that could be construed as spam; Affiliates’ actions are carefully scrutinized and each Affiliate is expected to adhere to Affiliate Fuel’s anti-spam policy.
+**E-mail Opt-out Options:** Each marketing e-mail We send includes instructions and an opt-out link. 
 
-**Miscellaneous**
+**Refusing Cookies:** Subject to the section below pertaining to cookies and web bugs, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser’s instructions to perform this task. 
 
-Various state and federal regulations may apply to the online collection of personal information from children under the age of 13. Affiliate Fuel is sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. Affiliate Fuel's Web site, products, and services are neither developed for, nor directed at, children.
+The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit:  <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-Affiliate Fuel supports and endorses the BBBOnline privacy program. For more information on the specifics of the program, please go to [www.bbbonline.com](http://www.bbbonline.com/).
+**Other Options:** If you would like to opt-out of Our promotional marketing, and would like to contact Us, please send Us an e-mail at . 
 
-**Contacting Affiliate Fuel/Affiliate Fuel**
+Please note that suppressed contact information will not be used for any other purpose except to ensure compliance with your opt-out request and to comply with the CAN-SPAM Act of 2003 and any other applicable state and/or Federal laws regarding your choices when it comes to commercial marketing. 
 
-For more information, or if you have questions or concerns regarding Affiliate Fuel's Privacy Policy, please send an e-mail to [privacy@affiliatefuel.com](mailto:privacy@affiliatefuel.com), or you may send correspondence to our office through normal U.S. mail.
+**COOKIES AND WEB BUGS**
 
-  
+A cookie is a small piece of information that many Web sites use to help make shopping online easier. The information is stored on your computer’s hard drive and provides a number of conveniences for you. We may set and access cookies on your computer to provide you with customized content and to assist in providing the services that you have requested. Most cookies are "session cookies," which automatically delete themselves from your hard drive after each session. Like many Web sites, We may automatically track information based upon your behavior on Our Web sites. We may combine information that We obtain through the use of cookies with Personal Information, other aggregate or anonymous data, including a unique ID We may assign you. As described above, We use this information for research purposes to better understand, protect and service Our customers. The information We track may include such information as browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, IP address and number of clicks to analyze trends, administer Our Web sites, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
 
+If you want to prevent a third-party advertising network from setting and/or reading cookies on your computer, you may wish to alter the cookie settings within your browser. Please see “Offering You Choices-Marketing Options” above for information on how to opt-out of sharing your Information.
+
+**DOES THIS PRIVACY POLICY APPLY TO OTHER WEB SITES?**
+
+Our Web site may contain links to non-Affiliate Fuel Web sites. We believe such other Web sites share a similar commitment to consumer privacy and urge you to review their privacy policy when visiting their Web sites. We are not responsible for the privacy policies of other Web sites. 
+
+**HOW DO WE PROTECT YOUR INFORMATION?**
+
+We maintain electronic and procedural safeguards designed to protect your Information. We protect Information about you over the Internet by using a secure web server, which allows web browser programs (such as Netscape or Microsoft Internet Explorer) to interact with Our web server via an encrypted session. We employ a Secure Sockets Layer (SSL) connection that provides an encrypted connection between your computer and Us. The 128 bit encrypted connection scrambles ordinary text or data into cyphertext to safeguard sensitive information during its journey across the Internet. The information is decrypted, or put back into a readable format, when it reaches its intended destination. Depending on which browser you use, you will know you are in secured area by "https" or a lock appearing in the lower right hand corner of your browser window. When you visit Our Web site, you may move in and out of secured areas. 
+
+**TRANSFERABILITY OF INFORMATION**
+
+Information collected in accordance with this Privacy Policy by Us may be stored and processed within the United State of America or in any other country in which We or Our agents maintain facilities. By using Our Web site, you consent to any transfer of Information outside of your country, should We find it necessary.
+
+In the event that We are acquired or merge with another company, or upon a sale of all or portion of Our assets, Information about you will be among the assets transferred to the new company. The new company may handle such Information in accordance with its own policies and procedures and not in accordance with this Privacy Policy.
+
+**A SPECIAL NOTE REGARDING PEOPLE UNDER 18 YEARS OLD**
+
+Individuals under the age of eighteen (18) should not send any Information to Us. Each time you access Our Web site or purchase a product or service from Us, or provide Information about yourself or anyone else, you are representing to Us that you are eighteen (18) years or older.
+
+**CONTACTING AFFILIATE FUEL. If you have questions about Our Privacy Policy, please contact. **
