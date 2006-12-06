@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geosociety.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617041513id_/http%3A//www.geosociety.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geosociety.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206024316id_/http%3A//www.geosociety.org/privacy.htm) for the most accurate reproduction.*
 
 # Geological Society of America - Privacy Policy
 
