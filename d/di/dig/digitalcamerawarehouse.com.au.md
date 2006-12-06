@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616223121id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206193430id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
 
-# Digital Camera Warehouse Australia - digital camera and accessories shop
+# Digital Camera Warehouse Sydney Australia - digital and video camera shop
 
 | 
 
 ****Digital Camera Warehouse Australia: buy discount digital and video cameras, SD, xD cards and memory sticks****
 
-**[ Canon](http://www.digitalcamerawarehouse.com.au/category8_1.htm) | [ Casio](http://www.digitalcamerawarehouse.com.au/category151_1.htm) | [ Fujifilm](http://www.digitalcamerawarehouse.com.au/category37_1.htm) |[ Kodak ](http://www.digitalcamerawarehouse.com.au/category36_1.htm)| [ Minolta](http://www.digitalcamerawarehouse.com.au/category69_1.htm)| [Nikon](http://www.digitalcamerawarehouse.com.au/category116_1.htm) | [ Olympus](http://www.digitalcamerawarehouse.com.au/category65_1.htm)| [ Panasonic](http://www.digitalcamerawarehouse.com.au/category223_1.htm) | [Pentax](http://www.digitalcamerawarehouse.com.au/category124_1.htm) | [ Ricoh](http://www.digitalcamerawarehouse.com.au/category139_1.htm) | [Sony](http://www.digitalcamerawarehouse.com.au/category26_1.htm) | [ SLR](http://www.digitalcamerawarehouse.com.au/category147_1.htm) | [ Video](http://www.digitalcamerawarehouse.com.au/category142_1.htm)**
+**[ Canon](http://www.digitalcamerawarehouse.com.au/category8_1.htm) | [ Casio](http://www.digitalcamerawarehouse.com.au/category151_1.htm) | [ Fujifilm](http://www.digitalcamerawarehouse.com.au/category37_1.htm) |[ Kodak ](http://www.digitalcamerawarehouse.com.au/category36_1.htm)| [Nikon](http://www.digitalcamerawarehouse.com.au/category116_1.htm) | [ Olympus](http://www.digitalcamerawarehouse.com.au/category65_1.htm)| [ Panasonic](http://www.digitalcamerawarehouse.com.au/category223_1.htm) | [Pentax](http://www.digitalcamerawarehouse.com.au/category124_1.htm) | [ Ricoh](http://www.digitalcamerawarehouse.com.au/category139_1.htm) | [Sony](http://www.digitalcamerawarehouse.com.au/category26_1.htm) | [ SLR](http://www.digitalcamerawarehouse.com.au/category147_1.htm) | [ Video](http://www.digitalcamerawarehouse.com.au/category142_1.htm)**
 
 **Privacy Policy**
 
