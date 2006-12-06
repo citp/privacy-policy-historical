@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the miva.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194721id_/http%3A//www.miva.com/us/content/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miva.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206090432id_/http%3A//www.miva.com/us/content/about/privacy.asp) for the most accurate reproduction.*
 
 # MIVA Company Information
-
-MIVA Company Information
 
 MIVA has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.miva.com 
 
