@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061118id_/http%3A//www.articlesender.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206055340id_/http%3A//articlesender.com/privacy.html) for the most accurate reproduction.*
 
 # Article Submission
 
@@ -21,10 +21,17 @@ OTHER SERVICES
 
 TESTIMONIAL
 
-Thanks alot, ArticleSender. My site is blown away! I am really excited about the results from this service 
+This site is great I used it and it boosted my web sites popularity up a bunch, thanks Article Sender. 
 
-Esteban Richmond   
-[Autos Usados](http://www.quierouncarro.com/)
+Kyle Perry   
+[Professional Foam](http://www.professionalfoam.com/)
+
+TESTIMONIAL
+
+Great site! I can honestly say it works and it's worth the time. Really helps getting the word out on our Special offers and promotions. 
+
+Federico Blanco   
+[Online Sports Betting](http://www.sportsbook.com/)
 
 TESTIMONIAL
 
@@ -32,6 +39,13 @@ I have to say that I am a bit biased being one of the owners brother, but this s
 
 Chris D   
 [Guitar Lessons](http://www.guitarcoach.biz/)
+
+TESTIMONIAL
+
+ArticleSender provides an amazing article distribution service with fast support and incredible delivery times. The responses I get every time I use ArticleSender are nothing short of wonderful. Keep up the good work folks! 
+
+Mike Rogne   
+[Cellulean](http://www.celluleanworks.com/)
 
   [Read All Testimonials](https://web.archive.org/testimonials.html)
 
