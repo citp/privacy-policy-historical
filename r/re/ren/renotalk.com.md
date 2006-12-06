@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the renotalk.com privacy policy that was archived on 2005-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051107105943id_/http%3A//www.renotalk.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renotalk.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206112614id_/http%3A//www.renotalk.com/main/privacy.html) for the most accurate reproduction.*
 
-# RenoTalk - Singapore Renovation Discussion Forum - Terms Of Use
-
-**PRIVACY POLICY**
+# RenoTalk.com - Privacy
 
 Because your privacy is important to us, renotalk.com operates by the following principles: 
 
@@ -42,4 +40,4 @@ Occasionally renotalk.com conducts polls and user surveys to better target our c
 Your consent and changes to the Private Policy  
 By using renotalk.com and the rest of the renotalk.com services, you consent to the collection and use of your information as we have outlined in this policy. renotalk.com may decide to change this Privacy Policy from time to time. 
 
-[_Back to RenoTalk Home_](https://web.archive.org/web/20051107105943id_/http%3A//www.renotalk.com/main/index.php)
+[_Back to RenoTalk Home_](http://www.renotalk.com/)
