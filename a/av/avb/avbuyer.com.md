@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625220723id_/http%3A//www.avbuyer.com/Privacy/Default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206152432id_/http%3A//www.avbuyer.com/Privacy/Default.asp) for the most accurate reproduction.*
 
 # AvBuyer.com - Privicy
 
 ## AvBuyer.com: Privacy Policy 
 
-[](https://web.archive.org/Register/default.asp)  
+[](http://www.avbuyer.com/MainRedirect.asp?linkt=9&aid=0&Id=3814&go=Directory/AviationSupplier.asp|CatId=~SubCatId=~Id=3814)  
+[](http://www.aero-friedrichshafen.com/html/en/)  
 [](http://www.expo.aero/)  
-[](https://web.archive.org/AircraftSales/MyAircraft.asp)  
-
+[](http://www.aviatrade.aero/)
 
 ### **** Avbuyer.com is committed to protecting your right to privacy as a user of our online service. Please read this information carefully as by using this site, you indicate your acceptance of AvBuyer’s online privacy policy. 
 
