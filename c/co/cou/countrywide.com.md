@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206013844id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
@@ -10,7 +10,7 @@
 | cookies, web beacons  
 | shared secrets  
 | identity theft   
-| [site tour](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/site_tour.aspx)  
+| [site tour](https://web.archive.org/web/20061206013844id_/http%3A//my.countrywide.com/site_tour.aspx)  
 |  |  | Privacy and Security in The Countrywide family  
 ---|---  
 |  | Your Privacy  
@@ -230,7 +230,7 @@ Identity theft requires someone to gain access to your personal information. You
   * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
   * Report lost or stolen credit cards, checks or identification immediately.
   * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20061206013844id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
   * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
   * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
   * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
@@ -253,7 +253,7 @@ Identity Theft Resources | Back to top
 [US Postal Inspection Service](http://www.usps.gov/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
    
 What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
-Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20061206013844id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
    
 | Training  
 ---  
