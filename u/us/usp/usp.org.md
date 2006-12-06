@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502144716id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011605id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
 
 # USP Website Privacy Policy
 
