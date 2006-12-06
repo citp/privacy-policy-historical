@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2006-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060113063510id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206031916id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
 # Privacy Policy - VWAUDI Forum
 
-Site Administrator
+\- Site Administrator -
 
  
 
-[](https://web.archive.org/web/20060113063510id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=d91b0da22b9fd4e938ca8ec543af3b60&u=1)
+[](https://web.archive.org/web/20061206031916id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=6225a00e34139ed24b00dba755098ba3&u=1)
 
  
 
 Join Date: Feb 2004
 
-Location: East Yorkshire
+Location: Yorkshire
 
-Posts: 757 
+Posts: 1,078 
 
 Rep Power: 10
 
@@ -71,13 +71,10 @@ If you have any questions, comments or concerns about our Privacy Policy, please
 This Privacy Policy was last updated on April 23rd 2004. © 2004 VWAudi Forum. All rights reserved.
 
 __________________  
-**Stuart -** **VWAudi Forum Site Administrator**
+**Stuart - Website & Forum Administrator** _ **www.VWAudi Forum.co.uk**_
 
- **E-Mail** : [**stuart@vwaudiforum.co.uk**](mailto:stuart@vwaudiforum.co.uk)  
-**Web : **[**www.vwaudiforum.co.uk**](http://www.vwaudiforum.co.uk/)
+**[Email Stuart](mailto:stuart@vwaudiforum.co.uk)**
 
-**VWAudi Forum - The Website & Forum Dedicated To Volkswagen & Audi Enthusiasts. Please note: It is recommended by the site administration, to have your vehicle checked by a qualified VAG technicion BEFORE following any technical advise offered on VWAudi Forum. Unless stated otherwise, NON of us are qualified technical specialists  
-**
+**Visit the[Gallery](http://www.vwaudiforum.co.uk/photopost/?) and post your pictures**
 
-****  
-****
+_**Please note: Unless otherwise stated, non of us are qualified vehicle mechanics, and as such not qualified to give advise... It is recommended by the website that any advise given is confirmed by a qualified person BEFORE following the advise given..Failure to do so will be at your own risk**_
