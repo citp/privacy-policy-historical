@@ -1,22 +1,102 @@
-<!--The following is the downloaded HTML source of the articles.com.my privacy policy that was archived on 2006-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060410063603id_/http%3A//articles.com.my/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the articles.com.my privacy policy that was archived on 2006-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206171840id_/http%3A//articles.com.my/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>#1 Free Content &amp; Article Submission Directory - My Articles</title>
+<title>Free Web Site Content | Articles Submission Directory</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="Content-Language" content="en-us">
-<meta name="keywords" content="free articles, article, article submission, submit articles, article submitter, malaysia, asia, submit your articles, article distribution, article directory, free, articles, copyright-free, reprint, articles for reprint, free reprint, ezine, ezines, e-zine, e-zines">
-<meta name="description" content="My Articles - The Premier Repository. Free Articles for your web site and ezine. Submit Your Articles to Our Directory.">
+<meta name="keywords" content="free articles, free web site content, from Malaysia, article submission, submit articles, article submitter, malaysia, asia, submit your articles, article distribution, article directory, free content, copyright-free, articles for reprint, free reprint, ezines, e-zines">
+<meta name="description" content="The Premier Article Repository. Free web site content. Submit your articles to our directory.">
 <meta name="author" content="http://www.articles.com.my">
 <meta name="copyright" content="http://www.articles.com.my">
 <meta name="robots" content="index,follow">
 <meta name="distribution" content="global">
 <meta name="resource-type" content="document">
 <meta name="rating" content="general">
-<meta name="revisit-after" content="2 days">
+<meta name="revisit-after" content="1 day">
 <link rel="Stylesheet" href="http://www.articles.com.my/mainstyle.css" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/articlescommy">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.articles.com.my/rss/0/0">
+
+<script language="JavaScript1.2">
+
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
+
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+}
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function dropornot(){
+if (get_cookie("droppedin")==""){
+window.onload=initbox
+document.cookie="droppedin=yes"
+}
+}
+dropornot()
+</script>
+
 </head>
 <body>
 
@@ -49,7 +129,7 @@ google_color_text = "000000";
 </td>
 <form name="search" method="post" action="http://www.articles.com.my/indexser.php"></form>
 <td class="topnav">
-<input type="text" name="search" value="" size="31" style="font-family: verdana; font-size: 11px; color: #333333; border: 1px solid #C0C0C0"></td>
+<input type="text" name="search" value="Search" size="31" style="font-family: verdana; font-size: 11px; color: #333333; border: 1px solid #C0C0C0"></td>
 
 </tr>
 
@@ -88,39 +168,38 @@ If you have any questions about this privacy statement, the practices of this si
 </td> <!-- End of Main Content -->
 <td class="navcell"> <!-- Starting of Navigator -->
 
-<div class="rightnavbox"><a href="http://www.articles.com.my/signup.php">Sign Up</a> for a free account. Learn more <a href="http://www.articles.com.my/aboutus.php">about this site</a>.</div>
+<div class="rightnavbox"><a href="http://www.articles.com.my/signup.php" rel="external nofollow">Sign Up</a> for a free account. Learn more <a href="http://www.articles.com.my/aboutus.php" rel="external nofollow">about this site</a>.</div>
 <div class="spacer"></div>
 
 <div class="spacer"></div>
 
 <div class="rightnavbox">
-<a href="http://www.articles.com.my/login.php">Member Login</a><br>
-<a href="http://www.articles.com.my/submitguidelines.php">Submission Guidelines</a><br>
-<a href="http://www.articles.com.my/submitarticles.php">Submit Articles</a><br>
-
+<a href="http://www.articles.com.my/login.php" rel="external nofollow">Member Login</a><br>
+<a href="http://www.articles.com.my/submitguidelines.php" rel="external nofollow">Submission Guidelines</a><br>
+<a href="http://www.articles.com.my/submitarticles.php" rel="external nofollow">Submit Articles</a>
 </div>
 
 <div class="spacer"></div>
 <div class="rightnavbox">
-<a href="http://www.articles.com.my/topauthors.php">Top Authors</a><br>
-<a href="http://www.articles.com.my/populararticles.php">Most Popular Articles</a><br>
-<a href="http://www.articles.com.my/ezinenotify.php">Ezine Notifications</a><br>
-<a href="http://www.articles.com.my/rssfeed.php">Article RSS Feeds</a><br>
-<a href="http://www.articles.com.my/links/index.html">Links to Other Sites</a>
+<!-- <a href="http://www.articles.com.my/topauthors.php" rel="external nofollow">Top Authors</a><br> -->
+<a href="http://www.articles.com.my/populararticles.php" rel="external nofollow">Most Popular Articles</a><br>
+<a href="http://www.articles.com.my/ezinenotify.php" rel="external nofollow">Ezine Notifications</a><br>
+<a href="http://www.articles.com.my/rssfeed.php" rel="external nofollow">Article RSS Feeds</a>
 </div>
-<!--
+
 <div class="spacer"></div>
 <div class="rightnavbox">
-<a href="http://www.articles.com.my/newstuff.php">New Stuff</a><br>
-<a href="http://www.articles.com.my/aboutus.php">About Us</a><br>
-<a href="http://www.articles.com.my/blog/">Site Blog</a><br>
-<a href="http://www.articles.com.my/forum/">Forum</a><br>
-<a href="http://www.articles.com.my/linkus.php">Link to Us</a><br>
-<a href="http://www.articles.com.my/contacts.php">Contact Us</a><br>
-<a href="http://www.articles.com.my/privacy.php">Privacy Policy</a><br>
-<a href="http://www.articles.com.my/terms.php">Terms of Service</a><br>
+<a href="http://www.articles.com.my/aboutus.php" rel="external nofollow">About Us</a><br>
+<a href="http://submit-articles.blogspot.com">Our Blog</a><br>
+<a href="http://www.articles.com.my/links/" rel="external nofollow">Links</a><br>
+<a href="http://www.articles.com.my/partners.htm" rel="external nofollow">Partners</a><br>
+<a href="http://www.articles.com.my/linkus.php" rel="external nofollow">Link to Us</a><br>
+<a href="http://www.articles.com.my/contacts.php" rel="external nofollow">Contact Us</a><br>
+<a href="http://www.articles.com.my/privacy.php" rel="external nofollow">Privacy Policy</a><br>
+<a href="http://www.articles.com.my/terms.php" rel="external nofollow">Terms of Service</a><br>
+<a href="http://www.articles.com.my/sitemap.php">Sitemap</a><br>
 </div>
--->
+
 <div class="spacer"></div>
 <div class="rightnavbox">
 <script type="text/javascript"><!--
@@ -139,9 +218,44 @@ google_color_text = "000000";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script><br><br>
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com.my/custom" target="_top">
+<table border="0" bgcolor="#ffffff">
+<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
+
+<br>
+<input type="hidden" name="domains" value="www.articles.com.my">
+<input type="text" name="q" size="20" maxlength="255" value="">
+</td></tr>
+<tr>
+<td nowrap="nowrap">
+<table>
+<tbody><tr>
+<td>
+<input type="radio" name="sitesearch" value="">
+<font size="-1" color="#000000">Web</font>
+</td>
+<td>
+<input type="radio" name="sitesearch" value="www.articles.com.my" checked="checked">
+<font size="-1" color="#000000">articles.com.my</font>
+</td>
+</tr>
+</tbody></table>
+<input type="submit" name="sa" value="Google Search">
+<input type="hidden" name="client" value="pub-3006728672333663">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="channel" value="0718174471">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;">
+<input type="hidden" name="hl" value="en">
+</td></tr></tbody></table>
+</form>
+<!-- SiteSearch Google -->
 <script type="text/javascript" src="http://embed.technorati.com/embed/yaf9i7s2d8.js"></script>
 <a href="http://www.articles.com.my/rss/0/0"><img src="http://www.articles.com.my/images/xml.gif" border="0"></a>
 </div>
+
 
 
 </td> <!-- End of Navigator -->
@@ -157,7 +271,18 @@ _uacct = "UA-120671-2";
 urchinTracker();
 </script>
 <br>
-<center>Copyright 2006 | <a href="http://articles.com.my/privacy.php">Privacy Policy</a> | <a href="http://articles.com.my/terms.php">Terms of Service</a></center>
+<center>Copyright 2006 | <a href="http://articles.com.my/privacy.php" rel="external nofollow">Privacy Policy</a> | <a href="http://articles.com.my/terms.php" rel="external nofollow">Terms of Service</a> | Free Web Site Content</center>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1538251;
+var sc_invisible=1;
+var sc_partition=14;
+var sc_security="3c4477f8";
+var sc_remove_link=1;
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c15.statcounter.com/counter.php?sc_project=1538251&java=0&security=3c4477f8&invisible=1" alt="free webpage hit counter" border="0"> </noscript>
+<!-- End of StatCounter Code -->
 
 
 
