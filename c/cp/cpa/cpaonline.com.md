@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613031839id_/http%3A//www.findaccountingsoftware.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206034914id_/http%3A//www.findaccountingsoftware.com/support/privacy) for the most accurate reproduction.*
 
 # Find Accounting Software :: Subscribe to inSITE Direct
 
@@ -8,7 +8,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-This site contains links to other sites. CPA Online is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. FindAccountingSoftware.com is not responsible for the privacy practices or the content of such Web sites.
 
 **Security**
 
@@ -20,9 +20,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  * You can send email to privacy@cpaonline.com 
+  * You can send email to privacy@findaccountingsoftware.com 
   * You can send postal mail to 10437 Innovation Drive, Suite 450, Wauwatosa, WI 53226 
-  * You can remove yourself from inSITE Direct, CPA Online's Weekly Email Digest, by filling out this form. 
 
 
 
@@ -30,7 +29,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  * email corrections@cpaonline.com 
+  * email corrections@findaccountingsoftware.com 
   * You can send postal mail to 10437 Innovation Drive, Suite 450, Wauwatosa, WI 53226 
 
 
