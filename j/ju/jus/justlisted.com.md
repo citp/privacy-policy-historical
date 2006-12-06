@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315175241id_/http%3A//www.justlisted.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011451id_/http%3A//www.justlisted.com/privacy.aspx) for the most accurate reproduction.*
 
-# Real Estate Listings | JustListed.com
+# 
 
 We, HouseValues, have created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses the information collection and disclosure practices for our Web sites (the "Sites"). By accessing the Sites, you consent to the collection and use of information as described herein. We reserve the right to change this privacy statement at any time. If we make any material changes to our privacy statement, we will post a new statement on the Sites and update the effective date set forth above. Therefore, we encourage you to check the date of our privacy statement whenever you visit the Sites to see if it has been updated since your last visit. 
 
