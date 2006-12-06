@@ -1,0 +1,1287 @@
+<!--The following is the downloaded HTML source of the skis.com privacy policy that was archived on 2006-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206013522id_/http%3A//www.skis.com/faq_privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>
+Skis.com
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Skis.com - The web's top seller of skis, snowboards and outdoor apparel.">
+<meta name="keywords" content="skis, snowboards, jackets, pants, boots, bindings, hats, gloves, skates, kayaks, sweaters, socks, skis.com">
+<link rel="stylesheet" href="/skin1/skin1_customer.css">
+</head>
+<body leftmargin="0" topmargin="0" rightmargin="0" bottomargin="0" marginwidth="0" marginheight="0" onload="olLoaded=1;onBodyLoad();">
+<script type="text/javascript" src="scott_rollover.js">
+
+<SCRIPT type="text/javascript" language="JavaScript 1.2">
+<!--
+
+//
+// Enviroment identificator
+//
+var localIsDOM = document.getElementById?true:false;
+var localIsJava = navigator.javaEnabled();
+var localIsStrict = document.compatMode=='CSS1Compat';
+var localPlatform = navigator.platform;
+var localVersion = "0";
+var localBrowser = "";
+if(window.opera && localIsDOM) {
+	localBrowser = "Opera";
+	if(navigator.userAgent.search(/^.*Opera.([\d.]+).*$/) != -1)
+		localVersion = navigator.userAgent.replace(/^.*Opera.([\d.]+).*$/, "$1");
+	else if(window.print)
+		localVersion = "6";
+	else
+		localVersion = "5";
+} else if(document.all && document.all.item)
+	localBrowser = 'MSIE';
+if(navigator.appName=="Netscape") {
+	if(!localIsDOM) {
+		localBrowser = 'Netscape';
+		localVersion = navigator.userAgent.replace(/^.*Mozilla.([\d.]+).*$/, "$1");
+		if(localVersion != '')
+			localVersion = "4";
+	} else if(navigator.userAgent.indexOf("Safari") >= 0)
+		localBrowser = 'Safari';
+	else if(navigator.userAgent.indexOf("Netscape") >= 0)
+		localBrowser = 'Netscape';
+	else if(navigator.userAgent.indexOf("Firefox") >= 0)
+		localBrowser = 'Firefox';
+	else 
+		localBrowser = 'Mozilla';
+	
+}
+if(navigator.userAgent.indexOf("MSMSGS") >= 0)
+	localBrowser = "WMessenger";
+else if(navigator.userAgent.indexOf("e2dk") >= 0)
+	localBrowser = "Edonkey";
+else if(navigator.userAgent.indexOf("Gnutella") + navigator.userAgent.indexOf("Gnucleus") >= 0)
+	localBrowser = "Gnutella";
+else if(navigator.userAgent.indexOf("KazaaClient") >= 0)
+	localBrowser = "Kazaa";
+
+if(localVersion == '0' && localBrowser != '') {
+	var rg = new RegExp("^.*"+localBrowser+".([\\d.]+).*$");
+	localVersion = navigator.userAgent.replace(rg, "$1");
+}
+var localIsCookie = ((localBrowser == 'Netscape' && localVersion == '4')?(document.cookie != ''):navigator.cookieEnabled);
+
+//
+// Opener/Closer HTML block
+//
+
+function visibleBox_old(id) {
+	elm1 = document.getElementById("open"+id);
+	elm2 = document.getElementById("close"+id);
+	elm3 = document.getElementById("box"+id);
+
+	if(!elm3)
+		return false;
+
+	//if (skipOpenClose) {
+	///	elm3.style.display = (elm3.style.display == "")?"none":"";
+	//} else if(elm1) {
+		if (elm1.style.display == "") {
+			elm1.style.display = "none";
+			if(elm2)
+				elm2.style.display = "";
+			elm3.style.display = "none";
+		} else {
+			elm1.style.display = "";
+			if(elm2)
+				elm2.style.display = "none";
+			elm3.style.display = "";
+		}
+	//}
+}
+
+//
+// URL encode
+//
+function urlEncode(url) {
+	return url.replace(/\s/g, "+").replace(/&/, "&amp;").replace(/"/, "&quot;")
+}
+
+//
+// Substitute
+//
+function substitute(lbl) {
+var x, rg;
+	for(x = 1; x < arguments.length; x+=2) {
+		if(arguments[x] && arguments[x+1]) {
+			rg = new RegExp("\\{\\{"+arguments[x]+"\\}\\}", "gi");
+			lbl = lbl.replace(rg,  arguments[x+1]);
+			rg = new RegExp('~~'+arguments[x]+'~~', "gi");
+			lbl = lbl.replace(rg,  arguments[x+1]);
+		}
+	}
+	return lbl;
+}
+
+-->
+</script>
+<!------------------------------------------------->
+<style type="text/css">
+
+#dropmenudiv{
+position:absolute;
+border:1px solid black;
+border-bottom-width: 0;
+font:bold 10px Verdana;
+line-height:16px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid black;
+padding: 1px 0;
+text-decoration: none;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: white;
+}
+
+</style>
+
+<!--<script type="text/javascript">
+
+var menu1=new Array()
+menu1[0]='<a href="home.php?cat=209&sort_direction=1">Womens</a>'
+menu1[1]='<a href="home.php?cat=206&sort_direction=1">Mens</a>'
+menu1[2]='<a href="home.php?cat=273&sort_direction=1">Kids</a>'
+	
+var menuwidth='100px' //default menu width
+var menubgcolor='#eeeeee'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editing needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script> -->
+<!-- CM_ END -->
+
+<!-- CM_ 6/28/06 - Added functions to support JS menus, etc. - ZKC -->
+
+<script>
+function sideMenu(toToggle){
+	var div = document.getElementById('tree_'+toToggle);
+	var arrowone = document.getElementById(toToggle+'_1');
+	var arrowtwo = document.getElementById(toToggle+'_2');
+	
+	if(div.style.display.match("none")){
+		arrowone.style.display = "none";
+		arrowtwo.style.display = "";
+		div.style.display = "";
+	} else {
+		arrowone.style.display = "";
+		arrowtwo.style.display = "none";
+		div.style.display = "none";
+	}
+}
+function showSide(toToggle){
+	if(document.getElementById('tree_'+toToggle))
+		document.getElementById('tree_'+toToggle).style.display = "";
+	if(document.getElementById(toToggle+'_1'))
+		document.getElementById(toToggle+'_1').style.display = "none";
+	if(document.getElementById(toToggle+'_2'))
+		document.getElementById(toToggle+'_2').style.display = "";
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+/*Example CSS for the two demo scrollers*/
+#pscroller{
+width: 350px;
+height: 30px;
+border: none;
+padding: 2px;
+}
+
+#pscroller2 a{
+text-decoration: none;
+}
+
+
+</style>
+
+<script type="text/javascript">
+
+
+var scrollercontent=new Array()
+
+	scrollercontent[0]='<b>WELCOME TO SKIS.COM!</b><br>The Ultimate Online Ski Shop!'
+	scrollercontent[1]='<b>FREE SHIPPING!</b><br>Free Shipping on ALL orders over $99'
+	scrollercontent[2]='<b>HUGE SKI & SNOWBOARD SALE</b><br>Save 30% or more on most items!'
+
+
+</script>
+
+<script type="text/javascript">
+
+function pausescroller(content, divId, divClass, delay){
+this.content=content //message array content
+this.tickerid=divId //ID of ticker div to display information
+this.delay=delay //Delay between msg change, in miliseconds.
+this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over scroller (and pause it if it is)
+this.hiddendivpointer=1 //index of message array for hidden div
+document.write('<div id="'+divId+'" class="'+divClass+'" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 100%" id="'+divId+'1">'+content[0]+'</div><div class="innerDiv" style="position: absolute; width: 100%; visibility: hidden" id="'+divId+'2">'+content[1]+'</div></div>')
+var scrollerinstance=this
+if (window.addEventListener) //run onload in DOM2 browsers
+window.addEventListener("load", function(){scrollerinstance.initialize()}, false)
+else if (window.attachEvent) //run onload in IE5.5+
+window.attachEvent("onload", function(){scrollerinstance.initialize()})
+else if (document.getElementById) //if legacy DOM browsers, just start scroller after 0.5 sec
+setTimeout(function(){scrollerinstance.initialize()}, 500)
+}
+
+// -------------------------------------------------------------------
+// initialize()- Initialize scroller method.
+// -Get div objects, set initial positions, start up down animation
+// -------------------------------------------------------------------
+
+pausescroller.prototype.initialize=function(){
+this.tickerdiv=document.getElementById(this.tickerid)
+this.visiblediv=document.getElementById(this.tickerid+"1")
+this.hiddendiv=document.getElementById(this.tickerid+"2")
+this.visibledivtop=parseInt(pausescroller.getCSSpadding(this.tickerdiv))
+//set width of inner DIVs to outer DIV's width minus padding (padding assumed to be top padding x 2)
+this.visiblediv.style.width=this.hiddendiv.style.width=this.tickerdiv.offsetWidth-(this.visibledivtop*2)+"px"
+this.getinline(this.visiblediv, this.hiddendiv)
+this.hiddendiv.style.visibility="visible"
+var scrollerinstance=this
+document.getElementById(this.tickerid).onmouseover=function(){scrollerinstance.mouseoverBol=1}
+document.getElementById(this.tickerid).onmouseout=function(){scrollerinstance.mouseoverBol=0}
+if (window.attachEvent) //Clean up loose references in IE
+window.attachEvent("onunload", function(){scrollerinstance.tickerdiv.onmouseover=scrollerinstance.tickerdiv.onmouseout=null})
+setTimeout(function(){scrollerinstance.animateup()}, this.delay)
+}
+
+
+// -------------------------------------------------------------------
+// animateup()- Move the two inner divs of the scroller up and in sync
+// -------------------------------------------------------------------
+
+pausescroller.prototype.animateup=function(){
+var scrollerinstance=this
+if (parseInt(this.hiddendiv.style.top)>(this.visibledivtop+5)){
+this.visiblediv.style.top=parseInt(this.visiblediv.style.top)-5+"px"
+this.hiddendiv.style.top=parseInt(this.hiddendiv.style.top)-5+"px"
+setTimeout(function(){scrollerinstance.animateup()}, 50)
+}
+else{
+this.getinline(this.hiddendiv, this.visiblediv)
+this.swapdivs()
+setTimeout(function(){scrollerinstance.setmessage()}, this.delay)
+}
+}
+
+// -------------------------------------------------------------------
+// swapdivs()- Swap between which is the visible and which is the hidden div
+// -------------------------------------------------------------------
+
+pausescroller.prototype.swapdivs=function(){
+var tempcontainer=this.visiblediv
+this.visiblediv=this.hiddendiv
+this.hiddendiv=tempcontainer
+}
+
+pausescroller.prototype.getinline=function(div1, div2){
+div1.style.top=this.visibledivtop+"px"
+div2.style.top=Math.max(div1.parentNode.offsetHeight, div1.offsetHeight)+"px"
+}
+
+// -------------------------------------------------------------------
+// setmessage()- Populate the hidden div with the next message before it's visible
+// -------------------------------------------------------------------
+
+pausescroller.prototype.setmessage=function(){
+var scrollerinstance=this
+if (this.mouseoverBol==1) //if mouse is currently over scoller, do nothing (pause it)
+setTimeout(function(){scrollerinstance.setmessage()}, 100)
+else{
+var i=this.hiddendivpointer
+var ceiling=this.content.length
+this.hiddendivpointer=(i+1>ceiling-1)? 0 : i+1
+this.hiddendiv.innerHTML=this.content[this.hiddendivpointer]
+this.animateup()
+}
+}
+
+pausescroller.getCSSpadding=function(tickerobj){ //get CSS padding value, if any
+if (tickerobj.currentStyle)
+return tickerobj.currentStyle["paddingTop"]
+else if (window.getComputedStyle) //if DOM2
+return window.getComputedStyle(tickerobj, "").getPropertyValue("padding-top")
+else
+return 0
+}
+
+function visibleBox(id) {
+	elm1 = document.getElementById("open"+id);
+	elm2 = document.getElementById("close"+id);
+	elm3 = document.getElementById("box"+id);
+
+	if(!elm3)
+		return false;
+
+	//if (skipOpenClose) {
+	///	elm3.style.display = (elm3.style.display == "")?"none":"";
+	//} else if(elm1) {
+		if (elm1.style.display == "") {
+			elm1.style.display = "none";
+			if(elm2)
+				elm2.style.display = "";
+			elm3.style.display = "none";
+		} else {
+			elm1.style.display = "";
+			if(elm2)
+				elm2.style.display = "none";
+			elm3.style.display = "";
+		}
+	//}
+}
+
+/* ***** Begin: GreyWyvern's Buffered Text-fade Effect - v2.2 ****** */
+// See http://www.greywyvern.com/code/js/fade for usage example
+var fader = new Array(), fadeQ = new Array();
+var RGB = new Array(256), k = 0, hex = ["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f"];
+for (var i = 0; i < 16; i++) for (var j = 0; j < 16; j++) RGB[k++] = hex[i] + hex[j];
+
+function fadeObj(number, id, colOff, colOn, spdIn, spdOut, def) {
+  this.number = number;
+  this.id = id;
+  this.colOff = [parseInt(colOff.substr(0, 2), 16), parseInt(colOff.substr(2, 2), 16), parseInt(colOff.substr(4, 2), 16)];
+  this.colOn = [parseInt(colOn.substr(0, 2), 16), parseInt(colOn.substr(2, 2), 16), parseInt(colOn.substr(4, 2), 16)];
+  this.colNow = [parseInt(colOff.substr(0, 2), 16), parseInt(colOff.substr(2, 2), 16), parseInt(colOff.substr(4, 2), 16)];
+  this.spdIn = spdIn;
+  this.spdOut = spdOut;
+  this.def = def;
+  this.direction = false;
+  this.active = false;
+  this.message = new Array();
+  this.messageNow = 0;
+}
+
+function fadeCmd(number, message, direction) {
+  this.number = number;
+  this.message = message;
+  this.direction = direction;
+}
+
+function fade(number, message, direction) {
+  if(fader[number]){
+	  if (fader[number].def && fader[number].messageNow == 0 && fader[number].direction) {
+		fadeQ[fadeQ.length] = new fadeCmd(number, 0, false);
+		fadeQ[fadeQ.length] = new fadeCmd(number, message, direction);
+		message = 0;
+		direction = false;
+	  } else fadeQ[fadeQ.length] = new fadeCmd(number, message, direction);
+  } else fadeQ[fadeQ.length] = new fadeCmd(number, message, direction);
+  setTimeout("fadeBegin(" + number + ");", 20);
+}
+
+function fadeBegin(number) {
+  for (var x = 0; x < fadeQ.length; x++) {
+    for (var y = x + 1; y < fadeQ.length; y++) {
+      if (fadeQ[x].number == fadeQ[y].number && fadeQ[x].message == fadeQ[y].message && fadeQ[x].direction != fadeQ[y].direction) {
+        fadeQ.splice(x, 1);
+        fadeQ.splice(y - 1, 1);
+      }
+    }
+  }
+  if(fader[number]){
+	  if (!fader[number].active) {
+		for (var x = 0; x < fadeQ.length; x++) {
+		  if (fadeQ[x].number == number && fadeQ[x].direction != fader[number].direction) {
+			var del = fadeQ.splice(x, 1);
+			setTimeout("fadeEng(" + number + ", " + del[0].message + ", " + del[0].direction + ");", 0);
+			break;
+		  }
+		}
+	  }
+  }
+}
+
+function fadeEng(number, message, direction) {
+  if (!fader[number].active) {
+    fader[number].active = true;
+    fader[number].direction = direction;
+    fader[number].messageNow = message;
+	if(document.getElementById(fader[number].id))
+    	document.getElementById(fader[number].id).innerHTML = fader[number].message[message];
+  }
+  var iniCol = (direction) ? fader[number].colOff : fader[number].colOn;
+  var endCol = (direction) ? fader[number].colOn : fader[number].colOff;
+  var incCol = fader[number].colNow;
+  var spd = (direction) ? fader[number].spdIn : fader[number].spdOut;
+  for (var x = 0; x < 3; x++) {
+    var incr = (endCol[x] - iniCol[x]) / spd;
+    incCol[x] = (incr < 0) ? Math.max(incCol[x] + incr, endCol[x]) : Math.min(incCol[x] + incr, endCol[x]);
+  }
+  //document.getElementById(fader[number].id).style.color = '#' + RGB[parseInt(incCol[0])] + RGB[parseInt(incCol[1])] + RGB[parseInt(incCol[2])];
+  
+  if (incCol[0] == endCol[0] && incCol[1] == endCol[1] && incCol[2] == endCol[2]) {
+    fader[number].active = false;
+    for (var x = 0; x < fadeQ.length; x++) {
+      if (fadeQ[x].number == number) {
+        var del = fadeQ.splice(x, 1);
+        setTimeout("fadeEng(" + number + ", " + del[0].message + ", " + del[0].direction + ");", 0);
+        return false;
+      }
+    }
+    if (!direction) {
+      if (fader[number].def) {
+        setTimeout("fadeEng(" + number + ", 0, true);", 0);
+      } else document.getElementById(fader[number].id).innerHTML = "&nbsp;";
+    }
+  } else setTimeout("fadeEng(" + number + ", " + message + ", " + direction + ");", 0);
+}
+/* ***** End: GreyWyvern's Buffered Text-fade Effect - v2.2 ******** */
+function throbFade() {
+  fade(2, Math.floor(throbStep / 2), (throbStep % 2) ? false : true);
+  setTimeout("throbFade();", (throbStep % 2) ? 100 : 6000);
+  if (++throbStep > fader[2].message.length * 2 - 1) throbStep = 0;
+}
+
+fader[2] = new fadeObj(2, 'fade2', 'bbbbbb', '000000', 50, 50, false);
+
+fader[2].message[0] = "<b>WELCOME TO SKIS.COM!</b><br>The Ultimate Online Ski Shop!";
+fader[2].message[1] = "<b>FREE SHIPPING!</b><br>Free Shipping on ALL orders over $99";
+fader[2].message[2] = "<b>HUGE SKI & SNOWBOARD SALE</b><br>Save 30% or more on most items!";
+
+
+var throbStep = 0;
+setTimeout("throbFade();", 1000); 
+
+//------------------------------------------------------------------------------------------------------
+function onAddToCart(){
+	if(!FormValidation())										return;
+	if(!document.getElementById('add_to_cart_wait_img'))		return;
+	if(!document.getElementById('add_to_cart_img'))				return;
+	document.getElementById('add_to_cart_wait_img').style.display = ''; 
+	document.getElementById('add_to_cart_img').style.display = 'none'; 
+	document.orderform.submit();
+}
+
+/*function closeSpecialOfferOverlib(){
+	nd();
+}
+function showSpecialOfferOverlib(img,title,desc,href,anchorto,is_bottom){
+	link_text = "";
+	if(is_bottom){
+		x = -65;
+		y = -150;
+		link_text = "<tr><td height=\"2\" align=\"center\" valign=\"bottom\"><a href=\""+href+"\">Show All Applicable Products</a></td></tr>";
+	} else {
+		x = -65;
+		y = -150;
+	}
+	overlib('<table height=\"110\"><TR><TD valign=\"top\"><br><img src=\"'+img+'\" align=\"left\" width=\"80\" height=\"59\"><FONT class=\"ProductPrice\">'+title+'</font><br><br><b>'+desc+'</b><br><br></td></tr>'+link_text+'</table>', BGCOLOR, '#4a8ac1', FGCOLOR, '#FFFFFF', BORDER, 1, ANCHOR, anchorto,ANCHORX,x,ANCHORY,y,STICKY, EXCLUSIVE,WIDTH,230,HEIGHT,110,PADX,15,60,PADY,20,0,CAPTION,title);
+}*/
+
+</script>
+<!------------------------------------------------->
+
+
+<!-- CM_ 6/27/06 - Added functions to support overlib, etc. - ZKC -->
+<script type="text/javascript" src="overlib/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
+<script type="text/javascript" src="overlib/overlib_anchor.js"></script>
+<script type="text/javascript" src="overlib/overlib_fade.js"></script>
+<!--<script type="text/javascript" src="overlib/overlib_centerpopup.js"></script>-->
+<script type="text/javascript" src="overlib/overlib_exclusive.js"></script>
+<script>
+function showCart() {
+		overlib('The cart is empty!',ANCHOR,'ShoppingCartLink', ANCHORALIGN, 'LR','UL',ANCHORX,-130,BACKGROUND,'images/ShoppingCartPopup.gif',WIDTH,160,HEIGHT,60,PADX,15,60,PADY,20,0);
+	}
+function hideCart() {
+	nd();
+}
+
+function onBodyLoad() {
+			//Show the side menus that are expanded when the page starts:
+		fade(0, 0, true);
+}
+</script>
+
+<!------------------------------------------------->
+<!--------- Start basic centering popup -------------->
+
+<script language="javascript">
+
+var win = null;
+function NewWindow(myname,mypage,w,h,scroll){
+LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+settings =
+'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+win = window.open(myname,mypage,settings)
+}
+<!--------- End basic centering popup -------------->
+function movepic(img_name,img_src) {
+document[img_name].src=img_src;
+}
+
+</script>
+
+
+
+
+<script>
+var myimages=new Array()
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image()
+myimages[i].src=preloadimages.arguments[i]
+}
+}
+
+preloadimages("/images/custom/menu_off.gif","/images/custom/menu_on.gif","/images/custom/menu_sale.gif","/images/custom/menu_sale_on.gif","/images/ShoppingCartPopup.gif")
+
+</script>
+
+
+
+<script type="text/javascript">
+function fill_hidden() {
+   document.opt_sort.sizefilter.value = 16;
+   return '';
+}
+</script>
+
+
+
+<script type="text/javascript">
+    function ChangeColor(tableRow, highLight)
+    {
+    if (highLight)
+    {
+      tableRow.style.backgroundColor = '#d9e6f2';
+	  tableRow.style.cursor="hand";
+    }
+    else
+    {
+      tableRow.style.backgroundColor = 'white';
+	  tableRow.style.cursor="hand";
+    }
+  }
+
+  function DoNav(theUrl)
+  {
+  document.location.href = theUrl;
+  }
+  </script>
+
+
+
+<script type="text/javascript">
+    function ChangeColor2(tableRow, highLight)
+    {
+    if (highLight)
+    {
+      tableRow.style.backgroundColor = '#d9e6f2';
+    }
+    else
+    {
+      tableRow.style.backgroundColor = 'white';
+    }
+  }
+  </script>
+
+
+
+<script type="text/javascript">
+    function ChangeColor3(tableRow, highLight)
+    {
+    if (highLight)
+    {
+      tableRow.style.backgroundColor = '#d9e6f2';
+	  tableRow.style.cursor="hand";
+    }
+    else
+    {
+      tableRow.style.backgroundColor = '#F3F0E6';
+	  tableRow.style.cursor="hand";
+    }
+  }
+  </script>
+
+
+<script type="text/javascript">
+    function ChangeColor4(tableRow, highLight)
+    {
+    if (highLight)
+    {
+      tableRow.style.backgroundColor = '#d9e6f2';
+	      }
+    else
+    {
+      tableRow.style.backgroundColor = '#F3F0E6';
+	      }
+  }
+  </script>
+
+
+
+<!-- CM_ END --><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+  <tbody><tr>
+    <td valign="top"><div style="position: absolute;" id="div_null"></div>
+<table width="100%" height="100%" cellspacing="1" cellpadding="0" border="0" bordercolor="#FFFFFF" style="border-collapse: collapse" bgcolor="#c9c8be">
+	<tbody><tr>
+		<td valign="top">
+			<div align="center">
+				<table border="0" width="770" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td width="49%" valign="bottom">
+			 				<div class="scroller1" id="fade2"></div>
+		  				</td>
+						<td height="20" width="51%" valign="bottom" align="right">
+		 					<img src="/images/custom/dts-top-logo.gif">
+						</td>
+					</tr>
+				</tbody></table>
+				<table width="770" cellspacing="1" border="1" bordercolor="#9a998c" style="border-collapse: collapse" bgcolor="#FFFFFF">
+					<tbody><tr>
+						<td valign="top">
+							<table border="0" width="770" cellspacing="0" cellpadding="0" height="2">
+								<tbody><tr>
+									<td>
+										<table border="0" width="100%" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td height="10" width="13" valign="top">
+													<a href="index.php">
+													<img border="0" src="images/custom/logo_1.gif"></a>
+												</td>
+												<td height="10" width="10%" valign="top" align="right" style="padding-top: 2px;">&nbsp;</td>
+												<td height="10" valign="top" width="100%">
+													<table border="0" width="100%" cellspacing="0" cellpadding="0">
+														<tbody><tr>
+															<td align="right" width="50%">
+																<table border="0" width="100%" cellspacing="0" cellpadding="0">
+																	<tbody><tr>																		<td align="right">
+																		<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td>
+																				<p align="right">
+																				<table cellpadding="0" cellspacing="0" border="0" width="100">  
+<form method="POST" action="search.php" name="productsearchform"></form>
+<input type="hidden" name="simple_search" value="Y">
+<input type="hidden" name="mode" value="search">
+<input type="hidden" name="posted_data[by_title]" value="Y">
+<input type="hidden" name="posted_data[by_shortdescr]" value="Y">
+<input type="hidden" name="posted_data[by_fulldescr]" value="Y">
+<tbody><tr> 
+<td valign="bottom" width="50" height="9">
+<p align="right">Search&nbsp; </p></td>
+<td valign="bottom" width="30" align="left" height="17" rowspan="2">
+<input class="InputText" type="text" name="posted_data[substring]" size="33" value=""></td>
+<td valign="bottom" width="20" align="left" height="17" rowspan="2">
+<p align="right"> <a href="javascript: document.productsearchform.submit()"> <img src="/skin1/images/customer_images/go.gif" border="0" align="top"></a></p></td>
+</tr>
+<tr> 
+<td valign="bottom" width="50" height="2">
+<img src="/skin1/images/spacer.gif" width="100%" height="2"></td>
+</tr>
+
+</tbody></table>
+ 
+																		  </p></td>
+																				</tr>
+																		</tbody></table>
+																		</td>
+																	</tr>
+													</tbody></table>
+												</td>
+											</tr>
+					  					</tbody></table>
+					  						<table border="0" id="table1" cellspacing="3" cellpadding="2" align="right">
+																					<tbody><tr>
+																						<td align="right" valign="top"><a class="h11" href="login_account.php">Your Account</a></td>
+																						<td align="right" valign="top"><img src="/images/custom/top-sep.gif" height="12"></td>
+																						<td align="right" valign="top"><a class="h11" href="points_popup.php" onclick="NewWindow(this.href,'name','300','255','no');return false">Rewards</a></td>
+																						<td align="right" valign="top"><img src="/images/custom/top-sep.gif" height="12"></td>
+																						<td align="right" valign="top" width="10"><a class="h11" href="cs.php">Help</a></td>
+																					</tr>
+																					<tr>
+																						<td align="right" valign="top" colspan="5">
+																						<table border="0" id="table2" cellspacing="0" cellpadding="0" width="110">
+																							<tbody><tr>
+																								<td>
+																								<p align="left"></p><div onmouseover="showCart()" onmouseout="hideCart()"><a class="h11" name="ShoppingCartLink" href="cart.php">0 Items In Cart</a></div></td>
+																								<td class="cartback" width="5" align="right" valign="top" height="15"><a href="cart.php"><img src="images/spacer.gif" height="12" width="20" border="0"></a></td>
+																							</tr>
+																						</tbody></table>
+																						</td>
+																					</tr>
+																				</tbody></table>
+											  </td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+<table align="center" width="770" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr class="navLink" valign="bottom">
+<td align="center" class="navLink"><a href="home.php?cat=9&amp;sort_direction=1"><br><br>SKI</a></td>
+<td align="center" class="navLink"><a href="home.php?cat=704&amp;sort_direction=1"><br><br>RACE SHOP</a></td>
+<td align="center" class="navLink"><a href="home.php?cat=24&amp;sort_direction=1"><br><br>SNOWBOARD</a></td>
+<td align="center" class="navLink"><a href="home.php?cat=206&amp;sort_direction=1"><br>MEN'S<br>APPAREL</a></td>
+<td align="center" class="navLink" "=""><a href="home.php?cat=209&amp;sort_direction=1"><br>WOMEN'S<br>APPAREL</a></td>
+<td align="center" class="navLink"><a href="home.php?cat=273&amp;sort_direction=1"><br>KID'S<br>APPAREL</a></td>
+<td align="center" class="navLink"><a href="home.php?cat=15&amp;sort_direction=1"><br><br>INLINE SKATES</a></td>
+<td align="center" class="navLinksale"><a href="http://sale.skis.com"><br><br>SALE</a></td>
+</tr>
+</tbody></table><!-------- central space ------------>
+			<div align="center">
+			<table height="291" cellspacing="4" cellpadding="2" width="760" border="0">
+				<tbody><tr>
+					<td width="25%" height="251" valign="top">
+<table border="0" width="100%" cellpadding="5" cellspacing="4">
+	<tbody><tr>
+	  <td bgcolor="#eef1f4"><b>My Account</b> 
+						<ul class="category">
+						<li class="category" id="categoryNav1301">
+						<a class="category" href="faq.php">FAQ</a>   
+						</li>
+						<li class="category" id="categoryNav1302">
+						<a class="category" href="faq_sign_in_out.php">Signing in/Signing up for Account</a>   
+						</li>
+						<li class="category" id="categoryNav1303">
+						<a class="category" href="faq_username_password.php">Username &amp; Password</a>   
+						</li>
+						<li class="category" id="categoryNav1304">
+						<a class="category" href="faq_change_account.php">Accessing/Changing Account info</a>   
+						</li>
+						<li class="category" id="categoryNav1306">
+						<a class="category" href="faq_email_signup.php">Email sign up</a> </li>
+					</ul>
+<p><b>As You 
+						Shop/Browsing 
+						</b> 
+	    </p>
+<ul class="category">
+						<li class="category" id="categoryNav1311">
+						<a class="category" href="faq_your_cart.php">Your Shopping 
+						Cart</a> </li>
+						<li class="category" id="categoryNav1312">
+						<a class="category" href="faq_gift_certificates.php">Gift Certificates</a> 
+						</li>
+	    </ul>
+<p><b>Purchasing 
+						</b> 
+	    </p>
+<ul class="category">
+						<li class="category" id="categoryNav1315">
+						<a class="category" href="faq_placing_order.php">Placing an Order</a>  
+						</li>
+						<li class="category" id="categoryNav1316">
+						<a class="category" href="faq_payment.php">Payment</a>  
+						</li>
+						<li class="category" id="categoryNav1317">
+						<a class="category" href="faq_terms.php">Terms &amp; Conditions</a></li>
+						<li class="category" id="categoryNav1317">
+						<a class="category" href="faq_lowest_price.php">Low 
+						Price Guarantee</a></li>
+	    </ul>
+<p><b>Shipping &amp; 
+						Delivery 
+						</b> 
+	    </p>
+<ul class="category">
+						<li class="category" id="categoryNav1320">
+						<a class="category" href="faq_shipping_delivery.php">Shipping &amp; delivery</a>  
+						</li>
+						<li class="category" id="categoryNav1321">
+						<a class="category" href="faq_order_status.php">Order status &amp; tracking</a> 
+						</li>
+	    </ul>
+<p><b>Returns &amp; 
+						Exchanges 
+						</b> 
+	    </p>
+<ul class="category">
+						<li class="category" id="categoryNav1324">
+						<a class="category" href="faq_return_exchange.php">Returns &amp; Exchange Policy</a>  
+						</li>
+						<li class="category" id="categoryNav1325">
+						<a class="category" href="faq_store_return.php">Store Returns &amp; Exchanges</a>  
+						</li>
+						<li class="category" id="categoryNav1327">
+						<a class="category" href="faq_gc_return.php">Gift 
+						Certificate Returns</a> 
+						</li>
+	    </ul>
+<p><b>Privacy, Security &amp; Technical Matters </b> </p>
+<ul class="category">
+  <li class="category" id="categoryNav1330"> <a class="category" href="faq_privacy.php">Privacy Policy</a> </li>
+  <li class="category" id="categoryNav1331"> <a class="category" href="faq_cc_security.php">Credit Card Security</a> </li>
+  <li class="category" id="categoryNav1332"> <a class="category" href="faq_cookies.php">Cookies</a> </li>
+  <li class="category" id="categoryNav1333"> <a class="category" href="faq_browsers.php">Web Browsers</a> </li>
+  <li class="category" id="categoryNav1335"> <a class="category" href="faq_other_tips.php">Other technical tips</a> </li>
+</ul>
+<p><b>About Skis.com/Don Thomas Sporthaus  </b> </p>
+<ul class="category">
+  <li class="category" id="categoryNav1330"> <a class="category" href="faq_about_us.php">About Us </a> </li>
+  <li class="category" id="categoryNav1331"> <a class="category" href="faq_store_locator.php">Store Locator </a></li>
+  </ul></td>
+	</tr>
+</tbody></table>
+					</td>
+					<td height="251" valign="top">
+
+
+					<h3 class="header3"><b>Our Privacy Policy</b></h3>
+					<font size="2">&nbsp;&nbsp; Updated August 2006</font><br>
+					<br>
+					This privacy policy explains how Skis.com collects, uses, 
+					and discloses the information of users of the Skis.com 
+					Website (the "Skis.com <br>
+					Website," or "our Website"). <br>
+					&nbsp; 
+					<br>
+					<h3 class="header3"><b>Important terms</b></h3>
+					When reviewing any privacy policy on the Internet, you 
+					should be familiar with the terms "personally identifiable 
+					information" and <br>
+					"aggregate information." "Personally identifiable 
+					information" is any information that can be used to 
+					identify, contact, or locate you as <br>
+					an individual. Common examples are your name and email 
+					address. <br>
+					<br>
+					"Aggregate information" lumps your behavior or 
+					characteristics together with those of a group. For 
+					instance, we may let advertisers know <br>
+					that 50% of our users are over 35 without disclosing the 
+					personal information of any one individual.<br>
+					&nbsp; 
+					<p align="right"><a href="#top">return to top</a></p>
+					<br>
+					<h3 class="header3"><b>Collecting your information</b></h3>
+					When you register for the Skis.com Website we collect 
+					personally identifiable information, including (but not 
+					limited to) your name, <br>
+					physical address, email address, phone numbers, and billing 
+					information. All of this information is mandatory; without 
+					it we will not<br>
+					register you. We also collect personally identifiable 
+					information through purchase forms, surveys, sweepstakes 
+					entries, emails we receive<br>
+					from you, and your other interactions with our Website. <br>
+					<br>
+					When you use our Website we may collect a variety of 
+					technical data, which we store in both aggregate and, if you 
+					are registered with <br>
+					Skis.com, personally identifiable forms. This data includes 
+					(but is not limited to) your IP address (a unique number 
+					that identifies your <br>
+					access account on the Internet), domain, and Web browser 
+					information. We may track the page you visited before coming 
+					to the Skis.com <br>
+					Website, and the page you link to when you leave the 
+					Skis.com Website, which of our pages you access, and how 
+					long you spend on each page. <br>
+					<br>
+					The Skis.com Website uses "cookies," which are small pieces 
+					of information stored on your computer. Cookies let our 
+					Website recognize<br>
+					previous visitors to our web page, record a visitor's 
+					progress from page to page, and recall certain information a 
+					visitor entered<br>
+					previously. For instance, a cookie may store your password, 
+					or note that you're interested in electronics. You can 
+					choose to decline our <br>
+					cookies (e.g., by setting your browser to reject cookies), 
+					but if you do, some parts of the Skis.com website may not 
+					operate properly. We <br>
+					may also use tracking images and applets to collect the same 
+					information. <br>
+					<br>
+					We may use third-party advertising companies to serve ads on 
+					our behalf. These companies may employ cookies and action 
+					tags (also known as <br>
+					single pixel gifs or web beacons) to measure advertising 
+					effectiveness. Any information that these third parties 
+					collect via cookies and <br>
+					action tags is completely anonymous.<br>
+					We allow third parties to collect aggregate and other 
+					anonymous information about our visitors through the 
+					Skis.com Website. Should we <br>
+					enter into agreements that allow third parties to collect 
+					personally identifiable information about our visitors, we 
+					will inform visitors <br>
+					of these activities at the location of the collection. <br>
+					Finally, note that our Website may or may not contains links 
+					to other sites on the Internet. Please remember that if you 
+					click on one of <br>
+					these links, you are leaving our Website and entering 
+					another. Again, we are not responsible for the privacy 
+					practices or the content of <br>
+					these other websites, and encourage you to read their 
+					privacy statements (which may differ from ours). <br>
+					&nbsp;
+					<p align="right"><a href="#top">return to top</a></p>
+					<br>
+					<h3 class="header3"><b>Using Your Information</b></h3>
+					This section describes how we use and disclose the 
+					information we collect.<br>
+					<br>
+					We use aggregate information about your behavior and 
+					equipment to improve the performance of our Website, and to 
+					evaluate your reaction to the content and design of our 
+					Website. We may use personally identifiable information to 
+					customize the content and layout of our Website's pages for 
+					you, to store your Skis.com account information, to record 
+					Skis.com Website session information (such as items you have 
+					added to your shopping cart) order status, and to store your 
+					purchase history.<br>
+					<br>
+					We also use personally identifiable and aggregate 
+					information for a variety of marketing and promotional 
+					purposes. For instance, we use what we have learned about 
+					your preferences to alert you to new areas when you return 
+					to our Website, or to help us or our business partners 
+					target advertising or product placements to your particular 
+					interests. <br>
+					<br>
+					From time to time we will send you emails related to the 
+					Skis.com Website. At various points during your visits to 
+					Skis.com, you are provided opportunities to indicate an 
+					interest in receiving email about special offers and other 
+					promotional information. If you do not wish to receive 
+					special offers and promotional information emails from us, 
+					please let us know by unchecking the "email notification"
+					<br>
+					request box on the Skis.com Website. You may also opt out of 
+					this promotional email list after you have registered by 
+					contacting us, or by following the "opt out" instructions 
+					that may be included in the emails you receive. <br>
+					<br>
+					If you supply us with your telephone numbers, you will only 
+					receive telephone contact from us regarding your Skis.com 
+					Website account, or orders you have placed online. We will 
+					not share your telephone number with other organizations.
+					<br>
+					&nbsp;
+					<p align="right"><a href="#top">return to top</a></p>
+					<p align="right">&nbsp;</p>
+					<br>
+					<h3 class="header3"><b>Security</b></h3>
+					Any Skis.com Website accounts you may have are 
+					password-protected. We recommend that you do not divulge 
+					your password to anyone. We will never ask you for your 
+					password in an unsolicited phone call or in an unsolicited 
+					email. <br>
+					<br>
+					We have instituted security measures in our physical 
+					facilities to protect against the loss, misuse or alteration 
+					of information that we have collected from you. In addition, 
+					we always use industry-standard encryption technologies when 
+					transferring and receiving customer data exchanged with our 
+					Website. We've also implemented industry standard security 
+					measures for our ISP. <br>
+					<br>
+					Please keep in mind, however, that no data transmission over 
+					the Internet or any wireless network can be guaranteed to be 
+					100% secure. As a result, we cannot guarantee the security 
+					of any information you transmit using our Website, and you 
+					transmit such information at your own risk. Skis.com further 
+					does not assume responsibility for use or disclosure of your 
+					information that are the result of unauthorized or illegal 
+					access to our systems or those of our vendors or partners.
+					<br>
+					<p align="right"><a href="#top">return to top</a></p>
+					<p align="right">&nbsp;</p>
+					<b><br>
+					<h3 class="header3"><b>Contact information</b></h3>
+					</b>Inquiries and requests relating to the Skis.com Website 
+					policy should be sent by email to help@Skis.com. You can 
+					also reach us at our mailing address:<br>
+					<br>
+					Skis.com Privacy Policy &amp; Customer Service<br>
+					Skis.com / Don Thomas Sporthaus<br>
+					330 Enterprise Court<br>
+					Bloomfield Hills, MI.<br>
+					&nbsp;
+					<p align="right"><a href="#top">return to top</a></p>
+					<p align="right">&nbsp;</p>
+					<h3 class="header3"><b>Policy changes</b></h3>
+										From time to time, we may use customer information for new, 
+					unanticipated uses not previously disclosed in our privacy 
+					notice. If we make such a change, we will post a notice on 
+					the Skis.com Website. If you are concerned about how your 
+					information is used, please check our Website periodically 
+					to review our current privacy policy. <br> 
+					<p align="right"><a href="#top">return to top</a><br></p></td>
+				</tr>
+			</tbody></table>
+</div>
+<table border="0" width="770" height="22">
+</table>						
+<!------- /central space -------->
+<center><table align="center" border="0" width="770" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td height="25" style="padding-left:5px;" colspan="2" align="left" background="/images/custom/offers_bottom_back.gif">
+			<font class="so_title2">
+			Your Special Offers from Skis.com</font><a class="jsmenuviewall" href="faq_offers.php"> - view all...</a></td>
+		</tr>
+				<tr>
+			<td width="770" colspan="2" align="center" bgcolor="#FFFFFF"><center>
+<table>
+	<tbody><tr>
+		<td align="left" style="border-left-style: solid; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			 		<tbody><tr>
+							
+		<td align="center" valign="top" style="border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px" width="128">
+		  <a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=67','offer','height=400, width=500, ,scrollbars=yes, status=no');">  <img src="/images/special_offers/iiklniafcjm.gif" alt="FREE Hoody w/Any<br>Mens Snowboard" vspace="2" border="0"></a><br>
+		    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="9">&nbsp;</td>
+				<td><div align="center"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=67','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		    <font class="so_title2">FREE Hoody!</font><br></a></div><div align="left"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=67','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		        <font style="text-decoration:none">FREE Hoody w/Any<br>Mens Snowboard</font>
+		      </a></div></td>
+			</tr>
+			</tbody></table>
+		      </td>
+							 				
+		<td align="center" valign="top" style="border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px" width="128">
+		  <a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=77','offer','height=400, width=500, ,scrollbars=yes, status=no');">  <img src="/images/special_offers/dgldfffjhca.gif" alt="Free Volant Ski Bag<br>with purchase of any skis." vspace="2" border="0"></a><br>
+		    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="9">&nbsp;</td>
+				<td><div align="center"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=77','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		    <font class="so_title2">Free Ski Bag</font><br></a></div><div align="left"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=77','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		        <font style="text-decoration:none">Free Volant Ski Bag<br>with purchase...</font>
+		      </a></div></td>
+			</tr>
+			</tbody></table>
+		      </td>
+							 				
+		<td align="center" valign="top" style="border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px" width="128">
+		  <a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=74','offer','height=400, width=500, ,scrollbars=yes, status=no');">  <img src="/images/special_offers/akflmbfnmii.gif" alt="Free $50 Gift Card w/ Mens Jackets" vspace="2" border="0"></a><br>
+		    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="9">&nbsp;</td>
+				<td><div align="center"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=74','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		    <font class="so_title2">Free Gift Card</font><br></a></div><div align="left"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=74','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		        <font style="text-decoration:none">Free $50 Gift Card w/ Mens Jackets</font>
+		      </a></div></td>
+			</tr>
+			</tbody></table>
+		      </td>
+							 				
+		<td align="center" valign="top" style="border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px" width="128">
+		  <a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=78','offer','height=400, width=500, ,scrollbars=yes, status=no');">  <img src="/images/special_offers/enbmhkcjaea.gif" alt="Free Race Pole w/<br>Any Race Ski!" vspace="2" border="0"></a><br>
+		    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="9">&nbsp;</td>
+				<td><div align="center"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=78','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		    <font class="so_title2">Free Race Pole</font><br></a></div><div align="left"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=78','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		        <font style="text-decoration:none">Free Race Pole w/<br>Any Race Ski!</font>
+		      </a></div></td>
+			</tr>
+			</tbody></table>
+		      </td>
+							 				
+		<td align="center" valign="top" style="border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px" width="128">
+		  <a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=80','offer','height=400, width=500, ,scrollbars=yes, status=no');">  <img src="/images/special_offers/iilgglgjfed.gif" alt="Free Backpack w/ Inline Skates" vspace="2" border="0"></a><br>
+		    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="9">&nbsp;</td>
+				<td><div align="center"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=80','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		    <font class="so_title2">Free Backpack!</font><br></a></div><div align="left"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=80','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		        <font style="text-decoration:none">Free Backpack w/ Inline Skates</font>
+		      </a></div></td>
+			</tr>
+			</tbody></table>
+		      </td>
+							 				
+		<td align="center" valign="top" style="border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px" width="128">
+		  <a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=79','offer','height=400, width=500, ,scrollbars=yes, status=no');">  <img src="/images/special_offers/iinffkhaajg.gif" alt="Free $50 Gift Card w/ Womens Jackets" vspace="2" border="0"></a><br>
+		    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="9">&nbsp;</td>
+				<td><div align="center"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=79','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		    <font class="so_title2">Free Gift Card</font><br></a></div><div align="left"><a href="javascript:void(0)" onclick="window.open('so_popup.php?soid=79','offer','height=400, width=500, ,scrollbars=yes, status=no');">
+		        <font style="text-decoration:none">Free $50 Gift Card w/ Womens Jackets</font>
+		      </a></div></td>
+			</tr>
+			</tbody></table>
+		      </td>
+						</tr></tbody></table>
+		</td>
+	</tr>
+</tbody></table></center>
+</td>
+		</tr>
+		</tbody></table>
+				
+		
+			</center></td></tr></tbody></table><div align="center">
+		<table border="0" width="770" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td align="center" height="2" valign="bottom" colspan="3">
+			</td>
+		</tr>
+		<tr>
+		  <td align="center" height="18" width="38" rowspan="2" valign="top">
+						<img src="/images/custom/cards_bottom.gif"></td>
+		  <td align="center" height="9" width="700">
+						<a class="footerlink2" href="/fts_sitemap.php">Sitemap</a> 
+						|
+						<a class="footerlink2" href="faq_shipping_delivery.php">Shipping</a> 
+						| <a class="footerlink2" href="faq_lowest_price.php">Low Price Guarantee</a>&nbsp;| <a class="footerlink2" href="faq_store_locator.php">Store Locator</a>| <a class="footerlink2" href="affpartner.php">Affiliates</a> | 
+						<a class="footerlink2" href="faq_return_exchange.php">Returns</a> | <a class="footerlink2" href="faq_privacy.php">Policies</a> |&nbsp;<a class="footerlink2" href="faq_guides.php">Sizing Guides</a></td>
+		  <td align="center" height="18" valign="top" width="32" rowspan="2">
+		 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.skis.com"><img src="//images.scanalert.com/meter/www.skis.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." border="0" align="right" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>		 </td>
+		</tr>
+		<tr>
+		  <td align="center" height="9" width="700">
+						<font class="footerlink4">*LIST PRICE IS FOR REFERENCE ONLY.  PICTURES ARE FOR REFERENCE ONLY, PRODUCT MAY VARY IN COLOR.<br>
+		  © 1953-2006, SKIS.COM - DON THOMAS SPORTHAUS - A DIVISION OF SUMMIT SPORTS INC. - <a href="faq_about_us.php">About Us</a> </font></td>
+		</tr>
+		</tbody></table>
+			</div>
+							
+					<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+					</script>
+					<script type="text/javascript">
+						_uacct = "UA-667136-1";
+						urchinTracker();
+					</script>
+				
+						
+			
+			<script type="text/javascript" src="http://summitonline.trk.sodoit.com/rts.js"></script>
+						</div></td></tr></tbody></table><!--<TIME all="0.71552205085754" sql="0.052311658859253" php="0.66321039199829">--></td></tr></tbody></table></body></html>
