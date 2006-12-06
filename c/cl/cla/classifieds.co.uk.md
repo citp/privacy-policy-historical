@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619074251id_/http%3A//www.classifieds.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206015056id_/http%3A//www.classifieds.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Classifieds.co.uk - Privacy Policy
 
@@ -37,9 +37,7 @@ This information is used to obtain payment for services you have ordered from us
 
 * 4 Your Classifieds.co.uk personal profile 
 
-If you respond to an advert via the "Contact Advertiser" link on our website, an email will be sent to the advertiser from your email address. The advertiser will be able to view see email address and reply directly to you. 
-
-When you post an advert on our site, you can choose whether or not to include any contact information within the content of the advert. You do not have to do this and can make use of the "Contact Advertiser" feature provided by us instead. 
+When you post an advert on our site, you can choose whether or not to include any contact information within the content of the advert. You do not have to do this and can make use of the "Contact Advertiser" feature provided by us instead which does not disclose your email address to other users. 
 
 We ask you for your location and postcode. Your postcode is not displayed within the advert and is used purely for the purposes of our search software which allows users to locate items or services that are available within a particular range of a their own postcode. 
 
