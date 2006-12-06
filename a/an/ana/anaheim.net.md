@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213442id_/http%3A//www.anaheim.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206140037id_/http%3A//www.anaheim.net/article.asp%3Fid%3D498) for the most accurate reproduction.*
 
 # City of Anaheim - Anaheim.Net Privacy and Disclosure Policy
 
@@ -12,7 +12,7 @@ _
 
 Collection of Information: 
 
-On certain occasions, the public has opportunities to share personal information online with the City in order to facilitate better correspondence and service. This information includes but is not limited to e-mail addresses, responses to surveys, registering for services and new services to be created. The City will not disclose this information to any third party, unless required to do so under federal or state law, including, but not limited to the California [Public Records Act](https://web.archive.org/061902pubrecact.htm?WAISdocID=5242159818%2B3%2B0&WAISaction=retrieve).
+On certain occasions, the public has opportunities to share personal information online with the City in order to facilitate better correspondence and service. This information includes but is not limited to e-mail addresses, responses to surveys, registering for services and new services to be created. The City will not disclose this information to any third party, unless required to do so under federal or state law, including, but not limited to the California [Public Records Act](https://web.archive.org/images/articles/498/061902pubrecact.htm?WAISdocID=5242159818%2B3%2B0&WAISaction=retrieve).
 
 Use of Information:
 
@@ -49,5 +49,3 @@ _
   * The City web site employs industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. 
 
 
-
-[DeepMetrix Privacy Policy](http://www.deepmetrix.com/legal/privacy/products/)
