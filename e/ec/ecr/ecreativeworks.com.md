@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617021448id_/http%3A//www.ecreativeworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020157id_/http%3A//www.ecreativeworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Ecreativeworks - Privacy Policy
+# About ecreativeworks Minnesota Web Design Firm - Industrial Business Web Site Design
+
+[Home](http://www.ecreativeworks.com/index.htm) > Privacy Policy
 
 Ecreativeworks is committed to protecting the privacy of visitors to our website and will not sell or provide any non-public personal information to anyone without your permission. 
 
@@ -33,3 +35,5 @@ Changing your non-public personal information.
 Ecreativeworks provides you with the opportunity to change your non-public personal information online for all registration information. Please contact Ecreativeworks to change any non-public personal information provided to us through a contact form. 
 
 If you have any questions or concerns about any privacy issues, please contact us at [privacy@ecreativeworks.com](mailto:privacy@ecreativeworks.com%20). 
+
+Interested? [Click here](http://www.ecreativeworks.com/contact.php) to request more information.
