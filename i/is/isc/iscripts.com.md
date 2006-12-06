@@ -1,27 +1,15 @@
-> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002000004id_/http%3A//www.hotscripts.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206012323id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
 
-# Hotscripts.com - The net's largest script repository and discussion forum
+# iScripts.com, free web software and scripts for your web site
 
-  
-**Privacy Policy**  
-(Adopted June 30, 2003)
+We recognize the importance of protecting the privacy of personal information about our customers. Personal information includes all of the personally identifying information that is provided to us. We are sensitive to these privacy interests and believes that protecting valuable personal/financial information is one of our most significant responsibilities. 
 
-This Privacy Policy governs the manner in which HotScripts collects, uses, maintains and discloses information collected from users of the HotScripts.com Web Site (each, a "User"). 
+The policies outlined below describe our policies to protect your privacy. 
 
-**Privacy**  
-HotScripts is committed to safeguarding the information Users entrust to HotScripts and believes every User should know how HotScripts utilizes the information collected from the Web Site. This Web Site is not directed at children under 13 years of age. However, children under the age of 13 which wish to participate in HotScripts Forum must submit a permission form prior to becoming a registered user.
+**:: Use, Collection and Retention of Client Information**  
+We collect, retain and use only the information about our customers that is required by law to administer our business and provide high level services to our clients. We retain this information no longer than necessary to meet these objectives. All transmitted credit card information is handled securely through digitally encrypted Secure Socket Layers (SSL) technology. 
 
-**The Information We Collect**  
-HotScripts may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. HotScripts may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use "cookies" to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site. We currently use third party ad networks to serve ads on our site. The cookies received with banner ads served by these networks are used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals, and HotScripts does not have access to this information.
+**:: Spam Policy**  
+Spam is flooding the Internet with many copies of the same message, in an attempt to force the message on people who would not otherwise choose to receive it. Email spam targets individual users with direct mail messages and costs the sender very little to send. Most of the costs are paid for by the recipient or the carriers rather than by the sender. 
 
-**How We Use Information**  
-HotScripts may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by HotScripts and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with HotScripts and such affiliates, independent contractors and business partners. HotScripts may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of HotScripts, its trusted affiliates, independent contractors and business partners.
-
-**Disclosure of Information**  
-HotScripts may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of HotScripts' business.
-
-**Maintenance of Information**  
-Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
-
-**Questions**  
-Users may direct questions concerning this Privacy Policy by email to [privacy@hotscripts.com](mailto:%20privacy@hotscripts.com). 
+We don't condone the use of spam and the sending of unsolicited email in any form, nor do we control other web sites involvement and/or practices in this area.
