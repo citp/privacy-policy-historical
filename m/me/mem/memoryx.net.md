@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053846id_/http%3A//www.memoryx.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206021947id_/http%3A//memoryx.net/privacypolicy.html) for the most accurate reproduction.*
 
-# MemoryTen - Computer Memory Privacy Policy
+# Privacy Policy
 
+| | |   
+---|---|---  
+|  |  | FIND YOUR MEMORY |   
+---|---|---  
+|  |   
+---  
+  
+We guarantee 100% compatible ram memory upgrades for more than 50,000 different computers, notebooks, servers, digital cameras and electronic devices.  
+|  |   
+|  |   
+  
+  
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
  **Web Site Information Collection:** For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our ratings areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services. We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own products and services.
