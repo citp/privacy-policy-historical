@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231423id_/http%3A//www.cartoonnetwork.com.ph/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206081641id_/http%3A//www.cartoonnetwork.com.ph/jsp/help/privacy.jsp) for the most accurate reproduction.*
 
 # Cartoon Network - Privacy Policy
 
