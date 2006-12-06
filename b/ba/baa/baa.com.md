@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616110223id_/http%3A//www.baa.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3D9c76afd191b04010VgnVCM10000036821c0a____%26ChPath%3DGlobal%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206040257id_/http%3A//www.baa.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3D9c76afd191b04010VgnVCM10000036821c0a____%26ChPath%3DGlobal%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
 
 # BAA: Privacy Statement
 
 Please read carefully
 
 1.Introduction  
-BAA plc and its group companies including World Duty Free ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
+BAA Limited and its group companies including World Duty Free ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
 
 2\. The information we collect through the Website and the way we use it  
 If you give us your personal details when you use the Website, we will inform you of the uses we make of that information at the time we collect it from you.
@@ -14,7 +14,7 @@ You may be asked to give us personal details when subscribing to a service, taki
 
 If you are giving us your personal details in the course of subscribing for a service (for example a newsletter), then we will of course use it in order to provide you with that service.
 
-If you purchase a travel service from us (such as car parking, insurance or lounge spaces), we will, unless you object, use that information to send you a limited number of communications each year relating to similar products and services. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+If you purchase a travel service from us (such as car parking or lounge spaces), we will, unless you object, use that information to send you a limited number of communications each year relating to similar products and services. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
 We would also like, with our partners, to be able to communicate with you relating to other offers relating to travel, travel services, duty free and airport shopping. We always choose our partners carefully to ensure that you will find those communications of interest. However we recognise that not all of our passengers like to receive this kind of communication and therefore we will not do so unless you have specifically chosen to receive it.
 
