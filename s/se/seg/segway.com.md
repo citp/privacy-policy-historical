@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segway.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316155754id_/http%3A//segway.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segway.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206172334id_/http%3A//www.segway.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # Segway | Privacy Policy
 
@@ -16,7 +16,7 @@ For ordinary users, only a name and email address is requested for these interac
   * **Fulfilling your transaction request**  
 If you request something from Segway Inc., such as a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share relevant information with others such as shipping carriers, product orientation providers, merchant bankers, postal or government authorities (for example, custom authorities) involved in the fulfillment. In connection with a transaction, we may also contact you as a part of our customer satisfaction surveys or for market research purposes. 
   * **Affiliated Businesses  
-**For a limited time, Segway HTs are available for purchase online exclusively through Amazon.com. In order to fulfill customer orders, Amazon.com will transfer the following customer information to us and a third-party product orientation company: Customer's name, address, email address, units ordered, and amount of deposit collected. Customers will be sent an email from Segway Inc. with instructions on how to complete their order, balance due, and shipping information when their units are ready to ship. 
+**For a limited time, Segway PTs are available for purchase online exclusively through Amazon.com. In order to fulfill customer orders, Amazon.com will transfer the following customer information to us and a third-party product orientation company: Customer's name, address, email address, units ordered, and amount of deposit collected. Customers will be sent an email from Segway Inc. with instructions on how to complete their order, balance due, and shipping information when their units are ready to ship. 
   * **With Your Consent**  
 Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
   * **Cookies**  
