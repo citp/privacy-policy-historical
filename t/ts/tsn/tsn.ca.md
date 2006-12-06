@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415001754id_/http%3A//www.tsn.ca/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206193224id_/http%3A//www.tsn.ca/help/privacy) for the most accurate reproduction.*
 
-# TSN.ca - Help - Canada's Sports Leader
+# TSN : HELP - Canada's Sports Leader
 
 ### Bell Globemedia Website Privacy Policy
 
@@ -119,5 +119,5 @@ Cookies are used on many major web sites. Most browsers are initially set up to 
 
 Certain BGM Services may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow BGM to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about BGM Service usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Certain BGM Service web pages may also contain Web beacons placed there by our advertising partners to help BGM determine the effectiveness of our Internet advertising campaigns. 
 
-_Copyright 2004 Bell Globemedia Inc.  
+_Copyright 2006 Bell Globemedia Inc.  
 All Rights Reserved. _
