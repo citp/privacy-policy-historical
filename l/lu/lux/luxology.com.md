@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxology.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616145832id_/http%3A//luxology.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxology.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206094910id_/http%3A//www.luxology.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Luxology > About Us
 
@@ -10,7 +10,7 @@ At Luxology we take privacy very seriously. We hate SPAM, unless it's fried SPAM
   * Use gathered information to determine ways to customize and improve our site to fit the needs of our users.
   * Use cookies to store information about users so that we can remember information to make visiting our site a more personalized and enjoyable experience.
   * Use your registered email address to contact you regarding administrative issues with your account only if the information is specific to you and cannot be presented in any other manner. 
-  * Send important information and announcements about Luxology to your registered email address only if you have chosen to opt into the mailing list through your account preferences. If at any time you have problems with your preferences and wish to be removed from this service please send email to webmaster@luxology.net
+  * Send important information and announcements about Luxology to your registered email address only if you have chosen to opt into the mailing list through your account preferences. If at any time you have problems with your preferences and wish to be removed from this service [contact us](https://web.archive.org/support/contact.aspx?contact=Web).
 
 
 
