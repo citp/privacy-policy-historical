@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619063139id_/http%3A//www.abcactionnews.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206030426id_/http%3A//www.abcactionnews.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
 # ABC Action News - About Us
 
@@ -51,4 +51,4 @@ The Privacy Policy was modified on 09/2/2005 and is effective as of 09/2/2005.
 
 The User Agreement was modified on 09/2/2005 and is effective as of 09/2/2005. 
 
- [Read user agreement](https://web.archive.org/web/20060619063139id_/http%3A//www.abcactionnews.com/aboutus/legal.shtml)
+ [Read user agreement](https://web.archive.org/web/20061206030426id_/http%3A//www.abcactionnews.com/aboutus/legal.shtml)
