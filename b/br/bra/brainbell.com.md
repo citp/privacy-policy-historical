@@ -1,53 +1,6 @@
-> *The following text is extracted and transformed from the brainbell.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190436id_/http%3A//brainbell.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbell.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206192455id_/http%3A//www.brainbell.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Free web development resources, web designing, graphics designing, tutorials, tips & articles
-
-[ASP](http://www.brainbell.com/tutorials/ASP "ASP Tutorials")
-
-[PHP](http://www.brainbell.com/tutorials/php "PHP Tutorials")
-
-[PHP & MySQL](http://www.brainbell.com/tutors/php/php_mysql/introduction.html "PHP and MySQL Tutorials")
-
-[A+ Certification](http://www.brainbell.com/tutors/A+ "A+ Tutorials")
-
-[XML](http://www.brainbell.com/tutors/XML "XML Tutorials")
-
-[Visual Basic](http://www.brainbell.com/tutors/Visual_Basic "Visual Basic Tutorials")
-
-[Perl](http://www.brainbell.com/tutors/Perl "Perl Tutorials")
-
-[Advice for C](http://www.brainbell.com/tutors/c/Advice_and_Warnings_for_C "C Tutorials")
-
-[C Sharp](http://www.brainbell.com/tutors/C_Sharp/Inside_C_Sharp "C Sharp Tutorials")
-
-[HTML & CSS](http://www.brainbell.com/tutorials/HTML_and_CSS "HTML and CSS Tutorials")
-
-[MS-Office](http://www.brainbell.com/tutorials/ms-office "MS-Office Tutorials")
-
-[MS-PowerPoint](http://www.brainbell.com/tutorials/ms-office/PowerPoint "Microsoft PowerPoint Tutorials")
-
-[MS-Word](http://www.brainbell.com/tutorials/ms-office/Word "Microsoft Word Tutorials")
-
-[MS-Excel](http://www.brainbell.com/tutorials/ms-office/excel "Microsoft Excel Tutorials")
-
-[MS-Access](http://www.brainbell.com/tutorials/ms-office/Access_2003 "Microsoft Access Tutorials")
-
-[MS-FrontPage](http://www.brainbell.com/tutorials/ms-office/FrontPage_2003 "Microsoft FrontPage Tutorials")
-
-[MySQL](http://www.brainbell.com/tutorials/MySQL "MySQL Tutorials")
-
-[Photoshop](http://www.brainbell.com/tutorials/Photoshop "Photoshop Tutorials")
-
-[Flash](http://www.brainbell.com/tutorials/Flash "Flash Tutorials")
-
-[Java](http://www.brainbell.com/tutorials/java "Java Tutorials")
-
-[XML (new)](http://www.brainbell.com/tutorials/XML "XML Tutorials")
-
-[Networking](http://www.brainbell.com/tutorials/Networking "Networking Tutorials")
-
-  
-| 
 
 BrainBell respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. Please read the following to learn more about our privacy policy.
 
@@ -66,4 +19,4 @@ By using the BrainBell, you consent to the collection and use of information by 
 If you have questions or comments about BrainBell's privacy policy, please feel free to contact us at [ Admin@BrainBell.com](mailto:Admin@BrainBell.com).
 
   
-| 
+
