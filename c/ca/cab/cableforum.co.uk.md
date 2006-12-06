@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableforum.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204419id_/http%3A//www.cableforum.co.uk/about/22/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableforum.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206125350id_/http%3A//www.cableforum.co.uk/about/22/privacy-policy) for the most accurate reproduction.*
 
 # Cable Forum: Privacy Policy
 
@@ -17,7 +17,7 @@ We have the following privacy seals and/or dispute resolution mechanisms. If you
 
 ##### Additional Information
 
-This policy is valid until 1 Jan, 2006 at 12:00:00 GMT.
+This policy is valid until 1 Jan, 2008 at 12:00:00 GMT.
 
 #### Data Collection
 
@@ -129,5 +129,3 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 For your information, the compact policy which corresponds to this policy is:
 
 CP=”CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa CONa OUR STP BUS IND PHY ONL UNI COM NAV INT DEM STA PRE” 
-
-[Permalink](http://www.cableforum.co.uk/about/22/privacy-policy "Permanent link to this article") | Last updated: 12. March 2004
