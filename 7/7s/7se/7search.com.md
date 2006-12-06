@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7search.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625014856id_/http%3A//7search.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7search.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020643id_/http%3A//7search.com/privacy.htm) for the most accurate reproduction.*
 
 # About 7Search - PPC Pay for Placement/Performance, Affiliate Programs
 
