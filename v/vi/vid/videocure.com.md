@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the videocure.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020123id_/http%3A//videocure.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocure.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206195018id_/http%3A//www.videocure.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 [0-9](https://web.archive.org/music-videos/0-9/)   [A](https://web.archive.org/music-videos/a/)   [B](https://web.archive.org/music-videos/b/)   [C](https://web.archive.org/music-videos/c/)   [D](https://web.archive.org/music-videos/d/)   [E](https://web.archive.org/music-videos/e/)   [F](https://web.archive.org/music-videos/f/)   [G](https://web.archive.org/music-videos/g/)   [H](https://web.archive.org/music-videos/h/)   [I](https://web.archive.org/music-videos/i/)   [J](https://web.archive.org/music-videos/j/)   [K](https://web.archive.org/music-videos/k/)   [L](https://web.archive.org/music-videos/l/)   [M](https://web.archive.org/music-videos/m/)   [N](https://web.archive.org/music-videos/n/)   [O](https://web.archive.org/music-videos/o/)   [P](https://web.archive.org/music-videos/p/)   [Q](https://web.archive.org/music-videos/q/)   [R](https://web.archive.org/music-videos/r/)   [S](https://web.archive.org/music-videos/s/)   [T](https://web.archive.org/music-videos/t/)   [U](https://web.archive.org/music-videos/u/)   [V](https://web.archive.org/music-videos/v/)   [W](https://web.archive.org/music-videos/w/)   [X](https://web.archive.org/music-videos/x/)   [Y](https://web.archive.org/music-videos/y/)   [Z](https://web.archive.org/music-videos/z/)    
   
   
+  
+
+
+**MySpace Users:** If you noticed that music video codes stopped working recently, please replace your old code with a new one from our website. You can use your myspace login to directly embed your myspace music video code to your profile without copying and pasting the video code. Also, you can register on VideoCure to get your playlist myspace code for free. Enjoy your video on your profile and do not forget to tell your friends about our free myspace music videos. 
+
   
 |   
 
@@ -50,6 +56,6 @@ To report illegal content please:
   
 
 
-| **Last Update** :|  June 13, 2006  
----|---  
-**Total Videos** :|  25.951
+[](http://www.songarea.com/)  
+  
+---|---
