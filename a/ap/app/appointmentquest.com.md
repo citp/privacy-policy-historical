@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613065848id_/http%3A//appointmentquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206115007id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppointmentQuest Online Scheduling Software
 
@@ -47,6 +47,10 @@ When our registration/order form asks users to enter sensitive information, such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices and data center space. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all our employees are kept up-to-date on our security and privacy practices. Every time new policies are added, all of our employees are notified. Finally, the servers that store personally identifiable information are in a secure environment within controlled access facility, locked in private cabinets.
 
+ **Testimonial Disclosure**
+
+We post customer testimonials on our web site at <http://www.appointmentquest.com/testimonials>. Customer testimonials may contain personally identifiable information such as the customer's name, business name, city, state, and web address. We do obtain the customer's consent prior to posting the testimonial to post their personally identifiable information along with their testimonial.
+
  **Changes to Personal Information**
 
 If a user’s personally identifiable information changes (such as company name, phone, e-mail, postal address, etc.), or if a user no longer desires AppointmentQuest services, we provide a way to correct, update or deactivate users’ personally identifiable information. To review and update your personal contact information, login to your account at <http://www.appointmentquest.com/business> and go to Account Setup Center. AppointmentQuest partners can update their contact information by logging into their partner account at <http://www.appointmentquest.com/partner> and clicking on the Partner Business Profile link. If you would like to review other personal information that AppointmentQuest may have about you, e-mail us at privacy@appointmentquest.com.
@@ -93,10 +97,6 @@ AppointmentQuest web site contains links to other sites. Please be aware that we
 
 From time-to-time AppointmentQuest requests information from users via surveys and feedback requests. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information only. Contact information will be used only to facilitate communication between AppointmentQuest and survey participants. Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of AppointmentQuest services. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.
 
- **Referrals**
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. AppointmentQuest will send the friend a one-time e-mail inviting them to visit the site. AppointmentQuest does not store referral information after sending this one-time e-mail.
-
  **Agents**
 
 AppointmentQuest uses a credit card processing company to bill you for services. Credit card transactions are processed by Verisign Inc., which has confidentiality of transactions covered by their privacy policy. Verisign performs secure encrypted credit card transactions for thousands of companies and has stringent security measures in place. Verisign does not retain, share, store or use personally identifiable information for any purposes other than processing credit card transactions.
@@ -119,4 +119,4 @@ privacy@appointmentquest.com
 Broomfield, CO 80020  
 [www.appointmentquest.com](http://www.appointmentquest.com/)
 
-Last updated August 18, 2005 (08/18/2005)
+Last updated October 18, 2006 (10/18/2006)
