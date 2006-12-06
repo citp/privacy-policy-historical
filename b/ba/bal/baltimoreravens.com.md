@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613040315id_/http%3A//baltimoreravens.com/news/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206045342id_/http%3A//www.baltimoreravens.com/news/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Baltimore Ravens
 
