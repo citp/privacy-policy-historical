@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feedzilla.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205850id_/http%3A//www.feedzilla.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedzilla.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206222945id_/http%3A//www.feedzilla.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# FEEDZILLA :: Privacy policy
+# Privacy policy
 
 ## FeedZilla Privacy Policy 
 
