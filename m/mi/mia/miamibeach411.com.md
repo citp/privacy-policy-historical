@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615171518id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206132108id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-By using Miami Beach 411 (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. This Privacy Policy Statement applies only to this Site and the data collected on-line through this site. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20060615171518id_/http%3A//www.miamibeach411.com/mb411/copyright.html).
+By using Miami Beach 411 (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. This Privacy Policy Statement applies only to this Site and the data collected on-line through this site. For terms and conditions that apply to your use of the Site, please review our [Liscensing information](https://web.archive.org/web/20061206132108id_/http%3A//www.miamibeach411.com/mb411/liscensing.htm).
 
-We communicate with site users by telephone and email. For customer support or to request offline contact information (phone, fax, and mailing address), use this email address: [support@miamibeach411.com](mailto:support@miamibech411.com)
+We communicate with site users by telephone and email. **
+
+Mailing address
+
+**  
+Miami Beach 411, Inc  
+1521 Alton Road # 233, Miami Beach, FL 33139  
+Phone: **(305) 754-2206**  
+Email: support@miamibeach411.com
 
 Upon receipt of a communication, we use email to respond to the requests and inquiries of Site users. Email addresses and other identifiable information that comes from email exchanges (such as from signature lines) is kept confidential and is not shared. 
 
@@ -19,5 +27,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 Upon request we offer Users the ability to have inaccuracies corrected in contact information. Users can have this information corrected by sending us an emaill at the address below.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected.
+
+For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20061206132108id_/http%3A//www.miamibeach411.com/mb411/copyright.html). 
 
 If you feel that this site is not following its stated information policy, you may contact us at [support@miamibeach411.com](mailto:support@miamibeach411.com).
