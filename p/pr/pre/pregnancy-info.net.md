@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pregnancy-info.net privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620060305id_/http%3A//www.pregnancy-info.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy-info.net privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207000950id_/http%3A//www.pregnancy-info.net/privacy.html) for the most accurate reproduction.*
 
 # SELECTED: Privacy Policy PREGNANT
 
-By using this site, you agree to the terms of this Privacy Policy and the [Terms of Use and Disclaimer](https://web.archive.org/web/20060620060305id_/http%3A//www.pregnancy-info.net/terms_disclaimer.html), Hearthstone Communications Ltd. collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu. 
+By using this site, you agree to the terms of this Privacy Policy and the [Terms of Use and Disclaimer](https://web.archive.org/web/20061207000950id_/http%3A//www.pregnancy-info.net/terms_disclaimer.html), Hearthstone Communications Ltd. collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu. 
 
 The above-described information (Personally-Identifying Information) may be used by Hearthstone Communications Ltd. to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by Hearthstone Communications Ltd. 
 
@@ -11,4 +11,4 @@ Hearthstone Communications Ltd. also may share your Personally-Identifying Infor
 You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a "chat room," or otherwise specifically and knowingly disclose by use of the Forums, may be directly collected and used by third parties. Therefore, you may be subject to unsolicited email as a result of your disclosure of such information. You should have no expectation of privacy with respect to your communications through the forums. 
 
   
-
+Banner
