@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616012733id_/http%3A//www.netins.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014335id_/http%3A//www.netins.net/privacy.htm) for the most accurate reproduction.*
 
 # netINS Privacy Policy
 
@@ -20,8 +20,8 @@ This Privacy Policy is a demonstration of our commitment to making the Internet 
 **Web Site Requests  
 **Instances may occur when you wish to use a service associated with normal Internet connection service. NetINS may need you to fill out an online request form to activate these services. Information gathered for these services is used strictly to enable your new service. Information submitted to netINS in this scenario will not be shared with any third party. 
 
-**Use of netINS service on Third Party web sites  
-**The Internet connectivity netINS provides you can be used to submit personal information to third party web sites. NetINS has no control over the security of this type of submission.
+**Use of netINS service on Third Party Web sites  
+**The Internet connectivity netINS provides you can be used to submit personal information to third party Web sites. NetINS has no control over the security of this type of submission.
 
 **Where to Direct Questions About netINS’ Privacy Policy  
 **NetINS will respond to queries made to the appropriate parties in the quickest fashion possible. Direct queries to:
