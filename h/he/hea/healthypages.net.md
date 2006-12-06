@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypages.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615131856id_/http%3A//www.healthypages.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypages.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206012122id_/http%3A//www.healthypages.net/privacy.asp) for the most accurate reproduction.*
 
 # HealthyPages - Complementary health, natural therapies and alternative medicine
 
