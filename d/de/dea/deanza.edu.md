@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615235312id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206215939id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Statement
 
