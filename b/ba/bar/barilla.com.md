@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barilla.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618185147id_/http%3A//www.barillaus.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barilla.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206051605id_/http%3A//www.barillaus.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Barilla: Italian Pasta Recipes and Information
 
