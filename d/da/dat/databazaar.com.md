@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214522id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206112001id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
 
-# 
+# Databazaar Privacy Policy
 
 Databazaar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Consumer WebWatch, a division of Consumer Reports, has named Databazaar as one of America’s 75 Praiseworthy e-commerce companies. **Databazaar.com supports the Consumer WebWatch guidelines to promote credible information practices on the Web.** The following discloses our information gathering and dissemination practices for this website: Databazaar.com. 
 
@@ -34,4 +34,9 @@ This website gives users the following options for changing and modifying inform
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this Website, you can contact 
 
-Oney Seal Databazaar.com 12070 Miramar Parkway Miramar, FL 33025 oney@databazaar.com 954-843-0483 x105 
+Oney Seal  
+Databazaar.com  
+12070 Miramar Parkway  
+Miramar, FL 33025  
+oney@databazaar.com  
+954-843-0483 x105 
