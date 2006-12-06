@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050908id_/http%3A//www.aihw.gov.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206203747id_/http%3A//www.aihw.gov.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy (AIHW)
 
@@ -14,7 +14,7 @@ Canberra ACT 2601
 Tel 61 2 6244 1000  
 Fax 61 2 6244 1299
 
-Email [info@aihw.gov.au](mailto:info@aihw.gov.au?subject=AIHW%20services%20enquiry&body=%0D----------%0DBrowser%3A%20Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36%0DURL%3A%20https%3A//web.archive.org/web/20060615050908id_/http%253A//www.aihw.gov.au/privacy.cfm%0D)
+Email [info@aihw.gov.au](mailto:info@aihw.gov.au?subject=AIHW%20services%20enquiry&body=%0D----------%0DBrowser%3A%20Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36%0DURL%3A%20https%3A//web.archive.org/web/20061206203747id_/http%253A//www.aihw.gov.au/privacy.cfm%0D)
 
 Web www.aihw.gov.au
 
@@ -22,6 +22,8 @@ A proud partner of
 [](http://www.healthinsite.gov.au/ "HealthInsite")
 
 #### New releases
+
+[more](https://web.archive.org/publications/index.cfm)
 
 #### Popular titles
 
