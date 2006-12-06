@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616110906id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206142445id_/http%3A//arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # Arsenal World - the definitive Arsenal website. Independent news and stats from footymad.net
 
