@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224530id_/http%3A//www.artinstitutes.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206135250id_/http%3A//www.artinstitutes.edu/privacy.asp) for the most accurate reproduction.*
 
-# PRIVACY POLICY OF THE ART INSTITUTES - The Art Institutes
+# Art Institutes - The Art Institutes
 
 PRIVACY POLICY OF THE ART INSTITUTES
 
