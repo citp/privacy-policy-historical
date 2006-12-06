@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616165654id_/http%3A//digitaluk.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206222140id_/http%3A//www.digitaluk.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Digital UK
 
-SwitchCo Limited, the operator of this website ("SwitchCo", "We", "Us" or "Our") respects the privacy of every individual who visits this [www.digitaluk.co.uk] site (the "Site"). This Privacy Policy governs the way in which We use and disclose any personal information (the "Personal Information") that you provide to Us whilst visiting the Site. Personal Information includes any information that identifies you personally, such as your name, address or email address.
+Digital UK  Limited, the operator of this website ("Digital UK", "We", "Us" or "Our") respects the privacy of every individual who visits this [www.digitaluk.co.uk] site (the "Site"). This Privacy Policy governs the way in which We use and disclose any personal information (the "Personal Information") that you provide to Us whilst visiting the Site. Personal Information includes any information that identifies you personally, such as your name, address or email address.
 
-Other than as set out in this Privacy Policy, SwitchCo will not disclose, rent or sell your personal information to any third party unrelated to Us without your prior permission, other than as required by law. 
+Other than as set out in this Privacy Policy, Digital UK will not disclose, rent or sell your personal information to any third party unrelated to Us without your prior permission, other than as required by law. 
 
 ## A. Our use of your Personal Information
 
@@ -22,8 +22,8 @@ We use the Personal Information We collect from visitors to the Site in the foll
 
 Your Personal Information may be collected via the Site in two ways:
 
-  * web-server logs; and
-  * the entering of email addresses.
+  * web-server logs; and 
+  * the entering of email addresses. 
 
 
 
@@ -47,18 +47,18 @@ We do not currently use cookies on Our Site.
 
 ## D. Registration
 
-SwitchCo is registered with the Office of the Information Commissioner in accordance with the requirements of the Data Protection Act 1998 (as amended). 
+Digital UK is registered with the Office of the Information Commissioner in accordance with the requirements of the Data Protection Act 1998 (as amended). 
 
 ## E. Hyperlinks to other websites
 
-This Site contains hyperlinks to websites owned and operated by third parties. These websites have their own privacy policies and We urge you to review them. They will govern the use of Personal Information you submit whilst visiting these websites. SwitchCo does not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk. 
+This Site contains hyperlinks to websites owned and operated by third parties. These websites have their own privacy policies and We urge you to review them. They will govern the use of Personal Information you submit whilst visiting these websites. Digital UK does not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk. 
 
 ## F. Your right to see your Personal Information
 
-You have the right to request a copy of the Personal Information that SwitchCo holds on you and to have any errors in that information corrected. We will not charge for such requests. Please address your request to Web Feedback, SwitchCo Limited, Met Building, 22 Percy Street, London W1T 2BU. We will use reasonable efforts to supply, correct or delete Personal Information about you on Our files. 
+You have the right to request a copy of the Personal Information that Digital UK holds on you and to have any errors in that information corrected. We will not charge for such requests. Please address your request to Web Feedback, Digital UK Limited, Met Building, 22 Percy Street, London W1T 2BU. We will use reasonable efforts to supply, correct or delete Personal Information about you on Our files. 
 
 ## G. Changes to this Privacy Policy
 
 From time to time We may update this Privacy Policy. When We do We will publish the changes on this Site. If you do not agree to these changes, please do not continue to use the Site. 
 
-If you have any queries about this Privacy Policy please write to Web Feedback, SwitchCo Limited, Digital UK, Met Building, 22 Percy Street, London W1T 2BU 
+If you have any queries about this Privacy Policy please write to Web Feedback, Digital UK Limited, Digital UK, Met Building, 22 Percy Street, London W1T 2BU 
