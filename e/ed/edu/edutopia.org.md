@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613060812id_/http%3A//edutopia.org/foundation/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120624id_/http%3A//www.edutopia.org/foundation/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ If you have any questions about this privacy statement, the practices of this We
 The George Lucas Educational Foundation  
 PO Box 3494  
 San Rafael, CA 94912  
-415-507-0399  
+415-662-1600  
 [webmaster@glef.org](mailto:webmaster@glef.org)
 
   
