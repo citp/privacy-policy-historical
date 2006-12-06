@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615235435id_/http%3A//www.amerisave.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206224639id_/http%3A//www.amerisave.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Amerisave Privacy Policy
 
@@ -18,7 +18,7 @@ Some of the Information Provided by You and Collected by Amerisave:
 
 Amerisave takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. When our application form asks users to enter sensitive information, it is encrypted and is protected with the best encryption software in the industry - SSL (Secure Sockets Layer). While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked.
 
-Amerisave will contact you via email and phone during your loan process as needed to complete your loan. We may also contact you in the future to provide information in regards to other financial or consumer products we feel you may have an interest in. You may opt-out of any correspondence which is not directly linked to a specific product you have applied for, by sending an email to customer service, visiting our website or following the instructions found on such correspondence.
+Amerisave will contact you via email and phone during your loan process as needed to complete your loan. We may also contact you in the future to provide information regarding other financial or consumer products that we feel may interest you. You may opt-out of any correspondence which is not directly linked to your transaction by clicking on the [manage email subscriptions](https://web.archive.org/returningcustomers/SubscriptionManage.cfm) link in any non-transactional email. Customers may not opt-out of emails directly related to their transaction with Amerisave.
 
 Amerisave  
 3525 Piedmont Road  
