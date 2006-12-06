@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpackit.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628062559id_/http%3A//www.backpackit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpackit.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120623id_/http%3A//www.backpackit.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -29,8 +29,11 @@ COOKIES
 
 
 
-CLIENT DATA STORAGE  
-Although 37signals owns the data storage, databases and all rights to the Backpack application, you retain all rights to your data. We will never sell or share your client data with any third-parties (unless, of course, the product or our company is sold), or use your data for our own business advantage. We respect the privacy of our subscribers, and the privacy of their client data. 
+DATA STORAGE  
+37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Backpack. Although 37signals owns the code, databases, and all rights to the Basecamp application, you retain all rights to your data. 
+
+INFORMATION RIGHTS AND PUBLICITY  
+Unless you notify 37signals otherwise in writing, You hereby grant to 37signals and its wholly owned subsidiaries a limited license to use Your trade names, trademarks, service marks, logos, domain names and other distinctive brand features ("Brand Features") in presentations, marketing materials, web sites, customer lists, and financial reports.
 
 DISCLOSURE  
 
@@ -43,6 +46,6 @@ CHANGES
 37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Backpack primary account holder account or by placing a prominent notice on our site. 
 
 QUESTIONS  
-Any questions about this Privacy Policy should be addressed to [privacy@basecamphq.com](mailto:privacy@basecamphq.com) or by mail at: 37signals, 400 North May Street #301, Chicago, IL 60622 USA 
+Any questions about this Privacy Policy should be addressed to support at 37signals.com or by mail at: 37signals, 400 North May Street #301, Chicago, IL 60622 USA 
 
 Copyright 2003-2005 37signals LLC. All rights reserved.
