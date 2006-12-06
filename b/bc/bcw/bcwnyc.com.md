@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512174453id_/http%3A//www.bcwnyc.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206164040id_/http%3A//www.bcwnyc.com/privacy_policy.php) for the most accurate reproduction.*
 
 # chiropractor New York, Patient Privacy - New York chiropractor
 
