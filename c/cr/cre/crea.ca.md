@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616205034id_/http%3A//www.crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206221701id_/http%3A//www.crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
 
 # CREA
 
 THE CANADIAN REAL ESTATE ASSOCIATION  
 Policy On the Collection, Use and Disclosure  
 Of Personal Information  
-“Privacy Policy”
+"Privacy Policy"
 
 **BACKGROUND**
 
@@ -23,14 +23,14 @@ DEFINITIONS
 
 For the purpose of this Policy: 
 
-**_“Personal Information”_** means any information about an identifiable individual but does not include: 
+**_"Personal Information"_** means any information about an identifiable individual but does not include: 
 
   1. The name, title, business address or telephone number of an employee of an organization; 
   2. Aggregated information that cannot be associated with a specific individual. 
 
 
 
-**_“Member”_** ****includes, for the purpose of this Policy, licensed brokers and salespersons belonging to member Boards/Associations and individuals belonging either directly to CREA or to Councils of CREA. ****
+**_"Member"_** ****includes, for the purpose of this Policy, licensed brokers and salespersons belonging to member Boards/Associations and individuals belonging either directly to CREA or to Councils of CREA. ****
 
 COLLECTION, USE & DISCLOSURE OF PERSONAL INFORMATION 
 
@@ -56,7 +56,7 @@ Information on properties listed for sale on MLS® systems may be provided to CR
   * Any other purposes consistent with CREA's mission statement and strategic plan. 
 
 **DISCLOSURE TO THIRD PARTIES  
-**Certain Personal Information of Members, (name, licensed status, firm name and business contact information) is available to other Members of CREA through REALTOR Link™, a password-protected Intranet site. CREA may also disclose personal information of members to Boards/Associations or real estate regulators for membership or related purposes. 
+**Certain Personal Information of Members, (name, licensed status, firm name and business contact information) is available to other Members of CREA through REALTOR LinkT, a password-protected Intranet site. CREA may also disclose personal information of members to Boards/Associations or real estate regulators for membership or related purposes. 
 
 CREA may also disclose Personal Information of Members to third parties, such as lawyers, consultants, affinity partners or others who work with CREA to collect and analyse information from Members, to improve the products and services offered by CREA or to provide products and services to Members. Some of these third parties may send information to or contact the individual as part of membership surveys. 
 
