@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615143305id_/http%3A//www.interrailnet.com/privacypolicy.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120910id_/http%3A//www.interrailnet.com/privacypolicy.dhtml) for the most accurate reproduction.*
 
-# Inter Rail
+# InterRail - cheap and student travel around Europe
 
 | **Collection of information  
 **Any information that you provide us voluntarily (e.g., user name, e-mail address, phone number) will be retained by us. If you send us personal correspondence, such as e-mails or letters, we may collect such information into a file specific to you. All such information collected by us (collectively, "Personally Identifiable Information") shall become our property throughout the world. In accordance with Data Protection regulations, you have the right to access, modify, correct or remove the information held about you from our database. This may be done by writing to : Grandes Lignes International, Tour Mattei, 207 rue de Bercy, F - 75012 Paris.  
