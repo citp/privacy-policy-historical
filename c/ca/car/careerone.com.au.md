@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020021id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014518id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -58,7 +58,7 @@ Whenever you voluntarily disclose personal information over the Internet that th
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
 
-[Contact us by using this web form](http://www.news.com.au/feedback/)
+[Contact us by using this web form](http://www.news.com.au/contactus)
 
 Or write to:  
 The Privacy Officer  
