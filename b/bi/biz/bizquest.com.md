@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194859id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206123216id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
 # Business for Sale | Buy A Business or Sell A Business | Privacy Policy - BizQuest.com
+
+[Home](http://www.bizquest.com/) > **Privacy Policy**
 
 BizQuest respects your privacy. Because we gather certain types of information from you, we feel it is important that you fully understand the terms and conditions under which we use the information we receive from you. We will never share personal information unless you elect to disclose it or otherwise as set forth in this Privacy Policy. Please read the following Privacy Policy to understand how your information will be treated as you make use of our services and products. 
 
