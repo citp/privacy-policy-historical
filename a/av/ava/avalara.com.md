@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315115555id_/https%3A//www.avalara.com/index.cfm/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206061559id_/http%3A//avalara.com/index.cfm/page/privacypolicy) for the most accurate reproduction.*
 
 # State sales tax software calculator for rates -- Avalara.
 
@@ -27,7 +27,7 @@ Please note that your personal information will be stored and processed on our c
 Notification of Changes  
 This policy may be revised over time as new features are added to the Avalara service or as we incorporate suggestions from our customers. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. Any material changes will be effective only after we provide you by e-mail with at least 30 days' notice of the amended Privacy Policy (if you have closed your Avalara account, you will not be contacted to notify you of the amended Policy and your personal information will not be used or disclosed in this new manner). 
 
-We will post the amended Privacy Policy prominently on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the Avalara Web site at [www.avalara.com](https://www.avalara.com/) at any time for the most current version of our Privacy Policy.
+We will post the amended Privacy Policy prominently on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the Avalara Web site at [www.avalara.com](http://www.avalara.com/) at any time for the most current version of our Privacy Policy.
 
 Avalara UserCenter and other pages on the Avalara Web site include links to third party Web sites. These sites are governed by their own privacy statements, and Avalara is not responsible for their operations, including but not limited to their information practices. Users submitting information to or through these third party Web sites should review the privacy statement of these sites before providing them with personally identifiable information.
 
@@ -92,6 +92,8 @@ Avalara will not sell or rent any of your personally identifiable information or
 
 9. We will share your information with a parent, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety. 
 
+10.  In accordance with SST Regulations, as outlined in [Section 321 of the Streamlined Sales and Use Tax Agreement](http://avalara.com/media/SSTContractSection321.pdf).
+
 Our Contacts with Avalara Customers  
 We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious activities. We use your e-mail address to confirm your opening of an Avalara account, to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional. 
 
@@ -117,7 +119,7 @@ You can review the personal information you provided us and make any desired cha
 F. Contacting Us  
 If you have any questions about this privacy statement, Avalara's information practices, or your dealings with Avalara, you can contact us, call 877-780-4848 Monday through Friday between the hours of 8am and 5pm PST, or write us at Avalara, 900 Winslow Way E. #130, Bainbridge Island, WA 98110. 
 
-[Back to top](https://www.avalara.com/index.cfm/page/privacypolicy#top)
+[Back to top](http://avalara.com/index.cfm/page/privacypolicy#top)
 
   | Copyright © 2005 Advantage Solutions, Inc.  All Rights Reserved    
 ---|---
