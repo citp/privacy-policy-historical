@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314194309id_/http%3A//www.zonelabs.com/store/content/company/privacy.jsp%3Fdc%3D12bms%26ctry%3DUS%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206162804id_/http%3A//www.zonelabs.com/store/content/company/privacy.jsp%3Fdc%3D12bms%26ctry%3DUS%26lang%3Den) for the most accurate reproduction.*
 
-# Zone Labs: Privacy Policy
+# Zone Labs by Check Point Software Technologies - Privacy Policy
 
 ZoneLabs.com Statement of Privacy
 
-This document was last updated December 21, 2005. Click here for changes.
+This document was last updated March 10, 2006.
 
 Zone Labs, L.L.C.. ("Zone Labs") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, [www.ZoneLabs.com](https://web.archive.org/store/content/home.jsp) on the World Wide Web (the "Site"), as well as for Zone Labs Internet-delivered services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete Zone Labs Privacy Policy.
 
@@ -18,7 +18,7 @@ ZoneLabs, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 
 If users have questions or concerns regarding this statement, you should first contact: [privacy@zonelabs.com](mailto:privacy@zonelabs.com). 
 
-If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/watchdog.html>). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site [www.zonelabs.com](https://web.archive.org/store/content/home.jsp), and does not cover information that may be collected through software downloaded from the site, nor through the Zone Labs User Forum at [http://forum.zonelabs.org](https://web.archive.org/store/content/support/userForum/userForum_agreement.jsp).
+If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site [www.zonelabs.com](https://web.archive.org/store/content/home.jsp), and does not cover information that may be collected through software downloaded from the site, nor through the Zone Labs User Forum at [http://forum.zonelabs.org](https://web.archive.org/store/content/support/userForum/userForum_agreement.jsp).
 
 By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). Zone Labs, L.L.C., A Check Point Company abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information on this program, please visit <http://export.gov/safeharbor/>.
 
@@ -56,7 +56,7 @@ Except as described below, Zone Labs will only disclose your personally identifi
 > **Surveys** : Zone Labs periodically requests information from users via surveys. Participation in these surveys is completely voluntary and you have a choice whether or not to disclose this information. Zone Labs uses both in-house and third-party Web-Based Interviewing Systems to compile the surveys. Information requested in the surveys may include broad demographic information (such as zip code, age level) for aggregate use and does not identify the user. No cookies are used. Survey information is not sold, shared, or rented to any third party, and is used internally solely by Zone Labs for purposes of improving the use and satisfaction of this Site, Services, and our products.
 
 **Affiliates**  
-When a user or a company signs up to be a marketing program affiliate, they do so through a third-party provider of affiliate marketing programs. Such third-party provider does share personally identifiable information about affiliates with Zone Labs. This information is not sold, shared, or rented to any third party, and is used internally only to manage and maintain relationships with affiliates.
+When a user or a company signs up to be a marketing program affiliate, they do so through a third-party provider of affiliate marketing programs. Such third-party provider does share personally identifiable information about affiliates with Zone Labs. This information is not sold, shared, or rented to any third party, and is used internally only to manage and maintain relationships with affiliates. The Zone Labs privacy policy governs the information that is collected on [Element5](https://sshop.element5.com/esales/affiliates/signup.html?publisherid=50319&md5=72bf9e758cd478830cbadf920601db92&languageid=1) and this information will be used in accordance with the Zone Labs privacy policy.
 
 If You Opt to Receive Communications, How We Will Contact You
 
@@ -98,8 +98,8 @@ Please note that this email address will reject messages with attachments of any
   * By Postal Mail:  
  **Attn: Privacy Contact  
 Zone Labs  
-475 Brannan Street, Suite 300   
-San Francisco, CA 94107**
+800 Bridge Parkway,  
+Redwood City, CA 94065**
 
 
 
@@ -116,7 +116,7 @@ Users who no longer wish to continue receiving our communications may opt-out of
   * By Postal Mail:  
  **Attn: Unsubscribe  
 Zone Labs  
-475 Brannan Street, Suite 300   
-San Francisco, CA 94107**
+800 Bridge Parkway  
+Redwood City, CA 94065**
 
 
