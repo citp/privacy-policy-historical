@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625171119id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206080057id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Customer Care
 
@@ -22,4 +22,4 @@ Though online payment with your international credit card is not applicable in C
 
 **China Odyssey Tours** reserves the right to modify this Privacy & Security Policy at any time with or without notice. 
 
-Should you have any questions about our Privacy & Security Policy, please feel free to contact us at [here.](https://web.archive.org/web/20060625171119id_/http%3A//www.chinaodysseytours.com/forms/inquiry.htm)
+Should you have any questions about our Privacy & Security Policy, please feel free to contact us at [here.](https://web.archive.org/web/20061206080057id_/http%3A//www.chinaodysseytours.com/forms/inquiry.htm)
