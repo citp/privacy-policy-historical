@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619215011id_/http%3A//tedjob.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207003930id_/http%3A//www.tedjob.com/common/privacy.php) for the most accurate reproduction.*
 
-# TedJob : Privacy Policy
+# Privacy Policy : TedJob.com
 
 [TedJob Home](https://web.archive.org/index.php) / [Privacy Policy](https://web.archive.org/common/privacy.php)
 
