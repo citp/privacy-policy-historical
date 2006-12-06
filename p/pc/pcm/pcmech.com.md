@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616045348id_/http%3A//pcmech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206052758id_/http%3A//pcmech.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,5 +30,5 @@ Though PC Mechanic will take reasonable measures to ensure that users under the 
 
 PC Media, Inc.  
 1726 E. 7th Ave.  
-Suite 20  
+Suite 2  
 Tampa, Florida 33605
