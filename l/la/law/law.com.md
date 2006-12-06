@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191352id_/http%3A//www.law.com/service/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206234317id_/http%3A//www.law.com/service/privacy_policy.shtml) for the most accurate reproduction.*
 
-# American Lawyer Media's Law.com
+# ALM's Law.com
 
 |  |   
 ---|---  
