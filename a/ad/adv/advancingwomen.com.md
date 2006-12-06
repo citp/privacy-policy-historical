@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancingwomen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222839id_/http%3A//advancingwomen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancingwomen.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011207id_/http%3A//advancingwomen.com/privacy.html) for the most accurate reproduction.*
 
 # Advancing Women's Privacy Statement
 
