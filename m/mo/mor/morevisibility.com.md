@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618131956id_/http%3A//morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206231724id_/http%3A//morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Position Yourself with Leaders In Search Engine Optimization
+# Position Yourself with the Leaders In Search Engine Marketing & Optimization
 
 **General Information**
 
@@ -22,3 +22,17 @@ We never sell, trade or otherwise disclose personally identifiable information t
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [Click Here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 You are given the opportunity with each e-mail newsletter correspondence we send, for updates and additional marketing information, to remove yourself from our e-mail contact list. We will make all reasonable attempts to remove requested email addresses from our files. All inquiries regarding this Privacy Policy should be directed to [privacy@morevisibility.com](mailto:privacy@morevisibility.com).
+
+| 
+
+OPTIMIZATION PROGRAM
+
+Details can be found in your Search Engine Visibility Report
+
+YAHOO SEARCH SUBMIT
+
+The Paid Inclusion program for Yahoo Search Technology
+
+Professionals Qualified Company
+
+Agency Qualification status is only granted to companies meeting specific qualifications set by Google
