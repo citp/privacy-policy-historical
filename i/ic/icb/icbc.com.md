@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615081922id_/http%3A//icbc.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206225930id_/http%3A//icbc.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # ICBC.com - Privacy Statement
 
@@ -46,4 +46,4 @@ Our Web site contains links to other Web sites. Please be aware that privacy pol
 
 ## Questions or concerns?
 
-For more information about this privacy statement, please contact us at [Feedback](https://onlinebusiness.icbc.com/eforms/dotcom/jsp/feedback_dev.jsp). 
+For more information about this privacy statement, please contact us at [Feedback](https://onlinebusiness.icbc.com/eforms/dotcom/jsp/feedback_gen.jsp). 
