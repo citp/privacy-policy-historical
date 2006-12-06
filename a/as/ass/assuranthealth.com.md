@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617060924id_/http%3A//www.assuranthealth.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014539id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
 
 # legal
 
 [Individual Rights and Forms](http://www.hipaa.assuranthealth.com/) 
 
-**Assurant Health Companies: Time Insurance Company  
-Union Security Insurance Company John Alden Life Insurance Company **
+**Assurant Health Companies:**  
+
+
+Time Insurance Company  
+John Alden Life Insurance Company  
+Union Security Company  
+
 
 Form 28280 (4/14/2003)
 
@@ -19,7 +24,11 @@ Assurant Health is required by law to maintain the privacy of protected health i
 
 **Who We Are**
 
-In business since 1892, Assurant Health provides health insurance coverage for more than one million people nationwide. Assurant Health develops and provides a wide range of individual medical, small group, short term and student health insurance products, as well as non-insurance products. Assurant Health also provides consumer-choice products such as Health Savings Accounts and Health Reimbursement Arrangements. With almost 3,000 employees, Assurant Health is headquartered in Milwaukee, WI, and has operations offices in Minnesota, Idaho, and Florida, as well as sales offices across the country. Assurant Health products are underwritten and issued by Time Insurance Company, John Alden Life Insurance Company and Union Security Insurance Company. The Assurant Health Web site is [www.assuranthealth.com](http://www.assuranthealth.com/). Assurant Health is part of Assurant, which offers specialized insurance products and related services in North America and selected other markets. 
+Assurant Health has been in business since 1892 and is the brand name for products underwritten and issued by Time Insurance Company, John Alden Life Insurance Company and Union Security Insurance Company. Together, these three underwriting companies provide health insurance coverage for more than one million people nationwide. Each underwriting company is financially responsible for its own insurance products. Primary products include individual medical, small group, short-term and student health insurance products, consumer-choice products such as Health Savings Accounts and Health Reimbursement Arrangements, as well as non-insurance products. With almost 3,000 employees, Assurant Health is headquartered in Milwaukee, Wis., and has operations offices in Minnesota, Idaho and Florida, as well as sales offices across the country. The Assurant Health Web site is [www.assuranthealth.com](http://www.assuranthealth.com/ "http://www.assuranthealth.com/"). 
+
+Assurant Health is part of Assurant, a premier provider of specialized insurance products and related services in North America and selected international markets. Its four key businesses—Assurant Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property—have partnered with clients who are leaders in their industries and have built leadership positions in a number of specialty insurance market segments worldwide.
+
+Assurant, a Fortune 500 company, is traded on the New York Stock Exchange under the symbol AIZ. Assurant has more than $20 billion in assets and $7 billion in annual revenue. The Assurant Web site is [www.assurant.com](http://www.assurant.com/ "http://www.assurant.com/").
 
 **Information We Collect**
 
