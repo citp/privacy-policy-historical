@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyteachers.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627211753id_/http%3A//www.ratemyteachers.com/info.php%3Ftype%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyteachers.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014738id_/http%3A//www.ratemyteachers.com/info.php%3Ftype%3DPrivacy) for the most accurate reproduction.*
 
 # RateMyTeachers.com - Privacy Policy
 
