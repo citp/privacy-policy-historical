@@ -1,24 +1,7 @@
-> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231535id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206100708id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Little Caesars Pizza
 
-| 
-
-| 
-
-[](https://web.archive.org/store_locator.asp)  
-  
----  
-  
-Click on the map above to locate your closest Little Caesars Store.  
-  
-|   
-  
----  
-  
----  
-| Little Caesars’ Internet Privacy Policy  
----  
 Little Caesar Enterprises, Inc. ("Little Caesars”) is pleased to provide information about its online privacy policy. Little Caesars uses its best efforts to protect the privacy of visitors to this web site.INFORMATION COLLECTED   
 Little Caesars collects general non-personal statistical information from users visiting our web site. The types of information include data about the number of visitors to the site, the type of browser and operating system being used by the visitor, and the pages visited. It provides statistics that are analyzed to improve our web site.
 
@@ -50,6 +33,4 @@ Little Caesars reserves the right to amend this policy at any time. You should c
 
   
 CONTACT US  
-If you have any questions about our privacy policy, please use the form on our [Contact Us](https://web.archive.org/forms/contact_us.asp) page at www.littlecaesars.com.  
-  
- 
+If you have any questions about our privacy policy, please use the form on our [Contact Us](https://web.archive.org/forms/contact_us.asp) page at www.littlecaesars.com.
