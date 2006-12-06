@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articles.com.my privacy policy that was archived on 2006-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060410063603id_/http%3A//articles.com.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles.com.my privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206171840id_/http%3A//articles.com.my/privacy.php) for the most accurate reproduction.*
 
-# #1 Free Content & Article Submission Directory - My Articles
+# Free Web Site Content | Articles Submission Directory
 
 Privacy Policy
 
