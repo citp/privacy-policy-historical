@@ -1,12 +1,75 @@
-<!--The following is the downloaded HTML source of the wcpo.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615200606id_/http%3A//wcpo.com/helpdesk/legal/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wcpo.com privacy policy that was archived on 2006-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206050207id_/http%3A//wcpo.com/helpdesk/legal/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>WCPO.com Privacy Policy - The Web site of WCPO-TV in Cincinnati, Ohio</title>
 	<meta name="description" content="WCPO.com is 9News, Cincinnati news, Weather, Doppler Radar, Sports, and Events">
 	<meta name="keywords" content="Cincinnati,Ohio,Kentucky,Indiana,Queen City,Northern Kentucky,WCPO,Television,News,Channel 9,Weather, Pete Delkus, Clyde Gray, Carol Williams, Don't Waste Your Money,Bengals,Reds,WCPO-TV">
 	<link rel="stylesheet" type="text/css" href="/css/newwcpo.css">
-			<link rel="Shortcut Icon" type="image/x-icon" href="http://www.wcpo.com/favicon.ico">
+	
+<link rel="Shortcut Icon" type="image/x-icon" href="http://www.wcpo.com/favicon.ico">
+
+<!---GOOGLE URCHIN --->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-743053-1";
+urchinTracker();
+</script>
+<!---/GOOGLE URCHIN --->
+
+<!----TABBED.JS CODE--->
+<script type="text/javascript">//<![CDATA[
+
+function synchTab(frameName) {
+
+  var elList, i;
+
+  // Exit if no frame name was given.
+
+  if (frameName == null)
+    return;
+
+  // Check all links.
+
+  elList = document.getElementsByTagName("A");
+  for (i = 0; i < elList.length; i++)
+
+    // Check if the link's target matches the frame being loaded.
+
+    if (elList[i].target == frameName) {
+
+      // If the link's URL matches the page being loaded, activate it.
+      // Otherwise, make sure the tab is deactivated.
+
+      if (elList[i].href == window.frames[frameName].location.href) {
+        elList[i].className += " activeTab";
+        elList[i].blur();
+      }
+      else
+        removeName(elList[i], "activeTab");
+    }
+}
+
+function removeName(el, name) {
+
+  var i, curList, newList;
+
+  if (el.className == null)
+    return;
+
+  // Remove the given class name from the element's className property.
+
+  newList = new Array();
+  curList = el.className.split(" ");
+  for (i = 0; i < curList.length; i++)
+    if (curList[i] != name)
+      newList.push(curList[i]);
+  el.className = newList.join(" ");
+}
+
+//]]></script>
+<!----/TABBED.JS CODE--->
 
 <script language="JavaScript1.1">
 <!--
@@ -50,6 +113,15 @@ WM_netscapeCssFixCheckIn()
   window.open(theURL,winName,features);
 }
 //-->
+</script>
+
+<script language="javascript">
+<!-- JS FOR VEMBED FIRST VIDEO AVI POPUP
+function launchfirstvideo(video,title,banner) {
+   path = "http://wcpo.com/cgi-bin/remax.pl?vurl=http://www.wcpo.com" + video + "&title=" + title + "&banner=" + banner; 
+   gallery=window.open(path,'vwindow','toolbar=0,status=0,menubar=0,scrollbars=0,SCROLLING=no,resizable=no,width=241,height=386')
+} 
+// END JS FOR VEMBED VIDEO POPUP -->
 </script>
 
 <script language="javascript">
@@ -154,7 +226,7 @@ function launchimplosion(video,title,banner) {
 <script language="javascript">
 <!-- JS FOR VEMBED POLICE SCANNER
 function launchScanner(video) {
-path = "http://wcpo.com/cgi-bin/vembedScanner.pl?vurl=http://real.scripps.com:8480/ramgen/encoder/cincinowrs/" + video;
+path = "http://wcpo.com/cgi-bin/vembedScanner.pl?vurl=rtsp://real.scripps.com/broadcast/cincinowrs/" + video;
 gallery=window.open(path,'vwindow','toolbar=0,status=0,menubar=0,scrollbars=0,SCROLLING=no,resizable=no,width=241,height=155')
 } 
 // END JS FOR VEMBED POLICE SCANNER -->
@@ -400,11 +472,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <table width="100" align="center" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="60" align="center" valign="top"><font size="1" face="Arial, Helvetica, sans-serif"><b>Currently:</b></font><br>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>80°F</b></font></td>
-<td width="40" align="center"><img src="http://www.wcpo.com/img/weather/clouds_sun-01.jpg" width="35" height="30"></td>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>34°F</b></font></td>
+<td width="40" align="center"><img src="http://www.wcpo.com/img/weather/mostly_cloudy_2-01.jpg" width="35" height="30"></td>
 </tr>
 <tr align="center">
-<td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">Partly Sunny</font></td>
+<td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">Mostly Cloudy</font></td>
 </tr>
 <tr align="center">
 <td colspan="2"><font size="1" face="Arial, Helvetica, sans-serif"><b><a href="http://wcpo.com/weather/" style="font-family:Arial, Helvetica, sans-serif;font-size: 10px;font-weight:bold">Weather</a> | <a href="http://wcpo.com/traffic/" style="font-family:Arial, Helvetica, sans-serif;font-size: 10px;font-weight:bold">Traffic</a></b></font></td>
@@ -899,11 +971,6 @@ WCPO-TV is an <a href="http://www.wcpo.com/helpdesk/legal/eeo.html">equal opport
 document.write('<a href="http://' + 'www.bizrate' + '.com/index__rf--cpo001.html" target="_new" title="BizRate.com" rel="nofollow"><font size=-2 face="arial, helvetica"><b>BizRate</b></font></a>'); 
 //--> 
 </script><a href="http://www.bizrate.com/index__rf--cpo001.html" target="_new" title="BizRate.com" rel="nofollow"><font size="-2" face="arial, helvetica"><b>BizRate</b></font></a>
-
-
-
-
-
 
 		
 			<br><br><br>
