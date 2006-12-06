@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418015200id_/http%3A//www.asicsamerica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206233949id_/http%3A//www.asicsamerica.com/privacy.htm) for the most accurate reproduction.*
 
 # ASICS Privacy Statement
 
