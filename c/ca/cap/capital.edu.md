@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620223953id_/http%3A//www.capital.edu/Internet/Default.aspx%3Fpid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206015157id_/http%3A//www.capital.edu/Internet/Default.aspx%3Fpid%3D82) for the most accurate reproduction.*
 
 # Privacy - Capital University
 
