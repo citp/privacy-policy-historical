@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpp.com privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216011442id_/http%3A//www.bpp.com/page.asp%3Fw%3D17%26Ref%3D3%26genpagecontentref%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpp.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206124138id_/http%3A//www.bpp.com/page.asp%3Fw%3D17%26Ref%3D3%26genpagecontentref%3D1) for the most accurate reproduction.*
 
 # BPP Professional Education
 
