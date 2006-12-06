@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211646id_/http%3A//www.gazette.net/livepages/2.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206023934id_/http%3A//www.gazette.net/livepages/2.shtml) for the most accurate reproduction.*
 
 # Gazette.Net
 
