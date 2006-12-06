@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the holidayhypermarket.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616010156id_/http%3A//www.holidayhypermarket.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayhypermarket.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207003309id_/http%3A//www.holidayhypermarket.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Holiday Hypermarket - Book your holiday online - Great value holiday package - Package holidays - Bargain all inclusive
+# Holiday Hypermarket Privacy Policy
 
-|    
+| 
+
+[](http://www.holidayhypermarket.co.uk/)
+
+  
   
 ---  
   
@@ -34,4 +38,6 @@ You are entitled to a copy of the information held by us. If you would like to s
 By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by First Choice as stated in this Privacy Policy.  
   
   
- 
+
+
+Holidays From:
