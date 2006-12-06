@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidhire.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614090436id_/http%3A//www.bidhire.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidhire.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206152914id_/http%3A//www.bidhire.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
 
 # Find temporary employment odd jobs and part time work - free job search engine and employment services - BidHire.com
 
