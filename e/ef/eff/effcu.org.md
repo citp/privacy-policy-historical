@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612203552id_/http%3A//www.effcu.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206123204id_/http%3A//www.effcu.org/policy.asp) for the most accurate reproduction.*
 
 # Eastern Financial Florida Credit Union
 
-**Privacy Statement**  
+**_Privacy Statement_**
+
 Eastern Financial Florida Credit Union (hereafter referred to as “EFFCU,” “we,” “us,” or “our”) respects the privacy and confidentiality of our members’ personal information. The terms “you” or “your” refers to our members or visitors to our web site. When you trust us with your personal information, you can be certain it will be used only in an appropriate manner. Information communicated electronically is safe, and is kept as secure as information obtained in person or by mail.
 
 The purpose of this policy statement is to explain what type of information EFFCU collects, how it is used, and with whom or under what circumstances it will be shared.
@@ -47,4 +48,4 @@ P.O. Box 829514
 South Florida, FL 33082-9514  
 
 
-       
+         
