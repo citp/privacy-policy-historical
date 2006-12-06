@@ -1,28 +1,49 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612222231id_/http%3A//www.amnesty.org.uk/help/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206111845id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
 
-# aiuk :: Amnesty International UK Privacy Policy
+# AIUK : Privacy policy
 
-**For www.amnesty.org.uk**
+Your online privacy and security is very important to Amnesty International. 
 
-Your online privacy and security is very important to Amnesty International UK (AIUK). 
+## Personal information collection
 
-**What types of information does AIUK log?**  
-In order to consider and improve AIUK’s web site, we log certain types of information when people visit our site in order to help us understand more about how the site is used. For example, information such as IP addresses, so that we can see how many unique visitors come to the site each week and what pages are accessed (and when).
+When you are on [www.amnesty.org.uk](http://www.amnesty.org.uk/) and [www.protectthehuman.com](http://www.protectthehuman.com/) and are asked for personal information, you are sharing that information with Amnesty International UK alone unless stated otherwise. 
 
-**What does AIUK do with the personal information you provide?**  
-If you provide us with personal information (for example, when signing up for our crisis response list or when taking part in an action) your details are stored securely and used only for the purpose for which you have signed up. We do not pass your details to other organisations without your express consent (except if you use our secure financial pages - in which case they are passed to our partner company, Worldpay - see below for further details).
+In order to keep improving our website, we collect the following information from visitors
 
-**Does anybody else have access to your personal information?**  
-If you use our secure financial pages to join Amnesty International UK or to donate money to us online, you are going through to the web site of our reputable partner company, World Pay (part of the The Royal Bank of Scotland Group). World Pay handles all the secure financial transactions on the AIUK site on our behalf. The information you provide as part of any online financial transaction (such as your credit card number and contact information) is collected only so that the transaction can take place. 
+  * IP addresses 
+  * Which pages are accessed by an IP address 
+  * Any information volunteered by the visitor, such as an email address.
 
-**Can you access your membership records online?**  
-We are working towards a time when we can give all members of Amnesty International UK online access to their own membership records, in order to be able to update these themselves. Until this is possible, you can amend your membership details by e-mailing our supporter administration team (members@amnesty.org.uk).
 
-**Can AIUK guarantee the security of your personal data while it is being transmitted on the Internet?**  
-It is not possible to guarantee the total security of _any_ data transmission over the Internet. This means that we cannot ensure the security of any information you send to us, and you therefore do this at your own risk. However, once we receive your data, we do everything we can to make sure that it is secure on our systems.
 
-_This policy will be updated if there are any changes in our practice._
+## Sharing information
 
-**The Web Team  
-Amnesty International UK  
-April 2003**
+Amnesty International UK will not disclose any of your personally identifiable information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it. Amnesty International UK does not sell lists to others. Amnesty International may share individual information available to affiliated third parties and our agents for marketing purposes. Amnesty International UK may also use such information to contact people for marketing purposes. From time to time, we agree with other likeminded organisations to write to some of each other's supporters, for the mutual benefit of both.
+
+We use the information we collect about visitors to the site to help us with understanding more about how our site is used and to be able to send you appropriate communications.
+
+## Distribution of information
+
+If you have subscribed to any of Amnesty's e-communications, e-zines or e-newsletters we will not sell or rent this information to anyone. From time to time we may work in partnership with other organisations on a campaign and so you may receive joint communications from Amnesty and the partnership organisation(s).
+
+## What does Amnesty International UK do with the personal information you provide?
+
+If you provide us with personal information (for example, when creating your My Amnesty profile, or when taking part in an action) your details are stored securely and used only for the purpose for which you have signed up. We do not pass your details to other organisations without your express consent (except if you use our secure financial pages - in which case they are passed to our financial partner, RSM, for payment processing and validation purposes only \- see below for further details). 
+
+The information you give us will be stored on a database and may be used by us where appropriate.  This data helps us to know what incentives, appeals and actions are working well and which are not so strong - and informs future activity across the organisation, helping Amnesty to be more effective in combating human rights abuses.
+
+## Who else can access your personal information?
+
+If you use our secure financial pages to join Amnesty International UK or to donate money to us online, you are going through to the website of our reputable financial partner company, RSM.  World RSM handles all the secure financial transactions on the Amnesty International UK website on our behalf. The information you provide as part of any online financial transaction (such as your credit card number and contact information) is collected only so that the transaction can take place. 
+
+## Accessing and updating membership records online
+
+We are working on ways to make it easier for you to review and correct the information that Amnesty maintains about you. We are developing mechanisms to give all members of Amnesty International UK access to their membership record online, through the My Amnesty facility. In the meantime, you can amend your membership details by emailing our supporter administration team ([members@amnesty.org.uk](mailto:members@amnesty.org.uk)). 
+
+## Information security
+
+When you give Amnesty International UK personal information we take steps to ensure that your information is treated securely. Unfortunately, it is not possible to guarantee the total security of _any_ data transmitted over the Internet. While we strive to protect your personal information, Amnesty International UK cannot ensure or warrant the security of any information you transmit to us, and you therefore do this at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
+We have a valid secure socket layer certificate running on all the financial information input pages and by working with RSM we are ensuring that we are using the best security technology with regards to collection and transmission of personal financial data.  Also, once we receive your data, we do everything we can to make sure that it is secure on our systems. 
+
+_This policy will be updated if there are any changes in our practice._ ** **
