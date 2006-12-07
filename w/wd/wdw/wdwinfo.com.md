@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200957id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207215206id_/http%3A//wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # Walt Disney World Theme Park Guides including Disney theme park
 
