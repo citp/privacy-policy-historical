@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the windowsdevcenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045516id_/http%3A//windowsdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsdevcenter.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207145507id_/http%3A//windowsdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network -- Privacy Policy
-
-|  |   
-
 
 ## O'Reilly Media Privacy Policy
 
@@ -79,10 +76,3 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 **Email** : To update or unsubscribe from our email newsletters or product announcements, go to [elists.oreilly.com](http://elists.oreilly.com/). To get help from a human, send email to [help@oreillynet.com](mailto:help@oreillynet.com?subject=) or call 800-998-9938 or 707-829-0515. 
 
 **Snailmail** : To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to [catalog@oreilly.com](mailto:catalog@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
-
-|  | 
-
-Sponsored by:
-
-  
-
