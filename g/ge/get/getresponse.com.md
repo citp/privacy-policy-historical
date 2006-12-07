@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021313id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222909id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ When you request information or other services from us, we use your email addres
 
 We will never use your email address or other information to provide you with any unsolicited messages or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use. 
 
-**Your Customers’ Private Information Policy**
+**Your Customers' Private Information Policy**
 
 Implix recognizes the importance of respecting the privacy of those who decided to entrust their sensitive information with you. We make every effort to safeguard their security. Implix will never use the information about the customers you collect within our services to send any information other than expressly provided by you, nor will we share it with or sell it to anyone else for such use. 
 
