@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the voyeur-russian.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418025932id_/http%3A//voyeur-russian.com/data/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voyeur-russian.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207210746id_/http%3A//voyeur-russian.com/privacy.html) for the most accurate reproduction.*
 
 # Our Commitment To Privacy Your privacy is important to us. VOYEUR-RUSSIAN
 
+  
 Our Commitment To Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
 The Information We Collect: This notice applies to all information collected or submitted on Russian voyeur's website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
