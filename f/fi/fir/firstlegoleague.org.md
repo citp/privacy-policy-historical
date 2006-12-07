@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the firstlegoleague.org privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623110109id_/http%3A//www.firstlegoleague.org/default.aspx%3Fpid%3D13730) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstlegoleague.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207193227id_/http%3A//www.firstlegoleague.org/default.aspx%3Fpid%3D13730) for the most accurate reproduction.*
 
 # FIRST LEGO League | Privacy Policy
 
 |  |  | 
 
-  |    
+  | 
+
 [International](https://web.archive.org/nobanner.aspx?pid=0) > [About FLL International](https://web.archive.org/default.aspx?pid=20) > [Legal Notice](https://web.archive.org/default.aspx?pid=13720) > Privacy Policy
 
 **Dear FIRST LEGO® League teams,   
@@ -13,7 +14,7 @@
 
 Below, you will find information about the FIRST LEGO League's Online Privacy Policy. Our privacy policy will tell you how and when we collect information through our Web site, and how this information will be used. To learn specifically about our online information practices concerning children who are younger than 13 years of age, please scroll down to the section entitled 
 
-["Children Under the Age of 13"](https://web.archive.org/web/20060623110109id_/http%3A//www.firstlegoleague.org/default.aspx?pid=13730/#13)
+["Children Under the Age of 13"](https://web.archive.org/web/20061207193227id_/http%3A//www.firstlegoleague.org/default.aspx?pid=13730/#13)
 
 **FIRST LEGO League encourages families to visit firstlegoleague.org together as a shared activity.**
 
@@ -84,5 +85,10 @@ Enfield
 Connecticut  
 Attn.: Chief Privacy Officer The FIRST LEGO League organization may need to change its online privacy policy from time to time to keep up with the ever-changing virtual reality. You should therefore periodically visit this page to review the current Terms and Conditions to which you are bound. 
 
-|  |  |   
+| 
+
+| 
+
+|   
+  
 ---|---|---|---|---|---|---
