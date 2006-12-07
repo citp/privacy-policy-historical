@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052112id_/http%3A//www.escardio.org/bodies/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207153437id_/http%3A//www.escardio.org/bodies/about/privacy.htm) for the most accurate reproduction.*
 
 # About the ESC - Privacy Policy
 
