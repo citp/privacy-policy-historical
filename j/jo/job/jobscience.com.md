@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216122955id_/http%3A//www.jobscience.com/includes/jobsci/jobsci/corporate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207020548id_/http%3A//jobs.jobscience.com/includes/jobsci/jobsci/corporate/privacy.cfm) for the most accurate reproduction.*
 
-# Jobscience: Job Board for Healthcare jobs, Medical jobs, Pharmaceutical sales jobs, Biotechnology Jobs, Nursing Jobs, Biotech, Physician, Dental, Radiology and Research employment and resumes. Post jobs and search Health Care resume database.
+# Jobscience | Privacy Policy
 
   
 Jobscience Privacy Policy
