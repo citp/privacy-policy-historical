@@ -1,0 +1,668 @@
+<!--The following is the downloaded HTML source of the palmbeachjewelry.com privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207145248id_/http%3A//www.palmbeachjewelry.com/jump.jsp%3FitemID%3D167%26itemType%3DCATEGORY%26path%3D1%252C3%252C162%252C167) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
+
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        else
+          return false;  // Netscape
+        maxlengthHack(txt, maxlength);
+        return false;
+      }
+    }
+
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
+</script>
+
+
+
+
+<script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<title>Customer Service |  Privacy Statement  | Shop PalmBeach &amp; Save! </title>
+
+
+
+<!--- <description" content=""> 
+<keywords" content="sDisplayKeywords"> --->
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
+<script language="javascript">
+arImageList = new Array ();
+arSubImageList = new Array ();
+
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image();
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image();
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
+    }
+    location.href = optiontxt
+    //frm.action = optiontxt;
+    //alert (frm.action);
+    //frm.submit();
+}
+
+</script>
+
+<script language="JavaScript">
+<!--
+function checkForChar(oForm,oFieldName,checkGood,iMin,iMax,iLine,iLines){
+	var checkStr=(eval("oForm." + oFieldName + ".value")) + "";
+	var iLen=checkStr.length;
+	var allValid=true;
+	var bTest=false;
+	var sBad="";
+        //alert("checkGood here " + checkGood);
+        //alert("checkStr here " + checkStr);
+
+	for (i=0;i<checkStr.length;i++){
+		ch=checkStr.charAt(i);
+		bTest=false;
+		for (j=0;j<checkGood.length;j++){
+			if (ch==checkGood.charAt(j)){
+				bTest=true;
+			}
+		}
+		if(!bTest){
+			allValid=false;
+			sBad=ch;
+			if(sBad==" "){
+				sBad="(spaces)";
+			}
+			break;
+ 		}
+	}
+	if (!allValid){
+                 alert("The following character can not be used:  " + sBad);
+                // if the browser is Netscape
+                if (navigator.appName.indexOf("Microsoft") == -1)
+                {
+                    //alert("here 1");
+                    // if the version is less than 5 (really less than 6)...
+                    if ( parseInt(navigator.appVersion) < 5)
+                    {
+                    // refresh the page so the javascript can populate the drop downmenu
+                        history.go(0);
+                        //var sGo = "oForm." + oFieldName + ".focus()";
+                        //eval(sGo);
+                    }
+
+                } else {
+                       //alert("here 2");
+                        eval("oForm." + oFieldName + ".focus()");
+                }
+   		return (false);
+	}else if ((iLen>0)&&(iLen < iMin)){
+            //alert("here 3");
+	    alert("The minimum characters required is:  " + iMin);
+		eval("oForm." + oFieldName + ".focus()");
+		return (false);
+	}
+	return (true);
+}
+//-->
+</script>
+</head><body class="main" marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0"><div align="center">
+
+
+
+
+
+<script language="javascript1.1" src="/includes/coremetrics/v40/eluminate.js" type="text/javascript"> </script>
+<!--&nbsp;-->
+<script language="javascript1.1" src="/includes/coremetrics/cmdatatagutils.js" type="text/javascript"> </script>
+
+
+<!-- START COREMETRICS -->
+
+
+ <script language="javascript1.1" type="text/javascript">
+ cmSetProduction(); 
+
+ </script>
+<!--&nbsp;-->
+<!--&nbsp;-->
+<!--&nbsp;-->
+<!--&nbsp;-->
+
+ <script language="javascript1.1" type="text/javascript">
+ <!-- 
+ cmCreatePageviewTag("PRIVACY STATEMENT","167",null,null);
+ -->
+ </script>
+
+<!-- END COREMETRICS -->
+
+
+
+
+<!-- Content Wrap Start -->
+    
+	
+
+<!--SourceCode: PBJ -->
+<!--ListKey: PBJ ..PriceList ID294 -->
+
+
+
+<!-- Navheader Start-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="7759A1">
+<td align="center" bgcolor="7759A1">
+
+
+<table border="0" width="760" cellpadding="0" cellspacing="0">
+
+
+<tbody><tr align="left" valign="top" bgcolor="7759A1">
+    <!--- Logo --->
+	<td class="clearbg" rowspan="2">
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemID=180&amp;itemType=HOME_PAGE"><img src="/images/us/global/globalnav/Sitelogo_pbj.gif" border="0" alt="PalmBeach"></a></td>
+	
+	<!--- Why Shop Graphic --->
+<td colspan="3"><img src="/images/us/global/globalnav/Phone_pbj.gif" border="0" alt=""></td>
+	
+	<!--- Chat and Payment type .txt include  --->
+<td><script language="JAVASCRIPT" src="https://admin.instantservice.com/resources/smartbutton/5932/14820/SmartButton.js"></script></td>
+</tr>
+
+<tr align="right" valign="top" bgcolor="7759A1">	
+	<!--- Return Home Link ---> 
+		<td valign="top">
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemID=180&amp;itemType=HOME_PAGE"><img src="/images/us/global/globalnav/returnhome.gif" border="0" alt="" name="top_returnhome"></a></td>
+	
+	<!--- Customer Service Link --->
+<td><a href="http://www.palmbeachjewelry.com/jump.jsp?itemID=162&amp;itemType=CATEGORY&amp;path=1,3,162"><img src="/images/us/global/globalnav/customerserv.gif" border="0" alt="" name="top_customerserv"></a></td>
+
+	<!--- Customer Login Link --->
+<td><a href="https://www.palmbeachjewelry.com/account/accountmain.jsp"><img src="/images/us/global/globalnav/customerlogin.gif" border="0" alt="" name="top_myaccount"></a></td>
+
+	<!--- Catalog Quick Shop Link --->
+<td><a href="http://www.palmbeachjewelry.com/shopping/catalogquickshop/cqsmain.jsp"><img src="/images/us/global/globalnav/catquickshop.gif" border="0" alt="" name="top_cqs"></a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+
+
+<!-- Search and Main Nav Table -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="E2D9EA">
+<td bgcolor="E2D9EA"><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="navheaderbg">
+<tbody><tr>
+<td align="center">
+
+
+<table border="0" width="760" cellpadding="0" cellspacing="0">
+
+
+<tbody><tr>
+<!--- Search Box Cell --->
+<td><table border="0" cellspacing="0" cellpadding="0">
+                   <form name="searchForm" action="http://www.palmbeachjewelry.com/shopping/search/searchdirectorymain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
+    <input type="hidden" name="searchType" value="keyword">
+    <input type="hidden" value="yes" name="builddd">
+    <input type="hidden" name="NRS" value="1">
+    <input type="hidden" name="RS" value="1"><tbody><tr align="left" valign="middle">
+                    
+                    <td><img src="/images/us/global/globalnav/search1.gif" width="50" height="31" border="0"></td>
+                    <td><input type="text" name="keyword" value="Keyword or item#" maxlength="500" size="10" class="navsearchbox" onfocus="if(this.value=='Keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value='Keyword or item#';"></td>
+                    <td><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+                    <td><input type="Image" name="Search" src="/images/us/global/globalgraphics/go_btn.gif" border="0" alt="Go"></td>
+                </tr>
+              
+            </tbody></table></td>
+
+ 	 <td class="clearbg" align="right">
+
+
+        </td><td class="clearbg"><a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=4&amp;path=1%2C180%2C4" onmouseover="rollover('LeftWomen`s Jewelry','/images/us/global/globalnav/womensjewelry1_on.gif');" onmouseout="rollover('LeftWomen`s Jewelry','/images/us/global/globalnav/womensjewelry1_off.gif');"><img border="0" name="LeftWomen`s Jewelry" src="/images/us/global/globalnav/womensjewelry1_off.gif" alt="Women`s Jewelry"></a></td><td class="clearbg"><a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=5&amp;path=1%2C180%2C5" onmouseover="rollover('LeftMen`s Jewelry','/images/us/global/globalnav/mensjewelry1_on.gif');" onmouseout="rollover('LeftMen`s Jewelry','/images/us/global/globalnav/mensjewelry1_off.gif');"><img border="0" name="LeftMen`s Jewelry" src="/images/us/global/globalnav/mensjewelry1_off.gif" alt="Men`s Jewelry"></a></td><td class="clearbg"><a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=6&amp;path=1%2C180%2C6" onmouseover="rollover('LeftFragrances','/images/us/global/globalnav/fragrances1_on.gif');" onmouseout="rollover('LeftFragrances','/images/us/global/globalnav/fragrances1_off.gif');"><img border="0" name="LeftFragrances" src="/images/us/global/globalnav/fragrances1_off.gif" alt="Fragrances"></a></td>
+            
+        
+    
+
+
+<!--- View Cart Cells --->
+            <td align="center" valign="middle">
+			<table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td><a href="http://www.palmbeachjewelry.com/basket/basketmain.jsp"><img src="/images/us/global/globalnav/shopbasketicon.gif" border="0" alt="Shopping Cart"></a></td>
+                    <td class="navleft"><a href="http://www.palmbeachjewelry.com/basket/basketmain.jsp">Shopping Cart</a> (0) Item</td>
+                </tr>
+                </tbody></table></td>
+            </tr>
+			</tbody></table></td>
+</tr></tbody></table>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="E2D9EA">
+<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+</tr>
+<tr bgcolor="FFFFFF">
+		<td align="center">
+		<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="8" border="0"><br>
+<img src="/images/us/global/globalnav/whyshop_pbj_wide.gif" border="0" alt="PalmBeach" width="760" height="26"></td>
+	</tr>
+</tbody></table>
+
+
+<script language="javascript">
+var the_topimages = new Array("/images/us/global/globalnav/returnhome_on.gif", "/images/us/global/globalnav/customerserv_off.gif", 
+"/images/us/global/globalnav/customerserv_on.gif", "/images/us/global/globalnav/returnhome_off.gif",
+"/images/us/global/globalnav/customerlogin_on.gif", "/images/us/global/globalnav/customerlogin_off.gif"
+,"/images/us/global/globalnav/womensjewelry1_on.gif",
+"/images/us/global/globalnav/womensjewelry1_off.gif"
+,"/images/us/global/globalnav/mensjewelry1_on.gif",
+"/images/us/global/globalnav/mensjewelry1_off.gif"
+,"/images/us/global/globalnav/fragrances1_on.gif",
+"/images/us/global/globalnav/fragrances1_off.gif"
+);
+preLoadCatImages(the_topimages);
+function checkFieldsSearch() {
+        var searchtxt=Trim(document.searchForm.keyword.value);
+        if (searchtxt == '')
+    {
+        alert("Please enter keyword or item#.");
+        return false;
+    } else if (searchtxt == 'Keyword or item#') {
+        alert("Please enter keyword or item#.");
+        return false;
+        } else if (searchtxt.length <= 1) {
+        alert("We are sorry, the information you have requested is not available.");
+        return false;
+        } else {
+        return true;
+    }
+}
+function Trim(inString){
+  return LTrim(RTrim(inString));
+}
+
+function LTrim(inString){
+  return inString.replace(/^\s+/,'');
+}
+
+function RTrim(inString){
+  return inString.replace(/\s+$/,'');
+}
+
+</script>
+		
+  <!--- 	<table border=0 width=760 cellpadding=0 cellspacing=0>
+	<tr>
+		<td class=contentbg><img src="/images/us/global/globalgraphics/headerdots.gif" border="0"><br> --->
+		<img src="/images/us/global/globalgraphics/spacer01.gif" border="0" width="1" height="8"><br>
+		<!--- </td>
+  	</tr></table>
+  	 --->
+<!-- Content Block Start -->
+
+			<table border="0" cellpadding="0" cellspacing="0" class="lrgheaderbg" width="760">
+<tbody><tr><form></form><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="62" border="0"></td><td align="left" valign="middle">
+<div class="cattextheaders">Customer Service</div><h1 class="subcattextheaders"> Privacy Statement </h1>
+<img src="/images/us/global/globalgraphics/spacer01.gif" width="550" height="1" border="0"></td>
+	<td>
+<div class="OtherCollectionNavheader">Browse Customer Service<br></div><select name="subCatdd" onchange="changeCat(this.form,this)" class="navleft"><option value="/jump.jsp?itemID=163&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C163">About Us</option><option value="/jump.jsp?itemID=167&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C167" selected="">Privacy Statement</option><option value="/jump.jsp?itemID=166&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C166">Purchasing &amp; Returns</option><option value="/jump.jsp?itemID=165&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C165">Shipping Information</option><option value="/jump.jsp?itemID=170&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C170">FAQ</option><option value="/jump.jsp?itemID=168&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C168">Contact Us</option></select></td>
+<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="15" height="62" border="0"></td></tr></tbody></table>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" border="0" alt="" width="567" height="8"><br>
+<table border="0" cellspacing="0" cellpadding="0" width="736">
+	<tbody><tr>
+		<td class="default"><span class="default"><span class="colorsubheader">Protecting Your Privacy is Very Important to Us</span><br>
+<br>At PalmBeach we want to demonstrate our commitment to your privacy, and notify you of the following:<br>
+<ol>
+	<li>What personally identifiable information of yours or third party personally identifiable information 
+	that is collected from you through the website</li>
+	<li>The organization collecting the information</li>
+	<li>How the information is used</li>
+	<li>With whom the information may be shared</li>
+	<li>What choices are available to you regarding collection, use and distribution of the information</li>
+	<li>The kind of security procedures that are in place to protect the loss, misuse or alteration of 
+	information under PalmBeach control</li>
+	<li>How you can correct any inaccuracies in the information</li>
+</ol>
+<!--- <a href="https://www.truste.org/validate/12331" target="_blank"><img src="/images/us/local/page_specific/customerservice/clickseal.gif" align="left" height=73 width=91 border=0 alt="TRUSTe: Click to Verify"></a> --->
+If you have questions or concerns regarding this statement, you should first contact PalmBeach by 
+<nobr>e-mailing</nobr> <a href="mailto:customerservice@palmbeachjewelry.com">customerservice@palmbeachjewelry.com </a>.<br>
+<br>
+At PalmBeach, we are committed to protecting your privacy. PalmBeach does not sell, 
+share or rent this information to others in ways different from what is disclosed in this statement. 
+<hr noshade="" size="1">
+<span class="colorsubheader">The Information We Gather from You on our Website</span><br><br>
+We want to make sure that we provide you with as much information about our products and services as possible, while only asking you for the information   we need to provide you with the services you've requested. Currently, 
+we ask that you provide us with the following information:      
+<blockquote><b>Catalog Requests</b><br>
+We would love to send you our catalog! In order to do so, we need your name and mailing address. We also ask 
+for your daytime and evening phone numbers and e-mail address in case we need to contact you directly.<br>
+<br>
+<b>Newsletter/Promotional E-mail</b><br>
+We need your e-mail address to keep you instantly aware of our special promotions and latest additions.<br>
+<br>
+<b>Purchasing</b><br>
+We need your name, shipping and billing addresses, daytime phone number and e-mail address to expedite 
+your order. If you select to pay by credit card, we need your credit card number, type of card and expiration 
+date. We ask for your evening phone number as optional information in case we need to contact you directly. 
+We also collect information about the products added to your cart and the orders you place.<br>
+<br>
+<b>Tell A Friend</b><br>
+If a user elects to use our referral service for informing a friend about our site, we ask the 
+user for the friend's name and email address. PalmBeachjewelry.com will automatically send for a 
+one-time email inviting him/her to visit the site. PalmBeachJewelry.com does not store this information, 
+and it is only used for the sole purpose of sending this one-time e-mail.<br>
+<br>
+<b>Registration</b><br>
+In order to use this website to its fullest potential, users may complete the registration form. 
+During registration, users are required to give their contact information (such as name and e-mail address). 
+This information is used to contact users about the services on our site for which they have expressed interest. 
+It is optional for users to provide demographic     information (such as income level and gender), but 
+encouraged so we can provide a more personalized experience on our site.<br>
+<br>
+<b>Surveys</b><br>
+We sometimes conduct online surveys which may ask visitors for contact information and demographic 
+information. Participation in these surveys is completely voluntary and the user therefore has a 
+choice whether or not to disclose this information. Survey information will be used to monitor or improve 
+the site.</blockquote>
+<hr noshade="" size="1">
+<span class="colorsubheader">How We Use This Information</span><br><br>
+Ultimately, our goal is to provide you with a website that's virtually tailor-made to your interests. By 
+keeping records of your purchasing history, we can shape the focus of our website and catalogs to personalize 
+your shopping experience with us and make you instantly aware of products and services that best match your interests.<br>
+
+<hr noshade="" size="1">
+<span class="colorsubheader">Your Options Regarding Your Personal Information</span><br><br>
+If you do not wish to receive promotional e-mails,
+newsletters or promotional information from our company, here are your options:
+<ol>  
+	<li>You can e-mail our customer service department at <a href="mailto:customerservice@palmbeachjewelry.com">customerservice@palmbeachjewelry.com</a>.</li>
+	<li>You may call our Customer Care Center Monday - Friday 8:00am to 11:00pm and Saturday - Sunday 9:00am to 11:00pm Eastern Time at 1-888-449-5262.</li>
+	<li>All e-mail promotions sent to you will provide instructions on how to unsubscribe.</li>
+</ol>
+If a user's personally identifiable information changes (such as zip code, phone, e-mail, or postal address),
+or if a user no longer desires our services, we provide a way to correct, update or delete/deactivate users'
+personally identifiable information. This can usually be done by e-mailing our Customer Support service at
+<a href="mailto:customerservice@palmbeachjewelry.com">customerservice@palmbeachjewelry.com</a><br>
+<hr noshade="" size="1">
+<span class="colorsubheader">How Secure is our Website?</span><br><br>
+We have taken every measure possible to ensure that your personal information remains secure. We incorporate 
+the industry-standard SSL encryption for maximum protection. In addition, you will always be informed when
+you enter a secure area via a "pop-up" message. This message is our way of reassuring you that
+your credit card transaction is safe. Simply click to continue. When going from a secure area to a non-secure
+area, another message will appear to let you know that you are leaving the secure area of that site 
+(if your browser preferences are set to allow this).<br>
+<hr noshade="" size="1">
+<span class="colorsubheader">All about "Cookies" and Log Files</span><br><br>
+"Cookies" are minute pieces of information that are stored by your browser on your computer's 
+hard drive. Cookies contain absolutely no personal information about you. A cookie is merely a text file 
+that allows us to maintain your shopping list between visits and provide you with access to your personal shopping 
+account information. Most web browsers automatically accept cookies, but in most cases you can change your
+browser to prevent them.<br>
+<br>
+PalmBeachJewelry.com does not have control or access to the data collected through third party cookies.<br>
+<br>
+
+Log Files: We use IP addresses to analyze trends, track user's movements and gather demographic information. 
+No IP addresses are linked to any personally identifiable information.<br>
+<hr noshade="" size="1">
+<span class="colorsubheader">Notification of Changes</span><br><br>
+Should we decide to change our privacy policy, we will post the changes to our Home Page so that you are always aware of what information   
+we collect, how we use it and under what specific circumstances, if any, we may disclose it. If we should at 
+any time make the determination to use personally identifiable information in a manner different from what is 
+stated at the time   it is collected, we will notify you via e-mail. You always have the choice as   to 
+whether or not we use your information in this different manner. We will   only use information gathered 
+in accordance with the privacy policy under which   the information was collected.<br>
+<hr noshade="" size="1">
+<span class="colorsubheader">Legal Disclaimer</span><br><br>
+Though we make an effort to preserve user privacy, we may need to disclose personal information when 
+required by law wherein we have a good-faith believe that such action is necessary to comply with a current 
+judicial proceeding, a court order or legal process served on our Web site.</span>
+</td>
+	</tr>	
+</tbody></table>
+
+
+
+<!-- Content Block End -->
+  	<table border="0" width="760" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="contentbg">
+		<img src="/images/us/global/globalgraphics/spacer01.gif" border="0" width="1" height="15"></td>
+  	</tr></tbody></table>
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="7759A1">
+<td bgcolor="7759A1"><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+</tr>
+<tr bgcolor="E2D9EA">
+<td bgcolor="E2D9EA"><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+</tr>
+
+<tr bgcolor="7759A1" align="center">
+<td bgcolor="7759A1">
+<img src="/images/us/global/globalgraphics/getexclusiveoffers.gif" border="0" alt="Get Exclusive Offers"><img src="/images/us/global/globalgraphics/helpfulinfo.gif" border="0" alt="Helpful Info"><img src="/images/us/global/globalgraphics/shoppinglinks.gif" border="0" alt="Shopping Links"><img src="/images/us/global/globalgraphics/companyinfo.gif" border="0" alt="Company Info"></td></tr>
+
+<tr bgcolor="E2D9EA">
+<td bgcolor="E2D9EA"><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+</tr>
+<tr bgcolor="7759A1">
+<td bgcolor="7759A1"><img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+</tr>
+</tbody></table>
+
+
+<table border="0" width="760" cellpadding="0" cellspacing="0">
+
+<tbody><tr valign="top">
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr valign="top">
+			<td colspan="2"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="9" border="0"></td>
+		</tr>
+		<form method="post" action="http://www.palmbeachjewelry.com/subscribemain.jsp?action=1"></form>
+		<tr>
+			<td><input name="email" type="text" value="Enter E-mail" maxlength="50" size="12" class="navemailbox" onfocus="if(this.value=='Enter E-mail')this.value='';" onfocusout="if(this.value=='')this.value='Enter E-mail';"></td>
+			<td><input type="Image" name="emailSubmit" src="/images/us/global/globalnav/submit_btn.gif" border="0" alt="Submit"></td>
+		</tr>
+		
+		<tr>
+			<td colspan="2"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="8" border="0"></td>
+		</tr>
+		<tr>
+			<td colspan="2" class="thumbtext">©2006
+	
+						PalmBeach<br>
+<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="3" border="0"><br>	
+	<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.palmbeachjewelry.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.palmbeachjewelry.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a><!-- END   SCANALERT CODE --></td>
+	
+
+		</tr>
+	</tbody></table></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/footer_rule.gif" width="1" height="75" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="53" height="1" border="0"></td>
+	
+	<td class="footer">
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="9" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/content/glossarymain.jsp">Glossary</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=182&amp;path=1%2C3%2C181%2C182">Ring Sizing</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=183&amp;path=1%2C3%2C181%2C183">Gemstone Care</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=170&amp;path=1%2C3%2C162%2C170">FAQs</a><br>
+	
+		
+		<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+		<a href="http://www.palmbeachjewelry.com/content/sitemap/sitemapmain.jsp">Site Map</a><br>
+			</td>
+	
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/footer_rule.gif" width="1" height="75" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="44" height="1" border="0"></td>
+	
+	<td class="footer">
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="9" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/orderstatus/orderstatusmain.jsp">Order Status</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemID=162&amp;itemType=CATEGORY&amp;path=1,3,162">Customer Service</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/catalogrequest/catalogrequestmain.jsp">Catalog Request</a><br>
+	
+		
+		<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+		<a href="http://www.palmbeachjewelry.com/shopping/intelligentcataloging/catalogdirectorymain.jsp">Shop by Catalog</a><br>
+	
+	
+		<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+		<a href="https://www.palmbeachjewelry.com/account/accountmain.jsp">Customer Login</a></td>
+		
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/footer_rule.gif" width="1" height="75" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="45" height="1" border="0"></td>
+	
+	<td class="footer">
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="9" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=163&amp;path=1%2C3%2C162%2C163">About Us</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemType=CATEGORY&amp;itemID=168&amp;path=1%2C3%2C162%2C168">Contact Us</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+		
+	<a href="http://www.palmbeachjewelry.com/text/content/affiliates_splash.html" target="_blank">Affiliate Program</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+		
+		
+	<a href="http://www.palmbeachjewelry.com/jump.jsp?itemID=167&amp;itemType=CATEGORY&amp;path=1%2C3%2C162%2C167">Privacy Statement</a><br>
+	<img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"><br>
+	
+			</td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+</tr>
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="9" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="166" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="53" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="132" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="44" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="134" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="45" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="137" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+</tr>
+
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="9" border="0"></td>
+	<td valign="top">
+
+<!-- BEGIN: BizRate Medal (125x73 pixels) -->
+<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--30072.html" target="http://www.bizrate.com">
+<img src="https://medals.bizrate.com/medals/dynamic/30072_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a><!-- END: BizRate Medal (125x73 pixels) --></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	<td colspan="10" align="center"><a href="http://www.palmbeachjewelry.com/shopping/intelligentcataloging/catalogdirectorymain.jsp"><img src="/images/us/local/kickers/home/shope-catalog.gif" width="567" border="0"></a></td>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+</tr>
+
+	
+
+</tbody></table>
+
+
+				<!-- BEGIN: Google AdWords Analytics Tracking -->
+				<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+				</script>
+				<script type="text/javascript">
+					_uacct = "UA-404449-1";
+					urchinTracker();
+				</script>
+				<!-- END: Google -->
+		
+<!-- Footer End -->
+
+
+<!-- Content Wrap End -->
+
+
+
+
+
+</div></body></html>
