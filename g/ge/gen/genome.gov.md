@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613035206id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207125822id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # genome.gov | Web Site Privacy Policy
 
@@ -24,8 +24,6 @@ When you browse through any Web site, certain information can be collected. We a
 
 We use this information for statistical purposes and to help make our site more useful to visitors. Unless it is specifically stated otherwise, no additional personal information will be collected.
 
-**Note** : As of January 2005, NHGRI has elected to run a customer satisfaction survey about genome.gov. Many National Institutes of Health (NIH) Web sites are now running customer satisfaction surveys, also. These surveys employ OMB-approved persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites. [More information is available on this use of persistent cookies](http://www.nih.gov/about/asci.htm). 
-
 #### Personally Provided Information
 
 You do not have to give us personal information to visit our Web site. If you choose to provide additional information about yourself through an e-mail message, form, conference or software registration form, etc., we will maintain the information only to respond to your question or to fulfill the stated purpose of the communication.
@@ -40,4 +38,4 @@ NHGRI's public Web sites comply with P3P (Platform for Privacy Preferences Proje
 
 * * *
 
-_Last Reviewed: March 2006_
+_Last Updated: September 2006_
