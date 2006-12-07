@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614165100id_/http%3A//escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207080308id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Escape Travel - Privacy Policy
 
+  
+
+
+### Amended 10/07/2006
+
+  
+
+
 ## Introduction
 
-This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 ("Flight Centre", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
+This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 and its wholly owned subsidiary's Escape Travel franchisees ("Flight Centre", "we" "our" or "us") protect the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
 ## What is personal information?
 
@@ -22,7 +30,7 @@ We are required by law to obtain your consent to the collection of sensitive inf
 
 ## When we act as agent
 
-When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a Qantas flight from us, then under this policy you will have consented to your personal information being used by us, being provided to Qantas to enable your flight to be booked and being used by Qantas for Qantas purposes.
+When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a Qantas flight from us, then under this policy you will have consented to your personal information being used by us, being provided to Qantas to enable your flight to be booked and being used by Qantas for Qantas' purposes.
 
 We act as agent for many hundreds of companies, so it is not possible for us to set out in this statement exactly how each of these companies will use your personal information, but we are happy to provide more specific information to you if you email your query to us at [privacy_feedback@flightcentre.com](mailto:privacy_feedback@flightcentre.com).
 
@@ -44,13 +52,15 @@ We may use and disclose your personal information for the purposes for which it 
 
 
 
+Escape Travel franchisees may disclose your personal information to Escape Travel Franchising Pty Ltd and to Flight Centre Limited.
+
 ## Is the information disclosed to third parties?
 
 We may disclose your personal information: 
 
   * as permitted or required by law; 
   * to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes; 
-  * to our third party service providers as well as to our related entities ;
+  * to our third party service providers as well as to our related entities;
   * to third parties such as airlines, hotels, car rental companies and other service providers for the purpose for which the information was collected or for a related purpose, for example to facilitate and process your travel arrangements; and
   * to third parties who may involve you in market research for the purpose of servicing our relationship with you and improving the services we provide.
   * to third parties for the purpose of analysing trends in sales and travel destinations.
@@ -60,6 +70,8 @@ We may disclose your personal information:
 The third parties to whom we disclose your personal information may also be taken to have collected your personal information in their own right, for their internal use. For more information, see the heading above, titled "When we act as agent".
 
 Where we engage third party contractors to perform services for us those third party contractors may be required to handle your personal information. Under these circumstances those third party contractors must safeguard this information and must only use it for the purposes for which it was supplied, although we are not responsible for ensuring this. 
+
+Escape Travel franchisees may disclose your personal information to Escape Travel Franchising Pty Ltd and to Flight Centre Limited.
 
 Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity. 
 
@@ -99,5 +111,7 @@ We welcome your inquiries or comments about our Policy. Should you have any comm
 
 From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time, should this occur the amendment would be posted on our website. 
 
+  |  |   
+---|---|---  
   
 
