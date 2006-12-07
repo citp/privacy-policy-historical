@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207164325id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
-# Family Watchdog Terms of Service
-
-|  | A message from John Walsh and Julie Clark  
----  
-[ ](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&LocationID=2) | [Click for information to protect your children](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&LocationID=2)  
-   
-Attention is the Key to Prevention™  
-[ ](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://ads.infomercial.tv/trackLink.asp?linkId=1207)  
-   
-Test your child's safety knowledge  
-[ ](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://kindervision.org/quiz_portal.html) | [Take the "Greatest Save" safety test online](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://kindervision.org/quiz_portal.html)  
-   
-  
-
+# Family WatchdogTerms of Service
 
 ### Privacy Statement
 
@@ -46,23 +33,20 @@ You hate spam. We hate spam. When you register for an account, you are asked for
   * If you provide your email address, we won't email you without a good reason. We won't sell, rent, or give your email address to anyone, anywhere, at any time. Ever.
   * If you provide your telephone number, we won't call you without a good reason. We won't sell, rent, or give your telephone number to anyone, anywhere, at any time. Ever.
 
+
+
 We will only contact you under the following circumstances: 
+
   * Report a new offender in your area.
   * Announce a new feature of this site.
 
-If you have questions or believe this policy has been breached, contact us at c.s@FamilyWatchdog.US. We will investigate every report of suspected violation of this privacy policy.   
-|  | Friends of the Family  
----  
-**[The Safe Side Video](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&LocationID=3)**  
-A MUST HAVE for any family with young children  
-**[Intelius](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://find.intelius.com/redir.php?refer=1535&adwords=160x600)**  
-Background and  
-Criminal Record checks  
-**[the AmberWatch®](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://ads.infomercial.tv/trackLink.asp?linkId=1205)**  
-Protection from Predators  
-Super-Loud Safety Alarm  
-**[Neighbors Connecting](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.NeighborsConnecting.Com)**  
-Neighborhood Watch management software  
-   
-[](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://find.intelius.com/redir.php?refer=1533&adword=160x600)   
 
+
+If you have questions or believe this policy has been breached, contact us at c.s@familywatchdog.us. We will investigate every report of suspected violation of this privacy policy. 
+
+**[Neighbors Connecting](https://web.archive.org/web/20061207164325id_/http%3A//www.familywatchdog.us/redirector.asp?page=http://www.NeighborsConnecting.com)**  
+Neighborhood Watch management software
+
+* * *
+
+Paid Advertisement
