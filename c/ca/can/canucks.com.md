@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616143246id_/http%3A//www.canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207191235id_/http%3A//www.canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.*
 
-# Canucks.com - Privacy Policy
-
-**Privacy Policy**
+# The Vancouver Canucks
 
 **Canucks.com Privacy Policy**  
 
