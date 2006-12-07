@@ -1,12 +1,33 @@
-<!--The following is the downloaded HTML source of the amtrakguestrewards.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616082519id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amtrakguestrewards.com privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207182941id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Amtrak - Online Privacy &amp; Security</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Keywords" content="">
 <meta http-equiv="imagetoolbar" content="no">
-<script language="JavaScript" src="/lib.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<noscript><meta http-equiv="REFRESH" content="0; url=/servlet/ContentServer?pagename=Amtrak/NoScript"></noscript>
+
+<script language="javascript" type="text/javascript">
+<!--
+// LOGIN
+function buildLoginFrame(){var boolCompliant=isCompliantBrowser();var obj=document.getElementById("loginFrame");var login_href='/servlet/ContentServer?pagename=Amtrak/Login/LoginForm';var logout_href='servlet/ContentServer?pagename=Amtrak/Login/LogoutForm';var framehtml='<html>';framehtml+='<script>document.domain = "amtrak.com"; </script>';framehtml+='<body>';framehtml+='<form id="frameResLogin" method="post" action="https://tickets.amtrak.com/itd/amtrak/CMSLogon">';framehtml+='<input type="text" name="_name">';framehtml+='<input type="password" name="_password">';framehtml+='</form>';framehtml+='</body></html>';if(isSafari==false&&isOpera==false){var doc=null;if(obj!=null){obj.contentDocument;if(doc==undefined||doc==null){doc=obj.contentWindow.document;}}doc.open();doc.write(framehtml);doc.close();}else{var srcRef=(arguments[1]==null)?login_href:logout_href;obj.src=srcRef;}};function execLogon(frm){document.domain="amtrak.com";if(isCompliantBrowser()==true){var loginFrameParent=document.getElementById("loginFrameParent");var loginFrame=document.getElementById("loginFrame");try{if(frm){var objStat=document.getElementById("objStat");if(objStat!=null){loginFrameParent.removeChild(objStat);}}var frameDoc=loginFrame.contentDocument;if(frameDoc==undefined||frameDoc==null){frameDoc=loginFrame.contentWindow.document;}var frameFrm=frameDoc.forms[0];if(frm){frameFrm._name.value=frm._name.value;frameFrm._password.value=frm._password.value;}frameFrm.submit();loginFramePostProcess();}catch(err){frm.submit();}}else{frm.submit();}};function showLoggedIn(){var output='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';output+='<tr><td COLSPAN="2" VALIGN="bottom">';output+='<img SRC="/images/header-loggedin-home.gif" WIDTH="138" HEIGHT="18" ALT="Amtrak.com Options"/>';output+='</td></tr><tr><td CLASS="NavBarWhite" COLSPAN="2" ALIGN="center"><B>';output+=getUserName();output+='</B></td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Profile" CLASS="small">My User Profile</a>';output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Reservations" CLASS="small">My Reservations</a>';output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Itineraries" CLASS="small">My Saved Plans</a>';output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Tripfolio" CLASS="small">My Tripfolio</a>';output+='</td></tr><tr VALIGN="bottom"><td CLASS="small">';output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>';output+='</td><td CLASS="small" ALIGN="right">';output+='<a HREF="http://tickets.amtrak.com/itd/amtrak/CMSLogOff" CLASS="small">Log Out</a>';output+='</td></tr></table><br>';return output;};function showLoggedOut(argv,pagetype){var output;switch(argv){case "header":output='<form NAME="reslogin" ACTION="https://tickets.amtrak.com/itd/amtrak/CMSLogon" id="reslogin" METHOD="post" onSubmit="return false">';break;case "body":output='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';if(pagetype!=null)output+='<tr><td COLSPAN="2" VALIGN="bottom"><img SRC="/images/header-login-home.gif" WIDTH="138" HEIGHT="18" ALT="Amtrak.com Login"/>';else output+='<tr><td COLSPAN="2" VALIGN="bottom"><img SRC="/images/header-login.gif" WIDTH="156" HEIGHT="19" ALT="Amtrak.com Login"/>';output+='</td></tr><tr><td CLASS="small" ALIGN="right">User ID:</td><td><input TYPE="text" SIZE="10" NAME="_name" MAXLENGTH="20"/></td>';output+='</tr><tr><td CLASS="small" ALIGN="right">Password:</td><td><input TYPE="password" SIZE="10" NAME="_password" MAXLENGTH="20"/></td>';output+='</tr><tr><td COLSPAN="2" CLASS="small" NOWRAP><input type="checkbox" name="_remember">';output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&ibsref=remembered\', 530, 450);" CLASS="small">Remember my User ID</a>';output+='</td></tr><tr><td COLSPAN="2" HEIGHT="5"></td></tr>';break;case "footer":output='<tr VALIGN="bottom"><td CLASS="small">';output+='<a id="Aregister" HREF="https://tickets.amtrak.com/itd/amtrak/Register" CLASS="small" TITLE="Click here to register.">Register</a>';output+='</td><td CLASS="small" ALIGN="right">';output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>&nbsp;&nbsp;&nbsp;';output+='<input TYPE="image" SRC="/images/button-go2.gif" BORDER="0" ALT="Go" TITLE="Go" onClick="if(checkLoginForm()) execLogon(document.reslogin)"/>';output+='</td></tr><tr><td COLSPAN="2" CLASS="small" NOWRAP>';output+='<a HREF="javascript:openWin(\'http://tickets.amtrak.com/itd/amtrak/ForgottenPassword\', 420, 300);" CLASS="small" TITLE="Click here to request your password.">Forgot ID or Password?</a>';output+='</td></tr></table></form>';}return output;} 	
+-->
+</script>	
+
+<script language="JavaScript" src="/lib.js?v=2.2" type="text/javascript"></script>
 <link rel="STYLESHEET" href="/style0.css" type="text/css">
 </head>
 <body class="background" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" alink="#A981D4" vlink="#336699" link="#336699">
@@ -56,7 +77,7 @@ gVersion="1.2";
 
 	var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Online+Privacy+&amp;+Security;Help";
 	var iSiteWiseCName = "";
-	var iSiteWiseEDt = "&WT.mc_r=1297";
+	var iSiteWiseEDt = "&WT.mc_r=1123";
 
 	if(defSiteWiseParams.indexOf("WT.cg_s")==-1){
 		defSiteWiseParams+="&WT.cg_s=Root";
@@ -199,21 +220,27 @@ gVersion="1.2";
 
 
 
-
-
-
-
-
-
-
-
-
-
-<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Title_Image_Copy_Page&amp;cid=1093554048998&amp;c=am2Copy&amp;ssid=42">
-<img src="http://www.amtrak.com/images/sidebar_routeAtlas.gif" width="156" height="128" border="0" alt="Find Routes with our Interactive Route Atlas. Find Now."><br><br>
-</a>
-
-
+<!-- LOGIN -->
+<div id="LoginBox"></div>
+<div id="loginFrameParent">
+<div id="objStat"></div>
+<iframe width="0" height="0" style="position:absolute; visibility:hidden;" id="loginFrame" onload="loginFramePostProcess();"></iframe>
+</div>
+<script language="JavaScript" src="/cookies.js" type="text/javascript"></script>
+<script language="JavaScript1.2">
+<!--
+	var boolCompliant = false;
+	try{boolCompliant = isCompliantBrowser();}catch(e){};	
+	if( (getCookie("LoginCookie") == null && getCookie("RememberCookie") == null) || isSafari == true || isOpera == true){
+		if( getCookie("ErrorCookie") == null || isSafari == true || isOpera == true ){
+			showLoginBox();              
+		}
+		buildLoginFrame();
+	}
+	if( getCookie("ErrorCookie") != null ) WM_killCookie("ErrorCookie", "/", ".amtrak.com");
+-->
+</script>
+                    
 		<br>
 		<img src="/images/spacer-blue.gif" width="180" height="1" alt="spacer">
 	</td>
@@ -248,20 +275,20 @@ gVersion="1.2";
 				<font class="bodytext">
 				
 				<p><span class="subhead">Privacy Policy for the Amtrak.com Web Site</span><br>
-Updated: September 12, 2004</p>
+Updated: December 1, 2006</p>
 
 <p class="subheadblue">Section 1: Introduction</p>
 
-<p>At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using the Amtrak.com web site. This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using the Amtrak.com web site (referred to here as "Amtrak.com" or the "site", and accessible on the Web at www.amtrak.com), you acknowledge that understand and expressly agree to this Policy.</p>
+<p>At Amtrak, we respect your privacy and value the trust and confidence you place in us.&nbsp; We are committed to safeguarding your privacy while you're using the Amtrak.com web site.&nbsp; This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy.&nbsp; By using the Amtrak.com web site (referred to here as "Amtrak.com" or the "site", and accessible on the Web at www.amtrak.com), you acknowledge that you understand and expressly agree to this Policy.</p>
 
-<p>When you use Amtrak.com, we may collect information about your visit to the site and information that you provide. This Policy describes:</p>
+<p>When you use Amtrak.com, we may collect information about your visit to the site and information that you provide.&nbsp; This Policy describes:</p>
 
 <ul>
 <li>What personal and other information we collect (Section 2).</li>
 
 <li>How your personal information is used (Section 3).</li>
 
-<li>With whom your personal information may be shared (Section 4).</li>
+<li>With whom your personal information may be shared and Your California Privacy Rights (Section 4).</li>
 
 <li>What security precautions we implement to protect the loss, misuse or alteration of your personal information, including your credit card information (Section 5).</li>
 
@@ -271,24 +298,25 @@ Updated: September 12, 2004</p>
 
 <li>How you can contact us regarding this Policy and our privacy practices (Section 8).</li>
 
-<li>What special privacy practices and rules are in place regarding the Amtrak Guest Rewards program web site (Section 9)</li>
+<li>What special privacy practices and rules are in place regarding the Amtrak Guest Rewards program web site (Section 9).</li>
 </ul>
 
-<p>Please note that this Policy only addresses Amtrak privacy practices concerning information we collect from the Amtrak.com web site (www.amtrak.com) and the Amtrak Guest Rewards web site (www.amtrakguestrewards.com), and not other sites or other sources. This policy does not apply to information that we may collect from any other source or from other Amtrak activities or programs.</p>
+<p>Please note that this Policy only addresses Amtrak privacy practices concerning information we collect from the Amtrak.com web site (www.amtrak.com) and the Amtrak Guest Rewards web site (www.amtrakguestrewards.com), and not other sites or other sources.&nbsp; This policy does not apply to information that we may collect from any other source or from other Amtrak activities or programs.</p>
 
-<p>Please carefully read this Policy before completing a User Profile on Amtrak.com and before enrolling in the Amtrak Guest Rewards Program. If you also plan to enroll as a Member in the Amtrak Guest Rewards Program through the Amtrak Guest Rewards web site, please also carefully read Section 9 of this Policy, which contains special supplemental privacy practices and rules that apply to the personal information that you provide to us to become a Member in the Amtrak Guest Rewards Program.</p>
+<p>Please carefully read this Policy before completing a User Profile on Amtrak.com and before enrolling in the Amtrak Guest Rewards Program.&nbsp; If you also plan to enroll as a Member in the Amtrak Guest Rewards Program through the Amtrak Guest Rewards web site, please also carefully read Section 9 of this Policy, which contains special supplemental privacy practices and rules that apply to the personal information that you provide to us to become a Member in the Amtrak Guest Rewards Program.</p>
 
-<p><span class="bluebold">A Note About Changes to This Policy:</span> Please note that this Policy may change without special notice to you. Please check back to review this Policy whenever you visit the site as you will be deemed to have read, understood, and agreed to any changes. This Policy supercedes all previous statements or policies concerning Amtrak's collection of personal information from the Amtrak.com web site.</p>
+<p><span class="bluebold">A Note About Changes to This Policy:</span> Please note that this Policy may change without special notice to you.&nbsp; Please check back to review this Policy whenever you visit the site as you will be deemed to have read, understood, received notice of, and agreed to any changes.&nbsp; This Policy supercedes all previous statements or policies concerning Amtrak's collection of personal information from the Amtrak.com web site.&nbsp;<br>
+</p>
 
-<p>The date of the last update to this policy is always indicated near the top of the page.</p>
+<p>The date of the last update to this Policy is always indicated near the top of the page and any change in the date of this Policy since the last time you had visited the site shall constitute notice to you that the Policy has changed since the last time you visited the site.&nbsp; You may also see periodic statements displayed on the site notifying you that our Policy has changed, especially in places where we collect personal information from you.&nbsp; The last update to this Policy shall also be its effective date.</p>
 
 <p align="center">* * *</p>
 
 <p class="subheadblue">Section 2: The Personal Information We Collect from You on Amtrak.com and How We Collect It</p>
 
-<p>We collect personal information in several ways from several different parts of the site. The information we collect includes two basic kinds: (1) information that can identify you as a specific individual, such as your name, telephone number, or e-mail address, and (2) information that we use only as data in the aggregate.</p>
-
-<p>We ask for and collect personal information in the following circumstances:</p>
+<p>We collect personal information in several ways from several different parts of the site.&nbsp; The information we collect includes two basic kinds: (1) information that can identify you as a specific individual, such as your name, telephone number, or e-mail address, and (2) information that we use only as data in the aggregate.&nbsp; We do not knowingly collect personal information from individuals under the age of 13.&nbsp;<br>
+<br>
+We&nbsp;ask for and collect personal information in the following circumstances:</p>
 
 <p><span class="bluebold">1. When you register on Amtrak.com and create a User Profile:</span> When you register on Amtrak.com and create a User Profile, we ask for the following personal information:</p>
 
@@ -307,16 +335,16 @@ Updated: September 12, 2004</p>
 
 <li>Preferred passenger discount type</li>
 
-<li>AAA, NARP, Student Advantage, Veterans Advantage membership numbers (optional)</li>
+<li>AAA, NARP, Student Advantage, ISIC, Veterans Advantage membership numbers &nbsp;(optional)</li>
 
 <li>Amtrak Guest Rewards number (optional)</li>
 
 <li>Whether you want to receive e-mail updates</li>
 </ul>
 
-<p>We store this information in your User Profile which allows us to provide you with better service when you make reservations online. We are able to pre-populate information for you during the reservations booking process, so you will not have to re-enter it each time you book a reservation.</p>
+<p>We store this information in your User Profile which allows us to provide you with better service when you make reservations online.&nbsp; We are able to pre-populate information for you during the reservations booking process, so you will not have to re-enter it each time you book a reservation.</p>
 
-<p><span class="bluebold">2. When you purchase tickets and make a reservation online:</span> We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you make reservations and purchase tickets online, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest). We use this information to fulfill your booking requests. This information includes:</p>
+<p><span class="bluebold">2. When you purchase tickets and make a reservation online:</span> We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you make reservations and purchase tickets online, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest).&nbsp; We use this information to fulfill your booking requests.&nbsp; This information includes:</p>
 
 <ul>
 <li>Your name</li>
@@ -331,7 +359,7 @@ Updated: September 12, 2004</p>
 
 <li>Credit card type, number, expiration date, and security ID</li>
 
-<li>Travel and reservation information (departure and arrival points, dates of travel, accommodations, names and number of travelers in your party, fares)</li>
+<li>Travel and reservation information (departure and arrival points, dates of travel, train number, accommodations, names and number of travelers in your party, fares)</li>
 
 <li>Passenger discount types (if any)</li>
 
@@ -340,13 +368,11 @@ Updated: September 12, 2004</p>
 <li>Promotional codes used (if any)</li>
 </ul>
 
-<p>If you use the site to purchase tickets for more than one person, we also ask for the name of each person traveling so that we may issue a ticket in each passenger's correct name. We do not use these names of other passengers for any other purpose. We may also ask for your telephone number so that we can contact you in the event that there is a major scheduling change or cancellation of your train.</p>
+<p>If you use the site to purchase tickets for more than one person, we also ask for the name of each person traveling so that we may issue a ticket in each passenger's correct name.&nbsp; We do not use these names of other passengers for any other purpose.&nbsp; We may also ask for your telephone number so that we can contact you in the event that there is a major scheduling change or cancellation of your train.</p>
 
-<p>In addition, when you purchase tickets while logged in to the Amtrak.com site with a User Profile, we also save information about your canceled reservations, if any. Also, if you choose, we can save trip information regarding trips that you have researched, but have not yet booked. You also have the option to view a list of confirmed reservations you made online, as well as any canceled trips.</p>
+<p>In addition, when you purchase tickets while logged in to the Amtrak.com site with a User Profile, we also save information about your canceled reservations, if any.&nbsp; Also, if you choose, we can save trip information regarding trips that you have researched, but have not yet booked.&nbsp; You also have the option to view a list of confirmed reservations you made online, as well as any canceled trips.</p>
 
-<p>Please note that by making a reservation without being logged in, you automatically choose not to receive marketing communications by e-mail from Amtrak.</p>
-
-<p><span class="bluebold">3. When you make purchases of Amtrak merchandise online:</span> We collect some personal information from you when you make purchases through our online store for the purpose of fulfilling your order. This information includes:</p>
+<p><span class="bluebold">3. When you make purchases of Amtrak merchandise online:</span> We collect some personal information from you when you make purchases through our online store for the purpose of fulfilling your order.&nbsp; This information includes:</p>
 
 <ul>
 <li>Name</li>
@@ -356,6 +382,8 @@ Updated: September 12, 2004</p>
 <li>E-mail address</li>
 
 <li>Credit card type, number, expiration date</li>
+
+<li>Dollar amount purchased</li>
 </ul>
 
 <p><span class="bluebold">4. When you enroll in the Amtrak Guest Rewards Program:</span> When you become a member of the Amtrak Guest Rewards Program, we collect the following information about you:</p>
@@ -363,9 +391,9 @@ Updated: September 12, 2004</p>
 <ul>
 <li>Name</li>
 
-<li>Address</li>
+<li>Primary Address</li>
 
-<li>Home telephone number</li>
+<li>Home station location</li>
 </ul>
 
 <p>We also request other information, which you may optionally provide, including your:</p>
@@ -373,9 +401,9 @@ Updated: September 12, 2004</p>
 <ul>
 <li>E-mail address</li>
 
-<li>Employer/company name and address</li>
+<li>Company name</li>
 
-<li>Work telephone number</li>
+<li>Telephone number</li>
 
 <li>Income range</li>
 
@@ -384,25 +412,31 @@ Updated: September 12, 2004</p>
 <li>Home station location</li>
 
 <li>Date of birth</li>
+
+<li>Gender</li>
+
+<li>Location of email address</li>
+
+<li>Secondary address and location</li>
 </ul>
 
-<p><span class="bluebold">5. When you request travel and promotional information:</span> When you request information online, such as brochures, timetables and gift catalogs, we collect information from you that is necessary to fulfill our service obligations to you. This information may include your name, address and telephone number.</p>
+<p><span class="bluebold">5. When you request travel and promotional information:</span> When you request information online, such as brochures, timetables and gift catalogs, we collect information from you that is necessary to fulfill our service obligations to you.&nbsp; This information may include your name, address and telephone number.</p>
 
 <p><span class="bluebold">6. When you contact us through the site:</span> If you contact Amtrak.com through our 'Contact Us' page, we may keep a record of that correspondence which includes your e-mail address and any other information you provide to us in your correspondence.</p>
 
-<p><span class="bluebold">7. When you browse and otherwise use the web site (Cookies):</span> Each time you visit Amtrak.com, we collect some information automatically about your computer by means of a "cookie". A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. You can always choose not to receive cookies by setting your web browser's options to refuse to accept cookies.</p>
+<p><span class="bluebold">7. When you browse and otherwise use the web site (Cookies):</span> Each time you visit Amtrak.com, we collect some information automatically about your computer by means of a "cookie".&nbsp; A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive.&nbsp; You can always choose not to receive cookies by setting your web browser's options to refuse to accept cookies.</p>
 
 <p>Generally, we use cookies to:</p>
 
 <ul>
-<li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your user ID and password.</li>
+<li>Remind us of who you are and to access your account information (stored on our secure sewers) to deliver to you a better and more personalized service.&nbsp; This cookie is set when you begin the booking process or enter your user ID and password.</li>
 
-<li>Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.</li>
+<li>Estimate our audience size.&nbsp; Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.</li>
 
-<li>Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on the site.</li>
+<li>Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate.&nbsp; We may use this information to better personalize the content, banners, and promotions that you and other users will see on the site.</li>
 </ul>
 
-<p>In addition, we collect certain technical information from your computer each time you request a page during a visit to the site. This information is collected from your computer's Web browser and may include your IP address, operating system and Web browser software (e.g., Internet Explorer or Netscape).</p>
+<p>In addition, we collect certain technical information from your computer each time you request a page during a visit to the site.&nbsp; This information is collected from your computer's Web browser and may include your IP address, operating system and Web browser software (e.g., Internet Explorer or Netscape).</p>
 
 <p align="center">* * *</p>
 
@@ -425,14 +459,14 @@ Updated: September 12, 2004</p>
 
 <li>To notify you about special offers, promotions and site enhancements by e-mail, when you choose to receive them.</li>
 
-<li>When you shop online on our site: If you make an online purchase from the site, we use the information obtained during your visit, such as your credit card number and contact information, to process the order. To learn more about how we keep your credit card information secure, please refer to Section 5 of this Policy.</li>
+<li>When you shop online on our site: If you make an online purchase from the site, we use the information obtained during your visit, such as your credit card number and contact information, to process the order.&nbsp; To learn more about how we keep your credit card information secure, please refer to Section 5 of this Policy.</li>
 </ul>
 
 <p align="center">* * *</p>
 
 <p class="subheadblue">Section 4: With Whom We Share Your Personal Information</p>
 
-<p><span class="bluebold">In General:</span> We work with certain reputable independent contractors who perform certain tasks for us on a contract basis. These tasks include storing and managing customer information, and providing advice about and support for our products and services. By using these contractors, we can better offer you a variety of products and services. A partial list of the services we contract for includes the following:</p>
+<p><span class="bluebold">In General:</span> We work with certain reputable independent contractors who perform certain tasks for us on a contract basis.&nbsp; These tasks and categories of contractors include storing and managing customer information, and providing advice about and support for our products and services.&nbsp; By using these contractors, we can better offer you a variety of products and services.&nbsp; A partial list of the services we contract for includes the following:</p>
 
 <ul>
 <li>Amtrak Guest Rewards Program management</li>
@@ -442,31 +476,41 @@ Updated: September 12, 2004</p>
 <li>Customer data storage and processing</li>
 
 <li>Order fulfillment</li>
+
+<li>Amtrak Vacations</li>
+
+<li>Hotel Reservations</li>
+
+<li>Car rental reservations</li>
 </ul>
 
-<p>In addition to our contractors, we also have relationships with certain trustworthy business partners who would like you to be provided with information about their various products and services that we believe would be of interest to you. We share your personal information with these business partners.</p>
+<p>In addition to our contractors, we also have relationships with certain trustworthy business partners of another category who would like you to be provided with information about their various products and services that we believe would be of interest to you.&nbsp; We share your personal information with these business partners.</p>
 
-<p>If you make a request for information about, subscribe to, or make an online purchase of, goods or services offered by one of our business partners on the Amtrak.com site, you are giving us your express permission to share your personal information with that business partner so that your request, subscription, or purchase can be fulfilled under that partner's own online privacy policies and practices. If you enter an Amtrak sweepstakes or contest online, your personal information may be shared with the Amtrak business partners who are co-sponsors of the sweepstakes or contest and who are likely to have different privacy policies and practices than Amtrak.</p>
+<p>If you make a request for information about, subscribe to, or make an online purchase of, goods or services offered by one of our business partners on the Amtrak.com site, you are giving us your express permission to share your personal information with that business partner so that your request, subscription, or purchase can be fulfilled under that partner's own online privacy policies and practices.&nbsp; If you enter an Amtrak sweepstakes or contest online, your personal information may be shared with the Amtrak business partners who are co-sponsors of the sweepstakes or contest and who are likely to have different privacy policies and practices than Amtrak.</p>
+
+<p><span class="bluebold">Your California Privacy Rights:</span> If you are a California consumer, upon your request (see Section 8 of this Policy entitled “Contacting Us Regarding This Policy”), we will disclose to you what personal information of yours was shared with what third party business partner within the last year (including disclosing to you our partner’s name and address) if such information was used by our partner for their marketing purposes.</p>
 
 <p><span class="bluebold">Data in the Aggregate:</span> We may disclose aggregated user statistics (for example, a statistic indicating that 45% of our users are female) to describe our services to prospective partners, advertisers, and other selected third parties, and for other lawful purposes.</p>
 
-<p><span class="bluebold">Reservation of Rights:</span> We reserve the right to disclose personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this Policy or who may be causing injury to or interference with (either intentionally or unintentionally) Amtrak's rights or property, other Amtrak users, or anyone else who could be harmed by such activities. We may disclose or access account information for administrative or other purposes that we deem necessary to maintain or improve our products, services or the operation of this site, for law enforcement purposes, or when we believe in good faith that the law requires it.</p>
+<p><span class="bluebold">Reservation of Rights:</span> We reserve the right to disclose personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this Policy or who may be causing injury to or interference with (either intentionally or unintentionally) Amtrak's rights or property, other Amtrak users, or anyone else who could be harmed by such activities.&nbsp; We may disclose or access account information for administrative or other purposes that we deem necessary to maintain or improve our products, services or the operation of this site, for law enforcement purposes, or when we believe in good faith that the law requires it.</p>
 
-<p><span class="bluebold">Other Sites May Collect Information:</span> Please also be aware that when you click on an advertisement on another site that is linked to Amtrak.com, or when you otherwise use web sites that link to the Amtrak.com site, your personal information may be collected by those sites. This Policy does not cover the privacy practices of any such other web sites, and we cannot accept responsibility or liability for the privacy practices of those other sites. Please refer to those sites' privacy policies for information about their practices.</p>
+<p><span class="bluebold">Other Sites May Collect Information:</span> Please also be aware that when you click on an advertisement on another site that is linked to Amtrak.com, or when you otherwise use web sites that link to the Amtrak.com site, your personal information may be collected by those sites.&nbsp; This Policy does not cover the privacy practices of any such other web sites, and we cannot accept responsibility or liability for the privacy practices of those other sites.&nbsp; Please refer to those sites' privacy policies for information about their practices.</p>
 
-<p><span class="bluebold">Special Note for Amtrak Guest Rewards Program Members:</span> When you join the Amtrak Guest Rewards Program, you agree to allow Amtrak to share with participating business partners of the Amtrak Guest Rewards program your personal information for the purpose of providing you with information and promotions. Please refer to Section 9 of this Policy to learn about how the Amtrak Guest Rewards Program uses your personal information.</p>
+<p><span class="bluebold">Special Note for Amtrak Guest Rewards Program Members:</span> When you join the Amtrak Guest Rewards Program, you agree to allow Amtrak to share with participating business partners of the Amtrak Guest Rewards program your personal information for the purpose of providing you with information and promotions.&nbsp; Please refer to Section 9 of this Policy to learn about how the Amtrak Guest Rewards Program uses your personal information.</p>
 
 <p align="center">* * *</p>
 
 <p class="subheadblue">Section 5: What Security Precautions We Have in Place to Protect the Loss, Misuse, or Alteration of Your Personal Information</p>
 
-<p>When you make reservations, place orders, or access account information from the site, we use SSL ("Secure Sockets Layer") encryption technology to safeguard the confidentiality of your personal information and protect your credit card information as it travels over the Internet. Once we receive your credit card information, it is stored offline in our secure data center. We protect against unauthorized access all of the customer data we collect by means of firewalls and other security measures.</p>
+<p>When you make reservations, place orders, or access account information from the site, we use SSL ("Secure Sockets Layer") encryption technology to safeguard the confidentiality of your personal information and protect your credit card information as it travels over the Internet.&nbsp; Once we receive your credit card information, it is stored offline in our secure data center.&nbsp; We protect against unauthorized access all of the customer data we collect by means of firewalls and other security<br>
+measures.</p>
 
-<p>Your User Profile Information and Amtrak Guest Rewards Membership Account Information (should you enroll in the Amtrak Guest Rewards Program) are password-protected. We recommend that you do not divulge your password to anyone. Also remember to sign out of your Amtrak account and close your browser window when you have finished. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet "cafe."</p>
+<p>Your User Profile Information and Amtrak Guest Rewards Membership Account Information (should you enroll in the Amtrak Guest Rewards Program) are password-protected.&nbsp; We recommend that you do not divulge your password to anyone.&nbsp; Also remember to sign out of your Amtrak account and close your browser window when you have finished.&nbsp; This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet "cafe."</p>
 
-<p>When you give Amtrak personal information online, that information may be sent electronically to servers outside and separate from Amtrak and outside of the state where you originally entered the information. In addition, that information may be used, stored and processed outside of Amtrak and outside of the state where you entered that information. Whenever we handle personal information as described above, regardless of where this occurs, we take steps to ensure that your personal information is treated securely.</p>
+<p>When you give Amtrak personal information online, that information may be sent electronically to servers outside and separate from Amtrak and outside of the state where you originally entered the information.&nbsp; In addition, that information may be used, stored and processed outside of Amtrak and outside of the state where you entered that information.&nbsp; Whenever we handle personal information as described above, regardless of where this occurs, we take steps to ensure that your personal information is treated securely.&nbsp;<br>
+</p>
 
-<p>Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to Amtrak.com, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. However, we cannot accept liability for disclosure of any personal information due to errors in transmission or unauthorized acts or errors and omissions of third parties.</p>
+<p>Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure.&nbsp; As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to Amtrak.com, and you do so at your own risk.&nbsp; Once we receive your transmission, we make our best effort to ensure its security on our systems.&nbsp; However, we cannot accept liability for disclosure of any personal information due to errors in transmission or unauthorized ads or errors and omissions of third parties.</p>
 
 <p align="center">* * *</p>
 
@@ -474,11 +518,11 @@ Updated: September 12, 2004</p>
 
 <p>When you register on Amtrak.com and create a User Profile, you can choose not to receive information and offers by e-mail.</p>
 
-<p>You may change your preferences regarding whether you want to receive mail or e-mail at any time by accessing and updating your User Profile. You may access your User Profile by clicking on the 'My User Profile' link in the left navigation bar on most pages of the Amtrak.com web site.</p>
+<p>You may change your preferences regarding whether you want to receive mail or e-mail at any time by accessing and updating your User Profile.&nbsp; You may access your User Profile by clicking on the 'My User Profile' link in the left navigation bar on most pages of the Amtrak.com web site.</p>
 
 <p>You may make changes to your Amtrak Guest Rewards Program information by contacting the Amtrak Guest Rewards Service Center at 1-800-307-5000 or by accessing your Amtrak Guest Rewards account information online at www.amtrakguestrewards.com.</p>
 
-<p>If you have processed a request to delete, correct, or update any part of your User Profile or Amtrak Guest Rewards Membership Account, we will make every reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received your personal information and that they too have either deleted and/or revised the information in accordance with your latest instructions.</p>
+<p>If you have processed a request to delete, correct, or update any part of your User Profile or Amtrak Guest Rewards Membership Account, we will make every reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received your personal information and that they too have either deleted and/or revised the information in accordance with your latest instructions.&nbsp; Changes made in either your User Profile or Amtrak Guest Rewards Membership Account will not be reflected in the other account until you make such changes.</p>
 
 <p>Please note that our contract service providers require a reasonable amount of time to update, correct, or delete the information in accordance with your instructions.</p>
 
@@ -486,33 +530,42 @@ Updated: September 12, 2004</p>
 
 <p class="subheadblue">Section 7: Your Choices Regarding Collection, Use, and Distribution of Your Personal Information, Including Your Ability to Choose Not to Receive Promotional Information by E-mail</p>
 
-<p>We may, from time to time, send e-mail correspondence regarding Amtrak products and services to customers who have a User Profile and who have not opted out of the e-mail program.</p>
+<p>We may, from time to time, send e-mail correspondence regarding Amtrak products and services to customers who have a User Profile and who have opted into the e-mail program.</p>
 
-<p>We also may, from time to time, offer you the choice to receive promotional information about our trustworthy business partners by e-mail. If you do not want to receive such e-mail messages, you will have the opportunity to indicate your choice when such services are offered. You also may change your e-mail preferences at any time by accessing your User Profile or Amtrak Guest Rewards Program account information.</p>
+<p>We also may, from time to time, offer you the choice to receive promotional information about our trustworthy business partners by e-mail.&nbsp; If you do not want to receive such e-mail messages, you will have the opportunity to indicate your choice when such services are offered.&nbsp; You also may change your e-mail preferences at any time by accessing your User Profile or Amtrak Guest Rewards Program account information.</p>
 
 <p align="center">* * *</p>
 
-<p class="subheadblue">Section 8: Contacting Us Regarding This Policy</p>
+<p class="subheadblue">Section 8: Contacting Us Regarding This Policy and Regarding Your California Privacy Rights</p>
 
-<p>If you have questions or concerns regarding this Policy, you may use the form on the 'Contact Us' page at the top of most pages on the Amtrak.com web site. You may access the 'Contact Us' page by clicking the link at the top of most pages on this site.</p>
+<p>If you have questions or concerns regarding this Policy, you may use the form on the 'Contact Us' page at the top of most pages on the Amtrak.com web site.&nbsp; You may access the 'Contact Us' page by clicking the link at the top of most pages on this site.</p>
+
+<p>California Civil Code § 1798.83 entitles residents of California to request information concerning with which third parties Amtrak has shared personal information in the immediately preceding calendar year for those third parties’ direct marketing purposes. California residents may submit <strong>one</strong> request per calendar year in the form of a report that details: (a) what types of information Amtrak shared, (b) with whom Amtrak shared such information and (c) the nature of the third parties’ businesses.</p>
+
+<p>California residents may submit their request for this report to:</p>
+
+<p>Amtrak California Privacy Rights<br>
+10 G Street N.E.<br>
+Suite 3E-565<br>
+Washington, DC 20002</p>
 
 <p align="center">* * *</p>
 
 <p class="subheadblue">Section 9: Special Privacy Practices and Rules for the Amtrak Guest Rewards Program</p>
 
-<p><span class="bluebold">Introduction:</span> If you enroll as a member of the Amtrak Guest Rewards Program, there are special supplemental privacy practices and rules that apply to the personal information that you provide. These special rules and privacy practices, which you understand and expressly agree to when you join the Amtrak Guest Rewards Program, are presented below. Please note that these special rules and practices pertain only to the Amtrak Guest Rewards Program. They do not apply to the personal information that you provide to us on other portions of Amtrak.com.</p>
+<p><span class="bluebold">Introduction:</span> If you enroll as a member of the Amtrak Guest Rewards Program, there are special supplemental privacy practices and rules that apply to the personal information that you provide.&nbsp; These special rules and privacy practices, which you understand and expressly agree to when you join the Amtrak Guest Rewards Program, are presented below.&nbsp; Please note that these special rules and practices pertain only to the Amtrak Guest Rewards Program.&nbsp; They do not apply to the personal information that you provide to us on other portions of Amtrak.com.</p>
 
 <p>In the event of any inconsistency between any portion of Section 9 and any other portion of this Policy, that portion of Section 9 that is inconsistent with any other portion of this Policy supercedes and governs over the inconsistent Policy term(s) with respect to the privacy rules and practices of the information collected under the Program.</p>
 
-<p><span class="bluebold">Information Collection:</span> When you become an Amtrak Guest Rewards Member, we collect your name, address, country and home telephone number. We may request other information which you may provide at your option. This optional information includes your e-mail address, company name and address, income range, work telephone number, purpose of most travel, home station location, and date of birth.</p>
+<p><span class="bluebold">Information Collection:</span> When you become an Amtrak Guest Rewards Member, we collect your name, address, country and home station.&nbsp; We may request other information which you may provide at your option.&nbsp; This optional information includes your e-mail address, company name and address, income range, work telephone number, purpose of most travel, home station location, and date of birth.</p>
 
 <p>The Amtrak Guest Rewards Program may also receive personal information about you from participating business partners of the Program.</p>
 
 <p><span class="bluebold">Choices are available to you regarding the use and sharing of your personal information:</span> By joining the Amtrak Guest Rewards Program, you expressly give us your permission that the personal information that you have provided to us by joining the Amtrak Guest Rewards Program may be accessed by or shared with our program's trustworthy business partners through our reputable contract service providers under that partner's own policies and practices.</p>
 
-<p>In addition, you agree that we may update and/or revise database information that we currently have about you. You also agree that we may send you by mail information about the Program, and other information, including information provided by our Program's participating business partners. These practices are necessary to administer the Program and its services. We will also inform you about special offers and promotions regarding products and services that may be of interest to you.</p>
+<p>In addition, you agree that we may update and/or revise database information that we currently have about you.&nbsp; You also agree that we may send you by mail information about the Program, and other information, including information provided by our Program's participating business partners.&nbsp; These practices are necessary to administer the Program and its services.&nbsp; We will also inform you about special offers and promotions regarding products and services that may be of interest to you.</p>
 
-<p>When you enroll in the Program, you may elect not to receive special information and offers by e-mail. You may also at any time change your preferences regarding whether you want to receive mail or e-mail by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000. Your desire to receive e-mail may also be changed online by accessing your Membership Account. You will find a convenient link to your account information on the Amtrak Guest Rewards Home Page at www.amtrakguestrewards.com.</p>
+<p>When you enroll in the Program, you may elect not to receive special information and offers by e-mail.&nbsp; You may also at any time change your preferences regarding whether you want to receive mail or e- mail by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000.&nbsp; Your desire to receive e-mail may also be changed online by accessing your Membership Account.&nbsp; You will find a convenient link to your account information on the Amtrak Guest Rewards Home Page at www.amtrakguestrewards.com.</p>
 				</font>
 
 			</td>
@@ -578,7 +631,7 @@ Updated: September 12, 2004</p>
 	</tr>
 	<tr>
 		<td class="FooterBlue" align="CENTER" width="100%">
-			<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/InsideAmtrak" class="FooterBlue">Inside Amtrak</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/PressRoom" class="FooterBlue">Press &amp; Media</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/SiteMap" class="FooterBlue">Site Map</a>&nbsp;|&nbsp;<a href="http://store.amtrak.com" class="FooterBlue">Amtrak Store</a>
+			<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/InsideAmtrak" class="FooterBlue">Inside Amtrak</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/PressRoom" class="FooterBlue">News &amp; Media</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/SiteMap" class="FooterBlue">Site Map</a>&nbsp;|&nbsp;<a href="http://store.amtrak.com" class="FooterBlue">Amtrak Store</a>
 		</td>
 	</tr>
 	<tr>
