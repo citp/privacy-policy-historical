@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extendedstayamerica.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616160050id_/http%3A//www.extendedstayamerica.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayamerica.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207191624id_/http%3A//www.extendedstayamerica.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Extended StayAmerica Hotels - Extended Stay and Corporate Housing
 
-Extended Stay Hotels and its four hotel brands, Extended StayAmerica Efficiency Studios, Homestead Studio Suites Hotels, StudioPLUS Deluxe Studios, and Crossland Economy Studios have created this privacy statement because we are committed to protecting our guests' privacy. The following discloses our security, information gathering and dissemination practices for the ExtendedStayHotels.com Web site. 
+Extended Stay HotelsSM and its five hotel brands, Extended Stay DeluxeSM, Extended Stay America Efficiency Studios®, Homestead Studio Suites®, StudioPLUS Deluxe Studios®, and Crossland Economy Studios® have created this privacy statement because we are committed to protecting our guests' privacy. The following discloses our security, information gathering and dissemination practices for the ExtendedStayHotels.com Web site. 
 
 ###### Information Collection and Use
 
