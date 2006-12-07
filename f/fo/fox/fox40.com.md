@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621085343id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207141606id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
 
 # FOX40 KTXL | Privacy Policy
 
@@ -45,7 +45,7 @@ We can be reached by contacting:
 **KTXL.com  
 4655 Fruitridge Road  
 Sacramento, CA 95820-5299  
-E-mail: [Fox40Admin@Tribune.com](mailto:Fox40Admin@Tribune.com)**
+E-mail: [Fox40Admin@Tribune.com](mailto:Fox40Admin@Tribune.com?subject=Privacy%20Policy)**
 
   
 **Changes to this policy.**
