@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615075211id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207085653id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
 
 # Common Sense Media - Family Friendly Reviews
 
@@ -12,7 +12,7 @@ Because we respect your privacy, we want to disclose to you how we use the infor
 
 #### Cookies
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. Cookies let our website "remember" information about your preferences and passwords and allow you to move within our website and use our services without having to login every time you visit the website. We do not use cookies to store personal information about our users. 
+Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. Cookies let our website "remember" information about your preferences and passwords and allow you to move within our website and use our services without having to login every time you visit the web site. We do not use cookies to store personal information about our users. 
 
 #### Log Files and Electronic Footprints
 
@@ -29,31 +29,27 @@ We encourage users of the site to become registered members of Common Sense Medi
 
 On the registration page we ask for the following pieces of information:
 
-**Screen Name (Sign In Name) and Password** \-- The screen name and password you choose should be a something that is known only to you. We suggest that you NOT use your real name for your screen name or your password to protect your privacy. The password you choose is case-sensitive and should be under 20 characters. All passwords are encrypted, so we will not know the password that you have entered. If you write a review, your screen name will be displayed with your review, although you will have the option to remain anonymous in which case we will not display your screen name with your review.
+**Screen Name (Sign In Name) and Password** \-- The screen name and password you choose should be a something that is known only to you. We suggest that you NOT use your real name for your screen name or your password to protect your privacy. The password you choose is case-sensitive and should be under 20 characters. All passwords are encrypted, so we will not know the password that you have entered. If you write a review, your screen name will be displayed with your review, although you will have the option to remain anonymous with each review in which case we will not display your screen name with your review.
 
 **Age** \-- We use your age to see how many people in your age group are using the site. We also display the age of a reviewer from individuals who are 17 years of age and younger (these reviews are displayed as "kids" on our website) along with the content of the review.
 
-**Gender** \-- We use this information to see how many people from each gender are using the site. 
+**Password Hint Question and Answer** \-- We use this information in case you have registered and then at a later date forget your password. You can then click the "forgot password" link, enter your zip code and Screen Name, and the Web site will assign you a new, random and encrypted password that you can then edit to anything you would like on your profile page
 
 **Zip Code** \-- We use this information to understand the demographics of our visitors.
 
 #### The following information is only collected from individuals 13 years of age and older:
 
-**Email Address** \-- We use your email address to send you our weekly Newsletters and other emails about our organization, mission and advocacy goals. If you do not want to receive our weekly Newsletters you have the option to decline to be added to the Newsletter distribution list. Common Sense Media may also contact you with special Common Sense Media mission-related e-mails. These correspondence emails are separate from our weekly Newsletters.
+**Email Address** \-- We use your email address to send you our weekly Newsletters and other emails about our organization, mission and advocacy goals. If you do not want to receive our weekly Newsletters you have the option to decline to be added to the Newsletter distribution list. Common Sense Media may also contact you with special Common Sense Media mission-related e-mails. These correspondence emails are separate from our weekly Newsletters. You can unsubscribe from these newsletters by clicking on the "unsubscribe" link located at the bottom of every email.
 
-Your email address will also be used to pre-populate the "Write Media Producers" form.
+**First Name** \-- We collect your name (optional) so we can have a complete list of the users of our website and so we can personalize the email newsletters that we send to you. 
 
-**First Name, Middle Name, Last Name, Address** \-- We collect your name so we can have a complete list of the users of our website. We may also send information letters to our members through the mail. Your first and last name will also be used to pre-populate the "Write Media Producers" form.
-
-**City and State** \-- e use this information to understand the demographics of our visitors. We also display the city and state of a reviewer from individuals who are 18 years of age and older (these reviews are displayed as "adults" on our website) along with the content of the review. 
+**Number of Kids** \-- We use this information to better understand the users of our site. 
 
 #### Weekly Newsletter
 
-If you wish to subscribe to our weekly Newsletters, we ask for your email address and zip code. This information is fully bound by our privacy policy and this email list is not shared with or sold to anyone for any purpose, except in accordance with this Privacy Policy.
+When you register on our site you have the option to sign-up for our weekly newsletter. If you chose to subscribe to this weekly newsletter you will receive your first edition within the first week of your registration. We generally send the weekly newsletter on Fridays although may send on alternate days as well.
 
-If you sign up to receive our newsletter and later want to be removed from this distribution list, you can unsubscribe from the newsletter by clicking on the "unsubscribe" link located at the bottom of any newsletter. 
-
-Individuals 12 years of age and younger may sign up to receive the newsletter, however, we do not the store the email address with the user name and password or any other information collected in the registartion section. The email address for the newsletter is stored in a separate location and cannot be connected with any personally identifiable information.
+If you sign up to receive our weekly newsletter and later want to be removed from this distribution list, you can unsubscribe from the newsletter by clicking on the "unsubscribe" link located at the bottom of any newsletter. You can also unsubscribe from our weekly newsletter by sending us an email at privacy[at]commonsensemedia[dot]org and include the email address that you would like to be unsubscribed. You can also unsubscribe by visiting your profile page and unchecking "unsubscribe" next to the weekly newsletter option.
 
 #### Limited Disclosure
 
@@ -75,7 +71,7 @@ CSM has security measures in place to protect against the loss, misuse, and alte
 
 #### Changing Registration Information
 
-We encourage Common Sense Media members to update and edit their personal information and keep it current. If you are already a Common Sense Media registered member and you would like to change your personal information, you can do this by clicking on the "Edit Your Profile" button located in the top right corner of the screen. If you decide that you would no longer like to be a member of Common Sense Media and you would like your personal information deleted from our database, please send an email to privacy[at]commonsensemedia[dot]org and include your screen name and email address.
+We encourage Common Sense Media members to update and edit their personal information and keep it current. If you are already a Common Sense Media registered member and you would like to change your personal information, you can do this by clicking on the "My Profile" button located in the top right corner of the screen. If you decide that you would no longer like to be a member of Common Sense Media and you would like your personal information deleted from our database, please send an email to privacy[at]commonsensemedia[dot]org and include your screen name and email address.
 
 #### Changes to this Privacy Policy
 
