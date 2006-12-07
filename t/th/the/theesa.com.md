@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616124754id_/http%3A//theesa.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207123106id_/http%3A//theesa.com/privacy/index.php) for the most accurate reproduction.*
 
 # ESA
 
@@ -143,14 +143,14 @@ Washington, DC 20004
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it. 
 
-ESA is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
+ESA is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
 
 ESRB  
 Attn.: Privacy Online Program   
 317 Madison Avenue, 22nd Floor   
 New York, NY 10017   
 212-759-0700   
-[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
+[privacy@esrb.org](mailto:privacy@esrb.org)
 
 **How will you know if we amend this Privacy Policy?**
 
