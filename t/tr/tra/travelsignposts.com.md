@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429100332id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207044733id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
 ##### 
+
+[](http://www.travelsignposts.com/Destinations/Trogir/DSC_1714)  
+Trogir, Croatia  
+ _From:_[Trogir](http://www.travelsignposts.com/Destinations/Trogir)
 
 | 
 
@@ -13,34 +17,12 @@ Our Privacy Statement  |
 
 ##### 
 
+[](http://www.travelsignposts.com/Destinations/StAndrews/Scot_0151)  
+The charter reserves the right of the people of St. Andrews to use the linksland “for golff, futball, schuteing and all gamis” [St Andrews Links - Scotland]  
+ _From:_[St Andrew's and the Grampians](http://www.travelsignposts.com/Destinations/StAndrews)
+
 | 
 
-Travel Signposts Forums Latest  
-  
----  
-  
-| [**Welcome to the Travel Signposts Forums!**](http://www.travelsignposts.com/forums/index.php?showtopic=3) in [European Coach Tour Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**travel**](http://www.travelsignposts.com/forums/index.php?showuser=1) at **Nov 6 2003, 12:56 AM** )  
----  
-Replies: **2** :: Views: **1384** :: Last comment by **[travel](http://www.travelsignposts.com/forums/index.php?showuser=1)** at **Dec 20 2005, 02:46 AM**  
-  
-[**Where to stay in Milan?**](http://www.travelsignposts.com/forums/index.php?showtopic=27) in [Pre-Trip Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**Traveler**](http://www.travelsignposts.com/forums/index.php?showuser=28) at **Dec 6 2005, 07:34 AM** )  
----  
-Replies: **1** :: Views: **169** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 15 2005, 04:17 AM**  
-  
-[**Planning a trip to Vienna? Looking for a hotel?**](http://www.travelsignposts.com/forums/index.php?showtopic=26) in [Pre-Trip Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**Snoopy**](http://www.travelsignposts.com/forums/index.php?showuser=27) at **Nov 23 2005, 07:49 AM** )  
----  
-Replies: **1** :: Views: **200** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 15 2005, 04:19 AM**  
-  
-[**African Adventure**](http://www.travelsignposts.com/forums/index.php?showtopic=12) in [Which Tour For Me?](http://www.travelsignposts.com/forums/index.php?) (Started by [**lisa1212uk**](http://www.travelsignposts.com/forums/index.php?showuser=16) at **May 24 2005, 06:00 AM** )  
----  
-Replies: **1** :: Views: **410** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 15 2005, 04:09 AM**  
-  
-[**Apartments Ukraine, Odessa**](http://www.travelsignposts.com/forums/index.php?showtopic=39) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**ukraineodessa**](http://www.travelsignposts.com/forums/index.php?showuser=32) at **Feb 21 2006, 04:52 AM** )  
----  
-Replies: **0** :: Views: **105** :: Last comment by **[ukraineodessa](http://www.travelsignposts.com/forums/index.php?showuser=32)** at **Feb 21 2006, 04:52 AM**  
-  
-  
-  
   
 We respect the privacy of those who visit our web site and those who become subscribers. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users:
 
