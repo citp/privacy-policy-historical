@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyfinder.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021753id_/http%3A//www.propertyfinder.com/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D1156) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyfinder.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207053052id_/http%3A//www.propertyfinder.com/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D1156) for the most accurate reproduction.*
 
 # Property, land and homes for sale, lease and rent - propertyfinder.com
 
