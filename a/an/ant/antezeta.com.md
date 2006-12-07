@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615071932id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207062545id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
 
-# ·» Antezeta - Data Privacy Statement
-
-[Home](http://www.antezeta.com/ "Site start page") → [About](http://www.antezeta.com/about.html "Information about this site") → Data Privacy Statement
+# » Antezeta - Data Privacy Statement
 
 This page explains our privacy policy and how we will use any information resulting from your visit to our website.
 
@@ -41,10 +39,10 @@ Our site offers the possibility for you to contact us via e-mail. Should you so 
 
 This site may use cookies to offer personalization for returning site visitors and to improve the quality of site statistics. For more information about cookies, see any of the following cookies resources.
 
-  * U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin [I-034 Internet Cookies](http://www.ciac.org/ciac/bulletins/i-034.shtml "U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin I-034 Internet Cookies \[new window\]")
-  * [The Unofficial Cookie FAQ](http://www.cookiecentral.com/faq/ "The Unofficial Cookie FAQ \[new window\]")
-  * [aboutcookies.org](http://www.aboutcookies.org/ "aboutcookies.org \[new window\]")
-  * [The original Netscape Cookie Specification](http://wp.netscape.com/newsref/std/cookie_spec.html "The original Netscape Cookie Specification \[new window\]")
+  * U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin [I-034 Internet Cookies](http://www.ciac.org/ciac/bulletins/i-034.shtml "U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin I-034 Internet Cookies")
+  * [The Unofficial Cookie FAQ](http://www.cookiecentral.com/faq/ "The Unofficial Cookie FAQ")
+  * [aboutcookies.org](http://www.aboutcookies.org/ "aboutcookies.org")
+  * [The original Netscape Cookie Specification](http://wp.netscape.com/newsref/std/cookie_spec.html "The original Netscape Cookie Specification")
 
 
 
