@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203334id_/http%3A//bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207115026id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Bed and Breakfasts: Bed & Breakfast Accommodation B&Bs
+# Privacy Bed and Breakfasts: Privacy Bed and Breakfast Accommodation B&Bs
 
 **BBCanada.com**  
 **Privacy Policy Statement**
@@ -34,7 +34,7 @@ We respect the privacy of all of our online users, especially children. We do no
 If you have any questions or comments about this Policy, please contact:
 
 Bed & Breakfast Online Canada, Inc.  
-361 Jackson Street West, Unit 209  
+361 Jackson Street West, Suite 209  
 Hamilton, ON., L8P 1N2  
 Canada
 
