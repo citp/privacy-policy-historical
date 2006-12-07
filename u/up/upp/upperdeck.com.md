@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616153116id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207213345id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
 
-# Upper Deck Account Login Page
+# The Upper Deck Company: Privacy Policy
 
 **PRIVACY STATEMENT**
 
@@ -44,7 +44,7 @@ Many websites link to Upper Deck and we may link to other websites which we thin
 Children should always check with a parent or legal guardian before linking to any new sites. Please refer to the privacy policies on these sites to learn how they collect and use information. 
 
 **Opt-out**   
-If you would prefer not to receive direct communications with regard to our products and/or services anymore, you may opt-out may by following the directions on the bottom of our e-mails to you. 
+If you would prefer not to receive direct communications with regard to our products and/or services anymore, you may opt-out by following the directions on the bottom of our e-mails to you. 
 
 **Review and Correction of Your Information**   
 If for any reason you are concerned that the personal information about you that is maintained by Upper Deck is incorrect and needs to be changed or deleted, please contact us by e-mail and we will be happy to update or remove your personal information accordingly. We may continue to retain your information in our files due to technical and legal requirements, constraints related to the security, integrity and operation of the Websites or to resolve disputes. 
@@ -77,5 +77,5 @@ Fax number: (011) 31 294 492 401
 
 The Upper Deck Company, LLC   
 5909 Sea Otter Place   
-Carlsbad, California 92008   
+Carlsbad, California 92010   
 Fax number: (760) 929-3194 
