@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618215114id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207052212id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
 
-# News for Austin, Texas | kvue.com | Privacy Policy
-
-| 
+# Privacy Policy | About Us | News for Austin, Texas | kvue.com |
 
 ## Privacy Policy
 
@@ -102,7 +100,8 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) <http://www.kvue.com/sharedcontent/registration/membercenter.jsp> in your browser.
+  1. Enter (or click) [http://www.kvue.com/sharedcontent/registration/  
+membercenter.jsp](http://www.kvue.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -124,15 +123,3 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 **Effective Date and Changes**
 
 This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
-
-This text is invisible on the page, but this text is affected by the invisible item's flow. This text is invisible on the page, but this text is affected by the invisible item's flow.
-
-| 
-
-Advertising 
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/376450149/Position1/default/empty.gif/7a2f48683746347a686f594142745649?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1280070514/Position4/default/empty.gif/7a2f48683746347a686f594142745649?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/348641862/Position5/default/empty.gif/7a2f48683746347a686f594142745649?x)
