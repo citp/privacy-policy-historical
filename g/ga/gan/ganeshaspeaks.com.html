@@ -1,17 +1,38 @@
-<!--The following is the downloaded HTML source of the ganeshaspeaks.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616065444id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ganeshaspeaks.com privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207062219id_/http%3A//ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <html><head>
-<title>Page Title</title>
-<!--SHORTCUT ICON-->
-<link rel="shortcut icon" href="./siteicon/ganesha.ico">
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="cache-control" content="no-cache">
-<meta http-equiv="expires" content="0">
-<link href="./all.css" rel="stylesheet" type="text/css">
-<link href="./own.css" rel="stylesheet" type="text/css">
-<style type="text/css">
+		<title>Free Astrology, Free Horoscope by GaneshaSpeaks.com</title>
+		<link rel="alternate" title="Daily Zodiac Horoscope by GaneshaSpeaks.com" href="http://www.ganeshaspeaks.com/horoscopes/dailyhoroscope.xml" type="application/rss+xml">
+		
+<meta name="description" content="GaneshaSpeaks.com offers free and personalized astrology and horoscope for career, money, business, love, romance &amp; property. GaneshaSpeaks.com also predicts the FIFA World Cup, English Premier League, Champions Trophy, etc.">
+<meta name="keywords" content="horoscope, daily horoscope, free horoscope, love horoscope, free daily horoscope, weekly horoscope, monthly horoscope, astrology, free astrology, vedic astrology, indian astrology">
+
+<meta name="classification" content="Astrology &amp; Horoscope">   
+<meta name="distribution" content="Global">
+<meta name="publisher" content="Astrology &amp; Horoscopes - GaneshaSpeaks.com">
+<meta name="robots" content="index,follow">
+<meta name="author" content="mobilefundas.com">
+<meta name="reply-to" content="contact@ganeshaspeaks.com">
+<meta name="language" content="en-gb">
+<meta name="copyright" content="2006 www.ganeshaspeaks.com">
+
+<meta name="rating" content="General">
+<meta name="audience" content="All">
+<meta name="revisit-after" content="2 days">
+<meta name="document-class" content="Living Document">
+<meta name="document-state" content="Dynamic">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	
+		<!--SHORTCUT ICON-->
+		<link rel="shortcut icon" href="./siteicon/ganesha.ico">
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta http-equiv="pragma" content="no-cache">
+		<meta http-equiv="cache-control" content="no-cache">
+		<meta http-equiv="expires" content="0">
+		<link href="./all.css" rel="stylesheet" type="text/css">
+		<link href="./own.css" rel="stylesheet" type="text/css">
+		<style type="text/css">
 <!--
 body {
 	margin-left: 0px;
@@ -21,11 +42,14 @@ body {
 }
 -->
 </style>
-<script language="JavaScript" src="./validator.js"></script>
-<script language="JavaScript" src="./cookies.js"></script>
-<script>
+		<script language="JavaScript" src="./validator.js"></script>
+		<script language="JavaScript" src="./cookies.js"></script>
+		<script>
 <!--
 	function x(){
+	}
+	function placeBannerOrder(){
+		document.topProductBanner.submit()
 	}
 	function setProductID(pid){
 		document.login_form.productID.value = pid;
@@ -40,7 +64,6 @@ body {
 		var isValid = true;
 		if(trimString(getHTMLElement(usrnm).value).length < 3){
 			isValid = false;
-			alert('Please enter valid User Name');
 		}else if(trimString(getHTMLElement(psd).value).length < 1){
 			isValid = false;
 			alert('Please enter your Password');
@@ -51,35 +74,77 @@ body {
 			document.login_form.submit();
 		}
 	}
+	function doLogin(usrnm, psd, isChkd){
+		var isValid = true;
+		if(!isValidEmail(getHTMLElement(usrnm).value)){
+			alert('We are sorry, username(email) is not proper.');
+			getHTMLElement(usrnm).focus();
+			isValid = false;
+		}else if(trimString(getHTMLElement(psd).value).length < 6){
+			isValid = false;
+			alert('We are sorry, password must be minimum 6 characters long.');
+			getHTMLElement(psd).focus();
+		}
+		if(isValid == true){
+			document.login_form.userName.value = getHTMLElement(usrnm).value;
+			document.login_form.userPWD.value = getHTMLElement(psd).value;
+			if(isChkd == true){
+				document.login_form.rememberme.value = 'yes';
+			} else {
+				document.login_form.rememberme.value = 'no';
+			}
+			document.login_form.submit();
+		}
+	}
+	function personalise(){
+		document.forms['personalisedForm'].submit();
+	}
 -->
 </script>
-</head>
-<body>
-<script type="text/javascript" language="javascript">
+	</head>
+	<body>
+		<script type="text/javascript" language="javascript">
 <!--
-var tzo=(new Date()).getTimezoneOffset();
-setCookie('tz', tzo);
+function placeTimeZone(){
+	var date = new Date();
+	date.setTime(date.getTime()+2147483647* 1000);
+	var expires = date.toGMTString();
+	var tzo=(new Date()).getTimezoneOffset();
+	setCookie('tz', tzo,expires);
+
+	setCookie("GSCheck","TRUE",-1);
+	if(getCookie("GSCheck") == null){
+		return;
+	}
+	window.location.href = window.location.href;
+}
+if(getCookie('tz') == null){
+	placeTimeZone();
+}
 //-->
 </script>
-
-<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center">
-	<tbody><tr>
-		<td>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		
+		<form name="topProductBanner" method="post" action="http://www.ganeshaspeaks.com/personals.jsp">
+			<input type="hidden" name="product" value="103">
+		</form>
+		<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center">
 			<tbody><tr>
-				<td width="256">
-					<a href="./"><img src="./images/logogs.jpg" width="256" height="91" border="0" alt="GaneshaSpeaks.com - astrology by bejan daruwalla"></a>
-				</td>
-				<td align="center" valign="middle">
-					<a href="./specials.jsp" title="FIFA World Cup - 2006"><img src="./banner/fifa_banner.gif" height="60" vspace="3" width="468" border="0" alt="FIFA World Cup - 2006"></a>
+				<td>
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td width="256">
+								<a href="./"><img src="./images/logogs.jpg" width="256" height="91" border="0" alt="GaneshaSpeaks.com - astrology by bejan daruwalla"></a>
+							</td>
+							<td align="center" valign="middle">
+								<a href="javascript:placeBannerOrder()" title="How will 2007 be for you?....... Get a personalised 2007 yearly report by The GaneshaSpeaks Team"><img src="./banner/2007_468.gif" height="60" vspace="3" width="468" border="0" alt="How will 2007 be for you?....... Get a personalised 2007 yearly report by The GaneshaSpeaks Team"></a>
+							</td>
+						</tr>
+					</tbody></table>
 				</td>
 			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			
+			<tr>
+				<td>
+					
 		
 
 <script>
@@ -91,7 +156,7 @@ setCookie('tz', tzo);
 </script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td width="10%" onclick="loadTabPage('./index.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/index.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -102,18 +167,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#C31D00" width="9" valign="top" align="right"><img src="./images/tabImages/red_lefttab.jpg" border="0"></td>
-		<td bgcolor="#C31D00" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#FFFFFF">Home</span></td>
+		<td bgcolor="#C31D00" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/index.jsp"><span style="text-decoration:none;font-weight: bold;color:#FFFFFF">Home</span></a></td>
 		<td bgcolor="#C31D00" width="11" valign="top" align="left"><img src="./images/tabImages/red_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#C31D00' width="9" valign="top" align="right"><img src='./images/tabImages/red_lefttab.jpg' border='0'></td>
-		<td bgcolor='#C31D00' align="center" valign="middle"><a href='./index.jsp'><span style='text-decoration:none;font-weight: bold;color:#FFFFFF'>Home</span></a></td>
-		<td bgcolor='#C31D00' width="11" valign="top" align="left"><img src='./images/tabImages/red_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./career.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/gsteam.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -124,18 +184,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#28B1DD">Career</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/gsteam.jsp"><span style="text-decoration:none;font-weight: bold;color:#A6AB2B">GS Team</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./career.jsp'><span style='text-decoration:none;font-weight: bold;color:#28B1DD'>Career</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./money.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/career.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -146,18 +201,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#00A8A0">Money</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/career.jsp"><span style="text-decoration:none;font-weight: bold;color:#28B1DD">Career</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./money.jsp'><span style='text-decoration:none;font-weight: bold;color:#00A8A0'>Money</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./business.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/money.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -168,18 +218,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#008FD2">Business</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/money.jsp"><span style="text-decoration:none;font-weight: bold;color:#00A8A0">Money</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./business.jsp'><span style='text-decoration:none;font-weight: bold;color:#008FD2'>Business</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./love.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/business.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -190,18 +235,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#EF146C">Love</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/business.jsp"><span style="text-decoration:none;font-weight: bold;color:#008FD2">Business</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./love.jsp'><span style='text-decoration:none;font-weight: bold;color:#EF146C'>Love</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./education.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/love.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -212,18 +252,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#FF8400">Education</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/love.jsp"><span style="text-decoration:none;font-weight: bold;color:#EF146C">Love</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./education.jsp'><span style='text-decoration:none;font-weight: bold;color:#FF8400'>Education</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./personals.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/education.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -234,18 +269,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#C94092">Personal</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/education.jsp"><span style="text-decoration:none;font-weight: bold;color:#FF8400">Education</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./personals.jsp'><span style='text-decoration:none;font-weight: bold;color:#C94092'>Personal</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./property.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/personals.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -256,18 +286,13 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#87BE46">Property</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/personals.jsp"><span style="text-decoration:none;font-weight: bold;color:#C94092">Personal</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./property.jsp'><span style='text-decoration:none;font-weight: bold;color:#87BE46'>Property</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
-	</tr>
--->
+
 		</td>
-		<td width="10%" onclick="loadTabPage('./specials.jsp')" style="cursor: pointer">
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/property.jsp')" style="cursor: pointer">
 			
 				
 				
@@ -278,72 +303,127 @@ setCookie('tz', tzo);
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr>
 		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
-		<td bgcolor="#E2E2E2" align="center" valign="middle"><span style="text-decoration:none;font-weight: bold;color:#535C9D">Specials</span></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/property.jsp"><span style="text-decoration:none;font-weight: bold;color:#87BE46">Property</span></a></td>
 		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
 </tbody></table>
-<!--	<tr>
-		<td bgcolor='#E2E2E2' width="9" valign="top" align="right"><img src='./images/tabImages/grey_lefttab.jpg' border='0'></td>
-		<td bgcolor='#E2E2E2' align="center" valign="middle"><a href='./specials.jsp'><span style='text-decoration:none;font-weight: bold;color:#535C9D'>Specials</span></a></td>
-		<td bgcolor='#E2E2E2' width="11" valign="top" align="left"><img src='./images/tabImages/grey_righttab.jpg' border='0'></td>
+
+		</td>
+		<td onclick="loadTabPage('http://www.ganeshaspeaks.com/specials.jsp')" style="cursor: pointer">
+			
+				
+				
+				
+				
+				
+			
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<tbody><tr>
+		<td bgcolor="#E2E2E2" width="9" valign="top" align="right"><img src="./images/tabImages/grey_lefttab.jpg" border="0"></td>
+		<td bgcolor="#E2E2E2" align="center" valign="middle"><a href="http://www.ganeshaspeaks.com/specials.jsp"><span style="text-decoration:none;font-weight: bold;color:#535C9D">Specials</span></a></td>
+		<td bgcolor="#E2E2E2" width="11" valign="top" align="left"><img src="./images/tabImages/grey_righttab.jpg" border="0"></td>
 	</tr>
--->
+</tbody></table>
+
 		</td>
 	</tr>
 	<tr>
-		<td colspan="9" bgcolor="#C31D00"><img src="" alt="" width="1" height="8" style="background-color: #C31D00"></td>
+		<td colspan="10" bgcolor="#C31D00"><img src="" alt="" width="1" height="8" style="background-color: #C31D00"></td>
 	</tr>
 </tbody></table>
+
 	
-		</td>
-	</tr>
-	<tr>
-		<td><img src="" width="1" height="2" alt="" style="background-color: #FFFFFF"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#FFCD06" valign="middle" align="center">
-			<table width="100%" cellpadding="2" cellspacing="2" border="0">
-			
-				<tbody><tr>
-					<td width="100%" align="right" height="12">&nbsp;</td>
-				</tr>
-			
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="140" valign="top" height="1">
-					
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<img src="" width="1" height="2" alt="" style="background-color: #FFFFFF">
+				</td>
+			</tr>
+			<tr>
+			<td bgcolor="#FFCD06" valign="middle" align="center">
+				<table width="100%" cellpadding="2" cellspacing="2" border="0">
+
 		
+
+
+
+
+
+
+
+
+
+
+
+					<tbody><tr>
+						<td align="left" width="100%" class="content">Welcome Guest <a href="#" onclick="personalise()" class="content">[ Personalise ]</a>
+						<form name="personalisedForm" method="post" action="http://www.ganeshaspeaks.com/index.jsp">
+							<input type="hidden" name="wantLogin" id="wantLogin" value="yes">
+						</form>
+						</td>
+					</tr>
+
+					<form name="login_form" method="post" action="http://www.ganeshaspeaks.com/CheckLogin"></form>
+						<input name="userName" id="userName" type="hidden" value="-1">
+						<input name="userPWD" id="userPWD" type="hidden" value="-1">
+						<input name="callerPage" id="callerPage" type="hidden" value="-1">
+						<input name="productID" id="productID" type="hidden" value="-1">
+						<input name="rememberme" id="rememberme" type="hidden" value="no">
+						<input name="finalizeOrder" id="finalizeOrder" type="hidden" value="false">
+					
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td width="140" valign="top" height="1">
+							
+		
+
 
 <script language="JavaScript" src="tree.js"></script>
 <script language="JavaScript" src="tree_items.js"></script>
 <script language="JavaScript" src="tree_tpl.js"></script>
 <script>
 <!--
-	function ganeshaspeaksMedia(){
-		var winHandle = openWindow('./newspaper.jsp', '640', '480', 'gsmedia', true);
-		winHandle.focus();
-	}
-	function ganeshaspeaksVideo(){
-		var winHandle = openWindow('./videos.jsp', '225', '180', 'gsmedia', true);
-		winHandle.focus();
-	}
+ function ganeshaspeaksMedia(){
+  var winHandle = openWindow('http://www.ganeshaspeaks.com/newspaper.jsp', '640', '480', 'gsmedia', true);
+  winHandle.focus();
+ }
+ function ganeshaspeaksVideo(){
+  var winHandle = openWindow('http://www.ganeshaspeaks.com/videos.jsp', '225', '180', 'gsmedia', true);
+  winHandle.focus();
+ }
+ 
+ 
 //-->
 </script>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" height="100%">
-	<tbody><tr>
-		<td valign="top">
-			
-				
-				
-				
-				
-				
-			
+
+  
+
+
+
+
+
+
+
+
+
+
+ 
+ <tbody><tr>
+  <td valign="top">
+   
+    
+    
+    
+    
+    
+   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="8" align="right" valign="top"><img src="./images/leftPanelImages/left_home_left_top.jpg"></td>
@@ -353,67 +433,67 @@ setCookie('tz', tzo);
 	<tr>
 		<td width="8" height="25" background="images/left_orange_left_middle.jpg"><img src="" height="1" width="8" border="0"></td>
 		<td>
-					<script language="JavaScript" type="text/javascript">
-						var TREE_ITEMS = [
-								['',0,
-								
-								['Career', 0,
-									['Ask A Question', "submitForm('career.jsp','4')"],
-									['Discuss An Iss..', "submitForm('career.jsp','42')"],
-									['Career Report', "submitForm('career.jsp','5')"],
-								],
-								['Money', 0,
-									['Ask A Question', "submitForm('money.jsp','7')"],
-									['Discuss An Iss..', "submitForm('money.jsp','41')"],
-									['Finance Report', "submitForm('money.jsp','8')"],
-								],
-								['Business', 0,
-									['Ask A Question', "submitForm('business.jsp','10')"],
-									['Discuss An Iss..', "submitForm('business.jsp','43')"],
-									['Business Report', "submitForm('business.jsp','11')"],
-								],
-								['Love', 0,
-									['Ask Question', "submitForm('love.jsp','16')"],
-									['Discuss An Iss...', "submitForm('love.jsp','55')"],
-									['Kundli Matching', "submitForm('love.jsp','14')"],
-									['Couple Analysis', "submitForm('love.jsp','17')"],
-									['Marital Problems', "submitForm('love.jsp','18')"],
-								],
-								['Education', 0,
-									['Ask Question', "submitForm('education.jsp','60')"],
-									['Discuss An Iss...', "submitForm('education.jsp','62')"],
-									['Depression', "submitForm('education.jsp','22')"],
-									['Exam Fever', "submitForm('education.jsp','59')"],
-									['Inferiority...', "submitForm('education.jsp','23')"],
-									['Lack of Conc...', "submitForm('education.jsp','21')"],
-									['Pursue Overs...', "submitForm('education.jsp','24')"],
-								],
-								['Personals', 0,
-									['Ask A Ques..', "submitForm('personals.jsp','82')"],
-									['Discuss An Iss...', "submitForm('personals.jsp','83')"],
-									['Child Birth...', "submitForm('personals.jsp','66')"],
-									['Lack of Con...', "submitForm('personals.jsp','26')"],
-									['Depression', "submitForm('personals.jsp','25')"],
-									['Frustrations', "submitForm('personals.jsp','28')"],
-									['Will It/Won\'t..', "submitForm('personals.jsp','29')"],
-									['Not Getting Suc..', "submitForm('personals.jsp','33')"],
-									['Opportunity', "submitForm('personals.jsp','30')"],
-									['Repeated Fai..', "submitForm('personals.jsp','27')"],
-								],
-								['Property', 0,
-									['Ask A Ques..', "submitForm('property.jsp','69')"],
-									['Discuss An Iss...', "submitForm('property.jsp','70')"],
-									['Favourable...', "submitForm('property.jsp','40')"],
-									['Property Disp...', "submitForm('property.jsp','36')"],
-								],
-							]
-						];
-						new tree (TREE_ITEMS, TREE_TPL);
-					</script>
-		            <noscript>
-						A tree for site navigation will open here if you enable JavaScript in your browser.
-					</noscript>
-				</td>
+     <script language="JavaScript" type="text/javascript">
+      var TREE_ITEMS = [
+        ['',0,
+        
+        ['Career', 0,
+         ['Ask A Question', "submitForm('career.jsp','4')"],
+         ['Discuss An Iss..', "submitForm('career.jsp','42')"],
+         ['Career Report', "submitForm('career.jsp','5')"],
+        ],
+        ['Money', 0,
+         ['Ask A Question', "submitForm('money.jsp','7')"],
+         ['Discuss An Iss..', "submitForm('money.jsp','41')"],
+         ['Finance Report', "submitForm('money.jsp','8')"],
+        ],
+        ['Business', 0,
+         ['Ask A Question', "submitForm('business.jsp','10')"],
+         ['Discuss An Iss..', "submitForm('business.jsp','43')"],
+         ['Business Report', "submitForm('business.jsp','11')"],
+        ],
+        ['Love', 0,
+         ['Ask Question', "submitForm('love.jsp','16')"],
+         ['Discuss An Iss...', "submitForm('love.jsp','55')"],
+         ['Kundli Matching', "submitForm('love.jsp','14')"],
+         ['Couple Analysis', "submitForm('love.jsp','17')"],
+         ['Marital Problems', "submitForm('love.jsp','18')"],
+        ],
+        ['Education', 0,
+         ['Ask Question', "submitForm('education.jsp','60')"],
+         ['Discuss An Iss...', "submitForm('education.jsp','62')"],
+         ['Depression', "submitForm('education.jsp','22')"],
+         ['Exam Fever', "submitForm('education.jsp','59')"],
+         ['Inferiority...', "submitForm('education.jsp','23')"],
+         ['Lack of Conc...', "submitForm('education.jsp','21')"],
+         ['Pursue Overs...', "submitForm('education.jsp','24')"],
+        ],
+        ['Personals', 0,
+         ['Ask A Ques..', "submitForm('personals.jsp','82')"],
+         ['Discuss An Iss...', "submitForm('personals.jsp','83')"],
+         ['Child Birth...', "submitForm('personals.jsp','66')"],
+         ['Lack of Con...', "submitForm('personals.jsp','26')"],
+         ['Depression', "submitForm('personals.jsp','25')"],
+         ['Frustrations', "submitForm('personals.jsp','28')"],
+         ['Will It/Won\'t..', "submitForm('personals.jsp','29')"],
+         ['Not Getting Suc..', "submitForm('personals.jsp','33')"],
+         ['Opportunity', "submitForm('personals.jsp','30')"],
+         ['Repeated Fai..', "submitForm('personals.jsp','27')"],
+        ],
+        ['Property', 0,
+         ['Ask A Ques..', "submitForm('property.jsp','69')"],
+         ['Discuss An Iss...', "submitForm('property.jsp','70')"],
+         ['Favourable...', "submitForm('property.jsp','40')"],
+         ['Property Disp...', "submitForm('property.jsp','36')"],
+        ],
+       ]
+      ];
+      new tree (TREE_ITEMS, TREE_TPL);
+     </script><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><label onclick="trees[0].toggle(0)" ondblclick="trees[0].toggle(0)" onmouseover="style.cursor='pointer';trees[0].mover(0)" onmouseout="trees[0].mout(0)" class="t0i" id="i_txt0_0"></label></td></tr></tbody></table><div id="i_div0_0" style="display: block;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(1)" onmouseover="trees[0].mover(1)" onmouseout="trees[0].mout(1)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_1"></a><label onclick="trees[0].toggle(1)" ondblclick="trees[0].toggle(1)" onmouseover="style.cursor='pointer';trees[0].mover(1)" onmouseout="trees[0].mout(1)" class="t0i" id="i_txt0_1">Career</label></td></tr></tbody></table><div id="i_div0_1" style="display:none"></div><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(5)" onmouseover="trees[0].mover(5)" onmouseout="trees[0].mout(5)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_5"></a><label onclick="trees[0].toggle(5)" ondblclick="trees[0].toggle(5)" onmouseover="style.cursor='pointer';trees[0].mover(5)" onmouseout="trees[0].mout(5)" class="t0i" id="i_txt0_5">Money</label></td></tr></tbody></table><div id="i_div0_5" style="display:none"></div><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(9)" onmouseover="trees[0].mover(9)" onmouseout="trees[0].mout(9)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_9"></a><label onclick="trees[0].toggle(9)" ondblclick="trees[0].toggle(9)" onmouseover="style.cursor='pointer';trees[0].mover(9)" onmouseout="trees[0].mout(9)" class="t0i" id="i_txt0_9">Business</label></td></tr></tbody></table><div id="i_div0_9" style="display:none"></div><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(13)" onmouseover="trees[0].mover(13)" onmouseout="trees[0].mout(13)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_13"></a><label onclick="trees[0].toggle(13)" ondblclick="trees[0].toggle(13)" onmouseover="style.cursor='pointer';trees[0].mover(13)" onmouseout="trees[0].mout(13)" class="t0i" id="i_txt0_13">Love</label></td></tr></tbody></table><div id="i_div0_13" style="display:none"></div><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(19)" onmouseover="trees[0].mover(19)" onmouseout="trees[0].mout(19)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_19"></a><label onclick="trees[0].toggle(19)" ondblclick="trees[0].toggle(19)" onmouseover="style.cursor='pointer';trees[0].mover(19)" onmouseout="trees[0].mout(19)" class="t0i" id="i_txt0_19">Education</label></td></tr></tbody></table><div id="i_div0_19" style="display:none"></div><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(27)" onmouseover="trees[0].mover(27)" onmouseout="trees[0].mout(27)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_27"></a><label onclick="trees[0].toggle(27)" ondblclick="trees[0].toggle(27)" onmouseover="style.cursor='pointer';trees[0].mover(27)" onmouseout="trees[0].mout(27)" class="t0i" id="i_txt0_27">Personals</label></td></tr></tbody></table><div id="i_div0_27" style="display:none"></div><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle"><a href="javascript: trees[0].toggle(38)" onmouseover="trees[0].mover(38)" onmouseout="trees[0].mout(38)"><img src="icons/right.jpg" border="0" align="absmidle" name="j_img0_38"></a><label onclick="trees[0].toggle(38)" ondblclick="trees[0].toggle(38)" onmouseover="style.cursor='pointer';trees[0].mover(38)" onmouseout="trees[0].mout(38)" class="t0i" id="i_txt0_38">Property</label></td></tr></tbody></table><div id="i_div0_38" style="display:none"></div></div>
+              <noscript>
+      A tree for site navigation will open here if you enable JavaScript in your browser.
+     </noscript>
+    </td>
 		<td width="15" background="images/left_orange_right_middle.jpg"><img src="" height="1" width="15" border="0"></td>
 	</tr>
 	<tr height="13">
@@ -422,17 +502,17 @@ setCookie('tz', tzo);
 		<td width="15" height="13" align="left" valign="top"><img src="./images/left_orange_right_bottom.jpg" height="13"></td>
 	</tr>
 </tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top">
-			
-				
-				
-				
-				
-				
-			
+  </td>
+ </tr>
+ <tr>
+  <td valign="top">
+   
+    
+    
+    
+    
+    
+   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="8" align="right" valign="top"><img src="./images/leftPanelImages/left_home_left_top.jpg"></td>
@@ -442,14 +522,15 @@ setCookie('tz', tzo);
 	<tr>
 		<td width="8" height="25" background="images/left_orange_left_middle.jpg"><img src="" height="1" width="8" border="0"></td>
 		<td>
-					<table width="110" border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="./history_astrology.jsp" class="content">History</a></td></tr>
-						<tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="./simplified_vedic_astrology.jsp" class="content">Vedic Astrology</a></td></tr>
-						<tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="./ganesha_astrology.jsp" class="content">Ganesha's Role</a></td></tr>
-						<tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="./planets_astrology.jsp" class="content">Planets</a></td></tr>
-						<tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="./zodiac_signs.jsp" class="content">Zodiac Signs</a></td></tr>
-					</tbody></table>
-				</td>
+     <table width="110" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="http://www.ganeshaspeaks.com/historyofastrology.jsp" class="content">History</a></td></tr>
+      <tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="http://www.ganeshaspeaks.com/indianvedicastrology.jsp" class="content">Vedic Astrology</a></td></tr>
+      <tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="http://www.ganeshaspeaks.com/ganeshaastrology.jsp" class="content">Ganesha's Role</a></td></tr>
+      <tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="http://www.ganeshaspeaks.com/planetsastrology.jsp" class="content">Planets</a></td></tr>
+      <tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="http://www.ganeshaspeaks.com/zodiac_signs.jsp" class="content">Zodiac Signs</a></td></tr>
+      <tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="http://www.ganeshaspeaks.com/constellations.jsp" class="content">Constellations</a></td></tr>
+     </tbody></table>
+    </td>
 		<td width="15" background="images/left_orange_right_middle.jpg"><img src="" height="1" width="15" border="0"></td>
 	</tr>
 	<tr height="13">
@@ -458,17 +539,17 @@ setCookie('tz', tzo);
 		<td width="15" height="13" align="left" valign="top"><img src="./images/left_orange_right_bottom.jpg" height="13"></td>
 	</tr>
 </tbody></table>
-		</td>
-	</tr>
-	<tr height="100%">
-		<td valign="top">
-			
-				
-				
-				
-				
-				
-			
+  </td>
+ </tr>
+ <tr height="100%">
+  <td valign="top">
+   
+    
+    
+    
+    
+    
+   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="8" align="right" valign="top"><img src="./images/leftPanelImages/left_home_left_top.jpg"></td>
@@ -478,17 +559,17 @@ setCookie('tz', tzo);
 	<tr>
 		<td width="8" height="25" background="images/left_orange_left_middle.jpg"><img src="" height="1" width="8" border="0"></td>
 		<td>
-					<table width="110" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td width="10" class="content">»</td>
-							<td width="100" class="content"><a href="javascript:ganeshaspeaksMedia()" class="content">Newspaper</a></td>
-						</tr>
-						<tr>
-							<td width="10" class="content">»</td>
-							<td width="100" class="content"><a href="javascript:ganeshaspeaksVideo()" class="content">Video</a></td>
-						</tr>
-					</tbody></table>
-				</td>
+     <table width="110" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+       <td width="10" class="content">»</td>
+       <td width="100" class="content"><a href="javascript:ganeshaspeaksMedia()" class="content">Newspaper</a></td>
+      </tr>
+      <tr>
+       <td width="10" class="content">»</td>
+       <td width="100" class="content"><a href="javascript:ganeshaspeaksVideo()" class="content">Video</a></td>
+      </tr>
+     </tbody></table>
+    </td>
 		<td width="15" background="images/left_orange_right_middle.jpg"><img src="" height="1" width="15" border="0"></td>
 	</tr>
 	<tr height="13">
@@ -497,33 +578,71 @@ setCookie('tz', tzo);
 		<td width="15" height="13" align="left" valign="top"><img src="./images/left_orange_right_bottom.jpg" height="13"></td>
 	</tr>
 </tbody></table>
-		</td>
-	</tr>
-	</tbody></table>
+  </td>
+ </tr>
+ </tbody></table>
+<script>
+<!--
+ function showMyAccount(secName){
+  document.forms['homeSubmit'].showLeftCenter.value = secName;
+  document.forms['homeSubmit'].submit();
+ }
+//-->
+</script>
 <form name="menuForm" method="post" action="">
-	<input type="hidden" name="product" value="">
+ <input type="hidden" name="product" value="">
+</form>
+<form name="homeSubmit" method="post" action="http://www.ganeshaspeaks.com/index.jsp">
+ <input type="hidden" name="showLeftCenter" id="showLeftCenter" value="">
 </form>
 
+<form name="panchangDataSubmitForm" method="post" action="http://www.ganeshaspeaks.com/index.jsp">
+ <input type="hidden" name="detailPanchang" id="detailPanchang" value="NO">
+</form>
+
+<script>
+<!--
+ function submitPanchangData(detailPanchang){
+  document.forms['panchangDataSubmitForm'].detailPanchang.value = detailPanchang;
+  document.forms['panchangDataSubmitForm'].submit();
+ }
+//-->
+</script>
+
+<form name="planetPositionForm" method="post" action="http://www.ganeshaspeaks.com/index.jsp">
+ <input type="hidden" name="detailPlanet" id="detailPlanet" value="NO">
+</form>
+
+<script>
+<!--
+ function submitplanetPositionForm(detailPlanet){
+  document.forms['planetPositionForm'].detailPlanet.value = detailPlanet;
+  document.forms['planetPositionForm'].submit();
+ }
+//-->
+</script>
+
+
 	
-				</td>
-				<td width="500" valign="top" height="1">
-					<table width="99%" border="0" cellpadding="0" cellspacing="0">
-						
-						<tbody><tr>
-							<td>
-								<script>
-								<!--
-								setCookie("GSCheck","TRUE",-1);
-								if(getCookie("GSCheck") == null){
-									alert('Please enable COOKIE to use all the features of GaneshaSpeaks.com');
-								}
-								deleteCookie("GSCheck");
-								-->
-								</script>
-								<noscript>
-									
-										
-									
+						</td>
+						<td width="500" valign="top" height="1">
+							<table width="99%" border="0" cellpadding="0" cellspacing="0">
+								
+								<tbody><tr>
+									<td>
+										<script>
+											<!--
+											setCookie("GSCheck","TRUE",-1);
+											if(getCookie("GSCheck") == null){
+												alert('Please enable COOKIE to use all the features of GaneshaSpeaks.com');
+											}
+											deleteCookie("GSCheck");
+											-->
+										</script>
+										<noscript>
+											
+												
+											
 <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
 		<td width="17" height="15"><img src="./images/boxcorner_topleft.jpg" width="17" height="15"></td>
@@ -533,8 +652,10 @@ setCookie('tz', tzo);
 	<tr>
 		<td background="./images/boxbg_left.jpg"><img src="./images/boxbg_left.jpg" width="17" height="1"></td>
 		<td valign="top">
-											<div class="errorMessage" align="center">Please enable Javascript</div>
-										</td>
+													<div class="errorMessage" align="center">
+														Please enable Javascript
+													</div>
+												</td>
 		<td background="./images/boxbg_right.jpg"><img src="./images/boxbg_right.jpg" width="16" height="1"></td>
 	</tr>
 	<tr>
@@ -544,12 +665,12 @@ setCookie('tz', tzo);
 	</tr>
 </table>
 
-								</noscript>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								
+										</noscript>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										
 		<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td>
@@ -589,11 +710,11 @@ setCookie('tz', tzo);
 								<tr><td class="content" align="left">2. Change the relevant information</td></tr>
 								<tr><td class="content" align="justify">Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from our records. If you have chosen to receive your Daily or Weekly Horoscope by e-mail, you can at any time cancel this sending a mail on contact@ganeshaspeaks.com with the subject line as "Unsubscribe". </td></tr>
 								<tr><td class="content" align="left"><b>Delete profile</b></td></tr>
-								<tr><td class="content" align="justify">You can delete your profile at any time by clicking on the "delete” link. </td></tr>
+								<tr><td class="content" align="justify">You can delete your profile at any time by clicking on the "deleteâ€ link. </td></tr>
 								<tr><td class="content" align="left"><b>Contacting us</b></td></tr>
-								<tr><td class="content" align="justify">If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at contact@ganeshaspeaks.com.</td></tr>
+								<tr><td class="content" align="justify">If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at <a href="mailto:contact@ganeshaspeaks.com">contact@ganeshaspeaks.com</a>.</td></tr>
 							</tbody></table>
-							<p class="content" align="justify"><a href="./">back to home page</a></p>
+							<p class="contentbold" align="right"><a href="./">home</a></p>
 						</td>
 		<td background="./images/boxbg_right.jpg"><img src="./images/boxbg_right.jpg" width="16" height="1"></td>
 	</tr>
@@ -608,12 +729,12 @@ setCookie('tz', tzo);
 			</tr>
 		</tbody></table>
 	
-							</td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td width="140" valign="top" height="1">
-					
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+						<td width="140" valign="top" height="1">
+							
 <script>
 <!--
 	function advertisement(cat, productID){
@@ -625,40 +746,147 @@ setCookie('tz', tzo);
 </script>
 <table width="100%" border="0" cellpadding="0" cellspacing="2">
 	<tbody><tr>
+		<td valign="top" align="left">
+			
+				
+				
+				
+				
+				
+			
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="15" align="right" valign="top"><img src="./images/rightPanelImages/home_left_top.jpg"></td>
+		<td align="center" background="./images/rightPanelImages/home_middle_top.jpg"><label class="whitebold">Free Horoscopes</label></td>
+		<td width="8" align="left" valign="top"><img src="./images/rightPanelImages/home_right_top.jpg"></td>
+	</tr>
+	<tr>
+		<td width="15" height="25" background="images/right_orange_left_middle.jpg"><img src="" height="1" width="15" border="0"></td>
 		<td>
-			<a href="javascript:advertisement('./career.jsp','4')" title="When will i get my dream job?"><img src="./images/advertisement/career_dream_job.jpg" alt="When will i get my dream job?" border="0"></a>
+					<table border="0" cellpadding="0" cellspacing="0" width="110">
+	<tbody><tr>
+		<td class="content" valign="top" width="10">»</td>
+		<td class="content" align="left"><a href="http://www.ganeshaspeaks.com/freehoroscopes/astroprofile.jsp" class="content" title="free astro profile based on your personalised horoscope by GaneshaSpeaks">Astro Profile</a></td>
+	</tr>
+	<tr>
+		<td class="content" valign="top" width="10">»</td>
+		<td class="content" align="left"><a href="http://www.ganeshaspeaks.com/freehoroscopes/birthhoroscope.jsp" class="content" title="free birth horoscope by GaneshaSpeaks">Birth Horoscope</a></td>
+	</tr>
+	<tr>
+		<td class="content" valign="top" width="10">»</td>
+		<td class="content" align="left"><a href="http://www.ganeshaspeaks.com/freehoroscopes/dailyhoroscope.jsp" class="content" title="free daily horoscope based on your personalised horoscope by GaneshaSpeaks">Daily Horoscope</a></td>
+	</tr>
+	<tr>
+		<td class="content" valign="top" width="10">»</td>
+		<td class="content" align="left"><a href="http://www.ganeshaspeaks.com/freehoroscopes/lovehoroscope.jsp" class="content" title="free love horoscope based on your personalised horoscope and horoscope of your partner by GaneshaSpeaks">Love Horoscope</a></td>
+	</tr>
+</tbody></table>
+
+
+				</td>
+		<td width="8" background="images/right_orange_right_middle.jpg"><img src="" height="1" width="8" border="0"></td>
+	</tr>
+	<tr height="13">
+		<td width="15" height="13" align="right" valign="top"><img src="./images/right_orange_left_bottom.jpg" height="13" width="15"></td>
+		<td height="13" background="./images/right_orange_middle_bottom.jpg"><img src="" height="1" width="15" border="0"></td>
+		<td width="8" height="13" align="left" valign="top"><img src="./images/right_orange_right_bottom.jpg" height="13"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+        <tr>
+                <td valign="top" align="left">
+                        
+                                
+                                                                
+                                
+                                
+                        
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="15" align="right" valign="top"><img src="./images/rightPanelImages/home_left_top.jpg"></td>
+		<td align="center" background="./images/rightPanelImages/home_middle_top.jpg"><label class="whitebold">Specials</label></td>
+		<td width="8" align="left" valign="top"><img src="./images/rightPanelImages/home_right_top.jpg"></td>
+	</tr>
+	<tr>
+		<td width="15" height="25" background="images/right_orange_left_middle.jpg"><img src="" height="1" width="15" border="0"></td>
+		<td>
+                                        
+
+<table width="110" border="0" cellspacing="0" cellpadding="0">
+
+	<tbody><tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="javascript:showSpecials('current affairs')" class="content">Current Affairs</a></td></tr>
+
+	<tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="javascript:showSpecials('sports')" class="content">Sports Predicta</a></td></tr>
+
+	<tr><td width="10" class="content" valign="top">»</td><td align="left" class="content"><a href="javascript:showSpecials('sensex')" class="content">Sensex Predicta</a></td></tr>
+
+</tbody></table>
+<form name="rightSpecials" method="post" action="./specials.jsp">
+	<input type="hidden" name="selectedCategoryRight" id="selectedCategoryRight" value="">
+</form>
+<script>
+<!--
+	function showSpecials(catName){
+		var eleSelRightCap = getHTMLElement('selectedCategoryRight');
+		eleSelRightCap.value = catName;
+		document.forms['rightSpecials'].submit();
+	}
+//-->
+</script>
+
+
+                                </td>
+		<td width="8" background="images/right_orange_right_middle.jpg"><img src="" height="1" width="8" border="0"></td>
+	</tr>
+	<tr height="13">
+		<td width="15" height="13" align="right" valign="top"><img src="./images/right_orange_left_bottom.jpg" height="13" width="15"></td>
+		<td height="13" background="./images/right_orange_middle_bottom.jpg"><img src="" height="1" width="15" border="0"></td>
+		<td width="8" height="13" align="left" valign="top"><img src="./images/right_orange_right_bottom.jpg" height="13"></td>
+	</tr>
+</tbody></table>
+                </td>
+        </tr>
+	<tr>
+		<td>
+			<a href="javascript:advertisement('./personals.jsp','99')" title="Janampatri, Birth Chart, Horoscope from GaneshaSpeaks.com"><img src="./images/advertisement/janampatri.jpg" alt="Janampatri, Birth Chart from ganeshaspeaks.com" border="0"></a>
 		</td>
 	</tr>
 </tbody></table>
 <form name="advertisementForm" method="post" action="">
 	<input type="hidden" name="product" id="product" value="">
 </form>
-	
-				</td>
-			</tr>
-		</tbody></table>
-	</td></tr>
-	<tr>
-		<td bgcolor="#FFCD06" valign="middle" align="center">
-			<div class="content"><a href="./security.jsp" class="content">Security</a> | <a href="./terms_of_use.jsp" class="content">Terms of Use</a> | <a href="./privacy_policy.jsp" class="content">Privacy Policy</a> | <a href="./about_us.jsp" class="content">About us</a> | <a href="./contact_us.jsp" class="content">Contact us</a></div>
 
-		</td>
-	</tr>
-	<tr>
-		<td><img src="" width="1" height="2" alt="" style="background-color: #FFFFFF"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#C31D00" align="center" class="whitebold">
-			Copyright © 2006 SiddhiVinayak Astrology Services. All rights reserved.
-		</td>
-	</tr>
-</tbody></table>
+	
+						</td>
+					</tr>
+				</tbody></table>
+		</td></tr>
+		<tr>
+			<td bgcolor="#FFCD06" valign="middle" align="center">
+				<a href="http://www.ganeshaspeaks.com/index.jsp" class="content">Home</a> | <a href="http://www.ganeshaspeaks.com/about_us.jsp" class="content">About us</a> | <a href="http://www.ganeshaspeaks.com/contact_us.jsp" class="content">Contact us</a> | <a href="http://www.ganeshaspeaks.com/careers.jsp" class="content">Careers</a> | <a href="http://www.ganeshaspeaks.com/customer_care.jsp" class="content">Customer care</a> | <a href="http://www.ganeshaspeaks.com/faq.jsp" class="content">Faq</a> | <a href="http://www.ganeshaspeaks.com/what_is_rss.jsp" class="content">Feeds</a>  | <a href="http://www.ganeshaspeaks.com/partners.jsp" class="content">Partners</a> | <a href="http://www.ganeshaspeaks.com/privacy_policy.jsp" class="content">Privacy Policy</a> | <a href="http://www.ganeshaspeaks.com/security.jsp" class="content">Security</a> | <a href="http://www.ganeshaspeaks.com/terms_of_use.jsp" class="content">Terms of Use</a>
+
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="" width="1" height="2" alt="" style="background-color: #FFFFFF">
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#C31D00" align="center" class="whitebold">
+				Copyright ©2006 <a href="http://www.ganeshaspeaks.com/index.jsp" class="whitebold">SiddhiVinayak Astrology Services</a>. All rights reserved.
+			</td>
+		</tr>
+		</tbody></table>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-182520-1";
 urchinTracker();
 </script>
+	
 
 
 
