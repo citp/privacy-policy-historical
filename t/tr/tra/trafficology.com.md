@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficology.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202255id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficology.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207022808id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NitroMarketing.com
 
@@ -95,7 +95,7 @@ This website takes measures to protect its data that contains information relate
 ** QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
 You may direct questions, comments or reports to:  
-P&D Marketing, LLC Email: abuse@nitromarketing.com  
+Nitro Marketing, LLC Email: abuse@nitromarketing.com  
 2807 Allen St, PMB 668  
 Dallas, TX 75204
 
