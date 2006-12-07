@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162330id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm%3Ffrom%3Dhome%26page%3Dprivacyfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207020923id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm%3Ffrom%3Dhome%26page%3Dprivacyfooter) for the most accurate reproduction.*
 
 # Privacy Policy for the CFTC Website
 
