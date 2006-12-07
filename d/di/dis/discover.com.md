@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211631id_/http%3A//www.discover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207052526id_/http%3A//www.discover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - news education science magazines technology science news environment magazine subscriptions anthropology ecology environmental issues online magazines archaeology national science foundation science magazine environmental discover magazine science news articles kids discover magazine science magazines online archaeology news online business magazines discover magazine online free magazines to read online discover science magazine discover magazine subscriptions - science news articles online technology magazine articles Privacy Policy
 
