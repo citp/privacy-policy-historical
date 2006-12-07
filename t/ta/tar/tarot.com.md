@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarot.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619070935id_/http%3A//www.tarot.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarot.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207075828id_/http%3A//www.tarot.com/about-us/privacy) for the most accurate reproduction.*
 
 # Tarot.com :: Tarot, Astrology, Numerology & I-Ching
 
@@ -16,7 +16,7 @@ You may also control whether or not you subscribe to our Daily Horoscope newslet
 
 If you are subscribed to our Special News list, we may also send out special offer emails on behalf of select partners and advertisers that we feel are of interest to our members. Each of these mailings will provide you with an easy way to unsubscribe. They will come from Tarot.com on behalf of these select third-parties – we will never share or sell your email address to anyone. You can opt-out of partner mailings while still continuing to receive Tarot.com special offers , horoscopes, newsletters, etc. If you choose to unsubscribe to any of our email lists, but in the future decide you would like to start receiving them again, you can easily re-subscribe under "About You" at any time. But until then, you can rest assured that we will honor your preference by removing your name from the internal lists that you specify. 
 
-## Information Gathered for Customization & Purchasing
+## Information Gathered for Customization, Purchasing & Ad Serving
 
 Tarot.com may gather information for the following reasons:
 
@@ -28,6 +28,12 @@ Tarot.com may gather information for the following reasons:
 > 
 > **Surveys**  
 >  Demographic information that is accepted on a voluntary basis via surveys is stored anonymously and is not linked to individual records. 
+> 
+> **Third Party Advertising**  
+>  The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
+> 
+> **Third Party Cookies**  
+>  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 ## Your Personal Data Is Always Protected
 
