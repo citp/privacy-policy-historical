@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619051236id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207092755id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
 
-# Finance jobs, banking jobs, recruitment in investment banking & in the financial markets
+# Finance Jobs: Investment Banking Jobs, IT Jobs, Accounting Jobs & Bank Recruitment
 
 |   
 ---|---  
