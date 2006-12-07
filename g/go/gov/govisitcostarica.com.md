@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421200014id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207225016id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for Go Visit Costa Rica
 
@@ -43,17 +43,18 @@ The most valuable asset of our business is you. We aren't in the business of sel
 To help increase privacy protections for our Guests, GO VISIT COSTA RICA allows advertising on our sites from only those companies that have their own privacy policy. Once you've clicked on an advertisement and have left GO VISIT COSTA RICA site, our privacy policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. In addition, many business advertisements are managed and placed on our site by third-party companies. These companies are called "network advertisers." Network advertisers collect non-personally identifiable information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realize it's being collected. The network advertisers collect this information so that they can show you ads that are more relevant and interesting to you.
 
 **4\. Your choices about GO VISIT COSTA RICA collecting, using and sharing your information**  
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from GO VISIT COSTA RICA and from our third-party partners. You can request at any time that GO VISIT COSTA RICA not send future e-mail to you either by unsubscribing from the communication or by contacting us at info@govisitcostarica.com. Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this.
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from GO VISIT COSTA RICA and from our third-party partners. You can request at any time that GO VISIT COSTA RICA not send future e-mail to you either by unsubscribing from the communication or by contacting us through our [contact form](https://web.archive.org/contactUs.asp). Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this.
 
 **5\. Security provided by GO VISIT COSTA RICA**  
 The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. GO VISIT COSTA RICA takes technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. GO VISIT COSTA RICA has taken extra measures to protect your security by hosting all of our information behind secure, failover redundant firewalls. There are some things that you can do to help protect the security of your information as well. For instance, never give out your Password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information.
 
 **6\. Questions or concerns about this privacy policy**  
-Should you have any further questions or concerns about this privacy policy please send an e-mail with your questions or comments to info@govisitcostarica.com or write us at:
+Should you have any further questions or concerns about this privacy policy please send us your questions or comments through our [contact form](https://web.archive.org/contactUs.asp) or write us at:
 
 GoVisitCostaRica.com  
-Delfina Designs Inc.  
-PO Box 9365   
-San Diego, CA 92169  
+Delfina Travel Group Inc.  
+936 Diamond St, Suite 8  
+San Diego, CA 92109  
 USA  
-(858) 581-9209 
+Phone: (858) 581-9209  
+Fax: (858) 764-0624
