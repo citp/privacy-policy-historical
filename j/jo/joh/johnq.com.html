@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the johnq.com privacy policy that was archived on 2006-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060628032349id_/http%3A//www.johnq.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the johnq.com privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207031633id_/http%3A//johnq.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<title>JohnQ.com - General</title>
@@ -12,15 +12,61 @@
 		<script type="text/javascript" src="js/main.js"></script>
 	</head>
 
-  	<body class="stdBody">
+  	<body class="stdBody" onload="navSelect()">
         
 		<center>
 			<!--HEADER SECTION (DIV) BEGINS-->
-			  			<div id="navMainDiv" class="navMainDiv"> 
-				<script>setLogo()</script><span style="position:absolute;top:0px;width:166px;height:97px;font-size:0px"><a href="http://www.johnq.com"><img src="http://assets.johnq.com/images/nav/logo_header.gif" width="166px" height="97px" border="0px"></a></span><span style="position:absolute;top:97px;width:781px;height:10px;font-size:0px"><img src="http://assets.johnq.com/images/nav/bottom_grey_bar.gif" width="781px" height="10px" border="0px"></span><span style="position:absolute;top:28px;left:166px;font-size:0px"><img src="http://assets.johnq.com/images/nav/tagline_header.gif" width="145px" height="18px" border="0px"></span>
-				<script>setupTabMenu()</script><div id="navHomeButton" class="navHomeButton" onmouseover="tabHover('home','rollover')" onmouseout="tabHover('home','off')"><a href="home.htm"><img id="home_tab" src="http://assets.johnq.com/images/nav/btn_home_off.gif" width="110px" height="33px" border="0px"></a></div><div id="navAudioButton" class="navAudioButton" onmouseover="tabHover('audio','rollover')" onmouseout="tabHover('audio','off')"><a href="audio.htm"><img id="audio_tab" src="http://assets.johnq.com/images/nav/btn_audio_off.gif" width="110px" height="33px" border="0px"></a></div><div id="navVideoButton" class="navVideoButton" onmouseover="tabHover('video','rollover')" onmouseout="tabHover('video','off')"><a href="video.htm"><img id="video_tab" src="http://assets.johnq.com/images/nav/btn_video_off.gif" width="110px" height="33px" border="0px"></a></div><div id="navDesktopButton" class="navDesktopButton" onmouseover="tabHover('desktop','rollover')" onmouseout="tabHover('desktop','off')"><a href="desktop.html"><img id="desktop_tab" src="http://assets.johnq.com/images/nav/btn_desktop_off.gif" width="110px" height="33px" border="0px"></a></div><div id="navAdultButton" class="navAdultButton" onmouseover="tabHover('after_hours','rollover')" onmouseout="tabHover('after_hours','off')"><a href="channel.htm?cid=24"><img id="after_hours_tab" src="http://assets.johnq.com/images/nav/btn_after_hours_off.gif" width="175px" height="33px" border="0px"></a></div><div id="navBottomBar" class="navBottomBar"></div>
-				<script>setActiveTab()</script>
-			</div>
+			
+
+
+
+		<!-- HEADER BEGINS -->
+		<center>
+		<table align="center" cellpadding="0px" cellspacing="0px" border="0px" height="91px">
+			<tbody><tr>
+				<td valign="top">
+					<div id="header" style="position:relative;width:780px;height:91px;border:1px solid #6e6e6e;background-color:#6E6E6E">
+						<div style="position:absolute;border:0px;top:0px;left:0px;height:91px;width:165px">
+							<a href="/"><img src="http://assets.johnq.com/images/header_images/jq_logo.jpg" width="165px" height="91px" border="0px"></a>
+						</div>
+						<div style="position:absolute;border:0px;top:0px;left:165px;height:91px;width:615px;background-image:url(http://assets.johnq.com/images/header_images/header_bg.gif)">
+							<script>
+								if (navigator.userAgent.toLowerCase().indexOf("firefox") != -1)
+									document.write("<div style=\"position:absolute;border:0px;top:24px;left:388px;height:11px;width:68px\"><img src='http://assets.johnq.com/images/header_images/search.png'></div>");
+								else
+									document.write("<div style=\"position:absolute;border:0px;top:24px;left:388px;height:11px;width:68px;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://assets.johnq.com/images/header_images/search.png')\"></div>");
+							</script><div style="position:absolute;border:0px;top:24px;left:388px;height:11px;width:68px;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://assets.johnq.com/images/header_images/search.png')"></div>
+							<script>
+								var url = window.location.toString();
+								document.write("<div style=\"position:absolute;border:0px;top:38px;left:73px;height:20px;width:272px\"><img id=\"membersOnlyTab\" name=\"membersOnlyTab\" src=\"http://assets.johnq.com/images/header_images/members_only_tab.gif\" width=\"272px\" height=\"20px\" border=\"0px\"></div>");
+								if ((url.indexOf(".htm") == -1) || (url.indexOf("/home.htm") != -1))
+									document.write("<div style=\"position:absolute;border:0px;top:58px;left:0px;height:33px;width:74px\"><img id=\"homeTab\" name=\"homeTab\" src=\"http://assets.johnq.com/images/header_images/home_tab_on.gif\" width=\"74px\" height=\"33px\" border=\"0px\"></div>");
+								else
+									document.write("<div style=\"position:absolute;border:0px;top:58px;left:0px;height:33px;width:74px\"><a href=\"home.htm\"><img id=\"homeTab\" name=\"homeTab\" src=\"http://assets.johnq.com/images/header_images/home_tab.gif\" width=\"74px\" height=\"33px\" border=\"0px\" onmouseover=\"this.src='http://assets.johnq.com/images/header_images/home_tab_on.gif'\" onmouseout=\"this.src='http://assets.johnq.com/images/header_images/home_tab.gif'\"></a></div>");
+								if (url.indexOf("/channel.htm?cid=26") != -1 || url.indexOf("/vipLogin.htm") != -1)
+									document.write("<div style=\"position:absolute;border:0px;top:58px;left:74px;height:33px;width:103px\"><img id=\"channelsTab\" name=\"channelsTab\" src=\"http://assets.johnq.com/images/header_images/channels_tab_on.gif\" width=\"103px\" height=\"33px\" border=\"0px\"></div>");
+								else
+									document.write("<div style=\"position:absolute;border:0px;top:58px;left:74px;height:33px;width:103px\"><a href=\"channel.htm?cid=26\"><img id=\"channelsTab\" name=\"channelsTab\" src=\"http://assets.johnq.com/images/header_images/channels_tab.gif\" width=\"103px\" height=\"33px\" border=\"0px\" onmouseover=\"this.src='http://assets.johnq.com/images/header_images/channels_tab_on.gif'\" onmouseout=\"this.src='http://assets.johnq.com/images/header_images/channels_tab.gif'\"></a></div>");
+								if (url.indexOf("/channel.htm?cid=24") != -1 || url.indexOf("/vipLoginAdult.htm") != -1)
+									document.write("<div style=\"position:absolute;border:0px;top:58px;left:177px;height:33px;width:168px\"><img id=\"afterhoursTab\" name=\"afterhoursTab\" src=\"http://assets.johnq.com/images/header_images/afterhours_tab_on.gif\" width=\"168px\" height=\"33px\" border=\"0px\"></div>");
+								else
+									document.write("<div style=\"position:absolute;border:0px;top:58px;left:177px;height:33px;width:168px\"><a href=\"channel.htm?cid=24\"><img id=\"afterhoursTab\" name=\"afterhoursTab\" src=\"http://assets.johnq.com/images/header_images/afterhours_tab.gif\" width=\"168px\" height=\"33px\" border=\"0px\" onmouseover=\"this.src='http://assets.johnq.com/images/header_images/afterhours_tab_on.gif'\" onmouseout=\"this.src='http://assets.johnq.com/images/header_images/afterhours_tab.gif'\"></a></div>");
+								document.write("<div style=\"position:absolute;border:0px;top:58px;left:345px;height:33px;width:72px\"><a href=\"http://blog.johnq.com\"><img id=\"blogTab\" name=\"blogTab\" src=\"http://assets.johnq.com/images/header_images/blog_tab.gif\" width=\"72px\" height=\"33px\" border=\"0px\" onmouseover=\"this.src='http://assets.johnq.com/images/header_images/blog_tab_on.gif'\" onmouseout=\"this.src='http://assets.johnq.com/images/header_images/blog_tab.gif'\"></a></div>");
+							</script><div style="position:absolute;border:0px;top:38px;left:73px;height:20px;width:272px"><img id="membersOnlyTab" name="membersOnlyTab" src="http://assets.johnq.com/images/header_images/members_only_tab.gif" width="272px" height="20px" border="0px"></div><div style="position:absolute;border:0px;top:58px;left:0px;height:33px;width:74px"><a href="home.htm"><img id="homeTab" name="homeTab" src="http://assets.johnq.com/images/header_images/home_tab.gif" width="74px" height="33px" border="0px" onmouseover="this.src='http://assets.johnq.com/images/header_images/home_tab_on.gif'" onmouseout="this.src='http://assets.johnq.com/images/header_images/home_tab.gif'"></a></div><div style="position:absolute;border:0px;top:58px;left:74px;height:33px;width:103px"><a href="channel.htm?cid=26"><img id="channelsTab" name="channelsTab" src="http://assets.johnq.com/images/header_images/channels_tab.gif" width="103px" height="33px" border="0px" onmouseover="this.src='http://assets.johnq.com/images/header_images/channels_tab_on.gif'" onmouseout="this.src='http://assets.johnq.com/images/header_images/channels_tab.gif'"></a></div><div style="position:absolute;border:0px;top:58px;left:177px;height:33px;width:168px"><a href="channel.htm?cid=24"><img id="afterhoursTab" name="afterhoursTab" src="http://assets.johnq.com/images/header_images/afterhours_tab.gif" width="168px" height="33px" border="0px" onmouseover="this.src='http://assets.johnq.com/images/header_images/afterhours_tab_on.gif'" onmouseout="this.src='http://assets.johnq.com/images/header_images/afterhours_tab.gif'"></a></div><div style="position:absolute;border:0px;top:58px;left:345px;height:33px;width:72px"><a href="http://blog.johnq.com"><img id="blogTab" name="blogTab" src="http://assets.johnq.com/images/header_images/blog_tab.gif" width="72px" height="33px" border="0px" onmouseover="this.src='http://assets.johnq.com/images/header_images/blog_tab_on.gif'" onmouseout="this.src='http://assets.johnq.com/images/header_images/blog_tab.gif'"></a></div>
+							<form action="search.htm">
+								
+									
+								
+								<input type="text" id="searchBox" name="qry" value="" style="position:absolute;border:1px solid #777777;top:20px;left:460px;height:16px;width:120px">
+								<input type="image" src="http://assets.johnq.com/images/header_images/search_btn.gif" width="16px" height="16px" border="0px" style="position:absolute;border:0px;top:21px;left:582px;height:16px;width:16px" onmouseover="javascript:this.src='http://assets.johnq.com/images/header_images/search_btn_on.gif'" onmouseout="javascript:this.src='http://assets.johnq.com/images/header_images/search_btn.gif'">
+							</form>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+		</center>
+		<!-- HEADER ENDS -->
 			<!--HEADER SECTION (DIV) ENDS-->
 
 			<!--MAIN TABLE BEGINS-->
@@ -32,35 +78,10 @@
 
 
 
-
+						
 						<table id="mainLeftOuterTable" class="mainLeftOuterTable commonNoBorderTable" cellpadding="0px" cellspacing="0px">
 							<tbody><tr>
 								<td valign="top">
-									<!--SEARCH BOX SECTION (TABLE) BEGINS-->
-									<table id="searchTable" cellpadding="0px" cellspacing="0px" class="mainLeftInnerTable commonBorderTable">
-										<tbody><tr>
-											<td align="center">
-												<div id="searchBoxTitle" class="mainNavBoxTitles commonTitleFont12">&nbsp;SEARCH SITE</div>
-							                    <div id="searchBoxContent" class="mainNavSearchBoxContent commonCopyFont11"> 
-                      								<form action="search.htm">
-                        								<div id="search" class="mainNavSearchQueryBoxDiv"> 
-                          									
-    															
-    														
-                      										<input type="text" id="search_box" name="qry" value="" class="mainNavSearchQueryBox commonCopyFont11">
-    														
-    														
-                          									<div id="search_button" class="mainNavSearchButtonDiv">
-                          										<input type="image" src="http://assets.johnq.com/images/buttons/search_go_button.gif" width="31px" height="16px" border="0px" onmouseover="javascript:hoverSwap(this, 'search_go_button_hover.gif')" onmouseout="javascript:hoverSwap(this, 'search_go_button.gif')">
-                          									</div>
-								                        </div>
-                      								</form>
-                    							</div>
-											</td>
-										</tr>
-									</tbody></table>
-									<!--SEARCH BOX SECTION (TABLE) ENDS-->
-
 									<!--CHANNELS MENU SECTION (TABLE) BEGINS-->
 									
 
@@ -200,33 +221,7 @@
 </tbody></table>
 									<!--CHANNELS MENU SECTION (TABLE) ENDS-->
 
-									<!--SPECIAL CHANNELS MENU SECTION (TABLE) BEGINS-->
-                                    
-
-
-
-
-
-            <table id="specialChannelsTable" cellpadding="0px" cellspacing="0px" class="mainLeftInnerTable commonBorderTable">
-                <tbody><tr>
-                    <td align="center">
-                        <div id="specialChannelsBoxTitle" class="mainNavBoxTitles commonTitleFont12">&nbsp;SPECIAL CHANNELS</div>
-                        <div id="specialChannelsBoxContent" class="mainNavBoxContent commonMenuFont11 commonMenuLink">
-                            
-                                <div id="channelMenu_25" class="mainNavBoxItemHighlight" onmouseover="javascript:menuItemHover(true,'channelMenu_25')" onmouseout="javascript:menuItemHover(false,'channelMenu_25')" onclick="javascript:navigate('channel.htm?cid=25')" style="cursor:pointer">
-                                    <span class="commonMenuArrowSpan">►&nbsp;&nbsp;</span>
-                                    <b onmouseover="javascript:menuItemUnderline(true,this,'channelMenu_25')" onmouseout="javascript:menuItemUnderline(false,this,'channelMenu_25')">Prime Cuts</b>
-                                </div>
-                            
-                        </div>
-                    </td>
-                </tr>
-            </tbody></table>
-									<!--SPECIAL CHANNELS MENU SECTION (TABLE) ENDS-->
-									<script>navSelect()</script>
-
 									<!--LEFT-NAV PROMO-1 SECTION (TABLE) BEGINS-->
-									
 									
 
 
@@ -237,14 +232,13 @@
 	<tbody><tr>
 		<td align="center">
 			<div id="leftNavPromo_1" class="mainNavLeftNavPromo_1">
-				<a href="/mars7promoageverify.htm?promoId=13"><img src="/promos/site/internet160x160.jpg" border="0px"></a>
 				
+				<a href="/login.htm?source=P&amp;promoId=10"><img src="/promos/site/celebrities160x160.jpg" border="0px"></a>
 			</div>
 		</td>
 	</tr>
 </tbody></table>
-									
-									
+
 									<!--LEFT-NAV PROMO-1 SECTION (TABLE) ENDS-->
 								</td>
 							</tr>
@@ -263,7 +257,7 @@
 		<tbody><tr>
 			<td align="justify" valign="top">
 				<div id="generalTitle" class="commonBoxTitles commonTitleFont12">&nbsp;JOHNQ PRIVACY POLICY</div>
-				<div id="generalBoxContent" class="generalBoxContent commonCopyFont11">
+				<div id="generalBoxContent" class="generalBoxContent commonCopyFont11" style="height:100%">
 					<br>
 					<span class="generalHighlightText">Last updated: March 27, 2006</span><br><br>
 					At JohnQ we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by John Q Media, LLC or its subsidiaries or affiliated companies (collectively, JohnQ's "services"). In addition, where more detailed information is needed to explain our privacy practices, we will post separate privacy notices to describe how particular services process <a href="/privacyfaq.htm#personalinfo">personal information</a>.<br><br>
@@ -334,6 +328,8 @@
     
         
         	
+        		
+        	
         	
         		
         	
@@ -344,58 +340,123 @@
 
 
 
-
-<div class="commonBoxTitles commonTitleFont12">
-	&nbsp;MOST WATCHED
-	<div class="topTenRssButtonDiv">
-		
-		
-	</div>
-</div>
-
-<div class="commonBoxContent commonBoxBigContent commonCopyFont10 commonLink">
-	
-		<div title="Porncaster.net" id="MOST WATCHED_0" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=652">Porncaster.net</a>
-		</div>
-	
-		<div title="Live XXX TV podcasting porn with video" id="MOST WATCHED_1" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=659">Live XXX TV podcasting porn with...</a>
-		</div>
-	
-		<div title="Playboy UK podcast" id="MOST WATCHED_2" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=647">Playboy UK podcast</a>
-		</div>
-	
-		<div title="XPod Clips - Free iPod Porn Videos" id="MOST WATCHED_3" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=658">XPod Clips - Free iPod Porn Videos</a>
-		</div>
-	
-		<div title="Soccergirl, Incorporated" id="MOST WATCHED_4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=669">Soccergirl, Incorporated</a>
-		</div>
-	
-		<div title="Dixies Dream FREE Porn Podcasts - Feed 0014" id="MOST WATCHED_5" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=662">Dixies Dream FREE Porn Podcasts -...</a>
-		</div>
-	
-		<div title="CUTE &amp; SEXY VIDEOS HawaiianTropicModels.com" id="MOST WATCHED_6" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=477">CUTE &amp; SEXY VIDEOS...</a>
-		</div>
-	
-		<div title="Pornabees.com Pod Porn" id="MOST WATCHED_7" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true, this.id)" onmouseout="javascript:menuItemHover(false, this.id)">
-			<span class="commonMenuArrowSpan">►</span>
-			<a href="details.htm?sid=657">Pornabees.com Pod Porn</a>
-		</div>
-	
-</div>
+			<div class="commonBoxTitles commonTitleFont12">
+				&nbsp;MOST WATCHED
+			</div>
+            <div class="commonBoxContent commonCopyFont10 commonLink"> 
+				
+					<div title="Playboy UK" id="list-17_0" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=647">Playboy UK</a>
+						
+						
+						
+					</div>
+				
+					<div title="VH1's Best Week Ever" id="list-17_1" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=280">VH1's Best Week Ever</a>
+						
+						
+						
+					</div>
+				
+					<div title="G4: Attack of the Show" id="list-17_2" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=271">G4: Attack of the Show</a>
+						
+						
+						
+					</div>
+				
+					<div title="Hawaiian Tropic Models" id="list-17_3" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=477">Hawaiian Tropic Models</a>
+						
+						
+						
+					</div>
+				
+					<div title="CNET News.com Daily Reviews" id="list-17_4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=129">CNET News.com Daily Reviews</a>
+						
+						
+						
+					</div>
+				
+					<div title="Extreme Sports: VANS Video" id="list-17_5" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=420">Extreme Sports: VANS Video</a>
+						
+						
+						
+					</div>
+				
+					<div title="Tiki Bar TV" id="list-17_6" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=222">Tiki Bar TV</a>
+						
+						
+						
+					</div>
+				
+					<div title="[adultswim] Previews" id="list-17_7" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=708">[adultswim] Previews</a>
+						
+						
+						
+					</div>
+				
+					<div title="VOD Cars" id="list-17_8" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=182">VOD Cars</a>
+						
+						
+						
+					</div>
+				
+					<div title="Discovery Channel Features" id="list-17_9" style="background-color:#F4F4F4" class="commonBoxItemHighlight" onmouseover="javascript:menuItemHover(true,this.id)" onmouseout="javascript:menuItemHover(false,this.id)">
+						<span class="commonMenuArrowSpan">►</span>
+						
+							
+							
+							<a href="details.htm?sid=363">Discovery Channel Features</a>
+						
+						
+						
+					</div>
+				
+			</div>
+			
 
     
 
@@ -415,15 +476,19 @@
 			<!--MAIN TABLE ENDS-->
 
 			<!--FOOTER SECTION (DIV) BEGINS-->
-						<br style="font-size:20px">
-			<div id="footerDiv" class="footerDiv">
-				<a href="/about.htm">About Us</a> | 
-				<a href="http://blog.johnq.com">Blog</a> | 
-				<a href="http://server.iad.liveperson.net/hc/s-19981037/cmd/kbresource/front_page!PAGETYPE" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/s-19981037/cmd/kbresource/front_page!PAGETYPE','knowledgebase','width=700,height=500,scrollbars=yes,resizable=yes');return false;">Help &amp; FAQ</a> | 
-				<a href="/privacy.htm">Privacy Policy</a> | 
-				<a href="/terms.htm">Terms of Service</a> | 
+					<!-- STARTS FOOTER CONTAINER -->
+		<center>
+			<br style="font-size:1px">
+			<div id="footer" style="position:relative;width:780px;border:1px solid #4E4E4E">
+				<a href="/about.htm">About Us</a>&nbsp;|&nbsp;
+				<a href="http://blog.johnq.com">Blog</a>&nbsp;|&nbsp;
+				<a href="http://server.iad.liveperson.net/hc/s-19981037/cmd/kbresource/front_page!PAGETYPE" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/s-19981037/cmd/kbresource/front_page!PAGETYPE','knowledgebase','width=700,height=500,scrollbars=yes,resizable=yes');return false;">Help &amp; FAQ</a>&nbsp;|&nbsp;
+				<a href="/privacy.htm">Privacy Policy</a>&nbsp;|&nbsp;
+				<a href="/terms.htm">Terms of Service</a>&nbsp;|&nbsp;
 				<a href="http://server.iad.liveperson.net/hc/s-19981037/web/ticketpub/msgcontroller.jsp" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/s-19981037/web/ticketpub/msgcontroller.jsp','email','width=600,height=600,scrollbars=yes,resizable=yes');return false;">Contact Us</a>
 			</div>
+		</center>
+		<!-- ENDS FOOTER CONTAINER -->		
 
 			<!--FOOTER SECTION (DIV) ENDS-->
 		</center>
