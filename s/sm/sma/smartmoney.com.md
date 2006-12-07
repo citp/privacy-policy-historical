@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619222504id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207010811id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.*
 
-# SmartMoney.com Policies (Policies)| SmartMoney.com
+# SmartMoney.com Policies (Policies) | SmartMoney.com
 
 **General**
 
@@ -40,14 +40,12 @@ SmartMoney automatically collects IP addresses and web site usage information fr
 
 SmartMoney uses personally identifiable information collected from you for the following general purposes: 
 
-  * to fulfill your requests for specific products and services; 
-  * to customize the advertising and content you see; 
-  * to improve the design and content of our site; 
-  * to contact you about special offers, products or services that may be of interest to you; 
-  * to enter you in promotions at your specific request; and 
-  * to provide you with customer service. 
-
-
+* to fulfill your requests for specific products and services; 
+* to customize the advertising and content you see; 
+* to improve the design and content of our site;
+* to contact you about special offers, products or services that may be of interest to you;
+* to enter you in promotions at your specific request; and
+* to provide you with customer service.
 
 **Information Sharing and Disclosure**
 
@@ -55,13 +53,10 @@ SmartMoney will not sell, share or otherwise disclose any personally identifiabl
 
 SmartMoney may share or disclose personally identifiable information about you to other companies or individuals when: 
 
-  * we have your consent to share the information; 
-  * we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards), and require these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; 
-  * we need to protect our legal rights (for example, if we are trying to collect money you owe us or we are trying to enforce our Terms of Use or other agreement with you); 
-  * we must comply with applicable laws, regulations, or legal or regulatory process; or 
-  * in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the SmartMoney.com business. 
-
-
+* we have your consent to share the information;
+* we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards), and require these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;
+* we need to protect our legal rights (for example, if we are trying to collect money you owe us or we are trying to enforce our Terms of Use or other agreement with you);
+* we must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the SmartMoney.com business.
 
 Aggregate information is information that we (or third party service providers on our behalf) collect about SmartMoney.com web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties. 
 
