@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pad2pad.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pad2pad.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Online custom PCB's with components - Privacy Statement
+# Privacy Statement - Free PCB design software - Printed circuit boards manufacturing
 
 |  | 
 
@@ -9,69 +9,71 @@ Newcomers
 ---  
   |  | 
 
-[Demo              ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/demo/index.php)  
+[Demo              ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/demo/index.htm)  
   
   |  | 
 
-[Free Download    ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/download/index.php)  
+[Free Download    ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/download/index.htm)  
   
   |  | 
 
-[FAQ                ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/faq/index.php)  
+[FAQ                ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/faq/index.htm)  
   
   |  | 
 
-[Price Samples](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/quote/samples.php)  
+[Capabilities](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/mfg.htm)  
   
   |  | 
 
-[Instant Quote](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/quote/index.php)  
+[Glossary](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/company/glossary.htm)  
   
   |  | 
 
-[Specifications](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/mfg.php)  
-  
-  |  | 
-
-[Glossary](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/company/glossary.php)  
+[Pricing](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/quote/samples.htm)  
   
 Pad2Pad Users   
   
   |  | 
 
-[New in 1.3.0](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/whats_new.php)  
+[New in 1.7.5](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/whats_new.htm)  
   
   |  | 
 
-[Order Status](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/feedback/order_status.php)  
+[Order Status](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/feedback/order_status.htm)  
   
   |  | 
 
-[Support         ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/support/index.php)  
+[Support         ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/support/index.htm)  
   
   |  | 
 
-[Suggestions  ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/feedback/index.php)  
+[Suggestions  ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/feedback/index.htm)  
   
-Miscellaneous   
-  
-  |  | 
-
-[Company       ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/company/index.php)  
+Company   
   
   |  | 
 
-[Design Service](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/design_service.php)  
+[About Pad2Pad     ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/company/index.htm)  
   
   |  | 
 
-[Links              ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/partner/links.php)  
+[Pad2Pad in Media](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/media.htm)  
   
   |  | 
 
-[Contact Us     ](https://web.archive.org/web/20041014025041id_/http%3A//www.pad2pad.com/company/contact.php)  
+[Links              ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/partner/links.htm)  
   
-|  | 
+  |  | 
+
+[Tell a Friend     ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/taf.htm)  
+  
+  |  | 
+
+[Contact Us     ](https://web.archive.org/web/20061207031454id_/http%3A//www.pad2pad.com/company/contact.htm)  
+  
+Links:
+
+[**eMachineShop**](http://www.emachineshop.com/) |  | 
 
 Privacy Statement
 
@@ -95,7 +97,7 @@ All updates to this policy will be posted here. Last update: March 10, 2004.
 
 Questions?
 
-Please send any questions or comments on our privacy practices to [webmaster@pad2pad.com](mailto:webmaster@pad2pad.com).
+Please send any questions or comments on our privacy practices to [support@pad2pad.com](mailto:support@pad2pad.com).
 
 Pad2Pad.com is committed to user privacy in our products and services.
 
