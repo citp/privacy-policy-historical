@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwellbankeronline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051225id_/http%3A//coldwellbankeronline.com/custommodules/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbankeronline.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207162137id_/http%3A//www.coldwellbankeronline.com/custommodules/content/privacy.aspx) for the most accurate reproduction.*
 
 # Coldwell Banker Real Estate in Illinois, Wisconsin, Indiana, Michigan (Chicago real estate, Milwaukee (Wisconsin) real estate, Indiana real estate, Michigan real estate)
 
