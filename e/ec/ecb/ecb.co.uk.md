@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205174607id_/http%3A//www.ecb.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207051410id_/http%3A//www.ecb.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ECB.co.uk
+# Privacy Policy - England and Wales Cricket Board - ECB
 
-##### The England and Wales Cricket Board Limited Privacy Policy
+## Privacy Policy
+
+### The England and Wales Cricket Board Limited Privacy Policy
 
 At the England & Wales Cricket Board Limited (ECB), we are committed to maintaining your privacy in accordance with the Data Protection Act 1998. Our **Privacy Policy** explains our commitment to data protection and the use of your information in providing you with the services and information you require. 
 
@@ -16,11 +18,11 @@ We will take reasonable care to keep your information secure and to prevent any 
 
 In processing your information for reasons stated in **Collection & Use of Personal Information** it is possible that your personal information may be stored or transferred outside the UK to countries where data protection law is less stringent than in the UK. 
 
-##### Collection & Use of Personal Information
+### Collection & Use of Personal Information
 
 This website is administered by the England & Wales Cricket Board who are committed to responsible processing and collection of personal information in accordance with the Data Protection Act 1998. 
 
-##### Use of registered user information by the ECB 
+### Use of registered user information by the ECB 
 
 Personal information collected is used for the following purposes:
 
@@ -31,13 +33,13 @@ Personal information collected is used for the following purposes:
 
 
 
-##### Cookies and use of casual visitor information
+### Cookies and use of casual visitor information
 
 This website uses cookies (messages stored by your web browser) to enable you to properly navigate the site. These cookies are only used for the proper operation of the site. We do not use these cookies to collect personal information. 
 
 Updating and correction. You can revisit your site profile at any time to update and correct any personal information contained in it. If you are unable to change or update your personal information, please e-mail us at [help@ecb.co.uk](mailto:help@ecb.co.uk).
 
-##### Third party sites.
+### Third party sites.
 
 This privacy policy applies only to this website. The ECB does not control any third party sites linked to this site and we are not responsible for the privacy practices of these sites. 
 
