@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620144249id_/http%3A//lexile.com/DesktopDefault.aspx%3Fview%3Ded%26tabindex%3D0%26tabid%3D1%26tabpageid%3D213) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207101427id_/http%3A//www.lexile.com/DesktopDefault.aspx%3Fview%3Ded%26tabindex%3D0%26tabid%3D1%26tabpageid%3D213) for the most accurate reproduction.*
 
 # The Lexile Framework for Reading
 
@@ -7,7 +7,7 @@ This statement is effective as of 7/1/04.
 **Overview**  
 At MetaMetrics, we respect the privacy needs of our valued customers and subscribers. This Privacy Policy outlines what specific information is gathered on the MetaMetrics site and how that information is used. 
 
-MetaMetrics works to ensure highest degree of protection for consumers and businesses. In fact, our standards meet (and exceed) the U.S. Department of Commerce's "Safe Harbors" standards. We will continue to work to ensure that our Web site complies with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the MetaMetrics Privacy Statement, please contact us via e-mail at [webmaster@lexile.com](mailto:webmaster@lexile.com?subject=MetaMetrics%27%20Privacy%20Policy). 
+MetaMetrics works to ensure highest degree of protection for consumers and businesses. In fact, our standards meet (and exceed) the U.S. Department of Commerce's "Safe Harbors" standards. We will continue to work to ensure that our Web site complies with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the MetaMetrics Privacy Statement, please contact us via e-mail at [webinfo@lexile.com](mailto:webinfo@lexile.com). 
 
 **Collection and Use of Information by MetaMetrics**  
 MetaMetrics explicitly asks when we need information that personally identifies you ("Personal Information"). Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products. Financial information that is collected is used to verify identity, and to bill either you or your company for products and services, as applicable. Demographic and profile data collected by MetaMetrics may be used to tailor the Web site or any requested e-mail communications, and to display information that is more relevant to you. 
@@ -29,4 +29,4 @@ Privacy, anti-hacking and other security technology has been implemented through
 MetaMetrics allows you to purchase Lexile-related products and services in a variety of ways. When credit card billing is chosen, information is transferred to MetaMetrics' clearing house partner using industry-leading, secure transmission technology including SSL and HTTPS (the transmission standard used for transactions by major financial institutions). The information is then encrypted using data encryption and stored securely so that it is ready to handle your transactions. 
 
 **The Bottom Line**  
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [webmaster@lexile.com](mailto:webmaster@lexile.com?subject=MetaMetrics%27%20Privacy%20Policy). 
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [webinfo@lexile.com](mailto:webinfo@lexile.com). 
