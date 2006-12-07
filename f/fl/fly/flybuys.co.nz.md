@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519003153id_/http%3A//www.flybuys.co.nz/members/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207095144id_/https%3A//www.flybuys.co.nz/members/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Fly Buys New Zealand
 
@@ -28,7 +28,7 @@ Members have the right to opt out of mailings other than their Point Summary, by
 
 Members and secondary cardholders may, under the provisions of the Privacy Act 1993, request access to and correction of their personal information held by Fly Buys. These requests must be in writing. A fee may be charged for the reasonable costs incurred in responding to these requests. Any such fee will be disclosed to the member or secondary cardholder before it is incurred.
 
-This document should be read in conjunction with the New Zealand Privacy Act 1993 legislation. This Act is designed to promote and protect individual privacy and is consistent with international privacy principles. For further information relating to the New Zealand Privacy Act 1993 please refer to <http://www.privacy.org.nz/top.html>
+This document should be read in conjunction with the New Zealand Privacy Act 1993 legislation. This Act is designed to promote and protect individual privacy and is consistent with international privacy principles. For further information relating to the New Zealand Privacy Act 1993 please refer to <http://www.privacy.org.nz/home.php>
 
 **
 
