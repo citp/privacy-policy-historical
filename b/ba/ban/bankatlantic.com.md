@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625234648id_/https%3A//www.bankatlantic.com/privacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207155749id_/https%3A//www.bankatlantic.com/privacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # BankAtlantic Privacy Policy
 
