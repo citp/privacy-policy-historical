@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212317id_/http%3A//daddario.com/DADPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207043407id_/http%3A//daddario.com/DADPolicy.aspx) for the most accurate reproduction.*
 
 # D'Addario Strings - Privacy Policy
 
- J. D'Addario respects and is committed to protecting your privacy. We have adopted the Privacy Policy described below to let you know how any information we obtain from or about you may be processed and used. If you have any questions or concerns about our Privacy Policy, you should first contact us at: [ privacypolicy@daddario.com](mailto:privacypolicy@daddario.com)
+ D'Addario respects and is committed to protecting your privacy. We have adopted the Privacy Policy described below to let you know how any information we obtain from or about you may be processed and used. If you have any questions or concerns about our Privacy Policy, you should first contact us at: [ privacypolicy@daddario.com](mailto:privacypolicy@daddario.com)
 
 * To serve you, we gather information needed to process your Player's Points orders, deliver a more personalized experience, and improve our overall Web Site. 
 
-* When you use our Web Site, we may need to know certain information including your name, e-mail address, credit card information and mailing address. This information is needed, among other things, to process your requests and to contact you about products or services of J. D'Addario and affiliates. 
+* When you use our Web Site, we may need to know certain information including your name, e-mail address, credit card information and mailing address. This information is needed, among other things, to process your requests and to contact you about products or services of D'Addario and affiliates. 
 
 * When you sign up to become a member at the Web Site, you will be asked to provide certain information and to answer certain questions. This information helps us better understand what our visitors are interested in and what musical background they come from.
 
@@ -24,8 +24,8 @@ We and our advertisers, if any, may use single-pixel gif images, sometimes refer
 
 **Disclosure of collected information to third parties**
 
-J. D'Addario does not currently sell or rent your personal information to others. However, we reserve the right to transfer such information for use by our affiliates or in connection with a reorganization, or disposition of assets by the Company. We may provide aggregate statistical information about our customers, sales, traffic patterns, web site usage, and related information to trusted third parties. These aggregate statistics will include no personal identifying information. However, J. D'Addario may find it necessary to provide personal information to law enforcement agencies in the case of a subpoena or legal issue, or if otherwise required to by law. Our Web Site may contain hyperlinks to third party Web Sites and advertisements of third parties. J. D'Addario is not responsible for the privacy policies, practices or contents of such other sites and advertisers. 
+D'Addario does not currently sell or rent your personal information to others. However, we reserve the right to transfer such information for use by our affiliates or in connection with a reorganization, or disposition of assets by the Company. We may provide aggregate statistical information about our customers, sales, traffic patterns, web site usage, and related information to trusted third parties. These aggregate statistics will include no personal identifying information. However, D'Addario may find it necessary to provide personal information to law enforcement agencies in the case of a subpoena or legal issue, or if otherwise required to by law. Our Web Site may contain hyperlinks to third party Web Sites and advertisements of third parties. D'Addario is not responsible for the privacy policies, practices or contents of such other sites and advertisers. 
 
 **Your consent  
 **   
-By using the Web Site, you consent to the collection and use of your information by J. D'Addario on the terms described above. We reserve the right to make changes to our privacy policy at any time without prior notice. Please review our policy periodically to check for any changes. 
+By using the Web Site, you consent to the collection and use of your information by D'Addario on the terms described above. We reserve the right to make changes to our privacy policy at any time without prior notice. Please review our policy periodically to check for any changes. 
