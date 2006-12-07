@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022337id_/http%3A//www.creditsolutions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207133635id_/http%3A//www.creditsolutions.com/privacy.html) for the most accurate reproduction.*
 
 # Credit Solutions
 
@@ -81,4 +81,4 @@ Toll Free: (800) 353-7630 • Fax: (214) 853-5997**
 
 Policy Effective Date: January 26, 2006 
 
-[Top](https://web.archive.org/web/20060615022337id_/http%3A//www.creditsolutions.com/privacy.html)
+[Top](https://web.archive.org/web/20061207133635id_/http%3A//www.creditsolutions.com/privacy.html)
