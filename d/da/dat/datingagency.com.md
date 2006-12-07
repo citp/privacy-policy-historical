@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504091939id_/http%3A//datingagency.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207104414id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
 
 # Dating agency from datingagency.com: the friendliest local dating service around!
 
@@ -10,7 +10,7 @@ We are registered as Data Controllers with the Office of the Information Commiss
 
 ## Privacy contact
 
-Matters concerning your privacy on this site should be addressed to Gordon Smith through our [contact form](https://web.archive.org/web/20060504091939id_/http%3A//datingagency.com/misc/contact.asp).
+Matters concerning your privacy on this site should be addressed to Gordon Daniel Smith through our [contact form](https://web.archive.org/contact/).
 
 ## How data is collected
 
@@ -31,7 +31,7 @@ Our web servers automatically collect only the following information, even if yo
 
 This information is used to improve our service by adapting our pages to display correctly on many different platforms, and also to record number of visitors, page impressions etc.
 
-## Personally-identifiable information
+##  Personally-identifiable information
 
 If you join you give us:
 
@@ -61,7 +61,7 @@ If you add a profile we also collect the following personally-identifiable infor
 
 
 
-This is used to display a profile of you which may be found by searching by other members. We generate demographic information from this data which we use for soliciting advertising from reputable companies to be displayed on our web pages.
+This is used to display a profile of you which may be found by searching by other members. We generate demographic information from this data which we use for soliciting advertising from reputable companies to be displayed on our web pages.
 
 ## Opting out of emails
 
