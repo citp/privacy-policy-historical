@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327102808id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207181004id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Usenet Binaries Dot Com - Privacy Policy
 
@@ -87,7 +87,7 @@ We may share aggregated demographic information with our partners and advertiser
 
 _Third Party Intermediaries_
 
-We use credit card processing companies to authenticate and bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+We use credit card processing companies to authenticate and bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We may also use a third party intermediary to assist us in analyzing broad demographic information about our site traffic. 
 
 _Business Transitions_
 
