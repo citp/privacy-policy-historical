@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204209id_/http%3A//www.collages.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207023310id_/http%3A//www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Collages.net - Wedding and Event Photography Web Sites
+# Collages.net: Total Workflow and Printing Solution for Professional Photographers - Home
 
-  |  |  |  | 
-
-|   
+|  |  |   
 ---  
-|  Collages.net®, recognizes and respects the importance of maintaining the privacy of our photographers, color labs, event guests and other customers, who are all considered registered members (“Members”) and users and has therefore established this Privacy Policy. Below we describe why we gather information from you, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of our web site located at Collages.net (the “Web Site”). The Web Site is owned by Collages.net, Inc. (the “Company”). By visiting Collages.net, you are accepting the practices described in this privacy notice and agree to receive our current privacy policies through our web site.
+| 
+
+|  Privacy Statement
+
+Collages.net®, recognizes and respects the importance of maintaining the privacy of our photographers, color labs, event guests and other customers, who are all considered registered members (“Members”) and users and has therefore established this Privacy Policy. Below we describe why we gather information from you, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of our web site located at Collages.net (the “Web Site”). The Web Site is owned by Collages.net, Inc. (the “Company”). By visiting Collages.net, you are accepting the practices described in this privacy notice and agree to receive our current privacy policies through our web site.
 
 **Note:** You must be 18 years or older to register as a member or use Collages.net®. 
 
@@ -31,7 +33,7 @@ The information that Collages.net® may collect includes, but is not limited to:
   * Products purchased
   * Any relevant promotion code and information
   * Gift and message recipient's name, address, telephone number, email address, and any other information you provide to us
-  * IP address, equipment and browser information \- Collages.net® keeps your IP address, equipment and browser information confidential and uses it only to help diagnose problems with our server, to generate internal statistics, and to administer the Website.
+  * IP address, equipment and browser information - Collages.net® keeps your IP address, equipment and browser information confidential and uses it only to help diagnose problems with our server, to generate internal statistics, and to administer the Website.
 
   
 We receive and store certain types of information automatically whenever you interact with us. For example, like many web sites, we use “cookies,” and we obtain certain types of information when your web browser accesses Collages.net. A number of companies offer utilities designed to help you visit web sites anonymously. Although this may interfere with and limit our ability to provide you with the services Collages.net offers, we want you to be aware that these tools exist. Collages.net does not warrant the effectiveness of these utilities, and does not represent that we will be able to process your requests or provide services to you should you use such a utility.
@@ -74,7 +76,7 @@ We use information we collect to:
 
   
   
-In addition, we may periodically make such information (except for credit card number and expiration date, unless you consent otherwise), including aggregated information, personally identifiable information with third party businesses and affiliates  for the purpose of direct mail, email marketing and telemarketing.  “Affiliates” are those persons or entities directly or indirectly controlling, controlled by, or under common control with the Company.  You may instruct us not to share personal information about you that you have provided to us with third parties by following the instructions provided below. A Successor to our business is not considered to be a third party for these purposes (see below). 
+In addition, we may periodically make such information (except for credit card number and expiration date, unless you consent otherwise), including aggregated information, personally identifiable information with third party businesses and affiliates for the purpose of direct mail, email marketing and telemarketing.  “Affiliates” are those persons or entities directly or indirectly controlling, controlled by, or under common control with the Company.  You may instruct us not to share personal information about you that you have provided to us with third parties by following the instructions provided below. A Successor to our business is not considered to be a third party for these purposes (see below). 
 
 In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of the Company by, with, or into another company (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers, Members, and users. However, the use of this information by any Successor would still be governed by the terms of this Privacy Policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. 
 
@@ -127,6 +129,9 @@ Subject to the above provisions, by using our Web Site, you consent to the colle
 
 Collages.net® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [ customerservice@Collages.net](mailto:customerservice@Collages.net).  
   
-This policy was posted on March 20, 2004  
+Last updated on July 18, 2006  
   
- 
+  
+  
+[Home](http://www.collages.net/site/Home/tabid/101/Default.aspx)|[Overview](http://www.collages.net/site/Overview/tabid/72/Default.aspx)|[collagesColor](http://www.collages.net/site/collagesColor/tabid/60/Default.aspx)|[Sign Up Options](http://www.collages.net/site/SignUpOptions/tabid/61/Default.aspx)|[Products](http://www.collages.net/site/Products/tabid/62/Default.aspx)|[Resources](http://www.collages.net/site/Resources/tabid/66/Default.aspx)|[Partners](http://www.collages.net/site/Partners/tabid/71/Default.aspx)|[FAQ](http://www.collages.net/site/FAQ/tabid/86/Default.aspx)|[About](http://www.collages.net/site/About/tabid/73/Default.aspx)|[Contact](http://www.collages.net/site/Contact/tabid/81/Default.aspx)  
+Copyright 2006 by Collages.net Inc. [Terms Of Use](http://www.collages.net/site/Home/tabid/101/ctl/Terms/Default.aspx) [Privacy Statement](http://www.collages.net/site/Home/tabid/101/ctl/Privacy/Default.aspx)
