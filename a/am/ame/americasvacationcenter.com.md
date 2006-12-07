@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110513id_/http%3A//www.americasvacationcenter.com/internal/about.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207090503id_/http%3A//www.americasvacationcenter.com/internal/about.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
 
 # America's Vacation Center - Discount Cruises, Last Minute Cruises, Caribbean Cruises, Mexico Cruises, Alaska Cruises, Hawaii Cruises, Europe Cruises
 
@@ -23,7 +23,7 @@ America’s Vacation Center provides you with choice and control over the collec
 Tell Me More
 
 How you can decide what marketing communications you'll receive  
-America’s Vacation Center provides you with the opportunity to specifically choose the promotional marketing communications you wish to receive from America’s Vacation Center. For email newsletters and promotional postal mail, this can be accomplished by calling our Customer Care department at **1-800-646-4320** or by sending an e-mail to [customercare@americasvacationcenter.com](mailto:customercare@americasvacationcenter.com) that includes your full name, street address and e-mail address and specify that you don't want to continue receiving either postal mail, email or both. If you choose not to receive any of the promotional marketing services that America’s Vacation Center provides, then America’s Vacation Center will not send them to you.   
+America’s Vacation Center provides you with the opportunity to specifically choose the promotional marketing communications you wish to receive from America’s Vacation Center. For email newsletters and promotional postal mail, this can be accomplished by calling our Customer Care department at **1-866-692-8692** or by sending an e-mail to [customercare@americasvacationcenter.com](mailto:customercare@americasvacationcenter.com) that includes your full name, street address and e-mail address and specify that you don't want to continue receiving either postal mail, email or both. If you choose not to receive any of the promotional marketing services that America’s Vacation Center provides, then America’s Vacation Center will not send them to you.   
 Tell Me More
 
 How we protect your information  
@@ -192,7 +192,7 @@ Each time you purchase travel through America’s Vacation Center, or change or 
 Elect to receive trip updates, changes or other special promotional marketing communications
 
 **  
-As a registered America’s Vacation Center member, you will occasionally receive e-mails notifying you of special promotions or other travel news. Special promotional e-mails are intended to inform you of new or unique travel opportunities or special deals that are available on America’s Vacation Center. If you have purchased travel services, you may also receive a trip update e-mail that provides information about your destination, such as weather conditions, current events, or items of interest. by calling our Customer Care department at **1-800-646-4320** or by sending an e-mail to [customercare@americasvacationcenter.com](mailto:customercare@americasvacationcenter.com) that includes your full name, street address and e-mail address and specify that you don't want to continue receiving either postal mail, email or both.
+As a registered America’s Vacation Center member, you will occasionally receive e-mails notifying you of special promotions or other travel news. Special promotional e-mails are intended to inform you of new or unique travel opportunities or special deals that are available on America’s Vacation Center. If you have purchased travel services, you may also receive a trip update e-mail that provides information about your destination, such as weather conditions, current events, or items of interest. by calling our Customer Care department at **1-866-692-8692** or by sending an e-mail to [customercare@americasvacationcenter.com](mailto:customercare@americasvacationcenter.com) that includes your full name, street address and e-mail address and specify that you don't want to continue receiving either postal mail, email or both.
 
 **Contests and sweepstakes**  
 You have the option of sending an e-mail to [ America’s Vacation Center](mailto:customercare@americasvacationcenter.com) requesting a change to the information you provided to us or to receive a copy of the information we have stored during the length of the contest or sweepstakes. We will make every reasonable effort to honor your wishes. Proof of identity is required.
@@ -217,6 +217,6 @@ This Privacy Statement was produced and posted on America’s Vacation Center on
 Contacting America’s Vacation Center  
 We want to make sure you have control over your online travel experience as an America’s Vacation Center customer, from planning and purchasing your travel to protecting your personal information. 
 
-America’s Vacation Center customer service travel agents are ready to help with your America’s Vacation Center travel concerns seven days a week. You may also call **1-800-646-4320** or 1 (760) 233-7635 to speak to a representative personally. Agents will address any questions or concerns you may have about your America’s Vacation Center travel planning or purchases.
+America’s Vacation Center customer service travel agents are ready to help with your America’s Vacation Center travel concerns seven days a week. You may also call **1-866-692-8692** or 1 (760) 233-7635 to speak to a representative personally. Agents will address any questions or concerns you may have about your America’s Vacation Center travel planning or purchases.
 
 In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary. 
