@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easynet.net privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615154447id_/http%3A//easynet.net/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easynet.net privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207150910id_/http%3A//www.easynet.net/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Easynet UK</title>
@@ -40,7 +40,7 @@
 
 // FLASH DETECTION 
 	
-	var requiredVersion = 4;			// version the user needs to view site (max is 7, min is 2)
+	var requiredVersion = 4;			// version the user needs to view site (max is 8, min is 2)
 	
 	var flash2Installed = false;		// boolean. true if flash 2 is installed
 	var flash3Installed = false;		// boolean. true if flash 3 is installed
@@ -48,7 +48,8 @@
 	var flash5Installed = false;		// boolean. true if flash 5 is installed
 	var flash6Installed = false;		// boolean. true if flash 6 is installed
 	var flash7Installed = false;		// boolean. true if flash 7 is installed
-	var maxVersion = 7;					// highest version we can actually detect
+	var flash8Installed = false;		// boolean. true if flash 8 is installed
+	var maxVersion = 8;					// highest version we can actually detect
 	var actualVersion = 0;				// version the user really has
 	var right_version = false;		// boolean. true if it's safe to embed the flash movie in the page
 	
@@ -64,6 +65,7 @@
 		document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
 		document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');	
 		document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');	
+		document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');	
 		document.write('</SCR' + 'IPT> \n'); // break up end tag so it doesn't end our script
 	}
 	
@@ -90,6 +92,7 @@
 				flash5Installed = flashVersion == 5;
 				flash6Installed = flashVersion == 6;
 				flash7Installed = flashVersion == 7;
+				flash8Installed = flashVersion == 8;
 			}
 		}
 		
@@ -121,10 +124,10 @@
 		+'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" '
 		+ 'width="780" height="124" id="banner_main" alt="" '
 		+ ' >'
-		+ '<param name="movie" value="/flash/banner_124_sdsl.swf" /> '
+		+ '<param name="movie" value="/flash/banner_124_etherstream.swf" /> '
 		+ '<param name="quality" value="high" /> '
 		+ '<param name="bgcolor" value="#ffffff" />'
-		+ '<embed src="/flash/banner_124_sdsl.swf" quality="high" width="780" height="156" '
+		+ '<embed src="/flash/banner_124_etherstream.swf" quality="high" width="780" height="124" '
 		+ 'swLiveConnect="true" name=movie type="application/x-shockwave-flash" '
 		+ 'pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" '
 		+ 'width="780" height="124">'
@@ -133,14 +136,13 @@
 		document.write(movie_setup);
 	} else {
 		var non_flash_content=''
-		+'<a href="http://www.easynet.com/llustream/"><img src="/flash/gifs/banner_124_sdsl.gif" width="780" height="124" border="0" alt="LLUStream - Revolutionising Wholesale Broadband" /></a>'
+		+'<a href="http://www.easynet.net/solutions/solutions_solutionspage.asp?id=1396"><img src="/flash/gifs/banner_124_etherstream.gif" width="780" height="124" border="0" alt="MPlus" /></a>'
 		+''
 		
 		document.write(non_flash_content);	// insert non-flash content
 	}
 	//
-</script><a href="http://www.easynet.com/llustream/"><img src="/flash/gifs/banner_124_sdsl.gif" width="780" height="124" border="0" alt="LLUStream - Revolutionising Wholesale Broadband"></a>
-<!-- MAIN NAV--><table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#942552">
+</script><a href="http://www.easynet.net/solutions/solutions_solutionspage.asp?id=1396"><img src="/flash/gifs/banner_124_etherstream.gif" width="780" height="124" border="0" alt="MPlus"></a><!-- MAIN NAV--><table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#942552">
 	<tbody><tr class="plum">
 	    <td width="156" valign="top"><a href="/broadband/"><img src="/gr_main_nav/main_1.gif" width="156" height="20" border="0" alt="Easynet Business Broadband" name="main_1" onmouseover="changeImages('main_1', '/gr_main_nav/main_1_over.gif'); return true;" onmouseout="changeImages('main_1', '/gr_main_nav/main_1.gif'); return true;"></a></td>
 
