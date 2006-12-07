@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdbank.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191137id_/http%3A//www.td.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdbank.ca privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207193249id_/http%3A//www.td.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # TD Bank Financial Group - TD Privacy Code
 
@@ -10,7 +10,7 @@ Privacy Code Table of Contents
 
 
 The TD Bank Financial Group Commitment to Privacy  
-Our privacy policy  
+Our Privacy Policy  
 Why we ask for your information  
 How we obtain your consent  
 Why we share your information  
@@ -21,7 +21,7 @@ Your right to access your information
 Keeping your information accurate  
 Respecting your preference  
 Addressing your concerns   
-Our online privacy policy  
+Our online Privacy Policy  
 Who can answer your questions about privacy
 
 The TD Bank Financial Group commitment to privacy
@@ -30,11 +30,11 @@ Protecting your privacy and the confidentiality of your personal information has
 
 We strive to provide you with the best customer service. To us, that includes treating you fairly and with respect. 
 
-This Privacy Code² informs you of our policy on privacy, and tells you about the ways we help ensure that your privacy and the confidentiality of your information are protected. 
+The TD Privacy Code² informs you of our policy on privacy, and tells you about the ways we help ensure that your privacy and the confidentiality of your information are protected. 
 
-Our privacy policy
+Our Privacy Policy
 
-Our privacy policy informs you of the policies and practices we have in place relating to the management of personal information at TD Bank Financial Group. This policy applies to personal customers, including individuals carrying on business alone or in partnership with other individuals. It consists of five key principles: 
+Our Privacy Policy informs you of the policies and practices we have in place relating to the management of personal information at TD Bank Financial Group. This policy applies to personal customers, including individuals carrying on business alone or in partnership with other individuals. It consists of five key principles: 
 
 1\. Collecting and using information
 
@@ -46,7 +46,7 @@ Call Taping
 
 We may monitor and/or record your telephone discussions with our representatives for our mutual protection, to enhance customer service, and to confirm our discussions with you. 
 
-Customers who prefer not to have their calls taped can transact business at a branch location, through EasyWeb, or through automated banking machines. 
+Customers who prefer not to have their calls taped can transact business at a branch location, through EasyWebTM Internet banking, or through automated banking machines. 
 
 2\. Releasing information
 
@@ -69,9 +69,9 @@ We will give you access to the information we retain about you. We will make eve
 
 5\. Respecting and responding to your privacy concerns
 
-In this Privacy Code, we will explain your options for refusing or withdrawing consent to the collection, use and release of your information, and we will record and respect your choices. We will investigate and respond to your concerns about any aspect of our handling of your information. 
+In the TD Privacy Code, we will explain your options for refusing or withdrawing consent to the collection, use and release of your information, and we will record and respect your choices. We will investigate and respond to your concerns about any aspect of our handling of your information. 
 
-In this Privacy Code, we will explain how we fulfill each of these important principles.
+In the TD Privacy Code, we will explain how we fulfill each of these important principles.
 
 Why we ask for your information
 
@@ -79,7 +79,7 @@ _We ask you for information to establish and serve you as our customer._
 
 We obtain most of our information about you directly from you. The information we ask for depends on which product or service you want. For every product or service, we need your name, address, birthdate, occupation and some identification. Here is why we need some of the other information we ask you to provide. 
 
-• Birth date
+• Birthdate
 
 This helps us identify you and ensure that no one is trying to impersonate you. We may also use it to determine your eligibility for products and services that may be of benefit to a particular age group. 
 
@@ -89,7 +89,7 @@ Your SIN is required for products which earn investment income, in order to comp
 
 • Financial information
 
-This is used to assess your eligibility for any credit product, for example, a TD _Visa_ card, line of credit or other loan. We also use it to ensure that the advice we give you or the investments you purchase (in the case of mutual funds or brokerage or investment accounts) are appropriate for you. We may collect information from you and service providers with whom you make arrangements to provide those services (for example when you set up bill payments through your account). We will use your financial information, including transaction records that reflect your business dealings with and through us, to help us serve you as a customer and meet your financial needs. 
+This is used to assess your eligibility for any credit product, for example, a TD _Visa_ * card, line of credit or other loan. We also use it to ensure that the advice we give you or the investments you purchase (in the case of mutual funds or brokerage or investment accounts) are appropriate for you. We may collect information from you and service providers with whom you make arrangements to provide those services (for example when you set up bill payments through your account). We will use your financial information, including transaction records that reflect your business dealings with and through us, to help us serve you as a customer and meet your financial needs. 
 
 • Health information
 
@@ -141,7 +141,7 @@ On an ongoing basis, we will disclose your credit history with us to other lende
 
 • For servicing purposes
 
-We give a limited amount of information, only as necessary, without your consent, to our suppliers and agents; for example, cheque printers and bank card manufacturers who provide goods and services to you through us. These suppliers and agents may be located in other jurisdictions or countries and may disclose information in response to valid demands or requests from governments, regulators, courts and law enforcement authorities in those jurisdictions or countries. 
+We give a limited amount of information, only as necessary, without your consent, to our suppliers and agents; for example, cheque printers and bank card manufacturers who provide goods and services to you through us. These suppliers and agents may be located in Canada or other jurisdictions or countries, and may disclose information in response to valid demands or requests from governments, regulators, courts and law enforcement authorities in those jurisdictions or countries. 
 
 • When required or permitted to do so by law or applicable regulators and self-regulatory organizations 
 
@@ -157,7 +157,7 @@ _We will protect your information with appropriate safeguards and security measu
 
 We have thorough security standards to protect our systems and your information against unauthorized access and use. 
 
-For example, our systems have been designed to ensure that your Personal Identification Number (PIN), password and other access codes are always private and confidential. When you use your PIN at an automated banking machine, it is scrambled after you enter it. For your protection, your access codes are known only to you - our employees cannot gain access to them and they will not ask you to reveal them. 
+For example, our systems have been designed to ensure that your Personal Identification Number (PIN), password and other access codes are always private and confidential. For your protection, your access codes are known only to you - our employees cannot gain access to them and they will not ask you to reveal them. 
 
 All our suppliers and agents, as part of their contracts with TD Bank Financial Group, are bound to maintain your confidentiality and may not use the information for any unauthorized purpose. 
 
@@ -271,20 +271,20 @@ _You may also contact The Office of the Privacy Commissioner of Canada at Place 
   
 
 
-Our online privacy policy
+Our online Privacy Policy
 
 Visiting our information sites  
 Using our Internet transaction services  
 Cookies  
 Email comments, questions or responses  
-Responding to games, contests or surveys   
+Responding to games, contest or surveys   
 
 
 Protecting your privacy and the confidentiality of your personal information has always been fundamental to the way we do business with you within TD Bank Financial Group, whether over the Internet, on the telephone or at our branches and offices. 
 
-We developed our Privacy Code brochure to inform you of our policy on privacy and tell you about the ways we ensure that your privacy and the confidentiality of your information are protected. 
+We developed the TD Privacy Code brochure to inform you of our policy on privacy and tell you about the ways we ensure that your privacy and the confidentiality of your information are protected. 
 
-Many of you have questions about how we are handling the information we obtain from you when you visit our websites. This online privacy policy will answer your questions about the information we collect when you visit a TD Bank Financial Group website, and how we use it. 
+Many of you have questions about how we are handling the information we obtain from you when you visit our websites. This online Privacy Policy will answer your questions about the information we collect when you visit a TD Bank Financial Group website, and how we use it. 
 
 Visiting our information sites
 
@@ -314,9 +314,17 @@ The information stored in "persistent cookies" is written onto your hard drive a
 
 EasyWeb Internet banking also employs two additional "persistent" cookies, designed to deliver a more comfortable online banking experience to you. The first is placed on your computer's hard drive to remember your language preference and ensure you are always presented with EasyWeb Internet banking in the appropriate language. The second is employed to ensure that any online targeted offer which you have already responded to is not presented again each time you login to EasyWeb Internet banking. 
 
+We use information about your computer, such as IP Address and Browser type, to administer EasyWeb IdentificationPlus. The primary method of collecting this information is through a persistent cookie which is added to your computer. The information is collected to assist us in authenticating you and your computer. 
+
 All persistent cookies used by EasyWeb Internet banking are encrypted for additional security. 
 
 Currently, most browsers do not distinguish between session cookies and persistent cookies. For web services to operate, your browser must be set to accept cookies. If you are concerned about having your browser enabled to accept cookies while you are surfing other websites, we recommend that you enable your browser to notify you when it is receiving a cookie. This gives you the ability of accepting or rejecting any cookie presented by the web server you are visiting. 
+
+Flash - Local Shared Object 
+
+Local shared objects, sometimes referred to as "Flash cookies," are data files that a website creates when you visit the site. Shared objects are most often used to enhance your web-browsing experience. A local shared object is like a browser cookie, except that it can also store data more complex than simple text. Shared objects, by themselves, can't do anything to or with the data on your computer. More importantly, shared objects cannot access or remember your e-mail address or other personal information unless you willingly provide such information. 
+
+As a back-up for EasyWeb IdentificationPlus, we use Flash to store information such as IP Address and Browser type. The information is collected to assist us in authenticating you and your computer. For more information about Flash, please visit [www.adobe.com](http://www.adobe.com/)
 
 Email comments, questions or responses
 
@@ -332,11 +340,11 @@ If you have asked us to put you on an email mailing list to provide you with cer
 
 **We will never send email messages to customers requesting confidential information such as passwords or account numbers. Please do not act on any such emails as you may compromise your banking information by following links to a counterfeit Internet site(s).**
 
-Responding to games, contests or surveys
+Responding to games, contest or surveys
 
-When you submit your answers to a game or contest or submit your response to a survey question, we learn your answer or any opinions or information that you volunteer. 
+When you submit your response to a survey question or enter one of our contests, we learn your answer or any opinions or information that you volunteer. 
 
-We will use your submission for the purpose of awarding a prize in a contest. We use your submission to come up with the game or survey results, and we may publish those results in aggregate on our websites. We may use your response to improve our website or other products or services of TD Bank Financial Group. Based on your response, we may forward information about our offers on products and services that we believe may be of interest to you. 
+We will use your personal information for the purpose of awarding a prize in a contest. We may use your submission to come up with the survey results, and we may publish those results in aggregate on our websites. We may also use your response to improve products or services of TD Bank Financial Group. Based on your response, we may forward information about our offers on products and services that we believe may be of interest to you. 
 
   
 
