@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eflorist.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406024908id_/http%3A//www.findaflorist.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eflorist.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207124204id_/http%3A//www.findaflorist.com/privacy.aspx) for the most accurate reproduction.*
 
-# teleflora's - find a florist
+# Privacy Policy for Find A Florist powered by Teleflora
 
-**Privacy**
+**Privacy Policy for Find A Florist**
 
 * * *
 
@@ -44,3 +44,10 @@ PRIVACY POLICY FOR MINORS** We do not knowingly collect information from minors.
 
 **  
 CHANGES TO THESE TERMS** The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of the Site following the posting of changes to these terms will mean you accept those changes. 
+
+**  
+QUESTIONS** Teleflora's findaflorist.com  
+11444 West Olympic Boulevard, 4th floor  
+Los Angeles, California 90064  
+Attention: General Counsel  
+Copyright © 2006 Teleflora, LLC. All rights reserved.
