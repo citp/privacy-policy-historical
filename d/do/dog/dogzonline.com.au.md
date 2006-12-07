@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Dogz Online
 
     
- [* Home Page](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/home.asp)  
- [* Breed Pages](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/breeds/list.asp)  
- [* Forums](http://www.dolforums.com.au/)  
- [* Rescue Dogs](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/breeds/rescue.asp)  
- [* Classifieds](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/classifieds/default.asp)   
- [* Market Place](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/links/products/default.htm)  
- [* Accommodation](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/accommodation/default.asp)  
- [* Info Links](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/links/default.htm)  
- [* Members Sign In](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/members/home.asp)    
- [* About Us](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/about_us.htm)  
- [* Site Advertising](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/advertising.htm)   
- [* Contact Us](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/contact.htm)
+ [* Home Page](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/home.asp)  
+ [* Breed Pages](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/breeds/list.asp)  
+ [* Forums](http://forums.dogzonline.com.au/)  
+ [* Rescue Dogs](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/breeds/rescue.asp)  
+ [* Classifieds](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/classifieds/default.asp)   
+ [* Market Place](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/links/products/default.htm)  
+ [* Accommodation](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/accommodation/default.asp)  
+ [* Info Links](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/links/default.htm)  
+ [* Members Sign In](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/members/home.asp)    
+ [* About Us](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/about_us.htm)  
+ [* Site Advertising](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/advertising.htm)   
+ [* Contact Us](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/contact.htm)
 
 |  |    
 
 
-**Navigation** >> [Home](https://web.archive.org/web/20060615202247id_/http%3A//www.dogzonline.com.au/home.asp) >> Privacy Statement
+**Navigation** >> [Home](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/home.asp) >> Privacy Statement
 
 With regards to your privacy, we have 3 commitments.
 
