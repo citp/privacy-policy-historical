@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesdaily.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617015904id_/http%3A//www.davesdaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesdaily.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207112004id_/http%3A//www.davesdaily.com/privacy.htm) for the most accurate reproduction.*
 
 # Dave's Daily - Privacy Policy
 
@@ -14,4 +14,14 @@ DavesDaily.com may use your personally identifiable information to provide you w
 
 Personally identifiable information also may be disclosed to the proper authorities in special situations where DavesDaily.com has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with DavesDaily.com's rights, property, users, or anyone else who may be harmed by such activities. DavesDaily.com may reveal personally identifiable information when we have been informed by law enforcement authorities or have established a good faith belief that the law requires DavesDaily.com to do so.
 
-We reserve the right to change our privacy policy at any time by posting revisions on the DavesDaily.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
+We reserve the right to change our privacy policy at any time by posting revisions on the DavesDaily.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.  
+  
+[uGoto](http://www.ugoto.com/) \- Crazy & funny videos! | [iFashionTV](http://www.ifashiontv.com/) \- Catwalk modeling and hot girls!  
+---|---  
+[YourFileHost](http://www.yourfilehost.com/) \- Free hosting for your files. | [Bigoo](http://www.bigoo.ws/) \- Cool images for blogs & MySpace.  
+[Image High](http://imagehigh.com/) \- Free image hosting for you. | [LemonZoo](http://www.lemonzoo.com/) \- Sexy & funny vids, pics & games.  
+[CoShed](http://www.coshed.com/) \- Myspace designs and resources | [BlinkYou](http://www.blinkyou.com/) \- Pimp your MySpace.  
+[Gkko](http://www.gkko.com/) \- Hilarious videos, photos & games. | [Flurl](http://www.flurl.com/) \- Search for cool and sexy videos.  
+[WallPaperBase](http://www.wallpaperbase.com/) \- Free desktop wallpaper | [MySpacePimper](http://www.myspacepimper.com/) \- Pimp your MySpace page  
+[SmartVideoChannel](http://www.smartvideochannel.com/) \- Create a video site! | [TikiBarTV](http://www.tikibartv.com/) \- Hilarious Spoofs for the wasted.  
+[LetsDump](http://www.letsdump.com/) \- Daily video dump |  
