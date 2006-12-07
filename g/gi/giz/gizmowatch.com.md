@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmowatch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045125id_/http%3A//gizmowatch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmowatch.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207230040id_/http%3A//www.gizmowatch.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Gizmowatch - Get Fresh with Gizmos
+# Privacy Policy - Gizmowatch - Gizmowatch enriches you with latest news, insights and updates on gadgets, gizmos, computers, laptops, cell phones, mobiles, PDAs, PMPs, MP3 players, HDTVs, LCD TVs, Music systems, digital cameras, blu-ray, hd-dvd, weapons, GPS, DIY, robots, hardware...
 
 This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.
 
