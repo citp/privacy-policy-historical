@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626190212id_/http%3A//apeainthepod.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207114227id_/http%3A//www.apeainthepod.com/Privacy.asp) for the most accurate reproduction.*
 
-# A Pea in the Pod - Maternity Clothing and Accessories Redefined!
+# A Pea in the Pod is the nation's leading luxury maternity brand for the affluent client. A Pea in the Pod is maternity redefined!
 
 |   | 
-
-  
-**Your Privacy  
-**  
 
 At APeaInThePod.com, we are committed to providing our customers with high quality maternity and nursing wear products. So that our customers can feel as confident and secure about shopping on line as they do with our products generally, we have developed the following policy to explain our dedication to the customer's privacy and to ensure that customers have easy access to information about our data collection and dissemination practices. 
 
@@ -22,9 +18,9 @@ Do We Employ **Cookies?** **Cookies** are small files stored on your computer ha
 
 **What Information We May Share With Others**
 
-Occasionally, we are approached by other companies or organizations that have a product or service we believe might be of interest to you. We may share the personal contact information and child's due date/birth date you volunteer to us with these companies. Should you prefer, however, that we refrain from sharing this information with such third parties, you may **opt-out** by simply notifying us by e-mail, telephone or postal address that you do not want your personal information shared. E-mail should be directed to information@APeaInThePod.com or you may reach us by phone at 1.877.APEAPOD (877.273.2763). Additionally, our postal address is: Mothers Work, Inc., 456 North Fifth Street, Philadelphia, Pennsylvania 19123. 
+Occasionally, we are approached by other companies or organizations that have a product or service we believe might be of interest to you. We may share the personal contact information and child's due date/birth date you volunteer to us with these companies. Should you prefer, however, that we refrain from sharing this information with such third parties, you may **opt-out** by simply notifying us by e-mail, telephone or postal address that you do not want your personal information shared. Please Click Here to reach us by E-mail or you may reach us by phone at 1.877.APEAPOD (877.273.2763). Additionally, our postal address is: Mothers Work, Inc., 456 North Fifth Street, Philadelphia, Pennsylvania 19123. 
 
 Our Mailing List: Removing or Making Corrections to Your Personal Information By contacting us through any of the above-listed means, you may also choose to remove your name from our own customer list, which we use to send customers catalogs, notices of upcoming promotions and other hard-copy and e-mail information. So long as you choose to remain on our mailing list, however, we provide you with the ability to update, correct or change your personal information by contacting us at the telephone number, e-mail and postal addresses listed above. **For questions** **  
-** For questions concerning our shipping procedures please email us at [information@APeaInThePod](mailto:information@information@APeaInThePod) or call us at 1.877.APEAPOD, Monday - Friday 8am - 8pm Est.  
+** For questions concerning our shipping procedures please Click Here to email or call us at 1.877.APEAPOD, Monday - Friday 8am - 8pm Est.  
   
 ---|---
