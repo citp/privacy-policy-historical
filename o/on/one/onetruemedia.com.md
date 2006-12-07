@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428125459id_/http%3A//www.onetruemedia.com/otmpublic/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207103123id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy :: One True Media
+# Video Montages
 
-Last updated November 22, 2005
+[](http://www.truste.org/ivalidate.php?url=www.onetruemedia.com&sealid=101)  
+_Last updated November 22, 2005_
 
-Our commitment to privacy 
+### Our commitment to privacy
 
 Your privacy is important to us. To protect your privacy we provide this statement to explain our information practices and to define your options for how your information is collected and used. 
 
@@ -14,7 +15,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 By using the One True Media service, you agree to the collection and use of information in the manner described below. If we make material changes to this policy, we will notify you here, by email, by means of a notice the next time you log in to our site, or by means of a notice on our homepage. To make our privacy policy easy to find, we have placed it on our homepage and at the bottom of each web page.
 
-The information we collect 
+### The information we collect 
 
 This policy applies to all information collected on the One True Media website, via email, and by phone.
 
@@ -49,7 +50,7 @@ In addition to the personal information you supply, we automatically collect non
 
 We collect non-personal data to make our service work better for you in the following ways: to improve the design of our website, to provide personalization on our website, and to evaluate the performance of our marketing programs. The technologies we use to gather this non-personal information include IP addresses, cookies, clear gifs, browser detection, and weblogs. We define how these technologies are used under “How we use information” below.
 
-How we use information 
+### How we use information 
 
 Our primary goal in collecting your customer information is to provide you with a personalized, relevant, and positive experience with One True Media. We use the personal information you provide about yourself when placing an order to complete your order only. One True Media will not sell, rent, or lease your personal information to others, except to the extent necessary to fulfill your order.
 
@@ -75,34 +76,34 @@ We detect the type of web browser you are using to optimize the performance of o
 
 Finally, we do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above, without also providing you an opportunity to opt-out.
 
-Our commitment to data security 
+### Our commitment to data security 
 
 Access to your data is limited to authorized One True Media staff and restricted by password protection mechanisms. We process all orders on a secure server that encrypts all financial information through Secure Sockets Layer (SSL). You’ll know this security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window.
 
 We will not store your credit card information in our database unless you instruct us to or join as a member. Credit card numbers are used for processing payments only and for no other purposes. As part of real-time payment processing, our online transaction partner uses fraud management techniques. This service gives you and One True Media an extra level of security to guard against credit card fraud.
 
-Our commitment to children's privacy 
+### Our commitment to children's privacy 
 
 Protecting the privacy of the very young is especially important. For that reason, we have structured no part of our website or marketing programs to attract anyone under 13.
 
-Your privacy preferences and opting out
+### Your privacy preferences and opting out
 
 When you sign up for an account with One True Media, you may begin receiving marketing communications such as e-mail newsletters, product and service updates, promotions, and contests. Our customers generally find this type of information useful. If you do not want to receive these updates, you must opt-out by unchecking the “Add me to the mailing list” box on the registration page, or should you choose to opt-out after registering, you can use any of the following three methods:
 
-  * Select the “unsubscribe” link at the bottom of the email and follow the opt-out instructions
-  * Go to your member page, select Manage Account, then select Change Email Preferences and de-select the appropriate box
-  * Send email to unsubscribe@onetruemedia.com from the email account that receives the unwanted messages
+  * Select the “unsubscribe” link at the bottom of the email and follow the opt-out instructions 
+  * Go to your member page, select Manage Account, then select Change Email Preferences and de-select the appropriate box 
+  * Send email to unsubscribe@onetruemedia.com from the email account that receives the unwanted messages 
 
 
 
-How to access or correct your information 
+### How to access or correct your information 
 
 You can access and maintain your personally identifiable information on your Account Information page. To protect your privacy and security, we require a Member ID and password to verify your identity before granting access or making corrections.
 
-Legal disclaimer 
+### Legal disclaimer 
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-How to contact us 
+### How to contact us 
 
-We value your opinion about out privacy policy. Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [customercare@onetruemedia.com](mailto:customercare@onetruemedia.com), or mail One True Media, Inc., 1755 E. Bayshore Rd., Studio 7B, Redwood City, CA 94063.
+We value your opinion about out privacy policy. Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [customercare@onetruemedia.com](mailto:customercare@onetruemedia.com), or mail One True Media, Inc., 955-A Charter St., Redwood City, CA 94063.
