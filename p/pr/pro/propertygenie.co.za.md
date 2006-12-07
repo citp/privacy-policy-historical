@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertygenie.co.za privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213140403id_/http%3A//www.propertygenie.co.za/security.privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertygenie.co.za privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207055658id_/http%3A//www.propertygenie.co.za/security.privacy.do) for the most accurate reproduction.*
 
 # PropertyGenie - Residential property for sale in South Africa - comprehensive directory for purchasing, financing and selling a house in South Africa
 
@@ -12,4 +12,4 @@ PropertyGenie website may contain links to or from other sites. While PropertyGe
 
 PropertyGenie will not collect any information from you that is not related to the data functions contemplated by this Website and/or as otherwise contemplated by this Privacy and Security Statement. Information that has become obsolete will be destroyed from time to time. 
 
-PropertyGenie reserve the right to amend this privacy and security statement at any time. All amendments to this privacy and security statement will be posted on the website. Unless otherwise stated, the current version shall supersede and replace all previous versions of this privacy and security statement. If you have any questions about this privacy and security statement please contact us on 021 481 7372.
+PropertyGenie reserve the right to amend this privacy and security statement at any time. All amendments to this privacy and security statement will be posted on the website. Unless otherwise stated, the current version shall supersede and replace all previous versions of this privacy and security statement. If you have any questions about this privacy and security statement please contact us on 021 481 4811.
