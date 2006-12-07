@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628062955id_/http%3A//best-price.com/procFoot%2CshowDatenschutz%2C%2C0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207010718id_/http%3A//best-price.com/procFoot%2CshowDatenschutz%2C%2C0.html) for the most accurate reproduction.*
 
 # Price Comparison and Test on www.Best-Price.com
 
