@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the siue.edu privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502110809id_/http%3A//www.siue.edu/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siue.edu privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207193851id_/http%3A//www.siue.edu/misc/privacy.shtml) for the most accurate reproduction.*
 
-# 
-
-## SIUE Web Privacy Policy
+# SIUE Web Privacy Policy
 
   
 It is the policy of Southern Illinois University Edwardsville to respect the privacy of all Web site visitors to the extent permitted by law. SIUE is committed to fully complying with the State Agency Web Site Act (Public Act 093-117) which became effective January 1, 2004. This act restricts the use of "cookies" (small pieces of data stored by a Web browser on a user's computer). Transactional (non-permanent) cookies may be used to facilitate business transactions. Permanent cookies may not be used unless:
