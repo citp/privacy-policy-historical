@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195010id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207121747id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
 
 # John Deere - Privacy and Legal
 
@@ -17,7 +17,7 @@ As required by applicable law:
 
 
 
-**How to Contact Us**
+**How to Contact the Privacy Office**
 
   * E-mail us at [PrivacyManager@JohnDeere.com](mailto:PrivacyManager@JohnDeere.com)
   * Write us at:  
