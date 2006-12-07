@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621200756id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207214755id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
 
 # Paid online surveys for money and free online paid opinion surveys - American Consumer Opinion
 
@@ -123,8 +123,6 @@ We consider the protection of all personally identifiable information we receive
   * Our site is registered with the VeriSign Secure Site Program. VeriSign is an independent third-party agency that authenticates, issues, and manages digital IDs on the Internet. Please click on the image below for more information about our site security.
 
 
-
-[](https://digitalid.verisign.com/as2/6fa5982f8774f365cf94358e193cb373)
 
 Back to top
 
