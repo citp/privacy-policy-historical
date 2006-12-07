@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the fox43.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403132214id_/http%3A//fox43.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox43.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207225656id_/http%3A//fox43.trb.com/go/services/privacy) for the most accurate reproduction.*
 
-# WPMT FOX43 | Services
+# WPMT FOX43 | Privacy Policy
 
- 
+Privacy Policy
 
-**Privacy Policy  
-Last Updated: July, 2003 **
+Last Updated: July, 2006
 
 WPMT.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by WPMT.com online and does not impact information collected or used by WPMT.com or its affiliates through other means. 
 
@@ -35,6 +34,8 @@ WPMT.com expects its partners, advertisers and third-party affiliates to respect
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. WPMT.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of WPMT.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on WPMT.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on WPMT.com. WPMT.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. WPMT.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WPMT.com and this policy.
 
 **Children.**
@@ -63,4 +64,5 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.  
 
 
-Copyright © 2005, [WPMT-TV, Harrisburg](http://www.fox43.com/)
+  
+
