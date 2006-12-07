@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lnt.com privacy policy that was archived on 2006-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425035047id_/http%3A//www.lnt.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav3_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lnt.com privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207022701id_/http%3A//www.lnt.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav3_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -81,7 +81,17 @@ function jump(url)
 	</head>
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0" border="0">
 <a name="pageTop()"><!-- --></a>
-	<script language="JavaScript" type="text/javascript" src="http://LNT.imageg.net/include/dhtml_menus.js"></script>
+	
+<!-- PMO 49456 Implementation of minicart-->
+
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="http://LNT.imageg.net/include/dhtml_menus.js"></script>
+<script language="javascript">
+	var miniCartTimeOut=10000;
+</script>
 <style type="text/css">
 .transMenu {
 	position:absolute;
@@ -155,6 +165,8 @@ function jump(url)
 
 </style>
 <script language="javascript">
+
+
 if (document.images) {
 
        image0on = new Image();
@@ -255,6 +267,7 @@ function emailFocus() {
 }
 
 </script>
+<!-- PMO 49456 Implementation of minicart-->
 <style>
 	
 #wrapper {
@@ -269,16 +282,6 @@ function emailFocus() {
 	text-align:left;
 	}
 
-#header {
-	position: absolute;
-	z-index: 100;
-	width:775px;
-	height:85px;
-	top: 0px;
-	left: 0px;
-	text-align:center;
-	}
-
 #emailSlider {
 	position: absolute;
 	left: 11px;
@@ -288,12 +291,45 @@ function emailFocus() {
 	text-align:center;
 	border: #AEB0B0 solid 0px;
 	}
+
+#headOAS111 {
+	position:relative;
+	width:100%;
+	margin:1px auto;
+	text-align:center;
+	}
+#headOAS {
+	position:relative;
+	width:100%;
+	margin:0 auto;
+	padding-left:3px;
+	padding-top:0px;
+	height:24px;
+	text-align:center;
+	}
+	
 </style>
+
+
+<style>
+	#header {
+	position: absolute;
+	z-index: 100;
+	width:775px;
+	height:85px;
+	top: 0px;
+	left: 0px;
+	text-align:center;
+	}
+</style>
+
+
 
 
 <div id="wrapper">
 <div id="frame">
 <div id="header">
+
 <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center">
 <tbody><tr>
 	<td align="right" colspan="2" height="25" valign="bottom">
@@ -352,7 +388,8 @@ function emailFocus() {
 				</tr>
 				</tbody></table></td>
 			<td nowrap="" valign="top" align="center">
-				<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><b>Cart (0 items)</b></a><img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="10" height="1"></td>
+				<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><b>Cart <!-- PMO 49456 Implementation of minicart-->
+						<span id="cartItemCount">(0 items)</span></b></a><img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="10" height="1"></td>
 		</tr>
 		<tr>
 			<td colspan="11" bgcolor="#ffffff">
@@ -368,36 +405,39 @@ function emailFocus() {
 	<td width="780" valign="top">
 		<table cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>
-			<td>
-				<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="7" border="0"></td>
-			<td>
-				<img src="http://LNT.imageg.net/images/pixel.gif" height="10" width="1" border="0"><br>
-				<a href="/home/index.jsp"><img src="http://LNT.imageg.net/images/header_lnt_logo.gif" border="0" width="222" height="46"></a></td>
+			<td valign="top">
+				
+					<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="7" border="0">
+				
+				</td>
+			<td valign="top">
+				<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="1" border="0"><br>
+				<a href="/home/index.jsp"><img id="LNTHeaderLogo" src="http://LNT.imageg.net/images/header_lnt_logo.gif" border="0" width="222" height="46"></a></td>
 			<td valign="top">
 				<table cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
 					
-					<td width="12" align="center">
-						<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="12" border="0"></td>
+					<td width="40" align="center">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="20" border="0"></td>
 					
-					<td width="100">
-						<a href="/shop/index.jsp?categoryId=2061149"><img src="http://LNT.imageg.net/images/lnt_nav_nateBerkus.gif" height="15" width="89" border="0"></a></td>
+					<td valign="top" width="98">
+						<a href="/shop/index.jsp?categoryId=2061149&amp;clickid=topnav_NB"><img src="http://LNT.imageg.net/images/LNT_51606_header_1_nate.gif" border="0"></a></td>
+					<td bgcolor="#B1B1B1" valign="top">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
+					<td width="135" align="center">
+						<a href="/shop/index.jsp?categoryId=2423135&amp;clickid=topnav_EB"><img src="http://LNT.imageg.net/images/LNT_51606_header_2_bauer.gif" border="0"></a></td>
 					<td bgcolor="#B1B1B1">
 						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
-					<td width="130" align="center">
-						<a href="/shop/index.jsp?categoryId=1378799"><img src="http://LNT.imageg.net/images/lnt_nav_dd.gif" height="15" width="108" border="0"></a></td>
+					<td width="87" align="center">
+						<a href="/product/holiday06.jsp?clickid=topnav_holiday"><img src="http://LNT.imageg.net/images/LNT_51606_header_3_holiday.gif" height="30" width="115" border="0"></a></td>
 					<td bgcolor="#B1B1B1">
 						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
-					<td width="95" align="center">
-						<a href="/category/index.jsp?categoryId=2166305"><img src="http://LNT.imageg.net/images/lnt_nav_wn.gif" height="15" width="76" border="0"></a></td>
+					<td width="90" align="center">
+						<a href="/category/index.jsp?categoryId=2166305&amp;clickid=topnav_WhatsNew"><img src="http://LNT.imageg.net/images/LNT_51606_header_4_new.gif" border="0"></a></td>
 					<td bgcolor="#B1B1B1">
 						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
-					<td width="109" align="center">
-						<a href="/shop/index.jsp?categoryId=1347495"><img src="http://LNT.imageg.net/images/lnt_nav_specialOffers.gif" height="15" width="89" border="0"></a></td>
-					<td bgcolor="#B1B1B1">
-						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
-					<td width="77" align="right">
-						<a href="/category/index.jsp?categoryId=1450422"><img src="http://LNT.imageg.net/images/lnt_nav_clearance.gif" height="15" width="65" border="0"></a></td>
+					<td width="74" align="right">
+						<a href="/category/index.jsp?categoryId=1450422&amp;cp=1450422&amp;clickid=topnav_clearance"><img src="http://LNT.imageg.net/images/LNT_51606_header_5_clearance.gif" border="0"></a></td>
 				</tr>
 				</tbody></table></td>
 		</tr>
@@ -426,8 +466,10 @@ function emailFocus() {
 			<td>
 				<img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="320" height="1"></td>
 			<td>
-				<form name="search" action="/searchHandler/index.jsp" method="get" style="margin:0 0 0 0;">
-				<input name="keywords" class="searchBoxCopy" style="width:148px;" value="keyword or LNT.com #" onfocus="this.value=''"><img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="7" height="1"><input type="image" src="http://LNT.imageg.net/images/header_gobutton.gif" width="68" height="21" border="0" align="absmiddle" cache="">
+				<!--form name="search" action="/searchHandler/index.jsp" method="get" style="margin:0 0 0 0;" -->
+				<form name="search" action="/search/controller.jsp" method="get" style="margin:0 0 0 0;"> <!-- Reverted this change in form action for PS 36433 -->
+				<!-- Also changed the input field name below from "kw" to "keywords" for PS 36433 -->
+				<input name="kw" class="searchBoxCopy" style="width:148px;" value="keyword or LNT.com #" onfocus="this.value=''"><img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="7" height="1"><input type="image" src="http://LNT.imageg.net/images/header_gobutton.gif" width="68" height="21" border="0" align="absmiddle" cache="">
 				</form></td>
 		</tr>
 		</tbody></table></td>
@@ -435,10 +477,15 @@ function emailFocus() {
 		<img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="3" height="1"></td>
 </tr>
 </tbody></table>
+
+<!-- PMO 49456 Implementation of minicart-->
+<!-- Start of Minicart -->	
+
+<!-- End of Minicart -->
 </div> <!-- end header div -->
-<div style="visibility:hidden;" id="emailSlider" height="149" width="216">
+<div style="visibility:hidden;" id="emailSlider" height="308" width="216">
 <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><a href="javascript:toggleVisibility('emailSlider','hidden','hidden','hidden');"><img src="http://LNT.imageg.net/images/lnt_email_tab_onState.gif" border="0"></a></td></tr></tbody></table>
-<iframe name="emailDrop" height="149" width="216" frameborder="0" src="../include/entry.jsp" scrolling="No"></iframe><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><img src="http://LNT.imageg.net/images/email_bot.gif" border="0"></td></tr></tbody></table></div>
+<iframe name="emailDrop" height="680" width="216" frameborder="0" src="../include/entry.jsp" scrolling="No"></iframe><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><img src="http://LNT.imageg.net/images/email_bot_3.gif" border="0"></td></tr></tbody></table></div>
 </div> <!-- end frame div -->
 <table cellspacing="0" cellpadding="0" border="0" width="780" align="center" bgcolor="#e9e9e9">
 <tbody><tr>
@@ -460,7 +507,7 @@ function emailFocus() {
 </div><img src="http://LNT.imageg.net/images/pixel.gif" border="0" alt="" width="0" height="0"></td>
 </tr>
 </tbody></table>
-</div>
+</div> <!-- end wrapper div -->
 <script language="javascript">
 if (TransMenu.isSupported()) {
 var ms = new TransMenuSet(TransMenu.direction.down, 1, 1, TransMenu.reference.bottomLeft);
@@ -470,22 +517,25 @@ var menu0 = ms.addMenu(document.getElementById("Bedding"));
 					menu0.addItem("Bed-in-a-Bag", "/family/index.jsp?categoryId=1331628&cp=1331605");
 					menu0.addItem("Bedding Ensembles", "/category/index.jsp?categoryId=1331626&cp=1331605");
 					menu0.addItem("Down Comforters", "/family/index.jsp?categoryId=1896310&cp=1331605");
+					menu0.addItem("Down Alternative Comforters", "/family/index.jsp?categoryId=2098789&cp=1331605");
+					menu0.addItem("Duvet Covers", "/category/index.jsp?categoryId=1331630&cp=1331605");
 					menu0.addItem("Quilts", "/family/index.jsp?categoryId=1331629&cp=1331605");
 					menu0.addItem("Coverlets", "/family/index.jsp?categoryId=2147889&cp=1331605");
-					menu0.addItem("Duvet Covers", "/category/index.jsp?categoryId=1331630&cp=1331605");
 					menu0.addItem("Daybeds/ Bedspreads", "/family/index.jsp?categoryId=1816048&cp=1331605");
 					menu0.addItem("Blankets", "/family/index.jsp?categoryId=1331631&cp=1331605");
+					menu0.addItem("Kids Bedding", "/family/index.jsp?categoryId=1331635&cp=1331605");
+					menu0.addItem("Team Bedding", "/family/index.jsp?categoryId=2553576&cp=1331605");
 					menu0.addItem("Pillows", "/category/index.jsp?categoryId=1331632&cp=1331605");
 					menu0.addItem("Mattresses", "/family/index.jsp?categoryId=1892995&cp=1331605");
 					menu0.addItem("Mattress Pads", "/family/index.jsp?categoryId=1331633&cp=1331605");
 					menu0.addItem("Featherbeds", "/family/index.jsp?categoryId=1331634&cp=1331605");
-					menu0.addItem("Aerobeds", "/family/index.jsp?categoryId=1895921&cp=1331605");
-					menu0.addItem("Kids Bedding", "/family/index.jsp?categoryId=1331635&cp=1331605");
+					menu0.addItem("Therapeutic", "/family/index.jsp?categoryId=2479954&cp=1331605");
 					menu0.addItem("Bedskirts", "/family/index.jsp?categoryId=1331636&cp=1331605");
-					menu0.addItem("Canopies", "/family/index.jsp?categoryId=2098789&cp=1331605");
+					menu0.addItem("Aerobeds", "/family/index.jsp?categoryId=1895921&cp=1331605");
 					var menu1 = ms.addMenu(document.getElementById("Bath"));
 	menu1.addItem("Towels", "/category/index.jsp?categoryId=1331611&cp=1331604");
-					menu1.addItem("Bath Rugs", "/family/index.jsp?categoryId=1331612&cp=1331604");
+					menu1.addItem("Bath Rugs", "/category/index.jsp?categoryId=1331612&cp=1331604");
+					menu1.addItem("Robes/Wraps", "/family/index.jsp?categoryId=2134649&cp=1331604");
 					menu1.addItem("Bath Collections", "/category/index.jsp?categoryId=1331613&cp=1331604");
 					menu1.addItem("Shower Curtains", "/category/index.jsp?categoryId=1331614&cp=1331604");
 					menu1.addItem("Bath Furniture", "/family/index.jsp?categoryId=1770209&cp=1331604");
@@ -495,19 +545,16 @@ var menu0 = ms.addMenu(document.getElementById("Bedding"));
 					menu1.addItem("Personal Care", "/category/index.jsp?categoryId=1331615&cp=1331604");
 					menu1.addItem("Accessories", "/category/index.jsp?categoryId=1331616&cp=1331604");
 					menu1.addItem("Kids Bath", "/family/index.jsp?categoryId=1331617&cp=1331604");
-					menu1.addItem("Robes/Wraps", "/family/index.jsp?categoryId=2134649&cp=1331604");
 					var menu2 = ms.addMenu(document.getElementById("Dining"));
 	menu2.addItem("Fine China", "/family/index.jsp?categoryId=2017580&cp=1331606");
-					menu2.addItem("Casual China", "/category/index.jsp?categoryId=2170565&cp=1331606");
 					menu2.addItem("Everyday Dinnerware", "/category/index.jsp?categoryId=1331942&cp=1331606");
 					menu2.addItem("Serveware", "/category/index.jsp?categoryId=1386948&cp=1331606");
-					menu2.addItem("Glassware", "/category/index.jsp?categoryId=1331943&cp=1331606");
+					menu2.addItem("Drinkware", "/category/index.jsp?categoryId=1331943&cp=1331606");
 					menu2.addItem("Flatware", "/category/index.jsp?categoryId=1331944&cp=1331606");
 					menu2.addItem("Table Linens", "/category/index.jsp?categoryId=1331945&cp=1331606");
 					menu2.addItem("Barware", "/category/index.jsp?categoryId=1331946&cp=1331606");
 					menu2.addItem("Dining Chair Covers", "/family/index.jsp?categoryId=1386985&cp=1331606");
 					menu2.addItem("Chairpads", "/family/index.jsp?categoryId=1816050&cp=1331606");
-					menu2.addItem("Kids Dinnerware", "/family/index.jsp?categoryId=2171509&cp=1331606");
 					var menu3 = ms.addMenu(document.getElementById("Kitchen"));
 	menu3.addItem("Small Appliances", "/category/index.jsp?categoryId=1331947&cp=1331607");
 					menu3.addItem("Cookware", "/category/index.jsp?categoryId=1331948&cp=1331607");
@@ -515,14 +562,13 @@ var menu0 = ms.addMenu(document.getElementById("Bedding"));
 					menu3.addItem("Bakeware", "/category/index.jsp?categoryId=1331950&cp=1331607");
 					menu3.addItem("Tools/Gadgets", "/category/index.jsp?categoryId=1331951&cp=1331607");
 					menu3.addItem("Barbeque", "/category/index.jsp?categoryId=2208585&cp=1331607");
+					menu3.addItem("Accessories", "/category/index.jsp?categoryId=1903069&cp=1331607");
 					menu3.addItem("Food Storage", "/family/index.jsp?categoryId=1332267&cp=1331607");
 					menu3.addItem("Organization", "/category/index.jsp?categoryId=1331952&cp=1331607");
-					menu3.addItem("Kitchen Textiles", "/family/index.jsp?categoryId=2052308&cp=1331607");
-					menu3.addItem("Accessories", "/category/index.jsp?categoryId=1903069&cp=1331607");
+					menu3.addItem("Kitchen Textiles", "/category/index.jsp?categoryId=2052308&cp=1331607");
 					menu3.addItem("Water Filtration", "/family/index.jsp?categoryId=2141944&cp=1331607");
 					menu3.addItem("Tea Kettles", "/family/index.jsp?categoryId=1331956&cp=1331607");
-					menu3.addItem("Kitchen Rugs", "/family/index.jsp?categoryId=1816005&cp=1331607");
-					menu3.addItem("Gourmet Food", "/family/index.jsp?categoryId=1331957&cp=1331607");
+					menu3.addItem("Gourmet Food", "/category/index.jsp?categoryId=1331957&cp=1331607");
 					var menu4 = ms.addMenu(document.getElementById("Electrics"));
 	menu4.addItem("Electronics", "/category/index.jsp?categoryId=1426156&cp=1331608");
 					menu4.addItem("Kitchen", "/category/index.jsp?categoryId=1331958&cp=1331608");
@@ -536,7 +582,7 @@ var menu0 = ms.addMenu(document.getElementById("Bedding"));
 					menu4.addItem("Irons/Garment Steamers", "/family/index.jsp?categoryId=1331959&cp=1331608");
 					menu4.addItem("Sewing Machines", "/family/index.jsp?categoryId=2001561&cp=1331608");
 					menu4.addItem("Telephones", "/family/index.jsp?categoryId=2146081&cp=1331608");
-					menu4.addItem("Compact Appliances", "/category/index.jsp?categoryId=1998170&cp=1331608");
+					menu4.addItem("Washing Machines", "/family/index.jsp?categoryId=1913996&cp=1331608");
 					var menu5 = ms.addMenu(document.getElementById("Home Decor"));
 	menu5.addItem("Furniture", "/category/index.jsp?categoryId=1331971&cp=1331609");
 					menu5.addItem("Slipcovers", "/family/index.jsp?categoryId=1331970&cp=1331609");
@@ -545,12 +591,13 @@ var menu0 = ms.addMenu(document.getElementById("Bedding"));
 					menu5.addItem("Throws", "/family/index.jsp?categoryId=1331967&cp=1331609");
 					menu5.addItem("Doormats", "/family/index.jsp?categoryId=1331969&cp=1331609");
 					menu5.addItem("Lighting", "/category/index.jsp?categoryId=1331972&cp=1331609");
-					menu5.addItem("Wall Décor", "/category/index.jsp?categoryId=1331973&cp=1331609");
+					menu5.addItem("Wall Decor", "/category/index.jsp?categoryId=1331973&cp=1331609");
 					menu5.addItem("Candles", "/category/index.jsp?categoryId=1331974&cp=1331609");
 					menu5.addItem("Candle Accessories", "/category/index.jsp?categoryId=1973543&cp=1331609");
 					menu5.addItem("Home Fragrance", "/family/index.jsp?categoryId=2049819&cp=1331609");
 					menu5.addItem("Picture Frames", "/category/index.jsp?categoryId=1331975&cp=1331609");
 					menu5.addItem("Decorative Accents", "/category/index.jsp?categoryId=1331976&cp=1331609");
+					menu5.addItem("Holiday Decor", "/category/index.jsp?categoryId=2447726&cp=1331609");
 					var menu6 = ms.addMenu(document.getElementById("Window"));
 	menu6.addItem("Window Blinds ", "/family/index.jsp?categoryId=1845678&cp=2167013");
 					menu6.addItem("Window Curtains", "/category/index.jsp?categoryId=1331964&cp=2167013");
@@ -564,34 +611,31 @@ var menu0 = ms.addMenu(document.getElementById("Bedding"));
 					menu7.addItem("Storage Essentials", "/category/index.jsp?categoryId=1331979&cp=1331610");
 					menu7.addItem("Closet Essentials", "/family/index.jsp?categoryId=1331980&cp=1331610");
 					menu7.addItem("Problem Solving", "/category/index.jsp?categoryId=1331981&cp=1331610");
-					menu7.addItem("Backpacks and Travel", "/category/index.jsp?categoryId=1984127&cp=1331610");
+					menu7.addItem("Luggage/Backpacks", "/category/index.jsp?categoryId=1984127&cp=1331610");
+					menu7.addItem("Pet Essentials", "/family/index.jsp?categoryId=2274116&cp=1331610");
 					var menu8 = ms.addMenu(document.getElementById("Gifts"));
 	menu8.addItem("Gift Card", "/family/index.jsp?categoryId=1920416&cp=1346212");
-					menu8.addItem("Mother's Day Gifts", "/family/index.jsp?categoryId=2258595&cp=1346212");
-					menu8.addItem("Top Picks for Wedding Gifts", "/family/index.jsp?categoryId=1852953&cp=1346212");
 					menu8.addItem("Gifts by Price", "/category/index.jsp?categoryId=1852946&cp=1346212");
-					menu8.addItem("Gifts For Her", "/family/index.jsp?categoryId=1852955&cp=1346212");
 					menu8.addItem("Gifts For Him", "/family/index.jsp?categoryId=1852956&cp=1346212");
-					menu8.addItem("Gifts For Kids", "/family/index.jsp?categoryId=1852957&cp=1346212");
+					menu8.addItem("Gifts For Her", "/family/index.jsp?categoryId=1852955&cp=1346212");
+					menu8.addItem("Gifts of Comfort", "/family/index.jsp?categoryId=2548835&cp=1346212");
 					menu8.addItem("Gifts For the Home", "/family/index.jsp?categoryId=1852960&cp=1346212");
+					menu8.addItem("Gifts for Your Holiday Home", "/family/index.jsp?categoryId=2548836&cp=1346212");
 					menu8.addItem("Gifts For the Chef", "/family/index.jsp?categoryId=1852959&cp=1346212");
+					menu8.addItem("Gifts For Kids", "/category/index.jsp?categoryId=2206636&cp=1346212");
 					menu8.addItem("Electronic Gifts", "/family/index.jsp?categoryId=1888390&cp=1346212");
-					menu8.addItem("Game Gifts", "/family/index.jsp?categoryId=1888391&cp=1346212");
-					menu8.addItem("Wine Gifts", "javascript:void(window.open('http://www.lntwine.com','lntwine','width=800,height=600,scrollbars=yes,resizable=yes'));");menu8.addItem("Corporate Gifts", "/family/index.jsp?categoryId=2144324&cp=1346212");
+					menu8.addItem("Gifts of Music", "/family/index.jsp?categoryId=2548833&cp=1346212");
+					menu8.addItem("Game Gifts", "/category/index.jsp?categoryId=2205697&cp=1346212");
+					menu8.addItem("Corporate Gifts", "/family/index.jsp?categoryId=2144324&cp=1346212");
+					menu8.addItem("Gourmet Gift Baskets", "/family/index.jsp?categoryId=2557793&cp=1346212");
 					menu8.addItem("Golf Gifts", "/family/index.jsp?categoryId=2150811&cp=1346212");
-					menu8.addItem("Extra Value Gifts", "/family/index.jsp?categoryId=2144352&cp=1346212");
 					menu8.addItem("Monogrammed Gifts", "/family/index.jsp?categoryId=2067696&cp=1346212");
+					menu8.addItem("Best Wedding Gifts", "/family/index.jsp?categoryId=2352941&cp=1346212");
 					var menu9 = ms.addMenu(document.getElementById("Seasonal"));
-	menu9.addItem("Take it Outside!", "/category/index.jsp?categoryId=2214222&cp=2166977");
-					menu9.addItem("Mother's Day Gifts", "/family/index.jsp?categoryId=2258595&cp=2166977");
-					menu9.addItem("As Seen On TV", "/family/index.jsp?categoryId=2166999&cp=2166977");
-					menu9.addItem("Travel", "/family/index.jsp?categoryId=2166998&cp=2166977");
-					menu9.addItem("Sleep Away Camp", "/family/index.jsp?categoryId=2258757&cp=2166977");
-					menu9.addItem("Spring Cleaning", "/category/index.jsp?categoryId=2181535&cp=2166977");
-					menu9.addItem("Recreation", "/category/index.jsp?categoryId=2166995&cp=2166977");
-					menu9.addItem("Keep Warm", "/category/index.jsp?categoryId=2166992&cp=2166977");
-					menu9.addItem("Toys", "/family/index.jsp?categoryId=2206636&cp=2166977");
-					menu9.addItem("Games", "/family/index.jsp?categoryId=2205697&cp=2166977");
+	menu9.addItem("Christmas Shop", "/shop/index.jsp?categoryId=2472008&cp=2166977");
+					menu9.addItem("Hanukkah", "/family/index.jsp?categoryId=2532486&cp=2166977");
+					menu9.addItem("Warmth Shop", "/category/index.jsp?categoryId=2166992&cp=2166977");
+					menu9.addItem("Summer", "/category/index.jsp?categoryId=2214222&cp=2166977");
 					
 function showLayer(layerName)
 {
@@ -652,6 +696,16 @@ theWindow.focus();
 //alert("%");
 </script>
 <img src="http://LNT.imageg.net/images/pixel.gif" height="142" width="1">
+<div id="headOAS">
+		
+	<title>Untitled</title>	
+		
+	
+
+	<img src="http://oas.imageg.net/O/a/Creatives/LNT_New_Top_Header/lnt_rotate.gif">
+
+
+	</div>
 		
 		<table border="0" bgcolor="#ffffff" width="774" cellpadding="0" cellspacing="0" align="center">
 			<tbody><tr>
@@ -781,7 +835,7 @@ theWindow.focus();
 						<!--here is panelId::1956820-->
 <!--here is pd::null-->
 <!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1956820 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/LNT_safety_10-3.10191.jsp-->
+<!--STOREMAN PANEL: helpdesk/LNT_safety_10-3.21101.jsp-->
 
 								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
@@ -802,7 +856,7 @@ theWindow.focus();
 
 <p>Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.</p>
 
-<p>If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at privacyconcerns@lnt.com.</p> 
+<p>If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:privacyconcerns@lnt.com? subject=Privacy Policy Questions">privacyconcerns@lnt.com</a>.</p> 
 <br>
 
 <u>What Information About Me Is Collected and Stored?</u><br>
@@ -833,7 +887,7 @@ We may share non-personal information with our marketing partners, advertisers a
 
 <u>What Steps Are Taken To Keep Personal Information Secure?</u><br>
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at customersupport@lnt.com or by phone at 866-568-7378.<br><br>
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@lnt.com? subject=Privacy Policy Questions">customersupport@lnt.com</a> or by phone at 866-568-7378.<br><br>
 
 <u>How Can I Access, Correct and Update Personal Information?</u><br>
 
@@ -865,7 +919,7 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 
 
 
-<!--END STOREMAN PANEL helpdesk/LNT_safety_10-3.10191.jsp-->
+<!--END STOREMAN PANEL helpdesk/LNT_safety_10-3.21101.jsp-->
 <!--END STOREMAN GENERATION-->
 
 							
@@ -916,76 +970,32 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 			<img src="http://LNT.imageg.net/images/lnt_footer_rightCorner.gif" border="0"></td>
 	</tr>
 </tbody></table>
-
-
-
-
-	
-<!-- SiteCatalyst code version: G.6.Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript">
-<!--/* You may give each page an identifying name, server, and channel on the next lines. */
-/* Custom Insight Variables */
-var s_pageName="helpdesk/index.jsp - safety - privacy" //Page Naming Convention
-var s_server="secprd_webstore_secprdapp09_5"
-var s_channel="Help Desk" //Global Category
-var s_pageType="" //Error Page (if applicable) 
-var s_prop1="" //Category Level 1
-var s_prop2="" //Category Level 2
-var s_prop3="" //Category Level 3
-var s_prop4="" //Category Level 4
-var s_prop5="" //Affiliates (pass orso code if available) 
-var s_prop6="" //Affiliates (pass orso type if available)
-var s_prop7="" //Store Locator 
-var s_prop8="" 
-var s_prop9="" //Product ID
-var s_prop10="" //Internal Search Terms
-var s_prop11="" 
-var s_prop12="" 
-var s_prop13="botnav3_privacy_txt" //Click ID
-var s_prop14=""
-var s_prop15=""
-
-/* E-commerce Variables */
-var s_campaign="" //Campaign code
-var s_state= "" //Bill-to State
-var s_zip = "" //Bill-to Zip
-var s_events="" //Occasion Tracking
-var s_products="" //Product Information
-var s_purchaseID="" //Order Number
-
-/* Commerce Insight Variables */
-var s_eVar1="" //Internal Campaigns - promotion codes
-var s_eVar2="" //Internal Search Terms
-var s_eVar3="" //Affiliates (pass orso code if available) 
-var s_eVar4="" //Affiliates (pass orso type if available)
-var s_eVar5="botnav3_privacy_txt" //Click ID
-var s_eVar6="" //Promotion/Discount Name 
-var s_eVar7="" //Promotion/Discount Code
-var s_eVar8="" //Out of Stock Item (Category;Product Name;Style ID) 
-var s_eVar9="" //Ship-to State
-var s_eVar10="" //Ship-to Zip
-var s_eVar11="" //Registered vs. Anonymous user (frequency of use)
-var s_eVar12="" //Affiliates (pass orso code + orso type if available)
-var s_eVar13="" //Product Title;PID
-var s_eVar14="" 
-var s_eVar15="" //Product Title:Product Color:Product Size:PID
-var s_eVar16="" //Invalid Promo Code
-var s_eVar17="" //Store Locator
-var s_eVar18="" //Gift Registry Item
-var s_eVar19="" //Wish List Item
-var s_eVar20="" //User ID
-
-/* Hierarchy Variables */
-var s_hier1="" //Breadcrumb path
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
-</script><script language="JavaScript" src="/include/s_code_remote.js"></script><img name="s_i_gsiclnt" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsiclnt/1/G.7-Pd-R/s69914838982526?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A26%3A13%205%200&amp;pageName=helpdesk/index.jsp%20-%20safety%20-%20privacy&amp;g=https%3A//web.archive.org/web/20060425035047id_/http%253A//www.lnt.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy%2526clickid%253Dbotnav3_privacy_txt&amp;ch=Help%20Desk&amp;server=secprd_webstore_secprdapp09_5&amp;cc=USD&amp;v5=botnav3_privacy_txt&amp;c13=botnav3_privacy_txt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<!-- End SiteCatalyst code version: G.6. -->
-
-
-
-
-
 <img src="http://LNT.imageg.net/images/pixel.gif" height="15" width="1" border="0">
+<script language="JavaScript">
+
+/* Non-commerce Variables */
+
+var s_server = 'www.lnt.com';
+var s_pageName = 'Customer Assistance - Customer Assitance Landing Page';
+var s_eVar20 = '';
+var s_hier1 = '';
+var s_events = '';
+var s_channel = 'Home';
+var s_eVar19 = '25930404711';
+</script>
+
+
+	<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
+	<script language="JavaScript">
+	/* Specify the Report Suite ID(s) to track here */
+	var s_account="gsiclnt";
+	</script><script language="JavaScript" src="http://LNT.imageg.net/include/omniture.js"></script>
+	<!-- End SiteCatalyst code version: G.9. -->	
+	
+
+
+
+
 
 			</td>
 			</tr>
