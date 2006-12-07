@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619214459id_/http%3A//collective-media.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207075358id_/http%3A//collective-media.com/privacypolicy) for the most accurate reproduction.*
 
-# Collective Media - CONTACT
+# Collective Media - PRIVACY
 
 We at Collective Media view the protection of individual privacy as critically important. Collective Media's combination of proprietary and partner technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy. 
 
@@ -36,6 +36,8 @@ With respect to personally identifiable information, Collective Media may, from 
 
 Collective Media may also share personally identifiable information with third parties who enter into business relationships with us. These business partners may include financial service providers (including credit bureaus and insurance agents); non-financial companies (including retailers, online and offline advertisers, membership list vendors, direct marketers and publishers); companies that perform marketing services on our behalf, and others such as non-profit organizations. We may also disclose information to a third party who provides substantially similar services as the original service signed up for, if we decide to stop providing such services ourselves. In such situations, we will provide our subscribers with an opportunity to opt-out of such sharing. Please be aware that Collective Media is very careful about which companies it does business with. 
 
+The ads appearing in this network may be delivered to you by DoubleClick, one of our Web advertising partners. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. In the course of serving advertisements, a unique third-party cookie may be placed or recognized on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/privacy.html)
+
 In addition to the above, there is also the possibility that Collective Media, or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information. 
 
 Finally, Collective Media may share information on individuals as it deems necessary to comply with a court order or to cooperate with government and law enforcement officials. 
@@ -52,17 +54,17 @@ Collective Media uses technology, including cookies and web beacons (1x1 pixels)
 
 ### Personally Identifiable Consumer Data - Opt-Out
 
-If a consumer elects to provide Collective Media with personally identifiable data, he or she has the right to tell us not to make some of the uses of such data described herein or may have such data deleted in its entirety at any time. Simply [contact us](https://web.archive.org/web/20060619214459id_/http://www.collective-media.com/contact/) and provide the name of the service for which you provided information and let us know what level of opt-out you would like to exercise. These include: (1) Do not share information about me with business partners, (2) Do not solicit me with special offers other than those related to the service I signed up for, or (3) Remove my data from your database for such service completely. Once we receive this instruction, we will promptly take corrective action. Please note that we will need you to provide your email address or other previously provided personal identifier in order to identify you in the Data Opt-Out process. Also, please remember that if you choose to delete your information completely you will no longer receive the Collective Media service in question. 
+If a consumer elects to provide Collective Media with personally identifiable data, he or she has the right to tell us not to make some of the uses of such data described herein or may have such data deleted in its entirety at any time. Simply [contact us](https://web.archive.org/web/20061207075358id_/http%3A//contact/) and provide the name of the service for which you provided information and let us know what level of opt-out you would like to exercise. These include: (1) Do not share information about me with business partners, (2) Do not solicit me with special offers other than those related to the service I signed up for, or (3) Remove my data from your database for such service completely. Once we receive this instruction, we will promptly take corrective action. Please note that we will need you to provide your email address or other previously provided personal identifier in order to identify you in the Data Opt-Out process. Also, please remember that if you choose to delete your information completely you will no longer receive the Collective Media service in question. 
 
 ### Access to Data
 
-Collective Media allows consumers who have voluntarily provided personally identifiable data access to their data to ensure that it is correct and to make any changes. [contact us](https://web.archive.org/web/20060619214459id_/http://www.collective-media.com/contact/)
+Collective Media allows consumers who have voluntarily provided personally identifiable data access to their data to ensure that it is correct and to make any changes. [contact us](https://web.archive.org/web/20061207075358id_/http%3A//contact/)
 
 ## Miscellaneous
 
 ### Children's Privacy
 
-Collective Media is very sensitive to the issue of children's privacy. Collective Media's websites, products, and services are neither developed for, nor directed at, children. If you believe your child has provided Collective Media with personally identifiable data, or registered at one of Collective Media's websites, and you would like to have the data removed, please [contact us](https://web.archive.org/web/20060619214459id_/http://www.collective-media.com/contact/). 
+Collective Media is very sensitive to the issue of children's privacy. Collective Media's websites, products, and services are neither developed for, nor directed at, children. If you believe your child has provided Collective Media with personally identifiable data, or registered at one of Collective Media's websites, and you would like to have the data removed, please [contact us](https://web.archive.org/web/20061207075358id_/http%3A//contact/). 
 
 ### A Special Note About the European Union
 
@@ -78,6 +80,6 @@ This Privacy Policy has been in effect since August 1, 2005.
 
 ### Contacting Us
 
-For more information, or if you have questions or concerns regarding Collective Media's Privacy Policy, please [contact us](https://web.archive.org/web/20060619214459id_/http://www.collective-media.com/contact/). 
+For more information, or if you have questions or concerns regarding Collective Media's Privacy Policy, please [contact us](https://web.archive.org/web/20061207075358id_/http%3A//contact/). 
 
-© 2005 Collective Media, All Rights Reserved. [Privacy Policy](https://web.archive.org/web/20060619214459id_/http://www.collective-media.com/privacypolicy)
+© 2005 Collective Media, All Rights Reserved. [Privacy Policy](https://web.archive.org/web/20061207075358id_/http%3A//privacypolicy)
