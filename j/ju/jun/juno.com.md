@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313063730id_/http%3A//www.juno.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207193602id_/http%3A//www.juno.com/legal/privacy.html%3Fcf%3Dwwwjn) for the most accurate reproduction.*
 
 # Juno - Privacy and Security- Value-priced Internet Service Provider - ISP - Free, low-cost and fast Internet Access
 
@@ -34,14 +34,14 @@ Overview
  **Juno is committed to protecting your privacy.**  
 At Juno, we want the people who use our services to have the best possible Internet experience. This means more than just providing compelling features and reliable service. It also means giving our users a sense of comfort with regard to their use of our services and the privacy of the personal information they share with us. To accomplish this goal, we have strict privacy policies designed to protect subscribers to and users of our services and everyone who visits our World Wide Web site (our services and site are referred to collectively as the Service; our site by itself is referred to as the Site).
 
-This Privacy Statement summarizes our privacy and information use policies and, together with our Service Agreement and Guidelines for Acceptable Use, governs your use of the Service. This Privacy Statement, the Service Agreement and the Guidelines supersede all prior communications and agreements with regard to their subject matter; the current version of each may be found at Juno's Web site at <http://help.juno.com/policies/>. Our privacy policies may change from time to time, and if they do, any changes will be posted in this Privacy Statement before taking effect. We will not use any personal information collected on the Site in a manner different from that stated at the time the information is collected, without first notifying you by email (at which time we would also notify you of how you can "opt out" of such use). While we expect to notify our subscribers (by email or through other means) of any significant changes to the Privacy Statement, you should check this Web page periodically to be sure you are familiar with our current policies. 
+This Privacy Statement summarizes our privacy and information use policies and, together with our Service Agreement and Guidelines for Acceptable Use, governs your use of the Service. This Privacy Statement, the Service Agreement and the Guidelines supersede all prior communications and agreements with regard to their subject matter; the current version of each may be found at Juno's Web site at <http://www.juno.com/privacy>. Our privacy policies may change from time to time, and if they do, any changes will be posted in this Privacy Statement before taking effect. We will not use any personal information collected on the Site in a manner different from that stated at the time the information is collected, without first notifying you by email (at which time we would also notify you of how you can "opt out" of such use). While we expect to notify our subscribers (by email or through other means) of any significant changes to the Privacy Statement, you should check this Web page periodically to be sure you are familiar with our current policies. 
 
 If you have a question about the information below, please contact Juno at:
 
 Attn: Compliance Officer - Legal Department   
 Juno Online Services, Inc.  
-75 9th Avenue, 4th Floor  
-New York, NY 10011  
+2 Executive Drive Suite 820  
+Fort Lee, NJ 07024  
 [security@juno.com](mailto:security@juno.com)
 
 * * *
@@ -126,7 +126,7 @@ Juno takes great care to ensure its users' privacy -- but not every company has 
 
 Even within Juno's Site, many of the features and much of the content is supplied by third parties (or jointly by Juno and one or more third parties), each of which has its own privacy policies and practices, and the Site may link to some pages provided by third parties that are co-branded by Juno and the provider. You may be asked to provide personal information when you register for certain services or promotions on our Site; in such cases, the information you provide may be collected and used by a third party rather than, or in addition to, Juno. Our policy requires such third parties to notify you in advance if they intend to use information you provide for purposes unrelated to the services or promotions for which you sign up, and to give you the opportunity to choose not to use their service rather than share your information with them, but we cannot assume responsibility for their compliance with our policy.
 
-We may engage third parties to serve the advertisements that appear on our Web site and within other parts of the Juno interface. These companies may use cookies to ensure you do not see the same advertisements too often, and these cookies also may collect information about you when you view or click on an advertisement. Such ad-serving companies are responsible for placing and reading these cookies; we do not have access to these cookies or control how they are used. You may find information about such companies and their privacy policies at <http://help.juno.com/privacy/privacy_statement_partners.html>. We may use an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and on our Service to help us measure the effectiveness of our advertising and how visitors use our Service.
+We may engage third parties to serve the advertisements that appear on our Web site and within other parts of the Juno interface. These companies may use cookies to ensure you do not see the same advertisements too often, and these cookies also may collect information about you when you view or click on an advertisement. Such ad-serving companies are responsible for placing and reading these cookies; we do not have access to these cookies or control how they are used. We may use an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and on our Service to help us measure the effectiveness of our advertising and how visitors use our Service.
 
 Back to list
 
