@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202510id_/http%3A//compiere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207064724id_/http%3A//www.compiere.com/privacy.html) for the most accurate reproduction.*
 
 # Compiere - Privacy
 
@@ -57,7 +57,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 If you have any questions about this privacy notice, the practices of this site, or your dealings with this Web site, you can contact
 
 _ComPiere, Inc.  
-2828 SW Corbett Avenue, Suite 130   
-Portland, OR 97201  
+2620 Augustine Dr, Suite 245   
+Santa Clara, CA 95054  
 USA [  
-i nfo@compiere.org](mailto:info@compiere.org?subject=Privacy%20Notice)_
+info@compiere.org](mailto:info@compiere.org?subject=Privacy%20Notice)_
