@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy
 
@@ -52,10 +52,10 @@ We also permit other companies that show advertisements on some of our pages to 
 ** Should you have any questions, concerns or comments, please email us at   
 [info@SellMyTimeShareNOW.com](mailto:info@sellmytimesharenow.com)
 
-**Sell My Timeshare Now is your[timeshares](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/index.php) and [timeshare resales](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/index.php) specialist. We are the quick, safe, and hassle-free way to buy, rent or sell [timeshare](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/index.php)!**
+**Sell My Timeshare Now is your[timeshares](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/index.php) and [timeshare resales](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/index.php) specialist. We are the quick, safe, and hassle-free way to buy, rent or sell [timeshare](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/index.php)!**
 
   
-| June 23, 2006 / Updated Daily  |   
+| December 6, 2006 / Updated Daily  |   
 ---  
 | | FEATURED ADS|   
 ---|---|---  
@@ -63,73 +63,74 @@ We also permit other companies that show advertisements on some of our pages to 
   
 
 
-[Discovery Beach Resort  
-$10,500(sale)  
-***SPRING BREAK IN DAYTONA!! 3 ANNUAL WEEKS/UNITS AVAILABLE!! 3BR/2BATH FOR $10,500; 2BR/2BATH FOR $8,500 OR 1BR/1BATH FOR $6,000! NEGOTIABLE***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163375)
+[Sunrise Ridge Resort  
+$6,900(sale)  
+**READY FOR YOU IN 2007!! MAINTENANCE FEES PAID. PRICE NEG**  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=125304)
 
-[Celebrity Resorts Lake Buena Vista  
-$3,999(sale)  
-***SUMMER RED WEEK IN DOWNTOWN DISNEY!! INCLUDES BANKED VACATION WEEK AVAILABLE IN 2007***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163350)  
+[Tropic Sun Towers Phase I & II  
+$4,500(sale)  
+***FANTASTIC RESORT IN ORMOND BEACH, FLORIDA!! PRICE NEG***  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=106978)  
   
   
   
 
 
-[Tahiti Village  
-$700(rent)  
-**2 SEPARATE UNITS FOR RENT - 1 BR *BORA BORA* UNIT FOR $700 OR 2 BR L/O *ROYAL TAHITIAN* FOR $1400**
+[Cove at Yarmouth  
+$6,999(sale)  
+OWNER JUST REDUCED ***SELL PRICE $6,999 (NEG **WEEK #8 IN CAPE COD!!**  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=96398)
 
-**TAKE OVER PAYMENTS!!**
-
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163286)
-
-[Indian Wells Condoshare  
-$1,500(sale)  
-**STUDIO UNIT IN WEEK 13 FOR $1500 AND 1 BR UNIT IN WEEK 43 FOR $2500 - OR TAKE BOTH UNITS FOR $3,500 AND SAVE!!! RARE RESALE OPPORTUNITY!!**  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163226)  
+[Grand Seas Resort  
+$7,000(sale)  
+****LOCATED IN THE HEART OF DAYTONA BEACH~OWNER JUST REDUED!!****  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=93926)  
   
   
   
 
 
-[Shell Vacations Club Suites at Fishermans Wharf  
-$20,000(sale)  
-***7,000 ANNUAL SVC POINTS WITH PURCHASE***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163164)
+[Chalet High North  
+$500(rent)  
+$500 FOR WEEK #4  
+$5,000(sale)  
+**WEEKS 4 FOR $5000 AND WEEK #40 FOR $4,750 ~ YOU'LL LOVE YOUR SHENANDOAH MOUNTAIN GETAWAY!!**  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=89523)
 
-[Eagle Trace at Massanutten  
-$8,500(sale)  
-***INCLUDES OWNERS ACCESS TO ALL RESORT FACILITIES INCLUDING WATERPARK FEATURING AN ALL GLASS POOL!! BUY BOTH WEEKS OR PURCHASE JUST ONE***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163026)  
+[La Cabana Beach & Racquet Club  
+$545(rent)  
+ENJOY THE OUTSTANDING VIEWS AND RELAX ON THE BEAUTIFUL BEACHES!!  
+$7,000(sale)  
+$7,000 ***THE WHITE SAND BEACHES OF ARUBA ARE WAITING FOR YOU!!!  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=62757)  
   
   
   
 
 
-[Ron Jon Cape Caribe Resort  
+[Summit At Massanutten  
+$15,000(sale)  
+***SHENANDOAH VALLEY!! ANNUAL RED WEEK 5 *SKI SEASON* AND PAID MAINTENANCE FEES FOR THIS YEAR***  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=57961)
+
+[Hilton Grand Vacations Club on the Las Vegas Strip  
+$1,095(rent)  
+ **$1,095 *LUXURIOUS VEGAS GETAWAY***PLENTY TO DO AND SEE****  
 $16,000(sale)  
-***LUXURIOUS 2BR/2BATH OCEAN FRONT SUITE WITH SPECTACULAR VIEWS OF THE BEACH AND OF THE ATLANTIC OCEAN! PRICE NEGOTIABLE***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=163007)
-
-[Sunset Lagoon Hotel & Marina  
-$6,500(sale)  
-***UNIQUE ALL-INCLUSIVE LUXURY IN EXOTIC CANCUN***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=162971)  
+ **RIGHT IN THE MIDDLE OF THE STRIP**RELAX BY THE POOL OR SPEND YOUR TIME IN THE CASINO**TAKE ADVANTAGE OF THIS OUSTANDING OFFER!!!**  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=55801)  
   
   
   
 
 
-[Cypress Pointe Resort & Grand Villas  
-$1,000(rent)  
-**3 BEDROOM LOCKOUT FOR ONLY $1000**  
-$8,500(sale)  
-**PHASE 1 - EMERALD SEASON - FLOATING WEEK 35!! CAN USE AS 2 WEEKS ANNUALLY BY USING EACH SIDE**  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=162074)
+[ Thunderbird Resort Club  
+$6,995(sale)  
+***DELUXE 2BR/2BATH *TOWNHOUSE SUITE* IN SPARKS, NEVADA!! ANNUAL AUTUMN SEASON WEEK 38 INCLUDED***  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=55598)
 
-[Marriott's Sabal Palms  
-$8,495(sale)  
-***GREAT VALUE FOR THIS LUXURIOUS VACATION PACKAGE!! PRICED AT THOUSANDS BELOW RESORT COST***  
-](https://web.archive.org/web/20060623143914id_/http%3A//sellmytimesharenow.com/details.php?idadd=161540)
+[Villa del Palmar, Cabo San Lucas  
+$12,500(sale)  
+$12,500 ***EXOTIC PACIFIC OCEANFRONT***  
+](https://web.archive.org/web/20061207055638id_/http%3A//sellmytimesharenow.com/details.php?idadd=49776)
