@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204427id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207051649id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
 
 # SumTotal Systems, Inc. - Legal, Privacy, and Terms of Use
 
