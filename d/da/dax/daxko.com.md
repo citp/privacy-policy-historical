@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314140436id_/http%3A//www.daxko.com/default.asp%3FID%3D497) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207173039id_/http%3A//www.daxko.com/default.asp%3FID%3D497) for the most accurate reproduction.*
 
 # DAXKO
 
@@ -31,7 +31,7 @@ DAXKO will send Individual Identifying Information about you to other companies 
   * We need to share your information to provide the product or service you have requested; 
   * We need to send the information to companies who work on behalf of DAXKO to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the Individual Identifying Information we provide to them beyond what is necessary to assist us.); 
   * We respond to subpoenas, court orders or legal process; or 
-  * We find that your actions on our websites violate the [DAXKO Terms of Service](https://web.archive.org/web/20060314140436id_/http%3A//www.daxko.com/default.asp?ID=498), or any of our usage guidelines for specific products or services.
+  * We find that your actions on our websites violate the [DAXKO Terms of Service](https://web.archive.org/web/20061207173039id_/http%3A//www.daxko.com/default.asp?ID=498), or any of our usage guidelines for specific products or services.
 
 
 
