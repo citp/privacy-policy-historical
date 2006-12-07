@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warnermusic.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622233129id_/http%3A//www.wmg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnermusic.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207152517id_/http%3A//www.wmg.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : wmg
+# WMG Privacy Notice
 
 Thank you for visiting wmg.com, a Warner Music Group (WMG) site. Your privacy is important to us. To better protect your privacy, we provide this Privacy Notice explaining our online information practices and the choices you can make about the way your information is collected and used at this WMG site. For information about online privacy practices for non-U.S. sites, please consult the privacy notice at the non-U.S. site in which you are interested.
 
@@ -34,7 +34,7 @@ When you provide any personally identifiable information to us, you confirm that
 
 Certain WMG sites may wish to disclose personally identifiable information to companies whose practices are not covered by this Privacy Notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a WMG site intends to share your personally identifiable information with such entities, it will inform you in advance in its own privacy notice.
 
-WMG may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](/privacy/p2.jsp) for instructions on how to make your request.
+WMG may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, please review the [instructions on how to opt out](https://web.archive.org/web/20061207152517id_/http:/privacy/optout/).
 
 Finally, WMG sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -44,7 +44,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 WMG sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that are sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. WMG has no control over these third parties' use of this information. The WMG site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some WMG sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. This Privacy Notice does not cover any use of information that a third-party ad server may have collected from you. For more information on this site’s use of such third-party ad servers, [please click here](/privacy/p3.jsp).
+Some WMG sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. This Privacy Notice does not cover any use of information that a third-party ad server may have collected from you. For more information, please view our [notice about this site’s use of third-party ad servers](https://web.archive.org/web/20061207152517id_/http:/privacy/ads/).
 
 ### Cookies 
 
@@ -60,7 +60,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ###  How You Can Access or Correct Information
 
-For instructions on how you can access the personally identifiable information that this WMG site has collected about you online, or how to correct factual errors in such information, [please click here](/privacy/p4.jsp).
+We have instructions available on [how you can access the personally identifiable information that this WMG site has collected about you online](https://web.archive.org/web/20061207152517id_/http:/privacy/personalinformation/), or how to correct factual errors in such information. 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -90,4 +90,4 @@ Our business changes constantly and our Privacy Notice and the Terms of Use will
 
 If you have any questions or concerns about the WMG online policy for this site or its implementation you may contact us at [privacy@wmg.com](mailto:privacy@wmg.com).
 
-_Last updated May 10, 2005_
+_Last updated August 15, 2006_
