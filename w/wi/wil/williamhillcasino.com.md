@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200856id_/http%3A//www.willhill.com/iibs/EN/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207195359id_/http%3A//www.willhill.com/iibs/EN/static/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,4 +53,4 @@ If at any time you believe that William Hill has not adhered to these principles
 This privacy statement applies specifically to the **www.williamhill.co.uk** , **www.willhill.com** , **www.williamhillcasino.com** and **www.williamhillpoker.com** web sites. Questions regarding this statement should be directed to [customerservices@williamhill.co.uk](mailto:customerservices@williamhill.co.uk).  
   
    
-[Back To Sportsbook Home](http://www.willhill.com/iibs/EN/sportsbook.asp)
+[Back To Sportsbook Home](http://www.willhill.com/iibs/en/sportsbook.asp)
