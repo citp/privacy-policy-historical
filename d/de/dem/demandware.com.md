@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426013817id_/http%3A//demandware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207150719id_/http%3A//demandware.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Demandware - Privacy
+# Demandware :: Privacy Policy
 
 At Demandware, we respect the privacy of our customers and the visitors to our website. This statement describes the current information gathering, sharing and privacy practices for our website, www.demandware.com. 
 
@@ -54,7 +54,7 @@ When you visit our site, a cookie may be saved on your computer (if your compute
 
 If you prefer not to receive cookies on our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of our website. 
 
-We may also use web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking how users navigate to and through our website. We may also use this technology to track the delivery of HTML email messages. This data is collected exclusively for use in our marketing and research. 
+We may also use Web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking how users navigate to and through our website. We may also use this technology to track the delivery of HTML email messages. This data is collected exclusively for use in our marketing and research. 
 
 ## Enforcement of this Statement
 
