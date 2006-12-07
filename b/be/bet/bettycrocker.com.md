@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127004403id_/http%3A//www.bettycrocker.com/PrivacyPolicy.aspx%3FMSCSProfile%3D3C79F0C7EA3162B275E73B07A66925F4FDC2AB074D56E2BB1FE83BEF325E3F0CB7022CC4F8511984C8B95C5267734BABF7707F12C3B57EF69D3E8983822A08B8058AFA39E6FC49F7D7F3EE019DB4F5AA0692E627D6BDEAD912FF664048A08A0FD9A13174FB8A411054559D3F153705CDF73CAD740333319BC51833CA25B003AE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207084923id_/http%3A//www.bettycrocker.com/privacy-policy) for the most accurate reproduction.*
 
-# Betty Crocker: Privacy Policy
+# Privacy Policy from Betty Crocker
 
-## _Effective Date: September 15, 2004_
+## _Effective Date: October 17, 2006_
 
 At General Mills, we are very sensitive to the privacy concerns of visitors to all of our websites, including this one. Though we do not obtain any personal information that individually identifies you (e.g., your name, address, phone number, e-mail address, etc.) unless you affirmatively provide it to us, many visitors do choose to provide us with such information. This Privacy Policy explains our online information practices and the choices you, as a visitor to this site, can make about the collection and use of your information.
 
@@ -44,7 +44,7 @@ We reserve the right to transfer any information we have about you in the event 
 
 We reserve the right to disclose any personal information as needed if such information is requested by law enforcement agencies or if we are required to do so by law, regulation, subpoena, court order, or by a government entity. We also may disclose personal information to third parties if we have reason to believe that disclosing such information is necessary to conduct investigations of possible breaches of law, to cooperate in any legal investigation, or to identify, contact, or bring legal action against someone who may be violating the terms of use of our site.
 
-**Security for credit card, data and transaction information**   
+**Security for credit card, data and transaction information**  
 At General Mills, we are committed to keeping your online transactions safe and secure. In order to reasonably assure the privacy and security of your credit card and other personal data when making an order, we use Secure Sockets Layer (SSL) technology. SSL uses encryption technology to create a secure connection between your computer and ours. We have also put procedures in place to safeguard the information/data we collect from you. We cannot absolutely guarantee the security of any information you provide online; you provide it at your own risk. 
 
 **Links To Other Sites**  
@@ -66,9 +66,9 @@ This website is intended for use by residents of the United States of America on
 We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy. 
 
 **Your Consent To The Terms Of This Online Privacy Policy**  
-By using this website, you signify your assent to all of the terms of this General Mills Online Privacy Policy and our [Terms of Use](https://web.archive.org/web/20051127004403id_/http%3A//www.bettycrocker.com/TermsOfUse.aspx). If you do not agree with any term of this Privacy Policy or our [ Terms of Use](https://web.archive.org/web/20051127004403id_/http%3A//www.bettycrocker.com/TermsOfUse.aspx), please do not use this site or submit any personally identifiable information.
+By using this website, you signify your assent to all of the terms of this General Mills Online Privacy Policy and our [Terms of Use](http://www.bettycrocker.com/terms-of-use.htm). If you do not agree with any term of this Privacy Policy or our [Terms of Use](http://www.bettycrocker.com/terms-of-use.htm), please do not use this site or submit any personally identifiable information.
 
 **How To Contact Us**  
-Should you have any questions or concerns about this Privacy Policy or about our collection or use of information, please e-mail us at bettycrocker@mail.genmills.com. You may also reach us by telephone at 1-800-328-8360 weekdays from 8 a.m. - 5 p.m. Central Time.
+Should you have any questions or concerns about this Privacy Policy or about our collection or use of information, please e-mail us at bettycrocker@mail.genmills.com. You may also reach us by telephone at 1-800-446-1898 weekdays from 8 a.m. - 5 p.m. Central Time.
 
-©Copyright 2003 General Mills, Inc. and its affiliates. All Rights Reserved
+| 
