@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613054403id_/http%3A//www.scottrade.com/formscenter/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222117id_/http%3A//www.scottrade.com/online_stock_trading_privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Opening an Online Trading Account, Brokerage Account, Investing - Scottrade
-
-##  SCOTTRADE PRIVACY POLICY AND SECURITY STATEMENT 
+# Privacy Policy – Opening a Online Trading Account, Brokerage Account, Investing - Scottrade
 
 ### Your Privacy is Important
 
@@ -31,14 +29,16 @@ Finally, we are permitted to disclose information if you have provided your cons
 
 Scottrade does not sell or rent personal information to any third party.
 
-### Confidentiality and Security Procedures
+### Confidentiality and Security Procedures and Education
 
 We restrict access to nonpublic personal information about you to those employees who need to know such information to provide services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-Scottrade offers a secure server and a password-protected environment. Personal information is protected by Secure Socket Layer (SSL) encryption.SSL encodes and decodes the transmission of your personal information to prevent the interception by another party. This transmission can be done on your Scottrade website at 128-bit encryption… currently the most powerful available. By viewing the URL/address/location line of your browser, you can determine if you are in a secure mode by looking for https://. (In contrast http:// would represent a non-secure transmission.)
+Scottrade offers a secure server and a password-protected environment. Personal information is protected by Secure Socket Layer (SSL) encryption. SSL encodes and decodes the transmission of your personal information to prevent the interception by another party. This transmission can be done on your Scottrade Web site at 128-bit encryption ... currently the most powerful available. By viewing the URL/address/location line of your browser, you can determine if you are in a secure mode by looking for https://. (In contrast http:// would represent a non-secure transmission.)
 
-### Use of “Cookies”
+In addition to the measures our employees take to protect your confidential information, Scottrade also offers information to our customers on what they can do to protect themselves. Please visit the [Security Section](https://web.archive.org/online_trading_privacy) of this website to learn more.
 
-Cookies are used on our website to help us monitor traffic patters and see how the user navigates through our site. Scottrade cookies are used for internal purposes and are not used to collect disseminate personal information to any third party. Cookies you may establish with companies whose sites are linked to Scottrade are not the responsibility of Scottrade and you should review their policy on cookies.
+### Use of "Cookies"
+
+Cookies are used on our Web site to help us monitor traffic patterns and see how the user navigates through our site. Scottrade cookies are used for internal purposes and are not used to collect disseminate personal information to any third party. Cookies you may establish with companies whose sites are linked to Scottrade are not the responsibility of Scottrade and you should review their policy on cookies.
 
 Scottrade will provide notice of our privacy policy annually, as long as you maintain an account with us. Scottrade reserves the right to make changes on this policy. You can always review our current policy online at www.scottrade.com, or contact us for a copy at 1-800-619-7283.
