@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aph.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194809id_/http%3A//www.aph.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aph.gov.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207080312id_/http%3A//www.aph.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Parliament of Australia: Privacy Statement
 
@@ -30,6 +30,12 @@ It is necessary that your web browser provides your machine's network address, s
 ** It is a necessary part of electronic mail that a sender and receiver address is supplied. These are recorded as well as a message identifier, amount of data and the time. The address you supply as sender is only a pseudonym and may possibly bear no relation to your real name, so is not considered as directly identifying you. 
 
 
+
+### Forms
+
+If you use forms on the site to provide information, register interest, or purchase publications, the information you provide is not retained on the public web server and will not be used for purposes other than that for which it was provided.
+
+We will only record your e-mail address if you send us a message. It will only be used for the purpose for which it was provided and will not be added to a mailing list unless that is the purpose of the message. We will not use your e-mail address for any other purpose, and will not disclose it without your consent. 
 
 ### Data Storage, Retention, Use and Disclosure
 
@@ -70,7 +76,7 @@ This site contains links to other sites. The Parliament is not responsible for t
 
 Parliamentary staff comply with information privacy principles. 
 
-### [Accessing files on the site](https://web.archive.org/web/20060615194809id_/http%3A//www.aph.gov.au/access/access.htm)
+### [Accessing files on the site](https://web.archive.org/web/20061207080312id_/http%3A//www.aph.gov.au/access/access.htm)
 
 ## Accessibility 
 
@@ -93,6 +99,6 @@ Australia
 * * *
 
 Comments to: [webmanager@aph.gov.au ](mailto:webmanager@aph.gov.au)  
-Last reviewed 30 November, 2005 by the Web Manager   
+Last reviewed 6 December, 2006 by the Web Manager   
 © Commonwealth of Australia   
 Images courtesy of AUSPIC 
