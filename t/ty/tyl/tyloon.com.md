@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the tyloon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201702id_/http%3A//www.tyloon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyloon.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207144827id_/http%3A//www.tyloon.com/info/content-5/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tyloon.com
-
-**PRIVACY POLICY**
 
 We at Tyloon respect and guard your privacy; it is our goal to protect and bring better services to our clients and users. We acknowledge that privacy is an important issue; therefore, at Tyloon we have generated our services for your protection. Our Privacy Policy lists the types of personal information that can or may be gathered while using Tyloon and its services. 
 
 This policy informs you how Tyloon will utilize your personal information that we, at Tyloon, may collect and/or receive, including the information related to your use of Tyloon services. Personal information is your information that is used to personally identify you by name, address, email address, or phone number, information that is not publicly available or known.
 
-**GENERAL INFORMATION:**
+** GENERAL INFORMATION:  **
 
 Tyloon will collect personal information when and if you are required to register with Tyloon. When you use you visit Tyloon, its associated Local Yellow Pages or the pages of certain Tyloon partners, Tyloon may combine information about you that we have with information we obtain from its business partners or its companies. 
 
@@ -16,7 +14,7 @@ You agree that when you register, your general such as your name, email address,
 
 Tyloon gathers and uses information for the sole purpose of the following: to customize the advertising and content you see, fulfilling your requests for products and services, to improve our services, making contact with you, our internal research, and provide anonymous reporting for internal and external clients. 
 
-**Information Sharing and Disclosure**
+** Information Sharing and Disclosure**
 
 At Tyloon we will not rent, sell, or disclose your personal information about you with any other person or companies not associated or connected to Tyloon; except as in the following conditions: 
 
