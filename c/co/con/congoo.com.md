@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the congoo.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202158id_/http%3A//congoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congoo.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222132id_/http%3A//congoo.com/privacy) for the most accurate reproduction.*
 
 # Congoo - Privacy Policy
 
-|   |  **Congoo Privacy Policy**
+**Congoo Privacy Policy**
 
 Congoo is committed to protecting your privacy. Please read the Congoo Privacy Statement below and also any supplementary information at the end of this statement for additional details about particular Congoo sites and services that you may use.
 
@@ -98,5 +98,4 @@ Branchburg, NJ 08876
 Email us at: 
 
   
-  
----|---
+
