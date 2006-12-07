@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ddiworld.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ddiworld.com privacy policy that was archived on 2006-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207134804id_/http%3A//ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -12,7 +12,7 @@
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 
-<link rel="Shortcut Icon" href="http://www.ddiworld.com/favicon.ico">
+<link rel="Shortcut Icon" href="/favicon.ico">
 
 	<link rel="stylesheet" type="text/css" title="DDIWorld-Site-Style" href="/css/site_style.css">
 
@@ -32,9 +32,12 @@
 
 		<!--- Start Top Nav Header --->
 		
-<div id="site_topnav">
+	<div id="site_topnav">
 		<div id="ddilogo">
 		<a href="../default.asp" class="linknav"><img src="../site_images/logo.gif" width="108" height="50" alt="DDI Home" border="0"></a>
+		</div>
+		<div id="linksendgraphic">
+			&nbsp;
 		</div>
 		<div id="links">
 			<div id="topnavlinks">
@@ -66,8 +69,10 @@
 	<!--- Start Page Header --->
 	
 		<div id="pageheader" style="background: #40718C;">
-			<div id="pageheader_image"><img src="../site_images/utilities_default_i.jpg" border="0" alt="Privacy Statement "></div>
-			<div id="pageheader_textfield16px" style="background: url(../site_images/utilities_default_h.jpg) no-repeat;"><img src="../site_images/spacer.gif" width="10" height="50" border="0" alt="" align="middle">Privacy Statement </div>
+			<div id="pageheadercontainer">
+				<div id="pageheader_image"><img src="../site_images/utilities_default_i.jpg" border="0" alt="Privacy Statement "></div>
+				<div id="pageheader_textfield16px" style="background: url(../site_images/utilities_default_h.jpg) no-repeat;"><img src="../site_images/spacer.gif" width="10" height="50" border="0" alt="" align="middle">Privacy Statement </div>
+			</div>
 		</div>
 	
 	<!--- End Page Header --->
@@ -86,10 +91,24 @@
 	function Activate() {
 	      document.iissrch.SearchString.focus();
 	}
+	function CheckSearch() {
+		var oForm = document.iissrch;
+		var sMsg = "";
+		var bSubmit = true;
+		if (oForm.SearchString.value == '') {
+			sMsg = "Please search for a word or phase.";
+				oForm.SearchString.focus();
+			}
+		if (sMsg != '') {
+			bSubmit = false;
+			alert(sMsg);
+			}
+		return bSubmit;
+	}
 	//-->
 	</script>
 	
-	<form action="../search/search_results.asp?SearchType=2" name="iissrch" id="iissrch" method="GET">
+	<form action="../searchddiworld/search_results.aspx?SearchType=2" name="iissrch" id="iissrch" "="" onsubmit="JavaScript: return CheckSearch();">
 	<input type="text" name="SearchString" id="SearchString" value="Search" class="searchtext">
 	<input type="image" name="Action" src="../site_images/search_site_go.gif" align="middle">
 	<input type="hidden" name="CiResultsSize" value="on"><br>
@@ -504,10 +523,10 @@ Development Dimensions International's Privacy Statement</em>
 		
 			<span><a href="javascript:window.location.href='../members/bookmark.asp?title='+escape(document.title)+'&amp;url='+escape(window.location.href)" class="pagefunctions"><img src="../site_images/brandicon_folder.gif" border="0" alt="" align="absmiddle">Add My DDI Favorite</a></span>
 		
-		<span><form action="../utilities/email_a_colleague.asp" method="post" target="EmailColleague" onsubmit="window.open('', 'EmailColleague', 'width=565,height=400,status=yes,resizable=yes,scrollbars=yes')"> 
+		<span><form action="../utilities/email_a_colleague_en.asp" method="post" target="EmailColleague" onsubmit="window.open('', 'EmailColleague', 'width=565,height=400,status=yes,resizable=yes,scrollbars=yes')"> 
 		<input type="hidden" name="url" value="/utilities/privacy_en.asp">
 		<input type="hidden" name="title" value="Privacy Statement ">
-		<input type="image" src="../site_images/brandicon_emailcolleague.gif" border="0">
+		<input type="image" src="../site_images/brandicon_emailcolleague_en.gif" border="0">
 		</form></span>
 		
 	</div>
@@ -541,14 +560,15 @@ Development Dimensions International's Privacy Statement</em>
 			<span><a href="../utilities/sitemap.asp">Site Map</a></span>
 			<span><a href="../about/globalpressroom.asp">Global Press Room</a></span>
 		</div>
-		<div id="footer-copyright" class="copyright">©Development Dimensions International, Inc., MM-MMVI. All rights reserved.</div>
+		<div id="footer-copyright" class="copyright">
+		©Development Dimensions International, Inc., MM-MMVI. All rights reserved.
+		</div>
 		
 	</div>
 </div>
 </td></tr></tbody></table>
 <!--- End Footer --->
 </div>
-
 
 			<!--- Start LivePerson Monitor 0 --->
 			<script language="javascript" src="http://server.iad.liveperson.net/hc/70004043/x.js?cmd=file&amp;file=chatScript3&amp;site=70004043&amp;imageUrl=http://www.ddiworld.com/site_images"> </script>
