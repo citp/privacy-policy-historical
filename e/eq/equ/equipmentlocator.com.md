@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the equipmentlocator.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616142813id_/http%3A//equipmentlocator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equipmentlocator.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208001603id_/http%3A//equipmentlocator.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Page ELS-Equipment Locator Service
 
+[](http://www.equipmentlocator.com/els-info.htm)
+
 | 
 
+[ ](http://www.equipmentlocator.com/els-info.htm)  
 PRIVACY POLICY
 
 All data gathered from visitors to **Equipment Locator Service** and **Tom Rowe & Associates** web sites is only used by Tom Rowe & Associates internally. We do not and will not distribute lists of e-mail addresses, phone numbers, or other visitor information. 
