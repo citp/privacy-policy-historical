@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asq.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629010148id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asq.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207213352id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.*
 
 # ASQ: About: ASQ's Privacy Policy
 
@@ -36,7 +36,7 @@ ASQ may disclose your personal information if required to do so by law or in the
 
 **Access to your personal information**
 
-If you are an ASQ member, you can review and edit your personal information in the "My ASQ" area.  Sign in with your member number and password, and click on the Home tab.
+If you are an ASQ member, you can review and edit your personal information in the "My ASQ" area.  Log in with your member number and password, and click on the Home tab.
 
 Within “My ASQ” you can: 
 
@@ -65,7 +65,7 @@ A cookie is a tiny piece of information that a Web site stores on your computer 
 
 ASQ uses cookies to help guide members through our Web site (as described above) and to keep track of your shopping carts: A unique ID is assigned to each shopping session. Our Web server sends the shopping cart ID to your computer. If your browser is configured to accept cookies, the unique ID is stored on your computer and sent back to our Web server. This unique ID is retrieved and used by the server to keep track of the contents of your shopping cart, which is stored on our server. 
 
-At the present time, ASQ cookies will be deleted automatically when you quit the browser, unless you are a member and check the “remember me on this Web site” box when you sign up. This may change in the future as ASQ strives to personalize your Web experience with us. The ASQ Web site cookie will not damage your system or files in any way. 
+At the present time, ASQ cookies will be deleted automatically when you quit the browser, unless you are a member and check the “remember me on this Web site” box when you log in. This may change in the future as ASQ strives to personalize your Web experience with us. The ASQ Web site cookie will not damage your system or files in any way. 
 
 **Your credit card information**
 
