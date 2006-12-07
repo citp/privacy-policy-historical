@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625042242id_/https%3A//www.hondafinancialservices.com/site/site_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207144440id_/https%3A//www.hondafinancialservices.com/site/site_privacy.asp) for the most accurate reproduction.*
 
 # Honda Financial Services Privacy Policy
 
@@ -118,9 +118,9 @@ BACK TO TOP
 
 BACK TO TOP
 
-**Owner Link™**
+**Owner Link®**
 
-**My Vehicle.** Owner Link™ provides access to valuable resources like maintenance schedules,  roadside tips, FAQs, and account management.   If you choose to register for Owner Link, you will be asked to set up a username and password.  You will be required to submit your email address where we can send your password information, in case you forget it.  Your email address will also be used to send you any messages relating to the Communication Preferences you choose to set up; for example, you may choose to receive messages from us relating to "general information about Owner Link, such as site updates." You may also choose not to receive any messages at all.  You will also be asked to tell us the make, year, model, trim, color, and year purchased.  This information is used to set up your account specific to your vehicle.  You will be able to edit or delete your vehicle information any time.
+**My Vehicle.** Owner Link® provides access to valuable resources like maintenance schedules,  roadside tips, FAQs, and account management.   If you choose to register for Owner Link, you will be asked to set up a username and password.  You will be required to submit your email address where we can send your password information, in case you forget it.  Your email address will also be used to send you any messages relating to the Communication Preferences you choose to set up; for example, you may choose to receive messages from us relating to "general information about Owner Link, such as site updates." You may also choose not to receive any messages at all.  You will also be asked to tell us the make, year, model, trim, color, and year purchased.  This information is used to set up your account specific to your vehicle.  You will be able to edit or delete your vehicle information any time.
 
 You are given the option of providing us with your name, address, and telephone number.  It is also optional for you to provide your Vehicle Identification Number (VIN) in order to tailor advanced features, such as maintenance reminders, service records, and recall notices to you and to your specific product.
 
