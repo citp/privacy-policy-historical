@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223113838id_/http%3A//bannerconnect.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207115548id_/http%3A//www.bannerconnect.net/policy.php) for the most accurate reproduction.*
 
-# BannerConnect - Advertising Network without Boundaries
+# Bannerconnect Network- Advertising without Boundaries
 
 Bannerconnect has created the following privacy policy in order to demonstrate our commitment to assuring privacy for publishers, advertisers, and website visitors. 
 
