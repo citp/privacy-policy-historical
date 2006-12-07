@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nie.edu.sg privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413183606id_/http%3A//www.nie.edu.sg/nieweb/about/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nie.edu.sg privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207081900id_/http%3A//www.nie.edu.sg/nieweb/about/privacy.do) for the most accurate reproduction.*
 
 # National Institute of Education: About NIE
 
