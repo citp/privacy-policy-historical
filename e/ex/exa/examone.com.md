@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2006-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060222034223id_/http%3A//www.examone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207104532id_/http%3A//www.examone.com/privacy.html) for the most accurate reproduction.*
 
 # ExamOne
 
