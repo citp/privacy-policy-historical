@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045519id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207033806id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
 
 # Eventful: Privacy Policy
 
-Last revised 22 September 2005
+Last revised 17 August 2006
 
-EVDB, Inc., the owner and creator of the Eventful service, respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a company. Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you:
+Eventful, Inc., the owner and creator of the Eventful service, respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a company. Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you:
 
   * You maintain ownership rights to your personally identifiable information, even if there is a business transition.
   * You may access or modify your personally identifiable information at any time.
@@ -14,7 +14,7 @@ EVDB, Inc., the owner and creator of the Eventful service, respects your right t
   * If you have any questions about our Privacy Policy, please email privacy at eventful.com or send a letter to… 
 
    Eventful Privacy Policy  
-   EVDB, Inc.  
+   Eventful, Inc.  
    9191 Towne Centre Drive, Suite 125  
    San Diego, CA 92122 USA
 
@@ -49,14 +49,14 @@ We do not sell or disclose personally identifiable information obtained online a
 
 We safeguard your personal information via high data security precautions. To protect the personally identifiable information we have about you, we use physical, electronic, and procedural safeguards that comply with federal regulations.
 
-PLEASE NOTE: This privacy policy applies only to the privacy of users of EVDB, Inc.'s web site(s). By using EVDB, Inc.'s web site(s) you agree to the terms of this privacy policy. If you move from EVDB, Inc.'s web site(s) to Web sites owned or operated by other entities or individuals, you should check the privacy policies of such Web sites carefully as the terms by which the owners or operators of those other Web sites manage your personally identifiable information obtained from such Web sites could differ from how EVDB manages your personally identifiable information on EVDB's own website(s).
+PLEASE NOTE: This privacy policy applies only to the privacy of users of Eventful, Inc.'s web site(s). By using Eventful, Inc.'s web site(s) you agree to the terms of this privacy policy. If you move from Eventful, Inc.'s web site(s) to Web sites owned or operated by other entities or individuals, you should check the privacy policies of such Web sites carefully as the terms by which the owners or operators of those other Web sites manage your personally identifiable information obtained from such Web sites could differ from how Eventful manages your personally identifiable information on Eventful's own website(s).
 
 ## Privacy Policy — Glossary of Terms
 
-  * "personally identifiable information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. personally identifiable information does not mean the information found in the EVDB database which we make available to the general public.
+  * "personally identifiable information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. "personally identifiable information" does not mean the information found in the Eventful database which we make available to the general public.
   * "Registration Information" means your name, e-mail address, and password.
-  * "EVDB.com" means the www.evdb.com Web site or EVDB, Inc., a Delaware corporation.
-  * "Eventful" is trademark of EVDB, Inc., and is the name of a web service run by EVDB, Inc.
+  * "Eventful.com" means the www.eventful.com Web site or Eventful, Inc., a Delaware corporation.
+  * "Eventful" is trademark of Eventful, Inc., and is the name of a web service run by Eventful, Inc.
   * "Your Information" means your Registration Information.
 
 
