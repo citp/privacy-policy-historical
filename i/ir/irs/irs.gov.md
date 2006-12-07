@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613035316id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207032425id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
@@ -10,21 +10,24 @@
 **Access to Privacy Impact Assessments  
 Statistical Information**  
 **Security**  
-**If You Send Us Information On-Line**  
-**Cookies**  
-**Links to Other Sites**
+**If You Send Us Information On-Line  
+Customer Surveys  
+******Cookies**  
+Links to Other Sites**
 
 * * *
 
-### IRS Office of Privacy
+_**PLEASE NOTE:**_   Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The Internal Revenue Service does not use e-mail to request this type of information.  Forward suspicious emails to: [phishing@irs.gov](mailto:phishing@irs.gov).
 
-**_PLEASE NOTE the following:_** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data.  The Internal Revenue Service does not use e-mail to request this type of information.  For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or go to [www.treas.gov/tigta](http://www.treas.gov/tigta).
+For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or go to [www.treas.gov/tigta](http://www.treas.gov/tigta).  
+**  
+IRS Office of Privacy**
 
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
 Director, Office of Privacy  
 Internal Revenue Service  
-Room 7050 OS:PA  
+Room 7050 OS:MA:P  
 1111 Constitution Ave. NW  
 Washington, DC 20224
 
@@ -98,7 +101,20 @@ The confidentiality of Internet transactions is not guaranteed. You must decide 
 
 * * *
 
-### Cookies
+  
+
+
+### Customer Surveys
+
+IRS conducts surveys by telephone, by mail and online to capture taxpayer and tax practitioner opinions and suggestions for improving our products and services. The surveys are voluntary and if you choose to participate, you and your answers remain anonymous. IRS conducts its surveys using contractors who have passed a rigid security screening process to maintain your confidentiality.
+
+It is important to remember that an IRS survey will never ask you for personal information like your Social Security Number, your Taxpayer Identification Number or any credit card or bank information. An IRS survey may ask you specific questions about your tax filing experiences, for example: _Did you file a Form 1040 with a Schedule C?;_   _Did you receive a notice regarding your taxes?;_ or, _What is your level of satisfaction with certain IRS services?_ If you receive a survey that requests personal information, do not participate, it could be [an attempt to steal your identity](https://web.archive.org/newsroom/article/0,,id=155682,00.html).
+
+All printed IRS surveys you receive in the mail will provide an Office of Management and Budget (OMB) number. IRS surveys conducted by telephone and online will provide an IRS contact person if you wish to verify the authenticity of the survey.
+
+* * *
+
+###  Cookies
 
 “Persistent cookies” collect personal information to recognize your computer in the future. The IRS does not use “persistent cookies” or other technology to collect personally identifiable information about visitors to our website.   Cookies of a limited nature may be used for voluntary customer surveys.  Their purpose is to validate feedback, and cannot be used to identify survey participants or track web usage.
 
