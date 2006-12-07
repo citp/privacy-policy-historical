@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616065444id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207062219id_/http%3A//ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Page Title
+# Free Astrology, Free Horoscope by GaneshaSpeaks.com
 
 |  |  |   
 ---  
@@ -34,10 +34,13 @@ You can change and update the personal information you previously provided. This
 2\. Change the relevant information  
 Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from our records. If you have chosen to receive your Daily or Weekly Horoscope by e-mail, you can at any time cancel this sending a mail on contact@ganeshaspeaks.com with the subject line as "Unsubscribe".   
 **Delete profile**  
-You can delete your profile at any time by clicking on the "delete” link.   
+You can delete your profile at any time by clicking on the "deleteâ€ link.   
 **Contacting us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at contact@ganeshaspeaks.com.  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [contact@ganeshaspeaks.com](mailto:contact@ganeshaspeaks.com).  
   
-[back to home page](https://web.archive.org/web/20060616065444id_/http%3A//www.ganeshaspeaks.com/)  
+[home](https://web.archive.org/web/20061207062219id_/http%3A//ganeshaspeaks.com/)  
   
-|  | 
+|  |   
+  
+|   
+---
