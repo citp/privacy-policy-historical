@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224226id_/http%3A//www.digitaleditor.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207185243id_/http%3A//digitaleditor.com/Privacy) for the most accurate reproduction.*
 
 # Statement of Privacy
+
+|  |    
+
+
+[](http://www.digitaleditor.com/eu.aspx?url=http%3a%2f%2fservice.bfast.com%2fbfast%2fclick%3fbfmid%3d37628499%26siteid%3d41638097%26bfpage%3d1788510)
+
+[](http://www.digitaleditor.com/eu.aspx?url=http%3a%2f%2fservice.bfast.com%2fbfast%2fclick%3fbfmid%3d37628499%26siteid%3d41638097%26bfpage%3dworkstation_330)
+
+|  |  |  | 
 
 Last updated October 2004
 
@@ -87,3 +96,281 @@ Digital Editor welcomes your comments regarding this Statement of Privacy. If yo
 
 ### Some parts of this site will not work effectively on this older browser.  
 Please consider [ updating your browser ](http://www.digitaleditor.com/eu.aspx?url=http://www.webstandards.org/upgrade/ "This link is to a third party web site which will open in a new window")
+
+|  |  |  |    
+|   
+---  
+  
+Today, December 7th 
+
+Hurry! This great deal is good now until December 12th, get $10 back when you order $65 or more. 
+
+* * *
+
+Walmart.com has the Canon 6 MP PowerShot A540 Digital Camera for only $169.54 with .97 shipping. The lowest price we could find. 
+
+* * *
+
+The NASCAR.Com Superstore offers the broadest selection of officially licensed NASCAR/driver merchandise available on the internet. 
+
+* * *
+
+Web only: all home theater systems on sale—save up to 20%* 
+
+* * *
+
+Laptops starting at $599.00 Plus not interest until June 2007 
+
+* * *
+
+Save up to $500 on Unadvertised TVs 
+
+* * *
+
+Yesterday, December 6th 
+
+Until October 31st get 3 Months for $59.85 at eHarmony.com! 
+
+* * *
+
+Samsung BDP-1000 HDMI Hi-Def Blu-Ray DVD Disc Player/Card Reader Only $599.99 (US) "The Lowest Price On The Web Today" and more... 
+
+* * *
+
+Ashford, Avon, BabyUniverse, Blinds, Bombay Company, Brookstone, Chadwicks, eHarmony, Linens-N-Things, Macys, Office Depot, Sharper Image and more... 
+
+* * *
+
+$300 off Select Inspiron purchases of $1499 or above, Save 20% on Select Inspiron purchases of $999 and more... 
+
+* * *
+
+We have four exclusive coupons but you must hurry they expire 12/08/06. WD Caviar RE2 Hard Drive, Fantom Titanium External Hard Drive and more... 
+
+* * *
+
+Hurry sale ends 12/08/06 
+
+* * *
+
+Take $10 off your order of $100 or more $20 off your order of $200 or more $50 off your order of $500 or more $100 off your order of $1,000 
+
+* * *
+
+Get $5 off any order over $25, Get $2 off any order over $10, FREE SHIPPING on up to 25 4x6 prints, $0.99 off shipping and more... 
+
+* * *
+
+20 free 4x6" prints at Sony ImageStation, 20% OFF Photo Calendars, 30% OFF Color Photo Crystals, Save up to 40% off on Photo Greeting Cards 
+
+* * *
+
+32" Widescreen HD LCD TV only $599, Memorex 7" Portable DVD Player only $54.95, Fuji FinePix V10 ONLY $179.95 Hurry Supplies Limited on all three 
+
+* * *
+
+Customize a Toshiba Satellite® laptop get FREE upgrades to meet Windows® Vista™ Premium Ready requirements, Toshiba Financing. 6 Months Same As Cash 
+
+* * *
+
+Office Depot - Taking Care of Business. Office Depot, Inc. Founded in 1986, is one of the world's largest sellers of office products 
+
+* * *
+
+Last Tuesday, December 5th 
+
+20% Off Women's Designer Boots, 20% Off Women's Designer Handbags, 30% Off Women's Outerwear, Diamonds Studs .25cttw-2.0cttw from $79.99! 
+
+* * *
+
+SANDISK Sansa C150 2GB MP3 Player - $59.99, CANON PowerShot SD800-IS 7 Mp $354.88, HARMONY REMOTE 880 Advance Universal Remote - $134.99 and more... 
+
+* * *
+
+97 cent Shipping on Top Toys, Cool Toy Vehicles, Dolls and Plush Toys, Action Figures, Kids Electronics and more... 
+
+* * *
+
+Eddie Bauer's One Week Only Sweater Sale Buy any Sweater, get another at 50% Off Expires 12/10/06 
+
+* * *
+
+YOOX offers a unique mix that ranges from off-season products, to exclusive Internet collections by leading designers 
+
+* * *
+
+Tiger Direct has 12 hot lapops for under $600, Computers like: Intel Pentium 4-M 1.8GHz, AMD Turion 64 3400+ and more Hurry Supplies Limited... 
+
+* * *
+
+At TigerDirect.com, you'll choose from brand name computers—the industry's top names—at prices simply not possible anywhere else. 
+
+* * *
+
+Web Only Save up to 20% on all Home Audio, up to 25% on select Monitors, up to $125 Satellite Radios and more... 
+
+* * *
+
+Last Monday, December 4th 
+
+Payless ShoeSource is the largest specialty family footwear retailer in the Western Hemisphere. 
+
+* * *
+
+Linens 'n Things, Inc. is one of the leading, national large-format retailers of home textiles, housewares and decorative home accessories. 
+
+* * *
+
+40% off any purchase (Friends & Family) Expires 12/10/06 - Timberland is a global leader of premium-quality footwear, apparel and accessories. 
+
+* * *
+
+Kodak EasyShare Gallery (www.kodakgallery.com), formerly known as "Ofoto", is the leading online digital photo developing service. 
+
+* * *
+
+Apple iPod 30GB Video $219.99, Axion AXN-9700 7" Digital Picture Frame $84.99, Panasonic RP-HC300 Noise Canceling Headphones $83.99 and more... 
+
+* * *
+
+For one week only, Jos. A. Bank is offering a doorbuster Holiday exclusive sale, with 60% off many items! The sale runs through Sunday, 12/10/06 
+
+* * *
+
+Find coupons, online coupons, browse stores, search, shopping directory, deals, discounts, Coupon Codes, Promo Codes 
+
+* * *
+
+Trend Micro - 15% off site-wide coupon - Enter coupon code TMPROTECT. Expires Dec. 31, 2006 
+
+* * *
+
+MacMall has more than 100,000 different products from companies such as Compaq, Microsoft, Apple, IBM, Hewlett-Packard, Toshiba, Cisco, and others. 
+
+* * *
+
+Calvin Klein has 25% off your entire order and Free Shipping on orders of $50 or more. Both Expire 12/31/06 
+
+* * *
+
+Last Sunday, December 3rd 
+
+The "R" Us family of brands offers a broad assortment of toys, games, sporting goodsing destination toy and baby specialty , 
+
+* * *
+
+ACD Systems is recognized as the leader in image management and technical illustration software, including ACDSee and Canvas. 
+
+* * *
+
+Allume Systems develops software solutions for Windows, Macintosh include StuffIt, Internet Cleanup, Spring Cleaning, and icSpyware Suite. 
+
+* * *
+
+Nuance is the leading provider of speech and imaging solutions for businesses and consumers around the world. 
+
+* * *
+
+Save up to $200 instantly on select notebooks, 15% on select DVD players, recorders, digital cameras, camcorders, free shipping and more... 
+
+* * *
+
+CompUSA weekly Internet Sale 12/03.06, Save up to $300 on NOTEBOOKS, up to $50 on CAMERAS and more... 
+
+* * *
+
+Last Saturday, December 2nd 
+
+Walmart still has a good selection of the hottest GPS' at the lowest price and great toy sale Dora's Talking Dollhouse Bundle 
+
+* * *
+
+SmartBargains makes it easy for brand-oriented, value-conscious consumers to find wonderful bargains on the products they love. 
+
+* * *
+
+Radio Shack is the nation's most trusted consumer electronics specialty retailer and a provider of business-to-business retail support services. 
+
+* * *
+
+HP Small and Medium Business Online Store - Get more expertise, reliability and value for your business. 
+
+* * *
+
+Find the coupons you need, when you need them, right here. Print them out now and save on your favorite brands at supermarkets and drugstores! 
+
+* * *
+
+Overstock.com sells discount, brand-name merchandise up to 80% off the suggested retail price and ships every product, big or small, for only $2.95! 
+
+* * *
+
+Sharper Image is a specialty retailer renowned as a leading source of new, innovative, high-quality products that make life better and more enjoyable. 
+
+* * *
+
+Save at Amazon using coupon codes 
+
+* * *
+
+Save up to 20% on Onkyo and Sony Home Theater Systems and Receivers, Save up to 20% on select Projectors, Save up to 30% on PDA Accessories and more.. 
+
+* * *
+
+Garmin StreetPilot c320 GPS Only $268.82, Garmin StreetPilot c330 GPS Only $379.77, Qarmin Nuvi 350 Only $549.78 and more... 
+
+* * *
+
+Walmart has the Garmin StreetPilot c330 GPS for only $328.00 Rollback Price, Was: $449.87 
+
+* * *
+
+ToyRUS has some great deals as well as free shipping on orders over $49 and $10 off of $30 using Google Checkout 
+
+* * *
+
+Buy.com is the Internet retailer of choice. With categories ranging from computer hardware to software, from electronics to cellular and more... 
+
+* * *
+
+Last Friday, December 1st 
+
+Brookstone's Hard-To-Find Tools Store; Do it all with Hard to find Tools. Tools that provide new and innovative ways to ... 
+
+* * *
+
+Music123 now has over 125,000 products available. The depth of product information is unequaled, and new products and services are added daily. 
+
+* * *
+
+Larger Discount on Women's Outerwear Now Extra 30% Off Entire Stock! Extra 30% Off Men's Cold Weather Accessories 
+
+* * *
+
+Sierra Trading Post has $10 off $30 Code: wdgb8 using Google Checkout 
+
+* * *
+
+JC Penney is one of America's largest department store, catalog, and e-commerce retailers. 
+
+* * *
+
+Portable Folding Speaker System for iPod $12.95, Fuji Labs 1GB MP3 Player with FM Tuner $51.99, Canon PowerShot 5.0MP $149.99 and more... 
+
+* * *
+
+Sateen 400 Thread Count Solid Sheet Set $29.99, Egyptian Cotton 800 Thread Count Sheet Set $69.99, White Feather and Down Comforter $19.99 and more... 
+
+* * *
+
+Garmin eTrex Vista Cx $249.00 before $50 rebate, Akai 50" Widescreen Plasma HDTV Monitor $1,598.00, PS2 Kid's Play Bundle $148.00 and Tons of others.. 
+
+* * *
+
+Take 15% Off Your Entire Purchase At Childrensplace.com During Our Holiday Sale! 
+
+* * *
+
+20% Off plus, Save $20 on orders of $50 or more w/ Google Checkout Enter Coupon Code: "EMHOLIDAY" Expires 12/3/06 
+
+* * *
