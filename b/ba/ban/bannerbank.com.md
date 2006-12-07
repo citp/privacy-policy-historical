@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/privacy.html) for the most accurate reproduction.*
 
 # Banner Bank Privacy page
 
- [Home](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/default.html)  
- [About Us](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/about.html)  
- [Personal Solutions](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/personal.html)  
- [Business Solutions](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/business.html)  
- [Contact Us/Locations](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/contactus.html)  
- [Stock Quotes](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/stock.html)  
- [Investment Services](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/invest.html)  
- [Job Opportunities](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/job.html)  
- [News/Press Releases](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/news.html)  
- [Related Links](https://web.archive.org/web/20060615200509id_/http%3A//bannerbank.com/related.html) |    
+ [Home](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/default.html)  
+ [About Us](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/about.html)  
+ [Personal Solutions](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/personal.html)  
+ [Business Solutions](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/business.html)  
+ [Contact Us/Locations](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/contactus.html)  
+ [Stock Quotes](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/stock.html)  
+ [Investment Services](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/invest.html)  
+ [Job Opportunities](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/job.html)  
+ [News/Press Releases](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/news.html)  
+ [Related Links](https://web.archive.org/web/20061207015238id_/http%3A//www.bannerbank.com/related.html) |    
 **The Opportunities you Deserve, The Privacy you Expect  
 **
 
