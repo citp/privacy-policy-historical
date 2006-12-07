@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204702id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207214021id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
-# Newsday.com Privacy Policy -- Newsday.com
+# Newsday.com - About Newsday
 
-  
+#### ABOUT US
 
-
-ABOUT US
-
-Newsday.com Privacy Policy  
-
+## Newsday.com Privacy Policy
 
 **newsday.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by newsday.com online and does not impact information collected or used by newsday.com or its affiliates through other means. 
 
@@ -66,7 +62,4 @@ newsday.com reserves the right to change this policy at any time. Please check t
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. newsday.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.  
-
-
-  
 
