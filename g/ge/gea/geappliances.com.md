@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geappliances.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615124735id_/http%3A//www.geappliances.com/plcy/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geappliances.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208070716id_/http%3A//www.geappliances.com/plcy/privacy/privacy.htm) for the most accurate reproduction.*
 
 # GE Privacy Policy
 
