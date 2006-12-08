@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213049id_/http%3A//dccc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208054038id_/http%3A//www.dccc.org/privacy) for the most accurate reproduction.*
 
 # DCCC.org: Privacy Policy
-
-[](https://web.archive.org/get_involved/tell/)
 
 The DCCC is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for personal information collected through this website. If you have questions about this policy, please let us know.
 
