@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418034612id_/http%3A//www.hairlosstalk.com/globaldocs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208125903id_/http%3A//www.hairlosstalk.com/globaldocs/privacy.htm) for the most accurate reproduction.*
 
 # HairlossTalk Privacy Policy
 
