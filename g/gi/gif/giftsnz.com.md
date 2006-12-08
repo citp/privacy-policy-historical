@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsnz.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619153518id_/http%3A//www.giftsnz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsnz.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208211849id_/http%3A//www.giftsnz.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy Great New Zealand Souvenirs
 
