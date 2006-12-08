@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipeccoaching.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617001320id_/http%3A//www.ipeccoaching.com/CM/Helpers.php%3FpageID%3D256%26mode%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipeccoaching.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208072420id_/http%3A//www.ipeccoaching.com/CM/Helpers.php%3FpageID%3D256%26mode%3D) for the most accurate reproduction.*
 
 # Helper Items from iPEC Coaching: Privacy and Security issues, Reprinting issues.
 
