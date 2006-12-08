@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305172224id_/http%3A//interpals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208163457id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.*
 
-# Interpals Penpals Net - Privacy Policy
+# Interpals Pen Pals : Privacy Policy
 
 **The following discloses the privacy policy of the Interpals Penpal Network** , and reflects its primary goal, which is to allow any person to view penpal listings on the site, or post a listing containing their own penpal-related information on the Interpals Penpal Network's servers. Any questions regarding our privacy practices, or the information contained in this document should be directed to [privacy@interpals.net](mailto:privacy@interpals.net). 
 
@@ -12,10 +12,10 @@ To remove their listing from this site, the user must login with their chosen us
 
 Please be aware that the InterPals Penpal Network will not be held responsible for the privacy practices of any advertisers or linked web sites. 
 
-Please read the [Disclaimer](http://interpals.net/disclaimer.php).
+Please read the [Disclaimer](http://www.interpals.net/disclaimer.php).
 
 Third Party Advertising:  
 We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
 Third Party Cookies:  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique łcookie˛ on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
