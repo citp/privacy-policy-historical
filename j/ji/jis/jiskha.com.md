@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629222344id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208085616id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
-|   
----|---  
-  
 This is the website of **Jiskha Homework Help** located online at [http://www.jiskha.com](http://www.jiskha.com/). Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy. 
 
 **Data Collection**
@@ -41,6 +38,4 @@ Thank you for taking the time to read this privacy policy. Jiskha Homework Help 
 
 [hip hop vinyl](http://www.irismika.com/english/)
 
-**[Submit your own essays and reports to Jiskha.com!](http://www.jiskha.com/features/contribute/)**
-
-[**digital record pool**](http://www.worksessions.com/)
+[**download hip hop vinyl**](http://www.irismika.com/english/)
