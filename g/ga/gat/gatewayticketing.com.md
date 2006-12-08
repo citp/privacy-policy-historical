@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gatewayticketing.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409035144id_/http%3A//gatewayticketing.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatewayticketing.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208201032id_/http%3A//www.gatewayticketing.com/privacy.asp) for the most accurate reproduction.*
 
-# Gateway Ticketing Systems
+# Access Control, Admission Control, Internet Ticketing Software - Gateway Ticketing Systems, Inc.
+
+Privacy Policy 
 
 **Your Privacy**
 
@@ -51,5 +53,3 @@ Gateway Ticketing Systems, Inc..
 Information Services Dept.  
 315 E. 2nd Street  
 Boyertown, PA 19512
-
-_Revision Date: October 10, 2001 – Version 0.0_
