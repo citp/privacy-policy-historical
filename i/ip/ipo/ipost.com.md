@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427012254id_/http%3A//www.ipost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208103333id_/http%3A//www.ipost.com/privacy.htm) for the most accurate reproduction.*
 
 # iPost - Direct email marketing services
 
@@ -24,11 +24,11 @@ Our UCE policy is rigorously enforced. iPost may terminate service or take any o
 
 A cookie is a small file stored on a web browser user's hard drive containing information that is placed there by a website. This information is often used to track visits by the same web browser to the same site, or to remember information between sessions on the website for the convenience of the user.
 
-iPost does not presently use cookies on this website.
+iPost presently uses a third party web analytics system which uses cookies on this website and the iPost Mailing Manager. These cookies are used only to identify the popularity of web pages and the path visitors take through our site. Visitor identity is not collected or used.
 
 Clients of iPost may elect to use cookies on their own websites, some portions of which may be hosted on iPost servers. iPost is not responsible for the use of such cookies and may have no information about them. If you are concerned about the use of cookies in your web browser, you may adjust the settings of your web browser to selectively accept cookies or reject them entirely.
 
-The iPost Mailing Manager (iMM) website, a part of the iPost service, uses cookies to permit our clients to more easily log in to the iMM from other services. This use of cookies is optional on the part of our clients.
+The iPost Mailing Manager (iMM) website, a part of the iPost service, also uses cookies to permit our clients to more easily log in to the iMM from other services. This use of cookies is optional on the part of our clients.
 
 ### Log Files
 
