@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003613id_/http%3A//www.ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208233838id_/http%3A//www.ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
 # ebookers.com : Privacy Policy
 
    
-|   |  |  Privacy policy  
+|   
+---  
+   
+   
+   
+   
+  |  |  Privacy policy  
 ---  
    
 Privacy Statement for ebookers.com  
@@ -94,5 +100,5 @@ If you have questions or concerns regarding this statement, you should first con
 Top  
    
   
-The air holidays and flights shown are ATOL protected by the Civil Aviation Authority, except when tickets for scheduled flights are sent to you within 24 hours of payment being accepted. Our ATOL number is ATOL 2562. Protection extends primarily to customers who book and pay in the United Kingdom. Click on the ATOL logo if you want to know more. We are also fully bonded with ABTA (our ABTA number is D0806), IATA and a member of PATA and ASTA.  
+The packages which include flights and flight only bookings are ATOL protected by the Civil Aviation Authority, except when tickets for scheduled flights are sent to you within 24 hours of payment being accepted or in relation to low cost flights. Our ATOL number is ATOL 2562. Protection extends primarily to customers who book and pay in the United Kingdom. Click on the ATOL logo if you want to know more. We are also bonded with ABTA (our ABTA number is D0806), IATA and a member of PATA and ASTA.  
  
