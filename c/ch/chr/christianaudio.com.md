@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630174701id_/http%3A//christianaudio.com/privacy.php%3FosCsid%3D964ab2ea471408e625f51385ae1602c8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208175838id_/http%3A//christianaudio.com/privacy.php%3FosCsid%3D11309ba9d6260bd9a6043ab99826b5e6) for the most accurate reproduction.*
 
 # Christian Audio: Privacy Notice
 
@@ -81,4 +81,4 @@ Hovel Audio, Inc.
 Customer Care  
 623 Concord Pl.  
 San Marcos, CA 92069  
-(760) 798-1601 
+(760) 745-2411 
