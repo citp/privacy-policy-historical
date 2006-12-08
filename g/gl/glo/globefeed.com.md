@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globefeed.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233611id_/http%3A//www.globefeed.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globefeed.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208102431id_/http%3A//www.globefeed.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of GLOBEFEED.com
 
@@ -32,6 +32,10 @@ We at GlobeFeed.com will promptly correct any errors.
 
 Data Collection
 
+**When you are using “Link Preview” and/or "Floating Link Preview" tool, _we do not collect or log any information from client side_. We do not at all log the url of the web page on which you are using the “Link Preview” and/or "Floating Link Preview". We even do not collect your browser information or IP Address. We _totally respect your privacy_ when you are using “Link Preview” and/or "Floating Link Preview".** 
+
+**For other pages of the site, see the following information:**
+
 When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information GlobeFeed.com collects, and how it is used.
 
 We collect the following information about our visitors:
@@ -53,7 +57,7 @@ We collect this information for the following reasons
 
 
 
-We are using Google map APIs and Google Adsense on our website. You must check the Google's Privacy Policy to get information about data collected by Google.com if there is any.
+We are using Google map APIs, Google Adsense and Google Analytics on our website. You must check the Google's Privacy Policy to get information about data collected by Google.com if there is any.
 
 * * *
 
