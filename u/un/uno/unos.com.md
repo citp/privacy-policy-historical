@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191008id_/http%3A//unos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208131456id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
 
 # Uno Chicago Grill
 
