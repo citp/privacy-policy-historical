@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the alwaysonvacation.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422021636id_/http%3A//www.alwaysonvacation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwaysonvacation.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208043922id_/http%3A//www.alwaysonvacation.com/privacy.html) for the most accurate reproduction.*
 
-# Always on Vacation - Privacy Policy
+# PRIVACY - AlwaysOnVacation.com - your vacation rental destination
 
-| [ ](https://web.archive.org/privacy.html) |    
 ---  
-  | [Home](https://web.archive.org/) > [About Us](https://web.archive.org/aboutus.html%22\)) > **Privacy Policy**|     
-  |   |    
-  |  |    
    
-  |  |    
-  |  |  | [About Us ](https://web.archive.org/aboutus.html "About Us") |  | [Media](https://web.archive.org/media.html "Media") |  | [Contact Us ](https://web.archive.org/contactus.html)  
----|---|---|---|---|---  
+|  |   
+---  
+|  |   
+---  
    
-  |  |    
+| |    
   |   |    
   |  |   | 
 
@@ -36,7 +33,8 @@
   | Members can choose to provide AlwaysOnVacation.com with travel preferences and other personal information. This information is primarily used to assist members in making reservations quickly without having to type in the same information repeatedly. If you don't want to store your personal information, you can still research and book vacation rentals direct from owners. Keep in mind, however, that certain AlwaysOnVacation.com features (for example, stored vacation rental favorites, or the specials newsletter for your specific destinations) are only available to our members. We may also use your e-mail address or telephone number to contact you about changes to your purchased travel itinerary. |    
   |   |    
   | Specials Newsletter |    
-  | Members and Non-members can choose to receive AlwaysOnVacation.com newsletter with specials on vacation rentals by supplying their email address. Only members can tailor the newsletter to receive specials and promotions for their choice of destinations. To opt out of receiving the newsletter, members can modify their profile and non-members can send an email to [unsubscribe@alwaysonvacation.com](mailto:unsubscribe@alwaysonvacation.com) |    
+  | Members and Non-members can choose to receive AlwaysOnVacation.com newsletter with specials on vacation rentals by supplying their email address. Only members can tailor the newsletter to receive specials and promotions for their choice of destinations. To opt out of receiving the newsletter, members can modify their profile and non-members can send an email to [unsubscribe@alwaysonvacation.com](mailto:unsubscribe@alwaysonvacation.com)   
+Or visit [http://www.alwaysonvacation.com/newsletter/unsubscribe.html](https://web.archive.org/newsletter/unsubscribe.html) |    
   |   |    
   | Surveys, Contests, and Sweepstakes Information  |    
   | Occasionally, AlwaysOnVacation.com may offer our members and site visitors an opportunity to participate in a survey, contest, or sweepstakes. Information collected by AlwaysOnVacation.com when you participate in a survey, contest, or sweepstakes may include your full name, e-mail address, and street address. Subsequently, we may use your e-mail address to send you information about hot deals, contests, sweepstakes, surveys, promotions, or other travel opportunities offered by AlwaysOnVacation.com and its marketing partners. However, you can ALWAYS opt out of receiving AlwaysOnVacation.com communications by modifying your profile. Simply tell us you're not interested and you won't receive these messages from us again.  |    
@@ -64,4 +62,12 @@
    
   |   |    
   |   |    
-[ ](https://web.archive.org/privacy.html)
+[Vacation Rentals](https://web.archive.org/vacationrental.html "Vacation Rental")  |  [Destination Guides](https://web.archive.org/vacation-rental-guide/ "Destination Guides")  |  [Sitemap](https://web.archive.org/sitemap.html "Sitemap")  |  [Resources](https://web.archive.org/resources.html "Resources")  |  [Privacy Policy](https://web.archive.org/privacy.html "Privacy Policy")  
+| **Our Partners :** [VacationStreet.com](http://www.vacationstreet.com/ "VacationStreet.com") • [A1Floridarentalvacation.com](http://www.a1floridarentalvacation.com/ "A1Floridarentalvacation.com") • [TravelerPages.com](http://www.travelerpages.com/ "TravelerPages.com")  
+---  
+**[AlwaysOnVacation.com](https://web.archive.org/ "AlwaysOnVacation - your vacation rental destination")** is fast becoming one of the largest and most accessed travel sites on the internet  
+specializing in vacation rental homes. With the 'easy to use' search engine of AlwaysOnVacation.com,   
+even novices can easily find and book the most suitable vacation home. AlwaysOnVacation.com also   
+provides owners with the means to efficiently promote their Vacation Rental properties. 
+
+Copyright © 2005-06 **[Vacation Renter Solutions](http://www.vacationrenter.com/ "Vacation Renter Solutions")** LLC All Rights Reserved.
