@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sedo.co.uk privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628044203id_/http%3A//www.sedo.co.uk/about/policy.php%3Fpage%3Dprivacy_policy_e%26tracked%3D%26partnerid%3D%26language%3De) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sedo.co.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208024042id_/http%3A//www.sedo.co.uk/about/policy.php%3Fpage%3Dprivacy_policy_e%26tracked%3D%26partnerid%3D%26language%3De) for the most accurate reproduction.*
 
 # Sedo - Policy
 
 Effective Date: 09/01/2005  
 Posting Date: 08/01/2005
 
-Protecting your privacy and the personal information you provide us is a top priority at Sedo. For this reason, Sedo does not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. At Sedo, we want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. Please read this privacy policy to learn more about the policies and procedures Sedo has put in place to achieve this goal. In addition, Sedo wants our users to feel comfortable that we take all necessary steps to protect their personal information. For this reason, we have created a webpage where users can learn how to report a privacy complaint [will link once live]. 
+Protecting your privacy and the personal information you provide us is a top priority at Sedo. For this reason, Sedo does not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. At Sedo, we want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. Please read this privacy policy to learn more about the policies and procedures Sedo has put in place to achieve this goal. In addition, Sedo wants our users to feel comfortable that we take all necessary steps to protect their personal information. For this reason, we have created a webpage where users can learn how to report a [privacy complaint](https://web.archive.org/about/policy.php?page=privacy_complaints_e&tracked=&partnerid=&language=e). 
 
 Sedo is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.sedo.com. Because Sedo wants to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
@@ -29,7 +29,7 @@ If you are under the age of 18, you may only use this site in conjunction with a
 
 Information We Collect
 
-Sedo only collects personal information about users that we consider necessary for providing our services in an efficient, customized, and user-friendly manner.
+Sedo only collects personal information about users that we consider necessary for providing our services in an efficient, customized, and user-friendly manner, including your name, address, phone number and email address.
 
 Our Use of Your Information
 
@@ -83,7 +83,7 @@ We offer you the ability to review and change the information you submit to us b
 
 Generally, we will not modify your personal information based on a request not submitted through the site because it can be difficult to authenticate your identity manually.
 
-Upon your request, we will deactivate your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email [info@sedo.co.uk](mailto:info@sedo.co.uk). Your account will be deactivated as soon as reasonably possible after we receive your request.
+Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email [info@sedo.co.uk](mailto:info@sedo.co.uk). Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days. 
 
 Upon receipt of a deactivation request, we will retain some of your information in order to prevent fraud, collect fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement, and comply with legal requirements. Therefore, you should not expect that all of your information will be completely removed from our databases in response to your requests. However, your information will be deactivated from our active, registered user database, and will only be available to select Sedo personnel.
 
