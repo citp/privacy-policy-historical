@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617225449id_/http%3A//interiordesign.net/index.asp%3Flayout%3Did_static%26page%3Dstory%26doc_id%3D95737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208185057id_/http%3A//www.interiordesign.net/index.asp%3Flayout%3Did_static%26page%3Dstory%26doc_id%3D95737) for the most accurate reproduction.*
 
-# Interior Design, the information behind the inspiration
+# Contact Us - Interior Design
 
-[](http://www.interiordesign.net/index.asp?layout=id_static&page=story&doc_id=17777) |    
-  
----|---  
-  
 Last Revised: May 2006
 
 **_PRIVACY POLICY_**
@@ -70,5 +66,5 @@ _** Reed Business Information
 New York, NY  10010  
 Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
 
-  
-
+[](https://w1.buysub.com/pubs/W1/IDN/subscription.jsp?cds_page_id=21502&cds_mag_code=IDN&id=1163462099698&lsid=63171754596019992&vid=1&cds_response_key=I53HLW&cds_mag_code=IDN)  
+---
