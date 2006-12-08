@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2006-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060205224117id_/http%3A//commissionsoup.com/publicHTML/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208041003id_/http%3A//commissionsoup.com/privacy) for the most accurate reproduction.*
 
 # CommissionSoup Privacy Policy
 
@@ -12,9 +12,9 @@ CommissionSoup is serious about protecting your online privacy. This Privacy Sta
 
 We automatically collect and/or track the following: 
 
-  1. web page http headers (home server domain names, IP address, type of client computer, and type of Web browser); 
-  2. information knowingly provided by you through on-line forms, registration forms, surveys, and or other entries, such as e-mail addresses, personal, financial or demographic information; 
-  3. information, user specific or aggregate, on what pages our visitors access and 
+  1. web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  2. information knowingly provided by you through on-line forms, registration forms, surveys, and or other entries, such as e-mail addresses, personal, financial or demographic information;
+  3. information, user specific or aggregate, on what pages our visitors access and
   4. the e-mail addresses of visitors that communicate with CommissionSoup via e-mail.
 
 
@@ -54,6 +54,8 @@ If you have any questions about this privacy statement, the practices of this si
 CommissionSoup  
 114 N Egan Avenue, PO Box #463  
 Madison, SD. 57042  
-or contact us
+or [contact us](https://web.archive.org/web/20061208041003id_/http://www.commissionsoup.com/contact.aspx)
 
 ©2006 CommissionSoup
+
+Effective as of February 6, 2001
