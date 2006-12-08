@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615065016id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208101851id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
 
 # IP Australia : About IP Australia > About this Site > Privacy Policy
 
-[Home](https://web.archive.org/web/20060615065016id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20060615065016id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20060615065016id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
+[Home](https://web.archive.org/web/20061208101851id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20061208101851id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20061208101851id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
   
  
 
@@ -28,6 +28,8 @@ IP Australia uses cookies to obtain session details for access to parts of our s
 
 IP Australia use Survey Monkey, a third party software supplier, to administer online surveys. These surveys use third party cookies, the information collected by the cookies is not capable of identifying you and is only used to ensure our surveys run effectively. IP Australia will only use the information collected from the surveys for statistical and maintenance purposes. A copy of [Survey Monkeys privacy policy](http://www.surveymonkey.com/help/Privacy.asp) can be found on their [website](http://www.surveymonkey.com.au/).
 
+IP Australia uses [Google Analytics](http://www.google.com/analytics/) to collect information about visitors to the IP Australia corporate site. Google Analytics uses first-party cookies and JavaScript code to collect information about visitors to the IP Australia corporate site. It anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site including such things as newsletter registration. It does not track any application processes or procedures from our Online Services section.
+
 back to top
 
 ## E-mail addresses
@@ -45,5 +47,5 @@ The information required for the completion of IP Australia's electronic filing 
 
   
 © Commonwealth of Australia, 2006  
-[Site Search](https://web.archive.org/about/site_search.shtml) | [Site Map](https://web.archive.org/about/site_map.shtml) | [Contact Us](https://web.archive.org/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/about/feedback.shtml) | [Customer Service Charter](https://web.archive.org/about/charter_index.shtml)  
+[Site Map](https://web.archive.org/about/site_map.shtml) | [Contact Us](https://web.archive.org/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/about/feedback.shtml) | [Customer Service Charter](https://web.archive.org/about/charter_index.shtml)  
 [Disclaimer](https://web.archive.org/about/site_disclaimer.shtml) | [Privacy Policy](https://web.archive.org/about/site_privacy.shtml) | [About this Site](https://web.archive.org/about/site.shtml) | [IP Media Centre](https://web.archive.org/media/index.htm)
