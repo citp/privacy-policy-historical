@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the itv-f1.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428184636id_/http%3A//www.itv-f1.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv-f1.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208222759id_/http%3A//www.itv-f1.com/Privacy.aspx) for the most accurate reproduction.*
 
 # itv.com/f1
 
-We take privacy issues relating to users of our web sites seriously. We respect your personal information and will hold that information as required by Data Protection legislation. This privacy policy explains what information we will collect about you, how we will use it and the steps we will take to ensure that it is kept secure. If you have any questions about this privacy policy or the privacy practices of this site you can contact [privacy@itv.com ](mailto:privacy@itv.com). By using this web site you consent to us collecting and using personal information about you on the terms set out in this policy. We may update this Privacy Policy from time to time, so please check back here regularly.
+We take privacy issues relating to users of our web sites seriously. We respect your personal information and will hold that information as required by Data Protection legislation. This privacy policy explains what information we will collect about you, how we will use it and the steps we will take to ensure that it is kept secure. If you have any questions about this privacy policy or the privacy practices of this site you can contact [ privacy@itv.com ](mailto:privacy@itv.com). By using this web site you consent to us collecting and using personal information about you on the terms set out in this policy. We may update this Privacy Policy from time to time, so please check back here regularly.
 
- **What Information We Collect**
+**What Information We Collect**
 
 Information related to your visit to this site (such as which pages you visit, how often you visit and which competitions you enter) and the information you supply when registering or when entering our competitions (such as your name and e-mail address) will be held and stored by us.
 
- **How We Will Use Your Information**
+**How We Will Use Your Information**
 
 We will use your information to supply you with the latest information on motor racing, help us improve our site and to help us design competitions that most appeal to our users. We may supply aggregated statistics about the use of our site to third parties, but these statistics will not directly identify you. We will also use your information to tell you about any of our offers, products or services that we think might interest you.
 
@@ -16,6 +16,6 @@ From time to time, we will send you targeted advertising and marketing messages 
 
 By supplying us with your information you confirm that you do not consider use of your information in accordance with this Privacy Policy to be a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999. You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to provide your personal details and/or information concerning your activities whilst visiting this site, we shall do so. A cookie is a piece of information that is stored on your hard drive by your web browser. We use cookies so as to be able to build up a profile of your interests and preferences and this may be used by us to make your visits to our site more enjoyable.
 
- **How We Will Keep Your Information Secure**
+**How We Will Keep Your Information Secure**
 
 Keeping your information secure is very important to us. We will use all reasonable measures to safeguard your data but please note that we cannot guarantee that any data transmission over the Internet is completely secure. To help us provide you with information relating to products and services that we think you will be interested in your data may from time to time be processed and held by third parties outside the European Economic Area. If your information changes or if you wish us to stop using your data at any time, you can email us at [privacy@itv.com ](mailto:privacy@itv.com).
