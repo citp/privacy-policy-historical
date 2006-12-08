@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422025531id_/http%3A//www.angelsoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208124300id_/http%3A//www.angelsoft.net/privacy.html) for the most accurate reproduction.*
 
 # Angelsoft | Privacy Policy
 
@@ -12,7 +12,7 @@ In order to request information via this web site, you must first complete the f
 
 Communications from the Site
 
-When you fill out our information request form, youХll be given the option to subscribe to periodic announcements and updates. We will occasionally send you information on angel investing developments, technology, products and other topics of interest. Out of respect for your privacy, you have an option not to subscribe at the outset, and we provide you a way to unsubscribe at any time. Please see the "Choice and Opt-out." 
+When you fill out our information request form, you�ll be given the option to subscribe to periodic announcements and updates. We will occasionally send you information on angel investing developments, technology, products and other topics of interest. Out of respect for your privacy, you have an option not to subscribe at the outset, and we provide you a way to unsubscribe at any time. Please see the "Choice and Opt-out." 
 
 Profile 
 
@@ -36,17 +36,17 @@ Log Files
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersХ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users� movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information
 
 Cookies
 
-A cookie is a small text file that is stored on a userХs computer for record-keeping purposes. We use cookies on this site. We use both session ID cookies and/or persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time; itХs used to store things like passwords so you donХt have to enter them more than once. You can remove persistent cookies by following directions provided in your Internet browserХs "help" file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
+A cookie is a small text file that is stored on a user�s computer for record-keeping purposes. We use cookies on this site. We use both session ID cookies and/or persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time; it�s used to store things like passwords so you don�t have to enter them more than once. You can remove persistent cookies by following directions provided in your Internet browser�s "help" file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
 
 Some of our business partners or linked sites may use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by [www.angelsoft.net](http://www.angelsoft.net/) only and does not cover the use of cookies by any third parties linked to this site.
 
 Clear Gifs (Web Beacons/Web Bugs)
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a userХs computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customersХ personally identifiable information. 
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user�s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers� personally identifiable information. 
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
 
@@ -76,4 +76,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20060422025531id_/http%3A//www.angelsoft.net/contact.html)
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20061208124300id_/http%3A//www.angelsoft.net/contact.html)
