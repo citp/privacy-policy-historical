@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211902id_/http%3A//emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208232232id_/http%3A//www.emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
 
 # Emerson Ecologics - Privacy Statement
 
@@ -8,7 +8,6 @@
 [REGISTER NOW](http://www.emersonecologics.com/PreRegistration.asp "New Customer Registration")  
 [ORDER NOW](http://www.emersonecologics.com/FindProduct.asp?M=O "Search for and Order Products")  
 \----------------------------  
-[PRODUCT SPECIALS](http://www.emersonecologics.com/Specials.asp "Current Promotions and Specials")  
 [PRODUCT SEARCH](http://www.emersonecologics.com/FindProduct.asp "Search or Browse Products")  
 [PRODUCT QUALITY](http://www.emersonecologics.com/ProductQuality.asp "Product Quality")  
 \----------------------------  
@@ -16,8 +15,7 @@
 [CLINICAL TOOLS](http://www.emersonecologics.com/Tools.asp "Research & Resources")  
 \----------------------------  
 [CONTACT US](http://www.emersonecologics.com/ContactUs.asp "Question or Comments?")  
-[ABOUT US](http://www.emersonecologics.com/AboutUs.asp "Service - Selection - Solutions")  
-   
+[ABOUT US](http://www.emersonecologics.com/AboutUs.asp "Service - Selection - Solutions")   
    
 Search Newswire  
 [](http://www.emersonecologics.com/NewswireArchive.asp)  
