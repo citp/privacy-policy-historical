@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615065329id_/http%3A//confirmit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208072753id_/http%3A//www.confirmit.com/privacy) for the most accurate reproduction.*
 
 # Survey software, online survey software - Confirmit
 
