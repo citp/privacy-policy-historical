@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200408id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208184624id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.*
 
-# Salon.com
+# Salon: Salon Policy
 
 **Salon.com Privacy Policy**
 
@@ -23,6 +23,8 @@ Other companies which place advertising on our site also have the ability to ass
 **Salon Premium**
 
 In order to subscribe, subscribers to our Salon Premium service provide Salon with personal information including name, address, e-mail address and credit card information. Salon keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
+
+Salon Premium members have the opportunity to sign up for certain third party offers which may include, but aren't limited to, magazine subscriptions and online services. Salon shares the least amount of personal information necessary to fulfill these offers with the third party responsible for the offer. In the case of a magazine subscription this information would include a member's name and shipping address. Third parties may have different policies governing the use of personal information. 
 
 At the time of registering for their subscription, Salon Premium subscribers are asked whether they wish to receive e-mail from Salon, such as notification of new Premium benefits. Salon does not reuse or resell the list of users who have "opted in" to such mailings. 
 
@@ -48,7 +50,7 @@ Salon.com offers an "e-mail a friend about this story" feature, allowing site vi
 
 Salon.com visitors who register for our Table Talk community area provide us with a name, password and a working e-mail address. We use this information to set up your account. We do not sell or redistribute the Table Talk membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Table Talk or as needed to resolve issues that may arise with your Table Talk account. The e-mail address you register with Salon.com will be posted in Table Talk if and when you post comments there, but you are free at any time to substitute an alternate e-mail address if you wish to keep the one you initially registered private. Participants in Table Talk are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum. For related information see the [Salon Table Talk FAQ page](http://tabletalk.salon.com/Helpfile/FAQ.html).
 
- **Promotion**
+**Promotion**
 
 From time to time, Salon.com may sponsor sweepstakes, contests or other events which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. Salon may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user's consent, and Salon.com will request that such named sponsors uphold the privacy of the registrants' information by not distributing or sharing such information with any other businesses or organizations.
 
