@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629234431id_/http%3A//epltalk.com/text/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208025722id_/http%3A//epltalk.com/text/privacy.asp) for the most accurate reproduction.*
 
-# EPL Talk: Privacy Policy
+# EPL Talk: Privacy Policy.
 
 EPL Talk respects your right to privacy, and we've created this Customer Privacy Policy (our "Privacy Policy") to address these important issues. By visiting our Website, you are accepting the practices described in this Privacy Policy.
 
