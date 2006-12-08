@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conqueryourniche.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023903id_/http%3A//www.conqueryourniche.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conqueryourniche.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208013347id_/http%3A//www.conqueryourniche.com/privacy.html) for the most accurate reproduction.*
 
 # Back Issues From Conquer Your Niche
 
