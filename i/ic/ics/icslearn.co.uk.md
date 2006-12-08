@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501192525id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208171101id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -49,7 +49,7 @@ At any time you may ask us to:
 
 Unless exceptional circumstances apply, ICS will not charge individuals for processing any request or complaints.
 
-You can contact us by calling (0044) 141 229 2126 or emailing us at [dataservices@ics-uk.co.uk](mailto:dataservices@ics-uk.co.uk) or writing to us at:  
+You can contact us by calling (0044) 141 221 2926 or emailing us at [dataservices@ics-uk.co.uk](mailto:dataservices@ics-uk.co.uk) or writing to us at:  
 ICS Limited  
 1st Floor  
 45 Finnieston Street  
