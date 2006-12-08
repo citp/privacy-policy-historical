@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020025id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208160934id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
 
 # Girl Scouts of the USA: Privacy Policy
 
@@ -24,7 +24,7 @@ Note to Parents on Our Privacy Policy
 
 Girl Scouts of the USA is committed to providing a safe, secure, and fun online experience for children who visit our site. We are dedicated to safeguarding any personal information collected online and to helping parents and children have positive experiences on the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
 
-Parents can revoke their consent and ask that information about their children be deleted from the site by contacting our offices by phone at (800) GSUSA 4 U or via email emailus@girlscouts.org. To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
+Parents can revoke their consent and ask that information about their children be deleted from the site by contacting our offices by phone at (800) GSUSA 4 U or via [email](https://web.archive.org/contact/email.asp). To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
 
 Girl Scouts believes it is good policy not to collect more personally identifiable information from children under 13 than is necessary for them to participate in our online activities. In addition, be aware that all sites that are targeted to children under 13 are prohibited by law from collecting more information than they need.
 
