@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indialist.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621030227id_/http%3A//indialist.com/indian-classified/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialist.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208104853id_/http%3A//indialist.com/indian-classified/privacypolicy.shtml) for the most accurate reproduction.*
 
-# IndiaList.com
+# Privacy Policy - IndiaList.com
 
 IndiaList.com is committed to safeguarding your privacy online. The following policy acts as a guide inenabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time. 
 
