@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616010022id_/http%3A//www.gobignetwork.com/HelpFiles/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208202224id_/http%3A//www.gobignetwork.com/HelpFiles/privacy.aspx) for the most accurate reproduction.*
 
-# Go Big Network - find funding, small business help, startup community
+# Go BIG Network : The BIGGEST network for STARTUP opportunities!
 
 **Privacy Policy**
 
