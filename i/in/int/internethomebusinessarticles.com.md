@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internethomebusinessarticles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044448id_/http%3A//www.internethomebusinessarticles.com//00privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internethomebusinessarticles.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208075533id_/http%3A//www.internethomebusinessarticles.com//00privacy.php) for the most accurate reproduction.*
 
 # Submit, Share, Distribute News And Articles. Free free content, RSS and Javascript feeds.
 
-[Click Here](http://www.malkeenan.com/recommends/submityourarticle.html) to  
+[Click Here](http://www.malkeenan.com/rotator/index.php) to  
 Automatically Submit  
 Your Articles to  
 Thousands of Publishers
@@ -19,7 +19,7 @@ Thousands of Publishers
 [Most Emailed ](http://www.internethomebusinessarticles.com/articlelistview/mail)  
 [Article Ratings ](http://www.internethomebusinessarticles.com/articlelistview/rate)  
 **For Publishers**  
-[Article submission service](http://www.malkeenan.com/recommends/submityourarticle.html)  
+[Article submission service](http://www.malkeenan.com/rotator/index.php)  
 [Free Email Alert](http://www.internethomebusinessarticles.com/subscribe.php)  
 [Manage Subscriptions](http://www.internethomebusinessarticles.com/subscribe.manage.php)  
 **Guidelines**  
