@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creme-magazine.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506223538id_/http%3A//www.creme-magazine.com/companylinks/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creme-magazine.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208112645id_/http%3A//www.creme-magazine.com/companylinks/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
 
 # Crème Magazine - Private Policy
 
@@ -29,5 +29,3 @@ With respect to cookies: We do not set any cookies. If you do not want to receiv
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address.
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations. With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-
-[HOME](http://www.creme-magazine.com/)
