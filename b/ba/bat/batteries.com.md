@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201746id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208041625id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
