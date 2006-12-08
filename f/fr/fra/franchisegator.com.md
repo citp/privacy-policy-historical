@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002108id_/http%3A//franchisegator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208165433id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
 
 # Franchise and Business Opportunities for Entrepreneurs
 
@@ -18,13 +18,15 @@ Franchise Gator, LLC. [www.franchisegator.com](https://web.archive.org/), takes 
 
 **IP Addresses:** FranchiseGator also compiles your IP address (the location of your computer on the Internet) for administrative purposes only. We do not collect any personally identifiable information through your IP addresses or the location of your computer on the Internet.
 
-Also, please note that this Web site contains [business links](https://web.archive.org/business_franchise_tools.html) to other Web sites. FranchiseGator and its' affiliates are not responsible for the content or the privacy policies of any Web sites to which you may link. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites.
+**Cookie data:** FranchiseGator also, in some cases, allows third-party sources to collect cookie data from visitors to our site to increase the relevance of our advertising. At no point, however, is this data married, shared, compared, or otherwise combined with personally identifiable information that our users submit.
 
-If you would like to [contact us](https://web.archive.org/contact.html) or have questions about or [privacy policy](https://web.archive.org/privacy.html) please email us at [info@franchisegator.com](mailto:info@franchisegator.com).
+Also, please note that this Web site contains [business links](https://web.archive.org/business_franchise_tools.html) to other Web sites. FranchiseGator and it's affiliates are not responsible for the content or the privacy policies of any Web sites to which you may link. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites.
+
+If you would like to [contact us](https://web.archive.org/contact.html) or have questions about or privacy policy please email us at: [info@franchisegator.com](mailto:info@franchisegator.com).
 
 Franchise Gator, LLC  
-101 Macy Drive  
-Roswell, GA 30076
+599 W. Crossville Road  
+Roswell, GA 30075
 
   
 
