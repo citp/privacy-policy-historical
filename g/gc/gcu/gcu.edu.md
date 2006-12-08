@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620090037id_/http%3A//www.gcu.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208010445id_/http%3A//www.gcu.edu/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Grand Canyon University
 
 **Grand Canyon University Privacy Policy**  
 
@@ -30,7 +30,7 @@ Security and your rights
 Personal information collected from visitors is protected using encrypted websites with Secure Sockets Layer (SSL) protocol. Grand Canyon University does not sell or rent any personal information to third parties and abides by all laws concerning the release of personal information. You may make a request to be removed from our mailing lists by simply contacting the university and providing your name, address, email address, etc. If you do not wish to receive marketing email, please submit a request to the following website: http://unsubscribe.gcu-online.com/unsubscribe/ or by emailing admissionsonline@gcu.edu. Information provided to us will be held confidential and will be used for company purposes only, except as required by law. 
 
 Limitations  
-Grand Canyon University may provide links to other websites. In addition, there are many websites that may link directly to Grand Canyon University. Grand Canyon University does not endorse these third party websites or the content presented. This privacy statement only applies to information collected on www.gcu.net, www.gcu.edu, www.grand-canyon.edu, and http://my.gcu.edu. We encourage you to review the privacy policy of each website you visit.
+Grand Canyon University may provide links to other websites. In addition, there are many websites that may link directly to Grand Canyon University. Grand Canyon University does not endorse these third party websites or the content presented. This privacy statement only applies to information collected on www.gcu.edu, www.gcu.edu, www.grand-canyon.edu, and http://my.gcu.edu. We encourage you to review the privacy policy of each website you visit.
 
 More information  
 For additional information about Grand Canyon University’s privacy policy, please contact us at: 
@@ -39,6 +39,6 @@ Grand Canyon University
 Department M100  
 3300 W. Camelback Road  
 Phoenix, Arizona 85017  
-Email: [webmaster@gcu.net](mailto:webmaster@gcu.net)
+Email: [webmaster@gcu.edu](mailto:webmaster@gcu.edu)
 
 *The information on this page is subject to change at anytime. Please re-visit this website for the most current information regarding our Privacy Statement.
