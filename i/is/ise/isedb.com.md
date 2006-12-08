@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425042315id_/http%3A//isedb.com/db/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208163455id_/http%3A//www.isedb.com/db/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
