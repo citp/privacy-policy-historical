@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616025419id_/http%3A//www.delphiglass.com/index.cfm%3Fpage%3Dmain_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208212009id_/http%3A//www.delphiglass.com/index.cfm%3Fpage%3Dmain_security) for the most accurate reproduction.*
 
-# Delphi - Security and Privacy Info
+# Security and Privacy Info at DelphiGlass.com
 
 |  **Safe Shopping Guarantee**  
 Your credit card information is safe with us! Our 128-bit encryption technology is considered the best available today for secure e-commerce transactions, so that you never have to worry about credit card safety. Period.  
