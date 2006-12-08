@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616010600id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208202731id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
 
 # Ringtones, Cell Phone Wallpapers, Mobile Phone Games and more - Flycell - Privacy Policy
 
@@ -10,7 +10,7 @@ Your FLYCELL account
 When you sign up with FLYCELL, you establish a password-protected personal account for ordering ringtones, graphics, games and other items and services. 
 
   
-In order to establish your private FLYCELL account and/or place an order, we need some personal information from you. This information may include contact information (such as name, email, cell phone number and address) and certain billing information (such as credit card number and expiration date.) 
+In order to establish your private FLYCELL account and/or place an order, we need some personal information from you. This information may include contact information (such as name, email, cell phone number and address) and certain billing information, like a new cell phone number or change of carrier. 
 
 We may occasionally request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and mailing address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the FLYCELL service.
 
@@ -18,7 +18,7 @@ We may occasionally request information from users via surveys or contests. Part
 To update your personal information, simply sign in and go to _My Account_ from your personal home page. You may also contact our Support team by writing [help@flycell.com](mailto:help@flycell.com). You can make changes to your account information at any time.
 
   
-FLYCELL uses industry best practices to protect your information and your privacy. When your password or credit card number are requested on the site, we use SSL to present secure pages to protect that information.
+Flycell uses industry best practices to protect your information and your privacy. When any personal information is requested on the site we use SSL to present secure pages to protect that it.
 
 You can tell if you are using a secure server by looking at the bottom of your browser window. In Netscape Navigator or Internet Explorer, you will see a lock icon. When the symbol is unbroken or the padlock appears to be in its closed state, the page is encrypted and therefore secure. If you wish to take advantage of the latest encryption standards, be sure you have the latest version of the browser you're using. You can download the latest version from the Netscape or Microsoft Web sites. Beta versions of browsers are not recommended.
 
@@ -33,7 +33,7 @@ The personal information that you provide is an important part of our business. 
   
 Cookies are pieces of information that your browser receives from Web sites and stores on your computer's hard drive. Information in cookies includes preferences you select while visiting a particular Web site. For example, by storing cookies on your hard drive, you'll return to a specific Web site with the same settings you used on a previous visit.
 
-FLYCELL never saves information such as your password or your credit card number on cookies. We do require cookies in order to manage and protect your FLYCELL session, and if you choose, to store your e-mail address (so you don't have to type it in every time you log in). If you have cookies turned off, you will not be able to access the FLYCELL service.
+FLYCELL never saves your personal information on cookies. We do require cookies in order to manage and protect your FLYCELL session, and if you choose, to store your e-mail address (so you don't have to type it in every time you log in). If you have cookies turned off, you will not be able to access the FLYCELL service.
 
   
 Our servers store IP addresses for all connections to the service. This data is analyzed in the aggregate and is not linked to your personal account.
@@ -59,6 +59,6 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 |  |   
 QUESTIONS? 
 
-If you have a question that is not answered here, please use the [Contact Support](https://web.archive.org/support?PHPSESSID=968b255decbcfd182f2f05c73afc46a0) page.  
+If you have a question that is not answered here, please use the [Contact Support](https://web.archive.org/support) page.  
   
 ---|---|---
