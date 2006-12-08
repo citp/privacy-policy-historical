@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyshopping.go.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012400id_/http%3A//disney.go.com/corporate/privacy/pp_dsi.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyshopping.go.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208213608id_/http%3A//disney.go.com/corporate/privacy/pp_dsi.html) for the most accurate reproduction.*
 
 # Privacy Policy for Disney Shopping, Inc.
 
@@ -183,8 +183,8 @@ Q7. | Do California residents have special rights?
 A7. | Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacyinfo@disneyshopping.com](mailto:privacyinfo@disneyshopping.com) or write us: 
 
 Disney Shopping, Inc. Information  
-P.O. Box 29146  
-Shawnee Mission, KS 66201-9146 
+3805 Furman Fendley Hwy.  
+Jonesville, SC 29353 
   
 back to top of policy  
 back to top of page  
