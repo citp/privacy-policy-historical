@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021749id_/http%3A//www.brighamandwomens.org/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208084524id_/http%3A//www.brighamandwomens.org/general/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ Brigham and Women's Hospital wants any personal information that you provide to 
 
 Certain interactive patient transactions may be linked to this site as a convenience for you. If you choose to utilize a specific patient application, please be sure to read the privacy policy associated with that particular transaction. Partners Patient Gateway, which offers patients secure electronic messaging to participating  Brigham and Women's Hospital practices, is an example of such a patient application.
 
-Please note that the [Partners Privacy Notice](http://www.brighamandwomens.org/family/privacynoticesall.asp) more generally explains the hospital’s and Partners’ commitment to protect the privacy of personal health information. 
+Please note that the [Partners Privacy Notice](http://www.brighamandwomens.org/family/privacynoticesall.aspx) more generally explains the hospital’s and Partners’ commitment to protect the privacy of personal health information. 
 
 **6. Your Consent**
 
