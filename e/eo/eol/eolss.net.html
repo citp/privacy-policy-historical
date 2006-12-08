@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eolss.net privacy policy that was archived on 2006-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060426110443id_/http%3A//www.eolss.net/eolss_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eolss.net privacy policy that was archived on 2006-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061208205531id_/http%3A//www.eolss.net/eolss_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -33,7 +33,6 @@ if (document.all || document.layers)
    }
 		//-->
 	</script>
-
 
 
 
@@ -107,8 +106,120 @@ sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menub
 //-->
 
 </script>
+<script language="JavaScript"><!-- hide --
 
 
+
+/* Resource Clock
+
+Counts the Earth's human population and acres of productive land based on information from the United Nations.
+
+
+
+Original script written by Kevin McCann, IDRC, March 1996.
+
+Revised and updated by John Stevenson, jhs@well.com.
+
+
+
+This script may be used, but please retain proper credit. Also, be aware
+
+that this script depends on data that is non-static - the starting land
+
+and population numbers, as well as their rates of increase/decrease are
+
+recalculated yearly. Check this site semi-regularly for the latest
+
+numbers.
+
+
+
+*/
+
+function counter()
+{
+
+    startpop 	= 	5946422755;
+
+ //   startland 	=  	8596978646;
+
+    poprate 	= 	2.4452;
+
+//    landrate 	= 	0.13035;
+
+
+
+    today = new Date();
+
+    startdatepop = new Date("February 1, 1999");
+
+//    startdateland = new Date("January 1, 1999");
+
+    offset = today.getTimezoneOffset() * 60 * 1000;
+
+
+
+    diffpop = (( today.getTime() + offset ) - startdatepop.getTime() ) / 1000;
+
+//    diffland = (( today.getTime() + offset ) - startdateland.getTime() ) / 1000;
+
+
+
+    var newpop = Math.ceil(startpop + (diffpop * poprate));
+
+    newpop = "" + newpop;
+
+
+
+//    var newland = Math.ceil(startland - (diffland * landrate));
+
+//    newland = "" + newland;
+
+
+
+    a1 = newpop.substring(0,1);
+
+    a2 = newpop.substring(1,4);
+
+    a3 = newpop.substring(4,7);
+
+    a4 = newpop.substring(7,10);
+
+
+
+    formpop = a1 + "," + a2 + "," + a3 + "," + a4; 
+
+
+
+//    b1 = newland.substring(0,1) ;
+
+//    b2 = newland.substring(1,4);
+
+//    b3 = newland.substring(4,7);
+
+//    b4 = newland.substring(7,10);
+
+
+
+//    formland = b1 + "," + b2 + "," + b3 + "," + b4;
+
+
+
+    document.time.pop.value = formpop;
+
+//    document.time.land.value = formland;
+
+
+
+    setTimeout('counter()',200);
+
+}
+
+// -- stop hiding -->
+
+
+</script>
+<link href="clock.css" type="text/css" rel="stylesheet">
 <style>
 
 BODY {  
@@ -185,18 +296,24 @@ Div.MainLink
 
 
 
-<body topmargin="0" leftmargin="0" onload="startBanners()" background="postert.jpg">
+<body topmargin="0" leftmargin="0" onload="startBanners();counter();" background="postert.jpg">
 		<!-- Start Toolbar-->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border-collapse: collapse" bordercolor="#111111" height="49">
 <tbody><tr>
-<td valign="top" height="49" width="300" colspan="2">
+<td valign="top" height="49" width="200" colspan="2">
 <img border="0" src="eolss_logo1.jpg" width="200" height="40"><font color="#ffffff" face="Verdana, Arial" size="1"><b>&nbsp;<font color="#ffffff">|</font>
 &nbsp;&nbsp; </b></font>
 </td>
 <td>
+<form name="time">
+<b><font size="2" color="brown" face="verdana">WORLD POPULATION</font></b><br><input class="clock" size="16" value="2.4452 increase per second" name="pop"> 
+</form>
+</td>
+<td>
+</td><td>
 
 <a href="http://www.eolss.net/eolss_order.aspx" name="banner" onmouseover="window.status=bannerStatus;return true" onmouseout="window.status='';return true">
-<img src="banner1.gif" name="banner" border="0" width="350" height="40" alt="Order now at special Educational Prices"></a>
+<img src="banner3.gif" name="banner" border="0" width="350" height="40" alt="Order now at special Educational Prices"></a>
 </td>
 </tr>
 </tbody></table>
@@ -235,49 +352,30 @@ Div.MainLink
 <table width="98%" border="0" cellspacing="10" cellpadding="0">
 <tbody><tr>
 <td valign="top">
-
-
 <div class="H1TOC">
 
 <dt><img src="bullet_r.gif">&nbsp;Login
-</dt></div>
-
-<div class="TOC">
-<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/LoginForm.aspx" target="_self">Members Login</a>
+</dt></div><div class="TOC">
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/LoginForm.aspx" target="_self">Individual Members Login</a>
 </dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://greenplanet.eolss.net/EolssLogn/InsLogin.aspx" target="_self">Access for  Institutions</a>
-</dt></div>
-
-
-
-<div class="H1TOC">
+</dt></div><div class="H1TOC">
 
 <hr size="1" noshade="">
 <dt><img src="bullet_r.gif">&nbsp;Free Registration
 
-</dt></div>
-
-<div class="TOC">
+</dt></div><div class="TOC">
 
 <dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/EolssRegister/Freecat.aspx" target="_self">Free Trial</a>
 </dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_edauthor.aspx" target="_self">Editors/Authors</a>
-</dt></div>
-
-<div class="H1TOC">
+</dt></div><div class="H1TOC">
 <hr size="1" noshade="">
 <dt><img src="bullet_r.gif">&nbsp;Subscription Information
-</dt></div>
-
-<div class="TOC">
+</dt></div><div class="TOC">
 <dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_signup.aspx">Subscription Information</a>
-</dt></div>
-<div class="H1TOC">
+</dt></div><div class="H1TOC">
 <hr size="1" noshade="">
 <dt><img src="bullet_r.gif">&nbsp;About EOLSS
-</dt></div>
-
-
-
-<div class="TOC">
+</dt></div><div class="TOC">
 
 
 
@@ -289,51 +387,71 @@ Div.MainLink
 
 </dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_FAQ.aspx">FAQ</a>
 
-</dt></div>
-
-
-
-<div class="TOC">
+</dt></div><div class="TOC">
 <hr size="1" noshade="">
 
 <dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_citations.aspx" target="_self">How to Cite EOLSS</a>
 
 </dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_librec.aspx" target="_self">Library Recommendation</a>
 
+</dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_bid.aspx" target="_self">Booksellers</a>
 </dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_publication.aspx" target="_self">Publications</a>
 
 </dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_crap.aspx" target="_self">Copyright Request</a>
 </dt><dt>&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/LoginEditor.aspx" target="_self">Kit for  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editors/Commissioners</a>
 
-</dt></div>
-
-<div class="H1TOC">
+</dt></div><div class="H1TOC">
 
 <hr size="1" noshade="">
 
 <dt><img src="bullet_r.gif">&nbsp;Services
 
-</dt></div>
-<div class="TOC">
+</dt></div><div class="TOC">
 
 
 
 <dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mail.jpg" border="0">&nbsp;<a href="http://www.eolss.net/Subscribe.aspx">Join Our Mailing List</a>
 </dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_feedback.aspx" target="_self">Feedback/Evaluation</a>
 </dt><dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="redball.gif" height="5" width="5">&nbsp;<a href="http://www.eolss.net/eolss_links.aspx" target="_self">Useful Links</a>
-</dt></div>
-<hr size="1" noshade="">
-<p>
+</dt></div><hr size="1" noshade=""><p>
 <!-- End Menu Items---- -->
+</p><table width="175">
 
 
-</p></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+</td>
 </tr>
 </tbody></table>
 </center>
 
 </td>
-<td valign="top" width="2" bgcolor="#21AEEF">
+<td valign="top" width="2" bgcolor="#21AEEF"><font color="#21AEEF" size="1">.</font>
 </td>
 
 
