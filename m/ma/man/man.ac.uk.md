@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the man.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003307id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the man.ac.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208102937id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy (The University of Manchester)
 
@@ -10,7 +10,7 @@ Some parts of The University of Manchester website use cookies for security purp
 
 If you email us to ask a question, report a fault etc, we will only use the personal data you provide to reply to your message. We do not keep this information, or share it with any third party unless you have consented to this or this is so permitted by law.
 
-This privacy statement applies to centrally maintained University of Manchester web pages. It the user leaves this website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information which users have provided while visiting such websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
+This privacy statement applies to centrally maintained University of Manchester web pages. If the user leaves this website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information which users have provided while visiting such websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
 
 If you have any concerns about the use of the your personal data on this website, please contact [webteam@manchester.ac.uk](mailto:webteam@manchester.ac.uk).
 
