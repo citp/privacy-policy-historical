@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the legalserviceindia.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624182228id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalserviceindia.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208015942id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
 
 # Legal Service India
 
 **Legal Service India.com Privacy Notice**  
-March 1, 2002
+March 1, 2002/  Updated July 8th, 2006
 
 **Our Commitment To Privacy  
 **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -50,4 +50,4 @@ You can request a copy of the personally-identifiable information that Legal Ser
 If you would like to contact us for any reason regarding our privacy practices, kindly e-mail us at the following addresses:  
 **E-Mailing address** : 
 
-admin@legalserviceindia.com
+[admin@legalserviceindia.com](mailto:admin@legalserviceindia.com)
