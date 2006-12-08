@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221130129id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208144456id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
   
+
+
+**December 7, 2006** \- Thanks to all who donated in the server fund drive! To see if you were one of the prize winners, please check the message board thread [**here.**](http://heavyharmonies.ipbhost.com/index.php?showtopic=10792) _\- Dan_
+
   
 |  |   
 ---|---|---  
