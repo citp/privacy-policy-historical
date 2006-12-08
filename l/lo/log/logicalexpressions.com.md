@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610140114id_/http%3A//logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208013248id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions, Inc.
 
@@ -55,10 +55,4 @@ Logical Expressions, Inc.
 311 Fox Glen Road  
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636  
-E-mail: _webmaster_ AT logicalexpressions.com  |    
-  
-  
-  
-  
-  
-
+E-mail: _webmaster_ AT logicalexpressions.com  | 
