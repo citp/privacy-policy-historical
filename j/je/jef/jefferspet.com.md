@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2006-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060114183548id_/http%3A//www.jefferspet.com/ssc/about_privacy.asp%3FCID%3D0%26mscssid%3DDXTUQNWXNMBG9J0CTM7DE2UDUJBU08MD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208225632id_/http%3A//www.jefferspet.com/ssc/about_privacy.asp%3FCID%3D0%26mscssid%3DDVCR35P27FPR9NL6HP116753AD4T73P3) for the most accurate reproduction.*
 
 # Privacy Policy - Pet Supplies at Jeffers Pet: Online Pet Supplies, Wholesale Pet Supplies, Pet Supply Stores, Discount Pet Supplies
 
