@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmi.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618134427id_/http%3A//www.pmi.org/info/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmi.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208011508id_/http%3A//www.pmi.org/info/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # PMI's Privacy Policy
 
