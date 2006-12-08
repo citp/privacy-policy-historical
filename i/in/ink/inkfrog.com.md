@@ -1,51 +1,50 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319015759id_/http%3A//inkfrog.com/index.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209005336id_/http%3A//www.inkfrog.com/privacypolicy.php) for the most accurate reproduction.*
 
-# InkFrog.com - eBay auction management and image hosting
+# inkFrog - eBay auction management and image hosting
 
-At inkFrog, inc we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us: 
+**WHAT PERSONAL INFORMATION DOES INKFROG COLLECT AND WHY?**
 
-inkFrog, inc.  
-P.O. Box 915  
-Higley, Az 85236  
-email: privacy@inkfrog.com  
-Phone: 1-480-924-0594
+To provide you with the best service possible a Seller, we collect some or all of the following information:
 
-Will this information be shared with third parties?
+  * your name
+  * e-mail address
+  * eBay ID and password (password optional)
+  * telephone number
+  * shipping/mailing address
 
-No, inkFrog, inc. will never share your personal information to third parties without written consent from you. Of course this will not limit the use, disclosure, or distribution of personally identifiable information to the extent that such use, disclosure, or distribution is required by law, court order, or other valid legal process. 
 
-Does inkFrog, inc use cookies to keep track of my information?
 
-Yes, inkfrog.com utilizes cookies in order to allow us to help track the user through the site and keep them logged in to their account for the session time. Users have the right to disable cookies or not accept cookies. Please note, that cookies are required to utilize inkFrog's services. We use cookies to monitor the site usage and to help improve the way the site works. We do not disclose any information obtained from cookies to any third party.
+When you use inkFrog's services we track your activity on our website. Your personal information is used to identify you in our system allowing inkFrog to interact with eBay on your behalf. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and request.cookies duration. inkFrog uses this information to administer the site and to further improve our service to you. 
 
-What types of information does inkFrog collect?  
-Traditional contact information such as name, email address, mailing address, and phone number.  
-Demographic information on registration forms, if you choose to provide it. This information helps us understand the needs of our users and to improve the site.  
-Non-financial identification information, such as username and password combinations for use to login and track into our members area.  
-User content on our forums (if you choose to post in the forums). Note that information posted on the user forums will be displayed publicly, and will not be governed by this privacy policy.  
-Credit cards are collected for 'auto pay' if users choose to use this option. The information from these cards are taken over a secure connection (ssl) and encrypted before being stored in our database for security.   
-inkFrog uses 128 bit encryption technology to protect sensitive information such as password and credit card data.
+If you elect to receive emails updates from inkFrog, you will periodically receive e-mails from us updating you of significant events taking place at inkFrog. You can always unsubscribe from this list by following the "unsubscribe" instructions provided in the e-mail correspondences.
 
-  
-Log Files:  
-inkFrog tracks Information about the user's computer system, such as the web browser type, IP address, and operating system. This is used for logging purposes only and used to improve the inkFrog site. 
+**HOW DOES INKFROG USE YOUR INFORMATION?**
 
-Why do we collect this information?:   
-For website administration purposes.   
-To evaluate, review, or improve the website.   
-To customize the website for the user on multiple visits to the site.   
-To notify members of updates to the sites, and/or contact them to market products or services. Members will not be contacted for marketing purposes unless they "opt-in" to receive this information.
+inkFrog uses your information in two different ways:
 
-We do not supplement Personally identifiable information collected on the site with information from other sources.
+  1. complete transactions between the Seller and eBay
+  2. research usage patterns based on the information provided to us during registration, and from our server log files. We do this to better understand your needs and enhance our service to you.
 
-inkFrog desires to maintain accurate information about you. You may review or change your personally identifiable information on webpages within our site at any time. After logging in, click the "account info" link, and click on "edit. If for some reason you cannot access these pages, you may send updates and corrections about your information to our customer support department at http://www.inkfrog.com/index.php?file=support.
 
-Changes to this policy:
 
-You will be notified of any material change to this privacy policy or material change in the collection, use or disclosure of personally identifiable information prior to making the changes. We will a)post prominent notices on the site for 14 days prior to implementation of any change and b)send an administrative e-mail to all users affected by the change 14 days prior to implementation of any change, with a description of how you may exercise any applicable choice.
+**WITH WHOM DOES INKFROG SHARE YOUR INFORMATION?**
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at http://www.inkfrog.com/index.php?file=support.
+We pass on your eBay ID and password using TCP/IP to eBay each time that you transact with them. You may always change or eliminate a eBay ID and password from our system by visiting the "mySD" section of our website and updating our records. 
 
-If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
+Please note that inkFrog has links to other web sites. When you click on one of these links, you leave inkFrog and go to another web site. We encourage you to read the privacy statements of these sites, to which we link, as their privacy policy may differ from ours.
 
-The effective date of this privacy policy is March 1, 2005.
+**WHAT ARE "COOKIES" AND HOW ARE THEY USED?**
+
+A "cookie" is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. Your browser must allow cookies in order for you to use the inkFrog service. We use cookies to hold information, such as a login ID, so you don't need to re-enter information each time you utilize a inkFrog service during a request.cookies. We also use cookies to provide customized and personalized services to you. Should you choose to set your browser to reject cookies, you will render it nearly impossible to use sites that set and use cookies, including inkFrog.
+
+**HOW CAN I REVIEW AND CHANGE MY INFORMATION AND CANCEL MY SPAREDOLLAR ACCOUNT?**
+
+You can edit and change your information in your inkFrog account, including your password, at any time in the "preferences" section of the inkFrog website. Should you forget your password, inkFrog can send it to you immediately via e-mail, at your request. To cancel your account, please send an email to  [ support@inkfrog.com](mailto:support@sparedollar.com).
+
+**HOW I WILL KNOW ABOUT CHANGES TO INKFROG'S PRIVACY POLICY**
+
+If we decide to change our privacy policy, we will post those changes on the "Start Page" of our site so that our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of this posting. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+**QUESTIONS OR CONCERNS**
+
+If you have questions or concerns regarding inkFrog's privacy policy, kindly contact inkFrog by e-mail at  [ privacy@inkfrog.com](mailto:privacy@sparedollar.com).
