@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doi.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013455id_/http%3A//doi.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doi.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208021234id_/http%3A//www.doi.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,10 +10,10 @@ The IDF sponsors both public and private web-based mailing lists, both for discu
 
 Individuals may decide to send email to contact@doi.org containing comments about the site or requests for information, in which they may include personally identifying information. That information is used only to enable the IDF staff to respond. 
 
-Information gathered via forms, in particular registration forms made available for those parties wishing to join the IDF or register for an upcoming workshop, is never released outside of the organization.
+Information gathered via forms, in particular registration forms made available for those parties wishing to join the IDF or register for an upcoming workshop, is never released outside of the organization. 
 
 The IDF does not control the privacy policies of any other sites to which we provide hyperlinks. Voluntarily disclosing personal information on sites hyperlinked to / from this site would be done at your own risk. 
 
 Updated 31 December 2003 
 
-DOI and DOI.ORG are registered in the U.S.Patent and Trademark Office. 
+DOI® and DOI.ORG® are registered trademarks and the "doi>" logo is a trademark of the International DOI Foundation. 
