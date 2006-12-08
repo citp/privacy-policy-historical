@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617154137id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208173710id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Hitachi Data Systems: Privacy Policy
 
@@ -76,7 +76,7 @@ HDS does not retain all of the data that we receive. Contact information about v
 
 **Your Choices**
 
-HDS respects your right to make your own choices about how your personal data is handled. Should you choose to subscribe to mailing lists or any registrations, and later decide to unsubscribe we will provide instructions, on the appropriate web site area or in communications to you or you may contact HDS at [privacy@hds.com](mailto:privacy@hds.com). In addition access to certain applications or services may involve particular uses, disclosure or transfer of the personal information being collected during registration for that application or service. If required under the laws of your country of residence, you will be notified of such intended uses, transfer or disclosure and asked to provide your consent. Failure to provide you consent where so requested may mean you will not be provided access to the applications or services for which your personal information can not be lawfully processed.
+HDS respects your right to make your own choices about how your personal data is handled. Should you choose to subscribe to mailing lists or any registrations, and later decide to unsubscribe we will provide instructions, on the appropriate web site area or in communications to you or you may contact HDS at [privacy@hds.com](mailto:privacy@hds.com). In addition access to certain applications or services may involve particular uses, disclosure or transfer of the personal information being collected during registration for that application or service. If required under the laws of your country of residence, you will be notified of such intended uses, transfer or disclosure and asked to provide your consent. Failure to provide your consent where so requested may mean you will not be provided access to the applications or services for which your personal information can not be lawfully processed.
 
 **Accuracy, Access & Further Notification**
 
