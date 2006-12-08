@@ -1,38 +1,8 @@
-> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617040038id_/http%3A//intouchweekly.hollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208140553id_/http%3A//intouchweekly.hollywood.com/privacy) for the most accurate reproduction.*
 
 # In Touch Weekly
 
 | 
-
-  * Jen looks pregnant!  
-The success of _The Break-Up_ has strengthened Jennifer Aniston and Vince Vaughn’s bond, and now some people close to the actress think even bigger developments — like a baby — could be in the cards!  
-
-  * Brad and Angelina’s emotional week  
-As Brad Pitt and Angelina Jolie left Namibia for LA they did so with mixed emotions. Eager as they were to bring their new baby, Shiloh, home, it was also hard to say goodbye to a country that welcomed them so warmly.   
-
-  * Time is running out for Kevin  
-Despite Britney Spears’ recent claims that nothing is wrong with her marriage to Kevin Federline, insiders insist trouble is brewing!  
-
-  * Jessica’s message to Nick  
-Jessica Simpson wants her ex, Nick Lachey, to know that she’s feeling stronger than ever.  
-
-  * Nicole’s new man!  
-Move over Adam “DJ AM” Goldstein, Nicole Richie’s found a new main man!  
-
-  * In Touch With: Sandra Bullock  
-Wedded bliss came as a surprise to Sandra Bullock.  
-
-  * Passion for Fashion  
-Make sure not to miss Fashion Close-up’s hippest contributors, The Fug Girls, Heather and Jessica, in the magazine. You can also check out their website, [gofugyourself.com](http://www.gofugyourself.com/), for more hilarious fashion mistakes.  
-
-
-
-
-**[Click here for more!](https://web.archive.org/inthisissue.asp) **
-
-****
-
-|  | 
 
 We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read In Touch's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at mail@intouchweekly.com.   
 Remember, if you submit any personal information to us via this web site, you agree to the terms of this Policy. 
