@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516203526id_/http%3A//sorel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208072940id_/http%3A//sorel.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Sorel :: Privacy Policy
+# Sorel : Privacy Policy
 
 | 
 
@@ -46,7 +46,7 @@ Attn: Webmaster
 14375 N.W. Science Park Dr.  
 Portland, OR 97229 
 
-For Canadian warranty inquiries, please contact: [Canadaservices@columbia.com](mailto:Canadaservices@columbia.com)
+For Canadian warranty inquiries, please contact: [ Canadaservices@columbia.com](mailto:Canadaservices@columbia.com)
 
 
 |   
