@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615062353id_/http%3A//vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208055904id_/http%3A//vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42: Terms and Conditions
 
@@ -32,7 +32,7 @@ You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threate
 
 This forum system uses cookies to store information on your local computer. These cookies do not contain any of the information you have entered above; they serve only to improve your viewing pleasure. The e-mail address is used only for confirming your registration details and password (and for sending new passwords should you forget your current one)."
 
-#### Children’s Privacy
+#### Children�s Privacy
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Vertex42.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
 
