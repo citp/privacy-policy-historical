@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428013431id_/http%3A//www.salford.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208035850id_/http%3A//www.isd.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | University of Salford - A Greater Manchester University
+# Privacy |Data protection | Legislation | Information governance | Information Services Division | University of Salford - A Greater Manchester University
 
 ## Our commitment to privacy
 
@@ -8,7 +8,7 @@ University of Salford is committed to respecting and protecting your privacy as 
 
 **This notice describes how information about you may be used and disclosed, and how you can get access to this information. Please review it carefully.**
 
-The policy may change from time to time so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our Privacy Statement.
+The statement may change from time to time so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our Privacy Statement.
 
 ## Who is collecting the information?
 
@@ -43,7 +43,7 @@ The following information is collected with your permission at this website:
 
 
 
-## How do we use the information we collect?
+### How do we use the information we collect?
 
 The information we gather automatically and with your permission during your visit to our website is used in the following ways:
 
@@ -56,7 +56,7 @@ The information we gather automatically and with your permission during your vis
 
 
 
-## With whom will the information be shared?
+### With whom will the information be shared?
 
 The personally identifiable information gathered during your visit to this website is not shared with any organization for any purpose.
 
@@ -74,11 +74,11 @@ Upon request we provide site visitors with access to:
 
 
 
-### How to access and correct personal information 
+### How to access and correct personal information
 
 Consumers can access and request correction to this information by:
 
-  * Sending us e-mail to that effect at: [webmaster@salford.ac.uk](mailto:webmaster@salford.ac.uk)
+  * Sending us e-mail to that effect at: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)
 
 
 
@@ -145,19 +145,19 @@ At this time, we do not partner with or have special relationships with any adve
 
 ## Links to other sites
 
-Websites often provide a number of links that offer direct access to other useful or interesting websites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement of the material or information on the other sites. Users are encouraged to review the privacy policy of each linked site before sharing personal information.
+Websites often provide a number of links that offer direct access to other useful or interesting websites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement of the material or information on the other sites. Users are encouraged to review the privacy statement of each linked site before sharing personal information.
 
 This site includes links to non-affiliated external websites. We have the following practices:
 
-  * We encourage users to review the privacy policy of each linked site, as we cannot be responsible for the privacy practices of other sites
+  * We encourage users to review the privacy statement of each linked site, as we cannot be responsible for the privacy practices of other sites
 
 
 
-## Changes in our privacy policy
+## Changes in our privacy statement
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we have the following practices:
 
-  * We will use for these new purposes only data collected from the time of the policy change forward.
+  * We will use for these new purposes only data collected from the time of the statement change forward.
 
 
 
@@ -165,20 +165,22 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 You may prevent your information from being used for purposes other than those for which it was originally collected by:
 
-  * Sending us e-mail to that effect at: [webmaster@salford.ac.uk](mailto:webmaster@salford.ac.uk)
+  * Sending us e-mail to that effect at: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)
 
 
 
 ## Website contact information
 
-If you have questions about our privacy policy, or feel that this site is not following its stated information policy, please contact us.
+Please contact us If you have questions about our privacy statement.
 
 University of Salford  
 The Crescent  
 Salford, Lancashire, M5 4WT
 
-Contact: Patrick H. Lauke  
-E-mail: [webmaster@salford.ac.uk](mailto:webmaster@salford.ac.uk)  
-Telephone: +44 (0) 161 2954779
+Contact: Matthew Stephenson  
+E-mail: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)  
+Telephone: +44 (0) 161 2953152
 
-This privacy statement was last modified on February 16, 2004.
+This privacy statement was last modified on 15 May 2006. 
+
+This information was provided by Matthew Stephenson on 01/06/06 
