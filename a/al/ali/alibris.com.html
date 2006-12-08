@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alibris.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615015016id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alibris.com privacy policy that was archived on 2006-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061208125455id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.-->
 
 <html><head><title>Alibris: Privacy Policy</title>
 
@@ -7,12 +7,10 @@
 
 	<title>Alibris: Used, New and Out-of-Print Books, Music and Movies</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="author" content="webmaster@alibris.com">
-	<link rel="author" title="author" href="mailto:webmaster@alibris.com">
 	<meta name="robots" content="All">
 	<meta name="rating" content="General">
 	<meta name="distribution" content="Global">
-	<meta name="copyright" content="1995-2004 Alibris">
+	<meta name="copyright" content="1995-2006 Alibris">
 	<meta name="DESCRIPTION" content="Millions of used books, new books, out-of-print books, rare books, music and movies from thousands of independent sellers worldwide.">
 	<meta name="KEYWORDS" content="used books,out of print books,new books,rare books,antiquarian books,bookstores,booksellers,first editions,antiquarian,second hand books,book seller,book search,bookshop,online bookstore,bookstore,textbooks,authors,novels,literature,classics,history,fiction,ephemera,mystery,thrillers,nonfiction,politics,art books,photography,biographies,christian,religion,science fiction,poetry,poets,childrens books,fantasy, travel,fairy tales,hard to find books,buecher,buch,libri,libros,livros,livro,livre,livres">
 	<link href="/style.css" rel="stylesheet" type="text/css">
@@ -24,46 +22,7 @@
 
 	<script language="javascript1.1">cmSetProduction();</script>
 
-<script language="JavaScript">
-<!--
-//for deactivating nav email submission where field is empty
-function navcheckEmail(navForm) {
-	var newstring = navForm.email.value.replace(/\s/g, "");
-	if (newstring.length) return true;
-	else return false;
-}
-
-var isNetscape = false;
-var isIE = false;
-var isWhoKnows = false;
-
-//This determines which browser the user is using
-if (parseInt(navigator.appVersion) >= 4) {
-  if(navigator.appName == "Netscape") {
-    isNetscape = true;
-  }else if (navigator.appName == "Microsoft Internet Explorer"){
-    isIE = true;
-  }else {
-    isWhoKnows = true;
-  }
-}
-
-//This stuff captures the events of the user
-if(isNetscape) {
-	document.captureEvents(Event.KEYUP);
-}
-
-//for enabling ENTER button to submit quick search in Netscape
-function entsub(event,ourform) {
-	if(isNetscape) {
-		if (event && event.which == 13)
-			ourform.submit();
-		else
-			return true;
-	}
-}
-//-->
-</script>
+<script language="javascript1.1" type="text/javascript" src="/web.js"></script>
 
 
 
@@ -89,9 +48,13 @@ function entsub(event,ourform) {
 			<area shape="default" nohref="">
 		</map>
 		<map name="m_site-legend">
-			<area shape="rect" coords="5,40,144,63" href="http://www.alibris.com/help/faq/quick_buy.cfm?S=R" title="QuickBuy help">
-			<area shape="rect" coords="5,101,144,124" href="http://www.alibris.com/books/in_our_warehouse.cfm?cm_sp=saveship_a*gtk*lhs_bottom" title="Super Value Shipping help">
+			<area shape="rect" coords="5,40,144,63" href="http://www.alibris.com/help/faq/quick_buy.cfm" title="QuickBuy help">
 
+			<area shape="rect" coords="5,101,144,124" href="http://www.alibris.com/books/in_our_warehouse.cfm?cm_sp=saveship*gtk*lhs_bottom" title="Super Value Shipping help">
+	
+			<area shape="rect" coords="4,151,141,174" href="http://www.alibris.com/help/holiday_exp.cfm">
+			<area shape="rect" coords="5,213,142,236" href="http://www.alibris.com/help/faq/gift.cfm">
+	
 			<area shape="default" nohref="">
 		</map>
 
@@ -194,7 +157,7 @@ function entsub(event,ourform) {
 
 				<td valign="top" bgcolor="#fffff2" width="9"><img src="/images/nav/beige50_grad_bg1.gif" alt="" height="50" width="9" border="0"></td>
 				<td valign="top" bgcolor="#fffff2">
-
+	
 					<table width="175" border="0" cellspacing="0" cellpadding="0">
 					<form action="http://www.alibris.com/search/search.cfm" method="post" name="navsearch"></form>
 					<input type="hidden" name="S" value="R">
@@ -251,35 +214,25 @@ function entsub(event,ourform) {
 						</tr>
 					
 					</tbody></table>
-
-
-					
-					<table width="175" border="0" cellspacing="0" cellpadding="0" background="/images/nav/alibris_news.gif">
-					<form action="http://www.alibris.com/newsletter_add.cfm?S=R" method="post" onsubmit="return(navcheckEmail(this));"></form>
-					<input type="hidden" name="S" value="R">
-					<input type="hidden" name="email_type" value="0">
-						<tbody><tr>
-							<td><img src="/images/elements/spacer.gif" alt="" height="20" width="18" border="0"></td>
-							<td><img src="/images/elements/spacer.gif" alt="" height="95" width="18" border="0"><br>
-								<span class="searchcontent">my email address<br>
-								</span><input type="text" name="email" maxlength="50" size="15"> <input type="image" src="/images/nav/send.gif" alt="Send!" height="23" width="46" border="0"><br>
-								<a href="http://www.alibris.com/unsubscribe.cfm?S=R" class="accnav1">unsubscribe here<br>
-									<br>
-								</a></td>
-						</tr>
-					
-					</tbody></table>
+	
+					<div style="margin: 10px 0 7px 0; padding: 0;"><a href="/help/holiday_exp.cfm"><img src="/images/promos/shipping_hol_06_get_174.gif" alt="Learn how to get your gifts by Dec 23." width="174" height="90" border="0"></a></div>
+		
+					<div style="margin: 10px 0 7px 0; padding: 0;"><a href="/books/in_our_warehouse.cfm?cm_sp=shipping*free_f90sm*lhs"><img src="/images/promos/shipping_free_disc_sm.gif" width="174" height="47" border="0"></a><br>
+						<a href="/help/consolidatedshipping.cfm?cm_sp=shipping*disc_f90sm*lhs"><img src="/images/promos/shipping_free_disc_sm_bottom.gif" width="174" height="43" border="0"></a></div>
+		
 					<a href="https://www.alibris.com/account/list.cfm?S=R"><img src="/images/nav/account.gif" alt="account" height="22" width="175" border="0"></a><table width="175" border="0" cellspacing="1" cellpadding="9" bgcolor="#dbdbb2">
 						<tbody><tr>
 							<td class="accnav" bgcolor="white"><a href="http://www.alibris.com/search/cart.cfm?S=R" class="accnav">your shopping cart</a><br>
 								<a href="https://www.alibris.com/account/list.cfm?S=R" class="accnav">order status</a><br>
 								<a href="http://www.alibris.com/wish/list.cfm?S=R" class="accnav">wish list</a><br>
+	
 								<a href="http://www.alibris.com/bookfetch/home.cfm?S=R" class="accnav">book fetch</a><br>
+	
 								<a href="https://www.alibris.com/account/list.cfm?S=R" class="accnav">order history</a><br>
 								<a href="https://www.alibris.com/account/list.cfm?S=R" class="accnav">preferences</a><br>
-								
+	
 									<a href="https://www.alibris.com/account/login.cfm?S=R&amp;cm_re=allnav*leftnav*login" class="accnav">log in</a><br>
-								
+	
 								<img src="/images/elements/spacer.gif" alt="" height="5" width="10" border="0"><br>
 								<img src="/images/nav/dotted_line_account.gif" alt="" height="6" width="140" border="0"><br>
 								<img src="/images/elements/spacer.gif" alt="" height="5" width="10" border="0"><br>
@@ -287,8 +240,7 @@ function entsub(event,ourform) {
 							</td>
 						</tr>
 					</tbody></table>
-					<img src="/images/nav/site-legend3.gif" alt="" width="174" height="170" border="0" usemap="#m_site-legend"><br>
-					<p>
+					<img src="/images/nav/site-legend2.gif" alt="" width="174" height="255" border="0" usemap="#m_site-legend"><br>
 					<table width="175" border="0" cellspacing="0" cellpadding="0">
 						<tbody><tr>
 							<td><img src="/images/elements/spacer.gif" alt="" height="25" width="15" border="0"></td>
@@ -323,7 +275,22 @@ function entsub(event,ourform) {
 							<td><a href="http://www.alibris.com/help/help-home.cfm?S=R" class="helplink">help</a></td>
 						</tr>
 					</tbody></table>
-					</p>
+					
+					<table width="175" border="0" cellspacing="0" cellpadding="0" background="/images/nav/alibris_news.gif">
+					<form action="http://www.alibris.com/newsletter_add.cfm?S=R" method="post" onsubmit="return(navcheckEmail(this));"></form>
+					<input type="hidden" name="S" value="R">
+					<input type="hidden" name="email_type" value="0">
+						<tbody><tr>
+							<td><img src="/images/elements/spacer.gif" alt="" height="20" width="18" border="0"></td>
+							<td><img src="/images/elements/spacer.gif" alt="" height="95" width="18" border="0"><br>
+								<span class="searchcontent">my email address<br>
+								</span><input type="text" name="email" maxlength="50" size="15"> <input type="image" src="/images/nav/send.gif" alt="Send!" height="23" width="46" border="0"><br>
+								<a href="http://www.alibris.com/unsubscribe.cfm?S=R" class="accnav1">unsubscribe here<br>
+									<br>
+								</a></td>
+						</tr>
+					
+					</tbody></table>
 				</td>
 
 				<td valign="top" bgcolor="#fffff2"><img src="/images/nav/beige50_grad_bg1.gif" alt="" height="50" width="11" border="0"></td>
@@ -345,7 +312,7 @@ function entsub(event,ourform) {
 		
 		  <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Your privacy 
 			matters to us<br>
-			</b></font><font face="Arial, Helvetica, sans-serif" size="2">Welcome 
+			</b>Welcome 
 			to Alibris. Because we are committed to protecting your privacy in 
 			all aspects of our business, we hope you will take the time to read 
 			this policy, which explains what information we collect from you and 
@@ -353,7 +320,7 @@ function entsub(event,ourform) {
 			or services from us, you agree to be bound by this policy. If we decide 
 			to change our privacy policy, we will post those changes on this page 
 			so that you are always aware of what information we collect and how 
-		  we use it. Please check back periodically!</font></p>
+		  we use it. Please check back periodically.</font></p>
 		  <p><font face="Arial, Helvetica, sans-serif" size="2"><b>What information 
 			we collect and how we use it</b><br>
 			When you visit our Web site, Alibris collects your IP address, which 
@@ -363,37 +330,14 @@ function entsub(event,ourform) {
 			personally identify you.<br>
 			<br>
           To request more information about an item, you must provide your e-mail 
-          address so that the seller may reply to your question by e-mail. Alibris 
-          is not responsible for the protection of your e-mail address if you 
-          contact a Seller.<br>
-			<br>
-          To order from us you must set up an Alibris account. Setting up an account 
-          requires you to provide your email address and choose a password (your 
-          "Account Information"). When you order from us, we also ask 
-          for your name, shipping address, telephone number, and your credit card 
-          number, billing address, and expiration date (your "Order Information"). 
-          This information is necessary for us to process your order, to notify 
-          you of your order status, and to fulfill orders. To process and fulfill 
-          orders of Seller items that usually ship in 2 to 3 business days to 
-          United States and Canadian customers we provide the Seller with your 
-          shipping address, but do not provide any more personal information such 
-          as your e-mail address or billing information.<br>
-			<br>
-			If you subscribe to the Alibris newsletter, we may use your Account 
-			Information and Order Information to occasionally notify you about 
-			important changes to the Web site, new Alibris features, or special 
-			Alibris offers you may find useful. If you would rather not receive 
-			this information, visit the Your Account page to change your preferences. 
-			You always have the ability to change your preferences. If you have 
-			chosen to receive this information and change your mind, visit the 
-			Your Account page to change your preferences. (Whenever you decide 
-			to change your preferences, please make sure to change your preferences 
-			for each account or email address you have left with us.)<br>
-			<br>
-			You may also choose to provide personal information, such as your 
-			name and address, when you enter a contest or drawing or participate 
-			in a survey. We may use this information the same way we use your 
-			Account Information and Order Information.</font></p>
+        address so that the seller may reply to your question by e-mail.</font></p>
+		  <p><font face="Arial, Helvetica, sans-serif" size="2">To order from us, you must set up an Alibris account. Setting up an account requires you to provide your e-mail address and to choose a password (your "Account Information"). When you order from us, we also ask for your name, shipping address, telephone number, and your credit card number, billing address, and expiration date (your "Order Information"). This information is necessary for us to process your order, to notify you of your order status, and to fulfill orders.<br>
+	  			<br>
+		  	To process and fulfill orders of Seller items,  we provide the Seller with your shipping address, but do not provide any more personal information such as your e-mail address or billing information. The Seller may not use your personal information for any purpose other than those related to the fulfillment of your order. <br>
+	  			<br>
+		  	If you subscribe to the Alibris newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Web site, new Alibris features, or special Alibris offers you may find useful. If you would rather not receive this information, visit the <a href="/account/login.cfm">Your Account</a> page to change your preferences. You always have the ability to change your preferences. If you have chosen to receive this information and change your mind, visit the <a href="/account/login.cfm">Your Account</a> page to change your preferences. (Whenever you decide to change your preferences, please make sure to change your preferences for each account or e-mail address you have left with us.)<br>
+					<br>
+		  	You may also choose to provide personal information, such as your name and address, when you enter a contest or drawing or participate in a survey. We may use this information the same way we use your Account Information and Order Information.</font></p>
 		  <p><font face="Arial, Helvetica, sans-serif" size="2"><b>How we protect 
 			your information</b><br>
 			This Web site has security measures in place to protect the loss, 
@@ -409,8 +353,7 @@ function entsub(event,ourform) {
           our rights and property, (3) protect our customers or users from misuse 
           or unauthorized use of the Alibris Web site, (4) protect the personal 
           safety or property of our customers or the public, or (5) to fulfill 
-          orders of Seller items that usually ship in 2 to 3 business days to 
-          United States and Canadian customers.<br>
+          orders of Seller items.<br>
 			<br>
           Alibris may provide aggregate statistics about our customers, sales, 
           traffic patterns, and related Web site information to third parties, 
@@ -451,17 +394,17 @@ function entsub(event,ourform) {
 		  <p><font face="Arial, Helvetica, sans-serif" size="2"><b>How to contact 
 			us</b><br>
 			Alibris welcomes your questions and comments about privacy. Please 
-			send email to <a href="mailto:feedback@alibris.com">feedback@alibris.com</a>. 
+			send e-mail to <a href="mailto:feedback@alibris.com">feedback@alibris.com</a>. 
 			You can also contact us at the address below:<br>
 			<br>
 			Alibris<br>
 			1250 45th Street<br>
 			Suite 100<br>
 			Emeryville, CA 94608<br>
+			<br>
 			510-594-4500</font></p>
 		
-	  
-    </td>
+	      </td>
     <td width="32" height="723"><img height="31" width="30" src="/images/elements/spacer.gif"></td>
   </tr>
 </tbody></table>
@@ -494,6 +437,9 @@ function entsub(event,ourform) {
 						<a href="http://www.alibris.com/" class="footer" title="Alibris: Buy used books, new &amp; out-of-print books, new &amp; used textbooks">Alibris Home</a> | <a href="http://www.alibris.com/librarians/librarians-home.cfm" class="footer">For Libraries</a> | <a href="http://www.alibris.com/search/search.cfm?S=R" class="footer">Search</a> | <a href="http://www.alibris.com/subjects/browse_all_subjects.cfm" class="footer">Browse Subjects</a> | <a href="http://www.alibris.com/books/top-selling_authors.cfm" class="footer">Browse Authors</a> | <a href="http://www.alibris.com/books/isbns/0" class="footer">Browse ISBNs</a> <br>
 						<a href="http://www.alibris.com/help/shipping.cfm?S=R" class="footer">Shipping Info</a> | <a href="https://www.alibris.com/account/list.cfm?S=R" class="footer">Order Status</a> | <a href="http://www.alibris.com/policies/returns.cfm?S=R" class="footer">Satisfaction Guarantee</a> | <a href="http://www.alibris.com/policies/privacy.cfm?S=R" class="footer">Privacy Policy</a> | <a href="http://www.alibris.com/policies/terms.cfm?S=R" class="footer">Terms of Use</a> <br>
 						<a href="http://www.alibris.com/help/help-home.cfm?S=R" class="footer">Help</a> | <a href="http://www.alibris.com/contact/contact-home.cfm?S=R" class="footer">Contact Us</a> | <a href="http://www.alibris.com/about/about-home.cfm?S=R" class="footer">About Us</a> | <a href="http://sellers.alibris.com/" target="_new" class="footer">Seller Services</a> | <a href="http://www.alibris.com/affiliates/affiliates-home.cfm?S=R" class="footer">Join Affiliates</a> <br>
+	
+						International: <a href="http://www.alibris.co.uk/" class="footer">Alibris U.K.</a> <br>
+	
 						<br>
 						<span class="footer">
 						<a href="http://www.alibris.com/policies/copyright.cfm?S=R" class="footer">Copyright © 1998 - 2006 Alibris. All rights reserved. Alibris and BookMate are trademarks of Alibris</a><br>
