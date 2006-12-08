@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231165341id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208013409id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
 
 # Online Personal Credit Reports & Credit Scores - TrueCredit
 
@@ -26,7 +26,7 @@ If you indicate to us that you are interested in receiving information regarding
   
 ---  
   
-If you order a credit report that we make available to you on-line, as part of our normal services the report will be available for you to review online for a period of 30 days. As a service to you, we will send you three emails: a first email that is a receipt of your purchase, a second email notifying you that your 30 days will expire soon and a third email notifying you that your 30 days has expired. Some of our membership products (such as Credit Monitor) may include alert emails sent weekly and/or monthly. Such emails are part of the membership benefits and persons that become members do not have the option of not receiving such emails.   
+When you order an online credit report, it will be available for your review for a period of 30 days. As a service to you, we will email you a receipt of your purchase. If you purchase a credit report (rather than a subscription), then we will also send you a second email alerting you that the 30-day viewing of your report will soon expire. Some of our membership products, such as Credit Monitoring, may also include alert emails that are sent on a daily, weekly or monthly basis. These emails are part of the membership benefits and cannot be disabled for persons who are members of these products.   
   
 **Ordering**  
   
