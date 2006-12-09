@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027191916id_/http%3A//www.nl.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209195936id_/http%3A//www.nl.edu/privacy) for the most accurate reproduction.*
 
 # National-Louis University Privacy Policy
 
