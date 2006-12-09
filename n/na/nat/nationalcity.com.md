@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614165706id_/http%3A//www.nationalcity.com/about/privacy.asp%3FWT.svl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209173218id_/http%3A//www.nationalcity.com/about/privacy.asp%3FWT.svl%3D1) for the most accurate reproduction.*
 
 # Privacy Notice - About National City - National City Corporation
 
@@ -46,9 +46,10 @@ Information we collect
 Security procedures  
 Information we disclose  
 Fair Credit Reporting Act Disclosure | National City's Pledge  
+Children's Online Privacy & Protection  
 Effective date and changes  
 National City companies  
-[Privacy notice FAQs](https://web.archive.org/web/20060614165706id_/http%3A//about/privacyfaq.asp)  
+[Privacy notice FAQs](https://web.archive.org/web/20061209173218id_/http%3A//about/privacyfaq.asp)  
 ---|---  
    
 OPT-OUT: We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.  
@@ -69,7 +70,7 @@ We may collect nonpublic personal information about you from the following sourc
 
   * Information that you provide to us, such as on applications or other forms
   * Information about your transactions with us, our affiliates or others, or
-  * Information from others, such as credit bureaus, real estate appraisers, and employers
+  * Information from others, such as credit bureaus, real estate appraisers, and employers 
 
 
 
@@ -85,9 +86,9 @@ Back to top
 Information we disclose  
 National City does not disclose nonpublic personal information about you to any companies that are not members of our corporate family (“third parties”), except as permitted by federal law, specifically Title V of the Gramm-Leach-Bliley Act of 1999. The confidentiality of your nonpublic personal information will continue to be maintained consistent with this privacy notice even if you decide to close your account(s), your account becomes inactive, or when you otherwise cease to do business with us.
 
-National City works with a variety of third parties to bring you financial services. We disclose information about you as necessary to fulfill these third party service agreements. For example, we may disclose information about you to third parties that assist us in servicing or maintaining your loan or deposit account, or other business relationship, such as printing checks or billing you for loan payments.
+National City works with a variety of third parties to bring you financial services. We disclose information about you as necessary to fulfill these third party service agreements. For example, we may disclose information about you to third parties that assist us in servicing or maintaining your loan or deposit account, or other business relationship, such as printing checks or billing you for loan payments. We may also disclose information about you to governmental entities, such as sending annual income statements to the IRS, and to other third parties such as credit bureaus, or in response to subpoenas.
 
-We may also disclose information about you to governmental entities, such as sending annual income statements to the IRS, and to other third parties such as credit bureaus, or in response to subpoenas. We may disclose all of the information we collect, as described above, to third parties that perform marketing services on our behalf or to other financial institutions, such as insurance providers, with whom we have joint marketing agreements in order to make a variety of financial services available to you*. These third parties must agree to strict confidentiality provisions to assure the protection of your information. Because we already limit the sharing of your nonpublic personal information as outlined above, no action is necessary on your part to limit such sharing.
+We may disclose all of the information we collect, as described above, to third parties that perform marketing services on our behalf or to other financial institutions, such as insurance providers, with whom we have joint marketing agreements in order to make a variety of financial services available to you*. These third parties must agree to strict confidentiality provisions to assure the protection of your information. Because we already limit the sharing of your nonpublic personal information as outlined above, no action is necessary on your part to limit such sharing.
 
 Back to top   
   
@@ -108,6 +109,12 @@ We believe that your privacy should never be compromised. At the same time, we w
 Back to top   
   
    
+Children's Online Privacy Protection Act  
+We do not collect any information on our Web site from children under the age of 13. Under the Children's Online Privacy Protection Act, operators of commercial Web sites or online services directed to children under 13 must provide clear notice and require parental consent before actively or passively collecting individually identifiable information about a child. National City does not engage in this practice.
+
+Back to top   
+  
+   
 Effective dates and changes  
 The effective date of this Privacy Notice is provided below. Any updates or changes to the Notice will be posted on this web site. Consumers who are National City customers will be notified of updates and changes in accordance with federal law.
 
@@ -115,14 +122,14 @@ Back to top
   
    
 National City companies  
-National City Bank, National City Bank of Kentucky, NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Home Loan Services, Inc., First Franklin Financial Corporation, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Company, National City Insurance Group, Inc., National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware, Allegiant Asset Management Company, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC, Pioneer Bank and Trust Company
+National City Bank, NatCity Investments, Inc., National City Insurance Agency of Pennsylvania, Inc., Sterling Private Investments, Inc., National City Home Loan Services, Inc., First Franklin Financial Corporation, Allegiant Asset Management Company, Allegiant Insurance Services Co., National City Insurance Group, Inc., National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC, Chippewa Valley Title Agency. Inc. 
 
 Back to top   
   
    
-* Vermont Residents Only: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. California Residents: We will not disclose or share information about California residents without first providing you with a California Privacy Notice and honoring your choice unless such sharing or disclosure is permitted by applicable law.  
+* Vermont Residents: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. California Residents: We will not disclose or share information about California residents without first providing you with a California Privacy Notice and honoring your choice unless such sharing or disclosure is permitted by applicable law.   
    
-(rev 05/2006)  
+(rev 10/2006)  
 |  |   
 ---|---  
 |   
