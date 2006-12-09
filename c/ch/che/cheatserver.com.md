@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613023801id_/http%3A//www.cheatserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209233303id_/http%3A//cheatserver.com/privacy.asp) for the most accurate reproduction.*
 
 # Cheat Server Privacy Statement
 
