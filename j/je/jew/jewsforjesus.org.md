@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jewsforjesus.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222849id_/http%3A//www.jewsforjesus.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewsforjesus.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209230523id_/http%3A//www.jewsforjesus.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policies of Jews for Jesus
+# Privacy Policies of Jews for Jesus - Jews for Jesus
+
+## Privacy Policy
 
 Jews for Jesus has created the following privacy statement in order to disclose our information-gathering and dissemination practices for the web sites attached to jewsforjesus.org domain and all sub-domains thereof, including but not limited to: [www.jewsforjesus.org](http://www.jewsforjesus.org/), [store.jewsforjesus.org](http://store.jewsforjesus.org/). 
 
