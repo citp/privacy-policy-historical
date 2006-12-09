@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418020647id_/http%3A//www.lydiasuniforms.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210005322id_/http%3A//www.lydiasuniforms.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Scrubs Nursing Uniforms–Cheap Discount Nurse Scrubs
+# Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
+
+| 
 
 [Privacy Policy](http://www.lydiasuniforms.com/privacy_policy.htm#PRIVACY%20POLICY)  
 [Security Statement](http://www.lydiasuniforms.com/privacy_policy.htm#SECURITY%20STATEMENT)  
@@ -10,11 +12,11 @@
 [Use of Cookies](http://www.lydiasuniforms.com/privacy_policy.htm#USE%20OF%20COOKIES)  
 [Links](http://www.lydiasuniforms.com/privacy_policy.htm#LINKS)
 
- **  
-** **PRIVACY POLICY** **  
-**LydiasUniforms.com values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. LydiasUniforms.com recognizes that it must maintain and use customer information responsibly.    
- **  
-**Complying with the Children's Online Privacy Protection Act of 1998,
+**  
+****PRIVACY POLICY** **  
+** LydiasUniforms.com values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. LydiasUniforms.com recognizes that it must maintain and use customer information responsibly.   
+**  
+** Complying with the Children's Online Privacy Protection Act of 1998, 
 
 we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.  If we become aware that a subscriber is under the age of 13 and has signed up without prior verifiable parental consent, we will remove his or her personally identifiable information from our files.
 
@@ -62,5 +64,9 @@ We also use cookies to track and maintain the identity of the website you visite
 You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a signed up user to allow you access to your account information.
 
 **LINKS   
-**For your convenience, our website may contain links to other sites. LydiasUniforms.com is not responsible for the privacy practices or the content of such Web sites. ****  
+**For your convenience, our website may contain links to other sites. LydiasUniforms.com is not responsible for the privacy practices or the content of such Web sites. ****
 
+What our customers are saying about us:   
+
+
+|  | 
