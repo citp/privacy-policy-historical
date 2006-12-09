@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529100845id_/http%3A//www.innerrange.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209033244id_/http%3A//www.innerrange.com/Privacy.htm) for the most accurate reproduction.*
 
 # Inner Range - Privacy Statement
 
@@ -86,6 +86,6 @@ Victoria, 3180
 Australia   
 Tel: +61 3 9753 3488   
 Fax: +61 3 9753 3499   
-email: [admin@innerrange.com](mailto:admin@innerrange.com)
+email:  [admin@innerrange.com](mailto:admin@innerrange.com)
 
 Top
