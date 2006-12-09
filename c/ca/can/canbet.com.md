@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629165043id_/http%3A//canbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209183541id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Canbet.com - Privacy Policy
 
@@ -78,6 +78,10 @@ You can control the use of this data by setting your browser to notify you when 
 Remember to close your browser when you have finished your user session. This is particularly necessary if you share a computer with someone else, or you access a computer in a public place.
 
 You, as an individual, are responsible for the security of, and access to, your own computer. Ultimately, you are solely responsible for maintaining the secrecy of your username, password and account information. Please exercise extreme care when you are using the Internet and our website/s.
+
+## Unsubscribe
+
+In order to communicate important account and promotional information, you will receive e-mail and hard mail from us. Should you not wish to receive communications of this nature, please e-mail our [Customer Services Department](http://www.canbet.com/aboutus/contactus.aspx) to indicate your communication preferences. 
 
 ## Further Information
 
