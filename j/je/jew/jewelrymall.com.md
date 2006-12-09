@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrymall.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004841id_/http%3A//jewelrymall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrymall.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209043229id_/http%3A//www.jewelrymall.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -13,4 +13,4 @@ Jewelry Mall Privacy Policy:
   * If you have any additional questions about Jewelry Mall's dedication to consumer privacy, please contact us at: [webmaster@jewelrymall.com](mailto:webmaster@jewelrymall.com)
   * As an additional note although SPAM is not considered strictly a privacy issue at this time we do not use SPAM in our promotions and if we become aware of any of the companies we list using SPAM we will eliminate their listing from our site
 
-
+| 
