@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redirectme.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024929id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redirectme.net privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209233037id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP.com - The Dynamic DNS Leader
 
