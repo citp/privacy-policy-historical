@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealthmag.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512082039id_/http%3A//www.naturalhealthmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthmag.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209073006id_/http%3A//www.naturalhealthmag.com/privacy) for the most accurate reproduction.*
 
 # Natural Health
 
