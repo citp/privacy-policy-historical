@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015454id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209022659id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
 # HM Revenue & Customs: Privacy Policy
 
@@ -33,7 +33,7 @@ The [Internet Advertising Bureau](http://www.iab.net/standards/privacy.asp " thi
 Sometimes we tag pages on the site when we are promoting various campaigns. These tags are provided by our ad management partners, DoubleClick and Atlas. These tags enable DoubleClick and Atlas to recognise a unique cookie on your browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with DoubleClick and Atlas. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. There is more information about DoubleClick and Atlas - including information about how to opt out of these technologies - on their websites.
 
   * Privacy information about [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy " this link will open a page in a new browser window on a non-UK Government website") (this link will open a new window) 
-  * Privacy information about [Atlas](http://www.atdmt.com/privacy/general " this link will open a page in a new browser window on a non-UK Government website") (this link will open a new window) 
+  * Privacy information about [Atlas](http://www.atlassolutions.com/privacy/general/ " this link will open a page in a new browser window on a non-UK Government website") (this link will open a new window) 
 
 
 
@@ -81,4 +81,4 @@ We will post details of any changes to our Privacy Policy on the website to help
 
 This Privacy Policy was last updated May 2006.
 
-[Menu ](https://web.archive.org/web/20060615015454id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
+[Menu ](https://web.archive.org/web/20061209022659id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
