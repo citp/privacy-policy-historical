@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619062557id_/http%3A//www.qj.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209204415id_/http%3A//www.qj.net/privacy) for the most accurate reproduction.*
 
-# QJ.NET - Quick Journal "Blog of Blogs" - The best of all QJ Blogs - Privacy Policy
+# Privacy Policy - PS3 News, Wii News, Xbox 360 News, PSP News and more!
 
 PRIVACY POLICY 
 
@@ -16,4 +16,4 @@ The Company does not sell, rent or lease its client lists to third parties. The 
 
 The Company keeps track of the websites and pages our client's visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. 
 
-The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Content Holdings, LLC , but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
+The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Content Holdings, LLC , but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public.
