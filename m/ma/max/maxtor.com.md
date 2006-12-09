@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxtor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013629id_/http%3A//maxtor.com/portal/site/Maxtor/menuitem.ff4aba9b5a1543271400585760b46068%3Fchannelpath%3D/en_us/General/Maxtor%2520Corporation%2520Information/Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxtor.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209124031id_/http%3A//www.maxtor.com/portal/site/Maxtor/menuitem.ff4aba9b5a1543271400585760b46068%3Fchannelpath%3D/en_us/General/Maxtor%2520Corporation%2520Information/Privacy%2520Statement) for the most accurate reproduction.*
 
 # Maxtor.com - Privacy Statement
 
