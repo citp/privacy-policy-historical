@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ingles-markets.com privacy policy that was archived on 2006-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618191241id_/http%3A//www.ingles-markets.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ingles-markets.com privacy policy that was archived on 2006-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209190614id_/http%3A//www.ingles-markets.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Ingles Markets -Online Privacy Policy</title>
@@ -46,11 +46,11 @@
 
 <tr>
 
-<td><img src="/header/hed_search.gif"></td>
+<td><img src="/christmas_art/hed_search.gif" width="57" height="20"></td>
 
 <td><input type="text" name="zoom_query" size="10" value="recipe"></td>
 
-<td> <input type="image" value="Go" src="/header/go.gif" width="30"></td>
+<td> <input type="image" value="Go" src="/christmas_art/go.gif" width="24" height="20" hspace="3"></td>
 
 </tr>
 
@@ -81,8 +81,10 @@
 
 
 			<li><a href="/" title="Home">Home</a></li>
+			
+			<li><a href="/whatsnew/" title="What's New">What's New at Ingles</a></li>
 
-			<li><a href="/giftcard/order" title="Current Ad Pages">Order Gift Cards</a></li>
+			<li><a href="/giftcard/" title="Current Ad Pages">Order Gift Cards</a></li>
 
 			<li><a href="/weekly/" title="Current Ad Pages">Current Ad Pages</a></li>
 
@@ -381,7 +383,101 @@ Asheville, NC 28816<br>
 		©2004 Ingles Markets, Inc. | <a href="http://www.ingles-markets.com/privacy.php">Privacy Policy</a> | <a href="http://www.ingles-markets.com/tou.php">Web Site Terms &amp; Conditions</a> | <a href="http://www.ingles-markets.com/contact_info.php">Contact Information</a> | <a href="http://www.ingles-markets.com/help/">Help</a> | <a href="http://www.ingles-markets.com/sitemap.php">Site Map</a>
 
 
-	</div>
+<script type="text/javascript">
+
+/******************************************
+* Snow Effect Script- By Altan d.o.o. (http://www.altan.hr/snow/index.html)
+* Visit Dynamic Drive DHTML code library (http://www.dynamicdrive.com/) for full source code
+* Last updated Nov 9th, 05' by DD. This notice must stay intact for use
+******************************************/
+  function openwindow(){
+window.open("index.php","","width=1000,height=170")
+}
+
+  //Configure below to change URL path to the snow image
+  var snowsrc="http://www.ingles-markets.com/christmas_art/snow.gif"
+  // Configure below to change number of snow to render
+  var no = 10;
+  // Configure whether snow should disappear after x seconds (0=never):
+  var hidesnowtime = 0;
+  // Configure how much snow should drop down before fading ("windowheight" or "pageheight")
+  var snowdistance = "pageheight";
+
+///////////Stop Config//////////////////////////////////
+
+  var ie4up = (document.all) ? 1 : 0;
+  var ns6up = (document.getElementById&&!document.all) ? 1 : 0;
+
+	function iecompattest(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+	}
+
+  var dx, xp, yp;    // coordinate and position variables
+  var am, stx, sty;  // amplitude and step variables
+  var i, doc_width = 1000, doc_height = 170; 
+  
+  if (ns6up) {
+    doc_width = self.innerWidth;
+    doc_height = self.innerHeight;
+  } else if (ie4up) {
+    doc_width = iecompattest().clientWidth;
+    doc_height = iecompattest().clientHeight;
+  }
+
+  dx = new Array();
+  xp = new Array();
+  yp = new Array();
+  am = new Array();
+  stx = new Array();
+  sty = new Array();
+  snowsrc=(snowsrc.indexOf("www.ingles-markets.com")!=-1)? "http://www.ingles-markets.com/christmas_art/snow.gif" : snowsrc
+  for (i = 0; i < no; ++ i) {  
+    dx[i] = 0;                        // set coordinate variables
+    xp[i] = Math.random()*(doc_width-50);  // set position variables
+    yp[i] = Math.random()*doc_height;
+    am[i] = Math.random()*20;         // set amplitude variables
+    stx[i] = 0.02 + Math.random()/10; // set step variables
+    sty[i] = 0.7 + Math.random();     // set step variables
+		if (ie4up||ns6up) {
+      if (i == 0) {
+        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><a href=\"http://dynamicdrive.com\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
+      } else {
+        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
+      }
+    }
+  }
+
+  function snowIE_NS6() {  // IE and NS6 main animation function
+    doc_width = ns6up?window.innerWidth-10 : iecompattest().clientWidth-10;
+		doc_height = 170;
+    for (i = 0; i < no; ++ i) {  // iterate for every dot
+      yp[i] += sty[i];
+      if (yp[i] > doc_height-50) {
+        xp[i] = Math.random()*(doc_width-am[i]-30);
+        yp[i] = 0;
+        stx[i] = 0.02 + Math.random()/10;
+        sty[i] = 0.7 + Math.random();
+      }
+      dx[i] += stx[i];
+      document.getElementById("dot"+i).style.top=yp[i]+"px";
+      document.getElementById("dot"+i).style.left=xp[i] + am[i]*Math.sin(dx[i])+"px";  
+    }
+    snowtimer=setTimeout("snowIE_NS6()", 18);
+  }
+
+	function hidesnow(){
+		if (window.snowtimer) clearTimeout(snowtimer)
+		for (i=0; i<no; i++) document.getElementById("dot"+i).style.visibility="hidden"
+	}
+		
+
+if (ie4up||ns6up){
+    snowIE_NS6();
+		if (hidesnowtime>0)
+		setTimeout("hidesnow()", hidesnowtime*1000)
+		}
+
+</script><div id="dot0" style="position: absolute; z-index: 0; visibility: visible; top: 75.596px; left: 448.994px;"><a href="http://dynamicdrive.com"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></a></div><div id="dot1" style="position: absolute; z-index: 1; visibility: visible; top: 35.7941px; left: 1234.65px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot2" style="position: absolute; z-index: 2; visibility: visible; top: 67.5529px; left: 538.539px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot3" style="position: absolute; z-index: 3; visibility: visible; top: 38.9614px; left: 30.7681px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot4" style="position: absolute; z-index: 4; visibility: visible; top: 52.9829px; left: 800.568px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot5" style="position: absolute; z-index: 5; visibility: visible; top: 55.865px; left: 1255.08px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot6" style="position: absolute; z-index: 6; visibility: visible; top: 92.2841px; left: 378.875px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot7" style="position: absolute; z-index: 7; visibility: visible; top: 61.9992px; left: 462.146px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot8" style="position: absolute; z-index: 8; visibility: visible; top: 102.588px; left: 101.383px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div><div id="dot9" style="position: absolute; z-index: 9; visibility: visible; top: 36.3908px; left: 992.639px;"><img src="http://www.ingles-markets.com/christmas_art/snow.gif" border="0"></div>	</div>
 </div>
 
 
