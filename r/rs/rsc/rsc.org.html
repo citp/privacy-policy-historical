@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rsc.org privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615024904id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rsc.org privacy policy that was archived on 2006-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209191548id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -8,7 +8,8 @@
 <link rel="stylesheet" href="/_stylesheets/corporate.css" type="text/css">
 <link rel="stylesheet" href="/_stylesheets/rscextra.css" type="text/css">
 <link rel="stylesheet" href="/_stylesheets/print.css" type="text/css" media="print">
-<script type="text/javascript" language="Javascript" src="/binaries/commonjs_tcm15-6161.js"></script>
+
+<script type="text/javascript" src="/binaries/commonjs_tcm15-6161.js"></script>
 <link rel="SHORTCUT ICON" href="http://www.rsc.org/favicon.ico" type="image/x-icon">
 </head>
 
@@ -23,11 +24,15 @@
 </h1>
 
 <ul>
+<li><a href="/Shop/index.asp" title="Online Shop">Online Shop</a></li>
+
+<!--- <li><a href="/help/sitemap.asp" title="Sitemap">Sitemap</a></li> --->
+
 <li><a href="/AboutUs/contacts/" title="Contact us">Contact us</a></li>
 <li><a href="http://google.rsc.org/search?ie=&amp;site=my_collection&amp;output=xml_no_dtd&amp;client=my_collection&amp;access=p&amp;lr=&amp;ip=194.216.110.2&amp;proxystylesheet=my_collection&amp;oe=&amp;proxycustom=&lt;ADVANCED/&gt;" title="Advanced search">Advanced search</a></li>
-<!---
-<li><a href="/sitemap/sitemap.html" title="Sitemap">Sitemap</a></li>
--->
+
+
+
 </ul>
 <br class="cl">
 </div> <!-- end #title -->
@@ -38,10 +43,24 @@
 
 <p id="sectiontitle"></p>
 
-<form name="gs" method="GET" action="http://google.rsc.org/search">
+<form id="gs" method="get" action="http://google.rsc.org/search">
 
-<input type="text" name="q" class="text" maxlength="256" value="Site Search" onclick="JavaScript:if(document.gs.q.value.indexOf('Site Search')!=-1){document.gs.q.value='';}">
-                        &nbsp;<input type="image" class="submit" src="/images/designimages/submit_go_secbar_corporate_1.gif" alt="Go">
+
+<script>
+<!--
+  function clrsearch()
+   {  
+     var searchbox = document.getElementById("q");
+     if(searchbox.value.indexOf('Site Search')!=-1)
+       {
+          searchbox.value='';
+       }
+   }
+-->
+</script>
+
+<input type="text" name="q" id="q" class="text" maxlength="256" value="Site Search" onclick="clrsearch();">&nbsp;<input type="image" class="submit" src="/images/designimages/submit_go_secbar_corporate_1.gif" alt="Go">
+
 
  <input type="hidden" name="ie" value="">
  <input type="hidden" name="site" value="my_collection">
@@ -56,7 +75,6 @@
 
 <form action="#" method="post" id="areas" name="frmareas">
 <div>
-<label for="area"></label>
 <select id="area" name="area">
 <option value="" selected="selected">Other RSC site areas...</option>
 <option value="/AboutUs/">About Us</option>
@@ -128,14 +146,14 @@ var DocTitle;
 DocTitle = document.title;
 DocTitle = DocTitle.replace('&',' ');
 document.write("<img src=\"/images/designimages/icon_email.gif\" alt=\"Email Icon\" border=\"0\">&nbsp;");
-document.write("<A href=\"#\" onClick=\"javascript: popwindow('/Email_Friend.asp?Title=' + DocTitle + '&URL=http://www.rsc.org/help/privacy.asp');\">Email this to a friend</a>");
+document.write("<A href=\"#\" onClick=\"javascript: popwindow('/Email_Friend.asp?Title=' + DocTitle + '&URL=http://www.rsc.org/Help/privacy.asp');\">Email this to a friend</a>");
  
 //-->
-</script><img src="/images/designimages/icon_email.gif" alt="Email Icon" border="0">&nbsp;<a href="#" onclick="javascript: popwindow('/Email_Friend.asp?Title=' + DocTitle + '&amp;URL=http://www.rsc.org/help/privacy.asp');">Email this to a friend</a>
+</script><img src="/images/designimages/icon_email.gif" alt="Email Icon" border="0">&nbsp;<a href="#" onclick="javascript: popwindow('/Email_Friend.asp?Title=' + DocTitle + '&amp;URL=http://www.rsc.org/Help/privacy.asp');">Email this to a friend</a>
  
 <noscript>
 <img src="/images/designimages/icon_email.gif" alt="Email Icon" border="0">&nbsp;
-<A target="_new" href="/Email_Friend.asp?Title=Royal%20Society%20of%20Chemistry%20Website&URL=http://www.rsc.org/help/privacy.asp');">Email this to a friend</a>
+<A target="_new" href="/Email_Friend.asp?Title=Royal%20Society%20of%20Chemistry%20Website&URL=http://www.rsc.org/Help/privacy.asp');">Email this to a friend</a>
 </noscript>
 
 
@@ -193,7 +211,7 @@ document.write("<A href=\"#\" onClick=\"javascript: popwindow('/Email_Friend.asp
       <label for="prod"></label>
       <select id="prod" name="prod">
       <option value="" selected="selected">Select a product</option>
-       <option value="/ConferencesAndEvents/index.asp">Conferences &amp; Events</option><option value="/Publishing/Books/merlintest.asp">Books</option><option value="/chemistryworld/index.asp">Chemistry World</option><option value="/Publishing/CurrentAwareness/index.asp">Databases</option><option value="/Publishing/Journals/Index.asp">Journals</option><option value="/Publishing/Magazines/index.asp">Magazines</option>   
+       <option value="/ConferencesAndEvents/index.asp">Conferences &amp; Events</option><option value="/Publishing/Books/index.asp">Books</option><option value="/chemistryworld/index.asp">Chemistry World</option><option value="/Publishing/CurrentAwareness/index.asp">Databases</option><option value="/Publishing/Journals/Index.asp">Journals</option><option value="/Publishing/Magazines/index.asp">Magazines</option>   
       </select> <input type="image" class="submit-select" src="/images/designimages/submit_go_corporate.gif" alt="Go" onclick="JavaScript:redirect('frmprod','prod'); return false;" onkeypress="JavaScript:redirect('frmprod','prod');">
 </p>
 </form>
@@ -214,7 +232,7 @@ document.write("<A href=\"#\" onClick=\"javascript: popwindow('/Email_Friend.asp
 <br class="cl">
 <div id="footer">
    <div class="left">
-   &nbsp; <a href="/help/termsconditions.asp" title="">Terms &amp; Conditions</a>&nbsp;|&nbsp;<a href="/help/privacy.asp" title="">Privacy</a> | <a href="/help/accessibility.asp" title="">Accessibility</a> | <a href="/help/" title="">Help</a>
+   &nbsp; <a href="/help/termsconditions.asp" title="">Terms &amp; Conditions</a>&nbsp;|&nbsp;<a href="/help/privacy.asp" title="">Privacy</a> | <a href="/help/accessibility.asp" title="">Accessibility</a> | <a href="/help/sitemap.asp" title="Sitemap">Sitemap</a> | <a href="/help/" title="">Help</a>
    </div>
    <div class="right">© Royal Society of Chemistry 2006</div>
 </div> <!-- end #footer -->
