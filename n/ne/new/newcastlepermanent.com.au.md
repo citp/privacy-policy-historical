@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430233533id_/http%3A//www.newcastlepermanent.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209190143id_/http%3A//www.newcastlepermanent.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Newcastle Permanent Building Society
-
-[](https://web.archive.org/web/20060430233533id_/http%3A//www.newcastlepermanent.com.au/survey.aspx)
 
 ## Our commitment to maintaining your privacy
 
@@ -99,7 +97,7 @@ If you find that current personal information we hold about you is inaccurate or
 
 We may change this Privacy Policy from time to time, but will remain bound by any legislative requirements. We will notify you about changes to this Privacy Policy by updating our website.
 
-  * Internal Dispute Resolution Procedures - [Download](https://web.archive.org/web/20060430233533id_/http%3A//www.newcastlepermanent.com.au/downloads/InternalDisputeResolution.pdf "Download Internal Dispute Resolution Procedures") (PDF 446kb)
-  * Financial Co-operative Dispute Resolution Scheme - [Download](https://web.archive.org/web/20060430233533id_/http%3A//www.newcastlepermanent.com.au/downloads/FinancialDisputeResolution.pdf "Download Internal Dispute Resolution Procedures") (PDF 423kb)
+  * Internal Dispute Resolution Procedures - [Download](https://web.archive.org/web/20061209190143id_/http%3A//www.newcastlepermanent.com.au/downloads/InternalDisputeResolution.pdf "Download Internal Dispute Resolution Procedures") (PDF 446kb)
+  * Financial Co-operative Dispute Resolution Scheme - [Download](https://web.archive.org/web/20061209190143id_/http%3A//www.newcastlepermanent.com.au/downloads/FinancialDisputeResolution.pdf "Download Internal Dispute Resolution Procedures") (PDF 423kb)
 
 
