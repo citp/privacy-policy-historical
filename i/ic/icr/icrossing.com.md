@@ -1,63 +1,39 @@
-> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207071107id_/http%3A//www.icrossinginc.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209075112id_/http%3A//www.icrossinginc.com/privacy_statement.htm) for the most accurate reproduction.*
 
-# iCrossing, Inc. Privacy Statement - Legal
+# Privacy Agreement: iCrossing, we´re for finding.
 
-[about us](https://web.archive.org/about_us.htm) | [management](https://web.archive.org/management.htm) | [organization](https://web.archive.org/organization.htm) | [newsroom](https://web.archive.org/newsroom.htm) | [careers](https://web.archive.org/careers.htm) | [contacts](https://web.archive.org/contacts.htm)  
----|---|---|---|---|---  
-  
-iCrossing, Inc. ("IC") respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
+iCrossing, Inc. ("IC" or "we") takes your privacy seriously and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This statement discloses the privacy practices for our [www.iCrossing.com](http://www.icrossing.com/), [http://i2a.icrossing.com](http://i2a.icrossing.com/Interest2Action), and [www.IC-Live.com](http://www.ic-live.com/) sites. 
 
-Use of Information
+If you feel that iCrossing is not abiding by this privacy policy, please e-mail our Webmaster at policy@iCrossing.com. 
 
-As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to IC Sites. However, certain non-personal information is recorded by the standard operation of IC's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
+Data Collection and Usage. P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
 
-Our Sites' various registration forms and surveys may request that you give us contact information (such as your name, mailing and/or e-mail address) demographic information (such as your age and gender) and profile data (such as your preferences in web search). Information submitted at the time of registration or submission may be used for marketing and promotional purposes by IC and it's strategic business units, and may be shared with our Client partners. Personally identifiable information is never sold or leased to any third parties (including our clients and partners). With your permission, we may use your contact information to send you information about our company and what we are doing. You may always opt-out of receiving future mailings; see the Choice/Opt-out section below.
+We collect the following information about our users, which will be used by ourselves and our agents: click-stream data, HTTP protocol elements, search terms, URI of requested resource, query-string portion of URI, request date, request time, other access log fields, user agent information, and navigation and click-stream data. This data will be used for the following purposes: completion and support of the current activity, website and system administration, and research and development. 
 
-Our Sites use various order forms for you to request information, products, and services. We collect contact information (such as your name, mailing and/or e-mail address), and when appropriate and necessary, financial information to process and/or your purchase of services from us.
+We use non-personal information such as demographic data to analyze and develop our marketing strategy and to determine how you found out about us, your interests regarding our services and how to further improve our website based upon user data. We share non-personal information with our partners and third parties. 
 
-IC may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with IC's rights or property, other IC web site users, or anyone else that could be harmed by such activities.
+Cookies. Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Our site makes use of cookies. Cookies are used to track visitors to our site so we may better understand what portions of our site best serve you. 
 
-To the extent that any of our Sites accessible through the URL www.icrossinginc.com have additional or different practices or policies, these practices will be explained at that particular Site. 
+Cookies are used by IC for the purposes of user targeting and research and development. Additionally, at the user's option, we will collect HTTP cookies, which will be used for research and development and one-time tailoring. This data will only be used by IC and our agents. 
 
-Security
+Our Web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the Web pages you request) can be sent to you. This information does not identify you personally. 
 
-Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, IC cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+Log Files. We also collect IP addresses to analyze trends, administer the website, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personal information. 
 
-Use of Cookies
+Legal Disclaimer. We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on the website. 
 
-Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies make using our Sites easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Sites, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of IC's web sites will not function properly or may be considerably slower. For example, without cookies you will not be able to set personalized preferences.
+Minors. No portion of our services is directed towards minors (individuals below the age of 18) and we do not knowingly solicit any information about minors or market to minors. 
 
-Use of IP Addresses
+Security. Privacy is very important to iCrossing. We take every precaution to protect our users' information. All information gathered on our [www.iCrossing.com](http://www.icrossing.com/) and [www.IC-Live.com](http://www.ic-live.com/) websites are protected for storage within a controlled database. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. 
 
-An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Web. When you requests pages from IC's Sites, our servers log your IP address. IC collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers and Clients, and to audit the use of our Site. We do not link IP addresses to anything personally identifiable, which means that your session will be logged, but you are anonymous to us. We may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, clients, or others.
+If you have any questions about the security of this website, please e-mail policy@iCrossing.com.
 
-Links to Other Sites
+Notification of Changes. iCrossing may change this policy from time to time. If we make any substantial changes, we will notify you by posting a prominent announcement on our site. 
 
-IC is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may also be linked to websites operated by other companies. Visitors to these web sites should refer to each web site's respective privacy policies and practices.
+Business Relationships. Our websites contain links to other websites. Please be aware that iCrossing has no control or influence over the privacy practices of such other sites nor is it responsible for the privacy practices or content of such sites. We encourage our users to be aware when they leave this site and to read the privacy statements of each and every site that collects personal information. 
 
-Bulletin Boards and Chat Areas
+Enforcements. If users have any questions or complaints with respect to the principles outlined in this privacy statement or enforcement of this privacy statement they should contact: 
 
-Guests of IC's Sites are solely responsible for the content of messages they post on public forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people. 
-
-Choice/Opt-Out
-
-Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list to not receive future communications. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since IC operates several sites tailored to specific interests. However, if you are unable to complete the process indicated in the communications, then just send us an e-mail with a copy of the undesired email attached to the request and state you wish to be removed from the mailing list.
-
-Contact Us
-
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact: 
-
-  * iCrossing, Inc., 14822 North 73rd Street, Scottsdale AZ 85260, Attention: Legal Department
-
-
-
-Information provided by you via general e-mail inquiries to IC such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties. To view educational material on consumer privacy, please see <http://www.ftc.gov/>
-
-Your Acceptance of These Terms
-
-By using IC's, you signify your acceptance of the IC Online Privacy Policy. If you do not agree to this policy, please do not use our Sites. IC reserves the right to modify, alter or otherwise update this policy at any time, so visitors are encouraged to review this policy from time to time. Your continued use of the IC Sites following the posting of changes to these terms will mean you accept those changes.
-
-_(Last updated January 20, 2006)_
-
-©2006 iCrossing, Inc®. All Rights Reserved.  
-Do not duplicate or redistribute in any form 
+iCrossing, Inc.  
+14822 North 73rd St.  
+Scottsdale, Arizona 85260
