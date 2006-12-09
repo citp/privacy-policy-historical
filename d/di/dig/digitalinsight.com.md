@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617033333id_/http%3A//www.digitalinsight.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209050856id_/http%3A//www.digitalinsight.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Digital Insight - Privacy Policy
 
