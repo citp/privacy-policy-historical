@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprotein.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193828id_/http%3A//www.myprotein.co.uk/index.cfm%3Fpage%3Dprivacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprotein.co.uk privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209190129id_/http%3A//www.myprotein.co.uk/index.cfm%3Fpage%3Dprivacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security - myprotein.co.uk
 
@@ -60,7 +60,7 @@ Any personal information we collect from this website will be used in accordance
 
 (1) You can ask us to update or remove your personal information by emailing us from the contact page. However, please note that we may need to keep some personal data in order to process orders or to comply with customer service or after sale obligations.
 
-(2) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for ﾣ15 payable to myprotein to cover our administration costs:-
+(2) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £15 payable to myprotein to cover our administration costs:-
 
 **Other Websites**
 
