@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094729id_/http%3A//www.sony-europe.com/view/ShowSiteSection.action%3Fsection%3DODW_PS%26site%3Dodw_en_EU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209134938id_/http%3A//www.sony-europe.com/view/ShowSiteSection.action%3Fsection%3DODW_PS%26site%3Dodw_en_EU) for the most accurate reproduction.*
 
 # Privacy Statement
 
