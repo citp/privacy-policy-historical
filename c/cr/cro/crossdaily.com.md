@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the crossdaily.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204057id_/http%3A//info.crossdaily.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossdaily.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209103601id_/http%3A//www.crossdaily.com/info/privacy.php3) for the most accurate reproduction.*
 
 # CrossDaily.com - Privacy Policy
 
 ## CrossDaily.com's Privacy Policy
 
-Salem Web Network has created this privacy statement in order to demonstrate our commitment to privacy.  The following discloses our information gathering and dissemination practices for our Sites (includes CrossDaily.com, ChristianAdvertising.com and ChristianClick.com).
+Salem Web Network has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our Sites (includes CrossDaily.com, ChristianAdvertising.com and ChristianClick.com).
 
 **Membership Information**
 
-To participate in some of the interactive features on the Site, you may be required to submit some personal information that allows CrossDaily.com to fulfill your request. Generally, the Operators will not share any personal information submitted by you without posting a notification that the Operators intend to do so. With your permission, the Operators may share information submitted by you with the Site’s business partners that provide promotional material or help to publish our Web site, maintain our database and/or fulfill orders you have made. You may opt out of receiving materials from such sources at any time requesting to do so at comment@crossdaily.com
+To participate in some of the interactive features on the Site, you may be required to submit some personal information that allows CrossDaily.com to fulfill your request. Generally, the Operators will not share any personal information submitted by you without posting a notification that the Operators intend to do so. With your permission, the Operators may share information submitted by you with the Sites business partners that provide promotional material or help to publish our Web site, maintain our database and/or fulfill orders you have made. You may opt out of receiving materials from such sources at any time requesting to do so at comment@crossdaily.com
 
 Registration. You will be required to register to take advantage of some of the interactive activities on the Site . To register, you will need to submit your full name, age, zip code and e-mail address and to select a unique member name to be used as an identifier for the feature, and a password. 
 
@@ -16,7 +16,7 @@ Other Services. The Operators may offer you an opportunity to enter various cont
 
 **Participating in Chats and Friendship Site**
 
-To participate in an online chat, inspirations, e-cards,Friendship directory, or sending e-mail to the Site, we will request a full name, city, state, province or country, and e-mail address which will only be used to acknowledge receipt of the message or to respond to the sender's request when CrossDaily.com determines that a response is warranted. The Site does not maintain any of the information collected through such activities in retrievable form or share the information with the Operator’s business partners for promotional purposes. Please note that information or statements that are volunteered while participating in a Site chat will not be treated as confidential and may be posted on the Site. You will not be able to change or remove any public postings made once posted. All submissions will become the property of the Operators. Please review the Terms of Use for more information about making submissions to CrossDaily.com. 
+To participate in an online chat, inspirations, e-cards,Friendship directory, or sending e-mail to the Site, we will request a full name, city, state, province or country, and e-mail address which will only be used to acknowledge receipt of the message or to respond to the sender's request when CrossDaily.com determines that a response is warranted. The Site does not maintain any of the information collected through such activities in retrievable form or share the information with the Operators business partners for promotional purposes. Please note that information or statements that are volunteered while participating in a Site chat will not be treated as confidential and may be posted on the Site. You will not be able to change or remove any public postings made once posted. All submissions will become the property of the Operators. Please review the Terms of Use for more information about making submissions to CrossDaily.com. 
 
 Either you or the Operators may terminate your Friendship directory membership at any time, for any reason, effective upon sending written notice to the other party. The Operators reserve the right to immediately suspend or terminate your access to the Friendship directory service, without any prior notice, upon any breach of this Agreement by you which is brought to the Operators attention.
 
@@ -28,7 +28,7 @@ If you send us personal correspondence, such as emails, inspirations, e-cards or
 
 Opting Out. When you sign up for any feature on the Site, you may choose to opt out of (a) receiving communications from the Site or about new features or services, and (b) receiving communications from third-party companies concerning their products or services. If you would like to stop such use of your personal information at any time and for any reason, you may notify that preference by emailing us at comment@crossdaily.com
 
-Reviewing and Changing Your Information. If you wish to modify your registration information or otherwise change your preferences, go to http://account.crossdaily.com and enter your current user name and password and the first option you will see, is the option of changing your username or password to modify your registration. By following the directions posted, you will submit your request to the Site and any information maintained about you will be modified as you requested. In limited circumstances, we may retain information that you have requested be removed but which cannot be completely deleted from our databases due to technical constraints and the backup of our computer system. 
+Reviewing and Changing Your Information. If you wish to modify your registration information or otherwise change your preferences, go to http://www.crossdaily.com/account/ and enter your current user name and password and the first option you will see, is the option of changing your username or password to modify your registration. By following the directions posted, you will submit your request to the Site and any information maintained about you will be modified as you requested. In limited circumstances, we may retain information that you have requested be removed but which cannot be completely deleted from our databases due to technical constraints and the backup of our computer system. 
 
 **Security Policies**
 
@@ -40,7 +40,7 @@ Your CrossDaily.com membership registration account is password protected so tha
 
 Cookies are pieces of information that a Web site transfers to a user's computer hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you are at our site. We never save passwords or credit card information in cookies. Accepting a cookie does not give anyone access to your computer or to any personal information. It is simply a small file in which we keep information that identifies you as a unique user. For example, we may use a cookie to indicate when you have already voted for a particular site to prevent multiple voting and a distortion of results. 
 
-The use of cookies is an industry standard - you'll find them at most major Web sites. Most browsers are initially configured to accept cookies. However, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. Although you will still be able to enjoy many of the features on the Site if you disable your browser from accepting cookies, some parts of the Site’s service will not function properly or may be considerably slower if you refuse cookies. 
+The use of cookies is an industry standard - you'll find them at most major Web sites. Most browsers are initially configured to accept cookies. However, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. Although you will still be able to enjoy many of the features on the Site if you disable your browser from accepting cookies, some parts of the Sites service will not function properly or may be considerably slower if you refuse cookies. 
 
 **About IP Addresses and Surveys Used for Research Purposes**
 
@@ -48,7 +48,7 @@ An IP address is a number that is automatically assigned to your computer whenev
 
 **Links from CrossDaily.com to Other Web Sites**
 
-The Operators Privacy Policy addresses only the use and disclosure of information we collect from you on the Site. You may occasionally get cookies from businesses that advertise on the site which the Operators do not control and when you link to the Web sites of third party advertisers, for example through an advertising banner, your use of those sites will be subject to the privacy policies of such third parties, which may differ from the Operators’ Privacy Policy. 
+The Operators Privacy Policy addresses only the use and disclosure of information we collect from you on the Site. You may occasionally get cookies from businesses that advertise on the site which the Operators do not control and when you link to the Web sites of third party advertisers, for example through an advertising banner, your use of those sites will be subject to the privacy policies of such third parties, which may differ from the Operators Privacy Policy. 
 
 **Your Acceptance of These Terms**
 
