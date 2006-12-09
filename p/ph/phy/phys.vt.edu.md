@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209031953id_/http%3A//www.phys.vt.edu/%7Eadmin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209173809id_/http%3A//www.phys.vt.edu/privacy.html) for the most accurate reproduction.*
 
-# VT Physics Privacy statement
-
-* * *
+# VT Physics Privacy Statement
 
 Virginia Tech Physics has created this privacy statement in order demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
 
-## Information Automatically Logged
+Information Automatically Logged
 
 This site uses your IP address to help diagnose problems with our server and to administer our site.
 
@@ -16,29 +14,29 @@ This site uses page referrer data - that is, information about the page that lin
 
 This data may be used to preserve the integrity of our computing resources.
 
-## Personal Information
+Personal Information
 
 Some of our webpages collect and use name/email address to send webserver responses back to the user via email.
 
 We do not share any personal information with any third parties nor do we use any personal information for any purposes beyond those stated here.
 
-## Links to Virginia Tech Sites
+Links to Virginia Tech Sites
 
 This site contains links to other Virginia Tech pages. The privacy practices of other pages may vary with the purposes of the page. Consult the privacy statement on each page.
 
-## Links to External Sites
+Links to External Sites
 
 This site contains links to other sites. Virginia Tech is not responsible for the privacy practices or the content of such web sites.
 
-## Security
+Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Log file access is restricted to system administrators while stored on the server. Log files are rotated regularly and archived in a secure location.
 
 Users should also consult Virginia Tech's policy on Acceptable Use.  
-<http://www.vt.edu/admin/policies/acceptuseguide.html>
+<http://www.policies.vt.edu/acceptableuse.html>
 
 Virginia Tech complies with all statutory and legal requirements with respect to access to information.
 
-## Contact Information
+Contact Information
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [webmaster@phys.vt.edu](mailto:webmaster@phys.vt.edu)
