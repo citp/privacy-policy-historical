@@ -1,775 +1,349 @@
-<!--The following is the downloaded HTML source of the redeyechicago.com privacy policy that was archived on 2006-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060530212602id_/http%3A//www.redeyechicago.com/policy.htm) for the most accurate reproduction.-->
-
-<html><head>
-<title>RedEye Privacy Policy</title>
-<script language="JavaScript">
-
-<!-- Begin
-var isDOM = (document.getElementById ? true : false); 
-var isIE4 = ((document.all && !isDOM) ? true : false);
-var isNS4 = (document.layers ? true : false);
-function getRef(id) {
-if (isDOM) return document.getElementById(id);
-if (isIE4) return document.all[id];
-if (isNS4) return document.layers[id];
-}
-function getSty(id) {
-return (isNS4 ? getRef(id) : getRef(id).style);
-} 
-
-var popTimer = 0;
-
-var litNow = new Array();
-function popOver(menuNum, itemNum) {
-clearTimeout(popTimer);
-hideAllBut(menuNum);
-litNow = getTree(menuNum, itemNum);
-changeCol(litNow, true);
-targetNum = menu[menuNum][itemNum].target;
-if (targetNum > 0) {
-thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
-thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
-with (menu[targetNum][0].ref) {
-left = parseInt(thisX + menu[targetNum][0].x);
-top = parseInt(thisY + menu[targetNum][0].y);
-visibility = 'visible';
-      }
-   }
-}
-function popOut(menuNum, itemNum) {
-if ((menuNum == 0) && !menu[menuNum][itemNum].target)
-hideAllBut(0)
-else
-popTimer = setTimeout('hideAllBut(0)', 500);
-}
-function getTree(menuNum, itemNum) {
-
-
-itemArray = new Array(menu.length);
-
-while(1) {
-itemArray[menuNum] = itemNum;
-if (menuNum == 0) return itemArray;
-itemNum = menu[menuNum][0].parentItem;
-menuNum = menu[menuNum][0].parentMenu;
-   }
-}
-
-
-function changeCol(changeArray, isOver) {
-for (menuCount = 0; menuCount < changeArray.length; menuCount++) {
-if (changeArray[menuCount]) {
-newCol = isOver ? menu[menuCount][0].overCol : menu[menuCount][0].backCol;
-// Change the colours of the div/layer background.
-with (menu[menuCount][changeArray[menuCount]].ref) {
-if (isNS4) bgColor = newCol;
-else backgroundColor = newCol;
-         }
-      }
-   }
-}
-function hideAllBut(menuNum) {
-var keepMenus = getTree(menuNum, 1);
-for (count = 0; count < menu.length; count++)
-if (!keepMenus[count])
-menu[count][0].ref.visibility = 'hidden';
-changeCol(litNow, false);
-}
-
-
-
-function Menu(isVert, popInd, x, y, width, overCol, backCol, borderClass, textClass) {
-this.isVert = isVert;
-this.popInd = popInd
-this.x = x;
-this.y = y;
-this.width = width;
-this.overCol = overCol;
-this.backCol = backCol;
-this.borderClass = borderClass;
-this.textClass = textClass;
-this.parentMenu = null;
-this.parentItem = null;
-this.ref = null;
-}
-
-function Item(text, href, frame, length, spacing, target) {
-this.text = text;
-this.href = href;
-this.frame = frame;
-this.length = length;
-this.spacing = spacing;
-this.target = target;
-this.ref = null;
-}
-
-function writeMenus() {
-if (!isDOM && !isIE4 && !isNS4) return;
-
-for (currMenu = 0; currMenu < menu.length; currMenu++) with (menu[currMenu][0]) {
-var str = '', itemX = 0, itemY = 0;
-
-for (currItem = 1; currItem < menu[currMenu].length; currItem++) with (menu[currMenu][currItem]) {
-var itemID = 'menu' + currMenu + 'item' + currItem;
-
-var w = (isVert ? width : length);
-var h = (isVert ? length : width);
-
-if (isDOM || isIE4) {
-str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX + '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit; ';
-if (backCol) str += 'background: ' + backCol + '; ';
-str += '" ';
-}
-if (isNS4) {
-str += '<layer id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' +  w + '" height="' + h + '" visibility="inherit" ';
-if (backCol) str += 'bgcolor="' + backCol + '" ';
-}
-if (borderClass) str += 'class="' + borderClass + '" ';
-
-
-str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' + currMenu + ',' + currItem + ')">';
-str += '<table width="' + (w - 8) + '" border="0" cellspacing="0" cellpadding="' + (!isNS4 && borderClass ? 3 : 0) + '"><tr><td align="left" height="' + (h - 7) + '">' + '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '</a></td>';
-if (target > 0) {
-
-menu[target][0].parentMenu = currMenu;
-menu[target][0].parentItem = currItem;
-
-if (popInd) str += '<td class="' + textClass + '" align="right">' + popInd + '</td>';
-}
-str += '</tr></table>' + (isNS4 ? '</layer>' : '</div>');
-if (isVert) itemY += length + spacing;
-else itemX += length + spacing;
-}
-if (isDOM) {
-var newDiv = document.createElement('div');
-document.getElementsByTagName('body').item(0).appendChild(newDiv);
-newDiv.innerHTML = str;
-ref = newDiv.style;
-ref.position = 'absolute';
-ref.visibility = 'hidden';
-}
-
-if (isIE4) {
-document.body.insertAdjacentHTML('beforeEnd', '<div id="menu' + currMenu + 'div" ' + 'style="position: absolute; visibility: hidden">' + str + '</div>');
-ref = getSty('menu' + currMenu + 'div');
-}
-
-if (isNS4) {
-ref = new Layer(0);
-ref.document.write(str);
-ref.document.close();
-}
-
-for (currItem = 1; currItem < menu[currMenu].length; currItem++) {
-itemName = 'menu' + currMenu + 'item' + currItem;
-if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
-if (isNS4) menu[currMenu][currItem].ref = ref.document[itemName];
-   }
-}
-with(menu[0][0]) {
-ref.left = x;
-ref.top = y;
-ref.visibility = 'visible';
-   }
-}
-
-
-
-var menu = new Array();
-
-var defOver = '#333333', defBack = '#990000';
-
-var defLength = 22;
-
-menu[0] = new Array();
-menu[0][0] = new Menu(false, '', 100, 83, 12, '#000000', '#000000', '', 'itemText');
-menu[0][1] = new Item('  : EVENTS', '', '', 70, 20, 1);
-menu[0][2] = new Item('  : ABOUT US', '', '', 80, 20, 2);
-menu[0][3] = new Item('  : COLUMNISTS', '', '', 90, 20, 4);
-menu[0][4] = new Item('  : WHERE TO GET IT', 'wheretogetit.htm', '', 110, 20, 0);
-menu[0][5] = new Item('  : PLACE AN AD', 'classifieds.htm', '', 90, 20, 0);
-menu[0][6] = new Item('  : REDEYE REWARDS', 'rewards.htm', '', 110, 20, 0);
-
-
-
-
-
-// Events menu.
-menu[1] = new Array();
-menu[1][0] = new Menu(true, '>', 0, 10, 100, defOver, defBack, 'itemBorder', 'itemText');
-menu[1][1] = new Item('Listings', 'listings.htm', '', defLength, 0, 0);
-menu[1][2] = new Item('Photos', 'photos.htm', '', defLength, 0, 0);
-
-
-
-
-
-// About us menu.
-menu[2] = new Array();
-menu[2][0] = new Menu(true, '>', 0, 10, 100, defOver, defBack, 'itemBorder', 'itemText');
-menu[2][1] = new Item('Meet the Team', 'team.htm', '', defLength, 0, 0);
-menu[2][2] = new Item('Current Campaign', 'cards.htm', '', defLength, 0, 0);
-
-
-
-
-// REDEYE RAIDS
-menu[3] = new Array();
-menu[3][0] = new Item('', '#', '', defLength, 0, 0);
-
-
-
-
-// Columnists menu.
-menu[4] = new Array();
-menu[4][0] = new Menu(true, '>', 0, 10, 125, defOver, defBack, 'itemBorder', 'itemText');
-menu[4][1] = new Item('Gina B.', 'ginab.htm', '', defLength, 0, 0);
-menu[4][2] = new Item('Mark Bazer', 'bazer.htm', '', defLength, 0, 0);
-menu[4][3] = new Item('Maegan Carberry', 'carberry.htm', '', defLength, 0, 0);
-menu[4][4] = new Item('Liz Crokin', 'crokin.htm', '', defLength, 0, 0);
-menu[4][5] = new Item('Jimmy Greenfield', 'greenfield.htm', '', defLength, 0, 0);
-menu[4][6] = new Item('Jon Ibrahim', 'ibrahim.htm', '', defLength, 0, 0);
-menu[4][7] = new Item('Going Public', 'public.htm', '', defLength, 0, 0);
-menu[4][8] = new Item('Jason Steele', 'steele.htm', '', defLength, 0, 0);
-menu[4][9] = new Item('Whizzer', 'whizzer.htm', '', defLength, 0, 0);
-
-
-
-
-
-
-// Subscribe menu.
-menu[5] = new Array();
-menu[5][0] = new Item('', '#', '', defLength, 0, 0);
-
-
-
-// Classified menu.
-menu[6] = new Array();
-menu[6][0] = new Item('', 'classified.htm', '', defLength, 0, 0);
-
-
-
-var popOldWidth = window.innerWidth;
-nsResizeHandler = new Function('if (popOldWidth != window.innerWidth) location.reload()');
-
-if (isNS4) document.captureEvents(Event.CLICK);
-document.onclick = clickHandle;
-
-function clickHandle(evt)
-{
- if (isNS4) document.routeEvent(evt);
- hideAllBut(0);
-}
-
-
-
-function moveRoot()
-{
- with(menu[0][0].ref) left = ((parseInt(left) < 100) ? 100 : 5);
-}
-//  End -->
-</script>
-
-
-
-<style><!--a:hover{color:ffffff}--></style>
-<style>
-
-.itemBorder { border: 1px solid black }
-.itemText { text-decoration: none; color: #FFFFFF; font: 9px Arial }
-
-.crazyBorder { border: 2px outset #663399 }
-.crazyText { text-decoration: none; color: #FFCC99; font: Bold 9px Arial }
-
-.copy { color: #CCCCCC; font: 11px Arial }
-.copy2 { color: #999999; font: 11px Arial }
-.copy3 { color: #818181; font: 9px Verdana }
-.copybold { color: #CCCCCC; font: Bold 12px Arial }
-
-
-.header1 { color: #FFFFFF; font: Bold 13px Arial }
-.header2 { color: #CCCCCC; font: Bold 13px Arial }
-
-</style>
-
+<!--The following is the downloaded HTML source of the redeyechicago.com privacy policy that was archived on 2006-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209152947id_/http%3A//redeye.chicagotribune.com/services/site/red-privacy%2C0%2C2011041.story%3Fcoll%3Dred-footerlinks) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>
+	Privacy Policy | Redeye | Services
+</title>
+<script type="text/javascript" src="/javascript/windoid.js" defer="defer"></script>
+
+<link rel="stylesheet" href="/stylesheets/contentstyle.css" type="text/css">
 
 </head>
 
+<body>
+<div id="container">
+
+<div id="header">
+<b>more news:<a href="http://chicagotribune.com">chicagotribune.com</a><a href="http://chicagosports.chicagotribune.com">chicagosports.com</a><a href="http://metromix.chicagotribune.com">metromix.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;classifieds:&nbsp;&nbsp;<a href="http://careerbuilder.com">jobs</a><a href="http://cars.com">cars</a><a href="http://chicagotribune.com/homes">homes</a><a href="http://apartments.com">apartments</a><a href="http://www.ForSaleByOwner.com">fsbo</a></b>
+<!--END HEADER-->
+</div>
 
 
-
-<!------------------------------------------------ DO NOT TOUCH | BEGINNING OF PAGE ---------------------------------------------------->
-
-
-<body bgcolor="#000000" text="#FFFFFF" link="#818181" vlink="#818181" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="writeMenus()" onresize="if (isNS4) nsResizeHandler()">
-
-
-
-
-
-
-
-
-
-
-
-<!--------------------------------------------------- DO NOT TOUCH | HEADER/NAVIGATION -->
-<p>
-<a name="top"></a><table width="760" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
+<div id="leftcolumn">
+<map name="logo"><area href="/" coords="29,7,109,224" shape="rect" alt="RedEye"><area href="http://chicagotribune.com" coords="31,227,109,264" shape="rect" alt="Chicago Tribune"></map><img src="/images/branding/redeye_logo1.gif" border="0" usemap="#logo"><br>
 	
+<!--END LEFT COLUMN-->
+</div>
 	
-	<!-- REDEYE LOGO -->
-		<td width="67" valign="top"><a href="index.html"><img src="imgs/redeyelogo.gif" border="0"></a></td>
-		<td width="693" valign="top">
-			<table width="693" border="0" cellspacing="0" cellpadding="0">
+<div id="centercolumn">
+		
+		<div id="leaderboard">
+		<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.redeyechicago/;ptype=s;slug=red-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=19370060" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.redeyechicago/;ptype=s;slug=red-privacy;rg=ur;pos=T;sz=728x90;tile=1;ord=19370060" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.redeyechicago/;ptype=s;slug=red-privacy;rg=ur;pos=T;dcopt=ist;sz=728x90;tile=1;ord=19370060" width="728" height="90" border="0" alt=""></a></noscript> 
+		<!--END LEADERBOARD-->
+		</div>
+	
+		<div id="navigation">
+		<a href="/">Home</a> <a href="/redhot">Red Hot</a> <a href="/sudoku">Sudoku</a> <a href="/fiveonfive">Five on Five</a> <a href="http://www.redeyechicago.com/blog">The Blog</a> <a href="http://redeye.mycapture.com">Photos</a> <a href="/news/columnists">Columnists</a> <a href="/about/custom/events/">Events</a> <a href="/about/custom/rewards/">iSociety</a> <a href="/about">About us</a>
+		<!--END NAVIGATION-->
+		</div>
+		
+		<div id="sectionimage">
+		<img src="/images/branding/h_aboutus.gif" border="0">
+		<!--END SECTION IMAGE-->
+		</div>
+		
+		<div id="content">
 			
-				<!-- GRAY LINE -->
-				<tbody><tr bgcolor="#333333">
-					<td height="5"><img src="imgs/graypixel.gif" width="693" height="1"></td>
-				</tr>
-				
-				
-				<!-- BANNER -->
-				<tr bgcolor="#333333">
-					<td align="center" height="70"><a href="https://subscribe.redeyechicago.com" target="blank"><img src="imgs/rehome.gif" border="0"></a></td>
-				</tr>
-				
-				
-				<!-- GRAY LINE -->
-				<tr bgcolor="#333333">
-					<td height="5"><img src="imgs/graypixel.gif" width="693" height="1"></td>
-				</tr>
-				
-				
-				<!-- ROW SPACER  -->
-				<tr>
-					<td height="17">&nbsp;</td>
-				</tr>
+		
 
-				
-				<!-- OVERLAPPING EYE GRAPHIC -->
-				<tr>
-					<td><img src="imgs/headergraphic.jpg" border="0"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>	
-<!--------------------------------------------------- DO NOT TOUCH | END HEADER/NAVIGATION -->
+<div id="story">
+
+
+					
+
+
+
+
+<!-- Related content rail -->
+
+
+<div id="relatedrail">
+<div id="relatedrailcontent">
+
+
+					
+
+
+
+<div class="rail-item">
+
+<a href="/services/site/red-privacy,0,6090509,email.story?coll=red-footerlinks" target="win_23795993" onclick="if (window.windoid) windoid('','win_23795993',250,355,'resizable=1,scrollbars=1')">Email this story</a><br><br>
+
+
+<a href="/services/site/red-privacy,0,5758265,print.story?coll=red-footerlinks">Printer friendly format</a>
+</div>
+<br><br>
+
+					<br><br>			
+					
+					<br><br>
+    			
+
+
+
+<br><br>
+<span class="utilityheader">
+	Most Emailed Stories
+</span>
+
+<div class="rail-item">
+	
+
+
+		•&nbsp;&nbsp;<a href="/news/columnists/red-120706-greenfield,1,7140210.column?coll=red-footerlinks">Here's a proposal: Don't bug unmarried couples</a><br>
+	
+
+
+		•&nbsp;&nbsp;<a href="/news/red-120506-sexy-poll,1,4742622.story?coll=red-footerlinks">Chicago's finest</a><br>
+	
+
+
+		•&nbsp;&nbsp;<a href="/news/red-120606-cta-faceoff,1,2461456.story?coll=red-footerlinks">The rail of two cities</a><br>
+	
+
+
+		•&nbsp;&nbsp;<a href="/about/custom/events/red-123106-nye,1,2431816.story?coll=red-footerlinks">New Year's Eve: Rock 'N Roll Ball</a><br>
+	
+
+
+		•&nbsp;&nbsp;<a href="/news/columnists/red-120806-greenfield,1,57722.column?coll=red-footerlinks">Jimmy goes blog wild; catch him at 11</a><br>
 	
 	
+	<br>
 	
+	<a href="/news/most-emailed.front">More emailed stories</a><br><br>
+</div>
+
+
+					
+
+
+</div>
+</div>
+
+
+<!-- End related items rail -->
+
+
+
+
 	
-	
-	
-	
-
-<!------------------------------------------------- DO NOT TOUCH | BEGIN PAGE TITLE & LINKS -->			
-	
-<table width="760" border="0" cellpadding="0" cellspacing="0">		
-	<tbody><tr bgcolor="#333333">
-		
-		
-		<!-- COLUMN SPACER -->
-		<td width="67"><img src="imgs/clear.gif" width="67" height="1"></td>
-		<td width="693">
-			<table width="693" border="0" cellpadding="0" cellspacing="0">
-				
-				
-				<!-- ROW SPACER -->
-				<tbody><tr>
-					<td width="30">&nbsp;</td>
-					<td width="633">&nbsp;</td>
-					<td width="30">&nbsp;</td>
-				</tr>
-				
-				
-				
-				<!-- PRIVACY POLICY HEADER -->
-				<tr>
-					<td colspan="3"><span class="header2">p r i v a c y &nbsp; p o l i c y</span></td>
-				</tr>
-				
-				
-				
-				<!-- GRAY LINE -->
-				<tr>
-					<td colspan="3" valign="top"><img src="imgs/graypixel.gif" width="693" height="1"></td>
-				</tr>
-		
-		
-		
-				<!-- LAST UPDATED COPY -->
-				<tr>
-					<td colspan="3"><span class="copy">Last updated Jaunuary 2002</span></td>
-				</tr>
-		
-		
-		
-				<!-- ROW SPACER -->
-				<tr>
-					<td colspan="3">&nbsp;</td>
-				</tr>
-			</tbody></table>	
-		</td>
-	</tr>
-<!------------------------------------------------- DO NOT TOUCH | END PAGE TITLE & LINKS -->	
 
 
 
+<h1>Privacy Policy</h1>
 
-
-
-
-
-
-<!------------------------------------------------------- DO NOT TOUCH | BEGIN ROW SPACER -->
-	<tr bgcolor="#333333">
-		<td colspan="2" height="20">&nbsp;</td>
-	</tr>
-<!--------------------------------------------------------- DO NOT TOUCH | END ROW SPACER -->
-
-
-
-
-
-
-
-
-
-<!--------------------------------------------------------------  BEGIN EDITORIAL CONTENT -->	
-	<tr bgcolor="#333333">
-		<td width="67">&nbsp;</td>
-		<td width="693">
-			<table width="693" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="30">&nbsp;</td>
 					
 					
-<!---------------------------------------------------- TOUCH THIS SECTION ONLY ------------------------------------------------------>
-					<td width="633">
-					<span class="copy"> RedEye
-                        strives to offer its visitors the many advantages of Internet 
-                        technology and to provide an interactive and personalized 
-                        experience. We may use Personally Identifiable Information 
-                        (your name, e-mail address, street address, telephone 
-                        number) subject to the terms of this privacy policy. Please 
-                        note this policy applies only to information collected 
-                        by RedEye online and does not impact information 
-                        collected or used by RedEye or its affiliates 
-                        through other means. </span> <br>
-                        <br>
-                        <span class="copybold">How we gather information from 
-                        users.</span> <br>
-                        <br>
-                        <span class="copy">How we collect and store information 
-                        depends on the page you are visiting, the activities in 
-                        which you elect to participate and the services provided. 
-                        For example, you may be asked to provide information when 
-                        you register for access to certain portions of our site 
-                        or request certain features, such as newsletters, news 
-                        updates and other products, or when you make a purchase, 
-                        such as a newspaper subscription. You may provide information 
-                        when you participate in sweepstakes and contests, voting 
-                        and polling activities, message boards and chat rooms, 
-                        and other interactive areas of our site. Like most Web 
-                        sites, RedEye also collects information automatically 
-                        and through the use of electronic tools that may be transparent 
-                        to our visitors. For example, we may log the name of your 
-                        Internet Service Provider or use cookie technology to 
-                        recognize you and hold information from your visit. Among 
-                        other things, the cookie may store your user name and 
-                        password, sparing you from having to re-enter that information 
-                        each time you visit, or may control the number of times 
-                        you encounter a particular advertisement while visiting 
-                        our site. As we adopt additional technology, we may also 
-                        gather information through other means. In certain cases, 
-                        you can choose not to provide us with information, for 
-                        example by setting your browser to refuse to accept cookies, 
-                        but if you do you may be unable to access certain portions 
-                        of the site or may be asked to re-enter your user name 
-                        and password, and we may not be able to customize the 
-                        site's features according to your preferences. </span> 
-                        <br>
-                        <br>
-                        <span class="copybold">What we do with the information 
-                        we collect.</span> <br>
-                        <br>
-                        <span class="copy">Like other Web publishers, we collect 
-                        information to enhance your visit and deliver more individualized 
-                        content and advertising, and we sometimes permit our advertising 
-                        and promotional partners to call to your attention products, 
-                        special offers and unique content we believe might be 
-                        of interest to you. We offer you the opportunity to elect 
-                        not to receive direct communications sent by our advertisers 
-                        or promotional partners, as described below. <br>
-                        <br>
-                        Aggregated Information (information that does not personally 
-                        identify you) may be used in many ways. For example, we 
-                        may combine information about your usage patterns with 
-                        similar information obtained from other users to help 
-                        enhance our site and services (e.g., to learn which pages 
-                        are visited most or what features are most attractive). 
-                        Aggregated Information may occasionally be shared with 
-                        our advertisers and business partners. Again, this information 
-                        does not include any Personally Identifiable Information 
-                        about you or allow anyone to identify you individually. 
-                        <br>
-                        <br>
-                        We may use Personally Identifiable Information collected 
-                        on RedEye to communicate with you about your 
-                        registration and customization preferences; our Terms 
-                        of Service and privacy policy; services and products offered 
-                        by Tribune Interactive, Inc., and other Tribune Company 
-                        affiliates and partners; and other topics we think you 
-                        might find of interest. We reserve the right to share 
-                        this information with other Tribune Company business units 
-                        and affiliates, including for example our affiliated newspapers. 
-                        This policy does not apply to the newspaper's use of such 
-                        information. <br>
-                        <br>
-                        Personally Identifiable Information collected by RedEye
-                        may also be used for other purposes, including but not 
-                        limited to site administration, troubleshooting, processing 
-                        of e-commerce transactions, administration of sweepstakes 
-                        and contests, and other communications with you. Certain 
-                        third parties who provide technical support for the operation 
-                        of our site (our Web hosting service and our newsletter 
-                        provider, for example) may access such information. We 
-                        will use your information only as permitted by law. In 
-                        addition, from time to time as we continue to develop 
-                        our business, we may sell, buy, merge or partner with 
-                        other companies or businesses. In such transactions, user 
-                        information may be among the transferred assets. We may 
-                        also disclose your information in response to a court 
-                        order, at other times when we believe we are reasonably 
-                        required to do so by law, in connection with the collection 
-                        of amounts you may owe to us, and/or to law enforcement 
-                        authorities whenever we deem it appropriate or necessary. 
-                        Please note we may not provide you with notice prior to 
-                        disclosure in such cases. </span> <br>
-                        <br>
-                        <span class="copybold">Your choice to opt out.</span> 
-                        <br>
-                        <br>
-                        <span class="copy"> From time to time our advertising 
-                        and promotional partners may use Personally Identifiable 
-                        Information to call to your attention products and offers 
-                        they believe might interest you. If you prefer not to 
-                        receive direct communications sent by our advertisers 
-                        or promotional partners, you will be given an opportunity 
-                        to decline before you provide us information we might 
-                        use for this purpose. If you decline at the time you provide 
-                        us with such information, you will not receive e-mail 
-                        or other communications sent directly by our advertisers 
-                        using information collected from our site, though we may 
-                        on occasion send you information on their behalf. </span> 
-                        <br>
-                        <br>
-                        <span class="copybold">Affiliated sites, linked sites 
-                        and advertisements.</span> <br>
-                        <br>
-                        <span class="copy">RedEye expects its partners, 
-                        advertisers and affiliates to respect the privacy of our 
-                        users. Be aware, however, that third parties, including 
-                        our partners, advertisers, affiliates and other content 
-                        providers accessible through our site, may have their 
-                        own privacy and data collection policies and practices. 
-                        For example, during your visit to our site you may link 
-                        to, or view as part of a frame on a RedEye
-                        page, certain content that is actually created or hosted 
-                        by a third party. Also, through RedEye you 
-                        may be introduced to, or be able to access, information, 
-                        Web sites, features, contests or sweepstakes offered by 
-                        other parties. RedEye is not responsible for 
-                        the actions or policies of such third parties. You should 
-                        check the applicable privacy policies of those third parties 
-                        when providing information on a feature or page operated 
-                        by a third party. <br>
-                        <br>
-                        While on our site, our advertisers, promotional partners 
-                        or other third parties may use cookies or other technology 
-                        to attempt to identify some of your preferences or retrieve 
-                        information about you. For example, some of our advertising 
-                        is served by third parties and may include cookies that 
-                        enable the advertiser to determine whether you have seen 
-                        a particular advertisement before. Other features available 
-                        on our site may offer services operated by third parties 
-                        and may use cookies or other technology to gather information. 
-                        RedEye does not control the use of this technology 
-                        by third parties or the resulting information, and is 
-                        not responsible for any actions or policies of such third 
-                        parties. <br>
-                        <br>
-                        You should also be aware that if you voluntarily disclose 
-                        Personally Identifiable Information on message boards 
-                        or in chat areas, that information can be viewed publicly 
-                        and can be collected and used by third parties without 
-                        our knowledge and may result in unsolicited messages from 
-                        other individuals or third parties. Such activities are 
-                        beyond the control of RedEye and this policy. 
-                        </span> <br>
-                        <br>
-                        <span class="copybold">Children.</span> <br>
-                        <br>
-                        <span class="copy"> RedEye does not knowingly 
-                        collect or solicit Personally Identifiable Information 
-                        from or about children under 13 except as permitted by 
-                        law. If we discover we have received any information from 
-                        a child under 13 in violation of this policy, we will 
-                        delete that information immediately. If you believe RedEye 
-                        has any information from or about anyone under 13, please 
-                        contact us at the address listed below. </span> <br>
-                        <br>
-                        <span class="copybold">Contacting us.</span> <br>
-                        <span class="copy">We can be reached by contacting: <br>
-                        <br>
-                        RedEye <br>
-                        c/o Melissa Lamb <br>
-                        redeyechicago.com <br>
-                        435 N. Michigan Ave. <br>
-                        Floor LL-2 <br>
-                        Chicago, IL 60611<br>
-                        Email: <a href="mailto:mlamb@tribune.com">mlamb@tribune.com</a></span> <br>
-                        <br>
-                        <span class="copybold">Changes to this policy.</span> 
-                        <br>
-                        <br>
-                        <span class="copy"> RedEye reserves the right 
-                        to change this policy at any time. Please check this page 
-                        periodically for changes. Your continued use of our site 
-                        following the posting of changes to these terms will mean 
-                        you accept those changes. Information collected prior 
-                        to the time any change is posted will be used according 
-                        to the rules and laws that applied at the time the information 
-                        was collected. </span> <br>
-                        <br>
-                        <span class="copybold">Governing law.</span> <br>
-                        <br>
-                        <span class="copy"> This policy and the use of this Site 
-                        are governed by Illinois law. Any claim related to the 
-                        Site or this policy shall be brought in a federal or state 
-                        court in Chicago, Illinois, within one year after the 
-                        claim arises. Users of RedEye consent to the 
-                        jurisdiction and venue of such court as the most convenient 
-                        and appropriate for the resolution of disputes concerning 
-                        this policy. RedEyeis controlled, operated 
-                        and administered entirely within the United States. This 
-                        statement and the policies outlined herein are not intended 
-                        to and do not create any contractual or other legal rights 
-                        in or on behalf of any party. <br>
-                        <br>
-                        Copyright © 2003, RedEye</span>
 					
-					</td>
-<!---------------------------------------------------- TOUCH THIS SECTION ONLY ------------------------------------------------------>
+
+
+
+
+
+<br>
+
+
+
+<p>
+</p><div class="text">
+	
 					
 					
-					<td width="30">&nbsp;</td>
-				</tr>
-			</tbody></table>	
-		</td>
-	</tr>
-	
-<!--------------------------------------------------------------  END EDITORIAL CONTENT -->	 	
-	
-	
+	RedEyeChicago.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by RedEyeChicago.com online and does not impact information collected or used by RedEyeChicago.com or its affiliates through other means.<br>
+<br>
+<b>How we gather information from users.</b><br>
+<br>
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.<br>
+<br>
+Like most Web sites, RedEyeChicago.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.<br>
+<br>
+<b>What we do with the information we collect.</b><br>
+<br>
+We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.<br>
+<br>
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on RedEyeChicago.com to communicate with you regarding our <a href="http://RedEyeChicago.chicagotribune.com/termsofservice"> Terms of Service</a> and privacy policy, products and services offered by RedEyeChicago.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.<br>
+<br>
+Personally Identifiable Information collected by RedEyeChicago.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.<br>
+<br>
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.<br>
+<br>
+<b>Your choice to opt out.</b><br>
+<br>
+The quality news and information on RedEyeChicago.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf.<br>
+<br>
+<b>Affiliated sites, linked sites and advertisements.</b><br>
+<br>
+RedEyeChicago.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a RedEyeChicago.com page, certain content that is actually created or hosted by a third party. Also, through RedEyeChicago.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. RedEyeChicago.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.<br>
+<br>
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. RedEyeChicago.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.<br>
+<br>
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site.  We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads.   The data that is collected is the property of RedEyeChicago.com, not the third party.  We also allow third parties called ad networks or ad servers to serve ads to you on RedEyeChicago.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on.   This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on RedEyeChicago.com.  RedEyeChicago.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. RedEyeChicago.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll.  Those parties that use cookies may offer you a way to opt out of ad targeting.  You may find more information at the Web site of the individual ad network or the 
+<a href="http://www.networkadvertising.org/consumer/opt_out.asp"> Network Advertising Initiative.</a><br>
+<br>
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of RedEyeChicago.com and this policy.<br>
+<br>
+<b>Children.</b><br>
+<br>
+RedEyeChicago.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe RedEyeChicago.com has any information from or about anyone under 13, please contact us at the address listed below.<br>
+<br>
+Contacting us.<br>
+<br>
+We can be reached by contacting:<br>
+<br>
+redeyechicago.com<br>
+c/o  Barbara Healy<br>
+435 Michigan Avenue<br>
+Chicago, IL 60611<br>
+Email: bahealy@tribune.com<br>
+<br>
+<br>
+<b>Changes to this policy.</b><br>
+<br>
+RedEyeChicago.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.<br>
+<br>
+<b>Governing law.</b><br>
+<br>
+This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of RedEyeChicago.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. RedEyeChicago.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.<br>
+<br>
+In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
+</div>
 
 
 
-	
-	
-	
-	
-	
-<!------------------------------------------------------ DO NOT TOUCH | BEGIN ROW SPACER -->
-	<tr bgcolor="#333333">
-		<td colspan="2" height="20">&nbsp;</td>
-	</tr>
-<!--------------------------------------------------------- DO NOT TOUCH | END ROW SPACER -->
+<!--END STORY-->
+</div>
 
 
 
 
+			<div id="rightcolumn">
+			
 
+     
 
+<center>
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.redeyechicago/;ptype=s;slug=red-privacy;rg=ur;pos=1;sz=160x600;tile=2;ord=19370060" type="text/javascript"></script>
+        <noscript><a href="http://ad.doubleclick.net/jump/trb.redeyechicago/;ptype=s;slug=red-privacy;rg=ur;pos=1;sz=160x600;tile=2;ord=19370060" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.redeyechicago/;ptype=s;slug=red-privacy;rg=ur;pos=1;sz=160x600;tile=2;ord=19370060" width="160" height="600" border="0" alt=""></a></noscript>
+<br><br>
+<a href="/advertisinginfo">Advertise with us</a>
+</center>
 
-<!------------------------------------------------------- DO NOT TOUCH | BACK TO TOP LINK -->
-	<tr bgcolor="#333333">
-		<td width="67">&nbsp;</td>
-		<td width="693"><a href="#top"><span class="copy">top</span></a></td>
-	</tr>
-<!-------------------------------------------------------- DO NOT TOUCH | END TO TOP LINK -->	
-
-
-
-
-
-
-
-
-
-<!------------------------------------------------------ DO NOT TOUCH | BEGIN ROW SPACER -->
-	<tr bgcolor="#333333">
-		<td colspan="2" height="20">&nbsp;</td>
-	</tr>
-<!--------------------------------------------------------- DO NOT TOUCH | END ROW SPACER -->
-
-				
-
-
-
-
-
-
-
-
-<!-------------------------------------------------- GRAY PIXEL AT BOTTOM -->	
-				<tr>
-					<td colspan="2"><img src="imgs/graypixel.gif" width="760" height="1"></td>
-				</tr>	
-<!-------------------------------------------------- GRAY PIXEL AT BOTTOM -->		
+			<!--END RIGHT COLUMN-->
+			</div>
 		
+			<div id="contentfooter">
+			<!--END CONTENT FOOTER-->
+			</div>
+		
+		<!--END CONTENT-->
+		</div>
+		
+<!--END CENTER COLUMN-->
+</div>
+	
+<div style="clear:both">&nbsp;</div>	
+
+<div id="footer">
+<a href="/">Home</a><a href="/services/site/red-tos,0,4193057.story?coll=red-footerlinks">Copyright &amp; terms of service</a> <a href="/services/site/red-privacy,0,2011041.story?coll=red-footerlinks">Privacy policy</a> <a href="/advertisinginfo">Advertise</a> <a href="/red-homedelivery,0,6797040.storylink?coll=red-footerlinks">Home Delivery</a>
+<!--END FOOTER-->
+</div>
+
+<!--END CONTAINER-->
+</div>
 
 
 
 
 
-<!--------------------------------------------------------- BOTTOM LINKS -->
-				<tr>
-					<td colspan="2" height="38" align="center"><br>
-<span class="copybold">&gt;&gt; Save 20% off the newsstand price - <a href="https://subscribe.redeyechicago.com" target="blank"><font color="#FF3300">Click here to subscribe to RedEye home delivery.</font></a></span><br>
-<br><span class="copybold"><a href="admarket.htm">Advertiser Information</a> &nbsp;| <a href="policy.htm">Privacy Policy</a> | <a href="copyright.htm">Copyright and Terms of Service</a></span></td>
-				</tr>
-<!----------------------------------------------------  END BOTTOM LINKS -->
 
 
 
 
 
-<!---------------------------------------------------- GRAY BAR AT BOTTOM -->
-				<tr>
-					<td colspan="2" height="28" bgcolor="#333333">
-						<table width="760" cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td width="40"><img src="imgs/clear.gif" width="40" height="1"></td>
-								<td width="720" align="center"><span class="copy3"><a href="http://metromix.com" target="blank">Metromix.com</a> &nbsp;|&nbsp; <a href="http://chicagotribune.com" target="blank">Chicagotribune.com</a> &nbsp;|&nbsp; <a href="http://chicagosports.com" target="blank">ChicagoSports.com</a> &nbsp;|&nbsp; <a href="http://www.wgntv.com" target="blank">WGN-TV</a> &nbsp;|&nbsp; <a href="">The WB</a> &nbsp;|&nbsp; <a href="http://www.cltv.com" target="blank">CLTV</a></span></td>
-								<td width="40"><img src="imgs/clear.gif" width="40" height="1"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-<!------------------------------------------------ END GRAY BAR AT BOTTOM -->
+<!-- Define JavaScript -->
 
 
 
-				
-						
-<!--------------------------------------------------- END OF ENTIRE TABLE -->		
-</tbody></table>
 
 
-</p><div style="position: absolute; visibility: visible; left: 100px; top: 83px;"><div id="menu0item1" style="position: absolute; left: 0; top: 0; width: 70; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,1)" onmouseout="popOut(0,1)"><table width="62" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : EVENTS</a></td></tr></tbody></table></div><div id="menu0item2" style="position: absolute; left: 90; top: 0; width: 80; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,2)" onmouseout="popOut(0,2)"><table width="72" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : ABOUT US</a></td></tr></tbody></table></div><div id="menu0item3" style="position: absolute; left: 190; top: 0; width: 90; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,3)" onmouseout="popOut(0,3)"><table width="82" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : COLUMNISTS</a></td></tr></tbody></table></div><div id="menu0item4" style="position: absolute; left: 300; top: 0; width: 110; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,4)" onmouseout="popOut(0,4)"><table width="102" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="wheretogetit.htm">  : WHERE TO GET IT</a></td></tr></tbody></table></div><div id="menu0item5" style="position: absolute; left: 430; top: 0; width: 90; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,5)" onmouseout="popOut(0,5)"><table width="82" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="classifieds.htm">  : PLACE AN AD</a></td></tr></tbody></table></div><div id="menu0item6" style="position: absolute; left: 540; top: 0; width: 110; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,6)" onmouseout="popOut(0,6)"><table width="102" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="rewards.htm">  : REDEYE REWARDS</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu1item1" style="position: absolute; left: 0; top: 0; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="listings.htm">Listings</a></td></tr></tbody></table></div><div id="menu1item2" style="position: absolute; left: 0; top: 22; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="photos.htm">Photos</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu2item1" style="position: absolute; left: 0; top: 0; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="team.htm">Meet the Team</a></td></tr></tbody></table></div><div id="menu2item2" style="position: absolute; left: 0; top: 22; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="cards.htm">Current Campaign</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"></div><div style="position: absolute; visibility: hidden;"><div id="menu4item1" style="position: absolute; left: 0; top: 0; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="ginab.htm">Gina B.</a></td></tr></tbody></table></div><div id="menu4item2" style="position: absolute; left: 0; top: 22; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="bazer.htm">Mark Bazer</a></td></tr></tbody></table></div><div id="menu4item3" style="position: absolute; left: 0; top: 44; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="carberry.htm">Maegan Carberry</a></td></tr></tbody></table></div><div id="menu4item4" style="position: absolute; left: 0; top: 66; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,4)" onmouseout="popOut(4,4)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="crokin.htm">Liz Crokin</a></td></tr></tbody></table></div><div id="menu4item5" style="position: absolute; left: 0; top: 88; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,5)" onmouseout="popOut(4,5)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="greenfield.htm">Jimmy Greenfield</a></td></tr></tbody></table></div><div id="menu4item6" style="position: absolute; left: 0; top: 110; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,6)" onmouseout="popOut(4,6)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="ibrahim.htm">Jon Ibrahim</a></td></tr></tbody></table></div><div id="menu4item7" style="position: absolute; left: 0; top: 132; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,7)" onmouseout="popOut(4,7)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="public.htm">Going Public</a></td></tr></tbody></table></div><div id="menu4item8" style="position: absolute; left: 0; top: 154; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,8)" onmouseout="popOut(4,8)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="steele.htm">Jason Steele</a></td></tr></tbody></table></div><div id="menu4item9" style="position: absolute; left: 0; top: 176; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,9)" onmouseout="popOut(4,9)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="whizzer.htm">Whizzer</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"></div><div style="position: absolute; visibility: hidden;"></div></body></html>
+<script language="javascript">var trbcat="none:none";</script>
+<script language="JavaScript">var tcdacmd="da;dt;rcid=";</script>
+
+<!-- Make Call -->
+<script src="http://an.tacoda.net/an/12173/slf.js" language="JavaScript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" src="/central/javascript/mtrx/s_code.js"></script><img name="s_i_tribglobal" height="1" width="1" border="0" alt="" src="https://sm.trb.com/b/ss/tribglobal/1/H.2-pdv-2/s04807429465199?[AQB]&amp;ndh=1&amp;t=30/0/2020%207%3A56%3A24%204%200&amp;vmt=4418B580&amp;ns=tribuneinteractive&amp;pageName=Privacy%20Policy%20-%20RedEye%20/%20services%20/%20site%20-%20story.&amp;g=https%3A//web.archive.org/web/20061209152947id_/http%253A//redeye.chicagotribune.com/services/site/red-privacy%252C0%252C2011041.story%253Fcoll%253Dred-footerlinks&amp;cc=USD&amp;ch=RedEye%3Aservices&amp;server=redeye.chicagotribune.com&amp;events=event5&amp;h1=RedEye%3Aservices%3Asite&amp;h2=TI%3AChicago%3ARedEye%3Aservices%3Asite&amp;v20=RedEye&amp;v21=story&amp;c30=N&amp;c38=story&amp;c44=red-privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript">
+<!--
+
+        				s.pageName="Privacy Policy - RedEye / services / site - story." 
+        		s.prop38="story"
+		s.eVar21="story" 
+		
+	s.server="redeye.chicagotribune.com" 
+	s.channel="RedEye:services"
+s.prop3=""
+s.prop28=""
+s.prop32=""
+ 
+	s.prop36="" 
+	 
+	s.prop37="" 
+	
+
+/* E-commerce Variables */
+s.events="" 
+s.eVar20="RedEye"
+
+s.hier1="RedEye:services:site" 
+s.hier2="TI:Chicago:RedEye:services:site"
+s.prop44="red-privacy"
+
+
+
+  
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->  </script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+
+
+
+
+
+
+
+
+
+
+<!--x-Instance-Name: i4s75n1--></body></html>
