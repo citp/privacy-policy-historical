@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-healthcaresolutions.com privacy policy that was archived on 2006-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613061942id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-healthcaresolutions.com privacy policy that was archived on 2006-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209213753id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.-->
 
 <html><head>
 <script language="JavaScript" type="text/javascript">
@@ -166,6 +166,11 @@ function A_form(Aform)
     Aform.criteria.focus();
     return false ;
   }
+  else if (Aform.security1.value != "73134") {
+    alert( "Security confirmation code is wrong" );
+    Aform.security1.focus();
+    return false ;
+  }
   else if (Aform.about.value == "") {
     alert( "Please select HOW DID YOU HEAR ABOUT US" );
     Aform.about.focus();
@@ -176,7 +181,7 @@ function A_form(Aform)
 }
 //-->
 </script>
-<title>e-HS privacy statement</title>
+<title>e-hs privacy statement</title>
 
 <!------ OAS SETUP begin ------>
 
@@ -206,27 +211,48 @@ a.src="http://www.e-healthcaresolutions.com/cgi-bin/advlogger/logger.cgi?ref="+e
 
         <tbody><tr valign="top">
                 <td id="sideMenu" bgcolor="#999999">
-                <center><p><b>Join our Mailing List!</b></p>
-                <!-- Start of MAILING LIST FORM -->
-                <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                <tbody><tr><td>
+<p><c><b>Join our Mailing List!</b></c></p>
+               <table>
+<script language="javascript" src="http://echo3.bluehornet.com/phase2/bhecho_files/smartlists/check_entry.js"></script>
+<script language="javascript">
+	<!--
+		function check_cdfs(form) {
+			return true;
+		}
+	-->
+</script>
+<script language="javascript" type="text/javascript">
+<!--
+    function doSubmit() {
+        if (check_cdfs(document.survey)) {
+			window.open('','signup','resizable=1,scrollbars=0,width=300,height=150');
+            return true;
+        }
+        else { return false; }
+    }
+-->
+</script>
+<form action="http://echo3.bluehornet.com/phase2/bullseye/contactupdate1.php3" method="post" name="bullseye" id="bullseye" onsubmit="return doSubmit();" target="signup"></form>
 
-                <form action="http://ehsdhn.bm23.com/x/webforms.php" method="post" target="_blank">
-                &nbsp; &nbsp;<input type="textbox" name="email" value="enter email" size="15" maxlength="100">
-                </form></td></tr>
-                <tr><td><p class="left">
-                <input type="checkbox" name="_check_contents16447[]" value="yes"> Publisher
-                <input type="hidden" name="fieldcontents[16447]" value="_check_contents16447[]">
-                <br>
-                <input type="checkbox" name="_check_contents17752[]" value="yes"> Advertiser
-                <input type="hidden" name="fieldcontents[17752]" value="_check_contents17752[]">
-                <br>
-                <input type="hidden" name="id" value="2884_f07c7a8d"> <input type="hidden" name="a" value="subscribe">
-                <input type="submit" name="submitbutton" value="Add">
-                </p></td></tr>
-                </tbody></table>
-                </center>
-                <!-- End of MAILING LIST FORM -->
+<tbody><tr> 
+<td> <input type="hidden" name="cid" value="494bdd68ca5bd609ac839a7859f2ee">
+<div align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b>Email:</b></font></div>
+</td>
+<td> 
+<input type="text" name="email">
+</td>
+</tr>        
+   <input type="hidden" name="message" value="Thank you. Your information has been submitted. To ensure the delivery of your newsletter(s). Please check your e-mail for our confirmation message."> 
+<tr> 
+<td colspan="2"> 
+<center>
+<input type="submit" name="SubmitBullsEye" value="Submit">
+ <input type="hidden" name="grp[]" value="338935"> 
+</center>
+</td>
+</tr>
+
+</tbody></table>
 
 
 
@@ -371,8 +397,7 @@ e-HS may also record and share aggregate information provided by you to other In
 partners with the e-HS.  It is your obligation to review their Privacy Statement as well as that of any other partner 
 prior to submitting information to a partner or affiliate web site.
 </p>
-<br> 
-
+<br>
 <h3>Cookies</h3>
 <p>
 e-HS, along with thousands of other Web sites, uses cookies to enhance your Web viewing experience.  
@@ -383,13 +408,30 @@ e-HS Web sites,  e-HS reads this number to help gain information of the user's o
 ensure that the advertisements you see are directed toward you and your needs.  However, the e-HS cookie will not be associated 
 with any personal information about you, and e-HS will not be able to identify you personally online. 
 </p>
-
 <p>
 While we believe that cookies enhance your Web experience with e-HS, you have the option of setting your Web browser to 
-reject cookies.  However, doing so may negatively impact the performance of the performance of the Web Sites.
+reject cookies.  However, doing so may negatively impact the performance of the performance of the Web Sites. 
+<br> 
 </p>
-<br>  
-
+<h3>Behavioral Targeting</h3>
+<p>
+We may use an ad network provider to help present advertisements on this
+web site. This ad network provider, like other advertising service
+vendors, uses cookies, web beacons, or similar technologies on the hard
+drive of your computer to serve you advertisements tailored to interests
+you have shown by browsing on this and other sites you have visited, and
+to determine whether you have seen a particular advertisement before and
+to avoid sending you duplicate advertisements. In doing so, the provider
+collects non-personal data such as your browser type, your operating
+system, Web pages visited, time of visits, content viewed, ads viewed,
+and other clickstream data. The use of cookies, web beacons, or similar
+technologies by these ad network providers is subject to their own
+privacy policies, not ours. If you do not want the benefits of these
+advertising cookies, you may opt-out by visiting
+http://www.networkadvertising.org/optout_nonppii.asp. However, if you do
+so you may not receive the full benefit from the use of our site.
+</p>
+<br>
 <h3>Child Privacy</h3>
 <p>
 e-HS does not specifically or intentionally collect information about children.  If you are concerned about your child's use 
@@ -462,20 +504,24 @@ Privacy Statement last updated, January 2005.
                 <a href="http://www.e-healthcaresolutions.com/main.php?pid=p-request">Publisher Info</a> |
                 <a href="http://www.e-HealthcareSolutions.com">Home</a>
                 <br>
-                © 1999 - 2005 &nbsp; e-Healthcare Solutions
+                © 1999 - 2006 &nbsp; e-Healthcare Solutions
                 </p>
                 <a href="http://www.e-HealthcareSolutions.com"><img src="http://www.e-healthcaresolutions.com/images/logo2.gif" border="0"></a>
-
-
                 </center>
+
                 </td>
         </tr>
 </tbody></table>
+<script type="text/javascript" src="https://ssl.kieden.com/kieden.js"></script>
+<script type="text/javascript">__kieden();</script>
 
 
-
-<script language="JavaScript">var st_di="d002"; var st_ai="";</script>
-<script language="JavaScript1.1" src="http://adnet.sageanalyst.net/s/ehcs.js"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-125737-46";
+urchinTracker();
+</script>
 
 <!-- SiteCatalyst code version: H.1.
 Copyright 1997-2005 Omniture, Inc. More info available at
