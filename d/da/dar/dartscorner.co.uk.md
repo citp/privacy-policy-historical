@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2006-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060531211757id_/http%3A//www.dartscorner.co.uk/information.php%3Finfo_id%3D3%26osCsid%3Deb329c5a204004c978133e5a22f4657a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209162236id_/http%3A//www.dartscorner.co.uk/information.php%3Finfo_id%3D3%26osCsid%3D98485d8e102370e087d6e0bbc2af2e15) for the most accurate reproduction.*
 
 # Darts Corner
 
