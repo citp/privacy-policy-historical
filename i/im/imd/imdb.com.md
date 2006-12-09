@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210450id_/http%3A//imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209110007id_/http%3A//imdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Database (IMDb)
 
   
-|  [](https://web.archive.org/search)  
----  
----  
+|   
 ---  
 [](https://web.archive.org/interfaces) |  [accessing the IMDb](https://web.archive.org/interfaces)  
 [](https://web.archive.org/marketing) |  [marketing](https://web.archive.org/marketing)  
