@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613062039id_/http%3A//www.makemusic.com/documents/smartmusic_privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209231536id_/http%3A//www.makemusic.com/documents/smartmusic_privacy_statement.pdf) for the most accurate reproduction.*
 
 # 
 
