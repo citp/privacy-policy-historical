@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414234030id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209130908id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Vindale Research
 
