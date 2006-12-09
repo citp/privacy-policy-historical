@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2006-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060104173730id_/http%3A//www.education.gov.au/goved/go/pid/342) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209151315id_/http%3A//www.education.gov.au/goved/go/pid/342) for the most accurate reproduction.*
 
 # Privacy Notice
 
