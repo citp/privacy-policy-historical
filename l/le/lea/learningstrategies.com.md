@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521101345id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209025543id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
 Privacy Policy 
+
+Effective Date of Current Policy: June 5, 2006
 
 This is how we will handle information we learn about you from your visit to our website. It is based on how all of us at Learning Strategies Corporation want to be treated when we visit other websites. 
 
@@ -29,5 +31,10 @@ We may provide aggregate statistics about our customers, sales, traffic patterns
 When you send us a personal story or testimonial 
 
 We are grateful when clients send us their success stories as well as a photograph. We'll share them to help others understand the possibilities of using our programs. When you send us a story, the only changes we will make are minor edits to correct any spelling and grammar mistakes or to make your story clearer. We will use your name and town unless you tell us not to. And at any time you would like us not to use your story, just send us an email.
+
+We may from time to time update this Policy. 
+
+We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the “Effective Date of Current Policy”  
+legend at the top of the Policy.
 
 Please [contact us](http://www.learningstrategies.com/ReachUs.asp) with any questions or concerns. 
