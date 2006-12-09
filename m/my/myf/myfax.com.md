@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103444id_/http%3A//myfax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209100746id_/http%3A//www.myfax.com/privacy.asp) for the most accurate reproduction.*
 
-# Internet Fax - Online Fax to Email Service - MyFax Privacy
+# MyFax Privacy Policy
 
 Protus IP Solutions, Inc. ("Protus") is dedicated to establishing a trusting relationship with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by Protus, including but not limited to [http://www.myfax.com](http://www.myfax.com/) and [http://www.protus.com](http://www.protus.com/). Because Protus wants to demonstrate its commitment to our users' privacy, we are disclosing: 
 
-  * a. What personally identifiable information Protus collects. 
-  * b. How Protus uses the information. 
-  * c. With whom Protus may share user information. 
-  * d. Your choices about collection, use and distribution of the information. 
-  * e. The safeguarding procedures are in place to protect the loss, misuse or alteration of      information under Protus control. 
-  * f. How users can correct any inaccuracies in the information.
+  * What personally identifiable information Protus collects.
+  * How Protus uses the information.
+  * With whom Protus may share user information.
+  * Your choices about collection, use and distribution of the information.
+  * The safeguarding procedures are in place to protect the loss, misuse or alteration of information under Protus control.
+  * How users can correct any inaccuracies in the information.
 
 
 
