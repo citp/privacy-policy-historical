@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the navexpress.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418174624id_/http%3A//navexpress.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navexpress.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209172855id_/http%3A//navexpress.com/info/privacy_policy.htm) for the most accurate reproduction.*
 
 # NavExpress - Privacy policy
 
 We will not collect, rent, sell or release personally identifiable information without your permission. 
 
-AYou can manage, update and control the information you provide to us. 
+You can manage, update and control the information you provide to us. 
 
 You have the right to ask questions relating to the privacy policy. 
 
-We only collect your information when you register to our services. Which includes email, chat, discussion forums and the NavExpress newsletters. 
+We only collect your information when you make enquiries, submitting web site information or become our advertiser. 
 
 We will NOT share your personal information to other companies unless you have given us an authorization to do so.
 
