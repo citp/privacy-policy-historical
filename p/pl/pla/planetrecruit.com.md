@@ -1,77 +1,47 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630003044id_/http%3A//planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209091424id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
-# PlanetRecruit: IT, Engineering and Management jobs from the UK's top recruitment agencies - Employment, careers, work
+# IT, Telecoms and Engineering job search site - PlanetRecruit
 
-| 
+**At PlanetRecruit we are committed to protecting your privacy**  
+PlanetRecruit endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users. 
 
-hotonline Limited ("hotonline") is strongly committed to protecting your privacy, and this document sets out our policy on the use of personal data. This privacy policy may be updated from time to time. 
+**What this Privacy Policy covers**   
+This Privacy Policy covers treatment of personally identifiable information that we collect when you are on the PlanetRecruit website, register with PlanetRecruit, set up a job alert with PlanetRecruit or apply for a job via the PlanetRecruit site. This policy does not apply to companies that PlanetRecruit does not own or control, or to people that PlanetRecruit does not employ.
 
-## What information will we collect about you?
+**Information collection and use**   
+PlanetRecruit collects personally identifiable information when you register with PlanetRecruit, when you use certain PlanetRecruit products or services eg apply for a job via the PlanetRecruit site, when you visit PlanetRecruit web pages, and when you enter competitions. PlanetRecruit may also receive personally identifiable information from clients. 
 
-  * When you register to use the hotonline website, we will record - your name, address, telephone number, email address, year of birth, sex, current salary level, education level, current and desired location, ideal job description and all other details comprising your curriculum vitae ("CV") submitted by you.
-  * We also collect broad demographic data and general "traffic" data to enable us to see which are the most popular areas of our site and to provide you with a more tailored service.
+PlanetRecruit automatically receives and records information on our web server logs from your browser including your Internet Protocol address. Every computer on the internet has an IP address which is a unique number by which it can be identified. PlanetRecruit records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
 
+PlanetRecruit may set and access cookies on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. Each website can send its own cookies to your browser if your browser's preference settings allow it. To protect your privacy, your browser will only permit a website to access the cookies it has already sent to you. You can choose whether or not to accept cookies, however, if you do not accept PlanetRecruit cookies, some of our services may not be available to you. 
 
+**General information**   
+PlanetRecruit gathers general information about users, for example, what services users access the most and which areas of the PlanetRecruit site are most frequently visited. Such data is used in the aggregate to help us to understand how the PlanetRecruit site is used. We gather this information so that we can continue to improve and develop our services to benefit of our users. We may make this aggregated information available to users of the PlanetRecruit site, to our clients and also to auditors eg ABCe. These statistics are anonymous and contain no personal information and cannot be used to gather such information.
 
-## How your information is used 
+**Your personal information**   
+When you register with PlanetRecruit, set up a job alert, enter a competition, or buy a product or service, we ask for personal information such as your name, date of birth, contact details, and other details. Once you register with PlanetRecruit and accept our Terms & Conditions, you are not anonymous to us. We may use information that you provide to alert you to our own products and services. We may contact you regarding site changes or changes to the PlanetRecruit products or services that you use.
 
-  * By marking your CV "private" on the registration form, we may use your personal information for job applications posted on the hotonline website. Your information will not be accessible to third parties who search our database for candidates and will only be distributed to recruitment agencies with whom you have applied for a job.
-  * If you do not mark your CV as "private", information contained in your CV will be accessible online to third parties through the hotonline database and your personal information may be provided to third parties for the purpose of finding employment for you.
-  * We may email you with information updates, news or promotional material from hotonline from time to time, which you have subscribed to or may be of interest to you.
+**Disclosure of personal information**   
+We do not disclose information about your individual visits to the PlanetRecruit site, or personal information that you provide, such as your name and personal contact details unless you have given us your permission or we believe that the law requires it. We may record and share aggregated information with our clients. Additionally, if you input your information on a co-branded registration page or job application page, eg a PlanetRecruit client-company registration page then the information that you give becomes the property of both PlanetRecruit and the client. PlanetRecruit is not responsible for the information that the client receives.
 
+**PlanetRecruit may send personally identifiable information about you to other clients when:**
 
-
-## Who sees your personal information?
-
-  * Any third party who registers to use the hotonline services and accesses your personal information through the hotonline database (if your CV is not marked "private"), or receives your personal information from hotonline, in order to place you for employment.
-  * A copy of your CV may be retained by any third party in their own files or databases, and circulated to other people within their organisation. We are not responsible for the use or privacy of the contents of your CV in such instances.
-  * We do not sell or rent out our database of personal information.
-
-
-
-## Transfer outside the EEA
-
-  * Personal information comprising your CV may be accessed through the hotonline database by third parties outside the Economic European Area ("EEA").
-  * If indicated by your preference of location on the registration form, we may forward your personal information to third parties outside the EEA for the purposes of gaining you employment in such countries.
-  * By registering and using the hotonline website, you consent to this transfer.
+  * we have your consent to share the information;
+  * we need to share your information to provide the service you have requested;
+  * we need to send the information to companies who work on behalf of PlanetRecruit to provide a product or service to you. (Unless otherwise stated, these companies do not have the right to use the personally identifiable information we provide to them beyond what is necessary to assist us and you);
+  * we respond to subpoenas, court orders or legal process;
 
 
 
-## Cookies
+**Other ways of ensuring your privacy** : 
 
-  * A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive, used to store and track information about you.
-  * Generally, we use cookies on our website to:
-  * remind us who you are and to access your member information (stored on our computers) in order to deliver a better and more personalised service;
-  * record searches your have made whilst visiting our site;
-  * collect anonymous data for direct marketing and promotional purposes;
-  * hotonline also collects Internet Protocol ("IP") addresses. Your IP address is the address your web browser or email application automatically gives to the computer whose web page or email you are trying to access over the Internet.
-  * IP addresses may be used for the system administration of our website and to gather broad demographic information, including to:
-  * send you the most appropriate employment information based on geographic area or information derived from your IP address, and
-  * estimate the total amount of users visiting the hotonline website from various locations.
+  * You may amend your personal details at any time or if you wish. These options are available from the "My Profile" page of our website.
+  * You may unsubscribe from any employment or promotional information that we may send to you by using the unsubscribe function at the bottom of the email.
 
 
 
-## Other ways of ensuring your privacy
+**Contact PlanetRecruit Ltd.**  
+If you have any questions, concerns or comments regarding PlanetRecruit Ltd or this website, please contact us: PlanetRecruit Ltd, Beaumont House , Kensington Village, Avonmore Road, London, W14 8TS, 
 
-  * You may amend your personal details at any time or if you wish, remove your CV from the hotonline database. These options are available from the "My hotonline" page of our website.
-  * You may unsubscribe to any employment, promotional or marketing information you have subscribed to receive from hotonline at any time, from the "My hotonline" page of our website.
+  
 
-
-
-## Contacting hotonline
-
-If you have any questions, concerns or comments regarding hotonline or this website, please contact us: 
-
-Email: 
-
-**Mailing Address:**
-
-Beaumont House
-
-Kensington Village
-
-Avonmore Road
-
-London 
-
-W14 8TS
