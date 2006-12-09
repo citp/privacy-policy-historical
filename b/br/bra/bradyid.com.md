@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002504id_/http%3A//bradyid.com/bradyid/cms/contentView.do%3Furl%3D/BradyID/pages/GenericPage.aspx%3Fid%3D1059) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209152746id_/http%3A//bradyid.com/bradyid/cms/contentView.do%3Furl%3D/BradyID/pages/GenericPage.aspx%3Fid%3D1059) for the most accurate reproduction.*
 
 # BRADYID.COM PRIVACY POLICY
-
-**BRADYID.COM PRIVACY POLICY**
 
 **Introduction  
 **[_www.bradyid.com_](http://www.bradyid.com/) (Site) is a website owned by **Brady Corporation** (we, our, or us). This privacy policy (Policy) is designed to help you understand this Site's information collection, use, and disclosure practices.
@@ -17,7 +15,7 @@ This Policy applies only to this Site. Although you may see links or references 
 **Passive Information Collection and Use**  
 During your visit, this Site may passively collect certain kinds of information, as described below:
 
-**IP Addresses.** An Internet protocol (IP) address is a unique identifier automatically assigned to a user?s computer when logging onto the Internet. IP addresses are used to identify server problems, administer a website, and compile aggregated statistics for marketing and research purposes. This Site captures IP addresses.
+**IP Addresses.** An Internet protocol (IP) address is a unique identifier automatically assigned to a user's computer when logging onto the Internet. IP addresses are used to identify server problems, administer a website, and compile aggregated statistics for marketing and research purposes. This Site captures IP addresses.
 
 **Navigational Data.** Navigational data includes log files and clickstream data. Navigational data can identify a user?s Web browser and operating system, when and for how long a user visits a website, what pages a user views on a website, and the address of the website that the user was visiting previously. This information is typically used to administer a website, improve website content, and compile aggregated statistics for marketing and research purposes. This Site collects navigational data.
 
