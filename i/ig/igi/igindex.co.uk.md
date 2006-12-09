@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425203539id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209141631id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Index - Privacy Notice
 
@@ -118,9 +118,3 @@ This website may have links to external third party websites that may benefit th
 
 Freephone **0800 195 3100**  
 Please see [contact](https://web.archive.org/content/contact.html) page for support/trading lines
-
-[
-
-### Live Chat
-
-](https://web.archive.org/livechat/interim.jsp?workgroup=demo&webSiteId=igi)
