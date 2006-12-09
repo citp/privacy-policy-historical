@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050445id_/http%3A//perfectweddingguide.com/home_legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209160715id_/http%3A//perfectweddingguide.com/home_legal_privacy.asp) for the most accurate reproduction.*
 
 # Orlando Weddings
 
@@ -51,7 +51,7 @@ PWG Holdings, LLC.
 Lake Mary, FL 32746  
 **PHONE:         **(888) 222-7433  
 **FAX:**           (888) 933-3404  
-**WEB SITE:   **[www.pwg.com](http://www.pwg.com/)  
+**WEB SITE:   **[www.perfectweddingguide.com](http://www.perfectweddingguide.com/)  
 **EMAIL** **:**       [corp@pwg.com](mailto:corp@pwg.com)  
 **_. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._**
 
@@ -60,7 +60,7 @@ OPT-OUT **
 
 _(1) Send an e-mail requesting that you be opted out to[ unsubscribe@pwg.com](mailto:unsubscribe@pwg.com).  Please use the phrase Privacy Page/Opt Out in the subject line._
 
-_(2) Click the following link if you no longer wish to let us collect or use identifiable information about you (you must exist in our database in order to opt out): **[Unsubscribe](https://web.archive.org/web/20060615050445id_/http%3A//remove.asp)**_
+_(2) Click the following link if you no longer wish to let us collect or use identifiable information about you (you must exist in our database in order to opt out): **[Unsubscribe](https://web.archive.org/web/20061209160715id_/http%3A//remove.asp)**_
 
 _(3) Click the appropriate link in any update e-mails you receive_[  
 ](mailto:corp@thepwg.com) 
