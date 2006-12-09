@@ -1,132 +1,98 @@
-> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205944id_/http%3A//www.infospaceinc.com/about/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210002318id_/http%3A//www.zoo.com/info.zoo/search/help/privacy.htm) for the most accurate reproduction.*
 
-# About InfoSpace®, Privacy
+# Zoo - Privacy Policy
 
-| 
+last updated: August 29, 2006
 
-As a diversified technology and services company, InfoSpace, Inc. and its subsidiaries (collectively, "InfoSpace") recognize privacy as an important issue and have prepared this Privacy Policy to inform you of our data collection and use practices and confirm our commitment to keep your personal information secure.
+Zoo makes searching the Internet easy by bringing together results from the best search engines and content providers around. Using Zoo to search the web gets you results from Google, Yahoo!, and Wikipedia. When you search using the news tab, you see the latest from ABC, Fox and Yahoo! News. InfoSpace, Inc. owns and operates Zoo. We urge kids to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. Zoo is committed to complying fully with the Children's Online Protection Act of 1998. 
 
-InfoSpace provides a broad mix of products and services through many different distribution channels. We provide search and directory products and services through our owned Web sites and the Web sites of our business partners (collectively, the "InfoSpace Sites"). Our mobile content and data products and services are primarily provided through the Web sites and handsets of our mobile operator and handset manufacturer partners. Additionally, we distribute some mobile products through other Web sites and point of purchase arrangements. We provide general information about the company, our products and services and communications regarding press releases, employment opportunities other company news through this Web site.
+Please note that this policy only applies to our data collection and use practices for this website (www.zoo.com) (the "Site") and the services we provide through the Site (collectively, the "Services"), and does not apply to the data collection and use practices of other companies or organizations whose products, services or Web sites you may use or gain access through the Site and Services. For InfoSpace's general policies and practices regarding information collection and use, please visit InfoSpace's general corporate website at [www.infospaceinc.com](http://www.infospaceinc.com/) and review its corporate [privacy policy](http://www.infospaceinc.com/about/legal_privacy.php).
 
-Please note that this policy only applies to our data collection and use practices for the InfoSpace Sites and our other products and services (collectively, with the InfoSpace Sites, the "InfoSpace Properties") and does not apply to the data collection and use practices of other companies or organizations whose products, services or Web sites you may use or gain access through the InfoSpace Properties. For information on the data collection and use practices of those third parties, please refer to their respective policies and procedures.
+At Zoo, it's our policy to provide a website search experience that requires minimum collection of information from our visitors. Generally, we limit our collection of information from Zoo to what is known as non-personally identifiable information. When a user visits Zoo we collect anonymous (i.e. non-personally identifying) information that the user's browser makes available, such as the originating Internet Protocol (IP) address, browser type and operating system, the date and time of the visit, the duration and activity of the visit and the Uniform Resource Locator (URL) of the referring and exiting Web sites. We generally use log files to collect and store this anonymous user information. We use this information for a variety of purposes, including the administration and operation of our Web sites and other properties, designing and developing new products and services and generally improving the overall quality of the user's experience. We do not require users to share personally-identifiable information, such as name or email address, in order to use the search services of Zoo. 
 
-**General Policy**
+From time to time, however, we may request or users may otherwise voluntarily provide us information that may personally identify the user (e.g. email address and/or email address of parent or third party), as explained below, in order to allow the user to share information and interests with others and offer and conduct other online activities (e.g. tell-a-friend service). We do not condition a user's participation in any of the online activities on Zoo on the disclosure of more information than is reasonably necessary to participate in the activity. When we request personal information from you, we will inform you of the type of information we need and the purpose of our use. We only use personal information we receive for the purpose it was collected.
 
-Through the InfoSpace Properties and from third party sources, we collect both aggregate data and personal information. A general description of the types of information we collect and how we use that information is provided below. For more specific descriptions of the information we collect and use in connection with a particular InfoSpace Property, please review the privacy policy for that property located below:
+Zoo allows users to send information about services and products available on the Site to others that may be interested, and from time to time will send, on behalf of users who request it, email messages to family and/or friends to let family and/or friends share their interests. If a user elects to use our referral service for informing a friend about Zoo, we ask for the user's first name and friend's email address and automatically send the friend a one-time email inviting them to visit Zoo. We do not require users to submit personally identifiable information about themselves in order to send an electronic postcard or for Zoo to send email messages to family or friends, and we do not store the information related to the friends and the one-time email sent pursuant to the user's input will be our only contact with that person for such input. 
 
-  * [www.infospace.com/home/about/corporate/privacy.htm](http://www.infospace.com/home/about/corporate/privacy.htm)
-  * [www.switchboard.com](http://www.switchboard.com/)
-  * [www.dogpile.com/info.dogpl/search/help/privacy.htm](http://www.dogpile.com/info.dogpl/search/help/privacy.htm)
-  * [www.webcrawler.com/info.wbcrwl/search/help/privacy.htm](http://www.webcrawler.com/info.wbcrwl/search/help/privacy.htm)
-  * [www.metacrawler.com](http://www.metacrawler.com/)
-  * [www.infospace.com/_1_2PYSUMY02D7VHPR__canada/about/corporate/privacy.htm](http://www.infospace.com/_1_2PYSUMY02D7VHPR__canada/about/corporate/privacy.htm)
-  * [www.webfetch.com/uk.webfetch/about/corporate/privacy.htm](http://www.webfetch.com/uk.webfetch/about/corporate/privacy.htm)
-  * [www.webcrawler.de/de.webs/search/help/datenschutzbestimmungen.htm](http://www.webcrawler.de/de.webs/search/help/datenschutzbestimmungen.htm)
+Zoo may also provide the opportunity to feedback to us. In doing so, we do not request personally identifiable information. 
 
+All information collected for electronic postcards and email messages is used only to send the requested electronic postcard or email message and is deleted from our system once the electronic postcard, email message or email response is sent.
 
+When you visit Zoo one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use by InfoSpace and its third party service providers. A cookie is a small data file that is sent to your computer by a Web site when you visit. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web-based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user's browser. We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features, products and services may not function properly without cookies. 
 
-For a more specific description of the information we collect and use from this Web site, please see the section below entitled "InfoSpace Corporate Web site."
+We do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information that users submit online to us through Zoo. We use information collected from cookies and web beacons to provide you with personalized features and preferences, and to track which pages our users view, which browsers they use and other information about user activity when visiting the Site or using the Services.
 
-**Types of Information We Collect and Use**
+In general, we only use any personal information collected from Zoo for the purpose it was collected, including providing the Site and Services, sending the electronic postcards and email messages as requested on behalf of the user.
 
-In general, we collect and use both anonymous and personal user information and aggregate access and use data. We collect this information and data from a variety of sources, including use and access to InfoSpace Sites and other InfoSpace Properties, user submissions, transactions and correspondence, employee and investor relationships and from third parties such as our business partners.
+We may internally transfer the information we collect, including your personal information, to and from the United States and any other country in which we or our agents maintain facilities for the purposes identified above, as well as for storage, processing or other business use as permitted under this Privacy Policy. By accessing or using the Site or otherwise using the Services, you consent to the transfer of your personal information among these facilities, including those located outside of your country of residence.
 
-  * **Anonymous User Information.** We collect anonymous (i.e. non-personally identifying) information that your browser and cell phone make available each time you visit an InfoSpace Site or use another InfoSpace Property, such as our mobile data and content services. The browser information includes your originating Internet Protocol (IP) address, browser type and operating system, the date and time of your visit, the duration and activity of your visit and the Uniform Resource Locator (URL) of the referring and exiting Web sites. We generally use log files to collect and store this anonymous user information. The cell phone information we collect includes type of handset, menu selection and other anonymous use information. Additionally, for our mobile gaming tournaments, we collect anonymous demographic data that includes age, sex, type, and number of repeat subscriptions. We use this information for a variety of purposes, including the administration and operation of our Web sites and other properties, designing and developing new products and services and generally improving the overall quality of your experience.
-  * **Personal User Information.** In addition to the anonymous user information above, we may occasionally request from you or you may otherwise voluntarily provide us information that may identify you personally. InfoSpace receives personal user information through its different properties from a broad range of activities, including surveys, contests, personalization of directory services, public records services, user groups, tell-a-friend service, mobile data transmission services and general correspondence. Also, we may receive personal information from third party service providers as part of our search and directory and mobile products and services. Depending on the product or service used, the personal information we collect typically includes contact information (such as name, address, email address and telephone number), demographic information (such as age, gender, occupation and household income) and billing information (shipping and billing address, credit card information). When we request personal information from you, we will inform you of the type of information we need and the purpose of our use. Except as specifically described in this Privacy Policy and the associated privacy policies of our various properties, we will in general only use your personal information for the purpose it was collected.
-  * **Mobile User Information.** As part of our mobile products and services, we receive personal information from wireless carriers and operators in order to provision the specific content and data services requested by individual cell phone users. All such personal information is acquired from either the wireless carrier's Web site or from the user's cell phone via the wireless carrier's network. This personal data is usually limited to the user's name and cell phone number. In certain cases, such as for gaming tournament prize fulfillment, the user's mailing address is also provided. The user must explicitly "opt in" through the wireless carrier in order for any of this information to be collected and its use is governed by this Privacy Policy and any policies or procedures of the user's wireless carrier. We only use personal information we receive as part of our mobile products and services for the purpose of providing those products and services to the wireless carriers and operators and their subscribers.
+In general, we do not sell, rent or otherwise trade your personal information with third parties. However, we may disclose and share your personal information with third parties under the following limited circumstances:  
 
 
-
-**Cookies**
-
-When you visit an InfoSpace Site or use certain InfoSpace Properties, one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use. A cookie is a small data file that is sent to your computer by a Web site when you visit. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web-based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user's browser. We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features, products and services may not function properly without cookies.
-
-**InfoSpace Corporate Web site**
-
-As a general policy, no personal information is automatically collected from visitors to the corporate Web site, located at InfoSpaceinc.com. However, certain anonymous information is recorded by the standard operation of our Web site servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., America Online, EarthLink). By having this information, we are able to automatically optimize the Web site for a particular visitor's computer. Other use of this information may include internal review of the number of visitors to this Web site.
-
-InfoSpace only knows your email address and any other personal information through this Web site when you voluntarily submit the information during a visit to this Web site. Personally identifiable information you submit on this Web site may be stored on individual computers or in a centralized server location.
-
-**How We Use Your Personal Information**
-
-In general, we only use your personal information for the purpose it was collected, including internally to serve you the Web sites, products and services you request, to enhance and extend our relationship with you, and to improve our products and services. We also use personal information for fulfillment and billing purposes, to complete transactions you have requested, to anticipate and resolve problems with our products and services, to respond to customer support inquiries, to create and inform you of new products and services, and to comply with applicable laws. We use information collected from cookies and web beacons to track which pages our users view, which browsers they use and other information about user activity when visiting an InfoSpace Site or using an InfoSpace Property. We may also use cookies to help us provide you with personalized features and preferences in a manner that is linked to personal user information you may elect to share with us. We use action tags to compile statistics and other data about our users on an aggregate basis. More detail about our use of certain types of information we collect is provided above in the section entitled "Types of Information We Collect and Use" and in the privacy policies specific to our different products and services, located as set forth above in the section "General Policy."
-
-**Inter-Company Transfers**
-
-We may internally transfer the information we collect, including your personal information,to and from the United States and any other country in which we or our agents maintain facilities for the purposes identified above, as well as for storage, processing or other business use as permitted under this Privacy Policy. By accessing or using an InfoSpace Site or other InfoSpace Property you consent to the transfer of your personal information among these facilities, including those located outside of your country of residence.
-
-**Sharing Information With Third Parties**
-
-In general, we do not sell, rent or otherwise trade your personal information with third parties for compensation. However, we may disclose and share your personal information with third parties under the following limited circumstances:
-
-  * **Consent.** We have received your consent or permission.
-  * **Transaction Processing.** As necessary to complete a requested transaction, such as verification of your credit card information.
-  * **Third Party Service Providers.** Occasionally, we engage third parties to provide us with products and services, such as support, consulting, statistical analysis and marketing research, that may require access to or use of your personal information. In such event, the third party will be obligated to maintain the privacy of any personal information disclosed or shared as part of its provision to us of the product to service and to only use such information for the limited purpose of providing us with the product or service.
-  * **Business Transfers.** Information about our users and the InfoSpace Properties is one of our most important business assets. As such, information about our users, including personal information, may be disclosed and transferred as part of any merger or acquisition, creation of a separate business to provide InfoSpace products and services, the sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets.
-  * **Protection of InfoSpace; Compliance with Law.** We will disclose personal information or remove, destroy or alter personal information in our possession or control when we believe it is necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers or the public.
+  *  **Consent.** We have received valid consent or permission from the user.
+  *  **Third Party Service Providers.** Occasionally, we engage third parties to provide us with products and services, such as advertisements, support, consulting, statistical analysis and marketing research. In general, we only share anonymous information with such third parties for purposes of receiving their services or for analysis and improvement of our site, and these third parties do not collect any personally identifiable information. For example, we use third party advertising companies that collect anonymous information about your visits to and interaction with our site as part of their service serving advertisements to our site. In the event we share any of your personal information with any such third party service provider, the third party will be obligated to only use such information for the limited purpose of providing us with their specific product or service and to maintain the privacy of any such personal information disclosed or shared. For more information about the information collection practices of some of our third party service providers, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+  *  **Business Transfers.** Information about our users is one of our most important business assets. As such, information about our users, including personal information, may be disclosed and transferred as part of any merger or acquisition, creation of a separate business to provide Infospace products and services, the sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets.
+  *  **Protection of Infospace; Compliance with Law.** We will disclose personal information or remove, destroy or alter personal information in our possession or control when we believe it is necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers or the public.
 
 
 
-We may use, disclose and share any anonymous, non-personally identifiable information and data we collect with any third party in our sole discretion.
+Zoo uses and provides access to products, services and content of third parties (collectively, **"Third Party Properties"** ), such as third party links and advertisements. Please be aware that we do not control and are not responsible for the information collection and use practices and policies of these third parties, and that by accessing or using Third Party Properties they may collect information regarding your use and access. In general, links on the Site, whether part of a listing, advertisement or other content, only collect anonymous, non-personally identifiable information about your browser and activity. However, we encourage you to be aware when you use a Third Party Property or leave the Site and to review any third party's data and information collection and use practices and policies with regard to their own Web site, products or services.
 
-**Third Party Information Collection and Use; Links**
+We have implemented and use a variety of industry accepted physical, electronic and managerial policies and procedures to safeguard and secure the information we collect to help prevent unauthorized access, disclosure, alteration or destruction and to maintain its accuracy and correct use. We generally store the information and data we collect on our own servers in a secure environment and restrict access to your personal information to employees and agents who need to know that information in order to provide you with access and use of the Site or other Infospace properties, operate and maintain the Infospace properties and as otherwise set forth and in accordance with this Privacy Policy. While we have taken efforts to safeguard and secure your personal information, we cannot guarantee that your information may not be disclosed, altered or destroyed by accidental circumstances or by the unauthorized acts of others.
 
-The InfoSpace Properties use and provide access to products, services and content of third parties (collectively, "Third Party Properties"), such as third party search results, directory listings, links and advertisements. Please be aware that we do not control and are not responsible for the information collection and use practices and policies of these third parties, and that by accessing or using Third Party Properties they may collect information regarding your use and access. In general, links on the InfoSpace Sites and as part of other InfoSpace Properties, whether part of a listing, advertisement or other content, only collect anonymous, non-personally identifiable information about your browser and activity. However, we encourage you to be aware when you use a Third Party Property or leave an InfoSpace Property and review any third party's data and information collection and use practices and policies with regard to their own Web site, products or services.
+The user has the choice of whether or not to provide us with personal information, and it is not necessary to provide us with personal information to use the search services available on Zoo. Unless the cost, burden or expense of such access is unwarranted, or the rights of a third party would be violated, we provide the user with the ability to access, correct, update and/or delete the user personal information we collect and store. To do so, please contact us at the contact information provided below.
 
-**Information Storage and Security**
-
-We have implemented and use a variety of industry accepted physical, electronic and managerial policies and procedures to safeguard and secure the information we collect to help prevent unauthorized access, disclosure, alteration or destruction and to maintain its accuracy and correct use. We generally store the information and data we collect on our own servers in a secure environment and restrict access to your personal information to employees and agents who need to know that information in order to provide you with access and use of the InfoSpace Sites or other InfoSpace Properties, operate and maintain the InfoSpace Properties and as otherwise set forth and in accordance with this Privacy Policy. While we have taken efforts to safeguard and secure your personal information, we cannot guarantee that your information may not be disclosed, altered or destroyed by accidental circumstances or by the unauthorized acts of others.
-
-**Choice**
-
-Typically you will have the choice of whether or not to provide us with personal information. However, you may not be able to access or use some features of the InfoSpace Sites and some of the other InfoSpace Properties if you chose not to provide us with the information required for those products and services. Unless the cost, burden or expense of such access is unwarranted, or the rights of a third party would be violated, we will provide you with the ability to access, correct, update and/or delete the personal information we collect and store from you. Mechanisms for accessing your personal information are either described in the specific privacy policies for the particular InfoSpace Site or other InfoSpace Property you are using or you may contact us at the information provided below.
-
-**Special Notification with respect to Children's Privacy (Users under the Age of 13)**
-
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT:
-
-  * Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or
-  * Knowingly use or share personal information from users under 13 years of age with third parties; It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
-
-
+At Zoo, our goal is to help parents ensure that their kids have a safe and fun online experience. That's why we've set up a system by which parents can print out and mail or fax us a signed form that allows them to review any identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's information. See Zoo Parental Information Request Form Below. Zoo takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
 
 Questions regarding children's privacy should be directed to us at the contact information provided below.
 
-**Safe Harbor**
+If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner.
 
-We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to <http://www.export.gov/safeharbor/>. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program.
+We will change, amend and update this Privacy Policy from time to time to reflect changes in our privacy practices, technology, products and services, general business operations and industry. In the event of any such change, we will post a revised policy on this Web site and revise the "Last Updated" date of the policy. We reserve the right to change, amend and update this Privacy Policy at any time in our sole and absolute discretion, and such changes will be effective upon posting of the revised policy. In the event of a material change in our information collection and use practices, we will provide more prominent notice of such change along with the revision to the effective date of the policy. You should check this Privacy Policy on a regular basis to ensure you have reviewed and are familiar with the most current policy.
 
-  * **Mobile Services.** For mobile content and data services supplied through partner EU wireless carriers and operators, we receive Personal Data transferred by users in the EU to the US merely as a Data Processor on behalf of those partners. In this capacity, we act as the Data Processor and our carrier partners act as the Data Controllers. We do not own or control any of the Personal Data we process on behalf of our carrier partners. Processes performed by us on behalf of our carrier partners are pursuant to the instructions of the applicable partner. We may use the services of third party Data Processors to process Personal Data in accordance with purposes identified for such data by the applicable partner.
-  * **Compliance with Applicable Law.** Notwithstanding the foregoing, we may disclose Personal Data to governmental authorities when required or reasonably requested to do so by such governmental authorities. This Privacy Policy does not apply to the extent that it is in conflict with any law that may be applicable to the Personal Data of a Data Subject. 
-  * **Safe Harbor Verification.** InfoSpace verifies that this Privacy Policy is accurate, comprehensive, and completely implemented, including implementation of appropriate employee training and other internal procedures. InfoSpace further verifies that its privacy policy conforms to the "Safe Harbor Principles" issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations. 
+For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please contact us at: 
 
-
-
-**Enforcement**
-
-If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at <http://www.ftc.gov/privacy/>.
-
-**Changes to Our Privacy Policy**
-
-We will change, amend and update this Privacy Policy and the privacy policies of the various InfoSpace Sites and other InfoSpace Properties from time to time to reflect changes in our privacy practices, technology, products and services, general business operations and industry. In the event of any such change, we will post a revised policy on this Web site or the Web site of the respective product or service and revise the "Last Updated" date of such policy. We reserve the right to change, amend and update this Privacy Policy, including all of our associated privacy policies, at any time in our sole and absolute discretion, and such changes will be effective upon posting of the revised policy. In the event of a material change in our information collection and use practices, we will provide more prominent notice of such change along with the revision to the effective date of the policy. You should check this Privacy Policy and the policies of the InfoSpace Sites and other InfoSpace Properties you may access or use on a regular basis to ensure you have reviewed and are familiar with the most current policy.
-
-**Contacting Us**
-
-You may update or delete your White Pages listing by following the instructions in the [White Pages FAQ](http://www.infospace.com/home/white-pages/help.htm?show=2#White%20Pages); For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please complete the below form.
-
-**VIA MAIL:**
-
-InfoSpace, Inc.
-
-Legal Department, Attn: Privacy Officer
-
-601 108th Avenue NE, Suite 1200
-
+**VIA MAIL:**  
+ **InfoSpace, Inc.**  
+Attn: Privacy Officer  
+601 108th Avenue NE, Suite 1200  
 Bellevue, Washington 98004 USA
 
-**VIA EMAIL CONTACT FORM:**
+ **VIA EMAIL:**  
+[kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
 
-Last revised: 2/11/2005
+ **Please note: In general, we don't ask users of Zoo for any information that allows us to personally identify them. Items such as nicknames or first names do not allow us to personally identify a user. To the extent we collect a user's email address, we do so only to respond to their comments or information requests, and we do not otherwise store or collect such email addresses. Under the law, you (as a parent or legal guardian of your child) have the right to review any personal information relating to a child under the age of 13 in your care that may be collected by the Zoo website. Please check any or all of the options below:
 
-  
-| 
+Under the law, you (as a parent or legal guardian of your child) have the right to review any personal information relating to a child under the age of 13 in your care that may be collected by the Zoo website. Please check any or all of the options below: 
+
+** I wish to review all of the personal information currently collected on my child at Zoo 
+
+I request that all personal information currently collected on my child at Zoo be deleted 
+
+I request that, in future, all personal information regarding my child no longer be collected or used by Zoo 
+
+Other request: _________________________________________________ 
+
+**To help us identify the child in question in our database, please fill out the following:** Child's Email Address: _______________________________________________ 
+
+Parent's Email address: _____________________________________________   
+(In order for us to honor your request, please print this information clearly and remember to include the "@" and ".com" in the email addresses.) 
+
+**Under the law, we are obligated to verify the identity of the requestor of this information and to ensure that the requestor is in fact the child's parent or legal guardian. To help us discharge this responsibility, please fill out the following:** Please state your relationship to the child: ________________________________ 
+
+Please state your name: _____________________________________________ 
+
+Signature: _______________________________________________________ 
+
+Date: ___________________________________________________________ 
+
+**Please note: Please send and fax all COPPA and PII related inquiries requiring written requests to Zoo to the following address and fax number:
+
+ **InfoSpace, Inc.**
+
+** Attn: Privacy Officer  
+Re: Zoo Parental Information Request  
+601 108th Avenue NE, Suite 1200  
+Bellevue, Washington 98004 USA  
+Fax: (425) 201.6167  
+
