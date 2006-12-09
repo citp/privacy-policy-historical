@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616184836id_/http%3A//www.poetry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209192252id_/http%3A//www.poetry.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Poetry.com
 
