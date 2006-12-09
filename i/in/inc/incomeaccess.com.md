@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103125id_/http%3A//www.incomeaccess.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209031751id_/http%3A//www.incomeaccess.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Income Access Privacy Policy
+# Privacy Policy
 
 Income Access was created to manage relationships between Affiliates and Merchants, while maintaining the privacy of its users. We understand the need to safeguard sensitive information that you have entrusted to us by using our services. Consequently, we maintain standards and procedures - outlined in this document, the Income Access Privacy Policy - designed to prevent misuse of this information. 
 
