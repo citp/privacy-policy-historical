@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dutyfreedepot.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617233624id_/http%3A//dutyfreedepot.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dutyfreedepot.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209035824id_/http%3A//dutyfreedepot.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DutyFreeDepot.com - Buy Cheap Cigarettes at Tax Free Cigarette Store -
 
-   
+|    
 ---  
 Our Commitment to Privacy   
    
