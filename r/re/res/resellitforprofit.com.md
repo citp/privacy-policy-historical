@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the resellitforprofit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052954id_/http%3A//resellitforprofit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellitforprofit.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209155907id_/http%3A//www.resellitforprofit.com/privacy.php) for the most accurate reproduction.*
 
-# Resell It For Profit Resell, Master Resell, and Private Label Rights
+# eBooks, software, scripts, templates and videos with resell rights
 
-| **PRIVACY POLICY**
+**PRIVACY POLICY**
 
 Last Updated: February 5, 2006
 
@@ -32,7 +32,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
  **Children**
 
-Resellitforprofit.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Resellitforprofit.com has any information from or about anyone under 13, please contact us at the address listed below.
+Resellitforprofit.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Resellitforprofit.com has any information from or about anyone under 13, please Support at the address listed below.
 
 Contacting Us.
 
@@ -46,14 +46,4 @@ Changes to this Policy
 
 Resellitforprofit.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
- **                         [Home](http://www.resellitforprofit.com/index.php "Resell It For Profit")   |  [Contact  Us](http://www.resellitforprofit.com/forms/use/contact/form1.html)   |    [Join](http://www.resellitforprofit.com/amember/signup.php "Join Now and Get Started")  
-   [Free Member Downloads ](http://www.resellitforprofit.com/free.php "Browse the Free Member Downloads")    |  [Gold Member Downloads ](http://www.resellitforprofit.com/gold.php "Browse the Gold Member Downloads")  |   [Platinum Member Downloads ](http://www.resellitforprofit.com/platinum.php "Browse the Platinum Member Downloads")  
-               [Sitemap  ](http://www.resellitforprofit.com/sitemap.php "Sitemap")  |  [Terms of Service ](http://www.resellitforprofit.com/tos.php "Terms of Service")  |  [Privacy Statement](http://www.resellitforprofit.com/privacy.php "Privacy Statement")
-
-[Check our blog for updates](http://www.resellitforprofit.com/blog/ "Check our blog for updates!")
-
-  
-**  
-©2006, ResellItForProfit.com All Rights Reserved  
-No part of this website may be reproduced without written permission from ResellItForProfit.com  
----|---
+**[Login](http://www.resellitforprofit.com/amember/member.php "Login")    -  [Home](http://www.resellitforprofit.com/index2.php "Resell It For Profit")   -  [Help Desk](http://www.resellitforprofit.com/helpdesk)   -    [Join](http://www.resellitforprofit.com/amember/signup.php "Join Now and Get Started")   ** **[Free Member Downloads ](http://www.resellitforprofit.com/free.php "Browse the Free Member Downloads")    -  [Gold Member Downloads ](http://www.resellitforprofit.com/gold.php "Browse the Gold Member Downloads")  - [Platinum Member Downloads ](http://www.resellitforprofit.com/platinum.php "Browse the Platinum Member Downloads")****                [Sitemap  ](http://www.resellitforprofit.com/sitemap.php "Sitemap")  -  [Terms of Service ](http://www.resellitforprofit.com/tos.php "Terms of Service")  -  [Privacy Statement](http://www.resellitforprofit.com/privacy.php "Privacy Statement") -  [The Forum](http://www.resellitforprofit.com/forum "The Forum") -  [The Blog](http://www.resellitforprofit.com/blog/ "The Blog")   [Our Recommendations](http://www.resellitforprofit.com/recommended.php "We Recommend These")**
