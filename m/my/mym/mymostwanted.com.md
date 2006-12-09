@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymostwanted.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617211136id_/http%3A//mymostwanted.com/privacyp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymostwanted.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209131323id_/http%3A//mymostwanted.com/privacyp.php) for the most accurate reproduction.*
 
 # My Most Wanted Celebs - MyMostWanted.Com - Privacy Policy
 
