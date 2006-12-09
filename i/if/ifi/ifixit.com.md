@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ifixit.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623000502id_/http%3A//www.ifixit.com/cart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifixit.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209025404id_/http%3A//www.ifixit.com/cart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # iFixit - iBook & PowerBook Parts - Help Zone
 
-[iFixit](https://web.archive.org/web/20060623000502id_/http%3A//www.ifixit.com/cart/customer/home.php) :: Help zone
+[iFixit](https://web.archive.org/web/20061209025404id_/http%3A//www.ifixit.com/cart/customer/home.php) :: Help zone
 
 #### Privacy Statement
 
