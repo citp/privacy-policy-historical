@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialares.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617124649id_/http%3A//officialares.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialares.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209175809id_/http%3A//www.officialares.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Ares P2P -Privacy Policy
 
