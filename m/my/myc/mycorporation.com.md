@@ -1,56 +1,45 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010453id_/http%3A//www.mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209095043id_/http%3A//www.mycorporation.com/legal/Privacy.htm) for the most accurate reproduction.*
 
 # MyCorporation Legal Disclaimer - Affiliate Program Agreement - Incorporate at MyCorporation.com
 
-PRIVACY POLICY
+**MyCorporation Privacy Statement**
 
-This Privacy Policy is effective for all users of the mycorporation.com website (hereinafter, "User"). The purpose of this Privacy Policy is to provide you with My Corporation Business Services, Inc.'s (hereinafter "MYCORP", "we", "us" or "our") information collection practices (including the information MYCORP collects, how it is collected, and the circumstances under which the information is disclosed), and to demonstrate MYCORP's firm commitment to privacy and adherence to the California Online Privacy Protection Act.
+At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. This privacy statement defines privacy aspects specific to MyCorporation.com, an Intuit Company. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
-The following discloses our information gathering and dissemination practices for the website mycorporation.com:
+**We protect your information**
 
-SECURE SITE
+We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](https://web.archive.org/legal/Privacy_Protect.htm)
 
-Our site uses an online secure order form for customers to apply. When your order is placed through our secure online server, or you send us an email, we collect confidential customer information. The secure server software (SSL) encrypts all order information you input before it is sent to us. When you send us an email (as distinguished from a secure order form, which is encrypted), it is not necessarily secure and is not encrypted. All of the customer data we collect is protected against unauthorized access.
+**We tell you how we use your information**
 
-PERSONALLY IDENTIFIABLE INFORMATION
+When we ask you for information, we will tell you, or it will be clear, what we need to know to fulfill your request and how the information you provide us will be used. For example, if you request a service from us, we will ask you for your name and contact information such as, mailing address, phone number, and e-mail address. In addition to responding to your request, we may use your contact information to tell you about products or services we think might interest you or to invite you to participate in a product or service-related survey. Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
 
-The customer information that is collected to process your order might include contact information (name, mailing address, telephone number, fax number and/or email address); corporate information (business name and description of business, information regarding directors, officers, members, stockholders and registered agent and information regarding shares of stock and par value); and financial information (checking account, name on account, credit card number and expiration date), depending upon the nature of your order.
+  * We do not sell or rent your personal information to anyone.
+  * We do not share your personal information with anyone outside of Intuit for their promotional, including marketing, use.
 
-The contact information, corporate information and financial information from the order form are used to process your request. The customer's contact, corporate and financial information is private and confidential. All information is secured and maintained on-file in our corporate office in Agoura Hills, California and is sometimes used to contact the customer for purposes of completing the services requested by the customer. Financial information that is collected is used to bill the customer and this information is not shared with anyone outside of our company, except the merchant bank for the processing of credit card orders and the state office to which the requested documents will be submitted.
 
-REVIEW & CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION
 
-Our hosting service logs IP addresses, browser types and referred logs, which are used by our marketing staff for internal purposes only. At any time a User may request to review personally identifiable information by calling MYCORP toll-free at 1-888-MY-CORP-1 or contacting us through our website at [MyCorporation.com](http://www.mycorporation.com/mycorporation.htm). Users can call 1-888-MY-CORP-1 to remove contact, corporate and/or financial information from our databases and to not receive any future communications from us or to change or modify any contact, corporate and/or financial information previously provided to us.
+For information relating to services on this site, [click here](https://web.archive.org/legal/Privacy_Services.htm).
 
-PROMOTIONS
+**We tell you about our relationships with third parties**
 
-To preserve customer's anonymity and to assure the quality of customer communications, MYCORP provides customers with the opportunity to "opt-in" to any further marketing promotions. Our site provides users the opportunity to opt-out of receiving communications from our partners or us at the point where the information is requested.
+We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. [Tell me more](https://web.archive.org/legal/Privacy_ThirdParty.htm)
 
-|  OPT-OUT POLICY 
+**We tell you how we use Web technology**
 
-All of MYCORP's email correspondence either contain a link or instruct the user to send a reply with "Unsubscribe" in the subject line to enable the User to opt-out of receiving marketing emails. Upon receipt of correspondence from the User, the User's name will be removed from the MYCORP email database. 
+Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. [Tell me more](https://web.archive.org/legal/Privacy_Technology.htm)
 
-STATUS PAGE
+**We give you choice and control**
 
-Information relating to the status of an order, including only the corporate name and status of the requested service will be displayed on a "status page" of the mycorporation.com site. 
+We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. Your contact preferences only apply to marketing contact. We may need to communicate with you regarding service communications, legally mandated notices, and critical messages that could impact your business. 
 
-DISCLOSURE TO OUTSIDE PARTIES
+At any time you may request to update or correct your personal, corporate or financial information by calling MYCORP toll-free at 1-888-MY-CORP-1 or contacting us through our website at [MyCorporation.com](http://www.mycorporation.com/). 
 
-Aggregate statistics about our customers, sales, traffic patterns and related site information may be provided to reputable third parties, but these statistics contain no personally identifying information. However, MYCORP may release client account information when we believe, in good faith, that such release is reasonably necessary to comply with law, prevent fraud, enforce or apply the terms of any of our user agreements or to otherwise protect the rights, property or safety of MYCORP, our customers or other third parties. 
+**You can contact us**
 
-COOKIES
+If you have privacy-related questions that are not addressed here, please contact the [Privacy Team](https://privacy.intuit.com/cpi/do/comments) or write us at: Privacy Team, Intuit Inc, 2800 East Commerce Center Place, Tucson, AZ 85706. 
 
-MYCORP may use outside companies to display ads on our site. These ads may contain cookies (pieces of information that a website transfers to an individual's hard drive for record keeping purposes while at the site). While we use cookies in other parts of our site, our ad company collects cookies received with banner ads and we do not have any access to this information.
-
-YOUR CONSENT
-
-By using our site, you consent to the collection and use of this information by MYCORP.
-
-CHANGES TO SITE
-
-If we decide to change our privacy policy, we will post those changes on this page and we will post a notice on our homepage inviting Users to review MYCORP's revised privacy notice. We will also send an email to all Users allowing them fourteen (14) days to respond. Absent a response, it will be presumed that all users accept the privacy policy, as revised.
-
-EFFECTIVE DATE This Privacy Policy is effective this 1st day of June 15, 2005. 
+If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
 
 * * *
 
