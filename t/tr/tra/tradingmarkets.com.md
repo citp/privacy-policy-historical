@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045454id_/http%3A//tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209141002id_/http%3A//tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm) for the most accurate reproduction.*
 
 # Daytrading, Eminis, Forex trading, Swing Trading
 
@@ -89,10 +89,10 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-| Telephone: |   | 213 955 5858 option 1  
+| Telephone: |   | 213 955 5858 ext. 1  
 ---|---|---  
 Facsimile: |   | 213 955 4240  
 E-mail: |   | support@tradingmarkets.com  
-Postal Address: |   | 445 S. Figueroa Street, Suite 2930  
-Los Angeles, CA 90071  
+Postal Address: |   |  15260 Ventura Blvd. Suite #2200   
+Sherman Oaks, CA 91403   
 Web site: |   | www.tradingmarkets.com
