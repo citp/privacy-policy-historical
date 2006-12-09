@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macresearch.org privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421204909id_/http%3A//www.macresearch.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macresearch.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209102706id_/http%3A//www.macresearch.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MacResearch
 
