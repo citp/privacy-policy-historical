@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629104226id_/http%3A//ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209043225id_/http%3A//ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Ivertech - Privacy Policy
 
