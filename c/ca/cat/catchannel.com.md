@@ -1,17 +1,21 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032519id_/http%3A//catchannel.com/cat/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209045647id_/http%3A//catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Cat Channel - Animal Network Privacy Policy
+# 
 
-Animal Network Privacy Policy
+|  |  | [](http://www.catchannel.com/registration/registration.aspx?signup=y)  
+---|---  
+|   
+  
+Animal Network Privacy Policy 
 
 **Effective January 1, 2005**
 
 BowTie, Inc., formerly Fancy Publications, Inc., is committed to bringing you information that is tailored to your individual needs and, at the same time, to protecting your privacy.  The following is a summary of the various ways we gather and disseminate the information you provide when purchasing our products and services and when using our websites.  We use the information we collect to provide you with the products you have purchased or the services you have registered for and also to enhance your overall Internet experience.  This policy also provides information on how you can opt out of certain disclosures of information we may collect. 
 
-This policy describes how BowTie, Inc., and its corporate affiliates Kennel Club Books, LLC, Global Distribution Services, LLC and Thoroughbred Times Company Inc. (collectively, “BowTie”), collect, use and disclose information online and offline from subscribers and from users of the [www.bowtieinc.com](http://www.bowtieinc.com/) website, and other BowTie-operated websites, such as the Animal Network website at [www.animalnetwork.com](http://www.animalnetwork.com/), and the websites that correspond to various BowTie publications.  Links to the various BowTie publications appear on the Animal Network website.  The BowTie-operated websites are referred to collectively as the “BowTie Websites.”
+This policy describes how BowTie, Inc., and its corporate affiliates Kennel Club Books, LLC, Global Distribution Services, LLC and Thoroughbred Times Company Inc. (collectively, BowTie), collect, use and disclose information online and offline from subscribers and from users of the [www.bowtieinc.com](http://www.bowtieinc.com/) website, and other BowTie-operated websites, such as the Animal Network website at [www.animalnetwork.com](http://www.animalnetwork.com/), and the websites that correspond to various BowTie publications.  Links to the various BowTie publications appear on the Animal Network website.  The BowTie-operated websites are referred to collectively as the BowTie Websites.
 
 **SCOPE  
-** This privacy policy covers only BowTie’s online and offline collection and treatment of information.  BowTie does not control the privacy policies of advertisers or non-affiliated websites that may be linked to the BowTie Websites.  We are not responsible for the privacy practices or the content of non-BowTie Websites.  If you click on any ads or non-affiliated links, we encourage you to read the privacy statements of these other websites and entities, which may be different from our privacy policy. ****
+** This privacy policy covers only BowTies online and offline collection and treatment of information.  BowTie does not control the privacy policies of advertisers or non-affiliated websites that may be linked to the BowTie Websites.  We are not responsible for the privacy practices or the content of non-BowTie Websites.  If you click on any ads or non-affiliated links, we encourage you to read the privacy statements of these other websites and entities, which may be different from our privacy policy. ****
 
 ****TYPES OF INFORMATION COLLECTED  
 **** Several different types of information may be collected from subscribers and users of the BowTie Websites, including the following:
@@ -32,7 +36,7 @@ We may use third-party advertising companies to serve or display ads on the BowT
 Finally, we may also allow third parties to collect aggregate and other anonymous information about our visitors through the BowTie Websites.   Should we begin allowing third parties to collect personally identifiable information about visitors to the BowTie Websites, we will inform visitors of these activities at the location of the collection.
 
 ****HOW WE USE COLLECTED INFORMATION  
-**** BowTie uses this information to provide you with the products or services you have requested.  For example, if you subscribe to one of our magazines, we may use your email address to send you a confirmation notice and your address to send you your magazine.  Similarly, if you enter contests, we will use this information to notify you if you are a winner. This information may also be used to target advertising or customize website presentation and layout. This information may also be used to store your account information, website session information (such as products in your shopping cart), order status and purchase history. We may also use this information to send you newsletters, inform you about new features, products or services, or other changes to the services or our policies. We may share this information with other BowTie corporate affiliates. In addition, unless you expressly opt out, BowTie may also make its subscriber lists or personally identifiable information, such as contact information, available to companies that offer products and services that we believe may interest our subscribers or website users.  If you do not want us to share your personally identifiable information, you may inform us of your choice to opt out by following the procedure in the “Your Options” section immediately below.  ****
+**** BowTie uses this information to provide you with the products or services you have requested.  For example, if you subscribe to one of our magazines, we may use your email address to send you a confirmation notice and your address to send you your magazine.  Similarly, if you enter contests, we will use this information to notify you if you are a winner. This information may also be used to target advertising or customize website presentation and layout. This information may also be used to store your account information, website session information (such as products in your shopping cart), order status and purchase history. We may also use this information to send you newsletters, inform you about new features, products or services, or other changes to the services or our policies. We may share this information with other BowTie corporate affiliates. In addition, unless you expressly opt out, BowTie may also make its subscriber lists or personally identifiable information, such as contact information, available to companies that offer products and services that we believe may interest our subscribers or website users.  If you do not want us to share your personally identifiable information, you may inform us of your choice to opt out by following the procedure in the Your Options section immediately below.  ****
 
 We may also share or disclose personally identifiable information about you to third parties when (1) we use such third parties to provide products or services on our behalf, such as to fulfill subscriptions; (2) you enter a contest or sweepstakes, in which case we may give your personal information to the sponsor who may use it for marketing purposes; (3) as required by law; (4) as necessary to protect our legal rights; and (5) in connection with any sale, merger, transfer or other disposition of all or a portion of the business.
 
@@ -47,21 +51,29 @@ Although personally identifiable information is protected as outlined above, we 
 **WHAT ELSE YOU SHOULD KNOW ABOUT PRIVACY**
 
 ******Reviewing and Correcting Information  
-** You can currently edit your discussion forum profile, including your identifier and contact information at any time, by clicking on “Your Profile” on any of the BowTie Websites.  If you forget your forum password, you can e-mail us at [forums@bowtieinc.com.](mailto:forums@bowtieinc.com.)  After verifying your identity, we will e-mail you your password.
+** You can currently edit your discussion forum profile, including your identifier and contact information at any time, by clicking on Your Profile on any of the BowTie Websites.  If you forget your forum password, you can e-mail us at [forums@bowtieinc.com.](mailto:forums@bowtieinc.com.)  After verifying your identity, we will e-mail you your password.
 
 You can also edit and update your subscription account information at any time by visiting our online Subscription Services section on any of the BowTie Websites.
 
 **Security  
-** Although BowTie uses industry-standard encryption technologies to protect certain data transferred to and received to and from the BowTie Websites and although BowTie maintains security measures in place in order to protect against the loss, misuse or alteration of personally identifiable information under our control, the Internet and other networking communication media cannot be guaranteed to be 100% secure.  Accordingly, you transmit information at your own risk and BowTie assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized or illegal access or other causes beyond BowTie’s reasonable control. 
+** Although BowTie uses industry-standard encryption technologies to protect certain data transferred to and received to and from the BowTie Websites and although BowTie maintains security measures in place in order to protect against the loss, misuse or alteration of personally identifiable information under our control, the Internet and other networking communication media cannot be guaranteed to be 100% secure.  Accordingly, you transmit information at your own risk and BowTie assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized or illegal access or other causes beyond BowTies reasonable control. 
 
 **Disclosure of Information in Public Areas  
 ** Personally identifiable information that you disclose in a public area of the BowTie Websites, such as our discussion forums, may be collected and used by others who may then send you messages or other communications that you do not want to receive.  BowTie does not control the actions of the users of our discussion forums.  Accordingly, you should exercise discretion in the type of information you decide to post in our discussion forums.  If you do decide to disclose personally identifiable information in a forum, you do so at your own risk.
 
 **PRIVACY CONCERNS AND CHILDREN  
-** The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old.  We do not knowingly accept personally identifiable information from anyone under 13.  Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/web/20060615032519id_/http%3A//catchannel.com/animalnetwork/corporate/terms.aspx). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians.  Parents:  if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties.  Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums.
+** The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old.  We do not knowingly accept personally identifiable information from anyone under 13.  Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](pub:/animalnetwork/corporate/terms.aspx). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians.  Parents:  if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties.  Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums.
 
 **CHANGES TO OUR PRIVACY POLICY  
 ** We may make revisions to our privacy policy from time to time.  If you are concerned how information is collected and used by BowTie, we encourage you to review our website periodically to read the latest version. 
 
 **CONTACT INFORMATION  
 ** Questions and suggestions regarding our privacy policy should be sent by e-mail to [privacy@bowtieinc.com](mailto:privacy@bowtieinc.com).  You can also reach us by mail at P.O. Box 6040, Mission Viejo, 92690. Please address your correspondence to Privacy Policy.
+
+ Give us your opinion on  
+Animal Network Privacy Policy
+
+    
+
+  
+
