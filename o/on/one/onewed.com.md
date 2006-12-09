@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onewed.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620202634id_/http%3A//members.onewed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewed.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209142818id_/http%3A//members.onewed.com/privacy.php) for the most accurate reproduction.*
 
 # Onewed Networks - Privacy policy
-
-| 
 
 **PRIVACY POLICY**  
 Onewed.com is committed to your right to privacy and to taking steps to secure your personal and financial information. The following Privacy Policy explains our commitment to protecting the privacy and ensuring the integrity of the Internet and its users. By using our site, you consent to the collection and use of your information as described in this Privacy Policy. Any changes to our Privacy Policy will be reflected on this page and will be effective the date the changes are posted. If you do not agree to the terms of this Privacy Policy, you are not authorized to use this site. Onewed.com is not responsible for the content or privacy practices of non-Onewed.com websites to which Onewed.com or any other Onewed.com web site may link or be linked via any other party's website. 
@@ -17,4 +15,4 @@ Onewed.com makes chat rooms, forums, message boards, bulletin boards and/or news
 
 Use of Email Addresses: As part of your wedding planning process, Onewed.com will send you e-mails reminding you of important dates and tasks to be done. We may also send you occasional updates, exclusive offers and coupons from other wedding professionals, partners and affiliates. At any time, you can request to no longer receive e-mails from us by following the "unsubscribe" instructions included with each e-mail. 
 
-|  
+[Support](http://support.onewed.com/) \- Copyright © 2006, Onewed.com & MFP LLC.
