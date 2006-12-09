@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingarticlebank.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428072336id_/http%3A//marketingarticlebank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingarticlebank.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209235236id_/http%3A//www.marketingarticlebank.com/privacy.php) for the most accurate reproduction.*
 
 # MarketingArticleBank.com
 
@@ -45,5 +45,3 @@ If you choose to give us your personal details, such as your name and email addr
 If we have your personal details we will never share, rent or sell them to a third party without your written authorization. We will only provide them to a third party if compelled to do so by a court with appropriate jurisdiction (but we can't even imagine why that would happen).
 
 If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact us using our contact form.
-
-Search Google?
