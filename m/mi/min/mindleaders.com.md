@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417233313id_/http%3A//www.mindleaders.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210002911id_/http%3A//www.mindleaders.com/about/legal.asp) for the most accurate reproduction.*
 
 # MindLeaders - Legal
 
-|   
+  
+|  |  |   
 ---  
 | 
 
@@ -72,6 +73,9 @@ The European Computer Driving Licence® (ECDL) and the International Computer Dr
 |   
 ---  
 | **User Comments  
-** "Its relevance and applicability! The concepts covered in the course gave me new energy and will continue to do so for a long time!"  
+** "It was more than my wildest expectations, it was really great!"  
 ---|---  
-| 
+|   
+  
+  
+
