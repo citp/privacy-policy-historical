@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615180749id_/http%3A//www.jaguars.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209034742id_/http%3A//www.jaguars.com/Privacy) for the most accurate reproduction.*
 
 # Jacksonville Jaguars Privacy Policy
 
-This privacy policy applies to the Jacksonville Jaguars, Ltd website located at www.jaguars.com (the “Website”).  This privacy policy also applies to information submitted by children using the message board at <http://www.jaguars.com/mb>.  The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+This privacy policy applies to the Jacksonville Jaguars, Ltd website located at www.jaguars.com (the “Website”).  This privacy policy also applies to information submitted by children using the message board at [mb.jaguars.com](http://mb.jaguars.com/).  The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Website is operated by Jacksonville Jaguars, Ltd. 
 
