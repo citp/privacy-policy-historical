@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613061942id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209213753id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.*
 
-# e-HS privacy statement
+# e-hs privacy statement
 
 * * *
 
@@ -46,7 +46,12 @@ Under no circumstances will e-HS ever disclose (to a third party) personal infor
 
 e-HS, along with thousands of other Web sites, uses cookies to enhance your Web viewing experience. Cookies are small files that your Web browser places on your computer's hard drive to collect information about you. e-HS cookies do not damage your system or files in any way. Cookies work as follows. When you log on to a e-HS Web site, e-HS assigns you a unique number and records that number in the cookie file of your computer. Then, when you visit one of e-HS Web sites, e-HS reads this number to help gain information of the user's of its Web sites. The cookie can help ensure that the advertisements you see are directed toward you and your needs. However, the e-HS cookie will not be associated with any personal information about you, and e-HS will not be able to identify you personally online. 
 
-While we believe that cookies enhance your Web experience with e-HS, you have the option of setting your Web browser to reject cookies. However, doing so may negatively impact the performance of the performance of the Web Sites. 
+While we believe that cookies enhance your Web experience with e-HS, you have the option of setting your Web browser to reject cookies. However, doing so may negatively impact the performance of the performance of the Web Sites.   
+
+
+### Behavioral Targeting
+
+We may use an ad network provider to help present advertisements on this web site. This ad network provider, like other advertising service vendors, uses cookies, web beacons, or similar technologies on the hard drive of your computer to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, and to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these ad network providers is subject to their own privacy policies, not ours. If you do not want the benefits of these advertising cookies, you may opt-out by visiting http://www.networkadvertising.org/optout_nonppii.asp. However, if you do so you may not receive the full benefit from the use of our site. 
 
   
 
