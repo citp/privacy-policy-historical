@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322184833id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209115810id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
 # Biblio: privacy and security
 
-|    
-Biblio.com Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio.com Inc. follows certain procedures designed to safeguard the information entrusted to it. These procedures are set forth in the following paragraphs.   
+  
+Biblio.com Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio.com Inc. follows certain procedures designed to safeguard the information entrusted to it. These procedures are set forth in the following paragraphs. 
+
 Biblio.com Inc. uses the information provided by its Web site visitors only for the services described in the site. Biblio.com Inc. provides this access to this information to such persons only when they identify themselves and/or the institution they represent, and give the proper user password. Biblio.com Inc. does not sell, share or otherwise provide information about its Web site visitors to others for any purpose. 
 
 Biblio.com Inc. uses its Subscriber's Internet Protocol (IP) addresses to administer the Biblio.com Inc. web site and to help diagnose computer hardware and software problems. Biblio.com Inc. does not use Subscriber IP addresses for any other purpose. 
 
 With respect to cookies: Biblio.com Inc. uses cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-Biblio.com Inc. uses the contact information (e.g. name and e-mail address) provided by its Web site visitors to send selected promotional material and information about Biblio.com Inc. to its Web site visitors and customers. 
+If specifically requested by the site visitor, Biblio.com Inc. may use the contact information (e.g. name and e-mail address) provided by its Web site visitors to send selected promotional material and information about Biblio.com Inc. to its Web site visitors and customers. **We will not SPAM you**. 
 
 Biblio.com Inc. uses the individual identifiers provided by its Web site visitors for internal business tracking, and identifying Web site visitors. Biblio.com Inc. does not sell, share or otherwise provide the individual identifiers of its Web site visitors to others for any purpose. 
 
@@ -31,6 +32,3 @@ PO Box 1211
 Asheville, NC 28802-1211 
 
 We can be reached via e-mail at support@biblio.com or you can reach us by telephone at (828) 350-0744 
-
-|  [](http://www.biblio.com/gift_certificate.php)   
-[](https://www.scanalert.com/RatingVerify?ref=www.biblio.com)
