@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202901id_/http%3A//dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209022809id_/http%3A//www.dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
 
 # DWP - Privacy policy
 
@@ -25,10 +25,11 @@ The Department for Work and Pensions is the Data Controller for the purposes of 
 
 Our website does not enable our visitors to communicate with other visitors or for them to post information to be accessed by others.
 
-If you want to know more about what information we have about you, or the way we use your information see [Data Protection Act 1998](https://web.archive.org/publications/dwp/2006/cat1/DPAA5JP%20-DataProtectionAct1998.pdf) (87KB). 
+If you want to know more about what information we have about you, or the way we use your information see [Data Protection Act 1998](http://www.jobcentreplus.gov.uk/jcp/stellent/groups/jcp/documents/websitecontent/dev_011731.pdf) (87KB). 
 
-[](http://www.adobe.co.uk/products/acrobat/readstep2.html "This links to an external site.")You can download documents marked with a  using [Adobe Reader](http://www.adobe.co.uk/products/acrobat/readstep2.html "This links to an external site.") \- available free of charge.  
-If you have problems accessing PDF documents, Adobe provide an [online tool to convert PDFs to text](http://www.adobe.com/products/acrobat/access_onlinetools.html).
+  * [Get help with PDFs](https://web.archive.org/accessibility/#pdf)
+
+
 
 ### Cookies
 
