@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-space.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613225752id_/http%3A//www.article-space.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-space.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209074335id_/http%3A//www.article-space.com/privacy.php) for the most accurate reproduction.*
 
 # Free Article Submission | Free Content Syndication | All Topics Article Directory
 
