@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425100441id_/http%3A//ixiacom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209071513id_/http%3A//ixiacom.com/info/privacy) for the most accurate reproduction.*
 
-# Ixia - Leader in IP Performance Testing
+# Info » Privacy :: Ixia - Leader in IP Performance Testing
 
 ## This is the web site of Ixia
 
@@ -68,9 +68,9 @@ We have appropriate security measures in place in our physical facilities to pro
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
 
-  * [Terms of Use](https://web.archive.org/terms_of_use)
+  * [Terms of Use](https://web.archive.org/info/terms_of_use/)
 
 
 
   
-[ back | top of page ]
+[ back | top of page ] 
