@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619065105id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # None
 
@@ -97,7 +97,7 @@ If we make available the opportunity to prescription drugs or medical equipment,
 This information will be kept in the strictest confidence. We will make every effort to maintain the privacy and security of this information at all times.
 
 **How We Use Your Personal Information  
-** We continually seek new ways to maintain your trust as a user and improve our offerings. To provide new and better services, we tend to monitor user traffic patterns and try to analyze what our users like and do not like about our current offerings so we can design better services for you. We may also use certain information for testing purposes, site development and planning, and during the normal course of maintaining the site. When you use our site, you automatically allow us to collect this information. In these cases, researchers, business analysts, system designers, and others may have access to the data we collect.
+** We continually seek new ways to maintain your trust as a user and improve our offerings. To provide new and better services, we tend to monitor user traffic patterns and try to analyze what our users like and do not like about our current offerings so we can design better services for you. One method we use is a cookie to collect anonymous traffic data. We may also use certain information for testing purposes, site development and planning, and during the normal course of maintaining the site. When you use our site, you automatically allow us to collect this information. In these cases, researchers, business analysts, system designers, and others may have access to the data we collect.
 
 We do not intend to use or disclose any personal information or health-related personal information you provide on our site to an unrelated third party without your express permission, except as explained in this section. You should know that there are circumstances when, in the ordinary course of business, we will share some information about you with a related third party.
 
@@ -148,13 +148,13 @@ You should know that we might allow advertising to be coordinated with health in
 
   * MIAC subscribers can go to the MIAC registration form and change their information there.  
 
-  * You can contact us in writing using the address in our [Contact Us](https://web.archive.org/web/20060619065105id_/http%3A//www.memorialcare.org/apps/contact/contactus.cfm?site=X) link  
+  * You can contact us in writing using the address in our [Contact Us](https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/apps/contact/contactus.cfm?site=X) link  
 
 
 **Remove or Delete Personal Information  
 ** You may remove previously provided personal and/or health-related personal information at any time using the following options:
 
-  * You can contact us in writing using the address in our [Contact Us](https://web.archive.org/web/20060619065105id_/http%3A//www.memorialcare.org/apps/contact/contactus.cfm?site=X) link  
+  * You can contact us in writing using the address in our [Contact Us](https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/apps/contact/contactus.cfm?site=X) link  
 
 
 Users should be aware that it is not always technically possible to remove or delete the information you provide to us. We back-up our systems to protect information from inadvertent loss, and that means a copy of your personal information may exist in a non-erasable form that may be difficult or impossible for us to locate. Nevertheless, upon receiving your request we will try to remove or delete all personal information and/or health-related personal information stored in the databases that we use for research and daily business activities. We will not intentionally disclose any personal information stored in a non-erasable format after receiving your request for removal, except as required by law.
