@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky-labs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202340id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky-labs.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209132738id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Kaspersky Lab: Antivirus Software, Computer Virus Protection, Antivirus, Anti Spyware, Spam Filter, Computer Security
+# Kaspersky Lab: Antivirus software
 
 ## Privacy policy
 
