@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425074407id_/http%3A//www.marketingmo.com/mo/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210030206id_/http%3A//www.marketingmo.com/mo/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Marketing M.O. Privacy Policy
 
@@ -38,8 +38,8 @@ Marketing M.O. provides members with the opportunity to opt-out of receiving com
 If you have any questions about our services or privacy statement, contact:
 
 Moderandi, Inc.  
-15010 N. 78th Way, Suite 105  
+11260 N 92nd St Ste 1066  
 Scottsdale, Arizona 85260  
 P (480) 219-9695  
 F (480) 951-5954  
-[info@marketingMO.com](mailto:info@marketingMO.com)
+[Click here to send an email](mailto:info@MarketingMO.com)
