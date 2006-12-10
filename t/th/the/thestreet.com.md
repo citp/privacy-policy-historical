@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621001443id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210192023id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -11,14 +11,12 @@ Market Overview
 
 
 [  
-](http://ad.doubleclick.net/clk;33483805;4639705;p?http://ad.doubleclick.net/click;h=v2|36B7|0|0|%2a|u;33317565;0-0;0;13055216;31-1|1;15662068|15679963|1;;%3fhttps://us.etrade.com/e/t/jumppage/viewjumppage?PageName=consolira50&SC=NPNC2H7&WT.mc_id=NPNC2H7)
+](http://ad.doubleclick.net/clk;52307527;4639705;m?http://clk.atdmt.com/OY6/go/thstrtam0010000284oy6/direct;at.Q107_TheStreetcomFIN_AV_Market_Data_Bo_Button_12030td_pri_fee_2_q406_12030_3gifthstrtam0010000284oy6/01/)
 
   
   
   
-[](http://www.thestreet.com/_tscleftnav/stocks/topten/index.html)
-
-[](http://find.thestreet.com/cgi-bin/texis/tscsection/?k=Celebrity%20Investor&sec=Celebrity%20Investor&ref=tscleftnav)
+[](http://www.thestreet.com/_tscleftnav/newsanalysis/topten/index.html)
 
 [](http://www.thestreet.com/_tscleftnav/tsc/landingpages/goodlife/index.html)
 
