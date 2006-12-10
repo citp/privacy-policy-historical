@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215072837id_/http%3A//www.norwichunion.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210055430id_/http%3A//www.norwichunion.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Legal by Norwich Union uk: Privacy policy
 
