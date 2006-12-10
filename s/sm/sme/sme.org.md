@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the sme.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203035558id_/http%3A//www.sme.org/cgi-bin/abouthtml.pl%3F/html/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sme.org privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210191004id_/http%3A//www.sme.org/cgi-bin/abouthtml.pl%3F/html/privacy_statement.htm) for the most accurate reproduction.*
 
 # Society of Manufacturing Engineers
 
-|  |  |   
----  
-|  |  |  |   
-|  |  |  |   
-|  |  [](https://web.archive.org/cgi-bin/drilldown.pl?15&&&&SME&) |  |   
-|  |  [](https://web.archive.org/cgi-bin/category-list.pl?&&PUB&&SME&) |  |   
----  
-|  |  |  Web Site Privacy Statement **Web Site Privacy Statement**
+Web Site Privacy Statement **Web Site Privacy Statement**
 
 This Privacy Statement sets forth the practices of the Society of Manufacturing Engineers (SME) regarding the collection and use of information relating to the SME Web site and other activities of SME.
 
@@ -89,38 +82,13 @@ If you would like to communicate with SME regarding privacy issues, or have ques
 
 Last revised: June 4, 2003
 
-|  |  |  |  |   
+  
+
+
+|  |  |   
 ---  
-|  | 
-
-  
-Join SME today and discover a world of career-enhancing products and services.
-
-|  |   
-[](https://web.archive.org/cgi-bin/membhtml.pl?/memb/memb-app.html&&&SME&)  
   
   
----  
-|  |   
   
   
-[Forgot Your ID?](https://web.archive.org/cgi-bin/getgmnpage.pl?/html/forgot_id.htm&&&SME&) |  |   
-  
-* * *
-
-[](https://web.archive.org/cgi-bin/getgmnpage.pl?/html/motorola_training.htm&&&SME&)
-
-* * *
-
-[](https://web.archive.org/cgi-bin/get-event.pl?D--204-000007-018740--SME-)
-
-* * *
-
-[](https://web.archive.org/exposales) **[More business. More customers. We deliver](https://web.archive.org/exposales)**  
-SME-produced manufacturing expositions connect you with the highest quality buying audiences in the industry. Exhibitors connect with buyers from the largest OEMs to the smallest job shops. We bring the audience, all you have to do is exhibit to meet these potential customers.
-
-Contact us today.  
-[exposales@sme.org](mailto:exposales@sme.org)
-
-  
-| 
+---
