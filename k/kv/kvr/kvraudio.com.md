@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kvraudio.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614104451id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvraudio.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210113444id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.*
 
-# KVR :
+# KVR:
 
 **General policy**  
 KVR Audio Plugin Resources respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/e-mails for publication and the like may be collected by others.
