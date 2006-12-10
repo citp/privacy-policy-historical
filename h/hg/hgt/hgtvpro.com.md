@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hgtvpro.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616234907id_/http%3A//www.hgtvpro.com/hpro/about_us/article/0%2C2616%2CHPRO_20139_3386704%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtvpro.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210164934id_/http%3A//www.hgtvpro.com/hpro/about_us/article/0%2C2616%2CHPRO_20139_3386704%2C00.html) for the most accurate reproduction.*
 
 # About Us : Privacy Policy : HGTVPro.com
 
