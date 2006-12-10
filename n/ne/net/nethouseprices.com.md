@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617211034id_/http%3A//nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210014052id_/http%3A//nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
-# :: nethouseprices.com
+# Free UK House Prices - nethouseprices.com
 
 **Privacy Policy** At Nethouseprices.com we take your right to privacy very seriously; the following policy reflects our commitment to confidentiality.
 
@@ -13,7 +13,7 @@ Our privacy policy is simple.
 Nethouseprices collects the details provided by you on registration together with the information we learn about you through your use of the service. We may collect additional information through your participation in any promotions and competitions offered by us.
 
 **2\. Subscribers**   
-If you decide to pay for a subscription to access additional information we use Worldpay as a payment provider to ensure your security and privacy. No financial information (like credit card details) is known to us. You may find out about Worldpay's privacy policy and terms and conditions via [their website.](http://www.worldpay.co.uk/)
+If you decide to pay for a subscription to access additional information we use HSBC as a payment provider to ensure your security and privacy. No financial information (like credit card details) is known to us. 
 
 **3\. Sensitive Information**  
 Occasionally the selections you make when using our services may indicate information about you that you may regard as sensitive, such as your location. As with all of the personal information you provide us with, be assured that this will only be used in accordance with this privacy policy.
