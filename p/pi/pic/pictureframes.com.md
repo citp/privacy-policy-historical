@@ -1,37 +1,39 @@
-> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073226id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210124714id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
 
 # PictureFrames.com Privacy Policy
 
-**Your Privacy at pictureframes.com**  
+[](http://www.pictureframes.com/)  
+---  
+  
+Your Privacy at pictureframes.com  
   
 Protecting your privacy is as important to us as it is to you. We here at Graphik Dimensions Ltd. have written the following policy to help you understand how we collect, use, and safeguard the personal information you provide to us at pictureframes.com.  
   
+Pictureframes.com and Graphik Dimensions Ltd.  
   
-  
-**Pictureframes.com and Graphik Dimensions Ltd.**  
-  
-Pictureframes.com is wholly owned and operated by Graphik Dimensions Ltd. For over 40 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer service. At pictureframes.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.  
-  
+Pictureframes.com is wholly owned and operated by Graphik Dimensions Ltd. For over 40 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer service. At pictureframes.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.
+
 Top  
-******Data Security**  
+  
+Data Security  
   
 Pictureframes.com is fully committed to the highest data security possible. Be assured that all information relating to our customers is stored in a highly secure environment, and all credit card information is processed and stored in an encrypted format. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information you provide to us online.
 
 Top  
   
-******Browsing**  
+Browsing  
   
 When you browse pictureframes.com, you do so anonymously we do not collect your name, email address or any other personal information unless you provide it to us. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. Your browser also automatically supplies us with the type of computer and operating system you are using. Furthermore, we do not follow your browsing path outside of pictureframes.com.
 
 Top  
   
-******Pictureframes.com and BBB Reliabilty Program**  
+Pictureframes.com and BBB Reliability Program  
   
 Pictureframes.com is proud to have received the BBB's Reliability Program Seal. It can sometimes be difficult to tell the reputable websites and online services from those that are not. The BBBOnLine Reliability seal provides you an easy way to distinguish reliable websites and online services.
 
 Top  
   
-******Information we collect online**  
+Information we collect online  
   
 In several areas of our site, we ask you to provide information by filling out and submitting an online form. These areas include:
 
@@ -45,42 +47,39 @@ Once you've registered, you will have an account at pictureframes.com. (Please N
 
 
 
-  
 All of this information will remain in a highly secure and encrypted environment.
 
 Top  
   
-******How we use the information we collect**  
+How we use the information we collect  
   
-In order to make improvements in the way we communicate and interact with customers, pictureframes.com may also compile aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. Pictureframes.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other clickstream data.
+In order to make improvements in the way we communicate and interact with customers, pictureframes.com may also compile aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. Pictureframes.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other clickstream data. 
 
 Top  
   
-******Images you upload to pictureframes.com**  
+Images you upload to pictureframes.com  
   
-The images you upload to the Personal Frame Shop, Print & Frame, or Editions will never be used in any way without your consent.
+The images you upload to the Personal Frame Shop, Print & Frame, or Editions will never be used in any way without your consent. 
 
 Top  
   
-******Cookies – what they are and how we use them**  
-**What A Cookie Is**  
+Cookies – what they are and how we use them  
   
+What A Cookie Is
+
 Like many other commercial websites, pictureframes.com uses a standard technology called a "cookie" to collect information about how you use the site. A cookie is a small file stored on your computer by a Web site to give you a unique ID. Cookies help make it easier for you to use our site, and they help us customize your experience so that we can provide you with the information you need – when and where you need it.
 
-Top  
-  
-**How We Use Cookies**  
-  
-A cookie generated by our site contains a numeric ID that, for example, allows you to retrieve your Shopping Cart and place an order. We also use cookies to help us measure the success of our marketing efforts, so that we can better understand how to reach you and customers like you with information about pictureframes.com. In keeping with our standard policy on customer information, we analyze data gathered via cookies only in aggregate, not at the individual customer level.  
-**  
-**Top  
-**How we don’t or can't use Cookies**  
-  
-We do not use cookies to track your web browsing away from pictureframes.com, nor can we. We neither do nor can tell where you have been or where you go once you leave the pictureframes.com site. We do not use cookies to match you with any outside or third party database.
+How We Use Cookies
+
+A cookie generated by our site contains a numeric ID that, for example, allows you to retrieve your Shopping Cart and place an order. We also use cookies to help us measure the success of our marketing efforts, so that we can better understand how to reach you and customers like you with information about pictureframes.com. In keeping with our standard policy on customer information, we analyze data gathered via cookies only in aggregate, not at the individual customer level.
+
+How we don’t or can't use Cookies
+
+We do not use cookies to track your web browsing away from pictureframes.com, nor can we. We neither do nor can tell where you have been or where you go once you leave the pictureframes.com site. We do not use cookies to match you with any outside or third party database. 
 
 Top  
   
-******How we use email**  
+How we use email   
   
 Occasionally, we send out email updates on products, sales, special events, and promotions. Certain customers whom we think might be interested in learning about this information will receive these emails. All email offers that you receive from pictureframes.com will tell you how to decline further email offers.
 
@@ -88,32 +87,25 @@ We also use email as a means of communicating with our customers. We love to hea
 
 Top  
   
-**Declining Email Offers**  
+Declining Email Offers  
   
-Pictureframes.com provides customers with an easy means of declining email offers. Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the email and informing us of your preferences.
+Pictureframes.com provides customers with an easy means of declining email offers. Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the email and informing us of your preferences. 
 
 Top  
   
-******Information we may share with others**    
+Information we may share with others  
   
-In delivering this information, we may group you with other customers who have bought similar amounts and types of products, but we never provide details that are specific to a single customer or household.
+In delivering this information, we may group you with other customers who have bought similar amounts and types of products, but we never provide details that are specific to a single customer or household. 
 
 Top  
   
-******Information we do not share with others**  
+Information we do not share with others  
   
-We do not give other companies access to your personal information. We do not release credit card or financial information for use by other companies. We do not share, sell or trade information collected as part of a survey or specific details about you or your household. For privacy purposes, all information relating to our customers is stored on a highly secure server, and all credit card information is stored in an encrypted format.
+We do not give other companies access to your personal information. We do not release credit card or financial information for use by other companies. We do not share, sell or trade information collected as part of a survey or specific details about you or your household. For privacy purposes, all information relating to our customers is stored on a highly secure server, and all credit card information is stored in an encrypted format. 
 
 Top  
   
-******Links to other sites**  
-  
-  
-On our Links pages, we provide links to other sites we think you will enjoy and find informative. These sites operate completely independent of pictureframes.com and have established their own privacy and security policies. For the best online experience, we encourage you to review these policies when you visit other sites.
-
-Top  
-  
-******How to contact us with questions or comments, limit catalogs, remove your name from our mailing list, etc.**    
+How to contact us with questions or comments, limit catalogs, remove your name from our mailing list, etc.  
   
 We're always happy to answer your questions, take your comments and suggestions, or assist you in any way possible.
 
@@ -133,6 +125,5 @@ USA | **
 Fax** :  
 (336)887-3773  
 (fax orders 24 hrs/day)  
-  
   
 Top
