@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2005-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050427075034id_/http%3A//www.zedge.no%3Fside%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210135249id_/http%3A//www.zedge.net/%3Fp%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Zedge: Free ringtones, free wallpaper, free themes, free downloads to Nokia and other mobile phones.
+# Zedge Privay Policy
 
-**1\. Information collection and use**  
+## Zedge Privacy Policy
+
+ **1\. Information collection and use**  
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services at Zedge. Such services include newsletters, competitions, "Alert Email", live chats, message boards and Zedge membership.
 
 By entering your details in the fields requested, you enable Zedge and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. Zedge will act in accordance with current legislation and aim to meet current Internet best practice.
@@ -25,7 +27,7 @@ We will hold your personal information on our systems for as long as you use the
 If you are notified on Zedge that your information may be used to allow Zedge to contact you for "service administration purposes", this means that Zedge may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that a particular service has been improved or suspended.
 
 **5\. Access to your personal information**  
-You have the right to request a copy of the personal information Zedge holds about you and to have any inaccuracies corrected. (There is a small charge for such administration requests.) Please address requests to 
+You have the right to request a copy of the personal information Zedge holds about you and to have any inaccuracies corrected. (There is a small charge for such administration requests.)
 
 **6\. Users 16 and under**  
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Zedge's website. Users without this consent are not allowed to provide us with personal information.
