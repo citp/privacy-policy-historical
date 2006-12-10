@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2006-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060409080144id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210213519id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # First Tennessee | All Things Financial : Privacy Policy
 
@@ -122,6 +122,10 @@ Our privacy promise applies to information about current and former customers of
   * xx Polk & Sullivan Group, Inc. doing business as Synaxis Benefits Services
 
 
+
+## For California Residents Only
+
+The rights you have under federal law are stated in our privacy notice you receive from us. As a California consumer, you have two (2) additional choices. You may restrict the sharing of information with our affiliates (companies we own or control) and with outside financial companies (companies we contract with to provide financial products and services to you). [View more information.](https://web.archive.org/privacy/CA)
 
 ## Our Web Linking Policy
 
