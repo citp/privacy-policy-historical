@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034300id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210215326id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
 
 # Superbreak > Hotel Bookings, Reservations & Short Break Holidays
 
@@ -51,7 +51,7 @@ We will use any data gathered through the Superbreak website to issue regular e-
 
 If you do not wish to receive such communications from Superbreak then please follow these instructions: 
 
-  * Send an email with the word unsubscribe in the subject line to: [promotions@superbreak.com](mailto:promotions@superbreak.com?subject=unsubscribe)
+  * Send an email with the word unsubscribe in the subject line to: [newsletter@superbreak.com](mailto:newsletter@superbreak.com?subject=unsubscribe)
   * Ensure you are sending the e-mail from the same address that was originally used when making your request, or purchase. If not, you may continue to receive our promotional e-mails.
 
 
