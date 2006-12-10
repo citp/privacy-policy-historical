@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiaprwire.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617111142id_/http%3A//indiaprwire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaprwire.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210225900id_/http%3A//www.indiaprwire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaPRwire.com
 
-[](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/indiaprwire "Click here to add India PRwire headlines in My Yahoo") | [](http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/indiaprwire "Click here to add India PRwire headlines in Google") | [](http://feeds.feedburner.com/indiaprwire "Click here to add India PRwire headlines in your website")
+## Privacy Policy
 
 **Your privacy on the Internet is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.**
 
@@ -28,7 +28,7 @@ We use a third party advertisement company to display advertisements on our site
 
 This site has industry standard security measures in place to protect against the loss, misuse or alteration of the information under our control, but we cannot guarantee complete security. 
 
-Clients who have registered in order to use our services can change or update their account information and preferences by emailing Client Services at [contact@indiaprwire.com](mailto:contact@indiaprwire.com).
+Clients who have registered in order to use our services can change or update their account information and preferences by emailing Client Services at [contact@indiaprwire.com](mailto:contact@indiaprwire.com?subject=Contact%20IndiaPRwire.com "Contact IndiaPRwire.com").
 
 From time to time we will email client prospects whom we have reason to believe might be interested in our services because of their involvement in the public relations, investor relations, or related fields. Prospects can opt-out of future communications simply by replying to the email and indicating their preference.
 
@@ -45,4 +45,4 @@ DLF City, Phase - IV
 Gurgaon, Haryana  
 India  
 Pin: 122002  
-Email: [contact@indiaprwire.com](mailto:contact@indiaprwire.com)
+Email: [contact@indiaprwire.com](mailto:contact@indiaprwire.com?subject=Contact%20IndiaPRwire.com "Contact IndiaPRwire.com")
