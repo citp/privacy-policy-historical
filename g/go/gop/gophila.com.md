@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615071145id_/http%3A//www.gophila.com/Phila/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210070220id_/http%3A//www.gophila.com/Phila/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: gophila.com - The Official Visitor Site for Greater Philadelphia
 
@@ -17,7 +17,17 @@ In general, we collect and use information about you where we reasonably believe
 ****
   * **Automatic Information – URL and IP Addresses** Examples of the information we automatically collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date, time and pages visited. This information is used to generate reports on Web site usage and visitors and DOES NOT include any personally identifiable information such as name or e-mail address.  
 ****
-  * **Cookies** GPTMC does not employ cookies on this Web site.  A cookie is a text file placed on your hard drive by some Web pages that you visit. When you visit the site again, the Web server retrieves the cookie and reconfigures itself based on your profile and preferences, such as previous pages you visited and any information you provide via a form. Cookies are used in some cases to target advertising and content towards your stated preferences. ****
+  * **Cookies**
+
+GPTMC uses persistent cookies on its Site. A cookie is a text file placed on your hard drive (usually your browser) by a web site. A persistent cookie will remain on your hard drive even after you leave the respective web site and close your browser. When you return to the same web site that placed the cookie on your hard drive, the web site may then access the cookie. 
+
+GPTMC uses cookies for the purpose of distinguishing your browser as a previous visitor to its Site. In short, GPTMC uses cookies to track repeat visits to our Site by you through the your IP address. GPTMC also uses cookies to identify which parts of GPTMC's Site are most visited by you and how long you remain at a specific portion of GPTMC's Site. The cookie is loaded on your browser during the initial visit to GPTMC's Site. The cookies GPTMC uses do not collect personally identifiable information from you such as names, addresses or email addresses. Only your IP address and a time stamp of your arrival is collected. 
+
+The information collected by GPTMC through these cookies is used strictly for statistical analysis of usage trends related to GPTMC's Site. GPTMC does not share, sell, transfer or provide any information collected through cookies to any third parties. Certain versions of browsers may allow parties other than GPTMC to access the GPTMC cookie placed on your hard drive (usually your browser) when you visit the other parties' respective web sites. Consult your browser instructions for further details on this. 
+
+Most browsers allow you to be informed when a cookie is placed on your browser and give you the chance to accept or reject the cookie. Also, most browsers allow you to disable or delete cookies placed on your browser. Consult your browser instructions for further details on those processes. Please note that cookies are not needed to fully access and enjoy this Site. 
+
+****
 
 
 
