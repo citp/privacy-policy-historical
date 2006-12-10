@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616013318id_/http%3A//intel.com/sites/corporate/privacy.htm%3Fiid%3DHMPAGE%2BFooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210144248id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dhomepage%2Bftr_privacy) for the most accurate reproduction.*
 
 # Intel Privacy Policy
 
@@ -27,7 +27,7 @@ Collection of your personal information
 ---  
   
   
-When Intel collects any personal information on our corporate website, we will express our need for the personal data at the point of collection. Some of the reasons why we collect your personal information include: 
+When Intel collects any personal information on our corporate website, we will express our need for the personal data at the point of collection. Personal information is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, title, occupation, and other information required to provide a service, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your personal information include: 
 
   * participation in discussion groups 
   * collaboration efforts 
@@ -49,7 +49,7 @@ We will only use your personal information in the way we specified when it was c
   * To provide customer feedback and support. 
   * To provide contests, sweepstakes or other marketing promotional activities on the intel.com or affiliate websites. Personal information may be collected to administer those programs 
   * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary. 
-  * To support recruitment enquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20060616013318id_/http%3A//intel.com/sites/corporate/privacy3.htm)
+  * To support recruitment enquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20061210144248id_/http%3A//www.intel.com/sites/corporate/privacy3.htm)
   * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest. 
   * To allow you to forward information to another individual such as a friend or co-worker. Intel does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address. 
   * To meet contract obligations. 
@@ -97,6 +97,8 @@ We may also share your personal information with authorized third-party agents o
 We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims. 
 
 We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Intel's terms of use, or as otherwise required by law. 
+
+While navigating Intel’s web site you may be directed to content or functionality that is hosted by a third party supplier, not on Intel.com. This is typically done to host special events, such as contests. When information is collected on behalf of Intel exclusively, Intel’s privacy policy will be referenced on the site and will govern how your information is used. For other, non-Intel sites, the site owner’s privacy policy will be referenced. It is Intel’s practice to require such suppliers to handle information in a manner consistent with Intel’s privacy and security policies. 
 
 We will ask you for your opt-in consent to share your personal information with a third party for any other reason. 
 
@@ -204,7 +206,7 @@ Please contact us by using [this form](https://web.archive.org/intel/writeusp.ht
 Supplement for Intel® Viiv™ Technology  
 ---  
 ---  
-We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel® Viiv™ technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/web/20060616013318id_/http%3A//intel.com/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel® Viiv™ technology-based home network.   
+We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel® Viiv™ technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/web/20061210144248id_/http%3A//www.intel.com/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel® Viiv™ technology-based home network.   
 ---  
 Questions or Comments?  
 ---  
