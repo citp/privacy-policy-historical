@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505133254id_/http%3A//www.nintex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210225611id_/http%3A//www.nintex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,13 +12,13 @@ Nintex views your personal privacy as an important issue, and is committed to re
 
 Information obtained by Nintex
 
-Personal Information you provide: We store the personal information you enter on the Nintex website or give to Nintex in other ways. We currently obtain all personal information through the download registration process. Information currently solicited is: company name, first and last name, job title, contact phone number and email address. Nintex collects and logs this information for statistical purposes. We may share your contact information with approved Nintex [Partners](https://web.archive.org/partners.aspx) who may use your information to contact you about purchasing Nintex products. Nintex may also contact you directly following the supply of personal information. If you wish to stop all Nintex correspondence please contact [feedback@nintex.com](mailto:feedback@nintex.com)
+Personal Information you provide: We store the personal information you enter on the Nintex website or give to Nintex in other ways. We currently obtain all personal information through the Seminar registration process. Information currently solicited is: company name, first and last name, job title, contact phone number and email address. Nintex collects and logs this information for statistical purposes.Nintex may contact you following the supply of personal information. If you wish to stop all Nintex correspondence please contact [ feedback@nintex.com](mailto:feedback@nintex.com)
 
 Automatic collection - Cookies: We may use a feature of your browser called a cookie to assign your computer a user ID. Cookies do not contain information by which Nintex can identify you personally. They identify your computer to our servers. A web site cannot use a cookie to read other data from your hard disk or read cookie files created by other web sites. The Nintex web site uses cookies to track user traffic patterns and to better serve you when you revisit the web site. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. 
 
 Other than stated in the preceding, no attempt is made to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect logs, or where Nintex believes it is required to collect and produce relevant electronic documentation to fulfil its obligations to third parties, including statutory organisations under local law. 
 
-Nintex endeavours to use and disclose your personal information only in limited circumstances. Nintex will do so if it is necessary to protect any copyright or intellectual property in the material in the web site, or if it is necessary to enforce the Nintex web site [Terms and Conditions of Use](https://web.archive.org/web/20060505133254id_/http%3A//www.nintex.com/terms.aspx). 
+Nintex endeavours to use and disclose your personal information only in limited circumstances. Nintex will do so if it is necessary to protect any copyright or intellectual property in the material in the web site, or if it is necessary to enforce the Nintex web site [Terms and Conditions of Use](https://web.archive.org/web/20061210225611id_/http%3A//www.nintex.com/terms.aspx). 
 
 Links to Other Sites
 
