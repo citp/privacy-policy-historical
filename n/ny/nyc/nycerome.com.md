@@ -1,32 +1,12 @@
-> *The following text is extracted and transformed from the nycerome.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623060344id_/http%3A//nycerome.com/nycerome-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycerome.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210222651id_/http%3A//www.nycerome.com/nycerome-privacy.html) for the most accurate reproduction.*
 
 # Rome hotels, online reservation of hotels in Rome, Italy
 
-**Privacy policy**  
-No personal information (credit card details, booking activity, email address, etc.) is provided to anyone beyond the vendor that the costumer designate.  
-nyceWorld Srl and/or authorized third party to assemble personal data (name, e-mail etc.) and or/other information (residence, nationality, etc.) inserted by the costumer when he makes a hotel booking or ask for information by using nycerome.com.  
-Credit Card information are transmitted to the requested hotel, in order to complete the reservation. We can utilize the given e-mail and e-mail address to contact the costumer and send all the necessary information regarding services and requested products.   
-The security of the information given by the customer to us is very important; we utilize a cryptographic system (SSL) during the booking request and other measures to protect the costumer sensible data from loss, abuse and alteration. nyceRome includes links to other sites: this site is not responsible in any way for the actions and security of these third parties who do not share with us any information regarding the customer. 
+**Privacy policy**
 
-**Conformably to the Italian privacy law**  
-The personal data of the customer are registered by nyceWorld Srl conformably to art. 10 of the Italian Law 675/96, only for the aim of utilizing the reservation system, other services requested by the customer or accomplishing the relevant communications/notices.   
-Data will be given only to the addresses of the requests or reservations, to the hotels, or to a third party appointed to do this service in behalf of nyceWorld Srl.  
-The customer benefit from the rights of art. 13 Italian Law 675/96, furthermore the customer can in any moment request the cancellation of his data from the archive sending a simple written request, also by e-mail.   
-Owner / holder and responsible of the collection, preservation and treatment of the data is nyceWorld Srl, Via Fanny Tacchinardi, 19/a - 00168, Rome, Italy  
-The information presented on this page have a mere informative nature and do not constitute contractual bond, they do not give any legal power to the customer against nyceWorld Srl except for what is foreseen by the Italian privacy law 675/96 .
+NYCEWORLD srl collects personal data and/or demographical information when users carry out a hotel booking,make a request for information or send an email message to nyceRome.com. These information can be used by NYCEWORLD srl and/or delegated third parties to maintain and process bookings and to compile anonymous demographical statistics;   
+ Credit card details are disclosed to the hotel where you have requested the booking only in order to finish processing and to guarantee the booking. NYCEWORLD srl cannot release your personal information to third parties without your consent if the purpose is unrelated to the services you have requested. The security of the information given by the customer to us is very important ; NYCEWORLD srl utilizes a cryptographic system (SSL) during the booking request and other measures to protect the costumer sensible data from loss, abuse and alteration. nyceRome.com includes links to other sites: this site is not responsible in any way for the actions and security of these third parties who do not share with us any information regarding the customer.
 
-* * *
+**Compliance with Italian Law on Privacy**
 
-**Abstract of the Privacy Law 675/96 (Italian Act 675/96)**   
-Article 10  
-The party concerned or the person by whom the personal data are collected must previously be informed in writing regarding:   
-a) The aims and modalities of treatment to which the data are appointed  
-b) The compulsory or optional nature of the data bestowal / granting  
-c) The consequences of a possible refusal to reply  
-d) The subjects or subjects' categories to whom data can be noticed and the divulgation sphere of the same data  
-e) The rights of art. 13  
-f) The name, denomination, or title and domicile, residence or the owner registered office and if appointed, of the person in charge.  
-Information act on comma 1 can not comprehend the elements already known to the person who gives the data or of which the knowledge can interfere with the fulfillment of the public inspective function or of control, made for the pursue of the aims shown in art. 4, comma 1 letter e), and 14, comma 1 letter d).  
-When the personal data are not gather up by the interested, the information act, comma 1, is given to the same interested person when he registers his personal data or if their communication is foreseen, not longer the first communication.  
-The provision, noted in comma 3, does not apply when the information to the interested implies an utilization of means, which can be judged by the surety clearly out of proportion in respect of the defensive right, otherwise it disclose impossible by the surety judgment, otherwise when the data are used following a duty foreseen by the law, by an act of by the communitarian regulations.   
-The same rule does not also apply when the data are used for the investigation development of art. 38 of the execution rules, coordination and fleeting rules of the penal procedure code, approved by the law decree 28th July 1989, n. 271, and further modifications, or however, in order to make worth of defend a right in judicial place, only if the data are treated exclusively for such scope and for the necessary period of time.
+Customer personal data are recorded by NYCEWORLD srl in order to perform the booking service or other services requested by users and to provide pertinent information. Incomplete or false data recorded results in the impossibility to make use of the booking service or other services when the requested data are necessary. Said data are processed in observance of Italian Legislative Decree no. 196 of 30 June 2003 (Personal data protection). NYCEWORLD srl hereby informs users that the personal data provided by customers during the booking process shall be processed of the following purposes: necessary activities strictly connected with access to the system, online booking services as well as activation of the booking services; activities connected with relevant notifications sent out to users; The processing of personal data shall be regulated by the principles of correctness, lawfulness and transparency and shall take place, in compliance with the abovementioned law, in full observance of the utmost privacy and protection of the customer's rights. Processing shall also be performed with the aid of computers and will either be directly automated and/or executed by third parties. The submission of the requested data is mandatory in order to enable access to the system and online booking services. Refusal to provide said data will result in failure to gain access to the system and booking services and therefore, the impossibility of making the bookings themselves. Customers hereby declare they are aware of their rights pursuant to art. 7 of Italian Legislative Decree no. 196/2003.
