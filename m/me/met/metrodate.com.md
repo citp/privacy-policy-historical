@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617080329id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210105010id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Metrodate.com
 
