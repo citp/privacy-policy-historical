@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221203id_/http%3A//osm.onstreammedia.com/portal/common/article/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210194829id_/http%3A//osm.onstreammedia.com/portal/common/article/privacy_policy) for the most accurate reproduction.*
 
-# Webcast - Webcasting - Video Webcast - Video Webcasting - Audio Streaming - How To Video Conference
+# Onstream Media Corporation Internet Video Broadcasting & Video Conferencing Software
 
 **COLLECTION OF PERSONAL INFORMATION**  
 In general, you can visit us on the internet without telling us who you are or giving us personal information. There are times when we may need information from you, for instance: to process an information request or order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.
