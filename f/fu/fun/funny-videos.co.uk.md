@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630140641id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210164246id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for Funny Videos
 
@@ -20,8 +20,8 @@ This site contains links to other sites, funny-videos.co.uk is not responsible f
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by emailing us at [our contact page](http://www.funny-videos.co.uk/email.php).
 
-**[Submit Video](https://web.archive.org/web/20060630140641id_/http%3A//www.funny-videos.co.uk/submit.php) **| **[Privacy Policy](https://web.archive.org/web/20060630140641id_/http%3A//www.funny-videos.co.uk/privacy.php) **| **[Contact Us](http://www.funny-videos.co.uk/email.php)**
+**[Submit Video](https://web.archive.org/web/20061210164246id_/http%3A//www.funny-videos.co.uk/submit.php) **| **[Privacy Policy](https://web.archive.org/web/20061210164246id_/http%3A//www.funny-videos.co.uk/privacy.php) **| **[Contact Us](http://www.funny-videos.co.uk/email.php)**
 
-Current Videos: 885  
-Average rating 4.46 (out of 5) from 79596 votes.  
+Current Videos: 1197  
+Average rating 3.87 (out of 5) from 165152 votes.  
 Copyright Funny-Videos.co.uk 2005. All Rights Reserved.
