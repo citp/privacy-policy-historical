@@ -1,64 +1,8 @@
-> *The following text is extracted and transformed from the indiaplaza.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200131id_/http%3A//indiaplaza.com/Misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaplaza.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210095951id_/http%3A//indiaplaza.com/Misc/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-| Store Directory  
----  
-  
-  * [Apparel](https://web.archive.org/apparel)  
-[Faux Crepe Sarees, ](https://web.archive.org/apparel/ls.aspx?c=3875)[Salwars, ](https://web.archive.org/apparel/ls.aspx?c=4014)[Kurtis, ](https://web.archive.org/apparel/ls.aspx?c=5950)[Wash and Wear, ](https://web.archive.org/apparel/ls.aspx?c=3861)[Yoga Wear, ](https://web.archive.org/apparel/ls.aspx?c=4404)[For kids, ](https://web.archive.org/apparel/ls.aspx?c=34)[More](https://web.archive.org/apparel)
-  * [Arts and Crafts](https://web.archive.org/artanddecor)  
-[Wall Hangings, ](http://www.indiaplaza.com/artanddecor/ls.aspx?c=2985)[Curios, ](http://www.indiaplaza.com/artanddecor/ls.aspx?c=2956)[Brassware, ](http://www.indiaplaza.com/artanddecor/ls.aspx?c=2954)[Raja Ravi Varma Prints, ](http://www.indiaplaza.com/artanddecor/ls1.aspx?c=2986)[European Prints, ](http://www.indiaplaza.com/artanddecor/ls1.aspx?c=1346)[More](https://web.archive.org/artanddecor)
-  * [Astrology](https://web.archive.org/spirituality)  
-[Annual Predictions, ](http://www.indiaplaza.com/spirituality/lsf.aspx?c=12729)[Janampatri, ](http://www.indiaplaza.com/spirituality/lsf.aspx?c=12728)[Mahurats, ](http://www.indiaplaza.com/spirituality/lsf.aspx?c=12731)[Personalised Predictions, ](http://www.indiaplaza.com/spirituality/lsf.aspx?c=12730)[More...](https://web.archive.org/spirituality)
-  * [Audio CDs](https://web.archive.org/Music)  
-[New Releases, ](https://web.archive.org/music/NewReleases.aspx?c=1)[Karaoke, ](https://web.archive.org/music/ls.aspx?c=1008)[Remixes, ](https://web.archive.org/music/ls.aspx?c=2197)[Ghazals, ](https://web.archive.org/music/ls.aspx?c=1017)[Devotional, ](https://web.archive.org/music/ls.aspx?c=1004)[More...](https://web.archive.org/music)
-  * [Bargains to India](https://web.archive.org/discount/ls.aspx?c=846)  
-[Get upto 80% off on great products to india](http://www.indiaplaza.com/discount/ls.aspx?c=846)
-  * [Beauty Care](https://web.archive.org/beautycare/)  
-[Shahnaz Herbals, ](https://web.archive.org/beautycare/shahnaz.aspx)[Biotique, ](https://web.archive.org/beautycare/biotique.aspx)[Himalaya, ](https://web.archive.org/beautycare/himalaya.aspx)[More...](https://web.archive.org/beautycare)
-  * [Books And Magazines](https://web.archive.org/books)  
-[Fiction, ](https://web.archive.org/books/ls.aspx?c=1243005)[Non Fiction, ](https://web.archive.org/books/ls.aspx?c=1243007)[Cook Books, ](https://web.archive.org/books/ls.aspx?c=1243003)[Comics, ](https://web.archive.org/books/ls.aspx?c=1243445)[Collections, ](https://web.archive.org/books/ls.aspx?productgroup=COLLS00001)[Books for children, ](https://web.archive.org/books/ls.aspx?productgroup=ChildrenSpecial)[Magazines, ](https://web.archive.org/books/lsm.aspx?c=2583)[More...](https://web.archive.org/books)
-  * [CD-ROMs](https://web.archive.org/cdrom)  
-[Games, ](https://web.archive.org/cdrom/ls.aspx?c=38)[Education, ](https://web.archive.org/cdrom/ls.aspx?c=27)[Encyclopaedias, ](https://web.archive.org/cdrom/ls.aspx?c=34)[Stories, ](https://web.archive.org/cdrom/ls.aspx?c=217)[Languages, ](https://web.archive.org/cdrom/ls.aspx?c=31)[Indian Heritage, ](https://web.archive.org/cdrom/ls.aspx?c=35)[More...](https://web.archive.org/cdrom)
-  * [DVD](https://web.archive.org/dvd)  
-[New Releases, ](https://web.archive.org/dvd/newreleases.aspx)[Songs DVDs, ](https://web.archive.org/dvd/ls.aspx?c=2673)[Karaoke, ](https://web.archive.org/dvd/karaokeindex.aspx)[Mythological Sets, ](https://web.archive.org/dvd/mythoffer.aspx)[Regional, ](https://web.archive.org/dvd/gujarati.aspx)[More.....](https://web.archive.org/dvd)
-  * [Electronics](https://web.archive.org/electronics)  
-[Mobile Phones, ](http://www.indiaplaza.com./Mobilephones/ls.aspx?c=5763)[Digital Cameras, ](https://web.archive.org/electronics/ls.aspx?c=4127)[MP3 Players, ](https://web.archive.org/electronics/ls.aspx?c=4133)[TVs, ](https://web.archive.org/electronics/ls.aspx?c=6186)[Notebook Accessories, ](https://web.archive.org/electronics/ls.aspx?c=4197)[Musical Keyboards, ](https://web.archive.org/electronics/ls.aspx?c=6355)[More...](https://web.archive.org/electronics)
-  * [Flowers](https://web.archive.org/flowers)  
-[Roses, ](https://web.archive.org/flowers/ls.aspx?c=4817&p=11)[Hampers, ](https://web.archive.org/flowers/ls.aspx?c=4883&p=11)[Designer Bouquets, ](http://www.indiaplaza.com/flowers/ls.aspx?productgroup=Designer+Bouquets)[Cakes, ](https://web.archive.org/flowers/ls.aspx?c=12726&p=56)[Chocolates, ](http://www.indiaplaza.com/flowers/ls.aspx?c=13347&p=56)[More...](https://web.archive.org/flowers)
-  * [Gift Center](https://web.archive.org/gift)  
-Choose from over 2 million gifts to India
-  * [Gift Certificates](https://web.archive.org/gift/Giftcertificate.aspx)  
-[Apparel, ](https://web.archive.org/gift/Giftcertificate.aspx)[Lifestyle, ](https://web.archive.org/gift/Giftcertificate.aspx)[Jewelry and accessories, ](https://web.archive.org/gift/Giftcertificate.aspx)[Food and Beverages, ](https://web.archive.org/gift/Giftcertificate.aspx)[More...](https://web.archive.org/gift/Giftcertificate.aspx)
-  * [Groceries](https://web.archive.org/grocery)  
-[Provisions, ](https://web.archive.org/grocery/ls.aspx?c=4194)[Spices, ](http://www.indiaplaza.com/grocery/ls.aspx?c=4176)[Instant Foods, ](https://web.archive.org/grocery/ls.aspx?c=1803)[Ready-to-eat, ](https://web.archive.org/grocery/ls.aspx?c=1847)[Sweets and Snacks, ](http://www.indiaplaza.com/sweets/)[More...](https://web.archive.org/grocery)
-  * [Home Furnishings](https://web.archive.org/furnishings/)  
-[Bedspreads, ](https://web.archive.org/furnishings/ls.aspx?c=9)[Cushion Covers, ](https://web.archive.org/furnishings/ls.aspx?c=11)[Table linen, ](https://web.archive.org/furnishings/ls.aspx?c=13)[More...](https://web.archive.org/furnishings/)
-  * [Jewelry](https://web.archive.org/jewellery)  
-[Gold, ](https://web.archive.org/jewellery/ls4.aspx?c=11290)[Silver, ](https://web.archive.org/jewellery/ls4.aspx?c=11291)[Diamond, ](https://web.archive.org/jewellery/ls4.aspx?c=11292)[Pearls, ](https://web.archive.org/jewellery/ls4.aspx?c=12275)[Gem Stones, ](https://web.archive.org/jewellery/ls2.aspx?c=4995)[More...](https://web.archive.org/jewellery)
-  * [Kitchenware](https://web.archive.org/appliances)  
-[Mixers, ](https://web.archive.org/appliances/ls.aspx?c=3420)[Wet grinders, ](https://web.archive.org/appliances/ls.aspx?c=3441)[Pressure Cookers, ](https://web.archive.org/appliances/ls.aspx?c=1755)[Utensils, ](https://web.archive.org/appliances/ls.aspx?c=3447)[Non Stick, ](https://web.archive.org/appliances/ls.aspx?c=3444)[More...](https://web.archive.org/appliances)
-  * [Leather](http://www.indiaplaza.com/leather/ls.aspx?c=2995&p=3397)  
-[Bags, ](https://web.archive.org/gift/ls.aspx?c=3182&p=3397)[Wallets, ](https://web.archive.org/gift/ls.aspx?c=2992&p=3397)[Trolley Bags, ](https://web.archive.org/gift/ls.aspx?c=6549&p=3397)[More...](http://www.indiaplaza.com/leather/ls.aspx?c=2995&p=3397)
-  * [Phone cards](https://web.archive.org/phonecards/ls.aspx?c=2537)  
-[Call India, ](https://web.archive.org/phonecards/ls.aspx?c=2537)[Call domestic, ](https://web.archive.org/phonecards/ls.aspx?c=1994)[Call Other Countries](https://web.archive.org/phonecards/ls.aspx?c=1861)
-  * [Pens](https://web.archive.org/pens/ls.aspx?c=3534)  
-[Pelikan, ](https://web.archive.org/pens/ls.aspx?c=6400)[Sheaffer Pens](https://web.archive.org/pens/ls.aspx?c=3534)
-  * [Spirituality](https://web.archive.org/spirituality)  
-[Pooja Essentials, ](http://www.indiaplaza.com/spirituality/ls.aspx?c=12784)[Rudrakshas, ](http://www.indiaplaza.com/spirituality/ls.aspx?c=2872)[Yantras, ](http://www.indiaplaza.com/spirituality/ls.aspx?c=2883)[Religious Pendants, ](http://www.indiaplaza.com/spirituality/ls.aspx?c=2882)[Astrological gems and stones, ](http://www.indiaplaza.com/Spirituality/ls.aspx?c=2871)[More...](https://web.archive.org/spirituality)
-  * [Swiss Knives](https://web.archive.org/swiss/ls.aspx?c=3850)
-  * [Sweets and Snacks](https://web.archive.org/sweets/)  
-[Rajbhog Sweets, ](http://www.indiaplaza.com/sweets/rajbhogindex.aspx)[Surati Farsan, ](http://www.indiaplaza.com/sweets/suratiindex.aspx)[Haldiram, ](http://www.indiaplaza.com/Sweets/ls.aspx?c=1396)[More...](https://web.archive.org/sweets)
-  * [Toys](https://web.archive.org/toys)  
-[Video games, ](https://web.archive.org/toys/ls.aspx?c=9381)[Board games, ](https://web.archive.org/toys/ls.aspx?c=115)[Magic tricks, ](https://web.archive.org/toys/ls.aspx?c=253)[Cars, ](https://web.archive.org/toys/ls.aspx?c=9831)[More...](https://web.archive.org/toys)
-  * [Watches](http://www.indiaplaza.com/watches/ls.aspx?c=1)  
-[Casio, ](https://web.archive.org/watches/ls.aspx?c=3004)[Citizen, ](https://web.archive.org/watches/ls.aspx?c=3006)[Seiko, ](https://web.archive.org/watches/ls.aspx?c=8729)[Timex, ](https://web.archive.org/watches/ls.aspx?c=3012)[Tissot, ](http://www.indiaplaza.com/watches/ls.aspx?c=8439)[Titan](http://www.indiaplaza.com/watches/ls.aspx?c=3003)
-  * [Wines](https://web.archive.org/wine)  
-[Beer, ](https://web.archive.org/wine)[Champagne, ](https://web.archive.org/wine)[Wines, ](https://web.archive.org/wine)[Liqueurs, ](https://web.archive.org/wine)[Vodka, ](https://web.archive.org/wine)[Whiskey, ](https://web.archive.org/wine)[More...](https://web.archive.org/wine)
-
-  
-| 
+|  | 
 
 **What This Privacy Policy Covers**
 
