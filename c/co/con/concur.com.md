@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615134423id_/http%3A//concur.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210030924id_/http%3A//www.concur.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Concur Technologies, Inc. Privacy Policy
 
