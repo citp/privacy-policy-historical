@@ -1,283 +1,206 @@
-<!--The following is the downloaded HTML source of the sme.org privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203035558id_/http%3A//www.sme.org/cgi-bin/abouthtml.pl%3F/html/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sme.org privacy policy that was archived on 2006-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061210191004id_/http%3A//www.sme.org/cgi-bin/abouthtml.pl%3F/html/privacy_statement.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Society of Manufacturing Engineers</title>
 <meta name="description" content="Society of Manufacturing Engineers is an international professional society dedicated to serving its members and the manufacturing community through the advancement of professionalism, knowledge, and learning.">
-<meta name="keywords" content="westec, fabtech, manufacturing, engineering, CAD, composites, plastics, robotics, rapid prototyping, machining, machine vision, electronics, finishing processes, metal forming, fabricating, manufacturing education, manufacturing certification">
-
-<link rel="SHORTCUT ICON" href="http://www.sme.org/favicon.ico">
+<meta name="keywords" content="westec, fabtech, manufacturing, engineering, CAD, composites, plastics, robotics, rapid prototyping, machining, machine vision, electronics, finishing processes, metal forming, fabricating, manufacturing education, manufacturing certification, alternative energy, alternative energy technologies, advanced energy, advanced energy systems, advanced energy technologies, energy, fuel cell, fuel cells, fuel cell systems, fuel cell technologies">
 
 <!-- ##### Style sheet BEGINS ##### -->
-<style>
-a:link {color: #000066;}
-a:visited {color: #000066;}
-a:active {color: #000066;}
-a:hover {color: #0000EE;}
-</style>
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<link rel="stylesheet" type"text="" css"="" href="/sme.css" media="screen">
+<link rel="stylesheet" type"text="" css"="" href="/print.css" media="print">
+
 <!-- ##### Style sheet ENDS ##### -->
 
 <script language="JavaScript">
-
+<!--
 function getOPTION(s)
         {       var d = s.options[s.selectedIndex].value;
                 window.top.location.href = d;
                 s.selectedIndex=0;
         }
 
-</script>
+// Some variables
 
+var base= ""
+var nrm = new Array();
+var omo = new Array();
+var ocl = new Array();
+var stuff = new Array('membs','students','educators','media','employers','advertiser','volunteer','author');
+var select = -1;
+var name2 = "";
+var temp = 0;
+
+// Pre-load part.
+
+if (document.images)
+{
+	for (i=0;i<stuff.length;i++)
+	{
+		nrm[i] = new Image;
+		nrm[i].src = base + "/images/headers_a6/menu_0" + i + ".gif"
+		omo[i] = new Image;
+		omo[i].src = base + "/images/headers_a6/menu_0" + i + "_o.gif";
+		ocl[i] = new Image;
+		ocl[i].src = base + "/images/headers_a6/menu_0" + i + ".gif";
+	}
+}
+
+// The functions: first mouseover, then mouseout
+
+function over(no)
+{
+	if (document.images && select != no)
+	{
+		document.images[stuff[no]].src = omo[no].src
+	}
+}
+
+function out(no)
+{
+	if (document.images && select != no)
+	{
+		document.images[stuff[no]].src = nrm[no].src
+	}
+}
+
+function clic(no)
+{
+	if (document.images)
+	{
+		document.images[stuff[no]].src = ocl[no].src
+		temp = select;
+		select = no;
+		if (temp != -1) {out(temp)}
+	}
+}
+
+// -->
+</script>
 </head>
 
-<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" text="#000066">
+<body>
+
+<div class="adbanner">
 
 <center>
 <!-- ##### Header table STARTS ##### -->
-<table border="0" width="760" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="212" rowspan="2"><a href="/index.html"><img border="0" src="/images/headers_g5/top_header_1.jpg" width="212" height="73"></a></td>
-
-<!-- # Flash animation START # -->
-<!--
-<td width="315"><object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'  codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0' width='315' height='57' VIEWASTEXT id=ShockwaveFlash1>
-<param name='loop' value='false'>
-<param name='movie' value='/images/misc_g5/tag.swf'>
-<param name='quality' value='best'>
-<param name='play' value='true'>
-<embed src='/images/misc_g5/tag.swf' type='application/x-shockwave-flash' width='315' height='57' pluginspage='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash' quality='best' play='true' loop='false'>
-</object></td>
--->
-<td width="315"><!-- URL's used in the movie: -->
-<a href="http://www.sme.org/bookstore"></a>
-<!-- text used in the movie: -->
-<!-- Visit SME's Online Store; Educational Books,CDs, Videos, and More! -->
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="315" height="57" id="smestoreflash">
-<param name="movie" value="/images/misc_g5/smestoreflash.swf">
-<param name="quality" value="high">
-<embed src="/images/misc_g5/smestoreflash.swf" quality="high" width="315" height="57" name="smestoreflash" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-
-</object>
-</td>
-<!-- # Flash animation END # -->
-
-<td width="70"><img border="0" src="/images/headers_g5/top_header_3.jpg" width="70" height="57"></td>
-<td width="93"><img border="0" src="/images/headers_g5/top_header_4.jpg" width="93" height="57"></td>
-<td width="70"><img border="0" src="/images/headers_g5/top_header_5.jpg" width="70" height="57"></td>
-</tr>
-<tr>
-<td width="548" colspan="4"><img border="0" src="/images/headers_g5/top_header_6.jpg" width="153" height="16"><a href="/index.html"><img border="0" src="/images/headers_g5/top_header_part7w.gif" width="42" height="16"></a><a href="/cgi-bin/abouthtml.pl?/html/about.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/headers_g5/top_header_part8_sel.gif" width="71" height="16"></a><a href="/cgi-bin/membhtml.pl?/html/serv_center_memb.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/headers_g5/top_header_part9w.gif" width="89" height="16"></a><a href="/cgi-bin/abouthtml.pl?/html/contactus.htm"><img border="0" src="/images/headers_g5/top_header_part10w.gif" width="70" height="16"></a><a href="/cgi-bin/help-links.pl?&amp;&amp;SME&amp;"><img border="0" src="/images/headers_g5/top_header_part11w.gif" width="58" height="16"></a><a href="/cgi-bin/gethelppage.pl?/help/start.html&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/headers_g5/top_header_part12w.gif" width="43" height="16"></a><img border="0" src="/images/headers_g5/top_header_13.gif" width="22" height="16"></td>
-</tr>
-<tr><td colspan="5" align="right"><a href="/cgi-bin/abouthtml.pl?/html/contactus.htm"><img border="0" src="/images/buttons_g5/top_button_contactus.gif" width="54" height="25" alt="Contact Us"></a><a href="/cgi-bin/abouthtml.pl?/html/directions.htm"><img border="0" src="/images/buttons_g5/top_button_directions.gif" width="51" height="25" alt="Directions"></a><a href="/cgi-bin/abouthtml.pl?/html/get_involved.htm"><img border="0" src="/images/buttons_g5/top_button_getinvolved.gif" width="62" height="25" alt="Get Involved"></a><a href="/cgi-bin/get-file.pl?/downloads/press/sme_historical_article.pdf"><img border="0" src="/images/buttons_g5/top_button_history.gif" width="37" height="25" alt="History"></a><a href="/cgi-bin/abouthtml.pl?/html/smestratplan.htm"><img border="0" src="/images/buttons_g5/top_button_mission.gif" width="39" height="25" alt="Mission"></a><a href="/cgi-bin/abouthtml.pl?/html/sme_partners.htm"><img border="0" src="/images/buttons_g5/top_button_partners.gif" width="42" height="25" alt="Partners"></a><a href="/cgi-bin/presshtml.pl?/press/pr-hp.htm"><img border="0" src="/images/buttons_g5/top_button_pressroom.gif" width="58" height="25" alt="Press Room"></a><a href="/cgi-bin/abouthtml.pl?/html/privacy_statement.htm"><img border="0" src="/images/buttons_g5/top_button_privacypolicy.gif" width="68" height="25" alt="Privacy Policy"></a><img border="0" src="/images/misc_g5/spacer5.gif" width="15" height="10"></td></tr>
-</tbody></table>
-<!-- ##### Header table ENDS ##### -->
-
-<!-- ##### Horizontal spacer between header and body ##### -->
-
-<!-- ##### Main table STARTS ##### -->
 <table border="0" width="761" cellspacing="0" cellpadding="0">
-  
-
-<!-- # Navigation cell STARTS # -->
 <tbody><tr>
-<td width="1" valign="top" bgcolor="#000066"></td><td width="1" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="5"></td>
+<!-- LOGO STARTS -->
+<td valign="bottom" colspan="2" rowspan="2" width="210" align="right"><a href="/index.html"><img border="0" src="/images/headers_a6/top_header_1.gif" width="210" height="82"></a></td>
 
-<td width="143" bgcolor="#ffffff" valign="top">
+<!-- BANNER AD SPACE STARTS -->
+<td width="389" colspan="2" height="52" align="center" valign="top"><img border="0" src="/images/misc_g5/spacer5.gif" width="389" height="52"></td>
 
-<!-- # Search box STARTS # -->
-<center>
-<table border="0" width="140" cellpadding="0" cellspacing="0">
+<!-- MEMBER LOGIN STARTS -->
+<td width="158" align="right" height="52" valign="top">
+<table width="142" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td width="140" colspan="5">
-<img border="0" src="/images/misc_g5/search_box_top.jpg" width="140" height="22"></td>
-</tr>
-<!-- #Keyword Search -->
-<tr><td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="136" bgcolor="#CCCC99" align="center" valign="top">
-<form name="search" method="POST" action="/search/jsp/SearchResultController">
-<font face="arial" size="1" color="#000066"><input type="text" name="keyword" value="Keyword" size="10" style="font-style: normal; font-family: arial; font-weight: normal; font-size:10px" onclick="javascript:document.search.keyword.value=''"></font> <input type="image" src="/images/misc_g5/search_box_pt3_new.gif" width="25" height="18" border="0" name="search"></form></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td></tr>
-
-<!-- #Keyword Search Results -->
-<tr><td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="136" height="1" bgcolor="#CCCC99">
-
-</td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td></tr>
-
-<!-- #Topic Index -->
-<tr><td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="136" bgcolor="#CCCC99" align="center" valign="middle">
-<a href="/cgi-bin/drilldown.pl?15&amp;&amp;&amp;&amp;SME&amp;"><img src="/images/misc_g5/search_box_topic.gif" width="118" height="20" border="0"></a>
-</td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td></tr>
-
-<!-- #Supplier Search -->
-<tr><td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="136" bgcolor="#CCCC99" align="center" valign="middle">
-<a href="/cgi-bin/category-list.pl?&amp;&amp;PUB&amp;&amp;SME&amp;"><img src="/images/misc_g5/search_box_bguide.gif" width="118" height="20" border="0"></a>
-</td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td></tr>
-
-<tr>
-<td width="140" colspan="5"><img src="/images/misc_g5/search_box_bottom.jpg" width="140" height="21" border="0">
-</td>
+<td><img border="0" src="/images/misc_g5/spacer5.gif" width="18" height="15"></td>
+<td align="right"><a href="/login"><img src="/images/headers_a6/tr_login.gif" width="44" border="0" alt="Member Login"></a></td>
+<td align="right"><a href="/updateaccount"><img src="/images/headers_a6/tr_update.gif" width="51" alt="Update" border="0"></a></td>
+<td align="left"><a href="/renew"><img src="/images/headers_a6/tr_renew.gif" width="47" alt="Renew" border="0"></a></td>
 </tr>
 </tbody></table>
-</center>
-<!-- # Search box ENDS # -->
-
-<!-- # Menu box STARTS # -->
-<table border="0" width="140" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="140"><img border="0" src="/images/misc_g5/navheader_top_2.gif" width="143"></td></tr>
-<tr>
-<td width="140" align="center" bgcolor="#CC9900">
-<!-- ##### Quick links menu BEGINS ##### -->
-<center><form>
-<select language="JavaScript" class="shared" onchange="getOPTION(this)" ;="" name="quickbar" size="1" style="font-style: normal; font-family: arial; font-weight: normal; font-size:10px">
-<option value="" selected="">Quick Links</option>
-<option value="/cgi-bin/servicecenters.pl?/html/serv_center_adv.htm&amp;&amp;&amp;SME&amp;">Advertise</option>
-<option value="/annualmeeting">Annual Meeting</option>
-<option value="/cgi-bin/awardhtml.pl?/awards/awards.html&amp;&amp;&amp;SME&amp;">Awards</option>
-<option value="/cgi-bin/sponsors1.pl?&amp;&amp;SME&amp;">Buyers Guide</option>
-<option value="/calendar/calendar.jsp?action=n&amp;date=">Calendar</option>
-<option value="/cgi-bin/certhtml.pl?/cert/certification.html&amp;&amp;&amp;SME&amp;">Certification</option>
-<option value="/cgi-bin/smeefhtml.pl?/foundation/donor/fdpfront.htm&amp;&amp;&amp;SME&amp;">Donate</option>
-<option value="/cgi-bin/servicecenters.pl?/html/serv_center_exhib.htm&amp;&amp;&amp;SME&amp;">Exhibit</option>
-<option value="/cgi-bin/events.pl?&amp;&amp;SME&amp;expo&amp;">Expositions</option>
-<option value="/cgi-bin/find-issues.pl?&amp;&amp;FF&amp;SME&amp;">FF Magazine</option>
-<option value="/cgi-bin/smeefhtml.pl?/foundation/grants/fgfront.htm&amp;&amp;&amp;SME&amp;">Grants</option>
-<option value="/cgi-bin/communities.pl?/communities/assoc_home.htm&amp;&amp;&amp;SME&amp;">Groups</option>
-<option value="/cgi-bin/jobbank-intro.pl?&amp;&amp;SME&amp;">Job Bank</option>
-<option value="/cgi-bin/libhtml.pl?/library/libhome.htm&amp;&amp;&amp;SME&amp;">Library</option>
-<option value="/cgi-bin/find-issues.pl?&amp;&amp;ME&amp;SME&amp;">ME Magazine</option>
-<option value="/cgi-bin/membhtml.pl?/html/mei_hp.htm&amp;&amp;&amp;SME&amp;">MEI</option>
-<option value="/cgi-bin/getgmnpage.pl?/html/serv_center_memb.htm&amp;&amp;&amp;SME&amp;">Membership</option>
-<option value="/cgi-bin/newshtml.pl?/html/news_hp.htm&amp;&amp;&amp;SME&amp;">News</option> 
-<option value="/cgi-bin/jobadvancement.pl?/html/elearning_hp.htm&amp;&amp;&amp;SME&amp;">Online Courses</option> 
-<option value="/cgi-bin/jobadvancement.pl?/memb/mresumedb.htm&amp;&amp;&amp;SME&amp;">Resumes</option> 
-<option value="/cgi-bin/smeefhtml.pl?/foundation/scholarships/fsfstudp.htm&amp;&amp;&amp;SME&amp;">Scholarships</option> 
-<option value="/cgi-bin/storehtml.pl?/inter_books.html&amp;&amp;&amp;SME&amp;">Store</option>
-<option value="/cgi-bin/events_expos.pl?/html/training_hp.htm&amp;&amp;SME&amp;">Training</option>
-</select>
-</form></center>
-</td></tr></tbody></table>
-<!-- ##### Quick Links Menu ENDS ##### -->
-
-<table border="0" width="140" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="143" height="2" bgcolor="#CC9999"><img border="0" src="/images/misc_g5/spacer5.gif" width="143" height="2"></td></tr>
-
-<tr>
-<td width="143" bgcolor="#CC9900">
-
-<!-- # Boards, Committees button # -->
-<a href="/cgi-bin/boardshtml.pl?/html/board_chap.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_boards_committees.gif" width="143" height="18" alt="Boards and Committees"></a><br>
-
-
-<!-- # Career Advancement button # -->
-<a href="/cgi-bin/jobadvancement.pl?/html/job_adv.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_career_advancement.gif" width="143" height="18" alt="Career Advancement"></a><br>
-
-
-<!-- # Chapters, Regions button # -->
-<a href="/cgi-bin/chaptershtml.pl?/html/chap_region_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_chapters_regions.gif" width="143" height="18" alt="Chapters and Regions"></a><br>
-
-
-<!-- # Companies button # -->
-<a href="/cgi-bin/companies.pl?/html/companies_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_companies.gif" width="143" height="18" alt="Companies"></a><br>
-
-
-<!-- # Events & Expositions button # -->
-<a href="/cgi-bin/events_expos.pl?/html/event_expo_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_events_expositions.gif" width="143" height="18" alt="Events &amp; Exposistions"></a><br>
-
-
-<!-- # Foundation button # -->
-<a href="/cgi-bin/smeefhtml.pl?/html/foundation_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_foundation.gif" width="143" height="18" alt="Foundation"></a><br>
-
-
-<!-- # International Awards button # -->
-<a href="/cgi-bin/awardhtml.pl?/awards/awards.html&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_international_awards.gif" width="143" height="18" alt="International Awards"></a><br>
-
-
-<!-- # Library button # -->
-<a href="/cgi-bin/libhtml.pl?/library/libhome.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_library.gif" width="143" height="18" alt="Library"></a><br>
-
-
-<!-- # Member Center button # -->
-<a href="/cgi-bin/membhtml.pl?/html/serv_center_memb.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_membercenter.gif" width="143" height="18" alt="Member Center"></a><br>
-
-
-<!-- # News button # -->
-<a href="/cgi-bin/newshtml.pl?/html/news_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_news.gif" width="143" height="18" alt="News"></a><br>
-
-
-<!-- # Book & Video Store button # -->
-<a href="/cgi-bin/storehtml.pl?/inter_books.html&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_online_store.gif" width="143" height="18" alt="Online Store"></a><br>
-<!-- # storefront navigation -->
-
-<!-- # Press Room button # -->
-<a href="/cgi-bin/presshtml.pl?/html/serv_center_media.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_press_room.gif" width="143" height="18" alt="Press Room"></a><br>
-
-
-<!-- # Publications & Tech Info. button # -->
-<a href="/cgi-bin/pubs.pl?/html/pubs_tech_hp.htm&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_publications_techinfo.gif" width="143" height="18" alt="Publications &amp; Tech Info."></a><br>
-
-
-<!-- # Resource & Service Centers button # -->
-<a href="/cgi-bin/servicecenters.pl?/html/serv_center_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_resource_serv.gif" width="143" height="18" alt="Resource Centers"></a><br>
-
-
-<!-- # Technical Groups button # -->
-<a href="/cgi-bin/communities.pl?/communities/assoc_home.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_techcommunities.gif" width="143" height="18" alt="Technical Communities"></a><br>
-
-
-<!-- # Training button # -->
-<a href="/cgi-bin/training.pl?/html/training_hp.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_training.gif" width="143" height="18" alt="Training"></a><br>
-
-
-<br>
-<!-- # Student Zone button # -->
-<a href="/cgi-bin/eduhtml.pl?/html/stud_zone.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/buttons_g5/lev1_studentzone.gif" width="143" height="28" alt="Student Zone"></a><br>
-
-
-<!-- # Technical Groups button # -->
-<center>
-<!-- # Manufacturing Engineering Logo # -->
-<a href="/cgi-bin/find-issues.pl?&amp;&amp;ME&amp;SME&amp;"><img border="0" src="/images/logos/melogo3.gif" width="115" height="62" alt="Manufacturing Engineering Magazine"></a><br>
-
-<!-- # Forming & Fabricating Logo # -->
-<a href="/cgi-bin/find-issues.pl?&amp;&amp;FF&amp;SME&amp;"><img border="0" src="/images/logos/fflogo3.gif" width="117" height="69" alt="Forming &amp; Fabricating Magazine"></a><br>
-</center>
-
-<!-- # Navigation bottom header # -->
-</td></tr>
-<tr>
-<td width="143">
-<img src="/images/headers_g5/navheader_bottom_2.gif" width="143" height="17" border="0"></td></tr></tbody></table>
+<br><img border="0" src="/images/misc_g5/spacer5.gif" width="158" height="1">
 </td>
-<!-- # Navigation cell ENDS # -->
+</tr>
 
-<!-- # Vertical rule # -->
-<td width="1" valign="top" bgcolor="#000066"><img border="0" src="/images/misc_g5/search_box_rightborder.gif" width="1" height="5"></td>
+<tr>
+<!-- ROW OF TABS START -->
+<td colspan="3" align="left" valign="bottom" width="548"><img src="/images/headers_a6/headerspacer.gif" width="56"><a href="/members" onmouseover="over(0)" onmouseout="out(0)" onclick="clic(0)"><img border="0" name="membs" src="/images/headers_a6/menu_00.gif" alt="Members" width="58"></a><a href="/studentzone" onmouseover="over(1)" onmouseout="out(1)" onclick="clic(1)"><img border="0" src="/images/headers_a6/menu_01.gif" name="students" alt="Students" width="59"></a><a href="/cgi-bin/servicecenters.pl?/html/serv_center_educ.htm&amp;&amp;&amp;SME&amp;" onmouseover="over(2)" onmouseout="out(2)" onclick="clic(2)"><img border="0" src="/images/headers_a6/menu_02.gif" name="educators" alt="Educators" width="65"></a><a href="/cgi-bin/servicecenters.pl?/html/serv_center_media.htm&amp;&amp;&amp;SME&amp;" onmouseover="over(3)" onmouseout="out(3)" onclick="clic(3)"><img border="0" src="/images/headers_a6/menu_03.gif" name="media" alt="Media" width="45"></a><a href="/cgi-bin/companies.pl?/html/companies_hp.htm&amp;&amp;&amp;SME&amp;" onmouseover="over(4)" onmouseout="out(4)" onclick="clic(4)"><img border="0" src="/images/headers_a6/menu_04.gif" name="employers" alt="Employers" width="68"></a><a href="/cgi-bin/getgmnpage.pl?/html/advertisers_sellers.htm&amp;&amp;&amp;SME&amp;" onmouseover="over(5)" onmouseout="out(5)" onclick="clic(5)"><img border="0" src="/images/headers_a6/menu_05.gif" name="advertiser" alt="Sellers &amp; Advertisers" width="73"></a><a href="/cgi-bin/servicecenters.pl?/html/serv_center_volun.htm&amp;&amp;&amp;SME&amp;" onmouseover="over(6)" onmouseout="out(6)" onclick="clic(6)"><img border="0" src="/images/headers_a6/menu_06.gif" name="volunteer" alt="Volunteer Leaders" width="64"></a><a href="/cgi-bin/servicecenters.pl?/html/serv_center_auth.htm&amp;&amp;&amp;SME" onmouseover="over(7)" onmouseout="out(7)" onclick="clic(7)"><img border="0" src="/images/headers_a6/menu_07.gif" name="author" alt="Authors &amp; Speakers" width="60"></a></td>
+</tr>
+<!-- Tabs End -->
 
-<!-- # Space Between Navigation & Content # -->
-<td width="1"><img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="5"></td>
-<td width="9"><img border="0" src="/images/misc_g5/spacer5.gif" width="9" height="5"></td>
+<tr>
+<td colspan="4" bgcolor="#336699" align="left" valign="top">
+<!-- DHTML Menu Builder Loader Code START -->
+<img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="1" name="MyRefImage"><div id="DMBRI" style="position:absolute;">
+<img src="/menus/images/dmb_i.gif" name="DMBImgFiles" width="1" height="1" border="0" alt="">
+<img src="/menus/dmb_m.gif" name="DMBJSCode" width="1" height="1" border="0" alt=""></div>
+<script language="JavaScript" type="text/javascript">
+var rimPath=null;var rjsPath=null;
+var rPath2Root=null;
+function InitRelCode(){
+var iImg;
+var jImg;
+var tObj;
+if(!document.layers){
+iImg=document.images['DMBImgFiles'];
+jImg=document.images['DMBJSCode'];
+tObj=jImg;}else{tObj=document.layers['DMBRI'];
+if(tObj){iImg=tObj.document.images['DMBImgFiles'];
+jImg=tObj.document.images['DMBJSCode'];
+}}
+if(!tObj){
+window.setTimeout("InitRelCode()",700);
+return false;
+}
+rimPath=_gp(iImg.src);
+rjsPath=_gp(jImg.src);
+rPath2Root=rjsPath+"../";
+return true;
+}
+function _purl(u){
+return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");
+}
+function _fip(img){
+if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];
+return img.src;
+}
+function _gp(p){
+return p.substr(0,p.lastIndexOf("/")+1);
+}
+function xrep(s,f,n){if(s) s=s.split(f).join(n);
+return s;
+}
+InitRelCode();
+</script>
+<script language="JavaScript" type="text/javascript">
+function LoadMenus()
+{ 
+  if(!rjsPath)
+  {
+    window.setTimeout("LoadMenus()", 10);
+    return false;
+  }
+  document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'menu.js"><\/script>');
+  return true;
+}
+LoadMenus();
+</script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/menus/menu.js"></script>
+<!-- DHTML Menu Builder Loader Code END -->
+</td>
 
+<td bgcolor="#336699" align="right" valign="top"><img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="25"></td>
+</tr>
+
+</tbody></table>
+</center></div>
+<!-- ##### Header table ENDS ##### -->
+<!-- ##### Main table STARTS ##### -->
+<center>
+<table border="0" width="760" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+<!-- # Banner Ad Cell STARTS # -->
+<tbody><tr>
+<th width="760" align="center" valign="TOP"><img border="0" src="/images/misc_g5/spacer5.gif" width="760" height="1"></th>
+</tr>
+<!--<tr>
+<th width="760" align="center" valign="TOP"><center></center></th>
+</tr> -->
+<tr>
+ <th width="760" align="center" valign="TOP"><img border="0" src="/images/misc_g5/spacer5.gif" width="760" height="1"></th> 
+</tr>
+</tbody></table>
+
+<table width="760" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+<tbody><tr valign="top">
 <!-- # Content cell STARTS # -->
-<td width="460" valign="top">
+<td width="520" valign="TOP">
 <!-- ##### Start inserting content here ##### -->
 <!-- ######################################## -->
-
-
 <title>Web Site Privacy Statement</title>
 
 <font face="Arial" size="3">
@@ -358,123 +281,223 @@ function getOPTION(s)
 
 <!-- ####################################### -->
 <!-- ##### Stop inserting content here ##### -->
-<br><br>
-
-</p></td>
-<!-- # Content cell ENDS # -->
-
-<!-- # Gutter, rule, gutter STARTS # -->
-<td width="9"><img border="0" src="/images/misc_g5/spacer5.gif" width="9" height="5"></td>
-<td width="1" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="5"></td>
-<td width="5"><img border="0" src="/images/misc_g5/spacer5.gif" width="5" height="5"></td>
-<!-- # Gutter, rule, gutter ENDS # -->
-
-
-<!-- ####################################### -->
-<!-- ##### Banner ad (125) cell BEGINS ##### -->
-<td width="125" valign="top">
-<!-- # Join callout box START # -->
-<center>
-<table border="0" width="125" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="125" colspan="5">
-<img border="0" src="/images/calloutboxes_g5/join_box_top.gif" width="125" height="18"></td>
-</tr>
-<tr><td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="115" bgcolor="#CCCC99"><p align="center"><img border="0" src="/images/misc_g5/spacer5.gif" width="115" height="3"><br>
-<font face="arial" size="1" color="#000066">Join SME today and discover a world of career-enhancing products and services.</font><img border="0" src="/images/misc_g5/spacer5.gif" width="115" height="5"></p></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td></tr>
-<tr>
-<td width="125" colspan="5"><a href="/cgi-bin/membhtml.pl?/memb/memb-app.html&amp;&amp;&amp;SME&amp;"><img src="/images/calloutboxes_g5/join_box_bottom.gif" width="125" height="20" border="0"></a></td>
-</tr>
-</tbody></table>
-</center>
-<!-- # Join callout box ENDS # -->
-
-<!-- # Horizontal spacer # -->
-<img border="0" src="/images/misc_g5/spacer5.gif" width="125" height="5"><br>
-
-<!-- # Login callout box START # -->
-<center>
-<table border="0" width="125" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="125" colspan="5">
-<img border="0" src="/images/calloutboxes_g5/login_box_top.gif" width="125" height="18"></td>
-</tr>
-<tr><td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<form method="POST" name="login" action="/cgi-bin/check_membership"></form><td width="115" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="115" height="5"><br>
-<center><font face="arial" size="1" color="#000066"><input type="text" name="lname" value="Last Name" size="11" style="font-style: normal; font-family: arial; font-weight: normal; font-size:10px" onclick="javascript:document.login.lname.value=''"><br>
-<input type="text" name="membnum" value="Member ID" size="11" style="font-style: normal; font-family: arial; font-weight: normal; font-size:10px" onclick="javascript:document.login.membnum.value=''"><br>
-<a href="/cgi-bin/getgmnpage.pl?/html/forgot_id.htm&amp;&amp;&amp;SME&amp;">Forgot Your ID?</a></font><img border="0" src="/images/misc_g5/spacer5.gif" width="115" height="5"></center></td>
-<td width="3" bgcolor="#CCCC99"><img border="0" src="/images/misc_g5/spacer5.gif" width="3" height="4"></td>
-<td width="2" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="2" height="4"></td></tr>
-<tr>
-<td width="125" colspan="5"><input type="hidden" name="form" value="calloutbox"><input type="image" src="/images/calloutboxes_g5/login_box_bottom.gif" width="125" height="20" border="0" name="memlogin"></td>
-
-</tr>
-</tbody></table>
-</center>
-<!-- # Login callout box ENDS # -->
-<!-- ## Horizontal blue rule STARTS (111 wide) ## -->
-<hr align="center" noshade="" size="2" width="99" color="#003366"><!-- ## Horizontal blue rule ENDS ## -->
-<center><a href="/cgi-bin/getgmnpage.pl?/html/motorola_training.htm&amp;&amp;&amp;SME&amp;"><img border="0" src="/images/side_banners/motorola_sigma_ban125.gif" height="125" width="125"></a></center>
-<!-- ## Horizontal blue rule STARTS (111 wide) ## -->
-<hr align="center" noshade="" size="2" width="99" color="#003366"><!-- ## Horizontal blue rule ENDS ## -->
-<center><a href="/cgi-bin/get-event.pl?D--204-000007-018740--SME-"><img border="0" src="/images/side_banners/autoassembly_125x150ban.gif" height="150" width="125"></a></center>
-<!-- ## Horizontal blue rule STARTS (111 wide) ## -->
-<hr align="center" noshade="" size="2" width="99" color="#003366"><!-- ## Horizontal blue rule ENDS ## -->
-<table width="125" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td> 
-      <p></p><center><a href="/exposales"><img src="/images/side_banners/marcom_logo.gif" width="59" height="58" border="0"></a></center>
-      <font size="2" face="Arial, Helvetica, sans-serif"><b><a href="/exposales">More business. More customers. We deliver</a></b></font><br>
-<font face="Arial, Helvetica, sans-serif" size="1">SME-produced manufacturing expositions connect you with the highest quality buying audiences in the industry. Exhibitors connect with buyers from the largest OEMs to the smallest job shops. We bring the audience, all you have to do is exhibit to meet these potential customers.<br><br>
-Contact us today.<br>
-<a href="mailto:exposales@sme.org">exposales@sme.org</a></font><p></p>
-    </td>
-  </tr>
-</tbody></table>
-
 <br>
+<!-- # Blank Image to force page size to 520px # -->
+<img border="0" src="/images/misc_g5/spacer5.gif" width="520" height="1">
+</p></td>
+<!-- -- ##### Content Cell Ends ##### ---->
+
+<!-- ##### Gutter Begins ##### -->
+<td bgcolor="#ffffff" width="4"><img border="0" src="/images/misc_g5/spacer5.gif" width="4" height="1"></td>
+<!-- ##### Gutter Ends ##### -->
+
+<!-- # Right Column Starts Here # -->
+<td class="noprint" width="235" bgcolor="#eeeeee">
+
+<table width="235" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+
+<!-- ##### Join, Contact Us, and My Cart Buttons start here ##### -->
+<table width="235" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr>
+                    <td><a href="/join"><img src="/images/headers_a6/rct_joinsme.gif" alt="Join SME" width="77" border="0"></a><a href="/cgi-bin/abouthtml.pl?/html/contactus.htm"><img src="/images/headers_a6/rct_contact.gif" alt="Contact" width="89" border="0"></a><a href="/cart/view-cart.do"><img src="/images/headers_a6/rct_mycart.gif" alt="My Cart" width="69" border="0"></a></td>
+                </tr>
+            </tbody></table>
+<!-- ##### Join, Contact Us, and My Cart Buttons end here ##### -->
 </td>
-<!-- ##### Banner ad (125) cell ENDS ##### -->
-<!-- ##################################### -->
 
+<!-- ##### Search Box Starts here ##### -->
+</tr><tr>
+  <td width="235">
 
-<!-- # Gutter and Vertical rule STARTS # -->
-<td width="5"><img border="0" src="/images/misc_g5/spacer5.gif" width="5" height="5"></td>
-<td width="1" bgcolor="#000066"><img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="5"></td>
+<table cellpadding="5" cellspacing="0" border="0">
+
+<tbody><tr>
+     <td align="center" width="235" background="/images/headers_a6/searchback.gif">
+<img src="/images/misc_v1/spacer5.gif" height="10"><br>
+<form name="search" method="POST" action="/search/jsp/SearchResultController">
+            <!-- #Keyword Search -->
+            <select name="cat_type" size="1" style="font-style: normal; font-family: arial; font-weight: normal; font-size:10px">
+            <option value="ALL">Search Entire Site by Keyword</option>
+            <option value="BK">Books</option>
+            <option value="CP">Buyers Guide Company Profile</option>
+            <option value="CD">CDs</option>
+            <option value="EF">Education Foundation</option>
+            <option value="FF">Forming &amp; Fabricating Articles</option>
+            <option value="ND">Industry Insights</option>
+            <option value="ME">Manufacturing Engineering Articles</option>
+            <option value="PR">SME News Release</option>
+            <option value="TEC">Technical Papers</option>
+            <option value="VT">Videos</option>
+            </select>
+            <br>
+
+            <img src="/images/misc_v1/spacer5.gif" height="5"><br>
+
+               <table cellpadding="0" cellspacing="0" border="0"> 
+                 <tbody><tr>
+                   <td><input type="text" name="keyword" value="Enter item # or keyword" size="23" style="font-style: normal; font-family: arial; font-weight: normal; font-size:10px" onclick="javascript:document.search.keyword.value=''"></td>
+
+<td width="9"></td>
+
+<td><input type="image" src="/images/headers_a6/searchbutton.gif" border="0" name="search" align="middle"></td>
 </tr>
+</tbody></table>
+
+     </form></td>
+       </tr>
+
+</tbody></table>
+<!-- ##### Search box ends ##### -->
+</td>
+</tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td><img src="/images/headers_a6/searchbottom.gif"></td>
+</tr>
+</tbody></table>
+
+<img border="0" src="/images/misc_g5/spacer5.gif" width="1" height="5">
+
+<center>
+<!-- # Search Ends Here # -->
+<!-- # Navigation Starts -->
+
+
+
+
+<!-- #Navigation End -->
+
+<!-- # Side Banner/Images Start Here # -->
+<!-- default.htm -->
+<table border="1" width="202" cellpadding="0" cellspacing="0" bgcolor="#ffffff" bordercolor="#000066">
+<tbody><tr>
+<td align="center" width="202">
+
+<table border="0" width="194" cellpadding="4" cellspacing="0" bgcolor="#ffffff">
+<tbody><tr>
+<td>
+<h1>Join SME Today</h1>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<form action="/cart/add-mem-item.do" method="POST"> 
+<input type="hidden" name="prodCode" value="MH03REG1">
+<input type="hidden" name="memClassCode" value="0">
+<input type="hidden" name="prodDept" value="MEM">
+<input type="hidden" name="renewalFlag" value="N">
+<input type="hidden" name="howJoined" value="">
+
+
+<table border="0" width="192" cellpadding="1" cellspacing="0">
+<tbody><tr>
+<td width="15"></td>
+<td width="162"><font face="arial, verdana" size="2">
+<input type="radio" name="rateType" value="1">1 year - $125.00</font></td>
+<td width="15"></td>
+</tr>
+
+<tr>
+<td width="15"></td>
+<td width="162"><font face="arial, verdana" size="2">
+<input type="radio" name="rateType" value="2">2 years - $225.00</font></td>
+<td width="15">
+</td></tr>
+
+<tr>
+<td width="15"></td>
+<td width="162"><font face="Arial, Verdana" size="2">
+<input type="radio" name="rateType" value="7" checked="">3 years - $318.75</font></td>
+<td width="15">
+</td></tr>
+
+<tr>
+<td colspan="3"><img src="/images/misc_v1/spacer5.gif" height="4"></td>
+</tr>
+
+<tr>
+<td width="15"></td>
+<td width="162"><input type="image" src="/images/add_to_cart.gif" name="join"></td>
+<td width="15"></td>
+</tr> 
+
+<tr>
+<td height="5" colspan="3"><img src="/images/misc_g5/spacer5.gif" height="5"></td>
+</tr>
+
+<tr>
+<td width="15"></td>
+<td width="162"><font face="Arial, Verdana" size="2">
+<img src="/images/misc_v1/spacer5.gif" height="5"><br>
+Or <a href="/downloads/memb/SRA_app.pdf" target="new">download the application</a> (PDF format)<p></p>
+
+<p>Want more information on <a href="/cgi-bin/membhtml.pl?/html/serv_center_memb.htm&amp;&amp;&amp;SME&amp;">SME Membership</a> first?</p>
+
+<p></p><h3>Student Memberships</h3>
+Find out about our special <a href="/cart/memberstudentbenefits.jsp">student pricing</a>.<p></p>
+
+<p></p><h3>Reciprocal Memberships</h3>
+<a href="/cart/show-reciprocal-item.do">We offer discounts</a> for members of AME and others.</font></td>
+
+<td width="15">
+</td></tr><tr>
+</tr></tbody></table>
+                
+</form>
+</td>
+</tr>
+
+<tr>
+<td><img src="/images/misc_g5/spacer5.gif" width="190" height="1"></td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table><p>
+<!-- default.htm -->
+
+<!-- # Side Banner/Images Ends Here # -->
+<img border="0" src="/images/misc_g5/spacer5.gif" width="235" height="20">
+
+</p></center>
+
+</td></tr>
+<!--</table>-->
 <!-- # Gutter and Vertical rule ENDS # -->
 
 
 <!-- ##### Footer (extends to end of page) ##### -->
+<!--<table border=0 cellpading=2 cellspacing=0 width=760>-->
 <tr>
-<td width="761" colspan="12" bgcolor="#000066">
+<th colspan="7" background="/images/bevel.gif">
 <p align="center">
 <img border="0" src="/images/misc_g5/spacer5.gif" width="760" height="2"><br>
 <font face="Arial" size="1" color="#FFFFFF">Society of Manufacturing Engineers :: One SME Drive :: P.O. Box 930 :: Dearborn, Michigan 48121 USA<br>
-Resource Center: (800) 733-4763 :: Phone: (313) 271-1500 :: Fax: (313) 425-3400</font><br>
+Resource Center: (800) 733-4763 :: Phone: (313) 425-3000 :: Fax: (313) 425-3400</font><br>
 <img border="0" src="/images/misc_g5/spacer5.gif" width="760" height="2"><br>
-</p></td>
+</p></th>
 </tr>
 <!-- # -->
 <tr>
-<td width="761" colspan="12" bgcolor="#CC9900">
+<th colspan="7" bgcolor="#eeeeee">
 <p align="center">
-<img border="0" src="/images/misc_g5/spacer5.gif" width="760" height="2"><br>
-<font face="Arial" size="1">Copyright © 2003 Society of Manufacturing Engineers<br>
+<img border="0" src="/images/misc_g5/spacer5.gif" width="761" height="2"><br>
+<font face="Arial" size="1">Copyright © 2006 Society of Manufacturing Engineers<br>
 <a href="mailto:webmaster@sme.org">E-mail the Webmaster</a> | <a href="/cgi-bin/abouthtml.pl?/html/privacy_statement.htm">Privacy Statement</a> | <a href="/cgi-bin/abouthtml.pl?/html/contactus.htm">Contact Us</a><br>
-<img border="0" src="/images/misc_g5/spacer5.gif" width="760" height="2"><br>
-</font></p></td>
+<img border="0" src="/images/misc_g5/spacer5.gif" width="761" height="2"><br>
+</font></p></th>
 </tr>
 <!-- ##### Main table ENDS ##### -->
 </tbody></table>
 </center>
-
+<font face="Arial" size="1" color="#ffffff">PageName: /html/privacy_statement.htm</font>
 
 
 </body></html>
