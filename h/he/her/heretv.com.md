@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heretv.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005254id_/http%3A//heretv.com/APrivacyPage.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heretv.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210115504id_/http%3A//www.heretv.com/APrivacyPage.php) for the most accurate reproduction.*
 
 # Privacy
 
