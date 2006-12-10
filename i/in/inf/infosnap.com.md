@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosnap.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504092433id_/http%3A//www.infosnap.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosnap.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210060730id_/http%3A//www.infosnap.com/content/privacy.asp) for the most accurate reproduction.*
 
 # infosnap - School Data in a snap
 
@@ -18,6 +18,6 @@ Maintaining your privacy is a major focus of infosnap. As new technologies and m
 
 In the event we make changes to this privacy policy, they will be posted here before they go into effect. 
 
-Note: We do not save "cookies" to your hard drive.
+We do not save cookies to your computer unless it is necessary to perform an action requested by you, such as storing a username for future use. Should you wish to remove cookies from your computer, most modern browsers allow for easy deletion from your hard drive. For further information, consult your browser’s “help” file.
 
 Questions regarding this Privacy Policy can be directed to [**customerservice@infosnap.com**](mailto:customerservice@infosnap.com). 
