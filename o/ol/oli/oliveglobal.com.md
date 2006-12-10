@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliveglobal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035932id_/http%3A//www.oliveglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliveglobal.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210222556id_/http%3A//www.oliveglobal.com/privacy.html) for the most accurate reproduction.*
 
 # Olive E-Business New Delhi, India: E-Commerce Solutions Strategy And Implementation, Web Site (Website) Design And Development, Hosting, Customized Internet Applications
 
