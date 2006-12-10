@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the pricespider.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619100440id_/http%3A//pricespider.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespider.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210111706id_/http%3A//pricespider.com/privacy.aspx) for the most accurate reproduction.*
 
 # PriceSpider :: Privacy & Security
 
-|   
----  
-|   
----  
-| **Privacy & Security**|   
----|---  
-|  **PRICESPIDER PRIVACY POLICY**  
+| **PRICESPIDER PRIVACY POLICY**  
 ---  
 Updated: July 11, 2005  
  **INTRODUCTION**  
