@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the phpfreaks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203435id_/http%3A//www.phpfreaks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfreaks.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210011031id_/http%3A//www.phpfreaks.com/privacy.php) for the most accurate reproduction.*
 
 # PHP Help: Privacy Policy
 
 | 
+
+| 
+
+## Welcome to PHP Freaks!
+
+  
+
+
+### Please Visit Our Sponsors:
+
+Sponsorship provides financial support for our community.
+
+* * *
+
+Looking for the official PHP website?   
+[](http://www.php.net/)
+
+|   
+---|---  
+  
+
+
+* * *
 
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
@@ -16,13 +39,6 @@ If you do nothing during your visit but browse through the website, read pages, 
 If you choose to provide us with personal information -- as in an e-mail, or by filling out a form with your personal information and submitting it to us through our website -- we use that information to respond to your message and to help us get you the information you have requested. Any information submitted in these fashions is considered suitable for public consumption, and will occasionally be posted to various locations on phpfreaks.com.
 
 phpfreaks.com will only collect enough information about yourself in a profile to assist in recognizing you during subsequent returns to our website. We will not provide this information to any other companies or persons for telemarketing purposes. We will not visibly display your email address on our website. This is to prevent unwanted SPAM mail to your personal email address.
-
-| 
-
-* * *
-
-  
-
 
 * * *
 
