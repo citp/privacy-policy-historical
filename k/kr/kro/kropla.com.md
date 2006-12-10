@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615082218id_/http%3A//www.kropla.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210050842id_/http%3A//kropla.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
