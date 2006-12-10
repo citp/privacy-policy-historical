@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethostream.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616115735id_/http%3A//ethostream.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethostream.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210171405id_/http%3A//www.ethostream.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to EthoStream
 
@@ -23,8 +23,8 @@ Contact Information
 If you have any questions about this privacy statement, the practices of our company, or your dealings with this Web site, you can contact: 
 
 **EthoStream LLC**  
-10201 Innovation Dr  
-Suite 350  
+10200 Innovation Dr  
+Suite 300  
 Milwaukee, WI 53226  
 USA  
 Toll-Free: 877.536.2984  
