@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627054445id_/http%3A//www.cypgolf.com/cyp/cyp.asp%3FHID%3D234%26ACT%3D2%26INO%3D4530) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210095939id_/http%3A//www.cypgolf.com/cyp/cyp.asp%3FHID%3D234%26ACT%3D2%26INO%3D4530) for the most accurate reproduction.*
 
 # Privacy Policy - Cypress Golf Solutions
 
