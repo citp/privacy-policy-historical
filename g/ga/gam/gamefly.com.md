@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617103604id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210191102id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
-# Video Game Rentals: Rent or Buy PS2, Xbox, Xbox 360, GameCube, GBA, DS, PSP Games
+# Video Game Rentals: Rent or Buy PS3, PS2, PSP, Xbox 360, Xbox, GameCube, DS, Wii, GBA Games
 
   
 GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. 
@@ -29,7 +29,7 @@ The website you are currently visiting is operated by GameFly located in Los Ang
 
 In the future, if we wish to include additional websites under this Privacy Policy, we will take reasonable steps to list them above and ensure that they provide a link to this Privacy Policy. 
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the GameFly Website (as listed above), and does 
+Please note that this Privacy Policy applies only to information submitted and collected online through the GameFly Website (as listed above), whether maintained by GameFly or one of our vendors, and does 
 
 _not_ apply to information that may be collected by GameFly offline. In addition, this Privacy Policy does _not_ extend to websites maintained by other companies or organizations to which we link or which link to us. Because we cannot guarantee that the privacy policies of such sites meet our high standards and the requirements of the ESRB Privacy Online Program, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site. 
 
@@ -39,8 +39,8 @@ _Please note that by using our Website, you signify your assent to GameFly's Onl
 
 In order to give you the best experience on our Website, GameFly may collect information about you. Typically, we may ask you to submit personal and/or demographic information if you decide to: 
 
-  * sign up for a GameFly account (i.e., purchase a rental subscription plan); 
-  * use our Tell a Friend feature; and/or, 
+  * sign up for a GameFly account (i.e., purchase a membership plan); 
+  * use our GameFly Referrals feature; and/or, 
   * send us a message using our “Contact Us” form. 
 
 The types of information requested for each feature above and the way the information is used are detailed by category below. Under all circumstances, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. _GameFly Account Registration_
@@ -49,15 +49,19 @@ To create a GameFly account, we ask you for certain personally identifying infor
 
 Once collected, we use the information above to: (i) create and give you access to your GameFly account; (ii) process and ship your orders; (iii) communicate with you (via e-mail or phone) about the status of your orders; (iv) answer any requests that you may have; and, (v) send you GameFly newsletters. 
 
-From time to time, we are approached by third party companies and organizations that provide game-related special offers or other offers that we believe may be of interest to you. To extend these offers to you, we may use your GameFly account information to send out promotional mailings on their behalf. If you decide to sign up for a third party offer, then with your consent we may also share your GameFly account information with the third party offer provider. We see this as a value-added service helping you find useful products or services. We strive to limit the notices and communications to those that we think you would appreciate receiving. If you want to be excluded from these promotional mailings, you may opt out by logging in to [Your Account](http://www.gamefly.com/member/account.asp) and updating your E-mail Subscriptions. 
+From time to time, we are approached by third party companies and organizations that provide game-related special offers or other offers that we believe may be of interest to you. To extend these offers to you, we may use your GameFly account information to send out promotional mailings on their behalf. If you decide to sign up for a third party offer, then with your consent we may also share your GameFly account information with the third party offer provider. We see this as a value-added service helping you find useful products or services. We strive to limit the notices and communications to those that we think you would appreciate receiving. If you want to be excluded from these promotional mailings, you may opt out by logging in to [My Account](http://www.gamefly.com/member/account.asp) and updating your E-mail Subscriptions. 
 
 We may use your GameFly account e-mail address to send you service-related announcements that tell you about updates to our Privacy Policy or [Terms of Use](http://www.gamefly.com/help/termsofuse.asp), new areas or features on our Website, changes to our online service or technical support policies, and other related changes. 
 
 We may also use your personal and demographic information in aggregate for our internal marketing and demographic studies, so we can constantly improve the online products and services we provide you and to better meet your needs. 
 
-_Tell a Friend_
+_GameFly Referrals_
 
-When you use the GameFly Referral Program (or "Refer a Friend" feature), we ask you to provide your friends' first names and e-mail addresses and - if you're not a GameFly subscriber - your first name and e-mail address. In return, we provide your friends with a choice of a free GameFly trial subscription or discount pre-paid subscription. This feature helps us spread the word about GameFly. First names and e-mail addresses submitted to us for this program are used only to send this offer and are subsequently deleted. 
+When you use the GameFly Referrals Program (or the "Referral Program"), we may ask you to provide information such as your friends' first names and e-mail addresses and your first name and e-mail address. In return, your friends will be given the opportunity to become a GameFly member with a choice of a free GameFly trial membership or discount pre-paid membership, and will also be given the opportunity to make referrals to their friends. During and after participation in the Referral Program you and/or your friends may receive additional communications from us or our vendors in relation to the Referral Program and you and/or your friends' participation in it. The data collected through the Referral Program is only used for the operation and ongoing maintenance of the Referral Program and will not be distributed to any third parties other than those GameFly vendors that may be helping us in the operation and maintenance of the Referral Program. You and your friends may opt-out of participation in the Referral Program at any time via opt-out links in all communications made to you and your friends through the Referral Program, or by sending an e-mail to [friends_optout@gamefly.com](mailto:friends_optout@gamefly.com). 
+
+_Buy It Alerts_
+
+When you create a Buy It Alert for a particular game, we ask you to submit an e-mail address that you would like the Alert e-mail sent to. E-mail addresses collected through the Buy It Alert request form will only be used for delivery of requested Buy It Alert e-mails, and will be otherwise treated in accordance with this Privacy Policy. 
 
 _Contact Us Form_
 
@@ -71,7 +75,9 @@ If you choose not to submit personal information when requested, you will not be
 
 Like many Web sites, GameFly.com sets “cookies” on your computer. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser, allowing us to automatically identify you when you return to our Website. They help us to match the games you’ve chosen to rent or buy with your individual account, and to personalize the GameFly.com Website for you. Information contained in a cookie may be linked to your personally identifying information. If cookies are not enabled on your Web browser, you will not be able to use the GameFly Website or the GameFly service. The “help” menu on most Web browsers will tell you how to enable cookies. 
 
-Your order and billing history are also tracked automatically from the beginning of your GameFly subscription. This allows you to log in to [Your Account](http://www.gamefly.com/member/account.asp) and see a complete list of games you’ve rented or bought from us. 
+Your order and billing history are also tracked automatically from the beginning of your GameFly membership. This allows you to log in to [My Account](http://www.gamefly.com/member/account.asp) and see a complete list of games you’ve rented or bought from us. 
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Who is collecting my personal information and is it shared with anyone?**
 
@@ -79,9 +85,11 @@ The information that you disclose on the GameFly Websites is collected by GameFl
 
 _Agents and Contractors_
 
-We use outside companies, agents, and contractors (“vendors”) to perform some important GameFly tasks, such as processing credit card transactions and delivering your orders. In the course of doing so, these vendors can come into contact with some of your personally identifying information. However, we only give them access to the information they need in order to actually perform their tasks, and they are bound by the terms of this Privacy Policy-that is, they must treat your personal information the same way we do. 
+We use outside companies, agents, and contractors (“vendors”) to perform some important GameFly tasks, such as processing credit card transactions, delivering your orders, and operating and maintaining our Referral Program. In the course of doing so, these vendors can come into contact with some of your personally identifying information. However, we only give them access to the information they need in order to actually perform their tasks, and they are bound by the terms of this Privacy Policy-that is, they must treat your personal information the same way we do. 
 
 If you decide to join our affiliate program, please note that the information collected on the publisher application form is collected and controlled by Commission Junction (not GameFly) and is therefore subject to their privacy policy. Once collected, Commission Junction may share certain publisher information with us to help facilitate the affiliation or allow us to contact a publisher directly. 
+
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/privacy_policy/). 
 
 _Co-Sponsors and Promotional Partners_
 
@@ -89,27 +97,27 @@ From time to time, we may run contests, special offers, or other events or activ
 
 In some instances, we may have an arrangement with a promotional partner or retailer, whereby they share with us customer information collected on their website. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy. Otherwise, all such information is subject to the privacy policy under which it was collected. 
 
-_Legal and Business Transfers_
+_Disclosure and/or Transfer of Personal Information_
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to local, state, or federal law enforcement or other government officials in connection with an investigation of fraud, theft, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
+We may disclose any and/or all personal information about you in the good faith belief that we are required to do so by law, including but not limited to requests pursuant to subpoena or court order, and/or disclosure to local, state, or federal law enforcement, or other government officials pursuant to investigations they are conducting. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
 
 _Aggregate Information_
 
-We may provide our prospective partners, advertisers, and other third parties with aggregate data about subscribers and visitors to the GameFly Website. However, such data is anonymous, and we do not disclose personally identifying information about specific users. 
+We may provide our prospective partners, advertisers, and other third parties with aggregate data about members and visitors to the GameFly Website. However, such data is anonymous, and we do not disclose personally identifying information about specific users. 
 
 **Can I choose how my personal information is used?**
 
-If you wish to opt out of receiving the GameFly newsletter, special offers, and promotional information, log in to [Your Account](http://www.gamefly.com/member/account.asp) and change your E-mail Subscriptions; or, contact [support@gamefly.com ](https://web.archive.org/help/contactus.asp). In addition, at the bottom of every GameFly newsletter sent to you, we provide you the opportunity to discontinue receiving future communications (i.e., unsubscribe). 
+If you wish to opt out of receiving the GameFly newsletter, special offers, and promotional information, log in to [My Account](http://www.gamefly.com/member/account.asp) and change your E-mail Subscriptions; or, contact [support@gamefly.com ](https://web.archive.org/help/contactus.asp). In addition, at the bottom of every GameFly newsletter sent to you, we provide you the opportunity to discontinue receiving future communications (i.e., unsubscribe). 
 
 **How can I view or update my personal information?**
 
-To view or update your name, e-mail address, password, billing address, credit card number, e-mail subscription preferences, or other account information, log in to [Your Account](http://www.gamefly.com/member/account.asp). There is a link to [Your Account](http://www.gamefly.com/member/account.asp) on most pages of the GameFly Website. Please note that you must log in with your e-mail address and password before you can update any account information. 
+To view or update your name, e-mail address, password, billing address, credit card number, e-mail subscription preferences, or other account information, log in to [My Account](http://www.gamefly.com/member/account.asp). There is a link to [My Account](http://www.gamefly.com/member/account.asp) on most pages of the GameFly Website. Please note that you must log in with your e-mail address and password before you can update any account information. 
 
-If you believe that your account information contains errors, and you cannot correct those errors from the [Your Account](http://www.gamefly.com/member/account.asp) page, please contact [Customer Service](http://www.gamefly.com/help/contactus.asp). 
+If you believe that your account information contains errors, and you cannot correct those errors from the [My Account](http://www.gamefly.com/member/account.asp) page, please contact [Customer Service](http://www.gamefly.com/help/contactus.asp). 
 
 **What is GameFly's policy regarding children?**
 
-Though the GameFly service is fun for all ages, you must be 18 years or older to create a GameFly account and become a subscriber. Parents who wish to create an account on behalf of their children may do so, provided that the parent is the account holder. We encourage parents to use our Parental Controls feature, which will allow you to control which games your child can rent or purchase under your account. 
+Though the GameFly service is fun for all ages, you must be 18 years or older to create a GameFly account and become a member. Parents who wish to create an account on behalf of their children may do so, provided that the parent is the account holder. We encourage parents to use our Parental Controls feature, which will allow you to control which games your child can rent or purchase under your account. 
 
 **What safeguards does GameFly use to protect my personal information?**
 
@@ -123,15 +131,26 @@ You are solely responsible for safeguarding your GameFly e-mail login and passwo
 
 **How do I ask a question or file a complaint? (Contact Information)**
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact [support@gamefly.com](https://web.archive.org/help/contactus.asp) or call 1-888-986-6400. 
+If you have any questions, complaints, or comments **regarding this Privacy Policy or our information collection practices** , please e-mail or contact us at: 
 
-GameFly is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>.
+GameFly  
+Attn.: Privacy Policy Administrator  
+P.O. Box 5326  
+Culver City, CA 90231-5326  
+1-888-986-6400 - Mon-Fri, 9 AM - 1 PM PT  
+[support@gamefly.com](https://web.archive.org/help/contactus.asp) \- 7 days a week
+
+Any personal information you provide to the above e-mail or postal mail addresses will not be used to send you promotional materials, unless you request it. 
+
+If you have any questions, complaints or comments **regarding our GameFly Referrals Program** , please contact [friends_cs@gamefly.com](mailto:friends_cs@gamefly.com). 
+
+GameFly is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/about/contact.jsp>. 
 
 ESRB  
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
 212-759-0700  
-[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
+[privacy@esrb.org](mailto:privacy@esrb.org)
 
-This Privacy Policy was last updated on March 20, 2006. 
+This Privacy Policy was last updated on September 28, 2006. 
