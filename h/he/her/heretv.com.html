@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heretv.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616005254id_/http%3A//heretv.com/APrivacyPage.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heretv.com privacy policy that was archived on 2006-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061210115504id_/http%3A//www.heretv.com/APrivacyPage.php) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -39,6 +39,11 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+  return false;
+}
+
 function openQT(sMov)
 {
 	//alert("pop");
@@ -46,10 +51,25 @@ function openQT(sMov)
 	var newWindow = window.open(sLink, 'popVid', 'toolbar=no,scrollbars=no,width=320,height=290')
 }
 
+function openFlash(assetId) {
+   base = 'http://heretv.a.mms.mavenapps.net/mms/rt/1/site/heretv-pub01-live/current/client/player.html?referralObject=';
+   referrer = '&referrer=trailerlink';
+   MM_openBrWindow(base + assetId + referrer, 'popflash', 'toolbar=no,scrollbars=no,width=740,height=600');
+}
+
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=740,height=600,left = 112,top = 84');");
+}
+
+
+
+
 //-->
 </script>
 </head>
-<body onload="MM_preloadImages('heretv_media/badge2_off.jpg','heretv_media/signup_blue.gif','topnav/nowplaying_on.gif','topnav/news_on.gif','topnav/films_on.gif','topnav/originals_on.gif','topnav/gethere_on.gif','topnav/community_on.gif','images/header_news_on.gif','images/header_films_on.gif','images/header_originals_on.gif','images/submit_on.gif');">
+<body onload="MM_preloadImages('heretv_media/badge2_off.jpg','heretv_media/signup_blue.gif','topnav/nowplaying_on.gif','topnav/news_on.gif','topnav/films_on.gif','topnav/originals_on.gif','topnav/video_on.gif','topnav/community_on.gif','images/header_news_on.gif','images/header_films_on.gif','images/header_originals_on.gif','images/submit_on.gif');">
 <!-- top navigation -->
 <div id="topnav" style="position:absolute; width:691px; height:63px; z-index:2; left: 14px; top: 0px; visibility: visible;"> 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -63,7 +83,7 @@ function openQT(sMov)
       <td width="15"><img src="/topnav/nav_div.gif" width="15" height="63"></td>
       <td width="15"><a href="/AOriginalsPage.php" onmouseover="MM_swapImage('originals','','/topnav/originals_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/topnav/originals_off.gif" name="originals" width="103" height="63" border="0" id="originals"></a></td>
       <td width="15"><img src="/topnav/nav_div.gif" width="15" height="63"></td>
-      <td width="15"><a href="/AGetHerePage.php" onmouseover="MM_swapImage('gethere','','/topnav/gethere_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/topnav/gethere_off.gif" name="gethere" width="66" height="63" border="0" id="gethere"></a></td>
+      <td width="15"><a href="javascript:popUp('http://heretv.a.mms.mavenapps.net/mms/rt/1/site/heretv-pub01-live/current/client/player.html?referrer=heretv_homepage')" onmouseover="MM_swapImage('video','','topnav/video_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="topnav/video_off.gif" name="video" width="68" height="63" border="0" id="video"></a></td>
       <td width="15"><img src="/topnav/nav_div.gif" width="15" height="63"></td>
       <td width="15"><a href="/ACommunityPage.php" onmouseover="MM_swapImage('community','','/topnav/community_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/topnav/community_off.gif" name="community" width="79" height="63" border="0" id="community"></a></td>
    </tr>
@@ -245,7 +265,7 @@ us with any further questions at info@heretv.com.
 <table width="720" border="0" cellpadding="0" cellspacing="0" class="title_blue">   <!--<tr>
       <td><img src="/images/spacer.gif" width="1" height="7" /></td>
    </tr>-->
-<tbody><tr><td height="16" colspan="19" background="/images/footer_blue.gif" class="np_text"><img src="/images/spacer.gif" width="20" height="1"><span class="footer"><a href="/AAboutPage.php" class="normalFooter">ABOUT</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AFaqPage.php" class="normalFooter">FAQ</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AContactPage.php" class="normalFooter">CONTACT</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AJobsPage.php" class="normalFooter">JOBS</a><img src="/images/spacer.gif" width="10" height="1"><a href="/APrivacyPage.php" class="normalFooter">PRIVACY</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AAdvertisePage.php" class="normalFooter">ADVERTISE</a></span>    </td>
+<tbody><tr><td height="16" colspan="19" background="/images/footer_blue.gif" class="np_text"><img src="/images/spacer.gif" width="20" height="1"><span class="footer"><a href="/AAboutPage.php" class="normalFooter">ABOUT</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AFaqPage.php" class="normalFooter">FAQ</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AContactPage.php" class="normalFooter">CONTACT</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AJobsPage.php" class="normalFooter">JOBS</a><img src="/images/spacer.gif" width="10" height="1"><a href="/APrivacyPage.php" class="normalFooter">PRIVACY</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AAdvertisePage.php" class="normalFooter">ADVERTISE</a><img src="/images/spacer.gif" width="10" height="1"><a href="/AGetHerePage.php" class="normalFooter">GET HERE!</a><img src="/images/spacer.gif" width="10" height="1"><a href="/news/podcast.php" class="normalFooter">HERE! PODCAST</a></span>    </td>
   </tr>
 </tbody></table>
 
