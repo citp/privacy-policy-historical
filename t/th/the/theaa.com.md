@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213210818id_/http%3A//theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210150717id_/http%3A//theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
-# The AA: Common - Privacy Policy
+# Common - The AA
 
 Protecting your personal details on theAA.com
 
