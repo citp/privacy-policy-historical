@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013027id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx%3Ffire%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211165348id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # myFICO - Privacy Policy
 
+Effective Date: July 23, 2006
 
-
-
-[Email This](https://web.archive.org/myFico/EmailAFriend.asp?inline=true&subject=myFICO+Privacy+Policy)
-
-Effective Date: November 3, 2005
+[](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
 
 ### Applicability
 
@@ -24,8 +21,6 @@ Information collected online is usually categorized as either _anonymous_ or _pe
 ### Anonymous Information
 
 The Web Sites (other than InsuranceScore.com) may collect _anonymous information_ , which refers to data that cannot be tied back to a specific individual. The information we collect (either directly or through the use of a third-party tracking system) includes:
-
-[](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
 
   * The IP address of the computer making the request (Usually this is not your personal computer, but a computer used by your internet service provider or company network).
   * The URL that is being requested.
@@ -66,6 +61,8 @@ The personally identifiable information that we collect from you on myFICO.com m
   * Driver's license number
   * Credit Card Number
   * Information found in your credit report, including your credit score (if you order a product that includes a credit report and/or score)
+  * Income (if you choose to provide this information in connection with the Loan Center)
+  * Mortgage Information (if you choose to provide this information in connection with the Loan Center)
 
 
 
@@ -79,7 +76,9 @@ If you have joined our privileges program, we may also use this information to p
 
 ### Disclosing Your Information
 
-When you order a Product, we must share some of your personally identifiable information with third parties in order to process the transaction and provide you with the Products you have ordered. For example, we must share your credit card number with our credit card processor in order to process your payment. We must share your name, address, and social security number with one or more of the three major credit reporting agencies or other providers in order to obtain a credit report and credit score to provide to you. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+When you order a Product, we must share some of your personally identifiable information with third parties in order to process the transaction and provide you with the Products you have ordered. For example, we must share your credit card number with our credit card processor in order to process your payment. We must share your name, address, and social security number with one or more of the three major credit reporting agencies or other providers in order to obtain a credit report and credit score to provide to you. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. In general, we will not share your email address with any third party. However, if you specifically authorize us to provide your email address to a third party, we may do so in accordance with your instructions.
+
+If you choose to submit your personal information to us as part of a request to be contacted by a lender or lenders, we will supply your personal information to the lender(s), and one or more lender(s) will use the information you have provided to contact you regarding the specific product which you have requested. Your submission of the questionnaire is your consent for us to disclose your information to any such lender. We do not have control over the use of your personal information once we provide it to the lenders, and we are not responsible for their privacy practices. Your rights with respect to their treatment of your information will be governed by their own policies. 
 
 Consistent with the federal financial privacy laws, we may also disclose some of the nonpublic personal information we collect, as described above, to selected unaffiliated third parties (companies that are not owned or controlled by us) for various business purposes, including joint business efforts for related and unrelated products and services:
 
@@ -110,7 +109,7 @@ Except for the disclosures and uses described above, we restrict access to nonpu
 
 ### Collection of Information by Third-Party Sites and Sponsors
 
-If our Web Sites contain links to other sites, we are not responsible for the privacy practices or content of such other sites.
+If our Web Sites contain links to other sites, we are not responsible for the privacy practices or content of those other sites.
 
 We sometimes may offer content (e.g., promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
@@ -132,7 +131,7 @@ We want you to be fully informed about how we will use your information and prot
 
 ### Contacting Us
 
-If you have questions about this Privacy Policy or about our information practices, you can send us your question by clicking on [Contact Us](https://web.archive.org/myfico/ContactUs.asp) (for myFICO.com or fico.org) or [Contact Us](http://www.insurancescore.com/contact.aspx) (for InsuranceScore.com) or send an email to [help@myfico.com](mailto:help@myfico.com) or send correspondence to:
+If you have questions about this Privacy Policy or about our information practices, you can send us your question by clicking on [Contact Us](https://web.archive.org/myfico/ContactUs.asp) (for myFICO.com or fico.org) or [Contact Us](http://www.insurancescore.com/contact.aspx) (for InsuranceScore.com) or send an email to [myfico@mailca.custhelp.com](mailto:myfico@mailca.custhelp.com) or send correspondence to:
 
 Customer Care Team  
 P.O. Box 8428  
@@ -152,4 +151,4 @@ This Privacy Policy applies to individuals using the Web Sites and the Products 
 
 Fair Isaac Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.myfico.com](http://www.myfico.com/), [www.fico.org](http://www.fico.org/), and [www.InsuranceScore.com](http://www.insurancescore.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our customer care team at [help@myfico.com](mailto:help@myfico.com) or 1-800-319-4433. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our customer care team at [myfico@mailca.custhelp.com](mailto:myfico@mailca.custhelp.com) or 1-800-319-4433. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
