@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513112459id_/http%3A//www.gorkana.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211195832id_/http%3A//www.gorkana.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Gorkana.com - Financial and corporate journalist database
+# Gorkana.com - Financial and Consumer Journalist Database
 
 ### Privacy Policy
 
