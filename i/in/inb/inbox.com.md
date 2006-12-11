@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbox.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034139id_/http%3A//www.inbox.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbox.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211111313id_/http%3A//www.inbox.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Inbox.com - Privacy Policy
 
@@ -43,7 +43,7 @@ Inbox.com may change this Privacy Policy at any time at its sole discretion. Not
 ## Contact Information
 
 INBOX.com, Inc., 3501 Silverside Rd. Ste. 206, Naamans Building, Wilmington, DE 19810-4910,  
-Telephone: 1-877-222-8638, Fax: 1-302-397-0818,  
+Telephone: 1-877-222-8636, Fax: 1-302-397-0818,  
 E-mail: [contact@inbox.com](mailto:contact@inbox.com)
 
 © 2003-2006 INBOX.com, Inc.
