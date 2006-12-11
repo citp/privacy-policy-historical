@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfloridacounty.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327234608id_/http%3A//myfloridacounty.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfloridacounty.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211214852id_/http%3A//www.myfloridacounty.com/privacypolicy) for the most accurate reproduction.*
 
 # MyFloridaCounty.com --> Privacy & Security Policy
 
