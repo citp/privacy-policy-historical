@@ -1,101 +1,148 @@
-> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214407id_/http%3A//www.observer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212002012id_/http%3A//www.observer.com/privacy.asp) for the most accurate reproduction.*
 
 # NYO - Privacy
 
-SECURITY AND PRIVACY POLICY
+New York Observer Privacy Policy
 
-Last Updated: June 30, 2005 
+Last Updated: November 17 2006 
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the observer.com website ("Website") produced and maintained by The New York Observer (collectively "Company" or "we", "us", or "our").   We have established this security and privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.  
+At the New York Observer, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information. Our policy is divided into two sections: Section 1 describes how we collect and use data from users of the New York Observer Web site. Section 2 describes how we collect and use data from subscribers to the print and electronic editions of the New York Observer newspaper.   We also encourage you to review our Terms of Service for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership.  
 
-**By visiting our Website, you are accepting the practices described in our Privacy Policy. Your use of our Website and Services is also subject to our Terms of Service. Please read our[Terms of Service](https://web.archive.org/web/20060615214407id_/http%3A//www.observer.com/terms.asp). If you do not agree to the terms of this Privacy Policy, please do not use the Website and exit immediately. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes. **
+We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
-If you don't find your concern addressed here, feel free to contact us by e-mail at [customerservice@observer.com ](mailto:customerservice@observer.com) or phone us at (212) 407-9347.  
+Customer Service  
+**The** **New York Observer, LLC**  
+915 Broadway, 9th Floor   
+New York, New York 10010  
+(212) 755-2400  
+e-mail: [customerservice@observer.com](mailto:customerservice@observer.com)
 
-**What Information Do We Collect?   **
+Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
-One of the basic principles we've followed in designing this Website is that we ask for only the information we need to provide the service you've requested. As a result, the answer to this question depends almost entirely on how you choose to make use of our Website and our services.   Also, when you subscribe or register to the Website, we will ask you to set preferences so that you can determine how we may or may not use your information. 
+### 1\. The New York Observer Online Privacy Policy
 
-**Personal Information**
+The New York Observer collects data, including personally identifying information, from people who use the New York Observer Web site. This section of our privacy policy explains how we collect and use this data. Please note that the New York Observer subscriber data is maintained separately from data gathered from our online users. This means that users of the New York Observer Web site who also subscribe to the New York Observer newspaper, in either print or electronic form, should read both this section and Section 2 (the New York Observer Subscriber Privacy Policy) in order to have a full understanding of our privacy practices.
 
-You can access our Website and use many of our services without providing any information at all.   In certain circumstances, we may collect certain information that identifies you, such as your name, address or credit card information, as well as other individually-identifiable information that you provide to us or that we collect ("Personal Information").   We may collect this Personal Information from you only during (i) contest or sweepstakes registration, (ii) subscription registration for services that require a subscription; (iii) chat room and blog talk back participation; and (iv) online shopping.   Registration may be required and Personal Information may be collected in certain portions of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards), suggestions, or customer service requests. 
+#### Information we collect and how we use it
 
-**Anonymous Information**
+When you visit the New York Observer Web site, the New York Observer collects several forms of usage data, including:
 
-Through your use of the Website, we may also gather certain information that does not identify you individually ("Anonymous Information").   Generally, this information is collected through "traffic data" and may involve the use of "Cookies," "IP addresses" or other numeric codes used to identify a computer.  
+  * Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
+  * Cookie data. When you visit the New York Observer Web site, the New York Observer or one of our affiliates or third-party partners may send one or more "cookies"—small files containing a string of characters—to your computer to identify you as a unique user. If you have registered with the New York Observer, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
+  * Traffic and advertising data. Other cookies without personally identifying information and data are used to enable the New York Observer to gather and analyze site traffic and usage information, and to allow our advertising partners to manage the advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags; they do not contain personally identifying information, but they may gather information about what sites you have visited and use that information to determine which ads appear when you visit the New York Observer site.
 
-**Newsletters**
 
-In the event that we distribute newsletters or RSS feeds, we collect e-mail addresses and may collect zip codes and other information of all users who subscribe to these publications.   Anyone who wishes to stop receiving this newsletter can, at any time, click on the "Unsubscribe" feature located within each newsletter. 
 
-**Advertiser Giveaways and Contests**
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the New York Observer Web site.
 
-If you sign up to be eligible for a giveaway or contest on our Website sponsored or co-sponsored by someone other than us, your Personal Information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won.   To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest will govern the use of your Personal Information.   Such Personal Information will be collected only if you voluntarily submit it to our sponsors or us. 
+The aggregated information we collect is used for a number of purposes including the following:
 
-**Policies for Children Under 13**
+  1. To improve the content and design of the New York Observer Web site.
+  2. To enable audit bureaus and third party advertisers to verify our claims of traffic to the site.
+  3. To help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns.
+  4. To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest.
 
-We do not knowingly collect any information from persons under the age of 13. If we learn that any persons under the age of 13 have provided information about themselves, the information will be deleted. Our Website is designed for adults. Our Website is not intentionally targeted to children under the age of 13. Children under the age of 13 should not use our Website without obtaining prior parental consent.  
 
-**Co-Branded Services**
 
-We work closely with our partners to offer co-branded services. For privacy policies governing these types of services, please see the separate privacy policies within these sections. To the extent such policies conflict with the terms of this Privacy Policy, the terms of such other policy shall govern. 
+Many portions of the New York Observer site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, the New York Observer does collect personally identifying information regarding our online users, including in the following ways:
 
-**Use of Cookies and Spyware**
+  * When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, signing up for a newsletter or tutorial, or otherwise contacting us.
+  * When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration, that appears on our site.
+  * When you provide information about yourself or your company to the New York Observer in connection with a subscription order, or when you provide information to any New York Observer affiliate, that information may be included in your the New York Observer user record, if one exists.
+  * If you have previously registered with another New York Observer affiliate and you begin to fill out certain forms on the New York Observer Web site, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your the New York Observer user record.
+  * If you have provided information to the New York Observer, from time to time we may enhance that information with other information that we collect from third-party sources.
 
-We may use Cookies to provide some of the services on our Website. "Cookies" are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. "Cookies" make web-surfing easier for you by saving your passwords, purchases, and preferences while you're at our website. The use of "Cookies" is standard in the Internet industry, and many major websites use them to provide useful features for their users. "Cookies" in and of themselves do not personally identify users, although they do identify a user's computer.   Our website never uses "Cookies" to retrieve information from your computer that was not originally sent in a "Cookie."   Except as described in this Privacy Policy, we do not use information transferred through "Cookies" for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. We do not use Cookies" to identify specific individuals, except in such cases as online shopping and contest registration (where a "Cookie" allows you to enter a contest every day without registering again each time). You may occasionally get "Cookies" from our advertisers. We do not control these "Cookies," and these "Cookies" are not subject to our "Cookie" policy.  
 
-We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer. 
 
-**How We Use Your Information?**
+The personal information we collect may be used in a number of ways, including the following:
 
-Except as disclosed in this Security and Privacy Policy, we do not use or disclose information about your individual visits to our Website or your Personal Information collected online to any companies not affiliated with us. We are, however, constantly striving to enhance the quality and selection of the products and services that we offer to you. As a result, we may share information, including Personal Information, about you with retailers, direct marketers, and others that we select in an effort to make you aware of additional products and services that may be of interest to you. If we plan to permit such use of your Personal Information, you may instruct us not to allow such contact.  
+  * To improve the content of the New York Observer site, including by allowing the New York Observer's editors to consult with readers.
+  * To communicate with users about registration and other customer service issues.
+  * To promote products and services of the New York Observer as described in more detail below.
+  * To conduct research surveys on behalf of the New York Observer, and its subsidiaries and affiliates.
 
-**Feedback**
 
-We may use your Personal Information to fulfill prizes, track your compliance with the Website's rules and regulations, or for editorial and feedback purposes. In the event we plan to publicly post any of your Personal Information on a Website (as, for instance, a letter to the editor), you are given the option of preventing such posting. 
 
-**Use of Anonymous Information**
+#### Information sharing
 
-We use Anonymous Information to help us determine how people use parts of the Website and who our readers are so we can improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We also use Anonymous Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the observer.com website. This information is also used to generate advertising rates. We may also use or share Anonymous Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary. 
+The New York Observer may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
 
-**Third-party Agents**
+  * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the New York Observer or our employees or customers.
+  * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
+  * If you submit personal information on a portion of our site that is operated by a third party, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. The New York Observer and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" or “Sponsored by” logo naming the third party, and/or have forms that include links to the third party's privacy policy.
+  * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by Section 2 (the New York Observer Subscriber Privacy Policy).
+  * We may share information with third parties for promotional purposes, as described below.
 
-We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using or altering this data in any way other than to provide the requested services to the Website.  
 
-**Transactional partners**
 
-In some cases we partner with another company to co-promote their services within our Website. In these cases, you are transacting directly with the other party, and the Personal Information you enter on those services is shared both with that transactional partner and us.   On those pages requiring Personal Information, the transactional partner's brand is clearly visible, and their privacy policy is posted.   We encourage you to read it. 
+**User Published Content**
 
-**Emergency Situations**
+The New York Observer makes available to its users tools which allow them to publish content on the New York Observer web site, such as (but not limited to) blogs, comments, forums, and interactive tools.  
 
-We may also disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend our rights or property, the Website or our users, and (c) act under emergency circumstances to protect the personal safety of us, the users of the Website or the public. 
+  * The New York Observer reserves the right to remove or not to publish any individual or individual’s content on the site for any reason without explanation.
+  * We reserve the right to, but do not assume the obligation, to restrict or prohibit the use of our site as we see fit whether for legal or other reasons.
+  * User published Content remains the intellectual property of the individual user, however by posting Content on our Website, you grant Company a non-exclusive, perpetual, irrevocable, royalty-free, worldwide, fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Content throughout the world in any media, whether now known or hereafter discovered.   In addition, you warrant that all so-called "moral rights" in those materials have been waived.
+  * You should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. The New York Observer is not responsible for any information that you provide in the above areas. 
 
-**Links to Other Websites**
 
-This Privacy Policy applies only to The New York Observer website and websites that carry our brand, not to other companies' or organizations' websites to which we link.   These links include links from advertisers, sponsors and partners and are beyond our control.   These other sites may send their own cookies to you, collect your data or solicit your personal information. Always be aware of where you end up.   We are not responsible for the actions and privacy policies of third parties and other websites. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with any other website.  
 
-**Security Policy**
+#### Use of data for promotions, and choices for personal information
 
-The importance of security for all Personal Information associated with you is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers.   Personal Information collected by our websites is stored in secure operating environments that are not available to the public. In many instances, such as in the case of credit card numbers and all on-line purchases, the Personal Information is encrypted before you conduct your transaction. Only those employees who need access to your Personal Information in order to do their jobs are allowed access, each having signed confidentiality agreements. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
+Postal addresses will be used to promote the New York Observer, and may be rented and/or licensed to select outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-While we make reasonable efforts to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.   As a result, we cannot ensure or warrant the security of any information you transmit to us or information we transmit to you from our Website, and you do so at your own risk. 
+When you provide your e-mail address to us, you agree to receive e-mail from the New York Observer, and any affiliate operations including joint endeavors with third parties; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-**Public Areas, Chat Rooms and Newsgroups**
+In addition, you may change your preferences regarding use of personal data by sending an e-mail to [webmaster@Observer.com](mailto:webmaster@pcworld.com).
 
-Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private. 
+If the New York Observer or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
-**Assignment**
+### 2\. The New York Observer Print Subscriber Privacy Policy
 
-We may change its ownership or corporate organization while providing the website and services. As a result, please be aware that we may transfer your information to another company that is affiliated with us or with which we have merged. Any new company will also follow this Privacy Policy. 
+The New York Observer collects personally identifying information and data from people who subscribe to the New York Observer newspaper, whether in print or via an electronic edition. This section of our privacy policy explains how we collect and use subscriber information. Please note that the New York Observer subscriber data is maintained separately from data gathered from our online users. This means that subscribers who also use the New York Observer Web site should read both this section and Section 1 (the New York Observer Online Privacy Policy) in order to have a full understanding of our privacy practices.
 
-**Changes**
+#### Information we collect and how we use it
 
-We are committed to maintaining its position as a premier Website on the Internet. As our Website continues to develop, we may add new services and features to our Website. In the event that these additions affect our Privacy Policy, this document will be updated appropriately.   We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.   We do, however, recommend that you read this Privacy Policy each time you use our website in case you missed our notice of changes to the Privacy Policy. 
+We collect personally identifying information regarding subscribers in three main ways:
 
-**Opt-Out and Correction Procedures**
+  * When you provide it to us, such as by ordering a subscription, entering a contest, signing up for a newsletter or otherwise contacting us.
+  * When you provide information about yourself or your company to the New York Observer Web site or when you register for any other New York Observer products, your information may be included in your the New York Observer subscriber record.
+  * From time to time we may add other information that we collect from third-party sources to enhance the information that you provided to the New York Observer.
 
-You always may opt-out of receiving future e-mail messages and newsletters.   To remove your Personal Information from our database, to not receive future communications, click on "Manage Your Account" on the Website.   We also permit you to correct or update Personal Information that you have previously provided to us. To do so, make the appropriate change in "Manage Your Account" or send e-mail to: [customerservice@observer.com](mailto:customerservice@observer.com) or phone us at (212) 407-9347 indicating the information that you wish to be corrected or updated. 
 
-**Questions**
 
-Questions regarding this statement should be directed to [customerservice@observer.com ](mailto:customerservice@observer.com) or by phone to (212) 407-9347.  
+When you subscribe to the New York Observer, you must provide your postal address (for print subscribers) or e-mail address (for electronic edition subscribers), and you may choose to provide us with additional personal information, such as your telephone or fax number, and with demographic information, all of which becomes part of your subscription record. The data in your subscription record is used in a number of ways, including the following:
+
+  * To deliver your subscription.
+  * To improve the content of the New York Observer, including by allowing the New York Observer's editors to consult with readers.
+  * To notify subscribers about renewals and other customer service issues.
+  * To help our audit bureau verify cumulative circulation and demographic statistics.
+  * To conduct research surveys on behalf of the New York Observer, and its subsidiaries and affiliates.
+
+
+
+#### Information sharing
+
+The New York Observer may share aggregated, nonpersonal information, such as total newspaper circulation or circulation in a particular state or zip code, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. We may also share personal information in any of the following circumstances:
+
+  * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the New York Observer or our employees or customers.
+  * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
+  * We may transfer personal information from your subscriber record to our online user database, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the online user database will be governed by Section 1 (the New York Observer Online Privacy Policy).
+  * We may share information with third parties for promotional purposes, as described below.
+
+
+
+#### Use of data for promotions, and choices for personal information
+
+Postal addresses will be used to promote the New York Observer and its products and services, and may be rented and/or licensed to select outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+
+When you provide your e-mail address to us, you agree to receive promotional e-mail from the New York Observer and any of it other operational entities; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+
+Subscribers who do not want their personal information used for third-party promotions may write and ask to be removed from such promotion lists. Requests should be sent to:
+
+Subscriber Services  
+**The** **New York Observer, LLC**  
+915 Broadway, 9th Floor   
+New York, New York 10010  
+(212) 755-2400
+
+If the New York Observer or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
