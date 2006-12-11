@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niche-content-articles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615082428id_/http%3A//www.niche-content-articles.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niche-content-articles.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211192149id_/http%3A//niche-content-articles.com/PP.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
