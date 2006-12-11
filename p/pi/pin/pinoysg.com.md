@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoysg.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628104928id_/http%3A//www.pinoysg.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoysg.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211220906id_/http%3A//pinoysg.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D2) for the most accurate reproduction.*
 
 # Pinoysg.com - The Filipino Portal in Singapore - Content
 
@@ -38,6 +38,6 @@ If you have any questions about this Policy or our web site, please feel free to
   
 
 
-Published on: 2004-09-15 (385 reads)
+Published on: 2004-09-15 (632 reads)
 
 [ Go Back ]
