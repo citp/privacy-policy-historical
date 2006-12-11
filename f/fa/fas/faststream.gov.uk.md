@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faststream.gov.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210092258id_/http%3A//www.cabinetoffice.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faststream.gov.uk privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211100301id_/http%3A//www.cabinetoffice.gov.uk/privacy.asp) for the most accurate reproduction.*
 
-# Cabinet Office
+# Cabinet Office privacy policy"
 
   * [Terms and conditions](https://web.archive.org/terms_and_conditions.asp "Terms and conditions")
   * Privacy policy
@@ -20,6 +20,8 @@ The site does not use cookies to collect user information.
 
 We collect two kinds of information from visitors to this website: feedback; and email subscription details.
 
+We will record your email address and other information if volunteered to us by you as part of the email subscription service. This shall be treated as proprietary and confidential. It may be used for internal review and to notify you about updates to information on the Cabinet Office website.
+
 #### Feedback
 
 We welcome your feedback. If you contact us asking for information, we may need to contact other government departments to find that information. If your question is technical, we may need to pass it to our technology suppliers.
@@ -38,7 +40,7 @@ We do not pass on your details to any third party or other government department
 
 ### Access to your information and contacting us
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by using the [feedback form](https://web.archive.org/web/20051210092258id_/http%3A//www.cabinetoffice.gov.uk/contact_us/feedback.asp "Feedback form").
+If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by using the [feedback form](https://web.archive.org/web/20061211100301id_/http%3A//www.cabinetoffice.gov.uk/contact_us/feedback.asp "Feedback form").
 
 ### Changes to this privacy policy
 
