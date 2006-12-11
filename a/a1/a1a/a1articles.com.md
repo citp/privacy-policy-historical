@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1articles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005920id_/http%3A//www.a1articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1articles.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211050211id_/http%3A//a1articles.com/privacy.php) for the most accurate reproduction.*
 
 # A1Articles Privacy Policy
 
