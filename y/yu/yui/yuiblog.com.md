@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuiblog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190655id_/http%3A//privacy.yahoo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuiblog.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211114258id_/http%3A//privacy.yahoo.com/privacy/us) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -38,6 +38,7 @@
 
   * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
+  * Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://privacy.yahoo.com/privacy/us/safeharbor/details.html) details page. 
 
 **Information Collection and Use**
 
@@ -120,6 +121,6 @@ Sunnyvale, CA 94089
 
 
   
-Effective Date: March 28, 2002
+Effective Date: November 22, 2006
 
 
