@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latimes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025430id_/http%3A//www.latimes.com/services/site/la-privacy%2C0%2C3125046.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latimes.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211080212id_/http%3A//www.latimes.com/services/site/la-privacy%2C0%2C3125046.story) for the most accurate reproduction.*
 
 # Privacy Policy - Los Angeles Times
 
