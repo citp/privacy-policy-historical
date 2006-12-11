@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033723id_/http%3A//tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211191657id_/http%3A//www.tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
 
-# HSC Privacy Statement
+# Texas A&M Health Science Center Privacy Statement
 
-## The Texas A&M University System  
-Health Science Center  
-Privacy Statement
+## Texas A&M Health Science Center Privacy Statement
 
-State law requires that users of this site be informed that this site collects information about users according to the following criteria.   The Texas A&M University System Health Science Center (HSC) respects your privacy. The HSC Web site does not collect personal information about visitors. In particular, we do not use "cookies" to collect information.
+State law requires that users of this site be informed that this site collects information about users according to the following criteria.   The Texas A&M Health Science Center (HSC) respects your privacy. The HSC Web site does not collect personal information about visitors. In particular, we do not use "cookies" to collect information.
 
 Personal information that you provide via e-mail or through other online means will be used only for purposes necessary to serve your needs, such as responding to your inquiry or your request for general information. This may involve redirecting your inquiry or comment to another person or department better suited to meeting your needs or answering a specific question(s).
 
@@ -17,11 +15,11 @@ This means we may acquire, record and analyze portions of the data that is enter
 Some HSC web pages may collect personal information about visitors and use that information for purposes other than those stated above. Each web page that collects such information will have a separate privacy statement that will tell you how that information is used.
 
 If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the Webmaster via e-mail or through regular mail at:   
-[webmaster@tamushsc.tamu.edu](mailto:webmaster@tamushsc.tamu.edu) or
+[webmaster@tamhsc.edu](mailto:webmaster@tamshsc.edu) or
 
 Attention: Webmaster  
 HSC Communications  
-Texas A&M University System Health Science Center  
+Texas A&M Health Science Center  
 007 Medical Sciences Library Building   
 College Station, TX 77843-1114
 
