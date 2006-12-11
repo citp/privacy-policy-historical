@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618094253id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211160743id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
 
 # Berkleemusic - Privacy Policy
 
@@ -43,6 +43,16 @@ To provide relevant information not found on the Web site and to provide a great
 ## OPT-OUT 
 
 If you do not want Berklee to send you e-mail or regular mail about our products and/or services, you can opt-out at the time we collect the information. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Berklee's e-mailing list, you can do so by using the link included with a Berklee e-mail or by sending an e-mail to service@berkleemusic.com. Berkleemusic will occasionally send email announcing changes or enhancements to our site or services. If you do not wish to receive these announcements, please notify service@berkleemusic that you wish to opt-out of all announcements.
+
+Students enrolled in a course or program with Berkleemusic.com must be opted in to receive all email communications. Most communication between Berkleemusic and it's student body is conducted in this manner. 
+
+The various emails keep students up to date on:  
+*Changes to existing courses and programs  
+*New courses and programs  
+*Special deals and offers from our industry partners only offered to our students!  
+*Other important announcements
+
+In order to ensure all students are kept up to date on the happenings of the online school, we need to be able to communicate through email.
 
 ## REVIEWING AND CHANGING PERSONAL INFORMATION
 
