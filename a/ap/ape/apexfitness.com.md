@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003839id_/http%3A//www.apexfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211030606id_/http%3A//apexfitness.com/html/company/privacy) for the most accurate reproduction.*
 
 # Welcome to Apex Fitness Group
 
@@ -7,7 +7,7 @@ Privacy Policy
 
 Welcome to Apexfitness.com! 
 
-We want Apexfitness.com to be your source for health and fitness information, products, services and tools. We know that your privacy is important to you, so your privacy as you use our site is very important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it. We hope that this privacy policy is straightforward and clear, but if you have any questions about it, please e-mail our [Chief Privacy Officer](mailto:jill@apexfitness.com).
+We want Apexfitness.com to be your source for health and fitness information, products, services and tools. We know that your privacy is important to you, so your privacy as you use our site is very important to us. This privacy policy describes what information we gather from you, how we use that information and what we do to protect it. We hope that this privacy policy is straightforward and clear, but if you have any questions about it, please send an e-mail [here](mailto:dekrieger@24hourfit.com).
 
   
 **Information We Gather**  
@@ -52,7 +52,7 @@ If we change this privacy policy in any substantial way, we will notify you at l
 
 
 **Questions About This Policy**  
-If you have any questions about this privacy policy or other privacy questions about us, please email our [Chief Privacy Officer](mailto:jill@apexfitness.com).  
+If you have any questions about this privacy policy or other privacy questions about us, please send an e-mail [here](mailto:dekrieger@24hourfit.com).  
 
 
 [Home](https://web.archive.org/html) |  [Contact Us](https://web.archive.org/html/company/contact) |  [Search Our Site](https://web.archive.org/html/company/search) | [User Agreement](https://web.archive.org/html/company/user) |  [Privacy Policy](https://web.archive.org/html/company/privacy) |  [Sitemap](https://web.archive.org/html/company/sitemap)
