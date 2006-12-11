@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618180357id_/http%3A//www.goldmansachs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211152817id_/http%3A//www2.goldmansachs.com/privacy_policy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
@@ -148,9 +148,9 @@ Postfach 8022, Zurich
 For Japan:  | 
 
 Hiroki Inaba, Vice President  
-Goldman Sachs (Japan) Ltd  
-Ark Mori Building,  
-12-32 Akasaka 1-chome Minato-ku, Tokyo 107-6005   
+Goldman Sachs Japan Co., Ltd.  
+Roppongi Hills Mori Tower  
+10-1, Roppongi 6-chome Minato-ku, Tokyo 106-6147  
   
 **Additional Information: The United States**
 
@@ -171,4 +171,5 @@ New York, New York 10004 ****
   
 |  |  |  |   
 ---|---|---|---|---  
-| © Copyright 2004, The Goldman Sachs Group, Inc. All rights reserved. |  | [Terms of Use](https://web.archive.org/disclaimer) |  |  | Select a Location |  |  | [Contact Center](https://web.archive.org/contact_center) |  |  | [Office Locator](https://web.archive.org/office_locator) |  |  | [Privacy Policy](https://web.archive.org/privacy_policy) | 
+| © Copyright 2005, The Goldman Sachs Group, Inc. All rights reserved. |  | [Terms of Use](https://web.archive.org/disclaimer) |  |  | Select a Country |  |  | [Contact Center](https://web.archive.org/contact_center) |  |  | [Office Locator](https://web.archive.org/office_locator) |  |  | [Privacy Policy](https://web.archive.org/privacy_policy) |   
+If you have difficulties viewing this Web site or if you require content in a different format, please [contact](mailto:diversityweb@gs.com) us. | 
