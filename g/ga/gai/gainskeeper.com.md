@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619233903id_/http%3A//www.gainskeeper.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211233405id_/http%3A//www.gainskeeper.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,9 +7,9 @@
 
 * * *
 
-This statement discloses the privacy practices of www.gainskeeper.com |  GainsKeeper, is a part of [Wolters Kluwer Financial Services](http://www.wolterskluwerfs.com/securities/gainskeeper.asp), offers a service that is founded on a trusting relationship with its customers. That is why each bit of information processed by GainsKeeper is encrypted, password protected and stored on secure servers. GainsKeeper's host environment provides security personnel that monitor the systems 24 hours a day. Access to our servers requires multiple levels of authentication, including biometrics (hand print scan) procedures. |  [](http://www.wolterskluwerfs.com/securities/gainskeeper.asp)  
+This statement discloses the privacy practices of www.gainskeeper.com |  GainsKeeper, is a part of [Wolters Kluwer Financial Services](http://www.wolterskluwerfs.com/), offers a service that is founded on a trusting relationship with its customers. That is why each bit of information processed by GainsKeeper is encrypted, password protected and stored on secure servers. GainsKeeper's host environment provides security personnel that monitor the systems 24 hours a day. Access to our servers requires multiple levels of authentication, including biometrics (hand print scan) procedures. |   
 ---|---  
-GainsKeeper's uses SSL encryption technology to provide a secure connection between your browser and GainsKeeper's servers. In addition, GainsKeeper is recognized as a "VeriSign Secure Site". VeriSign's rigorous authentication practices undergo an extensive SAS 70 Type II audit by KPMG. (The Statement of Auditing Standard 70, SAS 70, was established by the American Institute of Certified Public Accountants to certify trusted practices.) We also participate in the Council of Better Business Bureaus' BBBOnline Privacy Program, and comply with all the [BBBOnline Privacy standards](http://www.bbbonline.org/cks.asp?id=2032000115935). Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).  |   
+GainsKeeper's uses SSL encryption technology to provide a secure connection between your browser and GainsKeeper's servers. In addition, GainsKeeper is recognized as a "VeriSign Secure Site". VeriSign's rigorous authentication practices undergo an extensive SAS 70 Type II audit by KPMG. (The Statement of Auditing Standard 70, SAS 70, was established by the American Institute of Certified Public Accountants to certify trusted practices.)  |   
   
  Our Commitment to You   
 Our data collection policies were created to make your online experience satisfying and safe. We allow you to determine how much information and what information you provide, and to control how that information is used. Our goal is to provide you with an accurate tax lot accounting service, while allowing you to maintain your privacy.  |   
