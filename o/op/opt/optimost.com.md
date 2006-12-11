@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502033300id_/http%3A//www.optimost.com/privacywebsite.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211190149id_/http%3A//www.optimost.com/privacywebsite.phtml) for the most accurate reproduction.*
 
-# Optimost: Privacy Policy for this Web Site - Use multivariate testing to improve conversion rates on landing pages, splash pages, jump pages, and any other web page
+# Privacy Policy for this Web Site - Use multivariate testing to improve conversion rates on landing pages, splash pages, jump pages, and any other web page - Optimost
 
 Optimost LLC ("Optimost") respects your privacy and we are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit our site. This privacy policy lets you know how we will use and protect that information. The information that we receive depends on what you do during your visit, and what service(s) you request. 
 
