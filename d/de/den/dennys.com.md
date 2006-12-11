@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005116id_/http%3A//www.dennys.com/en/cms/Privacy%2BPolicy/51.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dennys.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211122834id_/http%3A//www.dennys.com/en/cms/Privacy%2BPolicy/51.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,23 +19,20 @@ At Denny's, we are committed to protecting your privacy.  While visiting the De
 
 ·         Request Information about Denny’s
 
-·         Real Estate Site Submission*
-
-*The Real Estate Site Submission page of the Denny’s web site is operated by eSite, Inc.  [eSite](http://www.esite-usa.com/) is an independent market research company that, as authorized by DFO, Inc., franchisor of the Denny’s brand, will screen the real estate information submitted to determine if the proposed restaurant site meets Denny's basic site criteria.
-
 The information that we collect is on a voluntary basis.  You may choose not to provide personal information and you still will be able to visit most of the Denny’s site.  However, you will not be able to complete the activities listed above using the web site without providing us the required personally identifiable information.  Please read on for more detail about our privacy policy.
 
 **What information do we collect? How do we use it?**  
-The personal information that we collect varies depending on the activity you wish to conduct on the web.  We will need more information for job inquiries, franchise inquiries, gift certificate purchase, contest entry and real estate site submission than we require for customer feedback, information request and e-mail subscriptions. 
+The personal information that we collect varies depending on the activity you wish to conduct on the web.  We will need more information for job inquiries, franchise inquiries, gift certificate purchase, contest entry and real estate site submission than we require for customer feedback, information request and e-mail subscriptions.  
 
- When you enter a contest or other promotional feature, we may ask for your name, address and e-mail address so we can administer the contest and notify winners. If you have not opted out of receiving marketing materials, we may also use the information we collect to occasionally notify you about important functionality changes to the website, new Denny's services and special offers we think you'll find valuable. 
+ When you enter a contest or other promotional feature, we may ask for your name, address and e-mail address so we can administer the contest and notify winners. If you have not opted out of receiving marketing materials, we may also use the information we collect to occasionally notify you about important functionality changes to the website, new Denny's services and special offers we think you'll find valuable.  
 
-You can choose not to allow us to use your personal information for direct marketing purposes by indicating your preference at the time of collection or by responding to the promotional e-mail in the manner provided.  In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified). 
+You can choose not to allow us to use your personal information for direct marketing purposes by indicating your preference at the time of collection or by responding to the promotional e-mail in the manner provided.  In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified).  
 
 **Will Denny's disclose the information it collects to outside parties?**  
 Presently, Denny's does not sell, trade or rent your personal information to others. Denny's may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
-The information submitted through the real estate site submission page is shared between eSite, Inc. and DFO, Inc.  Neither company shares your personally identifiable information with others. 
+If you submit comments through the web site, we may use or post your comments (or a portion or variation of your comments), along with your first name, city or town on this web site or other media without payment or compensation to you.    
+
 
 In instances when we receive customer complaints or feedback concerning specific franchised restaurants, we will forward the feedback to the franchised restaurant owner.
 
@@ -47,7 +44,7 @@ Other instances in which we may need to disclose personal information include:
 
             3.         to protect users of our site(s) and our site(s) from fraudulent or abusive use.
 
-We also reserve the right to disclose or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger or any other type of acquisition, disposal or financing of all or any portion of Denny’s, Inc., DFO, Inc. or Denny’s Corporation.
+We also reserve the right to disclose or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger or any other type of acquisition, disposal or financing of all or any portion of Denny’s, Inc., DFO, LLC. or Denny’s Corporation.
 
 **Children Under the Age of 13**
 
@@ -63,3 +60,10 @@ We may provide links to third party sites on our web site.  We are not responsi
 
 **Your Consent**  
 By using our website and submitting the personal information requested, you consent to the collection and use of this information in the manner described in this policy by Denny's. Denny's reserves the right to change its policy in this regard at any time in the future. In the event Denny's does change its policy, a notification of such change will be posted on the website so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+**Spotlight Tags**
+
+Information about web site usage and visitors to our website is shared with a reputable third-party for the purpose of targeting our Internet advertisements in other sites.  To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser’s cookie when a browser visits this site.  The information we collect and share through this technology is not personally identifiable.  For more information about our third-party advertiser or for your choices about not having this anonymous information used, please click here:  <http://www.doubleclick.net/us/corporate/privacy>.
+
+**Transparent GIFs  
+** We use clear GIFs, or pixel tags, provided by our ad serving company to help manage our online advertising.  These clear GIFs allow our ad serving company to recognize a browser’s cookie when a browser visits this site.  This allows us to learn which ads bring users to our website.  The information we collect and share through this technology is not personally identifiable (it dos not include your name, address, telephone number or email address). For more information about our ad serving company or for your choices about not having this anonymous information used, please click here:  <http://www.doubleclick.net/us/corporate/privacy>
