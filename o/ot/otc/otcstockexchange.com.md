@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the otcstockexchange.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003705id_/http%3A//otcstockexchange.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otcstockexchange.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211233248id_/http%3A//otcstockexchange.com/privacy.htm) for the most accurate reproduction.*
 
-# OTCStockexchange.com
+# OTCStockexchange.com - stock picks, stocks, stock, mad money, jim cramer, OTC, Pink Sheets, OTCBB, Over the Counter, penny stocks, pennystocks, thestockster, rocket stock picks, company profiles, corporate profiles, stock profile, public companies, IPOs, IR, PR, investor relations, press release, stock promotion, Nasdaq, AMEX, NYSE, Pink Sheets, TSX, investment, hot stocks, gainers, percentage gainers, dollar gainers, stock quote, stock quotes, IR package, IR services, wallstreetreporter, wallstreetaudio, thesubway.net, vcall, newsletter, stockquotes, good stock, investments, stock pick, stock tip, stock ideas, investment ideas, momentum stock, swing trading, swing trades, penney stocks
 
-  
-OTCStockexchange.com is strongly committed to protecting the privacy of its user community.  
+OTCStockexchange.com is strongly committed to protecting the privacy of its user community.
+
 The intent of this privacy policy is to detail the information OTCStockexchange.com may gather about individuals who visit its Web sites, how that information is used, and OTCStockexchange.com's disclosure practices. Please note that this policy applies only to OTCStockexchange.com's Web sites and not to the Web sites of other companies or organizations to which we provide links.
 
 **SITE USAGE INFORMATION**  
