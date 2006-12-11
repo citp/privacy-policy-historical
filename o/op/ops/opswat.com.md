@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313011246id_/http%3A//opswat.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211044439id_/http%3A//opswat.com/privacy.shtml) for the most accurate reproduction.*
 
 # OPSWAT Privacy Policy
 
@@ -19,7 +19,7 @@ OPSWAT collects visitor information in the following areas:
 
 ### Opting Out
 
-OPSWAT provides visitors who elect to receive electronic or other communications the ability to opt-out of those communications by sending us a notice to unsubscribe. OPSWAT respects your wishes and will delete you from mailing or other types of lists. Please [contact us](https://web.archive.org/web/20060313011246id_/http%3A//opswat.com/contactus.shtml) with any concerns.  
+OPSWAT provides visitors who elect to receive electronic or other communications the ability to opt-out of those communications by sending us a notice to unsubscribe. OPSWAT respects your wishes and will delete you from mailing or other types of lists. Please [contact us](https://web.archive.org/web/20061211044439id_/http%3A//opswat.com/contactus.shtml) with any concerns.  
   
 ---  
 | 
