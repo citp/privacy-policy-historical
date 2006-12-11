@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025943id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211230537id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
 
 # PacktPub.com Privacy Policy
 
@@ -11,7 +11,7 @@ PacktPub.com Privacy Policy
 
 This policy applies to all web sites and email services provided by Packt Publishing. By using these web sites you consent to the general terms and conditions of usage and to the terms of this privacy policy. 
 
-Packt Publishing Ltd  32 Lincoln Road  Olton Birmingham B27 6PA  United Kingdom  T : 44 121 683 1170 F: 44 121 683 1171
+Packt Publishing Ltd  32 Lincoln Road  Olton Birmingham B27 6PA  United Kingdom  T : +44 121 683 1170 F: +44 121 683 1171
 
 [contact@packtpub.com](https://web.archive.org/)
 
