@@ -1,46 +1,55 @@
-> *The following text is extracted and transformed from the secureparking.com.au privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514011712id_/http%3A//www.secureparking.com.au/docs/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureparking.com.au privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211040231id_/http%3A//secureparking.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# WEB SITE / CLUB SECURE PRIVACY POLICY
+# Secure Parking | Privacy Statement
 
-                     WEB SITE / CLUB SECURE PRIVACY POLICY
-Secure Parking Pty Ltd is committed to guaranteeing your privacy.
-YOUR PRIVACY and the SECURITY of any information you provide is of paramount importance to
-Secure Parking. That is why Secure Parking has promised to only use your information in
-accordance with the Secure Parking Privacy Commitment.
-The Secure Parking information management system ensures that control of your identity and
-your information choices remains in your hands.
-The detailed Secure Parking Privacy Commitment is set out below. Please read the Privacy
-Commitment before registering any information on this site.
-OUR SIMPLE COMMITMENT TO YOU
-    •  We will not use your personal or contact information for any purpose without your explicit
-       consent, unless we are compelled to do so by law.
-    •  We are collecting your information because it is the information:
-           1. Secure Parking needs to provide you with the specific information services you
-               specify on the following registration page; and
-           2. Secure Parking needs to provide general information of a demographic nature to
-               Secure Parking. You cannot be personally identified from this demographic
-               information.
-    •  We will only use your personal information for the purpose for which we have collected it.
-    •  The information you enter here is stored by Secure Parking in a secure, state-of-the-
-       industry data-centre. It is never available to anyone, including Secure Parking, as a
-       transferable or extracted data file. However the information stored by Secure Parking may
-       be accessed by Secure Parking and Secure Parking for the purposes set out above.
-    •  We do not use cookies.
-    •  You have free, direct access to all the personal information you have given Secure Parking
-       and the sites you have authorised Secure Parking to provide that information to. You can
-       amend or update your information at any time.
-    •  You may opt out of this and any other Secure Parking information service at any time.
-    •  If you are a first-time Secure Parking user, when you have entered your information you
-       will be sent an email confirming: the information you have supplied; how you use the
-       Secure Parking system to manage your personal information, and the information service
-       you have authorised Secure Parking to supply. You must confirm your details by replying
-       to the email. If you do not reply you will not be entered in to the database.
-    •  If you receive any unsolicited email from a Secure Parking site or have any suggestions,
-       queries, comments or problems at any time please contact Secure Parking at the address
-       below.
-Secure Parking Pty Ltd
-Level 4 181 Miller St
-North Sydney NSW 2060
-Telephone: +61 2 8912 4900
-Fax: +61 2 9929 7870
-service@secureparking.com.au
+## Non-Personal Information
+
+If you visit this web site and read or download materials, such as information concerning our services or strategic alliances, the information we receive is statistical only and will not be used to identify you personally. 
+
+This website makes some use of data that only indirectly identifies users and browsers. In the following circumstances:
+
+    **Computer Information** \- to enable communication between your computer and the server hosting this website, it is necessary that your web browser provides your computer's network address, so that our web server can address its replies back to the correct machine. In addition, the browser type and operating systems which you use may also be recorded. This information will never be used by S&K to personally identify you.
+    **Navigation and Click-Stream Data** \- browsing this website generates a "foot-print" or trail of the pages you have visited, the amount of data transferred and the time and duration of access. This information is recorded against the network address supplied by your web browser. this information will never be used by S&K to personally identify you.
+    **Cookies** \- a cookie is a small text file placed on to your computer when you visit a website. Cookies are used to enhance the online experience - for example, "session cookies" are created at the beginning of the user's search session and discarded at its conclusion. The cookie is not used to collect or store information about the user, only to allocate a temporary identifier to the search session. Without the session identifies, the user might lose the entire search context each time a new page is visited during a session.
+
+## Storage Retention Use and Disclosure 
+
+Apart from enabling our respective computers to communicate with one another, the information referred to above is collected and recorded in logs which are archived for use by our web site manager. The statistics generated by the collection of this information helps us to improve our web site from time to time and to make it more interesting and relevant to browsers. It may also help us determine market preferences for various services we offer. 
+
+In some circumstances the statistics generated from the collection of the above-mentioned information may be used by our marketing department to promote our goods and services or to obtain further research and insight into market preferences and trends. No information collected in the above-mentioned manner will be linked to your name, address or other identifier and S&K may therefore disclose it to third parties to assist it with marketing or its management of this website and its other information technology. 
+
+## Personally Identifiable Information
+
+As a general rule, information that can directly identify an online visitor is collected at this website only when offered by the visitor voluntarily and on an informed basis.
+
+The various invitations to send email contained in the website each contain a statement about the use to which information will be put when received by us.
+
+If you send us an email message we will use your email address and other information you supply to respond to your message or to supply you with the information or service requested.
+
+If we wish to use your personal information to advise you about other S&K services, we will inform you of this and provide you with an opportunity to decline to receive such communications from us.
+
+We will not disclose your personal information to third parties unless:
+
+(a) we have your consent;  
+(b) making the disclosure is related to the primary purpose for which we have collected the information and we deem that you would reasonably have expected us to make the disclosure; or  
+(c) we are required to do so by law, in which case we would inform you unless doing so itself is unlawful or would impede or defeat the purpose of the disclosure.
+
+We never sell your personal information without your express consent.
+
+Any personal information we do collect will be retained only for so long as it is necessary to fulfil the purpose for which it was collected or so long as it may be required by law (for example, taxation laws require the retention of records for certain periods).
+
+## A special Note to Parents and Caregivers
+
+This website is not intentionally designed for or directed at children 18 years of age or under. It is our policy not to knowingly collect or record information about anyone under the age of 18. Children 18 years of age or under visiting this website should ask their parent's or guardian's permission before sending any personal information, such as their names, home addresses or email addresses. We recommend that parents use software or other tools by which they can assure that their children's use of the internet reflect their preferences, requirements and the law.
+
+## Access, Further Information and Complaints
+
+You are entitled to have access to all personal information held by S&K which identifies you. If you would like to exercise your right of access please contact the S&K online privacy officer whose details are set out below. 
+
+If you would like further information or if you wish to make a complaint about the collection or use of information via this website, please contact the S&K online privacy officer at the following address: 
+
+Name: Chris Mooney
+
+Phone No: (02) 8912 4900
+
+Email address: cmooney@secureparking.com.au
