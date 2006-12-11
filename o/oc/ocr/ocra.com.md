@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318121241id_/http%3A//www.ocra.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211131851id_/http%3A//www.ocra.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy & Use of this Website :: OCRA
-
-PRIVACY POLICY   
-Last Updated: 17th November 2005
-
-» Introduction  
-» Application of this Privacy Policy  
-» External Review of this Privacy Policy  
-» Sites covered by this Privacy Policy  
-» Links to Non-OCRA Worldwide Websites  
-» Browsing OCRA Worldwide Websites  
-» How we treat Personal Information  
-» Keeping your Personal Information secure  
-» Access to and accuracy of your Personal Information  
-» Sharing or disclosing Personal Information  
-» Distribution of Personal Information outside the EEA
-
-  
-» Changes to Our Privacy Policy  
-» Contacting Us
+# Privacy Policy and Use of OCRA Website
 
 ### Introduction
 
@@ -36,7 +17,7 @@ OCRA Worldwide provides this Privacy Policy to describe our privacy practices re
   * Visitors to our websites, who interact with our websites in any way (including by the completion of online forms, sending us email or subscription to our email newsletter).
   * Persons who communicate with OCRA Worldwide by any other method (such as by telephone, facsimile or letter)
 
-This Privacy Policy ceases to apply when persons contract with us and become our clients as our terms relating to client privacy and confidentiality are contained in our [Terms of Business](https://web.archive.org/about_ocra/terms.asp). Clients should note that the privacy and confidentiality provisions in our Terms of Business differ from this Privacy Policy. 
+This Privacy Policy ceases to apply when persons contract with us and become our clients as our terms relating to client privacy and confidentiality are contained in our [Terms of Business](https://web.archive.org/about_ocra/terms.asp?LeftFrameName=3&UseReferer=1&referer=overview). Clients should note that the privacy and confidentiality provisions in our Terms of Business differ from this Privacy Policy. 
 
 ### External Review of this Privacy Policy
 
@@ -51,7 +32,7 @@ In order to enhance the protection of your privacy and our compliance with this 
   * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under OCRA Worldwide's control. 
   * How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact OCRA Worldwide by emailing [privacy@ocra.com](mailto:privacy@ocra.com). If you do not receive acknowledgment of your enquiry or your enquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with OCRA Worldwide to resolve your concerns. 
+If you have questions or concerns regarding this Privacy Policy, you should first contact OCRA Worldwide by emailing [privacy@ocra.com](mailto:privacy@ocra.com?cc=control@ocra.com). If you do not receive acknowledgment of your enquiry or your enquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with OCRA Worldwide to resolve your concerns. 
 
 ### Sites Covered by this Privacy Policy
 
@@ -81,7 +62,7 @@ If you visit any OCRA Worldwide Website and do not complete any online forms or 
   
 If you complete an online form or communicate with us by any means, Members of OCRA Worldwide will collect personal data from you, will communicate with you and use this personal data to facilitate supplying services and products. This may mean that personal data is passed to firms and organisations that are not Members of OCRA Worldwide for purposes relating to supplying our services such as shipping services and other third-party service providers acting upon our request to fulfil your requests. The personal data we collect includes information relating to contact information (such as name, address and telephone), identity information (such as passport number, nationality and place of birth) and such other information as may be required to facilitate supplying services and products. 
 
-OCRA Worldwide may utilise personal data to provide reference notes, guidelines, advice and for marketing such other services and products and providing such other information as Members of OCRA Worldwide may from time to time make available. If you do not wish to receive this type of information, you should advise us by contacting [privacy@ocra.com](mailto:privacy@ocra.com)
+OCRA Worldwide may utilise personal data to provide reference notes, guidelines, advice and for marketing such other services and products and providing such other information as Members of OCRA Worldwide may from time to time make available. If you do not wish to receive this type of information, you should advise us by contacting [privacy@ocra.com](mailto:privacy@ocra.com?cc=control@ocra.com)
 
 Our email newsletter is available to users who subscribe to it and instructions relating to terminating its despatch are contained in every email newsletter that is sent out. 
 
@@ -95,8 +76,9 @@ OCRA Worldwide is committed to protecting the information you provide us. To pre
 ### Access to and accuracy of your Personal Information
 
   
-OCRA Worldwide strives to keep your personal data accurate. We have implemented technology, management processes and policies to maintain client data accuracy. We will provide you with access to your information and the opportunity to change your information.   
-The most effective way to obtain information or change any personal information we may collect is to contact [privacy@ocra.com](mailto:privacy@ocra.com). Prior to making changes to personal data or releasing information we will confirm that email requests to [privacy@ocra.com](mailto:privacy@ocra.com) are genuine by comparing the information contained in email requests against our records and seeking confirmation by email to the email address we hold on record or by seeking written instructions. 
+OCRA Worldwide strives to keep your personal data accurate. We have implemented technology, management processes and policies to maintain client data accuracy. We will provide you with access to your information and the opportunity to change your information. 
+
+The most effective way to obtain information or change any personal information we may collect is to contact [privacy@ocra.com](mailto:privacy@ocra.com?cc=control@ocra.com). Prior to making changes to personal data or releasing information we will confirm that email requests to [privacy@ocra.com](mailto:privacy@ocra.com?cc=control@ocra.com) are genuine by comparing the information contained in email requests against our records and seeking confirmation by email to the email address we hold on record or by seeking written instructions. 
 
 ### Sharing or disclosing Personal Information
 
@@ -120,7 +102,7 @@ Prior to changing our Privacy Policy to allow new unrelated uses of your persona
 ### Contacting Us
 
   
-We value your opinions. If you have comments or questions about our privacy policy, please send them to the [privacy@ocra.com](mailto:privacy@ocra.com). 
+We value your opinions. If you have comments or questions about our privacy policy, please send them to the [privacy@ocra.com](mailto:privacy@ocra.com?cc=control@ocra.com). 
 
 OCRA (Isle of Man) Limited  
 Grosvenor Court  
