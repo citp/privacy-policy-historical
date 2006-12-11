@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylocalservices.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617184703id_/http%3A//mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocalservices.co.uk privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211220316id_/http%3A//mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
 
-# About Us: UK Local Services Directory – Plumbers, Painters, Builders, Electricians, Repairs
+# Privacy Policy for Business Online Directory of Local UK Companies, Recommended Business Listings
 
 My Local Services Privacy Policy
 
