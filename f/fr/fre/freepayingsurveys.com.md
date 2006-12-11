@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepayingsurveys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041026id_/http%3A//freepayingsurveys.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepayingsurveys.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212002156id_/http%3A//freepayingsurveys.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to Free Paying Surveys
 
@@ -8,7 +8,7 @@
 
 By visiting this web site you are accepting the practices described in Free Paying Surveys Privacy Policy.
 
-Free Paying Surveys respects your privacy. Please be aware that we appreciate the trust you place in us by providing information on this web site, and our commitment to you is to use this information with both care and sensitivity. The information we collect from visitors to our web site helps us continually improve the products we offer to our valued customers. Types of information collected are outlined as follows: 
+[Free Paying Surveys](http://www.freepayingsurveys.com/) respects your privacy. Please be aware that we appreciate the trust you place in us by providing information on this web site, and our commitment to you is to use this information with both care and sensitivity. The information we collect from visitors to our web site helps us continually improve the products we offer to our valued customers. Types of information collected are outlined as follows: 
 
   * Any information you voluntarily enter on our web site is maintained by Free Paying Surveys to help us improve both the web site and product(s) advertised on the web site. 
 
@@ -21,7 +21,7 @@ Free Paying Surveys periodically sends e-mail offers to its web site visitors on
 
 Information about our customers is an important part of our business.We provide user information to trusted partners in order to enhance the service provided to our Users. We will release account and other personal information when such release is necessary to comply with any state, federal or international laws, or safety of our valued customers. This includes exchanging information with other companies and organizations. 
 
-This Privacy Policy applies to consumers that have signed up on the FreePayingSurveys.com website. We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+This Privacy Policy applies to consumers that have signed up on the [FreePayingSurveys.com](http://www.freepayingsurveys.com/) website. We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
 
 If you have any concern about privacy at Free Paying Surveys web site, please send us an e-mail at support@freepayingsurveys.com, and we will make every effort to address your inquiry in a timely manner.
 
