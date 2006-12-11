@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdietforme.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616004657id_/http%3A//www.bestdietforme.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdietforme.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211233701id_/http%3A//bestdietforme.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # BestDietForMe.com Free Diet Matching Service to Find the best Weight Loss plan.
 
