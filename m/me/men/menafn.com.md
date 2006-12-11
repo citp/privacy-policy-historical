@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040328id_/http%3A//www.menafn.com/mf_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211193316id_/http%3A//menafn.com/mf_privacy.asp) for the most accurate reproduction.*
 
 # MENAFN - Middle East North Africa . Financial Network
 
