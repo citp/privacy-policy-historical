@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614114936id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211205345id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Limoges Jewelry Privacy Policy
 
@@ -16,7 +16,7 @@ Orders placed on our site are encrypted with SSL (Secure Socket Layers) technolo
 
 ## Your Personal Information  
   
-Limoges Jewelry collects information that you volunteer in order to process your order, to inform you of special offers, and so that you may receive superior customer service. **We do not share your email address with anyone outside of Limoges Jewelry** , other than when necessary to fulfill your order.  
+Limoges Jewelry collects information that you volunteer in order to process your order, to inform you of special offers, and so that you may receive superior customer service. **We do not share your email address with anyone outside of Limoges Jewelry** , other than when necessary to fulfill your order.On occasion, we may share other information with very carefully selected partners in order to provide you with outstanding special offers, but we will only do so with your consent.  
   
   
 
