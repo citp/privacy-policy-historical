@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615235500id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211220825id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - G.A.P. Adventures
 
@@ -125,8 +125,8 @@ Upon request in writing, you will be informed of the existence, use and disclosu
 
 Attn: Privacy Officer  
 Altun Group  
-355 Eglinton Ave. East  
-Toronto, Ontario M4P 1M5  
+19 Charlotte Street  
+Toronto, Ontario M5V 2H5  
 Tel: (416) 260 0999  
 E-Mail: [privacyofficer@altun.ca](mailto:privacyofficer@altun.ca "Send an email to our Privacy Officer")
 
