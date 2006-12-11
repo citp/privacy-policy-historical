@@ -1,33 +1,26 @@
-> *The following text is extracted and transformed from the citibank.ae privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616193330id_/http%3A//www.citibank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.ae privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211172618id_/http%3A//www.citibank.com/privacy) for the most accurate reproduction.*
 
 # Citi - Privacy
 
-|  **Citigroup Privacy Promise for Consumers**
+| **Privacy for Consumers at Citigroup**
 
-While information is the cornerstone of our ability to provide superior service, our most important asset is our customers' trust. Keeping customer information secure, and using it only as our customers would want us to, is a top priority for all of us at Citibank as a member of the Citigroup family of companies. Here then, is our promise to our individual customers: 
+Our goal is to maintain your trust and confidence when handling personal information about you.
 
-  1. We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us. 
-  2. We will limit the collection and use of customer information to the minimum we require to deliver superior service to our customers, which includes advising our customers about our products, services and other opportunities, and to administer our business. 
-  3. We will permit only authorized employees, who are trained in the proper handling of customer information, to have access to that information. Employees who violate our Privacy Promise will be subject to our normal disciplinary process. 
-  4. We will not reveal customer information to any external organization unless we have previously informed the customer in disclosures or agreements, been authorized by the customer, or are required by law. 
-  5. We will always maintain control over the confidentiality of our customer information. We may, however, facilitate relevant offers from reputable companies. These companies are not permitted to retain any customer information unless the customer has specifically expressed interest in their products or services. 
-  6. We will tell customers in plain language initially, and at least once annually, how they may remove their names from marketing lists. At any time, customers can contact us to remove their names from such lists. 
-  7. Whenever we hire other organizations to provide support services, we will require them to conform to our policy standards and to allow us to audit them for compliance. 
-  8. For purposes of credit reporting, verification and risk management, we will exchange information about our customers with reputable reference sources and clearinghouse services. 
-  9. We will not use or share - internally or externally - personally identifiable medical information for any purpose other than the underwriting or administration of a customer's policy, claim or account, or as disclosed to the customer when the information is collected, or to which the customer consents. 
-  10. We will attempt to keep customer files complete, up to date, and accurate. We will tell our customers how and where to conveniently access their account information (except when we're prohibited by law), and how to notify us about errors which we will promptly correct. 
+**YOU HAVE CHOICES**    
+As a Citigroup customer, you have the opportunity to make choices about how personal information about you may be shared. As you consider this, we encourage you to make choices that enable us to provide you with quality products and services that help you meet your financial needs and objectives.
 
-We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct our business in a manner that fulfills our promise in the many nations in which we do business. 
+**SECURITY OF PERSONAL INFORMATION**    
+The security of personal information about you is our priority. We protect this information by maintaining physical, electronic, and procedural safeguards that meet or exceed applicable law. We train our employees in the proper handling of personal information. When we use other companies to provide services for us, we require them to protect the confidentiality of personal information they receive. 
 
 **Internet Privacy Policy**
 
 We want you to understand what personally identifiable information ("Information") that is collected through a web site operated by Citibank* ("we" or "us") and how it may later be disclosed. 
 
-You can visit a web site and find out about Citibank products and services and use value-added services that may be available without giving us any Information about yourself. If you must register at a web site to use one of its features or are interested being contacted by Citibank about its products and/or services, you may input Information about yourself at the web site. Where available, you may update your contact Information online. Otherwise, you will need to contact Citibank at the telephone number provide in order to do so. Any Information you provide to us will be handled in accordance with the "Citigroup Privacy Promise for Consumers." 
+You can visit a web site and find out about Citibank products and services and use value-added services that may be available without giving us any Information about yourself. If you must register at a web site to use one of its features or are interested being contacted by Citibank about its products and/or services, you may input Information about yourself at the web site. Where available, you may update your contact Information online. Otherwise, you will need to contact Citibank at the telephone number provide in order to do so. Any Information you provide to us will be handled in accordance with "Privacy for Consumers at Citigroup." 
 
 Non-customers who receive promotional e-mail messages about Citibank products and services may elect to not receive ('opt out' of) further messages. If you opt out from receiving these e-mail messages, we will retain your e-mail address solely for the purposes of honoring your request. 
 
-In order to provide better service, we may use "[cookies](https://web.archive.org/web/20060616193330id_/http://www.citibank.com/privacy/cookie.htm)", which may be set by us or by another company for us. A cookie is a small piece of information that a web site stores on your web browser that can later be retrieved and read only by the same site. We use cookies for a administrative purposes and to enhance your online experience. For example, we may use cookies to track the number of visitors to our site or to enable us present rotating information to you at our site. You can set up your web browser to inform you when cookies are set or to prevent cookies from being set. 
+In order to provide better service, we may use "[cookies](https://web.archive.org/web/20061211172618id_/http://www.citibank.com/privacy/cookie.htm)", which may be set by us or by another company for us. A cookie is a small piece of information that a web site stores on your web browser that can later be retrieved and read only by the same site. We use cookies for a administrative purposes and to enhance your online experience. For example, we may use cookies to track the number of visitors to our site or to enable us present rotating information to you at our site. You can set up your web browser to inform you when cookies are set or to prevent cookies from being set. 
 
 Citibank collects Information about customers through the applications it receives and from other sources. If you are a customer, additional details about the Information we collect and how it may be disclosed is contained in **Our Privacy Notice** , which is provided to you at account opening. 
 
@@ -50,8 +43,8 @@ In response to a California law, effective July 1, 2004, we will automatically t
 
 From time to time, we may change this Internet Privacy Policy. The effective date of this policy, as stated below, indicates the last time this policy was revised or materially changed. Checking the effective date below allows you to determine whether there have been changes since the last time you reviewed the policy. 
 
-Effective Date: This policy was last modified on July 1, 2004
+Effective Date: This policy was last modified on July 1, 2006
 
-* All references to Citibank mean Citibank, N.A., Citibank, F.S.B., Citibank (West), FSB or Citibank Texas, N.A., the bank that maintains your account relationship in the United States. 
+* All references to Citibank mean Citibank, N.A., Citibank, F.S.B., Citibank (West), FSB or Citibank Texas, N.A., the bank that maintains your account relationship in the United States.
 
 | 
