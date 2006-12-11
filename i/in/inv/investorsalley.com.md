@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investorsalley.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231172014id_/http%3A//www.investorsalley.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsalley.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211232558id_/http%3A//www.investorsalley.com/info/privacy.html) for the most accurate reproduction.*
 
-# Investors Alley.com: Legal Disclaimer
+# Investors Alley Corporation: Privacy Policy
 
 Investors Alley Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Investors Alley.com. 
 
@@ -10,7 +10,7 @@ Our site uses cookies to make sure you don't see the same ad repeatedly. We use 
 
 Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
-This site contains links to other sites. Investors Alley.com is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. Investors Alley Corp. is not responsible for the privacy practices or the content of such Web sites. 
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -40,8 +40,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  * You can send email to admin@investorsalley.com 
-  * You can visit the following URL: http://www.investorsalley.com 
+  * You can click on the "Unsubscribe" link at the bottom of every email message sent by Investors Alley Corp. 
+  * You can send email to mail@investorsalley.com 
 
 
 
@@ -49,7 +49,8 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  * email admin@investorsalley.com 
+  * You can click on the "Update Profile" link at the bottom of every email message sent by Investors Alley Corp. 
+  * email mail@investorsalley.com 
 
 
 
@@ -57,18 +58,17 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Brett Klasko   
+Ryan Huff   
+Director of Subscriber Communications   
 Investors Alley Corp.   
-One Greentree Center, Suite 201   
-Marlton, NJ 08053   
-Phone: (856) 988-5552   
-E-mail: bklasko@investorsalley.com 
+1360 Peachtree Street, Suite 1180   
+Atlanta, GA 30309   
+Phone: (404) 541-9000   
+E-mail: mail@investorsalley.com 
 
 * * *
 
-  
-[](http://www.adtrader.com/ads/adlink.asp?SN=643)
+[Home](http://www.investorsalley.com/)   •   [Feedback](http://www.investorsalley.com/info/feedback.html)   •   [Contact IA](http://www.investorsalley.com/info/contact.html)   •   [Advertise](http://www.investorsalley.com/info/advertise.html)   •   [Write for IA](http://www.investorsalley.com/info/contribute.html)
 
-[Home](http://www.investorsalley.com/)   •   Top of Page   •   [Site Map](http://www.investorsalley.com/info/sitemap/)   •   [Feedback](http://www.investorsalley.com/info/feedback/)   •   [Glossary](http://www.investorsalley.com/tools/glossary/)
-
-© [Copyright](http://www.investorsalley.com/legal/copyright.shtml) 1998-99, Investors Alley Corp. All rights reserved.   [Disclaimer](http://www.investorsalley.com/legal/disclaim.shtml)
+© [Copyright](http://www.investorsalley.com/info/copyright.html) 1998-2006, Investors Alley Corp. All rights reserved.  
+See [Disclaimer](http://www.investorsalley.com/info/disclaim.html) and [Privacy Policy](http://www.investorsalley.com/info/privacy.html).
