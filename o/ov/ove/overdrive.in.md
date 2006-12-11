@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the overdrive.in privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619160205id_/http%3A//overdrive.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.in privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211021334id_/http%3A//www.overdrive.in/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy - Overdrive
+# 
 
 We collect your information that is personally identifiable to you, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners, new services and promotions. By accepting the User Agreement you expressly agree to receive this information. 
 
@@ -41,6 +41,3 @@ To the extent that you disclose your information to other parties, whether they 
 To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since "www.overdrive.in" does not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
 
 "www. overdrive.in " uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet.
-
-  
-
