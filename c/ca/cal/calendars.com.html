@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615003653id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2006-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061211110512id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
-<meta name="keywords" content="Fuze Q&amp;A, Fuze QnA, FAQ, Frequently Asked Questions, eService, CRM, eCRM, Help Desk, helpdesk, Self Service, self-service, customer service, customer care, customer support, technical support, Call Center, Knowledge Management, knowledge base, knowledgebase,  RightNow, Right Now, Kana, Servicesoft, Service Soft, Primus, Remedy, Software911, Touchscape, e.piphany">
-<title>FAQ Detail</title>
+<meta name="keywords" content="Fuze Q&amp;A, Fuze Suite, Fuze QnA, FAQ, Frequently Asked Questions, eService, CRM, eCRM, Help Desk, helpdesk, Self Service, self-service, customer service, customer care, customer support, technical support, Call Center, Knowledge Management, knowledge base, knowledgebase,  RightNow, Right Now, Kana, Servicesoft, Service Soft, Primus, Remedy, Software911, Touchscape, e.piphany">
+<title>Item Detail</title>
 
 
 
@@ -218,6 +218,42 @@ FONT-FAMILY: Verdana;
 FONT-SIZE: 8pt;
 }
 
+.smalldarkred
+{
+COLOR: #990000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 8pt;
+FONT-WEIGHT: bold;
+}
+
+A.sortlink:Link
+{
+COLOR: #000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+} 
+
+A.sortlink:Visited
+{
+color: #000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+}
+
+A.sortlinkselected:Link
+{
+color:#FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+}
+
+A.sortlinkselected:Visited
+{
+color:#FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+}
+
 A.normallink:Link
 {
 color: 990000;
@@ -228,6 +264,13 @@ FONT-SIZE: 9pt;
 A.normallink:Visited
 {
 color: 336699;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+}
+
+A.itemsfoundlink:Link
+{
+color:#990000;
 FONT-FAMILY: Verdana;
 FONT-SIZE: 9pt;
 }
@@ -469,6 +512,25 @@ white-space: nowrap;
 
 #kbdetailnewnav a.normallink{
 	font-size: 8pt;	
+}
+
+.messagecenterheader
+{
+COLOR: #000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 12pt;
+}
+
+.highlight 
+{text-decoration: none;
+color:black;
+background:yellow;
+}
+
+.highlightsyn
+{text-decoration: none;
+color:black;
+background:cyan;
 }
 
 //-->
@@ -1019,6 +1081,12 @@ function submitalert(alertType)
 	
 }
 
+function popupFile()
+{
+	//newwin = window.open('FILE://\\\\10.1.2.3\\c$\\Inetpub\\fuzeds\\test2.doc','myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
+	newwin = window.open('','myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
+}
+
 function popup(fileName)
 {
 	newwin = window.open(fileName,'myWindow','scrollbars=yes,status=no,toolbar=yes,resizable=yes,width=600,height=400')
@@ -1032,7 +1100,6 @@ function targetOpener(url)
 		window.location = url;
 	}
 }
-
 
 function validateSelect(elem, msg) 
 {
@@ -1070,6 +1137,12 @@ function Validation(){
 	
 	return true
 }
+
+function ViewChanges()
+{
+	newWin = window.open("/calendars/consumer/report_KB_Change_Log.asp?kbid=41&excludeitems=true","myWindow", "width=1000,height=500,resizable=yes,scrollbars=yes,toolbar=yes,status=yes,location=yes")
+}
+
 //-->
 </script>
 
@@ -1302,21 +1375,25 @@ function setParent(url) {
 			<tbody><tr>
 				<td bgcolor="FFAD00"><img src="../images/spacer.gif" width="1" height="2" alt=""></td>
 			</tr>
+				
 			<tr>
 				<td bgcolor="FDF1C5">
-					<table width="100%" cellpadding="8" cellspacing="0" border="0">
+					<table width="100%" cellpadding="6" cellspacing="0" border="0">
 						<tbody><tr>
 							<td id="kbdetailnewnav" align="left" nowrap="">
 							
 								<a href="emailfaq.asp?kbid=41" class="normallink"><img src="../images/emailicon2.gif" align="left" border="0" alt="Email This Item" width="21" height="14"></a>
 								<a href="emailfaq.asp?kbid=41" class="normallink">Email</a>&nbsp;&nbsp;&nbsp;
 								
-								<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink"><img src="../images/printicon2.gif" border="0" alt="Print This Item" width="21" height="14"></a>
-								<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink">Print</a>&nbsp;&nbsp;&nbsp;
+							<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink"><img src="../images/printicon2.gif" border="0" alt="Print This Item" width="21" height="14"></a>
+							<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink">Print</a>&nbsp;&nbsp;&nbsp;
 							
-								<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com KBItem#41');"><img alt="Bookmark this page" src="../images/bookmarkicon2.gif" border="0" width="19" height="14"></a>
-								<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com KBItem#41');" class="normallink">Bookmark</a>
-								
+							<a href="#rateit"><img alt="Rate This Item" src="../images/rateicon.gif" border="0" width="14" height="14"></a>
+							<a href="#rateit">Rate Item</a>&nbsp;&nbsp;&nbsp;
+							
+								<a href="#related"><img alt="Related Items" src="../images/link1.gif" border="0" width="16" height="12"></a>
+								<a href="#related">Related Items</a>&nbsp;&nbsp;&nbsp;
+							
 							</td>
 							
 							<td align="right"><a href="search.asp?">Return to Search</a></td>
@@ -1327,11 +1404,20 @@ function setParent(url) {
 							<td id="kbdetailnewnav">
 								<table cellspacing="0" cellpadding="2" valign="top">
 									<tbody><tr>
-										<td valign="top"><b>View all items in:</b></td>
-										<td valign="top" style="line-height:16px;">
+										<td valign="top" nowrap=""><b>View all items in:</b></td>
+										<td valign="top" style="line-height:16px;" nowrap="">
 											<!--<span onmouseover="javascript:popIt('Click to view all items in this category');" onmouseout="javascript:killIt();">-->
 										 <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br>
 											<!--</span>-->
+										</td>
+										<td valign="top" nowrap="">
+										<img src="../images/spacer.gif" width="20" height="2" alt="">
+										
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" style="line-height:16px;" colspan="3">
+										
 										</td>
 									</tr>
 								</tbody></table>
@@ -1386,7 +1472,8 @@ function setParent(url) {
 						<tbody><tr>
 							<td bgcolor="FFAD00" class="whitelabel">
 								Answer/Article 
-								</td>
+								
+							</td>
 						</tr>
 					</tbody></table>
 				</td>
@@ -1394,11 +1481,13 @@ function setParent(url) {
 			
 			<tr>
 				<td>
+				<a id="answertext">
+				
 					<table width="100%" cellpadding="20" cellspacing="0" border="0">
 						
 						<tbody><tr>
 							<td>
-							<div>
+								<div>
 <div>
 <div>
 <div>
@@ -1426,16 +1515,17 @@ function setParent(url) {
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167">Customer Service</a> team.</span></span></p></span></span></span></div></div></div></div></div>
 							</td>
 						</tr>
-						
 					</tbody></table>
-				</td>
+				
+				</a></td>
 			</tr>
 		</tbody></table>
 		<form name="mainform" id="mainform" method="post" action="kbdetail.asp?kbid=41" onsubmit="return Validation();">
 				<input type="hidden" name="kbid" value="41">
 				<input type="hidden" name="ap" value="">
 				<input type="hidden" name="ao" value="">
-
+				<input type="hidden" name="keyword" value="">
+				<input type="hidden" name="match" value="">
 		
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
@@ -1456,14 +1546,14 @@ function setParent(url) {
 						<tbody><tr>
 							<td>
 								
-								<a href="/calendars/consumer/kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a><p>
-									
-								<a href="/calendars/consumer/kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a></p><p>
-									
-								<a href="/calendars/consumer/kbdetail.asp?kbid=57" class="Relatedlink">Is my information secure?</a></p><p>
-									
-								<a href="/calendars/consumer/kbdetail.asp?kbid=40" class="Relatedlink">How do I purchase a calendar?</a></p><p>
-									
+									<a href="/calendars/consumer/kbdetail.asp?kbid=40" class="Relatedlink">How do I purchase a calendar?</a><p>
+										
+									<a href="/calendars/consumer/kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a></p><p>
+										
+									<a href="/calendars/consumer/kbdetail.asp?kbid=57" class="Relatedlink">Is my information secure?</a></p><p>
+										
+									<a href="/calendars/consumer/kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a></p><p>
+										
 							</p></td>
 						</tr>
 					</tbody></table>
@@ -1511,7 +1601,9 @@ function setParent(url) {
 								<b>Leave general comments about item in box.<br>
 								
 								If you would like to be contacted, please 
-								<a href="Question.asp?KBIDFromQuestion=41" class="normallink">click here.</a>
+									
+									<a href="Question.asp?KBIDFromQuestion=41">click here</a>.
+									
 								</b>
 								
 							</td>
