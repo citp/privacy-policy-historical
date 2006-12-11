@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the igames.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201936id_/http%3A//igames.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igames.org privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211202737id_/http%3A//igames.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # iGAMES ONLINE PRIVACY STATEMENT
 
-**[](http://www.esrb.org/seals/igames/ectcigames.gif)**
+**[](http://www.esrb.org/confirm/igames-confirmation.jsp)**
 
 ******iGAMES ONLINE PRIVACY STATEMENT**
 
-****Last updated August 8, 2005
+****Last updated October 04, 2006
 
 **Welcome to iGames!**
 
 **OUR PRIVACY COMMITMENT**
 
 iGames respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.
-
-We also recognize the need to provide additional protections for children who visit our sites. To read about our privacy protections for kids under the age of 13, [click here](https://web.archive.org/privacy_policy.asp#top2) to read iGames’ Kids Online Privacy Policy.
 
 This Privacy Statement and the certification seal shown on this page confirms that iGames is a valid member in ESRB’s Privacy Online Program. ESRB’s Privacy Online Program is designed to ensure that our website’s information collection practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
@@ -43,7 +41,11 @@ Finally, the terms of this Privacy Policy are subject to all applicable laws.
 
 **Information You Provide to Us**
 
-Much of the Personal Information we collect comes directly from our web guests. Typically, this information includes name, credit card number, postal and email address, telephone, cell and facsimile number. Additionally, we may also collect other types of non-personal information (known as demographic information) such as your gender, age, date of birth, country, favorite video game, and gaming platform. This demographic information may be associated with your Personal Information and will be used to communicate with you. 
+Much of the Personal Information we collect comes directly from our web guests. Typically, this information includes name, credit card number, postal and email address, telephone, cell and facsimile number. Additionally, we may also collect other types of non-personal information (known as demographic information) such as your gender, age, date of birth, country, favorite video game, and gaming platform. This demographic information may be associated with your Personal Information and will be used to communicate with you.
+
+**Children**
+
+We don’t knowingly collect Personal Information from children under 13. We take steps to ensure that those who wish to register Personal Information on our website meet certain age requirements before they can proceed with registration. We take kids' privacy seriously, and encourage parents to play an active role in their child’s online activities. 
 
 **We collect Personal Information from our web guests to:**
 
@@ -91,7 +93,7 @@ Our websites use a variety of technical methods for tracking purposes, including
 
 **Game Centers.** If you are a member gamer and you indicate, when registering or by updating your account information, that you have a “home game center” which is a member of iGames, then we will provide to that game center Personal Information about you so that game center may contact you about its activities, promotions, and other matters which they believe may be of interest to you.
 
-If you participate in an event sponsored by a particular game center member, your Personal Information will be provided to such game center in order to operate the event and report the results. That game center also may use your Personal Information to contact you about its other activities, promotions and other matters which they believe may be of interest to you.
+If you participate in an event sponsored by a particular game center member, your Personal Information will be provided to such game center in order to operate the event and publicly report the results. That game center also may use your Personal Information to contact you about its other activities, promotions and other matters which they believe may be of interest to you.
 
 Each game center member has agreed that it may only use the Personal Information it receives from iGames in a manner consistent with this Privacy Policy. However, iGames is unable to guarantee that this will be the case. If you don’t want your Personal Information provided to a game center, then do not designate a “home game center,” and do not participate in game center sponsored events.
 
@@ -117,7 +119,7 @@ We will disclose Personal Information when we believe in good faith that such di
 | **What choices do you have about the collection, use, and sharing of your Personal Information?**  
 | Generally, you have control over the Personal Information you submit to us. 
 
-We encourage iGames members to update and edit their contact information and keep it current. You can easily correct or update contact and account information, or delete optional information in the preferences menu at any time, by using your login and password to access your iGames account. In addition, parents can review and edit information as well as delete optional information about their child’s iGames’ contact information, account information, and membership through the same method.
+We encourage iGames members to update and edit their contact information and keep it current. You can easily correct or update contact and account information, or delete optional information in the preferences menu at any time, by using your login and password to access your iGames account.
 
 During registration, we also provide our game center members with the option to “Opt In” to having Personal Information shared with third parties so that those third parties may use your information to contact you about promotional materials, product information special offers, and other communications. The game center member must physically select to “Opt-In” either during the registration process or when updating their profile. To remove yourself from “Opt-In,” you must deselect this option from your profile page. 
 
@@ -147,20 +149,20 @@ You can access and update the contact information you gave us during registratio
 
 > iGames, Inc.  
 >  Attn.: Privacy Administrator  
->  201 San Antonio Circle, Suite 250  
+>  201 San Antonio Circle, Suite 260  
 >  Mountain View, CA 94040  
 >  (650) 917-9888
 
 Please be assured that any Personal Information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-iGames is a licensee of the ESRB’s Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>.
+iGames is a licensee of the ESRB’s Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [ http://www.esrb.org/privacy/contact.jsp](http://www.esrb.org/privacy/contact.jsp).
 
 > ESRB  
 >  Attn.: Privacy Online Program  
 >  317 Madison Avenue, 22nd Floor  
 >  New York, NY 10017  
 >  212-759-0700  
->  [privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
+>  [privacy@esrb.org](mailto:privacyinfo@esrb.org)
 
 **Your California Privacy Rights**
 
@@ -168,7 +170,7 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits cust
 
 > iGames, Inc.   
 >  Attn: CA Privacy Rights Administrator  
->  201 San Antonio Circle, Suite 250  
+>  201 San Antonio Circle, Suite 260  
 >  Mountain View, CA 94040  
 > 
 
@@ -180,129 +182,4 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits cust
 
 Please note that, at all times, you are responsible for updating your Personal Information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
 
-[back to top](https://web.archive.org/privacy_policy.asp#top1)  
-  
-  
-**iGAMES KIDS ONLINE PRIVACY STATEMENT**
-
-Last updated August 8, 2005
-
-**Welcome to iGames!**
-
-**OUR PRIVACY COMMITMENT**
-
-  
-iGames has developed its website with the goal of creating an enjoyable experience for all users. This Kids Privacy Statement is designed to answer your questions regarding our privacy policies and principles with respect to children under the age of 13.
-
-Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit the sites on which this Kids' Privacy Statement is posted. We explain those additional protections in this Kids' Privacy Statement.
-
-The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of our website. Below we explain how we do that for these “kids.” Also, when we use the term “parent” below, we mean to include legal guardians.
-
-This Privacy Statement and the certification seal shown on this page confirms that iGames is a valid member in [ESRB’s Privacy Online Program](http://www.esrb.org/privacy.asp). ESRB’s Privacy Online Program is designed to alleviate consumers’ privacy concerns by ensuring a website’s information disclosure practices are responsible and appropriate. 
-
-**TABLE OF CONTENTS**
-
-**[Q1. What types of information do we collect about kids?](https://web.archive.org/privacy_policy.asp#Q1b)  
-[Q2. How do we use and share the personally identifiable information that we collect from kids?](https://web.archive.org/privacy_policy.asp#Q2b)  
-[Q3. How do we notify and obtain consent from parents for the collection of personal information from their kids?](https://web.archive.org/privacy_policy.asp#Q3b)  
-[Q4. How can parents access, change or delete personally identifiable information about their kids?](https://web.archive.org/privacy_policy.asp#Q4b)  
-[Q5. What kinds of security measures do we take to safeguard kids’ personally identifiable information?](https://web.archive.org/privacy_policy.asp#Q5b)  
-[Q6. How will we notify parents if our Kids’ Privacy Statement changes?](https://web.archive.org/privacy_policy.asp#Q6b)  
-[Q7. Who do guests contact with questions or concerns about our Kids’ Privacy Statement?](https://web.archive.org/privacy_policy.asp#Q7b) **
-
-| **What types of information do we collect about kids?**  
----|---  
-| 
-
-Kids can surf iGames’ site, view content, and enjoy many features without any personal information being collected. We don’t collect personal information from kids unless they register on iGames’ site. Typically, kids will register to participate in the iGames community or engage in promotional activities (contests, newsletters, or surveys) or other special activities. As part of the registration process, we collect basic contact information from kids: child’s and parent’s name and e-mail address. We do not collect any other personally identifiable information from kids during our registration process. 
-
-Once a child is registered, we may collect demographic information (date of birth, gender, and preferences) and combine it with the child’s personal information. iGames will only collect this information if it is voluntarily properly submitted to us by either the child or parent.
-
-Note that all commercial sites directed to children under 13 are prohibited by U.S. law from conditioning a kid's participation in an online activity on the kid's providing more personal information than is reasonably necessary.
-
-Some areas of our website offer features that allow kids to submit personal information (e.g., email address) without first disclosing their age or obtaining verifiable parental consent. These areas of our website provide services in a way that do not require prior verifiable parental consent.
-
-Finally, we may collect demographic information about a kid. For example, if a kid participates in a survey, we may collect those responses. Among them, we may collect age, gender, hobbies, and interests or other demographic information about gaming and preferences. We also use some passive technologies, including cookies and web beacons, to monitor traffic on our websites. This demographic information may be associated with a child’s personal information.
-
-[back to top ](https://web.archive.org/privacy_policy.asp#top2)****  
-  
-| **How do we use and share the personally identifiable information that we collect from kids?**  
-| 
-
-We may collect personal information from parents to allow kids to participate in certain activities offered on our website and through game center members. These activities may include contests, promotional information about new products and features, special offers, and other interesting events.
-
-Other website features include e-mail, newsletters, news postings, events (such as game showcases and tournaments) at member game centers, promotions and other similar activities. In the course of a kid's participation in these features, a kid may also provide us additional information about himself or herself. If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2 of our General Privacy Policy) to that personal information.
-
-If a kid registers on the iGames website to participate in an event sponsored by a particular game center member, the kid’s name and email address will be provided to such game center in order to operate the event and report the results. That game center also may the kid’s personal information to contact the kid about its other activities, promotions and other matters which they believe may be of interest.
-
-To protect kids, iGames will not allow children to select a “home” game center (which automatically provides the game center with the information collected during player registration). 
-
-We may use the information that we collect from and about kids for our business purposes, including record-keeping, transaction fulfillment, and marketing. The contact information gathered from a kid is used to obtain consent to our information collection from their parents.
-
-After registration, contact information may also be used to notify users of promotional activities such as contests, sweepstakes, newsletters or new products, or functional changes to our website or privacy policy. Finally, we may use personal and demographic information for our internal marketing and study ways to better improve our services.
-
-If a kid wins a contest, we notify the parent at the email address provided to us during the registration process, and request that the parent provide his or her postal address for purposes of delivering the prize. We may publish a winner’s first name, city, and state of residence on our web site.
-
-From time to time, iGames may share kids’ personal information with outside entities hired to assist with internal website support operations (e.g., online product fulfillment, email services, or technical support). These entities will not use kids’ personal information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of all the personal information they obtain from us. 
-
-We don’t share any information about a kid with any third parties unless the disclosure is reasonably necessary to:  
-• comply with law, including, for example, to comply with a court order or subpoena.  
-• enforce our Terms of Service, or site or game rules.  
-• protect the safety and security of our Guests and our website.
-
-[back to top ](https://web.archive.org/privacy_policy.asp#top2)****  
-  
-| **How do we notify and obtain consent from parents for the collection of personal information from their kids?**  
-| 
-
-When a child attempts to register with our website, we send their parent an e-mail notifying them that their child would like to register, informing them of our privacy practices, and providing them with a consent form that must be mailed or faxed back to iGames. If the parent ignores or refuses to register their child, we will delete all contact information from our database. If the parent permits the registration, their child will be granted access to the features described in the notification e-mail.
-
-[back to top ](https://web.archive.org/privacy_policy.asp#top2)****  
-  
-  
-| **How can parents access, change or delete personally identifiable information about their kids?**  
-| 
-
-At any time, a parent can access, change, or delete the personal information that we have collected from his or her kid through their kid’s iGames login and password account or by contacting our customer service department through an e-mail to [privacy@igames.org](mailto:privacy@igames.org). Please include the kid member’s name and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
-
-[back to top](https://web.archive.org/privacy_policy.asp#top2) ****  
-  
-  
-| **What kinds of security measures do we take to safeguard kids’ personally identifiable information?**  
-| 
-
-We take the security and confidentiality of kids’ information very seriously. We have implemented technical, administrative, and physical security measures to protect kids’ personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
-
-[back to top ](https://web.archive.org/privacy_policy.asp#top2)****  
-  
-| **How will we notify parents if our Kids’ Privacy Statement changes?**  
-| 
-
-We may amend our Kids' Privacy Statement at any time. We will provide parents notice by e-mail of any material changes in the way we intend to collect, use, or share kids' personal information. Please note that, at all times, parents should update their personal information to provide us current e-mail addresses. We will apply material changes in our Kids' Privacy Statement only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
-
-[back to top](https://web.archive.org/privacy_policy.asp#top2) ****  
-  
-| **Who do guests contact with questions or concerns about our Kids’ Privacy Statement?**  
-| 
-
-If you have questions or wish to send us comments about this Privacy Statement, please send an e-mail with your questions or comments to [privacy@igames.org](mailto:privacy@igames.org) or write us:
-
-> iGames, Inc.  
->  Attn.: Privacy Administrator  
->  201 San Antonio Circle, Suite 250  
->  Mountain View, CA 94040  
->  (650) 917-9888
-
-Please be assured that any Personal Information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
-
-iGames is a licensee of the ESRB’s Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
-
-> ESRB  
->  Attn.: Privacy Online Program  
->  317 Madison Avenue, 22nd Floor  
->  New York, NY 10017  
->  212-759-0700  
->  [privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
-
-[back to top](https://web.archive.org/privacy_policy.asp#top2)  
-
+[back to top](https://web.archive.org/privacy_policy.asp#top1)
