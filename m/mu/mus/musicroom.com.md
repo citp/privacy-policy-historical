@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723100428id_/http%3A//www.musicroom.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211042348id_/http%3A//www.musicroom.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Musicroom.com - Sheet Music for Musicians
 
