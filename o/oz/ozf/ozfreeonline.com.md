@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615113701id_/http%3A//www.ozfreeonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211143039id_/http%3A//www.ozfreeonline.com/privacy.php) for the most accurate reproduction.*
 
-# Oz Free Online - Free Sales, Cars, Realestate, Auctions, Classifieds, Employment
+# Oz Free Online - Classifieds, Cars, Realestate, Auctions, Employment, Free Sales
 
 Oz Free Online Privacy Policy
 
@@ -17,6 +17,20 @@ We collect personally identifying information about you only when you specifical
 Information that personally identifies you will be kept strictly confidential unless you specifically authorize it to be made available, as in the case of profiles.
 
 Personally identifying information which you choose to provide to another party or Web site will be subject to their privacy policy. For example, if you send your resume to an employer or recruiter you found while searching our site, information you provide to that party is subject to their privacy policy rather than ours.
+
+**How we gather information from users**
+
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, OzFreeOnline.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+
+**What we do with the information we collect**
+
+Like other Web publishers, we collect information to enhance your visit and deliver more individualised content and advertising. We respect your privacy and do not share your information with anyone.
+
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. We currently use the following companies to help us collect Aggregated Information:
+
+* Google Analytics  
+* Nielsen NetRatings  
+* StatCounter
 
 **What Is Personally Identifying Information?**
 
