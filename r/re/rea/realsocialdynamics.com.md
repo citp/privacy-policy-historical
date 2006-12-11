@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realsocialdynamics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051624id_/http%3A//realsocialdynamics.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsocialdynamics.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211190846id_/http%3A//realsocialdynamics.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Real Social Dynamics Privacy Policy
+# Real Social Dynamics - Privacy Policy
 
-**Real Social Dynamics Inc. Privacy Policy**
+## Real Social Dynamics Inc. Privacy Policy
 
 1\. General Privacy Policy Information 
 
@@ -72,19 +72,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 We will make every reasonable effort to respect your contact wishes. Please be aware that information does flow from a variety of channels that may sometimes cause your opt-out wishes to be delayed. In the event you feel you are contacted and should not have been, please contact us [admin@realsocialdynamics.com](mailto:admin@realsocialdynamics.com). 
 
-  
-  
-“Discover the Secrets to Attracting Women...”
+[**Click HERE for Details on Seminar Coaching at Superconferences.**](https://web.archive.org/web/20061211190846id_/http%3A//realsocialdynamics.com/seminars.asp)
 
-[ **Click HERE for Details on Seminars Coaching at Superconferences.**](https://web.archive.org/web/20060615051624id_/http%3A//realsocialdynamics.com/seminars.asp) **
+_\- AND -_
 
-\- AND - 
+[**Click HERE for Details on Field Coaching at Bootcamps.**](https://web.archive.org/web/20061211190846id_/http%3A//realsocialdynamics.com/bootcamps.asp)
 
-[ Click HERE for Details on Field Coaching at Bootcamps.](https://web.archive.org/web/20060615051624id_/http%3A//realsocialdynamics.com/bootcamps.asp)
-
-**
-
- **  
-****[.](https://web.archive.org/web/20060615051624id_/http%3A//realsocialdynamics.com/bootcamps.asp)**  
-  
-[ TOP ](https://web.archive.org/web/20060615051624id_/http%3A//realsocialdynamics.com/privacy_policy.asp)
+_TOP_
