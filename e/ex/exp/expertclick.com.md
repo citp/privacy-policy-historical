@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055529id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211224130id_/http%3A//expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
 
 # Yearbook of Experts - Online
 
