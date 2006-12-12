@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319191323id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212074412id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
 
-# Medical Schools Forum
+# ValueMD Medical Schools Forum
 
 We, at Value MD Limited Liability Company, hereafter refered to as "ValueMD", are committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and telephone number). That is why ValueMD has established this privacy policy, so that you can understand the care with which we intend to treat your information. 
 
