@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the iowatreasurers.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060229id_/http%3A//iowatreasurers.org/citizen.cfm%3FID%3D1%26ParentPage%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowatreasurers.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212063828id_/http%3A//www.iowatreasurers.org/citizen.cfm%3FID%3D1%26ParentPage%3D107) for the most accurate reproduction.*
 
 # Iowa State County Treasurers Association
 
-EMAIL: [lduin@co.polk.ia.us](mailto:lduin@co.polk.ia.us)  
-PHONE: 515-286-3871  
-FAX: 515-286-2225
+EMAIL: Kim Reynolds, Clarke County Treasurer ( [clarketr@iowatelecom.net](mailto:clarketr@iowatelecom.net)) Dave Jamison, Story County Treasurer ( [djamison@storycounty.com](mailto:djamison@storycounty.com)) or Barb Vance, Scott County Treasurer's Office ([bvance@scottcountyiowa.com](mailto:bvance@scottcountyiowa.com))
 
 The Iowa State County Treasurers Association is an association web site which serves as a governmental web site directory and portal to Iowa County Treasurers and Iowa Counties.
 
@@ -22,4 +20,4 @@ Personally identifiable information that is collected by governmental web sites 
 
 The use of a browser cookie:
 
-A non-informational gathering cookie called a "session variable" needs to be set temporarily in your browser to keep a private session between you and the server during electronic transactions. This "session variable" cookie is removed when your transaction has been completed or when you close your browser.
+A non-informational gathering cookie called a "session variable" needs to be set temporarily in your browser to keep a private session between you and the server during electronic transactions. This "session variable" cookie is removed when your transaction has been completed or when you close your browser
