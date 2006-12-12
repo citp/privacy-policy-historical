@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425065521id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212140100id_/http%3A//123together.com/ps.xhtml) for the most accurate reproduction.*
 
 # 123Together - Privacy Statement
 
