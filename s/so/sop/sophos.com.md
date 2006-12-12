@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204223id_/http%3A//sophos.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212220455id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sophos privacy policy
 
