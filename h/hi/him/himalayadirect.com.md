@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2006-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060525114109id_/http%3A//www.himalayadirect.com/privacy.php%3FosCsid%3D6549ac5756974445e4ae4a7f970d5c39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212210053id_/http%3A//www.himalayadirect.com/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# researching nature · enriching life · since 1930
+# Privacy-Himalaya Herbals | UK & European Ayurvedic Organic Health Beauty Shop
 
 ### Information Collection and Use
 
