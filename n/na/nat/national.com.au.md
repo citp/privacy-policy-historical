@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210630id_/http%3A//national.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212021557id_/http%3A//www.national.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
 
 # National Australia Bank - National Australia Bank Privacy Policy
 
