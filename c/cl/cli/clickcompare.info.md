@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickcompare.info privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617115504id_/http%3A//www.clickcompare.info/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcompare.info privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213005305id_/http%3A//www.clickcompare.info/policy.php) for the most accurate reproduction.*
 
 # Comparison
 
