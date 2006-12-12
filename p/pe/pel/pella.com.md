@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pella.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615082700id_/http%3A//www.pella.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pella.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212101546id_/http%3A//www.pella.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Pella Windows and Doors - Our Company
 
