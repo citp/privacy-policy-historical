@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614142808id_/http%3A//www2.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212181322id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,7 +77,7 @@ In order to assert such rights, please contact Software AG's data protection off
    Naturally, you may contact Software AG's data protection officer directly at any time should you have questions, comments or complaints in connection with this declaration on data protection:
 
 Software AG  
-Data Protection Officer of Software AG und SAG Systemhaus GmbH   
+Data Protection Officer of Software AG and SAG Systemhaus GmbH   
 H.C. Höpker  
 Uhlandstrasse 12  
 64297 Darmstadt  
