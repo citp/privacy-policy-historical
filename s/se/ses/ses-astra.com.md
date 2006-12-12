@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414183823id_/http%3A//www.ses-astra.com/corpSite/footerPages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212092741id_/http%3A//www.ses-astra.com/corpSite/site_en/footerPages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,3 +23,5 @@ You will have a right of access to the data collected and a right of rectificati
 All data related information shall not be held for longer than necessary with regard to the purpose of the data processing, observing the legal periods of limitation.
 
 If you require information or permission in relation with intellectual property matters, please contact [info@ses-astra.com. ](mailto:info@ses-astra.com)
+
+ 
