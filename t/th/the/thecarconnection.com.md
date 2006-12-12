@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317234242id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212015642id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.*
 
 # Privacy Statement for TheCarConnection.com - The Car Connection
+
+  
+  
+
 
 TheCarConnection.com is committed to protecting the privacy of all its readers. As a result, you have the right to view the privacy policy of this site. 
 
@@ -34,11 +38,11 @@ It is possible you will be served cookies by advertisers on TheCarConnection sit
 
 Be advised that most current Web browsers, including Internet Explorer and Netscape Navigator, automatically accept Cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site.
 
-**_Third Party Advertising  
+**_Third Party Advertising_** ** _  
 _**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+We use MaxOnline, AlmondNet and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit[AlmondNet](http://www.almondnet.com/privacy.aspx?miid=7&artid=49), [MaxOnline](http://www.maxonline.com/privacy_policy/index.php) or [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**_Third Party Cookies _  
+**_Third Party Cookies_  
 **  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
@@ -48,4 +52,4 @@ As noted, you have the right to opt out of any services or update any data colle
 
 Other requests, comments or questions may be addressed to us by e-mail at [Letters@TheCarConnection.com](mailto:Letters@TheCarConnection.com). You may also correspond by standard post at Privacy Policy, TheCarConnection.com, 22 Cambridge Blvd., Pleasant Ridge, MI 48069.
 
-[Contact Information](https://web.archive.org/index.asp?article=166)
+[Contact Information ](https://web.archive.org/index.asp?article=166)
