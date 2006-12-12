@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619100049id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212194819id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Car Hire with discount rates from Car Hire 3000
 
