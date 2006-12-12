@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044403id_/http%3A//www.partnersinrhyme.com/pir/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212233211id_/http%3A//www.partnersinrhyme.com/pir/Privacy.shtml) for the most accurate reproduction.*
 
-# Privacy_Policy
-
-Privacy Policy Statement  
-This is the web site of Partners In Rhyme.
-
-Our postal address is  
-1223 Wilshire Blvd 688  
-Santa Monica Ca 90403-5400  
-We can be reached via e-mail at contact@partnersinrhyme.com  
-or you can reach us by telephone at 323-933-9979
+# Privacy Policy Statement
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
