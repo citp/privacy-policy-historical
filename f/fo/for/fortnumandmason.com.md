@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204609id_/http%3A//www.fortnumandmason.com/about/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212174356id_/http%3A//www.fortnumandmason.com/about/terms/privacy) for the most accurate reproduction.*
 
 # Fortnum & Mason Privacy Policy - Fortnum & Mason UK
 
+#### Fortnum & Mason Privacy Policy
+
 Your privacy is important to us. This privacy statement describes the online information practices which we Fortnum & Mason plc ("we", "our") employ in relating to the information which you, our customers, ("you", "your") provide when using the [www.fortnumandmason.com](http://www.fortnumandmason.com/) site ("Website").  By accessing and using the Website you are accepting and agreeing to the practices described in this Privacy Statement.
 
-**The Information We Collect**
+ **The Information We Collect**
 
 We collect personally identifiable information relating to you including name, address, phone number, e-mail address, credit/ debit card information ("Personal Information") in the following situations: 
 
@@ -39,10 +41,10 @@ We only share your Personal Information with our other offices or authorised dis
 
 We may transfer Personal Information which users in the European Union provide to us to other countries (including the United States), the data protection laws of which may differ from those of the European Union, and you expressly agree to such transfer.
 
-**Collection of Information by Third-Party Sites**  
+ **Collection of Information by Third-Party Sites**  
 Our Website may contain links to other websites whose information practices may be different to ours. You should consult the privacy notices of those third party sites as we have no control over information that is submitted to, or collected by them.
 
-**Security**  
+ **Security**  
 We employ security measures to prevent unauthorized access to information that we collect online. 
 
 We use a secure online order form for all purchases made via the Website. All data transmitted via this form (including credit card details) is 128bit encrypted  so it transmitted securely.  To verify this, when placing an order using the Website a padlock will appear in your browser.  It is normally in the status bar, towards the right hand side, at the bottom of your browser window.  You can double click this padlock to verify that the secure certificate has been issued to the Website. 
@@ -51,7 +53,7 @@ Our security is guaranteed by the certificate provider, Verisign.
 
 Please note that email correspondence with us is in free format text and cannot be encrypted.  Accordingly please do not send any sensitive information such as credit card details or passwords via email.
 
-**"Cookies"**  
+ **"Cookies"**  
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.  A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
 
 When you visit our Website we send you a cookie. Cookies may be used in the following ways:
