@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003122id_/http%3A//www.danielstrading.com/content/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212163812id_/http%3A//danielstrading.com/content/priv.php) for the most accurate reproduction.*
 
 # Daniels Trading Commodity Futures Trading | Commodity Brokers, Futures Brokers, Options Brokers
 
