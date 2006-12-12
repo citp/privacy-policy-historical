@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbztv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195453id_/http%3A//cbs4boston.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbztv.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212235907id_/http%3A//cbs4boston.com/privacy) for the most accurate reproduction.*
 
 # cbs4boston.com - Privacy
 
