@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417235332id_/http%3A//totaltraining.com/corp/privacy.asp%3Fmscsid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212135156id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
 
-# Total Training: Privacy Policy
+# Privacy Policy
 
-[](https://web.archive.org/corp/why_tt.asp?mscsid=)  
+[](https://web.archive.org/corp/home.asp)  
   
-[](https://web.archive.org/corp/contactus.asp?mscsid=)  
+[](https://web.archive.org/corp/advantage.asp)   
   
-[](https://web.archive.org/corp/news.asp?mscsid=)  
+[](https://web.archive.org/corp/contactus.asp)  
   
-[](https://web.archive.org/corp/review.asp?mscsid=)  
+[](https://web.archive.org/corp/news.asp)  
   
-[](https://web.archive.org/corp/event.asp?mscsid=)  
+[](https://web.archive.org/corp/event.asp)  
   
-[](https://web.archive.org/corp/partner.asp?mscsid=)  
+[](https://web.archive.org/corp/partner.asp)  
   
-[](https://web.archive.org/corp/legal.asp?mscsid=)  
+[](https://web.archive.org/corp/legal.asp)  
   
-[](https://web.archive.org/corp/career.asp?mscsid=)  
+[](https://web.archive.org/corp/career.asp)  
   
-[](https://web.archive.org/corp/survey.asp?mscsid=)  
+[](https://web.archive.org/corp/survey.asp)  
   
 |   
 |   
@@ -58,7 +58,7 @@ Total Training does not share or otherwise distribute any information collected 
 **Questions**  
 Questions regarding our Privacy Policy may be addressed to Total Training in the following ways: 
 
-  * By email message addressed to [webmaster@totaltraining.com](mailto:webmaster@totaltraining.com?subject=Question%20about%20Privacy%20Policy)
+  * By email message addressed to [tt-webmaster@totaltraining ](mailto:tt-webmaster@totaltraining.com?subject=Question%20about%20Privacy%20Policy)
   * By telephone, dial toll-free 1-888-368-6825 (outside of US dial 1-760-517-9001, toll charges may apply)
   * By letter addressed to:
 
