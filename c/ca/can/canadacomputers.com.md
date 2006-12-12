@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211246id_/http%3A//canadacomputers.com/index.php%3Fdo%3DShowPrivacy%26PHPSESSID%3Df0636f00ee224c8898f43ad5e5d0b7f5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212191756id_/http%3A//canadacomputers.com/index.php%3Fdo%3DShowPrivacy) for the most accurate reproduction.*
 
-# Welcome to Canada Computer - Your Computer Source
+# Canada Computers - Your Neighbourhood Computer Store and Service Centre - PC Systems and Hardware Components, Notebooks, Electronics, and more.
 
   
 Canada Computers welcomes all visitors to our website. Canada Computers is committed to ensuring the privacy and protection of all our customers. This policy was developed with this goal in mind and outlines the guidelines in which we gather personal and non-personal information and the use of such information.
