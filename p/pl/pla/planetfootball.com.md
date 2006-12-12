@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629084153id_/http%3A//home.skysports.com/articlefp.asp%3Fhlid%3D299447) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212225846id_/http%3A//home.skysports.com/articlefp.aspx%3Fhlid%3D299447) for the most accurate reproduction.*
 
 # Sky Sports - The Best Sport Coverage From Around The World
 
