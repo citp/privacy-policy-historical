@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rel.co.in privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210728id_/http%3A//rel.co.in/copy/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rel.co.in privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212045343id_/http%3A//rel.co.in/copy/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::::::::::Reliance Energy Ltd.::::::::::
 
@@ -75,11 +75,11 @@ We have implemented technology and policies, with the objective of protecting yo
 **Contacting Us  
 **
 
-  1. We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement, e-mail the Data Manager at rel.website@rel.co.in
+  1. We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement, e-mail the Data Manager at rel.website@relianceada.com
 
-  2. If you are concerned about our use of your personal information, please contact us at rel.website@rel.co.in, with the subject line, "privacy."
+  2. If you are concerned about our use of your personal information, please contact us at rel.website@relianceada.com, with the subject line, "privacy."
 
-  3. If at any time you would like to contact us, you can do so by emailing us at rel.website@rel.co.in 
+  3. If at any time you would like to contact us, you can do so by emailing us at rel.website@relianceada.com 
 
 
 
