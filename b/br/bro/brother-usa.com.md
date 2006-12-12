@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202950id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212120034id_/http%3A//brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
 # default
 
@@ -70,7 +70,7 @@ The Site and other Brother on-line materials, although intended for general audi
 
 Your Control Options* 
 
-Choice of Opt-in / Opt-out. During the times you provide information to Brother on-line on this Site, you are given the opportunity to opt-in to have your information used for other purposes at the point where Brother asks for the information. For example, this Site has an opt-in feature, so that if you want to access certain areas of the Site and receive selected information, but not receive other materials, you can prevent receipt of certain materials by not choosing an Opt-in for those materials. In addition, if you later no longer wish to receive Brother’s e-mail communications, you may opt-out of receiving these by following the instructions included with each e-mail. In certain other materials, such as product registration cards, for example, Brother allows you to select certain preferences for receiving information from Brother. Brother also offers an opt-out mechanism for all communications while registering a product online, or you may contact us at 1-800-276-8437 to opt-out. 
+Choice of Opt-in / Opt-out. During the times you provide information to Brother on-line on this Site, you are given the opportunity to opt-in to have your information used for other purposes at the point where Brother asks for the information. For example, this Site has an opt-in feature, so that if you want to access certain areas of the Site and receive selected information, but not receive other materials, you can prevent receipt of certain materials by not choosing an Opt-in for those materials. In addition, if you later no longer wish to receive Brother’s e-mail communications, you may opt-out of receiving these by following the instructions included with each e-mail. In certain other materials, such as product registration cards, for example, Brother allows you to select certain preferences for receiving information from Brother. Brother also offers an opt-out mechanism for all communications while registering a product online, or you may contact us at 1-877-276-8437 to opt-out. 
 
 *These features apply only to the Site administered by Brother International Corporation.
 
@@ -92,7 +92,7 @@ We reserve the right to transfer any and all information that we collect from us
 
 Correcting and Updating Personal Information 
 
-If your personal information changes, or if you no longer desire Brother’s service, please contact Brother by telephone at 1-800-276-8437 or by e-mail to privacydata@brother.com to correct or update your personal information. 
+If your personal information changes, or if you no longer desire Brother’s service, please contact Brother by telephone at 1-877-276-8437 or by e-mail to privacydata@brother.com to correct or update your personal information. 
 
 Notification of Changes 
 
@@ -116,7 +116,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 [Click here for AskUs Form](https://web.archive.org/askus/default.aspx)
 
-Phone 1-800-276-8437  
+Phone 1-877-276-8437  
 Fax 1-800-947-1445 
 
 Postal Address: Brother International Corporation, 100 Somerset Corporate Blvd, Bridgewater, New Jersey 08807, Attn: Legal Department
