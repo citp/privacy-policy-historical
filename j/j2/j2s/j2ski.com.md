@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616180527id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212054823id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
 
 # j2ski.com - Portal for the Independent Skier
 
@@ -57,8 +57,3 @@ If our information practices change at some time in the future we will contact y
 When we transfer and receive certain types of sensitive information such as financial or health information, we will redirect visitors to a secure server. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above e-mail address.
-
-**Warning:-** The information on j2ski.com, where not clearly factual, is opinion only. It is not definitive, nor is it exhaustive and you must confirm it for yourself before you act upon it. Wherever and whenever you decide to ski, you do so entirely at your own risk. Skiing is an action sport with many dangers, which _you_ must identify and accept before participating.  
-If you do not accept these risks and your responsibility for understanding them - please do not ski.
-
-© Copyright J2J Limited, 2006. All rights reserved. Content creation and generation by J2J DataWeb.
