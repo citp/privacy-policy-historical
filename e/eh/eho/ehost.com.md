@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025422id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212230805id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  |   
+|  |    
 [home](https://web.archive.org/) > [About Us](https://web.archive.org/about/) > Privacy Statement
 
 At eHost, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
@@ -49,7 +49,7 @@ Contacting eHost
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with eHost, you can contact: 
 
-> [eHost](https://web.archive.org/support/supportForm.bml)   
+> [eHost](https://web.archive.org/support/supportForm.bml)  
 >  70 Blanchard Road, 3rd Floor  
 >  Burlington, MA 01803  
 > 
