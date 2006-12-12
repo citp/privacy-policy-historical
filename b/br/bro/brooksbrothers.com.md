@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the brooksbrothers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksbrothers.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem) for the most accurate reproduction.*
 
-# Help
+# Brooks Brothers | Help | Security & Privacy
 
 [](https://web.archive.org/help/help_main.tem)
 
-|  | [Finding What You Need ](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#)  
+|  | [Finding What You Need ](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#)  
 ---|---  
-| [Placing an Order](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#order)  
-| [Sizing Information ](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#size)  
-| [Sales Tax](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#tax)  
-| [Canceling an Order ](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#cancel)  
-| [Gifts & Gift Cards ](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#gifts)  
-| [Our Unconditional Guarantee](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#guarantee)  
-| [Security](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#security)  
+| [Placing an Order](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#order)  
+| [Sizing Information ](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#size)  
+| [Sales Tax](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#tax)  
+| [Canceling an Order ](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#cancel)  
+| [Gifts & Gift Cards ](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#gifts)  
+| [Our Unconditional Guarantee](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_shopping.tem#guarantee)  
+| [Security](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#security)  
 ---|---  
-| [Privacy ](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#privacy)  
-| [Information Collected](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#info)  
-| [Updating or Changing Information](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#update)  
-| [Your California Privacy Rights](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#ca_privacy)  
-| [Cookies](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#cookies)  
-| [Children's Privacy](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#children)  
-| [Changes to this Statement ](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#changes)  
+| [Privacy ](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#privacy)  
+| [Information Collected](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#info)  
+| [Updating or Changing Information](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#update)  
+| [Your California Privacy Rights](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#ca_privacy)  
+| [Cookies](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#cookies)  
+| [Children's Privacy](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#children)  
+| [Changes to this Statement ](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/help/help_privacy.tem#changes)  
 Security & Privacy
 
 | [](https://web.archive.org/default.tem) |  /  | [Help](https://web.archive.org/help/help_main.tem) |  /  | Security & Privacy  
@@ -58,7 +58,7 @@ We may combine information you give us online and in our stores as well as infor
 
 Updating or Changing Information
 
-If at any time you want to update or change your information, simply sign on to BrooksBrothers.com as usual, and click on [MEMBER REGISTRATION](https://web.archive.org/web/20060615105033id_/http%3A//www.brooksbrothers.com/Members.tem) on the navigation bar. Once logged in, you will see OPTIONS where you will be able to change any personal information. 
+If at any time you want to update or change your information, simply sign on to BrooksBrothers.com as usual, and click on [MEMBER REGISTRATION](https://web.archive.org/web/20061212020906id_/http%3A//www.brooksbrothers.com/Members.tem) on the navigation bar. Once logged in, you will see OPTIONS where you will be able to change any personal information. 
 
 If at any time you would like us to update your personal information or remove you from our email or postal mailing lists, feel free to contact us (below). Please be sure to include your email address, full name and password.
 
@@ -97,10 +97,3 @@ Brooks Brothers
 New York, NY 10017
 
 Effective as of August 2, 2004
-
-[Store Locator](http://www.brooksbrothers.com/storelocator/landing_stores.tem) |  | [Catalog](http://www.brooksbrothers.com/catalogview/catalog.tem) |  | [The Brooks Card](http://www.brooksbrothers.com/brookscard/landing_brookscard.tem) |  | [Help](http://www.brooksbrothers.com/help/help_main.tem) |  | [About Us](http://www.brooksbrothers.com/aboutus/landing_about.tem) |  | 
-
-Email Specials:
-
-|  | GO  
----|---|---|---|---|---|---|---|---|---|---|---|---
