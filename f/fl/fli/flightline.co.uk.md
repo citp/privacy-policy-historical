@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614173747id_/http%3A//www.flightline.co.uk/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212101044id_/http%3A//www.flightline.co.uk/help/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Flightline Essex Ltd.
-
-Cheap flights from all UK tour operators including Thomson, Avro, JMC, Thomas Cook, First Choice, Freedom Flights & many more 
 
 ### Flightline Essex Ltd respects your privacy
 
@@ -22,15 +20,23 @@ We will hold your information, where collected by us, and may use it to inform y
 
 ### Credit/Debit Card Details
 
-We know of no documented cases of credit card fraud using our website to purchase flights and holidays over the Internet. All credit card numbers are encrypted in the software when the booking is made using 128 bit encryption. They are only decrypted after they reach our computer. They are not held in clear text on any web site.
+We know of no documented cases of credit card fraud using our website to purchase flights and holidays over the Internet. All credit card numbers are encrypted in the software when the booking is made using 128-bit encryption. They are only decrypted after they reach our computer. They are not held in clear text on any website.
 
-### External Sites
+### Links to External Sites
 
-Flightline Essex Ltd is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+Flightline Essex Ltd is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information. 
 
-### Cookies
+Unless otherwise stated ABTA protection does not apply to any of the third parties websites that we link to.
 
-A "cookie" is a small data text file that is placed in your browser and allows Flightline Essex Ltd to recognize you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and Flightline Essex Ltd does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+### Cookies - What are they?
+
+They are small data text files attached to your computer's hard-drive by your internet browser. They enable us to recognize you each time you visit this site and monitor the pages on our website that a computer used by you has accessed. 
+
+### Cookies - How do we use them?
+
+We use cookies only for tracking purposes. The cookies that we use store the address (URL) of the website you visited before visiting this website. This information is for internal use only to help us in the marketing of this website. We do not publish or pass this information onto any third parties. 
+
+Cookies themselves do not contain any personal information, and Flightline Essex Ltd does not use cookies to collect personal information. If you wish, you can change your internet browser settings to refuse cookies. 
 
 ### Remember The Risks Whenever You Use The Internet!
 
