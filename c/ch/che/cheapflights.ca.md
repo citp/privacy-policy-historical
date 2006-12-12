@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616073902id_/http%3A//cheapflights.ca/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212141054id_/http%3A//cheapflights.ca/misc/privacy.html) for the most accurate reproduction.*
 
 # Cheap Flights Canada: Privacy policy
 
@@ -7,13 +7,13 @@
 
 Our website is located at [www.cheapflights.ca](http://www.cheapflights.ca/).
 
-We invite you to [contact us](https://web.archive.org/web/20060616073902id_/http%3A//cheapflights.ca/misc/feedback.html) if you have questions about this policy.
+We invite you to [contact us](https://web.archive.org/web/20061212141054id_/http%3A//cheapflights.ca/misc/feedback.html) if you have questions about this policy.
 
 You may contact us by mail at the following address: 
 
 Content Editor  
-90 Westbourne Grove  
-London W2 5RT   
+49 Marylebone High Street  
+London W1U 5HJ  
 United Kingdom
 
 The domain Cheapflights.ca is owned and operated by Cheapflights.com Limited, 280 Albert Street ,Ottawa ON K1P 5G8, Canada (Contact Mary Oglivie)
