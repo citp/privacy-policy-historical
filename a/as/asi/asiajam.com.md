@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061322id_/http%3A//asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212070139id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # AsiaJam.com Fashion Boutique
 
@@ -8,7 +8,7 @@
 |   
 ---  
   
-[](http://www.asiajam.com/catalog/product_info.php/products_id/20?osCsid=867931d8e8aca24b15817d15ddc9b0c3)
+[](http://www.asiajam.com/catalog/product_info.php/products_id/20?osCsid=2176a30d9ef11aed461d036d0ecb6955)
 
 Mid-Calf Lace Leggings
 
@@ -22,7 +22,7 @@ AsiaJam.com values its customers and respects their privacy. We collect customer
 
 This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact AsiaJam.com customer service in any of two ways:
 
-  1.   2. write to us at  
+  1.   2. write to us at:  
 AsiaJam.com Customer Services  
 3A-02, Block F, Phileo Damansara 1  
 Jln 16/11, 46350 PJ, Selangor,  
@@ -38,13 +38,13 @@ If our information practices change in the future, we will post an updated polic
   *   *   *   *   *   * 
 
 
-**What kind of information does** **asiajam.** **com collect?**
+**What kind of information does** **AsiaJam.com** **collect?**
 
 We collect information, such as name, e-mail and postal addresses, phone and credit card numbers from you when you visit our website, or place an order online, or save your info with us online, or participate in a contest, promotion or survey. We maintain a record of your product interests and the purchases you make online, and may also acquire information about you from our joint marketing partners, from unrelated third parties and from our affiliates .
 
-**How does** **asiajam** **.com use my information?**
+**How does** **AsiaJam.com** **use my information?**
 
-When you place an order or make a purchase from asiajam.com, we use your personal information to process your order, send you e-mails to confirm your order or to contact your e-mail if we have other questions regarding your order or purchase.
+When you place an order or make a purchase from AsiaJam.com, we use your personal information to process your order, send you e-mails to confirm your order or to contact your e-mail if we have other questions regarding your order or purchase.
 
 When you place an order, make a purchase or save your information online, we will use your e-mail and postal address to send you information about our products, services, contests, and promotions and to help us learn more about your shopping preferences. If you participate in a contest or promotion (online), we may use your personal information to send you e-mails, regarding our products, services, contests and promotions. From time to time, we may use this information to contact you via e-mail to learn more about your shopping preferences. You always have the choice not to receive marketing information.
 
@@ -52,7 +52,7 @@ In addition, we may use information about your product interests and purchases f
 
 To serve you better, we may combine information you give us and information about your product interest and purchases with information from third parties, including demographic information and information that is publicly available. We may also combine this information with information from our affiliates. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy.
 
-**Does** **asiajam** **.com share my information with third parties?**
+**Does** **AsiaJam.com** **share my information with third parties?**
 
 If you shop at one of our affiliates, we share information about you with that affiliate, so that it can communicate with you by e-mail about their products, services, contests and promotions that may be of interest to you. Each of our affiliates has a privacy policy that is consistent with our own.
 
@@ -62,11 +62,11 @@ When we offer contests and promotions, with or without a marketing partner, you 
 
 In the unlikely event of a sale of some or all of our business, AsiaJam.com will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.
 
-AsiaJam.com reserves the right to disclose information about you as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of Asiajam.com, its affiliates, and others.
+AsiaJam.com reserves the right to disclose information about you as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of AsiaJam.com, its affiliates, and others.
 
 **How do I access my information? How do I change or delete my information?**
 
-You can review, change or delete certain personal information related to your use of our online sites (e.g., name and contact information). To access your information online, simply click "Your Account" at the bottom of any page, sign in when prompted to do so, and you'll be able to edit your personal information, or you may click here to e-mail asiajam.com customer service. Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to ten days for your e-mail request.
+You can review, change or delete certain personal information related to your use of our online sites (e.g., name and contact information). To access your information online, simply click "Your Account" at the bottom of any page, sign in when prompted to do so, and you'll be able to edit your personal information, or you may click here to e-mail AsiaJam.com customer service. Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to ten days for your e-mail request.
 
 **How do I exercise my choices about receiving promotional communications?**
 
@@ -74,6 +74,6 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 
 Please also note that when you purchase from us, we will continue to confirm your order by e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.
 
-**How does** **asiajam** **.com protect kids' privacy?**
+**How does** **AsiaJam.com** **protect kids' privacy?**
 
 AsiaJam.com is concerned about the safety of children when they use the Internet and will never knowingly request personally identifiable information from anyone under the age of 13.
