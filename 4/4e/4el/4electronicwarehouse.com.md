@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001939id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212100509id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement: Your Electronic Warehouse
+# Privacy Statement
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**. 
 
@@ -35,3 +35,8 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Customer Service Your Electronic Warehouse 2828 Broadway Quincy, IL 62301 (217) 224-6171 [customerservice@4electronicwarehouse.com](mailto:customerservice@4electronicwarehouse.com)
+
+Questions? Call us toll-free 1-866-224-6171. 
+
+  
+
