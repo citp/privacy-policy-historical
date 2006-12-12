@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624004318id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212034437id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # Translation services, translation jobs, and freelance translators
 
