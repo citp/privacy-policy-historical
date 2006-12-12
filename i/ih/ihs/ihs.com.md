@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220146id_/http%3A//www.ihs.com/About-IHS/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212173400id_/http%3A//www.ihs.com/About-IHS/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
