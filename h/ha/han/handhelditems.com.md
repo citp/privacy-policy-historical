@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615165914id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212202859id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
 
 # Handheld Toys & Accessories
 
@@ -106,5 +106,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Phone : 909-595-3326  
 Email : sales@Handhelditems.com  
 Postal Address   
-336 south lemon Ave, Walnut, CA 91789  
+377 south lemon Ave  
+Suite B   
+Walnut, CA 91789  
 Main Web site URL https://www.Handhelditems.com 
