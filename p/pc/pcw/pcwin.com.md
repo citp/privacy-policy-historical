@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615141846id_/http%3A//pcwin.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwin.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212134443id_/http%3A//www.pcwin.com/privacy_statement.html) for the most accurate reproduction.*
 
 # PCWin Resource Center - Privacy Statement
 
