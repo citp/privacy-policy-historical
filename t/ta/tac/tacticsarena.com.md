@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacticsarena.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231352id_/http%3A//tacticsarena.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticsarena.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212023405id_/http%3A//tacticsarena.com/info/privacy.php) for the most accurate reproduction.*
 
 # Tactics Arena Online - Privacy
 
