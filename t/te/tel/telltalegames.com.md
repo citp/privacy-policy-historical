@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615065238id_/http%3A//www.telltalegames.com/home%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212161032id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.*
 
-# Telltale, Inc. Privacy Policy
+# Telltale Games - Privacy Policy
 
- | 
+**Telltale Incorporated Privacy Policy for telltalegames.com**
 
 **1\. A Special Note About Children**
 
@@ -20,7 +20,7 @@ In the course of using our site, we automatically track certain information such
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friendâs name and email address. We may automatically send your friend a one-time email inviting him or her to visit the site. Telltale stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at optout@telltalegames.com to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend�??s name and email address. We may automatically send your friend a one-time email inviting him or her to visit the site. Telltale stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at optout@telltalegames.com to request that we remove this information from our database. 
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
@@ -44,7 +44,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **5\. Your use of Other Users' Information**
 
-You may not use other userâs information for commercial purposes, to spam, to harass, or to make unlawful threats. Telltale reserves the right to terminate those who misuse other userâs information or who otherwise violate the Telltale Terms of Use. 
+You may not use other user�??s information for commercial purposes, to spam, to harass, or to make unlawful threats. Telltale reserves the right to terminate those who misuse other user�??s information or who otherwise violate the Telltale Terms of Use. 
 
 **6\. Control of Your Password**
 
@@ -93,6 +93,8 @@ PO Box 9737
 San Rafael, CA 94912-9737 
 
 Telltale PRIVACY POLICY  
-Last Updated on: (July 26th, 2005) 
+Last Updated on: (July 26th, 2005)
 
-|  
+|   
+  
+---|---
