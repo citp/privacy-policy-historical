@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033211id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212093500id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
 
 # UpMyStreet - Privacy policy
 
@@ -9,7 +9,6 @@ This privacy policy forms part of UpMyStreet’s terms and conditions. Once you 
 UpMyStreet believes your right to privacy is important. To run an efficient, effective service, however, we need to collect and use certain information about our users. 
 
   * What information do we collect and why?
-  * Registering with UpMyStreet
   * How do we protect your personal details?
   * Access to your personal information
   * How do we use your personal information?
@@ -24,13 +23,9 @@ UpMyStreet believes your right to privacy is important. To run an efficient, eff
 
 #### What information do we collect and why?
 
-In general, you can browse the UpMyStreet.com website without disclosing any information about yourself.
+You can access the UpMyStreet website and browse certain areas without disclosing any personal information about yourself.
 
-Registering on our site is optional. Doing so lets you receive our monthly newsletter, access premium services and post on the Conversations service. If you choose not to register or provide personal information, you can still use the majority of the website. 
-
-Back to top
-
-#### Registering with UpMyStreet
+Registering on our site is optional. If you choose not to register or provide personal information, you can still use the majority of the website. 
 
 When you register you will be asked to submit personal information about yourself (e.g. name and email address etc.).
 
@@ -38,7 +33,7 @@ By entering your details in the fields requested, you enable us to provide you w
 
 By registering with us you’ll be opting in to receive:
 
-The UpMyStreet monthly newsletter. You can opt-out of receiving the newsletter through the Edit your profile option or by unsubscribing through the newsletter.
+The UpMyStreet newsletter. You can opt-out of receiving the newsletter through the Edit your profile option or by unsubscribing through the newsletter.
 
 USwitch.com’s Insight newsletter. uSwitch.com is UpMyStreet’s parent company, and is the UK’s leading home services and personal finance comparison and switching service. It’s free to use and impartial.
 
@@ -58,71 +53,127 @@ Back to top
 
 #### Access to your personal information
 
-You have the right to request a copy of the personal information UpMyStreet.com holds about you and to have any inaccuracies corrected. (Please note that we charge £10 for information requests.) Please address requests to the Data Protection Officer, UpMyStreet.com, 10th Floor, Portland House, Stag Place, London, SW1E 5BH.
+You have the right to request a copy of the personal information UpMyStreet holds about you and to have any inaccuracies corrected. (Please note that we charge £10 for information requests.) Please address requests to the Data Protection Officer, UpMyStreet, 10th Floor, Portland House, Stag Place, London, SW1E 5BH.
 
 Back to top
 
 #### How do we use your personal information?
 
-UpMyStreet.com may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration and analysis.
+UpMyStreet may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration and analysis.
 
 We will not rent, trade or sell your data to others.
 
 If you enter a contest or another promotion, we will use the data so that we can administer the contest and notify winners.
 
-If you have opted to receive our newsletter, we will contact you with these details.
+If you have opted to receive our newsletter and/or uSwitch.com's Insight newsletter, we will use your personal information to send these newsletters to you.
 
-We will respect your email privacy. You will not receive unsolicited mail from UpMyStreet.com and/or from third parties. We will, however, mail you occasionally with information about important changes to our service.
+If you have requested to be kept informed of services that we offer, we will contact you with these details.
+
+We will respect your email privacy. You will not receive unsolicited mail from UpMyStreet and/or from third parties. We will, however, mail you occasionally with information about important changes to our service.
 
 We monitor customer traffic patterns and site usage in order to help us develop the design and layout of the website.
 
-For these purposes we may send your information internationally, including to countries outside the European Economic Association. Other countries offer differing levels of protection for personal information, not all of which will be as high as the levels of protection offered in the UK.
+For these purposes we may transfer, store and process your personal information internationally, including to/in countries outside the European Economic Area (EEA). Other countries offer differing levels of protection for personal information, not all of which will be as high as the levels of protection offered in the UK. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 Back to top
 
 #### Email this page to a friend
 
-If you use this service, you can be sure that UpMyStreet will not collect the email addresses that you provide for other purposes. We will only hold this information for as long as is necessary to transmit the email to the recipient(s).
+If you use this service, you can be sure that UpMyStreet will not use or store the email addresses that you provide for other purposes. We will only hold this information for as long as is necessary to transmit the email to the recipient(s).
 
 Back to top
 
 #### Use of cookies
 
-During the course of any visit to UpMyStreet.com, the pages you see, along with a cookie, are downloaded onto your computer. Most websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and so probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+During the course of any visit to UpMyStreet, the pages you see, along with a cookie, are downloaded onto your computer. Most websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and so probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
 Any information that is supplied by cookies can help us to provide you with a better service and assists us in analysing the profile of our visitors.
 
-Sage Metrics, an independent measurement and research company, gathers non-personal data regarding the visits to our site on our behalf using cookies and code which is contained in the site. Both the cookies and the code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors’ screen settings and other general information. UpMyStreet.com uses this type of information to help it improve services to its users.
+Sage Metrics, an independent measurement and research company, gathers non-personal data regarding the visits to our site on our behalf using cookies and code which is contained in the site. Both the cookies and the code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors’ screen settings and other general information. UpMyStreet uses this type of information to help it improve services to its users.
 
 To disable the code contained in the site, you will need to send requests directly to <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
 
 Further information regarding Sage Metrics’ privacy statement can be found at <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
 
-To enable cookies for Internet Explorer version 6, do the following:
+If your email address and password are correct, but you still can't log in, you may need to set your Internet Browser to accept cookies.
 
-  1. From the menu at the top of your web browser, select ‘Tools’ and then ‘Internet Options’.
-  2. From the screen that appears next, select the ‘Security’ tab.
-  3. From the next screen that appears, you should select the ‘Custom Level’ button.
-  4. Locate the Cookies options - about a quarter of the way down the list.
-  5. Make sure the ‘Allow cookies that are stored on your computer’ and ‘Allow per-session cookies’ buttons are checked.
-  6. Click OK.
+A cookie is a kind of identification card which your computer has. This enables a website to recognise your computer if you've visited before.
 
+In order to enable cookies on the computer you are using, choose the browser version you are using and follow the instructions below:
 
+**Microsoft Internet Explorer (version 6.0+)**
 
-To enable cookies for Internet Explorer version 5 or earlier, do the following:
-
-  1. From the menu at the top of your web browser, select ‘Tools’ and then ‘Internet Options’.
-  2. From the screen that appears next, select the ‘Privacy’ tab.
-  3. On the ‘Privacy’ tab, move the slider to ‘Medium’.
-  4. Click OK.
+  1. Go to 'Tools'
+  2. Select 'Internet Options'
+  3. Go to the 'Privacy' Tab
+  4. Click the 'Default' button, or manually slide the bar down to 'Medium', under 'Settings'
+  5. Click 'OK'
 
 
 
-To enable cookies for Netscape Navigator, do the following:
+**Microsoft Internet Explorer (version 5.*)**
 
-  1. From the menu at the top of your web browser, select ‘Edit’ and then choose ‘Preferences’.
-  2. A new screen will appear. Click on the ‘Advanced’ tab, then look under the ‘Cookies’ area to make sure you have ‘Accept all cookies’ checked.
-  3. Click OK.
+  1. Go to 'Tools'
+  2. Select 'Internet Options'
+  3. Go to the 'Security' Tab
+  4. Click on 'Custom Level'
+  5. Scroll down to the 'Cookies' section
+  6. Set 'Allow Cookies that are stored on your computer' and 'Allow per-session cookies' to 'Enable'
+  7. Click OK
+
+
+
+**Microsoft Internet Explorer (version 4.*)**
+
+  1. Go to 'View'
+  2. Select 'Internet Options'
+  3. Select the 'Advanced' Tab
+  4. Go to 'Security'
+  5. Scroll down to 'Cookies' and select 'Always accept cookies'
+  6. Click 'OK'
+
+
+
+**Mozilla Firefox (1.0 final release and earlier)**
+
+  1. Go to 'Tools'
+  2. Select 'Options'
+  3. Go to the 'Privacy' icon in the left panel
+  4. Select 'Allow the sites to set cookies' box
+  5. Click OK to save changes
+
+
+
+**Netscape (version 7.1) / Mozilla (version 5.0)**
+
+  1. Go to 'Edit'
+  2. Select 'Preferences'
+  3. Click on the arrow next to 'Privacy and Security' in the scrolling window to expand
+  4. Under 'Privacy and Security', select Cookies
+  5. Choose 'Enable all cookies'
+  6. Click 'OK'
+
+
+
+**Netscape Communicator (version 4.*)**
+
+  1. Go to 'Edit'
+  2. Select 'Preferences' and go to the 'Advanced' category 
+  3. Find the 'Cookies' section
+  4. Select 'Accept all cookies' (or 'Enable all cookies')
+  5. Click OK
+
+
+
+If you're still experiencing difficulties, please try the following instructions to allow UpMyStreet to be viewed whilst still keeping your privacy settings the same:
+
+**Microsoft Internet Explorer (version 6.0+)**
+
+  1. Go to 'Tools'
+  2. Select 'Internet Options' and go to the 'Privacy' tab
+  3. Scroll down and Click on 'Edit'
+  4. Type 'http://www.upmystreet.com' in the 'Address of the Website' box.
+  5. Click 'Allow', then 'OK'
 
 
 
@@ -136,7 +187,7 @@ Back to top
 
 #### Your consent
 
-By disclosing your personal information to UpMyStreet.com, you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy policy.
+By disclosing your personal information to UpMyStreet, you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy policy.
 
 Back to top
 
