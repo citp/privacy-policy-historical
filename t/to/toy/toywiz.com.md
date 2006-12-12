@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the toywiz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045536id_/http%3A//www.toywiz.com/toysecandpri.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toywiz.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212065156id_/http%3A//toywiz.com/toysecandpri.html) for the most accurate reproduction.*
 
 # Our Privacy and Security Policies
-
-|   
-
 
 ToyWiz is committed to respecting the privacy and security of your personal information. We will never compromise either one. We truly value and appreciate each and every customer.
 
@@ -18,60 +15,3 @@ ToyWiz is committed to respecting the privacy and security of your personal info
 
 **Questions and Feedback  
 **We welcome your questions, comments, and concerns about privacy. Please send us any and all [ feedback](mailto:toywizcustomerservice@yahoo.com?subject=Re:%20ToyWiz%20Privacy%20Policy) pertaining to privacy, or any other issue.
-
-  
-
-
-| 
-
- ** |  | 
-
-**If an item is marked 'Pre-Order',  
-**the item has not yet arrived from the manufacturer. The month listed is the most current info. For more details [click here](https://web.archive.org/web/20060615045536id_/http%3A//www.toywiz.com/ourpreorpol.html)
-
-|   | 
-
-**Need your order by tomorrow?  
-**Call **845-624-1995** to arrange for **  
-Overnight Delivery** (excludes Sunday)    
-Office hours are 10am-8pm Mon-Fri est.   
-  
----|---|---  
-  
-* * *  
-  
-| 
-
-| 
-
-**  What's Hot Now...**  
-  
----|---  
-**  
-  
-| | |   
-| | |   
-  
-  
-| 
-
-**
-
-advertisement  
-
-
-advertisement
-
-  
-  
-  
-advertisement  
-  
-  
-advertisement  
-
-
-**
-
-  
-
