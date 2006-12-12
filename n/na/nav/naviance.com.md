@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162210id_/http%3A//naviance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212165854id_/http%3A//naviance.com/privacy.html) for the most accurate reproduction.*
 
 # Naviance | Manage. Communicate. Analyze. | CONTACT
 
@@ -20,11 +20,11 @@ Our websites contain links to other websites. In addition, Naviance provides an 
 
 ## Opt-Out Policy
 
-Except with respect to necessary communications regarding Client services and accounts, Naviance offers Clients a means to choose how we may use information provided to contact you. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Please send your request to support@naviance.com.
+Except with respect to necessary communications regarding Client services and accounts, Naviance offers Clients a means to choose how we may use information provided to contact you. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Please send your request to [support@naviance.com](mailto:support@naviance.com).
 
 ## Correcting and Updating Your Information
 
-Clients and users may update or change their information by contacting us, or in some cases, Clients may update their own records by signing into the relevant service and updating that information on-line. For assistance, please send your request to support@naviance.com.
+Clients and users may update or change their information by contacting us, or in some cases, Clients may update their own records by signing into the relevant service and updating that information on-line. For assistance, please send your request to [support@naviance.com](mailto:support@naviance.com).
 
 ## Additional Information
 
