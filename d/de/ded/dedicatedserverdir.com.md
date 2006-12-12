@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedserverdir.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626060239id_/http%3A//www.dedicatedserverdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedserverdir.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212050246id_/http%3A//www.dedicatedserverdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Dedicated Server Directory: The best free source of dedicated hosting providers in a searchable dedicated servers directory. Powerful dedicated server search engines, reviewed providers, awards, news and much more!
 
