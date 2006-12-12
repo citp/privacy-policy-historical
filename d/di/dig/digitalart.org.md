@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616192224id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212141353id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
 
 # digitalart.org - Privacy Statement
 
