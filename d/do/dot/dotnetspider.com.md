@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204311id_/http%3A//www.dotnetspider.com/team/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213005135id_/http%3A//www.dotnetspider.com/team/Privacy.aspx) for the most accurate reproduction.*
 
 # dotnetspider.com Privacy Policy
 
-[Home](http://www.dotnetspider.com/ "Home") » Privacy Policy   
-dotnetspider.com privacy policy
+[Home](http://www.dotnetspider.com/ "Home") » Privacy Policy dotnetspider.com privacy policy
 
 At dotnetspider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting dotnetspider.com, you are accepting this privacy policy and our terms & conditions. 
 
@@ -31,7 +30,7 @@ We use advertisements from third party companies. We try to avoid any kind of of
 
 As we continue to develop and grow our web site, we may sell dotnetspider.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
-If you have any questions, please write to [ webmaster-5@DotNetSpider.com](mailto:webmaster-5@DotNetSpider.com?subject=privacy%20policy). 
+If you have any questions, please write to [ webmaster-5@dotnetspider.com](mailto:webmaster-5@dotnetspider.com?subject=privacy%20policy). 
 
 **Partners**   
 
