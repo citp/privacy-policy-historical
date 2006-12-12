@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Contact Any Celebrity - Now you can contact any celebrity!
 
-**Welcome to the Contact Any Celebrity Privacy. This page was last updated on January 1, 2006.**  
-Contact Any Celebrity is an Mega Niche Media property.
+**Welcome to the Contact Any Celebrity Privacy. This page was last updated on January 1, 2006.  
+**  
+Contact Any Celebrity the property of Mega Niche Media.
 
 Contact Any Celebrity is very sensitive to the privacy and security concerns that individuals have expressed regarding personal information and it's use. The following pages, presented in a Question and Answer format, outline general information about Contact Any Celebrity, our customers, and the information we distribute.
 
-**Our mailing address is:**  
+**Our mailing address is:  
+**  
 Contact Any Celebrity  
 8721 Santa Monica Boulevard #431  
 Los Angeles, CA 90069-4507
@@ -68,16 +70,16 @@ Safety and Security Tips:
 * If using a public computer or terminal, always log out when you complete an online session.
 * Keep your login information private, do not share it with anyone, and store it in a safe place.
 
-**[Join Now!](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/join/index.htm)  |  [Member Login](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/members/index.htm)  |  [Help Desk](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/help/index.htm) | [Testimonials](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/testimonials/index.htm)**
+**[Join Now!](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/join/index.htm)  |  [Member Login](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/members/index.htm)  |  [Help Desk](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/help/index.htm) | [Testimonials](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/testimonials/index.htm)**
 
-[Affiliate Program](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/affiliates/index.htm) | [Article Archives](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/articles/index.htm) | [Privacy Policy](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/privacy/index.htm) | [Terms & Conditions](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/terms/index.htm) \- [ Visit Our Blog!](http://contactanycelebrity.blogspot.com/)
+[Affiliate Program](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/affiliates/index.htm) | [Article Archives](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/articles/index.htm) | [Privacy Policy](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/privacy/index.htm) | [Terms & Conditions](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/terms/index.htm) \- [ Visit Our Blog!](http://contactanycelebrity.blogspot.com/)
 
 [ ](http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=13166376)
 
-**[Contact Any Celebrity](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/index.htm)  
+**[Contact Any Celebrity](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/index.htm)  
 **8721 Santa Monica Blvd. #431  
 Los Angeles, CA 90069-4507  
-[Contact Us](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/help/index.htm)
+[Contact Us](https://web.archive.org/web/20061212220348id_/http%3A//contactanycelebrity.com/help/index.htm)
 
 Copyright © Mega Niche Media.  
 All rights reserved..
