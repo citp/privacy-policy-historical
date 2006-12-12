@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623224643id_/http%3A//jeeran.com/privacy.aspx%3Flang%3De) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212023421id_/http%3A//www.jeeran.com/privacy.aspx%3Flang%3De) for the most accurate reproduction.*
 
 # jeeran.com - Arab Web Hosting Community - موقع الإستضافة العربي
 
