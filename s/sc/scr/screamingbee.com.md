@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screamingbee.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616014207id_/http%3A//www.screamingbee.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamingbee.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212102337id_/http%3A//www.screamingbee.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Voice Changing Software - Screaming Bee
 
