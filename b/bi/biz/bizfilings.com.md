@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221321id_/http%3A//www.bizfilings.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213171031id_/http%3A//bizfilings.com/privacy.asp) for the most accurate reproduction.*
 
-# BizFilings Privacy Policy
+# Incorporate: Incorporation,LLC,Nonprofit - BizFilings
+
+| 
+
+## BizFilings Privacy Policy 
 
 **BizFilings respects the privacy of the users of our services and Web site. To that effect, we have instituted the following Privacy Policy:**
 
@@ -24,3 +28,5 @@ Customers may prevent their information from being used for purposes other than 
 Upon request we will provide customers with access to their own records. Customers can access and correct this information by e-mailing us at [info@bizfilings.com](mailto:info@bizfilings.com) or calling us at (800) 981-7183.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+| 
