@@ -1,0 +1,145 @@
+> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213154026id_/http%3A//www.versus.com/article/view/731/%3Ftf%3DfooterArticles.tpl) for the most accurate reproduction.*
+
+# Versus
+
+At VERSUS, your privacy is very important to us. VERSUS is committed to contributing to providing a safe and secure Internet environment. The following Privacy Policy applies to all the sites owned and operated by VERSUS, and we ask you to read it thoroughly. This Privacy Policy is derived from pledges that we make to you, our users:  
+
+
+\- We pledge that we will not provide anyone with personally identifiable information about you without your permission (except as needed to provide to you the services you have expressly requested, as explained in greater detail below).  
+
+
+\- We pledge that we will provide mechanisms for you to communicate your privacy questions and concerns to us and that we will respond to them thoughtfully and thoroughly.  
+
+
+ **Your Consent**
+
+ **By visiting versus.tv, you consent to the information collection and use practices outlined in this Privacy Policy.  
+**
+
+If we make significant changes to this policy, we will post them on this page so that you can be aware of what information we collect and how we use it. Changes are effective when posted to this page and will apply to all information that we have about you. Your continued use after any change is posted indicates your acceptance of such change.  
+
+
+ **Helpful Definitions  
+** "Personally identifiable information" is information-such as your name, birth date, e-mail address or mailing address-that can be used to uniquely identify you.  
+
+
+"Anonymous Information" is not personally identifiable information. Anonymous information is information on how you use our site (such as places visited and search queries performed). Anonymous information also includes the domain names and/or I.P. addresses (as explained in greater detail below) of browsers that visit our site, time of day the site was visited, and other non-personally identifiable information. Anonymous information is information that is not tied to any individual.  
+
+
+ **Collection and Use of Personally Identifiable Information  
+**
+
+ **Registration  
+** We want to assure you that you can visit our site and use many of our services without telling us who you are or revealing any personally identifiable information about yourself to us. It is only when you register to become an versus.tv member or register for certain versus.tv services that you will be asked to provide us with personally identifiable information.  
+
+
+Although the majority of our services do not require any form of customer registration, we do require registration for certain services (in which personally identifiable information is furnished; e.g., web stores, eNewsletters, etc.). During this registration process we require you to complete certain fields, offer optional fields for you to complete, and ask you to select a user name and password. For example, we ask for contact information (such as first and last name, email address, state or province and country). VERSUS will use this contact information to:  
+
+
+\- Welcome you to the versus.tv network.  
+
+
+\- Send communications from us about new features and services available through versus.tv.
+
+- VERSUS may use your contact information to send email advertisements about upcoming programming or events on VERSUS.  
+
+
+\- Share your information with select sponsors and partners who work with versus.tv.  
+
+
+\- Allow our sponsors and partners to communicate with you, but only if you tell us you want to receive these communications about their services and offers.  
+
+
+\- If you indicate to us that you do not want to receive certain types of communications at the time of registration, we will respect your wishes, and comply with your preferences.  
+
+
+ **Contests, Etc.  
+** From time to time, we may run contests on our site in which we ask participants for contact information, such as their email address(es). If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about versus.tv, our services, as well as offers tailored to your interests by our advertisers and sponsors, if you have opted to receive these communications. You may choose to opt-out of receiving such mailings at the time of registration for the contest, or afterwards.  
+
+
+ **Accessing and Correcting Your Information  
+** You can access certain personally identifiable information that VERSUS has collected from you for the limited purpose of viewing and correcting that information. You can correct and update the information you provide versus.tv by contacting our Webmaster at [webadmin@olntv.com](mailto:webadmin@olntv.com)
+
+ **Sharing Personally Identifiable Information with Third Parties  
+** Other than as described in this Privacy Policy, we will not share your personally identifiable information with any third party unless we have first given you notice that we might share your data (as we do in our registration form) and you have authorized us to do so. We may share your personally identifiable information with VERSUS' affiliate companies that control, are controlled by or under common control with VERSUS. In addition, we may share your personally identifiable information with other companies and individuals that perform supporting functions on our behalf for the various products and services offered through versus.tv. These service providers are not permitted to use your personally identifiable information for any purpose other than performing the support functions for versus.tv. Our partners who receive information from us have the right to use the data we provide them (sometimes, in connection with other information they may have gathered about you), but are generally prohibited from sharing this information with other companies or people. Please understand that once your information is disclosed to an VERSUS affiliate or partner in accordance with this Privacy Policy, we do not provide a means of opting-out of any communications that affiliate or partner may send to you and you should contact such affiliate or partner directly for information about any available opt-out procedures.  
+
+
+PLEASE NOTE: In certain special cases, we may disclose your personally identifiable information when we have reason to believe that disclosing this information is necessary to protect the rights, property or personal safety of VERSUS, its employees, other users of versus.tv or others or to enforce the versus.tv Terms of Use. We may also disclose your personally identifiable information when we believe the law requires it, or in response to any demand by law enforcement authorities or to comply with legal process, such as a court order or subpoena.  
+
+
+ **Asset Transfers  
+** We continue to develop our business and in doing so we might choose to buy other businesses or assets. User information that another company has collected from you may be included in the transferred assets that we acquire in such a purchase. Also, if some or all of our assets are acquired by a third party through a sale or other transaction, user information, including the information collected from you through this Site, may be included in the transferred assets.  
+
+
+ **Collection and Use of Other Information  
+**
+
+ **Anonymous Information  
+** When you use our site, we collect anonymous information, even if you have not registered with versus.tv. We use this information to personalize your experience at all the sites that VERSUS operates, show you more relevant advertising messages, and generally to improve our services. VERSUS will not share any anonymous information about your use of our site with third parties if we know that this anonymous information will be linked by third parties with personally identifiable information of yours obtained from another source, unless we have given you notice as described above and you have given us authorization to do so.  
+
+
+ **Cookies  
+** A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies are harmless bits of code that an Internet site assigns to your browser to keep track of who you are when you visit or make purchases. There is no risk of the information on your hard drive being exposed to the outside world since a web site can only read the cookies it creates.  
+
+
+We use cookies to help us provide customizable services and to allow you to sign-in to our site. For example, we can store your zip code in a cookie that enables us to display your local weather each time you visit our site. Cookies also make web surfing easier for you by saving your preferences while you're on our site. Cookies may also be used by versus.tv partners on co-branded Web pages, as explained below in "third party relationships," so please be aware of this as you visit these web pages.  
+
+
+You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features will not work as intended.  
+
+
+ **Use of IP Addresses  
+** An Internet Protocol (IP) address is a set of numbers that is assigned to your computer. Web servers - the powerful computers that provide web pages for viewing - automatically identify your computer by the IP address assigned to it during your session online.  
+
+
+VERSUS may collect IP addresses for purposes of system administration, to report anonymous user information to our advertisers (as explained above), and to audit the use of our site. We can and will use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's terms of use or terms of service, or to protect our service, site, or other users. We will not share or sell linked user behavior and personal user information with any sponsors or third parties unless you have given us authorization to do so.  
+
+
+PLEASE NOTE: Under certain circumstances, IP addresses and/or domain names may be linked to personally identifiable information, when said information is stored in databases managed by Internet registrars or registries such as Network Solutions.  
+
+
+ **Third Party Relationships  
+** In order to provide you with news and features that match your interests, versus.tv has relationships with many media and services companies throughout the world. You can recognize these sites by the joint branding of VERSUS and such companies. If you ever have any questions about whether certain information, content or services pertain to us, or are "powered by" one of our partners, please contact us at [feedback@olntv.com](mailto:feedback@olntv.com).  
+
+
+Whenever you provide registration information on certain co-branded web pages or for certain services provided in conjunction with third party partners, we want to be clear that some data you provide is shared with partners. You should make every effort to read the privacy policies provided by or in association with such third parties, and make an informed decision on your own whether or not to continue utilizing the services based upon the privacy policies posted on these co-branded web pages, at your own discretion. However, we will make every effort to ensure that you have the ability to opt-out of the sharing of such data with partners. You may email us directly at [feedback@olntv.com](mailto:feedback@olntv.com) and we will forward your request to the appropriate company, and help you follow up to ensure that your concerns are adequately handled.  
+
+
+In addition to finding co-branded web pages, you will find direct links on versus.tv to the sites offered by third parties. Some of these sites are authorized to use the versus.tv brand and/or logo. Again, you should read these third party privacy policies, and make an informed decision on your own as to whether or not to continue based upon these sites' privacy practices, at your own discretion. Third-party sites are NOT covered by this Privacy Policy.  
+
+
+VERY IMPORTANT: If you feel that a site using the VERSUS brand and/or logo has not posted an acceptable privacy policy, or is not following the privacy policy it has posted, please send us an email at [feedback@olntv.com](mailto:feedback@olntv.com). We will endeavor to forward complaints to the appropriate third parties and help you follow up to ensure that your concerns are adequately handled.  
+
+
+ **Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please click here: <http://www.doubleclick.net/us/corporate/privacy>  
+
+
+**Miscellaneous**  
+
+
+ **Security  
+** VERSUS operates secure data networks protected by an industry standard VPN, Private Network LAN, and password protection. VERSUS has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to or from versus.tv and you acknowledge that such transmissions are at your own risk. Once we receive a transmission from you, we will attempt to ensure its security on our systems.  
+
+
+Only authorized employees have access to the information you provide us. For example, we impose strict rules on VERSUS employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur; we will make every effort (such as the use of employee passwords and non-disclosure agreements) to prevent such unfortunate occurrences.  
+
+
+ **Children**  
+versus.tv is a general audience website and no portion of versus.tv is directed to children under the age of 13. We do not collect personal identifying information from any person we actually know is a child under the age of 13.  
+
+
+ **Your California Privacy Rights**. California law provides California residents the right to request from VERSUS (1) a list of the categories of personally identifiable information that VERSUS has disclosed to third parties for direct marketing purposes and (2) the names and addresses of all such third parties. If you would like to request this information, please send your request to VERS at 2 Stamford Plaza. 281 - Tresser Blvd. - Stamford, CT 06901.
+
+ **Contacting Us**  
+If you have questions about this Privacy Policy or the practices of this site, please contact:  
+
+
+Customer Service - versus.tv  
+c/o Outdoor Life Network  
+Two Stamford Plaza  
+281 Tresser Blvd.  
+Stamford, CT 06901  
+203-406-2500 phone  
+203-406-2534 fax  
+
