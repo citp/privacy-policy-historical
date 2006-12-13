@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616025232id_/http%3A//www.subaru.com/common/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213205751id_/http%3A//www.subaru.com/common/privacy_policy.jsp) for the most accurate reproduction.*
 
 # SUBARU TOOLS : PRIVACY POLICY
 
