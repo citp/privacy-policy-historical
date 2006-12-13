@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040820id_/http%3A//freeview.co.uk/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213190501id_/http%3A//www.freeview.co.uk/legal/privacy.php) for the most accurate reproduction.*
 
-# Freeview
+# 
 
 ## privacy policy...
 
@@ -8,7 +8,7 @@
 
 Information DTVS collects such as the domain from which you access the Internet, the date and time you access our site, and the Internet address of the Web site from which you linked directly to our site is statistical only and not personally identifiable. DTVS will use information about the number of visitors and their use of the site in aggregate form to make this site more useful and attractive. 
 
-DTVS provides a "Can you get FREEVIEW" facility on the site. The postcode information you submit to the site is not used by DTVS for any purpose other than to assist you in finding out whether you can receive Freeview at your address.
+DTVS provides a "Can you get Freeview" facility on the site. The postcode information you submit to the site is not used by DTVS for any purpose other than to assist you in finding out whether you can receive Freeview at your address.
 
 DTVS has technological and operational security policies and procedures in place to protect your personally identifiable information from loss, misuse, alteration or unintentional destruction. Access to your personal information is restricted to only those employees who have a need to access such information to perform their specific duties. Our employees have been trained to comply with our security policies and procedures. 
 
@@ -28,6 +28,6 @@ This Privacy Policy only applies to this the DTVS site. It does not apply to any
 
 We reserve the right to make changes to this Policy from time to time and reserve the right to do so. Any changes to the Policy will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this Policy. 
 
-DTVS recognises its responsibility for protecting the privacy of your personal information. If you have questions or comments about our administration of your personal information, please write to: FREEVIEW, PO BOX 26808, Kirkcaldy, KY2 6ZE.
+DTVS recognises its responsibility for protecting the privacy of your personal information. If you have questions or comments about our administration of your personal information, please write to: Freeview, PO BOX 26808, Kirkcaldy, KY2 6ZE.
 
-[](https://web.archive.org/web/20060615040820id_/http%3A//freeview.co.uk/)
+[](https://web.archive.org/web/20061213190501id_/http%3A//www.freeview.co.uk/)
