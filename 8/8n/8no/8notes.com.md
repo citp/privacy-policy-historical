@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210828id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213011634id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 8notes.com Privacy Policy
 
@@ -42,3 +42,13 @@ By using our web site, you consent to the collection and use of this information
 8notes.com welcomes your questions and comments about privacy. Please send e-mail to [admin@8notes.com](mailto:admin@8notes.com). 
 
 Top of Page
+
+|    
+  
+  
+   [Buy & Sell Visual Art](http://www.visualartnow.com/)  
+   [Composition Competitions](http://www.compositiontoday.com/)  
+   [UK Writers' Community](http://www.writewords.org.uk/)  
+   [Ram Upgrades](http://www.codetoad.com/store/ram-memory/)  
+   [CodeToad](http://www.codetoad.com/)   
+
