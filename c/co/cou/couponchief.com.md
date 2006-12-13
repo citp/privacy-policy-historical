@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629021621id_/http%3A//www.couponchief.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213215252id_/http%3A//www.couponchief.com/privacy.html) for the most accurate reproduction.*
 
 # Online Coupons, Coupon Codes, and Online Shopping Discounts and Deals from CouponChief.com
 
