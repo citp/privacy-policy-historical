@@ -1,197 +1,85 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2006-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060404112547id_/http%3A//www.coursework.info/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213162035id_/http%3A//www.coursework.info/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Coursework.Info
 
-**You are in:**  
-[Home](http://www.coursework.info/) > [About Coursework.Info](http://www.coursework.info/about/) > Privacy Statement
+[Home](http://www.coursework.info/) > [About Us](http://www.coursework.info/about/) > Privacy Statement 
 
-### Information about our Organisation and Web site
+## Privacy Statement
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like Coursework.Info . We are based in United Kingdom . 
+Coursework.info is owned and run by Acumen Professional Intelligence Ltd.
 
-Our principal activity is: Online Service 
+## Introduction
 
-Our privacy policy covers Coursework.Info and its Web site: 
+Coursework.info is sensitive to privacy issues on the internet. We believe that it is important you know how we treat the information about you, which we receive from you. To this end we have created the following privacy statement to demonstrate our firm commitment to privacy on the internet and especially within the use of this website.
 
-** Organisation Name:  |  Coursework.Info   
----|---  
-Address:  | 
+## General Privacy Statement
 
-> Acumen Professional Intelligence Limited,  
->  17 Badminton Road,  
->  St Agnes,  
->  Bristol,  
->  BS2 9QJ,  
->  United Kingdom  
->   
-  
-City, Zip:  |   
-Country:  |  United Kingdom   
-Controller:  |  Coursework.Info   
-Web Sites(s):  |  http://www.coursework.info/   
-**
+In general you can visit Coursework.info without telling us who you are or revealing any personally identifiable information about you. Our servers automatically collect domain names, IP addresses, browser details, your country of origin and how you got to the site (via the use of cookies and server generated technology – please see the section ‘What are cookies’ for more information). This information is aggregated to measure things such as the number of visits, time spent on the site, pages viewed etc. Coursework.info uses this information to measure the use of our site and to improve the service we offer to you. Personally identifiable information such as email address, home address, first and last names, and other such identifiable information is only known when voluntarily provided by a visitor for the purpose of registration.
 
-Our privacy policy also covers our subsidiary and its Web site: 
+Personally identifiable information that is collected in response to the use of this site is retained by Coursework.info, and only used in the improvement of services and in contact from us, to the user. We do not sell, transfer or otherwise disclose this information outside this company, except:
 
-### Providing Visitors with Anonymous Access
+• where disclosure is required by law or;
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+• when the visitor chooses to register using the online payment method (i.e. via debit or credit card). Some or all of this information is passed to our payment processor, WorldPay, in order for them to safely and securely process the payment information. WorldPay are a division of The Royal Bank of Scotland, and hold and process all sensitive information securely (please contact WorldPay via the contact link on their website – [www.worldpay.com](http://www.worldpay.com/) \- for information on their Privacy Statement, and security measures).
 
-### The services and links of our Web site
+• through content related and relevant email advertisements (any email advertisement is sent out by us, and none of your personally identifiable information is disclosed to the advertiser).
 
-Our Web site enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. 
+• when you elect to submit work to our site to gain access to the database. All work that you elect to submit will be submitted, along with your name (no further infomation is submitted), to plagiarism detection software. The purpose of this is to protect your work against reproduction by other users. This information will not be passed further than the plagiarism detection software, and will be securely stored.
 
-Our Web site does not include links to third party Web service providers. 
-
-### Automatic Collection of Information
-
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes: 
-
-  * Technical administration of the Web site 
-  * Research and development 
-  * Customer administration 
-
-
-
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
-
-  * Technical administration of the Web site 
-  * Customer administration 
-
-
-
-### Data Collection and Purpose Specification
-
-We collect the personal data that you may volunteer while using our services. 
-
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
-
-To access the table of personal data collected and purposes for which they are used, please  click here 
-
-We may collect and use personal data for the additional purposes of: 
-
-  * To prevent fraudulent use 
-  * To prevent non-paying customers from accessing the site 
-
-
-
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: by indicating in a box at the point on the site where personal data is collected 
-
-### Children's Privacy
-
-We do not knowingly collect personal data from children. 
-
-We take specific steps to protect the privacy of children by: 
-
-
-
-
-Additionally, to ensure that children's privacy is respected on our Web site, we: 
-
-  * do not allow children under the age of 13 to sign up. 
-
-
-
-We do provide information about our personal data practices in relation to children on our home page and wherever we knowingly collect personnal data from children on our Web site. 
-
-### Disclosure and Visitor Choice
-
-We do not disclose your personal data to our subsidiaries or other organisations. 
-
-Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure: 
-
-
-
-
-### Confidentiality / Security
-
-We give you the option of using a secure transmission method to send us the following types of personal data: 
-
-  * primary personal data (such as name and contact details) 
-  * identifiers (such as credit card details, Web site password) 
-
-
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-### Access to the personal data we may hold about you
-
-You can ask us, by: 
-
-  * sending an email ( personal_information[at]coursework.info ) 
-  * visiting this url ( http://www.coursework.info/page?p=contact ) 
-
-
-
-whether we are keeping personal data about you. 
-
-Upon request, which you can indicate by: 
-
-  * sending an email ( personal_info[at]coursework.info ) 
-  * visiting this url ( http://www.coursework.info/page?p=contact ) 
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you, within a week. \- although we may before require proof of your identity -. We will provide the information without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-  * rectified or amended 
-  * completed 
-
-
-
-We do not reserve the right to refuse to provide you with a copy of your personal data. 
-
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
-
-### Privacy Compliance
-
-Our privacy policy is compliant with the following instrument: Data Protection Act 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation. 
-
-We cannot demonstrate that our privacy policy accords with the privacy instrument. 
+It is your responsibility to keep your site log in information secure when it’s in your possession. If you are using a shared computer, please ensure you log out of Coursework.info or close down the browser before leaving the computer for the next user.  
+This site contains links to other sites. We are not responsible for the privacy practices or content of such Websites.
 
   
 
 
-####  Primary personal data/Business information 
+## What is a cookie?
 
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
+The information supplied by a cookie can help us provide you with a better online experience and assist us in the profile of our visitors. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computer and stored on your computer's hard drive. Each website can send its own cookie to your browser, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. You have the option to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these means that personalised services cannot be provided to that user and accordingly you may not be able to take full advantage of all of the Coursework.info features. For more information on cookies please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+
   
-####  Other personal details and profiling data 
 
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
+
+## How we use IP addresses
+
+We may use your IP address to help diagnose any problems with our server or to administer Coursework.info. Your IP address may be used to help identify you and to gather broad demographic information that helps us understand our users requirements.
+
   
-####  Identifiers 
 
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
+
+## Security
+
+Coursework.info has security measures in place to protect the loss, misuse and alteration of information under its control. Please try and keep your log in information (username and/or password) secure at all times. If you suspect that the security of your log in information has been breached you can gain access to your members account area and change both your password and email address under the option ‘Change your E-mail address or Password’.
+
+## Children
+
+Coursework.info is intended for general use and does not knowingly collect personal data from children. We take specific steps to protect the privacy of children by not allowing minors (users under 18 years of age) to sign up to the site unless given permission by a parent or legal guardian (please see our Terms of Service clause 8 for full details). Parents and legal guardian’s should supervise the online activities of their children, and should consider the use of parental control tools available from online services and software providers that help provide a child-friendly Internet environment.
+
   
-####  Specific Data 
 
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations 
+
+## Viewing and correcting your personal information
+
+In the majority of cases, Coursework.info will allow you to view any information that is held about you if you ask for it either in an email or in writing. If you then inform us that part or all of the information is incorrect, we will review it. If we also believe that it is incorrect, we will then correct our records.
+
+  
+
+
+## Third Party Advertisements
+
+Any advertisement appearing on this website (banner and/or skyscraper) is delivered to you, on our behalf, by our web advertising partner. Information about your visit, such as the number of times you have viewed an advert (but no personally identifiable information), is used to serve the adverts.
+
+  
+
+
+## Contacting Coursework.info
+
+If you have any questions about this privacy statement, the conduct of Coursework.info or your use of the service this website provides, you can contact:
+
+Coursework.info  
+Acumen Professional Intelligence Ltd  
+17 Badminton Rd  
+St Agnes  
+Bristol  
+BS2 9QJ
+
+support@coursework.info
