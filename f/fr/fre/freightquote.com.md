@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the freightquote.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231248id_/http%3A//freightquote.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freightquote.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213060616id_/http%3A//www.freightquote.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Freightquote.com. Compare carriers, manage freight shipments online.
+# Freightquote.com
 
-**Freightquote.com ®** is the leading provider of web-based freight transportation management services for small businesses. Our tools allow shipping customers to compare a wide range of carriers, choose the best rate and service for their needs, and manage all their shipments with one simple solution. **Privacy Statement**  
+**Freightquote.com ®** is the leading provider of web-based freight transportation management services for small businesses. Our tools allow shipping customers to compare a wide range of carriers, choose the best rate and service for their needs, and manage all their shipments with one simple solution.
+
+* * *
+
+**Privacy Statement**  
 Freightquote.com has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Freightquote.com web site.
 
 Freightquote.com collects various information for various purposes. The information collected is used to market and improve the services we offer, to improve our web site content, and to contact customers or vendors with service updates, technical updates, or for other marketing purposes. If you have questions or concerns regarding this statement, you should contact Freightquote.com by email at [contactus@freightquote.com](mailto:contactus@freightquote.com) or by phone at 800.323.5441.
@@ -15,7 +19,7 @@ During the registration process, Freightquote.com requires users to give us cont
 
 During the shipment administration process, Freightquote.com requests shipment information from the user in order to process their shipment. This information includes shipping and receiving addresses, product descriptions and the date and time of the shipment. Freightquote.com utilizes this information to generate an electronic pickup with a freight carrier and to forward the necessary shipping documents to the shipping or receiving parties. All of this information is required in order to correctly process a shipment request.
 
-Freightquote.com allows the user to create an address book to simplify and speed up the shipment process. Freightquote.com may contact a stored address of a user if a shipment tendered by a user cannot be delivered or for other business purposes.
+Freightquote.com allows the user to create an address book to simplify and speed up the shipment process. Freightquote.com may contact a stored address of a user if a shipment tendered by a user cannot be delivered.
 
 Information Sharing and Access  
 Contracted agents enroll new users by submitting account information to Freightquote.com such as: company name, address and email address. Freightquote.com uses this information to create new accounts. A contracted agent can access only the account and shipment information for those users they have enrolled. Contracted agents have no direct access to any Freightquote.com databases.
@@ -39,7 +43,7 @@ Freightquote.com gives users the following options for changing and modifying in
   * Email us your request at [contactus@freightquote.com](mailto:contactus@freightquote.com)
   * Call us with your request at 800.323.5441
   * Submit any edits via the "My Account Info" link on our website
-  * Mail written instructions to: Freightquote.com; 16025 W 113th St, Lenexa KS  66219
+  * Mail written instructions to: Freightquote.com, Inc.; 16025 West 113th Street, Lenexa, KS 66219
 
 Users may check the privacy statement periodically to view any changes or updates.
 
@@ -50,6 +54,6 @@ If you have any questions about this privacy statement, the practices of this si
 ---|---  
 phone: | 800.323.5441  
 Mailing Address:  
-| Freightquote.com  
-| 16025 W 113th St  
-| Lenexa KS  66219
+| Freightquote.com, Inc.  
+| 16025 West 113th Street  
+| Lenexa, KS 66219
