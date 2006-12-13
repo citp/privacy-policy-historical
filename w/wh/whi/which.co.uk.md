@@ -1,73 +1,98 @@
-> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616021055id_/http%3A//www.which.co.uk/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213034459id_/http%3A//www.which.co.uk/utilities/U/Utilities/privacy/Privacy_generic_481_62938.jsp) for the most accurate reproduction.*
 
-# Which? Privacy policy
+# Privacy
 
-  
-
-
-#### Which? privacy policy
-
-Welcome to the Which? privacy policy. Our Campaigns, Press and About us websites are operated by Consumers' Association trading as Which?. Which? Online, Which? Extra, the Which? Bookshop and all other Which? websites are operated by Which? Limited, and they are part of a larger range of products and services that we offer. The terms "Which?", "we", "us", or "our", refer to the operator of the website you're in. 
+Site help 
 
 Which? is committed to safeguarding the privacy of our users while providing the highest possible quality of service. 
 
-We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and any other regulations currently in force). If you have any requests concerning your personal information or any queries about these practices, please contact [privacy@which.co.uk](mailto:privacy@which.co.uk "generates an email to Which?"). 
+## Which? privacy policy
 
-##### Security
+Welcome to the Which? privacy policy.
 
-We are committed to ensuring your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+Our Campaigns, Press and About us websites are operated by Consumers' Association trading as Which?.
 
-##### Information collected 
+Which? Online, Which? Extra, the Which? Bookshop and all other Which? websites are operated by Which? Limited, and they are part of a larger range of products and services that we offer.
 
-We collect the following information:
+The terms "Which?", "we", "us", or "our", refer to the operator of the website you're in.
 
-  * where you contact us through enquiry and registration forms, we collect the details you provide to us (typically the personal details include your name, postal address and email address)
-  * where you visit this website, we collect information automatically about your visit. The information obtained in this way (i.e. your browsing patterns) is used only in aggregate form, and, as such, cannot be used to identify you
+Which? is committed to safeguarding the privacy of our users while providing the highest possible quality of service.
+
+We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and any other regulations currently in force).
+
+We will not pass your data details (email, address, or telephone, cookie details etc.) to any third parties without your permission. We do not process the information collected from you outside the UK.
+
+If you have any requests concerning your personal information or any queries about these practices, please [contact us](https://www.which.co.uk/utilities/U/Utilities/contact_us/Which_contact_details_generic_481_62880.jsp).
+
+## Security
+
+We are committed to ensuring your information is secure.
+
+In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+## Information collected
+
+### We collect the following information:
+
+  * Where you contact us through enquiry and registration forms, we collect the details you provide to us (typically the personal details include your name, postal address and email address)
+  * Where you visit this website, we collect information automatically about your visit. The information obtained in this way (ie your browsing patterns) will be used to track visitor behaviour to provide us with statistics and to assist us in marketing our products and services.
 
 
 
-##### Use of personal information
+## Use of personal information
 
-We process personal information collected via our websites for the purposes of:
+We process personal information collected via our websites for the purposes of: 
 
-  * providing the best possible service
-  * processing any orders you may have made
-  * conducting market research surveys
-  * running competitions
-  * providing you with information about products and services we offer
-  * building up marketing profiles, aiding strategic development and auditing usage of the site
-  * providing you with information about our campaigns
+  * Providing the best possible service
+  * Processing any orders you may have made
+  * Conducting market research surveys
+  * Running competitions
+  * Providing you with information about products and services we offer
+  * Building up marketing profiles, aiding strategic development and auditing usage of the site
+  * Providing you with information about our campaigns
 
 
 
-As a result of ordering from us, your name and address may be added to a mailing list. Which? offers a range of services and publications designed to keep you up to date on consumer issues. We'd like to contact you about these from time to time, as well as sending you our special promotions. 
+As a result of ordering from us, your name and address may be added to a Which? mailing list.
 
-Generally we will write, but may e-mail or telephone you, unless you prefer us not to. Please provide us with your instructions and contact details at Dept. DNP2, Which?, Castlemead, Gascoyne Way, Hertford, SG14 1YB or email us at [privacy@which.co.uk](mailto:privacy@which.co.uk "generates an email to Which?")
+Which? offers a range of services and publications designed to keep you up to date on consumer issues. We'd like to contact you about these from time to time, as well as sending you our special promotions.
 
-##### Use of cookies
+Generally we will write, but may email or telephone you, unless you prefer us not to.
 
-A cookie is a piece of text which is stored by your browser on your computer's hard drive. A cookie helps us analyse web traffic or lets us know when you visit a particular site. 
+Please provide us with your instructions and contact details at Dept. DNP2, Which?, Castlemead, Gascoyne Way, Hertford, SG14 1YB.
 
-We use a cookie when you access any Which? website and to track patterns of behaviour of visitors to our site, to build up marketing profiles and understand browsing patterns. Cookies are also used by our various Shopping Partners and in our Which? Online Shop to speed up the buying process. 
+## Use of cookies
 
-Which?'s use of cookies is fully compliant with all United Kingdom data protection and data privacy regulations. 
+A cookie is a piece of text which is stored by your browser on your computer's hard drive.
 
-Most Web browsers automatically accept cookies, though you can set most browsers to prevent this. General information about cookies is available for [Netscape users](http://help.netscape.com/kb/consumer/19970226-2.html "Links to Netscape's website - an external link") and for [Internet Explorer users](http://www.microsoft.com/info/cookies.mspx "Links to Microsoft's website - an external link"). 
+A session cookie helps us analyse web traffic or lets us know when you visit a particular site.
 
-We do not store your password or any other information in the cookie, or use it for any other purpose aside from tracking patterns of visitorbehaviour. Our cookies do not contain any personal identifying information about a visitor, their location, their preferences or their financial activity. 
+We use the software of a third party company on our website to collect the data from a session cookie on our behalf.
 
-##### Third party opt-in policy
+We use a session cookie when you access any Which? website to track patterns of behaviour of visitors to our site, to build up marketing profiles and understand browsing patterns or if you purchase something via our Which? online shop because it enables us to speed up the buying process by allowing use of a shopping basket.
 
-We know that our members, as well as those who receive our promotional material have a wide range of interests. 
+While our cookies, by necessity, contain some personal information, such as your name, email address, preferences and whether or not you are a customer of Which?, they do not contain or store information relating to your password or financial/credit card details.  The information that is collected by the cookie will be used solely for tracking patterns of visitor behaviour to provide us with statistics and to identify groups of users to assist us in marketing our products and services.
 
-Now and again we make these lists available to other organisations that we think have products and services that you might like to know about. These companies will only contact you by mail, unless you prefer not to let this happen. In this case, please write (including your contact details) to Dept. DNE, Which?, Castlemead, Gascoyne Way, Hertford, SG14 1YB or by e-mail at [privacy@which.co.uk](mailto:privacy@which.co.uk "generates an email to Which?") telling us that you do not want your contact details passed to other organisations. 
+Most web browsers automatically accept cookies, though you can set most browsers to prevent this collection or access.General information about cookies is available for [Netscape](http://www.netscape.com/FAQ/) users and for [Internet Explorer](http://www.microsoft.com/windows/ie/default.mspx) users, or alternatively visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) for more detailed advice on how to disable and enable cookies.
 
-We will not pass your email details to any third parties. 
+Which?'s use of cookies is fully compliant with all United Kingdom and EU data protection and data privacy regulations.
 
-##### Contacting us
+If you now wish to change your mind in respect of your information being used by our companies please notify us in writing by contacting Dept. DNE, Which?, Castlemead, Gascoyne Way, Hertford, SG14 1YB.
 
-If you have any queries about our privacy statement, requests concerning your personal information, you would prefer not to hear from us, or would like to find out more about our products and services, please [contact us](https://web.archive.org/aboutus/contactus.html "Links to the contact us page"). 
+## Third party opt-in policy
 
-Which? Ltd. is registered in England, company registration number 677665 (VAT registration no. GB238534158), registered office 2 Marylebone Road, London, NW1 4DF. 
+We know that our members, as well as those who receive our promotional material have a wide range of interests.
 
-Consumers' Association is registered in England No 580128, and is a registered charity No 296072, registered office 2 Marylebone Road, London, NW1 4DF. 
+We do not make access available currently to third party organisations of your data for their marketing purposes.
+
+We would not, in any event, pass your email address, or any other details to any third parties without your explicit permission.
+
+Cookies are sometimes used by our Shopping Partners, who are non Which? companies, when you access their websites. You should be asked by the third party company when you access their web site whether you agree to their use of cookies and your data for commercial purposes according to their privacy policy. Please note that we are not responsible for the privacy policies of these third party websites and we therefore suggest that you read the privacy statement of any website that collects personal information from you.
+
+## Contacting us
+
+If you have any queries about our privacy statement, requests concerning your personal information: either if you would prefer not to hear from us, or would like to find out more about our products and services, please [contact us](https://web.archive.org/about_us/A/Contact%20us/Contact_us_481_58555.jsp).
+
+Which? Ltd. is registered in England, company registration number 677665 (VAT registration no. GB238534158), registered office 2 Marylebone Road, London, NW1 4DF.
+
+Consumers' Association is registered in England No 580128, and is a registered charity No 296072, registered office 2 Marylebone Road, London, NW1 4DF.
