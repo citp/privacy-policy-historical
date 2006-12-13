@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aramex.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030602id_/http%3A//aramex.com/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramex.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213031459id_/http%3A//www.aramex.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
- Privacy Policy
+Privacy Policy
 
-At Aramex.com, we are committed to protecting your privacy. We use the information we collect about you to process orders , online requests and to provide you with more personalized services. Please read on for more details about our privacy policy. 
+At Aramex.com, we are committed to protecting your privacy. We use the information we collect about you to process orders , online requests and to provide you with more personalized services. Please read on for more details about our privacy policy.
 
 **The  information we collect from you and how we use it**   
 When you request any of our online services, apply for a job, reach our country databases, we need to know your name, e-mail address, mailing address, type of business..etc. This allows us to process and fulfill your requests and to notify you of your request status.
@@ -13,7 +13,7 @@ When you request any of our online services, apply for a job, reach our country 
 
 *   We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new Aramex.com services, and special offers we think you'll find valuable.
 
- **How does Aramex.com protect customer information?**  
+**How does Aramex.com protect customer information?**  
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
 
 **What about "cookies"?**  
@@ -23,7 +23,7 @@ When you place orders or access your account information, we offer the use of a 
 Aramex.com does not sell, trade, or rent your personal information to others. Aramex.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Aramex.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Aramex.com, our users, or others.
 
 **How does Aramex.com allow customers to update or change the information it collects?**  
-You may update or change information related to your Aramex.com account by accessing [[Update account information](http://www.aramex.net/default.asp)]section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please refer to [Customer Care](https://web.archive.org/cc/default.asp).
+You may update or change information related to your Aramex.com account by accessing [[Update account information](https://web.archive.org/accounts/reg_signup.aspx)]section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please refer to [Customer Care](https://web.archive.org/cc/default.aspx).
 
 **In summary**  
 We are committed to protecting your privacy. We use the information we collect on the site to make the use of our site easy and to enhance your overall shipping experience. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending an e-mail message to [webmaster@Aramex.com](mailto:webmaster@Aramex.com).
