@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620041029id_/http%3A//www.businessinternetdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213035257id_/http%3A//www.businessinternetdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Business Internet Directory
 
 Privacy Policy - www.businessinternetdirectory.com 
 
-This privacy policy (“Privacy Policy”) is provided by **Business Internet Directory Limited** (registered company number 04225065) whose registered office is at 4 The Crescent, Selby, North Yorkshire YO8 4PU (referred to as “us”, “our” or “we” in this Privacy Policy) for the information of visitors (referred to as “you” or “your” in this Privacy Policy) to our website, the URL of which is http://www.businessinternetdirectory.com (.co.uk, .net, .org.uk, .org, .ltd.uk, .tv), referred to as the “Website” in this Privacy Policy.
+This privacy policy (“Privacy Policy”) is provided by **Business Internet Directory Limited** (registered company number 04225065) whose registered office is at Garforth House, 54 Micklegate, York, YO1 6WF (referred to as “us”, “our” or “we” in this Privacy Policy) for the information of visitors (referred to as “you” or “your” in this Privacy Policy) to our website, the URL of which is http://www.businessinternetdirectory.com (.co.uk, .net, .org.uk, .org, .ltd.uk, .tv), referred to as the “Website” in this Privacy Policy.
 
 By accepting this Privacy Policy, you expressly consent to our use and disclosure of your personal information in the manner set out in this Privacy Policy. If you object to this use and disclosure please do not register for a Priority Advert with us. If you object to your information being featured on our database in a Standard Entry, please contact us, in accordance with Clause 10 of this Policy, in order to arrange its removal. 
 
 **1 Privacy**  
-We wish to demonstrate our firm commitment to your rights to privacy. This is why we have set out the privacy guidelines set out below. We may need to change this Privacy Policy over time.  We will post changes to this Privacy Policy to the Website when such changes are necessary. All amended terms shall automatically be effective immediately after they are initially posted on the Website.
+We wish to demonstrate our firm commitment to your rights to privacy. This is why we have set out the privacy guidelines set out below. We may need to change this Privacy Policy over time. We will post changes to this Privacy Policy to the Website when such changes are necessary. All amended terms shall automatically be effective immediately after they are initially posted on the Website.
 
 **2 Law**  
 The information contained in this Privacy Policy shall be governed and construed in accordance with English law and be subject to the exclusive jurisdiction of the English courts.
