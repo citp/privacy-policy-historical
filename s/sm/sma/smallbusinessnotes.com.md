@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smallbusinessnotes.com privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415102956id_/http%3A//www.smallbusinessnotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessnotes.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213081547id_/http%3A//www.smallbusinessnotes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies of Small Business Notes
+
+* * *
 
 Small Business Notes is committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of information. 
 
@@ -13,3 +15,10 @@ The usage logs also contain IP addresses that could be used by law enforcement p
 Small Business Notes links to many external sites that provide related content. We have no control over the privacy policies of these sites. 
 
 Small Business Notes also provides some commercial services in association with third parties. Please see the privacy statements hosted at their sites. 
+
+* * *
+
+**Related:**  
+[About This Site](https://web.archive.org/web/20061213081547id_/http%3A//www.smallbusinessnotes.com/about.html)  
+[Conditions of Use](http://www.smallbusinessnotes.com/use.html)  
+
