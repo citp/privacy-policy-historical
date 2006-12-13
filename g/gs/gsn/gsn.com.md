@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615135630id_/http%3A//www.gsn.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213013105id_/http%3A//gsn.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # GSN - The Network For Games
 
@@ -107,7 +107,7 @@ If you are the parent or guardian of a child under the age of 13, and you have d
 
 GSN is dedicated to protecting your personal information and welcomes comments and questions on this Privacy Policy. You may e-mail us at the following address: 
 
-GSNprivacy@gsn.com 
+[GSNprivacy@gsn.com](mailto:GSNprivacy@gsn.com)
 
 **Notification of Changes**
 
