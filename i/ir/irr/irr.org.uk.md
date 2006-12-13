@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163316id_/http%3A//irr.org.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213092309id_/http%3A//www.irr.org.uk/privacy) for the most accurate reproduction.*
 
-# IRR: IRR news network privacy policy
+# IRR: Privacy policy
+
+Our privacy policy
 
 #### Our privacy principles
 
@@ -23,7 +25,7 @@ We collect information on our users in two main ways: through subscriptions to o
 
 We may also collect anonymous aggregate statistics about our users and traffic patterns, which we use to refine our services. This may be made available to third parties but will not contain any personally identifying information.
 
-IRR news network uses all reasonable precautions to ensure that we protect our user's privacy; however we are not responsible for any breach of security or any actions of any third parties who receive the information.
+The Institute of Race Relations uses all reasonable precautions to ensure that we protect our user's privacy; however we are not responsible for any breach of security or any actions of any third parties who receive the information.
 
 ##### Cookies
 
@@ -33,16 +35,12 @@ To avoid this risk, whenever a cookie is about to be stored, you are asked if yo
 
 Some users express concern about cookies for a second reason, which is that cookies allow websites to track your use of the internet. By collecting this kind of information, websites can identify use patterns and target advertising on the basis of it.
 
-The IRR news network does not use information stored in cookies to track your use of our site or match your use of our site with any other website. Cookie information is not shared with any third party. The only use made of cookies by the IRR is to save you having to retype login or delivery address information.
+The IRR website does not use information stored in cookies to track your use of our site or match your use of our site with any other website. Cookie information is not shared with any third party. The only use made of cookies by the IRR is to save you having to retype login or delivery address information.
 
 If you are concerned about the security risks of cookies you can select the box which indicates that you are using a shared computer (this prevents all cookies).
 
 ##### Credit card details
 
-Credit card information is collected through a third party system, provided by [WorldPay](http://www.worldpay.com/). At no point does the IRR hold any user's credit card details. Please consult WorldPay for details of their privacy and security arrangements.
+Credit card information is collected through a third party system, provided by [WorldPay](http://www.worldpay.com/). At no point does the IRR hold any user's credit card details submitted online. Please consult WorldPay for details of their privacy and security arrangements.
 
 We reserve the right to change this privacy policy from time to time.
-
-[ privacy](https://web.archive.org/web/20060615163316id_/http%3A//irr.org.uk/privacy/index.html "Read our privacy policy") | [ using our content](https://web.archive.org/web/20060615163316id_/http%3A//irr.org.uk/content/index.html "Guidelines for using our content in your websites, emails and publications") | [ advertising](https://web.archive.org/web/20060615163316id_/http%3A//irr.org.uk/advertising/index.html "How to advertise on this page") | [ support us](https://web.archive.org/web/20060615163316id_/http%3A//irr.org.uk/support/index.html "Help to support the IRR news network")
-
-© Institute of Race Relations
