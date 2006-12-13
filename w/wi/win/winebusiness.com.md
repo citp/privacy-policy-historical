@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2006-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060311111319id_/http%3A//winebusiness.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213094903id_/http%3A//www.winebusiness.com/company/privacy.cfm) for the most accurate reproduction.*
 
-# WINE BUSINESS ONLINE - News and Information for Wine Industry Professionals
+# Winebusiness.com - About Us
 
-  
 **Winebusiness.com is dedicated to protecting your privacy online and has developed this Privacy Policy to help you understand how your personal information will be treated as you visit our web site and use our services.**
 
 **Registration Information  
@@ -21,7 +20,7 @@
 **Winebusiness.com generally will not supply information about its users to anyone other than its affiliates or partners, unless such action is necessary to: (1) comply with a legal process; (2) protect and defend winebusiness.com's rights or property; (3) enforce the Winebusiness.com Supplier Agreement or Buyer Agreement; or (4) in order to protect the interests of its members or others.
 
 **Security and Opt Out  
-**All information submitted or uploaded via the winebusiness.com web site (e.g. part specification files, purchase orders, nondisclosure agreements, quality product policies, etc.) is stored on winebusiness.com servers and made available to only those parties designated by the originator to receive the information. Access to winebusiness.com servers via the Internet is restricted through the use of passwords, firewalls, and other security methods in order to protect your privacy. For questions or concerns regarding your privacy, please contact [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com). If at any point you would like to be removed from the winebusiness.com database, you may:
+**All information submitted or uploaded via the winebusiness.com web site (e.g. part specification files, purchase orders, nondisclosure agreements, quality product policies, etc.) is stored on winebusiness.com servers and made available to only those parties designated by the originator to receive the information. Access to winebusiness.com servers via the Internet is restricted through the use of passwords, firewalls, and other security methods in order to protect your privacy. For questions or concerns regarding your privacy, please contact [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com). If at any point you would like to be removed from the winebusiness.com database, you may: 
 
   1. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com). Please be sure to include your name, company name, and email address.
   2. Send mail to the following postal address:  
@@ -44,4 +43,4 @@ If you have any questions about this privacy statement, the practices of this si
 Member Services Wine Business Communications, Inc.  
 110 W. Napa St. Sonoma, CA 95476
 
-****
+
