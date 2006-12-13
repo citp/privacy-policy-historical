@@ -1,456 +1,1283 @@
-<!--The following is the downloaded HTML source of the canberratimes.com.au privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615005714id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canberratimes.com.au privacy policy that was archived on 2006-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061213024707id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-	<link href="/_includes/css/print.css" rel="stylesheet" type="text/css" media="print">
-  <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-  <meta name="keywords" content="News, Newspaper, Rural">
+<title>canberra.yourguide</title>
+
+
+<!-- BEGIN: SectionID -->
+<script language="JavaScript" type="Text/JavaScript">
+<!-- 
+_m1SecID="000000254-002";
+_m1IsActive=1;
+_m1PosV=2;
+_m1PosH=1;
+_m1PosX=0;
+_m1PosY=20;
+// -->
+</script>
+<!-- END: SectionID -->
+<!-- START AC Nielsen PDF Tracking -->
+<script type="text/javascript">
+<!--
+function _nnClick(_nnClickDest)
+{
+	_nnCD = _nnClickDest;
+	_nnECD = escape(_nnClickDest);
+	_nnDelay = 500; /* click delay */
+	var _nnRD=0;
+	if (parseInt(navigator.appVersion)>=4)
+	{
+	_nnRD=(new Date()).getTime();
+	}
+	var _nnCI="ruralpressltd";
+	var _nnCG="link-click";
+	var _nnCC="au";
+	var _nnLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _nnRP=escape(window.location);
+	var _nnND=_nnLP+'//secure-' + _nnCC + '.imrworldwide.com/';
+	var _nnParams = "rnd=" + _nnRD + "&ci=" + _nnCI + "&cg=" + _nnCG;
+	var _nnRef = "&rp=" + _nnRP;
+	var _nnSI = "&si=" + _nnCI + "-ctgw-" + _nnECD;
+	var _nnPixel = new Image(1,1);
+	_nnPixel.src = _nnND + "cgi-bin/m?rnd=" + _nnParams + _nnSI + _nnRef;
+	
+	
+	// Original version - opens PDF in the same window.
+	setTimeout("window.location = _nnCD", _nnDelay);
+
+	//Modified version - opens PDF in new window.
+	//setTimeout("window.open('" + _nnCD + "', 'newwindow')", _nnDelay);
+}
+//-->
+</script>
+<!-- END AC Nielsen PDF Tracking -->
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta name="keywords" content="News, Newspaper, Rural">
 <meta name="description" content="Ruralpress Limited Newspapers">
 <meta name="copyright" content="© 2000 Rural Press Ltd.">
 
-  <title>canberra.yourguide</title>
+<link href="/_includes/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" type="text/css" href="/_includes/css/yourguide.css"> 
 
-	<script type="text/javascript" language="JavaScript" src="/_includes/js/validation.js"></script>
-	<script language="JavaScript">
+<script src="/_includes/js/validation.js" language="JavaScript"></script>
+<script src="/_shared/js/error_check.js" language="JavaScript"></script>
+<script src="/_shared/js/common_functions.js" language="JavaScript"></script>
+<script src="/_shared/js/browser_check.js" language="JavaScript"></script>
+<script src="/_shared/js/ff_assignalliframes.js" language="javascript"></script>
 
-		function SubmitPoll(check_field)
+
+
+<script language="JavaScript">
+	function SubmitPoll(check_field)
+	{
+		fCheck = true
+		AtLeastOneSelected(document.poll_form, check_field, "checkbox","Readers Poll: Please select an option");
+
+		if (fCheck)
 		{
-
-			fCheck = true
-
-			AtLeastOneSelected(document.poll_form, check_field, "checkbox","Readers Poll: Please select an option");
-
-
-			if (fCheck)
-			{
-				//document.poll_form.submit()
-				return true;
-			}
-			else {
-				return false;
-				
-			}
+			return true;
 		}
+		else {
+			return false;	
+		}
+	}
 
-
-		function AtLeastOneSelected(which_form, element_name, check_mode, alert_message){
-			if (fCheck) {
-				fCheck = false;
-				with (window.document) {
-					for ( i=0; i < which_form.elements.length; i++ ) {
-						current_name = which_form.elements[i].name
-						if (current_name.substring(0,element_name.length) == element_name) {
-							if ((check_mode == "checkbox" && which_form.elements[i].checked == true) || (check_mode == "text_field" && which_form.elements[i].value != "")) {
-								fCheck = true;
-								break;
-							}
+	function AtLeastOneSelected(which_form, element_name, check_mode, alert_message){
+		if (fCheck) {
+			fCheck = false;
+			with (window.document) {
+				for ( i=0; i < which_form.elements.length; i++ ) {
+					current_name = which_form.elements[i].name
+					if (current_name.substring(0,element_name.length) == element_name) {
+						if ((check_mode == "checkbox" && which_form.elements[i].checked == true) || (check_mode == "text_field" && which_form.elements[i].value != "")) {
+							fCheck = true;
+							break;
 						}
 					}
 				}
-				if (fCheck == false){
-					alert(alert_message);
-				}
+			}
+			if (fCheck == false){
+				alert(alert_message);
 			}
 		}
-
-		
-
-
-		/****************************************************************
-		* validateimage												*
-		*														*
-		* This function is triggered by the 'onerror' property of the front cover image	*
-		* tag. When no cover image file is available, this function hides the image cell	*
-		* altogether.												*
-		*														*
-		* Missing cover images are handled in this way because they are located on	*
-		* a different site. i.e. the presence of a filename in the yourguide database	*
-		* is assumed to be no guarantee that the image file is actually available.	*
-		****************************************************************/
-		function validateimage(strPubID) {
-			//var strMyImageID = 'img_frontcover' + strPubID;
-			//var strMyImageURL = 'http://idesk.ruralpress.com/_upload/_frontpages/' + strPubID + '_thumbnail2.jpg';
-			var strMyFrontCoverCellID = 'cell_frontcover' + strPubID;
-			var strMyFrontCoverDividerCellID = 'cell_frontcover_divider' + strPubID;
-			var MyCellObject;
-			MyCellObject = document.getElementById(strMyFrontCoverCellID);
-
-					// Hide the Front cover cell entirely.
-			if (MyCellObject) {
-				MyCellObject.innerHTML = '';
-				//MyCellObject.innerHTML = "<img src='/images/general_new/white.gif' width='151' height='221' style='border:1px solid #999999;' >";
-			}
-
-			// Also hide the spacer cell beneath the front cover cell.
-			MyCellObject = document.getElementById(strMyFrontCoverDividerCellID);
-			if (MyCellObject) {
-				MyCellObject.innerHTML = '';
-				//MyCellObject.innerHTML = "<img src='/images/general_new/white.gif' width='151' height='221' style='border:1px solid #999999;' >";
-			}
-		}
-
-	</script>
-
-	
-
-	<script src="/_includes/js/common_functions.js" language="JavaScript"></script>
-	<script src="/_includes/js/browser_check.js" language="JavaScript"></script>
-	<script language="JavaScript" src="/_includes/js/Calendar/popcalendar.js"></script></head><body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" vlink="#666699" onload="javascript:setFocusToContent();"><div onclick="bShow=true" id="calendar" onmouseover="document.all.close.src='_includes/js/Calendar/images/close.gif'" onmouseup="document.all.close.src='_includes/js/Calendar/images/close.gif'" style="z-index:+999;position:absolute;visibility:hidden;"><table cellpadding="0" cellspacing="0" width="200" style="font-family:arial;font-size:11px;border-width:1px;border-style:solid;border-color: #666666;font-family:arial; font-size:11px}" bgcolor="#ffffff"><tbody><tr bgcolor="#D4D0C8"><td><table cellpadding="2" cellspacing="0" width="218"><tbody><tr><td nowrap="" style="padding:2px;font-family:arial; font-size:11px;" align="right"><font color="#000000"><b><span id="caption"></span></b></font></td><td nowrap="" align="right"><a href="javascript:hideCalendar()" onmousedown="document.all.close.src='_includes/js/Calendar/images/close2.gif'" onmouseover="popDownYear(); popDownMonth();"><img id="close" src="_includes/js/Calendar/images/close.gif" width="16" height="14" border="0" alt="Close the Calendar" align="absmiddle"></a>&nbsp;</td></tr></tbody></table></td></tr><tr><td style="padding:5px" bgcolor="#ffffff"><span id="content"></span></td></tr><tr bgcolor="#666666"><td style="padding:5px" align="center"><span id="lblToday"></span></td></tr></tbody></table></div><div id="selectMonth" onmouseover="document.all.spanMonth.style.borderColor='#666666';" style="z-index:+999;position:absolute;visibility:hidden;"></div><div id="selectYear" onmouseover="document.all.spanYear.style.borderColor='#666666';" style="z-index:+999;position:absolute;visibility:hidden;"></div>
-
-	<script language="JavaScript">
-	if ( is_mac ){
-		keystroke = ' Option ';
-		if ( is_nav )
-			document.write("<link href='/_includes/css/mac.css' rel='stylesheet' type='text/css'>");
-		else if ( is_ie5up )
-			document.write("<link href='/_includes/css/pc_ie.css' rel='stylesheet' type='text/css'>");
-		else 
-			document.write("<link href='/_includes/css/mac.css' rel='stylesheet' type='text/css'>");
-		}
-	else {
-		keystroke = ' Control ';
-		if ( is_nav )
-			document.write("<link href='/_includes/css/pc_nav.css' rel='stylesheet' type='text/css'>");
-		else
-			document.write("<link href='/_includes/css/pc_ie.css' rel='stylesheet' type='text/css'>");
 	}
 
+	/****************************************************************
+	* validateimage												*
+	*														*
+	* This function is triggered by the 'onerror' property of the front cover image	*
+	* tag. When no cover image file is available, this function hides the image cell	*
+	* altogether.												*
+	*														*
+	* Missing cover images are handled in this way because they are located on	*
+	* a different site. i.e. the presence of a filename in the yourguide database	*
+	* is assumed to be no guarantee that the image file is actually available.	*
+	****************************************************************/
+	function validateimage(strPubID) {
+		var strMyFrontCoverCellID = 'cell_frontcover' + strPubID;
+		var strMyFrontCoverDividerCellID = 'cell_frontcover_divider' + strPubID;
+		var MyCellObject;
+		MyCellObject = document.getElementById(strMyFrontCoverCellID);
+
+		// Hide the Front cover cell entirely.
+		if (MyCellObject) {
+			MyCellObject.innerHTML = '';
+		}
+
+		// Also hide the spacer cell beneath the front cover cell.
+		MyCellObject = document.getElementById(strMyFrontCoverDividerCellID);
+		if (MyCellObject) {
+			MyCellObject.innerHTML = '';
+		}
+	}
 
 	function setFocusToContent()
 	{
-		var theContent = document.getElementById("mainContentPrint");
-		//theContent.focus();
-
-	
+		//var theContent = document.getElementById("mainContentPrint");
+		assignAllIframes();
 	}
-	</script><link href="/_includes/css/pc_nav.css" rel="stylesheet" type="text/css">
+</script>
 
-	
+<script language="JavaScript1.2" type="text/javascript"> 
+function CreateBookmarkLink() { 
+	title = "Canberra.yourguide"; 
+	url = "http://canberra.yourguide.com.au/privacy.asp?"; 
 
- 
+	if (window.sidebar) { 
+		// Mozilla / Firefox/Netscape Bookmark 
+		window.sidebar.addPanel(title, url,""); 
 
+	} else if( window.external ) { 
+		// IE Favorite 
+		window.external.AddFavorite( url, title); 
+	} 
 
+	else if(window.opera && window.print) { 
+		// Opera Hotlist 
+		return true;
+	} 
+}
+</script>
+</head>
 
+<body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" vlink="#666699" onload="javascript:setFocusToContent();">
+
+<table border="0" cellpadding="0" cellspacing="0" width="728px" align="center">
+<tbody><tr>
+	<td align="center"><script language="JavaScript" type="text/javascript" src="http://maxads.ruralpress.com/phpAdsNew/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://maxads.ruralpress.com/phpAdsNew/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:44");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://maxads.ruralpress.com/phpAdsNew/adjs.php?n=600451244&amp;what=zone:44&amp;exclude=,"></script><noscript><a href='http://maxads.ruralpress.com/phpAdsNew/adclick.php?n=ac358637' target='_blank'><img src='http://maxads.ruralpress.com/phpAdsNew/adview.php?what=zone:44&amp;n=ac358637' border='0' alt=''></a></noscript>
+<div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1699&amp;cb=0.5361139"></div></td>
+</tr>
+</tbody></table>
 
 <table id="mainTablePrint" border="0" cellpadding="0" cellspacing="0" width="940px" align="center">
-	<tbody><tr id="topTabsPrint">	
-		<td width="4px"><img src="/images/general_new/tabend.gif" width="4px" height="21px" border="0"></td>
-		<td width="6px"><img src="/images/general_new/tableft.gif" width="6px" height="21px" border="0"></td>
-		<td nowrap=""><table border="0" cellpadding="0" cellspacing="0" valign="middle" class="Tab" width="100%"><tbody><tr><td nowrap="" align="center">&nbsp;<a href="http://www.yourguide.com.au">yourguide</a>&nbsp;&nbsp;</td><td nowrap="" align="center"><img src="/images/general_new/tabdivider.gif" width="5px" height="21px" border="0"></td><td nowrap="">&nbsp;&nbsp;<a href="/home.asp">canberra</a>&nbsp;</td></tr></tbody></table></td>
-		<td width="6px"><img src="/images/general_new/tabright.gif" width="6px" height="21px" border="0"></td>
-		<td class="TabBeside" width="55%">&nbsp;
-		Canberra news, classifieds and community.</td>
-		<td class="TabBeside" align="right"><a href="http://www.propertyguide.com.au" target="_blank">propertyguide</a>&nbsp;&nbsp;<a href="http://www.jobsguide.com.au" target="_blank">jobsguide</a>&nbsp;&nbsp;<a href="http://www.autoguide.com.au" target="_blank">autoguide</a>&nbsp;&nbsp;<a href="http://www.farmonline.com.au" target="_blank">farmonline</a>&nbsp;</td>
-	</tr>
-
-	<tr>
-		
-		<td colspan="6">
+<tbody><tr id="topTabsPrint">	
+	<td colspan="6" width="940px">
+		<table border="0" cellpadding="0" cellspacing="0" width="940px" align="center" height="27">
+		<tbody><tr>
+			<td width="4px" valign="bottom"><img src="/images/general_new/tabend.gif" width="4px" height="21px" border="0"></td>
+			<td width="6px" valign="bottom"><img src="/images/general_new/tableft.gif" width="6px" height="21px" border="0"></td>
+			<td nowrap="" valign="bottom"><table border="0" cellpadding="0" cellspacing="0" valign="middle" class="Tab" width="100%"><tbody><tr><td nowrap="" align="center" height="21px">&nbsp;<a href="http://www.yourguide.com.au">yourguide</a>&nbsp;&nbsp;</td><!--<td nowrap align="center"><img src="/images/general_new/tabdivider.gif" width="5px" height="21px" border="0"></td><td nowrap>&nbsp;&nbsp;<a href="/home.asp"></a>&nbsp;</td>--></tr></tbody></table></td>
+			<td width="6px" valign="bottom"><img src="/images/general_new/tabright.gif" width="6px" height="21px" border="0"></td>
+			<td class="TabBeside" width="100%" valign="bottom">&nbsp; <!-- Needs to be 55% if Arial font used -->
+			Welcome to
+			Canberra 
+			news, classifieds and community.<br><img src="/images/general/space.gif" width="1px" height="3px"><br></td>
 			
-			<!-- OVERALL TABLE -->
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-			<tbody><tr>
-			<td bgcolor="#F9F9F9" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
-			<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
-			<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
-			<td bgcolor="#E9E7E7" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
-			<td class="OverallBorder">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="MastBorder">
-				<tbody><tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%" class="MastBack">
-							<tbody><tr><td height="69">&nbsp;&nbsp;&nbsp;<a href="/home.asp">The Canberra Times</a></td>
-							<td height="69" align="right" valign="middle"><table border="0" cellpadding="0" cellspacing="0" width="100%" align="center"><tbody><tr><td><img src="/images/general/space.gif" height="4" width="1" border="0"></td></tr></tbody></table>
-								<!--sPubId=2--><a href="http://adsfac.net/link.asp?cc=BPG010.14895.0" target="_blank"><img src="http://adsfac.net/ag.asp?cc=BPG010.14895.0&amp;ord=1&amp;bk=1" width="468" height="60" border="0" alt=""></a><div style="position:absolute;top:1;left:1;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=10330217"></div><img src="/images/general/space.gif" width="2" height="10" border="0"><br>
-							</td></tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td height="20px" valign="middle">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%" class="DateBar">
-							<tbody><tr>
-								<td align="left" height="20px">&nbsp;&nbsp;&nbsp;Thursday, 15 June 2006</td>
-								<td align="right" height="20px">
-								Welcome to canberra Yourguide.&nbsp;&nbsp;&nbsp;<a href="http://signon.yourguide.com.au/memberprofile.asp?site=YG&amp;returnurl=http://canberra.yourguide.com.au/privacy.asp?">Member Profile</a>&nbsp;|&nbsp;<a href="http://signon.yourguide.com.au/signin.asp?returnurl=http://canberra.yourguide.com.au/privacy.asp?">Login</a>
-								&nbsp;&nbsp;&nbsp;</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td height="1px" bgcolor="#C5C5C5"></td> <!--Shadow line -->
-				</tr>
-				<tr>
-					<td height="1px" bgcolor="#E6E6E6"></td> <!--Shadow line -->
-				</tr>
-				<tr>
-					<td height="1px" bgcolor="#F9F9F9"></td> <!--Shadow line -->
-				</tr>
-				<!-- LEFT NAV START -->
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr width="100%">
-								<td width="13%" valign="top" class="LeftNav">
-									<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
-										<tbody><tr width="100%">
-											<td valign="top" width="100%" id="menu">
-													<p class="MenuItem"><span class="MenuHeading">News</span></p>
-																							
-														<p class="MenuItem"><a href="/display.asp?class=news&amp;subclass=general">Local</a></p>
-														
-														<p class="MenuItem"><a href="/display.asp?class=sport&amp;subclass=other">Sport</a></p>
-														
-														<p class="MenuItem"><a href="/display.asp?class=your%20say&amp;subclass=general">Editorial</a></p>
-													
-
-													<p class="MenuItem"><a href="/search.asp" width="150px">Search<img src="/images/general/space.gif" width="5" border="0"><!--<img src="/images/general_new/lock.gif" width="5" height="8" border="0">--></a></p>
-
-														
-														<p class="MenuItem"><a href="/newsfeed/subscribe2.asp" width="150px">e-news<img src="/images/general/space.gif" width="5" border="0"></a></p>
-													
-														<p class="MenuItem"><a href="/weather.asp" width="150px">Weather</a></p>
-													
-																	
-
-													<p class="MenuDivider"></p>
-													<p class="MenuItem"><span class="MenuHeading">Marketplace</span></p>	
-													
-														<p class="MenuItem"><a href="/searchclas.asp">Classifieds</a></p>
-														
-															<p class="MenuItem"><a href="/sitemail_classifieds.asp">Place an ad </a></p>				
-														
-															<p class="MenuItem"><a href="/freeclassies/index.asp">Place Free Ad</a></p>
-																
-													<p class="MenuItem"><a href="http://www.propertyguide.com.au/">Real Estate</a></p>
-													<p class="MenuItem"><a href="http://www.jobsguide.com.au/">Jobs</a></p>
-													<p class="MenuItem"><a href="http://www.autoguide.com.au/">Autos</a></p>
-															
-													<p class="MenuDivider"></p>					
-													<p class="MenuItem"><span class="MenuHeading">Community</span></p>			
-																	
-													<p class="MenuItem"><a href="/dispcall.asp?month=6&amp;year=2006&amp;calclass=All">Events</a></p>								
-													<p class="MenuItem"><a href="/displayclubs.asp">Club Pages</a></p>
-													<p class="MenuItem"><a href="/dispcall.asp?month=6&amp;year=2006&amp;calclass=Entertainment">Entertainment</a></p>
-													<p class="MenuItem"><a href="/links.asp">Local Links</a></p>
-													<p class="MenuItem"><a href="/Features.asp">Special Features</a></p>
-													<p class="MenuDivider"></p>
-													
-												<!--	<p class="MenuItem"><span class="MenuHeading">Features</span></p>
-													<p class="MenuItem"><a href='#' >Dynamic  Links</a></p>
-													<p class="divider"></p>
-												-->
-													<p class="MenuItem"><span class="MenuHeading">Contact</span></p>
-													<p class="MenuItem"><a href="/about.asp?department_id=1">Contact Us</a></p>
-													<p class="MenuItem"><a href="/about.asp?department_id=12">Subscribe</a></p>
-													<p class="MenuItem"><a href="/about.asp?department_id=2">Advertise</a></p>
-																	
-														<p class="MenuItem"><a href="http://www.bicaprolab.com.au/photosales/frameset/start.htm" target="photo_sales">photo sales</a></p>
-													
-													<p class="MenuDivider"></p>
-													<p class="MenuItem"><span class="MenuItemGrey"><a href="/privacy.asp">Privacy</a></span></p>
-													<p class="MenuItem"><span class="MenuItemGrey"><a href="/copyright.asp">Copyright</a></span></p>
-
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-								<td width="15px">
-								</td>
-								<td id="mainContentPrint" width="610px" valign="top">
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" class="StandardText">
+			
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td colspan="6">
+	<!-- OVERALL TABLE -->
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" height="100%">
 	<tbody><tr>
-		<td height="8px">			
-		</td>
-	</tr>
-	<tr>
-		<td class="WeatherHeader">PRIVACY</td>
-	</tr>
-	<tr>
-		<td height="10px"></td>
-	</tr>
-	<tr>
-		<td valign="top">
-			<table border="0" cellpadding="5" cellspacing="0" width="100%" class="StandardText">
-				<tbody><tr>
-					<td>The internet has changed the way we live, read and communicate. It has turned the world into an intimate global village. But now that we're all closer to together it's important for Rural Press Limited to help its customers retain their privacy while they are online.</td>
-				</tr>
-				<tr>
-					<td>To ensure your privacy Rural Press Limited adheres to the following principles in accordance with worldwide practices for customer privacy and data protection. For more information on privacy please see the <a href="http://www.ruralpress.com/ruralpress/corp/privacy.html">Rural Press Privacy Policy</a></td>
-				</tr>
-				<tr>
-					<td height="10"></td>
-				</tr>
-				<tr>
-					<td><b>Notice</b></td>
-				</tr>
-				<tr>
-					<td>You may be asked for information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site.</td>
-				</tr>
-				<tr>
-					<td>Rural Press will use your Personal Information for these primary purposes:</td>
-				</tr>
-				<tr>
-					<td>
-					1) To make the site easier for you to use by not having to enter information more than once.<br>
-					2) To help you quickly find services or information.<br>
-					3) To help us create content most relevant to you.<br>
-					4) To alert you to product upgrades, special offers, updated information and other new services from Rural Press Online Services
+		<td bgcolor="#F9F9F9" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+		<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+		<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+		<td bgcolor="#E9E7E7" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+		<td class="OverallBorder" height="100%">
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="MastBorder" height="100%">
+		<tbody><tr>
+			<td colspan="2">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="MastBack">
+			<tbody><tr>
+				<td height="69">
+				<a href="/home.asp">
+				&nbsp;&nbsp;<img src="/images/masthead_location_logos/133-id.gif" border="0">
+				</a>
+				</td>
+				<td height="69" align="right" valign="middle">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+				<tbody><tr><td><img src="/images/general/space.gif" height="4" width="1" border="0"></td></tr>
+				</tbody></table>					
+				<iframe id="a17a2354" name="a17a2354" src="http://maxads.ruralpress.com/phpAdsNew/adframe.php?n=a17a2354&amp;what=zone:43" framespacing="0" frameborder="no" scrolling="no" width="468" height="60" allowtransparency="true"><a href='http://maxads.ruralpress.com/phpAdsNew/adclick.php?n=a17a2354' target='_blank'><img src='http://maxads.ruralpress.com/phpAdsNew/adview.php?what=zone:43&n=a17a2354' border='0' alt=''></a></iframe>
+<div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1644&amp;cb=0.8806835"></div>
+				</td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td height="20px" valign="middle" colspan="2">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="DateBar">
+			<tbody><tr>
+				<td align="left" height="20px">&nbsp;&nbsp;&nbsp;Wednesday, 13 December 2006</td>
+				<td align="right" height="20px">
+				
+				<script type="text/javascript">
+				<!--
+				//CHECK BROWSER VERSION/TYPE - SAVE AS HOMEPAGE OR BOOKMARK.
+				
+				var setHomepage = "http://canberra.yourguide.com.au/privacy.asp?";
+				var redirTo = "http://canberra.yourguide.com.au/privacy.asp?";
+				var ua=navigator.userAgent;
+				//alert(ua);
+				if ((ua.indexOf("Windows")!=-1) && (ua.indexOf("MSIE 5")!=-1 || ua.indexOf("MSIE 6")!=-1 || ua.indexOf("MSIE 7")!=-1) && ua.indexOf("Win")!=-1 && ua.indexOf("Opera")==-1) {
+					 document.write("<a href=\""+redirTo+"\" onClick=\"style.behavior='url(#default#homepage)';setHomePage('"+setHomepage+"');\">Make&nbsp;this&nbsp;My&nbsp;Homepage</a>&nbsp;|&nbsp;");
+				}
+				else if (ua.indexOf("Firefox")!=-1)  {
+				      document.write("<a href=\"javascript:CreateBookmarkLink();\">Bookmark&nbsp;this&nbsp;Page</a>&nbsp;|&nbsp;");
+				}
+
+				else if (ua.indexOf("Netscape")!=-1)  {
+				      document.write("<a href=\"javascript:CreateBookmarkLink();\">Add&nbsp;this&nbsp;Site&nbsp;to&nbsp;My&nbsp;Sidebar</a>&nbsp;|&nbsp;");
+				}
+
+				else {
+				      document.write("&nbsp;");
+				}
+				 -->
+				</script>&nbsp;<a href="http://signon.yourguide.com.au/memberprofile.asp?site=YG&amp;returnurl=http://canberra.yourguide.com.au/privacy.asp?">Member Profile</a>&nbsp;|&nbsp;<a href="http://signon.yourguide.com.au/signin.asp?returnurl=http://canberra.yourguide.com.au/privacy.asp?">Login</a>
+				&nbsp;&nbsp;&nbsp;
+				</td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td height="1px" bgcolor="#F9F9F9" colspan="2"></td> <!--Shadow line -->
+		</tr>
+
+		<!-- LEFT NAV START -->
+		<tr>
+			<td valign="top" height="100%" width="120px" style="border-right: 1px solid #C9C7C7;">
+
+			<table border="0" cellpadding="0" cellspacing="0" width="120px" height="100%">
+			<tbody><tr>
+				<td><img src="/images/general_new/ttl_news.gif" width="120px" height="18px" border="0"></td>
+			</tr>
+			<tr width="100%">
+				<td width="120px" valign="top" class="LeftNav">
+						
+				<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+				<tbody><tr width="100%">
+					<td valign="top" width="100%" id="menu">
+			
+					
+						<p class="MenuItem"><a href="/display.asp?class=news">News</a></p>
+						<!--<p class="MenuItem"><a href="/display.asp?class=international%20news">World</a></p>-->
+						<p class="MenuItem"><a href="/display.asp?class=sport">Sport</a></p>
+						<p class="MenuItem"><a href="/display.asp?class=your%20say">Opinion</a></p>
+						<p class="MenuItem"><a href="/displaylifestyle.asp">Lifestyle</a></p>
+
+					
+
+					<p class="MenuItem"><a href="/search.asp" width="150px">Search<img src="/images/general/space.gif" width="5" border="0"></a></p>
+
+						
+						<p class="MenuItem"><a href="/newsfeed/subscribe2.asp" width="150px">E-News<img src="/images/general/space.gif" width="5" border="0"></a></p>
+					
+
+					<p class="MenuItem"><a href="/weather.asp" width="150px">Weather</a></p>
 					</td>
 				</tr>
-				<tr>
-					<td height="10"></td>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr width="100%"><td><img src="/images/general_new/ttl_marketplace.gif" width="120px" height="18px" border="0"></td></tr>
+			<tr>
+				<td width="120px" valign="top" class="LeftNav">
+
+				<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+				<tbody><tr width="100%">
+					<td valign="top" width="100%" id="menu">
+					<p class="MenuItem"><a href="/searchclas.asp">Classifieds</a></p><p class="MenuItem"><a href="/sitemail_classifieds.asp">Place an Ad</a></p><p class="MenuItem"><a href="/freeclassies/index.asp">Place Free Ad</a></p><p class="MenuItem"><a href="/tradesandservices">Trades &amp; Services</a></p>				
+						<p class="MenuItem"><a href="http://www.propertyguide.com.au/">Real Estate</a></p>
+						<p class="MenuItem"><a href="http://www.jobsguide.com.au/">Jobs</a></p>
+						<p class="MenuItem"><a href="http://www.autoguide.com.au/">Autos</a></p>			
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr width="100%">
+				<td><img src="/images/general_new/ttl_community.gif" width="120px" height="18px" border="0"></td>
+			</tr>
+			<tr>
+				<td width="120px" valign="top" class="LeftNav">
+						
+				<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+				<tbody><tr width="100%">
+					<td valign="top" width="100%" id="menu">					
+												
+					<p class="MenuItem"><a href="/dispcall.asp?month=12&amp;year=2006&amp;calclass=All">Events</a></p>
+					<p class="MenuItem"><a href="/displayclubs.asp">Club Pages</a></p>
+					<p class="MenuItem"><a href="/dispcall.asp?month=12&amp;year=2006&amp;calclass=Entertainment">Entertainment</a></p>
+					<p class="MenuItem"><a href="/sitemail_fridge.asp">Fridge Door</a></p><p class="MenuItem"><a href="/Features.asp">Special Features</a></p><p class="MenuItem"><a href="/competitions_listing.asp">Competitions</a></p>
+					</td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr width="100%">
+				<td><img src="/images/general_new/ttl_contact.gif" width="120px" height="18px" border="0"></td>
+			</tr>
+			<tr>
+				<td width="120px" valign="top" class="LeftNav">
+						
+				<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+				<tbody><tr width="100%">
+					<td valign="top" width="100%" id="menu">
+
+					
+						<p class="MenuItem"><a href="/submitmail_newstips.asp">Send Us News</a></p>
+					
+
+					<p class="MenuItem"><a href="/about.asp?department_id=1">Contact Us</a></p>
+					<p class="MenuItem"><a href="/about.asp?department_id=12">Subscribe</a></p>
+					<p class="MenuItem"><a href="/about.asp?department_id=2">Advertise</a></p>
+									
+									
+						<p class="MenuItem"><a href="http://www.bicaprolab.com.au/photosales/frameset/start.htm" target="photo_sales">Photo Sales</a></p>
+					
+					</td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			
+			
+				<tr width="100%">
+					<td><img src="/images/general_new/ttl_locallinks.gif" width="120px" height="18px" border="0"></td>
 				</tr>
 				<tr>
-					<td><b>Consent</b></td>
+					<td width="120px" valign="top" class="LeftNav">
+					<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+					<tbody><tr width="100%">
+						<td valign="top" width="100%" id="menu">
+							<p class="MenuItem"><a href="http://www.business.act.gov.au" target="_blank">ACT Business Gateway</a></p><p class="MenuItem"><a href="http://www.act.gov.au" target="_blank">ACT Government</a></p><p class="MenuItem"><a href="http://www.legislation.act.gov.au" target="_blank">ACT Government legislation</a></p><p class="MenuItem"><a href="http://www.legassembly.act.gov.au" target="_blank">ACT Legislative Assembly</a></p><p class="MenuItem"><a href="http://www.canberraconnect.act.gov.au" target="_blank">Canberra Connect</a></p><p class="MenuItem"><a href="http://www.visitcanberra.com.au" target="_blank">Visit Canberra</a></p>
+							<p class="MenuItem"><a href="/links.asp">All Local Links</a></p>
+						</td>
+					</tr>
+					</tbody></table>
+					</td>
 				</tr>
-				<tr>
-					<td>If you choose not to register or provide personal information, you can still use most of Yourguide or its associated web sites but you will not be able to access areas that require registration.</td>
-				</tr>
-				<tr>
-					<td>If you decide to register, you will be able to select the kinds of information you want to receive from Yourguide by subscribing to various services. If you do not want Yourguide to communicate with you about other offers regarding products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Yourguide.</td>
-				</tr>
-				<tr>
-					<td>Yourguide occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.</td>
-				</tr>
-				<tr>
-					<td height="10"></td>
-				</tr>
-				<tr>
-					<td><b>Security</b></td>
-				</tr>
-				<tr>
-					<td>Yourguide has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorised access or disclosure, alteration, or destruction.</td>
-				</tr>				
-				<tr>
-					<td height="10"></td>
-				</tr>
-				<tr>
-					<td><b>Notice to Parents</b></td>
-				</tr>
-				<tr>
-					<td>Parents or guardians: We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.</td>
-				</tr>
-				<tr>
-					<td height="10"></td>
-				</tr>
-				<tr>
-					<td><b>Use of Internet Cookies</b></td>
-				</tr>
-				<tr>
-					<td>Rural Press may use cookies to assist its web site users in accessing information on its sites which is of interest and relevance. Cookies are a way of storing information on a computer so users do not have to enter the same data every time they access an Internet site. We may also use cookies to assist in site functionality or with site visitor statistics, but we do not store any personal details when this is done.</td>
-				</tr>
-				<tr>
-					<td>If users have any concerns about this technology and do not wish to accept cookies, they can set the browser on their PC to not accept them or to prompt user every time they are about to be stored on the PC. The choice is with the user.</td>
-				</tr>
+			
+			<tr>
+				<td width="120px" valign="top" class="LeftNav">
+					<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+					<tbody><tr width="100%">
+						<td valign="top" width="100%" id="menu">
+							<p class="MenuDivider"></p>
+							<p class="MenuItem"><span class="MenuItemGrey"><a href="/privacy.asp">Privacy</a></span></p>
+							<p class="MenuItem"><span class="MenuItemGrey"><a href="/copyright.asp">Copyright</a></span></p>
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			
+			<tr>
+				<td width="120px" height="100%" valign="top" class="LeftNav"><img src="/images/general/space.gif" width="120px" height="100%" border="0"></td>
+			</tr>
 			</tbody></table>
 		</td>
+		<td valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td width="8px"><img src="/images/general/space.gif" width="8px" height="100%" border="0"></td>
+				<td id="mainContentPrint" width="625px" valign="top">
+
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+<tbody><tr>
+	<td height="3px"></td>
+</tr>
+<tr>
+	<td class="PageHeader">Privacy</td>
+</tr>
+<tr>
+	<td height="3px"></td>
+</tr>
+<tr>
+	<td valign="top">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" class="StandardPageBox">
+	<tbody><tr>
+		<td valign="top">
+		<table border="0" cellpadding="5" cellspacing="0" width="100%" class="StandardText">
+		<tbody><tr>
+			<td height="2px"></td>
+		</tr>
+		<tr>
+			<td>The internet has changed the way we live, read and communicate. It has turned the world into an intimate global village. But now that we're all closer to together it's important for Rural Press Limited to help its customers retain their privacy while they are online.</td>
+		</tr>
+		<tr>
+			<td>To ensure your privacy Rural Press Limited adheres to the following principles in accordance with worldwide practices for customer privacy and data protection. For more information on privacy please see the <a href="http://www.ruralpress.com/ruralpress/corp/privacy.html">Rural Press Privacy Policy</a>.</td>
+		</tr>
+		<tr>
+			<td height="12px"></td>
+		</tr>
+		<tr>
+			<td><strong>Notice</strong></td>
+		</tr>
+		<tr>
+			<td>You may be asked for information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site.</td>
+		</tr>
+		<tr>
+			<td>Rural Press will use your Personal Information for these primary purposes:</td>
+		</tr>
+		<tr>
+			<td>
+			1) To make the site easier for you to use by not having to enter information more than once.<br>
+			2) To help you quickly find services or information.<br>
+			3) To help us create content most relevant to you.<br>
+			4) To alert you to product upgrades, special offers, updated information and other new services from Rural Press Online Services
+			</td>
+		</tr>
+		<tr>
+			<td height="12px"></td>
+		</tr>
+		<tr>
+			<td><strong>Consent</strong></td>
+		</tr>
+		<tr>
+			<td>If you choose not to register or provide personal information, you can still use most of Yourguide or its associated web sites but you will not be able to access areas that require registration.</td>
+		</tr>
+		<tr>
+			<td>If you decide to register, you will be able to select the kinds of information you want to receive from Yourguide by subscribing to various services. If you do not want Yourguide to communicate with you about other offers regarding products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Yourguide.</td>
+		</tr>
+		<tr>
+			<td>Yourguide occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.</td>
+		</tr>
+		<tr>
+			<td height="12px"></td>
+		</tr>
+		<tr>
+			<td><strong>Security</strong></td>
+		</tr>
+		<tr>
+			<td>Yourguide has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorised access or disclosure, alteration or destruction.</td>
+		</tr>				
+		<tr>
+			<td height="12px"></td>
+		</tr>
+		<tr>
+			<td><strong>Notice to Parents</strong></td>
+		</tr>
+		<tr>
+			<td>Parents or guardians: We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.</td>
+		</tr>
+		<tr>
+			<td height="12px"></td>
+		</tr>
+		<tr>
+			<td><strong>Use of Internet Cookies</strong></td>
+		</tr>
+		<tr>
+			<td>Rural Press may use cookies to assist its web site users in accessing information on its sites which is of interest and relevance. Cookies are a way of storing information on a computer so users do not have to enter the same data every time they access an Internet site. We may also use cookies to assist in site functionality or with site visitor statistics, but we do not store any personal details when this is done.</td>
+		</tr>
+		<tr>
+			<td>If users have any concerns about this technology and do not wish to accept cookies, they can set the browser on their PC to not accept them or to prompt user every time they are about to be stored on the PC. The choice is with the user.</td>
+		</tr>
+		<tr>
+			<td height="2px"></td>
+		</tr>
+		</tbody></table>
+		</td>
 	</tr>
-</tbody></table>
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table><br>
 											</td>
 											<td width="15px"><img src="/images/general/space.gif" width="5px" height="100%" border="0"></td>
 											<td bgcolor="#C9C7C7" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
 											<td bgcolor="#DADADA" width="1px"><img src="/images/general/space.gif" width="1" height="100%" border="0"></td>
 											<td bgcolor="#E9E7E7" width="1px"><img src="/images/general/space.gif" width="1" height="100%" border="0"></td>
-											<!--<td bgcolor='#F3F3F3'><img src='/images/general/space.gif' width='1' height='100%' border='0'></td>-->
 											<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
 											<td bgcolor="#F9F9F9" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
-											<td valign="top" align="center" class="AdColumn"><!--<img src="/images/general_new/advertisement.gif" border="0" width="109" height="11"><br>--><br>
-											
-											<!--sPubId=2-->     <!--<table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <tr>
-       <td>
-        <center>
-         <img src="/images/general/space.gif" width="130" height="3" align="bottom"><BR>-->
+											<td valign="top" align="center" class="AdColumn">
 
-
-						<!--<a href="http://yourguide.nitroglobal.com?site=133" target="_blank"><img src="/images/ads/nitro_all.gif" width="120" height="72" border="0" alt="Click Here"></a>
-
-						<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="120" height="120" id="NitroButton" align="middle">
-							<param name="allowScriptAccess" value="sameDomain" />
-							<param name="movie" value="/images/ads/NitroButton_133.swf" />
-							<param name="quality" value="best" />
-							<param name="bgcolor" value="#ffffff" />
-							<embed src="/images/ads/NitroButton_133.swf" quality="best" bgcolor="#ffffff" width="120" height="120" name="NitroButton" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-						</object>
-						<BR><BR>-->
-			<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://www.holidaysawaysydneysider.com.au"><img src="/images/ads/HolidaysAwayBG.gif" width="120" height="180" border="0"></a></td></tr></tbody></table></td></tr></tbody></table><br>
-<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://www.ruralbookshop.com.au" target="_blank"><img src="/ads/ruralbookshop/120x60.gif" width="120" height="60" border="0" alt="ruralbookshop"></a></td></tr></tbody></table></td></tr></tbody></table><br>
-<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://www.farmonline.com.au/member_join.asp" target="_blank"><img src="/ads/daily_ag_news/120x130.gif" width="120" height="140" border="0" alt="Farmonline Daily AG News"></a></td></tr></tbody></table></td></tr></tbody></table><br>
-
-
-      <!-- </td>
-      </tr>
-     </table>-->
-
-
-<!--sPubId=2-->
+											<table cellpadding="0" cellspacing="0" border="0" '="" width="100%" height="100%" align="center">
+											<tbody><tr>
+												<td width="100%" valign="top" align="center">
+												<br>
 												
-												<!--<table border="0" cellpadding="0" cellspacing="0" class="AdBox"  onclick="alert(this.innerWidth);">
-													<tr>
-														<td>	
-															<table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox">
-																<tr>
-																	<td>	
-																		
-																		<img src='/images/general_new/adsample.gif' width='110' height='129' border='0'>
-																	</td>
-																</tr>
-															</table>
-														</td>
-													</tr>
-												</table>
-												<br><br>
-												<table border="0" cellpadding="0" cellspacing="0" class="AdBox"  onclick="alert(this.innerWidth);">
-													<tr>
-														<td>	
-															<table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox">
-																<tr>
-																	<td>	
-																		
-																		<img src='/images/general_new/adsample.gif' width='110' height='129' border='0'>
-																	</td>
-																</tr>
-															</table>
-														</td>
-													</tr>
-												</table>
-												<br><br>
-												<table border="0" cellpadding="0" cellspacing="0" class="AdBox"  onclick="alert(this.innerWidth);">
-													<tr>
-														<td>	
-															<table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox">
-																<tr>
-																	<td>	
-																		
-																		<img src='/images/general_new/adsample.gif' width='110' height='129' border='0'>
-																	</td>
-																</tr>
-															</table>
-														</td>
-													</tr>
-												</table>
--->
+<script language="JavaScript">
+	function showSearchLayer(LayerID) {
+		var i;
+		var objMenuButton;
 
+		if (document.all)
+		{
+			// IE browsers.
+			var aDivCollection = document.all.tags("div");
+		}
+		else
+		{
+			//Mozilla browsers.
+			var aDivCollection = document.getElementsByTagName("div"); 
+		}
 
-											<img src="/images/general/space.gif" width="1" height="5"><br>
-											<script type="text/javascript">
-												google_ad_client = "pub-7617671539297056";
-												google_ad_width = 120;
-												google_ad_height = 240;
-												google_ad_format = "120x240_as";
-												google_ad_type = "text_image";
-												google_ad_channel ="";
-												google_color_border = "CCCCCC";
-												google_color_bg = "FFFFFF";
-												google_color_link = "000000";
-												google_color_url = "666666";
-												google_color_text = "333333";
-											</script>
-											<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-											<img src="/images/general/space.gif" width="1" height="5"><br>
+		if (aDivCollection!=null)
+		{
+			for (i=0; i<aDivCollection.length; i++) 
+			{
+				if (aDivCollection[i].id.indexOf("menu") != -1)  //Is the word 'menu' part of the current DIV tag's ID? Only mess with DIVs that start with "menu".
+				{	
+					
+					objMenuButton = document.getElementById(aDivCollection[i].id + '_btn');
+					if (aDivCollection[i].id == "menu" + LayerID)
+					{
+						// Found the menu we want to display.
+						if (aDivCollection[i].style.display=='block')
+						{
+							aDivCollection[i].style.display='none';
+							if (objMenuButton) 
+							{
+								objMenuButton.src = objMenuButton.src.substring(0, objMenuButton.src.indexOf(".gif")); //Remove '.gif'
+								objMenuButton.src = objMenuButton.src + '_closed.gif'; //Append '_closed.gif'
+							}
+						}
+						else
+						{
+							aDivCollection[i].style.display='block';
+							if (objMenuButton) 
+							{
+								objMenuButton.src = objMenuButton.src.substring(0, objMenuButton.src.indexOf("_closed.gif")); //Remove '_closed.gif'
+								objMenuButton.src = objMenuButton.src + '.gif'; //Append '.gif'
+							}
+						}
+					}
+					else {
+						// All other menus are closed.
+						aDivCollection[i].style.display='none';
+						if (objMenuButton) 
+						{
+							if (objMenuButton.src.indexOf("_closed.gif") == -1)  //Only append '_closed' if it isn't already part of the file name.
+							{
+								objMenuButton.src = objMenuButton.src.substring(0, objMenuButton.src.indexOf(".gif")); //Remove '.gif'
+								objMenuButton.src = objMenuButton.src + '_closed.gif'; //Append '_closed.gif'
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" height="0px" width="170px">
+	<tbody><tr>
+		<td width="100%" valign="top"><a href="http://www.yourguide.com.au/yourguide.asp?src=lil"><img src="/_shared/_images/btn_yourguide.gif" width="170px" height="27px" border="0" alt="Visit YourGuide" title="Visit YourGuide"></a></td>
+	</tr>
+	<tr>
+		<td width="100%" valign="top"><a href="javascript:showSearchLayer('1');" onfocus="blur();"><img id="menu1_btn" name="menu1_btn" src="/_shared/_images/btn_jobsguide_closed.gif" width="170px" height="27px" border="0" alt="Search JobsGuide" title="Search JobsGuide"></a></td>
+	</tr>
+	<tr>
+		<td width="100%" valign="top">
+			<div id="menu1" name="menu1" style="position:relative; display:none;">
+				
+	
+	<form name="frmJobsguide" target="_blank" action="http://www.jobsguide.com.au/search_results.asp" method="get">
+	<input type="hidden" name="cmd" value="search">
+	<input type="hidden" name="src" value="yg_search">
+		<table cellpadding="5" cellspacing="0" border="0" class="sitebox_jobsguide" width="100%">
+			<tbody><tr>
+				<td>
+					Region:<br>
+		<select name="sLocation_Region" id="sLocation_Region" class="sitebox_select">
+		<option value="">Choose Region</option>
+		
+				<optgroup label="ACT">
+					
+				<option value="1">Canberra &amp; Surrounds</option>
+		
+				</optgroup>
+					
+				<optgroup label="NSW">
+					
+				<option value="22">Blue Mountains</option>
+		
+				<option value="11">Central West</option>
+		
+				<option value="26">Hawkesbury &amp; Outer Sydney</option>
+		
+				<option value="89">New England &amp; North West</option>
+		
+				<option value="30">Newcastle &amp; Hunter</option>
+		
+				<option value="31">North Coast</option>
+		
+				<option value="33">Riverina &amp; Murray</option>
+		
+				<option value="32">South Coast</option>
+		
+				<option value="88">Sthn Highlands Capital &amp; Snowy</option>
+		
+				<option value="29">Tamworth</option>
+		
+				<option value="18">Western</option>
+		
+				</optgroup>
+					
+				<optgroup label="NT">
+					
+				<option value="633">Northern Territory</option>
+		
+				</optgroup>
+					
+				<optgroup label="NZ">
+					
+				<option value="635">Auckland</option>
+		
+				<option value="638">Bay of Plenty</option>
+		
+				<option value="642">Canterbury/WestCoast</option>
+		
+				<option value="644">Gisborne</option>
+		
+				<option value="647">Hawkes Bay</option>
+		
+				<option value="653">Nelson/Marlborough</option>
+		
+				<option value="657">Northland</option>
+		
+				<option value="661">Otago/SouthLand</option>
+		
+				<option value="666">Taranaki/Wanganui</option>
+		
+				<option value="669">Waikato</option>
+		
+				<option value="675">Wellington/Manawatu</option>
+		
+				</optgroup>
+					
+				<optgroup label="QLD">
+					
+				<option value="117">Central Coast</option>
+		
+				<option value="119">Far North</option>
+		
+				<option value="118">Outback</option>
+		
+				<option value="9">Redland</option>
+		
+				<option value="121">South East</option>
+		
+				<option value="120">Southern</option>
+		
+				</optgroup>
+					
+				<optgroup label="SA">
+					
+				<option value="42">Barossa &amp; Outer Adelaide</option>
+		
+				<option value="41">Eyre Peninsula</option>
+		
+				<option value="124">Flinders Ranges &amp; Outback</option>
+		
+				<option value="13">Mid North &amp; Yorke Peninsula</option>
+		
+				<option value="44">Murraylands &amp; South East</option>
+		
+				<option value="40">Northern</option>
+		
+				<option value="43">Victor Hbr &amp; Kangaroo Island</option>
+		
+				</optgroup>
+					
+				<optgroup label="TAS">
+					
+				<option value="655">North West and West Tasmania</option>
+		
+				<option value="24">Tasmania - North</option>
+		
+				</optgroup>
+					
+				<optgroup label="VIC">
+					
+				<option value="20">Ballarat &amp; Central Highlands</option>
+		
+				<option value="105">Bendigo &amp; Central Victoria</option>
+		
+				<option value="106">Geelong &amp; Surf Coast</option>
+		
+				<option value="103">Gippsland</option>
+		
+				<option value="104">Gippsland West</option>
+		
+				<option value="95">Goulburn Valley</option>
+		
+				<option value="125">Mornington Peninsula &amp; Outer Melb</option>
+		
+				<option value="21">Sunraysia &amp; Mallee</option>
+		
+				<option value="107">Wimmera &amp; Western</option>
+		
+				</optgroup>
+					
+				<optgroup label="WA">
+					
+				<option value="109">Goldfields</option>
+		
+				<option value="123">Mandurah &amp; Outer Perth</option>
+		
+				<option value="122">North West</option>
+		
+				<option value="35">South West</option>
+		
+				<option value="36">Wheatbelt</option>
+		
+		</optgroup></select>
+		
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Keyword:<br>
+					<input type="text" name="keywords" class="sitebox_input">
+				</td>
+			</tr>
+			<tr>
+				<td align="right">
+					<input type="image" value="find jobs" src="/_shared/_images/btn_search_jobsguide.gif" width="64px" height="16px" border="0" alt="Search JobsGuide" title="Search JobsGuide" class="sitebox_searchbtn">&nbsp;&nbsp;
+				</td>
+			</tr>
+		</tbody></table>	
+	</form>
+	
+	
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="100%" valign="top"><a href="javascript:showSearchLayer('2');" onfocus="blur();"><img id="menu2_btn" name="menu2_btn" src="/_shared/_images/btn_propertyguide_closed.gif" width="170px" height="27px" border="0" alt="Search PropertyGuide" title="Search PropertyGuide"></a></td>
+	</tr>
+	<tr>
+		<td width="100%" valign="top">
+			<div id="menu2" name="menu2" style="position:relative; display:none;">
+				
+	<!--<form name="" target="_blank" action="http://www.propertyguide.com.au/property_results.asp" method="get">-->
+	<!--<input type="hidden" name="cmd" value="search" />-->
+	<form name="frmPropertyGuide" target="_blank" action="http://www.propertyguide.com.au/index.asp" method="get">
+	<input type="hidden" name="display_mode" value="search">
+	<input type="hidden" name="src" value="yg_search">
+		<table cellpadding="5" cellspacing="0" border="0" class="sitebox_propertyguide" width="100%">
+			<tbody><tr>
+				<td>
+					Region:<br>
+					
+		<select name="region_id" id="region_id" class="sitebox_select">
+		<option value="">Choose Region</option>
+		
+				<optgroup label="ACT">
+					
+				<option value="1">Canberra &amp; Surrounds</option>
+		
+				</optgroup>
+					
+				<optgroup label="NSW">
+					
+				<option value="22">Blue Mountains</option>
+		
+				<option value="11">Central West</option>
+		
+				<option value="26">Hawkesbury &amp; Outer Sydney</option>
+		
+				<option value="89">New England &amp; North West</option>
+		
+				<option value="30">Newcastle &amp; Hunter</option>
+		
+				<option value="31">North Coast</option>
+		
+				<option value="33">Riverina &amp; Murray</option>
+		
+				<option value="32">South Coast</option>
+		
+				<option value="88">Sthn Highlands Capital &amp; Snowy</option>
+		
+				<option value="29">Tamworth</option>
+		
+				<option value="18">Western</option>
+		
+				</optgroup>
+					
+				<optgroup label="NT">
+					
+				<option value="633">Northern Territory</option>
+		
+				</optgroup>
+					
+				<optgroup label="QLD">
+					
+				<option value="117">Central Coast</option>
+		
+				<option value="119">Far North</option>
+		
+				<option value="118">Outback</option>
+		
+				<option value="9">Redland</option>
+		
+				<option value="121">South East</option>
+		
+				<option value="120">Southern</option>
+		
+				</optgroup>
+					
+				<optgroup label="SA">
+					
+				<option value="42">Barossa &amp; Outer Adelaide</option>
+		
+				<option value="41">Eyre Peninsula</option>
+		
+				<option value="124">Flinders Ranges &amp; Outback</option>
+		
+				<option value="13">Mid North &amp; Yorke Peninsula</option>
+		
+				<option value="44">Murraylands &amp; South East</option>
+		
+				<option value="40">Northern</option>
+		
+				<option value="43">Victor Hbr &amp; Kangaroo Island</option>
+		
+				</optgroup>
+					
+				<optgroup label="TAS">
+					
+				<option value="96">North West and West Tasmania</option>
+		
+				<option value="24">Tasmania - North</option>
+		
+				</optgroup>
+					
+				<optgroup label="VIC">
+					
+				<option value="20">Ballarat &amp; Central Highlands</option>
+		
+				<option value="105">Bendigo &amp; Central Victoria</option>
+		
+				<option value="106">Geelong &amp; Surf Coast</option>
+		
+				<option value="103">Gippsland</option>
+		
+				<option value="104">Gippsland West</option>
+		
+				<option value="95">Goulburn Valley</option>
+		
+				<option value="125">Mornington Peninsula &amp; Outer Melb</option>
+		
+				<option value="21">Sunraysia &amp; Mallee</option>
+		
+				<option value="107">Wimmera &amp; Western</option>
+		
+				</optgroup>
+					
+				<optgroup label="WA">
+					
+				<option value="109">Goldfields</option>
+		
+				<option value="123">Mandurah &amp; Outer Perth</option>
+		
+				<option value="122">North West</option>
+		
+				<option value="35">South West</option>
+		
+				<option value="36">Wheatbelt</option>
+		
+		</optgroup></select>
+		
+				</td>
+			</tr>
+			<tr>
+				<td align="right">
+					<!--<input type="submit" value="find homes"/>-->
+					<input type="image" value="find homes" src="/_shared/_images/btn_search_propertyguide.gif" width="64px" height="16px" border="0" alt="Search PropertyGuide" title="Search PropertyGuide" class="sitebox_searchbtn">&nbsp;&nbsp;
+				</td>
+			</tr>
+		</tbody></table>
+	</form>
+	
+			</div>
+		</td>
+	</tr>
+	
+		<tr>
+			<td width="100%" valign="top"><a href="javascript:showSearchLayer('3');" onfocus="blur();"><img id="menu3_btn" name="menu3_btn" src="/_shared/_images/btn_autoguide_closed.gif" width="170px" height="27px" border="0" alt="Search AutoGuide" title="Search AutoGuide"></a></td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+				<div id="menu3" name="menu3" style="position:relative; display:none;">
+					
+	<form name="frmAutoGuide" target="_blank" action="http://www.autoguide.com.au/searchresults.asp" method="get">
+		<input type="hidden" name="cmd" value="search">
+		<input type="hidden" name="src" value="yg_search">
+		<table cellpadding="5" cellspacing="0" border="0" class="sitebox_autoguide" width="100%">
+			<!--<tr>
+				<td align="center">
+					<strong>www.autoguide.com.au</strong>
+				</td>
+			</tr>-->
+			<tbody><tr>
+				<td>
+					Region:<br>
+					
+		<select name="nRegion" id="nRegion" class="sitebox_select">
+		<option value="">Choose Region</option>
+		
+				<optgroup label="ACT">
+					
+				<option value="1">Canberra &amp; Surrounds</option>
+		
+				</optgroup>
+					
+				<optgroup label="NSW">
+					
+				<option value="22">Blue Mountains</option>
+		
+				<option value="11">Central West</option>
+		
+				<option value="26">Hawkesbury &amp; Outer Sydney</option>
+		
+				<option value="89">New England &amp; North West</option>
+		
+				<option value="30">Newcastle &amp; Hunter</option>
+		
+				<option value="31">North Coast</option>
+		
+				<option value="33">Riverina &amp; Murray</option>
+		
+				<option value="32">South Coast</option>
+		
+				<option value="88">Sthn Highlands Capital &amp; Snowy</option>
+		
+				<option value="29">Tamworth</option>
+		
+				<option value="18">Western</option>
+		
+				</optgroup>
+					
+				<optgroup label="NT">
+					
+				<option value="633">Northern Territory</option>
+		
+				</optgroup>
+					
+				<optgroup label="NZ">
+					
+				<option value="635">Auckland</option>
+		
+				<option value="638">Bay of Plenty</option>
+		
+				<option value="642">Canterbury/WestCoast</option>
+		
+				<option value="644">Gisborne</option>
+		
+				<option value="647">Hawkes Bay</option>
+		
+				<option value="653">Nelson/Marlborough</option>
+		
+				<option value="657">Northland</option>
+		
+				<option value="661">Otago/SouthLand</option>
+		
+				<option value="666">Taranaki/Wanganui</option>
+		
+				<option value="669">Waikato</option>
+		
+				<option value="675">Wellington/Manawatu</option>
+		
+				</optgroup>
+					
+				<optgroup label="QLD">
+					
+				<option value="117">Central Coast</option>
+		
+				<option value="119">Far North</option>
+		
+				<option value="118">Outback</option>
+		
+				<option value="9">Redland</option>
+		
+				<option value="121">South East</option>
+		
+				<option value="120">Southern</option>
+		
+				</optgroup>
+					
+				<optgroup label="SA">
+					
+				<option value="42">Barossa &amp; Outer Adelaide</option>
+		
+				<option value="41">Eyre Peninsula</option>
+		
+				<option value="124">Flinders Ranges &amp; Outback</option>
+		
+				<option value="13">Mid North &amp; Yorke Peninsula</option>
+		
+				<option value="44">Murraylands &amp; South East</option>
+		
+				<option value="40">Northern</option>
+		
+				<option value="43">Victor Hbr &amp; Kangaroo Island</option>
+		
+				</optgroup>
+					
+				<optgroup label="TAS">
+					
+				<option value="655">North West and West Tasmania</option>
+		
+				<option value="24">Tasmania - North</option>
+		
+				</optgroup>
+					
+				<optgroup label="VIC">
+					
+				<option value="20">Ballarat &amp; Central Highlands</option>
+		
+				<option value="105">Bendigo &amp; Central Victoria</option>
+		
+				<option value="106">Geelong &amp; Surf Coast</option>
+		
+				<option value="103">Gippsland</option>
+		
+				<option value="104">Gippsland West</option>
+		
+				<option value="95">Goulburn Valley</option>
+		
+				<option value="125">Mornington Peninsula &amp; Outer Melb</option>
+		
+				<option value="21">Sunraysia &amp; Mallee</option>
+		
+				<option value="107">Wimmera &amp; Western</option>
+		
+				</optgroup>
+					
+				<optgroup label="WA">
+					
+				<option value="109">Goldfields</option>
+		
+				<option value="123">Mandurah &amp; Outer Perth</option>
+		
+				<option value="122">North West</option>
+		
+				<option value="35">South West</option>
+		
+				<option value="36">Wheatbelt</option>
+		
+		</optgroup></select>
+		
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Make:<br>
+					
+	<select name="sCarMake" class="sitebox_select">
+	<option value="">Choose Make</option>
+	
+	<option value="ALFA ROMEO">ALFA ROMEO</option>
+	
+	<option value="ASIA">ASIA</option>
+	
+	<option value="AUDI">AUDI</option>
+	
+	<option value="BMW">BMW</option>
+	
+	<option value="CADILLAC">CADILLAC</option>
+	
+	<option value="CHEVROLET">CHEVROLET</option>
+	
+	<option value="CHRYSLER">CHRYSLER</option>
+	
+	<option value="CITROEN">CITROEN</option>
+	
+	<option value="DAEWOO">DAEWOO</option>
+	
+	<option value="DAIHATSU">DAIHATSU</option>
+	
+	<option value="DATSUN">DATSUN</option>
+	
+	<option value="DODGE">DODGE</option>
+	
+	<option value="FIAT">FIAT</option>
+	
+	<option value="FORD">FORD</option>
+	
+	<option value="FREIGHTLINER">FREIGHTLINER</option>
+	
+	<option value="HILLMAN">HILLMAN</option>
+	
+	<option value="HINO">HINO</option>
+	
+	<option value="HOLDEN">HOLDEN</option>
+	
+	<option value="HONDA">HONDA</option>
+	
+	<option value="HSV">HSV</option>
+	
+	<option value="HYUNDAI">HYUNDAI</option>
+	
+	<option value="INTERNATIONAL">INTERNATIONAL</option>
+	
+	<option value="ISUZU">ISUZU</option>
+	
+	<option value="IVECO">IVECO</option>
+	
+	<option value="JAGUAR">JAGUAR</option>
+	
+	<option value="JEEP">JEEP</option>
+	
+	<option value="KENWORTH">KENWORTH</option>
+	
+	<option value="KIA">KIA</option>
+	
+	<option value="LADA">LADA</option>
+	
+	<option value="LAND ROVER">LAND ROVER</option>
+	
+	<option value="LEXUS">LEXUS</option>
+	
+	<option value="LEYLAND">LEYLAND</option>
+	
+	<option value="M.G.">M.G.</option>
+	
+	<option value="MACK">MACK</option>
+	
+	<option value="MAZDA">MAZDA</option>
+	
+	<option value="MERCEDES-BENZ">MERCEDES-BENZ</option>
+	
+	<option value="MINI">MINI</option>
+	
+	<option value="MITSUBISHI">MITSUBISHI</option>
+	
+	<option value="MORRIS">MORRIS</option>
+	
+	<option value="NISSAN">NISSAN</option>
+	
+	<option value="PEUGEOT">PEUGEOT</option>
+	
+	<option value="PONTIAC">PONTIAC</option>
+	
+	<option value="PROTON">PROTON</option>
+	
+	<option value="RANGE ROVER">RANGE ROVER</option>
+	
+	<option value="RENAULT">RENAULT</option>
+	
+	<option value="ROVER">ROVER</option>
+	
+	<option value="SAAB">SAAB</option>
+	
+	<option value="SCANIA">SCANIA</option>
+	
+	<option value="SEAT">SEAT</option>
+	
+	<option value="SSANGYONG">SSANGYONG</option>
+	
+	<option value="SUBARU">SUBARU</option>
+	
+	<option value="SUZUKI">SUZUKI</option>
+	
+	<option value="TATA">TATA</option>
+	
+	<option value="TOYOTA">TOYOTA</option>
+	
+	<option value="TRIUMPH">TRIUMPH</option>
+	
+	<option value="VOLKSWAGEN">VOLKSWAGEN</option>
+	
+	<option value="VOLVO">VOLVO</option>
+	
+	</select>
+	
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Model:<br>
+					<input type="text" name="sCarModel" class="sitebox_input">
+				</td>
+			</tr>
+			<tr>
+				<td align="right">
+					<!--<input type="submit" value="find cars"/>-->
+					<input type="image" value="find cars" src="/_shared/_images/btn_search_autoguide.gif" width="64px" height="16px" border="0" alt="Search AutoGuide" title="Search AutoGuide" class="sitebox_searchbtn">&nbsp;&nbsp;
+				</td>
+			</tr>
+		</tbody></table>
+	</form>
+	
+	
+				</div>
+			</td>
+		</tr>
+	
+	<tr>
+		<td width="100%" valign="top"><a href="http://www.farmonline.com.au/index.asp?src=lil"><img src="/_shared/_images/btn_farmonline.gif" width="170px" height="27px" border="0" alt="Visit Farmonline" title="Visit Farmonline"></a></td>
+	</tr>
+	<tr>
+		<td width="100%" valign="top"><a href="http://www.yourguide.com.au/setup.asp?mast_id=133&amp;src=lil"><img src="/_shared/_images/btn_canberratimes.gif" width="170px" height="27px" border="0" alt="Visit Canberra Times" title="Visit The Canberra Times"></a></td>
+	</tr>
+	<tr>
+		<td width="100%" height="100%" valign="top"></td>
+	</tr>
+</tbody></table>
+												</td>
+											</tr>
+											<tr>
+												<td width="100%" valign="top" align="center">
+												<br>
+												<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10507&amp;s=8&amp;schedule_id=884" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/507/10507.jpg" border="0" alt="Canberra Property"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1908&amp;cb=0.7666829"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10508&amp;s=8&amp;schedule_id=885" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/508/10508.jpg" border="0" alt="Photo Sales"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1913&amp;cb=0.8843195"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10511&amp;s=8&amp;schedule_id=888" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/511/10511.jpg" border="0" alt="Education supplements"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1928&amp;cb=4.892677E-02"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10732&amp;s=8&amp;schedule_id=1102" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/732/10732.gif" border="0" alt="Weddings of 2006"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=2629&amp;cb=0.9400538"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10974&amp;s=8&amp;schedule_id=1331" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/974/10974.gif" border="0" alt="Babies of 2006"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=3573&amp;cb=0.2993265"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10509&amp;s=8&amp;schedule_id=886" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/509/10509.jpg" border="0" alt="Classifieds"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1918&amp;cb=0.5610471"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://ads.ruralpress.com/adserv_redir.asp?ad_id=10510&amp;s=8&amp;schedule_id=887" target="_self"><img src="http://ads.ruralpress.com/_upload/ads/510/10510.gif" border="0" alt="Gardening information sheet"></a><div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1923&amp;cb=0.4447696"></div></td></tr></tbody></table></td></tr></tbody></table><br><table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><script language="JavaScript" type="text/javascript" src="http://maxads.ruralpress.com/phpAdsNew/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://maxads.ruralpress.com/phpAdsNew/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:39");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://maxads.ruralpress.com/phpAdsNew/adjs.php?n=189953725&amp;what=zone:39&amp;exclude=,"></script><noscript><a href='http://maxads.ruralpress.com/phpAdsNew/adclick.php?n=a914f9d5' target='_blank'><img src='http://maxads.ruralpress.com/phpAdsNew/adview.php?what=zone:39&n=a914f9d5' border='0' alt=''></a></noscript>
+<div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1672&amp;cb=0.7244493"></div></td></tr></tbody></table></td></tr></tbody></table><br>
+												
+												</td>
+											</tr>
+											</tbody></table>
 											</td>
 										</tr>
 									</tbody></table>
@@ -498,26 +1325,41 @@
 
 <!-- END OVERALL TABLE -->
 
-<p align="center">
-<script type="text/javascript">
-	<!--
-		google_ad_client = "pub-7617671539297056";
-		google_ad_width = 728;
-		google_ad_height = 90;
-		google_ad_format = "728x90_as";
-		google_ad_type = "text_image";
-		google_ad_channel ="";
-		google_color_border = "CCCCCC";
-		google_color_bg = "FFFFFF";
-		google_color_link = "000000";
-		google_color_url = "666666";
-		google_color_text = "333333";
-	//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</p>
+
 
 <!-- end body -->
+<!-- START Nielsen//NetRatings SiteCensus V5.1 -->
+<!-- COPYRIGHT 2005 Nielsen//NetRatings -->
+<script src="/_shared/js/acnielsen.js" language="JavaScript" type="text/javascript"></script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/web/20070410230228/http://secure-au.imrworldwide.com/v51.js"></script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/web/20070410230228/http://secure-au.imrworldwide.com/cgi-bin/j?ci=ruralpressltd&amp;rd=1580491329157&amp;se=1&amp;sv="></script>
+<noscript>
+	<img src="http://secure-au.imrworldwide.com/cgi-bin/m?ci=ruralpressltd&amp;cg=0" alt="">
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.1 --><!-- BEGIN: M1ACV Release 2.1.1 -->
+<!-- (c)2002-2006, MediaOne Network Inc. All Rights Reserved. -->
+<div id="M1DIV" name="M1DIV"></div>
+<img id="M1IMG" name="M1IMG" width="0" height="0" border="0" src="http://acvs.mediaonenetwork.net/client/pixel.gif">
+<script language="javascript" type="text/javascript" src="http://acvs.mediaonenetwork.net/client/acv211.js">
+</script>
+<noscript>
+<img border="0" src="http://acvs.mediaonenetwork.net/client/njs.aspx" width="0" height="0" alt="">
+</noscript>
+<!-- END: M1ACV -->
+<script language="JavaScript" type="text/javascript" src="http://maxads.ruralpress.com/phpAdsNew/adx.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://maxads.ruralpress.com/phpAdsNew/adlayer.php?what=zone:41&amp;layerstyle=simple&amp;align=center&amp;valign=middle&amp;padding=2&amp;padding=2&amp;shifth=0&amp;shiftv=0&amp;closebutton=f&amp;nobg=t&amp;noborder=t&amp;closetime=5"></script>
+<div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=3198&amp;cb=5.513364E-02"></div><iframe id="ae6b05c4" name="ae6b05c4" src="http://maxads.ruralpress.com/phpAdsNew/adframe.php?n=ae6b05c4&amp;what=zone:45" framespacing="0" frameborder="no" scrolling="no" width="1" height="1"><a href='http://maxads.ruralpress.com/phpAdsNew/adclick.php?n=ae6b05c4' target='_blank'><img src='http://maxads.ruralpress.com/phpAdsNew/adview.php?what=zone:45&amp;n=ae6b05c4' border='0' alt=''></a></iframe>
+<div style="position:absolute;top:1;left:-100;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=1800&amp;cb=0.650315"></div>
+	<img src="http://ads.ruralpress.com/beacon.asp?beacon=CTCOUNT&amp;cb=0.3155307">
+
+
+
+
+<table width="937" align="center" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td align="center"><span class="StandardTextSmall">Copyright © 2006. Rural Press Limited</span></td>
+</tr>
+</tbody></table>
+
+
 
 
 
