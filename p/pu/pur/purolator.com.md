@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429003945id_/http%3A//purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213211801id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
 
 # Purolator Courier Ltd.
 
@@ -12,7 +12,7 @@ For the purpose of this Privacy Statement, "personal information" means informat
 
 **What Personal Information We Collect and How We Use It**
 
-Purolator collects and retains information about every shipment we make so that we can better provide you with the services and information necessary to make shipping the easiest part of your day.
+Purolator collects and retains information about every shipment we make so that we can better provide you with the services and information necessary to make shipping even easier.
 
 Examples of personal information collected by Purolator are:
 
