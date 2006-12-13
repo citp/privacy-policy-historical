@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218021007id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213101730id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411: Privacy Policy
 
@@ -14,7 +14,7 @@ Lead411 holds the privacy and security of our site visitors and members as one o
 
 You can contact us by email: 
 
-[help@lead411.com](mailto:help@lead411.com), mail: 1460 Loma Drive, Hermosa Beach, CA 90254, or by telephone: 310.930.5865. Contact us if any of these privacy policies have been broken. 
+[help@lead411.com](mailto:help@lead411.com), mail: 326 Hollipat Center Drive #17, Santa Barbara, CA 93111, or by telephone: 310.930.5865. Contact us if any of these privacy policies have been broken. 
 
 **What Information is collected?**
 
