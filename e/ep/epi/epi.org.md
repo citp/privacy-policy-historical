@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208175920id_/http%3A//www.epi.org/content.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213203953id_/http%3A//www.epi.org/content.cfm/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
