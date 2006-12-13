@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002155id_/http%3A//www.wfaa.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213070321id_/http%3A//www.wfaa.com/registration/privacy) for the most accurate reproduction.*
 
 # Dallas-Fort Worth, Texas | WFAA.com | Privacy Policy
 
-| 
+.  | 
 
 **Updated as of March 5, 2004**
 
@@ -114,8 +114,10 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1015576815/Position1/default/empty.gif/7a2f4869356c34793241494143523364?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/546513466/Position1/default/empty.gif/7a2f4869323134793241494141524478?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/138931411/Position4/default/empty.gif/7a2f4869356c34793241494143523364?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/947859864/Position2/default/empty.gif/7a2f4869323134793241494141524478?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1656060237/Position5/default/empty.gif/7a2f4869356c34793241494143523364?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/479210210/Position4/default/empty.gif/7a2f4869323134793241494141524478?x)
+
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1542984992/Position5/default/empty.gif/7a2f4869323134793241494141524478?x)
