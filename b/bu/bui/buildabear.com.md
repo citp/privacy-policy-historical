@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616044325id_/http%3A//www.buildabear.com/AboutUs/OurCompany/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213210654id_/http%3A//www.buildabear.com/AboutUs/OurCompany/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Build-A-Bear Workshop-United States: Privacy Policy
 
 ## Build-A-Bear Workshop Privacy Policy
 
@@ -29,13 +29,14 @@ Uses:
 
 
 
+How to Contact Us:
+
   
 Write, call or email us at:  
 ---  
   
 #### In the US and Canada:
 
-Jennifer Vogel, CIPP  
 Privacy Officer   
 Build-A-Bear Workshop  
 1954 Innerbelt Business Center Drive  
@@ -46,12 +47,9 @@ Telephone: 1-877-789-BEAR (2327)
 
 #### In the United Kingdom:
 
-Jennifer Vogel, CIPP  
 Privacy Officer  
 Build-A-Bear Workshop UK & Eire  
 St. Stephens House, Arthur Road  
 Windsor, Berkshire SL4 RU  
 Email: [privacy@buildabear.co.uk](mailto:privacy@buildabear.co.uk?subject=UK%20privacy%20communication)  
-Telephone: 0870 2245130   
-  
- 
+Telephone: 0870 2245130 
