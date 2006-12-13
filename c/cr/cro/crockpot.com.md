@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616084405id_/http%3A//crockpot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213221914id_/http%3A//crockpot.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Welcome To Crockpot.com
 
- 
+| 
 
 Legal
 
@@ -40,7 +40,7 @@ Our Use of Advertising.com Services:  THG sometimes uses the services of Adver
 
   By clicking on this link – 
 
-[http://www.advertising.com/privacy/privacy html](http://www.advertising.com/privacy/privacy%20html) – you will be able (a) to view Advertising.com’s Privacy Policy and a detailed explanation of its data collection practices and (b) to opt out of Advertising.com’s data collection practices.
+[ http://www.advertising.com/privacy/privacy html](http://www.advertising.com/privacy/privacy%20html) – you will be able (a) to view Advertising.com’s Privacy Policy and a detailed explanation of its data collection practices and (b) to opt out of Advertising.com’s data collection practices.
 
 Media & Tracking: THG uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy)]. 
 
