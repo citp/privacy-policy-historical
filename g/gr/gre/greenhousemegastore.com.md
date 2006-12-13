@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040432id_/http%3A//www6.mailordercentral.com/igcusastore/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213130332id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
 
 # Greenhouses, Greenhouse Supplies, Commercial Greenhouses, Green Houses Plan, Green House Supply at the Greenhouse Mega Store
 
