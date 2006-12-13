@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogstoday.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034126id_/http%3A//www.blogstoday.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogstoday.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214004410id_/http%3A//www.blogstoday.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Disclaimer
 
