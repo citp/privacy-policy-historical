@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045118id_/http%3A//www.vancouver2010.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213145736id_/http%3A//www.vancouver2010.com/en/privacy) for the most accurate reproduction.*
 
 # Vancouver 2010 - VANOC Website Privacy Policy
 
@@ -68,6 +68,9 @@ If you choose to disable cookies associated with the Website, this may affect yo
 
 **Media extranet  
 ** There will be a separate part of the Website for the use of the Media. We will require that members of the Media who wish to use this secure part of the Website obtain a secure authentication offline. Members of the Media will be required to provide this authentication in order to access this part of the Website. We will also collect personal information for members of the Media, such as user name, e-mail address, phone number and name of media outlet for verification and statistical purposes.
+
+**Job Opportunities  
+** The website allows you to submit an application for employment and your resume. The website will be integrated with an electronic resume management system accessible to our human resources personnel. To administer the resume management system, we will collect your name, address and other information relating to your employment application including information regarding your education, work history and other qualifications.
 
 **Links to other sites  
 ** This Website contains links to other small websites. When you click on of those links, you are contacting another internet resource. VANOC has no responsibility or liability for, or control over those websites, or internet resources or their collection, use and disclosure of your personal information. Please refer to the privacy policy and terms of use contained in any linked site you choose to go to, and familiarize yourself with that website’s terms and conditions of use.
