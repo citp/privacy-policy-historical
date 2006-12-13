@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213110909id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
@@ -23,15 +23,17 @@ Your privacy is important to us. To better protect your privacy we provide this 
 This notice applies to all information collected or submitted on the Resume-Resource.com website from the server that hosts Resume-Resource.com. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Names  
-Billing Addresses  
+Addresses  
 Email addresses  
 Phone numbers  
-Credit/Debit Card Information
+Resume information
 
 
 
 
 We also partner with external websites that may provide online services and may choose to collect information.  Information collected by other websites promoted on the Resume-Resource.com website is subject to the privacy policy of such websites.
+
+Personal  and contact information provided for the free resume evaluation offer is collected and distributed to Bakos Group and subject to their privacy policy found here:  [ http://www.bakosgroup.com/privacy.htm](http://www.bakosgroup.com/privacy.htm)
 
 **The Way We Use Information:**
 
@@ -55,10 +57,10 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send an email to 
+Should you have other questions or concerns about these privacy policies, please send an email to  [web@resume-resource.com](mailto:web@resume-resource.com)
 
 * * *
 
-**[Back to Resume Articles](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/articles.html) | [Resume Examples](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/examples.html) | [Resume Home](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/index.html)**
+**[Back to Resume Articles](https://web.archive.org/web/20061213110909id_/http%3A//www.resume-resource.com/articles.html) | [Resume Examples](https://web.archive.org/web/20061213110909id_/http%3A//www.resume-resource.com/examples.html) | [Resume Home](https://web.archive.org/web/20061213110909id_/http%3A//www.resume-resource.com/index.html)**
 
 * * *
