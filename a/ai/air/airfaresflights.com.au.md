@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the airfaresflights.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616052808id_/http%3A//www.airfaresflights.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfaresflights.com.au privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213032303id_/http%3A//www.airfaresflights.com.au/privacy.htm) for the most accurate reproduction.*
 
-# Airfares Flights Travel Website Privacy Policy
+# Airfares Flights Privacy Policy
 
 **Our Privacy Policy**
 
 AirfaresFlights.com.au is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the AirfaresFlights.com.au Web site. 
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@AirfaresFlights.com.au](mailto:privacy@AirfaresFlights.com.au). 
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at;
+
+. 
 
 ** Gathering of Information**
 
@@ -30,6 +32,8 @@ In addition, any personally identifiable information provided by our users as pa
 
 Please be aware that AirfaresFlights.com.au sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to AirfaresFlights.com.au are not covered by this privacy statement. AirfaresFlights.com.au users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@AirfaresFlights.com.au](mailto:privacy@AirfaresFlights.com.au). 
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at;
+
+. 
 
 This statement may change from time to time, so please check back periodically.
