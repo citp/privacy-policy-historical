@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626092240id_/http%3A//www.the-house.com/info-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213214255id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
 
-# THE HOUSE - BEST PRICES ON BOARDS - HELPDESK
-
-**Brand Stores**
+# The House Helpdesk - Our Privacy Policy
 
 [](https://www.scanalert.com/RatingVerify?ref=www.the-house.com)
 
- 
+  
+
 
   
 Your Personal Information  
@@ -36,14 +35,14 @@ SSL uses authentication and encryption technology. For example, your browser's e
 Your browser and secure servers deliver server authentication using signed digital certificates issued by trusted third parties known as certificate authorities. A digital certificate verifies the connection between a server's public key and the server's identification (just as a driver's license verifies the connection between your photograph and your personal identification. Cryptographic checks, using digital signatures, ensure that information within a certificate can be trusted.  
 You can tell when you have a secure connection by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. You can also verify the security of a document by examining the security icon in the bottom-left corner of the browser window.
 
-Only your computer and the server can encrypt and decrypt your information. In transit, the information is meaningless and unreadable. An intermediary can continue to route the data, and even make copies of it, but the information cannot be decrypted and remains private and safely communicated.
+Only your computer and the server can encrypt and decrypt your information. In transit, the information is meaningless and unreadable. An intermediary can continue to route the data, and even make copies of it, but the information cannot be decrypted and remains private and safely communicated. 
 
-Top
+^ Back to Top ^
 
 ### Order by Phone Hours
 
 January - October  
-8AM - 7PM (M-F)  
+8AM - 6PM (M-F)  
 9AM - 2PM (Sat.)  
 Closed (Sunday)
 
