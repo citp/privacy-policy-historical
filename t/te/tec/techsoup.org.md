@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205614id_/http%3A//techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213054604id_/http%3A//www.techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
 
-# TechSoup - About TechSoup - Privacy Policy
+# Privacy Policy
 
 **COMPUMENTOR PRIVACY POLICY**  
 This statement discloses the privacy policy of CompuMentor, Inc. ("CompuMentor") and its subsidiaries, TechSoup.org and TechSoup Stock. CompuMentor reserves the right to collect Personal Information from visitors to the domains CompuMentor.org, TechSoup.org, and TechSoup.org/Stock ("Web Sites"). "Personal Information" is any information that allows one person to be identified or contacted by another, including -- but not limited to -- information about or relating to that person's name, mailing address, telephone number, and email address. 
@@ -65,9 +65,7 @@ My TechSoup Account Holders and TechCommons clients and volunteers may also occa
 
 **HOW TO OPT OUT**
 
-To unsubscribe from topic-specific email updates from TechSoup, My TechSoup Account Holders should adjust their account settings. To do this, log in from the TechSoup home page. Once you have logged in, click the Profile link to edit your my TechSoup profile. Once in [Edit My Profile](http://www.techsoup.org/tools/mts_edit.cfm), select the topics you are no longer interested in, and then click the Update button. 
-
-If you prefer not to receive other email communications from us, you can remove your name from the mailing list(s) by following the instructions at the bottom of the email message. 
+To unsubscribe from topic-specific email updates from TechSoup such as By The Cup and New Product Alert, you can remove your name from the mailing list(s) by following the instructions at the bottom of the email message. 
 
 If you would prefer not to receive the quarterly TechSoup Stock print catalog, please send an email to [privacy@compumentor.org](mailto:privacy@compumentor.org) with the subject line, "Print Catalog -- Opt Out." Please make sure to include your name and organization's in the body of your message. 
 
