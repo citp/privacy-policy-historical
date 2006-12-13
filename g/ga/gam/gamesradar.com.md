@@ -1,22 +1,108 @@
-> *The following text is extracted and transformed from the gamesradar.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617003127id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesradar.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213160223id_/http%3A//www.gamesradar.com/us/us_privacy.jsp) for the most accurate reproduction.*
 
-# FutureNet - Privacy Policy
+# GamesRadar - Privacy Policy
 
-Privacy Policy covering the websites of Future Publishing Ltd
+GamesRadar.com. Published by Future Us, Inc.
 
-Future Publishing Ltd. Beauford House 30 Monmouth Street Bath BA1 2BW England  
-Tel: (+44) 01225 442244
+At Future US, Inc., a magazine, disc media and website publisher, we are interested in protecting your privacy. But sometimes we do need information to understand how to make our properties more interesting, more specialized and more successful, and this statement of privacy explains data collection and use in those situations. Please read the complete privacy statement.
 
-  
-1\. General   
-This is a website of Future Publishing Ltd (“Future”). We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the Website editor.  2\. Use of Information   
-If you provide us with any personal information through this Website or any associated poll, survey or competition (“Your Information”) we will use it as set out in this policy and to: (a) provide you with any goods or services that you request and to monitor the provision of those goods and services; and (b) contact you about any goods or services of Future or any of its group companies which may be of interest to you. If you do not wish to receive information about our goods and services or those of our group companies, please follow the unsubscribe instructions on the correspondence you receive or on this Website or contact the Website editor.  3\. Disclosure to third parties   
-We may pass Your Information on to our group companies and our agents, subcontractors and partners and any agents, subcontractors and partners of our group of companies. We may also pass Your Information on to third parties who help us to organise and administer any competition, survey or poll which we run on or through this Website, only if specified in the rules of the competition, survey or poll. Unless expressly stated in this policy, we will not disclose any of Your Information to any other person without your consent. Please note that if you upload or post any information to a public part of this Website, we may use it in accordance with our [website terms and conditions of use](https://web.archive.org/futureonline/termsandconditions.asp) and it may be viewed and used by others.  4\. Our email newsletters and special interest newsletters   
-If you subscribe to receive one of our email newsletters or a special interest newsletter provided by one of our partners, that newsletter will be provided to you free of charge, unless otherwise stated. To enable us to do this you will need to provide us with your email address. We may ask you to provide us with other information which we or our partner may require from time to time for business purposes. Our newsletters and those of our partners may contain promotions or advertisements relating to the goods and services provided by us or our group companies or partners from time to time. If at any time you wish to unsubscribe from an email newsletter or a special interest newsletter you may do so by following the unsubscribe instructions on the newsletter or on this Website or by e-mailing the Website editor.  5\. Third party sites   
-This Website may contain a link to third party websites. We may, on occasion, disclose non-personal aggregated information to the owners or providers of those third party websites.  6\. Cookies   
-This Website may make use of 'cookies' and tracking software. Cookies are pieces of information that are stored by the browser on the hard drive of your computer. Cookies enable us and any person who advertises on our Website to provide features such as remembering certain of Your Information and your preferences. Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. Rejection of cookies will not prevent you from using most of the features on this Website. If you experience any problems having deleted cookies, you should contact the supplier of your web browser. The tracking software monitors traffic patterns and site usage so that we can design and develop this Website to suit the needs and requirements of visitors to it.  7\. Surveys   
-If you choose to take part in an on-line survey or poll conducted by us, we may use the information you provide for the purposes set out in Paragraph 2 above and we may disclose that information to the parties referred to in Paragraph 3 above. We may disclose non-personal, aggregated information we collect from you in this way to any other party.  8\. Security   
-In accordance with our requirements under the Data Protection Act 1998, we shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information.  9\. Usage of information   
-We may disclose Your Information if we are required to do so by any law or other regulatory or government authority.  10\. Corrections/updates   
-If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible.  11\. Policy changes   
-By using this Website you agree to the terms of this privacy policy and our [website terms of use](https://web.archive.org/futureonline/termsandconditions.asp). We may amend this privacy policy and our [website terms of use](https://web.archive.org/futureonline/termsandconditions.asp) from time to time. If we do so, we will post an updated version on this Website. 
+**Non US Visitors**  
+Our privacy policy is intended to meet the laws and requirements of the United States. If you are visiting from outside the United States any information you provide will be treated in accordance with the laws of the United States.
+
+**Collecting your Personal Information**  
+We will ask you when we need information that personally identifies you (that is, your first and last name; your home or business address; your e-mail address; your telephone number; your gender) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, or if you subscribe to one of our magazines or properties, or elect to participate in a forum and/or a survey. Personal information collected by any of our websites often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service to you.
+
+For example: If you choose to subscribe to a magazine or e-mail newsletter, we will request personal information such as: name, address, telephone number, and shipping information.
+
+Use of your Personal Information  
+We use your personal information for the following primary purposes:
+
+  * To help us create and deliver content most relevant to you. 
+  * To alert you to special offers, updated information and other services.
+  * To help us determine if any modifications need to be made to our publications or with respect to our subscriptions.
+  * To contact you regarding participation in a reader survey.
+
+
+
+We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+
+We also will occasionally share this information with third parties so that you may be informed of matters, services or products of interest to readers of our magazines.
+
+We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; (c) act in urgent circumstances to protect the personal safety of users of any of our websites, or the public; and (d) comply with negotiated agreements in the event of a merger or sale of any of our products.
+
+Control of your Personal Information   
+When you register on one of our websites, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+
+We will occasionally allow other companies to offer our customers information about their products and services. If you do not wish to receive any such mailings, you may send an e-mail to webmaster@gamesradar.com.
+
+**Security of your Personal Information**  
+Future US, Inc., will use its best efforts to protect the security of your personal information and honor your choices for its intended use.
+
+Your personal information is never shared outside the company without your permission, except under conditions explained above.
+
+**Email Correspondence**  
+We may respond to email sent directly to us or through a online submission form. This information and emails would only be shared with a third party in connection with a court order, sale of the website(s) to a third party or to defend a legal claim. These emails would only rarely be used for one time correspondence with that user. These e-mails are kept internally for our own day to day business purposes.
+
+**Special Notification with respect to Children's Privacy (Users under the age of 13)**   
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with our policy and COPPA regulations, we DO NOT:
+
+  1. Request or knowingly collect personally identifiable online or offline contact information from users under 13 years of age;
+  2. Knowingly use or share personal information from users under 13 years of age with third parties;
+  3. Give children the ability to publicly post or otherwise distribute personally identifiable contact information;
+  4. Entice children with the prospect of a special game, prize or other activity to divulge more information than is needed to participate in the activity.
+
+
+
+Parental Rights
+
+Except on our Message Board (See Below) we DO NOT collect information from children under 13. We are required by COPPA to post parental rights concerning removal of this information.
+
+**A Parent may**
+
+  1. confirm, correct or have deleted the child's personal information
+  2. discontinue further use of the child's information and/or communication with the child; and/or
+  3. revoke his or her earlier consent to collect and use the child's information.
+
+
+
+To do so, please contact us at webmaster@futurenetworkusa.com and we will review or update your child's information as appropriate. Please be sure to include in your email message the information you want changed or deleted.
+
+**Message Board & COPPA**  
+Our message board is set up to only accept registrations from ages 13 and up. Any users under 13 who try to register are screened via a online age check that uses cookies. Users under 13 who wish to register must submit a signed parental consent form to do so. The parent will then decide what information to release on the parental form which may include address, phone number & email address. We maintain this information on file for COPPA compliance and do not share this information with third parties. 
+
+With proper identification parents can remove their under 13 child from participation in our message board (See Parental Rights above).
+
+**Use of Cookies**   
+To ensure we are publishing content customers need and want, we may elect to collect aggregated site-visitation statistics using cookies. We do not track individuals' use of the site.
+
+**Third Party Advertising**   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+
+<http://www.networkadvertising.org/optout_nonppii.asp>
+
+Future US does not provide any personal information to a advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. Downloads or other content interacted with from third party advertisers is subject to the advertiser's privacy policies, not this one.
+
+Future US, Inc. lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Future US's cookies.
+
+**Third Party Cookies & IP Addresses**
+
+In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique "cookie" on your browser.
+
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+
+Most browsers are automatically set to accept cookies. You can disable cookies or set your browser to alert you when cookies are being sent. However, some areas will not function properly if you do so. There are many sources for additional information about Internet cookies, and we encourage anyone concerned about the use of cookies to do more research on the topic so you can make an informed decision about accepting them from any site. As technology advances and cookies provide more functionality, we expect to utilize them in different ways.
+
+IP Address. An Internet Protocol (IP) address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. The IP address is not tied to any personally identifiable information
+
+If you have questions regarding this statement, you should contact [webmaster@gamesradar.com](mailto:webmaster@gamesradar.com)
+
+**Changes to this Statement**  
+We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, we will notify you by placing prominent notice on the Web site.
+
+**Contact Information**  
+We welcome your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at
+
+Future US, Inc.   
+Attention: GamesRadar Webmaster   
+4000 Shoreline Court, Suite 400   
+South San Francisco, CA 94080.
