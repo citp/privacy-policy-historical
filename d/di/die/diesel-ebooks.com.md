@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033457id_/http%3A//www.diesel-ebooks.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213062042id_/http%3A//www.diesel-ebooks.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # Download ebooks at Diesel eBooks
 
