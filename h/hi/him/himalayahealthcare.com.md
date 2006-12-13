@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himalayahealthcare.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619124724id_/http%3A//himalayahealthcare.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayahealthcare.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213023534id_/http%3A//himalayahealthcare.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Liv.52,Pure herbs,Ayurvedic products India,Herbal health care,Herbal care India,Himalaya herbal healthcare,Herbal medicines India,Ayurvedic herbs India,Alternative medicines India,Herbal products India,Natural herbal remedies India
 
@@ -23,7 +23,7 @@ We continue to evaluate our efforts to protect personal information and make eve
 
 If you identify any error in your personal information or need to make a change to that information, please contact us and we will promptly update our records. 
 
-If you have any questions or concerns, please contact us by e-mail at [write.to.us@himalayahealthcare.com](mailto:write.to.us@himalayahealthcare.com) or call us at + 91 80 8394885
+If you have any questions or concerns, please contact us by e-mail at [write.to.us@himalayahealthcare.com](mailto:write.to.us@himalayahealthcare.com) or call us at + 91 80 23714444 
 
 Cookies
 
