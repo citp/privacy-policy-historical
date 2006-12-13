@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618162428id_/http%3A//www.nature.org/aboutus/misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213231424id_/http%3A//www.nature.org/aboutus/misc) for the most accurate reproduction.*
 
 # About The Nature Conservancy - The Nature Conservancy's Privacy Policy - Online Privacy Statement
 
@@ -253,9 +253,6 @@ Any information that you provide to us on the web, in e-mail, and by fax or mail
 The Nature Conservancy may occasionally update this policy so that it evolves with the rapidly changing technologies employed on the internet. All revisions will be posted to this web site and any revised Privacy Policy will apply only to data collected subsequent to its effective date.
 
 **Last revised:** January 26th, 2005
-
-  
-
   *[HTML]: HyperText Markup Language (HTML)
   *[EST]: Eastern Standrd Time (EST)
   *[IP]: Internet Protocol (IP)
