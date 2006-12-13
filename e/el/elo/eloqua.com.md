@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221159id_/http%3A//eloqua.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213160049id_/http%3A//www.eloqua.com/privacy/privacy.asp) for the most accurate reproduction.*
 
-# ELOQUA CORPORATION - Automating Demand Generation - Privacy
+# Eloqua, Generate Demand, Qualified Leads, Integrated Demand Generation Platform - About Us
 
   | 
 
@@ -34,7 +34,7 @@ Anonymity
 Eloqua allows each of its client sites to give visitors that require complete anonymity and privacy the option to not be engaged by the Eloqua system. Visitors will have the option of removing themselves from availability immediately upon entering the site by clicking on a privacy button, or when an agent requests a conversation they may opt not to accept. When engaged in an online chat session with an agent, the visitor may end the session at any time.
 
 Web Monitoring Opt-Out  
-Eloqua believes in permission-based marketing. If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out. [Click here](https://web.archive.org/web/20060615221159id_/http%3A//eloqua.com/privacy/optstatus.asp) to view your current opt-out status.
+Eloqua believes in permission-based marketing. If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out. [Click here](https://web.archive.org/web/20061213160049id_/http%3A//www.eloqua.com/privacy/optstatus.asp) to view your current opt-out status.
 
 Clients  
 Eloqua's products are developed for the use of, and distributed to, third party clients. Eloqua encourages its clients to adopt privacy policies similar to, or more stringent than, its own. Eloqua sells its products only to reputable and ethical clients. Eloqua Corporation cannot be held responsible if a client chooses unethical or immoral use of the information that the Eloqua products gather.
