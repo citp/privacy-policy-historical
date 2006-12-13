@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319073030id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213112436id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -23,6 +23,7 @@
 ### : community
 
   * [members](http://www.poems-and-quotes.com/authors.html)
+  * [moderators](http://www.poems-and-quotes.com/moderators.html)
   * [poetry clubs](http://www.poems-and-quotes.com/poetry_clubs.html)
   * [contest winners](http://www.poems-and-quotes.com/contests.html)
   * [discussion board](http://www.poems-and-quotes.com/discussion/)
@@ -36,7 +37,7 @@
 
 | 
 
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20060319073030id_/http%3A//www.poems-and-quotes.com/contact.html).
+This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20061213112436id_/http%3A//www.poems-and-quotes.com/contact.html).
 
 ## Information Collection and Use
 
