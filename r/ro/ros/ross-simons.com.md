@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ross-simons.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000946id_/http%3A//www.ross-simons.com/content/_05_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ross-simons.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213195954id_/http%3A//www.ross-simons.com/content/_05_privacy.htm) for the most accurate reproduction.*
 
 # Ross-Simons | Your Privacy
 
