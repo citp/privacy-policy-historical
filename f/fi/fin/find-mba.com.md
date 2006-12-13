@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-mba.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618185932id_/http%3A//find-mba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-mba.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213072954id_/http%3A//find-mba.com/privacy) for the most accurate reproduction.*
 
 # FIND MBA - Privacy
 
