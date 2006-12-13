@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the colombiancupid.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623002130id_/http%3A//www.colombiancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colombiancupid.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213112638id_/http%3A//www.colombiancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # ColombianCupid.com - Colombian Dating, Singles and Personals
 
-**INTERACTIVE CONNECTIONS PTY LTD PRIVACY POLICY**
+**CUPID MEDIA PTY LTD PRIVACY POLICY**
 
 ColombianCupid.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
 
@@ -370,11 +370,11 @@ that is also Personal Information; or
 
 Name
 
-**: Interactive Connections Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Interactive Connections Pty Ltd.  
+**: Cupid Media Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
 **Address** : PO Box 9304, Gold Coast MC Qld 9726  
 Phone: 61 7 5510 3066  
 **Fax Number** : 61 7 5574 2113  
-**Email Address** : info@interactive-connections.com  
+**Email Address** : team@cupidmedia.com  
 **Contact** : Customer Service
   2. **Purposes  
 **  
