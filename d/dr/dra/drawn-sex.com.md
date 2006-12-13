@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawn-sex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204259id_/http%3A//drawn-sex.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawn-sex.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214000957id_/http%3A//drawn-sex.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
