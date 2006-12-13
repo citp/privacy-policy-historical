@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
 Free-Beauty-Tips.com, its advertising partners and network affiliates, are committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
-
-**PLEASE NOTE:** Third Party Advertising   
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.maxonline.com/privacy_policy/index.php>
-
-Third Party Cookies   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 **Internet User Information**
 
@@ -22,16 +16,16 @@ Furthermore, Free-Beauty-Tips does not divulge any information regarding the use
 
 |  |  **Health Tips**  
 ---  
-[**Healthy You**](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/health.html)  
+[**Healthy You**](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/health.html)  
 **Special Care**  
-**[ Acne Problems](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/acne.html)**  
+**[ Acne Problems](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/acne.html)**  
   
 **Cosmetics**  
-[**Cosmetics**](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/cosmetics.html)  
+[**Cosmetics**](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/cosmetics.html)  
 **Fun & Beauty**  
-[**Girls Night**](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/girls-night.html)  
+[**Girls Night**](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/girls-night.html)  
 **Free Samples**  
-[**Samples of Free Beauty Products**](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/samples.html)  
+[**Samples of Free Beauty Products**](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/samples.html)  
   
 **Fun Stuff**  
 [**Free Greeting Cards**](http://www.1lovecards.com/)  
@@ -39,7 +33,7 @@ Furthermore, Free-Beauty-Tips does not divulge any information regarding the use
 [**Fitness**](http://www.wholefitness.com/)  
 [**Love Poems**](http://www.1lovepoems.com/)  
 **Resources**  
-[**Related Websites**](https://web.archive.org/web/20060629005233id_/http%3A//free-beauty-tips.com/resources.html)  
+[**Related Websites**](https://web.archive.org/web/20061213200813id_/http%3A//www.free-beauty-tips.com/resources.html)  
   
   
 Be good to yourself. Enjoy every day.
