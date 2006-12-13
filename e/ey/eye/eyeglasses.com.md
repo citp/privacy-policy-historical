@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628120152id_/http%3A//eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213181003id_/http%3A//eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -58,6 +58,8 @@ The website has the ability to collect information in numerous places. All of th
 From customers we collect contact information (email, street address, and telephone numbers), unique identifiers (like photographs, password, and prescription information), credit card information, demographic information (zip code, age, and gender), preferences (personal style attributes and preferences, when to be notified, wish list decoration), your doctor's information (name and phone number), insurance information. 
 
 From Associate-candidates we collect contact information (email, street address, and telephone numbers), professional certification, other doctors/opticians in the office, number of patients seen each month, office administrative contact, and some information on their eyeglass business (do they sell it, number of frames sold per week, number of lenses sold per week). 
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. eyeglasses.com does not store this information for the sole purpose of sending this one-time email. 
 
 **Optional and mandatory information we collect**   
 Anyplace in the site that requests information we indicate whether the information is mandatory. Customers have the capability to buy products from us without having cookies enabled, and any address and credit card information we collect will be deleted as soon as the order has been fulfilled. However, customers will not be able to enjoy the site's unique features unless certain information is collected. For example, to purchase eyeglass lenses you must create a customer account and you must provide prescription information and doctor's information. Your photograph and your PD is required in order to e Try It Onsm. 
