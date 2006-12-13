@@ -1,20 +1,11 @@
-> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520080130id_/http%3A//www.extremefitness.com/forum/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213192158id_/http%3A//www.extremefitness.com/forum/privacy.php) for the most accurate reproduction.*
 
 # ExtremeFitness.Com's Privacy Policy
-
-[](https://web.archive.org/forum/index.php)
-
-  
-
-
-ExtremeFitness is the place to be if you are Extreme about your workouts - be it Bodybuilding, Marathons, IronMan competitions or whatever, you'll find like-minded people here who share your passion for working out. Our spam-and-ad-free environment makes ExtremeFitness a unique place to do your research and interact with your peers. So what are you waiting for? Join up now and join our community today!
-
-You will have to [**register**](https://web.archive.org/forum/register.php?s=6380eb45611459eac2132f9c47e9ac68&) before you can post: so just click the register link above to proceed. To start viewing messages, select the forum that you want to visit from the selection below. 
 
   
 | [](https://web.archive.org/forum/index.php) | 
 
-[](https://web.archive.org/web/20060520080130id_/http%3A//www.extremefitness.com/forum/index.php?s=6380eb45611459eac2132f9c47e9ac68) **Extreme Fitness**
+[](https://web.archive.org/web/20061213192158id_/http%3A//www.extremefitness.com/forum/index.php?s=1b4719478c58681cf073608f71daf294) **Extreme Fitness**
 
 |   
 ---|---|---  
@@ -171,7 +162,7 @@ The submission of misleading information of any sort in a notification or counte
 
 « Back  
   
-All times are GMT -5. The time now is 02:58 AM.
+All times are GMT -5. The time now is 02:19 PM.
 
 |   
 ---|---
