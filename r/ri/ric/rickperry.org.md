@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628184726id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213202357id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
 
-# Governor Rick Perry: Privacy Policy
+# Governor Rick Perry § RickPerry.org Privacy Policy
 
 Welcome to RickPerry.org, the official web site of Texans for Rick Perry which is the Governor’s official campaign organization. We have developed this privacy policy to explain what information we might collect from you during your visit to the site and why we collect it.
 
@@ -18,10 +18,6 @@ More and more, email is become the best method to communicate with the Governor�
   * By mail: Webmaster, Texans for Rick Perry, PMB 217, P.O. Box 2013, Austin, Texas 78768
 
 
-
-#### Email/Tell a Friend:
-
-This site contains a feature that allows users to send a links to specific news items or a link to the site home page. You will be asked to share your email address and the email address of the person to whom you send these links. The message that is sent will come from your address so that they know who sent it. The information will not be used for any other purpose and the addresses will not be automatically subscribed to our distribution list.
 
 #### Logs/Internet Protocol Address:
 
