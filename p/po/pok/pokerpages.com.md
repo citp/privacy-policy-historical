@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614180422id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213230042id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Poker Pages - Poker Articles, Tournaments, & Directory
 
-[](http://www.pokerpages.com/adserver/click.php?bannerID=2093&cachebuster=257980818)
+Top News
+
+Top Tournaments
+
+[](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2467&zoneid=0&source=&dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com)
 
 Basic Info
 
@@ -62,54 +66,47 @@ PokerPages is committed to respecting your choices regarding privacy.
 
 
 
-|  [Online Black Jack tourneys  
-$150 Free-$5Mill to win!  
-GameAccount.com ](http://www.pokerpages.com/adserver/click.php?bannerID=2122&cachebuster=114330081)
+| 
 
-[$250 CASH Bonus  
-at  
-BetHoldem.com ](http://www.pokerpages.com/adserver/click.php?bannerID=1974&cachebuster=21933898)
+[](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2187&zoneid=0&source=&dest=http%3A%2F%2Fwww2.pokerpages.com%2Fpoker-software%2Findex.htm)
 
-[**$30,000 SKILL  
-monthly league  
-BugsysClub** ](http://www.pokerpages.com/adserver/click.php?bannerID=2061&cachebuster=821976980)
+[Win Free Trip  
+to $10,000 Hold'em  
+Tournament!](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2594&zoneid=0&source=&dest=http%3A%2F%2Fwww.e-pokerusa.com%2Fwebsite%2Fdefault.aspx%3Fcbid%3D46_146)
 
-[$2,500,000 in  
-Monthly Prizes  
-Doylesroom.com  
-](http://www.pokerpages.com/adserver/click.php?bannerID=1238&cachebuster=932181174)
+[PKR- the future  
+of online poker  
+is here](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2527&zoneid=0&source=&dest=http%3A%2F%2Fwww.pkr.com%3FCampaignId%3D1628)
 
-[30% Rakeback  
-William Hill  
-(US/Canada only)](http://www.pokerpages.com/adserver/click.php?bannerID=1791&cachebuster=449303242)
+[WPX -   
+Home of   
+No Rake Poker](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2564&zoneid=0&source=&dest=http%3A%2F%2Fad.adlegend.com%2Fclick%3Fspacedesc%3D1032421_1015382_1x1_1001533_1001195%26F19%3D1001537%26bfid%3D)
 
-[Win a WSOP seat  
-at Every Satellite  
-at PokerShare.com ](http://www.pokerpages.com/adserver/click.php?bannerID=1942&cachebuster=140901073)
+[$2.5 Million   
+FREEROLL  
+at PokerStars ](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2376&zoneid=0&source=&dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com)
 
-[Play with the  
-Pros, ONLY at  
-Full Tilt!](http://www.pokerpages.com/adserver/click.php?bannerID=1536&cachebuster=825155844)
-
-[World Poker Exchange  
-\-- No Rake --](http://www.pokerpages.com/adserver/click.php?bannerID=1852&cachebuster=709922677)
-
-[Play at MANSION using  
-some of world's most  
-Advanced Poker Software ](http://www.pokerpages.com/adserver/click.php?bannerID=2070&cachebuster=914200673)
+[Play Doyle Brunson  
+$4,000,000 in   
+Monthly Prizes](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2361&zoneid=0&source=&dest=http%3A%2F%2Fwww.doylesroom.com%2F%3Frefid%3Dpkrpages)
 
 [**$50,000  
-Sponsorships at** PokerSchoolOnline](http://www.pokerpages.com/adserver/click.php?bannerID=1478&cachebuster=159137102)
+Sponsorships at** PokerSchoolOnline](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=1478&zoneid=0&source=&dest=http%3A%2F%2Fwww.pokerschoolonline.com%2F)
 
-[Poker Room Review-  
-Poker Rating Guide](http://www.pokerpages.com/adserver/click.php?bannerID=1823&cachebuster=796507672)
+[Be on TV-  
+Elimination  
+Blackjack!](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2464&zoneid=0&source=&dest=http%3A%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F7768-41910-9124-3)
 
-[<< $100 FREE >>  
-Party Poker  
-Worlds Largest!](http://www.pokerpages.com/adserver/click.php?bannerID=1639&cachebuster=229198306)
+[Play Online Poker  
+at  
+Full Tilt Poker](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2577&zoneid=0&source=&dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMTEwMTA0MDIxMDAxMDAwMDE-)
 
-[Play for $1 Million  
-this Sunday-  
-PokerStars.com](http://www.pokerpages.com/adserver/click.php?bannerID=2119&cachebuster=869316)
+[$10,000 FREEROLL  
+at first GLBT site  
+ComeOutPoker.com ](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2438&zoneid=0&source=&dest=http%3A%2F%2Fwww.comeoutpoker.com%3Faid%3D28621)
 
-[](http://www.pokerpages.com/adserver/click.php?bannerID=2077&cachebuster=245592563)
+[**$25,000  
+Ring Game  
+Challenge** ](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2348&zoneid=0&source=&dest=http%3A%2F%2Fwww.bugsysclub.com%2Fclub%2Fregister%2Fbcregister02.htm%3Faid%3D58434)
+
+[](http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2552&zoneid=0&source=&dest=http%3A%2F%2Fwww.holdemblackjack.com)
