@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growingbolder.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614113429id_/http%3A//growingbolder.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingbolder.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213084106id_/http%3A//growingbolder.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Growing Bolder active aging
 
@@ -78,4 +78,4 @@ Growingbolder.com, our users, or others. This includes exchanging information wi
 
 Should you have other questions or concerns about this privacy policy, please email us at: [marc@growingbolder.com](mailto:marc@growingbolder.com)
 
-© 2005 Boomer Broadcasting. All Rights Reserved
+© Copyright 2004 - 2006 Boomer Broadcasting Inc. All Rights Reserved
