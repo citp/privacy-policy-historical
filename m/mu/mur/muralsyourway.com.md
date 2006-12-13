@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the muralsyourway.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muralsyourway.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213183408id_/http%3A//www.muralsyourway.com/myw3_privacy.cfm) for the most accurate reproduction.*
 
 # Wall Murals : Your Privacy
 
 |   
 ---  
   
-[ ](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_specials.cfm)  
-  
 | **Custom Murals from Your Art or Photo!**  
 ---  
   
-We've helped turn photos, paintings, drawings, and more into murals for bedrooms, offices, living rooms, lobbies, and family rooms. [Learn more.](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_custom.cfm)  
+We've helped turn photos, paintings, drawings, and more into murals for bedrooms, offices, living rooms, lobbies, and family rooms. [Learn more.](https://web.archive.org/web/20061213183408id_/http%3A//www.muralsyourway.com/myw3_custom.cfm)  
   
-[Home](http://www.muralsyourway.com/): [About Us](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_about.cfm) **: Privacy Policy**
+[Home](http://www.muralsyourway.com/): [About Us](https://web.archive.org/web/20061213183408id_/http%3A//www.muralsyourway.com/myw3_about.cfm) **: Privacy Policy**
 
 Murals Your Way respects your privacy and is committed to protecting it. This document describes Murals Your Way's _Consumer Data Privacy Policy_ , that is, how we protect your privacy and treat your data when you submit personal information to us. The technical aspects of privacy protection, such as encryption and data transfer security, are described below in the section headed _Transaction Security Policies_. 
 
@@ -39,7 +37,7 @@ You are also required to give the following information:
 
 The credit card information is sent directly to our payment provider who processes your order. The transaction has a very high level of security as described in the section below headed _Transaction Security Policies_. 
 
-If you have any questions or require more information regarding Murals Your Way policies, products or other, please [contact us](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_contact.cfm).
+If you have any questions or require more information regarding Murals Your Way policies, products or other, please [contact us](https://web.archive.org/web/20061213183408id_/http%3A//www.muralsyourway.com/myw3_contact.cfm).
 
 ## Transaction Security Policies
 
@@ -47,12 +45,4 @@ Your credit card details are sent directly to Murals Your Way's payment provider
 
 Your contact information is sent to Murals Your Way's server over an unencrypted connection and forwarded to our authorized customer service staff. Other Murals Your Way employees do not have access to the information. 
 
-|  | 
-
-[](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_examples.cfm)   
-And picture what we can do for you! [](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_examples.cfm)
-
-**Customer** : Diane L.  
-**Location** : ,   
-**Featured Mural** :   
-[The Tea Party 2](https://web.archive.org/web/20060615214221id_/http%3A//muralsyourway.com/myw3_design.cfm?pid=MMAJBB1036)
+|   
