@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621162733id_/http%3A//www.nickjr.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213024633id_/http%3A//www.nickjr.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Nick UK Privacy Policy**
 
 **Introduction  
-**This policy sets out how Nickelodeon UK collects information about you and how that information may be used. You should make sure that you always get the consent of your parents or guardians if you are under xx before entering any information on our website or sending us information in any other way. If you or if you are under xx your parents or guardians want to discuss with us how your information is used at any time you can email [letterbox@nickjr.co.uk](mailto:letterbox@nickjr.co.uk) or contact us The Data Protection Officer, Nickelodeon UK, 15-18 Rathbone Place, London, W1T 1HU.
+**This policy sets out how Nickelodeon UK collects information about you and how that information may be used. You should make sure that you always get the consent of your parents or guardians if you are under 16 before entering any information on our website or sending us information in any other way. If you or if you are under 16 your parents or guardians want to discuss with us how your information is used at any time you can email [letterbox@nickjr.co.uk](mailto:letterbox@nickjr.co.uk) or contact us The Data Protection Officer, Nickelodeon UK, 15-18 Rathbone Place, London, W1T 1HU.
 
-By supplying us with personal information, you and if you are under xx your parents or guardians agree to the terms of this policy. If you or your parents or guardians do not agree with the policy, you must not provide us with any personal information.
+By supplying us with personal information, you and if you are under 16 your parents or guardians agree to the terms of this policy. If you or your parents or guardians do not agree with the policy, you must not provide us with any personal information.
 
 **How do we collect and use your information?**
 
