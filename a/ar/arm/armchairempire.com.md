@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220034909id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213062334id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
 
 # The Armchair Empire - Privacy Statement
 
-  **Be notified of site updates. Sign-up for the Newsletter sent out twice weekly.**
-
-**Enter E-Mail Address Below:**
-
 | 
+
+**Newsletter**  
+  
+---  
+  
+**Be notified of site updates. Sign-up for the Newsletter sent out twice weekly.**
+
+**Enter E-Mail Address Below:**  
+  
+ 
 
 The Armchair Empire understands and respects the privacy of its visitors.  As such we have provided the following information regarding our privacy policies.
 
@@ -31,3 +37,5 @@ Though The Armchair Empire will take reasonable measures to ensure that users un
 > RR9 740 Creekside Crescent  
 >  Gibsons, B.C.  
 >  V0N 1V9
+
+| 
