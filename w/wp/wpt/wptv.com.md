@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615184525id_/http%3A//www.wptv.com/About5/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213194108id_/http%3A//www.wptv.com/About5/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # WPTV NewsChannel 5
 
