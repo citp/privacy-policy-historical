@@ -1,42 +1,64 @@
-> *The following text is extracted and transformed from the servepath.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428204832id_/http%3A//servepath.com/about/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servepath.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213173349id_/http%3A//www.servepath.com/about/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # ServePath: Legal
 
-ServePath's policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, ServePath's policies and procedures are subject to change. 
+ServePath has created this Privacy Policy to record and explain our commitment to privacy and to educate customers and other third parties about our data-handling.  This policy lists the types of potentially private data ServePath collects, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
 
-In the course of serving its customers, ServePath acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to ServePath by its customers in order to establish service. Other information \- such as the customer's account status, choice of services, and customer logs - is created and maintained by ServePath in the normal course of providing service. ServePath also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, ServePath uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within ServePath. In addition, ServePath may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
+This Privacy Policy applies to the Internet hosting, collocation, windows media streaming services and on-demand infrastructure hosting services we provide through our operating units, ServePath, ColoServe, Upstream Networks, and UtilityServe (the “ **Service** ”).  Therefore, references to “ServePath” in this policy should be considered references to those units.  This Privacy Policy also applies to our Websites: [http://www.servepath.com](http://www.servepath.com/), [http://www.coloserve.com](http://www.coloserve.com/), [http://www.upstreamnetworks.com](http://www.upstreamnetworks.com/), and [http://www.utilityserve.com](http://www.utilityserve.com/).  It doesn’t address use of data by our customers or by other third parties, even if the data is stored on one of ServePath’s computers, collected through a Website we host, or collected through a Website hyperlinked to our Website. 
 
-##  **Data Security**
+The privacy of ServePath’s customers and affiliates is important to us. Therefore:
 
-ServePath will protect the confidentiality of its customers' information, account information and personal communications in conistency with the law and the legitimate interests of ServePath, its partners, its employees and other customers of ServePath's services. 
+**_ServePath does not sell or rent personally identifiable information._**
 
-In an effort to keep customer data confidential, all ServePath employees are required to sign an Employee Confidentiality Agreement that includes the following statement to protect customer data:
+**_ServePath does not spam or cooperate with spammers, and its policies forbid use of the Service for spam._**  
+(For details, see the AUP at ServePath’s Website.) ****
 
-> **_Third Party Information._** _I recognize that the Company has received and in the future will receive from third parties their confidential or proprietary information subject to a duty on the Company’s part to maintain the confidentiality of such information and to use it only for certain limited purposes. I agree to hold all such confidential or proprietary information in the strictest confidence and not to disclose it to any person, firm or corporation or to use it except as necessary in carrying out my work for the Company consistent with the Company’s agreement with such third party._
+**_ServePath policy requires that all company employees sign a confidentiality agreement._**     
+The agreement includes the following affirmation: 
 
-ServePath is under contract with a professional employment organization (PEO) to insure that all existing employees and all new hires have executed the confidentiality agreement and a copy is maintained on file by the PEO.
+_I recognize that the Company has received and in the future will receive from third parties their confidential or proprietary information subject to a duty on the Company’s part to maintain the confidentiality of such information and to use it only for certain limited purposes. I agree to hold all such confidential or proprietary information in the strictest confidence and not to disclose it to any person, firm or corporation or to use it except as necessary in carrying out my work for the Company consistent with the Company’s agreement with such third party._
 
-##  **How is customer information used?**
+## Data ServePath Collects
 
-ServePath may use customer information to provide its customers with system information or information about new or upgraded products. ServePath does not rent, sell, or share customer data or personal information with any third parties.
+A.  ServePath collects and uses data from our customers, and from visitors to our Website, as follows:
 
-## **Opt Out & Modifications**
-
-Customers may opt out of receiving notices of new or upgraded products from ServePath and ServePath partners by sending an Email to marketing [at] servepath.com, or by following the unsubscribe instructions at the bottom of any Email notice that they receive from ServePath. However, customers may not opt out of receiving information from ServePath which is essential for maintaining or updating customers' accounts or system information. 
-
-Most customers may access and modify their personal information via their online personal control panel/account information page. All other customers may access and modify their personal information by contacting the appropriate ServePath Billing organization.
-
-## **Disclosure of customer information and communications**
-
-ServePath will not otherwise disclose its customers' personal and account information unless ServePath has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of ServePath, ServePath's customers, or others, or where ServePath has a good faith belief that the law requires such disclosure.
-
-ServePath also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that ServePath stores or transmits for its customers. The circumstances under which ServePath will disclose such electronic customer communications are when:
-
-  1. it is necessary in order to provide service to the customer; 
-  2. it is necessary to protect the legitimate interests of ServePath and its customers; 
-  3. it is required to cooperate with interception orders, warrants, or other legal process that ServePath determines in its sole discretion to be valid and enforceable; and 
-  4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by ServePath and appear to pertain to the commission of a crime.
+  * _Visitor Number Tracking:_ ServePath tracks the number of visitors to ServePath’s website, as well as the pages they visit within the site and the hyper-links they use (if any) to leave.  This doesn’t involve collection of any personally identifiable information.  We use this information to analyze interest in and usage of the website and the Service.
+  * _Data Provided Through Inquiry Forms:_ Website visitors interested in the Service can fill out a sales inquiry form at the site.  Those forms request company name, individual name, title, address, telephone number(s), and e-mail address(es), as well as technical and business information related to the Service.  ServePath’s sales team uses this information to contact the potential customer and to discuss Service parameters.  We also use the information to generate statistics regarding interest in the Service.  We might share these statistics with third parties, but they don’t include any personally indentifiable information.
+  * _Shopping Cart and Portal Cookies:_ ServePath’s computer system uses cookies to recognize visitors who use a shopping cart at the ServePath website.  The system also uses cookies to recognize customers who use the customer portal at ServePath’s Website.  The cookies facilitate easy use of the shopping carts and the portal, as well as visitor number tracking, as explained in the first bullet above.  Cookies have no other purpose.  We don’t use the information for sales calls.
+  * _Customer Account Information:_ When customers sign up for the Service, and during their Service-relationship, we collect some or all of the following: company name, individual name, title, address, telephone number(s), e-mail address(es), credit card number, and choice of service package.  We also record and retain most written communications with customers, including trouble tickets, support requests, and payment history.  ServePath uses this information for customer support.  We also use contact information to send customers Service-related announcements, including newsletters and notices of new Service features and related products and services provided by ServePath partners.  Customers can opt out of new product/service notices by sending an e-mail to [marketing@servepath.com](mailto:marketing@servepath.com), or by following the unsubscribe instructions at the bottom of any one of the e-mail notices.  (However, current customers may not opt out of necessary Service or account maintenance notices.)  Finally, we generate statistical information regarding our customer-base and use it to analyze our business.  We might share this statistical information with third parties, but it doesn’t include any personally indentifiable information.
 
 
 
-ServePath disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. ServePath will, however, review, delete or block access to communications that may harm ServePath, its customers or third parties. The grounds on which ServePath may take such action include, but are not limited to, actual or potential violations of ServePath's Acceptable Use Policy.
+B.  ServePath also sometimes tracks and retains the IP addresses of visitors to our _customers’_ Websites.  This data may include personally identifiable information belonging to our customers’ _own_ customers or to their Website visitors.  ServePath uses this data to maintain the security of the Service.
+
+## Hosted Data
+
+A.  Through the Service, ServePath provides computing and network infrastructure that hosts customer Websites, Internet communications, and other applications.  As a result, our infrastructure stores and transmits information about customers’ businesses, as well as information collected by those businesses (collectively, “ **Hosted Data** ”).  This Hosted Data may include personally identifiable information and other information that belongs to customers’ _own_ customers, Website visitors, or other users. 
+
+B.  ServePath is a passive recipient of Hosted Data: we take no active part in collecting it, and generally we do not access its content.  However, ServePath staff may occasionally access Hosted Data through delivery of services and support to customers.  For instance, staff may come into contact with Hosted Data by verifying back-up and restore processes, by verifying that applications are running properly, or through debugging efforts.
+
+## Use of Personally Identifiable Information and Hosted Data
+
+A. ServePath doesn’t share personally identifiable information or Hosted Data under any circumstances, except as provided in paragraph B below and: (i) as requested by law enforcement agencies or required by law; (ii) to maintain the security of the Service and of ServePath’s own systems and data, including by assisting third party claimants in investigating security breaches; (3) to collect money owed to ServePath, including through legal proceedings; and (4) to identify, contact, or take legal action against customers or third parties violating ServePath’s acceptable use policy, interfering with property rights or with the Service, or breaking the law. ServePath doesn’t access or use Hosted Data except through provision of debugging and related services, as described under “Hosted Data” above, and for the reasons listed in the preceding sentence.
+
+B. ServePath sometimes employs independent contractors to help run the Service, and such contractors may have access to data, similar to the access we give our employees. Also, ServePath stores sales account data, including customer passwords and personally identifiable information, with a third party application service provider. The current provider is SalesForce.com. This third party data storage does not apply to Hosted Data.
+
+## Data Protection
+
+A. ServePath takes precautions to ensure that access to databases containing customer information is available only from within ServePath’s internal network. Further, we typically encrypt financial information during transmission, or use secure protocols. No protocol, encryption, or other precaution can provide complete security for electronic data, but we are committed to reasonable, industry standard precautions.
+
+B. ServePath policy requires that all its employees execute a confidentiality agreement which includes the affirmation quoted at the start of this Privacy Policy. ServePath is under contract with a professional employment organization (“PEO”), and that PEO helps enforce our policy requiring confidentiality agreements. Most contractors also sign a confidentiality agreement, with obligations similar to the employees’. (Customers and other third parties are not beneficiaries of the employee confidentiality agreement, or of ServePath’s agreements with independent contractors or with the PEO, and so have no rights to enforce those contracts.)
+
+C. For information about security of sales account data stored with SalesForce.com, please visit <http://www.salesforce.com/>. 
+
+## Changing Account Information
+
+Customers can change their account information. Most customers can do so via their online personal control panel/account information page. All other customers can access and change account information by contacting their ServePath billing department.
+
+## Reporting Misuse of Data
+
+Customers and other third parties should contact ServePath about any suspected misuse of their personally identifiable information or other data.  All such inquiries or complaints should be directed to us via email to [abuse@servepath.com](mailto:abuse@servepath.com). 
+
+## Additional Information 
+
+ServePath is not responsible for use or misuse of data by any third party, including any ServePath customer. In the event of a conflict between this Privacy Policy and ServePath’s Terms of Service, posted at our Website, the terms of service will govern. This Privacy Policy is subject to change, so please review this page periodically. 
