@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193759id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213114445id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
 
 # Imaginova: About Us: History
 
