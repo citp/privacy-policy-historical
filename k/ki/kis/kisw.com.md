@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414235828id_/http%3A//kisw.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213061417id_/http%3A//www.kisw.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# 99.9 KISW
+# KISW-FM
 
 |  |  |   
 ---  
@@ -75,4 +75,6 @@ Cookies were originally designed to help a Web site distinguish a user's browser
 
 You can find out to set your cookie preferences by visiting the site of the browser software you use, such as Netscape, Microsoft Internet Explorer or AOL. 
 
-**
+**  
+  
+[](https://web.archive.org/ad/click.asp?adID=42871&adRunID=53512)
