@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509185438id_/http%3A//www.mobalrental.com/privacy_policy.asp%3Fsource%3D0006DN07NMOBWEB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213150513id_/http%3A//www.mobalrental.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Mobal Communications Inc - Privacy Policy
 
