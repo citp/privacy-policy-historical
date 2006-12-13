@@ -1,226 +1,268 @@
-<!--The following is the downloaded HTML source of the ppi2pass.com privacy policy that was archived on 2003-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002131642id_/http%3A//ppi2pass.com/priv.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ppi2pass.com privacy policy that was archived on 2006-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061213163448id_/http%3A//ppi2pass.com/ppi/PPIInfo_pg_priv.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>PPI Privacy Policy</title>
-<link href="/ppistyle.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    <!--
-    H1 {color: #1719cd}
-    H2 {color: #1719cd}
-    H3 {color: #1719cd}
-    H4 {color: #1719cd}
-    -->
-</style>
-<script language="JavaScript">
-<!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/css/ppi.css">
+<script>
 
-function WM_netscapeCssFix() {
-  /*
-    Source: Webmonkey Code Library
-    (http://www.hotwired.com/webmonkey/javascript/code_library/)
+var queryFocus = false;
+var durInputFocus = null;
+var entKeySubmitCmd = null;
 
-    Author: Taylor
-    Author Email: taylor@wired.com
-    Author URL: http://www.taylor.org/
-    */
+document.onkeypress = keyEvent;
 
-  // check to make sure window size has actually changed.
-  if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
-    document.location = document.location;
-  }
+function keyEvent( e )
+{
+	var Key;
+	if (document.layers)
+		Key = e.which;
+	else
+		Key = window.event.keyCode;
+	if ( Key == 13 )
+	{
+		if ( queryFocus )
+		{
+			doSearch();
+		}
+		else if ( durInputFocus != null )
+		{
+			setDuration( durInputFocus.substring( 0, durInputFocus.indexOf("_duration") ) );
+		}
+		else if ( entKeySubmitCmd != null )
+		{
+			doSubmit( entKeySubmitCmd );
+		}
+	}
 }
 
-function WM_netscapeCssFixCheckIn() {
-  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
-    if (typeof document.WM == 'undefined'){
-      document.WM = new Object;
-    }
-    if (typeof document.WM.WM_scaleFont == 'undefined') {
-      document.WM.WM_netscapeCssFix = new Object;
-      document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
-      document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
-    }
-    window.onresize = WM_netscapeCssFix;
-  }
+function doSearch()
+{
+	document.link.action="Search";
+	doSubmit("processDefault");
+}
+function doSubmit( cm )
+{
+	document.link.cm.value=cm;
+	document.link.submit();
+}
+function addToCart( prodId )
+{
+	document.link.prodId.value=prodId;
+	doSubmit("addToCart");
+}
+function doDisplayCartEdit( cm )
+{
+	document.link.cartEditMode.value="view";
+	doSubmit( cm );
+}
+function doProcessCartEdit( cm )
+{
+	document.link.cartEditMode.value="proc";
+	doSubmit( cm );
 }
 
-WM_netscapeCssFixCheckIn()
 
-// -->
-
+function popwin( URL )
+{
+    popup2 = window.open( URL ,"info", "toolbar=no,location=no,menubar=no,status=no,scrollbars=yes,height=300,width=600,resizable=yes,screenX=100,screenY=35,left=100,top=35");
+    popup2.focus();
+}
 </script>
 
-
-
 </head>
+<body bgcolor="" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<form name="link" action="PPIHome" method="post">
+<input type="hidden" name="cm">
+<input type="hidden" name="prodId">
+<input type="hidden" name="ct" value="">
+<input type="hidden" name="cartEditMode" value="">
 
 
-<body style="background-color: #ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>
+<a href="PPI_pg_ppihome.html"><img src="/img/header.gif" border="0"></a>
+</td>
+</tr>
+<tr>
+<td>
 
-<div style="background-image: url(/images/bg01.jpg); background-color: white; background-repeat: repeat-x; position: absolute; left: 0px; top: 0px">
-    <img src="/images/blank.gif" height="65" width="100%">
-</div> 
+			<table border="0" cellpadding="0" cellspacing="0" width="800">
+			  <tbody><tr>
+			  	<td height="34" class="secText" align="right" valign="middle">
+			  	<a href="PPIInfo_pf_priv.html">Printer Friendly Version</a> <br> <!--	<a href="PPIInfo_pf_priv.html">Printer Friendly Version</a> <br/> -->
+			  		
+			  	</td>
+			  	<td valign="top" align="right">
+				  <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+				   <td><img src="/img/home/topNavTrim.gif" width="18" height="22" border="0"></td>
+				   
+				     
+				   <td class="topNavButton" width="122" height="22" background="/img/topNavButton_review.gif" onclick="window.location='PPIInfo_pg_pereview-index.html'" onmouseover="this.className='topNavButtonOver';" onmouseout="this.className='topNavButton';">Review Courses</td>
+				   <td class="topNavButton" width="85" height="22" background="/img/home/topNavButton.gif" onclick="window.location='PPIShop'" onmouseover="this.className='topNavButtonOver';" onmouseout="this.className='topNavButton';">Products</td>
+				   <td class="topNavButton" width="85" height="22" background="/img/home/topNavButton.gif" onclick="window.location='PPIInfo_pg_forums.html'" onmouseover="this.className='topNavButtonOver';" onmouseout="this.className='topNavButton';">Forums</td>
+					<td width="53" height="22" bgcolor="#BED9E6"></td>
 
-<div style="position: absolute; left: 160px; top: 10px">
-    <img src="/images/banner01.jpg">
-</div> 
+				   </tr> </tbody></table>
+				</td>
+			  </tr>
+			</tbody></table>
+</td>
+</tr>
+<tr>
+<!-- main area of body begin -->
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<!-- left space column start -->
+<td width="16"></td>
+<!-- left space column end -->
+<!-- main column start -->
+<td valign="top">
 
-<div style="background-image: url(/images/panel03.jpg); background-color: transparent; background-repeat: no-repeat; position: absolute; left: 0px; top: 0px">
-    <img src="/images/blank.gif" height="411" width="154">
-</div> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td bgcolor="#ffffcc">
+		<img src="/img/home/secTabUL.gif" width="9" height="9" border="0">
+		</td>
+		<td bgcolor="#ffffcc">
+		<img src="/img/home/spacer.gif" height="9" border="0">
+		</td>
+		<td bgcolor="#ffffcc" align="right">
+		<img src="/img/home/secTabUR.gif" width="9" height="9" border="0">
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffcc"></td>
+		<td bgcolor="#ffffcc" class="secHeader">
+		
+		</td>
+		<td bgcolor="#ffffcc"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffcc"></td>
+		<td bgcolor="#ffffcc">
+			 <h2>Privacy Policy</h2>
+<p> When you request information, a catalog, or literature, enroll in a course 
+  or program, or purchase a product from Professional Publications, our order-processing 
+  software creates a permanent, historical record containing information ("Personal 
+  Information") about you. The software gives you a unique identification number 
+  which helps us to track all of your transactions. When you buy a Professional 
+  Publications product, we may ask you to return a registration card that comes 
+  with the product. If you install software or enroll in an online course, we 
+  may ask you to register electronically. When you do, we may merge your registration 
+  information with any other information you've already left with us. If you ever 
+  want to review or update that information, please contact Professional Publications's 
+  <a href="mailto:marketing@ppi2pass.com">Marketing Department.</a> If you haven't 
+  already given us your e-mail address, we will ask you to do so. This ensures 
+  that only you can access your information. </p>
+<p> Professional Publications occasionally shares Personal Information with an 
+  affiliated company, the Professional Engineering Institute, which uses the Personal 
+  Information to offer you live (classroom) engineering examination preparation 
+  classes. All solicitations are by email and postal service only. No other company 
+  has access to your Personal Information. Personal Information is never sold 
+  or given to any other company. </p>
+<p> <b>Consent:</b> If you choose not to provide Personal Information, you can 
+  still use most of this website. However, you will not be able to enter a complete 
+  order, obtain some services, or access some areas. </p>
+<p> <b>Access:</b> We will help you keep your Personal Information correct and 
+  current. You need only contact us and request changes to your Personal Information. 
+</p>
+<p> <b>Security:</b> Professional Publications takes reasonable steps to protect 
+  your Personal Information and honor your choices for its intended use. We have 
+  policies and procedures to protect your data from loss, misuse, unauthorized 
+  access or disclosure, alteration, or destruction. </p>
+<p> <b>Enforcement:</b> If for some reason you believe Professional Publications 
+  has not adhered to the principles described herein, please notify us by <a href="mailto:marketing@ppi2pass.com">email</a>, 
+  and we will do our best to determine and correct any problem promptly. </p>
+<p> <b>Cookies:</b> In some cases, part of your Personal Information may be sent 
+  back to and stored on your computer in the form of a cookie. The cookie contains 
+  code that is uniquely yours. The stored information (i.e., the cookie) enables 
+  seamless travel across ppi2pass.com and its related sites, allowing you to download 
+  free software, order free information, and gain access to and use some features 
+  without having to provide information you've already provided. If your browser 
+  does not accept cookies, you may not be able to access or use all features of 
+  this website. </p>
 
-
-<div style="position: absolute; top:100px; left: 18px; z-index: 20"><a href="/cgi-bin/ppi_catalog.cgi"><img src="/images/catalog_btn.gif" alt="Browse Our Catalog" border="0"></a></div>
-
-<div style="position: absolute; top:121px; left: 18px; z-index: 20"><a href="/new.html"><img src="/images/new_btn.gif" alt="What's New" border="0"></a></div>
-
-<div style="position: absolute; top:142px; left: 18px; z-index: 20"><a href="/cafe/FEcafe.html"><img src="/images/examcafe_btn.gif" alt="The Passing Zone" border="0"></a></div>
-
-<div style="position: absolute; top:163px; left: 18px; z-index: 20"><a href="/thepassingzone/"><img src="/images/zone_btn.gif" alt="The Passing Zone" border="0"></a></div>
-  
-<div style="position: absolute; top:184px; left: 18px; z-index: 20"><a href="/Support/support.html"><img src="/images/support_btn.gif" alt="FE/PE Examinee Support" border="0"></a></div>
-
-<div style="position: absolute; top:205px; left: 18px; z-index: 20"><a href="/archid.html"><img src="/images/Arch_ID_support_btn.gif" alt="Arch/ID Examinee Support" border="0"></a></div>
- 
-<div style="position: absolute; top:226px; left: 18px; z-index: 20"><a href="/map/usalink.html"><img src="/images/boards_btn.gif" alt="State Boards" border="0"></a></div>
-  
-<div style="position: absolute; top:247px; left: 18px; z-index: 20"><a href="/review/review.html"><img src="/images/review_btn.gif" alt="Review Courses" border="0"></a></div>
-
-<div style="position: absolute; top:268px; left: 18px; z-index: 20"><a href="/corner/corner.html"><img src="/images/instruct_btn.gif" alt="Instructor's Corner" border="0"></a></div> 
-
-<div style="position: absolute; top:289px; left: 18px; z-index: 20"><a href="/Errata/Errata.html"><img src="/images/errata_btn.gif" alt="Errata" border="0"></a></div> 
-
-<div style="position: absolute; top:310px; left: 18px; z-index: 20"><a href="/links/links1.html"><img src="/images/links_btn.gif" alt="Links" border="0"></a></div> 
-
-<div style="position: absolute; top:331px; left: 18px; z-index: 20"><a href="/employ"><img src="/images/employ_btn.gif" alt="Opportunities" border="0"></a></div> 
-
-<div style="position: absolute; top:352px; left: 18px; z-index: 20"><a href="http://www.ppi2pass.com/search.html"><img src="/images/search_btn.gif" alt="Search" border="0"></a></div> 
-
-<div style="position: absolute; top:373px; left: 18px; z-index: 20"><a href="/aboutppi.html"><img src="/images/about_btn.gif" alt="About PPI" border="0"></a></div> 
-
-<div style="background-image: url(/images/bg03.jpg); 
-	background-color: #ffffff; 
-	background-repeat: repeat-y; 
-	position: absolute; 
-	left: 0px; 
-	top: 411px; 
-	width: 154px">
-	
-    <table width="134">
-    <tbody><tr>
-    <td align="center">
-
-        <h3 class="maroon">Prepare for<br>the FE or PE exam...</h3><h3 class="maroon">Get in</h3>
-        <a href="/thepassingzone/"><img src="/images/pzsign2.gif" border="0"></a>
-
-    </td>
-    </tr>
-    </tbody></table>
-
-    <img src="/images/bg04.jpg">
-
-</div> 
-
-<div style="font-family: arial, helvetica, sans-serif; 
-	font-size: 12px; 
-	position: absolute; 
-	z-index: 1; 
-	left: 180px; 
-	top: 80px">
-	
-<img src="/images/NONEtab.jpg" hspace="0" vspace="0" border="0" usemap="#tabs"><br>
-<map name="tabs">
-        <area shape="rect" coords="282,0,374,19" href="/forums.html">
-        <area shape="rect" coords="190,0,281,19" href="/newfaqs/newfaqs.html">
-        <area shape="rect" coords="99,0,189,19" href="/cgi-bin/ppi_catalog.cgi">
-        <area shape="rect" coords="5,0,98,19" href="/index.html">
-</map>
-</div>
-
-<div style="
-	font-family: arial, helvetica, sans-serif; 
-	font-size: 12px; 
-	position: absolute; 
-	z-index: 1; 
-	left: 180px; 
-	top: 99px;
-	margin-top: 0px;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	border-top-width: thick;
-	border-left-width: thin;
-	border-right-width: thin;
-	border-bottom-width: thin;
-	border-style: solid;
-	border-color: #ffcf99;
-">
-
-<!--begin content-->
-
-
-<h2>Privacy Policy</h2>
-<p>
+			
+		</td>
+		<td bgcolor="#ffffcc"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffcc">
+		<img src="/img/home/secTabLL.gif" width="9" height="9" border="0">
+		</td>
+		<td bgcolor="#ffffcc">
+		
+		</td>
+		<td bgcolor="#ffffcc" align="right">
+		<img src="/img/home/secTabLR.gif" width="9" height="9" border="0">
+		</td>
+	</tr>
+</tbody></table>
 
 
-When you request information, a catalog, or literature, enroll in a course or
-program, or purchase a product from Professional Publications, our
-order-processing software creates a permanent, historical record containing
-information ("Personal Information") about you. The software gives you a unique
-identification number which helps us to track all of your transactions. When you
-buy a Professional Publications product, we may ask you to return a registration
-card that comes with the product. If you install software or enroll in an online
-course, we may ask you to register electronically. When you do, we may merge your
-registration information with any other information you've already left with us.
-If you ever want to review or update that information, please contact
-Professional Publications's <a href="mailto:marketing@ppi2pass.com">Marketing
-Department.</a> If you haven't already given us
-your e-mail address, we will ask you to do so. This ensures that only you can
-access your information.
-</p><p>
-Professional Publications occasionally shares Personal Information with an
-affiliated company, the Professional Engineering Institute, which uses the
-Personal Information to  offer you live (classroom) engineering examination
-preparation classes. All solicitations are by email and postal service only. No
-other company has access to your Personal Information. Personal Information is
-never sold or given to any other company.
-</p><p>
-<b>Consent:</b> If you choose not to provide Personal Information, you can still use
-most of this website. However, you will not be able to enter a complete order,
-obtain some services, or access some areas.
-</p><p>
-<b>Access:</b> We will help you keep your Personal Information correct and current. You
-need only contact us and request changes to your Personal Information.
-</p><p>
-<b>Security:</b> Professional Publications takes reasonable steps to protect your
-Personal Information and honor your choices for its intended use. We have
-policies and procedures to protect your data from loss, misuse, unauthorized
-access or disclosure, alteration, or destruction.
-</p><p>
-<b>Enforcement:</b> If for some reason you believe Professional Publications has not
-adhered to the principles described herein, please notify us by 
-<a href="mailto:marketing@ppi2pass.com">email</a>, and we will do our best to determine and correct any
-problem promptly.
-</p><p>
+</td>
+<!-- main column end -->
+<td width="16"></td>
+</tr>
+</tbody></table>
+</td>
+<!-- main area of body end -->
+</tr>
+<tr>
+  	<td height="16">
 
-<b>Cookies:</b> In some cases, part of your Personal Information may be sent back to and stored
-on your computer in the form of a cookie. The cookie contains code that is
-uniquely yours. The stored information (i.e., the cookie) enables seamless travel
-across ppi2pass.com and its related sites, allowing you to download free
-software, order free information, and gain access to and use some features
-without having to provide information you've already provided. If your browser
-does not accept cookies, you may not be able to access or use all features of
-this website.
-</p><p>
-      
-</p><hr>
-Copyright © 2003 Professional Publications, Inc. | www.ppi2pass.com | 800-426-1178
-<!--end content-->
-
-</div>
-
+  	</td>
+</tr>
+<tr>
+<td height="35" bgcolor="#999966" align="center" class="bottomMenu">
+<a href="PPIInfo_pg_aboutppi.html" class="bottomMenu">About PPI</a>  | 
+<a href="PPIInfo_pg_contact.html" class="bottomMenu">Contact Us</a> |
+<a href="PPIInfo_pg_priv.html" class="bottomMenu">Privacy Policy</a> |
+<a href="PPIInfo_pg_sitemap.html" class="bottomMenu">Site Map</a><br>
+<span class="copyright">©  2006 Professional Publications Inc.</span>
+</td>
+</tr>
+</tbody></table>
+		<div id="searchform" style="position: absolute; width: 300px; height: 60px; z-index: 1; left: 596px; top: 6px;">
+			<table cellspacing="0" cellpadding="0" id="welcomeTable">
+			<tbody><tr>
+			<td align="right"><table style="cell-spacing: 4px; font-size: 9px;">
+<tbody><tr>
+<td class="welcomeWidget"><a href="PPIHome?cm=displayAccountForm" class="welcomeWidget">Login / Create Account</a></td>
+</tr>
+</tbody></table></td>
+			</tr>
+			<tr>
+			<td align="right">
+			<input name="query" type="text" size="15" class="inputField" onfocus="javascript:queryFocus=true;" onblur="javascript:queryFocus=false;">
+			&nbsp;&nbsp;<input type="button" value="Search" class="btSmall" onclick="javascript:doSearch();">
+			</td>
+			</tr>
+			<tr>
+			<td align="right" style="cell-spacing: 4px; font-size: 9px;">
+			<a href="PPIShop?cm=displayOrderTrackingForm" class="welcomeWidget">Order Status</a>
+			</td>
+			</tr>
+			</tbody></table>
+		</div>
+		
+		<script>
+		function setPositions()
+		{
+			var table = document.getElementById("welcomeTable");
+			var searchformDiv = document.getElementById("searchform");
+			if ( table != null && searchformDiv != null )
+			{
+				searchformDiv.style.left = ( 800 - table.scrollWidth ) + "px";
+			}
+		}
+		setPositions();
+		</script>
+</form>
 
 
 
