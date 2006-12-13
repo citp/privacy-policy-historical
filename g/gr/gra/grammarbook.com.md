@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarbook.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223021id_/http%3A//grammarbook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarbook.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213231247id_/http%3A//www.grammarbook.com/privacy.asp) for the most accurate reproduction.*
 
 # The Blue Book of Grammar and Punctuation
 
