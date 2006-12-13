@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191355id_/http%3A//summerinfant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213223645id_/http%3A//summerinfant.com/privacy.htm) for the most accurate reproduction.*
 
 # Summer Infant
 
