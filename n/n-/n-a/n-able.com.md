@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030203id_/http%3A//n-able.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213020432id_/http%3A//www.n-able.com/legal/privacy.php) for the most accurate reproduction.*
 
 # N-able Technologies - Privacy Policy of N-able.com
+
+| 
 
 ## What information do we collect online?
 
   * **Web Site Usage:** We collect information automatically from visitors as they arrive at n-able.com. This information includes: IP addresses, Internet service providers, referring Web sites, Web browser and Operating System types, the pages accessed on the site and the time of each request. This information is used in the continued development and improvement of this site, and does not include any personal information.
-  * **Personal Information:** N-able Technologies does not collect any personal information about you when you visit www.n-able.com, unless you provide this information voluntarily. Any personal information collected on this site, which may include your name, e-mail, postal address or phone number, is done so specifically when it is required.
-  * **Information via E-mail:** E-mails, including resumes, sent to N-able Technologies may contain personal or other information. This information is provided on a voluntary basis. Unless otherwise specified, this information is used for contact purposes.
+  * **Personal Information:** N-able Technologies does not collect any personal information about you when you visit www.n-able.com, unless you provide this information voluntarily. Any personal information collected on this site, which may include your name, email, postal address or phone number, is done so specifically when it is required.
+  * **Information via Email:** Emails, including resumes, sent to N-able Technologies may contain personal or other information. This information is provided on a voluntary basis. Unless otherwise specified, this information is used for contact purposes.
   * **Information from Third Parties:** We may occasionally receive personal information from third parties in order to facilitate the delivery of products or business communications.
   * **Surveys:** N-able Technologies conducts online surveys for our site visitors and our partners. These surveys are conducted on a voluntary basis. Information gathered during these surveys is used internally for product and site enhancements.
 
@@ -18,10 +20,10 @@
 
 N-able Technologies does not sell or rent any customer or visitor information to other companies. We use the information we collect online in the following ways:
 
-  * **To respond to requests, orders or comments** when information is provided directly via e-mail or an online form. Information may be provided to third parties in order to fulfill orders or to provide services on behalf of N-able Technologies. N-able will only provide necessary information to these companies. These companies are not permitted to use or distribute this information for any purpose other than to provide the services. N-able makes reasonable efforts to ensure that these third parties adhere to this policy.
+  * **To respond to requests, orders or comments** when information is provided directly via email or an online form. Information may be provided to third parties in order to fulfill orders or to provide services on behalf of N-able Technologies. N-able will only provide necessary information to these companies. These companies are not permitted to use or distribute this information for any purpose other than to provide the services. N-able makes reasonable efforts to ensure that these third parties adhere to this policy.
   * **For product and support improvement.** Information collected online, including survey and Web usage information is used in the continual development of our products and support.
   * **To customize Web pages** with information relevant to you, especially in the Partner Resource Center, where information is displayed based on your partner type and level.
-  * **To maintain e-mail lists** in order to inform interested parties about our company, products and other information. These lists consist of e-mail addresses that were provided on a voluntary basis. Recipients may opt-out of these mailings by following the unsubscribe instructions within an e-mail. We do not sell, rent or distribute e-mail lists to other parties.
+  * **To maintain email lists** in order to inform interested parties about our company, products and other information. These lists consist of email addresses that were provided on a voluntary basis. Individual responses to these emails may be tracked for follow-up purposes. Recipients may opt-out of these mailings by following the unsubscribe instructions within an email. We do not sell, rent or distribute email lists to other parties.
 
 
 
