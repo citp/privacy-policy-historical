@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614125253id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213200331id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
 
 # Free Music Video Codes | Thousands of Free Music Videos For MySpace, Xanga, or any Website
 
@@ -51,5 +51,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
-
-For instructions on how to insert free music video codes into your web site please click [here](https://web.archive.org/instructions.shtml)
