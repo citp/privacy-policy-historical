@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the graphisoftus.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032814id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphisoftus.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213155817id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.*
 
 # Graphisoft - Privacy Policy
+
+| 
 
 We at Graphisoft are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
 
@@ -45,4 +47,5 @@ Graphisoft has always valued your privacy, and we reinforce this belief througho
 
   
   
-
+  
+---|---
