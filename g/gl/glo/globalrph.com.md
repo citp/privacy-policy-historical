@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalrph.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043434id_/http%3A//globalrph.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalrph.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214005607id_/http%3A//globalrph.com/privacy.htm) for the most accurate reproduction.*
 
 # GlobalRPh Privacy Statement
 
