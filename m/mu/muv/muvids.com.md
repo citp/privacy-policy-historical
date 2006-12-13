@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muvids.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022547id_/http%3A//www.muvids.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvids.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213013250id_/http%3A//www.muvids.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Stement
 
