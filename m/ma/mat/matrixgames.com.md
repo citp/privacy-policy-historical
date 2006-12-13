@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616052257id_/http%3A//matrixgames.com/aboutus/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213154431id_/http%3A//matrixgames.com/aboutus/privacystatement.asp) for the most accurate reproduction.*
 
-# Matrix Games - the Glory in Gaming is Back!
+# Matrix Games - Privacy Statement
 
 **Matrix Games' Privacy Policy**
 
@@ -56,5 +56,3 @@ You may occasionally get cookies from our advertisers. Matrix Games does not con
 Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, like the shopping areas, will not function properly if you do so.
 
 By using this site, you signify your assent to The Matrix Games Privacy Policy. If you do not agree to this policy, please do not use the site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of Matrix Games following the posting of changes to these terms will mean you accept those changes. 
-
-Revised : November 01, 2005
