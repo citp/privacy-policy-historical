@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivebc.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212346id_/http%3A//www.gov.bc.ca/bvprd/bc/content.do%3FbrwId%3D%4020IJC%7C0YQtuW%26navId%3DNAV_ID_province) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivebc.ca privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213215811id_/http%3A//www.gov.bc.ca/bvprd/bc/content.do%3FbrwId%3D%4020IJC%7C0YQtuW%26navId%3DNAV_ID_province) for the most accurate reproduction.*
 
-# Province of British Columbia
+# Privacy Statement - Province of British Columbia
 
 **Introduction**
 
