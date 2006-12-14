@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the durban-direct.com privacy policy that was archived on 2006-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617062433id_/http%3A//durban-direct.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the durban-direct.com privacy policy that was archived on 2006-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215004129id_/http%3A//durban-direct.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
+		<style>
+		.mtest:hover {
+			cursor:pointer
+		}
+		</style>
 		<link rel="stylesheet" href="/css/styles.css" type="text/css">
 		<link rel="shortcut icon" href="favicon.ico">
 		
@@ -10,10 +15,34 @@
       	<meta name="description" content="Privacy Policy">
       	<meta name="keywords" content="Privacy,Policy">
       
-	</head>
-	<body style="margin-top:0px"><center><table class="st" cellspacing="0" cellpadding="0">
+      	<script>
+			function preLoadImages(){
+			var t='<layer top="-100" left="0" visibility="hide"><div style="position:absolute; top:-100px; left:0px; visibility:hidden">';
+			for(i=0;i<arguments.length;i++)t+='<img src="'+arguments[i]+'" height="10" width="10">';
+			t+='</div></layer>';
+			document.write(t);
+			}   	
+      	
+      	preLoadImages('/images/m-durbancarhire-1.gif','/images/m-durbancarhire-1o.gif','/images/m-durbantours-1o.gif','/images/m-durbantours-1.gif','/images/m-durbanweddings-1o.gif','/images/m-durbanweddings-1.gif','/images/m-durbanconferences-1o.gif','/images/m-durbanconferences-1.gif','/images/m-durbanevents-1o.gif','/images/m-durbanevents-1.gif','/images/m-durbansaregions-1o.gif','/images/m-durbansaregions-1.gif');
+      	
+      	function ov(el) {
+				el.src=el.src.replace('-1.gif','-1o.gif');
+			}
+			
+			function ot(el) {
+				el.src=el.src.replace('-1o.gif','-1.gif');
+			}
+			</script></head><body style="margin-top:0px"><layer top="-100" left="0" visibility="hide"><div style="position:absolute; top:-100px; left:0px; visibility:hidden"><img src="/images/m-durbancarhire-1.gif" height="10" width="10"><img src="/images/m-durbancarhire-1o.gif" height="10" width="10"><img src="/images/m-durbantours-1o.gif" height="10" width="10"><img src="/images/m-durbantours-1.gif" height="10" width="10"><img src="/images/m-durbanweddings-1o.gif" height="10" width="10"><img src="/images/m-durbanweddings-1.gif" height="10" width="10"><img src="/images/m-durbanconferences-1o.gif" height="10" width="10"><img src="/images/m-durbanconferences-1.gif" height="10" width="10"><img src="/images/m-durbanevents-1o.gif" height="10" width="10"><img src="/images/m-durbanevents-1.gif" height="10" width="10"><img src="/images/m-durbansaregions-1o.gif" height="10" width="10"><img src="/images/m-durbansaregions-1.gif" height="10" width="10"></div></layer>
+      
+	
+	<center><table class="st" cellspacing="0" cellpadding="0">
 			<tbody><tr><td colspan="2" style="background:#EEEEEE;border-bottom:1px solid #DDDDDD;height:20px"><h1>Privacy Policy</h1></td></tr>
-			<tr><td colspan="2" height="55px"><a href="http://www.durban-direct.com"><img border="0" src="/images/header-durban.gif"></a></td></tr>
+			
+				<tr><td colspan="2"><a href="/"><img border="0" src="/images/headerdurbantop.gif"></a></td></tr>
+				<tr><td colspan="2" style="background:URL(/images/m-durbanbg.gif)"><img src="/images/headerdurbanbl.gif"><img src="/images/divider.gif"><a href="/car-hire"><img border="0" src="/images/m-durbancarhire-1.gif" onmouseover="ov(this)" onmouseout="ot(this)"></a><img src="/images/divider.gif"><a href="/tours"><img border="0" src="/images/m-durbantours-1.gif" onmouseover="ov(this)" onmouseout="ot(this)"></a><img src="/images/divider.gif"><a href="/south-africa-accommodation"><img border="0" src="/images/m-durbansaregions-1.gif" onmouseover="ov(this)" onmouseout="ot(this)"></a><img src="/images/divider.gif"></td></tr>
+				
+				<!--<a href="/conferences"><img border=0 src="/images/m-conferences-1.gif" onmouseover="ov(this)" onmouseout="ot(this)"></a><img src="/images/divider.gif">-->
+				
 			<tr>
 				<td valign="top" class="ms">
 					<script type="text/javascript">
@@ -38,18 +67,91 @@
          document.getElementById('lf').submit();
           
          }
-	   if (type=='accommodation') {
-	      URL='';
-	      level1=document.getElementById('sareaaccommodation');	      
-	      level2=document.getElementById('stype');
-	      if (level2.value!=-1)
-	         URL='/' + level2.value + '/1';
-	      else
-	         URL='/accommodation/1';
-	      if (level1.value!=-1)
-	         URL='/' + level1.value + URL;	      
-	      window.location = URL;
-	   }
+	}
+	
+	function cfa() {
+		d=document.getElementById('satownid').value;
+		eURL='';
+		if (d==1)
+			URL='http://www.capetown-direct.com';
+		if (d==2)
+			URL='http://www.johannesburg-direct.com';
+		if (d==3)
+			URL='http://www.durban-direct.com';
+		if (d==7)
+			URL='http://www.gardenroute-direct.com';
+		if (d==11)
+			URL='http://www.krugerpark-direct.com';
+		if (d==50)
+			URL='http://www.orlandovacation-direct.com';
+      level1=document.getElementById('sareaaccommodation');	      
+      level2=document.getElementById('stype');
+      if (level2.value!=-1)
+         eURL='/' + level2.value + '/1';
+      else
+         eURL='/accommodation/1';
+      if (level1.value!=-1)
+         eURL='/' + level1.value + eURL;
+         
+      document.getElementById('sf').action = URL + eURL;
+		
+		return true;
+	}
+	
+		var xmlhttp=false;
+	/*@cc_on @*/
+	/*@if (@_jscript_version >= 5)
+	// JScript gives us Conditional compilation, we can cope with old IE versions.
+	// and security blocked creation of the objects.
+	 try {
+	  xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+	 } catch (e) {
+	  try {
+	   xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+	  } catch (E) {
+	   xmlhttp = false;
+	  }
+	 }
+	@end @*/
+	if (!xmlhttp && typeof XMLHttpRequest!='undefined') {
+		try {
+			xmlhttp = new XMLHttpRequest();
+		} catch (e) {
+			xmlhttp=false;
+		}
+	}
+	if (!xmlhttp && window.createRequest) {
+		try {
+			xmlhttp = window.createRequest();
+		} catch (e) {
+			xmlhttp=false;
+		}
+	}
+	
+	function usl() {
+		if (xmlhttp.readyState==4) {
+			o=document.getElementById('sareaaccommodation');
+			
+	      ot=xmlhttp.responseText;
+	      var otarr=ot.split('<>');
+	      o.options[0] = new Option('Area / All',-1);
+	      for(var m=0;m<otarr.length;m++) {
+	      	var lt=otarr[m].split('::');
+	      	if (lt[1]=='')
+	      		o.options[m+1] = new Option(lt[0],lt[0].toLowerCase());
+	      	else
+	      		o.options[m+1] = new Option(lt[0],lt[1]);
+	      }
+	   }		
+	}
+	
+	function ll(tid) {
+		o=document.getElementById('sareaaccommodation');
+		o.options.length=0;
+		o.options[0] = new Option('Loading list...',-1);
+		xmlhttp.open("GET", "/suburblist.asp?id="+tid,true);   
+		xmlhttp.onreadystatechange=usl;
+		xmlhttp.send(null); 
 	}
 </script>
 <table id="hm" width="100%" cellspacing="0px">
@@ -60,7 +162,7 @@
 		<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='/howitworks.html';"><a rel="nofollow" href="/howitworks.html">How it works</a></td></tr>
 		<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;cursor:pointer" onclick="window.location='/webcamlist.html'"><a href="/webcamlist.html">Webcam gallery</a></td></tr>
 		<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;cursor:pointer" onclick="window.location='/43thingstodo.html'"><a href="/43thingstodo.html">43 things to do</a></td></tr>
-		<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://forum.southafrica-direct.com';"><a href="http://forum.southafrica-direct.com">Travel forum</a></td></tr>
+		<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://forum.southafrica-direct.com';"><a href="http://forum.southafrica-direct.com">Discuss travel</a></td></tr>
 		<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;cursor:pointer" onclick="window.location='/contactus.html';"><a rel="nofollow" href="/contactus.html">Contact us</a></td></tr>
 	</tbody>
 </table>
@@ -72,71 +174,73 @@
    <tr><td>&nbsp;Find Accommodation</td></tr>
 </thead>
 <tbody>
-   <tr><td>
-            <select style="width:100%;border:1px solid #CCCCCC;font-size:12px" id="sareaaccommodation">
-               <option value="-1">Area / All</option>
+   <tr><td style="padding:0px">
+   		<p style="margin-top:4px;margin-bottom:4px;font-size:11px;color:#555555">&nbsp;&nbsp;&nbsp;<b>Search 2000+ properties</b></p>
+   		<form action="" method="post" onsubmit="return cfa()" id="sf">
+   		<table style="border-collapse:collapse;width:100%" cellpadding="0" cellspacing="0">
+   		   <tbody><tr>
+   				<td colspan="2">
+	            <select style="width:100%;border:1px solid #CCCCCC;font-size:12px" id="satownid" onchange="ll(this.value)">
+	            
+	            	<option value="1">Cape Town</option>
+	            	<option value="2">Johannesburg</option>
+	            	<option value="3" selected="">Durban</option>
+	            	<option value="7">Garden Route</option>
+	            	<option value="11">Kruger Park</option>
+	            
+	            </select>
+            	</td>
+   			</tr>
+   			<tr>
+   				<td colspan="2">
+	            <select style="width:100%;border:1px solid #CCCCCC;font-size:12px" id="sareaaccommodation">
+	               <option value="-1">Area / All</option>
+	            	<option value="amanzimtoti">Amanzimtoti</option><option value="athlone-park">Athlone Park</option><option value="ballito">Ballito </option><option value="berea">Berea</option><option value="bluff">Bluff</option><option value="bothas-hill">Botha's Hill</option><option value="cedarville">Cedarville</option><option value="champagne-valley">Champagne Valley </option><option value="clansthal">Clansthal</option><option value="cowies-hill">Cowies Hill</option><option value="dargle">Dargle</option><option value="drakensberg">Drakensberg</option><option value="dullstroom">Dullstroom</option><option value="dundee">Dundee</option><option value="durban">Durban</option><option value="durban-north">Durban North</option><option value="east-london">East London</option><option value="empangeni">Empangeni</option><option value="eshowe">Eshowe</option><option value="gillitts">Gillitts</option><option value="glen-ashley">Glen Ashley</option><option value="glenwood">Glenwood</option><option value="golden-gate-park">Golden Gate Park</option><option value="harding">Harding</option><option value="hillcrest">Hillcrest</option><option value="hilton">Hilton</option><option value="himeville">Himeville</option><option value="hluhluwe">Hluhluwe</option><option value="howick">Howick</option><option value="kamberg">Kamberg</option><option value="kloof">Kloof</option><option value="kokstad">Kokstad</option><option value="la-lucia">La Lucia</option><option value="lake-jozini">Lake Jozini</option><option value="lydenburg">Lydenburg</option><option value="margate">Margate</option><option value="marina-beach">Marina Beach</option><option value="merrivale">Merrivale</option><option value="middelburg">Middelburg</option><option value="midlands">Midlands</option><option value="morningside">Morningside</option><option value="mount-edgecombe">Mount Edgecombe</option><option value="mtubatuba">Mtubatuba</option><option value="munster">Munster </option><option value="newcastle">Newcastle</option><option value="nottingham-road">Nottingham road</option><option value="oslo-beach">Oslo Beach</option><option value="pennington">Pennington</option><option value="piet-retief">Piet retief</option><option value="pietermaritzburg">Pietermaritzburg</option><option value="pinetown">Pinetown</option><option value="pongola">Pongola</option><option value="port-edward">Port Edward</option><option value="port-shepstone">Port Shepstone</option><option value="queensburgh">Queensburgh</option><option value="ramsgate">Ramsgate</option><option value="richards-bay">Richards Bay</option><option value="richmond">Richmond</option><option value="riverview">Riverview</option><option value="salt-rock">Salt Rock</option><option value="scottburgh">Scottburgh</option><option value="scottsville">Scottsville</option><option value="sheffield-beach">Sheffield Beach</option><option value="shelly-beach">Shelly Beach</option><option value="simbithi-eco-estate">Simbithi Eco Estate</option><option value="sodwana-bay">Sodwana Bay</option><option value="southbroom">Southbroom</option><option value="st-lucia">St Lucia</option><option value="standerton">Standerton</option><option value="stanger">Stanger</option><option value="swartberg">Swartberg</option><option value="ulundi">Ulundi</option><option value="umbilo">Umbilo</option><option value="umdloti-beach">Umdloti Beach</option><option value="umhlanga-rocks">Umhlanga Rocks</option><option value="umkomaas">Umkomaas </option><option value="umtentweni">Umtentweni</option><option value="underberg">Underberg</option><option value="utrecht">Utrecht</option><option value="uvongo">Uvongo</option><option value="waterval-onder">Waterval Onder</option><option value="westville">Westville</option><option value="winklespruit">Winklespruit</option><option value="winston-park">Winston Park</option><option value="winterton">Winterton</option><option value="zimbali">Zimbali</option><option value="zinkwazi-beach">Zinkwazi Beach</option>
+	            </select>
             	
-         				   <option value="ballito">Ballito </option>
-         					
-         				   <option value="berea">Berea</option>
-         					
-         				   <option value="bluff">Bluff</option>
-         					
-         				   <option value="drakensberg">Drakensberg</option>
-         					
-         				   <option value="dullstroom">Dullstroom</option>
-         					
-         				   <option value="graskop">Graskop</option>
-         					
-         				   <option value="howick">Howick</option>
-         					
-         				   <option value="middelburg">Middelburg</option>
-         					
-         				   <option value="morningside">Morningside</option>
-         					
-         				   <option value="pongola">Pongola</option>
-         					
-         				   <option value="salt-rock">Salt Rock</option>
-         					
-         				   <option value="sheffield-beach">Sheffield Beach</option>
-         					
-         				   <option value="st-lucia">St Lucia</option>
-         					
-         				   <option value="umdloti-beach">Umdloti Beach</option>
-         					
-         				   <option value="umhlanga-rocks">Umhlanga Rocks</option>
-         					
-         				   <option value="westville">Westville</option>
-         					
-            </select>
-            
-            <select style="margin-top:5px;width:100%;border:1px solid #CCCCCC;font-size:12px" id="stype">
-            			<option value="-1">Property type / All</option>
-            			
-                     		<option value="bed-and-breakfast">Bed and Breakfast</option>
-                     		
-                     		<option value="cottages">Cottages</option>
-                     		
-                     		<option value="game-lodges">Game Lodges</option>
-                     		
-                     		<option value="golf-lodges">Golf Lodges</option>
-                     		
-                     		<option value="guest-farms">Guest Farms</option>
-                     		
-                     		<option value="guest-houses">Guest Houses</option>
-                     		
-                     		<option value="health-resorts">Health Resorts</option>
-                     		
-                     		<option value="holiday-homes">Holiday Homes</option>
-                     		
-                     		<option value="hotels">Hotels</option>
-                     		
-                     		<option value="luxury-villas">Luxury Villas</option>
-                     		
-                     		<option value="self-catering">Self Catering</option>
-                     		
-            </select>            
-            <input type="button" value="Get list" style="margin-top:5px" onclick="findURL('accommodation')">
+            	</td>
+            </tr>
+            <tr>
+            	<td colspan="2">
+	            <select style="width:100%;border:1px solid #CCCCCC;font-size:12px" id="stype">
+	            			<option value="-1">Property type / All</option>
+	            			<option value="apartments">Apartments</option><option value="backpacker">Backpacker</option><option value="bed-and-breakfast">Bed and Breakfast</option><option value="boutique-hotels">Boutique Hotels</option><option value="caravan-parks">Caravan Parks</option><option value="cottages">Cottages</option><option value="game-lodges">Game Lodges</option><option value="golf-lodges">Golf Lodges</option><option value="guest-farms">Guest Farms</option><option value="guest-houses">Guest Houses</option><option value="health-resorts">Health Resorts</option><option value="holiday-homes">Holiday Homes</option><option value="hotels">Hotels</option><option value="luxury-villas">Luxury Villas</option><option value="self-catering">Self Catering</option>
+	            </select>
+	         	</td>
+	         </tr> 
+            <tr>
+            	<td style="font-size:11px;color:#333333">&nbsp;Daily&nbsp;price&nbsp;min</td>
+            	<td align="right"><select style="border:1px solid #CCCCCC;font-size:12px" name="pricemin">
+            	<option value="">Any</option>
+            	<option value="500">R500</option>
+            	<option value="1000">R1000</option>
+            	<option value="1500">R1500</option>
+            	<option value="2000">R2000</option>
+            	<option value="2500">R2500</option>
+            	<option value="3000">R3000</option>
+            	<option value="3500">R3500</option>
+            	<option value="4000">R4000</option>
+            	<option value="4500">R4500</option>
+            	<option value="5000">R5000</option>
+            </select></td></tr>
+           <tr>
+           	<td style="font-size:11px;color:#333333">&nbsp;Daily&nbsp;price&nbsp;max</td>
+           	<td align="right"><select style="border:1px solid #CCCCCC;font-size:12px" name="pricemax">
+            	<option value="">Any</option>
+            	<option value="500">R500</option>
+            	<option value="1000">R1000</option>
+            	<option value="1500">R1500</option>
+            	<option value="2000">R2000</option>
+            	<option value="2500">R2500</option>
+            	<option value="3000">R3000</option>
+            	<option value="3500">R3500</option>
+            	<option value="4000">R4000</option>
+            	<option value="4500">R4500</option>
+            	<option value="5000">R5000</option>
+            </select></td></tr>
+            <tr><td colspan="2"><input type="image" src="/images/getlist.gif" style="width:64px;height:21px;border:none"></td></tr>
+            </tbody></table>
+           </form>
          </td></tr>
 </tbody>
 </table>
@@ -155,39 +259,7 @@
    <tr><td>
             <select style="width:100%;border:1px solid #CCCCCC;font-size:12px" id="sarealocation">
                <option value="-1">Area / All</option>
-            	
-         				   <option value="ballito">Ballito </option>
-         					
-         				   <option value="berea">Berea</option>
-         					
-         				   <option value="bluff">Bluff</option>
-         					
-         				   <option value="drakensberg">Drakensberg</option>
-         					
-         				   <option value="dullstroom">Dullstroom</option>
-         					
-         				   <option value="graskop">Graskop</option>
-         					
-         				   <option value="howick">Howick</option>
-         					
-         				   <option value="middelburg">Middelburg</option>
-         					
-         				   <option value="morningside">Morningside</option>
-         					
-         				   <option value="pongola">Pongola</option>
-         					
-         				   <option value="salt-rock">Salt Rock</option>
-         					
-         				   <option value="sheffield-beach">Sheffield Beach</option>
-         					
-         				   <option value="st-lucia">St Lucia</option>
-         					
-         				   <option value="umdloti-beach">Umdloti Beach</option>
-         					
-         				   <option value="umhlanga-rocks">Umhlanga Rocks</option>
-         					
-         				   <option value="westville">Westville</option>
-         					
+            	<option value="amanzimtoti">Amanzimtoti</option><option value="athlone-park">Athlone Park</option><option value="ballito">Ballito </option><option value="berea">Berea</option><option value="bluff">Bluff</option><option value="bothas-hill">Botha's Hill</option><option value="cedarville">Cedarville</option><option value="champagne-valley">Champagne Valley </option><option value="clansthal">Clansthal</option><option value="cowies-hill">Cowies Hill</option><option value="dargle">Dargle</option><option value="drakensberg">Drakensberg</option><option value="dullstroom">Dullstroom</option><option value="dundee">Dundee</option><option value="durban">Durban</option><option value="durban-north">Durban North</option><option value="east-london">East London</option><option value="empangeni">Empangeni</option><option value="eshowe">Eshowe</option><option value="gillitts">Gillitts</option><option value="glen-ashley">Glen Ashley</option><option value="glenwood">Glenwood</option><option value="golden-gate-park">Golden Gate Park</option><option value="harding">Harding</option><option value="hillcrest">Hillcrest</option><option value="hilton">Hilton</option><option value="himeville">Himeville</option><option value="hluhluwe">Hluhluwe</option><option value="howick">Howick</option><option value="kamberg">Kamberg</option><option value="kloof">Kloof</option><option value="kokstad">Kokstad</option><option value="la-lucia">La Lucia</option><option value="lake-jozini">Lake Jozini</option><option value="lydenburg">Lydenburg</option><option value="margate">Margate</option><option value="marina-beach">Marina Beach</option><option value="merrivale">Merrivale</option><option value="middelburg">Middelburg</option><option value="midlands">Midlands</option><option value="morningside">Morningside</option><option value="mount-edgecombe">Mount Edgecombe</option><option value="mtubatuba">Mtubatuba</option><option value="munster">Munster </option><option value="newcastle">Newcastle</option><option value="nottingham-road">Nottingham road</option><option value="oslo-beach">Oslo Beach</option><option value="pennington">Pennington</option><option value="piet-retief">Piet retief</option><option value="pietermaritzburg">Pietermaritzburg</option><option value="pinetown">Pinetown</option><option value="pongola">Pongola</option><option value="port-edward">Port Edward</option><option value="port-shepstone">Port Shepstone</option><option value="queensburgh">Queensburgh</option><option value="ramsgate">Ramsgate</option><option value="richards-bay">Richards Bay</option><option value="richmond">Richmond</option><option value="riverview">Riverview</option><option value="salt-rock">Salt Rock</option><option value="scottburgh">Scottburgh</option><option value="scottsville">Scottsville</option><option value="sheffield-beach">Sheffield Beach</option><option value="shelly-beach">Shelly Beach</option><option value="simbithi-eco-estate">Simbithi Eco Estate</option><option value="sodwana-bay">Sodwana Bay</option><option value="southbroom">Southbroom</option><option value="st-lucia">St Lucia</option><option value="standerton">Standerton</option><option value="stanger">Stanger</option><option value="swartberg">Swartberg</option><option value="ulundi">Ulundi</option><option value="umbilo">Umbilo</option><option value="umdloti-beach">Umdloti Beach</option><option value="umhlanga-rocks">Umhlanga Rocks</option><option value="umkomaas">Umkomaas </option><option value="umtentweni">Umtentweni</option><option value="underberg">Underberg</option><option value="utrecht">Utrecht</option><option value="uvongo">Uvongo</option><option value="waterval-onder">Waterval Onder</option><option value="westville">Westville</option><option value="winklespruit">Winklespruit</option><option value="winston-park">Winston Park</option><option value="winterton">Winterton</option><option value="zimbali">Zimbali</option><option value="zinkwazi-beach">Zinkwazi Beach</option>
             </select>
             
             <select style="margin-top:5px;width:100%;border:1px solid #CCCCCC;font-size:12px" id="slocation">
@@ -201,7 +273,7 @@
                      		<option value="wedding">Wedding</option>
                      		
             </select>
-            <input type="button" value="Get List" style="margin-top:5px" onclick="findURL('location')">
+            <input type="button" style="cursor:pointer;margin-top:5px;background:URL(/images/getlist.gif);border:none;width:64px;height:21px" onclick="findURL('location')">
          </td></tr>
 </tbody>
 </table>
@@ -227,58 +299,65 @@
 	</thead>
 	<tbody>
 		<tr><td>
-            <img src="/images/weather/30_t.gif" style="vertical-align:middle">  8:24AM<br>
-            <span style="font-size:11px">&nbsp;16°C&nbsp;Partly Cloudy</span>
-            <br><a href="/weather.html" style="font-size:11px;text-decoration:underline">Click for details / forecast</a>
+            <img src="/images/weather/27_t.gif" style="vertical-align:middle">  2:41AM<br>
+            <span style="font-size:11px">&nbsp;23°C&nbsp;Mostly Cloudy</span>
+            <a href="/weather.html" style="font-size:11px;text-decoration:underline"><b>more</b></a>
 			</td></tr>
 	</tbody>
 </table>
 <br>
 
 
+
 <table id="hm" width="100%" cellspacing="0px" style="margin-top:10px">
 	<thead>
-		<tr><td>&nbsp;&nbsp;Articles / News</td></tr>
+		<tr><td>&nbsp;&nbsp;Regions</td></tr>
 	</thead>
 	<tbody>
-	   
-		<tr><td>&nbsp;<a href="/article/south-african-film-production" style="font-size:11px">South African Film Production</a></td></tr>
-	      
-		<tr><td>&nbsp;<a href="/article/2010-soccer-world-cup" style="font-size:11px">2010 Soccer World Cup</a></td></tr>
-	      
-		<tr><td>&nbsp;<a href="/article/2010-world-cup-property" style="font-size:11px">2010 World Cup property  </a></td></tr>
-	      
+
+	<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://www.capetown-direct.com';"><a href="http://www.capetown-direct.com">Cape Town</a></td></tr>
+	<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://www.durban-direct.com';"><a href="http://www.durban-direct.com">Durban</a></td></tr>
+	<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://www.johannesburg-direct.com';"><a href="http://www.johannesburg-direct.com">Johannesburg</a></td></tr>
+	<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://www.krugerpark-direct.com';"><a href="http://www.krugerpark-direct.com">Kruger National Park</a></td></tr>
+	<tr><td onmouseover="m_over(this)" onmouseout="m_out(this)" style="border-bottom:none;border-top:none;cursor:pointer" onclick="window.location='http://www.gardenroute-direct.com';"><a href="http://www.gardenroute-direct.com">Garden Route</a></td></tr>
+
 	</tbody>
 </table>
 
-				</td>
+
+<br>
+<center>
+<img src="/images/vcslogo.gif" style="border:1px solid #DDDDDD">
+<center>
+<br>
+				</center></center></td>
 				<td valign="top" style="padding:8px;width:80%">
 	
 
 <p><b>Privacy Policy</b></p>
 
-<p align="justify"><i>www.capetown-direct.com</i> is serious about protecting the privacy of our owners and accommodation seekers. We use information collected about you only to process and bill orders and to make our Website a more useful and valuable service. We respect the privacy of those who visit or become advertisers. Our privacy policy is stated below, but please be aware that should you follow a link on our website to another website, you are no longer covered by this policy. It's a good idea to understand the privacy policy of any website before sharing personal information with it.</p>
+<p align="justify"><i>www.durban-direct.com</i> is serious about protecting the privacy of our owners and accommodation seekers. We use information collected about you only to process and bill orders and to make our Website a more useful and valuable service. We respect the privacy of those who visit or become advertisers. Our privacy policy is stated below, but please be aware that should you follow a link on our website to another website, you are no longer covered by this policy. It's a good idea to understand the privacy policy of any website before sharing personal information with it.</p>
 
 <p><b>Your Information: What, How, and Why?</b></p>
 <p><b>Property Owners/Advertisers and Vacation Planning Visitors</b></p>
 
-<p align="justify">In order to process a request you may have of us we need to know contact information that could include all or some of the following: your full name, address, telephone number, e-mail address, and, in the case of an advertising listing, a method of payment. www.capetown-direct.com will use this information to contact you from time to time with critical customer updates and information, or to send you information about new services or opportunities. You will be able to "opt out" and not receive marketing information, but we must always be able to email you critical information about your account and our mutual business relationship.</p>
+<p align="justify">In order to process a request you may have of us we need to know contact information that could include all or some of the following: your full name, address, telephone number, e-mail address, and, in the case of an advertising listing, a method of payment. www.durban-direct.com will use this information to contact you from time to time with critical customer updates and information, or to send you information about new services or opportunities. You will be able to "opt out" and not receive marketing information, but we must always be able to email you critical information about your account and our mutual business relationship.</p>
 
 <p><b>Enquiries</b></p>
 
-<p align="justify">Accommodation seekers may send enquiries to our property owners/advertisers through a property's booking enquiry form on www.capetown-direct.com. If you choose to send an enquiry through these links, your personal information, including your email address and any other information you supply, will be visible to the owner of the property you enquired about so that they might reply directly to you. Do not share information in the email that you are not prepared to allow them to have, including, but not limited to, credit card and bank account information. These enquiries are sent to both the individual owner/advertiser you selected and retained by www.capetown-direct.com. The resulting enquiry is available for review only by the owner/advertiser to whom they were initially addressed and to www.capetown-direct.com customer service employees, who may be asked by advertisers for their past enquiry information.</p>
+<p align="justify">Accommodation seekers may send enquiries to our property owners/advertisers through a property's booking enquiry form on www.durban-direct.com. If you choose to send an enquiry through these links, your personal information, including your email address and any other information you supply, will be visible to the owner of the property you enquired about so that they might reply directly to you. Do not share information in the email that you are not prepared to allow them to have, including, but not limited to, credit card and bank account information. These enquiries are sent to both the individual owner/advertiser you selected and retained by www.durban-direct.com. The resulting enquiry is available for review only by the owner/advertiser to whom they were initially addressed and to www.durban-direct.com customer service employees, who may be asked by advertisers for their past enquiry information.</p>
 
-<p align="justify">All enquiries sent through www.capetown-direct.com are accepted and are governed by our Terms and Conditions of Service and our Privacy Policy.</p>
+<p align="justify">All enquiries sent through www.durban-direct.com are accepted and are governed by our Terms and Conditions of Service and our Privacy Policy.</p>
 
 <p><b>How Do We Protect Your Information Once We Have It?</b></p>
 
-<p align="justify">All personal information is stored in a database on a secure server. We do not store credit card numbers or identifying information on any www.capetown-direct.com server.</p>
+<p align="justify">All personal information is stored in a database on a secure server. We do not store credit card numbers or identifying information on any www.durban-direct.com server.</p>
 
 <p><b>What is a Cookie and Why Do We Use Them?</b></p>
 
-<p align="justify">A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. www.capetown-direct.com may use cookies to store some personal preferences for your future visits. Cookies allow us to recognize you more quickly; therefore, your time spent on our site can be more personalized and productive. You'll find that cookies are an industry standard and are used at most major Websites in much the same way we use them here at www.capetown-direct.com.</p>
+<p align="justify">A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. www.durban-direct.com may use cookies to store some personal preferences for your future visits. Cookies allow us to recognize you more quickly; therefore, your time spent on our site can be more personalized and productive. You'll find that cookies are an industry standard and are used at most major Websites in much the same way we use them here at www.durban-direct.com.</p>
 
-<p align="justify">By using our Website and signing up for www.capetown-direct.com services, you consent to the collection and use of the previously mentioned information by www.capetown-direct.com and our affiliates. This policy is subject to change without notice. Privacy issues represent a growing concern for all Web users. To keep up-to-date with our policies, please check this page frequently. We reserve the right to change, modify, add, or remove portions of this policy at any time.</p>
+<p align="justify">By using our Website and signing up for www.durban-direct.com services, you consent to the collection and use of the previously mentioned information by www.durban-direct.com and our affiliates. This policy is subject to change without notice. Privacy issues represent a growing concern for all Web users. To keep up-to-date with our policies, please check this page frequently. We reserve the right to change, modify, add, or remove portions of this policy at any time.</p>
 
 					</td>
 				</tr>
@@ -286,17 +365,10 @@
 					<td colspan="2" style="height:20px;background:#CCCCCC;color:#333333" align="left">
 										
 					<span style="float:right"><b>Durban Direct 2006</b>&nbsp;&nbsp;</span>
-					&nbsp;&nbsp;<a rel="nofollow" href="/disclaimer.html" style="color:#333333;text-decoration:none"><b>Disclaimer</b></a> | <a rel="nofollow" href="/terms.html" style="color:#333333;text-decoration:none"><b>Terms &amp; Conditions</b></a> | <a rel="nofollow" href="/privacypolicy.html" style="color:#333333;text-decoration:none"><b>Privacy Policy</b></a> | <a rel="nofollow" href="/contactus.html" style="color:#333333;text-decoration:none"><b>Contact us</b></a>
+					&nbsp;&nbsp;<a rel="nofollow" href="/disclaimer.html" style="color:#333333;text-decoration:none"><b>Disclaimer</b></a> | <a rel="nofollow" href="/terms.html" style="color:#333333;text-decoration:none"><b>Terms &amp; Conditions</b></a> | <a rel="nofollow" href="/privacypolicy.html" style="color:#333333;text-decoration:none"><b>Privacy Policy</b></a> | <a rel="nofollow" href="/contactus.html" style="color:#333333;text-decoration:none"><b>Contact us</b></a> | <a href="/usefulwebsites.html" style="color:#333333;text-decoration:none"><b>Durban links</b></a>
 					
 					</td>
 				</tr>
-			   
-				<tr>
-				   <td style="border-top:1px solid #CCCCCC;padding:2px" colspan="2" align="center"> 
-				      <a href="http://www.capetown-direct.com" style="text-decoration:underline;font-size:11px;color:#333333">Cape Town Accommodation</a> | <a href="http://www.gardenroute-direct.com" style="text-decoration:underline;font-size:11px;color:#333333">Garden Route Accommodation</a> | <a href="http://www.durban-direct.com" style="text-decoration:underline;font-size:11px;color:#333333">Durban Accommodation</a> | <a href="http://www.johannesburg-direct.com" style="text-decoration:underline;font-size:11px;color:#333333">Johannesburg Accommodation</a> | <a href="http://www.krugerpark-direct.com" style="text-decoration:underline;font-size:11px;color:#333333">Kruger National Park Accommodation</a>
-				   </td>
-				</tr>
-				
 			</tbody></table>
 		</center>
 	
