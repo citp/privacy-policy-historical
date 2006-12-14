@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediablvd.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318104111id_/http%3A//www.mediablvd.com/forums/index.php%3Fact%3DHelp%26CODE%3D01%26HID%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediablvd.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214070844id_/http%3A//www.mediablvd.com/forums/index.php%3Fact%3DHelp%26CODE%3D01%26HID%3D18) for the most accurate reproduction.*
 
 # Help Topic
 
@@ -13,5 +13,8 @@ In some cases, you may voluntarily provide personal information in response to a
 Web Media Entertainment LLC, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. Web Media Entertainment LLC cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time Web Media Entertainment LLC serves you an ad. This unique number, which is stored in a cookie file on your computer, helps Web Media Entertainment LLC target ads to you. This cookie can help Web Media Entertainment LLC ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can better cater to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for Web Media Entertainment LLC to deliver you an ad. 
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+
+**Distributing Content You Produce.**   
+You are licensing to Web Media Entertainment LLC any "Content" you provide through or to Web Media Entertainment LLC and the Service thru any means employed by the service including postings on message boards, Private Message systems, Guestbooks, email sent to any address associated with the services owned domains, and any and all systems that allow user generated input to be captured and contained within the databases of the service. Web Media Entertainment LLC may modify, display, distribute and create new material using such Content for any purpose. 
 
 If you have more questions about Web Media Entertainment LLC's dedication to consumer privacy, please email [webmaster@mediablvd.com](mailto:webmaster@mediablvd.com).
