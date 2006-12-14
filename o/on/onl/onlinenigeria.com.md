@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205952id_/http%3A//onlinenigeria.com/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214025810id_/http%3A//onlinenigeria.com/disclaimer.asp) for the most accurate reproduction.*
 
 # Nigeria - Privacy Policy
 
@@ -34,14 +34,14 @@ Since we do not collect any personal information on this Web site, we do not sha
 OnlineNigeria.com works with third parties that serves ads to this site. They include: 
 
   * **FastClick**
-  * **Burstmedia**
+  * **Casalemedia**
 
 
 
 To find out more about how FastClick manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.fastclick.com/about/privacy.html](http://www.fastclick.com/about/privacy.html%20)
 
   
-To find out more about how Burstmedia manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/release/privacy.asp>
+To find out more about how Casalemedia manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.Casalemedia.com/release/privacy.asp](http://www.casalemedia.com/release/privacy.asp)
 
 Send mail to [info@onlinenigeria.com](mailto:info@onlinenigeria.com) with questions or comments about this web site.   
 
