@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616125857id_/http%3A//www.abrsm.org/%3Fpage%3Dhelp/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214080221id_/http%3A//www.abrsm.org/%3Fpage%3Dhelp/privacyPolicy.html) for the most accurate reproduction.*
 
 # Associated Board website privacy policy : ABRSM.org - Help
 
@@ -104,7 +104,7 @@ Once visitors to [www.abrsm.org](http://www.abrsm.org/) have selected their coun
 
 If you are concerned about Cookies, you can disable them in your browser.   If you do this however, please note that you will have to manually reset your country preferences on each return visit to our website. (See _"Profile"_ above)
 
-[Find out more about managing your cookies.](https://web.archive.org/web/20060616125857id_/http%3A//www.abrsm.org/%3Fpage%3Dhelp/privacyPolicy.html?page=help/cookies.html)   
+[Find out more about managing your cookies.](https://web.archive.org/web/20061214080221id_/http%3A//www.abrsm.org/%3Fpage%3Dhelp/privacyPolicy.html?page=help/cookies.html)   
 
 ^Go to Top
 
@@ -196,7 +196,7 @@ When our online examination entry form asks users to enter sensitive information
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  Personal information given by users beyond their name and address is restricted in our offices and made available only to the appropriate departments.  All employees are provided with a unique username and password in order to gain access to this information. Finally, the servers that store personally identifiable information are password protected and held in a secure environment, in a locked facility. Regular back ups are made of this data, and these are stored off site.
 
-If you have any questions about the security on The Associated Board website, please send [an email to the Associated Board IT department](https://web.archive.org/web/20060616125857id_/http%3A//www.abrsm.org/%3Fpage%3Dhelp/privacyPolicy.html?page=process/contactform.html&id=28&contact=QXNzb2NpYXRlZCUyMEJvYWQlMjBJVCUyMERlcGFydG1lbnQ).
+If you have any questions about the security on The Associated Board website, please send [an email to the Associated Board IT department](https://web.archive.org/web/20061214080221id_/http%3A//www.abrsm.org/%3Fpage%3Dhelp/privacyPolicy.html?page=process/contactform.html&id=28&contact=QXNzb2NpYXRlZCUyMEJvYWQlMjBJVCUyMERlcGFydG1lbnQ).
 
 ^Go to Top
 
