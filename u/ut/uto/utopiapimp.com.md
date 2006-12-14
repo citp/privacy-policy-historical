@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616083118id_/http%3A//utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3Dea86775974920189f5ef38c0e3fec81b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214215826id_/http%3A//utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3Dba533cad6de8686d8af7c9c9d36ec656) for the most accurate reproduction.*
 
-# Utopiapimp - warforums for the popular webpage strategy MMORPG, Utopia
+# Utopiapimp - warforums for the popular webpage strategy MMOG, Utopia
 
 Last Updated: June 30th, 2005
 
