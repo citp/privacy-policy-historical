@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162308id_/http%3A//www.lasikplus.com/news_articles/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214201648id_/http%3A//www.lasikplus.com/news_articles/privacy.pdf) for the most accurate reproduction.*
 
 # LCA-VISION INC. NOTICE OF PRIVACY PRACTICES
 
