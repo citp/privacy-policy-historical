@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428035608id_/http%3A//www.v8supercar.com.au/content/help/privacy/default.asp%3Find%3DM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214063023id_/http%3A//www.v8supercar.com.au/content/help/privacy/default.asp%3Find%3DM) for the most accurate reproduction.*
 
 # Terms of Use - The Official Website of V8 Supercars Australia
 
@@ -70,7 +70,7 @@ Please contact our Privacy Compliance Officer to ask for access to your informat
  **Contact details  
 ** If you would like more information about our approach to privacy please contact our Privacy Compliance Officer.
 
- **Amanda Bressow  
+ **Glenn Turnor  
 Privacy Compliance Officer  
 V8 Supercars Australia**
 
@@ -78,5 +78,4 @@ V8 Supercars Australia**
 Southport Qld 4215  
 Gold Coast Australia**
 
- **Telephone: 61 07 5526 3564 |** **Facsimile: 61 07 5526 3461  
-Email: [ab@v8supercars.com.au](mailto:ab@avesco.com.au)**
+ **Telephone: 61 07 5526 3564 |** **Facsimile: 61 07 5526 3461**
