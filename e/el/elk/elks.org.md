@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elks.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013238id_/http%3A//elks.org/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elks.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214035838id_/http%3A//www.elks.org/members/privacy.cfm) for the most accurate reproduction.*
 
 # The Benevolent & Protective Order of Elks of the USA
 
@@ -28,7 +28,7 @@ For security purposes, Elks.org donations and other credit card transactions are
 
 Elks.Org will disclose personal information when required by law or in the good-faith belief that such action is necessary to: 
 
-1) Conform to the edicts of the law or comply with a legal process served on the Elks.Org web site or the Benevelent and Protective Order of Elks, 
+1) Conform to the edicts of the law or comply with a legal process served on the Elks.Org web site or the Benevolent and Protective Order of Elks, 
 
 2) Protect and defend the rights or property of the Elks.Org web site or the Benevolent and Protective Order of Elks, or the visitors of the Elks.Org web site, 
 
