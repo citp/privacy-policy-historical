@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postarticles.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507145221id_/http%3A//www.postarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postarticles.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214132055id_/http%3A//www.postarticles.com/privacy.php) for the most accurate reproduction.*
 
-# PostArticles.com - Article Directory - Free Articles - Free Web Site Content
+# Post Articles Free Content Article Directory
 
 ## Post Articles Privacy Policy
 
