@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenmart.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619172315id_/http%3A//www.halloweenmart.com/wecs.php%3Fstore%3Dhalloweenmar%26content%3Dsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenmart.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214080817id_/http%3A//www.halloweenmart.com/wecs.php%3Fstore%3Dhalloweenmar%26content%3Dsecurity.html) for the most accurate reproduction.*
 
 # Costumes at Halloween Mart: Halloween, Halloween Costumes, Costume, Halloween Props
 
