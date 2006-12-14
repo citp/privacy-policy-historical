@@ -1,178 +1,165 @@
-> *The following text is extracted and transformed from the nationwide.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419182926id_/http%3A//www.nationwide.com/nw/privacy/index.htm%3FWT.svl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214061337id_/http%3A//www.nationwide.com/nw/privacy/index.htm) for the most accurate reproduction.*
 
 # privacy | Nationwide.com
 
-At Nationwide, we respect your right to privacy, and we promise to treat your information responsibly. It’s as simple as that. Here’s how:
+[ ](http://www.truste.org/ivalidate.php?url=www.nationwide.com&sealid=101?WT.svl=Image)Thanks for choosing Nationwide. We know that protecting your privacy is important.  **Our privacy statement explains how we collect, use, share, and protect your information. It's for Nationwide customers and visitors of nationwide.com.** If we change our privacy policy, we’ll post the changes right here. This way you can always check back to learn what information we collect, how we use it, how we protect it, and when we might disclose it.
 
-**Confidentiality and security**
+So just how do we protect your privacy? In a nutshell, we promise to treat your personal information responsibly and provide you with choices. It’s as simple as that. Here’s how.
 
-We use physical and technical safeguards to protect your information. We limit access to your information to those who need it to do their jobs. Our business partners are bound by law to use your information only for our purposes. They may not share it or use it in any other way. We comply with all data security laws.
+### Collecting, using, and sharing visitor information
 
-  **Collecting your personal information**
+Many of our online activities don’t require visitors to register for an account or give us any personal information. For example, visitors can use our financial planning guides without giving us any personal information, such as a name or address. We use Web tools to track how visitors use our Web site so we can improve your experience. Nationwide and our business partners use cookies, clear GIFs, and other tools to track visitor’s IP addresses, domain names, and browser information. These tools don’t collect a visitor’s personal information. 
 
-The information we collect from you depends on the products you buy.  We collect information from your application, business transactions with us, and consumer reports.  We use this information to sell you products, service your products, and market products to you.
+_Cookies_
 
-**Sharing your personal information**
+When you visit nationwide.com, we send cookies – a small file containing a string of characters – to your computer. Cookies uniquely identify your Web browser to us. We use cookies to track visitors as they use our Web site. Most Web browsers are set up to accept all cookies, but you can change this setting to refuse (disable) all cookies or to tell you when a Web site is sending you a cookie. 
 
-We do not sell your information to anyone.  We share your information with our sister companies and business partners to sell and service your products.  We have joint-marketing agreements with our business partners, who may use your information to market other products.  We may share the following types of information:
+We also use cookies to create a secure session with customers or visitors who want to enter or access their personal information. Just remember, some of our features may not work if you disable cookies.
 
-  * Name, Address, Social Security Number
-  * Assets and income
-  * Property address and value
-  * Account information
-  * Policy information
-  * Credit report, motor vehicle report, medical report or employment report
-  * Family member information
+_Clear GIFs (Graphic Interchange Format)_
 
+_A_ clear GIF is small file that tracks visitors so we can learn how they use Web ads and Web sites. These GIFs don’t have any personal information.  Some of our business partners use GIFs on Web sites and may use GIFs provided by DoubleClick. For more information about DoubleClick or to opt out of their GIF, go to [http://www.doubleclick.com/us/about_doubleclick/privacy/](https://web.archive.org/nw/content/redirect.x?url=http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
+We collect and use visitor information – which doesn’t have personal information – so we can: **    **
 
-**Information sharing and opt out**
-
-We may share your information with other Nationwide Companies to cross-market products that might interest you. When we have joint-marketing agreements with our business partners, we may share your information with them as well.
-
-You can ask use not to share your information with other Nationwide Companies, our business partners, or both for marketing purposes.  Please call us toll free at 1- 866-280-1809 to opt out of this sharing.
-
-If you have already opted out, you don’t need to opt out again.
-
-Vermont Customers:  We won’t share your information with Nationwide Companies or our business partners for marketing purposes without your consent.
-
-**Using your medical information**
-
-We sometimes collect medical information for a product or service that you’re interested in buying or to pay a claim.  We may share your medical information if required or permitted by law.  But, we don’t use or share your medical information for marketing, unless you give us your permission.
-
-**Internet Policies**
-
-Nationwide collects and uses information from our Web sites to learn how visitors use our site and to help our customers service their policies online.  This section explains how we use the information we collect form our Web site.  Also, Nationwide contracts with business partners who help develop our Web sites. They may keep the information you provide.  If we change our privacy policy, we’ll post the changes right here. This way you can always check on what information we collect, how we use it, and when we might disclose it. 
-
-**Collecting information**
-
-We collect your information when you:
-
-  * Request information from one of Nationwide's Web sites
-  * Use online tools and calculators
-  * Apply online for products
-  * Subscribe to online services
-  * Complete an online form
-  * Conduct transactions online
-  * Apply for a job online
+  * Analyze how visitors use our Web site
+  * Develop new services to improve our Web site  
+  * Analyze our marketing campaigns
+  * Know how many visitors have seen or clicked on ads
 
 
 
-**Using information**
+Visitors can choose to use tools to tell us what they think about our Web site. We collect and use the comments that visitors provide to improve our Web site and your experience.
 
-Nationwide or our business partners use this information for:  
+Nationwide has business partners who help develop or service our Web sites. They may track and keep visitor information. 
 
-  * Edits and feedback
-  * Marketing and promotions
-  * Analysis of user behavior
-  * Product development
-  * Content improvement
-  * Informing advertisers how many visitors have seen or clicked on their advertisements
-  * Customize Web site content and layout
+### **Collecting and using your personal information**
 
+We require you to share your personal information with us for some of our online activities. For example, we collect your personal information so you can access and service your policies online, apply for products or services, and ask us questions. 
 
+Personal information is any information that identifies you and describes your relationship with Nationwide.
 
-_**Visitor Data**_
+Some examples of the personal information Nationwide collects are:
 
-  * We collect aggregate and specific information when you visit our site.  We log IP addresses and domain names, browser, time, and referral data. We also collect information when you fill out surveys and forms. We use this information to improve our site.
-  * We collect your personal information when you visit the pages of our Web site that require you to logon using an ID and password.
-
-
-
-_**Use of "Cookies"**_
-
-We store a cookie on your computer when you visit our site.
-
-A cookie is a tiny piece of information that is required to create and keep a secure session. Our cookies let you request information and do business online. Our cookies do not have confidential or personal information.  They won’t track you after you leave our site.
-
-Some of our advertising partners may put a cookie on your computer, and these cookies may track you.  
-
-For information, on how to opt out of these cookies, please read "Use of Clear GIFs" below.
-
-_**Use of Clear GIFs (Graphic Interchange Format)**_
-
-A clear GIF is a 1 by 1 pixel file placed on our Web pages. We use GIFs to track visitors and learn how they use our Web site.  We collect this information to improve our Web site. The information we collect and share through cookies and Clear GIF technology is anonymous and not personally identifiable. That means your name, address, telephone number, or e-mail address are not included.
-
-In addition, TM Advertising uses Clear GIFs to help manage our online advertising. These Clear GIFs are provided by TM Advertising's ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser placed by TM Advertising, or by another advertiser that works with DoubleClick.
-
-This helps us to learn which advertisements bring users to our Web site. Again, the information that DoubleClick collects and shares through cookies and Clear GIFs is anonymous and not personally identifiable.  So there’s no name, address, telephone number, or e-mail address.
-
-For more information about DoubleClick, including information about how to opt out of these technologies, go to [http://www.doubleclick.com/us/about_doubleclick/privacy/](https://web.archive.org/nw/content/redirect.x?url=http://www.doubleclick.com/us/about_doubleclick/privacy/).
-
-_**E-mail**_
-
-Nationwide keeps the e-mail you send to us. If you agree to receive e-mail messages from us, we’ll keep the information you give us to send e-mail of specific interest to you. If you choose to send us e-mail, we keep your e-mail, your e-mail address, and our reply. Please be careful about the information you give us in e-mail. As with any public Web site, this communication may not be secure.
-
-_**Web Links**_
-
-It‘s important to note that other companies or organizations may have links on our pages  and we’re not responsible for the collection, use, or security of information by the companies or organizations outside of the Nationwide family of companies. Please read the privacy policy of Web sites linked from Nationwide Web sites.
-
-**Questions**
-
-If you have any questions about our privacy policy, please contact us immediately. We’ll give you a copy of your personal information that we control and can reasonably retrieve.
-
-To access your information:
-
-  1. Tell use all policy numbers you want to access.
-  2. Sign your request and have your signature notarized. This helps us ensure the identity of the person requesting the information.
-
-
-
-While we don’t charge a fee for providing you with a copy of this information now, we reserve the right to charge a small fee in the future. You may request that we correct your personal information in our files. Please note that we  don’t control information provided by third parties. So, you’ll need to contact the third party directly to correct any information from them. Sometimes we obtain your consumer or credit report. If so, you may request the credit-reporting agency's name and address. You may ask the agency to give you a copy of your report.
-
-**Please send privacy inquiries to:**
-
-Nationwide Insurance  
-Attention Customer Relations - Privacy  
-One Nationwide Plaza, 1-5-28  
-Columbus , Ohio 43215
-
-When you write to us, please include:
-
-  * Your name
+  * Name
   * Address
-  * Policy number
+  * Social Security Number
+  * Driver’s license number
+  * Policy or account number
+  * Family member information
+  * Financial information
+  * Property address and value
+  * Consumer report information (credit reports)
+  * Information from applications and transactions
+  * Any information you give Nationwide
 
 
 
-Your agent name and number.
+If you apply for a product or service, we may collect personal information from your consumer reports, such as your credit report or motor vehicle report.  We may also need to collect your medical information. But, we won’t use or share your medical information for marketing, unless you give us your permission.
 
-You can contact your agent to change information that we control, such as your address. Or, you may contact one of our  Nationwide Service Centers for help.
+You may choose to use your personal e-mail to correspond with Nationwide. Please be careful about the information you send to us in e-mail. As with any public Web tool, your e-mail may not be secure.
 
-This privacy statement describes our privacy practices for both current and former customers. 
+We collect your personal information when you:
 
-Thanks for choosing Nationwide.
+  * Ask a question
+  * Use tools and calculators
+  * Apply for products or services
+  * Complete a form
+  * Conduct transactions
+  * Apply for a job
+  * Send e-mail to us
+  * Subscribe to receive e-mail from us
 
-This privacy statement is made on behalf of Nationwide Mutual Insurance Company and its affiliates and subsidiaries, which includes the companies that offer auto, home, property, life insurance, banking services, and investments. This includes the following companies:
 
-Nationwide Mutual Insurance Co.
 
-Nationwide Mutual Fire Insurance Co.
+###  **Sharing your personal information**
 
-Nationwide Property and Casualty Insurance Co.
+We don’t sell your personal information. 
 
-Nationwide General Insurance Co.
+When you buy a product, we may share your personal information with other Nationwide companies or one of our business partners to service your product. We also share your personal information with your agent, investment adviser, investment company, broker-dealer, or transfer agent affiliates. They use your personal information to manage your policy or account. 
 
-Nationwide Insurance Company of America
+We share your personal information for everyday business purposes. Some examples include mailing your statements or processing transactions that you request. You cannot opt out of these.
 
-Nationwide Affinity Insurance Company of America
+###  **Sharing your personal information for marketing  **
 
-Nationwide Insurance Company of Florida
+We may share your personal information with other Nationwide Companies or our business partners. We share your personal information with these companies so we can tell you about other products that might interest you.  
 
-Nationwide Lloyds
+Sometimes we have a contract with your company or your organization that prohibits us from sharing your personal information with our other companies and business partners. In this case, we do not market new products to you, unless you contact us first and give us your consent.
 
-Colonial County Mutual Insurance Co.
+We have joint-marketing agreements with our business partners.  This means that we have partnered with them to offer you a new product that might interest you.  They may use your personal information to market their products.  If you would like to learn more about opting out, please read the next section.
 
-Nationwide Assurance Co.
+### Opt out
+
+You can ask us not to share your personal information with Nationwide Companies or our business partners to market new products to you.  Just remember, Nationwide offers many different types of products and services.  You may not want to opt out if you would like to learn about these products directly from one of our companies.  Please call us toll free at 1-866-280-1809 to opt out of this sharing.   **If you have already opted out, you don’t need to opt out again.**
+
+_Vermont_ _Customers:_  We won't share your information with Nationwide Companies or our business partners for marketing purposes without your consent.
+
+### Confidentiality and security
+
+We use physical and technical safeguards to protect your personal information. We limit access to your personal information to those who need it to do their jobs. The law requires our business partners to use your personal information only for our purposes. They may not share it or use it in any other way. We comply with all data security laws.
+
+### Web links
+
+Other companies or organizations may have links to their Web sites on our Web pages. We are not responsible for how they collect, use, disclose, or secure the personal information that you provide to them. Please read their privacy policy so you can learn how the new Web site uses your personal information.
+
+### Questions
+
+If you are a Nationwide customer, you can ask us to give you a copy of your personal information. Please send a letter to the address below and get your signature notarized to prove your identity. This is for your protection. We don’t charge a fee for giving you a copy of your information now, but we may charge a small fee in the future. 
+
+You can call your Agent to change your personal information. We can’t update information that other companies provide to us. So, you'll need to contact the other company to correct your information. For example, if you want to update the information in your credit report, you'll have to contact the credit-reporting agency.   
+
+### TRUSTe Privacy Program
+
+Nationwide is part of the TRUSTe Privacy Program. TRUSTe will help you resolve your concerns with our Web site. If you have a concern, you should first call Nationwide Customer Relations at 1-800-882-2822 ext. 96985. Then, if you did not receive a satisfactory response, click here for the [TRUSTe Watchdog Dispute Resolution Process](https://web.archive.org/nw/content/redirect.x?url=http://www.truste.org/consumers/watchdog_complaint.php).
+
+### Nationwide Companies
+
+Nationwide is one of the largest insurance and financial services companies in the world, focusing on domestic property and casualty insurance, life insurance and retirement savings, asset management, and strategic investments. For a list of Nationwide subsidiaries and affiliates, please visit [http://www.nationwide.com/nw/about-us/our-companies](https://web.archive.org/nw/about-us/our-companies?WT.svl=http://www.nationwide.com/nw/about-us/our-companies).
+
+### The Nationwide Family of Companies does include:
+
+Nationwide Mutual Insurance Company
+
+Nationwide Agribusiness Insurance
+
+Nationwide Financial Services Inc.
+
+Nationwide Financial Network
+
+Nationwide Life and Annuity Insurance Co.
+
+Nationwide Life Insurance Co.
+
+Nationwide Retirement Solutions
+
+Nationwide Advantage Mortgage Company
+
+Nationwide Health Plans
+
+Nationwide Global Holdings
+
+Nationwide Mutual Capital
+
+Nationwide Investment Services Corporation
 
 Nationwide Securities, Inc.
 
-**TRUSTe Privacy Program**
+Allied Property and Casualty Insurance Company
 
-Nationwide is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the nationwide.com Web site.
+Gartmore Group
 
-Because we want to show you our commitment to your privacy, we have agreed to disclose our information practices. We also agree to have TRUSTe review our privacy practices for compliance.
+GatesMcDonald
 
-If you have questions or concerns regarding this statement, contact Nationwide Customer Relations at 1-800-882-2822 ext. 96985, first. Then, if you  don’t receive a response from your inquiry or the inquiry is not addressed to your satisfaction, then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](https://web.archive.org/nw/content/redirect.x?url=http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison to resolve your concerns with the Web site.
+Insurance Intermediaries, Inc.
 
-_This privacy statement was updated on December 2, 2005._
+Scottsdale Insurance
+
+The 401(k) Company
+
+THI Holdings, Inc.
+
+TBG Financial
+
+1717 Capital Management
+
+This privacy statement was updated on June 12, 2006
