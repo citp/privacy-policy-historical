@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afroarticles.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625032647id_/http%3A//www.afroarticles.com/article-dashboard/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroarticles.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214193125id_/http%3A//www.afroarticles.com/article-dashboard/privacy.php) for the most accurate reproduction.*
 
-# Afro Articles - Submit Articles | FREE Website Content For Webmasters and Site Owners.
+# Afro Articles - Article Marketing Directory | FREE Content | Marketing, Webmaster & SEO Tools |
 
 Privacy Policy Statement
 
