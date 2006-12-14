@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the taxalmanac.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618102615id_/http%3A//www.taxalmanac.org/index.php/TaxAlmanac%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxalmanac.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214174501id_/http%3A//www.taxalmanac.org/index.php/TaxAlmanac%3APrivacy) for the most accurate reproduction.*
 
 # TaxAlmanac - TaxAlmanac:Privacy
-
-_From TaxAlmanac, A Free Online Resource_
-
-### From TaxAlmanac
 
 At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. Throughout this policy, we refer to information that personally identifies you as “personal information.” 
 
