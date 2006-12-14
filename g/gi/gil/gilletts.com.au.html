@@ -1,184 +1,30 @@
-<!--The following is the downloaded HTML source of the gilletts.com.au privacy policy that was archived on 2006-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060417202256id_/http%3A//gilletts.com.au/information.php%3Finfo_id%3D21%26osCsid%3D6d0566d3bbff2d33807262f0c04d38d2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gilletts.com.au privacy policy that was archived on 2006-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214024718id_/http%3A//gilletts.com.au/information.php%3Finfo_id%3D21) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- BOF: Generated Meta Tags -->
   <title>Privacy and security ~ Gillett's Jewellers</title>
- <meta http-equiv="Content-Type" content="text/html; charset=" iso-8859-1"="">
   <meta name="Description" content="Privacy and security policy">
   <meta name="Keywords" content="privacy,security">
   <meta name="Reply-to" content="info@gilletts.com.au">
+  <meta name="robots" content="noodp">
 <!-- EOF: Generated Meta Tags -->
 
-<link rel="stylesheet" type="text/css" href="/stylesheet.php?t=Gilletts">
-
-<script language="JavaScript" type="text/javascript" src="includes/javascript/prototype.js"></script>
 
 <script language="JavaScript" type="text/javascript">
-
-
-
-var Expand = {
-  Version: '1.1-beta2'
-}
-
-
-Expand.Info = Class.create();
-Expand.Info.prototype = {
-  
-  initialize: function (elem_id) {
-
-    this.box = $(elem_id+'1');
-    this.message = $(elem_id+'2');
-
-    //if ( this.box.style.height == "") { this.box.style.height = this.box.offsetHeight; } 
-    //if ( this.box.style.width == "") { this.box.style.width = this.box.offsetWidth; } 
-    
-    this.original_height = parseInt(this.box.style.height);
-    this.original_width = parseInt(this.box.style.width);
-    
-    this.vertical_expanding = 0;
-    this.horizontal_expanding = 0;
-    this.vertical_step = 5;    
-    this.horizontal_step = 5;    
-    this.vertical_direction = 0;
-    this.horizontal_direction = 0;
-    this.vertical_timer;
-    this.horizontal_timer;
-    this.count = 0;
-  },
-  
-  rollUpNow: function () {
-     this.vertical_step = 0;
-     this.vertical_direction = 0;
-     this.changeheight();
-  },
-  
-  
-  changevertical: function (vertical_direction) {
-    
-   // alert(this.original_height + '    ' + this.box.style.height);
-   if ( (vertical_direction ==1 || vertical_direction == 0) && (this.vertical_direction != vertical_direction) ) {
-     
-      this.vertical_direction = vertical_direction;
-      
-      var delay = 1;
-      if (vertical_direction == 0) delay = 2000;
-      
-      if (this.vertical_timer) {
-        clearTimeout(this.vertical_timer);
-      } 
-      
-      if (this.box.style.height >= this.original_height && this.vertical_direction == 1) return;
-          
-      this.vertical_timer = setTimeout(this.changeheight.bind(this), delay);
-    }
-  
-  },
-  
-  changeheight: function() {
-    
-    if (isNaN(this.original_height)) {
-      if (this.box.offsetHeight != '') {
-         this.original_height = this.box.offsetHeight;
-         this.box.style.height = this.original_height + 'px';
-         this.count = 0;
-      }else{
-         this.count++;
-         if (this.count <50)
-           this.vertical_timer = setTimeout(this.changeheight.bind(this), 50);
-         else 
-           this.count = 0;
-         return;
-      }
-    } 
-
-    if (this.vertical_timer) {
-      clearTimeout(this.vertical_timer);
-    }
-    
-    if (this.vertical_step == 0) {
-       if (this.vertical_direction == 1) {
-         //alert(this.box.style.height + ' becoming ' + this.original_height + 'px');
-         this.box.style.height = this.original_height + 'px';
-         this.vertical_step = 5;
-       } else {
-         //alert(this.box.style.height + ' becoming 0px');
-         this.box.style.height = '1px';         
-         this.vertical_step = 5;
-       }
-    //   return;
-    }
-    
-    var y = parseInt(this.box.style.height);
-
-    if( this.vertical_direction ) this.vertical_step=20;
-    if( !this.vertical_direction ) this.vertical_step=-20;
-    y=y+this.vertical_step;
-       
-    if(y>this.original_height&&this.vertical_direction==1) {
-      this.message.style.display = "none";
-      this.vertical_expanding = 0;
-      this.box.style.height = this.original_height + 'px';
-      return;
-    }  //already extended
-    if(y<5&&this.vertical_direction==0) {
-      this.message.style.display = "";
-      this.box.style.height = '1px';
-      this.vertical_expanding = 0;
-      return;
-    } // already hidden
- 
-    
-    
-    this.box.style.height = y + 'px';
-    
-    
-    //alert('changing height' + this.box.id + ' ' + this.box.style.height + ' y:'+ y);
-       
-    if (y>500 || y <0) { alert('runner' + this.box.style.height + ' vd:' + vertical_direction); clearTimeout(this.vertical_timer);  return;}
-       
-    this.vertical_timer = setTimeout(this.changeheight.bind(this), 50);
-      
-  },
-  
-  
-  
-  
-  
-  
-  
-  changewidth: function() {
- 
-    var x = parseInt(this.box.style.width);
-        
-    if(x>170&&this.horizontal_direction==0){this.horizontal_direction=1;return;}
-    if(x<101&&this.horizontal_direction==1){this.horizontal_direction=0;return;}
- 
-    if( this.horizontal_direction ) this.horizontal_step=-5;
-    if( !this.horizontal_direction ) this.horizontal_step=5;
-    x=x+this.horizontal_step;
-    this.box.style.width = x + 'px';
-    this.horizontal_timer =setTimeout(this.changewidth(), 0);
-      
-  }
-   
-}
-
-function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c = true; n++;	if(typeof document.getElementsByTagName != 'undefined' && (document.getElementsByTagName('body')[0] != null || document.body != null))	{	c = false; if(typeof a == 'object') {	for(var i in a)	{	if ( (a[i] == 'id' && document.getElementById(i) == null) || (a[i] == 'tag' && document.getElementsByTagName(i).length < 1) ) { c = true; break; }}} if(!c) { clearInterval(t); f(); } } if(n >= 60)	{	clearInterval(t);	}	}, 250); };
-
+	var g_currency = 'USD';
+	var g_currency_symbol_left = '$';
+	var g_currency_symbol_right = 'US';
+	var g_domain = 'gilletts.com.au';
+	var g_categoryname = "";
+	var cpath = ''; 
+	var imagesServer = 'http://gilletts.cachefly.net'; 
+	var g_xml_server = '';
 </script>
 
-  
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-  _uacct = "UA-175876-1";
-  urchinTracker();
-  </script>
-
-
+<script language="JavaScript" type="text/javascript" src="http://gilletts.cachefly.net/includes/javascript/gilletts_library_ob.js"></script>
+<link rel="stylesheet" type="text/css" href="http://gilletts.cachefly.net/css/gilletts.com.au.css"> <!-- -->
 </head>
 <body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 <!-- warnings //-->
@@ -187,13 +33,12 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
 <!-- header //-->
 
 <!-- Gilletts Jewellers Header -->
-<script language="JavaScript" src="/js/ezytrack.js"></script>
 <div>
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tbody><tr>
-    <td style="background-repeat: no-repeat; background-image: url('/images/gilletts_header_logo.jpg'); cursor: pointer; cursor: hand;" onclick="window.location='/';">
+    <td style="background-repeat: no-repeat; background-image: url('http://gilletts.cachefly.net/images/gilletts_header_christmas.jpg'); cursor: pointer; cursor: hand;" onclick="window.location='/';">
      <div style="height: 130; float: right; width: 170px; cursor: default;">
-	      <div style="float:right;"><img src="http://images.gilletts.com.au/images/phone.gif" align="absmiddle" width="19" height="15" alt="Contact us by phone on 800 326 8241">&nbsp;<span class="phone">800 326 8241</span>&nbsp;&nbsp;</div>
+	      <div style="float:right;"><img src="http://gilletts.cachefly.net/images/phone.gif" align="absmiddle" width="19" height="15" alt="Contact us by phone on 800 326 8241">&nbsp;<span class="phone">800 326 8241</span>&nbsp;&nbsp;</div>
 	      <div style="float:right; clear: right; height: 55px;  width: 95px; margin-top:20px; margin-right:10px;">
 			   <!-- START SCANALERT CODE -->
 			    <a onclick="javascript:urchinTracker('hackersafe_top_clicked');" target="_blank" href="https://www.scanalert.com/RatingVerify?ref=gilletts.com.au"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/gilletts.com.au/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
@@ -210,12 +55,12 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
 
 <table border="0" width="100%" cellspacing="0" cellpadding="1">
   <tbody><tr class="headerNavigation" height="20">
-    <td class="headerNavigation">&nbsp;&nbsp;<a href="http://gilletts.com.au/index.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8" class="headerNavigation">Home</a><a class="headerNavigation"> » </a><a href="http://gilletts.com.au/information.php?info_id=21&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8" class="headerNavigation">Privacy and security</a></td>
+    <td class="headerNavigation">&nbsp;&nbsp;<a href="http://gilletts.com.au/" class="headerNavigation">Home</a><a class="headerNavigation"> » </a><a href="http://gilletts.com.au/information.php?info_id=21" class="headerNavigation">Privacy and security</a></td>
     <td align="right" class="headerNavigation">
-            <a href="https://gilletts.com.au/account.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8" class="headerNavigation">My Account</a> &nbsp;<a class="headerNavigation">|</a>&nbsp;
-      <a href="http://gilletts.com.au/wishlist.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8" class="headerNavigation">My Wishlist</a> &nbsp;<a class="headerNavigation">|</a>&nbsp;
-      <a href="http://gilletts.com.au/shopping_cart.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8" class="headerNavigation">My Shopping Cart</a> &nbsp;<a class="headerNavigation">|</a>&nbsp;
-      <a href="https://gilletts.com.au/checkout_shipping.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8" class="headerNavigation">Checkout</a> &nbsp;&nbsp;
+            <a href="https://gilletts.com.au/account.php" class="headerNavigation">My Account</a> &nbsp;<a class="headerNavigation">|</a>&nbsp;
+      <a href="http://gilletts.com.au/wishlist.php" class="headerNavigation">My Wishlist</a> &nbsp;<a class="headerNavigation">|</a>&nbsp;
+      <a href="http://gilletts.com.au/shopping_cart.php" class="headerNavigation">My Shopping Cart</a> &nbsp;<a class="headerNavigation">|</a>&nbsp;
+      <a href="https://gilletts.com.au/checkout.php" class="headerNavigation">Checkout</a> &nbsp;&nbsp;
     </td>
   </tr>
 </tbody></table>
@@ -233,7 +78,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#FFFFFF">Design your own...</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -245,11 +90,13 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td class="boxText">
-  <a href="http://gilletts.com.au/custom_titanium_rings.htm?osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Titanium Ring</a><br>
-  <a href="http://gilletts.com.au/design_your_own_engagement_ring.htm?osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Engagement Ring</a><br>
-  <a href="http://gilletts.com.au/nomination_bracelets.htm?osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Nomination Bracelet</a><br>
-  <a href="http://gilletts.com.au/pandora_jewelry.htm?osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Pandora  Jewelry</a><br>
+    <td nowrap="nowrap">
+  <a href="http://gilletts.com.au/custom_titanium_rings.htm">Titanium Ring</a><br>
+  <a href="http://gilletts.com.au/design_your_own_engagement_ring.htm">Engagement Ring</a><br>
+  <a href="http://gilletts.com.au/index.php?cPath=1_267">Ladies Classic Wedding Ring</a><br>
+  <a href="http://gilletts.com.au/index.php?cPath=11_265">Men's Classic Wedding Ring</a><br>
+  <a href="http://gilletts.com.au/nomination_bracelets.htm">Nomination Bracelet</a><br>
+  <a href="http://gilletts.com.au/pandora_jewelry.htm">Pandora  Jewelry</a><br>
   </td>
   </tr>
   <tr>
@@ -267,7 +114,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#FFFFFF">Categories</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -279,10 +126,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td align="left" class="boxText"><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=1&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Ladies wedding rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=11&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Men's wedding rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=268&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Bridal jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=3&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Titanium rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=16&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Celtic rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=255&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Puzzle rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=2&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Ladies engagement rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=6&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Men's engagement rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=7&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Ladies dress rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=8&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Men's dress rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=10&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Earrings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=9&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Pendants</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=13&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Bracelets</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=12&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Necklaces</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=14&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Opals</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=15&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Pearls</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=21&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Gemstones</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=240&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Silver</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=20&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Lord of the Rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=19&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Hot diamonds silver</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=296&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Birthstone jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=17&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Religious jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=23&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Men's jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=22&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Themed</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=18&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Gifts</a></nobr><br></td>
-  </tr>
-  <tr>
-    <td align="center&quot; valign=&quot;top" class="boxText"><hr><a href="http://gilletts.com.au/allprods.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8">View All Products</a></td>
+    <td align="left" class="boxText"><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=1">Ladies wedding rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=11">Men's wedding rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=268">Bridal jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=3">Titanium rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=16">Celtic rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=255">Puzzle rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=2">Ladies engagement rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=6">Men's engagement rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=7">Ladies dress rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=8">Men's dress rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=23">Men's jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=19">Hot diamonds silver</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=311">Me to You</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=296">Birthstone jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=10">Earrings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=9">Pendants</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=13">Bracelets</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=12">Necklaces</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=14">Opals</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=15">Pearls</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=21">Gemstones</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=240">Silver</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=20">Lord of the Rings</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=17">Religious jewelry</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=22">Themed</a></nobr><br><nobr><a nowrap="" href="http://gilletts.com.au/index.php?cPath=18">Gifts</a></nobr><br></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -296,12 +140,11 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
           </tr>
 <!-- categories_eof //-->
 <!-- shop by price //-->
-<!-- shop_by_price //--><!-- shop by price //-->
           <tr>
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#FFFFFF">Shop By Price</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -313,22 +156,22 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=0&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Under&nbsp;$50 US</a><br></td>
+    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=0">Under&nbsp;$50 US</a><br></td>
   </tr>
   <tr>
-    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=1&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">From&nbsp;$50 US&nbsp;to&nbsp;$150 US</a><br></td>
+    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=1">From&nbsp;$50 US&nbsp;to&nbsp;$150 US</a><br></td>
   </tr>
   <tr>
-    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=2&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">From&nbsp;$150 US&nbsp;to&nbsp;$500 US</a><br></td>
+    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=2">From&nbsp;$150 US&nbsp;to&nbsp;$500 US</a><br></td>
   </tr>
   <tr>
-    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=3&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">From&nbsp;$500 US&nbsp;to&nbsp;$1,500 US</a><br></td>
+    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=3">From&nbsp;$500 US&nbsp;to&nbsp;$1,500 US</a><br></td>
   </tr>
   <tr>
-    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=4&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">From&nbsp;$1,500 US&nbsp;to&nbsp;$3,000 US</a><br></td>
+    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=4">From&nbsp;$1,500 US&nbsp;to&nbsp;$3,000 US</a><br></td>
   </tr>
   <tr>
-    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=5&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">$3,000 US&nbsp;and&nbsp;above</a><br></td>
+    <td class="boxText" nowrap=""><a href="http://gilletts.com.au/shop_by_price.php?range=5">$3,000 US&nbsp;and&nbsp;above</a><br></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -339,12 +182,13 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
 </tbody></table>
             </td>
           </tr>
+<!-- shop_by_price //--><!-- shop by price //-->
 <!-- shop_by_price //--><!-- information //-->
           <tr>
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#ffffff">Information</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -356,7 +200,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td class="boxText"><a href="http://gilletts.com.au/information.php?info_id=19&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Guarantee</a><br><a href="http://gilletts.com.au/information.php?info_id=17&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Shipping options</a><br><a href="http://gilletts.com.au/information.php?info_id=28&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Shipping duties/taxes</a><br><a href="http://gilletts.com.au/information.php?info_id=20&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Ordering information</a><br><a href="http://gilletts.com.au/information.php?info_id=32&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">How to place a layaway</a><br><a href="http://gilletts.com.au/information.php?info_id=31&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Layaway terms</a><br><a href="http://gilletts.com.au/information.php?info_id=18&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Finger sizing</a><br><a href="http://gilletts.com.au/information.php?info_id=25&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">FAQs</a><br><a href="http://gilletts.com.au/information.php?info_id=27&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Affiliate program</a><br><a href="http://gilletts.com.au/information.php?info_id=42&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Related sites</a><br><a href="http://gilletts.com.au/information.php?info_id=21&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Privacy and security</a><br><a href="http://gilletts.com.au/information.php?info_id=24&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">About Gillett's</a><br><a href="http://gilletts.com.au/contact_us.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Contact Gillett's</a></td>
+    <td class="boxText"><a href="http://gilletts.com.au/information.php?info_id=19">Guarantee</a><br><a href="http://gilletts.com.au/information.php?info_id=17">Shipping options</a><br><a href="http://gilletts.com.au/information.php?info_id=28">Shipping duties/taxes</a><br><a href="http://gilletts.com.au/information.php?info_id=20">Ordering information</a><br><a href="http://gilletts.com.au/information.php?info_id=32">How to place a layaway</a><br><a href="http://gilletts.com.au/information.php?info_id=31">Layaway terms</a><br><a href="http://gilletts.com.au/information.php?info_id=18">Finger sizing</a><br><a href="http://gilletts.com.au/information.php?info_id=25">FAQs</a><br><a href="http://gilletts.com.au/information.php?info_id=27">Affiliate program</a><br><a href="http://gilletts.com.au/information.php?info_id=42">Related sites</a><br><a href="http://gilletts.com.au/information.php?info_id=21">Privacy and security</a><br><a href="http://gilletts.com.au/information.php?info_id=24">About Gillett's</a><br><a href="http://gilletts.com.au/contact_us.php">Contact Gillett's</a></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -374,7 +218,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
               
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#FFFFFF">Jewelry Facts</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -386,7 +230,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td class="boxText"><div id="facts_infobox1" class="boxText" style="overflow: hidden; height: 1px;" onmouseover="facts.changevertical(1);" onmouseout="facts.changevertical(0);"><a href="http://gilletts.com.au/information.php?info_id=6&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Titanium ring information</a><br><a href="http://gilletts.com.au/information.php?info_id=4&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Opal jewelry advice</a><br><a href="http://gilletts.com.au/information.php?info_id=7&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">4Cs diamond buying advice</a><br><a href="http://gilletts.com.au/information.php?info_id=8&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Pink diamonds vs pink sapphires</a><br><a href="http://gilletts.com.au/information.php?info_id=9&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Engagement ring advice</a><br><a href="http://gilletts.com.au/information.php?info_id=49&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Engagement ring design ideas</a><br><a href="http://gilletts.com.au/information.php?info_id=43&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Ladies wedding rings advice</a><br><a href="http://gilletts.com.au/information.php?info_id=38&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Men's wedding rings advice</a><br><a href="http://gilletts.com.au/information.php?info_id=10&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Caring for your jewelry</a><br><a href="http://gilletts.com.au/information.php?info_id=39&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Jewelry metal advice</a><br><a href="http://gilletts.com.au/information.php?info_id=48&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Right hand ring advice</a><br><a href="http://gilletts.com.au/information.php?info_id=11&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">18kt vs. 9kt Gold</a><br><a href="http://gilletts.com.au/information.php?info_id=13&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">White gold vs. platinum</a><br><a href="http://gilletts.com.au/information.php?info_id=26&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">White gold vs. titanium</a><br><a href="http://gilletts.com.au/information.php?info_id=14&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Pearl jewelry advice</a><br><a href="http://gilletts.com.au/information.php?info_id=15&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Birthstones list</a><br><a href="http://gilletts.com.au/information.php?info_id=16&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Traditional anniversary gifts</a><br><a href="http://gilletts.com.au/information.php?info_id=29&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Hammer set vs. grain set</a><br><a href="http://gilletts.com.au/information.php?info_id=30&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Silver FAQ information</a><br><a href="http://gilletts.com.au/information.php?info_id=33&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Puzzle ring instructions</a><br><a href="http://gilletts.com.au/information.php?info_id=37&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">Celtic ring meanings</a><br></div><div id="facts_infobox2" class="boxText" style="text-align: center;">Move mouse here</div></td>
+    <td class="boxText"><div id="facts_infobox1" class="boxText" style="overflow: hidden;" onmouseover="facts.changevertical(1);" onmouseout="facts.changevertical(0);"><a href="http://gilletts.com.au/information.php?info_id=6">Titanium ring information</a><br><a href="http://gilletts.com.au/information.php?info_id=4">Opal jewelry advice</a><br><a href="http://gilletts.com.au/information.php?info_id=7">4Cs diamond buying advice</a><br><a href="http://gilletts.com.au/information.php?info_id=8">Pink diamonds vs pink sapphires</a><br><a href="http://gilletts.com.au/information.php?info_id=49">Engagement ring design ideas</a><br><a href="http://gilletts.com.au/information.php?info_id=9">Engagement ring advice</a><br><a href="http://gilletts.com.au/information.php?info_id=38">Men's wedding rings advice</a><br><a href="http://gilletts.com.au/information.php?info_id=43">Ladies wedding rings advice</a><br><a href="http://gilletts.com.au/information.php?info_id=48">Right hand ring advice</a><br><a href="http://gilletts.com.au/information.php?info_id=39">Jewelry metal advice</a><br><a href="http://gilletts.com.au/information.php?info_id=10">Caring for your jewelry</a><br><a href="http://gilletts.com.au/information.php?info_id=11">18kt vs. 9kt Gold</a><br><a href="http://gilletts.com.au/information.php?info_id=13">White gold vs. platinum</a><br><a href="http://gilletts.com.au/information.php?info_id=26">White gold vs. titanium</a><br><a href="http://gilletts.com.au/information.php?info_id=14">Pearl jewelry advice</a><br><a href="http://gilletts.com.au/information.php?info_id=15">Birthstones list</a><br><a href="http://gilletts.com.au/information.php?info_id=16">Traditional anniversary gifts</a><br><a href="http://gilletts.com.au/information.php?info_id=29">Hammer set vs. grain set</a><br><a href="http://gilletts.com.au/information.php?info_id=30">Silver FAQ information</a><br><a href="http://gilletts.com.au/information.php?info_id=33">Puzzle ring instructions</a><br><a href="http://gilletts.com.au/information.php?info_id=37">Celtic ring meanings</a><br></div><div id="facts_infobox2" class="boxText" style="display: none; text-align: center;">Move mouse here</div></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -458,7 +302,7 @@ function domFunction(f, a) { var n = 0; var t = setInterval(function() { var c =
             <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
               <tbody><tr>
                 <td width="10"><div height="1" width="10"></div></td>
-                <td align="right"><a href="http://gilletts.com.au/index.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8"><img src="http://images.gilletts.com.au/templates/Gilletts/images/buttons/english/button_continue.gif" border="0" alt="Continue" title=" Continue " width="100" height="22"></a></td>
+                <td align="right"><a href="http://gilletts.com.au/"><img src="http://gilletts.cachefly.net/templates/Gilletts/images/buttons/english/button_continue.gif" border="0" alt="Continue" title=" Continue " width="100" height="22"></a></td>
                 <td width="10"><div height="1" width="10"></div></td>
               </tr>
             </tbody></table></td>
@@ -482,9 +326,9 @@ function couponpopupWindow(url) {
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#ffffff">My Shopping Cart</font></td>
-    <td height="14" class="infoBoxHeading" nowrap="nowrap"><a href="http://gilletts.com.au/shopping_cart.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8"><img src="http://images.gilletts.com.au/images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="http://images.gilletts.com.au/images/infobox/corner_right.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading" nowrap="nowrap"><a href="http://gilletts.com.au/shopping_cart.php"><img src="http://gilletts.cachefly.net/images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="http://gilletts.cachefly.net/images/infobox/corner_right.gif" border="0" alt="" width="11" height="14"></td>
   </tr>
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
@@ -511,7 +355,7 @@ function couponpopupWindow(url) {
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#ffffff">My Currency</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -523,7 +367,7 @@ function couponpopupWindow(url) {
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td align="center" class="boxText"><form name="currencies" action="" method="get"><select name="currency" onchange="this.form.submit();" style="width: 100%"><option value="USD" selected="SELECTED">US Dollar</option><option value="EUR">Euro</option><option value="GBP">British Pound</option><option value="AUD">Australian Dollar</option><option value="JPY">Japan Yen</option><option value="CAD">Canadian Dollar</option><option value="KRW">South Korea Won</option><option value="NZD">New Zealand Dollar</option></select><input type="hidden" name="info_id" value="21"><input type="hidden" name="osCsid" value="46241fd87eb68b49da5ee5301fc6ccf8"></form></td>
+    <td align="center" class="boxText"><form name="currencies" action="" method="get"><select name="currency" onchange="this.form.submit();" style="width: 100%"><option value="USD" selected="SELECTED">US Dollar</option><option value="EUR">Euro</option><option value="GBP">British Pound</option><option value="AUD">Australian Dollar</option><option value="JPY">Japan Yen</option><option value="CAD">Canadian Dollar</option><option value="KRW">South Korea Won</option><option value="NZD">New Zealand Dollar</option></select><input type="hidden" name="info_id" value="21"></form></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -546,7 +390,7 @@ function couponpopupWindow(url) {
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#ffffff">Quick Find</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -558,7 +402,7 @@ function couponpopupWindow(url) {
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td align="center" class="boxText"><form name="quick_find" action="http://gilletts.com.au/advanced_search_result.php" method="get"><input type="text" name="keywords" size="10" maxlength="30" style="width: -30px">&nbsp;<input type="hidden" name="search_in_description" value="1">&nbsp;<input type="hidden" name="osCsid" value="46241fd87eb68b49da5ee5301fc6ccf8"><input type="image" src="http://images.gilletts.com.au/templates/Gilletts/images/buttons/english/button_quick_find.gif" border="0" alt="Quick Find" title=" Quick Find "><br>Use keywords to find the product you are looking for.<br><a href="http://gilletts.com.au/advanced_search.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8"><b>Advanced Search</b></a></form></td>
+    <td align="center" class="boxText"><form name="quick_find" action="http://gilletts.com.au/advanced_search_result.php" method="get"><input type="text" name="keywords" size="10" maxlength="30" style="width: -30px">&nbsp;<input type="hidden" name="search_in_description" value="1">&nbsp;<input type="image" src="http://gilletts.cachefly.net/templates/Gilletts/images/buttons/english/button_quick_find.gif" border="0" alt="Quick Find" title=" Quick Find "><br>Use keywords to find the product you are looking for.<br><a href="http://gilletts.com.au/advanced_search.php"><b>Advanced Search</b></a></form></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -578,15 +422,12 @@ function couponpopupWindow(url) {
 <!-- recently_viewed_eof //-->
 
 
-<!-- Add Favorites //-->
-
-
 <!-- Gilletts Ad //-->
 <tr>
 	<td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading">Layaway Option</td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -598,7 +439,7 @@ function couponpopupWindow(url) {
     <td><div height="1" width="100%"></div></td>
   </tr>
   <tr>
-    <td align="center" class="boxText"><a href="/information.php?info_id=32"><img src="http://images.gilletts.com.au/images/layby/place_it_on_layaway.png" width="160" height="65" border="0" alt="Place it on Layaway!"></a></td>
+    <td align="center" class="boxText"><a href="/information.php?info_id=32"><img src="http://gilletts.cachefly.net/images/layby/place_it_on_layaway.png" width="160" height="65" border="0" alt="Place it on Layaway!"></a></td>
   </tr>
   <tr>
     <td><div height="1" width="100%"></div></td>
@@ -610,12 +451,41 @@ function couponpopupWindow(url) {
 	</td>
 </tr>
 <!-- Gilletts Ad_eof //-->
+<!-- customer testimonials //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Testimonials</td>
+    <td height="14" class="infoBoxHeading" nowrap="nowrap"><a href="http://gilletts.com.au/customer_testimonials.php"><img src="http://gilletts.cachefly.net/images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><div height="14" width="11"></div></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tbody><tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tbody><tr>
+    <td><div height="1" width="100%"></div></td>
+  </tr>
+  <tr>
+    <td align="left" class="boxText"><a href="http://gilletts.com.au/customer_testimonials.php?testimonial_id=82">"Hi I received my order today after only 8 days which is brilliant. I would just like to say that I ...<br>Read more...</a><br><b>Melanie C.</b></td>
+  </tr>
+  <tr>
+    <td><div height="1" width="100%"></div></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+<!-- customer testimonials_eof //-->
 <!-- liveperson //-->
           <tr>
             <td>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
+    <td height="14" class="infoBoxHeading"><img src="http://gilletts.cachefly.net/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
     <td width="100%" height="14" class="infoBoxHeading"><font color="#FFFFFF">Live Chat!</font></td>
     <td height="14" class="infoBoxHeading" nowrap="nowrap"><div height="14" width="11"></div></td>
   </tr>
@@ -639,35 +509,6 @@ function couponpopupWindow(url) {
             </td>
           </tr>
 <!-- liveperson //-->
-<!-- customer testimonials //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="http://images.gilletts.com.au/images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="14"></td>
-    <td width="100%" height="14" class="infoBoxHeading">Testimonials</td>
-    <td height="14" class="infoBoxHeading" nowrap="nowrap"><a href="http://gilletts.com.au/customer_testimonials.php?osCsid=46241fd87eb68b49da5ee5301fc6ccf8"><img src="http://images.gilletts.com.au/images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><div height="14" width="11"></div></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><div height="1" width="100%"></div></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><a href="http://gilletts.com.au/customer_testimonials.php?testimonial_id=55&amp;osCsid=46241fd87eb68b49da5ee5301fc6ccf8">I recieved my ring today, it was exactly what I was hoping for! I really like it and my fiance likes...<br>Read more...</a><br><b>Mike</b></td>
-  </tr>
-  <tr>
-    <td><div height="1" width="100%"></div></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- customer testimonials_eof //-->
 <!-- right_navigation_eof //-->
     </tbody></table></td>
   </tr>
@@ -688,22 +529,18 @@ function couponpopupWindow(url) {
     <td align="center" class="smallText">
 
 
-<div style="float:left;margin-left:2px;"><a href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=5284"><img src="http://images.gilletts.com.au/images/ssn2.gif" width="121" height="74" border="0"></a></div>
-<div style="float:left;margin-left:5px;"><img src="http://images.gilletts.com.au/images/jaa_logo.gif" width="181" height="74" border="0"></div>
-<div style="float:right;margin-right:2px;"><img src="http://images.gilletts.com.au/images/fedex_logo.gif" width="111" height="50" alt="FedEx Delivery" border="0"></div>
+<div style="float:left;margin-left:5px;"><img src="http://gilletts.cachefly.net/images/jaa_logo.gif" width="181" height="74" border="0"></div>
+<div style="float:right;margin-right:2px;"><img src="http://gilletts.cachefly.net/images/fedex_logo.gif" width="111" height="50" alt="FedEx Delivery" border="0"></div>
 <div style="float:right; margin-right: 20px;"><!-- START SCANALERT CODE --><a onclick="javascript:urchinTracker('hackersafe_footer_clicked');" target="_blank" href="https://www.scanalert.com/RatingVerify?ref=gilletts.com.au"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/gilletts.com.au/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a><!-- END SCANALERT CODE --></div>
 <div style="float:center;">
-<div style="float:right"><a href="/all_prodcats.php"><img src="http://images.gilletts.com.au/images/pixel_trans.gif" border="0" height="1" width="1"></a></div><table border="0"><tbody><tr><td align="center">
+<div style="float:right"><a href="/all_prodcats.php"><img src="http://gilletts.cachefly.net/images/pixel_trans.gif" border="0" height="1" width="1"></a></div><table border="0"><tbody><tr><td align="center">
 <p>© Gillett's Jewellers 2006<br>
-Trading since 1974<br>
-USA: 800 326 8241<br>
-Australia: 1300 665 352<br>
-International: +61 73210 2575<br>
+Trading since 1974
+
+<br>USA: 800 326 8241<br>International: +61 73210 2575
 </p>
 
-<p><font color="#CCCCCC"><a href="http://jazreturns.com"><font color="#CCCCCC">JAZreturns conversion tracker</font></a>
-| <a href="http://jazconvert.com"><font color="#CCCCCC">JAZconvert currency conversion</font></a></font>
-</p>
+<p><font style="color:#CCCCCC; font-size: 0.8em;">Gillett's Jewellers stunning jewelry range includes titanium rings, wedding bands, diamond engagement rings, diamond rings, Dora rings, celtic, fashion, and right hand rings. You'll also discover men's jewelry, men's rings, opal jewelry, Nomination bracelets, Pandora jewelry, Hot Diamonds Silver jewelry, Me to You jewelry, gemstone, birthstone, birthday and anniversary gifts, pendants, bracelets, diamond earrings, chains and necklaces with layaways available.</font></p>
 </td></tr>
 
 
@@ -720,12 +557,20 @@ International: +61 73210 2575<br>
 
 
 
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  _uacct = "UA-175876-1";
+  urchinTracker();
+  </script>
  <script language="JavaScript" src="HTTP://www.ezytrack.com/returns.js?account=62"></script>  <script language="JavaScript" src="https://hc2.humanclick.com/hc/3684752/x.js?cmd=file&amp;file=chatScript3&amp;site=3684752&amp;&amp;category=en;woman;4"> </script> 
+
 <div id="speedcheck" style="display: none;"></div>
 <script language="Javascript">
 
  function sendVideo() {
 
+   
     
 }
 
@@ -785,4 +630,9 @@ sendVideo();
 <br>
 
 
-<!-- <span class="smallText">Parse Time: 0.114s  --  Total of 22 Q(s) 1 cached 21 Live</span> --></body></html>
+<!-- <span class="smallText">Parse Time: 0.118s  --  Total of 21 Q(s) 0 cached 21 Live 
+
+
+
+
+</span> --></body></html>
