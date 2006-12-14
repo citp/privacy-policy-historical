@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iusd.org privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626152919id_/http%3A//www.iusd.org/bdpolicy/policies/3140.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iusd.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214030247id_/http%3A//www.iusd.org/bdpolicy/policies/3140.htm) for the most accurate reproduction.*
 
 # Board Policy 3140: Internet Privacy Policy
 
