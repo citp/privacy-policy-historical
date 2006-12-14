@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214549id_/http%3A//kraftfoods.com/kf/about/legalprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214063657id_/http%3A//www.kraftfoods.com/kf/about/legalprivacy) for the most accurate reproduction.*
 
 # Kraft Foods Privacy Policy
 
@@ -126,4 +126,4 @@ Attention: Consumer Relations Group
 
 We would be happy to answer your questions or hear your concerns.
 
-© 2004 KF Holdings.
+© 2006 KF Holdings.
