@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622215612id_/http%3A//powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214170843id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
 
 # Powerhouse Fitness: Privacy Policy
 
 | 
 
-[ ](http://www.safebuy.org.uk/members/sport/member403111.htm)
+[](http://www.safebuy.org.uk/certificate/d0d8d337-92b7-4428-b26c-743b6ef05ba3.html)
 
 [ ](http://www.powerhouse-fitness.co.uk/store/terms.asp#security?)
 
 |  |  | 
 
-You are not logged in. [**Log in**](https://web.archive.org/web/20060622215612id_/http%3A//powerhouse-fitness.co.uk/store/customer_login.asp) or [**sign up**](https://web.archive.org/web/20060622215612id_/http%3A//powerhouse-fitness.co.uk/store/customer_newuser.asp) for special offers and downloads.   
+You are not logged in. [**Log in**](https://web.archive.org/web/20061214170843id_/http%3A//www.powerhouse-fitness.co.uk/store/customer_login.asp) or [**sign up**](https://web.archive.org/web/20061214170843id_/http%3A//www.powerhouse-fitness.co.uk/store/customer_newuser.asp) for special offers and downloads.   
   
 ---|---  
   
@@ -74,17 +74,4 @@ This will then bring up the window below. Click ‘ **Always allow this site to 
 Note that switching on cookies for Powerhouse-fitness will have no bearing on the rest of your cookie settings for any other websites. For more information on Cookies and what they are, please see [ Microsoft's official Cookie page](http://www.microsoft.com/info/cookies.mspx). 
 
    
-  |   |    
-  
-[](http://www.powerhouse-fitness.co.uk/store/smart-tec.asp)  
-[](http://www.powerhouse-fitness.co.uk/store/product.asp?pf%5Fid=Horizon%5FParagon%5FII%5FTreadmill%5FCarbon&dept%5Fid=2)  
-[](http://www.powerhouse-fitness.co.uk/store/store_manufacturer.asp?manu_name=Bowflex)  
-[](http://www.powerhouse-fitness.co.uk/store/product.asp?pf%5Fid=Beny%5F808%5FOxbridge%5FFolding%5FRower&dept%5Fid=6)  
-[](http://www.powerhouse-fitness.co.uk/store/specials-infiniti.asp#Infiniti)  
-  
-  
-   
-Exercise Equipment, Powerhouse, Fitness Equipment, Treadmills, Ellipticals  
-Rowing Machines, Multigyms, Power House, Heart Rate Monitors, Exercise Equipment, Polar HRM  
-Exercise Cycles, Polar Monitors, Cross Trainers, Exercise Equipment  
-Powerhouse Fitness Equipment, Exercise Bikes, Elliptical Trainers, Polar Watches
+  |   |  
