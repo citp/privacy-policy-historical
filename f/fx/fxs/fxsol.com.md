@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615174149id_/http%3A//fxsol.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214030549id_/http%3A//fxsol.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # FX Solutions Privacy Policy
 
