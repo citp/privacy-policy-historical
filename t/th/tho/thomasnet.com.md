@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022934id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214113941id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Policy
 
@@ -14,7 +14,7 @@ At times, ThomasNet will ask you to provide us with personal contact information
 
 **Sign Up -My Thomas**
 
-While you do not need to sign up to use ThomasNet, we do need some information from you to access certain features of the site; you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access on subsequent visits to My Thomas. This information will constitute your user profile. While most of the information we collect is used internally for site analysis and improvement, some of your information is used in compiling reports (see reporting) for the companies that list on our site. However, it is important to note that ThomasNet will **never** disclose or associate with your site usage, any of your _personal contact information_ , which consists of the following: 
+While you do not need to sign up to use ThomasNet, we do need some information from you to access certain features of the site; you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access on subsequent visits to My Thomas. This information will constitute your user profile. While most of the information we collect is used internally for site analysis and improvement, some of your information is used in compiling reports (see reporting) for the companies that list on our site. However, it is important to note that ThomasNet will not disclose, without your consent, or associate with your site usage, any of your _personal contact information_ , which consists of the following: 
 
 Your First Name  
 Your Last Name  
@@ -24,9 +24,7 @@ Your Password
 
 You may edit or change your profile at any time by logging into My Thomas. Again, if you wish to delete your personal information use the "[Contact Thomas](https://web.archive.org/contactus.html)" link and ask that your information be deleted. 
 
-_The only circumstances under which ThomasNet will distribute your information are spelled out in the subsequent sections of this policy titled Communicating with Suppliers, Partner Sites, E-mail Communications Policy and Reporting._
-
-**\- Communicating With Suppliers**
+**Communicating With Suppliers**
 
 When you use the communication features on ThomasNet to contact suppliers listed on our site, you will be asked to supply the contact information required by these companies to respond to your request. Depending on how you wish the company to respond to your request, you may be asked for the following: Telephone Number; Fax Number; Mailing Address and e-mail. We will only forward the contact information required to respond to your request and will not disclose your e-mail address unless you request to be contacted by e-mail. 
 
@@ -38,7 +36,7 @@ My Thomas users will be able to verify or change the information stored in their
 
 ThomasNet will form partnerships with websites we feel offer valuable services to our users. Some of these services require Registration. As a time saving tool, and to save our users unnecessary data entry we offer to pass your information to these partner sites. 
 
-You will always be told when we intend to share your information with another site and be given the opportunity to decline the transfer. 
+You will always be told when we intend to share your registration information, including your personal contact information, with another site and be given the opportunity to decline the transfer. 
 
 If you consent to the sharing of your information with another site, the shared information will be transferred to this site and out of the control of ThomasNet. We are not responsible for their privacy policies or how they collect or treat information about their users. 
 
@@ -52,7 +50,7 @@ As part of the sign up process, and at any time there after, you have the opport
 
 All e-mail communications from ThomasNet, or from third parties wishing to contact our users, are sent by ThomasNet or a provider under contract to ThomasNet. At no time will we ever distribute your e-mail address to another company except as stated in the "Partner Sites" and "Communicating with Suppliers" sections of this notice. 
 
-All non-essential communications from ThomasNet or one of our trusted partners will contain a link or instructions for opting out of future communications. If the message you receive has been sent on behalf of one of our partners, the message will contain two separate means of opting out. One Opt out will be from the Thomas NetsourceThomasNet e-mail list and the other opt out will be to remove you from the partners e-mail list. _Please Note: To comply with the United States CAN-SPAM act, Opting Out from future communications from a ThomasNet partner will require your e-mail address be given to that partner so that they may add it to their own do not mail list._
+All non-essential communications from ThomasNet or one of our trusted partners will contain a link or instructions for opting out of future communications. If the message you receive has been sent on behalf of one of our partners, the message will contain two separate means of opting out. One Opt out will be from the Thomas Net e-mail list and the other opt out will be to remove you from the partners e-mail list. _Please Note: To comply with the United States CAN-SPAM act, Opting Out from future communications from a ThomasNet partner will require your e-mail address be given to that partner so that they may add it to their own do not mail list._
 
 **COOKIES**
 
@@ -74,11 +72,11 @@ ThomasNet pages may contain Web Beacons, sometimes called single-pixel gifs that
 
 **REPORTING**
 
-Thomas Industrial Network, Inc. is able to offer ThomasNet for free on the Internet as a direct result of the paid support of the suppliers who provide information and advertise on our site. As a result we provide these suppliers with reports of non-specific information on the usage of ThomasNet. This reporting can be based on any of the information collected by ThomasNet and can include demographic information (Industry, Job Function, and City) and your company name. Again, as stated in the Information section of this notice, your personal information is never divulged. 
+Thomas Industrial Network, Inc. is able to offer ThomasNet for free on the Internet as a direct result of the paid support of the suppliers who provide information and advertise on our site. As a result we provide these suppliers with reports of non-specific information on the usage of ThomasNet collected from our logs or non-personal information provided during the sign up process. . This reporting can be based on any of the information collected by ThomasNet and can include demographic information (Industry, Job Function, and City) and your company name. 
 
 **DATA SECURITY**
 
-ThomasNet uses reasonable precautions to keep user information disclosed to us secure. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. 
+ThomasNet uses reasonable precautions to keep user information disclosed to us secure. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect. 
 
 ThomasNet will disclose such information to third parties, under contract to us, as required to operate our site. We will only release this information to those firms that we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties who receive the information. 
 
@@ -86,14 +84,12 @@ Thomas Register also links to a wide variety of other web sites. We are not resp
 
 **CHANGES TO THIS POLICY**
 
-ThomasNet reserves the right to change this policy as required. Users who have signed up to use ThomasNet will be notified of changes using the e-mail of record in their user profile. Users who have not signed up should review this policy periodically or prior to any subsequent use. 
+ThomasNet reserves the right to change this policy as required. Users who have signed up to use ThomasNet will be notified of significant changes using the e-mail of record in their user profile. Users who have not signed up should review this policy periodically or prior to any subsequent use. 
 
 **CONTACTING THOMASNET**
 
-If you have any questions regarding this policy please [contact us](https://web.archive.org/contactform.html) via e-mail or by mail at: 
-
-Privacy   
+If you have any questions regarding this policy please contact us via e-mail or by mail at: Privacy   
 ThomasNet  
-Thomas Industrial Network, Inc.  
+Thomas Industrial Network, Inc.   
 5 Penn Plaza  
 New York, NY 10001
