@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617043308id_/http%3A//www.articlesbase.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214062218id_/http%3A//www.articlesbase.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ArticlesBase.com
+
+| 
 
 **General**. ArticlesBase sees great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which ArticlesBase collects, uses, and discloses the personal information provided by you as a result of the use of ArticlesBase's Web Site and the content, information and services provided through the Web Site by ArticlesBase.
 
@@ -21,3 +23,10 @@ The applicable law and exclusive jurisdiction for settling any disputes in conne
 ArticlesBase will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at it's discretion in order to provide you with competent and effective service. 
 
 In order to assist in protecting the confidentiality of your personal information, ArticlesBase applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, ArticlesBase cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+
+|  | 
+
+Submitting articles has become one of the most popular means of generating quality backlinks and targeted traffic to your website. **[Join us today - It's Free!](https://web.archive.org/author-signup.php)**
+
+|   
+---|---|---
