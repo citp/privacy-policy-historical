@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045022id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214193313id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.*
 
 # Safeco - Consumer Privacy Policy
 
 ### Consumer Privacy Policy
 
-Effective Date: 01/19/2006
+Effective Date: 07/06/2006
 
 Safeco appreciates the trust you place in us when you purchase insurance from one of our companies. We are committed to protecting your nonpublic personal information ("personal information") and we value you as a customer. 
 
@@ -31,7 +31,7 @@ Safeco does not sell your personal information to others and we do not provide y
 
 #### Independent Safeco Representatives
 
-The independent insurance agents authorized to sell Safeco products and services are not Safeco employees and are not subject to Safeco`s Privacy Policy. Because they have a unique business relationship with you, they may have additional personal information about you that Safeco does not have. They may use this information differently than Safeco. Contact your Safeco agent to learn more about their privacy practices.
+The independent insurance agents and brokers authorized to sell Safeco products and services are not Safeco employees and are not subject to Safeco`s Privacy Policy. Because they have a unique business relationship with you, they may have additional personal information about you that Safeco does not have. They may use this information differently than Safeco. Contact your Safeco agent or broker to learn more about their privacy practices.
 
 #### Information about Safeco web sites
 
@@ -41,7 +41,7 @@ The independent insurance agents authorized to sell Safeco products and services
 > **Information sharing and use**  
 >  Safeco does not sell information about you to others. If you only browse our web site and do not supply any information, you will not receive unsolicited e-mail, telephone calls, or other marketing materials from Safeco as a result of your visit. 
 > 
-> When you make changes to your account or request more information about our products, we may forward information that you supply to us to your independent Safeco insurance agent. We do this so they can service your account or contact you with additional information about our products. 
+> When you make changes to your account or request more information about our products, we may forward information that you supply to us to your independent Safeco insurance agent or broker. We do this so they can service your account or contact you with additional information about our products. 
 > 
 > **Cookies**  
 >  Our web site sends cookies to your computer. We use cookies to carry forward information you entered on one page to other pages you visit. The data in the cookies we serve can be used only by our web site and do not contain your personal information. Our cookies do not read data from your computer's hard disk or other web sites' cookies.
