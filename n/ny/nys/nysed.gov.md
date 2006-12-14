@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616025836id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214193441id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy and Security Policy
 
@@ -7,28 +7,28 @@
 Resources for:  
   
 ---  
-- [Citizens](https://web.archive.org/web/20060616025836id_/http%3A//citizens/)  
-- [Individuals with Disabilities](https://web.archive.org/web/20060616025836id_/http%3A//disa/)  
-- [Licensed Professionals](https://web.archive.org/web/20060616025836id_/http%3A//professionals/)  
-- [Parents](https://web.archive.org/web/20060616025836id_/http%3A//parents/)  
-- [School Administrators](https://web.archive.org/web/20060616025836id_/http%3A//schooladmin/)  
-- [Students](https://web.archive.org/web/20060616025836id_/http%3A//students/)  
-- [Teachers](https://web.archive.org/web/20060616025836id_/http%3A//teachers/)  
+- [Citizens](https://web.archive.org/web/20061214193441id_/http%3A//citizens/)  
+- [Individuals with Disabilities](https://web.archive.org/web/20061214193441id_/http%3A//disa/)  
+- [Licensed Professionals](https://web.archive.org/web/20061214193441id_/http%3A//professionals/)  
+- [Parents](https://web.archive.org/web/20061214193441id_/http%3A//parents/)  
+- [School Administrators](https://web.archive.org/web/20061214193441id_/http%3A//schooladmin/)  
+- [Students](https://web.archive.org/web/20061214193441id_/http%3A//students/)  
+- [Teachers](https://web.archive.org/web/20061214193441id_/http%3A//teachers/)  
    
   
 Information about:  
   
-- [Grants & Finance](https://web.archive.org/web/20060616025836id_/http%3A//grants/)  
-- [Higher Education](https://web.archive.org/web/20060616025836id_/http%3A//highered/)  
+- [Grants & Finance](https://web.archive.org/web/20061214193441id_/http%3A//grants/)  
+- [Higher Education](https://web.archive.org/web/20061214193441id_/http%3A//highered/)  
 - [ Latest News on ELA & Math: Grades PreK-8 & Commencement](http://www.emsc.nysed.gov/3-8/)  
-- [Laws & Regulations](https://web.archive.org/web/20060616025836id_/http%3A//lawsregs/)  
-- [Licensing & Certification](https://web.archive.org/web/20060616025836id_/http%3A//licensing/)  
-- [Museum, Library & Archives](https://web.archive.org/web/20060616025836id_/http%3A//museum/)  
-- [PreK-Adult Education](https://web.archive.org/web/20060616025836id_/http%3A//prekadult/)  
-- [SED Online Services](http://portal.nysed.gov/)\- A link to NYSED Portal  applications and more.  
+- [Laws & Regulations](https://web.archive.org/web/20061214193441id_/http%3A//lawsregs/)  
+- [Licensing & Certification](https://web.archive.org/web/20061214193441id_/http%3A//licensing/)  
+- [Museum, Library & Archives](https://web.archive.org/web/20061214193441id_/http%3A//museum/)  
+- [PreK-Adult Education](https://web.archive.org/web/20061214193441id_/http%3A//prekadult/)  
+- [SED Online Services](http://portal.nysed.gov/) \- A link to NYSED Portal  applications and more.  
    
-[RSS News Feeds](https://web.archive.org/web/20060616025836id_/http%3A//newsfeed/)  
-|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20060616025836id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+[RSS News Feeds](https://web.archive.org/web/20061214193441id_/http%3A//newsfeed/)  
+|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20061214193441id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
 
 
 Internet Privacy and Security Policy
@@ -367,17 +367,20 @@ Back to Top
   
 [Board of Regents](http://www.regents.nysed.gov/) | [Disclaimer and Notices](http://usny.nysed.gov/notice.html) | [Employment Opportunities](http://www.oms.nysed.gov/hr/) | [Internet Privacy and Security Policy](http://usny.nysed.gov/privacy.html) | [NYS Archives](http://www.archives.nysed.gov/) | [NYS Library](http://www.nysl.nysed.gov/) | [NYS Museum](http://www.nysm.nysed.gov/) | [Office of Counsel](http://www.counsel.nysed.gov/) | [Office of Cultural Education](http://www.oce.nysed.gov/) | [Office of Elementary, Middle, Secondary and Continuing Education (EMSC)](http://www.emsc.nysed.gov/) | [ Office of Higher Education](http://www.highered.nysed.gov/) |  [ Office of Operations and Management Services](http://www.oms.nysed.gov/) | [Office of the Professions](http://www.op.nysed.gov/) | [Office of State Review](http://www.sro.nysed.gov/) | [Office of Vocational & Educational Services for Individuals with Disabilities (VESID)](http://www.vesid.nysed.gov/) | [Program Office Listing](http://usny.nysed.gov/programs.html) | [Report Fraud, Abuse, and Waste](http://www.oms.nysed.gov/oas/fraud/index.html)  
   
-  
-
-
 New York State Education Department  
 89 Washington Avenue  
 Albany, New York 12234
 
-If you have any problems accessing the content on this web site, please contact:  
-[webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov) or call (518) 473-4501. 
+**If you have a question or comment about any of the NYSED program areas or topic areas, please contact:  
+[webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov) or call (518) 474-3852 or check the NYSED Functional Telephone Directory at <http://usny.nysed.gov/phone/> .**
 
-Please Note: This number is NOT to be used to request or inquire about any topic having to do with professional licenses, teaching certificates or education degrees (i.e. GED diplomas or high school/college transcripts).
+If you are a person with a disability and you have a problem accessing the content on this web site,   
+please contact: [webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov) or call (518) 473-4501. 
+
+Please Note: The number (518) 473-4501 is **NOT** to be used to request or inquire about professional licenses, student testing, teacher certification, teacher certificates, teacher certificate extensions, the TEACH system, education degrees (i.e. GED diplomas or high school/college transcripts), or any other NYSED program area or topic.
+
+For individuals experiencing problems with the TEACH System, please go to [ https://portals.nysed.gov/tcert/technical.htm](https://portals.nysed.gov/tcert/technical.htm)   
+or call (518) 486-6041. 
 
 For individuals unable to access the State Aid Management System (SAMS), please call the SAMS help desk at   
 (518) 474-2978 or email [ omssams@mail.nysed.gov](mailto:omssams@mail.nysed.gov). 
@@ -394,4 +397,4 @@ please call (518) 474-3817 or go to [http://www.op.nysed.gov](http://www.op.nyse
 For any questions regarding vocational rehabilitation, please call (518) 486-4031   
 or go to [ http://www.vesid.nysed.gov/all/contact.htm](http://www.vesid.nysed.gov/all/contact.htm)  
   
-**[NYS Home Page](http://www.ny.gov/) | [map-NY](http://www.nysegov.com/map-NY.cfm) | [e-bizNYS](http://www.nysegov.com/e-bizNYS.cfm) | [Citizen Guide](http://www.nysegov.com/citguide.cfm) **
+**[NYS Home Page](http://www.ny.gov/) | [map-NY](http://www.nysegov.com/map-NY.cfm) | [e-bizNYS](http://www.nysegov.com/e-bizNYS.cfm) | [Citizen Guide](http://www.nysegov.com/citguide.cfm)**
