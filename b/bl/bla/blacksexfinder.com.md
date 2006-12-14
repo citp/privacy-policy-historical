@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418105222id_/http%3A//blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214022936id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Black Sex - Privacy Policy
 
 | 
-
-[](http://www.epiccash.com/track/track.php?UID=KELVYN&SID=21&PID=S)
-
-[](http://template.aebn.net/tid/28014/index.cfm?tid=28014)
 
 |  |  **Information Obtained**
 
@@ -50,9 +46,14 @@ If you have any questions regarding the above Policy Statement, please contact u
 
 [](https://web.archive.org/rate.php?go=top&p=0&cat=0)
 
-[](http://www.adameve.com/AffiliateEntry.asp?bid=15&eid=19&aid=6584)
+[](http://www.adameve.com/AffiliateEntry.asp?bid=409&eid=869&aid=6584)
 
-  
-  
-  
----|---|---|---|---
+[](http://links.adultelite.com/?s=herthickblackass&r=ae12875&p=ft&j=1&t=ebony)   
+
+
+|   
+---  
+This website contains adult material, all members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.   
+[18 U.S.C. 2257](http://www.blacksexfinder.com/18U_S_C_2257.php). 
+
+[**WARNING**](http://www.blacksexfinder.com/warning.php). 
