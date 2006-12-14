@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615170005id_/http%3A//www.jjill.com/customer/privacy.asp%3FAreaID%3DOL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214150607id_/http%3A//www.jjill.com/customer/privacy.asp%3FAreaID%3DOL) for the most accurate reproduction.*
 
 # J. Jill - privacy & security
 
