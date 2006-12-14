@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618000531id_/http%3A//rydges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214041243id_/http%3A//rydges.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy policy for Rydges Hotels and Resorts
+# Enquire about holidays getaways and offers at Rydges Hotels and Resorts | Contact Us
 
 Amalgamated Holdings Limited (AHL) is committed to ensuring your personal information is protected. AHL understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy Statement will explain how we go about treating your personal information.
 
@@ -51,4 +51,5 @@ Greater Union, Birch Carroll & Coyle, Cinestar, Atlab, Rydges Hotels & Resorts, 
   9. AHL Companies only transfer personal information to a recipient in a foreign country in circumstances where the information will have an appropriate level of protection.
   10. AHL Companies do not collect sensitive information unless the individual has consented, it is required by law – or in other special specified circumstances, for example relating to health services provision and individual or public health or safety.
 
+  
 
