@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615172443id_/http%3A//jt.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214222405id_/http%3A//jt.org/privacy.phtml) for the most accurate reproduction.*
 
 # Welcome to jt.org
 
