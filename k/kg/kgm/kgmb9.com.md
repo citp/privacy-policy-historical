@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the kgmb9.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/display.cfm%3Fsid%3D1197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgmb9.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214131217id_/http%3A//www.kgmb9.com/kgmb/display.cfm%3Fsid%3D1197) for the most accurate reproduction.*
 
 # KGMB9 - Hawaii's Severe Weather Station | Privacy Policy
 
-[](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/display.cfm?sid=1237)
+[](https://web.archive.org/web/20061214131217id_/http%3A//www.kgmb9.com/kgmb/display.cfm?sid=1237)
 
   
 [](http://kgmb.titantv.com/APG/Grid.aspx?callsign=kgmb)  
 
 
   
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=7438&sid=1243)  
-___March 13 - April 3  
-_ _  
-[](http://www.jeopardy.com/)  
- _ _Weekdays at  4 & 4:30 p.m._  
+[](http://www.rachaelrayshow.com/)  
+___Weekdays at 3 p.m.  
 _ _  
 [](http://insider.tv.yahoo.com/theinsider/)  
- _Weekdays at  6:30 p.m.__ _
+ _ _Weekdays at  6:30 p.m._  
+_ _  
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=9121&sid=1243)  
+ _Premieres January 2007__  _
 
  _
 
@@ -29,29 +29,27 @@ Print Partner
 _
 
   
-[**Send News Tips**](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/display.cfm?sid=1199)  
-Please send information about news and events to [kgmbnews@kgmb9.com](mailto:kgmbnews@kgmb9.com) or call 973-9889.
+[**Send News Tips**](https://web.archive.org/web/20061214131217id_/http%3A//www.kgmb9.com/kgmb/display.cfm?sid=1199)  
+Please send information about news and events to [kgmbnews@kgmb9.com](mailto:kgmbnews@kgmb9.com) or call 973-9889. 
 
-[](http://kgmb9.com/kgmb/display.cfm?storyID=7373&sid=1211)
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=6372&sid=1235)  
+\- ADVERTISEMENT -  
 
-  
 
-
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=5244&sid=1237)
-
-  
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=9318&sid=1243)  
+\- ADVERTISEMENT -  
 
 
 | 
 
 Posted: October 26, 2004 11:33 AM 
 
-[](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/print.cfm?sid=1197&storyID=1624)
+[](https://web.archive.org/web/20061214131217id_/http%3A//www.kgmb9.com/kgmb/print.cfm?sid=1197&storyID=1624)
 
 KGMB9.com Privacy Policy  
 
 
-Your privacy is important to us as a user of KHON9.com. The following tells you more about our online practices, as well as the choices you have about how information you share with us is used.
+Your privacy is important to us as a user of KGMB9.com. The following tells you more about our online practices, as well as the choices you have about how information you share with us is used.
 
 **Information we gather**
 
@@ -101,16 +99,7 @@ The Privacy Notice posted on this site was updated on or about November 1, 2004.
 
 | 
 
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=7463&sid=1237)
-
-  
-
-
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=7380&sid=1238)  
-\- ADVERTISEMENT -  
-
-
-[](http://www.cbs.com/primetime/the_unit/)  
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=8288&sid=1238)  
 \- ADVERTISEMENT -  
 
 
@@ -118,15 +107,14 @@ The Privacy Notice posted on this site was updated on or about November 1, 2004.
 \- ADVERTISEMENT -  
 
 
-[](http://kgmb9.com/kgmb/display.cfm?sid=1193)
-
-  
-
-
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=6372&sid=1235)  
+[](http://www.getnextelnow.com/)  
 \- ADVERTISEMENT -  
 
 
-[](http://www.honolulupride.com/feature.cfm)  
+[](http://www.cbs.com/primetime/survivor13/)  
+\- ADVERTISEMENT -  
+
+
+[](http://www.cbs.com/primetime/jericho)  
 \- ADVERTISEMENT -  
 
