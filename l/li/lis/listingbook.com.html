@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the listingbook.com privacy policy that was archived on 2006-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060516211005id_/http%3A//www.listingbook.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listingbook.com privacy policy that was archived on 2006-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214063057id_/http%3A//www.listingbook.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -29,6 +29,7 @@ var onbeforeunload_functions = new Array();
 </script>
 
 <script type="text/javascript" language="javascript" src="cgi-bin/js/openwindow.js"></script>
+<script type="text/javascript" language="javascript" src="cgi-bin/js/anchor.js"></script>
 
 <script language="javascript" type="text/javascript">
 function onBodyLoad()
@@ -71,7 +72,7 @@ function onBodyUnload()
   <table width="150" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr bgcolor="#000000"><td>
 
-	<!-- BEGIN Listingbook Login Module v1.4 -->
+	<!-- BEGIN Listingbook Login Module v1.5 -->
 <script language="javascript" type="text/javascript">
 function on_lb_login()
 {
@@ -93,43 +94,84 @@ function on_lb_login()
 
 	return true;
 }
-
 </script>
 
-<form name="lb_login" onsubmit="return on_lb_login();" action="https://www.listingbook.com/cgi-bin/login.php" method="POST" style="margin:0; padding:0">
-<input type="hidden" name="login_module_id" value="1">
-<input type="hidden" name="login_module_version" value="1.4">
-<table border="0" width="150" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#000000" align="left">
-	<td colspan="3"><img src="images/login_header.gif" height="22" width="150"></td>
-</tr>
-<tr bgcolor="#6699CC" align="left">
-	<td width="6"><img border="0" src="/images/transp_pixel.gif" width="6" height="1"></td>
-	<td colspan="2"><img src="images/login_module/user_code.gif" height="12" width="83"></td>
-</tr>
-<tr bgcolor="#6699CC" align="left">
-	<td width="6"><img border="0" src="/images/transp_pixel.gif" width="6" height="25"></td>
-	<td><input tabindex="101" type="text" name="login_uid" size="10" maxlength="32" value=""></td>
-	<td><img border="0" src="/images/transp_pixel.gif" width="6" height="1"><a href="http://www.listingbook.com/help/" tabindex="104" target="_top"><img src="images/login_module/help.gif" height="22" width="46" border="0" alt="view help"></a></td>
-</tr>
-<tr bgcolor="#6699CC" align="left">
-	<td width="6"><img border="0" src="/images/transp_pixel.gif" width="6" height="1"></td>
-	<td colspan="2"><img src="images/login_module/password.gif" height="12" width="83"></td>
-</tr>
-<tr bgcolor="#6699CC" align="left">
-	<td width="6"><img border="0" src="/images/transp_pixel.gif" width="6" height="25"></td>
-	<td><input tabindex="102" type="password" name="password" size="10" maxlength="10" value=""></td>
-	<td align="center"><button type="submit" onmouseover="this.style.backgroundColor='#316394'" onmouseout="this.style.backgroundColor='#6699CC'" style="background-color:#6699CC; width:40px; height:20px; border:1px solid #FFFFFF; cursor:pointer;" title="Login" alt="Go"><img src="images/login_go_transparent.gif"></button></td>
-</tr>
-<tr bgcolor="#6699CC" align="left">
-	<td colspan="3"><img src="images/login_module/footer_short_6699CC.gif" border="0" alt="www.listingbook.com"></td>
-</tr>
-</tbody></table>
-</form>
+<style type="text/css">
+#loginmodule {
+	width: 150px;
+	background-color: black;
+}
+#loginmodule h1 {
+	margin: 0px;
+	padding: 3px 4px;
+	color: #FFFFFF;
+	font-size: 13px;
+	font-family: arial;
+	background-color: black;
+	background-image: url(images/login_bkg.gif);
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+#loginmodule form {
+	background-color: #6699cc;
+	padding: 3px 6px;
+	margin: 0px;
+	margin-bottom: 1px;
+}
+#loginmodule form label {
+	color: #FFFFFF;
+	font-size: 70%;
+	display: block;
+}
+#loginmodule form input.button {
+	background-color: #6699cc;
+	font-family: verdana;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 80%;
+	width: 40px;
+	height: 20px;
+	border: 1px solid #FFFFFF;
+	cursor: pointer;
+	margin-left: 2px;
+}
+#loginmodule form p {
+	font-family: arial;
+	color: #FFFFFF;
+	font-size: 70%;
+	padding: 0px;
+	margin: .6em 0px .4em 0px;
+}
+#loginmodule form p a {
+	color: #FFFFFF;
+}
+</style>
+
+<div id="loginmodule">
+	<h1>Login</h1>
+	<form name="lb_login" onsubmit="javascript:return on_lb_login();" action="https://www.listingbook.com/cgi-bin/login.php" method="POST">
+
+		<input type="hidden" name="login_module_id" value="1">
+		<input type="hidden" name="login_module_version" value="1.5">
+
+		<label for="login_uid">Username:</label>
+		<input tabindex="101" type="text" id="login_uid" name="login_uid" size="10" maxlength="32" value="">
+
+		<label for="login_password">Password:</label>
+		<input tabindex="102" type="password" id="login_password" name="password" size="10" maxlength="10" value="">
+
+		<input tabindex="103" type="submit" class="button" value="Go" onmouseover="this.style.backgroundColor='#517aa3'" onmouseout="this.style.backgroundColor='#6699cc'" title="Login"><br>
+
+		<p>
+			<a href="javascript:openwindow('/cgi-bin/lost_password.php', 370, 300, 1, 1)" title="Open Account Information Tool">Lost password?<br>Forgot username?</a>
+		</p>
+
+	</form>
+</div>
 <script language="javascript" type="text/javascript">
 document.lb_login.login_uid.focus();
 </script>
-<!-- END Listingbook Login Module v1.4 -->
+<!-- END Listingbook Login Module v1.5 -->
 
   </td></tr>
   <tr><td>
@@ -140,12 +182,8 @@ document.lb_login.login_uid.focus();
   <td width="144" align="left">
   
 <table border="0">
-<tbody><tr align="left"><td><font face="verdana,arial,helvetica" size="-2" color="#444444"><a href="/help/">Forgot your password?</a></font></td></tr>
-</tbody></table>
-<br>
-<table border="0">
 <tbody><tr align="left"><td colspan="2"><font face="arial,helvetica" size="-1"><b>For Agents:</b></font></td></tr>
-<tr align="left"><td><img src="/images/triangle_yellow.gif"></td><td><font face="arial,helvetica" size="-1"><a class="nav" href="/agents/">Getting Started</a></font></td></tr>
+<tr align="left"><td><img src="/images/triangle_yellow.gif"></td><td><font face="arial,helvetica" size="-1"><a class="nav" href="agents/">Getting Started</a></font></td></tr>
 </tbody></table>
 <br><br>
 <table border="0">
