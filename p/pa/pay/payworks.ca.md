@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405132851id_/http%3A//www.payworks.ca/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214181148id_/http%3A//payworks.ca/privacy/privacy.asp) for the most accurate reproduction.*
 
-# Canadian Payroll Services
+# Canadian Payroll Services & Solutions
 
 **Privacy Statement**
 
