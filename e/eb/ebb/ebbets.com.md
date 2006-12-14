@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the ebbets.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214084333id_/http%3A//ebbets.com/privacy.aspx) for the most accurate reproduction.*
+
+# Throwback Jerseys, Vintage Flannels, Baseball Caps | Ebbets Field
+
+We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to ebbets.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system.
+
+The Ebbets Privacy Policy is designed to ensure the safety and accuracy of Internet users' personal information, whether gathered on this site or by our clients. We do not share any of your personally identifiable information with third parties. We are absolutely committed to personal privacy on the Internet.
+
+Ebbets collects personally identifiable information from those who register on our website to use any of our services. Such information includes name, address, and billing information. We use this information only to provide services to our clients and to receive payments for the use of our services. We also may collect information regarding your use of our services. We may use this and your personally identifiable information to compile general information about our clients and our services so that we may improve the services we offer. We may create reports based on that information to share with our clients, but these reports never contain any personally identifiable information. For example, we might determine from all of our data that there are certain days that are better to send emails as part of an email campaign. We might share that conclusion with our clients to improve the effectiveness of their email campaigns.
+
+You may view your personally identifiable information that we have at any time by logging into your account through our website. You may update or correct this information at any time through your account or by sending an email to info@ebbets.com.
+
+Keeping your personal information secure is a top priority for us. Therefore, The Ebbets utilizes 128-bit Secure Socket Layer (SSL) technology, the industry’s leading data security solutions, and has implemented policies and procedures to ensure the physical and electronic security of data stored by Ebbets. Ebbets employs permission-based marketing principles: it requires its clients to communicate only to users who affirmatively express an interest in receiving e-mails relevant to their interests in a particular company or product. Permission to receive e-mails may be granted and taken away; in other words customers may "opt-in" and "opt-out".
+
+Ebbets utilizes Cookie technology. A Cookie is information our web site places on the hard disk of your computer so that our web site can recognize who you are when you return to our web site. We use Cookies for purposes of web site traffic analysis such as the time/date of the visit, the time/date of last visit, the page viewed, the referrer, transaction information for eCommerce pages, and other data. Ebbets tracks click behavior in the e-mails it sends out. This data is used to update specific user-profile information, ascertain the areas of most interest to opt-in e-mail recipients, and to personalize e-mail messages to them.
+
+The Ebbets does not sell, rent, loan, trade, or lease any personal information whether gathered by Ebbets itself or received from its clients. When Ebbets, on behalf of its clients, collects personally identifiable information from opt-in participants in those clients' marketing programs, such information belongs to those respective clients and is subject to their policies on sharing of the end user information.
+
+Ebbets is a general audience site and is not directed to children under the age of 13. Whether for itself or for its clients, Ebbets will not knowingly collect or maintain personally identifiable information from or about anyone under 13. Ebbets will make the best effort to assist its clients in complying with privacy laws and adhering to the highest industry standards on privacy.
+
+If you have received unwanted, unsolicited email sent via our system or purporting to be sent via this system, please forward a copy of that email with your comments to info@ebbets.com for review.
+
+We reserve the right to modify this policy at any time. We will always post the most current version of this policy on our website.
