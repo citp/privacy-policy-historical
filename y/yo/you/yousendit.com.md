@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427181100id_/http%3A//www.yousendit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214152728id_/http%3A//www.yousendit.com/static.php%3Fkey%3Dprivacy) for the most accurate reproduction.*
 
 # YouSendIt: The Leader in File Delivery.
 
-Privacy Policy
+| 
+
+## Privacy Policy
 
 **Logging IP Addresses**  
 For each visitor to our web page, our web server does not recognize any information regarding the domain or email address. IP addresses are logged and used by YouSendIt for measuring usage.
@@ -23,6 +25,8 @@ We have appropriate security measures in place in our physical facilities to pro
 We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 **Third-Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
-
-Effective Date: September 13, 2005 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.   
+  
+---|---  
+  
+Please Wait...
