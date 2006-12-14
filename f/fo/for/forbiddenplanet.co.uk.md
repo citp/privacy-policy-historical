@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbiddenplanet.co.uk privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016211516id_/http%3A//www.forbiddenplanet.co.uk/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenplanet.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214070641id_/http%3A//www.forbiddenplanet.co.uk/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # : Forbidden Planet, Your Online Entertainment Superstore!
 
