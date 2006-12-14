@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the direct-golf.co.uk privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614063605id_/http%3A//www.direct-golf.co.uk/static/privacy/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the direct-golf.co.uk privacy policy that was archived on 2006-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214123021id_/http%3A//direct-golf.co.uk/static/privacy/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Golf equipment. Discount golf equipment by Direct Golf UK Ltd. Golf equipment by Callaway, Ping, Titleist, TaylorMade, Nike, Mizuno, King Cobra, Founders Golf all in stock within our online golf shop</title>
@@ -38,7 +38,36 @@ id = "TandCwindow";
 eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=300');");
 }
 
+function popUpNikeVideo(URL) {
+day = new Date();
+id = "TandCwindow";
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=850,height=600');");
+}
+
+</script><script language="JavaScript" type="text/javascript">
+// This script was supplied free by Hypergurl
+// http://www.hypergurl.com
+<!--
+// JavaScript to interpolate random images into a page.
+var ic = 4;
+// Number of alternative images
+var xoxo = new Array(ic);
+// Array to hold filenames
+xoxo[0] = "why_custom";
+xoxo[1] = "why_custom";
+xoxo[2] = "advice";
+xoxo[3] = "cant_find";
+function pickRandom(range)
+{ if (Math.random) return Math.round(Math.random() * (range-1));
+else { var now = new Date(); return (now.getTime() / 1000) % range; } }
+// Write out an IMG tag, using a randomly-chosen image name.
+var choice = pickRandom(ic);
+// -->
 </script></head>
+
+   
+   
+
 
 
 
@@ -49,9 +78,14 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 <table cellpadding="0" cellspacing="0" border="0" width="772" bgcolor="white">
   <tbody><tr>
     <td><a href="/index.asp"><img src="/images/generic/navimages/DGUK_logo.gif" width="405" height="51" alt="Direct Golf UK Ltd Home Page" border="0" style="margin : 0px 0px 4px 0px"></a></td>
-    
-    <td align="right" valign="center"><a href="/static/advice/advice.asp"><img src="/images/newlayout/call_to_order.gif" alt="" border="0"></a></td>
-    
+
+
+
+    <script language="JavaScript">
+    document.writeln('<td align=right valign=center'+'><a href="/static/professional_advice/'+xoxo[choice]+'.asp"><IMG SRC="/images/newLayout/call_'+xoxo[choice]+'.gif"height="55" width="353" border="0"><'+'/td>');
+    </script><td align="right" valign="center"><a href="/static/professional_advice/why_custom.asp"><img src="/images/newLayout/call_why_custom.gif" height="55" width="353" border="0"></a></td>
+
+       
   </tr>
 </tbody></table>
     <table cellpadding="0" cellspacing="0" border="0" width="772" class="new_productBar">
@@ -81,17 +115,17 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
             <td align="center">
                 <a href="/product/sections/sections_new.asp?search_product_type=12" class="new_navclearProduct">Shoes</a></td>
             <td align="center">
-			 <a href="/product/sections/sections_new.asp?search_product_type=6" class="new_navclearProduct">Packages</a>
-			</td>
+          <a href="/product/sections/sections_new.asp?search_product_type=6" class="new_navclearProduct">Packages</a>
+         </td>
             <td align="center">
                
-				<a href="/product/sections/sections.asp?search_product_type=18" class="new_navclearProduct">Pre-Owned</a>
-				</td>
+            <a href="/product/sections/sections.asp?search_product_type=18" class="new_navclearProduct">Pre-Owned</a>
+            </td>
         </tr>
     </tbody></table>
     
     <table cellpadding="0" cellspacing="0" border="0" width="772">
-        <tbody><tr><form name="search" action="/product/search/search.asp" method="get"></form>
+        <tbody><tr><form name="search" action="/product/search/searchResults.asp" method="get"></form>
             <td class="new_searchRowMain">
                 <table cellpadding="0" cellspacing="0" border="0">
                     <tbody><tr>
@@ -99,37 +133,38 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                         <td>
                             <input type="text" class="new_searchBox" name="search_product_model"></td>
                         <td>
-						
+                  
                             <input type="submit" value="Search" class="new_searchButton" name="search_product_typeButton"></td>
                     </tr>
                 </tbody></table>
             </td>
             <td class="new_searchRowType"><select class="new_searchDrop" name="search_product_type"><option value="ALL">Product Type
-                    </option><option value="2">Accessories</option>
+                        </option><option value="2">Accessories</option>
 <option value="3">Bags</option>
 <option value="4">Balls</option>
 <option value="5">Clothing</option>
 <option value="6">Complete Sets</option>
 <option value="7">Drivers</option>
 <option value="8">Fairways</option>
+
 <option value="9">Gloves</option>
 <option value="10">Irons</option>
 <option value="18">Pre Owned</option>
 <option value="11">Putters</option>
 <option value="12">Shoes</option>
 <option value="13">Utility</option>
-<option value="14">Wedges</option>
-</select>
+<option value="14">Wedges</option></select>
+               
                 <select class="new_searchDrop" name="search_product_manufacturer">
-                    <option value="ALL">Manufacturer
-                    </option><option value="1">Adams</option>
+                    <option value="ALL" selected="">Manufacturer        
+               </option><option value="1">Adams</option>
 <option value="2">Adidas</option>
+<option value="3">Alien</option>
 <option value="125">Asbri</option>
-<option value="5">Avon</option>
 <option value="122">Bang</option>
-<option value="6">Bay Hill</option>
-<option value="129">Ben Hogan</option>
-<option value="9">Callaway</option>
+<option value="140">Bunker Mentality</option>
+<option value="147">Caddy Aid</option>
+<option value="9">Callaway Golf</option>
 <option value="10">Carbite</option>
 <option value="91">Cartcaddy</option>
 <option value="11">Champ</option>
@@ -137,55 +172,60 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 <option value="14">Cobra</option>
 <option value="16">DGUK</option>
 <option value="18">Etonic</option>
+<option value="119">Firethorn</option>
 <option value="20">Footjoy</option>
 <option value="21">Founders Club</option>
+<option value="137">Froghair</option>
 <option value="22">Golf Pride</option>
 <option value="23">Golfers Club</option>
-<option value="126">Grip-Lock</option>
+<option value="148">Green Free</option>
+<option value="133">Heat In A Click</option>
 <option value="24">Hippo</option>
+<option value="143">Hi-Tec</option>
 <option value="120">Hotblade</option>
 <option value="25">Howson</option>
-<option value="89">Integra</option>
+<option value="149">Iomic</option>
 <option value="26">Izzo</option>
 <option value="90">Jaxx</option>
+<option value="136">Jelly Golf</option>
 <option value="117">John Letters</option>
-<option value="100">La Jolla</option>
+<option value="138">Kudos</option>
 <option value="98">Lamkin</option>
-<option value="27">Links Leisure</option>
+<option value="104">Long Dog</option>
 <option value="31">MacGregor</option>
 <option value="33">Maxfli</option>
 <option value="34">Maxi Power</option>
+<option value="35">MD Golf</option>
 <option value="36">Mizuno</option>
 <option value="105">Momentus</option>
+<option value="130">Moose</option>
+<option value="134">Motocaddy</option>
 <option value="111">Neox</option>
 <option value="39">Nike Golf</option>
+<option value="145">Nomis</option>
 <option value="115">Northwestern</option>
 <option value="121">Penn</option>
 <option value="42">Ping</option>
+<option value="132">Pinnacle</option>
 <option value="43">Polar Power</option>
 <option value="44">PowaKaddy</option>
-<option value="114">Power House</option>
-<option value="45">Precept</option>
 <option value="49">Pro Select</option>
 <option value="123">Proline</option>
 <option value="51">ProQuip</option>
-<option value="118">Prosimmon</option>
-<option value="52">Pure Spin</option>
+<option value="146">Prostroke</option>
 <option value="93">Q Link</option>
 <option value="53">Quadrant</option>
 <option value="54">Ram</option>
 <option value="57">Rossa</option>
 <option value="58">Sabona</option>
-<option value="59">Second Chance</option>
+<option value="142">See More</option>
+<option value="62">Snake Eyes</option>
 <option value="63">SoftSpikes</option>
 <option value="64">Solo</option>
-<option value="128">Sonartec</option>
 <option value="127">Squadron Energy</option>
 <option value="66">Srixon</option>
 <option value="106">Stuburt</option>
-<option value="69">Stylo Golf</option>
 <option value="71">Sunderland</option>
-<option value="73">Tad Moore</option>
 <option value="74">TaylorMade</option>
 <option value="75">Teardrop</option>
 <option value="77">Titleist</option>
@@ -195,11 +235,19 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 <option value="110">Wilson Staff</option>
 <option value="83">Winn Grip</option>
 <option value="124">Yes</option>
-</select>
-                <input type="submit" value="Search" class="new_searchButton">
+ 
+               
+               
+           </select>
+               
+         
+                 
+            
+      
+             <input type="submit" value="Search" class="new_searchButton">
           </td>
-				<input type="hidden" name="searchFunction" value="7">
-				
+            <input type="hidden" name="searchFunction" value="7">
+            
             <td class="new_searchRowCode">
             
             <table cellpadding="0" cellspacing="0" border="0">
@@ -226,7 +274,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                                 </tr>
                             </tbody></table>  
                             
-                            
+               
 
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
   <tbody><tr>
@@ -235,9 +283,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
   
 
 
-
-
-  
+ 
   
   <tr>
     <td colspan="2" class="info"><center><a class="new_navclear" href="/cart/cart.asp"><strong>View My Cart</strong></a>
@@ -247,7 +293,9 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 
 
                             
-                                                          
+          
+
+                              
                             
                             
                             <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
@@ -258,8 +306,8 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                                 <tr>
                                     <td>
                                         <center>
-										
-										
+                              
+                              
                                             <a class="new_navclearMembers" href="/members/signup_v2.asp"><b>&gt; REGISTER FOR FREE</b></a>
                                         </center>
                                         <div class="new_sidePanelMember">
@@ -269,48 +317,53 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                                             <div class="new_sidePanelMember"> <b>password</b></div>
                                             <input name="userPass" type="password" class="new_sidePanelMemberFormElement" id="userPass">
                                             <input name="submit" type="submit" class="new_sidePanelMemberFormElementButton" value="Login">
-											
-											
+                                 
+                                 
                                             <input name="returnPage" type="hidden" id="returnPage" value="/static/privacy/privacy.asp?">
-											
-											
+                                 
+                                 
                                             </form>
                                     </div>
                                   </td>
                                 </tr>
                             </tbody></table>
-							
-							
+                     
+             
                             <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
                                 <tbody><tr>
                                     <td class="new_sidePanelTop">
                                         Specialist Shops</td>
                                 </tr>
                                 <tr>
-                                  <td> <a class="new_navclear" href="/product/sections/sections.asp?search_product_type=18"><strong>NEW:</strong> Pre Owned</a><br>
+                                  <td> <a class="new_navclear" href="/product/sections/sections.asp?search_product_type=18">Pre Owned</a><br>
                                         <a class="new_navclear" href="/proshops/newProduct.asp">New Products</a><br>
                                         <a class="new_navclear" href="/proshops/ladies.asp">Ladies</a><br>
                                         <a class="new_navclear" href="/proshops/junior.asp">Juniors</a><br>
-					<a class="new_navclear" href="/proshops/leftHanded.asp">Left Handed</a><br>
+               <a class="new_navclear" href="/proshops/leftHanded.asp">Left Handed</a><br>
                                         <a class="new_navclear" href="/clearance/index_ware.asp">Clearance</a><br>
-                                        <a href="/accessory/golf-accessories.asp?section=1" target="_blank" class="new_navclear">Accessories</a><br>
+                                        <a href="/inter/Index.asp" class="new_navclear">International Customers                                       </a><br>
                                         <a href="/beginners/" target="_blank" class="new_navclear">Beginners &amp; Improvers</a><br>
-                                        <a class="new_navclear" href="/static/customfit/customfit.asp">Custom Fitting</a><br>
-										
+                                        <a class="new_navclear" href="/static/professional_advice/why_custom.asp">Custom Fitting</a><br>
+                              
                                         <a href="http://www.foundersclubgolf.com/" target="_blank" class="new_navclear">Founders
                                         Club Golf</a><br>  
-										 <a href="http://www.johnletters.com/" target="_blank" class="new_navclear">John Letters</a><br>                                       
-                                        <a href="/videoZone/" class="new_navclear">Golf Videos</a><br> <a class="new_navclear" href="/product/sections/sections.asp?search_product_type=4&amp;extraType=personalise">Personalised Golf Balls</a><br>
+                               <a href="http://www.johnletters.com/" target="_blank" class="new_navclear">John Letters</a><br> 
+                                        <a class="new_navclear" href="/product/sections/sections.asp?search_product_type=4&amp;extraType=personalise">Personalised Golf Balls</a><br>
 <a class="new_navclear" href="/logo/index.asp">Corporate Golf</a><br>
                                         
                                   <a href="/bulkorders/index.asp" class="new_navclear">Bulk Buying</a></td>
                                 </tr>
                             </tbody></table>
-                            <table><tbody><tr><td></td></tr></tbody></table>      <a href="/product/insurance/default.asp"><img src="/images/newP_Shot/insuranceGraphic.jpg" alt="" border="0"></a><br>   
-      <br> <a href="/able2buy/about.asp">
-		 <img src="/images/newLayout/edge.gif" width="120" height="80" alt="" border="0"></a>                    
-                           
-                            <a href="/logo/index.asp"><img src="/images/newp_shot/logo.gif" width="120" height="103" alt="" border="0" style="margin-top:8px;"></a>
+                            
+                            <a href="/callBackBanner/callme.asp?bannerType=confused&amp;fromPage=/static/privacy/privacy.asp?"><img src="/callBackBanner/confused_banner.gif" alt="Professional Golf Advice" width="120" height="170" border="0" style="margin-bottom: 8px;"></a>
+                            
+                                 <a href="/product/insurance/default.asp"><img src="/images/newP_Shot/insuranceGraphic.jpg" alt="Golf Insurance" border="0" style="margin-bottom: 8px;"></a><br>
+                              
+   
+            <a href="/able2buy/about.asp">
+       <img src="/images/newLayout/edge.gif" width="120" height="80" alt="" border="0"></a>                    
+                           <!--
+                            <a href="/logo/index.asp"><IMG SRC="/images/newp_shot/logo.gif" WIDTH=120 HEIGHT=103 ALT="Corporate &amp; Society Golf Products" BORDER=0 style="margin-top:8px;"></a>-->
                             
                             <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
                                 <tbody><tr>
@@ -330,36 +383,46 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
                                                        
                             <a href="#" onclick="bookmark('http://www.direct-golf.co.uk/index.asp','Direct Golf UK Ltd'); return false;"><img src="/images/generic/navimages/bookmark.gif" alt="" border="0"></a>
                             <br>
-
-                            <a href="http://www.hitwise.co.uk/info/awards/popup.html?sDomain=www.direct-golf.co.uk&amp;iDate=200601&amp;iCatnum=10368&amp;Cal=" target="info" onclick="javascript:window.open('', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');"><img src="/images/generic/hitWiseJan2006.gif" alt="We are a HitWise Top Site!" width="100" height="100" border="0"></a><br>
-                            <span style="font-size:10px;"><strong>Sports: Golf</strong></span><br>
-							
-							
-							
+        <!--
+                            <a HREF="http://www.hitwise.co.uk/info/awards/popup.html?sDomain=www.direct-golf.co.uk&iDate=200601&iCatnum=10368&Cal=" TARGET="info" onClick="javascript:window.open('', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');"><img src="/images/generic/hitWiseJan2006.gif" alt="We are a HitWise Top Site!" width="100" height="100" border="0"></a><br>
+                            <span style="font-size:10px;"><strong >Sports: Golf</strong></span><br>-->
+                     
+                     
+                     
 </td>
                     </tr>
                 </tbody></table>
 
           </td>
             <td valign="top" width="532">
-			
+         
 
 
 
 
 
-<table cellpadding="4" border="0" width="100%"><tbody><tr><td>
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td background="../../images/static_pages/redLineBG.gif"><img src="../../images/static_pages/PrivacyPolicy.gif" alt="Privacy Policy" width="512" height="38"></td>
+    </tr>
+  </tbody></table>
+  
+</div>
+<table cellpadding="0" border="0" width="100%"><tbody><tr><td>
 
-<table cellpadding="8" cellspacing="0" border="0" width="100%">
-<tbody><tr><td class="staticHeaderTest">Privacy policy</td></tr>
-<tr><td class="staticIndent"></td></tr>
-<tr><td class="staticTest">We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Privacy and Electronic Communications (EC Directive) Regulations 2003.</td></tr>
+<table cellpadding="6" cellspacing="0" border="0" width="100%">
+
+<tbody><tr><td class="staticTest">We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Privacy and Electronic Communications (EC Directive) Regulations 2003.</td></tr>
 
 <tr><td>
 <br>
-<table class="open" cellpadding="4" cellspacing="0" width="100%">
-<tbody><tr><td class="staticIndent" bgcolor="#D1E4F7">Information about you</td></tr>
-<tr><td class="staticTest">We may collect information about you for 2 reasons: firstly, to process your order and secondly, so that with your consent, we may from time to time bring to your attention special offers or promotions from ourselves.<br>
+<table class="open" cellpadding="0" cellspacing="0" width="100%" bgcolor="#EDEDED" style="border:1px solid #B2B2B2;">
+<tbody><tr>
+<td background="../../images/static_pages/blueFadeBG.gif"><img src="../../images/static_pages/shInfoAboutYou.gif" width="508" height="27"></td>
+</tr>
+<tr><td class="staticTest"><br>
+  We may collect information about you for 2 reasons: firstly, to process your order and secondly, so that with your consent, we may from time to time bring to your attention special offers or promotions from ourselves.<br>
 </td></tr>
 <tr><td class="staticTest">
 The type of information we will collect about you if you place an order with us includes: <br>
@@ -377,12 +440,16 @@ The information we hold will be accurate and up to date. You can check the infor
 </td></tr>
 <tr><td class="staticTest">
 The personal information which we hold will be held securely in accordance with our internal security policy and governing UK law.
-</td></tr>
+    <br>
+    <br></td>
+</tr>
 </tbody></table>
 <br>
-<table class="open" cellpadding="4" cellspacing="0" width="100%">
-<tbody><tr><td class="staticIndent" bgcolor="#D1E4F7">E-mail communication</td></tr>
+<table class="open" cellpadding="0" cellspacing="0" width="100%" bgcolor="#EDEDED" style="border:1px solid #B2B2B2;">
+<tbody><tr><td background="../../images/static_pages/blueFadeBG.gif"><img src="../../images/static_pages/shEmailComms.gif" width="508" height="27"></td>
+</tr>
 <tr><td class="staticTest">
+<br>
 We collect e-mail addresses in one of two ways:
 
 <ol>
@@ -396,20 +463,27 @@ the clearly identifiable link at the bottom of any communication we send you.
 <br>
 <br>We will never pass on your e-mail address, or any other details to a 3rd party without your consent. 
 <br><br>Visitors to this site who; enter competitions or request advice and feedback will automatically be entered onto our special offer mailing list.  Those people who place orders, are able to decline being placed on our mailing list. Instructions on how to remove your e-mail address from this list are on the bottom of each e-mail.
-</td></tr>
+<br>
+<br></td>
+</tr>
 </tbody></table>
 
 <br>
-<table class="open" cellpadding="4" cellspacing="0" width="100%">
-<tbody><tr><td class="staticIndent" bgcolor="#D1E4F7">Cookies</td></tr>
+<table class="open" cellpadding="0" cellspacing="0" width="100%" bgcolor="#EDEDED" style="border:1px solid #B2B2B2;">
+<tbody><tr><td background="../../images/static_pages/blueFadeBG.gif"><img src="../../images/static_pages/shCookies.gif" width="508" height="27"></td>
+</tr>
 <tr><td class="staticTest">
+<br>
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your computer. A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. 
 
-<br><br>We do not record information like your credit card details or address in a cookie.
+<br>
+<br>We do not record information like your credit card details or address in a cookie.
 
 <br><br>If you are concerned about security, you can usually modify your browser to prevent cookies being stored on your machine.
 
-<br><br>If you have any questions about your privacy on this site, you should e-mail us at
+<br><br>If you have any questions about your privacy on this site, you should e-mail us at<br>
+
+
 
 <script language="JavaScript">
 <!-- 
@@ -420,13 +494,14 @@ document.write('<a href=\"mailto:' + user + '@' + site + '\">');
 document.write(user + '@' + site + '</a>');
 //  -->
 </script><a href="mailto:info@direct-golf.co.uk">info@direct-golf.co.uk</a>.
-
-</td></tr>
+<br>
+<br>
+</td>
+</tr>
 </tbody></table>
 
 
 </td></tr>
-
 </tbody></table>
 </td></tr></tbody></table>
 
@@ -434,35 +509,42 @@ document.write(user + '@' + site + '</a>');
 
 
 
-</td>		
+</td>    
             <td valign="top" width="120"> 
-            
-		
-	
-			
+        
+   
+         
                 <table cellpadding="0" cellspacing="0" border="0" width="120" height="100%" bgcolor="#ffffff">
                     <tbody><tr>
-                      <td align="center" valign="top" class="new_leftMenuColumn">
-                        
-                        
-                                    	<a href="/stores/index.asp"><img vspace="4" src="/images/p_shot_1/visitastore.jpg" width="120" alt="" border="0"></a>
-                            				
-		                        <a href="/callBackBanner/index.asp?bannerType=slice&amp;fromPage=/static/privacy/privacy.asp?"><img src="/callBackBanner/slice_banner.gif" alt="Rotating Banner" width="120" height="170" border="0"></a>
-								 
-                            
-                            <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
-                                <tbody><tr>
-                                    <td class="new_sidePanelTop">
-                                        Best Selling</td>
-                                </tr>
-                                <tr>
+                      <td align="center" valign="top" class="new_leftMenuColumn" style="padding-top:13px;">
+
+
+
+
+                              <a href="/stores/storeDetail.asp?storeID=15"><img src="/images/newp_shot/kentOpen.gif" width="120" alt="" border="0"></a><br><a href="/stores/storeDetail.asp?storeID=7"><img src="/images/newp_shot/walsallExt.gif" width="120" alt="" border="0"></a><br><a href="/stores/index.asp"><img src="/images/newp_shot/visitStores.gif" width="120" alt="" border="0"></a>
+
+                              <!--
+                              <a href="/callBackBanner/callme.asp?bannerType=confused&fromPage=/static/privacy/privacy.asp?"><img src="/callBackBanner/confused_banner.gif" alt="Professional Golf Advice" width="120" height="170" border="0"></a>
+                              --><div style="line-height: 7px;">&nbsp;</div>
+                              <a href="/giftSelector/"><img src="/images/newp_shot/giftIdeas.gif" alt="Golf Gifts - Ideas for Golf Christams Presents" border="0"></a>
+
+                                <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
+                                  <tbody><tr>
+                                    <td class="new_sidePanelTop"> Best Selling</td>
+                                  </tr>
+                                  <tr>
                                     <td>
-                                    &nbsp;<b>Drivers</b><br><a class="nav" href="/product/product.asp?product_ID=2983"> &nbsp;- Sasquatch 460</a><br><a class="nav" href="/product/product.asp?product_ID=2181"> &nbsp;- SZ 400</a><br><a class="nav" href="/product/product.asp?product_ID=2915"> &nbsp;- R7 425</a><br><a class="nav" href="/product/product.asp?product_ID=3147"> &nbsp;- Ovation 460</a><br><br>&nbsp;<b>Irons</b><br><a class="nav" href="/product/product.asp?product_ID=3238"> &nbsp;- F7 Limited Editi...</a><br><a class="nav" href="/product/product.asp?product_ID=3105"> &nbsp;- I-506</a><br><a class="nav" href="/product/product.asp?product_ID=3157"> &nbsp;- Idea A2</a><br><a class="nav" href="/product/product.asp?product_ID=3251"> &nbsp;- T7 Hybrid Set</a><br><br>&nbsp;<b>Fairways</b><br><a class="nav" href="/product/product.asp?product_ID=3247"> &nbsp;- T7</a><br><a class="nav" href="/product/product.asp?product_ID=2786"> &nbsp;- F50</a><br><a class="nav" href="/product/product.asp?product_ID=3141"> &nbsp;- RPM LP - Neutral...</a><br><br>&nbsp;<b>Balls</b><br><a class="nav" href="/product/product.asp?product_ID=2258"> &nbsp;- Pro V1</a><br><a class="nav" href="/product/product.asp?product_ID=2030"> &nbsp;- Hit Me Again Bal...</a><br><a class="nav" href="/product/product.asp?product_ID=3108"> &nbsp;- Ignite</a><br><a class="nav" href="/product/product.asp?product_ID=2404"> &nbsp;- Mojo II</a><br><br>
-                                    
+                                      &nbsp;<b>Drivers</b><br><a class="nav" href="/product/product.asp?product_ID=4046"> &nbsp;- R7 460 Draw</a><br><a class="nav" href="/product/product.asp?product_ID=3243"> &nbsp;- T7 Ti 460</a><br><a class="nav" href="/product/product.asp?product_ID=3147"> &nbsp;- Ovation 460</a><br><a class="nav" href="/product/product.asp?product_ID=3012"> &nbsp;- F Speed</a><br><br>&nbsp;<b>Irons</b><br><a class="nav" href="/product/product.asp?product_ID=3070"> &nbsp;- Deep Red</a><br><a class="nav" href="/product/product.asp?product_ID=3251"> &nbsp;- T7 Hybrid Set</a><br><a class="nav" href="/product/product.asp?product_ID=4619"> &nbsp;- r7 </a><br><a class="nav" href="/product/product.asp?product_ID=3238"> &nbsp;- F7 Limited Editi...</a><br><br>&nbsp;<b>Fairways</b><br><a class="nav" href="/product/product.asp?product_ID=3247"> &nbsp;- T7</a><br><a class="nav" href="/product/product.asp?product_ID=3141"> &nbsp;- RPM LP - Neutral...</a><br><a class="nav" href="/product/product.asp?product_ID=3016"> &nbsp;- F Speed</a><br><br>&nbsp;<b>Balls</b><br><a class="nav" href="/product/product.asp?product_ID=3984"> &nbsp;- M3 Solid</a><br><a class="nav" href="/product/product.asp?product_ID=4607"> &nbsp;- TP Black</a><br><a class="nav" href="/product/product.asp?product_ID=2258"> &nbsp;- Pro V1</a><br><a class="nav" href="/product/product.asp?product_ID=2259"> &nbsp;- Pro V1X </a><br><br>
                                     </td>
-                                </tr>
-                            </tbody></table>
-                         
+                                  </tr>
+                                </tbody></table>
+                        
+                        <a href="/logo/index.asp"><img src="/images/newp_shot/logo.gif" width="120" height="103" alt="Corporate &amp; Society Golf Products" border="0"></a><br><br>
+
+                                 
+                                      <a href="/golfersClub/index.asp"><img vspace="1" src="/images/p_shot_1/tgc_banner.jpg" width="120" alt="" border="0"></a>
+                                
+
             <table cellpadding="0" cellspacing="0" border="0" bgcolor="white" width="114" class="new_sidePanel">
                                 <tbody><tr>
                                     <td class="new_sidePanelTop">
@@ -470,29 +552,31 @@ document.write(user + '@' + site + '</a>');
                                 </tr>
                                 <tr>
                                   <td>
-                                        <a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=1&amp;searchFunction=7">Adams Golf</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=13&amp;searchFunction=7">Cleveland</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=14&amp;searchFunction=7">Cobra</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=21&amp;searchFunction=7">Founders Club</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=120&amp;searchFunction=7">Hotblade</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=26&amp;searchFunction=7">Izzo</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=117&amp;searchFunction=7">John Letters</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=31&amp;searchFunction=7">MacGregor</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=36&amp;searchFunction=7">Mizuno</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=39&amp;searchFunction=7">Nike Golf</a><br>
-                                        <a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=44&amp;searchFunction=7">PowaKaddy</a><br> 
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=123&amp;searchFunction=7">Proline</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=54&amp;searchFunction=7">Ram</a><br>
-                                 	<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=74&amp;searchFunction=7">TaylorMade</a><br>
-					<a class="new_navclear" href="/product/search/search.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=110&amp;searchFunction=7">Wilson Staff</a></td>
+                                        <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=1&amp;searchFunction=7">Adams Golf</a><br>
+                                        <a class="new_navclear" href="/product/search/CallForCallaway/callInfo.asp">Callaway Golf</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=13&amp;searchFunction=7">Cleveland</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=14&amp;searchFunction=7">Cobra</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=21&amp;searchFunction=7">Founders Club</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=120&amp;searchFunction=7">Hotblade</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=26&amp;searchFunction=7">Izzo</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=117&amp;searchFunction=7">John Letters</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=31&amp;searchFunction=7">MacGregor</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=36&amp;searchFunction=7">Mizuno</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=39&amp;searchFunction=7">Nike Golf</a><br>
+                                        <a class="new_navclear" href="/product/search/CallForOdyssey/callInfo.asp">Odyssey</a><br>
+                                        <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=44&amp;searchFunction=7">PowaKaddy</a><br> 
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=123&amp;searchFunction=7">Proline</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=54&amp;searchFunction=7">Ram</a><br>
+                                    <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=74&amp;searchFunction=7">TaylorMade</a><br>
+               <a class="new_navclear" href="/product/search/searchResults.asp?search_product_model=&amp;search_product_type=ALL&amp;search_product_manufacturer=110&amp;searchFunction=7">Wilson Staff</a></td>
                                 </tr>
                         </tbody></table>
                           
-                       <a href="/misc/staticBannerRedirect.asp?url=/static/demodays/demodays.asp&amp;media_id=7"> <img src="/images/p_shot_1/demo.gif" alt="Direct Golf UK - Store Demo Days" border="0"></a></td>
+                       <a href="/static/demodays/demodays.asp?media_id=7"> <img src="/images/p_shot_1/demo.gif" alt="Direct Golf UK - Store Demo Days" border="0"></a></td>
                     </tr>
                 </tbody></table>
-				
-						
+            
+                  
             </td>
         </tr>
     </tbody></table> 
@@ -507,21 +591,19 @@ document.write(user + '@' + site + '</a>');
  <table cellpadding="0" cellspacing="0" border="0" width="772">
   <tbody><tr>
     <td colspan="3" align="center">  
-  <!--
-  #d7d7d7
-  -->
+
   <table cellpadding="1" cellspacing="0" border="0" bgcolor="#D1E4F7" width="100%" class="footerSearchBar">
     <tbody><tr>
       <td width="33%">
       
       <table cellpadding="3" cellspacing="0" border="0">
-        <form name="search" action="/product/search/search.asp" method="get"></form>
+        <form name="search" action="/product/search/searchResults.asp" method="get"></form>
         <input type="hidden" name="search_product_type" value="ALL">
         <input type="hidden" name="search_product_manufacturer" value="ALL">
         <tbody><tr>
           <td><span class="footerLinks">&nbsp;Search</span></td>
           <td><input type="text" size="20" name="search_product_model"></td>
-          <td><input type="submit" value="search"></td>
+          <td><input type="submit" value="Search" class="new_searchButton" name="search_product_typeButton"></td>
         </tr>
         
       </tbody></table>
@@ -536,7 +618,7 @@ document.write(user + '@' + site + '</a>');
         <tbody><tr>
           <td><span class="footerLinks">&nbsp;Email Offers</span></td>
           <td><input type="text" size="20" value="Enter your email" name="email_add"></td>
-          <td><input type="submit" value="submit"></td>
+          <td><input type="submit" value="submit" class="new_searchButton"></td>
         </tr>
         
       </tbody></table>
@@ -590,10 +672,9 @@ document.write(user + '@' + site + '</a>');
   <tbody><tr>
     <td colspan="3" align="center">
   <br>
-<a class="footerlink" href="/static/brochure/brochure_summer_req.asp">Brochure
-Request</a> | <a class="footerlink" href="/cart/cart.asp">Your Basket</a> | <a class="footerlink" href="/static/advice/advice.asp">Need
-Advice?</a> | <a class="footerlink" href="/static/tips/tips5.asp">Ask The Pro
-</a> | <a class="footerlink" href="/static/contact/contact.asp">Contact
+<a class="footerlink" href="/winterBrochure/">Catalogue
+Request</a> | <a class="footerlink" href="/cart/cart.asp">Your Basket</a> | <a class="footerlink" href="/static/professional_advice/advice.asp">Need
+Advice?</a> | <a class="footerlink" href="/static/contact/contact.asp">Contact
 Us</a> | <a class="footerlink" href="/index.asp">Home</a> | <a class="footerlink" href="/site_map.asp">Site
 Map</a><br>
   <br>
@@ -611,12 +692,12 @@ Map</a><br>
 </div>
 
 
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-277543-2";
+_uacct = "UA-886206-3";
 urchinTracker();
-_uacct = "UA-328212-1";
-urchinTracker();
-</script></body></html>
+</script>
+
+
+</body></html>
