@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacytimes.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625090713id_/http%3A//www.pharmacytimes.com/article.cfm%3FID%3D2535) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacytimes.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214114221id_/http%3A//pharmacytimes.com/article.cfm%3FID%3D2535) for the most accurate reproduction.*
 
 # Pharmacy Times: ASCEND MEDIA WEB PRIVACY POLICY
 
