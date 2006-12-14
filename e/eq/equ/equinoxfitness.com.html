@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the equinoxfitness.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615203319id_/http%3A//www.equinoxfitness.com/default/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the equinoxfitness.com privacy policy that was archived on 2006-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214144219id_/http%3A//www.equinoxfitness.com/default/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
@@ -23,6 +23,9 @@
 <script type="text/javascript">
 dojo.addOnLoad(init);
 </script>
+<!--
+-->
+
 </head>
 
 <body class="default">
@@ -30,8 +33,9 @@ dojo.addOnLoad(init);
 <h1 id="go_home"><a title="Home" href="/">Equinox — <small><i>It's Not Fitness. It's Life.</i></small></a></h1>
 <ul id="member">
 	<li><a href="https://my.equinoxfitness.com">Member Log In</a></li>
-	<li><a href="/default?mode=become_member">About Membership</a></li>
+	<li><a href="/membership_inquiry">Become a Member</a></li>
 	<li><a href="javascript:void(window.open('http://my.equinoxfitness.com/online/common/tour/clubtour.html','clubtour','width=569,height=370,status=no,scrollbars=no,resizable=no'))">Tour Our Clubs</a></li>
+	<li><a href="https://my.equinoxfitness.com/Online/Wizards/RunWizard.aspx?ID=GIFTCARD">Gift Cards</a></li>
 </ul>
 </div> <!--header-->
 
@@ -39,46 +43,643 @@ dojo.addOnLoad(init);
   
 
 	<div id="menu">
-		<div id="region_set">
-		<p><label for="r">Region</label>
-		<select name="r" tabindex="2" onchange="if ((this.options[this.selectedIndex].value) > 0) window.location = '/default/r/'+this.options[this.selectedIndex].value" id="r">
-<option selected="selected" value="2">New York Metro</option>
-<option value="3">California</option>
-<option value="100">Chicago</option>
-<option value="104">Florida</option>
-</select></p>
-		</div> <!--region_set-->
+		<!-- <div id="region_set"> <p><label for="r">Region</label> </p> </div> region_set-->
+
 		<ul id="nav">
 
-<li id="link_clubs"><a href="/clubs/r/2"><b>Clubs</b></a></li><li id="link_classes"><a href="/classes/r/2"><b>Classes</b></a></li><li id="link_personal_training"><a href="/personal_training/r/2"><b>Personal Training</b></a></li><li id="link_the_spa"><a href="/the_spa/r/2"><b>The Spa</b></a></li><li id="link_the_shop"><a href="/the_shop/r/2"><b>The Shop</b></a></li><li id="link_trip_equinox"><a href="/trip_equinox/r/2"><b>Trip Equinox</b></a></li>			
+<li id="link_clubs"><a href="/clubs/r/2"><b>CLUBS</b></a></li><li id="link_classes"><a href="/classes/r/2"><b>GROUP FITNESS</b></a></li><li id="link_personal_training"><a href="/personal_training/r/2"><b>PERSONAL TRAINING</b></a></li><li id="link_the_spa"><a href="/the_spa/r/2"><b>THE SPA</b></a></li><li id="link_the_shop"><a href="/the_shop/r/2"><b>THE SHOP</b></a></li><li id="link_trip_equinox"><a href="/trip_equinox/r/2"><b>TRIP EQUINOX</b></a></li><li id="link_press_room"><a href="/press_room/r/2"><b>PRESS ROOM</b></a></li><li id="link_"><a href="/city_at_equinox/r/2"><b>CITY @ EQUINOX</b></a></li>			
 		</ul>
-		<div id="select_club">
-		
-		<p><label for="schedule">Quick Class Schedule</label>
-		<select name="schedule" tabindex="1" onchange="if ((this.options[this.selectedIndex].value) > 0) window.open('/bin/pdfschedule.cgi?clubid='+this.options[this.selectedIndex].value);" id="schedule">
-<option value="0">Select a Club</option>
-<option value="-1">-----------------------</option>
-<option value="8">Broadway @ 92nd </option>
-<option value="7">3rd Ave @ 85th </option>
-<option value="6">Amsterdam @ 76th </option>
-<option value="5">Lexington Ave @ 63rd </option>
-<option value="107">Columbus Circle</option>
-<option value="2">2nd Ave @ 54th </option>
-<option value="10">Broadway @ 50th </option>
-<option value="13">Lexington Ave @ 44th </option>
-<option value="11">Fifth Ave @ 43rd </option>
-<option value="15">Greenwich Ave </option>
-<option value="16">Murray @ W Broadway</option>
-<option value="12">Wall St @ Nassau</option>
-<option value="1">Broadway @ 19th</option>
-<option value="130">Great Neck</option>
-<option value="112">Roslyn @ Northern Blvd</option>
-<option value="105">Woodbury @ Jericho Tpke</option>
-<option value="104">Darien @  Heights Rd</option>
-<option value="125">Mamaroneck</option>
-<option value="14">Scarsdale </option>
-</select></p>
-		
+<div class="grayrule"></div>
+<div id="select_club">
+     
+      <div class="club_menu_link">
+        
+        
+        
+        
+        <script type="text/javascript" src="/js/club_menu.js"></script>
+<style>
+
+  body .dojoTooltip {
+    padding: 0px 0px 0px 0px;
+    border: 0;
+  }
+
+</style>
+
+<p class="popup_menu_link"><a href="#" id="club_link">Quick Club Finder</a></p>
+
+<span dojotype="tooltip" connectid="club_link" toggle="fade" showdelay="100">
+  <div class="club_menu" id="club_menu" style="display: none; visibility: hidden; width: 520px; height: 390px; padding-top: 10px; border: solid #b5b5b5 1px">
+  
+            <div id="club_menu_column_left" style="position:absolute; left:10px; width:280px;">
+          
+          <p class="club_menu_region_header" style="xbackground: green">NEW YORK METRO</p>
+
+          <div class="club_menu_club_list" style="position:absolute; left:0px; width:130px; border-top:1px solid #b5b5b5">
+            <ul> 
+              <li class="club_menu_subregion_header">Uptown</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 8)">Broadway @ 92nd </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 7)">3rd Ave @ 85th </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 6)">Amsterdam @ 76th </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 5)">Lexington Ave @ 63rd </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 136)">Beacon (74th Temp Space)</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 107)">Columbus Circle</a></li>
+    
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Midtown</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 2)">2nd Ave @ 54th </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 10)">Broadway @ 50th </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 13)">Lexington Ave @ 44th </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 11)">Fifth Ave @ 43rd </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 134)">Park Ave @ 33rd</a></li>
+    
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Downtown</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 15)">Greenwich Ave </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 16)">Murray @ W Broadway</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 12)">Wall St @ Nassau</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 1)">Broadway @ 19th</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 132)">SOHO</a></li>
+    
+  
+              
+            </ul>
+          </div>
+
+          <div class="club_menu_club_list" style="position:absolute; left:130px; width:150px; border-top:1px solid #b5b5b5"> 
+            <ul> 
+              <li class="club_menu_subregion_header">Brooklyn</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 133)">Brooklyn Heights</a></li>
+    
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Long Island</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 130)">Great Neck</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 112)">Roslyn @ Northern Blvd</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 105)">Woodbury @ Jericho Tpke</a></li>
+    
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Westchester</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 125)">Mamaroneck</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 14)">Scarsdale </a></li>
+    
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Connecticut</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(2, 104)">Darien @  Heights Rd</a></li>
+    
+  
+              
+            </ul>
+          </div>
+        </div> <!-- club_menu_column_left -->
+
+        <div id="club_menu_column_center" style="position:absolute; left:300px; width:100px">
+          
+          <p class="club_menu_region_header" style="padding-bottom: 6px">CALIFORNIA</p>
+
+          <div class="club_menu_club_list" style="float:left; left:0px; width:100px; padding-bottom: 16px; border-top: 1px solid #b5b5b5">
+            <ul> 
+              <li class="club_menu_subregion_header">Southern</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 135)">Century City</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 124)">Newport Beach</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 128)">Palos Verdes</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 17)">Pasadena </a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 113)">Santa Monica</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 102)">West Hollywood</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 123)">Westwood</a></li>
+    
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Northern</li>
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 131)">Palo Alto</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 120)">San Francisco</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(3, 122)">San Mateo </a></li>
+    
+  
+              
+            </ul>
+          </div>
+        </div> <!-- club_menu_column_center -->
+
+        <div id="club_menu_column_right" style="position:absolute; left:410px; width:100px">
+          
+          <p class="club_menu_region_header">CHICAGO</p>
+
+          <div class="club_menu_club_list" style="float:left; width:100px; margin-top:0px; padding-bottom: 16px; border-top:1px solid #b5b5b5;">
+            <ul> 
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(100, 108)">900 N. Michigan</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(100, 111)">Highland Park</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(100, 106)">Lincoln Park</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(100, 127)">The Loop</a></li>
+    
+  
+              
+            </ul>
+          </div>
+          
+          <p class="club_menu_region_header">FLORIDA</p>
+
+          <div class="club_menu_club_list" style="float:left; width:100px; padding-bottom: 16px; border-top:1px solid #b5b5b5">
+            <ul> 
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(104, 129)">Coral Gables</a></li>
+    
+  
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(104, 126)">South Beach</a></li>
+    
+  
+              
+            </ul>
+          </div>
+          
+          <p class="club_menu_region_header">BOSTON</p>
+
+          <div class="club_menu_club_list" style="float:left; clear:both; width:100px; padding-bottom: 16px; border-top:1px solid #b5b5b5">
+            <ul> 
+              
+                  
+    
+              <li><a href="javascript:goToClubPage(110, 137)">Boston</a></li>
+    
+  
+              
+            </ul>
+          </div>
+        </div> <!-- club_menu_column_right -->
+  
+
+
+
+
+
+
+
+  </div><!--club menu-->
+</span>
+
+
+      </div>
+      <div class="club_menu_link">
+      
+      
+      
+      
+      <script type="text/javascript" src="/js/club_menu.js"></script>
+<style>
+
+  body .dojoTooltip {
+    padding: 0px 0px 0px 0px;
+    border: 0;
+  }
+
+</style>
+
+<p class="popup_menu_link"><a href="#" id="pdf_link">Quick Class Schedule</a></p>
+
+<span dojotype="tooltip" connectid="pdf_link" toggle="fade" showdelay="100">
+  <div class="club_menu" id="pdf_club_menu" style="display: none; visibility: hidden; width: 520px; height: 390px; padding-top: 10px; border: solid #b5b5b5 1px">
+  
+            <div id="club_menu_column_left" style="position:absolute; left:10px; width:280px;">
+          
+          <p class="club_menu_region_header" style="xbackground: green">NEW YORK METRO</p>
+
+          <div class="club_menu_club_list" style="position:absolute; left:0px; width:130px; border-top:1px solid #b5b5b5">
+            <ul> 
+              <li class="club_menu_subregion_header">Uptown</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(8, 'pdf_club_menu')">Broadway @ 92nd </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(7, 'pdf_club_menu')">3rd Ave @ 85th </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(6, 'pdf_club_menu')">Amsterdam @ 76th </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(5, 'pdf_club_menu')">Lexington Ave @ 63rd </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(136, 'pdf_club_menu')">Beacon (74th Temp Space)</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(107, 'pdf_club_menu')">Columbus Circle</a></li>
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Midtown</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(2, 'pdf_club_menu')">2nd Ave @ 54th </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(10, 'pdf_club_menu')">Broadway @ 50th </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(13, 'pdf_club_menu')">Lexington Ave @ 44th </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(11, 'pdf_club_menu')">Fifth Ave @ 43rd </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(134, 'pdf_club_menu')">Park Ave @ 33rd</a></li>
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Downtown</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(15, 'pdf_club_menu')">Greenwich Ave </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(16, 'pdf_club_menu')">Murray @ W Broadway</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(12, 'pdf_club_menu')">Wall St @ Nassau</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(1, 'pdf_club_menu')">Broadway @ 19th</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(132, 'pdf_club_menu')">SOHO</a></li>
+  
+              
+            </ul>
+          </div>
+
+          <div class="club_menu_club_list" style="position:absolute; left:130px; width:150px; border-top:1px solid #b5b5b5"> 
+            <ul> 
+              <li class="club_menu_subregion_header">Brooklyn</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(133, 'pdf_club_menu')">Brooklyn Heights</a></li>
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Long Island</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(130, 'pdf_club_menu')">Great Neck</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(112, 'pdf_club_menu')">Roslyn @ Northern Blvd</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(105, 'pdf_club_menu')">Woodbury @ Jericho Tpke</a></li>
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Westchester</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(125, 'pdf_club_menu')">Mamaroneck</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(14, 'pdf_club_menu')">Scarsdale </a></li>
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Connecticut</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(104, 'pdf_club_menu')">Darien @  Heights Rd</a></li>
+  
+              
+            </ul>
+          </div>
+        </div> <!-- club_menu_column_left -->
+
+        <div id="club_menu_column_center" style="position:absolute; left:300px; width:100px">
+          
+          <p class="club_menu_region_header" style="padding-bottom: 6px">CALIFORNIA</p>
+
+          <div class="club_menu_club_list" style="float:left; left:0px; width:100px; padding-bottom: 16px; border-top: 1px solid #b5b5b5">
+            <ul> 
+              <li class="club_menu_subregion_header">Southern</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(135, 'pdf_club_menu')">Century City</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(124, 'pdf_club_menu')">Newport Beach</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(128, 'pdf_club_menu')">Palos Verdes</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(17, 'pdf_club_menu')">Pasadena </a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(113, 'pdf_club_menu')">Santa Monica</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(102, 'pdf_club_menu')">West Hollywood</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(123, 'pdf_club_menu')">Westwood</a></li>
+  
+              
+            </ul>
+            <ul> 
+              <li class="club_menu_subregion_header">Northern</li>
+              
+                  
+              <li><a href="javascript:showPdfSchedule(131, 'pdf_club_menu')">Palo Alto</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(120, 'pdf_club_menu')">San Francisco</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(122, 'pdf_club_menu')">San Mateo </a></li>
+  
+              
+            </ul>
+          </div>
+        </div> <!-- club_menu_column_center -->
+
+        <div id="club_menu_column_right" style="position:absolute; left:410px; width:100px">
+          
+          <p class="club_menu_region_header">CHICAGO</p>
+
+          <div class="club_menu_club_list" style="float:left; width:100px; margin-top:0px; padding-bottom: 16px; border-top:1px solid #b5b5b5;">
+            <ul> 
+              
+                  
+              <li><a href="javascript:showPdfSchedule(108, 'pdf_club_menu')">900 N. Michigan</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(111, 'pdf_club_menu')">Highland Park</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(106, 'pdf_club_menu')">Lincoln Park</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(127, 'pdf_club_menu')">The Loop</a></li>
+  
+              
+            </ul>
+          </div>
+          
+          <p class="club_menu_region_header">FLORIDA</p>
+
+          <div class="club_menu_club_list" style="float:left; width:100px; padding-bottom: 16px; border-top:1px solid #b5b5b5">
+            <ul> 
+              
+                  
+              <li><a href="javascript:showPdfSchedule(129, 'pdf_club_menu')">Coral Gables</a></li>
+  
+              
+                  
+              <li><a href="javascript:showPdfSchedule(126, 'pdf_club_menu')">South Beach</a></li>
+  
+              
+            </ul>
+          </div>
+          
+          <p class="club_menu_region_header">BOSTON</p>
+
+          <div class="club_menu_club_list" style="float:left; clear:both; width:100px; padding-bottom: 16px; border-top:1px solid #b5b5b5">
+            <ul> 
+              
+                  
+              <li><a href="javascript:showPdfSchedule(137, 'pdf_club_menu')">Boston</a></li>
+  
+              
+            </ul>
+          </div>
+        </div> <!-- club_menu_column_right -->
+  
+
+
+
+
+
+
+
+  </div><!--club menu-->
+</span>
+
+
+      </div>
 		</div> <!--select_club-->
 		
 	</div> <!--menu-->
@@ -149,7 +750,7 @@ dojo.addOnLoad(init);
 </div> <!--main_lower-->
 
 <div id="footer">
-<p id="bottom_nav"><a href="/">Home</a> | <a href="/default/terms_of_use.html">Terms of Use</a> | <a href="/default/member_policies.html">Member Policies</a> | <a href="/default/privacy_policy.html">Privacy Policy</a> | <a href="/default/join_our_team.html">Join our Team</a> | <a href="/default/?mode=contact_us">Contact Us</a><!--| <a href="#">In the News</a>--> | <a href="/investors">Investor Relations</a> | <a href="/news/movie/full.html" target="_blank">Brand Movie</a></p>
+<p id="bottom_nav"><a href="/">Home</a> | <a href="/default/terms_of_use.html">Terms of Use</a> | <a href="/default/member_policies.html">Member Policies</a> | <a href="/default/privacy_policy.html">Privacy Policy</a> | <a href="/default/join_our_team.html">Join our Team</a> | <a href="/default/?mode=contact_us">Contact Us</a><!--| <a href="#">In the News</a>--> | <a href="/news/movie/full.html" target="_blank">Brand Movie</a></p>
 <p>© 2006 Equinox Fitness</p>
 </div> <!--footer-->
 
