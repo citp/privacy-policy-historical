@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031040id_/http%3A//thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214053930id_/http%3A//www.thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Subscribe to our Mailing List - The PCman Website
+# Privacy Policy - The PCman Website
 
 ### Privacy Policy
 
@@ -14,7 +14,7 @@ When ordering our web design services we ask for much personal information to ef
 
 We display 3rd party advertisements on our pages from companies who may collect visitors browser, IP and remote host information. These companies each have their own privacy policies and are responsible for their own actions.
 
-Our visitors should be aware that disclosing your personal information in our guestbook or other publicly viewable page where your information is being added or written to an online web page does make your information viewable by all visitors. This does not include our web tools or our contact forms, just pages where your information is posted to a web page. Children under the age of 13 are discouraged from providing their personal information on the internet without their parents permission.
+Our visitors should be aware that when you disclose your personal information in our guestbook or other publicly viewable page where your information is being added or written to an online web page does make your information viewable by all visitors. This does not include our web tools or our contact forms, just pages where your information is posted to a web page. Children under the age of 13 are discouraged from providing their personal information on the internet without their parents permission.
 
 Thank you,
 
