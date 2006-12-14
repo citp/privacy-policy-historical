@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goarticles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210323id_/http%3A//goarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goarticles.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214044004id_/http%3A//www.goarticles.com/privacy.html) for the most accurate reproduction.*
 
 # GoArticles.com: Privacy Statement
 
