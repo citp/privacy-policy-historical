@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011731id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214203811id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
 
 # Dating Service at Love Access - Free Personals, Chat, Webcams
 
