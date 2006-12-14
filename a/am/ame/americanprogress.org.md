@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the americanprogress.org privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227003613id_/http%3A//www.americanprogress.org/site/lookup.asp%3Fcid%3D%7BE9245FE4-9A2B-43C7-A521-5D6FF2E06E03%7D%26bin_id%3D%7B16CE005F-E96E-4A78-90F0-89689D283F12%7D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanprogress.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214144058id_/http%3A//www.americanprogress.org/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Center for American Progress
-
-**Privacy Policy**
+# Privacy Policy
 
 _Last updated: February 16, 2005_
 
