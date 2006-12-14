@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426145940id_/http%3A//hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214215957id_/http%3A//hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotels Combined - Compare Hotel Prices from Top Hotel Sites
 
-|    
-Search and Compare Top Hotel Sites!   
----|---  
   
+  
+
+
 ## Our Commitment
 
 Welcome to HotelsCombined.com, the best site on the web for up-to-date information on hotels and accommodations throughout the world. We, the founders of HotelsCombined.com are Internet users, too, so we understand how serious you are about protecting your private information – we’re serious about it, too! To help you understand our privacy policies better, we’ve chosen to explain it below in plain English. That way, you can feel comfortable that we are just as dedicated to your privacy as we are to ours. 
@@ -13,10 +13,9 @@ Welcome to HotelsCombined.com, the best site on the web for up-to-date informati
 The bottom line is that any information we collect from you remains completely private unless you give us permission to give it to another website. We do not knowingly collect private information from children, and we don’t sell your information to any other websites for any reason. That’s it in a nutshell! If you have any questions about our privacy policy, please don’t hesitate to contact us by email or at 
 
 Hotels Combined  
-A Subsidiary of Argosweb Corp  
-306 Victoria House, Victoria,  
-Mahe, Seychelles  
-
+Suite 4/6 Clifford Street  
+Mosman NSW 2088  
+Australia 
 
 ## Information Collected
 
@@ -60,8 +59,3 @@ HotelsCombined.com might choose to update our privacy policy occasionally. If we
 ## Effective Date
 
 This Privacy Statement is effective as of December 1, 2005. 
-
-* * *
-
-[About Us ](https://web.archive.org/AboutUs.aspx)|  |  | [Contact Us ](https://web.archive.org/ContactUs.aspx)|  |  | [Privacy ](https://web.archive.org/Privacy.aspx)|  |  | [Travel Resources ](https://web.archive.org/TravelResources.aspx)|  |  | [Terms of Use ](https://web.archive.org/TermsOfUse.aspx)|  |  | [Advertise ](https://web.archive.org/Advertise.aspx)|  |  | [Advertise ](https://web.archive.org/Affiliates.aspx)  
----|---|---|---|---|---|---|---|---|---|---|---|---
