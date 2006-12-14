@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616001258id_/http%3A//www.aa.co.nz/Section%3FAction%3DView%26Section_id%3D122%26Story_id%3D1246) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214082831id_/https%3A//www.aa.co.nz/Section%3FAction%3DView%26Section_id%3D122%26Story_id%3D1246) for the most accurate reproduction.*
 
-# AA Online : Small Print
+# AA Online : Terms and Conditions
 
  
 
