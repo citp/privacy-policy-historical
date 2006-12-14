@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628003127id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214033906id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.*
 
 # AllHeart.com Privacy Statement
 
@@ -37,10 +37,3 @@ This site gives users the following options for removing their information from 
  **Correct/Update**
 
 This site gives users the following option for changing and modifying information previously provided.
-* email customerserviceallheart.com
-
- **Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact 
-
-Gwilym McGrew Professional Appearances, Inc. 431 Calle San Pablo Camarillo, CA 93012 customerserviceallheart.com
