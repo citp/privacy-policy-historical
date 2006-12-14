@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingsource.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620052010id_/http%3A//www.marketingsource.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingsource.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214225517id_/http%3A//www.marketingsource.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Marketing Resource Center
 
@@ -31,17 +31,14 @@ Because Web beacons work in conjunction with cookies, you can prevent our Web be
 
 | 
 
-[](https://web.archive.org/associations/)
+[](https://web.archive.org/businesslists/)
+
+  
+
+
+[](https://web.archive.org/printing/)
 
   
 
 
 [](https://web.archive.org/pressreleases/)
-
-  
-
-
-[](https://web.archive.org/mediadirectory/)
-
-  
-
