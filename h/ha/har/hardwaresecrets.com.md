@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618024944id_/http%3A//hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214234822id_/http%3A//hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hardware Secrets
 
