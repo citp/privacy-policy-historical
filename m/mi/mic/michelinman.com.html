@@ -1,0 +1,660 @@
+<!--The following is the downloaded HTML source of the michelinman.com privacy policy that was archived on 2006-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214055636id_/http%3A//www.michelinman.com/popups/privacy.html) for the most accurate reproduction.-->
+
+<html><head>
+<title>Michelin | Privacy Policy</title>
+<script language="JavaScript">
+
+//v1.x - ns4 removed
+
+ns6 = false;
+ns4 = (document.layers)? true:false;
+ie4 = (document.all)? true:false;
+opera = (window.opera)? true:false;
+mac = ((navigator.appVersion.indexOf('Mac') != -1) || (navigator.appVersion.indexOf('PowerPC') != -1))? true:false;
+macie50 = (mac && ((navigator.userAgent.indexOf('MSIE 5.0') != -1) || (navigator.userAgent.indexOf('MSIE 5.1') != -1)))? true:false;
+safari = (navigator.userAgent.indexOf('Safari') != -1)? true:false;
+
+if (ns4 == ie4 && opera == false) {
+	ns6 = true;
+	ie4 = ns4 = false;
+}
+
+function layer_init(name) {
+	if (ie4) return eval(name+'.style');
+	if (ns6) return eval('document.getElementById("'+name+'").style');
+}
+
+function show_object(obj) {
+	if (ie4 || ns6) obj.visibility = "visible";
+}
+
+function hide_object(obj) {
+	if (ie4 || ns6) obj.visibility = "hidden";
+}
+
+function move_to(obj,x,y) {
+	obj.xpos = x;
+	obj.left = obj.xpos;
+	obj.ypos = y;
+	obj.top = obj.ypos;
+}
+
+function move_by(obj,x,y) {
+	obj.xpos += x;
+	obj.left = obj.xpos;
+	obj.ypos +=y;
+	obj.top = obj.ypos;
+}
+
+function object_clip(obj,xmin,ymin,xmax,ymax) {
+	cstring = 'rect(' + ymin + 'px ' + xmax + 'px ' + ymax + 'px ' + xmin + 'px)';
+	obj.clip = cstring;
+}
+
+function write_to_layer(lay,txt) {
+	if (ie4 && mac) {
+		x = document.getElementById(lay);
+		x.innerHTML = '';
+		x.innerHTML = txt;
+	}
+	if (ie4 && !mac) {
+		document.all[lay].innerHTML = txt;
+	}
+	if (ns6) {
+		over = document.getElementById([lay]);
+		range = document.createRange();
+		range.setStartBefore(over);
+		domfrag = range.createContextualFragment(txt);
+		while (over.hasChildNodes()) {
+			over.removeChild(over.lastChild);
+		}
+		over.appendChild(domfrag);
+	}
+}
+
+function layer_height(lay) {
+	if(ie4 && !opera) return eval(lay+'.clientHeight');
+	if(ns6) return eval('document.getElementById("'+lay+'").offsetHeight');
+	if(opera) return eval(lay+'.style.pixelHeight');
+}
+
+function layer_width(lay) {
+	if(ie4 && !opera) return eval(lay+'.clientWidth');
+	if(ns6) return eval('document.getElementById("'+lay+'").offsetWidth');
+	if(opera) return eval(lay+'.style.pixelWidth');
+}
+
+function restore() {
+	check_win_size();
+	place_objects();
+}
+
+function opera_onresize() {
+	op_ow = win_width;
+	op_oh = win_height;
+	check_win_size();
+	if (op_ow != win_width  ||  op_oh != win_height) {
+		restore();
+	}
+	timer_opera_onresize = setTimeout('opera_onresize()',1000);
+}
+
+var win_width = 0;
+var win_height = 0;
+function check_win_size() {
+	if (parseInt(navigator.appVersion)>3) {
+		if (ie4 && !opera) {
+			win_width = document.body.offsetWidth;
+			win_height = document.body.offsetHeight;
+		} else {
+			win_width = window.innerWidth;
+			win_height = window.innerHeight;
+		}
+	}
+	if (mac){
+		win_width = win_width + 20;
+	}
+}
+
+</script><script language="JavaScript">
+
+// #### start page-specific global variables
+
+//popup code templates
+var wscr = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,';
+var wnoscr = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,';
+
+// #### end page-specific variables
+
+function init_page() {
+	this.focus();
+}
+
+</script><script language="JavaScript">
+function open_registration() {
+	pafull = this.location.href;
+
+	pa = pafull.substring(pafull.lastIndexOf('/')+1,pafull.length);
+
+	if (pa.indexOf('site.') != 0) {
+		pa = pa.substring(0,pa.lastIndexOf('.'));
+	} else {
+		if (pa.indexOf('?') != -1) {
+			pa = pa.substring(0,pa.indexOf('?'));
+		}
+	}
+
+	if (pa.indexOf('index') != -1) {
+		pa2 = pafull.substring(pafull.indexOf('com/')+4,pafull.lastIndexOf('/'));
+		pa = pa2 + pa;
+	}
+
+	if (pa == '') {
+		pa = 'index';
+	}
+	
+	re = new RegExp ('/', 'gi') ;
+	pa = pa.replace(re,'');
+
+	this.location.href = '/mastapp/servlet/Controller/site.misc.LoadEmailSignUpForm?signup=yes&source='+pa;
+}
+
+function open_terms() {
+	var newwin=window.open('/popups/terms.html','terms',wscr+'width=670,height=550');
+}
+
+function open_privacy() {
+	var newwin=window.open('/popups/privacy.html','privacy',wscr+'width=670,height=550');
+}
+
+function open_contact() {
+	var newwin=window.open('/mastapp/servlet/Controller/site.misc.LoadContactUs','contact',wnoscr+'width=650,height=590');
+}
+
+function open_tirepop(imgurl,poptitle) {
+	var newwin=window.open('/catalog/tire_pop.html?imgurl='+imgurl+'&poptitle='+escape(poptitle),'tirepicture',wnoscr+'width=325,height=450');
+}
+</script><script language="JavaScript">
+
+
+
+nst = new Array();
+
+var sc = 0;
+
+
+
+c = ' color:#';
+
+tc = c+'000099';
+
+lc = c+'000099';
+
+white = c+'ffffff';
+
+yellow = c+'fff500';
+
+red = c+'dd0000';
+
+lightblue = c+'88d1fe';
+
+medblue = c+'6178cf';
+
+darkblue = c+'000484';
+
+grey = c+'535353';
+
+lightgrey = c+'7e7e7e';
+
+verylightgrey = c+'cccccc';
+
+lightaqua = c+'526dc5';
+
+lightyellow = c+'ffff44';
+
+
+
+sn = '{font-family:Arial,Geneva,sans-serif; font-size:';
+
+bl = 'font-weight:bold;';
+
+dn = 'text-decoration:none;';
+
+
+
+//re-styled tags
+
+a_s('body '+sn+'11px;'+tc+'; background-color:505D79;}');
+
+a_s('td '+sn+'11px;'+tc+';}');
+
+a_s('p '+sn+'11px;'+tc+';}');
+
+a_s('b '+sn+'11px;'+tc+'; '+bl+'}');
+
+
+
+//re-styled link colors
+
+a_s('A:link '+sn+'11px;'+lc+';}');
+
+a_s('A:visited '+sn+'11px;'+lc+';}');
+
+a_s('A:hover '+sn+'11px;'+lc+';}');
+
+a_s('A:active '+sn+'11px;'+lc+';}');
+
+
+
+//general purpose styles
+
+a_s('#normaltext '+sn+'11px;'+tc+';}');
+
+a_s('#boldtext '+sn+'11px;'+tc+'; '+bl+' '+dn+'}');
+
+a_s('#bigboldtext '+sn+'16px;'+tc+'; '+bl+'}');
+
+a_s('#medboldtext '+sn+'12px;'+tc+'; '+bl+'}');
+
+a_s('#smalltext '+sn+'10px;'+tc+';}');
+
+a_s('#compressed '+sn+'11px;'+tc+'; line-height:11px;}');
+
+a_s('#compressedbold '+sn+'11px;'+tc+'; '+bl+'; line-height:11px;}');
+
+
+
+a_s('#yellowtext '+sn+'11px;'+yellow+';}');
+
+a_s('#redtext '+sn+'11px;'+red+';}');
+
+a_s('#darkbluetext '+sn+'11px;'+darkblue+';}');
+
+a_s('#whitetext '+sn+'11px;'+white+';}');
+
+a_s('#greytext '+sn+'11px;'+grey+';}');
+
+a_s('#greytext p '+sn+'11px;'+grey+';}');
+
+a_s('#lightgreytext '+sn+'11px;'+lightgrey+';}');
+
+
+
+a_s('#lightbluebold '+sn+'11px;'+lightblue+'; '+bl+' '+dn+'}');
+
+a_s('#medbluebold '+sn+'11px;'+medblue+'; '+bl+' '+dn+'}');
+
+a_s('#whitebold '+sn+'11px;'+white+'; '+bl+' '+dn+'}');
+
+a_s('#yellowbold '+sn+'11px;'+yellow+'; '+bl+' '+dn+'}');
+
+
+
+a_s('#convertsmall '+sn+'10px;}');
+
+a_s('#convertcompressed {line-height:11px;}');
+
+
+
+//special styles
+
+a_s('#bluebreadcrumb '+sn+'10px;'+tc+';}');
+
+a_s('#whitebreadcrumb '+sn+'10px;'+white+';}');
+
+a_s('#glossarytext '+sn+'11px;'+tc+'; '+dn+'}');
+
+a_s('#tabtext '+sn+'11px;'+tc+'; line-height:1.5em;}');
+
+a_s('#advisorgrey '+sn+'10px;'+grey+';}');
+
+a_s('#utqgtext '+sn+'12px;'+lightaqua+'; '+bl+' '+dn+'}');
+
+a_s('#headerfooterinactive '+sn+'10px;'+verylightgrey+'; '+dn+';}');
+
+a_s('#headerfooter '+sn+'10px;'+verylightgrey+'; '+dn+';}');
+
+a_s('#headerfooter:hover '+sn+'10px;'+white+'; '+dn+';}');
+
+a_s('#footeryellow '+sn+'10px;'+yellow+'; '+dn+';}');
+
+a_s('#footeryellow:hover '+sn+'10px;'+white+'; '+dn+';}');
+
+a_s('#whiteback {background-color:ffffff;}');
+
+
+
+
+
+hw = ' height:18px; width:';
+
+//form elements
+
+a_s('#tirepulldown '+sn+'10px;'+hw+'195px;}');
+
+a_s('#searchfield '+sn+'10px; height:15px; width:75px;}');
+
+a_s('#xwideform '+sn+'10px;'+hw+'350px;}');
+
+a_s('#wideform '+sn+'10px;'+hw+'185px;}');
+
+a_s('#widetextarea '+sn+'10px; width:185px;}');
+
+a_s('#fullform '+sn+'10px;'+hw+'120px;}');
+
+a_s('#halfform '+sn+'10px;'+hw+'70px;}');
+
+a_s('#miniform '+sn+'10px;'+hw+'50px;}');
+
+
+
+function a_s(v5) {
+
+	nst[sc++] = v5;
+
+}
+
+
+
+document.write('<style>');
+
+for (a=0;a<sc;a++) {
+
+	document.write(nst[a]);
+
+	document.write('\n');
+
+}
+
+document.write('<\/style>');
+
+</script><style>body {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; background-color:505D79;}
+td {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+p {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+b {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; font-weight:bold;}
+A:link {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+A:visited {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+A:hover {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+A:active {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+#normaltext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099;}
+#boldtext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; font-weight:bold; text-decoration:none;}
+#bigboldtext {font-family:Arial,Geneva,sans-serif; font-size:16px; color:#000099; font-weight:bold;}
+#medboldtext {font-family:Arial,Geneva,sans-serif; font-size:12px; color:#000099; font-weight:bold;}
+#smalltext {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#000099;}
+#compressed {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; line-height:11px;}
+#compressedbold {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; font-weight:bold;; line-height:11px;}
+#yellowtext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#fff500;}
+#redtext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#dd0000;}
+#darkbluetext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000484;}
+#whitetext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#ffffff;}
+#greytext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#535353;}
+#greytext p {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#535353;}
+#lightgreytext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#7e7e7e;}
+#lightbluebold {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#88d1fe; font-weight:bold; text-decoration:none;}
+#medbluebold {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#6178cf; font-weight:bold; text-decoration:none;}
+#whitebold {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#ffffff; font-weight:bold; text-decoration:none;}
+#yellowbold {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#fff500; font-weight:bold; text-decoration:none;}
+#convertsmall {font-family:Arial,Geneva,sans-serif; font-size:10px;}
+#convertcompressed {line-height:11px;}
+#bluebreadcrumb {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#000099;}
+#whitebreadcrumb {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#ffffff;}
+#glossarytext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; text-decoration:none;}
+#tabtext {font-family:Arial,Geneva,sans-serif; font-size:11px; color:#000099; line-height:1.5em;}
+#advisorgrey {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#535353;}
+#utqgtext {font-family:Arial,Geneva,sans-serif; font-size:12px; color:#526dc5; font-weight:bold; text-decoration:none;}
+#headerfooterinactive {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#cccccc; text-decoration:none;;}
+#headerfooter {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#cccccc; text-decoration:none;;}
+#headerfooter:hover {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#ffffff; text-decoration:none;;}
+#footeryellow {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#fff500; text-decoration:none;;}
+#footeryellow:hover {font-family:Arial,Geneva,sans-serif; font-size:10px; color:#ffffff; text-decoration:none;;}
+#whiteback {background-color:ffffff;}
+#tirepulldown {font-family:Arial,Geneva,sans-serif; font-size:10px; height:18px; width:195px;}
+#searchfield {font-family:Arial,Geneva,sans-serif; font-size:10px; height:15px; width:75px;}
+#xwideform {font-family:Arial,Geneva,sans-serif; font-size:10px; height:18px; width:350px;}
+#wideform {font-family:Arial,Geneva,sans-serif; font-size:10px; height:18px; width:185px;}
+#widetextarea {font-family:Arial,Geneva,sans-serif; font-size:10px; width:185px;}
+#fullform {font-family:Arial,Geneva,sans-serif; font-size:10px; height:18px; width:120px;}
+#halfform {font-family:Arial,Geneva,sans-serif; font-size:10px; height:18px; width:70px;}
+#miniform {font-family:Arial,Geneva,sans-serif; font-size:10px; height:18px; width:50px;}
+</style></head>
+
+<!-- ########### dhtml library and resize code ############# -->
+
+
+
+
+
+<!-- ########### site popup functions ############# -->
+
+
+
+<!-- ########### style sheet engine ############# -->
+
+
+
+
+<!--[if gte IE 5.5000]>
+
+<script language="JavaScript">
+
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 or higher.
+
+   {
+
+   for(var i=0; i<document.images.length; i++)
+
+      {
+
+	  var img = document.images[i]
+
+	  var imgName = img.src.toUpperCase()
+
+	  if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+
+	     {
+
+		 var imgID = (img.id) ? "id='" + img.id + "' " : ""
+
+		 var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+
+		 var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+
+		 var imgStyle = "display:inline-block;" + img.style.cssText 
+
+		 if (img.align == "left") imgStyle = "float:left;" + imgStyle
+
+		 if (img.align == "right") imgStyle = "float:right;" + imgStyle
+
+		 if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle		
+
+		 var strNewHTML = "<span " + imgID + imgClass + imgTitle
+
+		 + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+
+	     + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+
+		 + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+
+		 img.outerHTML = strNewHTML
+
+		 i = i-1
+
+	     }
+
+      }
+
+   }
+
+window.attachEvent("onload", correctPNG);
+
+</script>
+
+<![endif]-->
+
+
+
+
+<body id="whiteback" bgcolor="#ffffff" text="#000000" link="#000000" vlink="#000000" alink="#000000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="init_page()">
+<a name="top"></a>
+<div id="closerDiv" style="position:absolute; left:585px; top:25px; z-index:99; visibility:visible;">
+	<a href="javascript:this.close();"><img src="/images/spacer.gif" width="50" height="20" border="0" alt="Close"></a>
+</div>
+
+<div id="headerDiv" style="position:absolute; left:25px; top:85px; z-index:99; visibility:visible;">
+	<img src="/images/global/privacy_header.gif" width="625" height="16" border="0" alt="Privacy Policy">
+</div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody><tr>
+<td colspan="5"><img src="/images/popups/header_650.gif" width="650" height="68" border="0" alt="Michelin"></td>
+</tr>
+<tr>
+<td bgcolor="#000099" width="1"><img src="/images/spacer.gif" width="1" height="55" border="0" alt=""></td>
+<td width="35"><img src="/images/spacer.gif" width="35" height="1" border="0" alt=""></td>
+<td width="589"><img src="/images/spacer.gif" width="589" height="1" border="0" alt=""></td>
+<td width="24"><img src="/images/spacer.gif" width="24" height="1" border="0" alt=""></td>
+<td bgcolor="#000099" width="1"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+<td></td>
+<td>
+
+
+<b>Our Commitment to Privacy</b>
+<br><br>
+		Michelin is committed to protecting your privacy. This Policy applies to all information
+		submitted by you on this website and it explains the type of information we may collect and how we may use it.
+		Please keep in mind that this Privacy Policy only applies to this MNA, Inc. website for the United States and
+		does not address information that we might obtain from places other than this website. Since other websites
+		(including those we link to) have their own practices, we encourage you to ask questions and provide information
+		only to those sites whose practices you understand and trust. Also, we may revise our Policy from time to time,
+		so please check this page periodically.
+<br><br>
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#info">Information Collection and Use</a><br>
+
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#update">Update or Correct</a><br>
+
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#child">Children's Privacy Protection</a><br>
+
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#secure">Security Precautions</a><br>
+
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#trade">Trademark and Copyright Notice</a><br>
+
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#consent">Your Consent to this Privacy Policy</a><br>
+
+<img src="/images/global/bullet_blue_centered.gif" width="7" height="9" border="0" alt=""><a href="#amend">Amendments</a><br>&nbsp;
+
+<!--end privacy-->
+</td>
+<td></td>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+<td colspan="3" align="right"><img src="/images/global/privacy_pic.jpg" width="613" height="86" border="0" alt=""></td>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+<td></td>
+<td>
+<br>
+
+<a name="info"><b>Information Collection and Use</b></a><br><br>
+
+<b>What information do we collect?</b><br>
+		We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address. Our servers typically log your IP address when you request a page from this website. You remain anonymous to us since we do not link your IP address to anything personally identifiable. However, we do collect personally identifiable information about you when you voluntarily submit it to us, such as by: filling out a form or survey; participating in a promotion, contest or sweepstakes; registering your e-mail address with us; signing up for an e-mail newsletter; or, e-mailing us.
+<br><br>
+
+<b>How do we use this information?</b><br>
+		Your personally identifiable information may be shared with and stored on a database controlled by third parties that have been hired by us to provide limited services on our behalf. Agents or contractors of Michelin who have access to your personally identifiable information are required to use their best efforts to keep the information confidential and are prohibited from using this information for any purpose not previously disclosed to you.
+		<br><br>
+
+		We use personally identifiable and non-personally identifiable information for site administration and for the purpose of performing the services for which such data was collected.
+		<br><br>
+
+		We do not sell or rent your personally identifiable information to third parties, unless disclosure is required by law or to protect our interests.
+		<br><br>
+
+		Even though our information practices may change from time to time, we will not use your information in a manner not previously disclosed to you in our Privacy Policy. We will always provide you with notice by posting any privacy policy changes on this website, and you will have an opportunity to reject such changes.
+<br><br>
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+<a name="update"><b>Update or Correct</b></a>
+<br><br>
+		If you provide us with personally identifiable information to have us perform ongoing services to you, we will do our best to provide you with a way to review the information we have on file and either update or correct.
+<br><br>
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+<a name="child"><b>Children's Privacy Protection</b></a>
+<br><br>
+		We do not wish to obtain personally identifiable information from children who are using our site unsupervised. Thus, we ask children to obtain the consent of their parent or guardian before providing us with any personally identifiable information.
+<br><br>
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+<a name="secure"><b>Security Precautions</b></a>
+<br><br>
+		Your privacy is very important to us. We use leading security technology and security procedures to help maintain the privacy of your personal information. Among other techniques, we usually store such information on a computer behind our "firewall" in a secure location, and we often restrict the number of employees internally who can access this data. Of course, there is no such thing as "perfect security" on the Internet and we cannot guarantee the security of any information you disclose online. Further, please note that our servers are run by a third party web host whose actions we do not control.
+<br><br>
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+<a name="trade"><b>Trademark and Copyright Notice</b></a>
+<br><br>
+		Please consult our <a href="javascript:open_terms();">Terms of Use</a> for further information.
+<br><br>
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+<a name="consent"><b>Your Consent to This Privacy Policy</b></a>
+<br><br>
+		By using this website, you signify your assent to this Privacy Policy. If you do not agree with any term in this Policy, please do not use this site or submit any personally identifiable information.
+<br><br>
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+<a name="amend"><b>Amendments</b></a>
+<br><br>
+		This Policy became effective on May 21, 2004. Any amendments will be posted at this URL and will be effective when posted.
+<a href="#top"><img src="/images/global/but_top.gif" width="34" height="13" border="0" alt="Top"></a>
+<br><br>
+
+
+</td>
+<td></td>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+<td></td>
+<td align="right">
+	<br>
+	<a href="javascript:this.print();"><img src="/images/global/but_printpage.gif" width="86" height="13" border="0" alt="Print This Page"></a>
+</td>
+<td></td>
+<td bgcolor="#000099"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td colspan="5"><a href="#top"><img src="/images/popups/footer_650.gif" width="650" height="45" border="0" alt="(c) 2006 MNA, Inc. - Privacy Policy"></a></td>
+</tr>
+
+</tbody></table>
+
+
+</body></html>
