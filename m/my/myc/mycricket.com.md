@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycricket.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620010631id_/http%3A//mycricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycricket.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214182610id_/http%3A//www.mycricket.com/privacy) for the most accurate reproduction.*
 
-# MyCricket.com
+# My Cricket - Privacy Policy
 
 Privacy Policy
 
@@ -23,7 +23,7 @@ We need to use your personal information to provide you with certain features of
 
 INFORMATION COLLECTED VIA MYCRICKET WEBSITE
 
-No personally-identifiable information (such as your name, address, telephone number and e-mail address) is collected from you via our website, unless you provide it to us voluntarily. You may be required to provide personally-identifiable information to us when you register with the website, order products or services, request information about new or current Cricket products or services, apply for Cricket® Rewards and the like. In general, we automatically gather certain usage information such as the number and frequency of visitors to our websites. We accomplish the gathering of data through the use of a technology nicknamed "cookies." Our cookies do not currently collect personally-identifiable information, and we do not currently combine information collected through cookies with other personal information.
+No personally-identifiable information (such as your name, address, telephone number and e-mail address) is collected from you via our website, unless you provide it to us voluntarily. You may be required to provide personally-identifiable information to us when you register with the website, order products or services, request information about new or current Cricket products or services, apply for Cricket® Rewards and the like. In general, we automatically gather certain usage information such as the number and frequency of visitors to our websites. We accomplish the gathering of data through the use of a technology nicknamed "cookies." We also use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [http://www.doubleclick.net/us/corporate/privacy.](http://www.doubleclick.net/us/corporate/privacy)
 
 CONFIDENTIALITY AND SECURITY
 
