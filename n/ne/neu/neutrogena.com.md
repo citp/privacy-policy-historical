@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619133409id_/http%3A//www.neutrogena.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214210059id_/http%3A//neutrogena.com/Privacy.asp) for the most accurate reproduction.*
 
 # Neutrogena: privacy notice
 
@@ -66,7 +66,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 ### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20060619133409id_/http%3A//www.neutrogena.com/Legal.asp). 
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20061214210059id_/http%3A//neutrogena.com/Legal.asp). 
 
 ### How to Contact Us
 
@@ -74,14 +74,14 @@ If you have any questions, comments, or concerns about this Privacy Policy or th
 
 > **Neutrogena Corporation  
 >  Attention: Consumer Affairs   
->  5760 West 96th Street  
->  Los Angeles, CA 90045  
+>  199 Grandview Rd.  
+>  Skillman, NJ 08558  
 >  310-642-1150   
 >  [ntgweb@neuus.jnj.com](mailto:ntgweb@neuus.jnj.com)**
 
 ### Safe Harbor Privacy Policy 
 
-Neutrogena Corporation has certified to the [Safe Harbor Agreement](https://web.archive.org/web/20060619133409id_/http%3A//www.neutrogena.com/safeharbor.asp) with respect to personal data for clinical operations from countries in the European Union. 
+Neutrogena Corporation has certified to the [Safe Harbor Agreement](https://web.archive.org/web/20061214210059id_/http%3A//neutrogena.com/safeharbor.asp) with respect to personal data for clinical operations from countries in the European Union. 
 
 ### Changes to This Privacy Policy
 
