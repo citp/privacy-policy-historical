@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615123846id_/http%3A//travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214183117id_/http%3A//www.travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
