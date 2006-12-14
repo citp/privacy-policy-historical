@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415025116id_/http%3A//www.tripconnect.com/tripconnect/info.privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214060050id_/http%3A//www.tripconnect.com/tripconnect/info_privacypolicy.do) for the most accurate reproduction.*
 
-# TripConnect - Travel Advice on Destinations and Reviews of Hotels
-
-  
-| 
+# TripConnect - Travel advice on destinations and reviews of hotels
 
 [ ](http://www.truste.org/ivalidate.php?url=www.tripconnect.com&sealid=101)
 
@@ -41,15 +38,15 @@ Please read the information below to learn how we may make some of your profile 
 
 When you register on our site, you must enter a user name as well as your first and last names, email address, your zip code (US and Canadian residents) or the country in which you live. 
 
-Your username, as well as city and state or country in which you live will be displayed in reviews written by you along with the content of those reviews and the ratings you provide therein. You should be aware that any personally identifiable information you submit in the text of a review, in messages, while editing your "My Profile" page or anywhere else on the site, can be read, collected, or used by other users of the site and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your reviews or elsewhere on the site. 
+Your username, as well as city and state or country in which you live will be displayed in reviews written by you along with the content of those reviews, the ratings you provide therein, and on your user profile page. You should be aware that any personally identifiable information you submit in the text of a review, in messages, while editing your "My Profile" page or anywhere else on the site, can be read, collected, or used by other users of the site and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your reviews or elsewhere on the site. 
 
-Once you have registered, you may also choose to link to other registered users of the site by inviting them to link to you via forms provided on the site. Your first and last names will be displayed, in reviews, elsewhere on the site and in messages, to a) other users that you link directly to you (one degree of separation), b) users that are linked to a user you are linked to (two degrees of separation), c) users that belong to groups you choose to join. You may change how your name is displayed by visiting the [My Account](https://web.archive.org/web/20060415025116id_/http%3A//www.tripconnect.com/tripconnect/myaccount.do) page. Also, your reviews, your "My Profile" page and message threads in which you participate may indicate to other users how you are linked to them. 
+Once you have registered, you may also choose to link to other registered users of the site by inviting them to link to you via forms provided on the site. Your first and last names will be displayed, in reviews, elsewhere on the site and in messages, to a) other users that you link directly to you (one degree of separation), b) users that are linked to a user you are linked to (two degrees of separation), c) users that belong to groups you choose to join. You may change how your name is displayed by visiting the [My Account](http://www.tripconnect.com/tripconnect/myaccount.do) page. Also, your reviews, your "My Profile" page and message threads in which you participate may indicate to other users how you are linked to them. 
 
-You will be given the chance to designate certain of your reviews as accessible only to people you link to and you will also be given the chance to restrict whether users can send you comments and questions about individual reviews. You may change some of these designations in the My Account section of our site or by editing your reviews. Your user name, as well as the city and state or country in which you live, along with your reviews and places indicated by you as places you have visited, and also users you have linked to and groups you have joined, will also appear on your "My Profile" section of the Site accessible to other users of the site. 
+You will be given the chance to designate certain of your reviews as accessible only to people you link to and you will also be given the chance to restrict whether users can send you comments and questions about individual reviews. You may change some of these designations in the My Account section of our site or by editing your reviews. Your user name, as well as the city and state or country in which you live, along with your reviews and places indicated by you as places you have visited or want to visit, and also users you have linked to and groups you have joined, will also appear on your "My Profile" section of the Site accessible to other users of the site. 
 
 ### Personal Communications Between Members
 
-When you invite someone to link to you, whether that person is a member or not, you are sending a personal email from you to that person. The email address you use to register on the site will be shown to the recipient of your email, and the recipient will be able to reply to you using your email address. Similarly, if you send an email reply to the sender of an invitation rather than take an action suggested in the invitation (Sign in, register or accept the invitation), you will be sending a personal email from you to that person. Your email address will be shown to the person you send the reply to. 
+When you invite someone to link to you, or to join a group that you have joined or formed, whether that person is a member of the site or not, you are sending a personal email from you to that person. The email address you use to register on the site will be shown to the recipient of your email, and the recipient will be able to reply to you using your email address. Similarly, if you send an email reply to the sender of an invitation rather than take an action suggested in the invitation (Sign in, register or accept the invitation), you will be sending a personal email from you to that person. Your email address will be shown to the person you send the reply to. 
 
 When you send a message to a user of the site, you are sending a personal email from you to that person. The email address you use to register on the site will be shown to the recipient of your email, and the recipient will be able to reply to you using your email address. Similarly, if you send an email reply to the sender of a message rather than reply using the web site interface on TripConnect, you will be sending a personal email from you to that person. 
 
@@ -73,6 +70,6 @@ TripConnect is a licensee of the TRUSTe Privacy Program. TRUSTe is an independen
 
 If you have questions or concerns regarding this statement, you should first contact TripConnect at [contact@tripconnect.com](mailto:contact@tripconnect.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-Last Updated: April 10th, 2006 
+Last Updated: October 16th, 2006 
 
-| 
+The best advice comes from people you know and trust. Create a network of friends, see where they've been and get their advice on great destinations. 
