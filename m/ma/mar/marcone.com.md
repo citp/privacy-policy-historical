@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615123229id_/http%3A//marcone.com/terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcone.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214034351id_/http%3A//marcone.com/terms.aspx) for the most accurate reproduction.*
 
 # Terms and Conditions of Use, Privacy Policy
 
