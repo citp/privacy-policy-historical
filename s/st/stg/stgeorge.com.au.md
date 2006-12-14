@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041207id_/http%3A//stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214100756id_/http%3A//stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
 # St.George Bank - Privacy & Security
 
@@ -203,6 +203,3 @@ Locked Bag 1 Kogarah NSW 1485
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner or the Australian Banking Industry Ombudsman. We will provide you with their contact details if required.
 
 * * *
-
-  
-
