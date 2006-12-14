@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile17.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227202641id_/http%3A//www.smashsworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile17.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214071019id_/http%3A//www.smashsworld.com/privacy.php) for the most accurate reproduction.*
 
 # smash's world / 'smash EMPIRE, Inc.' -- privacy policy -- smash's world
 
@@ -6,7 +6,7 @@
 \- [Sub-Content Menu](http://www.smashsworld.com/sub/) -
     
     
-     _ **Personal Statement:**_  
+    _**Personal Statement:**_  
     
     As far as we're concerned, your personal information belongs to nobody
     but you and we will never disclose it to anyone unless required by law.
@@ -19,17 +19,12 @@
     'smash EMPIRE' is committed to ensuring the privacy and accuracy of your
     confidential information. We do not actively share personal information
     gathered from our Web servers. However, some information collected from
-    various 'smash EMPIRE' sites, including the summary server log information.
+    various 'smash EMPIRE' sites, is included in the summary server log information.
     This means that while we do not actively share information, in some cases
     we may be compelled by law to release information gathered from our Web
     servers. 
     
     _**Cookies:**_  
-    
-    The 'smash EMPIRE' servers use cookies in the centralized authentication system
-    for the SWDF, or "smash's world discussion forum". These cookies
-    are used so you will not have to repeatedly enter user names and passwords
-    when you go to different parts of the Web site.  
     
     Cookies are small pieces of data stored by the Web browser. Cookies are
     often used to remember information about preferences and pages you have
