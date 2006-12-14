@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the safeco.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615045022id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the safeco.com privacy policy that was archived on 2006-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214193313id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 
@@ -166,7 +166,13 @@ a  {
   	font-size : 9px;
   }
 
-
+  
+   .caption  {
+  	font-family : Arial, Helvetica, sans-serif;
+  	font-size : 11px;
+	font-style:normal;
+  }
+  
   .dropdown  {
   	font-family : Verdana, Tahoma, sans-serif;
   	font-size : 9px;
@@ -354,6 +360,36 @@ a.activetablink:hover{color:white;text-decoration:none;font-size:11px;font-weigh
 	vertical-align: top;
 	font-size : 12px;
 	}
+	
+.grayButton
+{	height: 20px;
+	width: 59px;
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	cursor:pointer;
+	line-height:12px;
+	font-size:12px; 
+	background-color: #dadada;
+	border-bottom:2 solid #808080;
+	border-right:2 solid #B3B3B3;
+	border-left:2 solid #B3B3B3;
+	border-top:2 solid #DADADA;
+}
+
+.grayButtonDisabled	
+{	height: 20px;
+	width: 59px;
+	border: 3px double #000000;
+	background-color: #dadada;
+	color: #666666;
+	font-size: 8pt;
+	font-weight: bold;
+	font-family: Arial,Sans-Serif;
+	cursor:default;
+	line-height:12px;
+}
+
 -->
 </style>
   
@@ -383,12 +419,52 @@ using our ASP variables. These are the CSS files located in the style folder.
 
 <!-- Top Bar Table -->
 
+<script language="JavaScript">
+//var theCheck= new RegExp();
+ // theCheck = /^[a-zA-Z0-9\s\'\"]+$/;
+  
+  function checkSearch()
+  {    
+   var e = trim(document.all.searchform.SearchString.value);
+   if ((e =="") || (e=="Search"))
+   {
+    alert("You must enter your word or phrase in the search box before you can search. Please try again.");
+    return false;
+   }
+   else
+   {
+    if (e.length < 2)
+    {
+     alert("You must enter at least two characters in the search box before you can search. Please try again.");
+     return false;
+    }
+    /*else
+    {
+   
+     if (theCheck.test(e)==false)
+     {
+      alert("The search box only accepts letters and numbers. Please try again.");
+      return false;
+     }
+     else{return true;} 
+    }*/
+   }
+  }
+  
+  function trim(e)
+  {
+   a = e.replace(/^\s+/, '');
+   return a.replace(/\s+$/, '');
+  }
+  
+</script>
+ 
 
 <table id="logo_table" align="center" valign="bottom" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td id="logo_td"><a href="/safeco/default.asp"><img src="/safeco/images/logo_small_new.gif" alt="Safeco Insurance" title="Safeco Insurance" width="109" height="24" border="0"></a></td>
 		<td id="search_td">
-			<form id="searchform" onsubmit="return checkSearch();" action="/safeco/search/safeco_query.idq" method="get" style="margin:0px;padding:0px;">
+			<form id="searchform" onsubmit="return checkSearch();" action="/safeco/search/search.asp" method="post" style="margin:0px;padding:0px;">
 			<a class="graylink" href="/safeco/default.asp">Home</a>&nbsp;&nbsp;
 			<a class="graylink" href="/safeco/contact/default.asp">Contact</a>&nbsp;&nbsp;
 			<a class="graylink" href="/safeco/site_help/sitemap.asp">Site Map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -463,7 +539,7 @@ using our ASP variables. These are the CSS files located in the style folder.
 		
               <h3>Consumer Privacy Policy</h3>
 
-<p class="body">Effective Date: 01/19/2006</p>
+<p class="body">Effective Date: 07/06/2006</p>
 						<p class="body">Safeco appreciates the trust you place in us when you purchase insurance from 
 						one of our companies. We are committed to protecting your nonpublic personal information 
 						("personal information") and we value you as a customer. </p>
@@ -509,11 +585,11 @@ using our ASP variables. These are the CSS files located in the style folder.
                         <div align="right"><a href="#top" class="top">Top of Page</a></div>   
 
 						<h4>Independent Safeco Representatives</h4>
-						<p class="body">The independent insurance agents authorized to sell Safeco products and 
+						<p class="body">The independent insurance agents and brokers authorized to sell Safeco products and 
 						services are not Safeco employees and are not subject to Safeco`s Privacy Policy. Because
 						they have a unique business relationship with you, they may have additional personal
 						information about you that Safeco does not have. They may use this information differently 
-						than Safeco. Contact your Safeco agent to learn more about their privacy practices.</p>
+						than Safeco. Contact your Safeco agent or broker to learn more about their privacy practices.</p>
 							
 							
 						<h4>Information about Safeco web sites</h4>
@@ -532,7 +608,7 @@ using our ASP variables. These are the CSS files located in the style folder.
 													
 							<p class="body">When you make changes to your account or request more information about our 
 								products, we may forward information that you supply to us to your independent Safeco insurance
-								agent. We do this so they can service your account or contact you with additional information
+								agent or broker. We do this so they can service your account or contact you with additional information
 							  	about our products.
 							</p>
 							
@@ -655,8 +731,10 @@ using our ASP variables. These are the CSS files located in the style folder.
 <td class="footer"> <a href="/safeco/about_safeco/default.asp" class="footer">About Us</a>&nbsp;|&nbsp;<a href="/safeco/in_the_community/default.asp" class="footer">In the Community</a>&nbsp;|&nbsp;<a href="/safeco/claims/default.asp" class="footer">Claims</a>&nbsp;|&nbsp;<a href="/safeco/for_agents/default.asp" class="footer">For Agents</a>&nbsp;|&nbsp;<a href="/safeco/legal/default.asp" class="footer">Privacy Policy</a>&nbsp;|&nbsp;  
 <a href="/safeco/legal/licensing.asp" class="footer">Insurer Licensing Information</a> &nbsp;&nbsp;  
 <!--ooend-->
-<br><a href="/safeco/legal/copyright.asp" class="footer">Copyright</a>  © 2000–2006  Safeco Insurance Companies.  All Rights Reserved. 
-<a href="/safeco/site_help/default.asp" class="footer">Site Help</a><br>Safeco, the Safeco logo, and Uncomplicate are registered trademarks of Safeco Corporation &nbsp;
+<!--<br><a href="/safeco/legal/copyright.asp" class="footer">Copyright</a>  &copy; 2000&#150;2006  Safeco-->
+<br><a href="/safeco/legal/copyright.asp" class="footer">Copyright</a>  © 2000– 2006  Safeco
+Insurance Companies.  All Rights Reserved. 
+<a href="/safeco/site_help/default.asp" class="footer">Site Help</a><br>Safeco and  the Safeco logo  are registered trademarks of Safeco Corporation &nbsp;
 
 
 
@@ -684,6 +762,19 @@ using our ASP variables. These are the CSS files located in the style folder.
 </tbody></table>
 
 
+
+
+ 
+
+<!--SWAT1873 Google temporary analytic code below-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-664479-1";
+urchinTracker();
+</script>
+
+<!--end of SWAT1873-->
 
 </div>
 
