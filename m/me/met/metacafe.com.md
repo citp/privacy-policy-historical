@@ -1,57 +1,66 @@
-> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015220id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214112505id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The use of this version of the MetaCafe website(s) and/or MetaCafe software and any other related software, upgrades or updates and all related services and special offers (the "Product") provided by MetaCafe inc. ("MetaCafe") are subject to the hereunder provisions of this Privacy Policy. 
+The use of the Metacafe website(s) and/or Metacafe software and any Metacafe services and products (collectively, the "Website") provided by Metacafe Inc. ("Metacafe") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Metacafe [Terms & Conditions](https://web.archive.org/terms/). If you do not agree to this Privacy Policy, please do not use the Website.
 
-### General
+**General**
 
-MetaCafe takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
+Metacafe takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
 
-BY USING OR ACCESSING ANY METCAFE WEBSITE OR DOWNLOADING AND USING THE PRODUCT, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. METACAFE MAY AMEND THIS POLICY FROM TIME TO TIME. A NOTIFICATION OF ANY SUCH AMENDMENT SHALL BE POSTED ON: http://www.metacafe.com/privacy. 
+BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Metacafe reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to review this Privacy Policy for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.
 
-If you are under the age of 13, you are not eligible to use the Product, and we ask you not to submit any personal information to us. 
+If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us. 
 
-#### Collection of Information
+Please note that any video, image, or other content posted at the direction of users onto the Metacafe website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.   
+Collection of Information Personal Information. Use of certain features of the Website may require submission of certain personal information, including your first and last name, email address, a nickname (or other user ID) and a password. 
 
-_Personal Information._
+Non personally identifiable Information. Metacafe may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.
 
-Use of certain features of the Product may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. 
+Metacafe may also collect or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a Metacafe client is used.
 
-_Non personally identifiable Information._
+**How is the information being used?**
 
-MetaCafe may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the MetaCafe Product or website(s), and responses to the offerings and advertisements presented on MetaCafe's Product and/or website(s). 
+The information is used to operate and improve the features, offerings and content presented to you by Metacafe, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest. 
 
-MetaCafe may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the MetaCafe website(s) and pages are visited or when the MetaCafe Product is used. 
+Please note that Metacafe may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while Metacafe's business partners and advertisers may receive aggregate data about Metacafe users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. 
 
-##### How is the information being used? 
+Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by Metacafe in good faith. Furthermore, Metacafe may transfer personally identifiable information in the event of a transfer of ownership of Metacafe or any of its websites or products, in which case the information could become subject to a different privacy policy.
 
-The information is used to operate and improve the features, offerings and content presented to you by MetaCafe, to personalize the content and advertisements provided to you ; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Product and/or website(s), offerings and advertisements presented on MetaCafe Product, email communication, website(s) and pages; and to help offer you other products, programs, or services that may be of interest. 
+**Cookies**
 
-Any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. MetaCafe may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of MetaCafe users, but do not receive information that personally identifies you. 
+Metacafe may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
 
-Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures. 
+Metacafe does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies.
 
-##### Cookies
+**Third Party Ad Servers**
 
-MetaCafe may use cookies or similar technologies to enhance and personalize your experience of the Product and/or of MetaCafe's web sites, including to operate and improve offerings through the Product and/or web sites; to help authenticate your identity when you visit and transact with the Product, and/or web sites; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
+Metacafe or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Metacafe's. 
 
-Additionally, MetaCafe or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Product, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MetaCafe's. 
+**Security**
 
-MetaCafe does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Products and/or web sites may be impaired if you decline to accept cookies. 
+Metacafe has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.
 
-**Please note:** MetaCafe does not use any pop-ups or pop-unders, nor bundling on the application nor the website. 
+**California Privacy Policy**
 
-##### Special Note for Parents
+Metacafe's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Metacafe may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Metacafe's information sharing practices, please let us know.   
+The designated contact for these queries is [ metacafe@bradypr.com](mailto:metacafe@bradypr.com).
 
-MetaCafe's Product and websites are intended for a general audience, and children under the age of thirteen (13) are not permitted to register with MetaCafe's Product and websites. 
+**Special Note for Parents**
 
-#####  Modification and Deletion of Personally Identifiable Information
+Protecting the privacy of young children is especially important. For that reason, Metacafe does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Metacafe learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Metacafe will take the appropriate steps to delete this information.
 
-**Deletion (Opt-Out).** In order to delete the personally identifiable information you submitted, notify us, to the following email address: [support@metacafe.com](mailto:support@metacafe.com) that you wish to delete your personally identifiable information or any part thereof contained at our databases.   
-**Modification.** If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: [support@metacafe.com](mailto:support@metacafe.com)   
-Please note that deletion of your personally identifiable information from MetaCafe's database will not prevent MetaCafe from using gathered anonymous information. 
+**Modification and Deletion of Personally Identifiable Information**
 
-_Third Parties' Practices._
+Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us at [support@metacafe.com](mailto:support@metacafe.com) that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
-This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that MetaCafe does not own or control, or does not employ or manage. 
+Modification. If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at support@metacafe.com   
+Please note that deletion of your personally identifiable information from Metacafe's database will not prevent Metacafe from using gathered anonymous information. 
+
+Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that Metacafe does not own or control, or does not employ or manage. See also, "Third Party Ad Servers."
+
+**Non-U.S. Users**
+
+The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
+
+Last updated: October 30th, 2006.
