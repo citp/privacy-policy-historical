@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628001529id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214154629id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
-# Pointstreak.com - privacy policy
+# Pointstreak.com - privacy policy - Real-time Scoring and League Management System
 
 Pointstreak.com Inc. strongly believes in keeping the trust of our leagues, players, partners and employees. We believe that by protecting the personal information of our customers and maintaining a high level of integrity, we will help accelerate the rate at which people are comfortable with using our innovative service. This privacy policy is designed to inform you, the user, about what information Pointstreak gathers about you, how this information is used and how it is protected.
 
