@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianity.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626022623id_/http%3A//www.christianity.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianity.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215001231id_/http%3A//www.christianity.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
 # christianity.com :: your portal to the christian web.
 
@@ -20,11 +20,11 @@ From time-to-time, Christianity.com, its affiliated ministries and/or its affili
   * To send you information about Christianity.com 
   * To give to select ministries on our site, who may send you promotional material 
   * To give to select radio stations, who may send you promotional material 
-  * To give to our advertisers, who may send you information about their products and services 
+  * To give to our advertisers, who may send you information about their products and services
 
 
 
-Contests and Sweepstakes   
+**Contests and Sweepstakes**   
 Christianity.com runs occasional contests and sweepstakes, in which we ask for personally identifiable information such as your name, age, email address, and telephone number. We may also request additional optional information such as gender, marital status, and income level. These contests are completely voluntary, and information given may be entered upon the discretion of the entrant. We may then use this information:
 
   * To determine contest eligibility 
@@ -32,7 +32,7 @@ Christianity.com runs occasional contests and sweepstakes, in which we ask for p
   * To view statistics and conduct basic research 
   * To send you information about Christianity.com 
   * To give to select ministries on our site, who may send you promotional material 
-  * To give to our advertisers, who may send you information about their products and services 
+  * To give to our advertisers, who may send you information about their products and services
 
 
 
