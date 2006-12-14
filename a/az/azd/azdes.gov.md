@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdes.gov privacy policy that was archived on 2006-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060210002519id_/http%3A//www.azdes.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdes.gov privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214024230id_/http%3A//www.azdes.gov/privacy) for the most accurate reproduction.*
 
 # 
 
