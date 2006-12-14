@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528045831id_/http%3A//mlab.funmail.com/so/thumbnail.htm%3Fpg%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214012130id_/http%3A//mlab.funmail.com/so/thumbnail.htm%3Fpg%3D7) for the most accurate reproduction.*
 
 # Welcome to the Mlab
 
