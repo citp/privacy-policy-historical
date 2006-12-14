@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229130522id_/http%3A//carpricesecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215005509id_/http%3A//carpricesecrets.com/privacy.php) for the most accurate reproduction.*
 
 # CarPriceSecrets.com - Privacy Policy
 
 Welcome to CarPriceSecrets.com (the “Site”). Your privacy is important to us. We provide this statement explaining our online information practices. To make this notice easy to find, we make it available through a link on all of our pages.
 
-Collection of Information 
+Collection of Information
 
 The Site currently collects personally identifiable information in one of two ways: (1) through your voluntary submission of a quote request form or (2) through your voluntary submission of a “contact us”, “get more information“, or other similar form available on the Site. When you request a quote, the types of information that we collect in conjunction with a quote request may include your name, address, phone number, e-mail address and information regarding the particular vehicle(s) that you are interested in. You must provide all required fields of information for your request to be processed. The types of information we collect on the “contact us”, “get more information”, or other similar form may include your name, dealership name and address, phone number, and email address.
 
