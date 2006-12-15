@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysurvey.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192214id_/http%3A//mysurvey.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysurvey.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215185743id_/http%3A//www.mysurvey.com/privacy.cfm) for the most accurate reproduction.*
 
 # MySurvey - Privacy Policy
 
@@ -10,7 +10,7 @@
 ### NFO MySurvey.com Privacy Policy
 
 **Policy Effective Date:** March 1998   
-**Last Revised:** November 2005 
+**Last Revised:** October 2006
 
 This page discloses the privacy practices of the NFO MySurvey.com website. If you arrived at this page via one of our cobranded partner sites, please be assured that the privacy policy that you see here is in effect for all NFO MySurvey.com panel members regardless of how they are directed to our registration form. (NOTE: We use the term "cobranded" to mean that our partner sites' logo or in some cases, a masthead that looks similar to the partner site appears on the NFO MySurvey.com website pages in order to give the user a sense of continuity. However, only NFO MySurvey.com collects information on NFO MySurvey.com pages; the ways in which we use this information and protect your privacy are described below.)  
   
@@ -61,7 +61,9 @@ NFO MySurvey.com also automatically collects information via log files to admini
 
 When you participate in the Refer A Friend program we ask for your friend's first name and email address. The first name is used in the greeting to personalize the message and the email address is needed to deliver it to your friend. Both pieces of information are stored only temporarily, for a long enough time to make sure the email was sent without difficulty and are never used for any other purpose. Participation in the Referral Program, like all aspects of NFO MySurvey.com membership, is completely voluntary.
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Panel member names, addresses, and phone numbers are maintained on a secured database accessible only by NFO MySurvey.com research staff. Panel members may also access their own information for the purposes of verifying and updating, but they cannot view other members' information.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Panel member names, addresses, and phone numbers are maintained on a secured database accessible only by NFO MySurvey.com research staff. Panel members may also access their own information for the purposes of verifying and updating, but they cannot view other members' information. As with any Internet endeavor, absolute security of information transmitted through channels (communication networks, hardware, software) not directly operated or controlled by us cannot be guaranteed.
+
+In the event NFO MySurvey.com or its affiliates experience a merger, acquisition, sale or other transaction pursuant to which this website is acquired by a third party or an affiliate of NFO MySurvey.com, NFO MySurvey.com may disclose your personal information to the third party or affiliate both before and after the transaction, for the sole purpose of facilitating and effecting that transaction. In the event a transaction is consummated, you will be notified of the transaction via e-mail and/or through a notice on our website, and NFO MySurvey.com's custody of your personal information will be transferred subject to all the terms and restrictions in this privacy policy. In the event the transaction is not consummated, NFO MySurvey.com will require the third party or affiliate not to use or disclose your personal information in any manner whatsoever and to completely erase the same. 
 
 As is the case with any information you provide to any business operating in the United States, information provided to NFO MySurvey.com is subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.  
   
@@ -74,16 +76,16 @@ Policies on Correcting/Updating Personal Information
   
 NFO MySurvey.com relies on panel members themselves to provide any updates to personal identifying information. Members may update email addresses, password, mailing address, phone number as well as name of the person who initially registered by going to the Update Your Info section of this website (available to members only). For changes to any other personal information, including user name, panel members are asked to contact NFO MySurvey.com via [email](http://emi01.com/nfofaq/faq.asp) or by phone. The toll-free customer service number is 1-800-537-4097. Customer service hours are M-F 8 a.m. to 11:00 p.m. EST, and Sat-Sun 10 a.m. to 6:00 p.m. EST. Members may also update their email addresses or other information by [emailing](http://emi01.com/nfofaq/faq.asp), by calling, or by mailing in their changes (see postal address at the end of this page), whatever they prefer. (Please note that changes sent via the postal service will take longer to implement due to time needed for mail delivery.) We will respond to your change request within 30 days of receiving it; the response will either be to change your information as requested or to respond to you with more information. (Note: when emailing us with changes to your information, please use the email links provided above.)
 
-NFO MySurvey.com may occasionally supplement information obtained from panel members with information obtained from a third party (such as demographic or ownership information that NFO MySurvey.com doesn't typically collect, e.g. small dog ownership). NFO MySurvey.com may also use third party database applications to provide services to our members (such as customer support or email communications to members). In such cases, we ensure your privacy by having these third parties sign a written, legally binding agreement stipulating that they will not share NFO MySurvey.com data with any outside party and that any individual identifying information is to be used solely for the purpose of matching records or providing the agreed upon database service.
+NFO MySurvey.com may occasionally supplement information obtained from panel members with third party information (such as demographic or ownership information that NFO MySurvey.com doesn't typically collect, e.g. small dog ownership). In order to accomplish this, we may need to share your information with a third party. NFO MySurvey.com may also use third party database applications to provide services (such as customer support or email communications to members). In such cases, we ensure your privacy by having these third parties sign a written, legally binding agreement stipulating that they will not share NFO MySurvey.com data with any outside party and that any individual identifying information is to be used solely for the purpose of matching records or providing the agreed upon database service.
 
 NFO MySurvey.com may also exchange information with our partner sites for the member's benefit and with the member's knowledge (in accordance with this privacy policy). These benefits include opportunities to earn additional rewards on the partner site and/or to eliminate NFO MySurvey.com advertising to those who are already NFO MySurvey.com members. The information exchanged will be the member ID and/or email address (the minimum information needed to provide the benefit). We ensure your privacy by having our partner sites sign a written, legally binding agreement stipulating they will not share your individual identifying information and that it is to be used solely for the purpose of providing you with additional rewards and to eliminate redundant advertising.  
   
 ---  
 |  |  |   
 ---|---|---  
-**Use Of Cookies**  
+**Use Of Cookies & Other Technologies**  
 |   
-How We Use Cookies on Our Website  
+How We Use Cookies & Other Technologies on Our Website  
   
 NFO MySurvey.com uses cookies on our registration and survey forms during the time you are actively completing the forms. These cookies are used for technical purposes to allow for accurate transmission of survey information to the NFO MySurvey.com database and to ensure that a member does not take the same survey more than once. For longer surveys, we use cookies to make form completion more convenient for the panelist. They allow for completion of the form in more than one sitting; you take up where you left off rather than starting from the beginning again. 
 
@@ -91,7 +93,9 @@ NFO MySurvey.com also uses cookies on the member area of the site to store user 
 
 No personal identifying information is stored on any cookie nor do we retain any cookied information on our databases.
 
-Because cookies are used to identify valid members to protect access to their specific member information and to personalize their member experience, users who choose not to allow cookies cannot register nor can they access the member area of the NFO MySurvey.com website with its associated member benefits (such as taking surveys, earning reward points and redeeming rewards).  
+Because cookies are used to identify valid members to protect access to their specific member information and to personalize their member experience, users who choose not to allow cookies cannot register nor can they access the member area of the NFO MySurvey.com website with its associated member benefits (such as taking surveys, earning reward points and redeeming rewards).
+
+Occasionally, we employ technology to provide security of images displayed in our surveys.  A script embedded in certain pages displaying images overwrites information located on your computer’s clipboard when you are on that page.  The script is used very infrequently and only for certain images that are presented.  Please be assured that any information you may have copied to your clipboard is not captured or read; rather, it overwritten with blank data.  We advise you to paste any information that you have cut or copied to your clipboard before you log in to take a survey.  
   
 ---  
 |  |  |   
