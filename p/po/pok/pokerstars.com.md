@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231041id_/http%3A//www.pokerstars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215161331id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
 
-# Welcome to PokerStars.com
+# Poker Stars - Online Poker Software Privacy Policy
 
-|   
+  
   
   
 Your privacy on the Internet is very important to PokerStars and its owner and operator, Rational Enterprises Ltda. We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at PokerStars, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures. 
@@ -32,7 +32,7 @@ To play for real money, Players will need to make a deposit. In the course of ma
   
 **3\. Confidentiality**
 
-PokerStars undertakes substantial efforts to protect the confidentiality of the identity, preferences and other information it has collected about individual Players and will not knowingly allow access to this information to anyone outside PokerStars, other than to the Player or as described in this Privacy Policy. PokerStars has made a substantial investment in its server, database, backup, firewall and encryption technologies to protect the information collected by PokerStars. These technologies are deployed as part of state of the art security architecture, see [www.pokerstars.com/security.html](http://www.pokerstars.com/security.html). 
+PokerStars undertakes substantial efforts to protect the confidentiality of the identity, preferences and other information it has collected about individual Players and will not knowingly allow access to this information to anyone outside PokerStars, other than to the Player or as described in this Privacy Policy. PokerStars has made a substantial investment in its server, database, backup, firewall and encryption technologies to protect the information collected by PokerStars. These technologies are deployed as part of state of the art security architecture, see [www.pokerstars.com/poker/room/features/security/](http://www.pokerstars.com/poker/room/features/security/). 
 
 All PokerStars employees are required to comply with the terms of this Privacy Policy. This Privacy Policy provides that employees are obligated to keep Player information strictly confidential. This obligation continues once an employee has left our Company. 
 
@@ -56,7 +56,7 @@ We may send you a temporary cookie when you visit [www.PokerStars.com](http://ww
   
 **8\. Consent to Privacy Policy**
 
-By opening an Account with PokerStars, you agree to the terms of this PRIVACY POLICY. We may occasionally update this Privacy Policy and encourage you to periodically review it. Your continued use of the PokerStars services constitutes your agreement to this Privacy Policy and any updates. Our [Terms of Service](http://www.pokerstars.com/tos.html), see [www.pokerstars.com/tos.html](http://www.pokerstars.com/tos.html), take precedence over any conflicting provision of this Privacy Policy.   
+By opening an Account with PokerStars, you agree to the terms of this PRIVACY POLICY. We may occasionally update this Privacy Policy and encourage you to periodically review it. Your continued use of the PokerStars services constitutes your agreement to this Privacy Policy and any updates. Our [Terms of Service](http://www.pokerstars.com/poker/room/tos/), see [www.pokerstars.com/poker/room/tos](http://www.pokerstars.com/poker/room/tos/), take precedence over any conflicting provision of this Privacy Policy.   
   
 **9\. Who are we?**
 
@@ -65,5 +65,4 @@ Plaza Roble Corporate Center
 San Jose  
 Costa Rica 
 
-Privacy Policy last revised: 28th September, 2004   
-| 
+Privacy Policy last revised: 28th September, 2004 
