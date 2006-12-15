@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428162426id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215041619id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
+
+**Updated!**   
+This Privacy Policy has been updated to include a section explaining Dell's use of Web Beacons. 
 
 Dell respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the Dell family of companies with your consent, as required by law or to protect Dell, its customers, or the public, or with companies that help Dell fulfill its obligations with you, and then only with partners who share Dell's commitment to protecting your privacy and data. At any time you may contact Dell with any privacy questions or concerns you may have. You also may ask at any time to see the personal data you have given us and request correction or deletion. We strive to protect the security of your personal data by use of appropriate measures and processes. 
 
 Privacy and Data Security
 
-At Dell, your right to privacy and data security is a primary concern. That's why, when you visit dell.com, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site or when you use our online support offerings such as [support.dell.com](http://support.dell.com/) or support applications loaded on your computer. Please refer to your warranty statement or Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell. [Other Dell and Dell co-branded sites may operate under their own privacy and security policies](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=011). Visit [www.nclnet.org/essentials](http://www.nclnet.org/essentials) to learn more about how to protect your privacy on the Internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
+At Dell, your right to privacy and data security is a primary concern. That's why, when you visit dell.com, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site or when you use our online support offerings such as [support.dell.com](http://support.dell.com/) or support applications loaded on your computer. Please refer to your warranty statement or Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell. [Other Dell and Dell co-branded sites may operate under their own privacy and security policies](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=011). Visit [www.nclnet.org/essentials](http://www.nclnet.org/technology/essentials/) to learn more about how to protect your privacy on the Internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
 
 Dell is a proud participant in the BBB OnLine®  Privacy Program. The BBB _OnLine_ Privacy Program is backed by an organization noted for its expertise and experience in conducting successful national self-regulation programs--the Council of Better Business Bureaus. The mission of BBB OnLine is to promote trust and confidence on the Internet by advocating ethical online business practices. Further information about this program is available at [http://www.bbbonLine.org](http://www.bbbonline.org/cks.asp?id=3151999031006). 
 
@@ -56,6 +59,16 @@ Customized Experience
 
 We use technology to help us deliver customized visitor experiences. At Dell, we primarily use "cookies" to help us determine which service and support information is appropriate to your machine and to maintain your shopping experience in our online store. Our use of this technology does not mean that we automatically know any information about you. We might be able to ascertain what type of computer you are using, but beyond that, our use of cookies is designed only to provide you with a better experience when using www.dell.com. Dell has no desire or intent to infringe on your privacy while using the dell.com site. For more information about our use of cookies, please click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=001). 
 
+Web Beacons
+
+We, or third parties acting on our behalf, may use web beacons on our site, in our e-mails, in our advertisements on other sites, or in our advertisements in others' e-mails. A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or e-mail. Web beacons help us measure the effectiveness of our site and our advertising in various ways, for example, by counting the number of individuals who visit our site from a particular advertisement or make a purchase from our site after viewing a particular advertisement as well as by telling us when a web page is viewed and providing a description of the page where the web beacon is placed. Web beacons also help us measure the effectiveness of our e-mail campaigns, for example, by counting the number of individuals who open or act upon an e-mail message, determining when an e-mail message is opened and determining how many times an e-mail is forwarded.
+
+The information we collect may include some limited personal information, and web beacons allow us to recognize users by accessing Dell cookies. We may also combine the information that we collect through web beacons with other personal information we have collected from you. We use all of this information to better tailor our marketing to you and may use this information for other purposes, such as to enable a shopping cart, customize content on our website and internal research purposes.
+
+We do not allow third parties to place their own web beacons on our site or in our advertisements. We will not share any personal information collected through web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.
+
+You can make some web beacons unusable by rejecting cookies.
+
 Third-Party Sites
 
 Please be aware that other web sites that may be accessed through our site may collect personally identifiable information about you. The information practices of those third-party web sites linked to Dell.com are not covered by this privacy statement. We generally use the "" symbol to mark links that go to third-party sites. 
@@ -96,6 +109,6 @@ You can request the individual information that Dell has collected by submitting
 
 Changes to the Policy
 
-Privacy Statement Effective Date: July 1, 2004
+Privacy Statement Effective Date: October 23, 2006
 
 Material changes to this policy will be posted on Dell's Web site for 30 days.
