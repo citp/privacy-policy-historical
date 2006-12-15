@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2006-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060116142239id_/http%3A//yesup.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215164724id_/http%3A//www.yesup.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+Privacy Policy
 
 **Personal Information**  
 At YesUp.net (YesUp) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here:   
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>  
-or to our authorized retailer, 2checkout.com:   
+2checkout.com:   
 [http://www.2checkout.com](http://www.2checkout.com/)
 
 **Cookies**  
@@ -18,11 +18,12 @@ We do not use cookies to identify, monitor or track any personally identifiable 
 
 
 **Third Party Cookies At Our Sites**  
-While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies.  
+While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information on these cookies.  
 PayPal.com:   
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>  
 2checkout.com:   
-[http://www.2checkout.com](http://www.2checkout.com/)
+[http://www.2checkout.com](http://www.2checkout.com/)  
+
 
 **Registration Forms**  
 Our site's registration form requires users to give us contact information (like their name, email, and postal address).
@@ -35,9 +36,3 @@ This site contains links to other sites. YesUp is not responsible for the privac
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@yesup.net](mailto:webmaster@yesup.net)  
 
-
-[](http://www7.paypopup.com/phplive/request_email.php?l=Admin&x=1&deptid=0)   
-Click [here](http://www7.paypopup.com/phplive/request_email.php?l=Admin&x=1&deptid=0) for our Live!   
-support help desk. 
-
-[](http://www.yesadvertising.com/)
