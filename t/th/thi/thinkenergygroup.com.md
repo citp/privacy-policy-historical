@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618092315id_/http%3A//www.thinkenergygroup.com/think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215212619id_/http%3A//www.thinkenergygroup.com/think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
 
 # Technical Staffing - Press Release - Atlanta, Georgia, Florida
 
