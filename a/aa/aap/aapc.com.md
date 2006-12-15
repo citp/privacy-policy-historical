@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the aapc.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617001423id_/http%3A//www.aapc.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapc.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215060323id_/http%3A//www.aapc.com/other/privacy.html) for the most accurate reproduction.*
 
-# American Academy of Professional Coders - Privacy
+# American Academy of Professional Coders - Privacy Policy
 
-**AMERICAN ACADEMY OF PROFESSIONAL CODERS  
-****PRIVACY POLICY**  
+**American Academy of Professional Coders  
+****Privacy Policy**  
 
 
 **1\. Privacy Philosophy**
