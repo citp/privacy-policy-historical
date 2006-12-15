@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616171143id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215222023id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Swirve.com - Free Games and More
 
