@@ -1,53 +1,96 @@
-> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508101403id_/http%3A//wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215081151id_/http%3A//wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
 
-# Wealth Beyond Reason - Privacy Policy
-
-Boundless Living, Inc. Privacy Policy
-
-This privacy notice discloses the privacy practices for Boundless Living, Inc.. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
-
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
-  2. What choices are available to you regarding the use of your data. 
-  3. The security procedures in place to protect the misuse of your information. 
-  4. How you can correct any inaccuracies in the information. 
-
-
-
-**Information Collection, Use, and Sharing**
+# Boundless Living, Inc. Privacy Policy
 
   
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+[](http://www.p3pseal.com/verify.php?sid=3C326291D4 "P3PSeal.com: Click to Verify") Privacy Policy   
+Boundless Living, Inc.   
+http://www.wealthbeyondreason.com
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+Effective from 09th of November 2006 to 09th of November 2007. 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+* * *
 
-**Your Access to and Control Over Information**
+General Information   
+Boundless Living, Inc. takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
+
+  * This policy covers what personally identifiable information Boundless Living, Inc. collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.wealthbeyondreason.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number. 
+  * This policy only applies to http://www.wealthbeyondreason.com and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage. 
+
+
+
+* * *
+
+Contact Information   
+We invite you to contact us if you have questions about this privacy policy. 
+
+Our Internet address is located at [http://www.wealthbeyondreason.com](http://www.wealthbeyondreason.com/)
+
+**Boundless Living, Inc.  
+3369 Peachtree Chase   
+Duluth 30096   
+GA USA **
+
+You may contact us by e-mail at [support@wealthbeyondreason.com](mailto:support@wealthbeyondreason.com)   
+You may contact us by phone on 800-427-4527 
+
+
+
+
+* * *
+
+Dispute Resolution   
+Boundless Living, Inc. is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
+
+Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors. 
+
+[](http://www.p3pseal.com/verify.php?sid=3C326291D4 "P3PSeal.com: Click to Verify")   
+Boundless Living, Inc. is [P3PSeal](http://www.p3pseal.com/verify.php?sid=3C326291D4) certified. In the event that a dispute regarding our privacy practices cannot be settled through our normal dispute resolution processes, you should contact [P3PSeal](http://www.p3pseal.com/), an independent third party. P3PSeal will serve as a liaison with Boundless Living, Inc. to resolve any dispute you may have.
+
+* * *
+
+Information Collection   
+When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information Boundless Living, Inc. collects, and how it is used. 
+
+Information Collected \- What information do we collect and why? 
+
+We collect the following identifiable information about our visitors:
+
+    * user.name 
+    * user.home-info.online.email 
+    * user.home-info.postal 
+    * dynamic.clickstream 
+    * dynamic.http 
+    * dynamic.searchtext 
+    * dynamic.miscdata 
+  
+We collect identifiable information for the following reasons: 
+    * Web Site and System Administration 
+    * Research and Development 
+    * Contacting Visitors for Marketing of Services or Products 
+  
+Collecting your address allows us to stay in communication with you throughout our program and provide optimum support.
+
+Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.
+
+* * *
+
+Information Recipients \- Who has access to the information collected?   
+  
+
+    * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent.   
 
   
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
-
-  * See what data we have about you, if any. 
-  * Change/correct any data we have about you. 
-  * Have us delete any data we have about you. 
-  * Express any concern you have about our use of your data. 
 
 
+* * *
 
-**Security**
-
+Information Retention \- How long is this information retained?   
   
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. 
+    * We do not have a retention policy for this area of the Web Site.  
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-  
-We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you. 
 
-We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. 
 
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
-
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-427-4527 or via email.**
+* * *
