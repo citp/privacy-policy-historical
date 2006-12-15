@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516101819id_/http%3A//nimsoft.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215201644id_/http%3A//nimsoft.com/privacy.php) for the most accurate reproduction.*
 
-# Nimsoft's Privacy & Security Policy
+# Nimsoft - Privacy & Security Policy
 
 **Your Privacy**
 
@@ -38,8 +38,8 @@ By using our web site, you consent to the collection and use of the information 
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [privacy@nimsoft.com](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [webmaster@nimsoft.com](mailto:webmaster@nimsoft.com).
 
-**Privacy Policy Changes**
+"We use NimBUS to monitor and verify Quality of Service of more than 5000 operational IT-infrastructure elements all over Norway. It provides us with an overview of the network- and systems for our customers that is quite unique.
 
-None at this time.
+The flexibility in the software gives both Computerland, as a Managed Service Provider, and our customers a very good overview of the IT-infrastructure and enables us to quickly pinpoint where there are problems. NimBUS was chosen in competition with software vendors like IBM/Tivoli and BMC/Patrol, together with several others."
 
-This document was last updated December 19, 2005.
+ComputerLand
