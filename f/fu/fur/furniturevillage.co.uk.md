@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616130344id_/http%3A//www.furniturevillage.co.uk/Web.Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215040105id_/http%3A//www.furniturevillage.co.uk/Web.Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Furniture Village
 
@@ -20,8 +20,8 @@ Information you provide to us remains confidential. The internal procedures of F
 
 You have the right at any time to request a copy of the personal data we hold on you. 
 
-If any of the information that you have provided to us changes, for example if you change your e-mail address or if you wish to cancel your registration, please let us know the correct details by [contacting us](https://web.archive.org/web/20060616130344id_/http%3A//www.furniturevillage.co.uk/Web.Pages/ContactUs.aspx) by fax, phone or e-mail. 
+If any of the information that you have provided to us changes, for example if you change your e-mail address or if you wish to cancel your registration, please let us know the correct details by [contacting us](https://web.archive.org/web/20061215040105id_/http%3A//www.furniturevillage.co.uk/Web.Pages/ContactUs.aspx) by fax, phone or e-mail. 
 
 By submitting your information you consent to the use of that information as set out in this Privacy Policy. If we change our Privacy Policy we will post the changes on this section of the Website, so that you may be aware of the information we collect and how we use it at all times. Your continued use of the Website constitutes your agreement to any such changes. 
 
-We welcome your views about our Website and our Privacy Policy. Should you wish to [contact us](https://web.archive.org/web/20060616130344id_/http%3A//www.furniturevillage.co.uk/Web.Pages/ContactUs.aspx) regarding our Website or Privacy Policy please do so. 
+We welcome your views about our Website and our Privacy Policy. Should you wish to [contact us](https://web.archive.org/web/20061215040105id_/http%3A//www.furniturevillage.co.uk/Web.Pages/ContactUs.aspx) regarding our Website or Privacy Policy please do so. 
