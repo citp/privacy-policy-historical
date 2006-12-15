@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210082826id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215061015id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : BatteriesInAFlash.com!, Batteries :: Memory :: Film
+# Privacy Notice : Batteriesinaflash.com, Batteries :: Memory :: Film
 
 Effective 1/1/2004 
 
