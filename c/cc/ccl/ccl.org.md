@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618014434id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3FpageId%3D1007) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215025528id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3FpageId%3D1007) for the most accurate reproduction.*
 
 # Center for Creative Leadership - Privacy Commitment
 
@@ -61,6 +61,7 @@ The following discloses our information gathering and dissemination practices fo
   * Registration Request Forms
   * Online Surveys
   * Third Party Information
+  * myCCL Member Profile Form
 
 
 
@@ -102,6 +103,9 @@ From time to time, we may post online surveys to ask visitors for opinions on le
 
 **Third Party Information**  
 Please do not send us any personal data about anyone else without their permission.
+
+**myCCL Member Profile Form**  
+For memberships in myCCL, the myCCL member site collects member contact information and preference responses to leadership challenges. This information is used to contact you and to provide you with information regarding publications, research, programs, and other information to address the member's noted challenges. In addition, myCCL acts as the user portal for post-registration data and online assessments for programs. Members of myCCL are requested to log in during an e-Commerce transaction. Any information collected during the transaction will be used to process your order. In addition, this information may be used internally to provide better service to myCCL members. If registering for a program, some information gathered while logged in to a myCCL account may be used for the purposes of the program. Members can update their profile at any time while logged into myCCL. Members can also choose to opt-out of receiving communications from us and our partners at the point where information is requested. In addition, users are provided with the option to remove their information from our database to eliminate all future communications or to discontinue service. See Choice/Opt-Out.
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure server encrypts all payment information you send us, including your name, address, credit card number and its expiration date. The encryption process takes all this personal information and converts it into code that is securely transmitted over the Internet.
