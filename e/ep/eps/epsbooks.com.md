@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614225434id_/http%3A//epsbooks.com/dynamic/customer_service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215193224id_/http%3A//www.epsbooks.com/dynamic/customer_service/privacy) for the most accurate reproduction.*
 
 # Customer Service » Privacy Policy
 
   
 
 
-Last updated July 10, 2003.
+Last updated September 28, 2006.
 
 We are concerned about your right to privacy while accessing and using this Web site. Please take the opportunity to review our Privacy Policy.
 
@@ -15,7 +15,7 @@ We are concerned about your right to privacy while accessing and using this Web 
 We use the user's IP address to help diagnose problems with our server and to administer our Web site.
 
 **Cookies**  
-Our site uses cookies to keep track of user sessions on our site.
+Our site uses cookies to keep track of user sessions on our site. We also use cookies to collect anonymous traffic data.
 
 **Registration Forms**  
 Our site's registration forms requires users to give us contact information (such as name, e-mail, and postal address), unique identifiers (such as e-mail address), and demographic information (such as zip code).
