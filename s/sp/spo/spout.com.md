@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502022857id_/http%3A//www.spout.com/Community/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215215454id_/http%3A//www.spout.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Spout - Privacy
 
@@ -17,7 +17,7 @@ It is not our business to sell your information to others. Further, we do not sh
 We may release personal and account information without prior notice when we believe it is appropriate to prevent fraud; to comply with law or to cooperate with law enforcement activity or other governmental request; to respond to subpoenas, court orders or administrative agency requests for information; to enforce our policies; and to protect the rights, property and safety of our business and of others.  If we ever sell the company, division or business unit that operates this site, we may also transfer the information we have collected in connection with such sale or merger.
 
 We will use the information we collect to continuously improve our business and our website development.  Your comments and suggestions about our website development are always appreciated.  You can provide us with your comments by [contacting us.  
-](http://qa.spout.com/Community/Contact.aspx)  
+](https://web.archive.org/Contact.aspx)  
  **Changes to Your Preferences and Information**
 
 The information you provide us isn’t set in stone. You can edit your account information with us at any time. Most personal information you may provide is entirely optional. You can delete or modify your account by visiting the applicable account pages; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal or business interests. 
@@ -57,13 +57,13 @@ No activity on the Internet can be guaranteed to be 100% secure.  We cannot, th
 We cannot provide absolute assurances against, and will not be liable for, breaches of confidentiality due to system failures or unauthorized access by third parties.
 
 If we learn about a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using our site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our site if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us. [Contact Us.  
-](http://qa.spout.com/Community/Contact.aspx)  
+](https://web.archive.org/Contact.aspx)  
  **Changes to This Policy**
 
 The world of on-line business is constantly changing.  To keep up with and account for these changes, we may occasionally revise or update this policy. Please keep your eye on this policy in the event such changes are made.  Scout.com will send a message to the primary e-mail address we have on file for you if we make a change, or post a prominent notice of the change on the site.
 
  **Contacting Us**
 
-If you have any privacy concerns about our site or its policies, please contact us by email. [Contact Us](http://qa.spout.com/Community/Contact.aspx).
+If you have any privacy concerns about our site or its policies, please contact us by email. [Contact Us](https://web.archive.org/Contact.aspx).
 
 Back to top
