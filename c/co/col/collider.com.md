@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507130741id_/http%3A//collider.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215193356id_/http%3A//collider.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Collider.com - Entertainment, Gadgets, DVDs, Sports, Video Games, News, Reviews, and More...
+# Collider.com - Entertainment, DVD, Video Games, News, Reviews, Interviews
 
 Collider Privacy Policy
 
