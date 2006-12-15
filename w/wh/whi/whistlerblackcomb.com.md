@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616081120id_/http%3A//www.whistlerblackcomb.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215054557id_/http%3A//www.whistlerblackcomb.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Whistler - Privacy Policy
 
-## INTRAWEST CORPORATION PRIVACY POLICY 
+## INTRAWEST ULC PRIVACY POLICY 
 
   * _Scope and Application_
   * _Definitions_
@@ -182,7 +182,7 @@ By email: | [_yourprivacy@intrawest.com_](mailto:yourprivacy@intrawest.com)
 ---|---  
 By phone: | 1 877 477 6777 (North American Toll Free Number)  
 00 800 6777 6777 (International Toll Free Number)  
-By mail: | Ross Meacher, Chief Privacy Officer, Intrawest Corporation  
+By mail: | Ross Meacher, Chief Privacy Officer, Intrawest ULC  
 #800 - 200 Burrard Street, Vancouver, BC Canada V6C 3L6  
   
 **[Politique De Confidentialité](http://www.intrawest.com/politique.htm)**
