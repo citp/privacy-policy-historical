@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrush.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317080030id_/http%3A//www.pcrush.com/privacy.asp%3Fln%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrush.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215145609id_/http%3A//www.pcrush.com/privacy.asp%3Fln%3D1) for the most accurate reproduction.*
 
 # pcRUSH.com - Privacy Policy
 
