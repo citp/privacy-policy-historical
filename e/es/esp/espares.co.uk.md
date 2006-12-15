@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614151921id_/http%3A//www.espares.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215143201id_/http%3A//www.espares.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# eSpares > Privacy Statement
+# Privacy Statement
 
-## Privacy Policy
-
-You are in: [Home](https://web.archive.org/web/20060614151921id_/http%3A//www.espares.co.uk/) » Privacy Policy 
+You are in: [Home](http://www.espares.co.uk/) » Privacy Policy 
 
 **eSpares** are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. We will not e-mail you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future. 
 
