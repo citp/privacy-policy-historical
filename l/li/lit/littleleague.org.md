@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425041802id_/http%3A//www.littleleague.org/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215230013id_/http%3A//www.littleleague.org/common/privacy.asp) for the most accurate reproduction.*
 
 # Little League Online
 
@@ -6,7 +6,7 @@ Little League Internet Privacy Policy
 
 * * *
 
-The Little League Baseball Internet Privacy Policy has been written to answer questions you might have about online privacy. As a youth organization, we are very concerned about privacy and go to extraordinary measures to safeguard any personal information we may collect about you or your children. 
+The Little League Baseball Internet Privacy Policy has been written to answer questions you might have about online privacy. As a youth organization, we are very concerned about privacy and go to extraordinary measures to safeguard any personal information we may collect about you or your children. This policy refers only to information collected on this web site.
 
 **Advice to Children and Parents -**  
 We strongly advise children to get their parent's or guardian's permission before submitting any kind of personal data over the Internet. We urge parents to be very clear with their children regarding the danger of giving personal information to anyone (online or in person) they don't know. We also encourage parents and guardians to spend time online with their children and to participate in the activities offered on the sites they visit.
