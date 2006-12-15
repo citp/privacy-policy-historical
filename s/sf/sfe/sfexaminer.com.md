@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023711id_/http%3A//www.examiner.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215205000id_/http%3A//www.examiner.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Stay Current With Today's Top Breaking News Headlines - Examiner.com
 
@@ -14,17 +14,17 @@ Examiner.com gathers two types of information about users:
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions required for some services on our website including posting classified ads and emailing articles to friends.  
 
-  * Information Examiner.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Examiner.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Examiner.com divulge any personally identifiable information about an individual user to a third party. Personally identifiable information (“Personal Information”) includes users name, email address, physical address, telephone number(s), credit card number(s), social security number, buying preferences, income and education levels and related information. 
+  * Information Examiner.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Examiner.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Examiner.com divulge any personally identifiable information about an individual user to a third party. Personally identifiable information (â€œPersonal Informationâ€�) includes users name, email address, physical address, telephone number(s), credit card number(s), social security number, buying preferences, income and education levels and related information. 
 
 
 
 **Third Party Sites**
 
-Third party sites, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view certain content that is actually created or hosted by a third party. Through the Examiner.com website you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Examiner.com is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing Personal Information or another party’s information on a feature or page operated by a third party.
+Third party sites, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view certain content that is actually created or hosted by a third party. Through the Examiner.com website you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Examiner.com is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing Personal Information or another partyâ€™s information on a feature or page operated by a third party.
 
 **Optional Voluntary Information**
 
-WWe offer the following free services, which require some type of voluntary submission of personal information by users:
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
   1. "E-mail this to a friend" policy  
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
