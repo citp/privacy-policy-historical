@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202338id_/http%3A//uow.edu.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215142356id_/http%3A//uow.edu.au/about/privacy) for the most accurate reproduction.*
 
 # UOW - Privacy Statement
 
@@ -14,7 +14,7 @@ For the purposes of this policy UOW means and includes all its associated and co
 
 The University is committed to ensure that your privacy is protected. UOW and its controlled entities take all reasonable steps so that the collection, use, disclosure and handling of your information by UOW complies with the law.
 
-This page provides a summary of UOW's [Privacy Policy](https://web.archive.org/web/20060615202338id_/http://uow.edu.au/about/privacy/Privacy-Policy.pdf) and is not intended to be a detailed description of the Policy. You may also like to view UOW's [Privacy Management Plan](https://web.archive.org/web/20060615202338id_/http://uow.edu.au/about/privacy/Privacy-Management-Plan.pdf) for further information.
+This page provides a summary of UOW's [Privacy Policy](https://web.archive.org/web/20061215142356id_/http%3A//uow.edu.au/about/Privacy-Policy.pdf) and is not intended to be a detailed description of the Policy. You may also like to view UOW's [Privacy Management Plan](https://web.archive.org/web/20061215142356id_/http%3A//uow.edu.au/about/Privacy-Management-Plan.pdf) for further information.
 
 A full explanation of the National Privacy Principles to which the University adheres can be found at [http://www.privacy.gov.au](http://www.privacy.gov.au/)
 
@@ -56,7 +56,7 @@ This section explains our policy regarding any personal information you might su
 
 ### Further Information
 
-For additional or further information or other queries, questions or [complaints](https://web.archive.org/web/20060615202338id_/http://uow.edu.au/about/privacy/privacy-complaint-form.pdf) [pdf - 51kb] in the first instance please contact:
+For additional or further information or other queries, questions or [complaints](https://web.archive.org/web/20061215142356id_/http%3A//uow.edu.au/about/privacy-complaint-form.pdf) [pdf - 51kb] in the first instance please contact:
 
 **The Privacy Officer**  
 Administration Building (36)  
@@ -70,9 +70,9 @@ Wollongong NSW
 
 If you are staff collecting personal information the following consents and disclosures may be of assistance to you.
 
-[General Consent and Disclosure](https://web.archive.org/web/20060615202338id_/http://uow.edu.au/about/privacy/general-consent-disclosure.pdf) [pdf - 40 kb] to be used if this is the first time UOW collects personal information from an individual.
+[General Consent and Disclosure](https://web.archive.org/web/20061215142356id_/http%3A//uow.edu.au/about/general-consent-disclosure.pdf) [pdf - 40 kb] to be used if this is the first time UOW collects personal information from an individual.
 
-[Competition Consent and Disclosure](https://web.archive.org/web/20060615202338id_/http://uow.edu.au/about/privacy/competition-consent-disclosure.pdf) [pdf - 22 kb] for use when running a competition where a) contact details used only for purposes of contacting the winner(s) or b) contact details used for contacting winner AND follow up marketing.
+[Competition Consent and Disclosure](https://web.archive.org/web/20061215142356id_/http%3A//uow.edu.au/about/competition-consent-disclosure.pdf) [pdf - 22 kb] for use when running a competition where a) contact details used only for purposes of contacting the winner(s) or b) contact details used for contacting winner AND follow up marketing.
 
 Marketing Consent and Disclosure or Other Subsequent Collections. In order to provide a specific consent and disclosure appropriate to your marketing campaign, or collection needs please contact the:
 
