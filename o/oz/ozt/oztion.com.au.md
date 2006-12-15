@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629141943id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215125107id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # OZtion Privacy Policy
 
@@ -6,7 +6,7 @@ OZtion has created this privacy statement in order to demonstrate our firm commi
 
 **1\. Use of your information**
 
-OZtion does not sell or rent your personal identification to third parties. We release account and other personal information only when we believe release is appropriate to comply with law; enforce or apply our terms and conditions; or protect the rights, property, or safety of OZtion, our users, or others.
+OZtion does not sell or rent your personal identification to third parties. We release account and other personal information only when we believe release is appropriate to comply with law; enforce or apply our terms and conditions; or protect the rights, property, or safety of OZtion, our users, or others. Note: Other members you have completed a transaction with can request to exchange contact details with you. OZtion provides an online form where members can [request the contact details](http://www.oztion.com.au/secure/User/exchange/exdetails.aspx) of the other member. A seller can request the contact details of the buyer and the buyer can request the contact details of the seller. 
 
 **2\. Email**
 
@@ -50,7 +50,7 @@ We use additional information to do internal research on our users' demographics
 
 Users who login have their IP addresses recorded. This information can be used to track users who abuse the OZtion system and will be only be provided to legal authorities in cases of suspected fraud. IP addresses can be used, in conjunction with an Internet Service Provider, to find the account of a user and, ultimately, further information to identify a user. This information is stored securely and will not be provided to other members or non-authorised parties.
 
-If you choose to post messages in our message areas or leave Rating & Coments for other users, we will collect that information you provide to us.
+If you choose to post messages in our message areas or leave Rating & Comments for other users, we will collect that information you provide to us.
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
