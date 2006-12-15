@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618234327id_/http%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215181649id_/http%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
 
 # Email Subscription Problem
 
