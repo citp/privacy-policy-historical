@@ -1,19 +1,49 @@
-> *The following text is extracted and transformed from the priceless.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322234702id_/http%3A//priceless.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceless.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215214330id_/http%3A//priceless.com/privacy.html) for the most accurate reproduction.*
 
-# priceless.com - Privacy & Security
+# priceless.com - General Privacy Policy
 
-MasterCard ("we" or "us") recognizes the importance of respecting the privacy of those who visit this web site and choose to take advantage of the programs and information offered by us at this site. This General Privacy Policy provides an overview of what you can expect when you enroll in one of our programs or simply browse our site. Please remember that different or more detailed policies will be applicable to certain pages within this site and those policies are available when you visit those pages. Also, when you visit any one of our country-specific sites, please make sure you review the privacy policy for that country.
+MasterCard International Incorporated ("we" or "us") recognizes the importance of respecting the privacy of those who visit www.mastercard.com/us/personal/en (the "Site") and choose to take advantage of the programs we offer at this Site. We believe it is important for you to know how we treat the information about you that we receive during your visits to the Site. This policy ("Privacy Policy") is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information about your use of the Site we collect when you visit and browse our Site ("Site Use Information") and the personally identifiable information ("Personal Information") you provide to us via the Site. Please note that when you link from our Site to other web sites, this Privacy Policy no longer applies. We encourage you to take the time to read this Privacy Policy and also those of any other sites you visit, whether through a link on this Site or otherwise.
 
-MasterCard collects personally identifiable information ("Personal Information") at this site only when you provide the information to us, such as when you choose to enroll in online contests, sweepstakes, or other programs offered through this site. Personal Information you provide to us in connection with any of those programs will be governed by the specific privacy policy applicable to that program. The appropriate privacy policy will be available to you on the web pages used to provide us the information. Before you provide Personal Information in connection with a program offered through this site, please carefully review the applicable privacy policy. 
+THIS PRIVACY POLICY APPLIES ONLY TO THIS SITE, ONLINE PRACTICES, AND DATA ACQUIRED ONLINE. THIS PRIVACY POLICY IS A PART OF THE www.priceless.com [TERMS OF USE](https://web.archive.org/web/20061215214330id_/http%3A//priceless.com/terms.html). 
 
-We do not collect Personal Information in connection with "browsing" our web site. However, our servers automatically collect aggregate information about your use of our site when you visit and browse the site ("Site Use Information"). The Site Use Information includes but is not limited to the following: the domain names, operating system in use (e.g., Macintosh, Windows), browser (e.g., Netscape, Internet Explorer) and version, the web site that referred you to us, and other similar information. This information may be aggregated to measure the number of visits, average time spent on our site, pages viewed, time and date of visits, and other similar information. We may use and disclose Site Use Information, for example, to measure the use of our site, explain the utility of our site, and to improve the content of our site. 
+**Your Consent to the Privacy Policy and Revisions**  
+We may revise the terms of this Privacy Policy from time to time. Additionally, we may in the future add new programs to the Site that are subject to new or different privacy terms. You are responsible for checking this Privacy Policy when you visit our Site to review the current policy in effect at that time. Any changes to this Privacy Policy are effective when posted to the Site. By using this Site, you agree to the terms set forth in this Privacy Policy.  
+Last updated: August 2006
 
-We also make use of "cookies" on this site. A cookie is a small piece of data that our web site can send to your browser, which may then be stored on your computer. One of the ways we use cookies is to identify computers that are being used to make visits to our web site. We also may customize, monitor, or regulate the use of our site based on information stored in the cookie or host server. In addition, we use session cookies to recognize the user when moving from page to page in our site. By using this site, you consent to the use of our cookies. 
+**What Information We Collect And How We Disclose It**  
+When you visit our Site, we may collect two types of information: (1) Site Use Information and Cookies, and (2) Personal Information you knowingly choose to disclose that is collected on an individual basis.
 
-Please note that if you enter our web site from another web site, it is possible that the other site may use cookies to learn of your visit to our web site. We have no control over cookies used by other sites. 
+**Site Use Information**  
+Our servers automatically collect Site Use Information each time you visit the Site. The Site Use Information includes but is not limited to the following: the domain names, operating system in use (e.g., Macintosh, Windows), browser (e.g., Netscape, Internet Explorer) and version, the web site that referred you to us, and other similar information. This information may be aggregated to measure the number of visits, average time spent on the Site, pages viewed, time and date of visits, and other similar information. We may use and disclose Site Use Information, for example, to measure the use of our Site, explain the utility of our Site, and to improve the content of our Site.
 
-We do not use any of our online sites or services to knowingly solicit data from or market to children under the age of 13.
+**Cookies**  
+Similar to other commercial web sites, a technology called "cookies" may be used to provide you with tailored information. A cookie is a small piece of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect general information that enhances our ability to serve you and measure the utility of our Site.
 
-We reserve the right to change or supplement our privacy policies at any time by posting the changes on this web site. By using this web site, you accept the terms and conditions of this privacy policy, and you agree to review this privacy policy from time to time to stay informed of changes that may occur.
+**Personal Information**  
+In addition to Site Use Information and Cookies, MasterCard may collect Personal Information at this Site only when you provide the information to us in connection with your participation in online sweepstakes or contests offered by us at this Site and your contacting us by e-mail with inquiries. Personal Information includes information such as your e-mail address, first and last name, home or other physical address, telephone numbers, and other similar information that is personally identifiable to you.
 
-Last Updated: August 2004
+We may disclose Personal Information to our affiliates. We may also disclose Personal Information to third parties that provide services for us and to other third parties as permitted by law. Currently, our disclosure of Personal Information is limited to the following purposes: 
+
+  * understanding the use of our Site and making improvements;
+  * administering sweepstakes, contests, and other promotions (see "Official Rules" governing the sweepstakes, contest, or promotion for additional privacy disclosures);
+  * responding to requests from or providing any necessary notices to you;
+  * protecting the security or integrity of our Site; and
+  * otherwise administering or managing the Site software.
+
+
+
+**Information Security**  
+We believe that keeping Personal Information secure is one of our most significant responsibilities. We restrict access to Personal Information about you to those employees and others who need to know that information to assist us in our business or to provide products or services to you. We safeguard Personal Information according to established security standards and procedures, by maintaining physical, electronic, and procedural safeguards for the information.
+
+**E-mail Information**  
+If you choose to correspond with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses.
+
+**Users Under Age 13**  
+We do not collect or maintain information at our Site from those we know are under 13 years old, and no part of our web site is designed to attract anyone under 13 years old.
+
+**Links to Web Sites Operated by Others.**  
+When you use a link to go from this Site to a web site operated by a third party, this Privacy Policy is no longer in effect. We are not responsible for the privacy practices employed by third party web sites linked to or from our Site, nor for the information or content contained therein.
+
+Questions regarding this Privacy Policy, our practices, or your dealings with this Site should be directed to our [Customer Service team](https://web.archive.org/web/20061215214330id_/http%3A//priceless.com/contact.html).
+
+Last Updated: August 2006
