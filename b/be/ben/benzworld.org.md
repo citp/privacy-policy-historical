@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the benzworld.org privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417203536id_/http%3A//www.benzworld.org/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benzworld.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215225229id_/http%3A//www.benzworld.org/privacy.html) for the most accurate reproduction.*
 
-# BenzWorld Terms of Use
+# - Privacy Policy
 
 |   
 ---  
-| 
-
+  
 * * *
 
-[About us](https://web.archive.org/web/20060417203536id_/http%3A//www.benzworld.org/info/aboutus.asp)  
-[Terms of Use](https://web.archive.org/web/20060417203536id_/http%3A//www.benzworld.org/info/Termsofuse.asp)  
-[Privacy Policy](https://web.archive.org/web/20060417203536id_/http%3A//www.benzworld.org/info/Privacypolicy.asp)
+[About us](https://web.archive.org/aboutus.html)  
+[Terms of Use](https://web.archive.org/terms.html)  
+[Privacy Policy](https://web.archive.org/privacy.html)
 
 * * *
 
@@ -19,12 +18,15 @@
 
 Your membership is bound by these documents so please read them carefully.
 
-Any questions should be directed to info@benzworld.org and we will reply promptly. 
+Any questions should be directed to info@benzworld.org and we will reply promptly.   
+  
+  
+
 
 * * *
 
   
-[](https://web.archive.org/marketplace/tirerack.asp)
+[](https://web.archive.org/tirerack.html)
 
 [](http://amg-owners-club.org/newweb/default2.html)
 
@@ -48,11 +50,16 @@ BenzWorld.org
 Last Update:  
 November 24, 2003
 
-[Terms of Use](https://web.archive.org/info/termsofuse.asp)  
-[Privacy Policy](https://web.archive.org/info/privacypolicy.asp)  
+[Terms of Use](https://web.archive.org/terms.html)  
+[Privacy Policy](https://web.archive.org/privacy.html)  
   
-   
-|  |  **Privacy Policy**  
+|    
+
+
+* * *
+
+  
+|  **Privacy Policy**  
 ---  
 **What This Privacy Policy Covers**
 
@@ -66,7 +73,7 @@ November 24, 2003
   * BenzWorld.org collects personal information **only** when you register and/or edit your profile with BenzWorld.org.
   * When you register we ask for information such as your name, email address, birth date, gender,  occupation  and personal interests and will be **displayed only** when you choose to.  Once you register with BenzWorld.org and sign in to our services, only the options you select as public will be displayed but you are not anonymous to us.
   * BenzWorld.org automatically receives and records information on our server logs from your browser, including your IP address, BenzWorld.org cookie information, and the page you request.
-  * BenzWorld.org uses information for the following general purposes: to customize the site resouces and content you see, fulfill your requests, improve our services, contact you in case you violate the [Terms of Use](https://web.archive.org/web/20060417203536id_/http%3A//www.benzworld.org/info/termsofuse.asp), to conduct research, and provide anonymous reporting for internal and external clients.
+  * BenzWorld.org uses information for the following general purposes: to customize the site resouces and content you see, fulfill your requests, improve our services, contact you in case you violate the [Terms of Use](https://web.archive.org/terms.html), to conduct research, and provide anonymous reporting for internal and external clients.
 
 
 
@@ -92,5 +99,4 @@ November 24, 2003
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
   * Your BenzWorld Account Information is password-protected.
 
-  
- 
+
