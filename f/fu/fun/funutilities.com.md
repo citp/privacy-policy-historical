@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funutilities.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200632id_/http%3A//www.funutilities.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funutilities.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215152404id_/http%3A//www.funutilities.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # FunUtilities.com
 
