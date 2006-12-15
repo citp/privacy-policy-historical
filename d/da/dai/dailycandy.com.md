@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215550id_/http%3A//dailycandy.com/privacy.jsp%3Fcity%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215200402id_/http%3A//dailycandy.com/privacy.jsp%3Fcity%3D4) for the most accurate reproduction.*
 
 # Privacy Policy - DailyCandy
 
@@ -6,7 +6,7 @@ DailyCandy, Inc. takes very seriously the private nature of your personal inform
 
 ## Personal Information
 
-In order to supply you with your DailyCandy e-mail, we need your e-mail address. Similarly, in order to supply you with text messaging services, we need your phone number and your carrier information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. DailyCandy does not collect any other personal information that you do not expressly provide. DailyCandy will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. DailyCandy may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+In order to supply you with your DailyCandy e-mail, we need your e-mail address. Similarly, in order to supply you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. DailyCandy does not collect any other personal information that you do not expressly provide. DailyCandy will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. DailyCandy may share your personal information for the purpose of delivering our e-mail to you or as required by law.
 
 ## Non-Personal Information
 
