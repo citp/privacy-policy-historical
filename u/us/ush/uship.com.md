@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623104220id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215022717id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
 # uShip - The Online Shipping and Moving Marketplace - Privacy Policy
-
-  [Home](https://web.archive.org/default.aspx) > Privacy Policy  
-
 
 Your privacy is very important to all of us at uShip. We have established this privacy policy to explain to you how your personal information is protected, collected and used. Personal information is information about you that is personally identifiable such as your name, address, phone number, and email address that is not otherwise publicly available.
 
@@ -29,7 +26,7 @@ We automatically track certain information based upon your behavior on the Site.
 
 If you choose to list, bid or match on the Site, we collect information about your activity and behavior. We also collect other users’ comments about you in our feedback area.
 
-Additionally, as part of the registration process, uShip allows members registering as a driver the option to submit certain commercial information such as a commercial driver’s license number, DOT number, Motor Carrier (MC) number, and/or any other authority a driver chooses to include. It is up to each member individually to provide this information and uShip does not verify its validity. This information can be viewed by other members on the member’s profile page under the About Me section.
+Additionally, as part of the registration process, uShip allows members registering as a service provider the option to submit certain commercial information such as a commercial service provider’s license number, DOT number, Motor Carrier (MC) number, and/or any other authority a service provider chooses to include. It is up to each member individually to provide this information and uShip does not verify its validity. This information can be viewed by other members on the member’s profile page under the About Me section.
 
 If you choose to post messages on our Community Discussion Forums, Shipment Listing Q&A boards, or leave feedback for other members, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. See “Community Discussion Forums” section below.
 
@@ -91,7 +88,7 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 **Community Discussion Forums**
 
-If you use a bulletin board on the Site, you should be aware that any personally identifiable information, including your email address, you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. All other information pertaining to the collection and use of information can be found in the [Discussion Forum rules](http://www.uship.com/discussion_rules.aspx).
+If you use a bulletin board on the Site, you should be aware that any personally identifiable information, including your email address, you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. All other information pertaining to the collection and use of information can be found in the [Discussion Forum rules](https://web.archive.org/discussion_rules.aspx).
 
 **Access to Personally Identifiable Information**
 
@@ -122,12 +119,3 @@ Suite 206
 Austin, TX 78701
 
 Last Revised Date: October 21, 2005 
-
-* * *  
-  
----  
-| [about uShip](http://www.uship.com/about.aspx) | [faq](http://www.uship.com/faq.aspx) | [security center](http://www.uship.com/security.aspx) | [refer-a-friend](http://www.uship.com/referrers.aspx) | [eBay users](http://www.uship.com/ebay/) | [directory](http://directory.uship.com/)  
-[support](http://www.uship.com/support.aspx) | [tips, resources & guides](http://www.uship.com/tips) | [affiliates](http://www.uship.com/affiliates.aspx) | [jobs](http://www.uship.com/jobs.aspx) | [site map](http://www.uship.com/sitemap.aspx) | [example listing](http://www.uship.com/uship9957.aspx "Example of a closed listing") |  | [](http://www.bbbonline.org/cks.asp?id=1050815122442) | [](http://www.uship.com/privacy.aspx)  
-  
-Copyright 2006, uShip, Inc. and its licensors. All rights reserved. Trademarks shown are the property of their respective owners.   
-Use of this site constitutes acceptance of the uShip [User Agreement](http://www.uship.com/user_agreement.aspx) and [Privacy Policy](https://web.archive.org/privacy.aspx).
