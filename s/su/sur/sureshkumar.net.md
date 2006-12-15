@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sureshkumar.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614201052id_/http%3A//sureshkumar.net/html/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sureshkumar.net privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215122231id_/http%3A//sureshkumar.net/html/privacy_policy.asp) for the most accurate reproduction.*
 
 # :: WELCOME TO SURESHKUMAR.NET A PLACE TO SHARE KNOWLEDGE ::
 
