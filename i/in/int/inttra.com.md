@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502085428id_/http%3A//www.inttra.com/home2/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215182022id_/http%3A//www.inttra.com/home2/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # INTTRA.com Privacy Policy
 
