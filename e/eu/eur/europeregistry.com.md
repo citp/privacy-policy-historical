@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeregistry.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210843id_/http%3A//europeregistry.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeregistry.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215233838id_/http%3A//www.europeregistry.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # Italy Domain Names | Europe Registry
 
