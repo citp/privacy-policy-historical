@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedmonline.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516081417id_/http%3A//www.thedmonline.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedmonline.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215165255id_/http%3A//www.thedmonline.com/user/privacypolicy) for the most accurate reproduction.*
 
 # Daily Mississippian
 
