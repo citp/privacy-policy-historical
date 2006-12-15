@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522111025id_/http%3A//www.scavengeinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215192740id_/http%3A//www.scavengeinc.com/privacy.php) for the most accurate reproduction.*
 
 # Sexy Costumes by Scavenge
 
