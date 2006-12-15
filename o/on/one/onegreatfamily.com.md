@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314051655id_/http%3A//www.onegreatfamily.com/static-tpls/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215113142id_/http%3A//www.onegreatfamily.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# OneGreatFamily Genealogy, Family Tree and Family History
+# Privacy | OneGreatFamily.com
 
 This is the web site of OneGreatFamily.
 
@@ -8,7 +8,7 @@ Our postal address is:
 743 West 1200 North Suite 100  
 Springville, UT 84663
 
-We can be reached through our contact form [here](http://www.onegreatfamily.com/contact.pl). 
+We can be reached through our contact form. 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name. We collect the domain name and e-mail address (where possible) of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
 
@@ -26,4 +26,5 @@ Upon request we provide site visitors with access to contact information (e.g., 
 
 With respect to security: All sensitive information such as phone numbers, credit card information, names, and addresses are transferred using a secure server connection. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses.   
+
