@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616010329id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215165409id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -29,7 +29,7 @@
 [Keyword Generator](https://web.archive.org/keywordgenerator.html)  
 [Web page Link Check](https://web.archive.org/link_checker.html)
 
-[ ](http://www.kqzyfj.com/jc102kjspjr68DD9C9A6G9CC8AF)
+[ ](http://www.tkqlhce.com/4c106iqzwqyDFKKGJGHDFEIHMEKM)
 
 [SEO Resources](https://web.archive.org/tools.html)  
 [Search The Web](https://web.archive.org/searchengine.html)  
