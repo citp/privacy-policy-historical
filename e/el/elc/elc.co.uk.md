@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615063933id_/http%3A//www.elc.co.uk/page-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215104043id_/http%3A//www.elc.co.uk/page-6) for the most accurate reproduction.*
 
 # Privacy Policy - Early Learning Centre
 
@@ -8,7 +8,7 @@ Are my personal details kept private?
 
 Why does ELC need so much information from me when I order?
 
-[What about entering competitions?](https://web.archive.org/web/20060615063933id_/http%3A//www.elc.co.uk/competitions)
+[What about entering competitions?](https://web.archive.org/web/20061215104043id_/http%3A//www.elc.co.uk/competitions)
 
 Why would I want to sign up, or set up an account at elc.co.uk?
 
@@ -72,7 +72,7 @@ back to top
 
 We use the latest technology to ensure that all your personal and credit card details remain completely confidential. 
 
-[Read more about our Security policy here](http://elc.exaliahosting.com/page-4)
+[Read more about our Security policy here](http://www.elc.co.uk/page-4)
 
 back to top
 
