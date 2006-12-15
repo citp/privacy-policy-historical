@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616135917id_/http%3A//www.filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215164401id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
 
 # FILExt Privacy Statement
 
