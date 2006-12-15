@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053210id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215073754id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # PayCycle Privacy Policy for Online Payroll Service
 
