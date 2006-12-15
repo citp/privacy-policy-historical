@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubflyers.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630071338id_/http%3A//www.clubflyers.com/privacy.php%3FosCsid%3D744244f4db9d7df23aa8aa109b0dc9b2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubflyers.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215191858id_/http%3A//www.clubflyers.com/privacy.php%3FosCsid%3D21aa624081b71219f848a1ca1103d78b) for the most accurate reproduction.*
 
 # CLUBFLYERS.com
 
