@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506055520id_/http%3A//www.veteranstoday.com/gate.html%3Fname%3DMission) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215112624id_/http%3A//www.veteranstoday.com/gate.html%3Fname%3DMission) for the most accurate reproduction.*
 
-# Veterans - Mission
+# Veterans Today - U.S. Military Veterans - VA Home Loans, Vet Jobs, VA Benefits, VA Hospitals, VA Administration - Mission
 
 |    
 | | 
