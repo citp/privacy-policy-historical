@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinmovies.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214012321id_/http%3A//www.lifeinmovies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinmovies.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215202602id_/http%3A//www.lifeinmovies.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
