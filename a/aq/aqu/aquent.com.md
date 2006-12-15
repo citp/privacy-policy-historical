@@ -1,75 +1,43 @@
-> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318124809id_/http%3A//www.aquent.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215113133id_/http%3A//www.aquent.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Aquent: Privacy Policy
+# Aquent :: Privacy Policy
+
+|   |  |  | 
+
+_Last Updated: December 3, 2004_
 
 Aquent is committed to safeguarding the privacy of the Users of its Web site. This Privacy Policy sets forth Aquent’s policies regarding the collection and treatment of personally identifiable information. 
 
-“Site” refers to this Internet Web site ([ www.Aquent.com](http://www.aquent.com/)) and other Aquent Web sites linked to this Site. The Site acts as a venue for delivery of Aquent applications (listed here by way of example only) for 1) individuals currently working with Aquent (i.e., “active Users”) to interact with Aquent’s database and enter timecards, create and manage their Aquent Profiles, check benefits information, view schedules and assignment information, and process other information; 2) Aquent to process orders, send newsletters, perform customer service; qualify candidates for possible employment; 3) Aquent’s clients to search portfolios, run financial reports, sign timecards; and 4) members of the public to receive marketing campaigns and inquiries. 
+“Site” refers to this Internet Web site ([www.Aquent.com](http://www.aquent.com/)) and other Aquent Web sites linked to this Site. The Site acts as a venue for delivery of Aquent applications (listed here by way of example only) for 1) individuals currently working with Aquent (i.e., “active Users”) to interact with Aquent’s database and enter timecards, create and manage their Aquent Profiles, check benefits information, view schedules and assignment information, and process other information; 2) Aquent to process orders, send newsletters, perform customer service; qualify candidates for possible employment; 3) Aquent’s clients to search portfolios, run financial reports, sign timecards; and 4) members of the public to receive marketing campaigns and inquiries. 
 
-What personally identifiable information is collected on the Site?   
-  
-| 
-
-In the course of its registration process, Aquent collects certain personally identifiable information. Personally identifiable information is information that can be traced back to a single User. Names, physical addresses, and e-mail addresses are examples of personally identifiable information.
+|  What personally identifiable information is collected on the Site?   
+---  
+|  In the course of its registration process, Aquent collects certain personally identifiable information. Personally identifiable information is information that can be traced back to a single User. Names, physical addresses, and e-mail addresses are examples of personally identifiable information.
 
 Certain additional information is also collected in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and Web site. This information includes a User’s originating domain, time of visit, connection speed, domain names, and Internet service provider. This information is not personally identifiable information and there is no attempt to correlate such information to an individual User.   
   
 How is the information collected and maintained?   
-  
-| 
-
-Any personally identifiable information collected by Aquent is provided directly by Users in the course of the registration process or in connection with updating such information. Such information is password protected. Active Users can contact Aquent to update the content and accuracy of their personally identifiable information; however, Aquent may retain in backup or inactive files the uncorrected or outdated form of data that is corrected or updated. Such data may be retained for several reasons, including backups for disaster recovery planning, dispute resolution purposes, troubleshooting, and enforcement of agreements. Aquent reserves the right to correct personally identifiable data to make it current and consistent with data directly input by Users, for example, when the User updates his/her address on his/her resume but not elsewhere.
+|  Any personally identifiable information collected by Aquent is provided directly by Users in the course of the registration process or in connection with updating such information. Such information is password protected. Active Users can contact Aquent to update the content and accuracy of their personally identifiable information; however, Aquent may retain in backup or inactive files the uncorrected or outdated form of data that is corrected or updated. Such data may be retained for several reasons, including backups for disaster recovery planning, dispute resolution purposes, troubleshooting, and enforcement of agreements. Aquent reserves the right to correct personally identifiable data to make it current and consistent with data directly input by Users, for example, when the User updates his/her address on his/her resume but not elsewhere.
 
 This Site and all information collected through this Site is collected, stored, and processed in the United States . If Users are located outside of the United States, User information will be transferred to the United States and to countries in such other regions where the User indicated he/she would like to be considered for an assignment.   
   
-| 
-
-Users have access to their individual information and may update or correct it at any time. Users may “opt out” of having their personally identifiable information used in Aquent promotions in the following ways: (1) by terminating their registration with the Site by e-mailing [ privacy@aquent.com](mailto:privacy@aquent.com); (2) by calling 877-754-5526; or (3) by unsubscribing on the Preference Page at [ http://www.aquent.com/marketing/unsubscribe.html](http://www.aquent.com/marketing/unsubscribe.html) .   
-  
+How can Users Opt Out?  
+|  Users have access to their individual information and may update or correct it at any time. Users may “opt out” of having their personally identifiable information used in Aquent promotions in the following ways: (1) by terminating their registration with the Site by e-mailing [ privacy@aquent.com](mailto:privacy@aquent.com); (2) by calling 877-754-5526; or (3) by unsubscribing on the Preference Page at [ http://www.aquent.com/marketing/unsubscribe.html](http://www.aquent.com/marketing/unsubscribe.html).   
 Will Aquent use personally identifiable information to contact Users?   
-  
-| 
-
-From time to time, Aquent will send Site and service announcement updates to Users by e-mail. Active Users may unsubscribe from marketing and promotional e-mails, but they may not unsubscribe from service announcements, which contain important information about the Site and service. In addition, Aquent may request individuals to complete questionnaires or surveys regarding their use of the Site to be used by Aquent solely to gather information to assist it in improving Aquent’s services or the navigation features and functionality of the Site. Participation in such surveys is voluntary.   
-  
+|  From time to time, Aquent will send Site and service announcement updates to Users by e-mail. Active Users may unsubscribe from marketing and promotional e-mails, but they may not unsubscribe from service announcements, which contain important information about the Site and service. In addition, Aquent may request individuals to complete questionnaires or surveys regarding their use of the Site to be used by Aquent solely to gather information to assist it in improving Aquent’s services or the navigation features and functionality of the Site. Participation in such surveys is voluntary.   
 Is the information shared and/or transferred?   
-  
-| 
-
-Personally identifiable information will not be transferred or sold to third parties. Third parties are defined here as entities not related to Aquent or its Web site. For purposes of this Privacy Policy, Aquent’s clients are considered Users, and entities with which Aquent partners for special projects or initiatives are provided with the minimum amount of information needed for the purpose of accomplishing their tasks. For example, e-mail addresses may be provided to mail processing firms as part of programs intended to promote Aquent. Information regarding the professional background of individual registrants or on-line applicants may be shared with clients who may consider utilizing such individuals. Notwithstanding the foregoing, Aquent will divulge personally identifiable information to law enforcement agencies or other governmental agencies when required to do so or when Aquent in good faith believes it is necessary in order to comply with legal obligations. In addition, in the event that Aquent or substantially all of its assets are acquired or merged into another entity, personally identifiable information may be transferred to the successor in interest.   
-  
+|  Personally identifiable information will not be transferred or sold to third parties. Third parties are defined here as entities not related to Aquent or its Web site. For purposes of this Privacy Policy, Aquent’s clients are considered Users, and entities with which Aquent partners for special projects or initiatives are provided with the minimum amount of information needed for the purpose of accomplishing their tasks. For example, e-mail addresses may be provided to mail processing firms as part of programs intended to promote Aquent. Information regarding the professional background of individual registrants or on-line applicants may be shared with clients who may consider utilizing such individuals. Notwithstanding the foregoing, Aquent will divulge personally identifiable information to law enforcement agencies or other governmental agencies when required to do so or when Aquent in good faith believes it is necessary in order to comply with legal obligations. In addition, in the event that Aquent or substantially all of its assets are acquired or merged into another entity, personally identifiable information may be transferred to the successor in interest.   
 Does the Site use cookies?   
-  
-| 
-
-Cookies are required by Aquent to verify an individual User’s access to specific areas of the Site. When a User logs in, a cookie is written to the User’s browser containing information that identifies that particular session. This information is sent to our Site during the course of the User’s navigation of the Site. Cookies, or information contained in a cookie, are not shared with any other Web site or third party.   
-  
+|  Cookies are required by Aquent to verify an individual User’s access to specific areas of the Site. When a User logs in, a cookie is written to the User’s browser containing information that identifies that particular session. This information is sent to our Site during the course of the User’s navigation of the Site. Cookies, or information contained in a cookie, are not shared with any other Web site or third party.   
 Does the Site use log files?   
-  
-| 
-
-When Users visit the Site, they automatically disclose certain information to our server, such as Internet Protocol (IP) addresses. Aquent uses IP addresses to analyze trends in Site usage, administer the Site, track a User’s movement through the Site, and gather broad demographic information for use on an aggregate basis. IP addresses and other similar information collected through log files are not associated with individual Users, nor does Aquent make any effort to identify Users from their IP addresses.   
-  
+|  When Users visit the Site, they automatically disclose certain information to our server, such as Internet Protocol (IP) addresses. Aquent uses IP addresses to analyze trends in Site usage, administer the Site, track a User’s movement through the Site, and gather broad demographic information for use on an aggregate basis. IP addresses and other similar information collected through log files are not associated with individual Users, nor does Aquent make any effort to identify Users from their IP addresses.   
 What type of security is employed by the Site?   
-  
-| 
-
-Aquent takes reasonable measures to protect the information collected through the Site. Some information gathered on the Site is encrypted and protected with secure sockets layer (SSL) encryption. Where Aquent deems the encryption unnecessary, Users are so informed. On the MyAquent site, in particular, Users are prompted to select or not select encryption. Only the individual User and Aquent personnel (solely on a need-to-know basis) have access to such information. All information collected from Users by Aquent is stored on servers hosted in a physically secure environment. Questions about the security of the Site should be directed to [questions@aquent.com](mailto:questions@aquent.com). Notwithstanding the foregoing, Users should keep in mind that this Site and the Aquent services are run on software, hardware, and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security. Users are required to keep their Aquent passwords confidential. Aquent is not responsible for misuse of passwords. Please advise Aquent immediately if you believe your password has been compromised.   
-  
+|  Aquent takes reasonable measures to protect the information collected through the Site. Some information gathered on the Site is encrypted and protected with secure sockets layer (SSL) encryption. Where Aquent deems the encryption unnecessary, Users are so informed. On the MyAquent site, in particular, Users are prompted to select or not select encryption. Only the individual User and Aquent personnel (solely on a need-to-know basis) have access to such information. All information collected from Users by Aquent is stored on servers hosted in a physically secure environment. Questions about the security of the Site should be directed to [questions@aquent.com](mailto:questions@aquent.com). Notwithstanding the foregoing, Users should keep in mind that this Site and the Aquent services are run on software, hardware, and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security. Users are required to keep their Aquent passwords confidential. Aquent is not responsible for misuse of passwords. Please advise Aquent immediately if you believe your password has been compromised.   
 Is the Site connected to other Web sites by links?   
-  
-| 
-
-Aquent may provide links to the Web sites of a limited number of third parties. In addition, clients and providers may also provide links to their Web sites. Aquent is not responsible for the content, reliability, security, or privacy practices of these Web sites. This Privacy Policy applies solely to this Site.   
-  
+|  Aquent may provide links to the Web sites of a limited number of third parties. In addition, clients and providers may also provide links to their Web sites. Aquent is not responsible for the content, reliability, security, or privacy practices of these Web sites. This Privacy Policy applies solely to this Site.   
 How are Users notified of changes in the Policy?   
-  
-| 
-
-From time to time, Aquent may update this Privacy Policy by posting a revised Policy on this Web page with date of most recent update visible. Aquent also will post a Policy update notice on the Site’s home page. Changes to the Policy will take effect upon posting. Users who are unwilling to accept such changes may “opt out” by terminating their registration with the Site.   
-  
+|  From time to time, Aquent may update this Privacy Policy by posting a revised Policy on this Web page with date of most recent update visible. Aquent also will post a Policy update notice on the Site’s home page. Changes to the Policy will take effect upon posting. Users who are unwilling to accept such changes may “opt out” by terminating their registration with the Site.   
 How can Aquent be contacted about questions regarding this Privacy Policy?   
+|  Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by e-mail at [privacy@aquent.com](mailto:privacy@aquent.com) or by telephone, toll-free, at 877-754-5526.   
   
-| 
-
-Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by e-mail at [privacy@aquent.com](mailto:privacy@aquent.com) or by telephone, toll-free, at 877-754-5526. 
+|  | 
