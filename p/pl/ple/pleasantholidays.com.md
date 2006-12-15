@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210160256id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215022245id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -89,12 +89,11 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 
 |   
 ---  
+| [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
+ | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
+[Site Features](https://web.archive.org/web/20061215022245id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html) | [Hawaii/Mexico/USA](https://web.archive.org/web/20061215022245id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=HawaiiMexicoUSA.html)  
+[Tahiti/Fiji/Australia/New Zealand](https://web.archive.org/web/20061215022245id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AustraliaSouthPacific.html) | [Asia/Other Destinations/Cruises](https://web.archive.org/web/20061215022245id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AsiaOtherDestCruises.html)  
   
- **Call 1-800-742-9244**
-
-| Contact Us  
- | Security and Privacy  
+ 1999-2006 Pleasant Holidays, LLC. All rights reserved.  
   
- 1999-2004 Pleasant Holidays, LLC. All rights reserved.  
-  
-SessionId: an6FU84s9Jy61WVlPqLR95c| [](http://www.nurun.com/)
+SessionId: 0001D9IGLRFOm2BRBkMvncD3ww6:vuuqkkfp| [](http://www.nurun.com/)
