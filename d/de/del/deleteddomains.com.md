@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214842id_/http%3A//www.deleteddomains.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215033907id_/http%3A//www.deleteddomains.com/privacy.php) for the most accurate reproduction.*
 
 # - Expired/Dropped/Deleted Domain Names Every Day
 
