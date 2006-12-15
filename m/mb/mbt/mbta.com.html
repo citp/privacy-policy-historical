@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mbta.com privacy policy that was archived on 2006-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629215700id_/http%3A//www.mbta.com/footer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbta.com privacy policy that was archived on 2006-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215025701id_/http%3A//www.mbta.com/footer/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><title>MBTA</title><!-- Site created by Internet Technologies Group, Inc. See us at http://www.itg.net/ for a complete Internet solution. -->
 
@@ -52,7 +52,6 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 function jumpPage(newLoc)
 {
 	newPage = newLoc.options[newLoc.selectedIndex].value;
-	alert(newPage)
 	if(newPage != "") {
 		if(newPage.indexOf("http://")>=0) {
 			newwin(newPage);
@@ -61,6 +60,12 @@ function jumpPage(newLoc)
 			window.location.href = newPage;
 		}
 	}
+}
+
+function jumpPage_boat(newLoc)
+{
+	newPage = newLoc.options[newLoc.selectedIndex].value;
+			window.location.href = newPage;
 }
 
 function jumpPage_url(newLoc)
@@ -923,7 +928,7 @@ And How To Remove Your Information From Our Database</a>
 	<td><a href="#" onmouseover="setTimeout('contactmenu_off()',menuDelay); activeMenu='';"><img src="/homeimages/spacer.gif" width="75" height="43" border="0" alt=" &nbsp; "></a></td>
 	<td><a href="/contact_us/customerbill.asp" onmouseover="MM_swapImage('top_customer',' ','/homeimages/navis/nav_customer_over.gif',1); activeMenu='contactmenu';" onmouseout="MM_swapImgRestore();"><img alt="Customer Bill of Rights" name="top_customer" src="/homeimages/navis/nav_customer.gif" border="0" width="147" height="14"></a><br>
 		<a href="/contact_us/write.asp" onmouseover="MM_swapImage('top_write',' ','/homeimages/navis/nav_write_over.gif',1); activeMenu='contactmenu';" onmouseout="MM_swapImgRestore();"><img alt="Write to the Top" name="top_write" src="/homeimages/navis/nav_write.gif" border="0" width="147" height="12"></a><br>
-		<a href="/contact_us/onlinereply.asp" onmouseover="MM_swapImage('top_ontime',' ','/homeimages/navis/nav_ontime_over.gif',1); activeMenu='contactmenu';" onmouseout="MM_swapImgRestore();"><img alt="On Time Service Reply Form" name="top_ontime" src="/homeimages/navis/nav_ontime.gif" border="0" width="147" height="12"></a><br>
+		<a href="/contact_us/onlinereply.asp" onmouseover="MM_swapImage('top_ontime',' ','/homeimages/navis/nav_ontime_over.gif',1); activeMenu='contactmenu';" onmouseout="MM_swapImgRestore();"><img alt="On Time Service Guarantee" name="top_ontime" src="/homeimages/navis/nav_ontime.gif" border="0" width="147" height="12"></a><br>
 		<a href="/contact_us/contactus_usingthet_phone_numbers.asp" onmouseover="MM_swapImage('top_phonenumbers',' ','/homeimages/navis/nav_phonenumbers_over.gif',1); activeMenu='contactmenu';" onmouseout="MM_swapImgRestore();"><img alt="Useful Phone Numbers" name="top_phonenumbers" src="/homeimages/navis/nav_phonenumbers.gif" border="0" width="147" height="12"></a><br>
 		<a href="/contact_us/publicmeetings.asp" onmouseover="MM_swapImage('top_publicmeeting',' ','/homeimages/navis/nav_publicmeeting_over.gif',1); activeMenu='contactmenu';" onmouseout="MM_swapImgRestore();"><img alt="Public Meetings" name="top_publicmeeting" src="/homeimages/navis/nav_publicmeeting.gif" border="0" width="147" height="17"></a></td>
 </tr>
