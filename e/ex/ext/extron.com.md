@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621221617id_/http%3A//extron.com/company/archive.asp%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215081857id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
 
 |   
 
 
-[ ](https://web.archive.org/company/archive.asp?id=iso9001_do)
+[ ](https://web.archive.org/company/article.aspx?id=iso9001_do)
 
 |  |  | 
 
