@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.my privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427213138id_/http%3A//www.standardchartered.com.my/home/datapp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.my privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215223027id_/http%3A//www.standardchartered.com.my/home/datapp.html) for the most accurate reproduction.*
 
 # Standard Chartered Bank - Disclaimer
 
@@ -40,7 +40,9 @@ Legal & Compliance Division
 Level 16, Menara Standard Chartered  
 No. 30, Jalan Sultan Ismail,  
 50320 Kuala Lumpur  
-Malaysia.
+Malaysia. 
+
+Or email us at [Malaysia.Feedback@my.standardchartered.com](mailto:malaysia.feedback@my.standardchartered.com)
 
 **COPYRIGHT © STANDARD CHARTERED PLC 2006. ALL RIGHTS RESERVED.**
 
