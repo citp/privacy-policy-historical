@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222202id_/http%3A//www.ezlinks.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215100135id_/http%3A//ezlinks.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
