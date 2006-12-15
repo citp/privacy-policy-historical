@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623015731id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215162936id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
 
-# Perfume Emporium - Cheap prices for perfume, cologne, and skin care!
+# Perfume Emporium - Cheap Perfume, Cologne, and Skin Care!
 
 **Perfume Emporium** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Perfume Emporium. 
 
