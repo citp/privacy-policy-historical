@@ -1,24 +1,7 @@
-> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614235103id_/http%3A//www.agorafinancial.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215120810id_/http%3A//www.agorafinancial.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| |   
----|---  
-[](https://web.archive.org/Index.html)[](https://web.archive.org/aboutus.html)[](http://www.dailyreckoning.com/Media/PressReleases.html)[](https://web.archive.org/newsletters.html)[](https://web.archive.org/premiumservices.html)[](https://web.archive.org/freeservices.html)| 
-
-[](https://web.archive.org/events.html)[](http://www.invest-store.com/dailyreckoning/ "AGORA Financial / Daily Reckoning Bookstore")[](https://web.archive.org/Search.html)[](https://web.archive.org/contactus.html)  
-  
-| 
-
-[](https://web.archive.org/AFsecure/afwelcome.html)  
-
-
-To access your subscriptions, please log in above,  
-or click on the appropriate service in the lower right-hand corner.
-
-| AGORA Financial Privacy Policy  
----  
-  
 TERMS OF USE -- THIS IS IMPORTANT -- PLEASE READ
 
 THE _AGORA FINANCIAL_ WEBSITE REQUIRES CONSIDERATION FOR AND AS A CONDITION OF ALLOWING YOU ACCESS. READING AND ACCEPTING THE TERMS OF USE AND READING AND ACCEPTING THE PROVISIONS OF THE  _AGORA FINANCIAL_  PRIVACY POLICY ARE REQUIRED CONSIDERATIONS FOR GRANTING YOU THE RIGHT TO VISIT, READ OR INTERACT WITH IT.
@@ -104,59 +87,4 @@ Aliases are completely acceptable--but only as long as they are unique and not m
 
 We reserve the right to remove any messages from the board for any reason whatsoever. We prohibit or strongly discourage: advertisements to buy or sell securities, promotions and advertisements of any type and links thereto, impersonating another person, unnecessary profanity, ludicrous and thoroughly discredited conspiracy theories, and personal attacks. However, we cannot be held responsible for any claims made on our Discussion Board.
 
-Enjoy the ride!  
-  
- **Please log in**  
-  
- **June  2006 _:_** [An Empire’s Last Gasps](https://web.archive.org/AgoraFinForums/MainArticles/AFF0606.html)  
-Aug. 24, 410… and Nov. 14, 2005. They may sound like random dates, but both are particularly important to remember if you want to make good investment choices today.Of course, unless you’re a scholar, the first date probably doesn’t mean anything to you. But to the ancient world, it meant everything. Some might consider it the first Day of Infamy — a day everything changed.  
-  
-[A Scenario for Pandemic](https://web.archive.org/AgoraFinForums/TradersSpotlight/ts0506.html)  
-Normally, bird flu only infects birds. It does so by attaching to their intestinal cells. But mutation can enable the flu to infect humans and other mammals by attaching to cells in the respiratory tract. …
-
-  
-
-
-* * *  
-  
-|   
----  
-  
-Once open only to insiders, the Agora Financial Reserve is now open to you -- but for a limited time only.
-
-If you are accepted as an Agora Financial Reserve member, you will have access to Agora Financial’s finest analysts, research, books, reports, conferences and 10 trading services and advisories. You will learn how to make as much money as you wish - for as long as you like. You’ll have all the tools you need to make sure you retire wealthy. You'll never have to miss a profitable recommendation from Agora Financial again. Even your   
-children and grandchildren can be wealthy before they even graduate from college.
-
-Membership to the Reserve is strictly limited.
-
-For more information, [click here.](https://web.archive.org/AFR03.html)  
-  
-|   
----  
-  
-| [Immigration, Demographics, and Your Livelihood, Part I](http://www.dailyreckoning.com/Issues/2006/DRUS061406.html)  
----  
-_by Harry Dent and Rodney Johnson_ "With few exceptions, such as, say, the Amish, immigrant families leave the ethnic ghettos and join the cultural mainstream within a generation or two, speaking English, swiping credit cards..."  
-  
-  
-
-
-| [Ethanol Redux](http://www.pennysleuth.com/issues/06.12.06.html)  
----  
-_By Greg Guenthner_ "...The first half of 2006 has been generous to ethanol stocks. Even during the ups and downs of the recent nervous market, these alternative energy outfits have preserved much of their earlier gains..."  
-  
-  
-  
-  
-| [Helplessly Hoping](http://www.the-rude-awakening.com/RAissues/2006/march/RA061406.html)  
----  
-_By Eric J Fry_ "Recent market action has crushed the life out of many of us investor-ants...or at least crushed the optimism out of us. Perhaps, therefore, buying opportunities are drawing near."  
-  
-  
-
-
-| [Let's Go International](http://www.whiskeyandgunpowder.com/Archives/20060613.html)  
----  
-_By Mike Shedlock_ "...I remain amazed at the number of people that think, 'It can't happen here.' They said the same thing in Florida, in Las Vegas, in Boston, and in San Diego..."  
-  
-| | 
+Enjoy the ride!
