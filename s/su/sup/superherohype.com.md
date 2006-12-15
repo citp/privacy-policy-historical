@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195342id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215183231id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
 
 # Superhero Hype! - Privacy Statement
 
@@ -34,7 +34,7 @@ This website makes message boards available to its users. Please remember that a
 
 #### Security
 
-This website has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may [contact us](https://web.archive.org/web/20060615195342id_/http%3A//www.superherohype.com/contact.php). 
+This website has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may [contact us](https://web.archive.org/web/20061215183231id_/http%3A//www.superherohype.com/contact.php). 
 
 ** Choice/Opt-Out **
 
@@ -42,5 +42,5 @@ Our website provides users with the opportunity to opt-out of receiving communic
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can [contact us](https://web.archive.org/web/20060615195342id_/http%3A//www.superherohype.com/contact.php). _  
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can [contact us](https://web.archive.org/web/20061215183231id_/http%3A//www.superherohype.com/contact.php). _  
 _
