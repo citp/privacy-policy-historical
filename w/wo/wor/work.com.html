@@ -1,514 +1,415 @@
-<!--The following is the downloaded HTML source of the work.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615203847id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the work.com privacy policy that was archived on 2006-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215025432id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><head>
-
-<title>Business.com Privacy Policy</title>
-
-<link rel="stylesheet" href="/_css/bdc.css">
-
-
-
-<script language="javascript">
-function sticky(type) {
-	q = trim(document.forms.b.query.value);
-	location.href="/search/rslt_default.asp?vt=all&type=" + type + "&query=" + escape(q);
-	return false;
-}
-
-function trim(str) {
- regexp = /^[\s]+|[\s]+$/g
- str = str.replace(regexp, "")
- return str;
-}
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+   <title>Privacy Policy | Work.com</title>
+   <script language="javascript" type="text/javascript" src="/include/dir.js"></script>
+   <script language="javascript" type="text/javascript" src="/js/bdcac.js"></script>
+   
+   <link rel="stylesheet" href="/_css/work2.css">
+   
+   <meta name="DESCRIPTION" content="Work.com helps small business owners solve their most pressing management problems, from improving search engine marketing for their ecommerce Web site to using the Internet to get everything from business cards or office furniture.">
+   
 
 </head>
 
-<body bgcolor="#ffffff" marginwidth="10" leftmargin="10" marginheight="9" topmargin="9">
-<a name="top"></a>
+
+<body onload="init()" topmargin="16" marginheight="16" leftmargin="0" marginwidth="0">
+
+<center>
 
 
+<table border="0" width="781" cellpadding="0" cellspacing="0">
+<tbody><tr><td colspan="3" height="8"><br class="br8"></td></tr>
+<tr>
+<td width="779" align="center">
+<table border="0" width="97%" cellpadding="0" cellspacing="0">
+<tbody><tr><form name="search" action="/search/search.asp" method="get" id="search"></form>
+<td width="276"><a href="/" onclick="return go2Cat(this.href, 'w.nav.20', 1, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')"><img src="/gfx/beta_head2.gif" border="0"></a></td>
 
-<link rel="stylesheet" href="/_css/styles_15.css">
-<script language="javascript" src="/search/bdcsearch.js"></script>
-<script language="JavaScript">
-<!--
-
-function openWindow(url, name) {
-  popupWin = window.open(url, name, 'dependent=1,status=0,copyhistory=0,directories=0,location=0,menubar=0,resizeable=0,scrollbars=yes,width=450,height=250')
-}
-
-function goThere(rdurl) {
-    location.href=rdurl;
-    return false;
-}
-
-function goThere2(rdurl,bdcz,dirurl,href)
-{
-    vURL=rdurl;
-    //ticker="";
-    //if (bdcz.substring(bdcz.length - 1,bdcz.length) == 'e')
-    //{
-    //	location.href = "/bdcframe.asp?ticker=" + ticker + "&src=" + escape(vURL) + "&back=" + escape(location.href) + "&path="+dirurl;
-    //}
-    //else {
-  	window.open(vURL);
-    //}
-    return false;
-}
-function sticky(type,form) {
-    form.type.value = type;
-    form.submit();
- return false;
-}
-
-//-->
-</script>
-<script>
-
-function s1(el, type) 
-{
-	if (window.RegExp && window.encodeURIComponent) 
-	{
-		
-		//alert('type='+type);
-		
-		
-		
-		
-		if (document.b.query!=null)
-		{
-			//alert('dd');
-			//alert(document.b.query.value.length);
-			if (document.b.query.value.length<1)
-			{
-				//alert(document.b.query.value.length);
-				location.href="/search/index_"+type+".asp";
-				return false;
-			}
-			else
-			{
-				var qe=encodeURIComponent(document.b.query.value);
-				
-				if (el.href.indexOf("query=")!=-1) 
-				{
-					el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
-				} 
-				else 
-				{
-					el.href+="&query="+qe;
-				}
-			}
-		}
-		else //when query object is null
-		{
-			//alert('1');
-			if (type=='web' || type =='news')
-			{
-				//alert('2');
-				if (document.b.last!=null && document.b.first!=null)
-				{
-					if (document.b.last.value.length>0 && document.b.first.value.length>0)
-					{
-						var qe=encodeURIComponent(document.b.first.value+" "+document.b.last.value);
-					        
-						if (el.href.indexOf("query=")!=-1) 
-						{
-							el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
-						} 
-						else 
-						{
-							el.href+="&query="+qe;
-						}
-						return 1;
-					}
-				} 
-			}
-			location.href="/search/index_"+type+".asp";
-			return false;
-		
-		}
-		
-		
-	}
-	
-	return 1;
-}
-function s2(el, type) 
-{
-	if (type=='jobs')
-	{
-		top.location.href="/search/index_jobs.asp";
-		return false;
-	}
-	
-	if (window.RegExp && window.encodeURIComponent) 
-	{
-		
-		//alert('type='+type);
-		
-		
-		
-		
-		if (document.b.query!=null)
-		{
-			//alert('dd');
-			//alert(document.b.query.value.length);
-			if (document.b.query.value.length<1)
-			{
-				//alert(document.b.query.value.length);
-				top.location.href="/search/index_"+type+".asp";
-				return false;
-			}
-			else
-			{
-				var qe=encodeURIComponent(document.b.query.value);
-				
-				if (el.href.indexOf("query=")!=-1) 
-				{
-					el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
-				} 
-				else 
-				{
-					el.href+="&query="+qe;
-				}
-				top.location.href=el.href;
-			        return false;
-			}
-		}
-		else //when query object is null
-		{
-			//alert('1');
-			if (type=='web' || type =='news')
-			{
-				//alert('2');
-				if (document.b.last!=null && document.b.first!=null)
-				{
-					if (document.b.last.value.length>0 && document.b.first.value.length>0)
-					{
-						var qe=encodeURIComponent(document.b.first.value+" "+document.b.last.value);
-					        
-						if (el.href.indexOf("query=")!=-1) 
-						{
-							el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
-						} 
-						else 
-						{
-							el.href+="&query="+qe;
-						}
-						top.location.href=el.href;
-						return false;
-					}
-				} 
-			}
-			top.location.href="/search/index_"+type+".asp";
-			return false;
-		
-		}
-		
-		
-	}
-	
-	return 1;
-}
-
-
-
-</script>
-
-
-
-<style type="text/css">
-.hide { position:absolute; visibility:hidden; }
-.show { position:absolute; visibility:visible; }
-</style>
-
-
-
-
-
-
-
-<!-- PAGE HEADER BEGIN -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
- <tbody><tr>
-  <td width="200" valign="bottom"><a target="_top" href="http://www.business.com" onclick="return go2Cat(this.href, 's.nav.0', 1, 'FD9845FA-668E-44AF-B044-E4AAFDDEB46520066154913400_alpha', '', 'http://rd.business.com/index.asp?')"><img src="/images/logo_business.gif" width="200" height="22" border="0" alt="Business.com Search Engine and Directory for Business Information"></a></td>
-
-  <td valign="bottom"><img src="/images/tagline_business.gif" width="170" height="18" border="0"></td>
-  <td>
-
-  </td>
-  <td align="right">
-   <table border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-     <td colspan="2" align="right" nowrap="">
-     <div id="ancil"><a href="/info/advertisewithus.asp?mkt=bdc.dir.header"><b>Advertiser Center</b></a> | <a href="/info/searchtips.asp">Help</a></div>
-
-      <br class="br2">
-      <div id="ancil_searches">More Searches: <a href="/search/rslt_default.asp?vt=all&amp;search=search&amp;type=news&amp;query=" onclick="return s1(this,'news');" id="aNews">News</a> <a href="/search/index_people.asp" id="aPpl">People</a></div>
-    </td></tr>
-   </tbody></table>
-  </td>
- </tr>
-</tbody></table>
-
-<br class="br6">
-<div id="phdr_bg1"><br class="br1"></div>
-<div id="phdr_bg2">
- <table border="0" cellspacing="0" cellpadding="0">
-  <form action="/search/rslt_default.asp" method="get" name="b" target="_top"></form>
-  <input type="hidden" name="vt" value="all">
-  <tbody><tr>
-   <td><div id="phdr">Search the Business Internet ® </div></td>
-   <td><div id="phdr"><input name="query" type="text" size="55" value=""><input type="hidden" name="type" value="web"></div></td>
-   <td><div id="phdr"><input type="submit" value="Search"></div></td>
-  </tr>
-  
- </tbody></table>
+<td valign="top" align="right">
+<div class="gnav2" style="padding-bottom:3px;">
+   <a href="/taskonomy/" onclick="return go2Cat(this.href, 'w.nav.23', 2, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Browse All Guides</a> &nbsp;
+   <a rel="nofollow" href="http://members.work.com/w/GuideSuggestion.do?topicId=&amp;pagePath=" onclick="return go2Cat(this.href, 'w.nav.23', 3, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Suggest a Guide</a> &nbsp;
+   <a rel="nofollow" href="http://members.work.com/CreateGuideSplash.do" onclick="return go2Cat(this.href, 'w.nav.23', 4, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Write a Guide</a> &nbsp;
+   <a rel="nofollow" href="http://members.work.com/lb/MostPopular.do" onclick="return go2Cat(this.href, 'w.nav.23', 4, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Top Guides &amp; Experts</a>
 </div>
-<br class="br4">
-<!-- PAGE HEADER END -->
-
-
-
-
-
-<table cellspacing="0" cellpadding="2" border="0" width="100%">
-	<tbody><tr>
-		<td><font face="arial" size="4" color="#CC6600"><b>Privacy Policy</b></font></td>
-		<td align="right"><font face="arial" size="2"><!-- 30px space - replace table w/ sponsorship logo --><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="30"></td></tr></tbody></table><!-- sponsored by logo --></font></td>
-	</tr>
-	<tr bgcolor="#99CCFF">
-		<td colspan="2"><table cellspacing="0" cellpadding="0" border="0" width="10"><tbody><tr><td height="1"></td></tr></tbody></table></td>
-	</tr>
-</tbody></table>
-
-<p>
-
-
-<!--End Global Navigation-->
-
-
-<!--Start Main Content Table-->
-
-
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-
-<tbody><tr>
-
-
-<td width="100%" valign="top">
-
-
-
-
-
-<table border="0" cellpadding="4" cellspacing="0" width="100%">
-
-
-<tbody><tr>
-<td>
-<font face="arial" size="2">
-<p>
-<b>INTRODUCTION</b>
-</p>
-<p>
-Business.com understands and respects your concerns about privacy. At the same time, we do ask that you provide information about yourself in order for us to understand your needs better and make your experience at Business.com more valuable to you.  We created this Privacy Policy to provide you with notice of what information Business.com may collect, how such information may be used or shared with third parties, and how such information relates to the operation of the Site.  This Privacy Policy is subject to the Terms and Conditions of Use (the "TCU") posted on the Site, including the provisions regarding change or modification of this Privacy Policy and other policies as set forth in the TCU.   You are responsible for checking this page periodically for changes and updates to the Privacy Policy.  Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes.  This Privacy Policy is part of, and incorporated into, the TCU.
-</p>
-<p>
-<i>The Site is not intended for use by persons under the age of thirteen.</i>  Individuals who are under the age of thirteen are expressly prohibited from submitting to Business.com or posting to the Site any personally identifiable information about themselves.
-</p>
-<p>
-By providing any personal information to this Site, you fully understand and unambiguously consent to the collection and processing of such information in the United States and/or any other country.
-
-</p>
-<a name="top"></a><p>
-<b>This Privacy Policy explains:</b>
-</p>
-<ol>
-<li> 	<a href="#wp">what personally identifiable information Business.com collects from you, and how Business.com uses the information;</a><br>
-</li><li> 	<a href="#wi">with whom your information may be shared;</a><br>
-</li><li> 	<a href="#wc">what choices you have regarding the collection, use and distribution of your information;</a><br>
-</li><li>	<a href="#wco">what cookies are, and how Business.com uses them; </a><br>
-</li><li>	<a href="#hb">how Business.com protects your personal information;</a><br>
-</li><li>	<a href="#hy">how you can access, update or delete your information;</a><br>
-</li><li>     <a href="#we">what else you should know about your online privacy; and</a><br>
-</li><li>     <a href="#contact">how you can contact us.</a><br>
-</li></ol>
-
-
-<p></p>
-<hr size="1" nohade="">
-<p>
-<a name="wp"></a><b>1.	What personally identifiable information Business.com collects from you, and how Business.com uses the information.</b><br><br>
-</p>
-<p>
-		Business.com collects and stores personal information in several ways at different parts of our Site.  This information may include your legal name, email address, age, gender, address, telephone number(s), areas of interest, financial information, User ID, User Password and other self-identifying information.  We collect this information in order to provide you with our services more easily, and in a more personalized manner.  We may make message boards and discussion forums available to you.  If you choose to voluntarily disclose certain information on any such public area of the Site, this Privacy Policy will not cover such disclosure of information.  We urge exercising caution when disclosing information on public message boards or discussion forums.
-</p>
-<p>
-Business.com also may request certain information using online order forms for products and services.  On the order forms, we may collect contact information, financial information, demographic information, method of payment and, if applicable, a credit or debit card number.  We may also collect information about you in surveys or for sweepstakes and contests on the Site and information about the searches you perform and the pages you visit on the Site. Business.com may also monitor, on an anonymous aggregate basis, patterns of use in connection with emails that it sends out, including which links are clicked on in our email communications, so that we may use such information to better personalize the content of the Site and our mailings for our users. All such information will be protected in accordance with our Privacy Policy.  We may also automatically collect your Internet Protocol address to help diagnose problems and for system administration.  Business.com reserves the right to request any additional information necessary to establish and maintain your account for use of the Site.
-</p>
-
-<p>
- 	Business.com uses the information collected from you in accordance with this Privacy Policy.  Information we collect is used to customize your experience at our Site.  We also show you content that we think will be interesting to you, and display content according to the preferences you indicate while on our Site.  Business.com may use your information to send you promotional materials about Business.com and its partners.  We may also use your information to contact you, if necessary.
-</p>
-<a name="wi"></a><b>2.	With whom your information may be shared.</b><br><br>
-
-	<p>
-	Business.com will not sell, rent or barter your personal information other than to its business partners as set forth herein.  However, we may from time to time aggregate statistical information regarding our customers, traffic patterns and site usage, or sell our research, which may contain aggregate information.  In addition, we may report aggregate information to our advertisers.  Such aggregate information will not individually identify any user.
-	</p>
-<p>
-	In order to provide you with co-branded services, and to improve our features, we will sometimes share your information with our partners.
-</p>
-<p>
-
-
-	We reserve the right to disclose any information if such action is necessary (a) to conform to the requirements of the law or to comply with legal process or subpoena served on Business.com, (b) to protect and defend the legal rights or property of Business.com, the Site, or its users, or (c) in an emergency, to protect the health and safety of its users or the general public.   We further reserve the right to release any information concerning any user if that user participates (or is reasonably suspected of participating) in any illegal activity, even without a subpoena, warrant, or other court order.  We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities.  We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
-</p>
-<p>
-It is possible that Business.com, its subsidiaries, its joint ventures, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Business.com would share some or all of your information in order to continue to provide the service. Notice of any such event (to the extent it occurs) will be posted on the Business.com website, and we will require that the new combined entity follow the practices disclosed in this Privacy Policy.
-</p>
-<a name="wc"></a><b>3. 	What choices you have regarding the collection, use and distribution of your information.</b><br><br>
-
-	<p>
-	You may occasionally receive information about the products or services you have selected to place on your personal Business.com pages, which may include Business.com products and services, and the products and services of our partners.  Business.com believes that these updates are interesting and informative.  In the event you are requested to register, you may be given an opportunity to "opt in" to receive mailings from Business.com and/or its partners by "checking" a box in the registration form.  (For purposes of this Privacy Policy, "partners" includes, in addition to third parties with whom Business.com may have co-branding arrangements or some other business relationship or alliance, other web sites incubated or funded by eCompanies, as such term is defined below.)  If you submit a registration form with the box checked, you thereby consent to being placed on this mailing list.  You may subsequently contact us to request to be removed from this list.   In every update that we send, we may include an option to discontinue receipt of future updates.  Business.com reserves the right to limit any registrations on our Site to those who will accept our information and to those who will provide the requested information.
-
-	</p>
-
-<a name="wco"></a><b>4.  	What cookies are, and how Business.com uses them. </b><br><br>
-
- 	<p>
-	As part of offering and providing customizable and personalized services, Business.com uses cookies to store and sometimes track information about you.  A cookie is a small amount of data that is transferred to your computer's hard drive.  All portions of the Site that prompt you to log in or that are customizable require that you accept cookies.  No other company has access to cookies placed on your computer by Business.com unless you select the option, upon registering with the Site, to share user-information with Business.com's partners.  We may use cookies technology to reduce the time required for you to submit your requests and for Business.com to respond to such requests.  Cookies will not be used by us to retrieve any information about you, or from your computer, that you have not voluntarily given to us.  Cookies may also be placed on your computer when you link from the Site to our partners' web sites or when you click banner ads provided on our Site.  Cookies placed on your computer by third parties by or through the Site, if any, are not the responsibility of Business.com and are not subject to the TCU.  Please contact the third party placing these cookies to find out what information is collected and how it is used. You can usually edit your browser not to accept cookies, but the features of our Site may not function properly if you do not accept cookies.
-	</p>
-
-<a name="hb"></a><b>5. 	How Business.com protects your personal information.</b><br><br>
-
-	<p>
-
-	For all our transactions, we employ reasonable and current Internet security methods and technologies.  Where appropriate, we password protect, use encryption techniques and install firewalls.  We strive to protect you.   We encourage our participating service providers to adopt and honor their own consumer privacy policies.  For all our efforts to safeguard your privacy, no system can be guaranteed.  We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties.  Once we receive your information, we use reasonable efforts to ensure its security on our systems.
-	</p>
-
-<a name="hy"></a><b>6. 	How you can access, update or delete your information.</b><br><br>
-
-	<p>
-	As part of your use of the Site, you are responsible for maintaining and updating, as applicable, your account Registration Data with current, accurate and complete information.  You may view, update and/or edit the Registration Data you have provided to Business.com by logging in to your account and following the appropriate instructions.
-	</p>
-
-<a name="we"></a><b>7. What else you should know about your online privacy.</b><br><br>
-
-	<p>
-
-	The Site may also contain links to other web sites and advertising.  The privacy policies of those web sites and advertisers may significantly differ from that of our Site.  It is your responsibility to contact such web site operator or advertiser directly to determine their privacy policy.
-	</p>
-<a name="contact"></a><b>8. 	How you can contact us.</b><br><br>
-	</font><p><font face="arial" size="2">
-	Any questions about our Privacy Policy, the practices of the Site, or your dealings with the Site should be directed to: <br>
-
-Customer Service<br>
-Business.com <br>
-2120 Colorado Avenue, 3rd Floor<br>
-Santa Monica, CA 90404<br>
-<a href="mailto:customerservice@business.com">customerservice@business.com</a>
-
-</font>
-<br><br>
-<font face="arial" size="2">
-<img src="/images/uparrow.gif" border="0"><a href="#top">Top</a></font>
-
-
-
-
-
-</p></td>
-
-
+<div>
+   <img src="/gfx/maglass.gif">&nbsp;<input autocomplete="off" value="" class="disableAutoComplete" id="tb" type="text" name="query" size="65"> <input type="submit" name="search" value="Search">
+</div>
+<div>
+   <span class="gnav2">
+      
+         <a rel="nofollow" href="https://members.work.com/Login.do" style="color:green;" onclick="return go2Cat(this.href, 'w.nav.23', 7, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Login / Register</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+</div>
+</td>
 
 </tr>
 </tbody></table>
 </td>
-
-
-
 </tr>
+<tr><td colspan="3" height="8"><br class="br8"></td></tr>
 </tbody></table>
-<br>
-
-
-
-
-
-
-
-
-
-<br clear="all">
-
-
-<br class="br6">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<form action="/search/rslt_default.asp" id="form1" name="form1"></form>
- <tbody><tr>
-  <td bgcolor="#99CCFF"></td>
- </tr>
- <tr>
-  <td bgcolor="#99CCFF"></td>
- </tr>
- <tr>
-  <td bgcolor="#0066CC">
-   <table border="0" cellspacing="0" cellpadding="4" width="100%">
-    <tbody><tr>
-     <td class="bcrumb" align="center"><span class="tbstext"><b>Search: </b> <input type="text" size="55" name="query" value=""> <input type="hidden" name="bottomSearch" value="true"> <span class="sbox"><input type="submit" value="Search"></span></span></td>
-    </tr>
-   </tbody></table>
-  </td>
- </tr>
- <tr>
-  <td bgcolor="#cccccc"></td>
- </tr>
- <tr>
-  <td bgcolor="#efefef"></td>
- </tr>
-
-</tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="4" width="100%">
-
-
-<tbody><tr>
-  <td class="fbar" align="center"></td>
-</tr>
-
-
-</tbody></table>
-
-<br class="br10">
-
-</p><div id="ftr1"><a href="/info/advertisewithus.asp?mkt=bdc.dir.footer.ge">Advertiser Center</a> | <a href="https://secure.business.com/registration/currentlistings.jsp">Advertiser Login</a> | <a href="/directory/sponsored.asp">Featured Listings</a> | <a href="/news.asp" title="News at Business.com">News</a></div>
-<br class="br6">
-<div id="ftr2"><a href="/info/copyright.asp">© 2006 Business.com, Inc.</a>   All Rights Reserved.  <a href="/info/privacypolicy.asp">Privacy</a> | <a href="/info/termsofuse.asp">Terms Of Use</a> | <a href="/info/aboutus.asp">About Us</a>
-</div>
-
-
-<img height="1" width="1" src="/images2/directory.gif?pagetype=1&amp;googleadword=&amp;ord=20066151338541C43&amp;standardnumber=&amp;featurednumber=&amp;mkt=&amp;mkw=&amp;trackversion=alpha&amp;bdcs=FD9845FA-668E-44AF-B044-E4AAFDDEB46520066154913400_alpha&amp;featuredlistingids=&amp;nodeid=&amp;pgreferer=">
-<img height="1" width="1" src="/images2/tracker.gif?ord=20066151338541C43&amp;bdcs=FD9845FA-668E-44AF-B044-E4AAFDDEB46520066154913400_alpha&amp;gn=&amp;gw=">
-
-<!-- harvest -->
-
-
-
-<noscript><img id=harvImg src="http://wvw.business.com/spacer.gif?event=6~~28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~FD9845FA-668E-44AF-B044-E4AAFDDEB46520066154913400_alpha~107~~53~%2Finfo%2Fprivacypolicy%2Easp~445~5~411~0~450~0~414~0~461~~462~~463~~464~" border=0 height=1 width=1></noscript>
-<script language="javascript">
-var backFillTag = "";
-try {
-	if (numBackFills > 0) backFillTag = "~445~" + numBackFills;
-} catch (e) {
-	backFillTag="~445~0";
-}
-var hs_ES = "28~business~100~%2Finfo%2Fprivacypolicy%2Easp" + backFillTag + "~101~~102~~103~~104~FD9845FA-668E-44AF-B044-E4AAFDDEB46520066154913400_alpha~107~~53~%2Finfo%2Fprivacypolicy%2Easp~411~0~450~0~414~0~461~~462~~463~~464~~507~";
-var hs_psES = "";
-var hs_defPg = "index.asp";
-var h_w = window;
+<script>
+var obj = actb(document.getElementById('tb'));
 </script>
-<script language="javascript" src="/include/hs_1.js"></script>
-</body></html>
+
+
+<br class="br6">
+<table border="0" width="780" cellpadding="2" cellspacing="0">
+  <tbody><tr> 
+    <td width="5" height="19"></td>
+  </tr>
+</tbody></table>
+<br class="br6">
+<table border="0" width="780" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="570" valign="top"> <table border="0" width="570" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td colspan="3"><img src="gfx/wdctopcurve.gif"></td>
+        </tr>
+        <tr> 
+          <td width="1" bgcolor="#7DAC4E"><br class="br1"></td>
+          <td width="568" valign="top" background="gfx/mainbg.gif"> 
+            <table border="0" width="99%" cellpadding="7" cellspacing="0" align="center">
+              <tbody><tr> 
+                <td><div class="head headFont">Privacy Policy</div>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Effective October 
+                    1, 2006</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>INTRODUCTION</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">This is the privacy 
+                    policy ("Privacy Policy"), for the Web site located 
+                    at http://www.work.com (the "Site") made available 
+                    by Business.com, Inc., the legal owner of the Site, and parent 
+                    company to Work.com, Inc. ("Work.com", "we", 
+                    "us" or "our"). This Privacy Policy sets 
+                    forth our policies regarding the collection, use and disclosure 
+                    of certain information relating to your use of the Site. Your 
+                    use of this Site signifies your understanding and acceptance 
+                    of the terms of this Privacy Policy.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Work.com understands 
+                    and respects your concerns about privacy. We created this 
+                    Privacy Policy to provide you with notice of what information 
+                    Work.com may collect, how such information may be used or 
+                    shared with third parties, and how such information relates 
+                    to the operation of our Site. This Privacy Policy is subject 
+                    to the Terms and Conditions of Use (the "TCU") posted 
+                    on the Site, including the provisions regarding change or 
+                    modification of this Privacy Policy and other policies as 
+                    set forth in the TCU. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">This Privacy Policy 
+                    will be continuously assessed against new technologies, business 
+                    practices and our clients' needs. As we update and diversify 
+                    our products and services, this Privacy Policy may evolve. 
+                    Please check this page for updates periodically. We will try 
+                    to post any changes to this Privacy Policy before they become 
+                    effective. If we make any material changes to this Privacy 
+                    Policy, we will notify you here. You are responsible for checking 
+                    this page periodically for changes and updates to the Privacy 
+                    Policy. Your use of the Site following any posted changes 
+                    to the Privacy Policy indicates your acceptance of such changes. 
+                    <br>
+                    By providing any personal information to this Site, you fully 
+                    understand and unambiguously consent to the collection and 
+                    processing of such information in the United States and/or 
+                    any other country. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">If you 
+                    have questions or concerns regarding this Privacy Policy or 
+                    wish to exclude your personal information from our direct 
+                    marketing purposes, please feel free to contact us at <a href="mailto:customerservice@work.com">customerservice@work.com</a> 
+                    or by writing to us at Business.com, Attn: Customer Service 
+                    - Work.com Privacy, 2120 Colorado Avenue, 3rd Floor, Santa 
+                    Monica, CA 90404.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">The Site is not 
+                    intended for use by persons under the age of thirteen. Individuals 
+                    who are under the age of thirteen are expressly prohibited 
+                    from submitting to Work.com or posting to the Site any personally 
+                    identifiable information about themselves. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>This 
+                    Privacy Policy explains: </strong></font></p>
+                  <ol>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#1">what 
+                      personally identifiable information Work.com collects from 
+                      you, and how Work.com uses the information;</a></font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#2">with 
+                      whom your information may be shared;</a></font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#3">what 
+                      choices you have regarding the collection, use and distribution 
+                      of your information;</a></font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#4">what 
+                      cookies are, and how Work.com uses them;</a></font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#5">how 
+                      Work.com protects your personal information;</a></font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#6">how 
+                      you can access, update or delete your information;</a></font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#7">what 
+                      else you should know about your online privacy;</a> and</font></li>
+                    <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="#8">how 
+                      you can contact us.</a></font></li>
+                  </ol>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="1"></a>1. 
+                    What personally identifiable information Work.com collects 
+                    from you, and how Work.com uses the information.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Work.com collects 
+                    and stores personal information in several ways at different 
+                    parts of our Site. This information may include your legal 
+                    name, email address, age, gender, address, telephone number(s), 
+                    areas of indicated interest, financial information, user identification 
+                    name, user password and other self-identifying information. 
+                    We collect this information in order to provide you with our 
+                    services more easily, and in a more personalized manner. We 
+                    may make message boards and discussion forums available to 
+                    you. If you choose to voluntarily disclose certain information 
+                    on any such public area of the Site, this Privacy Policy will 
+                    not cover such disclosure of information. We urge you to exercise 
+                    caution when disclosing any information on public message 
+                    boards or discussion forums. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Work.com also may 
+                    request certain information using online order forms for products 
+                    and services. On the order forms, we may collect contact information, 
+                    financial information, demographic information, method of 
+                    payment and, if applicable, a credit or debit card number. 
+                    We may also collect information about you in surveys or for 
+                    sweepstakes and contests on the Site and information about 
+                    the searches you perform and the pages you visit on the Site. 
+                    Work.com may also monitor, on an anonymous aggregate basis, 
+                    patterns of use in connection with emails that it sends out, 
+                    including which links are clicked on in our email communications, 
+                    so that we may use such information to better personalize 
+                    the content of the Site and our mailings for our users. All 
+                    such information will be protected in accordance with our 
+                    Privacy Policy. We may also automatically collect your Internet 
+                    Protocol address to help diagnose problems and for system 
+                    administration. Work.com reserves the right to request any 
+                    additional information necessary to establish and maintain 
+                    your account for use of the Site. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Work.com uses the 
+                    information collected from you in accordance with this Privacy 
+                    Policy. Information we collect is used to customize your experience 
+                    at our Site. We also show you content that we think will be 
+                    interesting to you, and display content according to the preferences 
+                    you indicate while on our Site. Work.com may use your information 
+                    to send you promotional materials about Work.com and its partners. 
+                    We may also use your information to contact you, if necessary. 
+                    </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="2"></a>2. 
+                    With whom your information may be shared.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Work.com will not 
+                    sell, rent, barter or disclose your personal information other 
+                    than to its business partners as set forth herein. For purposes 
+                    of this Privacy Policy, "partners" includes, in 
+                    addition to third parties with whom Work.com may have co-branding 
+                    or other business relationships or alliances, and Work.com's 
+                    subsidiaries and other affiliated companies. We encourage 
+                    our partners to honor their own privacy policies.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We may from time 
+                    to time aggregate statistical information regarding our customers, 
+                    traffic patterns and Site usage, or sell our research, which 
+                    may contain aggregate information. In addition, we may report 
+                    aggregate information to our advertisers. Such aggregate information 
+                    will not individually identify any user. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">In order to provide 
+                    you with co-branded services, and to improve our features, 
+                    we will sometimes share your information with our partners. 
+                    We may share your personal information with companies acting 
+                    as our authorized agents in providing our service or co-branded 
+                    services (e.g., credit card processing, customer/support services) 
+                    to you, all of which agree to use it only for such specified 
+                    purposes. Each partner must agree to implement and maintain 
+                    reasonable security procedures and practices appropriate to 
+                    the nature of your information in order to protect your personal 
+                    information from unauthorized access, destruction, use, modification 
+                    or disclosure. Because we operate globally, we may transfer 
+                    your information to countries or jurisdictions that do not 
+                    provide the same level of data protection as the country in 
+                    which you are based. If we make such a transfer, we will, 
+                    or our partners will, as applicable, provide for the proper 
+                    safeguards required by applicable law to ensure that your 
+                    information is protected. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">In the event that 
+                    Work.com is merged, or in the event of a transfer of our assets, 
+                    Site or operations, Work.com may disclose or transfer your 
+                    personal information in connection with such transaction. 
+                    In the event of such a transfer, Work.com will notify you 
+                    via email or by posting a prominent notice on our Site for 
+                    30 days of any such change in ownership of Work.com resulting 
+                    in a change of control of your personal information. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We reserve the 
+                    right to disclose any information if such action is necessary 
+                    (a) to conform to the requirements of the law or to comply 
+                    with legal process or subpoena served on Work.com, (b) to 
+                    protect and defend the legal rights or property of Work.com, 
+                    the Site, or its users, or (c) in an emergency, to protect 
+                    the health and safety of its users or the general public. 
+                    We further reserve the right to release any information concerning 
+                    any user if that user participates (or is reasonably suspected 
+                    of participating) in any illegal activity, even without a 
+                    subpoena, warrant, or other court order. We cooperate with 
+                    law enforcement agencies in identifying those who may be using 
+                    our servers or services for illegal activities. We also reserve 
+                    the right to report any suspected illegal activity to law 
+                    enforcement for investigation or prosecution. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">You should also 
+                    be aware that courts of equity, such as U.S. Bankruptcy Courts, 
+                    may have the authority under certain circumstances to permit 
+                    your personal information to be shared or transferred to third 
+                    parties without your permission. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">By providing any 
+                    personal information to us, you fully understand and unambiguously 
+                    consent to the transfer of such personal information to, and 
+                    the collection and processing of such personal information 
+                    in, the United States and other countries or territories. 
+                    Your personal information will be stored and processed on 
+                    our computers in the United States. The laws on holding personal 
+                    information in the United States may vary and be less stringent 
+                    than laws of your state or country. We will use commercially 
+                    reasonable efforts to hold and transmit your personal information 
+                    in a safe, confidential and secure environment. If you object 
+                    to your personal information being transferred or used in 
+                    this manner please do not register with or use the Site. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="3"></a>3. 
+                    What choices you have regarding the collection, use and distribution 
+                    of your information.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">You may occasionally 
+                    receive information about the products or services you have 
+                    selected to place on your personal Work.com pages, which may 
+                    include Work.com products and services, and the products and 
+                    services of our partners. In the event you are requested to 
+                    register, you may be given an opportunity to "opt in" 
+                    to receive mailings from Work.com and/or its partners by "checking" 
+                    a box in the registration form. If you submit a registration 
+                    form with the box checked, you thereby consent to being placed 
+                    on Work.com's mailing list. You may subsequently contact us 
+                    to request to be removed from this list. In every update that 
+                    we send, we may include an option to discontinue receipt of 
+                    future updates. Work.com reserves the right to limit or reject 
+                    any registration on our Site to users who do not agree to 
+                    accept our information or who refuse to provide any information 
+                    required by Work.com during the registration process.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Regardless of whether 
+                    or not you elect to receive newsletters or promotional or 
+                    marketing correspondence from us, such election will not: 
+                    (a) preclude us from corresponding with you, by email or otherwise, 
+                    regarding your existing or past relationship with us, and 
+                    (b) preclude us, including our employees, contractors, agents 
+                    and other representatives, from accessing and viewing your 
+                    personal information in the course of maintaining and improving 
+                    the Site. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong> <a name="4"></a>4. 
+                    What cookies are, and how Work.com uses them. </strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">As part of offering 
+                    and providing customizable and personalized services, Work.com 
+                    uses cookies to store and sometimes track information about 
+                    you. A cookie is a small amount of data that is transferred 
+                    to your computer's hard drive. All portions of the Site that 
+                    prompt you to log in or that are customizable require that 
+                    you accept cookies. No other company has access to cookies 
+                    placed on your computer by Work.com unless you select the 
+                    option, upon registering with the Site, to share user-information 
+                    with Work.com's partners. We may use cookies technology to 
+                    reduce the time required for you to submit your requests and 
+                    for Work.com to respond to such requests. Cookies will not 
+                    be used by us to retrieve any information about you, or from 
+                    your computer, that you have not voluntarily given to us. 
+                    Cookies may also be placed on your computer when you link 
+                    from the Site to our partners' Web sites or when you click 
+                    banner ads provided on our Site. Cookies placed on your computer 
+                    by third parties by or through the Site, if any, are not within 
+                    Work.com's immediate control and are not subject to the TCU. 
+                    If you have any questions concerning third-party cookies, 
+                    please contact the third party placing such cookies to find 
+                    out what information is collected and how it is used. WORK.COM 
+                    ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY THIRD-PARTY 
+                    COOKIES. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Please be aware 
+                    that although you may be able to elect not to accept cookies 
+                    through certain browser functionality, the features of our 
+                    Site may not function properly if you do not accept cookies. 
+                    </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="5"></a>5. 
+                    How Work.com protects your personal information.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">For all our transactions, 
+                    we employ reasonable Internet security methods and technologies. 
+                    Where appropriate, we password protect, use encryption techniques 
+                    and install firewalls. We store your personal information 
+                    on a secure server, and use procedures designed to protect 
+                    the personal information we collect from unauthorized access, 
+                    destruction, use, modification or disclosure. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Although we will 
+                    take (and require our third-party providers to take) reasonable 
+                    security precautions regarding your personal information collected 
+                    from and stored on the Site, because of the open nature of 
+                    the Internet, we cannot guarantee that any of your personal 
+                    information stored on our servers, or transmitted to or from 
+                    a user, will be free from unauthorized access, and we disclaim 
+                    any liability for any theft or loss of, unauthorized access 
+                    or damage to, or interception of any data or communications. 
+                    By using the Site, you acknowledge that you understand and 
+                    agree to assume these risks. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="6"></a>6. 
+                    How you can access, update or delete your information.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">As part of your 
+                    use of the Site, you are responsible for maintaining and updating, 
+                    as applicable, your account registration data with current, 
+                    accurate and complete information. You may view, update and/or 
+                    edit such registration data that you previously provided to 
+                    Work.com by logging in to your account and following the appropriate 
+                    instructions provided therein. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="7"></a>7. 
+                    What else you should know about your online privacy.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">The Site may also 
+                    contain links to other Web sites and advertising. The privacy 
+                    policies of other Web site operators or advertisers may significantly 
+                    differ from our Privacy Policy. We urge you to contact third 
+                    party Web site operators or advertisers directly if you have 
+                    any questions or concerns about their data collection or privacy 
+                    policies. WORK.COM ASSUMES NO RESPONSIBILITY OR LIABILITY 
+                    FOR ANY THIRD-PARTY WEB SITE OPERATORS' OR ADVERTISERS' DATA 
+                    COLLECTION PRACTICES OR THEIR FAILURE TO ABIDE BY THEIR PRIVACY 
+                    POLICIES. </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a name="8"></a>8. 
+                    How you can contact us.</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Any questions about 
+                    our Privacy Policy should be directed to: </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Business.com<br>
+                    Attn: Customer Service - Work.com Privacy <br>
+                    2120 Colorado Avenue, 3rd Floor<br>
+                    Santa Monica, CA 90404<br>
+                    <a href="mailto:customerservice@work.com">customerservice@work.com</a><br>
+                    <br>
+                    © 2006 Business.com, Inc.</font></p></td>
+              </tr>
+            </tbody></table>
+					</td>
+          <td width="1" bgcolor="#7DAC4E"><br class="br1"></td>
+        </tr>
+        <tr> 
+          <td colspan="3"><img src="gfx/wdcbtmcurve.gif"></td>
+        </tr>
+      </tbody></table></td>
+    <td width="210" valign="top"> <br> <div class="ind"> 
+      
+<a href="/learn-discover-share.asp" onclick="return go2Cat(this.href, 'w.nav.23', 1, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')"><img src="/gfx/smallbox5.jpg" border="0"></a>
+<br><br>
+
+
+			</div>
+    </td>
+  </tr>
+</tbody></table>
+
+<br><img height="1" width="1" src="/images2/directory.gif?pageType=121&amp;pgname=Privacy+Policy+%7C+Work%2Ecom&amp;mkt=&amp;mkw=&amp;nodeid=&amp;ord=20061214185581C43&amp;featurednumber=0&amp;featuredlistingids=&amp;bdcs=7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka&amp;trackversion=worka&amp;pgreferer=&amp;dirv=12%2F14%2F2006&amp;visitorid="><br>
+
+
+
+<table width="780">
+<tbody><tr><td colspan="3"><span class="foot"><a href="/copyright.asp" onclick="return go2Cat(this.href, 'w.nav.24', 1, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')" style="text-decoration:none;">© 2006 Work.com, Inc.</a> All Rights Reserved. Work.com is a property of <a href="http://www.business.com" onclick="return go2Cat(this.href, 'w.nav.24', 2, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Business.com</a>.<br>
+<a href="/whatis.asp" onclick="return go2Cat(this.href, 'w.nav.24', 3, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Help</a> | <a href="/about.asp" onclick="return go2Cat(this.href, 'w.nav.24', 4, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">About Us</a> | <a href="/sitemap.asp" onclick="return go2Cat(this.href, 'w.nav.24', 5, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Site Map</a> | <a href="/termsofuse.asp" onclick="return go2Cat(this.href, 'w.nav.24', 6, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Terms of Use</a> | <a href="/privacypolicy.asp" onclick="return go2Cat(this.href, 'w.nav.24', 7, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Privacy Policy</a> | <a href="/communitypolicy.asp" onclick="return go2Cat(this.href, 'w.nav.24', 8, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Community Policy</a> | <a href="http://blogs.work.com/community/" onclick="return go2Cat(this.href, 'w.nav.24', 9, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Community Blog</a> | <a href="/advertise.asp" onclick="return go2Cat(this.href, 'w.nav.24', 10, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Advertise on Work.com</a> | <a href="/feedback.asp" onclick="return go2Cat(this.href, 'w.nav.24', 11, '7D236F8D-E71D-4B4A-8089-8BF2A10865C4200612146810864_worka', '', 'http://www.work.com/rd')">Contact Us / Feedback</a> </span></td></tr>
+</tbody></table>
+
+
+
+
+</center></body></html>
