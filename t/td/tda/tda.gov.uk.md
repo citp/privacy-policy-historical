@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020857id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216003539id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
 
 # TDA - TDA privacy statement
 
@@ -122,8 +122,11 @@ This website may contain links to other sites. Please be aware that we are not r
 If you would like any further information or have any comments on our Privacy Policy then please write to us or send us an email at [data_protection_officer@tda.gov.uk](mailto:data_protection_officer@tda.gov.uk). We may amend this policy from time to time in which case the amended version will be published on our website and a copy may be obtained by writing to the address below. 
 
 Data Protection Officer  
-TDA Portland House   
-Bressenden Place   
-London SW1E 5TT
+Training and Development Agency for Schools   
+151 Buckingham Palace Road   
+London SW1W 9SZ
 
 **This policy applies to personal information held about individuals. It does not apply to information we hold about companies and other organisations.**
+
+  
+
