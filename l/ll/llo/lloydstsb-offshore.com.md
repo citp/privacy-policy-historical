@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625103248id_/http%3A//lloydstsb-offshore.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215163808id_/http%3A//lloydstsb-offshore.com/Privacy) for the most accurate reproduction.*
 
 # Lloyds TSB Offshore
 
@@ -99,4 +99,12 @@ Any decision made by us in relation to the services provided to you shall be fin
 *Lloyds TSB Group means the Lloyds TSB group of companies which includes all companies with the Lloyds TSB name, Cheltenham & Gloucester plc and Scottish Widows plc, and their associated companies. 
 
   
-  |   
+  |  |   
+---  
+  
+[](http://www.lloydstsb-offshore.com/eurohighincomefund/?WT.ac=lhnehfbnr)  
+  
+   
+   
+  
+This information does not constitute an invitation to buy or the solicitation of an offer to sell securities or to accept deposits or to provide any other products or services in any jurisdiction, to any person to whom it is unlawful to make such an offer or solicitation.
