@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rememberthemilk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015225id_/https%3A//www.rememberthemilk.com/help/privacy.rtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rememberthemilk.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215070510id_/http%3A//www.rememberthemilk.com/help/privacy.rtm) for the most accurate reproduction.*
 
 # Remember The Milk - Privacy Policy
 
@@ -50,6 +50,6 @@ We reserve the right to transfer your personal information in the event of a tra
 
 You can change your Remember The Milk account settings at any time in the "Settings" section of your account.
 
-You can terminate your account at any time, by emailing [cancelaccount@rememberthemilk.com](mailto:cancelaccount@rememberthemilk.com). You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
+You can terminate your account at any time, by going to the [Delete Account](https://www.rememberthemilk.com/login/delete.rtm) page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
 
 We hope you will enjoy using Remember The Milk.
