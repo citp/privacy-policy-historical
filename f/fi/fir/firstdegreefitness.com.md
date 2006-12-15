@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstdegreefitness.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528161428id_/http%3A//www.firstdegreefitness.com/Default.aspx%3Ftabid%3D39%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdegreefitness.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215232545id_/http%3A//firstdegreefitness.com/Home/tabid/39/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Home
 
