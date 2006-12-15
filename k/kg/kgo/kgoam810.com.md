@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618043416id_/http%3A//www.kgoam810.com/article.asp%3Fid%3D49819) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215190643id_/http%3A//www.kgoam810.com/article.asp%3Fid%3D49819) for the most accurate reproduction.*
 
 # KGO-AM 810 NewsTalk
 
-  | 
+  |  Privacy Policy
 
-**KGO-AM RADIO, INC. PRIVACY POLICY**
+ **KGO-AM RADIO, INC. PRIVACY POLICY**
 
 Effective Date:                December 20, 2004
 
