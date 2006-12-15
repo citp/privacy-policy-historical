@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediadis.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212833id_/http%3A//www.mediadis.com/services/services.asp%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediadis.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215204605id_/http%3A//www.mediadis.com/services/services.asp%3Fid%3D9) for the most accurate reproduction.*
 
 # Mediadis
 
@@ -9,7 +9,9 @@ Mediadis presents this privacy statement in order to demonstrate our firm commit
 
 This site contains links to other websites. Mediadis is not responsible for the privacy practices or the content provided by those sites. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email and delivery address) and financial information (credit card numbers). Contact information collected through the on-line registering form is only used to ship the ordered items to our customers and financial information is only used to bill for those purchases.   
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email and delivery address) and financial information (credit card numbers). Contact information collected through the on-line registering form is only used to ship the ordered items to our customers and financial information is only used to bill for those purchases. 
+
+Please click on the link "YOUR ACCOUNT" and choose the option "Edit your billing details" to change your personal billing data or even erase your account. You can also send us your request to the adress on the bottom of the page.   
   
 Protection  
   
@@ -24,6 +26,7 @@ Contact
 If you have any question about this privacy statement or the practices of our company, you can contact us :
 
 Mediadis S.A./N.V.  
+Jean-Noël Chamart   
 Rue Saint-Denis, 282  
 1190 Brussels  
 Belgium  
