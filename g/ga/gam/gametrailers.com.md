@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203342id_/http%3A//www.gametrailers.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215052359id_/http%3A//www.gametrailers.com/privacy.php) for the most accurate reproduction.*
 
 # GameTrailers.com - The Source For Video Game Media
 
