@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040412id_/http%3A//www.psxextreme.com/home/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216053355id_/http%3A//www.psxextreme.com/home/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
