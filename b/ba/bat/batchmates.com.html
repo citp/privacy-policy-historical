@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the batchmates.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616011515id_/http%3A//www.batchmates.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batchmates.com privacy policy that was archived on 2006-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061216220841id_/http%3A//www.batchmates.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-  <title>Batchmates.com - Privacy Policy</title>
+  <title>Privacy Policy of Batchmates.com</title>
+  <meta name="description" content="Privacy Policy of Batchmates.com">
+  <meta name="keywords" content="batchmates, classmates, classmate India, alumni, high schools, high school class reunions, classmate finder, High school reunion, Friends, friends reunited, students, finding friends, alumnus, school friends, best buddies, best friends, graduates, friend search, make friend, reunions, college reunion India, alumna, reunion and alumnus, alumnus, registry, directory, military buddies, military personnel, military reunions, military unit, free ecard, High school reunion India, free online dating, free class reunion, free reunion, find classmates, high school alumni, old friends, class reunion, friend finder, Entertainment magazine">
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <meta name="description" content="Register free at batchmates, find classmates, old friends. Send all occasion gifts to India. Free Online Dating,Famous quotes, institution home pages, free ecards more.">
-  <meta name="keywords" content="batchmates,classmates, graduates, students, alumni, high schools, communities, high school alumni, high school class reunions, high school homecoming, find classmates, old friends, reunions, graduates, alumna, alumnae, alumnus, registry, directory, classmates, grads, graduation, secondary schools, veterans, military buddies, military personnel, military reunions, War veterans, military unit, nostalgia, yearbook, yearbooks, Free, free ecard, free online dating,free dating, free reunion websites, free class reunion,free high school reunion websites,free reunion">
 
   <link rel="stylesheet" type="text/css" href="bm.css">
 
@@ -17,10 +17,9 @@
 	<td align="center" valign="middle" width="163">
 	<a href="/default.asp"><img src="/images/bmlogo.gif" width="133" height="52" border="0" alt="Alumni Directory - Global Friends Reunion – Batchmates" title="Alumni Directory - Global Friends Reunion – Batchmates"></a></td>
 	<td align="center" valign="middle" width="471">
-<a href="http://www.batchmates.com/redirlink/redir.asp?url=http://www.batchmates.com/default.asp&amp;image=http://www.batchmates.com/banner/topbanner_syn.gif" target="_blank"><img src="http://www.batchmates.com/banner/topbanner_syn.gif" alt="BatchmatesAdvt - Batchmates Friends" width="468" height="60" border="0"></a>	</td>
+<a href="http://www.batchmates.com/redirlink/redir.asp?url=http://www.batchmates.com/default.asp&amp;image=http://www.batchmates.com/banner/topbanner_syn.gif" target="_blank"><img src="http://www.batchmates.com/banner/topbanner_syn.gif" alt="BatchmatesAdvt - Batchmates Friends" width="468" height="60" border="0"></a><br><br>
+	</td>
 	<td align="center" valign="middle" width="136">
-	<img src="/images/contentchnl.gif" width="118" height="12" border="0" alt="Partner Channels" vspace="3"><br>
-	<a href="/zdnet.asp">Technology</a><br>
 	</td>
 </tr>
 </tbody></table>
@@ -109,6 +108,14 @@ a.menu:hover{ font-family:Verdana; font-size:8pt; color:#ff0001; font-weight:bol
 
 	
 <!-- START LOGIN FORM -->
+
+<style>
+
+ td.fontResize {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana, verdana; TEXT-DECORATION: none
+}
+ 
+</style>
 
 <script language="javascript">
 
@@ -330,7 +337,10 @@ function InstCheck()
             
 			</td>
 		</tr>
-				
+		
+		
+		
+		
 		
       </tbody></table>
 
@@ -371,9 +381,9 @@ function InstCheck()
             <a href="/admissionalert/adalertmain.asp">Admission Alerts</a><br>
             <a href="/loginfail.asp?in_page=FB">Facebook</a><br>
 			<a href="/ecards/ecardsection.asp">ECards</a><br>
-			<!--<a href="/bmblog/home.asp" title="Blogging" >Blogging</a><br>-->
+			<!--<a href="/bmblog/home.asp" title="Blogging" >Blogging</a><br>>-->
 
-			<!--<a href="/ecards/choosecards.asp?secid=14">Holi ECards</a> <b><font color="#FFFFFF" style="background:#FF7942">NEW</font></b><br>-->
+			<!--<a href="/ecards/choosecards.asp?secid=9">Diwali ECards - </a>&nbsp;<b><font color="#FFFFFF" style="background:#FF7942">New</font></b><br>-->
 			
 			<!--<a href="http://www.business-schools-online.org" target="_blank">Online University</a><br>-->
 			
@@ -769,6 +779,63 @@ function CheckEmail()
 	return true;
 }
 
+function validateMGM_Right()
+	{
+		
+		var msgflag;
+		msgflag = 0;
+		
+			if (frmMGM_Right.in_name.value=="")
+			{
+				alert("Please enter your friend's name");
+				frmMGM_Right.in_name.focus();
+				return false;
+			}
+			
+			if(frmMGM_Right.in_email.value=="")
+			{
+				alert("Please enter your friend's email id");
+				frmMGM_Right.in_email.focus();
+				return false;
+			}
+			else
+			{
+				if(validateemailv2(frmMGM_Right.in_email.value) == false)
+					{
+						alert("Please enter valid email id");
+						frmMGM_Right.in_email.focus();
+						return false;
+					}
+			}
+	}
+			
+			
+		
+	
+	function validateemailv2(email)
+{
+	var splitted = email.match("^(.+)@(.+)$");
+	if(splitted == null)
+	  return false;
+		if(splitted[1] != null )
+		{
+			var regexp_user=/^\"?[\w-_\.]*\"?$/;
+			if(splitted[1].match(regexp_user) == null)
+			   return false;
+		}
+		if(splitted[2] != null)
+		{
+			var regexp_domain=/^[\w-\.]*\.[a-za-z]{2,4}$/;
+			if(splitted[2].match(regexp_domain) == null)
+			{
+				var regexp_ip =/^\[\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\]$/;
+				if(splitted[2].match(regexp_ip) == null)
+					 return false;
+			}
+			return true;
+		}
+	return false;
+}
 </script>
 		<script language="JavaScript">
 		<!--
@@ -809,6 +876,7 @@ function openNewWindow() { window.open('http://www.batchmates.com/gifts_popup.as
 				<a class="btn" href="/">HOME</a>&nbsp;<a class="btn" href="/help.asp"> HELP</a>
 			</td>
 		</tr>
+		
 		<!--<TR>
 			<TD height="3"></TD>
 		</TR>
@@ -831,17 +899,12 @@ function openNewWindow() { window.open('http://www.batchmates.com/gifts_popup.as
 			<td height="1" bgcolor="#CCC5EF"></td>
 		</tr>
 		<tr>
-			<td height="10" align="center"></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="/blog/home.asp" border="none"><img src="/images/batchmates_blog.gif"></a></td>
-		</tr>
-		<tr>
-			<td height="10" align="center"></td>
+			<td height="10" align="center" bgcolor="#FF7942"><a href="/contactus/phone.asp" style="text-decoration:none"><font color="#ffffff">Batchmates Help Line</font></a></td>
 		</tr>
 		<tr>
 			<td height="1" bgcolor="#CCC5EF"></td>
 		</tr>
+		
 		
 		
 		
@@ -873,15 +936,109 @@ function openNewWindow() { window.open('http://www.batchmates.com/gifts_popup.as
 				<PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="/images/joinus_2.swf" quality=high bgcolor=#FFFFFF  WIDTH="146" HEIGHT="426" NAME="flash_banner" ALIGN=""
 				TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
 				</OBJECT>-->
-				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="146" height="426" id="joinus_scrip" align="" viewastext="">
+				<!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+WIDTH="146" HEIGHT="426" id="joinus_scrip" ALIGN="" VIEWASTEXT>
   <param name="movie" value="/images/joinus_scrip.swf">
-  <param name="FlashVars" value="fname=1547200&amp;ffriend=7500&amp;fmillion=2.7&amp;fplus=195100&amp;fworkplace=10200">
-   <!--===============================-->
+  <PARAM NAME=FlashVars VALUE="fname=1768000&ffriend=7500&fmillion=2.7&fplus=199800&fworkplace=9100">
+  
   <param name="wmode" value="transparent">
-  <!--===============================-->
+  
   <param name="quality" value="high">
-  <param name="bgcolor" value="#FFFFFF"><embed src="/images/joinus_scrip.swf" quality="high" bgcolor="#FFFFFF" width="146" height="426" name="joinus_scrip" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>
+  <param name="bgcolor" value="#FFFFFF"><embed src="/images/joinus_scrip.swf" quality="high" bgcolor="#FFFFFF" WIDTH="146" HEIGHT="426"
+NAME="joinus_scrip" ALIGN TYPE="application/x-shockwave-flash"
+PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">
+</object>-->
+
+
+
+
+<title>Why Join Us</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+
+
+
+
+<div align="center"><center>
+
+<table border="0" width="146" cellspacing="0" cellpadding="0" bgcolor="#7b5099">
+  <tbody><tr>
+    <td width="100%" height="52"><div align="center"><center><table border="0" width="80%" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="100%"><strong><font face="Verdana" size="3" color="#FFFFFF">Why<br>
+        </font><font face="Verdana" size="5" color="#FFFF00">Join Us?</font></strong></td>
+      </tr>
+    </tbody></table>
+    </center></div></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="0" width="95%" cellspacing="0" cellpadding="3" bgcolor="#FFFFFF">
+      <tbody><tr>
+        <td valign="top" align="center"><img src="/right.gif" width="20" height="20" alt="right.gif (356 bytes)"></td>
+        <td><font face="Verdana" size="1">Reunite with friends and colleagues</font></td>
+        <td></td>
+      </tr>
+       <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">1,500+ new members everyday</font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">1,768,000+ registrations</font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">7,500+ friends revisiting everyday </font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">3 million friends reunited so far</font></td>
+        <td></td>
+      </tr>
+      <!--<tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">199,800 plus schools and colleges</font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">9,100 plus workplaces</font></td>
+        <td></td>
+      </tr>-->
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">Armed Forces institutes</font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">Civil Services</font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="/right.gif" width="20" height="20"></td>
+        <td><font face="Verdana" size="1">Free Dating <br>
+        &amp; E-card service</font></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td valign="top" colspan="3"><p align="center"><strong><font face="Verdana" size="3" color="#FF0000">&amp;</font><br>
+        <font face="Verdana" size="2" color="#FF0000">Much More!!</font></strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" colspan="3" bgcolor="#7B5099" height="3"></td>
+      </tr>
+    </tbody></table>
+    </center></div></td>
+  </tr>
+</tbody></table>
+</center></div>
+
+
+
 			</td>
 			</tr>
 			<tr>
@@ -975,50 +1132,15 @@ function openNewWindow() { window.open('http://www.batchmates.com/gifts_popup.as
      <font color="#000000">© Batchmates.com 2006</font>
     <br>&nbsp;
     
-    <div align="center">
-      <center>
-	  
-	  <table border="0" width="100%" height="60" cellspacing="0" cellpadding="0">
-	  
-        <tbody><tr>
-          <td width="100%" align="center" valign="top">
-			
-          
-			<!-- FASTCLICK.COM 468x60 Banner CODE for batchmates.com -->
-
-			<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=18851&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=18851&m=1&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=18851&m=1&tp=5&d=s&c=1"
-width=728 height=90 border=1></a></noscript>
-
-			<!-- FASTCLICK.COM 468x60 Banner CODE for batchmates.com -->
-		 
-
-	</td>
-        </tr>
-      </tbody></table>
-      </center>
-    </div>
+    
     </td>
-    <!--td valign="top" align="center" width="150"><img src="/images/b.gif" height="1" border="0" alt="" /><br>
-        <table border="0" width="125" cellspacing="0" cellpadding="0" align="center" height="125">
-          <tr>
-            <td width="100%"><br>
-			<A HREF="/batchmatesgift/default.asp"><img src="/banner/BG125x125B.gif" border="0"></A>
-			</td>
-          </tr>
-        </table>
-        <br>
-    </td-->
+    
   </tr>
 </tbody></table>
 </div>
 
-		<!--<script language="JavaScript"> 
-			timespu=window.open('/pops/timesjobs_pu.asp','tj','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=300,height=300,top=75,left=200');
-			timespu.blur();
-			window.focus();
-		</script>-->
-		
+
+
+
 
 </body></html>
