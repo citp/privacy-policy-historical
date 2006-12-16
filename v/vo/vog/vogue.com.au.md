@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615102043id_/http%3A//www.vogue.com.au/general/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216085744id_/http%3A//www.vogue.com.au/general/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / General / Vogue Australia
 
@@ -8,14 +8,14 @@ FPC Magazines is committed to providing its customers and clients with the highe
 
 This policy statement will address the following: 
 
-  * The types of information we collect 
-  * How we use or disclose the information we collect 
-  * The quality and security of the information we hold 
-  * Your access to the information we hold 
-  * Transborder (interstate and international) data movement 
-  * Your participation on our websites 
-  * Links to other websites 
-  * Our policy on children's privacy protection 
+  * The types of information we collect
+  * How we use or disclose the information we collect
+  * The quality and security of the information we hold
+  * Your access to the information we hold
+  * Transborder (interstate and international) data movement
+  * Your participation on our websites
+  * Links to other websites
+  * Our policy on children's privacy protection
   * How to contact us for more information
 
 
@@ -44,9 +44,9 @@ We **_will not_** intentionally disclose any personally identifiable information
 
 Any personally identifiable information you provide will only be provided to third parties if: 
 
-  * You consent to such a disclosure 
-  * We are compelled or authorised to do so by law 
-  * We reasonably believe there is a threat to someone's life or health 
+  * You consent to such a disclosure
+  * We are compelled or authorised to do so by law
+  * We reasonably believe there is a threat to someone's life or health
   * Our website or business is sold to, or merged with another entity
 
 
