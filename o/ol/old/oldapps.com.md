@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the oldapps.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614060840id_/http%3A//www.oldapps.com/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldapps.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216204709id_/http%3A//www.oldapps.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of OldApps.com
 
 #### Privacy Policy of OldApps.com 
 
-In the following document we, us, and other related words refer to OldApps.com.
+At OldApps.com we understand that privacy is important to you. We are committed to keep your personal information confidential. We will never initially give away any of your personal information to third party, unless you have given us specific permission to do so.
 
-We are committed to keep your personal information confidential. We will never initially give away any of your personal information to third party, unless you have given us specific permission to do so. 
+**Personal Information and Data Collection**
 
-This site is supported by Advertisements. If you click on any ads or on any outside links, OldApps.com is not responsible for privacy of such sites. We usually do not put any software that will take your information and deliver it to third party without your permission. By any chance if you notice such software please contact us immediately.
+  * OldApps.com collects personal information to provide better services.
+  * Our server automatically collects information such as the origin of you visit, time fo your visit, your IP address and your ISP. 
+  * We may also use your information for auditing, research and analysis to operate and improve our services. 
+  * We do not share this information to any other parties.
 
-We use cookies and third party data analytics to collect our visitors’ information. We usually log your IP address and ISP to serve you better by knowing your location. This collected information is limited only to your country and your internet service provider. 
 
-Please note that our privacy policy may change time to time. If you have any question about this Privacy Statement please feel free to contact us.
+
+This site is supported by advertisements. If you click on any ads or on any outside links, OldApps.com is not responsible for privacy of such sites. We usually do not put any software that will take your information and deliver it to third party without your permission. By any chance if you notice such software please contact us immediately.
+
+Please note that our privacy policy may change time to time. If you have any question about this Privacy Statement please feel free to [contact us](https://web.archive.org/web/20061216204709id_/http%3A//www.oldapps.com/contact.php).
