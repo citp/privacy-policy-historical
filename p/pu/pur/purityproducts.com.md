@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223238id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216105954id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
 
 # Purity Products
 
@@ -18,10 +18,10 @@
 | **[Ultra Pure Omega 3 Fish Oil](http://www.purityproducts.com/product.asp?sku=195)**  
 | **[Omega Berry Fish Oil](http://www.purityproducts.com/product.asp?sku=381)**  
 | **[Perfect Multi - Super Greens](http://www.purityproducts.com/supergreens.asp?)**  
-| **[Perfect Multi](http://www.purityproducts.com/multivitamin.asp?)**  
-| **[Super Reds](http://www.purityproducts.com/product.asp?sku=380)[](http://www.purityproducts.com/Oil-of-oregano.asp?)**  
-| **[Triple Greens](http://www.purityproducts.com/Supergreens-Green-Drink.asp?) or [Perfect Purples](http://www.purityproducts.com/product.asp?sku=384)**  
-| **[Oregano Kit](http://www.purityproducts.com/Oil-of-oregano.asp?)**  
+| **[Super Reds](http://www.purityproducts.com/product.asp?sku=380) & [Perfect Purples](http://www.purityproducts.com/product.asp?sku=384)**  
+| **[Triple Greens](http://www.purityproducts.com/Supergreens-Green-Drink.asp?) **  
+| **[Nuvaprin HD](http://www.purityproducts.com/product.asp?sku=382)[](http://www.purityproducts.com/product.asp?sku=384)**  
+| **[Co-Q-Max Plus Ginkgo](http://www.purityproducts.com/product.asp?sku=231)[](http://www.purityproducts.com/product.asp?sku=329)**  
 | **[GC Flex](http://www.purityproducts.com/product.asp?sku=393)**  
   |   
 [](http://www.purityproducts.com/pr_index.asp?)  
@@ -29,7 +29,7 @@
 [](http://www.purityproducts.com/dept_index.asp?)  
 |  | **[Joint Health](http://www.purityproducts.com/dept.asp?dept%5Fid=9)**  
 ---|---  
-| **[Longevity](http://www.purityproducts.com/dept.asp?dept%5Fid=10)**  
+| **[Healthy Aging](http://www.purityproducts.com/dept.asp?dept%5Fid=10)**  
 | **[Heart/Cardio Health](http://www.purityproducts.com/dept.asp?dept%5Fid=2)**  
 | **[Brain/Memory Health](http://www.purityproducts.com/dept.asp?dept%5Fid=13)**  
 | **[Immune Health](http://www.purityproducts.com/dept.asp?dept%5Fid=8)**  
@@ -43,6 +43,13 @@
   |  |  |   
 ---|---  
 ****| **We Value your Privacy**  
+  
+
+
+[About SSL Certificates](http://www.verisign.com/ssl/ssl-information-center/)
+
+[](https://www.scanalert.com/RatingVerify?ref=www.purityproducts.com)
+
 | [](http://www.purityproducts.com/specialty.asp?)[](http://www.purityproducts.com/specialty.asp?)[](http://www.purityproducts.com/health.asp?)[](http://www.purityproducts.com/Customercare.asp?)[](http://www.purityproducts.com/autoship.asp?)[](https://www.purityproducts.com/account.asp?)[](http://www.purityproducts.com/basket.asp?)  
 ---  
 | [](http://www.purityproducts.com/aboutus.asp?)[](http://www.purityproducts.com/specialty.asp?) |   
