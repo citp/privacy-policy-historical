@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214121id_/http%3A//dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,14 +30,14 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 * * *
 
-Most Popular Articles[Update: AMD Plans Major CPU Price Drops Day After "Conroe"  
-](https://web.archive.org/web/20060615214121id_/http%3A//dailytech.com/article.aspx?newsid=2800)June 11, 2006, 11:36 PM  
-[Update: ATI Responds to NVIDIA's GeForce 7950GX2  
-](https://web.archive.org/web/20060615214121id_/http%3A//dailytech.com/article.aspx?newsid=2735)June 7, 2006, 11:39 PM  
-[PQI Introduces 64GB NAND Flash 2.5" Disks  
-](https://web.archive.org/web/20060615214121id_/http%3A//dailytech.com/article.aspx?newsid=2763)June 8, 2006, 4:37 AM  
-[Meizu Introduces iPod-Like Video Player  
-](https://web.archive.org/web/20060615214121id_/http%3A//dailytech.com/article.aspx?newsid=2775)June 9, 2006, 7:22 AM  
-[Apple Sues Creative, Again  
-](https://web.archive.org/web/20060615214121id_/http%3A//dailytech.com/article.aspx?newsid=2767)June 8, 2006, 8:14 PM  
+Most Popular Articles[Pirates Activate Copies of Vista Over Spoofed Server  
+](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5299)December 10, 2006, 1:07 PM  
+[Microsoft Sued for Bricking Xbox 360s  
+](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5291)December 11, 2006, 12:42 AM  
+[RIAA Defendant Files Lawsuit on Kazaa Owner  
+](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5281)December 9, 2006, 9:54 AM  
+[Nintendo Sued Over Wii Remote  
+](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5289)December 10, 2006, 11:40 PM  
+[AMD Renames Another ATI Product  
+](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5314)December 11, 2006, 5:51 PM  
 
