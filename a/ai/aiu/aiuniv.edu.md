@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616080446id_/http%3A//www.aiuniv.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033014id_/http%3A//aiuniv.edu/privacy.asp) for the most accurate reproduction.*
 
 # American InterContinental University - Privacy Policy
 
@@ -44,12 +44,13 @@ The Sites contain links to other web sites that are not owned or operated by Ame
 
 To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below: 
 
-**1\. Email[webmaster](mailto:webmaster@careeredonline.com)**
+**1\. Email the[webmaster](mailto:webmaster@careeredonline.com&subject=Important!%20Sent%20From%20http://www.aiuniv.edu/privacy.asp)**
 
 **2\. Contact us at**  
 American InterContinental University  
-3330 Peachtree Road, N.E.  
-Altanta, GA 30326  
+6600 Peachtree-Dunwoody Road  
+500 Embassy Row  
+Atlanta, Georgia 30328  
 Phone: 1.888.379.5888 
 
 | 
