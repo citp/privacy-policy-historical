@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629004307id_/http%3A//www.brent.gov.uk/www.nsf/24878f4b00d4f0f68025663c006c7944/d4eaf114ee6bb2fe80256bac003991c7%21OpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216132656id_/http%3A//www2.brent.gov.uk/www.nsf/24878f4b00d4f0f68025663c006c7944/d4eaf114ee6bb2fe80256bac003991c7%21OpenDocument) for the most accurate reproduction.*
 
 # Privacy statement of the London Borough of Brent
 
@@ -77,7 +77,7 @@ Brent Council will only hold sufficient personal details for the sending of shor
 
  **Browser**
 
-Used to locate and display Web pages via a software application. The most popular ones are Netscape Navigator and Microsoft Internet Explorer. 
+Used to locate and display Web pages via a software application. The most popular ones are Firefox, Netscape and Microsoft Internet Explorer. 
 
 **Cookie**
 
