@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastsigns.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616040616id_/http%3A//www.fastsigns.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsigns.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216234002id_/http%3A//www.fastsigns.com/privacy.html) for the most accurate reproduction.*
 
 # Digital Sign Solutions, Graphic Services, Signs, Signage: FASTSIGNS®
 
@@ -8,7 +8,7 @@ At FASTSIGNS International, Inc., ("FII," "we," "us" or "our") your privacy is o
 
 |   | FASTSIGNS International, Inc.,  
 Attention: Webmaster - "FASTSIGNS International, Inc. Privacy Policy"  
-2500 Midway Road, Suite 150,  
+2542 Highlander Way  
 Carrollton, Texas 75006.  
 ---|---  
   
@@ -62,7 +62,7 @@ You may request to stop receiving marketing or promotional communications by sen
   | Writing to us at:  | FASTSIGNS International, Inc.,  
 Attention: Webmaster - "FASTSIGNS International, Inc.  
 Privacy Policy"  
-2500 Midway Road, Suite 150,  
+2542 Highlander Way  
 Carrollton, Texas 75006  
   
 However, to the extent that corrected or deleted information is also stored in other databases, we cannot always ensure that such corrections or deletions will immediately reach the other databases. Some information may be retained for longer periods as required by law, contracts or auditing requirements.
