@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukhairdressers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615183827id_/http%3A//www.ukhairdressers.com/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukhairdressers.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216231659id_/http%3A//www.ukhairdressers.com/store/privacy.asp) for the most accurate reproduction.*
 
-# UKhairdressers Online Store
+# UKhairdressers Online Store - Privacy Statement
 
 **UKhairdressers.com will never give, lease or sell your personal information. Period!**
 
