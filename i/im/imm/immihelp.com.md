@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614084629id_/http%3A//immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216113042id_/http%3A//immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
@@ -31,8 +31,7 @@
  [USCIS - TSC(Texas)](https://web.archive.org/timings/texas.jsp)  
  [USCIS - VSC(Vermont)](https://web.archive.org/timings/vermont.jsp)  
  [USCIS- Local Offices](https://web.archive.org/timings/local.jsp)  
- [Labor-State(SESA) Level](https://web.archive.org/timings/sesa.jsp)  
- [Labor-State(DOL) Level ](https://web.archive.org/timings/dol.jsp)  
+ [Labor Certification](https://web.archive.org/timings/laborcertification.jsp)  
   
   
  Green card  
@@ -40,9 +39,9 @@
 ---  
  [Adjust. of Status(I-485)](https://web.archive.org/greencard/adjustmentofstatus/index.html)  
  [Consular Processing](https://web.archive.org/gc/consular/)  
- [I-140](https://web.archive.org/gc/employment/i140.html)  
+ [Employment Green Card](https://web.archive.org/greencard/employmentbasedimmigration/)  
  [Labor Certification](https://web.archive.org/gc/employment/labor/)  
-     [More...](https://web.archive.org/gc/)  
+     [More...](https://web.archive.org/greencard/)  
   
  USA Guide  
   
