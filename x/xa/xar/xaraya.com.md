@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaraya.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315154653id_/http%3A//xaraya.com/index.php/roles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraya.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216223043id_/http%3A//www.xaraya.com/index.php/registration/privacy) for the most accurate reproduction.*
 
 # Xaraya :: Privacy Statement
 
@@ -6,7 +6,7 @@
 
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control.
 
-Please take time to read our [Terms of Use](http://xaraya.com/index.php/roles/terms). 
+Please take time to read our [Terms of Use](http://www.xaraya.com/index.php/registration/terms). 
 
 ### 1. Collection of Data
 
@@ -22,11 +22,11 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 
 ### 4. Editing or Deleting Your Account Information
 
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://xaraya.com/index.php?module=roles). You may request deletion of your user account by contacting [our webmaster](mailto:info@xaraya.com).
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://www.xaraya.com/index.php/registration). You may request deletion of your user account by contacting [our webmaster](mailto:info@xaraya.com).
 
 Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted.
 
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control.Please see our [Terms of Use](http://xaraya.com/index.php/roles/terms) for more information.
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control.Please see our [Terms of Use](http://www.xaraya.com/index.php/registration/terms) for more information.
 
 ### 5.  Changes to this Privacy Policy
 
