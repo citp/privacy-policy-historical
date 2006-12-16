@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045531id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216114912id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
 
 # Club Monaco Privacy Policy
 
@@ -11,7 +11,7 @@
 
 ### Club Monaco U.S. Privacy Policy
 
-Last modified: November 9, 2005
+Last modified: July 9, 2005
 
 **U.S. Privacy Policy**
 
@@ -78,7 +78,7 @@ The Platform for Privacy Preferences Project ("P3P") is a standard developed by 
 
 **Security and SSL**
 
-Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information. To check the security of your connection, look at the lower right-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the Site address will change from "http" to "https." Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you won't be able to connect to the server and therefore won't be able to place an order through a secure connection. If you cannot access the secure server for any reason, please print our shopping page and place your order by phone at 888-475-7674. 
+Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information. To check the security of your connection, look at the lower right-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the Site address will change from "http" to "https." Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you won't be able to connect to the server and therefore won't be able to place an order through a secure connection. 
 
 **Information Removal/Opt-Out**
 
@@ -86,7 +86,7 @@ If you prefer not to receive marketing emails from clubmonaco.com, please click 
 
 Please note that such requests may take up to ten (10) days to become effective. 
 
-If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Brooke K. Travis, Senior Manager of Global Creative Marketing, Club Monaco Inc., 601 West 26th Street, 8th Floor, New York, NY 10001. In addition, you may call us to become part of the "do-not-share" list at 888-475-7674. 
+If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Brooke K. Travis, Senior Manager of Global Creative Marketing, Club Monaco Inc., 601 West 26th Street, 8th Floor, New York, NY 10001.
 
 **Children and Privacy**
 
