@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stilacosmetics.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326005006id_/http%3A//www.stilacosmetics.com/customerservice/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stilacosmetics.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216103229id_/http%3A//www.stilacosmetics.com/customerservice/privacy.tmpl) for the most accurate reproduction.*
 
 # Stila Customer Service | Privacy Policy
 
