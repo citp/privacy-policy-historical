@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427103545id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216203126id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -97,7 +97,7 @@ Back to Top
 
 ## DATA TRANSFERS ACROSS INTERNATIONAL BORDERS::
 
-As a global company, we endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your information, including personally identifiable information (PII), to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your PII is protected and handled as described in this Privacy Statement. Japan residents, please click here for information for information regarding the Japan Personal Information Protection Act. 
+As a global company, we endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your information, including personally identifiable information (PII), to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your PII is protected and handled as described in this Privacy Statement. Japan residents, please click here for information regarding the Japan Personal Information Protection Act. 
 
 Back to Top
 
