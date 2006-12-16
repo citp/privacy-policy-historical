@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314162522id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216152821id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
 
 # Weather for You Privacy Statement
 
@@ -10,12 +10,12 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     Torsitano Internet Services
-    1217 Plaza Blvd Ste E-107
-    Central Point, OR  97502 
+    P.O. Box 2361
+    Grants Pass, OR 97528-2361 
     USA
     
 
-You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 541-955-1554. 
+You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 541-441-8050. 
 
 ## Dispute Resolution and Privacy Seals
 
