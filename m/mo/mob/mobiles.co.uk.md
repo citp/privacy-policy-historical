@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615153753id_/http%3A//mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216084113id_/http%3A//mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# Orange Mobile Phones 01923-804444 Mobiles.co.uk - Privacy Statement - Mobiles.co.uk 0870 0804444
+# Our Privacy Policy. - Cheap Mobile Phones on Orange, 3, O2, T-Mobile - Three, 3g, Sony Ericsson K800i, Samsung D900, W810i. Best deals UK contract phones
 
 ## Mobiles.co.uk
 
@@ -38,5 +38,3 @@ The information we hold will be accurate and up to date. You can check the infor
 > If we believe an order has been placed fraudulently, or our online auction system has been abused, then we may share that information with third parties including the Police, credit card companies and any other organisation that may help to track and/or prevent future occurences of fraud or abuse.
 > 
 > If you have any questions about privacy, please e-mail [Ben Godber](mailto:ben.godber@mobiles.co.uk?subject=Privacy%20Policy). 
-
-[ Last updated on 15 Jun 2006 ]
