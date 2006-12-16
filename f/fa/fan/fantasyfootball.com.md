@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214335id_/http%3A//fantasyfootball.com/modules/wfchannel/index.php%3Fpagenum%3D260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033250id_/http%3A//www.fantasyfootball.com/policy) for the most accurate reproduction.*
 
-# Fantasy Football - Content
-
-  
-
-
-[](http://football.sportsline.com/splash/football/spln/mgmt?refcode=os-f06_FF_gat)
-
-  
-
-
-[](http://store.bowlbound.com/)
-
-[](http://www.fantasyfootball.com/modules/wfchannel/index.php?pagenum=59)
-
-| 
+# fantasyfootball.com: Privacy Policy
 
 **Fantasy Planet Privacy Policy**
 
@@ -94,16 +80,3 @@ Customer Support
 4245 Kemp Suite 818  
 Wichita Falls, TX 76308  
 (866) 475-9002 
-
-  
-  
-
-
-| 
-
-SPONSOR
-
- **ORDER ONLINE NOW!  
-WIN PRIZES! [](http://www.fantasyfootball.com/modules/wfsection/article.php?articleid=97)  
-CLICK HERE**  
-
