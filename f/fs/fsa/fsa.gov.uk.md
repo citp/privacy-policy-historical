@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsa.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194627id_/http%3A//www.fsa.gov.uk/Pages/Privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsa.gov.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216040730id_/http%3A//www.fsa.gov.uk/Pages/Privacy/index.shtml) for the most accurate reproduction.*
 
 # Privacy policy statement
 
@@ -19,7 +19,3 @@ The FSA site does not automatically capture or store personal information, other
 This policy does not cover links within this site to other websites.
 
 We use cookies to make sure your session on this website is secure. We also use embedded pixels - with cookies, these help us to track how many people are using our site. These collect data about the paths that users take when navigating our website. We use this information to evaluate site content, navigability and composition, as well as page response rates (how quickly pages download). With both cookies and embedded pixel technology, the information we collect is anonymous and does not contain your name, address, telephone number, or email address. We cannot personally identify you. 
-
-## See also 
-
-Information on [Data protection](https://web.archive.org/pages/Privacy/data_protection/index.shtml).
