@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615132456id_/http%3A//www.susquehanna.net/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216185555id_/http%3A//www.susquehanna.net/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Susquehanna Privacy Information
 
@@ -31,7 +31,7 @@ We may share all of the information we collect about you with the businesses wit
 **Who Receives Information and Why**   
 There are certain situations where we may share non-public personal information about you with businesses outside of our corporate family as permitted by law. We will not, however, share any information with companies outside of the financial services industry for purposes of marketing that company's products and services. We may share information within our corporate family. The following is a description of the types of businesses within our corporate family with which we may share information: 
 
-  * a registered investment advisor, a mortgage company, a securities broker-dealer, a trust company, insurance agencies, and an automobile leasing company.
+  * financial service providers such as banks, a registered investment advisor, a mortgage company, a securities broker-dealer, a trust company, insurance agencies, and an automobile leasing company.
 
 **Service Providers/Joint Marketing Partners**   
 In order to provide you with valuable financial products or services, we may share with businesses outside of our corporate family both Transactional Information and Credit Report Information. These businesses will be performing marketing and other services on our behalf. We also may share this information with other financial institutions with which we have joint marketing agreements. 
