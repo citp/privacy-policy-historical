@@ -1,96 +1,125 @@
-> *The following text is extracted and transformed from the mydlink.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606055011id_/http%3A//www.mydlink.com/prvstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydlink.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216011220id_/http%3A//www.teltel.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# New Page 1
+# TelTel- More than a telephone, it's a TelTel Phone.
 
-## Privacy Statement
+  | 
 
-mydlink.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices OF OUR Web site[. ](http://www.hr-info.com/)
+## Privacy Policy
 
-#### Information Automatically Logged
+#### TELTEL.COM PRIVACY POLICY
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, eg country of origin. 
+We take your privacy concerns very seriously. This privacy policy will help you understand how TelTel.com uses and safeguards the information you provide while using the TelTel software and services. The privacy policy is effective from July 1, 2004.
 
-**Cookies**
+Information We Collect and How We Use It
 
-Our Site uses cookies to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. 
+> Registration  
+>  Add a Friend Feature  
+>  Communications Contents  
+>  Call Detail Records  
+>  Cookies  
+>  Call Forwarding and Find-Me services
 
-#### Advertisers
+Risks and Disclaimers
 
-We use our own advertisement system to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our system, and passed on to the advertiser. This includes only click through rates and number of impressions.
+Information You Share With Other TelTel Users
 
-#### Registration Forms
+> Legal Requests  
+>  Personal Information Review and Change Request  
+>  Account Deactivation and Deletion  
+> 
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age).
+Security
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary.
+Change of Ownership
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Changes to Our Privacy Policy
 
-Unique identifiers (such as user name and password) are collected from Web site members to verify the member's identity.
+Contact Us
 
-#### Order Forms
+##### Information We Collect and How We Use It 
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), unique identifiers , and demographic information (like their zip code, age, or income level).
+We do NOT sell, rent, loan, trade, lease, or otherwise share any personal information you provide or we collect with any third party outside TelTel.com without your explicit consent. This section describes all the ways in which we use your information.  
+Back to top
 
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary.
+##### Registration 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+In order to use the TelTel, you must first complete the registration form. During registration you are required to provide a valid email address and to choose a password and display name. We use your email address and password to validate your identity each time you login. Your display name identifies you to other TelTel users. Other TelTel users do not see your email address. 
 
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity.
+When you register, we send you a single welcome email. Clicking on the link in the welcome email allows us to verify that the email address you provided is active and correct.  
+Back to top
 
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+##### Add A Friend Feature 
 
-#### Surveys
+If you choose to invite another person to register with TelTel and join your Friend List, you have the option of sending the invitation by email. The invitee's name (optional) and email address, and your name (optional) are stored temporarily and are used only to generate the email invitation. After the invitation is sent, we delete this information. In particular, we do not store your name and if the invitee chooses not to register with TelTel, we store no information about him or her. If the invitee chooses to register with TelTel using a different email address, we store only the information he or she explicitly provides during registration.  
+Back to top
 
-Our online surveys do not ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level).
+##### Communications Contents 
 
-#### External Links
+TelTel.com does NOT monitor or store the contents of any call or conference in which you participate. The contents of any Call Me request that you send or receive are stored on our servers until they expire, until the sender and the receiver complete a call, or until the sender removes them, AT WHICH TIME WE DELETE ALL RECORD OF THE CALL ME REQUEST. A Call Me request comprises a sender, a receiver, an importance (High, Medium, or Low), a short text message (optional), and an expiration time.  
+Back to top
 
-This site contains links to other sites. mydlink.com  is not responsible for the privacy practices or the content of such Web sites.
+##### Call Detail Records 
 
-#### Special Relationships
+All telephony applications retain Call Detail Records (CDRs) for administrative and, possibly, billing purposes. A CDR is a record of the caller, the callee, the date and timestamp, the elapsed time, and the call failure class (in the case of an unsuccessful call). As stated in the previous section, a CDR does not include any record of the call contents. CDRs are automatically generated by our system and are stored centrally on TelTel.com servers in the United States and/or China. 
 
-This site has a number of special relationships with vendors and advertisers.
+TelTel.com uses the information contained in CDRs in an aggregated statistical form for the purposes of improving service quality and of detecting fraud or misuse. We reserve the right to share aggregate usage data with third parties, but we do NOT sell, rent, loan, trade, lease, or otherwise share personally identifiable information about your usage patterns without your explicit consent.   
+Back to top
 
-The information collected to enable you to download software from our site is shared between mydlink.com and the Vendor of the Software
+##### Cookies 
 
-The information requested when replying to certain advertisements eg job advertisements belongs to the Advertiser and mydlink.com has no access to it.
+Cookies are small files that are stored on your hard drive. TelTel.com uses encrypted ?î¯Šookies??to enable TelTel users to add friends to their Friend Lists. Specifically, we do NOT use cookies to track user behavior. Because the cookies are encrypted, they represent no threat to the security of your personal information even if someone were to gain access to your computer.  
+Back to top
 
-mydlink.com is not responsible for the privacy practices of those advertisers.
+##### Call Forwarding and Find-Me services
 
-#### Public Forums
+If users wish to use the TelTel Call-Forwarding and Find-Me services, users need to provide telephone numbers in order for the service to be provided. Collected information for such purposes is stored in TelTel servers through user submission.  
+Back to top
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+#### Risks and Disclaimers 
 
-#### Security
+##### Information You Share With Other TelTel Users 
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+When you contact another TelTel user or join a phone conference with other TelTel users, you should be aware that any personal information you share with that user is potentially subject to misuse and abuse. We are not responsible for any personally identifiable information that you choose to share with other TelTel users. 
 
-We specifically recommend the use of our secure server where ever possible when providing private information.
+Also be aware that, as with any peer-to-peer communication application, another user of the TelTel software may be able to obtain your IP address if you join a call or conference with that user.   
+Back to top
 
-Our members site has security controls in place eg the use of user name and password login.
+##### Legal Requests 
 
-Security measures are in place and a log file is kept of all attempts legitimate or not to access private areas of our site.
+In response to a verified request by a law enforcement or government agency relating to a criminal investigation or alleged illegal activity, we can disclose your email address and usage patterns without a subpoena if we believe in good faith that the disclosure of this information is necessary to prevent imminent physical or mental harm, or financial loss. We will not disclose your personal information to law enforcement or other government agencies for any other reason in the absence of a subpoena or court order.   
+Back to top
 
-#### Choice/Opt-Out
+##### Personal Information Review and Change Request
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us .
+We do not maintain any procedure for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with the Account Deactivation and Deletion section below.  
+Back to top
 
-  1. You can send email to [support@mydlink.com](mailto:support@mydlink.com)
+##### Account Deactivation and Deletion 
 
+Upon your request, we will deactivate your account and delete all your personally identifiable information from our databases as soon as reasonably possible provided we are under no obligation to retain this information in response to a criminal investigation as described in the previous section. Send your deactivation requests to [delete@teltel.com ](mailto:delete@teltel.com). We will confirm receipt of your request and before deactivating your account will verify that you sent the request.  
+Back to top
 
+##### Security 
 
-#### Data Quality/Access
+TelTel.com stores your information centrally on servers in the United States and China. We use procedural and technical safeguards (including firewalls, encryption, and access control lists) to protect this information against loss, theft, or unauthorized access. Although we follow generally accepted industry standards to protect the information you submit, both during transmission and once we receive it, no method of transmission over the Internet or of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to safeguard your personal information, we cannot guarantee its absolute security.  
+Back to top
 
-This site gives users the following options for changing and modifying information previously provided: 
+##### Change of Ownership
 
-  1. You can send email to [support@mydlink.com](mailto:support@mydlink.com)
+In order to accommodate changes in our business, we may sell our company or our assets, including the information collected through this website. If our Company or substantially all of our assets are acquired, customer information may be one of the assets transferred to the acquirer.  
+Back to top
 
+##### Changes to Our Privacy Policy 
 
+We may amend this privacy policy at any time by posting the amended terms here, [www.teltel.com/privacyPolicy.html](http://www.teltel.com/privacyPolicy.html).  
+All amended terms will become effective 14 days after the initial posting.
 
-## Contacting the Web Site
+If we make material changes our privacy policy, we will notify you by email or by means of a notice posted on our home page.  
+Back to top
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+##### Contact Us 
 
-[support@mydlink.com](mailto:support@mydlink.com)
+If you have additional questions about our privacy policy, please contact us at [info@teltel.com](mailto:info@teltel.com).  
+Back to top
+
+|  
