@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060439id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216162813id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # POP ART UK: Privacy Policy
 
