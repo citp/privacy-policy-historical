@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616070331id_/http%3A//kcchiefs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216021943id_/http%3A//www.kcchiefs.com/privacy) for the most accurate reproduction.*
 
-# Kansas City Chiefs - Kansas City Chiefs Privacy Policy
+# Kansas City Chiefs - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.kcchiefs.com&sealid=101)[ ](http://www.truste.org/ivalidate.php?url=www.kcchiefs.com&sealid=101)
 
@@ -137,3 +137,5 @@ Attn: Website Privacy Policy
 Kansas City Chiefs  
 1 Arrowhead Drive  
 Kansas City, MO 64129
+
+| 
