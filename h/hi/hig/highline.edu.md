@@ -1,34 +1,30 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619112123id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216083006id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Highline Community College
+# Highline Community College, Des Moines, Washington (Community Colleges)
 
- [Home](https://web.archive.org/web/20060619112123id_/http%3A//www.highline.edu/home/home.htm) > Privacy Policy
-
-  * Introduction
-  * Information collected and how it is used
-  * Personal information and choice
-  * Public access to information
-  * Nondisclosure of certain personal information
-    * Credit Card Payment
-    * Degree Audit
-    * Financial Aid Inquiry
-    * Hope and Lifetime Learning Tax Credit
-    * Registration
-    * Registration Appointment
-    * Schedule Planner
-    * Student Address Change
-    * Student PIN Change
-    * Student Schedule
-    * Unofficial Transcript
-    * Library and Electronic Resources
-    * Instructional Activities
-  * Review and correction of personally identifiable information
-  * Cookies
-  * Security
-  * Disclaimer
-  * Highline Community College contact information
-
-
+* Introduction
+* Information collected and how it is used
+* Personal information and choice
+* Public access to information
+* Nondisclosure of certain personal information
+* Credit Card Payment
+* Degree Audit
+* Financial Aid Inquiry
+* Hope and Lifetime Learning Tax Credit
+* Registration
+* Registration Appointment
+* Schedule Planner
+* Student Address Change
+* Student PIN Change
+* Student Schedule
+* Unofficial Transcript
+* Library and Electronic Resources
+* Instructional Activities
+* Review and correction of personally identifiable information
+* Cookies
+* Security
+* Disclaimer
+* Highline Community College contact information
 
 * * *
 
@@ -214,11 +210,11 @@ Highline Community College may require you to provide certain personal informati
 In addition to the previously identified laws and regulations, the following apply:
 
   * [RCW 42.17.310](http://apps.leg.wa.gov/rcw/default.aspx) (l) exempts the following from public inspection and copying: (l) Any library record, the primary purpose of which is to maintain control of library materials, or to gain access to information, which discloses or could be used to disclose the identity of a library user. 
-    * For the purposes of this regulation, Highline’s workstation and network logs that collect and retain information concerning information resources accessed shall be considered library records.
-  * Highline Community College Library [ Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
-  * 50 U.S.C. 1861 et seq.. Under the Foreign Intelligence Surveillance Act, ("FISA"), the FBI may obtain an ex parte (without a formal hearing) court order allowing access to the records of library patrons.
 
 
+* For the purposes of this regulation, Highline’s workstation and network logs that collect and retain information concerning information resources accessed shall be considered library records.
+* Highline Community College Library [ Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
+* 50 U.S.C. 1861 et seq.. Under the Foreign Intelligence Surveillance Act, ("FISA"), the FBI may obtain an ex parte (without a formal hearing) court order allowing access to the records of library patrons.
 
 Top of page
 
@@ -279,12 +275,12 @@ To review your personal information, or request correction of your personal info
 
 > Public Records Officer  
 >  Highline Community College  
->  M/S 6-11  
+>  P.O. Box 98000  M/S 6-11  
 >  2400 S. 240th Street  
 >  Des Moines, WA 98198  
-> (206)-878-3710 ext. 3559  
+> (206)-878-3710 ext. 3363  
 > Fax: (206)-870-3780   
->  [briverma@highline.edu](mailto:briverma@highline.edu)
+>  [dfaison@highline.edu](mailto:dfaison@highline.edu)
 
 To offer comments about Highline Community College's Web site or about the information presented in this Privacy Notice:
 
@@ -292,6 +288,6 @@ To offer comments about Highline Community College's Web site or about the infor
 >  Highline Community College  
 >  2400 S. 240th Street  
 >  Des Moines, WA 98198  
-> (206)-878-3710 ext. 6106  
+> (206)-878-3710 ext. 4320  
 >  Fax: (206)-870-3744  
 > [ webmaster@highline.edu](mailto:webmaster@highline.edu)
