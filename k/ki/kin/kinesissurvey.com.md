@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414222641id_/http%3A//www.kinesissurvey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216233232id_/http%3A//www.kinesissurvey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Kinesis Survey Technologies - Wireless and Web Surveys for Market Research Industry
 
