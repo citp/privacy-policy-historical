@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the bombingscience.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214150540id_/http%3A//bombingscience.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombingscience.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217001059id_/http%3A//www.bombingscience.com/disclamer.htm) for the most accurate reproduction.*
 
-# Updates
+# Link the graffiti newsletter
 
-**Privacy Policy**
+**DISCLAMER :**
+
+BombingScience.com is not responsible and does not promote any vandalism act. This site is only an "online exhibition" of graffiti art and urban art and a place to exchange about this art form. So, if anybody became interested into graffiti through this site, we strongly suggest them to inform themself about their local laws about vandalism and to act wisely.  
+
+
+| **COPYRIGHTS INFO:**
+
+All pictures on this site are owned by the graffiti writer, the photographer and BombingScience.com. Any copy of ANY files on this site is absolutly prohibited without permission (and trust us, we gonna find you). To ask a permission, report a copywrite violation or report us any copywrite problem on this site contact us at this address: [info@bombingscience.com](mailto:info@bombingscience.com).  
+
+
+| **PRIVACY POLICY:**
 
 Bombing Science (the site) respects and protects the privacy of the individuals that visit the web site. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy .
 
-**Bombing Science and Cookies**
-
-We don't do the use of cookies on this site. 
-
 **What Information Do We Collect?**
 
-We don't collect any informations on our visitors except the demographic situation of our visitors (the country) and their e-mail address when we ask them. We only collect the e-mail addresses to contact our visitors that have subscribed to the mailing-list and the others to send them some info on the site once in a while. This e-mail address bank will not be communicate to any third party without first receiving the user's permission. 
+We don't collect any informations on our visitors except the demographic situation of our visitors (the country), their IP address on the forums and their e-mail address when we ask them. We only collect the e-mail addresses to contact our visitors that have subscribed to the mailing-list. Those informations will not be communicate to any third party without first receiving the user's permission. 
 
 **Links to Other Sites**
 
@@ -28,4 +34,4 @@ By using our web site, you consent to the collection and use of your information
 
 **Who can I ask if I have additional questions?**
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [newz12@hotmail.com](mailto:newz12@hotmail.com).. 
+Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [info@bombingscience.com](mailto:info@bombingscience.com).
