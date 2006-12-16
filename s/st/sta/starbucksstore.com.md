@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615090327id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216103141id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Prvacy Policy - StarbucksStore.com
 
