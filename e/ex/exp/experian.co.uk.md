@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the experian.co.uk privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426234113id_/http%3A//www.experian.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experian.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216195234id_/http%3A//www.experian.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | Experian UK
 
 **About this statement  
-** This privacy policy statement sets out the data processing practices carried out through your use of this web site by Experian Limited ("Experian"). 
+** This privacy policy statement sets out the data processing practices carried out through your use of this web site by Experian Group Limited ("Experian"). 
 
-Experian is a member of the GUS Group Limited (the "Group"). The Group also includes associated companies details of which can be found at [GUS companies](https://web.archive.org/corporate/gusfacts.html) in the Corporate section. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at corporate.communications@uk.experian.com. 
+If you have any requests concerning your personal information or any queries with regard to these practices please contact us at corporate.communications@uk.experian.com. 
 
 **Links  
 ** This privacy policy only covers Experian's web site at www.experian.co.uk. Additional web sites within the Group are governed by their respective privacy statements. We are not responsible for the data policies or procedures or the content of other linked web sites outside of the Group. 
@@ -24,7 +24,7 @@ Experian is a member of the GUS Group Limited (the "Group"). The Group also incl
 
   * Carrying out customer and marketing research. 
 
-  * Providing you with information about products and services offered by Experian or by members of Great Universal Stores PLC. 
+  * Providing you with information about products and services offered by Experian.
 
 
 
