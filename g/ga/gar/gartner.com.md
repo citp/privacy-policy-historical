@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the gartner.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613022649id_/http%3A//gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gartner.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216065754id_/http%3A//www.gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.*
 
-# Online Privacy Policy
+# Privacy Policy
 
-|  |   
----|---  
 **Online Privacy Policy**
 
 * * *
@@ -17,7 +15,7 @@ Gartner does not market to children and does not knowingly collect personal info
 Gartner does not sell, share or rent personal information about you collected on Company Web sites outside the Gartner family of companies. 
 
 **How to Unsubscribe**  
-If you no longer want to receive e-mail communications from Gartner, you may unsubscribe by clicking the "Unsubscribe" button at the top or bottom of each e-mail Gartner sends, or by otherwise following the instructions to "opt out" appearing on that e-mail." 
+If you no longer want to receive e-mail communications from Gartner, you may unsubscribe by clicking the "Unsubscribe" button at the top or bottom of each e-mail Gartner sends, or by otherwise following the instructions to "opt out" appearing on that e-mail. 
 
 **Registration**  
 In order to use many features of Gartner Web sites, you may be asked to complete a registration form. During registration, you are required to provide contact information which is used to determine whether you are a subscriber or the authorized employee of a subscriber. 
@@ -33,6 +31,23 @@ When you place an order or register for a Gartner event, we may request addition
 Gartner uses third-party service providers such as credit card processing companies, shipping companies, mailing houses and event coordinators together with other service providers as required to satisfy client requests. 
 
 When you register for a Gartner event, we provide necessary information to hotels and to facilities hosting events. These parties are allowed to use that personal information only to provide services relevant to the event. 
+
+**Usage Entitlements**
+
+Username and Passwords
+
+  * Passwords are for user's individual use
+  * Passwords may not be shared with others   
+
+
+
+
+Document Use
+
+  * Users may not: 
+    * Store documents in shared folders. 
+    * Act as a 'librarian' for redistribution of documents to non-users unless otherwise stated in their contract terms. 
+    * Reproduce or distribute documents externally without Gartner's prior written permission from [vendor.relations@gartner.com.](mailto:vendor.relations@gartner.com)
 
 **Usage Tracking**  
 We monitor how you use our Web sites including search terms you enter, pages visited and documents viewed. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable, and is used solely for purposes of enabling us to provide you with a personalized Web site experience. Aggregated (not personally identifiable) forms of this data may also be used in order to help us understand areas for future research and to identify future features and functions to develop for the Web sites. 
