@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613021940id_/http%3A//www.bytescout.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216152523id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.*
 
 # ByteScout.Com Privacy Statement
 
