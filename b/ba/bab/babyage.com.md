@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195042id_/http%3A//www.babyage.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216143419id_/http%3A//babyage.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# BabyAge Privacy Policy
+# Baby Bedding | Baby Gifts |Stroller | Car Seat | Crib | Baby Furniture | Toys at BabyAge.com
 
   
 At BabyAge, we are fully aware of the concerns about personal privacy on the Internet. We have created this privacy statement in order to demonstrate our firm commitment to privacy. What follows is the BabyAge corporate philosophy information gathering and dissemination practices for this Web site:
