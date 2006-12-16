@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615123919id_/http%3A//www.innovation.gov.au/index.cfm%3Fevent%3Dobject.showContent%26display%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216030148id_/http%3A//www.innovation.gov.au/index.cfm%3Fevent%3Dobject.showContent%26display%3Dprivacy) for the most accurate reproduction.*
 
-# The National Innovation Website :: The National Innovation Council > Generic page
+# The National Innovation Website > Generic page
 
 This is the text-only, printer-friendly version of Privacy.  
 Its permanent web address is: http://www.innovation.gov.au/index.cfm?event=object.showContent&objectID=0BF7845F-C711-8257-4EC090F504962ED4. 
 
-_(Last reviewed: 25 Feb 2005)_
+_(Last reviewed: 31 Aug 2006)_
 
 We are concerned about protecting your privacy. This statement describes how we handle clickstream (site navigation) data, cookies and e-mail addresses. 
 
@@ -57,14 +57,14 @@ If you have concerns in this regard, the Department has other ways of obtaining 
 | 
 
 National Innovation Website  
-Innovation Awareness and Strategy Section  
+Innovation Collaboration Section  
 Dept. of Industry, Tourism and Resources  
 GPO Box 9839  
 Canberra ACT 2601  
   
 ---|---  
-**  Fax:** |  (02) 6213 7618  
+**  Fax:** |  (02) 6213 7615  
   
 Copyright  
-© Commonwealth of Australia 2005  
+© Commonwealth of Australia 2006  
 All content on this site is protected by copyright. You may download, display, print and reproduce this material in unaltered form only (retaining this notice) for your personal, non-commercial use or use within your organisation. Apart from any use permitted under the Copyright Act 1968, all other rights are reserved. Requests for further authorisation should be directed to: Webhelp@industry.gov.au. 
