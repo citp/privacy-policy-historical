@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413230245id_/http%3A//www.wagerline.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216011235id_/http%3A//www.wagerline.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Wagerline.com - FREE Real-time Scores, Odds, & Contests for All Major Sports
 
@@ -50,7 +50,7 @@ A Person's consent can be express, implied, or given through an authorized repre
 
 i) Write to Customer Service - Privacy, SportsDirect Inc., 77 Chain Lake Drive, Halifax, NS, B3S 1E1; or 
 
-ii) Provide information to SportsDirect Inc. through the form provided on our [ feedback page ](https://web.archive.org/web/20060413230245id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
+ii) Provide information to SportsDirect Inc. through the form provided on our [ feedback page ](https://web.archive.org/web/20061216011235id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
 
 ### Refusing or withdrawing Consent: 
 
@@ -307,7 +307,7 @@ B3S 1E1
 
 or 
 
-ii) Provide information to SportsDirect Inc. through our [ feedback page ](https://web.archive.org/web/20060413230245id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
+ii) Provide information to SportsDirect Inc. through our [ feedback page ](https://web.archive.org/web/20061216011235id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
 
 10.2 SportsDirect Inc. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures. 
 
