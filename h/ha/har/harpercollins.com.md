@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004936id_/http%3A//www.harpercollins.com/templates.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216055633id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# HarperCollins Publishers Company Profile
+# Privacy Policy, HarperCollins Publishers
 
-  
- Privacy Policy  
-
-
-  
-  
-**Welcome to HarperCollins!**  
 Effective as of March 9, 2006
 
-HarperCollins Publishers L.L.C. ("HarperCollins") is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. HarperCollins has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the United States both online and off-line.   
-  
+HarperCollins Publishers L.L.C. ("HarperCollins") is part of the News America Group, which has adopted a set of Privacy Principles applicable to all its U.S.-based companies. HarperCollins has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the United States both online and off-line. 
+
 **Children's Privacy Policy**  
-Some of our online activities are directed to children under 13. When those activities involve the collection of PII, we provide additional privacy protections. To read about our protections that relate to the online collection of PII from children under 13 [click here](https://web.archive.org/web/20060615004936id_/http%3A//www.harpercollins.com/templates.asp%3Fpage%3Dprivacypolicy?page=coppa).
+Some of our online activities are directed to children under 13. When those activities involve the collection of PII, we provide additional privacy protections. To read about our protections that relate to the online collection of PII from children under 13 [click here](https://web.archive.org/footer/coppa.aspx).
 
 From time to time HarperCollins may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Web sites, or technology. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If HarperCollins materially changes its practices regarding the collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
 
@@ -72,8 +65,8 @@ In the event your PII on file is incorrect, you may correct the PII by sending a
 
 You may access and change your user preferences for HarperCollins Web site. 
 
-  * To login, users can enter their [username and password here](https://web.archive.org/survey.net/members_signup.aspx?programId=HM&siteId=1&orgId=5)
-  * Logged-in users can enter here to [view and set preferences](https://web.archive.org/members/members.asp?ACT=subscriptions).
+  * To login, users can enter their [username and password here](https://web.archive.org/Registration/SignMeUp.aspx)
+  * Logged-in users can enter here to [view and set preferences](https://web.archive.org/Registration/PersonalInfo.aspx).
 
 If you wish to stop all future communications from HarperCollins, please contact [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) requesting that your PII be permanently removed from any HarperCollins database. We will send you a written confirmation of such removal.
 
