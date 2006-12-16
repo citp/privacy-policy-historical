@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613230437id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216204110id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
 
-# Drivewire - Privacy Policy
+# Drivewire Auto Parts – Discount Auto Parts and Accessories
 
 [](http://www.truste.org/ivalidate.php?url=www.drivewire.com&sealid=101) **Last Updated September 14, 2005**
 
@@ -17,8 +17,6 @@ Drivewire follows these privacy principles in our conduct in the collection, use
   * Limiting the SHARING of your information. 
   * Committing to COMPLYING with applicable privacy requirements. 
   * Providing you with means to CONTACT US about privacy-related issues. 
-
-If you have any questions or believe that you have received unsolicited emails, please contact abuse@Drivewire.com 
 
 Our Internet site allows you to enter contests, receive special discounts, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. 
 
@@ -99,11 +97,7 @@ Back to Top
 
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by making the change on our account information page or by emailing our Customer Support at [support@Drivewire.com](mailto:support@Drivewire.com). or by contacting us by telephone or postal mail at the contact information listed below. 
-
-Opt Out - We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, when you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order checkout form. 
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@Drivewire.com](mailto:privacy@Drivewire.com) or you may contact us at 949-387-1900 or by mail at Drivewire.com 18021 Sky Park Circle Suite K Irvine CA 92614 to opt-out. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update by making the change on our account information page or by contacting us by telephone at 800.895.8910 or postal mail at the contact information listed below. 
 
 Back to Top
 
@@ -151,9 +145,8 @@ Drivewire.com
 Attn: Privacy Compliance Officer  
 18021 Sky Park Circle  
 Suite K  
-Irvine CA 92614 
-
-You may also contact us by e-mail at [privacy@Drivewire.com](mailto:privacy@Drivewire.com)
+Irvine CA 92614  
+phone: 800.895.8910 
 
 Back to Top
 
@@ -171,6 +164,6 @@ This Privacy Policy was last changed on September 13, 2005. If we decide to chan
 
 [](http://www.truste.org/ivalidate.php?url=www.drivewire.com&sealid=101) Auto Service Group Inc. is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [www.drivewire.com](http://www.drivewire.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Drivewire’s Privacy Policy Manager at [pricvacy@Drivewire.com](mailto:pricvacy@Drivewire.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Drivewire’s Privacy Policy Manager at 800.895.8910.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Back to Top
