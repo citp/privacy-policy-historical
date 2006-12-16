@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gloworld.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318095302id_/http%3A//www.gloworld.com/dynamic/privacy.aspx%3FCn%3DGloMobile) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloworld.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216181044id_/http%3A//www.gloworld.com/dynamic/privacy.aspx%3FCn%3DGloMobile) for the most accurate reproduction.*
 
 # Glo World
 
