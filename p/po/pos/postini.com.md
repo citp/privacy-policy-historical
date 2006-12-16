@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053819id_/http%3A//postini.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216041842id_/http%3A//postini.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Postini - Legal Notices
+# Postini: Resource Center
 
-|    
-
+|  |  | 
 
 [](http://www.truste.org/ivalidate.php?url=www.postini.com&sealid=102)
 
@@ -13,7 +12,7 @@
 
 _**What Is Covered in this Privacy Statement?**_ This Privacy Statement contains information on how Postini, Inc. ("Postini" or "we") processes certain categories of data relating to individual persons. 
 
-  * If you are a visitor to the portions of our website, www.postini.com, that can be accessed without a password (our "Public Website"), please see the section "Public Website Privacy" below for a comprehensive description of our data processing practices with respect to data about you. We refer to you as a "Public Website Visitor" in this Privacy Statement. 
+  * If you are a visitor to the portions of our website, [www.postini.com](https://web.archive.org/), that can be accessed without a password (our "Public Website"), please see the section "Public Website Privacy" below for a comprehensive description of our data processing practices with respect to data about you. We refer to you as a "Public Website Visitor" in this Privacy Statement. 
   * If you are an end user of Postini® services, please see the section "Service End User Privacy" below for information on our data processing practices with respect to data about you. For additional information, please contact the email service provider that contracts with us for the Postini service, which in most cases will be your employer or your Internet Service Provider. We refer to you as an "End User" in this Privacy Statement. 
   * If you are a resident of any European Union Member State, please also see the section "EU Safe Harbor Privacy Statement" below for a comprehensive description of our data processing practices with respect to data about you in reference to the EU Safe Harbor Principles. We refer to data relating to you as an identifiable individual as "EU Personal Data." 
 
@@ -41,60 +40,6 @@ _**Use of Cookies.**_ A cookie is a small text file containing information that 
 
 _**Volunteered Information Collected on the Public Website.**_ Public Website Visitors may contact us in a variety of ways, including, without limitation, by completing the Web Forms described in the table below. Contact information, such as name, address, email addresses and/or phone number, is typically provided when using these methods. This information is used to provide the services that are requested by the Public Website Visitor (e.g. to respond to your request for further information about us or our services, to send you a newsletter or White Paper if you request them, etc.). To update, correct or remove his or her contact information (for example, to unsubscribe), a Public Website Visitor may follow the directions in the table below: 
 
-| 
-
-**Web Form**
-
-| 
-
-**Purpose**
-
-| 
-
-**To Update, Correct or Request Removal**  
-  
----|---|---  
-  
-[Request to Have a Salesperson Contact Me ](https://web.archive.org/register/index.php?ContactUs=1)
-
-| 
-
-Contact the Postini Sales department 
-
-| 
-
-Send an email to [privacyrequest@postini.com](mailto:privacyrequest@postini.com)  
-  
-[Postini White Papers ](http://www.postini.com/whitepapers)
-
-| 
-
-View Postini white papers 
-
-| 
-
-Send an email to [privacyrequest@postini.com](mailto:privacyrequest@postini.com)  
-  
-[Postini Webcasts ](http://www.postini.com/webinars/)
-
-| 
-
-View Postini webcasts 
-
-| 
-
-Send an email to [privacyrequest@postini.com](mailto:privacyrequest@postini.com)  
-  
-[Postini Insider Newsletter ](http://www.postini.com/newsletter/)
-
-| 
-
-Receive email security newsletter 
-
-| 
-
-Complete and submit the form located at [http://www.postini.com/newsletter/unsu.html ](http://www.postini.com/newsletter/unsu.php)or follow the instructions provided in the newsletters.   
-  
 Public Website Visitors may sign up to receive various information or services from us, including the following: (i) free trials of our services, (ii) our Newsletter, (iii) White Papers, (iv) product demonstrations, (v) our Webinars or those of other third parties. Each of these submissions will produce an automated email response to the email address entered into the form. We may send promotional emails to Public Website Visitors who have sent us such Web Forms, although we do not currently do so for newsletter subscribers. If you consent to it, we may provide your information from these Web Forms to certain of our authorized resellers to communicate information to you about our services. If thereafter you prefer us not to provide this information to our authorized resellers, you may let us know by following the instructions described in this policy.
 
 If you do not wish to submit the personal information requested by these forms, you may call us at 888.584.3150 or 650.216.3574. 
@@ -109,7 +54,7 @@ As its business evolves, Postini may sell, transfer or otherwise share some or a
 
 _**Links to Other Sites.**_ The Public Website may contain links to other sites, including under the "News and Events" and "Postini Resource Center" sections of the Public Website. Postini is not responsible for the privacy practices of any sites other than its own. This section on "Public Website Privacy" applies only to information collected by Postini on the Public Website. 
 
-_**Security of Data.**_ Postini treats data as a valuable asset, and applies technology and operations practices that are designed to ensure the security of this data both during transmission and while stored on our servers. Postini takes reasonable precautions to protect this data against loss, misuse, and alteration. To learn more, please see the [Postini Security Statement](https://web.archive.org/web/20060615053819id_/http%3A//postini.com/legal/security.php).
+_**Security of Data.**_ Postini treats data as a valuable asset, and applies technology and operations practices that are designed to ensure the security of this data both during transmission and while stored on our servers. Postini takes reasonable precautions to protect this data against loss, misuse, and alteration. To learn more, please see the [Postini Security Statement](https://web.archive.org/web/20061216041842id_/http%3A//postini.com/legal/security.php).
 
 **_Service End User Privacy_**
 
@@ -121,7 +66,7 @@ _**End User Control of Configuration Settings.**_ If you are an End User of Post
 
 _**Passwords and Message Content.**_ To log in to the Message Center for the first time, an End User must use the password provided by Postini, which is automatically generated. This password is not released to any party other than authorized personnel of the End User's email service provider, except as described herein. After the End User logs in for the first time, the End User will be prompted to enter a personalized, secret password. This password is not released to any other party. End User configuration settings and electronic messages are processed automatically by Postini's software, and humans do not review this information except as required by law or with the consent of the End User's email service provider. All End User-specific information, and electronic message information, including content, addresses, categorizations, and IP addresses, is kept confidential. Postini delivers its services in compliance with the existing service agreement between Postini and the End User's email service provider (and End Users derive no legal rights from such agreements). 
 
-**_Contact Update._** Our customers designate administrators with respect to the Postini service. These designated administrators may review and edit the contact information for their company directly by using the Contact Update feature, which is available in the [Postini Support Portal](https://web.archive.org/support/support_login.php). 
+Contact Update. Our customers designate administrators with respect to the Postini service. These designated administrators may review and edit the contact information for their company directly by using the Contact Update feature, which is available in the [Postini Support Portal](https://web.archive.org/support/support_login.php). 
 
 _**Email Communications.**_ For End Users with direct access to the quarantine area of the Message Center, Postini will provide email notification when emails with viruses and other email are quarantined in the Message Center on a schedule that may be determined by the End User or his or her email service provider. Generally an End User may not opt-out of these types of emails as they are necessary to provide the requested service and are not promotional in nature. 
 
