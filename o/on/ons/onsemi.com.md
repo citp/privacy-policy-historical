@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502075355id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216052307id_/https%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
 
 # ON Semiconductor
 
