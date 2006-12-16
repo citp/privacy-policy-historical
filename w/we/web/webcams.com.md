@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315183947id_/http%3A//webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216132038id_/http%3A//webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Webcams.com - Uncensored hardcore live webcam chat in many live sex chat categories
+# Webcams.com offers free live adult webcam chat and live sex webcams! Browse through our webcam girls and guys and chat live now!
 
-**Webcams.com Privacy Policy**
+Webcams.com Privacy Policy
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our web site. 
 
@@ -10,7 +10,7 @@ If this policy is not agreeable to you, please do not use this site.
 
 ** WHAT TYPE INFORMATION IS COLLECTED?**
 
-Personal Information:
+Personal Information
 
 We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother’s maiden name). 
 
@@ -27,8 +27,8 @@ Our goal in collecting personal information is to provide visitors with the most
 We may transfer or disclose information collected from visitors to our web site to our employees and independent contractors, to our parent company, subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us, or if required to do so by law. We may also disclose information we collect from our site visitors to our marketing and business partners, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of our site.   
 We may also share, rent, sell, or transfer any personal information (including financial information) provided by our visitors to third parties. During the registration process, and at certain times during any member user session, we may present additional offers from third party service providers. Our third party service providers have their own terms and conditions and privacy policies. We suggest that visitors access these third party sites and review their terms and conditions and privacy policies before "subscribing" to any third party offer. If a visitor subscribes to a third party offer during our registration process, we will transfer the financial data they provided to us as part of the registration process to that third party company, which will then process the transaction using that financial data. We may also share non-personal information we collect from visitors to our site, such as their browsing behaviors, with third parties. For example, we may tell a third party advertiser that a certain number of people have visited a certain area on our web site. 
 
-** WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**  
-  
+** WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**
+
 To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient. 
 
 ** WE PROTECT CHILDREN'S PRIVACY**
@@ -39,7 +39,7 @@ Protecting the privacy of children is VERY important to us. For that reason we d
 
 In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our web site. 
 
-**ACCEPTANCE OF PRIVACY TERMS & CONDITIONS**
+ACCEPTANCE OF PRIVACY TERMS & CONDITIONS
 
 By visiting this web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies. 
 
@@ -59,4 +59,8 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
-© Copyright 2005 Webcams.com, All Rights Reserved.
+© Copyright 2005, 2006 Webcams.com, All Rights Reserved.
+
+Toll Free 24 Hour Support Line: **1-800-270-4116**  
+International 24 Hour Support Line: **+1-312-528-6974**  
+UK 24 Hour Support Line: **+44 20 8002 9067**
