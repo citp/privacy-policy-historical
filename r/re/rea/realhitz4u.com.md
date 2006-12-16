@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the realhitz4u.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414222309id_/http%3A//www.realhitz4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realhitz4u.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217005711id_/http%3A//realhitz4u.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# RealHitz4u Traffic Exchange | Increase Web Stite Traffic
-
-  
-
-
-**News**
-
-**  
-  
-_New_ Enterprise Pro Upgrade with FREE Hosting Account, check it out** **Are you on the list for Free Credit give away, goto the 'Competition' page and see.**
-
-| 
-
-**Privacy**
+# RealHitz4u Manual Traffic Exchange
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR RealHitz4u Traffic Exchange**
 
