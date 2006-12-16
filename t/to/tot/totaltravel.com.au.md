@@ -1,54 +1,117 @@
-> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035223id_/http%3A//www.totaltravel.com.au/library/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216074405id_/http%3A//www.totaltravel.com.au/library/legal/privacy-au) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy and Security Statement
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Totaltravel.com PTY LTD, Incorporated, (“TOTALTRAVEL.COM PTY LTD”). 
+totaltravel.com.au understands that interacting with websites involves a great deal of trust on your part. We respect your trust in us and we are committed to ensuring the security and confidentiality of the personally identifiable information you provide us. 
 
-**What information are you collecting and how are you collecting it?**
+By visiting totaltravel.com.au, you are accepting and consenting to the practices described in this Statement.
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" . When a visitor requests a page from any Web Site within the TOTALTRAVEL.COM PTY LTD Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Site. We use this information to examine our traffic in aggregate, and to investigate misuse of the TOTALTRAVEL.COM PTY LTD Network, its users, or to cooperate with law enforcement. 
+### What Information do we collect and how do we collect it?
 
-**Will you disclose the information you collect to outside third parties?**
+totaltravel.com.au collects personally identifiable information about you that you specifically and voluntarily provide. The information we collect from you allows us to personalise and improve the totaltravel experience. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display personalization content, customer reviews and recommend services that might be of interest to you. We also use this information to improve our site, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
 
-We do not collect and evaluate this information for specific individuals. Our Web servers do not record e-mail addresses of the visitors. 
+### Information provided by you:
 
-**What are cookies?**
+You can decide what personally identifiable information you provide to us.
 
-From time to time, TOTALTRAVEL.COM PTY LTD or its advertisers may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of TOTALTRAVEL.COM PTY LTD's Network of Web Sites you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+We will only collect personally identifiable information that you choose to provide. You can choose not to provide certain information. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers). 
 
-**What information do you collect when I register for something?**
+You may choose to provide us with personally identifiable information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personally identifiable information included; request us to provide you with information; enter a competition; post information to public areas of the site or participate in a promotion. 
 
-TOTALTRAVEL.COM PTY LTD offers access to some services that are free but that require registration. We may use your registration contact information to send notification of TOTALTRAVEL.COM PTY LTD products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered unless you have chosen not to receive it. We may also use your IP address internally and share it with third parties. 
+By providing any personally identifiable information to us, you fully understand and clearly consent to the transfer of such personally identifiable information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy policy. 
 
-**What other information do you request?**
+### Automatically received information
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists etc.). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent. 
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's Internet Protocol (‘IP’) . When a visitor requests a page from any Web Site within our network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Site. We use this information to examine our traffic in aggregate, and for security purposes and to investigate misuse of the network, its users,  
+or to cooperate with law enforcement. 
 
-We may from time to time send e-mail announcing new TOTALTRAVEL.COM PTY LTD products and services. Except as stated above, TOTALTRAVEL.COM PTY LTD will not send you email that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive mailings from other third party companies.   
-When you sign up for an TOTALTRAVEL.COM PTY LTD forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the TOTALTRAVEL.COM PTY LTD Network in any way. 
+We receive and store certain types of information whenever you interact with us. For example, like many websites, we use ‘cookies’ and we obtain certain types of information when your Web browser accesses totaltravel.com.au. By ecognising you, we can provide you with a personalized experience.
 
-When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+### What are cookies?
 
-**What information do you collect when I purchase something?**
+From time to time, we may send a cookie to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of our network of Web Sites you have visited or customized, so the next time you visit, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your browser. You  
+can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
 
-If you are purchasing something from an TOTALTRAVEL.COM PTY LTD media property, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose without your express permission. 
+### Information from third party sources
 
-Wherever TOTALTRAVEL.COM PTY LTD collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+We might receive information about you from other sources and add it to our account information.
 
-**Will you disclose the information you collect to outside third parties?**
+### Will we disclose the information we receive to third parties?
 
-TOTALTRAVEL.COM PTY LTD will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
-1) Conform to the edicts of the law or comply with legal process served on TOTALTRAVEL.COM PTY LTD,   
-2) Protect and defend the rights or property of the TOTALTRAVEL.COM PTY LTD Network of Sites and related properties, or visitors to the TOTALTRAVEL.COM PTY LTD Network of Sites and related properties,   
-3) Identify persons who may be violating the law, the TOTALTRAVEL.COM PTY LTD legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the TOTALTRAVEL.COM PTY LTD Network or its related properties,   
-4) Cooperate with the investigations of purported unlawful activities. 
+Information about our customers is important to us and we do not sell it to others. We share customer information only as described below and our subsidiaries.
 
-TOTALTRAVEL.COM PTY LTD uses reasonable precautions to keep the information disclosed to us secure. TOTALTRAVEL.COM PTY LTD reserves the right to transfer all such information in connection with the sale of all or part of TOTALTRAVEL.COM PTY LTD's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users
+### Affiliates and third parties
 
-**Your Consent To This Agreement**
+We work closely with our affiliated businesses. These businesses operate sites through totaltravel.com.au and we may provide services or sell products on behalf of these businesses. You can tell when a third party is involved in your transactions and we may share customer information related to those transactions with that third party.   
 
-By using our Web site, you consent to the collection and use of information by TOTALTRAVEL.COM PTY LTD as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Please send any questions about TOTALTRAVEL.COM PTY LTD’s Privacy Policy to: [privacy@totaltravel.com](mailto:privacy@totaltravel.com)
+### Service providers
 
-Please note that your use of the TOTALTRAVEL.COM PTY LTD network of Web sites is governed by our Legal Notice. 
+Information is only provided to third parties that provide services or functions on our behalf. These service providers require information about you and your travel requirements, in addition to your credit card information, when required to process and confirm your travel reservation. These service providers will disclose information about your travel requirements to hotels, airlines, ferry, train, restaurants, car hire and the like with whom you have made a  
+reservation. This information must be shared with our affiliates and travel suppliers to confirm your reservation and travel preferences. 
+
+Whilst we only offer travel products from reputable companies,we have not placed limitations on these suppliers from using or disclosing your information without your permission. In the circumstances, we would recommend you study the privacy statements of any affiliate or travel supplier with whom you have made reservations through totaltravel.com.au. Please note, you may be contacted directly by such suppliers to confirm your reservation. 
+
+Although such third party providers may have access to your personally identifiable information for the purposes set out above, they may not use that personally identifiable information for any other purpose and are required to process your information in accordance with Data Protection lrgislation. 
+
+### Payments and transactions
+
+We may use your personally identifiable information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our affiliates and suppliers. 
+
+Your credit card or billing account details are only retained for the purpose of handling that individual transaction. We will only retain this information if you have agreed for us store this information for future transactions you may make through totaltravel.com.au.
+
+### Promotions, marketing, e-newsletters
+
+We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personally identifiable information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. You will be able to choose whether or not to receive such communications when you first provide personally identifiable information to us. We may also share non-personally identifiable information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. 
+
+We will not arrange for selected organizations to send you promotional and marketing information without your permission. In the event you give your permission please note that such organizations are carefully selected and will be bound by the terms of this statement.
+
+### Interactive, reviews, bulletin boards, chat rooms
+
+Information you post on or through the public areas of the site is generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personally identifiable information about themselves in public areas of this site.
+
+### Sale and transfer
+
+In the event of a sale, merger,consolidation, change in control,transfer of substantial assets,reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
+
+### Legal obligations
+
+We may be required by law to disclose information you have provided in the good-faith belief that such action is required by law or to comply with legal process served on us or to protect and defend our rights or property and our interests or the interests of our customers or users of the site or the public.
+
+### Other businesses we do not control
+
+This site contains links to other web sites outside of our control and who do not operate under this statement. When you click through to these Web sites, this statement no longer applies. We recommend that you read the privacy statements for all third party Web sites. 
+
+Whenever we transfer personally identifiable information to countries within the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this statement and as permitted by the Data Protection Act 1998.
+
+### Is your information secure?
+
+We are committed to providing you with a secure environment during storage and transmission of your personally identifiable information. 
+
+As with other sites we use Secure Sockets Layer (SSL) software, which encrypts the information you input. 
+
+We have created appropriate physical, electronic and procedural safeguards to collect, store and disclosure your personally identifiable information. Although we use the most technologically advanced security systems available, our security providers cannot guarantee against unauthorised access by third parties. 
+
+Security specifications for the technical amongst you:
+
+128bit SSL security   
+Open BSD - OpenBSD is thought of by many security professionals to be the most secure UNIX-like operating system as the result of a 10-member  
+1.5-year long comprehensive source code security audit. 
+
+Blowfish Algorithm 
+
+Changes to this statement
+
+This statement will change in accordance with the constantly changing face of our business. Such changes will be posted on this page and it is recommended that you should check our website regularly to confirm what  
+information we collect, how we use it, and under what circumstances we disclose it.
+
+### Checking your details
+
+Should you wish to check what personally identifiable information we hold about you, amend your information, request that your information be removed or have any queries regarding the above statement, please contact us at privacy@totaltravel.com 
+
+© 2000-2006, totaltravel.com, all rights reserved
+
+  
+
+
+* * *
