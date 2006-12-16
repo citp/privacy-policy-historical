@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617150821id_/http%3A//dragonfable.com/df-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216122912id_/http%3A//www.dragonfable.com/df-privacy.asp) for the most accurate reproduction.*
 
 # DragonFable: Privacy Policy
 
