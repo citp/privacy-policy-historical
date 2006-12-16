@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pregnancy-calendars.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614095553id_/http%3A//pregnancy-calendars.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy-calendars.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216075352id_/http%3A//www.pregnancy-calendars.net/policy.html) for the most accurate reproduction.*
 
-# Pregnancy-Calendars.Net Policy
+# Pregnancy Calendar Privacy Policy
 
 **OVERVIEW**
 
-This privacy policy describes the information we collect through the Pregnancy-Calendars.Net website, and how we use and protect it. Our privacy policy may be updated to meet the needs of consumers and Partners. We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. By using the Web Site, you are agreeing to accept the terms of our privacy policy as currently posted on the Web Site. If you have any questions about our privacy policy, please [**contact us**](https://web.archive.org/web/20060614095553id_/http%3A//pregnancy-calendars.net/about.html). 
+This privacy policy describes the information we collect through the Pregnancy-Calendars.Net website, and how we use and protect it. Our privacy policy may be updated to meet the needs of consumers and Partners. We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. By using the Web Site, you are agreeing to accept the terms of our privacy policy as currently posted on the Web Site. If you have any questions about our privacy policy, please [**contact us**](https://web.archive.org/web/20061216075352id_/http%3A//www.pregnancy-calendars.net/about.html). 
 
 **GENERAL PROVISIONS**
 
@@ -28,7 +28,7 @@ The personally identifiable information we receive from Pregnancy-Calendars.Net 
 
 Contact Us and Feedback Forms.
 
-Pregnancy.org collects contact information, like your email address, on [**About Us**](https://web.archive.org/web/20060614095553id_/http%3A//pregnancy-calendars.net/about.html). The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store such information to be used for future mailings or to otherwise contact you.
+Pregnancy.org collects contact information, like your email address, on [**About Us**](https://web.archive.org/web/20061216075352id_/http%3A//www.pregnancy-calendars.net/about.html). The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store such information to be used for future mailings or to otherwise contact you.
 
 **OTHER PROVISIONS**
 
@@ -46,3 +46,5 @@ Third Party Cookies
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 Third-Party Links.
+
+For your convenience, Pregnancy-Calendars.Net contains links to other sites, including site owned or operated by our Partners. Although every Partner (but not advertiser whose banner or other advertising is displayed on the Web Site) is required to sign a contract that requires them to adhere to Pregnancy-Calendars.Net's privacy policy, we have no real control over the linked sites and we are not responsible for the privacy practices or the content of any third-party sites linked to or from Pregnancy-Calendars.Net. We encourage you to note when you leave Pregnancy-Calendars.Net and to read the privacy statement of these third-party sites.
