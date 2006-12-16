@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2006-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060217172544id_/http%3A//www.thebaynet.com/index.cfm%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216043807id_/http%3A//www.thebaynet.com/index.cfm%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
 
-# Welcome to The Bay Net! | Home
+# Southern Maryland News | The Bay Net
 
 ---  
-Friday, February 17, 2006  
+Friday, December 15, 2006  
 Contact Us  
 | [Back to The Bay Net Home](http://www.thebaynet.com/index.cfm) |   
 ---|---  
