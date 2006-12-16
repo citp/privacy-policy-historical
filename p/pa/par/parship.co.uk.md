@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613033621id_/http%3A//parship.co.uk/docs/public/terms/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216232400id_/http%3A//parship.co.uk/docs/public/terms/privacy.xhtml) for the most accurate reproduction.*
 
 # PARSHIP: Find the love of your life
 
