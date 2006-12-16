@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618145451id_/http%3A//myemoticons.com/privacy/my_emoticons_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033131id_/http%3A//myemoticons.com/privacy/my_emoticons_privacy.htm) for the most accurate reproduction.*
 
 # Emoticons : privacy policy for free emoticons and smileys
-
-[](https://web.archive.org/web/20060618145451id_/http%3A//myemoticons.com/)[](http://www.mydisplayimage.com/)[](http://www.myemailemoticons.com/) |   |   
-MyEmoticons privacy policy 
 
 **Introduction**   
 My Persona Limited respects each individual's right to personal privacy. We will collect and use information through our Web site and software only in the ways disclosed in this statement. 
@@ -24,6 +21,3 @@ Registered users will receive additional announcements from us about products, s
 If you have any further questions about privacy or security, please contact us by sending an email to: [info@myemoticons.com](mailto:info@myemoticons.com)
 
 More information. The My Emoticons privacy policy and end user license agreement are available from our website.  My Emoticons give you free msn emotions and loads more. Design your own display picture or use our high quality MSN emotions and loads of free animated emoticons for MSN (a.k.a. free animated smilies or free animated smileys) we are smiley central for email, yahoo, AOL and of course MSN Messenger 7 (a.k.a MSN Messenger 7.0 or MSN 7). Have more fun with cool msn names, smiley faces, msn display pictures and msn emotions (including exclusive and fun adult emoticons and naughty internet sex smilies). Download loads of free animated smileys faces and express yourself. 
-
-|    
----|---|---|---
