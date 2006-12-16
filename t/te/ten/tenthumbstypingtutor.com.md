@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthumbstypingtutor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615161302id_/http%3A//www.tenthumbstypingtutor.com/privacy.php%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthumbstypingtutor.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216062959id_/http%3A//www.tenthumbstypingtutor.com/privacy.php%3Flanguage%3Den) for the most accurate reproduction.*
 
 # Ten Thumbs Typing Tutor - Privacy Policy
 
