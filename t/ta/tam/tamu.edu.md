@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621052353id_/http%3A//www.tamu.edu/home/statements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033925id_/http%3A//www.tamu.edu/home/statements/privacy.html) for the most accurate reproduction.*
 
 # Texas A&M University - Privacy Statement
 
@@ -98,9 +98,9 @@
 
 ](http://reslife.tamu.edu/ "Housing")
 
-[International Student Services
+[International Programs Office
 
-](http://international.tamu.edu/iss "International Student Services")
+](http://international.tamu.edu/ "International Programs Office")
 
 [Tuition & Fees
 
@@ -268,7 +268,7 @@
 
 [Bonfire Memorial
 
-](http://bonfirememorial.tamu.edu/ "Bonfire Memorial")
+](http://www.tamu.edu/bonfirememorial/ "Bonfire Memorial")
 
 [Muster
 
