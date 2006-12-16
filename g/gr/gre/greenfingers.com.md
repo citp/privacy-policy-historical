@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328102335id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216023010id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
 # Gardening equipment products gardeners advice UK
 
@@ -69,6 +69,7 @@ Please read on for more details about our privacy policy.
 | **Other Privacy Policy Articles**  
 ---  
    [Privacy Policy](https://web.archive.org/articledisplay.asp?id=1287) |      |   
+  
   
   
 
