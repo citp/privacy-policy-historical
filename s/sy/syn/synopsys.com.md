@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234018id_/http%3A//synopsys.com/snps_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216015058id_/http%3A//synopsys.com/snps_privacy.html) for the most accurate reproduction.*
 
 # Synopsys Privacy Policy
 
-### Synopsys Privacy Policy
+Synopsys Privacy Policy
 
 **_Synopsys is committed to protecting your online privacy on our website. The privacy practices described in this Privacy Policy apply to synopsys.com and to all of our websites and wholly owned subsidiary websites._**
 
@@ -24,7 +24,7 @@ We occasionally employ other companies and individuals to perform functions on o
 **Collection of Personally Identifiable Information**
 
 **REGISTRATION**  
-In order to use certain protected areas of this website, such as SolvNet® support, DesignWare® Download Request, or to request a white paper, you first must complete a registration form and/or create a user name and password. During registration you are required to give contact information (such as name and email address). We may use this information to contact you about the services on our site in which you have expressed interest. 
+In order to use certain protected areas of this website, such as SolvNet® support, DesignWare® Download Request, or to request a white paper, you first must complete a registration form and/or create a user name and password. During registration you are required to give contact information (such as name and email address). We may use this information to contact you about the services on our site in which you have expressed interest. This information may also be shared with Synopsys subsidiaries and business partners. 
 
 **APPLICATION FORMS**  
 If you submit your resume online for a job opening, we require that you provide certain personally identifiable information, including your name, address, phone number, and employment and education history. This information is necessary to process your application and to contact you.
