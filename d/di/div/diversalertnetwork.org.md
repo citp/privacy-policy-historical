@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213108id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216111249id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # DAN Divers Alert Network : Privacy Policy
 
@@ -38,7 +38,7 @@ Will DAN disclose the information it collects to outside parties?
 
 Other than DAN, what companies provide DAN membership benefits? 
 
-  * **MBNA America:** DAN Members are eligible to apply for the DAN/MBNA MasterCard credit card from MBNA America. Each time the card is used, DAN receives additional funding that supports its mission of improving dive safety. If you do not want DAN to provide your information to MBNA, please contact DAN Membership Services at 1-800-446-2671 or +1-919-684-2948. 
+  * **Bank of America:** DAN Members are eligible to apply for the DAN/Bank of America MasterCard credit card from Bank of America. Each time the card is used, DAN receives additional funding that supports its mission of improving dive safety. If you do not want DAN to provide your information to Bank of America, please contact DAN Membership Services at 1-800-446-2671 or +1-919-684-2948. 
   * **Palancar Industries:** DAN Members are eligible to purchase the DAN Tag™, which is manufactured by Palancar Industries. Palancar only receives what personal information the DAN Member voluntarily submits when ordering the product. DAN does not provide any additional information about a DAN Member to Palancar Industries. 
 
 
@@ -61,4 +61,4 @@ Other than DAN, what companies provide DAN membership benefits?
 
 
 
-[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D27%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
+[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D14%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
