@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205534id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216203226id_/http%3A//123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 123weddingCards : Privacy Policy of 123WeddingCards.com
 
