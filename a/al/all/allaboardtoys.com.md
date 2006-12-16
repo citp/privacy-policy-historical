@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203913id_/http%3A//www.allaboardtoys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216180624id_/http%3A//www.allaboardtoys.com/privacy.asp) for the most accurate reproduction.*
 
 # All Aboard Toys Privacy and Security Policies
 
@@ -10,7 +10,7 @@ All Aboard Toys, LLC ("AAT") created this web site Privacy Policy (the "Privacy 
 
 **b. Personal Information Collected.** In order for a User to access and use certain areas AAT offers via the Site, AAT requires Users to provide AAT with information that personally identifies Users ("Personal Information"). Personal Information may include: (i) Contact Data (such as a User's name, mailing and e-mail addresses); (ii) Financial Data (such as a User's account or credit card number); and (iii) Demographic Data (such as a User's zip code and age). If a User communicates with AAT by e-mail or otherwise completes online forms or surveys, any information provided in such communication may be collected as Personal Information. 
 
-When you purchase products from AAT or register for any AAT services, we automatically place you on our list to receive e-mail regarding updates about special offers, new products, and new services. If you do not wish to receive e-mail updates, please send an e-mail to [Remove@AllAboardToys.com](mailto:Remove@AllAboardToys.com) and type "Please remove me." in the subject line. If you have registered your personal information on the AAT site, you can login to your account profile and change the information. If you would like to have your shopper account removed, please call Customer Care at 1.800.416.7155. 
+When you purchase products from AAT or register for any AAT services, we automatically place you on our list to receive e-mail regarding updates about special offers, new products, and new services. If you do not wish to receive e-mail updates, please send an e-mail to [Remove@AllAboardToys.com](mailto:Remove@AllAboardToys.com) and type "Please remove me." in the subject line. If you have registered your personal information on the AAT site, you can login to your account profile and change the information. If you would like to have your shopper account removed, please call Customer Care at 1-866-641-TOYS (8697). 
 
 **c. Data and Reports Compiled or Generated through the Services.** As a part of certain of AAT's services, AAT compiles and stores data and information and generates reports related to User's access to and use of AAT's services ("Service Data and Reports"). 
 
@@ -43,4 +43,4 @@ The Site may contain links to other web sites. AAT is not responsible for the pr
 
 **8\. Updates and Changes to Privacy Policy**
 
-AAT reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. AAT welcomes your comments and questions. Please contact us at [Customer Care.](https://web.archive.org/web/20060615203913id_/http%3A//www.allaboardtoys.com/web_feedback/web_feedback.aspx)
+AAT reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. AAT welcomes your comments and questions. Please contact us at [Customer Care.](https://web.archive.org/web/20061216180624id_/http%3A//www.allaboardtoys.com/web_feedback/web_feedback.aspx)
