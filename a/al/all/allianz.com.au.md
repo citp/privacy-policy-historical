@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618203959id_/http%3A//www.allianz.com.au/allianz/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216182913id_/http%3A//allianz.com.au/allianz/Privacy.html) for the most accurate reproduction.*
 
 # Privacy | Allianz Australia
 
@@ -10,7 +10,7 @@ You can relax knowing that Allianz aspires to Insurance Industry best practice p
 
 ## Who is Allianz?
 
-Allianz is an Australian, wholly owned subsidiary of Allianz AG, one of the world's largest general insurance and financial service providers.
+Allianz is an Australian, wholly owned subsidiary of Allianz SE, one of the world's largest general insurance and financial service providers.
 
 Our address is 2 Market Street, Sydney, NSW, 2000. We can be reached via email at customerservice@allianz.com.au or by calling 13 2664.
 
