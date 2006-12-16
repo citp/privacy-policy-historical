@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Webby Awards
 
-[team](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/team.php)  
-[history](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/history.php)  
-[calendar](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/calendar.php)  
-[lectures](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/lectures.php)  
-[011](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/011.php)  
-[contact us](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/contact.php)
+[team](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/team.php)  
+[history](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/history.php)  
+[calendar](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/calendar.php)  
+[lectures](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/lectures.php)  
+[011](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/011.php)  
+[contact us](https://web.archive.org/web/20061216202610id_/http%3A//www.webbyawards.com/about/contact.php)
 
 Want to tell a friend about the Webby Awards? Click here.
 
