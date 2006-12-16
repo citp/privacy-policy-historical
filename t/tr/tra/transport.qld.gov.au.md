@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621114805id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216022700id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
 
 # Privacy and security statement - Queensland Transport
 
