@@ -1,8 +1,20 @@
-<!--The following is the downloaded HTML source of the unlockthegame.com privacy policy that was archived on 2005-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050627080422id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unlockthegame.com privacy policy that was archived on 2006-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061216010335id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	
+		<title>Welcome to Ari Galper's Unlock The Game  - Cold Calling Made Painless. Guaranteed.</title>
+		
+			<meta name="Author" content="Ari Galper - Unlock the Game">
+		
+			
+			<meta name="robots" content="index,follow">
+			
+			<meta name="GOOGLEBOT" content="index,follow">
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<!--// workingpage //-->
+		
+				<script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
 				<script language="javascript">
 							function MM_findObj(n, d) { 
 		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
@@ -183,10 +195,92 @@
 		   }
 		  return returnvalue;
 		}
+	function isInteger(string) {
+		var valid = '0123456789'; // define valid characters
+    	for (var i=0; i< string.length; i++) {
+        if (valid.indexOf(string.charAt(i)) == -1) {
+            alert('Please enter an integer number.');
+            return false;
+        	}
+    	}
+    	return true;
+	}
+	
+	// these variables, plus the next three functions, stripCharsInBag, daysInFebruary and DaysArray, are all needed for the isDate function below
+	var dtCh= "/";
+	var minYear=1900;
+	var maxYear=2100;
+	function stripCharsInBag(s, bag){
+		var i;
+		var returnString = "";
+		// Search through string's characters one by one.
+		// If character is not in bag, append to returnString.
+		for (i = 0; i < s.length; i++){   
+			var c = s.charAt(i);
+			if (bag.indexOf(c) == -1) returnString += c;
+		}
+		return returnString;
+	}
+	function daysInFebruary (year){
+		// February has 29 days in any year evenly divisible by four,
+		// EXCEPT for centurial years which are not also divisible by 400.
+		return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
+	}
+	function DaysArray(n) {
+		for (var i = 1; i <= n; i++) {
+			this[i] = 31
+			if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
+			if (i==2) {this[i] = 29}
+	   } 
+	   return this
+	}
+	function isDate(dtStr){
+		var daysInMonth = DaysArray(12)
+		var pos1=dtStr.indexOf(dtCh)
+		var pos2=dtStr.indexOf(dtCh,pos1+1)
+		var strMonth=dtStr.substring(0,pos1)
+		var strDay=dtStr.substring(pos1+1,pos2)
+		var strYear=dtStr.substring(pos2+1)
+		strYr=strYear
+		if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
+		if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
+		for (var i = 1; i <= 3; i++) {
+			if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
+		}
+		month=parseInt(strMonth)
+		day=parseInt(strDay)
+		year=parseInt(strYr)
+		if (pos1==-1 || pos2==-1){
+			alert("The date format should be : mm/dd/yyyy")
+			return false
+		}
+		if (strMonth.length<1 || month<1 || month>12){
+			alert("Please enter a valid month")
+			return false
+		}
+		if (strDay.length<1 || day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
+			alert("Please enter a valid day")
+			return false
+		}
+		if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
+			alert("Please enter a valid 4 digit year between "+minYear+" and "+maxYear)
+			return false
+		}
+		if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
+			alert("Please enter a valid date")
+			return false
+		}
+	return true
+	}
 
 				</script>
-				
-						<style>.eventheaderbar { caption: Event Header Bar; visible:true; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #CCCCCC; padding-left: 4pt;}
+			
+					<style>td {  caption: Default Body Text; visible:false; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
+
+p {  caption: Default Body Text; visible:false; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
+
+body { caption: Default Body Text; visible:false; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
+.eventheaderbar { caption: Event Header Bar; visible:true; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #CCCCCC; padding-left: 4pt;}
 .eventtext { caption: Event Text; visible:true; padding-top: 4pt; padding-bottom: 6pt; padding-left: 4pt;}
 
 p.Title { caption: Title (p); visible:true; font-size: 18pt; text-decoration: none;}
@@ -226,7 +320,7 @@ p.ClickForFullStory-Link {
 }
 p.FinePrint { 
 	caption: Fine Print (p);
-	font-size: 7pt; 
+	font-size: 9px; 
 }
 p.ProductTitle { 
 	caption: Product Title (p);
@@ -297,11 +391,6 @@ a:visited {
 	visible:false;
 } 
 hr { caption:- Default Horizontal Rule; visible:false;}
-td {  caption: Default Body Text; visible:false; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
-
-p {  caption: Default Body Text; visible:false; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
-
-body { caption: Default Body Text; visible:false; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
 td.sideBar-slogan { caption: SideBar - Slogan (cell); visible:true; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; font-style: italic; color: Navy; text-align: center; pos-top: pt;}
 td.sideBar-title {
 	caption: SideBar Title (cell);
@@ -317,6 +406,7 @@ td.sideBar-title {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	color: Navy;
+	text-decoration: none;
 	visible:false;
 }
 .sideBar-0 {
@@ -404,6 +494,13 @@ a.newsletter_header_link { caption: Newsletter Header Link (link); visible:true;
 a.newsletter_-_left_navigation_link { caption: Newsletter - Left Navigation Link (link); visible:true; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; text-decoration: none; color: 013399;}
 
 .newsletter_subheader { caption: Newsletter Subheader; visible:true; font-size: 12pt; font-weight: bold; font-style: italic;}
+H1 {
+	caption: H1 Page Title;
+	visible:True;
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 28px;
+	color: #000080;
+	text-align: center;}	
 H2 {
 	caption: H2 Page Subtitle;
 	visible:false;
@@ -411,15 +508,69 @@ H2 {
 	font-size: 10px;
 	color: #C0C0C0;
 	text-align: center;}	
-
-</style>
-					
-						<style>.articleService {
+.onePixel {
+	visible:false;
+	font-size: 1px;
+	padding: 0px 0px 0px 0px;
+}
+.lettercontent {
+	font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: black;}
+.style8 {font-family: Arial, Helvetica, sans-serif}
+.style15 {font-size: 12px}
+.style16 {font-size: 10px}
+.style17 {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0000A0;
+	font-weight: bold;}
+.style19 {
+	color: #0000CC;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;}
+.style21 {font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #0000A0; font-weight: bold; }
+.style24 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.style27 {font-family: Arial, Helvetica, sans-serif; font-size: 12; }
+.style30 {font-size: 14px}
+.style37 {font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight: bold; }
+.style38 {
+	color: #000000;
+	font-weight: bold;
+}
+.style39 {font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #444444; font-weight: bold; }
+.style42 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.style46 {font-size: 12pt}
+.style10 {color: #333333}
+.style11 {	font-size: 16px;
+	font-weight: bold;
+}
+.style14 {font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000000; font-weight: normal; }
+.style47 {	color: #000000;
+	font-weight: bold;
+}
+.style48 {	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0000A0;
+	font-weight: normal;
+}
+.style9 {color: #000000}
+.style51 {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; }
+.style52 {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; }
+a.prices {
+	color:#0000ff;
+	text-decoration: none; 
+}
+a:hover.prices {
+	text-decoration: none; 
+	color:green;
+}</style>
+				
+					<style>.articleService {
 	caption:Article Service Icons (Email - Comments - Print);
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	color: #000080;
-	text-decoration: none;
+	text-decoration: underline;
 	font-style : normal;
 }
 a:hover.articleService {
@@ -427,7 +578,7 @@ a:hover.articleService {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	color: #FF3300 ;
-	text-decoration: none;
+	text-decoration: underline;
 	font-style : normal;
 }
 .HorizontalRule {
@@ -628,38 +779,17 @@ a.SiteMapNav-Level-3-Disabled {
 	font-weight: bold;
 	color: gray;
 	text-decoration: none;
-}</style>
-					
-		<title>Home Page - Welcome to Ari Galper's Unlock The Game,Welcome to Ari Galper's Unlock The Game,Welcome to Ari Galper's UnlockTheGame.com</title>
-	
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		
-		<meta name="robots" content="index,follow">
-		
-			<meta name="revisit-after" content="30 days">
-		
+}
+.DialogHeader {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color:white;}
+</style>
+				
+<link rel="SHORTCUT ICON" href="http://www.unlockthegame.com/unlockthegame.ico">
+
 	</head>
-	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" bgcolor="white"> 
-
-
-
-
-
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<script type="text/javascript" language="javascript">
-var lpPosY = 400; 
-</script>
-<script type="text/javascript" language="javascript" src="http://server.iad.liveperson.net/hc/85989478/x.js?cmd=file&amp;file=chatScript3&amp;site=85989478&amp;imageUrl=http://www.unlockthegame.com/lp"> </script>
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
-
-		<script type="text/javascript" language="javascript">
-			var filename_and_query="/utility/showArticle/index.cfm"; 
-		</script>
-	 
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" bgcolor="white">  
 		<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr valign="top">
-			<td id="c4" style="width:; height:87px; padding: 0px 0px 0px 0px; border-style: none none none none; border-color: ; border-width: 0px 0px 0px 0px; Background-color: ; background-image:; background-repeat: ; background-position: 0% 0%;">
+			<td id="c4" style="width:; height:0px; padding: 0px 0px 0px 0px; border-style: none none none none; border-color: ; border-width: 0px 0px 0px 0px; Background-color: ; background-image:; background-repeat: ; background-position: 0% 0%;">
 			 	<table height="100%" border="0" cellspacing="0" cellpadding="0" width="100%">
 					<tbody><tr>
 						<td id="c4_i" style="vertical-align :top; text-align :left;">
@@ -670,7 +800,19 @@ var lpPosY = 400;
 		<tbody><tr valign="top"> 
 			<td>
 				
-				<a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utg,4449"><img height="87" alt="" src="http://www.unlockthegame.com/images/database/132.gif" width="800" border="0" imageid="132"></a></td>
+				<div style="BACKGROUND-IMAGE: url(http://www.unlockthegame.com/images/database/700.jpg); WIDTH: 802px; CURSOR: hand; BACKGROUND-REPEAT: no-repeat; HEIGHT: 90px" onclick="javascript:location='http://www.unlockthegame.com/';">
+<table cellspacing="0" cellpadding="0" width="75%" align="center" border="0">
+<tbody>
+<tr>
+<td style="FONT-SIZE: 1px" height="10">&nbsp;</td>
+</tr>
+
+<tr>
+<td nowrap="nowrap" align="middle"><font face="Times New Roman, Times" size="3"><strong>Treat&nbsp;people with respect, like human beings, not like "prospects"... and you'll both win.</strong></font>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div></td>
 					
 		</tr>
 	
@@ -681,149 +823,335 @@ var lpPosY = 400;
 				</tbody></table>
 			</td>
 		</tr></tbody></table>
+		
 		<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr valign="top">
-			<td id="c7" style="width:595px; height:30px; padding: 0px 0px 0px 0px; border-style: none none none none; border-color: ; border-width: 0px 0px 0px 0px; Background-color: ; background-image:url(http://www.unlockthegame.com/images/database/18.gif); background-repeat: ; background-position: 0% 0%;">
+			<td id="c7" style="width:100%; height:0px; padding: 0px 0px 0px 0px; border-style: none none none none; border-color: ; border-width: 0px 0px 0px 0px; Background-color: ; background-image:; background-repeat: ; background-position: 0% 0%;">
 			 	<table height="100%" border="0" cellspacing="0" cellpadding="0" width="100%">
 					<tbody><tr>
 						<td id="c7_i" style="vertical-align :top; text-align :right;">
 									
-<table width="100%" cellpadding="0" cellspacing="0">
-	
-    
-		<tbody><tr valign="top"> 
-			<td>
-				
-				<table bordercolor="#000000" height="28" cellspacing="0" cellpadding="0" width="100%" border="0">
-<tbody>
-<tr>
-<td valign="center" align="right"><img src="http://www.unlockthegame.com/images/database/40.gif" border="0" imageid="40">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</tbody>
-</table></td>
+<style>
+a:hover.StandardTopNavBar-Level-1 {
+	color:white;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	font-style : normal;
+}
+.StandardTopNavBar-Level-1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-decoration: none;
+	font-style : normal;
+}
+a:visited.StandardTopNavBar-Level-1 {
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: 1px;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	font-style : normal;
+}
+.StandardTopNavBar-Level-1-Selected {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 1px;
+	text-decoration: none;
+	font-style : normal;
+}
+a:visited.StandardTopNavBar-Level-1-Selected {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-decoration: none;
+	font-style : normal;
+}
+.StandardTopNavBar-Level-1-Mastery {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-decoration: none;
+	font-style : normal;
+	background-color: #D12E3C;
+}
+a:visited.StandardTopNavBar-Level-1-Mastery {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	font-style : normal;
+	background-color: #D12E3C;
+}
+
+.StandardTopNavBar-Level-1-Disabled {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: Gray;
+	letter-spacing: 1px;
+	text-decoration: none;
+	font-style : normal;
+}
+
+.StandardTopNavBar-SubMenu-1 {
+	cursor:hand; 
+	border-bottom: solid; 
+	border-bottom-width: 1px; 
+	border-bottom-color: #EEEEEE; 
+	background-color: #D12E3C;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: 1px;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	font-style : normal;
+}
+.SubMenuCell {
+	background-color: #D12E3C;
+	letter-spacing: 1px;
+	border-bottom: solid; 
+	border-bottom-width: 1px; 
+	border-bottom-color: #EEEEEE; 
+	cursor:hand;
+}
+.SubMenuCell-Selected {
+	background-color: red;
+	letter-spacing: 1px;
+	border-bottom: solid; 
+	border-bottom-width: 1px; 
+	border-bottom-color: #EEEEEE; 
+	cursor:hand;
+}
+.MicroSpace {
+	font-size:1px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+
+
+    <table align="left" width="802" height="20" border="0" cellspacing="0" cellpadding="0" class="MicroSpace">
+	    <tbody><tr valign="middle">
+			<td><img src="http://www.unlockthegame.com/images/database/701.jpg" border="0" width="109" height="20"></td>
+		
+						<script language="JavaScript1.1">
+							imagehover1 = new Image
+							imagehover1.src = "sm24583.gif"
+						</script>
 					
+					<td id="cell1" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image1.src='http://www.unlockthegame.com/images/sitemodel/sm24583.gif';cell1.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14011','','show');" onmouseout="image1.src='http://www.unlockthegame.com/images/sitemodel/sm14583.gif';cell1.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14011','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/MasteryProgram/index.cfm'">
+						<img id="image1" src="http://www.unlockthegame.com/images/sitemodel/sm14583.gif" border="0" hspace="0" vspace="0"></td>
+				
+						<script language="JavaScript1.1">
+							imagehover2 = new Image
+							imagehover2.src = "sm24585.gif"
+						</script>
+					
+					<td id="cell2" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image2.src='http://www.unlockthegame.com/images/sitemodel/sm24585.gif';cell2.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14012','','show');" onmouseout="image2.src='http://www.unlockthegame.com/images/sitemodel/sm14585.gif';cell2.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14012','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/FreeTestDrive/index.cfm'">
+						<img id="image2" src="http://www.unlockthegame.com/images/sitemodel/sm14585.gif" border="0" hspace="0" vspace="0"></td>
+				
+						<script language="JavaScript1.1">
+							imagehover3 = new Image
+							imagehover3.src = "sm24522.gif"
+						</script>
+					
+					<td id="cell3" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image3.src='http://www.unlockthegame.com/images/sitemodel/sm24522.gif';cell3.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14013','','show');" onmouseout="image3.src='http://www.unlockthegame.com/images/sitemodel/sm14522.gif';cell3.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14013','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/SuccessStories/index.cfm'">
+						<img id="image3" src="http://www.unlockthegame.com/images/sitemodel/sm14522.gif" border="0" hspace="0" vspace="0"></td>
+				
+						<script language="JavaScript1.1">
+							imagehover4 = new Image
+							imagehover4.src = "sm24393.gif"
+						</script>
+					
+					<td id="cell4" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1" onmouseover="image4.src='http://www.unlockthegame.com/images/sitemodel/sm24393.gif';cell4.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14014','','show');" onmouseout="image4.src='http://www.unlockthegame.com/images/sitemodel/sm14393.gif';cell4.className='StandardTopNavBar-Level-1';MM_showHideLayers('elMenu14014','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/index.cfm'">
+						<img id="image4" src="http://www.unlockthegame.com/images/sitemodel/sm14393.gif" border="0" hspace="0" vspace="0"></td>
+				
+						<script language="JavaScript1.1">
+							imagehover5 = new Image
+							imagehover5.src = "sm24449.gif"
+						</script>
+					
+					<td id="cell5" style="cursor:pointer;cursor:hand;" class="StandardTopNavBar-Level-1-Selected" onmouseover="image5.src='http://www.unlockthegame.com/images/sitemodel/sm24449.gif';cell5.className='StandardTopNavBar-Level-1-Selected';MM_showHideLayers('elMenu14015','','show');" onmouseout="image5.src='http://www.unlockthegame.com/images/sitemodel/sm24449.gif';cell5.className='StandardTopNavBar-Level-1-Selected';MM_showHideLayers('elMenu14015','','hide');" onclick="javascript:location='http://www.unlockthegame.com/UTG/Home/index.cfm'">
+						<img id="image5" src="http://www.unlockthegame.com/images/sitemodel/sm24449.gif" border="0" hspace="0" vspace="0"></td>
+				
+	    </tr>
+	
+		<tr><td></td>
+			
+			<td colspan="1">
+			
+				<div id="elMenu14011" style="position:absolute;  border: 0px solid black; visibility: hidden; z-index:2000;" onmouseover="MM_showHideLayers('elMenu14011','','show');" onmouseout="MM_showHideLayers('elMenu14011','','hide');MM_showHideLayers('elMenu14012','','hide');MM_showHideLayers('elMenu14013','','hide');MM_showHideLayers('elMenu14014','','hide');MM_showHideLayers('elMenu14015','','hide');">
+			    	<table width="180" cellspacing="0" cellpadding="3">
+						
+							   		<tbody><tr>
+										<td id="cell11" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/MasteryProgram/PartI-IntroductiontotheMindset/index.cfm';" width="245" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/MasteryProgram/PartI-IntroductiontotheMindset/index.cfm">&nbsp;Part&nbsp;I:&nbsp;Introduction&nbsp;to&nbsp;the&nbsp;Mindset&nbsp;Program&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell12" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/MasteryProgram/PartII-AdvancedMindsetTraining/index.cfm';" width="245" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/MasteryProgram/PartII-AdvancedMindsetTraining/index.cfm">&nbsp;Part&nbsp;II:&nbsp;Advanced&nbsp;Mindset&nbsp;Training&nbsp;Program&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell13" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/MasteryProgram/CompleteMasteryProgram/index.cfm';" width="245" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/MasteryProgram/CompleteMasteryProgram/index.cfm">&nbsp;Complete&nbsp;Mastery&nbsp;Program&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+					</tbody></table>
+				</div>
+			
+			</td>
+   			
+			<td colspan="1">
+			
+				<div id="elMenu14012" style="position:absolute;  border: 0px solid black; visibility: hidden; z-index:2000;" onmouseover="MM_showHideLayers('elMenu14012','','show');" onmouseout="MM_showHideLayers('elMenu14011','','hide');MM_showHideLayers('elMenu14012','','hide');MM_showHideLayers('elMenu14013','','hide');MM_showHideLayers('elMenu14014','','hide');MM_showHideLayers('elMenu14015','','hide');">
+			    	<table width="180" cellspacing="0" cellpadding="3">
+						
+							<tbody><tr><td></td></tr>
+						
+					</tbody></table>
+				</div>
+			
+			</td>
+   			
+			<td colspan="1">
+			
+			</td>
+   			
+			<td colspan="1">
+			
+				<div id="elMenu14014" style="position:absolute;  border: 0px solid black; visibility: hidden; z-index:2000;" onmouseover="MM_showHideLayers('elMenu14014','','show');" onmouseout="MM_showHideLayers('elMenu14011','','hide');MM_showHideLayers('elMenu14012','','hide');MM_showHideLayers('elMenu14013','','hide');MM_showHideLayers('elMenu14014','','hide');MM_showHideLayers('elMenu14015','','hide');">
+			    	<table width="180" cellspacing="0" cellpadding="3">
+						
+							   		<tbody><tr>
+										<td id="cell41" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utg,4393';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utg,4393">&nbsp;Bio&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell42" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/ContactUs/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/ContactUs/index.cfm">&nbsp;Contact&nbsp;Us&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell43" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/FAQs/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/FAQs/index.cfm">&nbsp;FAQs&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell44" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/FreeSalesScriptReview/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/FreeSalesScriptReview/index.cfm">&nbsp;Free&nbsp;Sales&nbsp;Script&nbsp;Review&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell45" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/AllIndustries100sOfStories/';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/AllIndustries100sOfStories/">&nbsp;Cold&nbsp;Calling&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell46" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/BecomeAnAffiliate/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/BecomeAnAffiliate/index.cfm">&nbsp;Become&nbsp;An&nbsp;Affiliate&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell47" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/OnsiteTeamTraining/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/OnsiteTeamTraining/index.cfm">&nbsp;Onsite&nbsp;Team&nbsp;Training&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+							   		<tr>
+										<td id="cell48" onmouseover="this.className='SubMenuCell-Selected';" onmouseout="this.className='SubMenuCell';" onclick="javascript:location='http://www.unlockthegame.com/UTG/AboutContactUs/Keynote-PublicSpeaking/index.cfm';" nowrap="" class="StandardTopNavBar-SubMenu-1" align="center">
+										   <a class="StandardTopNavBar-Level-1" href="http://www.unlockthegame.com/UTG/AboutContactUs/Keynote-PublicSpeaking/index.cfm">&nbsp;Keynote&nbsp;&amp;&nbsp;Public&nbsp;Speaking&nbsp;</a>
+										</td>
+									
+										<td></td>
+									
+									</tr>
+							
+					</tbody></table>
+				</div>
+			
+			</td>
+   			
+			<td colspan="1">
+			
+				<div id="elMenu14015" style="position:absolute;  border: 0px solid black; visibility: hidden; z-index:2000;" onmouseover="MM_showHideLayers('elMenu14015','','show');" onmouseout="MM_showHideLayers('elMenu14011','','hide');MM_showHideLayers('elMenu14012','','hide');MM_showHideLayers('elMenu14013','','hide');MM_showHideLayers('elMenu14014','','hide');MM_showHideLayers('elMenu14015','','hide');">
+			    	<table width="180" cellspacing="0" cellpadding="3">
+						
+							<tbody><tr><td></td></tr>
+						
+					</tbody></table>
+				</div>
+			
+			</td>
+   			
 		</tr>
 	
-</tbody></table>
+    </tbody></table>
  
 						</td>
 					</tr>
 				</tbody></table>
 			</td>
 		</tr></tbody></table>
+
 		<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr valign="top">
-			<td id="xlcr1" rowspan="2" style="width:160px; padding: 0px 0px 0px 0px; border-style: none solid none none; border-color: red gray red red; border-width: 0px 1px 0px 0px; Background-color: ; background-image:; background-repeat: ; background-position: 0% 0%;">
-			<table height="100%" border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr valign="top">
-					<td>
-					
-<table width="100%" cellpadding="0" cellspacing="0">
-	
-    
-		<tbody><tr valign="top"> 
-			<td>
-				
-				<table bordercolor="#000000" cellspacing="0" cellpadding="0" width="160" border="0">
-<tbody>
-<tr>
-<td><a href="http://www.unlockthegame.com/"><img height="32" alt="" src="http://www.unlockthegame.com/images/database/44.gif" width="160" border="0"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/freearticles/index.cfm"><img height="32" alt="" src="http://www.unlockthegame.com/images/database/2.gif" width="160" border="0"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4476"><img height="48" alt="" src="http://www.unlockthegame.com/images/database/3.gif" width="160" border="0"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/results/index.cfm"><img height="32" alt="" src="http://www.unlockthegame.com/images/database/4.gif" width="160" border="0"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/audiocdsande-books/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/102.gif" border="0" imageid="102"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/aboutari/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/6.gif" border="0" imageid="6"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/havearispeak/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/7.gif" border="0" imageid="7"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/coaching/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/8.gif" border="0" imageid="8"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/onsitetraining/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/9.gif" border="0" imageid="9"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/questions/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/10.gif" border="0" imageid="10"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/becomeanaffiliate/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/11.gif" border="0" imageid="11"></a></td>
-</tr>
-
-<tr>
-<td><a href="http://www.unlockthegame.com/public/contactus/index.cfm"><img alt="" src="http://www.unlockthegame.com/images/database/12.gif" border="0" imageid="12"></a></td>
-</tr>
-</tbody>
-</table></td>
-					
-		</tr>
-	
-</tbody></table>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-	
-    
-		<tbody><tr valign="top"> 
-			<td>
-				
-				<p align="left"><a onclick="window.open('http://server.iad.liveperson.net/hc/85989478/?cmd=file&amp;file=visitorWantsToChat&amp;site=85989478&amp;referrer='+document.location,'chat85989478','width=472,height=320');return false;" href="http://server.iad.liveperson.net/hc/85989478/?cmd=file&amp;file=visitorWantsToChat&amp;site=85989478&amp;byhref=1" target="chat85989478"><img alt="" src="http://server.iad.liveperson.net/hc/85989478/?cmd=repstate&amp;site=85989478&amp;imageUrl=http://www.unlockthegame.com/lpleftnavigation&amp;ver=1" border="0" name="hcIcon"></a></p></td>
-					
-		</tr>
-	
-</tbody></table>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-	
-    
-		<tbody><tr valign="top"> 
-			<td>
-				
-				<p align="center"><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4448"></a></p>
-
-<p align="center"><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4448"></a></p>
-
-<p align="left"><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4472">Learn The Mindset Here</a></p>
-
-<p align="left"><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4472"><img alt="" src="http://www.unlockthegame.com/images/database/115.gif" border="0" imageid="115"></a><br>
-<br>
-<a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4446">Mindset &amp; Cold Calling</a></p>
-
-<p align="left"><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4446"><img alt="" src="http://www.unlockthegame.com/images/database/116.gif" border="0" imageid="116"></a><br>
-<br>
-<a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4447">Complete UTG&nbsp;Program</a></p>
-
-<p align="left"><a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,4447"><img alt="" src="http://www.unlockthegame.com/images/database/117.gif" border="0" imageid="117"></a></p>
-
-<p align="left">&nbsp;</p></td>
-					
-		</tr>
-	
-</tbody></table>
- 
-					</td>
-				</tr>
-			</tbody></table>
-			</td>
 		<td>
 		<table width="610" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr valign="top">
@@ -866,7 +1194,7 @@ var lpPosY = 400;
 
 <p><u><b>Opting Out</b></u></p>
 
-<p>Unlock The Game may periodically send out e-mail newsletters to our users about new services, products or other news using e-mail addresses provided at registration or otherwise. Upon request, Unlock The Game will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletter lists. If you receive any such e-mail messages that you do not wish to receive again in the future, please&nbsp;<a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,6">contact us</a> .</p>
+<p>Unlock The Game may periodically send out e-mail newsletters to our users about new services, products or other news using e-mail addresses provided at registration or otherwise. Upon request, Unlock The Game will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletter lists. If you receive any such e-mail messages that you do not wish to receive again in the future, please&nbsp;<a href="http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utg,4393">contact us</a>.</p>
 
 <p><u><b>Links</b></u></p>
 
@@ -883,8 +1211,8 @@ var lpPosY = 400;
 <p>If you have any questions about this privacy statement or the practices of this Web site, you may write to us at the following postal address:</p>
 
 <p>Unlock The Game&nbsp;<br>
-2339 34th St., #37<br>
-Santa Monica, CA 90405</p></td>
+24112 Park Casino<br>
+Calabasas, CA 91302</p></td>
 					
 		</tr>
 	
@@ -895,79 +1223,111 @@ Santa Monica, CA 90405</p></td>
 				</tbody></table>
 			</td>
 		</tr></tbody></table>
+		</td>
+		<td id="xrcr1" rowspan="2" style="width:160; padding: ; border-style: none none none none; border-color: red gray red gray; border-width: 0px 1px 0px 1px; Background-color: ; background-image:; background-repeat: ; background-position: ;">
+		<table height="100%" border="0" bordercolor="silver" cellspacing="0" cellpadding="0" width="100%">
+			<tbody><tr valign="top">
+				<td>
+					
+
+
+<script language="javascript" src="/js/javascript.js" type="text/javascript"></script>
+
+<iframe style="z-index:1" frameborder="0" height="440px" scrolling="No" width="186" marginheight="0" marginwidth="0" src="https://www.unlockthegame.com/includes/services/chat.cfm?chat=1"></iframe>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+	
+    
+		<tbody><tr valign="top"> 
+			<td>
+				
+				<table bordercolor="#000000" cellspacing="0" cellpadding="5" width="100%" border="0">
+<tbody>
+<tr>
+<td><font color="#0000ff"><font face="Arial, Helvetica" color="#000000"><strong>Real Stories from<br>
+Real People:</strong></font><br>
+</font> 
+
+<p align="center"><img height="141" src="http://www.unlockthegame.com/images/database/94.jpg" width="108" border="0" imageid="94"><br>
+<font face="Arial, Helvetica"><strong><em><font size="3">"Finally, the truth about cold calling, revealed"</font><br>
+</em></strong></font><font face="Arial, Helvetica"><iframe scroll="no" width="35" height="35" frameborder="0" scrolling="no" src="http://PlayAudioMessage.com/play.asp?m=58929&amp;f=MMBDTJ&amp;ps=5&amp;c=FFFFFF&amp;pm=2&amp;h=35"></iframe><br>
+&nbsp;</font> <a href="javascript:MM_openBrWindow('http://www.unlockthegame.com/help.cfm?artID=421&amp;happ=unlock&amp;noHeader=1&amp;padding=10&amp;services=&amp;noTitle=1&amp;title=Unlock_The_Game_-_Alexandria_Brown','Info','scrollbars=yes,resizable=yes,left=10,top=50,width=500,height=400');">Alexandria's story</a><br>
+<br>
+<br>
+<br>
+<img height="148" src="http://www.unlockthegame.com/images/database/21.jpg" width="120" border="0" imageid="21"><br>
+<em><font face="Arial, Helvetica"><strong><font face="Arial, Helvetica" size="3">"Unlock The Game <span class="symbol">is a true sales breakthrough"<br>
+</span></font></strong></font></em><font face="Arial, Helvetica"><iframe scroll="no" width="35" height="35" frameborder="0" scrolling="no" src="http://PlayAudioMessage.com/play.asp?m=24756&amp;f=WESZYL&amp;ps=5&amp;c=FFFFFF&amp;pm=2&amp;h=35"></iframe><br>
+</font><a href="javascript:MM_openBrWindow('http://www.unlockthegame.com/help.cfm?artID=422&amp;happ=unlock&amp;noHeader=1&amp;padding=10&amp;services=&amp;noTitle=1&amp;title=Unlock_The_Game_-_Bob_Donovan','Info','scrollbars=yes,resizable=yes,left=10,top=50,width=500,height=400');">Bob's story</a><br>
+<a href="http://www.unlockthegame.com/articles" target="_blank"><font size="1">cold calling articles</font></a><br>
+<br>
+<br>
+<br>
+<img height="116" alt="" src="http://www.unlockthegame.com/images/database/22.jpg" border="0" imageid="22"><br>
+<font face="Arial, Helvetica" size="3"><strong><em>"Now I know why my sales were stalled"<br>
+</em></strong></font><font face="Arial, Helvetica"><iframe scroll="no" width="35" height="35" frameborder="0" scrolling="no" src="http://PlayAudioMessage.com/play.asp?m=34065&amp;f=UMGEEG&amp;ps=5&amp;c=FFFFFF&amp;pm=2&amp;h=35"></iframe><br>
+</font><a href="javascript:MM_openBrWindow('http://www.unlockthegame.com/help.cfm?artID=423&amp;happ=unlock&amp;noHeader=1&amp;padding=10&amp;services=&amp;noTitle=1&amp;title=Unlock_The_Game_-_Marissa_Ayala','Info','scrollbars=yes,resizable=yes,left=10,top=50,width=500,height=400');">Marissa's Story</a><br>
+<a href="http://www.unlockthegame.com/coldcalling"><font size="1">cold calling</font></a><br>
+<br>
+<br>
+<br>
+<font face="Arial, Helvetica"><img height="146" alt="" src="http://www.unlockthegame.com/images/database/27.gif" width="111" border="0" imageid="27"><br>
+<strong><em><font face="Arial, Helvetica" size="3">"Ari, you finally cracked the sales code"<br>
+</font></em></strong></font><font face="Arial, Helvetica"><iframe scroll="no" width="35" height="35" frameborder="0" scrolling="no" src="http://PlayAudioMessage.com/play.asp?m=35539&amp;f=XSDOTK&amp;ps=5&amp;c=FFFFFF&amp;pm=2&amp;h=35"></iframe><br>
+</font><a href="javascript:MM_openBrWindow('http://www.unlockthegame.com/help.cfm?artID=424&amp;happ=unlock&amp;noHeader=1&amp;padding=10&amp;services=&amp;noTitle=1&amp;title=Unlock_The_Game_-_Matt_Yubas','Info','scrollbars=yes,resizable=yes,left=10,top=50,width=500,height=400');">Matt's Story</a><br>
+<br>
+<br>
+<br>
+<br>
+<font face="Arial, Helvetica"><img height="114" alt="" src="http://www.unlockthegame.com/images/database/20.JPG" width="100" border="0" imageid="20"><br>
+<font size="3"><strong><em>"The dread of cold calling is finally over!"<br>
+</em></strong></font><iframe scroll="no" width="35" height="35" frameborder="0" scrolling="no" src="http://PlayAudioMessage.com/play.asp?m=36105&amp;f=MOBTLZ&amp;ps=5&amp;c=FFFFFF&amp;pm=2&amp;h=35"></iframe><br>
+<a href="javascript:MM_openBrWindow('http://www.unlockthegame.com/help.cfm?artID=425&amp;happ=unlock&amp;noHeader=1&amp;padding=10&amp;services=both&amp;noTitle=1&amp;title=Unlock_The_Game_-_Lason_Perkins','Info','scrollbars=yes,resizable=yes,left=10,top=50,width=500,height=400');">Lason's Story</a>&nbsp;<br>
+<br>
+<br>
+<br>
+<br>
+</font><font face="Arial, Helvetica"><img height="151" alt="" src="http://www.unlockthegame.com/images/database/63.jpg" width="96" border="0" imageid="63"><br>
+<strong><em><font face="Arial, Helvetica" size="3">"A massive weight is now off my shoulders"<br>
+</font></em></strong></font><font face="Arial, Helvetica"><iframe scroll="no" width="35" height="35" frameborder="0" scrolling="no" src="http://PlayAudioMessage.com/play.asp?m=53677&amp;f=VIDNML&amp;ps=5&amp;c=FFFFFF&amp;pm=2&amp;h=35"></iframe><br>
+</font><a href="javascript:MM_openBrWindow('http://www.unlockthegame.com/help.cfm?artID=426&amp;happ=unlock&amp;noHeader=1&amp;padding=10&amp;services=&amp;noTitle=1&amp;title=Unlock_The_Game_-_Adam_Price','Info','scrollbars=yes,resizable=yes,left=10,top=50,width=500,height=400');">Adam's Story</a></p>
+
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+					
+		</tr>
+	
+</tbody></table>
+ 
+				</td>
+			</tr>
+		</tbody></table>
 		 </td></tr>
-		 <tr><td>
-		<table width="610" border="0" cellspacing="0" cellpadding="0" align="center">
-		<tbody><tr valign="top">
-			<td id="c13" style="width:; height:; padding: 0px 0px 0px 0px; border-style: none none none none; border-color: ; border-width: 0px 0px 0px 0px; Background-color: ; background-image:; background-repeat: ; background-position: 0% 0%;">
+		 </tbody></table>
+
+		<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tbody><tr>
+			<td width="610">
+				 
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr valign="top">
+			<td width="610" id="c13" style="width:; height:; padding: 0px 0px 0px 0px; border-style: none none none none; border-color: ; border-width: 0px 0px 0px 0px; Background-color: ; background-image:; background-repeat: ; background-position: 0% 0%;">
 			 	<table height="100%" border="0" cellspacing="0" cellpadding="0" width="100%">
 					<tbody><tr>
 						<td id="c13_i" style="vertical-align :top; text-align :center;">
-									
-
-
-
-
-<style>
-a:hover.BottomNavBar-Level-1 { 
-	caption: (link) Bottom Navigation Bar Level 1 - Hover; 
-	visible:true; 
-	font-family: verdana, Tahoma, arial; 
-	font-size: 7pt; 
-	color: 737577;
-}
-.BottomNavBar-Level-1 { 
-	caption: (link) Bottom Navigation Bar Level 1 - Normal; 
-	visible:true; 
-	font-family: verdana, Tahoma, arial; 
-	font-size: 7pt; 
-	color: 1A29BD;
-}
-.BottomNavBar-Level-1-Selected { 
-	caption: (link) Bottom Navigation Bar Level 1 - Selected; 
-	visible:true; 
-	font-family: verdana, Tahoma, arial; 
-	font-size: 7pt; 
-	color: 737577;
-}
-</style>
-
-    <center>
-		
-			    <a href="http://www.unlockthegame.com/Public/Home/index.cfm" class="BottomNavBar-Level-1">Home</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/FreeArticles/index.cfm" class="BottomNavBar-Level-1">Free Articles</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/ColdCallingMiniLesson/index.cfm" class="BottomNavBar-Level-1">Cold Calling Mini Lesson</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/Results/index.cfm" class="BottomNavBar-Level-1">Results</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/AudioCDsandE-Books/index.cfm" class="BottomNavBar-Level-1">Audio CD's and E-Books</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/AboutAri/index.cfm" class="BottomNavBar-Level-1">About Ari</a>
-			<br> 
-			    <a href="http://www.unlockthegame.com/Public/HaveAriSpeak/index.cfm" class="BottomNavBar-Level-1">Have Ari Speak</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/Coaching/index.cfm" class="BottomNavBar-Level-1">Coaching</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/OnsiteTraining/index.cfm" class="BottomNavBar-Level-1">Onsite Training</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/Questions/index.cfm" class="BottomNavBar-Level-1">Questions?</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/BecomeanAffiliate/index.cfm" class="BottomNavBar-Level-1">Become an Affiliate</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/ContactUs/index.cfm" class="BottomNavBar-Level-1">Contact Us</a>
-			
-			    <a href="http://www.unlockthegame.com/Public/TelemarketingMini-Lesson/index.cfm" class="BottomNavBar-Level-1">Telemarketing Mini-Lesson</a>
-			
-	</center>
- 
+									 
 						</td>
 					</tr>
 				</tbody></table>
 			</td>
+			<td>&nbsp;</td>
 		</tr></tbody></table>
-			</td></tr></tbody></table>
+
 		<table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr valign="top">
 			<td id="c16" style="width:; height:; padding: ; border-style: ; border-color: ; border-width: ; Background-color: ; background-image:; background-repeat: ; background-position: ;">
@@ -981,28 +1341,21 @@ a:hover.BottomNavBar-Level-1 {
 		<tbody><tr valign="top"> 
 			<td>
 				
-				<table cellspacing="0" cellpadding="0" width="100%" border="0">
+				<table cellspacing="0" cellpadding="0" width="795" border="0">
 <tbody>
 <tr>
-<td class="bottom_legal" align="middle">
-<table bordercolor="#0000a0" cellspacing="0" cellpadding="0" width="545" align="left" border="0">
-<tbody>
-<tr>
-<td align="middle"><a href="http://www.unlockthegame.com/packageoptions" target="_blank"><img alt="" src="http://www.unlockthegame.com/images/database/110.gif" border="0" imageid="110"></a></td>
-</tr>
-</tbody>
-</table>
-</td>
+<td align="middle" width="610"><img alt="" src="http://www.unlockthegame.com/images/database/336.jpg" border="0" imageid="336"><br>
+<img alt="" src="http://www.unlockthegame.com/images/database/710.jpg" border="0" imageid="710"></td>
+<td width="185">&nbsp;</td>
 </tr>
 
 <tr>
-<td>
+<td colspan="2">
 <table bordercolor="#0000a0" cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
 <tbody>
 <tr>
-<td>
-<p align="center">&nbsp;© 2004-2005 Ari Galper. All Rights Reserved. UNLOCK THE GAME and EVERYONE WINS are trademarks of Ari Galper.&nbsp;<a href="http://www.unlockthegame.com/utility/showArticle?objectID=15">Legal Notices</a>&nbsp;<a href="http://www.unlockthegame.com/utility/showArticle?objectID=16">Privacy Statement</a></p>
-</td>
+<td style="FONT-SIZE: 10px" align="middle">© Unlock The Game. All Rights Reserved. Unlock The Game is a registered trademark.&nbsp;<br>
+<a href="http://www.unlockthegame.com/utility/showArticle?objectID=15">Legal Notices</a>&nbsp;<a style="COLOR: black; TEXT-DECORATION: none" href="http://www.unlockthegame.com/site">and</a>&nbsp;<a href="http://www.unlockthegame.com/utility/showArticle?objectID=16">Privacy Statement</a> </td>
 </tr>
 </tbody>
 </table>
@@ -1014,12 +1367,69 @@ a:hover.BottomNavBar-Level-1 {
 		</tr>
 	
 </tbody></table>
+
+
+<script language="JavaScript">
+<!-- //
+
+window.onerror = null
+var browserOK = (((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) >= 3)) || ((navigator.appName == 'Microsoft Internet Explorer') && (parseInt(navigator.appVersion) >= 4)));
+
+if (browserOK)
+{
+    NumLines = 1;
+    Messages = new Array(NumLines);
+	
+	    Messages[0] = "Call 1-877-641-3039 for FREE Cold Calling and Selling Help!";
+	
+    CurrentLine = 0;
+    pos = - Messages[0].length;
+}
+    
+function marquee()
+{
+  if (browserOK)
+  {
+    pos ++;
+    if (pos == 0)
+      window.setTimeout('marquee()', 5000000);
+    else if (pos != Messages[CurrentLine].length)
+      window.setTimeout('marquee()', 20);
+    window.status = Messages[CurrentLine].substring(Math.abs(pos),
+      Messages[CurrentLine].length);
+    if (pos >= Messages[CurrentLine].length)
+    {
+      CurrentLine ++;
+      if (CurrentLine >= NumLines)
+        CurrentLine = 0;
+      pos = - Messages[CurrentLine].length;
+      window.setTimeout('marquee()', 1000);
+    }
+  }
+}
+
+window.setTimeout('marquee()', 100);
+
+// -->
+
+</script>
  
 						</td>
 					</tr>
 				</tbody></table>
 			</td>
 		</tr></tbody></table>
+	<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script type="text/javascript" language="javascript">
+var lpPosY = 400; 
+</script>
+<script type="text/javascript" language="javascript" src="http://server.iad.liveperson.net/hc/85989478/x.js?cmd=file&amp;file=chatScript3&amp;site=85989478&amp;imageUrl=http://www.unlockthegame.com/lp"> </script>
+<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+
+		<script type="text/javascript" language="javascript">
+			var filename_and_query="/utility/showArticle/index.cfm"; 
+		</script>
 	<!-- BEGIN WEBSIDESTORY CODE v3.0.0 (pro)-->
 <!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
 <script language="javascript">
