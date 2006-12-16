@@ -1,59 +1,95 @@
-> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515001001id_/http%3A//www.nigeriannation.com/resources/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216091839id_/http%3A//www.nigeriannation.com/resources/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | NigerianNation.Com
 
 **Privacy Statement For NigerianNation.Com**
 
-**NigerianNation.Com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: **NigerianNation.Com**
+**NigerianNation.Com Privacy Policy**  
+NigerianNation.Com offers an online place to meet friends. This Privacy Policy is intended to inform you of NigerianNation.Com's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our Website.
 
-#### Information Automatically Logged
+NigerianNation.Com ("NigerianNation.Com", "us" or "we") respects the privacy of the visitors to its Website, the home page of which is located at http://www.nigeriannation.com ("Website"). 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. 
+"Personal Information" is information about you that is personally identifiable to you, like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
-Our site uses cookies, with other session variables, to save your password and preferences, etc so you don't have to re-enter it each time you visit our site. We also use cookies for other purposes as may be necesary to ensure the smooth running of our applications that may depend on them to run. For more about cookies, [click here](https://web.archive.org/resources/Help/Help.asp#Cookie).
+"Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
 
-#### Advertisers
+**User Consent**  
+By submitting Personal Information through our Website, you agree to the terms of this Privacy Policy and expressly consent to the processing of your Personal Information according to this Privacy Policy.   
+Your Personal Information may be processed by NigerianNation.Com in the country where it was collected as well as other countries (including the United States of America) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+**General**  
+We collect Personal Information that you submit to us voluntarily through our Website.
 
-#### Personal Information
+  * When you register for the NigerianNation.Com network, we will collect your name, e-mail address, your gender, date of birth and ZIP code.
+  * When you save other Personal Information in your profile we will collect any such information you enter.
+  * When you enter Personal Information throughout the NigerianNation.Com network using one of the features of the NigerianNation.Com network, for example journals, testimonials, groups, or message boards, we will collect any such information you enter ("Publicly Posted Information").
+  * When you contact us by sending us an e-mail, we will collect your e-mail addresses and any information contained in the e-mail you send us.
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
 
-#### External Links
+Once you register with NigerianNation.Com and sign in to our services, you are not anonymous to us. If you are browsing the Website without registering with NigerianNation.Com, you are anonymous to us, but we will collect the information listed below under Personal Information Collected Via Technology. 
 
-This site contains links to other sites. [****NigerianNation.Com****](https://web.archive.org/default.asp) **** is not responsible for the privacy practices or the content of such Web sites. 
+**Use of information**  
+Any visitor of the NigerianNation.Com website can view your profile information and photos that you have uploaded to the NigerianNation.Com community. You can control what part of your profile information and photos is visible to visitors of the NigerianNation.Com website and which network of NigerianNation.Com members can see what information. 
 
-#### Public Forums
+To provide you with some of the features that the NigerianNation.Com community offers to its members, we may use Personal Information that is stored in your profile after you have requested such features, for example to send invitation e-mails to people that you specified as being interested in joining the NigerianNation.Com community. In order to provide useful information about social networks to people who might be interested in joining the NigerianNation.Com community, we may use your profile information and photos on the NigerianNation.Com website and when we send emails, for example when we send birthday reminders to NigerianNation.Com members or when we send general newsletters to members of the NigerianNation.Com community. When you decide to view a member's profile, we may show that NigerianNation.Com member that you chose to view their profile. If you don't want us to show to other NigerianNation.Com members that you viewed their profile, you can change this in your privacy settings.
 
-This site makes chat rooms, forums, message boards, and/or news groups, etc available to its users. In order to use these features or applications, users are required to provide a username, password and e-mail address. Neither the Administrators of these forums, or the Moderators participating, are responsible for the privacy practices of any user. Remember that all information that is disclosed in these areas becomes public information and you should exercise caution when deciding to share any of your personal information. Any user who finds material posted by another user objectionable is encouraged to contact us via e-mail. We are authorized by you to remove or modify any data submitted by you to these forums for any reason we feel constitutes a violation of our policies, whether stated, implied or not.
+If you decide to use certain features of the NigerianNation.Com network (like journals, testimonials, groups, message boards and the like), some of the Personal Information you entered into your NigerianNation.Com profile and any information, including Personal Information, that you enter using one of these features, might be used and displayed.  
+NigerianNation.Com members can use the search feature to search for other members by different criteria, like location or gender. The Personal Information that NigerianNation.Com members enter into the NigerianNation.Com profile will be used for these searches.  
+Please be aware that any information that is publicly posted throughout the NigerianNation.Com network can be accessed by every visitor of the Website.
 
-This site may contain links to other web sites and files. We have no control over the content and can not ensure it will not be offensive or objectionable. We will, however, remove links to material that we feel is inappropriate as we become aware of them.
+NigerianNation.Com may analyze any collected information for its own internal purposes. In addition, NigerianNation.Com may remove personally identifying information from collected information to render it anonymous. NigerianNation.Com may use Anonymous Information for any purpose and disclose Anonymous Information in its discretion.
 
-Cookies must be turned on in your browser to participate as a user in these forums. Cookies are used here to hold your username and password and viewing options, allowing you to login.
+**Information Sharing and Disclosure**  
+NigerianNation.Com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or as otherwise described in this privacy policy. 
 
-You are fully responsible for any information or file supplied by this user. You also agree that you will not post any copyrighted material that is not owned by yourself or the owners of these forums. In your use of these forums, you agree that you will not post any information which is vulgar, harassing, hateful, threatening, invading of others privacy, sexually oriented, or violates any laws. 
+We provide your Personal Information to third party service providers who work on behalf of or with NigerianNation.Com under confidentiality agreements to provide some of the services and features of the NigerianNation.Com community and to help us communicate with NigerianNation.Com members. These service providers may use your personal information to help NigerianNation.Com communicate with you about offers from NigerianNation.Com and our marketing partners. However, these service providers do not have any independent right to share this information.
 
-#### Forums: Addendum
+If you decide to use one of the additional services that are offered by our partners, such as the e-mail finder service or the electronic fax, we may forward Personal Information to these partners to enable them to provide the services that you requested.  
+We also provide information to third-party advertising companies, as described in the next section.  
+Please be aware that the handling of your Personal Information by our partners or the third-party advertising companies is governed by their privacy policy, not ours.
 
-If you agree with the following rules then click on the 'Accept' button at the bottom of the page if not click on the 'Cancel' button. 
+If you would like to know (1) the categories of Personal Information about you that we disclosed in the prior calendar year to third parties for the purposes of the third partiesý marketing and/or (2) the names and addresses of such third parties, please contact us.
 
-When you register you are required to give a small amount of information, much of which is optional, anything you do give must be considered as becoming public information. 
+We will disclose information in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may disclose information, if we believe it is necessary to investigate, prevent, or take action regarding suspected illegal activities or fraud, situations involving the physical safety of any person, violations of NigerianNation.Com's terms of use, or as otherwise required by applicable law. 
 
-You agree not to use this forum to post any material which is vulgar, defamatory, inaccurate, harassing, hateful, threatening, invading of others privacy, sexually oriented, or violates any laws. You also agree that you will not post any copyrighted material that is not owned by yourself or the owners of these forums. 
+If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-You remain solely responsible for the content of your messages, and you agree to indemnify and hold harmless this forum and their agents with respect to any claim based upon any post you may make. We also reserve the right to reveal whatever information we know about you in the event of a complaint or legal action arising from any message posted by yourself.
+**Third Party Advertising**  
+We use third-party advertising companies to serve advertisements when you visit our Website. These companies may use Personal Information, such as gender or age, and other information (not including your name, address, email address or telephone number) about your visits to this and other websites, such as time of day of the login, IP address or information about the internet service provider (ISP), in order to provide advertisements on the Website about goods and services that may be of interest to you. 
 
-Although messages posted are not the responsibility of this forum and we are not responsible for the content or accuracy of any of these messages, we reserve the right to delete any message for any or no reason whatsoever. If you do find any posts are objectionable then please contact the forum by e-mail. 
+**Personal Information Collected Via Technology**  
+As you navigate the Website, certain information may also be passively collected and stored on our server logs, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on the Website you clicked. This type of information is collected to make our services and solutions more useful to you and to tailor the NigerianNation.Com community experience to meet your special interests and needs.  
+If you search the NigerianNation.Com community by using a toolbar that NigerianNation.Com, or a third party provides, we may collect Anonymous Information about you automatically, but we will not collect Personal Information.
 
-The Federal Trade Commission's Children's Online Privacy Protection Act of 1998 (COPPA) requires that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13. **If you are below 13 then you can NOT use this forum. Do NOT register if you are below the age of 13.**
+An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track your IP Address when you login to the Website.
 
-#### Children's Guidelines
+"Cookies" are small pieces of information that a web site sends to your computerýs hard drive while you are viewing a web site. NigerianNation.Com may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.  
+Other third parties may place advertisements and cookies on webpages within the NigerianNation.Com network. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
-  **NigerianNation.Com** is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important. For those sites specifically directed at children, and where users have indicated they are younger than 13, **** we will collect the minimum amount of Personal Information only necessary to the operation of the service. These **NigerianNation.Com** sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission. 
+**Your Ability to Edit and Delete Your Account Information and Preferences**  
+We reserve the right to send you certain communications relating to the NigerianNation.Com service, such as service announcements, administrative messages and the NigerianNation.Com Newsletter, that are considered part of your NigerianNation.Com account. If you would like to opt out of these messages, you may delete your account by sending an e-mail message to support@nigeriannation.com, subject: account deletion. Please include your full name, e-mail address in the body of the message.
 
-## Contacting the Web Site
+**Confidentiality and Security**  
+We limit access to personal information about you to employees and third parties who we reasonably believe need access to that information to provide products or services to you or in order to do their jobs. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/resources/Mail/Mail.asp).
+We have physical, electronic, and procedural safeguards to protect personal information about you and your NigerianNation.Com account information is protected by a password that you select. NigerianNation.Com uses industry-standard SSL encryption in certain areas of the Website to protect data transmissions.  
+However, no company, including NigerianNation.Com, can fully eliminate security risks associated with Personal Information.
+
+**Other Sites**  
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy does not apply to these outside websites.
+
+**Regarding Children**  
+We do not intentionally gather Personal Information about visitors who are under the age of 13. 
+
+**Contact Us**  
+Should you have any questions or concerns regarding this Privacy Policy, please contact us:
+
+            NigerianNation.Com Networks, Inc.  
+            support@nigeriannation.com
+
+  
+**Changes to this Privacy Policy**  
+NigerianNation.Com may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your NigerianNation.Com account or by placing a prominent notice on our Website. If you object to any such changes, you must cease using our Website. Continued use of our Website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+
+**This Policy was last updated in September 7, 2006**
