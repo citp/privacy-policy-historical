@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunzfactor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210539id_/http%3A//www.gunzfactor.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunzfactor.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216211501id_/http%3A//www.gunzfactor.com/policy.php) for the most accurate reproduction.*
 
 # GunZ Factor.com - Privacy Policy
 
