@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215132id_/http%3A//htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216114905id_/http%3A//www.htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
 
 # HTMLCenter - Privacy Policy
 
-HTMLCenter takes your privacy seriously. Please read the following to learn more about our privacy policy. 
-
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.**
+HTMLCenter takes your privacy seriously. We will never sell or rent your e-mail address or contact details.Please read the following to learn more about our privacy policy. 
 
 **What this Privacy Policy Covers**  
 
