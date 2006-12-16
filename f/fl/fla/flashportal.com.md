@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashportal.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629103458id_/http%3A//www.flashportal.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashportal.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216043409id_/http%3A//www.flashportal.com/policy.php) for the most accurate reproduction.*
 
 # Welcome to Flash Portal
 
@@ -6,7 +6,7 @@
 
 Flashportal.com and its affiliate companies (collectively "Flash Portal") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Flashportal.com safeguards the privacy of its on-line visitors. Please note that when you link to other sites from Flashportal.com website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. Also, this Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes.
 
-_**What personal information is collected?**_
+_**_What personal information is collected?_**_
 
 Flashportal.com only collects personal information on a voluntary basis. If an on-line visitor submits information to Flashportal.com, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product registration or registration for on-line participation, (3) player match-up services, (4) message boards, (5) warranty registrations, (6) contest registrations, (7) a consumer complaint, and/or (8) surveys. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to use our products or gain access to our sites, however, you will not be able to utilize certain features that require registration or receive materials such as newsletters unless such information is provided. Visitors purchasing products or services through our on-line stores will be required to provide additional information such as a valid credit card number and expiration date. Please note that, depending on the Flash Portal site that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
 
