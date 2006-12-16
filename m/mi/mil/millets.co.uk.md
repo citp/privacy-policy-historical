@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617193224id_/http%3A//www.millets.co.uk/millets.storefront/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216102057id_/http%3A//www.millets.co.uk/millets.storefront/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Millets
 
