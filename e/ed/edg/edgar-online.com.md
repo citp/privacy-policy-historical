@@ -1,8 +1,30 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020731id_/http%3A//www.edgar-online.com/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216034035id_/http%3A//www.edgaronline.com/footer/privacy.aspx) for the most accurate reproduction.*
 
-# EDGAR Online News
+# EDGAR Online
 
-**PRIVACY POLICY**
+  | 
+
+### Investor Guide
+
+  * [About EDGAR Online](https://web.archive.org/company/about.aspx)
+  * [Earnings Releases ](https://web.archive.org/company/earnings.aspx)
+  * Press Releases 
+  * [In The News ](https://web.archive.org/company/inTheNews.aspx)
+  * [Conference Calls](https://web.archive.org/company/conference.aspx)
+  * [Investor Presentations](https://web.archive.org/company/presentations.aspx)
+  * [Stock Quote ](https://web.archive.org/investor/quote.aspx)
+  * [Historical Chart](https://web.archive.org/investor/chart.aspx)
+  * [SEC Filings](http://edgr.edgar-online.com/Results.asp?criteria=ticker_symbol&ticker=SYM&cols=4,5,6,7,8)
+  * [Insider Filings](http://edgr.edgar-online.com/Results.asp?criteria=ticker_symbol&ticker=SYM&cols=4,5,6,7,8&formgroup=insdr)
+  * [Chairman's Letter ](https://web.archive.org/investor/chair_letter.aspx)
+  * [Executive Management](https://web.archive.org/company/executive.aspx)
+  * [Board of Directors](https://web.archive.org/company/director.aspx)
+  * [Code of Conduct](https://web.archive.org/investor/code_of_conduct.aspx)
+  * [Code of Ethics - CEO](https://web.archive.org/investor/coe_ceo.aspx)
+  * [Code of Ethics - CFO](https://web.archive.org/investor/coe_cfo.aspx)
+  * [Investor Kit](https://web.archive.org/investorKit/)
+
+|   |  **PRIVACY POLICY**
 
 **_EDGAR Online, Inc._** ("EOL") respects your right to privacy while using our web sites. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.
 
@@ -29,3 +51,7 @@ Cookies are pieces of information that a web site transfers to an individual's c
 EOL reserves the right, in its sole discretion, to modify, alter, or otherwise revise this Privacy Policy at any time without notice and you agree to be bound by such modifications, alterations, and revisions.
 
 Last posting: July 21, 2003 
+
+To Top
+
+|  
