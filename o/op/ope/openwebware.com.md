@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620065635id_/http%3A//openwebware.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216043149id_/http%3A//www.openwebware.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # openWebWare - Privacy Policy
 
