@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hegre-art.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231071233id_/http%3A//www.hegre-art.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hegre-art.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216202353id_/http%3A//www.hegre-art.com/privacy.html) for the most accurate reproduction.*
 
 # Hegre-Art.com
 
@@ -29,4 +29,4 @@ You can access all your personally identifiable information that we collect onli
 Should you have other questions or concerns about these privacy policies, please send us an email at [support@hegre-art.com](mailto:support@hegre-art.com).
 
   
-johns@hegre-art.com johns@hegre-archives.com johns@petter-hegre.no johns@thenewnude.com johns@newnudemag.com johns@newnudecity.com johns@newnudecash.com johns@hegre-art.com johns@gallery-carre.com
+
