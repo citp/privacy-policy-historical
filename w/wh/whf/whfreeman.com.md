@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whfreeman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204139id_/http%3A//www.bfwpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whfreeman.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216170441id_/http%3A//www.bfwpub.com/privacy) for the most accurate reproduction.*
 
 # Effective Date: November 23, 2005
 
@@ -117,7 +117,7 @@ return to top
 
 **Your Choices About Marketing**
 
-We give you the option of requesting that we not share personal information about you with third parties that are unrelated by common ownership with BFW for marketing use.  [Click here](mailto:optout@bfpwub.com?subject=Do%20not%20share%20my%20personal%20information%20with%20unrelated%20third%20parties) if you DO NOT want us to share your personal information with unrelated third parties for their own marketing use.
+We give you the option of requesting that we not share personal information about you with third parties that are unrelated by common ownership with BFW for marketing use.  [Click here](mailto:optout@bfwpub.com?subject=Do%20not%20share%20my%20personal%20information%20with%20unrelated%20third%20parties) if you DO NOT want us to share your personal information with unrelated third parties for their own marketing use.
 
 We also give you the option of requesting that we not share your information with companies related to BFW by common ownership for marketing use.  However, PLEASE NOTE that, because of the integrated nature of the businesses of BFW and some of these companies, if you opt out of sharing with them, you will also automatically be opted out of marketing use by BFW.  That means that you will not receive information about books, new products, promotions and services from BFW.  [Click here](mailto:optout@bfwpub.com?subject=Do%20not%20share%20my%20personal%20information%20with%20any%20affiliated%20parties) if you do not want us to share your information with related companies for marketing use (or use the information for marketing purposes ourselves). (Keep in mind, however, that some of our related companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.)
 
