@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216020828id_/http%3A//www.hipages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216100725id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
 
-# Home Improvement Pages, Find a Tradesman in Australia
+# Home Improvement Pages, Privacy Policy
 
-|        |  |  |  |   
+|    
+  
 ---  
-       | 
-
+  
+|   
+---  
 **Privacy Policy**
 
 **Introduction**
@@ -88,17 +90,4 @@
 25\.  | Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at [privacy@privacy.gov.au ](mailto:privacy@privacy.gov.au)  
   
 **Acceptance** 26\.  | You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.   
----|---  
-  
-  
-|   
----  
-| **What** |   
----|---  
-**Where** |   
-|   
-|  **Postcode Finder
-
-[Keyword Search](https://web.archive.org/searchpage.html "Keyword Search")
-
-**
+---|---
