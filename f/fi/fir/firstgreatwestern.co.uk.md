@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192743id_/http%3A//www.firstgreatwestern.co.uk/Content.aspx%3Fid%3D152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216113954id_/http%3A//www.firstgreatwestern.co.uk/Content.aspx%3Fid%3D152) for the most accurate reproduction.*
 
 # First Great Western - Privacy Statement
 
@@ -119,6 +119,6 @@ Under the Data Protection Act 1998, you are entitled to see the personal informa
 **Changes to this Policy  **  
 First GReat Western reserves the right to revise or supplement this Privacy Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy and so you are aware of what information we collect, how we use it and under what circumstances we disclose it. You can determine when this Privacy Policy was last revised by checking the "Last Updated" legend at the top of the Policy. 
 
-Copyright © 2006 First Greater Western Limited. All rights reserved. 
+Copyright © 2006 First Greater Western Limited. All rights reserved.
 
 Back to top
