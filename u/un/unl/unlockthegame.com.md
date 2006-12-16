@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627080422id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216010335id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
 
-# Home Page - Welcome to Ari Galper's Unlock The Game,Welcome to Ari Galper's Unlock The Game,Welcome to Ari Galper's UnlockTheGame.com
+# Welcome to Ari Galper's Unlock The Game - Cold Calling Made Painless. Guaranteed.
 
 _**Privacy Policy**_
 
@@ -30,7 +30,7 @@ An IP address is a number that is automatically assigned to your computer when y
 
 _**Opting Out**_
 
-Unlock The Game may periodically send out e-mail newsletters to our users about new services, products or other news using e-mail addresses provided at registration or otherwise. Upon request, Unlock The Game will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletter lists. If you receive any such e-mail messages that you do not wish to receive again in the future, please [contact us](http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=public,6) .
+Unlock The Game may periodically send out e-mail newsletters to our users about new services, products or other news using e-mail addresses provided at registration or otherwise. Upon request, Unlock The Game will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletter lists. If you receive any such e-mail messages that you do not wish to receive again in the future, please [contact us](http://www.unlockthegame.com/utility/showPage/index.cfm?objectID=utg,4393).
 
 _**Links**_
 
@@ -47,5 +47,5 @@ Unlock The Game reserves the right to change this policy at any time. By using w
 If you have any questions about this privacy statement or the practices of this Web site, you may write to us at the following postal address:
 
 Unlock The Game   
-2339 34th St., #37  
-Santa Monica, CA 90405
+24112 Park Casino  
+Calabasas, CA 91302
