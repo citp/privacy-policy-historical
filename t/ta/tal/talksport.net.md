@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talksport.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619001157id_/http%3A//www2.talksport.net/utilities/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216142917id_/http%3A//www1.talksport.net/utilities/privacy.asp) for the most accurate reproduction.*
 
 # talksport
 
