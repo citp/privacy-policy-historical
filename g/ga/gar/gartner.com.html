@@ -1,36 +1,20 @@
-<!--The following is the downloaded HTML source of the gartner.com privacy policy that was archived on 2006-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613022649id_/http%3A//gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gartner.com privacy policy that was archived on 2006-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061216065754id_/http%3A//www.gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-    <title>Online Privacy Policy</title><!--  test test -->
-    <meta name="DESCRIPTION" content="">
-    <meta name="KEYWORDS" content="">
- 
- 
-<style>
 
-  .gray_e7 { 
-  background:#EEEEEE;
-  } 
-  
-  .gray_e8 { 
-  background:#F7F7FF;
-  } 
- 
+<!-- Changes to title and meta tags will be overwritten by tagging workflow -->
+<!-- Please use the tagging UI to add/modify these tags -->
 
-.grayText {
- font-family:verdana,arial,helvetica; 
-  color:#666666; 
-  font-size:11px; 
-  } 
+<title>Privacy Policy</title>
+<meta name="description" content="Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+<meta name="GGPageType" content="99">
+<meta name="RSArchive" content="N">
 
-.worldmap { 
-   background:url("/5_about/company_information/images/worldmap7_lt.gif");
-	} 
-</style>
-    
-    <link href="/1_researchanalysis/css/content.css" rel="stylesheet">
-<meta http-equiv="Expires" content="-1">
+<!-- End of workflow related meta tags -->
+
+ <meta http-equiv="Expires" content="-1">
 
  <!-- This include sets gartner.com time out -->
 <link rel="stylesheet" href="/css/menu.css" type="text/css">
@@ -50,7 +34,8 @@ img.down2 { position:relative;top:6;left:0; }
 </style>
 
 
-  <script type="text/javascript"><!--
+  <script type="text/javascript">
+  <!--
   if (((navigator.appVersion.toLowerCase().indexOf('msie') !=-1) && (navigator.appVersion.toLowerCase().indexOf('mac') ==-1)) || (navigator.appVersion.toLowerCase().indexOf('windows') !=-1))
   {
     document.write('<link rel=stylesheet href="/css/win/main.css" type="text/css">');
@@ -98,7 +83,9 @@ img.down2 { position:relative;top:6;left:0; }
       }
     }
   }
-  //--></script><link rel="stylesheet" href="/css/mac/main.css" type="text/css"><link rel="stylesheet" href="/css/mac/navigation.css" type="text/css"><link rel="stylesheet" href="/css/mac/homepage.css" type="text/css">
+  -->
+  </script><link rel="stylesheet" href="/css/mac/main.css" type="text/css"><link rel="stylesheet" href="/css/mac/navigation.css" type="text/css"><link rel="stylesheet" href="/css/mac/homepage.css" type="text/css">
+
   <script src="/js/navigation.js"></script>
   <script src="/js/menu.js"></script>
   <script src="/js/utility.js"></script>
@@ -127,6 +114,7 @@ img.down2 { position:relative;top:6;left:0; }
     var sleeperInc = 1
     var myTimer
     var usercookie=GetCookie("UserType");
+    var unForRegionalsCookie = GetCookie("unForRegionals");
     var objSearchForm = document.frmSearch
     var mystrng ;
 
@@ -136,8 +124,8 @@ img.down2 { position:relative;top:6;left:0; }
       GARTADM = parseInt(Mid(usercookie,2,1));
       INQACCESS = parseInt(Mid(usercookie,3,1));
       EVENTREG = parseInt(Mid(usercookie,4,1));
-      
-      
+
+
       // Check to see if length is greater than 5.(Not checking for length == 6 bcoz it may be greater than 6 also).
       // Also check if 6th digit is 1, then user is a client user.
       if(usercookie.length > 5) {
@@ -147,10 +135,14 @@ img.down2 { position:relative;top:6;left:0; }
     }
 
     /*********************************************/
-    var tID;
-    if (!tID) {
-      tID = setTimeout('executeTimer()',7500000);
-    }
+   // Check for logged in User, If true then execute the timmer.
+   // If the user is not logged in do not execute the timmer.
+   var tID;
+   if ( unForRegionalsCookie != null && unForRegionalsCookie != "userLoggedOut" ) {
+      if (!tID) {
+         tID = setTimeout('executeTimer()',7500000);
+      }
+   }
 
    function resetTimer() {
      clearTimeout(tID); // reset the timer
@@ -227,29 +219,11 @@ img.down2 { position:relative;top:6;left:0; }
 
 
    var mirt = new RegionalsText(userLocaleCookie);
-   
-   
-   function homepageJumper(newLoc) {
-      newPage=newLoc.options[newLoc.selectedIndex].value;
-      if (newPage=="worldwide") {
-           alert('You are currently at the Gartner Worldwide site.  If you\'d like to change your locale, please select another website from the menu.');
-           return false;
-      } else if (newPage!="") {
- 		 if ((newPage.indexOf("/silentlocalechooser.jsp") == 0) ||
-     		(newPage.indexOf("/invest") == 0) || (newPage.indexOf("?expHomePage=") != -1 ||
-     		(newPage.indexOf("Init") != -1))) {
-            window.open(newPage,"_self");
-         } else {
-            window.open(newPage);
-         }
-      }
-      newLoc.selectedIndex=0
-   }
 
 </script>
 
 <script type="text/javascript">
-if (location.pathname.substring(1, 3) != "it") { 
+if (location.pathname.substring(1, 3) != "it") {
    document.write('</head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#bbbbbb">\n');
 }
 </script></head><body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#bbbbbb">
@@ -271,15 +245,19 @@ document.write('</div>\n');
 document.write('<div id="searchresearch"><strong>' + mirt.getSearchResearchText() + '</strong></div>\n');
 document.write('<div id="searchright">\n');
 document.write('<form id="frmSearch"  method="post" name="frmSearch" onsubmit="submitSearch(); return false;" action="">\n');
-document.write('<input class="formField" type="text" name="txtSearch" size="14"  style="width:174px;"  />\n');
-document.write('<input type="image" name="search"  class="bluebutton" src="/it/images/nav/blue_arrow18.gif"  alt="Submit" value="Submit" onclick="submitSearch();"/>\n');
+document.write('<input class="formField" type="text" name="txtSearch" size="14" maxlength="400" style="width:244px;"  />\n');
+document.write('<input type="image" name="search"  class="bluebutton" src="/it/images/nav/blue_arrow18.gif"  alt="Submit" value="Submit" />\n');
 document.write('<div class="advanced">\n');
-document.write('<a href="#" class="blueLink9px" onclick="javascript:advancedSearch(); return false;">' + mirt.getAdvancedSearchText() + '</a>&nbsp;\n');
-document.write('<a href="#" class="blueLink9px" onclick="javascript:browse(); return false;">' + mirt.getBrowseText() + '</a>&nbsp;\n');
+document.write('<a href="#" class="search1" onclick="javascript:advancedSearch(); return false;">' + mirt.getAdvancedSearchText() + '</a>\n');
+document.write('<a href="#" class="search2" onclick="javascript:browse(); return false;">' + mirt.getBrowseText() + '</a>\n');
+
 if (CLIENTUSER) {
-	document.write('<a href="#" class="blueLink9px" onclick="javascript:openPreferences(&quot;/7_search/UserPreferences.jsp&quot;, &quot;searchPreferences&quot;); return false;">' + mirt.getPreferencesText() + '</a>&nbsp;\n');
+	document.write('<a href="#" class="search3" onclick="javascript:openPreferences(&quot;/7_search/UserPreferences.jsp&quot;, &quot;searchPreferences&quot;); return false;">' + mirt.getPreferencesText() + '</a>\n');
 }
-document.write('<a href="#" class="blueLink9px" onclick="javascript:openBasicSearchHelp(); return false;">' + mirt.getSearchHelpText() + '</a>\n');
+document.write('<a href="#" class="search4" onclick="javascript:openBasicSearchHelp(); return false;">' + mirt.getSearchHelpText() + '</a>\n');
+if (REGISTEREDUSER){
+    document.write('<a href="#" onclick="javascript:clickBetaSearchLink()" class="betasearch">' + mirt.getTryBetaSearchText() + '</a>\n');
+}
 document.write('</div>\n');
 document.write('</form>\n');
 document.write('</div>\n');
@@ -291,17 +269,22 @@ document.write('<!-- Tabs and Gartner Websites dropdown -->\n\n');
 document.write('<tr>\n');
 document.write('<td id="menubar">\n');
 
+// Check for Registered User, If true then execute the timmer.
+// If the user is not Registered User do not execute the timmer.
 if (!REGISTEREDUSER)
 {
    document.write('<a class="menu" href="/it/about/why_use_gartner.jsp">&nbsp;' + mirt.getWhyUseGartnerText() + '</a>\n');
 }
 else
-{
+{  if (!tID) {
+      tID = setTimeout('executeTimer()',7500000);
+    }
    document.write('<a class="menu" href="/it/client_services.jsp">&nbsp;' + mirt.getClientServicesText() + '</a>\n');
 }
 
 document.write('<a class="menu" href="/it/products_services.jsp">' + mirt.getProductsAndServicesText() + '</a>\n');
 document.write('<a class="menu" href="/it/analysts_consultants.jsp">' + mirt.getAnalystsAndConsultantsText() + '</a>\n');
+document.write('<a class="menu" href="/it/products/events/events.jsp">' + mirt.getEventsText() + '</a>\n');
 document.write('<a class="menu" href="/it/about_gartner.jsp">' + mirt.getAboutGartnerText() + '</a>\n');
 
 
@@ -318,7 +301,7 @@ document.write('</tr>\n');
 document.write('<tr bgcolor="#BBBBBB"><td><img src="/it/images/x.gif" width="1" height="2" alt="" border="0" /></td></tr>\n');
 document.write('</table>\n');
 
-if (location.pathname.substring(1, 3) != "it") { 
+if (location.pathname.substring(1, 3) != "it") {
    document.write('<table border="0" cellspacing="0" cellpadding="0" width="766" align="center"><tr><td width="766" bgcolor="FFFFFF">');
 }
 </script><!-- Gartner logo, search box -->
@@ -331,10 +314,31 @@ if (location.pathname.substring(1, 3) != "it") {
 <!-- end main_init.inc-->
 
 
+<style>
 
+  .gray_e7 { 
+  background:#EEEEEE;
+  } 
   
+  .gray_e8 { 
+  background:#F7F7FF;
+  } 
+ 
 
+.grayText {
+ font-family:verdana,arial,helvetica; 
+  color:#666666; 
+  font-size:11px; 
+  } 
 
+.worldmap { 
+   background:url("/5_about/company_information/images/worldmap7_lt.gif");
+	} 
+	
+	.fix {font-size: 1em; text-decoration: none; line-height: .8em;}
+</style>
+    
+    <link href="/1_researchanalysis/css/content.css" rel="stylesheet">
 
 
 
@@ -343,12 +347,7 @@ if (location.pathname.substring(1, 3) != "it") {
 
 
 <table border="0" cellspacing="0" cellpadding="0" width="766">
-   <tbody><tr><td width="2" height="10" rowspan="3"><img src="docs/common/x.gif" border="0" height="1" width="2"></td>
-   <td height="10"><img src="docs/common/x.gif" border="0" height="1" width="1" vspace="4"></td>
-   <td width="2" height="10" rowspan="3"><img src="docs/common/x.gif" border="0" height="1" width="2"></td>
-   </tr>
-   <tr><td valign="top" class="contentCell" height="20"><img src="docs/common/x.gif" border="0" height="1" width="1" vspace="10"></td></tr>
-   <tr><td valign="top" height="5"><img src="docs/common/x.gif" border="0" height="1" width="1" vspace="2"></td></tr>
+   <tbody><tr><td valign="top" height="2"><img src="docs/common/x.gif" border="0" height="2" width="1"></td></tr>
 </tbody></table>
 
 
@@ -384,6 +383,8 @@ if (location.pathname.substring(1, 3) != "it") {
         <a href="#alerts" class="linkTextSmall3">Alerts</a>
 <div><img src="docs/common/x.gif" border="0" height="6" width="1"></div>
         <a href="#purchases" class="linkTextSmall3">Purchases</a>
+<div><img src="docs/common/x.gif" border="0" height="6" width="1"></div>
+        <a href="#entitlements" class="linkTextSmall3">Usage Entitlements</a>		
 <div><img src="docs/common/x.gif" border="0" height="6" width="1"></div>
         <a href="#tracking" class="linkTextSmall3">Usage Tracking</a>
 <div><img src="docs/common/x.gif" border="0" height="6" width="1"></div>
@@ -448,57 +449,57 @@ if (location.pathname.substring(1, 3) != "it") {
                         <td valign="top" width="10" class="gray_e7"><img src="docs/common/x.gif" alt="" border="0" height="10" width="10" hspace="0" vspace="0"></td>
                         <td valign="top" width="194" class="gray_e7">
                        <div><img src="docs/common/x.gif" alt="" border="0" height="12" width="194" hspace="0" vspace="0"></div>
-                        <span class="contentText">Gartner is not only committed to protecting personal information about you. We are also committed to being a thought leader on this important issue. 
-               <div><img src="docs/common/x.gif" alt="" border="0" height="12" width="1" hspace="0" vspace="0"></div>To stay informed, you may want to read some recent Gartner Research on privacy.</span>
+                        <span class="contentText">Gartner is not only committed to protecting personal information about you. We are also committed to being a thought leader on this important issue.
+               <div><img src="docs/common/x.gif" alt="" border="0" height="12" width="1" hspace="0" vspace="0"></div>To stay informed, you may want to read some recent <a href="javascript:void(null)" onclick="openSearch(&quot;/7_search/Search2Frame.jsp?keywords=\&quot;Privacy\&quot;&quot;); return false;" class="linkTextSmall3 fix">Gartner Research on privacy</a>.
 <div><img src="docs/common/x.gif" alt="" border="0" height="16" width="1" hspace="0" vspace="0"></div>
-               <!-- Table IIB-1a -->
-                     <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                    	<tbody><tr>
-                  		<td valign="top" width="6" bgcolor="white" class="contentText">
-                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="6" hspace="0" vspace="0"></div>
+               <!-- Table IIB-1a 
+                     <table border="0" cellspacing="0" cellpadding="0" width="100%"  >
+                    	<tr>
+                  		<td valign="top" valign="top" width="6" bgcolor="white" class="contentText">
+                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="6" hspace="0" vspace="0" ></div>
                         </td>
                         
-                        <td valign="top" width="300" bgcolor="white" class="contentText">
-                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2"></div>
+                        <td valign="top" valign="top" width="300" bgcolor="white" class="contentText">
+                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2" ></div>
                          
                           <a class="linkText" href="javascript:void(null)" onclick="openResult('/DisplayDocument?id=359063')">When It Comes to Privacy, One Size Doesn't Fit All</a>
-                         <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2"></div>
+                         <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2" ></div>
                         <span class="button">30 May 2002<br>Scott Nelson</span>
-                         <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2"></div>
+                         <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2" ></div>
                         </td>
                      </tr>
                     	<tr>
-                  		<td valign="top" width="6" class="contentText">
-                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="4"></div>
+                  		<td valign="top" valign="top" width="6" class="contentText">
+                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="4" ></div>
                         </td>
-                        <td valign="top"><img src="docs/common/x.gif" alt="" border="0" height="1" width="5" hspace="0" vspace="0"></td>
+                        <td valign="top" valign="top"><img src="docs/common/x.gif" alt="" border="0" height="1" width="5" hspace="0" vspace="0" ></td>
                      </tr>
                      
                      <tr>
-                  		<td valign="top" width="6" bgcolor="white" class="contentText">
-                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="6" hspace="0" vspace="0"></div>
+                  		<td valign="top" valign="top" width="6" bgcolor="white" class="contentText">
+                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="6" hspace="0" vspace="0" ></div>
                         </td>
-                        <td valign="top" bgcolor="white" class="contentText">
-                         <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2"></div>
+                        <td valign="top" valign="top" bgcolor="white" class="contentText">
+                         <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2" ></div>
                          
                          <a class="linkText" href="javascript:void(null)" onclick="openResult('/DisplayDocument?id=359440')">Worst Practices in Customer Privacy Management</a>
-                       <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2"></div>
+                       <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2" ></div>
                        <span class="button">4 June 2002<br>Walter Janowski</span>
                        <div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="2"></div></td>
                      </tr>
                      
                      <tr>
-                  		<td valign="top" class="gray_e7" colspan="2"><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="9"></td>
+                  		<td valign="top" valign="top" class="gray_e7" colspan="2"><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="9"></td>
                      </tr>
                      <tr>
-                  		<td valign="top" width="1" class="contentText"><div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="0"></div>
+                  		<td valign="top" valign="top" width="1" class="contentText"><div><img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="0"></div>
                         </td>
-                        <td valign="top">
+                        <td valign="top" valign="top">
                       <img src="docs/common/x.gif" alt="" border="0" height="1" width="1" hspace="0" vspace="0"></td>
                         </tr>
-                        </tbody></table>
+                        </table>-->
                         <!--close Table IIB-1a -->
-                        </td>
+                        </span></td>
                         <td valign="top" width="10" class="gray_e7"><img src="docs/common/x.gif" alt="" border="0" height="1" width="10" hspace="0" vspace="0"></td> 
                         <td valign="top" width="2" bgcolor="#666666"><img src="docs/common/x.gif" alt="" border="0" height="1" width="2" hspace="0" vspace="0"></td>
          	 </tr>
@@ -540,7 +541,7 @@ Gartner does not sell, share or rent personal information about you collected on
 
 <a name="unsubscribe"></a>
 <span class="heading"><b>How to Unsubscribe</b></span><br>
-If you no longer want to receive e-mail communications from Gartner, you may unsubscribe by clicking the "Unsubscribe" button at the top or bottom of each e-mail Gartner sends, or by otherwise following the instructions to "opt out" appearing on that e-mail."
+If you no longer want to receive e-mail communications from Gartner, you may unsubscribe by clicking the "Unsubscribe" button at the top or bottom of each e-mail Gartner sends, or by otherwise following the instructions to "opt out" appearing on that e-mail.
 <br><br>
 
 <a name="registration"></a>
@@ -566,8 +567,25 @@ If you no longer want to receive e-mail communications from Gartner, you may uns
          <br><br>
          
          When you register for a Gartner event, we provide necessary information to hotels and to facilities hosting events. These parties are allowed to use that personal information only to provide services relevant to the event.
-<br><br>
-         
+		<br><br>
+        <a name="entitlements"></a>
+        <span class="heading"><b>Usage Entitlements</b></span><br>
+        <p>Username and Passwords</p>
+		<ul>
+  		<li>Passwords are for user's individual use</li>
+ 		 <li>Passwords may not be shared with others <br>
+  		</li>
+		</ul>
+		<p>Document Use</p>
+		<ul>
+  		<li>Users may not:
+    	<ul>
+      	<li>Store documents in shared folders. </li>
+      	<li>Act as a 'librarian' for redistribution of documents to non-users unless otherwise stated in their contract terms. </li>
+      	<li>Reproduce or distribute documents externally without Gartner's prior written permission from <a href="mailto:vendor.relations@gartner.com">vendor.relations@gartner.com.</a></li>
+   	    </ul>
+ 		</li>
+		</ul>
          <a name="tracking"></a>
          <span class="heading"><b>Usage Tracking</b></span><br>
          We monitor how you use our Web sites including search terms you enter, pages visited and documents viewed. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable, and is used solely for purposes of enabling us to provide you with a personalized Web site experience. Aggregated (not personally identifiable) forms of this data may also be used in order to help us understand areas for future research and to identify future features and functions to develop for the Web sites.
@@ -664,8 +682,9 @@ E-mail:<br> </span>
 <br>
 Gartner<br>
 Australasia Pty, Limited<br>
-40 Miller Street<br>
-North Sydney, New South Wales<br>
+9th Floor<br>
+141 Walker Street<br>
+North Sydney, NSW, 2060<br>
 Australia 2060<br>
 E-mail:</span>
 <div><a href="mailto:apac_privacy.officer@gartner.com" class="linkTextSmall">apac_privacy.officer@<br>gartner.com</a></div>
@@ -705,6 +724,8 @@ E-mail:</span>
  
  	  
 	<!-- begin main_virtual.inc-->
+
+<!-- begin main_virtual.inc-->
 <script type="text/javascript">
 if (location.pathname.substring(1, 3) != "it") { 
    document.write('</td></tr></table>');
@@ -745,286 +766,16 @@ if (location.pathname.substring(1, 3) != "it") {
 <!-- <script src="/include/webtrends.js" type="text/javascript"></script> -->
 
 
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
-<!-- V7.0 -->
-<!-- $DateTime: 2003/10/28 16:26:23 $ -->
-<!-- 2006/04/05: Modified by Anthony Colon -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array();
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-
-var extRegex = new RegExp("\\.(pdf|mp3|doc|xls|ppt|mpp)","i");
-var logServer="";
-if ((window.location.hostname == "vaqa.gartner.com") ||
-	(window.location.hostname == "wwwdva.gartner.com") ||
-	(window.location.hostname == "wwwdvc.gartner.com") ||
-	(window.location.hostname == "wwwdr.gartner.com")) {
-	logServer="wtssdc-qa.gartner.com";
-} else {
-	logServer="wtssdc.gartner.com";
-}
- 
-var gDomain=logServer;
-var gDcsId="dcs2kf7dq10000sddxi7bvt9i_6o7e";
- 
-function dcsVar(){
- var dCurrent=new Date();
- WT.tz=dCurrent.getTimezoneOffset()/60*-1;
- if (WT.tz==0){
-  WT.tz="0";
- }
- WT.bh=dCurrent.getHours();
- WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
- if (typeof(screen)=="object"){
-  WT.cd=screen.colorDepth;
-  WT.sr=screen.width+"x"+screen.height;
- }
- if (typeof(navigator.javaEnabled())=="boolean"){
-  WT.jo=navigator.javaEnabled()?"Yes":"No";
- }
- if (document.title){
-  WT.ti=document.title;
- }
- WT.js="Yes";
- if (typeof(gVersion)!="undefined"){
-  WT.jv=gVersion;
- }
- WT.sp="@@SPLITVALUE@@";
- DCS.dcsdat=dCurrent.getTime();
- DCS.dcssip=window.location.hostname;
- DCS.dcsuri=window.location.pathname;
- if (window.location.search){
-  DCS.dcsqry=window.location.search;
- }
- if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-  if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-   DCS.dcsref=window.document.referrer;
-  }
- }
-}
- 
-function A(N,V){
- return "&"+N+"="+dcsEscape(V);
-}
- 
-function dcsEscape(S){
- if (typeof(RE)!="undefined"){
-  var retStr = new String(S);
-  for (R in RE){
-   retStr = retStr.replace(RE[R],R);
-  }
-  return retStr;
- }
- else{
-  return escape(S);
- }
-}
- 
-function dcsCreateImage(dcsSrc){
- if (document.images){
-  gImages[gIndex]=new Image;
-  gImages[gIndex].src=dcsSrc;
-  gIndex++;
- }
- else{
-  document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
- }
-}
- 
-function dcsMeta(){
- var myDocumentElements;
- if (document.all){
-  myDocumentElements=document.all.tags("meta");
- }
- else if (document.documentElement){
-  myDocumentElements=document.getElementsByTagName("meta");
- }
- if (typeof(myDocumentElements)!="undefined"){
-  for (var i=1;i<=myDocumentElements.length;i++){
-   myMeta=myDocumentElements.item(i-1);
-   if (myMeta.name){
-    if (myMeta.name.indexOf('WT.')==0){
-     WT[myMeta.name.substring(3)]=myMeta.content;
-    }
-    else if (myMeta.name.indexOf('DCSext.')==0){
-     DCSext[myMeta.name.substring(7)]=myMeta.content;
-    }
-    else if (myMeta.name.indexOf('DCS.')==0){
-     DCS[myMeta.name.substring(4)]=myMeta.content;
-    }
-   }
-  }
- }
-}
- 
-function dcsTag(){
- var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
- for (N in DCS){
-  if (DCS[N]) {
-   P+=A(N,DCS[N]);
-  }
- }
- for (N in WT){
-  if (WT[N]) {
-   P+=A("WT."+N,WT[N]);
-  }
- }
- for (N in DCSext){
-  if (DCSext[N]) {
-   P+=A(N,DCSext[N]);
-  }
- }
- if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-  P=P.substring(0,2040)+"&WT.tu=1";
- }
- dcsCreateImage(P);
-}
-
-var gHref="";
-function dcsIsHttp(e){
-	return (e.href&&e.protocol&&(e.protocol.indexOf("http")!=-1))?true:false;
-}
-function dcsSaveHref(evt){
-	if (evt.preventDefault&&evt.target.href){
-		evt.preventDefault();
-		gHref=evt.target.href;
-	}
-}
-function dcsLoadHref(evt){
-	if (gHref.length>0){
-		window.location=gHref;
-		gHref="";
-	}
-}
-function dcsEvt(evt){
-	var e=evt.target||evt.srcElement;
-	if (e.tagName&&(e.tagName=="IMG")){
-		e=e.parentElement||e.parentNode;
-	}
-	return e;
-}
-
-function dcsBind(event,func){
-	if(navigator.appName == "HttpUnit") 
-		return true;
-
-	if (typeof (window[func]) == "function"){
-		for (i = 0; i < document.links.length; i++){
-			if (document.links[i].pathname.match(extRegex)){
-				if (document.body.addEventListener){
-					document.links[i].addEventListener(event,window[func],true);
-				} else if (document.body.attachEvent){
-					document.links[i].attachEvent("on"+event,window[func]);
-				}
-			}
-		}
-	}
-}
-
-function dcsET(){
-	dcsBind("click","dcsDownload");
-}
-	
-function dcsMultiTrack(){
-	for (var i=0;i<arguments.length;i++){
-		if (arguments[i].indexOf('WT.')==0){
-				WT[arguments[i].substring(3)]=arguments[i+1];
-				i++;
-		}
-		if (arguments[i].indexOf('DCS.')==0){
-				DCS[arguments[i].substring(4)]=arguments[i+1];
-				i++;
-		}
-		if (arguments[i].indexOf('DCSext.')==0){
-				DCSext[arguments[i].substring(7)]=arguments[i+1];
-				i++;
-		}
-	}
-	var dCurrent=new Date();
-	DCS.dcsdat=dCurrent.getTime();
-	dcsTag();
-}
-
-function dcsDownload(evt){
-	evt=evt||(window.event||"");
-	if (evt){
-		var e=dcsEvt(evt);
-		var path=(e.pathname.indexOf("/")!=0)?"/"+e.pathname:e.pathname;
-		dcsSaveHref(evt);
-		dcsMultiTrack("DCS.dcssip",e.hostname,"DCS.dcsuri",path,"WT.ti","Download:"+path,"WT.dl","1");
-		DCS.dcssip=DCS.dcsuri=WT.ti=WT.dl="";
-		window.setTimeout(dcsLoadHref,500,evt);
-	}
-}
-
-function dcsFunc(func){	
-	if(navigator.appName == "HttpUnit") 
-		return true;
-	
-	if (typeof (window[func])=="function"){
-		window[func]();
-	}
-}
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-}
-
-// webtrends java functions to populate the role variable, DCSext.WTrole in the SDC javascript.   
-  
- 
-  
-// home page role id - 
-
- 
-   
-   
-    DCSext.WTrole=""; 
-   
- 
-
-dcsVar();
-dcsMeta();
-dcsTag();
-dcsAdv();
-
-//-->
-</script>
+<script src="/js/webtrendsCookies.js" language="JavaScript"></script><script type="text/javascript" src="https://wtssdc.gartner.com/dcs2kf7dq10000sddxi7bvt9i_6o7e/wtid.js"></script>
+<script src="/include/webtrends.jsp" language="JavaScript"></script>
  
 <noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://wtssdc.gartner.com/dcs2kf7dq10000sddxi7bvt9i_6o7e/njs.gif?dcsuri=/nojavascript&WT.js=No">
+<IMG ALT= "" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://wtssdc.gartner.com/dcs2kf7dq10000sddxi7bvt9i_6o7e/njs.gif?dcsuri=/nojavascript&WT.js=No">
 </noscript>
-<!-- END OF SmartSource Data Collector  -TAG -->
+
+
+
+
 
 
   
