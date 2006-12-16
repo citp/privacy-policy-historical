@@ -1,38 +1,61 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205240id_/http%3A//www.fullcompass.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216214054id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
-# Full Compass Systems - Privacy Statement
+# Full Compass Privacy Statement
 
-**FULL COMPASS, LTD. PRIVACY STATEMENT**  
-We respect your right to privacy and want to adhere to your preferences about receiving unsolicited email and direct mail. Please be assured that we will honor your decisions about the use of your email and postal addresses.
+**800-476-9886** | 608-227-3000 | Fax: 608-831-1890   
+**Monday - Friday 9:00 - 5:30, Saturday 10:00 - 4:00 CST**
 
-**What personal information does Full Compass Systems, Ltd. gather from me?**
+**800-356-5844** | 608-831-7330 | Fax: 608-831-6330   
+**Monday -Friday 9:00 - 5:30 CST**   
+¡Expertos que hablan Español disponibles en x1178 Y x1164!
 
-** Information You Give Us: **  
-We receive and store any information you enter on our Web site or give us in any other way, including name, business name and title (as applicable), street address, e-mail address, phone number, and data associated with any transactions with you. We use the information that you provide for such purposes as responding to your requests, fulfilling your orders, improving our store and service, and communicating with you. **Automatic Information:**  
-Full Compass Systems, Ltd. and its affiliated web sites do not employ the use of cookies. Cookies are small identifiers that may be transferred to your computer's hard drive using your web browser. These cookies may be used to keep track of items, to provide you with customized content and to remember information you entered so you don't have to reenter it each time you visit a particular site. Many browsers are initially set up to accept cookies, but if you prefer, you can set up your browser to refuse to accept cookies. The "help" portion of your toolbar on your browser will tell you how to prevent your browser from accepting cookies, how to have your browser notify you when you receive new cookies, or how to disable cookies all together. 
+#### What Information Do We Collect?
 
-Our Web server automatically creates a log file that contains such general information as where the visitor originated from, what type of browser and operating system the visitor is using, and which Full Compass Systems, Ltd. web pages were visited. Full Compass Systems, Ltd. reviews these log files to help us identify ways in which we can improve our site. Please note that the identity of the visitor is not revealed or recorded in the log files, securing your privacy. 
+  * **Information That You Provide Us** We accept and store any information that you submit on Fullcompass.com or by any other means. For example, you may provide personal information when you place an order, enter a giveaway, request a publication, or contact us. This information may include name, address, phone numbers, email address, credit card and payment information, and other personal information.
+  * **Web Site Use Information** We collect and analyze technical information about how customers interact with Fullcompass.com including, but not limited to, IP addresses, browser types, operating systems, pages viewed, links, dates and times, and other information.
+  * **Cookies** Like many websites, we utilize a standard technology called "cookies" to differentiate you from other shoppers and to store and retrieve information about your interaction with the website, like the items in your shopping cart or wish list for example.
+  * **Email Information and Contact Forms** We may collect, store, and use any information that you submit via email or any of the forms on our website. We may also collect information about email communications such as confirming that an email was opened or which links were clicked.
 
-**How does Full Compass Systems, Ltd. use my personal information?**
 
-If you choose to register or receive products or materials from us, or to otherwise give us personal and/or business-specific information, we may store some or all of that personal information and use it for our marketing purposes. 
 
-Full Compass Systems, Ltd. believes that our relationship with you is best served through conversations with you. As such, we will give you a single source for all of your sales and customer service needs. In that spirit, customer orders are not processed through our web site. We encourage you to call your sales professional today to discuss our products and place your order. 
+#### How We Use Collected Information
 
-We use the information you provide about yourself when placing an order to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use collected information for the purpose of administering our business activities such as completing and tracking orders, customer service, communicating with customers, administering giveaways and other promotions, customizing the shopping experience, troubleshooting, improving the website design and functionality, and other business uses. From time to time, we may send you promotional messages by mail or email. You will always have the option to opt out of such communications ([see below](http://www.fullcompass.com/news/88.html#optout)).
 
-You can register with our website if you would like to receive our catalog as well as e-mail updates on our new products and services. 
+We do not intentionally share your information with third parties except as required by law or to facilitate business operations (such as shipping partners and payment processors).
 
-We use e-mail addresses to answer the e-mail we receive. We may also use these e-mail addresses to communicate our product promotions, distribute our product related newsletter and to respond to queries. You will be given the opportunity to opt-out of receiving our e-mail promotional communications. 
+#### How We Protect Your Information
 
-We will never sell your personally identifiable information to any other company. 
+In order to protect your information, we have put in place appropriate electronic, physical, and procedural safeguards. We utilize standard encryption/security technology to protect data transfer and our information systems are treated with the highest regard for security. In addition, we limit access to customer information to only authorized personnel.
 
-In the event of a criminal investigation or a suspected illegal activity, we may be required by law enforcement agencies to share certain personal information. 
+#### Your Order & Fraud Protection
 
-**Our Commitment To Children's Privacy**   
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. All products presented on our website are intended for adults. If you are under the age of 13, you may use fullcompass.com only with the approval and involvement of your parent or guardian. 
+In the event of a criminal investigation or a suspected illegal activity, we may be required by law enforcement agencies to share certain personal information.
 
-**Your Consent**   
-By using our website, you are consenting to the collection and use of your personal and associated business information as described above. Full Compass Systems, Ltd. reserves the right to change this privacy policy and if we do, any such changes will be e-mailed to our registered users. Additionally, such changes will be included on this page so current privacy information will always be available to you. 
+Because we are interested in protecting you from credit card fraud and keeping our prices low all orders are subject to review by our fraud detection department. As part of this review we may require that your order ships to the billing address of your credit card or an authorized alternate address. We may also need to call or email you to further clarify any questions we may have.
 
-**[ BACK TO TOP ]** Read our [Conditions of Use Statement](https://web.archive.org/web/20060615205240id_/http%3A//www.fullcompass.com/terms/conditions.aspx)
+The billing address of your card is the address that your monthly statement is mailed to. It is important that you provide us with this address correctly because we use this address in our verification process.
+
+If for some reason you cannot have your order shipped to your billing address you may contact the card company and have them add an alternate authorized address to your account. We will be able to verify this address when we process your order.
+
+Most banks will not allow an alternative address to be added to your debit card. If you need to have your order shipped to an alternative address we encourage you to not use a debit card.
+
+Please feel free to call us if you need any special accommodations regarding your order and we will do our best to help you.
+
+#### How You Can Review or Correct Your Information
+
+To review or correct your personal information, or to change your communication preferences, please call us at 800-356-5844. Your Sales Pro will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may unsubscribe [here](http://www.fullcompass.com/emaillist_subscribe.php).
+
+#### Links to Other Websites
+
+Full Compass is not responsible for the content or practices employed by other websites that are linked to from Fullcompass.com. When you use a link to go from Fullcompass.com to another website, our privacy policy is no longer in effect.
+
+#### Your Consent
+
+By using our website you consent to our collection and use of your personal information as described in this Policy. If we change our policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+This policy was last updated on July 21, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-356-5844 or email [webmaster@Fullcompass.com](mailto:webmaster@Fullcompass.com).
+
+### We Are Here To Help...
+
+Full Compass is committed to providing the best shopping experience in the industry. If you still have questions about Fullcompass.com policies or services, please call us toll-free 800-356-5844 and we'll be glad to help.
