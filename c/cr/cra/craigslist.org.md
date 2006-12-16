@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623085431id_/http%3A//www.craigslist.org/about/privacy.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216154105id_/http%3A//www.craigslist.org/about/privacy.policy.html) for the most accurate reproduction.*
 
 # privacy policy - craigslist
 
@@ -24,7 +24,7 @@
 > #### 2\. Data we collect
 > 
 >   * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc. 
->   * For paid job postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes. You may need to provide additional information about your organization if you wish to qualify for a [non-profit job posting account](https://web.archive.org/about/help/job-np.html). 
+>   * For paid job postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes. 
 >   * craigslist does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology. 
 >   * We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on craigslist's forums or classifieds that you expect to keep private. 
 >   * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the craigslist site, and to otherwise provide our service to you. 
@@ -36,7 +36,6 @@
 >   * All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere. 
 >   * Our web logs and other records are stored indefinitely. 
 >   * Registered job posters can access and update their account information through the account homepage. 
->   * Subscribers can manage their subscriptions through the [Subscription Management](https://web.archive.org/cgi-bin/emailSubscriber.cgi) page. 
 >   * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security. 
 > 
 
@@ -58,4 +57,4 @@
 > 
 > #### 7\. Feedback
 > 
-> We welcome your feedback on this document in our [feedback forum](https://web.archive.org/forums/?forumID=8). 
+> We welcome your feedback on this document in our [feedback forum](http://forums.craigslist.org/?forumID=8). 
