@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryportfolio.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615104157id_/http%3A//luxuryportfolio.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryportfolio.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217021902id_/http%3A//luxuryportfolio.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Luxury Portfolio - Privacy Policy
 
