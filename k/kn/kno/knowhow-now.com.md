@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2006-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060525072011id_/http%3A//knowhow-now.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D2f79b02c313af123b7a73662266fcec2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217135837id_/http%3A//www.knowhow-now.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
@@ -48,4 +48,6 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-[xml sitemap](http://www.knowhow-now.com/sitemap.xml) [text sitemap](http://www.knowhow-now.com/urllist.txt)
+[ ](http://www.mypagerank.net/) [ ](http://www.serenity-article-directory.com/Top10/) [](http://top-marketing-sites.afroarticles.com/) **[Vote For KnowHow-Now: Content When You Need It!  
+at Top Article Directory List](http://articles.top-site-list.com/vote19.html)  
+** [TopList](http://www.top-site-list.com/)
