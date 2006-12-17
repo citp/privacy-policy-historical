@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020730id_/http%3A//imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217154153id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing NewsWatch - PRIVACY POLICY
 
-## Tell Your Friend
+## Get News Updates!
 
-## Free Newsletter
+## Tell Your Friend
 
 ## CATEGORIES
 
