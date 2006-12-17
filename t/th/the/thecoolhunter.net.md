@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024547id_/http%3A//www.thecoolhunter.net/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217213529id_/http%3A//www.thecoolhunter.net/Privacy-Statement) for the most accurate reproduction.*
 
 # the cool hunter - Privacy Statement
 
   | 
 
+| Sunday 17th December 2006 |  |   
+---|---|---  
+  
 [home](http://www.thecoolhunter.net/index.php) Privacy 
 
-|  Privacy Statement   
+Privacy Statement   
 ---  
   
 **What personal information is collected?**  
@@ -30,6 +33,6 @@ The Cool Hunter website often contains links to third party websites. We cannot 
 Additional privacy information and how to contact The Cool Hunter**  
 If you feel that The Cool Hunter is not complying with this Privacy Policy, or if you have other privacy concerns, please email using the contact page.  
   
-© thecoolhunter.net. all rights reservedsite design: [cut+paste](http://www.cutpaste.com.au/)  hosting: [hostaccino](http://www.hostaccino.com.au/)
+© thecoolhunter.net. all rights reserved
 
  
