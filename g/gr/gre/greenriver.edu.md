@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2006-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060304022443id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217053203id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Green River Privacy Policy
 
-[Green River Home Page](https://web.archive.org/web/20060304022443id_/http%3A//www.greenriver.edu/default.htm)
+[Green River Home Page](https://web.archive.org/web/20061217053203id_/http%3A//www.greenriver.edu/default.htm)
 
 | 
 
