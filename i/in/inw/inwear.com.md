@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513014235id_/http%3A//www.inwear.com/Header/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217120723id_/http%3A//www.inwear.com/Header/Privacy) for the most accurate reproduction.*
 
 # Inwear
 
