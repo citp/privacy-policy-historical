@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glam.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015901id_/http%3A//glam.com/app/site/loadServicePage.act%3Fid%3D5357926%26pageId%3D5357941) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glam.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217094019id_/http%3A//glam.com/app/site/loadServicePage.act%3Fid%3D5357926%26pageId%3D5357941) for the most accurate reproduction.*
 
 # 
 
