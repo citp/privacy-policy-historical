@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211155id_/http%3A//keenzo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217213138id_/http%3A//keenzo.com/privacy.asp) for the most accurate reproduction.*
 
 # Keenzo - Legal Policies
 
@@ -10,8 +10,8 @@ Mailing Address
 86 Bartlett Drive  
 Manhasset, NY 11030
 
-(516)960-2776 **  Phone**  
-(516)706-1464 **  Fax**  
+(516) 960-2776 **  Phone**  
+(516) 706-1464 **  Fax**  
 **  
 Hours of Operation**  
 Sunday 11-6  
