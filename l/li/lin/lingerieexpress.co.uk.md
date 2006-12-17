@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingerieexpress.co.uk privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619141643id_/http%3A//lingerieexpress.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingerieexpress.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217132351id_/http%3A//lingerieexpress.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: Lingerie Express
 
