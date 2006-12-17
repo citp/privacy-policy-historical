@@ -1,0 +1,201 @@
+<!--The following is the downloaded HTML source of the vflyer.com privacy policy that was archived on 2006-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061217111434id_/http%3A//www.vflyer.com/main/Privacy.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	
+	<title>vFlyer - Privacy Policy</title>
+	<link rel="STYLESHEET" type="text/css" href="/main/style/style.css">
+	<link rel="STYLESHEET" type="text/css" href="/main/style/listing.css">
+	<link rel="STYLESHEET" type="text/css" href="/main/style/beta.css">
+	<link rel="STYLESHEET" type="text/css" href="/main/style/bug.css">
+	<link rel="STYLESHEET" type="text/css" href="/main/style/calendar-blue.css">
+	<link rel="SHORTCUT ICON" href="/main/images/v-2.ico">
+
+	<script src="js/scripts.js?i=1166354074370"></script>
+	<script src="js/ajax.js"></script>
+	<script language="JavaScript">
+		var checkflag = "false";
+		function check(field) {
+			if (checkflag == "false") {
+				for (i = 0; i < field.length; i++) {
+					field[i].checked = true;
+				}
+				checkflag = "true";
+				return true; 
+			}
+			else {
+				for (i = 0; i < field.length; i++) {
+					field[i].checked = false; 
+				}
+				checkflag = "false";
+				return false; 
+			}
+		}
+		function unCheck(){
+			var text = document.getElementById('emailText').value;
+			if(text.length < 1){
+				document.getElementById('emailCheckBox').checked = false;
+			}
+		}
+		
+		function actionConfirm(){
+			var action = document.getElementById("flyerAction").value;
+			if(action == "Delete"){
+				var flag = confirm("Do you really want to " + action + " Flyers(s)");
+				if(flag){
+					document.FLYERS.submit();
+				}
+			}else if(action == "Clone"){
+				document.FLYERS.submit();
+			}
+			
+		}
+
+		function fillInput(){
+			document.getElementById("input2").value =  document.getElementById("input1").value;
+		}
+		function openWindow(){
+			window.open('Feedback.jsp', 'FeedbackForm','toolbar=no,location=yes,directories=no,status=no,menubar=no, scrollbars=no,resizable=yes,copyhistory=yes,width=450,height=340,left=100,top=60');
+		}
+		
+	</script>
+</head>
+
+
+<body onload="updateIntStats('http://www.vflyer.com/stats/stats?linkType=IntRef&amp;fid=0&amp;aid=0&amp;pid=29&amp;refURL='); ">
+	<div id="container">
+	  <div id="header" style="position:relative;">
+		<!-- 
+<div style="position:absolute; top:5px; background-color:#FFFFCC; font-size:11px; font-family:tahoma; border:1px solid #999999; text-align:left; width:320px; margin 0px auto; padding:3px; left:30%">
+	 The system will be down for maintenance at 11:30 PM PDT and will be back up in about 30 min.
+</div>
+-->
+		<div id="bar">		
+
+  				<a href="http://www.vflyer.com/main/Register.jsp" class="crumbsCurrent">Sign Up</a> | <a href="http://www.vflyer.com/main/Login.jsp" class="crumbsCurrent">Log In</a>
+    				 
+		</div>
+		<div id="navigation">
+			  <ul>
+				  <li class="activeNav"><a href="http://www.vflyer.com/main/Home.jsp">HOME</a></li>
+				  
+				  <li><a href="http://www.vflyer.com/main/FAQ.jsp">FAQ</a></li>
+				  
+				  <li><a href="http://www.vflyer.com/main/Overview.jsp">ABOUT US</a></li>
+				  
+			  </ul>
+		</div>
+	  </div>
+
+<form name="LOGIN" action="action?action=Login" method="post">
+<input type="hidden" name="source" value="LOGIN">
+<input type="hidden" name="btnFlyerAction" value="LOGIN">
+<input type="hidden" name="btnAction" id="btnAction" value="">
+<div><div>
+
+<table width="768" style="margin-bottom:10px;" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td class="barTableL"><a class="barCrumbTitle" href="http://www.vflyer.com/main/index.jsp">Home</a> 
+    
+    
+    » <span class="barTitle">Privacy Policy
+    </span> <span class="contentSubTitle"></span></td>
+    <td nowrap="" class="barTableR"><div align="right">
+      
+ 
+	
+	     
+
+
+
+</div></td>
+  </tr>
+</tbody></table>
+</div></div>
+<!-- BEGIN WEBSIDESTORY CODE v3.0.0 (pro)-->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+
+
+
+
+  <div id="pageBody">
+ 
+<!-- ** start Main Form ** -->
+		<div style="color:#000000;">
+			<b>Privacy Statement</b><br><br>
+
+This privacy statement applies to the website of:<br><br>
+
+vFlyer Inc.<br>
+703 Market St, Suite 2100<br>
+San Francisco CA 94103<br>
+US<br>
+678-272-4040<br>
+support@vflyer.com<br>
+<br>
+We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.<br>
+<br>
+<div class="reg-blue reg-bold">Collecting information provides specific benefits to our website visitors:</div>
+<ul>
+<li>This information will be used to track unique visitors to the site's content as well as to target marketing offerings based on browsing.</li>
+</ul>
+<div class="reg-blue reg-bold">We collect information for the following purpose(s):</div>
+<ul>
+
+    <li>Completing or supporting an activity</li>
+   <li>Website and system administration</li>
+   <li>Research and development</li>
+    <li>Tailoring the website for its visitors</li>
+    <li>Research, analysis, reporting</li>
+    <li>Build records of individual visitors</li>
+    <li>Research, analysis, reporting</li>
+    <li>Build records of individual visitors</li>
+    <li>Contacting our visitors (except via telephone) for promotion of the site or products</li>
+    <li>Preserving social history as governed by existing law or policy</li>
+</ul>
+<div class="reg-blue reg-bold">Who has access to the information we collect?</div>
+<ul>
+
+    <li>Ourselves - Information is only shared with partners who share a similar privacy policy</li>
+    <li>Delivery services possibly not sharing our privacy policy</li>
+    <li>Other businesses who share our privacy policy</li>
+</ul>
+<div class="reg-blue reg-bold">Of the information we do collect, we allow our visitors the following access to the information:</div>
+<ul>
+
+    <li>Access is given to contact information (such as email address or postal address). </li>
+</ul>
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
+		</div>
+</div>
+
+<div id="footer" style="text-align:left; border-top:1px solid #DDDDDD; width:768px; margin-top:20px; padding-left:5px;">
+	<table cellpadding="0" cellspacing="0" width="768"><tbody><tr><td class="text reg-blue">
+	Copyright © 2006, vFlyer, Inc., All Rights Reserved.
+	<span style="color:#000000;">
+		<a href="Home.jsp">Home</a>
+		<span> | </span>
+		<a href="http://blog.vflyer.com" target="_blank">Blog</a>
+		<span> | </span>
+		<a href="Overview.jsp">About Us</a>
+		<span> | </span>
+		<a href="javascript:openWindow()">Feedback</a>
+		<span> | </span>
+		<a href="Privacy.jsp">Privacy</a>
+		<span> | </span>
+		<a href="Terms.jsp">Terms</a>
+		<span> | </span>
+		<a href="http://www.vflyer.com/help/why" target="_blank">Help</a>
+		
+	</span>
+	</td>
+	
+	</tr>
+	</tbody></table>
+</div>
+<div style="height:5px;">&nbsp;</div>
+
+</form>
+</div>
+
+</body></html>
