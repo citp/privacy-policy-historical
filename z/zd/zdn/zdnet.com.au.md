@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005334id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217233925id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # ZDNet Australia: Where Technology Means Business
 
@@ -12,7 +12,7 @@ ZDNet Australia may, from time to time, review and update this policy to take ac
 ZDNet Australia is a wholly owned subsidiary of CNET Networks Inc and is part of a world wide network of sites providing information about technology. As such ZDNet Australia also adheres to the policy guidelines set down by CNET Networks.
 
 **What is CNET Networks?**  
-CNET Networks, Inc. is a worldwide media company and creator of content environments for the interactive age. CNET Networks takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CNET Networks' leading brands—such as CNET, GameSpot, MP3.com, Webshots, and ZDNet—focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe. For more information about the company [click here](http://www.cnetnetworks.com/?tag=cnetfd.ft).
+CNET Networks, Inc. is a worldwide media company and creator of content environments for the interactive age. CNET Networks takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CNET Networks' leading brandsâ€”such as CNET, GameSpot, MP3.com, Webshots, and ZDNetâ€”focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe. For more information about the company [click here](http://www.cnetnetworks.com/?tag=cnetfd.ft).
 
 **1\. What personally identifiable information does ZDNet Australia collect?**  
 ZDNet Australia's primary goal in collecting personal information is to provide you with the best and most useful content and services. Because ZDNet Australia derives its revenue mainly from advertising, collecting information is essential to keeping our services free to users.
