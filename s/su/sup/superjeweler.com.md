@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618022140id_/http%3A//www.superjeweler.com/newuserarea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217184733id_/http%3A//www.superjeweler.com/newuserarea/PrivacyPolicy) for the most accurate reproduction.*
 
-# SuperJeweler.com - Privacy Policy
-
-|      | 
+# superjeweler.com - protecting your personal information with VeriSign
 
 This Privacy Policy discloses the privacy practices for Superjeweler.com website and various related services (together referred to as the site). As the provider of this, we are committed to protecting your privacy online. In a nutshell our privacy policy states that we will never rent, sell or lease your information to anyone else. So, please read the information below to learn the following regarding your use of this site.
 
@@ -87,6 +85,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [  
 ](mailto:customerservice@superjeweler.com)**[customerservice@superjeweler.com](mailto:customerservice@superjeweler.com)   
 ****
-
-|   
----|---|---
