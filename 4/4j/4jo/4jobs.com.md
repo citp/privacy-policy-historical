@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629054408id_/http%3A//www.4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218003905id_/http%3A//4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # 4Jobs.com - Part of the Beyond.com Career Network. Search Jobs, Find Companies, Post Your Resume
 
