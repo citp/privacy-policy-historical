@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073353id_/http%3A//hentairevolt.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217085003id_/http%3A//hentairevolt.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,6 +8,6 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We do not collect any customer information. Please see your selected payment processor's Privacy Policy concerning collected information. This policy can be seen once you've selected a payment option, before providing any personnal information.
 
-For more info [email us](mailto:support@hentairevolt.com)
+For more info [email us](https://web.archive.org/web/20061217085003id_/http%3A//hentairevolt.com/Contact_Us.html)
 
 **
