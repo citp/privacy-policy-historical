@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acteva.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224140id_/http%3A//www.acteva.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acteva.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217022610id_/http%3A//acteva.com/privacy.html) for the most accurate reproduction.*
 
 # Online event registration for easy event management
 
@@ -6,8 +6,10 @@
 
 Acteva reserves the right to change this policy at any time by notifying users through a notice posted on Acteva.com or by email, of the existence of a new privacy policy or any updates.
 
- **What We Do**  
-We at Acteva provide our proprietary online registration, ticketing and payment solution for organizer's events, memberships, donations, licenses and other offerings. **Information Collection & Use**  
+**What We Do**  
+We at Acteva provide our proprietary online registration, ticketing and payment solution for organizer's events, memberships, donations, licenses and other offerings.
+
+**Information Collection & Use**  
 **For Event Organizers**  
 Acteva collects personally identifying information only during the registration process. Information is collected in certain portions of Acteva in which clients specifically and knowingly provide such information. Acteva may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes.
 
@@ -24,7 +26,12 @@ Acteva does provide all end user information collected to our clients, the Organ
 
 Acteva makes no warranty or representation as to how the Organizer may use or continue to use the data collected through the Acteva website.
 
- **Use of Cookies**  
-Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. Cookies help make Acteva better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets Acteva remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information. **Removal from our Database**  
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [support@acteva.com](mailto:support@acteva.com) **Legal Disclaimer**  
+**Use of Cookies**  
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. Cookies help make Acteva better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets Acteva remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information.
+
+**Removal from our Database**  
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [support@acteva.com](mailto:support@acteva.com)
+
+  
+**Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our company. |  | 
