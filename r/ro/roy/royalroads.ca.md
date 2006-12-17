@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617204810id_/http%3A//www.royalroads.ca/about-rru/governance/foipop.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217172600id_/http%3A//www.royalroads.ca/about-rru/governance/foipop.htm) for the most accurate reproduction.*
 
 # Freedom of Information and Protection of Privacy
 
@@ -17,5 +17,5 @@ For more information please contact:
 Privacy Officer   
 Royal Roads University   
 2005 Sooke Road   
-Victoria, BC V9B 5Y2   
+Victoria, B.C. V9B 5Y2   
 Phone: 391-2600 ext. 4129 
