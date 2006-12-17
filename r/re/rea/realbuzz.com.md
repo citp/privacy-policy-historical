@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190230id_/http%3A//www.realbuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217205755id_/http%3A//www.realbuzz.com/privacy_policy) for the most accurate reproduction.*
 
 # Health and fitness | diet and nutrition - fitness advice, better health from realbuzz.com
 
@@ -31,7 +31,7 @@ We make use of both "open-tracking" and "click-tracking" in our HTML newsletters
 **How to unsubscribe from the mailing list**  
 All realbuzz.com communication, whether via email newsletter subscription, realbuzz Networks and realbuzz forums, provides information on how to unsubscribe quickly and easily. All emails sent out contain a link to unsubscribe or to modify your profile. You may update, subscribe or unsubscribe to any newsletter or email communication at any time.
 
-To opt out of receiving communications from realbuzz.com please click the �unsubscribe� link at the bottom of the email newsletter. This link enables you to either update your email subscription or to unsubscribe from all email subscriptions. Alternatively, send an email with the words " _unsubscribe_ " in the subject line to [newsletters@realbuzz.com](mailto:newsletters@realbuzz.com "newsletters@realbuzz.com").
+To opt out of receiving communications from realbuzz.com please click the 'unsubscribe' link at the bottom of the email newsletter. This link enables you to either update your email subscription or to unsubscribe from all email subscriptions. Alternatively, send an email with the words " _unsubscribe_ " in the subject line to [newsletters@realbuzz.com](mailto:newsletters@realbuzz.com "newsletters@realbuzz.com").
 
 We use this information to send you targeted email newsletters on your areas of interest specified on the sign up page. We also provide opportunities to gain free membership to realbuzz.com via realbuzz Networks or the realbuzz Forum and to take part in a number of our online competitions. 
 
