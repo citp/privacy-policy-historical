@@ -1,0 +1,111 @@
+> *The following text is extracted and transformed from the jetstar.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217101114id_/http%3A//www.jetstar.com/footer/privacy-policy-2.html) for the most accurate reproduction.*
+
+# Jetstar - Privacy Policy
+
+This Privacy Statement explains in general terms how Jetstar Airways protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us in the course of your dealings with us.
+
+This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a travel agent.
+
+This Privacy Statement does not apply to employee records, which are generally exempt from the legislation.
+
+## What information do we collect?
+
+The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. For example, we may collect details such as your name, address, flight and other travel details, credit/debit card number and expiry date, billing address, telephone numbers, loyalty program membership details and health issues relevant to your travel arrangements. As we are required by law to obtain your consent to the collection of "sensitive information" we will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Statement, unless you tell us otherwise.
+
+## How we collect information
+
+We may collect personal information about you when you deal with us over the telephone, send us correspondence (whether by letter, fax or e-mail), visit our web site or when you have contact with us in person. As well as collecting information directly from you, there may be occasions when we collect information about you from a third party.
+
+For example: 
+
+  * from people making travel or freight bookings on your behalf;
+  * from third party telesales companies that collect your personal information and disclose it to us so that we may issue you with your ticket and make and fulfil your travel arrangements or market our products and services to you;
+  * from other service providers who collect information on our behalf;
+  * from market research companies contracted by us to obtain information so that we may improve and market our products and services; and
+  * from other organisations that issue an Air Waybill on our behalf for the carriage of your freight.
+
+  
+
+
+##  How we use your personal information
+
+We generally collect your personal information for the following purposes: 
+
+  * to process your travel and freight arrangements and other transactions;
+  * to facilitate your participation in loyalty programs of other organisations; and
+  * to conduct marketing activities and market research.
+
+
+
+Some of the personal information we collect will be essential for us to be able to accurately identify who is using the service. Other types of personal information we collect will help us to profile who is using our services and what their interests are.
+
+## Disclosure of personal information to third parties
+
+We may disclose your personal information to third parties, for example, to our contractors to whom we contract out certain services, other carriers, travel and freight service providers, data processing companies (including operators of global distribution systems and payment clearing houses) for the purpose for which the information was collected or for related purposes, for example, to complete a transaction on your behalf or provide you with a service that you requested.
+
+We may also disclose your personal information to various law enforcement agencies and governments around the world for security, customs and immigration purposes.
+
+Your information will also be shared between related companies in the Qantas Group where necessary to fulfil our purposes.
+
+We engage third party contractors to perform services for us, which involves the contractor handling personal information we hold. For example to: 
+
+  * provide e-mail and mail handling services;
+  * provide electronic funds transfer services, credit card account processing and related services;
+  * operate call centres;
+  * operate some corporate travel sales and fulfilment functions;
+  * conduct market research;
+  * provide catering services;
+  * provide ground handling services, such as check in agents, freight handling and special assistance; and 
+  * assist with obtaining payment from creditors.
+
+
+
+In these situations, we will prohibit the third party contractor from using personal information about you except for the specific purpose for which we supply it.
+
+Jetstar's reservations system and the reservations systems of certain airlines that are associated with Jetstar are hosted in the same computer system and we have security measures in place prohibiting the airlines and their contractors and agents from accessing your personal information.
+
+Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
+
+## Access to and correction of information we hold about you
+
+We will, on request, provide you with access to the information we hold about you, including for the purpose of correcting or updating that information, unless there is an exception under the National Privacy Principles.
+
+We may recover from you our reasonable costs of supplying you with access to this information.
+
+Your request to provide access to this information will be dealt with in a reasonable time.
+
+If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles.
+
+## Keeping your personal information up-to-date
+
+We will take reasonable steps to ensure that your personal information is accurate, complete, and up-to-date whenever we collect or use it.
+
+If the personal information we hold about you is inaccurate, incomplete or out-of-date please contact us and we will take reasonable steps to either correct this information, or if necessary, discuss alternative action with you.
+
+## Transfer of information overseas
+
+We may transfer to people in foreign countries any of your personal information to fulfil the purposes set out in this Privacy Statement, for example: 
+
+  * to our offices overseas;
+  * to data processors (including operators of global travel distribution systems); and
+  * airlines, hotels and other travel and freight service providers.
+
+
+
+In most cases the transfer will be necessary for the performance of our contract with you or for the implementation of pre-contractual measures taken in response to a request by you or for the performance of a contract with a third party which is concluded in your interests. Please let us know if you have any objections to such transfers.
+
+## Resolving your concerns
+
+If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible.
+
+Jetstar Airways Pty Limited
+
+G.P.O. Box 4713   
+Melbourne, VIC   
+Australia, 3001 
+
+## Changes to this Privacy Statement
+
+We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on this web site, so please visit periodically to ensure that you have our most current privacy statement.
+
+In this privacy statement, "we", "us" and Jetstar Airways" means Jetstar Airways Pty Limited ABN 33 069 720 243"
