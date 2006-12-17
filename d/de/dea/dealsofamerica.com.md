@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426124153id_/http%3A//www.dealsofamerica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217040321id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
 
 # DealsOfAmerica.com - Best American Deals & Coupons- Updated 7 Days a Week
 
