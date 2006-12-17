@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giantmag.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618081247id_/http%3A//giantmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantmag.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217015106id_/http%3A//giantmag.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Giant Magazine — The Ultimate Entertainment Magazine
+# GIANT Magazine | Privacy
 
 At GIANTmag.com we respect your right to privacy.
 
@@ -18,4 +18,4 @@ If a user elects to use our Tell A Friend application for forwarding a GIANT Mag
 
 ## Links
 
-The GIANT Magazine website may contain links to other sites. GIANT Magazine assumes no responsibility for the content or the privacy policies and practices of such websites. GIANT Magazine encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours.
+The GIANT Magazine website may contain links to other sites. GIANT Magazine assumes no responsibility for the content or the privacy policies and practices of such websites. GIANT Magazine encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours. 
