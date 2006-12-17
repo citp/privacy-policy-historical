@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613061102id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217081921id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # The AnswerBank: Privacy Policy
 
@@ -23,6 +23,8 @@ We may from time to time send you details of site developments, business develop
 If we are requested by the police or any regulatory or government authority investigating suspected illegal activities, or in response to a UK court order, to access and disclose individually identifiable information concerning your activities whilst using our website, we shall do so (but we will, where reasonably practicable, notify you in advance of any court order). We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our website, and that use is deemed by us inconsistent with this policy.  
 
 
+  * Will my personal details be shared if I partake in the ‘Paid for your Views’ option?
+  * The AnswerBank takes privacy very seriously. Please note that the AnswerBank does not share any personal identifiable information to advertisers. We will not sell or give any personal contact information of any kind of AB users who sign up for the 'Paid for your Views' polls. 
   * What happens if The AnswerBank gets sold?
   * As we continue to develop our business, it is possible that we might sell The AnswerBank or enter into agreements with co-partners, or buy other businesses or assets. In such transactions, customer information generally is one of the transferred business assets. In the event of a sale, your personal information may therefore be sold, traded or licensed to third parties (who may be located outside the European Economic Area). 
 
