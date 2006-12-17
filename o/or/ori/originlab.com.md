@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623073238id_/http%3A//originlab.com/index.aspx%3Fs%3D1%26lm%3D55%26pid%3D168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217082400id_/http%3A//originlab.com/index.aspx%3Fs%3D1%26lm%3D55%26pid%3D168) for the most accurate reproduction.*
 
-# OriginLab web site - Privacy Policy
-
-|   |   | 
-
-#### **OriginLab Online Privacy Policy:**
+# OriginLab.com - Privacy Policy
 
 OriginLab is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement only applies to OriginLab.com; it does not apply to other online or offline OriginLab sites, products or services. Please read the complete OriginLab.com privacy statement. 
 
