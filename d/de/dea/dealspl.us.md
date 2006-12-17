@@ -1,0 +1,37 @@
+> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217182353id_/http%3A//dealspl.us/privacy.php) for the most accurate reproduction.*
+
+# DealsPlus - Hot Deals, Coupons, Compare Prices, Shopping, Reviews
+
+**Our Privacy Policy**
+
+We here at dealspl.us recognize that your privacy is very important. Please read the following to learn more about our privacy policy guidelines. Since this is a growing website and because Internet technologies are constantly evolving, these guidelines are subject to change and any changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice. dealspl.us is not responsible for the content or the privacy policies of websites to which it may link. 
+
+**Personal Information**   
+During registration for membership, we may collect personal information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for more information. We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. When you are online, we collect information regarding the pages within our network that you visit. We may also acquire lists from other sources, both from other companies and from other public documents. For each visitor to our website, our web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible). We do not collect information on consumers who browse our website. 
+
+**Use of Information**   
+We use your information to provide our services to you, to fulfill administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. You may receive e-mail from us to let you know about new products, services and upcoming events that may interest you. If you do not want to receive an e-mail from us in the future, please let us know by sending us e-mail at the address provided below. We may make our customer and user e-mail list and other information available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address and/or other information with other companies or organizations, please let us know by e-mailing us at the address provided below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the address provided below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by e-mailing us at the address provided below. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations We may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+
+**Cookies**   
+Cookies are data that a website transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
+
+**Children**   
+The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the Internet by regulating the online collection of personal information from children under the age of 13. Because of these safeguards, children under the age of 13 are not able to access or use all Products and Services on dealspl.us. For more information, see our Children’s Policy. 
+
+**Access or Edit your Information**   
+Upon request we provide our website visitors with access to a description of information that we maintain about them. Users can access this information by emailing us at the address provided below. 
+
+**Use of Aggregate Data**   
+We may collect certain non-personal information to optimize our goods and services including our website for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our websites. dealspl.us may use personally identifiable information in aggregate form to improve our goods and services including our websites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by dealspl.us or provided to others as a summary report for marketing, advertising or research purposes. 
+
+**Confidentiality and Security**   
+We limit access to personal information about you to employees for whom we reasonably believe it is necessary in order to provide products or services to you. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect against the loss, misuse or alteration of information that we have collected from you at our website. 
+
+**What else you should know about privacy on the Internet**
+
+  * Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer. 
+  * Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. 
+  * Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. 
+  * Please be careful and responsible whenever you are using the Internet. 
+
+
