@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617203946id_/http%3A//www.conversationsnetwork.org/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218001259id_/http%3A//www.conversationsnetwork.org/faq/privacy-policy) for the most accurate reproduction.*
 
 # The Conversations Network » Privacy Policy
 
