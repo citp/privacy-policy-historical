@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005611id_/http%3A//www.thomasville.com/About-Us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217051618id_/http%3A//www.thomasville.com/About-Us/Privacy.aspx) for the most accurate reproduction.*
 
 # Thomasville: Privacy Statement
 
