@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616080515id_/http%3A//www.jobsgopublic.com/index.cfm%3Ffuseaction%3DSite.Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217032849id_/http%3A//www.jobsgopublic.com/index.cfm%3Ffuseaction%3DSite.Privacy) for the most accurate reproduction.*
 
-# jobsgopublic - Privacy Statement
+# jobsgopublic - Public Jobs and Careers - Privacy Statement
 
 We respect your right to privacy. Our relationship with you is valuable and we understand the importance you place on the privacy and security of information that personally identifies you. In that respect, whether you are a first time visitor to our website ("Website") or a regular user, we take your privacy seriously. Please read the following to learn more about our privacy policy and information handling practices.
 
