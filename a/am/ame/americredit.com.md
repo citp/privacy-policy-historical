@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202746id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217234537id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
 
 # AmeriCredit: Privacy
 
@@ -7,11 +7,11 @@
 ### AN IMPORTANT MESSAGE CONCERNING YOUR PRIVACY
 
   
-At AmeriCredit, we value our customers' trust and confidence. This brochure outlines the safeguards we employ to protect your personal information, and it explains how we collect and use that information. It also describes the instances when we may share information with other parties and affiliates and when and how you can "opt-out" of sharing certain information. We recognize the importance of trust, and we greatly appreciate your business. Please read the following privacy policy carefully.
+At AmeriCredit, we value our customers' trust and confidence. This brochure outlines the safeguards we employ to protect your personal information, and it explains how we collect and use that information. It also describes the instances when we may share information with other parties and affiliates and when and how you can "opt-out" of sharing certain information. We recognize the importance of trust, and we greatly appreciate your business. Please read the following privacy policy carefully. 
 
 ### OUR PRIVACY POLICY
 
-This disclosure is our privacy policy. Your understanding of our information sharing practices is important to us. In this brochure, we will tell you (among other things):
+This disclosure is our privacy policy. Your understanding of our information sharing practices is important to us. In this brochure, we will tell you (among other things): 
 
   * Information we collect about you;
   * With whom we might share any of that information, and why;
@@ -20,10 +20,11 @@ This disclosure is our privacy policy. Your understanding of our information sha
 
 We do not share information about you except as disclosed in this policy or as allowed by law without your specific consent or notice. 
 
-In this brochure, "we", "our" and "us" mean **AmeriCredit Financial Services, Inc., and AmeriCredit Corp.** We are a company specializing in automobile finance with offices throughout the United States.
+In this brochure, "we", "our" and "us" mean **all institutions in the AmeriCredit family of companies, including BayView Acceptance Corporation.** We are a company specializing in automobile finance with offices throughout the United States. 
 
 This policy applies to our consumer customers who have continuing relationships with us. You have a continuing relationship with us if, for example, you have a:
 
+  * Lease account; 
   * Loan account; or
   * Retail installment contract we hold and service.
 
@@ -141,9 +142,11 @@ Although currently we do not share any information with Affiliates, we reserve t
 We may disclose information about you in the future to the following types of affiliates:
 
   * Financial service providers, such as: 
-    * Industrial loan banks;
-    * Mortgage loan companies; and
-    * Credit card companies.
+    * Finance companies;
+    * Banks;
+    * Credit card companies;
+    * Leasing companies;
+    * Mortgage loan companies;
 
 
 
@@ -194,5 +197,5 @@ If you use our toll-free telephone number, it will help if you have the followin
   * City, State, ZIP Code; and
   * E-mail Address.
 
-Privacy Policy effective June 2005.   
-[](https://digitalid.verisign.com/as2/2c53e061e8d0d4a81f9a571a58e72693)   [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
+Privacy Policy effective June 2006.   
+   [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
