@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316150615id_/http%3A//vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217125114id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
-# VitaDigest - The Vitamins Supplement and Sports Nutrition SuperStore Privacy Policy
+# VitaDigest - The Vitamins Supplement and Sports Nutrition SuperStore - 1-877-848-2168 Privacy Policy
 
 | | |   
 ---|---|---  
-**WELCOME TO VITADIGEST.COM** ****PRIVACY POLICY**** [](http://www.truste.org/ivalidate.php?url=www.vitadigest.com&sealid=101)
+**WELCOME TO VITADIGEST.COM** [](http://www.truste.org/ivalidate.php?url=www.vitadigest.com&sealid=101)
+
+****PRIVACY POLICY****
 
 At Vitadigest.com, your privacy is our top priority. Please read our privacy policy details. This privacy statement discloses the privacy and security practices for Vitadigest.com website.
 
@@ -22,7 +24,7 @@ Vitadigest.com is a licensee of TRUSTe. TRUSTe is an independent, non-profit org
 **5.** What are your choices regarding collection, use and distribution of the information?   
 **6.** What security precautions are in place to protect against the loss, misuse, or alteration of your information?    
 **7.** A special note about children’s privacy.   
-**8.** Vitadigest.com and third-party use of “cookies?and “action tags.?#60;/a>   
+**8.** Vitadigest.com and third-party use of “cookies and action tags".   
 **9.** What types of Credit Card Security vitadigest.com have?   
 **10.** Vitadigest.com commitment to you.   
 **11.** Contacting vitadigest.com about privacy questions or concerns.
@@ -121,7 +123,7 @@ Live help option is a tools that provide our customer an instant customer servic
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-If, however, we are going to use users?personally identifiable information in a manner different from that stated at the time of collection we will notify users **via email** and/or **by posting a notice on our Web site for 30 days**
+If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users **via email** and/or **by posting a notice on our Web site for 30 days**
 
 * * *
 
@@ -176,7 +178,7 @@ VITADIGEST.COM, Inc.
 Walnut CA 91789
 You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)
 
-Last Updated: 09/24/2004
+Last Updated: 10/24/2006
 
 Back to Top
 
