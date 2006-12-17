@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616115718id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217232328id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - LowRisk Market Analytics
 
-[Home](https://web.archive.org/web/20060616115718id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20060616115718id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20060616115718id_/http%3A//www.profollow.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20061217232328id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20061217232328id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20061217232328id_/http%3A//www.profollow.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of LowRisk Market Analytics/AWeber Systems, Inc.**
 
