@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rawmanga.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616192635id_/http%3A//www.rawmanga.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawmanga.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217184337id_/http%3A//www.rawmanga.com/privacy.php) for the most accurate reproduction.*
 
-# RawManga - Manga is Best Uncooked
+# RawManga - Privacy Policy
 
 **Privacy Policy**  
 The following webpage outlines RawManga.com's collection and use of personal information from it's users. RawManga.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to RawManga.com with anyone. This includes your e-mail address, name, and location. Upon logging on to RawManga.com such things as your IP address and hostname are logged for statistical and security reasons. 
