@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621220549id_/http%3A//realself.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217205951id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - RealSelf
+# RealSelf Privacy Policy - RealSelf
 
 RealSelf Privacy Notice
 
- [www.RealSelf.com](http://www.realself.com/) or other web sites owned or operated by RealSelf (the "RealSelf Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the RealSelf Sites. RealSelf provides this Privacy Notice to help you make an informed decision about whether to use or continue using the RealSelf Sites. This Privacy Notice is incorporated into and is subject to the RealSelf Terms of Service. Your use of the RealSelf Sites and any personal information you provide on the RealSelf Sites remains subject to the terms of this Privacy Notice and our Terms of Service Please note that any content posted at the direction of Users onto the RealSelf Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
+[www.RealSelf.com](http://www.realself.com/) or other web sites owned or operated by RealSelf (the "RealSelf Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the RealSelf Sites. RealSelf provides this Privacy Notice to help you make an informed decision about whether to use or continue using the RealSelf Sites. This Privacy Notice is incorporated into and is subject to the RealSelf Terms of Service. Your use of the RealSelf Sites and any personal information you provide on the RealSelf Sites remains subject to the terms of this Privacy Notice and our Terms of Service Please note that any content posted at the direction of Users onto the RealSelf Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
 
 The Information RealSelf Collects
 
@@ -18,7 +18,7 @@ The Information RealSelf Collects
 
 The Way RealSelf Uses Information
 
- If you submit personally identifiable information to us through the RealSelf Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the RealSelf Sites. Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and comment areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you submit comments, articles or send messages through the RealSelf Sites and other Users can contact you through messages and comments. Any content that you submit to the RealSelf Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+If you submit personally identifiable information to us through the RealSelf Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the RealSelf Sites. Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and comment areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you submit comments, articles or send messages through the RealSelf Sites and other Users can contact you through messages and comments. Any content that you submit to the RealSelf Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
 
 We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major RealSelf Site changes or for customer service purposes). 
 
@@ -50,7 +50,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Currently, RealSelf has relationships with the following third-party ad servers or ad networks: 
 
-Google, Inc.  <http://www.google.com/privacypolicy.html>
+Google, Inc. <http://www.google.com/privacypolicy.html>
 
 Our Commitment To Data Security
 
@@ -78,6 +78,6 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 **Date Last Modified:** This Privacy Notice was last modified April 7, 2006. 
 
-**Contact Information** : Please contact RealSelf with any questions or comments about this Privacy Notice using our [feedback](https://web.archive.org/feedback) form. 
+**Contact Information** : Please contact RealSelf with any questions or comments about this Privacy Notice using our [feedback](https://web.archive.org/feedback) form. 
 
 Copyright © 2006 RealSelf.com™ 
