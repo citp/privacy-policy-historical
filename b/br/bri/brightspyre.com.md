@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002001id_/http%3A//brightspyre.com/policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217015015id_/http%3A//www.brightspyre.com/policy/index.php) for the most accurate reproduction.*
 
 # Contact Us BrightSpyre. Search jobs in Pakistan
 
