@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuningnews.net privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208223534id_/http%3A//www.tuningnews.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuningnews.net privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217170122id_/http%3A//www.tuningnews.net/privacy) for the most accurate reproduction.*
 
 # privacy policy - tuningnews.net
 
