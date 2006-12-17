@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001850id_/http%3A//www.1aauto.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217202056id_/http%3A//1aauto.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
-
-  
-|  |   
-| 
 
 Due to various transgressions and violations of unethical businesses, privacy has been a major concern of late. 1A Automotive, Inc. (1A Auto) is committed to taking the steps necessary for preserving your confidentiality. The statements below outline the policies that 1A Auto has adopted to protect your information as well as your rights as a consumer. 
 
@@ -19,7 +15,3 @@ Due to various transgressions and violations of unethical businesses, privacy ha
 
 **Notification of Changes**  
 If we decide to change our privacy statement, we will post these changes on our web site so that our visitors are always aware of what information we collect and how we use it. If our policy of complete privacy in regards to email address ever changes, visitors will be notified of this change and be given a choice before the policy is implemented. 
-
-|   
-|  |   
-
