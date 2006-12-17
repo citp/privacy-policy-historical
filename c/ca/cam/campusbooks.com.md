@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615174134id_/http%3A//campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217035657id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Used Textbooks, College & Cheap Textbooks, Textbook Buyback
 
