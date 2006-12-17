@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103150id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217235539id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # GMI Privacy Policy
 
@@ -58,4 +58,4 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ### Additional Information
 
-Questions regarding this statement should be directed to info@gmi-mr.com.
+Questions regarding this statement should be directed to our [contact page](https://web.archive.org/contact/).
