@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218004845id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
 
 # Tutor2u - Terms and Conditions
 
@@ -56,18 +56,3 @@ LS23 6DX
 
   
 
-
-* * *  
-  
----  
-   
-   
-   
-**[Home](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/terms.asp) | [Contact Us](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/feedback.asp) | [Meet the Team ](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/team.asp) | [What Our Customers Say](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/testimonials.asp) | [Media Room ](https://web.archive.org/web/20060414092219id_/http%3A//tutor2u.net/mediaroom/default.html)  
-tutor2u is one of the world's leading and most trusted publishers of e-learning resources. Our materials are used by over 2,000 schools and colleges in the UK and in educational institutions in over 75 other countries. tutor2u was named Online Learning Resource of the Year at the prestigious BETT Show - the World's leading educational show. In 2005 tutor2u was a national finalist in the UK Government's E-Commerce Awards.  
-**Contact tutor2u:**  
-Sales Office (+44) 01937 520436   
-Fax Sales Office (+44) 01937 529236  
-By Post to: Tutor2u Limited, Boston House, 214 High Street, BOSTON SPA, UNITED KINGDOM, LS23 6AB    
-|   
-Copyright © 2006 Tutor2u Limited. All Rights Reserved; tutor2u is a registered trademark (Number: 2332331). 
