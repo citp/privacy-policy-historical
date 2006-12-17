@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621000521id_/http%3A//www.barratts.co.uk/f/help/Help_and_FAQ.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217210433id_/http%3A//barratts.co.uk/f/help/Help_and_FAQ.html%23Privacy) for the most accurate reproduction.*
 
 # Barratts - Help & FAQ
 
@@ -12,7 +12,7 @@ We aim to offer our customers fantastic footwear ranges which represent great va
 
 #### Returns Policy
 
-If you are dissatisfied with the goods for any reason and return the same unworn to us by post within 7 days of delivery we will exchange or refund the cost of the goods.
+If you are dissatisfied with the goods for any reason and return the same unworn to us by post within 28 days of delivery we will refund the cost of the goods.
 
 The above is in addition to your statutory rights, which remain unaffected, but we shall not be liable to you or any third party for any indirect or consequential loss or damage.
 
@@ -20,11 +20,22 @@ The above is in addition to your statutory rights, which remain unaffected, but 
 
 A flat rate delivery charge of (inclusive of postage and packaging) of £4.95 per order is made for delivery to any proper address within the United Kingdom.
 
-All orders will be dispatched within 7 working days of the receipt of order.
+All orders will be dispatched within 5 working days of the receipt of order.
 
 Currently we will only accept orders from mainland UK addresses and will not dispatch to overseas addresses, including the Republic of Ireland.
 
 We will also only dispatch orders where your card billing address matches your current place of residence. If this is the case then we are happy to send the items to an address of your choice.
+
+ **Christmas Delivery Dates**
+
+We will guarantee all orders placed up to and on Monday 18th December will be delivered to you before Friday 22nd December.
+
+All orders placed on or after Tuesday 19th December, will be delivered to you within 5 working days.
+
+Please note that the following days are not classed as working days:
+
+23rd – 26th December  
+30th December – 1st January
 
 #### Barratts Privacy Policy
 
