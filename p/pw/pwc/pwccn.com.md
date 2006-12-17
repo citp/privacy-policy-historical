@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413235352id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217165911id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
 
-# PwC CN: Privacy Statement
+# PwC CN: PricewaterhouseCoopers' Privacy Commitment
 
-**_Last Edited  20 April 2005_**  
-    
 Introduction
 
 The privacy of information you provide at this site is important to us. The following Privacy Statement governs the collection and use of personal information submitted to PricewaterhouseCoopers China (pwccn.com) or through the China pages of pwc.com.  PricewaterhouseCoopers' information handling practices are in accordance with generally accepted privacy and data protection good practices.  
@@ -12,7 +10,7 @@ The privacy of information you provide at this site is important to us. The foll
 
  By submitting identifying data, a visitor to our Web site is agreeing to PricewaterhouseCoopers' use of such data as described in this privacy statement.  Personal data collected by PricewaterhouseCoopers may be transferred internationally to other PricewaterhouseCoopers' entities world-wide, where it is necessary to meet the purpose for which the visitor has submitted the information.  By submitting data on PricewaterhouseCoopers' Web site, the visitor is providing explicit consent to transborder transmission of data collected on the Web site for the fulfilment of their voluntary requests. 
 
- We have created this Privacy Statement to govern our commitment to protecting the privacy of your information. However, should you have any further questions, please feel free to direct these to our Web site manager at [hk.webmaster@hk.pwc.com](mailto:hk.webmaster@hk.pwc.com).
+ We have created this Privacy Statement to govern our commitment to protecting the privacy of your information. However, should you have any further questions, please feel free to direct these to our Web Services Team.
 
   
 Data Collection Generally, PricewaterhouseCoopers only collects identifiable information such as contact details and when required credit card details that are specifically and voluntarily provided by visitors to our Web site.  Typically, identifying information is collected to: 
@@ -66,21 +64,19 @@ Data Retention 
 
 Information will be kept until it is outdated, no longer required or the user requests us to delete that information, after which time it will be destroyed or permanently de-identified.  
 
-To request us to delete your personal information submitted through our Web site, please send your request via our [Email Webmaster](https://web.archive.org/home/eng/contactwebmaster.html) form or to [hk.webmaster@hk.pwc.com](mailto:hk.webmaster@hk.pwc.com).  
+To request us to delete your personal information submitted through our Web site, please send your request via our [Email Webmaster](https://web.archive.org/home/eng/contactwebmaster.html) form.  
 
   
 Access Your Information 
 
-To access your personal data that you have submitted on a request or registration through our Web site, please send your request to [hk.webmaster@hk.pwc.com](mailto:hk.webmaster@hk.pwc.com).  
+To access your personal data that you have submitted on a request or registration through our Web site, please send your request to our Web Services Team.
 
  When personally identifiable information is retained, PricewaterhouseCoopers assumes responsibility for keeping a record of the information once a visitor has submitted and verified the data. PricewaterhouseCoopers does not assume responsibility for verifying the ongoing accuracy of the content of personal information. When practically possible, if PricewaterhouseCoopers is informed that any personal data collected through a Web site is no longer accurate, PricewaterhouseCoopers will make appropriate corrections based on the updated information provided by the authenticated visitor. 
 
   
 Correction and Concerns  
 
-To update your contact details (e.g. email, company, title/role, address, phone number), please send your request via our [Email Webmaster](https://web.archive.org/home/eng/contactwebmaster.html) form or to the following email address.  If you believe that information we hold about you is incorrect, or if you have concerns about how we are handling your personal information, please email us and we will try to resolve those concerns.
-
-Email: [hk.webmaster@hk.pwc.com](mailto:hk.webmaster@hk.pwc.com)  
+To update your contact details (e.g. email, company, title/role, address, phone number), please send your request via our [Email Webmaster](https://web.archive.org/home/eng/contactwebmaster.html) form.  If you believe that information we hold about you is incorrect, or if you have concerns about how we are handling your personal information, please email us and we will try to resolve those concerns. 
 
   
 Security 
@@ -107,4 +103,4 @@ In order to keep visitors informed, PricewaterhouseCoopers will ensure that we n
   
 Contact our Privacy Office 
 
-We welcome your enquiries or comments about our Privacy Statement and any queries or concerns that you may have about this Web site at [hk.webmaster@hk.pwc.com](mailto:hk.webmaster@hk.pwc.com).
+We welcome your enquiries or comments about our Privacy Statement and any queries or concerns that you may have about this Web site.
