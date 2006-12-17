@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003331id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217112731id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
@@ -52,16 +52,18 @@ This company may be contacted for domain login/passwords,
 DNS/Nameserver changes, and general domain support questions.
 
 **Registrar of Record:** TUCOWS, INC.  
-Record last updated on 02-May-2006.  
+Record last updated on 08-Oct-2006.  
 Record expires on 01-Jun-2007.  
 Record created on 02-Jun-1998.
 
 **Domain servers in listed order:**  
-NS1.DOMAINDIRECT.COM _**216.40.33.22**_  
-NS2.DOMAINDIRECT.COM _**216.40.33.22**_  
-NS3.DOMAINDIRECT.COM _**204.50.180.58**_
+NS1.DOMAINDIRECT.COM _**216.40.47.70**_  
+NS2.DOMAINDIRECT.COM _**64.97.159.12**_  
+NS3.DOMAINDIRECT.COM _**65.22.7.12**_
 
-**Domain status:** REGISTRAR-LOCK
+**Domain status:** clientDeleteProhibited  
+clientTransferProhibited  
+clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows  
 for information purposes only, and may be used to assist you in obtaining  
