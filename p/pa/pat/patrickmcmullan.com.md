@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patrickmcmullan.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613091343id_/http%3A//www.patrickmcmullan.com/WebSite/Footer/footer_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patrickmcmullan.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217151328id_/http%3A//patrickmcmullan.com/WebSite/Footer/footer_privacypolicy.aspx) for the most accurate reproduction.*
 
 # footer_privacypolicy
 
