@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rateitall.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615041145id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rateitall.com privacy policy that was archived on 2006-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061217212428id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="rating" content="General"><meta name="robots" content="all"><meta name="distribution" content="global"><meta id="_ctl0_MetaDescription" name="description" content="(!METADESCRIPTION!)"><meta id="_ctl0_MetaKeywords" name="keywords" content="(!METAKEYWORDS!)"><title>
 	RateItAll Privacy Policy
@@ -9,10 +9,159 @@
 _uacct = "UA-209172-1";
 urchinTracker();
 </script>
-<link type="text/css" rel="stylesheet" href="Styles/Version2.css" media="screen"><link rel="Shortcut Icon" href="images/favicon.ico" type="image/x-icon"></head>
-<body>
+<link type="text/css" rel="stylesheet" href="Styles/Version2.css" media="screen"><link rel="Shortcut Icon" href="images/favicon.ico" type="image/x-icon">
+
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menuShortcuts
+var menuShortcuts=new Array()
+menuShortcuts[0]='<a href="recentcomments.aspx">All Recent Reviews</a>'
+menuShortcuts[1]='<a href="recent.aspx">New Things to Rate</a>'
+menuShortcuts[2]='<a href="browseTagsList.aspx">Browse Weblist Tags</a>'
+menuShortcuts[3]='<a href="browseTagsUser.aspx">Browse People Tags</a>'
+menuShortcuts[4]='<a href="mosthelpfulreviewer.aspx">Most Helpful Reviewers</a>'
+menuShortcuts[5]='<a href="memberstats.aspx">RateItAll Contributors</a>'
+menuShortcuts[6]='<a href="wt-rateitall_economy.aspx">How to Earn <strong>$</strong> on RateItAll</a>'
+menuShortcuts[7]='<a href="http://rateitall.blogspot.com">RateItAll Blog</a>'
+
+
+var menuwidth='185px' //default menu width
+var menubgcolor='lightyellow'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:185px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
 <form name="aspnetForm" method="post" action="driver.aspx?topic=privacy_policy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTE5MDEwNTUxD2QWAmYPZBYCAgMPZBYUAgEPDxYCHgtOYXZpZ2F0ZVVybAVALi4vc2lnbmluLmFzcHg/UmV0dXJuVVJMPSUyZmRyaXZlci5hc3B4JTNmdG9waWMlM2Rwcml2YWN5X3BvbGljeWRkAgMPDxYCHwAFQC4uL3NpZ251cC5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8BaGRkAgsPZBYCAgEPD2QWAh4Kb25LZXlQcmVzcwWCAWphdmFzY3JpcHQ6aWYgKGV2ZW50LmtleUNvZGUgPT0gMTMpe3ZhciBzdGV4dCA9IGVzY2FwZSh0aGlzLnZhbHVlKTsgd2luZG93LmxvY2F0aW9uLmhyZWY9J3NlYXJjaDIuYXNweD9XTD0wJnNlYXJjaHN0cmluZz0nK3N0ZXh0O31kAg8PZBYCAgEPFgIeBFRleHQFDlByaXZhY3kgUG9saWN5ZAIVDw8WAh8ABRQuLi9zZWFyY2gyLmFzcHg/V0w9MGRkAhcPDxYCHwAFQC4uL3NpZ251cC5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIZDw8WAh8ABUAuLi9zaWduaW4uYXNweD9SZXR1cm5VUkw9JTJmZHJpdmVyLmFzcHglM2Z0b3BpYyUzZHByaXZhY3lfcG9saWN5ZGQCGw8PFgIfAWhkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUSX2N0bDA6SW1hZ2VCdXR0b24yOUIqmEvF9Eg/PBnlRp3MmxTJ+IM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTE5MDEwNTUxD2QWAmYPZBYCAgMPZBYSAgEPDxYCHgtOYXZpZ2F0ZVVybAVALi4vc2lnbmluLmFzcHg/UmV0dXJuVVJMPSUyZmRyaXZlci5hc3B4JTNmdG9waWMlM2Rwcml2YWN5X3BvbGljeWRkAgMPDxYCHwAFQC4uL3NpZ251cC5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8BaGRkAgsPZBYCAgEPD2QWAh4Kb25LZXlQcmVzcwWDAWphdmFzY3JpcHQ6aWYgKGV2ZW50LmtleUNvZGUgPT0gMTMpe3ZhciBzdGV4dCA9IGVzY2FwZSh0aGlzLnZhbHVlKTsgd2luZG93LmxvY2F0aW9uLmhyZWY9J3NlYXJjaDIuYXNweD9XTD0xMCZzZWFyY2hzdHJpbmc9JytzdGV4dDt9ZAIPD2QWAgIBDxYCHgRUZXh0BQ5Qcml2YWN5IFBvbGljeWQCFw8PFgIfAAVALi4vc2lnbnVwLmFzcHg/UmV0dXJuVVJMPSUyZmRyaXZlci5hc3B4JTNmdG9waWMlM2Rwcml2YWN5X3BvbGljeWRkAhkPDxYCHwAFQC4uL3NpZ25pbi5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIbDw8WAh8BaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRJfY3RsMDpJbWFnZUJ1dHRvbjKtLj/rFEhDqeUDy1PrFRQYUybE1g==">
 
 
 <div id="utils">
@@ -42,7 +191,7 @@ urchinTracker();
 <div id="search"> 
 <div id="_ctl0_TopSearch" defaulbutton="ImageButton2">
 	
-<fieldset><label class="mainsearch" for="searchterm">Search:</label><input name="_ctl0:searchterm" type="text" id="_ctl0_searchterm" class="text" onkeypress="javascript:if (event.keyCode == 13){var stext = escape(this.value); window.location.href='search2.aspx?WL=0&amp;searchstring='+stext;}">
+<fieldset><label class="mainsearch" for="searchterm">Search:</label><input name="_ctl0:searchterm" type="text" id="_ctl0_searchterm" class="text" onkeypress="javascript:if (event.keyCode == 13){var stext = escape(this.value); window.location.href='search2.aspx?WL=10&amp;searchstring='+stext;}">
 <input type="image" name="_ctl0:ImageButton2" id="_ctl0_ImageButton2" src="images/mainsearch.gif" border="0"></fieldset>
 
 </div>
@@ -53,6 +202,7 @@ urchinTracker();
 					      <li><a href="topics.aspx"><span>Topics</span></a></li>
 					      <li><a href="weblists.aspx"><span>WebLists</span></a></li>
 					      <li><a href="local.aspx"><span>Local</span></a></li>
+                                              <li><a href="default.htm" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menuShortcuts, '150px')" onmouseout="delayhidemenu()"><span>Shortcuts</span></a></li>
 					      <li><a href="about.aspx"><span>About Us</span></a></li>
 				      </ul>
 			      </div>
@@ -136,7 +286,7 @@ urchinTracker();
 		
 		        <div id="footerbox3">
 			      <ul>
-				      <li><a id="_ctl0_SearchLink" class="joinright" href="search2.aspx?WL=0">Search</a></li>
+				      <li><a id="_ctl0_SearchLink" class="joinright" href="search2.aspx">Search</a></li>
 				      <li><a href="wt-recommendation_engine.aspx">Recommendation Engine</a></li>
 				      <li><a href="wt-sponsored_links.aspx">Advertising</a></li>
 				      <li><a href="wt-jobs.aspx">Jobs</a></li>
@@ -161,7 +311,7 @@ urchinTracker();
 </div>
 
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwL8uYn7BwKRtIysAwL3o7/7DaQ9UGzvFWDT4DvnlSlh347XMZZb"></form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKs7p//BwKRtIysAwL3o7/7DW6M/9SuCoVog94i211nkjuedlMf"></form>
 
 <div id="RateCommentDiv" name="RateCommentDiv" style="position:absolute; left:0px; top:0px; visibility:hidden; z-index:2000;">
 <iframe name="RateCommentFrm" id="RateCommentFrm" width="10" height="10" hspace="0" vspace="0" marginheight="0" marginwidth="0" frameborder="0" noresize="" scrolling="yes"></iframe>
