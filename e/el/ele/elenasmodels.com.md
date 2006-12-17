@@ -1,216 +1,188 @@
-> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627143114id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218000328id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
 
 # Elena's Models - beautiful russian girls. PRIVACY STATEMENT
 
-| 
-
-| Login  
----  
-Username|   
-Password|   
-Remember me   
-[Forgot password?](https://web.archive.org/index.php?method=create_form&list=forgotpass)  
-  
-  
-
-
-BEFORE you sign-up  
----  
-  
 **IS IT FOR REAL?**  
-Check what other users think about **[ElenasModels](http://www.elenasmodels.com/about/elenas.htm)**  
-  
-  
+Check out what other users say about **[ElenasModels](http://www.elenasmodels.com/about/elenas.htm)**
 
+[ ](http://www.elenasmodels.com/services/membership.htm)  
+**Don't be alone this Christmas!** Join today and meet beautiful Russian girls - direct _email addresses_ and _phone numbers_ are included with [ Gold](http://www.elenasmodels.com/services/gold.htm), [ Platinum](http://www.elenasmodels.com/services/platinum.htm) and [ Catalog](http://www.elenasmodels.com/services/catalog.htm) subscription. 
 
-Free E-Book  
----  
-  
-[](http://www.womenrussia.com/freebook)  
-**FREE!** Claim your free copy of ["9 simple rules for dating Russian women"](http://www.womenrussia.com/freebook) Â  **
+Go ahead and order today to take advantage of **Christmas specials** during the checkout! [Click here](http://www.elenasmodels.com/index.php?method=staticpay)
 
-EVERY man must know that!
+"Thank you very much for your website!"  
+(Victoria and Philip, UK)
 
-**  
-  
-  
+[](http://www.elenasmodels.com/testimonials.htm#story61)
 
+* * *
 
-Not a Member?  
----  
-  
-**Women and Men - JOIN NOW \- It's absolutely FREE!**  
-[Click here to add your profile](http://www.elenasmodels.com/index.php?list=emodelsuser&method=create_form)  
-  
-  
+"We met through your website!"  
+(Robert and Sveta, UK)
 
+[](http://www.elenasmodels.com/testimonials.htm#story60)
 
-They made it happen!  
----  
-  
-"I am confident that my husband is the person that I want to spend the rest of my life with."   
-(Anna, USA) 
+* * *
 
-[](http://www.elenasmodels.com/testimonials.htm#story8)[  
-](http://www.elenasmodels.com/testimonials.htm#story8)
+"We are very happy!!"  
+(Lonnie, USA, and Daniela, Romania)
+
+[](http://www.elenasmodels.com/testimonials.htm#story59)
+
+* * *
+
+"We are grateful to you!!"  
+(Cris and Olga, Netherlands)
+
+[](http://www.elenasmodels.com/testimonials.htm#story58)
+
+* * *
+
+"We married earlier this year and now we have a son!"  
+(Anthony, UK)
+
+[](http://www.elenasmodels.com/testimonials.htm#story56)
+
+* * *
+
+"Thank you Elena's for being the place where we found our happiness!" (Will, Canada, and Tatyana, Russia)
+
+[](http://www.elenasmodels.com/testimonials.htm#story55)
+
+* * *
+
+"Your website is the best place for lonely people looking for love. " (Elena and Rob, USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story54)
 
 * * *
 
 "Thank you for the happiness that we have found!"  
 (Irina and Thor, Norway) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story50)[  
-](http://www.elenasmodels.com/testimonials.htm#story50)
+[](http://www.elenasmodels.com/testimonials.htm#story50)
 
 * * *
 
 "Our dream came true - we are husband and wife!"  
 (Anna and Joe, USA) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story46)[  
-](http://www.elenasmodels.com/testimonials.htm#story46)
+[](http://www.elenasmodels.com/testimonials.htm#story46)
+
+* * *
+
+"I am confident that my husband is the person that I want to spend the rest of my life with."   
+(Anna, USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story8)
 
 * * *
 
 "Thank you so much for your service!"  
-(John and Svetlana, USA)
+(John and Svetlana, USA) 
 
-[ ](http://www.elenasmodels.com/testimonials.htm#story28)
+[](http://www.elenasmodels.com/testimonials.htm#story28)
 
 * * *
 
 "We were married in a castle in Wales!"  
 (Mark and Zhenya, UK) 
 
-[ ](http://www.elenasmodels.com/testimonials.htm#story21)
+[](http://www.elenasmodels.com/testimonials.htm#story21)
 
 * * *
 
-"Right from the beginning of our correspondence we knew we were true soulmates." (Rex and Svetlana, Netherlands) 
+"Right from the beginning of our correspondence we knew we were true soulmates."  
+(Rex and Svetlana, Netherlands) 
 
-[ ](http://www.elenasmodels.com/testimonials.htm#story38)
-
-* * *
-
-"Thanks so much!" (Darryl and Elena, Australia) 
-
-[ ](http://www.elenasmodels.com/testimonials.htm#story39)
+[](http://www.elenasmodels.com/testimonials.htm#story38)
 
 * * *
 
-"I first met my wife through your web-site, and we are both sublimely happy. Thank you very much. I owe you my life." (Sean, Australia)
+"Thanks so much!"  
+(Darryl and Elena, Australia) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story39)
+
+* * *
+
+"I first met my wife through your web-site, and we are both sublimely happy. Thank you very much. I owe you my life."  
+(Sean, Australia) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story24)
 
 * * *
 
-"I want to thank you for the way you operate your company Elenaâ€™s Models, it is without doubt well run and professionally operated. I wish to advise you that I recently married Alla - a very Beautiful, Intelligent, kind and loving lady whom I met through your agency. I write this letter to you today to give testament to the fact that Internet marriage agencies do work!" (Mike and Alla, Australia)
-
-[](http://www.elenasmodels.com/testimonials.htm#story)
-
-* * *
-
-"Never in my life I was so happy. Every day for me is like a wonderful fairy-tale, I go to sleep and get up with the smile on my face. I recommend your agency to all my girlfriends!"   
+"Never in my life I was so happy. Every day for me is like a wonderful fairy-tale, I go to sleep and get up with the smile on my face. I recommend your agency to all my girlfriends!"  
 (Svetlana and Nick, England) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story26)[  
-](http://www.elenasmodels.com/testimonials.htm#story26)
+[](http://www.elenasmodels.com/testimonials.htm#story26)
 
 * * *
 
-"I am writing to thank you for helping me find the love of my life. We were married in Las Vegas!" (Ron and Elvira Hawkes,USA)
+"I am writing to thank you for helping me find the love of my life. We were married in Las Vegas!"  
+(Ron and Elvira Hawkes,USA) 
 
-[ ](http://www.elenasmodels.com/testimonials.htm#story25)
+[](http://www.elenasmodels.com/testimonials.htm#story25)
 
 * * *
 
-"We both think that it has been just God's blessing to have met in such a wonderful, unbelievable way!" (Tanya and Derek, England)
+"We both think that it has been just God's blessing to have met in such a wonderful, unbelievable way!"  
+(Tanya and Derek, England) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story6)
 
 * * *
 
-"Our relationship started last year and now almost a year later we have solid plans for our future. Your web site has brought to me this beautiful lady." (Alberto and Elena, Netherlands) 
+"Our relationship started last year and now almost a year later we have solid plans for our future. Your web site has brought to me this beautiful lady."  
+(Alberto and Elena, Netherlands) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story11)
 
 * * *
 
-"I feel I have been blessed, with exceedingly good luck and fortune in finding Tanya, who was listed on this website." (Bill and Tanya, USA) 
+"I feel I have been blessed, with exceedingly good luck and fortune in finding Tanya, who was listed on this website."  
+(Bill and Tanya, USA) 
 
-[ ](http://www.elenasmodels.com/testimonials.htm#story19)
-
-* * *
-
-"I think Elena's Models is the best organized and most reliable marriage agency on the Internet. The money I paid to obtain Kseniaâ€™s address was nothing compared to the happiness and true love I found. It was the best investment of my life!" (Steve and Ksenia, USA) 
-
-[ ](http://www.elenasmodels.com/testimonials.htm#story22)
+[](http://www.elenasmodels.com/testimonials.htm#story19)
 
 * * *
 
-"We met through your service almost a year ago and are eternally grateful to you." (Svetlana and Tim, UK) 
+"I think Elena's Models is the best organized and most reliable marriage agency on the Internet. The money I paid to obtain Kseniaâ¿¿s address was nothing compared to the happiness and true love I found. It was the best investment of my life!"  
+(Steve and Ksenia, USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story22)
+
+* * *
+
+"We met through your service almost a year ago and are eternally grateful to you."  
+(Svetlana and Tim, UK) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story2)
 
 * * *
 
-"I would like to share my joy with you: with your help, I found my happiness." (Mila and Marshall, USA) 
+"I would like to share my joy with you: with your help, I found my happiness."  
+(Mila and Marshall, USA) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story15)
 
 * * *
 
-"Thank you for your wonderful service and help in bringing my wife and myself together. Without your service I would never have met my dearest Elena and our lives would not hold so much joy and happiness." (Michael and Elena, Australia) 
+"Thank you for your wonderful service and help in bringing my wife and myself together. Without your service I would never have met my dearest Elena and our lives would not hold so much joy and happiness."  
+(Michael and Elena, Australia) 
 
-[](http://www.elenasmodels.com/testimonials.htm#story14)
+[](http://www.elenasmodels.com/testimonials.htm#story14)   
+[More testimonials from our clients](http://www.elenasmodels.com/testimonials.htm)
 
-[More testimonials from our clients](http://www.elenasmodels.com/testimonials.htm)  
-  
-  
+[](http://hop.clickbank.net/?beauties/petrova) **Russian women are different.** Don't even think about dating one without reading this. [Why?](http://hop.clickbank.net/?beauties/petrova)
 
-
-Best Value  
----  
-  
-Email **ALL** new girls of Elena's Models for **less than** **$8 a week!** [Details](http://www.elenasmodels.com/services/catalog.htm)
-
-[](http://www.elenasmodels.com/services/catalog.htm)  
-  
-  
-
-
-Special Search  
----  
-  
-  * **[Ukrainian girls](http://www.elenasmodels.com/ukraine.htm)**
-
-  * **[Belarus girls](http://www.elenasmodels.com/belarus.htm)**
-
-  * **[Bulgarian girls](http://www.elenasmodels.com/bulgarian.htm)**
-
-  * **[Romanian girls](http://www.elenasmodels.com/romanian.htm)**
-
-  * **[Czech girls](http://www.elenasmodels.com/czech.htm)**
-
-  * **[Moldova girls](http://www.elenasmodels.com/moldova.htm)**
-
-  * **[Models](http://www.elenasmodels.com/topmodels.htm)**
-
-  * **[Medical doctors](http://www.elenasmodels.com/doctors.htm)**
-
-
-  
-  
-  
-
-
-New dating bestseller  
----  
-  
 [](http://www.12simplerules.com/em/)  
-**NEW! ** **#1 Love & Romance bestseller**  
-Don't miss out - [**Click here**](http://www.12simplerules.com/em/)  
-  
+NEW! **#1 Love & Romance bestseller**  
+Don't miss out - [**Click here**](http://www.12simplerules.com/em/)
+
+| 
+
 ## Privacy Policy
 
 Elena's Models recognize that your privacy is very important and that you have a right to control your personal information. We understand that providing personal information is an act of trust and we strive to protect your personal information and safeguard your privacy.
@@ -257,135 +229,126 @@ This web site contains links to other sites. Please be aware that Elena's Models
 
 * * *
 
-If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20060627143114id_/http%3A//www.elenasmodels.com/contact.htm).
+If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20061218000328id_/http%3A//www.elenasmodels.com/contact.htm).
 
-|  | 
+| 
 
-| This week NEW ladies  
----  
-  
-| [](https://web.archive.org/index.php?ap=379365)  
----  
-Tatyana, 27  
-  
-[](https://web.archive.org/index.php?ap=719276)  
----  
-Olga, 23  
-  
-[](https://web.archive.org/index.php?ap=326910)  
----  
-Violetta, 32  
-  
-[](https://web.archive.org/index.php?ap=600361)  
----  
-Irina, 20  
-  
-[](https://web.archive.org/index.php?ap=560690)  
----  
-Angela, 19  
-  
-| Featured listings  
----  
-  
-| [](https://web.archive.org/index.php?ap=636275)  
----  
-Mariya, 22  
-  
-[](https://web.archive.org/index.php?ap=366088)  
----  
-Svetlana, 32  
-  
-[](https://web.archive.org/index.php?ap=894243)  
----  
-Arina, 29  
-  
-[](https://web.archive.org/index.php?ap=509495)  
----  
-Yuliya, 31  
-  
-[](https://web.archive.org/index.php?ap=869050)  
----  
-Anna, 25  
-  
-| Most popular girls  
----  
-  
-| [](https://web.archive.org/index.php?ap=15849)  
----  
-Nadezhda, 32  
-  
-[](https://web.archive.org/index.php?ap=285860)  
----  
-Lena, 33  
-  
-[](https://web.archive.org/index.php?ap=13677)  
----  
-Alena, 23  
-  
-[](https://web.archive.org/index.php?ap=696360)  
----  
-Elena, 38  
-  
-[](https://web.archive.org/index.php?ap=372615)  
----  
-Julia, 32  
-  
-[](https://web.archive.org/index.php?ap=2358)  
----  
-Inna, 33  
-  
-[](https://web.archive.org/index.php?ap=383436)  
----  
-Bella, 33  
-  
-[](https://web.archive.org/index.php?ap=492624)  
----  
-Anastasia, 25  
-  
-[](https://web.archive.org/index.php?ap=831628)  
----  
-Victoria, 29  
-  
-[](https://web.archive.org/index.php?ap=436200)  
----  
-Tatyana, 32  
-  
-[](https://web.archive.org/index.php?ap=455869)  
----  
-Tatiana, 29  
-  
-[](https://web.archive.org/index.php?ap=598043)  
----  
-Oksana, 28  
-  
-[](https://web.archive.org/index.php?ap=400309)  
----  
-Raissa, 27  
-  
-[](https://web.archive.org/index.php?ap=977558)  
----  
-Elena, 24  
-  
-[](https://web.archive.org/index.php?ap=938939)  
----  
-Anna, 30  
-  
-[](https://web.archive.org/index.php?ap=17003)  
----  
-Yana, 26  
-  
-[](https://web.archive.org/index.php?ap=16263)  
----  
-Natalia, 33  
-  
-[](https://web.archive.org/index.php?ap=11674)  
----  
-Nataliya, 37  
-  
-[](https://web.archive.org/index.php?ap=634854)  
----  
-Anna, 30  
-  
-[](https://web.archive.org/index.php?ap=660703)  
----  
-Olga, 26
+[](https://web.archive.org/index.php?ap=4663418)
+
+Svetlana, 26 
+
+[](https://web.archive.org/index.php?ap=8371617)
+
+Zoryana, 22 
+
+[](https://web.archive.org/index.php?ap=1877202)
+
+Yulia, 23 
+
+[](https://web.archive.org/index.php?ap=4783267)
+
+Ruzana, 24 
+
+[](https://web.archive.org/index.php?ap=4840158)
+
+Iryna, 28 
+
+[](https://web.archive.org/index.php?ap=8515433)
+
+Zara, 23 
+
+[](https://web.archive.org/index.php?ap=337940)
+
+Kate, 21 
+
+[](https://web.archive.org/index.php?ap=393303)
+
+Maria, 27 
+
+[](https://web.archive.org/index.php?ap=374407)
+
+Tatiana, 30 
+
+[](https://web.archive.org/index.php?ap=6951564)
+
+Anzhela, 29 
+
+[](https://web.archive.org/index.php?ap=376214)
+
+Elena, 30 
+
+[](https://web.archive.org/index.php?ap=820162)
+
+Ekaterina, 29 
+
+[](https://web.archive.org/index.php?ap=13168)
+
+Olga, 33 
+
+[](https://web.archive.org/index.php?ap=15963)
+
+Irina, 35 
+
+[](https://web.archive.org/index.php?ap=298697)
+
+Tanya, 37 
+
+[](https://web.archive.org/index.php?ap=863389)
+
+Olena, 35 
+
+[](https://web.archive.org/index.php?ap=455869)
+
+Tatiana, 29 
+
+[](https://web.archive.org/index.php?ap=9312)
+
+Mariya, 31 
+
+[](https://web.archive.org/index.php?ap=305228)
+
+Maria, 26 
+
+[](https://web.archive.org/index.php?ap=831628)
+
+Victoria, 30 
+
+[](https://web.archive.org/index.php?ap=11674)
+
+Nataliya, 37 
+
+[](https://web.archive.org/index.php?ap=738129)
+
+Yulia, 34 
+
+[](https://web.archive.org/index.php?ap=16907)
+
+Larisa, 33 
+
+[](https://web.archive.org/index.php?ap=10633)
+
+Ludmila, 34 
+
+[](https://web.archive.org/index.php?ap=14588)
+
+Elena, 24 
+
+[](https://web.archive.org/index.php?ap=155855)
+
+Anna, 22 
+
+[](https://web.archive.org/index.php?ap=10846)
+
+Olga, 31 
+
+[](https://web.archive.org/index.php?ap=856429)
+
+Vitalina, 23 
+
+[](https://web.archive.org/index.php?ap=934554)
+
+Elena, 32 
+
+[](https://web.archive.org/index.php?ap=698371)
+
+Galina, 31 
