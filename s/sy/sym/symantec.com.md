@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symantec.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193024id_/http%3A//symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantec.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217230858id_/http%3A//symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Symantec Corp.
 
