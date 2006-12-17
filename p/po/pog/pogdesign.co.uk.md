@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pogdesign.co.uk privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502003033id_/http%3A//www.pogdesign.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogdesign.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217234009id_/http%3A//www.pogdesign.co.uk/privacy) for the most accurate reproduction.*
 
-# stylish website design, accessible site design and just damn good design
+# privacy policy of pogdesign uk
 
-## services to make your business grow
+## web design services to make your online business grow
 
-## 
+## privacy policy
 
 ### pogdesign privacy policies
 
@@ -31,14 +31,14 @@ You may be removed from our e-mail or snail mail list at anytime, by doing one o
 
 
 
-##### » Client Login
+##### » Want Us To Call You?
 
-Login to see your account, work in progress & invoices 
+Enquire about a quote, and we will call you back! 
 
 ##### » Site Launches
 
-These sites are not always our most up-to-date examples due to client privacy. If you would like to see our entire range of sites, [please contact us](mailto:portfolio@pogdesign.com)
+These sites are not always our most up to date examples due to client privacy. If you would like to see our entire range of sites, [ contact us](mailto:portfolio@pogdesign.com)
 
-(b) : basic design  
-(c) : content management  
-(e) : e-commerce
+##### » Who are we?
+
+Situated near **Manchester, England** we cater to business of all sizes. We develop **bespoke websites** and **custom marketing material** no matter how large your company may grow, or where you are based in the world. 
