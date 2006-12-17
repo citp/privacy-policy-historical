@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072135id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217040057id_/http%3A//www.archstoneapartments.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - ArchstoneApartments.com
+# 
 
-Privacy Policy - Effective April 1, 2005  
-  
----  
-  
+**Archstone-Smith Privacy Policy**
+
+**Effective July 1, 2006**
+
 **How Our Privacy Policy Applies**
 
 This Privacy Policy explains how we collect, use, and disclose the Personal Information You may provide to us through this Site and all sites of Archstone-Smith (collectively, the “Site”), and other Personal Information that you provide to us offline. This statement may be revised from time to time, so please revisit this page to remain fully informed of our commitment (see “Consent” Section below).
 
 Your provision of Personal Information to us indicates Your consent to this Privacy Policy as modified from time to time. 
 
-**Types of Personal Information We Collect**  
+**Types of Personal Information We Collect**
 
 In this Privacy Policy, " **Personal Information** " means any information by which You can be personally identified, and includes Your name and address, age or date of birth, Your electronic mail address, number of children, Your occupation, employment information, telephone number, education, the kind of service provided to You, Your social security number, real property purchased, leased, or rented, bank account number, debit card number, bank or investment account, debit card, or credit card balance, payment history, and information pertaining to Your creditworthiness, assets, income or liabilities. ** __**
 
 If You are applying for employment at Archstone-Smith, these additional categories of information will also be deemed to be Personal Information:
 
-·        Race
+·         Race
 
-·        Credit checks ** __**
+·         Credit checks ** __**
 
-·        Background report. ** __**
+·         Background report. ** __**
 
-·        Results of drug screenings ** __**
+·         Results of drug screenings ** __**
 
-·        Employment Verification
+·         Employment Verification ** __**
 
 We intend to implement this Privacy Policy in a manner consistent with applicable employment laws.  To the extent that such applicable employment laws are in conflict with this Privacy Policy, we will act in accordance with such applicable employment laws.
 
@@ -61,25 +61,32 @@ We do not disclose Personal Information to third parties for their marketing pur
 
 In order to personalize and enhance Your experience on our Site, we also may collect information through "cookies." Cookies are small strings of text that are sent by our Site to Your browser and then stored by Your browser on Your computer's hard drive. Our cookies allow us to personalize Your experience on our Site, make Your visit more convenient, and understand how You and others are using our Site so that we can improve Your experience on the Site. We use cookies to identify repeat visitors to our Site and to determine the paths visitors take on our Site. We also use cookies to determine whether You visited our Site from a particular Internet link or advertisement. We do not use cookies that store personal information or associate cookie information with personal information You may provide us. Most Web browsers automatically accept cookies, but it is possible to change Your browser setup so that it does not accept cookies. In order to create a profile on our Site You must have Your cookies on.
 
-**Our Commitment Children's Privacy**
+**Data Security**
+
+The security of Your Personal Information is important to us.  We use encryption technology to protect data transmitted during the online lease completion process and for online payment of rent.  Your browser will indicate when such encryption is activated (e.g., a padlock icon will be shown in Microsoft’s Internet Explorer). 
+
+While our security measures are intended to protect your Personal Information, the complete security of any transmission over the public internet cannot be guaranteed.
+
+********Children's Privacy****
 
 We do not collect or maintain information at our Site from those we know are under 13, and we do not permit children under 13 years of age to become registered users of our Site. No part of our Site is structured to attract anyone under 13. By using our Site You represent that You are not under 13 years of age.
 
-**Links  To Third Party Web Sites**  
-Our site may offer links to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies or practices or the content of any third party Web sites. 
+**Links To Third Party Web Sites** ****
 
-**How To Contact Us**  
+Our Site may offer links to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies or practices or the content of any third party Web sites.
 
-Should You have other questions or concerns about these privacy policies, please call us at 1-877-272-4786 or send us an E-mail at  [customers@archstonesmith.com](mailto:customers@archstonesmith.com).
+**How To Contact Us** ****
 
-**Consent**
+Should You have other questions or concerns about these privacy policies, please call us at 1-877-272-4786 or send us an E-mail at [customers@archstonesmith.com](mailto:customers@archstonesmith.com).
 
-By using this Site, You consent to our collection and use of Personal Information. Archstone-Smith reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy from time to time. The amended Privacy Policy will be effective upon posting on the Site. Your continued use of the Site and/or the services means that You agree to the revised Privacy Policy and our use of Your Personal Information in accordance with the revised policy. Archstone-Smith may, but is under no obligation to, provide You notice of such modifications to this Privacy Policay via email or other communication.   
-  
-**E-mail Consent**  
-Your provision of Personal Information through any of our resident portal Sites (currently myArchstone.com, my SmithAdvantage.com and other similar Sites) constitutes Your affirmative consent that we may contact you by e-mail to provide you with information and notices relating to the property where you reside, and various services available to you at or through that property. 
+**Consent** ****
 
-**Non-U.S. Residents  
-** If You do not reside in the U.S. and are visiting our Site, if You provide Personal Information to us it may be transferred to and processed on computers in the U.S. and other countries. Do not provide Your Personal Information to us if You do not want this information to be transferred outside of Your country, or if the laws in Your country restrict these types of transfers. Instead, please call us at 1-877-272-4786 to make your inquiry. Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy. 
+By using this Site, You consent to our collection and use of Personal Information. Archstone-Smith reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy from time to time. The amended Privacy Policy will be effective upon posting on the Site.  Your continued use of the Site and/or the services means that You agree to the revised Privacy Policy and our use of Your Personal Information in accordance with the revised policy.  Archstone-Smith may, but is under no obligation to, provide You notice of such modifications to this Privacy Policy via email or other communication.
 
-**This Privacy Policy is effective as of  April 1, 2005 and may be modified from time to time.**
+**E-mail Consent**
+
+Your provision of Personal Information through any of our resident portal Sites (currently, myArchstone.com, mySmithAdvantage.com and other similar Sites) constitutes Your affirmative consent that we may contact you by e-mail to provide you with information and notices relating to the property where you reside, and various services available to you at or through that property.
+
+**Non-U.S. Residents**
+
+If You do not reside in the U.S. and are visiting our Site, if You provide Personal Information to us it may be transferred to and processed on computers in the U.S. and other countries.  You hereby consent to such transfers and processing as described in this Privacy Policy.  Do not provide Your Personal Information to us if You do not want this information to be transferred outside of Your country, or if the laws in Your country restrict these types of transfers.  Your provision of Personal Information to us will be handled in accordance with this Privacy Policy.  Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy. 
