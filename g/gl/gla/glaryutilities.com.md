@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617025333id_/http%3A//glaryutilities.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217103520id_/http%3A//glaryutilities.com/privacy.htm) for the most accurate reproduction.*
 
 # Glary Utilities - Privacy Statements
 
