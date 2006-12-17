@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000450id_/http%3A//www.smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217114810id_/http%3A//smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
 
 # SMARTHINKING.COM - Online tutoring and writing services that help students succeed
 
