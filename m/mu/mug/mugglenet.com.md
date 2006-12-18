@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2006-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060601014323id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218112228id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -25,14 +25,6 @@ In the course of serving advertisements to this site, our third-party ad server,
 **MuggleNet Layout Cookie**  
 By utilizing the layout-changing feature on MuggleNet, you agree to accept a "cookie" into your browser. This cookie contains _only_ information that is used to set the layout correctly for you and no other personal information or any information which can be used to identify you personally. 
 
-* * *
-
-**Support the site**   
-MuggleNet costs over $120,000 a year to run. If you order something through the link below, Amazon sends us a commission which helps us cover our costs. Thanks!
-
-* * *  
-  
----  
   
 
 
@@ -40,18 +32,12 @@ MuggleNet costs over $120,000 a year to run. If you order something through the 
 
 MuggleNet is an unofficial fan site and the staff has a mortal fear of lawyers - the site isn't here to infringe upon any copyrights or break any laws, it's here to be a resource for Harry Potter fans. E-mail us if you have any questions or concerns. MuggleNet's layout was designed and created by [Navy](mailto:navy_o@hotmail.com).
 
-© 1999-2005 MuggleNet.com. All rights reserved.
+© 1999-2006 MuggleNet.com. All rights reserved.
 
 [Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](http://www.mugglenet.com/credits.shtml)  
 [Random Addresses](http://www.mugglenet.com/junk.php)
 
-2,427 muggles currently online  
+929 muggles currently online
+
   
----  
-  
 
-
-[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00123908P000)
-
-|  | [](http://www.usatoday.com/life/cyber/2001/11/01/hotsites.htm) |  | [](http://topsites.mugglenet.com/)  
----|---|---|---|---
