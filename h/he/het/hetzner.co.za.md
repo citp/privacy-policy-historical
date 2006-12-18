@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615111611id_/http%3A//hetzner.co.za/index.php%3Fid%3D242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218204844id_/http%3A//hetzner.co.za/index.php%3Fid%3D242) for the most accurate reproduction.*
 
 # Hetzner South Africa – trusted in web hosting: Privacy Policy
 
@@ -54,6 +54,6 @@ Hetzner may use e-mail addresses you provide us online on Hetzner sites to send 
 
 **Contact Hetzner**
 
-Help Desk: +27 21 970 2000  
-Facsimile: +27 21 970 2001  
+Contact Centre: 0861-0861-08 / +27 21 970 2000  
+Facsimile: 0861-0861-09 / +27 21 970 2001  
 Postal: P.O. Box 3450, Durbanville, 7551
