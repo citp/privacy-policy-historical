@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualcomposer.com privacy policy that was archived on 2006-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060209143905id_/http%3A//www.visualcomposer.com/support/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcomposer.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218225224id_/http%3A//www.visualcomposer.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Webxites
 
