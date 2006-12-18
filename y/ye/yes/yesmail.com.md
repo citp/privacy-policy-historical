@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228202930id_/http%3A//www.yesmail.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218110655id_/http%3A//www.yesmail.com/company/privacy_policy.php) for the most accurate reproduction.*
 
-# Yesmail: Company
+# Yesmail - Permission-Based E-mail Marketing: Company
 
 Yesmail is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we agree to notify you of:
 
@@ -14,7 +14,7 @@ Yesmail is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, n
 
 
 
-If you have any questions or concerns regarding this statement, you should first contact [privacy@yesmail.com](mailto:privacy@yesmail.com) by e-mail. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe, <http://www.truste.org/watchdog.html> TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have any questions or concerns regarding this statement, you should first contact [privacy@yesmail.com](mailto:privacy@yesmail.com) by e-mail. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe, [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 Consumer privacy is a top priority to Yesmail and to our clients and partners. We support the protection of privacy rights as a fundamental element of our business.
 
