@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613015722id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218064304id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Blue Bunny Privacy Policy
 
@@ -25,4 +25,4 @@ You must be 18 years of age or older to register for the iScream Team or any swe
 
 Your access to and use of this site is subject to the above privacy terms and conditions and all applicable laws. By accessing and browsing this site, you accept, without limitation or qualification, these terms and conditions. Wells’ Dairy , Inc. may at any time revise these privacy terms and conditions.
 
-If you have any questions or concerns about the Wells’ Dairy, Inc. privacy policy, please feel free to [contact us](https://web.archive.org/web/20060613015722id_/http%3A//www.bluebunny.com/ContactUs.aspx).
+If you have any questions or concerns about the Wells’ Dairy, Inc. privacy policy, please feel free to [contact us](https://web.archive.org/web/20061218064304id_/http%3A//www.bluebunny.com/ContactUs.aspx).
