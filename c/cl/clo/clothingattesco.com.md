@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616211149id_/http%3A//www.clothingattesco.com/ManagedStorage/Renderers/Core/Clear.aspx%3Fp%3DPrivacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218042702id_/http%3A//www.clothingattesco.com/ManagedStorage/Renderers/Core/Clear.aspx%3Fp%3DPrivacy.ascx) for the most accurate reproduction.*
 
 # Clothing at Tesco
-
-**Tesco Clothing Privacy Policy**
 
 Tesco Stores Limited, trading as Tesco Clothing, is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [online@tesco.co.uk](mailto:online@tesco.co.uk).
 
