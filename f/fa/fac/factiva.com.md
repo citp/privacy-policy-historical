@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045553id_/http%3A//www.factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218012648id_/http%3A//factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
 
 # Factiva Privacy Policy
 
@@ -10,9 +10,9 @@ Factiva Products and Services
 
 This page describes Factiva’s general commitment to privacy and specifically to information you submit through this website. If you subscribe to any Factiva services, your personal information may also be gathered during registration for, or use of, such Factiva services. Personal information you submit via Factiva services will be used subject to the specific policy displayed within each service. 
 
-Information gathered through this Website
+Information gathered through this Web site
 
-In sections of this site, you have the chance to provide to us personal identifying information such as your name, email address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
+In sections of this site, you have the chance to provide to us personal identifying information such as your name, e-mail address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
 
 Factiva may also use your information collectively, such as to measure what area users visit most frequently and what information users access the most. We use this data anonymously in connection with the design of our website. This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. This aggregate information is never used so that individual users can be personally identified and it does not involve the transfer of any personal data we hold about you. 
 
@@ -38,12 +38,6 @@ Factiva provides, within some services, various opportunities for you to submit 
 
 Privacy Commitment Changes 
 
-If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this website or at the address below. 
+If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this web site or at the address below. 
 
-Who is Factiva?
-
-Factiva is an international group of companies and you should be aware that your data may be transferred to Factiva entities in countries outside your own. Not all such countries have personal data protection laws but Factiva imposes its privacy policy on all its group companies. 
-
-Users based in the United States will be supplying their personal information to Dow Jones Reuters Business Interactive LLC of P.O. Box 300, Princeton, NJ 08530. Users outside of these territories will be supplying their personal information to Dow Jones Reuters Business Interactive Limited of 6th Floor, Commodity Quay, East Smithfield, London E1 9UN. (Both companies trade as “Factiva”). 
-
-_*Factiva is a trademark of Dow Jones Reuters Business Interactive LLC whose representative in the EEA is Dow Jones Reuters Business Interactive Limited._
+_*Factiva is a trademark of Factiva, Inc._
