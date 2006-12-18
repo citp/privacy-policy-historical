@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-game-design.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616023907id_/http%3A//www.flash-game-design.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-game-design.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218140653id_/http%3A//www.flash-game-design.com/privacy.html) for the most accurate reproduction.*
 
 # Flash-Game-Design.com - Privacy Policy
 
@@ -31,4 +31,5 @@ We will not share information about individual users with any third party, excep
 **Your Consent**  
 By using this site, you consent to the collection and use of this information by Flash Game Design. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it 
 
-If you have any questions about this privacy policy, please contact Flash Game Design. |  | 
+If you have any questions about this privacy policy, please contact Flash Game Design. |  |  | [an error occurred while processing this directive]   
+---
