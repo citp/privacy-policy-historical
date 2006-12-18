@@ -1,32 +1,35 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427201157id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218025011id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  [](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
 ---  
-|  |  **Thursday, April 27, 2006**   
-Latest Release [ProxyWayExtra 3.2 - April 21, 2006](http://www.proxyway.com/www/downloads/download_proxyway_extra.html)  
-[ProxyWayPro 3.2 - April 21, 2006](http://www.proxyway.com/www/downloads/download_proxyway_pro.html)  
-[ProxyWay 3.2 - April 21, 2006](http://www.proxyway.com/www/downloads/download_proxyway.html)[ProxyWay Extra 3.2 New Features](http://www.proxyway.com/www/free-proxy-software/anonymous-proxy-software.html#whats_new)
-* Added three options for HTTP proxy checking:  
-• checking proxies without detecting proxy geo location;  
-• check proxies with detecting proxy country location;  
-• advanced proxy checking - check proxies with detecting proxy country and proxy region/state[ProxyWay Pro 3.2 New Features](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)
-* To speed up HTTP proxy checking added ability to check proxies without detecting proxy country. Now you can select if you want to check proxies with or without detecting proxy country.[ProxyWay Pro 3.1 New Features](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)
-* Fixed problem with duplicating proxies while updating proxy list in IP:Port format. 
-* Updated country list (country.dat file). 
-* Improved proxy list update for selected countries.[ProxyWay Pro 3.0 New Features](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)
-* Added ability to check proxies using external script. 
-* In "Settings" menu added "Advanced settings" sub-menu with new options. 
-* Added "Delete bad proxies after checking" option. 
-* In "Update proxy list" window added check box to temporary disable/enable url for proxy list auto updating[Proxy Way 3.2 New Features](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
-* Now there is no program expiration date.  
-But we recommend you to visit ProxyWay web site periodically to get the latest version as the program is updated on a regular basis.[Proxy Way 3.1 New Features](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
-* Fixed problem with duplicating proxies while updating proxy list in IP:Port format. 
-* Updated country list (country.dat file).[Proxy Way 3.0 New Features](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
-* Added ability to check proxies using external script. 
-* In "Settings" menu added "Advanced settings" sub-menu with new options. 
-* In "Update proxy list" window added check box to temporary disable/enable url for proxy list auto updating
+|  |  **Sunday, December 17, 2006**   
+Latest Release - December 6, 2006 [ProxyWay Revolution Extra](http://www.proxyway.com/www/downloads/download_proxyway_extra.html)  
+[ProxyWay Revolution Pro](http://www.proxyway.com/www/downloads/download_proxyway_pro.html)  
+[ProxyWay Revolution](http://www.proxyway.com/www/downloads/download_proxyway.html) **New Features**
+* Fixed problem with adding more than one random proxy in cascade.  
+
+* Now you can use ProxyWay for working with CGI proxies (web proxies)  
+
+* Improved "Import/export proxy list" feature. Now using "Export proxies" feature you can create custom proxy list selecting fields and delimiters you need and export it to *.txt or *.html format  
+
+* Due to Proxy Finder module improvement increased the number of proxy list sites that can be used for proxy list updating  
+
+* Now ProxyWay detects connection(s) for the latest versions of Opera and Netscape automatically  
+
+* Added ability to choose if you want to mark a new created service as default or not  
+
+* Improved proxy management - ProxyWay remembers current position in proxy list and in "Update proxy list" windows  
+
+* To make your work with CGI proxies more convenient, you can use our list of third-party CGI proxy sites  
+
+* Now you can export/import list of sites you use for proxy list updating.  
+
+* To simplify proxy list updating, you can use our list of third-party proxy sites **What's new**  
+[ProxyWay Revolution Extra](http://www.proxyway.com/www/free-proxy-software/proxyway-extra-new.html)  
+[ProxyWay Revolution Pro](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
+[ProxyWay Revolution](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
 |   
 ---|---|---  
 [](http://www.proxyway.com/www/free-proxy-tool/proxy-search-proxies.html)  
@@ -107,6 +110,18 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 |   
 ---  
 |  |   
+|  [Recommended](http://www.proxyway.com/cgi-bin/out.pl?to=1001) |   
+|  |   
+|  |   
+---  
+|  [**Anonymizer® Anonymous Surfing™**](http://www.proxyway.com/cgi-bin/out.pl?to=1001)  
+• Hides IP address  
+• Supports all Internet browsers  
+• Protects the data you send over wireless  
+• Uses 128-bit SSL encryption  
+[Learn More...](http://www.proxyway.com/cgi-bin/out.pl?to=1001)  
+|  |   
+|  |   
 |  [How ProxyWay Works](http://www.proxyway.com/www/anonymous-surfing-how.html) |   
 |  |   
 |  |   
@@ -155,8 +170,18 @@ or ProxyWay   [On-line Help](http://www.proxyway.com/www/anonymous-web-browsin
 |  |   
 |  |   
 ---  
-|  • I've checked a proxy list. Some of proxies support http/https protocol. But in the Service Manager they are only shown as http.
+|  • I want to use external script for proxy checking. What do I do?
 
-HTTP(HTTPS) in the type column means that this proxy server supports HTTP and HTTPS, but the current supported protocol is HTTP. So you need to change this proxy server type from HTTP to HTTPS by clicking the "Modify" button in the proxy list. If you need to use this proxy server with all supported types (HTTP, HTTPS), you need to add this server to the proxy list twice with different server types.   
+You should [download our CGI proxy checking script](http://www.proxyway.com/www/downloads/) (written on Perl) and install it on your server. You can also use your own scripts (e.g. on PHP, ASP) if they are based on ProxyWay Proxy Checker Script.  
+To install Proxy Checker Script on your server:  
+• Perl interpreter must be installed on you server.  
+• You need to have access to run a Perl Script and have CGI enabled on your hosting account or server.  
+• You must know the path to the Perl interpreter.  
+• You should change the first line in a script so it points to the path to perl interpreter on your server.  
+Usually the path to Perl is #!/usr/bin/perl or #!/usr/local/bin/perl So open script in any text editor and change #!/usr/bin/perl to the necessary path.  
+• Upload the script to any executable folder (cgi-bin or other appropriate directory) in ASCII mode.  
+• Perl scripts must be marked as "executable" in order to run properly when called by the web server. This is usually done by setting Execute permission (for Unix-based web servers) or Script permission (for Windows NT-based servers).  
+• In your web browser, type in the address bar area full URL to the Proxy Checker script. e.g. http://www.yoursite.com/cgi-bin/checker.pl  
+If everything is right, you'll see the text that begins with "ProxyWay REMOTE_HOST"   
   
 |  | 
