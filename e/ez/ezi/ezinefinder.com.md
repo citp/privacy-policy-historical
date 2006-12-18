@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408124418id_/http%3A//ezinefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218143145id_/http%3A//www.ezinefinder.com/privacy.html) for the most accurate reproduction.*
 
-# DayTips.com
+# Ezine Finder - Privacy Policy
 
-**Your Privacy Is Important**
+The goal of the Ezine Finder is to provide a safe place for Ezine readers to find and subscribe to Ezines without fear of receiving unsolicited spam. We are a subscription service. We have been a safe place to subscribe to Ezines since 1998. 
 
-We are anti-spam and will not be renting or revealing your identity to spammers. 
+**Your Contact Information**
 
-As you notice, we don't make you jump through demographic hoops: we don't ask for your name, address, age, household income, or gender. We don't collect this data. Therefore, we cannot abuse that data. 
+Any information you submit to the Ezine Finder during the registration process, recommending ezines or voting for Ezines is stored securely and not shared with anyone. **We do not sell, trade or share any email addresses unless you request a subscription to an Ezine at which time we send a subscription request on your behalf.**
 
-Our newsletters are designed to provide you with free content and special offers. Period. 
+**Voting for Ezines**
 
-Your email address is revealed to our third-party mailing list provider: [Topica.com](http://www.topica.com/). They are a great company with a strong anti-spam policy but you may want to review their privacy policy as well. 
+Your email address is ONLY used to confirm your vote. Email addresses in our voting database are stored securely, routinely deleted and never shared with anyone. 
 
-In addition, we have an affiliate program that tracks traffic sent from our affiliates' websites. We pay them based on leads (actual subscribers) so you may be tracked by cookies so that we can pay our affiliates for valid leads. Again, your email address isn't revealed to our affiliates but is collected by our third- party affiliate program administrator: [Commission Junction](http://www.cj.com/). They are also a respectable company with a strong anti-spam policy but you may want to review their privacy policy as well. 
+**Subscribing to Ezines**
 
-Also, we monitor our traffic to determine what search engines, links, and ad campaigns are sending us traffic. Cookies may be involved. We may be tracking your movement on our site to determine what percentage of people from certain ad campaigns and links are actually signing up. This helps us spend our advertising and marketing budget more wisely. Again, none of your information is being collected in a way to be reconciled with your email address. 
+The Ezine Finder does not accept responsiblity for what publishers do with your email address once you have subscribed to an Ezine. We are a directory and don't have control over individual publisher's policies. Having stated that, **every ezine publisher in this directory has agreed to the following:**
 
-We are advertiser-supported so pay attention to banners and links placed on our site and newsletters. We do try to label most of these as "Sponsor." We don't reveal your email address to our advertisers but once you leave our newsletter or site, you are on your own. 
+  * Publishers must publish an ezine with unique content. We do not allow opt in advertising lists or spam mailing lists to be listed in this directory. 
+  * Publishers agree not to sell or use email addresses for any other purpose than subscription to your Ezine. Addresses can be used **only** to send the publication that has been requested. 
+  * Publishers must have unsubscription information posted in their ezine. Users must have the ability to unsubscribe easily. 
 
-We only want to bring you respectable sponsors but occasionally we participate in ad networks or have ads placed by third-parties to whom we don't know. As such, be prudent and remember the adage: buyer beware. 
+If you feel a publisher is in violation of any of the rules stated above please [**contact us**](https://web.archive.org/web/20061218143145id_/http%3A//www.ezinefinder.com/contact.html). 
 
-Also, we do reserve the right to sell some or all of our newsletters to respectable content providers who agree to provide you with like-minded content. For example, if we agree to sell our freebies' newsletter, we would only sell the email addresses on that newsletter to a respectable company that agrees to send you free content on the subject matter you selected: freebies and free offers. 
+**Links to Other Sites**
 
-Children (defined as those under the age of 13 years old) may not use DayTips without their parent's permission. 
+This privacy policy covers this site but not does not cover sites to which we are linked. Please refer to their privacy policy. 
 
-We also reserve the right to change or amend this privacy policy in the future (and if our lawyers make us). 
+**Contact Cumuli Inc.**
 
-Advice: Freebies and sweepstakes are not free when you are asked to give away your most valuable asset: your personal data. Play it safe and only provide that information for which you feel comfortable giving. 
+The Ezine Finder is owned and operated by Cumuli, Inc. We are located in Port Orchard, Washington, USA. To contact us through postal mail: 
 
-Questions or concerns, please contact: 
+Cumuli Inc.   
+PO Box 1174   
+Port Orchard, WA 98366  
+USA 
 
-Mickie Kennedy, President  
-DayTips.com, Inc.  
-824 S. Milton Ave.  
-Baltimore, MD 21224
-
-[mkennedy@daytips.com](mailto:mkennedy@daytips.com)
+To send us email, [**Click here**](https://web.archive.org/web/20061218143145id_/http%3A//www.ezinefinder.com/contact.html). 
