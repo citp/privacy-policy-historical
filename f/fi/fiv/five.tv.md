@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the five.tv privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041937id_/http%3A//www.five.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the five.tv privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218053405id_/http%3A//www.five.tv/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ The principle reason for collecting data about you is to improve the service we 
 
 #### Third Parties
 
-We will not pass on your data to third parties unless you have explicitly given us permission to do so when providing us with that data or where this is necessary to provide you with the goods or service you have requested. If you decide to authorise us to do so we will only disclose your data to selected and reputable third party companies we think may be of interest to you. This may involve sending your data outside the European Economic Area. 
+We will not pass on your data to third parties unless you have explicitly given us permission to do so when providing us with that data or where this is necessary to provide you with the goods or service you have requested. If you decide to authorise us to do so we will only disclose your data to selected and reputable third party companies we think may be of interest to you. 
 
 #### Chat Rooms
 
