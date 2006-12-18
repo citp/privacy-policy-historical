@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208140937id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218045506id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
 
 # TFL.org Terms of Use, Privacy and Spam Policy | The Fanlistings
 
@@ -46,4 +46,4 @@ Often the website owner is making a site to show their admiration for the subjec
 
 ## Comments or Questions
 
-If you have any questions or comments, please use our [contact form](http://thefanlistings.org/contactus.php) to send them.
+If you have any questions or comments, please use our [contact form](http://www.thefanlistings.org/contactus.php) to send them.
