@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksalefinder.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613001559id_/http%3A//www.booksalefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksalefinder.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218195359id_/http%3A//booksalefinder.com/privacy.html) for the most accurate reproduction.*
 
 # Book Sale Finder Privacy Policy
 
@@ -19,4 +19,4 @@ We would be happy to answer any questions you have about privacy. See below for 
 Tel: 978-562-3400, Fax: 978-562-1233, [Editor@BookSaleFinder.com](mailto:editor@BookSaleFinder.com)  
 
 
-All rights reserved. No portion of this document may be reproduced, copied or revised without written permission of the editor.
+All rights reserved. This work constitutes a compiled database under US Copyright law and is registered with the US Copyright office. No portion of this work may be reproduced, copied or revised without written permission of the editor.
