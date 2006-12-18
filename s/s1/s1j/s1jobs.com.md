@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022741id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219002050id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
 # Scottish jobs, recruitment and vacancies from s1jobs.com
 
@@ -34,7 +34,7 @@ Users may provide their mobile phone numbers in order to receive relevant SMS te
 
 When you register with the Site, you can elect to receive information and updates on our products and services by email. We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you may request. Such addresses are not used for any other purpose.
 
-To complete your registration in the CV Database area of the Site to ‘Get Head Hunted’, your permission will be required to receive a bi-annual email from the Site which in turn requests you renew your candidate profile in the CV Database area.
+To complete your registration in the Candidate Database area of the Site to ‘Get Head Hunted’, your permission will be required to receive an email every 4 months from the Site which in turn requests you renew your candidate profile in the Candidate Database area.
 
 We use information that you provide (individual and aggregate) to better design the Site and to improve our marketing strategy and our products. One method through which the Site collects aggregate information is the collection of IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from this site, our servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us. To the extent such information is shared with third parties, please see "Our Privacy Practices With Third Parties" below.
 
