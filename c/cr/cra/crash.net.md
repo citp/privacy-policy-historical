@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043529id_/http%3A//www.crash.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219005727id_/http%3A//www.crash.net/privacy.htm) for the most accurate reproduction.*
 
-# Crash.Net FORMULA ONE: Latest Motorsport news, results with radio player
+# F1, FORMULA ONE, motorsport news, results, features, teams, drivers, updates
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website. 
 
