@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417233244id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218040024id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
 
-# International Trade Leads, Global Import Export - Fita.org, trade market resources and research
+# Export Import, International Business and Trade Leads – FITA World Trade Leads
 
 Privacy Policy Statement  
 
@@ -8,7 +8,7 @@ Privacy Policy Statement
 This is the web site of **The Federation of International Trade Associations, Inc.**
 
 Our postal address is  
-**11800 Sunrise Valley Drive, Suite 210**  
+**1900 Campus Commons Drive, Suite 340**  
 **Reston, VA 20191**
 
 We can be reached via e-mail at [info@fita.org](mailto:info@fita.org) or you can reach us by telephone at 703-620-1588
@@ -19,7 +19,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail as w
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We set cookies so that only those who subscribe to [Really Useful Sites for International Trade Professionals](https://web.archive.org/web/20060417233244id_/http%3A//fita.org/useful/index.html) can access the site.
+With respect to cookies: We set cookies so that only those who subscribe to [Really Useful Sites for International Trade Professionals](https://web.archive.org/web/20061218040024id_/http%3A//fita.org/useful/index.html) can access the site.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
