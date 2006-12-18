@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517124752id_/http%3A//easier.com/ads/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219001222id_/http%3A//www.easier.com/ads/Privacy_Policy) for the most accurate reproduction.*
 
 # Easier.com Privacy Policy
 
