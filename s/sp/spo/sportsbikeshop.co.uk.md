@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618045913id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218053104id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FREE UK DELIVERY
 
@@ -32,18 +32,18 @@ Please select a product category from the left hand menu.
 
 Alternatively, use the product search function to help you find what you are looking for. 
 
-HOLD ON TO YOUR MONEY!
+GRAB YOURSELF A BARGAIN!
 
-  
+[](http://www.sportsbikeshop.co.uk/motorcycle_parts/content_cat/330)  
 
 
 CUSTOMER COMMENTS...
 
-"I ordered my Arai Astro J helmet on Monday 25th April. Received it in good order on Wednesday 27th April, complete with free helmet/visor cleaner and polish as promised, on a FREE delivery. Many thanks for an excellent service."
+"My helmet arrived today. Many thanks for your prompt service and reply. If I need anything else I will not hesitate to use you again. Thanks once again."
 
- **Mick Horsfield - Barnsley**
+ **Scott Timson - Wrexham**
 
-FREE UK DELIVERY OVER £10
+FREE UK DELIVERY OVER £25
 
   
 
