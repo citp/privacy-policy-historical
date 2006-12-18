@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620040024id_/http%3A//solarvps.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218135222id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.*
 
-# Solar VPS: Windows VPS & Linux VPS : US & Europe
+# Solar VPS :: Privacy Policy
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
