@@ -1,95 +1,65 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2006-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060524102839id_/http%3A//www.ocweekly.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D8816%26Itemid%3D185) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218121825id_/http%3A//www.ocweekly.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D8816%26Itemid%3D185) for the most accurate reproduction.*
 
 # Orange County Weekly - Privacy Policy
 
-(Last Updated As Of: December 19, 2005)
+## Village Voice Media
 
-A detailed privacy policy follows, but the bottom line is this: _OC Weekly_ will not sell or share any of your personal information to a third party unless you say it's okay. _OC Weekly_ will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. Be a well-informed ocweekly.com user by reading the details below and check back regularly for updates.
+Parent of _OC Weekly_ and ocweekly.com 
 
-Thank you for visiting OCWeekly.com (the "Site"), an OC Weekly Media, Inc. website. At _OC Weekly_ ( _"OC Weekly"_ , "us", "we", or "our"), we recognize and respect the importance of maintaining your privacy. We have established this Privacy Policy (the "Privacy Policy") to inform you of the kinds of information we may gather during your visit to the Site, why we gather customer information, what we use the information for, under what circumstances we may disclose such information, and how you can instruct us to limit the use of that information.
+Village Voice Media respects your privacy. Our privacy policy for this site follows, but the bottom line is this: Village Voice Media will not sell or share any of your personal information to a third party unless you say it's okay. Village Voice Media will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. 
 
-By visiting the Site, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes.
+_Policy effective as of September 25, 2006_
 
-If you have any questions please write us at OC Weekly 1666 N. Main Street, Suite 500, Santa Ana, CA 92701-7417 with comments or questions. See [About OC Weekly](http://www.ocweekly.com/about/) to find out more about _OC Weekly_ and our policies.
+##  Personally Identifiable Information
 
-1\. What Information We Gather
+We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Village Voice Media. The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
 
-We do not intentionally collect any personally identifiable information about you except when you provide it. 
+We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
 
-Classified Ads:
+Please remember that any information you share in public area, such as message boards becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private. 
 
-When you place a classified ad on our Site, we will ask you for your e-mail address and other information that allows respondents to contact you. We will not share that information with any third party. You can choose to hide your personal information from other Site users. 
+## Cookies
 
-Newsletter:
+"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. Village Voice Media does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Village Voice Media cookie, such as a user code. We have no control over whether and how our advertisers use cookies **that originate from their website**. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our site's features, and we recommend that you leave them turned on. 
 
-_OC Weekly_ collects email addresses and zip codes of all users who subscribe to our weekly newsletter. This information is not shared with any third parties for any purposes. Anyone who wishes to no longer receive this newsletter can, at any time, click on the "Unsubscribe" feature located within each newsletter. 
+_IP address tracking_ : All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect IP addresses to administer and analyze our site and report aggregate, non-personal information (such as how many visitors we have). When you call up our site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information. 
 
-Anonymous Use Information:
+We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer. 
 
-We do collect anonymous information about all of our users, including the way our users access the Site and the content. We analyze information to determine how our users are making use of various parts of the Site, to improve the Site, and so we can share "rating" information with our partners. This information is typically shared on an aggregated basis and cannot be used to identify individual Users.
+## Your Letter to the Editor Contributions
 
-Giveaways and Contests
+As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
 
-If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us.
+## Communication from Village Voice Media
 
-Under 13:
+From time to time, we may send you information with announcements and updates about the site and Village Voice Media and our partners. Any ongoing communication you may receive from Village Voice Media via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. 
 
-We do not knowingly collect any information from persons under the age of 13. If we learn that any persons under the age of 13 have provided information about themselves, the information will be deleted. Our Site is designed for adults. Our Site is not intentionally targeted to children under the age of 13. _Children under the age of 13 should not use our Site without obtaining prior parental consent_. 
+## Giveaways and Contests
 
-Co-Branded Services:
+If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us. We will not use your personally identifiable information for any purpose other than the administration of the giveaway or contest without your permission. 
 
-We work closely with our partners to offer co-branded services such as, the online personals service provided by [Spring Street Networks](http://www.springstreetnetworks.com/) For privacy policies governing these types of services, please see the separate privacy policies within these sections. To the extent such policies conflict with the terms of this Privacy Policy, the terms of such other policy shall govern. 
+## Children
 
-Links to Other Sites:
+Village Voice Media does not orient this site toward children under the age of 13 or target them as an audience, nor does it screen them from using the site. Some of the material on this site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. Children under the age of 13 should not use this site. Village Voice Media does not collect or distribute information indicating whether a user is a child. 
 
-Our Site contains links to other Web sites whose information practices may be different than ours. Please be aware that when you click on links and/or advertisement banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we are not responsible for the actions and privacy policies of third parties and other Web sites. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site. This Privacy Policy applies solely to information collected by _OC Weekly_ on this Site.
+## Links to Other Sites
 
-2\. How We Use the Information We Gather
+This site provides links and pointers to Web sites maintained by other organizations. Village Voice Media provides these links as a convenience to users, but it does not operate, control or endorse such sites. Village Voice Media also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. Village Voice Media does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. 
 
-The information collected is used internally by _OC Weekly_ for four main purposes: (1) To determine which areas, features, and products our users like the most and find most helpful as part of our continuing efforts to improve our Site; (2) To personalize the Site for our users (for example, if you have indicated an interest in jazz, we may make you aware of upcoming jazz events); (3) To enable our users to participate in sweepstakes, contests, services, and other activities on our Site; and (4) to enable users to place classified advertisements in designated areas of the Site. In all cases described below we will not sell or share any personally identifiable information with any third party without your consent.
+## E-Commerce and Our Secure Server
 
-When we conduct user surveys to find out how we can improve our Site for you, we may share aggregated non-personal information about our users with advertisers or other third parties. For example, we might disclose that a certain percentage of our users are female.
+All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. Village Voice Media disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001) 
 
-We also use certain third-party advertising services (including, in particular, Real Media) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. (See "Cookies and IP Addresses", below, if you're not sure what a cookie is.)
+## Policy Changes
 
-We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in any way other than to provide the requested services to the Site
+The privacy policy is effective as of September 25, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
 
-You can choose to electronically forward a story from our Site to a friend by entering the friend's e-mail address. You can also request that we send an email alert when your favorite columnist posts a column or when certain classified ads are posted. We don't sell or share the addresses used in our E-mail This to a Friend service or our alerts to any third-party.
+## Governing Law/Sale of Company
 
-Please remember that any information you share in public areas, such as message boards like [Bulletin Board](http://www.ocweekly.com/classifieds/index.php?page=ads&category=bulletin+board) or [Online Classified](http://dev.laweekly.com/classifieds/) sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private.
+Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise. 
 
-Please note that whenever you choose to share information in the public areas of the Site, you grant us a license (as described in OC Weekly's [Terms of Use](http://www.ocweekly.com/classifieds/termsofuse.php)) to that information you publish. We occasionally will publish or use in connection with promotional and/or marketing materials any posted comments on our Site or feedback received via e-mail (especially if you say nice things about us).
+In the event of a sale of OC Weekly or a sale of substantially all OC Weekly's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
 
-3\. How We Use "Cookies" and IP Addresses
+## More Questions? Updates and Changes to Your Information.
 
-_Cookies_ : When you visit the Site, we send your computer a "cookie," a small data file that's stored on your hard drive. We use cookies to understand Site usage and to give you better, more personalized service. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features, and we recommend that you leave them turned on. We do not install, or authorize the installation of, web beacons, web bugs, "single-pixel gifs" or other types of spyware on users' computers.
-
-**Note** : You will see advertising on our Site that originates with outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, the advertisers will assign a cookie for ad tracking and presentation purposes. We are not responsible for nor have any control over these cookies.
-
-_IP address tracking_ : All computers and servers on the Internet use IP addresses to recognize and communicate with each other. _OC Weekly_ collects IP addresses to administer and analyze our Site and report aggregate, non-personal information (such as how many visitors we have). When you call up our Site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information.
-
-We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer.
-
-4\. Additional Circumstances When Information May be Shared
-
-In addition to what is stated above, we share customer information only under the following, limited circumstances:
-
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to comply with the law or with legal process, protect and defend our rights and property, protect against misuse or unauthorized use of the Site or protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-Although your privacy is very important to us, in the existing legal regulatory and security environment, we cannot fully guarantee that your personal information will not be disclosed to third parties. For example, under certain circumstances the government or unrelated third parties might legally require us to disclose information to them, or third parties might unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
-
-5\. Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted with secure socket layer (SSL) encryption technology prior to transmission over the Internet.
-
-While we make reasonable efforts to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. As a result, we cannot ensure or warrant the security of any information you transmit to us or information we transmit to you from our Site, and you do so at your own risk.
-
-6\. Governing Law/ Sale of the Company
-
-Our Site is a published in the United States. U. S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise.
-
-In the event of a sale of _OC Weekly_ or a sale of substantially all _OC Weekly_ 's assets, the email database and all user information shall accrue to the new owners. So that the services provided to our users may continue uninterrupted. Any such sales are not anticipated to otherwise alter the basic terms of this Privacy Policy.
-
-7\. Changes
-
-As our Site continues to develop, we may add new services and features to our Site. In the event that these additions, changes to the law or changes to OC Weekly policy affect our Privacy Policy, we may change our Privacy Policy from time to time. Please read this Privacy Policy each time you use our Site to be informed of any such changes.
+If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [webmaster@ocweekly.com](mailto:webmaster@ocweekly.com). 
