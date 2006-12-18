@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitusccu.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617023210id_/http%3A//unitusccu.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitusccu.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218100654id_/http%3A//unitusccu.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Unitus Community Credit Union
 
@@ -41,8 +41,6 @@ Or call member services at:
 Toll-Free 1-800-452-0900
 
 Or write: Unitus Community Credit Union  
-2121 SW 4th Avenue  
-Portland, OR 97201
-
-  
+PO Box 1937  
+Portland, Oregon 97207  
 
