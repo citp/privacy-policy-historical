@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwars.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622034258id_/http%3A//www.uwars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwars.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218151917id_/http%3A//uwars.com/privacy.php) for the most accurate reproduction.*
 
 # Universe Wars - Privacy Policy
 
@@ -22,4 +22,4 @@ Any email you may receive from Universe Wars will never ask for your password. G
 **COMMUNICATION:**  
 Universe Wars offers chat rooms, private mail and message boards to communicate with the rest of our friendly community. Any personal information you may disclose via these areas can be viewed by any registered member or who you send the mail to and therefor due diligence should be taken. Again note that staff will never contact you requesting account details such your as username and password combination.
 
-If you need any more information in regards to our Privacy Policy please use the [Contact Us](https://web.archive.org/web/20060622034258id_/http%3A//www.uwars.com/contactus.php) page. 
+If you need any more information in regards to our Privacy Policy please use the [Contact Us](https://web.archive.org/web/20061218151917id_/http%3A//uwars.com/contactus.php) page. 
