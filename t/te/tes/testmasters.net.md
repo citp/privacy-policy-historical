@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614180450id_/http%3A//www.testmasters180.com/common/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218141927id_/http%3A//www.testmasters180.com/common/privacy.aspx) for the most accurate reproduction.*
 
 # TestMasters Privacy Policy
 
