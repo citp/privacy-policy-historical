@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilbeat.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044024id_/http%3A//tamilbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilbeat.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218071553id_/http%3A//www.tamilbeat.com/privacy) for the most accurate reproduction.*
 
 # TamilBeat.Com - Your Online Source for Quality Tamil Mp3's
 
