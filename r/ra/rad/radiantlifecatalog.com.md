@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2006-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060221121127id_/http%3A//www.radiantlifecatalog.com/service/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218203801id_/http%3A//www.radiantlifecatalog.com/service/privacy.cfm) for the most accurate reproduction.*
 
-# Radiant Life Wellness Catalog: Privacy Policy
+# Radiant Life Wellness Catalog:
 
 **Radiant Life’s commitment to privacy**  
 Protecting your privacy is important to us and we recognize that your information must be used responsibly. The following information will help you understand how Radiant Life Wellness Catalog collects, uses, and safeguards your personal information. If you have any questions that are not answered here, please contact us and we will answer them. 
@@ -15,7 +15,7 @@ We can be reached by telephone at: 1-888-593-9595
 
 We can be reached by fax at: 1-888-593-0168 
 
-We can be reached by email [here](https://web.archive.org/web/20060221121127id_/http%3A//www.radiantlifecatalog.com/service/contact.cfm).
+We can be reached by email [here](https://web.archive.org/web/20061218203801id_/http://www.radiantlifecatalog.com/page.cfm/cid/contact.cfm).
 
 **What information is collected?**  
 For each visitor to our site, Radiant Life automatically recognizes only the customer's IP address, not the individual's email address. We use cookies to store visitors’ preferences, record session information (such as items that customers add to their shopping basket), record past activity at the site in order to provide better service when visitors return to the site, and to customize (when appropriate) web page content based on visitors' browser type or other information that the visitors sends. 
@@ -24,9 +24,9 @@ This information is used for internal review and is then discarded. It is not sh
 
 **Site Security**
 
-|  We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. You can feel safe ordering online with Radiant Life. Any page on our site that handles sensitive information, such as your credit card number, is securely encrypted using the Secure Sockets layer (SSL) protocol.  |   
----|---  
-  
+ ** ** ****  
+** **
+
 It's easy to know if a web site is secure. When you are accessing a secure web site a closed lock will be displayed in the status bar of your browser window. 
 
 **E-mail Addresses**  
@@ -61,4 +61,4 @@ The following are policies we plan to follow in regards to mailing addresses we 
 From time to time we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt-out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. 
 
 **Concerns**  
-If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number, the Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection offices, or the Federal Trade Commission by phone at 202-FTC-HELP. 
+If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number, the Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection offices, or the Federal Trade Commission by phone at 202-FTC-HELP.
