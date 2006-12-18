@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421225117id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm%3Fsource%3Difpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218173000id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm%3Fsource%3Difpp) for the most accurate reproduction.*
 
 # World Wide Learn | Privacy Policy
 
@@ -81,7 +81,7 @@ This information is requested only when you:
 
 You will be asked for your name, e-mail address and other appropriate personal information that would be needed to facilitate the information request or register for the newsletter.
 
-When requesting information from universities and colleges, World Wide Learn does not rent, sell or otherwise make available your email address or personal information to anyone other than the indended university or college institution.
+When requesting information from universities and colleges, World Wide Learn does not rent, sell or otherwise make available your email address or personal information to anyone other than the intended university or college institution.
 
 When registering for the World Wide Learn newsletter, World Wide Learn does not rent, sell or otherwise make available your email address or personal information to anyone else.
 
