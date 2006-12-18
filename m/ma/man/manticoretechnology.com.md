@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072358id_/http%3A//manticoretechnology.com/corp/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218173520id_/http%3A//www.manticoretechnology.com/corp/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Manticore Technology
 
-|  |  |  |   
+|  |  |   
 ---  
 Privacy Policy  
 Audience  
-The following information is intended for Manticore Technology clients and other visitors to our corporate web site. This policy covers how Manticore Technology treats personal information that we collect and receive from our site only. If you are looking for information regarding privacy and the software we produce, please see our information on consumer privacy by clicking [here](https://web.archive.org/web/20060615072358id_/http%3A//manticoretechnology.com/corp/consumerprivacy.asp).  
+The following information is intended for Manticore Technology clients and other visitors to our corporate web site. This policy covers how Manticore Technology treats personal information that we collect and receive from our site only. If you are looking for information regarding privacy and the software we produce, please see our information on consumer privacy by clicking [here](https://web.archive.org/web/20061218173520id_/http%3A//www.manticoretechnology.com/corp/consumerprivacy.asp).  
 Data Collection Practices  
 Manticore Technology is very concerned with making all of our site visitors comfortable with and aware of our data collection practices. We respect an individual's right to privacy, and as such provide this statement to fully disclose our data collection practices.
 
