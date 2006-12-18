@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 011networks.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420103127id_/http%3A//www.011networks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 011networks.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218204909id_/http%3A//www.011networks.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for 011 Networks
 
 ** 011 Networks **
 
@@ -50,7 +50,7 @@ You may request not to be contacted by 011 Networks in connection with any new s
 
 7) **Correcting, Amending, or Deleting User Information.**
 
-011 Networks honors requests from You to correct, amend, or delete Your account information (for example, Your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, click [here](mailto:wecare@ip2voip.com). To protect Your privacy and security, 011 Networks will also take reasonable steps to verify Your identity before granting access or making corrections.
+011 Networks honors requests from You to correct, amend, or delete Your account information (for example, Your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, click [here](mailto:Sales@011Networks.com). To protect Your privacy and security, 011 Networks will also take reasonable steps to verify Your identity before granting access or making corrections.
 
 ** Contacting 011 Networks:**
 
@@ -58,12 +58,12 @@ If You have any questions about this Online Privacy Policy, the practices of 011
 
 011 Networks, L.L.C.
 
-228 East Union Street
+P.O. Box 1382
 
-Pacific, MO  63036
+O'Fallon, MO  63366
 
-(636) 257-2020
+(636) 794-6181
 
 Copyright 2004 - 011 Networks  
 
-**[Home](https://web.archive.org/web/20050420103127id_/http%3A//www.011networks.com/index.htm)**
+**[Home](https://web.archive.org/web/20061218204909id_/http%3A//www.011networks.com/index.htm)**
