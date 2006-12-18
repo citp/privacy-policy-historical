@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bidorbuy.co.za privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615202936id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidorbuy.co.za privacy policy that was archived on 2006-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061218181228id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
   <title>bidorbuy - Privacy Policy</title>
@@ -36,33 +36,28 @@
 
 
 
-
-
 		<script language="javascript" type="text/javascript">
 		<!--
-		function GetCookie (name) {
-		var arg = name + "=";
-		var alen = arg.length;
-		var clen = document.cookie.length;
-		var i = 0;
-		while (i < clen) {
-		var j = i + alen;
-		if (document.cookie.substring(i, j) == arg)
-		return getCookieVal (j);
-		i = document.cookie.indexOf(" ", i) + 1;
-		if (i == 0) break;
-		}
-		return null;
+		function setCookie(name,value,days) {
+				var date = new Date();
+				date.setTime(date.getTime()+(days*24*60*60*1000));
+				var expires = "; expires="+date.toGMTString();
+
+			document.cookie = name+"="+value+expires+"; path=/; domain=.bidorbuy.co.za";
 		}
 
-		function getCookieVal(offset) {
-		var endstr = document.cookie.indexOf (";", offset);
-		if (endstr == -1)
-		endstr = document.cookie.length;
-		return unescape(document.cookie.substring(offset, endstr));
+		function getCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
 		}
 
-		var countLoginCookie = GetCookie('loginId');
+		var countLoginCookie = getCookie('loginId');
 		var loginText = null;
 		var loginURL = null;
 		var joinNowText = "";
@@ -74,7 +69,7 @@
 		  loginURL = "<a href=http://www.bidorbuy.co.za/jsp/my/MyMain.jsp>";
 		  joinNowText = "Join Now!";
 		  joinNowURL = "<a href=/jsp/registration/UserRegistration.jsp>";
-    }
+	    }
 		else
 		{
 		  loginText = "Logout";
@@ -82,19 +77,36 @@
 		  joinNowText = "";
 		  joinNowURL = "<a href=/jsp/registration/UserRegistration.jsp>";
 		}
+
+		if (!(document.referrer.indexOf('.bidorbuy.co.za') > -1)) {
+
+			var referralString = document.referrer.substring(7,57);
+			var sessionCookie = getCookie('registration')
+			if (!sessionCookie) {
+				if (!referralString)
+					referralString = 'Direct';
+
+				setCookie('last_time', referralString, 365)
+				var firstTimeCookie = getCookie('first_time')
+				if (!firstTimeCookie)
+					setCookie('first_time', referralString, 365)
+			}
+		}
+
 		function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
 			if (restore) selObj.selectedIndex=0;
 		}
+
 		//-->
 		</script>
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 <tbody><tr>
 	<td class="header_logo" rowspan="2" nowrap="">
-		<a href="/"><img src="/images/site/homepage/bidorbuylogo.gif" width="219" height="50" border="0" alt="bidorbuy South Africa Online Auctions. Bid, Buy or Sell new and used cameras, computers, diamonds, coins, cars and more on auction at cheap prices participating in a fun and exciting secure online shopping experience."></a><br><font title="Africa's Largest Online Marketplace. Bid, Buy or Sell new and used cameras, computers, diamonds, coins, cars and more on auction at cheap prices participating in a fun and exciting secure online shopping experience.">Africa's Largest Online Marketplace</font>
+		<a href="/"><img src="/images/site/homepage/logo_chris.gif" width="214" height="74" border="0" alt="bidorbuy South Africa Online Auctions. Bid, Buy or Sell new and used cameras, computers, diamonds, coins, cars and more on auction at cheap prices participating in a fun and exciting secure online shopping experience."></a><br><font title="Africa's Largest Online Marketplace. Bid, Buy or Sell new and used cameras, computers, diamonds, coins, cars and more on auction at cheap prices participating in a fun and exciting secure online shopping experience.">Africa's Largest Online Marketplace</font>
 	</td>
 	<td class="header_ad" align="right" valign="middle">
-		<a href="http://ads.bidorbuy.co.za/cgi-bin/advertpro/blink.fcgi?region=1&amp;slot=1" target="_top"><img src="http://ads.bidorbuy.co.za/cgi-bin/advertpro/bimg.fcgi?region=1&amp;slot=1&amp;keyword=NULL" border="0" width="468" height="60" alt="Click Here!"></a>
+		
 		
 	</td>
 </tr>
@@ -120,7 +132,7 @@
         <a href="http://www.bidorbuy.co.za/jsp/my/MyMain.jsp" title="My bidorbuy">My bidorbuy</a> | 
         <script language="javascript" type="text/javascript">
         <!--
-        var countCartCookie = GetCookie('Cart');
+        var countCartCookie = getCookie('Cart');
         if (countCartCookie!=null) {
           
           document.write('<a href="http://www.bidorbuy.co.za/jsp/cart/Cart.jsp" title="View Cart">View Cart<\/a> |');	
@@ -139,6 +151,7 @@
 </div>
 
 <div id="searchBand">
+
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 <tbody><tr>
 	<td>» Make money! <a href="http://www.bidorbuy.co.za/static/help/affiliateInfo.html">Sign in and join our Affiliate program</a><br>» Have goods to sell? use a <a href="http://www.bidorbuy.co.za/static/help/tradeBroker.html">Trade broker</a></td>	
@@ -152,6 +165,7 @@
 	</td>
 </tr>
 </tbody></table>
+
 </div>
 </div>
 
@@ -315,7 +329,7 @@ Copyright 1999-2006 <a href="/" title="bidorbuy South Africa Online Auctions. Bi
 <table align="center" width="770" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 	  <td align="left" class="bobe-small-font"><small>&nbsp;</small></td>
-	  <td align="right" class="bobe-small-font"><small>Thu, Jun 15, 2006 01:00 AM</small></td>
+	  <td align="right" class="bobe-small-font"><small>Mon, Dec 18, 2006 01:00 AM</small></td>
 	</tr>
 </tbody></table>
 </center>
@@ -358,7 +372,7 @@ var _rsND=_rsLP+'//secure-za.imrworldwide.com/';
 </div>
 <!-- END NetRatings OPA Measurement V5.1.1 -->
 
-<!-- Page Execution : 2 ms. -->
+<!-- Page Execution 1 ms. -->
 
 
 
