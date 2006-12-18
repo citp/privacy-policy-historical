@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshoemart.com privacy policy that was archived on 2006-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060524091846id_/http%3A//www.theshoemart.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoemart.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218082639id_/http%3A//www.theshoemart.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # Shoes at TheShoeMart.com - Moreschi, shell cordovan, sperry topsiders, alden shoes, dexter bowling shoes
 
