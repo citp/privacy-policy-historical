@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616164343id_/http%3A//plum.com/privacy.plum) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218073134id_/http%3A//plum.com/privacy.plum) for the most accurate reproduction.*
 
-# Plum
-
-|   
----  
-|  |  |  |   
----|---|---  
-| 
+# Plum: Privacy Statement
 
 This page, and the pages linked from here, are our Privacy & Copyright Policy and our Terms & Conditions. 
 
@@ -19,7 +13,7 @@ Our Terms & Conditions and Privacy Policy are currently in draft form and may ch
   * This document has three parts: 
     * Privacy and Copyright: Your privacy as a member of the Plum community
     * [Terms & Conditions: Your obligations as a member of the Plum community ](https://web.archive.org/terms.plum)
-    * What to do if you have a concern or want to report a problem: 
+    * What to do if you have a concern or want to report a problem:
       * [Send us comments](https://web.archive.org/feedback.plum?s=privacy_topcomments)
       * [Report abuse](https://web.archive.org/feedback.plum?s=privacy_topabuse)
       * [Report a copyright violation](https://web.archive.org/feedback.plum?s=privacy_topcopyright)
@@ -114,18 +108,3 @@ If you have a question, comment or concern, please contact us and we'll be happy
   * [Report a copyright violation](https://web.archive.org/feedback.plum?s=privacy_bottomcopyright)
 
 
-
-|   
-| |   
-|  |  |  |   
----|---|---  
-| Related links |   
-|  [About Plum](https://web.archive.org/about.plum)  
-[Learn More](https://web.archive.org/learnmore.plum)  
-[Plum in the News](https://web.archive.org/news.plum)  
-[PlumBlog](http://blog.plum.com/)
-
-[Contact Us](https://web.archive.org/feedback.plum?s=info_link)
-
-|   
-|  | 
