@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211140id_/http%3A//www.treehugger.com/files/2004/07/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218214750id_/http%3A//www.treehugger.com/files/2004/07/privacy_policy.php) for the most accurate reproduction.*
 
 # Treehugger: Privacy Policy
-
-### First timer?
-
-Welcome to TreeHugger.com, the largest, most frequented green lifestyle site on the net! Please browse our [categories](http://www.treehugger.com/cats.php) (green architecture, fashion, electronics, alternative energy, transportation etc…), visit our [homepage](http://www.treehugger.com/), do a search of our 3,500+ posts or sign up for a [newsletter](http://www.treehugger.com/files/2004/10/sign_up_for_one.php). Or..heck, just bookmark us or add us to your [RSS reader](http://www.treehugger.com/atom.xml).
 
 ###  Privacy Policy
 
@@ -29,7 +25,3 @@ TreeHugger may launch a mailing list in 2004. In order to sign up to receive reg
 **Discussion Group and Cookies**
 
 In order to further enhance TreeHugger user experience, TreeHugger may launch a discussion board service where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. TreeHugger uses this information to screen out users
-
-  
-  
-
