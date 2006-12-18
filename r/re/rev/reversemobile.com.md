@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversemobile.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615081550id_/http%3A//www.reversemobile.com/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversemobile.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218141719id_/http%3A//www.reversemobile.com/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
 
 # ReverseMobile.com - All Reverse Cellphone Records @ Your Fingertips!
 
