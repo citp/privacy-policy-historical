@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314131049id_/http%3A//supermicro.com/about/termsandconditions/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218223141id_/http%3A//supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Supermicro, Inc. - About Supermicro | Privacy
 
@@ -95,7 +95,7 @@ Generally Supermicro uses return e-mail addresses only to respond to users' emai
 Supermicro's WebSite users may choose not to provide personal information. However, certain features of our WebSites will not work without routing information and/or essential technical information. Failure to provide routing, optional, or nonessential technical information will not prevent use of our Websites, but may prevent use of or access to certain WebSite features.
 
 **Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data accuracy, and insure the correct use of information, Supermicro has adopted physical, electronic, and managerial procedures to safeguard and secure the information we collect online. These procedures are consistent with [Supermicro's Privacy Policies](https://web.archive.org/about/termsandconditions/privacy.cfm) and the laws and regulations of the State of California.
+To prevent unauthorized access, maintain data accuracy, and insure the correct use of information, Supermicro has adopted physical, electronic, and managerial procedures to safeguard and secure the information we collect online. These procedures are consistent with [Supermicro's Privacy Policies](https://web.archive.org/about/policies/privacy.cfm) and the laws and regulations of the State of California.
 
 **WebSite Traffic**  
 We track visitor traffic throughout our WebSites. This information is broken down per page and used to determine what areas of our WebSites are most popular.
