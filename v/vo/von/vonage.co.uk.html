@@ -1,0 +1,797 @@
+<!--The following is the downloaded HTML source of the vonage.co.uk privacy policy that was archived on 2006-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061218155522id_/http%3A//www.vonage.co.uk/help_knowledgeBase_article.php%3Farticle%3D399%26category%3D0) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>Vonage UK - Cheap local, national and International Calls using VOIP</title>
+
+
+
+<meta name="Description" content="Vonage, the broadband phone service, offers consumers and small business - VoIP Internet phones, an affordable alternative to traditional telephone service.">
+<meta name="Keywords" content="Voip,voice over internet protocol,broadband,International Call,International Calls,National Call,Phone Call,Phone Calls,Telephone Calls,Telephone Call,Telephone,Bills,Bill,Phone Bills,Phone Abroad,Cheap Phone Calls,Cheap Phone Call,Cheap Call,Cheap Calls,Call,Calls,Local Calls, Local">
+
+
+	<link rel="STYLESHEET" type="text/css" href="./identity/vonage_uk/includes/main.css">
+
+<style type="text/css">
+</style><script language="javascript1.2">
+var ie45,ns6,ns4,dom = false;
+if (navigator.appName == "Microsoft Internet Explorer") ie45 = parseInt(navigator.appVersion) >= 4;
+else if (navigator.appName == "Netscape"){
+	ns6 = parseInt(navigator.appVersion) >= 5;
+	ns4 = parseInt(navigator.appVersion) < 5;}
+dom = ie45 || ns6;
+
+var switchHTML = new Array;
+var openHTML = '';
+var re = /<SCRIPT>/i;
+
+function saveHTML(id, _HTML) {
+	if(ns4) return;
+	
+	switchHTML[id] = _HTML;
+	
+}
+
+function showHideHTML(id) {
+	if(ns4) return;
+	
+	el = document.all ? document.all[id] : dom ? document.getElementById(id) : document.layers[id];
+	
+	if(openHTML.id == el.id)	{ el.innerHTML = "";  openHTML = ""; return; }
+	else						{ openHTML.innerHTML = ""; }
+	
+	if(el.innerHTML == "" || re.test(el.innerHTML)) {
+		el.innerHTML = switchHTML[id];
+	} else {
+		el.innerHTML = "";
+	}
+	
+	openHTML = el;
+	
+}
+	function checkIt(string)
+	{
+		place = detect.indexOf(string) + 1;
+		thestring = string;
+		return place;
+	}
+
+	var detect = navigator.userAgent.toLowerCase();
+	var OS,browser,version,total,thestring;
+	
+	if (checkIt('konqueror')) { 
+		browser = "Konqueror";
+		OS = "Linux";
+	} else if (checkIt('safari')) browser = "Safari" 
+	else if (checkIt('omniweb')) browser = "OmniWeb"
+	else if (checkIt('opera')) browser = "Opera"
+	else if (checkIt('webtv')) browser = "WebTV";
+	else if (checkIt('icab')) browser = "iCab"
+	else if (checkIt('msie')) browser = "Internet Explorer"
+	else if (!checkIt('compatible')) {
+		browser = "Netscape Navigator"
+		version = detect.charAt(8);
+	}
+	else browser = "An unknown browser";
+	
+	if (!version) version = detect.charAt(place + thestring.length);
+	if (!OS)
+	{
+		if (checkIt('linux')) OS = "Linux";
+		else if (checkIt('x11')) OS = "Unix";
+		else if (checkIt('mac')) OS = "Mac"
+		else if (checkIt('win')) OS = "Windows"
+		else OS = "an unknown operating system";
+	}
+
+	isMacIE5 = ("Internet Explorer" && OS == "Mac" && parseFloat(version) >= 5);
+
+</script>
+<script type="text/javascript">
+// Cross browser function for forcing the cursor to change with javascript 
+// events e.g. onMouseOver="changeCursor(this, true);" onMouseOut="changeCursor(this, false);"
+			function changeCursor(layer,state) {
+				if (state) {
+					if ( browser == "Netscape Navigator" || browser == "Safari" ) {
+						type = "pointer";
+					} else {
+						type = "hand";
+					}
+				} else {
+					type = "default";
+				}
+				layer.style.cursor = type;
+				return true;
+			}
+
+if (document.images) {
+		index_off = new Image;
+	index_off.src = './images/grey/nav_index_off.jpg';
+	index_over = new Image;
+	index_over.src = './images/grey/nav_index_over.jpg';
+
+	products_off = new Image;
+	products_off.src = './images/grey/nav_products_off.jpg';
+	products_over = new Image;
+	products_over.src = './images/grey/nav_products_over.jpg';
+
+	services_off = new Image;
+	services_off.src = './images/grey/nav_services_off.jpg';
+	services_over = new Image;
+	services_over.src = './images/grey/nav_services_over.jpg';
+
+	avail_off = new Image;
+	avail_off.src = './images/grey/nav_avail_off.jpg';
+	avail_over = new Image;
+	avail_over.src = './images/grey/nav_avail_over.jpg';
+
+	features_off = new Image;
+	features_off.src = './images/grey/nav_features_off.jpg';
+	features_over = new Image;
+	features_over.src = './images/grey/nav_features_over.jpg';
+
+	intrates_off = new Image;
+	intrates_off.src = './images/grey/nav_intrates_off.jpg';
+	intrates_over = new Image;
+	intrates_over.src = './images/grey/nav_intrates_over.jpg';
+
+	signup_off = new Image;
+	signup_off.src = './images/grey/nav_signup_off.jpg';
+	signup_over = new Image;
+	signup_over.src = './images/grey/nav_signup_over.jpg';
+
+	help_off = new Image;
+	help_off.src = './images/grey/nav_help_off.jpg';
+	help_over = new Image;
+	help_over.src = './images/grey/nav_help_over.jpg';
+
+} // if document.images
+
+function swapNav(id, imageName, imageStatus) {
+	if (document.images) {
+		eval("document." + id + ".src = " + imageName + "_" + imageStatus + ".src");
+	}
+}
+
+</script>
+
+<script language="javascript1.2">
+
+	var imagesArray = new Array( );
+	
+	function preloadImage(src) {
+		if(document.images) {
+			i = imagesArray.length;
+			imagesArray[i] = new Image();
+		    imagesArray[i].src = src;
+		}
+	}
+	
+	function getOffsetLeft (el) {
+		var ol = el.offsetLeft;
+		while ((el = el.offsetParent) != null)
+			ol += el.offsetLeft;
+		return ol;
+	}
+	
+	function getOffsetTop (el) {
+		var ot = el.offsetTop;
+		while((el = el.offsetParent) != null)
+			ot += el.offsetTop;
+		return ot;
+	}
+
+	function findObj(id) {
+		if(document.all) {
+			obj = eval('document.all.' + id);
+		} else {
+			obj = document.getElementById(id);
+		}
+		return obj;
+	}
+	
+	function bookmarkPage() {
+		if ( (navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4) && (navigator.userAgent.toLowerCase().indexOf("win") != -1) ) {
+			window.external.AddFavorite(location.href, document.title);
+		} else {
+			alert("To bookmark this page, click \"OK\" below    \nand then press Control-D on your keyboard.\n(Macintosh users press Command-D.)");
+		}
+		return false;
+	}
+	
+	function noPop() {
+		exit = false;
+	}
+	
+	function alertMH() {
+		alert('Thank you for your interest in Mid-Hudson DigitalVoice service. Unfortunately we are not taking any new orders at this time. Please visit www.vonage.com for your phone service needs.');
+	}
+	
+</script>
+
+
+
+<!-- SWFObject code for embedded any flash -->
+<script type="text/javascript" src="includes/swfobject.js">
+</script>	
+<!-- end SWFObject code -->
+
+</head>
+
+<body>
+<!-- TRACKING PIXELS CANADA -->
+
+<script type="text/javascript" src="http://www.naturalsearch.co.uk/vonage/nstracking.js"></script>
+
+<!-- Adpath pixel added by Allen.C on  10/16/06 -->
+<script language="JavaScript">
+<!--
+var title = 'TITLE';
+try {
+if (title == unescape('%u0054%u0049%u0054%u004C%u0045') && document.title) title = document.title;
+document.write('<img width="0" height="0" border="0" src="http://media.adrevolver.com/adrevolver/trace?adpath=976&title=' + escape(title) + '&ref=' + escape(document.referrer) + '&rnd=' + Math.round(Math.random() * 10000000) + '">');
+} catch(e){}
+//-->
+</script><img width="0" height="0" border="0" src="http://media.adrevolver.com/adrevolver/trace?adpath=976&amp;title=Vonage%20UK%20-%20Cheap%20local%2C%20national%20and%20International%20Calls%20using%20VOIP&amp;ref=&amp;rnd=9876808">
+<!-- Logo and Login Row -->
+
+<!-- Logo and Login Row -->
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+	<form action="https://secure.vonage.co.uk/vonageuk-web/public/login.htm" id="logonForm" method="POST" name="logonForm" target="_top"></form>
+	
+	<tbody><tr valign="center">
+	
+		<td valign="center" width="100%"><!-- logo -->
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><img src="./images/inviso.gif" border="0" height="10" width="10"></td>
+				</tr>
+				<tr>
+					<td>
+						<a href="index.php?lid=login_logo">
+						<img src="./identity/vonage_uk/images/logo.gif" alt="Vonage" border="0">
+						</a>
+					</td>
+				</tr>
+			
+			</tbody></table>
+
+						
+		</td>
+		<td align="right">
+		
+			<!-- Header tools/login panel -->
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td background="./images/grey/box_login_left_top.gif"><img src="./images/grey/box_login_left_top.gif" border="0"></td>
+					<td background="./images/grey/box_login_top_bg.gif"><img src="./images/grey/box_login_top_bg.gif" border="0"></td>
+					<td background="./images/grey/box_login_divider_top.gif"><img src="./images/grey/box_login_divider_top.gif" border="0"></td>
+					<td background="./images/grey/box_login_top_bg.gif"><img src="./images/grey/box_login_top_bg.gif" border="0"></td>
+					<td background="./images/grey/box_login_divider_top.gif"><img src="./images/grey/box_login_divider_top.gif" border="0"></td>
+					<td background="./images/grey/box_login_top_bg.gif"><img src="./images/grey/box_login_top_bg.gif" border="0"></td>
+					<td background="./images/grey/box_login_right_top.gif"><img src="./images/grey/box_login_right_top.gif" border="0"></td>
+				</tr>
+				<tr>
+					<td background="./images/grey/box_login_left_bg.gif"><img src="./images/grey/box_login_left_bg.gif" border="0"></td>
+					<td>
+					
+						<!-- Country Select -->
+						<table border="0" cellpadding="0" cellspacing="0" class="loginTable">
+							<tbody><tr>
+								<td><img src="./images/globe.gif" border="0</td"></td>
+								<td align="left">Select Your Country</td>
+							</tr>
+							<tr>
+								<td colspan="2">
+									<select class="input76" onchange="jump('login_countryselect');" name="countryURLs" id="countryURLs">
+										<option value="http://www.vonage.ca"> Canada</option><option value="http://www.vonage.co.uk" selected=""> United Kingdom</option><option value="http://www.vonage.com"> United States									</option></select>
+									<script language="javascript1.2">
+									
+										function jump(hb) {
+											obj = document.getElementById('countryURLs');
+											myURL = obj.options[obj.selectedIndex].value;
+											if (hb != null) {
+												// HitBox tracking codes
+												_hbSet("lid", hb);
+												_hbSend("lid");
+											}	
+											document.location = myURL;
+										}
+
+									</script>
+								</td>
+							</tr>
+						</tbody></table>
+						<!-- end Country Select -->
+					
+					</td>
+					<td background="./images/grey/box_login_divider_bg.gif"><img src="./images/grey/box_login_divider_bg.gif" border="0"></td>
+					<td>
+					
+						<!-- Tools -->
+						<table border="0" cellpadding="0" cellspacing="0" class="headerTools">
+							<tbody><tr align="left" valign="top">
+								<td><a href="javascript: void 0;" onclick="window.open('./emailFriend.php?feature=/help_knowledgeBase_article.php&amp;lid=login_email', 'emailFriend', 'HEIGHT=615,WIDTH=426');"><img src="./images/grey/headertools_icon_email.gif" width="13" height="13" border="0"></a></td>
+								<td nowrap="" class="toolText" title="Send someone an email with a link to this page."><a href="javascript: void 0;" onclick="window.open('./emailFriend.php?feature=/help_knowledgeBase_article.php&amp;lid=login_email', 'emailFriend', 'HEIGHT=525,WIDTH=426');">email this page</a></td>
+							</tr>
+							<tr><td><img src="./identity/vonage_uk/images/spacer.gif" border="0" width="3" height="3"></td>
+							</tr><tr align="left" valign="top">
+								<td><a href="#" onclick="return bookmarkPage(&quot;login_bookmark&quot;);"><img src="./images/grey/headertools_icon_bookmark.gif" width="13" height="13" border="0"></a></td>
+								<td nowrap="" class="toolText"><a href="#" onclick="return bookmarkPage(&quot;login_bookmark&quot;);" title="Save this page as a bookmark or favorite in your browser.">bookmark this page</a></td>
+							</tr>
+							<tr><td><img src="./identity/vonage_uk/images/spacer.gif" border="0" width="3" height="3"></td>
+							</tr><tr align="left" valign="top">
+								<td><a href="https://secure.vonage.co.uk/vonageuk-web/public/resetPassword.htm"><img src="./images/grey/headertools_icon_forgot.gif" width="13" height="13" border="0"></a></td>
+								<td nowrap="" class="toolText"><a href="https://secure.vonage.co.uk/vonageuk-web/public/resetPassword.htm" title="Click here if you have forgotten your Vonage web account password.">forgot password?</a></td>
+							</tr>
+						</tbody></table>
+						<!-- end Tools -->
+					
+					</td>
+					<td background="./images/grey/box_login_divider_bg.gif"><img src="./images/grey/box_login_divider_bg.gif" border="0"></td>
+					<td>
+					
+						<!-- Login -->
+						<table cellpadding="0" cellspacing="0" border="0" class="loginTable">
+							<tbody><tr align="middle">
+								<td align="left" nowrap="" colspan="5">Customer Login&nbsp;</td>
+							</tr>
+							<tr align="middle">
+								<td align="left" nowrap="" style="font-size: 8pt;">Username:&nbsp;</td>
+								<td align="left">&nbsp;</td>
+								<td align="left" nowrap="" style="font-size: 8pt;">Password:&nbsp;</td>
+							</tr>
+							<tr align="middle">
+								<td nowrap=""><input name="username" type="text" value="" class="input76"></td>
+								<td align="left">&nbsp;</td>
+								<td><input name="password" type="password" value="" class="input76"></td>
+								<td align="left">&nbsp;</td>
+								<td><input name="submit" type="image" src="./images/grey/password_go_tight.gif" value="Log In" border="0" onclick="noPop(&quot;login_go&quot;);" title="Enter your Vonage username and password and click here to log into your web account."></td>
+							</tr>
+						</tbody></table>
+						<!-- end Login -->
+					
+					</td>
+					<td background="./images/grey/box_login_right_bg.gif"><img src="./images/grey/box_login_right_bg.gif" border="0"></td>
+				</tr>
+				<tr>
+					<td background="./images/grey/box_login_left_bottom.gif"><img src="./images/grey/box_login_left_bottom.gif" border="0"></td>
+					<td background="./images/grey/box_login_bottom_bg.gif"><img src="./images/grey/box_login_bottom_bg.gif" border="0"></td>
+					<td background="./images/grey/box_login_divider_top.gif"><img src="./images/grey/box_login_divider_bottom.gif" border="0"></td>
+					<td background="./images/grey/box_login_bottom_bg.gif"><img src="./images/grey/box_login_bottom_bg.gif" border="0"></td>
+					<td background="./images/grey/box_login_divider_bottom.gif"><img src="./images/grey/box_login_divider_bottom.gif" border="0"></td>
+					<td background="./images/grey/box_login_bottom_bg.gif"><img src="./images/grey/box_login_bottom_bg.gif" border="0"></td>
+					<td background="./images/grey/box_login_right_bottom.gif"><img src="./images/grey/box_login_right_bottom.gif" border="0"></td>
+				</tr>
+			</tbody></table><!-- end Header tools/login panel -->
+			
+		</td>
+	</tr>
+	<tr>
+	
+		<td><img src="./identity/vonage_uk/images/spacer.gif" border="0" width="10" height="10"></td>
+	</tr>
+
+</tbody></table>
+<!-- Nav bar -->
+<table width="760" border="0" cellpadding="0" cellspacing="0" class="navBar">
+	<form action="./search_results.php" method="get"></form>
+	<tbody><tr>
+		<td><a href="index.php?lid=nav_index" onmouseover="swapNav(&quot;index_img&quot;, &quot;index&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;index_img&quot;, &quot;index&quot;, &quot;off&quot;)"><img name="index_img" src="./images/grey/nav_index_off.jpg" border="0"></a><a href="products.php?lid=nav_products" onmouseover="swapNav(&quot;products_img&quot;, &quot;products&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;products_img&quot;, &quot;products&quot;, &quot;off&quot;)"><img name="products_img" src="./images/grey/nav_products_off.jpg" border="0"></a><a href="services.php?lid=nav_services" onmouseover="swapNav(&quot;services_img&quot;, &quot;services&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;services_img&quot;, &quot;services&quot;, &quot;off&quot;)"><img name="services_img" src="./images/grey/nav_services_off.jpg" border="0"></a><a href="avail.php?lid=nav_avail" onmouseover="swapNav(&quot;avail_img&quot;, &quot;avail&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;avail_img&quot;, &quot;avail&quot;, &quot;off&quot;)"><img name="avail_img" src="./images/grey/nav_avail_off.jpg" border="0"></a><a href="features.php?lid=nav_features" onmouseover="swapNav(&quot;features_img&quot;, &quot;features&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;features_img&quot;, &quot;features&quot;, &quot;off&quot;)"><img name="features_img" src="./images/grey/nav_features_off.jpg" border="0"></a><a href="intrates.php?lid=nav_intrates" onmouseover="swapNav(&quot;intrates_img&quot;, &quot;intrates&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;intrates_img&quot;, &quot;intrates&quot;, &quot;off&quot;)"><img name="intrates_img" src="./images/grey/nav_intrates_off.jpg" border="0"></a><a href="https://secure.vonage.co.uk/vonageuk-subscribe/?lid=nav_signup" onmouseover="swapNav(&quot;signup_img&quot;, &quot;signup&quot;, &quot;over&quot;)" onmouseout="swapNav(&quot;signup_img&quot;, &quot;signup&quot;, &quot;off&quot;)"><img name="signup_img" src="./images/grey/nav_signup_off.jpg" border="0"></a><a href="help.php?lid=nav_help"><img src="./images/grey/nav_help_over.jpg" border="0"></a></td>
+				<td align="right">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><img src="./images/grey/nav_search.jpg" width="50" height="27"></td>
+					<td valign="center">&nbsp;<input name="search_string" class="input76" style="margin: 1px 0px 0px 0px;"></td>
+																				<td><input type="image" name="search" src="./images/grey/search_go.jpg" style="width: 21px; height: 27px;" hspace="0" vspace="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		 
+	</tr>
+	
+</tbody></table><!-- end Nav bar -->
+
+<!-- ENDNOSEARCH -->
+<style>
+
+.rightBorder {
+	border-right: solid #87888A 1px;
+}
+
+.bottomBorder {
+	border-bottom: solid #87888A 1px;
+}
+
+.helpNavigationBoxOn {
+	background-color: #FBEFCD;
+}
+
+.helpNavigationBoxOff {
+	
+}
+
+.helpNavigationBoxSearch {
+	background-color: #D4D4D4;
+	font-weight: bold;
+}
+
+.help10MostHelpfulTitle {
+	background-color: #FBEFCD;
+	font-weight: bold;
+}
+
+.help10MostHelpfulBox {
+	border: solid #87888A 1px;
+}
+
+.helpNewsBox {
+	background-color: #FBEFCD;
+	border: solid #87888A 1px;
+}
+
+.helpNewsTitle {
+	background-color: #FF9900;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.helpSectionTitle {
+	font-weight: bold;
+	color: #4482BB;
+}
+
+.helpPageTitle {
+	font-weight: bold;
+	color: #FF9900;
+	font-size: 16pt;
+}
+
+.helpInstallBox {
+	background-color: #FBEFCD;
+}
+
+.helpGreyRow {
+	background-color: #F5F5F5;
+}
+
+.helpWhiteRow {
+	background-color: #FFFFFF;
+}
+
+.helpHighlightGreyRow {
+	background-color: #FBEFCD;
+}
+
+.helpHighlightWhiteRow {
+	background-color: #FFFFE1;
+}
+
+.helpInstallPic {
+	border: solid #87888A 1px;
+}
+
+.helpHighlightedArticleBox {
+	background-color: #FBEFCD;
+}
+
+.helpArticleTitle {
+	font-weight: bold;
+}
+
+p {
+	margin-left: 0em;
+}
+
+</style>
+
+
+<script language="javascript1.2">
+	
+	function getOffsetLeft (el) {
+		var ol = el.offsetLeft;
+		while ((el = el.offsetParent) != null)
+			ol += el.offsetLeft;
+		return ol;
+	}
+	
+	function getOffsetTop (el) {
+		var ot = el.offsetTop;
+		while((el = el.offsetParent) != null)
+			ot += el.offsetTop;
+		return ot;
+	}
+
+	function findObj(id) {
+		if(document.all) {
+			obj = eval('document.all.' + id);
+		} else {
+			obj = document.getElementById(id);
+		}
+		return obj;
+	}
+	
+</script>
+<!-- Main table -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" class="mainTable">
+	<tbody><tr><td colspan="3"><img src="./images/inviso.gif" height="10" width="10" border="0"></td></tr>
+	<tr valign="top">
+		<!-- Main content -->
+		<td width="760">
+			<!-- Headline -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr valign="top" style="background-color: #FF9900;">
+					<td class="topHeadline" style="color: #FFFFFF;" colspan="3">Help</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" class="mainTable">
+	<tbody><tr valign="top">
+	
+
+		<!-- Main content -->
+		<td width="760">
+		
+			<!-- Headline -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td colspan="3"><img src="./images/inviso.gif" height="10" width="10" border="0"></td>
+				</tr>
+								<tr>
+					<td class="rightBorder" valign="top">
+						<table border="0" cellspacing="0" cellpadding="4">
+	<tbody><tr class="helpNavigationBoxOn">
+		<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+		<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php">Help Home</a></td>
+	</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=102&amp;nav=102">Vonage Basics</a></td>
+</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=6&amp;nav=6">Your Account</a></td>
+</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=2&amp;nav=2">Features</a></td>
+</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=5&amp;nav=5">Equipment</a></td>
+</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=3&amp;nav=3">Installation</a></td>
+</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=4&amp;nav=4">Troubleshooting</a></td>
+</tr>
+<tr>
+<td nowrap="" class="bottomBorder" width="1%"><img src="./images/arrow_high.gif" border="0"></td>
+<td nowrap="" class="bottomBorder" width="99%"><a href="/help_knowledgeBase_article.php?category=68&amp;nav=68">Glossary</a></td>
+</tr>
+	<tr class="helpNavigationBoxSearch">
+		<form action="/help_knowledgeBase_article.php" method="GET"></form>
+		<td nowrap="" colspan="2">
+			Search Help<br>
+			<input name="search" value="">
+												<input type="image" src="./images/grey/arrow.gif" border="0">
+		</td>
+		
+	</tr>
+	
+	</tbody></table>					</td>
+					<td><img src="./images/inviso.gif" height="10" width="10" border="0"></td>
+					<td width="100%" valign="top">
+						<table cellpadding="4" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td class="helpArticleTitle">Privacy Policy</td>
+	</tr>
+	<tr>
+		<td><img src="./images/inviso.gif" height="10" width="10" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0" class="fullWidth">
+				<tbody><tr valign="top">
+				
+
+					<!-- Content -->
+					<td class="mainContent"><h2>Vonage Privacy Policy</h2>
+<p><b>Please read this Privacy Policy carefully - this is a legal document.  Once you register with Vonage or sign up for any of Vonage's services in the UK you will be deemed to have read and consented to the uses of your Personal Information as set out in this Privacy Policy.  You will also be deemed to have read and accepted this Privacy Policy.</b></p>
+<h3>1.	Introduction</h3>
+<p>Vonage Limited, company number 05199171, and its group companies including Vonage Holdings Corp (<b>"Vonage"</b>) is strongly committed to respecting and protecting your privacy. Please carefully read the following Privacy Policy.  In order to ensure your privacy, Personal Information (as defined below) Vonage collects from you as a customer or potential customer or, visitor to its website (<b>"Customer(s)"</b> and/or <b>"you"</b>) located at <a href="http://www.vonage.co.uk">www.vonage.co.uk</a> (<b>"Site"</b>), is used only in the manner and for the purposes described in this Privacy Policy.</p>
+<p><b>"Personal Information"</b> includes any information which can identify an individual, presented in any form, such as: age, name, address (incl. email address), ID numbers, income, credit references and records, ethnic origin, and evaluations.</p>
+<p>This Privacy Policy expresses our approach to complying with the Data Protection laws that apply in the UK, and applies to the collection of your Personal Information via the Site.</p>
+<p>You must not register with Vonage or sign up to any Vonage service available via this Site if you do not accept this Privacy Policy and the Vonage Terms of Service.</p>
+<h3>2.	Your Personal Information and the purposes for which information is used</h3>
+<p>As a general principle, Vonage will identify the purposes for which personal information is collected at or before the time the information is collected.</p>
+<p><i>What information will Vonage collect</i>: When registering with Vonage you must provide Vonage with the following personal information:
+</p><ol type="a">
+	<li>your full name;
+	</li><li>your address;
+	</li><li>your email address;
+	</li><li>current phone number;
+	</li><li>credit card details;
+</li></ol><p></p>
+<p>Vonage may also collect Personal Information from such third parties as credit bureaus, employers or personal references or other third parties that represent that they have the right to disclose the information.</p>
+<p><i>Purposes</i>: This information and any other information you provide to Vonage via the Site, email or telephone is required in order to provide you with Vonage's services and the relevant equipment required to use Vonage's services.  Also to verify your credit status with third party credit agencies and to inform you of any new offers and services which may be of interest to you.</p>
+<p>Vonage collects Personal Information only for the purposes set out in this Privacy Policy, including to provide service(s) and/or products to its Customers:
+</p><ol type="a"><li>to maintain commercial relations and to communicate with its Customers (which will include, but not be limited to: billing, collection, support, advertising, promotion, account and credit card verification); </li>
+<li>to evaluate Customers' financial status and eligibility for credit; </li>
+<li>to identify Customer needs and/or preferences; </li>
+<li>to meet legal and regulatory requirements; </li>
+<li>to administer and manage its business operations; and </li>
+<li>as otherwise required or permitted by law.</li></ol><p></p>
+<h3>3.	Limiting use, disclosure and retention</h3>
+<p><i>Sharing and use of Personal Information</i>: The over-riding principles Vonage apply are these:
+</p><ol type="a"><li>Vonage, and (where relevant) our credit card processing agents or other third parties we share your information with, will not supply your personal data to a third party for commercial exploitation - thus, you can rest assured that we will not sell the lists of our Customers' email addresses to a third party; and</li>
+<li>The only circumstances in which we will provide any of your personal data to a third party for non-commercial purposes are those contained in this Privacy Policy.</li></ol><p></p>
+<p><i>Credit card information</i>:  There has been a lot of publicity about credit card security on the internet so Vonage has decided to operate a secure server, to process credit card payments.  Vonage encrypts Customers' credit or debit card information and authorise payment directly.  Vonage may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing Vonage's duties.
+</p><p><i>Changes in Vonage's business.</i> Personal Information may also be disclosed in connection with a sale, transfer or reorganisation of one or more of Vonage's businesses, in which case Vonage will require that any Personal Information will continue to be treated in accordance with this Privacy Policy or as otherwise permitted by law. </p>
+<p>Personal Information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of you, the individual or as otherwise required or permitted by law. Personal Information will be retained only as long as necessary for the fulfilment of those identified purposes or as otherwise required or permitted by law.</p>
+<p>Vonage may disclose a Customer's Personal Information to:
+</p><ol type="a"><li>another company for the provision of its services to that Customer; </li>
+<li>a person involved in the development, promotion, marketing or enhancement of Vonage services; </li>
+<li>a credit checking or collections agency; </li>
+<li>emergency services in an emergency situation; </li>
+<li>third party affiliates for administrative purposes (for example, Customer billing, support, marketing, etc.); and </li>
+<li>any other third party, upon receiving the consent of the Customer or as required by law. </li></ol><p></p>
+<p>Such disclosures may in some cases be to recipients outside of UK and European Economic Area.</p>
+<p>Vonage will retain Personal Information that has been used to make a decision about an individual long enough to allow the individual access to the information after the decision has been made, and, in the event of an access request or a challenge, long enough to exhaust any recourse an individual may have under the law.</p>
+<p>When Personal Information that previously has been collected is to be used for a purpose not previously identified, the new purpose will be identified prior to use. Unless otherwise permitted by applicable law, Vonage will obtain the consent of the individual before information is used for that new purpose.</p>
+<p>Occasionally, Vonage will communicate to you special bonus and new product offers that we think may be of value to you. Vonage may retain third parties to assist it in marketing such new or additional Vonage products and services to our Customers (and for such purpose may share Personal Information with such third parties) but will not otherwise disclose or make available any Personal Information to any third parties seeking to market their products to Vonage's Customers. </p>
+<p>All Vonage Customers have the right to choose not to participate in direct marketing of new products and services from Vonage. If you wish to opt-out of receiving targeted communications from Vonage in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at Vonage: c/o Privacy Officer, <b><a href="mailto:privacyofficer@vonage.co.uk" target="_blank">privacyofficer@vonage.co.uk</a></b></p>
+<p>The Site may provide hyperlinks, which are highlighted words or pictures within a hypertext document that may, when clicked, take you to a third party website not controlled by Vonage. Such hyperlinked third party websites may collect and disclose information in a different way to this Site. Vonage is not responsible for the collection, use, or disclosure of information collected through these third party web sites, and Vonage expressly disclaims any and all liability related to such collection, use, or disclosure. </p>
+<h3>4.	Consent to transfer of Personal Information Overseas</h3>
+<p><i>Place of processing</i>: The Personal Information held by Vonage is stored on and processed on computers situated in the United States and (for telephone support) the Philippines.</p>
+<p>The knowledge and consent of you, the individual is normally required for the transfer of Personal Information to a destination outside the EEA, subject to certain exceptions. In certain circumstances, Personal Information can be transferred to a destination outside the EEA without the knowledge and consent of the individual.</p>
+<p>Personal Information is transferred abroad for the purpose of performing contractual obligations owed by Vonage to you.</p>
+<p><i>Consent</i>: Where required, Vonage will generally seek consent for the use or transfer the information overseas at the time of collection. In certain circumstances, consent with respect to use or disclosure may be sought after the information has been collected but before use (for example, when Vonage wants to use information for a purpose not previously identified).</p>
+<p>You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Vonage will inform you of the implications of such withdrawal. In order to withdraw consent, you must provide notice to Vonage in writing.</p>
+<h3>5.	Limiting collection and cookies</h3>
+<p>The Site uses a feature of Internet web browsers called a cookie, which is a file that is sent to your browser from the Site's computers and stored on your computer's hard drive. A cookie assigns a unique identification code to your computer.  On this Site, cookies are used to track and maintain continuity of web sessions such as the subscription process or your viewing of your call details.  They also help us track visitors, conduct research, allow you to back click to earlier registration pages viewed by you and improve our content and services.</p>
+<p>Vonage's cookies do not collect Personal Information other than the IP address from which you are accessing the Site which may be considered Personal Information. Vonage only collects Personal Information if you knowingly and willingly provide such information.</p>
+<p>You may set your Internet web browser to notify you when you receive a cookie or to prevent cookies from being sent. If you prevent a cookie from being sent, you may limit the functionality of the Site for more information on disabling cookies please visit <a href="http://www.allaboutcookies.org/manage-cookies" target="_blank">www.allaboutcookies.org/manage-cookies</a>.</p>
+<h3>6.	Accuracy and removing your details</h3>
+<p>Personal Information will be updated as necessary for the purposes for which it is to be collected and used. </p>
+<p>Vonage will not routinely update Personal Information unless such a process is necessary to fulfil the purposes for which the information was collected.  Personal Information that is used on an ongoing basis, including information that is disclosed to third parties, will generally be accurate and up-to-date to the best of Vonage's knowledge. </p>
+<h3>7.	Safeguards and security</h3>
+<p>Vonage has invested and deployed a wide variety of technology and security features to ensure the privacy of personal and anonymous information collected by it. In addition, Vonage has implemented strict operations guidelines to safeguard Customer privacy at every level of its organisation. Unfortunately, no system is perfect; therefore, Vonage makes no representations or warranties with regard to the sufficiency of these security measures. </p>
+<p>Vonage shall not be responsible for any actual, indirect or consequential damages (or any other damages or liability of any kind whatsoever, whether as a result of negligence or otherwise) that result from a lapse in compliance with this Privacy Policy because of a security breach or technical malfunction. Nothing in this Privacy Policy shall however limit or exclude Vonage's liability in respect of death or personal injury caused by its negligence or for fraud.</p>
+<p>Vonage protects all Personal Information regardless of the format in which it is held. The methods of protection include:
+</p><ol type="a"><li>physical measures, such as restricted access to offices; </li>
+<li>organisational measures, such as security clearances and limiting access on a "need to know" basis; </li>
+<li>technological measures, such as the use of passwords and encryption. </li></ol><p></p>
+<h3>8.	Accountability</h3>
+<p>Vonage is responsible for Personal Information under its control and has designated an individual or individuals who are accountable for the organisation's compliance with this Privacy Policy.</p>
+<p>If you have any questions or concerns in relation to this Privacy Policy Vonage's Privacy Officer may be contacted at:</p>
+<p>Attention: Vonage Limited c/o Privacy Officer:  <b>e-mail: <a href="mailto:privacyofficer@vonage.co.uk">privacyofficer@vonage.co.uk</a></b></p>
+<h3>9.	Individual access</h3>
+<p><i>Access requests</i>: Upon written request, Vonage will inform you whether or not it holds Personal Information about you, and will provide you with the opportunity to review the Personal Information it holds and request the update or modification of the same or request its deletion in accordance with this Privacy Policy. Vonage may charge a £10.00 fee to cover its costs in providing such data to you.</p>
+<p><i>Disclosure for legal reasons</i>: Vonage reserves the right to communicate such of your Personal Information as it holds to third parties which seek the disclosure of it, and which make a legally compliant request for its disclosure. Vonage also reserves the right to communicate your Personal Information to the relevant authorities if we believe that you are involved in illegal activities or commit any breach of this Privacy Policy, which would justify such disclosure.</p>
+<p><i>Data protection information</i>: You can obtain further information about data protection laws in the UK by visiting the Information Commissioner's website at <a href="http://www.informationcommissioner.gov.uk">www.informationcommissioner.gov.uk</a>. You can search for our publicly available Data Protection Notification there, should you so wish.</p>
+<p>This Privacy Policy may be modified from time to time without notice. This policy was last updated on December 14, 2004.</p>
+					
+				</td></tr>
+			</tbody></table><!-- Subnav/Content --></td><!-- end Main content -->
+	</tr>
+</tbody></table>		</td>
+	</tr>
+</tbody></table>
+<br>
+<a href="javascript: history.back( );">&lt; Back</a>
+					</td>
+				</tr>
+			</tbody></table>
+			<!-- end Headline -->
+			
+	
+
+<!-- end Main table -->
+<br><!-- NOSEARCH -->
+
+<div class="footer">
+	<a href="http://www.vonage.com/corporate/index.php?conCORP=UK" target="_blank">About Us</a> 
+	&nbsp; I &nbsp;
+	<a href="./help_knowledgeBase_article.php?article=399&amp;category=0">Privacy Policy</a>
+	&nbsp; I &nbsp;
+	<a href="./features_terms_service.php">Terms Of Service</a>
+	&nbsp; I &nbsp;
+	<a href="./features_code_practice.php">Code of Practice</a>
+	&nbsp; I &nbsp;
+	<a href="./help_legal.php">Legal</a>
+	&nbsp; I &nbsp;
+	<a href="./sitemap.php">Site Map</a>
+	&nbsp; I &nbsp;
+	<a href="./newsletters.php?lid=footer_newsletters">Newsletters</a>
+	&nbsp; I &nbsp;
+	<a href="./help_contactUs.php">Contact Us</a>	
+	&nbsp; I &nbsp; 
+	<a href="http://www.dgm-uk.com/Affiliate-Marketing/BecomeAffiliate.htm" target="_blank">Affiliates</a>
+	
+	<br>
+
+</div>
+
+
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No.6,393,479B1 & 6,766,370. INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0103u";hbx.gn="a.vonage.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM5502113IED";//ACCOUNT NUMBER(S)
+hbx.pn="help_knowledgeBase_article";//PAGE NAME(S)
+hbx.mlc="";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="2";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="CMP";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+var ev1 = new _hbEvent("search");
+ev1.keywords="keyword";
+ev1.results="numberOfResults";
+ev1.attr1="";
+ev1.attr2="";
+ev1.attr3="";
+ev1.attr4="";
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION.
+</script>
+<script language="javascript1.1" defer="" src="/hitbox/hbx.js"></script>
+<!--END WEBSIDESTORY CODE--><img src="http://view.atdmt.com/VON/view/vngkxvst0010000002von/direct/01/" width="1" height="1">  
+
+
+<!-- ENDNOSEARCH -->
+</body></html>
