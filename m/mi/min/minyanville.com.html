@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the minyanville.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615173312id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minyanville.com privacy policy that was archived on 2006-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061218061226id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Minyanville </title>
@@ -25,12 +25,17 @@ function bOff(obj){
 
 
 function popupViewer(index) {
-	if (index==1) {
-		window.open("http://image.minyanville.com/flash/ourtown/index.html","Book","width=800,height=600,resizable=yes,toolbar=no,scrollbars=no");
-	} else if(index==2) {
-		window.open("http://image.minyanville.com/flash/ourtown/scenicPopup.html","Viewer","width=640,height=400,resizable=yes,toolbar=no,scrollbars=no");
-	}
+if (index==1) {
+	window.open("http://image.minyanville.com/flash/ourtown/index.html","Book","width=800,height=600,resizable=yes,toolbar=no,scrollbars=no");
 }
+else if(index==2) {
+	window.open("http://image.minyanville.com/flash/ourtown/scenicPopup.html","Viewer","width=640,height=400,resizable=yes,toolbar=no,scrollbars=no");
+}
+else if(index==3) {
+	window.open("http://image.minyanville.com/flash/buzzpopup/buzzPopup.html","Buzz","width=340,height=703,resizable=no,toolbar=no,scrollbars=no");
+}
+}
+
 
 function print(articleid) {
 	window.open("../articles/print.php?a="+articleid,"print","width=600,height=550,resizable=yes,toolbar=no,scrollbars=yes");
@@ -86,11 +91,11 @@ function showhidediv(id) {
 	}
 }
 
+
 </script>
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/minyanfeed.php">
 <link rel="stylesheet" href="/_style.htm?fsize=0&amp;mvpopup=&amp;pfx=&amp;title=" fontsize0"="">
-
 <!--<link rel="stylesheet" href="/_style.htm?fsize=0&mvpopup=&pfx=" title="fontSize0">-->
 <!--<link rel="alternate stylesheet" href="/_style.htm?fsize=1&mvpopup=&pfx=" title="fontSize1">-->
 <!--<link rel="alternate stylesheet" href="/_style.htm?fsize=2&mvpopup=&pfx=" title="fontSize2">-->
@@ -112,21 +117,21 @@ TD.bond{
 	}
 
 TD.menu-blue{
-	width:133;
-	height:23;
+	width:133px;
+	height:23px;
 	padding:4px 0px 4px 8px;
 	text-align:left;
 	vertical-align:middle;
-	background: url(http://image.minyanville.com/images/blue_bg.gif) left center no-repeat;
+	background: url(https://image.minyanville.com/images/blue_bg.gif) left center no-repeat;
 	}
 
 TD.menu-brown{
-	width:133;
-	height:23;
+	width:133px;
+	height:23px;
 	padding:4px 0px 4px 8px;
 	text-align:left;
 	vertical-align:middle;
-	background: url(http://image.minyanville.com/images/brown_bg.gif) left center no-repeat;
+	background: url(https://image.minyanville.com/images/brown_bg.gif) left center no-repeat;
 	}
 
 .menu-link{
@@ -162,8 +167,42 @@ TD.menu-spacer-small{
 
 </style>
 
+<!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters))
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
 </head>
-<body style="padding-right:0px; margin-right:0px;" onload="initScroll(9,470);" onunload="stopScroll();">
+<body class="size3" style="padding-right:0px; margin-right:0px;">
 
 
 
@@ -172,18 +211,22 @@ TD.menu-spacer-small{
 <!-- BEGIN LOGO/BANNER area -->
 	<table id="header" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-	<td width="30">&nbsp;</td>
-	<td width="188"><a href="/"><img src="http://image.minyanville.com/images/logo.gif" width="188" height="65" border="0" alt=""></a></td>
+	<td width="17" height="85">&nbsp;</td>
+	<td width="237" rowspan="2" valign="top">
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="237" height="110" id="logo_large" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="/images/logo_large.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="bgcolor" value="#ffffff"><embed src="/images/logo_large.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="237" height="110" name="logo_large" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+	<!-- Commented out by Rich <a href="/"><img src="/images/logo_large.png" alt="" width="237" height="110" border="0" /></a> -->
+	</td>
 	<td rowspan="2" class="banner">
 	
 		  	<a href="http://www.thomson.com/financial" target="blank"><img src="/images/Thomson_728x90_white.gif" border="0" alt=""></a>
 
-		  	<!--<a href="http://www.thomson.com/financial" target="blank"><img src="/images/Thomson_728x90_white.gif" border="0" alt="" /></a> -->
-	</td>
+		  	<!--<a href="http://www.thomson.com/financial" target="blank"><img src="/images/Thomson_728x90_white.gif" border="0" alt="" /></a> -->	</td>
 	</tr>
 	<tr>
-	<td><img src="http://image.minyanville.com/images/left_menu_top.gif" width="12" height="31" border="0" alt=""></td>
-	<td><img src="http://image.minyanville.com/images/slogan.gif" width="188" height="30" border="0" alt=""></td>
+	<td height="31" valign="bottom"><img src="https://image.minyanville.com/images/left_menu_top.gif" width="12" height="31" border="0" alt=""></td>
 	</tr>
 	</tbody></table>
 
@@ -196,43 +239,39 @@ TD.menu-spacer-small{
 	<table id="content-container" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	<!-- begin left area/menu -->
-	<td id="content-l">
-	    <img src="http://image.minyanville.com/images/left_menu_top1.gif" width="12" height="23" border="0" alt=""><br>
+	<td valign="top" id="content-l">
+	    <img src="https://image.minyanville.com/images/left_menu_top1.gif" width="12" height="23" border="0" alt=""><br>
 				  	<table width="141" cellpadding="0" cellspacing="0" border="0">
 		  	<tbody><tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
 				<td class="menu-blue"><a href="/register/" class="menu-link">JOIN US</a></td>
 			</tr>
 			<tr>
 				<td colspan="2" class="menu-spacer-small"></td>
 			</tr>
 			<tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
-				<!-- <td class="menu-blue"><a href="#" class="menu-link" onClick=window.open("/gazette/buzzbanter/home.htm","Banter","width=300,height=500,resizable=yes,toolbar=no,scrollbars=no")>BUZZ &amp; BANTER</a></td> -->
-
-				<td class="menu-blue"><a href="#" class="menu-link" onclick="window.open(&quot;/gazette/buzzbanter/home.htm&quot;,&quot;Banter&quot;,&quot;width=300,height=500,resizable=yes,toolbar=no,scrollbars=no&quot;)">BUZZ &amp; BANTER</a></td>
-
-
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-blue"><a href="/buzzlanding/" class="menu-link" onclick="javascript:banterWindow=window.open('/buzz/buzz.php','Banter','width=350,height=708,resizable=yes,toolbar=no,scrollbars=no');banterWindow.focus();top.location='/buzzlanding/';return false;">BUZZ &amp; BANTER</a></td>
 			</tr>
 			<tr>
 				<td colspan="2" class="menu-spacer"></td>
 			</tr>
 
 		  	<tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
 				<td class="menu-blue"><a href="/news_views/" class="menu-link">NEWS &amp; VIEWS</a></td>
 			</tr>
 		  </tbody></table>
 		<ul id="left-nav">
 		  <li class="submenu-blue">
 		    <ul class="ul-submenu">
-			  <li class="submenu"><p><a href="/personalfinance/">Personal Finance</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
-			  <li class="submenu"><p><a href="/technicals/">Technicals</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
-			  <li class="submenu"><p><a href="/economy/">Economy</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
-			  <li class="submenu"><p><a href="/derivatives/">Derivatives</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
-			  <li class="submenu"><p><a href="/fundamentals/">Fundamentals</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
-			  <li class="submenu"><p><a href="/tradingradar/">Trading Radar</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
-			  <li class="submenu"><p><a href="/pointfigure/">Point &amp; Go Figure</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/personalfinance/">Personal Finance</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/technicals/">Technicals</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/economy/">Economy</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/derivatives/">Derivatives</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/fundamentals/">Fundamentals</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/tradingradar/">Trading Radar</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/articles/index.php?a=11652">Point &amp; Go Figure</a><img class="separator" src="https://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
 			  <li class="submenu"><p><a href="/retailroundup/">Retail Roundup</a></p></li>
 			</ul>
 		 </li>
@@ -241,7 +280,7 @@ TD.menu-spacer-small{
 
 		  	<table width="141" cellpadding="0" cellspacing="0" border="0">
 		  	<tbody><tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
 				<td class="menu-blue"><a href="/gazette/bios.htm" class="menu-link">PROFESSORS</a></td>
 			</tr>
 			<tr>
@@ -249,7 +288,7 @@ TD.menu-spacer-small{
 			</tr>
 
 			<tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
 				<td class="menu-brown"><a href="/university/" class="menu-link">UNIVERSITY OF MV</a></td>
 			</tr>
 			<tr>
@@ -257,7 +296,7 @@ TD.menu-spacer-small{
 			</tr>
 
 		  	<tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
 				<td class="menu-brown"><a href="/library/search.htm" class="menu-link">ARCHIVE</a></td>
 			</tr>
 			<tr>
@@ -265,34 +304,28 @@ TD.menu-spacer-small{
 			</tr>
 
 			<tr>
-				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="bond"><img src="https://image.minyanville.com/images/bond.gif"></td>
 				<td class="menu-brown"><a href="/library/dictionary.htm" class="menu-link">DICTIONARY</a></td>
 			</tr>
 		  </tbody></table>
 
-
-
-
-
         <ul id="left-nav">
-
-
 		  <li class="mail"><p><a href="/mailbag/">Minyan <br>Mailbag</a></p></li>
 		  </ul>
 
 		  <div id="town-area">
 		  <ul id="left-nav">
-		  <li class="main-slate"><a href="#" class="menu-link" onclick="window.open(&quot;http://image.minyanville.com/flash/ourtown/index.html&quot;,&quot;ourTown&quot;,&quot;width=800,height=600,resizable=yes,toolbar=no,scrollbars=no&quot;)"><p style="text-decoration:none;">OUR <br>TOWN</p></a></li>
+		  <li class="main-slate"><p><a href="#" class="menu-linkTown" onclick="window.open(&quot;http://image.minyanville.com/flash/ourtown/index.html&quot;,&quot;Book&quot;,&quot;width=800,height=600,resizable=yes,toolbar=no,scrollbars=no&quot;)">OUR <br>TOWN</a></p></li>
 		  <li class="slate"><p><a href="/company/events.php">EVENTS</a></p></li>
 		  <li class="chain">&nbsp;</li>
 		  <li class="slate"><p><a href="/company/press.htm">PRESS</a></p></li>
 		  <li class="chain">&nbsp;</li>
 		  <li class="slate"><p><a href="/shops/">SHOPPING</a></p></li>
 		  <li class="cart">0 items in cart</li>
-
+		  <li><span style="padding-left:8px;">    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="135" height="220" id="scenicNav" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/flash/scenicNav.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="bgcolor" value="#ffffff"><embed src="/flash/scenicNav.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="135" height="220" name="scenicNav" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></span></li>
 		  <li class="adv">
 		  
-		  	<img class="dma" src="http://image.minyanville.com/images/mv_town_tall_sign.gif" alt=""></li>
+		  	<img class="dma" src="https://image.minyanville.com/images/mv_town_tall_sign.gif" alt=""></li>
 
 		  
 		  </ul>
@@ -333,7 +366,7 @@ TD.menu-spacer-small{
 					<table cellspacing="0" cellpadding="0" border="0" summary="login"><tbody><tr>
 										<td class="lt"><input type="text" size="15" maxlength="255" style="text-align:left;" name="email" onfocus="javascript:textboxToEmail(this)" value="email" id="email" title''=""></td>
 					<td class="lt"><input type="text" size="15" name="password" maxlength="255" style="text-align:left;" onfocus="javascript:textboxToPassword(this)" value="password" id="password"></td>
-					<td class="lt"><input type="image" id="loginbutton" src="http://image.minyanville.com/images/btn_login.gif" alt="" disabled="true"></td>
+					<td class="lt"><input type="image" id="loginbutton" src="https://image.minyanville.com/images/btn_login.gif" alt="" disabled="true"></td>
 										</tr></tbody></table>
 		  </form>
 		  </td><td class="search">
@@ -343,7 +376,7 @@ TD.menu-spacer-small{
 			<td class="lm"><p>SEARCH</p></td>
 
 			<td class="lt"><input type="text" size="15" style="text-align:left" name="q"></td>
-			<td class="lt"><input type="image" src="http://image.minyanville.com/images/btn_go.gif" width="42" height="19" alt="">
+			<td class="lt"><input type="image" src="https://image.minyanville.com/images/btn_go.gif" width="42" height="19" alt="">
 
 			</td>
 			</tr></tbody></table>
@@ -353,21 +386,25 @@ TD.menu-spacer-small{
 		  
 
 		  <td>
-		  	<input type="checkbox" style="border:none;" name="setcookie" id="autologinbox"><img src="http://image.minyanville.com/space.gif" height="1" width="5" border="0">		  	<label style="font-size:xx-small" for="autologinbox">Remember my Member ID and password on this computer.</label>
+		  	<input type="checkbox" style="border:none;" name="setcookie" id="autologinbox"><img src="https://image.minyanville.com/space.gif" height="1" width="5" border="0">		  	<label class="xxsmallfont" for="autologinbox">Remember my Member ID and password on this computer.</label>
 
 		  	<a href="/register">REGISTER</a>&nbsp;&nbsp;&nbsp;<a href="/register/forgotpass.htm">FORGOT PASSWORD?</a>
 		  </td>
 
 
-		  		  <td valign="bottom"><br>
+		  
+		  <td valign="bottom">
 		 		 </td>
 		 </tr>
-
+		 <tr>
+		 <td>
+		 </td>
+		 </tr>
 		  </tbody></table>
 
 		</div>
 
-	<!-- END LOGIN AND SEARCH area -->
+			<!-- END LOGIN AND SEARCH area -->
 	
 <table id="home-news" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
 		<td width="10"><img src="../images/lc.gif" width="10" alt=""></td>
@@ -511,10 +548,12 @@ a page or image from Minyanville.com servers. <br><br>	<br>
 
 	<!-- begin footer area -->
 		<div id="footer">
-		
-		  <p><a href="/company/">About us</a> <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/contact.htm">Contact Us</a> 
-		  <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/help.htm">Help</a> <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/privacy.htm">Privacy Policy</a> 
-		  <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/substerms.htm">Subscription and Terms of Use</a> <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/disclaimers.htm">Disclaimers</a></p>
+
+		  <p><a href="/company/">About us</a> <img src="https://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/mediakit/Minyanville_2006_Media_Kit.pdf">Advertise</a> 
+		  <img src="https://image.minyanville.com/images/footer_square.gif" alt=""> 
+<a href="/company/contact.htm">Contact Us</a> 
+		  <img src="https://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/help.htm">Help</a> <img src="https://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/privacy.htm">Privacy Policy</a> 
+		  <img src="https://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/substerms.htm">Subscription and Terms of Use</a> <img src="https://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/disclaimers.htm">Disclaimers</a></p>
 		  <p>©2006 Minyanville Publishing and Multimedia, LLC.  All Rights Reserved</p> <a href="/rss/"><img src="/rss/rss-logo.gif" border="0"></a>
 			
 		</div>
@@ -524,96 +563,16 @@ a page or image from Minyanville.com servers. <br><br>	<br>
 	
 	<!-- right area/portlets -->
 	<td id="content-r">
-	<img src="http://image.minyanville.com/images/portlet_realtime_top.gif" width="220" border="0" height="75" alt=""><div style="width:220px;"><div id="portlet-realtime">
-	    <div id="portlet-realtime-main">
-			<div id="BANTER">
-				 <div id="BUZZ0" onmouseover="stopScroll();DisplayMsg('headline 1');return document.ReturnValue" onmouseout="startScroll();DisplayMsg(' ');return document.ReturnValue">
-				
-				 </div>
-				
-									<div id="BUZZ1">
-						<h5>Kevin Depew</h5>
-						<h6>1:32 pm</h6>
-						<p>
-						Mini-Minyan Mailbag
-...						
-						</p>
-					</div>
-					
-									<div id="BUZZ2">
-						<h5>Kevin Depew</h5>
-						<h6>1:21 pm</h6>
-						<p>
-						Mini-Minyan Mailbag
-...						
-						</p>
-					</div>
-					
-									<div id="BUZZ3">
-						<h5>Todd Harrison</h5>
-						<h6>1:13 pm</h6>
-						<p>
-						Apocalypse Now?
-Tha...						
-						</p>
-					</div>
-					
-									<div id="BUZZ4">
-						<h5>MV News</h5>
-						<h6>1:08 pm</h6>
-						<p>
-						Duuuude, pass the ch...						
-						</p>
-					</div>
-					
-									<div id="BUZZ5">
-						<h5>Kevin Depew</h5>
-						<h6>12:58 pm</h6>
-						<p>
-						Mini-Minyan Mailbag
-...						
-						</p>
-					</div>
-					
-									<div id="BUZZ6">
-						<h5>Todd Harrison</h5>
-						<h6>12:48 pm</h6>
-						<p>
-						I've got no place le...						
-						</p>
-					</div>
-					
-									<div id="BUZZ7">
-						<h5>MV News</h5>
-						<h6>12:39 pm</h6>
-						<p>
-						A Ford...aww thanks ...						
-						</p>
-					</div>
-					
-									<div id="BUZZ8">
-						<h5>Jason Roney</h5>
-						<h6>12:34 pm</h6>
-						<p>
-						Some quick numbers.....						
-						</p>
-					</div>
-					
-									<div id="BUZZ9">
-						<h5>Kevin Depew</h5>
-						<h6>12:13 pm</h6>
-						<p>
-						Dress Rehearsal
-Min...						
-						</p>
-					</div>
-					
-								
-			 </div>
-		</div>
-		<div id="portlet-realtime-footer"><a href="/register/" class="whiteLink">SUBSCRIBE TO GET THE BUZZ &amp; DOWNLOAD THE APPLICATION</a></div>
-	  </div></div>
-	  
+	
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="220" height="380" id="buzzPortlet" align="middle">
+<param name="allowScriptAccess" value="always">
+<param name="movie" value="http://image.minyanville.com/flash/buzzportlet/buzzportlet.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<embed src="http://image.minyanville.com/flash/buzzportlet/buzzportlet.swf" quality="high" bgcolor="#ffffff" width="220" height="380" name="buzzPortlet" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+		
+	 
 	   <div id="thePortlets">
 		  					<a href="/gazette/bios.htm" style="padding:0px;margin:0px;"><img style="padding:0px;margin:0px;" src="/images/portlet_profiles_top.gif" alt=""></a><br>
 						  		<div id="portlet-profiles">
@@ -623,19 +582,19 @@ Min...
     <tbody>
         <tr>
             <td>
-            <div class="profiles-frame"><img width="78" height="78" border="0" src="/assets/bios/Bernie_Schaeffer.jpg" alt=""></div>
+            <div class="profiles-frame"><img width="78" height="78" border="0" alt="" src="/assets/bios/John_Succo.jpg"></div>
             </td>
             <td class="title">
             <p class="lines">&nbsp;</p>
-            <p class="name">Bernie Schaeffer<br></p>
+            <p class="name">John Succo<br></p>
             <p class="lines">&nbsp;</p>
             </td>
         </tr>
     </tbody>
 </table>
 <br>
-<div>Bernie Schaeffer is Chairman and CEO of Schaeffer's Investment Research, Inc. and author of <em><font size="2" color="#333333">The Option Advisor: Wealth-Building Techniques Using Equity and Index Options</font></em>. Mr. Schaeffer has edited the <em><font size="2" color="#333333">Option Advisor</font></em> newsletter since its inception in 1981, and it has since grown to be the nation's leading options newsletter. He also contributed a chapter on sentiment analysis to the Bloomberg Press book, <em><font size="2" color="#333333">New Thinking in Technical Analysis: Trading Models from the Masters</font></em>. In 2003 Bernie penned a chapter on Technical and Sentiment Trading for the Bloomberg Press book, <em><font size="2" color="#333333">Investing Under Fire: Winning Strategies from the Masters for the Bulls, Bears, and the Bewildered.<br><br></font></em>Mr. Schaeffer's award-winning website, <a href="http://www.schaeffersresearch.com/" target="_blank"><font size="2" color="#04517a">SchaeffersResearch.com</font></a>, provides daily market analysis and commentary, sentiment research and education, and trading tools for stock and option investors. Both Forbes magazine and Barron's have accredited the site as the top options website.<br><br>Mr. Schaeffer often contributes option columns and market commentaries to various magazines and websites such as CBSMarketWatch.com. He is a CNBC Market Maven and regularly appears on CNN, The Nightly Business Report, Bloomberg Television, Fox News Channel and has also been interviewed on <em><font size="2" color="#333333">Wall Street Week</font></em> with <em><font size="2" color="#333333">Fortune</font></em> and <em><font size="2" color="#333333">ABC's World News Now</font></em>. His views on the stock market and the economy are regularly quoted in <em><font size="2" color="#333333">The Wall Street Journal, The New York Times, Business Week, Investor's Business Daily, </font></em>and <em><font size="2" color="#333333">USA TODAY.</font></em> Additionally, he has been the subject of "Q&amp;A" interviews in <em><font size="2" color="#333333">Barron's</font></em> and <em><font size="2" color="#333333">The New York Times</font></em>. <br><br>He welcomes your feedback at <a href="mailto:Bernie@minyanville.com"><font size="2" color="#04517a">Bernie@minyanville.com</font></a><br><br></div>
-<br> <a href="http://minyanville.com/library/search.htm?search=Article&amp;advanced=1&amp;q=&amp;mo=&amp;day=&amp;year=&amp;contrib_id=47&amp;category_id=">Check out Bernie Schaeffer's content</a>. <br><a href="http://www.minyanville.com/gazette/bios.htm"><br>Meet more Professors</a>.<br><br></div><br>
+<div>John Succo graduated from Indiana University with a graduate degree in finance concentrating in option pricing theory in 1984. He worked at Morgan Stanley from 1984 to 1992 where he was influential in the growth and expansion of the institutional equity derivatives market. As a principal and head of index and structured product trading, he helped develop dispersion methodology in trading and managing derivative risks, which greatly increased the liquidity and consequently the application of derivative products in asset-liability management. <br><br>In 1992 he became Managing Director in charge of global equity derivative trading at Paine Webber Inc. In 1996 he joined Lehman Brothers and ran derivative trading until 1998. He then joined Alpha Investments of New York heading risk management and as a director of the Investment Management Committee, managing internal and external capital investing in hedge funds. In 2001 he jointly founded Vicis Capital, a multi-strategy hedge fund where he manages overall risk and a portfolio concentrating in volatility extraction by opportunistically trading derivative instruments. <br><br>He welcomes your comments and feedback at <a href="mailto:Succo@minyanville.com"><font size="2" color="#04517a">Succo@minyanville.com</font></a><br><br></div>
+<br> <a href="http://minyanville.com/library/search.htm?search=Article&amp;advanced=1&amp;q=&amp;mo=&amp;day=&amp;year=&amp;contrib_id=16&amp;category_id=">Check out John Succo's content</a>. <br><a href="http://www.minyanville.com/gazette/bios.htm"><br>Meet more Professors</a>.<br><br></div><br>
 
 								</div>
 				</div>
@@ -643,14 +602,14 @@ Min...
 						  		<div id="portlet-univ">
 				<div id="portlet-univ-main">
 									<div align="center"><strong><font size="3"><font size="3" color="#772700">Learning &amp; Earning</font></font></strong><br></div>
-<br>At the new <a href="http://www.minyanville.com/university">University of Minyanville</a> you'll find<font face="georgia, times new roman, times"><span style="font-size: 9pt; font-family: Arial; color: rgb(51, 51, 51);"> educational programs grounded in the daily commentary of our       professors and the Minyanville Body of Knowledge. </span><span style="font-size: 9pt; font-family: Arial; color: rgb(51, 51, 51);">       <br>       <br>       Also find out how you can link your institution to the UMV syndicate of       schools.<br><br></span></font><br>
+<br>At the new <a href="http://www.minyanville.com/university">University of Minyanville</a> you'll find educational programs grounded in the daily commentary of our       professors and the Minyanville Body of Knowledge.        <br>       <br>       Also find out how you can link your institution to the UMV syndicate of       schools.<br><font face="georgia, times new roman, times"><span style="font-size: 9pt; font-family: Arial; color: rgb(51, 51, 51);"><br></span></font><br>
 
 								</div>
 				</div>
 									<a href="/library/search.htm" style="padding:0px;margin:0px;"><img style="padding:0px;margin:0px;" src="/images/portlet_archive_top.gif" alt=""></a><br>
 						  		<div id="portlet-archive">
 				<div id="portlet-archive-main">
-									<div align="center"><font size="2">Search nearly 10,000 articles and over 45,000 real-time Buzz and Banter posts </font><a href="http://www.minyanville.com/library/search.htm"><font size="2">in the Minyanville Archive</font></a><font size="2">.</font><br></div>
+									<div align="center"><font size="2">Search over 10,000 articles and 50,000 real-time Buzz and Banter posts </font><a href="http://www.minyanville.com/library/search.htm"><font size="2">in the Minyanville Archive</font></a><font size="2">.</font><br></div>
 <font size="3"><br></font><br>
 
 								</div>
@@ -664,27 +623,43 @@ Min...
 <div align="center"><a href="http://www.marketwatch.com/commerce/RealityCheck.asp?siteid=mktw&amp;dist=LAtabstore">Reality Check</a><br></div>
 <div align="center"><a href="http://www.biotechmonthly.com">Biotech Monthly</a><br></div>
 <div align="center"><a href="http://www.insideoptions.com">Inside Options</a><br></div>
-<div align="center"><a href="http://www.bullseyeresearch.com">Bulls Eye Research</a><br></div>
 <div align="center"><a href="http://www.schaeffersresearch.com/">Schaeffer Investment Research</a> <br></div>
 <div align="center"><a href="http://www.globaltechstocks.com">Global Tech Stocks</a><br></div>
-<div align="center"><a href="http://www.mshowells.com ">M.S. Howell's Co.<br></a><a href="http://weldononline.com/">Weldon Financial</a><br><br></div><br>
+<div align="center"><a href="http://www.mshowells.com ">M.S. Howell's Co.<br></a><a href="http://weldononline.com/">Weldon Financial</a><br><a href="http://www.tuttleassetmanagement.com">Tuttle Asset Management</a><br></div><br>
 
 								</div>
 				</div>
-					  </div>
-	</td>
+				<!-- added this ad code inside the 'div' enclosure -->
 	
+	<!--<a href="http://www.thomson.com/financial" target="blank"><img src="/images/Thomson_728x90_white.gif" border="0" alt="" /></a> -->
+	</div></td>
+<!-- end of added advertising code -->
+	  
+
+
+	
+
+<!-- this is where I removed the </tr> tag and added the ad code -->
+
 	
 	</tr>
-	</tbody></table>
 
 
 
+</tbody></table>
+
+	
+	
 
 
-
-<script src="/__utm.js" languge="JavaScript" type="text/javascript"></script>
-<script src="/_externalLinks.js" languge="JavaScript" type="text/javascript"></script>
+<script src="/__utm.js" language="JavaScript" type="text/javascript"></script>
+<script src="/_externalLinks.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct="UA-3022-2";
+urchinTracker();
+</script>
 </div> <!-- end main container that began on _header.html) -->
 
 
