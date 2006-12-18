@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the factiva.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615045553id_/http%3A//www.factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the factiva.com privacy policy that was archived on 2006-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061218012648id_/http%3A//factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="keywords" content="Factiva, content management,  Information Warfare, Military Intelligence, Knowledge Management, business intelligence, competitive, information, global news, knowledge network, industry research, taxonomy, intranet, solutions, indexing, company information, technical consulting, Dow Jones and Reuters, Wall Street Journal">
+<meta name="keywords" content="business news, financial news, industry research, business intelligence solution, competitive intelligence solution, industry news, marketing intelligence, market research, taxonomy, company news, sales leads, corporate research, company profiles, executive names, knowledge management, information architecture, PR measurement, media intelligence, corporate reputation, information management">
 <meta name="robots" content="All">
-<meta name="description" content="Factiva offers business and knowledge management solutions, and competitive intelligence.&nbsp; We help organisations improve their decision-making by providing web based global news and information management">
+<meta name="description" content="Factiva offers a collection of business intelligence and news sources, along with the content delivery and information management tools enterprises need to find and use information more effectively. Factiva's broad collection of targeted products includes solutions for media monitoring, sales lead generation, taxonomy, credit risk management and more.">
 <meta name="MS.LOCALE" content="EN-US">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Author" content="Factiva Web Team">
@@ -27,6 +27,7 @@ function BrowserData()
 	this.NS5 = false;
 	this.isNav5 = false;
 	this.IE6 = false;
+	this.IE7 = false;
 	this.IE3 = false;
 	this.IE4 = false;
 	this.IE5 = false;
@@ -35,6 +36,7 @@ function BrowserData()
 	this.doesActiveX = false;
 	this.NS4 = false;
 	this.isIE6 = false;
+	this.isIE7 = false;
 	this.isMac = false;
 	this.isIE4 = false;
 	this.isIE5 = false;
@@ -73,11 +75,11 @@ ns6_index=0
 	if (source.className=="folding"){
 		var source2=document.getElementById&&!document.all? source.parentNode.childNodes:source.parentElement.all
 		if (source2[2+ns6_index].style.display=="none"){
-			source2[0].src="http://" + 'factiva.com' +"/minus.gif"
+			source2[0].src="http://" + 'www.factiva.com' +"/minus.gif"
 			source2[2+ns6_index].style.display=''
 		}
 		else{
-			source2[0].src="http://" + 'factiva.com' +"/plus.gif"
+			source2[0].src="http://" + 'www.factiva.com' +"/plus.gif"
 			source2[2+ns6_index].style.display="none"
 		}
 	}
@@ -404,7 +406,7 @@ menuOutProp[15] = new mProperties("contact_top","#ffffff",125);
 				<a class="loginDropdown" target="_blank" href="http://www.factiva.com/cn">Simplified Chinese</a>&nbsp;<span class="footerBtm"> | </span>&nbsp;
 				</td>
 				<td>
-				<a class="loginDropdown" target="_blank" href="http://www.factiva.com/zhcn">Traditional Chinese</a>&nbsp;<span class="footerBtm"> | </span>&nbsp;
+				<a class="loginDropdown" target="_blank" href="http://www.factiva.com/tcn">Traditional Chinese</a>&nbsp;<span class="footerBtm"> | </span>&nbsp;
 				</td>
 				<td>
 				<a class="loginDropdown" target="_blank" href="http://www.factiva.ru">Russian</a>
@@ -419,7 +421,9 @@ menuOutProp[15] = new mProperties("contact_top","#ffffff",125);
 		<td width="14%" rowspan="2" valign="bottom"><a href="/index.asp"><img src="/images/en/factiva_logo.gif" width="160" height="75" border="0" alt="Factiva.com Homepage"></a>
 		</td><td height="49" colspan="2" align="left" valign="bottom">
 				
-					<table width="700" border="0" cellpadding="0" cellspacing="1" id="Table6">
+					<map name="FindOutMore_Map">
+					<area shape="rect" alt="" coords="384,0,437,24" href="http://factiva.com/salesnumbers/index.asp?node=menuElem1530">
+					</map><table width="700" border="0" cellpadding="0" cellspacing="1" id="Table6">
 					<tbody><tr>
 					<td width="16">&nbsp;</td>
 					<td width="108" valign="bottom"><div id="div10" align="center">
@@ -434,8 +438,14 @@ menuOutProp[15] = new mProperties("contact_top","#ffffff",125);
 					<img alt="Click on the Factiva product name to log in" src="/images/home/2006/Login-To-Factiva.gif" width="101" height="25" border="0"></a>
 					</div>
 					</td>
-					<td width="168" align="right"><div align="right"><img src="/images/home/2006/FindOutMore.gif"></div></td>
-					<td width="309" align="left"><div align="left"><a href="http://factiva.com/salesnumbers/index.asp?node=menuElem1530"><img src="/images/home/2006/Outside-the-US.gif" width="81" height="25" border="0" alt="Sales Numbers - Outside USA"></a></div></td>
+					<td width="168" align="right"><div align="right">
+					<img src="/images/home/2006/FindOutMore.gif" width="446" alt="Factiva Sales Numbers - Outside USA" height="25" border="0" usemap="#FindOutMore_Map">
+					</div></td>
+					<!--<td width="309" align="left"><div align="left">
+					<a href="http://factiva.com/salesnumbers/index.asp?node=menuElem1530">
+					<img src="/images/home/2006/Outside-the-US.gif" width="81" height="25" 
+					border="0" alt="Sales Numbers - Outside USA" /></a></div></td>-->
+					
 					</tr></tbody></table>
 			    
 
@@ -491,7 +501,7 @@ function openEmailWindow()
 }
 </script>
 </td>
-		<td width="1%" valign="top" background="http://factiva.com/images/dotline.gif" align="left">&nbsp;</td>
+		<td width="1%" valign="top" background="http://www.factiva.com/images/dotline.gif" align="left">&nbsp;</td>
 		<td class="k11" align="justify" valign="top" width="80%">
 		
 		
@@ -503,12 +513,12 @@ function openEmailWindow()
 			</td>
 		
 		<td align="right" width="65%" valign="top">
-			<a href="javascript:popWinPrint('http://factiva.com/legal/privacy.asp?prn=yes&amp;node=menuElem1173','','600','500')">
-			<img border="0" alt="Format for print" src="http://factiva.com/images/printthis_icon.gif" width="27" height="16"></a>
+			<a href="javascript:popWinPrint('http://www.factiva.com/legal/privacy.asp?prn=yes&amp;node=menuElem1173','','600','500')">
+			<img border="0" alt="Format for print" src="http://www.factiva.com/images/printthis_icon.gif" width="27" height="16"></a>
 			</td>
 			<td align="right" width="12%" valign="top">
 				
-		<img src="http://factiva.com/images/imgSpacer.gif" width="2" height="1" border="0" alt=""><a href="javascript:void(openEmailWindow())"><img name="mailthis" src="http://factiva.com/images/emailthis_icon.gif" alt="E-mail this page" width="17" height="16" border="0"></a></td></tr></tbody></table>
+		<img src="http://www.factiva.com/images/imgSpacer.gif" width="2" height="1" border="0" alt=""><a href="javascript:void(openEmailWindow())"><img name="mailthis" src="http://www.factiva.com/images/emailthis_icon.gif" alt="E-mail this page" width="17" height="16" border="0"></a></td></tr></tbody></table>
 			</td><td width="1%">&nbsp;</td></tr></tbody></table>	
 		
 			
@@ -526,9 +536,9 @@ At Factiva we take your privacy seriously and we are committed to protecting the
 
 This page describes Factiva’s general commitment to privacy and specifically to information you submit through this website.  If you subscribe to any Factiva services, your personal information may also be gathered during registration for, or use of, such Factiva services.  Personal information you submit via Factiva services will be used subject to the specific policy displayed within each service. 
 
-</p><p><span class="k11b">Information gathered through this Website</span></p><p>
+</p><p><span class="k11b">Information gathered through this Web site</span></p><p>
 
-In sections of this site, you have the chance to provide to us personal identifying information such as your name, email address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
+In sections of this site, you have the chance to provide to us personal identifying information such as your name, e-mail address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
 </p><p>
 Factiva may also use your information collectively, such as to measure what area users visit most frequently and what information users access the most.  We use this data anonymously in connection with the design of our website.  This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. This aggregate information is never used so that individual users can be personally identified and it does not involve the transfer of any personal data we hold about you.
 
@@ -551,18 +561,17 @@ Factiva provides, within some services, various opportunities for you to submit 
 
 </p><p><span class="k11b">Privacy Commitment Changes </span></p><p>
 
-If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this website or at the address below. 
+If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this web site or at the address below. 
 
-</p><p><span class="k11b">Who is Factiva?</span></p><p>
+<!--<p><span class="k11b">Who is Factiva?</span><p>
 
 Factiva is an international group of companies and you should be aware that your data may be transferred to Factiva entities in countries outside your own.  Not all such countries have personal data protection laws but Factiva imposes its privacy policy on all its group companies.
-</p><p>
-Users based in the United States will be supplying their personal information to Dow Jones Reuters Business Interactive LLC of P.O. Box 300, Princeton, NJ 08530.  Users outside of these territories will be supplying their personal information to Dow Jones Reuters Business Interactive Limited of 6th Floor, Commodity Quay, East Smithfield, London E1 9UN. (Both companies trade as “Factiva”).
+<p>
+Users based in the United States will be supplying their personal information to Dow Jones Reuters Business Interactive LLC of P.O. Box 300, Princeton, NJ 08530.  Users outside of these territories will be supplying their personal information to Dow Jones Reuters Business Interactive Limited of 6th Floor, Commodity Quay, East Smithfield, London E1 9UN. (Both companies trade as “Factiva”).-->
 
 
   </p><p>
-  <i>*Factiva is a trademark of Dow Jones Reuters Business Interactive LLC whose 
-  representative in the EEA is Dow Jones Reuters Business Interactive Limited.</i> 
+  <i>*Factiva is a trademark of Factiva, Inc.</i> 
   <!-- All content ends here --> 
 </p></td></tr><tr><td colspan="3">
 <script language="JavaScript" src="http://www.factiva.com/inc/s_code.js"></script>
@@ -606,7 +615,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
         <td>&nbsp; </td>
         <td><a class="FooterRIGHTLink" href="/about/index.asp?node=menuElem1098">About Us</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/products/index.asp?node=menuElem1491">Products</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/consulting/consulting.asp?node=menuElem1508">Consulting</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/sources/contentwatch.asp?node=menuElem1522">Content Sources</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/communities.asp?node=menuElem1092">Communities</a>
          <span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/network/index.asp?node=menuElem1110">Partners</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/fmc/fmc.asp">Customer Support</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/contact.asp?node=menuElem1527">Contact Us</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="http://www.factiva.com/legal.asp?node=menuElem1572">Legal Notices</a><span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/legal/privacy.asp?node=menuElem1173">Privacy Policy</a>
-          <span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/whatsnew">Whats New at Factiva</a>
+          <span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/whatsnew">Whats New</a>
           <span class="footerBtm"> | </span><a class="FooterRIGHTLink" href="/sitemap.asp">Site Map</a> 
            
           </td>
@@ -615,7 +624,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
   <tr>
     <td valign="bottom"><a href="/about/index.asp?node=menuElem1098"><img src="/images/en/parents_logos.gif" width="155" height="24" hspace="0" border="0"></a></td>
     <td valign="middle">
-    <br><table border="0" cellpadding="3" cellspacing="0" width="100%"><form name="emailPage" action="/net/mail_temp.asp" target="emailWindow" method="get"></form><tbody><tr><td class="Newcopyrightwidth=&quot;100%&quot;" align="middle"><a class="Newcopyrightlink" href="/legal.asp?node=menuElem1572">© 2006 Dow Jones Reuters Business Interactive LLC (trading as Factiva). All rights reserved.  </a><input type="Hidden" name="sUrl" value="/legal/privacy.asp"><input type="Hidden" name="qs" value="node=menuElem1173"><input type="Hidden" name="sQueryString" value="menuElem1173"><input type="Hidden" name="strSubject" value="Privacy Policy">&nbsp;&nbsp;</td></tr></tbody></table>
+    <br><table border="0" cellpadding="3" cellspacing="0" width="100%"><form name="emailPage" action="/net/mail_temp.asp" target="emailWindow" method="get"></form><tbody><tr><td class="Newcopyrightwidth=&quot;100%&quot;" align="middle"><a class="Newcopyrightlink" href="/legal.asp?node=menuElem1572">© 2006 Factiva, Inc. All rights reserved.  </a><input type="Hidden" name="sUrl" value="/legal/privacy.asp"><input type="Hidden" name="qs" value="node=menuElem1173"><input type="Hidden" name="sQueryString" value="menuElem1173"><input type="Hidden" name="strSubject" value="Privacy Policy">&nbsp;&nbsp;</td></tr></tbody></table>
 
 
 </td></tr>
