@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reardencommerce.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616174544id_/http%3A//reardencommerce.com/9.1.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reardencommerce.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218205214id_/http%3A//reardencommerce.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Rearden Commerce: Privacy Policy
-
-## Privacy Policy
+# Rearden Commerce - Privacy Policy
 
 ### Overview
 
@@ -18,9 +16,9 @@ Rearden Commerce collects user information to create a personalized experience f
 
 ### Sharing of Information Collected:
 
-  * **Sharing Aggregated Information and Personal Information of Users**  
+  * Sharing Aggregated Information and Personal Information of Users  
 As part of our business, we may pass to our service partners and resellers aggregated information (data gathered up across multiple or all user accounts) regarding visitors, users, and historical transactions in a manner that will not personally identify any individual user. We may aggregate personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally.
-  * **Other Restrictions and Disclosures**  
+  * Other Restrictions and Disclosures  
 We will not sell, rent or transfer your Personally Identifiable Information to any third party, unless we are required by law, court order or regulation, or we believe that disclosure is necessary to comply with law or legal process, or to cooperate with local or federal authorities, or to protect or defend against fraud, misuse of the Rearden Commerce Website, breach of any of your obligations hereunder, or to protect our intellectual property rights. In addition, we may disclose your Personally Identifiable Information in connection with a merger, acquisition, or sale of all or substantially all of the assets of Rearden Commerce to another company (an "Acquirer Company"), provided that such Personally Identifiable Information shall only be used by the Acquirer Company in accordance with the terms and conditions of this Privacy Policy. Rearden Commerce will not send email to user's accounts with non service-related emails. Rearden Commerce will not track your Internet usage outside of the confines of the Rearden Commerce Website. Once a user exits the Website, Rearden Commerce will not track your web browsing behavior.
 
 
@@ -35,10 +33,8 @@ Rearden Commerce does not control the privacy policies of third party sites or s
 
 ### Changes to the Rearden Commerce Privacy Policy
 
-You agree that Rearden Commerce may amend this policy from time to time by posting the revised Privacy Policy on this Website. You may review our Privacy Policy at any time by submitting a request to [privacy@us.ReardenCommerce.com](mailto:privacy@us.ReardenCommerce.com). Please check the revision date at the bottom of this page to determine whether the policy has been modified since you last reviewed it. Your continued use of any portion of the Website or Rearden Commerce service following the posting of the revised policy will constitute your acceptance of the changes.
+You agree that Rearden Commerce may amend this policy from time to time by posting the revised Privacy Policy on this Website. You may review our Privacy Policy at any time by submitting a request to [privacy@us.reardencommerce.com](mailto:privacy@us.ReardenCommerce.com). Please check the revision date at the bottom of this page to determine whether the policy has been modified since you last reviewed it. Your continued use of any portion of the Website or Rearden Commerce service following the posting of the revised policy will constitute your acceptance of the changes.
 
 ### How to Contact Rearden Commerce If You Believe Your Privacy Has Been Violated
 
-If you suspect that your privacy has been violated or that Rearden Commerce has not abided by the terms set forth in this policy, contact Rearden Commerce by emailing [privacy@us.ReardenCommerce.com](mailto:privacy@us.ReardenCommerce.com).
-
-_November 2004_
+If you suspect that your privacy has been violated or that Rearden Commerce has not abided by the terms set forth in this policy, contact Rearden Commerce by emailing [privacy@us.reardencommerce.com](mailto:privacy@us.ReardenCommerce.com).
