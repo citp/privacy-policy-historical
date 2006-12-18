@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2006-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060224151333id_/http%3A//www.alarm.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218024655id_/http%3A//www.alarm.com/policies_lo.asp) for the most accurate reproduction.*
 
 # Alarm.com 100% Wireless Security Systems: Privacy Policy
 
@@ -21,7 +21,7 @@ Alarm.com provides subscribers numerous advanced-technology security and automat
 
 **Information Collection and Use**
 
-Alarm.com collects ands stores personally identifiable information about you only when you expressly and knowingly provide it. You provide us basic contact information such as name, address, phone number and email address. When you subscribe to our services, you provide us your personal preferences (e.g., unit description, sensor names) in order for us to personalize your services. However, we do not knowingly collect personal information from children under the age of thirteen.
+Alarm.com collects and stores personally identifiable information about you only when you expressly and knowingly provide it. You provide us basic contact information such as name, address, phone number and email address. When you subscribe to our services, you provide us your personal preferences (e.g., unit description, sensor names) in order for us to personalize your services. However, we do not knowingly collect personal information from children under the age of thirteen.
 
 We will use your personally identifiable information only to provide you the best possible services – to personalize the services delivered to you or notify you of technical issues or changes in our services. If you opt-in, we may contact you periodically to participate in our market research efforts so that we may improve our services to meet your needs.
 
