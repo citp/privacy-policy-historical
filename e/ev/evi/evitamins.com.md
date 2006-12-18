@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2006-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060308063841id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218204933id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # eVitamins - Privacy Policy
 
-eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. **Because eVitamins wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe**. If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:
+This privacy statement covers the site www.evitamins.com. eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. **Because eVitamins wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe**. If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:
 
  **EMAIL:** privacy@eVitamins.com  
  **PHONE:** (586) 786-0405 Ext. 407  
  **POSTAL MAIL:**
 
   
-Attn: Chief Privacy Officer  
+Attn: Privacy Dept.  
 6060 Collection Drive  
 Suite 101  
 Shelby Twp., MI  
@@ -19,7 +19,7 @@ If you do not receive acknowledgment of your inquiry or your inquiry is not sati
 
 [ _http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
-eVitamins respects and is committed to protecting your privacy. We use the information we collect on the site to make shopping at eVitamins possible and to enhance your overall shopping and health experience. **We do not sell, trade, rent or loan your personal information to others, unless instructed by a court of law.** If you do not want to receive any announcements or special offers from us, email us at [promotions@evitamins.com](mailto:promotions@evitamins.com?subject=Remove%20Me) and tell us to remove you.
+eVitamins respects and is committed to protecting your privacy. We use the information we collect on the site to make shopping at eVitamins possible and to enhance your overall shopping and health experience. **We do not sell, trade, rent or loan your personal information to others, unless instructed by a court of law.** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If you do not want to receive any announcements or special offers from us, email us at [promotions@evitamins.com](mailto:promotions@evitamins.com?subject=Remove%20Me) and tell us to remove you.
 
   * What information do we collect?
   * How do we use it?
@@ -27,12 +27,13 @@ eVitamins respects and is committed to protecting your privacy. We use the infor
   * What about "cookies"?
   * Will eVitamins disclose the information it collects to outside parties?
   * What you should know!
+  * What about email?
 
 
 
 **What information do we collect?**
 
-To order a product, you will need to set up an account. To set up an account, we will need to know your name, email address, billing and shipping address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. You will also be asked to create a special username and password so that you may access your account in the future (and so you don't have to re-enter all your information again). When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. When you submit a "Contact" request or a "Nutritional Support" request via our website, we will need to know your name, email address and question, however we DO NOT store any of this information on file. We simply need this information so that we may respond to you and answer your question. After a response is given to you, your request information is destroyed. If a user elects to use our referral service for informing a friend about a product offered on our site, we ask them for their friend’s name and email address. eVitamins will automatically send the friend a one-time email inviting them to visit the site. eVitamins does not store this information. It is only used for the sole purpose of sending this one-time email. If a user chooses to submit a product review, we will need to know your name, email, review description and location so that we may store it to display with your review. You can choose not to have your name, email or location posted to your review, although we will still need to collect the information to keep on file with your review for internal records. If you are the first person to write a product review about a particular product, you automatically become eligible to enter our contest to receive a “$50 gift certificate”. We notify all the winners via email. Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+To order a product, you will need to set up an account. To set up an account, we will need to know your name, email address, billing and shipping address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. You will also be asked to create a special username and password so that you may access your account in the future (and so you don't have to re-enter all your information again). When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. When you submit a "Contact" request or a "Nutritional Support" request via our website, we will need to know your name, email address and question, however we DO NOT store any of this information on file. We simply need this information so that we may respond to you and answer your question. After a response is given to you, your request information is destroyed. If a user elects to use our referral service for informing a friend about a product offered on our site, we ask them for their friend’s name and email address. eVitamins will automatically send the friend a one-time email inviting them to visit the site. eVitamins does not store this information. It is only used for the sole purpose of sending this one-time email. If a user chooses to submit a product review, we will need to know your name, email, review description and location so that we may store it to display with your review. You can choose not to have your name, email or location posted to your review, although we will still need to collect the information to keep on file with your review for internal records. Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **How do we use it?**
 
@@ -40,7 +41,7 @@ We may also use the information we collect to occasionally notify you about new 
 
 **How does eVitamins services protect customer information?**
 
-To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information. We also protect customer information simply by **never** **selling,** **trading, loaning or renting your personal information to others (EVER!).** eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup. For more information on our security procedures, please [click here](https://web.archive.org/web/20060308063841id_/http%3A//www.evitamins.com/security.asp)
+To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information. We also protect customer information simply by **never** **selling,** **trading, loaning or renting your personal information to others (EVER!).** eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup. For more information on our security procedures, please [click here](https://web.archive.org/web/20061218204933id_/http%3A//www.evitamins.com/security.asp)
 
 **What about "cookies"?**
 
@@ -58,6 +59,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 6060 Collection Drive  
 Ste. 101  
 Shelby Township, MI  
-48316
+48316  
 
- **Last Updated:** 11/21/2005
+
+**What about email?**
+
+eVitamins sends out order confirmation and order tracking emails to our customers when you place an order. These order related emails are vital to making sure your order is delivered correctly therefore, you do not have the opportunity to opt out or unsubscribe from these order emails. You may also sign up for one of our newsletter emails during the checkout process when placing an order. You may unsubscribe to these newsletters emails at anytime by logging into your account and changing your communication preferences. In addition, you may also unsubscribe to any newsletter email by following the "unsubscribe" link at the bottom of each newsletter.
+
+ **Last Updated:** 4/14/2006
