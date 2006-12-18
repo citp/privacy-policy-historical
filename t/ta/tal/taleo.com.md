@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620050638id_/http%3A//www.taleo.com/privacy/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218154033id_/http%3A//www.taleo.com/privacy/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy > Taleo
 
 Effective on: July 1, 2004
 
-Taleo Corporation and its affiliated companies (STaleo ) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20060620050638id_/http%3A//www.taleo.com/privacy/EU-safe-harbor.php).
+Taleo Corporation and its affiliated companies (Taleo ) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20061218154033id_/http%3A//www.taleo.com/privacy/EU-safe-harbor.php).
 
 This Web Site Privacy Statement discloses the privacy practices for www.Taleo.com. Taleo Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Taleo wants to demonstrate its commitment to your privacy, it discloses its website information practices (set forth below) and permits TRUSTe to review its website privacy practices. This Website Privacy Statement notifies you of:
 
@@ -99,16 +99,17 @@ We intend to protect the quality and integrity of your Personal Information. If 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Attention: Legal Department / Privacy Office  
-575 Market Street, 8th Floor  
-San Francisco, CA 94105  
+4140 Dublin Boulevard, 4th Floor  
+Dublin, CA 94568  
+United States  
 Phone: 1.888.836.3669  
 Fax: 1.866.507.5966
 
-Email: [Taleo Privacy Office](mailto:shardaway@taleo.com?subject=Taleo%20Privacy%20Office)
+Email: [Taleo Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office)
 
 * * *
 
-This Statement describes how Taleo Corporation and its affiliated companies (“Taleo”) collects, uses, and discloses certain personally identifiable information that it receives in the United States from the European Union (“EU Personal Data”). In particular, Taleo recognizes that the European Union has established strict protections regarding the handling of EU Personal Data, and Taleo therefore has elected to adhere to the US-EU Safe Harbor Privacy Principles (“EU Safe Harbor”) with respect to such EU Personal Data that it receives in the United States. For further background and information about the EU Safe Harbor, please refer to the U.S. Department of Commerce’s website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+This Statement describes how Taleo Corporation and its affiliated companies (“Taleo”) collects, uses, and discloses certain personally identifiable information that it receives in the United States from the European Union (“EU Personal Data”). In particular, Taleo recognizes that the European Union has established strict protections regarding the handling of EU Personal Data, and Taleo therefore has elected to adhere to the US-EU Safe Harbor Privacy Principles (“EU Safe Harbor”) with respect to such EU Personal Data that it receives in the United States. For further background and information about the EU Safe Harbor, and to see Taleo's representation on the Safe Harbor List, please refer to the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 ## Categories of Individual Data Subjects
 
@@ -116,7 +117,7 @@ In general, Taleo may obtain EU Personal Data in the United States about several
 
 ## Website Visitors
 
-Taleo generally collects, uses, and discloses information about website visitors located in the EU in accordance with the Website Privacy Policy [www.taleo.com/privacy/privacy-policy.php](https://web.archive.org/web/20060620050638id_/http%3A//www.taleo.com/privacy/privacy-policy.php).
+Taleo generally collects, uses, and discloses information about website visitors located in the EU in accordance with the Website Privacy Policy [www.taleo.com/privacy/privacy-policy.php](https://web.archive.org/web/20061218154033id_/http%3A//www.taleo.com/privacy/privacy-policy.php).
 
 ## Clients, Suppliers, and Business Partners
 
@@ -124,7 +125,7 @@ Taleo may obtain various types of EU Personal Data about employees and agents of
 
 Taleo may use these types of EU Personal Data for business purposes, including to deliver or provide products or services; to establish or maintain client and business relationships; to provide access to Internet-based and e-commerce activities; to perform accounting functions; and to conduct other activities as necessary or appropriate in connection with the servicing and development of the business relationship.
 
-Employees and agents of our clients, business partners, and suppliers may contact us if any of their EU Personal Data changes, or if they would like to access and correct EU Personal Data that we maintain about them. However, such persons might first wish to contact their local human resources representative (i.e. the human resources representative within our Clients), as that might be the most efficient means of addressing their issues. In any event, such persons can also contact us by sending an email to [Taleo Privacy Office](mailto:shardaway@taleo.com?subject=Taleo%20Privacy%20Office), or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from Taleo, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at [website-feedback@taleo.com](mailto:website-feedback@taleo.com?subject=Feedback%20from%20WebSite).
+Employees and agents of our clients, business partners, and suppliers may contact us if any of their EU Personal Data changes, or if they would like to access and correct EU Personal Data that we maintain about them. However, such persons might first wish to contact their local human resources representative (i.e. the human resources representative within our Clients), as that might be the most efficient means of addressing their issues. In any event, such persons can also contact us by sending an email to [Taleo Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office), or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from Taleo, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at [website-feedback@taleo.com](mailto:website-feedback@taleo.com?subject=Feedback%20from%20WebSite).
 
 ## Candidates for Employment with Clients
 
@@ -151,11 +152,12 @@ If you have any questions about this EU Safe Harbor Privacy Statement, or if you
 ## Taleo Corporation
 
 Attention: Legal Department / Privacy Office  
-575 Market Street, 8th Floor  
-San Francisco, CA 94105  
+4140 Dublin Boulevard, 4th Floor  
+Dublin, CA 94568  
+United States  
 Phone: 1.888.836.3669  
 Fax: 1.866.507.5966
 
-Email: [Taleo Privacy Office](mailto:shardaway@taleo.com?subject=Taleo%20Privacy%20Office)
+Email: [Taleo Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office)
 
 Any questions regarding this EU Safe Harbor Privacy Statement should first be directed to the Taleo contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the local data protection authorities in your EU member state for further information.
