@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212018id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218022924id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Rewards Network -
 
@@ -109,13 +109,13 @@ The Rewards Network web site may be used only by adults who have a credit or deb
 
 We have appointed the following person to be responsible for ensuring that the protection of your Personal Information is carried out in accordance with our Privacy Policy:
 
-Mr. Bryan R. Adel  
+Roya Behnia  
 Senior Vice President, General Counsel, Secretary and Privacy Officer  
 Two North Riverside Plaza, Suite 950  
 Chicago, Illinois 60606  
 Phone: 312-521-6767  
 Fax: 312-521-6768  
-Email: [badel@rewardsnetwork.com](mailto:badel@rewardsnetwork.com)
+Email: [rbehnia@rewardsnetwork.com](mailto:rbehnia@rewardsnetwork.com)
 
 ##### Notice of Changes
 
@@ -129,5 +129,4 @@ Rewards Network Canada GP Corp.
 Rewards Network Canada LP  
 TMNI International Inc.  
 RTR Funding LLC  
-iDine Media Group Inc.  
-FFA Acquisition Corp.
+
