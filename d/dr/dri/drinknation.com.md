@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinknation.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614170301id_/http%3A//www.drinknation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinknation.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218071525id_/http%3A//www.drinknation.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Drinknation.com
 
@@ -8,7 +8,7 @@ Drinknation.com hates spam, and we especially dislike people who send spam. We a
 
   * Drinknation.com (hereafter also referred to as "we" and "us") does not collect personal information for purposes other than to provide informational services to visitors to Drinknation.com's web site. We DO NOT release any information we may collect about visitors to the Drinknation.com web site to advertisers, promotional agencies, private organizations, public organizations, angry mobs, your shady cousin Bob who no one has heard from in eight years, or third parties of any kind including companies and organizations that may work with us now or in the future. Any personal information that Drinknation.com has will NEVER be seen by anyone other than employees of Drinknation.com for the purposes of providing a service to those individuals or organizations who have requested it, and for which the information is required to perform that service. Personal information will NEVER be willfully released publicly or privately in any form, now or at any time in the future.
   * Any personal information Drinknation.com collects is stored in a secure database on private servers, to which no one other than employees of Drinknation.com have access to. Drinknation.com is committed to keeping this information secure.
-  * Any personal information that we may have about an individual is purely voluntary, and will never be collected without the consent and knowledge of the individual. If at any time an individual wishes to view, correct, or have deleted or destroyed the information Drinknation.com has about them, they may do so by sending a request via our [feedback form](https://web.archive.org/web/20060614170301id_/http%3A//www.drinknation.com/feedbackform.php), and we'll be happy to comply! In most cases, Drinknation.com will endeavour to have an interactive process available for such functions (ie. subscribing and unsubscribing to newsletters).
+  * Any personal information that we may have about an individual is purely voluntary, and will never be collected without the consent and knowledge of the individual. If at any time an individual wishes to view, correct, or have deleted or destroyed the information Drinknation.com has about them, they may do so by sending a request via our [feedback form](https://web.archive.org/drinknation_comments.php), and we'll be happy to comply! In most cases, Drinknation.com will endeavour to have an interactive process available for such functions (ie. subscribing and unsubscribing to newsletters).
 
 
 
@@ -29,6 +29,6 @@ Drinknation.com collects very limited information about our users. We don't know
 
 
 
-If you feel there are any errors in this document, or have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20060614170301id_/http%3A//www.drinknation.com/feedbackform.php). 
+If you feel there are any errors in this document, or have any questions about our privacy policy, please [contact us](https://web.archive.org/drinknation_comments.php). 
 
 | 
