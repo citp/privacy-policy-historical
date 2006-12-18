@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613012145id_/http%3A//www.academicsuperstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218170008id_/http%3A//www.academicsuperstore.com/privacy.html) for the most accurate reproduction.*
 
 # Academic Software, Student Software : Academic Superstore : Academic Software savings for students, teachers, & schools
 
