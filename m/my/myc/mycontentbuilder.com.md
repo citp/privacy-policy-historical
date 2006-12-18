@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycontentbuilder.com privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207014604id_/http%3A//mycontentbuilder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycontentbuilder.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218233425id_/http%3A//mycontentbuilder.com/privacy.php) for the most accurate reproduction.*
 
-# MyContentBuilder.com
+# MyContentBuilder Directory | Submit Articles | Search Find Free Content | Author Submission
 
 [](http://mycontentbuilder.com/) |   
 ---|---  
