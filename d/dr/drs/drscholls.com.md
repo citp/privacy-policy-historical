@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630020833id_/http%3A//drscholls.com/info.aspx%3Finfoid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218135159id_/http%3A//drscholls.com/info.aspx%3Finfoid%3D2) for the most accurate reproduction.*
 
 # Dr Scholl's
 
