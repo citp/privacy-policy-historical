@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the tastyteenbabes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052700id_/http%3A//www.tastyteenbabes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastyteenbabes.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219174042id_/http%3A//www.tastyteenbabes.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
 **PRIVACY POLICY STATEMENT**
 
-This website (the "Site") is operated by **HOH Limited**
+This website (the "Site") is operated by **HOH Limited and PV Empowerm S.L., Spain**
 
 Our postal address is:  
 12 Dervis Street,  
 Palais D'Ivoir Building,  
 1066 -Nicosia,  
 Cyprus
+
+Empowerm:  
+C/ San Miguel, 30 3ºL  
+07002 Palma de Mallorca (España) 
 
 We can be reached via e-mail at [privacy@hohsupport.com](mailto:privacy@hohsupport.com)
 
