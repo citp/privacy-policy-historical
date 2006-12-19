@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210049id_/http%3A//www.americanmusical.com/Content.aspx%3Fid%3D14%26lr%3Dy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219202608id_/http%3A//www.americanmusical.com/Content.aspx%3Fid%3D14%26lr%3Dy) for the most accurate reproduction.*
 
 # - AmericanMusical.com
 
@@ -52,4 +52,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 Tell us what you think  
 AMS welcomes your questions and comments about privacy. Please send e-mail to [feedback@americanmusical.com ](mailto:feedback@americanmusical.com). 
 
-[Return to Shopping](http://www.americanmusical.com/home.html) | [Back to Help Center](https://web.archive.org/web/20060615210049id_/http%3A//www.americanmusical.com/Content.aspx?id=18&lr=y)
+[Return to Shopping](http://www.americanmusical.com/home.html) | [Back to Help Center](https://web.archive.org/web/20061219202608id_/http%3A//www.americanmusical.com/Content.aspx?id=18&lr=y)
