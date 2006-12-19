@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetauthority.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620055638id_/http%3A//www.streetauthority.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetauthority.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219230647id_/http%3A//www.streetauthority.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # StreetAuthority.com -- Privacy Policy
 
@@ -9,7 +9,7 @@ This Privacy Statement describes our privacy policy and explains what we do with
 
 Your privacy is very important to us. StreetAuthority, LLC is committed to protecting and respecting your privacy. Accordingly, we have adopted the privacy policy, based on the principles of notice, choice, access and security in the collection and use of all information regarding our subscribers and their activities at the StreetAuthority.com's web site. You can be assured of the following:
 
-· We will not send you anything unless you opted-in to receive it. If you are receiving emails from us and you would like them stopped, login to our [User Control Panel](https://web.archive.org/web/20060620055638id_/http%3A//www.streetauthority.com/controlpanel.asp) to manage your current subscriptions.
+· We will not send you anything unless you opted-in to receive it. If you are receiving emails from us and you would like them stopped, login to our [User Control Panel](https://web.archive.org/web/20061219230647id_/http%3A//www.streetauthority.com/controlpanel.asp) to manage your current subscriptions.
 
 **What information does StreetAuthority.com gather?  
 **StreetAuthority.com collects a limited amount of information about our newsletter subscribers to enable StreetAuthority to fulfill subscriptions. StreetAuthority may obtain the following information from its Registered Users and Subscribers:
@@ -34,7 +34,7 @@ If you use our referral service to email one of our articles to a friend, you wi
 StreetAuthority.com may send out email advertisements or messages from third party advertisers to its site registration and subscriber lists. StreetAuthority.com will not sell or transfer to third parties the email addresses of its subscribers. StreetAuthority.com maintains strict confidentiality of its subscribers' email addresses. All site registrants and subscribers are given the opportunity of opting-out from receiving these promotional messages.
 
 **StreetAuthority.com's Dedication to Data Security**  
-StreetAuthority.com works to ensure the integrity and security of our network and systems. The StreetAuthority cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Any credit card information or payment information that may be captured will not be maintained on the site.
+StreetAuthority.com works to ensure the integrity and security of our network and systems. The StreetAuthority cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
 **In the Event of a Change of Ownership**  
 In the event of a merger or acquisition, the sales of the company or any change of ownership, all of StreetAuthority.com's customer information (including email addresses) may be transferred to a separate entity or entities. All StreetAuthority.com subscribers and registered users will be notified of any change in ownership, merger or acquisition of StreetAuthority.com's assets by a third party. Subscribers and users may choose to access and revise any of their registration and/or subscription information at that time.
@@ -47,4 +47,4 @@ StreetAuthority.com reserves the right to revise, amend, or modify this policy a
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT.
 
-StreetAuthority.com reserves the right to change this policy at any time by posting a revised privacy policy on this web page. You can send e-mail to us with any further questions by visiting our [Contact Us](https://web.archive.org/web/20060620055638id_/http%3A//www.streetauthority.com/contactus.asp) page. THANK YOU!
+StreetAuthority.com reserves the right to change this policy at any time by posting a revised privacy policy on this web page. You can send e-mail to us with any further questions by visiting our [Contact Us](https://web.archive.org/web/20061219230647id_/http%3A//www.streetauthority.com/contactus.asp) page. THANK YOU!
