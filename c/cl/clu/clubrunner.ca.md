@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubrunner.ca privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622065437id_/http%3A//www.clubrunner.ca/crweb/subscribers/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrunner.ca privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219013010id_/http%3A//www.clubrunner.ca/CRWeb/subscribers/privacypolicy.asp) for the most accurate reproduction.*
 
 # ClubRunner : Club Websites, Online Member Management, Email Broadcasts, Event Planning, Newsletter Tools, Content & Volunteer Management for Rotary, Kiwanis, Lions, and Other Clubs, Districts & Associations, Club Management, Club Website, District Website, Rotary Website
 
