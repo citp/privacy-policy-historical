@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033321id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219053911id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Planetizen
 
-Posted by: [Abhijeet Chavan](http://www.planetizen.com/user/2 "View user profile.")
-
-3 September, 2005 - 12:20pm
+3 September 2005 - 11:20am 
 
 We respect your privacy. All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Planetizen will be held with the utmost care, and will not be used in ways to which you have not consented. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please do not hesitate to let us know.
 
@@ -31,7 +29,3 @@ Planetizen maintains several email lists to keep the urban planning community in
 Urban Insight, Inc. and Planetizen support the goals of the [Online Privacy Alliance](http://www.privacyalliance.org/), a cross-industry coalition of more than 80 global companies and associations committed to promoting the privacy of individuals online. The Alliance is an ad hoc organization. Its sole purpose is to work to define privacy policy for the new electronic medium and to foster an online environment that respects consumer privacy.
 
 If you have a question not covered by these topics please send us an [email](mailto:info@planetizen.com). 
-
-Web Standards and Accessibility
-
-What's New
