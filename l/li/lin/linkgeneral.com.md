@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkgeneral.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617164633id_/http%3A//linkgeneral.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgeneral.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219015010id_/http%3A//linkgeneral.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
