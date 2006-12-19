@@ -1,93 +1,85 @@
-> *The following text is extracted and transformed from the nytimes.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629150954id_/http%3A//www.nytimes.com/ref/membercenter/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nytimes.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219231640id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
-# The New York Times > Member Center > Site Help > Customer Service: Privacy Policy
+# The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
-The New York Times on the Web is a licensee of the TRUSTe privacy program and TRUSTe Children’s Privacy Program and is in compliance with TRUSTe privacy principles. We also participate in the Council of Better Business Bureaus' BBB _OnLine_ Privacy Program, and comply with all BBB _OnLine_ Privacy standards. 
+| [](http://www.nytimes.com/membercenter/index.html) | [](http://www.nytimes.com/mem/profile.html) | [](http://www.nytimes.com/mem/email.html) | [](https://select.nytimes.com/commerce/jsp/purchase_history.jsp) | [](http://www.nytimes.com/membercenter/sitehelp.html)  
+---|---|---|---|---  
+|  |  |   
+---|---|---  
+|  |  |  |   
+---  
+|    
 
-When you visit a Web site displaying the [TRUSTe](http://www.truste.org/) trustmark, you can expect to be notified of what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and how you can correct any inaccuracies in the information. Questions regarding this statement should be directed to The New York Times on the Web [Customer Service](http://www.nytimes.com/info/help/formh.html); if the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html). 
-
-The New York Times on the Web has adopted a set of information management guidelines which serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via e-mail. 
-
-The New York Times on the Web is not responsible for the content or the privacy policies of Web sites to which it may link. 
-
-[Other information: Children's Guidelines: The Learning Network ](https://web.archive.org/web/20060629150954id_/http%3A//www.nytimes.com/ref/membercenter/help/privacy.html#KidsPrivacy)
 
   
-**What information does The New York Times on the Web gather/track about you?**
+_Last Updated on October 16, 2006_
 
-**Registration** : During a [free registration](http://www.nytimes.com/auth/login) process prior to using the site, The New York Times on the Web requires that you supply a unique Member ID, e-mail address, and demographic information (country, zip code, year of birth, gender, household income, industry, and job title, ). You must agree to the terms of our [Member Agreement](http://www.nytimes.com/ref/membercenter/help/agree.html). 
+The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our complete [Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
 
-**Premium Products and Services from The New York Times on the Web** : While the majority of The New York Times on the Web is offered free of charge, we do charge fees for select premium content, products and services. These products include TimesSelect, our Article Archive: 1981-Present, Article Archive: 1851-1980, Premium Crosswords and News Tracker (now a part of TimesSelect), among others. To enable the purchase of these products (with the exception of the Article Archive: 1851-1980, see below), The New York Times on the Web collects and stores billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments. You may review and update your billing information, view your most recently purchased products and transaction history in the secured [Purchase History](http://www.nytimes.com/purchasehistory) area of the Member Center. 
+[](http://www.bbbonline.org/cks.asp?id=3301999011123) [ ](https://www.truste.org/ivalidate.php?url=www.nytimes.com) The New York Times is a licensee of BBBOnLine and the TRUSTe Privacy Program. You may contact TRUSTe if you believe a privacy question is not properly addressed. 
 
-The Article Archive: 1851-1980 is hosted by ProQuest through their ProQuest Archiver service and all purchases are processed by ProQuest on behalf of The New York Times on the Web. ProQuest collects and stores billing and credit card information solely to process these purchases. This information will not be used for any other reason except as instructed by The New York Times on the Web. To review your purchases or update your billing information, please visit [myPQA](http://pqasb.pqarchiver.com/myPQA/?interface=nytimes) (ProQuest Account Information). 
+### **Scope**
 
-Times File is part of the TimesSelect service. Times File is powered by Furl.net of Looksmart, LTD. Looksmart collects and stores the articles and images you file/save and any comments you write solely to provide the Times File service. This information will not be used for any other reason except as instructed by The New York Times on the Web. 
+The New York Times privacy highlights and full Privacy Policy (available at: [www.nytimes.com/ref/membercenter/help/privacy.html](http://www.nytimes.com/ref/membercenter/help/privacy.html)) apply to the New York Times Web sites listed below, and to services that display or link to this notice. 
 
-**Premium Products and Services from Third Parties or Partners** : From time to time, The New York Times on the Web may offer products or services from our partners or third parties. Where you are so notified during the purchase process, the information you provided at registration may be shared with the provider of the product or service. However, we will never share your billing and credit card information, which The New York Times on the Web collects and stores to enable the purchase of these products. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments. 
+  * [NYTimes.com](http://nytimes.com/)  
 
-**Contests, Special Offers, Surveys** : On occasion, The New York Times on the Web also collects additional personal information from subscribers in connection with optional contests or optional special offers. If this information is to be shared with a third party, we will notify you at the time of collection. 
+  * [The New York Times Home Delivery](http://homedelivery.nytimes.com/)  
 
-Additionally, The New York Times on the Web may collect additional personal information from subscribers in connection with optional surveys. Information that you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you at the time of collection. 
+  * [The New York Times TimesPoints Reward Program](http://timespoints.nytimes.com/)  
 
-**Cookies** : The New York Times on the Web employs cookies to recognize you and your access privileges on The New York Times on the Web, as well as to track site usage. Subscribers who do not accept cookies from the domain "nytimes.com" cannot access most areas of The New York Times on the Web. For detailed information about our use of cookies see [Frequently Asked Questions About Cookies](http://www.nytimes.com/membercenter/faq/cookies.html) in the Site Help area of our Member Center. 
+  * [The New York Times Store](http://nytimes.com/store)  
 
-We use a proprietary advertising server to display ads on our site. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our Web site. Please [click here](http://www.nytimes.com/ref/membercenter/help/privacyinformation2.html) to see a list of these advertising agencies and their privacy policies. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain. If you would like more information about this practice and about your option not to accept cookies placed by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). Acceptance of cookies from domains other than nytimes.com is optional. 
+  * [The New York Times Learning Network](http://nytimes.com/learning/index.html)
 
-The New York Times on the Web is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site in order to constantly improve the Web site quality. All data collected by Omniture on behalf of The New York Times on the Web is owned and used by The New York Times on the Web. The New York Times on the Web reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. 
+The New York Times Electronic Edition, which is maintained by NewsStand, maintains its own [Privacy Statement](http://newsstand.com/documents/privacy_en.htm). The New York Times advertising portal, for advertisers of The Times, also maintains a separate [Privacy Policy](http://www.nytadvertising.com/was/ATWWeb/public/screens/pages/privacyPolicy.jsp). 
 
-Omniture uses cookies to help track visitor behavior and sets cookies on behalf of The New York Times on the Web which will be listed under the domain 2O7.net. For more information about Omniture's privacy policy, including how to opt out, go to [ www.omniture.com/policy.html](http://www.omniture.com/policy.html). 
+### **Information We Gather**
 
-**Clear Gifs (Web Beacons/Web Bugs)** : We use a proprietary advertising serving system to display ads on our site. In addition, advertisers may elect to use third party advertising companies to serve ads onto our Web site, and in these instances may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags) to help better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser. Please [click here](http://www.nytimes.com/ref/membercenter/help/privacyinformation2.html) to see a list of these advertising agencies and their privacy policies. 
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address, and 2) tracking information collected as you navigate through our sites. [More.](http://www.nytimes.com/ref/membercenter/help/privacy.html#b)
 
-**IP Addresses** : The New York Times on the Web logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behavior on our site. 
+### **Use of Information**
 
-**Log Files** : Log data is only used in aggregate to analyze usage of our Web site. 
+  * If you have registered online to one of our sites, The New York Times will not sell, rent, swap or authorize any third party to use your e-mail address without your permission. This also applies to any information that personally identifies you, except as noted immediately below. We do, however, share information about our audience in aggregate form. For example, we may want to know how long the average reader spends on our site, or which pages or features get the most attention. 
+  * If you are a print subscriber to The New York Times newspaper and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](http://www.nytimes.com/ref/membercenter/help/privacy.html#g). 
+  * NYTimes.com may share personal information with The New York Times Company for analysis purposes. NYTimes.com will not share personal information about you as an individual to third parties without your consent.  
 
-  
-**What does The New York Times on the Web do with the information it gathers/tracks?**
+  * The New York Times may perform statistical analyses of subscribers and their subscribing and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our subscriber base.  
 
-**Statistical Analysis and Banner Advertising** : The New York Times on the Web may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form. The New York Times on the Web may also share personal information with The New York Times Company for analysis purposes, including analysis to improve customer relationships. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below. 
+  * We may use demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent. 
+  * We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management.  
 
-**E-Mail** : If you so elect at registration or in the [E-mail Preferences](http://www.nytimes.com/email) section of our Member Center, The New York Times on the Web will periodically send you promotional e-mail about services offered by The New York Times on the Web and its advertisers. Additionally, the e-mail address provided by you at registration may be used by The New York Times on Web to contact you regarding (1) account status (including confirmation of registration), (2) major changes to the Web site and or to the Member Agreement and Privacy Policy, and (3) participation in user surveys, asking for feedback on the Web site and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. (Effective as of August 21, 2002). 
-
-The E-Mail This Article feature is an easy way for New York Times on the Web users to send articles through e-mail. The e-mail address(es) that you supply to use this service will only be used to send the requested article. 
-
-We use e-mail links located in the Site Help area our Member Center to allow you to contact us directly with any questions or comments you may have. We will use your e-mail address to respond directly to these questions or comments. 
-
-Except as permitted by this policy, The New York Times on the Web does not send unsolicited e-mail. 
-
-**Data Security** : To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online. 
-
-  
-**With whom does The New York Times on the Web share the information it gathers/tracks?**
-
-The New York Times on the Web shares the information it gathers, in aggregate form only, with advertisers and other partners. We will not release personal information about you as an individual to third parties, except under the circumstances described in Compliance with Legal Process below. You can review and modify all of your personal information provided during the free registration process by visiting the secured [Your Profile](http://www.nytimes.com/profile) section of our Member Center. If you do not remember your Member ID and password, please go to [www.nytimes.com/forgot](http://www.nytimes.com/forgot) for assistance. 
-
-**Programs From Our Partners** : During the registration process, new users who select to register for certain featured offers from our partners will begin receiving e-mail from these companies. You will only receive e-mail messages from these companies if you elect this opt-in service. In addition to providing these partners with your e-mail address, certain partners may also receive other information collected on the The New York Times on the Web registration form but this will be noted on the [Additional Information page](http://www.nytimes.com/ref/membercenter/faq/registerqa6.html), linked from the Programs from our Partners area of the Registration page. The New York Times on the Web may use this information as set forth in this privacy policy. Should you decide to discontinue your e-mail subscription or would like more information on these companies, please see our [list of partners](http://www.nytimes.com/ref/membercenter/help/privacyinformation3.html) that have participated in this program. 
-
-**YesMail** : Users who selected to register for [YesMail](http://www.yesmail.com/privacy.asp) during The New York Times on the Web registration process became YesMail members. If you selected this option, YesMail uses the information collected on The New York Times on the Web registration form to provide targeted e-mails to you on behalf of its advertisers. The New York Times on the Web may use this information as set forth in this privacy policy. You will only receive e-mail messages from YesMail if you elected this opt-in service. Please contact [membercare@yesmail](mailto:membercare@yesmail.com) directly if you no longer wish to receive e-mail messages from them. 
-
-As of May 16, 2003, the option for signing up for Yesmail was removed from The New York Times on the Web registration page.    
+  * Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by The New York Times for online and offline promotional or commercial uses in any and all media. 
+  * [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#c). 
 
 
-**Forums and Readers' Reviews** : The New York Times on the Web offers [Forums](http://forums.nytimes.com/comment/) (message boards) and Readers' Reviews. Any information you disclose when posting a message in these areas, along with your Member ID, becomes public and may be used by The New York Times on the Web for related online and offline promotional uses.  For more information about Forums and Readers' Reviews see the [Posting Policy](http://forums.nytimes.com/comment/policy.html) and read the Forums, Discussions and Readers' Reviews section of the [Member Agreement](http://www.nytimes.com/ref/membercenter/help/agree.html#discussions). You may also write to the Forums moderators by [clicking here](http://www.nytimes.com/membercenter/formrops.html). 
 
-**How do I change or update my personal information?**
+### **Your Privacy Choices**
 
-**The Member Center** : The [Member Center](http://www.nytimes.com/membercenter) is a centralized area where you can manage your relationship with The New York Times on the Web. There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. Under the [Your Profile](http://www.nytimes.com/profile) tab, you can gain secure access to update the information you provided during the free registration process. The [E-mail Preferences](http://www.nytimes.com/email) tab is the place to go to sign up for our E-mail newsletters and manage your delivery options. If ever you purchase a premium product on The New York Times on the Web, you can visit the secure [Purchase History](http://www.nytimes.com/purchasehistory) tab in the Member Center to update your billing and credit card information and review your transaction history. In order to gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, please go to [www.nytimes.com/forgot](http://www.nytimes.com/forgot) for assistance. If you need further assistance, please contact [Customer Service](http://www.nytimes.com/membercenter/formh.html). 
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](http://www.nytimes.com/ref/membercenter/help/privacy.html#g).
 
-**Compliance with Legal Process**
+If, at any time, you prefer not to receive traditional mail or telephone solicitations originated by The New York Times Home Delivery Department and its third party affiliates, you may choose to [opt-out](http://www.nytimes.com/ref/membercenter/help/privacy.html#g). 
 
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of The New York Times on the Web; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
+To view and edit your personal information, please visit the appropriate part of any of our Web sites. For example, to update your e-mail address on NYTimes.com, go to the [E-Mail Preferences page](http://www.nytimes.com/email) in Member Center. For more information on how to view and edit your personal information, [click here](http://www.nytimes.com/ref/membercenter/help/privacy.html#f). 
 
-  
-******Children's Guidelines: The Learning Network ** [ ](https://www.truste.org/ivalidate.php?url=www.nytimes.com/learning)
+### **Important Information**
 
-[The Learning Network](http://www.nytimes.com/learning) is a free service for parents, teachers and students, and does not require registration. The [Student Connections](http://www.nytimes.com/learning/students/index.html) section is specifically directed at students, grades 6 to 12; within this section, the [Ask a Reporter](http://www.nytimes.com/learning/students/ask_reporters/index.html) page, and the [Student Letters](http://www.nytimes.com/learning/students/letters.html) page allow students to either send a question to a Times reporter or submit a "letter to the editor," providing their first name, grade, school and state/country and optionally their e-mail address. The information requested on these pages is used solely for participation in these activities, and is not shared or sold to third parties. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we’re concerned about a Parent’s right to consent to the collection and use of their child’s personal information, when a question or letter is published, only the student's first name, grade, and state/country appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please use [this form](http://www.nytimes.com/learning/general/feedback/index.html) to contact the Learning Network. 
+We encourage you to read our complete [Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). The full New York Times Privacy Policy contains links to supplementary information about specific New York Times sites or services. We reserve the right to update our Privacy Policy.
 
-These Childrens’ guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of children’s personal information, the changes will be posted on this page thirty days prior to taking effect and will not affect children’s personal information previously collected. 
+Our Privacy Policy may be amended from time to time. Any such changes will be posted on our [main Privacy Policy page](http://www.nytimes.com/ref/membercenter/help/privacy.html). If we make a significant or material change in the way we use your personal information, the change will be posted thirty (30) days prior to taking effect and registered users will be notified via e-mail. 
 
-For any questions concerning The Learning Network, please contact: Alison Zimbalist, The New York Times on the Web, 500 7th Avenue, 8th Floor, New York, NY 10018. Telephone: 646 698 8000
+We employ measures designed to protect the security of your personal identifying information. [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#h). 
+
+### **COPPA Compliance**
+
+Except for [The Learning Network](http://www.nytimes.com/learning/index.html), The New York Times does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. The Learning Network is a free service for parents, teachers and students, and does not require registration. For any questions concerning The Learning Network, please contact: Katherine Schulten, NYTimes.com, 500 7th Avenue, 8th Floor, New York, NY 10018. Telephone: 646 698 8000. [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#KidsPrivacy). 
+
+### **How To Contact Us**
+
+For any questions or comments regarding our information or security practices, you may contact us by e-mail at feedback@nytimes.com or by mail at Privacy at Customer Care, 229 West 43rd Street, NY, NY 10036. The New York Times is a TRUSTe licensee and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if you feel a privacy question is not properly addressed.    
+
 
   
-
+  
+|   
+|  | 
