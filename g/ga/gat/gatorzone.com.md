@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215533id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219130036id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
 
-# University of Florida Athletics ***Gatorzone.com***
+# @ Gatorzone.com
+
+**Privacy Statement**
 
 Gatorzone.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.gatorzone.com.
 
