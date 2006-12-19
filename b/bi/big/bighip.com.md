@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighip.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629020623id_/http%3A//bighip.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighip.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219231758id_/http%3A//bighip.com/privacy.htm) for the most accurate reproduction.*
 
 # BigHip: Privacy Policy
 
