@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lightscribe.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616101235id_/https%3A//www.lightscribe.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightscribe.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219191813id_/http%3A//www.lightscribe.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # LightScribe - Privacy Policy
 
-  |  [](https://web.archive.org/index.aspx) [](https://web.archive.org/ideas/labelgallery.aspx?id=219) space [](https://web.archive.org/support/index.aspx?id=179) space
+  |  [](https://web.archive.org/index.aspx) [](https://web.archive.org/ideas/labelgallery.aspx?id=219) space [](https://web.archive.org/ideas/labelgallery.aspx?id=226) space [](https://web.archive.org/support/index.aspx?id=179)space
 
-## Get Lucky E-mail
+## E-mail Signup
 
-Sign up for the LightScribe Flipside e-mail and enter the Lucky Label sweepstakes.
+Sign up to get the latest events, contests, news and more.
 
 | 
 
@@ -63,9 +63,7 @@ Permanent cookies are those that remain on your computer. They are used to facil
 
 Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:
 
-    * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm> 
-    * Netscape Navigator: <http://www.netscape.com/legal_notices/cookies.html>  
-  * **Web Beacons**  
+    *     *   * **Web Beacons**  
 Some LightScribe.com Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about website usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. 
 
 
