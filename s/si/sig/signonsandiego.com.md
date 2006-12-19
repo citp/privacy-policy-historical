@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203242id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219191707id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
 
 # SignOnSanDiego.com > About us > Privacy Policy
 
@@ -73,3 +73,21 @@ The answers you provide are kept in a small file on your computer called a "cook
 
 **Comments?**  
 Please send us any comments you have by email to [customersupport@signonsandiego.com](mailto:customersupport@signonsandiego.com)
+
+* * *
+
+### Copyright Policy
+
+**Copyright Notice:**
+
+All of the content displayed on, transmitted through, or used in connection with SignOnSanDiego.com, including but not limited to, text, photos, images, video, graphics, data, audio and/or software, as well as its placement and selection (collectively referred to as the "Material") is owned and copyrighted by the Union-Tribune Publishing Co. ("UTPC"), Copley Press. Inc. and/or its suppliers, licensors, news and feature syndicates and/or wire services. You may use the Material online and solely for your personal, non-commercial use. You may download or print a single copy of any portion of the Material for your personal, non-commercial use, provided you do not remove any trademark, copyright or other notice contained in such Content. No other use is permitted. You may not republish Material on any Internet, Intranet or Extranet site or in any way utilize Material in any database, archive or compilation or in any way re-distribute the Material to others. 
+
+**Specific Copyright Notice from Reuters**
+
+* Reuter's content is the intellectual property of Reuters or its third-party content providers. Any copying, republication, or redistribution of Reuters content, including by caching, framing, or similar means, is expressly prohibited without the prior written consent of Reuters. Reuters shall not be liable for any errors, delays in content, or for any actions taken in reliance thereon. Reuters and the Reuters Group are registered trademarks of the Reuters group of companies around the world. For additional information on other Reuters Services please visit the Reuters public Web site - [http://www.reuters.com](http://www.reuters.com/). 
+
+User-Created Content. By placing material on, or communicating with, SignOnSanDiego.com you represent and warrant that you own or otherwise control all of the rights to the content that you provide, that the content is accurate, that it does not violate the legal rights of others and that it will not cause injury to any person or entity. You grant UTPC and Copley Press, Inc. its affiliates and related entities a royalty-free, perpetual, irrevocable, non-exclusive right and license to use, copy, modify, display, archive, store, distribute, reproduce and create derivative works from all information you provide to us, in any form, media, software or technology of any kind now existing or developed in the future. 
+
+**Notice of Copyright Infringement:**
+
+Union-Tribune Publshing Co. respects the copyrights of others. If you believe that your copyrighted work has been reproduced on our site in a way that constitutes copyright infringement you may notify our designated copyright agent, [reportabuse@signonsandiego.com](mailto:reportabuse@signonsandiego.com)
