@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200732id_/http%3A//www.ryanseacrest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219155149id_/http%3A//www.ryanseacrest.com/privacy.html) for the most accurate reproduction.*
 
 # RYAN SEACREST - OFFICIAL SITE
 
