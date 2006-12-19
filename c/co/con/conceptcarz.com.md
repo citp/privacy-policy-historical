@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the conceptcarz.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195436id_/http%3A//www.conceptcarz.com/info/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptcarz.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219231307id_/http%3A//www.conceptcarz.com/info/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-**Privacy Policy**
-
-* * *
-
-**Normal Viewing Information**
 
 As you visit the site, Concept Carz does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. Concept Carz does, however, collect information which is specific to how you use the site. Concept Carz servers note details such as the type of browser you use, and your IP address. This information is obtained solely for Concept Carz's measurements of the site's effectiveness. 
 
@@ -17,7 +10,7 @@ Concept Carz uses cookies to improve your Web browsing experience. The cookie th
 
 Users who sign up for and use advanced features of Concept Carz, will be asked for additional information including email address and possibly demographic information. BECAUSE WE PROTECT OUR USERS FROM SPAMMERS, Concept Carz DOES NOT SELL THIS INFORMATION TO EXTERNAL COMPANIES. Email addresses are used purely to verify the user's true identity and prevent fraud, while demographic information is used purely for the purpose of targeting ads and measuring their effectiveness on behalf of Concept Carz clients and customers. 
 
-  * We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, telephone numbers, driver license numbers) to strangers online, which may be used for illegal or harmful purposes. 
+* We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, telephone numbers, driver license numbers) to strangers online, which may be used for illegal or harmful purposes. 
 
 **Advertisers**
 
@@ -34,10 +27,3 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 **Sharing Information with Affiliates**
 
 From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies. 
-
-|     
----|---  
-
-
-
-  
