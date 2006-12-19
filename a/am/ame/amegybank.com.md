@@ -1,171 +1,60 @@
-> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219063743id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Amegy Bank
 
-Privacy Policy
+Privacy Policy  
+(Effective August 1, 2006) 
 
-At Amegy Bank National Association (Amegy Bank N.A. or Amegy Bank), we take seriously the trust you place in us to provide both superior financial services and to protect the privacy of your records. We understand how important the issues of privacy are to you. We pledge to continue maintaining all records in a confidential and discreet manner.
+Amegy Bank National Association and its affiliates, Amegy Mortgage Company, L.L.C., Amegy Investments, Inc., and Amegy Insurance Agency, Inc. values your trust and respects your expectation of privacy.  As such, we are committed to maintaining the confidentiality of your personal financial information.  This document outlines our privacy policy for visitors to our web site, as well as for consumers who have a continuing relationship with us, such as a deposit account, loan, investment product or safe deposit box. 
 
-Please review this brochure to learn more about how we protect your privacy – even when we occasionally share information with third parties who offer a service that complements the financial products and services we offer. When we share information, we take steps to ensure that those companies, when acting on our behalf, keep your information confidential.
+Visitors to Our Web Site.   
+Visitors to our web site remain anonymous, unless they register for a service or otherwise elect to disclose their identity to us.  Although we do not collect personally identifying information about persons who simply visit our site, we do collect certain limited information about visitors, such as their IP address (a numeric address assigned automatically to computers when they access the Internet).   We also may place “cookies” on a computer to track a visitor’s use of our web site.  A cookie is a piece of data that is stored on your hard drive.  It takes up very little room on your system and helps us to customize our site and make its navigation easier for you.  We sometimes use cookies to help estimate the number of visitors to our site and to determine which areas are the most popular.  Unless you register with us for a service (such as our online banking service), the cookie does not provide us with any personally identifying information about you, such as your name or address.  
 
-We also recognize that it is possible you may not value the benefits from sharing such information. We respect that, and would like you to have a choice. That is why you can “opt out” of these opportunities with the enclosed brochure.
+Our Collection and Use of Information About You.    
+We may collect nonpublic personal information about you in order to understand your needs, administer our business, process transactions, and provide you with products and services.  We obtain nonpublic personal information about you from the following sources: 
 
-Remember: If you previously exercised your opt out rights, you do not need to make another election; we are required by law to continue mailing you our Privacy Policy annually. Your opt out election remains in effect until revoked in writing. Opt out requests cannot be accepted over the phone. 
+  * Information we receive from you on applications or other forms (such as your name, address, social security number, assets and income); 
+  * Information about your transactions with us, our affiliates, or others (such as your account balance, payment history, parties to transactions, and credit usage); and 
+  * Information we receive from a consumer reporting agency (such as your creditworthiness and credit history).
 
-The Amegy Bank Privacy Policy is our pledge that you can count on us to protect the privacy and security of your information, while continuing to supply you with the finest financial products and services.
 
-We appreciate your business and thank you for your continued confidence and trust. For more information on our Privacy Policy and security practices, please call one of our Customer Service Representatives at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349.
 
-[Printer Friendly Version](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/documents/privacy_policy_c.htm)
+Our Disclosure of Information.   
+We may disclose all of the information we collect, as described above, to other financial institutions with whom we have joint marketing agreements, such as securities broker-dealers, insurance companies and card issuers, so that they can market goods and services to you.  We also may disclose:        
 
-Respecting & Protecting Customer Privacy.
+  * Some of this information, such as your name and address, to companies that perform marketing and other services on our behalf (e.g., to companies that assist us with mailings).  
+        
+  * Information regarding our experience and transactions with you with financial service providers, such as financial institutions, mortgage companies, securities broker-dealers and insurance agencies, with which we are related by common ownership or affiliated by corporate control, so that they may offer or provide additional services to you. We also may share other information we obtain about you with those companies (e.g., information from applications and credit reports), unless you notify us before the information is initially communicated that you do not want us to share that information.  You can tell us not to share such information by writing to us at My Privacy Choices, PO Box 26127,Salt Lake City, UT 84126-0127, or by calling us at 1-888-423-7063.     
+         
+  * Information about your accounts and transactions: (a) where it is necessary or helpful to effect, process or confirm your transactions; (b) to verify the existence, history and condition of your account for credit reporting agencies; (c) to comply with legal process, such as subpoenas and court orders; (d) to law enforcement authorities if we believe a crime has been committed; (e) if you give us your consent; and f) as otherwise permitted by law.  
 
-At Amegy Bank, we know your privacy is important to you and we recognize our obligation to keep information about you secure and confidential. This document has been designed to outline and explain our Privacy Policy. In this document, we tell you:
 
-  * What Customer Information We Collect  
 
-  * What We Do With Customer Information  
+We do not disclose nonpublic personal information about our current or former customers to unaffiliated third parties except as set forth in this policy.   
 
-  * To Whom We Disclose Customer Information 
-  * About Customer Information Sharing Among Our Corporate Family  
+Nonpublic Health Information.   
+If you obtain an insurance product with or through us, we may collect nonpublic personal health information about you.  We do not share nonpublic personal health information unless you have initiated, requested, or otherwise authorized the disclosure in connection with an insurance transaction, or the disclosure is otherwise permitted by law.  
 
-  * How We Share Information Under Joint Marketing Agreements  
+State Rights.  
+ Depending on where you live, you may have additional privacy protections under some state laws.  For example, certain state laws may restrict the types of information we may disclose about you, limit the parties with whom we may share such information, or require us to provide you with additional notices or opt-out rights.  We will comply with applicable state laws before sharing non-public personal information about you.  We may do this by sending a separate notice of those rights to you. 
 
-  * How Our Former Customers Are Protected  
+Maintaining Accurate Information.    
+We have procedures in place that help us to maintain the accuracy of the personally identifiable information that we collect.  Please contact us if you believe that our information about you is incomplete, out-of-date, or incorrect.  If you are an online banking customer, visit our website at [www.amegybank.com](http://www.amegybank.com/) to review and correct information about yourself, such as a change in your name, address or e-mail address.   
 
-  * Our "Opt Out" Policy: Choosing Not To Have Your Information Shared  
+Information Security.    
+We restrict access to nonpublic personal information about you to those employees who have a need to know such information (e.g., to process your transactions or provide services to you).  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
 
-  * How You Can "Opt Out" And Your Right To Do So  
+Links to Other Web Sites.  
+Our web site may feature links to third party web sites that offer goods, services or information.  Some of these sites may appear as windows-within-windows at this site.  When you click on one of these links, you will be leaving our site and will no longer be subject to this policy.  We are not responsible for the information collection practices of the other web sites that you visit and urge you to review their privacy policies before you provide them with any personally identifiable information.  Third party sites may collect and use information about you in a way that is different from this policy.     
 
-  * What You Can Do To Protect Your Financial Information  
+Services and Advertisements by Third Parties.   
+Third parties may offer services from time to time at our web site.  If you provide them with information, their use of that information will be subject to their privacy policy, if any, and will not be subject to this policy.  If you accept third party goods or services advertised at our web site, the third party may be able to identify that you have a relationship with us (e.g., if the offer was only made through our site). 
 
-  * Glossary Of Helpful Terms Related To Privacy  
+Minors.    
+We feel strongly about protecting the privacy of children and teenagers.  As such, we do not knowingly collect personally identifiable information from minors through our web site.   
 
-  * An "Opt Out" Form - If You Wish To Opt Out 
+Changes to this Policy.    
+We may amend (add to, delete, or change) the terms of this Privacy Policy from time to time by posting a notice of the change (or an amended Privacy Policy) at this website.  If required by law, we will send you a notice of the change.  Your continued use of our web site or any on-line service following notification will constitute your agreement to the revised Policy. 
 
-
-
-Our Privacy Policy is subject to change in accordance with applicable law. Any changes to our Privacy Policy will apply to information collected after the effective date of the revision. No provisions contained in the Privacy Policy shall be determined to change or alter any other contracts or policies between us and our customers. 
-
-This Privacy Policy is in effect for all of the following Amegy Bank companies and applies to:   
-
-
-  * **Amegy Bank N.A.**
-  * **Amegy Mortgage Company, L.L.C.**
-  * **Amegy Investments, Inc.**
-
-
-
-For more information on our Privacy Policy and Security practices, please call one of our Customer Service Representatives at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349. 
-
-Protecting The Security And Confidentiality Of Customer Information
-
-Keeping customer financial information secure is one of our most important responsibilities. Only employees who need to know information to provide and/or service our products or services to you have access to your information. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your customer information.
-
-What Customer Information Do We Collect?
-
-Amegy Bank collects customer information for lawful business purposes, to provide superior service, to administer your customer relationships with us and to offer opportunities we think will be of interest to you.
-
-We collect customer information about you from the following sources:
-
-  * _General and Application Information:_ Information you provide on applications or other forms, including through our website, by telephone or otherwise. Examples include your name, address, social security number, income, assets and accounts with us and third parties.  
-
-  * _Transaction and Experience Information:_ Information about your transactions with us, our corporate family, or third parties. For example, your payment histories, account balances, and other transaction records.  
-
-  * _Consumer Report Information:_ Information we receive from a credit bureau. For example, information relating to your credit-worthiness, credit scores and credit usage. 
-
-What Do We Do With Customer Information? 
-
-We primarily use the customer information we collect to:  
-
-
-  * provide financial services we offer, 
-  * evaluate your credit-worthiness, 
-  * administer the products and services you have with us, 
-  * prevent fraud, and 
-  * identify you and communicate with you. 
-
-
-
-We may disclose all of the information that we collect, as described above, in accordance with applicable law.
-
-To Whom Do We Disclose Customer Information?
-
-Amegy Bank may disclose customer information about you to the following types of third parties:
-
-  * Any reputable person or company that offers a product or service that we believe would be useful, helpful and convenient to you. 
-
-
-
-We may also disclose customer information about you to third parties as permitted by law.
-
-About Customer Information Sharing Among Our Corporate Family
-
-Unless you tell us not to, we may share information with companies in our corporate family. This information about you may include:
-
-  * Information we obtain from you or your application, such as your income or your marital status. 
-  * Information we obtain from a consumer report, such as your credit score or credit history. 
-  * Information we obtain to verify representations made by you, such as your open lines of credit. 
-  * Information we obtain from a person regarding your employment, credit, or other relationship with you, such as your employment history. 
-
-
-
-Companies in our corporate family who may receive this information are:
-
-  * Financial service providers, such as mortgage companies, securities broker-dealers, and insurance companies. 
-  * Any reputable company that may offer a product or service that we believe would be useful, helpful and convenient to you. 
-
-How We Share Information Under Joint Marketing Agreements
-
-We may disclose all of the customer information we collect, as described above, and as authorized by law, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
-
-Listed below are the categories of Third Parties with whom we have joint marketing agreements:
-
-  * Marketing companies, insurance companies, and securities broker-dealers. 
-
-
-
-Your ability to "opt out," as described in this privacy policy, does not apply to the sharing of customer information with these third parties or to sharing of customer information otherwise permitted by law.
-
-Your "Opt Out" Rights  
-You can choose not to have your customer information shared with third parties (except as permitted by law) by completing and returning the [Opt Out Election Form](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/documents/optout_form.pdf).
-
-What About Former Customers?
-
-The information in this Privacy Policy applies to our current and former customers. If you are no longer a customer of ours, your "Opt Out" election will continue in effect for all customer information collected during your relationship with us. If you later establish a new relationship with us, you will receive our current privacy notice and at that time may choose whether to opt out of customer information sharing (except for customer information sharing permitted by law).
-
-Our "Opt Out" Policy: Choosing Not To Have Your Information Shared. 
-
-If you prefer that we do not share your customer information with third parties (other than as permitted by law) or if you prefer that we do not share your customer information with companies within our corporate family, you may "Opt Out" of these disclosures. To do so, please complete the attached "OPT OUT ELECTION FORM," check the appropriate box on the form, complete all the requested information, and send the form back to us at the address provided on the form. We will process your request as soon as reasonably practical. Your opt out decision will apply to you and all accounts you hold jointly with another individual(s). On a joint account, we can accept an opt out request from you or anyone else on your account. This opt out will apply to all persons on the joint account. You may choose to opt out of customer information sharing at any time.
-
-How You Can "Opt Out"   
-You can choose not to have this information shared with companies in our corporate family and third parties by completing and returning an [Opt Out Election Form](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/documents/optout_form.pdf).
-
-NOTE: Your direction on this paragraph also covers certain information about you that we might otherwise share with our corporate family. We may share other information about you with our corporate family as permitted by law.
-
-What Can You Do To Protect Your Financial Information?
-
-An important part of the responsibility of protecting your personal information rests with you. What can you do?
-
-  * Immediately report lost or stolen checks or credit cards. 
-  * Memorize personal identification numbers (PIN) - don't carry them in your wallet. 
-  * Promptly review monthly financial statements and immediately report any descrepancies. 
-  * Retain receipts from all ATM, debit and credit card transactions. When you're ready to dispose of them, make sure your account is not readable. 
-  * If you suspect someone has unauthorized access to your account or to any PIN or credit card information, notify us immediately at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349 to speak with a Customer Service Representative. 
-  * Report crimes regarding your customer information to your local law enforcement agency and the Federal Trade Commission (FTC) toll free at 877-ID THEFT (877-438-4338) or online at http://www.consumer.gov/idtheft. 
-
-Glossary
-
-Please refer to this Glossary for the definitions of some important terms we use in our privacy notice:
-
-"We", "us", and "our" mean Amegy Bank N.A., Amegy Investments, Inc., and Amegy Mortgage Company, L.L.C.
-
-"You" and "your" mean individuals who obtain financial products or services primarily for personal, family or household purposes from us. This includes "consumers" (prospects and future customers) and "customers" (current and former) as identified under the Federal Privacy Act.
-
-"Federal Privacy Act" means the privacy provisions of Title V of the Gramm-Leach Bliley Act, and includes regulations issued under that Act.
-
-"Customer Information" means our personally identifiable financial information about a consumer that is identified as "non-public personal information" under the Federal Privacy Act.
-
-"Corporate Family" means (1) any company that we own or control; (2) any company that owns or controls us; and (3) any company that is owned or controlled by the same company that owns or controls us. 
-
-"Third Parties" means individuals and entities that are not part of our corporate family, except for joint employees and others who are excluded under the definition of non-affiliated third parties under the Federal Privacy Act.
+Questions.    
+If you have any questions regarding this Policy, you can call us at 1-888-423-7063 or write to us at My Privacy Choices, PO Box 26127,Salt Lake City, UT 84126-0127.
