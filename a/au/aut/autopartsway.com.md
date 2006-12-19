@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the autopartsway.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420140254id_/http%3A//www.autopartsway.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopartsway.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219172320id_/http%3A//www.autopartsway.com/privacy.cfm) for the most accurate reproduction.*
 
 # Auto Parts at Auto Parts Way - Privacy Policy
 
-  
-**PRIVACY POLICY**  
-
+PRIVACY POLICY 
 
 AutoPartsWay.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting AutoPartsWay.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -27,7 +25,7 @@ AutoPartsWay.com knows that you care how information about you is used and share
 **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. **  
 Promotional Offers:** Sometimes we send offers to selected groups of AutoPartsWay.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your contact our customer service representatives.  
 **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that AutoPartsWay.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.   
-**Protection of AutoPartsWay.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of AutoPartsWay.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.  **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.  
+**Protection of AutoPartsWay.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of AutoPartsWay.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
 
 **How Secure Is Information About Me?**
