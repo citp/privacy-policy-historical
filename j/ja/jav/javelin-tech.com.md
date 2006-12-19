@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321023720id_/http%3A//www.javelin-tech.com/index/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219193947id_/http%3A//www.javelin-tech.com/index/privacy.htm) for the most accurate reproduction.*
 
 # Javelin Technologies Inc - CAD/CAM/CAE/PLM/Education Products & Services
 
