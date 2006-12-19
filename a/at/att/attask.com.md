@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617022507id_/http%3A//www.attask.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219040123id_/http%3A//www.attask.com/privacy.html) for the most accurate reproduction.*
 
-# AtTask Privacy Policy - Project Management Software
+# AtTask Project Management Software - AtTask Privacy Policy
 
 ### General Privacy Policy
 
