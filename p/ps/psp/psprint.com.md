@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614111027id_/http%3A//www.psprint.com/legal/Default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219023524id_/http%3A//www.psprint.com/legal/Default.asp) for the most accurate reproduction.*
 
 # PsPrint Privacy Policy
 
