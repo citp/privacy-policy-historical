@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendcodes.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614081234id_/http%3A//www.friendcodes.com/forums/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendcodes.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219131651id_/http%3A//www.friendcodes.com/forums/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# The Nintendo DS WiFi Community Privacy Policy
+# The Nintendo WiFi Community Privacy Policy
 
 Privacy Policy
 
@@ -40,13 +40,6 @@ Parental Review
 Parents can review the information that we have collected from their children online, prevent the further use or maintenance of such information, or direct the deletion of their children’s personal information by:
 
 * e-mailing us at webmaster@friendcodes.com 
-
-Powered by: vBulletin Version 3.5.4 & Logician's WebTemplates v.3.5.05  
-vBulletin Copyright ©2000 - 2006, Jelsoft Enterprises Ltd. 
-
-SEO by [vBSEO](http://www.crawlability.com/vbseo/) 2.4.5
-
-Skin developed by vBStyles
 
   
 
