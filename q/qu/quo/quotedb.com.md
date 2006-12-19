@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotedb.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413212748id_/http%3A//www.quotedb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotedb.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219110639id_/http%3A//quotedb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
