@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyweek.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619035403id_/http%3A//www.moneyweek.com/file/32/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyweek.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219201555id_/http%3A//www.moneyweek.com/file/32/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Money Week
 
