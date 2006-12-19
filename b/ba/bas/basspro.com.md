@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004422id_/http%3A//www.basspro.com/servlet/catalog.SecurityStatement%3FCMID%3DSECUREBN_IN_PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219063410id_/http%3A//www.basspro.com/servlet/catalog.SecurityStatement%3FCMID%3DSECUREBN_IN_PRIVACY) for the most accurate reproduction.*
 
 # Bass Pro Shops: Fishing, Hunting, and Outdoor Gear
 
@@ -86,4 +86,4 @@ This web site is operated in the United States. Please be aware that any informa
 
 We will update this Statement from time to time to reflect changes in our business. If we change how we use your Personal Information or the purposes or entities for and to which we disclose your Personal Information we will post the policy change notification on our web site. 
 
-Our current Statement was last updated April 28, 2006. [Tell me more ](https://web.archive.org/servlet/catalog.SecurityStatement?hvarCheckout=false&hvarTier=2#updates)
+Our current Statement was last updated September 21, 2006. [Tell me more ](https://web.archive.org/servlet/catalog.SecurityStatement?hvarCheckout=false&hvarTier=2#updates)
