@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203101id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219131908id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
 
-# Cellular Nation Wide Network - cellular accessories for brand names such as SonyEricsson, NEC, Motorola, Nokia, Panasonic, Sanyo and Samsung.
+# Cellular NationWide Network
 
-Cellular Nationwide Network knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Cellular Nationwide Network, you are accepting the practices described in this Privacy Notice. 
+Cellular NationWide Network knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Cellular NationWide Network, you are accepting the practices described in this Privacy Notice. 
 
-**What Personal Information About Customers Does Cellular Nationwide Network Gather?**
+**What Personal Information About Customers Does Cellular NationWide Network Gather?**
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at Cellular Nationwide Network. Here are the types of information we gather. 
+The information we learn from customers helps us personalize and continually improve your shopping experience at Cellular NationWide Network. Here are the types of information we gather. 
 
   * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you. 
   * **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," and we obtain certain types of information when your Web browser accesses our website. 
@@ -18,7 +18,7 @@ The information we learn from customers helps us personalize and continually imp
 
 Cookies are alphanumeric identifier text files that we transfer to your computers hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.
 
-**Does Cellular Nationwide Network Share the Information It Receives?**
+**Does Cellular NationWide Network Share the Information It Receives?**
 
 We respect your privacy and appreciate your business. At no time do we ever provide your account contact or payment information to any third party vendor, associate or service provider unless absolutely neccessary in order to complete your transaction and order.
 
@@ -28,22 +28,22 @@ We work to protect the security of your information during transmission by using
 
 **Which Information Can I Access?**
 
-Cellular Nationwide Network gives you access to a broad range of information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
+Cellular NationWide Network gives you access to a broad range of information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit Cellular Nationwide Network, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of our local state. If you have any concern about privacy of your personal information as used and collected within our website, please send us a thorough description by clicking on the "Contact Us" link on the side menu, and we will try to resolve it. 
+If you choose to visit Cellular NationWide Network, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of our local state. If you have any concern about privacy of your personal information as used and collected within our website, please send us a thorough description by clicking on the "Contact Us" link on the side menu, and we will try to resolve it. 
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 **Information You Give Us**
 
-You provide most such information when you search, buy, order, post reviews, or other methods of communication via our website or email to Cellular Nationwide Network. As a result of those actions, you might supply us with such information as your name, address, and phone numbers, and credit card information.
+You provide most such information when you search, buy, order, post reviews, or other methods of communication via our website or email to Cellular NationWide Network. As a result of those actions, you might supply us with such information as your name, address, and phone numbers, and credit card information.
 
 **Automatic Information**
 
-For security purposes Cellular Nationwide Network sometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website. This is done for your protection for tracking purposes in the unfortunate event that someone gains access to your personal or financial information and opens an account, or makes purchases under your name.
+For security purposes Cellular NationWide Network sometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website. This is done for your protection for tracking purposes in the unfortunate event that someone gains access to your personal or financial information and opens an account, or makes purchases under your name.
 
 **Questions**
 
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[cnn@cnn.cn](mailto:%20cnn@cnn.cn)**
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[info@cnn.cn](mailto:%20info@cnn.cn)**
