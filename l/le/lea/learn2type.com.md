@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504132032id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219161025id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
 
@@ -33,6 +33,9 @@ In accordance with laws and safe practices, any account marked as a "kid" (i.e. 
 * Banner ads displayed (if any) will be filtered; 
 * Public areas will not be available to kids (Messageboard, Guestbook) to prevent contact with any third parties; 
 * Additional security measures may be implemented at our sole discretion, if deemed necessary. 
+
+**Third Party Cookies**   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Contacting the Web Site**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
