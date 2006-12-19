@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511220759id_/http%3A//www.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219170715id_/http%3A//www.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # Thunderbolt City - Privacy Policy
 
