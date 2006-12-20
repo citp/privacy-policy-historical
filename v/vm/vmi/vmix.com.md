@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vmix.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616075758id_/http%3A//www.vmix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmix.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220174514id_/http%3A//www.vmix.com/privacy.php) for the most accurate reproduction.*
 
-# vMix - Privacy Statement
+# vMix - The Free Video Sharing and Hosting Community - Privacy Statement
 
 vMix.com is an online service that allows our members to share their personal videos or videos for which they have cleared all copyright information.
 
@@ -46,4 +46,4 @@ Except as otherwise described in this privacy statement, vMix will not disclose 
 
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@vMix.com](mailto:privacy@vmix.com) (vMix Media Inc., 12707 High Bluff Drive, Suite 200, San Diego, CA 92130)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@vMix.com](mailto:privacy@vmix.com) (vMix Media Inc., 12707 High Bluff Drive, Suite 350, San Diego, CA 92130)
