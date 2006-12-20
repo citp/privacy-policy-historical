@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615171000id_/http%3A//lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220193924id_/http%3A//www.lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Lifescript
 
