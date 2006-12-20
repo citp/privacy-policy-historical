@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428120356id_/http%3A//www.mizunousa.com/corporate.nsf/WebPages01/87B3F6E18F5EC27285256E6A0078AC8B%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220230456id_/http%3A//www.mizunousa.com/corporate.nsf/WebPages01/87B3F6E18F5EC27285256E6A0078AC8B%3FOpenDocument) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,3 +59,6 @@ If you have any questions regarding the Mizuno USA Privacy Policy, you can conta
 
 **Miscellaneous**  
 Mizuno USA may from time to time change the Mizuno USA Privacy Policy with or without notice, so please check it regularly for any changes or updates. For future reference, MIZUNO USA will make a link to the current Mizuno USA Privacy Policy available to you on your screen when you are on our Site. Your use of the Site constitutes your agreement to the Mizuno USA Privacy Policy and your assent to any modification thereto.
+
+  
+
