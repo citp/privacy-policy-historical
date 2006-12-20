@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626085158id_/http%3A//www.queerclick.com/archive/2004/10/our_privacy_pol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220233634id_/http%3A//queerclick.com/archive/2004/10/our_privacy_pol.php) for the most accurate reproduction.*
 
-# QueerClick: Our Privacy Policy
+# QueerClick — Our Privacy Policy
 
-[« The Disclaimer](http://www.queerclick.com/archive/2004/10/the_disclaimer.html) | [Home](http://www.queerclick.com/) | [Terms Of Use »](http://www.queerclick.com/archive/2004/10/terms_of_use.html)
+[« The Disclaimer](http://www.queerclick.com/archive/2004/10/the_disclaimer.php) | [Main](http://www.queerclick.com/) | [Terms Of Use »](http://www.queerclick.com/archive/2004/10/terms_of_use.php)
 
-## October 07, 2004
-
-### Our Privacy Policy
+### See More » [About Us](http://www.queerclick.com/archive/about_us/list.php)
 
 **QueerClick.com Privacy Statement**  
 This statement covers the site [www.QueerClick.com](http://www.queerclick.com/) (QueerClick). Please read this statement carefully before using proceeding to access QueerClick. Your use of QueerClick indicates your agreement to abide by the Terms in effect.
@@ -47,7 +45,4 @@ The QueerClick web site contains links to other sites. Please be aware that we, 
 **Notification of Changes**  
 Whenever QueerClick changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Posted by queerclick at October 7, 2004 06:41 PM  
-Posted to: [About Us ](http://www.queerclick.com/archive/about_us/)
-
-[« The Disclaimer](http://www.queerclick.com/archive/2004/10/the_disclaimer.html) | [Home](http://www.queerclick.com/) | [Terms Of Use »](http://www.queerclick.com/archive/2004/10/terms_of_use.html)
+#####  Written 7.Oct.04 / 
