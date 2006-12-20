@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the state.mi.us privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628195740id_/http%3A//michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.mi.us privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220151224id_/http%3A//www.michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
-# Michigan Privacy Policy
+# SOM - Michigan Privacy Policy
 
 **Scope**
 
@@ -108,5 +108,4 @@ If you are using Navigator 3.x:
   3. Navigator 3.x does not have an option to completely disable accepting cookies. To get a prompt: Check "Accepting a Cookie" under "Show an Alert Before"
   4. Click "OK"
 
-  
 
