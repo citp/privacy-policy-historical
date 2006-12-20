@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619210114id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220083431id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
 
-# Research and Markets - Market Research Reports - Subscribe to our Free Research Notification Service
+# Market Research Reports - Research and Markets - Subscribe to our Free Research Notification Service
 
 Research and Markets knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Research and Markets, you are accepting the practices described in this Privacy Notice. 
 
