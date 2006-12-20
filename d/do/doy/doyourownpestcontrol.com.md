@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyourownpestcontrol.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613005526id_/http%3A//www.doyourownpestcontrol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyourownpestcontrol.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220165548id_/http%3A//www.doyourownpestcontrol.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for www.doyourownpestcontrol.com
 
