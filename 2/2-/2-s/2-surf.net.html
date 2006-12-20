@@ -1,0 +1,811 @@
+<!--The following is the downloaded HTML source of the 2-surf.net privacy policy that was archived on 2006-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061220102904id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr"><head>
+
+ <meta name="author" content="2-surf.com">
+ <meta name="copyright" content="Copyright, 2-surf.com. All rights reserved">
+ <meta name="robots" content="index, follow">
+ <meta name="revisit-after" content="7 days">
+ <meta name="description" content="   Search and find the important things the web has to offer. Not everything on the web, just the stuff you need.">
+  <meta name="keywords" content="   Accessories,Cosmetics,Fragrance,Handbags,Jewelry,Shoes,Photo,Music,Art,Music,Photo,Automotive,Motorcycles,Parts Accessories,Rentals,Tools Supplies,Books,Media,Travel,WebTools">
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+  <link rel="stylesheet" href="http://www.2-surf.net/template/default/css.css"> 
+ 
+
+  <title>   Cosmetics,Fragrance,Handbags,Jewelry,Shoes,Music,Art,Music,Automotive,WebTools</title>
+
+ 
+  <script type="text/javascript" language="JavaScript">
+
+  function textCounter (field, countfield, maxlimit)
+
+  {
+
+  	if (field.value.length > maxlimit)
+
+  	field.value = field.value.substring(0, maxlimit);
+
+  	else
+
+  	countfield.value = maxlimit - field.value.length;
+
+  }
+
+  function newWindow (mypage,myname,w,h,features)
+
+  {
+
+  	if(screen.width)
+
+  	{
+
+  		var winl = (screen.width-w)/2;
+  		var wint = (screen.height-h)/2;
+
+  	}
+
+  	else
+
+  	{
+
+  		winl = 0;wint =0;
+
+  	}
+
+  	if (winl < 0) winl = 0;
+  	if (wint < 0) wint = 0;
+
+  	var settings = 'height=' + h + ',';
+  	settings += 'width=' + w + ',';
+  	settings += 'top=' + wint + ',';
+  	settings += 'left=' + winl + ',';
+  	settings += features;
+  	settings += ' scrollbars=yes ';
+
+  	win = window.open(mypage,myname,settings);
+
+  	win.window.focus();
+
+  }
+
+function checkemail (emailStr) 
+{
+var checkTLD=1;
+var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
+var emailPat=/^(.+)@(.+)$/;
+var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
+var validChars="\[^\\s" + specialChars + "\]";
+var quotedUser="(\"[^\"]*\")";
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+var atom=validChars + '+';
+var word="(" + atom + "|" + quotedUser + ")";
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+var matchArray=emailStr.match(emailPat);
+
+if (matchArray==null) 
+{
+alert("Sorry, email is incorrect");
+return false;
+}
+var user=matchArray[1];
+var domain=matchArray[2];
+
+for (i=0; i<user.length; i++) {
+if (user.charCodeAt(i)>127) {
+alert("Sorry, email is incorrect");
+return false;
+   }
+}
+for (i=0; i<domain.length; i++) {
+if (domain.charCodeAt(i)>127) {
+alert("Sorry, email is incorrect");
+return false;
+   }
+}
+
+if (user.match(userPat)==null) 
+{
+alert("Sorry, email is incorrect");
+return false;
+}
+
+var IPArray=domain.match(ipDomainPat);
+if (IPArray!=null) {
+
+for (var i=1;i<=4;i++) {
+if (IPArray[i]>255) {
+alert("Sorry, email is incorrect");
+return false;
+   }
+}
+return true;
+}
+
+var atomPat=new RegExp("^" + atom + "$");
+var domArr=domain.split(".");
+var len=domArr.length;
+for (i=0;i<len;i++) {
+if (domArr[i].search(atomPat)==-1) {
+alert("Sorry, email is incorrect");
+return false;
+   }
+}
+
+if (checkTLD && domArr[domArr.length-1].length!=2 && 
+domArr[domArr.length-1].search(knownDomsPat)==-1) {
+alert("Sorry, email is incorrect");
+return false;
+}
+
+if (len<2) {
+alert("Sorry, email is incorrect");
+return false;
+}
+
+return true;
+}
+
+  </script>
+ <link rel="shortcut icon" href="http://www.2-surf.net/template/default/images/2surf.gif">
+
+ </head>
+
+<body>
+
+ <table width="100%" cellspacing="0" class="bodyborder" cellpadding="0" border="0">
+  <tbody><tr>
+   <td valign="top" align="left" width="100%">
+
+   <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+     <td width="100%" align="left" valign="top">
+
+           <table width="100%" cellspacing="0" cellpadding="2" border="0">
+       <tbody><tr>
+        <td valign="middle" align="center" width="25" bgcolor="#BABABA" height="17">
+         <a href="http://www.2-surf.net"><img src="http://www.2-surf.net/template/default/images/home.gif" border="0" alt="HOME"></a><br>
+        </td>
+        <td valign="middle" width="100%" align="left" bgcolor="#BABABA" height="17">
+         <!--  $incomingline is a content generated for the status line, don't remove it! -->
+         <font color="white">Home<br></font>
+        </td>
+       </tr>
+      </tbody></table>
+
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+       <tbody><tr>
+        <td width="20%" align="left" valign="top">
+         
+	 
+	 
+	 <a href="http://www.2-surf.net/"><img src="http://www.2-surf.net/template/default/images/logo.jpg" border="0" alt="Web Directory, and Webmaster Web Tools     "></a>
+</td>
+<td width="20%" align="right" valign="top">
+<iframe src="http://www.2-surf.net/ads/image.php?size_id=4" width="468" height="75" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" vspace="0" hspace="0"><br><font size=-1></iframe> 
+<br>
+        </td>
+        
+       </tr>
+      </tbody></table>    
+
+     </td>
+    </tr>
+
+    <tr>
+     <td valign="middle" align="left" width="100%" bgcolor="#FFFFFF">
+
+   <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+     <td valign="top" align="center" width="20%">
+
+    
+
+ <br>
+
+  <table width="90%" cellspacing="0" cellpadding="5" border="0">
+
+   <tbody><tr>
+
+    <td class="border2" width="100%" height="25" background="http://www.2-surf.net/template/default/images/cell-background.gif" valign="center" align="center">
+
+      <font face="tahoma" color="black">Menu</font>
+
+    </td>
+
+  </tr>
+
+  <tr>
+ 
+    <td class="border" width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+
+     <br>
+
+
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+          <a href="http://www.2-surf.net/"> Home </a>
+
+           <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+          <a href="http://www.2-surf.net/reg.php"> Submit Listing Free </a>
+
+           <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/compare.php"> Compare Memberships </a>
+
+           <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/user.php"> User Login </a>
+
+           <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/search.php"> Advanced search </a>
+
+           <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0">
+          <a href="http://www.2-surf.net/contact.php"> Contact Us </a>
+	  
+	  <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0">
+          <a href="http://www.2-surf.net/privacy.php"> Privacy Policy </a>
+	  
+	  <br> <br> <br>
+	  
+	  <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0">
+          <a target="_blank" href="http://www.directorycritic.com/rate/1047454-2-Surf-net.html"> Rate 2-Surf </a>
+	  
+
+           <br> <br><hr><center><b>Webmaster Tools</b></center><hr> <br><br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/rank_tester.php"> Free Rank Tester </a>
+	  
+	  <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/meta_tags.php"> Free Metatag Generator </a>
+
+	  <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/keywords.php"> Free Keyword Generator </a>
+	  
+	  <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/templates.php"> Templates And Clipart </a>
+
+           <br> <br> <br>
+
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/directories.php"> Directory List </a>
+
+           <br> <br> <br>
+	   
+          <img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0"> 
+	  <a href="http://www.2-surf.net/ads/"> 2-Surf Ads Network </a>
+	  
+<br> <br> <br>
+<a href="http://top.seo-links.org/">
+<img src="http://top.seo-links.org/button.php?u=2surf" alt="Free Web Directory List" border="0">
+</a>
+<br> <br> <br>
+<a href="http://www.directorycritic.com/rate/1047454-2-Surf-net.html" title="Rate 2-Surf.net" target="_blank">
+<img src="http://www.directorycritic.com/images/banners/directorycritic4.gif" alt="Directory Critic Button" border="0"></a>
+
+
+ 
+
+    </td>
+  </tr>
+ </tbody></table>
+
+
+    <br> <a href="http://www.2-surf.net/out.php?ID=190&amp;type=banner2" target="new"><img src="http://www.2-surf.net/./banner2/190.gif" border="0" alt="Advertisement"> <br> </a>
+    
+
+ <br>
+
+  <table width="90%" cellspacing="0" cellpadding="5" border="0">
+
+   <tbody><tr>
+
+    <td class="border2" width="100%" height="25" background="http://www.2-surf.net/template/default/images/cell-background.gif" valign="center" align="center">
+
+      <font face="tahoma" color="black">Top Main Categories</font>
+
+    </td>
+
+  </tr>
+
+  <tr>
+ 
+    <td class="border" width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+
+     <br>
+
+&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Accessories/1-0.html"><b><u>Accessories</u></b></a> &nbsp;&nbsp;<span class="sideboxtext">(<b>47218</b> Hits)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Web-Services/28-0.html"><b><u>Web Services</u></b></a> &nbsp;&nbsp;<span class="sideboxtext">(<b>39064</b> Hits)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Health-&amp;-Beauty/17-0.html"><b><u>Health &amp; Beauty</u></b></a> &nbsp;&nbsp;<span class="sideboxtext">(<b>37072</b> Hits)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Automotive/3-0.html"><b><u>Automotive</u></b></a> &nbsp;&nbsp;<span class="sideboxtext">(<b>36959</b> Hits)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Business/5-0.html"><b><u>Business</u></b></a> &nbsp;&nbsp;<span class="sideboxtext">(<b>35627</b> Hits)</span><br><br>
+     
+
+ 
+
+    </td>
+  </tr>
+ </tbody></table>
+
+
+    
+
+ <br>
+
+  <table width="90%" cellspacing="0" cellpadding="5" border="0">
+
+   <tbody><tr>
+
+    <td class="border2" width="100%" height="25" background="http://www.2-surf.net/template/default/images/cell-background.gif" valign="center" align="center">
+
+      <font face="tahoma" color="black">Recent Listings</font>
+
+    </td>
+
+  </tr>
+
+  <tr>
+ 
+    <td class="border" width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+
+     <br>
+
+&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-15910-0-0.html"><b><u>Sarah Ogren Mixed Media Artist</u></b></a> - USA, Illinois <br><br>&nbsp;&nbsp;<span class="boxdescr">Sarah Ogren is a mixed media and collage artist. Her work combines her love of vintage images and de</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(11-01-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Business/Business-To-Business/5-18-0-18021-0-0.html"><b><u>DreamJob.com.au</u></b></a> - Australia, Alabama <br><br>&nbsp;&nbsp;<span class="boxdescr">Find your dream job in Australia. Thousands of jobs to choose from.</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(12-05-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Gifts-&amp;-Flowers/Gifts/16-67-0-10605-0-0.html"><b><u>ACORN-ACTIVITIES</u></b></a> - United Kingdom,  <br><br>&nbsp;&nbsp;<span class="boxdescr">"Unique birthday gifts - motoring and extreme adventure activity vouchers, relaxing spa break v</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(10-19-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Family/Babies/12-45-0-112-0-0.html"><b><u>Babies Online</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">Bubbles - Free web page for baby, info for parents, cute baby contest. </span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(10-19-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Automotive/Cars-&amp;-Trucks/3-7-0-5717-0-0.html"><b><u>Texas Traffic School</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">TicketRelief.com offer online traffic school to California, Florida, and Texas residents. Clear your</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(10-20-2006)</span><br><br>
+     
+
+ 
+
+    </td>
+  </tr>
+ </tbody></table>
+
+
+   <br>
+
+  
+  </td>
+  <td valign="top" align="center" width="60%" bgcolor="#FFFFFF">
+  
+
+      <!-- HEADER END -->
+
+ <table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+   <td align="center" valign="middle" width="100%" bgcolor="#F1F1F1">
+
+ <form name="search" action="search-1.php" method="POST">
+ <table width="100%" cellspacing="0" cellpadding="5" border="0">
+  <tbody><tr>
+   <td align="right" valign="middle" width="20%" bgcolor="#F1F1F1">
+     Business:
+
+   </td>
+   <td valign="middle" align="left" width="30%" bgcolor="#F1F1F1">
+    <input type="text" name="skey" size="20" maxlength="64">
+
+<script type="text/javascript"><!--
+document.search.skey.focus();
+//--></script>
+
+</td>
+
+<td valign="middle" align="left" width="30%" bgcolor="#F1F1F1">
+<select name="location" style="width:135;">
+
+<option value="ANY">In all cities</option><option value="7"> » Australia
+</option><option value="2"> » Canada
+</option><option value="9"> » Hungary
+</option><option value="4"> » India
+</option><option value="5"> » Israel
+</option><option value="8"> » Italy
+</option><option value="10"> » Other
+</option><option value="6"> » Tiawan
+</option><option value="3"> » United Kingdom
+</option><option value="1"> » USA
+</option></select></td>
+<td valign="middle" width="20%" align="left" bgcolor="#F1F1F1">
+<input type="submit" name="submit" value="Search">
+</td>
+</tr>
+</tbody></table>
+
+</form>
+
+
+<form action="search-2.php" method="post">
+
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+<tbody><tr>
+<td align="right" valign="middle" width="20%" bgcolor="#F1F1F1">
+
+Product:
+
+</td><td valign="middle" width="30%" align="left" bgcolor="#F1F1F1">
+
+<input type="text" name="pkey" size="20" maxlength="64">
+
+</td><td valign="middle" align="left" width="30%" bgcolor="#F1F1F1">
+
+<select name="type" style="width:135;">
+
+<option value="ANY">In all types</option><option value="1"> » Offers to Sell
+</option><option value="2"> » Offers to Buy
+</option><option value="3"> » Services
+</option></select>
+</td>
+
+<td valign="middle" align="left" width="20%" bgcolor="#F1F1F1">
+<input type="submit" name="submit" value="Search">
+
+<br>
+
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="search-4.php" method="post">
+
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+<tbody><tr>
+<td align="right" valign="middle" width="20%" bgcolor="#F1F1F1">
+
+Image:
+
+</td><td valign="middle" width="30%" align="left" bgcolor="#F1F1F1">
+
+<input type="text" name="pkey" size="20" maxlength="64">
+
+</td><td valign="middle" align="left" width="30%" bgcolor="#F1F1F1">
+
+</td>
+
+<td valign="middle" align="left" width="20%" bgcolor="#F1F1F1">
+<input type="submit" name="submit" value="Search"><br>
+</td>
+</tr>
+</tbody></table>
+</form></form>
+
+
+
+
+<br> 
+  
+<form action="http://www.2-surf.com/index.php" method="post">
+<input type="text" name="query_string" value="">
+<input type="submit" name="search" value="Web Search >>">
+</form>
+
+    <br>
+</td>
+</tr>
+</tbody></table>
+
+ <br> 
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+   <tbody><tr>
+    <td valign="middle" align="center" width="100%">
+
+<br> <a href="http://www.2-surf.net/alpha-A-0.html"><u>A</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-B-0.html"><u>B</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-C-0.html"><u>C</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-D-0.html"><u>D</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-E-0.html"><u>E</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-F-0.html"><u>F</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-G-0.html"><u>G</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-H-0.html"><u>H</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-I-0.html"><u>I</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-J-0.html"><u>J</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-K-0.html"><u>K</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-L-0.html"><u>L</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-M-0.html"><u>M</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-N-0.html"><u>N</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-O-0.html"><u>O</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-P-0.html"><u>P</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-Q-0.html"><u>Q</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-R-0.html"><u>R</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-S-0.html"><u>S</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-T-0.html"><u>T</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-U-0.html"><u>U</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-V-0.html"><u>V</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-W-0.html"><u>W</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-X-0.html"><u>X</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-Y-0.html"><u>Y</u></a>&nbsp;&nbsp;<a href="http://www.2-surf.net/alpha-Z-0.html"><u>Z</u></a>&nbsp;&nbsp;<br> <br> 
+    </td>
+   </tr>
+  </tbody></table>
+ <br> 
+
+
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+   <tbody><tr>
+    <td width="100%" valign="top" align="center">
+    <br> 
+    
+    <font size="+1">2-Surf.net's and 2-surf.com's Privacy Policy</font><p></p>
+		<p><b><u>Privacy Statement</u></b><br>
+		2-Surf.net and 2-surf.com respects the privacy of our listers. The information we collect about our listers is used by our company only.
+		 We retain the data we collect for our business practices only.
+		 Our purpose for collecting data is to complete transactions, enhance our site and product offerings, and maintain and secure our site.
+		 The types of data we collect are characteristics such as website information, company name and information, email address, passive activity such as pages visited, and physical address, phone number, and purchase information. Users can access all information by logging onto their account.</p>
+		<p><b><u>Specific Data Collected</u></b><br>This privacy policy declares collected data in groups. This policy contains 3 data groups. The manner in which data is collected and used is described for each group in the following descriptions.</p>
+
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="80%"><tbody><tr><td>
+		<p><u>Data Group: Web Access Log</u><br>
+		</p><p>The following information is collected:</p>
+		<ul>
+		<li>ClickStream Information
+		</li><li>HTTP Protocol Information
+		</li></ul>
+		<p>Data is collected from all Web users in access logs.</p>
+
+		
+		<p>The collected data will be used for the following purposes:</p>
+		<ul>
+		<li>Website/system administration
+		</li><li>Research and Development
+		</li></ul>
+		<p>We are the only entity having access to the data</p>
+		<p>The data is retained untill listing is removed</p>
+		<p><u>Data Group: Purchase Transaction</u><br>
+
+		</p><p>The following information is collected:</p>
+		<ul>
+		<li>User's Name
+		</li><li>User's business Contact Information
+		</li><li>Purchase Information
+		</li></ul>
+		<p>Data is collected in order to process your purchase.</p>
+		<p>The collected data will be used for completion of current activity</p>
+		<p>We are the only entity having access to the data</p>
+
+		<p>The data is retained untill listing is removed</p>
+
+		<p><u>Data Group: Privacy Policy Info</u><br>
+		</p><p>The following information is collected:</p>
+		<ul>
+		<li>Business/Organization Name
+		</li><li>Address of Business/Organization
+		</li><li>Contact Information for the Business/Organization
+		</li></ul>
+
+		<p>Information is collected to allow us to insert information into your privacy policy.</p>
+		<p>The collected data will be used for completion of current activity</p>
+		<p>We are the only entity having access to the data</p>
+		<p>Information is retained according to our stated business practices.</p>
+		</td></tr></tbody></table>
+
+
+		<p><b><u>Data Security</u></b><br>
+
+		2-Surf.net and 2-surf.com uses secure encryption technology (secure socket connection) for all sensitive financial information transmitted on our site. Our company has physical security in our facilities to protect against the loss, misuse, or alteration of information.
+		</p><p><b><u>Links and Advertisements</u></b><br>
+		Our website contains links to your sites. We do not partner with or have special relationships with any ad server companies that require any of our data for any reason. We are not responsible for the privacy practices or the content of any web sites having ads or links on our listings. Please review the privacy policy of those sites to understand the implications of providing information to them.</p>
+		<p><b><u>Visitors Under 13 Years of Age</u></b><br>
+		2-Surf.net and 2-surf.com does not knowingly collect personally identifiable information online from a child under 13 since our site is not directed at children.
+		</p><p><b><u>Changes to the Privacy Statement</u></b><br>
+		The information you submit to us is controlled by the privacy policy in effect at the time you submit it. If we significantly change our policy, we will post a notice in a conspicuous place on our website notifying visitors of policy changes.
+		</p><p><b><u>Cookies</u></b><br>
+
+		2-Surf.net and 2-surf.com does use cookies for loging into your accounts.
+		</p>
+		<p><b><u>Data Retention Statement</u></b><br>
+		We keep information about your business purchases for 1 year if you purchase a upgrade.</p>
+		<p><b><u>Contact Information</u></b><br>
+		Using the following information, you can contact us if you have questions about our privacy policy.<br><table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr><td colspan="2" width="50">&nbsp;</td><td>
+
+		</td></tr><tr><td width="50">&nbsp;</td><td>E-mail: <a href="http://www.2-surf.net/contact.php">Customer Service</a></td></tr>
+		</tbody></table></p>
+		<p><b><u>Resolving Privacy Policy Disputes</u></b><br>
+		If you think we have not followed our privacy policy in some way, it can be resolved in the following manner.
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr><td width="50">&nbsp;</td><td>Email <a href="http://www.2-surf.net/contact.php">Customer Service</a></td></tr>
+		</tbody></table></p>
+
+		<p><b><u>Legal Disclaimer</u></b><br>
+		Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.</p>
+		<!--  End Privacy Policy  -->
+	</td></tr></tbody></table>
+	
+	<p align="center"><b>2-Surf.net's and 2-surf.com's Privacy Policy</b>
+    
+    
+<br>
+
+</p></td></tr></tbody></table><br> <br>        <!-- FOOTER -->
+
+       </td>
+       <td valign="top" align="center" width="20%">
+
+	
+
+ <br>
+
+  <table width="90%" cellspacing="0" cellpadding="5" border="0">
+
+   <tbody><tr>
+
+    <td class="border2" width="100%" height="25" background="http://www.2-surf.net/template/default/images/cell-background.gif" valign="center" align="center">
+
+      <font face="tahoma" color="black">Help</font>
+
+    </td>
+
+  </tr>
+
+  <tr>
+ 
+    <td class="border" width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+
+     <br>
+
+
+&nbsp;&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;&nbsp;Welcome! Use this window to get help and other useful notes on how to achieve the best results while working with the system.<br><br>
+ 
+
+    </td>
+  </tr>
+ </tbody></table>
+
+
+	<br> <a href="http://www.2-surf.net/out.php?ID=469&amp;type=banner2" target="new"><img src="http://www.2-surf.net/./banner2/469.gif" border="0" alt="Advertisement"> <br> </a>
+	
+
+ <br>
+
+  <table width="90%" cellspacing="0" cellpadding="5" border="0">
+
+   <tbody><tr>
+
+    <td class="border2" width="100%" height="25" background="http://www.2-surf.net/template/default/images/cell-background.gif" valign="center" align="center">
+
+      <font face="tahoma" color="black">Featured Listings</font>
+
+    </td>
+
+  </tr>
+
+  <tr>
+ 
+    <td class="border" width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+
+     <br>
+
+&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Web-Services/Scripts-and-software/28-125-0-11954-0-0.html"><b><u>LyricsQwest.net</u></b></a> - USA, North Carolina <br><br>&nbsp;&nbsp;<span class="boxdescr">Muisc lyrics script with over 140,000 lyrics included in the database.<br><br>Hurry while this scrip</span> 
+
+  <br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/ClothingApparel/Women's/7-28-0-15764-0-0.html"><b><u>Felix-Enterprises</u></b></a> - USA, Oregon <br><br>&nbsp;&nbsp;<span class="boxdescr">welcome to Felix-Enterprises, we carry a large selection of hot lingerie, sexy intimate apparel,stoc</span> 
+
+  <br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Business/Business-To-Business/5-18-0-16288-0-0.html"><b><u>SubmitEaze - Directory Submission Software</u></b></a> - Other, Other <br><br>&nbsp;&nbsp;<span class="boxdescr">Submit your Website to Hundreds of Web Directories Quickly &amp; Effortlessly<br><br>SubmitEaze is a</span> 
+
+  <br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-16177-0-0.html"><b><u>StubHub.com</u></b></a> - USA, California <br><br>&nbsp;&nbsp;<span class="boxdescr">StubHub is the fan's ticket marketplace, enabling customers to buy and sell tickets at fair mar</span> 
+
+  <br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-14132-0-0.html"><b><u>The Cellular One</u></b></a> - USA, Kansas <br><br>&nbsp;&nbsp;<span class="boxdescr">Compare Cell Phones, Research Cellular phones, Free cell phones, Compare Cell Phone plans, cell phon</span> 
+
+  <br><br>
+     
+
+ 
+
+    </td>
+  </tr>
+ </tbody></table>
+
+
+        
+
+ <br>
+
+  <table width="90%" cellspacing="0" cellpadding="5" border="0">
+
+   <tbody><tr>
+
+    <td class="border2" width="100%" height="25" background="http://www.2-surf.net/template/default/images/cell-background.gif" valign="center" align="center">
+
+      <font face="tahoma" color="black">Top Listings</font>
+
+    </td>
+
+  </tr>
+
+  <tr>
+ 
+    <td class="border" width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+
+     <br>
+
+&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-466-0-0.html"><b><u>Hot Topic</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">Hottopic.com brings fashion and music together with the latest styles in punk, rock, gothic, club, r</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(<b>1978</b> Hits since 10-19-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Family/Entertainment/12-47-0-121-0-0.html"><b><u>Barbecues.com</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">Your backyard barbecue source.</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(<b>1875</b> Hits since 10-19-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Careers/Employment/6-23-0-190-0-0.html"><b><u>CareerBuilder.com</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">Search &amp; Apply to New Jobs </span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(<b>1770</b> Hits since 10-19-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Computer-&amp;-Electronics/Computer-Software/9-37-0-181-0-0.html"><b><u>CallWave Software...because some calls really matter!</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">Surf the Internet without missing important calls. Downloads in minutes. Try CallWave Risk-Free for </span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(<b>1687</b> Hits since 10-19-2006)</span><br><br>&nbsp;<img src="http://www.2-surf.net/template/default/images/arrow.gif" border="0" alt="">&nbsp;<a href="http://www.2-surf.net/Recreation-&amp;-Leisure/Matchmaking/24-97-0-82-0-0.html"><b><u>AmericanSingles.com</u></b></a> - USA,  <br><br>&nbsp;&nbsp;<span class="boxdescr">americansingles.com - Free personals, dating, chat, millions of members</span> 
+
+  <br><br>&nbsp;&nbsp;<span class="sideboxtext">(<b>1599</b> Hits since 10-19-2006)</span><br><br>
+     
+
+ 
+
+    </td>
+  </tr>
+ </tbody></table>
+
+
+
+        <br>
+
+       </td>
+      </tr>
+     </tbody></table>
+
+        <br>
+        <br>
+
+     </td>
+    </tr>
+
+    <tr>
+     <td width="100%" height="1" bgcolor="#DADADA">
+      <img src="http://www.2-surf.net/template/default/images/pixel.gif" alt=""><br>
+     </td>
+    </tr>
+
+    <tr>
+     <td colspan="3" width="100%">
+
+  <div align="center">
+
+   <br> 
+
+      © 2001-2006   
+    <a href="http://www.2-surf.net/">
+      2-surf.net
+    </a> 
+
+   (v. 10.1.4-rel)
+
+     All Rights Reserved.
+
+   <br> <br>
+
+	All logos and trademarks in this site are property 
+	of their respective owners.
+
+       <br>
+      <br>
+
+<br>
+<iframe src="http://www.2-surf.net/ads/image.php?size_id=4" width="468" height="75" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" vspace="0" hspace="0"><br><font size=-1></iframe> 
+<br>
+
+  </div>
+
+   </td>
+  </tr>
+ </tbody></table>
+
+ 
+
+
+</body></html>
