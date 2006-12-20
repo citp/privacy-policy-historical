@@ -1,0 +1,318 @@
+<!--The following is the downloaded HTML source of the stylefeeder.com privacy policy that was archived on 2006-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061220081320id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="verify-v1" content="SC37LvMS/EvponNMhtVbRkTp/hdPCBeSkJ5/hk2WK6k=">
+		<meta name="robots" content="index,follow">
+		<title>Information - StyleFeeder.com</title>
+		<link rel="shortcut icon" href="/favicon-2.ico" type="image/x-icon">
+		
+		
+		
+		
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.stylefeeder.com/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.stylefeeder.com/js/effects.js"></script>
+<script type="text/javascript" src="http://www.stylefeeder.com/js/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.stylefeeder.com/js/controls.js"></script>
+<script type="text/javascript" src="http://www.stylefeeder.com/js/forms.js"></script>
+<script type="text/javascript" src="http://www.stylefeeder.com/js/sf-10.js"></script>
+<script type="text/javascript" src="http://www.stylefeeder.com/js/rico.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://www.stylefeeder.com/css/sf-46.css">
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.stylefeeder.com/css/ie7.css" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.stylefeeder.com/css/ie6.css" />
+<![endif]-->
+
+<!--[if lte IE 5.5]>
+<style type="text/css" media="screen">/* begin hide \*/ @import "http://www.stylefeeder.com/css/ie5.css"; /* end hide */</style>
+<![endif]-->
+
+<script type="text/javascript">
+	function performSearch(id, q) {
+		$(id).innerHTML='Searching...';
+		var url = '/ajax/search-process.html';
+		var searchResults = new Ajax.Updater(id, url, {method: 'get', parameters: "q=" + q});
+	}
+	
+	function sendItem(to, msg, bmid) {
+		if (to == '') {
+			alert('Please specify a valid email address in the To: field');
+			return false;			
+		}
+	
+		$('sendStatus').innerHTML="Sending...";
+		var pars = 'to=' + encodeURIComponent(to) + '&msg=' + encodeURIComponent(msg) + "&bmid=" + bmid;
+		var myAjax = new Ajax.Request(
+			"http://www.stylefeeder.com/xml/ajax/sendBookmark", 
+			{ method: 'post', parameters: pars, onSuccess: completeSending, onFailure: sendFailed }
+			);	
+	}
+	
+	function copyItem(bmid) {
+		if (bmid == '') {
+			alert('Hmm... something has gone wrong.  Sorry!');
+			return false;
+		}
+		
+		var pars = 'bmid=' + encodeURIComponent(bmid);
+		var myAjax = new Ajax.Request( 
+			"http://www.stylefeeder.com/xml/ajax/copyBookmark",
+			{ method: 'post', parameters: pars, onSuccess: completeCopy(bmid), onFailure: copyFailed }
+		);
+		
+	}
+	
+	function viewBookmarks(viewState) {
+		if (viewState == '') {
+			alert("Hmmm... something has gone wrong.  Sorry!");
+		}
+		
+		var pars = 'viewState=' + encodeURIComponent(viewState);
+		var myAjax = new Ajax.Request(
+			"http://www.stylefeeder.com/xml/ajax/viewState",
+			{ 	method: 'post', parameters: pars, 
+				onComplete: document.location.reload(),
+				asynchronous: false }
+		);
+	}
+	
+	function addToWatchlist(username) {
+		alert('Please sign in first'); return false;
+
+		var url = "http://www.stylefeeder.com/xml/ajax/addtowatchlist";
+		var pars = "u=" + username;
+		var myAjax = new Ajax.Updater('addedMsg', url, {method: 'get', parameters: pars, onFailure: generalError} );
+		Effect.Pulsate('addedMsg');
+	}
+	
+	
+	function rateItem(e, id, rating, callback) {
+	
+		
+			alert('Please sign in first!');
+			return false;
+		
+	
+		e.parentNode.parentNode.className='rateHover' + rating;
+		var pars = 'id=' + id + '&rating=' + rating;
+		
+		if (callback != null) {
+			pars += '&getNextRating=true';
+			var resultAjax = new Ajax.Updater('rateableBookmark', "http://www.stylefeeder.com/ajax/rating-process.html",
+								 { parameters: pars, method: 'get', onFailure:generalError });
+		} else {
+			var bmAjax = new Ajax.Request("http://www.stylefeeder.com/ajax/rating-process.html",
+										  { parameters: pars, method: 'get', onFailure: generalError });
+		}
+		
+		
+		if (callback != null) {
+			callback(id, rating);
+		}
+		var rateCount = document.getElementById("count_" + id);
+		if(rateCount!=null) {
+			switch(rating) {
+				case 1: rateCount.innerHTML='Ouch!'; break;
+				case 2: rateCount.innerHTML='There\'s better stuff out there...'; break;
+				case 3: rateCount.innerHTML='Thanks!'; break;
+				case 4: rateCount.innerHTML='Glad you like it!'; break;
+				case 5: rateCount.innerHTML='It\'s a winner!'; break;
+			}
+		}
+	}
+	
+</script>
+		
+	</head>
+
+	<body onload="initPage(); return true;">
+						
+	<div id="container">
+		<div id="headerWrap">	
+			<div id="headTop">
+				<div id="topLeft"><a href="/"><img src="/images/header-logo-5.gif" alt="StyleFeeder — Share your sense of style" border="0" title="StyleFeeder — Share your sense of style"></a></div>
+				<div id="topMid">
+					<p>
+					<a href="/allgroups.html">Groups</a> / 
+					 
+					<a href="/watchlist.html">Your Watchlist</a> / 
+					<a href="/recommendations.html">Recommendations</a> / 
+					<a href="/info/faq.html">Help</a>
+					</p>
+				</div>
+					
+				<div id="topRight">
+					<form action="/search.html" method="get">
+						<input type="search" name="q" placeholder="Start your search" autosave="StyleFeeder Searches" results="5" id="q" onfocus="searchFocus(this)" ;="">
+					</form>
+				</div>
+			</div>
+			<div id="headTabs">
+				
+	
+				<div id="tabRight">
+					
+						
+						
+							<div id="login"><span><a href="/myaccount.html">Sign in</a></span></div>
+						
+					
+					<div id="account"><span><a href="/myaccount.html">My Profile</a></span></div>
+					<div id="addItem"><span class="addIcon"><a href="/bookmark-form.html">Add an Item</a></span></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="bodyContainer">
+
+			<div id="emailBox" style="display: none;">
+				<h2>Send to a Friend</h2>
+				<form id="sendForm" method="post" onsubmit="return false;">
+					<input id="sendbmid" type="hidden" name="sendbmid" value="">
+					<b>To:</b> <input type="text" width="50" id="emailto" name="emailto"><br>
+					<i>(Separate multiple e-mail addresses with commas. Limited to 10 addresses.)</i> <br>
+					<br>
+					<b>From:</b> <br>
+					<br>
+					<b>Message:</b> <br>
+					<i>A link to the item will be included in the email</i><br>
+					<textarea id="msg" name="msg" rows="5" cols="50"></textarea>
+					<br>
+					<input type="submit" value="Cancel" onclick="$('emailBox').style.display='none'; return false;">
+					<input type="submit" value="Send" onclick="sendItem($F('emailto'), $F('msg'), $F('sendbmid')); return false;">
+					<div id="sendStatus"></div>
+				</form>
+			</div>
+
+			<div id="imported">
+	
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+	
+		
+			<!-- end header -->
+
+
+	
+<h1><a href="/">Home</a> / StyleFeeder Privacy Policy</h1>
+
+
+
+	
+<div class="storycontent">
+  	<p>Effective July 12, 2006</p>
+	<p><a href="http://www.truste.org/ivalidate.php?url=www.stylefeeder.com&amp;sealid=101"><img border="0" src="http://s.stylefeeder.com/clickseal.gif"></a></p>
+	<h2>Our Commitment To Privacy</h2>
+	<p>StyleFeeder is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site <a href="http://stylefeeder.com">stylefeeder.com</a>.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
+	<p>If you have questions or concerns regarding this statement, you should first contact Aaron Weber at info@stylefeeder.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>.  TRUSTe will then serve as a liaison with us to resolve your concerns. </p>
+	<h2>The Information We Collect</h2>
+	<p>To join our site, you will need to provide an email address, login name, and password. You may also choose to include an image and a short description of yourself.  We suggest that you do not include sensitive or personally identifiable information.  Finally, items you add to our site as bookmarks also count as information we collect. You can choose to keep those items listed as part of your StyleFeed, or submit them anonymously.</p>
+	<p>To post in the StyleFeeder Forums, you must register as a member of the site. All posts can be viewed by the general public.</p>
+	<p>To post a comment on the <a href="http://blog.stylefeeder.com">StyleFeeder blog</a>, you do not need to be a member of the site, but you must provide a name and email address. We do not disclose this email address to anyone. All comments can be viewed by the general public. </p>
+	<h2>The Way We Use Information:</h2>
+	<p>In summary, we will not send junk mail and we will not share personally identifying information about you with third parties.  </p>
+	<h3>Email Addresses</h3>
+	<p>We use your email address for only three things: </p>
+	<ul>
+<li> To answer email that we get from you.</li>
+	<li> To remind you of your password if you request it.</li>
+	<li> To send you a single confirmation email when you sign up. </li>
+	</ul>
+	<p>You can not opt-out of receiving these communications which are critical to providing the services of the site.  However, they are the only messages we will send you.</p>
+	<p>If you use the “email a friend” feature to tell a friend about an item you see on our site, we will use that email address only once, and will not store it.</p>
+	<p>Nobody else can see your email address and we will not share it, sell it, or publish it. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+	<h3>Usernames, User Descriptions, Icons, and Items You Add to the Site</h3>
+	<p>Your username will be visible to the general public. It will be associated with any items you add to our site, unless you choose to submit them anonymously.  Your short description and icon, if you choose to submit them, will also be visible to the general public. We suggest that you do not use your full name or disclose any personally identifiable information in your description or username. </p>
+	<p>All usernames are visible to the general public. If you do not wish to have your username visible at all, email <a href="mailto:info@stylefeeder.com">info@stylefeeder.com</a> and we will delete your account.</p>
+	<h3>Non-Identifying and Aggregate Information</h3>
+	<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.</p>
+	<h3>Use of Forums and Blogs</h3>
+	<p>If you post messages in the <a href="http://forums.stylefeeder.com/forums/list.page">StyleFeeder forum</a> or comments on the <a href="http://blog.stylefeeder.com">StyleFeeder blog</a>, they will be visible to the general public. Your username will be added to the Member Directory in the StyleFeeder forum.  We suggest that you not post personally identifying information there.  If you do not want your username listed in the forum, blog, or Member Directory, you can contact us at <a href="mailto:info@stylefeeder.com">info@stylefeeder.com</a> and request to have your account deleted. </p>
+	<p>We use blogging software from WordPress, and allow the general public to post comments on our blog, <a href="http://blog.stylefeeder.com">blog.stylefeeder.com</a>. You must provide a name and email address to post a comment, but we will not disclose the email address.</p>
+	<p>We reserve the right to cancel the accounts of users who abuse the privilege of posting to the forums or blogs.</p>
+	<h3>Disclosures Required By Law</h3>
+	<p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.</p>
+	<h2>Cookies and Third Party Data Systems</h2>
+	<p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use  cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+	<p>We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. </p>
+	<p>We set a persistent cookie so that you don’t have to log in every time you want to add an item to the site. Cookies also enable us to track and target the interests of our users to enhance the experience on our site.   </p>
+	<p>Some of our partners (e.g. Google Analytics) may set cookies from our site as well. We do not control the content of those cookies and cannot read them; they are between your browser and the partner only. You may reject these cookies without limiting the functions of the site.</p>
+	<p>If you reject all cookies, you may still browse our site, but your ability to add items to StyleFeeder will be severely limited.</p>
+	<h2>Links to Other Sites</h2>
+	<p>This site contains links to other sites not controlled by StyleFeeder. Please be aware that we are not responsible for the privacy or other practices of these other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information.   This privacy policy applies only to information collected by this Web site.  </p>
+	<h2>Our Commitment To Data Security</h2>
+	<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </p>
+	<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. </p>
+	<p>If you have any questions about security on our Web site, you can send email us at <a href="mailto:info@stylefeeder.com">info@stylefeeder.com</a>.</p>
+	<h2>Our Commitment To Children’s Privacy:</h2>
+	<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13 years old, and no part of our website is structured to attract anyone under 13 years old.</p>
+	<h2>How You Can Access Or Correct Your Information:</h2>
+	<p>You can access and correct all your personally identifiable information that we collect online and maintain by clicking the “My Account” button and logging in. We use this procedure to better safeguard your information. You can also contact us to request a change or deletion of your data by emailing <a href="mailto:info@stylefeeder.com">info@stylefeeder.com</a>.</p>
+	<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
+	<h2>Updates and Changes to this Policy</h2>
+	<p>If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here or by means of a notice on our homepage.</p>
+	<h2>How To Contact Us</h2>
+	<p>Should you have other questions or concerns about these privacy policies, please send email to <a href="mailto:info@stylefeeder.com">info@stylefeeder.com</a> or write to us at:<br>
+StyleFeeder<br>
+614 Massachusetts Avenue, 4th Floor<br>
+Cambridge MA 02139
+</p>
+</div>
+
+
+
+		
+	
+	
+	
+
+
+
+
+	</div>
+
+
+			<div id="footerWrap">
+				<p>
+				<a href="/index.html">Home</a> | <a href="/info/faq.html">FAQ</a> | <a href="/about.html">About StyleFeeder</a> | <a href="http://blog.stylefeeder.com/">Blog</a> | <a href="/info/privacy.html">Privacy</a> | <a href="/info/sitemap.html">Sitemap</a> | <a href="/info/contact.html">Contact Us</a> 
+				</p>
+		
+				<p class="copyright">Copyright © 2006 StyleFeeder, LLC. All rights reserved.</p>
+			</div>
+		</div>
+	
+		<script src="http://s.stylefeeder.com/mint/?js" type="text/javascript"></script>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-411896-2";
+		urchinTracker();
+		</script>	
+	
+	
+</div></body></html>
