@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001034id_/http%3A//progenealogists.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220195445id_/http%3A//progenealogists.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
