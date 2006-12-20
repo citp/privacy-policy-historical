@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220230329id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
@@ -23,6 +23,7 @@
   [ **Financial Services**](http://finance.isixsigma.com/)  
   [ **Healthcare**](http://healthcare.isixsigma.com/)  
   [ **Software / IT**](http://software.isixsigma.com/)  
+  [ **Innovation**](http://www.realinnovation.com/)  
   [ **Outsourcing/Offshoring**](http://www.sourcingmag.com/)  
   [ **Business Process Mgt**](http://www.bpmenterprise.com/)  
   **Quality Directory**    
@@ -78,10 +79,10 @@ iSixSigma will not sell or rent your personally identifiable information to anyo
 
 
  **Cookies**  
-iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20061220230329id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
-iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
+iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20061220230329id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
 
  **Security**  
 Your iSixSigma Account Information is protected for your privacy and security.
@@ -90,7 +91,7 @@ Your iSixSigma Account Information is protected for your privacy and security.
 iSixSigma may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
+If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20061220230329id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
@@ -167,9 +168,9 @@ w w w . s b t i o n l i n e . c o m |   |
 
 | 
 
-** SigmaPro specializes in Lean Sigma and DFSS.  Contact us today for public or customized in-house certification programs.  [www.sigmapro.com](http://www.isixsigma.com/r.asp?id=3193&r=http://www.isixsigma.com/uagree/privacy.asp)**
+** Lean Sigma and DFSS** ****
 
-**USA u Mexico u UK u India u Germany u Caribbean u Thailand**  
+**when experience matters most...**  
   
 ---|---  
 |  | 
@@ -184,12 +185,14 @@ We Make Lean Six Sigma Simple!
 
 **Your Business' Existence (and Excellence) depends on More Customers and Cash.[Learn More!](http://www.smartersolutions.com/6sigma.htm)**  
   
-|  **Hertzler Systems**  
-**Presents...**  
-|  inRealTimeTM   
-|  Click here for a FREE 30-day trial   
-Real-time Data for MINITAB®  
----|---|---  
+|  **Hertzler Systems** presents **inRealTime tm  
+** |  Error-free, Real-time Data for MINITAB®
+
+Click here for Free 30-day trial of inRealTime, 
+
+the latest plug-in for MINITAB from Hertzler Systems.  
+  
+---|---  
   
 | 
 
@@ -204,7 +207,8 @@ Public Training & Certification
   
 STAT-A-MATRIX a SAM Group Company
 
-Your partner in achieving **Performance Excellence**. Our proven three-tiered approach focuses on enhancing your business management systems. Learn more about our consulting/training services or register for a public seminar.   
+Your partner in achieving **Business Process Improvement** through **Six Sigma** and **Lean Enterprise**.  
+Learn more about our consulting/training services or register for a public seminar.   
   
 | _THE UNIVERSITY OF_  
 _TEXA_ _S_  
