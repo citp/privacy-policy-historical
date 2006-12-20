@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olivegarden.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615214945id_/http%3A//olivegarden.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olivegarden.com privacy policy that was archived on 2006-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061220075515id_/http%3A//olivegarden.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -41,7 +41,7 @@ hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 //OPTIONAL PAGE VARIABLES
 //ACTION SETTINGS
 hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="none";//LINK TRACKING
+hbx.lt="auto";//LINK TRACKING
 hbx.dlf="n";//DOWNLOAD FILTER
 hbx.dft="n";//DOWNLOAD FILE NAMING
 hbx.elf="n";//EXIT LINK FILTER
@@ -88,107 +88,166 @@ hbx.pec="";//ERROR CODES
 
 
 
-<!-- BEGIN DIV FOR RESTAURANT LOCATOR -->
+<!-- BEGIN DIV FOR ESPANOL BUTTON -->
 
-<div id="locator_1" style="position: absolute; left: 687px; top: 0px; z-index:1000; display: none; width: 150px; height: 23px;">
-<a href="javascript:void(0);" onclick="showLayer('locator_2');"><img src="/images/find_tabs/find_tab.gif" alt="Find a Restaurant" width="150" height="23" border="0"></a>
+<div id="espanol_link" style="position: absolute; left: 662px; top: 54px; z-index:100; width: 56px; height: 11px; display: block;">
+<a href="/espanol/"><img src="/images/core/espanol_link.gif" alt="Espanol" width="56" height="11" border="0"></a><br>
 </div>
 
+<!-- END DIV FOR ESPANOL BUTTON -->
 
+<!-- BEGIN DIVS FOR RESTAURANT LOCATOR -->
 
-<div id="locator_3" style="position: absolute; left: 646px; top: 0px; z-index:1020; width: 191px; height: 225px; display: none;">
-<!--   <div style="background-image: url(/images/find_tabs/info_tab_bg.gif); background-repeat: no-repeat;"> -->
+<!-- BEGIN FIND TAB -->
 
-    <table cellspacing="0" cellpadding="0" border="0" width="191">
-    <tbody><tr>
-      <td style="background-image: url(/images/find_tabs/info_tab_bg.gif); background-color: #f3ebd6; background-repeat: no-repeat;">
+<div id="locator" style="position: absolute; left: 572px; top: 0px; z-index:1030; width: 268px; height: 31px; display: block;">
 
+<table cellspacing="0" cellpadding="0" border="0" width="268">
+<tbody><tr valign="top">
+
+  <td><img class="og_png" src="/images/find_tabs_rev/find_tab_1a.png" alt="" width="12" height="26" border="0"></td>
+  
+  <td style="width: 246px; background-image: url(/images/find_tabs_rev/find_tab_1_bg.png); background-repeat: no-repeat;">
+  
+    <form name="form1" method="get" action="/locator/default.asp" style="margin: 0px;">
+
+      <table cellspacing="0" cellpadding="0" border="0" width="246">
+      <tbody><tr valign="top">    
+      
+        <td width="218">
+      
+        <input type="hidden" name="template" value="locator">
+        <input type="hidden" name="client" value="oliveg">
+        <input type="hidden" name="domain" value="www.olivegarden.com">
+        <input type="text" name="postalcode" value="City, State or Zip" class="og_locator_field" style="width: 87px; font-size: 9px; margin: 4px 0px 0px 131px;" onfocus="clearField(this)">
+        
+        </td>
+        
+        <td width="28">
+        <input type="image" style="margin: 3px 0px 0px 5px;" src="/images/misc/px.gif" alt="Go" width="17" height="18" border="0">
+        </td>
+        
+      </tr>
+      </tbody></table>
+    
+    </form>
+    
+  </td>
+  
+  <td><img class="og_png" src="/images/find_tabs_rev/find_tab_1c.png" alt="" width="10" height="26" border="0"></td>
+
+</tr>
+<tr valign="top">
+
+  <td><img class="og_png" src="/images/find_tabs_rev/find_tab_2a.png" alt="" width="12" height="5" border="0"></td>
+  <td><img class="og_png" src="/images/find_tabs_rev/find_tab_2b.png" alt="" width="246" height="5" border="0"></td>
+  <td><img class="og_png" src="/images/find_tabs_rev/find_tab_2c.png" alt="" width="10" height="5" border="0"></td>
+
+</tr>
+</tbody></table>
+
+</div>
+
+<!-- END FIND TAB -->
+
+<!-- BEGIN COOKIED LINK TAB -->
+
+<div id="locator_2" style="position: absolute; left: 529px; top: 0px; z-index:1010; width: 353px; height: 51px; display: none;">
+
+<table cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr valign="top">
+
+  <td><img class="og_png" src="/images/find_tabs_rev/cookied_tab_1a.png" alt="" width="12" height="47" border="0"></td>
+  
+  <td style="background-image: url(/images/find_tabs_rev/cookied_tab_1_bg.jpg); background-repeat: repeat-x;">
+  
+    <div class="og_tab_link_10" style="margin: 30px 0px 6px 0px; text-align: center;">
+    <b><span style="color: #990000;">My Olive Garden:&nbsp;</span><a href="javascript:void(0);" onclick="showLayer('locator_3');"><span style="font-size: 9px;"></span></a></b>
+    </div></td>
+  
+  <td><img class="og_png" src="/images/find_tabs_rev/cookied_tab_1c.png" alt="" width="10" height="47" border="0"></td>
+
+</tr>
+<tr valign="top">
+
+  <td><img class="og_png" src="/images/find_tabs_rev/cookied_tab_2a.png" alt="" width="12" height="5" border="0"></td>
+  <td><img class="og_png" src="/images/find_tabs_rev/cookied_tab_2_bg.png" alt="" width="231" height="5" border="0"></td>
+  <td><img class="og_png" src="/images/find_tabs_rev/cookied_tab_2c.png" alt="" width="10" height="5" border="0"></td>
+
+</tr>
+</tbody></table>
+
+</div>
+
+<!-- END COOKIED LINK TAB -->
+
+<!-- BEGIN INFO TAB -->
+
+<div id="locator_3" style="position: absolute; left: 579px; top: 0px; z-index:1020; width: 253px; display: none;">
+
+<table cellspacing="0" cellpadding="0" border="0" width="253">
+<tbody><tr valign="top">
+
+  <td width="6"><img class="og_png" src="/images/find_tabs_rev/info_tab_1a.png" alt="" width="6" height="231" border="0"></td>
+  
+  <td style="width: 244px; background-image: url(/images/find_tabs_rev/info_tab_1_bg.jpg); background-color: #efe5cd; background-repeat: no-repeat;">
+  
 <!-- BEGIN MANAGER NAME -->
        
-       <div style="width: 127px; margin: 12px 0px 0px 26px; height: 63px;">
+    <div style="width: 127px; margin: 41px 0px 0px 56px; height: 66px;">
        
-         <div class="og_bodycopy_11" style="text-align: center;"><b><br></b></div>
-         <div class="og_bodycopy_11" style="font-size: 10px; text-align: center;"><b>General Manager</b></div>
+      <div class="og_tab_subhead_14" style="margin: 0px 0px 5px 0px; text-align: center;"><b><br></b></div>
+      <div class="og_tab_link_10" style="text-align: center;">General Manager</div>
        
-       </div>
+    </div>
 
 <!-- END MANAGER NAME -->
 
+
 <!-- BEGIN INFO BLOCK -->
 
-       <div style="width: 167px; margin: 0px 0px 0px 11px;">
-         <div class="og_bodycopy_10_sans" style="text-align: center;">
-         <br>
-         , &nbsp;<br>
-         Phone: <br>
-         <!--Fax: -->
-         </div>
+    <div style="width: 190px; margin: 0px 0px 0px 27px;">
          
-         <div class="og_bodycopy_9" style="margin: 6px 0px 8px 0px; text-align: center;">
-         <a href="http://direct.where2getit.com/cwc/apps/w2gi.php?template=moreinfo&amp;client=oliveg&amp;W2GI_QFIELD=BusinessID&amp;W2GI_QVALUE=&amp;domain=olivegarden.com"><b>Get Map and Driving Directions</b></a>
-         </div>
+      <div class="og_tab_11_sans" style="text-align: center;">
+      <b></b><br>
+      , &nbsp;<br>
+      <b>Phone: </b><br>
+      Fax: 
+      </div>
          
-         <div class="og_bodycopy_9_sans" style="text-align: center;">
-         Sun - Thurs:  - <br>
-         Fri - Sat:  - 
-         </div>
-       
-         <div class="og_bodycopy_9" style="margin: 7px 0px 6px 0px; text-align: center;">
-         <!--<a href="javascript:void(0);" onclick="showLayer('locator_2');"><i>Select Another Location</i></a>-->
-         <a href="/locate.asp"><b>Change ‘My Olive Garden’ Location</b></a>
-         </div>
-         
-         <div class="og_bodycopy_9" style="margin: 6px 0px 7px 0px; text-align: center;">
-         <a href="/locator/"><b>Find Another Location</b></a>         
-         </div>
-       
-       
-       </div>
+      <div class="og_tab_11_sans" style="margin: 7px 0px 0px 0px; text-align: center;">
+      Sun - Thurs:  - <br>
+      Fri - Sat:  - 
+      </div>
+
+      <div class="og_tab_link_10" style="margin: 8px 0px 8px 0px; text-align: center;">
+      <a href="http://locator.olivegarden.com/cwc/apps/w2gi.php?template=moreinfo1&amp;client=oliveg&amp;W2GI_QFIELD=BusinessID&amp;W2GI_QVALUE=&amp;domain=www.olivegarden.com"><b>Get Map and Driving Directions</b></a>
+      </div>
+             
+    </div>
 
 <!-- END INFO BLOCK -->
-      
-      <a href="javascript:void(0);" onclick="hideLayer('locator_3');"><img style="margin: 0px 0px 6px 141px;" src="/images/misc/close.gif" alt="Close" width="39" height="10" border="0"></a>
-      
-      </td>
-    </tr>
-    <tr>
-      <td><a href="javascript:void(0);" onclick="hideLayer('locator_3');"><img src="/images/find_tabs/info_tab_cookied.gif" alt="Find a Restaurant" width="191" height="24" border="0"></a></td>
-    </tr>
-    </tbody></table>
+  
+  
+  </td>
 
-<!--   </div> -->
+  <td width="3"><img class="og_png" src="/images/find_tabs_rev/info_tab_1c.png" alt="" width="3" height="231" border="0"></td>
+  
+</tr>
+<tr valign="top">
+
+  <td colspan="3"><a href="javascript:void(0);" onclick="hideLayer('locator_3');"><img class="og_png" src="/images/find_tabs_rev/info_tab_close.png" alt="Close" width="253" height="26" border="0"></a></td>
+
+</tr>
+</tbody></table>
+
 </div>
 
-
-
-<div id="locator_2" style="position: absolute; left: 646px; top: -21px; z-index:1020; width: 191px; height: 86px; display: block;">
-  <div style="background-image: url(/images/find_tabs/zip_tab_form_bg.gif); background-repeat: no-repeat;">
-  <form name="form1" method="get" action="/locator/default.asp" style="margin: 0px;">
-<input type="hidden" name="template" value="locator">
-<input type="hidden" name="client" value="oliveg">
-<input type="hidden" name="domain" value="olivegarden.com">
-    <table cellspacing="0" cellpadding="0" border="0" width="191">
-    <tbody><tr>
-      <td colspan="2"><img src="/images/misc/px.gif" alt="" width="1" height="17" border="0"></td>
-    </tr>
-    <tr>
-      <td width="167"><input type="text" name="postalcode" value="City, State or Zip" class="og_locator_field" style="width: 140px; font-size: 9px; margin: 9px 2px 6px 12px;" onfocus="clearField(this)"></td>
-      <td width="24"><input type="image" src="/images/find_tabs/green_arrow.gif" alt="Go" width="14" height="14" border="0"></td>
-    </tr>
-    <tr>
-      <td colspan="2"><input type="image" src="/images/find_tabs/zip_tab.gif" alt="Find A Restaurant" width="191" height="24" border="0"></td>
-    </tr>
-    </tbody></table>
-  </form>
-  </div>
-</div>
+<!-- END INFO TAB -->
 
 
 
-
-
-
-<!-- END DIV FOR RESTAURANT LOCATOR -->
+<!-- END DIVS FOR RESTAURANT LOCATOR -->
 
 
 <!-- BEGIN PAGE HEADER TABLE -->
@@ -290,7 +349,7 @@ else{
 document.write('<input type="hidden" name="intro_text" id="intro_text" value="Check out this page on the Olive Garden website:\r\n' + location.href + '\r\n">');
 //-->
 </script><input type="hidden" name="intro_text" id="intro_text" value="Check out this page on the Olive Garden website:
-https://web.archive.org/web/20060615214945id_/http://olivegarden.com/privacy/
+https://web.archive.org/web/20061220075515id_/http://www.olivegarden.com/privacy/
 ">
 
 <div style="margin-left: 15px;">
@@ -515,7 +574,7 @@ https://web.archive.org/web/20060615214945id_/http://olivegarden.com/privacy/
 
   <div class="og_footer_sans">
 
-  <a href="/company/contact_us/">CONTACT US</a>&nbsp;&nbsp;|&nbsp;
+  <a href="https://www.olivegarden.com/company/contact_us/">CONTACT US</a>&nbsp;&nbsp;|&nbsp;
   <a href="/company/">COMPANY</a>&nbsp;&nbsp;|&nbsp;
   <a href="/employment/">EMPLOYMENT</a>&nbsp;&nbsp;|&nbsp;
   <a href="/company/community/">COMMUNITY</a>&nbsp;&nbsp;|&nbsp;
