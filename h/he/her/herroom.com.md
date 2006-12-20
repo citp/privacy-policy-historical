@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623014215id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220144242id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
 
 # HerRoom Privacy Policy
 
@@ -6,10 +6,10 @@
 
 Free Shipping
 
-Orders for $75.00 or more qualify for FREE standard U.S. shipping. [See offer details](https://web.archive.org/web/20060623014215id_/http%3A//www.herroom.com/shipping.aspx).   
+Orders for $40.00 or more qualify for FREE standard U.S. shipping. [See offer details](https://web.archive.org/web/20061220144242id_/http%3A//www.herroom.com/shipping.aspx).   
 ---|---  
   
-> HerRoom has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20060623014215id_/http%3A//www.herroom.com/contact.aspx). 
+> HerRoom has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20061220144242id_/http%3A//www.herroom.com/contact.aspx). 
 > 
 > **When I visit HerRoom, what information is gathered about me and why?**  
 > 
@@ -36,10 +36,10 @@ Orders for $75.00 or more qualify for FREE standard U.S. shipping. [See offer de
 > 
 > **How do I manage how much information I share or if I share any at all?**
 > 
-> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to HerRoom. Just [contact us](https://web.archive.org/web/20060623014215id_/http%3A//www.herroom.com/contact.aspx). using any of the ways listed at the top of this page. 
+> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to HerRoom. Just [contact us](https://web.archive.org/web/20061220144242id_/http%3A//www.herroom.com/contact.aspx). using any of the ways listed at the top of this page. 
 > 
 > **What is HerRoom doing to protect my privacy?**
 > 
 > This site has security measures in place to protect from the loss, misuse, and alteration of information under our control. Our servers use encrypted methods for those pages which contain personally identifiable data, including your credit card and address. We routinely and zealously monitor and upgrade our security systems to ensure that we use the best security technology available. 
 > 
-> We at HerRoom are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20060623014215id_/http%3A//www.herroom.com/contact.aspx). 
+> We at HerRoom are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20061220144242id_/http%3A//www.herroom.com/contact.aspx). 
