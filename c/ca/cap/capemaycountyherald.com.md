@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614135745id_/http%3A//www.capemaycountyherald.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220234035id_/http%3A//capemaycountyherald.com/about/privacy.php) for the most accurate reproduction.*
 
 # Cape May County Herald
 
