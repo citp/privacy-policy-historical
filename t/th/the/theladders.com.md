@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621093844id_/http%3A//www.theladders.com/abouttheladdersPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220193557id_/http%3A//www.theladders.com/abouttheladdersPrivacy) for the most accurate reproduction.*
 
-# 
+# TheLadders.com Privacy Policy
 
 **Updated April 14, 2006**
 
@@ -10,9 +10,9 @@ TheLadders.com wants you to fully understand our privacy practices.
 
 TheLadders.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site TheLadders.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Kim Kendall at [help@theladders.com](mailto:help@theladders.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Alain Benzaken at [help@theladders.com](mailto:help@theladders.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-TheLadders.com is located at 137 Varick Street, 3rd Floor, New York, NY 10013. We can be contacted at help@theladders.com
+TheLadders.com is located at 137 Varick Street, 8th Floor, New York, NY 10013. We can be contacted at help@theladders.com
 
 This Privacy Policy explains the collection, use, and disclosure of Personal Information through our web sites located at URLs: www.theladders.com finance.theladders.com, hr.theladders.com, law.theladders.com, mktg.theladders.com, ops.theladders.com, recruit.theladders.com, sales.theladders.com, technology.theladders.com, and up.theladders.com (the “Web sites”). “Personal Information” means information that would allow a party to contact you, including, for example, your full name, address, telephone number, or email address.
 
