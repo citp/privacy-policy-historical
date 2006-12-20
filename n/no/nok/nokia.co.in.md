@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.co.in privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040611id_/http%3A//nokia.co.in/nokia/0%2C8764%2C45256%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.co.in privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220225521id_/http%3A//nokia.co.in/nokia/0%2C8764%2C45256%2C00.html) for the most accurate reproduction.*
 
 # Nokia - Privacy Policy
 
@@ -52,13 +52,6 @@ Nokia will on its own initiative, or at your request, free of charge, replenish,
 
 Nokia's policy is to request that " **Minors** " (the age of Minors is determined by local law where you reside) not make purchases or engage in other legal acts on this site without the consent of a parent or legal guardian, unless permitted by applicable local law.
 
-|  |  **Local Law Additions/Modifications (if any)**
-
-**_USA_** : This Site is not directed toward, and does not seek to collect any information from or engage in any transactions with US persons under the age of 13 (" **Children** "). Nokia's US policy is that no information may be submitted to this site by US Children.
-
-|   
----|---|---  
-  
 **External Links**
 
 This site may contain links to other sites. Please note that Nokia is not responsible for the privacy practices or contents of any other sites. We recommend that you read the privacy policies of such sites.
