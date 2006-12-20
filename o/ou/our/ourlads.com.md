@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510142914id_/http%3A//ourlads.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220214810id_/http%3A//ourlads.com/privacy.cfm) for the most accurate reproduction.*
 
-# 2006 NFL Draft - 2006 NFL Mock Draft from Ourlads Scouting Services
+# 2007 NFL Draft - 2007 NFL Mock Draft from Ourlads Scouting Services
 
-**Online Privacy Policy**
+Online Privacy Policy
 
-OURLADS' Scouting ServicesTM (also referred to in this document as OurladsTM) is in the business of information collection and analysis, and we know how important privacy is to you. Because of our interest in protecting your privacy, our company and its affiliates have adopted the following privacy principles to underscore our commitment to valued subscribers of our services.
+OURLADS' Scouting ServicesTM (also referred to in this document as OurladsTM) is in the business of information collection and analysis, and we know how important privacy is to you. Because of our interest in protecting your privacy, our company and its affiliates have adopted the following privacy principles to underscore our commitment to valued subscribers of our services. 
 
-  
 **1.** We recognize that you expect privacy and security in your affairs. We understand the need to safeguard sensitive information about you that you have entrusted to us. We maintain standards and procedures, including our Deletion Policy, designed to avoid misuses of information. 
 
 **2.** We collect, retain, and use information about you only where we reasonably believe that it will help us administer our business or provide products and services to you. We collect and retain information only for specific business purposes, after which, in accordance with our Deletion Policy, that information is removed from our business records. 
