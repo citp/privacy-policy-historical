@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugoplayer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200615id_/http%3A//www.flashplayer.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugoplayer.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220193605id_/http%3A//ugoplayer.com/info/privacy.html) for the most accurate reproduction.*
 
 # UGOPlayer - Privacy Policy
 
@@ -50,7 +50,7 @@ UGO does not sell our email addresses in bulk to anyone. UGO will not give out y
 
 **Third Party Advertisements, Products, and Services**
 
-This document describes the information gathering, use, and dissemination practices for UGO Networks, Inc., and its affiliate and subsidiary companies ("UGO"), in connection with the Web site located at www.flashplayer.com and www.flashplayer.com (the "Site"). This Privacy Policy addresses UGO’s practices regarding information collected only directly through or from the Site – it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. UGO can be contacted by mail at 670 Broadway, 2nd Floor, New York, NY 10012, by phone at (212) 624-3300, by facsimile at (212) 624-3310, or by e-mail at [privacy@ugo.com](mailto:privacy@ugo.com).
+This document describes the information gathering, use, and dissemination practices for UGO Networks, Inc., and its affiliate and subsidiary companies ("UGO"), in connection with the Web site located at www.flashplayer.com and www.ugoplayer.com (the "Site"). This Privacy Policy addresses UGO’s practices regarding information collected only directly through or from the Site – it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. UGO can be contacted by mail at 670 Broadway, 2nd Floor, New York, NY 10012, by phone at (212) 624-3300, by facsimile at (212) 624-3310, or by e-mail at [privacy@ugo.com](mailto:privacy@ugo.com).
 
 **Security**
 
@@ -73,6 +73,6 @@ UGO may amend this Privacy Policy at any time by posting the amended policy on t
 This Privacy Policy is effective January 26, 2006.   
 Copyright© 2006 UGO Networks, Inc. All rights reserved.
 
-Privacy Policy <http://www.flashplayer.com/info/webprivacypolicy.pdf>
+Privacy Policy <http://www.ugoplayer.com/info/webprivacypolicy.pdf>
 
 For questions and comments please email: [privacy@ugo.com](mailto:privacy@ugo.com)
