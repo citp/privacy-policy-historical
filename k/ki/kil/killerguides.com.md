@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506032609id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220140807id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Killer Guides
 
@@ -12,8 +12,8 @@
   * [Guild Wars](https://web.archive.org/guides/gw/guide/guild-wars)
   * [Horizons](https://web.archive.org/guides/hz/guide/horizons)
   * [Lineage 2](https://web.archive.org/guides/l2/guide/lineage-2)
-  * [MU Online](https://web.archive.org/guides/mu/guide/mu-online)
   * [Runescape](https://web.archive.org/guides/rs2/guide/runescape)
+  * [Second Life](https://web.archive.org/guides/sl/guide/second-life)
   * [Star Wars Galaxies](https://web.archive.org/guides/swg/guide/star-wars-galaxies)
   * [The Matrix Online](https://web.archive.org/guides/mxo/guide/the-matrix-online)
   * [World of Warcraft](https://web.archive.org/guides/wow/guide/world-of-warcraft)
@@ -24,12 +24,11 @@
   * [Member Area](https://web.archive.org/login)
 
   
-  
-  |   | 
+|   | 
 
 You are not logged in. If you're already a customer, please [log in now](https://web.archive.org/login). 
 
-**You are here:** [Killer Guides](https://web.archive.org/) » 
+**You are here:** [Killer Guides](https://web.archive.org/) » Privacy Policy 
 
 ## Which data is being logged?
 
