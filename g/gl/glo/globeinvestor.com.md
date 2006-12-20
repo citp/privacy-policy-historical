@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210025id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220234114id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # globeandmail.com - Privacy Policy
 
@@ -72,7 +72,7 @@ Globe Companies may use the user's IP Address to:
 
 
 _Cookies_  
-A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to the user's web browser from a web site's computers and is stored on the user's computer's hard drive. Cookies cannot be used to run programs or deliver viruses to a user's computer.
+A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to the user's web browser from a website's computers and is stored on the user's computer's hard drive. Cookies cannot be used to run programs or deliver viruses to a user's computer.
 
 Globe Companies may use cookies to:
 
@@ -93,7 +93,7 @@ A Globe Companies Service may contain links to other websites and services. Whil
 The majority of the advertisements which are displayed in connection with Globe Companies Services are served through one or more reputable Third Party advertisement-serving companies which deliver the advertisements to users in conjunction with Globe Companies Services. For more information about what information is collected and how information is used by a major Third Party advertising provider [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
 _Additional Information_  
-Globe Companies automatically collect certain information about the user's computer hardware and software. This information may include: browser type, operating system type, domain names, access times and referring Web site addresses. This information is used by Globe Companies to operate the service, to maintain the quality of the service, and to provide general statistics regarding use of the Globe Companies Sites.
+Globe Companies automatically collect certain information about the user's computer hardware and software. This information may include: browser type, operating system type, domain names, access times and referring website addresses. This information is used by Globe Companies to operate the service, to maintain the quality of the service, and to provide general statistics regarding use of the Globe Companies Sites.
 
 Certain Globe Companies Services may be co-branded and offered in conjunction with another company. If a user registers for or uses such services, both Globe Companies and the other company may receive information collected in conjunction with the co-branded services.
 
