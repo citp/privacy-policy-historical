@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325004101id_/http%3A//www.iamplify.com/privacy.php%3FosCsid%3D84bbfbb409acaf54e6838786738a57e6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220063703id_/http%3A//www.iamplify.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice : iAmplify
 
-iAmplify, LLC ("iAmplify") is very sensitive to the privacy concerns of iAmplify customers and visitors to our website (the "Site") at www.iamplify.com (collectively, the "iAmplify users"). This iAmplify Online Privacy Policy ("Privacy Policy") explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by iAmplify users. By visiting the Site or signing up for our services, iAmplify users signify their assent to this Privacy Policy. 
+iAmplify, LLC ("iAmplify") is very sensitive to the privacy concerns of iAmplify customers and visitors to our website (the "Site") at www.iamplify.com (collectively, the "iAmplify users"). This iAmplify Online Privacy Policy ("Privacy Policy") explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by iAmplify users. By visiting the Site or signing up for our services including free services, iAmplify users signify their assent to this Privacy Policy. 
 
 **Collection of Information**
 
@@ -24,11 +24,9 @@ iAmplify may use information collected from iAmplify users (the "User Informatio
 
 **Disclosure of Information**
 
-iAmplify may transfer or otherwise disclose the User Information to employees and independent contractors, content providers ("Amplifiers"), subsidiaries, consultants, and other business partners and associates, service providers, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for iAmplify, or to send relevant promotional communications to iAmplify users. iAmplify may also disclose User Information if required to do so by law, in response to judicial process, and, as permitted under provisions of law, to provide information to law enforcement agencies or in connection with an investigation on a matter related to public safety. 
+iAmplify may transfer or otherwise disclose the User Information to (i) content providers ("Amplifiers") and an Amplifier's publisher or other media distributor (together with Amplifiers, "Content Partners") when the content is provided by such Content Partners, so that the Content Partners can send iAmplify users relevant promotional communications about their respective products and services and to (ii) iAmplify's employees, independent contractors, subsidiaries, consultants, and other business partners and associates, service providers, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for iAmplify.. iAmplify may also disclose User Information if required to do so by law, in response to judicial process, and, as permitted under provisions of law, to provide information to law enforcement agencies or in connection with an investigation on a matter related to public safety. 
 
-iAmplify may only share, transfer or otherwise disclose the User Information to third parties in bulk or aggregate format, with no personally identifiable information included. 
-
-In order to enable clients to choose the Amplifier best suited to their needs, registered clients may view certain personal information entered by Amplifiers during the sign-up process. When an iAmplify user purchases a subscription or a download, the User Information may be disclosed to the iAmplifier associated with that content. 
+Unless expressly allowed under this policy, iAmplify may only share, transfer or otherwise disclose the User Information to third parties in bulk or aggregate format, with no personally identifiable information included. 
 
 **Security of Information**
 
@@ -36,7 +34,7 @@ iAmplify maintains physical, electronic, and procedural safeguards to guard your
 
 **Unforeseen Circumstances**
 
-In the event that iAmplify or any of its assets are acquired by a third party, personal information acquired by us may be one of the assets transferred. 
+In the event that iAmplify or any of its assets are acquired by a third party, personal information acquired by us may be one of the assets transferred.
 
 **Acceptance of Privacy Terms & Conditions **
 
