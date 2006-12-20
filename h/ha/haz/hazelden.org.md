@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054101id_/http%3A//hazelden.org/servlet/hazelden/cms/ptt/hazl_7030_shade.html%3Fsh%3Dt%26sf%3Dt%26page_id%3D26006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220162058id_/http%3A//hazelden.org/servlet/hazelden/cms/ptt/hazl_7030_shade.html%3Fsh%3Dt%26sf%3Dt%26page_id%3D26006) for the most accurate reproduction.*
 
 # Hazelden - Hazelden's Privacy Policy
 
