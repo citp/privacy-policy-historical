@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074036id_/http%3A//www.12ozprophet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220114203id_/http%3A//www.12ozprophet.com/privacy) for the most accurate reproduction.*
 
 # 12ozPROPHET.com
 
@@ -9,7 +9,7 @@ Effective July 28th, 2004
 
 12ozPROPHET values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. 12ozPROPHET recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances as detailed below.
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, [click here](https://web.archive.org/web/20060615074036id_/http://www.12ozprophet.com/contact) to contact 12ozPROPHET customer service via email or write us at:
+This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, [click here](https://web.archive.org/web/20061220114203id_/http%3A//contact) to contact 12ozPROPHET customer service via email or write us at:
 
 **12ozPROPHET**  
 51 MacDougal Street, Suite 235  
@@ -27,7 +27,7 @@ If at any time you would like us to remove you from our email or postal mailing 
 
 From time to time, we may also send you emails to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notices about our products, services, contests and promotions through postal mail.
 
-To serve you better, we may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your browsing experience with us, and to communicate with you by email or postal mail about our products, services, contests, and promotions that may be of interest to you. If you do not want us to use your information as described above, please [contact us](https://web.archive.org/web/20060615074036id_/http://www.12ozprophet.com/contact).
+To serve you better, we may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your browsing experience with us, and to communicate with you by email or postal mail about our products, services, contests, and promotions that may be of interest to you. If you do not want us to use your information as described above, please [contact us](https://web.archive.org/web/20061220114203id_/http%3A//contact).
 
 **THIRD PARTY TRANSACTIONS**  
 We contract with third parties to assist us in maintaining and managing our customer information to fulfill promotions and to communicate with our customers. We do not authorize any of those third parties to make any other use of your information.
