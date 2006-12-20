@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618195656id_/http%3A//todaysthv.com/company/terms_of_service/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220204458id_/http%3A//www.todaysthv.com/company/terms_of_service/Privacy.asp) for the most accurate reproduction.*
 
-# Today's THV KTHV Little Rock
+# Today's THV - KTHV Little Rock
 
 **_TodaysTHV.Com Privacy Policy_**
 
@@ -73,5 +73,3 @@ Kimberly Jaske
 _Broadcast Division_  
 _7950 Jones Branch Drive_   
 McLean, VA 22107
-
-  
