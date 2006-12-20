@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040902id_/http%3A//dance.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220061902id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
 
 # dance.net - : Ballet, Jazz, Modern, Hip Hop, Tap, Irish, Disco, Twirling, Cheer: Photos, Chat, Games, Jobs, Events!
 
