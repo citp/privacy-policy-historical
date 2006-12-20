@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vmix.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616075758id_/http%3A//www.vmix.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vmix.com privacy policy that was archived on 2006-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061220174514id_/http%3A//www.vmix.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,12 +8,25 @@
 <meta name="reply-to" content="">
 <meta name="copyright" content="Copyright vMix Media Inc., 2005">
 <meta name="rating" content="General">
-<title>vMix - Privacy Statement</title>
+<title>vMix - The Free Video Sharing and Hosting Community - Privacy Statement</title>
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <script language="javascript" src="js/xmlhelpers.js"></script><script language="javascript" src="js/texthelpers.js"></script>
 </head>
-<body>
-<script language="javascript">
+<body><div id="wrapper"><div id="container">
+<script src="/js/accipiter.js"></script><script language="javascript">
+//set some accipiter targeting params
+var accip_area;
+var accip_logged_in = '';
+var accip_vid = '';
+var accip_artistid = '';
+var accip_zip = '';
+var accip_channelid;
+
+var accip_genreid = '';
+var accip_age = '';
+
+	var channelid = 0;
+	
 var sajax_debug_mode = false;
 var sajax_request_type = "POST";
 		
@@ -93,46 +106,213 @@ function sajax_init_object() {
 		sajax_debug(func_name + " waiting..");
 		delete x;
 		}
+function x_login() {
+sajax_do_call("login",
+x_login.arguments);
+}
+function x_logout() {
+sajax_do_call("logout",
+x_logout.arguments);
+}
 function x_get_more() {
 sajax_do_call("get_more",
 x_get_more.arguments);
-}</script><div id="hdr1">
-<div id="hdr1_banner">
-<script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adx.js"></script><script language="JavaScript" type="text/javascript">
-
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.vmix.com/admin/ads/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:3");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-
-</script><script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adjs.php?n=165547670&amp;what=zone:3&amp;exclude=,"></script><noscript><a href="http://www.vmix.com/admin/ads/adclick.php?n=a54df323" target="_blank"><img src="http://www.vmix.com/admin/ads/adview.php?what=zone:3&amp;n=a54df323" border="0" alt=""></a></noscript>
+}
+function x_save_order() {
+sajax_do_call("save_order",
+x_save_order.arguments);
+}
+function x_save_channels() {
+sajax_do_call("save_channels",
+x_save_channels.arguments);
+}
+function x_remove_channel() {
+sajax_do_call("remove_channel",
+x_remove_channel.arguments);
+}</script><div id="login_popup" style="z-index:1000; display:none; position:absolute; top:600px; left:50px; width:600px;"><div class="login_popup_bg">
+<div class="login_popup_hdr">
+<span style="float:left;">You must be logged in</span><span style="float:right;"><a href="#" onclick="hide_login_popup(); return false;"><img src="/images/login_popup_close.gif" border="0"></a></span>
 </div>
-<div id="hdr1_ad"><a href="signup.php"><img src="images/ads/upperRightAd.gif" border="0"></a></div>
-<div id="hdr1_img"><img src="images/hdr1_img.gif" border="0"></div>
-</div>
-<div id="hdr2">
-<div id="hdr2_logo"><a href="index.php"><img src="images/hdr2_logo.gif" border="0"></a></div>
-<form action="http://www.vmix.com/login.php" method="post" style="margin:0px" name="loginForm">
-<div style="position:absolute; left:539px; top:13px;" class="white_bold">username:</div>
-<div style="position:absolute; left:612px; top:10px;"><input class="form_log_in" type="text" name="email" value=""></div>
-<div style="position:absolute; left:730px; top:13px;" class="white_bold">password:</div>
-<div style="position:absolute; left:800px; top:10px;"><input class="form_log_in" type="password" name="pass"></div>
-<div style="position:absolute; left:906px; top:10px;">
-<input type="hidden" name="dest" value="/privacy.php"><input type="image" src="images/btn_sign_in.gif" border="0">
-</div>
+<div class="login_popup_body" style="padding:8px;">
+<form action="" method="POST" style="margin:0px; display:inline;" id="popup_loginForm">
+<span style="width:76px; float:left; padding-top:3px; font-weight:bold;">email:</span><span style="width:170px; float:left; padding-bottom:4px;"><input style="width:140px;" type="text" name="email" value=""></span><span style="width:76px; float:left; padding-top:3px; font-weight:bold;">password:</span><span style="width:150px; float:left; padding-bottom:12px;"><input style="width:140px;" type="password" name="pass"></span><span style="float:left;"><input type="button" onclick="login('popup_loginForm');" value="Log In"></span>
 </form>
+<br style="clear:both;">Not a member yet? <a href="/signup.php">Sign Up Now</a><br> Forgot your password? <a href="/forgotpw.php">Click here</a> to retrieve it.</div>
+</div></div>
+<script language="JavaScript" type="text/javascript" src="http://kbbq.vmix.com/adx.js"></script><script>
+var hbx_done = 0;
+var ad_array = new Array();
+if (!source){
+        var source;
+}
+
+var logged_in = 0;
+
+var admin = 0;
+
+var user_id = 0;
+var username = '';
+
+
+
+
+function login(formName){
+  		form_name = document.getElementById(formName);
+  		var username = form_name.email.value;
+  		var password = form_name.pass.value;
+
+  		if (username != '' && password != ''){
+			x_login(username, password, login_cb);
+        }	
+}
+
+function login_cb(z){
+	var root = z.getElementsByTagName('root');
+	login_status = getElementTextNS("", "status", root[0], 0);
+	if (login_status == "error"){
+		error_msg = getElementTextNS("", "error_msg", root[0], 0);
+		if (error_msg == 'user not verified'){
+			email = getElementTextNS("", "email", root[0], 0);
+			userid = getElementTextNS("", "userid", root[0], 0);
+			location.href = '/verify_email.php?email='+email+'&userid='+userid;
+			return false;
+		}
+
+		alert("There was an error processing your login. Please check your email address and password and try again. You must use your email address to log in.");
+	       	form_name.pass.value = '';
+	} else {  
+    		username = getElementTextNS("", "username", root[0], 0);
+    		user_id = getElementTextNS("", "userid", root[0], 0);
+    		var hide_div = document.getElementById("logged_out_hdr");
+    		var show_div = document.getElementById("hdr2_buttons");
+    		var welcome_div = document.getElementById("welcome_div");
+    	
+    		welcome_div.innerHTML = "welcome "+username+".";
+    		hide_div.style.display = "none";
+    		show_div.style.display = "block";
+
+    		logged_in = 1;
+    		
+    		form_name.email.value = '';
+        	form_name.pass.value = '';
+			    		
+    		// udpate login pop up to notify user is logged in
+    		
+    		var hide_div = document.getElementById("login_popup");
+  			hide_div.innerHTML = '<div class="login_popup_bg"><div class="login_popup_hdr"><span style="float:left;">Log In Success</span><span style="float:right;"><a href="#" onclick="hide_login_popup(); return false;"><img src="/images/login_popup_close.gif" border="0"></a></span></div><div class="login_popup_body" style="padding:28px; text-align:center; ">You are now logged in.</div></div>';
+    		
+
+    	}
+}
+
+function logout(){
+  		x_logout(logout_cb);
+}
+
+function logout_cb(z){
+
+		var root = z.getElementsByTagName('root');
+		  
+    	var hide_div = document.getElementById("hdr2_buttons");
+    	var show_div = document.getElementById("logged_out_hdr");
+    	
+    	hide_div.style.display = "none";
+    	show_div.style.display = "block";
+    	logged_in = 0;
+    	username = '';
+    	user_id = 0;
+    	
+    	var hide_div = document.getElementById("login_popup");
+  			hide_div.innerHTML = '<div class="login_popup_bg"><div class="login_popup_hdr"><span style="float:left;">You must be logged in</span><span style="float:right;"><a href="#" onclick="hide_login_popup(); return false;"><img src="/images/login_popup_close.gif" border="0"></a></span></div><div class="login_popup_body" style="padding:8px;"><form action="" method="POST" style="margin:0px; display:inline;" id="popup_loginForm"><span style="width:76px; float:left; padding-top:3px; font-weight:bold;">username:</span><span style="width:170px; float:left; padding-bottom:4px;"><input style="width:140px;" type="text" name="email" value=""></span><span style="width:76px; float:left; padding-top:3px; font-weight:bold;">password:</span><span style="width:150px; float:left; padding-bottom:12px;"><input style="width:140px;" type="password" name="pass"></span><span style="float:left;"><input type="button" onclick="login(\'popup_loginForm\');" value="Log In"></span></form><br style="clear:both;">Not a member yet? <a href="/signup.php">Sign Up Now</a><br> Forgot your password? <a href="/forgotpw.php">Click here</a> to retrieve it.</div></div>';
+  			
+}
+
+function show_login_popup(x,y,w){
+  		
+		var show_div = document.getElementById("login_popup");
+		show_div.style.left = x;
+		show_div.style.top = y;
+		show_div.style.width = w;
+		show_div.style.display = "block";
+}  		
+
+function hide_login_popup(){
+  		
+  		var hide_div = document.getElementById("login_popup");
+  		hide_div.style.display = "none";
+  		
+}
+  		
+function showPJ(argID){
+        var xPos1 = window.screen.availWidth/2 - 475;
+        var date = new Date();
+        var timestamp = date.getTime();
+        pjay = window.open('/flash/pj180.php?pjWorkspaceID=' + argID + '&amp;timestamp=' + timestamp,'pjay','titlebar=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,top=50,left=' + xPos1 + ',width=1000,height=620,screenX=0,screenY=0');
+		pjay.window.focus();
+}
+
+function submit_search(){
+	if (document.search_form_1.query.value != ''){document.search_form_1.submit();}
+        if (document.search_form_2.query.value != ''){document.search_form_2.submit();}
+}
+
+
+</script><div id="top_bar"></div>
+<div id="hdr">
+<div id="hdr_logo" onclick="window.location='/index.php';"></div>
+<div id="logged_out_hdr" style="">
+<div id="hdr3_search" style="cursor:hand; cursor:pointer; display:block; float:right; padding-left:30px; width:220px; height:16px; text-align:center; color:#ffffff; font-size:10px;"><form style="margin:0px; position:relative; top:-4px" name="search_form_1" action="/search.php" method="get">
+<input type="text" name="query" style="font-size:10px; width:120px; position:relative; top:-3px"><span style="padding-left:6px"><input type="image" style="padding-top:4px" src="http://www.vmix.com/images/btn_search.gif" onclick="submit_search()"></span>
+</form></div>
+<a href="http://www.vmix.com/faq.php">
+Help
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/uploadVideo.php">
+Upload
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/signup.php">
+Sign Up
+</a><div style="float:right; color:#999"> | </div>
+<script>
+login_dest = escape('/privacy.php');
+
+document.write('<a href="/login.php?dest='+login_dest+'">Login</a>');
+
+</script><a href="/login.php?dest=/privacy.php">Login</a>
 </div>
-<div id="container">
-<div id="content">
+<div id="hdr2_buttons" style="display:none;">
+<div id="hdr3_search" style="cursor:hand; cursor:pointer; display:block; float:right; padding-left:30px; width:220px; height:16px; text-align:center; color:#ffffff; font-size:10px;"><form style="margin:0px; position:relative; top:-4px" name="search_form_2" action="http://www.vmix.com/search.php" method="get">
+<input type="text" name="query" style="font-size:10px; width:120px; position:relative; top:-3px"><span style="padding-left:6px"><input type="image" style="padding-top:4px" src="http://www.vmix.com/images/btn_search.gif" onclick="submit_search()"></span>
+</form></div>
+<a href="" onclick="logout(); return false">
+Logout
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/faq.php">
+Help
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/slide_wiz.php">
+Make Slideshow
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/uploadVideo.php">
+Upload
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/myhome.php">
+My Home
+</a><div style="float:right; color:#999"> | </div>
+<a href="http://www.vmix.com/mymessages.php"><img src="http://www.vmix.com/images/icon_mail.gif" border="0"><span style="padding-left:6px"></span></a><script>
+var username = '';
+
+if (username.length > 15){
+	username = username.substr(0,15)+'...';
+}
+
+</script><span style="font-weight:bold; color:#fff" id="welcome_div">Hello <script>document.write(username);</script></span>
+</div>
+</div>
+<div id="content" class="column">
 <script type="text/javascript" src="js/swapimage.js"></script><script>
 window.onload = function() {
-  MM_preloadImages('images/nav_rollover_1.gif','images/nav_rollover_2.gif','images/nav_rollover_3.gif','images/nav_rollover_4.gif');
+  MM_preloadImages('/images/nav_rollover_1.gif','/images/nav_rollover_2.gif','/images/nav_rollover_3.gif','/images/nav_rollover_4.gif');
 }
 
 function goto_search () {
@@ -146,12 +326,10 @@ function goto_search () {
 }
 
 </script><div id="nav">
-<a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav1','','images/nav_rollover_1.gif',1);"><img src="images/nav_1.gif" name="nav1" border="0"></a><a href="contests.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav2','','images/nav_rollover_2.gif',1);"><img src="images/nav_2.gif" name="nav2" border="0"></a><a href="slideshows.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav3','','images/nav_rollover_3.gif',1);"><img src="images/nav_3.gif" name="nav3" border="0"></a><a href="members.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav4','','images/nav_rollover_4.gif',1);"><img src="images/nav_4.gif" name="nav4" border="0"></a><div style="height:30px; float:right; width:250px; position:relative; "><form action="#" style="padding:0px; margin:0px; position:relative;" id="searchForm" onsubmit="goto_search(); return false;">
-<input type="text" name="query" style="border:1px solid #a6a6a6; font-size:11px; font-family:verdana,arial; color:#000; width:160px; height:14px; margin:0px; padding:0px; position:absolute; top:7px; left:0px;"><input type="image" name="" src="images/btn_search.gif" style="border:0px; padding:0px; margin:0px; position:absolute; top:7px; left:180px;" border="0"><br>
-</form></div>
+<a class="nav1" href="/index.php"></a><a class="nav2" href="/slideshows.php"></a><a class="nav3" href="/contests.php"></a><a class="nav4" href="/members.php"></a><a class="nav5" href="/myhome.php"></a><a class="upload" href="/uploadVideo.php"></a>
 </div>
 <div id="subnav">
-<span class="subnav"><a href="index.php" id="nowplaying">Now Playing</a></span><span class="subnav"><a href="nowplaying-featured.php" id="featured">Featured Videos</a></span><span class="subnav"><a href="nowplaying-popular.php" id="popular">Most Popular</a></span><span class="subnav"><a href="nowplaying-sort.php" id="allvideos">Most Recent</a></span><span class="subnav"><a href="nowplaying-genres.php" id="genres">Genres</a></span>
+<span class="subnav"><a href="index.php" id="nowplaying">Now Playing</a></span><span class="subnav"><a href="channels.php" id="channel">Channels</a></span><span class="subnav"><a href="nowplaying-top100.php" id="popular">Top 100</a></span><span class="subnav"><a href="talkingheads.php" id="talkingheads">Talking Heads <img src="images/icon_new2.gif" border="0"></a></span><span class="subnav"><a href="nowplaying-sort.php" id="allvideos">Most Recent</a></span><span class="subnav"><a href="nowplaying-genres.php" id="genres">Genres</a></span>
 </div>
 <script>
 if(document.getElementById('')){
@@ -315,11 +493,81 @@ the time of collection we will notify by posting a notice on our Web site for
 <p>If you
 have any questions about this privacy statement, the practices of this site, or
 your dealings with this Web site, please contact us at: <a href="mailto:privacy@vmix.com">privacy@vMix.com</a>
-(vMix Media Inc., 12707 High Bluff Drive, Suite 200, San Diego, CA  92130)</p>
+(vMix Media Inc., 12707 High Bluff Drive, Suite 350, San Diego, CA  92130)</p>
 </div>
 </div>
-<div id="side_bar">
-<script language="javascript" src="js/xmlhelpers.js"></script><script language="javascript" src="js/texthelpers.js"></script><script language="javascript">	
+<script language="javascript" src="/js/controller.js"></script><div id="sidebar" class="column">
+<div id="viewVideo_upper_sidebar">
+<div class="sidebar_channel_box" style="margin-top:5px;">Today's Featured Channel</div>
+<div class="sidebar_channel_bg"><a href="/view.php?id=1856204&amp;type=channel"><img class="sidebar_channel_logo" src="http://img.vmix.com/imgman.jpg?rid=1932239&amp;x=139&amp;y=35&amp;fill=000000000" border="0"><img class="sidebar_channel_vid1" src="http://img.vmix.com/imgman.jpg?rid=134122&amp;x=47&amp;y=35&amp;fill=000000000" border="0"><img class="sidebar_channel_vid2" src="http://img.vmix.com/imgman.jpg?rid=1749484&amp;x=47&amp;y=35&amp;fill=000000000" border="0"></a></div>
+<img src="/images/sidebar_channel_bottom.gif"><div class="sidebar_channel_box" style="margin-top: 4px;">My Channels - Fresh Content<span style="padding-left:98px;"><a href="" onclick="popupSubscribeBox(); return false" class="white">edit</a></span>
+</div>
+<div class="sidebar_channel_bg" id="member_channels"><div style="text-align: center; float: left; width: 100%; margin-top: 2px; display: inline;"><a href="/channels.php"><img style="border: 2px solid #fff" src="/images/channels_subscribe.gif" border="0"></a></div></div>
+<img src="/images/sidebar_channel_bottom.gif">
+</div>
+<div style="padding: 5px;">
+<div style="background-color:#000000; width:284px; margin:auto; color:#ffffff; font-size:10x; padding:2px;">what's new on VMIX<div style="height:44px;text-align:center;">
+<script language="JavaScript" type="text/javascript">
+
+function subscribe_to_channel(channelid){
+	//alert(channelid);
+	if (logged_in == 1){
+		x_subscribe_to_channel(channelid, subscribe_to_channel_cb);
+	} else{
+		show_login_popup('635px','40px','310px');
+	}
+}
+
+function subscribe_to_channel_cb(z){
+	alert("You have now subscribed to this channel! Use the \"edit\" link in the controller to manage your subscriptions.");
+}
+
+
+function switch_controller(where){
+    var member_channels_list = new Array();
+    var member_channels_div = document.getElementById('member_channels');
+    member_channels_list = member_channels_div.getElementsByTagName('div');
+    var total_channels = member_channels_list.length - 1;
+
+    for(i=0;i<member_channels_list.length;i++){
+
+        if(member_channels_list[i].style.display != 'none'){
+
+        if(where=="prev"){
+            (i=="0") ? n = total_channels : n = i - 1;
+        }else{
+            (i==total_channels) ? n = 0 : n = i + 1;
+        }
+
+            member_channels_list[i].style.display = 'none';
+            member_channels_list[n].style.display = 'inline';
+            return;
+        }
+    }
+}
+
+var member_channels_list = new Array();
+var member_channels_div = document.getElementById('member_channels');
+member_channels_list = member_channels_div.getElementsByTagName('div');
+
+member_channels_div.getElementsByTagName('div')[0].style.display = 'inline';
+
+</script><script language="JavaScript" type="text/javascript" src="http://kbbq.vmix.com/adx.js"></script><script>
+
+
+var hbx_done = 0;
+var ad_array = new Array();
+if (!source){
+	var source;
+}
+
+</script><div style="text-align:left; padding-left:26px"><script>
+vmix_accipiter('238x44', accip_area, accip_vid, accip_artistid, accip_zip, accip_channelid, accip_genreid, accip_age, accip_logged_in);
+</script></div>
+</div>
+</div>
+<div style="height:10px;"></div>
+<script language="javascript" src="/js/xmlhelpers.js"></script><script language="javascript" src="/js/texthelpers.js"></script><script language="javascript">	
 
 
 function get_more(start_row,video_type,artist_id){
@@ -354,7 +602,7 @@ function get_more_cb(z) {
         
         // update thumbnails images
 
-		div_thumb.innerHTML = '<a href="'+page+'.php?ID='+videoID+'"><img src="'+thumb+'&y=64&x=86&fill=000000000" border="0"/></a><br/><b>'+title+'</b><br/>by: '+artist+'<br/>'+plays+' plays<br/>';
+		div_thumb.innerHTML = '<a href="/'+page+'.php?ID='+videoID+'"><img src="'+thumb+'&y=64&x=86&fill=000000000" border="0"/></a><br/><b>'+title+'</b><br/>by: '+artist+'<br/>'+plays+' plays<br/>';
 		} else {
 		          // get thumbnail and info rollover divs
          var div_thumb = document.getElementById('more'+i);
@@ -364,61 +612,52 @@ function get_more_cb(z) {
 		}
 	}	  
 }
-	</script><div style="margin:6px;">
-<div style="float:left; width:90px;">
+	</script><div style="float:left; width:90px; _margin-left:7px; _margin-left:7px;">
 <div class="small_grey" style="padding:2px; background-color:#000000;"><span id="rightBarTitle">featured</span></div>
 <div id="more1" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
-<div id="more2" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
-<div id="more3" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
-<div id="more4" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
-<div id="more5" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
+<div id="more2" style="width:86px; background-color:#000000; padding:2px; margin-top:3px; overflow:hidden;" class="small_grey"></div>
+<div id="more3" style="width:86px; background-color:#000000; padding:2px; margin-top:3px; overflow:hidden;" class="small_grey"></div>
+<div id="more4" style="width:86px; background-color:#000000; padding:2px; margin-top:3px; overflow:hidden;" class="small_grey"></div>
+<div id="more5" style="width:86px; background-color:#000000; padding:2px; margin-top:3px; overflow:hidden;" class="small_grey"></div>
 </div>
 <script type="text/javascript">
 		window.onload= function () {
   			get_more(0,'featured',0);
 		}
         document.getElementById('rightBarTitle').innerHTML = 'featured';
-	</script><div style="float:right; width:160px; background-color:#000000; padding:2px 2px 1px 2px;">
-<span class="small_grey" style="margin-left:3px; margin-bottom:3px;">advertisement</span><br><script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adx.js"></script><script language="JavaScript" type="text/javascript">
-
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.vmix.com/admin/ads/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:5");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-
-</script><script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adjs.php?n=628066747&amp;what=zone:5&amp;exclude=,"></script><noscript><a href="http://www.vmix.com/admin/ads/adclick.php?n=a990ae2e" target="_blank"><img src="http://www.vmix.com/admin/ads/adview.php?what=zone:5&amp;n=a990ae2e" border="0" alt=""></a></noscript>
+	</script><div style="float:right; width:160px; background-color:#000000; padding:2px 2px 1px 2px;margin-right: 10px; _margin-right: 5px;">
+<span class="small_grey" style=":3px; margin-bottom:3px;">advertisement</span><br><script>
+vmix_accipiter('160x600', accip_area, accip_vid, accip_artistid, accip_zip, accip_channelid, accip_genreid, accip_age, accip_logged_in);
+</script>
 </div>
 </div>
+<div style="position:absolute; top:20px; left:0px; display:none; z-index: 25;" id="subscribe_channels_popup"><div style="width:300px; background:#c6c6c6; color:#000; padding:0px; position:absolute; border:2px solid #3e484d">
+<div style="background-color: #3E484D; width: 300px; height: 27px;float: left; border-bottom: 2px solid #FF944D;">
+<span style="float:left; font-weight: bold; color: #FFF;padding: 6px 0 0 5px; font-size: 12px;">Subscribe to channels</span><div style="float: right;margin: 6px 4px 0 0;"><a href="#" onclick="popupSubscribeBox(); return false;"><img src="/images/inbox_x.gif" border="0"></a></div>
 </div>
+<div style="padding: 10px;clear: both;" id="available_channels">
+<div style="height: 300px; overflow-y:scroll;"></div>
+<input type="button" name="saveOrder" value="Save" onclick="save_channels();" style="background-color: #FF944D; border: 1px solid #3E484D; font-weight: bold; margin: 5px;">
 </div>
-<div id="footer"><div style="width:730px; text-align:center; font-size:10px;">
-© Copyright 2006 vMix. All rights reserved.<br><a href="aboutUs.php">About Us</a>
- | 
-<a href="faq.php">FAQ</a>
- |
-
-<a href="http://www.vmix.com/phpbb">Messageboards</a>
- |
-<a href="press.php">Press</a>
- |
-<a href="advertising.php">Advertising</a>
- |
-<a href="tospage.php">Terms of Use
-</a>
- | 
-<a href="privacy.php">Privacy Policy</a>
- |
-<a href="contact.php">Contact Us</a>
 </div></div>
-<script defer="" src="http://server1.opentracker.net/?site=vmix.com"></script><noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&amp;site=vmix.com" alt="website statistics" border="0"></a></noscript>
+<div style="position:absolute; top:20px; left:0px; display:none; z-index: 20;" id="edit_channels_popup"><div style="width:300px; background:#c6c6c6; color:#000; padding:0px; position:absolute; border:2px solid #3e484d">
+<div style="background-color: #3E484D; width: 300px; height: 27px;float: left; border-bottom: 2px solid #FF944D;">
+<span style="float:left; font-weight: bold; color: #FFF;padding: 6px 0 0 5px; font-size: 12px;">Edit Video Feeds</span><div style="float: right;margin: 6px 4px 0 0;"><a href="#" onclick="popupSubscribeBox(); return false;"><img src="/images/inbox_x.gif" border="0"></a></div>
+</div>
+<div style="padding: 10px;clear: both;">
+<span id="hiddenID" style="display:none;"></span><span class="channelEditTabOn" id="vfTab">my video feeds</span><br style="clear:both;"><div style="background-color: #788a94;padding: 3px; color: #fff; width: 254px;"><a href="#" onclick="popupSubscribeBox();return false;" style="color: #fff;">subscribe to channels</a></div>
+<div style="width: 260px; height: 350px;background-color: #788a94; overflow-y:scroll; overflow-x: hidden; float:left;position:relative;" id="channelEditContainer"><ul id="channelEditList" class="sortable"></ul></div>
+<input type="button" name="saveOrder" value="Save Order" onclick="save_order();" style="background-color: #FF944D; border: 1px solid #3E484D; font-weight: bold; margin: 5px;"><div class="arrowContainerRight">
+<a href="#" onclick="arrowMoveUp();"><img src="/images/channelLineup_arrowUp.gif" border="0"></a><br><a href="#" onclick="arrowMoveDown();"><img src="/images/channelLineup_arrowDown.gif" border="0"></a>
+</div>
+</div>
+</div></div>
+</div>
+<div id="footer">
+© Copyright 2006 vMix. All rights reserved.<br><a href="http://www.vmix.com">vMix Video Sharing Homepage</a> | <a href="/aboutUs.php">About Us</a> | <a href="/faq.php">FAQ</a> | <a href="/press.php">Press</a> | <a href="/advertising.php">Advertising</a> | <a href="/contact.php">Contact Us</a><br><a href="/tospage.php">Terms of Use</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/sitemap.php">Site Map</a>
+</div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
-_uacct = "UA-98254-2";
+_uacct = "UA-479066-1";
 urchinTracker();
 </script><script language="javascript">
 
@@ -438,6 +677,7 @@ function hbxStrip(a) {
         return a;
 }
 
+if (hbx_done == 0){
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-vmixmediainc.hitbox.com";
 
@@ -455,7 +695,7 @@ hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 //OPTIONAL PAGE VARIABLES
 //ACTION SETTINGS
 hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="none";//LINK TRACKING
+hbx.lt="auto";//LINK TRACKING
 hbx.dlf="n";//DOWNLOAD FILTER
 hbx.dft="n";//DOWNLOAD FILE NAMING
 hbx.elf="n";//EXIT LINK FILTER
@@ -498,6 +738,10 @@ hbx.pec="";//ERROR CODES
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 
+document.write('<scri'+'pt language="javascript1.1" src="http://www.vmix.com/js/hbx.js"></scr'+'ipt>');
+}
+
+
 </script><script language="javascript1.1" src="http://www.vmix.com/js/hbx.js"></script><script language="JavaScript">
 
 var LSPT="";
@@ -513,7 +757,9 @@ LSPT += "&xdomain=vmix.com";
 LSPT += "&custid=vmix";
 document.write('<img src=http://'+'content.ipro.com/images/pixel.gif'+LSPT+'height="1" width="1">');
 
-</script><img src="http://content.ipro.com/images/pixel.gif?durl=https%3A//web.archive.org/web/20060616075758id_/http%253A//www.vmix.com/privacy.php&amp;hostname=web.archive.org&amp;url=/web/20060616075758id_/http%3A//www.vmix.com/privacy.php&amp;query=&amp;referrer=&amp;browser=Netscape&amp;version=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;os=Linux%20x86_64&amp;xdomain=vmix.com&amp;custid=vmixheight=&quot;1&quot;" width="1"><noscript><img src="http://content.ipro.com/images/pixel?version=nonjava" height="1" width="1"></noscript>
 
+vmix_accipiter('invisible', accip_area, accip_vid, accip_artistid, accip_zip, accip_channelid, accip_genreid, accip_age, accip_logged_in);
+</script><img src="http://content.ipro.com/images/pixel.gif?durl=https%3A//web.archive.org/web/20061220174514id_/http%253A//www.vmix.com/privacy.php&amp;hostname=web.archive.org&amp;url=/web/20061220174514id_/http%3A//www.vmix.com/privacy.php&amp;query=&amp;referrer=&amp;browser=Netscape&amp;version=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;os=Linux%20x86_64&amp;xdomain=vmix.com&amp;custid=vmixheight=&quot;1&quot;" width="1"><noscript><img src="http://content.ipro.com/images/pixel?version=nonjava" height="1" width="1"></noscript>
+</div></div>
 
 </body></html>
