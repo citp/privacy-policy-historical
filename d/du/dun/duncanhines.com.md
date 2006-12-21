@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616150746id_/http%3A//duncanhines.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221222246id_/http%3A//duncanhines.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Duncan Hines Desserts
 
