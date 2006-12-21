@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623085459id_/http%3A//www.lexi.com/web/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221155851id_/http%3A//www.lexi.com/web/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Lexi-Comp, Inc.
 
@@ -42,7 +42,7 @@ Correct / Update
 
 This site give users the following options for changing and modifying information previously provided:
 
-1.    Update your profile: [ http://www.lexi.com/updateprofile.html](https://web.archive.org/updatepr%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3Eofile.html)  
+1.    Update your profile: [ http://www.lexi.com/updateprofile.html](https://web.archive.org/updateprofile.html)  
 2.    You can send e-mail to privacy-concerns@lexi.com  
 3.    You can send mail to the following postal address:  
 _        Internet Privacy Concerns, Attn: Network Administrator  
