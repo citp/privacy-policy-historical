@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215328id_/http%3A//www.astrolutely.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221143311id_/http%3A//www.astrolutely.com/privacy.php) for the most accurate reproduction.*
 
 # Penny Thornton's Astrolutely.com Privacy Policy Statement
 
@@ -11,9 +11,9 @@ Penny Thornton operates a very strict Privacy Policy for ALL visitors to her int
 
 My postal address is:  
  **Penny Thornton,  
-PO Box 409,  
+PO Box 534,  
 HUNTINGDON,  
-PE28 3WH,  
+PE29 9AX,  
 UK  
 **   
 I can be reached via email at: 
