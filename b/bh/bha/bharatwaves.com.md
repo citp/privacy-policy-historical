@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatwaves.com privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519210839id_/http%3A//www.bharatwaves.com/portal/modules/bwinfo/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatwaves.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221120935id_/http%3A//bharatwaves.com/portal/modules/bwinfo/privacypolicy.php) for the most accurate reproduction.*
 
-# Bharatwaves - Bharatwaves Info
+# Bharatwaves Info
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy applies to all information collected or submitted on the BharatWaves web site. 
 
