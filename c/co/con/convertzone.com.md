@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertzone.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622122115id_/http%3A//convertzone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertzone.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221190552id_/http%3A//convertzone.com/privacy.htm) for the most accurate reproduction.*
 
 # Create PDF,convert PDF to TEXT,WORD DOC to PDF,HTML to PDF,RTF to PDF,XLS to PDF,PPT to PDF,support batch conversion
 
