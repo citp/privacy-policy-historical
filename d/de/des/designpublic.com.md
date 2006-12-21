@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615182832id_/http%3A//www.designpublic.com/content/privacy-policy-%26-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221054614id_/http%3A//www.designpublic.com/content/privacy-policy-%26-security) for the most accurate reproduction.*
 
-# 
+# Privacy Policy & Security
 
 We are committed to protecting the privacy of our customers and to providing a secure and safe shopping experience. If you have any questions at all about our policies, please [contact us](http://www.designpublic.com/index.php?mod=contact).
 
