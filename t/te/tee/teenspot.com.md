@@ -1,102 +1,46 @@
-> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206091746id_/http%3A//www.teenspot.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221070935id_/http%3A//www.teenspot.com/privacy.html) for the most accurate reproduction.*
 
-# TeenSpot.com - About and Information
-
-**Our Principles**
-
-**(1)** We are fully committed to following laws related to the collection of data and protecting the privacy of teenagers, and to following our policy on data collection.
-
-**(2)** We are committed to protecting your privacy and the privacy of each visitor. 
-
-**(3)** TeenSpot.com will not give, trade, sell, or otherwise distribute the personal information you provide to us. 
-
-**(4)** TeenSpot.com does not permit users under 13 years of age to use our service. By logging into our chatrooms, message board, registering for free email or participating in any interactive service, you must validate you are 13 years of age or older.
+# TeenSpot.com - Privacy Policy
 
   
-**TeenSpot.com Chat**
 
-Registered or unregistered members may chat in TeenSpot.com's chat rooms, which are moderated by volunteers and a moderation robot. Members are NOT allowed to give out any information in the chat rooms that will individually identify them. If any such information is given out, the member will be kicked from Chat. Since TeenSpot.com is moderated by volunteers we cannot be responsible for any failure or delay in removing all of such users.
 
-  
-**Is TeenSpot.com Registration Necessary?**
+We may use Personally Identifiable Information subject to the terms of this privacy policy. We will never sell, trade, or lease your email address to any unauthorized third party. From time to time you may receive email sent by us that details special offers or other valuable information about our partners or business colleagues. 
 
-Registering on TeenSpot.com is not necessary for members using the chat rooms, but is for our other interactive areas.
+**How we gather information from users**
 
-**  
-What Information Does TeenSpot.com Chat Collect?**
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided to you. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, we also collect information automatically and through the use of electronic tools that may be transparent or invisible to our users. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, keeping you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means and there ma be other technologies present that act in a similar way but are protected by confidentiality in that they are valuable intellectual properties. In certain cases, you can choose not to provide us with information, such as by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize TeenSpot.com's features according to your preferences. If you do not accept cookies you will find your enjoyment of TeenSpot.com as well as the Internet to be lessened considerably. 
 
-  
-We, inaccordance with COPPA, require you enter your birthdate before we can grant you access to the chat rooms to verify that you are at least 13 years of age.  
-TeenSpot.com does not require a member to submit his/her full name, address, etc. when registering and filling out a profile on the chat network. We only collect information you voluntarily supply us. A member may choose to leave this blank, profiles may be filled in at the discretion of a members parents. TeenSpot.com does not collect email addresses from members in our chat services. We stress parental involvement and permission before you supply information on our Web site. We do not ask for real names or postal addresses. Instead you are invited to supply any nickname not registered by another member. 
+**What we do with the information we collect**
 
-Here is a list of the information TeenSpot.com requests on its chat registration form:
+We collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-* TeenSpot.com Name (this username is created and used only for access to TeenSpot.com)   
-* Password (this password is created and used only for access to TeenSpot.com)  
-* IP Address - The IP address is not requested, but is shown on the Profile. This is used to help diagnose problems with our server, and to administer our Web site. We also track the total number of visitors to our site. Personally identifiable information is not taken in this process.
+Aggregated Data (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Data may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-This information is left to the user to fill in on his/her profile, and is not required to be filled in.
+We may use Personally Identifiable Information collected by us to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by us and other topics we think you might find of interest including commercial announcements of various nature. 
 
-* First Name - A member may choose to write their nickname here.  
-* Info - A member may choose to write anything in this area.  
-* Email - A member may choose to post their email address  
-* URL - A members may choose to list their favorite website.
+Personally Identifiable Information collected by us may also be used for other purposes, including but not limited to site administration and development, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Internet hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law and/or law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-  
-The TeenSpot.com profile is available to registered members only. The profile can be seen when a member double clicks another members nickname. The profile is a way of other members being able to learn a little bit about you before they begin to chat with you. You may choose to fill in this profile at your discretion, it is perfectly fine to leave your profile blank.
+**Affiliated sites, linked sites and advertisements**
 
-**What Other Information Do We Collect?**
+We expect our partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to certain content that is actually created or hosted by a third party. Also, through our content you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. Please make sure you are aware of when you leave our site or view content through a frame. 
 
-\- Here is a list of the information TeenSpot.com requests on its MSG board registration form:
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. We do not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-* TeenSpot.com Name (this username is created and used only for access to TeenSpot.com Boards)   
-* Password (this password is created and used only for access to TeenSpot.com Boards)  
-* Email Address (for verification purposes when signing up for TeenSpot.com Boards)   
-* IP Address - The IP address is not requested, but is shown on the Profile. This is used to help diagnose problems with our server, and to administer our Web site. We also track the total number of visitors to our site. Personally identifiable information is not taken in this process.
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this document. 
 
-The boards also have various other information that is completely optional, you can enter in your 'profile' at your discretion. Such as, but not limited to: Personal Homepage URL, ICQ Number, AIM Nickname, Yahoo Messenger Handle, and an open field where you may enter anything you like, such as your interests or a quote, but not personally identifiable information.
+**Minors**
 
-Our main page asks for an email address to join our free newsletter, this is OPTIONAL and is at your sole discretion and may be unsubscribed at ANY time by going to the URL: http://www.TeenSpot.com/mail.cgi entering your email address and clicking unsubscribe or clicking the unsubscribe link at the bottom of newsletter emails. 
+We do not knowingly collect or solicit Personally Identifiable Information from or about minors under 13 except as permitted by law. If we discover we have received any information from a minor under 13 in violation of this policy, we will delete that information immediately. TeenSpot.com is designed to be of service and interest to minors, specifically, to teenagers. If you are a minor, you should use TeenSpot.com with the permission and under the supervision of your parent or guardian at all times. Parents should never allow their minors to use the Internet without directly supervising them. 
 
-**What Does TeenSpot.com Do with the Information**? 
+**Changes to this Policy**
 
-TeenSpot.com stores information in its secure database and does NOT share this information with anyone. Personal information is deleted on request. TeenSpot.com never sells this information to any third parties. 
+We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-**Unsubscribing:**
+**Governing law**
 
-TeenSpot.com allows you to unsubscribe or delete your profile from all of our interactive services. The following explains how:
+This policy and any interpretation thereof is subject to the laws of the State of Washington. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: (Spokane , Washington). Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-* Newsletter - Go to http://www.TeenSpot.com/mail.cgi and enter your email address and click unsubscribe.  
-* Chat Profile - In the chatroom type: /services drop yournickname and your nickname as well as profile will be deleted.  
-* MSG Boards - We are still working on an automated account deletion, Please send an email to info@netfxmedia.com clearly explaining what you want done and we will delete your account.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration to be held at our offices or at any location mutually agreed upon by all parties under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. You must be present at all mediation meetings. We will mutually agree to a mediator, and if we cannot do so, then you agree that the American Arbitration Association may appoint a mediator. 
 
-  
-**Cookies:**
-
-A cookie is a piece of data stored on the user's hard drive containing information about the user. TeenSpot.com does not use cookie technology to obtain any information from its online visitors. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
-
-  
-**Public Forums:**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-  
-**Third Party Advertising:**  
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here http://www.doubleclick.net/us/corporate/privacy.
-
-  
-**Third Party Cookies:**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
-
-  
-**Who Do I Contact if I Have Questions or Concerns?**
-
-If you have any questions about our policies, feel free to e-mail Mike Brede at info@netfxmedia.com
-
-TeenSpot.com/NetFX Media's Post Office Box
-
-  
-NetFX Media Inc.  
-PO Box 85  
-Veradale, WA  
-99037-0085 
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
