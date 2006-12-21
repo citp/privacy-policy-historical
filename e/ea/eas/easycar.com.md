@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115020id_/http%3A//www.easycar.com/aspx/nossl/Privacy.aspx/EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221121731id_/http%3A//www.easycar.com/nossl/Privacy.aspx/EN) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,7 +19,11 @@ Our site uses an order form to enable customers to obtain information and make B
 * | Unique identifiers (such as email addresses) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.  
 * | Other information (such as driving history) is used to assess the eligibility of customers to participate in our insurance programme.  
 Choice/Opt-out  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.  
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+
+Third Party Advertising  
+We may use third party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your cookies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).  
+  
 Correct/Update  
 This site gives users the following options for changing and modifying information previously provided.  
 * | Follow the Customer Login link to update your profile  
