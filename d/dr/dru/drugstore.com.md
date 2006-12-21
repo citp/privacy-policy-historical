@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2006-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060405031020id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191%26trx%3Dglobenav-help%26trxp1%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221050545id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.*
 
 # answer
 
 |  |   
-|  |  |   
----  
-|   | last updated |    
----|---|---  
-08/11/2005 06:28 PM  
+|  |    
+   Print Answer   
   
-   print answer   
-  
-   email answer     |  |   | What is the drugstore.com privacy policy?  
+   email answer  |    |  |   | What is the drugstore.com privacy policy?  
 ---|---  
   | question  
   | 
@@ -21,12 +16,11 @@ What is the drugstore.com privacy policy?
   | answer  
   | | **TRUSTe Licensee**  
 ---  
-[](https://www.truste.org/ivalidate.php?url=www.drugstore.com) drugstore.com, inc. is licensed by the TRUSTe Privacy Program. This statement discloses the privacy practices for the drugstore.com™ Web site (including the Beauty.com™ Web store). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information.
+[](http://www.truste.org/ivalidate.php?url=www.drugstore.com&sealid=101)  drugstore.com, inc. is licensed by the TRUSTe Privacy Program. This statement discloses the privacy practices for the drugstore.com™ Web site (including the Beauty.com™ Web store). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information.
 
 Questions regarding this privacy policy should be directed to
 
-[privacy@drugstore.com](mailto:privacy@drugstore.com). If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe ( [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)).  
-
+[privacy@drugstore.com](mailto:privacy@drugstore.com). If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe ( [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)).
 
  **Information We Collect**  
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our Web sites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions.
@@ -109,7 +103,7 @@ Copyright © 2005 drugstore.com, inc. All rights reserved.
 [  
 Terms of Use](http://drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php?p_faqid=512&p_created=1123809950&p_sid=hzPMTMMh&p_lva=191&p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MSZwX3Byb2RzPSZwX2NhdHM9MCZwX3B2PSZwX2N2PSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXRlcm1zIG9mIHVzZQ**&p_li=&p_topview=1)  
    
-  | how well did this answer your question?  
+  | how well did this answer your question?   
   |   
   |   
   | related answers  
