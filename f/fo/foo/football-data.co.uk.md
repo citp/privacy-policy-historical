@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the football-data.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220726id_/http%3A//football-data.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-data.co.uk privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221081237id_/http%3A//www.football-data.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Football-Data.co.uk - football data for football betting system development
+# Football-Data.co.uk Privacy Policy
 
 **Privacy Policy**
 
@@ -10,7 +10,7 @@ A cookie is a small piece of data that is sent to your browser from a web server
 
 _Information Collected on Registering_
 
-Access to Football-Data's results/odds data files and tipsters' analyses requires registration. Football-Data may use your contact e-mail to send information about the website from time to time, but no more than once monthly. Football-Data will, however, never share this e-mail with any other third person except as may be required by law. 
+Access to Football-Data's results/odds data files requires registration. Football-Data may use your contact e-mail to send information about the website from time to time, but no more than once monthly. Football-Data will, however, never share this e-mail with any other third person except as may be required by law. 
 
 _Information Collected on Paying_
 
