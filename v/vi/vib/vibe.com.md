@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054020id_/http%3A//www.vibe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221105738id_/http%3A//www.vibe.com/about/privacy) for the most accurate reproduction.*
 
 # VIBE.com: Privacy Policy
 
+## Privacy Policy
+
+June 22, 2005
+
 ## PRIVACY POLICY
 
-The policies below are applicable to the Authors of this site which include Vibe/Spin Ventures, LLC, and other sites on the World Wide Web portion of the Internet.
+The policies below are applicable to the Authors of this site which include Vibe Media Group, and other sites on the World Wide Web portion of the Internet.
 
 We respect your privacy. Any information you give us is held with the utmost care and security and is only used in the ways that are described in this policy.
 
@@ -51,3 +55,47 @@ Most browsers are initially set to accept cookies. If you'd prefer, you can set 
 We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the our sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions at [info@vibe.com](mailto:info@vibe.com).
 
 **Mobile Vibe & Text Message Alerts** A cell phone number is only required if you want Mobile Vibe messages such as news alerts sent to your mobile phone. You may register for these alerts here. As with your other Personal Information, we use your cell phone number only for the purposes of delivering those Mobile Vibe services to which you have opted-in. At opt-in, we also may ask for optional General Information, including your age and gender. You are not required to give us this information to receive text message alerts. If you would like to stop receiving text message alerts, simply reply to any alert with the word QUIT, or send an email with your mobile number and a request to be unsubscribed from the service to [mobile@vibe.com](mailto:mobile@vibe.com).
+
+* * *
+
+## Comments:
+
+webcam strip
+
+webcam strip snb webcam strip sex cams snb sex cams girl webcam snb girl webcam strip webcam snb strip webcam sex cams snb sex cams girl webcam snb girl webcam webcam girls snb webcam girls webcam girl snb webcam girl
+
+December 10, 2006, 8:37 am
+
+* * *
+
+work at home
+
+work at home qqq work at home home based business opportunity qqq home based business opportunity home based businesses qqq home based businesses work at home qqq work at home work from home qqq work from home internet work at home jobs qqq internet work at home jobs home based business qqq home based business home based internet businesses qqq home based internet businesses 
+
+December 17, 2006, 3:14 pm
+
+* * *
+
+paul
+
+how are u.i luv ur bum
+
+December 18, 2006, 10:46 am
+
+* * *
+
+ali khan
+
+i want you to put me on v-list. thank you.
+
+December 19, 2006, 4:32 am
+
+* * *
+
+peter duah
+
+i want you to put me on the v-list
+
+December 20, 2006, 5:45 am
+
+* * *
