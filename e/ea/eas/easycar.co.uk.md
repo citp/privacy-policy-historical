@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620092749id_/http%3A//www.easycar.com/aspx/nossl/Privacy.aspx/EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221121731id_/http%3A//www.easycar.com/nossl/Privacy.aspx/EN) for the most accurate reproduction.*
 
 # Privacy
 
