@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the drugstore.com privacy policy that was archived on 2006-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060405031020id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191%26trx%3Dglobenav-help%26trxp1%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drugstore.com privacy policy that was archived on 2006-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061221050545id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- Head ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="stylesheet" type="text/css" href="/rnt/rnw/css/enduser.css">
 <meta name="ROBOTS" content="NONE">
 <meta name="ROBOTS" content="NOINDEX,NOFOLLOW">
@@ -11,8 +10,9 @@
 </head>
 <!-- Body ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- -->
 <body class="bgcolor">
-<img src="http://www.drugstore.com/img/ds_logo_context_0.gif" alt="drugstore.com">
-<form class="block" name="_search" method="get" action="std_alp.php">
+<a href="http://www.drugstore.com"><img src="http://www.drugstore.com/img/ds_logo_context_0.gif" alt="drugstore.com" border="0
+"></a>
+<form class="block" name="_search" method="get" action="std_alp.php" onsubmit="do_prodcat_submit()">
 <!-- Tab Area ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- -->
 <table cellpadding="0" cellspacing="0" border="0" width="100%" id="Table5">
  <tbody><tr>
@@ -21,7 +21,7 @@
     <tbody><tr>
      <td align="left" valign="top"><img src="/rnt/rnw/img/enduser/seltabl.gif" width="6" height="6" alt=""></td>
      <td width="100%" class="seltab" align="center" rowspan="2" nowrap="">
-      <a class="seltab" href="std_alp.php?p_sid=5X68Sd4i&amp;p_lva=191">&nbsp;common questions&nbsp;</a>
+      <a class="seltab" href="std_alp.php?p_sid=NsibnFpi&amp;p_accessibility=0&amp;p_lva=191">&nbsp;common questions&nbsp;</a>
      </td>
      <td align="right" valign="top"><img src="/rnt/rnw/img/enduser/seltabr.gif" width="6" height="6" alt=""></td>
     </tr>
@@ -37,7 +37,7 @@
     <tbody><tr>
      <td align="left" valign="top"><img src="/rnt/rnw/img/enduser/tabl.gif" width="6" height="6" alt=""></td>
      <td width="100%" class="tab" align="center" rowspan="2" nowrap="">
-      <a class="tab" href="ask.php?p_sid=5X68Sd4i&amp;p_lva=191">ask a question</a>
+      <a class="tab" href="ask.php?p_sid=NsibnFpi&amp;p_accessibility=0&amp;p_lva=191">ask a question</a>
      </td>
      <td align="right" valign="top"><img src="/rnt/rnw/img/enduser/tabr.gif" width="6" height="6" alt=""></td>
     </tr>
@@ -48,22 +48,25 @@
    </tbody></table>
   </td>
   <td width="1%">&nbsp;</td>
-  <td width="80%">&nbsp;</td>
+  <td width="80%">
+       <a href="accessibility.php?p_accessibility=1"><img height="1" width="1" border="0" src="/rnt/rnw/img/enduser/tl.gif" alt="show accessible links"></a>
+        &nbsp;</td>
    <td width="1%">&nbsp;</td>
   <td width="1%">&nbsp;</td>
  </tr>
 <!-- Subtab Area ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- -->
  <tr>
-  <td class="seltab" colspan="7">
+  <td class="seltab" colspan="5">
    &nbsp;
   </td>
  </tr>
  <tr><td colspan="4"></td></tr>
- <tr><td colspan="4"><img src="/rnt/rnw/img/trnsp.gif" width="" height="4" alt=""></td></tr>
+ <tr><td colspan="4"><img src="/rnt/rnw/img/trnsp.gif" width="1" height="4" alt=""></td></tr>
 </tbody></table>
-<input type="hidden" name="p_sid" value="5X68Sd4i">
+<input type="hidden" name="p_sid" value="NsibnFpi">
 <input type="hidden" name="p_lva" value="191">
 <input type="hidden" name="p_li" value="">
+<input type="hidden" name="p_accessibility" value="0">
 <input type="hidden" name="p_page" value="1" id="Hidden1">
 <table cellspacing="0" cellpadding="0" border="0" width="100%" id="Table1">
  <tbody><tr>
@@ -76,79 +79,81 @@
 <script type="text/javascript"> // --------------------------------------------
 var cprodlvl = 0;
 var current_prod_lvl = 0;
-var prod_path = "";
-var cat_path = "";
-var prod_hist = new Array();
-var cat_hist  = new Array();
-var prod_start_level = 1;
-var cat_start_level  = 1;
-if (prod_start_level == 0)
-    prod_start_level = 1;
-if (cat_start_level == 0)
-    cat_start_level  = 1;
-var prod_array = {longest:0};
-var cat_array = {
-0: {parent:0, item:[
-    {id:47, label:"New Pharmacy Customer", level:0, parent:0},
-    {id:1, label:"Billing", level:0, parent:0},
-    {id:34, label:"Insurance", level:0, parent:0},
-    {id:16, label:"Order Status", level:0, parent:0},
-    {id:24, label:"Prescriptions", level:0, parent:0},
-    {id:189, label:"Product Information and Requests", level:0, parent:0},
-    {id:21, label:"Promotions & Special Offers", level:0, parent:0},
-    {id:3, label:"Returns", level:0, parent:0},
-    {id:48, label:"Rite Aid", level:0, parent:0},
-    {id:11, label:"Shipping", level:0, parent:0},
-    {id:121, label:"Your Account", level:0, parent:0},
-    {id:82, label:"About drugstore.com", level:0, parent:0}] },
-1: {parent:0, item:[
-    {id:2, label:"Payment Methods", level:1, parent:1},
-    {id:4, label:"Payment Problems", level:1, parent:1},
-    {id:5, label:"Sales Tax", level:1, parent:1},
-    {id:6, label:"Gift Certificates", level:1, parent:1},
-    {id:7, label:"Flexible Spending Accounts", level:1, parent:1},
-    {id:8, label:"Portion Pay", level:1, parent:1}] },
-3: {parent:1, item:[
-    {id:9, label:"Return Policy", level:1, parent:3},
-    {id:10, label:"Return Instructions", level:1, parent:3},
-    {id:76, label:"Prescription Return Policy", level:1, parent:3}] },
-11: {parent:3, item:[
-    {id:12, label:"Shipping Policy", level:1, parent:11},
-    {id:13, label:"Shipping Methods", level:1, parent:11},
-    {id:14, label:"International Shipping", level:1, parent:11},
-    {id:15, label:"Tracking an Order", level:1, parent:11}] },
-16: {parent:11, item:[
-    {id:49, label:"Checking Your OTC Order Status", level:1, parent:16},
-    {id:17, label:"Checking Your Prescription Order Status", level:1, parent:16},
-    {id:18, label:"Canceling Your Order", level:1, parent:16},
-    {id:20, label:"Changing Your Order", level:1, parent:16},
-    {id:19, label:"Backorders", level:1, parent:16}] },
-21: {parent:16, item:[
-    {id:79, label:"Redeeming Special Offers", level:1, parent:21},
-    {id:22, label:"Combining Promotions", level:1, parent:21},
-    {id:81, label:"Pharmacy Special Offers", level:1, parent:21},
-    {id:23, label:"GNC Gold Card Program", level:1, parent:21},
-    {id:77, label:"drugstore.com dollars", level:1, parent:21},
-    {id:80, label:"Free Shipping", level:1, parent:21}] },
-24: {parent:21, item:[
-    {id:29, label:"Price Quotes", level:1, parent:24},
-    {id:28, label:"New Prescriptions", level:1, parent:24},
-    {id:26, label:"Refilling a Prescription", level:1, parent:24},
-    {id:27, label:"Renewing a Prescription", level:1, parent:24},
-    {id:30, label:"Prescription Status", level:1, parent:24},
-    {id:32, label:"Managing Your Prescriptions", level:1, parent:24},
-    {id:31, label:"Health Profiles", level:1, parent:24}] },
-34: {parent:24, item:[
-    {id:35, label:"Copays", level:1, parent:34},
-    {id:36, label:"Discount Cards", level:1, parent:34},
-    {id:37, label:"Using Your Insurance", level:1, parent:34}] },
-82: {parent:34, item:[
-    {id:168, label:"Syndicated Content", level:1, parent:82},
-    {id:191, label:"Contacting Customer Service", level:1, parent:82}] },
-121: {parent:82, item:[
-    {id:122, label:"Account Set-Up", level:1, parent:121},
-    {id:123, label:"Managing Your Account Information", level:1, parent:121}] },
-longest:39};
+var prod_path  = "";
+var cat_path   = "";
+var prod_hist  = new Array();
+var cat_hist   = new Array();
+var prod_vals  ='';
+var linking_on = false;
+var test_array = new Object();
+    test_array[0] = {
+        item :[
+            {id:231, label:"BLAH"},
+            {id:222, label:"BLAH2"}]};
+test_array.longest = 33;
+var prod_array = new Object();
+prod_array.longest = 0;
+var cat_array = new Object();
+cat_array[0] = {level:0, item:[
+    {id:1, label:"Billing", level:0, parent:0, parent_string:""},
+    {id:34, label:"Insurance", level:0, parent:0, parent_string:""},
+    {id:16, label:"Order Status & Tracking", level:0, parent:0, parent_string:""},
+    {id:24, label:"Prescriptions", level:0, parent:0, parent_string:""},
+    {id:189, label:"Product Information & Requests", level:0, parent:0, parent_string:""},
+    {id:21, label:"Promotions & Special Offers", level:0, parent:0, parent_string:""},
+    {id:3, label:"Returns", level:0, parent:0, parent_string:""},
+    {id:48, label:"Rite Aid", level:0, parent:0, parent_string:""},
+    {id:11, label:"Shipping", level:0, parent:0, parent_string:""},
+    {id:121, label:"Your Account", level:0, parent:0, parent_string:""},
+    {id:82, label:"About drugstore.com", level:0, parent:0, parent_string:""}] },
+cat_array[1] = {level:1, item:[
+    {id:2, label:"Payment Methods", level:1, parent:1, parent_string:""},
+    {id:4, label:"Payment Problems", level:1, parent:1, parent_string:""},
+    {id:5, label:"Sales Tax", level:1, parent:1, parent_string:""},
+    {id:6, label:"Gift Certificates", level:1, parent:1, parent_string:""},
+    {id:7, label:"Flexible Spending Accounts", level:1, parent:1, parent_string:""},
+    {id:8, label:"Portion Pay", level:1, parent:1, parent_string:""}] },
+cat_array[3] = {level:1, item:[
+    {id:9, label:"Nonprescription Returns", level:1, parent:3, parent_string:""},
+    {id:76, label:"Prescription Returns", level:1, parent:3, parent_string:""}] },
+cat_array[11] = {level:1, item:[
+    {id:12, label:"Shipping Policy", level:1, parent:11, parent_string:""},
+    {id:13, label:"Shipping Methods", level:1, parent:11, parent_string:""},
+    {id:14, label:"International Shipping", level:1, parent:11, parent_string:""}] },
+cat_array[16] = {level:1, item:[
+    {id:49, label:"Nonprescription Order Status & Tracking", level:1, parent:16, parent_string:""},
+    {id:17, label:"Prescription Order Status & Tracking", level:1, parent:16, parent_string:""},
+    {id:18, label:"Canceling Your Order", level:1, parent:16, parent_string:""},
+    {id:20, label:"Changing Your Order", level:1, parent:16, parent_string:""},
+    {id:19, label:"Backorders", level:1, parent:16, parent_string:""}] },
+cat_array[21] = {level:1, item:[
+    {id:79, label:"Redeeming Special Offers", level:1, parent:21, parent_string:""},
+    {id:22, label:"Combining Promotions", level:1, parent:21, parent_string:""},
+    {id:81, label:"Pharmacy Special Offers", level:1, parent:21, parent_string:""},
+    {id:23, label:"GNC Gold Card Program", level:1, parent:21, parent_string:""},
+    {id:77, label:"drugstore.com dollars", level:1, parent:21, parent_string:""},
+    {id:80, label:"Free Shipping", level:1, parent:21, parent_string:""}] },
+cat_array[24] = {level:1, item:[
+    {id:29, label:"Prescription Prices", level:1, parent:24, parent_string:""},
+    {id:28, label:"New Prescriptions", level:1, parent:24, parent_string:""},
+    {id:26, label:"Refilling a Current Prescription", level:1, parent:24, parent_string:""},
+    {id:27, label:"Renewing an Expired Prescription", level:1, parent:24, parent_string:""},
+    {id:32, label:"Managing Your Prescriptions", level:1, parent:24, parent_string:""},
+    {id:31, label:"Health Profiles", level:1, parent:24, parent_string:""},
+    {id:239, label:"Conditions & Medications", level:1, parent:24, parent_string:""}] },
+cat_array[34] = {level:1, item:[
+    {id:35, label:"Copays", level:1, parent:34, parent_string:""},
+    {id:36, label:"Discount Cards", level:1, parent:34, parent_string:""},
+    {id:37, label:"Using Your Insurance", level:1, parent:34, parent_string:""}] },
+cat_array[82] = {level:1, item:[
+    {id:168, label:"Syndicated Content", level:1, parent:82, parent_string:""},
+    {id:191, label:"Contacting Customer Service", level:1, parent:82, parent_string:""},
+    {id:197, label:"Company Information", level:1, parent:82, parent_string:""}] },
+cat_array[121] = {level:1, item:[
+    {id:122, label:"Account Set-Up", level:1, parent:121, parent_string:""},
+    {id:123, label:"Managing Your Account Information", level:1, parent:121, parent_string:""}] };
+cat_array.longest = 39;
+var cat_parent = new Array(0,1,3,11,16,21,24,34,82,121);
 function prodcat_check_fields (form_name, fld_data, prod_data, cat_data, prod_reqd_lvl, cat_reqd_lvl)
 {
     var form_sfx = (form_name == "_phone") ? "_phone" : "";
@@ -156,36 +161,44 @@ function prodcat_check_fields (form_name, fld_data, prod_data, cat_data, prod_re
     var prod_arr = prod_data.split(',');
     var cat_arr = cat_data.split(',');
     var fobj, tobj, i;
+    var prod_num, prod_name, cat_num, cat_name;
     var prod_len = prod_arr.length
     var prod_last = prod_arr[prod_len - 1];
     var cat_len = cat_arr.length
     var cat_last = cat_arr[cat_len - 1];
     if (prod_reqd_lvl)
-        if ((prod_reqd_lvl - (prod_start_level - 1)) > prod_len && prod_array[prod_arr[prod_len - 1]] ||
+        if ((prod_reqd_lvl) > prod_len && prod_array[prod_arr[prod_len - 1]] ||
             prod_arr[prod_len -1] == " " || prod_arr[prod_len -1] == "")
         {
-            cobj = eval('document.' + form_name + '.prod_lvl' +
-                        ((prod_arr[prod_len -1] == " " || prod_arr[prod_len -1] == "") ? prod_len : (prod_len + 1)) + form_sfx);
+            prod_num = (prod_arr[prod_len - 1] == " " || prod_arr[prod_len - 1]) == "" ? prod_len : (prod_len + 1);
+            if(form_name == "_phone")
+                prod_name = "prods" + prod_num + "_phone";
+            else
+                prod_name = "prod_lvl" + prod_num;
+            cobj = eval('document.' + form_name + '.' + prod_name);
             alert('Product ' + reqd_msg);
             if (true)
             {
-                tobj = document.getElementById(
-                    'prod_lvl' + ((prod_arr[prod_len -1] == " " || prod_arr[prod_len -1] == "") ? prod_len : (prod_len + 1)) + form_sfx);
+                tobj = document.getElementById(prod_name);
                 tobj.style.display = "inline";
                 cobj.focus();
             }
             return false;
         }
     if (cat_reqd_lvl)
-        if ((cat_reqd_lvl - (cat_start_level - 1)) > cat_len && cat_array[cat_arr[cat_len - 1]] ||
+        if ((cat_reqd_lvl) > cat_len && cat_array[cat_arr[cat_len - 1]] ||
             cat_arr[cat_len -1] == " " || cat_arr[cat_len -1] == "")
         {
-            cobj = eval('document.' + form_name + '.cat_lvl' +
-                        ((cat_arr[cat_len -1] == " " || cat_arr[cat_len -1] == "") ? cat_len : (cat_len + 1)) + form_sfx);
+            cat_num = (cat_arr[cat_len - 1] == " " || cat_arr[cat_len - 1]) == "" ? cat_len : (cat_len + 1);
+            if(form_name == "_phone")
+                cat_name = "cats" + cat_num + "_phone";
+            else
+                cat_name = "cat_lvl" + cat_num;
+            cobj = eval('document.' + form_name + '.' + cat_name);
             alert('topic ' + reqd_msg);
             if (true)
             {
-                tobj = document.getElementById('cat_lvl' + ((cat_arr[cat_len -1] == " " || cat_arr[cat_len -1] == "") ? cat_len : (cat_len + 1)) + form_sfx);
+                tobj = document.getElementById(cat_name);
                 tobj.style.display = "inline";
                 cobj.focus();
             }
@@ -195,12 +208,12 @@ function prodcat_check_fields (form_name, fld_data, prod_data, cat_data, prod_re
 }
 function auto_populate(form, obj_data, val, group)
 {
+    var isprod = false;
     if (0)
     {
         form.p_prods.value = val;
         return;
     }
-    var start_level = 0;
     if (group == "prods_phone")
     {
         obj1 = form.prods1_phone;
@@ -209,7 +222,7 @@ function auto_populate(form, obj_data, val, group)
         obj4 = form.prods4_phone;
         obj5 = form.prods5_phone;
         obj6 = form.prods6_phone;
-        start_level = prod_start_level;
+        isprod = true;
     }
     else if (group.substr(0,4) == "prod")
     {
@@ -219,7 +232,7 @@ function auto_populate(form, obj_data, val, group)
         obj4 = form.prod_lvl4;
         obj5 = form.prod_lvl5;
         obj6 = form.prod_lvl6;
-        start_level = prod_start_level;
+        isprod = true;
     }
     else if (group == "cats_phone")
     {
@@ -229,7 +242,6 @@ function auto_populate(form, obj_data, val, group)
         obj4 = form.cats4_phone;
         obj5 = form.cats5_phone;
         obj6 = form.cats6_phone;
-        start_level = cat_start_level;
     }    
     else
     {
@@ -239,40 +251,59 @@ function auto_populate(form, obj_data, val, group)
         obj4 = form.cat_lvl4;
         obj5 = form.cat_lvl5;
         obj6 = form.cat_lvl6;
-        start_level = cat_start_level;
     }
     if (!obj1)
         return;
-    populate_select(form, obj1, 0, obj_data, group, start_level);
+    if ((group == "prods_phone") || (group == "cats_phone"))
+        populate_select_nolink(form, obj1, 0, obj_data, group);
+    else
+        populate_select(form, obj1, 0, obj_data, group);        
     if (!val)
         return;
     pop_arr = val.split(",");
+    pop_len = pop_arr.length;
+    if (pop_arr[pop_len -1] == 0)
+        pop_len--;
     if (pop_arr[0])
-        obj1.value = pop_arr[0];
+    {
+        obj1.value = pop_arr[0];          
+        if (pop_len == 1)
+            populate_select(form, obj1, pop_arr[0], obj_data, group);
+    }
     if (pop_arr[1])
     {    
         populate_select(form, obj1, pop_arr[0], obj_data, group);
         obj2.value = pop_arr[1];
+        if (pop_len == 2)
+            populate_select(form, obj2, pop_arr[1], obj_data, group);
     }
     if (pop_arr[2])
     {           
         populate_select(form, obj2, pop_arr[1], obj_data, group);
         obj3.value = pop_arr[2];
+        if (pop_len == 3)
+            populate_select(form, obj3, pop_arr[2], obj_data, group);        
     }
     if (pop_arr[3])
     {            
         populate_select(form, obj3, pop_arr[2], obj_data, group);
         obj4.value = pop_arr[3];
+        if (pop_len == 4)
+            populate_select(form, obj4, pop_arr[3], obj_data, group);         
     }
     if (pop_arr[4])
     {            
         populate_select(form, obj4, pop_arr[3], obj_data, group);
         obj5.value = pop_arr[4];
+        if (pop_len == 5)
+            populate_select(form, obj5, pop_arr[4], obj_data, group);          
     }
     if (pop_arr[5])
     {            
         populate_select(form, obj5, pop_arr[4], obj_data, group);
         obj6.value = pop_arr[5];
+        if (pop_len == 6)
+            populate_select(form, obj6, pop_arr[5], obj_data, group);           
     }    
 }
 function do_prodcat_submit()
@@ -283,68 +314,102 @@ function do_prodcat_submit()
     if (formObj.prod_lvl1)
     {
         formObj.p_prods.value = formObj.prod_lvl1.value;
-        if (document.getElementById('prod_lvl2').style.display == 'inline')
+        if (document.getElementById('prod_lvl2').style.display == 'inline' && formObj.prod_lvl2.value != 0)
             formObj.p_prods.value += ',' + document.getElementById('prod_lvl2').value;
-        if (document.getElementById('prod_lvl3').style.display == 'inline')
+        if (document.getElementById('prod_lvl3').style.display == 'inline' && formObj.prod_lvl3.value != 0)
             formObj.p_prods.value += ',' + document.getElementById('prod_lvl3').value;
-        if (document.getElementById('prod_lvl4').style.display == 'inline')
+        if (document.getElementById('prod_lvl4').style.display == 'inline' && formObj.prod_lvl4.value != 0)
             formObj.p_prods.value += ',' + document.getElementById('prod_lvl4').value;
-        if (document.getElementById('prod_lvl5').style.display == 'inline')
+        if (document.getElementById('prod_lvl5').style.display == 'inline' && formObj.prod_lvl5.value != 0)
             formObj.p_prods.value += ',' + document.getElementById('prod_lvl5').value;
-        if (document.getElementById('prod_lvl6').style.display == 'inline')
+        if (document.getElementById('prod_lvl6').style.display == 'inline' && formObj.prod_lvl6.value != 0)
             formObj.p_prods.value += ',' + document.getElementById('prod_lvl6').value;
         var pop_arr = formObj.p_prods.value.split(",");
         var pop_len = pop_arr.length;
-        var level = pop_len + prod_start_level - 1;
+        var level = pop_len;
         if (pop_len > 1)
-            if (pop_arr[pop_len - 1] == 0)
-                formObj.p_pv.value = level - 1 + "." + pop_arr[pop_len - 2] + ";" + pop_len + ".u0";
+            if (pop_arr[pop_len - 1] != 0)
+                formObj.p_pv.value = level  + "." + pop_arr[pop_len - 1];
             else
-                formObj.p_pv.value = level + "." + pop_arr[pop_len -1];
-        else if (pop_len == 0)
-            formObj.p_pv.value = level - 1 + ".u0";
-        else if (pop_len == 1 && formObj.prod_lvl1.value != 0)
-            formObj.p_pv.value = prod_start_level + "." + formObj.prod_lvl1.value + ";2.u0";
+                formObj.p_pv.value = (pop_len - 1) + "." + pop_arr[pop_len - 2];
+        else if (pop_len == 1 &&  pop_arr[0] != 0)
+            formObj.p_pv.value = "1." + pop_arr[0];            
         else
             formObj.p_pv.value = "";
     }
     if (formObj.cat_lvl1)
     {    
         formObj.p_cats.value = formObj.cat_lvl1.value;
-        if (document.getElementById('cat_lvl2').style.display == 'inline')
+        if (document.getElementById('cat_lvl2').style.display == 'inline' && formObj.cat_lvl2.value != 0)
             formObj.p_cats.value = formObj.p_cats.value + ',' + formObj.cat_lvl2.value;
-        if (document.getElementById('cat_lvl3').style.display == 'inline')
+        if (document.getElementById('cat_lvl3').style.display == 'inline' && formObj.cat_lvl3.value != 0)
             formObj.p_cats.value = formObj.p_cats.value + ',' + formObj.cat_lvl3.value;
-        if (document.getElementById('cat_lvl4').style.display == 'inline')
+        if (document.getElementById('cat_lvl4').style.display == 'inline' && formObj.cat_lvl4.value != 0)
             formObj.p_cats.value = formObj.p_cats.value + ',' + formObj.cat_lvl4.value;
-        if (document.getElementById('cat_lvl5').style.display == 'inline')
+        if (document.getElementById('cat_lvl5').style.display == 'inline' && formObj.cat_lvl5.value != 0)
             formObj.p_cats.value = formObj.p_cats.value + ',' + formObj.cat_lvl5.value;
-        if (document.getElementById('cat_lvl6').style.display == 'inline')
+        if (document.getElementById('cat_lvl6').style.display == 'inline' && formObj.cat_lvl6.value != 0)
            formObj.p_cats.value = formObj.p_cats.value + ',' + formObj.cat_lvl6.value;
         var pop_arr = formObj.p_cats.value.split(",");
         var pop_len = pop_arr.length;
-        var level = pop_len + cat_start_level - 1;
-        if (pop_len > 1)
-            if (pop_arr[pop_len - 1] == 0)
-                formObj.p_cv.value = level - 1 + "." + pop_arr[pop_len - 2] + ";" + pop_len + ".u0";
-            else
-                formObj.p_cv.value = level + "." + pop_arr[pop_len -1];
-        else if (pop_len == 0)
-            formObj.p_cv.value = level - 1 + ".u0";
-        else if (pop_len == 1 && formObj.cat_lvl1.value != 0)
-            formObj.p_cv.value = cat_start_level + "." + formObj.cat_lvl1.value + ";2.u0";
-        else
-            formObj.p_cv.value = "";
+        var level = pop_len;
+        var cat_string = "";
+       if (!cat_string)
+       {
+           if (pop_len > 1)
+               if (pop_arr[pop_len - 1] != 0)
+                   formObj.p_cv.value = level + "." + pop_arr[pop_len - 1];
+               else
+                   formObj.p_cv.value = (pop_len - 1) + "." + pop_arr[pop_len - 2];
+           else if (pop_len == 1 &&  pop_arr[0] != 0)
+               formObj.p_cv.value =  "1." + pop_arr[0];             
+           else
+               formObj.p_cv.value = "";
+       }
     }
 }
-function add_prodcat_vals(form)
+function find_parent(full_array, level, value, parent_size, isprod)
 {
+    var i=0, j=0;
+    var item_length, done = 0;
+    var return_val = 0;
+    var parent_array;
+    if (isprod)
+        parent_array = prod_parent;
+    else
+        parent_array = cat_parent;
+    for (i=0; i<parent_size; i++)
+    {
+        item_length = full_array[parent_array[i]].item.length;
+        for (j=0; j<item_length; j++)
+        {
+            if ((full_array[parent_array[i]].item[j].level == level) && (full_array[parent_array[i]].item[j].id == value))
+            { 
+                return_val = full_array[parent_array[i]].item[j].parent;
+                done = 1;
+                break;
+            }
+        }
+        if (done)
+            break;
+    }
+    return (return_val);
+}
+function add_prodcat_vals(form, prod_array, cat_array)
+{
+    var prod_parent_size = 0;
+    var cat_parent_size = 48;
+    var prev_parent, cur_parent;
     if (0)
         return;
     if (form.name != "_phone")
     {
         if (form.prod_lvl1)
         {    
+            // This basically determines the level that the form value started at, finds the parent nodes
+            // and fills in their id's appropriately. Any changes to this logic should be applied to 
+            // categories as well down below.
+            form.p_prods.value = '';
             form.p_prods.value = form.prod_lvl1.value;
             if (document.getElementById('prod_lvl2').style.display == 'inline' && form.prod_lvl2.value != 0)
                 form.p_prods.value = form.p_prods.value + ',' + form.prod_lvl2.value;
@@ -359,6 +424,7 @@ function add_prodcat_vals(form)
         }
         if (form.cat_lvl1)
         {      
+            form.p_cats.value = '';
             form.p_cats.value = form.cat_lvl1.value;
             if (document.getElementById('cat_lvl2').style.display == 'inline' && form.cat_lvl2.value != 0)
                 form.p_cats.value = form.p_cats.value + ',' + form.cat_lvl2.value;
@@ -404,22 +470,205 @@ function add_prodcat_vals(form)
         }
     }        
 }
+function remove_box(form, obj, val)
+{
+    switch(obj.id)
+    {
+        case 'prod_lvl1':
+            break;
+        case 'prod_lvl2':    
+            change_prod(form, form.prod_lvl1, form.prod_lvl1.value);
+            break;
+        case 'prod_lvl3':    
+            change_prod(form, form.prod_lvl2, form.prod_lvl2.value);
+            break;
+        case 'prod_lvl4':    
+            change_prod(form, form.prod_lvl3, form.prod_lvl3.value);
+            break;
+        case 'prod_lvl5':
+            change_prod(form, form.prod_lvl4, form.prod_lvl4.value);
+            break;
+        case 'prod_lvl6':
+            change_prod(form, form.prod_lvl5, form.prod_lvl5.value);
+            break;
+    } 
+}
+function hide_cats(form, phone)
+{
+    if (!phone)
+    {
+        form.cat_lvl2.style.display="none";     
+        form.cat_lvl3.style.display="none";     
+        form.cat_lvl4.style.display="none"; 
+        form.cat_lvl5.style.display="none";    
+        form.cat_lvl6.style.display="none";
+        form.cats2i.style.display = "none";    
+        form.cats3i.style.display = "none";
+        form.cats4i.style.display = "none";
+        form.cats5i.style.display = "none";
+        form.cats6i.style.display = "none";
+        if (typeof cats_req2 != 'undefined')
+            cats_req2.style.display = "none";
+        if (typeof cats_req3 != 'undefined')
+            cats_req3.style.display = "none";
+        if (typeof cats_req4 != 'undefined')
+            cats_req4.style.display = "none";
+        if (typeof cats_req5 != 'undefined')
+            cats_req5.style.display = "none";
+        if (typeof cats_req6 != 'undefined')
+            cats_req6.style.display = "none";
+    }
+    else
+    {
+        form.cats2_phone.style.display="none";     
+        form.cats3_phone.style.display="none";     
+        form.cats4_phone.style.display="none"; 
+        form.cats5_phone.style.display="none";    
+        form.cats6_phone.style.display="none";
+        form.cats2_phonei.style.display = "none";    
+        form.cats3_phonei.style.display = "none";
+        form.cats4_phonei.style.display = "none";
+        form.cats5_phonei.style.display = "none";
+        form.cats6_phonei.style.display = "none";
+    }
+}
+var cur_prod_selection = 0;
+function change_prod(form, obj, val)
+{
+    var isPhone = 0;
+    var padding = "";
+    if (obj.id.substr(obj.id.length - 5) == "phone")
+    {
+        cObj = form.cats1_phone;
+        isPhone = 1;
+    }
+    else
+        cObj = form.cat_lvl1;
+    if (typeof cObj == "undefined")
+        return;
+    data_array = prod_array;
+    cur_prod_selection = val;
+    var i = 0;
+    var j = 1;
+    var sel_cats = new Array();
+    cObj.length = 0;
+    hide_cats(form, isPhone);
+    if (val == 0 && obj.id.substr([obj.id.length-1]) == 1)
+    {
+        auto_populate(form, cat_array, '', 'cats');
+        return;
+    }
+    if (val == 0)
+    {
+        remove_box(form, obj, val);
+        return;
+    }
+    for(x=0; x < (prod_array.longest); x++)
+        padding = padding + " ";
+    finish_cat_pop(cObj, 0, padding);
+}
+function cat_select(form, obj, val)
+{   
+    if (typeof cat_array[val] == 'undefined' || cur_prod_selection == 0)
+        return(false);
+   var cur_level = cat_array[val].level; 
+   implicit = check_implicit(form, obj, cur_level);
+   if (!implicit)
+       return(true)
+   else
+       return(false);
+}
+function finish_cat_pop(cObj, val, padding)
+{
+    var cur_level = cat_array[val].level;
+    if (cur_prod_selection == 0)
+        return;
+    var i = 0;
+    var j = 1;
+    var cur_cat_lvl = cObj.id.substr(cObj.id.length - 1);
+    var de_cat_lvl = 1;
+    var sel_cats = new Array();
+    cObj.length = 0;
+    if (!padding)
+        padding = "";
+    cObj.options[0]       = new Option();
+    if (false && de_cat_lvl >= cur_cat_lvl)
+        cObj.options[0].text  = "                   ";
+    else if (cur_cat_lvl > 1)
+        cObj.options[0].text  = "all sub-topics    ";
+    else
+        cObj.options[0].text  = "All         ";
+    cObj.options[0].value = " ";
+    for (cdata in cat_array[val].item)
+    {
+        for (data in cat_map[cur_prod_selection].mapping)
+        {
+            var cur_sel = cat_map[cur_prod_selection].mapping[data].map.split(",");
+            if (cat_array[val].item[cdata].id == cur_sel[cur_level])
+            {
+                sel_cats[cur_sel[0]] = 1;
+                cObj.options[j]       = new Option();
+                cObj.options[j].text  = cat_array[val].item[cdata].label; 
+                cObj.options[j].value = cat_array[val].item[cdata].id;     
+                j = j + 1;
+                break;
+            }
+        }
+    }
+}
+function check_implicit(form, obj, level)
+{
+    var implicit = false;
+    if (level < 1)
+        return;
+    if (typeof cat_map[cur_prod_selection].mapping == 'undefined')
+        return;
+    if (level > 1)
+    {
+        ps = obj.id.substr(0,obj.id.length-1) + (obj.id.substr([obj.id.length-1])-1);
+        var newObj = eval('form.' + ps);
+        var pv = obj.value;
+        srch_level = level - 1;
+    }
+    else
+    {
+        pv = obj.value;
+        srch_level = level -1;
+    }
+    for (ids in cat_map[cur_prod_selection].mapping)
+    {
+        var cur_sel = cat_map[cur_prod_selection].mapping[ids].map.split(",");
+        if (cur_sel[srch_level] == pv && cur_sel[srch_level + 1] == 0)
+        {
+            implicit = true;
+            break;
+        }
+    }
+    if (level >1 && !implicit && typeof cat_array[pv] != 'undefined')
+        implicit = check_implicit(form, newObj, cat_array[pv].level-1);
+        return(implicit);
+}
 function populate_select(form, obj, val, data_obj, group, start_level)
+{
+    populate_select_link(form, obj, val, data_obj, group, start_level, 0)
+}
+function populate_select_nolink(form, obj, val, data_obj, group, start_level)
+{
+    populate_select_link(form, obj, val, data_obj, group, start_level, 1)
+}
+function populate_select_link(form, obj, val, data_obj, group, start_level, nolink)
 {
     var hist_arr = new Array();
     var label2 = new Object();
     var prod_reqd_lvl = 0;
     var cat_reqd_lvl  = 0;
+    var accessibility  = 0;
     var isprod;
-    if (!obj)
-        return;
-    if (0)
-        return;
-    if (group.substr(0,3) == "cat")
-        isprod = false;
-    else
-        isprod = true;
-    if (group == "prods")
+    var finish_cat = false;
+    var show_all = "none"
+     if (accessibility == 1)
+        show_all = "inline";
+        if (group == "prods")
     {
         img2 = document.getElementById('prods2i');
         img3 = document.getElementById('prods3i');
@@ -520,38 +769,38 @@ function populate_select(form, obj, val, data_obj, group, start_level)
         case 'prod_lvl1':
         case 'cat_lvl1':
             obj2.options.length = 0;
-            obj2.style.display="none";
-            img2.style.display = "none";
+            obj2.style.display= show_all;
+            img2.style.display = show_all;
             if (req2)
-                req2.style.display = "none";
+                req2.style.display = show_all;
         case 'prod_lvl2':    
         case 'cat_lvl2':
             obj3.options.length = 0;
-            obj3.style.display = "none";
-            img3.style.display = "none";
+            obj3.style.display = show_all;
+            img3.style.display = show_all;
             if (req3)
-                req3.style.display = "none";
+                req3.style.display = show_all;
         case 'prod_lvl3':    
         case 'cat_lvl3':
             obj4.options.length = 0;
-            obj4.style.display = "none";
-            img4.style.display = "none";
+            obj4.style.display = show_all;
+            img4.style.display = show_all;
             if (req4)
-                req4.style.display = "none";
+                req4.style.display = show_all;
         case 'prod_lvl4':    
         case 'cat_lvl4':
             obj5.options.length = 0;
-            obj5.style.display = "none";
-            img5.style.display = "none";
+            obj5.style.display = show_all;
+            img5.style.display = show_all;
             if (req5)
-                req5.style.display = "none";
+                req5.style.display = show_all;
         case 'prod_lvl5':    
         case 'cat_lvl5':
             obj6.options.length = 0;
-            obj6.style.display = "none";
-            img6.style.display = "none";
+            obj6.style.display = show_all;
+            img6.style.display = show_all;
             if (req6)
-                req6.style.display = "none";
+                req6.style.display = show_all;
     }  
     if (!data_obj[val])
         return;
@@ -615,9 +864,10 @@ function populate_select(form, obj, val, data_obj, group, start_level)
     var padding = '';
     for(x=0; x < (data_obj.longest); x++)
         padding = padding + " ";
+    isprod = (group.substr(0,3) == "cat") ? false : true;
     if (val && val != 0)
     {
-        if ((isprod && !prod_reqd_lvl) || (!isprod && !cat_reqd_lvl) || (current_lvl + 1) == start_level)
+        if ((isprod && !prod_reqd_lvl) || (!isprod && !cat_reqd_lvl))
         {
             nobj.options[0]       = new Option();
             nobj.options[0].text  = "all sub-topics" + padding;
@@ -646,54 +896,31 @@ function populate_select(form, obj, val, data_obj, group, start_level)
         }
     }      
     var i = 1;
-    if (start_level > 1 && val == 0)
-    { 
-        if (((isprod && !prod_reqd_lvl) || (!isprod && !cat_reqd_lvl) || (current_lvl + 1) == start_level) && (obj.id != "prods1_phone") && (obj.id != "cats1_phone"))
-        {
-            nobj.options[0]       = new Option();
-            nobj.options[0].text  = "All           " + padding;
-            nobj.options[0].value = 0;
-        }
-        else
-        {
-            nobj.options[0]       = new Option();
-            nobj.options[0].text  = "              " + padding;
-            nobj.options[0].value = " ";
-        }
-        if (isprod)
-            data_array = prod_array;
-        else
-            data_array = cat_array;            
-        for (pair in data_array)
-        {
-            for (data in data_array[pair].item)
-            {
-                if (data_array[pair].item[data].level == start_level - 1)
-                {
-                       nobj.options[i]       = new Option();
-                       nobj.options[i].text  = data_array[pair].item[data].label;
-                       nobj.options[i].value = data_array[pair].item[data].id;
-                       i++;
-                }
-             }
-        }
+    if (finish_cat)
+    {
+        finish_cat_pop(nobj, val, padding);
     }
     else
-        for(i = 1; i < dobj.length + 1; i++)
-        {
-            if (!dobj[i-1])
-                break;
-            nobj.options[i]       = new Option();
-            nobj.options[i].text  = dobj[i-1].label;
-            nobj.options[i].value = dobj[i-1].id;
-        }
-    nobj.length = i;
+    {
+        if (typeof dobj != "undefined")
+            for(i = 1; i < dobj.length + 1; i++)
+            {                
+                if (!dobj[i-1])
+                    break;
+                nobj.options[i]       = new Option();
+                nobj.options[i].text  = dobj[i-1].label;
+                nobj.options[i].value = "" +dobj[i-1].id; + ""
+            }
+        if (typeof dobj != "undefined")  
+            nobj.length = i;
+    }
 }
 // ------------------------------------------------------------------ </script>
 <script type="text/javascript"> // - - - - - - - - - - - - - - - - - - - - -
 function _hier_popup(tname)
 {
-        window.open('hier_disp.php?p_sid=5X68Sd4i&p_lva=191&p_li=&p_sp=&p_srch_pg=std_alp.php&p_tbl='+tname, 'hier_popup', 'scrollbars,resizable,width=550,height=700');
+    do_prodcat_submit()
+        window.open('hier_disp.php?p_sid=NsibnFpi&p_accessibility=0&p_lva=191&p_li=&p_sp=&p_srch_pg=std_alp.php&p_tbl=' + tname + '&p_prods=' + document._search.p_prods.value + '&p_accessibility=0', 'hier_popup', 'scrollbars,resizable,width=550,height=700');
 }
 var _dflt_sub_product  = "All Sub-Products";
 var _dflt_sub_category = "all sub-topics";
@@ -706,7 +933,6 @@ var _dflt_sub_category = "all sub-topics";
      <td align="left"><img height="6" width="6" src="/rnt/rnw/img/enduser/tr.gif" alt=""></td>
     </tr>
     <tr>
-<!--     <td class="form"><img height="1" width="1" src="/rnt/rnw/img/trnsp.gif" alt="" /></td> -->
      <td class="form" align="center" valign="top">&nbsp;&nbsp;&nbsp;
       <table cellpadding="0" cellspacing="0" border="0" width="1%">
        <tbody><tr valign="top">
@@ -727,49 +953,55 @@ var _dflt_sub_category = "all sub-topics";
                </tbody></table>
               </td>
              </tr>
-             <tr>   
+                          <tr>   
               <td style="display:block" nowrap="">
-               <select id="cat_lvl1" name="cat_lvl1" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats', cat_start_level)">
+              
+               <select id="cat_lvl1" name="cat_lvl1" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" tabindex="4">
                 
-               <option value="0">All                                                  </option><option value="47">New Pharmacy Customer</option><option value="1">Billing</option><option value="34">Insurance</option><option value="16">Order Status</option><option value="24">Prescriptions</option><option value="189">Product Information and Requests</option><option value="21">Promotions &amp; Special Offers</option><option value="3">Returns</option><option value="48">Rite Aid</option><option value="11">Shipping</option><option value="121">Your Account</option><option value="82">About drugstore.com</option></select>
+               <option value="0">All                                                  </option><option value="1">Billing</option><option value="34">Insurance</option><option value="16">Order Status &amp; Tracking</option><option value="24">Prescriptions</option><option value="189">Product Information &amp; Requests</option><option value="21">Promotions &amp; Special Offers</option><option value="3">Returns</option><option value="48">Rite Aid</option><option value="11">Shipping</option><option value="121">Your Account</option><option value="82">About drugstore.com</option></select>
               </td>
              </tr>
              <tr>
               <td nowrap="">
+                  
                <img id="cats2i" src="/rnt/rnw/img/sub.gif" align="top" height="19" width="9" alt="" style="display:none">
-               <select id="cat_lvl2" name="cat_lvl2" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none">
+               <select id="cat_lvl2" name="cat_lvl2" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none" tabindex="4">
                 
                </select>
               </td>
              </tr>
              <tr>
               <td style="padding-left:14px" nowrap="">
+                  
                <img id="cats3i" src="/rnt/rnw/img/sub.gif" align="top" height="19" width="9" alt="" style="display:none">
-                <select id="cat_lvl3" name="cat_lvl3" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none">
+                <select id="cat_lvl3" name="cat_lvl3" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none" tabindex="4">
                 
                </select>
               </td>
              </tr>
              <tr>
               <td style="padding-left:28px" nowrap="">
+                  
                <img id="cats4i" src="/rnt/rnw/img/sub.gif" align="top" height="19" width="9" alt="" style="display:none">
-               <select id="cat_lvl4" name="cat_lvl4" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none">
+               <select id="cat_lvl4" name="cat_lvl4" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none" tabindex="4">
                 
                </select>
               </td>
              </tr>
              <tr>
               <td style="padding-left:42px" nowrap="">
+                  
                <img id="cats5i" src="/rnt/rnw/img/sub.gif" align="top" height="19" width="9" alt="" style="display:none">
-               <select id="cat_lvl5" name="cat_lvl5" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none">
+               <select id="cat_lvl5" name="cat_lvl5" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none" tabindex="4">
                 
                </select>
               </td>
              </tr>
              <tr>
               <td style="padding-left:56px" nowrap="">
+                  
                <img id="cats6i" src="/rnt/rnw/img/sub.gif" align="top" height="19" width="9" alt="" style="display:none">
-               <select id="cat_lvl6" name="cat_lvl6" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none">
+               <select id="cat_lvl6" name="cat_lvl6" class="vsmtext" onchange="populate_select(document._search, this, this.options[this.selectedIndex].value, cat_array, 'cats')" style="display:none" tabindex="4">
                 
                </select>
               </td>
@@ -793,7 +1025,7 @@ var _dflt_sub_category = "all sub-topics";
           <tbody><tr>
            <td class="label" valign="top" align="left" nowrap=""><label for="p_search_text">search about (optional):</label></td>
            <td class="vsmtext" valign="bottom" align="right" nowrap="">            &nbsp;
-            <font size="-1"><a class="plainsearch" href="help_search.php?p_sid=5X68Sd4i&amp;p_lva=191&amp;p_sp=&amp;p_li=">search tips</a>&nbsp;</font>
+            <font size="-1"><a class="plainsearch" href="help_search.php?p_sid=NsibnFpi&amp;p_accessibility=0&amp;p_lva=191&amp;p_sp=&amp;p_li=" tabindex="2">search tips</a>&nbsp;</font>
            </td>
            <td></td>
           </tr>
@@ -802,7 +1034,7 @@ var _dflt_sub_category = "all sub-topics";
             <input class="search_text" name="p_search_text" id="p_search_text" size="36" maxlength="255" value="" tabindex="1" onkeypress="if (event.keyCode == 13) do_prodcat_submit()">
            </td>
            <td nowrap="">
-           &nbsp;&nbsp;&nbsp;<input type="submit" value="&nbsp;&nbsp;&nbsp;Search Help&nbsp;&nbsp;&nbsp;" class="btn" onclick="do_prodcat_submit()" tabindex="4"><input type="hidden" name="p_new_search" value="1">
+           &nbsp;&nbsp;&nbsp;<input type="submit" value="&nbsp;&nbsp;&nbsp;Search&nbsp;&nbsp;&nbsp;" class="btn" onclick="do_prodcat_submit()" tabindex="8">            <input type="hidden" name="p_new_search" value="1">
            </td>
           </tr>
           <tr>
@@ -871,25 +1103,11 @@ var _dflt_sub_category = "all sub-topics";
          </tbody></table>
         </td>
        </tr>
-       <tr>
-        <td nowrap="" class="textcell">
-         <table cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr>
-           <td rowspan="6">&nbsp;</td>
-           <td nowrap="" class="smlabel">last updated</td>
-           <td rowspan="6">&nbsp;</td>
-          </tr>
-          <tr>
-           <td nowrap="" class="smtext">08/11/2005 06:28 PM</td>
-          </tr>
-         </tbody></table>
-        </td>
-       </tr>
       </tbody></table>
       <br>
-      &nbsp;<a class="smlabel" href="javascript:_adp_print('prnt_adp.php?p_faqid=191&amp;p_created=1122912269&amp;p_sid=5X68Sd4i')"><img title="Printer Friendly Version of This Answer" alt="Printer Friendly Version of This Answer" border="0" height="22" width="25" src="/rnt/rnw/img/enduser/print.gif">&nbsp;&nbsp;print answer</a>
+      &nbsp;<a class="smlabel" href="javascript:_adp_print('prnt_adp.php?p_faqid=191&amp;p_created=1122912269&amp;p_sid=NsibnFpi')"><img title="Printer Friendly Version of This Answer" alt="Printer Friendly Version of This Answer" border="0" height="22" width="25" src="/rnt/rnw/img/enduser/print.gif">&nbsp;&nbsp;Print Answer</a>
       <br><img height="2" width="1" src="/rnt/rnw/img/trnsp.gif" alt=""><br>
-      &nbsp;<a class="smlabel" href="javascript:_adp_email('email_adp.php?p_faqid=191&amp;p_sid=5X68Sd4i')"><img title="Email This Answer" alt="Email This Answer" border="0" height="22" width="25" src="/rnt/rnw/img/enduser/email.gif">&nbsp;&nbsp;email answer</a>
+      &nbsp;<a class="smlabel" href="javascript:_adp_email('email_adp.php?p_faqid=191&amp;p_sid=NsibnFpi&amp;p_accessibility=0')"><img title="Email This Answer" alt="Email This Answer" border="0" height="22" width="25" src="/rnt/rnw/img/enduser/email.gif">&nbsp;&nbsp;email answer</a>
      </td>
      <td>&nbsp;&nbsp;</td>
 <!-- Answer Text ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- -->
@@ -908,7 +1126,7 @@ var _dflt_sub_category = "all sub-topics";
        </tr>
        <tr>
         <td class="textcell">&nbsp;</td>
-        <td class="textcell"><as-html><p><font face="Arial, Helvetica" size="2">What is the drugstore.com privacy policy?</font></p></as-html></td>
+        <td class="textcell" id="desc"><as-html><p><font face="Arial, Helvetica" size="2">What is the drugstore.com privacy policy?</font></p></as-html></td>
        </tr>
        <tr>
         <td><img src="/rnt/rnw/img/trnsp.gif" height="6" width="1" alt=""></td>
@@ -919,28 +1137,29 @@ var _dflt_sub_category = "all sub-topics";
        </tr>
        <tr>
         <td class="textcell">&nbsp;</td>
-        <td class="textcell"><as-html><p></p><table cellspacing="0" cellpadding="0" width="467" border="0"><tbody><tr><td width="462"><font size="2"><font face="Arial, Helvetica, sans-serif"><b>TRUSTe Licensee</b></font><br><br></font></td></tr><tr><td width="462"><font face="Arial, Helvetica, sans-serif"><a href="https://www.truste.org/ivalidate.php?url=www.drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2"><img height="73" hspace="4" src="http://a1624.g.akamai.net/f/1624/580/1d/pics.drugstore.com/catimg/15729/doc-truste_seal-1.gif" width="91" align="left" border="0"></font></a> <font size="2">drugstore.com, inc. is licensed by the TRUSTe Privacy Program. This statement discloses the privacy practices for the drugstore.com™ Web site (including the Beauty.com™ Web store). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information.<br><br>Questions regarding this privacy policy should be directed to</font> <a href="mailto:privacy@drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2">privacy@drugstore.com</font></a><font size="2">. If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (</font> <a href="http://www.truste.org/consumers/watchdog_complaint.php"><font face="Arial, Helvetica, sans-serif" size="2">http://www.truste.org/consumers/watchdog_complaint.php</font></a><font size="2">).<br></font><font size="2"><br><br><b>Information We Collect</b><br>We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our Web sites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions.<br><br><b>Your Account</b><br>When you place an order, we will ask you to set up "your account," which includes your name, e-mail address, mailing address, credit card number and expiration date, as well as certain other information when you order prescriptions. Using your account information, we will send you communications that we believe are relevant to you, including eMedalert™, prescription refill and renewal reminders, newsletters and emails. If you prefer not to receive optional emails or other communications from us, you may adjust your account to prevent such communications by clicking on "subscriptions" within "your account." If you would like to review or revise the information we have in your account, you may access such information by clicking on the "your account" link on any screen.<br><br><b>Customer Reviews</b><br>We are pleased to hear from our customers and welcome your comments regarding our products. Customer Reviews allow other customers to see what you think about a product. We allow you the option of sharing your review anonymously by selecting "Anonymous" when submitting your review.<br><br><b>Your Prescription Information</b><br>To fill your prescription drug order, we collect the following additional information: your date of birth, gender, drug allergies, medical conditions, illnesses, and current medications. If you plan to use insurance and you can't find the member or group number, we ask that you provide your Social Security Number. Your Social Security Number is only used for purposes of seeking reimbursement from insurance companies.<br><br><b>Information Automatically Collected</b><br>We automatically receive and collect certain types of information whenever you visit our Web stores. For example, like many Web sites, we use "cookies" and Web beacons (described below) and obtain certain types of information when your Web browser accesses our Web sites. This information includes the Internet protocol (IP) address of your computer, your browser software and operating system, your web server, the date and time you access our site, session information (such as download errors and page response times), information about your viewing, search and purchase history and information about the referring URL and the URL clickstream to, through, and from our Web sites. We use this information to monitor the usage and performance of our site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns.<br><br><b>Information From Third Parties</b><br>If we receive updated account information from third parties, we may revise your account for you so that we can efficiently process your orders, deliver your packages or otherwise communicate with you. For example, we may receive customer information from our shippers or from third parties with which we operate co-branded businesses (such as AdvancePCS). In addition, we may acquire customer names, email addresses and mailing addresses for select mailings from third parties.<br><br><b>Other Information You Provide</b><br>We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or contest entry forms, add items to Your List™, sign up for special discounts or coupons, communicate with us by email, phone or otherwise, provide product reviews, or provide alternative delivery addresses.<br><br><b>Sharing Your Information with Third Parties</b><br>We protect all of your information against unauthorized access or release. We share your personal and prescription information with third parties as follows:<br><br></font></font> <ul><li><font face="Arial, Helvetica, sans-serif" size="2"><b>GNC</b>&nbsp;- Because we sell and accept GNC Gold Cards on behalf of GNC, when you purchase a GNC Gold Card from the drugstore.com™ Web store, we share your name, address, phone number, gender, and birth month and year with GNC. At your direction, we also share your e-mail address. When you use your GNC Gold Card to purchase GNC products at the drugstore.com™ Web store, we share with GNC a list of the products you purchased in the GNC Live Well store. We do not share with GNC information about products that you purchase outside of the GNC Live Well store.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Rite Aid</b>&nbsp;- The drugstore.com™ pharmacy serves as the on-line pharmacy for Rite Aid Corporation, a chain pharmacy with approximately 3,800 store locations throughout the United States. We entered into the relationship to serve as the online pharmacy for Rite Aid because we believe that the relationship allows us to provide better services to our customers. If you are filling an original prescription through the drugstore.com™ pharmacy for the first time, the prescription will be mailed to you. Because of our relationship with Rite Aid, when you place your Rite Aid or drugstore.com™ refill prescription order at the drugstore.com™ pharmacy, you may choose to have the prescription mailed to you or available for pickup at a Rite Aid store convenient to you. From time to time it may be more efficient for the drugstore.com™ pharmacy to fill a prescription ordered on our Web site through Rite Aid's central pharmacy (e.g., to meet short-term shortages of drug product availability, or to allow insurance coverage). If you have chosen to pick up your prescription at a Rite Aid store or your prescription is being filled through Rite Aid's central pharmacy, drugstore.com, inc. and Rite Aid will share patient information necessary to allow each to meet its obligations in dispensing medications and related information. This exchange is solely for purposes of professional pharmacy practice and administration. Rite Aid is bound by the same confidentiality standards as drugstore.com, inc., and will not release patient information to others.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Flexible Spending Account (FSA) Purchases</b>&nbsp;– When you make a purchase from the drugstore.com™ Web store of FSA-reimbursable items that will be automatically deducted from your FSA account (i.e., if you use your FSA-approved credit or debit card to make the purchase or if we have an arrangement with your FSA administrator to provide electronic substantiation on your behalf), we share with your FSA administrator a list of the FSA-eligible products you purchased, together with such account, transaction and payment information as may be requested by your FSA administrator for the purpose of substantiating and tracking your purchase. We do not share with your FSA administrator information about non-FSA items you purchase.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Brand Manufacturers</b>&nbsp;- We may develop programs with some of our brand manufacturers through which you may be offered special discounts or coupons on products in exchange for providing your e-mail address or completing a survey about the manufacturer's products. When you are offered such discounts or coupons in exchange for providing information (for example, giving your e-mail address or completing a survey), you will be notified that if you choose to participate, your name, e-mail address and responses will be shared with the brand manufacturer. No other information will be shared.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Agents</b>&nbsp;- We may enter into agreements with other companies or individuals to perform functions on our behalf. These functions may include sending promotional e-mails on our behalf to such companies' customers; serving advertisements on our behalf, analyzing data; providing marketing assistance; processing credit card or debit card payments; and fulfilling and delivering orders. These companies and individuals have access to only to information necessary to perform their functions. They are not allowed to use the information for any other purpose and are contractually obligated to maintain the confidentiality and security of the information. We may share non-personal, summary, or aggregate customer data with partners and other third parties.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Business Transfers</b>&nbsp;- We may buy or sell stores or assets. In such transactions, customer information is usually treated as one of the transferred business assets. Should drugstore.com, inc., or Beauty.com, Inc., or substantially all of either of their assets be sold, customer information will be one of the transferred business assets. In that event, we will post a notification on this page or send you an email so that you are always aware of how your information is being used.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Compliance with Law; Protection of Rights, Property or Safety</b>&nbsp;- We will disclose account and other personal information when we believe that disclosure is necessary to comply with the law, to enforce or apply our Terms of Use or other policies or user agreements, or to protect the rights, property, or safety of our business, our customers, or others.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>As You Direct</b>&nbsp;- If you direct, we will release prescription or other customer information to your authorized representative, the prescribing or other authorized practitioner caring for you, or such other person as you may direct. At the direction of the patient and to the extent specifically authorized by law, we will release such information to other persons, including Rite Aid (see above for details) and insurance plans. For example, at your request we will automatically forward your prescription information to your insurance plan so that the drugstore.com™ pharmacy can directly handle reimbursement of your prescription purchase on your behalf.<br><br>From time to time, we may partner with certain companies who, in conjunction with their membership programs or rewards programs, require that we disclose purchasing information about their members who visit our Web store (for example, to earn points for purchases made on our site through links from the partner site). We will disclose only the information required to make these programs work for you and support your membership in them. In addition, we disclose this information to such companies only if you have consented first, including consent implied by your agreement to the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact the partner directly.</font></li></ul><font face="Arial, Helvetica, sans-serif"><font size="2">Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.<br><br><b>Security</b><br>When you place an order online or use the drugstore.com™ pharmacy, your personal information and credit card or debit card information are encrypted using SSL encryption technology before being sent over the Internet, We use SSL technology to prevent your information from being stolen or intercepted while being transferred to us. Your credit card information is always stored in encrypted form in a restricted-access database that is away from our Web site database so it isn't connected to the Internet, to keep it safe from hackers.<br><br><b>Cookies</b><br>To personalize and enhance your browsing and shopping experience, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to us, so that you do not need to re-enter this information every time you shop at the site. Cookies also let us know how you found us (e.g., through a particular web site or advertisement). Cookies are not used to access information entered on the secure server. This information can be accessed only when you enter your name and password. If you choose to configure your browser to remove or reject our cookies, you will not be able to make purchases from our Web stores or take advantage of many of our features. For example, you will not be able to use the Your List™ or Diamond Deals™ features or store items in your shopping cart.<br><br><b>Web Beacons</b><br>From time to time we contract with third party companies to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness. Some of these companies use cookies and/or Web beacons (also known as action tags or single pixel gifs). A Web beacon is a transparent image that has been placed on a Web page and sends a signal when a user has visited that page. A Web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the Web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us. In addition, we may use web beacons in connection with the emails we send to our customers, to determine whether and when the images in our email were rendered (which allows us to determine whether the e-mail was opened). This information may then be aggregated and used to assess the effectiveness of our email communications.<br><br><b>Unsolicited E-mail (SPAM)</b><br>Your privacy is very important to us. Be assured that, in accordance with this privacy policy, we do not sell or distribute our customer list to third parties. You should be aware, however, that unscrupulous marketers can sometimes "harvest" your email address directly from your computer or another person's address book or even obtain your email address through programs that automatically search web pages and email traffic for email addresses.<br><br>Please note that all email that originates from us will either display the drugstore.com™ or Beauty.com™ logo (HTML emails) or contain the drugstore.com, inc. or Beauty.com, Inc. copyright notice (text emails). In addition, our emails will contain our corporate address in Bellevue, Washington.<br>If you receive an unsolicited email that you believe is connected with us in any way, please forward the e-mail (as an enclosure) to</font> <a href="mailto:abuse@drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2">abuse@drugstore.com</font></a> <font size="2">and we will investigate.<br><br><b>Children</b><br>We do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our Web site only with the involvement of a parent or guardian.<br><br><b>Linked Web Sites</b><br>Our Web stores may contain links to and from other sites operated and maintained by separate companies. We have no responsibility for linked Web sites (including the Web sites of participants in our associate program) and provide these links solely for the convenience and information of our visitors. The privacy policies of these sites may differ from our policy, so you should always review the privacy statement of each linked Web site you visit.<br><br><b>Your Consent</b><br>By using our Web site (including through our customer service line), you consent to the collection, use, and disclosure of information in accordance with the terms of this privacy policy. We reserve the right to modify or amend this policy at any time. If we ever change our privacy policy, we will post any changes on this page or send you an email so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Unless we clearly state otherwise, the changes to our privacy policy will affect only the information we collect after the effective date of the change.<br><br><b>Your Comments</b><br>We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at</font> <a href="mailto:privacy@drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2">privacy@drugstore.com</font></a> <font size="2">or write us:<br><br>drugstore.com, inc.<br>Privacy Officer<br>411 108<sup>th</sup>&nbsp;Avenue NE, Suite 1400<br>Bellevue, WA 98004<br><br>Last updated: 4/6/05<br><br>Copyright © 2005 drugstore.com, inc. All rights reserved.</font> <a href="http://drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php?p_faqid=512&amp;p_created=1123809950&amp;p_sid=hzPMTMMh&amp;p_lva=191&amp;p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MSZwX3Byb2RzPSZwX2NhdHM9MCZwX3B2PSZwX2N2PSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXRlcm1zIG9mIHVzZQ**&amp;p_li=&amp;p_topview=1" target="_self"><br><font size="2">Terms of Use</font></a></font> </td></tr></tbody></table></as-html>        </td>
+        <td class="textcell" id="soln"><as-html><p></p><table cellspacing="0" cellpadding="0" width="467" border="0"><tbody><tr><td width="462"><font size="2"><font face="Arial, Helvetica, sans-serif"><b>TRUSTe Licensee</b></font><br><br></font></td></tr><tr><td width="462"><font face="Arial, Helvetica, sans-serif"><a href="http://www.truste.org/ivalidate.php?url=www.drugstore.com&amp;sealid=101" target="_blank"><font face="Arial, Helvetica, sans-serif" size="2"><img height="73" alt="" hspace="4" src="http://a1624.g.akamai.net/f/1624/580/1d/pics.drugstore.com/catimg/15729/doc-truste_seal-1.gif" width="91" align="left" border="0"></font></a>&nbsp; <font size="2">drugstore.com, inc. is licensed by the TRUSTe Privacy Program. This statement discloses the privacy practices for the drugstore.com™ Web site (including the Beauty.com™ Web store). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information.<br><br>Questions regarding this privacy policy should be directed to</font> <a href="mailto:privacy@drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2">privacy@drugstore.com</font></a><font size="2">. If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (</font> <a href="http://www.truste.org/consumers/watchdog_complaint.php"><font face="Arial, Helvetica, sans-serif" size="2">http://www.truste.org/consumers/watchdog_complaint.php</font></a><font size="2">).<br><br><br><b>Information We Collect</b><br>We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our Web sites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions.<br><br><b>Your Account</b><br>When you place an order, we will ask you to set up "your account," which includes your name, e-mail address, mailing address, credit card number and expiration date, as well as certain other information when you order prescriptions. Using your account information, we will send you communications that we believe are relevant to you, including eMedalert™, prescription refill and renewal reminders, newsletters and emails. If you prefer not to receive optional emails or other communications from us, you may adjust your account to prevent such communications by clicking on "subscriptions" within "your account." If you would like to review or revise the information we have in your account, you may access such information by clicking on the "your account" link on any screen.<br><br><b>Customer Reviews</b><br>We are pleased to hear from our customers and welcome your comments regarding our products. Customer Reviews allow other customers to see what you think about a product. We allow you the option of sharing your review anonymously by selecting "Anonymous" when submitting your review.<br><br><b>Your Prescription Information</b><br>To fill your prescription drug order, we collect the following additional information: your date of birth, gender, drug allergies, medical conditions, illnesses, and current medications. If you plan to use insurance and you can't find the member or group number, we ask that you provide your Social Security Number. Your Social Security Number is only used for purposes of seeking reimbursement from insurance companies.<br><br><b>Information Automatically Collected</b><br>We automatically receive and collect certain types of information whenever you visit our Web stores. For example, like many Web sites, we use "cookies" and Web beacons (described below) and obtain certain types of information when your Web browser accesses our Web sites. This information includes the Internet protocol (IP) address of your computer, your browser software and operating system, your web server, the date and time you access our site, session information (such as download errors and page response times), information about your viewing, search and purchase history and information about the referring URL and the URL clickstream to, through, and from our Web sites. We use this information to monitor the usage and performance of our site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns.<br><br><b>Information From Third Parties</b><br>If we receive updated account information from third parties, we may revise your account for you so that we can efficiently process your orders, deliver your packages or otherwise communicate with you. For example, we may receive customer information from our shippers or from third parties with which we operate co-branded businesses (such as AdvancePCS). In addition, we may acquire customer names, email addresses and mailing addresses for select mailings from third parties.<br><br><b>Other Information You Provide</b><br>We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or contest entry forms, add items to Your List™, sign up for special discounts or coupons, communicate with us by email, phone or otherwise, provide product reviews, or provide alternative delivery addresses.<br><br><b>Sharing Your Information with Third Parties</b><br>We protect all of your information against unauthorized access or release. We share your personal and prescription information with third parties as follows:<br><br></font></font> <ul><li><font face="Arial, Helvetica, sans-serif" size="2"><b>GNC</b>&nbsp;- Because we sell and accept GNC Gold Cards on behalf of GNC, when you purchase a GNC Gold Card from the drugstore.com™ Web store, we share your name, address, phone number, gender, and birth month and year with GNC. At your direction, we also share your e-mail address. When you use your GNC Gold Card to purchase GNC products at the drugstore.com™ Web store, we share with GNC a list of the products you purchased in the GNC Live Well store. We do not share with GNC information about products that you purchase outside of the GNC Live Well store.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Rite Aid</b>&nbsp;- The drugstore.com™ pharmacy serves as the on-line pharmacy for Rite Aid Corporation, a chain pharmacy with approximately 3,800 store locations throughout the United States. We entered into the relationship to serve as the online pharmacy for Rite Aid because we believe that the relationship allows us to provide better services to our customers. If you are filling an original prescription through the drugstore.com™ pharmacy for the first time, the prescription will be mailed to you. Because of our relationship with Rite Aid, when you place your Rite Aid or drugstore.com™ refill prescription order at the drugstore.com™ pharmacy, you may choose to have the prescription mailed to you or available for pickup at a Rite Aid store convenient to you. From time to time it may be more efficient for the drugstore.com™ pharmacy to fill a prescription ordered on our Web site through Rite Aid's central pharmacy (e.g., to meet short-term shortages of drug product availability, or to allow insurance coverage). If you have chosen to pick up your prescription at a Rite Aid store or your prescription is being filled through Rite Aid's central pharmacy, drugstore.com, inc. and Rite Aid will share patient information necessary to allow each to meet its obligations in dispensing medications and related information. This exchange is solely for purposes of professional pharmacy practice and administration. Rite Aid is bound by the same confidentiality standards as drugstore.com, inc., and will not release patient information to others.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Flexible Spending Account (FSA) Purchases</b>&nbsp;– When you make a purchase from the drugstore.com™ Web store of FSA-reimbursable items that will be automatically deducted from your FSA account (i.e., if you use your FSA-approved credit or debit card to make the purchase or if we have an arrangement with your FSA administrator to provide electronic substantiation on your behalf), we share with your FSA administrator a list of the FSA-eligible products you purchased, together with such account, transaction and payment information as may be requested by your FSA administrator for the purpose of substantiating and tracking your purchase. We do not share with your FSA administrator information about non-FSA items you purchase.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Brand Manufacturers</b>&nbsp;- We may develop programs with some of our brand manufacturers through which you may be offered special discounts or coupons on products in exchange for providing your e-mail address or completing a survey about the manufacturer's products. When you are offered such discounts or coupons in exchange for providing information (for example, giving your e-mail address or completing a survey), you will be notified that if you choose to participate, your name, e-mail address and responses will be shared with the brand manufacturer. No other information will be shared.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Agents</b>&nbsp;- We may enter into agreements with other companies or individuals to perform functions on our behalf. These functions may include sending promotional e-mails on our behalf to such companies' customers; serving advertisements on our behalf, analyzing data; providing marketing assistance; processing credit card or debit card payments; and fulfilling and delivering orders. These companies and individuals have access to only to information necessary to perform their functions. They are not allowed to use the information for any other purpose and are contractually obligated to maintain the confidentiality and security of the information. We may share non-personal, summary, or aggregate customer data with partners and other third parties.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Business Transfers</b>&nbsp;- We may buy or sell stores or assets. In such transactions, customer information is usually treated as one of the transferred business assets. Should drugstore.com, inc., or Beauty.com, Inc., or substantially all of either of their assets be sold, customer information will be one of the transferred business assets. In that event, we will post a notification on this page or send you an email so that you are always aware of how your information is being used.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>Compliance with Law; Protection of Rights, Property or Safety</b>&nbsp;- We will disclose account and other personal information when we believe that disclosure is necessary to comply with the law, to enforce or apply our Terms of Use or other policies or user agreements, or to protect the rights, property, or safety of our business, our customers, or others.</font></li><li><font face="Arial, Helvetica, sans-serif" size="2"><b>As You Direct</b>&nbsp;- If you direct, we will release prescription or other customer information to your authorized representative, the prescribing or other authorized practitioner caring for you, or such other person as you may direct. At the direction of the patient and to the extent specifically authorized by law, we will release such information to other persons, including Rite Aid (see above for details) and insurance plans. For example, at your request we will automatically forward your prescription information to your insurance plan so that the drugstore.com™ pharmacy can directly handle reimbursement of your prescription purchase on your behalf.<br><br>From time to time, we may partner with certain companies who, in conjunction with their membership programs or rewards programs, require that we disclose purchasing information about their members who visit our Web store (for example, to earn points for purchases made on our site through links from the partner site). We will disclose only the information required to make these programs work for you and support your membership in them. In addition, we disclose this information to such companies only if you have consented first, including consent implied by your agreement to the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact the partner directly.</font></li></ul><font face="Arial, Helvetica, sans-serif"><font size="2">Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.<br><br><b>Security</b><br>When you place an order online or use the drugstore.com™ pharmacy, your personal information and credit card or debit card information are encrypted using SSL encryption technology before being sent over the Internet, We use SSL technology to prevent your information from being stolen or intercepted while being transferred to us. Your credit card information is always stored in encrypted form in a restricted-access database that is away from our Web site database so it isn't connected to the Internet, to keep it safe from hackers.<br><br><b>Cookies</b><br>To personalize and enhance your browsing and shopping experience, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to us, so that you do not need to re-enter this information every time you shop at the site. Cookies also let us know how you found us (e.g., through a particular web site or advertisement). Cookies are not used to access information entered on the secure server. This information can be accessed only when you enter your name and password. If you choose to configure your browser to remove or reject our cookies, you will not be able to make purchases from our Web stores or take advantage of many of our features. For example, you will not be able to use the Your List™ or Diamond Deals™ features or store items in your shopping cart.<br><br><b>Web Beacons</b><br>From time to time we contract with third party companies to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness. Some of these companies use cookies and/or Web beacons (also known as action tags or single pixel gifs). A Web beacon is a transparent image that has been placed on a Web page and sends a signal when a user has visited that page. A Web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the Web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us. In addition, we may use web beacons in connection with the emails we send to our customers, to determine whether and when the images in our email were rendered (which allows us to determine whether the e-mail was opened). This information may then be aggregated and used to assess the effectiveness of our email communications.<br><br><b>Unsolicited E-mail (SPAM)</b><br>Your privacy is very important to us. Be assured that, in accordance with this privacy policy, we do not sell or distribute our customer list to third parties. You should be aware, however, that unscrupulous marketers can sometimes "harvest" your email address directly from your computer or another person's address book or even obtain your email address through programs that automatically search web pages and email traffic for email addresses.<br><br>Please note that all email that originates from us will either display the drugstore.com™ or Beauty.com™ logo (HTML emails) or contain the drugstore.com, inc. or Beauty.com, Inc. copyright notice (text emails). In addition, our emails will contain our corporate address in Bellevue, Washington.<br>If you receive an unsolicited email that you believe is connected with us in any way, please forward the e-mail (as an enclosure) to</font> <a href="mailto:abuse@drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2">abuse@drugstore.com</font></a> <font size="2">and we will investigate.<br><br><b>Children</b><br>We do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our Web site only with the involvement of a parent or guardian.<br><br><b>Linked Web Sites</b><br>Our Web stores may contain links to and from other sites operated and maintained by separate companies. We have no responsibility for linked Web sites (including the Web sites of participants in our associate program) and provide these links solely for the convenience and information of our visitors. The privacy policies of these sites may differ from our policy, so you should always review the privacy statement of each linked Web site you visit.<br><br><b>Your Consent</b><br>By using our Web site (including through our customer service line), you consent to the collection, use, and disclosure of information in accordance with the terms of this privacy policy. We reserve the right to modify or amend this policy at any time. If we ever change our privacy policy, we will post any changes on this page or send you an email so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Unless we clearly state otherwise, the changes to our privacy policy will affect only the information we collect after the effective date of the change.<br><br><b>Your Comments</b><br>We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at</font> <a href="mailto:privacy@drugstore.com"><font face="Arial, Helvetica, sans-serif" size="2">privacy@drugstore.com</font></a> <font size="2">or write us:<br><br>drugstore.com, inc.<br>Privacy Officer<br>411 108<sup>th</sup>&nbsp;Avenue NE, Suite 1400<br>Bellevue, WA 98004<br><br>Last updated: 4/6/05<br><br>Copyright © 2005 drugstore.com, inc. All rights reserved.</font> <a href="http://drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php?p_faqid=512&amp;p_created=1123809950&amp;p_sid=hzPMTMMh&amp;p_lva=191&amp;p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MSZwX3Byb2RzPSZwX2NhdHM9MCZwX3B2PSZwX2N2PSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXRlcm1zIG9mIHVzZQ**&amp;p_li=&amp;p_topview=1" target="_self"><br><font size="2">Terms of Use</font></a></font> </td></tr></tbody></table></as-html>        </td>
        </tr>
 <!-- Custom Fields (if any) ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- -->
 <!-- Rating ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>- -->
        <tr><td><font size="-9">&nbsp;</font></td></tr>
        <tr>
         <td class="subtitle">&nbsp;</td>
-        <td valign="middle" class="subtitle"><label>how well did this answer your question?</label></td>
+        <td valign="middle" class="subtitle"><label for="rating_submit_btn">how well did this answer your question? </label></td>
        </tr>
        <tr>
         <td class="textcell">&nbsp;</td>
         <td class="textcell">
-         <form class="minimal" name="rating" method="get" action="rating_submit.php" onsubmit="return(_rating_validate(this))">
-          <input type="hidden" name="p_next_page" value="std_alp.php">                                         
+         <form class="minimal" name="rating" method="get" action="rating_submit.php" onsubmit="_rating_popup(); return(_rating_validate(this))">
+          <input type="hidden" name="p_next_page" value="std_alp.php">                                  
            <table cellpadding="0" cellspacing="0" border="0">
             <tbody><tr>
              <td valign="middle" class="label">
 <input type="hidden" name="p_faqid" value="191">
-<input type="hidden" name="p_sid" value="5X68Sd4i">
+<input type="hidden" name="p_sid" value="NsibnFpi">
 <input type="hidden" name="p_lva" value="191">
 <input type="hidden" name="p_sp" value="">
 <input type="hidden" name="p_li" value="">
+<input type="hidden" name="p_accessibility" value="0">
             <input class="textcell" type="radio" name="p_ans_qual" id="p_ans_qual1" value="5">100%
             <input class="textcell" type="radio" name="p_ans_qual" id="p_ans_qual2" value="4">75%
             <input class="textcell" type="radio" name="p_ans_qual" id="p_ans_qual3" value="3">50%
@@ -971,12 +1190,12 @@ function _rating_popup()
     for (i = 1; i < 2; i++)
         if (document.rating.p_ans_qual[i-1].checked)
             return;
-    if (document.rating.p_ans_qual[1].checked) rating_id = 170;
-    else if (document.rating.p_ans_qual[2].checked) rating_id = 169;
-    else if (document.rating.p_ans_qual[3].checked) rating_id = 168;
-    else if (document.rating.p_ans_qual[4].checked) rating_id = 167;
+    if (document.rating.p_ans_qual[1].checked) rating_id = 173;
+    else if (document.rating.p_ans_qual[2].checked) rating_id = 172;
+    else if (document.rating.p_ans_qual[3].checked) rating_id = 171;
+    else if (document.rating.p_ans_qual[4].checked) rating_id = 170;
     else return;
-    window.open('answer_fdbck.php?p_sid=5X68Sd4i'
+    window.open('answer_fdbck.php?p_sid=NsibnFpi'
                     +'&p_rating='+escape(rating_id)
                     +'&p_subject='+escape("What%20is%20the%20drugstore.com%20privacy%20policy%3F")
                     +'&p_faqid=191',
@@ -984,7 +1203,7 @@ function _rating_popup()
                 'resizable,scrollbars,width=630,height=400');
 }
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </script>
-           <input type="submit" class="btn" name="rating_submit_btn" value="Submit Rating" onclick="_rating_popup()">
+           <input type="submit" class="btn" id="rating_submit_btn" name="rating_submit_btn" value="Submit Rating">
           </td>
          </tr>
         </tbody></table>           
@@ -1007,31 +1226,31 @@ function _rating_popup()
         <tbody><tr>
          <td valign="baseline">•&nbsp;</td>
          <td class="textcell">
-          <a class="plain" href="javascript:answer_window_preview('597', 1133895308)">How do I contact Customer Service?</a>
+          <a class="plain" href="javascript:answer_window_preview('563', 1130438031)">What is the drugstore.com phone number for prescriptions?</a>
          </td>
         </tr>
         <tr>
          <td valign="baseline">•&nbsp;</td>
          <td class="textcell">
-          <a class="plain" href="javascript:answer_window_preview('193', 1122925261)">How does the drugstore.com pharmacy work?</a>
+          <a class="plain" href="javascript:answer_window_preview('562', 1130436243)">What is the drugstore.com fax number for prescriptions?</a>
          </td>
         </tr>
         <tr>
          <td valign="baseline">•&nbsp;</td>
          <td class="textcell">
-          <a class="plain" href="javascript:answer_window_preview('189', 1122911351)">What is the drugstore.com shipping policy?</a>
+          <a class="plain" href="javascript:answer_window_preview('161', 1122496723)">Where can I find out how many drugstore.com dollars™ I have to spend?</a>
          </td>
         </tr>
         <tr>
          <td valign="baseline">•&nbsp;</td>
          <td class="textcell">
-          <a class="plain" href="javascript:answer_window_preview('17', 1121990554)">Can I fax my prescription?</a>
+          <a class="plain" href="javascript:answer_window_preview('543', 1127947294)">On what products can I earn and redeem drugstore.com dollars™?</a>
          </td>
         </tr>
         <tr>
          <td valign="baseline">•&nbsp;</td>
          <td class="textcell">
-          <a class="plain" href="javascript:answer_window_preview('16', 1121989842)">What is the quickest way to submit a new RX?</a>
+          <a class="plain" href="javascript:answer_window_preview('676', 1161799268)">How do I contact the Pharmacy?</a>
          </td>
         </tr>
        </tbody></table>
@@ -1046,7 +1265,7 @@ function _rating_popup()
         <tbody><tr>
          <td height="4" colspan="2"></td>
          <td rowspan="2" align="right">
-          <a id="bklink" href="std_alp.php?p_sid=5X68Sd4i&amp;p_lva=191&amp;p_sp=&amp;p_li=">
+          <a id="bklink" href="std_alp.php?p_sid=NsibnFpi&amp;p_lva=191&amp;p_sp=&amp;p_li=&amp;p_accessibility=0">
            <img title="back to search results" alt="back to search results" border="0" width="34" height="30" src="/rnt/rnw/img/back_arrow.gif">
           </a>
          </td>
@@ -1056,7 +1275,7 @@ function _rating_popup()
           &nbsp;
          </td>
          <td valign="middle" nowrap="">
-          <a class="label" id="bklink" href="std_alp.php?p_sid=5X68Sd4i&amp;p_lva=191&amp;p_sp=&amp;p_li=">back to search results&nbsp;&nbsp;</a>
+          <a class="label" id="bklink" href="std_alp.php?p_sid=NsibnFpi&amp;p_lva=191&amp;p_sp=&amp;p_li=&amp;p_accessibility=0">back to search results&nbsp;&nbsp;</a>
          </td>
         </tr>
        </tbody></table>
