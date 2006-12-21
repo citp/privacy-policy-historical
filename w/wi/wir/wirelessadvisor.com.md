@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630122016id_/http%3A//wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221151955id_/http%3A//www.wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
 # WirelessAdvisor.com - Privacy Statement
 
@@ -130,7 +130,7 @@ Search by ZIP code for the cellular, PCS and wireless phone companies serving yo
   
   
   
-**OR** ... [Select a city by name](https://web.archive.org/web/20060630122016id_/http%3A//wirelessadvisor.com/regions.cfm " Select City")  
+**OR** ... [Select a city by name](https://web.archive.org/web/20061221151955id_/http%3A//www.wirelessadvisor.com/regions.cfm " Select City")  
   
   
   
