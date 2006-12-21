@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617212925id_/http%3A//www.historytoday.com/default.asp%3Fgid%3D30134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221020133id_/http%3A//www.historytoday.com/default.asp%3Fgid%3D30134) for the most accurate reproduction.*
 
-# History Today: The educational archive of articles, news and study aids for teachers, students and enthusiasts - Privacy Policy
+# History Today: The educational archive of articles, news and study aids for teachers, students and enthusiasts - Privacy Policy & Disclaimer
 
 **General**
 
@@ -42,3 +42,15 @@ London W1D 4TW
 UK **Changes to Privacy Policy**
 
 Any changes to the privacy policy will be posted here. To send any comments or questions regarding this website or privacy policy please click on contact us. 
+
+**Copyright**
+
+Copyright, database rights and other rights relating to all historytoday.com content is owned by History Today Ltd, unless otherwise stated. No material appearing on historytoday.com may be reproduced, copied or transmitted on any other website or intranet without permission of historytoday.com. For any queries or questions regarding this please _contact us_. **Disclaimer**
+
+The name History Today, History Review, historytoday.com, historytoday.co.uk, historymagazine.co.uk, historytodaynews.com and all logos herein are trademarks of History Today Ltd. It is not permitted to reproduce these trademarksWith regard to the quality, operation or functionality of historytoday.com, we reserve the right to restrict, interrupt or delay access. The content appearing on the site is not guaranteed by History Today Ltd to be accurate, up-to-date, and complete or to be used for any particular purpose.
+
+Within the law, historytoday.com disclaims all responsibility for any damages or losses arising in contract, tort or otherwise from the use of or any content on historytoday.com. This also includes any actions or decision made as a result of using historytoday.com. Historytoday.com is not responsible for external links from this site and historytoday.com takes no responsibility, liability (or for negligence) in relation to this website’s content.
+
+ **Protection Rights**
+
+The name History Today, History Review, historytoday.com, historytoday.co.uk, historymagazine.co.uk, historytodaynews.com and all logos herein are trademarks of History Today Ltd. It is not permitted to reproduce these trademarks
