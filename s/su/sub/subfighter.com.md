@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subfighter.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613135154id_/http%3A//www.subfighter.com/modules.php%3Fname%3DFAQ%26myfaq%3Dyes%26id_cat%3D9%26categories%3DPrivacy%2BStatement%2BFor%2BSubFighter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subfighter.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221030731id_/http%3A//www.subfighter.com/modules.php%3Fname%3DFAQ%26myfaq%3Dyes%26id_cat%3D9%26categories%3DPrivacy%2BStatement%2BFor%2BSubFighter%26GallerySession%3D4b0c0abdff9958cd3a5b5448e370a2ce) for the most accurate reproduction.*
 
 # Subfighter.com - FAQ
 
