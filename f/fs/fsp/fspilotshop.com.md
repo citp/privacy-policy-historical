@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fspilotshop.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630010909id_/http%3A//www.fspilotshop.com/privacy.php%3FosCsid%3D7bb43e8c0c5d7ed538c79d1a0d0c0b71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fspilotshop.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221040351id_/http%3A//www.fspilotshop.com/privacy.php) for the most accurate reproduction.*
 
 # FlightSim Pilot Shop - Flight Simulation Hardware, Software and Accessories
 
