@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630034207id_/http%3A//intermedia.net/legal/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221200308id_/http%3A//www.intermedia.net/legal/privacy-statement.asp) for the most accurate reproduction.*
 
 # Intermedia.NET Privacy Statement
 
