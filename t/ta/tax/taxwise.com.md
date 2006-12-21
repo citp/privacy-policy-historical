@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the taxwise.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618161451id_/http%3A//taxwise.com/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxwise.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221220554id_/http%3A//www.taxwise.com/pdf/privacy.pdf) for the most accurate reproduction.*
 
 # Universal Tax Systems, Inc. Privacy Statement
 
 Universal Tax Systems, Inc.
 Privacy Statement
-December 2005
-Universal Tax Systems, Inc. (“UTS”) makes protecting your privacy and the confidentiality of the personal
-information you enter into TaxWise.com or provide to us offline via guest registration cards or otherwise a
-top priority. UTS takes the following position regarding your rights to privacy and confidentiality. Please
-read this statement carefully and refer to it whenever necessary. If you have any questions, please contact
-the UTS Legal department at: UTS Legal, 6 Mathis Drive, NW, Rome, Georgia, 30165 or by e-mail at
-legal@taxwise.com or at 706-625-7757.
+December 2006
+Universal Tax Systems, Inc. (“UTS”) makes it a top priority to protect your privacy and the confidentiality of
+the personal information you enter into TaxWise.com or provide to us offline via guest registration cards or
+otherwise. UTS takes the following position regarding your rights to privacy and confidentiality. Please read
+this statement carefully and refer to it whenever necessary. If you have any questions, please contact the
+UTS Legal department at: UTS Legal Department, 6 Mathis Drive, NW, Rome, Georgia, 30165 or by e-mail
+at legal@taxwise.com or at 706-625-7757.
 UTS wants to demonstrate its commitment to your privacy. This Privacy Statement discloses the privacy
 practices for UTS and TaxWise.com, including:
       1.   What personally identifiable information of yours or third party personal identification is collected
@@ -50,11 +50,11 @@ Cookies
 A cookie is a small text file that is placed on a user’s hard drive by a web page server. Cookies cannot be
 used to run programs, deliver viruses to your computer, or extract personal information from your computer.
 The cookies we assign to you are unique, and can only be read by our web servers. Cookies can provide
-our users a more personalized and convenient visit to TaxWise.com. For instance, by setting a cookie on
-our site, the user would not have to reenter their password multiple times, thereby saving time while on our
+our users with a more personalized and convenient visit to TaxWise.com. For instance, by setting a cookie
+on our site, the user may not have to reenter their username multiple times, thereby saving time while on our
 
 
-site. However, a user can still use our site if they reject the cookie. Cookies also enable us to track and
+site. However, a user can still use our site if they reject the cookie. Cookies may also enable us to track and
 target the interests of our users in order to enhance the experience customers have while on our site.
 Log Files
 We use IP addresses to analyze trends, administer our site, track user’s movement, and gather broad
@@ -122,11 +122,11 @@ Site and Service Updates
 From time to time we may send the user announcements regarding site and customer service updates.
 Members are not able to unsubscribe from customer service announcements which contain important
 information about the service. We communicate with the user to provide requested services and in regards
-to issues relating to their account via e-mail or phone. It is the users’ responsibility to ensure that his/her
+to issues relating to their account via e-mail or phone. It is the user’s responsibility to ensure that his/her
 contact information is current and correct for various purposes including notification of changes to the
 Privacy Policy as set forth below.
 Correction/Updating Personal Information
-If a users’ personally identifiable information changes (such as e-mail address), or if a user no longer wishes
+If a user’s personally identifiable information changes (such as e-mail address), or if a user no longer wishes
 to use our services, we will provide a way for the user to correct, update or remove the personal data they
 provided to us. Information regarding how to make such changes is available by contacting Customer
 Support at customer.support@taxwise.com, or 706-290-7200.
