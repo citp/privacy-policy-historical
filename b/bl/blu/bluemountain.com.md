@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613094455id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221053416id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
+
+  
+**last updated: May 2006**
 
 **GENERAL MATTERS**
 
@@ -54,7 +57,7 @@ This program is conducted strictly on an opt-in basis. In order to receive the o
 Blue Mountain reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www.bluemountain.com/legal.pd). These communications are mandatory.
 
 **_Information Gathered From Members_**  
-If you elect to purchase a Membership on Blue Mountain, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
+If you elect to purchase a Membership on Blue Mountain, you will be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
 
 Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for Blue Mountain Reminders, which are e-mail alerts to track important dates and occasions they specify. Blue Mountain Membership allows you to store greetings for future delivery, bookmark favorite greetings, and save greetings received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.
 
@@ -74,7 +77,10 @@ If you have provided us your consent, we will use the information we have collec
 Blue Mountain may also use information about you to target advertising while you are visiting our site. For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages. We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area. We may use cookie files to assure that you will not be served the same ads repeatedly.
 
 **_Information Sharing Between Affiliates_**  
-Blue Mountain is part of the AmericanGreetings.com, Inc. family of companies. Its affiliates include AmericanGreetings.com, Egreetings.com, BeatGreets.com, and SpecialSomeone.com. Blue Mountain reserves the right to share your personally identifiable information with those companies, including your e-mail, postal address, phone number, and purchase history. We may use that information to conduct joint promotions, offer you special premiums, and to share databases and equipment. We also reserve the right to share your personal information with other companies that AG may subsequently acquire. We will only share your credit card information among our affiliates if you expressly give us permission to do so.
+Blue Mountain is a member of the American Greetings family. This means it is an Affiliate of American Greetings and its subsidiaries, including but not limited to AmericanGreetings.com, Egreetings.com, Midiringtones.com, HatterChatter.com, BloomByAG.com, Carlton Cards Retail, Inc., Plus Mark, Inc., Gibson, Guildhouse, and DesignWare. Blue Mountain reserves the right to share your personally identifiable information, including your email, postal address, phone number and purchase history, with its Affiliates. We may share your personally identifiable information with Affiliates in order to conduct promotions, offer special premiums, and share databases and equipment. We will not share your credit card information with anyone, including Affiliates, without your express permission. We reserve the right to share your information with other companies that become Affiliates of Blue Mountain.
+
+**_Third Party Information Sharing_**  
+Generally, we do not share your information with third parties. We do reserve the right to share your information with third party companies we may use to offer premiums, maintain subscriptions and perform other service functions. We do not share equipment or databases with these companies and will not share your credit card information with them without your express permission. Additionally, any company we use will not share, sell, distribute or use your information except to provide us services.
 
 **_Order Fulfillment_**  
 From time to time, you may be given the opportunity to order products and services directly on the Blue Mountain site, the Newsletters, or in other communications you may receive from Blue Mountain. These orders are typically fulfilled by Blue Mountain's Business Partners directly. To process your order, Blue Mountain may provide these Partners with your name, street address, e-mail address, phone number, and credit card information. Blue Mountain will limit the types of information shared to the minimum necessary to efficiently process your order. However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy. Blue Mountain will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site. We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable.
@@ -99,6 +105,8 @@ At any time, you can change choices you have previously made as to the use of yo
 
 **Editing Your Profile**  
 If you are a registered member, you have the ability to review and correct your personally identifiable information at any time. Simply sign into the site and click the "My Profile" link on the header of every page. There, you can change your address information, e-mail type, sign-in, and e-mail permissions. You can revise, add, delete, or completely cancel all alerts by following the links to "Reminders" at the top of each page.
+
+**California Residents.** As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to this Site who are residents of California to request information regarding Blue Mountain's disclosure of their information to third parties for direct marketing purposes. To make such a request, please send an e-mail to our customer Care Center at [help@support.bluemountain.com](mailto:help@support.bluemountain.com).
 
 **OTHER MATTERS  
 Protection For Children - COPPA Compliance**  
