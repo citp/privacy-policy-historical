@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmouse.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623064358id_/http%3A//www.watchmouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmouse.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222145159id_/http%3A//www.watchmouse.com/privacy.php) for the most accurate reproduction.*
 
 # WatchMouse web site monitoring service - Privacy Policy
 
