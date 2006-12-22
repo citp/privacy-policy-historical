@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425051049id_/http%3A//lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222200018id_/http%3A//lululemon.com/privacy) for the most accurate reproduction.*
 
 # lululemon athletica | privacy policy
 
@@ -42,5 +42,3 @@ Lululemon Athletica Inc. only collects personally identifying information from y
 Lululemon Athletica Inc., through the operation of lululemon.com, automatically collects non-personally identifying information from you when you visit lululemon.com. This information includes your Internet Protocol ("IP") address. An IP address is the number automatically assigned to your computer whenever you access the Internet. This number does not identify your name, email address or other personal information. We use your IP address to help diagnose potential problems with our server and shopping software.
 
 Top of Page
-
-#### Coke, Pepsi and all other pops will be known as the cigarettes of the future. Colas are NOT a substitute for water. Colas are just another cheap drug made to look great by advertising.
