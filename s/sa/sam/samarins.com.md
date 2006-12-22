@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324023340id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222140551id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
 
 # Samarins.com Privacy Policy
 
@@ -11,12 +11,12 @@
 
 ##  What information do we collect?
 
-We do not collect and keep any personal information online from you unless you volunteer it when contact us using our [Contact form](https://web.archive.org/web/20060324023340id_/http%3A//www.samarins.com/contact.html).   
+We do not collect and keep any personal information online from you unless you volunteer it when contact us using our [Contact form](https://web.archive.org/web/20061222140551id_/http%3A//www.samarins.com/contact.html).   
 We only collect and store the following non-personal aggregate information: your IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) and if possible domain name as well as the type of browser and operating system used to access our website. If you linked to the Samarins.com website from another website, we also collect the address of that website. 
 
 ## How do we use collected information
 
-We use this non-personal aggregate information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits. We may use the information you provide in [Contact form](https://web.archive.org/web/20060324023340id_/http%3A//www.samarins.com/contact.html) to respond to your questions or comments and we reserve the right to retain whatever information you submit, including your name, e-mail address and any questions or comments submitted. We will not send you any other email unless you contact us first and specifically request information, technical help, or assistance. We do not share, sell or rent this information to any third parties unless this will be required by law. 
+We use this non-personal aggregate information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits. We may use the information you provide in [Contact form](https://web.archive.org/web/20061222140551id_/http%3A//www.samarins.com/contact.html) to respond to your questions or comments and we reserve the right to retain whatever information you submit, including your name, e-mail address and any questions or comments submitted. We will not send you any other email unless you contact us first and specifically request information, technical help, or assistance. We do not share, sell or rent this information to any third parties unless this will be required by law. 
 
 ## Links to Third Parties 
 
@@ -32,7 +32,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How can you contact us
 
-You can contact us using our [Contact form](https://web.archive.org/web/20060324023340id_/http%3A//www.samarins.com/contact.html) or through the mail:  
+You can contact us using our [Contact form](https://web.archive.org/web/20061222140551id_/http%3A//www.samarins.com/contact.html) or through the mail:  
 Samarins.com  
 311-22 Oakmount rd.   
 Toronto ON M6P 2M7  
