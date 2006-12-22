@@ -1,79 +1,39 @@
-> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004634id_/http%3A//photo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223005911id_/http%3A//photo.net/privacy-policy) for the most accurate reproduction.*
 
 # photo.net Privacy Policy
 
-Your use of the photo.net Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
+Updated September 23, 2006 by [Philip Greenspun](http://philip.greenspun.com/), Editor in Chief 
 
-###  Introduction 
+Your use of the photo.net Web site constitutes your agreement to this privacy policy and consent to the terms herein. 
 
-photo.net is committed to safeguarding the privacy of visitors to our Web site and users of the other services available through our site (the "Service(s)"). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein. 
+##  Terms Used 
 
-This privacy policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services. 
+[](http://philip.greenspun.com/images/200411-oaxaca/carnival-sign-1.tcl) Throughout this privacy policy we use several specialized terms. "Personally Identifiable Information" is information that tells us specifically who you are, like your street address, email address, billing address, credit card number and expiration date. "User Information" means all Personally Identifiable Information and any other forms of information discussed in this privacy policy, including the Internet Protocol (IP) address of a user's computer. We use the term "aggregate" when we combine information from various persons or users. Information is said to be "anonymized" if it does not identify individual persons or entities or associate a particular person or entity with such information. Personally Identifiable Information does not include your name or city/state/country. Any posts that you make on the site will be attributed to your name and city/state/country associated with your account. 
 
-###  Important Terms Used Throughout This Privacy Policy 
+## Information We Collect and How We Use It
 
-Throughout this privacy policy we use several specialized terms. "Personally Identifiable Information" is information that tells us specifically who you are, like your street address, email address, billing address, credit card number and expiration date. "User Information" means all Personally Identifiable Information and any other forms of information discussed in this privacy policy, including the Internet Protocol (IP) address of a user's computer. We use the term "aggregate" when we combine information from various persons or users. Information is said to be "anonymized" if it does not identify individual persons or entities or associate a particular person or entity with such information. Personally Identifiable Information does not include your name. Any posts that you make on the site will be attributed to the name associated with your account, either the one you chose at registration. You may choose any name you wish under which to post on the site. The site prefers that you utilize some form of your legal name, but you are not under any obligation to do so. If you change your name on the site, the name to which your posts will be attributed will be at the discretion of the site administrators, but in most cases it will be the most recent name on your account. 
+**Readers who do not register.** We collect and store the the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user clicked directly to our site ("HTTP referer") and, in some cases, to which the user clicks to follow a hyperlink from our site. We use this information to measure the number of visitors to various sections of photo.net and we sometimes share this information, typically aggregated, with third parties for advertising or commercial purposes. 
 
-###  Information We Collect and How We Use It 
+**Registered readers.** We collect and store the Personally Identifiable Information you provide through the registration process. If you engage in a transaction while logged on to our site, we we collect and store information about the transaction. We disclose your full name, city, state, and country of residence, and posting history to other readers. We disclose your email address only to other registered readers. 
 
-If you visit our site to browse. We will only collect and store the domain name and host from which a user accessed the Internet (e.g., aol.com), the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user linked directly to our site or to which the user links after visiting our site. We use this information to measure the number of visitors to sections of our sites, to determine from where our visitors linked and to where our visitors link from the sites and to help us make our sites more useful. For example, we organize and analyze IP addresses so that we can provide efficient service, enhance security, monitor appropriate usage and produce traffic volume statistics. This type of information is sometimes shared with third parties, such as when we aggregate and disclose site traffic information for marketing and commercial purposes. When we share such information with third parties we will require them to abide by the standards of this privacy policy. 
+We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of photo.net. 
 
-If you register or engage in a transaction while at our site. To make full use of our Services you will need to complete our registration process. We collect and store the Personally Identifiable Information you provide through this registration process, including your user ID and password, which we may elect to provide for you. If you engage in a transaction while logged on to our site, then we collect and store information about the transaction. If you send us communications, then we may collect such communications in a file specific to you. 
+##  Cookies 
 
-We use the information we collect from you as a registered user to build features that we hope will make the Services more attractive and easier for you to use. This may include better customer support and timely notice of new services. We may share User Information with our partners, affiliates and joint venturers that are committed to serving your need for the Services and improving your user experience, but will require such third parties to abide by the standards of this privacy policy. We may also share aggregate anonymized data relating to activity on the site and use of the Services, such as demographical and statistical information, for marketing, research and other purposes. Furthermore, we may need to disclose User Information to law enforcement or other government officials if appropriate for your protection or in connection with an investigation of fraud, intellectual property infringement or other activity that is illegal or may expose us or our users to legal liability. 
+[](http://philip.greenspun.com/images/20050813-newport-jazz-festival/fat-shirtless-guy-eating-cheeseburger-3.tcl) Cookies are small text files that our site can send to your browser for storage on your hard drive. Cookies can make your use of our site easier by saving your status and preferences for your next visit to photo.net. Due to technical limitations in our software, if you disable cookies in your browser, you won't be able to register and login. A browser with disabled cookies is still able to read any of the content on our site. 
 
-###  If You Do Not Wish to Disclose User Information 
+Some photo.net pages incorporate HTML or Javascript code that references advertisements or Google Analytics tracking blank images. Advertisers and Google may set cookies in your browser as well. More information about these companies may be found at the following addresses: 
 
-If you do not want to provide us with certain User Information then you may opt out by not using the Service that provides us with such User Information. For example, if you do not want us to retain your name, then you may choose not to become a registered user. You will not be entitled to the benefits of registration, but you are still free to browse the site and to visit the parts of the site accessible to non-registrants. 
+  * [Gorilla Nation privacy](http://www.gorillanation.com/solutions_pub_privacy.htm)
+  * [Google privacy](http://www.google.com/privacy.html)
+  * [Yahoo! privacy](http://privacy.yahoo.com/)
 
-###  Cookies 
 
-Cookies are small text files that our site can send to your browser for storage on your hard drive. Cookies can make your use of our site easier by saving your status and preferences upon visits to our site. The cookies are refreshed every time you enter the site. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. We use cookies for two purposes: (1) to enable photo.net to customize information for certain segments of its customer base; and (2) in some instances, to associate you with your User Information. For example, through the use of cookies you may login automatically and thereby save you time. Although rejection of cookies will not interfere with your ability to interact with most of our site, you will need to accept cookies in order to login and use certain interactive Services on the site. 
 
-Many photo.net pages incorporate HTML or Javascript code that will cause your browser to connect to third-party servers to retrieve an advertisement. These servers may send cookies to your browser. photo.net has a direct relationship with a small number of advertising networks, which are third parties in the business of serving advertisements incorporated into the pages of other web sites. While we may have studied the privacy policies of our partners at the time the relationships were established, we don't monitor the policies of our partners, and they may change without our becoming aware of it. Furthermore, advertising networks have relationships with one another and some of the ads may come from parties with whom photo.net has no direct relationiship, and of whom we are not even aware. Accordingly, we cannot assume responsibility for the use made by third parties of information collected about you through these "third-party" cookies. If you are concerned about this, most modern Web browsers allow you to block so-called "third party cookies", and this should not affect your browsing experience on photo.net. Also, many ad networks provide an option to "opt-out". Notwithstanding this, if you object to a third-party cookie being placed on your browser through the use of photo.net, and have specific information that a third-party is making inappropriate use of the cookie, we would appreciate being notified by you. 
+##  Your Password 
 
-photo.net subscribes to the Google Analytics service, and Javascript code from Google Analytics runs on your browser when you access photo.net pages. This code will place a cookie on your browser, the purpose of which is to enable Google Analytics to compile anonymous traffic data about photo.net. 
+We store your password in clear text, currently, in our database. This has the advantage that we can email it to you if you forget it. It has the disadvantage that if our security is compromised, your password will be available to others. Please do not use the same password at photo.net that you use at security-critical sites, such as online banks. 
 
-###  Control of Your Password 
+## Sale or Merger of photo.net
 
-Except as specifically permitted by this privacy policy or your User Agreement you may not disclose your photo.net password to any third parties nor share it with any third parties. If you lose control of your photo.net password you may lose control over your Personally Identifiable Information, and you will be responsible for any legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password or, if we provided your password, notify photo.net so that we may issue you a new password. 
-
-###  Your Email Address 
-
-While you are a member of photo.net, the email address that is associated with your account will be furnished to other members of photo.net upon their request. Similarly, you will be able to obtain the email address of other photo.net members. You will be informed by email to your registered address when another member has been informed of your address, and other members will be informed when you are provided with their addresses. 
-
-Other than the email address associated with your membership account, if you furnish other email addresses to the site through the use of a feature which solicits email addresses, such as the eCard feature, the "Contact Us" feature, or a survey, those email addresses will not be used for any other purpose, unless you explicitly "opt in" to those uses. 
-
-###  Removal or Correction of Personally Identifiable Information 
-
-You may also "Unsubscribe" from the site by following a link from "Your Workspace". This will have the effect of concealing the information that you provided upon registration from users of the site, other than administrators. If you "unsubscribe", you will lose access to the parts of the site for which you must provide such Personally Identifiable Information in order to gain access. 
-
-If your Personally Identifiable Information is edited by you, we will not make any attempt to apply your edit to backup copies that we may have of the information, and in the event that it is necessary for us to restore our database from a backup, it is not impossible that your edit would be lost and the information previous to your edit would be restored. In such an event, we might not be able to determine that this had happened. Your recourse in such a case, having observed it, is to edit the information again. 
-
-If you unsubscribe, the Personally Identifiable Information in your user record won't be displayed to users other that administrators. However, the information may be retained in our database and backup copies thereof, for our records, and as necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into through our sites and as otherwise deemed reasonably necessary by us. 
-
-Unsubscribing will not result in the deletion of any messages, photos, comments, or other information that you have posted in forums, the gallery or other sections of the site. The attribution to your name will not be removed. Furthermore, there are many types of information that you may post on the site which cannot be deleted, editied, or recalled in any way and which which become, indefinitely, a part of the archives of the site, in many cases accessible to other users of the site, including search engines that are permitted to index the site. 
-
-Examples of transactions which cannot be removed or edited are: forum postings, classified ads, "ezShop" member opinions, comments on articles and other HTML pages, links, surveys and polls, and "neighbor-to-neighbor" postings. We reserve the right to change the site features related to the editing and deletion of site content, and transactions and content that is editable or deletable when you submit them may not be editable or deletable in the future. 
-
-If you include Personally Identifiable Information, such as your address, email address in such transactions etc, you will not be able to remove or edit it. The site does not provide a service to have staff members or administrators remove such information for You. If You do not wish to have Personally Identifiable Information become part of the archives of the site, either do not include such information with the transactions, or if the transaction requires such information, do not perform the transaction. 
-
-If We ban you from the site without at least 24 hours notice to the email address that you register with us, upon your request We will either delete information that you posted that you would have been able to delete yourself if you had not been banned, or We will temporarily reinstate you for a brief period so that you may delete the information yourself. 
-
-###  Third Parties 
-
-This privacy policy only addresses the use and disclosure of User Information collected by photo.net. If you disclose information to other parties, different rules may apply to their use or disclosure of such information regardless of their affiliation or relationship with photo.net. Because photo.net does not control the privacy practices of third parties you are subject to the privacy customs and policies of those third parties. When you link to another Web site, you are subject to the privacy policy of that Web site. We encourage you to ask questions and review the applicable privacy policy before you disclose your personal information to third parties. 
-
-We do not try to control, and disclaim responsibility for, information provided by other users or third parties that is made available through our site. Such information may contain errors, intentional or otherwise, or may be offensive, inappropriate or inaccurate, and in some cases will be mislabeled or deceptively labeled. 
-
-###  Merger, Assets, Sales, etc. 
-
-If photo.net or any of its lines of business is sold, pledged or disposed of as a going concern whether by merger, sale of assets, bankruptcy or otherwise, then the user database of photo.net could be sold as part of that transaction and all User Information accessed by such successor or purchaser. 
-
-###  How do I Contact photo.net 
-
-If you have any questions regarding this privacy policy you can contact photo.net by following the Contact Us link on the home page. 
-
-###  Miscellaneous 
-
-photo.net may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, photo.net will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. 
+If photo.net is sold, pledged or disposed of as a going concern whether by merger, sale of assets, bankruptcy or otherwise, the user database of photo.net could be sold as part of that transaction and all User Information accessed by such successor or purchaser. 
