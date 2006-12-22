@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2006-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060204152825id_/http%3A//smallbusiness.bestsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222193643id_/http%3A//smallbusiness.sagesoftware.com/privacy) for the most accurate reproduction.*
 
 # Legal Notices - Privacy Statement -- Sage Software SB, Inc.
 
