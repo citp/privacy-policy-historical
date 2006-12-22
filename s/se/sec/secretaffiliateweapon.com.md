@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secretaffiliateweapon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052027id_/http%3A//www.secretaffiliateweapon.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretaffiliateweapon.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222170358id_/http%3A//www.secretaffiliateweapon.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 (’I’ and ‘we’ refers to Ewen Chia, owner of this website)
 
@@ -38,11 +38,9 @@ I will only disclose your personal information, without notice, if required to d
 
 (a) Conform to the edicts of the law or comply with legal process served on www.secretaffiliateweapon.com;
 
-(b) Protect and defend the rights or property of  www.secretaffiliateweapon.com;
+(b) Protect and defend the rights or property of www.secretaffiliateweapon.com;
 
-(c) Act in urgent circumstances to protect the personal safety of users of  www.secretaffiliateweapon.com.
+(c) Act in urgent circumstances to protect the personal safety of users of www.secretaffiliateweapon.com.
 
 Ewen Chia  
 www.secretaffiliateweapon.com
-
- **Copyright © Midas Touch Marketing. All Rights Reserved.**
