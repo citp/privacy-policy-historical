@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628000556id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222200906id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
 # Auto Accessories,Car Covers,Tonneau Cover,Car Bra,Floor Mats,Seat Covers and Truck Accessories
 
@@ -96,7 +96,7 @@ AutoAnything.com does not knowingly collect personal information from children u
 
 ### CORRECTIONS AND UPDATES.
 
-If you wish to modify or update any information AutoAnything.com has received, please contact support@AutoAnything.com.
+If you wish to modify or update any information AutoAnything.com has received, please contact customerservice@autoanything.com.
 
 ### MODIFICATIONS OF THE PRIVACY POLICY.
 
@@ -205,7 +205,7 @@ San Diego, CA 92123
 ---|---  
 | Hours: M-F 6am-5pm*  
 **Phone sales:**|  1-800-874-8888  
-| Hours: M-Th 5am-6pm; Fri 5am-5pm; Sat 6am-3:30pm; Sun 6am-3:30pm*  
+| Hours: Mon-Thu 5am-6pm; Fri 5am-5pm; Sat-Sun 6am-3:30pm*  
 **Direct:**|  858-569-8111  
 **Fax:**|  858-569-8503  
   
