@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2000greetings.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626045906id_/http%3A//www.2000greetings.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2000greetings.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222094253id_/http%3A//www.2000greetings.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
