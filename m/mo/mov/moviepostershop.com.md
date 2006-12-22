@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622194133id_/http%3A//www.moviepostershop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222122459id_/http%3A//www.moviepostershop.com/privacy.php%3FosCsid%3D34f8beff19daf205728c672cced2fd5c) for the most accurate reproduction.*
 
 # MoviePostershop.com - Poster: Movie, Celebrity, Music, Art, Originals, Television, Humor, People, Animation, Photos
 
