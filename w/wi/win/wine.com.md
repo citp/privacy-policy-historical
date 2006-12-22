@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615132313id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222225608id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
 
-# Wine.com - Customer Care - Privacy Policy
+# Wine.com - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.wine.com&sealid=101)
 
-Wine.com, Inc., is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.wine.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Wine.com, Inc., is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.wine.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Wine.com, Inc., Compliance Officer by e-mail at [privacy@wine.com](mailto:privacy@wine.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe
+If you have questions or concerns regarding this statement, you should first contact the Wine.com, Inc., Compliance Officer by e-mail at [privacy@wine.com](mailto:privacy@wine.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe 
 
 <http://truste.org/consumers/watchdog_complaint.php>
 
 TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-At Wine.com, your privacy and the protection of your data is our primary concern. As used in this Privacy Policy, Wine.com includes Wine.com, Inc., and all of its subsidiary and affiliated entities, including websites such as www.akagourmet.com that generally do not offer their products and services under the Wine.com brand name. We have agreed to disclose our information practices and review our privacy practices compliance by 3rd parties, including:
+Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Wine.com has agreed to notify users of:
 
-  * Identifying your information and ensuring that third party information is collected from directly from you via our site
-  * The organization collecting the information
-  * How the information is used
-  * With whom the information is shared
-  * The choices available to you regarding collection, use and distribution of the information
-  * The kind of security procedures in place to protect the loss, misuse or alteration of information under Wine.com's control
-  * How to correct any inaccuracies in the information.
+  1. What personally identifiable information Wine.com collects.
+  2. What personally identifiable information third parties collect through the Web site.
+  3. What organization collects the information.
+  4. How Wine.com uses the information.
+  5. With whom Wine.com may share user information.
+  6. What choices are available to users regarding collection, use and distribution of the information.
+  7. What measures Wine.com takes to protect the information under its control.
+  8. How users can correct any inaccuracies in the information.
 
 
 
@@ -38,7 +39,7 @@ You may receive information regarding new features, services and special offers 
 
 ### Registration
 
-No registration is required in order to use this website, though a user must create an account prior to completing any purchase. Users are required to provide their name, date of birth, email address, zip code, and a password of 5-16 characters in length. This information is necessary in order for us to contact users about services on our site for which they have expressed interest. It is optional for the user to provide a phone number, but we encourage you to do so in order to have an alternate means of contact regarding an order. 
+No registration is required in order to use this website, though a user must create an account prior to completing any purchase. Users are required to provide their name, date of birth, email address, zip code, and a password of 5-16 characters in length. This information is necessary in order for us to contact users about services on our site for which they have expressed interest. It is optional for the user to provide a phone number, but we encourage you to do so in order to have an alternate means of contact regarding an order.
 
 [back to top]
 
@@ -50,13 +51,15 @@ Wine.com order forms request data from users including: Contact information such
 
 ### Gift Recipients
 
-We collect contact information for gift recipients to ensure correct gift delivery. We do not sell or rent any contact information for gift recipients, but may send offers about new features, new services and special offers we think the recipient will find valuable. We may also send offers to gift recipients on behalf of reputable businesses. We always allow gift recipients to opt out of future mailings.
+We collect contact information, such as name, shipping address and phone number, for gift recipients to ensure correct gift delivery. We do not sell, share or rent any contact information for gift recipients with third parties.
 
 [back to top]
 
 ### Cookies
 
-A cookie is data stored on the end-user's hard drive with information that relates directly to the end-user's visit to our web site. Any information placed in the cookie is accessible only to Wine.com, and will not be sold or shared with anyone else under any circumstances. We use a cookie to store a unique session identifier, which allows us to maintain shopping cart and state selections from one page request to the next, and maintain session information from one visit to the next. By setting a cookie on our site, the user would not have to log in more than once, thereby saving time while visiting our site. If a user rejects the cookie, they may still browse our site. However, the user experience will be greatly curtailed and only the California catalog will be available. In addition, the user will be unable to log in or make a purchase. Cookies also enable us to track and target the interests of our users to enhance users' experience and display products that relate directly to individual user preferences. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+A cookie is data stored on the end-user's hard drive with information that relates directly to the end-user's visit to our web site. Any information placed in the cookie is accessible only to Wine.com, and will not be sold or shared with anyone else under any circumstances. We use a cookie to store a unique session identifier, which allows us to maintain shopping cart and state selections from one page request to the next, and maintain session information from one visit to the next. By setting a cookie on our site, the user would not have to log in more than once, thereby saving time while visiting our site. If a user rejects the cookie, they may still browse our site. However, the user experience will be greatly curtailed and only the California catalog will be available. In addition, the user will be unable to log in or make a purchase. Cookies also enable us to track and target the interests of our users to enhance users' experience and display products that relate directly to individual user preferences.
+
+Some of our business partners (e.g., advertisers, tracking utility services) use cookies on our site. We have no access to or control over these cookies.
 
 [back to top]
 
@@ -68,11 +71,13 @@ We use IP addresses to analyze trends, administer the site, track users' movemen
 
 ### Sharing
 
-Wine.com will share aggregated demographic information with its partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+We will not sell, share, or rent this information to others in any way that varies from what is disclosed in this statement.
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+Wine.com will share aggregated demographic information with its partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-We value your privacy at Wine.com, and will never release any account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so. 
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+
+We value your privacy at Wine.com, and will never release any account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so.
 
 [back to top]
 
@@ -90,7 +95,7 @@ This web site contains links to other sites. Please be aware that Wine.com is no
 
 ### Emails
 
-If a user wishes to subscribe to our emails we ask for contact information such as name and email address. If at any time you should wish to unsubscribe, please send an email to our Customer Care group with your request and the account name you used to create your account. You may reach us at: [customercare@wine.com](mailto:customercare@wine.com)
+If a user wishes to subscribe to our emails we ask for contact information such as name and email address. We may use your personal information for purposes other than sending you promotional materials. For example, we may use your information to complete transactions requested by you, or to send you administrative communications about any account you may have with us or about future changes to this Privacy Policy. If at any time you should wish to unsubscribe, please complete the [questionare](https://web.archive.org/customercare/submit.asp?mode=pre_fill&pre_title=Unsubscribe&cate=7 "Unsubscribe Request") located within [customer care](https://web.archive.org/customercare/ "Customer Care").
 
 [back to top]
 
@@ -112,29 +117,17 @@ If you have any questions about the security at our website, you can send an ema
 
 [back to top]
 
-### Correcting and Updating Personal Info
-
-You can add new information and update credit cards on the Order Summary page of our site. You can modify your login information and opt out of newsletter delivery on the "My Account" link at the bottom of each page of our site. We offer live Customer Service assistance toll-free at (800) 592-5870.
-
-[back to top]
-
 ### Sale of Our Company
 
 As a natural consequence of the development of our company, we could be sold to another company. In the event that another company acquires us or a significant portion of our assets is sold to another company, all customer data including financial records and consumer information collected on Wine.com may be transferred to the new company. You will be notified via of any such change in ownership or control of your personal information.
 
 [back to top]
 
-### Opt-out Instructions
-
-Users who no longer wish to receive our electronic newsletter or promotional materials from our partners may opt-out of receiving these communications by changing the settings in the "Your Account" page. Users who no longer wish to receive catalogs and other special announcements via mail can send a letter to us at Customer Service, Wine.com, Inc., 114 Sansome Street, 6th Floor, San Francisco, CA 94104; call toll-free 1-800-592-5870; or email us at [customercare@wine.com](mailto:customercare@wine.com). If you do not exercise your opt-out choices upon registration or initial log-in at our Web sites, it may take up to ten days (10) days for your opt-out choices to be fully effective for electronic or e-mail messages and up to ninety days (90) for physical catalogs. Our systems require time to update, and promotional mailings using personal information shared before your opt-out may already be in process. Thus, you might continue to receive promotional materials from Wine.com based upon the personal information you have provided under this Privacy Policy for up to ninety (90) days. For similar reasons, your personal information might continue to be shared with third parties for promotional purposes for up to ten (10) days for electronic or e-mail messages and up to ninety (90) days for physical catalogs.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by email.
-
-[back to top]
-
 ### Fair Credit Billing Act
 
 We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any portion of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
+[back to top]
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -148,6 +141,6 @@ Wine.com, Inc.
 114 Sansome Street, 6th Floor  
 San Francisco, CA 94104
 
-The Privacy Notice posted on this site was updated on February 1, 2005.
+The Privacy Notice posted on this site was updated on on June 20, 2006.
 
 [back to top]
