@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the soundexchange.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324101022id_/http%3A//www.soundexchange.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundexchange.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222123756id_/http%3A//www.soundexchange.com/privacy.html) for the most accurate reproduction.*
 
 # SoundExchange | Privacy Policy
 
-At SoundExchange we are committed to protecting your privacy. We are dedicated to keeping your experience with SoundExchange as secure, enjoyable and easy as possible. The following sets forth our information gathering and disclosure practices. 
+[](https://web.archive.org/index.html) | 
+
+## Privacy Policy 
+
+**Effective July 11, 2006**
+
+SoundExchange, Inc. is committed to protecting the privacy of visitors to this website.  Throughout this Privacy Policy, the terms “SoundExchange,” “we,” “us,” and “our” refer to SoundExchange, Inc.  The following sets forth our information gathering and disclosure practices. 
 
 **Personal Information**
 
-Personal information, such as name and E-mail, are used primarily to recognize individual users. SoundExchange uses individually identifiable information, like E-mail addresses, in order to provide informational updates to users, to respond to users in need of technical support and for other purposes consistent with SoundExchange’s business operations. 
+In certain parts of this website, we may ask you to provide us with your name, mailing address, E-mail address, company name and phone number, or other personal information.  We use this information in order to provide informational updates, to respond to requests for technical support, to provide registered users with access to and use of our PLAYS Search Engine, and for other purposes consistent with SoundExchange’s business operations.  SoundExchange does not sell, trade or rent your personal information to third parties.  Additionally, SoundExchange may disclose your personal information to its contractors and successors.
 
-SoundExchange may use reputable third party tracking services to track general information about people visiting our site. Such tracking would not include any personal information; it would merely determine the composition of our user and visitor base. SoundExchange may provide aggregate statistics about our users, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include personally-identifiable information. SoundExchange does not sell, trade or rent your personal information to others.  
+We collect certain usage information about our website, such as the number and frequency of visitors to certain parts of the website.  SoundExchange may provide aggregate statistics about our users, traffic patterns and related site information to third-parties, but this information will not include personally-identifiable information.   
 **  
 Visitors Under the Age of 13**
 
-SoundExchange does not collect any personally identifiable information from anyone under the age of 13. The user registration screen expressly prohibits children under the age of 13 from registering with SoundExchange.
+SoundExchange does not knowingly collect any personally identifiable information from anyone under the age of 13.
 
 **Security**
 
-Although SoundExchange uses all reasonable efforts to safeguard the confidentiality of your personally-identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. SoundExchange will have no liability for disclosure of personally-identifiable information due to errors in transmission or unauthorized acts of third parties. 
+Although SoundExchange uses reasonable efforts to safeguard your personally-identifiable information, transmissions made by means of the Internet cannot be made absolutely secure.  SoundExchange will have no liability for disclosure of personally-identifiable information due to errors in transmission or unauthorized acts of third parties.
 
-**Outside Links**
+**Changes to this Privacy Policy**
 
-The SoundExchange site contains links to other sites. SoundExchange is not responsible for the privacy practices or the content of such third-party websites.
+SoundExchange reserves the rig
 
-**Consent**
-
-By using this site, you signify your consent with this SoundExchange Online Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Any such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the SoundExchange Online Privacy Policy periodically. Your continued use of the SoundExchange website following the posting of changes and/or modifications will constitute your acceptance of the revised terms and conditions.
-
-**Contact Us**
+ht, at its sole discretion, to change, modify or otherwise alter this Privacy Policy at any time.  Such changes and/or modifications shall become effective immediately upon the posting thereof.  Please review this Privacy Policy periodically.  Your continued use of the SoundExchange website following the posting of changes and/or modifications to this Privacy Policy will constitute your acceptance of the revised policy. **Contact Us**
 
 SoundExchange welcomes your questions and comments. 
 
@@ -40,3 +42,15 @@ SoundExchange
 1330 Connecticut Avenue, N.W.   
 Suite 330  
 Washington, DC 20036 
+
+| 
+
+  
+[](https://web.archive.org/artist_home.html#artist)  
+[](https://web.archive.org/artist_home.html#agent)  
+[](https://web.archive.org/artist_home.html#producer)  
+[](https://web.archive.org/members/become_member.html)  
+[](https://web.archive.org/licensee_home.html)  
+[](https://web.archive.org/licensing101.html)
+
+[](http://63.236.111.137/)
