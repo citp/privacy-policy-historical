@@ -1,0 +1,341 @@
+<!--The following is the downloaded HTML source of the bigstring.com privacy policy that was archived on 2006-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061222213228id_/http%3A//www.bigstring.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<script type="text/javascript">
+function check1()
+{
+	var letters = document.register.phone1.value.length +1;
+	if (letters <= 3)
+	{
+		document.register.phone1.focus()
+	}
+	else
+	{
+		document.register.phone2.focus()
+	}
+}
+
+function check2()
+{
+	var letters = document.register.phone2.value.length +1;
+	if (letters <= 3)
+	{
+		document.register.phone2.focus()
+	}
+	else
+	{
+		document.register.phone3.focus()
+	}
+}
+
+function register_canSubmit()
+{
+	if (document.register.username.value == '')
+	{
+		document.register.username.style.backgroundColor = '#ffff00';
+		document.register.username.focus();
+        alert ("You did not enter a Username!");
+		return false;
+	}
+
+	if (document.register.password.value == '')
+	{
+		document.register.password.style.backgroundColor = '#ffff00';
+		document.register.password.focus();
+        alert ("You did not enter a password!");
+		return false;
+	}
+	
+	if (document.register.rpassword.value == '')
+	{
+		document.register.rpassword.style.backgroundColor = '#ffff00';
+		document.register.rpassword.focus();
+        alert ("You did not re-enter your password!");
+		return false;
+	}
+
+	if (document.register.password.value != document.register.rpassword.value)
+	{
+		document.register.rpassword.style.backgroundColor = '#ffff00';
+		document.register.rpassword.focus();
+        alert ("Your passwords do not match!");
+		return false;
+	}
+
+	if (document.register.firstname.value == '')
+	{
+		document.register.firstname.style.backgroundColor = '#ffff00';
+		document.register.firstname.focus();
+        alert ("You did not enter your First Name!");
+		return false;
+	}
+
+	if (document.register.lastname.value == '')
+	{
+		document.register.lastname.style.backgroundColor = '#ffff00';
+		document.register.lastname.focus();
+        alert ("You did not enter your Last Name!");
+		return false;
+	}
+
+	if (document.register.address.value == '')
+	{
+		document.register.address.style.backgroundColor = '#ffff00';
+		document.register.address.focus();
+        alert ("You did not enter your Address!");
+		return false;
+	}
+
+	if (document.register.city.value == '')
+	{
+		document.register.city.style.backgroundColor = '#ffff00';
+		document.register.city.focus();
+        alert ("You did not enter your City!");
+		return false;
+	}
+
+	if (document.register.state.value == '')
+	{
+		document.register.state.style.backgroundColor = '#ffff00';
+		document.register.state.focus();
+        alert ("You did not enter your State!");
+		return false;
+	}
+
+	if (document.register.zip.value == '')
+	{
+		document.register.zip.style.backgroundColor = '#ffff00';
+		document.register.zip.focus();
+        alert ("You did not enter your Zip!");
+		return false;
+	}
+
+	if (document.register.altemail.value == '')
+	{
+		document.register.altemail.style.backgroundColor = '#ffff00';
+		document.register.altemail.focus();
+        alert ("You did not enter your Alternative Email!");
+		return false;
+	}
+	
+	if (document.register.tos.checked != 1)
+	{
+		alert("You must agree to our Terms of Service!");
+		return false;
+	}
+
+	if (document.register.privacy.checked != 1)
+	{
+		alert("You must agree to our Privacy Policy!");
+		return false;
+	}
+						
+	// Now submit
+	document.register.submit();
+	return true;
+}
+</script>
+
+
+<style type="text/css">
+<!--
+.style46 {	color: #336699;
+	font-size: 36px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+
+<title>BigString.com World's Coolest Email!</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="generator" content="HAPedit 3.1">
+<link rel="stylesheet" type="text/css" href="press/niftyPrint.css" media="print">
+<link href="/css/homepage.css" rel="stylesheet" type="text/css">
+<link href="/css/niftyCorners.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style4 {color: #336699}
+.style45 {font-size: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.style13 {	font-size: 24px;
+	color: #336799;
+}
+.style6 {	font-size: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style40 {font-family: Verdana, Arial, Helvetica, sans-serif; color: #6699cc; font-size: 14px; }
+.style36 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; }
+-->
+</style>
+</head>
+<body>
+<div id="password">
+				<form action="/email/login.php" method="POST" name="login" style="margin: 0px;">
+				  <table width="224" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td width="68" height="22" align="right" valign="top"><div id="logintxt">Username: </div></td>
+                      <td width="11">&nbsp;</td>
+                      <td colspan="2" valign="top"><input name="username" type="Text" tabindex="1" onclick="style.background = '#FFFFFF';" onfocus="if(this.value=='username')this.value='';">                      </td>
+                    </tr>
+                    <tr>
+                      <td height="29" align="right" valign="top"><div id="logintxt">Password:</div></td>
+                      <td>&nbsp;</td>
+                      <td width="74" valign="top"><input name="userpass" type="password" tabindex="2" onclick="style.background = '#FFFFFF';" size="10">                      </td>
+                      <td width="71" align="center" valign="top"><input tabindex="4" type="Submit" value="Log-In" name="free" class="submit"></td>
+                    </tr>
+			<!--
+                    <tr> 
+                     <td height="22" colspan="4" align="center" valign="top">
+			<div id="logintxt">Remember me?
+                        <input tabindex="3" type="checkbox" name="remember" id="remember">
+                      	</div>
+			</td>
+                    </tr>
+			-->
+                    <tr>
+                      <td height="24" colspan="4" align="center" valign="top"><a href="../pg/pass_recover.php" title="Having Login Problems? Click Here" class="pwrecover" id="logintxt">Sign In Trouble?</a> </td>
+                    </tr>
+                    
+                                      </tbody></table>
+                </form>
+					
+</div>
+<div id="nifty">
+<div id="header2"><span class="style46">Privacy Policy</span></div>
+<div id="press"><br>
+    <a href="http://www.truste.org/ivalidate.php?url=www.bigstring.com&amp;sealid=101"><img border="0" src="/images/clickseal.gif"></a><br>
+    <br>
+    <b>REGISTRATION</b><br>
+In order to use this Web site, you must first register for an email address with BigString.com.  Your email address is also your BigString username. A password must be created that contains at minimum six (6) case sensitive 
+characters.  Your first name, last name, zip code and an alternate email address are required as well.  If you are signing up for any of BigString's paid email accounts you will be required to enter your credit card type, card 
+number, CCID number, expiration date of your card, your name as it appears on your account and the billing address on your account.  Please note, for your safety, we do not maintain any data from your credit card submission.  We 
+use authorize.net to process your payment.  Your credit card debit will show as a charge from either EmailEmissary Inc. (a wholly owned subsidiary of BigString Corp) or Bigstring.com.  Your data is sent to a third party credit 
+card processor such as authorize.net for credit card processing.  The credit card processor is prohibited from using any personally identifiable information for any other purpose than for payment processing. You will be returned 
+to the BigString site on successful completion to learn more about your new email account and begin using it.<br>
+<br>
+From time to time BigString may offer coupons to new users for larger amounts of storage or other additional features that are not normally available to BigString users.  At these times a coupon code or a referrer email address 
+may be required to obtain these additional features.  At no time will the referrer email be stored and used for marketing purposes by BigString.<br>
+<br>
+BigString Corporation is the sole owner of the personal information collected on www.bigstring.com.  BigString Corporation collects personally identifiable information from our users at several different points on our Web 
+site.<br>
+<br>
+<b>REFER FRIENDS</b><br>
+If you choose to use our referral service to tell a friend about BigString, we will ask you for your friend's email address.  We will automatically send your friend a one-time email inviting him or her to visit BigString.  
+BigString Corporation does not store this information and your friend will only receive the initial email from us and will not be contacted by us again.<br>
+<br>
+<b>USES OF INFORMATION</b><br>
+BigString.com is an email service provider.  Your first and last name may appear on certain emails that you send from our system.  BigString will only use the information provided in a Registration Form to provide users with 
+important information about our service (including upgrades, modifications, etc.) and to announce new products and services available to users.  BigString will not share, sell or lease any personally identifiable information 
+about any User to any third party for any secondary purposes without the User's permission.<br>
+<br>
+<b>NON-PERSONALLY IDENTIFIABLE INFORMATION</b><br>
+BigString will use certain non-personally identifiable information provided by Users for the following purposes:<br>
+<br>
+To create aggregate, non-personal, demographic reports about the Users of the Service. Provide Users with certain content that may be of interest to that User based on the information the User provides. <br>
+<br>
+<b>SERVICE PROVIDERS</b><br>
+We use other third parties to provide for credit card processing on our site.  When you sign up for a paid BigString email account, we will share your name, address, phone number and credit card information as necessary for the 
+third party to provide that service.  The credit card processor is prohibited from using any personally identifiable information for any other purpose than for payment processing.<br>
+<br>
+<b>THIRD PARTY ADVERTISERS</b><br>
+The ads appearing on this Web site are delivered to users by both Commission Junction (www.cj.com) and Linkshare (www.linkshare.com), our advertising partners.   We share Web site usage information about users with these 
+reputable third parties for the purpose of targeting our Internet banner advertisements on this site. Commission Junction's privacy policy agreement can be found at http://www.cj.com/privacy.jsp.  Linkshare's privacy policy 
+agreement can be found at http://www.linkshare.com/home/privacy.shtml<br>
+<br>
+<b>CO-BRANDED SITES</b><br>
+Shareasale (www.shareasale.com) is a third party website that BigString uses to enable other websites to become business partners of BigString.com and market their web traffic to BigString.com  No personal information about our 
+users is shared with either Shareasale or any of BigString's business partners.<br>
+<br>
+To sign up to be a web traffic provider to BigString, our users may click on the Affiliates link at BigString.com to be taken to <a href="http://www.shareasale.com/shareasale.cfm?merchantID=4649">http://www.shareasale.com/shareasale.cfm?merchantID=4649</a> where they can gain access to BigString.com 
+promotional banners that link to our signup pages.  Shareasale's privacy applies to all information provided at this link and BigString does not store any of this information.  Shareasale's Terms of use can be found at <a href="http://www.shareasale.com/agreement.cfm">http://www.shareasale.com/agreement.cfm</a>.<br>
+<br>
+<b>UPGRADE EMAILS</b><br>
+BigString will send you notifications of special promotions to upgrade your free email services to our paid email services.  These notices will be sent to your BigString.com email account and you are required to receive these 
+upgrade emails as part of your terms of service/use for you BigString.com free email account.  At no time will BigString use your alternative email accounts (non-BigString email addresses) as methods of solicitation unless you 
+OPT-IN to receive such emails from us at the point of registration.  If you would like to change this preference and OPT-OUT of receiving the requested emails to your alternative email address at any time, simply send an email to 
+support@bigstring.com and your request will be processed within 24 hours.  However, at registration an alternative email address is required and will be used only if a lost password request is initiated or if you have chosen to 
+receive these email newsletters at registration.  To change or update either your email address or alternative email address, please go the either the "My Account" or "Options" sections of BigString.com.<br>
+<br>
+<b>INFORMATION AVAILABLE THROUGH USE OF THE SERVICE</b><br>
+The Service will enable Users to send Messages to other people (both Users and non-Users). Subject to all general security limitations inherent in communicating via the Internet, a Message will not be generally accessible to 
+Users or others who are not intended recipients of the Message. Please use the same discretion when sending Messages through the Service as you would when sending ordinary electronic mail.
+Except as expressly described herein, BigString will not collect or maintain any information about the Messages Users send through the Service, including the addresses to whom Messages are sent and the content of the 
+Messages.<br>
+<br>
+<b>GENERAL USAGE PATTERNS</b><br>
+BigString gathers information related generally to Users' use of the Software, Service, and Site including without limitation:<br>
+<br>
+The number of Messages that a User sends; <br>
+The number of Messages that are read; <br>
+What elements of the Service are most often used; <br>
+User log-in dates and time; and <br>
+Message size data. <br>
+<br>
+This information, which will only be collected and maintained in aggregate, anonymous form, will be used to, among other things:
+Provide BigString with a better understanding of how Users use the Service and the various features thereof;
+Help BigString to create and provide new services and offerings to Users; and
+Conduct and publish aggregate, anonymous, market research results.<br>
+<br>
+<b>COMPUTER SETTINGS</b><br>
+BigString collects settings, technical and other information from Users' computers, such as a computer's operating system, BigString and browser versions used, connectivity, various communication parameters and other information 
+related to the operation and interaction of the Software, subject to the provisions herein. This information will neither contain nor be linked to any personally identifiable information.<br>
+<br>
+<b>ACCESS TO INFORMATION</b><br>
+A User may review and update his/her information by accessing "Options" or "MY ACCOUNT" on the BigString Menu.<br>
+<br>
+<b>LEGAL DISCLOSURE OF INFORMATION</b><br>
+Notwithstanding anything to the contrary in this Agreement, BigString shall, pursuant to valid legal process such as a search warrant, subpoena or court order, allow access to all available and relevant information, including 
+Users' IP addresses, in order to comply with such valid legal process and to otherwise protect BigString's rights and property. <br>
+<br>
+<b>SECURITY</b><br>
+BigString is committed to respecting your privacy.  We recognize your need for control of personally identifiable information that you share with BigString.  Personally identifiable information is information that only pertains 
+to you as an individual such as your name, address, phone number or credit card number.  BigString does not collect sensitive information about individuals except when specifically and knowingly provided by such individuals.  
+BigString uses a Thawte (http://www.thawte.com) digitally signed certificate to process all sensitive information securely through SSL encryption.  This encryption is used during the registration process, credit card processing, 
+and user login.<br>
+<br>
+<b>OTHER WEB SITES </b><br>
+The Service may contain links to other Web sites. BigString is not responsible for the privacy practices or the content of such Web sites.<br>
+<br>
+<b>COOKIES</b><br>
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes.  We use cookies on this site.  We do link the information we store in cookies to the personally identifiable you submit while on our 
+site.<br>
+<br>
+We use session ID cookies to make it easier for you to navigate our site.  A session ID cookie expires when you close your browser.  If you reject cookies your ability to send emails will be limited.<br>
+<br>
+Some of our business partners (e.g. advertisers) use cookies on our site.  We have no access to or control over these cookies.  See "Third Party Advertisers." <br>
+<br>
+<b>TRUSTe LICENSEE</b><br>
+BigString Corporation is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information 
+practices.  This privacy statement covers the site www.bigstring.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices 
+reviewed for compliance by TRUSTe.<br>
+<br>
+If you have questions or concerns regarding this statement, you should first contact BigString Corporation at:<br>
+<br>
+Adam Kotkin<br>
+BigString Corporation<br>
+3 Harding Road, Suite F<br>
+Red Bank, NJ 07701<br>
+adam@bigstring.com<br>
+<br>
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a 
+liaison with us to resolve your concerns.<br>
+<br>
+<b>AMENDMENTS TO PRIVACY STATEMENT</b><br>
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places that we deem, appropriate so that you are aware of what information we collect, how we use it, and 
+under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, 
+or by means of a notice on our homepage.<br>
+<br>
+Effective Date of Privacy Statement is 05/26/2006
+  </div>
+</div>
+
+
+</body></html>
