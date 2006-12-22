@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lime.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426232457id_/http%3A//lime.com/more/Privacy_Policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lime.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222132251id_/http%3A//www.lime.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - LIME
-
-[]()   
-| 
+# LIME - Healthy Living With a Twist
 
 LIME, Life Balance Media, LLC, its parent, and subsidiaries (the 'Company') is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through Company Web sites, which includes all of the Company sites and governs online data collection and usage by the Company. Please read the complete the Company Online Privacy Policy below and contact us if you have any questions.
 
@@ -60,14 +57,10 @@ We will occasionally update this Privacy Policy as necessary to maintain the hig
 You can contact us by mail at:  
 
 
-Customer   
-Life Balance Media, LLC  
-10 East 40th Street  
-New York, NY 10018 
+Chief Financial Officer   
+Life Balance Media LLC  
+10 East 40th Street, 26th Floor  
+New York, NY 10016 
 
-Updated November 2005 
+Updated November 2005   
 
-| 
-
-  
-LIME is a member of 1% for the Planet and has committed to contribute at least 1% of its annual net revenues to environmental organizations worldwide. 
