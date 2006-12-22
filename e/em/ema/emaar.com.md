@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105311id_/http%3A//emaar.com/Privacy/Index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222144250id_/http%3A//www.emaar.com/Privacy/Index.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
