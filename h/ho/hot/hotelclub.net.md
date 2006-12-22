@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219162344id_/http%3A//hotelclub.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222041051id_/http%3A//hotelclub.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,5 +33,3 @@ We at HotelClub work hard to provide our clients with the best possible rates in
 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of HotelClub or would like more information, please contact us on [privacy@HotelClub.net](mailto:privacy@HotelClub.net). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt. 
 
 **CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](https://web.archive.org/CustService.asp). 
-
-                 
