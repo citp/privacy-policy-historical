@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providence.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619054400id_/http%3A//www.providence.org/eprise/main/glob/gbl_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providence.org privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222033538id_/http%3A//www.providence.org/eprise/main/glob/gbl_privacy.htm) for the most accurate reproduction.*
 
 # Providence Health System Internet Privacy Policy
 
@@ -29,11 +29,7 @@ Personal information collected through our site is secured within the Providence
 
 ### How Data is Used:
 
-Information obtained as part of your My Providence account or Providence Health Plans member account is collected for the sole purpose of providing you with convenient, personalized service while you interact with Providence Health System. Uniquely identifiable data collected and stored as part of the Providence Website will not be shared with third parties, without your permission, for reasons beyond the following:
-
-Credit card validation and processing is performed for Providence by [VeriSign](http://www.verisign.com/truste/index.html)
-
-Providence Health System may use aggregate data for internal analysis to better serve the health needs of our communities, to improve the usefulness of the Website and to provide better customer service.
+Information obtained as part of your My Providence account is collected for the sole purpose of providing you with convenient, personalized service while you interact online with Providence Health System. Uniquely identifiable data collected and stored as part of the Providence Web site will not be shared with third parties, without your explicit permission. 
 
 ### Safeguards:
 
