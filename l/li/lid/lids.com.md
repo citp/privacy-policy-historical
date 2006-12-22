@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613045737id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222131946id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids.com: Lids Online has an extensive selection of hats, apparel and accessories for your favorite teams
 
@@ -15,10 +15,10 @@
 | [RACING](http://www.lids.com/sid/MOTOR)  
 | [BRANDS](http://www.lids.com/sid/BRANDED)  
 | [POP CULTURE](http://www.lids.com/sid/POP)  
+| [LIDS KIDS](http://www.lids.com/kids.html)  
 | [HELMETS](http://www.lids.com/helmet.html)  
 | [APPAREL](http://www.lids.com/apparel.html)  
 | [WOMEN](http://www.lids.com/women.html)  
-| [KIDS](http://www.lids.com/kids.html)  
 | [ACCESSORIES](http://www.lids.com/sid/ACCESS)  
 | [CLEARANCE SALE](http://www.lids.com/clearance.html)  
   
