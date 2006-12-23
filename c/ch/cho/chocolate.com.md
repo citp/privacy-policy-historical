@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320172646id_/http%3A//www.chocolate.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223150959id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
 
-# Chocolate.com - Privacy Policy
+# Privacy Policy
 
-**Privacy Policy**
+[Chocolate.com](https://web.archive.org/web/20061223150959id_/http%3A//www.chocolate.com/articles/www.chocolate.com) > [Articles](https://web.archive.org/articles) > [Privacy Policy]()
 
-About Our Privacy Policy 
+Site User Privacy and Security
 
-Your privacy is important to us, and we would like you to feel comfortable surfing our website. Please read the following privacy policy in its entirety for information on the privacy practices of this website and organization.   
-(for Terms of Service [click here](https://web.archive.org/terms_of_service.html)) 
+Chocolate.com Privacy Statement   
+Last Updated @ 2006-06-10 11:45 EST.   
+If you have questions about your account, please email customerservice@ chocolate.com. 
 
-Users should be aware that when they voluntarily disclose personal information such as user name and e-mail address on message boards, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. When you sign-up for services on third party sites to which Chocolate.com, LLC ("Chocolate.com") provides links, keep in mind you will be interacting with a third party that operates under its own privacy and security policies. In some instances, the Chocolate.com name and logo may appear on these third party sites/areas, however, any information collected there will be done so by the third parties. Chocolate.com assumes no responsibility for the privacy policies of these sites. As with many other major Web sites, we track how visitors use our online services. This tracking system tells us on which page you entered our Web site on, what pages you visited, which files you downloaded, how long you visited our site, and the domains or addresses of sites you visited immediately before coming to or leaving from our site. We also utilize cookie technology that lets us trace the paths followed by visitors to our site as they move from one page to another. We may maintain log files with individually identifiable information for the purposes of your participation in promotions and prizes, e-mail correspondence, and visits to our affiliated Web sites. Otherwise, the tracking information or cookie statistics are not associated with you as an individual. It is measured only in an aggregate form. Any information you specifically provide Chocolate.com with in connection with participation in surveys or promotions or via e-mail is deemed to be disclosed without restriction on its use. If you provide Chocolate.com with your E-mail address, or have done so in the past, we may upon occasion send you E-mail offers. We may use information you have given us to provide a service, ensure proper billing, measure consumer interest in our various services, and inform you about product s and services. These offers may be based on information you provided in your initial transaction with us, in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources. We also may maintain log files using IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. 
+Chocolate.com ([www.chocolate.com](http://www.chocolate.com/)) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Chocolate.com, you are accepting the practices described in this Privacy Statement. For Terms and Conditions of Use including return policies got to: Terms and Conditions of Use 
 
-P3P Compliant Privacy Policy - HTML Version 
+What Personal Information About Customers Does Chocolate.com Gather?   
+The information we learn from customers helps us personalize and continually improve your experience at Chocolate.com. Here are the types of information we gather. 
 
-Chocolate.com, LLC P3P compliant privacy policy covers: Data Collection on the website under this Policy Use of User Cookies by the website under this Policy Dispute Resolution in respect of this Privacy Policy Additional Information in respect of this Policy A P3P compliant Compact Policy Summary for this Policy We invite you to contact us if you have questions about this policy. You may contact us most efficiently by sending an email to privacy@chocolate.com. 1\. Data Collection This policy conforms to a P3P policy standard and contains 4 data groups as its ?gStatements?h under the standard. Our data practices for each information group are explained below: 1.1 Site Data The data in this group has been marked as non-identifiable in this Policy. This means that there is no reasonable way for the site to identify the individual person this data was collected from. We collect the data for use in the analysis of our site operations and performance. 
+Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future website enhancements for you, improving our products, and communicating with you. 
 
-We and/or our agents may use the data for the following purposes:   
-Completion and support of the current activity.   
-Web site and system administration.   
-Research and development.   
-Anonymous user analysis.   
-Anonymous user profiling and decision-making.   
-The data collected may include:   
-Click-stream data   
-HTTP protocol elements   
-User's interaction with a page or resource   
-HTTP cookies   
-Search terms   
-1.2 Usertrack Information  
-The data in this group has been marked as non-identifiable in this Policy. This means that there is no reasonable way for the site to identify the individual person this data was collected from. We collect the data for use in the analysis of our site operations and performance. 
+Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses www. chocolate.com. 
 
-We and/or our agents may use the data for the following purposes:   
-Completion and support of the current activity.   
-Web site and system administration.   
-Research and development.  
-One-time tailoring.  
-Anonymous user analysis.   
-Anonymous user profiling and decision-making.   
-The data collected may include:   
-Click-stream data   
-HTTP protocol elements   
-HTTP cookies   
-1.3 Consumer Contests  
-We collect information from consumers who may participate in contests and promotions on our site. This information may be collected for fulfillment purposes and also provides for the user to be able to opt-in to various services and/or information lists and to participate in surveys.
+E-mail Communications: To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from Chocolate.com if your computer supports such capabilities. To opt out of newsletters send an email to customerservice@ chocolate.com, or visit the opt-out link at the bottom of the email you received.
 
-The data collected may include:  
-User's Name   
-User's Birth Date   
-User's Gender   
-Home e-mail address   
-Online contact information 
+What About Cookies?   
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Cookies should be enabled when you are using Chocolate.com, and we recommend that you leave them turned on when you come to [www.chocolate.com](http://www.chocolate.com/). 
 
-At the user's option, we may also collect the following data:   
-User's Job Title   
-Demographic data   
-Preference data   
-Home mailing address 
+Does Chocolate.com Share the Information It Receives?   
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below. 
 
-We and/or our agents may use data from Consumer Contests for the following purposes:  
-User analysis. The user must opt-in to this usage.   
-User profiling and decision-making. The user must opt-in to this usage.   
-Contacting visitors for marketing of services or products. The user must opt-in to this usage.   
-Telemarketing. The user must opt-in to this usage.   
-In addition, unrelated third parties following different Privacy practices may also receive this information. However, the user must opt-in to this data sharing.   
-1.4 Business Contests  
-We collect information from businesses that may participate in contests and promotions on our site. This information may be collected for fulfillment purposes and also provides for the user to be able to opt-in to various services and/or information lists and to participate in surveys.
+Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
-The data collected may include:   
-User's Name   
-User's Birth Date   
-User's Business Contact Information   
-Business information   
-At the user's option, we may also collect the following data: 
+Promotional Offers: Sometimes we send offers to Chocolate.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. We will only send such offers if you have opted in to a list on our site which describes the type of information you may want to receive. If you do not want to receive such offers, please email [customerservice@chocolate.com](mailto:customerservice@chocolate.com). 
 
-User's Gender   
-User's Job Title   
-We and/or our agents may use data from Consumer Contests for the following purposes:
+Business Transfers: As we continue to develop our business, we may be acquired by or purchase other businesses. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). 
 
-Contacting visitors for marketing of services or products. The user must opt-in to this usage.   
-Telemarketing. The user must opt-in to this usage.   
-2\. Cookies  
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not. 
+Protection of Chocolate.com and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Chocolate.com users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
 
-Our site makes use of cookies. Cookies are used for the following purposes:   
-Site administration   
-Completing the user's current activity   
-User targeting   
-Pseudononymous analysis   
-Pseudonym-based decision-making   
-Research and development   
-3\. Dispute Resolution  
-If you think we have not followed our privacy policy in some way, or have a privacy related issue which you feel we may be able to resolve, please contact us so we can help you to resolve your concern. We will promptly respond to all inquiries. We may be contacted by email at privacy@chocolate.com for this purpose. 
+With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
-4\. Additional Information  
-For information regarding site usage and third party sites linked to by www.chocolate.com, please view the terms of service.
+How Secure Is Information About Me?   
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
 
-This policy is valid for 15 days from the time that it is loaded by a client. 
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
-[Terms Of Service](https://web.archive.org/terms_of_service.html)
+Which Information Can I Access?   
+Chocolate.com gives you access to information about your account and your interactions with Chocolate.com for the limited purpose of updating that information. 
+
+What Choices Do I Have?   
+As discussed, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Chocolate.com features. 
+
+If you do not want to receive e-mail or other mail from us, please email [customerservice@chocolate.com](mailto:customerservice@chocolate.com). If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of [www.chocolate.com](http://www.chocolate.com/), and it is your responsibility to review them for changes. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as 1-Click and New for You if you do not use cookies. 
+
+Children   
+Chocolate.com does not sell products directly to children. If you are under 18, you may purchase products from Chocolate.com only with the involvement of a parent or guardian. 
+
+Conditions of Use, Notices, and Revisions   
+If you choose to visit [www.chocolate.com](http://www.chocolate.com/), your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Massachusetts. If you have any concern about privacy at Chocolate.com, please send us a thorough description to [customerservice@chocolate.com](mailto:customerservice@chocolate.com), and we will try to resolve it. 
+
+Our business does change, and our Privacy Notice and the Conditions of Use may also change. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you may want to check our web site to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. 
+
+We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+ For additional information and/or questions, please email [customerservice@chocolate.com](mailto:customerservice@chocolate.com)
+
+\-- _Chocolate.com Staff_
