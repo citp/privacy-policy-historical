@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617125828id_/http%3A//babynology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223191300id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Babynology.com
-
-Baby names with meaning, boy names, girl names, male , female, mean, words, kids stuff, resources, directory, fun stuff, free games, photo contest, men woman, Australian, Buddhist, Dutch, English, French, German, Greek, Hebrew, Hindu, Iranian, Irish, child, children, Baby names, boys names girls names for African, American, Anglo, Arabic, Italian, Japanese, Latin, Malaysian, Muslim, Parsi, Portuguese, Tamil, name with meaning
-
-| 
-
-| 
 
 **Privacy Statement**
 
@@ -24,5 +18,3 @@ Cookies - Our site uses a feature of your browser to set a "cookie" on your comp
 
 Contact - If you have questions about this Privacy Policy or anything else about Babynology, Contact us.  
 
-
-| 
