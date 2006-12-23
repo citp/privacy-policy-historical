@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620084102id_/http%3A//www33.rockyou.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223055720id_/http%3A//www74.rockyou.com/privacypolicy.php) for the most accurate reproduction.*
 
-# RockYou.com
+# RockYou.com - photo sharing, MySpace slideshows, MySpace codes, MySpace music
 
 ## **RockYou! Privacy Policy**
 
