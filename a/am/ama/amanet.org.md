@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305115946id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223145426id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 Your privacy on the Internet is important to American Management Association International (“AMA”). This privacy statement discloses AMA’s privacy practices for “Personally Identifiable Information” (that is, information that identifies you or a third party) that is transmitted electronically to AMA via this Website, and addresses the following items:
 
@@ -16,7 +14,7 @@ Your privacy on the Internet is important to American Management Association Int
 **Collection and Use**  
 AMA does not collect any Personally Identifiable Information from you except when you expressly volunteer the information. This includes when you: 
 
-  * Register for a seminar, become a Member, purchase or download an AMA product or service. 
+  * Register for a seminar, become a Member, purchase or download an AMA product or service.
   * Request information (electronically or via US Mail) about AMA's products and services, subscribe to newsletters, or enter a promotional contest. 
   * Use various tools to select AMA products and services that are suitable for your Website visit. 
   * Request contact with an AMA sales representative. 
@@ -63,7 +61,7 @@ This AMA privacy statement applies solely to information collected by the AMA We
 This Website takes reasonable precautions to protect Personally Identifiable Information submitted to AMA via its Website. When possible, Personally Identifiable Information is encrypted and protected using SSL software. To learn more about SSL, [follow this link ](http://www.verisign.com/). If you have any questions about privacy at the AMA Website, please send an e-mail to [privacy@amanet.org](mailto:privacy@amanet.org).
 
 **Correction/Updating Personal Information**  
-If your Personally Identifiable Information changes (such as a zip code), or if you no longer desire our service, we will provide a way to correct, update or remove that Personally Identifiable Information. This can be done through the Website at [www.amanet.org/service](http://www.amanet.org/service/index.htm) or by calling AMA Customer Service at 1-800-262-9699. AMA Members can also update Personally Identifiable Information from the “Your Member Account” page. 
+If your Personally Identifiable Information changes (such as a zip code), or if you no longer desire our service, we will provide a way to correct, update or remove that Personally Identifiable Information. This can be done through the Website at [www.amanet.org/service](https://web.archive.org/web/20061223145426id_/http%3A//www.amanet.org/service/index.htm) or by calling AMA Customer Service at 1-800-262-9699. AMA Members can also update Personally Identifiable Information from the “Your Member Account” page. 
 
 If you wish to review the data we have on file about you, please send a written request with a check payable to American Management Association for $10 (handling fee) to Database Services Center, P.O. Box 319, Saranac Lake, NY 12983. 
 
@@ -73,8 +71,4 @@ If we decide to change our privacy policy, we will post those changes in the Pri
 **Problems or Complaints**  
 If you believe that there has been a violation of the terms of this policy, please contact us at [privacy@amanet.org.](mailto:privacy@amanet.org) We will investigate and take appropriate action, and report back to you within a reasonable period of time. 
 
-_Last updated 07-30-04_  
-
-
-|  |  |   |    
----|---|---|---|---|---
+_Last updated 07-30-04_
