@@ -1,154 +1,157 @@
-> *The following text is extracted and transformed from the jibe.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214215443id_/http%3A//jybe.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibe.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223100306id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
 
-# JYBE - Join Your Browser with Everyone
+# Domain name and e-mail account questions answered here
 
-|  |  |  |    |  Privacy Policy   
----|---  
-|    | 
+#### Find Answers To Your Questions:
 
-This document sets forth the privacy policy (the “Privacy Policy”) of Advanced Reality, Inc. (AR), a Delaware corporation (“AR”) for the AR Network. (together with other services provided by AR, the “Services”), AR 2.0 (together with all prior and subsequent versions, and all patches and updates thereto, the “Software”), and the Web site, [ www.advancedreality.com](http://www.advancedreality.com/) (including all sub pages thereto, the “Site”). The Privacy Policy forms part of the License agreement and term of service.
+Search by keyword or browse by category for immediate answers to frequently asked questions: 
 
-Please be aware that AR’s Services, Software, and Site are not intended for and may not be used by children under the age of 13, nor may they be used to solicit or collect any information from children under the age of 13\. If you have objections to the Privacy Policy, you should not access or use the Site nor should you sign up for the Services offered by AR.
+### Privacy Policy
 
-Any capitalized terms used and not defined in the Privacy Policy are defined in the Terms of Service. 
+**Why A Privacy Policy?**  
 
-AR’s Privacy Principles: 
+  
+Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-> • AR’s products do not put any tracking cookies on Your hard drive  
->  • At any time, you may add, delete, or modify Your Information  
->  • AR will not update or modify Your Information without your permission.  
->  • AR will not sell, exchange, or otherwise share Your Information with third parties, unless required by law or in accordance with your instructions.  
->  • AR does not send spam, maintain spam mailing lists, or support the activities of spammers.  
->  • You may cancel your service and this agreement at any time by uninstalling the software and sending an email notification to [ cancel@advancedreality.com](mailto:cancel@advancedreality.com).  
->  • You own your information  
->  • You decide who will have access to it.  
->  • You maintain ownership rights to Your Information, even if there is a business transition or policy change.  
-  
----|---  
-|    |  Information Collection and Use  
----|---  
-  
-AR Members—Your Information.   
-When you download BB 2.0, you provide us with “Your Account Information,” described in detail below (together, “Your Information”). 
+ **This Privacy Policy protects your privacy by:**
 
-> • Your Account Information: Your name and your e-mail address are required by AR in order to provide you with the Software and Services. AR will also ask you to provide a private password which will become part of Your Account Information. AR only uses this to enable the user to access a forum at: http://www.advancedreality.com/ar/products/cobrowse/forum/default.asp. 
+ **Informing you about:**
 
-We use Your Information to enable you to use the Software and Services. Specifically: 
+  * The types of personal information Network Solutions collects about you through its Web sites; 
+  * How it collects that information; 
+  * The general purposes for which it collects such information; 
+  * The types of organizations to which it discloses the information; 
+  * The choices and means by which individuals may limit its use and disclosure. 
 
-> • Your Account Information: This information is stored on AR’s secure servers and is not shared with any outside parties. The purpose of the password is to enable AR’s users to access secure forums and for the use of future AR premium services. If you forget your password, you will be asked to go on the AR Web site, answer your security question and create a new password. A confirmation e-mail will be sent to the registered e-mail address you specify. No plain text passwords will ever be passed through e-mail. 
 
-Additionally, we may use Your Account Information: 
 
-> • To validate you as a user when connected to the AR service  
->  • For license reporting and assessment of service levels;  
->  • To better understand on an aggregated basis how our products are used, gauge traffic patterns and determine what types of content and services are most popular with users of our products and services;  
->  • To verify access rights to content, services or software;  
->  • To provide you with information about AR products, services, news and events through the Software, the Site or e-mail;  
->  • To allow you to purchase and download AR products and services; and/or  
->  • To provide you with personalized content programming, instructions and services.  
->  Also, for members ordering premium AR Services, we may also collect credit card and billing information to complete the request. AR does not permanently store this information and the information is removed once the transaction has been completed.   
-  
-|    |  Opt-out Users—“Permanent Opt-out Information”   
----|---  
-ou may opt-out of from receiving AR Update Request e-mails sent by AR members. When you register for permanent opt-out, you provide us with a validated e-mail address at which you no longer wish to receive AR information. If necessary, we will send you an opt-out confirmation e-mail to the address you enter. You must respond to that e-mail to complete the opt-out process. This information will only be used to honor your opt-out request and not be shared with any third-party. Opt-out users may change or delete their information by contacting AR at [info@advancedreality.com](mailto:info@advancedreality.com).  
-  |  Limited Data Sharing with Third Parties   
----|---  
-  
-AR is committed to protecting your privacy. We will only share Your Information with third parties in accordance with your instructions and in order to provide you specific services. We may share aggregated and anonymous demographic information with our business partners but no such information can be linked directly to Your Account Information. 
+**Empowering you to choose:**
 
-Although we will use every reasonable effort to preserve your privacy (and that of your contacts), we may need to disclose Your Information, including personally identifiable information, when required by law if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on AR and/or the Site (see Government Authority below for more information). We will notify you of such actions where reasonable and permitted by law.   
-  
-  |  **4\. Children**  
----|---  
-  
-(a) AR is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. AR's Services and Software are not intended for and may not be used by children under the age of 13. AR does not knowingly collect information from children under the age of 13 and AR does not target its Services and Software to children under 13. 
+  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
+  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
-(b) If you are 13 or younger, you are prohibited from downloading the Software and/or using the Services. If laws in your country prohibit you from entering into a valid and enforceable agreement with us because of your age – in many countries, because you are under 18 years of age - you are prohibited from downloading the Software and using the Services. 
 
-(c) BY USING THE SERVICES, YOU WARRANT TO AR THAT YOU ARE ABOVE THE AGE OF 13 AND ENTITLED TO ENTER INTO A VALID AND ENFORCEABLE AGREEMENT WITH US.   
-  
-  |  **Rights to Your Information**  
----|---  
-  
-You have the right to access, correct, update, and/or delete Your Information at any time. You can do so by using the Software or by logging into the Site with your username and password. You will retain these rights even in the event of a business transition (see Change of Ownership or Other Business Transition section for more information). 
 
-Changes to your information are typically executed immediately. For example, if you delete your account, your account immediately becomes inaccessible and all Your Information within your account is completely removed from the AR Servers.   
-  
-  |  Change of Ownership or Other Business Transition   
----|---  
-  
-In the event AR goes through a business transition, such as a merger, acquisition or the sale of all or substantially all of its assets (a “Business Transition”), your membership in the AR Network™ and the AR servers containing Your Information will, in most instances, be part of the assets transferred. In such event, you will be notified via e-mail and/or through a notice on our Web site and any other appropriate methods prior to the Business Transition, and AR’s custody of Your Information will be transferred subject to all the terms and restrictions in this Privacy Policy.
+**Assuring you that Network Solutions:**
 
-Following a Business Transition, AR or its successors will continue to use Your Information in accordance with the Privacy Policy under which the information was collected. If, however, we plan to use Your Information in a manner different from that stated at the time of collection we will notify you via e-mail and/or through a notice on our Web site and any other appropriate methods. You will have a choice as to whether or not we use Your Information in this different manner. Whether or not you wish to have Your Information used in this different manner, you will retain ownership rights to Your Information and the ability to delete Your Information at any time. Please note, if you have deleted or deactivated your account with the Services or are an opt-out User, then you will not be contacted, nor will Your Information be used in this different manner.   
-  
-  |  Cookies   
----|---  
-  
-AR’s product for collaborative browsing is NOT a spy ware application and does not place any cookies onto your hard drive. AR’s products and services only gather information when you are using the AR co browse service. When not using our service, there is no information being gathered about you or your computer. This policy is one that AR will continue to honor regardless of merger or business transaction.
+  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
+  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
+  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
+  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
-Log Files and Backups
 
-Like most Internet services, we use log files, both on the client and server side. The data held in log files includes your IP address, browser type, e-mail application, Internet service provider (“ISP”), referring/exit Web pages, computer platform type, date/time stamp, and user activity. AR uses server log data to analyze trends, administer the Services and the Site, and improve service levels. IP addresses are not tied to any Personally Identifiable Information.
 
-The Software has associated log and temporary files that are stored on your local hard drive and on AR’s servers. These files store Your Account Information, your permissions, preference settings, system notifications as well as other data necessary to operate the AR browser plug-in. Your Information resides on AR’s servers, unless you have chosen to disable the Software in which case your information will be deleted permanently from our servers.
+**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
 
-Your Information may also exist temporarily within regularly performed server backups. AR retains backups for a period no greater than 30 days before deleting them.   
   
-  |  Software User Communications   
----|---  
-  
-We may send all new Members confirmation e-mails verifying the ownership of the e-mail addresses provided in Your Account Information. We also communicate with you to provide requested services and in regard to issues relating to your account.
+**Third Party Advertising and Cookies**
 
-Members may occasionally receive information on AR products, services, news and events. Out of respect for your privacy, we present you with the option to not receive these communications. This option is offered at time of download but can be changed by sending an email to [accountupdate@advancedreality.com](mailto:accountupdate@advancedreality.com).
+We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-On rare occasions it is necessary to send out a strictly service-related announcement which is not promotional in nature. This announcement may notify you of changes to the Privacy Policy and/or Terms of Service Agreement, as well as planned service suspensions and outages. Generally, you may not opt-out of these communications, though you can deactivate your account. These notifications will generally be sent to a validated e-mail address for your account.   
-  
-  |  **Links**  
----|---  
-  
-The Site contains, and the Software may present, links to other sites. Please be aware that AR is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave the Site or otherwise link to other sites, to read the privacy policies of each and every site that collects personally identifiable information. AR’s Privacy Policy applies solely to information collected by the Services, the Software or the Site.
+[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-The Site contains links to AR’s Forums which provide interactive venues for members and others to learn more about AR, receive support from other members, and send us feedback. To use these venues, you do not have to be a AR member, but may be required to provide user registration information (Login name, password, and email) in order to post to these sites. All other profile information is optional. The complete forum url is [http://www.advancedreality.com/ar/products/cobrowse/forum/default.asp](http://www.advancedreality.com/ar/products/cobrowse/forum/default.asp).
+Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.   
-  
-  |  Children’s Privacy   
----|---  
-  
-AR is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. AR’s Services, Software and Site are not intended for and may not be used by children under the age of 13. AR does not knowingly collect information from children under the age of 13 and AR does not target its Services, Software and Site to children under 13.   
-  
-  |  Safe Harbor Principles and the EU Directive   
----|---  
-  
-AR is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce’s Safe Harbor Web site](http://www.export.gov/safeharbor/).   
-  
-  |  **Government Authority**  
----|---  
-  
-You should be aware that, as with all legal contracts, our Terms of Service and this Privacy Policy could be amended, terminated or modified without the consent of you and/or AR by judicial proceeding, court order, in connection with bankruptcy or other insolvency proceedings, or pursuant to other government action. When reasonable and lawful, we will notify you if this occurs.   
-  
-  |  **Security and Confidentiality**  
----|---  
-  
-> • If you forget your password, you will be asked to go on the AR Web site, answer your security question and create a new password. No plain text passwords will ever be passed through e-mail.  
->  • Your Web-based access to Your Information is protected by an encrypted password. We recommend that you do not disclose your password to anyone.  
->  • Additionally, Your Information resides on a firewall-protected server that only selected AR personnel have access to via password. AR strives to prevent unauthorized parties from viewing Your Information.  
->  • All browsing information that is passed via the AR server is not SSL encrypted. However, the data that is being passed is pushed via standard Windows protocols that cannot be compromised. Co browse users are only accessing sites that would be otherwise accessed via normal web browsing activities. Future release of AR’s software will be SSL encrypted as more security is needed.   
-  
-  |  Changes to the AR Privacy Policy  
----|---  
-  
-If we change the Privacy Policy, we will post the new Privacy Policy on the Site with a link from the Site’s homepage, so that you are always aware of what information we collect, how we use it, and under what circumstances—if any—we disclose it. Any substantive changes to the AR Privacy Policy will be posted 30 days prior to taking effect.
+[here](http://www.privacychoices.org/).   
+**Information Corrections or Changes** **  
+**  
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at<https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
 
-We will use Your Information in accordance with the Privacy Policy under which the information was collected. If, however, we plan to use Your Information in a manner different from that stated at the time of collection we will notify you via e-mail and/or through a notice on our Web site and any other appropriate methods and you will have a choice as to whether or not we use Your Information in this different manner. Whether or not you wish to have Your Information used in this different manner, you will retain ownership rights to Your Information and the ability to delete Your Information at any time. Please note, if you have deleted or deactivated your account with the Services or are an opt-out User, then you will not be contacted, nor will Your Information be used in this different manner.   
-  
-  |  Contacting Us  
----|---  
-  
-If you have any questions or suggestions regarding the Privacy Policy, please contact us at [info@advancedreality.com](mailto:info@advancedreality.com).
+**How We Put Information to Good Use** **  
+**  
+We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
 
-Advanced Reality, Inc. (AR)   
-2001 Herman Drive  
-Houston, Texas 77004   
+We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+
+Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+
+ **Getting to Know Our Customers**
+
+Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+
+[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+
+After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+
+For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+
+The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+
+**With Whom We May Share Information** **  
+**  
+Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+
+When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+
+We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect  that you or your agent is using  our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+
+Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+
+a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+
+b.       Click “Edit User Info” in the left menu;
+
+c.       Scroll to the bottom of the page;
+
+d.       Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+
+e.       Click “SAVE.”
+
   
- 
+Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+
+ **How Do I Get My Name Removed from Bulk Access** **  
+**  
+As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+
+a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+
+b.       Click “Edit User Info” in the left menu;
+
+c.       Scroll to the bottom of the page;
+
+d.       Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+
+e.       Click “SAVE.” 
+
+**Our Accountability to You** **  
+**  
+By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+
+In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+
+**Employee Accountability** **  
+**  
+Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+
+Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+
+**The Accountability of Network Solutions' Agents and Business Partners** **  
+**  
+Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+
+If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+
+[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+
+Network Solutions, LLC  
+Attention: General Counsel  
+13861 Sunrise Valley Dr   
+Suite 300   
+Herndon  VA  20171   
+United States  
+(703) 668-4600 
+
+**Notification of Changes** **  
+**  
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to
+
+[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+
+ **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
