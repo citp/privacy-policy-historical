@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195647id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223105430id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ConsumerAffairs.Com Privacy Policy
 
 This is the web site of **ConsumerAffairs.Com Inc.** Our postal address is: 
 
 > ConsumerAffairs.Com  
->  1601 Cloverfield Blvd., 2nd Floor, South Tower  
->  Santa Monica CA 90404  
-> 
+>  11400 West Olympic Boulevard, Suite 200  
+>  Los Angeles, CA 90064
 
-We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20060616195647id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
+We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20061223105430id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
