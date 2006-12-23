@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616173139id_/http%3A//gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223093555id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
 
 # Gas Powered Games -- Privacy Policy
 
