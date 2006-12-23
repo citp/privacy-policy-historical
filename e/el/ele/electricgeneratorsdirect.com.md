@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621104650id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223222947id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Electric Generators Direct.com - Your Online Emergency Generator Superstore
 
+  
 **Privacy Policy - Power Equipment Direct, Inc.**
 
 **1) General**   
