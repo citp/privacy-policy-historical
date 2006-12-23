@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsnetworking.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621063235id_/http%3A//www.windowsnetworking.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsnetworking.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223043720id_/http%3A//www.windowsnetworking.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,8 +45,3 @@ If you wish to update or correct your personal information, please use our conta
 If our information practices change in a significant way, we will post and highlight the policy changes.
 
 _This privacy policy has last been updated on 26 April 2006._
-
-## Featured Links*
-
-
-
