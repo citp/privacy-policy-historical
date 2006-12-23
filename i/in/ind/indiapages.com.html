@@ -1,0 +1,151 @@
+<!--The following is the downloaded HTML source of the indiapages.com privacy policy that was archived on 2006-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061223023147id_/http%3A//www.indiapages.com/privacy.shtml) for the most accurate reproduction.-->
+
+<html><head>
+<title>IndiaPages.com</title>
+<link rel="stylesheet" href="indiapages-css/indiapages.css"></head>
+
+
+<body>
+
+<!-- Start of Header Table-->
+	<script language="javascript" src="indiapages-js/othercityview.js"></script>
+
+	<div style="width:778px;background-color:#FFD800;">
+	<div style="background-color:#FFD800;">
+	<div id="logo"><a href="http://www.indiapages.com/"><img src="images/india-pages-logo.gif" width="242" height="67" vspace="5" hspace="5" border="0"></a></div>
+	<div id="bmenter"><font class="bm">A BharatMatrimony Enterprise</font></div>
+	</div>
+	</div>
+	<div style="background-color:#FFD800;width:778px;"><img src="images/trans.gif" width="778" height="80"></div>
+
+	
+	<div style="width:778px;height:20px;">
+	<div id="topmenu" style="text-align:middle;">
+	<ul><li><a href="index.php">Home</a></li>&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="http://dir.indiapages.com/" target="_blank">Directory</a></li>&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="member/memregister.php">Register</a></li>&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="member/login.php">Login</a></li>&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="javascript:popup('word')" id="word">Change Location</a></li>&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+	</div>
+	<div id="popup" style="width:150px;height:80px;border:1px dashed orange;text-align:left; color:#333333;visibility:hidden;position:absolute;background-color:#EFEFEF;padding-left:5px;">
+	<a href="cityresults.php?City=Mumbai&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Mumbai</u></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="cityresults.php?City=Delhi&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Delhi</u></font></a><br>
+	<a href="cityresults.php?City=Chennai&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Chennai</u></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="cityresults.php?City=Hyderabad&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Hyderabad</u></font></a><br>
+	<a href="cityresults.php?City=Bangalore&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Bangalore</u></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="cityresults.php?City=Kolkata&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Kolkata</u></font></a><br>
+	<a href="cityresults.php?City=Cochin&amp;start=1" class="blacklink"><font color="#DD2F00"><u>Cochin</u></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+	</div>
+	<div style="height:1px;background-color: #E5E5E5;"><img src="images/trans.gif" width="778" height="1"></div>
+	</div>
+
+
+<!-- End of Header Table-->
+<br style="line-height:10px">
+
+<!-- Start of Top Search Table -->
+<script language="javascript" src="indiapages-js/city.js"></script>
+<script language="javascript" src="indiapages-js/category.js"></script>
+
+<script language="javascript">
+function trimAll(sString)
+{
+	while (sString.substring(0,1) == ' ')
+	{
+		sString = sString.substring(1, sString.length);
+	}
+	while (sString.substring(sString.length-1, sString.length) == ' ')
+	{
+		sString = sString.substring(0,sString.length-1);
+	}
+	return sString;
+}
+
+function topsearchvalidate()
+{
+var keysearch1 = this.document.keysearch1;
+if (trimAll(keysearch1.keyword.value) == "" )
+{
+alert( "Please enter Keyword." );
+keysearch1.keyword.focus( );
+return false;
+}
+if (trimAll(keysearch1.keycity.value) == "" )
+{
+alert( "Please enter City or Area." );
+keysearch1.keycity.focus( );
+return false;
+}
+return true;
+}
+</script>
+
+
+<div style="padding-left:15px;">
+
+<div style="width:750px;text-align:right;padding-bottom:5px;">
+<font class="normaltxt1">Currently information is available for 7 major cities : 
+<a href="http://www.indiapages.com/cityresults.php?City=Mumbai&amp;start=1" class="blacklink"><u>Mumbai</u></a>,&nbsp;<a href="http://www.indiapages.com/cityresults.php?City=Delhi&amp;start=1" class="blacklink"><u>Delhi</u></a>,&nbsp;
+<a href="http://www.indiapages.com/cityresults.php?City=Chennai&amp;start=1" class="blacklink"><u>Chennai</u></a>,&nbsp;
+<a href="http://www.indiapages.com/cityresults.php?City=Bangalore&amp;start=1" class="blacklink"><u>Bangalore</u></a>,&nbsp;
+<a href="http://www.indiapages.com/cityresults.php?City=Cochin&amp;start=1" class="blacklink"><u>Cochin</u></a>,&nbsp;
+<a href="http://www.indiapages.com/cityresults.php?City=Hyderabad&amp;start=1" class="blacklink"><u>Hyderabad</u></a>,&nbsp;
+<a href="http://www.indiapages.com/cityresults.php?City=Kolkata&amp;start=1" class="blacklink"><u>Kolkata</u></a>
+</font></div><font class="normaltxt1">
+</font>
+<div style="width:750px;border: 1px solid #FFF02F; background-color: #FFFCDD;text-align:center;">
+<form name="keysearch1" action="keysearch_results.php?start=1" method="post" onsubmit="return topsearchvalidate();">
+<div style="text-align:left;padding-left:10px;padding-top:3px;">
+<font class="normaltxt1"><font color="#333333"><b>Keyword Search</b></font>&nbsp;(<a href="allcategories.php" class="bluelink"><u>Browse</u></a>)<img src="images/trans.gif" width="150" height="5"><font class="normaltxt1"><font color="#333333">&nbsp;&nbsp;&nbsp;<b>City or Area</b></font></font></font></div><font class="normaltxt1"><font class="normaltxt1">
+<div style="text-align:left;padding-left:7px;padding-top:3px;"><input class="textbox" size="40" name="keyword" value=""><img src="images/trans.gif" width="25" height="5"><input class="textbox" size="25" name="keycity" value=""><input type="image" src="images/submit-button.gif" width="73" height="23" style="vertical-align:bottom" hspace="10"></div>
+<div style="text-align:left;padding-left:7px;padding-top:5px;">Category or Business Name (e.g. Hotel or Holiday Inn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font class="normaltxt1"><font color="#333333">More search options :</font><img src="images/trans.gif" width="8" height="5"><a href="search.php?opt=adv" class="bluelink"><u>Advanced Search</u></a><img src="images/trans.gif" width="15" height="5"><a href="allcategories.php" class="bluelink"><u>Category Search</u></a></font></div><font class="normaltxt1">
+<div style="background-color:#FFFCDD"><img src="images/trans.gif" width="750" height="5"></div>
+</font></font></font></form></div><font class="normaltxt1"><font class="normaltxt1"><font class="normaltxt1">
+</font></font></font></div><font class="normaltxt1"><font class="normaltxt1"><font class="normaltxt1">
+
+
+<!-- End of of Top Search Table-->
+<!-- Start of Middle Part Area -->
+<div style="padding-left:7px;padding-top:7px;">
+	<!--<div style="width:590px;text-align:left;padding-left:2px;padding-top:3px;padding-bottom:3px;" class="normaltxt1"><font color="#333333"><a href="/index.php" class="blacklink">Yellow Pages</a></font> <font class="normaltxt2">>></font> <font class="bluelink"><b>Terms & Conditions</b></font></div>-->
+	<div style="width:750px;text-align:left;padding-left:2px;padding-top:3px;padding-bottom:3px;">
+
+	<p class="content" style="padding-top:5px;padding-right:5px;">
+	IndiaPages.com is committed to safeguarding your privacy online. The following policy acts as a guide inenabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
+
+	</p><p class="content" style="padding-top:5px;padding-right:5px;">
+	<b>What kind of personal information will be collected from you?</b><br><img src="images/trans.gif" width="5" height="5"><br>
+	When you register on IndiaPages.com, personal data such as name, email id, address, phone number are required. On registration you will receive a unique user name that will give you complete access to IndiaPages.com In addition we may ask you for personal information at other times, including (but not limited to) when you place ads or use other features of the IndiaPages.com
+
+	</p><p class="content" style="padding-top:5px;padding-right:5px;">
+	<b>How is your information used?</b><br><img src="images/trans.gif" width="5" height="5"><br>
+	IndiaPages.com collects your personal information to provide you with a customized experience and to assist your navigation throughout the IndiaPages.com
+
+	</p><p class="content" style="padding-top:5px;padding-right:5px;">
+	<b>Who collects your information?</b><br><img src="images/trans.gif" width="5" height="5"><br>
+	The personal information you furnish to IndiaPages.com will not be disclosed to anyone unless it is specifically stated otherwise. But some activities will, by their very nature, result in your personal information being revealed to other users.
+
+	</p><p class="content" style="padding-top:5px;padding-right:5px;">
+	<b>With whom your information may be shared?</b><br><img src="images/trans.gif" width="5" height="5"><br>
+	IndiaPages.com will not disclose your personal information except when we have your permission or under special circumstances.<br><img src="images/trans.gif" width="5" height="7"><br>
+	IndiaPages.com may disclose account information only when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the IndiaPages.com or may be causing injury to or interference to its rights or property, other users, or anyone else that could be harmed by such activities. IndiaPages.com may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.<br><img src="images/trans.gif" width="5" height="7"><br>
+	The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information<br><img src="images/trans.gif" width="5" height="7"><br>
+	Other than the administrator of the IndiaPages.com or other authorized personnel of IndiaPages.com you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access.<br><img src="images/trans.gif" width="5" height="7"><br>
+	We recommend that you do not divulge your password to anyone. IndiaPages.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session in the IndiaPages.com This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.<br><img src="images/trans.gif" width="5" height="7"><br>
+	Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, IndiaPages.com cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.<br><img src="images/trans.gif" width="5" height="15"><br>
+
+	<b>What else should you know about your online privacy?</b><br><img src="images/trans.gif" width="5" height="5"><br>
+	Please keep in mind that whenever you voluntarily disclose personal information online that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+
+</p></div>
+</div>
+
+<!-- End of Middle Part Area -->
+
+<br><br><br>
+<div id="footer">
+<div style="width:778px;background-color:#FFF000"><img src="images/trans.gif" width="150" height="1"></div>
+<div style="padding-top:5px;padding-left:300px;padding-bottom:10px;padding-top:10px;">
+<a href="http://www.indiapages.com/terms.shtml" class="footerlink"><font color="#666666">Terms &amp; Conditions</font></a>&nbsp;
+<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="http://www.indiapages.com/privacy.shtml" class="footerlink"><font color="#666666">Privacy Policy</font></a>&nbsp;<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="http://www.indiapages.com/faq.shtml" class="footerlink"><font color="#666666">FAQs</font></a>&nbsp;<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="http://www.indiapages.com/contactus.shtml" class="footerlink"><font color="#666666">Contact Us</font></a><br><img src="/images/trans.gif" width="1" height="3"><br></div>
+<div style="width:770px:padding-top:5px;padding-left:90px;padding-bottom:10px;" class="normaltxt1">Partners:<img src="images/trans.gif" alt="" width="7" height="1"><a class="footerlink" href="http://www.bharatmatrimony.com" title="Indian Matrimonial" target="_blank">Matrimonial</a><img src="indian-classified//images/trans.gif" alt=" " width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font><img src="indian-classified//images/trans.gif" alt="" width="5" height="1"><a class="footerlink" href="http://www.indiaautomobile.com" title="India Automobile" target="_blank">India Automobile</a><img src="/images/trans.gif" alt=" " width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font><img src="/images/trans.gif" alt="" width="5" height="1"><a class="footerlink" href="http://www.clickjobs.com" title="India's Premium Jobs Portal" target="_blank">India Jobs</a></font><img src="/images/trans.gif" alt=" " width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font></font><img src="indian-classified//images/trans.gif" alt="" width="5" height="1"><a class="footerlink" href="http://www.indiaproperty.com" title="Comprehensive Property Portal" target="_blank">Properties In India</a><img src="indian-classified//images/trans.gif" alt="" width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font></font><img src="indian-classified//images/trans.gif" alt="" width="5" height="1"><a class="footerlink" href="http://www.indialist.com" title="Free Indian Classifieds" target="_blank">Free Indian Classifieds</a><img src="indian-classified//images/trans.gif" alt="" width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font></font><img src="indian-classified//images/trans.gif" alt="" width="5" height="1"><a class="footerlink" href="http://www.bharatbloodbank.com" title="Blood Bank" target="_blank">BharatBloodbank</a></font></div><font class="normaltxt1">
+<div style="padding-top:5px;padding-left:185px;padding-bottom:10px;padding-top:10px;"><font class="smalltext"><font color="#999999">&nbsp;Copyright © IndiaPages.com 2006 - Free <a href="http://www.indiapages.com/" title="Yellow Pages of India"><strong><font color="#999999">Indian Yellow Pages</font></strong></a>. All rights reserved.<br></font></font></div>
+</font></div><font class="normaltxt1">
+
+
+
+</font></font></font></font></body></html>
