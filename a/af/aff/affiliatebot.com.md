@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616122637id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223180122id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
 
 # AffiliateBot.com - Privacy Policy
 
@@ -14,10 +14,10 @@ Consumer Privacy l Client Privacy
 
 **I. INFORMATION COLLECTED FROM THE SITE USERS**
 
-**A. Personally Identifiable Information (hereafter referred as “PII”).**   
+**A. Personally Identifiable Information (hereafter referred as "PII").**   
 The AffiliateBot.com Site is designed to promote and facilitate the AffiliateBot.com affiliate marketing programs with merchants and affiliates. AffiliateBot.com does not collect any PII from individual Internet consumers unless they contact AffiliateBot.com on his/her own initiative or respond to an AffiliateBot.com advertisement and provide any PII. AffiliateBot.com will not request or collect sensitive PII such as an Internet user's medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
 
-**B. Non-Personally Identifiable Information (hereafter referred as “Non-PII”).**   
+**B. Non-Personally Identifiable Information (hereafter referred as "Non-PII").**   
 The AffiliateBot.com Site uses cookies to keep track of member activities, purchases and other online transactions on this Site and to enhance user experience for online transactions. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to Web sites. These cookies are activated when a user responds to or views an Internet advertisement served by the Site. These cookies provide the Site with information for the purpose of paying third-parties commissions when certain actions are generated on the Advertiser's Web Site. Non-PII does not enable AffiliateBot.com to personally identify an Internet user. AffiliateBot.com reserves the right to retain all ad delivery and reporting data as long as reasonably necessary for accounting and audit purposes. 
 
 **II. SHARING OF INFORMATION**
@@ -46,9 +46,9 @@ AffiliateBot.com is very sensitive on the issue of children's privacy and strive
 
 **VI. SPAM POLICY**
 
-AffiliateBot.com is committed to professional and ethical Internet practices and prohibits any “e-mail spam” of any kind by AffiliateBot.com or our partners, merchants, affiliates and any other entities or individuals associated with us. We however, cannot fully guarantee a “spam free” experience to our users as we do not control the activities of our partners, merchants, affiliates and any other entities or individuals associated with us. 
+AffiliateBot.com is committed to professional and ethical Internet practices and prohibits any Â“e-mail spamÂ” of any kind by AffiliateBot.com or our partners, merchants, affiliates and any other entities or individuals associated with us. We however, cannot fully guarantee a Â“spam freeÂ” experience to our users as we do not control the activities of our partners, merchants, affiliates and any other entities or individuals associated with us. 
 
-Please note that an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Should you experience any “e-mail spam” as a result of using this Site, look for the opt-out mechanism to unsubscribe yourself and if necessary, contact us here. 
+Please note that an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Should you experience any "e-mail spam" as a result of using this Site, look for the opt-out mechanism to unsubscribe yourself and if necessary, contact us here. 
 
 **CONTACT US**
 
@@ -58,10 +58,10 @@ If you have questions or concerns regarding the AffiliateBot.com Privacy Policy,
 
 **I. INFORMATION WE COLLECT FROM MERCHANTS AND AFFILIATES**
 
-**A. Personally Identifiable Information (hereafter referred as “PII”).**   
+**A. Personally Identifiable Information (hereafter referred as "PII").**   
 AffiliateBot.com collects PII from all Merchants and Affiliates who wishes to work with AffiliateBot.com as the collection of this information is a part of our normal business practices. Merchants will be asked to provide personally identifiable data during the sign up and registration process. Examples of personally identifiable data that may be requested include name, address, phone number, email address, and social security number, tax ID number, etc. AffiliateBot.com will not request or collect from our Merchants and Affiliates sensitive PII such as medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
 
-**B. Non-Personally Identifiable Information (hereafter referred as “Non-PII”).**  
+**B. Non-Personally Identifiable Information (hereafter referred as "Non-PII").**  
 AffiliateBot.com may use cookies and log files to optimize and personalize the Merchants' and Affiliates' experience and allow AffiliateBot.com to monitor site traffic patterns. 
 
 **II. SHARING OF INFORMATION**
@@ -88,6 +88,6 @@ AffiliateBot.com reserves the exclusive right to modify or update this Privacy P
 
 If you have questions or concerns regarding the AffiliateBot.com Privacy Policy, please contact us here. 
 
-Published April 26th, 2006 Copyright © 2006, AffiliateBot.com All rights reserved. 
+Published April 26th, 2006 Copyright Â© 2006, AffiliateBot.com All rights reserved. 
 
 **I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE LISTED PROVISIONS CONTAINED HEREIN.**
