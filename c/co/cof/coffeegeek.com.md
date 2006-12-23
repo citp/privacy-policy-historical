@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511194034id_/http%3A//coffeegeek.com/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223123059id_/http%3A//coffeegeek.com/resources/privacy) for the most accurate reproduction.*
 
 # CoffeeGeek - CoffeeGeek Privacy Policies
 
