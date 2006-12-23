@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001525id_/http%3A//www.uofaweb.ualberta.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223090521id_/http%3A//www.uofaweb.ualberta.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy - University of Alberta
 
