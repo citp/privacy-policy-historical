@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403102429id_/http%3A//cvwarehouse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223203725id_/http%3A//www.cvwarehouse.com/en_privacy.asp) for the most accurate reproduction.*
 
 # Where candidates meet companies
 
 ##  > privacy statement
 
-Executive Research, operating the CVWarehouse.com candidate portal and the ExecutiveResearch.com website and its company-oriented portal, is registered with the Office of the Commission for Data Protection.
+CVWarehouse NV, operating the [www.cvwarehouse.com](http://www.cvwarehouse.com/) candidate portal and the [CVWarehouse](http://www.cvwarehouse.com/comanylogin) website and its company-oriented portal, is registered with the Office of the Commission for Data Protection.
 
-Contrary to other jobsites, Executive Research never allows any third party to access the personal data of candidates, without the explicit consent of these candidates. This way we assure more privacy and safety of use of such personal information than commonly available in this market space.
+Contrary to other jobsites, CVWarehouse NV never allows any third party to access the personal data of candidates, without the explicit consent of these candidates. This way we assure more privacy and safety of use of such personal information than commonly available in this market space.
 
-All information provided remains private and is solely used for the purposes intended by and as explained on our site. Every company that accesses the company-section of our websites signs a non disclosure agreement and can only view the details of candidates that allow passing on their data to these specific companies. A model of such non disclosure agreement can be provided, by sending a motivated email to [privacy@executiveresearch.com](mailto:privacy@executiveresearch.com).
+All information provided remains private and is solely used for the purposes intended by and as explained on our site. Every company that accesses the company-section of our websites signs a non disclosure agreement and can only view the details of candidates that allow passing on their data to these specific companies. A model of such non disclosure agreement can be provided, by sending a motivated email to [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com).
 
-For any question, complaint or further information regarding this subject, please mail [privacy@executiveresearch.com](mailto:privacy@executiveresearch.com) and we will address your inquiry as soon as we can. Should feel that your inquiry has not been satisfactory addressed, you have the right to contact the Privacy Commission ("Commission de la Protection de la Vie Privée/Commissie voor de Bescherming van de Persoonlijk Levenssfeer") at 1000 Brussels, Hoogstraat 139, 02/2138598.
+For any question, complaint or further information regarding this subject, please mail [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com) and we will address your inquiry as soon as we can. Should feel that your inquiry has not been satisfactory addressed, you have the right to contact the Privacy Commission ("Commission de la Protection de la Vie Privée/Commissie voor de Bescherming van de Persoonlijk Levenssfeer") at 1000 Brussels, Hoogstraat 139, 02/2138598.
 
 ### Which is the information collected? 
 
@@ -18,29 +18,29 @@ We may collect information from our visitors' various points on our website. The
 
 #### 1\. Anonymous Aggregated Information
 
-This is information about all of our visitors collectively, such as what areas of our web site visitors most frequently go to, and the services that they prefer to use. To protect our visitors' rights to privacy, this information is anonymous and aggregated. Therefore no individual cvwarehouse.com or executiveresearch.com user can be individually identified from this information.
+This is information about all of our visitors collectively, such as what areas of our web site visitors most frequently go to, and the services that they prefer to use. To protect our visitors' rights to privacy, this information is anonymous and aggregated. Therefore no individual [www.cvwarehouse.com](http://www.cvwarehouse.com/) user can be individually identified from this information.
 
 #### 2\. Personal data of candidates
 
-Our candidate profile entry and CV upload service offers the opportunity to list your candidature so that Executive Research staff can match it to employers who are searching for the right candidates for their vacancies. Before your details are visible to such third party, you will be contacted by Executive Research to allow us doing so. 
+Our candidate profile entry and CV upload service offers the opportunity to list your candidature so that CVWarehouse NV staff can match it to employers who are searching for the right candidates for their vacancies. Before your details are visible to such third party, you will be contacted by CVWarehouse NV to allow us doing so. 
 
-  1. In case of a "free application", you data are submitted to Executive Research, who will then match your profile to any vacancy with customers known to us. Your data will only be passed on to such other company after you explicitly agreed to.
-  2. When you apply for an online vacancy, your profile will be proposed to the customer that posted that vacancy with us only, unless you flag the option "Yes, I want Executive Research to keep me informed confidentially of future opportunities". With this flag, you allow us to propose other opportunities of other customers to you. Again, your data will only be passed on to such other company after you explicitly agreed to.
+  1. In case of a "free application", you data are submitted to CVWarehouse NV, who will then match your profile to any vacancy with customers known to us. Your data will only be passed on to such other company after you explicitly agreed to.
+  2. When you apply for an online vacancy, your profile will be proposed to the customer that posted that vacancy with us only, unless you flag the option "Yes, I want CVWarehouse NV to keep me informed confidentially of future opportunities". With this flag, you allow us to propose other opportunities of other customers to you. Again, your data will only be passed on to such other company after you explicitly agreed to.
   3. Some companies may ask to link their company website job-section to the opportunities-section on CVWarehouse.com. This case corresponds with 2. above.
 
 
 
-Please visit our [FAQ section](https://web.archive.org/web/20050403102429id_/http%3A//cvwarehouse.com/faq.asp) for more practical information on this topic.
+Please visit our [FAQ section](http://www.cvwarehouse.com/en_faq.asp) for more practical information on this topic.
 
 Your profile and CV will be viewed with all details you have filled in in the application form. Most are mandatory details, marked with an Asterisk (*). You cannot leave these open. As privacy laws may vary, we have foreseen alternative entries for some fields as the hover tips per field (mouse-over) will disclose.
 
 #### 3\. Links to other websites 
 
-The CVWarehouse and Executive Research site may contain links to other websites which are outside the control and/or influence of Executive Research. Executive Research is not responsible for the data protection practices of other websites and/or companies behind them. We thus strongly recommend you to read the privacy policies of such other websites in order to enable you to find out how they may process your personal data, if any. Executive Research is not responsible for the use they may make of your personal data. Although we screen the companies and the opportunities, Executive Research has no control over, and is hence not responsible for the legality, reliability, quality, truth or accuracy of the job offers posted on its website. We encourage you to promptly inform us if you would obtain knowledge of improper or fraudulent practices through websites linked to the sites of Executive Research and/or by companies or persons responsible for or contributing to such practices. The same holds for websites of third-parties that link into our websites.
+[www.cvwarehouse.com](http://www.cvwarehouse.com/) site may contain links to other websites which are outside the control and/or influence of CVWarehouse NV. CVWarehouse NV is not responsible for the data protection practices of other websites and/or companies behind them. We thus strongly recommend you to read the privacy policies of such other websites in order to enable you to find out how they may process your personal data, if any. CVWarehouse NV is not responsible for the use they may make of your personal data. Although we screen the companies and the opportunities, CVWarehouse NV has no control over, and is hence not responsible for the legality, reliability, quality, truth or accuracy of the job offers posted on its website. We encourage you to promptly inform us if you would obtain knowledge of improper or fraudulent practices through websites linked to the sites of CVWarehouse NV and/or by companies or persons responsible for or contributing to such practices. The same holds for websites of third-parties that link into our websites.
 
 #### 4\. Cookies
 
-Cookies are tiny files that your Web browser puts on your hard disk to facilitate surfing the Web. Cookies are typically used to recognize visitors; the Web server can then, for example, check when the visitor last visited the server and what pages they accessed. One of the benefits of cookies for the site user is that you don't need to type in your username and password twice within one and the same session. Executive Research uses session Cookies, to provide for more comfort while accessing our web site. Accordingly, those Cookies are deleted as soon as you log out. However, Executive Research may also use permanent cookies which are not deleted when logging out. If you oppose the use of permanent cookies you can configure your browser to refuse them in the privacy settings of your browser, which may result in some inconveniences while surfing our site.
+Cookies are tiny files that your Web browser puts on your hard disk to facilitate surfing the Web. Cookies are typically used to recognize visitors; the Web server can then, for example, check when the visitor last visited the server and what pages they accessed. One of the benefits of cookies for the site user is that you don't need to type in your username and password twice within one and the same session. [www.cvwarehouse.com](http://www.cvwarehouse.com/) uses session Cookies, to provide for more comfort while accessing our web site. Accordingly, those Cookies are deleted as soon as you log out. However, [www.cvwarehouse.com](http://www.cvwarehouse.com/) may also use permanent cookies which are not deleted when logging out. If you oppose the use of permanent cookies you can configure your browser to refuse them in the privacy settings of your browser, which may result in some inconveniences while surfing our site.
 
 #### 5\. Log Files
 
@@ -48,19 +48,19 @@ In our Log files, we may collect and store Internet Protocol addresses for data 
 
 ### With whom is the collected Information shared?
 
-The bulk of collected information is only available to employees of Executive Research, who have signed a specific non-disclosure agreement concerning the disclosure of these data. We do not forward personal information to third parties, with the exception of data for which you have given explicit permission to disclose. We may use anonymous traffic numbers which we may disclose to our clients and the public.
+The bulk of collected information is only available to employees of CVWarehouse NV, who have signed a specific non-disclosure agreement concerning the disclosure of these data. We do not forward personal information to third parties, with the exception of data for which you have given explicit permission to disclose. We may use anonymous traffic numbers which we may disclose to our clients and the public.
 
-Our Website is hosted from a server that is being maintained by ALP Business Service Management Ltd., who have access to our databases to ensure the contractual maintenance, but cannot access login and password protected areas and have signed a non-disclosure agreement with us. If and insofar as this is necessary for technical administration and maintenance, Executive Research may thus technically forward your data to ensure optimal use of our systems.
+Our Website is hosted from a server that is being maintained by First Served NV, who have access to our databases to ensure the contractual maintenance, but cannot access login and password protected areas and have signed a non-disclosure agreement with us. If and insofar as this is necessary for technical administration and maintenance, CVWarehouse NV may thus technically forward your data to ensure optimal use of our systems.
 
 ### With whom is the Personal Profile information shared?
 
-The information contained in your contact details is only made available to potential employers with your active consent. We will not release personal information under any other circumstances. Today, your profile is only accessible on the [www.executiveresearch.com](http://www.executiveresearch.com/) site in the company login section, by employers after entering a contractual relationship with Executive Research.
+The information contained in your contact details is only made available to potential employers with your active consent. We will not release personal information under any other circumstances. Today, your profile is only accessible on the [www.cvwarehouse.com](http://www.cvwarehouse.com/) site in the company login section, by employers after entering a contractual relationship with CVWarehouse NV.
 
-Your CV may, however, in the future be made accessible from other sites of future Executive Research subsidiaries in other EU countries and possibly the US and Asia Pacific countries. This will then be announced in a timely fashion and you will be able to opt out through your profile login.
+Your CV may, however, in the future be made accessible from other sites of future CVWarehouse subsidiaries in other EU countries and possibly the US and Asia Pacific countries. This will then be announced in a timely fashion and you will be able to opt out through your profile login.
 
 ### On Direct Marketing and Direct Mailing actions
 
-Your details will not be used by Executive Research for Direct Marketing purposes. In future we may imply you in direct mailing actions that will be directly related to career opportunities. Although our customers contractually agree to use your data for their own company recruitment needs only, misuse of this directive by such companies can be signaled to  [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com). 
+Your details will not be used by CVWarehouse NV for Direct Marketing purposes. In future we may imply you in direct mailing actions that will be directly related to career opportunities. Although our customers contractually agree to use your data for their own company recruitment needs only, misuse of this directive by such companies can be signaled to  [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com). 
 
 ### Data Safety 
 
@@ -68,4 +68,4 @@ To access private data, companies as well as candidates need to login explicitly
 
 ### Privacy commitment changes
 
-To make sure that any changes to our privacy commitment are known to you, please visit these privacy statement pages regularly, as we will keep them up to date. We commit ourselves to proactively inform you of prominent changes, which will be the only exception to our direct mailing commitment above. Should you have any questions or concerns about our privacy commitment, please send a mail to [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com) or a letter to our offices at Gijzelaarstraat 22, B-2000 Antwerp to the attention of Inge Geerdens, Executive Research, referencing our privacy statement. 
+To make sure that any changes to our privacy commitment are known to you, please visit these privacy statement pages regularly, as we will keep them up to date. We commit ourselves to proactively inform you of prominent changes, which will be the only exception to our direct mailing commitment above. Should you have any questions or concerns about our privacy commitment, please send a mail to [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com) or a letter to our offices at Duboisstraat 50, B-2060 Antwerpen to the attention of Inge Geerdens, CVWarehouse NV, referencing our privacy statement. 
