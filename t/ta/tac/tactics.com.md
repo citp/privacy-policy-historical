@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519223343id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223120511id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
 
-# Tactics Board Shop: Snowboard / Skate / Surf / Clothing / Gear
+# Security & Privacy
+
+Tactics uses 128-bit Secure Sockets Layer (SSL) encryption technology to prevent third parties from reading the information you enter during our online Checkout process. We have chosen Thawte® as our SSL digital certificate provider to offer you the most secure certificate services available. 
+
+To ensure your online transaction is secure during the Checkout process, make sure the gold key icon appears connected in the lower left corner for Netscape 3.0 browsers or that the padlock icon appears in the lower right corner for all Internet Explorer or Netscape 4.0+ browsers. 
+
+Keep in mind that not all browsers, and some firewalls (often used in office settings), allow transmittal of information through SSL technology. If you are experiencing difficulties submitting your order through our online Checkout process, please do not hesitate to call us toll-free in the U.S. at 1.888.450.5060 or 1.541.349.0087 (International) to place your order. 
+
+Please keep in mind that for your protection we do not store credit card numbers in our database. Once the transaction is complete, we have no way of accessing your credit card number. Additionally, if you are shipping an order to an address other than your billing address, your order may be delayed for verification. 
 
 We respect the privacy of our customers and do not sell your personal information to anyone. This privacy statement discloses our information-gathering and dissemination practices. If you have any questions or concerns, we invite you to contact us directly for more information regarding our commitment to your privacy. 
 
