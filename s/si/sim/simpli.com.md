@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the simpli.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615133320id_/http%3A//simpli.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpli.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223162136id_/http%3A//simpli.com/privacy.shtml) for the most accurate reproduction.*
 
 # Simpli.com
 
 At ValueClick, Inc. (“ValueClick,” “we,” “our,” “us”), we recognize that privacy is important to our users and our clients and we take our responsibility to protect your privacy rights seriously. This Privacy Policy applies to all of the products and services offered by ValueClick through its Simpli.com search engine (“Simpli”). 
 
-If you have any questions about this Privacy Policy, please **[contact us](https://web.archive.org/web/20060615133320id_/http%3A//simpli.com/contact.shtml)** through our Web site or write to us at: ValueClick, Inc., ATTN.: Simpli Privacy Officer, P.O. Box 5600, Westlake Village, California, USA 91361.
+If you have any questions about this Privacy Policy, please **[contact us](https://web.archive.org/web/20061223162136id_/http%3A//simpli.com/contact.shtml)** through our Web site or write to us at: ValueClick, Inc., ATTN.: Simpli Privacy Officer, P.O. Box 5600, Westlake Village, California, USA 91361.
 
 **Please read this Privacy Policy carefully. By visiting Simpli to conduct Internet searches, or as an advertiser or publisher, and by sharing information with us, you agree to be bound by the terms and conditions of this Privacy Policy.**
 
@@ -39,7 +39,7 @@ You can decline to submit personal information to any of our services, in which 
 
 The cookies that we use do not have an "opt-out" option; however, you still have the option of blocking the use of cookies by changing a setting in your Internet browser. However, some Simpli features and services may not function properly if your cookies are disabled.
 
-If you wish to cease receiving email communications from us, you may opt out by **[contacting us](https://web.archive.org/web/20060615133320id_/http%3A//simpli.com/copyright.shtml)** [](https://web.archive.org/web/20060615133320id_/http%3A//simpli.com/contact.htm) through our Web site or by writing to us at: ValueClick, Inc., ATTN.: Simpli Privacy Officer, P.O. Box 5600, Westlake Village, California, USA 91361.
+If you wish to cease receiving email communications from us, you may opt out by **[contacting us](https://web.archive.org/web/20061223162136id_/http%3A//simpli.com/copyright.shtml)** [](https://web.archive.org/web/20061223162136id_/http%3A//simpli.com/contact.htm) through our Web site or by writing to us at: ValueClick, Inc., ATTN.: Simpli Privacy Officer, P.O. Box 5600, Westlake Village, California, USA 91361.
 
 IV. INFORMATION SHARING  
 ValueClick only shares personal information with other companies or individuals outside of ValueClick in the following limited circumstances:
@@ -76,4 +76,4 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to ValueClick with regard to: (a) the purposes for which such third party's data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. _C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais._
 
 X. CONTACT US  
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20060615133320id_/http%3A//simpli.com/contact.shtml) [](https://web.archive.org/web/20060615133320id_/http%3A//simpli.com/contact.htm) through our Web site or write to us at: ValueClick, Inc., ATTN.: Simpli Privacy Officer, P.O. Box 5600, Westlake Village, California, USA 91361.
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20061223162136id_/http%3A//simpli.com/contact.shtml) [](https://web.archive.org/web/20061223162136id_/http%3A//simpli.com/contact.htm) through our Web site or write to us at: ValueClick, Inc., ATTN.: Simpli Privacy Officer, P.O. Box 5600, Westlake Village, California, USA 91361.
