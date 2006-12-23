@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asknow.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003142id_/http%3A//asknow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknow.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223170025id_/http%3A//asknow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Find Your Perfect Psychic or Tarot Reader - AskNow
 
-| 
+  | 
 
 **Effective Date: March 17, 2005**
 
@@ -68,4 +68,6 @@ AskNowTM reserves the right to change or update this Privacy Policy at any time 
 If you have any questions about our Privacy Policy or would like more information on our privacy practices, please contact us via e-mail at [CustomerService@Asknow.com](mailto:CustomerService@Asknow.com), or by calling 1-800-660-1922, or by writing to:  
 3665 East Bay Dr.  
 Suite 204 E  
-Largo FL 33771-1965
+Largo FL 33771-1965  
+  
+---|---
