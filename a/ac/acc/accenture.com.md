@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202432id_/http%3A//www.accenture.com/Global/AccenturePrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223091514id_/https%3A//www.accenture.com/Global/AccenturePrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Accenture Privacy Policy
 
@@ -26,11 +26,11 @@ As a global organization, data we collect may be transferred internationally thr
 We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive personal data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this Privacy Statement. The references to "sensitive personal data" are to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, genetic code, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities). 
 
 **Do we give you access to your information?**  
-You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by [sending us an e-mail ](http://accenture.com/Global/Registration/MailTo.htm?alias=ACNDirect). 
+You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by [sending us an e-mail ](http://www.accenture.com/Global/Registration/MailTo.htm?alias=ACNDirect). 
 
 **What about data security?**  
 We take appropriate steps to maintain the security of your data on accenture.com. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. 
 
-That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please [contact us](http://accenture.com/Global/Registration/MailTo.htm?alias=ACNDirect). 
+That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please [contact us](http://www.accenture.com/Global/Registration/MailTo.htm). 
 
 [To Top](javascript:try{AnchorBookmark\('#top'\);}catch\(Err\){};)
