@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040757id_/http%3A//beachfrontmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223182441id_/http%3A//www.beachfrontmedia.com/privacy.html) for the most accurate reproduction.*
 
 # Beachfront Media, LLC - Web properties and consulting
 
