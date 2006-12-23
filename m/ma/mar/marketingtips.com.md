@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615232928id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223023711id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
 
-# Internet Marketing Center, Inc. -- Privacy Policy
+# Internet Marketing Center, Derek Gehl, Insiders Secrets to Marketing your Business the Internet, Privacy
 
 **Internet Marketing Center, Inc. (“IMC”) Online Privacy Policy _(Last updated_** ** _April 29, 2004_** ** _)_** ~~~~
 
