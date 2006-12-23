@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020545id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223090552id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
 
 # LotPro.com Website Privacy Statement.
 
