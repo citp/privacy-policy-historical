@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhl.ca privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419163517id_/http%3A//www.dhl.ca/terms/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhl.ca privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223185714id_/http%3A//www.dhl.ca/terms/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
