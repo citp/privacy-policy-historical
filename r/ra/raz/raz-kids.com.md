@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raz-kids.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175031id_/http%3A//www.raz-kids.com/main/ViewPage/name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raz-kids.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223203505id_/http%3A//www.raz-kids.com/main/ViewPage/name/privacy) for the most accurate reproduction.*
 
-# Raz-kids: privacy
+# Raz-Kids Ebook privacy policy
 
 ## Privacy Statement
 
