@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615063049id_/http%3A//www.snapfish.co.uk/privacy/t_%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223011514id_/http%3A//www.snapfish.co.uk/privacy) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
@@ -102,5 +102,5 @@ Snapfish UK
 London   
 EC2V 7QT
 
-0207 0153453   
+0870 7200 387   
 [service@snapfish.co.uk](mailto:service@snapfish.co.uk)
