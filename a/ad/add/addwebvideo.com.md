@@ -1,180 +1,157 @@
-> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050911id_/http%3A//www.playstream.com/tc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223100306id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
 
-# VitalStream Small Business Services: Terms & Conditions
+# Domain name and e-mail account questions answered here
 
-Date Last Modified: October 26, 2005
+#### Find Answers To Your Questions:
 
-PLAYSTREAM INC PRIVACY POLICY
+Search by keyword or browse by category for immediate answers to frequently asked questions: 
 
-**Purpose of Policy**
+### Privacy Policy
 
-Playstream, Inc. is committed to respecting the privacy rights of its customers and visitors. We created this privacy policy to give you confidence as you visit and use this Site (http://www.PlayStream.com). This policy is only applicable to this Site, and not to any other websites that you may be able to access from this Site, each of which may have data collection and use practices and policies that differ materially from this policy. 
+**Why A Privacy Policy?**  
 
-In operating its Site, Playstream, Inc. may include registration, online surveys, and other online forms which collect “Personally Identifiable Information”, such as names, e-mail addresses, telephone numbers and other contact information. For example, our Site uses an Encoding Request Form so that you can request information and services from us and your information is necessary for us to service your needs. 
+  
+Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-**What Sites This Policy Covers**
+ **This Privacy Policy protects your privacy by:**
 
-This privacy policy (the “Policy”) discloses our privacy practices for http://www.PlayStream.com (the “ **PlayStream Site** ”). 
+ **Informing you about:**
 
-**I. The Information We Collect, And How We Use It**
+  * The types of personal information Network Solutions collects about you through its Web sites; 
+  * How it collects that information; 
+  * The general purposes for which it collects such information; 
+  * The types of organizations to which it discloses the information; 
+  * The choices and means by which individuals may limit its use and disclosure. 
 
-PlayStream, Inc., is the sole owner of the information collected on our Sites. PlayStream collects different kinds of information from our users on our Sites, and we use that information in various ways, as explained below. 
 
-**A. The PlayStream Site **
 
-**1\. PlayStream Newsletter**
+**Empowering you to choose:**
 
-We provide a low-volume email newsletter (currently averaging one to two news announcements per month) to provide general news about PlayStream’s new services, upgrades, and general information about our Sites and our services. There is an online field on PlayStream’s home page that you can use to enter your email address in order to subscribe to the newsletter. You can also subscribe or unsubscribe to the Newsletter when you sign up for an Evaluation Account or place an Order for Service (as described below). You do this by checking a box on the relevant Evaluation Account or Order for Service order page. 
+  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
+  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
-When you subscribe to the newsletter, we use your email address to provide the newsletter to you via email. With each newsletter we provide a method to unsubscribe from the newsletter, with a link to the Web page where you can enter your request to unsubscribe. You may also contact PlayStream directly as described at the end of this Policy regarding unsubscribing from the newsletter. 
 
-**2\. Evaluation Account**
 
-PlayStream provides a 15-day free evaluation of our service, subject to PlayStream’s Terms and Conditions of service. When you sign up for an Evaluation Account by filling out our online form, you are required to provide information that includes contact information (such as name and email address). We may, at times, also ask you to provide demographic information (such as income level and gender) or answers to survey questions (such as how you heard about PlayStream) during this process. 
+**Assuring you that Network Solutions:**
 
-We use contact information to communicate with you about your Evaluation Account. We use demographic information you provide and your answers to surveys to improve our Sites and services we offer, and for any other purposes described in the surveys. 
+  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
+  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
+  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
+  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
-**3\. Order For Service**
 
-When you want to sign up for PlayStream’s services (for more than the 15-day free period of an Evaluation Account), you can do so as an upgrade from an Evaluation Account or without having had an Evaluation Account at all. To sign up, you fill out the online Order For Service form, and in the process you are required to provide contact information (like name and shipping address) and financial information (credit card number, expiration date) on our order form. We use this information to communicate with you about your account, for billing purposes (including collection purposes, if necessary), and to fulfill your orders. If we have trouble processing an order, we use this contact information to get in touch with you. 
 
-**4\. Request For Proposal**
+**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
 
-Before or after you place an Order for Service, you may request information about additional services by completing PlayStream’s online Request for Proposal. During this process, you are required to provide your contact information (such as name and email address) and information about the services you request. We use this information to communicate with you about your request and about the services on the PlayStream Site in which you have expressed interest, and to consider the nature of those requested services. 
+  
+**Third Party Advertising and Cookies**
 
-We may, at times, also ask you to provide demographic information (such as company location, and company type). While you are not required to provide this demographic information in order to use the services that are the subject of your Request for Proposal, we encourage you to do so to allow us to provide a more personalized experience on the PlayStream Site. 
+We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-**5\. PlayStream Members' Web Site**
+[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-Unless we indicate otherwise, you become an “ **Active Customer** ” on the Effective Start Date of the service you sign up for from the PlayStream Site (including under an Evaluation Account), and after that you remain an Active Customer until the Effective End Date of that service. As an Active Customer, you can manage certain aspects of your account (e.g., personal identification information, account records, media content, and various reports) by logging into the PlayStream Web site. To access the members' area of PlayStream's Web site, you must enter your unique user name and your password. We use that information to log you in to PlayStream's Web site. 
+Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-**6\. Site and Service Updates**
+[here](http://www.privacychoices.org/).   
+**Information Corrections or Changes** **  
+**  
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at<https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
 
-We use contact information from Active Customers to send them periodic Site and Service Updates, which contain important information about using the services on the PlayStream Site, including account billing and collections and technical support. We provide Site and Service Updates primarily through email, but we may do so sometimes by postal mail or phone. You may request to stop receiving Site and Service Updates by contacting PlayStream directly as described at the end of this Policy. We recommend against Active Customers unsubscribing from Site and Service Updates because of their importance. If you do unsubscribe to Site and Service Updates, you waive any right to receive notifications of any modifications or changes to the PlayStream Site, to our services, or to our policies. (However, this Policy does not establish or imply such a right.) 
+**How We Put Information to Good Use** **  
+**  
+We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
 
-**7\. Surveys**
+We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
 
-From time-to-time our Sites may request information from you via surveys. Participation in these surveys is completely voluntary, and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, etc.). The information you provide in response to surveys will be used for purposes of monitoring or improving the use and satisfaction of our Sites and Services, and for other reasonably related purposes described in those surveys. 
+Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-**8\. Cookies**
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
 
-A cookie is a piece of data stored on your computer in a folder dedicated to use by your web browser. There are two kinds of cookies we may set when you visit the PlayStream Site—“session cookies” and “offer code cookies.” You can set your web browser to reject cookies, including our session cookies, but this will limit your ability to use our Sites. For example, you would need to reenter your password to enter each page on the PlayStream Site requiring password access, or you might not be able to access such pages at all. We do not link the information we store in cookies to any Personally Identifiable Information you submit while on our Site. 
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
 
-**a. Session Cookies**
+ **Getting to Know Our Customers**
 
-“Session cookies” store information needed by the web server in order to avoid asking you for your password (if any) with each new page you visit. No other information is stored in session cookies. (In addition, password information itself is not stored in session cookies.) Session cookies are deleted when your session on the PlayStream Site ends (i.e: when you leave the PlayStream Site). 
+Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-**b. Referrals**
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
 
-As part of our ongoing marketing efforts, we provide certain incentives to qualified participants who refer new customers to the PlayStream Site. If you arrive at the PlayStream Site from a referrer’s web site, we track this fact by placing the Offer Code that accompanies you from that site into an Offer Code cookie. In this way, we will know if you subscribe to PlayStream’s Service following such a referral, and we can credit the incentive to the appropriate referrer as well as provide you with a discount if applicable. No Personally Identifiable Identification or financial information is collected or placed in the offer code cookie. Offer Code cookies persist on your hard drive for up to 30 days. 
+[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
-**B. Log Files **
+After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-When you visit any of our Sites, we collect your IP address and store it in a “log file.” We also collect information about the browser and operating system you use, and store that information in log files. We use IP addresses we collect to analyze trends, administer our Sites, track users’ movements within our Sites, track the sites users access just before (but not after) they visit our Sites, and gather broad demographic information for use in aggregate form. 
+For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-When you open an Evaluation Account or become an Active Customer, we link your IP address to Personally Identifiable Information about you in your account records with PlayStream. We use this information to determine whether particular users are abusing Evaluation Accounts. 
+The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**II. How We Share Information We Collect**
+**With Whom We May Share Information** **  
+**  
+Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-In May, 2005 we announced that PlayStream, Inc. was acquired by VitalStream, Inc. As a natural consequence of the ongoing development of our company, we could be involved in other mergers or acquisitions. In that event, all of the customer information including both financial records and consumer information that we have collected may be transferred to or shared with companies owned by or within the common control of our parent holding company. 
+When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
 
-Please see Section VI. Regarding potential changes of ownership and changes in the use of Personally Identifiable Information. 
+We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect  that you or your agent is using  our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
 
-We will share aggregated demographic information we collect on any of our Sites with selected third parties, including our partners and advertisers. This information is not linked to information that can identify any individual person. 
+Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-If you just subscribe to our newsletter, we will not share your email address with any third party (except someone we may hire to provide services on our behalf concerning the newsletter), except in the event of a merger, acquisition, or other change of corporate control of PlayStream. 
+a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
 
-If you provide us with credit card information, we will use that information to process your credit card transactions with us. We do not share that information with any party that is not related to the direct processing and collection of those transactions. 
+b.       Click “Edit User Info” in the left menu;
 
-As part of our referral program (see Section I.A(8)(c) above), we allow referrers to monitor their referral activity. Referrers may view their Referral Activity online, which specifically includes any commission amount, the date such commission was paid, and the Customer ID# of the Active Customer for which the commission was paid. Referrers are required to provide information confirming who they are before we give them this information. No other information identifying Active Customers is provided to the referrer. If an Active Customer desires to know if their Customer ID# is being viewed by a referrer, they may contact PlayStream directly for a confirmation of “yes” or “no.” 
+c.       Scroll to the bottom of the page;
 
-We may disclose to anyone that your company is a customer of PlayStream, although we will not disclose specific information about your account (e.g., contact information) except as otherwise provided in this Policy. 
+d.       Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
 
-We may use any information you provide to us to assist us in collecting past due amounts from you, including by sharing it with third parties we affiliate with for that purpose. 
+e.       Click “SAVE.”
 
-When we share information that identifies you individually with other companies that are providing services to us or on our behalf, our agreements with those companies require them to use that information only for the purposes described, and generally to protect that information at least as well as described in this Policy. 
+  
+Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
-Please be aware that, despite anything else in this Policy: (a) if our company is involved in a stock or asset sale to or merger with another company, we may provide all of the information that we have collected from and about you to that other company, for the purpose of completing the sale or merger (for more information about how you may be notified in that event, see our Notification of Changes section)[; and (b) we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. 
+ **How Do I Get My Name Removed from Bulk Access** **  
+**  
+As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-We may provide message boards from time to time. Remember if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
 
-**III. PlayStream’s Policy Regarding Data From Children**
+b.       Click “Edit User Info” in the left menu;
 
-PlayStream does not collect Personally Identifiable Information from individuals who PlayStream knows are under the age of 13 or who identify themselves as children under the age of 13, nor does PlayStream sell products or services for purchase by children. Our Sites are not intended for use by children under the age of 13. If PlayStream somehow becomes aware that it has received information from a child under the age of 13 through our Sites, we will respond, if appropriate, with at most a single response and will delete all Personally Identifiable Information (including email address) concerning that child from our records. That information will not be used for any other purposes, nor will it be disclosed to any other parties. 
+c.       Scroll to the bottom of the page;
 
-If a parent believes that his or her child has submitted personal information to our Sites, they may inform us at the address listed at the end of this Policy. 
+d.       Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
 
-**IV. Security**
+e.       Click “SAVE.” 
 
-**A. Generally **
+**Our Accountability to You** **  
+**  
+By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
 
-We are vitally concerned with security on our Sites and Services. We would like to ensure that information about you that we receive on our Sites is perfectly protected at all times, but no one could really make (and keep) that kind of promise. However, when you submit confidential information via our Sites, we do make reasonable efforts to protect that information both online and off-line. 
+In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
 
-When you are asked to enter confidential information on the PlayStream Site (such as credit card number), that information is encrypted with the leading encryption software in the industry—SSL. To learn more about SSL, follow this link [http://www.thawte.com](http://www.thawte.com/). Please be aware that despite the efforts we make, we cannot absolutely ensure or protect the security of any information transmitted to or by us over the Internet. 
+**Employee Accountability** **  
+**  
+Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
 
-We also take the following significant steps to protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to Personally Identifiable Information. Our employees are each assigned a unique login and password, and must use this login and password to access customer records where your personal and confidential information is recorded and stored. Our system provides an audit trail of modifications to customer records, which enables management to help monitor activity. Furthermore, all of our employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store Personally Identifiable Information on are kept in a secure environment, behind a firewall in secured premises. 
+Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
 
-If you have any questions about the security at our Sites, you can send an email to [legal@playstream.com](mailto:legal@playstream.com). 
+**The Accountability of Network Solutions' Agents and Business Partners** **  
+**  
+Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
-**B. PlayStream's Members' Web Site **
+If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
 
-As noted in Section I.A(5) above, Active Customers are required to enter their unique username and password to access PlayStream's Members' Web site, the online interface that enables Active Customers to view and modify their personal identification, account records, service type, media content, and reports. If you attempt to use PlayStream's Web site to view or modify billing information, such as credit card information on file, that information will be encrypted and provided only through SSL. PlayStream's Web site does not display all of the numbers of your credit card information when you view billing information online by logging into PlayStream's Web site, even though the information is being encrypted. 
+[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
 
-**C. Passwords and Logins **
+Network Solutions, LLC  
+Attention: General Counsel  
+13861 Sunrise Valley Dr   
+Suite 300   
+Herndon  VA  20171   
+United States  
+(703) 668-4600 
 
-PlayStream considers your password to be sensitive information protecting your account, and you are responsible for keeping your password secure and confidential. PlayStream does not consider your login to be sensitive information, as your login is used in various ways to identify your account, such as in technical support requests and on printed invoices. You may change your password by logging in to PlayStream's Web site at any time. 
+**Notification of Changes** **  
+**  
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to
 
-**V. Correcting/Updating Personal Information**
+[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).
 
-If your Personally Identifiable Information (such as your address) changes, or if you no longer desire our service, you may login to PlayStream's Web site to request modification and/or closure of your service (subject to any applicable agreements with PlayStream). You may also requests modification and/or closure of your service by emailing us at [customerservice@playstream.com](mailto:customerservice@playstream.com) or by contacting PlayStream via telephone at 1 (206) 404-7900 during regular business hours. You can expect a response to your requests within one business day. (That response may be that we simply implement your requested change, or we may respond in some other way.) We reserve the right to retain information about you as needed (in our sole discretion) to collect amounts you owe to PlayStream. 
-
-**VI. Notification of Changes**
-
-If we decide to change this privacy Policy, we will post an "Updated" notice in PlayStream's Member's Web site with the terms of this Policy one click away, so you can always be aware of what our privacy Policy is. The date of the latest change to this Policy is at the top of this Policy. We will also post this privacy Policy online with a link to it from our Sites. If at any point we decide to use or share Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify you by way of an email (if we have your email address) and also post a notice in the main login page of PlayStream Web site. 
-
-**VII. Links**
-
-Our Sites may contain links to third parties’ sites. Please be aware that PlayStream is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Sites and to read the privacy policies of each and every web site that collects Personally Identifiable Information. This Policy applies solely to information collected by our Sites. 
-
-**VIII. Dispute Resolution and Enforcement**
-
-PlayStream, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
-
-Users with questions or concerns regarding this statement or PlayStream’s privacy practices should first contact Arturo Sida/Privacy Policy by email at legal@playstream.com or by fax at 1-949-453-8686. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with PlayStream to resolve users’ concerns. 
-
-The TRUSTe program covers only information that is collected through the Web sites identified above, and does not cover information that may be collected through software downloaded from those sites. 
-
-PlayStream also is subject to the jurisdiction of the Federal Trade Commission (FTC), which has been active in monitoring the state of privacy on the Internet. The Federal Trade Commission is a government agency with the mandate to enforce the Federal Trade Commission Act, which prohibits unfair or deceptive acts or practices in or affecting commerce. Commerce on the Internet falls within the scope of this statutory mandate. The FTC has committed to reviewing, on a priority basis, referrals from TRUSTe. For further information, see [http://www.ftc.gov](http://www.ftc.gov/). 
-
-**IX. Safe Harbor Verification**
-
-PlayStream verifies that its privacy policy, as set forth above, is accurate, comprehensive and completely implemented, including implementation of appropriate employee training and other internal procedures. PlayStream further verifies that its privacy policy conforms with the “Safe Harbor Principles” issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations. 
-
-See <http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm>. 
-
-PlayStream, Inc. abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union. 
-
-**X. Opting Out**
-
-We do not disclose an individual customer's Personally Identifiable Information to third parties for third-party direct marketing purposes. For purposes of this policy, a third party is a company other than VitalStream Holdings, Inc. or any of its subsidiaries, including VitalStream, Inc. 
-
-If you do not wish your information to be disclosed to companies owned by or within the common control of our parent company, you may submit an opt-out request by email to [customerservice@playstream.com](mailto:customerservice@playstream.com) or to the following mailing address: 
-
-Privacy Policy  
-PlayStream, Inc.  
-One Jenner, Suite 100  
-Irvine, CA 92618 
-
-Please allow up to two weeks for your request to be processed. 
-
-**XI. Contacting Us About Privacy**
-
-If you have any questions or complaints regarding this Privacy Policy, you may contact: 
-
-Arturo Sida  
-Privacy Policy  
-PlayStream, Inc.  
-One Jenner, Suite 100  
-Irvine, CA 92618  
-FAX 1 (949) 453-8686  
-Email: [legal@playstream.com](mailto:legal@playstream.com)
+ **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
