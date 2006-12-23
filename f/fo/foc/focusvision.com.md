@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusvision.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619205057id_/http%3A//focusvision.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusvision.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223233749id_/http%3A//www.focusvision.com/privacy.html) for the most accurate reproduction.*
 
 # FocusVision: Privacy Policy
 
