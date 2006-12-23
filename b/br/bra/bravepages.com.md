@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravepages.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616004643id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravepages.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223092143id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ This is the web site of **0Catch**.
 
 Our postal address is 
 
-1548 North Technology Way D13  
+727 North 1550 East Suite 275  
 Orem, UT 84097  
-We can be reached via e-mail at [admin@0catch.com](mailto:admin@0catch.com)
+We can be reached via e-mail at [support1@0catch.com](mailto:support1@0catch.com)
 
 For each visitor to any of our sites, our Web server automatically records only the consumer's IP address. We do not and cannot see the email address of our visitors.
 
