@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bluelaguna.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616084412id_/http%3A//bluelaguna.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelaguna.net privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224123113id_/http%3A//bluelaguna.net/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Information - Blue Laguna's Media Archive
+
+MAIN CONTENT 
 
 The following page is provided for visitors to BlueLaguna.net who may be concerned about privacy and to show our commitment to privacy. If you have any questions about this page, or need further clarification, feel free to contact the webmaster by emailing webmaster@bluelaguna.net. 
 
@@ -19,3 +21,5 @@ Most, if not all of the advertising shown to visitors to this site is being serv
 ### Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique \u201ccookie\u201d on your browser. 
+
+\+ News Archive
