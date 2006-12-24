@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022621id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224034549id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Yohoho! Puzzle Pirates: Three Rings Privacy Policy
 
   
-This policy covers how Three Rings Design, Inc. ("Three Rings") treats personal information that Three Rings collects and receives, including information related to your past use of Three Rings products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+This policy covers how Three Rings Design, Inc. ("Three Rings") treats personal information that Three Rings collects and receives, including information related to your past use of Three Rings products and services. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 ## Information Collection and Use
 
@@ -23,7 +23,7 @@ Three Rings does not presently accept registrations from children under age 13.
 
 ## Information Sharing and Disclosure
 
-Three Rings does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+Three Rings does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
   * We provide the information to trusted partners who work on behalf of or with Three Rings under confidentiality agreements. These companies may use your personal information to help Three Rings communicate with you about offers from Three Rings and our marketing partners. However, these companies do not have any independent right to share this information. 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
@@ -38,9 +38,7 @@ Three Rings may set and access Three Rings cookies on your computer.
 
 ## Communications from Three Rings
 
-Certain communications from Three Rings, such as service announcements, administrative messages and the Three Rings Newsletter, are considered part of Three Rings membership and you may not opt out of receiving them. In particular those who register with us for beta testing Three Rings' games agree to receive communications regarding these games as a part of their beta membership. 
-
-All other emails from Three Rings will be strictly 'opt-in' communications, and will include a URL or email address where you can unsubscribe from future mailings. 
+If you provide us with your e-mail address, we may send you e-mail from time to time. All e-mails from Three Rings will be strictly 'opt-out' communications, and will include a URL or email address where you can unsubscribe from future mailings. 
 
 You can delete your Three Rings account by visiting our Account Deletion page. 
 
