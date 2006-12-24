@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-sweepstakes.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614142910id_/http%3A//www.online-sweepstakes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-sweepstakes.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224211002id_/http%3A//www.online-sweepstakes.com/privacy) for the most accurate reproduction.*
 
 # Online-Sweepstakes.com | Privacy Statement
 
@@ -22,7 +22,7 @@
 
 > Online-Sweepstakes.com does not and will not sell or share Personally Identifiable Information about our Visitors with third parties unless explicitly authorized by the Visitor to do so. For example, a Visitor's contact information may be shared with sponsors of our Sweepstakes and/or Contests in order to contact the winner and arrange prize fulfillment. Or, a Visitor's contact information may be shared with a third party when a Visitor "Opts-In" to receive an offer from said third party. Our privacy policy does not cover their collection or use of this information. 
 > 
-> Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+> We also may disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information, to investigate, prevent or otherwise take action regarding suspected illegal activity or fraud, or to protect the rights, property or safety of Online-Sweepstakes.com, its users and the public. 
 
 **How is Personally Identifiable Information stored?**
 
