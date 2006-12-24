@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619100903id_/http%3A//123newyear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224024527id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
 
 # About 123newyear.com
-
-We at 123newyear.com a subsidiary of Compare Infobase Pvt. Ltd are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Pvt. Ltd or its subsidiary 123newyear.com may collect the information explained herein under. 
 
 **1\. What identifiable information is collected from me?**
 
@@ -10,7 +8,7 @@ We at 123newyear.com a subsidiary of Compare Infobase Pvt. Ltd are committed to 
 
 **2\. What are cookies and how 123newyear.com uses them?**
 
-As combined part of offering and providing customised and personalised services, 123newyear.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have Compare Infobase Pvt. Ltd. browse map images, routes and trip plans we will require that you accept cookies. 
+As combined part of offering and providing customised and personalised services, 123newyear.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have Compare Infobase Ltd. browse map images, routes and trip plans we will require that you accept cookies. 
 
 Cache your personalised settings for items such as route language and default country location. 
 
