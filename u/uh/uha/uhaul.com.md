@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427204634id_/http%3A//www.uhaul.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224064039id_/http%3A//www.uhaul.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # U-Haul.com: Privacy policy
 
@@ -46,7 +46,53 @@ Web Team Associates, Inc.
 2727 N. Central Ave  
 Phoenix, AZ 85004
 
-[email](https://www.uhaul.com/customer/feedback/website_feedback.aspx)
+[Email](https://www.uhaul.com/customer/feedback/website_feedback.aspx)
 
 **Effective date**  
 April 12, 2005
+
+* * *
+
+U-Haul Co. (Canada) Ltd. ("U-Haul") recognizes and respects your right to privacy. U-Haul further recognizes the importance of protecting your personally identifiable information ("Personal Information") under the Canadian - Personal Information and Protection of Electronic Documents Act ("PIPEDA").
+
+The purpose of this privacy policy is to inform you about why we collect, use and disclose Personal Information, and to provide you with contact information should you have any questions or concerns about our Personal Information protection practices. Please be aware that if you provide your Personal Information to a U-Haul independent dealer, their privacy policy shall apply.
+
+The purposes for U-Haul's collection, use and disclosure of your Personal Information:
+
+Purposes: We need to collect, use and disclose certain of your Personal Information in order for you to make a reservation for and/or rental of, equipment and/or storage space, or for the purchase and/or use of products or other services from us, or for your personal online access to U-Haul services and products at uhaul.com (collectively "Our Services")
+
+### Collection of Personal Information
+
+The Personal Information that we collect from you will include at least some of the following about you: name, home address, telephone number, e-mail address and driver's license information, and personal payment information (such as your check, credit or debit card information).
+
+How we collect your Personal Information will depend on how you use Our Services. For example, we may collect your Personal Information directly from you by telephone, fax, e-mail, at the store counter, or upon or through your use of our web sites.
+
+### Use and disclosure of Personal Information
+
+In order to further provide Our Services to you, we may use your Personal Information with, and disclose your Personal Information to, related or non-related third parties including but not limited to the following:
+
+  * U-Haul parents and related corporations
+  * Independent U-Haul dealers and U-Haul related corporations and their dealers and affiliates
+  * Credit card/debit card issuers
+  * Banks
+  * Credit reporting and fraud checking agencies
+  * Debt collection agencies, if you fail to pay monies owed to us
+  * Government or private organizations responsible for the processing or handling of transportation, traffic or parking related violations
+  * Transportation or driver licensing authorities, directly or through intermediary organizations
+  * Government, regulatory and law enforcement agencies where the disclosure is required or authorized by law
+  * Insurance companies
+
+
+
+**U-Haul does not sell, trade in, barter or exchange for payment or any consideration, any of your Personal Information that it has obtained.**
+
+### Your Interaction with your Personal Information; How to contact us
+
+By choosing to provide your Personal Information to U-Haul you are consenting to its continued use and disclosure in accordance with the purposes outlined in this Privacy Policy. If you prefer that we do not use or disclose your Personal Information for any of these purposes you may notify us of the same at any time, subject to any legal or U-Haul policy and/or U-Haul contractual restrictions and requirements, by contacting us as indicated below. A notification that we not use or disclose your Personal Information may affect our ability to provide you with Our services.
+
+If you wish to withdraw or change your consent to our use and disclosure of your Personal Information, or if you wish to review and change your Personal Information, or if you would like to contact us with a complaint regarding our use and disclosure of your Personal Information, or if you would like additional information regarding the privacy practices of U-Haul, please contact our Privacy Officer as follows:
+
+Privacy Officer  
+3rd Floor, South Tower  
+2727 N. Central Avenue  
+Phoenix, Arizona 85004
