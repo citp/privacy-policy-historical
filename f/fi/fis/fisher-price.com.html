@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fisher-price.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616010632id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fisher-price.com privacy policy that was archived on 2006-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061224222556id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<meta name="Keywords" content="Fisher-Price, fisherprice, Fisher-Price toys, online shopping, toys, baby, toy, preschool toys, infant, playtips, kitchen playsets, toy classics, children, little people, rescue heroes, power wheels, powerwheels, view-master, toddler, toy tips, News for You Club, loving family, magna doodle, fun, dollhouse, gift registry, gift suggestions, birthday gifts, family, customer service, email, customized email, Mattel, monitors, newborn, fisher, price, baby registry, baby shower gifts, infant products, online catalogue, online catalog, preschool, baby's first year, car seats, child development experts, games, education, imagination, great adventures, kids, store locator, child locator, mothers, nursery, parenting, safety, Shop 'n Cook, child development, children's products, creative, mom, feeding accessories, first birthday, stores, strollers">
@@ -13,6 +13,13 @@
 	var site
 	
 	site = 'xx';
+	
+			// !!! PRELIMINARY TESTING !!! when testing confirmed please remove
+			// some sort of error trapping - somehow we get 'xx' as a result of refreshing the Rescue Heroes Fun/Video/Parents sections
+			// IE does not like that and does not load the SWF file.
+	if(site == 'xx') {
+		site = 'us';
+	}
 	
 	if (site == 'kr')
 	{
@@ -28,7 +35,7 @@
 
 	
   </script>
-	<link rel="stylesheet" type="text/css" href="/US/legal_footer.css">
+	<link rel="stylesheet" type="text/css" href="/us/legal_footer.css">
 	<link rel="stylesheet" href="/us/includes/default_2003.css" type="text/css">
 </head>
 
@@ -60,11 +67,11 @@
 var leftnavflash = { 
 				movie:"/us/swf/leftnav_btns.swf?fphome=0&sSite=us", 
 				width:"355", 
-				height:"365", 
-				majorversion:"6", 
+				height:"420", 
+				majorversion:"7", 
 				build:"0", 
 				loop:"false",
-				wmode:"transparent"
+				wmode: "transparent"
 				};
 			if (!bIsMac && bIsIE && bFlashInstalled && iFlashVersion > 5) { 
 				UFO.create(leftnavflash, "BtnNav"); 
@@ -92,25 +99,23 @@ var leftnavflash = {
 		document.location.replace(sLink);
 	}
 </script>
-<table cellpadding="0" cellspacing="0" width="168" border="0">
+<table cellpadding="0" cellspacing="0" width="168" border="0" id="Table1">
 	<tbody><tr>
 		<td bgcolor="#FFFFFF"><img src="/us/img/s.gif" width="1" height="2"></td>
 	</tr>
 	<tr>
 		<td>
-			<table cellpadding="0" cellspacing="0" width="168" border="0">
+			<table cellpadding="0" cellspacing="0" width="168" border="0" id="Table2">
 				<tbody><tr>
 
 					<td bgcolor="#FFFFFF"><img src="/us/img/s.gif" width="5" height="1"></td>
 					<script language="javascript">
 						document.write('<td bgcolor="#FFFFFF"><a href="javascript:openWin(\'/us/adv.asp\', \'adv\',\'width=200,height=60,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no\')"><img src="/us/img/home/advertisement.gif" width="78" height="16" alt="'+sJSMetaDesc+'" border="0"></a></td>\n');
-					</script><td bgcolor="#FFFFFF"><a href="javascript:openWin('/us/adv.asp', 'adv','width=200,height=60,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no')"><img src="/us/img/home/advertisement.gif" width="78" height="16" alt="" border="0"></a></td>
-
+					</script>
 					<td bgcolor="#FFFFFF"><img src="/us/img/s.gif" width="1" height="1"></td>
 					<script language="javascript">
 						document.write('<td align="right" bgcolor="#FFFFFF"><a href="/us/"><img src="/us/img/home/home.gif" width="36" height="16" alt="'+sJSMetaDesc+'" border="0"></a></td>\n');
-					</script><td align="right" bgcolor="#FFFFFF"><a href="/us/"><img src="/us/img/home/home.gif" width="36" height="16" alt="" border="0"></a></td>
-
+					</script>
 
 				</tr>
 			</tbody></table>
@@ -136,12 +141,12 @@ var leftnavflash = {
 	</tr>
 	<tr>
 		<td class="leftnavcolor">
-			<table cellpadding="0" cellspacing="0" width="168" border="0">
-				<form name="keywordsearch" method="POST" onsubmit="keywordValue();"></form>
+			<table cellpadding="0" cellspacing="0" width="168" border="0" id="Table3">
+				<form name="keywordsearch" method="POST" onsubmit="keywordValue();" id="Form1"></form>
 					<tbody><tr>
 						<td class="leftnavcolor" valign="top"><img src="/us/img/s.gif" width="2" height="1">
-							<input type="hidden" name="type" value="keyword">
-							<input type="text" name="keywords" size="14" maxlength="30" value="Search" onfocus="this.value=''">
+							<input type="hidden" name="type" value="keyword" id="Hidden1">
+							<input type="text" name="keywords" size="14" maxlength="30" value="Search" onfocus="this.value=''" id="Text1">
 						</td>
 					<td class="leftnavcolor" valign="middle"><input type="image" src="/us/img/home/go_button.gif" value="Go!" border="0" id="image1" name="image1"><img src="/us/img/s.gif" width="5" height="1"></td>
 					</tr>
@@ -170,32 +175,27 @@ var leftnavflash = {
 					<li class="toysnav"><a href="/us/learning/" class="nav">Learning Toys</a></li>
 					<li class="toysnav"><a href="/us/babygear/" class="nav">Babygear</a></li>
 					<li class="toysnav"><a href="/us/babygear/" class="navsm"><img src="/us/img/s.gif" width="5" height="1" border="0" alt="0">Swings, monitors, and more</a></li>
-					<li class="toysnav"><a href="/us/products/more_products.asp" class="nav">More Children's Products</a></li>
+					<li class="toysnav"><a href="/us/products/more_products.asp" class="nav">Also from Fisher-Price</a></li>
 					<li class="toysnav"><a href="/fp.aspx?st=30&amp;e=whatsnew&amp;pcat=new,new1,new2,new3,new4" class="nav">What’s New!</a></li>
-					<li class="toysnav"><a href="/fp.aspx?st=30&amp;e=awards&amp;site=us&amp;pcat=awards_2005&amp;psubcats=true" class="nav">Award Winners</a></li>
+					<li class="toysnav"><a href="/fp.aspx?st=30&amp;e=awards" class="nav">Award Winners</a></li>
+					<li class="toysnav"><a href="/us/special/offers" class="nav special">Special Offers &amp; Events</a></li>
 				</ul>
-				<img src="/us/img/fpnav_bottom.gif" width="168" height="12" border="0" style="display: none; *display: inline; position: relative; top: -3px;">
+				<img src="/us/img/fpnav_bottom.gif" width="168" height="12" border="0" style="display: none; *display: inline; position: relative; top:-3px;">
 			</div>
 			<div class="leftnavcolor">
 				<img src="/us/img/s.gif" width="1" height="6">
 			</div>
+	
 		</div>
-			
 		<div id="BtnNav" style="position:relative; width:168px; z-index:5;">
-			
 			<img src="/us/img/s.gif" height="5" width="168"><br>
 			<img src="/us/img/home/shop_head.gif" width="168" height="30" border="0" alt="Shop Our Online Store">
 					<ul class="htmlnav">
-						<li class="htmlnav"><a href="/us/fpstore_leaving.asp?goto=fpstore&amp;pid=FromInnerPageLeftNav&amp;dest=http%3A%2F%2Fwww%2Efisher%2Dpricestore%2Ecom%2Fpls%2Ffp%2Fprthr%3Frd%3DF25342" class="nav">Shop Our Online Store</a></li>
+						<li class="htmlnav"><a href="http://www.fisher-pricestore.com/pls/fp/prthr?rd=F26437" class="nav"><span class="louder">Shop Our Online Store</span></a></li>
 						<li class="htmlnav"><a href="https://shop.fisher-price.com/pls/fp/catreq_main?plsql=/pls/fp" target="requestfpcatalog" class="nav">Request a Catalog</a></li>
-					</ul>
-			<img src="/us/img/s.gif" height="5" width="168"><br>
-			<img src="/us/img/home/shopper_head.gif" width="168" height="31" border="0" alt="Shopper's Helper">
-					<ul class="htmlnav">
 						<li class="htmlnav"><a href="javascript: openWin('/fp.aspx?t=page&amp;a=go&amp;p=default&amp;s=wishlist&amp;site=us', 'WishList', 'width=800,height=600,resizable=yes,scrollbars=yes');" class="nav">Create a Wish List</a></li>
 						<li class="htmlnav"><a href="javascript: openWin('/fp.aspx?t=page&amp;a=go&amp;p=default&amp;s=wishlist&amp;site=us', 'WishList', 'width=800,height=600,resizable=yes,scrollbars=yes');" class="nav">Update Your Wish List</a></li>
-						<li class="htmlnav"><a href="/fp.aspx?st=30&amp;e=gfLanding" onclick="TrackInterstitial('homepage', 'Section', 'LeftNav - Easy Gift Finder');" class="nav">Easy Gift Finder</a></li>
-						<li class="htmlnav"><a href="/fp.aspx?st=30&amp;e=storelocator" onclick="TrackInterstitial('homepage', 'Section', 'LeftNav - Where to Buy');" class="nav">Where to Buy</a></li>
+						<li class="htmlnav"><a href="/fp.aspx?st=30&amp;e=storelocator&amp;pid=fromleftnav" class="nav">Where to Buy</a></li>
 					</ul>
 				<img src="/us/img/s.gif" height="5" width="168"><br>
 				<img src="/us/img/home/email_head.gif" width="168" height="30" border="0" alt="E-mail Updates">
@@ -205,16 +205,19 @@ var leftnavflash = {
 						<li class="htmlnav"><a href="/fp.aspx?from=FPhomeupdate&amp;a=go&amp;t=page&amp;p=login&amp;s=family&amp;site=us" class="nav">Update Profile</a></li>
 					</ul>
 				<img src="/us/img/s.gif" height="5" width="168"><br>
+					<a href="/us/pregnancy/" class="nav"><img src="/us/img/home/pregnancy_head.gif" width="168" height="30" border="0" alt="Pregnancy"></a>
+				<img src="/us/img/s.gif" height="5" width="168"><br>
 				<img src="/us/img/home/parent_head.gif" width="168" height="30" border="0" alt="Parenting">
 					<ul class="htmlnav">
 						<li class="htmlnav"><a href="/fp.aspx?st=30&amp;e=myfplanding" class="nav">Age-by-Age Parenting Guide</a></li>
 						<li class="htmlnav"><a href="/fp.aspx?st=30&amp;e=expertadvicelanding" class="nav">Advice from Experts</a></li>
 						<li class="htmlnav"><a href="/fp.aspx?st=30&amp;e=momadvicelanding" class="nav">Advice from Moms</a></li>
-						<li class="htmlnav"><a href="/us/pregnancy/" class="nav">Your Pregnancy</a></li>
 						<li class="htmlnav"><a href="/us/prepare/" class="nav">Prepare and Care for Baby</a></li>
 						<li class="htmlnav"><a href="/us/special_needs" class="nav">For Special Needs Kids</a></li>
 						<li class="htmlnav"><a href="/us/playstages/" class="nav">All About Play...<br><img src="/us/img/s.gif" width="20" height="1" border="0" alt="0">stages, toys &amp; tips</a></li>
 					</ul>
+				<img src="/us/img/s.gif" height="5" width="168"><br>
+					<a href="/fp.aspx?st=30&amp;e=gplanding" class="nav"><img src="/us/img/home/grandparenting_head.gif" width="168" height="30" border="0" alt="Grandparenting"></a>
 				<img src="/us/img/s.gif" height="5" width="168"><br>
 				<img src="/us/img/home/fun_head.gif" width="168" height="30" border="0" alt="Fun &amp; Family Time">
 					<ul class="htmlnav">
@@ -244,7 +247,7 @@ var leftnavflash = {
 					</ul>
 		
 		</div>
-	</div><table cellpadding="0" cellspacing="0" width="168" class="leftnavcolor" border="0">
+	</div><table cellpadding="0" cellspacing="0" width="168" class="leftnavcolor" border="0" id="Table4">
 	
 </table>
 
@@ -267,7 +270,7 @@ var leftnavflash = {
 				document.getElementById('BtnNav').style.top = flashTop;
 				document.getElementById('BtnNav').style.left = flashLeft;
 			}
-			document.getElementById('BtnNav').style.top = '120px';
+			document.getElementById('BtnNav').style.top = '104px' //103 if we have the special offers line in the menu, else 83
 			document.getElementById('BtnNav').style.position = 'absolute';
 		}
 
@@ -423,15 +426,16 @@ var leftnavflash = {
 			<p class="legal_footer"><img src="/us/img/s.gif" width="1" height="5"><br>
 			<a href="/us/privacy.asp" target="_top" class="legal_footer"><b>FISHER-PRICE PRIVACY POLICY</b></a>&nbsp;|&nbsp;
 			<a href="/us/legal.asp" target="_top" class="legal_footer"><b>FISHER-PRICE LEGAL TERMS &amp; CONDITIONS</b></a><br>© 2006 Mattel, Inc. All Rights Reserved.<br>Use of this U.S. site signifies your acceptance of the terms and conditions of use.<br>
-			<a href="javascript:exitSite('/US/privacy.asp?', 'http://www.service.mattel.com/us/default.asp?from=fp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Customer Service', '-1');" class="legal_footer_new">Customer Service</a>&nbsp;•&nbsp;
+			<a href="javascript:exitSite('/us/privacy.asp?', 'http://www.service.mattel.com/us/default.asp?from=fp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Customer Service', '-1');" class="legal_footer_new">Customer Service</a>&nbsp;•&nbsp;
 			<a href="javascript:var wHelp = window.open('/us/help/', 'fphelp', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470');" class="legal_footer_new">Help with Fisher-Price.com</a>&nbsp;•&nbsp;
-			<a href="javascript:OpenEmailToFriend();" class="legal_footer_new">E-mail Page to a Friend</a>
+			<a href="javascript:OpenEmailToFriend();" class="legal_footer_new">E-mail Page to a Friend</a><br>
+			<a href="/" class="legal_footer_new">Home for Fisher-Price toys &amp; more</a>
 			<img src="/us/img/s.gif" width="1" height="5" border="0"></p>
 		</td>
 	</tr>
 </tbody></table>
 <script language="JavaScript" type="text/javascript" src="/us/includes/webtrends_FP_US.js"></script> 
-<noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.mattel.com/DCSN1xwj2B4S3eDMs3lPV83F5_6E9R/njs.gif?dcsuri=/US/privacy.asp%3FWT.js%3DNo">
+<noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.mattel.com/DCSN1xwj2B4S3eDMs3lPV83F5_6E9R/njs.gif?dcsuri=/us/privacy.asp%3FWT.js%3DNo">
 </noscript>
 </td>
 		<td><img src="/us/img/s.gif" width="10" height="1"></td>
