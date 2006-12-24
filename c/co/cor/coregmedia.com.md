@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622043149id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225005423id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Coregistrations | Coregistration | Co-registration | Co-registrations| CoregMedia
 
@@ -19,6 +19,10 @@ Contact information consists of the information that we can use to contact you i
 B. Other Information
 
 Profile data also is collected at our site. Depending on the specific CoregMedia products for which a user ("User") registers, various information will be requested. We use this data to tailor the visitor's experience through our interest-focused e-mails. By obtaining this information, we can provide our Users with specific content that we think they might be interested in, according to their preferences and interests. The User may include only the information he or she feels comfortable including. However, the omission of certain information may limit the value of the experience for the User. As a result, the more information we have about a User, the more valuable the CoregMedia experience will be for that User. In addition, CoregMedia provides services for direct marketing applications including lookup and reference, data enhancement, suppression and validation. 
+
+C. Under thirteen (13)
+
+CoregMedia does not intentionally collect the personal information of children under the age of thirteen (13). 
 
 #### How is User information used?
 
@@ -101,4 +105,4 @@ CoregMedia or its successors and assigns may amend the terms and conditions of t
 
 If you are not in agreement with the terms of this Policy, please unsubscribe from the CoregMedia email list, please visit http://www.coregmedia.com/optout.php or write to us at CoregMedia, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
 
-If you feel that CoregMedia is not abiding by its posted privacy policy, please contact us by clicking [here](https://web.archive.org/web/20060622043149id_/http%3A//www.coregmedia.com/company-contact.php) or write us at CoregMedia, PO Box 5860, Redwood City, CA 94063.
+If you feel that CoregMedia is not abiding by its posted privacy policy, please contact us by clicking [here](https://web.archive.org/web/20061225005423id_/http%3A//www.coregmedia.com/company-contact.php) or write us at CoregMedia, PO Box 5860, Redwood City, CA 94063.
