@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dreammoods.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615203701id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dreammoods.com privacy policy that was archived on 2006-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061224193534id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -12,759 +12,548 @@
 
 
 
-<script language="JavaScript">
 
-<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
-function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
-var bN = navigator.appName;
-var bV = parseInt(navigator.appVersion);
-var base='http://www.burstnet.com/';
-var Tv=''; var Itr='';
-var sz=''; var bkgd='';
-var bgc=''; var rfr='';
-var vr='v=1.0J';
-var agt=navigator.userAgent.toLowerCase();
-
-if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
-if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
-if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
-rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
-                            
-if (bV>=4) {
-  ts=window.location.pathname+window.location.search;
-  i=0; Tv=0; while (i< ts.length)
-    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
-} else {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
-    else if (Tv.charAt(1)=="/")
- Tv="";
-  if( Tv.charAt(Tv.length-1) == "/")
-   Tv = Tv + "_";
-}
-
-var fCode='<ifr'+'ame id="BURST" src="'+base+
- 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
- rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
- height+'"'+'marginwidth="0" marginheight="0"'+
- 'hspace="0" vspace="0" frameborder="0" '+
- 'scrolling="no">';
- var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
- vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
- 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
- '" border="0" alt="Click Here"></a>';
-var fCodeEnd = '</ifr'+'ame>';
-
-if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
- Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
- '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
-}
-
-if (agt.indexOf("mac")==-1) {
-  document.write(fCode+gCode+fCodeEnd+Itr);
-} else {
-  document.write(gCode);
-}
-}
-//-->
-
-<!-- END BURST CODE -->
-
-<!--
-function MM_swapImgRestore() { //v2.0
-  if (document.MM_swapImgData != null)
-    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
-}
-
-function MM_preloadImages() { //v2.0
-  if (document.images) {
-    var imgFiles = MM_preloadImages.arguments;
-    if (document.preloadArray==null) document.preloadArray = new Array();
-    var i = document.preloadArray.length;
-    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
-      preloadArray[i] = new Image;
-      preloadArray[i++].src = imgFiles[j];
-  } }
-}
-
-function MM_swapImage() { //v2.0
-  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
-    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-    obj = eval(objStr);
-    if (obj != null) {
-      swapArray[j++] = obj;
-      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-      obj.src = MM_swapImage.arguments[i+2];
-  } }
-  document.MM_swapImgData = swapArray; //used for restore
-}
-
-function isSearchBlank(s) 
-{
-	if (s == null)
-		return true;
-	
-	for (var i=0; i<s.length; i++)
-	{
-		if (s.charAt(i) != ' ')
-			return false;
-	}
-
-	return true;
-} 
-
-function validateSearchForm(form)
-{
-	if (isSearchBlank(form.SEARCH_QUERY_STRING.value))
-	{
-		alert("Please enter a search query");
-		form.SEARCH_QUERY_STRING.focus();
-		return false;
-	}
-
-	return true;
-}
-
-// Active images
-img3on = new Image();
-img3on.src = "http://www.dreammoods.com/images/homeon.gif";
-img4on = new Image();
-img4on.src = "http://www.dreammoods.com/images/introon.gif";
-img5on = new Image();           
-img5on.src = "http://www.dreammoods.com/images/cdreamson.gif";  
-img6on = new Image(); 
-img6on.src = "http://www.dreammoods.com/images/dictionaryon.gif";  
-img7on = new Image();
-img7on.src = "http://www.dreammoods.com/images/searchon.gif";
-img8on = new Image();
-img8on.src = "http://www.dreammoods.com/images/discussionon.gif";
-img9on = new Image();
-img9on.src = "http://www.dreammoods.com/images/gueston.gif";
-img10on = new Image();
-img10on.src = "http://www.dreammoods.com/images/contacton.gif";
-// Inactive images
-img3off = new Image();
-img3off.src = "http://www.dreammoods.com/images/homeoff.gif";
-img4off = new Image();
-img4off.src = "http://www.dreammoods.com/images/introoff.gif";
-img5off = new Image();          
-img5off.src = "http://www.dreammoods.com/images/cdreamsoff.gif"; 
-img6off = new Image();
-img6off.src = "http://www.dreammoods.com/images/dictionaryoff.gif";  
-img7off = new Image();
-img7off.src = "http://www.dreammoods.com/images/searchoff.gif";
-img8off = new Image();
-img8off.src = "http://www.dreammoods.com/images/discussionoff.gif";
-img9off = new Image();
-img9off.src = "http://www.dreammoods.com/images/guestoff.gif";
-img10off = new Image();
-img10off.src = "http://www.dreammoods.com/images/contactoff.gif";
-function imgOn(imgName) 
-{
-	if (document.images) 
-	{
-		document[imgName].src = eval(imgName + "on.src");
-     }
-}	 
-function imgOff(imgName) 
-{
-	if (document.images) 
-	{
-     	document[imgName].src = eval(imgName + "off.src");
-	}
-}	 
-
-
-function land(ref, target)
-{
-lowtarget=target.toLowerCase();
-if (lowtarget=="_self") {window.location=loc;}
-else {if (lowtarget=="_top") {top.location=loc;}
-else {if (lowtarget=="_blank") {window.open(loc);}
-else {if (lowtarget=="_parent") {parent.location=loc;}
-else {parent.frames[target].location=loc;};
-}}}
-}
-function jump(menu)
-{
-ref=menu.choice.options[menu.choice.selectedIndex].value;
-splitc=ref.lastIndexOf("&");
-target="";
-if (splitc!=-1)
-{loc=ref.substring(0,splitc);
-target=ref.substring(splitc+1,1000);}
-else {loc=ref; target="_self";};
-if (ref != "") {land(loc,target);}
-}
-
-
-//-->
-</script>
-
-
-
-<base target="_top">
-<meta name="Microsoft Border" content="tb">
+<meta name="Microsoft Border" content="tb, default">
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800000"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+<body vlink="#0000FF" alink="#0000FF"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
 
-<p align="center" style="margin-left: 0; margin-top: 10; margin-bottom: 10">      &nbsp; 
-
-
-<!-- BEGIN RICH-MEDIA BURST! CODE -->
-<script language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad8199a.cgi/v=2.0S/sz=468x60A|728x90A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad8199a.cgi/v=2.0S/sz=468x60A|728x90A/22280/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/ad8199a-map.cgi/ns/v=2.0S/sz=468x60A|728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad8199a.cgi/ns/v=2.0S/sz=468x60A|728x90A/" border="0" alt="Click Here" width="468" height="60"></a>
-</noscript>
-<!-- END BURST CODE -->
-
-
-
-
-</p>
 <div align="center">
   <center>
-<table border="0" cellpadding="0" width="825" cellspacing="0">
-  <tbody><tr>
-    <td width="100" valign="bottom" align="center">
-      <p align="center"><img border="0" src="http://www.dreammoods.com/images/dreamtitle4.jpg" align="left" width="250" height="63"></p>
-    </td>
-    <td width="700" valign="bottom" align="center">
-      <p align="center">&nbsp;</p>
-      <p align="center" style="margin-bottom: -5"><a href="http://www.dreammoods.com" onmouseover="imgOn('img3')" onmouseout="imgOff('img3')"><img name="img3" src="http://www.dreammoods.com/images/homeoff.gif" border="0" alt="Dream Moods Home Page" width="55" height="26"></a><a href="http://www.dreammoods.com/dreaminformation/" onmouseover="imgOn('img4')" onmouseout="imgOff('img4')"><img name="img4" src="http://www.dreammoods.com/images/introoff.gif" border="0" alt="Dream Moods Information" width="90" height="26"></a><a href="http://www.dreammoods.com/commondreams/" onmouseover="imgOn('img5')" onmouseout="imgOff('img5')"><img name="img5" src="http://www.dreammoods.com/images/cdreamsoff.gif" border="0" alt="Common Dreams" width="69" height="26"></a><a href="http://www.dreammoods.com/dreamdictionary/" onmouseover="imgOn('img6')" onmouseout="imgOff('img6')"><img name="img6" src="http://www.dreammoods.com/images/dictionaryoff.gif" border="0" alt="Dream Moods Dictionary" width="80" height="26"></a><a href="http://www.dreammoods.com/reference/sitemap.htm" onmouseover="imgOn('img7')" onmouseout="imgOff('img7')"><img name="img7" src="http://www.dreammoods.com/images/searchoff.gif" border="0" alt="Search Our Site" width="45" height="26"></a><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/cutecast.pl"><img name="img8" src="http://www.dreammoods.com/images/discussionoff.gif" border="0" alt="Share Your Thoughts In Our Forum" width="84" height="26"></a><a href="http://www.dreammoods.com/guestbook.htm" onmouseover="imgOn('img9')" onmouseout="imgOff('img9')"><img name="img9" src="http://www.dreammoods.com/images/guestoff.gif" border="0" alt="Leave Your Mark" width="53" height="26"></a><a href="http://www.dreammoods.com/contact.htm" onmouseover="imgOn('img10')" onmouseout="imgOff('img10')"><img name="img10" src="http://www.dreammoods.com/images/contactoff.gif" border="0" alt="Tell Us What You Think!" width="72" height="26"></a>
+  <table border="0" width="746" bordercolor="#FFFFFF" height="145">
+    <tbody><tr>
+      <td width="742" height="29" colspan="2" valign="top">
+        <p align="center">
+      
 
 
 
-      </p>
+<!-- Casale Media 2006 (C) -->
+<!-- Ad Format: Leaderboard -->
+<!-- Domain(s): dreammoods.com, dreemmoods.com -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
+var casaleWH='" width="728" height="90" ';
+var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
+casaleFR +=' allowtransparency="true">';
+document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=70204&amp;u='+casaleUU);
+document.write('&amp;f=2&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
+document.write(casaleHost+'c?s=70204&amp;f=2&amp;id='+casaleR+'" target="_blank">');
+document.write('<i'+'mg src="http://as'+casaleHost+'s?s=70204&amp;u='+casaleUU);
+document.write('&amp;f=2&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
+document.write('<\/ifr'+'ame>');
+//--></script><iframe src="http://as.casalemedia.com/s?s=70204&amp;u=https%3A//web.archive.org/web/20061224193534id_/http%253A//www.dreammoods.com/privacystatement.htm&amp;f=2&amp;id=1723336838.6147678" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=70204&amp;f=2&amp;id=1723336838.6147678" target="_blank"><img src="http://as.casalemedia.com/s?s=70204&amp;u=https%3A//web.archive.org/web/20061224193534id_/http%253A//www.dreammoods.com/privacystatement.htm&amp;f=2&amp;id=1723336838.6147678&amp;if=0" width="728" height="90" border="0"></a></iframe><noscript>
+<iframe src="http://as.casalemedia.com/s?s=70204&u=http%3A%2F%2Fdreammoods.com&f=2&id=1"
+width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" 
+allowtransparency="true">
+<a href="http://c.casalemedia.com/c?s=70204&f=2&id=0" target="_blank"><img
+src="http://as.casalemedia.com/s?s=70204&u=http%3A%2F%2Fdreammoods.com&f=2&id=0&if=0" border="0" alt=""></a></iframe></noscript>
+<!-- Casale Media 2006 (C) -->
 
 
 
-    </td>
-  </tr>
-</tbody></table>
-  </center>
-</div>
-<div align="center">
-  <center>
-
-<table border="0" cellpadding="0" width="825" cellspacing="0" height="1">
-  <tbody><tr>
-    <td width="45" bgcolor="#4D99E5" height="1" valign="top" align="left">
-      <img border="0" src="http://www.dreammoods.com/images/LeftPurCorner.gif" width="9" height="11"></td>
-    <td width="248" bgcolor="#4D99E5" height="1" valign="middle" align="center">
-      <p align="center" style="margin-left: 0; margin-top: 3; margin-bottom: 10"><img border="0" src="http://www.dreammoods.com/images/motto.gif" align="left" width="202" height="22"></p></td>
-    <td width="497" bgcolor="#4D99E5" height="1" valign="top" align="right">
 
 
 
-         <form method="GET" action="http://dreemmoods.com/cgi-bin/searchcsv.pl" style="margin-top: 0; margin-bottom: 0">
 
-<p align="right" style="margin-top: 5; margin-bottom: 5">
-<input type="text" name="search" size="15" style="margin-top: 0; margin-bottom: 0">
- &nbsp;
- <input type="hidden" name="method" value="exact"><input type="hidden" name="header" value="symbol"><input type="submit" value="interpret" style="color: #6500CA; font-family: Arial; font-size: 8pt; font-weight: bold; border-style: outset; margin-left: 0; margin-right: 0; padding-left: -10; padding-right: -10; padding-top: -3; padding-bottom: -3">
+
+      </p></td>
+    </tr>
+    <tr>
+      <td width="348" height="133">
+        <p align="center"><img border="0" src="http://www.dreammoods.com/images/dreammoodstitle.JPG" width="350" height="125"></p>
+      </td>
+    
+      <td width="394" height="133" valign="bottom" bgcolor="#FFFFFF">
+        <p align="right"><font color="#0000FF"><b><a href="http://www.dreammoods.com"><font face="Arial" size="2">home</font></a><font face="Arial" size="2">
+        </font><font face="Arial" size="4"> . </font><a href="http://www.dreammoods.com/dreaminformation/"><font face="Arial" size="2">dream
+        info</font></a><font face="Arial" size="2"> </font><font face="Arial" size="4">.
+        </font><a href="http://www.dreammoods.com/commondreams/"><font face="Arial" size="2">common
+        dreams</font></a><font face="Arial" size="2">&nbsp; </font><font face="Arial" size="4">.
+        </font><a href="http://www.dreammoods.com/dreamdictionary/"><font face="Arial" size="2">dream
+        dictionary </font></a><font face="Arial" size="4">. </font><a href="http://www.dreammoods.com/dreambank/"><font face="Arial" size="2">dream
+        bank</font></a><font face="Arial" size="2">&nbsp; </font><font face="Arial" size="4">.
+        </font></b><font face="Arial" size="2"><a href="http://www.dreammoods.com/reference/sitemap.htm"><b>site
+        map</b></a></font><b><font face="Arial" size="2">&nbsp; </font><font face="Arial" size="4">.
+        </font></b><font face="Arial" size="2"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl"><b>discussion
+        forum</b></a></font><b><font face="Arial" size="2"> </font><font face="Arial" size="4">.
+        </font></b><a href="http://www.dreammoods.com/contact.htm"><font face="Arial" size="2"><b>contact
+        us</b></font></a></font>
+        
+        
+        
+       
+  </p><center>
+        
+        
+        
+       
+                          <form method="GET" action="http://dreammoods.com/cgibin/searchcsv.pl" style="margin-top: 0; margin-bottom: 0">
+
+<input type="hidden" name="method" value="exact"><input type="hidden" name="header" value="dreamsymbol">
+
+  </form></center>
+
+<p align="right" style="margin-top: 5; margin-bottom: 15">
+<font face="Arial" color="#0066CC" size="3">
+      
+      
+<input type="text" name="search" size="18" style="margin-top: 0; margin-bottom: 0"></font>&nbsp;
+<font face="Arial" color="#0066CC" size="3"><input type="submit" value="interpret" style="color: #000000; font-family: Arial; font-size: 8pt; font-weight: bold; border-style: outset; margin-left: 0; margin-right: 0; padding-left: -10; padding-right: -10; padding-top: -3; padding-bottom: -3">
+      
+</font>
 </p>
 
 
-</form> 
-
-
-
-          
-          
-          </td>
-    <td width="28" bgcolor="#4D99E5" height="1" valign="top" align="right">
-          <img border="0" src="http://www.dreammoods.com/images/RightPurCorner.gif" width="9" height="11"></td>
-  </tr>
-  </tbody></table>
-
-  </center>
-</div>
-
-</td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top">
-<div align="center">
   <center>
-
-
-
-     
-
-<table border="0" cellpadding="0" width="825" height="1" cellspacing="0">
-  <tbody><tr>
-    <td width="192" height="1" bgcolor="#4D99E5" valign="top" align="center">
-      &nbsp;
-      <table border="0" cellpadding="0" width="180" cellspacing="10" height="560">
-        <tbody><tr>
-          <td width="180" bgcolor="#E5F6FF" valign="top" height="144" align="center">
-            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#66CCFF">
-                  <p align="center" style="margin-top: 5; margin-bottom: 5"><b><a href="dreaminformation/index.html"><font face="Arial" color="#FFFFFF" size="2">DREAM
-                  INFO</font></a></b></p></td>
-              </tr>
-            </tbody></table>
-            <p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="dreaminformation/history.htm">History</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="dreaminformation/dreamresearch.htm">Dream
-            Research</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="dreaminformation/dreamtypes/index.html">Types
-            of Dreams</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="dreaminformation/dreamfacts.htm">Dream
-            Facts</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="dreaminformation/recallingdreams.htm">Dream
-            Recall</a></font>
-            </p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 10"><font face="Arial" size="2"><a href="dreaminformation/dreamtheory/freud.htm">Dream
-            Theories</a></font>
-          </p></td>
-        </tr>
-        <tr>
-          <td width="180" bgcolor="#E5F6FF" height="143" align="center" valign="top">
-            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#66CCFF">
-                  <p align="center" style="margin-top: 5; margin-bottom: 5"><b><a href="commondreams/"><font face="Arial" color="#FFFFFF" size="2">COMMON
-                  DREAMS</font></a></b></p></td>
-              </tr>
-            </tbody></table>
-            <table border="0" cellpadding="0" width="100%">
-              <tbody><tr>
-                      <td width="50%" valign="middle" align="left">
-                        <p style="margin-left: 8; margin-top: 10"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/nakeddreams.pl?method=exact&amp;header=dreamid&amp;search=nakedintro">Naked</a></font></p></td>
-                      <td width="50%" valign="middle" align="left" bordercolor="#E5F6FF">
-                        <p style="margin-top: 10"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/teethdreams.pl?method=exact&amp;header=dreamid&amp;search=teethintro">Teeth</a></font></p></td>
-              </tr>
-              <tr>
-                      <td width="50%" valign="middle" align="left">
-                        <p style="margin-left: 8; margin-top: 5"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/flyingdreams.pl?method=exact&amp;header=dreamid&amp;search=flyingintro">Flying</a></font></p></td>
-                      <td width="50%" valign="middle" align="left" bordercolor="#E5F6FF">
-                        <p style="margin-top: 5"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/fallingdreams.pl?method=exact&amp;header=dreamid&amp;search=fallingintro">Falling</a></font></p></td>
-              </tr>
-              <tr>
-                      <td width="50%" valign="middle" align="left">
-                        <p style="margin-left: 8; margin-top: 5"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/chasedreams.pl?method=exact&amp;header=dreamid&amp;search=chaseintro">Chase</a></font></p></td>
-                      <td width="50%" valign="middle" align="left" bordercolor="#E5F6FF">
-                        <p style="margin-top: 5"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/examdreams.pl?method=exact&amp;header=dreamid&amp;search=examintro">Exam</a></font></p></td>
-              </tr>
-              <tr>
-                <td width="50%"></td>
-                <td width="50%"></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr>
-          <td width="160" bgcolor="#E5F6FF" valign="top" height="22" align="center">
-            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#66CCFF">
-                  <p align="center" style="margin-top: 5; margin-bottom: 5"><b><a href="dreamdictionary/"><font face="Arial" color="#FFFFFF" size="2">DREAM
-                  DICTIONARY</font></a></b></p></td>
-              </tr>
-            </tbody></table>
-            <p align="center" style="line-height: 150%; margin-left: 10; margin-right: 10; margin-top: 15; margin-bottom: 10"><font face="Arial" size="3"><a href="http://www.dreammoods.com/dreamdictionary/a.htm"><font color="#0000FF">A</font></a><font color="#0000FF">&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/b.htm">B</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/c.htm">C</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/d.htm">D</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/e.htm">E</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/f.htm">F</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/g.htm">G</a>&nbsp;&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/h.htm">H</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/i.htm">I</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/j.htm">J</a>&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/k.htm">K</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/l.htm">L&nbsp;</a>
-            <a href="http://www.dreammoods.com/dreamdictionary/m.htm">M</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/n.htm">N</a> <a href="http://www.dreammoods.com/dreamdictionary/o.htm">O</a>&nbsp;&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/p.htm">P</a><b>&nbsp;</b>
-            <a href="http://www.dreammoods.com/dreamdictionary/q.htm">Q</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/r.htm">R</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/s.htm">S</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/t.htm">T</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/u.htm">U</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/v.htm">V</a>&nbsp;&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/w.htm">W</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/x.htm">X</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/y.htm">Y</a>&nbsp;
-            <a href="http://www.dreammoods.com/dreamdictionary/z.htm">Z</a></font><font color="#6500CA">&nbsp;</font></font><font color="#6500CA" face="Arial" size="3"><b>
-            
-                 </b></font></p><form method="GET" action="http://dreammoods.com/cgibin/searchcsv.pl" style="margin-top: 0; margin-bottom: 0"><font color="#6500CA" face="Arial" size="3"><b>
-
-<p align="center" style="margin-top: 5; margin-bottom: 10">
-<input type="text" name="search" size="15" style="margin-top: 0; margin-bottom: 0">
-&nbsp; <input type="hidden" name="method" value="exact"><input type="hidden" name="header" value="symbol"><input type="submit" value="interpret" style="color: #6500CA; font-family: Arial; font-size: 8pt; font-weight: bold; border-style: outset; margin-left: 0; margin-right: 0; padding-left: -10; padding-right: -10; padding-top: -3; padding-bottom: -3">
-</p>
 
 
  
-            
-            </b></font></form>
-            <p>&nbsp;</p></td>
-        </tr>
-        <tr>
-          <td width="160" bgcolor="#E5F6FF" valign="top" height="22" align="center">
-            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#66CCFF">
-                  <p align="center" style="margin-top: 5; margin-bottom: 5"><b><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl"><font face="Arial" color="#FFFFFF" size="2">DISCUSSION
-                  FORUM</font></a></b></p></td>
-              </tr>
-            </tbody></table>
-            <p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl?forum=1">General
-            Dream Discussion</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl?forum=2">Dreams
-            About Celebrities</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl?forum=3">Dreams
-            About Cheating</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl?forum=5">Rant
-            And Rave</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 8"><font face="Arial" size="2"><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl?forum=7">Fun
-            And Games</a></font></p><p align="center" style="margin: 10"><font face="Arial" size="2"><a href="http://www.dreammoods.com/cgibin/cutecast/cutecast.pl?forum=4">Forum
-            Help</a></font></p></td>
-        </tr>
-        <tr>
-          <td width="160" bgcolor="#E5F6FF" valign="top" height="22" align="center">
-            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#66CCFF">
-                  <p align="center" style="margin-top: 5; margin-bottom: 5"><b><font face="Arial" color="#FFFFFF" size="2">REFERENCE</font></b></p></td>
-              </tr>
-            </tbody></table>
-            <p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 10"><font face="Arial" size="2"><a href="reference/faq.htm">Frequently
-            Asked Questions</a></font></p><p align="center" style="margin: 10"><font face="Arial" size="2"><a href="reference/glossary.htm">Glossary</a></font></p><p align="center" style="margin: 10"><font face="Arial" size="2"><a href="reference/linktous.htm">Link
-            To Us</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 10; margin-bottom: 8"><font face="Arial" size="2"><a href="reference/sitemap.htm">Site
-            Map</a></font></p></td>
-        </tr>
-        <tr>
-          <td width="160" bgcolor="#E5F6FF" valign="top" height="22" align="center">
-            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#66CCFF">
-                  <p align="center" style="margin-top: 5; margin-bottom: 5"><b><font face="Arial" color="#FFFFFF" size="2">GUESTBOOK</font></b></p></td>
-              </tr>
-            </tbody></table>
-            <p align="center" style="margin: 10"><font face="Arial" size="2"><a href="http://www.dreammoods.com/guestbook.htm">Sign
-            Guestbook</a></font></p><p align="center" style="margin-left: 10; margin-right: 10; margin-top: 8; margin-bottom: 10"><font face="Arial" size="2"><a href="http://www.dreammoods.com/readguestbook.htm">Read
-            Guestbook</a></font>
-          </p></td>
-        </tr>
-        <tr>
-          <td width="160" bgcolor="#4D99E5" valign="top" height="21" align="center">
-            <p>&nbsp;</p>
-            <p>&nbsp;</p></td>
-        </tr>
-        <tr>
-          <td width="160" bgcolor="#4D99E5" valign="top" height="134" align="center">
-            <p align="center" style="margin-top: 25"><font color="#6500CA" face="Arial" size="2">
-       
 
-          
-          </font>
-          </p></td>
-        </tr>
-      </tbody></table>
+
+
+
+
+
+        </center> 
+
+
+
+
+
+
+</td>
+    </tr>
+  </tbody></table>
+</center></div>
+
+</td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top">
+
+  <center>
+  <center>
+    </center><table border="0" width="746" height="247" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td height="23" width="213"><img border="0" src="images/clear.gif" width="26" height="21"></td>
+      <td height="23" width="559" colspan="2">
+        <p style="margin-top: 0"></p></td>
+    </tr>
+    <tr>
+      <td height="123" width="213" rowspan="6" valign="top" bgcolor="#EFEFEF">
+        <table border="2" width="199" bordercolor="#7603AB">
+          <tbody><tr>
+            <td width="189" bgcolor="#EFEFEF">
+              <p style="line-height: 100%; margin-right: 5; margin-top: 10; margin-bottom: -8" align="center"><a href="http://www.dreammoods.com/dreaminformation/"><font face="Arial" size="2">Dream
+              Information</font></a></p>
+              <ul>
+                <li>
+                  <p style="line-height: 100%; margin-right: 5; margin-top: -15; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/history.htm">History</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamresearch.htm">Dream
+                  Research</a></font>
+                  </p><ul>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamresearch.htm">Sleep
+                      Cycle</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamresearch2.htm">Mechanics
+                      Of Dreaming</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamresearch3.htm">Importance
+                      of Dreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamresearch4.htm">Babies
+                      And Dreams</a></font></p></li>
+                  </ul>
+                </li>
+                <li>
+                  <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/">Type
+                  Of Dreams</a></font>
+                  </p><ul style="color: #0066CC">
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/daydreams.htm">Daydreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/luciddreams.htm">Lucid
+                      Dreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/nightmares.htm">Nightmares</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/recurringdreams.htm">Recurring
+                      Dreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/#Healing%20Dreams">Healing
+                      Dreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/#PropheticDreams">Prophetic
+                      Dreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/#SignalDreams">Signal
+                      Dreams</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtypes/#EpicDreams">Epic
+                      Dreams</a></font></p></li>
+                  </ul>
+                </li>
+                <li>
+                  <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamfacts.htm">Dream
+                  Facts</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/recallingdreams.htm">Remembering
+                  Dreams</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtheory/freud.htm">Dream
+                  Theorists</a></font>
+                  </p><ul>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtheory/adler.htm">Alfred
+                      Adler</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtheory/freud.htm">Sigmund
+                      Freud</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtheory/jung.htm">Carl
+                      Jung</a></font></p></li>
+                    <li>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 10"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreaminformation/dreamtheory/perls.htm">Frederick
+                      Perls</a></font></p></li>
+                  </ul>
+                      <p style="line-height: 100%; margin-right: 5; margin-top: 0; margin-bottom: 10">&nbsp;
+                </p></li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td width="189" bgcolor="#EFEFEF">
+              <p style="line-height: 100%; margin-top: 10; margin-bottom: -8" align="center"><font face="Arial" size="2"><a href="http://www.dreammoods.com/commondreams/">Common
+              Dreams</a></font></p>
+              <ul style="color: #053E9A">
+                <li>
+                  <p style="line-height: 100%; margin-top: -15; margin-bottom: 0"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/nakeddreams.pl?method=exact&amp;header=dreamid&amp;search=nakedintro">Naked
+                  Dreams</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/chasedreams.pl?method=exact&amp;header=dreamid&amp;search=chaseintro">Chase
+                  Dreams</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/teethdreams.pl?method=exact&amp;header=dreamid&amp;search=teethintro">Teeth
+                  Dreams</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/flyingdreams.pl?method=exact&amp;header=dreamid&amp;search=flyingintro">Flying
+                  Dreams</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/fallingdreams.pl?method=exact&amp;header=dreamid&amp;search=fallingintro">Falling
+                  Dreams</a></font></p></li>
+                <li>
+                  <p style="line-height: 100%; margin-top: 0; margin-bottom: 10"><font face="Arial" size="2"><a href="http://dreammoods.com/cgibin/examdreams.pl?method=exact&amp;header=dreamid&amp;search=examintro">Test
+                  Dreams</a></font></p></li>
+              </ul>
+                  <p style="line-height: 100%; margin-top: 0; margin-bottom: 10">&nbsp;
+            </p></td>
+          </tr>
+          <tr>
+            <td width="189" bgcolor="#EFEFEF"><p style="line-height: 100%; margin-top: 10; margin-bottom: 0" align="center"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreamdictionary/">Dream
+              Dictionary</a></font></p>
+              <p style="line-height: 100%; margin-left: 25; margin-right: 25; margin-top: 3; margin-bottom: 3" align="center"><a href="http://www.dreammoods.com/dreamdictionary/a.htm"><font face="Arial" color="#0000ff" size="2">A</font></a><font face="Arial" color="#0000ff" size="2">&nbsp;
+              </font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/b.htm">B</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/c.htm">C</a>&nbsp;
+              </font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/d.htm">D</a>&nbsp;
+              </font><font face="Arial" color="#0000FF" size="4"><b>&nbsp;</b></font><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/e.htm">E</a></font></p>
+              <p style="line-height: 100%; margin-left: 25; margin-right: 25; margin-top: 3; margin-bottom: 3" align="center"><font face="Arial" color="#0000ff" size="2"><a href="http://www.dreammoods.com/dreamdictionary/f.htm">F</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/g.htm">G</a>&nbsp;
+              </font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/h.htm">H</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/i.htm">I</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4"> </font></b><font face="Arial" color="#0000ff" size="2"><a href="http://www.dreammoods.com/dreamdictionary/j.htm">J</a></font></p>
+              <p style="line-height: 100%; margin-left: 25; margin-right: 25; margin-top: 3; margin-bottom: 3" align="center"><font face="Arial" color="#0000ff" size="2"><a href="http://www.dreammoods.com/dreamdictionary/k.htm">K</a>&nbsp;
+              </font><font face="Arial" color="#0000FF" size="4"><b>&nbsp;</b></font><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/l.htm">L </a></font><font face="Arial" color="#0000FF" size="4"><b>&nbsp;&nbsp;</b></font><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/m.htm">M</a>&nbsp;
+              </font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/n.htm">N</a>&nbsp;
+              </font><font face="Arial" color="#0000FF" size="4"><b>&nbsp;</b></font><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/o.htm">O</a></font></p>
+              <p style="line-height: 100%; margin-left: 25; margin-right: 25; margin-top: 3; margin-bottom: 3" align="center"><font face="Arial" color="#0000ff" size="2">&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/p.htm">P</a>&nbsp;
+              </font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/q.htm">Q</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/r.htm">R</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4">&nbsp;</font></b><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/s.htm">S</a>&nbsp;&nbsp;&nbsp;
+              <a href="http://www.dreammoods.com/dreamdictionary/t.htm">T</a></font></p>
+              <p style="line-height: 100%; margin-left: 25; margin-right: 25; margin-top: 3; margin-bottom: 3" align="center"><font face="Arial" color="#0000ff" size="2">&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/u.htm">U</a>&nbsp;&nbsp;
+              <a href="http://www.dreammoods.com/dreamdictionary/v.htm">V</a>&nbsp;
+              </font><font face="Arial" color="#0000FF" size="4"><b>&nbsp;</b></font><font face="Arial" color="#0000ff" size="2"><a href="http://www.dreammoods.com/dreamdictionary/w.htm">W</a>
+              </font><font face="Arial" color="#0000FF" size="4"><b>&nbsp;</b></font><font face="Arial" color="#0000ff" size="2">
+              <a href="http://www.dreammoods.com/dreamdictionary/x.htm">X</a>&nbsp;&nbsp;&nbsp;<a href="http://www.dreammoods.com/dreamdictionary/y.htm">Y</a>
+              &nbsp;</font><b><font face="Arial" color="#0000FF" size="4"> </font></b><font face="Arial" color="#0000ff" size="2"><a href="http://www.dreammoods.com/dreamdictionary/z.htm">Z</a></font></p>
+              &nbsp;</td>
+          </tr>
+          <tr>
+            <td width="189" bgcolor="#EFEFEF"><p style="line-height: 100%; margin-top: 10; margin-bottom: -8" align="center"><font face="Arial" size="2"><a href="http://www.dreammoods.com/dreamthemes/animals.htm">Dream
+              Themes</a></font></p>
+            <ul style="color: #053E9A">
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/animals.htm"><font face="Arial" color="#0000ff" size="2">Animals</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/birds.htm"><font face="Arial" color="#0000ff" size="2">Birds</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/bodyparts.htm"><font face="Arial" color="#0000ff" size="2">Body
+                Parts</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/bugs.htm"><font face="Arial" color="#0000ff" size="2">Bugs</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/characters.htm"><font face="Arial" color="#0000ff" size="2">Characters</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/colors.htm"><font face="Arial" color="#0000ff" size="2">Colors</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/feelings.htm"><font face="Arial" color="#0000ff" size="2">Feelings</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/food.htm"><font face="Arial" color="#0000ff" size="2">Food</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/house.htm"><font face="Arial" color="#0000ff" size="2">House</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 0" align="left"><a href="http://www.dreammoods.com/dreamthemes/numbers.htm"><font face="Arial" color="#0000ff" size="2">Numbers</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 2px; margin-top: 0; margin-bottom: 10" align="left"><a href="http://www.dreammoods.com/dreamthemes/places.htm"><font face="Arial" color="#0000ff" size="2">Places</font></a></p></li>
+            </ul>
+              &nbsp;</td>
+          </tr>
+          <tr>
+            <td width="189" bgcolor="#EFEFEF" valign="top"><p style="line-height: 100%; margin-right: 5; margin-top: 10; margin-bottom: -8" align="center"><font face="Arial" size="2"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl">Discussion
+              Forums</a></font></p>
+            <ul style="color: #053E9A">
+              <li>
+                <p style="margin-left: 5px; margin-right: 5; margin-top: 0" align="left"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl?board=general"><font face="Arial" color="#0000ff" size="2">General
+                Dream Discussion</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 5; margin-top: 0" align="left"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl?board=lucid"><font face="Arial" color="#0000ff" size="2">Lucid
+                Dreams</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 5; margin-top: 0" align="left"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl?board=nightmares"><font face="Arial" color="#0000ff" size="2">Nightmares
+                and Night Terrors</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 5; margin-top: 0" align="left"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl?board=relationships"><font face="Arial" color="#0000ff" size="2">Dreams
+                About Relationships</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 5; margin-top: 0" align="left"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl?board=mystic"><font face="Arial" color="#0000ff" size="2">Mystic
+                Dreams</font></a></p></li>
+              <li>
+                <p style="margin-left: 5px; margin-right: 5; margin-top: 0" align="left"><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/YaBB.pl?board=celebrities"><font face="Arial" color="#0000ff" size="2">Celebrity
+                Dreams</font></a></p></li>
+            </ul>
+              &nbsp;
+              <p>&nbsp;</p>
+              <p>&nbsp;</p></td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="18" width="559" colspan="2">
+        <p><img border="0" src="images/clear.gif" width="26" height="15"></p></td>
+    </tr>
+    <tr>
+      <td height="1" width="559" colspan="2">
+        <p style="margin-left: 8; margin-top: 0; margin-bottom: -15px" align="right">&nbsp;</p>
+        <p style="margin-left: 8; margin-top: 0; margin-bottom: -15px" align="right"><i><b><font face="Arial" color="#7603AB" size="6">privacy
+        statement&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</font></b></i></p>
+        <hr align="left" width="540" color="#7603AB" style="margin-bottom: 0" noshade="">
+  
     </td>
-    <td width="13" height="1" valign="top" rowspan="2"><img border="0" src="http://www.dreammoods.com/images/InvertedCorner.gif" width="9" height="11"></td>
-    <td width="617" height="1" colspan="4" valign="top" rowspan="2" align="left">
-      <p align="center" style="margin-top: 10">&nbsp;
-              </p><hr color="#66CCFF" size="5" align="center" width="437">
-      <p align="center" style="margin-top: 10; margin-bottom: 10">
- <b><font face="Arial" color="#6500CA" size="6">privacy
-      statement</font></b>
-      </p>
-              <hr color="#66CCFF" size="5" align="center" width="437">
-              <p style="margin-right: 10; margin-top: 0; margin-bottom: 0" align="left">&nbsp;</p>
-      <p style="margin-left: 30; margin-right: 30"><font color="#6500CA"><font face="Arial">We,
-      at <a href="index.html">Dream Moods</a>, recognize your right to
-      confidentiality and</font><font face="Arial" size="3"> has created this
-      privacy statement in order to demonstrate our firm commitment to
-      protecting your privacy. The following discloses the information gathering
-      and dissemination practices for <a href="index.html">Dream Moods.</a><br>
+    </tr>
+
+  <tr>
+      <td height="21" width="559" colspan="2">
+      <p style="margin-left: 8">&nbsp;
+      </p></td>
+    </tr>
+  
+    <tr>
+      <td height="176" width="493" valign="top" rowspan="3">
+      <p style="margin-left: 15; margin-right: 15"><font color="#0066cc" size="3"><font face="Arial">We,
+      at <a href="http://www.dreammoods.com/index.html">Dream Moods</a>,
+      recognize your right to confidentiality and
+      has created this privacy statement in order to demonstrate our firm
+      commitment to protecting your privacy. The following discloses the
+      information gathering and dissemination practices for <a href="http://www.dreammoods.com/index.html">Dream
+      Moods.</a><br>
       <br>
       <b>Information Automatically Logged</b>: We use your IP address to gather
       broad demographic information and&nbsp; as a way of diagnosing problems
-      with our server and to administer and monitor our site.</font></font><font face="Arial" size="3" color="#6500CA"><br>
+      with our server and to administer and monitor our site.<br>
       <br>
-      <b>Advertisers:</b> We use several outside ad companies to display ads on our
-      site. These ads may contain cookies. While we use cookies in other parts
-      of our web site, cookies received with banner ads are collected by the ad
-      companies themselves;&nbsp; we do not have access to this information.&nbsp;<br>
+      <b>Advertisers:</b> We use several outside ad companies to display ads on
+      our site. These ads may contain cookies. While we use cookies in other
+      parts of our web site, cookies received with banner ads are collected by
+      the ad companies themselves;&nbsp; we do not have access to this
+      information.&nbsp;<br>
       <br>
-      <b>Personal Information:</b>  Certain
-      information you submit to Dream Moods may be displayed on the site as a
-      way to help
-      others and increase interactivity. It may also allow us to combine the
-      information with our other users' information and review it an an
-      aggregate form to understand the type of individuals who visit our site. Our goal is to customize and
-      personalize our web presence.&nbsp;</font></p>
-      <p style="margin-left: 30; margin-right: 30"><font face="Arial" size="3" color="#6500CA">We
+      <b>Personal Information:</b> Certain information you submit to Dream Moods
+      may be displayed on the site as a way to help others and increase
+      interactivity. It may also allow us to combine the information with our
+      other users' information and review it an an aggregate form to understand
+      the type of individuals who visit our site. Our goal is to customize and
+      personalize our web presence.&nbsp;</font></font></p>
+      <p style="margin-left: 15; margin-right: 15"><font face="Arial" color="#0066cc" size="3">We
       do not disclose your personal information except if required by a subpoena
-      or court order. We do not sell, trade or share your email addresses&nbsp; to any third parties or
-      provide any information that allows you to be personally contacted.</font></p>
-      <p style="margin-left: 30; margin-right: 30"><font face="Arial" size="3" color="#6500CA">
+      or court order. We do not sell, trade or share your email addresses&nbsp;
+      to any third parties or provide any information that allows you to be
+      personally contacted.</font></p>
+      <p style="margin-left: 15; margin-right: 15"><b><font face="Arial" color="#0066cc" size="3">External
+      Links:</font></b> <font face="Arial" color="#0066cc" size="3"> This site contains links to other sites. Dream Moods is not
+      responsible for the privacy practices or the content of these web sites.&nbsp;<br>
       <br>
-      <b>External Links:</b> This site contains links to other sites. Dream
-      Moods is not responsible for the privacy practices or the content of these
-      web sites.&nbsp;<br>
-      <br>
-      <b>Public Forums</b>: This site features several discussion forums that are
-      available to all visitors.&nbsp; We try to minimize the personal
+      <b>Public Forums</b>: This site features several discussion forums that
+      are available to all visitors.&nbsp; We try to minimize the personal
       information that we need from you. When you register for an account, you
       will need to provide us with a username, password, and an email address
       (which you can keep hidden from public view). Any other information you
       provide in your personal profile (i.e. photo, full name, messenger
-      handles, location, etc) is optional and will be publicly viewable. Please remember that any information that is
-      disclosed in these areas immediately become public information and is
-      accessible by anyone.&nbsp; Please exercise caution when deciding to disclose your personal
-      information or any information for that matter.&nbsp;&nbsp;</font></p>
-      <p style="margin-left: 30; margin-right: 30"><font face="Arial" size="3" color="#6500CA">Note
+      handles, location, etc) is optional and will be publicly viewable. Please
+      remember that any information that is disclosed in these areas immediately
+      become public information and is accessible by anyone.&nbsp; Please
+      exercise caution when deciding to disclose your personal information or
+      any information for that matter.&nbsp;&nbsp;</font></p>
+      <p style="margin-left: 15; margin-right: 15"><font face="Arial" color="#0066cc" size="3">Note
       also that when using the discussion forums, a "cookie" will be
       placed on your computer's hard drive. This cookie will identify your
       browser when you visit the site again. You may set your browser to refuse
       cookies. However the forums will not function properly if cookies are
       disabled.&nbsp;</font></p>
-      <p style="margin-left: 30; margin-right: 30"><font face="Arial" size="3" color="#6500CA"><b>Children's
-      Online Privacy Protection:</b> Dream Moods is not intended for children
-      under age of 13.&nbsp; No one under 13 is allowed to provide any personal
-      information or use the discussion forums. We do not and will not intentionally
-      maintain information about anyone under the age of 13. We regret any
-      inconvenience this may cause. If you are a parent and are aware that your
-      child is a member in our forum, please email <a href="mailto:forums@dreemmoods.com">forums@dreemmoods.com</a>
-      to have their account terminated.</font></p>
-      <p style="margin-left: 30; margin-right: 30"><font face="Arial" size="3" color="#6500CA">
-      <br>
+      <p style="margin-left: 15; margin-right: 15"><font size="3"><b><font face="Arial" color="#0066cc">Children's
+      Online Privacy Protection:</font></b> <font face="Arial" color="#0066cc" size="3">Dream
+      Moods is not intended for children under age of 13.&nbsp; No one under 13
+      is allowed to provide any personal information or use the discussion
+      forums. We do not and will not intentionally maintain information about
+      anyone under the age of 13. We regret any inconvenience this may cause. If
+      you are a parent and are aware that your child is a member in our forum,
+      please email <a href="mailto:forums@dreemmoods.com">forums@dreammoods.com</a>
+      to have their account terminated.</font></font></p>
+      <p style="margin-left: 15; margin-right: 15"><font face="Arial" color="#0066cc" size="3"><br>
       <b>Contacting The Web Site</b>: If you have any questions about this
       privacy statement, the practices of this site, or your dealings with this
-      Web site, you can contact <a href="mailto:contact@dreammoods.com">privacy@dreemmoods.com</a>.</font></p>
-              <p style="margin-right: 10; margin-top: 0; margin-bottom: 0" align="left">&nbsp;
- <b>
-              </b></p><b>
-              <p align="center" style="margin-top: 8">&nbsp;
-              </p></b><p align="center" style="margin-top: 8"><b>&nbsp;
-      </b>
-  </p><p>&nbsp;</p></td>
-</tr>
-<tr>
-  <td width="192" height="77" bgcolor="#4D99E5" valign="top">&nbsp;</td>
-</tr>
-<tr>
-  <td width="192" height="37" bgcolor="#4D99E5" valign="top">&nbsp;</td>
-  <td width="13" height="37" valign="top"></td>
-  <td width="182" height="1" valign="top"></td>
-  <td width="128" height="1" valign="top"></td>
-  <td width="103" height="1" valign="top"></td>
-  <td width="197" height="1" valign="top"></td>
-</tr>
-<tr>
-  <td width="192" height="12" valign="top" bgcolor="#4D99E5"></td>
-  <td width="13" height="12" valign="top"></td>
-  <td width="616" height="12" valign="top" colspan="4">
-  </td>
-</tr>
-<tr>
-  <td width="192" height="11" valign="top" bgcolor="#4D99E5">&nbsp;</td>
-  <td width="13" height="11" valign="bottom" align="left"><img border="0" src="http://www.dreammoods.com/images/Inverted2Corner.gif" width="9" height="11"></td>
-  <td width="182" height="11" valign="top"></td>
-  <td width="128" height="11" valign="top"></td>
-  <td width="103" height="11" valign="top"></td>
-  <td width="197" height="11" valign="top"></td>
-</tr>
-<tr>
-  <td width="825" height="15" valign="top" bgcolor="#4D99E5" colspan="6">
-    <p align="center" style="margin-top: 10; margin-bottom: 5"><applet code="fphover.class" codebase="./" width="98" height="15">
-        <param name="fontstyle" value="bold">
-        <param name="fontsize" value="10">
-        <param name="font" value="Helvetica">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="color" value="#4D99E5">
-        <param name="text" value="DREAM MOODS">
-        <param name="url" valuetype="ref" value="./">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="bgcolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><applet code="fphover.class" codebase="./" width="87" height="15">
-        <param name="fontstyle" value="bold">
-        <param name="fontsize" value="10">
-        <param name="font" value="Helvetica">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="text" value="DREAM INFO">
-        <param name="url" valuetype="ref" value="dreaminformation/">
-        <param name="color" value="#4D99E5">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="bgcolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><applet code="fphover.class" codebase="./" width="114" height="15">
-        <param name="text" value="COMMON DREAMS">
-        <param name="fontstyle" value="bold">
-        <param name="fontsize" value="10">
-        <param name="font" value="Helvetica">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="url" valuetype="ref" value="commondreams/">
-        <param name="color" value="#4D99E5">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><applet code="fphover.class" codebase="./" width="85" height="15">
-        <param name="fontstyle" value="bold">
-        <param name="font" value="Helvetica">
-        <param name="fontsize" value="10">
-        <param name="text" value="DICTIONARY">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="color" value="#4D99E5">
-        <param name="url" valuetype="ref" value="dreamdictionary/">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><applet code="fphover.class" codebase="./" width="73" height="15">
-        <param name="fontstyle" value="bold">
-        <param name="font" value="Helvetica">
-        <param name="fontsize" value="10">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="text" value="DREAM BANK">
-        <param name="color" value="#4D99E5">
-        <param name="url" valuetype="ref" value="dreambank/">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><applet code="fphover.class" codebase="./" width="64" height="15">
-        <param name="fontstyle" value="bold">
-        <param name="font" value="Helvetica">
-        <param name="fontsize" value="10">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="url" valuetype="ref" value="reference/sitemap.htm">
-        <param name="text" value="SITE MAP">
-        <param name="color" value="#4D99E5">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><font face="Arial" color="#FFFFFF" size="2"> </font><applet code="fphover.class" codebase="./" width="56" height="15">
-        <param name="font" value="Helvetica">
-        <param name="fontsize" value="10">
-        <param name="fontstyle" value="bold">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="url" valuetype="ref" value="cgibin/cutecast/cutecast.pl">
-        <param name="text" value="FORUM">
-        <param name="color" value="#4D99E5">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><font face="Arial" color="#FFFFFF" size="2"> </font><applet code="fphover.class" codebase="./" width="75" height="15">
-        <param name="text" value="GUESTBOOK">
-        <param name="fontstyle" value="bold">
-        <param name="font" value="Helvetica">
-        <param name="fontsize" value="10">
-        <param name="url" valuetype="ref" value="guestbook.htm">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="color" value="#4D99E5">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet><font face="Arial" color="#FFFFFF" size="2"> </font><applet code="fphover.class" codebase="./" width="71" height="15">
-        <param name="text" value="CONTACT US">
-        <param name="fontstyle" value="bold">
-        <param name="font" value="Helvetica">
-        <param name="fontsize" value="10">
-        <param name="textcolor" value="#FFFFFF">
-        <param name="url" valuetype="ref" value="contact.htm">
-        <param name="color" value="#4D99E5">
-        <param name="hovercolor" value="#4D99E5">
-        <param name="effect" value="reverseGlow">
-      </applet>
-  </p></td>
-</tr>
-<tr>
-  <td width="192" height="11" valign="bottom" bgcolor="#4D99E5" align="left"><img border="0" src="http://www.dreammoods.com/images/BotLeftCorner.gif" width="9" height="11"></td>
-  <td width="13" height="11" valign="top" bgcolor="#4D99E5"></td>
-  <td width="182" height="11" valign="top" bgcolor="#4D99E5"></td>
-  <td width="128" height="11" valign="top" bgcolor="#4D99E5"></td>
-  <td width="103" height="11" valign="top" bgcolor="#4D99E5"></td>
-  <td width="197" height="11" valign="bottom" bgcolor="#4D99E5" align="right">
-    <p style="margin-right: -5"><img border="0" src="http://www.dreammoods.com/images/BotRightCorner.gif" width="9" height="11"></p>
-  </td>
-</tr>
-<tr>
-  <td width="192" height="11" valign="top"></td>
-  <td width="13" height="11" valign="top"></td>
-  <td width="182" height="11" valign="top"></td>
-  <td width="128" height="11" valign="top"></td>
-  <td width="103" height="11" valign="top"></td>
-  <td width="197" height="11" valign="top"></td>
-</tr>
-<tr>
-  <td width="192" height="11" valign="top"></td>
-  <td width="13" height="11" valign="top"></td>
-  <td width="182" height="11" valign="top"></td>
-  <td width="128" height="11" valign="top"></td>
-  <td width="103" height="11" valign="top"></td>
-  <td width="197" height="11" valign="top"></td>
-</tr>
-</tbody></table>
-
-
-
- <!-- FASTCLICK.COM InVue CODE v1.0 for dreammoods.com -->
+      Web site, you can contact <a href="mailto:contact@dreammoods.com">privacy@dreammoods.com</a>.</font></p>
+      <p style="margin-left: 15; margin-right: 15"><font face="Arial" color="#0066cc" size="3">
+      
+      
+      
+      <!-- ValueClick Media GLOBAL INTERSTITIAL CODE for dreammoods.com -->
 <script language="javascript"><!--
-var doc=document; if(doc.all && doc.getElementById){
-var url=escape(doc.location.href);var mjo=Math.floor(Math.random()*7777);
-doc.cookie='h2=o; path=/;'; var ht=doc.body.clientHeight;var wt=doc.body.clientWidth;
-if(doc.cookie.indexOf('n=vue') <= 0 && ht>400 && wt>400 && doc.cookie.indexOf('2=o') > 0){
-doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
-doc.write('/w/get.media?sid=503&tm=12&m=4&u='+url+'&c='+mjo+'"></scr'+'ipt>');}} // -->
-</script>
-<!-- FASTCLICK.COM InVue CODE v1.0 for dreammoods.com -->    
+var min=1500; // frequency cap in minutes, set to 15 or more
+var sid=503;
+document.writeln('<scr'+'ipt language="javascript" src="http://code.fastclick.net/is.js"></scr'+'ipt>');
+// -->
+</script><script language="javascript" src="http://code.fastclick.net/is.js"></script>
 
-  </center>
-  </div>
-  <p>&nbsp;</p>
-  &nbsp;<!--msnavigation--></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
-
-<p align="center">
+<!-- ValueClick Media GLOBAL INTERSTITIAL CODE for dreammoods.com -->
 
 
-
-
-
-
-<!-- VC active -->
-<script language="JavaScript">
-<!--
-// ValueParameters
-ValueHost = "hs0167302";
-ValueLoaded = false;
-ValueID = "pagebuster";
-ValueVersion = "1.2";
-ValueBannerType = "std";
-var ValueWidths_Heights = new Array("728x90");
-
-ValueNoText = 1;
-
-//-->
-</script>
-<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
-<script language="JavaScript">
-<!--
-if (ValueLoaded) ValueShowAd();
-//-->
-</script>
-
-
-<noscript>
-
-<A HREF="http://oz.valueclick.com/redirect?host=hs0167302&t=std&b=indexpage&noscript=1&v=0;msizes=728x90" TARGET="_top"><IMG BORDER="0" ALT="Click here to visit our sponsor"
-SRC="http://oz.valueclick.com/cycle?host=hs0167302&t=std&b=indexpage&noscript=1;msizes=728x90"></A>
-
-</noscript>
-<!-- vc active -->
+</font></p>
+      </td>
+      <td height="1009" width="138" valign="top" bordercolor="#6500CA" align="right">
+              <b>
+              <p align="center" style="margin-top: 0; margin-bottom: 0"><font face="Arial" color="#c0c0c0" size="1">advertisement</font></p>
+              <p align="center" style="margin-bottom: 0">&nbsp; 
+              
+              
+<!-- Casale Media 2006 (C) -->
+<!-- Ad Format: Skyscraper -->
+<!-- Domain(s): dreammoods.com, dreemmoods.com -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
+var casaleWH='" width="120" height="600" ';
+var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
+casaleFR += ' allowtransparency="true">';
+document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=70204&amp;u='+casaleUU);
+document.write('&amp;f=3&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
+document.write(casaleHost+'c?s=70204&amp;f=3&amp;id='+casaleR+'" target="_blank">');
+document.write('<i'+'mg src="http://as'+casaleHost+'s?s=70204&amp;u='+casaleUU);
+document.write('&amp;f=3&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"><\/a>');
+document.write('<\/ifr'+'ame>');
+//--></script><iframe src="http://as.casalemedia.com/s?s=70204&amp;u=https%3A//web.archive.org/web/20061224193534id_/http%253A//www.dreammoods.com/privacystatement.htm&amp;f=3&amp;id=1723336885.636693" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=70204&amp;f=3&amp;id=1723336885.636693" target="_blank"><img src="http://as.casalemedia.com/s?s=70204&amp;u=https%3A//web.archive.org/web/20061224193534id_/http%253A//www.dreammoods.com/privacystatement.htm&amp;f=3&amp;id=1723336885.636693&amp;if=0" width="120" height="600" border="0"></a></iframe><noscript>
+<iframe src="http://as.casalemedia.com/s?s=70204&u=http%3A%2F%2Fdreammoods.com&f=3&id=1"
+width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"
+allowtransparency="true"> 
+<a href="http://c.casalemedia.com/c?s=70204&f=3&id=0" target="_blank"><img
+src="http://as.casalemedia.com/s?s=70204&u=http%3A%2F%2Fdreammoods.com&f=3&id=0&if=0" border="0" alt=""></a></iframe></noscript>
+<!-- Casale Media 2006 (C) -->
 
 
 
 
 
-</p>
+
+              </p>
+        </b>
+        <p align="center">&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td height="42" width="105" valign="top" bordercolor="#6500CA" align="left">
+  </td>
+    </tr>
+    <tr>
+      <td height="1" width="105" valign="top" bordercolor="#6500CA" align="left">
+  </td>
+    </tr>
+  <tr>
+    <td width="834" height="31" colspan="3" bgcolor="#FFFFFF">
+      <p align="center" style="margin-top: 5; margin-bottom: 5">
+      
+      
+      
 
 
-<p align="center">&nbsp;</p>
 
-<p align="center" style="margin-top: 5"><font face="Arial" size="1">This web site designed and
-maintained by <a href="http://www.dreammoods.com">Dream Moods.</a><br>
-Send mail to<img border="0" src="http://www.dreammoods.com/images/contactemail.gif" width="138" height="14">
-with questions or comments about this web site.<br>
+
+</p></td>
+  </tr>
+  <tr>
+    <td width="834" height="28" colspan="3" bgcolor="#0F34A3">
+      <p align="center" style="margin-top: 5; margin-bottom: 5"><font size="2"><a href="http://www.dreammoods.com" style="font-family: Arial"><font face="Arial" color="#FFFFFF">home</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;|&nbsp;&nbsp;
+      </font><a href="http://www.dreammoods.com/dreaminformation/"><font face="Arial" size="2" color="#FFFFFF">dream
+    info</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      </font><a href="http://www.dreammoods.com/commondreams/index.html"><font face="Arial" size="2" color="#FFFFFF">common
+    dreams</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      </font><a href="http://www.dreammoods.com/dreamdictionary/index.html"><font face="Arial" size="2" color="#FFFFFF">dream
+    dictionary</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      </font><a href="http://www.dreammoods.com/dreambank/index.html"><font face="Arial" size="2" color="#FFFFFF">dream
+    bank</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+      </font><a href="http://www.dreammoods.com/reference/sitemap.htm"><font face="Arial" size="2" color="#FFFFFF">site
+    map</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+      </font><a href="http://www.dreemmoods.com/cgi-bin/dreamforum/cutecast.pl"><font face="Arial" size="2" color="#FFFFFF">forum</font></a><font face="Arial" size="2" color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+      </font><a href="../My%20Webs/contact.htm"><font face="Arial" size="2" color="#FFFFFF">contact
+    us</font></a> <font face="Arial" color="#FFFFFF" size="2">&nbsp;</font>
+      </font></p></td>
+  </tr>
+    <tr>
+      <td height="21" width="772" colspan="3"></td>
+    </tr>
+    <tr>
+      <td height="21" width="213"></td>
+      <td height="21" width="374"></td>
+      <td height="21" width="185"></td>
+    </tr>
+  </tbody></table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  &nbsp;<!--msnavigation--></center></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+
+<p align="center">&nbsp;
+</p><p style="MARGIN-TOP: 15px" align="center"><font face="Arial" size="1">This web
+site designed and maintained by <a href="http://www.dreammoods.com">Dream Moods.</a><br>
+Email the webmaster at dreammoods dot com with questions or comments about this web site.<br>
 View our <a href="http://www.dreammoods.com/disclaimer.htm">Disclaimer</a> and <a href="http://www.dreammoods.com/privacystatement.htm">Privacy
 Policy.</a><br>
-Copyright © 2000-2005. Dream Moods. All rights reserved.</font></p>
+Copyright � 2000-2006. Dream Moods. All rights reserved.</font></p>
 <p style="MARGIN-TOP: 0px" align="center"><font face="Arial" size="1"><b>Last
-Updated:&nbsp;</b>April 17, 2005</font></p>
+Updated: </b>October 14, 2006</font></p>
+<p align="center"></p>
 
 </td></tr><!--msnavigation--></tbody></table>
+
 
 </body></html>
