@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233900id_/http%3A//iwantu.com/privacy.love) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224223449id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
 
-# Adult Dating Personals - IwantU.com Where you are wanted!
-
-[ ](http://www.truste.org/ivalidate.php?url=www.iwantu.com&sealid=101)
+# Adult Dating Personals - Iwantu.com Singles and Swingers Site
 
 Effective On: August 27th, 2004 
 
-IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.iwantu.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.IwantU.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
 1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site   
 2\. The organization collecting the information   
@@ -16,7 +14,7 @@ IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement d
 6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Mana Internet Solutions control   
 7\. How you can correct any inaccuracies in the information. 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.iwantu.com](http://support.iwantu.com/)  
+If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.IwantU.com](http://support.iwantu.com/)  
 You may also reach us at our mailing address: 
 
 Mana Internet Solutions  
@@ -39,7 +37,7 @@ The member's personal information will not be sold or shared with any other comp
 In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information such as your name, e-mail address, age, gender, zip code, city and hobbies in order to receive their password and Aphrodite matches with other members. 
 
 This information is used to contact the user about their membership, to send Aphrodite matches, or to contact users about services on our site for which they have expressed interest.  
-Members have the choice of either receiving Aphrodite matches in their IwantU Message mailbox, their registered e-mail address or request not to receive date emails. Aphrodite uses the age, city, zip code and other information to find the best match to their profile relying on likes, dislikes and distance between members. It is optional for the user to provide demographic information (such as income level), but encouraged so we can provide a more personalized experience on our site. 
+Members have the choice of either receiving Aphrodite matches in their IwantU.com Message mailbox, their registered e-mail address or request not to receive date emails. Aphrodite uses the age, city, zip code and other information to find the best match to their profile relying on likes, dislikes and distance between members. It is optional for the user to provide demographic information (such as income level), but encouraged so we can provide a more personalized experience on our site. 
 
 ##  **Membership purchase**
 
@@ -71,7 +69,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 We partner with another party to provide specific services such as our online store. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
 
-We also partner with Cashring.com the associate program for IwantU Select Clubs. Profile information is shared with them in order to credit affiliates with the appropriate commission. 
+We also partner with Cashring.com the associate program for IwantU.com Select Clubs. Profile information is shared with them in order to credit affiliates with the appropriate commission. 
 
 These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
@@ -87,11 +85,11 @@ From time-to-time our site requests information from users via surveys or contes
 
 ##  **Chat Rooms, Message Boards, and Public Forums**
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. IwantU does not disclose any of our members' personal information to the forum, but instead has ach user post with a unique anonymous username. 
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. IwantU.com does not disclose any of our members' personal information to the forum, but instead has ach user post with a unique anonymous username. 
 
 ##  **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. IwantU will automatically send the friend a one-time email inviting them to visit the site. IwantU stores this information for the sole purpose of sending this one-time email. The friend may contact IwantU at http://demo.iwantu.com to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. IwantU.com will automatically send the friend a one-time email inviting them to visit the site. IwantU.com stores this information for the sole purpose of sending this one-time email. The friend may contact IwantU.com at http://support.IwantU.com to request the removal of this information from their database. 
 
 ##  **Security**
 
@@ -101,7 +99,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an visit [http://support.iwantu.com.](http://support.iwantu.com/)
+If you have any questions about the security at our website, you can send an visit [http://support.IwantU.com.](http://support.iwantu.com/)
 
 ##  **Special Offers**
 
@@ -117,11 +115,11 @@ If a user's personally identifiable information changes (such as their zip code)
 
 In order to cancel a membership, members need to fill out the Cancel Membership form from the Profile page. Once a cancellation is processed all information is deleted from the database and no further access is provided. 
 
-For handle or gender change, members need to visit [http://support.iwantu.com](http://support.iwantu.com/) with their request. 
+For handle or gender change, members need to visit [http://support.IwantU.com](http://support.iwantu.com/) with their request. 
 
 ##  **Choice/Opt-out**
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site during registration. If they wish not to receive our newsletter they can opt-out by unsubscribing during registration, by following the instructions contained in the email, by simply cancelling their membership or going to [http://support.iwantu.com](http://support.iwantu.com/). 
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site during registration. If they wish not to receive our newsletter they can opt-out by unsubscribing during registration, by following the instructions contained in the email, by simply cancelling their membership or going to [http://support.IwantU.com](http://support.iwantu.com/). 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
