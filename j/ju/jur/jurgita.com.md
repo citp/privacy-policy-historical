@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615084802id_/http%3A//www.jurgita.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224180841id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
 
-# Privacy policy
-
-  
-|    
-
-
-**Our Commitment To Privacy**
+# Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -20,14 +14,18 @@ Phone number
 Aditionally we collect following information from the models:  
 Height  
 Weigth  
+Gender  
 Birthday  
 Bust  
 Waist  
 Hips  
 Dress size  
 Shoes size  
+Information about hair, eyes, skin, teeth, ethnicity  
+Profesional status  
 Biography  
 Experience  
+Spoken languages  
 Types of modeling
 
  _The Way We Use Information:_
@@ -48,13 +46,11 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
  _How To Contact Us:_
 
-By Email: jurgita@jurgita.com  
-By Phone: +370 687 15552  
-By mail: Sventupes 16a, Kaunas, Lt-47300, Lithuania
+By Email: Use the Form [Here](http://www.jurgita.com/tickets.php "Contact Us")  
+By Phone: +370 37 451996  
+By mail: Donelaicio 62-304, Kaunas, Lt-44248, Lithuania
 
-Should you have other questions or concerns about these privacy policies, please call us at+370 687 15552 or send us an email at jurgita@jurgita.com. 
+Should you have other questions or concerns about these privacy policies, please call us at +370 37 451996 or send us an email Using the Form [Here](http://www.jurgita.com/tickets.php "Contact Us")
 
-  
-| 
-
-[](http://t.extreme-dm.com/?login=4cidburn)
+Added: 2005-07-29   
+Updated: 2006-09-15
