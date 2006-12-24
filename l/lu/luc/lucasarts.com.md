@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002717id_/http%3A//lucasarts.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224163030id_/http%3A//lucasarts.com/legal/privacy) for the most accurate reproduction.*
 
 # LucasArts | Privacy Policy
 
-  |   |  [ ](http://www.esrb.org/confirm/LucasArts-confirmation.htm) **LucasArts Online Privacy Policy**
+  |   |  [ ](http://www.esrb.org/confirm/lucasarts-confirmation.jsp) **LucasArts Online Privacy Policy**
 
 Welcome! We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site. Unless specified otherwise, this Privacy Policy applies to information collected from all users, including children under 13. 
 
@@ -95,26 +95,6 @@ Attn: Webmaster
 (415) 623-1113   
 [webmaster@starwars.com](mailto:webmaster@starwars.com)  
 
-
-You can also contact ESRB Privacy Online directly at:  
-[http://www.esrb.org](http://www.esrb.org/privacy_wc_hotline.asp)  
-or by regular mail at:  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-212-759-0700  
-[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
-
-For additional information about our Web site, please see our [ Terms of Use.](https://web.archive.org/legal/terms/)
-
-Thanks. Have fun! 
-
-Back to start of Our Privacy Policy. 
-
-We also participate in the BBBOnline Privacy Program. See [www.bbbonline.com](http://www.bbbonline.org/cks.asp?id=30012011473813365)
-
-© 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
-
-Effective Date: 12/23/02 
 
 
 |  
