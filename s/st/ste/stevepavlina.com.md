@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612214348id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224112246id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
