@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheatscodesguides.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629220644id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatscodesguides.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224084627id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
 
 # IGN Entertainment
 
-Updated June 7, 2005
+Updated October 16, 2006
 
 Overview
 
@@ -24,7 +24,7 @@ Information Collection, Storage and Use
 
 We refer to information that identifies an individual as "Personal Information." In general, IGN collects Personal Information from users of the IGN Sites in connection with access to certain online areas or services, including during (i) registration for certain online community services and tools such as message boards, chat rooms or other community services; (ii) registration for special communications, such as email updates and newsletters; (iii) subscription registration; (iv) user surveys; (v) events, sweepstakes, contests or promotions; and (vi) registration for online multi- or single-player gaming, either through the IGN Sites, within a game publisher's site or through the game itself. Your Personal Information is stored on IGN computer servers (or those of its service providers) located in the United States.
 
-We may gather data about the areas of the IGN Sites you visit or access. We do not use any of this navigational data about where you "as an individual user" go on IGN Sites or share any of this data with third parties. However, we do use and share navigational data in aggregate, non-personal form to understand how our users as a group use the IGN Sites.
+We may gather navigational, click stream data that indicates the areas of the IGN Sites you visit or access. This navigational data does not identify you as an individual user (i.e., based on your PII). We may enter into agreements with outside companies that possess the technology that allows IGN to customize the advertising and marketing messages you receive on the IGN Sites. Your non-PII and click stream data about your activities on the IGN Sites may be shared with these companies so this customization can be accomplished. These companies have agreed not to share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with IGN's advertisers and business partners. We also use and share navigational data in aggregate, non-personal form in order to understand how our users as a group use the IGN Sites.
 
 Please keep in mind that whenever you voluntarily disclose personal information in public areas of an IGN Site, such as the member home pages and message boards, your information can be viewed and possibly used by others. We advise users to be especially careful in such public areas about disclosing Personal Information, such as full name, home address, or phone number.
 
