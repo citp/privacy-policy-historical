@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siteground.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014048id_/http%3A//siteground.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteground.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224071456id_/http%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
 
-# SiteGround: Mambo hosting, Joomla hosting, PHPbb hosting, PostNuke hosting, osCommerce hosting, Zen cart hosting, Mediawiki hosting, Flash hosting, Dreamweaver hosting, Frontpage hosting
+# SiteGround Web Hosting - Privacy Policy
 
 Privacy of Your Registration Data
 
@@ -10,7 +10,7 @@ Your registration information is used to operate the site, for demographic stati
 
 Shall We Disclose Information to Third Parties?
 
-We shall not intentionally monitor or disclose any of your e-mail messages or registration data unless this is required by law, or we believe in good faith that we are required to do so to protect the rights and the property of Site Ground or its customers; 
+We shall not intentionally monitor or disclose any of your e-mail messages, registration data or account data and activity unless this is required by law, or we believe in good faith that we are required to do so to protect the rights and the property of Site Ground or its customers;
 
 Since privacy is a function of your password, we encourage you to change your password frequently and not to share it with anyone. Site Ground cannot and will not be liable for any loss or damage arising from your failure to comply with this.
 
@@ -30,4 +30,4 @@ While Site Ground will provide its clients with reasonable notification, Site Gr
 
 To report an incidence of abuse, please report it to [mkt@siteground.com](mailto:mkt@siteground.com)
 
-Last update: 16 March 2006
+Last update: 12 September 2006
