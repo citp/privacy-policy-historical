@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619191540id_/http%3A//silverpop.com/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224013353id_/http%3A//www.silverpop.com/about/policies/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Silverpop
+# Privacy
 
 **Effective Date: 8/1/2005**
 
@@ -10,7 +10,7 @@
 
 Silverpop requires customers who request information, and subsequently register to use our products and services to provide contact information such as their name, company name, address, phone number and email address and later financial qualification and billing information such as billing name and address, credit card number, and the number of users within the customer's organization.   This data is typically collected offline as part of the customer provisioning process. Silverpop typically asks for marketing information via an online form when a customer or visitor requests information about our products and services. This information often includes name, company name, address, phone number, email address, title, and additional company information such as annual revenues, number of employees, and industry.  Silverpop uses the collected information to set up accounts for customers and their respective companies. We may also use the information to contact prospective customers to further discuss their interest in Silverpop, our products and services and to send information on Silverpop.  We may send our email newsletter and notices of promotions and upcoming events, if the customer or visitor has so opted to receive these communications. Silverpop customers will automatically be subscribed to our email newsletter as part of the set up process. All customers have the opportunity to choose to opt out from receiving our newsletter. Customer information will not be shared or distributed.
 
-Silverpop customers will be asked to provide an email address when registering for usage of Silverpop products and services. This is used to send notification of product updates and service and support information. Customers can choose to opt out of receiving these notifications. Again, customer information will not be shared or distributed.  
+Silverpop customers will be asked to provide an email address when registering for usage of Silverpop products and services. This is used to send notification of product updates and service and support information. Customers can choose to opt out of receiving these notifications. Again, customer information will not be shared or distributed.   
 Except as explicitly stated at the time Silverpop requests information, or as explicitly defined in our Terms of Service, we do not disclose to any third party the information provided. All financial and billing information we collect is used solely to check qualifications of prospective customers and to invoice our customers for their usage of Silverpop products and services. This billing information is not used by Silverpop for marketing and/or promotional purposes.
 
 Silverpop uses a third party for credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided except for the sole purpose of credit card processing.
@@ -55,16 +55,14 @@ Silverpop takes your security seriously and takes reasonable proactive steps to 
 
  **Contact Us**
 
-Questions or comments regarding this Privacy Policy should be directed to the Chief Privacy Officer at:  
+Questions or comments regarding this Privacy Policy should be directed to the Chief Privacy Officer at:   
 [privacy@silverpop.com](mailto:privacy@silverpop.com)
 
-Chief Privacy Officer  
-Silverpop Systems Inc.  
-200 Galleria Parkway, Suite 750  
+Chief Privacy Officer   
+Silverpop Systems Inc.   
+200 Galleria Parkway, Suite 750   
 Atlanta, GA 30339
 
 Phone: 678-247-0500
 
-[Silverpop is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site ](https://www.truste.org/ivalidate.php?url=www.silverpop.com)[http://www.silverpop.com](http://www.silverpop.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact the Chief Privacy Officer at the contact address above or via [privacy@silverpop.com](mailto:privacy@silverpop.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> .  TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Chief Privacy Officer at the contact address above or via [privacy@silverpop.com](mailto:privacy@silverpop.com). 
