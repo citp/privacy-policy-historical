@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelldirect.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527232806id_/http%3A//www.yelldirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelldirect.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224190129id_/http%3A//www.yelldirect.com/privacy.html) for the most accurate reproduction.*
 
 # Security and privacy information page » Yell Direct
 
@@ -54,11 +54,20 @@ As part of registration you're given the option of opting in or out of receiving
 Back to top
 
  **As an advertiser, do you store information on me?**  
-Yes, but we only store information that we need to operate effectively and it is stored securely in our main database 
+Yes, but we only store information that we need to operate effectively and it is stored securely in our main database.
 
 We take the security of your personal data extremely seriously. We have implemented technology and security policies designed to protect the personal data under our control. We also follow strict security procedures as required by the UK Data Protection Act 1998. These cover the storage and disclosure of any information you've provided, and the prevention of unauthorised access. 
 
-Any credit card details you pass on to us are encrypted using a Secure Socket Layer (SSL). SSL is an industry standard for data encryption and is one of the best ways to ensure internet messages are not intercepted. Older browsers can't use SSL, so you'll need Netscape Navigator 3, Microsoft Internet Explorer 3 or later versions of these browsers. Credit card information is encrypted before any transaction takes place. 
+Any credit card details you pass on to us are encrypted using a Secure Socket Layer (SSL). SSL is an industry standard for data encryption and is recognised as a highly effective way to ensure internet messages are not intercepted. Older browsers can't use SSL, so you'll need Netscape Navigator 3, Microsoft Internet Explorer 3 or later versions of these browsers. Credit card information is encrypted before any transaction takes place. 
+
+We may collect information about your activity on our website which is used for research and development purposes. All information will be treated as strictly confidential by Yell Limited, and speed-trap Limited (research agent). 
+
+Data you provide on our site will be used for the following purposes: 
+
+  * Specific personal data—your name, address, preferences and credit details for example, will be used to enable business transactions with you and to answer your enquiries;
+  * Non-specific data—monitored key strokes, mouse movements, pages visited, etc. will be included in our continuous (but anonymous) research analysis of visits made to our site as part of our ongoing quest to make our content more informative, relevant and enjoyable for you to use;
+
+
 
 Back to top
 
@@ -71,7 +80,7 @@ The second type of cookie we use stays on your hard disk for a longer period of 
 
 We don't store any of your personal information in either type of cookie. We only use cookies to help us make the service we offer better for all our users.
 
-If you want to know more about how cookies work then visit this section of the [World Wide Web Consortium's own website](http://www.w3.org/Security/Faq/wwwsf2.html#CLT-Q10) for more information.
+If you want to know more about how cookies work and how to manage or delete them, visit this section of the [World Wide Web Consortium's own website](http://www.w3.org/Security/Faq/wwwsf2.html#CLT-Q10) or visit the [Interactive Advertising Bureau's website](http://www.allaboutcookies.org/manage-cookies/).
 
 Back to top
 
@@ -92,12 +101,12 @@ Communication between our system and your PC uses the latest digital certificate
 Back to top
 
  **Lost password**  
-If you are having any difficulties logging in or you have forgotten your password, please call our Customer Service team free on 0800 555 444 (Monday–Friday, 8.00 am–8.00 pm; Saturday, 9.00 am–5.00 pm). Alternatively, take a look at our [Problems logging in? info page](https://web.archive.org/contactus/loginproblems.html).
+If you are having any difficulties logging in or you have forgotten your password, please call our Customer Service team free on 0800 555 444 (Monday–Friday, 8.00 am–7.00 pm; Saturday, 9.00 am–1.00 pm). Alternatively, take a look at our [Problems logging in? info page](https://web.archive.org/contactus/loginproblems.html).
 
 Back to top
 
  **Liability**  
-Yell Direct cannot be held liable for any misuse of passwords. If you wish to change your password for security reasons please contact our Customer Service team free on 0800 555 444 (Monday–Friday, 8.00 am–8.00 pm; Saturday, 9.00 am–5.00 pm) and a new secure password will be issued to you. We may ask you to confirm this in writing within seven days.
+Yell Direct cannot be held liable for any misuse of passwords. If you wish to change your password for security reasons please contact our Customer Service team free on 0800 555 444 (Monday–Friday, 8.00 am–7.00 pm; Saturday, 9.00 am–1.00 pm) and a new secure password will be issued to you. We may ask you to confirm this in writing within seven days.
 
 Back to top
 
