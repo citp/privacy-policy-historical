@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010145id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225001544id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.*
 
 # Truthdig - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Welcome to Truthdig.com (the "Web Site," "Service" or "we"). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the Web Site and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
-### Traffic Data
+h3>Traffic Data 
 
 When you visit Truthdig, our systems collect basic information about your computer, including Internet Protocol Address, operating system, browser software, Internet Service Provider. We also collect information about what you view on the Web Site. This information reflects our readership as a whole and is used to help us better understand and best serve the Truthdig community.
 
@@ -22,7 +22,7 @@ We offer a "send this Dig to a friend" feature, which allows our users to inform
 
 ### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig’s [User Agreement](https://web.archive.org/web/20060615010145id_/http://www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
+Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdigs [User Agreement](https://web.archive.org/web/20061225001544id_/http://www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
 
 If you have any concerns about the discussion forums, send email to [info@truthdig.com](mailto:info@truthdig.com).
 
