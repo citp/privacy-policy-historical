@@ -1,323 +1,133 @@
-<!--The following is the downloaded HTML source of the healthline.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615020025id_/http%3A//www.healthline.com/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthline.com privacy policy that was archived on 2006-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061224194547id_/http%3A//www.healthline.com/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-  <title>Healthline - Privacy Policy</title>
-  <link rel="stylesheet" href="/css/healthlineStyles.css" type="text/css">
-  <link rel="stylesheet" href="/css/tree.css" type="text/css">
-  <script type="text/javascript" src="/js/x_core.js"></script>
-  <script type="text/javascript" src="/js/x_event.js"></script>
-  <script type="text/javascript">
-  window.onload = function()
-  {
-    setScreenWidth();
-    if (xGetElementById('screenwidth'))
-    {
-      xAddEventListener(window,"resize",setScreenWidth,"false");
-    }
-    treeInit();
-  }
-
-  function setScreenWidth()
-  {
-    if (xGetElementById('screenwidth'))
-    {
-      var screenwidth = xGetElementById('screenwidth');
-      if (xClientWidth() <= 778)
-      {
-        screenwidth.style.width = "778px";
+    <title>Healthline - Privacy Policy</title>
+    <link rel="stylesheet" href="/css/healthlineStyles.css" type="text/css">
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/x_core.js"></script>
+<script type="text/javascript" src="/js/x_event.js"></script>
+<script type="text/javascript" src="/js/floater_xlib.js"></script>
+<script type="text/javascript" src="/js/effects.js"></script>
+<script type="text/javascript" src="/js/cookies.js"></script>
+<script type="text/javascript" src="/js/YAHOO/yahoo.js"></script>
+<script type="text/javascript" src="/js/mainFunctions.js"></script><link rel="stylesheet" href="/css/corporatemenu.css" type="text/css">
+    <script type="text/javascript" src="/js/YAHOO/dom.js"></script>
+    <script type="text/javascript" src="/js/YAHOO/event.js"></script>
+    <script type="text/javascript" src="/js/YAHOO/container_core.js"></script>
+    <script type="text/javascript" src="/js/YAHOO/menu.js"></script>
+    <script type="text/javascript" src="/js/corporatemenu.js"></script>
+    <script type="text/javascript">
+      _uacct="UA-30777-1";
+      urchinTracker();
+      window.onload = function(){
+        setScreenWidth();
+        if (xGetElementById('screenwidth')){
+          xAddEventListener(window,"resize",setScreenWidth,"false");
+        }
       }
-      else if (xClientWidth() >= 1024)
-      {
-        screenwidth.style.width = "1024px";
-      }
-      else
-      {
-        screenwidth.style.width = "";
-      }
-    }
-  }
-  </script>
-</head>
+    </script>
+  </head>
 
-<body>
-<div id="screenwidth">
-<!-- start Header -->
-<script src="/js/__utm.js" type="text/javascript"></script>
-<script type="text/javascript">
-  function setBookMark(url,str)
-  {
-    //alert("in new: " + url);
-    if(str=='')str=url;
-    if (document.all)window.external.AddFavorite(url,str);
-    else alert('Press CTRL and D to add a bookmark to:\n"'+url+'".');
-  }
-  function enterkey(form,evt) //this is for search box
-  {
-    var keyCode = evt.which ? evt.which : evt.keyCode;
-    if (keyCode == 13)
-    {
-
-          submitform(form);
-    }
-  }
-  function submitform(thisform)
-  {
-    if (thisform.q1.value.trim() != "" && thisform.q1.value != "Search the Web's best health sites")
-    {
-      thisform.submit();
-    }
-  }
-
-  function submitNews(thisform)
-  {
-    var newsURL = "";
-
-    if (thisform.q1.value == "" || thisform.q1.value == "Search the Web's best health sites")
-    {
-      newsURL = "/newsquery.jsp?q1=health";
-      thisform.q1.value = "health";
-    }
-    else
-    {
-      newsURL = "/newsquery.jsp?q1=" + thisform.q1.value;
-    }
-
-    thisform.action = newsURL;
-    thisform.method = "GET";
-    thisform.submit();
-
-    return;
-  }
-
-  String.prototype.trim = StringTrim;
-  function StringTrim()
-  {
-    var TestString = this;
-    var SpaceChar  = " ";
-    while (TestString.charAt(0) == SpaceChar) {TestString = TestString.substr(1)};
-    while (TestString.charAt(TestString.length-1) == SpaceChar) {TestString = TestString.substr(0,TestString.length-1)};
-    return TestString.toString();
-  }
-
-  function clearbox(searchbox)
-  {
-    if (searchbox.value == "Search the Web's best health sites")
-    {
-      searchbox.value = "";
-      searchbox.style.color = "#000000";
-    }
-  }
-
-  function fillbox(searchbox)
-  {
-    if (searchbox.value == "")
-    {
-      searchbox.style.color = "#999999";
-      searchbox.value = "Search the Web's best health sites";
-    }
-  }
-</script>
-
-
-
-
-
-
+  <body>
+    <div id="screenwidth">
+      <!-- start Header -->
+      <div id="print_logo">
+<img src="/images/logo_beta_2.gif" alt="Healthline Networks, Inc." border="0"><br>&nbsp;<br>
+</div>
+<div id="div-emailthispage"></div>
 <div id="header">
-  <table cellpadding="0" cellspacing="0" width="100%">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tbody><tr>
-      <td width="308" nowrap="">
-        <div class="topnav" style="padding:5px 5px 0px 0px">
-          <strong>
-
-          Welcome Guest | <a href="/registration.jsp">Register</a> or <a href="/signin.jsp">Sign In</a>
-
-          </strong>
-        </div>
+      <td width="281" valign="top" style="padding:5px 0 0 0">
+        <a href="/"><img src="/images/logo_beta_2.gif" alt="Healthline Networks, Inc." border="0"></a>
       </td>
-      <td>
-        <div class="topnav" style="padding:5px 5px 0px 0px"><a name="top"></a><a href="/">Home</a> | <a href="/myhealthline.jsp">My Healthline</a> | <a href="/hc_alpha.jsp">Health Channels</a> | <a href="/drug_directory">Drugs</a> | <a href="/healthtools.jsp">Tools</a> | <a href="/quicktour_01.jsp">Tour</a> | <a href="/help.jsp">Help</a></div>
+      <td width="330" style="padding:0 5px 0 0">
+        <div class="topnav"><div class="logged-in-user-div">
+</div><div class="sb_radio"><form action="" name="searchtypeform1"><input type="radio" name="searchtype" value="web" checked="checked"><span class="black">Web</span><input type="radio" name="searchtype" value="news"><span>News</span><input type="radio" name="searchtype" value="dictionary"><span>Dictionary</span></form></div>
+              <div class="sb_header">
+                <form name="searchform1" method="post" action="/search" onsubmit="healthSearch(this);return false;">
+<input name="q1" type="text" class="text" style="color:#999999" onfocus="clearbox(this)" onblur="fillbox(this)" value="Search the Web's best health sites">
+<input type="submit" class="button" value="">
+                </form>
+            </div>
+			</div>
       </td>
-    </tr>
-  </tbody></table>
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td valign="top" style="padding-left:12px">
-        <a href="/"><img src="/images/logo_healthline01.gif" alt="" border="0"></a>
-      </td>
-      <td style="padding-top:20px">
-        <table class="topnav" border="0" cellspacing="0" cellpadding="0">
-          <form name="searchform1" method="get" action="/search?" onsubmit="submitform(this); return false"></form>
-          <tbody><tr>
-            <td style="font-weight:600">
-
-              Web | <a href="javascript:submitNews(document.searchform1)">News</a>
-
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <div style="position:relative">
-
-                <input name="q1" type="text" style="color:#999999" size="40" onfocus="clearbox(this)" onblur="fillbox(this)" value="Search the Web's best health sites">
-
-                <input type="submit" value="Search">
-              </div>
-            </td>
-          </tr>
-          
-        </tbody></table>
+      <td valign="top"><div class="header-links-div">
+<div class="header-links-row"><a href="/signin.jsp">MyHealthline Sign In</a></div>
+<div class="header-links-row"><a href="/registration.jsp">Register</a></div>
+        <div><a href="/yourfeedback.jsp">Feedback</a><span style="padding:0 15px">&nbsp;</span><a href="/help.jsp" style="margin-top:15px">Help</a></div></div>
       </td>
     </tr>
   </tbody></table>
 </div>
-
+<div id="navwrapper">
+  <div id="hl_navigation">
+    <ul>
+      <li><a href="/" onclick="location.href = this.href; return false;">Home</a></li>
+      <li><a href="/hc_alpha.jsp" onclick="location.href = this.href; return false;">Health Channels</a></li>
+      <li><a href="/directory/diseases-and-conditions" onclick="location.href = this.href; return false;">Diseases &amp; Conditions</a></li>
+      <li><a href="/drug_directory" onclick="location.href = this.href; return false;">Drugs</a></li>
+      <li><a href="/directory/symptoms" onclick="location.href = this.href; return false;">Symptoms</a></li>
+      <li><a href="/directory/tests" onclick="location.href = this.href; return false;">Tests</a></li>
+      <li><a href="/blogs" onclick="location.href = this.href; return false;">Blogs</a></li>
+      <li><a href="/sitemap.jsp" onclick="location.href = this.href; return false;">Directory</a></li>
+    </ul>
+  </div>
+</div>
+<div style="clear:both"></div>
 <!-- end Header -->
 
-<table cellpadding="0" cellspacing="10" width="100%" border="0">
-  <tbody><tr>
-    <td width="175px" valign="top">
-      
-<table cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td valign="top">
-      <div class="bluebgrd">
-        <div class="topright">
-          <div class="bottomleft">
-            <div class="bottomright">
-              <table cellpadding="0" cellspacing="10" width="100%" border="0">
-                <tbody><tr>
-                  <td>
-                    <table style="background-color:#FFFFFF" cellpadding="0" cellspacing="0" width="100%">
-                      <tbody><tr>
-                        <td width="7"><img src="images/bgrd_solidwhite_topleft.gif" alt=""></td><td></td><td width="7"><img src="images/bgrd_solidwhite_topright.gif" alt=""></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td>
-                          <div>
-                            <div style="float:right"><a href="javascript:tree.collapseAll()" title="Collapse All"><img src="/images/icon_minimize.gif" hspace="2" border="0" alt=""></a><a href="javascript:tree.expandAll()" title="Expand All"><img src="/images/icon_maxamize.gif" border="0" alt=""></a></div>
-                            <h2 style="margin:0px">About Healthline</h2>
-                          </div>
-                          <div id="treeDiv1"></div>
-                          <script type="text/javascript" src="/js/YAHOO.js"></script>
-                          <script type="text/javascript" src="/js/treeview.js"></script>
-                          <script type="text/javascript" src="/js/TaskNode.js"></script>
+      <table cellpadding="0" cellspacing="10" width="100%" border="0">
+        <tbody><tr>
+          <td width="175px" valign="top">
+            <div id="productsandservices" class="yuimenu" style="font-size:14px">
+  <div class="bd">
+    <ul class="first-of-type">
+      <h6>Healthline Networks</h6>
+      <li class="yuimenuitem"><a href="/aboutus.jsp">About Us</a></li>
+      <li class="yuimenuitem"><a href="/newsandevents.jsp">News and Events</a></li>
+      <li class="yuimenuitem"><a href="/advertise.jsp">Advertise</a></li>
+      <li class="yuimenuitem"><a href="/jobsavailable.jsp">Careers</a></li>
+      <li class="yuimenuitem"><a href="/blog">Health Matters Blog</a></li>
+      <li class="yuimenuitem"><a href="/privacypolicy.jsp">Policy</a></li>
+      <li class="yuimenuitem"><a href="/contact.jsp">Contact</a></li>
+      <li class="yuimenuitem"><a href="/search_tool.jsp">Add to Your Site</a></li>
+      <li class="yuimenuitem"><a href="/yourfeedback.jsp">Feedback</a></li>
+    </ul>
+  </div>
+</div>
+</td>
+          <td valign="top" class="padding-left">
+            
 
-                          <script type="text/javascript">
-                            var gLogger;
-                            var tree;
-                            var nodes = new Array();
-                            var nodeIndex;
 
-                            function treeInit() {
-                              buildRandomTextNodeTree();
-                            }
+  <title>Healthline - Privacy Policy</title>
 
-                            function buildRandomTextNodeTree() {
-                              tree = new YAHOO.widget.TreeView("treeDiv1");
 
-                              level2Node = new YAHOO.widget.TextNode("About Us", tree.getRoot(), false);
-                              myobj = {label: "About Healthline", href:"/aboutus.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Management Team", href:"/management.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Investors", href:"/investors.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Medical Advisory Board", href:"/mrb.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Partners", href:"/partners.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "<b>Privacy Policy</b>", href:"/privacypolicy.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Editorial Policy", href:"/editorial_policy.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Sponsor Information", href:"/sponsor_information.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Copyright Notice", href:"/copyrightnotice.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Terms of Use", href:"/termsofuse.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              level2Node.expand();
-
-                              level2Node = new YAHOO.widget.TextNode("News and Events", tree.getRoot(), false);
-                              myobj = {label: "Press Releases", href:"/press.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "News and Events", href:"/newsandevents.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Archive", href:"/pressarchive.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              
-
-                              myobj = {label: "Blog", href:"/blog"};
-                              level2Node = new YAHOO.widget.TextNode(myobj, tree.getRoot(), false);
-
-                              myobj = {label: "Careers", href:"/jobsavailable.jsp"};
-                              level2Node = new YAHOO.widget.TextNode(myobj, tree.getRoot(), false);
-
-                              level2Node = new YAHOO.widget.TextNode("Advertise on Healthline", tree.getRoot(), false);
-                              myobj = {label: "Advertise on Healthline", href:"/advertise.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Advertising Policy", href:"/advertising_policy.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              
-
-                              myobj = {label: "Add Healthline to Your Site", href:"/search_tool.jsp"};
-                              level2Node = new YAHOO.widget.TextNode(myobj, tree.getRoot(), false);
-
-                              level2Node = new YAHOO.widget.TextNode("Contact", tree.getRoot(), false);
-                              myobj = {label: "Contact Healthline", href:"/contact.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Customer Support and Feedback", href:"/yourfeedback.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              myobj = {label: "Submit Your Site", href:"/submitsite.jsp"};
-                              new YAHOO.widget.TextNode(myobj, level2Node, false);
-                              
-
-                              tree.draw();
-                            }
-                            var callback = null;
-                          </script>
-                        </td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td><img src="images/bgrd_solidwhite_bottomleft.gif" alt=""></td><td></td><td><img src="images/bgrd_solidwhite_bottomright.gif" alt=""></td>
-                      </tr>
-                    </tbody></table>
-                  </td>
-                </tr>
-              </tbody></table>
-            </div>
-          </div>
-        </div>
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
-    </td>
-    <td valign="top">
-      <h1>Privacy Policy</h1>
-
+<h1>Privacy Policy</h1>
 <p>
 Internet
-privacy is an issue that we take very seriously, and Healthline is
-committed to protecting your privacy. We believe it is important for you
+privacy is an issue that we take very seriously and Healthline is
+committed to protecting your privacy. We believe it is important for
+you
 to know what information is being collected about you, how that
 information is being used, with whom it is being shared, and how to
 contact us if you have additional questions or concerns.
 </p>
-
 <h3>What information does Healthline gather/track, and how is it used?</h3>
 <p>
 Information
 gathered online can generally be categorized as either anonymous or
-personally identifiable. Anonymous information is information that cannot
-be traced back to a specific individual. For example, Healthline knows how
-many searches are queried each day at each of its Web sites but does not
-know the names, e-mail addresses or gender of the people searching. Even
+personally identifiable. Anonymous information is information that
+cannot
+be traced back to a specific individual. For example, Healthline knows
+how
+many searches are queried each day at each of its Web sites but does
+not
+know the names, e-mail addresses or gender of the people searching.
+Even
 after you have signed up for MyHealthline, we do not know your name or
 email address when you are conducting searches.
 </p>
@@ -325,94 +135,127 @@ email address when you are conducting searches.
 Personally
 identifiable information is information you provide that lets us know
 specific facts about you so that we can customize the information
-Healthline Delivers to you accordingly. This information can include your
-name, address, zip code, age, etc. It is our belief that you will find it
-beneficial to provide us with personal information so that your experience
+Healthline delivers to you accordingly. This information can include
+your
+name, address, zip code, age, etc. It is our belief that you will find
+it
+beneficial to provide us with personal information so that your
+experience
 with Healthline is more satisfying.
 </p>
-
 <h3>Gathering and Use of Anonymous Information </h3>
 <p>
-Each time a visitor comes to a Healthline
-Web site, we collect some information to improve the overall quality of
-the online experience, including product monitoring, product improvement,
-and targeted advertising. At the Healthline Web sites, we collect the
-visitor's domain name (e.g. whether the user is logged on from compaq.com
-or whitehouse.gov), referral data (e.g., we record the address of the last
-URL a user visited prior to clicking through to an Healthline Web site),
-and browser and platform type (e.g., a Internet Explorer browser on a
-Windows platform).
+Each time a visitor comes to a Healthline web site, we collect some
+information to improve the overall quality of
+the online experience, including product monitoring, product
+improvement,
+and targeted advertising. At the Healthline web site, we collect the
+visitor's domain name (e.g. whether the user is logged on from aol.com
+or whitehouse.gov), referral data (e.g., we record the address of the
+last
+URL a user visited prior to clicking through to the Healthline web
+site),
+and browser and platform type (e.g., Microsoft Internet Explorer 6.0
+browser on a
+Windows XP platform).
 </p>
 <p>
 In addition to collecting these types of
-information, Healthline collects aggregate queries for internal reporting
+information, Healthline collects aggregate queries for internal
+reporting
 and targeted advertising. We also count, track, and aggregate the
-visitor's activity into our analysis of general traffic flows at our sites
+visitor's activity into our analysis of general traffic flows at our
+sites
 (e.g. tracking where traffic comes from, how traffic flows within the
 Healthline properties, etc.). To these ends, we may merge information
-about you into group data, which may then be shared on an aggregated basis
+about you into group data, which may then be shared on an aggregated
+basis
 with our advertisers; but Healthline will not disclose your individual
 identity or personal data without your permission. When Healthline does
-present aggregated information to outside companies, no one will be able
-to identify or contact you for MyHealthline.
+present aggregated information to outside companies, no one will be
+able
+to identify or contact you.
 </p>
-
 <h3>Use Of 'Cookies'</h3>
 <p>
-Healthline's Web sites use cookies to monitor traffic
-flow, patterns of travel within and through the sites, and to dynamically
+Healthline's web sites use cookies to monitor traffic
+flow, patterns of travel within and through the sites, and to
+dynamically
 generate advertising and content. Cookies are a standard Internet
-technology that allows us to both store and retrieve login information on
-a user's system. Our Web server automatically asks a new user whether his
-or her browser will agree to accept a Healthline cookie file. If a visitor
-accepts, our Web server will identify the user's cookie for Healthline's
+technology that allows us to both store and retrieve login information
+on
+a user's system. Our web server automatically asks a new user whether
+his
+or her browser will agree to accept a Healthline cookie file. If a
+visitor
+accepts, our web server will identify the user's cookie for
+Healthline's
 use in internal reporting. If a user accepts a Healthline cookie, but
-would later like to remove it from his or her computer, he or she can just
+would later like to remove it from his or her computer, he or she can
+just
 remove it from the browser.
 </p>
-
 <h3>Web Beacons</h3>
 <p>
-Some Healthline Web pages use Web beacons in conjunction with cookies to
-compile aggregate statistics about website usage. A Web beacon is an electronic
-image, called an action tag, or single-pixel (1x1), or clear GIF. Web beacons
+Some Healthline web pages use web beacons in conjunction with cookies
+to
+compile aggregate statistics about web site usage. A web beacon is an
+electronic
+image, called an action tag, or single pixel (1x1), or clear GIF. Web
+beacons
 can recognize certain types of anonymous information (non-personally
-identifiable information, or non-PII) on a visitor's computer, such as a
-visitor's cookie number, time and date of a page view, and a description of the
-page where the Web beacon is placed. You have the option to render some Web
+identifiable information, or non-PII) on a visitor's computer, such as
+a
+visitor's cookie number, time and date of a page view, and a
+description of the
+page where the web beacon is placed. You have the option to render some
+web
 beacons unusable by rejecting their associated cookies.
 </p>
-
 <h3>Third-party Media Companies</h3>
 <p>
-Healthline uses a third-party advertising company to serve ads when you visit
-our Web site. Our advertising partner?s Ad Server may use cookies when you view
-pages on our site; these cookies collect anonymous (non-PII) information as a
-way of measuring the effectiveness of advertising sold on Healthline. Our
-sponsors and advertisers have agreed that they will not collect any personally
-identifiable information from our site visitors while they are on Healthline.
-If you click on an advertisement on Healthline and visit a site maintained by
-one of our sponsors or advertisers, please be aware that we are not responsible
-for the privacy practices of those sites. You should read the privacy policies
+Healthline uses third-party advertising companies to serve ads when you
+visit
+our web site. Our advertising partners' Ad Server may use cookies when
+you view
+pages on our site; these cookies collect anonymous (non-PII)
+information as a
+way of measuring the effectiveness of advertising sold on Healthline.
+Our
+sponsors and advertisers have agreed that they will not collect any
+personally
+identifiable information from our site visitors while they are on
+Healthline.
+If you click on an advertisement on Healthline and visit a site
+maintained by
+one of our sponsors or advertisers, please be aware that we are not
+responsible
+for the privacy practices of those sites. You should read the privacy
+policies
 of each site you visit to determine what information that site may be
 collecting about you.
 </p>
 <p>
-Some Ad Servers allow you to opt out of anonymous data collection through the
-use of cookies. To do so, you must opt out of such data collection with each
-individual site. You can opt out of cookies for several Ad Servers by visiting
+Some Ad Servers allow you to opt out of anonymous data collection
+through the
+use of cookies. To do so, you must opt out of such data collection with
+each
+individual site. You can opt out of cookies for several Ad Servers by
+visiting
 the Network Advertising Initiative gateway opt-out site <a href="http://www.networkadvertising.org/optout_nonppii.asp">
-http://www.networkadvertising.org/optout_nonppii.asp</a>. At that site you can
+http://www.networkadvertising.org/optout_nonppii.asp</a>. At that site
+you can
 also review the privacy policies of those Ad Servers.
 </p>
-
 <h3>Gathering and Use of Personally Identifiable Information</h3>
 <p>
 We collect personally
 identifiable information that you provide to us when you register as a
 member of Healthline and/or when you update your member profile. We use
-the personally identifiable information that you supply to provide you the
-specific services you select, send you emails about Web site maintenance
+the personally identifiable information that you supply to provide you
+with the
+specific services you select and to send you emails about web site
+maintenance
 and updates, which may include new features and enhanced
 functionality.
 </p>
@@ -420,111 +263,126 @@ functionality.
 Personally identifiable information is not shared
 with third parties unless Healthline has your permission to do so.
 Healthline occasionally sponsors sweepstakes, contests, or other events
-that require the collection, processing, and storage of individual contact
-and demographic information is likely to be shared with participating
-sponsors. A registrant's personal contact and demographic information will
-not be released to third party or non-participating organizations without
-the user's consent, and Healthline will request that co-sponsors of such
+that require the collection, processing, and storage of individual
+contact
+and demographic information that may or may not be shared with
+participating
+sponsors. A registrant's personal contact and demographic information
+will
+not be released to third party or non-participating organizations
+without
+the user's consent, and Healthline will request that co-sponsors of
+such
 events maintain the privacy of the registrants' information. When
 appropriate, users will be given the opportunity to receive information
 from third-party organizations in connection with services or events
 offered by Healthline. This option may be made available through
 Healthline 's registration and/or through registration processes
 maintained by a participating third-party. In all cases, you will be
-informed before you register for the event of service that a third party
-will be receiving the registration information you provide, and you will
-have the option not to participate in any service or event that requires
+informed before you register for the event of service that a third
+party
+will be receiving the registration information you provide, and you
+will
+have the option not to participate in any service or event that
+requires
 third party involvement.
 </p>
-
 <h3>With whom does Healthline share the information it gathers/tracks?</h3>
 <p>
 Healthline does not
 provide third-party access to your personal information except in the
 aggregate and only after the information has been de-identified. The
 information will be in the form of grouped statistics compiled from our
-users' answers to survey questions and on-site behavior. Healthline will
-not disclose the contact or demographic information of any individual user
+users' answers to survey questions and on-site behavior. Healthline
+will
+not disclose the contact or demographic information of any individual
+user
 to advertisers or any other outside organization without the express
 permission of the individual. Healthline uses a third-party company to
-serve ads when you visit our Web site. This company may use certain
-information (not including your name, address, email address or telephone
-number) about your visit to our Web site in order to provide
-advertisements to our Web site, our third-party advertiser may place or
+serve ads when you visit our web site. This company may use certain
+information (not including your name, address, email address or
+telephone
+number) about your visit to our web site in order to provide
+advertisements to our web site, our third-party advertiser may place or
 recognize a unique cookie on your browser.
 </p>
-
+<h3>E-mail Choice/Opt-Out</h3>
+<p>Each e-mail newsletter and special offer sent by Healthline contains
+an easy, automated way for you to cease receiving our e-mail
+newsletters. One click of the mouse is all that is required — the
+system automatically excludes you from future mailings without needing
+additional human intervention. To unsubscribe, click the "unsubscribe"
+link in the footer of any e-mail newsletter from Healthline. If you do
+not have Internet access, please reply to your Healthline e-mail and
+type the word "UNSUBSCRIBE" in the subject line. Healthline will not
+rent, sell or barter your email address to third parties, nor will we
+share your name with marketing partners unless you check a special box
+on our site to request third-party offers sent from Healthline.<br>
+</p>
+<p>Members of MyHealthline may also elect to receive News Alerts and
+Blog Alerts via email. To change mailing frequency, or to unsubscribe
+from New Alerts or Blog Alerts, MyHealthline Members should log into
+their account to update their preferences.<br>
+</p>
 <h3>User Research</h3>
 <p>
 On
 occasion, Healthline will make available to potential advertisers and
 research firms aggregated results from research it has conducted on its
 user base. Once again, Healthline will only provide such demographic
-information on an aggregated basis and does not disclose individual member
+information on an aggregated basis and does not disclose individual
+member
 profiles without user consent.
 </p>
-
-<h3>Special Policy With Regards to Information from Children Under Thirteen</h3>
+<h3>Special Policy With Regards to Information from Children Under
+Thirteen</h3>
 <p>
 In accordance with
 the Federal Children's Online Privacy Protection Act of 1998 (COPPA),
 Healthline will never knowingly request personally identifiable
-information from anyone under the age of 13 without parental consent. When
-we do receive information (with parental consent) from users under the age
+information from anyone under the age of 13 without parental consent.
+When
+we do receive information (with parental consent) from users under the
+age
 of 13, we will never voluntarily share their personally identifiable
 information with third parties, regardless of their stated preference
 given at registration.
 </p>
 
 
+</td>
+        </tr>
+      </tbody></table>
 
-
-
-    </td>
-  </tr>
-</tbody></table>
-
-<!-- start Footer -->
-
-
-
-
-<div style="margin:20px 0px 20px 0px; text-align:center">
-
-  <table cellpadding="0" cellspacing="0" width="80%" border="0" align="center">
+      <!-- start Footer -->
+      <div id="footer" style="margin:20px 0px 20px 0px; text-align:center">
+<table cellpadding="0" cellspacing="0" width="80%" border="0" align="center">
     <tbody><tr>
       <td width="1"><img src="/images/bgrd_footer_left.gif" alt=""></td>
-      <td style="background-color:#E5EFF9">
-        <table class="topnav" border="0" cellspacing="0" cellpadding="0" align="center">
-          <form name="searchform2" method="get" action="/search?" onsubmit="submitform(this); return false"></form>
+      <td style="background-color:#E5EFF9" align="center" valign="center">
+        <table border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td style="font-weight:600">
-
-              Web | <a href="javascript:submitNews(document.searchform2)">News</a>
-
-            </td>
-          </tr>
-          <tr>
             <td>
-
-                        <input name="q1" type="text" style="color:#999999" size="40" onfocus="clearbox(this)" onblur="fillbox(this)" value="Search the Web's best health sites">
-
-              <input type="submit" value="Search">
+              <div class="sb_radio" style="text-align:left"><form action="" name="searchtypeform2"><input type="radio" name="searchtype" value="web" checked="checked"><span class="black">Web</span><input type="radio" name="searchtype" value="news"><span>News</span><input type="radio" name="searchtype" value="dictionary"><span>Dictionary</span></form></div>
+              <form name="searchform2" method="post" action="/search" onsubmit="healthSearch(this); return false">
+<input name="q1" type="text" style="color:#999999" size="40" onfocus="clearbox(this)" onblur="fillbox(this)" value="Search the Web's best health sites">
+<input type="submit" value="Search">
+              </form>
             </td>
           </tr>
-          
         </tbody></table>
       </td>
       <td width="1"><img src="/images/bgrd_footer_right.gif" alt=""></td>
     </tr>
   </tbody></table>
-  <div class="topnav" style="padding:18px 0px 18px 0px; color:#B4C0C0"><a href="/">Home</a> | <a href="/aboutus.jsp">About Us</a> | <a href="/blog">Blog</a> | <a href="/jobsavailable.jsp">Careers</a> | <a href="/yourfeedback.jsp">Feedback</a> | <a href="/help.jsp">Help</a> | <a href="/sitemap.jsp">Site Map</a> | <a href="/tellafriend.jsp?backscreen=%2Fprivacypolicy.jsp">Tell a Friend</a> <br><img src="/images/clear.gif" alt="" height="10"><br><a href="/advertise.jsp">Advertise with Us</a> | <a href="/termsofuse.jsp">Terms of Use</a> | <a href="/privacypolicy.jsp">Privacy Policy</a></div>
-  <span style="font-size:11px">Copyright © 2005 - 2006 Healthline Networks, Inc. All rights reserved.</span>
+  <div class="topnav" style="padding:18px 0px 18px 0px; color:#B4C0C0"><a href="/">Home</a> | <a href="/aboutus.jsp">About</a> | <a href="/blogs/">Blogs</a> | <a href="/jobsavailable.jsp">Careers</a> | <a href="/yourfeedback.jsp">Feedback</a> | <a href="/help.jsp">Help</a> | <a href="/healthtools.jsp">Health Tools</a> | <a title="Tell a friend" href="Tell a friend" onclick="openEmailFriend('','tellafriend');return false;">Tell a Friend</a> <br><img src="/images/clear.gif" alt="" height="10"><br><a href="/advertise.jsp">Advertise</a> | <a href="/termsofuse.jsp">Terms of Use</a> | <a href="/privacypolicy.jsp">Privacy Policy</a></div>
 </div>
-
+<div id="copyright">
+ <span style="font-size:11px">Copyright © 2005 - 2006 Healthline Networks, Inc. All rights reserved.</span>
+</div>
 <!-- end Footer -->
-</div>
-
+    </div>
+  
 
 
 
