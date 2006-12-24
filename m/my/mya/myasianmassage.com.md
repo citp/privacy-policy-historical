@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myasianmassage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225221id_/http%3A//www.gagonmycock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myasianmassage.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224215245id_/http%3A//myasianmassage.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,6 +8,8 @@
 * * *
 
 We have created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of this Site. This Site is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site. 
+
+This website is an online subscription service owned and operated by PV Imagesoft SL, Spain.
 
 ###  What Information is Collected? 
 
@@ -31,7 +33,7 @@ There may be occasions when you will be presented with special offers either fro
 
 The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site. 
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to **[abuse@gagonmycock.com](mailto:abuse@gagonmycock.com)**
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to **[abuse@myasianmassage.com](mailto:abuse@myasianmassage.com)**
 
 ###  Security 
 
