@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035214id_/http%3A//madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224075011id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
@@ -54,15 +54,18 @@ Information submitted on the ask-a-question form may be used in the following ma
 
 More information about Internet Privacy can be found at the [ US Federal Trade Commission](http://www.ftc.gov/privacy/index.html). 
 
-If you have further questions concerning this policy, please contact us at [webadmin@www.madsci.org](mailto:webadmin@www.madsci.org). 
+If you have further questions concerning this policy, please contact us at [webadmin@madsci.org](mailto:webadmin@madsci.org). 
 
 * * *
 
 _Last modified 9/21/2005_  
-Previous versions: [7.11.2005](https://web.archive.org/web/20060615035214id_/http%3A//madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20060615035214id_/http%3A//madsci.org/info/privacy.10.2001.html). 
+Previous versions: [7.11.2005](https://web.archive.org/web/20061224075011id_/http%3A//www.madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20061224075011id_/http%3A//www.madsci.org/info/privacy.10.2001.html). 
 
 * * *
 
 * * *
 
 **[MadSci Home](https://web.archive.org/) | [Information](https://web.archive.org/info/) | [Search](https://web.archive.org/MS_search.html) | [Random Knowledge Generator](https://web.archive.org/random/) | [MadSci Archives](https://web.archive.org/circumnav/) | [Mad Library](https://web.archive.org/libs/) | [MAD Labs](https://web.archive.org/labs/) | [MAD FAQs](https://web.archive.org/FAQs/) | [Ask a ?](https://web.archive.org/submit.html) | [Join Us!](https://web.archive.org/join/) | [Help Support MadSci](https://web.archive.org/donate/) **
+
+  
+[Gesundheit und Ernährung](http://www.healthindex.de/) | [Natural Skin Care](http://www.dudur.com/bodycare/) | [SEO Ecommerce Shopping Cart Software](http://www.rwgusa.com/) | [Free Lesson Plans](http://www.localschooldirectory.com/include/teachers/lesson_plan.php) | [Teppich Onlineshop](http://www.teppichoase.de/) | [Homepage Help](http://www.123php.de/index.php) | [Poetry](http://www.endlesspoetry.com/) | [Gross & Partner Detektei](http://www.detekteigross.de/) | [Ernaehrung](http://www.die-ernaehrung.de/) | [Domain+Mail](http://domainunion.de/) | [Webdesign](http://www.officetrend.de/) | [Mietwagen](http://www.mietwagenmarkt.de/) | [Mp3, Charts & Musik](http://www.pooltrax.com/) | 
