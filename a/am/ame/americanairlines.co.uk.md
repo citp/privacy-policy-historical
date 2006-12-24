@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanairlines.co.uk privacy policy that was archived on 2006-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060407230335id_/http%3A//www.aa.com/content/footer/privacyPolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanairlines.co.uk privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224010345id_/http%3A//www.aa.com/content/footer/privacyPolicy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ In order to facilitate your travel, and manage our business, we collect and main
 
 > \- You, when you voluntarily provide us with information;  
 >  \- Your browser, when you visit our websites and your browser interacts with us;  
->  \- Your transactions with any of the [companies in the American family](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD#affiliated)   
+>  \- Your transactions with any of the [companies in the American family](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD#affiliated)   
 >  \- Other sources, in connection with providing your transportation needs and services. 
 
 The personal information we collect about you through these various sources may include, but is not limited to: 
@@ -34,7 +34,7 @@ The personal information we collect about you through these various sources may 
 >  \- Personal information provided to customer-service representatives to research and resolve issues or questions  
 >  \- Corporate-contract, employer and/or other corporate affiliation (i.e. employer name, title, address and contact information) 
 
-**Aggregate information** In addition to obtaining your personal information, when you use our site, we may collect tracking information such as your browser type, the type of operating system you use, the name of your Internet service provider, and pages visited on the site. American gets this information by using technologies, including [cookies and web beacons](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD#cookies) to increase the functionality and user-friendliness of our site and to better tailor our site to our visitors' needs. We also use this information to verify that visitors meet the criteria required to process their requests. None of this tracking information identifies you personally; we collect it for reporting onsite activity in the aggregate. For example, we may want to know how long the average user spends on our site or which pages or features get the most attention. 
+**Aggregate information** In addition to obtaining your personal information, when you use our site, we may collect tracking information such as your browser type, the type of operating system you use, the name of your Internet service provider, and pages visited on the site. American gets this information by using technologies, including [cookies and web beacons](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD#cookies) to increase the functionality and user-friendliness of our site and to better tailor our site to our visitors' needs. We also use this information to verify that visitors meet the criteria required to process their requests. None of this tracking information identifies you personally; we collect it for reporting onsite activity in the aggregate. For example, we may want to know how long the average user spends on our site or which pages or features get the most attention. 
 
 **Minors**  
 American does not knowingly collect personal identifiable information from children under the age of 13. If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever. 
@@ -55,17 +55,17 @@ American also uses customer information to identify, develop and market products
 Return to Top  
 How You Can Opt Out of Marketing Communications and Sharing of Your Information With Third Parties  
 ---  
-If you do not want American to use or share your personal information for the purpose of sending you marketing or promotional materials, please [click on this link to submit your request by e-mail](https://web.archive.org/apps/utility/contactAA/EmailCustomerRelations.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD). If you are a member of one of our corporate or business-to-business programs, your company's designated representative may have to call directly if you choose to change your participation in those programs. (Please see your corporate program agreement and the specific web site applicable to your program for details.) Your request will be handled promptly but you may still receive marketing communications that were already in process prior to receipt of your request. If you are an AAdvantage member, you may also contact [AAdvantage Customer Service](https://web.archive.org/apps/utility/contactAA/ContactAAHome.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD) to submit your request. Please note that you will continue to receive AAdvantage program updates and email products for which you have subscribed.  |     
+If you do not want American to use or share your personal information for the purpose of sending you marketing or promotional materials, please [click on this link to submit your request by e-mail](https://web.archive.org/apps/utility/contactAA/EmailCustomerRelations.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD). If you are a member of one of our corporate or business-to-business programs, your company's designated representative may have to call directly if you choose to change your participation in those programs. (Please see your corporate program agreement and the specific web site applicable to your program for details.) Your request will be handled promptly but you may still receive marketing communications that were already in process prior to receipt of your request. If you are an AAdvantage member, you may also contact [AAdvantage Customer Service](https://web.archive.org/apps/utility/contactAA/ContactAAHome.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD) to submit your request. Please note that you will continue to receive AAdvantage program updates and email products for which you have subscribed.  |     
 Return to Top  
 Managing Your Email Product Subscriptions  
 ---  
-You can [subscribe](https://web.archive.org/apps/utility/logInOut/LoginMember.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD) to or [opt out](https://web.archive.org/apps/utility/logInOut/LoginMember.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD) of American's email products or update your personal account preferences by clicking on "My Account" at the top of any page on www.aa.com. You must log in using your password to access your information and to make any changes. If you've forgotten your password or need a new one, visit [www.aa.com/password](http://www.aa.com/password). In addition to this method, which applies to your www.aa.com preferences, other companies or programs in the American Family may require different steps to change your preferences for participation. Please review those other [company or program web pages](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD#affiliated) directly for any additional or different requirements to change your preferences. |     
+You can [subscribe](https://web.archive.org/apps/utility/logInOut/LoginMember.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD) to or [opt out](https://web.archive.org/apps/utility/logInOut/LoginMember.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD) of American's email products or update your personal account preferences by clicking on "My Account" at the top of any page on www.aa.com. You must log in using your password to access your information and to make any changes. If you've forgotten your password or need a new one, visit [www.aa.com/password](http://www.aa.com/password). In addition to this method, which applies to your www.aa.com preferences, other companies or programs in the American Family may require different steps to change your preferences for participation. Please review those other [company or program web pages](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD#affiliated) directly for any additional or different requirements to change your preferences. |     
 Return to Top  
 Security  
 ---  
-Information Security is important at American. We maintain strict physical, electronic and procedural safeguards to protect personal information and we regularly review our security standards and procedures to protect against unauthorized access to personal information. See our [Security](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD) statement for details.
+Information Security is important at American. We maintain strict physical, electronic and procedural safeguards to protect personal information and we regularly review our security standards and procedures to protect against unauthorized access to personal information. See our [Security](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD) statement for details.
 
-American also participates in the Council of Better Business Bureaus' BBBOnline® Privacy Program, and complies with all the BBBOnline privacy and security standards. Further information about this program is available at [bbbonline.org](http://bbbonline.org/). 
+American also participates in the Council of Better Business Bureaus' BBBOnline® Privacy Program, and complies with all the BBBOnline privacy and security standards. Further information about this program is available at [bbbonline.org](http://www.bbbonline.org/). 
 
 |     
 Return to Top  
@@ -79,13 +79,13 @@ We'd also like to remind visitors that we provide additional links to resources 
 Return to Top  
 The American Family  
 ---  
-This privacy notice is applicable to American, American Eagle, Executive Airlines, American Connection, Travel Reservations, Corporate Sales, Marketing Research, Customer Relations/Service, the AAdvantage program and [certain affiliated American websites](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD#affiliated). Affiliated American websites may also have additional privacy disclosures and procedures in place, as described on those websites. |     
+This privacy notice is applicable to American, American Eagle, Executive Airlines, American Connection, Travel Reservations, Corporate Sales, Marketing Research, Customer Relations/Service, the AAdvantage program and [certain affiliated American websites](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD#affiliated). Affiliated American websites may also have additional privacy disclosures and procedures in place, as described on those websites. |     
 Return to Top  
 Privacy Modifications  
 ---  
 American reserves the right to change this Privacy Policy at any time. We will post any changes here, so be sure to check back periodically. Although this Privacy Policy is not a contract and does not create any legal rights, it does serve as an expression of American's commitment to protecting private personal information. This policy was last updated on June 30, 2004.
 
-[Security Statement](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=KNHTHB1FPXXVHEAJJMXU1DEQBFFSWVMD)
+[Security Statement](https://web.archive.org/content/footer/securitystatement.jhtml;jsessionid=VTBCOHOJ521BXEAJJNLU1DMQBFFSWVMD)
 
 |     
 Return to Top
