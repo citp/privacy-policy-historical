@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220557id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224214622id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Legal / Privacy Policy
 
-> Last updated: Wed May 31 17:37:54 2006  
+> Last updated: Sun Jun 25 15:18:44 2006  
 > 
 > 
 > ## Terms Of Service
@@ -71,7 +71,7 @@
 >  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 > 
 > **Policy updates**  
->  All updates to this policy will be posted here. Last updated: Wed May 31 17:37:54 2006  
+>  All updates to this policy will be posted here. Last updated: Sun Jun 25 15:18:44 2006  
 > 
 > 
 > Note: This policy also covers the personal information you provide to Fark Customer Support. 
