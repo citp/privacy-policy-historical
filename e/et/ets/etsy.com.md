@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004325id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224152618id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Etsy - Your place to buy and sell all things handmade
+# Etsy :: Privacy Policy
 
 **Etsy Privacy Policy**
 
@@ -72,5 +72,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **Questions**  
 If you have questions or suggestions you can contact us at:   
 Etsy Customer Care - Privacy Policy   
-99 South Elliot Place, Brooklyn, New York 11217 (718) 403 9358  
+325 Gold St., 6th Floor Brooklyn, NY 11201 (718) 312 8766  
 
