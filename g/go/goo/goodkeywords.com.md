@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodkeywords.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032721id_/http%3A//goodkeywords.com/icenter/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodkeywords.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225005120id_/http%3A//goodkeywords.com/icenter/privacy.php) for the most accurate reproduction.*
 
 # GoodKeywords.Com: Privacy Policy
 
