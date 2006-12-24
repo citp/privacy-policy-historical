@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413200302id_/http%3A//www.approvedindex.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224213421id_/http%3A//www.approvedindex.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Approved Index - Home
+# Privacy Policy
 
   
 At Approved Index Ltd we value your right to privacy. However, in order to run an efficient and effective service, there is certain information about our users that we need to collect and use.
@@ -80,4 +80,4 @@ Just click on a cookie to open it. You'll see a short string of text and numbers
   
 By disclosing your personal information to Approved Index Ltd , you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy Policy. 
 
-Do you have any other questions about privacy? We want you to feel happy about any information you give us and know that you have control over the way it is used. If you have any questions about our Privacy policy, please email them to us [feedback@approvedindex.co.uk](mailto:feedback@approvedindex.co.uk) . 
+Do you have any other questions about privacy? We want you to feel happy about any information you give us and know that you have control over the way it is used. If you have any questions about our Privacy policy, please email them to us [feedback@approvedindex.co.uk](mailto:feedback@approvedindex.co.uk). 
