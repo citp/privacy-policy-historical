@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615121243id_/http%3A//esmarttax.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224082029id_/http%3A//www.esmarttax.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # eSmart Tax Privacy Statement - FREE online income tax software filing, IRS e-File tax return form for Federal & State, 1040 tax forms and more.
-
-| 
-
-C&S Technologies, Inc. – Privacy Statement 
 
 **[](http://www.truste.org/ivalidate.php?url=www.esmarttax.com&sealid=101)At C&S Technologies, Inc. (referred to as C&S, "us" or "we" in this Privacy Statement), we are dedicated to serving your needs. We know you care about your personal privacy. Because we care about you we have adopted the practices described in this Privacy Statement.**
 
@@ -39,7 +35,6 @@ C&S collects information from our users at several different points, including b
 > Information from Other Sources  
 >  We may receive information about you from other sources, such as our agents, vendors and service providers and from publicly available sources. For example, sometimes we receive updated address information from third parties that we may use to update our records. 
 
-  
 Restrictions on Disclosing Information To Third Parties.
 
 We are not in the business of selling or renting your personally identifiable information to others. We do not reveal personally identifiable information about you to third parties (outside of any affiliate or subsidiary we may have) for their independent use unless: (1) you request or authorize it; (2) the information is provided to help provide a service or complete a transaction for you; (3) the information is provided to comply with the law, enforce our User Agreement or other agreements we have with you, or to protect our rights, property or safety, or the rights, property or safety of others; (4) the disclosure is done as part of a purchase, sale or transfer of services or assets (for example, if substantially all of our assets are acquired by another party, your information may be one of the transferred assets); or (5) the information is provided to our agents, vendors or service providers who perform functions on our behalf. We may also gather aggregated data about you and disclose the results of such aggregated (but not personally identifiable) information to third parties for marketing or promotional purposes. 
@@ -68,7 +63,7 @@ Questions Regarding This Privacy Statement.
 
 C&S Technologies, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.eSmartTax.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, they should first contact Chia-Chieh Chen by e-mail, cchen@eSMARTtax.com or mail to 920 Hillview Court, Suite 160, Milpitas, CA 95035. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, they should first contact Chia-Chieh Chen by e-mail, cchen@eSMARTtax.com or mail to 920 Hillview Court, Suite 250, Milpitas, CA 95035. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 Last Updated on 12/05/2005   
 
