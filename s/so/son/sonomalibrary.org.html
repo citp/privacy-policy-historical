@@ -1,15 +1,10 @@
-<!--The following is the downloaded HTML source of the sonomalibrary.org privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210191409id_/http%3A//sonomalibrary.org/libinfo/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonomalibrary.org privacy policy that was archived on 2006-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061225154542id_/http%3A//www.sonomalibrary.org/libinfo/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
-      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-      <meta http-equiv="Content-Script-Type" content="text/javascript">
-  
-      <meta name="description" content="Privacy policy of the 
-       Sonoma County Library, California">
-      <meta name="keywords" content="privacy, cookies, online
-information">
-
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="description" content="Privacy policy of the Sonoma County Library, California">
+      <meta name="keywords" content="privacy, cookies, online information">
 
 <title> Privacy Statement for the Sonoma County Library Web Pages</title>
 
@@ -22,31 +17,6 @@ information">
   <tbody><tr> 
     <td width="115" align="left" valign="top" nowrap="" class="left">
 
-<script language="JavaScript" type="text/javascript">
-function alertData() {
-	var sTranslate="";
-	var NextTerm;
-	var sTranslist;
-	var re=/\s/
-	sTranslist=document.SForm[3].value.split(re);
-	if (sTranslist.length > 1) {
-		for(i=0;i<sTranslist.length-1;i++) {
-			//ignore booleans and add our own
-			if ((sTranslist[i].indexOf('AND') != 0) && 
-				(sTranslist[i].indexOf('and') != 0) && 
-				(sTranslist[i].indexOf('OR') != 0) && 
-				(sTranslist[i].indexOf('or') != 0) && 
-				(sTranslist[i].indexOf('NOT') != 0) &&
-				(sTranslist[i].indexOf('not') != 0)) {
-				sTranslate+=sTranslist[i]+' AND ';
-			}
-		}
-		sTranslate+=sTranslist[i];
-		document.SForm[3].value=sTranslate;
-	}
-}   
-
-</script>
 <p align="center">
 <a href="/index.html"><img src="/img/logo/SCLogo_sm.gif" alt="Sonoma County Library" width="72" height="88" border="0"></a></p>
 <div class="nav">
@@ -63,11 +33,11 @@ function alertData() {
 <a href="/ref/" title="Links to subject pages">Subject Links</a> 
 <br>
 <br>
-<a href="/ref/articles.html" title="Articles and references">Magazines, <br>Newspapers,<br> 
+<a href="/ref/articles.scl" title="Articles and references">Magazines, <br>Newspapers,<br> 
 &amp; More</a>
 <br>
 <br>
-<a href="/kids.html" title="Games for tots, kid-safe search engines and more">Kids'</a> and 
+<a href="/kids/" title="Games for tots, kid-safe search engines and more">Kids'</a> and 
 <a href="/teens.html" title="Homework help, college info, zines and more"><br>
 Teens'</a> Pages
 <br>
@@ -76,29 +46,26 @@ Teens'</a> Pages
 Hours</a> 
 <br>
 <br>
-<form name="SForm" id="SForm" method="post" action="/search?NS-search-page=results" onsubmit="alertData();">
-  <input type="hidden" name="NS-search-type" value="NS-boolean-query">
-  <input type="hidden" name="NS-max-records" value="$$NS-max-records">
-  <input type="hidden" name="NS-collection" value="Sonoma County Library">
-<table border="0">
-    <tbody><tr>
-      <td align="left"><input name="NS-query" id="NS-query" size="12">
-      </td>
-	</tr>
-	<tr>
-	  <td align="left"><input type="submit" name="Submit" value="Search site">
-      </td>
-    </tr>
-  </tbody></table>
+<form method="get" action="/cgi-bin/texis/webinator/search">
+	<input type="hidden" name="pr" value="default">
+	<input type="hidden" name="prox" value="page">
+	<input type="hidden" name="rorder" value="500">
+	<input type="hidden" name="rprox" value="500">
+	<input type="hidden" name="rdfreq" value="750">
+	<input type="hidden" name="rwfreq" value="500">
+	<input type="hidden" name="rlead" value="750">
+	<input type="hidden" name="sufs" value="0">
+	<input size="12" name="query" value="">
+	<br>
+	<input class="bibnote" type="submit" name="submit" value="Search site">
 </form>
 <br>
 <br></div>
 
 
-<!-- the SSI should appear above this line-->
+<!-- the SSI should appear above this line -->
     </td>
 <td width="10">&nbsp;</td>
-
 <td class="main" valign="top" align="left">
   <h1>Privacy Statement
 </h1>
@@ -185,22 +152,18 @@ you may send email to:
 you can <a href="/feedback.html">contact the web coordinator</a>.</p>
 
 
-<hr noshade="" size="1">
-<p>Related documents:</p>
-<ul>
-  <li><small><a href="policy.html">Internet Access Policy</a></small></li>
-  <li><small><a href="Inetpolicy.html">Library Measures to Promote the Responsible
-        Use of Computer Workstations</a></small></li>
-  <li><small><a href="workstation.html">Public Computer Workstation Procedures</a></small></li>
-  <li><small><a href="guide.html">Web Guidelines</a></small></li>
-</ul></td>
+<hr size="1" noshade="">
+<p><a href="index.html"><img src="../../img/left_arr.gif" width="20" height="30" border="0" align="absmiddle">Other
+    policies and procedures</a><br>
+      <a href="/about.html"><img src="../../img/left_arr.gif" width="20" height="30" border="0" align="absmiddle">More
+    library information</a></p></td>
   </tr>
 </tbody></table>
 
 <div class="nav">
 	<hr noshade="" size="1">
 	<div align="center" class="footer">
-	Copyright © 2000-2005 Sonoma County Library
+	Copyright © 2000-2006 Sonoma County Library
 <br>
 <span class="nav">
 <a href="/index.html" title="Sonoma County Library home page">Home</a> |
@@ -208,10 +171,10 @@ you can <a href="/feedback.html">contact the web coordinator</a>.</p>
 <a href="/contact.html" title="E-mail, phone, mail, and visiting information">Contact Us</a> |
 <a href="/sitemap.html" title="List of pages on this web site">Site Map</a> |                            
 <a href="/feedback.html" title="Send feedback about this web site">Web Coordinator</a> |
-<a href="/ref/ask.html" title="Send a question to the librarian">Ask a Librarian</a><br>
+<a href="/ref/askalib.scl" title="Send a question to the librarian">Ask a Librarian</a><br>
 </span>
-	<!--config tmft=%e, %m, %Y"-->
-	 Last updated on Wednesday, 27-Jul-05 12:54:28<br>
+	<!--config tmft=%e, %m, %Y" -->
+	 Last updated on Friday, 22-Sep-2006 10:53:10 PDT<br>
 	URL: http://www.sonomalibrary.org/libinfo/policies/privacy.html
 	</div>
 </div>
