@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604035151id_/http%3A//www.clark.edu/gen_info/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225041333id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
 
-# Public Records Privacy Protection Policy
+# About Clark- Clark College Public Records Privacy Protection Policy
 
-|   
-**Public Records Privacy Protection Policy**
+Public Records Privacy Protection Policy 
 
-** Adopted by the Information Services Board (ISB)—  
+  
+
+
+**Adopted by the Information Services Board (ISB)—  
 Effective: 06/12/2001**
 
   * Introduction
@@ -81,7 +83,7 @@ RETURN TO TOP
 
 We collect no personal information about you unless you voluntarily provide it to us by sending us e-mail, participating in a survey, or completing an on-line form. You may choose not to contact us by e-mail, participate in a survey or to provide any personal information using an on-line form. Your choice to not participate in these activities will not impair your ability to browse _www.clark.edu_ and read or download any information provided on the site.
 
-If you choose not to use e-mail, participate in a survey or use an on-line form, you will be provided with [**alternative contact methods**](https://web.archive.org/web/20040604035151id_/http%3A//www.clark.edu/gen_info/policies/alternative_contacts.html).
+If you choose not to use e-mail, participate in a survey or use an on-line form, you will be provided with alternative contact methods.
 
 If personal information is requested on the Web site or volunteered by the user, state law and the Federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
@@ -124,7 +126,7 @@ RETURN TO TOP
 * * *
 
 **Degree Audit  
-**Clark College may require you to provide certain personal information in order to perform a degree audit of your records over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display a degree audit of your records over the Web, and you will have to request a degree audit in person.
+**Clark College may require you to provide certain personal information in order to perform a degree audit of your records over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display a degree audit of your records over the Web, and you will have to request a degree audit in person. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -140,7 +142,7 @@ RETURN TO TOP
 * * *
 
 **Financial Aid Inquiry  
-**Clark College may require you to provide certain personal information in order to obtain your financial aid status over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to give you your financial aid status over the Web, and you will have to obtain this information in person.
+**Clark College may require you to provide certain personal information in order to obtain your financial aid status over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to give you your financial aid status over the Web, and you will have to obtain this information in person. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -156,7 +158,7 @@ RETURN TO TOP
 * * *
 
 **Hope and Lifetime Learning Tax Credit  
-**Clark College may require you to provide certain personal information in order to allow you to view and copy course enrollment and payment information. The information is required in order to provide you with the tax information needed for compliance with the Internal Revenue Service reporting requirements for the Hope and Lifetime Learning tax credits. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your enrollment and payment information and you will have to obtain a copy of your enrollment and payment records either in person or by mail.
+**Clark College may require you to provide certain personal information in order to allow you to view and copy course enrollment and payment information. The information is required in order to provide you with the tax information needed for compliance with the Internal Revenue Service reporting requirements for the Hope and Lifetime Learning tax credits. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your enrollment and payment information and you will have to obtain a copy of your enrollment and payment records either in person or by mail. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -172,7 +174,7 @@ RETURN TO TOP
 * * *
 
 **Registration  
-**Clark College may require you to provide certain personal information in order to register for classes over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, you will be unable to register for classes over the Web, and you will have to register for classes in person or by mail.
+**Clark College may require you to provide certain personal information in order to register for classes over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, you will be unable to register for classes over the Web, and you will have to register for classes in person or by mail. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -188,7 +190,7 @@ RETURN TO TOP
 * * *
 
 **Registration Appointment  
-**Clark College may require you to provide certain personal information in order to obtain your registration appointment information over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your registration appointment information over the Web, and you will have to obtain your registration appointment information either in person or by Touch-tone access.
+**Clark College may require you to provide certain personal information in order to obtain your registration appointment information over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your registration appointment information over the Web, and you will have to obtain your registration appointment information either in person or by Touch-tone access. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -204,7 +206,7 @@ RETURN TO TOP
 * * *
 
 **Schedule Planner  
-**Clark College may require you to provide certain personal information in order to check requisites while using the schedule planner. The information is required in order to access your academic and testing records. You may choose not to provide this information, but if you choose not to provide it, we will be unable to verify your eligibility for enrollment into certain classes and you may be blocked from enrolling into those classes.
+**Clark College may require you to provide certain personal information in order to check requisites while using the schedule planner. The information is required in order to access your academic and testing records. You may choose not to provide this information, but if you choose not to provide it, we will be unable to verify your eligibility for enrollment into certain classes and you may be blocked from enrolling into those classes. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -220,7 +222,7 @@ RETURN TO TOP
 * * *
 
 **Student Address Change  
-**Clark College may require you to provide certain personal information in order to change your address over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to change your address over the Web, and you will have to change your address in person.
+**Clark College may require you to provide certain personal information in order to change your address over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to change your address over the Web, and you will have to change your address in person. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -236,7 +238,7 @@ RETURN TO TOP
 * * *
 
 **Student PIN Change  
-**Clark College may require you to provide certain personal information in order to change your personal identification number (PIN) over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to change your PIN over the Web, and you will have to change your PIN in person.
+**Clark College may require you to provide certain personal information in order to change your personal identification number (PIN) over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to change your PIN over the Web, and you will have to change your PIN in person. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -252,7 +254,7 @@ RETURN TO TOP
 * * *
 
 **Student Schedule  
-**Clark College may require you to provide certain personal information in order to view your quarterly schedule. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your quarterly schedule over the Web, and you will have to obtain a copy of your quarterly schedule in person.
+**Clark College may require you to provide certain personal information in order to view your quarterly schedule. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your quarterly schedule over the Web, and you will have to obtain a copy of your quarterly schedule in person. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -268,7 +270,7 @@ RETURN TO TOP
 * * *
 
 **Unofficial Transcript  
-**Clark College may require you to provide certain personal information in order to view your unofficial transcript over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your unofficial transcript over the Web, and you will have to view your unofficial transcript in person.
+**Clark College may require you to provide certain personal information in order to view your unofficial transcript over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your unofficial transcript over the Web, and you will have to view your unofficial transcript in person. 
 
 The following laws and regulations may prevent Clark College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, date of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similiar information.
 
@@ -320,9 +322,7 @@ You may contact Clark College as follows:
 >  1800 E. McLoughlin Blvd. MS 02  
 >  360-992-2891 FAX  
 >  360-992-2549  
->  [pweber@clark.edu](mailto:pweber@clark.edu)
-
-**[On-Line Forms Alternative Contact Information](https://web.archive.org/web/20040604035151id_/http%3A//www.clark.edu/gen_info/policies/alternative_contacts.html)**
+>  [webmaster@clark.edu](mailto:webmaster@clark.edu)
 
 **Last Modified** : 03/04/2004 
 
