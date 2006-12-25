@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppbs.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615070642id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppbs.org privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225071634id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.*
 
 # Shop PBS Helpdesk
 
