@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003945id_/http%3A//iinet.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225134029id_/http%3A//www.iinet.net.au/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
-This is our Privacy Policy, a document which outlines our guarantee on your use of our products. For further information see our [Privacy Policy FAQ](https://web.archive.org/web/20060615003945id_/http://www.iinet.net.au/privacy/faq.html) page. 
+This is our Privacy Policy, a document which outlines our guarantee on your use of our products. For further information see our [Privacy Policy FAQ](https://web.archive.org/web/20061225134029id_/http://www.iinet.net.au/privacy/faq.html) page. 
 
   1. We use and may disclose your personal information in order to: 
     1. Provide services to you; 
