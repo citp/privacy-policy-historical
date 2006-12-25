@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615070642id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2006-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061225071634id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -84,6 +84,7 @@ function jump(url)
 <a name="pageTop()"><!-- --></a>
 
 
+
 <script language="JavaScript">
 //
 // Rollover
@@ -123,8 +124,9 @@ function Hilite(name,over)
 	}
 
 	function emailClose(emailSlider){
+		lastShownForm = "";
 	    if (showEmail){
-	        fX = -270; cX = 140; showEmail = 0;
+	        fX = -770; cX = 140; showEmail = 0;
 	        slideEmail(cX,fX);
 	    }
 		
@@ -285,6 +287,116 @@ function Hilite(name,over)
 			currentSlider = id;
 		}
 	}
+	
+	var lastShownForm = "";
+	function toggleForm(divId) {
+		
+		var emailIFrame = document.getElementById('sliderFrame1');
+		//alert(emailIFrame.contentWindow.document.getElementById(divId).style.visibility);
+		//Condition added for PS 39672
+		if (emailIFrame.contentWindow.document.getElementById(divId)== null)
+		{ 
+			
+				toggleVisibility('emailSlider1','visible','visible','visible');
+						
+			return;		
+		}
+		
+
+		if ( (divId=="form1") && (lastShownForm != divId) ) {
+			//alert("1st condition.");
+			//alert(emailIFrame.contentWindow.document.getElementById(divId).style.visibility);
+			//alert(emailIFrame.contentWindow.document.getElementById(divId).className);
+			//eval("emailIFrame.contentWindow.document.getElementById(divId).className = \"visibleClass\"");
+			//emailIFrame.contentWindow.document.getElementById(divId).className = "visibleClass";
+			//emailIFrame.contentWindow.document.getElementById('form2').className= "hiddenClass";			
+			
+			emailIFrame.style.height = '403px';
+			emailIFrame.contentWindow.document.getElementById(divId).style.visibility = "visible";
+			emailIFrame.contentWindow.document.getElementById('form2').style.visibility= "hidden";	
+			//alert("form2 is " + emailIFrame.contentWindow.document.getElementById('form2').style.display);		
+			if ( (!showEmail) && (lastShownForm == "") )
+				emailOpen('emailSlider1');
+				
+			lastShownForm = divId;
+		}
+		else if ( (divId=="form1") && (lastShownForm == divId) ) {
+			//alert("2nd condition.");
+			emailIFrame.style.height = '403px';
+			emailIFrame.contentWindow.document.getElementById(divId).style.visibility= "hidden";
+			emailIFrame.contentWindow.document.getElementById('form2').style.visibility= "hidden";
+			emailOpen('emailSlider1');
+			lastShownForm = "";
+		}
+		else if ( (divId=="form2") && (lastShownForm != divId) ){
+			//alert("3rd condition.");
+			emailIFrame.style.height = '502px';
+			emailIFrame.contentWindow.document.getElementById(divId).style.visibility= "visible";
+			emailIFrame.contentWindow.document.getElementById('form1').style.visibility= "hidden";
+			//alert("form1 is " + emailIFrame.contentWindow.document.getElementById('form1').style.display);	
+			if ( (!showEmail) && (lastShownForm == "") )
+				emailOpen('emailSlider1');
+			lastShownForm = divId;
+		}
+		else if ( (divId=="form2") && (lastShownForm == divId) ){
+		    //alert("4rd condition.");
+			emailIFrame.style.height = '403px';
+			emailIFrame.contentWindow.document.getElementById(divId).style.visibility= "hidden";
+			emailIFrame.contentWindow.document.getElementById('form1').style.visibility= "hidden";
+			emailOpen('emailSlider1');
+			lastShownForm = "";
+		}
+	}
+
+	function toggleFormMI(divId) {
+
+		var emailIFrame = document.frames["sliderFrame1"].document;
+		
+		if (emailIFrame.getElementById(divId)== null)
+		{ 
+			toggleVisibility('emailSlider1','visible','visible','visible');
+			return;		
+		}
+		
+
+		if ( (divId=="form1") && (lastShownForm != divId) ) {
+						
+			emailIFrame.height = '403px';
+			emailIFrame.getElementById(divId).style.visibility = "visible";
+			emailIFrame.getElementById('form2').style.visibility= "hidden";	
+			//alert("form2 is " + emailIFrame.contentWindow.document.getElementById('form2').style.display);		
+			if ( (!showEmail) && (lastShownForm == "") )
+				emailOpen('emailSlider1');
+				
+			lastShownForm = divId;
+		}
+		else if ( (divId=="form1") && (lastShownForm == divId) ) {
+			//alert("2nd condition.");
+			emailIFrame.height = '403px';
+			emailIFrame.getElementById(divId).style.visibility= "hidden";
+			emailIFrame.getElementById('form2').style.visibility= "hidden";
+			emailOpen('emailSlider1');
+			lastShownForm = "";
+		}
+		else if ( (divId=="form2") && (lastShownForm != divId) ){
+			//alert("3rd condition.");
+			emailIFrame.height = '502px';
+			emailIFrame.getElementById(divId).style.visibility= "visible";
+			emailIFrame.getElementById('form1').style.visibility= "hidden";
+			//alert("form1 is " + emailIFrame.contentWindow.document.getElementById('form1').style.display);	
+			if ( (!showEmail) && (lastShownForm == "") )
+				emailOpen('emailSlider1');
+			lastShownForm = divId;
+		}
+		else if ( (divId=="form2") && (lastShownForm == divId) ){
+		    //alert("4rd condition.");
+			emailIFrame.height = '403px';
+			emailIFrame.getElementById(divId).style.visibility= "hidden";
+			emailIFrame.getElementById('form1').style.visibility= "hidden";
+			emailOpen('emailSlider1');
+			lastShownForm = "";
+		}
+	}
 </script>
 
 <style>
@@ -336,7 +448,7 @@ body {
 	z-index: 97;
 	left: 521px;
 	width: 259px;
-	top: -360px;
+	top: -260px;
 	background-color: #FFFFFF;
 	}
 </style>
@@ -360,12 +472,17 @@ body {
 
 </div>
 	<a href="../cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="headlink">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.shoppbs.org/coreg/index.jsp?step=register&amp;clickid=topnav_myAccount_txt" class="headlink">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="headlink">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.shoppbs.org/coreg/index.jsp?step=ot&amp;clickid=topnav_trackOrder_txt" class="headlink">Track Your Order</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="headlink">Shopping Cart</a>&nbsp;[0 items]&nbsp;&nbsp;</td>
+
+ 
+ 
+ 
 </tr>
 </tbody></table>
+
 <table cellpadding="0" cellspacing="0" border="0" width="780" align="center">
 <tbody><tr>
-	<td height="96" rowspan="2"><a href="/home/index.jsp?clickid=mainnav_home_img"><img src="http://QPBS.imageg.net/graphics/category_images/PBS_header_animated_cobrand.gif" border="0" align="absmiddle"></a></td>
-	<td bgcolor="3A71E5" height="15"><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="15"></td>
+	<td height="96" rowspan="2"><a href="/home/index.jsp?clickid=mainnav_home_img"><img src="http://QPBS.imageg.net/graphics/category_images/QPBS_holiday_red_header.gif" border="0" align="absmiddle"></a></td>
+	<td bgcolor="870203" height="15"><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="15"></td>
 </tr>
 <tr>
 	<td height="81" bgcolor="#666666" width="186" valign="top" align="right" class="finder"><img src="http://QPBS.imageg.net/images/qpbs_email_cat_signup.gif" width="186" height="81" alt="" border="0" usemap="#signup"></td>
@@ -376,23 +493,16 @@ body {
 </tbody></table>
 </div>
 
-<span id="emailSlider1" height="402" width="259">
-<iframe id="sliderFrame1" name="sliderFrame1" height="402" width="259" frameborder="0" src="../include/email_popin.jsp" scrolling="No"></iframe>
+<span id="emailSlider1" height="100%" width="100%">
+<iframe id="sliderFrame1" name="sliderFrame1" height="100%" width="100%" frameborder="0" src="../include/entry.jsp" scrolling="No"></iframe>
 </span>
 
-<span id="emailSlider2" height="402" width="259">
-<iframe id="sliderFrame" name="sliderFrame" height="500" width="259" frameborder="0" src="../include/catalog_popin.jsp" scrolling="No"></iframe>
-</span>
-
-<span id="hideSelects" height="387" width="259">
-<iframe height="387" width="259" frameborder="0" src="../include/blank_popin.jsp" scrolling="No"></iframe>
-</span>
 
 </div>
 
 <map name="signup">
-	<area alt="" coords="8,11,128,27" href="javascript:emailOpen('emailSlider1');">
-	<area alt="" coords="6,54,132,73" href="javascript:emailOpen2('emailSlider2');">
+	<area alt="" coords="8,11,128,27" href="javascript:toggleForm('form1');">
+	<area alt="" coords="6,54,132,73" href="javascript:toggleForm('form2');">
 </map>
 <div style="padding-top:143px;"></div>
 
@@ -641,20 +751,52 @@ If you have any questions or concerns regarding this policy, send us an e-mail a
 		 <td width="399" height="59" bgcolor="#CCCCCC" valign="top"><br>Receive e-mails about shopPBS.org news and special offers.<br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="2"><br><span class="email">Enter your email address:</span><form method="post" style="margin:0px;display:inline;" action="/emailHandler/index.jsp?clickid=footer_emailSignUp_img" name="emailForm" onsubmit="return emailCheck(0);"><input type="hidden" name="contest" value="QPBS_nocontest"><input type="text" name="emailAddress" size="11" id="formitems" class="pagetext"><input type="image" src="http://QPBS.imageg.net/images/sign_up.jpg" border="0" align="absmiddle"> &nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink">Privacy Policy</a><br>
 <input type="hidden" checked="" name="emailPref" value="Y"></form></td>
 		 <td width="11" bgcolor="#666666"><img src="http://QPBS.imageg.net/images/pixel.gif" width="11" height="1"></td>
-		 <td width="175" height="59" bgcolor="#cccccc" valign="top"><br>&nbsp;<a href="../giftCenter/index.jsp?clickid=footer_giftCenter_txt" class="footerlink">Gift Center</a><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="5"><br>&nbsp;<a href="../catalog/requestForm.jsp?clickid=footer_requestCatalog_txt" class="footerlink">Request a Catalog</a></td>
+		 <td width="175" height="59" bgcolor="#cccccc" valign="top"><br>&nbsp;<a href="/category/index.jsp?categoryId=2525627" class="footerlink">Gift Center</a><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="5"><br>&nbsp;<a href="../catalog/requestForm.jsp?clickid=footer_requestCatalog_txt" class="footerlink">Request a Catalog</a></td>
      </tr>
-	 <tr>
+	 <tr>   <td><table><tbody><tr>
 	 
 <!-- pageType = helpdesk-->
 	 
-        <td><a href="javascript:void window.open('../corp/visa.jsp?','visa','width=800,height=680,scrollbars=yes')"><img src="/graphics/category_images/vbv_ltbg_71x57.gif" border="0"></a>
-</td> 
+	 <td>
+     <a href="javascript:void window.open('../corp/visa.jsp?','visa','width=800,height=680,scrollbars=yes')"><img src="/graphics/category_images/vbv_ltbg_71x57.gif" border="0"></a>
+	 </td>
+ 
 
-	 	<td colspan="5" bgcolor="#FFFFFF" align="right" height="22" valign="center"><font color="#999999">*List price is for reference only. No sales may have occurred at this price. **See product page for details.</font></td>
+	<td><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="6"><br>
+		<!-- START CONTROLSCAN CODE -->
+		<a href="http://www.controlscan.com/seal/verify2.php?subid=2341&amp;id=20" target="verify"><img border="0" src="http://www.controlscan.com/seal/sealx2.php?subid=2341&amp;id=20" oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt="Internet Security By ControlScan"></a>
+		<!-- STOP CONTROLSCAN CODE -->
+		</td>
+			 </tr>
+</tbody></table>
+</td>
+		
+
+		<td colspan="5" bgcolor="#FFFFFF" align="right" height="22" valign="center"><font color="#999999">*List price is for reference only. No sales may have occurred at this price. **See product page for details.</font></td>
 	 </tr>
 </tbody></table>
 
+<script language="JavaScript">
 
+/* Non-commerce Variables */
+
+var s_server = 'www.shoppbs.org';
+var s_pageName = 'Customer Assistance - Customer Assitance Landing Page';
+var s_eVar20 = '';
+var s_hier1 = '';
+var s_events = '';
+var s_channel = 'Home';
+var s_eVar19 = '26576034761';
+</script>
+
+
+	<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
+	<script language="JavaScript">
+	/* Specify the Report Suite ID(s) to track here */
+	var s_account="gsicpbs";
+	</script><script language="JavaScript" src="http://QPBS.imageg.net/include/omniture.js"></script>
+	<!-- End SiteCatalyst code version: G.9. -->	
+	
 
 
 
