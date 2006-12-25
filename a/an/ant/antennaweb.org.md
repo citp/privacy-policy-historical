@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antennaweb.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023925id_/http%3A//www.antennaweb.org/aw/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antennaweb.org privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225060011id_/http%3A//www.antennaweb.org/aw/Privacy.aspx) for the most accurate reproduction.*
 
 # AntennaWeb
 
@@ -21,7 +21,7 @@ We use the information you provide to promote HDTV-related consumer products. We
 **Email Use**  
 We use return e-mail addresses to answer the e-mail we receive and for future contact with you. Such addresses are not shared with outside parties without your permission. 
 
-**If you would like your e-mail address removed from the AntennaWeb.org list, please click[here](https://web.archive.org/web/20060615023925id_/http%3A//www.antennaweb.org/aw/EmailOptions.aspx) and enter your e-mail address.**
+**If you would like your e-mail address removed from the AntennaWeb.org list, please click[here](https://web.archive.org/web/20061225060011id_/http%3A//www.antennaweb.org/aw/EmailOptions.aspx) and enter your e-mail address.**
 
 Removal requests made any other way may not be processed.  
   
