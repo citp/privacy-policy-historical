@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429132151id_/http%3A//www.123movers.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225094730id_/http%3A//www.123movers.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # 123 Movers.com Privacy Policy
 
