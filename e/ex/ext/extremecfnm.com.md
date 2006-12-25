@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621192044id_/http%3A//www.adultxfun.com/index.php/about%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225175529id_/http%3A//www.adultxfun.com/index.php/about%23privacy) for the most accurate reproduction.*
 
-# About CFNM Affiliation Program
+# CFNM movies
 
 AdultXFun is a well established adult entertainment company, with our main business running adult [websites](https://web.archive.org/index.php/websites). We pride ourselves on creating and offering some of the highest quality adult content on the Internet, you will not find our own content anywhere else, this is unique to us.
 
@@ -44,7 +44,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you do not wish to be placed on our mailing list please contact us via our [contact page](https://web.archive.org/index.php/contact) with a request to be removed. This will be carried out without any hesitation.
 
-**Contacting the Web Site**
+#### Contacting the Web Site
 
 If at any time you wish to contact us, please go to the [contact page](https://web.archive.org/index.php/contact). Here you will be able to contact us via on-line form, telephone, or mailing address.
 
@@ -58,16 +58,16 @@ No authorization is required. Simply indicate the reason for your return, includ
 
 We cannot accept responsibility for lost items during transit, we recommend that you ship by USPS Insured Post or any other service, like UPS or FedEx, which offers tracking numbers.
 
-**Items Received as a Gift**
+#### Items Received as a Gift
 
 If a product received from us was sent to you as a gift, we can issue a cheque refund to the gift recipient at the same address to which the order was shipped. Please include your packing slip or the name of the person who gave the gift.
 
 Please include your e-mail address so that we may confirm your refund.
 
-**Refunds**
+#### Refunds
 
 We will notify you via e-mail of your refund once we have received the returned items. Please note that we can refund shipping costs only if the return is a result of our error.
 
-**Need more information or assistance?**
+#### Need more information or assistance?
 
-If you have any problems with your order, please don't hesitate to [contact us](https://web.archive.org/index.php/contact). 
+If you have any problems with your order, please don't hesitate to [contact us](https://web.archive.org/index.php/contact).
