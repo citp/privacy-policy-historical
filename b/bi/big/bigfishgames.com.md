@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627234504id_/http%3A//www.bigfishgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225150725id_/http%3A//www.bigfishgames.com/privacy.html) for the most accurate reproduction.*
 
 # Big Fish Games
 
 > ****Privacy Policy for Big Fish Games****
 > 
-> Last updated: January 27, 2006
+> Last updated: June 24, 2006
 > 
 > We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices.
 > 
@@ -24,9 +24,12 @@
 > **EMAIL NEWSLETTER**  
 >  Our newsletter is strictly run as an "opt-out" newsletter. We never send unsolicited emails. Information gathered during voluntary player registration is restricted to email address. This information is used solely by Big Fish Games and will not be sold to, or used by, any third party. Big Fish Games will only use this information for sending the bi-weekly newsletter about product updates and new releases.
 > 
+> ******BIG FISH GREETINGS**  
+>  Big Fish Greetings is powered by Smilebox. The Big Fish Games Privacy Policy and the Smilebox Privacy Policy apply to any information collected through the Smilebox application. Please refer to the Smilebox Privacy Policy for more information: <http://www.smilebox.com/privacy.jsp>.
+> 
 > Most games offer a checkbox for users who do not want the newsletter and their email address will be recorded as null@null.com.
 > 
-> **Players who are currently receiving the weekly Big Fish Games Newsletter and no longer wish to receive it should click on[this link](https://web.archive.org/web/20060627234504id_/http%3A//www.bigfishgames.com/unsubscribe.html) to permanently unsubscribe, regardless of how many games they install.**
+> **Players who are currently receiving the weekly Big Fish Games Newsletter and no longer wish to receive it should click on[this link](https://web.archive.org/web/20061225150725id_/http%3A//www.bigfishgames.com/unsubscribe.html) to permanently unsubscribe, regardless of how many games they install.**
 > 
 > **SECURITY**  
 >  We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems.
@@ -42,7 +45,7 @@
 > 
 > **Are you concerned about our use of our personal information? **
 > 
-> If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease from using your personal information altogether, or you wish to file a complaint, you may contact the Atlantis Online Privacy Department at 100 Fourth Avenue North, Suite 630, Seattle, WA 98109. You may also send us email by using our [Contact](https://web.archive.org/web/20060627234504id_/http%3A//www.bigfishgames.com/company/contact.html) webpage. 
+> If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease from using your personal information altogether, or you wish to file a complaint, you may contact the Atlantis Online Privacy Department at 100 Fourth Avenue North, Suite 630, Seattle, WA 98109. You may also send us email by using our [Contact](https://web.archive.org/web/20061225150725id_/http%3A//www.bigfishgames.com/company/contact.html) webpage. 
 > 
 > **Agreement in Principle with Big Fish Games Policies**
 > 
