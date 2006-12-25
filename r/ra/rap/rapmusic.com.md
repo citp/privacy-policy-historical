@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapmusic.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625113600id_/http%3A//www.rapmusic.com/rapmusic/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapmusic.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225064124id_/http%3A//www.rapmusic.com/rapmusic/privacy.php) for the most accurate reproduction.*
 
 # Rapmusic.com - Rap / Hip hop music and culture. Your total source for Rap/Hip-hop Entertainment and Information Online.
 
