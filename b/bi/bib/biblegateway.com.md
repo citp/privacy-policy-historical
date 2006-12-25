@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043248id_/http%3A//www.biblegateway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225142755id_/http%3A//www.biblegateway.com/privacy.php) for the most accurate reproduction.*
 
-# BibleGateway.com: A searchable online Bible in over 35 languages and 50 versions.- Privacy policy
+# BibleGateway.com: A searchable online Bible in over 50 versions and 35 languages.- Privacy policy
 
 The Bible Gateway respects your privacy, and will never share your email address or other personal information with any third party. 
 
