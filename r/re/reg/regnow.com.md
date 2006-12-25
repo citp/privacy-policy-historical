@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210828id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225134632id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
 
 # RegNow.com - Sell Software Online - Electronic Software & Shareware Marketing & Distribution
 
@@ -37,5 +37,3 @@ RegNow has made an investment in protecting our clients' and customers' informat
 **What about cookies?**
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. RegNow's cookies are used only to identify the customer, not to identify any specific customer traits. These cookies do not store sensitive data. This enables a more pleasant shopping experience with RegNow every time you shop with us. 
-
-[ ](https://digitalid.verisign.com/as2/b9dc41af675a66a2ff6eb46d20fb906d)
