@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213043id_/http%3A//centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # CenturyTel - Privacy Policy
 
@@ -78,7 +78,7 @@ back to top
 
 ### How To Get Your Information Removed From Our Records
 
-We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20060615213043id_/http%3A//centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20060615213043id_/http%3A//centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
+We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
 
 back to top
 
@@ -88,7 +88,9 @@ back to top
 
 We periodically send our customers news about products, new offers, and special promotions by e-mail. When you become a CenturyTel customer, you are automatically signed up to receive these e-mails. To update your e-mail address for special offers and products, or to stop receiving e-mails about specials on products and services, log in to "[My Account](https://www.centurytel.com/custserv/myAccount/)," select "Account Profile" in the left navigation menu, and under "Your e-mail preferences," select the link that matches your preference. 
 
-If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20060615213043id_/http%3A//centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
+If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
+
+If you are not enrolled for My Account, and wish to stop receiving emails about CenturyTel products and services specials, [unsubscribe](http://www.centurytel.com/applications/index.cfm?fuseaction=EmailOption.main) here.
 
 back to top
 
@@ -98,7 +100,7 @@ back to top
 
 You may update your name, address, e-mail address, and personal preferences in the My Account section of the Web site. If you would like to update this information now, please log in to [My Account](https://www.centurytel.com/custserv/myAccount/).
 
-You must enroll in My Account to access and update your personal information. If you have not enrolled, [click here](https://www.centurytel.com/applications/index.cfm) to do so.
+You must enroll in My Account to access and update your personal information. If you have not enrolled, [click here](https://www.centurytel.com/applications/index.cfm?fuseaction=applications.myAccountEnrollment) to do so.
 
 back to top
 
