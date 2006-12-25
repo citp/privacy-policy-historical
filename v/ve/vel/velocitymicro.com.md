@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626182920id_/http%3A//velocitymicro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225165335id_/http%3A//velocitymicro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - High Performance Gaming Computers, Custom Built Home Computers, Business Workstations, Digital Media Computer Systems from Velocity Micro
 
@@ -19,30 +19,32 @@ Your IP address is recorded for several purposes: to help diagnose problems with
 
 Your demographic information is used to help us tailor our products and services to your needs. 
 
-**We do not sell, rent, trade or otherwise market your information (demographic, contact, financial, or otherwise) with ANY third party. Your information remains solely in our possession.**
+**We do not sell, rent, trade, or otherwise market your information (demographic, contact, financial, or otherwise) with ANY third party. Your information remains solely in our possession.**
 
 **Use of Information Collected in Contests**  
 When you register for a contest on VelocityMicro.com, we require you to submit contact information such as name, email address, phone number, address, etc. We use this information for purposes of informing the winner, shipping the prize, and also for collecting demographic information. 
 
-**We do not sell, rent, trade or otherwise market your contest with ANY third party.** Your information remains solely in our possession.
+**We do not sell, rent, trade, or otherwise market your contest with ANY third party.** Your information remains solely in our possession.
 
 **Use of Newsletter Information**  
 When you register to receive the Velocity Micro newsletter, we require you to submit your email address. We use this address for the sole purpose of sending you the requested newsletter. You may opt out of the newsletter at any time by sending an email to vnews@velocitymicro.com with “Remove” in the subject line.
 
-**We do not sell, rent, trade or otherwise market your newsletter with ANY third party.** Your information remains solely in our possession.
+**We do not sell, rent, trade, or otherwise market your newsletter with ANY third party.** Your information remains solely in our possession.
 
 **Children's Guidelines**  
 We **do not** collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We **do not** distribute personally identifiable information about children without parental consent. We **do not** give children the ability to post or distribute personal information without prior consent. We **do not** entice children with games or contests that would encourage them to disclose personal information.
 
 **Opt Out/Opt In**  
-VelocityMicro.com allows users opt in to receive an email newsletter from us. Users may unsubscribe at any time by sending an email message to vnews@velocitymicro.com with the word “Remove” in the subject line. 
+VelocityMicro.com allows users to opt in to receive an email newsletter from us. Users may unsubscribe at any time by sending an email message to vnews@velocitymicro.com with the word “Remove” in the subject line. 
 
 **Disclaimer**  
 This site contains links to other sites. VelocityMicro.com is not responsible for the content or privacy practices of these sites.
 
 **Contact Us**  
-If you have any additional questions or concerns about our privacy policy, please contact us:  
+If you have any additional questions or concerns about our privacy policy, please contact us:
+
 Velocity Micro  
-467 Southlake Blvd  
-Richmond, VA 23236  
-800-303-7866
+7510 Whitepine Road  
+Richmond, VA 23237  
+800-303-7866  
+
