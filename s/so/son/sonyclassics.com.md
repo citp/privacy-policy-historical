@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210518id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225150302id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sony Pictures - Privacy Policy
 
   
 
 
-PLEASE READ. YOUR USE OF THIS SITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY STATEMENT AND THE WEB SITE [TERMS OF SERVICE](https://web.archive.org/web/20060615210518id_/http%3A//www.sonypictures.com/corp/tos.html).
+PLEASE READ. YOUR USE OF THIS SITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY STATEMENT AND THE WEB SITE [TERMS OF SERVICE](https://web.archive.org/web/20061225150302id_/http%3A//www.sonypictures.com/corp/tos.html).
 
 **_Notice_**
 
