@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheaudioclub.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202639id_/http%3A//www.mikesteup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheaudioclub.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225112010id_/http%3A//www.mikesteup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
