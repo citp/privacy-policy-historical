@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiauncovered.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202528id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiauncovered.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225054604id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -14,7 +14,7 @@ Our postal address is
 3880 Lemon St. Suite 205  
 Riverside, California 92501 USA 
 
-We can be reached via e-mail at [privacy@silvercash.com](mailto:privacy@silvercash.com)
+We can be reached via e-mail at [privacy1@silvercash.com](mailto:privacy1@silvercash.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
 
@@ -64,13 +64,13 @@ There may be occasions when a subscriber will be presented with special offers e
 
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
- _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [privacy@silvercash.com](mailto:privacy@silvercash.com), clearly stating that the subscriber has revoked consent to receive any future offers. _ **Data Controller.**_
+ _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [privacy1@silvercash.com](mailto:privacy1@silvercash.com), clearly stating that the subscriber has revoked consent to receive any future offers. _ **Data Controller.**_
 
-The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [privacy@silvercash.com](mailto:privacy@silvercash.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the site.
+The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [privacy1@silvercash.com](mailto:privacy1@silvercash.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the site.
 
  _ **Review of Personal Information by Subscriber/Means of Challenging Data.**_
 
-A subscriber to this site can review any personal information collected by the site relating to that subscriber by sending an e-mail to the site's DATA CONTROLLER at [privacy@silvercash.com](mailto:privacy@silvercash.com), clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the site.
+A subscriber to this site can review any personal information collected by the site relating to that subscriber by sending an e-mail to the site's DATA CONTROLLER at [privacy1@silvercash.com](mailto:privacy1@silvercash.com), clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the site.
 
 The individual subscriber shall have the following rights with respect to any personal information gathered by the site:
 
