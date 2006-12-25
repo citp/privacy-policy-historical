@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dotnetheaven.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414185545id_/http%3A//www.dotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetheaven.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225015709id_/http%3A//dotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Date: April 14, 2006
+Date: December 24, 2006
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
 
@@ -18,7 +18,7 @@ Information Collection and Use
 
 The information we collect may include your email, name, address, phone number, business name and address. We may also ask you to provide us with information regarding your personal or professional interests, demographics, and education. We use your information to understand you better and improve our services. If you have subscribed to our newsletter, you may receive our newsletter and website updates from time to time. We may also use your information for our marketing research to understand the demographics and other preferences of our users. To protect a great respect for our users and do not share, sell, or rent your personal information to others unless we have your permission or are required by law.
 
-If you ever has concerned about sharing your information, please send us email [**here**](https://web.archive.org/web/20060414185545id_/http%3A//www.dotnetheaven.com/frmContactUs.aspx) or contact us by mail at 1135 Kirk Road , Boothwyn, PA 19061, Attention: Melanie Chand   
+If you ever has concerned about sharing your information, please send us email [**here**](https://web.archive.org/web/20061225015709id_/http%3A//dotnetheaven.com/frmContactUs.aspx) or contact us by mail at 1135 Kirk Road , Boothwyn, PA 19061, Attention: Melanie Chand   
   
 ---  
   
@@ -60,7 +60,7 @@ Contact Information
 
 **
 
-If you have any questions or comments regarding our privacy policy, please send us mail [**here**](https://web.archive.org/web/20060414185545id_/http%3A//www.dotnetheaven.com/frmContactUs.aspx) or 1135 Kirk Road,Boothwyn, PA 19061, Attention: Melanie Chand by mail.   
+If you have any questions or comments regarding our privacy policy, please send us mail [**here**](https://web.archive.org/web/20061225015709id_/http%3A//dotnetheaven.com/frmContactUs.aspx) or 1135 Kirk Road,Boothwyn, PA 19061, Attention: Melanie Chand by mail.   
   
   
 **
