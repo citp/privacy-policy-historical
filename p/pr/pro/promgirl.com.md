@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620035538id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225093915id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
 
 # Policies
 
@@ -11,6 +11,7 @@
 [ **Delivery Times**](http://www.promgirl.com/info/policies#Delivery)  
 [ **Shipping**](http://www.promgirl.com/info/policies#Shipping)  
 [ **Payment Methods**](http://www.promgirl.com/info/policies#Payment)  
+[ **Low Price Policy**](http://www.promgirl.com/info/policies#low-price)  
 [ **Security**](http://www.promgirl.com/info/policies#security)  
 [ **Privacy Policy**](http://www.promgirl.com/info/policies#Privacy)  
 [ **Cookies**](http://www.promgirl.com/info/policies#Cookies)  
@@ -47,7 +48,7 @@ For customers not wishing to place their order online you may email your phone n
 
 **Fax orders**
 
-Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 302-449-1500. We will enter your information and you will receive an email confirmation of your order. 
+Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 302-449-1490. We will enter your information and you will receive an email confirmation of your order. 
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
@@ -89,6 +90,10 @@ c/o Kimberly Broomall
 Middletown, DE 19709 
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
+
+[\- top of page -](http://www.promgirl.com/info/policies#top)
+
+**Low Price Policy**
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
