@@ -1,27 +1,34 @@
-<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2006-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060626085834id_/http%3A//foxybingo.com/site/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2006-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061225170555id_/http%3A//foxybingo.com/site/privacypolicy.php) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Foxybingo - Play multi-player multi-currency online bingo with Foxybingo</title>
-	<meta name="KeyWords" content="Foxybingo, bingo, online bingo, free bingo, bingo game, free online bingo, free bingo game, uk bingo, play bingo, jackpot bingo, bingo card, internet bingo, uk online bingo, online bingo game, bingo site, play bingo online">
-	<meta name="description" content="Foxybingo - Play bingo, chat online, big bingo jackpots and fun games.">
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-	<link rel="stylesheet" href="css/stylesheet.css">
-	
-</head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#DF76D4" onload="onLoad();"><form name="CashierForm" method="POST" action="https://secure.bnet3.net/BingoCashier/start.php" target="cashier">
-	<input name="skinID" type="hidden" value="01">
-	<input name="skinName" type="hidden" value="Foxybingo">
-	<input name="skinURL" type="hidden" value="http://www.foxybingo.com">
-	<input name="playerID" type="hidden" value="0">
-	<input name="playerCurrency" type="hidden" value="GBP">
-	<input name="playerSessionID" type="hidden" value="">
-	<input name="live" type="hidden" value="true">	
-	<input name="supportEmail" type="hidden" value="cashcadebingo@playersupport.org">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Foxy Bingo - Play Online Bingo Chat and Win</title>
+<base href="http://www.foxybingo.com/site/">
+<meta name="KeyWords" content="Foxybingo, bingo, online bingo, free bingo, bingo game, free online bingo, free bingo game, uk bingo, play bingo, jackpot bingo, bingo card, internet bingo, uk online bingo, online bingo game, bingo site, play bingo online">
+<meta name="description" content="Foxybingo - Play bingo, chat online, big bingo jackpots and fun games.">
+<link rel="stylesheet" type="text/css" href="css/fb2stylesheet.css" title="Standard">
+<!--START NEW AQUAPAYCASHIER-->
+</head><body><form name="CashierForm" method="POST" action="https://secure2.aquapay.com/AquapayCashier/" target="AquaPayCashier">
+	<input type="hidden" name="oid" value="2">
+	<input type="hidden" name="kid" value="100">
+	<input type="hidden" name="cid" value="0">
+	<input type="hidden" name="sid" value="">
+	<input type="hidden" name="test" value="0">
+	<input type="hidden" name="version" value="1">
 </form>
+<!--END NEW AQUAPAYCASHIER-->
+
 
 <script src="embed.js"></script>
 <script>
+
+
+function sideBetPopup(url)
+	{
+	wn = window.open(url,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=500,height=350');	  	
+	
+	}
 
 
 function doRegister() {
@@ -126,10 +133,9 @@ function omOut(obj)
 <!--//	GAME LOGIN																																																   -->
 	function login(u,s,a,c) {
 
-		document.CashierForm.playerSessionID.value = s;
-		document.CashierForm.playerID.value = u;
-		document.CashierForm.playerCurrency.value = c;
-
+		document.CashierForm.sid.value = s;
+		document.CashierForm.cid.value = u;
+  
 		var p = window.opener;
 		var w = (p.topForm) ? p.topForm : p.mainForm;
 		if(!w) return;
@@ -188,21 +194,20 @@ function pop(url) {
   wb.focus();
 }
 
-<!--//	SHOW THE BALANCE WINDOW																																															   -->
 function goCashierForm() {
-	if(!(document.all.playerID.value>0))
+	if(!(document.CashierForm.cid.value>0))
 		{
 		alert("Please log in, or register an account with us first.")
 		return;		
 		}
-		
 	if (navigator.appName.indexOf("Microsoft") != -1) {
-	  wb = window.open("", "cashier", "height=535,width=700,top=100,left=100");
+	  wb = window.open("", "AquaPayCashier", "height=536,width=700,top=100,left=100");
 	} else {
-	  wb = window.open("", "cashier", "height=535,width=700,screenY=100,screenX=100");
+	  wb = window.open("", "AquaPayCashier", "height=536,width=700,screenY=100,screenX=100");
 	}
 	document.CashierForm.submit();
 }
+
 
 
 <!--// SET WINNERS   -->
@@ -286,7 +291,10 @@ var playWin=null;
 <!--//				PLAY THE GAME																																																											   -->
 function play(iRoom,loc) {
 	var bGameOpen = false;
-
+	
+	if(navigator.appName.indexOf("Microsoft") == -1 && document.getElementsByTagName("base").length > 0){
+		loc = document.getElementsByTagName("base")[0].href + "game/play.php";
+	}
 	if(!loc) loc="game/play.php";
 	if(!iRoom) iRoom="";
 	loc += "?room=" + iRoom;
@@ -296,7 +304,7 @@ function play(iRoom,loc) {
 	try
 		{
 		var oTest = playWin.document;
-		bGameOpen = true;
+		if (oTest != null)	bGameOpen = true;
 		}
 	catch(ee)
 		{
@@ -381,25 +389,22 @@ function loadMovie(filename,width,height) {
 
 <!--//			PLAY A INSTANT GAME FROM THE MENU   -->
 
-		function BI(gu,gs,g)
+		function BI(gu,gs,g,win)
 		{
-		var u = document.CashierForm.playerID.value;
-		var s = document.CashierForm.playerSessionID.value;
+
+		var u = document.CashierForm.cid.value;
+		var s = document.CashierForm.sid.value;
+window.status = 'u=' + u + ' s=' + s;
+		// new foxy
+		if (gu != null && g == null) {g = gu;gu=null;};
+		
+
 		if (gu == null) gu = u;
+	
 		if (gs == null) gs = s;
 
 
-
 		// if not logged in goto login form
-		if(u=="" || s=="" || (u!=gu) || (s!=gs)) {			
-						
-			if(document.location.pathname.substring(document.location.pathname.toString().length-9) == "/main.php" || document.location.pathname.substring(document.location.pathname.toString().length-1) == "/")	
-				document.location.href="site/members.php?ig=" + g;
-			else
-				document.location.href="members.php?ig=" + g;					
-			return;
-		}
-
 		if (g < 40)
 			{
 
@@ -435,6 +440,21 @@ function loadMovie(filename,width,height) {
 			} else if (g==10) {//pirate gold multi
 			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/piratesgold_bonus_reel.html";
 			  biWH = "width=620,height=455,top="+sh+",left=0";
+			} else if (g==11) {//hollywood stars
+			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/hollywood_stars.html";
+			  biWH = "width=620,height=455,top="+sh+",left=0";
+			} else if (g==12) {//hilo shuffle
+			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/hilo_shuffle.html";
+			  biWH = "width=620,height=455,top="+sh+",left=0";
+			} else if (g==13) {//monkey paradise
+			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/monkeyparadise.html";
+			  biWH = "width=620,height=455,top="+sh+",left=0";
+			} else if (g==14) {//old macdonald
+			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/oldmacdonald.html";
+			  biWH = "width=620,height=455,top="+sh+",left=0";
+			} else if (g==15) {//bee happy
+			  biGame = "http://instantgames.thejoyofbingo.com/cgi-bin/pmib.fcg?act=foxystart&uid="+u+"&guid="+s+"&dest=/spg/flash/beehappy.html";
+			  biWH = "width=620,height=455,top="+sh+",left=0";
 			}
 		} else {
 			sh = screen.height-600;
@@ -442,8 +462,28 @@ function loadMovie(filename,width,height) {
 		  biWH = "width=600,height=520,top="+sh+",left=0";
 		}
 
-	  wn = window.open(biGame,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,'+biWH);
-	  //wn.focus();
+
+		if(u=="" || s=="" || (u!=gu) || (s!=gs)) {			
+												
+			if(document.location.pathname.substring(document.location.pathname.toString().length-9) == "/main.php" || document.location.pathname.substring(document.location.pathname.toString().length-1) == "/")	
+				var loc="site/pop_bilogin.php?ig=" + g;
+			else
+				var loc="pop_bilogin.php?ig=" + g;					
+								
+			wn = window.open(loc,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,'+biWH);	
+			return;
+		}
+
+		// if we have fcome from the I Game login window then just navigate self.
+		if(win)
+			{
+			document.location.href = biGame;			
+			var url='http://www.foxybingo.com';
+			var o=window.opener;
+			if(o) o.document.location.href = url + "/site/members.php";	
+			}
+		else
+			wn = window.open(biGame,'igw','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,'+biWH);	  
 	}
 
 
@@ -506,69 +546,88 @@ function getCookie(name)
 	return "";
 	}
 
-</script>	<script src="../data/YesterdayStats.js" language="JavaScript"></script>
+</script>
 
 
-<!-- HTML TOP                                                                           -->	
+<table cellpadding="0" cellspacing="0" style="margin:0px auto 0px auto"><tbody><tr><td>
+<a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/FoxyHomepage-New-bar_03.gif"></a>
+<table id="tblfoxy" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><a href="http://www.foxybingo.com"><img src="fb2images/fb2_logo.gif" alt="Play Foxy and Win!" border="0"></a></td>
+		<td style="background-color:#FE8004">
+			<img src="fb2images/fb2_login.gif"><br>
+			<form name="topForm" action="members.php" method="POST">
+			<input name="form_action" id="form_action" type="hidden" value="LOGIN">				
+			<input name="u" type="hidden" value="">
+			<input name="s" type="hidden" value="">
+			<input name="a" type="hidden" value="">
+			<input name="c" type="hidden" value="">
+						<div class="loginbox"> 
+				<table cellpadding="0" cellspacing="0">
+					<tbody><tr><td>Username</td><td><input type="text" name="Alias" class="loginform" size="8" tabindex="1" value="">	</td><td rowspan="2"><input type="image" src="fb2images/fb2_btn_go.gif" name="Login" value="Login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','fb2images/fb2_btn_go_over',1)" style="margin-left:5px"></td></tr>
+					<tr><td>Password</td><td><input type="password" name="Password" class="loginform" size="8" id="Password" tabindex="2"><br> <span id="forgotten"><a href="forgot.php">Forgotten login</a></span></td></tr>
+				</tbody></table>
+			</div>
+														
+			</form>		</td>
+		<td><a href="javascript: play(null,'http://www.foxybingo.com/site/game/play.php');"><img src="fb2images/fb2_playnow.gif" border="0"></a></td>
+		<td>
+		  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="185" height="107">
+            <param name="movie" value="flash/Site_TC_ball.swf">
+            <param name="quality" value="high">
+            <embed src="flash/Site_TC_ball.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="185" height="107">
+        </object></td>
+	    <td><img src="fb2images/fb2_rightcurvedheader.gif"></td>
+	</tr>
+	<tr>
+		<td><img src="fb2images/fb2_maintl.gif"></td>
+		<td colspan="4" bgcolor="#9232cf">
+			<table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="fb2images/fb2_navleft.gif"></td>
+			<td id="nav" background="fb2images/fb2_navsliver.gif"><a href="http://www.foxybingo.com">Home</a> | <a href="https://www.foxybingo.com/site/register.php">Join Now</a> | <a href="games.php">Bingo Games</a> | <a href="chatgames.php">Coverall Jackpots</a> | <a href="funhouse/index.php">Funhouse </a>| <a href="promotions.php">Promotions</a> | <a href="help.php">Help</a> </td>
+			<td><img src="fb2images/fb2_maintr.gif"></td></tr></tbody></table>
+		<!--<div style="width:536px; height:9px; background-color:#9232cf"></div>	<img src="fb2images/mainspacer.gif" />-->	</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" id="main"><!--style="border:#333333 1px solid"-->
+	<tbody><tr>
+		<td style="padding-left:17px;width:190px"><div id="content_topleft" class="orangecontentarea">
+<table cellpadding="0" cellspacing="0">
+				<tbody><tr><td><img src="fb2images/fb2_hdg_winners.gif" id="hdg_winners"></td><td rowspan="2"><div>“I've scooped £1,000 on Foxy Bingo just in time for Christmas.”<br><a href="funhouse/winners.php">Read More »</a></div></td></tr>
+				<tr><td><img src="fb2images/fb2_player.jpg"></td></tr>
+			</tbody></table>
+</div><img src="fb2images/fb2_contentbottom.gif"><br><br>
 
+<img src="fb2images/fb2_content_top.gif"><div id="content_left" class="orangecontentarea">
+		<table>
+			<tbody><tr><td><img src="fb2images/fb2_hdg_promo.gif" id="hdg_promo"></td><td><img src="fb2images/fb2_hollyleaf.gif" style="margin:0px 0px 0px 4px"></td></tr>
+			<tr><td colspan="2"><map name="advent"><area shape="rect" coords="1,120,151,222" href="advent.php"></map><a href="promotions.php"><img src="fb2images/FB_promo_main_dec.jpg" alt="Visit Santa in Lapland" border="0" style="margin-left:7px; margin-bottom:21px" usemap="advent"></a></td>
+			</tr>
+			<tr><td colspan="2" align="center"><a href="promotions.php"><img src="fb2images/fb2_morepromo.gif"></a></td>
+			</tr>
+		</tbody></table>
+		
+		</div>
+<img src="fb2images/fb2_contentbottom.gif">
+</td> <!--end of left col -->	
 
-
-
-<!-- CONTENT GOES HERE                                                                           -->	
-
-
-
-<div align="center">
-	<a name="top"></a>
-	<table width="760" cellspacing="0" cellpadding="0" border="0" id="bodybgr">
-		<tbody><tr>
-			<td valign="top"><table width="201" cellspacing="0" cellpadding="0" border="0" id="Table1">
-					<tbody><tr>
-						<td><img src="images/fb_logo.gif" width="201" height="128" alt="" border="0"></td>
-					</tr>
-					<tr>
-						<td align="right"><a href="meetcms.php"><img src="images/fb_lookstalking.gif" width="190" height="198" alt="" border="0"></a></td>
-					</tr>
-					<tr>
-						<td align="right"><a href="javascript:goCashierForm();"><img src="images/fb_depositanim.gif" width="190" height="156" alt="" border="0"></a></td>
-					</tr>
-					<tr>
-						<td align="right"><a href="refer.php"><img src="images/fb_referafriend.gif" width="190" height="96" alt="" border="0"></a></td>
-					</tr>
-				</tbody></table></td>
-			<td valign="top" style="width:600px"><table border="0" cellpadding="0" cellspacing="0" width="547" id="Table1">					<tbody><tr>																	<td valign="top" bgcolor="#fe8004" width="209"><img src="images/account_login_header_nav.gif" width="209" height="37" alt="" border="0"></td>																														<td valign="top" rowspan="2" width="136"><a href="javascript: play(null,'game/play.php');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('playnow_button_nav','','images/playnow_button_nav_over.gif',1)"><img src="images/playnow_button_nav.gif" width="136" height="107" alt="" border="0" name="playnow_button_nav"></a></td>						<td valign="top" width="185" style="background-color:#fe8004;"><img src="images/yesterday_winners_header.gif"><span class="specialJS" id="spanTopWinner" style="background-color:#fe8004;">Cindery £250</span></td>						<td valign="top" rowspan="4" width="17"><img src="images/rightside.gif"></td>					</tr>												<tr>						<td valign="top" width="209" bgcolor="#fe8004">													<table width="209" cellspacing="0" cellpadding="0" border="0" bgcolor="#fe8004">
-																
-							<form name="topForm" action="members.php" method="POST"></form>
-								<input name="form_action" id="form_action" type="hidden" value="GAMELOGIN">				
-								<input name="u" type="hidden" value="">
-								<input name="s" type="hidden" value="">
-								<input name="a" type="hidden" value="">
-								<input name="c" type="hidden" value="">
-
-																				
-						
-								<tbody><tr>
-									<td class="loginbox" width="155" height="70" align="right" valign="top"><br>Username <input type="text" name="Alias" class="loginform" size="8" tabindex="1" value=""><img src="images/spacer.gif" width="5" height="1" alt="" border="0"><br>Password <input type="password" name="Password" class="loginform" size="8" id="Password" tabindex="2"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"><br><span id="forgotten"><a href="forgot.php">Forgotten login</a></span><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
-									<td width="54"><input type="image" src="images/go_button_nav.gif" name="Login" value="Login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','images/go_button_over_nav.gif',1)"></td>
-								</tr>
-																	
-									
-
-							</tbody></table>
-																		</td>						<td valign="top" width="185" style="background-color:#fe8004;"><img src="images/yesterday_winnings_header.gif"><span class="specialJS" id="spanTotalWinnings" style="background-color:#fe8004;">£46,385</span></td>					</tr>				
-																										
-<tr>
-						<td valign="top" colspan="4" width="530" style="overflow:hidden;white-space:NOWRAP;"><img src="images/bottom_left_nav.gif"><a href="http://www.foxybingo.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home_nav','','images/home_nav_over.gif',1)"><img src="images/home_nav.gif" alt="" border="0" name="home_nav"></a><img src="images/divider_nav.gif"><a href="/site/register.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('join_now_nav','','images/join_now_over_nav.gif',1)"><img src="images/join_now_nav.gif" alt="" border="0" name="join_now_nav"></a><img src="images/divider_nav.gif"><a href="/site/games.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bingo_games_nav','','images/bingo_games_over_nav.gif',1)"><img src="images/bingo_games_nav.gif" alt="" border="0" name="bingo_games_nav"></a><img src="images/divider_nav.gif"><a href="/site/games.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('coverall_jackpots_nav','','images/coverall_jackpots_over_nav.gif',1)"><img src="images/coverall_jackpots_nav.gif" alt="" border="0" name="coverall_jackpots_nav"></a><img src="images/divider_nav.gif"><a href="/site/funhouse/index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bingo_club_nav','','images/funhouse_link_over.gif',1)"><img src="images/funhouse_link.gif" alt="" border="0" name="bingo_club_nav"></a><img src="images/divider_nav.gif"><a href="/site/promotions.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('promotions_nav','','images/promotions_over_nav.gif',1)"><img src="images/promotions_nav.gif" alt="" border="0" name="promotions_nav"></a><img src="images/divider_nav.gif"><a href="/site/help.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('help_nav','','images/help_over_nav.gif',1)"><img src="images/help_nav.gif" alt="" border="0" name="help_nav" width="50" height="27"></a></td>
-					</tr>	
-							
-							
-																		<tr>						<td valign="top" colspan="3" width="530"><img src="images/bottom_line_nav.gif"></td>					</tr>									</tbody></table>					
-			
-								<div style="width:530px;padding:10px 30px 30px 30px;height:400px;">
+					<td>
+													
 					<form name="mainForm" action="/site/privacypolicy.php" method="POST" id="mainForm">
 					<input name="form_action" id="form_action" type="hidden" value="LOGIN">
+			<table width="520" cellspacing="0" cellpadding="0" border="0" bgcolor="#9232CF" id="Table1">	
 	
-	<h1 class="big">PRIVACY POLICY</h1>		
+<tbody><tr><td width="10"></td><td width="502"></td><td width="8"></td></tr>
+	
+<tr>
+<td width="520" colspan="3"><img src="http://www.foxybingo.com/site/images/textarea_top.gif"></td>
+</tr>
+
+
+
+<tr>
+<td width="10" bgcolor="#DE75D6"></td>
+<td width="502" bgcolor="#DE75D6" valign="top">
+<div id="pinkcontent">	<h1 class="big">PRIVACY POLICY</h1>		
 	<table cellspacing="5" cellpadding="5" width="100%" border="0" align="center">
 	
 		<tbody><tr>
@@ -655,47 +714,48 @@ The Service is not intended for or directed to persons under the age of 18. Any 
 		
 	</tbody></table>
 	<br><br>
-	<a href="#top" class="back2top">back to top&gt;&gt;</a>
+	<a href="#top" class="back2top">back to top »</a>
 	<hr>
-	<br><br>
+	<br></div>
+</td>
 
-	</form>
-</div>				
-			</td>
-		</tr>
-	</tbody></table>
-	
-	<table width="760" cellspacing="0" cellpadding="0" border="0" id="Table4">
-		<tbody><tr>
-			<td align="right" width="226"><a href="javascript: play(null,'game/play.php');"><img src="images/fb_instant_win01r1.gif" width="215" height="85" alt="" border="0"></a></td>
-			<td align="left"><a href="javascript: play(null,'game/play.php');"><img src="images/fb_instant2.gif" width="522" height="85" alt="" border="0"></a></td>
-		</tr>
-	</tbody></table>
-	<table width="760" cellspacing="0" cellpadding="0" border="0" id="Table5">
-		<tbody><tr>
-			<td class="footnav" height="30"><a href="http://www.foxybingo.com/site/loyalty.php">Loyalty Program</a>	| <a href="http://www.foxybingo.com/site/faq.php">FAQs</a> | <a href="http://www.foxybingo.com/site/contact.php">Support</a></td>
-			<td class="footnav" height="30" align="right">
-						<a href="http://www.foxybingo.com/site/aboutus.php">About Us</a> | <a href="http://www.foxybingo.com/site/terms.php">Terms 
-							&amp; Conditions</a> | <a href="http://www.foxybingo.com/site/privacypolicy.php">Privacy Policy</a> | <a href="http://affiliate.foxybingo.com/">Affiliates</a>
-		  </td>
-			<td width="30">
-			</td>
-		</tr>
-	</tbody></table>
-	<table width="760" cellspacing="0" cellpadding="0" border="0" id="Table6">
-		<tbody><tr>
-			<td align="left" valign="middle"><img src="images/spacer.gif" width="20" height="1" alt="" border="0"><img src="images/fb_money_logos.gif" alt="" border="0"></td>
-			<td align="right" valign="middle"><a href="http://www.kahnawake.com/gamingcommission/" target="_blank"><img src="images/fb_kahnawake.gif" alt="" border="0"></a><img src="images/fb_Cashcade.gif" alt="" border="0"><img src="images/fb_thawte.gif" alt="" border="0"><img src="images/spacer.gif" width="20" height="1" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
-	<table width="760" cellspacing="0" cellpadding="0" border="0" id="Table7">
-		<tbody><tr>
-			<td height="40" align="center" valign="top" class="copyright">Copyright © 
-				Foxy Bingo . All rights reserved.</td>
-		</tr>
-	</tbody></table>
-</div>
+<td width="8" bgcolor="#391494"></td>
+</tr>
 
+
+<tr>
+<td width="520" colspan="4"><img src="http://www.foxybingo.com/site/images/textarea_bottom.gif"></td>
+</tr>
+
+</tbody></table>
+</form>
+</td>
+</tr> 
+</tbody></table>
+<table id="tbl_edges" cellpadding="0" cellspacing="0"><tbody><tr><td align="left"><a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/foxy_footerMock_03.jpg"></a></td></tr></tbody></table>
+
+<table id="tbl_footerlinks"><tbody><tr><td align="left"><a href="loyalty.php">Loyalty Progam</a> | <a href="faq.php">FAQs</a> | <a href="contact.php">Support</a></td>
+<td align="right"><a href="aboutus.php">About Us</a> | <a href="terms.php">Terms &amp; Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a> | <a href="http://affiliate.foxybingo.com">Affiliates</a> | <a href="links.php">Links</a></td>
+</tr></tbody></table>
+
+<div class="rbroundbox">
+	<div class="rbtop"><div></div></div>
+		<div class="rbcontent" align="left">
+			<img src="fb2images/fb2_cards.gif" id="cards">
+			<img src="fb2images/fb2_kahnawake.gif" id="kahnawake">
+			<a href="http://www.cashcade.co.uk" target="_blank"><img src="fb2images/fb2_cashcade.gif" name="cashcade" border="0" id="cashcade"></a>
+			<a href="javascript:window.open('https://secure.liquidpayments.com/gmtest3/spg/general/images/cert.html','sb','toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=0,width=490,height=400'); void(0);"><img src="fb2images/fb2_thawte.gif" name="thawte" border="0" id="thawte"></a> </div>
+		<!-- /rbcontent -->
+	<div class="rbbot"><div></div></div>
+</div><!-- /rbroundbox -->
+</td></tr></tbody></table>
+<!-- Burst Tag Starts -->
+<img src="http://www.burstnet.com/enlightn/356//9279/" width="0" height="0" border="0">
+<!-- Burst Tag Ends -->
+<!-- Boxtonic Action Tag Starts -->
+<img width="1" height="1" src="http://media.ccsaint.net/displayimage/00001270/85/0/375" border="0">
+<img height="1" width="1" src="http://switch.atdmt.com/action/mbpfp_foxybingo_home">
+<!-- Boxtonic Action Tag Ends -->
 
 
 </body></html>
