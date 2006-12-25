@@ -1,1489 +1,579 @@
-<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614020716id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2006-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061225184357id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
 
-<html xmlns:uc="" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="content-language" content="en">
 <meta name="robots" content="index,follow">
-<meta name="keywords" content="Certification, MCSE, Practice Test, Mock Test, Study Guide, Online Test, Free exam resource, Exam simulation,articles, tutorial">
-<meta name="description" content="We are committed to protecting your privacy. We assure you that the personal information you provide to uCertify over the internet is treated with utmost care to ensure your privacy.">
 <meta name="rating" content="general">
-<meta name="author" content="uCertify.com a MCSE MCSD Certification site">
+<meta name="author" content="uCertify.com a IT certification exam Practice test">
 <meta name="copyright" content="Copyright © 2001-2003">
-<meta name="generator" content="Microsoft FrontPage 4.0">
+<meta name="verify-v1" content="T5WOEExZGEe6UvXBVQ7LgsJ+mzh47ObZ4Yd+k1wr3YY=">
+
+<meta name="keywords" content="Certification, MCSE, Practice Test, Mock Test, Study Guide, Online Test, Free exam resource, Exam simulation, articles, tutorial">
+<meta name="description" content="We are committed to protecting your privacy. We assure you that the personal information you provide to uCertify over the internet is treated with utmost care to ensure your privacy.">
 <title>uCertify - Privacy Policy</title>
-<link rel="STYLESHEET" type="text/css" href="http://www.ucertify.com/include/prepengine.css">
-<link href="http://www.ucertify.com/favicon.ico" rel="SHORTCUT ICON">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.ucertify.com/xoops.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.ucertify.com/themes/roundbox/styleNN.css">
-<script type="text/javascript" src="http://www.ucertify.com/include/functions.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.ucertify.com/xoops.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.ucertify.com/themes/default/styleNN.css">
+<script type="text/javascript" src="http://www.ucertify.com/common/roundcorner.js"></script>
 <script type="text/javascript" src="http://www.ucertify.com/include/ucertify.js"></script>
+<script type="text/javascript" src="http://www.ucertify.com/include/functions.js"></script>
 <script type="text/javascript" src="http://www.ucertify.com/include/majax.js"></script>
+<script type="text/javascript" src="http://www.ucertify.com/common/ajax-js/ajax.js"></script>
+<script type="text/javascript" src="http://www.ucertify.com/common/ajax-js/ajax-commonfunctions.js"></script>
 
-
-<script type="text/javascript" src="http://www.ucertify.com/include/globalfunctions.js"></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-86319-1";
-urchinTracker();
-</script>
 <!-- RMV: added module header -->
-</head>
-<body>
+
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<script type="text/javascript" src="http://www.ucertify.com/include/xoops.js">
+</script>
+
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	_uacct = "UA-86319-1";
+	try
+	{
+		urchinTracker();
+	}
+	catch(e)
+	{
+	}
+	</script>
 
 <script type="text/javascript">
 <!--
-//--></script><script type="text/javascript" src="http://www.ucertify.com/include/xoops.js"></script><script type="text/javascript"><!--
+
 //-->
+
+	function menushow(obj)
+	{
+		obj.className+=" over";
+	}
+	function menuhide(obj)
+	{
+		obj.className=obj.className.replace(" over", "");
+	}
+
+	function setMenu(navRoot)
+	{
+		var i;
+		var node;
+		for (i=0; i<navRoot.childNodes.length; i++)
+		{
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI")
+			{
+				node.onmouseover= function()
+				{
+					this.className+=" over";
+				}
+				node.onmouseout= function()
+				{
+					this.className=this.className.replace(" over", "");
+				}
+			}
+			if(node.childNodes.length >=3)
+			{
+				setMenu(node.childNodes[2]);
+			}
+		 }
+	}
+
+
+	startList = function() {
+			if (document.all&&document.getElementById)
+			{
+			 	navRoot= document.getElementById("globalnav");
+				setMenu(navRoot);
+			}
+	if(!NiftyCheck())
+	return;
+		RoundedBottom("div#page","#F0EADD","#9A977C");
+	}
+	window.onload=startList;
 </script>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td>
-			<table id="headerTopMenuBar" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td class="glr" width="70%"><div class="pagedesc">We are committed to protecting your privacy. We assure you that the personal information you provide to uCertify over the internet is treated with utmost care to ensure your privacy.</div></td>
-		  	 	<td width="30%" id="globalTopMenu">
-		  	 	    <table border="0" cellpadding="0" cellspacing="0">
-					<!-- Pete : Top Most Menu Start -->
-		        		<tbody>
-					        <tr>
-					          <td class="gt0" onmouseout="mhHover('globalTopMenu', 0, 'gt0')" onmouseover="mhHover('globalTopMenu', 0, 'gt1')"><a href="http://www.ucertify.com">Home</a>
-						      </td>
-							  <td class="gtsep">|</td>
-					          <td class="gt0" onmouseout="mhHover('globalTopMenu', 2, 'gt0')" onmouseover="mhHover('globalTopMenu', 2, 'gt1')"><a href="http://www.ucertify.com/faq/faq.html">FAQs</a>
-						      </td>
-							  <td class="gtsep">|</td>
-					          <td class="gt0" onmouseout="mhHover('globalTopMenu', 4, 'gt0')" onmouseover="mhHover('globalTopMenu', 4, 'gt1')"><a href="http://www.ucertify.com/about/howdoi.html"><nobr>How Do I?</nobr></a>
-						      </td>
-					          <td class="gtsep">|</td>
-		          			  <td class="gt0" onmouseout="mhHover('globalTopMenu', 6, 'gt0')" onmouseover="mhHover('globalTopMenu', 6, 'gt1')"><a href="http://www.ucertify.com/forms/support.html">Support</a>
-		            		  </td>
-					          <td class="gtsep">|</td>
-		          			  <td class="gt0" onmouseout="mhHover('globalTopMenu', 8, 'gt0')" onmouseover="mhHover('globalTopMenu', 8, 'gt1')"><a href="http://www.ucertify.com/about/sitemap.html">Site Map</a>
-		            		  </td>
-		            	    </tr>
-		            	</tbody>
-					<!-- Pete : Top Most Menu End -->
-		            </table>
-		  	 	</td>
-		 	</tr>
-		</tbody></table>
-		<table id="header" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td width="12%">
-					<a href="http://www.ucertify.com"><img alt="*" src="http://www.ucertify.com/themes/roundbox/images/logo.gif" title="" width="225" border="0" height="42">
-					</a>
-				</td>
-		  	 	<td id="headerbanner" width="70%">&nbsp;&nbsp;</td>
-		  	 	<td width="20%" nowrap="" align="left" class="welcome"><div class="searchbox">Search uCertify.com For:<br><form action="http://www.ucertify.com/search.php" method="get">
-		<input type="text" name="q" size="38" value="">&nbsp;<input type="submit" value="GO"></form></div>
-  	 			</td>
- 			</tr>
-		</tbody></table>
-		<table id="topMenuBar" cellpadding="0" cellspacing="0" height="19" width="100%" align="center">
-		<tbody>
-			<tr>
-			  	<td width="15%"><select name="examlist" onchange="changeurl(this.value);">
-				        	<option>-- I am Looking for --</option>
-				        	<option value="http://www.ucertify.com/vendors/CIW.html">CIW</option><option value="http://www.ucertify.com/certifications/CIW/CIW.html">--CIW</option><option value="http://www.ucertify.com/certifications/CIW/CIWA.html">--CIWA</option><option value="http://www.ucertify.com/certifications/CIW/CIWCI.html">--CIWCI</option><option value="http://www.ucertify.com/certifications/CIW/CIWPRO.html">--CIWPRO</option><option value="http://www.ucertify.com/certifications/CIW/MCIWADMIN.html">--MCIWADMIN</option><option value="http://www.ucertify.com/certifications/CIW/MCIWDSGNR.html">--MCIWDSGNR</option><option value="http://www.ucertify.com/certifications/CIW/MCIWED.html">--MCIWED</option><option value="http://www.ucertify.com/certifications/CIW/MCIWWSMGR.html">--MCIWWSMGR</option><option value="http://www.ucertify.com/exams/CIW/1D0-410.html">--1D0-410</option><option value="http://www.ucertify.com/exams/CIW/1D0-420.html">--1D0-420</option><option value="http://www.ucertify.com/exams/CIW/1D0-425.html">--1D0-425</option><option value="http://www.ucertify.com/exams/CIW/1D0-450.html">--1D0-450</option><option value="http://www.ucertify.com/exams/CIW/1D0-470.html">--1D0-470</option><option value="http://www.ucertify.com/exams/CIW/1D0-510.html">--1D0-510</option><option value="http://www.ucertify.com/exams/CIW/1D0-520.html">--1D0-520</option><option value="http://www.ucertify.com/vendors/CompTIA.html">CompTIA</option><option value="http://www.ucertify.com/certifications/CompTIA/A+2003.html">--A+2003</option><option value="http://www.ucertify.com/certifications/CompTIA/I-Net+.html">--I-Net+</option><option value="http://www.ucertify.com/certifications/CompTIA/Linux+.html">--Linux+</option><option value="http://www.ucertify.com/certifications/CompTIA/Linux+2004.html">--Linux+2004</option><option value="http://www.ucertify.com/certifications/CompTIA/Network+.html">--Network+</option><option value="http://www.ucertify.com/certifications/CompTIA/Network+2005.html">--Network+2005</option><option value="http://www.ucertify.com/certifications/CompTIA/Security+.html">--Security+</option><option value="http://www.ucertify.com/certifications/CompTIA/Server+.html">--Server+</option><option value="http://www.ucertify.com/exams/CompTIA/220-301.html">--220-301</option><option value="http://www.ucertify.com/exams/CompTIA/220-302.html">--220-302</option><option value="http://www.ucertify.com/exams/CompTIA/IK0-002.html">--IK0-002</option><option value="http://www.ucertify.com/exams/CompTIA/N10-002.html">--N10-002</option><option value="http://www.ucertify.com/exams/CompTIA/N10-003.html">--N10-003</option><option value="http://www.ucertify.com/exams/CompTIA/SK0-001.html">--SK0-001</option><option value="http://www.ucertify.com/exams/CompTIA/SY0-101.html">--SY0-101</option><option value="http://www.ucertify.com/exams/CompTIA/XK0-001.html">--XK0-001</option><option value="http://www.ucertify.com/exams/CompTIA/XK0-002.html">--XK0-002</option><option value="http://www.ucertify.com/vendors/Microsoft.html">Microsoft</option><option value="http://www.ucertify.com/certifications/Microsoft/MCAD.html">--MCAD</option><option value="http://www.ucertify.com/certifications/Microsoft/MCDBA.html">--MCDBA</option><option value="http://www.ucertify.com/certifications/Microsoft/MCDST.html">--MCDST</option><option value="http://www.ucertify.com/certifications/Microsoft/MCP.html">--MCP</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSA.html">--MCSA</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSA-2003.html">--MCSA-2003</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSA-SEC.html">--MCSA-SEC</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSD.html">--MCSD</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSD.NET.html">--MCSD.NET</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSE.html">--MCSE</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSE-2003.html">--MCSE-2003</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSE-MSG.html">--MCSE-MSG</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSE-SEC.html">--MCSE-SEC</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSE2003MSG.html">--MCSE2003MSG</option><option value="http://www.ucertify.com/certifications/Microsoft/MCSE2003SEC.html">--MCSE2003SEC</option><option value="http://www.ucertify.com/exams/Microsoft/70-210.html">--70-210</option><option value="http://www.ucertify.com/exams/Microsoft/70-214.html">--70-214</option><option value="http://www.ucertify.com/exams/Microsoft/70-215.html">--70-215</option><option value="http://www.ucertify.com/exams/Microsoft/70-216.html">--70-216</option><option value="http://www.ucertify.com/exams/Microsoft/70-217.html">--70-217</option><option value="http://www.ucertify.com/exams/Microsoft/70-218.html">--70-218</option><option value="http://www.ucertify.com/exams/Microsoft/70-219.html">--70-219</option><option value="http://www.ucertify.com/exams/Microsoft/70-220.html">--70-220</option><option value="http://www.ucertify.com/exams/Microsoft/70-221.html">--70-221</option><option value="http://www.ucertify.com/exams/Microsoft/70-223.html">--70-223</option><option value="http://www.ucertify.com/exams/Microsoft/70-224.html">--70-224</option><option value="http://www.ucertify.com/exams/Microsoft/70-225.html">--70-225</option><option value="http://www.ucertify.com/exams/Microsoft/70-227.html">--70-227</option><option value="http://www.ucertify.com/exams/Microsoft/70-228.html">--70-228</option><option value="http://www.ucertify.com/exams/Microsoft/70-229.html">--70-229</option><option value="http://www.ucertify.com/exams/Microsoft/70-270.html">--70-270</option><option value="http://www.ucertify.com/exams/Microsoft/70-271.html">--70-271</option><option value="http://www.ucertify.com/exams/Microsoft/70-272.html">--70-272</option><option value="http://www.ucertify.com/exams/Microsoft/70-284.html">--70-284</option><option value="http://www.ucertify.com/exams/Microsoft/70-290.html">--70-290</option><option value="http://www.ucertify.com/exams/Microsoft/70-291.html">--70-291</option><option value="http://www.ucertify.com/exams/Microsoft/70-292.html">--70-292</option><option value="http://www.ucertify.com/exams/Microsoft/70-293.html">--70-293</option><option value="http://www.ucertify.com/exams/Microsoft/70-294.html">--70-294</option><option value="http://www.ucertify.com/exams/Microsoft/70-296.html">--70-296</option><option value="http://www.ucertify.com/exams/Microsoft/70-298.html">--70-298</option><option value="http://www.ucertify.com/exams/Microsoft/70-299.html">--70-299</option><option value="http://www.ucertify.com/exams/Microsoft/70-305.html">--70-305</option><option value="http://www.ucertify.com/exams/Microsoft/70-306.html">--70-306</option><option value="http://www.ucertify.com/exams/Microsoft/70-310.html">--70-310</option><option value="http://www.ucertify.com/exams/Microsoft/70-315.html">--70-315</option><option value="http://www.ucertify.com/exams/Microsoft/70-316.html">--70-316</option><option value="http://www.ucertify.com/exams/Microsoft/70-320.html">--70-320</option><option value="http://www.ucertify.com/vendors/Oracle.html">Oracle</option><option value="http://www.ucertify.com/certifications/Oracle/OCA.html">--OCA</option><option value="http://www.ucertify.com/certifications/Oracle/OCP.html">--OCP</option><option value="http://www.ucertify.com/certifications/Oracle/ODCA.html">--ODCA</option><option value="http://www.ucertify.com/exams/Oracle/1Z0-001.html">--1Z0-001</option><option value="http://www.ucertify.com/exams/Oracle/1Z0-007.html">--1Z0-007</option><option value="http://www.ucertify.com/exams/Oracle/1Z0-031.html">--1Z0-031</option><option value="http://www.ucertify.com/exams/Oracle/1Z0-032.html">--1Z0-032</option><option value="http://www.ucertify.com/exams/Oracle/1Z0-033.html">--1Z0-033</option><option value="http://www.ucertify.com/exams/Oracle/1Z0-147.html">--1Z0-147</option><option value="http://www.ucertify.com/vendors/SUN.html">SUN</option><option value="http://www.ucertify.com/certifications/SUN/JCP.html">--JCP</option><option value="http://www.ucertify.com/certifications/SUN/SCJP.html">--SCJP</option><option value="http://www.ucertify.com/exams/SUN/310-025.html">--310-025</option><option value="http://www.ucertify.com/exams/SUN/310-035.html">--310-035</option>
-							  </select></td>
-			  	<td id="topMenu" align="center" valign="middle" width="85%">
-				  	 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-				  		<tbody>
-				        	<tr>
-				        	<td>&nbsp;</td>
-				        	<td class="lt0" onmouseout="mhHover('topMenu', 1, 'lt0')" onmouseover="mhHover('topMenu', 1, 'lt1')"><a href="http://www.ucertify.com/certifications/Microsoft/MCSE.html">MCSE</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 3, 'lt0')" onmouseover="mhHover('topMenu', 3, 'lt1')"><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2003.html">MCSE-2003</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-  								<td class="lt0" onmouseout="mhHover('topMenu', 5, 'lt0')" onmouseover="mhHover('topMenu', 5, 'lt1')"><a href="http://www.ucertify.com/certifications/Microsoft/MCSD.NET.html">MCSD.NET</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 7, 'lt0')" onmouseover="mhHover('topMenu', 7, 'lt1')"><a href="http://www.ucertify.com/certifications/Microsoft/MCSA.html">MCSA</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
 
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 9, 'lt0')" onmouseover="mhHover('topMenu', 9, 'lt1')"><a href="http://www.ucertify.com/certifications/Microsoft/MCDBA.html">MCDBA</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 11, 'lt0')" onmouseover="mhHover('topMenu', 11, 'lt1')"><a href="http://www.ucertify.com/certifications/CompTIA/A+2003.html">A+2003</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 13, 'lt0')" onmouseover="mhHover('topMenu', 13, 'lt1')"><a href="http://www.ucertify.com/certifications/SUN/SCJP.html">SCJP</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 15, 'lt0')" onmouseover="mhHover('topMenu',15, 'lt1')"><a href="http://www.ucertify.com/certifications/Oracle/OCP.html">OCP</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 17, 'lt0')" onmouseover="mhHover('topMenu', 17, 'lt1')"><a href="http://www.ucertify.com/certifications/CIW/CIW.html">CIW</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 19, 'lt0')" onmouseover="mhHover('topMenu',19, 'lt1')"><a href="http://www.ucertify.com/certifications/CompTIA/Network+.html">Network+</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-
-				  				<td class="lt0" onmouseout="mhHover('topMenu', 21, 'lt0')" onmouseover="mhHover('topMenu', 21, 'lt1')"><a href="http://www.ucertify.com/certifications/CompTIA/Server+.html">Server+</a>
-								</td>
-				   				<td><span class="ltsep">|</span></td>
-				  	   			<td class="lt0" onmouseout="mhHover('topMenu', 23, 'lt0')" onmouseover="mhHover('topMenu', 23, 'lt1')"><a href="http://www.ucertify.com/certifications/CompTIA/I-NET+.html">I-NET+</a>
-					 			</td>
-				   				<td><span class="ltsep">|</span></td>
-				  	   			<td class="lt0" onmouseout="mhHover('topMenu', 25, 'lt0')" onmouseover="mhHover('topMenu', 25, 'lt1')"><a href="http://www.ucertify.com/vendors/index.html">Other Certifications</a>
-					 			</td>
-								<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-							</tr>
-						</tbody>
-					</table>
- 	 			</td>
-
-		  		<td id="topMenuR">
-				&nbsp;
-	  	 		</td>
-		</tr></tbody>
-		</table>
-
-
-		<table width="100%" cellpadding="0" cellspacing="0" id="main">
-    		<tbody><tr>
-			        			<td width="172px" id="leftcolumn">
-
-    			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				    <tbody><tr>
-				      <td align="left"><div class="blockContent"><a href="http://www.ucertify.com/download.html"><img src="http://www.ucertify.com/modules/catalog/images/tryitsmall.gif"></a></div></td>
-				    </tr>
-				  </tbody></table>
-					<div class="mnpMenuBorder"></div>
-
-      			<!-- Start left blocks loop -->
-					 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-      <th>
-      	<div class="blockTitle">Login</div>      </th>
-      </tr>
-    <tr>
-      <td align="left"><div class="blockContent"><center><form style="margin-top: 0px;" action="http://www.ucertify.com/user.php" method="post">
-<table><tbody><tr><td align="right">
-Username: </td><td><input type="text" name="uname" size="16" value=""></td></tr>
-<tr><td align="right">Password: </td><td><input type="password" name="pass" size="16"></td></tr></tbody></table>
-<!--
-<input type="checkbox" name="rememberme" value="On" class ="formButton" />
- <br />-->
-<input type="hidden" name="xoops_redirect" value="/modules/catalog/about.php?code=privacy">
-<input type="hidden" name="op" value="login">
-<input class="mainoption" type="submit" value="User Login"><br>
-
+</head>
+<body topmargin="0" leftmargin="0">
+<center>
+<div id="page">
+	<div id="header">
+		<a name="top" href="http://www.ucertify.com"><img src="http://www.ucertify.com/themes/default/logo.gif" alt="" width="160" height="55"></a>
+		<div id="topmenu">
+			<ul>
+				<li><a href="http://www.ucertify.com">Home</a></li>
+				<li><a href="http://www.ucertify.com/about/about.html">About</a></li>
+				<li><a href="http://www.ucertify.com/tour/index.html">Tour</a></li>
+				<li><a href="http://www.ucertify.com/about/contactus.html">Contact</a></li>
+				<li><a href="http://www.ucertify.com/collections/createacollection.html">Shopping Cart</a></li>
+			</ul>
+		</div>
+		<div></div>
+		<div id="globalmenu">
+<ul id="globalnav" style="z-index:999">
+<li><a href="http://www.ucertify.com/vendors/Microsoft.html">Microsoft</a>
+	<ul id="Microsoft-cert-links">
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCAD.html" title="MCAD Certificaiton">MCAD</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-229.html">70-229: SQL Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-305.html">70-305: VB.NET Web Applications</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-306.html">70-306: VB.NET Window Application</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-310.html">70-310: VB.NET XML Web Services</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-315.html">70-315: C# .NET Web Applications</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-316.html">70-316: C#.NET Window Application</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-320.html">70-320: C#.NET XML Web Services</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCDBA.html" title="MCDBA Certificaiton">MCDBA</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-216.html">70-216: Win2K Network Infrastructure</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-228.html">70-228: SQL Server 2000 Admin</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-229.html">70-229: SQL Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-293.html">70-293: Planning Win 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-305.html">70-305: VB.NET Web Applications</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-306.html">70-306: VB.NET Window Application</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-310.html">70-310: VB.NET XML Web Services</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-315.html">70-315: C# .NET Web Applications</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-316.html">70-316: C#.NET Window Application</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-320.html">70-320: C#.NET XML Web Services</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCDST.html" title="MCDST Certificaiton">MCDST</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-271.html">70-271: Windows XP OS Troubleshoot </a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-272.html">70-272:  Windows XP OS</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2000.html" title="MCSA 2000 Certificaiton">MCSA 2000</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-214.html">70-214: Security Administration</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-216.html">70-216: Win2K Network Infrastructure</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-218.html">70-218: Win2K Network Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-224.html">70-224: Exchange Server 2000</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2000</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-228.html">70-228: SQL Server 2000 Admin</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2003</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/220-301.html">220-301: A+ Hardware (2003)</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/220-302.html">220-302: A+ Operating System (2003)</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SK0-002.html">SK0-002: Server+</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2000-to-2003.html">MCSA 2000 to 2003</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-292.html">70-292: Windows 2003  Upgrade</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2000-Messaging.html">MCSA 2000:  Messaging</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-216.html">70-216: Win2K Network Infrastructure</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-217.html">70-217: Win2K Actice Directory</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-219.html">70-219: Win2K Actice Directory Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-220.html">70-220: Win2K Security Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-221.html">70-221: Win2K Network Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-224.html">70-224: Exchange Server 2001</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-225.html">70-225: Exchange Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2004</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-297.html">70-297: Design Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2000-Security.html">MCSA 2000:  Security</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-214.html">70-214: Security Administration</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-218.html">70-218: Win2K Network Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2001</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/CSY0-101.html">CSY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2003.html">MCSA 2003</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/220-301.html">220-301: A+ Hardware (2003)</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/220-302.html">220-302: A+ Operating System (2003)</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2002</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-228.html">70-228: SQL Server 2000 Admin</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2005</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-299.html">70-299: Windows 2003 Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/N10-003.html">N10-003: Network+ (2005)</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SK0-002.html">SK0-002: Server+</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2003-Messaging.html">MCSA 2003:  Messaging</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2006</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-2003-Security.html">MCSA 2003:  Security</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2003</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-299.html">70-299: Windows 2003 Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSA-to-MCSE-2003.html">MCSA to MCSE 2003</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-292.html">70-292: Windows 2003  Upgrade</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-293.html">70-293: Planning Win 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-294.html">70-294: Planning Win 2003 Active Dir</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSD.NET.html" title=".NET Certificaiton">MCSD .NET</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-229.html">70-229: SQL Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-300.html">70-300: .NET Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-305.html">70-305: VB.NET Web Applications</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-306.html">70-306: VB.NET Window Application</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-310.html">70-310: VB.NET XML Web Services</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-315.html">70-315: C# .NET Web Applications</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-316.html">70-316: C#.NET Window Application</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-320.html">70-320: C#.NET XML Web Services</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2000.html" title="MCS 2000 Certificaiton">MCSE 2000</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-214.html">70-214: Security Administration</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-216.html">70-216: Win2K Network Infrastructure</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-217.html">70-217: Win2K Actice Directory</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-218.html">70-218: Win2K Network Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-219.html">70-219: Win2K Actice Directory Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-220.html">70-220: Win2K Security Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-221.html">70-221: Win2K Network Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-223.html">70-223: Win2K Clustering Service</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-224.html">70-224: Exchange Server 2002</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-225.html">70-225: Exchange Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2004</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-228.html">70-228: SQL Server 2000 Admin</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-229.html">70-229: SQL Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2007</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-297.html">70-297: Design Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-299.html">70-299: Windows 2003 Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2000-to-2003.html">MCSE 2000 to 2003</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-292.html">70-292: Windows 2003  Upgrade</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-296.html">70-296: Windows 2003 Upgrade</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2000-Messaging.html">MCSE 2000:  Messaging</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-218.html">70-218: Win2K Network Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2008</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2000-Security.html">MCSE 2000:  Security</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-214.html">70-214: Security Administration</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-215.html">70-215: Windows 2000 Server</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-216.html">70-216: Win2K Network Infrastructure</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-217.html">70-217: Win2K Actice Directory</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-220.html">70-220: Win2K Security Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2005</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-299.html">70-299: Windows 2003 Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2003.html" title="MCSA Certificaiton">MCSE 2003</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2006</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-228.html">70-228: SQL Server 2000 Admin</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-229.html">70-229: SQL Server 2000 Design</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2009</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-292.html">70-292: Windows 2003  Upgrade</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-293.html">70-293: Planning Win 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-294.html">70-294: Planning Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-296.html">70-296: Windows 2003 Upgrade</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-297.html">70-297: Design Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-299.html">70-299: Windows 2003 Security</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2003-Messaging.html">MCSE 2003:  Messaging</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-284.html">70-284: Exchange Server 2010</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-293.html">70-293: Planning Win 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-294.html">70-294: Planning Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-297.html">70-297: Design Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-2003-Security.html">MCSE 2003:  Security</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-210.html">70-210: Windows 2000 Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-227.html">70-227: ISA Server 2007</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-293.html">70-293: Planning Win 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-294.html">70-294: Planning Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-299.html">70-299: Windows 2003 Security</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCTS-SQL-Server-2005.html" title="MCTS 2000 Certificaiton">MCTS:  SQL Server 2005</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-431.html">70-431: SQL Server 2005 Impl.</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCSE-nt-to-2003.html">MCSE NT to 2003</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-270.html">70-270: Windows XP Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-290.html">70-290: Windows 2003 Environment</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-291.html">70-291: Windows 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-293.html">70-293: Planning Win 2003 Network</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-294.html">70-294: Planning Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-297.html">70-297: Design Win 2003 Active Dir</a></li>
+				<li><a href="http://www.ucertify.com/exams/Microsoft/70-298.html">70-298: Windows 2003 Design Security</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Microsoft/MCP.html">MCP</a>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/Microsoft.html">About Microsoft Certifications</a>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/Microsoft/practice-test.html">All Microsoft Practice Tests</a></li>
+	</ul>
+</li>
+<li><a href="http://www.ucertify.com/vendors/CompTIA.html">CompTIA</a>
+	<ul id="CompTIA-cert-links">
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/A-plus-2006.html" title="A plus Certificaiton">A+ 2006</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/220-601.html">220-601: A+ Essentials</a></li>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/220-602.html">220-602: A+ IT Technician</a></li>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/220-603.html">220-603: A+ Remote Technician</a></li>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/220-604.html">220-604: A+ Depot Technician</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/A-plus.html">A+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/220-301.html">220-301: A+ Hardware (2003)</a></li>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/220-302.html">220-302: A+ Operating System (2003)</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/ebiz-plus.html">eBiz+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/EK0-002.html">EK0-002: eBiz+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/i-Net-plus.html">i-Net+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/IK0-002.html">IK0-002: i-Net+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/Linux-plus.html">Linux+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/XK0-002.html">XK0-002: Linux+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/Network-plus.html">Network+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/N10-003.html">N10-003: Network+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/Server-plus.html">Server+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/SK0-002.html">SK0-002: Server+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CompTIA/Security-plus.html">Security+</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CompTIA/SY0-101.html">SY0-101: Security+</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/CompTIA.html">About CompTIA Certifications</a></li>
+		<li><a href="http://www.ucertify.com/vendors/CompTIA/practice-test.html">All CompTIA Practice Tests</a></li>
+	</ul>
+</li>
+<li><a href="http://www.ucertify.com/vendors/CIW.html" title="CIW Certificaiton">CIW</a>
+	<ul id="CIW-cert-links">
+		<li><a href="http://www.ucertify.com/certifications/CIW/CIW-Associate.html">CIW Associate</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CIW/CIW-Professional.html">CIW Professional</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-441.html">1D0-441: Database Specialist</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-450.html">1D0-450: Server Administrator</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-470.html">1D0-470: Security Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-520.html">1D0-520: Site Designer v5</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-525.html">1D0-525: E-Commerce Designer V5</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CIW/Master-CIW-Designer.html">Master CIW Designer</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-450.html">1D0-450: Server Administrator</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-470.html">1D0-470: Security Professional</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CIW/Master-CIW-Administrator.html">Master CIW Administrator</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-520.html">1D0-520: Site Designer v6</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-525.html">1D0-525: E-Commerce Designer V5</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CIW/CIW-Security-Analyst.html">CIW Security Analyst</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CIW/Master-CIW-Web-Site-Manager.html">Master CIW Web Site Manager</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-435.html">1D0-435: JavaScript Fundamentals</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-450.html">1D0-450: Server Administrator</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-520.html">1D0-520: Site Designer v7</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/CIW/master-ciw-enterprise-developer.html">Master CIW Enterprise Developer</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-435.html">1D0-435: JavaScript Fundamentals</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-441.html">1D0-441: Database Specialist</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/1D0-510.html">1D0-510: CIW Foundations</a></li>
+				<li><a href="http://www.ucertify.com/exams/CIW/310-035.html">310-035: Java 2</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/CIW.html">About CIW Certifications</a>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/CIW/practice-test.html">All CIW Practice Tests</a></li>
+	</ul>
+</li>
+<li><a href="http://www.ucertify.com/vendors/Oracle.html" title="Oracle Certificaiton">Oracle</a>
+	<ul id="Oracle-cert-links">
+		<li><a href="http://www.ucertify.com/certifications/Oracle/oca-dba9i.html" title="OCA Certificaiton">OCA DBA9i </a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-001.html">1Z0-001: Oracle 8 PL/SQL</a></li>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-031.html">1Z0-031: Oracle9i Fundamentals I</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Oracle/OCP-DBA9i.html" title="OCP Certificaiton">OCP DBA9i </a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-032.html">1Z0-032: Oracle9i:  PL/SQL</a></li>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-033.html">1Z0-033: Oracle9i Performance Tuning</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/Oracle/oca-dba9i-pl-sql.html">OCA DBA9i PL/SQL </a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-001.html">1Z0-001: Oracle 8 PL/SQL</a></li>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-007.html">1Z0-007: Introduction to Oracle9i:  SQL</a></li>
+				<li><a href="http://www.ucertify.com/exams/Oracle/1Z0-147.html">1Z0-147: Oracle9i:  PL/SQL</a></li>
+			</ul>
+		</li>
+		<!--<li><a href="http://www.ucertify.com/certifications/Oracle/oca-dba10g.html">OCA DBA10g </a>
+		<ul></ul>
+		</li>-->
+		<li><a href="http://www.ucertify.com/vendors/Oracle.html">About Oracle Certifications</a>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/Oracle/practice-test.html">All Oracle Practice Tests</a></li>
+	</ul>
+</li>
+<li><a href="http://www.ucertify.com/vendors/Sun.html" title="JAVA Certificaiton">SUN Java</a>
+	<ul id="SUN-cert-links">
+		<li><a href="http://www.ucertify.com/certifications/SUN/SCJP.html" title="SCJP Certificaiton">SCJP</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/SUN/310-035.html">310-035: Java 2</a></li>
+				<li><a href="http://www.ucertify.com/exams/SUN/310-056.html">310-056: SCJP 5.0 Upgrade</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/certifications/SUN/SCJP-5-0.html" title="SCJP 5.0 Certificaiton">SCJP 5.0</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/SUN/CX310-055.html">310-055: Java 5.0</a></li>
+				<li><a href="http://www.ucertify.com/exams/SUN/CX310-056.html">310-056: Java 5.0 Upgrade</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/SUN.html">About SUN Certifications</a>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/SUN/practice-test.html">All SUN Practice Tests</a></li>
+	</ul>
+</li>
+<li><a href="http://www.ucertify.com/vendors/Adobe.html" title="Photoshop Certificaiton">Adobe</a>
+	<ul id="Adobe-cert-links">
+		<li><a href="http://www.ucertify.com/certifications/Adobe/ACE-Photoshop.html">ACE - Photoshop</a>
+			<ul>
+				<li><a href="http://www.ucertify.com/exams/Adobe/9A0-036.html">9A0-036: Adobe Photoshop CS ACE</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.ucertify.com/vendors/Adobe.html">About Adobe Certifications</a></li>
+		<li><a href="http://www.ucertify.com/vendors/Adobe/practice-test.html">All Adobe Practice Tests</a></li>
+	</ul>
+</li>
+<!--<li><a href="http://www.ucertify.com/discounts.html">On Sale</a></li>-->
+<li><a href="http://www.ucertify.com/download.html">Downloads</a></li>
+</ul>
+<form>
+<!--				<input type=text size="15px" style="border:1px inset #D5CFBC;background-color:#F0EADD;">-->
+<!--				<input type=submit value="GO" style="border:1px outset #D5CFBC;color:#BC6235;font-weight:bold;width:30px;">-->
+	<select id="examlist" name="examlist" onchange="changeurl(this.value);">
+		<option>-- I am Looking for --</option>
+				
+		</select>
 </form>
 
-<ul>
-<li><a class="menuTop" href="http://www.ucertify.com/register.php">Join For Free!</a>
-</li><li><a class="menuTop" href="http://www.ucertify.com/about/Privileges.html">Member's Privileges</a>
-</li><li><a class="menuTop" href="http://www.ucertify.com/about/privacy.html">Privacy Policy</a>
-</li><li><a class="menuTop" href="http://www.ucertify.com/user.php#lost">Forgot Your Password?</a>
-</li></ul></center></div></td>
-    </tr>
-  </tbody></table>
-<div class="mnpMenuBorder"></div>
-      				 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-      <th>
-      	<div class="blockTitle">Offers</div>      </th>
-      </tr>
-    <tr>
-      <td align="left"><div class="blockContent"><table cellspacing="0">
-  <tbody><tr>
-    <td id="mainmenu">
-   	<a class="menuTop" href="javascript:popup_win('http://www.ucertify.com/modules/catalog/volumesale.htm')">Volume Discount</a>
-   	<a class="menuTop" href="javascript:popup_win('http://www.ucertify.com/modules/catalog/oldcustomer.htm')">Repeat Customer Discount</a>
-   	<a class="menuTop" href="http://www.ucertify.com/discounts.html">Hot Deals </a>
-   	<a class="menuTop" href="http://www.ucertify.com/collections/index.html">PrepKit Collections</a>
-   			<a class="menuTop" href="http://www.ucertify.com/collections/createacollection_india.html">Pay in Indian Rs.<img src="http://www.ucertify.com/modules/catalog/images/indflag_smallest.jpg" alt="Buy in Indian Rs"></a>
-  	  	<a class="menuTop" href="http://www.ucertify.com/collections/createacollection.html"><b>Create a Collection</b></a>
-	<a class="menuTop" href="http://www.ucertify.com/about/guarantee.html">Money Back Guarantee </a>
-	<a class="menuTop" href="http://www.ucertify.com/modules/referafriend/index.php">Refer a Friend and Save Money </a>
-    </td>
-  </tr>
-</tbody></table></div></td>
-    </tr>
-  </tbody></table>
-<div class="mnpMenuBorder"></div>
-      				 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-      <th>
-      	<div class="blockTitle">Information For</div>      </th>
-      </tr>
-    <tr>
-      <td align="left"><div class="blockContent"><table cellspacing="0">
-  <tbody><tr>
-    <td id="mainmenu">
-				   	<a class="menuTop" href="http://www.ucertify.com/about/training.html">Training Institutes</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/about/corporations.html">Corporations</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/about/publishers.html">Authors &amp; Publishers</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/affiliate/index.html">Website Owners</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/news.html">News &amp; Press Release</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/rss/news_rss.xml">News Feed <img src="http://www.ucertify.com/modules/catalog/images/rss_logo.gif"></a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/modules/catalog/partners.php">Partners</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/modules/catalog/review.php?act=expert_reviews">Reviews &amp; Comments</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/modules/catalog/award.php">Awards</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/forms/author.html">Jobs</a>
- 				   	<a class="menuTop" href="http://www.ucertify.com/affiliate/affiliate.html">Affiliate Program</a>
- 		 	</td>
-  </tr>
-</tbody></table></div></td>
-    </tr>
-  </tbody></table>
-<div class="mnpMenuBorder"></div>
-      				 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-      <th>
-      	<div class="blockTitle">Articles</div>      </th>
-      </tr>
-    <tr>
-      <td align="left"><div class="blockContent"><table cellspacing="0">
-  <tbody><tr>
-    <td id="mainmenu">
-    
-    
-		<a class="menuTop" href="http://www.ucertify.com/article/index.html">Articles Home</a>
-
-	
-		<a class="menuTop" href="http://www.ucertify.com/article/top10.html">Top 10 Articles</a>
-
-	
-		<a class="menuTop" href="http://www.ucertify.com/article/new.html">New Articles</a>
-
-	
-		<a class="menuTop" href="http://www.ucertify.com/article/submit.html">Submit Article</a>
-
-	
-		<a class="menuTop" href="http://www.ucertify.com/article/writers.html">View Writers</a>
-
-	
-		<a class="menuTop" href="http://www.ucertify.com/about/why.html">Why Certify</a>
-
-	
-		<a class="menuTop" href="http://www.ucertify.com/about/tips.html">Exam Tips</a>
-
-	    </td>
-  </tr>
-</tbody></table></div></td>
-    </tr>
-  </tbody></table>
-<div class="mnpMenuBorder"></div>
-      				 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-      <th>
-      	<div class="blockTitle">PrepKit List</div>      </th>
-      </tr>
-    <tr>
-      <td align="left"><div class="blockContent"><table cellspacing="0">
-  <tbody><tr>
-    <td id="mainmenu">
-
-
-      
-    	     
-	     
-	     	     
-	     	  </td></tr>
-	     	  </tbody></table>
-	     	  
-	   	   
-
-  		<table><tbody><tr><td id="mainmenu"><h3><a class="menuMain" href="http://www.ucertify.com/vendors/CIW.html">CIW</a></h3></td><td></td></tr></tbody></table>
-	  	
-  		<table>
-  		
-  		<tbody><tr>
-  		
-  		 		
-		
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-410.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-410
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-420.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-420
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-425.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-425
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-450.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-450
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-470.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-470
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-510.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-510
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CIW/1D0-520.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1D0-520
-           </a>
-           </td>
-           
-             
-  
-      
-    	     
-	     
-	     	     
-	     	  </tr>
-	     	  </tbody></table>
-	     	  
-	   	   
-
-  		<table><tbody><tr><td id="mainmenu"><h3><a class="menuMain" href="http://www.ucertify.com/vendors/CompTIA.html">CompTIA</a></h3></td><td></td></tr></tbody></table>
-	  	
-  		<table>
-  		
-  		<tbody><tr>
-  		
-  		  		
-		 		
-		
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/220-301.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;220-301
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/220-302.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;220-302
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/IK0-002.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;IK0-002
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/N10-002.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;N10-002
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/N10-003.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;N10-003
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/SK0-001.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;SK0-001
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/SY0-101.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;SY0-101
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/XK0-001.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;XK0-001
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/CompTIA/XK0-002.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;XK0-002
-           </a>
-           </td>
-           
-             
-  
-      
-    	     
-	     
-	     	     
-	     	  </tr>
-	     	  </tbody></table>
-	     	  
-	   	   
-
-  		<table><tbody><tr><td id="mainmenu"><h3><a class="menuMain" href="http://www.ucertify.com/vendors/Microsoft.html">Microsoft</a></h3></td><td></td></tr></tbody></table>
-	  	
-  		<table>
-  		
-  		<tbody><tr>
-  		
-  		  		
-		 		
-		
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-210.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-210
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-214.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-214
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-215.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-215
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-216.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-216
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-217.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-217
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-218.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-218
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-219.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-219
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-220.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-220
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-221.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-221
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-223.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-223
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-224.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-224
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-225.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-225
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-227.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-227
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-228.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-228
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-229.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-229
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-270.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-270
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-271.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-271
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-272.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-272
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-284.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-284
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-290.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-290
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-291.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-291
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-292.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-292
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-293.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-293
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-294.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-294
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-296.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-296
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-298.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-298
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-299.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-299
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-305.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-305
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-306.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-306
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-310.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-310
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-315.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-315
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-316.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-316
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Microsoft/70-320.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;70-320
-           </a>
-           </td>
-           
-             
-  
-      
-    	     
-	     
-	     	     
-	     	  </tr>
-	     	  </tbody></table>
-	     	  
-	   	   
-
-  		<table><tbody><tr><td id="mainmenu"><h3><a class="menuMain" href="http://www.ucertify.com/vendors/Oracle.html">Oracle</a></h3></td><td></td></tr></tbody></table>
-	  	
-  		<table>
-  		
-  		<tbody><tr>
-  		
-  		  		
-		 		
-		
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Oracle/1Z0-001.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1Z0-001
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Oracle/1Z0-007.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1Z0-007
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Oracle/1Z0-031.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1Z0-031
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Oracle/1Z0-032.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1Z0-032
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<tr><td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Oracle/1Z0-033.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1Z0-033
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/Oracle/1Z0-147.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;1Z0-147
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-      
-    	     
-	     
-	     	     
-	     	  
-	     	  </tbody></table>
-	     	  
-	   	   
-
-  		<table><tbody><tr><td id="mainmenu"><h3><a class="menuMain" href="http://www.ucertify.com/vendors/SUN.html">SUN</a></h3></td><td></td></tr></tbody></table>
-	  	
-  		<table>
-  		
-  		<tbody><tr>
-  		
-  		 		
-		
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/SUN/310-025.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;310-025
-           </a>
-           </td>
-           
-             
-  
-      
-        
-    
-    
-  	
-  	
-  	
-  	
-  	
-			
-			<td id="mainmenu">
-           <a class="menuSub" href="http://www.ucertify.com/exams/SUN/310-035.html">
-          <img src="http://www.ucertify.com/themes/roundbox/images/arrow.gif">&nbsp;310-035
-           </a>
-           </td>
-           
-           			</tr>
-			  
-  
-    
-   
-  
-    
-  
-</tbody></table></div></td>
-    </tr>
-  </tbody></table>
-<div class="mnpMenuBorder"></div>
-      				      			<!-- End left blocks loop -->
-
-				<img src="http://www.ucertify.com/themes/roundbox/images/transparent.gif" height="1">
-    			</td>
-			  	      			<td id="centercolumn">
-
-
-
-		        <!-- Display center blocks if any -->
-		        
-	       	<!-- End display center blocks -->
-
-
-				    	    <div id="content">
-	    	      <table width="100%" class="tblHeading">
-<tbody><tr><td>
-	<h1>Privacy Policy</h1>
-</td></tr>
-</tbody></table>
-
-<table class="main">
-	<tbody><tr>
-		<td>
-							<div class="onBorderImage">
-<table class="tblOnBorder" cellspacing="0" cellpadding="0" width="100%">
-	<tbody><tr>
-		<td class="onBorder" width="1" nowrap="">
-					  			<a href="http://www.ucertify.com/discounts.html">
-		  			<img src="http://www.ucertify.com/modules/catalog/images/privacy.jpg" width="294" height="133" alt="Policy">
-		  			</a>
-					</td>
-		<td class="onBorderMsg">
-			<nobr>Privacy</nobr><br><nobr>Policy</nobr>
-		</td>
-	</tr>
-</tbody></table>
+</div>
+	</div>
+	<div id="adline">Learn, Get Certified, Earn More... The uCertify Way.&nbsp;</div>
+	<div id="content">
+		<!-- Start center-center blocks loop --><!-- End center-center blocks loop -->
+		<div id="navigation">You are here: <a href="http://www.ucertify.com">Home</a> &gt; Privacy Policy</div>
+<div id="maintitlebox">
+	<div id="maintitle">
+		<h1>Privacy Policy</h1>
+		<h2></h2>
+	</div>
 </div>
 
-<div class="onBorderAbout">
-<table class="tblOnBorderAbout" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td class="onBorderAboutContent">
-	
-</td>
-</tr>
-</tbody></table>
-</div>						<table class="infoblock" width="100%">
-			<tbody><tr>
-			<td>
-				<h3> Our Commitment:</h3>
-We are committed to protecting your privacy. We assure you that the personal information you provide to uCertify over the internet is treated with utmost care to ensure safety, security and confidentiality.
+<div id="columnleft">
+	<h3> Our Commitment:</h3>
+We are committed to protecting your privacy. We assure you that the personal information you provide to uCertify over the Internet is treated with utmost care to ensure safety, security and confidentiality.
 
 <p>uCertify does not sell, trade, rent, or otherwise provide customer identifiable information to third parties (except as required by subpoena, search warrant or other legal process). It may, however, provide this information to its affiliated companies in an effort to serve you better.
 </p><p>
@@ -1491,7 +581,7 @@ We are committed to protecting your privacy. We assure you that the personal inf
 uCertify uses 'cookies' to allow customers to add items to the 'basket', to travel to other pages within the site, and then to return to find their basket contents intact. Cookies are also used to make sure that your order information is moved to our secure server correctly. Therefore, two things are true about cookies. One, you must 'allow' cookies for the basket to work -- and thus to be able to purchase products online. Two, the cookies will expire after your close/quit your browser.
 <p>
 </p><h3>Opt Out Policy:</h3>
-At anytime, you can unsubscribe to uCertify Newsletter please go to <a href="http://www.ucertify.com/subscription.htm">http://www.ucertify.com/subscription.htm</a>
+At anytime, you can unsubscribe to uCertify Newsletter please go to <a href="http://www.ucertify.com/forms/subscription.html">subscription</a>
 <p>
 </p><h3>What other information should I know about my privacy?</h3>
 uCertify contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which uCertify has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from uCertify's Privacy Statement. Of course, you are solely responsible for maintaining the secrecy of your passwords and any account information. Please be very careful, responsible, and alert with this information, especially whenever you're online.
@@ -1500,141 +590,84 @@ uCertify contains links to other Web sites. Please note that when you click on o
 
 </p><p>Any material changes in the way uCertify uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to policies@uCertify.com. Please reference the privacy policy in your subject line. uCertify will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 <br>
-&nbsp;
-			</p></td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td width="260" valign="top" class="tblRightBlock">
-			    	    			<div align="center">
-										  <center>
-<div align="center">
-  <center>
-  <table border="0" cellspacing="0" width="230" cellpadding="0" height="230">
-    <tbody><tr>
-      <td width="18" height="21" background="http://www.ucertify.com/modules/catalog/images/t-l-corner.gif">&nbsp;</td>
-      <td width="190" background="http://www.ucertify.com/modules/catalog/images/t-line.gif" height="21">&nbsp;</td>
-      <td width="28" height="21" background="http://www.ucertify.com/modules/catalog/images/t-r-corner.gif">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="18" background="http://www.ucertify.com/modules/catalog/images/l-line.gif" height="97">&nbsp;</td>
-      <td width="190" height="97">
 
-      <div class="comment"><b>Expert Says:</b>&nbsp;"I had the opportunity to review the uCertify Prepkit and undoubtedly it is impressive. uCertify offers Prepkit for various important certification exams like Microsoft, CompTIA, CIW, Java and other certification."&nbsp;&nbsp;&nbsp;[<a href="http://www.ucertify.com/modules/catalog/review.php?act=expert_reviews&amp;id=63">More...</a>]</div>
-
-        </td>
-      <td width="28" background="http://www.ucertify.com/modules/catalog/images/r-line.gif" height="97">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="230" colspan="3" background="http://www.ucertify.com/modules/catalog/images/bottom-img.gif" height="112">
-      	 <p align="left">
-      	 <br>
-      	 <br>
-      	 <br>
-      	 <a href="http://www.ucertify.com/modules/catalog/review.php?act=expert_reviews&amp;id=63">- Priya Malkani,<br>Technical Support Executive<br>Daksh eServices Pvt. Ltd. (an IBM subsidiary), India</a>
-      	 </p>
-      	 </td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>					<br>										  
-									<table border="0" cellspacing="0" cellpadding="0" class="tblRSnippet">
-    <tbody><tr>
-      <td width="19" height="19" class="tblRSnippet-Lth"><img alt="*" src="http://www.ucertify.com/modules/catalog/images/top-left.gif" title="" width="19" border="0" height="19"></td>
-      <td class="tblRSnippet-Mth">
-      	You might find these useful
-      </td>
-      <td width="19" height="19" class="tblRSnippet-Rth"><img alt="*" src="http://www.ucertify.com/modules/catalog/images/top-right.gif" title="" width="19" border="0" height="19"></td>
-    </tr>
- </tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="0" class="tblCSnippet">
-    <tbody><tr>
-      <td align="left">
-		<ul>
+</p></div>
+<div id="columnright">
+			<div id="snippet1" class="snippet">
+	<h4>You might find these useful</h4>
+	<ul>
 <li><a class="menu_link" href="refund.html">Refund Policy</a>
 </li><li><a class="menu_link" href="legal.html">Legal Policy</a>
 </li><li><a class="menu_link" href="license.html">License</a>
 </li></ul>
-      </td>
-    </tr>
-</tbody></table>
+</div>
 
-<table border="0" cellspacing="0" cellpadding="0" class="tblBSnippet">
-	<tbody><tr>
-      <td width="9" height="9" class="tblBSnippet-L"><img alt="*" src="http://www.ucertify.com/modules/catalog/images/bottom-left.gif" title="" width="9" border="0" height="9"></td>
-      <td class="tblBSnippet-M"><img src="http://www.ucertify.com/modules/catalog/images/spacer.gif" height="1"></td>
-      <td width="9" height="9" class="tblBSnippet-R"><img alt="*" src="http://www.ucertify.com/modules/catalog/images/bottom-right.gif" title="" width="9" border="0" height="9"></td>
-    </tr>
-</tbody></table>
-<br>												
-<table border="0" cellpadding="1" cellspacing="0">
-<tbody><tr>
-<td>
+
+
+<script type="text/javascript">
+	function snippetbox() {
+
+	if(!NiftyCheck())
+	return;
+				Rounded("div#snippet1","#FFFFFF","#E6DDC8");
+
+	}
+	snippetbox() ;
+</script>	</div>
+<script type="text/javascript">
+function roundbox() {
+
+if(!NiftyCheck())
+return;
+			Rounded("div#maintitlebox","#FFFFFF","#E6DDC8");
+
+}
+roundbox() ;
+</script>
 &nbsp;
-</td>
-</tr>
-</tbody></table>
 
 
 
 
-										</center>
-									</div>
+	</div>
+	<div id="footer">
+			<ul>
+			 <li><a href="http://www.ucertify.com/news/news.html">Press Release</a></li>
+			 <li><a href="http://www.ucertify.com/about/sitemap.html">Sitemap</a></li>
+			 <li><a href="http://www.ucertify.com/article/index.html">Articles</a></li>
+			 <li><a href="http://www.ucertify.com/forms/support.html">Support</a></li>
+			 <li><a href="http://www.ucertify.com/forms/survey.html">Survey</a></li>
+			 <li><a href="http://www.ucertify.com/forms/experience.html">Experience</a></li>
 
-
-		</td>
-		</tr>
-</tbody></table>
-	    	    </div>
-			
-
-
-
-      	</td>
-			</tr>
-</tbody></table>
-
-<table cellpadding="0" cellspacing="0" id="FooterBar" width="100%">
-	<tbody><tr valign="bottom">
-		<!-- Pete : Bottom Menu Start -->
-	    <td id="FooterBarMenu">
-	    	<nobr>
-	    		<a href="http://www.ucertify.com/about/security.html">Security</a>
-	    			<span class="ltsep">|</span>
-	    		<a href="http://www.ucertify.com/about/privacy.html">Privacy</a>
-	    			<span class="ltsep">|</span>
-	    		<a href="http://www.ucertify.com/about/refund.html">Refund Policy</a>
-	    			<span class="ltsep">|</span>
-	    		<a href="http://www.ucertify.com/about/about.html">About Us </a>
-	    			<span class="ltsep">|</span>
-	    		<a href="http://www.ucertify.com/about/contactus.html">Contact Us</a>
-
-	    		
-	    		<span class="ltsep">|</span>
-	    		<a href="http://add.my.yahoo.com/rss?url=http://www.ucertify.com/rss/news_rss.xml">
-				 <img border="0" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo2.gif"></a>
-			   <span class="ltsep">|</span>
-			   <a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://www.ucertify.com/rss/news_rss.xml&amp;tt=CENTRALDIRECTORY&amp;ru=http://rss.msn.com'"><img src="http://sc.msn.com/c/rss/rss_mymsn.gif" alt="" style="border:0"></a>
-			   <span class="ltsep">|</span>
-			   <a href="http://www.bloglines.com/sub/http://www.ucertify.com/rss/news_rss.xml">
-			   <img src="http://www.bloglines.com/images/sub_modern7.gif" border="0" alt="Subscribe with Bloglines">
-			   </a>
-				<span class="ltsep">|</span>
-				<a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://www.ucertify.com/rss/news_rss.xml"><img src="http://www.newsgator.com/images/ngsub1.gif" alt="Subscribe in NewsGator Online" border="0"></a>
-	    		    	</nobr>
-
-			  <div style="padding-top:12px;padding-Bottom:4px">
-			 <nobr>
-		      <span class="copyright"> © 2002-2004 uCertify.com. All rights reserved.</span>&nbsp;&nbsp;<a href="http://www.ucertify.com/about/legal.html">Terms of Use</a>
-	      	</nobr>
-	      	</div>
-	    </td>
-		<!-- Pete : Bottom Menu End -->
-	</tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-<script>af();</script>
+			</ul>
+			<ul>
+			 <li><a href="http://www.ucertify.com/about/corporations.html">Corporate Customers</a></li>
+			 <li><a href="http://www.ucertify.com/about/training.html">Training Provider</a></li>
+			 <li><a href="http://www.ucertify.com/about/publishers.html">Publishers</a></li>
+			 <li><a href="http://www.ucertify.com/modules/catalog/partners.php">Partners</a></li>
+			 <li><a href="http://www.ucertify.com/awards.html">Awards</a></li>
+			</ul>
+			<ul>
+			 <li><a href="http://www.ucertify.com/about/privacy.html">Privacy</a></li>
+			 <li><a href="http://www.ucertify.com/about/security.html">Security</a></li>
+			 <li><a href="http://www.ucertify.com/about/legal.html">Terms of Use</a></li>
+			 <li><a href="http://www.ucertify.com/about/license.html">Permissions &amp; Trademarks </a></li>
+			 <li><a href="http://www.ucertify.com/about/refund.html">Refunds</a></li>
+			</ul>
+	</div>
+</div>
+<div id="hlinks"></div>
+<script>
+function transfer()
+{
+	hl = document.getElementById("hlinks");
+	ml = document.getElementById("globalmenu");
+	ml.innerHTML = hl.innerHTML;
+	hl.innerHTML = "";
+}
+transfer();
+getExamList("examlist",'http://www.ucertify.com/modules/catalog/examlist.php');
+</script>
+</center>
 
 </body></html>
