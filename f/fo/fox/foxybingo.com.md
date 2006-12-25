@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626085834id_/http%3A//foxybingo.com/site/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225170555id_/http%3A//foxybingo.com/site/privacypolicy.php) for the most accurate reproduction.*
 
-# Foxybingo - Play multi-player multi-currency online bingo with Foxybingo
+# Foxy Bingo - Play Online Bingo Chat and Win
 
 **1\. Introduction**  
 1.1 “foxybingo.com” and “foxybingo” are brands of and owned by Cashcade Limited. This website and the services offered on it are operated by Globalcom Limited and Cytech Limited. As such, all personal data and customer funds are transferred to Globalcom Limited and Cytech Limited to provide such services. Cytech Limited and Globalcom Limited hold an interactive gaming licence issued by the Kahnawake Gaming Commission.  
