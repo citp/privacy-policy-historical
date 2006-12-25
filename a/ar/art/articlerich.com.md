@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204424id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225100253id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
 
-# Article Rich - Free Article Submission Directory | Free Content
+# Submit Articles and Read Free Articles at Our Free Article Directory - Article Rich
 
 ArticleRich.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. **We respect your privacy,  **we will never sell, barter, or rent your email address to any unauthorized third party. 
 
