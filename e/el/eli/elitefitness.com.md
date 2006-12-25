@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614213825id_/http%3A//www.elitefitness.com/g.o/XXXX/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225033448id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # EliteFitness.com - Underground Bodybuilding, Fitness and Steroid Site - Tons of Bodybuilding, Weight Lifting, and Anabolic Steroid Information
 
