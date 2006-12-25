@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616101405id_/http%3A//naaleads.com/naaPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225034946id_/http%3A//naaleads.com/naaPrivacy.php) for the most accurate reproduction.*
 
 # NAA Corporate : Our Privacy Policy
 
