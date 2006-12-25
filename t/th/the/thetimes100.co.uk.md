@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615130007id_/http%3A//www.thetimes100.co.uk/additional/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225100851id_/http%3A//www.thetimes100.co.uk/additional/privacy.php) for the most accurate reproduction.*
 
 # The Times 100 - Edition 11 - Privacy Policy
 
