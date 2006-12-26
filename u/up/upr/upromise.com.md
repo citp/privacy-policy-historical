@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627211024id_/http%3A//www.upromise.com/8743.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226231325id_/http%3A//www.upromise.com/8743.do) for the most accurate reproduction.*
 
 # Upromise - Privacy Statement and Principles
 
