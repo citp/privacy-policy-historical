@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627182121id_/http%3A//www.fair.org/index.php%3Fpage%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226194740id_/http%3A//www.fair.org/index.php%3Fpage%3D145) for the most accurate reproduction.*
 
 # FAIR Privacy Policy
 
