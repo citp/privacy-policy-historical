@@ -1,752 +1,1059 @@
-<!--The following is the downloaded HTML source of the christianitytoday.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604154747id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christianitytoday.com privacy policy that was archived on 2006-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061226195348id_/https%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-
-<meta name="vcinfo" content="1:536FA:FEATURE:091800:CGA">
-
+<html><head><meta name="vcinfo" content="1:536FA:FEATURE:091800:CGA">
 <!--Begin: Modify Title-->
-<title>ChristianityToday.com - Help &amp; Info - Privacy Policy</title>
-<!--End: Modify Title-->
-
+<title>Privacy Policy - Help &amp; Info</title><!--End: Modify Title-->
 <!--Begin: Modify Deck-->
 <script language="JavaScript" type="text/javascript">
-<!--
-var DECKTEXT = "Privacy Policy";
-// -->
-</script>
-<!--End: Modify Deck-->
+  //
+  <!--
+  var DECKTEXT = "Privacy Policy";
+  // -->
+  //</script><!--End: Modify Deck-->
 
-
-<!--Begin: meta.txt-->
+<!-- begin: \help\includes\meta.txt -->
 <meta http-equiv="pragma" content="no-cache">
 <meta name="description" content="Christianity Today — Help &amp; Info — The award-winning, official web site of Christianity Today International. Contains the full text of CTI's 11 magazines, top religion news, reviews, and two search engines with links to more than 15,000 Christian Web sites.">
 <meta name="keywords" content="help, info, information, contact, staff, privacy, policy, awards, advertise, mission, openings, job, customer, woman, women, female, male, Christianity, christian, Jesus, God, god, Lord, family, bible, magazines, magazine, Christ, devotions, directories, search, students, men, man, pastors, church, churches, salvation, books, culture, lifestyles, campus life, history, computing, leadership, marriage, evangelical">
-<!--keywords:-->
-<!--End: meta.txt-->
-
-
+<!-- end: \help\includes\meta.txt -->
 <link rel="stylesheet" href="/global/global.css" type="text/css">
+<!-- begin: \global\globaljs.txt -->
 
-<!--Begin: global/globaljs.txt-->
 <script language="JavaScript" type="text/javascript"><!--
-
-/*
- * DEFINE CONSTANTS
- */
-// base URLs
+// DEFINE CONSTANTS
 var BASE = "http://www.christianitytoday.com";
 var WXBASE = "http://community.christianitytoday.com";
-var WXCHATBASE = "http://community.christianitytoday.com/cgi/webx?15@@196@";
-var WXPAGEBASE = "http://community.christianitytoday.com/cgi/webx?showStatic@@!page=";
-var WXMBBASE = "http://community.christianitytoday.com/cgi/webx?13@@";
+var WXCHATBASE = WXBASE + "/cgi/webx?15@@14@";
+var WXPAGEBASE = WXBASE + "/cgi/webx?showStatic@@!page=";
+var WXMBBASE = WXBASE + "/cgi/webx?13@@";
 var clickPath;
-
-// client info
 var PLATFORM = navigator.appVersion.toLowerCase();
 var CLIENT = navigator.appName.toLowerCase();
 var VERSION = parseInt (navigator.appVersion);
-var AOLCLIENT = (navigator.userAgent.indexOf ("AOL") != -1) ? 1 : 0;
-var AOLUA = AOLCLIENT ? 1 : 0;
+var AOLCLIENT = 0;
+var AOLUA = 0;
+var AOLNAV = '';
+
 var DOCREF = document.referrer.slice((document.referrer.indexOf("//") + 2),document.referrer.indexOf(".",document.referrer.indexOf(".") + 1));
-
-// cobranding
-if (AOLCLIENT) {
-	var AOLNAV = '<TABLE WIDTH="100%" HEIGHT="24" BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#0033CC"><TR><TD WIDTH="100%"><A HREF="aol://1722:people%20connection" TARGET="_top"><IMG SRC="' + BASE + '/global/images/aolpc.gif" WIDTH="175" HEIGHT="24" BORDER="0" ALT="AOL People Connection"></A></TD><FORM><TD HEIGHT="28" VALIGN="MIDDLE" ALIGN="RIGHT"><SELECT NAME="aol_select" onChange="jump (this.options[this.selectedIndex].value);"><OPTION VALUE="0">&nbsp;--- Explore People Connection ---</OPTION><OPTION VALUE="0">&nbsp;------------------------------------------</OPTION><OPTION VALUE="aol://1722:people%20connection">People Connection</OPTION><OPTION VALUE="aol://4344:619.new_ls.3741434.624729443">Lifestyles Forum</OPTION><OPTION VALUE="0">&nbsp;------------------------------------------</OPTION><OPTION VALUE="aol://1722:hometown">AOL Hometown</OPTION><OPTION VALUE="aol://1722:liveevents">AOL Live</OPTION><OPTION VALUE="aol://1722:love">Love@AOL Personals</OPTION><OPTION VALUE="aol://1722:mbsearch">Message Board Search</OPTION><OPTION VALUE="0">&nbsp;------------------------------------------</OPTION></SELECT></TD><TD VALIGN="MIDDLE"><IMG SRC="' + BASE + '/global/images/spacer.gif" WIDTH="10" HEIGHT="1"></TD></TR></FORM></TABLE>';
-	var BASE = "http://christianitytoday.aol.com";
+// REMOVE FROM FRAMES
+if ((window != top) && (document.referrer.indexOf("christianity.ca") == -1) && (typeof noBreak == "undefined")) top.location.replace(location.href);
+// REDIRECT AWAY FROM HEBRON
+if (((location.hostname.indexOf("hebron") != -1) || (location.hostname.indexOf("community") != -1)) && (location.href.indexOf("webx") == -1)) {
+location.replace("http://www.christianitytoday.com" + location.pathname);
 }
-
-
-/*
- * REMOVE FROM FRAMES
- */
-if ((window != top) && (DOCREF.indexOf("compuserve") == -1) && (typeof noBreak == "undefined")) top.location.replace(location.href);
-
-
-/*
- * ALTERNATE STYLESHEETS
- */
-// All IE clients
-if (CLIENT != "netscape")
-    document.write('<LINK REL="stylesheet" HREF="' + BASE + '/global/globalie.css" TYPE="text/css">');
-
-
-// Mac clients (except IE 5.0 and above)
-if ((PLATFORM.indexOf("mac") != -1) && ! (CLIENT != "netscape" && VERSION > 4))
-    document.write('<LINK REL="stylesheet" HREF="' + BASE + '/global/globalmac.css" TYPE="text/css">');
-
-
-/*
- * GENERIC REDIRECTS
- */
+// ALTERNATE STYLESHEETS
+if (CLIENT != "netscape" || VERSION > 4) document.write('<link rel="stylesheet" href="' + BASE + '/global/globalie.css" type="text/css">');
+if ((PLATFORM.indexOf("mac") != -1) && ! (CLIENT != "netscape" && VERSION > 4)) document.write('<link rel="stylesheet" href="' + BASE + '/global/globalmac.css" type="text/css">');
+// GENERIC REDIRECTS
 function jump (URL) {
-    if (URL == "0") return;
-    clickPath = ((URL.indexOf("http://") == -1) && (URL.indexOf("aol://") == -1) && (URL.indexOf("javascript:") == -1)) ? BASE + URL : URL;
-    top.location = clickPath;
-	return false;
+if (URL == "0") return;
+clickPath = ((URL.indexOf("http://") == -1) && (URL.indexOf("https://") == -1) && (URL.indexOf("aol://") == -1) && (URL.indexOf("javascript:") == -1)) ? BASE + URL : URL;
+top.location = clickPath;
+return false;
 }
-
-
-/*
- * COMMUNITY LINK JUMP
- */
+// COMMUNITY REDIRECTS
 function goComm (webxID, aolURL, dest) {
-	if (! AOLCLIENT) {
-		switch (dest) {
-		case (2):
-			webxURL = WXCHATBASE + webxID;
-			break;
-
-		case (1):
-			webxURL = WXPAGEBASE + webxID;
-			if (webxURL.substr(webxURL.length-1,1) == "/") {
-				webxURL = webxURL + "index.html";
-				}
-			break;
-
-		case (0):
-			webxURL = WXMBBASE + webxID;
-		}
-	}
-
-    if (aolURL == "" || webxID == "") {
-        alert("This board is temporarily unavailable.  Please notify the moderator (community@christianitytoday.com) if the problem persists.");
-    } else {
-        jump ((AOLCLIENT && aolURL != "none") ? aolURL : webxURL);
-    }
-
-    return true;
+switch (dest) {
+case (1):
+webxURL = WXPAGEBASE + webxID;
+if (webxURL.substr(webxURL.length-1,1) == "/") {
+webxURL = webxURL + "index.html";
 }
-
+break;
+case (0):
+webxURL = WXMBBASE + webxID;
+}
+jump (webxURL);
+return true;
+}
 function goBoard (webxID, aolURL) { return goComm (webxID, aolURL, 0); }
 function goChat (webxID, aolURL) { return goComm (webxID, aolURL, 1); }
-
-
-/*
- * PAGE UTILITIES
- */
-function pageUtilities () {
-	email();
-	bookmark();
-	var backLink = this.location.href + "#top";
-	var backButton = '<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD><A HREF="' + backLink + '"><IMG SRC="' + BASE + '/global/images/backtotop.gif" WIDTH="20" HEIGHT="20" BORDER="0" ALT="Back to top&#133;"></A></TD><TD><A HREF="' + backLink + '" CLASS="pageutility">Back to top</A></TD></TR></TABLE>';
-	document.write(backButton);
+// PAGE UTILITIES
+function email()
+{
+	document.write('<table cellpadding="0" cellspacing="0" border="0"><tr><td><a href="javascript:emailOpen();"><img src="' + BASE + '/global/images/email.gif" width="20" height="20" border="0" alt="E-mail this page"></a></td><td><a href="javascript:emailOpen();" class="pageutility">E-mail this page</a></td></tr></table>');
 }
-
-function navUtilities () {
-	email();
-	bookmark();
+function printpage()
+{
+	document.write('<table cellpadding="0" cellspacing="0" border="0"><tr><td><a href="javascript:printOpen();"><img src="' + BASE + '/global/images/printer.gif" width="20" height="20" border="0" alt="Printer version"></a></td><td><a href="javascript:printOpen();" class="pageutility">Printer version</a></td></tr></table>');
 }
-
-function email() {
-	document.write('<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD><A HREF="javascript:emailOpen();"><IMG SRC="' + BASE + '/global/images/email.gif" WIDTH="20" HEIGHT="20" BORDER="0" ALT="E-mail this page"></A></TD><TD><A HREF="javascript:emailOpen();" CLASS="pageutility">E-mail this page</A></TD></TR></TABLE>');
-}
-
-function emailOpen() {
-	docHREF = (window != top) ? document.referrer : location.href;
-	window.open(BASE + '/services/email/email.cgi?form_title=' + escape(document.title) + '&form_page=' + escape(docHREF),'emailChild','width=520,height=350,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0');
-}
-
-function bookmark () {
-	if ((PLATFORM.indexOf("mac") == -1) && (!AOLCLIENT)) {
-		if (CLIENT != "netscape") {
-    		var bookmarkLink = "javascript:window.external.AddFavorite('" + this.location.href + "','" + document.title + "');";
-    	} else {
-    		var bookmarkLink = "javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');";
-    	}	
-		var bookmarkButton = '<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD><A HREF="' + bookmarkLink + '"><IMG SRC="' + BASE + '/global/images/bookmark.gif" WIDTH="20" HEIGHT="20" BORDER="0" ALT="Bookmark this page"></A></TD><TD><A HREF="' + bookmarkLink + '" CLASS="pageutility">Bookmark this page</A></TD></TR></TABLE>';
+function bookmark ()
+{
+	if (PLATFORM.indexOf("mac") == -1 && (! AOLCLIENT))
+	{
+		if (CLIENT != "netscape")
+		{
+			var bookmarkLink = "javascript:window.external.AddFavorite('" + this.location.href + "','" + document.title + "');";
+		}
+		else
+		{
+			var bookmarkLink = "javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');";
+		}
+		var bookmarkButton = '<table cellpadding="0" cellspacing="0" border="0"><tr><td><a href="' + bookmarkLink + '"><img src="' + BASE + '/global/images/bookmark.gif" width="20" height="20" border="0" alt="Bookmark this page"></a></td><td><a href="' + bookmarkLink + '" class="pageutility">Bookmark this page</a></td></tr></table>';
 		document.write(bookmarkButton);
 	}
 }
-
-
-
-/*
- * MOUSEOVER BUTTONS
- */
+function homepage() {
+	if (CLIENT != "netscape" && (! AOLCLIENT))
+	{
+		document.write('<table cellpadding="0" cellspacing="0" border="0"><tr><td><a href="javascript:void(0);" onclick="this.style.behavior=\'url(#default#homePage)\';this.setHomePage(top.location.href);"><img src="' + BASE + '/global/images/homepage.gif" width="20" height="20" border="0" alt="Make this your home"></a></td><td><a href="javascript:void(0);" onclick="this.style.behavior=\'url(#default#homePage)\';this.setHomePage(top.location.href);" class="pageutility">Make this your home</a></td></tr></table>');
+	}
+}
+function rssfeeds()
+{
+	document.write('<table cellpadding="0" cellspacing="0" border="0"><tr><td><a href="' + BASE + '/help/features/rss.html"><img src="' + BASE + '/global/images/rss.gif" width="20" height="20" border="0" alt="RSS Feeds"></a></td><td><a href="' + BASE + '/help/features/rss.html" class="pageutility">RSS Feeds</a></td></tr></table>');
+}
+function pageUtilities()
+{
+	email();
+	bookmark();
+	homepage();
+	rssfeeds();
+	var backLink = this.location.href + "#top";
+	var backButton = '<table cellpadding="0" cellspacing="0" border="0"><tr><td><a href="' + backLink + '"><img src="' + BASE + '/global/images/backtotop.gif" width="20" height="20" border="0" alt="Back to top &#133; "></a></td><td><a href="' + backLink + '" class="pageutility">Back to top</a></td></tr></table>';
+	document.write(backButton);
+}
+function navUtilities()
+{
+	email();
+	bookmark();
+	printpage();
+	rssfeeds();
+}
+function navUtilitiesIndex()
+{
+	email();
+	bookmark();
+	rssfeeds();
+	homepage();
+}
+function emailOpen()
+{
+	docHREF = (window != top) ? document.referrer : location.href;
+	window.open(BASE + '/email/index.html?title=' + escape(document.title) + '&url=' + escape(docHREF),'emailChild','width=536,height=350,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0');
+}
+function printOpen()
+{
+	docHREF = (window != top) ? document.referrer : location.href;
+	window.open(BASE + '/global/printer.html?' + escape(location.pathname),'printChild','width=600,height=400,toolbar=0,location=0,directories=0,status=0,menubar=1,scrollbars=1,resizable=1');
+}
+// MOUSEOVER BUTTONS
 function DynButton (name, def, ovr) {
-    this.defimg = new Image();
-    this.defimg.src = (0 == def.indexOf ("http:")) ?  def : BASE + def;
-    this.ovrimg = new Image();
-    this.ovrimg.src = (0 == ovr.indexOf ("http:")) ?  ovr : BASE + ovr;
-    this.imgname = name;
-    this.over = btnOver;
-    this.out = btnOut;
+this.defimg = new Image();
+this.defimg.src = (0 == def.indexOf ("http:")) ?  def : BASE + def;
+this.ovrimg = new Image();
+this.ovrimg.src = (0 == ovr.indexOf ("http:")) ?  ovr : BASE + ovr;
+this.imgname = name;
+this.over = btnOver;
+this.out = btnOut;
 }
 function btnOver () {
-    eval ("document." + this.imgname).src = this.ovrimg.src;
+eval ("document." + this.imgname).src = this.ovrimg.src;
 }
 function btnOut () {
-    eval ("document." + this.imgname).src = this.defimg.src;
+eval ("document." + this.imgname).src = this.defimg.src;
+}
+// FLASH DETECTION
+var isFlash = 0;
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] ) {
+var plugin = navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin;
+if (plugin && parseInt(plugin.description.substring(plugin.description.indexOf(".") - 1)) >= 4) isFlash = 1;
+} else if (CLIENT != "netscape" && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+document.write('<script LANGUAGE=VBScript\>\n');
+document.write('on error resume next\n');
+document.write('isFlash = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4")))\n');
+document.write('</script\>\n');
 }
 
-
-
-/*
- * FLASH DETECTION
- */
-var isFlash;
-if (CLIENT != "netscape") {
-	document.write('<SCRIPT LANGUAGE="VBScript"\>\n');
-	document.write('on error resume next\n');
-	document.write('isFlash = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4")))\n');
-	document.write('if (isFlash <= 0) then isFlash = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5")))\n');
-	document.write('</SCRIPT\>\n');
-} else {
-	plugin = navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin;
-	if (plugin && (parseInt(plugin.description.substring(plugin.description.indexOf(".")-1)) >= 4)) isFlash = 1;
+function get_checked_items() {
+var c_value = "";
+var c_text = "";
+var s_email = "";
+for (var i=0; i < document.subscribeform.list.length; i++)
+   {
+   if (document.subscribeform.list[i].checked)
+      {
+      c_value = c_value + document.subscribeform.list[i].value + " ";
+      
+	      switch(document.subscribeform.list[i].value) {
+					case "booksandculture-html":
+	      		c_text = c_text + "Books & Culture (weekly) \n";
+	      		break;
+					case "bcl":
+	      		c_text = c_text + "Building Church Leaders (weekly) \n";
+	      		break;
+					case "buildingsmallgroups-html":
+	      		c_text = c_text + "Building Small Groups (monthly) \n";
+	      		break;
+					case "biblestudies-html":
+	      		c_text = c_text + "Christian Bible Studies (weekly) \n";
+	      		break;
+					case "history-html":
+	      		c_text = c_text + "Christian History & Biography Newsletter (weekly) \n";
+	      		break;
+					case "ctlibrary-html":
+	      		c_text = c_text + "Christian News and Research Newsletter -- ChristianityTodayLibrary.com (semimonthly) \n";
+	      		break;
+					case "visionproject":
+	      		c_text = c_text + "The Christian Vision Project (monthly) \n";
+	      		break;
+					case "housenews":
+	      		c_text = c_text + "Christianity.ca's Virtual House News (weekly) \n";
+	      		break;
+					case "churchlaughs-html":
+	      		c_text = c_text + "Church Laughs (weekly) \n";
+	      		break;
+					case "churchplaza-html":
+	      		c_text = c_text + "Church Plaza Newsletter (monthly) \n";
+	      		break;
+					case "collegeguide":
+	      		c_text = c_text + "College Guide (monthly) \n";
+	      		break;
+					case "conferences":
+	      		c_text = c_text + "Conferences Update (monthly) \n";
+	      		break;
+					case "connection-html":
+	      		c_text = c_text + "The Connection -- HTML (weekly) \n";
+	      		break;
+					case "connection":
+	      		c_text = c_text + "The Connection -- Text-only (weekly) \n";
+	      		break;
+					case "ctdirect-html":
+	      		c_text = c_text + "CTDirect (daily) \n";
+	      		break;
+					case "ctweekly-html":
+	      		c_text = c_text + "CTWeekly \n";
+	      		break;
+					case "movies-html":
+	      		c_text = c_text + "CT at the Movies (weekly) \n";
+	      		break;
+					case "dnaofrelationships-html":
+	      		c_text = c_text + "Smalley Relationship Center Newsletter (weekly) \n";
+	      		break;
+					case "e-cards-html":
+	      		c_text = c_text + "E-Cards (Holiday Reminder) \n";
+	      		break;
+					case "workplace-html":
+	      		c_text = c_text + "Faith in the Workplace Newsletter (biweekly) \n";
+	      		break;
+					case "faithvisuals":
+	      		c_text = c_text + "Faith Visuals Newsletter (monthly) \n";
+	      		break;
+					case "hottopics":
+	      		c_text = c_text + "Hot Topics Newsletter (monthly) \n";
+	      		break;
+					case "campuslife-html":
+	      		c_text = c_text + "Ignite Your Faith Connection (weekly) \n";
+	      		break;
+					case "ctcourses-html":
+	      		c_text = c_text + "Interactive Training Courses \n";
+	      		break;
+					case "leadership-html":
+	      		c_text = c_text + "Leadership Essentials for Women \n";
+	      		break;
+					case "marriage-html":
+	      		c_text = c_text + "Marriage Connection (biweekly) \n";
+	      		break;
+					case "men-html":
+	      		c_text = c_text + "Men in the Word (weekly) \n";
+	      		break;
+					case "parenting-html":
+	      		c_text = c_text + "MOMSense Newsletter (biweekly) \n";
+	      		break;
+					case "music-html":
+	      		c_text = c_text + "Music Connection (weekly) \n";
+	      		break;
+					case "outreach-html":
+	      		c_text = c_text + "Outreach & Evangelism Newsletter (biweekly) \n";
+	      		break;
+					case "ptaudio-html":
+	      		c_text = c_text + "Preaching Today Audio (monthly) \n";
+	      		break;
+					case "ptsermons":
+	      		c_text = c_text + "Preaching Today Sermons (weekly) \n";
+	      		break;
+					case "wiu-html":
+	      		c_text = c_text + "Preaching Connection (weekly) \n";
+	      		break;
+					case "singles-html":
+	      		c_text = c_text + "The Singles Channel Newsletter (weekly) \n";
+	      		break;
+					case "childrensministry-html":
+	      		c_text = c_text + "Today's Children's Ministry (monthly) \n";
+	      		break;
+					case "tctoolbox-html":
+	      		c_text = c_text + "Today's Christian Toolbox (bimonthly) \n";
+	      		break;
+					case "todayschristian-html":
+	      		c_text = c_text + "Today's Christian Weekly \n";
+	      		break;
+					case "women-html":
+	      		c_text = c_text + "Women's Connection (weekly) \n";
+	      		break;
+					case "yourchurch-html":
+	      		c_text = c_text + "Your Church (biweekly) \n";
+	      		break;
+					case "churchsafety-html":
+	      		c_text = c_text + "Your Church Safety Newsletter (monthly) \n";
+	      		break;
+	      }
+      }
+   }
+   
+   if (c_text != "") {
+	   s_email = document.subscribeform.email.value;
+	   subscribeform.checkedboxes.value = c_value;
+	   c_text = "The email address " + s_email + " has been subscribed to the following Newsletters:\n" + c_text;
+	   alert(c_text);
+	   return true;
+	} else {
+		c_text = "Please select at least one Newsletter";
+	  alert(c_text);
+	  return false;
+	}
 }
+	emailre = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
+	
+	function check_email(theForm){
+		if (emailre.test(theForm.email.value)) {
+			return true;
+		}				
+			alert("Please enter a valid Email address");
+			theForm.email.focus();
+			theForm.email.select();
+			return false;
+	}
+		
+//--></script><link rel="stylesheet" href="http://www.christianitytoday.com/global/globalie.css" type="text/css">
 
-//--></script>
-<!--End: global/globaljs.txt-->
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-172707-2";
+urchinTracker();
+</script>
 
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<link rel="P3Pv1" href="/w3c/p3p.xml">
 
+<!-- end: \global\globaljs.txt -->
 <link rel="stylesheet" href="/help/channel.css" type="text/css">
-
-<!--Begin: channeljs.txt-->
+<!-- begin: \help\channeljs.txt -->
 <script language="JavaScript" type="text/javascript"><!--
-
 /*
- * ALTERNATE CHANNEL STYLESHEETS
- */
+* ALTERNATE CHANNEL STYLESHEETS
+*/
 // Mac clients (except IE 5.0 and above)
-if ((PLATFORM.indexOf("mac") != -1) && ! (CLIENT != "netscape" && VERSION > 4))
-		document.write('<LINK REL="stylesheet" HREF="/help/channelmac.css" TYPE="text/css">');
-
+if ((PLATFORM.indexOf("mac") != -1) && ! (CLIENT != "netscape" && VERSION> 4))
+document.write('<link rel="stylesheet" href="/help/channelmac.css" type="text/css">');
 /*
- * CHANNEL EVENTS
- */
-function chanin() {
+* CHANNEL EVENTS
+*/
+function setClickPath() {
 }
-
+function chanin() {
+	if(typeof showAd != "undefined")
+	{
+		showAd();
+	}
+}
 function chanout() {
 }
-
 //--></script>
-<!--End: channeljs.txt-->
+<!-- end: \help\channeljs.txt -->
+</head><body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" class="bgback" onload="chanin();" onunload="chanout();"><a name="top" id="top"></a><!-- empty -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+<!-- begin: \global\aolhat.txt -->
 
+<!-- end: \global\aolhat.txt -->
+</td></tr><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="bgbanner"><tbody><tr><td><img src="/global/images/spacer.gif" width="15" height="98" alt=""></td><td align="center" valign="middle"><script language="javascript">var AAMB1 = "";</script><script src="http://adserver1.christianitytoday.com/bservers//pageid=314760822/acc_random=1755974697/AAMB1/site=help/area=feature/position=top_1/guid=000510E07B1F059140618DE261626364"></script><script>document.write(AAMB1);</script></td><td><img src="/global/images/spacer.gif" width="15" height="98" alt=""></td></tr></tbody></table></td></tr><tr><td><img src="/global/images/spacer.gif" width="620" height="1" alt=""></td></tr><tr><td>
+<!-- begin: \global\header.txt -->
 
-</head>
-<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" class="bgback" onload="chanin();" onunload="chanout();">
-<a name="top"></a>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td><script language="JavaScript" type="text/javascript"><!--
-if (AOLCLIENT) document.write (AOLNAV);
-// --></script></td>
-	</tr>
-	<tr>
-		<td>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bgbanner">
-			<tbody><tr>
-				<td><img src="/global/images/spacer.gif" width="51" height="70" alt=""></td>
-				<td align="CENTER" valign="MIDDLE"><!-- AdSpace site=help size=234x60 section=feature position=top_1 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=776&amp;RunID=165&amp;AdID=88&amp;TagValues=201.203.232.259&amp;FamilyID=22&amp;GroupID=284&amp;Redirect=http:%2F%2Fstore.yahoo.com%2Fcgi-bin%2Fclink%3Fcti+P4nfnv+teendevbib.html"><img src="/global/banners/234x60/teenbib234_4.gif" border="0" height="60" width="234" alt="Teens Devotional Bible"></a>
-<!-- /AdSpace --></td>
-				<td><img src="/global/images/spacer.gif" width="50" height="70" alt=""></td>
-				<td align="CENTER" valign="MIDDLE"><!-- AdSpace site=help size=234x60 section=feature position=top_2 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=777&amp;RunID=173&amp;AdID=196&amp;TagValues=201.204.232.259&amp;FamilyID=14&amp;GroupID=285&amp;Redirect=http:%2F%2Fwww.christianitytoday.com%2Fmagsubs%2Findex.taf%3F%3C@USERREFERENCEARGUMENT%3E%26_function%3Dstart%26cc%3Dm_webban"><img src="/global/banners/234x60/mpsub234_5.gif" border="0" height="60" width="234" alt="Subscribe to Marriage Partnership Magazine"></a>
-<!-- /AdSpace --></td>
-				<td><img src="/global/images/spacer.gif" width="51" height="70" alt=""></td>
-			</tr>
-		</tbody></table></td>
-	</tr>
-	<tr>
-		<td><img src="/global/images/spacer.gif" width="620" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td>
-<!--Begin: global/header.txt-->
 <script language="JavaScript" type="text/javascript"><!--
 for (i=1; i<12; i++) {
-   eval ("hdr_" + i + "_btn = new DynButton (\"hdr_" + i + "\", \"/global/images/hdr_" + i + "d.gif\", \"/global/images/hdr_" + i + "o.gif\");");
+eval ("hdr_" + i + "_btn = new DynButton (\"hdr_" + i + "\", \"/global/images/hdr_" + i + "d.gif\", \"/global/images/hdr_" + i + "o.gif\");");
 }
 // --></script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td colspan="11">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr><form></form>
-            <td valign="BOTTOM"><a href="/" onclick="return jump ('/');" target="_top"><img src="http://www.christianitytoday.com/global/images/ct-logo.gif" border="0" width="309" height="29" alt="ChristianityToday.com"></a></td>
-				<td align="RIGHT" valign="MIDDLE">
+<tbody><tr>
+<td colspan="11">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><form></form>
+<td valign="bottom"><a href="/" onclick="return jump ('/');" target="_top"><img src="http://www.christianitytoday.com/global/images/ct-logo.gif" border="0" width="309" height="29" alt="ChristianityToday.com"></a></td>
+<td align="right" valign="middle">
 <select size="1" name="header_select" onchange="jump (this.options[this.selectedIndex].value);" class="navform">
-<option value="0" selected="">Explore ChristianityToday.com:</option>
+<option value="0" selected="selected">Explore ChristianityToday.com:</option>
 <option value="0">&nbsp;</option>
 <option value="/">-Home Page</option>
-<option value="/search/">-Search</option>
 <option value="/ctmag/">-Christianity Today Magazine</option>
-<option value="/newsletter/">-Free! Newsletters and more!</option>
+<option value="/free/">-Free! Newsletters and more!</option>
 <option value="0">&nbsp;</option>
 <option value="/home/church.html">CHURCH/MINISTRY</option>
 <option value="/leaders/">-LeadershipJournal.net</option>
-<option value="http://www.preachingtoday.com/">-PreachingToday.com</option>
-<option value="/cbg/">-Church Buyers Guide</option>
-<option value="/churchlocator/">-Church Locator</option>
+<option value="/cbg/">-Church Products/Services</option>
+<option value="/bcl/">-BuildingChurchLeaders.com</option>
+<option value="http://ctlibrary.com/">-ChristianityTodayLibrary.com</option>
+<option value="http://churchsitecreator.com/">-ChurchSiteCreator.com</option>
+<option value="/conferences/">-Conferences</option>
+<option value="/smallgroups/">-Small Groups &amp; Leaders</option>
+<option value="/childrensministry/">-Children's Ministry</option>
+<option value="/outreach/">-Outreach &amp; Evangelism</option>
+<option value="/career/">-Jobs &amp; Careers</option>
 <option value="0">&nbsp;</option>
-<option value="/home/bible.html">BIBLE/LIFE</option>
+<option value="http://www.preachingtoday.com/">PREACHINGTODAY.COM</option>
+<option value="http://www.preachingtoday.com/">-Sermon Illustrations</option>
+<option value="http://preachingtodaysermons.com/">-Sermon Transcripts</option>
+<option value="http://store.yahoo.com/cti/preac.html">-Audio Tapes</option>
+<option value="0">&nbsp;</option>
+<option value="/home/schools.html">COLLEGE/SEMINARY</option>
+<option value="http://www.christiancollegeguide.net/">-Christian College Guide</option>
+<option value="http://www.seminarygradschool.com/">-Seminaries &amp; Grad Guide</option>
+<option value="0">&nbsp;</option>
+<option value="/home/bible.html">BIBLE</option>
+<option value="/biblestudies/">-Bible Studies</option>
 <option value="/bible/">-Bible &amp; Reference</option>
-<option value="/spiritual/">-Your Spiritual Life</option>
-<option value="/history/">-Christian History</option>
-<option value="/books/">-Books &amp; Culture</option>
+<option value="0">&nbsp;</option>
+<option value="/home/bible.html">CHRISTIAN LIFE</option>
+<option value="/todayschristian/">-Today's Christian</option>
+<option value="/history/">-Christian History &amp; Biography</option>
+<option value="/money/">-Money &amp; Faith</option>
+<option value="/workplace/">-Faith in the Workplace</option>
+<option value="/spiritualhelp/">-Spiritual Help</option>
+<option value="/international/">-Global Christianity</option>
 <option value="0">&nbsp;</option>
 <option value="/home/communities.html">COMMUNITIES</option>
 <option value="/women/">-Women</option>
+<option value="/men/">-Men</option>
 <option value="/marriage/">-Marriage</option>
 <option value="/parenting/">-Parenting</option>
-<option value="/men/">-Men</option>
 <option value="/singles/">-Singles</option>
-<option value="/seniors/">-Seniors</option>
 <option value="/teens/">-Teens</option>
 <option value="/kids/">-Kids</option>
 <option value="0">&nbsp;</option>
-<option value="/home/communities.html">PEOPLE/CHAT</option>
-<option value="javascript:goChat('/chat/','/aol/chat/');">-Chat &amp; Bible Study</option>
-<option value="javascript:goBoard('/','/aol/boards/');">-Message Boards</option>
-<option value="http://hometown.aol.com/cohometown/join.html">-Home Pages - Free</option>
-<option value="0">&nbsp;</option>
-<option value="/home/entertainment.html">ENTERTAINMENT</option>
+<option value="/home/entertainment.html">MEDIA GUIDE</option>
+<option value="/books/">-Books &amp; Culture</option>
+<option value="/movies/">-Movies</option>
 <option value="/music/">-Music</option>
-<option value="/fun/">-Fun &amp; Games</option>
-<option value="/ecards/">-E-cards - Free</option>
+<option value="/holidays/">-Holidays &amp; Hot Topics</option>
+<option value="/fun/">-Humor &amp; Fun</option>
 <option value="0">&nbsp;</option>
-<option value="/home/schools.html">SCHOOLS/JOBS</option>
-<option value="/homeschool/">-Home School Center</option>
-<option value="http://www.campuslifecollegeguide.com/">-Christian College Guide</option>
-<option value="http://www.seminarygradschool.com/">-Seminaries &amp; Grad Schools</option>
-<option value="/career/">-Jobs &amp; Career Center</option>
+<option value="0">INTERACT</option>
+<option value="/ecards/">-E-cards - Free!</option>
+<option value="javascript:goChat('/chat/','none');">-Chat &amp; Fellowship</option>
+<option value="javascript:goBoard('.ee85201','none');">-Message Boards</option>
 <option value="0">&nbsp;</option>
 <option value="/shopping/">SHOPPING</option>
+<option value="http://www.christianbook.com/html/static/home_page.html?p=1004344">-Books</option>
+<option value="http://www.christianbook.com/html/specialty/1002.html?p=1004381">-Music</option>
 <option value="http://store.yahoo.com/cgi-bin/clink?cti+45fnRS+index.html">-Our Store</option>
-<option value="http://www.worthy.net/cti/">-Books</option>
-<option value="http://www.musicforce.com/?ForceID=844">-Music</option>
-<option value="http://www.visionvideo.com/vv/home.asp?k=col">-Videos</option>
-<option value="http://www.besttoyou.com/">-Best to You Gifts</option>
-<script language="JavaScript" type="text/javascript"><!--
-if (AOLCLIENT) document.write('<OPTION VALUE="aol://4344:122.Cls.1245969.475708769/">-Classifieds</OPTION>');
-//--></script>
+<option value="http://www.christianbook.com/html/specialty/1007.html?p=1019310">-Videos</option>
+<option value="http://www.christianbook.com/Christian/Books/gift_home?p=1014770">-Gifts</option>
+<option value="http://store.yahoo.com/cgi-bin/clink?ctclassifieds+WjDUxz+index.html">-Classifieds</option>
+<option value="/singles/personals/">-Personals</option>
+<option value="/homeschool/">-Home School Center</option>
 <option value="0">&nbsp;</option>
 <option value="/shopping/">MAGAZINES</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=t_bump">-Christianity Today</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=b_bump">-Books &amp; Culture</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=c_bump">-Campus Life</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=h_bump">-Christian History</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=g_bump">-Christian Parenting Today</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=r_bump">-Christian Reader</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=l_bump">-Leadership</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=m_bump">-Marriage Partnership</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=i_bump">-Men of Integrity</option>
-<option value="/magsubs/index.taf?_function=start&amp;cc=w_bump">-Today's Christian Woman</option>
+<option value="https://w1.buysub.com/pubs/L2/TDY/TDY_RFTO.jsp?cds_page_id=25355&amp;cds_mag_code=TDY&amp;cds_response_key=I6U101">-Christianity Today</option>
+<option value="https://w1.buysub.com/pubs/L2/BAC/BAC_RFTO.jsp?cds_page_id=25769&amp;cds_mag_code=BAC&amp;cds_response_key=I6U101">-Books &amp; Culture</option>
+<option value="https://w1.buysub.com/pubs/L2/HIS/HIS_RFTO.jsp?cds_page_id=25655&amp;cds_mag_code=HIS&amp;cds_response_key=I6U101">-Christian History &amp; Biography</option>
+<option value="/dispatch.html?url=https://w1.buysub.com/pubs/L2/LIF/LIF_RFTO.jsp?cds_page_id=25767&amp;cds_mag_code=LIF &amp;cds_response_key=I6U101">-Ignite Your Faith</option>
+<option value="/dispatch.html?url=https://w1.buysub.com/pubs/L2/CGP/CGP_hard_offer.jsp?cds_page_id=26592&amp;id=1135805615360&amp;lsid=53621533353028440&amp;vid=1&amp;cds_response_key=I6H401&amp;cds_mag_code=CGP">-MOMsense</option>
+<option value="https://w1.buysub.com/pubs/L2/CHR/CHR_RFTO.jsp?cds_page_id=25651&amp;cds_mag_code=CHR&amp;cds_response_key=I6U101">-Today's Christian</option>
+<option value="https://w1.buysub.com/pubs/L2/LDS/LDS_RFTO.jsp?cds_page_id=25653&amp;cds_mag_code=LDS&amp;cds_response_key=I6U101">-Leadership</option>
+<option value="https://w1.buysub.com/pubs/L2/MGP/MGP_RFTO.jsp?cds_page_id=25656&amp;cds_mag_code=MGP&amp;cds_response_key=I6U101">-Marriage Partnership</option>
+<option value="https://w1.buysub.com/pubs/L2/MOI/MOI_RFTO.jsp?cds_page_id=25661&amp;cds_mag_code=MOI&amp;cds_response_key=I6U101">-Men of Integrity</option>
+<option value="https://w1.buysub.com/pubs/L2/TCW/TCW_RFTO.jsp?cds_page_id=24161&amp;cds_mag_code=TCW&amp;cds_response_key=I6U101">-Today's Christian Woman</option>
 <option value="/cbg/">-Your Church</option>
 <option value="0">&nbsp;</option>
-</select><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt=""></td>
-			</tr>
-		</tbody></table>
-	</td>
+</select></td>
+</tr>
+</tbody></table>
+</td>
 </tr>
 <tr class="bgtopnav">
-<td align="CENTER"><a href="/" onclick="return jump ('/');" onmouseover="if (hdr_1_btn) hdr_1_btn.over ();" onmouseout="if (hdr_1_btn) hdr_1_btn.out ();" target="_top"><img name="hdr_1" border="0" src="http://www.christianitytoday.com/global/images/hdr_1d.gif" width="41" height="17" alt="Home"></a></td>
-<td align="CENTER"><a href="/ctmag/" onclick="return jump ('/ctmag/');" onmouseover="if (hdr_2_btn) hdr_2_btn.over ();" onmouseout="if (hdr_2_btn) hdr_2_btn.out ();" target="_top"><img name="hdr_2" border="0" src="http://www.christianitytoday.com/global/images/hdr_2d.gif" width="47" height="17" alt="CT Mag"></a></td>
-<td align="CENTER"><a href="/home/church.html" onclick="return jump ('/home/church.html');" onmouseover="if (hdr_3_btn) hdr_3_btn.over ();" onmouseout="if (hdr_3_btn) hdr_3_btn.out ();" target="_top"><img name="hdr_3" border="0" src="http://www.christianitytoday.com/global/images/hdr_3d.gif" width="89" height="17" alt="Church/Ministry"></a></td>
-<td align="CENTER"><a href="/home/bible.html" onclick="return jump ('/home/bible.html');" onmouseover="if (hdr_4_btn) hdr_4_btn.over ();" onmouseout="if (hdr_4_btn) hdr_4_btn.out ();" target="_top"><img name="hdr_4" border="0" src="http://www.christianitytoday.com/global/images/hdr_4d.gif" width="56" height="17" alt="Bible/Life"></a></td>
-<td align="CENTER"><a href="/home/communities.html" onclick="return jump ('/home/communities.html');" onmouseover="if (hdr_5_btn) hdr_5_btn.over ();" onmouseout="if (hdr_5_btn) hdr_5_btn.out ();" target="_top"><img name="hdr_5" border="0" src="http://www.christianitytoday.com/global/images/hdr_5d.gif" width="73" height="17" alt="Communities"></a></td>
-<td align="CENTER"><a href="javascript:goChat('/chat/','/aol/chat/');" onclick="goChat('/chat/','/aol/chat/');" onmouseover="if (hdr_6_btn) hdr_6_btn.over ();" onmouseout="if (hdr_6_btn) hdr_6_btn.out ();" target="_top"><img name="hdr_6" border="0" src="http://www.christianitytoday.com/global/images/hdr_6d.gif" width="33" height="17" alt="Chat"></a></td>
-<td align="CENTER"><a href="/home/entertainment.html" onclick="return jump ('/home/entertainment.html');" onmouseover="if (hdr_7_btn) hdr_7_btn.over ();" onmouseout="if (hdr_7_btn) hdr_7_btn.out ();" target="_top"><img name="hdr_7" border="0" src="http://www.christianitytoday.com/global/images/hdr_7d.gif" width="77" height="17" alt="Entertainment"></a></td>
-<td align="CENTER"><a href="/home/schools.html" onclick="return jump ('/home/schools.html');" onmouseover="if (hdr_8_btn) hdr_8_btn.over ();" onmouseout="if (hdr_8_btn) hdr_8_btn.out ();" target="_top"><img name="hdr_8" border="0" src="http://www.christianitytoday.com/global/images/hdr_8d.gif" width="71" height="17" alt="Schools/Jobs"></a></td>
-<td align="CENTER"><a href="/shopping/" onclick="return jump ('/shopping/');" onmouseover="if (hdr_9_btn) hdr_9_btn.over ();" onmouseout="if (hdr_9_btn) hdr_9_btn.out ();" target="_top"><img name="hdr_9" border="0" src="http://www.christianitytoday.com/global/images/hdr_9d.gif" width="56" height="17" alt="Shopping"></a></td>
-<td align="CENTER"><a href="/newsletter/" onclick="return jump ('/newsletter/');" onmouseover="if (hdr_10_btn) hdr_10_btn.over ();" onmouseout="if (hdr_10_btn) hdr_10_btn.out ();" target="_top"><img name="hdr_10" border="0" src="http://www.christianitytoday.com/global/images/hdr_10d.gif" width="35" height="17" alt="Free!"></a></td>
-<td align="CENTER"><a href="/help/" onclick="return jump ('/help/');" onmouseover="if (hdr_11_btn) hdr_11_btn.over ();" onmouseout="if (hdr_11_btn) hdr_11_btn.out ();" target="_top"><img name="hdr_11" border="0" src="http://www.christianitytoday.com/global/images/hdr_11d.gif" width="33" height="17" alt="Help"></a></td>
+<td align="center"><a href="/" onclick="return jump ('/');" onmouseover="if (hdr_1_btn) hdr_1_btn.over ();" onmouseout="if (hdr_1_btn) hdr_1_btn.out ();" target="_top"><img name="hdr_1" border="0" src="http://www.christianitytoday.com/global/images/hdr_1d.gif" width="41" height="17" alt="Home"></a></td>
+<td align="center"><a href="/ct/" onclick="return jump ('/ctmag/');" onmouseover="if (hdr_2_btn) hdr_2_btn.over ();" onmouseout="if (hdr_2_btn) hdr_2_btn.out ();" target="_top"><img name="hdr_2" border="0" src="http://www.christianitytoday.com/global/images/hdr_2d.gif" width="47" height="17" alt="CT Mag"></a></td>
+<td align="center"><a href="/home/church.html" onclick="return jump ('/home/church.html');" onmouseover="if (hdr_3_btn) hdr_3_btn.over ();" onmouseout="if (hdr_3_btn) hdr_3_btn.out ();" target="_top"><img name="hdr_3" border="0" src="http://www.christianitytoday.com/global/images/hdr_3d.gif" width="89" height="17" alt="Church/Ministry"></a></td>
+<td align="center"><a href="/home/bible.html" onclick="return jump ('/home/bible.html');" onmouseover="if (hdr_4_btn) hdr_4_btn.over ();" onmouseout="if (hdr_4_btn) hdr_4_btn.out ();" target="_top"><img name="hdr_4" border="0" src="http://www.christianitytoday.com/global/images/hdr_4d.gif" width="56" height="17" alt="Bible/Life"></a></td>
+<td align="center"><a href="/home/communities.html" onclick="return jump ('/home/communities.html');" onmouseover="if (hdr_5_btn) hdr_5_btn.over ();" onmouseout="if (hdr_5_btn) hdr_5_btn.out ();" target="_top"><img name="hdr_5" border="0" src="http://www.christianitytoday.com/global/images/hdr_5d.gif" width="73" height="17" alt="Communities"></a></td>
+<td align="center"><a href="javascript:goChat('/chat/','none');" onclick="return goChat('/chat/','none');" onmouseover="if (hdr_6_btn) hdr_6_btn.over ();" onmouseout="if (hdr_6_btn) hdr_6_btn.out ();" target="_top"><img name="hdr_6" border="0" src="http://www.christianitytoday.com/global/images/hdr_6d.gif" width="33" height="17" alt="Chat"></a></td>
+<td align="center"><a href="/home/entertainment.html" onclick="return jump ('/home/entertainment.html');" onmouseover="if (hdr_7_btn) hdr_7_btn.over ();" onmouseout="if (hdr_7_btn) hdr_7_btn.out ();" target="_top"><img name="hdr_7" border="0" src="http://www.christianitytoday.com/global/images/hdr_7d.gif" width="77" height="17" alt="Entertainment"></a></td>
+<td align="center"><a href="/home/schools.html" onclick="return jump ('/home/schools.html');" onmouseover="if (hdr_8_btn) hdr_8_btn.over ();" onmouseout="if (hdr_8_btn) hdr_8_btn.out ();" target="_top"><img name="hdr_8" border="0" src="http://www.christianitytoday.com/global/images/hdr_8d.gif" width="71" height="17" alt="Schools/Jobs"></a></td>
+<td align="center"><a href="/shopping/" onclick="return jump ('/shopping/');" onmouseover="if (hdr_9_btn) hdr_9_btn.over ();" onmouseout="if (hdr_9_btn) hdr_9_btn.out ();" target="_top"><img name="hdr_9" border="0" src="http://www.christianitytoday.com/global/images/hdr_9d.gif" width="56" height="17" alt="Shopping"></a></td>
+<td align="center"><a href="/free/" onclick="return jump ('/free/');" onmouseover="if (hdr_10_btn) hdr_10_btn.over ();" onmouseout="if (hdr_10_btn) hdr_10_btn.out ();" target="_top"><img name="hdr_10" border="0" src="http://www.christianitytoday.com/global/images/hdr_10d.gif" width="35" height="17" alt="Free!"></a></td>
+<td align="center"><a href="/help/" onclick="return jump ('/help/');" onmouseover="if (hdr_11_btn) hdr_11_btn.over ();" onmouseout="if (hdr_11_btn) hdr_11_btn.out ();" target="_top"><img name="hdr_11" border="0" src="http://www.christianitytoday.com/global/images/hdr_11d.gif" width="33" height="17" alt="Help"></a></td>
 </tr>
 </tbody></table>
-<!--End: global/header.txt-->
 
-</td>
-	</tr>
-	<tr>
-		<td>
-<!--Begin: header.txt-->
+<!-- end: \global\header.txt -->
+</td></tr><tr><td>
+<!-- begin: \help\includes\header.txt -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" class="bgheader">
-	<tbody><tr>
-		<td align="LEFT"><a href="/help/"><img src="/help/images/header.gif" width="262" height="41" border="0" alt="Back to Help &amp; Info"></a></td>
-		<td align="RIGHT"><a href="/"><img src="/help/images/sponsor.gif" width="133" height="41" border="0" alt="a service of Christianity Today International"></a></td>
-	</tr>
-</tbody></table>
-<!--End: header.txt-->
-
-</td>
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td>
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td width="160" align="CENTER" valign="TOP" class="bgleftnav">
-<!--Begin: tabs.txt-->
-<table width="140" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td><!--<A HREF="/"><IMG SRC="/help/images/tab-.gif" WIDTH="50" HEIGHT="19" BORDER="0" ALT=""></A><A HREF="/"><IMG SRC="/help/images/tab-.gif" WIDTH="50" HEIGHT="19" BORDER="0" ALT=""></A>--></td>
-	</tr>
-</tbody></table>
-<!--End: tabs.txt-->
-
-</td>
-				<td width="15" align="LEFT" valign="TOP" class="bgdeck"><img src="/help/images/deckcorner.gif" width="14" height="31" alt=""></td>
-				<td align="LEFT" valign="MIDDLE" class="bgdeck"><img src="/global/images/spacer.gif" width="1" height="4" alt=""><br><span class="deck"><nobr><script language="JavaScript" type="text/javascript"><!--
-document.write (DECKTEXT);
-// --></script>Privacy Policy&nbsp;</nobr></span></td>
-				<td align="RIGHT" class="bgdeck">
-<!--Begin: menu.txt-->
-<span class="navmenu"><nobr><a href="/help/" class="navmenu">Main</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/features/contact.html" class="navmenu">Contact&nbsp;Us</a></nobr></span><img src="/global/images/spacer.gif" width="10" height="1" alt=" ">
-<!--End: menu.txt-->
-
-</td>
-			</tr>
-			<tr>
-				<td width="160" align="CENTER" valign="TOP" class="bgleftnav">
-				
-<!--Begin: search.txt-->
-<table width="140" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<form action="/cgi/texis.exe/index/search/" method="GET"></form>
-		<td><a href="/search/" class="navmain">Site Search</a><br>
-		<input type="text" name="query" size="11" value="enter here" class="navform" onfocus="this.value='';">
-		<input type="HIDDEN" name="db" value="db/full">
-		<input type="image" name="imageField" src="/help/images/gobutton.gif" width="20" height="20" border="0" alt="Go" align="ABSMIDDLE"><br><img src="/global/images/spacer.gif" width="1" height="3" alt=" "><br><a href="/search/" class="navtext">Go to other searches</a><br><img src="/global/images/spacer.gif" width="1" height="13" alt=" "></td>
-	
+<td align="left"><a href="/help/"><img src="/help/images/header.gif" width="262" height="41" border="0" alt="Back to Help &amp; Info"></a></td>
+<td align="right"><a href="/"><img src="/help/images/sponsor.gif" width="133" height="41" border="0" alt="a service of Christianity Today International"></a></td>
 </tr>
 </tbody></table>
-<!--End: search.txt-->
-
-
-				
-<!--Begin: navigation.txt-->
+<!-- end: \help\includes\header.txt -->
+</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="160" align="center" valign="top" class="bgleftnav">
+<!-- begin: \help\includes\tabs.txt -->
 <table width="140" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td><span class="navhead">Help &amp; Info</span><br>
-<a href="/help/features/jesus.html" class="navtext">Who Is Jesus?</a><br>
-<a href="/help/features/contact.html" class="navtext">How to Contact Us</a><br>
-<a href="/help/features/customer.html" class="navtext">Customer Help</a><br>
-<a href="/help/features/privacy.html" class="navtext">Privacy Policy</a><br>
+<td>
+<!--<a href="/"><img src="/help/images/tab-.gif" width="50" height="19" border="0" alt=""></a><a href="/"><img src="/help/images/tab-.gif" width="50" height="19" border="0" alt=""></a>-->
+</td>
+</tr>
+</tbody></table>
+<!-- end: \help\includes\tabs.txt -->
+</td><td width="15" align="left" valign="top" class="bgdeck"><img src="/help/images/deckcorner.gif" width="14" height="31" alt=""></td><td align="left" valign="middle" class="bgdeck"><img src="/global/images/spacer.gif" width="1" height="4" alt=""><br><span class="deck"><nobr><script language="JavaScript" type="text/javascript">
+            //
+            <!--
+            document.write (DECKTEXT);
+            // -->
+            //</script>Privacy Policy&nbsp;</nobr></span></td><td align="right" class="bgdeck">
+<!-- begin: \help\includes\menu.txt -->
+<span class="navmenu"><nobr><a href="/help/" class="navmenu">Main</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/features/contact.html" class="navmenu">Contact&nbsp;Us</a></nobr></span><img src="/global/images/spacer.gif" width="10" height="1" alt="">
+<!-- end: \help\includes\menu.txt -->
+</td></tr><tr><td width="160" align="center" valign="top" class="bgleftnav">
+<!-- begin: \help\includes\search.txt -->
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<form action="/search/" method="GET"></form>
+<td><span class="navmain">Site Search</span><br>
+<input type="text" name="query" size="11" value="enter here" class="navform" onfocus="this.value='';">
+<input type="image" name="imageField" src="/help/images/gobutton.gif" width="20" height="20" border="0" alt="Go" align="absmiddle"><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
+
+</tr>
+</tbody></table>
+<!-- end: \help\includes\search.txt -->
+
+<!-- begin: \help\includes\navigation.txt -->
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><span class="navhead">Spiritual Help</span><br>
+<a href="http://www.billygraham.org/SpiritualHelp_Index.asp" class="navtext">Ask Billy Graham</a><br>
+<a href="/spiritualhelp/" class="navtext">Spiritual Help</a><br>
+<a href="http://www.needhim.org/" class="navtext">Why Am I Here?</a><br>
+<img src="/global/images/spacer.gif" width="1" height="13" alt=""><br>
+<span class="navhead">Christianity<br>&nbsp;&nbsp;Today.com</span><br>
+<a href="/help/features/faq.html" class="navtext">FAQ</a><br>
+<a href="/help/features/rss.html" class="navtext">RSS</a><br>
+<a href="/help/features/staff.html" class="navtext">Internet Staff</a><br>
+<a href="/free/features/freegraphics.html" class="navtext">Link to Us</a><br>
 <a href="/kids/features/parents.html" class="navtext">Note to Parents</a><br>
-<a href="/help/features/link.html" class="navtext">Link to Us</a><br>
-<a href="/help/features/awards.html" class="navtext">Our Awards</a><br>
-<a href="/help/features/advertise.html" class="navtext">Advertise With Us</a><br>
-<a href="/help/features/mission.html" class="navtext">Online Mission</a><br>
-<a href="/help/features/staff.html" class="navtext">Online Staff</a><br>
-<a href="/help/features/cti.html" class="navtext">Who We Are</a><br>
+<a href="/help/features/mission.html" class="navtext">Internet Mission</a><br>
+<a href="/help/media/awards.html" class="navtext">Our Awards</a><br>
+<a href="/help/features/privacy.html" class="navtext">Privacy Policy</a><br>
+<a href="/help/features/anniversary.html" class="navtext">Site History</a><br>
+<!--<a href="/help/features/sethomepage.html" class="navtext">Make Us Your Home Page!</a><br />-->
+<img src="/global/images/spacer.gif" width="1" height="13" alt=""><br>
+<span class="navhead">Christianity Today<br>&nbsp;&nbsp;International</span><br>
+<a href="http://cticlassifieds.com/cgi-bin/clink?ctclassifieds+ynqX3v+chtoin.html" class="navtext">Job Openings</a><br>
+<a href="/help/features/ctimission.html" class="navtext">CTI Mission</a><br>
 <a href="/help/features/faith.html" class="navtext">What We Believe</a><br>
-<a href="/help/features/openings.html" class="navtext">Job Openings</a><br>
-<a href="/help/features/formerlyco.html" class="navtext">Formerly CO</a><br>
-<img src="/global/images/spacer.gif" width="1" height="9" alt=" "><br>
+<a href="/help/features/cti.html" class="navtext">Who We Are</a><br>
+<a href="/help/media/pressreleases.html" class="navtext">Press Releases</a><br>
+<img src="/global/images/spacer.gif" width="1" height="13" alt=""><br>
+<a href="/help/features/contact.html" class="navhead">How to Contact Us</a><br>
+<a href="http://www.cti-advertising.com/" class="navtext">Advertising</a><br>
+<a href="/help/features/contact.html#online" class="navtext">Channels &amp; Services</a><br>
+<a href="/help/features/cti.html" class="navtext">Corporate Headquarters</a><br>
+<a href="/help/features/contact.html#editorial" class="navtext">Editorial Offices</a><br>
+<a href="http://cticlassifieds.com/cgi-bin/clink?ctclassifieds+ynqX3v+christianity.html" class="navtext">Employment Office</a><br>
+<a href="/help/media/" class="navtext">Media Contact/Publicity</a><br>
+<a href="/help/features/webmaster.html" class="navtext">Questions/Comments</a><br>
+<img src="/global/images/spacer.gif" width="1" height="13" alt=""><br>
+<span class="navhead">Customer Care</span><br>
+<a href="/help/features/contact.html#mag" class="navtext">Magazine Subscribers</a><br>
+<a href="/help/features/contact.html#shopping" class="navtext">Shopping Customers</a><br>
+<img src="/global/images/spacer.gif" width="1" height="9" alt=""><br>
 </td>
 </tr>
 </tbody></table>
-<!--End: navigation.txt-->
+<!-- end: \help\includes\navigation.txt -->
 
-
-				
+<!-- begin: \help\includes\channav1.txt -->
 <!--Empty: channav1.txt-->
+<!-- end: \help\includes\channav1.txt -->
 
+<!-- begin: \global\sitenav1.txt -->
 
-				
-<!--Empty: global/sitenav1.txt-->
-
-
-				
-<!--Begin: related.txt-->
 <table width="140" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td><!--<SPAN CLASS="navhead">Related Channels</SPAN><BR><A HREF="/" CLASS="navtext">Channel</A><BR>--><img src="/global/images/spacer.gif" width="1" height="13" alt=" "></td>
+<td class="bgdivider" colspan="2"><img src="/global/images/spacer.gif" width="1" height="1" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td>
+</tr>
+
+<tr><td><img src="/global/images/spacer.gif" width="15" height="1" alt=""></td>
+<td><img src="/global/images/spacer.gif" width="1" height="8" alt=""><a href="/holidays/" class="navmini">HOLIDAYS &amp; EVENTS</a><br>
+<!--<span class="navlink">&#149; </span><a href="/holidays/bhmonth/" onclick="return jump ('/holidays/bhmonth/');" class="navlink">Black History Month</a><br />
+<span class="navlink">&#149; </span><a href="/holidays/valentines/" onclick="return jump ('/holidays/valentines/');" class="navlink">Valentines Day</a><br />
+<span class="navlink">&#149; </span><a href="/holidays/stpatricks/" onclick="return jump ('/holidays/stpatricks/');" class="navlink">St. Patrick's Day</a><br />
+<span class="navlink">&#149; </span><a href="/holidays/graduation/" onclick="return jump ('/holidays/graduation/');" class="navlink">Graduation</a><br />-->
+<span class="navlink">• </span><a href="/anniversary/" onclick="return jump ('/anniversary/');" class="navlink">CTI Celebrates 50 Years!</a><br>
+
+<img src="/global/images/spacer.gif" width="1" height="15" alt="">
+
+<a href="/ct/features/index/hotissues/" class="navmini">HOT ISSUES:</a><br>
+<span class="navlink">• </span><a href="/ct/special/christiansoldiers.html" onclick="return jump ('/ct/special/lebanon.html');" class="navlink">Israel-Lebanon Conflict</a><br>
+<!--<span class="navlink">&#149; </span><a href="/ct/special/katrina.html" onclick="return jump ('/ct/special/katrina.html');" class="navlink">Katrina Relief</a><br>
+<span class="navlink">&#149; </span><a href="/ct/special/pledge.html" onclick="return jump ('/ct/special/pledge.html');" class="navlink">Pledge of Allegiance</i></a><br>
+<span class="navlink">&#149; </span><a href="/ct/special/samesexmarriage.html" onclick="return jump ('/ct/special/samesexmarriage.html');" class="navlink">Gay Marriage</i></a><br>
+<span class="navlink">&#149; </span><a href="/ct/2005/006/16.30.html" onclick="return jump ('/ct/2005/006/16.30.html');" class="navlink">CTmag 2005 Book Awards</a><br>-->
+<img src="/global/images/spacer.gif" width="1" height="8" alt=""></td>
+</tr>
+
+<tr>
+<td class="bgdivider" colspan="2"><img src="/global/images/spacer.gif" width="1" height="1" alt=""></td>
+</tr>
+
+<tr>
+<td colspan="2"><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
 </tr>
 </tbody></table>
-<!--End: related.txt-->
 
+<!-- end: \global\sitenav1.txt -->
 
-				
+<!-- begin: \help\includes\related.txt -->
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><!--<span class="navhead">Related Channels</span><br /><a href="/" class="navtext">Channel</a><br />--><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
+</tr>
+</tbody></table>
+<!-- end: \help\includes\related.txt -->
+
+<!-- begin: \help\includes\channav2.txt -->
 <!--Empty: channav2.txt-->
+<!-- end: \help\includes\channav2.txt -->
 
+<!-- begin: \global\sitenav2.txt -->
 
-				
-<!--Empty: global/sitenav2.txt-->
+<!--Empty -->
 
+<!-- end: \global\sitenav2.txt -->
+<img src="/global/images/spacer.gif" width="160" height="1" alt=""></td><td><img src="/global/images/spacer.gif" width="15" height="1" alt=""></td><td valign="top" colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><img src="/global/images/spacer.gif" height="8" width="270" alt=""><br><!--Begin: Modify Content-->
 
-				<img src="/global/images/spacer.gif" width="160" height="1" alt=""></td>
-				<td><img src="/global/images/spacer.gif" width="15" height="1" alt=""></td>
-				<td valign="TOP" colspan="2">
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr>
-						<td valign="TOP"><img src="/global/images/spacer.gif" height="8" width="270" alt=""><br>
-
-
-
-
-<!--Begin: Modify Content-->
-
-<!--Begin: Breadcrumb-->
+<!-- begin: \help\features\privacy-crumb.txt -->
 <span class="featcrumb"><a href="/" class="featcrumb">Home</a> &gt; <a href="/help/" class="featcrumb">Help &amp; Info</a> &gt; <a href="/help/features/privacy.html" class="featcrumb">Privacy Policy</a></span>
-<!--End: Breadcrumb-->
-
+<!-- end: \help\features\privacy-crumb.txt -->
 <br>
-<!-- Privacy Policy -->
+<!-- begin: \help\features\privacy.txt -->
+<p class="feattitle">Privacy Policy</p>
 
-<p class="arttext">Because protecting your privacy is very important to us at ChristianityToday.com (a service of Christianity Today International), we have established a policy to safeguard your personal information, and we are committed to protecting its confidentiality. Our Internet sites collect no personally identifiable information about you except when you specifically and knowingly provide such information.</p>
+<div align="center" class="feattext2"><a href="#security" class="feattext2">Our Commitment to Security</a> | <a href="#collect" class="feattext2">Information We Collect</a><br><a href="#use" class="feattext2">How We Use This Information</a> | <a href="#children" class="feattext2">Information for Children and Parents</a><br><a href="#update" class="feattext2">How to Update Your Information</a> | <a href="#california" class="feattext2">Your California Privacy Rights</a></div>
 
-<p class="arttext"><span class="arthead">E-mail Addresses</span><br>
-When you provide us your e-mail address we will not rent, sell, or exchange your e-mail address with a third party for any purpose. You may unsubscribe to any one of our e-mail newsletters by following the unsubscribe information found at the end of each newsletter.</p> 
+<p class="feattext">Thank you for visiting a website of Christianity Today International (CTI). Protecting your privacy is very important to us. To assure you of your privacy, we provide this notice to help you understand our commitment to security, what kinds of information we may gather about you when you visit the site, how we may use that information, and how you can correct the information.</p>
 
-<p class="arttext">We will occasionally try to contact you regarding special offers and promotions for CTI resources that we think you would find valuable. You may request to no longer receive special e-mail offers from use by following the opt-out instructions found in any offer.</p>
+<a name="security"></a>
+<p class="arthead">Our Commitment to Security</p>
 
-<p class="arttext">Sporadically, we may also attempt to collect demographic data from you (e.g., job title, age, etc.). This information is used by our editors to better understand our visitors, and by our advertisers to target their advertisements. It is not required and should be submitted at your discretion.</p>
+<p class="feattext"><span class="feattitle2">Safeguards</span><br>
+We have appropriate physical, electronic, and procedural safeguards in place in our physical facilities to help protect against the loss, misuse, or alteration of any information you may have provided at our site. We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.</p>
 
-<p class="arttext"><span class="arthead">Requests for Magazines, Products or Services</span><br>
-When you request a magazine, product or service from us, we need to collect and store your name, address, and other basic personally identifiable information to provide you with the requested product or service and for billing purposes. Collecting your name and address will also enable us to offer you, by direct mail, products from Christianity Today International and other select sources that we think would be of interest to you. After receiving the product or service requested, you may "opt-out" of receiving these direct mail offers by sending an e-mail stating your request to opt-out along with your complete name, mailing address, and the name of the Christianity Today International magazine, product, or service you receive to <a href="mailto:CTIFulfill@christianitytoday.com" class="artemail">CTIFulfill@ChristianityToday.com</a>. This information is necessary so we can accurately process your request.</p> 
+<p class="feattext"><span class="feattitle2">Credit Card Safety</span><br>
+Ordering online with us is a secure transaction. All online transactions in CTI's online stores are handled with industry-standard SSL encryption. This means that when you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, and then decoded when it gets to us.</p>
 
-<p class="arttext">Your e-mail address will be obtained during the online ordering process for the purpose of corresponding with you about your purchase and to occasionally notify you of additional online shopping opportunities. You may opt-out of receiving any subsequent shopping opportunities by following the unsubscribe information found in each e-mail announcement. Again, we will not rent, sell, or exchange your e-mail address with a third party for any purpose.</p> 
+<p class="feattext"><span class="feattitle2">E-mail Addresses</span><br>
+When you provide CTI with your e-mail address, we will use it only for the purpose for which it was provided. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as required by law (see "Other Entities" section below).</p>
 
-<p class="arttext"><span class="arthead">Credit Card Safety</span><br>
-Ordering online with us is a secure transaction. All online transactions in the ChristianityToday.com Store are handled with industry-standard SSL encryption. This means that when you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it gets to us.</p>
+<a name="collect"></a>
+<p class="arthead">Information We Collect</p>
 
-<p class="arttext"><span class="arthead">Kids and Teens</span><br>
-Be sure to ask your parents for permission before you send us any information about yourself. Do not post your full name, address, phone number, or school name on any message board or in any chat room.</p> 
+<p class="feattext"><span class="feattitle2">Automatically Collected Anonymous Information</span><br>
+When you visit a CTI website, certain anonymous information about your visit is automatically logged as it is at most websites, which may include information about your IP address, domain name, browser type, access time, and referring website address. This information is not personally identifiable and is only used in aggregate (not in any way that personally identifies you).</p>
 
-<p class="arttext"><span class="arthead">Parents</span><br>
-Any information collected by ChristianityToday.com from children under 18 is used only for the purpose of delivering the requested product or service. This information will not be shared with a third party for any reason.</p> 
+<p class="feattext"><span class="feattitle2">Personally Identifiable Information</span><br>
+Personally Identifiable Information is any information about you as an individual that would enable someone to contact you; for example, your name, address, telephone number, or e-mail address.</p>
 
-<p class="arttext"><span class="arthead">Other Entities</span><br>
-Companies that are independent from Christianity Today International operate many of the online areas that you visit via links from ChristianityToday.com. Although Christianity Today International will seek to require that these independent companies (e.g., information providers, including advertisers and merchants) adhere to our strong privacy principles, Christianity Today International does not bear responsibility for their policies or actions.</p>
+<p class="feattext">CTI will not collect any personally identifiable information about you unless you provide it. Providing any personally identifiable information to CTI is voluntary. If you do not want CTI to obtain any personally identifiable information about you, do not submit it.</p>
 
-<p class="arttext">Christianity Today International reserves the right to cooperate with law enforcement officials in the investigation of alleged unlawful activities of our customers related to electronic communication transmitted on our site. Christianity Today International will have no legal liability for such disclosures.</p>
-<br>
-<!--End: Modify Content-->
+<a name="use"></a>
+<p class="arthead">How We Use This Information</p>
+
+<p class="feattext">We will use your information only as permitted by law. Aggregated information may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.</p>
+
+<p class="feattext">Personally identifiable information will be used for the purposes for which it was given. We also may use it to notify you about updates to our website and to contact you for marketing purposes.</p>
+
+<p class="feattext">You can visit and browse CTI's websites without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself for the purposes described below.</p>
+
+<p class="feattext"><span class="feattitle2">E-mail Newsletters</span><br>
+When you request a free e-mail newsletter from us, we will collect and store your e-mail address to provide you with the requested newsletter. We may also send you occasional special offers and information from CTI and other select sources we think would be of interest to you. You may change your subscribed e-mail address, opt-out of receiving special e-mailed offers, or remove yourself from any mailing list by following the instructions contained in every newsletter. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as required by law (see "Other Entities" section below).</p>
+
+<p class="feattext"><span class="feattitle2">Requests for Magazines, Products or Services</span><br>
+When you request a magazine, product, or service from us, we will collect and store your name, address, credit card number, and other basic personally identifiable information to provide you with the requested product or service and for billing purposes. We may also offer you, by direct mail, products from CTI and other select sources we think would be of interest to you.</p>
+
+<p class="feattext">Your e-mail address will also be obtained during the online ordering process for the purpose of corresponding with you about your purchase and to occasionally notify you of additional online shopping opportunities. You may opt-out of receiving any subsequent shopping opportunities by following the unsubscribe information found in each e-mail announcement. Again, we will not rent, sell, or exchange your e-mail address with a third party for any purpose except to provide the services you request or as required by law.</p>
+
+<p class="feattext"><span class="feattitle2">Third Party Direct Marketing</span><br> 
+We occasionally rent our customer list (not including e-mail addresses) to other organizations to offer you products that may be of interest to you by direct mail.</p>
+
+<p class="feattext"><i>Opting Out of Third Party Direct Marketing:</i> After receiving the product or service requested, you may "opt-out" of receiving Third Party Direct Marketing offers by sending an e-mail stating your request to opt-out along with your complete name, mailing address, and the name of the CTI magazine, product, or service you have received. This information is necessary so we can accurately process your request.</p>
 
 
+<ul class="feattext">
+<li>Magazines: <a href="mailto:CTIFulfill@ChristianityToday.com" class="feattext">CTIFulfill@ChristianityToday.com</a></li>
+<li>Products &amp; Services: <a href="mailto:store@ChristianityToday.com" class="feattext">Store@ChristianityToday.com</a></li>
+</ul>
 
 
-<br><br><script language="JavaScript" type="text/javascript"><!--
-pageUtilities();
-// --></script><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:emailOpen();"><img src="http://www.christianitytoday.com/global/images/email.gif" width="20" height="20" border="0" alt="E-mail this page"></a></td><td><a href="javascript:emailOpen();" class="pageutility">E-mail this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');"><img src="http://www.christianitytoday.com/global/images/bookmark.gif" width="20" height="20" border="0" alt="Bookmark this page"></a></td><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');" class="pageutility">Bookmark this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="https://web.archive.org/web/20010604154747id_/http%3A//www.christianitytoday.com/help/features/privacy.html#top"><img src="http://www.christianitytoday.com/global/images/backtotop.gif" width="20" height="20" border="0" alt="Back to top…"></a></td><td><a href="https://web.archive.org/web/20010604154747id_/http%3A//www.christianitytoday.com/help/features/privacy.html#top" class="pageutility">Back to top</a></td></tr></tbody></table><br><br><br></td>
-						<td><img src="/global/images/spacer.gif" width="15" height="1" alt=""></td>
-						<td width="160" align="RIGHT" valign="TOP">
-						<table width="160" border="0" cellspacing="0" cellpadding="0" class="bgrightnav">
-							<tbody><tr>
-								<td><img src="/global/images/spacer.gif" width="160" height="5" alt=""></td>
-							</tr>
-							<tr>
-								<td align="CENTER" valign="TOP">
-								
-<!--SSI: global/sitenav3.txt-->
+<p class="feattext"><span class="feattitle2">Chat and Message Boards</span><br>
+We collect the e-mail addresses of those who register for our chat and message boards to activate and manage their registrations. Subscribers' e-mail addresses automatically become accessible to message board visitors as a standard feature of the WebCrossing software. If you prefer not to have your e-mail publicly available, log-in as soon as you confirm your registration and click the "Preferences" button to change or delete your e-mail address.</p>
+
+<p class="feattext"><span class="feattitle2">Surveys</span><br>
+CTI occasionally conducts reader surveys to better target content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share with any third party information collected via surveys about specific individuals.</p>
+
+<p class="feattext"><span class="feattitle2">Contests and Sweepstakes</span><br>
+CTI occasionally offers contests and sweepstakes. These contests and sweepstakes are conducted in full accordance with federal and state laws. The full rules for our contests are clearly posted during each event. Information gathered is used by CTI only to verify user identity and to contact winners and/or prize recipients.</p>
+
+<p class="feattext">CTI occasionally may offer contests or sweepstakes that are sponsored by or co-sponsored with third parties as identified in the contest or sweepstakes' Official Rules. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest or sweepstakes. CTI has no control over the third-party sponsors' use of this information.</p>
+
+<p class="feattext"><span class="feattitle2">Other Services</span><br>
+CTI offers free services such as "e-mail this page" and e-cards. We collect the domain name, e-mail address, and name of visitors who choose to use these services in order to fulfill their requests. We also collect the e-mail addresses and names of the people to whom our visitors choose to send pages or e-cards in order to enable our visitors to send the pages and e-cards they have chosen and for no other purpose.</p>
+
+<p class="feattext"><span class="feattitle2">Other Entities</span><br>
+Companies that are independent from CTI operate many of the online areas that you may visit via links from ChristianityToday.com. Although CTI will seek to require that these independent companies (e.g., information and paid subscription service providers, advertisers, merchants, and contest or sweepstakes sponsors) adhere to our strong privacy principles, CTI does not bear responsibility for their policies or actions. Please read their unique site privacy policies.</p>
+
+<p class="feattext">Certain CTI Internet services are co-branded (such as ChurchSiteCreator.com) and offered in conjunction with another company. If you register to use such services, both CTI and the other company may receive the information you provide.</p>
+
+<p class="feattext">Many CTI online stores are hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you access one of these stores through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the <a href="http://privacy.yahoo.com/privacy/us/" class="feattext" target="_blank">Yahoo! Privacy Policy</a> for more information about how Yahoo! uses this information.</p>
+
+<p class="feattext">CTI reserves the right to cooperate with law enforcement officials in the investigation of alleged unlawful activities of our customers related to electronic communication transmitted on our site. CTI will have no legal liability for such disclosures.</p>
+ 
+<p class="feattext"><span class="feattitle2">Cookies</span><br>
+Cookies are a technology that helps us serve you better. Our cookies collect no personally identifiable information. We use cookies to help us know when and how many people visit our site; to store your personal preferences for paid online subscription services you may subscribe to, in order to provide you with the best experience possible; to ensure that visitors are not repeatedly sent the same pop-up ads; and to record session information, such as items that consumers add to their shopping cart.</p>
+
+<a name="children"></a>
+<p class="arthead">Information for Children and Parents</p>
+
+<p class="feattext"><span class="feattitle2">Kids and Teens</span><br>
+Be sure to ask your parents for permission before sending us any information about yourself. <b><i>If you are under 18, you must have your parents' or guardian's permission to order any products or services from us.</i></b> If you are under the age of 13, do not use our chat and message boards. If you are between the ages of 13 and 18, you may use our Teen message boards, but never post your full name, address, phone number, or school name on any message board or in any chat room.</p>
+
+<p class="feattext"><span class="feattitle2">Parents</span><br>
+CTI's Internet sites are general audience sites, and CTI does not knowingly collect personally identifiable information from children under the age of 13. Any information collected online by CTI from children under 18 is used only for the purpose of delivering the requested product or service. Please instruct your children to ask you for permission before providing any information about themselves to CTI, and visit the <a href="http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html" class="feattext" target="_blank">Federal Trade Commission website</a> for more information about safe Web surfing.</p>
+
+<a name="update"></a>
+<p class="arthead">How to Update Your Information</p>
+
+<p class="feattext"><span class="feattitle2">E-mail Newsletters</span><br>
+You may subscribe and unsubscribe to our newsletters by going to <a href="http://www.christianitytoday.com/go/nltool" class="feattext">www.ChristianityToday.com/go/nltool</a>. In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.</p>
+
+<p class="feattext"><span class="feattitle2">Magazines, Products or Services</span><br>
+Upon request, we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Choose an option below:</p>
+
+<ul class="feattext">
+<li>Magazines: go to <a href="/help/features/contact.html#mag" class="feattext">this page</a> and click on the appropriate magazine</li>
+<li>Products &amp; Services: send your request to <a href="mailto:Store@ChristianityToday.com" class="feattext">Store@ChristianityToday.com</a></li>
+<li>PreachingToday.com: <a href="http://www.preachingtoday.com/help/contactus.html" class="feattext">click here</a> to send your request</li>
+<li>ChristianityTodayLibrary.com: <a href="http://ctlibrary.com/help/contact.html" class="feattext">click here</a> to send your request</li>
+<li>ChurchSiteCreator.com: <a href="http://churchsitecreator.com/templates/cuscti/details.asp?id=27256&amp;PG=Contact" class="feattext">click here</a> to send your request</li>
+<li>ChurchLawToday.com: <a href="http://www.churchlawtoday.com/contact.php" class="feattext">click here</a> to send your request</li>
+<li>ReducingTheRisk.com: <a href="http://www.reducingtherisk.com/contact.php" class="feattext">click here</a> to send your request</li>
+
+</ul>
+
+<a name="california"></a>
+<p class="feattext"><span class="feattitle2">Your California Privacy Rights</span><br> 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CTI (1) to enable its customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes or (2) to offer the opportunity for customers to opt out of having their personal information disclosed to third parties for the third parties' direct marketing purposes. We have always offered the second option, as described above in the "Third Party Direct Marketing" section. If you prefer not to receive such direct marketing offers, please feel free to make your request known as explained above.</p>
+
+
+<p class="feattext"><span class="feattitle2">Updates to Privacy Policy</span><br>
+From time to time, we may update this privacy notice. Please check this page periodically for changes. We will notify you about any changes in the way we treat personally identifiable information by placing a notice on our site.</p>
+
+<p class="feattext">The Privacy Policy posted on this site was updated on or about April 4, 2006.</p>
+
+<p class="feattext">CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to <a href="/help/features/webmaster.html" class="feattext">contact us</a>.</p>
+<!-- end: \help\features\privacy.txt -->
+<br><!--End: Modify Content-->
+<br><br><script language="JavaScript" type="text/javascript">
+                    //
+                    <!--
+                    pageUtilities();
+                    // -->
+                    //</script><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:emailOpen();"><img src="http://www.christianitytoday.com/global/images/email.gif" width="20" height="20" border="0" alt="E-mail this page"></a></td><td><a href="javascript:emailOpen();" class="pageutility">E-mail this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');"><img src="http://www.christianitytoday.com/global/images/bookmark.gif" width="20" height="20" border="0" alt="Bookmark this page"></a></td><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');" class="pageutility">Bookmark this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.christianitytoday.com/help/features/rss.html"><img src="http://www.christianitytoday.com/global/images/rss.gif" width="20" height="20" border="0" alt="RSS Feeds"></a></td><td><a href="http://www.christianitytoday.com/help/features/rss.html" class="pageutility">RSS Feeds</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="https://web.archive.org/web/20061226211034id_/http://www.christianitytoday.com/help/features/privacy.html#top"><img src="http://www.christianitytoday.com/global/images/backtotop.gif" width="20" height="20" border="0" alt="Back to top … "></a></td><td><a href="https://web.archive.org/web/20061226211034id_/http://www.christianitytoday.com/help/features/privacy.html#top" class="pageutility">Back to top</a></td></tr></tbody></table><br><br><br></td><td><img src="/global/images/spacer.gif" width="15" height="1" alt=""></td><td width="160" align="right" valign="top"><table width="160" border="0" cellspacing="0" cellpadding="0" class="bgrightnav"><tbody><tr><td><img src="/global/images/spacer.gif" width="160" height="5" alt=""></td></tr><tr><td align="center" valign="top">
+<!-- begin: \global\navutil.txt -->
 
 <table width="140" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td><img src="/global/images/spacer.gif" width="1" height="5" alt=""><br><script language="JavaScript" type="text/javascript"><!--
+<td><img src="/global/images/spacer.gif" width="1" height="5" alt=""><script language="JavaScript" type="text/javascript"><!--
 navUtilities();
-// --></script><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:emailOpen();"><img src="http://www.christianitytoday.com/global/images/email.gif" width="20" height="20" border="0" alt="E-mail this page"></a></td><td><a href="javascript:emailOpen();" class="pageutility">E-mail this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');"><img src="http://www.christianitytoday.com/global/images/bookmark.gif" width="20" height="20" border="0" alt="Bookmark this page"></a></td><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');" class="pageutility">Bookmark this page</a></td></tr></tbody></table><img src="/global/images/spacer.gif" width="1" height="13" alt=""><br><span class="navmini">ON OTHER CHANNELS:</span><br><span class="navlink">• </span><a href="/holidays/father/" onclick="return jump ('/holidays/father/');" class="navlink">Father's Day</a><br><span class="navlink">• </span><a href="/holidays/graduation/" onclick="return jump ('/holidays/graduation/');" class="navlink">Graduation</a><br><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
+// --></script><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:emailOpen();"><img src="http://www.christianitytoday.com/global/images/email.gif" width="20" height="20" border="0" alt="E-mail this page"></a></td><td><a href="javascript:emailOpen();" class="pageutility">E-mail this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');"><img src="http://www.christianitytoday.com/global/images/bookmark.gif" width="20" height="20" border="0" alt="Bookmark this page"></a></td><td><a href="javascript:alert('Click on &quot;OK&quot;, then type CTRL-D to add this page to your list of bookmarks.');" class="pageutility">Bookmark this page</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="javascript:printOpen();"><img src="http://www.christianitytoday.com/global/images/printer.gif" width="20" height="20" border="0" alt="Printer version"></a></td><td><a href="javascript:printOpen();" class="pageutility">Printer version</a></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.christianitytoday.com/help/features/rss.html"><img src="http://www.christianitytoday.com/global/images/rss.gif" width="20" height="20" border="0" alt="RSS Feeds"></a></td><td><a href="http://www.christianitytoday.com/help/features/rss.html" class="pageutility">RSS Feeds</a></td></tr></tbody></table><img src="/global/images/spacer.gif" width="1" height="9" alt=""></td>
 </tr>
+
 <tr>
-	<td class="bgdivider"><img src="/global/images/spacer.gif" width="1" height="1" alt=""></td>
+<td class="bgdivider"><img src="/global/images/spacer.gif" width="1" height="1" alt=""></td>
 </tr>
+
 <tr>
-	<td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
+<td><img src="/global/images/spacer.gif" width="1" height="9" alt=""></td>
 </tr>
 </tbody></table>
-								
-<!--Empty: channav3.txt-->
 
-								
-<!--Begin: subscription.txt-->
+<!-- end: \global\navutil.txt -->
+
+<!-- begin: \global\sitenav3.txt -->
+
+<!--This content is now in \global\sitenav1.txt-->
+
+<!-- end: \global\sitenav3.txt -->
+
+<!-- begin: \help\includes\channav3.txt -->
+<!-- end: \help\includes\channav3.txt -->
+
+<!-- begin: \help\includes\subscription.txt -->
+
+<table width="140" border="0" cellspacing="0" cellpadding="1" class="bgheader">
+<tbody><tr><td style="font: bold 7pt Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF" align="center">SUBSCRIBE!</td></tr>
+<tr><td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bgback">
+<tbody><tr>
+<td align="center"><img src="/global/images/spacer.gif" width="1" height="2" alt=""><br><span class="navlink">News and Commentary from a Biblical Perspective</span><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><a href="https://w1.buysub.com/pubs/L2/TDY/TDY_RFTO.jsp?cds_page_id=25355&amp;cds_mag_code=TDY&amp;cds_response_key=I6H401"><img src="/global/magimages/ct-lg.gif" width="120" height="160" border="0" alt="Subscribe to Christianity Today"></a><br><span class="navhead">Save 58%</span><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br></td>
+</tr>
+<tr>
+<td align="center" class="navtext">
+• <a href="https://w1.buysub.com/pubs/L2/TDY/TDY_RFTO.jsp?cds_page_id=25355&amp;cds_mag_code=TDY&amp;cds_response_key=I6H401" class="navlink">3 Risk-free trial issues</a><br><img src="/global/images/spacer.gif" width="1" height="2" alt=""><br>
+• <a target="_blank" href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=TDY&amp;cds_response_key=I6G101" class="navlink">Give a gift subscription</a><br><img src="/global/images/spacer.gif" width="1" height="2" alt=""><br>
+<!--&#149; <a target="_blank" href="http://store.yahoo.com/cgi-bin/clink?cti+RmbmcK+tdyiss0606.html" class="navlink">Purchase Copies of the special Da Vinci issue here</a><br />--><img src="/global/images/spacer.gif" width="1" height="8" alt=""></td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table><br>
+
+<!-- end: \help\includes\subscription.txt -->
+<table width="140" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td></tr><tr><td align="center" class="bgnavad"><img src="/help/images/adbox-top.gif" width="140" height="5" alt=""><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=2118516137/site=help/area=feature/position=anchor_1/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=1502565588/site=help/area=feature/position=anchor_2/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=1870632694/site=help/area=feature/position=anchor_3/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=28624047/site=help/area=feature/position=anchor_4/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/help/images/adbox-bot.gif" width="140" height="5" alt=""></td></tr><tr><td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td></tr></tbody></table>
+<!-- begin: \help\includes\shopping.txt -->
 <table width="140" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td><span class="navmain">Risk-Free Trial!</span><br><img src="/global/images/spacer.gif" width="1" height="3" alt="Christianity Today"><br><a href="/magsubs/index.taf?_function=start&amp;cc=t_help"><img src="/global/magimages/ct-sm.gif" width="50" height="70" border="0" align="RIGHT" alt="Subscribe to Christianity Today"></a><span class="navtext">Get news you can't get anywhere else!</span></td>
-</tr>
-<tr>
-	<td><a href="/magsubs/index.taf?_function=start&amp;cc=t_help" class="navlink">Sign-up today!</a><br><img src="/global/images/spacer.gif" width="1" height="13" alt=" "><br><a href="https://gifts.cdsfulfillment.com/gifts/TDY/giftform.shtml?in_code=I0G101" class="navtext">Give a gift subscription to Christianity Today!</a><br><a href="https://gifts.cdsfulfillment.com/gifts/TDY/giftform.shtml?in_code=I0G101" class="navlink">Buy 1, get 1 free!</a><br><img src="/global/images/spacer.gif" width="1" height="13" alt=" "></td>
-</tr>
-</tbody></table>
-<!--End: subscription.txt-->
-								<table width="140" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td>
-									</tr>
-									<tr>
-										<td align="CENTER" class="bgnavad"><img src="/help/images/adbox-top.gif" width="140" height="5" alt=""><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><!-- AdSpace site=help size=120x30 section=feature position=anchor_1 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=816&amp;RunID=2131&amp;AdID=664&amp;TagValues=207.230.232.259&amp;FamilyID=1&amp;GroupID=300&amp;Redirect=http:%2F%2Fwww.christianitytoday.com%2Fecards%2F"><img src="/global/banners/120x30/ecard_anc_3.gif" border="0" alt="Free Ecards"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><!-- AdSpace site=help size=120x30 section=feature position=anchor_2 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=817&amp;RunID=2135&amp;AdID=380&amp;TagValues=208.230.232.259&amp;FamilyID=1&amp;GroupID=301&amp;Redirect=http:%2F%2Fwww.campuslifecollegeguide.com"><img src="/global/banners/120x30/college_anc_1.gif" border="0" height="30" width="120" alt="Christian College Guide"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><!-- AdSpace site=help size=120x30 section=feature position=anchor_3 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=818&amp;RunID=2157&amp;AdID=160&amp;TagValues=230.232.233.259&amp;FamilyID=1&amp;GroupID=302&amp;Redirect=http:%2F%2Fwww.preachingtoday.com"><img src="/global/banners/120x30/pto_anc_1.gif" border="0" height="30" width="120" alt="PreachingToday.com"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><!-- AdSpace site=help size=120x30 section=feature position=anchor_4 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=819&amp;RunID=2142&amp;AdID=381&amp;TagValues=230.232.234.259&amp;FamilyID=1&amp;GroupID=303&amp;Redirect=http:%2F%2Fwww.seminarygradschool.com"><img src="/global/banners/120x30/seminary_anc_1.gif" border="0" height="30" width="120" alt="Seminary/Grad School Guide"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/help/images/adbox-bot.gif" width="140" height="5" alt=""></td>
-									</tr>
-									<tr>
-										<td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
-									</tr>
-								</tbody></table>
-								
-<!--Begin: shopping.txt-->
-<table width="140" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td><a href="/shopping/" class="navmain">Shopping Mall</a><br><a href="http://www.christianbook.com/html/static/home_page.html?p=1004344" class="navtext">Book Store</a><br><a href="http://www.christianbook.com/html/static/music.html?p=1004381" class="navtext">Music Store</a><br><a href="http://store.yahoo.com/cgi-bin/clink?cti+45fnRS+index.html" class="navtext">ChristianityToday Store</a><br><a href="http://www.visionvideo.com/vv/home.asp?k=col" class="navtext">Vision Video</a><br><a href="http://www.besttoyou.com/" class="navtext">Best to You Gifts</a><br><img src="/global/images/spacer.gif" width="1" height="9" alt=""><br><span class="navmain">Featured Items</span><br><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td>
-	</tr>
-</tbody></table>
-<!--End: shopping.txt-->
+<td class="navtext"><a href="/shopping/" class="navmain">Shopping Mall</a><br>
+<img src="/global/images/spacer.gif" width="1" height="4" alt=""><br>
+<a href="http://www.christianbook.com/html/static/home_page.html?p=1004344" class="navtext">ChristianBook.com</a><br>
+<span class="navtext">&nbsp;&nbsp;<a href="http://www.christianbook.com/html/static/music.html?p=1004381" class="navdeck">Music CDs</a>|<a href="http://www.christianbook.com/music?p=1004381" class="navdeck">Downloads</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.christianbook.com/html/static/home_page.html?p=1004344" class="navdeck">Books</a>|<a href="http://www.christianbook.com/html/static/specialty/1007.html?p=1019310" class="navdeck">Videos</a>|<a href="http://www.christianbook.com/html/static/specialty/51500.html?p=1014770" class="navdeck">Gifts</a></span><br><img src="/global/images/spacer.gif" width="1" height="4" alt=""><br>
 
-								<table width="140" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td align="CENTER" class="bgshop"><img src="/help/images/shopbox-top.gif" width="140" height="5" alt=""><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><!-- AdSpace site=help size=120x60 section=feature position=shop_1 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=750&amp;RunID=2783&amp;AdID=1050&amp;TagValues=209.215.232.259&amp;FamilyID=1&amp;GroupID=276&amp;Redirect=http:%2F%2Fwww.besttoyou.com%2Fcgi-bin%2FBestToYou.storefront%2FEN%2Fproduct%2F93185"><img src="/global/banners/shop/bty/bty_latincross120.gif" border="0" height="60" width="120" alt="Latin Cross"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="5" alt=""><br><!-- AdSpace site=help size=120x60 section=feature position=shop_2 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=751&amp;RunID=1933&amp;AdID=874&amp;TagValues=210.215.232.259&amp;FamilyID=1&amp;GroupID=277&amp;Redirect=http:%2F%2Fwww.christianbook.com%2FChristian%2FBooks%2Fproduct%2F%3Fitem_no%3DCD83000%26p%3D1004381"><img src="/global/banners/shop/wow2001-120.gif" border="0" height="60" width="120" alt="WoW 2001"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/help/images/shopbox-bot.gif" width="140" height="5" alt=""></td>
-									</tr>
-									<tr>
-										<td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
-									</tr>
-								</tbody></table>
-								<table width="140" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td>
-									</tr>
-									<tr>
-										<td align="CENTER" class="bgnavad"><img src="/help/images/adbox-top.gif" width="140" height="5" alt=""><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><!-- AdSpace site=help size=120x60 section=feature position=nav_1 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=869&amp;RunID=177&amp;AdID=208&amp;TagValues=213.215.232.259&amp;FamilyID=1&amp;GroupID=320&amp;Redirect=http:%2F%2Fwww.campuslifecollegeguide.com"><img src="/global/banners/120x60/college120_1.gif" border="0" height="60" width="120" alt="Christian College Guide"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="5" alt=""><br><!-- AdSpace site=help size=120x60 section=feature position=nav_2 -->
-<a target="_top" href="/event.ng/Type=click&amp;ProfileID=872&amp;RunID=174&amp;AdID=186&amp;TagValues=214.215.232.259&amp;FamilyID=3&amp;GroupID=321&amp;Redirect=http:%2F%2Fwww.christianitytoday.com%2Fmagsubs%2Findex.taf%3F%3C@USERREFERENCEARGUMENT%3E%26_function%3Dstart%26cc%3Dt_webban"><img src="/global/banners/120x60/ctsub120_3.gif" border="0" height="60" width="120" alt="Subscribe to Christianity Today Magazine"></a>
-<!-- /AdSpace --><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/help/images/adbox-bot.gif" width="140" height="5" alt=""></td>
-									</tr>
-									<tr>
-										<td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td>
-									</tr>
-								</tbody></table>
-								
-<!--Begin: newsletter.txt-->
+<a href="http://store.yahoo.com/cgi-bin/clink?biblestudies+55Vsqg+index.html" class="navtext">Bible Studies</a><br>
+<a href="http://christianaudio.com/shop.php?xref=1012" class="navtext">Christianaudio Books</a><br>
+<a href="http://store.yahoo.com/cgi-bin/clink?cti+45fnRS+chrishis.html" class="navtext">Christian History</a><br>
+<a href="http://store.yahoo.com/cgi-bin/clink?buildingchurchleaders+PuuESt+index.html" class="navtext">Leadership Training</a><br>
+<a href="http://shopping.lifetogether.com/" class="navtext">Small Group Resources</a><br>
+<img src="/global/images/spacer.gif" width="1" height="9" alt=""><br><span class="navmain">Featured Items</span><br><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td>
+</tr>
+</tbody></table>
+<!-- end: \help\includes\shopping.txt -->
+<table width="140" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" class="bgshop"><img src="/help/images/shopbox-top.gif" width="140" height="5" alt=""><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=1694218531/site=help/area=feature/position=shop_1/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="5" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=1580213921/site=help/area=feature/position=shop_2/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/help/images/shopbox-bot.gif" width="140" height="5" alt=""></td></tr><tr><td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td></tr></tbody></table><table width="140" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/global/images/spacer.gif" width="1" height="5" alt=""></td></tr><tr><td align="center" class="bgnavad"><img src="/help/images/adbox-top.gif" width="140" height="5" alt=""><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=1955075499/site=help/area=feature/position=nav_1/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="5" alt=""><br><script src="http://adserver1.christianitytoday.com/jserver/pageid=314760822/acc_random=330804786/site=help/area=feature/position=nav_2/guid=000510E07B1F059140618DE261626364"></script><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br><img src="/help/images/adbox-bot.gif" width="140" height="5" alt=""></td></tr><tr><td><img src="/global/images/spacer.gif" width="1" height="13" alt=""></td></tr></tbody></table>
+<!-- begin: \help\includes\newsletter.txt -->
 <table width="140" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<form method="POST" action="/nlsubs/index.taf?_function=Subscribe&amp;cc=web_01"></form>
-		<td><a href="/newsletter/" class="navmain">Free Newsletter</a><br><span class="navtext">Sign up for the ChristianityToday.com Connection Newsletter:</span><br><img src="/global/images/spacer.gif" width="1" height="3" alt=" "><br>
-		<input type="text" name="email" size="11" class="navform" value="your e-mail" onfocus="this.value='';">
-		<input type="image" name="imageField" src="/help/images/gobutton.gif" width="20" height="20" border="0" alt="Go" align="ABSMIDDLE"><br>
-		<input type="hidden" name="list" value="CHRISTIANITYONLINE-NET">
-		<input type="hidden" name="titlegraphic" value="img_gen/gentitle.gif">
-		<input type="hidden" name="titlealt" value="Join Now!">
-		<input type="hidden" name="acceptnext" value="http://www.christianitytoday.com/magsubs/index.taf?_function=start&amp;cc=t_webjoin&amp;%email%">
-		<input type="hidden" name="acceptconf" value="0">
-		<input type="hidden" name="declnext" value="">
-		<input type="hidden" name="declconf" value="0"><img src="/global/images/spacer.gif" width="1" height="13" alt=" "></td>
-	
+<td><a href="/lyris/subscribe/connection.html" class="navmain">Free Newsletter</a><br><span class="navtext">Sign up for the ChristianityToday.com Connection Newsletter:</span><br><img src="/global/images/spacer.gif" width="1" height="3" alt=""><br>
+</td></tr>
+<tr><td>
+<form action="http://lists.christianitytoday.com/subscribe/subscribe.tml" method="POST" target="_blank">
+	<input type="text" name="email" size="11" class="navform" value="your e-mail" onfocus="this.value='';">
+	<input type="image" name="imageField" src="/help/images/gobutton.gif" width="20" height="20" border="0" alt="Go" align="absmiddle"><br>
+	<input type="hidden" name="list" value="connection-html">
+    	<input type="hidden" name="confirm" value="one">
+    	<input type="hidden" name="showconfirm" value="F">
+<input type="hidden" name="url" value="https://w1.buysub.com/pubs/L2/TDY/TDY_RFTO_nl.jsp?cds_page_id=27206&amp;cds_mag_code=TDY&amp;cds_response_key=I6NF101"></form>
+</td>
 </tr>
-</tbody></table>
-<!--End: newsletter.txt-->
+</tbody></table><img src="/global/images/spacer.gif" width="1" height="13" alt=""><br>
 
+<!-- end: \help\includes\newsletter.txt -->
 
-								
-<!--Empty: poll.txt-->
+<!-- begin: \help\includes\poll.txt -->
 
+<!-- Empty -->
 
-								
+<!-- end: \help\includes\poll.txt -->
+
+<!-- begin: \help\includes\channav4.txt -->
 <!--Empty: channav4.txt-->
+<!-- end: \help\includes\channav4.txt -->
 
+<!-- begin: \global\sitenav4.txt -->
 
-								
-<!--Empty: global/sitenav4.txt-->
+<!-- empty -->
 
+<!-- end: \global\sitenav4.txt -->
+</td></tr><tr><td align="left" valign="bottom"><img src="/help/images/rightcorner.gif" width="10" height="10" alt=""></td></tr></tbody></table><img src="/global/images/spacer.gif" height="15" width="160" alt=""></td></tr></tbody></table></td></tr><tr><td align="right" valign="bottom" class="bgleftnav"><img src="/help/images/leftcorner.gif" width="10" height="10" alt=""></td><td colspan="3"><img src="/global/images/spacer.gif" width="460" height="10" alt=""></td></tr></tbody></table></td></tr><tr><td>
+<!-- begin: \global\footer.txt -->
 
-								</td>
-							</tr>
-							<tr>
-								<td align="LEFT" valign="BOTTOM"><img src="/help/images/rightcorner.gif" width="10" height="10" alt=""></td>
-							</tr>
-						</tbody></table>
-						<img src="/global/images/spacer.gif" height="15" width="160" alt=""></td>
-					</tr>
-				</tbody></table></td>
-			</tr>
-			<tr>
-				<td align="RIGHT" valign="BOTTOM" class="bgleftnav"><img src="/help/images/leftcorner.gif" width="10" height="10" alt=""></td>
-				<td colspan="3"><img src="/global/images/spacer.gif" width="460" height="10" alt=""></td>
-			</tr>
-		</tbody></table></td>
-	</tr>
-	<tr>
-		<td>
-<!--Begin: global/footer.txt-->
 <script language="JavaScript" type="text/javascript"><!--
 for (i=1; i<12; i++) {
-   eval ("ftr_" + i + "_btn = new DynButton (\"ftr_" + i + "\", \"/global/images/hdr_" + i + "d.gif\", \"/global/images/hdr_" + i + "o.gif\");");
+eval ("ftr_" + i + "_btn = new DynButton (\"ftr_" + i + "\", \"/global/images/hdr_" + i + "d.gif\", \"/global/images/hdr_" + i + "o.gif\");");
 }
 // --></script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-    <td colspan="11" valign="BOTTOM"><a href="javascript:jump ('/');" target="_top"><img src="http://www.christianitytoday.com/global/images/ct-logo.gif" border="0" width="309" height="29" alt="ChristianityToday.com"></a></td>
-</tr>
-<tr class="bgtopnav">
-<td align="CENTER"><a href="/" onclick="return jump ('/');" onmouseover="if (ftr_1_btn) ftr_1_btn.over ();" onmouseout="if (ftr_1_btn) ftr_1_btn.out ();" target="_top"><img name="ftr_1" border="0" src="http://www.christianitytoday.com/global/images/hdr_1d.gif" width="41" height="17" alt="Home"></a></td>
-<td align="CENTER"><a href="/ctmag/" onclick="return jump ('/ctmag/');" onmouseover="if (ftr_2_btn) ftr_2_btn.over ();" onmouseout="if (ftr_2_btn) ftr_2_btn.out ();" target="_top"><img name="ftr_2" border="0" src="http://www.christianitytoday.com/global/images/hdr_2d.gif" width="47" height="17" alt="CT Mag"></a></td>
-<td align="CENTER"><a href="/home/church.html" onclick="return jump ('/home/church.html');" onmouseover="if (ftr_3_btn) ftr_3_btn.over ();" onmouseout="if (ftr_3_btn) ftr_3_btn.out ();" target="_top"><img name="ftr_3" border="0" src="http://www.christianitytoday.com/global/images/hdr_3d.gif" width="89" height="17" alt="Church/Ministry"></a></td>
-<td align="CENTER"><a href="/home/bible.html" onclick="return jump ('/home/bible.html');" onmouseover="if (ftr_4_btn) ftr_4_btn.over ();" onmouseout="if (ftr_4_btn) ftr_4_btn.out ();" target="_top"><img name="ftr_4" border="0" src="http://www.christianitytoday.com/global/images/hdr_4d.gif" width="56" height="17" alt="Bible/Life"></a></td>
-<td align="CENTER"><a href="/home/communities.html" onclick="return jump ('/home/communities.html');" onmouseover="if (ftr_5_btn) ftr_5_btn.over ();" onmouseout="if (ftr_5_btn) ftr_5_btn.out ();" target="_top"><img name="ftr_5" border="0" src="http://www.christianitytoday.com/global/images/hdr_5d.gif" width="73" height="17" alt="Communities"></a></td>
-<td align="CENTER"><a href="javascript:goChat('/chat/','/aol/chat/');" onclick="goChat('/chat/','/aol/chat/');" onmouseover="if (ftr_6_btn) ftr_6_btn.over ();" onmouseout="if (ftr_6_btn) ftr_6_btn.out ();" target="_top"><img name="ftr_6" border="0" src="http://www.christianitytoday.com/global/images/hdr_6d.gif" width="33" height="17" alt="Chat"></a></td>
-<td align="CENTER"><a href="/home/entertainment.html" onclick="return jump ('/home/entertainment.html');" onmouseover="if (ftr_7_btn) ftr_7_btn.over ();" onmouseout="if (ftr_7_btn) ftr_7_btn.out ();" target="_top"><img name="ftr_7" border="0" src="http://www.christianitytoday.com/global/images/hdr_7d.gif" width="77" height="17" alt="Entertainment"></a></td>
-<td align="CENTER"><a href="/home/schools.html" onclick="return jump ('/home/schools.html');" onmouseover="if (ftr_8_btn) ftr_8_btn.over ();" onmouseout="if (ftr_8_btn) ftr_8_btn.out ();" target="_top"><img name="ftr_8" border="0" src="http://www.christianitytoday.com/global/images/hdr_8d.gif" width="71" height="17" alt="Schools/Jobs"></a></td>
-<td align="CENTER"><a href="/shopping/" onclick="return jump ('/shopping/');" onmouseover="if (ftr_9_btn) ftr_9_btn.over ();" onmouseout="if (ftr_9_btn) ftr_9_btn.out ();" target="_top"><img name="ftr_9" border="0" src="http://www.christianitytoday.com/global/images/hdr_9d.gif" width="56" height="17" alt="Shopping"></a></td>
-<td align="CENTER"><a href="/newsletter/" onclick="return jump ('/newsletter/');" onmouseover="if (ftr_10_btn) ftr_10_btn.over ();" onmouseout="if (ftr_10_btn) ftr_10_btn.out ();" target="_top"><img name="ftr_10" border="0" src="http://www.christianitytoday.com/global/images/hdr_10d.gif" width="35" height="17" alt="Free!"></a></td>
-<td align="CENTER"><a href="/help/" onclick="return jump ('/help/');" onmouseover="if (ftr_11_btn) ftr_11_btn.over ();" onmouseout="if (ftr_11_btn) ftr_11_btn.out ();" target="_top"><img name="ftr_11" border="0" src="http://www.christianitytoday.com/global/images/hdr_11d.gif" width="33" height="17" alt="Help"></a></td>
-</tr>
-<tr>
-    <td colspan="11" class="bgdeck">
-	 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
-			</tr>
-			<tr>
-				<td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt=""></td>
-				<td align="center"><span class="navmenu"><b>Try our Publications:</b><br><a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=t_bump');" class="navmenu">Christianity&nbsp;Today</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=b_bump');" class="navmenu">Books&nbsp;&amp;&nbsp;Culture</a>&nbsp;&nbsp;|&nbsp; <a href="http://store.yahoo.com/cti/builchruclea.html" class="navmenu">Building&nbsp;Church&nbsp;Leaders</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=c_bump');" class="navmenu">Campus&nbsp;Life</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=h_bump');" class="navmenu">Christian&nbsp;History</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=g_bump');" class="navmenu">Christian&nbsp;Parenting&nbsp;Today</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=r_bump');" class="navmenu">Christian&nbsp;Reader</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=l_bump');" class="navmenu">Leadership&nbsp;Journal</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=m_bump');" class="navmenu">Marriage&nbsp;Partnership</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=i_bump');" class="navmenu">Men&nbsp;of&nbsp;Integrity</a>&nbsp;&nbsp;|&nbsp; <a href="http://www.preachingtoday.com/" class="navmenu">PreachingToday.com</a>&nbsp;&nbsp;|&nbsp; <a href="javascript:jump ('/magsubs/index.taf?_function=start&amp;cc=w_bump');" class="navmenu">Today's&nbsp;Christian&nbsp;Woman</a></span></td>
-				<td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt=""></td>
-			</tr>
-			<tr>
-				<td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<!--End: global/footer.txt-->
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tbody><tr>
+          <td colspan="11" valign="bottom"><a href="javascript:jump ('/');" target="_top"><img src="http://www.christianitytoday.com/global/images/ct-logo.gif" border="0" width="309" height="29" alt="ChristianityToday.com"></a></td>
+         </tr>
+         
+         <tr class="bgtopnav">
+         <td align="center"><a href="/" onclick="return jump ('/');" onmouseover="if (ftr_1_btn) ftr_1_btn.over ();" onmouseout="if (ftr_1_btn) ftr_1_btn.out ();" target="_top"><img name="ftr_1" border="0" src="http://www.christianitytoday.com/global/images/hdr_1d.gif" width="41" height="17" alt="Home"></a></td>
+         <td align="center"><a href="/ctmag/" onclick="return jump ('/ctmag/');" onmouseover="if (ftr_2_btn) ftr_2_btn.over ();" onmouseout="if (ftr_2_btn) ftr_2_btn.out ();" target="_top"><img name="ftr_2" border="0" src="http://www.christianitytoday.com/global/images/hdr_2d.gif" width="47" height="17" alt="CT Mag"></a></td>
+         <td align="center"><a href="/home/church.html" onclick="return jump ('/home/church.html');" onmouseover="if (ftr_3_btn) ftr_3_btn.over ();" onmouseout="if (ftr_3_btn) ftr_3_btn.out ();" target="_top"><img name="ftr_3" border="0" src="http://www.christianitytoday.com/global/images/hdr_3d.gif" width="89" height="17" alt="Church/Ministry"></a></td>
+         <td align="center"><a href="/home/bible.html" onclick="return jump ('/home/bible.html');" onmouseover="if (ftr_4_btn) ftr_4_btn.over ();" onmouseout="if (ftr_4_btn) ftr_4_btn.out ();" target="_top"><img name="ftr_4" border="0" src="http://www.christianitytoday.com/global/images/hdr_4d.gif" width="56" height="17" alt="Bible/Life"></a></td>
+         <td align="center"><a href="/home/communities.html" onclick="return jump ('/home/communities.html');" onmouseover="if (ftr_5_btn) ftr_5_btn.over ();" onmouseout="if (ftr_5_btn) ftr_5_btn.out ();" target="_top"><img name="ftr_5" border="0" src="http://www.christianitytoday.com/global/images/hdr_5d.gif" width="73" height="17" alt="Communities"></a></td>
+         <td align="center"><a href="javascript:goChat('/chat/','none');" onclick="goChat('/chat/','none');" onmouseover="if (ftr_6_btn) ftr_6_btn.over ();" onmouseout="if (ftr_6_btn) ftr_6_btn.out ();" target="_top"><img name="ftr_6" border="0" src="http://www.christianitytoday.com/global/images/hdr_6d.gif" width="33" height="17" alt="Chat"></a></td>
+         <td align="center"><a href="/home/entertainment.html" onclick="return jump ('/home/entertainment.html');" onmouseover="if (ftr_7_btn) ftr_7_btn.over ();" onmouseout="if (ftr_7_btn) ftr_7_btn.out ();" target="_top"><img name="ftr_7" border="0" src="http://www.christianitytoday.com/global/images/hdr_7d.gif" width="77" height="17" alt="Entertainment"></a></td>
+         <td align="center"><a href="/home/schools.html" onclick="return jump ('/home/schools.html');" onmouseover="if (ftr_8_btn) ftr_8_btn.over ();" onmouseout="if (ftr_8_btn) ftr_8_btn.out ();" target="_top"><img name="ftr_8" border="0" src="http://www.christianitytoday.com/global/images/hdr_8d.gif" width="71" height="17" alt="Schools/Jobs"></a></td>
+         <td align="center"><a href="/shopping/" onclick="return jump ('/shopping/');" onmouseover="if (ftr_9_btn) ftr_9_btn.over ();" onmouseout="if (ftr_9_btn) ftr_9_btn.out ();" target="_top"><img name="ftr_9" border="0" src="http://www.christianitytoday.com/global/images/hdr_9d.gif" width="56" height="17" alt="Shopping"></a></td>
+         <td align="center"><a href="/free/" onclick="return jump ('/free/');" onmouseover="if (ftr_10_btn) ftr_10_btn.over ();" onmouseout="if (ftr_10_btn) ftr_10_btn.out ();" target="_top"><img name="ftr_10" border="0" src="http://www.christianitytoday.com/global/images/hdr_10d.gif" width="35" height="17" alt="Free!"></a></td>
+         <td align="center"><a href="/help/" onclick="return jump ('/help/');" onmouseover="if (ftr_11_btn) ftr_11_btn.over ();" onmouseout="if (ftr_11_btn) ftr_11_btn.out ();" target="_top"><img name="ftr_11" border="0" src="http://www.christianitytoday.com/global/images/hdr_11d.gif" width="33" height="17" alt="Help"></a></td>
+         </tr>
+         
+         <tr>
+         <td colspan="11" class="bgdeck">
+         
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
+                  </tr>
+                  
+                  <tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt=""></td>
+                  
+                  <td align="center">
 
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <tbody><tr>
+                           <td colspan="4" class="navmenu"><b>Magazines/Periodicals:</b><br><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="5" alt=""></td>
+                           <td colspan="2" class="navmenu"><b>Resources:</b><br><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="5" alt=""></td>
+                           </tr>
+                           
+                           <tr>
+                           <td valign="top">
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/BAC/BAC_RFTO.jsp?cds_page_id=27200&amp;cds_mag_code=BAC&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Books&nbsp;&amp;&nbsp;Culture</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/HIS/HIS_RFTO.jsp?cds_page_id=27202&amp;cds_mag_code=HIS&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Christian&nbsp;History&nbsp;&amp;&nbsp;Biography</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/TDY/TDY_RFTO.jsp?cds_page_id=27206&amp;cds_mag_code=TDY&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Christianity&nbsp;Today</a><br>
+                           <a href="javascript:jump ('http://www.christianitytoday.com/lawandtax');" class="artcaption" style="color:#333366">Church Law Today</a><br>
+                           <a href="javascript:jump ('http://www.churchlawtoday.com/ctainfo.php');" class="artcaption" style="color:#333366">Church Treasurer Alert</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/LIF/LIF_RFTO.jsp?cds_page_id=25767&amp;cds_mag_code=LIF&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Ignite Your Faith</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/LDS/LDS_RFTO.jsp?cds_page_id=27203&amp;cds_mag_code=LDS&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Leadership&nbsp;Journal</a><br>
+                            </td>
+                           
+                           <td valign="top">
+                           
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/MGP/MGP_RFTO.jsp?cds_page_id=27210&amp;cds_mag_code=MGP&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Marriage&nbsp;Partnership</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/MOI/MOI_RFTO.jsp?cds_page_id=27209&amp;cds_mag_code=MOI&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Men&nbsp;of&nbsp;Integrity</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/CGP/CGP_RFTO.jsp?cds_page_id=27208&amp;cds_mag_code=CGP&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">MOMsense</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/CHR/CHR_RFTO.jsp?cds_page_id=27201&amp;cds_mag_code=CHR&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Today's&nbsp;Christian</a><br>
+                           <a target="_blank" href="https://w1.buysub.com/pubs/L2/TCW/TCW_RFTO.jsp?cds_page_id=27207&amp;cds_mag_code=TCW&amp;cds_response_key=I6U101" class="artcaption" style="color:#333366">Today's&nbsp;Christian&nbsp;Woman</a><br>
+                           <a href="https://online.icnfull.com/cti/?action=subscription" class="artcaption" style="color:#333366">Your&nbsp;Church</a><br>
+                           <a href="javascript:jump ('http://ctlibrary.com/');" class="artcaption" style="color:#333366">ChristianityTodayLibrary.com</a><br>
+                           </td>
+                           
+                           <td width="1" valign="top" class="bgdivider">
+                           <img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="1" alt="">
+                           </td>
+                           
+                           <td width="15">
+                           <img src="http://www.christianitytoday.com/global/images/spacer.gif" width="15" height="1" alt="">
+                           </td>
+                           
+                           <td valign="top">
+                           <a href="javascript:jump ('/bcl/');" class="artcaption" style="color:#333366">BuildingChurchLeaders.com</a><br>
+                           <a href="javascript:jump ('/biblestudies/');" class="artcaption" style="color:#333366">ChristianBibleStudies.com</a><br>
+                           <a href="javascript:jump ('http://christiancollegeguide.net/');" class="artcaption" style="color:#333366">Christian College Guide</a><br>
+                           <a href="javascript:jump ('http://store.yahoo.com/cti/chrishis.html');" class="artcaption" style="color:#333366">Christian History Back Issues</a><br>
+                           <a href="javascript:jump ('/music/');" class="artcaption" style="color:#333366">Christian&nbsp;Music&nbsp;Today</a><br>
+                           <a href="javascript:jump ('/movies/');" class="artcaption" style="color:#333366">Christianity&nbsp;Today&nbsp;Movies</a><br>
+                           </td>
+                           
+                           <td valign="top">
+                           <a href="javascript:jump ('/cbg/');" class="artcaption" style="color:#333366">Church&nbsp;Products&nbsp;&amp;&nbsp;Services</a><br>
+                           <a href="http://cmr.gospelcom.net/churchsafety.php" class="artcaption" style="color:#333366">Church Safety</a><br>
+                           <a href="http://churchsitecreator.com/" class="artcaption" style="color:#333366">ChurchSiteCreator.com</a><br>
+                           <a href="http://www.preachingtoday.com/" class="artcaption" style="color:#333366">PreachingToday.com</a><br>
+                           <a href="http://www.preachingtodaysermons.com/" class="artcaption" style="color:#333366">PreachingTodaySermons.com</a><br>
+                           <a href="javascript:jump ('http://seminarygradschool.com/');" class="artcaption" style="color:#333366">Seminary/Grad School Guide</a><br>
+                           </td>
+                           </tr>
+                           </tbody></table>
+
+                           </td></tr>
+                  
+
+                  <tr><td>
+                  <img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt="">
+                  </td>
+
+                  </tr>
+           <!--new stuff start  -->     
+                          <tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
+                  </tr>
+                          <tr>
+         <td colspan="11" class="bgdeck">
+         
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
+                  </tr>
+                  <tr>
+                  <td class="bgdivider" colspan="11"><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="1" alt=""></td>
+                  </tr>
+                  <tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
+                  </tr>
+                  <tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt=""></td>
+                  
+                  <td align="center">
+
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <tbody><tr>
+                           <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt=""></td>
+                           <td colspan="8" class="navmenu"><b>Ministry Partners: </b>&nbsp;&nbsp;<a href="http://www.christianbook.com/?p=1004344" class="artcaption" style="color:#333366">Christianbook.com: Books, Music, Gifts</a> | <a href="http://www.eharmony.com/singles/servlet/welcome?cmd=welcome" class="artcaption" style="color:#333366">eHarmony.com: Christian Dating</a> | <a href="http://www.mops.org/" class="artcaption" style="color:#333366">MOPS: Mothers of Preschoolers</a><br><br><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="5" alt=""></td>
+                           
+                           <!--
+                           <td colspan="3" class="navmenu" align="left"><a href="http://www.eharmony.com/singles/servlet/welcome?cmd=welcome" class="artcaption" style="color:#333366">eHarmony.com: Christian Dating</a><br><br><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="5" alt=""></td>
+                           <td colspan="3" class="navmenu"><a href="http://www.mops.org/" class="artcaption" style="color:#333366">MOPS International: Mothers of Preschoolers</a><br><br><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="5" alt=""></td>
+                          -->
+                          </tr>
+                            </tbody></table>
+
+                          </td></tr>
+                  
+                  
+                  <tr><td>
+                  <img src="http://www.christianitytoday.com/global/images/spacer.gif" width="10" height="1" alt="">
+                  </td>
+
+                  </tr>
+                  
+            <!--new stuff end-->      
+                  <tr>
+                  <td><img src="http://www.christianitytoday.com/global/images/spacer.gif" width="1" height="6" alt=""></td>
+                  </tr>
+                  
+                  </tbody></table>
+         </td>
+         </tr>
+         </tbody></table>
 </td>
-	</tr>
-	<tr>
-		<td>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bgbanner">
-			<tbody><tr>
-				<td><img src="/global/images/spacer.gif" width="51" height="70" alt=""></td>
-				<td align="CENTER" valign="MIDDLE"><!-- AdSpace page.usehistory=1 --><a target="_top" href="/event.ng/Type=click&amp;ProfileID=776&amp;RunID=165&amp;AdID=88&amp;TagValues=201.203.232.259&amp;FamilyID=22&amp;GroupID=284&amp;Redirect=http:%2F%2Fstore.yahoo.com%2Fcgi-bin%2Fclink%3Fcti+P4nfnv+teendevbib.html"><img src="/global/banners/234x60/teenbib234_4.gif" border="0" height="60" width="234" alt="Teens Devotional Bible"></a><!-- /AdSpace --></td>
-				<td><img src="/global/images/spacer.gif" width="50" height="70" alt=""></td>
-				<td align="CENTER" valign="MIDDLE"><!-- AdSpace page.usehistory=2 --><a target="_top" href="/event.ng/Type=click&amp;ProfileID=777&amp;RunID=173&amp;AdID=196&amp;TagValues=201.204.232.259&amp;FamilyID=14&amp;GroupID=285&amp;Redirect=http:%2F%2Fwww.christianitytoday.com%2Fmagsubs%2Findex.taf%3F%3C@USERREFERENCEARGUMENT%3E%26_function%3Dstart%26cc%3Dm_webban"><img src="/global/banners/234x60/mpsub234_5.gif" border="0" height="60" width="234" alt="Subscribe to Marriage Partnership Magazine"></a><!-- /AdSpace --></td>
-				<td><img src="/global/images/spacer.gif" width="51" height="70" alt=""></td>
-			</tr>
-		</tbody></table></td>
-	</tr>
-	<tr>
-		<td>
-<!--Begin: global/copyright.txt-->
+         </tr>
+         </tbody></table>
+<!-- end: \global\footer.txt -->
+</td></tr><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="bgbanner"><tbody><tr><td><img src="/global/images/spacer.gif" width="15" height="98" alt=""></td><td align="center" valign="middle"><script>document.write(AAMB1);</script></td><td><img src="/global/images/spacer.gif" width="15" height="98" alt=""></td></tr></tbody></table></td></tr><tr><td>
+<!-- begin: \global\copyright.txt -->
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td align="CENTER"><a href="javascript:jump ('/help/features/cti.html');" class="copyright" target="_top"><img src="http://www.christianitytoday.com/global/images/cti-logo.gif" width="155" height="70" border="0" alt="Christianity Today International"></a></td>
-	</tr>
-	<tr>
-		<td align="CENTER"><a href="javascript:jump ('/');" class="copyright" target="_top">www.ChristianityToday.com</a><br><span class="copyright">AOL Keyword and CompuServe GO: ChristianityToday.com</span><br><a href="javascript:jump ('/help/features/cti.html');" class="copyright" target="_top">Copyright © 1994-2001 Christianity Today International</a><br><a href="javascript:jump ('/help/features/privacy.html');" class="copyright" target="_top">Privacy Policy</a><br>&nbsp;<br></td>
-	</tr>
-</tbody></table>
-<!--End: global/copyright.txt-->
-
-</td>
-	</tr>
-	<tr>
-		<td><script language="JavaScript" type="text/javascript"><!--
-if (AOLCLIENT) document.write (AOLNAV);
-// --></script></td>
-	</tr>
+<tbody><tr><td align="center"><a href="javascript:jump ('/help/features/cti.html');" class="copyright" target="_top"><img src="http://christianitytoday.com/global/images/cti-logo.gif" width="155" height="98" border="0" alt="Christianity Today International"></a></td></tr>
+<tr><td align="center"><a href="javascript:jump ('/');" class="copyright" target="_top">www.ChristianityToday.com</a><br><a href="javascript:jump ('/help/features/cti.html');" class="copyright" target="_top">Copyright © 1994–2006 Christianity Today International</a><br><span class="copyright"><a href="javascript:jump ('/help/features/privacy.html');" class="copyright" target="_top"><u>Privacy Policy</u></a> | <a href="javascript:jump ('/help/features/contact.html');" class="copyright" target="_top"><u>Contact Us</u></a> | <a href="javascript:jump ('http://www.cti-advertising.com/');" class="copyright" target="_top"><u>Advertise with Us</u></a> | <a href="javascript:jump ('http://store.yahoo.com/ctclassifieds/chtoin.html');" class="copyright" target="_top"><u>Job Openings</u></a></span><br>&nbsp;<br></td></tr>
 </tbody></table>
 
+<!-- end: \global\copyright.txt -->
+</td></tr><tr><td>
+<!-- begin: \global\aolhat.txt -->
 
-<!-- 10/27/00 1:05PM - modified AdSpace tags where position=bottom_1 or 2, incorporating page history - RAT --></body></html>
+<!-- end: \global\aolhat.txt -->
+</td></tr></tbody></table><img src="http://lists.christianitytoday.com/tt?name=help" alt="" height="1" width="1">
+<!-- begin: \special\partredips\link.txt -->
+
+<!-- hyperlink added for PartreDips by Rich Tatum 02-16-2004 -->
+<a href="/partredips/" style="cursor:default" onclick="return false" onmouseover="window.status=''; return true" onmouseout="window.status=''; return true"><img src="/partredips/images/spacer.gif" width="1" height="1" border="0" alt=""></a>
+
+<!-- end: \special\partredips\link.txt -->
+</body></html>
