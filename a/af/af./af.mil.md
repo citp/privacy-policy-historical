@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627220222id_/http%3A//www.af.mil/main/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226204950id_/http%3A//www.af.mil/main/disclaimer.asp) for the most accurate reproduction.*
 
 # Air Force Link - Disclaimer
 
