@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616022734id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226035911id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # CheapTickets: Privacy Policy
 
@@ -21,7 +21,7 @@ Your privacy is very important to CheapTickets LLC ("we" or "us"). This Privacy 
 
 **Your California Privacy Rights**
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: customerservice@cheaptickets.com, or write to us at: Customer Service, CheapTickets LLC, 200 South Wacker Drive, Suite 1900, Chicago, IL 60606 with a reference to California Disclosure Information. 
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: customerservice@cheaptickets.com, or write to us at: Customer Service, CheapTickets LLC, 500 West Madison Street, Suite 1000, Chicago, IL 60661 with a reference to California Disclosure Information. 
 
 We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
 
@@ -338,7 +338,7 @@ _Changes to the Privacy Policy_
 > ---|---  
 > Mailing address:| Chief Privacy Officer  
 >  CheapTickets LLC  
->  200 South Wacker Drive, Suite 1900, Chicago, IL 60606  
+>  500 West Madison Street, Suite 1000, Chicago, IL 60661  
 > Telephone:| 888-922-8849 (within the United States)  
 >  615-874-4304 (Outside the United States).   
   
