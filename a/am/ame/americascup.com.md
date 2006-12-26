@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americascup.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205609id_/http%3A//www.americascup.com/en/misc/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americascup.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227004212id_/http%3A//www.americascup.com/en/misc/privacy_policy.php) for the most accurate reproduction.*
 
 # 32nd America's Cup Official Website
 
