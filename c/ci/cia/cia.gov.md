@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627183311id_/http%3A//cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226194027id_/https%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # Notices
+
+This website includes information about the Central Intelligence Agency. The notices which follow apply equally to all areas of this Web site.   
+ 
 
 ###  Privacy Notice
 
@@ -12,7 +15,7 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > 
 > This gathering and storing of information is separate from the activity described as monitoring in our Security Notice. 
 > 
-> Information gathered automatically is used for site management, compiling reports of usage statistics, and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution. 
+> Information gathered automatically is used for, among other things, site management, compiling reports of usage statistics, and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution. 
 > 
 > The following are representative of the types of information automatically collected and stored about your visit: 
 > 
@@ -76,7 +79,7 @@ This system and related software and equipment are intended solely for the commu
 
 Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution. 
 
-If monitoring reveals evidence of possible criminal activity, such evidence may be provided to law enforcement personnel. In addition, if you send us information about a threat or comments that consitute or might constitute a threat, or your comments contain information about criminal activities, we may provide that and associated information to law enformecement and/or other appropriate authorities. 
+If monitoring reveals evidence of possible criminal activity, such evidence may be provided to law enforcement personnel. In addition, if you send us information about a threat or comments that or might constitute a threat, or your comments contain information about criminal activities, we may provide that and associated information to law enforcement and/or other appropriate authorities. 
 
 [Return to top] 
 
