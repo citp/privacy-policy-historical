@@ -1,20 +1,33 @@
-> *The following text is extracted and transformed from the b5media.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620160359id_/http%3A//www.dotice.com/static.php%3Fsrc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b5media.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227001536id_/http%3A//www.b5media.com/privacy-policy) for the most accurate reproduction.*
 
-# DotICE - Domain names for sale
+# b5media - a global new media network - Privacy Policy
 
-Dotice is committed to preserving your privacy online.  
-When you visit our site, we collect two types of information from you:  
-**1)** Specific information you voluntarily submit and,  
-**2)** General information our site gathers automatically.
+**b5media LLC Privacy Policy**
 
-**Specific Information You Submit**  
-If you email Dotice for any reason, we to contact you directly will only use the information in your email. We will keep your information on file only for the purpose of providing pre and post sales service.
+b5media.com is just as concerned about privacy as you are. To protect your privacy when you visit any of our blogs, we give you as much control as possible over the information you give and receive. This Privacy Policy will give you more details on the types of information we collect, how we use it, and how you can decide how much to share while you are at our sites.
 
-We may also share some of your information with third parties that are directly involved in the domain transaction or commission paying process, such as our escrow service partner, and our affiliate program partner.
+**What information does b5media collect?**
 
-We will never will fully disclose any individually identifiable information to any other third parties without a user's specific permission to do so.
+b5media believes in conversations. As such, every post on every one of our blogs allows you to leave a “comment.” This comment form asks for your name, email address and website address. While you can obviously make up any name, we encourage those who are comfortable doing so to at least leave their real first names (so you know if others are responding to you later in the conversation). In addition, your IP address is recorded when you leave a comment, purely as a spam prevention measure.
 
-We do not sell users' names or email addresses to other companies. We will only provide individually identifiable information to third parties only where law requires it.
+b5media also collects statistics about visitors on their geographical location, time and date of visit, number of repeat visits, and what webpages are viewed. However, this information is never tied to your IP address and is never associated with you as an individual, it is purely so we know how each blog is doing from a traffic perspective
 
-**General Information We Gather**  
-As you browse our Web site, we collect standard tracking data, which we use to evaluate site traffic and usage patterns. This information is aggregated with tracking data from all site visitors. It is never associated with individually identifiable information that would reveal anything personal about a user. We use such aggregated information to help us evaluate our site and to improve our services to clients. 
+**Why does b5media need to collect information on me?**
+
+There are two types of information that b5media collects: traffic information, and conversation information. The first is very much like TV ratings, newspaper circulation stats, etc – it is purely so that we as a business can assess how we are doing. Conversational information are the comments you leave on posts. This information is yours, and is never used by b5media for purposes other than what you intended (ie: if you ask to be notified of follow-up comments, we will, but we will never send you a newsletter, promotional material or sell your data to a third party).
+
+We may also use these data _as a whole_ (not on a specific individual basis) to sell ads and otherwise generate revenue, though your personally identifiable information such as name, email, website address and IP address will never be used.
+
+**How will b5media use my personal information?**
+
+b5media will never use sell or rent your personal information to anyone else. We will not share your personal details unless you have specifically granted permission.
+
+**Does b5media ~~bake~~ use cookies or third party user tracking services?**
+
+Occasionally, b5media or its advertisers may need to place a “[cookie](http://www.amdhelp.com/privacy_glossary.asp)” on your computer. A cookie serves only to preserve a history of your previous visits to our site only, such as your name, e-mail, and URL when leaving comments. Cookies do not usually create any problems for you or your computer and are generally silent bystanders. They are primarily used for defining a unique user experience just for you based on your previous activity on our sites. 
+
+These cookies are not used to “track” you online, as has become a popular misconception. The cookie on your computer is only readable by b5media, and you are free to delete it at any time. The only effect of deleting b5media’s cookies is that you will no longer receive personalized information, such as not having to fill in your personal details on a comment form again. The choice is always yours, and we in no way discourage you from taking your privacy into your own hands.
+
+**Who do I contact if I have a question or complaint about your privacy issue?**
+
+If you want to contact us about b5media’s privacy policy, please e-mail [guys@b5media.com](mailto:guys@b5media.com). We are always open to suggestions. 
