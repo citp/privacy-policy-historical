@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tppcrpg.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630150849id_/http%3A//www.gorillanation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tppcrpg.net privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227002355id_/http%3A//www.gorillanation.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
