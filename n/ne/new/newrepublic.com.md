@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newrepublic.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200456id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrepublic.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226200359id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ The following paragraphs describe the type of information TheNewRepublic.com col
 
 **General Principles**
 
-TheNewRepublic.com will not release your personal data to anyone else without your consent. 
+TheNewRepublic.com will not release your personal data to anyone else without your consent. From time to time, we may be approached by third parties with an interest in identifying subscribers to our print or digital publication _The New Republic_ , as described below in this Privacy Policy. 
 
 TheNewRepublic.com's Privacy Policy may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personal information so that you understand how the information you are submitting will be used. 
 
@@ -30,15 +30,15 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 **Subscriptions**
 
-You may use the web site to subscribe to the print or digital version of _The New Republic_ by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine's fulfillment house, Communications Data Services, Inc. ("CDS"), a reputable third party. 
+You may use the web site to subscribe to the print or digital version of The New Republic by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine's fulfillment house, Palm Coast Data, Inc. ("PCD"), a reputable third party. 
 
 **Electronic Newsletters**
 
-TheNewRepublic.com offers several electronic newsletters to which you may voluntarily subscribe and unsubscribe at any time. TheNewRepublic.com uses Topica, a reputable third party, to deliver the email newsletters you will receive from our site and serve all of the advertisements that are placed within those emails. 
+TheNewRepublic.com offers several electronic newsletters to which you may voluntarily subscribe and unsubscribe at any time. TheNewRepublic.com uses WhatCounts, a reputable third party, to deliver the email newsletters you will receive from our site and serve all of the advertisements that are placed within those emails. 
 
-Topica collects and stores all the information users submit to TheNewRepublic.com in connection with the electronic newsletters. If you would like to know more about the information gathering practices and "opt-out" procedures of Topica, please go to [Topica's website](http://www.topica.com/). 
+WhatCounts collects and stores all the information users submit to TheNewRepublic.com in connection with the electronic newsletters. If you would like to know more about the information gathering practices and "opt-out" procedures of WhatCounts, please email [tnrdigital@tnr.com](mailto:tnrdigital@tnr.com). 
 
-You may remove yourself from any or all of the electronic newsletters' mailing lists at any time by following the instructions for unsubscribing found at the end of every newsletter. 
+You may remove yourself from any or all of the electronic newsletters' mailing lists at any time by following instructions for unsubscribing found at the end of every newsletter or by emailing [tnrdigital@tnr.com](mailto:tnrdigital@tnr.com). 
 
 **Letters to the Editor**
 
@@ -54,11 +54,11 @@ In order to offer and provide personalized custom services, TheNewRepublic.com u
 
 If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You also may refuse cookies by disabling them on your browser. You do need to have cookies turned on to use premium areas of TheNewRepublic.com. 
 
-IP addresses are also recorded in the log files on TheNewRepublic.com. TheNewRepublic.com may use IP addresses to analyze trends, administer the site, track users' movement and gather broad demographic information for aggregate use. 
+IP addresses are also recorded in the log files on TheNewRepublic.com. TheNewRepublic.com may use IP addresses to analyze trends, administer the site, track users' movement and gather broad demographic information for aggregate use. addresses are also recorded in the log files on TheNewRepublic.com. TheNewRepublic.com may use IP addresses to analyze trends, administer the site, track users' movement and gather broad demographic information for aggregate use. 
 
 **Use of the Information Collected**
 
-TheNewRepublic.com uses any information you voluntarily give to enhance your experience, whether to provide interactive or personalized elements on the site, to present content more effectively, or to make our future marketing efforts more efficient. 
+From time to time, we may also be approached by third parties with an interest in identifying subscribers to our print or digital publication, _The New Republic._ We may provide our publications' mailing list (but not email addresses) to such third parties if we believe you would be interested in hearing from them. If you do not want your information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below). 
 
 TheNewRepublic.com uses information you voluntarily submit to send out electronic newsletters and to enable users to move seamlessly through our web site. We send out newsletters to subscribers on a regular schedule (weekly) and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and TheNewRepublic.com, through Topica, will place the advertisement in the body of the email newsletter of those individuals fitting the advertiser's criteria. Pop-up advertisements are displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information. 
 
@@ -70,7 +70,7 @@ TheNewRepublic.com creates aggregate reports on user demographics and traffic pa
 
 When you visit TheNewRepublic.com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with TheNewRepublic.com. TheNewRepublic.com will not disclose the information you submit, except as described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of TheNewRepublic.com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services. 
 
-As discussed above, TheNewRepublic.com uses Topica to collect and store personal information users submit when subscribing to the electronic newsletters. CDS stores information collected from you when you subscribe online to our print or digital publication, _The New Republic_. These third parties may have their own privacy and data collection practices. TheNewRepublic.com has no responsibility or liability for these third party policies. 
+As discussed above, TheNewRepublic.com uses Topica to collect and store personal information users submit when subscribing to the electronic newsletters. PCD stores information collected from you when you subscribe online to our print or digital publication, _The New Republic_. These third parties may have their own privacy and data collection practices. TheNewRepublic.com has no responsibility or liability for these third party policies. 
 
 If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service. 
 
@@ -88,16 +88,27 @@ Whenever you voluntarily disclose any information online in any forum, that info
 
 **Updating, Correcting and Deleting Personal Information**
 
-Users who subscribe to our print or digital publication, _The New Republic_ , may correct or change online their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at [online@tnr.com](mailto:online@tnr.com). 
+Users who subscribe to our print or digital publication, _The New Republic_ , may correct or change online their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at [tnrdigital@tnr.com](mailto:tnrdigital@tnr.com). 
+
+If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information. 
 
 Currently, TheNewRepublic.com does not offer users a means by which to completely delete personal information submitted while on this site. 
 
 **Additional Information**
 
-If, for any reason, you believe that TheNewRepublic.com has not adhered to its Privacy Policy, please notify us by sending an email message to [online@tnr.com](mailto:online@tnr.com). TheNewRepublic.com will try to respond to your concerns and, where appropriate, attempt to correct the problem. 
+If, for any reason, you believe that TheNewRepublic.com has not adhered to its Privacy Policy, please notify us by sending an email message to [tnrdigital@tnr.com](mailto:tnrdigital@tnr.com). TheNewRepublic.com will try to respond to your concerns and, where appropriate, attempt to correct the problem. 
 
-By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with TheNewRepublic.com, you may contact us at the email address posted above. 
+By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with TheNewRepublic.com, you may contact us via mail, email, or the telephone number listed below. 
 
-This Privacy Policy was last updated effective July 18, 2002. 
+The New Republic  
+Customer Service  
+P.O. Box 420235  
+Palm Coast, FL 32142-0235  
+
+
+Phone: 1-800-827-1289   
+Email: [tnrdigital@tnr.com](mailto:tnrdigital@tnr.com)
+
+This Privacy Policy was last updated effective July 31, 2006. 
 
 |  [](http://www.tnr.com/pt/rightnav)
