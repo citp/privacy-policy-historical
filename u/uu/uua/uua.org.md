@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627184059id_/http%3A//www.uua.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226194645id_/http%3A//www.uua.org/privacy.html) for the most accurate reproduction.*
 
 # Unitarian Universalist Association Privacy Policy
 
