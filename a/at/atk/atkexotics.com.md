@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkexotics.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625201754id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkexotics.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227005628id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
 
 # AMKINGDOM Privacy Policy
 
