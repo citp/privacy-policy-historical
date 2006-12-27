@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203116id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227174148id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
 
 # Monster - Privacy Statement
 
@@ -56,7 +56,7 @@ If you have a Monster Networking profile, other users or members of Monster Netw
 
 **Other Uses of Information**
 
-We also share aggregated anonymous information about visitors to Monster or Monster Networking (for example, the number of visitors to Monster's Diversity & Inclusion area) with its clients, partners and other third parties so that they can understand the kinds of visitors to the Monster Sites and how those visitors use the Monster Sites.
+We also share aggregated anonymous information about visitors to Monster or Monster Networking (for example, the number of visitors to Monster's Diversity & Inclusion area) with its clients, partners and other third parties so that they can understand the kinds of visitors to the Monster Sites and how those visitors use the Monster Sites. We may also aggregate on an anonymous basis data regarding job qualifications, schooling, age, experience level or other information relevant to the job search or competition among Seekers for any such job. Such data may be made available to employers or fellow job seekers.
 
 We supply technology, hosting and related services to other leading companies to power recruitment areas on their Web sites (sometimes referred to as "Hosted Career Sites"). Personal and/or demographic information supplied by you in Hosted Career Sites becomes part of the Monster database, but it is not accessible by anyone other than you, Monster and the company concerned without your consent. If you attempt to register with Monster after registering with a Hosted Career Site, Monster will recognize your information and you will be able to use the information you provided to the Hosted Career Site in your MyMonster account registration.
 
