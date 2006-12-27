@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623010421id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227010547id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
 
 # HometownQuotes.Com :: Free Online Quotes for All of Your Insurance Needs - Auto, Home, Life, Health and More!
 
