@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comcastsupport.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629120722id_/http%3A//www.comcast.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastsupport.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227011142id_/http%3A//www.comcast.net/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Comcast.net
 
