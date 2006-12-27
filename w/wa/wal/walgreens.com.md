@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615111428id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227214930id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp) for the most accurate reproduction.*
 
 # Walgreens.com | Help | Walgreens.com Online Privacy & Security Policy
 
@@ -35,10 +35,10 @@ How is the information used?
 You may choose to supply personalized information that will enable you to receive individualized customer service that we cannot offer anonymous users. That customer service may include notices about updates to our web site, e-mail reminders, communicating with Walgreens pharmacists, health content from Walgreens.com Health Library, and use of the photo site. We also use the information that you provide in order to respond to your requests, customize your online shopping experience, administer contests or promotions, offer new products and services, and measure and improve the effectiveness of our web sites or our marketing endeavors. 
 
 Does Walgreens.com share the information I've provided?    
-We will not intentionally release your particular prescription information other than to you, Walgreen Co. and its subsidiaries, our **agents** (such as contracted fulfillment parties, if any) your authorized representative, or your prescriber or other authorized medical professional. We may forward your prescription information to your insurance plan, so that we can handle reimbursement of your prescription purchase for your conveniencee.   
+We will not intentionally release your particular prescription information other than to you, Walgreen Co. and its subsidiaries, our **agents** (such as contracted fulfillment parties, if any) your authorized representative, or your prescriber or other authorized medical professional. We may forward your prescription information to your insurance plan, so that we can handle reimbursement of your prescription purchase for your convenience.   
 
 
-  * **Agents** : We may employ other companies and individuals to perform functions on our behalf. These functions may include fulfilling orders for the Health Info Card program, delivering packages, hosting the photo site, developing pictures or photo products, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, or processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Agents** : We may employ other companies and individuals to perform functions on our behalf. These functions may include fulfilling orders for the Health Info Card program, delivering packages, hosting sites from walgreens.com including the photo site, product reviews, developing pictures or photo products, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, or processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Promotional Offers** : We may send offers to selected groups of Walgreens.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please notify us. 
   * **Disclosures:** As required by law we will disclose medical and other information which may relate to you. For example, in compliance with the Methamphetamine Control Act of 1996, Walgreens.com will provide the Drug Enforcement Administration with the name and address of each individual who purchases products on Walgreens.com which contain the ingredients ephedrine or pseudophedrine. We, or our photo site host, may also disclose information which we believe to be in violation of Title 18 of the United States Code, Sections 2251 et seq. to appropriate law enforcement agencies. 
   * **Invitees:** You may invite other parties to view the content in your Photo Albums. Photo.Walgreens.com will share such information as may be necessary for your invitees to view the albums you designate. 
@@ -104,4 +104,4 @@ Related Practices and Information
   * [Notice of Privacy Practices](https://web.archive.org/help/noticeprivacypractices.jsp)
 
   
-Effective Date:  06/20/2004 
+Effective Date:  10/12/2006 
