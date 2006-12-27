@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202326id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227231031id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
-# Privacy, Disclaimer, Copyrights and Logo Use
+# Privacy and Other Web Policies--U.S. Fish and Wildlife Service
 
 **PRIVACY STATEMENT**
 
-The U.S. Fish and Wildlife Service is committed to maintaining a web site that protects the individual’s right to privacy. We do **not** require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. Likewise, we do **not** give, sell, or transfer any personal information to a third party except as might be required by law .
+In accordance with the [Department of the Interior Privacy Policy](http://www.doi.gov/privacy.html), The U.S. Fish and Wildlife Service is committed to maintaining a web site that protects the individual’s right to privacy. We do **not** require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. Likewise, we do **not** give, sell, or transfer any personal information to a third party except as might be required by law .
 
 **Data Collection for Statistics**  
 To aid in web site management, certain information is collected for statistical purposes. The Service uses specialized software to create summary statistics, which are used for such purposes as assessing what information is of most and least interest to our customers, determining technical design specifications, and identifying system performance or problem areas.
 
 We collect only the following information about your visit:
 
-  * The name of the domain from which you access the Internet (for example, "princeton.edu" if you are connecting from Princeton University’s domain, or "aol.com" if you are connecting from an America Online account);
-  * The web site from which you linked directly to our web site, if you have used another web site to reach our site;
-  * The operating system and web browser you use to view pages;
-  * The date and time you access our web site.
+  * the name of the domain from which you access the Internet (for example, "princeton.edu" if you are connecting from Princeton University’s domain, or "aol.com" if you are connecting from an America Online account);
+  * the web site from which you linked directly to our web site, if you have used another web site to reach our site;
+  * the operating system and web browser you use to view pages; and 
+  * the date and time you access our web site.
 
 
 
@@ -29,18 +29,14 @@ Visit the Department's [**Talk to Us**](http://www.doi.gov/footer/question.htm) 
 For web site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic, identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload or change information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 **Cookies**  
-When you visit some Web sites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at www.fws.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our Web site.  
+When you visit some Web sites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at www.fws.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our Web site.
 
+Per-session cookies serve technical purposes like providing seamless navigation through www.fws.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. www.fws.gov cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.
 
-Per-session cookies serve technical purposes like providing seamless navigation through www.fws.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. www.fws.gov cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.  
-
-
-For Kids!  
-Please don't send us e-mail ** _, Especially if you are under 13_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](http://www.pueblo.gsa.gov/fws/contactus.htm)** if you need further assistance. 
+**_For Kids!_**  
+Please don't send us e-mail ** _, Especially if you are under 13 years old_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](http://www.fws.gov/duspit/contactus.htm)** if you need further assistance. 
 
 For more information: See the [Department of the Interior's Children's Privacy statement](http://www.doi.gov/chprivacy.html).
-
-* * *
 
 **STANDARD DISCLAIMER**
 
@@ -54,25 +50,22 @@ We will link to external sites that help us perform our mission - "working with 
 
 
 
-* * *
-
 **COPYRIGHT STATEMENT**
 
 Please note: 
 
   1. You are welcome to make a link to any of the Web pages the Service has published on the Internet. **_There is no need to request permission._**
-  2. Not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below). 
+  2. Not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below).
 
-We will identify material we use from sources outside the Service, and request others do the same when using information published by the Service. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:  
 
+
+We will identify material we use from sources outside the Service, and request others do the same when using information published by the Service. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:
 
      Credit: _U. S. Fish and Wildlife Service_  
 
     _Photo by Robert Shallenberger/U.S. Fish and Wildlife Service_ or _USFWS photo_ (if the photographer is known)  
 
-    _USFWS/Elkins, WV_ (if originating office but not the photographer is known)
-
-* * *
+    _USFWS/Elkins, WV_ (if originating office but not the photographer is known
 
 **RESTRICTIONS ON USING THE SERVICE LOGO**
 
@@ -80,14 +73,12 @@ The Service logo is our official "trademark." Its use is reserved for official p
 
 Please use [alternative images if you need a graphic](http://www.fws.gov/help/altlogo.html). 
 
-There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications such as Web sites. Contact [Mitch Snow](mailto:Mitch_Snow@fws.gov) in the External Affairs office at (202) 208-5634 for assistance. 
+There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications such as Web sites. Contact [Mark Newcastle](mailto:Mark_Newcastle@fws.gov) in the External Affairs office at (703) 358-2196 for assistance. 
 
-The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://duckstamps.fws.gov/Licenseindex.html) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://federalaid.fws.gov/info/falogos.html), and the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
+The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://www.fws.gov/duckstamps) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://www.fws.gov/federalaid/info/falogos.html), and the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
+
+Comments? Questions? Please check our answers to [Frequently Asked Questions](http://www.fws.gov/faq) (FAQ's) before you [contact us](http://www.pueblo.gsa.gov/fws/contactus.htm) . 
+
+Last updated: August 30, 2006
 
 * * *
-
-Comments? Questions? Please check our answers to [Frequently Asked Questions](http://faq.fws.gov/) (FAQ's) before you [contact us](http://www.pueblo.gsa.gov/fws/contactus.htm) . 
-
-* * *
-
-[U. S. Fish and Wildlife Service Home Page](http://www.fws.gov/)
