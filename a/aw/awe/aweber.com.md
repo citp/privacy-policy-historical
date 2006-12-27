@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629011119id_/http%3A//www.aweber.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227222557id_/http%3A//www.aweber.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AWeber Communications, Inc.
 
-[Home](https://web.archive.org/web/20060629011119id_/http%3A//www.aweber.com/index.htm) > [About Us](https://web.archive.org/web/20060629011119id_/http%3A//www.aweber.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20060629011119id_/http%3A//www.aweber.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20061227222557id_/http%3A//www.aweber.com/index.htm) > [About Us](https://web.archive.org/web/20061227222557id_/http%3A//www.aweber.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20061227222557id_/http%3A//www.aweber.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of AWeber Systems, Inc.**
 
