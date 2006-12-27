@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425205245id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fs%3DPR%26ureq%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227235257id_/http%3A//www.cyberguys.com/templates/privacy.asp) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy and Security
 
   
 | 
 
-| Cyberguys.com - Privacy and Security  
+|   
+---  
+  
+|  Privacy and Security  
 ---  
   
 ---  
 This is the web site of Cyberguys!®  
-Our Promise of Privacy  
 Our postal address is:  
 11321 White Rock Road  
-Rancho Cordova, CA 95742 | []()  
+Rancho Cordova, CA 95742-6505   Map | []()  
 We can be reached via Email at: [customercare@cyberguys.com](mailto:customercare@cyberguys.com)  
 or you can reach us by telephone at 1-800-892-1010  
 Our Promise of Privacy  
@@ -55,23 +57,26 @@ We take privacy and security matters very seriously and it is important to us th
   
 |   
 ---  
+|  My Account |  |   
+---|---|---  
+|   
+---  
  Exclusive  
  Email Specials  
+|   
 ---  
- Quick Order  
- Enter Item Below  
-|  | Qty |  | Item # |  |   
----|---|---|---|---|---  
-|  |  |  |  |   
+   
+---  
+[](http://www.cyberguys.com/templates/quickorder.asp?entry=Y "Our Quick Order page is a fast and easy way to order items directly.")  
 ---  
  Top 10 Sellers  
-| 1.  | [Y-splitter Liberator Power Extension](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2570) |   
-| 2.  | [Power Strip Liberator, 14in](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2550) |   
-| 3.  | [CD Carousel Plus Black](http://www.cyberguys.com/templates/searchdetail.asp?T1=134+1450) |   
-| 4.  | [Aluminum Mobile Computing Workstation Cart](http://www.cyberguys.com/templates/searchdetail.asp?T1=111+0375) |   
-| 5.  | [Plusdeck2c Pc Cassette Deck, Tape To MP3](http://www.cyberguys.com/templates/searchdetail.asp?T1=204+0696) |   
-| 6.  | [Aa Mini Maglite LED Conversion Kit](http://www.cyberguys.com/templates/searchdetail.asp?T1=142+0393) |   
-| 7.  | [Kill A Watt, Electricity Usage Monitor](http://www.cyberguys.com/templates/searchdetail.asp?T1=112+0240) |   
-| 8.  | [HD15 SVGA, M/m, Low Loss, 50ft](http://www.cyberguys.com/templates/searchdetail.asp?T1=128+2255) |   
-| 9.  | [Digital Wifi Detector, Canary Wireless](http://www.cyberguys.com/templates/searchdetail.asp?T1=120+5612) |   
-| 10.  | [Power Station Organizer](http://www.cyberguys.com/templates/searchdetail.asp?T1=112+0465) | 
+| 1.  | [Y-splitter Liberator Power Ext.](http://www.cyberguys.com/templates/searchdetail.asp?productID=9921) |   
+| 2.  | [Power Strip Liberator, 14in](http://www.cyberguys.com/templates/searchdetail.asp?productID=1757) |   
+| 3.  | [CD Carousel Plus Black](http://www.cyberguys.com/templates/searchdetail.asp?productID=10670) |   
+| 4.  | [Aluminum Mobile Computing Workstation Cart](http://www.cyberguys.com/templates/searchdetail.asp?productID=4356) |   
+| 5.  | [Plusdeck2c Pc Cassette Deck, Tape To MP3](http://www.cyberguys.com/templates/searchdetail.asp?productID=10172) |   
+| 6.  | [Network Pair Splitter](http://www.cyberguys.com/templates/searchdetail.asp?productID=596) |   
+| 7.  | [Kill A Watt, Electricity Usage Monitor](http://www.cyberguys.com/templates/searchdetail.asp?productID=5382) |   
+| 8.  | [USB 2.0 Cable](http://www.cyberguys.com/templates/searchdetail.asp?productID=4310) |   
+| 9.  | [Desktop Boom Microphone](http://www.cyberguys.com/templates/searchdetail.asp?productID=1558) |   
+| 10.  | [Power Station Organizer](http://www.cyberguys.com/templates/searchdetail.asp?productID=8763) | 
