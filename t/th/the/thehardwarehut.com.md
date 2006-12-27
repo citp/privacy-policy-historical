@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619201706id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227213208id_/http%3A//thehardwarehut.com/policy.php) for the most accurate reproduction.*
 
 # The Hardware Hut - Privacy Policy
 
-**Online Privacy Policy** Protecting your privacy is very important to www.thehardwarehut.com and The Hardware Hut. This document will help you to understand our policies regarding your personal information. 
+**Online Privacy Policy**   
+Protecting your privacy is very important to www.thehardwarehut.com and The Hardware Hut. This document will help you to understand our policies regarding your personal information. 
 
 **Information Collection**   
 There are times that we may request that you voluntarily supply us with personal information, including your E-mail address, telephone number and your postal address. This information is used for purposes such as correspondence, site registration, making a purchase, entering a contest or sweepstakes, registering for a new product, or participating in an online survey. If you do not wish for us to contact you, you can choose to "[opt out](mailto:remove@spokane-hardware.com)," and www.thehardwarehut.com & The Hardware Hut will respect your wishes. 
