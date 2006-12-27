@@ -1,42 +1,48 @@
-> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205106id_/http%3A//prweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227174603id_/http%3A//www.prweb.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for the PRWeb Newswire
+# PRWeb::Privacy Policy
 
-This is a web site of PRWEB, LLC. 
+Privacy Statement
 
-Our postal address is   
-PRWEB, LLC  
-PO BOX 333  
-FERNDALE, WA 98248
+This is the web site of Vocus PRW Holdings, LLC d/b/a PRWeb ("PRWeb").
 
-  
-The following is the privacy policy for PRWeb.com, eMediawire.com, WunZhang.com, PRWebDirect.com and DataOvation.com all services of PRWEB, LLC.
+Our postal address is 
 
-We can be reached via e-mail at our online helpdesk located at https://secure.dataovation.com/prweb/support/index.php or you can reach us by telephone at 360-312-0892
+Vocus PRW Holdings, LLC  
+4296 Forbes Boulevard  
+Lanham, MD 20706
 
-When you visit our site we do not log any information regarding your domain or email address.
+PRWeb takes privacy seriously. As a pioneer of online visibility and search engine optimized press release distribution services, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
 
-Information Sharing: We do not share user information with any third parties other than via press release distribution as described below.
+PRWeb is a newswire service which distributes press releases on behalf of our users. If you decide to submit a press release for distribution through our system we will transmit your entire press release including any personal information therein contained to our media contacts and online distribution points including search engines. This is the only redistribution of your information that we engage in. Your submission of press releases through our system indicates consent with this policy.
 
-PRWeb is a Newswire service which distributes press releases on behalf of our users. If you decide to submit a press release for distribution through our system we will transmit your entire press release including any personal information therein contained to our media contacts and online distribution points including search engines. This is the only redistribution of your information that we engage in. Your submission of press releases through our system indicates consent with this policy.
+This Policy applies to all of the products, services and web sites offered by PRWeb.
 
-The information we collect during your registration process is used to notify users about updates to our service and inform users of special events hosted by PRWeb or its partners. This information is not shared with other organizations for commercial or non-commercial purposes.
+If you have any questions about this privacy statement or the practices of this site, you may contact us at <https://console.prweb.com/prweb/support/index.php> . In order for PRWeb to take the appropriate action please describe in reasonable detail the nature of your request or inquiry.
 
-With respect to cookies: We do not set or use any cookies. 
+**Collected Information:**  
+We do not share user information with any third parties other than via press release distribution as described above.
 
-If you do not want to receive e-mail from us in the future, please let us know by following instructions included in our communication with you.
+**Cookies:**
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please edit your account and remove your phone number from your account profile. 
+PRWeb may use "cookie" technology to track or record information about our web site visitors. PRWeb requires the use of "cookie" technology so that we can guarantee we'll present the correct information to users as they move from screen to screen. PRWeb users who disable their web browser's ability to accept cookies may not be able to successfully use our service.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+**Changes to Personal Information:**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Upon request we provide site visitors with access to information that we have collected and that we maintain about them. Consumers can access this information by logging into their account.
 
-On occasion we may send you an email with an offering that is of general interest to the public relations community. We don't do this very often. Such offerings, when they occur, help us to continue providing this service.
+**Third-Party Sites:**
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by or logging into their account..
+The site contains links to other web sites. PRWeb is not responsible for the privacy practices or the content of these sites. You will need to check the policy statement of other web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving user data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not store credit card information in our systems.
+**Security:**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.  
+With respect to security, we employ industry-standard encryption technologies when transferring and receiving user data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not store credit card information in our systems.
 
+**Changes to Privacy Statement:**
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change in the future, we will post the policy changes to our web site to notify you and provide you with the ability to opt out of these new uses. To keep up-to-date with PRWeb™'s policy, please check this page periodically.
+
+**Contacting the Website:**
+
+If you feel that this site is not following its stated information policy, you may contact us by sending us an email at the address above.
