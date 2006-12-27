@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229054129id_/https%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227140316id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
 
 # White House Website Privacy and Security Policy
-
-  
-
 
 **White House Website Privacy and Security Policy**
 
@@ -43,9 +40,3 @@ If you submit resume information through the [Presidential Personnel Application
 Our website has links to the websites of many other federal agencies. In a few cases, we link to private organizations, with their permission. Before leaving the White House website, a page will appear informing you that you are leaving our server. Once you link to another site, you are subject to the privacy policy of the new site. 
 
 [En Español](https://web.archive.org/privacy.es.html)
-
-  
-
-
-|  |   
----|---|---
