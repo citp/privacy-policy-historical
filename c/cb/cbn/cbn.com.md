@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2006-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060601000650id_/http%3A//cbn.com/about/privacy_notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227201610id_/http%3A//www.cbn.com/about/privacy_notice.aspx%3FWT.svl%3Dbottommenu) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
-  * [Mission & History](https://web.archive.org/about/)
-  * [Contact CBN](https://web.archive.org/contact/feedback.asp)
-  * [Job Opportunities](https://web.archive.org/about/jobs/)
-  * [Staff Bios](https://web.archive.org/about/bios/)
-  * [Copyright Info](https://web.archive.org/about/copyright/)
-  * [Privacy Notice](https://web.archive.org/about/privacy_notice.asp)
-  * [Link to CBN.com](https://web.archive.org/about/LinkToCBNDirections.asp)
-  * [Set Homepage](https://web.archive.org/about/make_cbn_your_homepage.asp)
-  * [Visit CBN](https://web.archive.org/about/visit/)
+  * [Mission & History](https://web.archive.org/about/index.aspx?WT.svl=menu)
+  * [Contact CBN](https://web.archive.org/contact/feedback.aspx?WT.svl=menu)
+  * [Job Opportunities](https://web.archive.org/about/jobs/index.aspx?WT.svl=menu)
+  * [Staff Bios](https://web.archive.org/about/bios/index.aspx?WT.svl=menu)
+  * [Copyright Info](https://web.archive.org/about/copyright/index.aspx?WT.svl=menu)
+  * [Privacy Notice](https://web.archive.org/about/privacy_notice.aspx?WT.svl=menu)
+  * [Link to CBN.com](https://web.archive.org/about/LinkToCBNDirections.aspx?WT.svl=menu)
+  * [Set Homepage](https://web.archive.org/about/make_cbn_your_homepage.aspx?WT.svl=menu)
+  * [Visit CBN](https://web.archive.org/about/visit/index.aspx?WT.svl=menu)
 
 
 
 [](https://web.archive.org/vod/)
+
+[](https://web.archive.org/community/af/login.aspx)  
+
 
 |    
 
@@ -80,11 +83,10 @@ Examples of information you can access easily at CBN.com include up-to-date info
 
 * * *
 
-**CBN IS HERE FOR YOU!  
+**CBN IS HERE FOR YOU!**  
 **Are you seeking answers in life? Are you hurting?  
-Are you facing a difficult situation? ****
+Are you facing a difficult situation? **
 
 A caring friend will be there to pray with you in your time of need.
 
-|   
----|---|---
+| 
