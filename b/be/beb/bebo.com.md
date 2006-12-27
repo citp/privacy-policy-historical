@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628031435id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227215520id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Updated: September 22, 2006
 
 Our Commitment to You
 
@@ -19,17 +21,17 @@ We also collect other non-personally identifiable data, which may include your I
 
 Use of Information
 
-We will display your personal information on your homepage according to the preferences you set in your account. We will use your name so that we can personalize your experience. We will use your email address to contact you from time to time and we will use your email address for security reasons to confirm that you are who you say you are. You can control the types and frequencies of certain emails you receive.
+We will display your personal information on your profile according to the preferences you set in your account. We will use your name so that we can personalize your experience. We will use your email address to contact you from time to time and we will use your email address for security reasons to confirm that you are who you say you are. You can control the types and frequencies of certain emails you receive.
 
 We may use the non-personally identifiable information, like your IP address, to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users.
 
-We may access, preserve, and disclose your personal information and the contents of your account if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect the rights and property of Bebo.com, its affiliates or the public.
+We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect the rights and property of Bebo.com, its affiliates or the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
 
 You Control Who Shares Your Information
 
-Your homepage information will only be given to friends you have specifically agreed to share such information with and to other members of groups (such as universities) you choose to belong to. You can limit who can view certain personal information, such as email addresses and phone numbers.
+Your profile information will only be given to friends you have specifically agreed to share such information with and to other members of groups (such as universities) you choose to belong to. You can limit who can view certain personal information, such as email addresses and phone numbers.
 
-You can choose to make your homepage visible to non-members of Bebo by editing your homepage and opting in to 'accessible profile.'
+You can choose to make your profile visible to non-members of Bebo by editing your profile and opting in to 'accessible profile.'
 
 Reviewing and Changing Your Profile
 
@@ -53,7 +55,7 @@ Cookies are a standard Internet technology, and many major web sites use them to
 
 Third Party Advertising
 
-Bebo may share homepage information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. In such situations we will never disclose information that will be used to personally identify you. Advertisements that appear on this web site are delivered to users by our advertising partners. Our advertising partners may set cookies.
+Bebo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this web site are delivered to users by our advertising partners. Our advertising partners may set cookies.
 
 Acquisition
 
@@ -61,11 +63,11 @@ We reserve the right to transfer your personal information in the event of a tra
 
 Security
 
-The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Bebo uses industry standard technology designed to help keep your personal information safe. If you have any other questions about the security of our website, please [contact us](https://web.archive.org/web/20060628031435id_/http%3A//www.bebo.com/ContactUs.jsp).
+The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Bebo uses industry standard technology designed to help keep your personal information safe. If you have any other questions about the security of our website, please [contact us](https://web.archive.org/web/20061227215520id_/http%3A//www.bebo.com/ContactUs.jsp).
 
 Changes in Privacy Policy
 
-From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy.
+From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. Your continued use of this website or our service and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
 Canceling Membership
 
@@ -73,7 +75,7 @@ You always have the option to cancel your membership at any time. If you are a m
 
 Contact
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20060628031435id_/http%3A//www.bebo.com/ContactUs.jsp) page, or by writing to:
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20061227215520id_/http%3A//www.bebo.com/ContactUs.jsp) page, or by writing to:
 
     | Customer Support  
 ---|---  
