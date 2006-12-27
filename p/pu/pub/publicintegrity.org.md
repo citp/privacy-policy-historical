@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicintegrity.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001459id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicintegrity.org privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227215729id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
 
 # About Us - The Center for Public Integrity
 
@@ -6,7 +6,7 @@ This site is published by the Center for Public Integrity, a tax-exempt 501(c)(3
 
 Material on this site may not be copied, mirrored, cataloged, displayed simultaneously with another site in part or in whole, nor may any of its sub-programs be accessed from any page without the express written consent of the appropriate rights holder. Use of this site contractually obliges each user to these terms. News media may use portions of the content of this site and refer to its contents with appropriate credit given to the Center for Public Integrity. 
 
-Republication rights inquiries may be made to the Managing Editor of the Center for Public Integrity, Teo Furtado. 
+Republication rights inquiries may be made to the Editorial Director of the Center for Public Integrity, Diane Fancher. 
 
 #### Privacy Policy
 
