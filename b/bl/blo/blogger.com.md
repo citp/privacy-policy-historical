@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogger.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628062826id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227225255id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
 
 # Blogger: Blogger Privacy Notice
 
