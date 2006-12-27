@@ -1,0 +1,562 @@
+<!--The following is the downloaded HTML source of the isdb.org privacy policy that was archived on 2006-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061227123855id_/http%3A//www.isdb.org/privacy_policy.html) for the most accurate reproduction.-->
+
+<html><head>
+<title>:: Islamic Development Bank - Bids &amp; Tenders :: -</title>
+<style type="text/css">
+<!--
+-->
+</style>
+<link rel="stylesheet" href="gimages/A_style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+-->
+</style>
+<script language="JavaScript">
+function gdate() {
+   date=new Date();
+   var day_number=date.getDay();
+   var day_date=date.getDate();
+   var month_number=date.getMonth();
+   var year=date.getYear();
+   var week_day='';
+   var month=''
+
+   if(month_number == 0){month='Jan';}
+   if(month_number == 1){month='Feb';}
+   if(month_number == 2){month='Mar';}
+   if(month_number == 3){month='Apr';}
+   if(month_number == 4){month='May';} 
+   if(month_number == 5){month='Jun';}
+   if(month_number == 6){month='Jul';}
+   if(month_number == 7){month='Aug';}
+   if(month_number == 8){month='Sept';}
+   if(month_number == 9){month='Oct';}
+   if(month_number == 10){month='Nov';}
+   if(month_number == 11){month='Dec';}
+
+   if(day_number == 0){week_day='Sun';}
+   if(day_number == 1){week_day='Mon';}
+   if(day_number == 2){week_day='Tues';}
+   if(day_number == 3){week_day='Wed';}
+   if(day_number == 4){week_day='Thur';}
+   if(day_number == 5){week_day='Fri';}
+   if(day_number == 6){week_day='Sat';}
+
+  var date_to_show=week_day + ',  ' + day_date + ' ' + month + ', ' + year; 
+   document.write('<font size="1"  face="Arial, Helvetica, sans-serif" color="#FFFFFF"><b>' + date_to_show + '</b></FONT>');
+}
+
+
+//-->display_date()
+ //-->display_title()
+//-->
+
+
+ns4 = (document.layers)? true:false
+ie4 = (document.all)? true:false
+
+
+
+function intPart(floatNum){
+if (floatNum< -0.0000001){
+	 return Math.ceil(floatNum-0.0000001)
+	}
+return Math.floor(floatNum+0.0000001)	
+}
+function weekDay(wdn){
+					if(wdn==0){
+						return "Monday"
+						}
+					if(wdn==1){
+						return "Tuesday"
+						}
+					if(wdn==2){
+						return "Wednesday"
+						}
+					if(wdn==3){
+						return "Thursday"
+						}
+					if(wdn==4){
+						return "Friday"
+						}
+					if(wdn==5){
+						return "Saturday"
+						}
+					if(wdn==6){
+						return "Sunday"
+						}
+	return ""
+
+}
+function hdate() {
+   date=new Date();
+   var d=date.getDate();
+   var dwn=date.getDay();
+   var m=date.getMonth();
+   m = m+1;
+   var y=date.getYear();
+  
+    if(ns4) 
+    {y = y +1900;}
+ 
+
+
+					if ((y>1582)||((y==1582)&&(m>10))||((y==1582)&&(m==10)&&(d>14))) 
+						{
+						jd=intPart((1461*(y+4800+intPart((m-14)/12)))/4)+intPart((367*(m-2-12*(intPart((m-14)/12))))/12)-
+	intPart( (3* (intPart(  (y+4900+    intPart( (m-14)/12)     )/100)    )   ) /4)+d-32075
+						}
+						else
+						{
+						jd = 367*y-intPart((7*(y+5001+intPart((m-9)/7)))/4)+intPart((275*m)/9)+d+1729777
+						}
+				
+					l=jd-1948440+10632
+					n=intPart((l-1)/10631)
+					l=l-10631*n+354
+					j=(intPart((10985-l)/5316))*(intPart((50*l)/17719))+(intPart(l/5670))*(intPart((43*l)/15238))
+					l=l-(intPart((30-j)/15))*(intPart((17719*j)/50))-(intPart(j/16))*(intPart((15238*j)/43))+29
+					m=intPart((24*l)/709)
+					d=l-intPart((709*m)/24) 
+					y=30*n+j-30
+   var month='';
+   if(m == 1){month='MUHARRAM';}
+   if(m == 2){month='SAFAR';}
+   if(m == 3){month='RABI-I';}
+   if(m == 4){month='RABI-II';}
+   if(m == 5){month='JUMAD-I';} 
+   if(m == 6){month='JUMADA-II';}
+   if(m == 7){month='RAJAB';}
+   if(m == 8){month='SHABAN';}
+   if(m == 9){month='RAMADAN';}
+   if(m == 10){month='SHAWWAL';}
+   if(m == 11){month='DHU AL-QADAH';}
+   if(m == 12){month='DHU AL-HIJJAH';}
+
+      
+   var datetoshow=d +' ' + month + ', ' + y + 'H';  
+   document.write('<font size="1"  face="Arabic Transparent" color="#FFFFFF">' + datetoshow + '</FONT>');			
+}
+//-->
+<!-- HIDE
+if (navigator.appVersion.indexOf("2.") != -1){
+        check = false;
+        }
+if ((navigator.appVersion.indexOf("3.") != -1) && (navigator.appName.indexOf("Explorer") != -1)){
+        check = false;
+        }
+else {
+        check = true;
+        }
+
+if (check == true){
+        
+        image8= new Image();
+        image8.src = "../images/idbmaster.gif";
+        image8on = new Image();
+        image8on.src = "../images/idbmasteron.gif";
+
+        image9= new Image();
+        image9.src = "../images/englishmaster.gif";
+        image9on = new Image();
+        image9on.src = "../images/englishmasteron.gif";
+
+        }
+
+function imageon(name)   {
+        document[name].src = eval(name + "on.src");
+}
+function imageoff(name)  {
+        document[name].src = eval(name + ".src");
+}
+
+function on(name)  {
+        if (check == true){
+                imageon(name);
+        }
+}
+function off(name)  {
+        if (check == true){
+                imageoff(name);
+        }
+}
+
+function openSiteMap() {
+        var sitemap = open("sitemap/siteindex.htm", "SiteMap", "width=250,height=400,scrollbars=auto,status=yes");
+}
+
+// STOP HIDING -->
+</script></head>
+
+
+
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" text="#000000">
+<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td height="5"><img src="images/pixel.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="700" hspace="0" vspace="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr> 
+    <td valign="top" background="images/backg.jpg" width="22%"><img src="images/tlcorner.gif" width="18" height="16"> 
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" vspace="0" hspace="0">
+        <tbody><tr> 
+          <td> <div align="center"><img src="images/idblogo.gif" width="112" height="123"></div></td>
+        </tr>
+        <tr valign="top"> 
+          <td>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr valign="top"> 
+          <td>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td align="center">&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+    <td align="left" valign="top" width="78%"> <div align="right"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/backg.jpg">
+          <tbody><tr> 
+            <td rowspan="2"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr> 
+                  <td> <table width="197" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr bgcolor="#66CC66"> 
+                        <td><img src="images/pixel.gif" width="1" height="1"></td>
+                      </tr>
+                      <tr> 
+                        <td width="197"> <font size="2" face="Arial, Helvetica, sans-serif" color="#66CC66"><b>The 
+                          Islamic Development Bank</b></font></td>
+                      </tr>
+                      <tr> 
+                        <td bgcolor="#66CC66" height="1"><img src="images/pixel.gif" width="1" height="1"></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr valign="bottom"> 
+                  <td height="29"> <div align="center"><font color="#E0ECC0"></font></div></td>
+                </tr>
+                <tr> 
+                  <td>&nbsp;</td>
+                </tr>
+              </tbody></table></td>
+            <td width="11%" valign="top"> <div align="right"><img src="images/tcorner.gif" width="18" height="16"></div></td>
+          </tr>
+          <tr> 
+            <td width="11%" height="54">&nbsp;</td>
+          </tr>
+        </tbody></table>
+        <table border="0" width="100%" cellpadding="0" cellspacing="0" vspace="0" hspace="0">
+          <tbody><tr valign="top"> 
+            <td bordercolor="#FFFFFF"> <table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="#107018">
+                <tbody><tr bordercolor="#FFFFFF"> 
+                  <td colspan="3" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#12831B">
+                      <tbody><tr valign="top"> 
+                        <td width="3%"> <div align="left"><img src="english_docs/idb_home/images/1b.gif" width="17" height="18"> 
+                          </div></td>
+                        <td width="54%" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#990000">&nbsp;<font color="#FFFF00">&nbsp;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">&nbsp;</font><a href="http://www.isdb.org/" class="nav">IDB 
+                          Home </a></font></td>
+                        <td width="43%" valign="middle"> <div align="right">&nbsp;&nbsp; 
+                            <script>gdate()</script><font size="1" face="Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Thur,  30 Jan, 120</b></font>
+                            &nbsp; &nbsp; </div></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr bordercolor="#FFFFFF" valign="top"> 
+                  <td colspan="3"> <table width="100%" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#107018">
+                      <tbody><tr bordercolor="#FFFFFF"> 
+                        <td width="100%" height="15" class="title2">&nbsp;</td>
+                      </tr>
+                      <tr bordercolor="#FFFFFF"> 
+                        <td height="15" class="title2"><span class="title1">Privacy 
+                          Policy </span> </td>
+                      </tr>
+                      <tr bordercolor="#FFFFFF"> 
+                        <td valign="bottom"></td>
+                      </tr>
+                      <tr bordercolor="#FFFFFF" valign="top"> 
+                        <td height="21"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tbody><tr> 
+                              <td><p><span class="subtitle">Introduction </span> 
+                                </p>
+                                <p class="par">This privacy statement sets out 
+                                  the data processing practices carried out through 
+                                  the use of Islamic Development Bank (IDB) website. 
+                                  The statement should read in conjunction with 
+                                  our Terms and Conditions of Use, of which this 
+                                  statement forms part thereof.</p>
+                                <p class="par">IDB is committed to keeping information 
+                                  given by the users of our website confidential. 
+                                  It is necessary that users fully understand 
+                                  the terms and conditions surrounding the capture 
+                                  and use of information we gather, how we use 
+                                  it, and how to correct or change it.</p>
+                                <p class="par">IDB is the sole owner of information 
+                                  collected on www.isdb.org. IDB will not sell, 
+                                  share, or rent this information to others, and 
+                                  it will be used only by IDB for technical administration 
+                                  of the website, customer administration, and 
+                                  research and development.</p>
+                                <p class="subtitle">Links</p>
+                                <p class="par">The IDB website may contain links 
+                                  to, and may be accessed from, other websites. 
+                                  IDB is not responsible for the privacy practices 
+                                  or the content of other websites. This privacy 
+                                  statement applies solely to information collected 
+                                  by the IDB website. We encourage our users to 
+                                  be aware that, when they leave www.isdb.org, 
+                                  to read the privacy statements of each and every 
+                                  website that collects personally identifiable 
+                                  information.</p>
+                                <p class="subtitle">Collection of Information</p>
+                                <p class="par">When you register at www.isdb.org 
+                                  or use our services, you volunteer the following 
+                                  information:</p>
+                                <ol>
+                                  <li> 
+                                    <p class="par">Personally identifiable information: 
+                                      <br>
+                                      Users provide the following types of personal 
+                                      information:</p>
+                                  </li>
+                                </ol>
+                                <ul>
+                                  <li> 
+                                    <p class="par">registration related information 
+                                      (such as your name, home or work address, 
+                                      telephone number, etc);</p>
+                                  </li>
+                                  <li> 
+                                    <p class="par">Information about the searches 
+                                      you carry out; and</p>
+                                  </li>
+                                  <li> 
+                                    <p class="par">Information about your visits 
+                                      to the IDB website.<br>
+                                      <br>
+                                      Please note that no personally identifiable 
+                                      information is collected from visitors to 
+                                      our website who do not wish to register 
+                                      as users to www.isdb.org. However, if visitors 
+                                      wish to contact us, send comments, or recommend 
+                                      www.isdb.org, the visitor must provide some 
+                                      personally identifiable information such 
+                                      as name and e-mail address. This information 
+                                      will only be used by <a href="http://www.isdb.org/">www.isdb.org.</a></p>
+                                  </li>
+                                </ul>
+                                <ol start="2">
+                                  <li> 
+                                    <p class="par">Non-personal identifiable information: 
+                                      <br>
+                                      Technical information is also collected 
+                                      when you use the website. Some of the technical 
+                                      information that may be collected include: 
+                                      the type of browser you are using, your 
+                                      manner of connecting to the internet, your 
+                                      internet protocol address (which is the 
+                                      internet address of your computer, that 
+                                      all computers automatically provide whenever 
+                                      accessing the internet or other computers), 
+                                      etc. Although this tracks user traffic patterns 
+                                      and gathers information, it does not track 
+                                      individual users. </p>
+                                  </li>
+                                </ol>
+                                <p class="subtitle"><strong>Method of Collecting 
+                                  Information </strong></p>
+                                <p class="par">We collect information about you 
+                                  in the following ways:</p>
+                                <ol>
+                                  <li> 
+                                    <p class="par">Automatic programming<br>
+                                      When you register at www.isdb.org and move 
+                                      from page to page within our website, the 
+                                      information you provide is automatically 
+                                      stored in our electronic files. <br>
+                                    </p>
+                                  </li>
+                                  <li> 
+                                    <p class="par">Cookies<br>
+                                      These are very small text files placed on 
+                                      your hard drive by a web page server. Cookies 
+                                      work like identification cards informing 
+                                      the server that you are a returning visitor 
+                                      to the web page. They can only be read by 
+                                      the server that gave them to you and are 
+                                      unique to your computer. If you would prefer, 
+                                      you can set your browsers to refuse cookies. 
+                                      However, you may not be able to take full 
+                                      advantage of a website if you do so. You 
+                                      can also set your browser to notify you 
+                                      when you receive cookies, giving you the 
+                                      chance to decide whether to accept them. 
+                                      Alternatively, you may switch off cookies 
+                                      by changing your browser settings. </p>
+                                  </li>
+                                </ol>
+                                <p class="subtitle">Use of Information</p>
+                                <p class="par">Information gathered is mainly 
+                                  used for the following:</p>
+                                <ul>
+                                  <li> 
+                                    <p class="par">To operate and improve these 
+                                      website;</p>
+                                  </li>
+                                  <li> 
+                                    <p class="par">To enhance the user's experience;</p>
+                                  </li>
+                                  <li> 
+                                    <p class="par"> To personalize the content 
+                                      for individuals and respond to their queries;</p>
+                                  </li>
+                                  <li> 
+                                    <p class="par">To conduct research about the 
+                                      use of the website; and</p>
+                                  </li>
+                                  <li> 
+                                    <p class="par">To learn about the geographical 
+                                      distribution of our website’s visitors.<br>
+                                      IDB may use agents and contractors in order 
+                                      to help operate the network. If such agents 
+                                      and contractors have access to personally 
+                                      identifiable information, they are required 
+                                      to protect this information in a manner 
+                                      that is consistent with this Privacy Policy, 
+                                      such as not using the information for any 
+                                      purpose other than to carry out the services 
+                                      they are performing on the network.</p>
+                                  </li>
+                                </ul>
+                                <p class="par">Legal matters: The IDB website 
+                                  will not disclose your personal data to third 
+                                  parties unless we are required by law or legal 
+                                  process to provide information regarding a user.</p>
+                                <p class="subtitle">Your Choices</p>
+                                <p class="par">Registration on the website is 
+                                  optional. The IDB website give users the option, 
+                                  wherever necessary and practical to opt-out 
+                                  of the use of their personally identifiable 
+                                  information for secondary uses by opting not 
+                                  to provide certain information when registering, 
+                                  and opting not to receive IDB newsletters, announcements 
+                                  and other e-mails.</p>
+                                <p class="subtitle">Commitment to Security</p>
+                                <p class="par">The IDB website has established 
+                                  safeguards to help prevent unauthorized access 
+                                  to or misuse of www.isdb.org. Reasonable steps 
+                                  will always be taken to verify your identity 
+                                  before granting access or making corrections. 
+                                  All our employees and data processors that have 
+                                  access to, and are associated with the processing 
+                                  of personal data, are obliged to respect the 
+                                  confidentiality of our visitors' personal data. 
+                                  However, we cannot guarantee that your personally 
+                                  identifiable information will never be disclosed 
+                                  in a manner inconsistent with this Privacy Policy 
+                                  (for example, as a result of unauthorized acts 
+                                  by third parties acting illegally).</p>
+                                <p class="subtitle">Privacy Policy Changes</p>
+                                <p class="par">This privacy statement states our 
+                                  current practices and policies. If our practices 
+                                  change in the future, this statement will be 
+                                  updated and posted here so that you have the 
+                                  latest information on our data collection and 
+                                  use policies.</p>
+                                <p class="subtitle">How to Contact Us</p>
+                                <p class="par">If you have any questions or concerns 
+                                  about our Privacy Policy, please contact:<br>
+                                  The Portal Manager<br>
+                                  Islamic Development Bank<br>
+                                  Information Technology Department<br>
+                                  P.O. Box 5925<br>
+                                  Jeddah 21432<br>
+                                  Kingdom of Saudi Arabia.<br>
+                                  Tel: +966 2 6466429<br>
+                                  Fax: +966 2 6466469<br>
+                                  E-mail: <a href="mailto:ITD@isdb.org">ITD@isdb.org</a></p></td>
+                            </tr>
+                          </tbody></table>
+                          <p>&nbsp;</p></td>
+                      </tr>
+                      <tr bordercolor="#FFFFFF"> 
+                        <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#E9E9E9">
+                            <tbody><tr> 
+                              <td> <center>
+                                    <!-- <tr>
+
+        <td align="right">
+
+        </td>
+
+        <td align="middle"><br>
+
+        </td>
+
+        <td align="middle"><a href="javascript:openSiteMap()"><br>
+
+        </a></td>
+
+        <td align="middle"><a href="english_docs/idb_home/jobs.htm"><br>
+
+        </a></td>
+
+        <td align="middle"><a
+href="http://www.isdb.org/english_docs/idb_home/faq/q_ans.htm"><br>
+
+        </a></td>
+
+        <td align="middle"><a href="english_docs/idb_home/comments.htm"><br>
+
+        </a></td>
+
+        <td align="middle"><a href="english_docs/idb_home/contact.htm"><br>
+
+        </a></td>
+
+        <td align="left"><br>
+
+        </td>
+
+      </tr>
+-->
+                                    </center><table border="0" width="56%" cellpadding="0" cellspacing="0" hspace="0" vspace="0" align="center" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
+                                  <tbody><tr bordercolor="#FFFFFF"> 
+                                      <td align="center"><font size="-2"> | <a href="search/search.htm">Search</a> 
+                                        |&nbsp; | <a href="javascript:openSiteMap()">Site Map</a> |&nbsp; | <a href="english_docs/idb_home/faq/q_ans.htm">FAQ</a> |&nbsp; | <a href="english_docs/idb_home/comments.htm">Comments</a> |&nbsp; | <a href="english_docs/idb_home/contact.htm">Contact 
+                                        Us</a> | </font></td>
+                                    </tr>
+                                  
+                                </tbody></table></td>
+                            </tr>
+                            <tr> 
+                              <td height="2"><img width="1" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td height="10"> <script language="JavaScript" src="gimages/copyright.js"></script> 
+                                <script language="JavaScript">
+							document.write(strWriteFooter())
+						</script><center><font face="Arial" size="-2"><b><font size="-1">©</font> 2006 Islamic Development Bank. All Rights Reserved.</b></font><font face="Arial" size="-2"><b>|</b></font><font size="-2"><a href="http://www.isdb.org/privacy_policy.html"><b> Privacy Policy </b></a></font><font face="Arial" size="-2"><b>|</b></font><font size="-2"><a href="http://www.isdb.org/terms_of_use.html"><b> Legal Info </b></a></font><font face="Arial" size="-2"><b>|</b></font> </center></td>
+                            </tr>
+                          </tbody></table></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr bordercolor="#FFFFFF"> 
+                  <td colspan="3" valign="bottom"></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table>
+      </div></td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
