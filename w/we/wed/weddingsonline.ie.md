@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614075053id_/http%3A//weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228203300id_/http%3A//www2.weddingsonline.ie/privacy) for the most accurate reproduction.*
 
-# WeddingsOnline.ie - Privacy Policy - Weddings in Ireland, Irish Wedding Directory, Wedding Resources Ireland, Getting Married in Ireland
+# WeddingsOnline.ie - Weddings in Ireland, Irish Wedding Directory, Wedding Resources » Privacy
 
-## Privacy Policy
+## Privacy
 
 WeddingsOnline.ie is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, , to understand what types of personal information we collect and how this information is used.
 
 By using our site, you consent to the collection and use of your information as described in this Privacy Policy, which was last updated on 6th march, 2000. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
 
-**General.**  
+### General
+
 WeddingsOnline.ie and its partners collect personal information necessary to respond to your requests for our customized products and services and to allow you to use the resources available on our websitePersonal information includes, but is not limited to, name, physical address, email address, phone number, age and any other information that itself identifies or, when tied to the above information, may identify you as a specific individual. WeddingsOnline.ie and its partners also collect information related to your wedding, including dates and places of the rehearsal, wedding and reception, name, address and phone number of wedding guests, and information relating to your gift registry and honeymoon. WeddingsOnline.ie also uses order forms for you to request certain information, products and services. On such order forms, we collect your contact information, financial information (including credit card numbers) and demographic information.
 
-**Contests and Online Surveys.**  
+### Contests and Online Surveys
+
 WeddingsOnline.ie and its partners frequently sponsor contests to give you the opportunity to win great prizes. Your participation in these contests is entirely optional. Information we collect for such contests can include contact information and demographic information. WeddingsOnline.ie also values the opinions and comments from all of our users, so we frequently conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Information we collect in online surveys will include general information on the use of our site and other demographic information, such as age and income bracket. Survey participants are anonymous unless otherwise stated in the survey.
 
-**Cookies.**  
+### Cookies
+
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies in several ways (and thousands of other sites are currently using them too!). Cookie files are used to better understand how you go through our website so that we may tailor your experience at our website. Cookies are also used to tell us whether you have visited our website previously, and to help us determine whether you came to our website from a particular Internet link or banner advertisement. Cookies can also be used to help you to save and retrieve passwords and other information and preferences you use on our website, saving you from having to re-enter this information upon every visit to our website. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our partners' sites or when you click on banner advertisements served by our outside advertising company and we do not have control over how they use this information. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future.
 
-**Chat rooms, forums, message boards, and/or news groups.**  
+### Chat rooms, forums, message boards, and/or news groups
+
 We make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
 
 ### With whom your information is shared and how it is used
@@ -30,6 +34,6 @@ Any information we collect may be shared with advertisers on an aggregate basis.
 
 In addition to the circumstances described above, we may disclose your information if required to do so by law, court order, as requested by other government or law enforcement authorities, or in the good faith belief that disclosure is otherwise necessary or advisable, including (without limitation) when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
-### What choices you have over the collection and use of your information
+What choices you have over the collection and use of your information  
+As a user, customer, or contest entrant you will occasionally receive e-mail updates from us about important functionality changes, special offers from us and our partners, new WeddingsOnline.ie services and other noteworthy news items about us and our partners. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, just let us know by replying to one of the e-mails with "Remove" in the body of the e-mail or let our partners know by following their instructions. Our site also provides you the opportunity to opt-out of receiving such communications from us at the point where we request information from you. In other words, if you don't want us to send you e-mails about our business, just let us know. WeddingsOnline.ie reserves the right to limit registration to those who will accept emails and to those who will provide the requested information.  
 
-As a user, customer, or contest entrant you will occasionally receive e-mail updates from us about important functionality changes, special offers from us and our partners, new WeddingsOnline.ie services and other noteworthy news items about us and our partners. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, just let us know by replying to one of the e-mails with "Remove" in the body of the e-mail or let our partners know by following their instructions. Our site also provides you the opportunity to opt-out of receiving such communications from us at the point where we request information from you. In other words, if you don't want us to send you e-mails about our business, just let us know. WeddingsOnline.ie reserves the right to limit registration to those who will accept emails and to those who will provide the requested information.
