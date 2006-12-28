@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadpoint.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203104id_/http%3A//www.leadpoint.com/company_info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadpoint.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228152631id_/http%3A//www.leadpoint.com/company_info/privacypolicy.html) for the most accurate reproduction.*
 
 # LeadPoint, The World's First Leads Exchange Marketplace
 
@@ -52,6 +52,6 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 VII. Contact Us
 
-For more information or if you have questions or concerns regarding the LeadPoint Privacy Policy, please send an email to [legal@leadpoint.com](mailto:legal@leadpoint.com) or you can send correspondence to the following address: Privacy, LeadPoint, Inc., 11661 San Vicente Blvd. Suite 800, Los Angeles, CA 90049. 
+For more information or if you have questions or concerns regarding the LeadPoint Privacy Policy, please send an email to [legal department](https://web.archive.org/web/20061228152631id_/http%3A//www.leadpoint.com/contact.html) or you can send correspondence to the following address: Privacy, LeadPoint, Inc., 11661 San Vicente Blvd. Suite 800, Los Angeles, CA 90049. 
 
 Updated April 4, 2005
