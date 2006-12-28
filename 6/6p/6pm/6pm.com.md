@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618162405id_/http%3A//www.6pm.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228225208id_/http%3A//www.6pm.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
-# 6pm.com - Mens and womens shoes, boots, sandals, handbags and more...
+# Womens Shoes, Mens Shoes, Boots, Handbags & More - Free Shipping - 6pm.com
 
 | 
 
