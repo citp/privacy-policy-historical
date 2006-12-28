@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelbeds.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621171643id_/http%3A//www.hotelbeds.com/corporate/legalnotes.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelbeds.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228051830id_/http%3A//www.hotelbeds.com/corporate/legalnotes.jsp) for the most accurate reproduction.*
 
 # Hotelbeds Accommodation and Destination Services
 
@@ -55,4 +55,4 @@ The information on this site is posted in good faith, but HOTELBEDS cannot guara
 
 IPR (Intellectual Property Rigths) in the photographs
 
-HOTELBEDS wishes to thank the following [institutions for the granted licence to use the photographs](https://web.archive.org/web/20060621171643id_/http%3A//www.hotelbeds.com/corporate/legalnotes_ipr.jsp) shown in this web site.
+HOTELBEDS wishes to thank the following [institutions for the granted licence to use the photographs](https://web.archive.org/web/20061228051830id_/http%3A//www.hotelbeds.com/corporate/legalnotes_ipr.jsp) shown in this web site.
