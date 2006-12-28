@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627204331id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228144520id_/http%3A//www.adobe.com/go/gftray_foot_privacy_security) for the most accurate reproduction.*
 
 # Adobe - Online Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.adobe.com&sealid=103)
+
+Use of the Adobe® Acrobat® Connect™ and Adobe® Acrobat® Connect™ Professional services are not governed by this privacy policy. Please visit the [Adobe Acrobat Connect Privacy Policy](https://web.archive.org/go/privacy_connect), which applies to these services.
 
 Last updated on June 21, 2006. Significant changes are marked in red.
 
@@ -26,7 +28,7 @@ The Site contains links to other sites at which personal information is collecte
 
 #### Updating your personal information and privacy preferences
 
-You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information (as defined in the section entitled "Protection of your personal information"), this may be accomplished by linking to your account at [Edit Your Account](http://store.adobe.com/store/customerregistration/your_account.jhtml), where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications) by writing Adobe at:
+You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information (as defined in the section entitled "Protection of your personal information"), this may be accomplished by linking to your account at [Edit Your Account](https://www.adobe.com/cfusion/membership/index.cfm?nf=1&loc=en%5Fus), where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications) by writing Adobe at:
 
 Adobe Systems Incorporated  
 Attn: Change of Address/Privacy  
@@ -116,7 +118,7 @@ Legal Department, A17
 San Jose, CA 95110-2704  
 USA
 
-email: [privacy-officer@adobe.com](https://web.archive.org/web/20060627204331id_/http%3A//www.adobe.com/privacy-officer@adobe.com).
+email: [privacy-officer@adobe.com](https://web.archive.org/web/20061228045431id_/http://www.adobe.com/privacy-officer@adobe.com).
 
 In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](https://www.truste.org/pvr.php?page=complaint). TRUSTe will serve as a liaison with this Site to resolve your concerns.
 
