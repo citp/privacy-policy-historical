@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamonds.net privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501142716id_/http%3A//diamonds.net/PrivPol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamonds.net privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228223142id_/http%3A//www.diamonds.net/PrivPol.asp) for the most accurate reproduction.*
 
 # Diamonds.net - Privacy Policy
 
@@ -11,7 +11,7 @@ Last updated: January 9, 2005
 
 1.2 Rapaport takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Paragraph 3 below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the Diamonds.Net Web site, whether the services are offered by Rapaport, by its subsidiaries, or by its affiliates in the Rapaport Group.
 
-1.3 By using the Diamonds.Net website, you agree to accept the Privacy Policy and Diamonds.Net Terms of Use . By applying for any of the subscription or membership based services offered through the Diamonds.Net website, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into the terms of the [Diamonds.Net Terms of Use.](https://web.archive.org/web/20060501142716id_/http%3A//diamonds.net/TOS.asp)
+1.3 By using the Diamonds.Net website, you agree to accept the Privacy Policy and Diamonds.Net Terms of Use . By applying for any of the subscription or membership based services offered through the Diamonds.Net website, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into the terms of the [Diamonds.Net Terms of Use.](https://web.archive.org/web/20061228223142id_/http%3A//www.diamonds.net/TOS.asp)
 
 1.4 Please note that your personal information will be stored and processed on our computers in the United States , in accordance with United States laws. Rapaport will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not register for the Services.
 
