@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516131409id_/http%3A//imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228220147id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# iMesh
+# iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
+
+**PRIVACY POLICY**
 
 Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh™ software and the iMesh™ website ([www.imesh.com](http://www.imesh.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
@@ -43,7 +45,7 @@ In an attempt to provide increased value to our visitors, we may choose various 
 
 As a member of iMesh, you can download, search, share and publish just about any digital media file. Users are given the opportunity to 'opt-out' of the sharing component of the iMesh Software, so that such user's files are not made available to other users, by disabling that component of the Software. Each user is provided with the option to disable the sharing component of the Software by going into the preferences section of our site and “disabling” the appropriate component...
 
-Additionally you can modify your registration and preferences information at any time in the My Account section of our service. Also all of iMesh’s promotional emails are accompanied with information on how to change your communications preferences and how to “opt-out” of certain communications. For access to our communications preferences page please go to the my account section of the Service. 
+Additionally you can modify your registration and preferences information at any time in the My Account section of our service. Also all of iMesh’s promotional emails are accompanied with information on how to change your communications preferences and how to “opt-out” of certain communications. For access to our communications preferences page please go to the my account section of the Service.
 
 **OUR COMMITMENT TO CHILDREN'S PRIVACY**
 
@@ -63,4 +65,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **QUESTIONS**
 
-If you have questions or concerns regarding this please email us at [privacy@imesh.com](mailto:privacy@imesh.com). You can also contact us by sending us postal mail at 211 East 43rd St. 23rd Floor, New York, NY 10017, Attn: PRIVACY OFFICER.
+If you have questions or concerns regarding this please email us at [privacy@imesh.com](mailto:privacy@imesh.com). You can also contact us by sending us postal mail at 211 East 43rd St. 23rd Floor, New York, NY 10017, Attn: PRIVACY OFFICER. 
