@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientology.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629151412id_/http%3A//scncatalog.scientology.net/oa_html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientology.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228110255id_/http%3A//scncatalog.scientology.net/oa_html/privacy.htm) for the most accurate reproduction.*
 
 # Scientology Materials Catalog - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-      We are dedicated to respecting the privacy rights of all visitors to our web site. By using this web site, you signify your assent to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20060629151412id_/http%3A//scncatalog.scientology.net/oa_html/Terms%20of%20Use.htm). If you do not agree with any term in this Privacy Policy or our Terms of Use, kindly exit this web site. 
+      We are dedicated to respecting the privacy rights of all visitors to our web site. By using this web site, you signify your assent to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20061228110255id_/http%3A//scncatalog.scientology.net/oa_html/Terms%20of%20Use.htm). If you do not agree with any term in this Privacy Policy or our Terms of Use, kindly exit this web site. 
 
        Any personal information collected on the site including your name, e-mail address, postal address, any demographic information or on-line purchasing information is protected and is not given out to any other organizations or individuals other than to Bridge Publications, Inc. or New Era Publications Inc, or the Church of Scientology Organization you have chosen for the fulfillment of a materials order or for promotional offers specifically from Bridge Publication, Inc or New Era Publications Inc or the aforementioned Church of Scientology Organization or as indicated in this Privacy Policy. 
 
@@ -24,7 +24,7 @@ Data Security
 
 Special Cases 
 
-       It is our policy not to use or share the personal information about you in ways unrelated to the ones described herein without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about you or information regarding your use of the Web site, for any reason, if, in our sole discretion, we believe that it is reasonable to do so; including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Terms of Use](https://web.archive.org/web/20060629151412id_/http%3A//scncatalog.scientology.net/oa_html/Terms%20of%20Use.htm) Policy or other use policies; to operate the site properly; or to protect Church of Scientology International (CSI) and its parishioners or guests. 
+       It is our policy not to use or share the personal information about you in ways unrelated to the ones described herein without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about you or information regarding your use of the Web site, for any reason, if, in our sole discretion, we believe that it is reasonable to do so; including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Terms of Use](https://web.archive.org/web/20061228110255id_/http%3A//scncatalog.scientology.net/oa_html/Terms%20of%20Use.htm) Policy or other use policies; to operate the site properly; or to protect Church of Scientology International (CSI) and its parishioners or guests. 
 
 Cookies – What They Are And How We Use Them 
 
@@ -44,6 +44,6 @@ Change to Privacy Policy
 
 Questions or Comments 
 
-        If you have any questions regarding our privacy policy, please email us at [customerservice@bridgepub.com](mailto:customerservice@bridgepub.com).  For all other inquiries please see Contact Information in the [Help & General Information](https://web.archive.org/web/20060629151412id_/http%3A//scncatalog.scientology.net/oa_html/Help.htm) page. 
+        If you have any questions regarding our privacy policy, please email us at [customerservice@bridgepub.com](mailto:customerservice@bridgepub.com).  For all other inquiries please see Contact Information in the [Help & General Information](https://web.archive.org/web/20061228110255id_/http%3A//scncatalog.scientology.net/oa_html/Help.htm) page. 
 
 o0o 
