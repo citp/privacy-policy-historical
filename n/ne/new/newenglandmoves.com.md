@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630001710id_/http%3A//www.newenglandmoves.com/insurance/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228163327id_/http%3A//www.newenglandmoves.com/insurance/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
