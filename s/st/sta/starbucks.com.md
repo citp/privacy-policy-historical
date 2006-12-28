@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630030544id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228143328id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -87,6 +87,6 @@ If we decide to change our privacy policy, we will post a new statement on our S
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-In the event of questions about: (i) access to your personal information; (ii) our collection, use, management or disclosure of personal information; (iii) this privacy policy; or (iv) any other matter, please contact Starbucks [Customer Relations](https://web.archive.org/web/20060630030544id_/http%3A//www.starbucks.com/customer/default.asp). You may also reach Customer Relations by calling (800) 235-2883 or writing to Starbucks Customer Relations, PO Box 3717, Seattle, WA 98124-3717. Starbucks will investigate all complaints and if a complaint is justified, we will take all reasonable steps to resolve the issue.
+In the event of questions about: (i) access to your personal information; (ii) our collection, use, management or disclosure of personal information; (iii) this privacy policy; or (iv) any other matter, please contact Starbucks [Customer Relations](https://web.archive.org/web/20061228143328id_/http%3A//www.starbucks.com/customer/default.asp). You may also reach Customer Relations by calling (800) 235-2883 or writing to Starbucks Customer Relations, PO Box 3717, Seattle, WA 98124-3717. Starbucks will investigate all complaints and if a complaint is justified, we will take all reasonable steps to resolve the issue.
 
 Please also visit our [Terms and Conditions](http://www.starbucks.com/customer/legal.asp) section that explains other terms governing the use of this Site.
