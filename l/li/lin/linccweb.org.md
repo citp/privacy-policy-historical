@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616100219id_/http%3A//www.linccweb.org/faqs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228153552id_/http%3A//www.linccweb.org/faqs/privacy.asp) for the most accurate reproduction.*
 
 # LINCCWeb - Privacy Statement
 
@@ -54,7 +54,7 @@ To support local library operations, CCLA collects and temporarily stores inform
 >> 
 >> **Links to Other Web Sites**
 >> 
->> Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's Web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20060616100219id_/http%3A//www.linccweb.org/faqs/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
+>> Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's Web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20061228153552id_/http%3A//www.linccweb.org/faqs/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
 >> 
 >> Back to Top
 >> 
@@ -66,7 +66,7 @@ To support local library operations, CCLA collects and temporarily stores inform
 >> 
 >> **Contact**
 >> 
->> Please [contact CCLA](mailto:servicedesk@ccla.lib.fl.us) if you have questions about this Privacy Statement.
+>> Please [contact CCLA](https://web.archive.org/CCLA/crm/contactus.asp?mailto=servicedesk) if you have questions about this Privacy Statement.
 >> 
 >> Only authorized CCLA or library staff with assigned password may access personally identifiable information maintained in LINCC or LINCCWeb and then only for the purpose of performing work related to the delivery of services as described here.
 >> 
@@ -74,8 +74,8 @@ To support local library operations, CCLA collects and temporarily stores inform
 >> 
 >> **Changes to this Privacy Statement**
 >> 
->> This document was last updated April 19, 2004. We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date. 
+>> This document was last updated 29 June 2006. We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date. 
 >> 
 >> Back to Top
 >> 
->>  _Page updated: 23 April 2004_
+>>  _Page updated: 29 June 2006_
