@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629014749id_/http%3A//www.dallasnews.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228095532id_/http%3A//www.dallasnews.com/registration/privacy) for the most accurate reproduction.*
 
-# Dallas Morning News | News for Dallas, Texas | Privacy Policy
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/249454063/Left/default/empty.gif/7a2f4868396c343061574d41426b3639?x)
-
-| 
+# Dallas Morning News | News for Dallas, Texas | Terms of Service
 
 ## Privacy Policy
 
@@ -104,7 +100,8 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) <http://www.dallasnews.com/sharedcontent/registration/membercenter.jsp> in your browser.
+  1. Enter (or click) [http://www.dallasnews.com/sharedcontent/registration/  
+membercenter.jsp](http://www.dallasnews.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -126,17 +123,3 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 **Effective Date and Changes**
 
 This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
-
-This text is invisible on the page, but this text is affected by the invisible item's flow. This text is invisible on the page, but this text is affected by the invisible item's flow.
-
-| 
-
-Advertising 
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/399049516/Position1/default/empty.gif/7a2f4868396c343061574d41426b3639?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/796428267/Position4/default/empty.gif/7a2f4868396c343061574d41426b3639?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/224540675/Position5/default/empty.gif/7a2f4868396c343061574d41426b3639?x)
-
-##### shopping
