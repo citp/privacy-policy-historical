@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the homethinking.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211424id_/http%3A//homethinking.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homethinking.com privacy policy that was archived on 2006-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061228102903id_/http%3A//www.homethinking.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Realtor Reviews, Ratings and Real Estate Metrics for Homeowners</title>
+<title>Real Estate Agents &amp; Brokers - Reviews &amp; Ratings - Homethinking</title>
 
 <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
-<meta name="description" content="Find the most exceptional realtor to sell your home, house or apartment. Homethinking monitors real estate marketplace and consumer opinions and reviews to help you make the best decision">
-<meta name="keywords" content="realtor, real estate agent, real estate broker, real estate search, broker">
+
+  <meta name="description" content="Homethinking helps you find the best real estate agent and brokers to sell your home with by showing you what each agent has done in the past and what customers have said about the job they did.">
+  <meta name="keywords" content="real estate agents, real estate broker, homethinking">
+
 
 <style type="text/css" media="all">@import url("/ui/style/homethinking.css");</style>
 <script language="javascript" src="/ui/script/homethinking.js" type="text/javascript"></script>
@@ -23,40 +25,41 @@ urchinTracker();
 
 <body class="subpage">
 <div id="container">
-	<div id="top">
-		<h1><a href="http://www.homethinking.com/"><i>Homethinking</i></a></h1>
-		<div id="addreview"><a href="http://www.homethinking.com/review00.action"><i>Add Review</i></a></div>
-		<!-- <h3><i>Find Exceptional Neighborhood Realtors to Sell Your Most Valuable Asset</i> </h3> -->
-		<div id="topsearch">
-			<form name="headersearch" method="post" onsubmit="doSearchSubmit(this);">
-				<input type="text" name="qin" id="search" value="" tabindex="1" onfocus="this.value='';">
-				<!--<input type="hidden" name="hitsPerPage" value="10" />-->
-        			<input type="image" name="search_go" id="search_go" alt="Search" src="/ui/media/images/search/search_off.gif" tabindex="2">
-              <a href="#" id="expand" onclick="expandSearch();" class="expand"><i>more options</i></a>
-				<div id="expandedsearch">
-				 <label for="pricemin">Price Range:</label><div class="right">
-				 <!-- <select size="1" name="pricemin" id="pricemin"><option>$0</option><option>$20,000,000</option></select><span>to</span><select size="1" name="pricemax" id="pricemax"><option>no maximum</option></select> -->
-         
-         <select name="p">
-            <option value=""></option>
-  			    <option value="10:100">$10,000 - $100,000</option>
-            <option value="100:300">$100,000 - $300,000</option>
-            <option value="300:500">$300,000 - $500,000</option>
-            <option value="500:700">$500,000 - $700,000</option>
-            <option value="700:900">$700,000 - $900,000</option>
-            <option value="900:1100">$900,000 - $1,100,000</option>
-            <option value="1100:1300">$1,100,000 - $1,300,000</option>
-            <option value="1300:10000">Over $1.3 million</option>
-         </select>
-				 </div>
-				 <!-- <label for="sqftmin">Sq. Ft.:</label><div class="right"><select size="1" name="sqftmin" id="sqftmin"><option>0</option><option>10,000</option></select><span>to</span><select size="1" name="sqftmax" id="sqftmax"><option>no maximum</option></select></div>
-				 <label for="bedrooms">Bedrooms:</label><div class="right"><select size="1" name="bedrooms" id="bedrooms"><option>any</option></select><span><label for="bathrooms">Bathrooms:</label></span><select size="1" name="bathrooms" id="bathrooms"><option>any</option></select></div> -->
-				</div>
-			</form>
-			<small>e.g. Richmond, CA; 94115; Palo Alto, CA
-			</small><ul class="breadcrumbs"></ul>
-		</div>
-	</div>
+  <div id="top">
+    <h1><a href="http://www.homethinking.com/"><i>Homethinking</i></a></h1>
+    <div id="statistics">
+      <h5><i>Stats</i></h5>
+      <div class="stats lineone">
+        <h6>Transactions:</h6>
+        <p><strong>2,862,213 </strong>Total&nbsp;<span>::</span>&nbsp;<strong>336,763 </strong>New this month</p>
+      </div>
+    
+      <div class="stats">
+        <h6>Real Estate Agents:</h6>
+        <p><strong>1,549,714 </strong>Total</p>
+      </div>
+    </div>
+    
+
+    <div id="addreview"><a href="http://www.homethinking.com/review00.action"><i>Add Review</i></a></div>
+    
+    <div id="topsearch">
+      <form action="#" onsubmit="doSearchSubmit(this);" method="post">
+        <div id="search_address" style="display:block;">
+          <input type="text" name="searchaddress" id="searchaddress" value="">
+          <a href="#" class="nopad" onclick="switchViews();"><i>agent</i></a>
+        </div>
+        <div id="search_agent" style="display:none;">
+          <input type="text" name="searchagent" id="searchagent" value="">
+          <a href="#" class="nopad" onclick="switchViews();"><i>address</i></a>
+      
+        </div>
+        <input type="text" name="searchzipcode" id="searchzipcode" value="">
+        <input type="image" name="search_go" id="search_go" alt="Search" src="/ui/media/images/search/search_off.gif">
+      </form>
+      <ul class="breadcrumbs"></ul>
+    </div>
+  </div>
 <div id="middle">
   <div class="general"><div class="top"></div>
     <h2 class="limited">Privacy Policy</h2>
@@ -99,7 +102,7 @@ urchinTracker();
 			<div class="break"></div>
   </div>
 </div>
-<div id="bottom"><div>
+<div id="bottom2"><div>
 		<ul>
 			<li class="first"><a href="http://www.homethinking.com/">Home</a></li>
 			<li><a href="http://www.homethinking.com/about.jsp">About</a></li>
@@ -111,19 +114,17 @@ urchinTracker();
 			<li><a href="http://www.homethinking.com/tos.jsp">Terms of Service</a></li>
 			<li><a href="http://www.homethinking.com/sitemap.jsp">Sitemap</a></li>
 		</ul>
-		<br><small>Copyright 2005-2006 Homethinking LLC.</small><br>&nbsp;<br>
+		<div class="spacer"></div>
+		<p><small>Copyright 2005-2006 Homethinking LLC.</small><br>&nbsp;<br>
 		<small> REALTOR is a registered collective membership mark that identifies a real estate professional who is a member of the National Association of REALTORS and subscribes to its strict Code of Ethics.</small><br>&nbsp;<br>
 		<small>County Record Information Powered by On Board LLC<br>
 
-		Copyright � 2006 OnBoard LLC. Information is deemed reliable but not guaranteed.</small>
+		Copyright � 2006 OnBoard LLC. Information is deemed reliable but not guaranteed.</small></p>
 
 	</div></div>
 </div>
 
-<img src="http://servedby.advertising.com/site=695501/mnum=1516/bins=1/rich=0/logs=0/betr=ae_perfin=hmethnk_pf_gen" height="1" width="1" border="0">
-<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=H05527&amp;bpid=S0036"></script>
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/12339/slf.js" language="JavaScript"></script>
+<script type="text/javascript" src="http://103bees.com/bees/?bee=515&amp;fid=779"></script>
 
 
 
