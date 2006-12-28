@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aessuccess.org privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630070547id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aessuccess.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228123415id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
 
-# AES - Privacy Policy
+# American Education Services - Privacy Policy
 
   * Section 1: AES’ Commitment to Privacy Protection for Customers 
   * Section 2: Collection of Nonpublic Personal Information
@@ -95,7 +95,7 @@ AES provides its customers access to customer specific information on AES websit
   * Sending an e-mail to [nettech@aessuccess.org](mailto:nettech@aessuccess.org), or 
   * Sending a request by First Class Mail to: 
 
-> AES/PHEAA   
+> **AES/PHEAA**  
 >  1200 North 7TH Street  
 >  Harrisburg, Pennsylvania 17102-1444  
 >  ATTENTION: Privacy Policy 
@@ -117,7 +117,7 @@ Finally, AES provides information to its customers via e-mail newsletters. Custo
   * Sending an e-mail at [nettech@aessuccess.org](mailto:nettech@aessuccess.org) requesting to unsubscribe from emails, or 
   * Sending a request by First Class Mail to: 
 
-> American Education Services  
+> **American Education Services**  
 >  Customer Service Division   
 >  1200 North 7 th Street  
 >  Harrisburg, PA 17102-1444  
@@ -194,7 +194,7 @@ E-mail: [nettech@aessuccess.org](mailto:nettech@aessuccess.org)
 
 or mail your inquiry to:
 
-> AES/PHEAA   
+> **AES/PHEAA**   
 >  1200 North 7TH Street   
 >  Harrisburg, PA 17102-1444  
 >  Attn: Privacy Policy 
@@ -203,8 +203,7 @@ Return to Privacy Policy Menu
 
 * * *
 
-  
-1 This “AES Privacy Policy” covers the customers of American Education Services (AES) and the Pennsylvania Higher Education Assistance Agency (PHEAA). Customers are those individuals who have had loans made, or owned by AES/PHEAA. Individuals for whom AES/PHEAA is only a Servicer for a lender that originated or holds the loans are not Customers of AES/PHEAA. For the purpose of this Policy, any reference to PHEAA or AES means PHEAA, an Agency of and on behalf of the Commonwealth of Pennsylvania. 
+1 This "AES Privacy Policy" covers the customers of American Education Services (AES) and the Pennsylvania Higher Education Assistance Agency (PHEAA). Customers are those individuals who have had loans made, or owned by AES/PHEAA. Individuals for whom AES/PHEAA is only a Servicer for a lender that originated or holds the loans are not Customers of AES/PHEAA. For the purpose of this Policy, any reference to PHEAA or AES means PHEAA, an Agency of and on behalf of the Commonwealth of Pennsylvania. 
 
 2 The National Student Clearinghouse is a source for post-secondary student degree and enrollment verification. The Clearinghouse helps colleges and universities improve efficiency, reduce costs and workload, and enhance the quality-of-service they provide to students and alumni, lending institutions, employers, and other organizations. 
 
