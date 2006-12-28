@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassmaster.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630021852id_/http%3A//disney.go.com/corporate/privacy/pp_espn.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassmaster.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228055028id_/http%3A//disney.go.com/corporate/privacy/pp_espn.html) for the most accurate reproduction.*
 
 # Privacy Policy for ESPN
 
