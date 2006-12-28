@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629030612id_/http%3A//heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228153650id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,18 +16,18 @@
 
 7\. If you have any questions about privacy please contact us at [sales@heartinternet.co.uk](mailto:sales@heartinternet.co.uk).
 
-[ ](https://web.archive.org/web/20060629030612id_/http%3A//heartinternet.co.uk/reseller-h.shtml)
-
-The UKs fastest growing and most advanced reseller package.
-
-[ ](https://web.archive.org/web/20060629030612id_/http%3A//heartinternet.co.uk/prices-d.shtml)
-
-Take advantage of the lowest price in the UK and you only have to register for ONE year.
-
-[ ](https://web.archive.org/web/20060629030612id_/http%3A//heartinternet.co.uk/virus-h.shtml)
+[ ](https://web.archive.org/web/20061228153650id_/http%3A//www.heartinternet.co.uk/virus-h.shtml)
 
 Ensure your email is safe and secure with our high end scanning technology.
 
-[ ](https://web.archive.org/web/20060629030612id_/http%3A//heartinternet.co.uk/extend-h.shtml)
+[ ](https://web.archive.org/web/20061228153650id_/http%3A//www.heartinternet.co.uk/transfer-d.shtml)
 
-The worlds most powerful web hosting control panel - designed for you.
+Move to Heart Internet and get all our great features for FREE.
+
+[ ](https://web.archive.org/web/20061228153650id_/http%3A//www.heartinternet.co.uk/reseller-h.shtml)
+
+The UKs fastest growing and most advanced reseller package.
+
+[ ](https://web.archive.org/web/20061228153650id_/http%3A//www.heartinternet.co.uk/technology-h.shtml)
+
+We use only the best hardware and network equipment - find out more.
