@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616102546id_/http%3A//dropshots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228145520id_/http%3A//www.dropshots.com/privacy.php) for the most accurate reproduction.*
 
 # DropShots Privacy Policy
 
@@ -95,7 +95,7 @@ At DropShots the safety of your children is very important to us. Consequently, 
 
 #### It's Always Your Choice/Opt-Out 
 
-Unless you affirmatively opt-out, we will maintain personal information in accordance with this Privacy Policy. If you do not want to receive direct mail, email, product- and/or service-specific information and/or general marketing communications, please contact us at [support@dropshots.com](mailto:support@dropshots.com?subject=Opt-Out). If you do not wish to have your name and address shared with other carefully screened companies so they can share with you products and/or services that may interest you, please contact us at [support@dropshots.com](mailto:support@dropshots.com?subject=Opt-Out).
+Unless you affirmatively opt-out, we will maintain personal information in accordance with this Privacy Policy. If you do not want to receive direct mail, email, product- and/or service-specific information and/or general marketing communications, please contact us at support@dropshots.com. If you do not wish to have your name and address shared with other carefully screened companies so they can share with you products and/or services that may interest you, please contact us at support@dropshots.com.
 
 #### Summary 
 
@@ -103,4 +103,4 @@ We at DropShots are committed to protecting your privacy. We use the information
 
 #### Comments
 
-If you have any questions or comments about our Privacy Policy, please send us an e-mail at [support@dropshots.com](mailto:support@dropshots.com?subject=Comments%20or%20questions)
+If you have any questions or comments about our Privacy Policy, please send us an e-mail at support@dropshots.com
