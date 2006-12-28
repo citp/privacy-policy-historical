@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005917id_/http%3A//networkadvertising.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228012709id_/http%3A//www.networkadvertising.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Network Advertising Initiative
 
@@ -18,7 +18,7 @@ We use IP addresses for gathering Website statistics. We also store IP addresses
 **Links**  
 This Website contains links to other sites. Please be aware that the NAI is not responsible for the privacy practices of any other site. This privacy statement applies solely to this Website. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every Website that you visit. 
 
-As this privacy policy may be updated from time to time, we recommend that you review it periodically. If you have any questions about the privacy practices on this site, please [send us an email](https://web.archive.org/web/20060615005917id_/http%3A//networkadvertising.org/contact/). 
+As this privacy policy may be updated from time to time, we recommend that you review it periodically. If you have any questions about the privacy practices on this site, please [send us an email](https://web.archive.org/web/20061228012709id_/http%3A//www.networkadvertising.org/contact/). 
 
   
 
