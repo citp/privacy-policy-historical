@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629212653id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228052705id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
 
@@ -62,6 +62,7 @@ U.S. Immigration and Customs Enforcement (ICE) records are investigatory records
 
 ## Freedom of Information Act (FOIA) Contact:
 
+[DHS FOIA webpage](http://www.dhs.gov/xfoia/editorial_0579.shtm)  
 FOIA/PA Section  
 Information Disclosure Unit   
 Mission Support Division  
