@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013745id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228122934id_/http%3A//www.neimanmarcus.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # Neiman Marcus Online
 
@@ -59,12 +59,14 @@ We provide you with a number of choices regarding our handling of your nonpublic
 
 Direct Mail or Telephone Marketing: If you shop at the Neiman Marcus or Bergdorf Goodman stores and wish to be removed from the list of customers that receive direct mail or telemarketing calls, please either: 
 
-• write to: Neiman Marcus Customer Relations at P.O. Box 650589, Dallas, Texas, 75265-0589 • or call toll-free at 1.888-888-4757 
+* write to: Neiman Marcus Customer Relations at P.O. Box 650589, Dallas, Texas, 75265-0589
+* or call toll-free at 1.888-888-4757
 
-If you choose to write to us, please include your name, address and credit card account number (if you have one), and state one of the following:  
-• "NO MAIL OFFERS" (if you don't want to receive offers by mail);  
-• "NO PHONE OFFERS" (if you don't want to receive offers by phone); or  
-• "NO PHONE OR MAIL OFFERS" (if you don't want to receive either). 
+If you choose to write to us, please include your name, address and credit card account number (if you have one), and state one of the following: 
+
+* "NO MAIL OFFERS" (if you don't want to receive offers by mail);
+* "NO PHONE OFFERS" (if you don't want to receive offers by phone); or
+* "NO PHONE OR MAIL OFFERS" (if you don't want to receive either).
 
 Because customer lists often are prepared well in advance of an offering (sometimes few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request. 
 
@@ -112,9 +114,11 @@ Dallas, TX 75265-0589
 
 
 
-Macintosh users must have Internet Explorer version 5.0 or greater to place an order at NeimanMarcus.com. Earlier versions of Internet Explorer prevent Mac users from viewing secure pages in the checkout process. NeimanMarcus.com cannot remedy this situation without compromising the high level of security we provide for online transactions. 
+Macintosh users must place their online orders using Safari or Firefox. These browsers allow us to offer our customers the highest level of security; other browsers prevent users from viewing secure pages during the checkout process. We apologize for any inconvenience. 
 
-To download the latest version of Internet Explorer at no charge, click here.
+Download a free copy of Firefox by clicking [here.](http://www.mozilla.com/firefox/) For the latest version of Safari, from the Apple menu, choose Software Update. 
+
+You also may place an order for catalog merchandise by calling 1.877.944.9888.
 
 When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are: 
 
@@ -132,6 +136,8 @@ The following elements of this Web site are the property of Neiman Marcus or our
 
 **Trademarks**   
 The trademarks or trade dress of Neiman Marcus and our affiliates may not be used without our written permission. Trademarks or trade dress include the Neiman Marcus name and logo, and other graphics, logos, page headers, button icons, scripts, and service names of Neiman Marcus products, services, and programs, and those of our affiliates. 
+
+VELCRO® is a registered trademark of Velcro Industries, B.V. 
 
 All other trademarks that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us or our affiliates. 
 
