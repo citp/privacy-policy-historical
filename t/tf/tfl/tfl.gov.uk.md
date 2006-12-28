@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200125id_/http%3A//www.tfl.gov.uk/tfl/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228041733id_/http%3A//www.tfl.gov.uk/tfl/privacy.shtml) for the most accurate reproduction.*
 
 # Transport for London - Privacy Policy
 
-Click here to view our [Terms and conditions](https://web.archive.org/web/20060615200125id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml)
+Click here to view our [Terms and conditions](https://web.archive.org/web/20061228041733id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml)
 
 This policy is designed to inform you of our commitment to upholding your right to privacy when using any of our web services. It describes the ways in which we capture information and the ways in which we use it.
 
-For a statement of TfL’s wider obligations under Data Protection Act, 1998 please click here to view our [Terms and Conditions](https://web.archive.org/web/20060615200125id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml). 
+For a statement of TfL’s wider obligations under Data Protection Act, 1998 please click here to view our [Terms and Conditions](https://web.archive.org/web/20061228041733id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml). 
 
 Transport for London (TfL) is a functional body of the Greater London Authority, reporting to the Mayor of London.
 
