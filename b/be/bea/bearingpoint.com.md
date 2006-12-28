@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210600id_/http%3A//www.bearingpoint.com/portal/site/bearingpoint/menuitem.05c5a3df5e7e1b521dba0624826106a0/channel/published/About%2520us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228130249id_/http%3A//www.bearingpoint.com/portal/site/bearingpoint/menuitem.05c5a3df5e7e1b521dba0624826106a0/channel/published/About%2520us/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
