@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avagotech.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618204105id_/http%3A//www.avagotech.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avagotech.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228165534id_/http%3A//www.avagotech.com/privacy.jsp) for the most accurate reproduction.*
 
 # Avago Technologies - Privacy Policy
 
@@ -12,7 +12,7 @@ We've structured our web site so that you can visit us without identifying yours
 
 Avago Technologies privacy statement covers 10 main areas which are listed below and described in details follows. Please keep in mind that our privacy practices may vary as required by local laws and policies.
 
-Comments or questions about our privacy practices can be sent to: [advocate.privacy](mailto:advocate.privacy@avagotech.com)[@avagotech.com](mailto:advocate.privacy@avagotech.com)
+Comments or questions about our privacy practices can be sent to: [spgweb.response](mailto:advocate.privacy@avagotech.com)[@avagotech.com](mailto:advocate.privacy@avagotech.com)
 
 ### Content:
 
@@ -127,8 +127,8 @@ CSAT surveys are conducted at regular intervals using state-of-the-art web surve
 CSAT measures your satisfaction after a recent interaction or transaction with one of Avago Technology’s customer touch points. **If you recently received a survey invitation it is because you:**
 
   * Contacted the [Avago Technical Response Center](mailto:support@avagotech.com)
-  * Contacted the Avago Business Center
-  * Visited the Avago web site, or
+  * Contacted the Avago Business Center 
+  * Visited the Avago web site, or 
   * Had recent contact with the Avago account team that supports your organization.
 
 
@@ -149,12 +149,12 @@ At Avago Technologies, it’s always your call whether to respond when invited t
 
 Avago Technologies is a member of the Marketing Research Association and follows the MRA Guidelines for web-based research, whose provisions include:
 
-  * Your cooperation will be voluntary
-  * Our identity will be disclosed
-  * Your rights to anonymity will be safeguarded
-  * Our privacy policy statements will be posted online (See items 1 through 9, above)
-  * Data security is maintained
-  * Unsolicited e-mail is not sent to those who have opted out of receiving such e-mail
+  * Your cooperation will be voluntary 
+  * Our identity will be disclosed 
+  * Your rights to anonymity will be safeguarded 
+  * Our privacy policy statements will be posted online (See items 1 through 9, above) 
+  * Data security is maintained 
+  * Unsolicited e-mail is not sent to those who have opted out of receiving such e-mail 
   * For details on these Guidelines, or more information on the MRA, click here: [http://www.mra-net.org](http://www.mra-net.org/)
 
 
@@ -182,18 +182,15 @@ Having said that, survey participation is still voluntary. You can elect not to 
 
 Your name or identifying data such as e-mail address, is NEVER published in CSAT reports. However, there are three scenarios where your name may appear in CSAT documents or communications, or where you may wish to provide your name in the course of completing the survey:
 
-    * If, in the course of completing the CSAT survey, you ask Avago Technologies to follow up with you—to address a matter of concern to you, you then give our research vendor permission to forward your name and contact information to the appropriate manager at Avago Technologies to facilitate immediate follow-up and action.
-    * At the conclusion of the survey, you are asked if you want to give Avago Technologies permission to “share your individual responses.” Most of our survey respondents give us permission to do so. Even when you give us permission to share your individual responses, we do not publish your name or personal identifying information in reports of findings. CSAT reports typically report findings on a touch point, regional, job-category, applications area, or product-category basis.
-    * At the conclusion of some CSAT surveys, respondents are invited to provide their name and contact information for the purposes of a gift drawing, as a thank-you for completing the survey. This information is used only to make a random selection among those providing information, and to locate the winners to do gift fulfillment. Beyond these purposes, names and contact information are not released.
+    * If, in the course of completing the CSAT survey, you ask Avago Technologies to follow up with you—to address a matter of concern to you, you then give our research vendor permission to forward your name and contact information to the appropriate manager at Avago Technologies to facilitate immediate follow-up and action. 
+    * At the conclusion of the survey, you are asked if you want to give Avago Technologies permission to “share your individual responses.” Most of our survey respondents give us permission to do so. Even when you give us permission to share your individual responses, we do not publish your name or personal identifying information in reports of findings. CSAT reports typically report findings on a touch point, regional, job-category, applications area, or product-category basis. 
+    * At the conclusion of some CSAT surveys, respondents are invited to provide their name and contact information for the purposes of a gift drawing, as a thank-you for completing the survey. This information is used only to make a random selection among those providing information, and to locate the winners to do gift fulfillment. Beyond these purposes, names and contact information are not released. 
 
 
 
-For more information about Avago Technologies survey activities, feel free to contact:
+For more information about Avago Technologies survey activities, feel free to contact 
 
-Stephen Heffernan  
-Market Research Manager  
-AVAGO TECHNOLOGIES INC.  
-[sheffernan@avagotech.com](mailto:steve.heffernan@avagotech.com)
+[spgweb.response@avagotech.com](mailto:spgweb.response@avagotech.com)
 
 |   
 ---|---
