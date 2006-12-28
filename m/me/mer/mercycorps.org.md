@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627213249id_/http%3A//www.mercycorps.org/donate/somanywaystogive/739) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228062841id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
 
-# Mercy Corps > Donate > So Many Ways to Give > Privacy Policy
+# Mercy Corps > About Us > Overview > Privacy Policy
 
 |   
 ---|---  
