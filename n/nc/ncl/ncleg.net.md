@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630002146id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228162318id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
@@ -23,8 +23,8 @@ Quick Links
   * [Redistricting](https://web.archive.org/GIS/Redistricting/index.html)
   * [NC Constitution](https://web.archive.org/Legislation/constitution/ncconstitution.html)
   * [NC Session Laws](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)
-  * [Legislative Publications](https://web.archive.org/LegislativePublications/)
-  * [NCGA Stormwater Water Collection Project](https://web.archive.org/cistern/web/index.html)
+  * [Legislative Publications](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=1)
+  * [NCGA Stormwater Water Collection Project](https://web.archive.org/ncgainfo/cistern/cisternhome.html)
   * [State Government Site](https://web.archive.org/gascripts/redirects/ExitDisclaimer.pl?http://www.ncgov.com)
   * [Lobbyist Info](https://web.archive.org/gascripts/redirects/ExitDisclaimer.pl?http://www.secretary.state.nc.us/lobbyists/)
   * [Other Government Sites](https://web.archive.org/NCGAInfo/NCGAInfo.html#govtLinks)
@@ -98,4 +98,4 @@ Site Searches
 [](https://web.archive.org/LegLibrary/)  
 [](https://web.archive.org/gascripts/Redirects/ExitDisclaimer.pl?http://www.ncgov.com)  
 [](https://web.archive.org/ncgainfo/educational/educational.html)  
-[](https://web.archive.org/cistern/web/index.html)
+[](https://web.archive.org/ncgainfo/cistern/cisternhome.html)
