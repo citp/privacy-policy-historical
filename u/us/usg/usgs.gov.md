@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200341id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228062824id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
@@ -17,7 +17,7 @@ Child Privacy \- The USGS values the privacy and protection of children in the u
 
 It is the policy of the USGS that we will not obtain personal identifying information about you when you visit our Web sites, unless you choose to provide the information to us (for example, through a questionnaire in which you willingly provide such information, or in which you are requesting a publication or other information to be transmitted to you by the USGS).
 
-Identification for Law Enforcement or Unauthorized Use \- The only time that we will attempt to identify individual users or to share any information we receive with any parties outside of the USGS is (1) in the course of officially authorized law enforcement investigations or (2) in the event of a suspected attempt to deliberately circumvent our system’s security with the intent to gain unauthorized access or to do physical damage (for example, an attack by hackers). In the latter case, information collected about a suspected intruder may be shared with the USGS Information Technology Security Manager (see Contact information below).
+Identification for Law Enforcement or Unauthorized Use \- The only time that we will attempt to identify individual users or to share any information we receive with any parties outside of the USGS is (1) in the course of officially authorized law enforcement investigations or (2) in the event of a suspected attempt to deliberately circumvent our system’s security with the intent to gain [unauthorized access](http://www.doi.gov/disclaimer.html) or to do physical damage (for example, an attack by hackers). In the latter case, information collected about a suspected intruder may be shared with the USGS Information Technology Security Manager (see Contact information below).
 
 Web Server Activity \- Like most Web servers on the Internet, USGS servers collect and store within Web access logs all of the information that your Web browser sends when it requests a Web page, including:
 
@@ -68,5 +68,3 @@ Mail Stop 802
 National Center  
 USGS  
 Reston, VA 20192
-
-* * *
