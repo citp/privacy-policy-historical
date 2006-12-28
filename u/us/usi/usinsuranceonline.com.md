@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031107id_/http%3A//usinsuranceonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228165351id_/http%3A//www.usinsuranceonline.com/usio/privacy.php) for the most accurate reproduction.*
 
 # USInsuranceOnline.com - The Easiest Way to Shop for Insurance
 
@@ -15,5 +15,4 @@ By submitting your personal information on our site, you understand and consent 
 Security  
 All the personal information we collect from you on our site is securely stored on our server. We use the highest quality systems to protect our database and your personal information. We cannot guarantee that your information will be free from unauthorized access. We are not responsible for any information stolen or intercepted from our database.  
 Acceptance of this Privacy Policy  
-When you use this site you are accepting the terms and conditions of this privacy policy. USInsuranceOnline.com also reserves the right to change this privacy policy in any way at anytime. We welcome you to review our policy to be informed of any changes. If you continue use of this site after any changes in our policy, you are accepting the changes.  
- 
+When you use this site you are accepting the terms and conditions of this privacy policy. USInsuranceOnline.com also reserves the right to change this privacy policy in any way at anytime. We welcome you to review our policy to be informed of any changes. If you continue use of this site after any changes in our policy, you are accepting the changes.
