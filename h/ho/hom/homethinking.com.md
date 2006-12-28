@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homethinking.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211424id_/http%3A//homethinking.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homethinking.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228102903id_/http%3A//www.homethinking.com/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Realtor Reviews, Ratings and Real Estate Metrics for Homeowners
+# Real Estate Agents & Brokers - Reviews & Ratings - Homethinking
 
 Thank you for visiting this Internet web site located at www.homethinking.com ("Site"). This Privacy Policy details certain policies implemented throughout Homethinking LLC governing Homethinking LLC's use of personally identifiable information ("Information") provided to Homethinking LLC via this Site.
 
