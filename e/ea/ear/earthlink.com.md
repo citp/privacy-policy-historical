@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210935id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228032223id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# EarthLink® Privacy Policy
 
 Privacy Policy
 
