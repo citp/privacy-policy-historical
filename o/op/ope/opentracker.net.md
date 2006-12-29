@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentracker.net privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622102532id_/http%3A//www.opentracker.net/en/support/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentracker.net privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229055438id_/http%3A//www.opentracker.net/en/support/privacy_policy.jsp) for the most accurate reproduction.*
 
 # opentracker PRIVACY STATEMENT
 
