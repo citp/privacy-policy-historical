@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630070823id_/http%3A//www.authenteak.com/scripts/termsAndCond.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229083817id_/http%3A//www.authenteak.com/Scripts/termsAndCond.asp) for the most accurate reproduction.*
 
 # Terms and Conditions
 
