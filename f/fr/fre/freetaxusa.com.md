@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213335id_/http%3A//freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229190232id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
 
-# FreeTaxUSA :: Privacy
+# Our privacy policy regarding free tax preparation and e-file
 
 [](http://www.truste.org/ivalidate.php?url=www.freetaxusa.com&sealid=101) _Effective: 01/26/2006_   
 FreeTaxUSA treats your financial and personal information as confidential and will not sell or rent any information.  FreeTaxUSA.com is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
@@ -27,7 +27,7 @@ Log Files Like most standard web sites, FreeTaxUSA.com uses log files.  These i
 
 Communications from FreeTaxUSA.com Your contact information may be used to keep you updated on the status of your return, to resolve any problems with transmission of your tax return, and to provide a confirmation of credit card or direct-debit payments.  If you e-file your tax return, an e-mail will be sent to you stating whether the IRS has accepted or rejected your e-filed tax return.  If problems occur with the transmission of your tax return, a customer support e-mail may be sent out to explain the problem.  FreeTaxUSA.com also sends a confirmation e-mail to serve as a receipt when a taxpayer uses a credit card or checking/savings account to pay for the FreeTaxUSA.com fee.
 
-Occasionally, FreeTaxUSA.com will send out tax information or promotional material dealing with our products.  These are considered optional communications and you as the recipient can "opt-out" of this communication.  This can be done while creating your account or by using the "Edit User Profile" portion of the application after logging in or by following the unsubscribe instructions found at the following link:  [http://www.FreeTaxUSA.com/unsubscribe.jsp](https://web.archive.org/web/20060615213335id_/http%3A//freetaxusa.com/unsubscribe.jsp).
+Occasionally, FreeTaxUSA.com will send out tax information or promotional material dealing with our products.  These are considered optional communications and you as the recipient can "opt-out" of this communication.  This can be done while creating your account or by using the "Edit User Profile" portion of the application after logging in or by following the unsubscribe instructions found at the following link:  [http://www.FreeTaxUSA.com/unsubscribe.jsp](https://web.archive.org/web/20061229190232id_/http%3A//www.freetaxusa.com/unsubscribe.jsp).
 
 Service Announcements On rare occasions, it is necessary to send out a strictly service related announcement.  For instance, if service is temporarily suspended for maintenance, FreeTaxUSA.com might send users a notification via e-mail.
 
