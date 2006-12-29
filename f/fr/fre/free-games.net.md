@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-games.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403233007id_/http%3A//www.quizland.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-games.net privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229140938id_/http%3A//www.quizland.com/privacy.htm) for the most accurate reproduction.*
 
 # Quizland.com Privacy Policy
 
@@ -14,7 +14,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Quizland.com works with third parties that serve ads to this site. To find out more about how they manages the privacy of information in conjunction with serving ads on this site, please go to: 
 
-  1. [Adtegrity.com - http://www.adtegrity.com/privacy.asp](http://www.adtegrity.com/privacy.asp). 
-  2. [ Advertising.com - http://www.advertising.com/privacy/index.html](http://www.advertising.com/privacy/index.html)
+  1. [PostmasterDirect -- http://www.postmasterdirect.com/for_consumers_privacy.htm](http://www.postmasterdirect.com/for_consumers_privacy.htm)
+  2. [Adtegrity.com - http://www.adtegrity.com/privacy.asp](http://www.adtegrity.com/privacy.asp)
+  3. [ Advertising.com - http://www.advertising.com/privacy/index.html](http://www.advertising.com/privacy/index.html)
 
 
