@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614132251id_/http%3A//www.prospectiv.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229224557id_/http%3A//www.prospectiv.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Prospectiv Corporate Website : Contact Us
 
@@ -37,4 +37,4 @@ Prospectiv owns and operates several consumer websites including [Eversave.com](
 
 [Eversave.com Privacy Policy](http://www.eversave.com/eversave/consumers/PrivacyPolicy.jsp)  
 [TheKnowledgeStop.com Privacy Policy](http://www.theknowledgestop.com/eversave/consumers/KnowledgeStop-PrivacyPolicy.jsp)  
-[Healthier.com Privacy Policy](http://www.healthier.com/HIPrivacyPolicyPop.jsp)
+[Healthier.com Privacy Policy](http://www.healthier.com/PrivacyPolicy.jsp)
