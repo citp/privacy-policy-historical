@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russiansexbombs.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618052156id_/http%3A//www.russiansexbombs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiansexbombs.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229122206id_/http%3A//www.russiansexbombs.com/privacy.php) for the most accurate reproduction.*
 
 # Russian women personals
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
   
 **The Information We Collect:**  
   
-This notice applies to all information collected or submitted to Russian SexBombs. On some pages, you can purchase a Membership to Russian SexBombs, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. Should you choose to purchase a Membership to Russian SexBombs, we use iBill, a third-party credit card processing service, who will obtain additional information such as your address, phone number, and credit card data.  
+This notice applies to all information collected or submitted to Russian SexBombs. On some pages, you can purchase a Membership to Russian SexBombs, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. Should you choose to purchase a Membership to Russian SexBombs, we use CCBill, a third-party credit card processing service, who will obtain additional information such as your address, phone number, and credit card data.  
   
 **The Way We Use Information:**  
   
