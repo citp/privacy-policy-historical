@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smokersnews.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623155558id_/http%3A//www.smokersnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokersnews.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229202406id_/http%3A//smokersnews.com/privacy.html) for the most accurate reproduction.*
 
 # Smokers News Privacy Statement
 
 ##  Privacy Statement for Cigarette Smokers News
 
-We care about your on-line experience and your privacy. The **Cigarette Smokers News** has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses our practices for the gathering and use of information from visitors to our Web site, [Cigarette Smokers News](https://web.archive.org/web/20060623155558id_/http%3A//www.smokersnews.com/index.html) and from people who register for services that we offer online. 
+We care about your on-line experience and your privacy. The **Cigarette Smokers News** has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses our practices for the gathering and use of information from visitors to our Web site, [Cigarette Smokers News](https://web.archive.org/web/20061229202406id_/http%3A//smokersnews.com/index.html) and from people who register for services that we offer online. 
 
 The **Cigarette Smokers News** :   
 1> provides a link to this Privacy Statement on all pages that ask for personal information   
@@ -44,4 +44,4 @@ Vic Bilson
 Cigarette Smokers News  
 P.O. Box 20538  
 Wichita, KS 67208  
-[eMail Contact](https://web.archive.org/web/20060623155558id_/http%3A//www.smokersnews.com/contact.html)
+[eMail Contact](https://web.archive.org/web/20061229202406id_/http%3A//smokersnews.com/contact.html)
