@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615135443id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229090837id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
 
 # Routes : Privacy
 
@@ -18,7 +18,7 @@ Copyright
 
 No part of this website may be reproduced or transmitted by any means or stored in any information storage and retrieval system without the organisers written permission.
 
-Copyright © Routes Ltd. January 2006.
+Copyright © Routes Ltd. 2006.
 
 'Routes' is a registered trademark.
 
