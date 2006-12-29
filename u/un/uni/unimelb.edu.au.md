@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unimelb.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210910id_/http%3A//www.unimelb.edu.au/disclaimer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unimelb.edu.au privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229192901id_/http%3A//www.unimelb.edu.au/disclaimer/privacy.html) for the most accurate reproduction.*
 
 # Privacy and FOI : About the University : The University of Melbourne
 
