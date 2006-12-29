@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ranking.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423032127id_/http%3A//ranking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranking.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229095118id_/http%3A//www.ranking.com/privacy.htm) for the most accurate reproduction.*
 
-# Ranking.com - Privacy
+# Privacy Policy - Ranking.com
 
 ## Privacy Policy
 
