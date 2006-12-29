@@ -1,25 +1,53 @@
-> *The following text is extracted and transformed from the the-tls.co.uk privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120131906id_/http%3A//www.the-tls.co.uk/terms_and_policy/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-tls.co.uk privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229233459id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
-# Weekly book reviews and literary criticism from the Times Literary Supplement
+# News International Data Protection
 
-We take your privacy seriously. This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by e-mail at [webmaster@the-tls.co.uk](mailto:webmaster@the-tls.co.uk). 
+Data Protection Notice
 
-**Information about your visits to our sites**
+This notice explains how we will process your personal information.
 
-We automatically gather information about your visits to our sites. This includes demographic data and browsing patterns, but it is only collected in aggregate form - no individual user is identified. This is used to build up marketing profiles, to aid strategic development, to manage our relationship with advertisers and to audit usage of the site. 
+When you provide personal information to The Sun, Sun Online, News of the World or Page3.com, the data controller is News Group Newspapers Limited.
 
-We may use "cookies" to identify you when you visit www.the-tls.co.uk and to build up a demographic profile. A cookie is a small collection of data sent by a web server to a web browser, which lets the server to collect information back from the browser. Our use of cookies also may allow registered users to be presented with a personalised version of the site. 
+When you provide personal information to The Times, Times Online, Funday Times Online or The Sunday Times, the data controller is Times Newspapers Limited.
 
-**Use of personal information**
+When you provide personal information to Love It The Sunday Times Travel Magazine or The Sunday Times Inside Out Magazine the data controller is News Magazines Limited
 
-We also collect personal information from you through enquiry and registration forms and every time you e-mail us your details or log on using your user name and password. We may use this to personalise aspects of our services, to carry out market research surveys, to run competitions and to provide you with updates about developments on the sites and information about the products and services we offer. 
+When you provide personal information to The Times Literary Supplement the data controller is The Times Literary Supplement Limited.
 
-If you do not wish to receive information about our products or services, or the products or services offered jointly with or on behalf of other organisations, please tick the appropriate box on the registration form or e-mail us at [webmaster@the-tls.co.uk](mailto:webmaster@the-tls.co.uk).
+When you provide personal information to thelondonpaper the data controller is NI Free Newspapers Limited.
 
- **Disclosures**
+If another company is the data controller, this will be made clear when you provide your personal information.
 
-We will not disclose any information we keep about you to any third parties, except for other companies in the News International group of companies and any suppliers we engage to provide services which involve processing data on our behalf.
+News Group Newspapers Limited, Times Newspapers Limited, News Magazines Limited and The Times Literary Supplement are part of the News International Limited Group of companies whose registered address is 1 Virginia Street London E98 1XY.
 
- **Third Party Privacy Policies**
+The data controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, credit scoring, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period.
 
-Our website uses ad servers (such as Doubleclick) to serve the advertisments that you see on pages of our website. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of DoubleClick, please go to <http://www.doubleclick.net/privacy_policy/>
+When you visit one of our websites, we may send you a cookie. A cookie is a small file that can be placed on your computer's hard disk for record keeping purposes and we may use them to do a number of things:
+
+| 
+
+Cookies help us to recognise you when you next visit one of our websites and note the advertisements displayed to you. This allows us to tailor the advertisements we provide to your preferences. We may use the services of third party ad servers for this purpose.  
+  
+---|---  
+  |    
+| 
+
+Cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. A third party collects such data on our behalf to measure web site performance. Information collected is aggregated for reporting purposes. No personally identifiable information is collected by this service. The use of this service assists us in measuring and improving the structure and ease of use of our web sites.  
+  
+You are not obliged to accept cookies and may modify your browser so that it will not accept cookies.[ **Click here**](http://www.allaboutcookies.org/) for instructions on how to manage cookies. Please be aware that if you disable cookies, many services on our websites will not be available to you.
+
+If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
+
+We would like to share your information with organisations who are our business partners. We or they may contact you by mail, telephone, SMS or e-mail to let you know about any goods, services or promotions which may be of interest to you. When you give us your personal information, we will give you the opportunity to opt out of receiving such information by post or telephone from us but remember that this will preclude you from receiving any of our special offers or promotions in future. We will also give you the opportunity to opt in to receive such information by e-mail or SMS and will only send it to you if you do opt in or if you are an existing customer and the information relates to similar goods or services to those which you have previously purchased from us.
+
+Your personal information will be disclosed where we are obliged or permitted by law to do so. If you post or send offensive or objectionable content anywhere on or to any of our websites or otherwise engage in any disruptive behaviour on any of our websites, we can use whatever information that is available to us about you to stop such behaviour. This may involve informing relevant third parties such as your employer and law enforcement agencies about the content and your behaviour. You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by the methods explained at the end of this notice. 
+
+By returning or submitting a form with your personal information to us, you consent to:  
+a) our processing your sensitive personal data such as health data for the above purposes; and  
+b) our transferring your information to countries which do not provide the same level of data protection as the UK if necessary for the above purposes. If we do make such a transfer we will put a contract in place to ensure your information is protected. 
+
+You have a right to ask for a copy of your information (for which we charge a small fee) and to ask us to correct any inaccuracies in your personal information (which is free). To make sure we follow your instructions correctly and to improve our service to you through training of our staff, we may monitor or record telephone calls.
+
+When you give us information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data, including sensitive personal data and to the transfer of their information abroad and to receive on their behalf any data protection notices. 
+
+**How to contact us**
