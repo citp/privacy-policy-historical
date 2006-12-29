@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesbusiness.typepad.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202416id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesbusiness.typepad.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229233459id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
 # News International Data Protection
 
@@ -10,9 +10,11 @@ When you provide personal information to The Sun, Sun Online, News of the World 
 
 When you provide personal information to The Times, Times Online, Funday Times Online or The Sunday Times, the data controller is Times Newspapers Limited.
 
-When you provide personal information to Love It, the data controller is News Magazines Limited
+When you provide personal information to Love It The Sunday Times Travel Magazine or The Sunday Times Inside Out Magazine the data controller is News Magazines Limited
 
-When you provide personal information to the Times Literary Supplement they are the data controller.
+When you provide personal information to The Times Literary Supplement the data controller is The Times Literary Supplement Limited.
+
+When you provide personal information to thelondonpaper the data controller is NI Free Newspapers Limited.
 
 If another company is the data controller, this will be made clear when you provide your personal information.
 
@@ -20,7 +22,7 @@ News Group Newspapers Limited, Times Newspapers Limited, News Magazines Limited 
 
 The data controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, credit scoring, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period.
 
-When you visit one of our websites, we may send you a cookie. A cookie is a small file that can be placed on your computer’s hard disk for record keeping purposes and we may use them to do a number of things:
+When you visit one of our websites, we may send you a cookie. A cookie is a small file that can be placed on your computer's hard disk for record keeping purposes and we may use them to do a number of things:
 
 | 
 
@@ -36,9 +38,9 @@ You are not obliged to accept cookies and may modify your browser so that it wil
 
 If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
-We would like to share your information with organisations who are our business partners. We or they may contact you by mail, telephone, SMS or e-mail to let you know about any goods, services or promotions which may be of interest to you. When you give us your personal information, we will give you the opportunity to opt out of receiving such information by post or telephone from us but remember that this will preclude you from receiving any of our special offers or promotions in future. We will also give you the oppportunity to opt in to receive such information by e-mail or SMS and will only send it to you if you do opt in or if you are an existing customer and the information relates to similar goods or services to those which you have previously purchased from us. 
+We would like to share your information with organisations who are our business partners. We or they may contact you by mail, telephone, SMS or e-mail to let you know about any goods, services or promotions which may be of interest to you. When you give us your personal information, we will give you the opportunity to opt out of receiving such information by post or telephone from us but remember that this will preclude you from receiving any of our special offers or promotions in future. We will also give you the opportunity to opt in to receive such information by e-mail or SMS and will only send it to you if you do opt in or if you are an existing customer and the information relates to similar goods or services to those which you have previously purchased from us.
 
-You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by the methods explained at the end of this notice. 
+Your personal information will be disclosed where we are obliged or permitted by law to do so. If you post or send offensive or objectionable content anywhere on or to any of our websites or otherwise engage in any disruptive behaviour on any of our websites, we can use whatever information that is available to us about you to stop such behaviour. This may involve informing relevant third parties such as your employer and law enforcement agencies about the content and your behaviour. You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by the methods explained at the end of this notice. 
 
 By returning or submitting a form with your personal information to us, you consent to:  
 a) our processing your sensitive personal data such as health data for the above purposes; and  
