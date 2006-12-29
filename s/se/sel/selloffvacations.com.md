@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selloffvacations.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621102455id_/http%3A//selloffvacations.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selloffvacations.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229224126id_/http%3A//selloffvacations.com/shared/content/privacy.aspx) for the most accurate reproduction.*
 
-# SellOffVacations.com: Privacy Policy
+# www.selloffvacations.com: Privacy Policy
 
 **SellOffVacations.com** respects the privacy of our clients who make reservations with **SellOffVacations.com** and the Softvoyage reservation systems, the following discloses our information gathering and handling practices for our website(s) \- **SellOffVacations.com**.
 
@@ -14,7 +14,7 @@ We may use your IP address to help diagnose problems with our server, and to adm
 
 ## Weekly Email Specials:
 
-This service collects email addresses from visitors in order to offer last minute specials and general site update information. We ask visitors for an email address only, this will be kept confidential and will only be used by **SellOffVacations.com**. Subscribers may request removal from our email list by visiting the Weekly Email Specials page on the web site and manually removing themselves or by sending a blank email to [travel@SellOffVacations.com](mailto:travel@SellOffVacations.com)' as indicated in the email update.
+This service collects email addresses from visitors in order to offer last minute specials and general site update information. We ask visitors for an email address only, this will be kept confidential and will only be used by **SellOffVacations.com**. Subscribers may request removal from our email list by visiting the Weekly Email Specials page on the web site and manually removing themselves or by sending a blank email to [travel@SellOffVacations.com](mailto:travel@SellOffVacations.com) as indicated in the email update.
 
 ## Security:
 
