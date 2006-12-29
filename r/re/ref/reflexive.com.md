@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630053205id_/http%3A//reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229234003id_/http%3A//reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Reflexive Arcade Privacy Policy
 
@@ -8,13 +8,13 @@ Reflexive Entertainment, Inc. ("Reflexive") takes your privacy very seriously. P
 
 **What this Privacy Policy Covers**
 
-**·** This Privacy Policy covers Reflexive's treatment of personally identifiable information that Reflexive collects when you are on the Reflexive site, and when you use Reflexive games and services. This policy also covers Reflexive's treatment of any personally identifiable information that Reflexive's business partners share with Reflexive or that Reflexive may collect on a partner's site. 
+**�** This Privacy Policy covers Reflexive's treatment of personally identifiable information that Reflexive collects when you are on the Reflexive site, and when you use Reflexive games and services. This policy also covers Reflexive's treatment of any personally identifiable information that Reflexive's business partners share with Reflexive or that Reflexive may collect on a partner's site. 
 
-**·** This policy does not apply to the practices of companies that Reflexive does not own or control, or to people that Reflexive does not employ or manage. 
+**�** This policy does not apply to the practices of companies that Reflexive does not own or control, or to people that Reflexive does not employ or manage. 
 
-**· Anonymous information** refers to data that cannot be tied back to a specific individual. For example, Reflexive collects some information each time a visitor comes to a Reflexive site so we can improve the overall quality of the visitor's online experience. Reflexive collects the visitor's IP address, referral data, and browser and platform type. Reflexive also collects data each time one of our products is used to access the Internet. Reflexive collects this user information for purposes of product monitoring, product improvement, and to aid future development decisions. This information may also be shared with advertisers and our business partners on an aggregate non-personal basis. You do not have to register a product with Reflexive before we can collect this anonymous information. 
+**� Anonymous information** refers to data that cannot be tied back to a specific individual. For example, Reflexive collects some information each time a visitor comes to a Reflexive site so we can improve the overall quality of the visitor's online experience. Reflexive collects the visitor's IP address, referral data, and browser and platform type. Reflexive also collects data each time one of our products is used to access the Internet. Reflexive collects this user information for purposes of product monitoring, product improvement, and to aid future development decisions. This information may also be shared with advertisers and our business partners on an aggregate non-personal basis. You do not have to register a product with Reflexive before we can collect this anonymous information. 
 
-**· Personally identifiable information** refers to data that tells us specifically who you are, such as your name and postal address, which may be collected in addition to the anonymous data described above. Reflexive collects personal information in the following ways from different parts of its Web sites and games: 
+**� Personally identifiable information** refers to data that tells us specifically who you are, such as your name and postal address, which may be collected in addition to the anonymous data described above. Reflexive collects personal information in the following ways from different parts of its Web sites and games: 
 
 **o** Purchasing a Reflexive game: Reflexive collects personally identifiable information when you purchase Reflexive games. The types of information that may be requested include your name, address, telephone number, email address, and credit card information. 
 
@@ -26,11 +26,11 @@ Reflexive Entertainment, Inc. ("Reflexive") takes your privacy very seriously. P
 
 **Information Sharing and Disclosure**
 
-**·** Reflexive will not sell or rent your personally identifiable information to anyone. 
+**�** Reflexive will not sell or rent your personally identifiable information to anyone. 
 
-**·** Unless you have agreed to receive our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be remove at any time by completeing the form at [arcade.reflexive.com/emailremove.aspx](http://arcade.reflexive.com/emailremove.aspx). 
+**�** Unless you have agreed to receive our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be remove at any time by completeing the form at [arcade.reflexive.com/emailremove.aspx](http://arcade.reflexive.com/emailremove.aspx). 
 
-**·** Reflexive may send personally identifiable information about you to other companies or people when: 
+**�** Reflexive may send personally identifiable information about you to other companies or people when: 
 
 **o** We have your consent to share the information; 
 
@@ -42,15 +42,15 @@ Reflexive Entertainment, Inc. ("Reflexive") takes your privacy very seriously. P
 
 **Cookies**
 
-**·** Reflexive may set and access Reflexive cookies on your computer. Reflexive does not allow other companies to access the cookies we set on your computer. Advertisers or other companies do not have access to Reflexive's cookies. 
+**�** Reflexive may set and access Reflexive cookies on your computer. Reflexive does not allow other companies to access the cookies we set on your computer. Advertisers or other companies do not have access to Reflexive's cookies. 
 
 **Security**
 
-**·** In certain areas of our web site Reflexive uses industry-standard SSL-encryption to protect data transmissions. 
+**�** In certain areas of our web site Reflexive uses industry-standard SSL-encryption to protect data transmissions. 
 
-**·** All in-game transmission of purchasing information including name, e-mail and credit card number and expiration uses industry-standard SSL-encryption to protect data transmissions. If SSL is not present or cannot be accessed within the game the option to purchase the product within the game is not accessible. 
+**�** All in-game transmission of purchasing information including name, e-mail and credit card number and expiration uses industry-standard SSL-encryption to protect data transmissions. If SSL is not present or cannot be accessed within the game the option to purchase the product within the game is not accessible. 
 
-**·** Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Reflexive cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
+**�** Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Reflexive cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
 
 **Other Web Sites; Links**
 
@@ -58,6 +58,6 @@ Our web site contains links to other web sites. Reflexive is not responsible for
 
 **Changes to this Privacy Policy**
 
-**·** Reflexive reserves the right to amend this policy from time to time. Any amendments to this policy will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+**�** Reflexive reserves the right to amend this policy from time to time. Any amendments to this policy will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 ©2004, Reflexive® Entertainment Inc. 
