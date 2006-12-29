@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013317id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229224601id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
-# Immigration Department Website: Privacy Statement
+# Privacy
 
-Privacy statement   
-Security of information   
-Site visit data   
-Cookies   
-Collection, use and disclosure of personal information   
-Further information 
+  
+
 
 ## Privacy statement
 
@@ -41,14 +37,13 @@ When visiting this site, a record of your visit is logged. Information is record
 
 The information we log when you access this web site includes:
 
-  * your IP or server's address;
-  * the date and time of your visit to the site; 
-  * the pages accessed; 
-  * your operating system (for example, Windows NT, Windows 95, MAC etc); 
-  * your web browser version and type (for example, IE4, IE5, Netscape 4 etc); 
-  * the time taken to transmit information to you; and 
-  * the previous Internet address from which you came directly to this website.   
-
+  * your IP or server's address
+  * the date and time of your visit to the site
+  * the pages accessed
+  * your operating system (for example, Windows NT, Windows 95, Mac OS X etc)
+  * your web browser version and type (for example, IE4, IE5, Netscape 4 etc)
+  * the time taken to transmit information to you
+  * the previous internet address from which you came directly to this website.
 
 
 
@@ -60,13 +55,13 @@ Cookies are pieces of information or small files that a website can send to your
 
 Cookies can make using websites easier to use by storing information about your preferences on a particular website. The information may remain on your computer after the Internet session finishes.
 
-This website does not use cookies.
+While the main website does not use cookies, cookies may be sent by the department's online applications accessed via the main website.
 
 ## Collection, use and disclosure of personal information
 
 When the department receives your email or fill-in form, your message becomes accessible by staff, and your email address may be recorded.
 
-However, personal information provided to us will be treated confidentially and will only be used and/or disclosed in accordance with your consent and/or the provisions of the _Migration Act 1958_ and _Privacy Act 1988_ .
+However, personal information provided to us will be treated confidentially and will only be used and/or disclosed in accordance with your consent and/or the provisions of the _Migration Act 1958_ and _Privacy Act 1988_.
 
 ## Further information
 
@@ -74,12 +69,7 @@ You can find more information from the [Privacy Commissioner's website](http://w
 
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact:
 
-> DIMA Privacy Officer  
->  Email: [privacy@immi.gov.au](mailto:privacy@immi.gov.au)
+DIMA Privacy Officer  
+**Email:** [privacy@immi.gov.au](mailto:privacy@immi.gov.au)
 
-Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered. 
-
-**[ Return to previous page ]**
-
-  
-Last update: 05 June 2006 at 11:17 AEST 
+Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered.
