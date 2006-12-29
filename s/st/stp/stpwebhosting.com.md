@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105821id_/http%3A//stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229213202id_/http%3A//stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# STP Web Hosting: Policies
+# STP Web Hosting: Privacy Policy
 
 | 
 
