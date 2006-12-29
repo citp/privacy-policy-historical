@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2006-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060630011654id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2006-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061229160621id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>NPR Linking and Privacy Policy</title>
@@ -37,7 +37,7 @@ if (window != top)
 function changeLocation(selVal) {
 	//if(selVal != "null"){
 	if(selVal != "null" && selVal !="blank"){
-		if(selVal.indexOf('?') != -1){
+		if(selVal.indexOf('!') != -1){
 			selVal = selVal.slice(0,-1);
 			var newWindow = window.open(selVal, '', 'scrollbars,resizable,toolbar,status,menubar,location');
 		} else {
@@ -71,7 +71,7 @@ function getDateStr()
 	
 	<!-- start header row one -->
 	<div id="headerRowOne">
-		<div id="logo"><a href="/"><img src="/images/logo_npr_125.gif" alt="NPR Home Page" height="42" width="125"></a></div>
+		<div id="logo"><a href="/"><img src="http://media.npr.org/images/logo_npr_125.gif" alt="NPR Home Page" height="42" width="125"></a></div>
 
 		<ul id="nav">
 			<li><a href="/templates/archives/rundown_archive_hub.php">archives</a></li> |
@@ -111,24 +111,25 @@ function getDateStr()
 					<option value="blank"></option>
 					<option value="blank">SELECTED PROGRAMS</option>
 					<option value="/programs/asc/">All Songs Considered</option>
-					<option value="/programs/atc/">All Things Considered</option>
-					<option value="http://www.cartalk.com?">Car Talk</option>
-					<option value="/programs/day/">Day to Day</option>
+					<option value="/templates/rundowns/rundown.php?prgId=2">All Things Considered</option>
+					<option value="http://www.cartalk.com!">Car Talk</option>
+					<option value="/templates/rundowns/rundown.php?prgId=17">Day to Day</option>
 
-					<option value="http://www.wamu.org/programs/dr/">The Diane Rehm Show</option>
-					<option value="http://freshair.npr.org/">Fresh Air with Terry Gross</option>
-					<option value="http://www.fromthetop.org/">From the Top</option>
-					<option value="/programs/morning/">Morning Edition</option>
-					<option value="/programs/newsnotes/">News &amp; Notes with Ed Gordon</option>
+					<option value="http://www.wamu.org/programs/dr/!">The Diane Rehm Show</option>
+					<option value="/templates/rundowns/rundown.php?prgId=13">Fresh Air with Terry Gross</option>
+					<option value="/templates/rundowns/rundown.php?prgId=43">From the Top</option>
+					<option value="/templates/rundowns/rundown.php?prgId=3">Morning Edition</option>
+					<option value="/templates/rundowns/rundown.php?prgId=11">News &amp; Notes</option>
 
-					<option value="http://www.wnyc.org/onthemedia/">On the Media</option>
-					<option value="/programs/pt/">Performance Today</option>
-					<option value="/programs/totn/">Talk of the Nation</option>
+					<option value="http://www.wnyc.org/onthemedia/!">On the Media</option>
+					<option value="http://www.onpointradio.org/!">On Point</option>
+					<option value="/templates/rundowns/rundown.php?prgId=4">Performance Today</option>
+					<option value="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</option>
 					<option value="/programs/waitwait/">Wait Wait... Don't Tell Me!</option>
-					<option value="/programs/wesat/">Weekend Edition Saturday</option>
-					<option value="/programs/wesun/">Weekend Edition Sunday</option>
+					<option value="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</option>
+					<option value="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</option>
 
-					<option value="/programs/worldcafe/">World Cafe</option>
+					<option value="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</option>
 					<option value="blank"></option>
 					<option value="/about/schedules/">SCHEDULES</option>
 					<option value="/stations/index.php">NPR Stations' Schedules</option>
@@ -151,15 +152,37 @@ function getDateStr()
 			</form>
 		</div>
 	
-		<!--<div class="searchSponsorTxt">
-			Search is<br />sponsored by:
-		</div>
+		<!-- ACCIPITER Search Sponsorship -->
+		<!-- COMMENTED IN - IN USE CURRENTLY -->
+		<div class="topnavSponsor">		
+		<script language="JavaScript">
+		//The interior of the script tags should be inside a javascript comment for browser-compatibility
+		var userver;
+		var target;
+		if(userver == null || userver == '')
+		{
+    		userver = "http://u.npr.org";
+		}
+		if(target == null || target == '')
+		{
+    		target = "/site=NPR";
+		}
+		aloc = "/utype=banner/aamsz=88x31/position=search_box";
+    	random = Math.round(Math.random() * 8000000000 + 1000000000);
+		if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+		sc = get_source_code();
+		document.write('<');
+		document.write('script language=\"JavaScript\" src="' + userver + '/jserver/random=' + random + target + aloc + sc + '/pageid=' + pageNum + '">');
+		document.write('<');
+		document.write('/script>');
 		
-		<div class="searchSponsor">
-			<img src="/prototypes/topnav/ad.gif" width="88" height="31" alt="" />
-		</div>-->
-
-
+		
+		</script>
+		<noscript>
+		<a rel="nofollow" HREF="http://u.npr.org/adclick/site=NPR/utype=banner/aamsz=88x31/position=search_box/pageid=1">
+		<img src="http://u.npr.org/nserver/site=NPR/utype=banner/aamsz=88x31/position=search_box/pageid=1"></a>
+		</noscript>
+		</div>
 		
 		
 	</div>
@@ -277,7 +300,6 @@ It is important to note that the NPR Web site contains links to other sites that
 				
 				<script src="/include/javascript/peekaboo.js" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript">
-<!-- $Header: /usr/local/cvs/NPRWWW/include/email_friend/send_email_include.html,v 1.18 2006/04/28 19:06:12 jgarlow Exp $ -->
 
 /**
  * echeck function modified from DHTML email validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
@@ -342,7 +364,20 @@ function echeck(str) {
 				}
 
 			document.frmSendToFriend.pageUrl.value= docUrl;
-
+            if (window.vstag)
+            {
+                document.frmSendToFriend.vstopic.value = window.vstag.primaryTopic;
+                document.frmSendToFriend.vsprogram.value = window.vstag.programId;
+                document.frmSendToFriend.vsagg.value = window.vstag.aggIds;
+                document.frmSendToFriend.vsbyline.value = window.vstag.byline;
+            }
+            else
+            {
+                document.frmSendToFriend.vstopic.value = 0;
+                document.frmSendToFriend.vsprogram.value = 0;
+                document.frmSendToFriend.vsagg.value = 0;
+                document.frmSendToFriend.vsbyline.value = 0;
+            }
 			from=document.frmSendToFriend.from.value;
 			to=document.frmSendToFriend.recipient.value;
 
@@ -380,11 +415,17 @@ function echeck(str) {
 	<!-- return EmailValidator(this) -->
 	<input type="hidden" value="" name="pageUrl">
 	<input type="hidden" value="" name="title">
-	<div id="emailform">
+    <input type="hidden" name="vstopic" value="">
+    <input type="hidden" name="vsprogram" value="">
+    <input type="hidden" name="vsagg" value="">
+    <input type="hidden" name="vsbyline" value="">
+
+
+    <div id="emailform">
 		<div id="emailheader">
 			<!--<div class="sponsor">'E-mail this Story' sponsored by: <a href="#">Kean: We
 					Get IT Done.</a></div>-->
-			<!--<div class="sponsor"><a onClick="sa_onclick(this.href);" onKeyPress="sa_onclick(this.href);" href="#"><img src="/banners/generic_88x31.gif" width="88" height="31" alt="Visit our Sponsor" /></a></div>-->
+			<!--<div class="sponsor"><a onClick="sa_onclick(this.href);" onKeyPress="sa_onclick(this.href);" href="#"><img src="http://media.npr.org/banners/generic_88x31.gif" width="88" height="31" alt="Visit our Sponsor" /></a></div>-->
 
 			<h3><a href="#email" onclick="setClass('emailFormContent','emailFormTable');"><img src="http://download.npr.org/anon.npr-www/chrome/icon_email.gif" width="30" height="30" border="0" alt="E-mail this Page">E-mail this Page</a></h3>
 			<div class="spacer">&nbsp;</div>
@@ -464,7 +505,7 @@ function echeck(str) {
 					<span class="email_box_text">No</span></td>
 			</tr>
 			<tr valign="middle">
-				<td><img src="http://www.npr.org/images/spacer.gif" width="180" height="1" alt="null"></td>
+				<td><img src="http://media.npr.org/images/spacer.gif" width="180" height="1" alt="null"></td>
 				<td><div>
 						<input type="button" name="submitEmailSender" value="Send This Page" onclick="formSubmit();">
 						<br>
@@ -516,20 +557,20 @@ function echeck(str) {
 	</div>
 </div>
 
+<!-- NPR.org pagetags -->
 
-<script language="javascript" src="/include/javascript/zig.js?Log=1" type="text/javascript"></script>
+<script language="javascript" src="/include/javascript/zig.js" type="text/javascript"></script><img src="https://web.archive.org/web/20060928190316/http://www.npr.org/images/zag.gif?Log=1&amp;sw=800&amp;sh=600&amp;cd=24"><img src="https://web.archive.org/web/20060928190316/http://www.npr.org/images/zag.gif?Log=1&amp;dt=NPR%20Linking%20and%20Privacy%20Policy&amp;dr=&amp;cb=1580350841446">
 <noscript>
 <img src="/images/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/>
 </noscript>
 
 <!-- BEGIN IBM SURFAID CODE -->
 <!-- Copyright IBM Corporation, 2001, 2002 -->
+
 <script language="JavaScript1.1" type="text/javascript">var SA_ID="nprpix;npr";</script>
 <script language="JavaScript1.1" type="text/javascript" src="http://stats.surfaid.ihost.com/sacdcoc.js"></script>
 <noscript><img src="http://stats.surfaid.ihost.com/rc/images/uc.GIF?1.11&amp;nprpix&amp;npr&amp;noscript" height="1" width="1" alt="" border="0" /></noscript>
 <!-- END IBM SURFAID CODE -->
-
-
             </div>
             <!-- END MIDDLE COLUMN -->
             <!-- START RIGHT COLUMN -->
@@ -548,7 +589,7 @@ function echeck(str) {
             <!-- START LEFT COLUMN -->
             <div id="leftcol">
                 <script type="text/javascript" src="/include/localize/create_form.js"></script>
-                <script type="text/javascript" src="/include/localize/station_include2.js"></script><div id="localization"><form name="go_local" method="post" action="https://web.archive.org/web/20041004073208/http://www.npr.org/stations/stations_results.php" onsubmit="if (document.go_local.txtSearchValue.value!='Call Letters' &amp;&amp; document.go_local.txtSearchValue.value!='') {document.go_local.refUrl.value=window.location.href} else {window.location.href='http://www.npr.org/stations/index.php?sForm=call&amp;refUrl=https://web.archive.org/web/20060630011654id_/http%3A//www.npr.org/about/privacypolicy.html';return false;}"><p>find your local member station:</p><input type="hidden" name="searchType" value="zipcall"><input type="hidden" name="refUrl" value=""><input name="txtSearchValue" id="txtSearchValue" value="Call Letters" onclick="clearField();" onblur="fillField();"><p>(or enter zip code)</p><input type="submit" name="find" id="localizationfind" class="button" value="find"></form></div>
+                <script type="text/javascript" src="/include/localize/station_include2.js"></script><div id="localization"><form name="go_local" method="post" action="https://web.archive.org/web/20041004073208/http://www.npr.org/stations/stations_results.php" onsubmit="if (document.go_local.txtSearchValue.value!='Call Letters' &amp;&amp; document.go_local.txtSearchValue.value!='') {document.go_local.refUrl.value=window.location.href} else {window.location.href='http://www.npr.org/stations/index.php?sForm=call&amp;refUrl=https://web.archive.org/web/20061229160621id_/http%3A//www.npr.org/about/privacypolicy.html';return false;}"><p>find your local member station:</p><input type="hidden" name="searchType" value="zipcall"><input type="hidden" name="refUrl" value=""><input name="txtSearchValue" id="txtSearchValue" value="Call Letters" onclick="clearField();" onblur="fillField();"><p>(or enter zip code)</p><input type="submit" name="find" id="localizationfind" class="button" value="find"></form></div>
                 <div id="topics">
 	<ul>
 		<li class="topic1001">
@@ -590,6 +631,7 @@ function echeck(str) {
 		<li class="topic1007">
 			<a href="/templates/topics/topic.php?topicId=1007">Health &amp; Science</a>
 			<ul>
+				<li><a href="/templates/topics/topic.php?topicId=1066">Your Health</a></li>			
 				<li><a href="/templates/topics/topic.php?topicId=1025">Environment</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1026">Space</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1027">Health Care</a></li>
@@ -598,7 +640,6 @@ function echeck(str) {
 		<li class="topic1032">
 			<a href="/templates/topics/topic.php?topicId=1032">Books</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1005">Summer Reading</a></li>			
 				<li><a href="/templates/topics/topic.php?topicId=1033">Authors</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1035">Fiction</a></li>
 			</ul>
@@ -606,7 +647,7 @@ function echeck(str) {
 		<li class="topic1039">
 			<a href="/templates/topics/topic.php?topicId=1039">Music</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1040">Live at NPR</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1040">In Performance</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1041">Classical Music</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1042">Jazz</a></li>
 				<li><a href="/templates/topics/topic.php?topicId=1043">Pop Music</a></li>
@@ -654,12 +695,13 @@ function echeck(str) {
 		<li><a href="/templates/rundowns/rundown.php?prgId=17">Day to Day</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=11">News &amp; Notes with Ed Gordon</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=11">News &amp; Notes</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>
 		<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me!</a></li>
 		<li><a href="/templates/rundowns/rundown.php?prgId=4">Performance Today</a></li>
-		<li><a href="/templates/story/story.php?storyId=4724307">World Cafe</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=43">From the Top</a></li>
 		<li class="more"><a href="/programs/">More Programs</a></li>
 	</ul>
 </div>
@@ -685,7 +727,7 @@ function echeck(str) {
 	</ul>
 </div>
                 <div class="underwriting">
-                    <a href="http://www.pbs.org/" target="_new"><img src="/graphics/ads/pbs/pbshome_promo_117.gif" height="51" width="117" alt="PBS logo" border="0"></a>
+                    <a href="http://www.pbs.org/" target="_new"><img src="http://media.npr.org/graphics/ads/pbs/pbshome_promo_117.gif" height="51" width="117" alt="PBS logo" border="0"></a>
                 </div>
                 <div id="textonly">
                     <p>
