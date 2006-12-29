@@ -1,42 +1,31 @@
-> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418065953id_/http%3A//routledge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229083436id_/http%3A//www.routledge.com/util/resources.asp%3Ff%3Dprivacy) for the most accurate reproduction.*
 
-# Routledge - Privacy Statement
+# Routledge
 
 **About Us**
 
-This is a privacy policy for Taylor and Francis Group Ltd. Our homepage on the Web is located at [ http://www.tandf.co.uk/](http://www.tandf.co.uk/). The full text of our privacy policy is available on the Web at [ https://ecommerce.tandf.co.uk/privacy/privacy.asp](https://ecommerce.tandf.co.uk/privacy/privacy.asp) Users may go to [ https://ecommerce.tandf.co.uk/privacy/optout.asp](https://ecommerce.tandf.co.uk/privacy/optout.asp) for information on how to opt-in or opt-out of use of their information. 
+This is a privacy policy for Taylor and Francis Group, an informa business. Our homepage on the Web is located at [ http://www.taylorandfrancis.co.uk/](http://www.tandf.co.uk/). Please note all information gathered by our site is required for successful fulfillment of your order. As a result of this, no opt-out mechanism is available.
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
 Web Services Department  
-Taylor and Francis Group Ltd  
-Rankine Road  
-Basingstoke  
-HANTS RG24 8PR  
+Taylor and Francis Group  
+2/4 Park Square  
+Milton Park  
+Oxfordshire  
+OX14 4RN  
 UK  
 
 
-You may contact us by e-mail at [ privacy@tandf.co.uk](mailto:privacy@tandf.co.uk). You may call us at +44 (0) 1256 813000. 
-
-**Dispute Resolution and Privacy Seals**
-
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
-
-  * **BT TrustWise** : This site is a BT TrustWise Secure Site 
-
-
-
-**Additional Information**
-
-This policy is valid for 1 week from the time that it is loaded by a client. 
+You may contact us by e-mail at [ privacy@tandf.co.uk](mailto:privacy@tandf.co.uk). You may call us at +44 (0) 20 7017 6000.
 
 **Data Collection**
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained seperately. 
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained seperately.
 
 **Group "Access log information"**
 
-We collect the following information: 
+We collect the following information:
 
   * Click-stream data
   * HTTP protocol elements
@@ -49,7 +38,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents.
 
 The following explanation is provided for why this data is collected:
 
@@ -57,7 +46,7 @@ Our Web server collects access logs containing this information.
 
 **Group "Cookies"**
 
-We collect the following information: 
+We collect the following information:
 
   * HTTP cookies
 
@@ -70,7 +59,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents.
 
 The following explanation is provided for why this data is collected:
 
@@ -78,7 +67,7 @@ The following explanation is provided for why this data is collected:
 
 **Group "Transaction info (required)"**
 
-We collect the following information: 
+We collect the following information:
 
   * Physical contact information
   * Online contact information
@@ -92,7 +81,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:
 
   * Delivery services.
 
@@ -104,9 +93,9 @@ The following explanation is provided for why this data is collected:
 
 **Cookies**
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+Our site makes use of cookies. Cookies are used for the following purposes:
 
   * Completing the user's current activity 
   * User targeting 
@@ -122,9 +111,7 @@ The compact policy which corresponds to this policy is:
     ONL PUR COM NAV INT CNT STA PRE LOC"
     
 
-The following table explains the meaning of each field in the compact policy. 
-
-| **Field** | **Meaning**  
+The following table explains the meaning of each field in the compact policy.  | **Field** | **Meaning**  
 ---|---  
 `CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
 `NON` |  No access is available to collected information.   
