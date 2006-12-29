@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626201128id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229225750id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,4 @@ Schwan's Home Service, Inc. reserves the right to modify this privacy policy at 
 By using the Schwan'sTM Web site, you consent to our use of your information as described in this Internet Privacy Policy. As we implement new technology and introduce new services, we will update our Internet Privacy Policy, so we encourage you to review it often. 
 
 |  |    
-|   
----  
-[](http://www.impromptugourmet.com/default.aspx?cmp=ILC-S5P839077101)
+
