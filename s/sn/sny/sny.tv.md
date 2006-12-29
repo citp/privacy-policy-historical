@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sny.tv privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061946id_/http%3A//www.sny.tv/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sny.tv privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229230858id_/http%3A//www.sny.tv/about/privacy.jsp) for the most accurate reproduction.*
 
 # SNY.tv: About: Privacy Policy
+
+Privacy Statement
 
 ## SNY.tv Privacy Statement
 
@@ -60,3 +62,5 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 If we decide to make an important change to our Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. If at any point we wish to use your personal information in a manner different from that stated at the time it was collected, we will notify you by means of an e-mail and give you the opportunity to indicate whether you consent to the proposed use.
 
 **LAST UPATED: March 1, 2006**
+
+| 
