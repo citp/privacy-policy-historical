@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629040651id_/http%3A//www.businessweek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229180548id_/http%3A//www.businessweek.com/privacy.htm) for the most accurate reproduction.*
 
 # Business Week Online: Privacy Notice
 
@@ -13,14 +13,14 @@ Our Ad Server also sets a permanent cookie to identify a unique visitor, includi
 
 You can also visit the sites of other companies who serve ads on our site from time to time: [Unicast](http://www.unicast.com/), [Mediaplex](http://www.mediaplex.com/), [Pointroll](http://www.pointroll.com/), [Eyeblaster](http://www.eyeblaster.com/), [Unitedvirtualities](http://www.unitedvirtualities.com/), [Eyewonder](http://www.eyewonder.com/)
 
-For more information about cookies, [click here](https://web.archive.org/web/20060629040651id_/http%3A//www.businessweek.com/global_ssi/custserv/faq_web.htm#18)
+For more information about cookies, [click here](https://web.archive.org/web/20061229180548id_/http%3A//www.businessweek.com/global_ssi/custserv/faq_web.htm#18)
 
 Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, The McGraw-Hill Companies has developed a comprehensive privacy policy. If you'd like more information about our use of customer data, please review [The McGraw-Hill Companies Privacy Policy](http://www.mcgraw-hill.com/privacy.html).
 
-For questions, comments, or to review or correct your information, please contact [Howard Manus](mailto:howard_manus@businessweek.com), Business Week Online's Vice President, Operations.
+For questions, comments, or to review or correct your information, please contact [Michael Harbolt](mailto:michael_harbolt@businessweek.com).
 
 After you've read the policy, click your back button to return to BusinessWeek Online.
 
-If you prefer not to receive promotional materials from companies outside The McGraw-Hill Companies, please submit the [Opt Out form](https://web.archive.org/web/20060629040651id_/http%3A//www.businessweek.com/optout.htm).
+If you prefer not to receive promotional materials from companies outside The McGraw-Hill Companies, please submit the [Opt Out form](https://web.archive.org/web/20061229180548id_/http%3A//www.businessweek.com/optout.htm).
 
 Thanks
