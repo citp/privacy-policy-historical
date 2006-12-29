@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616171948id_/http%3A//www.salesheads.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229144433id_/http%3A//www.salesheads.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # salesheads.com | Sales Careers, Sales Managers, Sales Reps, IT Sales, Sales Jobs, Sales Resumes
 
