@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightnow.org privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418022934id_/http%3A//www.rightnow.org/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnow.org privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229093554id_/http%3A//rightnow.org/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # RightNow.org - Privacy Policy
 
