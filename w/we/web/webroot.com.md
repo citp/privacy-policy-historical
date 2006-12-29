@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630060253id_/http%3A//www.webroot.com/company/privacy.html%3FWRSID%3Dbc3035822de11a427eb9fc984098b7b0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229093609id_/http%3A//www.webroot.com/company/privacy.html%3FWRSID%3D8d7753ff71ce5e3e96f7c7ece49443a3) for the most accurate reproduction.*
 
 # Webroot's Privacy Policy
 
@@ -6,7 +6,7 @@ Webroot Software, Inc.'s privacy policy ("Privacy Policy") covers the collection
 
 At Webroot, protecting your privacy is important to us. After all, online privacy and security is what we're all about.
 
- **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by Webroot in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
+**You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by Webroot in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
 
 ## Why Webroot Collects Personal Information
 
@@ -14,7 +14,7 @@ Webroot only collects your Personal Information where it is required to provide 
 
 ## What Information We Collect
 
-Webroot collects your Personal Information at a variety of points, including when you place an order, register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with Webroot, such as your name, mailing address, phone number, e-mail address and credit card information along with information about the Webroot products you own, such as the activation code or keycode, date of purchase and information relating to a support issue.
+Webroot collects your Personal Information at a variety of points, including when you place an order, (which may require you to provide personal information, including a credit card number, to our commerce provider Digital River), register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with Webroot, such as your name, mailing address, phone number, e-mail address and credit card information along with information about the Webroot products you own, such as the activation code or keycode, date of purchase and information relating to a support issue.
 
 Please be aware that if you prefer not to provide us with your Personal Information, because such information may be necessary for us to provide certain services, we may not be able to, or may choose not to, make such services available to you.
 
@@ -77,9 +77,9 @@ Webroot reserves the right to amend, revise or modify this policy and our other 
 
 ## Webroot Contact information
 
-  *  **For sales questions:** (800) 772-9383 (option #1)
-  *  **For technical support:** [www.webroot.com/company/support](http://www.webroot.com/company/support/)
-  *  **For software updates:** [www.webroot.com/consumer/downloads](http://www.webroot.com/consumer/downloads/)
+  * **For sales questions:** (800) 772-9383 (option #1)
+  * **For technical support:** [www.webroot.com/company/support](http://www.webroot.com/company/support/)
+  * **For software updates:** [www.webroot.com/consumer/downloads](http://www.webroot.com/consumer/downloads/)
 
 
 
@@ -92,8 +92,8 @@ USA
 
 ### Contact us by phone:
 
-  *  **Office hours:** Monday - Friday 9 AM - 5 PM, MST (except Holidays)
-  *  **Telephone:** (800) 772-9383 or (303) 442-3813
-  *  **Fax:** (303) 442-3846
+  * **Office hours:** Monday - Friday 9 AM - 5 PM, MST (except Holidays)
+  * **Telephone:** (800) 772-9383 or (303) 442-3813
+  * **Fax:** (303) 442-3846
 
 
