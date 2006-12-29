@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630021309id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229223423id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
 
 # eSellerate - Privacy Policy
 
 **eSellerate's Online Privacy Policy**  
-_Last revision date: June 9, 2006_
+_Last revision date: July 6, 2006_
 
 [](http://www.truste.org/ivalidate.php?url=www.esellerate.net&sealid=102) eSellerate is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -29,7 +29,7 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 
 eSellerate adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information from the European Union. 
 
-Anyone who has provided personally identifiable information to eSellerate can request access to that information by contacting eSellerate Privacy through one of the previously listed options. eSellerate will respond to such access requests within 30 days of the date the requestor submits them. 
+Anyone who has provided personally identifiable information to eSellerate can request access to that information by contacting eSellerate Privacy through one of the previously listed options. eSellerate will respond to such access requests within 30 days of the date the requestor submits them. If you ask eSellerate to make changes to your personal information, we will use best efforts to investigate your concerns after we receive your request and make the necessary corrections, additions and/or deletions. 
 
 **About this statement**  
 This statement describes the privacy policy for the eSellerate web site. By accessing this site, you agree to the terms of the eSellerate Online Privacy Policy, as outlined below. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
@@ -110,7 +110,7 @@ eSellerate does not control how our publishers use their customers' personally i
 > 
 > After making any modifications, they should click Save Changes. 
 
-_Last revision date: June 9, 2006_
+_Last revision date: July 6, 2006_
 
   **eSellerate's Product Activation Privacy Policy**
 
