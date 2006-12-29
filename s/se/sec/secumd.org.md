@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429070645id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229101349id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.*
 
 # SECU Credit Union - Online Loans, Free Checking, Online Banking
 
