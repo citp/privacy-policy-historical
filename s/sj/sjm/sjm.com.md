@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjm.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615085302id_/http%3A//www.sjm.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjm.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229202527id_/http%3A//www.sjm.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Information Collection, Information Use, Children's Privacy, Communications from the Site, Sharing Information, Links to Other Web Sites, Surveys & Contests, Security, Updating Personal Information, Notification of Changes, Contact Information : St. Jude Medical
 
