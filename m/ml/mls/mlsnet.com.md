@@ -1,101 +1,85 @@
-> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402120216id_/http%3A//mlsnet.com/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229095537id_/http%3A//www.mlsnet.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# MLSnet.com - The Official Site of Major League Soccer
+# Major League Soccer: About: Privacy
 
-[MLSnet.com >](https://web.archive.org/) [Site Resources >](https://web.archive.org/resources/)
+l About MLS
 
-MLSnet.com Privacy Policy
+## MLSnet.com Privacy Statement
 
-At MLSnet.com, we are committed to protecting your privacy online. We make every effort to ensure that you and your children can freely take advantage of all of MLSnet.com's features and content, knowing that any personal information you provide to us will be protected. Please review the outline below, detailing our information gathering policies and addressing some of the most common concerns. If you still have questions or concerns after reading the policy, please feel free to contact us at [feedback@MLSnet.com](mailto:feedback@mlsnet.com). 
+Major League Soccer, L.L.C. ("MLS"), in association with SportsOnEarth, L.L.C. ("SOE") produces MLSnet.com, the Official Website of MLS (the "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website only. 
 
-**TABLE OF CONTENTS**   
-1\. Policies for Children Under 13 Years Old  
-2\. Policies for Individuals 13 Years Old and Older   
-3\. Participating in Forums, Chats, and Q&As  
-4\. E-mail newsletter service  
-5\. Use of Cookies  
-6\. About IP Addresses and Surveys Used for Research Purposes  
-7\. Links from MLSnet.com to Other Websites  
-8\. Your Acceptance of These Terms  
-9\. Contact Information 
+#### General
 
-**1\. Policies for Children Under 13 Years Old**
+You can visit and enjoy the Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. If you submit any personal information to us, or to our third party service providers acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to our third party service providers, and only so that they may help us provide the services you've requested and in certain circumstances to provide you with ticket related offers; (2) to one or more MLS Member Clubs, to the extent that you've submitted information that relates specifically to them (e.g., you've asked to receive the newsletter of one or more Member Clubs via email; or you've purchased Member Club-specific merchandise from the store), so that they may learn more about fans like you, and provide better services to you; and (3) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy soccer or a free subscription to goods and services) on the Website in conjunction with a third party service provider, sponsor, or promotional partner, and share your information with that third party service provider, sponsor, or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so. 
 
-As described below, MLSnet.com will not knowingly collect or maintain any personally identifiable information from children under 13 years old without the express consent of their parent or guardian.
+_Special Offers and Promotions._ With your permission, we may also send you e-mails with special offers and promotions. If you don't want to receive these, you may change your preferences. 
 
-A number of interactive features on MLSnet.com require registration to participate. All registrants for these features will be required to enter their full name, age, zip code and e-mail address to be used as an identifier for the feature. 
+_Cookies._ To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. This is done by using little files called "cookies" and by tracking IP addresses. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Website's computers and stored on your computer's hard drive. Cookies operate in the background, and you can turn them off if you wish, but doing so may impair your ability to use some of the features on the Website. We may use cookies to make the Website work better by, for example, keeping track of your login name, password and, if you want to buy things while on the Website, your "shopping cart." 
 
-When a person indicating an age of less than 13 years tries to register for such features on MLSnet.com, we will not retain any of his or her personally identifiable information submitted by the child. If we become aware that we have inadvertently retained personally identifiable information from a user under the age of thirteen, we will delete such information from our records. We may request the disclosure of information that is reasonably necessary to participate in the feature for which the child is attempting to register (such as a favorite team or player), but which does not identify the child personally. Because MLSnet.com does not knowingly retain any personally identifiable information from children under the age of thirteen, we also do not knowingly distribute such information to third parties. 
+We may also allow other companies that are presenting advertisements or providing services on our pages to set and access cookies on your computer. Those companies' use of cookies will be covered by their own privacy policies, not ours. 
 
-Children who indicate that they are under 13 years old will not be able to participate in some interactive features of MLSnet.com that do not require registration but do necessitate the collection and retention of personally identifiable information (e.g., entering some sweepstakes or contests). 
+Specifically, we use a third-party advertising company to serve ads when you visit certain pages of the Website. This company may use aggregated information (not including your name, address, email address or telephone number) about your visits to the Website in order to provide advertisements about goods and services of interest to you. If you would like more information about the information collection practices of this third-party advertising company, [click here](http://www.doubleclick.com/us/). 
 
-MLSnet.com encourages parents and guardians to spend time online with their children and to participate together in the interactive activities offered on MLSnet.com. 
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject cookies. If you set your browser not to accept cookies, you may not be able to take advantage of certain services on the Website. 
 
-**2\. Policies for Individuals 13 Years Old and Older**
+We may also use IP addresses to analyze trends, help us administer the Website, track the movement of visitors, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, except as may be necessary to verify users' locations to determine the applicability of blackout restrictions for MLSnet.com video/audio subscription products, as applicable. 
 
-To participate in some of the interactive features on MLSnet.com, you may be required to submit some personal information that allows MLSnet.com to fulfill your order or process your request. In addition, MLSnet.com may share information submitted by you with MLS league business partners and sponsors. MLSnet.com will not share any personal information submitted by you without posting a notification that MLSnet.com intends to do so, and giving you an opportunity to elect not to have it shared. 
+_Aggregated Demographic Information._ We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner. 
 
-_Registration._ You will be required to register to take advantage of some of the interactive activities on MLSnet.com. To register, you will need to submit your full name, age, zip code and e-mail address as an identifier for the feature. You may also be asked to provide optional information, such as your favorite MLS team and activity, mailing address, and demographic information. These fields are optional, and will not interfere with your registration should you choose to leave them blank. 
+_Business Transfers._ As time passes, Major League Soccer, L.L.C., may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer. 
 
-Optional fields are used internally to help MLSnet.com better tailor our services to suit our users' needs. No optional demographic information is ever shared with any outside entity, except in an aggregated format.
+_Disclosure for Legal Purposes._ The law requires that we may be required to share your personal information and non-personal information (see "Cookies" section above for examples of non-personal information) pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use and disclose share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Service, or as otherwise required by law. 
 
-For information about registration for children, please consult Section 1 in this Privacy Policy. 
+#### Our Security Practices 
 
-_Other Services._ MLSnet.com may offer you an opportunity to participate in various contests, surveys or other promotional features, or you may sign up to receive other information from the MLS or its member teams (e.g., "90 Minutes", the official online newsletter of the MLS, notification about events in your area or merchandise specials). The information you will be required to submit will vary, but will typically include your full name, age, and e-mail address. You may also be requested to answer certain optional survey questions, such as your favorite MLS team or activity. Information received through such activities will be used by MLSnet.com or MLS teams to send you the requested information or to administer contests and notify prize winners. Such information may be shared with MLS business partners, unless you opt out of receiving future mailings at the time you sign up, or later, by following the procedures in Section 4 below. Unless expressly noted otherwise, children who indicate that they are under 13 years old will not be allowed to sign up for such activities. 
+Your preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions. 
 
-**3\. Participating in Forums, Chats, and Q &As **
+#### How You Can Review Your Personal Information 
 
-To participate in an online chat or send e-mail to MLSnet.com, we request a first name, city, state, province or country, and e-mail address which will only be used to acknowledge receipt of the message or to respond to the sender's request when MLSnet.com determines that a response is warranted. 
+If you want to review your personal information, you can revise your preferences. Your preferences include your shipping, payment and account information, as well as whether you want to receive communications from us. 
 
-Please note that information or statements that are volunteered while participating in a MLSnet.com chat, fan forum, or Q&A session will not be treated as confidential and may be posted on MLSnet.com. You will not be able to change or remove any public postings made once posted. All submissions will become the property of MLSnet.com. Please review the Terms of Use for more information about making submissions to MLSnet.com. 
+If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact our [Privacy Administrator](mailto:privacy@mlsnet.com). 
 
-MLSnet.com does not maintain a record of any of the information collected through such activities in retrievable form, nor does MLSnet.com share the information with MLS business partners or sponsors for promotional purposes, except in aggregate form. 
+#### Choice
 
-**4\. Opting Out**
+Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences. 
 
-MLSnet.com provides you the opportunity to opt out of receiving various communications, advertisements and promotions offered either by MLSnet.com or by our partners. If you do not want to receive such mailings, simply tell us after you register. You can also easily edit your account to no longer receive such offers and mailings. You will need your User ID and password in order to access your account.
+#### Links 
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, you will be unable to use those MLSnet.com services that require registration in order to participate. If you choose not to accept cookies, or cancel your cookies after registration, you will not have the ability to log-on on to MLSnet.com, make transactions (i.e., order and pay for products through MLSnet.com) or access your account. In limited circumstances, we may retain information that you have requested be removed but which cannot be completely deleted from our databases due to technical constraints and the backup of our computer system. See Section 7 below for more information on cookies. 
+The Website contain links to other sites produced by MLS and/or SOE and websites operated by unrelated third parties. Please note that we are not responsible for the privacy practices of third party websites. We encourage you to be aware of this when your leave the Website and to read the privacy policies of every website that collects personally identifiable information from you. The Privacy Policy applies only to this Website. 
 
-**5\. Security Policies**
+#### Special Rules For Children 
 
-Please keep in mind that whatever you publicly disclose online - for example, in a chat or through e-mail - can be collected and used by others, and any Internet transmission you make may be unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be completely secure. While we take reasonable measures to protect your personal information, MLSnet.com cannot warrant the security of any information you transmit to us and you do so at your own risk. In addition, MLSnet.com may disclose information to law enforcement or other government officials if we determine such disclosure to be necessary or appropriate, or if we are compelled to disclose it by court order or operation of law. 
+Because of federal law, we cannot collect any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special rules that follow. 
 
-**6\. Use of Cookies**
+#### Parental Consent 
 
-Cookies are pieces of information that a website transfers to a user's computer hard drive for informational and record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you are at MLSnet.com. Accepting a cookie does not give anyone access to your computer or to any personal information. It is simply a small file in which we keep information that identifies you as a unique user. For example, we may use a cookie to indicate when you have already voted in an online poll to prevent multiple voting and a distortion of results. 
+Some services on the Website (e.g., Shop, Ticketing) require the submission of a credit card number along with personal information, and are therefore not available to children. Other services on the Website (e.g., fantasy soccer) are not available to children under the age of thirteen. For services that are available to children under the age of thirteen, if a child under the age of thirteen attempts to complete any registration form on the Website a screen will appear that says "Get Your Mom or Dad." We will then instruct the child to have a parent complete the registration form, either in person or by e-mail. We will provide the parent with a notice describing the Privacy Policy and will ask for the parent's consent to our collection and use of personal information from or about their child. The parent will also be asked to submit a credit card number (the card will not be charged) for verification purposes only. 
 
-The use of cookies is an industry standard; you will find cookies used at most major websites. Most browsers are initially configured to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Although you will still be able to enjoy many of the features on MLSnet.com if you disable your browser from accepting cookies, some parts of MLSnet.com will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you may have difficulty completing shopping transactions, entering contests or playing games. 
+If the registration form is not completed with a credit card number to verify parental consent, the child will not be able to access those of our activities requiring registration and we will not collect any personal information from that child. Failure to complete the registration form will also prevent the child from entering chat rooms or otherwise making personal information available to the public on the Website. A child's parent has the option to consent to the collection and use of their child's personal information without consenting to the disclosure of that information to third parties, but if such disclosure is necessary to make available a service which has been requested, then the child will not have access to such service. 
 
-**7\. About IP Addresses and Surveys Used for Research Purposes**
+#### Information Collected 
 
-An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web; it performs a function for individual computers much like a Post Office Box number serves Postal Service customers. Web servers - the computers that "serve up" Web pages - automatically identify your computer by its IP address. When users request pages on MLSnet.com, our servers log their IP addresses. 
+Depending on the special service requested, personal information collected may include a name, email address, address or age of a child. We will not condition a child's participation in any activity on the Website, such as fantasy soccer, on the child's disclosing more information than is reasonably necessary to participate in that activity. A parent can review his or her child's personal information by accessing the child's preferences. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting the [Privacy Administrator](mailto:privacy@mlsnet.com). 
 
-This logging allows MLS to better understand the traffic that comes to MLSnet.com, and to tailor content and services to better suit your needs. In many cases, users visiting MLSnet.com from work or from other services that utilize a "firewall" - a computer used to control the flow of Internet traffic to and from another computer network - may share a single IP address with other users behind the same firewall.
+#### Information Use 
 
-Please review each activity prior to use and only participate in those that involve the disclosure of information you are comfortable with sharing. MLSnet.com will occasionally ask users to complete surveys or questionnaires which we use for general research purposes to improve MLSnet.com and serve you better. These surveys are always optional and you do not have to answer any survey question to visit MLSnet.com.
+We may use the personal information to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, marketing back to the child or making it publicly available through a chat room. (Please note that when anyone, including a child, uses a message board or chat room on the Website, the communications are publicly available to the other participants.) 
 
-MLSnet.com analyzes research statistics compiled from surveys and IP addresses on an aggregated, anonymous basis, for system administration and usage patterns, and may share that analysis with advertisers, MLS business partners and sponsors. In rare circumstances, however, we will use such information to identify a user when necessary to enforce compliance with our Terms of Use or to protect MLSnet.com, its users or others. 
+#### Information Disclosure 
 
-**8\. Links from MLSnet.com to Other Websites**
+After obtaining the consent of the child's parent, we, our service providers, and one or more Member Clubs (to the extent that any information disclosed is specific to them), will maintain the confidentiality, security, and integrity of the personal information collected about the child. A child's information will only be disclosed to our third party service providers and the applicable Member Club(s) as described in this Privacy Policy. The following are third party service providers of our services which may collect or maintain personal information from children under 13 on our behalf: Synacor, Inc. (vanity e-mail); and Prospero, Inc. (message boards). They can't use your child's personal information without your consent for any purpose other than the service you've requested on behalf of your child. 
 
-The MLSnet.com Privacy Policy addresses only the use and disclosure of information we collect from you on MLSnet.com. When you link to the website of a third party, either through an advertising banner on MLSnet.com or through clicking through a link to an outside website, your use of those websites will be subject to the privacy policies of these third parties, which may differ from MLSnet.com's Privacy Policy. 
+#### Contact Us 
 
-**9\. Contact Information**
+If you have questions or concerns about this Privacy Policy, you can contact us at: 
 
-MLSnet.com is operated by Major League Soccer, L.L.C. (MLS). Please feel free to contact MLS for more information. 
+SportsOnEarth, L.L.C. Privacy Administrator 75 Ninth Avenue New York, New York 10011 Phone: (212) 485-8421 Fax: (212) 485-8111 
 
-MLSnet.com  
-c/o Major League Soccer, L.L.C.  
-110 East 42nd Street, 10th Floor   
-New York, NY 10017 
+Or send an e-mail to [privacy@mlsnet.com](mailto:privacy@mlsnet.com). 
 
-Phone: (212) 450-1200   
-Fax: (212) 450-1325 
+#### Notification of Changes
 
-Email: [feedback@mlsnet.com](mailto:feedback@mlsnet.com)
+If we decide to make an important change to our Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. If at any point we wish to use your personal information in a manner different from that stated at the time it was collected, we will notify you by means of an e-mail and give you the opportunity to indicate whether you consent to the proposed use. 
 
-**LAST UPATED: March 7, 2001**  
-
-
-Copyright © 2001 Major League Soccer, L.L.C. All rights reserved. 
+**LAST UPDATED: April 16, 2004**
