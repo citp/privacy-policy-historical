@@ -1,257 +1,423 @@
-<!--The following is the downloaded HTML source of the routledge.com privacy policy that was archived on 2006-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060418065953id_/http%3A//routledge.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the routledge.com privacy policy that was archived on 2006-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061229083436id_/http%3A//www.routledge.com/util/resources.asp%3Ff%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- * END XML DOCUMENT TYPE DEFINITION * --><head>
-<!-- START HEAD FILE -->
-<title>Routledge  - Privacy Statement</title>
-<meta name="keywords" content="Routledge, Privacy Statement">
-<meta name="description" content="Routledge Privacy Statement">
-<link rel="stylesheet" type="text/css" href="/css/master.css">
-<script type="text/javascript" language="JavaScript" src="/common/generic/javascripts/searchFunctions.js"></script>
-<script type="text/javascript" language="JavaScript" src="/common/generic/javascripts/JktWinFunction.js"></script>
-<script type="text/javascript" language="JavaScript" src="/scripts/cellbg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/scripts/ecommerce.js"></script>
+<html><head>
+<title>Routledge</title>
+<script language="javaScript">
+<!--
+function MM_ValidateForm(theForm) {
+		
+	getFormFields(theForm);
 
-<!-- END HEAD FILE -->
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<a name="top"></a>
+	if (theForm.requiredfields == null) {
+		return true;
+    }
+	
+	var arr_required = theForm.requiredfields.value.split(",");
+	for (var i = 0; i < arr_required.length; i++) 
+	{
+		if (theForm.elements[arr_required[i]].value == "")
+		{
+			alert(arr_required[i] + " is required.");
+			theForm.elements[arr_required[i]].focus();
+			return false;
+			break;
+		}
+	}
+	return true;
+}
+
+function getFormFields(f)
+{
+	var n = 0;
+	var arrFields = new Array();
+	for (var i = 0; i < f.elements.length; i++) 
+	{
+		if (f.elements[i].type != "button" && 
+			f.elements[i].type != "hidden" && 
+			f.elements[i].type != "submit" && 
+			f.elements[i].type != "reset")
+		{
+			arrFields[n] = f.elements[i].name;
+			n++;
+		}
+	}
+	f.fields.value = arrFields;
+	//alert(arrFields);
+}
+//-->
+</script>
+<base href="http://www.routledge.com/"></head>
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<script language="JavaScript" type="text/javascript">
+//<!--
+
+function gotoPhantom(TargetIsCurrent)
+{
+	if (TargetIsCurrent) {
+		Url = location.pathname + location.search;
+	} else {
+		Url = document.frm.URL.value;
+	}
+	
+	// get email address and password
+	var userID   = document.frmLogin.uid.value;
+	var password = document.frmLogin.pwd.value;
+	
+	// remove all spaces
+	userID   = userID.replace(/\s/g, "");
+	password = password.replace(/\s/g, "");
+	
+	// check for email address and password before submiting the form
+	if (userID.length == 0 || password.length == 0)	{
+		alert("You must enter your email address and password to login.  Please try again.");
+	} else {	
+		document.frmLogin.action = "https://www.routledge.com/ejournals/authentication/login.asp";
+		document.frmLogin.method="POST";
+		document.frmLogin.submit();
+	}
+}
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+//<!--
+	function linkBrowser(toHref, windowName)
+	{
+		windowprops = "height=480,width=640,location=1,resizable=1,scrollbars=1,status=1,titlebar=1,toolbar=1,z-lock=0";
+		info = window.open(toHref, windowName, windowprops);
+		if (info.opener == null) 
+		{
+			info.opener = window;
+		}
+		else 
+		{
+			info.focus();
+		}
+	}
+//-->
+</script>
+<!-- BEGIN HEADER -->
+
+<!-- * START MASTER CSS * -->
+<style type="text/css">
+<!--
+@import url(http://www.routledge.com/css/master.css);
+-->
+</style>
+<!-- * END MASTER CSS * -->
+
+<!-- * START JAVASCRIPT CALLS * -->
+<script language="JavaScript" src="https://seals.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.routledge.com/jscripts/searchFunctions.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.routledge.com/jscripts/JktWinFunction.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.routledge.com/jscripts/PopupWinFunction.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.routledge.com/jscripts/cellbg.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.routledge.com/jscripts/ecommerce.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.routledge.com/jscripts/ccvalidate.js"></script>
+<!-- * END JAVASCRIPT CALLS * -->
+
 <table height="95" width="100%" cellpadding="0" cellspacing="0" border="0" class="header-bg">
-	<form method="post" name="autonomy" action="http://search.tandf.co.uk/results.asp" onsubmit="CheckForm2(); return false;" class="autonomy" target="_blank"></form>
+	<form name="search" action="shopping_cart/search/search.asp" class="autonomy"></form>
 		<tbody><tr>
-		<td width="330"><a href="/" target="_top"><img src="/images/logo_01.gif" alt="Routledge " width="330" height="65" border="0" class="pixel"></a></td><td width="100%">&nbsp;</td>
-		<td width="440" valign="top" align="right">
-		    <table border="0" cellpadding="2" cellspacing="3">
-			<tbody><tr>
-
-				<td><a href="/bookscatalogue.asp?URL=https://ecommerce.tandf.co.uk/catalogue/DirectLink.asp?ResourceCentre=ROUTLEDGE2&amp;Destpage=DisplayCart&amp;ChangeCountry=0" target="_top"><img src="/common/images/cart.gif" width="13" height="12" alt="view your shopping cart" border="0" class="pixel"></a></td>
-				<td><a class="toprightnav" href="/bookscatalogue.asp?URL=https://ecommerce.tandf.co.uk/catalogue/DirectLink.asp?ResourceCentre=ROUTLEDGE2&amp;Destpage=DisplayCart&amp;ChangeCountry=0" target="_top">Shopping Cart</a></td>
-
-				<td><a class="toprightnav" href="help.asp" target="_top">Help</a></td>
-
-
-		  		<td><a class="toprightnav" href="contact.asp" target="_top">Contact Us</a></td>
-		 		<td><a class="toprightnav" href="members.asp" target="_top">Members of the Group</a></td>
-			</tr>
-		    </tbody></table>
-		</td>
-		</tr>
-		<tr>
-		<td width="330"><a href="/"><img src="/images/logo_02.gif" alt="Routledge " width="330" height="30" border="0" class="pixel"></a></td><td width="100%">&nbsp;</td>
-		<td width="440" align="right"><!-- START PRODUCT SEARCH BOX -->
-<table border="0" cellspacing="0" cellpadding="0">
-   <tbody><tr>
-     <td><img src="/images/productsearch.gif" width="100" height="23" alt="Search for Books Journals and eBooks" class="pixel"></td>
-     <td width="5"><img src="/common/images/blank.gif" width="5" height="5" class="pixel"></td>
-     <td><input type="text" name="querytext" size="15" value=""></td>
-     <td width="5"><img src="/common/images/blank.gif" width="5" height="5" class="pixel"></td>
-     <td><select name="database">
-<option value="" selected="">All Products</option><option value="Books">Books</option><option value="EJournals">Journal Article</option><option value="EBooks">eBooks</option>
-         </select></td>
-     <td width="5"><img src="/common/images/blank.gif" width="5" height="5" class="pixel"></td>
-     <td><input type="image" src="/common/images/product-site/go.gif" width="24" height="23" border="0" alt="Begin Search" name="Begin Search" class="pixel"></td>
-   </tr>
-</tbody></table>
-
-
-
-<input type="hidden" name="calling_site" value="">
-<!-- END PRODUCT SEARCH BOX --></td>
+			<td width="20%" align="left">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td valign="top"><a href="http://www.routledge.com/" target="_top"><img src="images/routledge_banner_top_logo.gif" alt="Routledge" width="330" height="65" border="0" class="pixel"></a></td>
+					</tr>
+					<tr>
+						<td valign="top"><a href="http://www.routledge.com/" target="_top"><img src="images/routledge_banner_bottom_logo.gif" alt="Routledge" width="330" height="30" border="0" class="pixel"></a></td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td width="80%" align="right" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr valign="top">
+						<td>
+		    				<table border="0" cellpadding="2" cellspacing="0">
+								<tbody><tr>
+									<td><a href="shopping_cart/cart/basket.asp" target="_top"><img src="images/cart.gif" width="13" height="12" alt="view your shopping cart" border="0" class="pixel"></a></td>
+									<td nowrap=""><a class="toprightnav" href="shopping_cart/cart/basket.asp" target="_top">Shopping Cart</a><font color="#ffffff"> » </font></td>
+									<td nowrap=""><a class="toprightnav" href="http://www.routledge.com/" target="_top">Home</a><font color="#ffffff"> » </font></td>
+									<td nowrap=""><a class="toprightnav" href="help/help.asp" target="_top">Help</a><font color="#ffffff"> » </font></td>
+		  							<td nowrap=""><a class="toprightnav" href="shipping_region.asp" target="_top">Shipping Region</a><font color="#ffffff"> » </font></td>
+		  							<td nowrap=""><a class="toprightnav" href="shopping_cart/account/go_account.asp" target="_top">My Account</a><font color="#ffffff"> » </font></td>
+		  							<td nowrap=""><a class="toprightnav" href="contact.asp" target="_top">Contact Us</a><font color="#ffffff"> » </font></td>
+		 							<td nowrap=""><a class="toprightnav" href="util/resources.asp?f=members" target="_top">Members of the Group</a></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					
+					<tr><td><img src="images/blank.gif" width="1" height="30" class="pixel"></td></tr>
+					
+					<!-- START PRODUCT SEARCH BOX -->
+					<tr valign="bottom">
+						<td align="right">
+		    				<table border="0" cellpadding="0" cellspacing="0">
+								<tbody><tr>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td><img src="images/prodsearch.gif" width="100" height="23" alt="Search for Books Journals and eBooks" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td><input type="text" name="search" size="15" value=""></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td><a href="javascript:SearchHandler()"><img src="images/searchbtn.gif" width="25" height="21" border="0" alt="Begin Search" name="Begin Search" class="pixel"></a></td>
+								</tr>
+		   						<tr>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+			 						<td><a class="toprightnav" href="shopping_cart/search/advsearch.asp">Advanced Search</a></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		     						<td width="5"><img src="images/blank.gif" width="5" height="5" class="pixel"></td>
+		   						</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<!-- END PRODUCT SEARCH BOX -->
+		    	</tbody></table>
+			</td>
 		</tr>
 	
 </tbody></table>
 
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td height="1"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+<td height="1"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
 </tr>
 
 	<tr>
 		<td width="100%" colspan="3" height="17" class="breadcrumb-bg-light"></td>
 	</tr>
 	<tr>
-	<td height="2" colspan="3" class="breadcrumb-bg-dark"><img src="/common/images/blank.gif" width="1" height="2" class="pixel"></td>
+	<td height="2" colspan="3" class="breadcrumb-bg-dark"><img src="images/blank.gif" width="1" height="2" class="pixel"></td>
 	</tr>
 		<tr>
-	<td height="22" colspan="3"><img src="/common/images/blank.gif" width="1" height="22" class="pixel"></td>
+	<td height="22" colspan="3"><img src="images/blank.gif" width="1" height="22" class="pixel"></td>
 	</tr>
 	<tr>
 		<td width="158" valign="top"><table width="158" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
    <tbody><tr>
-	<td width="3"><img src="/common/images/blank.gif" width="3" height="1" class="pixel"></td>
+	<td width="3"><img src="images/blank.gif" width="3" height="1" class="pixel"></td>
 	<td valign="top">
 
-<!-- begin general resources navigation -->
+		<!-- begin general resources navigation -->
 	   
       <table width="155" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-			<td height="30" valign="top"><img src="/images/155x22_resources.gif" alt="Website Resources" width="155" height="22" class="pixel"></td>
+			<td height="30" valign="top"><img src="images/155x22_resources.gif" alt="Website Resources" width="155" height="22" class="pixel"></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+
         </tr>
         <tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/featured_titles.asp">Recent Highlights</a></td>
+		  <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="util/showpromobyname.asp?promoname=Highlights">Highlights</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+        </tr>
+	  <tr>
+	    <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="util/showpromobyname.asp?promoname=New+and+Forthcoming">New and Forthcoming</a></td>
+	  </tr>
+	  <tr>
+	    <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+	  </tr>
+        <tr>
+		  <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="categories.asp">Browse by Discipline</a></td>
         </tr>
         <tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/subjects.asp">Browse by Subject</a></td>
-        </tr>
-        <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/subject_resources.asp">Subject Resources</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
+
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/textbooks.asp">Textbooks</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/ALevel_Textbooks.asp">AS / A2 Textbooks</a></td>
         </tr>
-		<tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+
+	  <tr> 
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/inspection_copy.asp">Inspection Copy Request</a></td>  
         </tr>
       <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/catalogues.asp">Catalogues</a></td>  
         </tr>
+
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_blank" href="http://www.routledge.com/classics">Routledge Classics</a></td>
+          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_blank" href="/classics">Routledge Classics</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
 		 <tr>
-		 <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_blank" href="http://www.routledge.com/students">Routledge Students</a></td>
+
+		 <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_blank" href="/students">Routledge Students</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
 		 <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/products.asp">Online Products</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+
         </tr>
         <tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="http://www.tandf.co.uk/eupdates" target="_blank">eUpdates</a></td>
+          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="javascript:linkBrowser('http://www.tandf.co.uk/eupdates/', 'assocWin');">eUpdates</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
 		<tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="http://www.ebookstore.tandf.co.uk" target="_blank">eBookstore</a></td>
+          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="javascript:linkBrowser('http://www.ebookstore.tandf.co.uk/', 'assocWin');">eBookstore</a></td>
+
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_blank" href="http://www.tandf.co.uk/journals/">Journals</a></td>
+          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="javascript:linkBrowser('http://www.tandf.co.uk/journals/', 'assocWin');">Journals</a></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+        </tr>
+	  <tr>
+	    <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" href="util/showdiscountpromobyname.asp?promoname=Special+Offers">Special Offers</a></td>
+	  </tr>
+	  <tr>
+	    <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+	  </tr>
+
+<!--        <tr> 
+          <td height="25" onMouseOver="CellBgOver(this)" onMouseOut="CellBgOut(this)"><a class="leftnavlink" href="javascript:linkBrowser('http://www.routledge-ny.com/', 'assocWin');">Routledge NY</a></td>
         </tr>
         <tr> 
-          <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_blank" href="http://www.routledge-ny.com/">Routledge NY</a></td>
-        </tr>
-        <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
-        </tr>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel" /></td>
+        </tr> -->
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/proposal.asp">Information 
             for Authors</a></td>
         </tr>
+
         <tr> 
         </tr><tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
-			<td height="30" valign="top"><img src="/images/155x22_bookseller.gif" alt="Bookseller Resources" width="155" height="22" class="pixel"></td>
+			<td height="30" valign="top"><img src="images/155x22_bookseller.gif" alt="Bookseller Resources" width="155" height="22" class="pixel"></td>
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
         <tr> 
           <td height="25" onmouseover="CellBgOver(this)" onmouseout="CellBgOut(this)"><a class="leftnavlink" target="_top" href="/representatives.asp">Representatives and Agents</a></td>
+
         </tr>
         <tr> 
-          <td height="1" class="horzline"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
+          <td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
         </tr>
       </tbody></table>
-  <!-- end general resources navigation -->
+		<!-- end general resources navigation -->
 	</td>
    </tr>
 </tbody></table>
-
-
 </td>
-		<td width="23"><img src="/common/images/blank.gif" width="23" height="1" class="pixel"></td>
-		<td width="100%" valign="top">
 
+					<td width="98%" height="100%" valign="top">
+						<table border="0" cellpadding="0" cellspacing="2" align="center" width="100%">
+							<tbody><tr>
+								<td width="3" nowrap=""><spacer type="block" width="3" height="1"></spacer></td>
+								<td width="100%">
+								<!--begin-->
+								
 
-<!-- START PAGE CONTENT -->
-
-<!-- START PAGE TITLE IMAGE -->
-    <table width="100%" border="0" cellpadding="0" cellspacing="2">
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="95%">
+	
 	<tbody><tr>
-		<td width="50%" height="30" valign="top"><img src="/images/450x22_privacy.gif" width="450" height="22" alt="Routledge  - Privacy Statement" class="pixel"></td>
-		<td width="50%" height="30" valign="top" align="right"><div id="nodisplay"><a href="?mode=print"><img src="/common/images/print_icon.gif" width="128" height="23" border="0" alt="Printer friendly page"></a></div></td>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td>
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+	<tbody><tr> 
+		<td height="3"><spacer type="block" height="3" width="1"></spacer></td>
+  	</tr>
+  	<tr> 
+		<td align="left" width="99%" class="title_bar"><b>Privacy Policy</b><br></td>
+  	</tr>
+  	<tr> 
+		<td height="10"><spacer type="block" height="10" width="1"></spacer></td>
+  	</tr>
+  	<tr> 
+		<td height="1" class="horzline"><img src="images/blank.gif" width="1" height="1" class="pixel"></td>
+  	</tr> 
+  	<tr> 
+		<td height="5"><spacer type="block" height="5" width="1"></spacer></td>
+  	</tr>
+</tbody></table>
+</td>
+				</tr>
+			</tbody></table>
+		</td>
 	</tr>
-  <tr>          <td valign="top" height="22" colspan="2"><span class="pageheading"></span></td>
-  </tr>
-<!-- END PAGE TITLE IMAGE -->
+
 
 	<tr>
-		<td width="100%" colspan="2">
+		<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td>
+						<!-- Content Begin -->
+						
 
- 
 <!-- start privacy policy -->
 <table width="100%" cellpadding="1" cellspacing="0" border="0">
 		<tbody><tr> 
 				<td colspan="2" width="100%" align="left" valign="top"> 
 						<p class="defaulttext"><b>About Us</b></p>
-						<p class="defaulttext">This is a privacy policy for Taylor and Francis Group Ltd. Our homepage on the Web is located at <a class="defaultlink" href="http://www.tandf.co.uk/"> http://www.tandf.co.uk/</a>. The full text of our privacy policy is available on the Web at <a class="defaultlink" href="https://ecommerce.tandf.co.uk/privacy/privacy.asp"> https://ecommerce.tandf.co.uk/privacy/privacy.asp</a> Users may go to <a class="defaultlink" href="https://ecommerce.tandf.co.uk/privacy/optout.asp"> https://ecommerce.tandf.co.uk/privacy/optout.asp</a> for information on how to opt-in or opt-out of use of their information. 
-						</p><p class="defaulttext">We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-						</p><p class="defaulttext"> Web Services Department<br>
-								Taylor and Francis Group Ltd<br>
-								Rankine Road<br>
-								Basingstoke<br>
-								HANTS RG24 8PR<br>
+						<p class="defaulttext">This is a privacy policy for Taylor and Francis Group, an informa business. Our homepage on the Web is located at <a class="defaultlink" href="http://www.tandf.co.uk/"> http://www.taylorandfrancis.co.uk/</a>. Please note all information gathered by our site is required for successful fulfillment of your order. As a result of this, no opt-out mechanism is available.</p>
+						<p class="defaulttext">We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+						</p><p class="defaulttext">Web Services Department<br>
+								Taylor and Francis Group<br>
+								2/4 Park Square<br>
+								Milton Park<br>
+								Oxfordshire<br>
+								OX14 4RN<br>
 								UK<br>
 						</p>
-						<p class="defaulttext">You may contact us by e-mail at <a class="defaultlink" href="mailto:privacy@tandf.co.uk"> privacy@tandf.co.uk</a>. You may call us at +44 (0) 1256 813000. 
-						</p><p class="defaulttext"><b>Dispute Resolution and Privacy Seals</b></p>
-						<p class="defaulttext">We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
-						</p><ul class="defaulttext">
-								<li> <b>BT TrustWise</b>: This site is a BT TrustWise Secure Site <img src="https://ecommerce.tandf.co.uk/catalogue/images/siteseal.gif" alt="BT TrustWise Secure Site"> 
-						</li></ul>
-						<!-- "Additional information" section of privacy policy -->
-						<p class="defaulttext"><b>Additional Information</b></p>
-						<p class="defaulttext">This policy is valid for 1 week from the time that it is loaded by a client. </p>
+						<p class="defaulttext">You may contact us by e-mail at <a class="defaultlink" href="mailto:privacy@tandf.co.uk"> privacy@tandf.co.uk</a>. You may call us at +44 (0) 20 7017 6000.</p>
 						<!-- "Data Collection" section of privacy policy -->
 						<p class="defaulttext"><b>Data Collection</b></p>
-						<p class="defaulttext">P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained seperately. 
-						</p><p class="defaulttext"><b>Group "Access log information"</b></p>
-						<p class="defaulttext">We collect the following information: 
-						</p><ul class="defaulttext">
+						<p class="defaulttext">P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained seperately.</p>
+						<p class="defaulttext"><b>Group "Access log information"</b></p>
+						<p class="defaulttext">We collect the following information:</p>
+						<ul class="defaulttext">
 								<li>Click-stream data</li>
 								<li>HTTP protocol elements</li>
 						</ul>
@@ -259,12 +425,12 @@
 						<ul class="defaulttext">
 								<li>Completion and support of the current activity.</li>
 						</ul>
-						<p class="defaulttext">This data will be used by ourselves and our agents. 
-						</p><p class="defaulttext">The following explanation is provided for why this data is collected:</p>
+						<p class="defaulttext">This data will be used by ourselves and our agents.</p>
+						<p class="defaulttext">The following explanation is provided for why this data is collected:</p>
 						<p class="defaulttext">Our Web server collects access logs containing this information.</p>
 						<p class="defaulttext"><b>Group "Cookies"</b></p>
-						<p class="defaulttext">We collect the following information: 
-						</p><ul class="defaulttext">
+						<p class="defaulttext">We collect the following information:</p>
+						<ul class="defaulttext">
 								<li>HTTP cookies</li>
 						</ul>
 						<p class="defaulttext">This data will be used for the following purposes:</p>
@@ -272,12 +438,12 @@
 								<li>Completion and support of the current activity.</li>
 								<li>One-time tailoring.</li>
 						</ul>
-						<p class="defaulttext">This data will be used by ourselves and our agents. 
-						</p><p class="defaulttext">The following explanation is provided for why this data is collected:</p>
+						<p class="defaulttext">This data will be used by ourselves and our agents.</p>
+						<p class="defaulttext">The following explanation is provided for why this data is collected:</p>
 						<blockquote>Cookies are used to store information about your country of origin. This allows us to customise our site and only display books that are available in your area.</blockquote>
 						<p class="defaulttext"><b>Group "Transaction info (required)"</b></p>
-						<p class="defaulttext">We collect the following information: 
-						</p><ul class="defaulttext">
+						<p class="defaulttext">We collect the following information:</p> 
+						<ul class="defaulttext">
 								<li>Physical contact information</li>
 								<li>Online contact information</li>
 								<li>Purchase information</li>
@@ -286,17 +452,17 @@
 						<ul class="defaulttext">
 								<li>Completion and support of the current activity.</li>
 						</ul>
-						<p class="defaulttext">This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-						</p><ul class="defaulttext">
+						<p class="defaulttext">This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:</p>
+						<ul class="defaulttext">
 								<li>Delivery services.</li>
 						</ul>
 						<p class="defaulttext">The following explanation is provided for why this data is collected:</p>
 						<blockquote>Information we collect in order to process your purchase.</blockquote>
 						<!-- "Use of Cookies" section of privacy policy -->
 						<p class="defaulttext"><b>Cookies</b></p>
-						<p class="defaulttext">Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-						</p><p class="defaulttext">Our site makes use of cookies. Cookies are used for the following purposes: 
-						</p><ul class="defaulttext">
+						<p class="defaulttext">Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.</p>
+						<p class="defaulttext">Our site makes use of cookies. Cookies are used for the following purposes:</p>
+						<ul class="defaulttext">
 								<li>Completing the user's current activity 
 								</li><li>User targeting 
 						</li></ul>
@@ -309,7 +475,7 @@ ONL PUR COM NAV INT CNT STA PRE LOC"
 						<p class="defaulttext">The following table explains the meaning of each field in the compact policy. 
 						
 								
-						</p><table width="100%" border="1" cols="2" class="defaulttext">
+						<table width="100%" border="1" cols="2" class="defaulttext">
 								<tbody><tr> 
 												<td align="center" valign="top" width="20%"><b>Field</b></td>
 												<td align="center" valign="top" width="80%"><b>Meaning</b></td>
@@ -392,7 +558,7 @@ ONL PUR COM NAV INT CNT STA PRE LOC"
 										</tr>
 								</tbody></table>
 						
-						<p class="defaulttext">The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <a class="defaultlink" href="http://www.w3.org/TR/p3pdeployment">http://www.w3.org/TR/p3pdeployment</a>. 
+						</p><p class="defaulttext">The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <a class="defaultlink" href="http://www.w3.org/TR/p3pdeployment">http://www.w3.org/TR/p3pdeployment</a>. 
 						<!-- "Policy Evaluation" section of privacy policy -->
 						</p><p class="defaulttext"><b>Policy Evaluation</b></p>
 						<p class="defaulttext">Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
@@ -402,38 +568,45 @@ ONL PUR COM NAV INT CNT STA PRE LOC"
 		</tr>
 </tbody></table>
 <!--end privacy policy -->
-      <!-- END PAGE CONTENT -->
-    <p></p>
-    </td>
-</tr>
-</tbody></table>
-	
-</td>
-</tr>
-</tbody></table>
-<!-- footer -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td height="23" width="100%" align="right" colspan="3">
-			<table border="0" cellspacing="4" cellpadding="0">
-				<tbody><tr>
-					<td><a class="smallfont" href="#top"><img src="/common/images/top.gif" width="5" height="6" border="0" class="pixel" alt="top"></a></td>
-					<td><a class="smallfont" href="#top">top</a></td>
+						<!-- Content End -->
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr>
-		<td height="1" class="horzline" colspan="3"><img src="/common/images/blank.gif" width="1" height="1" class="pixel"></td>
-	</tr>
-	<tr>
-		<td height="60" align="center"><a href="http://www.taylorandfrancisgroup.com/" target="_top" class="footerlink">Copyright&nbsp;© 2006 Taylor &amp; Francis Group, an informa business</a>&nbsp;&nbsp;&nbsp;<a href="/privacy.asp" class="footerlink" target="_top">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/terms.asp" class="footerlink" target="_top">Terms and Conditions</a></td>
-	</tr>
 </tbody></table>
-
-<!-- end footer -->
-
-
+								</td>
+							</tr>
+							<tr>
+								<td height="13"><spacer type="block" width="1" height="13"></spacer></td>
+							</tr>
+							<tr>
+								<!--<td width="3" nowrap><spacer type="block" width="3" height="1"></td>-->
+								<td width="100%" colspan="2">
+									<table border="0" cellpadding="0" cellspacing="0" align="center" width="95%">
+										<tbody><tr>
+											<td height="1" class="horzline"><img src="/images/blank.gif" width="1" height="1" class="pixel"></td>
+										</tr>
+										<tr>
+											<td height="60" align="center">
+												<a href="http://www.taylorandfrancisgroup.com/" target="_top" class="footerlink">Copyright&nbsp;© <script>writeYear();</script> Taylor &amp; Francis Group, an informa business</a>&nbsp;&nbsp;&nbsp;<a href="util/resources.asp?f=privacy" class="footerlink" target="_top">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="util/resources.asp?f=terms" class="footerlink" target="_top">Terms and Conditions</a>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td height="13"><spacer type="block" width="1" height="13"></spacer></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		
 	
+
+<!-- SERVER: 192.168.45.76 -->
+
+
 </body></html>
