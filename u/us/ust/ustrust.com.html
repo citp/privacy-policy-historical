@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ustrust.com privacy policy that was archived on 2006-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060518031829id_/http%3A//www.ustrust.com/public/ustrust/global_pages/privacy.html%3Fcmsid%3DP-453212%26lvl1%3Dglobal_pages%26refid%3DP-420932) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ustrust.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230154723id_/http%3A//www.ustrust.com/public/ustrust/global_pages/privacy.html%3Fcmsid%3DP-453212%26lvl1%3Dglobal_pages%26refid%3DP-420932) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,10 +8,42 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <link type="text/css" rel="stylesheet" href="http://www.ustrust.com/public/file?cmsid=P-378179">
-<script type="text/javascript" src="http://www.ustrust.com/system/file?cmsid=P-1030913"></script>
+<script type="text/javascript">
+			function openPopup( url, width, height, name, left, top, properties ) {
+			    if (isValidUrl(url)) 
+				window.open(url, ((name&&name!="")?name:"popup"), ((width&&width!="")?"width="+width+",":"")+((height&&height!="")?"height="+height+",":"")+((properties&&properties!="")?properties:"status=yes,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes")+((left&&left!="")?",left="+left:"")+((top&&top!="")?",top="+top:""));
+			}
+			
+			function menuLink( menu ) {
+			    var link 	= menu.options[menu.selectedIndex];
+			    var url  	= link.getAttribute("value");
+			    var target 	= link.getAttribute("target");
+			    if (link.getAttribute("popup") == "true") {
+				openPopup(url, link.getAttribute("popupwidth"), link.getAttribute("popupheight"), target);
+			    } else if (isValidUrl(url)) {
+				if (url.indexOf("javascript:") != -1) {
+				    eval(url.substr(url.indexOf(":")+1));
+				} else if (target && target != "") {
+				    if (target == "_top")
+					window.top.location.href = url;
+				    else if (target.substr(0,1) != "_")
+					window.parent.frames[target].location.href = url;
+				    else window.location.href = url;
+				} else {
+				    window.location.href = url;
+				}
+			    }	
+			    menu.selectedIndex = 0;
+			}
+			
+			function isValidUrl( url )
+			{
+			    return !(typeof(url)=="undefined" || url==null || url=="" || url.toLowerCase()=="none" || url.toLowerCase()=="null" || url=="-1");
+			}
+		</script>
 </head>
 <body>
-<table border="0" cellpadding="0" cellspacing="0" class="imgHeader"><tbody><tr><td class="logo"><a href="/public/ustrust/index.html?refid=P-416229&amp;refpid=P-439709"><img src="http://www.ustrust.com/public/file?cmsid=P-416237&amp;filename=logo.gif" border="0"></a></td>
+<table border="0" cellpadding="0" cellspacing="0" class="imgHeader"><tbody><tr><td class="logo"><a href="/public/ustrust/index.html?refid=P-416229&amp;refpid=P-448257"><img src="http://www.ustrust.com/public/file?cmsid=P-416237&amp;filename=logo.gif" border="0"></a></td>
 <td class="img1"><img src="http://www.ustrust.com/public/file?cmsid=P-416216&amp;filename=other_1.jpg" border="0"></td>
 <td class="img2"><img src="http://www.ustrust.com/public/file?cmsid=P-416221&amp;filename=other_2.jpg" border="0"><form xmlns:xf="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" name="searchForm" id="searchForm" autocomplete="off" method="post" enctype="application/x-www-form-urlencoded" action="http://www.ustrust.com/public/ustrust/global_pages/search_results.html?cmsid=P-453185&amp;lvl1=global_pages" onsubmit="return doSearch(this);">
 <input type="hidden" name="sessionid" id="sessionid" value="">
@@ -27,7 +59,7 @@ function doSearch( form ) {
 </script>
 <input type="text" name="query" id="query" value=""><input value="SEARCH" type="submit" class="buttonSubmit" name="searchBtn" id="searchBtn">
 </form></td>
-<td class="img3"><img src="http://www.ustrust.com/public/file?cmsid=P-416226&amp;filename=other_person.jpg" border="0"><a href="http://www.ustrust.com/redirect/?refid=P-422691&amp;refpid=P-439709&amp;url=http://www.ustrustonline.com?" class="buttonSubmit" target="_blank">CLIENT LOG-IN</a></td></tr></tbody></table>
+<td class="img3"><img src="http://www.ustrust.com/public/file?cmsid=P-416226&amp;filename=other_person.jpg" border="0"><a href="http://www.ustrust.com/redirect/?refid=P-422691&amp;refpid=P-439513&amp;url=http://www.ustrustonline.com?" class="buttonSubmit" target="_blank">CLIENT LOG-IN</a></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" class="navHeader"><tbody><tr><td class="logo"><img height="1" src="/images/N.gif" width="1"></td>
 <td class="mainNav"><div class="navTabGroup">
 <table cellspacing="0" cellpadding="0" border="0">
@@ -48,7 +80,7 @@ function doSearch( form ) {
 </a></b><b><a href="#online_privacy">Online Privacy and Information Security</a></b><br>
 <b><a href="#identity_theft_program">Identity Theft Prevention Program</a><a href="#identity_theft_program"><br>
 </a></b><br>
-<div class="pageTitle"><a name="security_guarantee"></a><a name="more_security_guarantee"></a>The U.S. Trust Security Guarantee </div><br>
+<div class="pageTitle">The U.S. Trust Security Guarantee </div><br>
 We want you to have the highest level of confidence when you do business with U.S. Trust. So we offer you this simple guarantee: <b>U.S. Trust will cover 100% of any losses in any of your U.S. Trust accounts due to unauthorized activity. <br>
 </b><br>
 The highest levels of security are only possible when we work together. To ensure your protection under this guarantee, it is your responsibility to: <br>
@@ -85,16 +117,16 @@ We collect personal information about you in a number of ways. <br>
 <li><b>Application and registration information.</b> We collect information from you when you open an account or register for one of our services, such as our client web site, or use one of our wealth consulting services, such as financial or estate planning. We may also collect information from consumer reporting agencies to verify your identity in the account-opening process or if you apply for any type of lending arrangement. The information we collect may include your name, address, phone number, email address, Social Security number, and date of birth, as well as details about your interests, investments, and investment experience. </li>
 <li><b>Transaction and experience information.</b> Once you have opened an account with us, we collect and maintain personal information about your account activity, including your transactions, balances, account positions, and account history. This information allows us to administer your account and provide the services you have requested. </li>
 <li><b>Third-party information providers.</b> We may collect information about you from information services and consumer reporting agencies to verify your identity, employment, or creditworthiness, or to better understand your financial needs. </li>
-<li><b>W</b><b>eb site usage.</b> When you visit our web site, our computer may use devices known as “cookies,” graphic interchange format files (GIFs), or other similar web tools to enhance your web experience. These tools enable us to recognize you when you return to our site, and to maintain your web session while you browse throughout the site, as well as help us provide you with a better, more personalized experience. Cookies do not, standing alone, identify you as an individual by name or account number; they merely recognize your browser. </li>
+<li><b>W</b><b>ebsite usage.</b> When you visit our website, our computer may use devices known as “cookies,” graphic interchange format files (GIFs), or other similar web tools to enhance your web experience. These tools enable us to recognize you when you return to our site, and to maintain your web session while you browse, as well as help us provide you with a better, more personalized experience at U.S. Trust. To learn more about our policies regarding using our website and the use of web tools, please visit www.ustrust.com/public/ustrust/global_pages/privacy.html. </li>
 </ul><span class="bodySubHeader">How We Share Information About You Within the U.S. Trust Family<br>
 of Companies</span>&nbsp;<br>
-The U.S. Trust family of companies consists of a number of banking, brokerage, investment advisory, and related companies (often referred to as "affiliates") such as, United States Trust Company, National Association and UST Securities Corp. <br>
+The U.S. Trust family of companies consists of a number of banking, brokerage, investment advisory, and related companies (often referred to as "affiliates"), such as United States Trust Company, National Association and UST Securities Corp. <br>
 <br>
 Many clients do business or have relationships with more than one U.S. Trust affiliate, creating an efficient, comprehensive wealth management relationship to meet individual client needs. We share client information among U.S. Trust affiliates to:<br>
 <ul style="list-style-type:bulleted">
 <li>Make it easy for you to interact with us, even if you are traveling and away from your local U.S. Trust office; and </li>
 <li>Help provide you with better service or perform services on your behalf. </li>
-</ul>You may instruct us not to share information about you with other U.S. Trust affiliates for certain purposes, as explained under <b><a href="#limit_sharing">How to Limit the Sharing of Information About You</a></b>. <br>
+</ul>You may instruct us not to share information about you with other U.S. Trust affiliates for certain purposes, as explained under "<a href="#limit_sharing">How to Limit the Sharing of Information About You</a>". <br>
 <br>
 <span class="bodySubHeader">How We Share Information About You Outside of the U.S. Trust Family <br>
 of Companies</span>&nbsp;<br>
@@ -103,20 +135,21 @@ U.S. Trust provides access to information about you to outside companies and oth
 <li>To help us process transactions for your account; </li>
 <li>When we use another company to provide services for us, such as printing and mailing your account statements; and </li>
 <li>When we believe that disclosure is required or permitted under law. For example, we may be required to disclose personal information to cooperate with regulatory or law enforcement authorities, to resolve consumer disputes, to perform credit/authentication checks, or for risk control. </li>
-</ul>U.S. Trust is part of The Charles Schwab family of financial services companies that are owned by our parent, The Charles Schwab Corporation. U.S. Trust does not share information about you with these companies for marketing purposes, unless you express interest in specific products or services and instruct us to do so. <br>
+</ul>U.S. Trust is part of The Charles Schwab family of financial services companies that are owned by our parent, The Charles Schwab Corporation. U.S. Trust does not share information about you with these companies for marketing purposes, unless you express interest in specific products or services, and instruct us to do so. <br>
 <br>
 <span class="bodySubHeader"><a name="limit_sharing"></a>How to Limit the Sharing of Information About You</span>&nbsp;<br>
-If you prefer, you may choose to limit the information we share about you with other U.S. Trust affiliates. Specifically, you may instruct us:<br>
-<ul style="list-style-type:bulleted">
-<li>Not to share with our affiliates consumer reports and other personal information about you that may be used to determine your eligibility for credit (for example, information about your income, profession, or employment status); </li>
+If you prefer, you may choose to limit the information we share about you with other U.S. Trust affiliates. Specifically:<ul style="list-style-type:bulleted">
+<li>You may instruct us not to share with our affiliates consumer reports and other personal information about you that may be used to determine your eligibility for credit (for example, information about your income, profession, or employment status); </li>
 <li>You may exercise this choice by contacting your client relationship officer; </li>
-<li>Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as any accounts you may have with any other U.S. Trust affiliate with whom you have a relationship. If you have an account at another company within The Charles Schwab Corporation, you will receive a separate privacy notice from them which will tell you how they share information about you and how you can limit their ability to do so; </li>
+<li>Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as any accounts you may have with any other U.S. Trust affiliate with whom you have a relationship. If you have an account at another company within The Charles Schwab Corporation, you will receive a separate privacy notice from it which will tell you how it shares information about you and how you can limit&nbsp;its ability to do so; </li>
 <li>Joint account holders may instruct us on behalf of another account holder; and </li>
 <li>You may make your privacy choice at any time and it will remain in effect until you change it. </li>
-</ul>If you choose to limit these types of information sharing, we may continue to share information that identifies you (such as your name and Social Security number), as well as information about your transactions and experiences with us. In addition, our affiliates may continue to use information they receive from us to perform services on our behalf, to respond to communications from you, as you authorize or request, or, if you are their customer, to offer you products or services. We may also continue to share information about you with outside companies as permitted or required by law.&nbsp;<br>
+</ul>If you choose to limit these types of information sharing, we may continue to share information with our affiliates that identifies you (such as your name and Social Security number), as well as information about your transactions and experiences with us. In addition, our affiliates may continue to use information they receive from us to perform services on our behalf, to respond to communications from you, as you authorize or request, or if you are their customer, to offer you products or services. We may also continue to share information about you with outside companies as permitted or required by law.&nbsp;<br>
 <br>
 <span class="bodySubHeader">State Laws</span>&nbsp;<br>
 We will comply with state laws that apply to the disclosure or use of information about you. For example, if your address is in Vermont, we will automatically limit information sharing as described in “How to Limit the Sharing of Information About You” without your having to advise us of this privacy choice. <br>
+<br>
+The following notice is required to be made under Nevada law to all clients with a Nevada mailing address. At any time, you may request to be placed on our internal "do not call" list. You may do so by calling or emailing your client relationship officer or mailing your request to the Privacy Officer, United States Trust Company, N.A., 114 West 47th Street, New York, NY 10036. Clients from any state may also request to be placed on U.S. Trust's "do not call" list by calling or emailing their client relationship officer or mailing their request to the Privacy Officer at the above address. For more information about the Nevada "do not call" notice requirement, you may also contact the Nevada Attorney General, 555 Washington Street, Suite 3900, Las Vegas, NV 89101; Phone: 702-486-3132; Email: BCPINFO@ag.state.nv.us.<br>
 <br>
 <span class="bodySubHeader">Safeguarding Your Information, Maintaining Your Trust&nbsp;</span><br>
 We take precautions to ensure the information we collect about you is protected and is accessed only by authorized individuals or organizations.<br>
@@ -131,13 +164,15 @@ We maintain physical, electronic, and procedural safeguards to protect non-publi
 Identity theft is a serious concern for all of us. Safeguarding information to help protect you from identity theft is our priority. U.S. Trust takes steps to protect you from identity theft by:<br>
 <ul style="list-style-type:disc">
 <li>Utilizing client identification and authentication procedures before initiating transactions; </li>
-<li>Creating a secure transmission connection to our U.S. Trust web sites. You will see the padlock in the lower right corner of your browser's frame indicating it is a secure site; and </li>
+<li>Creating a secure transmission connection to our U.S. Trust websites. You will see the padlock in the lower right corner of your browser's frame indicating it is a secure site; and </li>
 <li>Ensuring our employees are trained to safeguard personal information about you. </li>
 </ul>You can also help protect your identity and accounts. Here are a few steps to remember: <ul style="list-style-type:disc">
 <li>U.S. Trust will never request your account number, login password, or Social Security number in either a non-secure or unsolicited email communication; </li>
 <li>Shred documents that contain personal information; and </li>
 <li>Check your credit report regularly for unauthorized activity and protect your personal identification numbers (PINs) or personal data. </li>
-</ul><span class="bodySubHeader">Greater Accuracy Means Better Protection</span>&nbsp;<br>
+</ul>To learn more about our policies regarding using our website and the use of web tools, please visit www.ustrust.com/public/ustrust/global_pages/privacy.html.<br>
+<span class="bodySubHeader"><br>
+Greater Accuracy Means Better Protection</span>&nbsp;<br>
 We are committed to keeping accurate, up-to-date records to help ensure the integrity of the information we maintain about you. If you identify an inaccuracy in this information, or you need to make a change to it, please contact your client relationship officer. <br>
 <br>
 <span class="bodySubHeader">A Commitment to Keeping You Informed</span>&nbsp;<br>
@@ -146,8 +181,8 @@ We will provide you with advance notice of important changes to our information-
 <span class="bodySubHeader">Contact Us With Questions</span><br>
 If you have any questions or concerns, please contact your client relationship officer.<br>
 <br>
-<br>
-<a name="return_to_top"></a><a name="online_privacy"></a><div class="pageTitle">Online Privacy and Information Security<br>
+<span class="normalText"><span class="finePrint"><span class="smallText">© 2006 United States Trust Company, National Association. All rights reserved.<br>
+506EG/063&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; REG11000UST-06(06/06)</span></span></span><div class="pageTitle">Online Privacy and Information Security<br>
 </div><br>
 If you have a security-related concern, please call us at <b>1-800-USTRUST</b>. We will work closely with you to ensure a rapid response to your concerns. <br>
 <br>
@@ -172,8 +207,7 @@ You play an important role in safeguarding your personal information and protect
 <li><b><a href="#security_guarantee">The U.S. Trust Security Guarantee </a><a href="#security_guarantee"><br>
 </a></b>Information on our security efforts can be found above.&nbsp; <b><a href="#security_guarantee">more</a>&nbsp;</b> </li>
 </ol><div class="pageTitle"><a name="authentication"></a><a name="more_authentication"></a>Authentication <br>
-</div><br>
-Authentication is the process that our clients go through to access secure areas of our Web site. This process takes place when you log into your account. The two key components of log-in are your Login ID and Password. <br>
+</div>Authentication is the process that our clients go through to access secure areas of our Web site. This process takes place when you log into your account. The two key components of log-in are your Login ID and Password. <br>
 <br>
 Login ID:&nbsp; Upon receipt of a request from you and appropriate validation, U.S. Trust will designate a Login ID for you. We do not use any combination of SSN or birth date as part of your Login ID. <br>
 <br>
@@ -400,14 +434,14 @@ Postal Inspection Service --<br>
 <br>
 3. This applies to third parties (who are not U.S. Trust employees or U.S. Trust companies), including the employees or agents of any business or any investment advisor to whom you have granted authority of any type over your account. This includes authority to manage your account, and any other power of attorney you may have granted. This applies to activity by your employer and their employees, representative or agent which have authority to access your Employee Benefit Plan Account. U.S. Trust will also not be liable for the failure of those third parties to safeguard your information or access to your account.<br>
 <br>
+<i>Copyright © United States Trust Company, National Association. All Rights Reserved</i>.<br>
+<br>
 </span><!-- SEARCH END --><br>
 <br>
 <span class="finePrint"></span></div></td>
 <td class="rightCol" width="192"></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" class="mainLayout"><tbody><tr><td class="leftCol"><img height="1" src="/images/N.gif" width="1"></td>
-<td align="center" class="centerCol"><div class="footerLinks"><a href="http://www.ustrust.com:80/redirect/?refid=P-420932&amp;url=http://www.excelsiorfunds.com?">Excelsior</a>&nbsp;
- | <a href="http://www.ustrust.com/public/ustrust/global_pages/careers/careers.html?cmsid=P-515172&amp;lvl1=global_pages&amp;lvl2=careers&amp;refid=P-420932">Careers</a>&nbsp;
- | <a href="http://www.ustrust.com/public/ustrust/global_pages/site_map_index.html?cmsid=P-453198&amp;lvl1=global_pages&amp;refid=P-420932">Site Map</a>&nbsp;
+<td align="center" class="centerCol"><div class="footerLinks"><a href="http://www.ustrust.com/public/ustrust/global_pages/site_map_index.html?cmsid=P-453198&amp;lvl1=global_pages&amp;refid=P-420932">Site Map</a>&nbsp;
  | <a href="http://www.ustrust.com/public/ustrust/global_pages/glossary_a.html?cmsid=P-453227&amp;lvl1=global_pages&amp;refid=P-420932">Glossary</a>&nbsp;
  | <a href="http://www.ustrust.com/public/ustrust/global_pages/downloads.html?cmsid=P-453643&amp;lvl1=global_pages&amp;refid=P-420932">Downloads</a>&nbsp;
  | <a href="http://www.ustrust.com/public/ustrust/global_pages/privacy.html?cmsid=P-453212&amp;lvl1=global_pages&amp;refid=P-420932">Security Guarantee &amp; Privacy</a>&nbsp;
