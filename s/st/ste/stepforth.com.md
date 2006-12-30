@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625034456id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230223820id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Search Engine Placement and Optimization Services :: StepForth Placement Inc.
 
