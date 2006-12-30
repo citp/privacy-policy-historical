@@ -1,19 +1,12 @@
-> *The following text is extracted and transformed from the directmatches.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405000956id_/http%3A//www.directmatches.com/privacypolicy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directmatches.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230075044id_/http%3A//directmatches.com/Privacypolicy1.asp) for the most accurate reproduction.*
 
-# Directmatches
+# DirectMATCHES :: Site
 
   
-[](http://www.truste.org/ivalidate.php?url=www.directmatches.com&sealid=101)
-
 **Directmatches.com Privacy Policy**  
-Effective on: (06/22/04)
+Effective on: (11/04/05)
 
 Welcome to Directmatches.com. Your privacy is important to us. To understand our privacy policy, please read this notice explaining our online information practices. This Privacy Policy describes how Directmatches.com treats information received about you when you become a member or when you otherwise provide information to us. 
-
-**A Licensee of TRUSTe**  
-Directmatches.com is an approved licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit privacy organization whose mission is to build users' trust and confidence on the Internet. Truste’s mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
-
-In our commitment to our users’ privacy, we have agreed to disclose our information practices with respect to Directmatches.com’s Site and have them reviewed for compliance by TRUSTe. If you have questions regarding this privacy statement, you should first contact us [by using this form](https://web.archive.org/web/20050405000956id_/http%3A//www.directmatches.com/customer.asp). If you do not receive an acknowledgement, or the acknowledgement does not satisfactorily address your issue, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe has agreed to serve as a liaison with us to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
 **Registration on Directmatches.com**  
 When you register, we ask you to provide your name, postal address, and e-mail address. This is necessary in order collect online payments for billing purposes, also to be able to send you rebate checks for rebates earned through our eRewards program, or distributor commission checks, provide customer service and, to improve our service making it more convenient for you. 
@@ -37,14 +30,14 @@ Directmatches.com will disclose our Member Information in cases where, in its di
 In the event Directmatches.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or we may post a notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
 
 **Our Security Precautions**  
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. The personally identifiable information we collect about you is stored on limited-access servers. Our host operates secure data networks protected by industry standard firewall and password protection systems to guard the integrity and privacy of your personally identifiable information. 
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. The personally identifiable information we collect about you is stored on limited-access servers. Our [host](http://www.interland.com/) operates secure data networks protected by industry standard firewall and password protection systems to guard the integrity and privacy of your personally identifiable information. 
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 **Contact with Directmatches.com**  
-At no time will Directmatches.com ask for your username, password or personal information in an unsolicited phone call, e-mail or letter. Contact us [by using this form](https://web.archive.org/web/20050405000956id_/http%3A//www.directmatches.com/customer.asp) if you receive such unsolicited communication. 
+At no time will Directmatches.com ask for your username, password or personal information in an unsolicited phone call, e-mail or letter. Contact us [by using this form](https://web.archive.org/web/20061230075044id_/http%3A//directmatches.com/customer.asp) if you receive such unsolicited communication. 
 
 **Children**  
 You must be eighteen or over to register as a member of Directmatches.com or use the Website. Membership in the Service is void where prohibited. In using our services, you represent that you are at least 18 years of age. 
@@ -65,12 +58,12 @@ It is your responsibility to maintain accurate contact information, modify perso
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us [by using this form](https://web.archive.org/web/20050405000956id_/http%3A//www.directmatches.com/customer.asp). When you login to our site we offer you an opportunity at any time to opt-out of certain communications on your edit account page. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us [by using this form](https://web.archive.org/web/20061230075044id_/http%3A//directmatches.com/customer.asp). When you login to our site we offer you an opportunity at any time to opt-out of certain communications on your edit account page. 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
 **Delete or Deactivate account**  
-If you have reason to believe that your account is no longer secure, you may delete your profile [by contacting us on this form](https://web.archive.org/web/20050405000956id_/http%3A//www.directmatches.com/customer.asp). You can set up an entire new account with a new username and password. 
+If you have reason to believe that your account is no longer secure, you may delete your profile [by contacting us on this form](https://web.archive.org/web/20061230075044id_/http%3A//directmatches.com/customer.asp). You can set up an entire new account with a new username and password. 
 
 **Policy Modifications**   
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing notice on this page. Please note we reserve the right and may change this Privacy Policy at any time. Please check this page periodically. 
@@ -79,10 +72,12 @@ If at any point we decide to use particular personally identifiable information 
 By using our web site and services, you signify your consent to Directmatches.com's Privacy Policy. Your continued use of Directmatches.com Web sites or services following the posting of changes to these terms will mean you accept those changes. Please review this page regularly when you visit the site. 
 
 **How to Contact Us**  
-If you have any questions or concerns about the Directmatches.com policy for this site or its implementation you may contact us [by using this form](https://web.archive.org/web/20050405000956id_/http%3A//www.directmatches.com/customer.asp). 
+If you have any questions or concerns about the Directmatches.com policy for this site or its implementation you may contact us [by using this form](https://web.archive.org/web/20061230075044id_/http%3A//directmatches.com/customer.asp). 
 
 Or mail to:   
 DirectMatches Corp   
 Attn: Customer Care  
 1654 Plaza America Drive # 335  
 Reston, VA 20190-4700 
+
+Or call: 1-800-287-2162 
