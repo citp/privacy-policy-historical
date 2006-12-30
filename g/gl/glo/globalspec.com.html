@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2006-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060630053342id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231004734id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
 		
 		<script language="javascript" type="text/javascript">
 		
@@ -113,19 +113,24 @@ function DoSearchBoxSubmit() {
 	var show;
 	var radioButtons = document.FindIn.show;	
 
-	if (searchterm == "") {
-		alert("Please enter a search term");
-	} else {
-		
-	
-
 	for(i=0; i < radioButtons.length; i++) {
 		if(radioButtons[i].checked) {
 			show = radioButtons[i].value;
 		}		
 	}
-
-	changeSearchLocation(show, searchterm);
+	
+		
+	if (searchterm == "" && show != "engnews") {
+		alert("Please enter a search term");
+	} else {
+		
+		
+		// Encode any +'s and %'s since ColdFusion will ignore any of them when the URL params
+		// are read.
+		searchterm = searchterm.replace(/\+/g, "%2B");
+		
+		var fromSearchBox = true;	
+		changeSearchLocation(show, searchterm, fromSearchBox);
 	}		
 }
 
@@ -222,6 +227,9 @@ function changeSearchInfo(searchType, isDefault, div) {
 		case "thissite": //added for 'this site' searched - RH 3/20/2006
 			searchInfo = "Search  for engineering pages";
 			break;
+		case "engnews":
+			searchInfo = "Search Engineering news stories from hundreds of sources";
+			break;
 	}
 	
 	searchInfoDiv.innerHTML = searchInfo;
@@ -248,11 +256,18 @@ function resetSearchInfo(div) {
 
 
 
-function changeSearchLocation(searchType, searchQuery) {
+function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
+
 	
 		var engWebURL = "http://search.globalspec.com/Search?query=";
 		var productFinderURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=";
 		var productAnnouncementsURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=";
+
+		if (fromSearchBox) {
+			var engnewsUrl = "http://www.globalspec.com/engnews/search?q=";
+		} else {
+			var engnewsUrl = "http://www.globalspec.com/engnews/?q=";
+		}
 	
 		var gotoURL;
 		
@@ -277,6 +292,9 @@ function changeSearchLocation(searchType, searchQuery) {
 			case "prodannounce":
 				gotoURL = productAnnouncementsURL + escape(searchQuery);
 				break;
+			case "engnews":
+				gotoURL = engnewsUrl + escape(searchQuery);
+				break;
 			default:
 				gotoURL = engWebURL + escape (searchQuery) + "&show=total";
 				break;
@@ -288,7 +306,6 @@ function changeSearchLocation(searchType, searchQuery) {
 
 //-->
 </script>
-
 
 
 
@@ -310,7 +327,7 @@ function changeSearchLocation(searchType, searchQuery) {
 			</span>
 			<span id="qsLinkBox" style="text-align:left;vertical-align:middle;">
 				<a href="#" onclick="showHide('moreOptions', true); return false;" style="font-size:10px;">Advanced Search &gt;&gt;</a>	
-			</span>						
+			</span>
 		</div>		
 	<div style="position:relative;width:560px;z-index:99;">
 													
@@ -320,7 +337,7 @@ function changeSearchLocation(searchType, searchQuery) {
 					<tbody><tr>
 						<td>
 							<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr onmouseover="changeSearchInfo('total', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="totalRadio" type="radio" name="show" value="total" onclick="changeSearchInfo('total', true, this.parentNode);" checked=""></td><td><label for="totalRadio" style="width:100%;padding-right:30px;display:block;">The Engineering Web<span class="sup">®</span></label></td></tr> <tr onmouseover="changeSearchInfo('products', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="productsRadio" type="radio" name="show" value="products" onclick="changeSearchInfo('products', true, this.parentNode);"></td><td><label for="productsRadio" style="width:100%;padding-right:30px;display:block;">Products &amp; Services</label></td></tr> <tr onmouseover="changeSearchInfo('partnumbers', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="partnumbersRadio" type="radio" name="show" value="partnumbers" onclick="changeSearchInfo('partnumbers', true, this.parentNode);"></td><td><label for="partnumbersRadio" style="width:100%;padding-right:30px;display:block;">Part Number Search</label></td></tr> <tr onmouseover="changeSearchInfo('appnotes', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="appnotesRadio" type="radio" name="show" value="appnotes" onclick="changeSearchInfo('appnotes', true, this.parentNode);"></td><td><label for="appnotesRadio" style="width:100%;padding-right:30px;display:block;">Application Notes</label></td></tr> <tr onmouseover="changeSearchInfo('materials', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="materialsRadio" type="radio" name="show" value="materials" onclick="changeSearchInfo('materials', true, this.parentNode);"></td><td><label for="materialsRadio" style="width:100%;padding-right:30px;display:block;">Material Properties</label></td></tr> <tr onmouseover="changeSearchInfo('patents', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="patentsRadio" type="radio" name="show" value="patents" onclick="changeSearchInfo('patents', true, this.parentNode);"></td><td><label for="patentsRadio" style="width:100%;padding-right:30px;display:block;">Patents</label></td></tr> <tr onmouseover="changeSearchInfo('standards', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="standardsRadio" type="radio" name="show" value="standards" onclick="changeSearchInfo('standards', true, this.parentNode);"></td><td><label for="standardsRadio" style="width:100%;padding-right:30px;display:block;">Standards</label></td></tr>
+							<tbody><tr onmouseover="changeSearchInfo('total', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="totalRadio" type="radio" name="show" value="total" onclick="changeSearchInfo('total', true, this.parentNode);" checked=""></td><td><label for="totalRadio" style="width:100%;padding-right:30px;display:block;">The Engineering Web<span class="sup">®</span></label></td></tr> <tr onmouseover="changeSearchInfo('products', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="productsRadio" type="radio" name="show" value="products" onclick="changeSearchInfo('products', true, this.parentNode);"></td><td><label for="productsRadio" style="width:100%;padding-right:30px;display:block;">Products &amp; Services</label></td></tr> <tr onmouseover="changeSearchInfo('partnumbers', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="partnumbersRadio" type="radio" name="show" value="partnumbers" onclick="changeSearchInfo('partnumbers', true, this.parentNode);"></td><td><label for="partnumbersRadio" style="width:100%;padding-right:30px;display:block;">Part Number Search</label></td></tr> <tr onmouseover="changeSearchInfo('engnews', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="engnewsRadio" type="radio" name="show" value="engnews" onclick="changeSearchInfo('engnews', true, this.parentNode);"></td><td><label for="engnewsRadio" style="width:100%;padding-right:30px;display:block;">Engineering News</label></td></tr> <tr onmouseover="changeSearchInfo('appnotes', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="appnotesRadio" type="radio" name="show" value="appnotes" onclick="changeSearchInfo('appnotes', true, this.parentNode);"></td><td><label for="appnotesRadio" style="width:100%;padding-right:30px;display:block;">Application Notes</label></td></tr> <tr onmouseover="changeSearchInfo('materials', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="materialsRadio" type="radio" name="show" value="materials" onclick="changeSearchInfo('materials', true, this.parentNode);"></td><td><label for="materialsRadio" style="width:100%;padding-right:30px;display:block;">Material Properties</label></td></tr> <tr onmouseover="changeSearchInfo('patents', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="patentsRadio" type="radio" name="show" value="patents" onclick="changeSearchInfo('patents', true, this.parentNode);"></td><td><label for="patentsRadio" style="width:100%;padding-right:30px;display:block;">Patents</label></td></tr> <tr onmouseover="changeSearchInfo('standards', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="standardsRadio" type="radio" name="show" value="standards" onclick="changeSearchInfo('standards', true, this.parentNode);"></td><td><label for="standardsRadio" style="width:100%;padding-right:30px;display:block;">Standards</label></td></tr>
 							</tbody></table>
 						</td>
 						<td align="center" valign="top">
@@ -328,7 +345,6 @@ function changeSearchLocation(searchType, searchQuery) {
 						</td>
 					</tr>
 				</tbody></table>
-										
 			</div>		
 		</div>
 	</div>
@@ -338,14 +354,21 @@ function changeSearchLocation(searchType, searchQuery) {
 	
 	
 	</form>
-
+	
 </td></tr></tbody></table> 
+						
+
 <script language="JavaScript" type="text/javascript">changeSearchInfo('total', true, null);</script> 
 	</td>
 </tr>
 </tbody></table>
 
 
+			
+			<script type="text/javascript" src="/3rdParty/forsee/triggerParams.js"></script> 
+			<script type="text/javascript" src="/3rdParty/forsee/stdLauncher.js"></script>
+			<script type="text/javascript">Poll();</script>			
+		
 <p class="headerGold">GlobalSpec Privacy Policy</p>
 
 <div class="content">
@@ -373,8 +396,7 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 <p>
 
 
-</p><p>
-</p><div align="center" class="footerText"> 
+</p><div align="center" class="footerText" style="margin-top: 12px;"> 
 
 	
 	<br>
