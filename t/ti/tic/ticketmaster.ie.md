@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.ie privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184003id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.ie privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230200415id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster.ie - Privacy
 
