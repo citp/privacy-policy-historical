@@ -1,39 +1,33 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034910id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230233315id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
-# Uniblue - Backup Made Easy
+# Uniblue - Software Made Easy
 
-Privacy Policy  
+**Privacy Policy**  
 
+
+We respect your privacy and go to great efforts to protect it and prevent unintentional abuse.
+
+Please take a moment to read the following points:
 
 For each visitor to our web page, our web server automatically recognizes no information regarding the domain or e-mail address.
 
-We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+We collect aggregate information on what pages visitors access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used for internal review and is then discarded. The information is used to improve the content of our Web page, not shared with other organizations for commercial purposes.
 
-With respect to cookies, we use cookies to record past activity at a site in order to provide better service when visitors return to our site.
+With respect to cookies, we use cookies to record past activity at a site only in order to provide better service when visitors return to our site.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)
 
-If you supply us with your postal address on-line, you will only receive the information for which you provided us your address.  
-  
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+If you supply us with your postal address on-line, you will only receive the information for which you provided us your address.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations   
-With respect to ad servers, we do not partner with or have special relationships with any ad server companies. 
+Anyone who supplies us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. We will be sure your name is removed from the list we share with other organizations. 
 
-From time to time, we may use customer information for new, un-anticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
+With respect to ad servers, we do not partner, or have special relationships with, any ad server companies.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will only use for these new purposes data collected after the date of the policy change.
 
 Upon request we provide site visitors with access to all information, including proprietary information, that we maintain about them.
-
-Consumers can access this information by e-mailing us at [contact@uniblue.net](mailto:%20contact@liutilities.com)
-
-Consumers can have this information corrected by sending us e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)
-
-With respect to security, we always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the previously mentioned addresses or phone number.  
-
 
   
 
