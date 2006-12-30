@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041139id_/http%3A//trugreen.com/tg/Privacy.dsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230132316id_/http%3A//trugreen.com/tg/Privacy.dsp) for the most accurate reproduction.*
 
 # Privacy Policy - TruGreen Lawn Care & Landscaping - TruGreen ChemLawn
 
