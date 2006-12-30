@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanairhotels.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614112730id_/http%3A//www.ryanairhotels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanairhotels.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230082608id_/http%3A//www.ryanairhotels.com/privacy.html) for the most accurate reproduction.*
 
 # Ryanairhotels.com privacy: discount hotels at guaranteed lowest prices.
 
@@ -78,7 +78,7 @@ Privacy
   
 ---  
   
-The ryanairhotels.com website (the “website”) is operated by needahotel.com unlimited ("we", "us", "our"). We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices relating to this website. In order to fully understand your rights, we encourage you to read this Privacy Policy and to consult our [Terms and Conditions](https://web.archive.org/web/20060614112730id_/http%3A//www.ryanairhotels.com/terms.html) of Use. Each time you use this website you will be bound by the then current privacy policy and you should review these each time you use the website to satisfy yourself that you are happy with it. 
+The ryanairhotels.com website (the “website”) is operated by needahotel.com unlimited ("we", "us", "our"). We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices relating to this website. In order to fully understand your rights, we encourage you to read this Privacy Policy and to consult our [Terms and Conditions](https://web.archive.org/web/20061230082608id_/http%3A//www.ryanairhotels.com/terms.html) of Use. Each time you use this website you will be bound by the then current privacy policy and you should review these each time you use the website to satisfy yourself that you are happy with it. 
 
 **  
 1\. ACCEPTANCE OF PRIVACY POLICY**  
