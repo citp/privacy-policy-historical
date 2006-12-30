@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312032752id_/http%3A//verticalresponse.com/about/privacy_tos.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230223506id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
-# VerticalResponse
-
-## About Us - Terms and conditions for services 
+# Privacy Statement | VerticalResponse
 
 This privacy statement discloses the privacy practices for [www.verticalresponse.com](http://www.verticalresponse.com/).
 
@@ -24,7 +22,7 @@ If you have questions or concerns regarding this statement, please contact Janin
 VerticalResponse is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VerticalResponse collects information from our users at several different points on our website.
 
 **Information You Upload into VerticalResponse**  
-VerticalResponse offers self-service direct marketing solutions for small and mid-size businesses. All client data uploaded into our system is stored in a personalized and secure location. VertcalResponse will not sell or rent any client data loaded into our system and only the registered account holder can gain access to the uploaded lists. 
+VerticalResponse offers self-service direct marketing solutions for small and mid-size businesses. All client data uploaded into our system is stored in a personalized and secure location. VerticalResponse will not sell or rent any client data loaded into our system and only the registered account holder can gain access to the uploaded lists. 
 
 **Registration**  
 No registration is required to view the VerticalResponse website. 
@@ -38,7 +36,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 **Sharing**  
 We will share aggregated demographic information with 3rd parties in the case they would like to know aggregate demographics of our audience. This is not linked to any personal information that can identify any individual person. We do not share personally identifiable information with 3rd parties.
 
-**Links**  
+**[Links](https://web.archive.org/glossary#term41)**  
 This web site contains links to other sites. Please be aware that we VerticalResponse are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by verticalresponse.com.
 
 **Security**  
@@ -59,10 +57,10 @@ We send all new members a verification email to verify password and username. Es
 You will receive administrative emails that are related to the primary usage of our service. You may not opt-out of administrative emails. These administrative emails will not have any marketing, promotional or advertising material(s) in them.
 
 **Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 501 2nd St, Ste 216, San Francisco, CA 94107. If you would like your account deactivated please state this in your communications and we will do this.
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 501 2nd St, Ste 700, San Francisco, CA 94107. If you would like your account deactivated please state this in your communications and we will do this.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will prominently post those changes on our Homepage (located at [http://www.verticalresponse.com](http://www.verticalresponse.com/)) so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 **Legal Disclaimer**  
-Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
