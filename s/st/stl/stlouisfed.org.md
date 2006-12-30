@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420121328id_/http%3A//www.stlouisfed.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230215638id_/http%3A//www.stlouisfed.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, St. Louis Fed
 
 ### Privacy Policy
 
-[Legal Information](https://web.archive.org/web/20060420121328id_/http%3A//www.stlouisfed.org/legal/default.html)
+[Legal Information](https://web.archive.org/web/20061230215638id_/http%3A//www.stlouisfed.org/legal/default.html)
 
 * * *
 
