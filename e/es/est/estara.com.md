@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617234758id_/http%3A//estara.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230042921id_/http%3A//estara.com/company/privacy.php) for the most accurate reproduction.*
 
 # eStara: Privacy Statement
 
@@ -50,7 +50,7 @@ eStara may offer Click to Call users and website visitors the choice to particip
 As is standard practice for most websites, eStara analyzes its website logs to improve the value of its Site and web voice service. These files automatically log such information as this includes IP addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks. Our website logs do not contain, nor are they tied to, any personally identifiable information about any of our Site visitors. 
 
 **Cookies**   
-eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Click to Call, solely for the purpose of connecting the Click to Call ctransactions.  We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
+eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Click to Call, solely for the purpose of connecting the Click to Call transactions.  We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 **Web Beacons**   
 eStara may also use electronic images (known as Web Beacons or "single-pixel GIF") in accordance with TRUSTe "best practices" guidelines for Web Beacon use. Web Beacons are used by a wide variety of online companies to aggregate data about site traffic, generate unique visitors counts, and to understand how website visitors use various online services. eStara uses Web Beacons in the following ways: 
