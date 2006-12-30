@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224354id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231001409id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
 
-# Privacy Statement at LiewCF.com - Tech News, Free Stuff, Make Money Online, Tips, Gadgets, Reviews, etc
+# Privacy Statement
 
 Your Privacy is a priority for us at LiewCF.com. We will never give or sell your personal information to anyone.
 
