@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonts.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623141837id_/http%3A//www.fonts.com/Legal/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230145834id_/http%3A//www.fonts.com/Legal/Privacy.htm) for the most accurate reproduction.*
 
 # Your Privacy - Fonts.com
 
