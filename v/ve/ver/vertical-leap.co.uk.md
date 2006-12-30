@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620002742id_/http%3A//www.vertical-leap.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230171414id_/http%3A//www.vertical-leap.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Vertical Leap's Privacy Policy
-
-**Last Modified: September 2005.**
 
 **Vertical Leap’s Privacy Policy falls into two sections. 1) Privacy Statement for Customers Using Vertical Leap’s search engine marketing service 2) Privacy Statement for Visitors to Sites Tracked by Vertical Leap**
 
