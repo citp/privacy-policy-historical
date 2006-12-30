@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileratings.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231945id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileratings.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230234134id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
 
 # Download Accelerator Plus - About Us
 
