@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfchex.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619013727id_/http%3A//surfchex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfchex.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230140835id_/http%3A//surfchex.com/privacy.html) for the most accurate reproduction.*
 
 # SURFCHEX :: Putting Waves on the Web
 
