@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmetgiftbaskets.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618215113id_/http%3A//www.gourmetgiftbaskets.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmetgiftbaskets.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230140520id_/http%3A//www.gourmetgiftbaskets.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-  * By E-Mail: GiftBaskets@Gourmetgiftbaskets.com 
+  * By E-Mail: Sales@Gourmetgiftbaskets.com 
   * By Phone: 603-606-5269
   * Toll Free: 1-866-842-1050
 
