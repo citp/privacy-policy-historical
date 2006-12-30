@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614165148id_/http%3A//www.swing4ireland.com/privacy-policy.html%3Fire_id%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230080551id_/http%3A//www.swing4ireland.com/privacy-policy.html%3Fire_id%3D) for the most accurate reproduction.*
 
 # Privacy Policy - Free irish swinging site, meet swingers today!
 
@@ -22,16 +22,16 @@
   
 ---  
 **couples:**  
-[nick6969696969 & lisa6969696969](http://nick6969696969.swing4ireland.com/), [domi & jo](http://swingfrenchie.swing4ireland.com/), [Cab & L](http://midnight267.swing4ireland.com/), [derek & jane](http://tarzanandjane.swing4ireland.com/), [giveitago1 & giveitago2](http://wanttotryit.swing4ireland.com/), [pete & lisa](http://bushey.swing4ireland.com/), [hotlips & bigboy](http://hotlips.swing4ireland.com/), [P & Y](http://motorfix.swing4ireland.com/), [M & B](http://mhenness.swing4ireland.com/), [nomad & nomadic](http://nomad.swing4ireland.com/), [con & kitten](http://con.swing4ireland.com/), [dodger & foxy](http://dogerdee.swing4ireland.com/), [dawgg & kitten](http://30scouple.swing4ireland.com/), [MrKink & MrsKink](http://kinks.swing4ireland.com/), [Sue & Bobby](http://newboy.swing4ireland.com/)  
+[nicouple4fun & Davy](http://nicouple4fun.swing4ireland.com/), [john & sarah](http://newdubslut.swing4ireland.com/), [Mac & K](http://kildare25.swing4ireland.com/), [GER & Ang](http://gerard.swing4ireland.com/), [phil & sue](http://philsue.swing4ireland.com/), [martin & terri](http://newry.swing4ireland.com/), [neil & rose](http://geton.swing4ireland.com/), [mike & kel](http://seb.swing4ireland.com/), [Corkguy & Corkgal](http://cork_guy.swing4ireland.com/), [Jack & Jill](http://squeekywan.swing4ireland.com/), [ginlai & ginlai](http://ginlai.swing4ireland.com/), [graham & anne](http://grahamograham.swing4ireland.com/), [Stefano & Emma](http://italiancouple.swing4ireland.com/), [angel & jack](http://lovinit.swing4ireland.com/), [chez & suz](http://swing_me.swing4ireland.com/)  
  **women:**  
-[liz](http://liz.swing4ireland.com/), [candycane](http://candycane.swing4ireland.com/), [Licky](http://paper4cam.swing4ireland.com/), [wafeekoo](http://wafeekoo.swing4ireland.com/), [Wilma](http://wilma.swing4ireland.com/), [jackie5](http://jackie5.swing4ireland.com/), [wetstudent](http://wetstudent.swing4ireland.com/), [hills](http://hills.swing4ireland.com/), [rubi001](http://rubi001.swing4ireland.com/), [tessie](http://tess101.swing4ireland.com/), [vixen](http://vixenbabe.swing4ireland.com/), [misssexy](http://nickymcv2.swing4ireland.com/), [nicky](http://sxcass.swing4ireland.com/), [redhotredhead](http://redhotredhead.swing4ireland.com/), [Linda](http://lindaloverdublin.swing4ireland.com/)  
+[angie](http://angieluvsboots.swing4ireland.com/), [bubbles](http://fairy.swing4ireland.com/), [irishpussy_ie](http://babyboo.swing4ireland.com/), [San](http://santra.swing4ireland.com/), [SEXY](http://oneniteinme69.swing4ireland.com/), [Mars](http://mars.swing4ireland.com/), [twinkle33](http://twinkle33.swing4ireland.com/), [sexy](http://sexyjacq.swing4ireland.com/), [Sara](http://american4irish.swing4ireland.com/), [veronica](http://babydoc.swing4ireland.com/), [emma](http://emma.swing4ireland.com/), [mila](http://milababy.swing4ireland.com/), [lp](http://lpohms.swing4ireland.com/), [paula](http://paula123.swing4ireland.com/), [Newbie](http://pussyinboots.swing4ireland.com/)  
  **men:**  
-[dev](http://dvous.swing4ireland.com/), [kenny](http://kinglara.swing4ireland.com/), [nick](http://nickisabout.swing4ireland.com/), [tiger](http://melas.swing4ireland.com/), [mika](http://mika1.swing4ireland.com/), [cliff](http://bicliff.swing4ireland.com/), [fill](http://coster.swing4ireland.com/), [michash](http://michash.swing4ireland.com/), [tom](http://cyberthug745.swing4ireland.com/), [dariush](http://dariush.swing4ireland.com/), [myown29](http://myown29.swing4ireland.com/), [ingold](http://ingold.swing4ireland.com/), [repo](http://repo.swing4ireland.com/), [targettarget](http://targettarget.swing4ireland.com/), [mark](http://anto25.swing4ireland.com/)  
+[alan](http://biker1.swing4ireland.com/), [for2007](http://for2007.swing4ireland.com/), [d8](http://dublin8.swing4ireland.com/), [Kissan](http://kissan03.swing4ireland.com/), [Bas](http://basam.swing4ireland.com/), [gagging](http://gagging.swing4ireland.com/), [karl](http://karlhungus88.swing4ireland.com/), [dirty_ol_dub](http://dirty_ol_dub.swing4ireland.com/), [johnbedazzle](http://johnbedazzle.swing4ireland.com/), [Ray](http://pacman100.swing4ireland.com/), [bartkiwi](http://bartkiwi.swing4ireland.com/), [Darius](http://cdv28.swing4ireland.com/), [ben](http://bengal75.swing4ireland.com/), [KAVO](http://kavoman.swing4ireland.com/), [jh261974](http://mufc1974.swing4ireland.com/)  
   
   
-    **Total Members:** 5,520  
-     **New Today:** 106  
-     **Online Now:** 27   | 
+    **Total Members:** 9,461  
+     **New Today:** 130  
+     **Online Now:** 24   | 
 
 **What personally identifiable information do I provide to swing4ireland.com?**
 
