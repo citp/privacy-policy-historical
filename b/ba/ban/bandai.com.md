@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613090937id_/http%3A//www.bandai.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230223940id_/http%3A//www.bandai.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Bandai.com - Privacy Policy
-
-Privacy Policy  
-  
-
 
 We here at Bandai America Incorporated (BAI) make the safety and privacy of children a top concern. This notice is being supplied in compliance with the [Children's Online Privacy Protection Act](http://www.coppa.org/) (COPPA). Bandai attempts to adhere/or intends to comply with CARU's Self-Regulatory Guidelines for Children's Advertising.
 
@@ -25,13 +21,14 @@ The BAI website may make use of cookies (small pieces of information placed on y
 **What do you do with the information collected?**  
 The information we collect may, at times, be used for the following:
 
-| -  | Notification of contest winners and qualifiers  
----|---|---  
--  | Promotional, marketing, and informative mailings related to Bandai products  
--  | Order or request fulfillment  
--  | Internal Bandai marketing and demographic research  
--  | BAI website tracking  
-  
+  * Notification of contest winners and qualifiers
+  * Promotional, marketing, and informative mailings related to Bandai products
+  * Order or request fulfillment
+  * Internal Bandai marketing and demographic research
+  * BAI website tracking
+
+
+
 All information collected will be used solely by Bandai and not given, sold, or otherwise transferred to third parties in a personally identifiable form.
 
 **How can I contact you?**  
@@ -39,6 +36,13 @@ At any time, a parent may request to view the personal information collected by 
 
 If you have any questions or comments on this policy, please feel free to email [webmaster@bandai.com](http://www.bandai.com/contact/contact.html) or contact to us at:
 
+> Bandai America Incorporated  
+>  5551 Katella Avenue  
+>  Cypress, CA 90630  
+>  714.816.9560  
+>  [customerservice@bandai.com](http://www.bandai.com/contact/contact.html)  
+> 
+
 In order to be in compliance with the legal requirements or to provide better customer service, BAI reserves the right to modify this policy. Any changes to the policy will be posted on our site. Thank you for taking the time to read this policy.
 
-Effective date: 06/24/04
+_Effective date: 06/24/2004_
