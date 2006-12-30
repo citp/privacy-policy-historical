@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132257id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230022931id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
 
 # Afternic Privacy Statement
 
 **Updated May 20, 2003**
 
-[Receive email when this page changes](http://www.changenotes.com/addapage.php)
-
 Your privacy is very important to Afternic. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to http://www.Afternic.com (hereafter, the Site).
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC Membership Agreement](https://web.archive.org/web/20051212132257id_/http%3A//www.afternic.com/agreement.php).
+As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC Membership Agreement](https://web.archive.org/web/20061230022931id_/http%3A//www.afternic.com/agreement.php).
 
 AFTERNIC reserves the right to change its privacy policy from time to time.
 
 **1\. Information we collect.**  
 If you are merely visiting our site, we collect and store only the following information about you: 
 
-* The IP address of the terminal from which you access the Internet 
-* The IP address of the website from which you linked directly to our site 
-* The date and time you access our site 
-* The browser you used to access the site 
-* The operating system you used to access the site 
+  * The IP address of the terminal from which you access the Internet 
+  * The IP address of the website from which you linked directly to our site 
+  * The date and time you access our site 
+  * The browser you used to access the site 
+  * The operating system you used to access the site 
+
+
 
 We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
 
@@ -47,15 +47,17 @@ Unfortunately, due to the existing regulatory environment, we cannot ensure that
 **3\. Special note about children.**  
 Children are not eligible to use our services. We ask that minors do not submit any personal information to us.
 
-If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child�s postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
+If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child's postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
 
-**4\. Your use of other users� information.**  
-In order to facilitate community, our service allows you to access other users� personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject�s name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
+**4\. Your use of other users' information.**  
+In order to facilitate community, our service allows you to access other users' personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject's name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
 
-By entering into our User Agreement, you agree that, with respect to other user�s personally identifiable information, you obtain through the Site or through an AFTERNIC -related communication or AFTERNIC -facilitated transaction, AFTERNIC hereby grants you license to use such information only for:
+By entering into our User Agreement, you agree that, with respect to other user's personally identifiable information, you obtain through the Site or through an AFTERNIC -related communication or AFTERNIC -facilitated transaction, AFTERNIC hereby grants you license to use such information only for:
 
-* AFTERNIC -related communications that are not unsolicited commercial messages, and 
-* Any use that such user expressly opts into after adequate disclosure of the purpose(s). 
+  * AFTERNIC -related communications that are not unsolicited commercial messages, and 
+  * Any use that such user expressly opts into after adequate disclosure of the purpose(s). 
+
+
 
 Additionally, under no circumstances, except those defined in this section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different information access rights.
 
@@ -77,7 +79,7 @@ Additionally, you can use your AFTERNIC account to review and modify other field
 At your discretion, you may review and change all fields in your personal domain name profile records at any time except username and legal name.
 
 **8\. Information security.**  
-AFTERNIC uses industry standard efforts such as firewalls and SSL-encryption to safeguard the confidentiality of your personally identifiable information. However, �perfect security� does not exist on the Internet.
+AFTERNIC uses industry standard efforts such as firewalls and SSL-encryption to safeguard the confidentiality of your personally identifiable information. However, 'perfect security' does not exist on the Internet.
 
 **9\. Privacy protection.**  
 The data required by AFTERNIC to activate your membership is used solely for the account you maintain with us. All real data you provide to AFTERNIC is kept strictly confidential and will not be sold or released. Your Username on AFTERNIC can be any name of your own choosing, and identifies you as Standard Member or Exchange Member. Prospective counterparties will be able to view your Member Profile, post comments about you, and view the auctions you are involved in, but in no way will have access to your true identity or your email address. 
