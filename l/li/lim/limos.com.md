@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502073352id_/http%3A//www.limos.com/info_PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230044640id_/http%3A//www.limos.com/content/privacy.aspx) for the most accurate reproduction.*
 
-# Find Limousine Service. Get Limo Prices from Limosine Rental Companies Weddings Proms Airport and more
+# Limos.com Privacy Policy
 
-Viperion Corporation ("VC") has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website (http://www.limos.com) and the related websites: http://www.limo-search.com and http://www.limousinesonline.com (such three sites being collectively referred to herein as the "Sites"). Please note that the Sites contain links to other websites. VC is not responsible for the privacy practices or the content of such other websites 
+Viperion Corporation ("VC") has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website (http://www.limos.com) and the related websites: http://www.limo-search.com and http://www.limousinesonline.com (such three sites being collectively referred to herein as the "Sites"). Please note that the Sites contain links to other websites. VC is not responsible for the privacy practices or the content of such other websites. 
 
 **Collection and Distribution of Information  
 **In order to become a member of the Sites, a limousine company is required to complete a membership application, which includes information such as name, address, type of service offered, service area and credit card. This information is used initially to determine if a company qualifies for membership. 
@@ -31,7 +31,7 @@ All information obtained and submitted herein is only used in accordance with th
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of the Sites, or your dealings with any of the Sites, you can contact 
 
-**Viperion Corporation**  
+**Viperion Corporation**   
 c/o LIMOS.com  
 PO BOX 93124   
 Phoenix AZ 85070  
