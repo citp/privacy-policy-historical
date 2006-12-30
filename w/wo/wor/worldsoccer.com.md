@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619133013id_/http%3A//worldsoccer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230123522id_/http%3A//worldsoccer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - World Soccer - The leading authority on international football
 
@@ -27,5 +27,5 @@ All rights reserved.
 
 ### Advertisements
 
-### Poll: Who will win the World Cup  
+### Poll: Which is more important?  
 
