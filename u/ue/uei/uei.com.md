@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uei.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192434id_/http%3A//www.uei.com/html.php%3Fpage_id%3D175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uei.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230083736id_/http%3A//www.uei.com/html.php%3Fpage_id%3D175) for the most accurate reproduction.*
 
 # Universal Electronics | About Us - Privacy Policy
 
-Your privacy is important to Universal Electronics Inc. (“UEI”) and its subsidiaries. UEI provides this Privacy Statement to inform you of our privacy policies and practices, including the types of information we may collect, why we collect it, how we use that information, and how you can exercise your choices as to how your information is used. This Privacy Statement is accessible from the bottom of each page of each UEI site to which it applies, and at every point where personal information is requested. 
+Your privacy is important to Universal Electronics Inc. (?UEI?) and its subsidiaries. UEI provides this Privacy Statement to inform you of our privacy policies and practices, including the types of information we may collect, why we collect it, how we use that information, and how you can exercise your choices as to how your information is used. This Privacy Statement is accessible from the bottom of each page of each UEI site to which it applies, and at every point where personal information is requested. 
 
 **1\. Global Privacy Policy**
 
