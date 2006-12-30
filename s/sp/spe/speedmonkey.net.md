@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2006-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060113161912id_/http%3A//speedmonkey.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230050014id_/http%3A//www.speedmonkey.net/privacy.htm) for the most accurate reproduction.*
 
 # pop culture archives teen dating
 
