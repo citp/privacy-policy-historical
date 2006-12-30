@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623113856id_/http%3A//www.budgettruck.com/budgettruck/content/visitor_info/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230054450id_/http%3A//www.budgettruck.com/budgettruck/content/visitor_info/privacy_policy/default.asp) for the most accurate reproduction.*
 
 # Budget Truck Rental
 
@@ -16,6 +16,8 @@ Web Site and Internet Privacy
 Web Site Tracking and the Use of Cookies and Other Technologies 
 
 Links to Other Web Sites 
+
+Framing 
 
 How We Protect the Security of Personally Identifiable Information 
 
@@ -138,6 +140,10 @@ Third parties (including, but not limited to, software vendors, advertisers, ad 
 
 Our Site may contain links or references to other web sites outside of our control, and the privacy policies of these sites may differ from our own. Please be aware that we have no control over such web sites and our privacy policy does not apply to such web sites. We advise you to check the privacy policies of such sites before disclosing any PII via such sites. 
 
+**Framing**
+
+Occasionally when linking to another Web site from budgettruck.com, you may still see Budget Truck Rental's logo or a budgettruck.com frame. This is to provide you with a seamless experience when visiting our web site. In these cases, you are no longer on budgettruck.com but a different, third party Web site not owned or controlled by Budget Truck Rental. The information collection practices of the third party's site may differ from Budget Truck Rental's. The privacy policy of a third party site will govern how information collected from you is used by the owner of the site. You will always know what site you are on by checking the location bar in your browser. 
+
 **How We Protect the Security of Personally Identifiable Information**
 
 The security of your PII is an important concern to us. We exercise reasonable care in implementing generally accepted standards of technology security in order to protect information collected via our Site from loss, misuse and unauthorized access, disclosure, alteration or destruction, such as firewalls and Secure Socket Layer (SSL) encryption for some of your more sensitive PII. 
@@ -181,4 +187,4 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 By using our Site, or otherwise providing your PII to us, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site or provide any PII to us. 
 
-**Privacy Policy Effective Date:** July 2004. 
+**Privacy Policy Effective Date:** July 28, 2006. 
