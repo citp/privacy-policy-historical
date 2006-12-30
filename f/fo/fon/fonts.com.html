@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fonts.com privacy policy that was archived on 2006-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060623141837id_/http%3A//www.fonts.com/Legal/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fonts.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230145834id_/http%3A//www.fonts.com/Legal/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>
@@ -24,6 +24,8 @@
 <link href="/Assets/Styles/fullpage.css" type="text/css" rel="STYLESHEET">
 <link href="/Assets/Images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 <script type="text/javascript" src="/Assets/Scripts/mtiglobal.js"></script>
+<script type="text/javascript" src="/assets/scripts/SelectCurrency.js"></script>
+
 
 	</head>
 	<body bgcolor="#000000" leftmargin="5" topmargin="0" marginwidth="5" marginheight="0">
@@ -92,7 +94,7 @@ d.write('<img id="ONESTAT_TAG" align="right" border="0" width="1" height="1" src
 }
 OneStat_Pageview();
  // -->
-</script><img id="ONESTAT_TAG" align="right" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=220012&amp;url=https%3A//web.archive.org/web/20060623141837id_/http%253A//www.fonts.com/Legal/Privacy.htm&amp;ti=Your%20Privacy%20-%20Fonts.com&amp;section=&amp;custom=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;rf=&amp;tz=0&amp;ch=12&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="ONESTAT_TAG" align="right" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=220012&amp;url=https%3A//web.archive.org/web/20061230145834id_/http%253A//www.fonts.com/Legal/Privacy.htm&amp;ti=Your%20Privacy%20-%20Fonts.com&amp;section=&amp;custom=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;rf=&amp;tz=0&amp;ch=12&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
 <a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&sid=220012&js=No&" ALT="OneStat Web Analytics"></a>
 </noscript>
@@ -133,7 +135,7 @@ __CMS_PostbackForm.action = "http://www.fonts.com/Legal/Privacy.htm";
 					<td width="10"><img src="/Assets/Images/corner.gif" width="10" height="90" border="0"></td>
 					<td width="240"><a id="Header1_homeUrlLink" href="http://www.fonts.com/" target="_top"><img src="/Assets/Images/homelogo.gif" width="240" height="90" alt="Fonts.com" border="0"></a></td>
 					<td width="510" align="right" valign="middle">
-						<a href="/FindFonts/RecentReleases/2006/Adobe-Type-Coll-OT-Edition.htm"><img src="/NR/rdonlyres/4E6DFC48-5C31-4A0B-BD8C-BE20CCB3D10C/0/AdobeTypeCollBanner.gif" alt="Adobe Type Collection OpenType Edition" border="0"></a>&nbsp;&nbsp; 
+						<a href="/FindFonts/RecentReleases/2006/Adobe-Type-Coll-OT-Edition.htm"><img src="/NR/rdonlyres/4E6DFC48-5C31-4A0B-BD8C-BE20CCB3D10C/0/AdobeTypeCollBannerOrig.gif" alt="Adobe Type Collection OpenType Edition" border="0"></a>&nbsp;&nbsp; 
 
 					</td>
 				</tr>
@@ -148,8 +150,9 @@ __CMS_PostbackForm.action = "http://www.fonts.com/Legal/Privacy.htm";
 			<table cellpadding="10" cellspacing="0" border="0" width="174" id="Table4">
 				<tbody><tr>
 					<td>
-<p><a href="/_order/ShoppingCart.htm" target="_top"><img src="/assets/images/shopcart.gif" alt="View Shopping Cart" border="0" vspace="3"></a>
-<input type="image" name="Header1:ViewCart1:LoginLinkImage" onclick="if (typeof(Page_ClientValidate) == 'function') Page_ClientValidate(); " language="javascript" id="Header1_ViewCart1_LoginLinkImage" vspace="3" src="/Assets/Images/Login.gif" alt="Please Login!" border="0"></p>
+<p><a id="Header1_ViewCart1_hlBasket" href="http://www.fonts.com/_order/ShoppingBasket.htm" target="_top">
+		<img src="/assets/images/shopcart.gif" alt="Shopping cart" title="View your shopping cart" border="0" vspace="3"></a>
+	<input type="image" name="Header1:ViewCart1:LoginLinkImage" id="Header1_ViewCart1_LoginLinkImage" vspace="3" src="/Assets/Images/Login.gif" alt="Please Login!" border="0"></p>
 </td>
 				</tr>
 			</tbody></table>
@@ -524,7 +527,8 @@ __CMS_PostbackForm.action = "http://www.fonts.com/Legal/Privacy.htm";
 											<p>
 </p>
 											<p><table id="TellAFriend1_pnlTellAFriend" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-
+	
+	
 	<table cellspacing="0" cellpadding="1" width="140" align="center" bgcolor="#dedede" border="0">
 		<tbody><tr>
 			<td>
@@ -536,7 +540,7 @@ __CMS_PostbackForm.action = "http://www.fonts.com/Legal/Privacy.htm";
 					</tr>
 					<tr>
 						<td>
-								<span id="TellAFriend1_statusLabel" class="error"></span>
+							<span id="TellAFriend1_statusLabel" class="error"></span>
 						</td>
 					</tr>
 					<tr>
@@ -681,15 +685,141 @@ __CMS_PostbackForm.action = "http://www.fonts.com/Legal/Privacy.htm";
 										<td bgcolor="#000000"><img height="1" src="/Assets/Images/trans1x1.gif" width="1" border="0"></td>
 										<td align="right" bgcolor="#ffffff">
 											
-<table cellspacing="0" cellpadding="5" border="0">
+<table cellspacing="0" cellpadding="2" border="0">
 	<tbody><tr>
+		<td align="right" colspan="3">
+				<br><span id="Footer1_lblCopyright" class="copyright"><a href="/AboutUs">About Us</a> / <a href="/Contact">Contact/Support</a> / <a href="/Legal">Legal</a> / <a href="/AboutFonts/Help">Help/FAQ</a> / <a href="/SpecialOffers/Affiliate.htm">Affiliate Program</a> / <a href="/UsefulLinks/LinkToUs.htm">Link to Us</a> / <a href="/Contact/_submit.htm">Submit Fonts</a></span>
+		</td>
+	</tr>
+	<tr valign="middle">
 		<td align="right">
-			<p class="copyright">
-				<br><span id="Footer1_lblCopyright"><a href="/AboutUs">About Us</a> / <a href="/Contact">Contact/Support</a> / <a href="/Legal">Legal</a> / <a href="/AboutFonts/Help">Help/FAQ</a> / <a href="/SpecialOffers/Affiliate.htm">Affiliate Program</a> / <a href="/UsefulLinks/LinkToUs.htm">Link to Us</a> / <a href="/Contact/_submit.htm">Submit Fonts</a><br>Copyright 2001-2006 <a href="/fontlist/">Fonts.com</a> / <a href="/Legal/Privacy.htm">Your Privacy</a> / <a href="/SiteMap.htm">Site Map</a> / <a href="/Account/AccountSummary.htm">Your Account</a></span>
-				<!--
-					<span id="Footer1_lblBrowserDetect"></span>
-				-->
-			</p>
+				<span id="Footer1_lblCopyright2" class="copyright">Copyright 2001 - 2006 <a href="/fontlist/">Fonts.com</a> / <a href="/Legal/Privacy.htm">Your Privacy</a> / <a href="/SiteMap.htm">Site Map</a> / </span>
+		</td>
+		<td align="right">
+				<table id="Footer1_pnlPopup" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	
+				<span title="header=[Select Currency] body=[ <table cellspacing=0 cellpadding=0>
+					
+							<tr valign=top bgcolor=#dedede>
+								<td align=left>
+									<p><font class=copyright>USD</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=USD'>U.S. Dollar</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>GBP</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=GBP'>British Pound Sterling</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>EUR</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=EUR'>Euro</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>AUD</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=AUD'>Australian Dollars</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>CAD</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=CAD'>Canadian Dollars</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>CHF</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=CHF'>Swiss Franc</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>DKK</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=DKK'>Danish Krone</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>HKD</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=HKD'>Hong Kong Dollar</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>JPY</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=JPY'>Japanese Yen</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>NOK</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=NOK'>Norwegian Krone</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>NZD</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=NZD'>New Zealand Dollar </a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>SEK</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=SEK'>Swedish Krona</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>SGD</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=SGD'>Singapore Dollar</a></font></p>
+								</td>
+							</tr>
+						
+							<tr valign=top bgcolor=#ffffff>
+								<td align=left>
+									<p><font class=copyright>ZAR</font></p>
+								</td>
+								<td>									<p><font class=copyright>&nbsp;<a href='/Legal/Privacy.htm?cur=ZAR'>South African Rand </a></font></p>
+								</td>
+							</tr>
+						
+					</table>
+					] fixedrelx=[-9] fixedrely=[-220] requireclick=[on]" style="color:#ff0000;font-family: Verdana, Arial, Helvetica, Sans-Serif;font-size:10px;color:#ff0000;cursor:pointer;padding: 0;"><u>Select Your Currency</u></span>
+				
+</td></tr></tbody></table>
+				
+		</td>
+		<td align="right">	
+				<span id="Footer1_lblCopyright3" class="copyright"> / <a href="/Account/AccountSummary.htm">Your Account</a></span>
 		</td>
 	</tr>
 </tbody></table>
@@ -709,4 +839,4 @@ __CMS_PostbackForm.action = "http://www.fonts.com/Legal/Privacy.htm";
 </form>
 	
 
-</body></html>
+<div style="position: absolute; visibility: hidden;"><div></div><div></div></div></body></html>
