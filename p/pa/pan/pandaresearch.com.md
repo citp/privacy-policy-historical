@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615122411id_/http%3A//pandaresearch.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230230237id_/http%3A//pandaresearch.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # PandaResearch.com
 
@@ -67,19 +67,22 @@ After a User has logged into the PandaResearch Member's Section, cookies are use
 
 Cookies used by PandaResearch can only be seen by PandaResearch, and cannot in any way cause harm to your computer. Because we cannot properly track user actions without the use of Cookies (to ensure Users are credited for completing Offers, referring friends, etc), our Web Site will not function properly for Users who have Cookies disabled. 
 
-Age Requirement The Panda Research .com service is unavailable to persons under the age of 18. 
+Age Requirement The Panda Research .com service is unavailable to persons under the age of 18 
 
 **Data Security:**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, Panda Research .com has used appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure. As a result, while we strive to protect your personal information, Panda Research .com cannot guarantee the security of any information that you transmit to us or from our sponsors and you do so at your own risk. 
 
-**External Links:**
+**V. CALIFORNIA USER CONSUMER RIGHTS**  
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [ dca@dca.ca.gov](mailto:%20dca@dca.ca.gov)
+
+ **External Links:**
 
 Panda Research .com is not responsible for any content or privacy policies of web sites not operated by Panda Research .com. 
 
 **Opting-Out:** Panda Research .com members are opted-in to receive Panda Research .com newsletters at the time of enrollment. You may opt-out of by following the directions enclosed in the newsletter. 
 
-**Canceling:** You may cancel your Membership at anytime by [ unsubscribing here ](https://web.archive.org/web/20060615122411id_/http%3A//pandaresearch.com/unsubscribe.jsp). If you decide to cancel your membership and later wish to re-enroll, you will be assigned a new account ID and you will not receive credit for earnings made using your previous account. Panda Research .com reserves the right to terminate or suspend any account at any time with or without notice. Panda Research .com does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or Panda Research .com. Changes To The Privacy Policy: By registering to use the Panda Research .com service, you agree to accept this privacy policy and are aware that Panda Research .com's privacy policy may change from time to time. We strongly advise our members to check back from time to time. We also welcome any feedback from you; please email us at [Support@PandaResearch .com](mailto:support@PandaResearch.com) if you have any comments regarding the information or improvements that can be made to this privacy policy. 
+**Canceling:** You may cancel your Membership at anytime by [ unsubscribing here ](https://web.archive.org/web/20061230230237id_/http%3A//pandaresearch.com/unsubscribe.jsp). If you decide to cancel your membership and later wish to re-enroll, you will be assigned a new account ID and you will not receive credit for earnings made using your previous account. Panda Research .com reserves the right to terminate or suspend any account at any time with or without notice. Panda Research .com does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or Panda Research .com. Changes To The Privacy Policy: By registering to use the Panda Research .com service, you agree to accept this privacy policy and are aware that Panda Research .com's privacy policy may change from time to time. We strongly advise our members to check back from time to time. We also welcome any feedback from you; please email us at [Support@PandaResearch .com](mailto:support@PandaResearch.com) if you have any comments regarding the information or improvements that can be made to this privacy policy. 
 
 **Contact Information:**
 
