@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2006-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060611184638id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230073315id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Sermon Search
 
