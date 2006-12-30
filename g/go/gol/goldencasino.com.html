@@ -1,45 +1,9 @@
-<!--The following is the downloaded HTML source of the goldencasino.com privacy policy that was archived on 2006-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060529002302id_/http%3A//goldencasino.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldencasino.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230072400id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-<!--
-if((self.location==top.location)&&(document.domain.indexOf('goldencasino.com') != -1)) document.location='http://www.goldencasino.com/welcome.php?pf=%2Fprivacy.php';
-//-->
-</script>
-
-
-<title>GoldenPalace.com :: #1 Online Casino</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="cache-control" content="no-cache">
-<meta name="Pragma" content="no-cache">
-<meta name="keywords" content="online casino, gambling, free casino games, online casino, casino, gambling, online casino, internet casino, internet gambling, las vegas casino, cyber casino, online betting, blackjack, roulette, online slot machine, poker, baccarat, craps, keno, slots, online casino">
-<meta name="description" content="Experience world-class online casino service at GoldenPalace.com. Play for free or for real money.  Real time gambling on fast playing, realistic games - blackjack, poker, slots, craps, roulette and much more. Download our free online casino games to play for free or real.">
-<link rel="stylesheet" href="/v2_style.css" type="text/css">
-<script language="Javascript">
-<!--
-
-function PopWindow(Url) {
-	var WindowWidth = 500;
-	var WindowHeight = 400;
-	var WindowTop = (screen.availHeight/2) - (WindowHeight/2);
-	var WindowLeft = (screen.availWidth/2) - (WindowWidth/2);
-	var WindowProps = 'toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable,width='+WindowWidth+',height='+WindowHeight+',left='+WindowLeft+',top='+WindowTop+',screenx='+WindowLeft+',screeny='+WindowTop;
-	PoppedWindow = window.open(Url,"PoppedWindow",WindowProps);
-	return;
-}
-
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-
-function RollOverBubblyToes(WhatImage,WhatFileName){
-	if (document.images){
-		document.images[WhatImage].src='/images/' + WhatFileName;
-	}
-}
-
-// -->
-</script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>GoldenCasino.com</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link href="/style.php?sec=privacy" rel="stylesheet" type="text/css">
 <script language="JavaScript">
 <!-- 
 
@@ -50,7 +14,7 @@ layerheight=40;
 halign="left";
 valign="left";
 delayspeed=3;
-minTop = 159;
+minTop = 129;
 
 
 NS6=false;
@@ -68,8 +32,8 @@ function adjust() {
 			var dy=Math.abs(window.pageYOffset+floatY-lastY);
 			var d=Math.sqrt(dx*dx+dy*dy);
 			var c=Math.round(d/10);
-			// if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			// if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
+			if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
+			if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
 			if (window.pageYOffset+floatY>lastY) {lastY=lastY+delayspeed+c;}
 			if (window.pageYOffset+floatY<lastY) {lastY=lastY-delayspeed-c;}
 		}
@@ -77,45 +41,57 @@ function adjust() {
 		if (lastY < minTop) lastY = minTop;
 
 		if (NS4){
-			document.layers['floatlayer'].pageX = lastX;
-			document.layers['floatlayer'].pageY = lastY;
+			document.layers['floatlayer'].pageX = lastX+'px';
+			document.layers['floatlayer'].pageY = lastY+'px';
 		}
 		if (NS6){
-			document.getElementById('floatlayer').style.left=lastX;
-			document.getElementById('floatlayer').style.top=lastY;
+			document.getElementById('floatlayer').style.left=lastX+'px';
+			document.getElementById('floatlayer').style.top=lastY+'px';
 		}
 	}else if (IE4){
 		
-		// r's hack to make invisible in IE
-		//if (document.body.scrollTop > 50){
-		//	document.all['floatlayer'].style.visibility = 'visible';
-		//}else{
-		//	document.all['floatlayer'].style.visibility = 'hidden';
-		//}
+		var sTop = (document.documentElement && document.documentElement.scrollTop) ? document.documentElement.scrollTop : document.body.scrollTop;
+		var sLeft = (document.documentElement && document.documentElement.scrollLeft) ? document.documentElement.scrollLeft : document.body.scrollLeft;
 		
 		if (lastX==-1 || delayspeed==0){
-			lastX=document.body.scrollLeft + floatX;
-			lastY=document.body.scrollTop + floatY;
+			lastX=sLeft + floatX;
+			lastY=sTop + floatY;
 		}else{
-			var dx=Math.abs(document.body.scrollLeft+floatX-lastX);
-			var dy=Math.abs(document.body.scrollTop+floatY-lastY);
+			var dx=Math.abs(sLeft+floatX-lastX);
+			var dy=Math.abs(sTop+floatY-lastY);
 			var d=Math.sqrt(dx*dx+dy*dy);
 			var c=Math.round(d/10);
-			// if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			// if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
-			if (document.body.scrollTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
-			if (document.body.scrollTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
+			if (sLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
+			if (sLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
+			if (sTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
+			if (sTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
 		}
 
 		if (lastY < minTop) lastY = minTop;
 
 		document.all['floatlayer'].style.posLeft = lastX;
-		document.all['floatlayer'].style.posTop = lastY;
+		document.all['floatlayer'].style.top = lastY;
 	} 
 	setTimeout('adjust()',50);
 }
 
 function define(){
+
+	// get pos of logo_bottom.gif
+	if (NS4 || NS6){
+		xPos=eval('document.logo').x;
+		yPos=eval('document.logo').y;
+	}else if (IE4){
+		xPos = eval('document.logo').offsetLeft;
+		tempEl = eval('document.logo').offsetParent;
+		while (tempEl != null) {
+			xPos += tempEl.offsetLeft;
+			tempEl = tempEl.offsetParent;
+		}
+	}
+	ifloatX=xPos+530;
+	ifloatY=floatY;
+
 	if ((NS4) || (NS6)){ 
 		if (halign=="left") {floatX=ifloatX};
 		if (halign=="right") {floatX=window.innerWidth-ifloatX-layerwidth-20};
@@ -136,288 +112,136 @@ function define(){
 
 //-->
 </script>
+<script language="JavaScript">
+<!--
 
-</head>
+function PopWin(url) {
+	var WindowWidth = 550;
+	var WindowHeight = 400;
+	var WindowTop = (screen.availHeight/2) - (WindowHeight/2);
+	var WindowLeft = (screen.availWidth/2) - (WindowWidth/2);
+	var WindowProps = 'toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable,width='+WindowWidth+',height='+WindowHeight+',left='+WindowLeft+',top='+WindowTop+',screenx='+WindowLeft+',screeny='+WindowTop;
+	PoppedWin = window.open(url,"PoppedWin",WindowProps);
+	return;
+}
+
+function toggleDisplay(obj){
+	var el = document.getElementById(obj);
+	if(el.style.display != 'none'){
+		el.style.display = 'none';
+	}else{
+		el.style.display = '';
+	}
+}
+
+function GoToPageInParent(url){
+	//opener.parent.body.location.href = url;
+	opener.location.href = url;
+}
+
+//-->
+</script></head>
 <body>
+
+<!-- .38 -->
 
 <div align="center">
 
-<table align="center" width="760" border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="760">
 	<tbody><tr>
-		<!-- <td><a href="/"><img src="/images/v2_logo_top.gif" width="162" height="79" alt="" border="0"></a></td> -->
-		<td><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="162" height="79" id="logo_lights" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/images/logo_lights.swf?clickTag=/"><param name="menu" value="false"><param name="quality" value="high"><param name="bgcolor" value="#000000"><embed src="/images/logo_lights.swf?clickTag=/" menu="false" quality="high" bgcolor="#000000" width="162" height="79" name="logo_lights" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></td>
-		<td valign="top">
-			<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-			<table width="598" align="center" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" align="left" width="50%">
-						<nobr>
-						<span class="ni_lang">
-						<!-- Language top row: -->
-						<img src="/images/lang_en_on.gif" width="64" height="18" alt="" border="0" align="absmiddle"><a href="http://www.goldencasino.com/fr/privacy.php"><img src="/images/lang_fr_off.gif" width="76" height="18" alt="" border="0" align="absmiddle"></a><a href="http://www.goldencasino.com/es/privacy.php"><img src="/images/lang_es_off.gif" width="76" height="18" alt="" border="0" align="absmiddle"></a><a href="http://www.goldencasino.com/it/privacy.php"><img src="/images/lang_it_off.gif" width="72" height="18" alt="" border="0" align="absmiddle"></a><br><a href="http://www.goldencasino.com/de/privacy.php"><img src="/images/lang_de_off.gif" width="71" height="17" alt="" border="0" align="absmiddle"></a><a href="http://www.goldencasino.com/jp/privacy.php"><img src="/images/lang_jp_off.gif" width="58" height="17" alt="" border="0" align="absmiddle"></a><a href="http://www.goldencasino.com/cn/privacy.php"><img src="/images/lang_cn_off.gif" width="74" height="17" alt="" border="0" align="absmiddle"></a><a href="http://www.goldencasino.com/cn-sc/privacy.php"><img src="/images/lang_cn-sc_off.gif" width="74" height="17" alt="" border="0" align="absmiddle"></a><a href="http://www.goldencasino.com/tr/privacy.php"><img src="/images/lang_tr_off.gif" width="68" height="17" alt="" border="0" align="absmiddle"></a>						</span>
-						</nobr>
-					</td>
-					<td valign="top" align="right" width="50%">
-						<nobr>
-						<span class="ni_lang">						
-						<!-- Currency: -->
-						<img src="/images/curr_usd_on.gif" width="17" height="17" alt="" border="0" align="absmiddle"><a href="/cashier.php"><img src="/images/curr_euro_off.gif" width="17" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_pound_off.gif" width="15" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_yen_off.gif" width="15" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_yuan_off.gif" width="19" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_hkd_off.gif" width="32" height="17" alt="" border="0" align="absmiddle"></a>						</span>
-						</nobr>
-					</td>
-					<td><img src="/images/spacer.gif" width="20" height="1" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td><a href="/"><img id="logo" name="logo" src="/images/top_01.gif" width="211" height="100" alt="" border="0"></a></td>
+		<td><div id="top_nav"><a class="nav_download" href="/download.php">DOWNLOAD</a> &nbsp;|&nbsp; <a class="nav" href="/promotions.php">Promotions</a> &nbsp;|&nbsp; <a class="nav" href="/cashier.php">Cashier</a> &nbsp;|&nbsp; <!-- <a class="nav" href="#">Preview</a> &nbsp;|&nbsp; --><a class="nav" href="/support.php">24hr Support</a> &nbsp;|&nbsp; <a class="nav" href="/faq.php">FAQ</a> &nbsp;|&nbsp; <a class="nav" href="/support.php">Contact Us</a> &nbsp;|&nbsp; <a class="nav" href="http://www.bestcasinopartner.com" target="_blank">Affiliates</a></div></td>
 	</tr>
 </tbody></table>
 
-<table align="center" width="760" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top"><img src="/images/spacer.gif" width="6" height="1" alt=""></td>
-		<td valign="top" align="center">
-			<a href="/"><img name="LogoBottom" src="/images/v2_logo_bottom.gif" width="132" height="68" alt="" border="0"></a><br>
-			<table width="132" bgcolor="#DD9E0F" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td colspan="3"><img src="/images/v2_nav_top.gif" width="132" height="23" alt=""></td>
-				</tr>
-				<tr>
-					<td valign="top" background="/images/v2_nav_back_left.gif"><img src="/images/spacer.gif" width="12" height="1" alt=""></td>
-					<td>
-						<img src="/images/spacer.gif" width="115" height="1" alt=""><br>
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="navPurple" href="/playnow.php">DOWNLOAD</a></td></tr>
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/promotions.php">Promotions</a></td></tr>
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/cashier.php">Cashier</a></td></tr>
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/preview.php">Preview</a></td></tr>
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/support.php">24hr Support</a></td></tr>
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/support_faq.php">FAQ</a></td></tr>
-							
-														<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="http://www.casinoblasters.com" target="_blank">Affiliate Program</a></td></tr>
-														
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/support.php">Contact Us</a></td></tr>
-							<tr><td colspan="2"><img src="/images/v2_nav_divider.gif" width="115" height="5" alt=""></td></tr>
-							<tr><td valign="top" class="v2_nav">»&nbsp;</td><td valign="top"><a class="v2_nav" href="/about.php">About Us</a></td></tr>
-						</tbody></table>
-					</td>
-					<td valign="top" background="/images/v2_nav_back_right.gif"><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/v2_nav_bottom.gif" width="132" height="23" alt=""></td>
-				</tr>
-			</tbody></table>
-			
-			<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-			<a href="/playnow.php"><img src="/images/payouts.gif" width="132" height="93" alt="" border="0"></a><br>
-			
-							<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-				<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="132" height="50" id="GP_audiobonus_300" align="middle">
-				<param name="allowScriptAccess" value="sameDomain">
-				<param name="movie" value="/images/GP_audiobonus_300.swf">
-				<param name="menu" value="false">
-				<param name="quality" value="high">
-				<param name="bgcolor" value="#330000">
-				<embed src="/images/GP_audiobonus_300.swf" menu="false" quality="high" bgcolor="#330000" width="132" height="50" name="GP_audiobonus_300" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-				</object>
-							
-			<img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>
-			
-							
-				
-				<a href="http://www.goldenpalaceevents.com/" target="_blank"><img src="/images/v2_events.gif" width="132" height="51" alt="" border="0"></a><br><img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br><a href="/promotions.php"><img src="/images/v2_tellafriend.gif" width="132" height="43" alt="" border="0"></a><br><img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>				
-				<a href="http://www.one.org/" target="_blank"><img src="/images/banner_one_small.gif" width="132" height="35" alt="" border="0"></a><br>
-				<img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>
-				<a href="/info/" target="_blank"><img src="/images/banner_info_small.gif" width="132" height="35" alt="" border="0"></a><br>
-				<img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>
-				<a href="http://www.findacureforms.com/" target="_blank"><img src="/images/v2_donate_ms.gif" width="132" height="35" alt="" border="0"></a><br>
-				<img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>
-				<a href="http://www.tsunamirelief.com/" target="_blank"><img src="/images/v2_donate_tsunami.gif" width="132" height="35" alt="" border="0"></a><br>
-				<img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>
-				<a href="http://www.wcs.org/madidimonkey/" target="_blank"><img src="/images/v2_donate_monkey.gif" width="132" height="35" alt="" border="0"></a><br>
-				<img src="/images/v2_sidedivider.gif" width="132" height="9" alt=""><br>
-				
-							
-		</td>
-		<td valign="top"><img src="/images/spacer.gif" width="17" height="1" alt=""></td>
-		<td valign="top">
-
-
-	<img src="/images/v2_body_top.gif" width="605" height="30" alt=""><br>
+	
+	<img src="/images/top_03.gif" width="760" height="30" alt="" border="0"><br>
+	<div id="content">
+		<img src="/images/header_privacy.gif" width="490" height="46" alt="" border="0"><br>
 	
 	
-	<table width="605" bgcolor="#f6f6f6" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td valign="top" background="/images/v2_body_back_left.gif"><img src="/images/spacer.gif" width="37" height="1" alt=""></td>
-			<td valign="top">
-				<img src="/images/spacer.gif" width="370" height="1" alt=""><br>
+This GoldenCasino.com Privacy Statement discloses the information privacy practices for GoldenCasino.com's Web site, www.GoldenCasino.com<br><br>
+
+<br><span class="title">Our Commitment</span><br><br>
+Your online privacy is important to us here at GoldenCasino.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page (http://www.GoldenCasino.com) and is available directly at (http://www.GoldenCasino.com/privacy.php).
+<br><br>
+
+<br><span class="title">Information Collected About You</span><br><br>
+GoldenCasino.com collects two forms of personally identifiable information ('PII') online: Web Server log file analysis information ('Traffic Analysis') and Web visitor registration information ('User Information') voluntarily provided to GoldenCasino.com by visitors who log onto the site. User Information includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a player at GoldenCasino.com in order to use our online gaming software, participate in the contests, and complete transactions, many areas of GoldenCasino.com can be accessed without providing any User Information.
+<ol type="i">
+	<li>
+		<br><span class="title">Traffic Analysis</span><br><br>
+		GoldenCasino.com routinely gathers Information on Site activity, such as data on how many people visit the Site, the pages they visit, where they come from, how long they stay, which banner they have clicked onto arrive at our site, etc.
+		<br><br>
+		Such Traffic Analysis is: 
+		<ul>
+			<li>collected on an aggregate, anonymous basis, which means no PII is associated with this data, unless such user arrives from an affiliate, in which case we must track PII to compensate our affiliate;</li>
+			<li>gathered through the use of web server logs and cookies. A web server log is a file where web site activity is stored. A cookie is a small piece of information that a web site sends to a visitor's computer and which is then stored on the visitor's hard drive. GoldenCasino.com uses cookies to track repeat visits to its Site. Although GoldenCasino.com assigns a cookie to a visitor's computer, it does not know who that visitor is unless that person specifically tells us by becoming a registered user.</li>
+			<li>used to better design our Site, improve how we provide you with information on our products, customer service and to share with advertisers/affiliates to create targeted marketing.</li>
+		</ul>
+		GoldenCasino.com collects certain technical information from your computer each time you request a page during a visit. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site.
+		<br><br>
+	</li>
+	<li>
+		<br><span class="title">User Information</span><br><br>
+		PII is also collected on certain pages of the GoldenCasino.com. If you decide to contact GoldenCasino.com to ask a question, learn more about how to start playing at Golden Casino, learn how to participate in the contest at GoldenCasino.com, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at 1-888-217-5648, such PII will assist us in complying with these requests. <br><br>
+		GoldenCasino.com may ask you to provide User Information, to register for an account or participate in the contest. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card and/or debit card information and your comments. User Information may be forwarded to our Management Company or Partner Company that is equipped to handle your order, inquiry or feedback.<br><br>
+		Personally Identifiable Information is collected by means of online registration forms within our site or via our downloaded software. This Information is also collected to personalize and customize your experience on GoldenCasino.com.<br><br>
+		User Information is gathered as part of any entry for a sweepstakes or other promotion. If you choose to enter a sweepstakes or other promotion we conduct, you will be required to submit certain personal information, such as your name, e-mail address, street address and phone number, and we will also ask for certain additional information, which is optional and is not required to enter the promotion. We will use the required personal information you submit to us for promotion administration purposes, such as notification of winners.<br><br>
+		User Information is collected only when Site visitors voluntarily provide it. It is not necessary to provide any User Information in order to simply browse the Site.<br><br>
+	</li>
+</ol>
+
+<br><span class="title">How We Use Your Information</span><br><br>
+We use the Information you provide about yourself when registering and to provide you with information about other partner's similar products and promotions that may be of interest to you. Your Information may be shared with our employees, independent contractors, agents or other related entities and/or business partners acting on our behalf to fulfill an award or promotion; conduct surveys; collect payments or to provide a product or service you have requested. We do not share this information with non-partner companies except to the extent necessary to complete your transaction (such as with NetTeller, your bank, your Credit Card company) and, when we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. <br><br>
+We use return email addresses to answer the email we receive as well as to provide you with customer support, special promotions and offers.<br><br>
+In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that GoldenCasino.com, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.<br><br>
+GoldenCasino.com may contain hyperlinks to and from other Internet sites, including other partner sites. These sites may have different privacy practices from the ones described here. Since this Statement applies solely to this Site, please remember to read the privacy statements of the other sites you visit. <br><br>
+We release Information when we believe release is appropriate to comply with law, to enforce or apply our <a href="javascript:PopWin('/terms.php');">Terms and Conditions</a> and other agreements, or to protect the rights, property, or safety GoldenCasino.com, Site users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.<br><br><br>
+
+<br><span class="title">Requests for Additional Information</span><br><br>
+GoldenCasino.com may from time to time, contact the user directly to acquire more information in order to validate an online transaction or to disburse promotional monies.<br><br>
+
+<br><span class="title">Marketing Notifications</span><br><br>
+As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenCasino.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook 2003, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
+You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on GoldenCasino.com and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by GoldenCasino.com. <br><br>
+You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, about GoldenCasino.com and its marketing partners. Postal marketing notifications containing offers for our marketing partners will be sent by GoldenCasino.com directly.<br><br>
+
+<br><span class="title">Data Security</span><br><br>
+GoldenCasino.com works hard to ensure tat our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.<br><br>
+
+<br><span class="title">Protecting Children from Online Gambling</span><br><br>
+At GoldenCasino.com Protecting the privacy of the very young is especially important. GoldenCasino.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
+
+<br><span class="title">Sharing and Control Over Your Information</span><br><br>
+GoldenCasino.com does not and shall not sell your User Information to anyone. Our parent management company may share your information between other sites that it manages, but will never provide your User Information to a third party for sale or rental. Within our gaming software, the user may update their personal information. <br><br>
+
+<br><span class="title">Right to Change Internet Privacy Statement:</span><br><br>
+GoldenCasino.com reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.<br><br>
 
 	
-			<span class="subtitle2">GoldenPalace.com Privacy Statement</span><br><br>
-			Effective November 1, 2004<br><br>
-			This GoldenPalace.com Privacy Statement discloses the information privacy practices for GoldenPalace.com's Web site, www.GoldenPalace.com<br><br>
-			<br><br><span class="bold">Our commitment</span><br>Your online privacy is important to us here at GoldenPalace.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page ( http://www.GoldenPalace.com ) and is available directly at ( http://www.GoldenPalace.com/privacy.php ).<br><br>
-			<br><br><span class="bold">Information Collected about you</span><br>GoldenPalace.com collects two forms of personally identifiable information ('PII') online:  Web Server log file analysis information ('Traffic Analysis') and Web visitor registration information ('User Information') voluntarily provided to GoldenPalace.com by visitors who log onto the site. User Information includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a player at GoldenPalace.com in order to use our online gaming software, participate in the contests, and complete transactions, many areas of GoldenPalace.com can be accessed without providing any User Information.<br><br>
-			<ol type="i">
-			<li>
-				Traffic Analysis<br><br>
-				GoldenPalace.com routinely gathers Information on Site activity, such as data on how many people visit the Site, the pages they visit, where they come from, how long they stay, which banner they have clicked onto arrive at our site, etc.<br><br>
-				Such Traffic Analysis is:
-				<ul>
-				<li>collected on an aggregate, anonymous basis, which means no PII is associated with this data, unless such user arrives from an affiliate, in which case we must track PII to compensate our affiliate;</li>
-				<li>gathered through the use of web server logs and cookies. A web server log is a file where web site activity is stored. A cookie is a small piece of information that a web site sends to a visitor's computer and which is then stored on the visitor's hard drive. GoldenPalace.com uses cookies to track repeat visits to its Site. Although GoldenPalace.com assigns a cookie to a visitor's computer, it does not know who that visitor is unless that person specifically tells us by becoming a registered user.</li>
-				<li>used to better design our Site, improve how we provide you with information on our products, customer service and to share with advertisers/affiliates to create targeted marketing.</li>
-				</ul>
-				GoldenPalace.com collects certain technical information from your computer each time you request a page during a visit. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site.
-				<br><br>
-			</li>
-			<li>
-				User Information<br><br>
-				PII is also collected on certain pages of the GoldenPalace.com. If you decide to contact GoldenPalace.com to ask a question, learn more about how to start playing at Golden Palace, learn how to participate in the contest at GoldenPalace.com, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at 1-888-217-5648, such PII will assist us in complying with these requests. <br><br>
-				GoldenPalace.com may ask you to provide User Information, to register for an account or participate in the contest. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card and/or debit card information and your comments. User Information may be forwarded to our Management Company or Partner Company that is equipped to handle your order, inquiry or feedback.<br><br>
-				Personally Identifiable Information is collected by means of online registration forms within our site or via our downloaded software. This Information is also collected to personalize and customize your experience on GoldenPalace.com.<br><br>
-				User Information is gathered as part of any entry for a sweepstakes or other promotion. If you choose to enter a sweepstakes or other promotion we conduct, you will be required to submit certain personal information, such as your name, e-mail address, street address and phone number, and we will also ask for certain additional information, which is optional and is not required to enter the promotion. We will use the required personal information you submit to us for promotion administration purposes, such as notification of winners.<br><br>
-				User Information is collected only when Site visitors voluntarily provide it. It is not necessary to provide any User Information in order to simply browse the Site.<br><br>
-			</li>
-			</ol>
-			<br><br><span class="bold">How We User Your Information</span><br>We use the Information you provide about yourself when registering and to provide you with information about other partner's similar products and promotions that may be of interest to you. Your Information may be shared with our employees, independent contractors, agents or other related entities and/or business partners acting on our behalf to fulfill an award or promotion; conduct surveys; collect payments or to provide a product or service you have requested. We do not share this information with non-partner companies except to the extent necessary to complete your transaction (such as with NetTeller, your bank, your Credit Card company) and, when we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. <br><br>
-			We use return email addresses to answer the email we receive as well as to provide you with customer support, special promotions and offers.<br><br>
-			In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that GoldenPalace.com, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.<br><br>
-			GoldenPalace.com may contain hyperlinks to and from other Internet sites, including other partner sites. These sites may have different privacy practices from the ones described here. Since this Statement applies solely to this Site, please remember to read the privacy statements of the other sites you visit. <br><br>
-			We release Information when we believe release is appropriate to comply with law, to enforce or apply our <a href="javascript:MM_openBrWindow('terms.php','terms','scrollbars=yes,resizable=yes,width=387,height=420')">Terms and Conditions</a> and other agreements, or to protect the rights, property, or safety GoldenPalace.com, Site users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.<br><br>
-			<br><br><span class="bold">Requests for Additional Information</span><br>GoldenPalace.com may from time to time, contact the user directly to acquire more information in order to validate an online transaction or to disburse promotional monies.<br><br>
-			<br><br><span class="bold">Marketing notifications</span><br>As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenPalace.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook 2003, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
-			You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on GoldenPalace.com and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by GoldenPalace.com. <br><br>
-			You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, about GoldenPalace.com and its marketing partners. Postal marketing notifications containing offers for our marketing partners will be sent by GoldenPalace.com directly.<br><br>
-			<br><br><span class="bold">Data Security</span><br>GoldenPalace.com works hard to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.<br><br>
-			<br><br><span class="bold">Protecting Children from Online Gambling</span><br>At GoldenPalace.com Protecting the privacy of the very young is especially important. GoldenPalace.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
-			GoldenPalace.com encourages parents and guardians to spend time online with their children and to participate with them in the various interactive activities available on the Internet and on our Web Site in particular.<br><br>
-			<br><br><span class="bold">Sharing and Control Over Your Information</span><br>GoldenPalace.com does not and shall not sell your User Information to anyone. Our parent management company may share your information between other sites that it manages, but will never provide your User Information to a third party for sale or rental.  Within our gaming software, the user may update their personal information.  <br><br>
-			<br><br><span class="bold">Right to Change Internet Privacy Statement:</span><br>GoldenPalace.com reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.<br><br>
-				
-		</td>
-		<td background="/images/v2_body_slider_back.gif">
-			<img src="/images/spacer.gif" width="173" height="1" alt=""><br>
-		
-		
-			</td>
-			<td valign="top" background="/images/v2_body_back_right.gif"><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
-		</tr>
-	</tbody></table>
-
-	<img src="/images/v2_body_bottom.gif" width="605" height="45" alt=""><br>
-
+	</div>
+	<div id="bottom_nav"><a class="nav_download" href="/download.php">DOWNLOAD</a> | <a class="nav" href="/promotions.php">Promotions</a> | <a class="nav" href="/cashier.php">Cashier</a> | <!-- <a class="nav" href="#">Preview</a> | --><a class="nav" href="/support.php">24hr Support</a> | <a class="nav" href="/faq.php">FAQ</a> | <a class="nav" href="/support.php">Contact Us</a></div>
 	
-		</td>
-	</tr>
-</tbody></table>
+	
+<div id="copyright">Copyright © 2006 GoldenCasino.com. All Rights Reserved.  Read our <a href="/privacy.php">Privacy Policy</a>.  Webmasters, join our <a href="http://www.bestcasinopartner.com/?c=0&amp;id=54522" target="_blank">casino affiliate program</a>.</div>
 
-<img src="/images/spacer.gif" width="760" height="20" alt=""><br>
-
-<table align="center" width="760" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="/images/spacer.gif" width="155" height="1" alt=""></td>
-		<td align="center">
-			<img src="/images/spacer.gif" width="605" height="1" alt=""><br>
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td><img src="/images/v2_logo_hgn.gif" width="46" height="45" alt=""></td>
-					<td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-					<td><a href="http://www.kahnawake.com/gamingcommission/" target="_blank"><img src="/global/_v3/images/88x31_kgc.gif" width="88" height="31" alt="" border="0"></a></td>
-					<td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-					<td><img src="/global/_v3/images/88x31_igc.gif" width="88" height="31" alt=""></td>
-					<td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-					<td><a href="http://www.gamblersanonymous.org/" target="_blank"><img src="/global/_v3/images/88x31_ga.gif" width="88" height="31" alt="" border="0"></a></td>
-					<td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-					<td><img src="/global/_v3/images/88x31_icra.gif" width="88" height="31" alt=""></td>
-					<td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-
-					<td><a href="/global/_v3/playtech_rng_certification_letter_casino_games_en.pdf" target="_blank"><img src="/global/_v3/images/logo_tst.gif" width="145" height="30" alt="" border="0"></a></td>					
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-<img src="/images/spacer.gif" width="760" height="16" alt=""><br>
-
-<table align="center" width="760" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td colspan="2">
-			<span class="onBlack"><span class="fineprint">
-			»&nbsp;<a class="onBlack" href="/playnow.php">DOWNLOAD</a>
-			»&nbsp;<a class="onBlack" href="/promotions.php">Promotions</a>
-			»&nbsp;<a class="onBlack" href="/cashier.php">Cashier</a>
-			»&nbsp;<a class="onBlack" href="/preview.php">Preview</a>
-			»&nbsp;<a class="onBlack" href="/support.php">24hr Support</a>
-			»&nbsp;<a class="onBlack" href="/support_faq.php">FAQ</a>
-			
-						»&nbsp;<a class="onBlack" href="http://www.casinoblasters.com" target="_blank">Affiliate Program</a>
-						
-			»&nbsp;<a class="onBlack" href="/support.php">Contact Us</a>
-			»&nbsp;<a class="onBlack" href="/about.php">About Us</a><br>
-			
-			<span class="bold"><span class="onBlack">
-						&nbsp;Gaming Tips:
-						» <a class="onBlack" href="/blackjack">Blackjack</a>
-						» <a class="onBlack" href="/craps">Craps</a>
-						» <a class="onBlack" href="/slots">Slots</a>
-						» <a class="onBlack" href="/roulette">Roulette</a>
-						» <a class="onBlack" href="/baccarat">Baccarat</a>
-						» <a class="onBlack" href="/sic-bo">Sic-Bo</a>
-						» <a class="onBlack" href="/pai_gow">Pai Gow</a>
-						» <a class="onBlack" href="/keno">Keno</a>
-						» <a class="onBlack" href="/red_dog">Red Dog Poker</a>
-						» <a class="onBlack" href="/video_poker">Video Poker</a>
-						</span></span>			
-			</span></span>
-			<img src="/images/v2_bottom_rule.gif" width="760" height="20" alt=""></td>
-	</tr>
-	<tr>
-		<td><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
-		<td>
-			<img src="/images/spacer.gif" width="759" height="1" alt=""><br>
-			<span class="copyright">Copyright © 1997 - 2006 GoldenPalace.com. All Rights Reserved. Webmasters, remember to join our <a class="copyright" href="http://www.casinoblasters.com" target="_blank">Casino Affiliate Program</a>!<br>Read our <a class="copyright" href="/privacy.php">Privacy Statement</a>.</span>			<br><br><br>
-		</td>
-	</tr>
-</tbody></table>
-
+</div>
 
 
 <script language="JavaScript">
 <!-- 
 
-if (NS4) {document.write('<LAYER NAME="floatlayer" LEFT="'+floatX+'" TOP="'+floatY+'">');}
-if (NS6) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'; top:'+floatY+';">');}
+if (NS4) {document.write('<LAYER NAME="floatlayer" LEFT="'+floatX+'px" TOP="'+floatY+'px">');}
+if (NS6) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'px; top:'+floatY+'px;">');}
 if (IE4) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'; top:'+floatY+';"  visibility="hidden">');}
-document.write('<table width=\"155\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td colspan=\"5\"><a href=\"/playnow.php\"><img src=\"/images/v2_slider_top.gif\" width=\"155\" height=\"64\" alt=\"\" border=\"0\"></a><br><a href=\"/playnow.php\"><img src=\"/images/v2_slider_300.gif\" width=\"155\" height=\"48\" alt=\"\" border=\"0\"></a><br></td></tr><tr><td bgcolor=\"#B5A5A5\"><img src=\"/images/spacer.gif\" width=\"1\" height=\"1\" alt=\"\"></td><td bgcolor=\"#DCDCDC\"><img src=\"/images/spacer.gif\" width=\"8\" height=\"1\" alt=\"\"></td><td bgcolor=\"#DCDCDC\"><span class=\"fineprint\">Use NETeller, myCitadel, eWalletXpress, or FirePay to get an extra large bonus!<br>» <a href=\"/playnow.php\"><span class=\"bold\">More Info</span></a></span></td><td bgcolor=\"#DCDCDC\"><img src=\"/images/spacer.gif\" width=\"5\" height=\"1\" alt=\"\"></td><td bgcolor=\"#B5A5A5\"><img src=\"/images/spacer.gif\" width=\"1\" height=\"1\" alt=\"\"></td></tr><tr><td colspan=\"5\"><img src=\"/images/v2_slider_divider.gif\" width=\"155\" height=\"9\" alt=\"\" border=\"0\"></td></tr><tr><td bgcolor=\"#B5A5A5\"><img src=\"/images/spacer.gif\" width=\"1\" height=\"1\" alt=\"\"></td><td bgcolor=\"#DCDCDC\"><img src=\"/images/spacer.gif\" width=\"8\" height=\"1\" alt=\"\"></td><td bgcolor=\"#DCDCDC\"><a href=\"/playnow.php\"><img src=\"/images/v2_slider_200.gif\" width=\"140\" height=\"35\" alt=\"\" border=\"0\"></a><br><span class=\"fineprint\">with your first purchase if you use a credit card...<br>» <a href=\"/playnow.php\"><span class=\"bold\">More Info</span></a></span></td><td bgcolor=\"#DCDCDC\"><img src=\"/images/spacer.gif\" width=\"5\" height=\"1\" alt=\"\"></td><td bgcolor=\"#B5A5A5\"><img src=\"/images/spacer.gif\" width=\"1\" height=\"1\" alt=\"\"></td></tr><tr><td colspan=\"5\"><img src=\"/images/v2_slider_bottom.gif\" width=\"155\" height=\"7\" alt=\"\" border=\"0\"></td></tr></table><img src=\"/images/spacer.gif\" width=\"1\" height=\"5\" alt=\"\"><br /><a href=\"http://banner.goldenpalace.com/cgi-bin/redir.cgi?member=internal&profile=gpshop\" target=\"_blank\"><img src=\"/images/GPshop_155x70_01.gif\" width=\"155\" height=\"70\" alt=\"\" border=\"0\"></a><br />');
+document.write('<a href=\"/download.php\"><img src=\"/images/floater_01.gif\" width=\"230\" height=\"162\" alt=\"\" border=\"0\" /></a><br /><a href=\"/download.php\"><img src=\"/images/floater_02.gif\" width=\"230\" height=\"70\" alt=\"\" border=\"0\" /></a><br />');
 if (NS4){
 	document.write('</LAYER>');
 }
 if ((IE4) || (NS6)){
 	document.write('</DIV>');
 }
-
-// get pos of logo_bottom.gif
-if (NS4 || NS6){
-	xPos=eval('document.LogoBottom').x;
-	yPos=eval('document.LogoBottom').y;
-}else if (IE4){
-	xPos = eval('document.LogoBottom').offsetLeft;
-	tempEl = eval('document.LogoBottom').offsetParent;
-	while (tempEl != null) {
-		xPos += tempEl.offsetLeft;
-		tempEl = tempEl.offsetParent;
-	}
-}
-
-ifloatX=xPos+576;
-ifloatY=floatY;
 
 define();
 window.onresize=define;
@@ -426,28 +250,7 @@ lastY=-1;
 adjust();
 
 //-->
-</script><div id="floatlayer" style="position: absolute; left: 885px; top: 159px;"><table width="155" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5"><a href="/playnow.php"><img src="/images/v2_slider_top.gif" width="155" height="64" alt="" border="0"></a><br><a href="/playnow.php"><img src="/images/v2_slider_300.gif" width="155" height="48" alt="" border="0"></a><br></td></tr><tr><td bgcolor="#B5A5A5"><img src="/images/spacer.gif" width="1" height="1" alt=""></td><td bgcolor="#DCDCDC"><img src="/images/spacer.gif" width="8" height="1" alt=""></td><td bgcolor="#DCDCDC"><span class="fineprint">Use NETeller, myCitadel, eWalletXpress, or FirePay to get an extra large bonus!<br>» <a href="/playnow.php"><span class="bold">More Info</span></a></span></td><td bgcolor="#DCDCDC"><img src="/images/spacer.gif" width="5" height="1" alt=""></td><td bgcolor="#B5A5A5"><img src="/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr><td colspan="5"><img src="/images/v2_slider_divider.gif" width="155" height="9" alt="" border="0"></td></tr><tr><td bgcolor="#B5A5A5"><img src="/images/spacer.gif" width="1" height="1" alt=""></td><td bgcolor="#DCDCDC"><img src="/images/spacer.gif" width="8" height="1" alt=""></td><td bgcolor="#DCDCDC"><a href="/playnow.php"><img src="/images/v2_slider_200.gif" width="140" height="35" alt="" border="0"></a><br><span class="fineprint">with your first purchase if you use a credit card...<br>» <a href="/playnow.php"><span class="bold">More Info</span></a></span></td><td bgcolor="#DCDCDC"><img src="/images/spacer.gif" width="5" height="1" alt=""></td><td bgcolor="#B5A5A5"><img src="/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr><td colspan="5"><img src="/images/v2_slider_bottom.gif" width="155" height="7" alt="" border="0"></td></tr></tbody></table><img src="/images/spacer.gif" width="1" height="5" alt=""><br><a href="http://banner.goldenpalace.com/cgi-bin/redir.cgi?member=internal&amp;profile=gpshop" target="_blank"><img src="/images/GPshop_155x70_01.gif" width="155" height="70" alt="" border="0"></a><br></div>
-
-</div>
-
-
-
-
-<!------------------------------------------------------- [Start Tracking Code] -->
-<script language="javascript">
-<!--
-var data, p;
-var agt=navigator.userAgent.toLowerCase();
-var img=escape("./buttons/b5.jpg");
-document.cookie='__support_check=1';
-p='http';
-if((location.href.substr(0,6)=='https:')||(location.href.substr(0,6)=='HTTPS:')) {p='https';} data = '&agt=' + escape(agt) + '&img=' + img + '&r=' + escape(document.referrer) + '&aN=' + escape(navigator.appName) + '&lg=' + escape(navigator.systemLanguage) + '&OS=' + escape(navigator.platform) + '&aV=' + escape(navigator.appVersion);
-if(navigator.appVersion.substring(0,1)>'3') {data = data + '&cd=' + screen.colorDepth + '&p=' + escape(screen.width+ 'x'+screen.height) + '&je=' + navigator.javaEnabled();};
-document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="http://trax.inspectorclick.com/casinos/counter.php?a=gp' + data + '">');
-//-->
-</script><img width="1" height="1" border="0" hspace="0" vspace="0" src="http://trax.inspectorclick.com/casinos/counter.php?a=gp&amp;agt=mozilla/5.0%20%28x11%3B%20linux%20x86_64%29%20applewebkit/537.36%20%28khtml%2C%20like%20gecko%29%20headlesschrome/69.0.3494.0%20safari/537.36&amp;img=./buttons/b5.jpg&amp;r=&amp;aN=Netscape&amp;lg=undefined&amp;OS=Linux%20x86_64&amp;aV=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cd=24&amp;p=800x600&amp;je=false">
-<noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="http://trax.inspectorclick.com/casinos/counter.php?a=gp"></noscript>
-<!------------------------------------------------------- [End Tracking Code] -->
+</script><div id="floatlayer" style="position: absolute; left: 833px; top: 129px;"><a href="/download.php"><img src="/images/floater_01.gif" width="230" height="162" alt="" border="0"></a><br><a href="/download.php"><img src="/images/floater_02.gif" width="230" height="70" alt="" border="0"></a><br></div>
 
 
 </body></html>
