@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317210535id_/http%3A//knex.com/include/knex_launcher.php%3Flink_id%3D24%26from%3D/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230231519id_/http%3A//knex.com/info/privacy.php) for the most accurate reproduction.*
 
 # K'NEX | About K'NEX | Privacy Policy
 
