@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630053342id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231004734id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
 
 # GlobalSpec - Privacy Policy
 
