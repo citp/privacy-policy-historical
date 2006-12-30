@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223947id_/http%3A//learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230101734id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # learndirect - Privacy Statement
 
@@ -158,7 +158,7 @@ We, and our approved learning providers, may use your personal data to process o
 
 At the point this information is collected you will be asked to indicate if you do not wish to be contacted by the LSC or its partners in respect of courses, surveys and research. Please read the [LSC Data Protection Statement](https://web.archive.org/home/ilr/lscdpa/)
 
-We, or the government agency providing funding for your course, may use your personal data to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course.
+We, or the government agency providing funding for your course, may use your personal data to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course. We may also contact you for the purposes of any such investigation.
 
 ### Statistics
 
@@ -226,6 +226,6 @@ You have the right to ask for a copy of all the information we hold about you (w
 
 Our website contains links to other websites. We are not responsible for the privacy policies of other sites and we advise you to read the privacy statement of every website that collects personal information from you.
 
-### Last updated : 28th April 2006
+### Last updated : 27th June 2006
 
 Back to top
