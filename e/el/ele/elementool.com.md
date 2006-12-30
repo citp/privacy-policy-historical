@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementool.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202411id_/http%3A//www.elementool.com/newaccount/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementool.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230083019id_/http%3A//www.elementool.com/newaccount/privacy.html) for the most accurate reproduction.*
 
 # elementool - Privacy Policy
 
@@ -7,6 +7,7 @@
 This page explains Elementool Inc.'s policy (the "Privacy Policy") regarding the collection and use of information that can personally identify you whether you are a first-time or repeat visitor to our website and bug tracking service (the "Service"). Unless different terms and conditions are specified in a form or contract provided to you by Elementool Inc., the terms and conditions of this Privacy Policy apply to Elementool Inc.'s collection and use of personally-identifying information collected and stored on our website.  |  [](http://www.truste.org/ivalidate.php?url=www.elementool.com&sealid=101)  
 Elementool Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.elementool.com.  | Effective date: 6/1/2006  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:  |    
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.  |    
 1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site  |    
 2\. The organization collecting the information  |    
 3\. How the information is used  |    
