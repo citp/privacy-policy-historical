@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the dlife.com privacy policy that was archived on 2006-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619130351id_/http%3A//dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dlife.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230142034id_/http%3A//www.dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy - dLife.com - For Your Diabetes Life</title>
 <script src="/opencms/opencms/system/modules/com.gto.cms/resources/global.js" language="JavaScript" type="text/javascript"></script>
-<link rel="StyleSheet" href="/opencms/opencms/system/modules/com.gto.cms/resources/global.css" type="text/css" media="all">
+<link rel="stylesheet" href="/opencms/opencms/system/modules/com.gto.cms/resources/interior.css" type="text/css" media="all">
+
 <script language="JavaScript">var TMenu_path_to_files = '/opencms/opencms/system/modules/com.gto.cms/resources/';</script>
 <meta http-equiv="CONTENT-TYPE" content="text/html; CHARSET=UTF-8">
 <meta name="description" content="On dlife.com people with diabetes can find information about diabetes and its management, become a part of the dlife community, and create a personal diabetes profile that can help them cope with their day to day life. This page contains the d-life forum policy.">
@@ -69,11 +70,12 @@ function OAS_AD(pos) {
 </head>
 
 <body>
-<!-- HEADER -->
 
-<table id="dlife_table" align="center">
-<tbody><tr>
-<td id="Header" colspan="2"> 
+<div id="page_wrap">
+
+<div id="dlife_table" summary="diabetes">
+
+<div id="Header"> 
 
 <!-- Welcome Widgets -->
 <!-- FileName ../elements/welcome_widgets.jsp -->
@@ -106,10 +108,30 @@ function emailThisPage()
 <td class="tool_links">
 
 
+
+
+
+
 		
 
-<a href="/dLife/do/ShowLogin" title="Log-In">Log-In</a> |
-<a href="/dLife/do/ShowRegistration" title="Join Now">Join Now</a> |
+<a href="/dLife/do/ShowLogin">Log-In</a> |
+<a href="/dLife/do/ShowRegistration">Join Now</a> |
+
+
+
+
+
+
+
+<script language="JavaScript">
+//alert("widgets loogedin iuser null");  
+function isLoggedIn()
+{
+   return false;
+} 
+</script>
+
+
 
 
 
@@ -155,8 +177,18 @@ PRINT
 </div>
 
 <div id="dlife_icons">
+<a href="/dLife/do/ShowContent/dlife_media/tv/" title="Watch dLifeTV"><img src="/opencms/export/modImg/header/dlife_tv.gif" alt="dLifeTV" border="0"><br>
+Watch dLifeTV</a>
+</div>
+
+<div id="dlife_icons">
 <a href="/dLife/do/recipe/RecipeMain" title="Diabetic Recipes"><img src="/opencms/export/modImg/header/dlife_recipes.gif" alt="Diabetic Recipes" border="0"><br>
 Recipes</a>
+</div>
+
+<div id="dlife_icons">
+<a href="/dLife/do/ShowContent/food_and_nutrition/diabetes_diet.html" title="Diet"><img src="/opencms/export/modImg/header/dlife_diet.gif" alt="Diet" border="0"><br>
+Diet</a>
 </div>
 
 <div id="dlife_icons">
@@ -169,15 +201,11 @@ Support</a>
 dLife Wall</a>
 </div>
 
-<div id="dlife_icons">
-<a href="/dLife/do/expert/ShowExpertMain" title="Ask An Expert"><img src="/opencms/export/modImg/header/dlife_expert.gif" alt="Ask An Expert" border="0"><br>
-Ask An Expert</a>
+<div id="dlife_expert_icon">
+<a href="/dLife/do/expert/ShowExpertMain" title="Expert Answers"><img src="/opencms/export/modImg/header/dlife_expert.gif" alt="Expert Answers" border="0"><br>
+Expert Answers</a>
 </div>
 
-<div id="dlife_icons">
-<a href="/dLife/do/ShowContent/dlife_media/tv/" title="dLifeTV"><img src="/opencms/export/modImg/header/dlife_tv.gif" alt="dLifeTV" border="0"><br>
-dLifeTV</a>
-</div>
 
 <div id="dlife_icons">
 <a href="/dLife/do/ShowContent/dlife_media/downloads/podcasts.html" title="dLife Podcasts"><img src="/opencms/export/modImg/header/dlife_podcast.gif" alt="dLife Podcasts" border="0"><br>
@@ -185,15 +213,33 @@ Podcasts</a>
 </div>
 
 <div id="dlife_icons">
-<a href="/blog" title="Diabetes Blog"><img src="/opencms/export/modImg/header/dlife_blog.gif" alt="Diabetes Blog" border="0"><br>
-Blog</a>
-</div>
-
-<div id="dlife_icons">
-<a href="/dLife/do/ShowContent/resources/consumer/" title="Savings"><img src="/opencms/export/modImg/header/dlife_savings.gif" alt="Savings" border="0"><br>
+<a href="/dLife/do/ShowContent/resources/consumer/" title="Savings"><img src="/opencms/export/modImg/header/dlife_values.gif" alt="Savings" border="0"><br>
 Savings</a>
 </div>
 
+<div id="dlife_icons">
+<a href="/this-week-in-diabetes" title="This Week"><img src="/opencms/export/modImg/header/dlife_thisweek.gif" alt="This Week" border="0"><br>
+This Week</a>
+</div>
+
+<div id="dlife_icons">
+<script language="JavaScript">
+
+if(isLoggedIn())
+{
+	//alert("header isLoggedIn true");
+	document.write("<a href=\"/dLife/do/ShowProfile\">  <img src=\"/opencms/export/modImg/header/dlife_profile.gif\" alt=\"Support\" border=\"0\"><br>My Profile</a>   ");
+}
+else
+{
+	//alert("header isLoggedIn false");  
+	document.write("<a href=\"/dLife/do/ShowRegistration\">  <img src=\"/opencms/export/modImg/header/dlife_profile.gif\" alt=\"Support\" border=\"0\"><br>Join Now</a>   ");
+
+}
+
+</script><a href="/dLife/do/ShowRegistration">  <img src="/opencms/export/modImg/header/dlife_profile.gif" alt="Support" border="0"><br>Join Now</a>   
+
+</div>
 
 <div id="dlife_header_right_end">
 <img src="/opencms/export/modImg/header/dlife_end.gif" alt="" border="0">
@@ -203,11 +249,12 @@ Savings</a>
 
 <!-- /HEADER -->
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td id="Left_Container" valign="top">
+
+
+
+<div id="Left_Container">
 
 <!-- homepage search starts home_search.jsp --->
  
@@ -286,7 +333,7 @@ function setSearchOption()
 <input type="hidden" name="__locale" value="en">
 <input type="hidden" name="query" value="">
 <input type="text" style="width:175px; height:18px;" name="query2" value="">
-<br>
+
  <select name="search_option" style="width:115px; height:18px;" onchange="document.search_top.query2.focus();">
 			<option value="0">Information</option>
 			<option value="1">Recipes</option>
@@ -319,19 +366,19 @@ function setSearchOption()
 <ul>
 
 <ul id="cs0" style="display:inline">
-<li><a href="/" title="Diabetes">Home</a></li>
+<li><a href="http://www.dlife.com/" title="Diabetes">Home</a></li>
 </ul>
 
 
 <ul id="cs1" style="display:inline">
-<li><a href="/dLife/do/ShowContent/type1_information/" title="Type 1 Diabetes Information">Type 1 Information</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/type1_information/" title="Type 1 Diabetes Information">Type 1 Information</a></li>
 
 
 
 </ul>
 
 <ul id="cs2" style="display:inline">
-<li><a href="/dLife/do/ShowContent/type2_information/" title="Type 2 Diabetes Information">Type 2 Information</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/type2_information/" title="Type 2 Diabetes Information">Type 2 Information</a></li>
 
 
 
@@ -339,7 +386,7 @@ function setSearchOption()
 
 
 <ul id="cs3" style="display:inline">
-<li><a href="/dLife/do/ShowContent/gestational/" title="Gestational Diabetes">Gestational Diabetes</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/gestational/" title="Gestational Diabetes">Gestational Diabetes</a></li>
 
 
 
@@ -347,21 +394,21 @@ function setSearchOption()
 
 
 <ul id="cs4" style="display:inline">
-<li><a href="/dLife/do/ShowContent/blood_sugar_management/" title="Blood Sugar Management">Blood Sugar Management</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/blood_sugar_management/" title="Blood Sugar Management">Blood Sugar Management</a></li>
 
 
 
 </ul>
 
 <ul id="cs5" style="display:inline">
-<li><a href="/dLife/do/ShowContent/food_and_nutrition/" title="Food and Nutrition">Food and Nutrition</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/food_and_nutrition/" title="Food and Nutrition">Food and Nutrition</a></li>
 
 
 
 </ul>
 
 <ul id="cs6" style="display:inline">
-<li><a href="/dLife/do/ShowContent/inspiration_expert_advice/expert_columns/" title="Inspiration And Expert Advice">Inspiration And Expert Advice</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/inspiration_expert_advice/expert_columns/" title="Inspiration and Expert Advice">Inspiration and Expert Advice</a></li>
 
 
 
@@ -369,21 +416,21 @@ function setSearchOption()
 
 
 <ul id="cs7" style="display:inline">
-<li><a href="/dLife/do/ShowContent/dlife_media/" title="Watch, Listen, &amp; Learn">Watch, Listen, &amp; Learn</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/dlife_media/" title="Watch, Listen, &amp; Learn">Watch, Listen, &amp; Learn</a></li>
 
 
 
 </ul>
 
 <ul id="cs8" style="display:inline">
-<li><a href="/dLife/do/ShowContent/daily_living/" title="Daily Living">Daily Living</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/daily_living/" title="Daily Living">Daily Living</a></li>
 
 
 
 </ul>
 
 <ul id="cs9" style="display:inline">
-<li><a href="/dLife/do/ShowContent/resources/" title="Resources">Resources</a></li>
+<li><a href="http://www.dlife.com/dLife/do/ShowContent/resources/" title="Resources">Resources</a></li>
 
 
 
@@ -405,54 +452,29 @@ function setSearchOption()
 
 </div>
 <!-- End Menu -->
-<!-- dlife_tv.jsp starts  --->
-
-
-
-
-<div id="dlifeTV">
-<a href="/dLife/do/ShowContent/dlife_media/tv/tv_index.html"><img src="/opencms/export/modImg/buckets/left/dlife_tv/dlifetv_header.gif" alt="dLifeTV" border="0"></a>
-<a href="/dLife/do/ShowContent/dlife_media/tv/tv_index.html"><img src="/opencms/export/modImg/buckets/left/dlife_tv/dlifetv-image.gif" border="0" alt="Watch dLifeTV Online Now!"></a><br>
-<div id="dlifeTV_text">
-
-<strong>All new shows start June 25!</strong>
-<br><br>
-
-<strong>Sundays</strong><br>
-CNBC 7PM ET, 6PM CT, 4PM PT<br><br>
-
-<strong>Additional Airings</strong>:<br>
-<a href="/dLife/do/ShowContent/dlife_media/tv/dlifetv_on_colourstv.html#direct" title="dLifeTV on DirectTV 251">DirecTV 251</a><br>
-<a href="/dLife/do/ShowContent/dlife_media/tv/dlifetv_on_colourstv.html#dish" title="dLifeTV on Dish Network">Dish Network</a><br>
-<a href="/dLife/do/ShowContent/dlife_media/tv/dlifetv_on_colourstv.html" title="See the Full dLifeTV Schedule">See the Full dLifeTV Schedule</a>
 
 </div>
-</div>
-<!-- dlife_tv.jsp ends  --->
-</td>
 
-<td id="Main_Container" valign="top">
+<div id="Main_Container">
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
- <tbody><tr>	
-  <td><div id="page_header">Privacy Policy</div></td>
- </tr>								
- <tr>
-  <td>
+<div id="page_header">Privacy Policy</div>
+
   
   <div id="mainContentSource"><!-- for font-changer to change font sizes -->
   <div id="bodyContent"><!-- for print_window.jsp to print the current page -->
-  <p><strong>dLife Web Site Privacy Policy<br></strong>[Effective Date: January 14, 2005]</p><p>This Privacy Policy (“Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected through the web site of dLife, a service of LifeMed Media, Inc.&nbsp;(hereinafter, “dLife”, “we”, “us”, or “our”) located at <a target="_blank">www.dlife.com</a> (the “Site”).&nbsp; Please read this Privacy Policy carefully before using the Site. By using the Site, you (hereinafter, “you” or “user”) consent to our practices described herein. </p><blockquote dir="ltr" style="MARGIN-RIGHT: 0px"><p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us via this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of dLife and the authorized third parties referred to herein for the purposes described in this Privacy Policy.</strong></p></blockquote><p><strong>REVISIONS AND UPDATES.<br></strong>Our commitment to being a leading source of information regarding diabetes means that our business will continue to evolve as we introduce new services and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. As such, dLife reserves the right to change this Privacy Policy at any time. Should we modify this Privacy Policy, we will notify you by posting an updated version of the Privacy Policy on the Site. It is your responsibility to periodically check this page so that you are aware of what information we collect, how we use it, and under what circumstances we might disclose it. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. </p><p><strong>COLLECTION OF PERSONAL DATA.<br></strong>We collect Personal Data from you when you voluntarily choose to provide such information such as when you enter your Personal Data on our Site. Wherever we collect Personal Data we make an effort to provide a link to this Privacy Policy.&nbsp; So that we can provide you with content targeted to your needs and efficient online service, dLife may request information about you. Information we collect includes Personal Data such as names, postal addresses, and email addresses and demographic information such as age, gender, and zip code. We also may collect technical data such as your IP address, browser type, domain name, access times and referring Web site address. This information is collected both during member registration on the Site, when opting in to receive a newsletter, when opting in to receive special offers from dLife and/or dLife partners, when entering a dLife sweepstakes or contest, or when answering a survey. Personal Data collected via the Site will be available within the network of web sites operated by LifeMed Media&nbsp;, Inc. for use in accordance with the terms of this Privacy Policy.<br><br>From time-to-time we may give you the opportunity to opt-in to offers from unaffiliated third parties that we deem to be of potential value to you. You may also choose to opt-in to these offers on an ongoing basis when you sign up for dLife membership, and you may opt out of receiving them at any time. If you decide to opt-in to participate in these offers, we will provide your Personal Data to the third party. However, you should note that the third parties will not be bound by this Privacy Policy. Any Personal Data that you give and/or authorize us to give to another party will be governed by the rules of that party's privacy policy, which may differ from this Privacy Policy. dLife is not responsible for Personal Data given to other parties. Please review their privacy policies prior to providing any Personal Data to third parties and/or opting-in to permit us to disclose your Personal Data to third parties. <br><br><strong>WHAT WE DO WITH YOUR PERSONAL DATA.</strong><br>We may use Personal Data in order to display custom, personalized content to our visitors. We may also use Personal Data to send newsletters, emails, features, promotional material, surveys and other updates to users who opt in to receive information from dLife. A user may opt-out of receiving such information at any time. We also use this collected information to evaluate and administer our service, respond to any problems that may arise, and to determine user trends to analyze what part of our services are most popular with users.&nbsp; <br><br>We may use your Personal Data to extend you offers about third party products and/or services that may be of interest to you. However, except as otherwise disclosed in this Privacy Policy,&nbsp; we will not disclose your Personal Data to such parties without your prior consent. <br><br>We may occasionally generate reports for advertisers containing aggregate information about our users such as demographics and online usage trends. This allows us to provide content and advertiser offers that are most relevant and beneficial to our users. Except as otherwise disclosed herein, we will not include any Personal Data in these reports.<br><br>dLife allows users of our Site to send articles by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles after they are sent.<br><br><strong>SHARING YOUR PERSONAL DATA.</strong><br>In addition to the disclosures of Personal Data described above, there are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: <br><br><strong>Business Transfers:</strong> As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.&nbsp; <br><br><strong>Other Services Offered by LifeMed Media&nbsp;Inc.:</strong> We may also share your Personal Data within LifeMed Marketing LLC, including any other services and web sites offered by LifeMed Marketing LLC for purposes consistent with this Privacy Policy. <br><br><strong>Agents, Consultants and Related Third Parties:</strong> dLife sometimes hires other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we endeavor to provide them only with the information that they need to perform their specific function.</p><p><strong>Legal Requirements:</strong>&nbsp; dLife reserves the right to use or disclose your Personal Data without notice or consent as needed to comply with federal and state law; to conduct investigations of consumer complaints; to protect the integrity of our site; to protect the safety of our visitors or others; and to cooperate in any legal investigation.</p><p><strong>CONTROLLING YOUR PERSONAL DATA.</strong><br>A user may change, correct, modify, or delete any Personal Data they may have provided to dLife by visiting their member profile, accessible via the <strong>My Profile</strong> link from the dLife homepage. Users can also unsubscribe from any newsletters or opt out of various promotional emailings by following the directions contained in each mailing. </p><p><strong>COOKIES.</strong><br>Cookies are small text files that a web server may ask your web browser to store and to send back to the web server when needed. They allow you to take full advantage of the Site dLife website, and, as such, we recommend that you leave them turned on. </p><p>Cookies may be used to store a transaction identifier or other information a user may provide. We use cookies in the following ways:</p><p><em>Complex transactions:</em> Cookies are used to store and retrieve unique transaction identifiers or other server-generated or user-provided information in complex, multi-page web applications. This allows us to distinguish between different users, and to use information provided at one stage of an application at a later time (for instance, items placed in a 'shopping cart' might need to be displayed on a later 'check-out' screen). When we use cookies in this way, the cookie is stored on your web browser only temporarily; the cookie is destroyed at the end of the transaction or at the end of the browser session.</p><p><em>Customized Services:</em> Cookies may also be used to automatically identify a particular user to the system, in order to provide a customized service, such as a personalized web page. In this case, a cookie containing a unique user identifier will be permanently stored on your web browser. We do not store sensitive information in such cookies; only a unique user identifier or generic preference values are stored. Personal information you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server. Personal information that you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server, retained only as long as necessary and properly disposed of. dLife does not use cookies to keep a database of Personal Data about visitors, unless you choose to provide such information to us. <br><br><strong>VISITORS OUTSIDE OF THE UNITED STATES.</strong><br>The Site and the servers upon which this Site is hosted are located in the United States. All matters and material related to the Site is governed by the laws of the State of Connecticut in the United States. Any information users outside of the U.S. provide will be transferred to the United States, and by visiting this Site and submitting Personal Data and other information, you authorize this transfer.<br><br><strong>CHILDREN AND PRIVACY.</strong><br>dLife complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA is a federal law that protects the privacy of children using the Internet. The Site is directed at an adult market and is intended for use by adults only. We do not collect Personal Data from anyone under 13, nor do we allow children under 13 to participate in forums or chat rooms without prior verified parental consent.&nbsp;We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to dLife through this Site, please contact us, and we will endeavor to delete that information from our databases.</p><p><strong>STORAGE AND SECURITY OF YOUR PERSONAL DATA.</strong><br>We take reasonable steps to protect the security of your Personal Data. Since no data transmission over the Internet can be guaranteed to be totally secure, we do not promise that the Personal Data you provide to us will always be totally secure. Therefore, you should therefore take special care in deciding what information you send to us via the Internet. </p><p><strong>LINKS TO THIRD PARTY WEB SITES.</strong><br>dLife provides links to web sites outside of the Site. These linked sites are not under our control, and we are not responsible for the content of those web site or for the conduct of the companies operating those web sites. Before disclosing your Personal Data on any other web site, we advise you to examine the terms and conditions and privacy policy of those web sites. For more information concerning links to third party web sites, please see our User Agreement.</p><p><strong>EXCLUSIONS.</strong><br>This Privacy Policy shall not apply to any unsolicited information (such as comments and feedback) you provide to dLife through this Site and/or that you post to&nbsp; any public areas of the Site, such as bulletin boards (collectively, “Unsolicited Information”). All such Unsolicited Information shall be deemed to be non-confidential and dLife shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.&nbsp; You should be aware that if you voluntarily disclose Unsolicited Information online, that Unsolicited Information can be collected and used by others. For example, if you post your email address in chat rooms or online forums, you may receive unsolicited messages from others. dLife has no control over the use of Personal Data&nbsp; that you voluntarily post in public forums.</p><p><strong>USER AGREEMENT.<br></strong>Your access to and use of the Site requires acceptance of dLife’s User agreement. Read more about our User Agreement <a href="/dLife/do/ShowContent/policy/forum.html">here</a>.&nbsp;<br><br><strong>CONTACT INFORMATION</strong><br>If you have any questions about the dLife.com Privacy Policy, please email us at <a href="mailto:info@dlife.com">info@dlife.com</a>&nbsp; or contact us via U.S. mail at:<br><br><em>DLife<br>a LifeMed&nbsp;Media, Inc.&nbsp;Company<br>101 Franklin Street<br>Westport, CT 06880<br></em></p>
+  <p><strong>dLife Web Site Privacy Policy<br></strong>[Effective Date: January 14, 2005]</p><p>This Privacy Policy (“Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected through the web site of dLife, a service of LifeMed Media, Inc. (hereinafter, “dLife”, “we”, “us”, or “our”) located at <a target="_blank">www.dlife.com</a> (the “Site”).  Please read this Privacy Policy carefully before using the Site. By using the Site, you (hereinafter, “you” or “user”) consent to our practices described herein. </p><blockquote style="margin-right: 0px;" dir="ltr"><p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us via this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of dLife and the authorized third parties referred to herein for the purposes described in this Privacy Policy.</strong></p></blockquote><p><strong>REVISIONS AND UPDATES.<br></strong>Our commitment to being a leading source of information regarding diabetes means that our business will continue to evolve as we introduce new services and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. As such, dLife reserves the right to change this Privacy Policy at any time. Should we modify this Privacy Policy, we will notify you by posting an updated version of the Privacy Policy on the Site. It is your responsibility to periodically check this page so that you are aware of what information we collect, how we use it, and under what circumstances we might disclose it. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. </p><p><strong>COLLECTION OF PERSONAL DATA.<br></strong>We collect Personal Data from you when you voluntarily choose to provide such information such as when you enter your Personal Data on our Site. Wherever we collect Personal Data we make an effort to provide a link to this Privacy Policy.  So that we can provide you with content targeted to your needs and efficient online service, dLife may request information about you. Information we collect includes Personal Data such as names, postal addresses, and email addresses and demographic information such as age, gender, and zip code. We also may collect technical data such as your IP address, browser type, domain name, access times and referring Web site address. This information is collected both during member registration on the Site, when opting in to receive a newsletter, when opting in to receive special offers from dLife and/or dLife partners, when entering a dLife sweepstakes or contest, or when answering a survey. Personal Data collected via the Site will be available within the network of web sites operated by LifeMed Media , Inc. for use in accordance with the terms of this Privacy Policy.<br><br>From time-to-time we may give you the opportunity to opt-in to offers from unaffiliated third parties that we deem to be of potential value to you. You may also choose to opt-in to these offers on an ongoing basis when you sign up for dLife membership, and you may opt out of receiving them at any time. If you decide to opt-in to participate in these offers, we will provide your Personal Data to the third party. However, you should note that the third parties will not be bound by this Privacy Policy. Any Personal Data that you give and/or authorize us to give to another party will be governed by the rules of that party's privacy policy, which may differ from this Privacy Policy. dLife is not responsible for Personal Data given to other parties. Please review their privacy policies prior to providing any Personal Data to third parties and/or opting-in to permit us to disclose your Personal Data to third parties. <br><br><strong>WHAT WE DO WITH YOUR PERSONAL DATA.</strong><br>We may use Personal Data in order to display custom, personalized content to our visitors. We may also use Personal Data to send newsletters, emails, features, promotional material, surveys and other updates to users who opt in to receive information from dLife. A user may opt-out of receiving such information at any time. We also use this collected information to evaluate and administer our service, respond to any problems that may arise, and to determine user trends to analyze what part of our services are most popular with users.  <br><br>We may use your Personal Data to extend you offers about third party products and/or services that may be of interest to you. However, except as otherwise disclosed in this Privacy Policy,  we will not disclose your Personal Data to such parties without your prior consent. <br><br>We may occasionally generate reports for advertisers containing aggregate information about our users such as demographics and online usage trends. This allows us to provide content and advertiser offers that are most relevant and beneficial to our users. Except as otherwise disclosed herein, we will not include any Personal Data in these reports.<br><br>dLife allows users of our Site to send articles by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles after they are sent.<br><br><strong>SHARING YOUR PERSONAL DATA.</strong><br>In addition to the disclosures of Personal Data described above, there are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: <br><br><strong>Business Transfers:</strong> As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.  <br><br><strong>Other Services Offered by LifeMed Media Inc.:</strong> We may also share your Personal Data within LifeMed Marketing LLC, including any other services and web sites offered by LifeMed Marketing LLC for purposes consistent with this Privacy Policy. <br><br><strong>Agents, Consultants and Related Third Parties:</strong> dLife sometimes hires other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we endeavor to provide them only with the information that they need to perform their specific function.</p><p><strong>Legal Requirements:</strong>  dLife reserves the right to use or disclose your Personal Data without notice or consent as needed to comply with federal and state law; to conduct investigations of consumer complaints; to protect the integrity of our site; to protect the safety of our visitors or others; and to cooperate in any legal investigation.</p><p><strong>CONTROLLING YOUR PERSONAL DATA.</strong><br>A user may change, correct, modify, or delete any Personal Data they may have provided to dLife by visiting their member profile, accessible via the <strong>My Profile</strong> link from the dLife homepage. Users can also unsubscribe from any newsletters or opt out of various promotional emailings by following the directions contained in each mailing. </p><p><strong>COOKIES.</strong><br>Cookies are small text files that a web server may ask your web browser to store and to send back to the web server when needed. They allow you to take full advantage of the Site dLife website, and, as such, we recommend that you leave them turned on. </p><p>Cookies may be used to store a transaction identifier or other information a user may provide. We use cookies in the following ways:</p><p><em>Complex transactions:</em> Cookies are used to store and retrieve unique transaction identifiers or other server-generated or user-provided information in complex, multi-page web applications. This allows us to distinguish between different users, and to use information provided at one stage of an application at a later time (for instance, items placed in a 'shopping cart' might need to be displayed on a later 'check-out' screen). When we use cookies in this way, the cookie is stored on your web browser only temporarily; the cookie is destroyed at the end of the transaction or at the end of the browser session.</p><p><em>Customized Services:</em> Cookies may also be used to automatically identify a particular user to the system, in order to provide a customized service, such as a personalized web page. In this case, a cookie containing a unique user identifier will be permanently stored on your web browser. We do not store sensitive information in such cookies; only a unique user identifier or generic preference values are stored. Personal information you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server. Personal information that you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server, retained only as long as necessary and properly disposed of. dLife does not use cookies to keep a database of Personal Data about visitors, unless you choose to provide such information to us. <br><br><strong>VISITORS OUTSIDE OF THE UNITED STATES.</strong><br>The Site and the servers upon which this Site is hosted are located in the United States. All matters and material related to the Site is governed by the laws of the State of Connecticut in the United States. Any information users outside of the U.S. provide will be transferred to the United States, and by visiting this Site and submitting Personal Data and other information, you authorize this transfer.<br><br><strong>CHILDREN AND PRIVACY.</strong><br>dLife complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA is a federal law that protects the privacy of children using the Internet. The Site is directed at an adult market and is intended for use by adults only. We do not collect Personal Data from anyone under 13, nor do we allow children under 13 to participate in forums or chat rooms without prior verified parental consent. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to dLife through this Site, please contact us, and we will endeavor to delete that information from our databases.</p><p><strong>STORAGE AND SECURITY OF YOUR PERSONAL DATA.</strong><br>We take reasonable steps to protect the security of your Personal Data. Since no data transmission over the Internet can be guaranteed to be totally secure, we do not promise that the Personal Data you provide to us will always be totally secure. Therefore, you should therefore take special care in deciding what information you send to us via the Internet. </p><p><strong>LINKS TO THIRD PARTY WEB SITES.</strong><br>dLife provides links to web sites outside of the Site. These linked sites are not under our control, and we are not responsible for the content of those web site or for the conduct of the companies operating those web sites. Before disclosing your Personal Data on any other web site, we advise you to examine the terms and conditions and privacy policy of those web sites. For more information concerning links to third party web sites, please see our User Agreement.</p><p><strong>EXCLUSIONS.</strong><br>This Privacy Policy shall not apply to any unsolicited information (such as comments and feedback) you provide to dLife through this Site and/or that you post to  any public areas of the Site, such as bulletin boards (collectively, “Unsolicited Information”). All such Unsolicited Information shall be deemed to be non-confidential and dLife shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.  You should be aware that if you voluntarily disclose Unsolicited Information online, that Unsolicited Information can be collected and used by others. For example, if you post your email address in chat rooms or online forums, you may receive unsolicited messages from others. dLife has no control over the use of Personal Data  that you voluntarily post in public forums.</p><p><strong>USER AGREEMENT.<br></strong>Your access to and use of the Site requires acceptance of dLife’s User agreement. Read more about our User Agreement <a href="/dLife/do/ShowContent/policy/forum.html">here</a>. <br><br><strong>CONTACT INFORMATION</strong><br>If you have any questions about the dLife.com Privacy Policy, please email us at <a href="mailto:privacy_questions@dlife.com">privacy_questions@dlife.com</a>  or contact us via U.S. mail at:<br><br><em>dLife, a LifeMed Media, Inc. Company<br>101 Franklin Street<br>Westport, CT 06880<br>ATTN:  Michael Tedesco, Chief Technology Officer<br></em></p>
   </div><!-- "bodyContent" div ends here -->
-  </div><!-- "mainContentSource" div ends here -->		
-  </td>
- </tr>		
-</tbody></table>
+  </div><!-- end "mainContentSource" div -->
+</div>
+
+</div>
+</div>
 
 
-</td>
-</tr>
-</tbody></table>
+
+<div id="page_wrap_bottom"></div>
+
+
 
 
  
@@ -475,56 +497,35 @@ CNBC 7PM ET, 6PM CT, 4PM PT<br><br>
 <tbody><tr>
 <td>
 
-<script language="JavaScript" type="text/javascript">
-<!--
-function showRegistration()
-{ 
-  email = document.registration_signup.email_signup.value;
-  //alert(email);
-  if(email=="Sign Up For Email Newsletter")
-  {
-     email=" ";
-   }
-  document.registration_signup.action="/dLife/do/ShowRegistration?emailSignUp=" + email;
-  document.registration_signup.submit();
-}
 
-//-->
-</script>
-<div id="footer_search">
-<form name="registration_signup" action="javascript:showRegistration();" method="post">
-  <input type="text" size="30" name="email_signup" value="Sign Up For Email Newsletter" onfocus="this.value='';" class="navsmall" style="width: 200px; height:20px; color: #06c; margin-top: 0px; padding-top: 0px;">
-  <input type="image" src="/opencms/export/modImg/global/sign_up_btn.gif" name="signup" border="0" alt="Sign Up for Email Newsletter" class="search_btn" onclick="javascript:showRegistration();">
-</form>
-</div>
 <div class="bottomNavLine">
-    <a href="/dLife/do/ShowContent/about_dlife/" title="About dLife">About dLife</a> | 
-    <a href="/dLife/do/ShowContent/type1_information/" class="navLink1" title="Type 1 Diabetes">Type 1 Diabetes</a> | 
-    <a href="/dLife/do/ShowContent/type2_information/" class="navLink1" title="Type 2 Diabetes">Type 2 Diabetes</a> | 
-    <a href="/dLife/do/ShowContent/blood_sugar_management/testing/" class="navLink1" title="Blood Sugar Management">Blood Sugar Management</a> |
-    <a href="/dLife/do/ShowContent/gestational/" class="navLink1" title="Gestational Diabetes">Gestational Diabetes</a>
+    <a href="http://www.dlife.com/dLife/do/ShowContent/about_dlife/" title="About dLife">About dLife</a> | 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/type1_information/" class="navLink1" title="Type 1 Diabetes">Type 1 Diabetes</a> | 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/type2_information/" class="navLink1" title="Type 2 Diabetes">Type 2 Diabetes</a> | 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/blood_sugar_management/testing/" class="navLink1" title="Blood Sugar Management">Blood Sugar Management</a> |
+    <a href="http://www.dlife.com/dLife/do/ShowContent/gestational/" class="navLink1" title="Gestational Diabetes">Gestational Diabetes</a>
 </div>
 
 <div class="bottomNavLine">
-    <a href="/dLife/do/ShowContent/food_and_nutrition/" class="navLink1" title="Food and Recipes">Food &amp; Recipes</a> | 
-    <a href="/dLife/do/JForumWrapper?module=forums&amp;action=list" class="navLink1" title="Support Foruns">Support Forums</a> | 
-    <a href="/dLife/do/ShowContent/resources/consumer/" class="navLink1" title="Saving Money">Saving Money</a> | 
-    <a href="/dLife/do/ShowContent/resources/dlife_diabetes_locator/" class="navLink1" title="Local Resources">Local Resources</a> | 
-    <a href="/dLife/do/ShowContent/diabetes_news/news_archive_index.html" class="navLink1" title="News">News</a> | 
-    <a href="/dLife/do/ShowContent/diabetes_news/research_update/" class="navLink1" title="Diabetes Research">Diabetes Research</a> 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/food_and_nutrition/" class="navLink1" title="Food and Recipes">Food &amp; Recipes</a> | 
+    <a href="http://www.dlife.com/dLife/do/JForumWrapper?module=forums&amp;action=list" class="navLink1" title="Support Foruns">Support Forums</a> | 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/resources/consumer/" class="navLink1" title="Saving Money">Saving Money</a> | 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/resources/dlife_diabetes_locator/" class="navLink1" title="Local Resources">Local Resources</a> | 
+    <a href="http://www.dlife.com/diabetes-news/" class="navLink1" title="News">News</a> | 
+    <a href="http://www.dlife.com/dLife/do/ShowContent/diabetes_news/research_update/" class="navLink1" title="Diabetes Research">Diabetes Research</a> 
     
 </div>
 
 <div class="bottomNavLine">
-<a href="/" class="navLink1" title="Diabetes">Home</a> | <a href="/dLife/do/ShowContent/policy/privacy.html" target="_blank" title="Privacy Policy">Privacy Policy</a> | <a href="/dLife/do/ShowContent/policy/editorial.html" target="_blank" title="Editorial Policy">Editorial Policy</a> | <a href="/dLife/do/ShowContent/disclaimer/" target="_blank" title="Disclaimer">Disclaimer</a> | <a href="mailto:support@dlife.com" title="Customer Support">Customer Support</a> |  
+<a href="http://www.dlife.com/" class="navLink1" title="Diabetes">Home</a> | <a href="http://www.dlife.com/dLife/do/ShowContent/policy/privacy.html" target="_blank" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.dlife.com/dLife/do/ShowContent/policy/editorial.html" target="_blank" title="Editorial Policy">Editorial Policy</a> | <a href="http://www.dlife.com/dLife/do/ShowContent/disclaimer/" target="_blank" title="Disclaimer">Disclaimer</a> | <a href="mailto:support@dlife.com" title="Customer Support">Customer Support</a> |  
   
     		
-    <a href="/dLife/do/ShowLogin/" title="Login">Login</a></div>
+    <a href="http://www.dlife.com/dLife/do/ShowLogin/" title="Login">Login</a></div>
   
   <div class="copyrightFooter">Copyright © 2004-2006 LifeMed Media, Inc. All Rights Reserved.</div>
 
 
-<script src="/opencms/opencms/system/modules/com.gto.cms/resources/__utm.js" type="text/javascript"></script><script language="JavaScript1.5">_ujv='1.5';</script>
+
 <!-- SiteCatalyst code version: H.2.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
@@ -540,6 +541,16 @@ s.eVar2 = get_query_variable('sc_int_cid');
 s.eVar3 = get_query_variable('sc_chid');
 s.eVar4 = get_query_variable('sc_pid');
 s.eVar5 = get_query_variable('sc_aid');
+
+
+
+s.prop1= "Anonymous";
+
+
+
+
+
+
 
 path = document.URL.replace('http://' + document.domain, '').replace('|', '');
 
