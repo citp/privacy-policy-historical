@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001847id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230082513id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Web.com: Privacy Policy
 
@@ -24,4 +24,4 @@ Users may direct questions concerning this Privacy Policy by email to [privacy@c
 
 Web.com may modify this privacy policy at any time without prior notice to Web.com's Customers or the public.  Persons wishing to remain appraised of Web.com's privacy policy should check this page for occasional updates.
 
-Users may elect not to receive solicitations from Web.com or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](https://web.archive.org/web/20060615001847id_/http%3A//www.web.com/web-hosting-provider/optout.aspx).
+Users may elect not to receive solicitations from Web.com or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](https://web.archive.org/web/20061230082513id_/http%3A//www.web.com/web-hosting-provider/optout.aspx).
