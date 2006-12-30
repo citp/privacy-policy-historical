@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arestravel.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626020441id_/http%3A//shop.arestravel.com/77/-/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arestravel.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230071639id_/http%3A//shop.arestravel.com/77/-/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ARESTravel.com - Web
 
