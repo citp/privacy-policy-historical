@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315212130id_/http%3A//www.unify.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230131631id_/http%3A//www.unify.com/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # Unify Corporation | Company
 
