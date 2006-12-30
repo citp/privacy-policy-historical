@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024827id_/http%3A//www.ipipi.com/help/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230072324id_/http%3A//www.ipipi.com/help/privacy_policy.htm) for the most accurate reproduction.*
 
 # Send SMS Text Messages :: Privacy Policy
 
@@ -47,7 +47,7 @@ iPiPi is a service provided by Upside Wireless Inc. (Upside), located at Suite 5
   * You can edit your iPiPi account information, including your preferences at any time.
   * New categories of marketing communications may be added from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
   * We reserve the right to send you certain communications relating to the iPiPi service, such as service announcements, administrative messages and the iPiPi Newsletter, that are considered part of your iPiPi account, without offering you the opportunity to opt-out of receiving them.
-  * You can delete your iPiPi account by visiting the [feedback form](https://web.archive.org/CUEdit.do) page and requesting that your account be deleted.  Please make sure that you include your iPiPi account name in this request.
+  * You can delete your iPiPi account by visiting the [feedback form](https://web.archive.org/web/20061230072324id_/http%3A//www.ipipi.com/ContactUs.jsp) page and requesting that your account be deleted.  Please make sure that you include your iPiPi account name in this request.
 
 
 
@@ -68,6 +68,6 @@ iPiPi is a service provided by Upside Wireless Inc. (Upside), located at Suite 5
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/CUEdit.do) or you can [contact us here](https://web.archive.org/CUEdit.do)
+  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20061230072324id_/http%3A//www.ipipi.com/ContactUs.jsp) or you can [contact us here](https://web.archive.org/web/20061230072324id_/http%3A//www.ipipi.com/ContactUs.jsp)
 
 
