@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savefile.com privacy policy that was archived on 2006-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060424171031id_/http%3A//savefile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savefile.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230203900id_/http%3A//www.savefile.com/privacy.php) for the most accurate reproduction.*
 
 # Free file hosting by Savefile.com
 
