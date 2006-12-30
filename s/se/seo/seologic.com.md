@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011541id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230065802id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - SEO Logic® Search Engine Optimization and Placement Services
 
@@ -47,4 +47,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 You can request that we delete your information by [emailing us](http://www.seologic.com/contact.php).
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 312.435.5452 or send us email by clicking [here](http://www.seologic.com/contact.php).
+Should you have other questions or concerns about these privacy policies, please call us at (877) 735-6442 or send us email by clicking [here](http://www.seologic.com/contact.php).
