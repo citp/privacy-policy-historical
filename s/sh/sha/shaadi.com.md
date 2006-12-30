@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612031557id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230091114id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
@@ -62,9 +62,14 @@ Shaadi.com gathers two types of information:
 2\. Information not directly submitted. 
 
   * Information users submitMEMBERS  
-There are two types of user-submitted information we collect: Public and Private. We define Public information as personal information that may be displayed on the site at the behest of the member, such as gender, age, height, photograph, etc. Private information is defined as any information that allows others to contact a user other than through Shaadi.com or allows the collection of information about the user other than what is displayed on the site.Public: To accomplish our goal of bringing compatible people together, we must gather personal information, which may or may not include: customer-specified Shaadi.com username, gender, age, religion, income range, occupation, preference/lifestyle information, general geographic location, photograph, videos and horoscope.Private:This information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: email address, first name, last name, credit card number or checking account information for payment, a user-specified password, mailing address, zip code and telephone number.
+There are two types of user-submitted information we collect: Public and Private. We define Public information as personal information that may be displayed on the site at the behest of the member, such as gender, age, height, telephone number, photograph, etc. Private information is defined as any information that allows others to contact a user other than through Shaadi.com or allows the collection of information about the user other than what is displayed on the site.Public: To accomplish our goal of bringing compatible people together, we must gather personal information, which may or may not include: customer-specified Shaadi.com username, gender, age, religion, income range, occupation, telephone number, preference/lifestyle information, general geographic location, photograph, videos and horoscope.Private:This information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: email address, first name, last name, credit card number or checking account information for payment, a user-specified password, mailing address, zip code and telephone number.
 
 Shaadi.com also allows members to submit public and private information on behalf of others - child/ward, sibling or friend. If such child/ward, sibling or friend does not wish this information to be displayed, she/he has the option to request removal of such information after providing the necessary evidence that the information pertains to her/him.
+
+**CO-REGISTRATION:** When you register with www.shaadi.com you have the option of allowing us to share your information with either (or both) of our partner sites: Astrolife.com and Fropper.com. When you opt-in to share your information with these partners, you are agreeing to allow us to share your personally identifiable information with either or both of these partners. Once you have opted in to share your information during the co-registration process, you should refer to the privacy policies of the partner sites for more information on their privacy practices.  
+  
+ [Astrolife.com - Privacy Policy](http://www.astrolife.com/help/privacy-policy.php)  
+ [Fropper.com - Privacy Policy](http://www.fropper.com/help/policy.php)
 
 SURVEYS & CONTESTS: From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, and age).SHAADI.COM AFFILIATE PARTNERS: The Affiliate Partner program is a vehicle for other websites to link to Shaadi.com. No personal member information is exchanged with the Affiliate Partner.
   * Information not directly submitted
@@ -79,7 +84,7 @@ AGGREGATE: This is information we collect that is not personally identifiable, s
 Shaadi.com uses the information it collects in the following ways: 
 
   * Information users submitMEMBERS  
-Public: Public information supplied by members is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc (except photograph, posting of which is voluntary).Private: We primarily use member's email addresses to verify enrollment and to send system emails on behalf of other members. Email addresses are not disclosed to members. We may also use user's email address to send news regarding our site, but the users may choose not to receive such emails by unsubscribing. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and is not disclosed except as required by law or to protect members of Shaadi.com. All private information can be updated or deleted by the user at any time, as follows:-Updating public information:
+Public: Public information supplied by members is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc (except photograph, posting of which is voluntary). All members also have an option to post their telephone number. The members can choose to display the telephone number to premium members only. This display preference can be changed anytime by the member by visiting the [My Contact Details](https://web.archive.org/my_shaadi/contact-details.php) page and opting not to display the telephone number and other contact details to other members. Only premium members can view telephone number(s) of other members who have opted to show their contact details to premium members.Private: We primarily use member's email addresses to verify enrollment and to send system emails on behalf of other members. Email addresses are not disclosed to members. We may also use user's email address to send news regarding our site, but the users may choose not to receive such emails by unsubscribing. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and is not disclosed except as required by law or to protect members of Shaadi.com. All private information can be updated or deleted by the user at any time, as follows:-Updating public information:
     * Login to your Shaadi.com account
     * Click on My Profile
     * Use Edit options in the page to update relevant information and submit
@@ -151,7 +156,7 @@ Shaadi.com allows you to modify or remove both public and private information fr
   
   
 |  7\.   How will I know of changes in Shaadi.com privacy policy?  
-If we change our privacy policy, we will prominently post a link to those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify you by way of an email. We will give you a choice as to whether or not we can use information in this different manner and act accordingly. |   
+If we make a material change to our privacy policy, we will prominently post a link to those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify you by way of an email. We will give you a choice as to whether or not we can use information in this different manner and act accordingly. |   
   
   
 | Back to top |   
@@ -185,8 +190,7 @@ Occasionally, we may also send you:
 * Announcements of special events which Shaadi.com is associated with; or
 * Special offers from partner sites, which we believe are useful for you.
 
-As a Shaadi.com member, you are automatically subscribed to all of the above, as an integral part of our matchmaking services to you. However, at any time, you may choose to manage your subscriptions to one or more of the above (except Contact Alert). All our emails will carry a link to help you do this. You can also independently manage your email subscription using the  
-[My Email Manager](https://web.archive.org/my_shaadi/my-emails.php) option.
+As a Shaadi.com member, you are automatically subscribed to all of the above, as an integral part of our matchmaking services to you. However, at any time, you may choose to manage your subscriptions to one or more of the above (except Contact Alert). All our emails will carry a link to help you do this. You can also independently manage your email subscription using the [My Alert Manager](https://web.archive.org/my_shaadi/my-emails.php) option.
 
 We reiterate that we will never sell / rent out your email address to any third party, unless you expressly permit us to do so. In fact, we do not allow ANYONE to see your email address, not even other Shaadi.com members.
 
@@ -202,7 +206,7 @@ People Interactive (I) Pvt Ltd
 Shiv-e-Numh  
 205, Dr Annie Besant Road  
 Worli, Mumbai 400 018  
-Phone: (91-22) 2495 2277  |   
+Phone: +91-22-24952277  |   
   
   
 | Back to top |   
