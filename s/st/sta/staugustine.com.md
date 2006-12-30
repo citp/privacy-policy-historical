@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163808id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230204054id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
 
 # staugustine.com: the oldest city's home on the Net
 
