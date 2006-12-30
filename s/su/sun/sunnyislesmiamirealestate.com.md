@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627124110id_/http%3A//sunnyislesmiamirealestate.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230045853id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.asp) for the most accurate reproduction.*
 
-# Real Estate & Mls in Miami, Sunny Isles, Fort Lauderdale, Preconstruction Investing in Condos
+# Miami Real Estate & Mls, Sunny Isles Real Estate, Preconstruction Miami Condos
 
 |   
   [ **About Us**](https://web.archive.org/Aboutus.asp)   
   [ **Articles & News**](https://web.archive.org/Articles.asp)   
-  [ **Search MLS**](https://web.archive.org/miami-mls.asp)   
+  [ **Miami MLS Search**](https://web.archive.org/miami-mls.asp)   
+  [ **Ft. Lauderdale MLS**](https://web.archive.org/Fort-Lauderdale-mls.asp)   
   [ **Sell Your Property**](https://web.archive.org/Sell_Your_Property.asp)   
-  [ **Top 50 Properties**](https://web.archive.org/Top50Properties.asp?OrderBy=Price&SortDir=Asc&SW1=1)   
+  [ **100 Most Recent Sales**](https://web.archive.org/Miami_Real_Estate_Sold.asp)   
+  [ **100 Most Expensive**](https://web.archive.org/Miami_Real_Estate_For_Sale.asp)   
   [ **Market Analysis**](https://web.archive.org/Market_Analysis.asp)   
-  [ **Pre-Construction**](https://web.archive.org/PreConstruction.asp)   
+  [ **Miami PreConstruction**](https://web.archive.org/PreConstruction.asp)   
   [ **Foreign Investors**](https://web.archive.org/Foreign-Investors.asp)   
   [ **Property Search**](https://web.archive.org/Property_Search.asp)   
   [ **Mortgage Center**](https://web.archive.org/Mortgage_Center.asp)   
@@ -17,14 +19,19 @@
   [ **Disclaimer**](https://web.archive.org/Disclaimer.asp)   
   [ **Your Privacy**](https://web.archive.org/Privacy.asp)   
   [ **Site Map**](https://web.archive.org/Site_Map.asp)   
-  [ **Contact Us**](https://web.archive.org/ContactUs.asp)   
+  [ **Contact Us**](https://web.archive.org/contactus.asp)   
   [ **Newsletter**](https://web.archive.org/Newsletter.asp)   
-  [ **Resources**](https://web.archive.org/Resources/)   
+  [ **Resources**](https://web.archive.org/Resources/)  
 
 
 |   
 ---  
   
+[](https://web.archive.org/Newsletter.asp)  
+---  
+|  Sign up to receive our [ _newsletter_](https://web.archive.org/Newsletter.asp). Find out about Miami real estate & MLS, preconstruction condos, latest news, articles, recent sales and more.   
+  
+---  
 |  |  |  |   |    
 |  |  **Privacy Policy**  
 ---|---  
@@ -62,7 +69,7 @@ SunnyRealtyFL.com contain links to other websites that are not operated by Sunny
 
 **Contact SunnyRealtyFL.com**
 
-SunnyRealtyFL.com is the sole operator of the electronic web pages known as SunnyRealtyFL.com and are Š Copyright 2004-2005 by SunnyRealtyFL.com. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
+SunnyRealtyFL.com is the sole operator of the electronic web pages known as SunnyRealtyFL.com and are © Copyright 2004-2005 by SunnyRealtyFL.com. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
 
 **Mailing Address:**   
 SunnyRealtyFL.com.  
@@ -78,9 +85,13 @@ Sunny Isles Beach, FL 33160
 **Fax:**  
 305-935-1301
 
-**General Feedback:** [ _feedback@SunnyRealtyFL.com ___](mailto:feedback@SunnyRealtyFL.com)
+**General Feedback:** [ _feedback@SunnyRealtyFL.com_](mailto:feedback@SunnyRealtyFL.com)
 
- _ _  
-Effective Date: 6/27/2006 __  
-|    
-| 
+  
+Effective Date: 12/29/2006   
+  
+  
+|  |  |   
+---|---  
+  
+
