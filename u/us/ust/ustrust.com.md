@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518031829id_/http%3A//www.ustrust.com/public/ustrust/global_pages/privacy.html%3Fcmsid%3DP-453212%26lvl1%3Dglobal_pages%26refid%3DP-420932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230154723id_/http%3A//www.ustrust.com/public/ustrust/global_pages/privacy.html%3Fcmsid%3DP-453212%26lvl1%3Dglobal_pages%26refid%3DP-420932) for the most accurate reproduction.*
 
 # Privacy
 
@@ -53,13 +53,13 @@ We collect personal information about you in a number of ways.
   * **Application and registration information.** We collect information from you when you open an account or register for one of our services, such as our client web site, or use one of our wealth consulting services, such as financial or estate planning. We may also collect information from consumer reporting agencies to verify your identity in the account-opening process or if you apply for any type of lending arrangement. The information we collect may include your name, address, phone number, email address, Social Security number, and date of birth, as well as details about your interests, investments, and investment experience. 
   * **Transaction and experience information.** Once you have opened an account with us, we collect and maintain personal information about your account activity, including your transactions, balances, account positions, and account history. This information allows us to administer your account and provide the services you have requested. 
   * **Third-party information providers.** We may collect information about you from information services and consumer reporting agencies to verify your identity, employment, or creditworthiness, or to better understand your financial needs. 
-  * **W** **eb site usage.** When you visit our web site, our computer may use devices known as “cookies,” graphic interchange format files (GIFs), or other similar web tools to enhance your web experience. These tools enable us to recognize you when you return to our site, and to maintain your web session while you browse throughout the site, as well as help us provide you with a better, more personalized experience. Cookies do not, standing alone, identify you as an individual by name or account number; they merely recognize your browser. 
+  * **W** **ebsite usage.** When you visit our website, our computer may use devices known as “cookies,” graphic interchange format files (GIFs), or other similar web tools to enhance your web experience. These tools enable us to recognize you when you return to our site, and to maintain your web session while you browse, as well as help us provide you with a better, more personalized experience at U.S. Trust. To learn more about our policies regarding using our website and the use of web tools, please visit www.ustrust.com/public/ustrust/global_pages/privacy.html. 
 
 
 
 How We Share Information About You Within the U.S. Trust Family  
 of Companies   
-The U.S. Trust family of companies consists of a number of banking, brokerage, investment advisory, and related companies (often referred to as "affiliates") such as, United States Trust Company, National Association and UST Securities Corp. 
+The U.S. Trust family of companies consists of a number of banking, brokerage, investment advisory, and related companies (often referred to as "affiliates"), such as United States Trust Company, National Association and UST Securities Corp. 
 
 Many clients do business or have relationships with more than one U.S. Trust affiliate, creating an efficient, comprehensive wealth management relationship to meet individual client needs. We share client information among U.S. Trust affiliates to:
 
@@ -68,7 +68,7 @@ Many clients do business or have relationships with more than one U.S. Trust aff
 
 
 
-You may instruct us not to share information about you with other U.S. Trust affiliates for certain purposes, as explained under **How to Limit the Sharing of Information About You**. 
+You may instruct us not to share information about you with other U.S. Trust affiliates for certain purposes, as explained under "How to Limit the Sharing of Information About You". 
 
 How We Share Information About You Outside of the U.S. Trust Family   
 of Companies   
@@ -80,23 +80,25 @@ U.S. Trust provides access to information about you to outside companies and oth
 
 
 
-U.S. Trust is part of The Charles Schwab family of financial services companies that are owned by our parent, The Charles Schwab Corporation. U.S. Trust does not share information about you with these companies for marketing purposes, unless you express interest in specific products or services and instruct us to do so. 
+U.S. Trust is part of The Charles Schwab family of financial services companies that are owned by our parent, The Charles Schwab Corporation. U.S. Trust does not share information about you with these companies for marketing purposes, unless you express interest in specific products or services, and instruct us to do so. 
 
 How to Limit the Sharing of Information About You   
-If you prefer, you may choose to limit the information we share about you with other U.S. Trust affiliates. Specifically, you may instruct us:
+If you prefer, you may choose to limit the information we share about you with other U.S. Trust affiliates. Specifically:
 
-  * Not to share with our affiliates consumer reports and other personal information about you that may be used to determine your eligibility for credit (for example, information about your income, profession, or employment status); 
+  * You may instruct us not to share with our affiliates consumer reports and other personal information about you that may be used to determine your eligibility for credit (for example, information about your income, profession, or employment status); 
   * You may exercise this choice by contacting your client relationship officer; 
-  * Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as any accounts you may have with any other U.S. Trust affiliate with whom you have a relationship. If you have an account at another company within The Charles Schwab Corporation, you will receive a separate privacy notice from them which will tell you how they share information about you and how you can limit their ability to do so; 
+  * Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as any accounts you may have with any other U.S. Trust affiliate with whom you have a relationship. If you have an account at another company within The Charles Schwab Corporation, you will receive a separate privacy notice from it which will tell you how it shares information about you and how you can limit its ability to do so; 
   * Joint account holders may instruct us on behalf of another account holder; and 
   * You may make your privacy choice at any time and it will remain in effect until you change it. 
 
 
 
-If you choose to limit these types of information sharing, we may continue to share information that identifies you (such as your name and Social Security number), as well as information about your transactions and experiences with us. In addition, our affiliates may continue to use information they receive from us to perform services on our behalf, to respond to communications from you, as you authorize or request, or, if you are their customer, to offer you products or services. We may also continue to share information about you with outside companies as permitted or required by law. 
+If you choose to limit these types of information sharing, we may continue to share information with our affiliates that identifies you (such as your name and Social Security number), as well as information about your transactions and experiences with us. In addition, our affiliates may continue to use information they receive from us to perform services on our behalf, to respond to communications from you, as you authorize or request, or if you are their customer, to offer you products or services. We may also continue to share information about you with outside companies as permitted or required by law. 
 
 State Laws   
 We will comply with state laws that apply to the disclosure or use of information about you. For example, if your address is in Vermont, we will automatically limit information sharing as described in “How to Limit the Sharing of Information About You” without your having to advise us of this privacy choice. 
+
+The following notice is required to be made under Nevada law to all clients with a Nevada mailing address. At any time, you may request to be placed on our internal "do not call" list. You may do so by calling or emailing your client relationship officer or mailing your request to the Privacy Officer, United States Trust Company, N.A., 114 West 47th Street, New York, NY 10036. Clients from any state may also request to be placed on U.S. Trust's "do not call" list by calling or emailing their client relationship officer or mailing their request to the Privacy Officer at the above address. For more information about the Nevada "do not call" notice requirement, you may also contact the Nevada Attorney General, 555 Washington Street, Suite 3900, Las Vegas, NV 89101; Phone: 702-486-3132; Email: BCPINFO@ag.state.nv.us.
 
 Safeguarding Your Information, Maintaining Your Trust   
 We take precautions to ensure the information we collect about you is protected and is accessed only by authorized individuals or organizations.
@@ -111,7 +113,7 @@ We maintain physical, electronic, and procedural safeguards to protect non-publi
 Identity theft is a serious concern for all of us. Safeguarding information to help protect you from identity theft is our priority. U.S. Trust takes steps to protect you from identity theft by:
 
   * Utilizing client identification and authentication procedures before initiating transactions; 
-  * Creating a secure transmission connection to our U.S. Trust web sites. You will see the padlock in the lower right corner of your browser's frame indicating it is a secure site; and 
+  * Creating a secure transmission connection to our U.S. Trust websites. You will see the padlock in the lower right corner of your browser's frame indicating it is a secure site; and 
   * Ensuring our employees are trained to safeguard personal information about you. 
 
 
@@ -124,6 +126,8 @@ You can also help protect your identity and accounts. Here are a few steps to re
 
 
 
+To learn more about our policies regarding using our website and the use of web tools, please visit www.ustrust.com/public/ustrust/global_pages/privacy.html.  
+  
 Greater Accuracy Means Better Protection   
 We are committed to keeping accurate, up-to-date records to help ensure the integrity of the information we maintain about you. If you identify an inaccuracy in this information, or you need to make a change to it, please contact your client relationship officer. 
 
@@ -132,6 +136,9 @@ We will provide you with advance notice of important changes to our information-
 
 Contact Us With Questions  
 If you have any questions or concerns, please contact your client relationship officer.
+
+© 2006 United States Trust Company, National Association. All rights reserved.  
+506EG/063                                                                 REG11000UST-06(06/06)
 
 Online Privacy and Information Security  
 
@@ -336,7 +343,7 @@ There are many phishing attacks active on the Internet. Here are a few of their 
 
 
 Learn More About Phishing Scams or Identity Theft   
-Additional information can be found at **[www.antiphishing.org](https://web.archive.org/web/20060518031829id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.antiphishing.org%20?refid=P-1189203&refpid=P-453212)** or [**www.consumer.gov/idtheft/**](https://web.archive.org/web/20060518031829id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.consumer.gov/idtheft/?refid=P-1189204&refpid=P-453212)
+Additional information can be found at **[www.antiphishing.org](https://web.archive.org/web/20061230154723id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.antiphishing.org%20?refid=P-1189203&refpid=P-453212)** or [**www.consumer.gov/idtheft/**](https://web.archive.org/web/20061230154723id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.consumer.gov/idtheft/?refid=P-1189204&refpid=P-453212)
 
 How to Report a Phishing Attack   
 If you suspect you have received a fraudulent email from U.S. Trust Corporation or any of its subsidiary companies, please contact: [Privacy@ustrust.com](mailto:privacy@ustrust.com?refid=P-1189206&refpid=P-453212). If you believe that any communications with or from U.S. Trust resulted in identity theft, call us immediately at 1-800-USTRUST.
@@ -383,7 +390,7 @@ Fullerton, CA
 Other Resources to Learn More about Identity Theft: 
 
 Federal Trade Commission - Internet Fraud --  
-**[www.onguard.online.gov](https://web.archive.org/web/20060518031829id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.onguard.online.gov?refid=P-1189220&refpid=P-453212)   
+**[www.onguard.online.gov](https://web.archive.org/web/20061230154723id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.onguard.online.gov?refid=P-1189220&refpid=P-453212)   
 **  
 Federal Trade Commission - ID Theft --  
 **[www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm](http://www.ustrust.com/redirect/?refid=P-629729&refpid=P-453212&url=http://www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm?)**
@@ -400,7 +407,7 @@ Social Security Administration --
 **[www.ssa.gov/oig/guidelin.htm](http://www.ustrust.com/redirect/?refid=P-629734&refpid=P-453212&url=http://www.ssa.gov/oig/guidelin.htm?)**
 
 Justice Department --  
-**[www.usdoj.gov/criminal/fraud/idtheft.html](https://web.archive.org/web/20060518031829id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.usdoj.gov/criminal/fraud/idtheft.html?refid=P-1189231&refpid=P-453212)  
+**[www.usdoj.gov/criminal/fraud/idtheft.html](https://web.archive.org/web/20061230154723id_/http%3A//www.ustrust.com/public/ustrust/global_pages/www.usdoj.gov/criminal/fraud/idtheft.html?refid=P-1189231&refpid=P-453212)  
 **  
 Postal Inspection Service --  
 **[www.usps.com/websites/depart/inspect](http://www.ustrust.com/redirect/?refid=P-629741&refpid=P-453212&url=http://www.usps.com/websites/depart/inspect/?)  
@@ -412,3 +419,5 @@ Postal Inspection Service --
 2\. Reimbursement under the guarantee requires your timely reporting of unauthorized activity to U.S. Trust. U.S. Trust will not be liable for additional or increased losses resulting from a failure to report unauthorized activity in a timely manner. Different transactions have different reporting deadlines. More details are available in your account agreements, statements and trade confirmations.
 
 3\. This applies to third parties (who are not U.S. Trust employees or U.S. Trust companies), including the employees or agents of any business or any investment advisor to whom you have granted authority of any type over your account. This includes authority to manage your account, and any other power of attorney you may have granted. This applies to activity by your employer and their employees, representative or agent which have authority to access your Employee Benefit Plan Account. U.S. Trust will also not be liable for the failure of those third parties to safeguard your information or access to your account.
+
+_Copyright © United States Trust Company, National Association. All Rights Reserved_.
