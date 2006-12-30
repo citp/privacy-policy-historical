@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202042id_/http%3A//cloncom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230040402id_/http%3A//cloncom.com/privacy) for the most accurate reproduction.*
 
 # Calling Cards: Your Phone Card & International Calling Cards Source.
 
@@ -43,7 +43,7 @@ USA | [](http://www.truste.org/ivalidate.php?url=www.cloncom.com&sealid=101)
 
 When we obtain personal information as part of our direct relationship with you, we will not share this information with any third parties, except in the following circumstances: 
 
-\- In accordance with the this Privacy Policy   
+\- In accordance with this Privacy Policy  
 \- To comply with federal, state and local laws, including credit reporting laws and card association rules **  
 ** \- To combat fraud ********Since your needs may change, and Cloncom continuously develops new products and services, we may contact you to determine if we can provide you with additional services. Most of our customers appreciate hearing about our new products and services and prefer that we continue to contact them. If you would prefer not to be contacted, you'll have the corresponding instructions in each email, and you can also contact us by email [here](https://web.archive.org/support/contact_us_email.jsp).   
 To modify your personal information stored in your account, you will have to log into your account normally (with your email and password) and go to "Edit your Account" under "My Account". You can also contact us by email [here](https://web.archive.org/support/contact_us_email.jsp) with your desired changes to your information.   
@@ -161,7 +161,7 @@ At **Cloncom** security is important. **Cloncom** employs appropriate measures, 
 |   What happens to your Personal Information when you terminate your Account with us?   
 | 
 
-If you decide to your account or become an inactive customer, our Privacy Policy will continue to apply. All of your personally identifiable information will be placed in a deactivated status in our database. However, you should know that this deactivation does not mean deletion. We will retain this information, only to be used to resolve dispute or enforce this Policy.   
+If you decide to cancel your account or become an inactive customer, our Privacy Policy will continue to apply. All of your personally identifiable information will be placed in a deactivated status in our database. However, you should know that this deactivation does not mean deletion. We will retain this information, only to be used to resolve dispute or enforce this Policy.   
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
   
 |  Back to top
