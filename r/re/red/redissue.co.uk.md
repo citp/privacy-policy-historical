@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redissue.co.uk privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213210444id_/http%3A//www.redissue.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redissue.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230085754id_/http%3A//www.redissue.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # Red Issue - the definitive Manchester United website. Independent news and stats from footymad.net
 
