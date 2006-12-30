@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalmom.net privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625203925id_/http%3A//frugalmom.net/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalmom.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231003013id_/http%3A//frugalmom.net/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ If you elect to subscribe to our newsletter the only information we will collect
 
 All newsletter subscribers are given the option to opt out of the subscription to the newsletter at any time and will not receive any more email contact from frugalmom.net.  Once you opt out of our subscriber list we will not store your email address.
 
-If you have any questions about this privacy statement or the practices of this site you may contact me using the [contact form.](https://web.archive.org/web/20060625203925id_/http%3A//frugalmom.net/contact.htm)
+If you have any questions about this privacy statement or the practices of this site you may contact me using the [contact form.](https://web.archive.org/web/20061231003013id_/http%3A//frugalmom.net/contact.htm)
