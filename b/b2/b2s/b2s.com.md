@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195018id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230213659id_/http%3A//b2s.com/privacy.php) for the most accurate reproduction.*
 
-# b2s.com -- We make business happens!
+# b2s.com -- Bringing buyers to suppliers!
+
+| 
 
 | Privicy Policy  
 ---  
@@ -13,5 +15,4 @@ b2s.com respects its members' privacy seriously. We collect customer information
 ---|---  
 Tel:| +852 2191 7808  
 Fax:| +852 2191 7816  
-Email:| [webmaster@b2s.com](mailto:webmaster@b2s.com)  
-  | 
+Email:| [webmaster@b2s.com](mailto:webmaster@b2s.com)
