@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the imaginecup.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617163235id_/http%3A//thespoke.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginecup.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230195410id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# theSpoke.net
+# Imagine Cup - Privacy Statement
 
-theSpoke Privacy Statement  
+imaginecup.com Privacy Statement  
 (last updated: December 5, 2003) 
 
-Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the theSpoke site (the "Site") hosted for Microsoft by MaximumASP; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the imaginecup.com site (the "Site") hosted for Microsoft by Fast Track; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
 Collecting Your Personal Information 
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as requesting information about Microsoft products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site, signing up for an event or training, or when purchasing and/or registering Microsoft products. The personal information we collect includes your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information.
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as requesting information about Microsoft products and services, entering a contest, ordering email newsletters, joining a limited-access premium site, signing up for an event or training, or when purchasing and/or registering Microsoft products. The personal information we collect includes your name, title, company or organization name, work email, work phone, work or home address, information about your job function, information about your company, and credit card information.
 
 The Site may collect certain anonymous information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the Site, analyze trends, and administer the Site.
 
-You can choose to create an optional public profile, containing information about yourself - such as your hobbies and interests. Any information you choose to enter in your public profile will be visible to other users of the Site; and when you interact with other users a link to your public profile may be displayed. We urge you to be careful only to enter information on your public profile that you are comfortable sharing with the public at large. You may change, edit or delete information about yourself from your public profile at any time while online by going to your [profile](http://www.thespoke.net/user/EditProfile.aspx) after signing in.
+You can choose to create an optional public profile, containing information about yourself - such as your hobbies and interests. Any information you choose to enter in your public profile will be visible to other users of the Site; and when you interact with other users a link to your public profile may be displayed. We urge you to be careful only to enter information on your public profile that you are comfortable sharing with the public at large. You may change, edit or delete information about yourself from your public profile at any time while online by going to your [profile](https://web.archive.org/web/20061230195410id_/http%3A//imaginecup.com/UpdateProfile.aspx) after signing in.
 
 Please keep in mind that if you disclose personal information through public online forums on the Site, this information may be collected and used by others. We caution you against giving out personal information to strangers online, which they may use for illegal or harmful purposes.
 
@@ -37,13 +37,16 @@ Except as otherwise described in this statement, personal information you provid
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.
 
-Access to Your Personal InformationCustomer information is collected by MaximumASP, LLC, a Microsoft vendor. It is stored at MaximumASP, plus sent back to Microsoft. You can review, edit or delete the personal information by going to your [profile](http://www.thespoke.net/user/EditProfile.aspx) after signing in on the Site. You can also access your personal information and edit any contact preferences provided at the Site by sending e-mail to [support@maximumasp.net](mailto:support@maximumasp.net) or writing to:
+Access to Your Personal Information
 
-MaximumASP, LLC   
-2303 River Road, Suite 300   
-Louisville, KY 40206 USA
+Customer information is collected by Fast Track Team, Inc (“Fast Track”), a Microsoft vendor. It is stored on Fast Track’s servers [which are at a data center, not physically at fast track’s offices], plus sent back to Microsoft. You can review, edit or delete the personal information by going to your [**profile**](https://web.archive.org/web/20061230195410id_/http%3A//imaginecup.com/UpdateProfile.aspx) after signing in on the Site. You can also access your personal information and edit any contact preferences provided at the Site by sending email to [**support@fasttrackteam.com**](mailto:support@fasttrackteam.com) or writing to:
 
-Security of Your Personal InformationMicrosoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+  
+
+
+Security of Your Personal Information
+
+Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 Cookies 
 
@@ -53,15 +56,10 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other web sites you visit.
 
-  
 Changes to This Privacy Statement.
 
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
 Contact Information 
 
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at [support@maximumasp.com](mailto:support@maximumasp.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
-
-MaximumASP, LLC   
-2303 River Road, Suite 300   
-Louisville, KY 40206 USA
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by email at [**support@fasttrackteam.com**](mailto:support@fasttrackteam.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
