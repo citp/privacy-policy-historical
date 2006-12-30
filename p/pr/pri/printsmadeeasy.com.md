@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printsmadeeasy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032025id_/http%3A//www.printsmadeeasy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printsmadeeasy.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230234700id_/http%3A//www.printsmadeeasy.com/privacy.php) for the most accurate reproduction.*
 
 # PrintsMadeEasy - Privacy & Security
 
@@ -15,13 +15,13 @@ PrintsMadeEasy logs IP addresses (your unique Internet address) for administrati
 PrintsMadeEasy uses session cookies to keep track of information during your visit. Permanent cookies are not stored on your computer so we can't remember you after you leave the site. 
 
 **User Information**   
-During registration we require that you supply personal information like your name and e-mail address. With your permission, we may send you an e-mail newsletter. You can unsubscribe to this option by editing the preferences in [My Account](https://web.archive.org/web/20060615032025id_/http%3A//www.printsmadeeasy.com/myaccount.php). 
+During registration we require that you supply personal information like your name and e-mail address. With your permission, we may send you an e-mail newsletter that contains special deals on business cards or postcards. You can unsubscribe to this option by editing the preferences in [My Account](https://web.archive.org/web/20061230234700id_/http%3A//www.printsmadeeasy.com/myaccount.php). 
 
 **Sharing Information**   
 PrintsMadeEasy has a strict policy against sharing or selling your personal information, except when the law requires it. 
 
 **Links to Other Sites**   
-This site may contain links to other Web sites. PrintsMadeEasy is not responsible for the privacy or practices on these sites. 
+This site may contain links to other Web sites, including business card collector clubs, and other organizations. PrintsMadeEasy is not responsible for the privacy or practices on these sites. 
 
 **Notification of Changes**   
 Should PrintsMadeEasy decide to change our policy concerning the use of your personal information, we will post all changes in this privacy policy 30 days prior to the date the change goes into effect. 
