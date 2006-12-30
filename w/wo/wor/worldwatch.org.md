@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldwatch.org privacy policy that was archived on 2006-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060602010640id_/http%3A//worldwatch.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwatch.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230162544id_/http%3A//www.worldwatch.org/node/998) for the most accurate reproduction.*
 
-# Worldwatch Institute Privacy Policy
+# Privacy Policy | Worldwatch Institute
 
-If you are just browsing on the Worldwatch Institute web site (www.worldwatch.org), rest assured that no personal information regarding your use of the site will be collected by Worldwatch. If you register to receive e-mail updates from us or download a free PDF, or to buy a publication or make a donation on-line, however, you will be asked for personal information, such as your name, address and e-mail address.
+If you are just browsing on the Worldwatch Institute web site (www.worldwatch.org), rest assured that no personal information regarding your use of the site will be collected by Worldwatch. If you register to receive e-mail updates from us or download a free PDF, or to buy a publication or make a donation on-line, however, you will be asked for personal information, such as your name, address and e-mail address. 
 
 Certain information about the user, such as IP addresses, navigation through the site, software used, time spent and other similar information, may be stored on the Worldwatch Institute servers, and may also be written to the User's computer system in small data pieces called "cookies". These cookies will not specifically identify the User. 
 
