@@ -1,374 +1,606 @@
-<!--The following is the downloaded HTML source of the mgm.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603185829id_/http%3A//www.mgm.com/cgi-bin/c2k/private_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mgm.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230232923id_/http%3A//www.mgm.com/private_policy.do) for the most accurate reproduction.-->
 
-<html><head> 
-<title>MGM - terms of use</title> 
+<html><head>
 
-<!-- Javascript Template File -->
-<script language="JavaScript" src="javascript/template.js&amp;page=">
-</script><link rel="stylesheet" href="/cgi-bin/c2k/javascript/style.css">
-<!-- END Javascript Template File -->
+
+
+
+
+
+
+
+    <title>MGM.com - Official website of Metro-Goldwyn-Mayer Inc.</title>
+
+<meta name="description" content="Information on new and upcoming MGM movies, TV shows, DVD releases, soundtracks, and video games, plus a searchable database of the MGM film collection and movie trailers.">
+
+<meta name="keywords" content="MGM, Metro Goldywn Mayer, Metro-Goldwyn-Mayer, MGM Studios, Movie, Movies, DVD, New Movies, Upcoming Movies, Movie Trailers, Movie Studio, Entertainment, New DVD Releases, Ars Gratia Artis, United Artists, James Bond, Casino Royale, Daniel Craig, Eva Green, Mads Mikkelsen, Jeffrey Wright, Rocky Balboa, Rocky 6, Rocky VI,  Sylvester Stallone, Rocky trailer, Flyboys, Material Girls, Hilary Duff, Haylie Duff, Anjelica Huston, Clerks 2, Clerks II, Kevin Smith, Dante, Randal, Clerks 2 trailer">
+
+ <link rel="shortcut icon" href="http://www.mgm.com/favicon.ico">
+
+<script language="JavaScript">
+if (navigator.appVersion.indexOf("Mac") != -1)
+   document.write('<link rel="stylesheet" href="/mgm/images/javascript/stylemac.css">')
+else
+   document.write('<link rel="stylesheet" href="/mgm/images/javascript/style.css">')
+</script><link rel="stylesheet" href="/mgm/images/javascript/style.css">
+
+
+    <script language="JavaScript">
+        images_subdir = "/mgm/images/";
+        template_subdir = "/mgm/images/javascript/template2.js";
+    </script>
+    <script language="javascript">
+    var expDays = 60;
+    var today = new Date();
+    var t = today.getTime()
+    var exp = t + (1000*60*60*24)*expDays;
+    today.setTime(exp)
+    
+    function SetCookie (name,value,expires,path,domain,secure) {
+        document.cookie = name + "=" + escape (value) + 
+            ((expires) ? "; expires=" + expires.toGMTString() : "") +
+            ((path) ? "; path=" + path : "") +
+            ((domain) ? "; domain=" + domain : "") +
+            ((secure) ? "; secure" : "");
+    }
+    
+    function getCookieVal (offset) {
+        var endstr = document.cookie.indexOf (";", offset);
+        if (endstr == -1) {
+            endstr = document.cookie.length;
+        }
+        return unescape(document.cookie.substring(offset, endstr));
+    }
+    
+    function GetCookie (name) {
+        var arg = name + "=";
+        var alen = arg.length;
+        var clen = document.cookie.length;
+        if( (document.cookie == null) || (document.cookie.length == null)) {
+            return null;
+        }
+        var i = 0;
+        while (i < clen) {
+            var j = i + alen;
+            if (document.cookie.substring(i, j) == arg) {
+                return getCookieVal (j);
+            }
+            i = document.cookie.indexOf(" ", i) + 1;
+            if (i == 0) {
+                break; 
+            }
+        }
+        return null;
+    }
+    
+    var doPopup = 1;
+        
+    function listenLinks() {
+        for(i=0;i<document.links.length;i++) {
+            if(document.links[i].onclick==null) {
+	            document.links[i].onclick = function() { loc = this.href.toString();(this.target.indexOf("_")==-1&&loc.indexOf("javascript:")==-1)?doPopup=0:doPopup=1; 
+	            }
+	        }
+	    }
+    }
+                
+    function exit_mgm() {
+        var c_name = "signUp";
+        var c_val = GetCookie(c_name);
+        var expdate = new Date()
+        expdate.setTime (expdate.getTime() + (10 * 365 * 24 * 60 * 60 * 1000));
+        
+        var url = window.location.toString();
+        
+        //-- if user doesn't have cookie yet (c_val==null) and
+        //-- if popup is true and if user is NOT at the newsletter page, 
+        //-- pop up the newsletter.php page to user --
+        if(doPopup==1&&c_val==null&&url.indexOf('newsletter.do')==-1) {
+            window.open("http://www.mgm.com/register/newsletter.php?sourceid=1028","signup","width=428,height=400,toolbar=no,menubar=no,resizable=no,scrollbars=no")
+           SetCookie(c_name, "leftMGM", expdate);
+        }
+    }
+   
+    
+// When popup survey is over, the below cookie functions 
+// can be removed and the cookie functions further down 
+// the page can be used  
+
+
+var nth = 100;
+function show_popup() {
+    var rand = Math.floor(Math.random()*nth);
+    
+    if(rand==(nth-1)) {
+        check_popup()
+    }
+}
+
+//-- Popup MGM survey -- 
+function check_popup() {
+    //-- If user hasn't visit mgm.com site (hasn't have a cookie set), pop up the survey..
+    //-- (show user this survey only once, that why we want to write the cookie so next time user 
+    //-- visit the site, we don't want to pop up the survey again --
+    if(!cookie_set()) {
+        window.open("http://www.insightexpress.com/s/Cust64324?onfinish=close","Survey","width=900,height=360,resizable=yes,scrollbars=yes");
+        document.cookie = "survey=yes;expires=" + today.toGMTString() + ";"
+    }
+}
+
+function cookie_set() {
+    var set = (document.cookie.indexOf("survey")!=-1)?1:0;
+    
+    return set;
+}
+</script>
+
+<script language="javascript">
+
+var page_url = window.location;
+page_url = page_url.toString();
+
+var expdate = new Date()
+var activePage = 0;
+var surveyURL = "http://invite.insightexpress.com/InviteServer/ShowInvitation.aspx?surveyID=69071";
+var  cookie_name = "unloadOffered";
+var cookie_val = GetCookie(cookie_name);
+
+var page_key = "title_title.do";
+var url_key = new Array();
+url_key[url_key.length] = "CHITTYCH";
+url_key[url_key.length] = "AUTUMNNY";
+url_key[url_key.length] = "THOMASCA";
+url_key[url_key.length] = "BIODOME";
+url_key[url_key.length] = "MANIRON";
+url_key[url_key.length] = "KINGPIN";
+url_key[url_key.length] = "RONIN";
+url_key[url_key.length] = "BOND20";
+url_key[url_key.length] = "CARRIE";
+url_key[url_key.length] = "DISTURBI";
+
+//-- If user is in these title pages, open the survey window  -- 
+function check_survey() {
+    //for(i=0;i<url_key.length;i++) {
+    //Removed the following line from the IF statement
+    //page_url.match(url_key[i])!=null&&
+    if(page_url.match(page_key)!=null) {
+        activePage = 1;
+    }
+    //}
+    expdate.setTime (expdate.getTime() + (10 * 365 * 24 * 60 * 60 * 1000));
+    if(activePage==1 && cookie_val == null) {
+        SetCookie(cookie_name, "alreadyOffered", expdate);
+	    window.open(surveyURL,'new_window','width=660,height=500,resizable=yes,scrollbars=yes');
+    }
+}
+
+</script>
+    <script language="JavaScript" src="/mgm/images/javascript/template2.js"> </script><link rel="stylesheet" href="//mgm/images/javascript/template2.js/javascript/style.css">
+    
+    
+
 
 
 </head>
 
-<body bgcolor="#000000" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" text="white" link="white" vlink="gray" alink="red">
- 
-<table border="0" cellpadding="0" cellspacing="0" width="778" valign="top">
+<body bgcolor="#000000" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" text="#FFFFFF" link="#666666" vlink="#808080" alink="#FF0000" onload="listenLinks();" onunload="exit_mgm();"> 
 
-<!-- Shim row, height 1. -->
+
+
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="779" valign="top">
+
 <tbody><tr><!-- Shim row, height 1. -->
-<td><img src="/img2k/html_img/shim.gif" width="177" height="1" border="0"></td>
-<td><img src="/img2k/html_img/shim.gif" width="61" height="1" border="0"></td>
-<td><img src="/img2k/html_img/shim.gif" width="80" height="1" border="0"></td> <!-- Home -->
-<td><img src="/img2k/html_img/shim.gif" width="94" height="1" border="0"></td> <!-- Movies -->
-<td><img src="/img2k/html_img/shim.gif" width="13" height="1" border="0"></td>
-<td><img src="/img2k/html_img/shim.gif" width="75" height="1" border="0"></td><!-- Backlot -->
-<td><img src="/img2k/html_img/shim.gif" width="13" height="1" border="0"></td>
-<td><img src="/img2k/html_img/shim.gif" width="125" height="1" border="0"></td><!-- Trailers -->
-<td><img src="/img2k/html_img/shim.gif" width="13" height="1" border="0"></td>
-<td><img src="/img2k/html_img/shim.gif" width="37" height="1" border="0"></td> <!-- Television-->
-<td><img src="/img2k/html_img/shim.gif" width="13" height="1" border="0"></td>
-<td><img src="/img2k/html_img/shim.gif" width="75" height="1" border="0"></td><!-- Store -->
-<td><img src="/img2k/html_img/shim.gif" width="1" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="177" height="1" border="0"></td><!-- Lion place -->
+<td><img src="/mgm/images/html_img/shim.gif" width="61" height="1" border="0"></td><!--  Big space -->
+<td><img src="/mgm/images/html_img/shim.gif" width="68" height="1" border="0"></td> <!-- Movies -->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="42" height="1" border="0"></td> <!-- DVD -->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="83" height="1" border="0"></td><!-- Trailers -->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="101" height="1" border="0"></td><!-- On Demand -->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="34" height="1" border="0"></td><!-- TV -->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="62" height="1" border="0"></td><!-- Music -->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="61" height="1" border="0"></td><!-- Games-->
+<td><img src="/mgm/images/html_img/shim.gif" width="5" height="1" border="0"></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="52" height="1" border="0"></td><!-- Mobile -->
+<td><img src="/mgm/images/html_img/shim.gif" width="1" height="1" border="0"></td>
 </tr>
 
 
-<tr><!-- row 1 -->
-<td rowspan="4"><script language="JavaScript">
-	var is_mac_no = (isMac && IE4);
-  if (!is_mac_no){
-     document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID=flash WIDTH=177 HEIGHT=129><PARAM NAME=movie VALUE="/img2k/flash/lion.swf"><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE=#000000><a href="http://www.mgm.com/cgi-bin/c2k/index.html"><EMBED src="/img2k/flash/lion.swf" quality=high bgcolor=#000000  WIDTH=177 HEIGHT=129 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></a></EMBED></OBJECT>');}
-  else {
-     document.write('<a href="http://www.mgm.com/cgi-bin/c2k/index.html"><img name="mgm_lion_logo" src="/img2k/html_img/mgm_lion_logo.gif" width="177" height="129" border="0"></a>');}</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="flash" width="177" height="129"><param name="movie" value="/img2k/flash/lion.swf"><param name="quality" value="high"><param name="bgcolor" value="#000000"><a href="http://www.mgm.com/cgi-bin/c2k/index.html"><embed src="/img2k/flash/lion.swf" quality="high" bgcolor="#000000" width="177" height="129" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></a></object></td>
 
-<td colspan="11"><script language="JavaScript">
-  if (!is_mac_no){
-     document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID=flash WIDTH=601 HEIGHT=67><PARAM NAME=movie VALUE="/img2k/flash/tron.swf"><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE=#000000><EMBED src="/img2k/flash/tron.swf" quality=high bgcolor=#000000  WIDTH=601 HEIGHT=67 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>');}
-  else {
-     document.write('<img name="top_filmnav" src="/img2k/html_img/top_film-nav.gif" width="601" height="67" usemap="#Tron" border="0">');}</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="flash" width="601" height="67"><param name="movie" value="/img2k/flash/tron.swf"><param name="quality" value="high"><param name="bgcolor" value="#000000"><embed src="/img2k/flash/tron.swf" quality="high" bgcolor="#000000" width="601" height="67" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></td>
+<tr><!-- row 1 --><!-- LION and TRON -->
+<td rowspan="4" valign="bottom" align="right">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="flash" width="177" height="129"><param name="movie" value="/mgm/images/html_img/lion7.swf"><param name="quality" value="high"><param name="bgcolor" value="#000000"><a href="home.do"><embed src="/mgm/images/html_img/lion7.swf" quality="high" bgcolor="#000000" width="177" height="129" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></a></object>
+</td>
 
-<td><img src="/img2k/html_img/shim.gif" width="1" height="67" border="0"></td>
+<td colspan="16" height="67" align="left">
+
+
+
+  <table border="0" cellpadding="0" cellspacing="0" width="600">
+    <tbody><tr>
+      <td width="24" valign="bottom"><img src="/mgm/images/html_img/film_leftside.gif" alt=""></td>
+	<td>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="576" height="67" id="rockytron" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="/mgm/images/html_img/576x67_rockyquote.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#000000">
+<embed src="/mgm/images/html_img/576x67_rockyquote.swf" quality="high" bgcolor="#000000" width="576" height="67" name="rockytron" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+      </td>
+    </tr>
+  </tbody></table>
+
+</td>
+
+<td><img src="/mgm/images/html_img/shim.gif" width="1" height="67" border="0"></td>
 </tr>
 
-<tr><!-- row 2 -->
-<td bgcolor="#000000"><img name="mgm_r2_c02" src="/img2k/html_img/mgm_r2_c02.gif" width="61" height="29" border="0"></td>
+<tr><!-- row 2 --><!-- Main NAVIGATION MENU -->
+<td bgcolor="#000000" align="left"><img name="mgm_r2_c02" src="/mgm/images/html_img/mgm_r2_c02_new.gif" width="61" height="29" border="0"></td>
 
-<td bgcolor="#000000" align="right"><a href="http://www.mgm.com/cgi-bin/c2k/index.html"><img src="/img2k/html_img/nav-home3_new.gif" border="0" name="home"></a><img src="/img2k/html_img/nav-pipe0.gif" width="13" height="29" border="0"></td>
 
-<td bgcolor="#000000"><a href="http://www.mgm.com/cgi-bin/c2k/movies.html" onmouseover="img_on('movie')" onmouseout="img_off('movie')"><img src="/img2k/html_img/nav-movies1.gif" border="0" name="movie"></a></td>
 
-<td bgcolor="#000000"><img src="/img2k/html_img/nav-pipe0.gif" width="13" height="29" border="0"></td>
 
-<td bgcolor="#000000" align="center"><a href="http://www.mgm.com/cgi-bin/c2k/backlot_main.html" onmouseover="img_on('backlot')" onmouseout="img_off('backlot')"><img src="/img2k/html_img/nav-backlot1.gif" border="0" name="backlot"></a></td>
 
-<td bgcolor="#000000"><img src="/img2k/html_img/nav-pipe0.gif" width="13" height="29" border="0"></td>
 
-<td bgcolor="#000000"><a href="http://www.mgm.com/cgi-bin/c2k/trailers.html" onmouseover="img_on('trailers')" onmouseout="img_off('trailers')"><img src="/img2k/html_img/nav-trailers1.gif" border="0" name="trailers"></a></td>
+<td bgcolor="#000000" align="center"><a href="movies_theatrical.do" onmouseover="img_on('movie_img')" onmouseout="img_off('movie_img')"><img src="/mgm/images/html_img/navmoviesD.gif" border="0" name="movie_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
 
-<td><img src="/img2k/html_img/nav-pipe0.gif" width="13" height="29" border="0"></td>
 
-<td bgcolor="#000000"><a href="http://www.mgm.com/cgi-bin/c2k/television.html" onmouseover="img_on('tv')" onmouseout="img_off('tv')"><img src="/img2k/html_img/nav-tv1.gif" border="0" name="tv"></a></td>
+<td bgcolor="#000000" align="center"><a href="video.do" onmouseover="img_on('dvd_img')" onmouseout="img_off('dvd_img')"><img src="/mgm/images/html_img/navdvdD.gif" border="0" name="dvd_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
 
-<td bgcolor="#000000"><img src="/img2k/html_img/nav-pipe0.gif" width="13" height="29" border="0"></td>
 
-<td bgcolor="#000000"><a href="http://www.mgm.com/cgi-bin/c2k/store_main.html" onmouseover="img_on('store')" onmouseout="img_off('store')"><img src="/img2k/html_img/nav-store1.gif" border="0" name="store"></a></td>
+<td bgcolor="#000000" align="center"><a href="trailers.do" onmouseover="img_on('trailers_img')" onmouseout="img_off('trailers_img')"><img src="/mgm/images/html_img/navtrailersD.gif" border="0" name="trailers_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
 
-<td bgcolor="#000000"><img src="/img2k/html_img/shim.gif" width="1" height="29" border="0"></td>
+
+<td bgcolor="#000000" align="center"><a href="ppv.do" onmouseover="img_on('ppv_img')" onmouseout="img_off('ppv_img')"><img src="/mgm/images/html_img/navondemandD.gif" border="0" name="ppv_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
+
+
+<td bgcolor="#000000" align="center"><a href="television.do" onmouseover="img_on('tv_img')" onmouseout="img_off('tv_img')"><img src="/mgm/images/html_img/navtvD.gif" border="0" name="tv_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
+
+
+<td bgcolor="#000000" align="center"><a href="movies_music.do" onmouseover="img_on('music_img')" onmouseout="img_off('music_img')"><img src="/mgm/images/html_img/navmusicD.gif" border="0" name="music_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
+
+
+<td bgcolor="#000000" align="center"><a href="games.do" onmouseover="img_on('games_img')" onmouseout="img_off('games_img')"><img src="/mgm/images/html_img/navgamesD.gif" border="0" name="games_img"></a></td>
+<td><img src="/mgm/images/html_img/nav_pipe_new.gif" width="5" height="29" border="0"></td>
+
+
+<td bgcolor="#000000" align="center"><a href="mobile_games.do" onmouseover="img_on('mobile_img')" onmouseout="img_off('mobile_img')"><img src="/mgm/images/html_img/navmobileD.gif" border="0" name="mobile_img"></a></td>
+<td><img src="/mgm/images/html_img/shim.gif" width="1" height="29" border="0"></td>
+
 </tr>
 
-<tr><!-- row 3 -->
-<td rowspan="2"><img name="mgm_r3_c02" src="/img2k/html_img/mgm_r3_c02.gif" width="61" height="33" border="0"></td>
-<td colspan="10" background="/img2k/html_img/subnav_bkgrnd.gif">
+<tr><!-- row 3 --><!-- Sub NAVIGATION bar -->
+<td rowspan="2" valign="top"><img name="mgm_r3_c02" src="/mgm/images/html_img/mgm_r3_c02_new.gif" border="0"></td>
+<td colspan="15" valign="top" align="right" background="/mgm/images/html_img/subnav_bkgrnd_new.gif">
 
-			<table border="0" cellpadding="0" cellspacing="0" width="540" "="" height="15" background="">
+
+<table border="0" cellpadding="0" cellspacing="0" width="540" height="19" background="">
 <tbody><tr>
-<!-- spacer before menu list -->
-<td width="20"><img src="/img2k/html_img/shim.gif" border="0" height="1" width="20"></td>
-<td>
-<a href="http://www.mgm.com/cgi-bin/c2k/corp_investor_relation.html" class="nav">INVESTOR RELATIONS</a> <img src="/img2k/html_img/block.gif" height="12" width="5"> 
-
-<a href="http://www.mgm.com/cgi-bin/c2k/corp_employment.html" class="nav">JOBS</a> <img src="/img2k/html_img/block.gif" height="12" width="5"> 
-
-<a href="http://www.mgm.com/cgi-bin/c2k/corp_main.html" class="nav">CORPORATE INFO</a>
-
-</td>
-<!-- spacer after menu list -->
-<td width="200"><img src="/img2k/html_img/shim.gif" border="0" height="1" width="200"></td>
-<td width="21" align="right"><img src="/img2k/html_img/subnav-gold-rght.gif" height="15" width="21" border="0"></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="corp_main.do" class="nav">CORPORATE</a>&nbsp;<img src="/mgm/images/html_img/block.gif" height="12" width="5">&nbsp;<a href="corp_employment.do" class="nav">EMPLOYMENT</a>&nbsp;<img src="/mgm/images/html_img/block.gif" height="12" width="5">&nbsp;<a href="http://www.mgmchannel.com/" class="nav" target="_new">MGM CHANNEL</a>&nbsp;<img src="/mgm/images/html_img/block.gif" height="12" width="5">&nbsp;<a href="clip_still.do" class="nav">CLIP LICENSING</a></td>
+<!-- spacer after menu list <td width="40"><img src="/mgm/images/html_img/shim.gif" border="0" height="1" width="40"></td>-->
+<td width="21" align="right"><img src="/mgm/images/html_img/subnav-gold-rght_new.gif" height="19" width="21" border="0"></td>
 </tr>
-</tbody></table>		
-		
-		
-		
-		
-	
-</td>
-<td background=""><img src="/img2k/html_img/shim.gif" width="1" height="15" border="0"></td>
+</tbody></table></td>
+<td background=""><img src="/mgm/images/html_img/shim.gif" width="1" height="19" border="0"></td>
 </tr>
+
 
 <tr><!-- row 4 -->
-<td rowspan="2" colspan="10" valign="top" bgcolor="#000000"><img name="mgm_r4_c03" src="/img2k/html_img/mgm_r4_c03.gif" width="540" height="35" border="0"></td>
-<td valign="top"><img src="/img2k/html_img/shim.gif" height="18" width="1"></td>
+<td rowspan="2" colspan="15" valign="top" bgcolor="#000000"><img name="mgm_r4_c03" src="/mgm/images/html_img/mgm_r4_c03_new.gif" width="539" height="35" border="0"></td>
+<td valign="top"><img src="/mgm/images/html_img/shim.gif" height="14" width="1"></td>
 </tr>
-<!-- row 5-->
-<tr>
+
+<tr><!-- row 5-->
 <td rowspan="2" width="177" valign="top">
 
 	<table border="0" cellpadding="0" cellspacing="0" background="">
 	<tbody><tr>
-	<td width="177" height="422" valign="top" style="background-image: url(/img2k/html_img/leftside_bkgrnd.gif); background-repeat: no-repeat"><br><br><br><br><br>
+	<td width="177" height="422" valign="top" style="background-image: url(/mgm/images/html_img/leftside_bkgrnd_new.gif); background-repeat: no-repeat"><br><br><br><br><br>
 
 		<!-- feature film pulldown and nav items -->
-		
+
 		<table border="0" cellpadding="0" cellspacing="0" width="145" background="">
-		<form method="post" action="http://www.mgm.com/cgi-bin/c2k/search.html" name="form_search"></form>
+
+        <form method="post" action="search.jsp" name="form_search"></form>
 		<tbody><tr>
-		<td colspan="3">
-		<script language="JavaScript">
-<!--- Hide from a non-javascript browsers
+		<td colspan="4">
+		
+<script language="JavaScript">
 // go to page selected from options menu
 
 function GotoURL(s){
 	var d = s.options[s.selectedIndex].value
-	window.top.location.href = d
-   s.selectedIndex=1
+	if (d == "http://www.jamesbond.com/index.html")
+	{
+		windowprops = "left=0,top=0,width=650,height=400,scrollbars=yes,toolbar=yes,resizable=yes,menubar=yes,location=yes,directories=no";
+		new_win = window.open(d, "jamesbond", windowprops);
+	}
+	else
+	{
+		window.top.location.href = d
+	}
+	s.selectedIndex=1
 }
-//--->
 </script>
 
-<select name="siteURL" onchange="GotoURL(this)">
+<!-- script below for opening when you want the URL to open a new window... 
+if this is the case, add a pipe, |, right after the URL in the option tag -->
+
+<script type="text/javascript">
+function Go(objCombo)
+{
+var strUrl=objCombo.options[objCombo.selectedIndex].value;
+if (strUrl.length < 2)
+return false;
+
+var arrTmp=strUrl.split("|");
+window.open(arrTmp[0], (arrTmp.length == 1)?"_self":"_blank", "height=600,width=800,scrollbars=yes,toolbar=yes,resizable=yes,menubar=yes,location=yes,directories=no");
+}
+</script>
+
+
+
+<select name="siteURL" onchange="Go(this);">
+
+
 	<option>****************</option>
-	<option selected="">* FEATURED TITLES</option>
+	<option selected="" value="http://www.mgm.com/movies_theatrical.do">* MOVIES </option>
+	<option>****************</option> 
+
+	 
+    <option value="http://www.sonyclassics.com/artschoolconfidential/"> Art School Confidential</option>
+    <option>- - - - - - - - - -</option>     
+    <option value="http://www.sonypictures.com/movies/basicinstinct2/index.html"> Basic Instinct 2</option>
+    <option>- - - - - - - - - -</option> 
+     <option value="http://www.jamesbond.com/"> Casino Royale</option>
+    <option>- - - - - - - - - -</option>
+    <option value="http://www.weinsteinco.com/"> Clerks II</option>
+    <option>- - - - - - - - - -</option>   
+    <option value="http://www.flyboysthemovie.com/"> Flyboys</option>
+    <option>- - - - - - - - - -</option>
+    <option value="http://www.slevin-movie.com/"> Lucky # Slevin</option>
+    <option>- - - - - - - - - -</option>  
+    <option value="http://www.pinkpantherthemovie.com/"> The Pink Panther</option>
+    <option>- - - - - - - - - -</option> 
+    <option value="http://www.rockythemovie.com/"> Rocky Balboa</option>
+    <option>- - - - - - - - - -</option>
+
+
+    
 	<option>****************</option>
-	<option value="http://www.mgm.com/whatstheworst/">What's the Worst</option>
-	<option value="http://www.mgm.com/whatstheworst/">That Could Happen?</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/legallyblonde/">Legally Blonde</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.bornromantic.net">Born Romantic</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/ghostworld/ie/index.html">Ghost World</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.rollerball.com">Rollerball</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/originalsin/">Original Sin</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/windtalkers/">Windtalkers</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/deuceswild/">Deuces Wild</option>
-	<option>- - - - - - - - - -</option>
+	<option value="http://www.mgm.com/movies_dvd.do">* NOW ON DVD</option>
 	<option>****************</option>
-	<option>* COMING SOON</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=CAPOTE"> Capote</option>
+  <option>- - - - - - - - - -</option> 
+	<option value="http://www.yoursmineandoursmovie.com/"> Yours, Mine &amp; Ours</option>
+  <option>- - - - - - - - - -</option> 
+	<option value="http://www.mgm.com/title_title.do?title_star=MIDNIGHT-CE"> Midnight Cowboy -</option> 
+	<option value="http://www.mgm.com/title_title.do?title_star=MIDNIGHT-CE">  Collector's Edition</option>
+	<option>- - - - - - - - - -</option>
+	<option value="http://video.movies.go.com/brothersgrimm/main.html"> The Brothers Grimm</option> 
+	<option>- - - - - - - - - -</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=XXXSETPINKCAR"> Pink Panther Classic</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=XXXSETPINKCAR"> Cartoon Collection</option>
+	<option>- - - - - - - - - -</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=CUTTINGE-SE"> The Cutting Edge</option> 
+	<option value="http://www.mgm.com/title_title.do?title_star=CUTTINGE-SE"> (Gold Medal Ed.)</option>
+	<option>- - - - - - - - - -</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=POLTLEGA"> Poltergeist:</option>	
+		<option value="http://www.mgm.com/title_title.do?title_star=POLTLEGA">  The Legacy -</option>	
+	<option value="http://www.mgm.com/title_title.do?title_star=POLTLEGA"> Complete First Season</option>	
+	<option>- - - - - - - - - -</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=MAG7-CE"> The Magnifcent Seven:</option>
+	<option value="http://www.mgm.com/title_title.do?title_star=MAG7-CE"> Collector's Edition</option>
+	<option>- - - - - - - - - -</option>
+	<option value="http://www.amityvillehorrormovie.com/">The Amityville Horror</option>
+	<option value="http://www.amityvillehorrormovie.com/">(2005)</option>
+	<option>- - - - - - - - - -</option>
+	
+
+
+
 	<option>****************</option>
-	<option value="/cgi-bin/c2k/backlot_in_bandits.html">Bandits</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.unitedartists.com/cgi-bin/c2k/ua_inproduction_cq.html">CQ</option>
-	<option>- - - - - - - - - -</option>
-	<option value="/cgi-bin/c2k/backlot_in_harts_war.html">Hart's War</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.unitedartists.com/cgi-bin/c2k/ua_inproduction_jeepers.html">Jeepers Creepers</option>
-	<option>- - - - - - - - - -</option>
-	<option value="/cgi-bin/c2k/backlot_in_killingme.html">Killing Me Softly</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.unitedartists.com/cgi-bin/c2k/ua_inproduction_monster.html">No Such Thing</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.unitedartists.com/cgi-bin/c2k/ua_inproduction_pumpkin.html">Pumpkin</option>
-	<option></option>
+    <option value="http://www.mgm.com/television.do">* TELEVISION </option>
+ 	<option>****************</option>  
+	<option value="http://www.stargatesg1.com/"> Stargate SG-1</option>
+	<option>- - - - - - - - - -</option>  
+	<option value="http://www.stargateatlantis.com/"> Stargate Atlantis</option>
+	<option>- - - - - - - - - -</option> 
+	<option value="http://www.sho.com/site/barbershop/"> Barbershop: The Series</option>
+	<option>- - - - - - - - - -</option> 
+	<option value="http://www.theouterlimits.com/"> The Outer Limits</option>
+    <option>- - - - - - - - - -</option>
+    
 	<option>****************</option>
-	<option value="/cgi-bin/c2k/movies_dvd.html">* NOW ON DVD</option>
+    <option value="http://www.mgm.com/games/index.php">* GAMES </option>
+ 	<option>****************</option>
+	<option value="http://www.eagames.com/official/bond/fromrussiawithlove/us/"> From Russia With Love</option>
+	<option>- - - - - - - - - -</option> 	
+	<option value="http://www.rocky-legends.com/us/"> Rocky Legends</option>
+	<option>- - - - - - - - - -</option> 
+	<option value="http://www.stargateworlds.com/"> Stargate MMMO News</option>
+	<option>- - - - - - - - - -</option> 
+	
+    
+    <option>****************</option> 
+	<option value="http://www.mgmonstage.com">* NOW ON STAGE</option>
 	<option>****************</option>
-	<option value="/cgi-bin/c2k/movies_vhs.html">* NOW ON VHS</option>
-	<option>****************</option>
-	<option>* MGM CLASSICS</option>
-	<option>****************</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=ANNIEHAL">Annie Hall</option>
+	<option value="http://www.mgmonstage.com/"> Dirty Rotten Scoundrels</option>
+	<option>- - - - - - - - - -</option> 
+	<option value="http://www.mgmonstage.com/"> Chitty Chitty</option>
+	<option value="http://www.chittythemusical.com/">Bang Bang</option>
 	<option>- - - - - - - - - -</option>
-<!---------
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&title_star=AUTUMNNY">Autumn in New York</option>
-	<option>- - - - - - - - - -</option>
------------->
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=BANANAS">Bananas</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=BLACKSTA">The Black Stallion</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=CHITTYCH">Chitty Chitty</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=CHITTYCH">Bang Bang</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=DIAMONDB">Diamonds Are</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=DIAMONDB">Forever</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=DRNO">Dr. No</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=FIDDLERO">Fiddler On</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=FIDDLERO">The Roof</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=FORYOURE">For Your</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=FORYOURE">Eyes Only</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=FROMRUSS">From Russia</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=FROMRUSS">With Love</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=GOLDENEY">Goldeneye</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=GOLDFING">Goldfinger</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=GREATTRA">The Great</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=GREATTRA">Train Robbery</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=INTERIOR">Interiors</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=INVSNBOD">Invasion of The</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=INVSNBOD">Body Snatchers</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=LIVEANDL">Live And Let </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=LIVEANDL">Die</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=LOVEANDD">Love and Death</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MANIRON">The Man In </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MANIRON">The Iron Mask</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MANWITHT">Man With </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MANWITHT">The Golden Gun</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MANCHURI">The Manchurian </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MANCHURI">Candidate</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MOONRAKE">Moonraker</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MOONSTRU">Moonstruck</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=MRMOM">Mr. Mom</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=OCTOPUSS">Octopussy</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=ONHERMAJ">On Her Majesty's</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=ONHERMAJ">Secret Service</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=PINKPANT">The Pink Panther</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=RADIODAY">Radio Days</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=ROCKY">Rocky</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=ROCKYII">Rocky II</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=ROCKYIII">Rocky III</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=SOMELIKE">Some Like It Hot</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=SPYWHOLO">The Spy Who </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=SPYWHOLO">Loved Me</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=THUNDERB">Thunderball</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=TOMNEVER">Tomorrow Never </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=TOMNEVER">Dies</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=VIEWTOAK">A View To Kill</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=BOND19">The World Is </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=BOND19">Not Enough</option>
-	<option>- - - - - - - - - -</option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=YOUONLYL">You Only </option>
-	<option value="http://www.mgm.com/cgi-bin/c2k/title_title.html&amp;title_star=YOUONLYL">Live Twice</option>
 </select>
+
+
 		</td>
 		</tr>
 		
+
+<!-- Change for MichealFSearch -->
+
+
+
+
+
+
+
+
+
+
+
+
 		<tr>
-		<td rowspan="4" width="4" height="100%"><img src="/img2k/html_img/shim.gif" height="1" width="4"></td>
-		<td colspan="2"><img src="/img2k/html_img/shim.gif" height="2" width="2"><br>
-		<a href="http://www.mgm.com/cgi-bin/c2k/search_advance.html"><img src="/img2k/html_img/search_link.gif" border="0"></a></td>
+		<td rowspan="3" width="4" height="100%"><img src="/mgm/images/html_img/shim.gif" height="1" width="4"></td>
+		<td width="127"><img src="/mgm/images/html_img/shim.gif" height="2" width="2"><br><br>
+		<a href="movies_library.do"><img src="/mgm/images/html_img/search_link.gif" border="0" width="102" height="19"></a></td>
+		<td width="14"><img src="/mgm/images/html_img/shim.gif" height="2" width="14"></td>
 		</tr>
+
+
+		<!-- Newsletter signup box -->
+		
+
+
+
+
+
+   
+
 		<tr>
-		<td valign="top"><img src="/img2k/html_img/shim.gif" height="2" width="2"><br>
-		<a href="http://www.mgm.com/cgi-bin/c2k/showcart.html"><img src="/img2k/html_img/shop_cart_link.gif" border="0"></a></td>
-		<td width="68" valign="top">
-		<!--- Cart Icon ---->
-		<a href="http://www.mgm.com/cgi-bin/c2k/showcart.html"><img src="/img2k/html_img/store/cart_new.gif" border="0"></a>
+		<td width="100%" colspan="2" align="left">
+		<br>
+		
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		
 		</td>
 		</tr>
-	
-		<!-- Newsletter signup box -->
-				   				
-				
-				   	
+
+		<!-- end MOVIE SWEEPS BUTTON -->
+
 		<tr>
 		<td colspan="2">
 			<br>
 			<br>
-			<table align="center" border="0" cellspacing="0" cellpadding="0" width="134" bgcolor="#000000">
-			<tbody><tr>
-			<td bgcolor="#FF9933" height="1" colspan="3" valign="top"><img src="/img2k/html_img/shim.gif" width="1" height="1"></td>
-			</tr>
-			<tr>
-			<td bgcolor="#EE9933" width="1" valign="top"><img src="/img2k/html_img/shim.gif" width="1" height="1"></td>
-			<td valign="top" align="center" width="132">
-			
-				<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#000000">
+			  <table border="0" cellspacing="0" cellpadding="0" width="100%" background="">
 			  <tbody><tr>
 			  <td valign="top" align="center" width="100%">
-				<span class="lightfireb">MGM.com Newsletter</span><br>
-			  <span class="date">Get the scoop on upcoming<br>MGM movies!</span><br>
-			  <a href="http://www.mgm.com/cgi-bin/c2k/newsletter.html&amp;sourceid=1024" target="_new"><span class="lightfireb">Sign Up Now!</span></a>
+              <!-- NEW NEWSLETTER LINK -->
+			 <a href="#" onclick="JavaScript:window.open('http://www.mgm.com/register/newsletter.php?sourceid=1001','signup','width=428,height=400,toolbar=no,menubar=no,resizable=no,scrollbars=no');"><img src="/mgm/images/html_img/mgm_newsletter.gif" width="141" height="41" border="0"></a>
+              <!-- OLD NEWLETTER LINK -->
+
 			  </td>
 			  </tr>
 			  </tbody></table>
-			  
-			</td>
-			<td bgcolor="#EE9933" width="1" valign="top"><img src="/img2k/html_img/shim.gif" width="1" height="1"></td>
-			</tr>
-			<tr>
-			<td bgcolor="#000000" height="2" colspan="3" valign="top"><img src="/img2k/html_img/shim.gif" width="1" height="1"></td>
-			</tr>
-			<tr>
-			<td bgcolor="#FF9933" height="1" colspan="3" valign="top"><img src="/img2k/html_img/shim.gif" width="1" height="1"></td>
-			</tr>
-			</tbody></table>
+
 		<br>
 		</td>
 		</tr>
-		
-		   						<tr>
-		<td colspan="2">
-	
-			<!-- external links table: MGM Grand, James Bond, UA -->
-			<table align="center" width="134" border="0">
+
+		<tr>
+		<td colspan="3" align="center">
+
+			<!-- external links table: MGM Grand, James Bond, UA, UK -->
+			<table width="134" border="0">
 			<tbody><tr>
-			<td>&nbsp;<br><a href="http://www.mgmgrand.com" target="_blank"><img src="/img2k/html_img/mgm_grand_trans.gif" border="0"></a></td>
-			<td>&nbsp;<br><a href="http://www.unitedartists.com" target="_blank"><img src="/img2k/html_img/ua_logo_cover.gif" border="0"></a></td>
+			<td align="center" valign="top"><a href="http://www.unitedartists.com/" target="_blank"><img src="/mgm/images/html_img/ua_logo_home.gif" border="0"></a></td>
 			</tr>
 			<tr>
-			<td colspan="2" align="CENTER"><a href="http://www.jamesbond.com" target="_blank"><img src="/img2k/html_img/cg_bondbutton.gif" vspace="8" border="0" alt="The Official James Bond Website"></a></td>
+			<td align="center"><a href="http://www.jamesbond.com/" target="_blank"><img src="/mgm/images/html_img/cg_bondbutton.gif" vspace="8" border="0" alt="The Official James Bond Website"></a></td>
 			</tr>
-			</tbody></table>
-		
+                        </tbody></table>
 		</td>
 		</tr>
-		
-
-		
 
 		</tbody></table>
-
 	</td>
 	</tr>
+
 	</tbody></table>
-	
 </td>
-<td valign="top" bgcolor="#000000"><img name="mgm_r5_c02" src="/img2k/html_img/mgm_r5_c02_new.gif" width="61" height="26" border="0"></td>
-<td valign="top"><img src="/img2k/html_img/shim.gif" height="26" width="1"></td>
+<td valign="top" bgcolor="#000000"><img name="mgm_r5_c02" src="/mgm/images/html_img/mgm_r5_c02_new2.gif" width="61" height="26" border="0"></td>
+<td valign="top"><img src="/mgm/images/html_img/shim.gif" height="26" width="1"></td>
 </tr>
-<!-- row 6 -->
-<tr>
-<td colspan="11" valign="top" background="/img2k/html_img/main_background.gif">
-<!-- body contents go here -->
- 
+
+<tr><!-- row 6 -->
+<td colspan="16" valign="top" align="left" background="/mgm/images/html_img/main_background.gif">
+
+
+
+
+
+
+
+
+
+    
+
+
+
 
   	<!-- START BODY -->
- 		
+
  		<table border="0" cellspacing="0" cellpadding="0" width="601">
 
 
@@ -380,63 +612,225 @@ function GotoURL(s){
 				</td>
 
 				<td align="right" valign="top" background="">
-				
-					<!-- start right content table-->					
-	
-					<table>
+
+					<!-- start right content table-->
+
+					<table border="0" cellspacing="5" cellpadding="0">
 <tbody><tr><td>
-	
+
 
 
 
 <center>
-<font size="+2"><b><u><span class="fire">Privacy Information</span></u></b></font><b><br><br></b>
+<font size="+2"><b><u><span class="fire">Privacy Policy</span></u></b></font><b><br><br></b>
 <span class="white">
-
+<i>Updated:  February 18, 2004</i><br>
 <p></p></span></center>
 
+<p>
+Metro-Goldwyn-Mayer Studios Inc., and its subsidiary and affiliated entities (including but not limited to entities that do not operate under the "MGM" brand name, such as Orion Pictures Corporation and United Artists Films Inc.) (collectively, "MGM", "we", or "us"), share your concern about the protection of your personal information online.  This Privacy Policy discloses what information we gather on the network of websites that we operate (collectively, the "MGM Site" or our "Site"), how we use it and how to correct or change it.   The MGM Site includes <a href="http://www.mgm.com/home.do" class="title">www.mgm.com</a> and the websites listed at the following address: <a href="http://www.mgm.com/site_finder.do" class="title">www.mgm.com/site_finder.do</a> among others.  Except where otherwise indicated herein, this Privacy Policy applies only to information collected on the MGM Site and does not apply to information collected outside of the MGM Site.
+</p>
+
+<p>
+When you visit the MGM Site you can expect to be informed about:
+</p><ol>
+<li>What information MGM gathers about visitors to the MGM Site ("Site Visitors");
+</li><li>What MGM does with the information it gathers;
+</li><li>With whom MGM shares the information it gathers;
+</li><li>MGM's policy on deleting information;
+</li><li>MGM's policy on correcting or updating personally identifiable information.
+</li></ol>
+
+<p></p>
+<p>
+IN CASES WHERE WE COLLECT INFORMATION FROM CHILDREN UNDER 13, WE FOLLOW SPECIAL ADDITIONAL PROCEDURES, AS SET FORTH IN THE <a href="#childrens" class="title">CHILDREN'S PRIVACY</a> SECTION BELOW.
+
+</p>
+
+<p>
+<b><u>COLLECTION AND USE OF PERSONAL INFORMATION</u></b>:
+<br>
+MGM will not collect or retain any personal information about you (such as your name, e-mail address, telephone number, home address, credit card information and billing address) unless you provide it to us voluntarily.  We may collect personal information from the MGM Site in several ways if you so choose to provide it.  For example, we require you to provide personal information in order to register on the MGM Site, purchase products online, participate in contests, sweepstakes, events or promotions offered on the MGM Site, subscribe to our online newsletter, bulletins or other online services, send questions or comments to us via e-mail or fill out online or e-mail surveys.  Wherever we collect personal information from you online, we will make an effort to include a link to this Privacy Policy on that page.  If you choose to provide it, we may also collect demographic information (such as gender or age) and information about your interests and preferences ("preferences information").  In many cases, such demographic and preferences information is optional.
+</p>
+
+<p>
+For some features of the MGM Site, you can submit information about other people.  For example,  if you wish to send an e-mail or e-postcard to a friend from the MGM Site, you will submit your friend's e-mail address, or if you purchase merchandise for another person at our online store and want it shipped directly to that person, you may submit the recipient's name, address and certain other contact information.  We will use any such information that you provide to us about another person only for the purpose for which you submitted the information, such as delivering the e-mail or merchandise.
+</p>
+
+<p>
+In general, we may retain and use your personal, demographic or preferences information in order to fulfill transactions that you have requested, provide services for which you have subscribed, and respond to your questions or other requests.  We may also use such information to improve the MGM Site and its content, features and services, customize your experience on the MGM Site (for example, pre-populating a shipping form if you later purchase something through our Site) and tailor communications from us to your interests and needs.  The following provides more detail on our collection and use of your information as part of certain features of the MGM Site:
+</p>
 
 
+<p>
+</p><ul>
 
-<p><i><b>Information We Collect</b></i></p> 
-
-<p>Any information that you provide us voluntarily (e.g., user name, e-mail address, phone number) will be retained by us. If you choose to purchase merchandise through the MGM Sites, we collect information about your buying behavior. In addition, if you send us personal correspondence, such as e-mails or letters, or post messages on the bulletin boards or in the chat areas, we may collect such information into a file specific to you. All such information collected by us (collectively, "Personally Identifiable Information") shall become our property throughout the world. If you would like to review or modify any part of your Personally Identifiable Information, you may e-mail us at <a href="mailto:mgmonline@mgm.com" class="title">mgmonline@mgm.com</a> or visit the Update Profile area of the site.</p>
-
-<p><i><b>Information Use</b></i></p>
-
-<p>We do not sell, trade, or license Personally Identifiable Information. You may choose to opt out of receiving information from MGM or its family of companies (collectively, the "MGM Companies") by clicking the appropriate check box on interactive forms on our sites that collect Personally Identifiable Information.<br>
-We may aggregate statistics, traffic patterns, and related site information and disclose such aggregate data to third parties for marketing, advertising, or other promotional purposes, but such aggregate data will not include any Personally Identifiable Information. By using the MGM Sites, you consent to such collection and use by us.<br> 
-You should be aware that when you voluntarily disclose personal information on the bulletin boards or in the chat areas, that information can also be collected and used by others and may result in unsolicited messages from other people.</p>
-
-<p><i><b>Your IP Address and Our Use of "Cookies"</b></i></p>
-
-<p>Certain non-personal information of visitors is recorded by the standard operation of our servers, including, without limitation, the URL that you just came from, which URL you next go to, what browser you're using, and your IP address. Such information is primarily used to provide an enhanced on-line experience for the visitor.<br> 
-Some MGM Sites place a "cookie" in the browser files of each user's computer. A cookie itself does not contain any Personally Identifiable Information, but lets the computers remember that you have registered, if applicable, and saves your passwords, purchases, and preferences from the MGM Sites that you have visited.</p>
-
-<p><i><b>Security</b></i></p>
-
-<p>We store all information collected from your visits to the MGM Sites, including Personally Identifiable Information, in a secure environment using industry standard encryption and providing physical security for our data servers.</p>
-
+<li><b>MGM Newsletter</b>
+<br>
+During the course of registering on our Site, entering sweepstakes and in other areas of our Site, users may be invited to receive a free email subscription to the MGM.com newsletter and various other email updates and bulletins that we send out on a periodic basis (collectively, the "Newsletter") containing items that we hope will be of interest to Site Visitors.  We will not send the Newsletter to Site Visitors unless they have consented to receiving it.  Site Visitors may indicate their consent to receiving the Newsletter either by "opting in" (by affirmatively checking the appropriate box, clicking the appropriate link, or otherwise affirmatively responding to an invitation to subscribe to the Newsletter ) or by choosing not to opt out, depending on the particular area of our Site on which they are given the  opportunity to provide their consent.  Site Visitors must provide their email address in order to receive the Newsletter.  Newsletter subscribers who wish to remove themselves from this mailing list can do so by following the link provided in every Newsletter mailing, or by visiting the "unsubscribe" page on the main MGM.com site, located at <a href="http://www.mgm.com/newsletter_unsubscribe.do" class="title">www.mgm.com/newsletter_unsubscribe.do</a>.
+<p>
+</p></li><li><b>Various Periodic Surveys/Polls</b>
+<br>
+We may offer Site Visitors the opportunity to participate in surveys from time to time which are typically aimed at obtaining general or demographic information about Site Visitors.  Because information obtained in these surveys may be connected with individual Site Visitors and is used internally to better market our services, participation is voluntary.  Data collected from these surveys may be shared with third parties in aggregate form, but such survey data that we share with third parties will not be linked to any personally identifying information provided to us.
+<p>
+</p></li><li><b>Sweepstakes and Contests</b>
+<br>
+MGM offers contests and sweepstakes from time to time which require Site Visitors to provide personal information in order to participate, so that, for example, we can verify entrants' identity and eligibility, and notify potential winners.  We may request that you provide additional demographic or preferences information in connection with these contests and sweepstakes, but in many cases this additional information is optional.  Participation in such sweepstakes and contests is voluntary.  The Official Rules for such contests and sweepstakes may contain additional or different terms regarding the use of personal information provided by entrants.  In the event of any conflict between this Privacy Policy and a contest's or sweepstakes' Official Rules, the Official Rules for that promotion will govern.  Please make sure to read the Official Rules for all promotions offered on the MGM Site.
+<p>
+</p></li><li><b>Purchases</b>
+<br>
+If you purchase products or services on our Site, we may collect personal information from you, such as your address, phone number, credit card or other payment information, or shipping information.  We will not release payment information to third parties except as necessary to complete a transaction between you and such third party, or to otherwise fulfill your order.  Credit card transactions are handled by a third-party service provider, which receives the credit card number and other personal information only to verify the credit card number and process transactions.
 
 
-<center><b>
-We do not allow users under 13 years of age to be listed in our database, receive direct 
-marketing communications from MGM Studios or receive any other third-party offers.
-</b></center>
+</li></ul>
 
-	
+<p></p>
+<p>
+In addition to the foregoing, from time to time we may obtain personal information that has been collected by MGM Partners and MGM Affiliates (as defined below) on their websites.  Our online use of this information will comply with the terms of this Privacy Policy.  However, because this information is not collected on the MGM Site, we are not responsible for the accuracy of this information or how such MGM Partners and MGM Affiliates collect and use this information.  MGM Partners' and MGM Affiliates' collection and use of information that they collect on their websites is subject to their respective privacy policies and is not covered by this Privacy Policy.  The information we collect on the MGM Site may be combined with information collected by MGM Partners and MGM Affiliates to enable us to provide better services to you.
+</p>
+
+<p>
+<b><u>HOW MGM SHARES PERSONAL INFORMATION</u></b>:
+<br>
+We sometimes use other businesses to perform certain services for us, such as website hosting, e-mailing, fulfilling orders, making deliveries, sending postal mail, providing marketing assistance and data analysis, clearing and processing credit card payments, providing e-commerce affiliation services and performing other administrative services.  We may provide personal information, including credit card information, to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties for MGM. We seek to impose confidentiality obligations on such service providers.
+</p>
+<p>
+The parties comprising MGM have various affiliates and subsidiaries (collectively, "MGM Affiliates"), and also have relationships with joint venturers, sponsors, partners, licensees and other businesses (collectively, the "MGM Partners").  During the course of registering on our Site, entering sweepstakes and visiting other areas of our Site, we may ask you if you would like us to share your personal information with MGM Affiliates and MGM Partners in order to offer or provide you with additional information, products or services.  We will not share your personal information with MGM Affiliates or MGM Partners without your consent, which you may give by opting in to such sharing, or, when presented with the choice, choosing not to opt out of such sharing.  If you consent to our sharing your information with MGM Affiliates and MGM Partners, then from time to time, you may receive communications from such MGM Partners and MGM Affiliates, such as promotional offers available from such businesses.  For example, with your consent, we may share personal, demographic and preferences information that you provide in connection with sweepstakes, contests or promotions offered on the MGM Site with our co-sponsors and promotional partners for marketing purposes.
+</p>
+<p>
+If we share your information with MGM Affiliates and MGM Partners in accordance with this Privacy Policy, you may subsequently opt out of future information sharing with such parties at any time by sending an email to <a href="mailto:privacy@mgm.com" class="title">privacy@mgm.com</a> and requesting that your information not be shared with third parties or, if you have created a user profile by modifying your preferences in the "Member Center" area of the main MGM site, currently located at <a href="http://www.mgm.com/profile_signin.do" class="title">www.mgm.com/profile_signin.do</a>.  However, please note that opting out of future information sharing with MGM Affiliates and MGM Partners will not affect their use of any information that we might have shared with them before you opted out of such sharing.
+</p>
+<p>
+We also reserve the right to disclose personal information to third parties when we believe in good faith that the law requires it, to enforce our <a href="http://www.mgm.com/terms_of_use.do" class="title">Terms of Use</a>, to protect the rights, property, safety, or security of MGM or its partners and affiliates, Site Visitors, or the public, to respond to an emergency, or as otherwise stated in this Privacy Policy. We may also disclose information if you have given us permission to do so, for example by voluntarily entering a contest or making a purchase on our Site.
+</p>
+<p>
+Finally, we reserve the right to transfer any and all information that we collect from Site Visitors to third parties in the event that we sell or transfer substantially all of our assets related to the MGM Site to such third party.
+</p>
+
+
+<p><b><u>INFORMATION ON USE OF OUR SITE; AGGREGATE INFORMATION</u></b>:
+<br>
+We may collect certain information about your transactions with us, our affiliates, or others, your Site usage patterns, such as the pages on the MGM Site you have visited and the amount of time you have spent on our Site, and your response to the Newsletter.  In some cases, we may link this information to personal information that you have provided to us in order to better tailor the MGM Site and its services to your needs and preferences.  We may also aggregate this type of information into general, non-personal tracking data derived by tallying and identifying users' page views throughout our Site, depositing and tracking cookies, logging IP addresses, using "web beacons", identifying browser type, and through other technologies (cookies and IP addresses are discussed further below).  Such information enables us to better customize our content and services to users' needs.  We also use tracking data to create aggregate reports on Site Visitor demographics, Site traffic patterns, and consumer behavior.  We may provide these reports to our advertisers and business partners, enabling them to better understand the demographics of our audience and target their advertisements on the Site to Site Visitors.  Please be assured that these aggregate reports will not personally identify you.  
+</p>
+<p>
+<b>Cookies</b>
+<br>
+To enhance your experience with our Site, many of our webpages use "cookies." In general, cookies are small text files that we place in your computer's browser to store your preferences.  These cookies do not, by themselves, tell us your e-mail address and/or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our Site.  If, however, you choose to furnish MGM Site with personally identifiable information, this information may be linked to the data stored in the cookie.  In particular, we use both "session ID cookies" and "persistent cookies." In the case of a session ID cookie, once you close your browser, the cookie terminates altogether.  In contrast, a persistent cookie may be stored on your hard drive for an extended period of time.  If you would like to remove persistent cookies from your hard drive, you may do so by following Internet browser help file directions.
+</p>
+<p>
+The reason we use cookies is to understand site usage and to improve the content and offerings on our Site.  For example, we may use cookies to personalize your experience at our Site (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our Site.  In addition, we may also use cookies to offer you products, programs or services.  You always have the option of disabling cookies using your browser preferences.  Most browsers are initially set up to accept cookies.  You can reset your browser to refuse all cookies or indicate when a cookie is being sent.  However, please be aware that some features of the MGM Site may not function properly or may be slower if you refuse cookies.  You may occasionally get cookies from third parties with links on the MGM Site.  MGM does not control these cookies.  The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+
+</p>
+<p>
+<b>IP Addresses</b>
+<br>
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web.  Web servers, the big computers that "serve up" Web pages, automatically identify your computer by its IP address.  MGM collects IP addresses for purposes of system administration, to report aggregate information to our advertisers, and to track the use of the MGM Site.  When visitors request pages from the MGM Site, our servers log the visitors' IP addresses.
+</p>
+
+<p>
+<b><u>SITE NOTICES</u></b>:
+<br>
+From time to time, in our sole discretion, we may email Site Visitors important information regarding their use of the MGM Site or changes to this Privacy Policy or our Terms of Service.  You may not opt out of receiving such information.
+</p>
+
+
+<p>
+<b><u>CORRECTING INFORMATION</u></b>:
+<br>
+If you create a user profile, you may correct or update information contained in your user profile at any time online by visiting <a href="http://www.mgm.com/profile_signin.do" class="title">www.mgm.com/profile_signin.do</a>, entering your email address and password, clicking "Submit" to enter the update area, and entering new information on the update profile page (click "Submit" on the update page to save changes).
+</p>
+
+
+<p>
+<b><u>LEAVING MGM SITE</u></b>:
+<br>
+Please note that third parties (including, but not limited to, advertisers, MGM Partners and third parties providing services to MGM) may collect information about you, through cookies or other technologies, when you link to their websites through our Site.  You acknowledge that we do not monitor or control the information collection or privacy practices of these or any other third parties, and are not responsible for their practices or the content of their websites.  We encourage you to review the privacy policies of such third parties to understand how they collect and use information.
+</p>
+
+
+<p>
+<b><u>PUBLIC FORUMS</u></b>:
+<br>
+We may provide chat rooms, message boards and other "public" forums on our Site for discussing various topics (collectively, the "Forums").  Please keep in mind that whenever you give out personal information on a Forum, that information can be collected and used by people you do not know.  If you choose to voluntarily disclose information on a Forum, this Privacy Policy will not cover such disclosure of information.  We urge you to use caution when disclosing any personal information on a Forum.
+</p>
+
+
+<p>
+<b><u>SECURITY</u></b>:
+<br>
+Protecting the security of your personal information is very important to us.  Therefore, we have taken precautions to ensure that this information is safe and secure.  We maintain your profile information on a secure server.  To use some features on the MGM Site, we require that you create a password.  We recommend that you do not disclose your password to any other person.  In addition, when you transmit personal information from your PC to our servers, your information is protected by both a "firewall" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network) and industry standard SSL (secure socket layer) encryption.  Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while MGM strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
+</p>
+
+<p>
+<b><u>REVISIONS TO POLICY</u></b>:
+<br>
+Please note that by using the MGM Site, you signify your agreement to this Privacy Policy, as it may be amended from time to time.  If you do not agree to this Privacy Policy, please do not use our Site.  We reserve the right to make changes to this Privacy Policy without prior notice to you, and we may publish such changes by any reasonable means, including, without limitation, posting the amended policy on the MGM Site.  Your continued use of our Site subsequent to changes to this Privacy Policy will mean that you accept and agree to the changes.  Please note that you will always be able to determine if this Privacy Policy has been updated since your last visit to our Site by observing the "Last Revised" legend at the top of this Privacy Policy.
+</p>
+
+
+<p>
+<b><u>CONTACTING US</u></b>:
+<br>
+If you have any questions regarding this Privacy Policy, please email us at <a href="mailto:privacy@mgm.com" class="title">privacy@mgm.com</a>.  If you have any questions regarding the MGM Site, please email us at <a href="mailto:mgmonline@mgm.com" class="title">mgmonline@mgm.com</a>.  Alternatively, you may contact us via postal mail at Privacy Policy Inquiries, MGM.com, Inc., 10250 Constellation Blvd., Los Angeles, California 90067.  This Privacy Policy, including all revisions and amendments thereto, is governed by the laws of the State of California, without regard to its principles of conflicts of law.
+
+</p>
+
+<br>
+<p><a name="childrens"></a>
+<b><u>CHILDREN'S PRIVACY</u></b>:
+<br>
+The websites comprising the MGM Site are general audience websites that comply with the Children's Online Privacy Protection Act ("COPPA").  Children under 13 are only permitted to submit information to MGM in certain limited circumstances.  Any personal information that may be provided to the MGM Site from children under 13 years old will be collected and maintained in accordance with COPPA.  While we encourage parents to supervise their children's online activities, we recognize that parents may not always be able to do so.  Therefore, in addition to the foregoing provisions of this Privacy Policy, MGM has adopted the following special policies to help ensure that parents will be able to know what information their children under 13 are providing to the MGM Site.  To the extent that any terms of this Children's Privacy section conflict with any of the foregoing terms of this Privacy Policy, the terms of this section will control.
+</p>
+
+<p>
+<b>Collection and Use of Information; Parental Notice/Consent</b>
+<br>
+In accordance with COPPA, MGM does not require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation.
+</p>
+
+<p>
+We may collect a child's e-mail address in connection with a contest, sweepstakes or a question e-mailed to us by the child for the sole purpose of communicating with the child on a one-time-only basis (for example, to contact the winner of a contest or respond to a question).  We will not use this information to recontact the child and we will delete it from our records once the game or contest is over.  We will obtain written parental consent before sending any prizes to contest winners or posting any information about any winners on the MGM Site.  For areas of the MGM Site that allow children under 13 to send e-mails or e-postcards to others, we will delete the name and e-mail address of the sender and recipient from our records after the e-mail or e-postcard has been sent and will not use that information to recontact them.
+</p>
+
+<p>
+We may collect a child's e-mail address and first name in order to respond directly to a specific request from the child more than once.  For example, a child may want to receive the Newsletter or participate in a contest that involves more than a one-time contact.  When a child submits such a request, we will obtain an e-mail address for the child's parent(s) along with the child's information.  Before we make any additional response to the child's request, after our initial response, we will send an e-mail to the child's parent(s) that notifies the parent(s) that we have collected personal information from the child for the purpose of responding to the child's particular request and describes the personal information collected from the child, gives the parent(s) the opportunity to deny us permission to send any further responses to the child and to request that we delete the information we have collected from our records, and provides the parent(s) with a link to access this Privacy Policy.
+</p>
+
+<p>
+We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of the MGM Site, to protect against liability, or as required or permitted by law without obtaining a parent's consent.  Information collected for these reasons will not be used for any other purpose.
+</p>
+
+<p>
+Prior to any other collection or use of personal information from a child under 13, MGM shall obtain a parent's consent to such collection and use in accordance with COPPA.  We may seek a parent's consent to collect information such as a child's name, mailing address, e-mail address, etc.
+</p>
+<p>
+<b>Sharing of Information</b>
+<br>
+The personal information collected from children under the age of 13 will not be shared or forwarded by MGM to business partners, advertisers or other third parties without a parent's prior consent, except for trusted third parties who provide support for the internal operations of the Sites, such as preparing and delivering the Newsletter.  These third parties are not authorized to use or disclose such personal information for any other purpose.
+</p>
+<p>
+<b>Parental Access</b>
+<br>
+Parents of children under age 13 may at any time review the personal information about their children that we have collected, refuse to allow any further collection or use of their children's information, and have their children's information deleted from our records.  If you would like to review or delete your child's personal information, please contact us at <a href="mailto:privacy@mgm.com" class="title">privacy@mgm.com</a>.  When a parent requests deletion of his or her child's information, we will use reasonable efforts to delete as much of the child's information from our database as possible and refrain from collecting any other personally identifiable information from such child.  However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+
+</p>
+
+<p align="center">
+© 2004 Metro-Goldwyn-Mayer Studios Inc.
+</p>
+
 </td></tr>
-		
-					</tbody></table>					
+
+					</tbody></table>
 					<!-- end right content table-->
-		
-				
-					
+
+
+
 				</td>
 			</tr>
 			<tr>
-				<td colspan="2" background=""><img src="/img2k/html_img/title/spacer.gif" width="601" height="20"></td>
-					
+				<td colspan="2" background=""><img src="/mgm/images/html_img/spacer.gif" width="601" height="20"></td>
+
 			</tr>
 		</tbody></table>
 
@@ -457,34 +851,35 @@ marketing communications from MGM Studios or receive any other third-party offer
 
 <!-- END BODY -->
 
-<!-- broadcast info -->
 
 
 
 
+    
 
 <!-- COPYRIGHT INFO -->
 	<br><br>
 	<table align="center" width="550" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 	<td background="" align="center">
-	
-				<table border="0" width="525" cellpadding="4" cellspacing="0" align="center">
+
+		<table border="0" width="100%" cellpadding="4" cellspacing="0">
 		<tbody><tr>
-		<td align="center"><a href="http://www.mgm.com/cgi-bin/c2k/sitemap.html" class="silverb">SITE MAP</a></td>
-		<td align="center"><a href="http://www.mgm.com/cgi-bin/c2k/help.html" class="silverb">HELP/CONTACTS</a></td>
-		<td align="center"><a href="http://www.mgm.com/cgi-bin/c2k/terms_of_use.html" class="silverb">TERMS OF USE</a></td>
-		<td align="center"><a href="http://www.mgm.com/cgi-bin/c2k/private_policy.html" class="silverb">PRIVACY POLICY</a></td>
+		<td align="center" valign="top"><a href="sitemap.do" class="silverb">SITE MAP</a></td>
+		<td align="center" valign="top"><a href="help.do" class="silverb">HELP/CONTACTS/FAQ</a></td>
+		<td align="center" valign="top"><a href="corp_main.do" class="silverb">CORPORATE INFO</a></td>
+		<td align="center" valign="top"><a href="corp_employment.do" class="silverb">JOBS</a> &nbsp;</td>
+		<td align="center" valign="top"><a href="terms_of_use.do" class="silverb">TERMS OF USE</a></td>
+		<td align="center" valign="top"><a href="private_policy.do" class="silverb">PRIVACY POLICY</a></td>
 		</tr>
 		</tbody></table>
-				
-				
-			
-	
+
 	</td>
 	</tr>
 	<tr>
-	<td background="" align="center"><p class="silvers" align="center">TM &amp; © 2001 <a href="http://www.mgm.com/cgi-bin/c2k/corp_main.html" class="silverb">Metro-Goldwyn-Mayer Studios Inc.</a> All Rights Reserved.</p></td>
+	<td background="" align="center"><p class="silvers" align="center">TM &amp; © 2000-2007 <a href="corp_main.do" class="silverb">Metro-Goldwyn-Mayer Studios Inc.</a> All Rights Reserved.</p>
+
+</td>
 	</tr>
 	</tbody></table>
 	<br>
@@ -492,24 +887,17 @@ marketing communications from MGM Studios or receive any other third-party offer
 	<br>
 
 </td>
-<td valign="top"><img src="/img2k/html_img/shim.gif" width="1" height="405" border="0"></td>
+<td valign="top"><img src="/mgm/images/html_img/shim.gif" width="1" height="405" border="0"></td>
 </tr>
 </tbody></table>
 
 
 
-<map name="Tron">
-<area shape="rect" coords="5,2,79,64" href="http://www.mgm.com/cgi-bin/c2k/movies.html">
-<area shape="rect" coords="78,2,169,67" href="http://www.mgm.com/cgi-bin/c2k/hannibal/teaser.html">
-<area shape="rect" coords="168,2,259,66" href="http://www.mgm.com/cgi-bin/c2k/backlot_main.html">
-<area shape="rect" coords="259,2,350,66" href="http://www.jamesbond.com" target="_new">
-<area shape="rect" coords="350,2,440,68" href="http://www.stargate-sg1.com" target="_new">
-<area shape="rect" coords="441,2,528,71" href="http://www.mgm.com/cgi-bin/c2k/contest.html">
-<area shape="rect" coords="529,2,605,71" href="http://www.pinkpanther.com" target="_new">
-</map>
- 
 
 
+
+
+<br>
 
 
 </body></html>
