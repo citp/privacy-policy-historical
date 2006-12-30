@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205031id_/http%3A//topweddingsites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230101716id_/http%3A//www.topweddingsites.com/privacy.htm) for the most accurate reproduction.*
 
-# Top Wedding Sites - Privacy Policy
+# Team Wedding, Home of Top Wedding Sites Privacy Policy
 
   
 **The Information Collected and How it is Used**
@@ -37,7 +37,7 @@ Note: When you opt-out
 
 This site gives users options for changing and modifying information previously provided.
 
-e-mail: [admin@topweddingsites.com](mailto:admin@topweddingsites.com)  
+e-mail through our [online contact form](https://web.archive.org/contact.php)   
 visit: www.topweddingsites.com
 
 
@@ -48,5 +48,5 @@ visit: www.topweddingsites.com
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ...
 
-> **TopWeddingSites.com**   
->  [admin@topweddingsites.com](mailto:admin@topweddingsites.com)
+> **TopWeddingSites.com** through our [online contact form](https://web.archive.org/contact.php)   
+> 
