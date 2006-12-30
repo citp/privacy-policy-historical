@@ -1,178 +1,107 @@
-> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193458id_/http%3A//www.atari.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230022345id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
 
-# Atari - US - Privacy
+# Privacy Policy - About AOL
 
----  
-[Home](https://web.archive.org/us/) \- [Privacy Policy](https://web.archive.org/us/privacy/)  
-|  |  |   
----|---|---  
-| 
+Thank you for registering your Screen Name to obtain enhanced access to the network of Web sites and services offered by AOL LLC ("AOL"). The AOL Network improves your online experience by offering you access to a variety of features, offerings and content. By registering your Screen Name, you gain access to the AOL Network, which consists of [AOL Enhanced Websites and Services](http://about.aol.com/aolnetwork/aol_enhanced.html) such as AIM Mail, and other content and offerings from the AOL Network's [affiliated providers](http://about.aol.com/aolnetwork/affiliates.html) (collectively the "AOL Network" or "Network").
 
-|  |  |  |   
----|---|---  
-|    
-**ATARI ONLINE PRIVACY STATEMENT**
+When you register with and use the AOL Network, you provide the AOL Network with personally identifiable information (your "AOL Network information"). This Policy explains the information practices that apply to your AOL Network information, as well as the choices you can make about the ways this information is used by the AOL Network.
 
-Last updated April 1, 2006
+Registering to use your Screen Name with the AOL Network is optional. This Privacy Policy applies only to information AOL collects about you as a user of the AOL Network. This policy does not apply to information about you collected by the AOL Network's affiliated providers, or third party Web sites and offerings linked to or otherwise accessible from the AOL Network. The information collected or received by the AOL Network's affiliated providers and these third parties is subject to their own privacy policies.
 
-Welcome to Atari!
+### Collection of your AOL Network Information
 
-**OUR PRIVACY COMMITMENT**
+Your AOL Network information consists of personally identifiable information collected or received about you when you interact with the AOL Network's Web sites, services and offerings as a registered user. Depending on how you use the Network, your AOL Network information may include
 
-[](http://www.esrb.org/confirm/atari-confirmation.jsp) Atari, Inc., and its subsidiaries and affiliates (collectively, "Atari") respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
+  * registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);
+  * information about your visits to AOL Network Web sites and pages, and your responses to the offerings and advertisements presented on these Web sites and pages;
+  * information about the searches you perform through the AOL Network and how you use the results of those searches;
+  * information about the AOL Network services or offerings that you use, and how frequently you use them;
+  * information about how long you have used services from AOL, Inc. prior to registering with the Network;
+  * transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through the AOL Network);
+  * customer service information about you as a AOL Network user or subscriber; or
+  * other information specifically related to your use of a particular AOL Network service or offering.
 
-This Privacy Statement and the certification seal shown on this page confirms that Atari is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-**TABLE OF CONTENTS
 
-Q1. What information does this Privacy Statement cover?  
-Q2. What types of personally identifiable information do we collect about our guests?  
-Q3. How is your personally identifiable information used and shared?  
-Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?  
-Q5. What kinds of security measures do we take to safeguard your personally identifiable information?  
-Q6. How can you update your personal information and profile?  
-Q7. How can you ask questions, or send us comments, about this Privacy Policy?  
-Q8. How will you know if we amend this Privacy Policy?
+Your AOL Network information may be supplemented with additional information from other companies.
 
-**
+Your AOL Network information may also include certain technical information gathered or received when you use the AOL Network. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from AOL Inc. that you used prior to registering with the Network; other information about your geographic location; and the domain name of your Internet service provider.
 
-|  **Q1.**|  **What information does this Privacy Statement cover?**  
----|---  
-**A1.**|  This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Atari through any other means.
+Your AOL Network information may be collected and stored in the United States. Additionally, the AOL Network will use the Screen Name Service, or similar technologies, to authenticate you on the AOL Network and enable you to take advantage of Network offerings. You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of Web sites outside the AOL Network, by visiting [Screen Name Service](http://my.screenname.aol.com/).
 
-This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted.
+### How Your AOL Network information is Used
 
-Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by Atari offline. This Privacy Policy applies only to websites maintained by Atari, and not to our international affiliates (Atari in France, United Kingdom, Italy, etc.), or any websites maintained by other companies or organizations to which we link. Atari is therefore not responsible for the content or activities provided on those websites.
+Your AOL Network information is used
 
-Finally, the terms of this Privacy Policy are subject to all applicable laws.   
-  
-back to top  
-**Q2.**|  **What types of personally identifiable information do we collect about our guests?**  
----|---  
-**A2.**|  We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you. To offer our guests certain features on our website, we collect several types of personal information.
+  * to operate and improve the Web sites, services and offerings available through the AOL Network;
+  * to personalize the content and advertisements provided to you;
+  * to fulfill your requests for products, programs, and services;
+  * to communicate with you and respond to your inquiries;
+  * to conduct research about your use of the AOL Network; and
+  * to help offer you other products, programs, or services that may be of interest.
 
-**Children**
 
-We don't knowingly collect personal information from children under 13. We take steps to ensure that those who wish to register personal information on our websites meet certain age requirements before they can do so. We take kids privacy seriously, and encourage parents to play an active role in their children's online experience at all times. 
 
-**Information You Provide to Us**
+Your AOL Network information may be shared with the Network's affiliated providers. You have [choices](http://about.aol.com/marketingprefs.adp) about how your AOL Network information is used, and whether affiliated providers receive personally identifiable information about you as an AOL Network user. Affiliated providers that receive your AOL Network information may use this information according to their applicable privacy policies. 
 
-All of the personal information we receive comes directly from our guests. We collect personal information from our guests to:
+Your AOL Network information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, in other circumstances in which you have consented to the sharing of your AOL Network information, or except as described in this Privacy Policy. The AOL Network may use your AOL Network information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of AOL Network users, but do not receive information that personally identifies you.
 
-1\. register for our website  
-2\. register our products  
-3\. subscribe to our newsletter  
-4\. register for community forum  
-5\. participate in polls, surveys, and questionnaires  
-6\. use e-cards, wish lists, and tell-a-friend features  
-7\. purchase a product at one of our online stores  
-8\. participate in contests, sweepstakes, or other promotions  
-9\. receive technical support
+If you use AOL Network communications tools to disclose information about yourself publicly (for example, in chat rooms or online message boards made available by the AOL Network), other online users may obtain access to any information you provide. The contents of your online communications, as well as other information about you as an AOL Network user, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which AOL believes the AOL Network is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of AOL, the AOL Network or its affiliated providers, or for us to render the service you have requested. 
 
-Typically, this information includes:
+The AOL Network may use agents and contractors in order to help operate the Network. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the AOL Network.
 
-1\. name  
-2\. email address  
-3\. telephone number  
-4\. shipping and billing address, and  
-5\. for those purchasing products online, credit card information.
+In the event that ownership of the AOL Network was to change as a result of a merger, acquisition or transfer to another company, your AOL Network information may be transferred. If such a transfer results in a material change in the use of your AOL Network information, the AOL Network will provide notice about the choices you have to decline to permit such a transfer.
 
-Additionally, we may also collect other types of non-personal information (known as demographic information) such as your age or date of birth, gender, hobbies, platform preferences, and other game ownership and preferences. This demographic information may be associated with your personal information.
+### Your Choices About Your AOL Network Information
 
-**Information Collected Through Technology**
+The AOL Network provides you with access to your registration and any billing or shipping information; the ability to edit this information at the [ My Account ](http://about.aol.com/aolnetwork/my_account.html) area; and the ability to deactivate your registration with the AOL Network. Additionally, some AOL Network services (AOL Search, for example) may offer you the ability to control what information is collected or used when you use these services.
 
-We collect information through technology to make our websites more interesting and useful to you. For example, when you come to one of our websites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our websites. We may combine this information with personally identifiable information.
+You can [make choices ](http://about.aol.com/marketingprefs.adp)about how your AOL Network information may be used by the AOL Network to provide marketing offers to you. In order to do so, please visit the [My Account](http://about.aol.com/aolnetwork/my_account.html) area and review your AOL Network marketing preferences. These preferences do not apply to communications that are directly related to your registration with the AOL Network, or the fulfillment of a specific transaction you have requested (for example, a service advisory from the AOL Network, or an acknowledgment of a purchase order).
 
-**Cookies**
+You may also choose whether the AOL Network's affiliated providers receive personally identifiable AOL Network information. This choice does not apply to the sharing of AOL Network information necessary to provide you the basic functionality of the Network (for example, recognizing you as an authenticated user on affiliated providers' Web sites or services). Additionally, the AOL Network may share personally identifiable AOL Network information with one or more of its affiliated providers when that information is necessary to carry out a specific transaction or request you make for an offering from the Network or its affiliated providers, or as otherwise specified at the time you take advantage of that particular Network offering.
 
-Our websites also use cookies. Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. We and other companies use cookies for a variety of purposes. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You can do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
+Because the choices you make in connection with your AOL Network information may not take effect immediately, it is possible you may receive a communication during the period in which your request is being processed.
 
-**Web Beacons**
+### Cookies and Web Beacons
 
-Our websites use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which our users visit various parts of our websites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+The AOL Network may use [cookies, web beacons, or similar technologies ](http://about.aol.com/aolnetwork/beacons.html) in combination with your AOL Network information to enhance and personalize your experience on the AOL Network, including to operate and improve offerings through the AOL Network; to help authenticate you when you use the AOL Network; to remember your preferences and registration information; to enable a shopping cart; to present and help measure and research the effectiveness of AOL Network offerings, advertisements, and e-mail communications (by determining which Network e-mails you open and act upon); and to customize the content and advertisements provided to you through the AOL Network.
 
-**Network Advertisers**
+The AOL Network and its advertisers may also use ad network providers, including AOL subsidiaries such as Advertising.com, to help present advertisements on the AOL Network and other Web sites. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The AOL Network may share certain non-personally identifiable information about you as a Network user (such as user age and zip code) with certain ad network providers, including Advertising.com, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by Advertising.com and other ad network providers is subject to their own privacy policies, not the AOL Network's. You can find out more about ad network providers and the choices you have about these technologies by clicking [here ](http://about.aol.com/aolnetwork/beacons.html). 
 
-Many advertisements are managed and placed on our websites by third parties. These companies are called "network advertisers". Network advertisers who place advertisements on our websites may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser.
+### Information for AOL and CompuServe Subscribers
 
-Finally, once you've clicked on an advertisement and have left our Websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.   
-  
-back to top  
-**Q3.**|  **How is your personally identifiable information used and shared?**  
----|---  
-**A3.**|  We don't share, sell, or rent your personal information to third parties without your consent. We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.
+Certain AOL Network offerings may be made available to subscribers of the AOL and CompuServe online services, without requiring these subscribers to register with the AOL Network.
 
-Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
+### Personal Financial Information
 
-**Atari Tools and Updates**
+The following notice explains the AOL Network's practices with respect to the use of personal financial information, such as AOL Network portfolios ("AOL Network financial features"). By using AOL Network financial features, you agree to receive future notices required under the Gramm-Leach-Bliley Act through the continuous posting of this Privacy Policy online.
 
-Information collected from those who voluntarily submit it to us is used to provide services like updates on special events, game news, and email announcements of interest to our users. Occasionally, we share your personal information (e.g., email address) with a third party sponsor, co-sponsor, or other reputable third party that provides products or services that may be of interest to you. Moreover, if you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. However, you should understand that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. As such, whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
+To use the portfolio feature on the AOL Network, for example, you specify the types of stocks and funds you wish to monitor, the names of the particular stocks of interest to you, and their purchase price ("portfolio information"). To give you updated information when you use these features, AOL Network servers automatically collect and store the portfolio information that you provide. Similarly, if you use a Wallet service to facilitate transactions on third party sites, you provide the AOL Network with information including your name, credit card, and shipping addresses ("wallet information").
 
-**Operational Uses**
+The AOL Network does not disclose portfolio or wallet information to unaffiliated third parties other than in the limited circumstances permitted by law (for example, in response to legal process), or when you ask us to disclose the information (for example, when you request that the Network share wallet information in order to facilitate a purchase on a third party web site). Nor does the AOL Network share information about the specific types of stocks and funds in your portfolio with the Network's affiliated providers. Any sharing of portfolio or wallet information with the Network's affiliated providers is also subject to your [choices](http://about.aol.com/marketingprefs.adp).This policy does not apply, however, to financial information that you provide to an affiliated provider or a third party in connection with your use of their sites or offerings.
 
-We may also use your personal information for other purposes such as "Operational Uses". For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy.
+If you click through a banner advertisement on the portfolio or wallet features, and identify yourself to the advertiser (for example, by placing an order), the advertiser may be able to tell that you use that feature. No portfolio or wallet information is shared with the advertiser unless you request it.
 
-We occasionally use other companies, agents or contractors to perform services necessary to our operations. For example, we have partnered with other companies to personalize our web pages, process credit card transactions, analyze customers. interaction with our website, and process consumer surveys. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifying information. These entities have agreed to securely store and maintain the personal information received from us.
+Only employees and contractors who need to know this information in order to provide this service to you are authorized to access portfolio or wallet information.
 
-**Aggregate Information**
+### Our Commitment to Security
 
-Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information.
+The AOL Network has established safeguards to help prevent unauthorized access to or misuse of your AOL Network information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the Network and its affiliated providers). To protect your privacy and security, the AOL Network uses passwords to help verify your identity before granting access or making corrections to any of your AOL Network information.
 
-**Business Information**
+### Special Note for Parents
 
-For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes, event sponsorship, etc.) may be shared with third parties, depending on the nature of the inquiry.
+The AOL Network is intended for a general audience, and children under the age of thirteen are not permitted to register with the AOL Network. If any of the AOL Network's affiliated providers offers a site directed toward children, or knowingly collects information from children, that affiliated provider is required to provide you information about its practices for the handling of children's online data through its privacy policy.
 
-**Purchase or Sale of Businesses**
+### How to Contact Us
 
-From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
+If you have any questions or concerns about the AOL Network's Privacy Policy or its implementation, you may contact us at this email address:
 
-**Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others**
+privacyquestions@aol.com
 
-We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties.   
-  
-back to top  
-**Q4.**|  **What choices do you have about the collection, use, and sharing of your personally identifiable information?**  
----|---  
-**A4.**|  As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by emailing us at [webmaster@atari.com](mailto:webmaster@atari.com), or contacting us via the Atari mailing address.   
-back to top  
-**Q5.**|  **What kinds of security measures do we take to safeguard your personally identifiable information?**  
----|---  
-**A5.**|  The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.   
-back to top  
-**Q6.**|  **How can you update your personal information and profile?**  
----|---  
-**A6.**|  You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [webmaster@atari.com](mailto:webmaster@atari.com)  
-back to top  
-  
-**Q7.**|  **How can you ask questions, or send us comments, about this Privacy Policy?**  
----|---  
-**A7.**|  If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at:
+### Changes to this Privacy Policy and Additional Information
 
-Atari, Inc.  
-Attn.: Webmaster  
-417 Fifth Avenue  
-New York, NY 10016  
-[webmaster@atari.com](https://web.archive.org/web/20060615193458id_/http://atari.com/us/privacy/webmaster@atari.com)
+The AOL Network may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to the AOL Network's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the AOL Network, as well as for special features and services not described in this Policy that may be introduced in the future. 
 
-Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
+Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
 
-Atari is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
-
-ESRB  
-Attn.: Privacy Online Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-212-759-0700  
-[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)  
-  
-back to top  
-**Q8.**|  **How will you know if we amend this Privacy Policy?**  
----|---  
-**A8.**|  We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
-
-Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.   
-  
-back to top  
-|  |   
-  
-|  | 
+Last Updated 4-03-06
