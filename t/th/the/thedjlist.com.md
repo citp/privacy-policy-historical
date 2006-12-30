@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508233555id_/http%3A//www.thedjlist.com/corporate/legal.php%3FsecID%3DLegal%26secOne%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230120341id_/http%3A//www.thedjlist.com/corporate/legal.php%3FsecID%3DLegal%26secOne%3DPrivacy) for the most accurate reproduction.*
 
 # The DJ List: Corporate: Privacy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-[Terms of Use](https://web.archive.org/web/20060508233555id_/http%3A//www.thedjlist.com/corporate/legal.php?secID=Legal) | **Privacy**
+[Terms of Use](https://web.archive.org/web/20061230120341id_/http%3A//www.thedjlist.com/corporate/legal.php?secID=Legal) | **Privacy**
 
   1. What personally identifiable information is collected from you
   2. What are cookies and how are they used
@@ -130,3 +130,5 @@ Your The DJ List account can be deleted, but doing so will result in not being a
 If you are participating in a The DJ List promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [promotions@thedjlist.com.com](mailto:promotions@thedjlist.com). 
 
 (top)
+
+**NEW** : Join [The DJ List Community](http://community.thedjlist.com/)! Join up and chat with music fans all over the world! Note that it requires an additional registration to join. So, what are you waiting for? [check it out](http://community.thedjlist.com/)!
