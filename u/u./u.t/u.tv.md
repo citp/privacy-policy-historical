@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193234id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230202203id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::: u.tv :::
 
-|   |  | [](http://u.tv/internet/tools) |  | [](http://webmail.u.tv/) |  | [](http://u.tv/sitemap.asp) |  | [](http://u.tv/contactus.asp) |  | [](http://u.tv/customise.asp) |  | [](http://u.tv/search)  
+|   |  | [](http://www.u.tv/internet/tools) |  | [](http://webmail.u.tv/) |  | [](http://www.u.tv/sitemap.asp) |  | [](http://www.u.tv/contactus.asp) |  | [](http://www.u.tv/customise.asp) |  | [](http://www.u.tv/search)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 
