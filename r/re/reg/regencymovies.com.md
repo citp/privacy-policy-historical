@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regencymovies.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514172329id_/http%3A//regencymovies.com/privacy.php%3FtheaterId%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regencymovies.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230054459id_/http%3A//regencymovies.com/privacy.php%3FtheaterId%3D) for the most accurate reproduction.*
 
 # Regencymovies.com Privacy Policy
 
@@ -25,6 +25,6 @@ If you would like to remove your name and e-mail address from our database, you 
 ** Regencymovies.com contains links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites. 
 
 **Who can I ask if I have any additional questions?**  
-If you have any further questions or concerns about Regency Theatres privacy policy and use of personal information, please use our [**feedback form**](https://web.archive.org/web/20060514172329id_/http%3A//regencymovies.com/feedback.php) or link below to send us an email.
+If you have any further questions or concerns about Regency Theatres privacy policy and use of personal information, please use our [**feedback form**](https://web.archive.org/web/20061230054459id_/http%3A//regencymovies.com/feedback.php) or link below to send us an email.
 
 [privacy@regencymovies.com](mailto:privacy@regencymovies.com?subject=Privacy%20Policy)
