@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023224id_/http%3A//paloalto.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230220435id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Palo Alto Software, Inc.
 
 |  Palo Alto Software Privacy Statement:
 
-Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
+Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com and paloaltosoftware.com owned and operated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
 
 
 1\. What personally identifiable information of yours or a third party is collected through the website.  
@@ -39,7 +39,7 @@ Downloaded Software: The TRUSTe program covers only information that is collecte
 
 You will be notified of any significant privacy statement updates or if we change the way we collect or use personally identifiable information through email, then wait for your consent. We have measures in place to protect your personally identifiable information. Our employees are made aware of these measures when they start working at Palo Alto Software, Inc. Any time there is a change in security measures, all employees are notified of the change. We are using SSL (Secure Socket Layer) encryption for your credit card transactions, and we are authorized by VeriSign. We do share your credit card information with a third party only for verification purposes. All customer information available to internal employees is only accessible on our internal company network. 
 
-The data we collect is used in the aggregate to give us demographic information about the entire Palo Alto Software, Inc. audience in order to improve our products and services. The information you provide -- name, address, etc. -- allows us to keep you informed about upgrades, products and services of Palo Alto Software, Inc., its affiliates and other third parties that we believe may be of interest to you. If you are a registered user of one of our products, we will only send information regarding your product or any assistance you require. We do not send our business planning newsletter automatically: you will only receive it if you specifically register for it. We only share aggregate information (i.e. number of users, referral URLs, etc.) -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising. 
+The data we collect is used in the aggregate to give us demographic information about the entire Palo Alto Software, Inc. audience in order to improve our products and services. The information you provide -- name, address, etc. -- allows us to keep you informed about upgrades, products and services of Palo Alto Software, Inc., its affiliates and other third parties that we believe may be of interest to you. If you are a registered user of one of our products, we will only send information regarding your product or any assistance you require. We do not send our business planning newsletter automatically: you will only receive it if you specifically register for it. We only share aggregate information (i.e. number of users, referral URL's, etc.) -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising. 
 
 The data we collect from users who sign up for our affiliate program is used to correspond regarding the affiliate program, to send checks for affiliate payments, to initiate bank transfers for affiliate payments, to send email updates regarding the affiliate program, and to send evaluation products to affiliate program members. We communicate with our users only if you buy a product, sign up for our planning newsletter, or sign up for our free membership to use one of our planning tools. In each case, you will receive our bi-weekly planning newsletter. If you buy a product, you will receive a confirmation email, and have the choice if you'd like to receive further product offer emails. If you sign up for our free membership, you will receive a login information email, and future product offer emails. 
 
@@ -53,12 +53,12 @@ If you would like to modify, update or delete information that is collected thro
 
 Legal Disclaimer: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website. 
 
-If you have questions, we can be reached by email at [customerservice@paloalto.com](mailto:customerservice@paloalto.com?subject=Help) or direct them to the Palo Alto Software, Inc. site coordinator at [chad@paloalto.com](mailto:chad@paloalto.com?subject=Help) . 
+If you have questions, we can be reached by email at [customerservice@paloalto.com](mailto:customerservice@paloalto.com?subject=Help) or direct them to the Palo Alto Software, Inc. site coordinator at [noah@paloalto.com](mailto:noah@paloalto.com?subject=Help) . 
 
 Effective Date: 12/28/05 
 
 Palo Alto Software  
-144 East 14th Avenue  
+488 East 11th Avenue, Ste 220   
 Eugene, OR 97401  
 541-683-6162 
 
