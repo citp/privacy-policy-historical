@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2006-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060531060642id_/http%3A//www.readersdigest.co.uk/privacy-policy-i-19.html%3FosCsid%3Df61ade3e209e7f40fc8fb3ed759de8db) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230025908id_/http%3A//www.readersdigest.co.uk/privacy-policy-i-19.html%3FosCsid%3D4cbb0490e059fcfab9ee02663277071a) for the most accurate reproduction.*
 
-# :: Reader's Digest - British Edition
+# 
 
 **PRIVACY POLICY  
   
