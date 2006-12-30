@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211728id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230151639id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
 
 # NASCAR.COM : privacy policy
 
 NASCAR.COM Privacy Notice
 
-Thank you for visiting NASCAR.com. Turner Sports Interactive, Inc. ("TSI") operates NASCAR.com pursuant to agreements with the National Association for Stock Car Auto Racing, Inc. and NASCAR Digital Entertainment, Ltd. (collectively, "NASCAR"). Your privacy is important to TSI and NASCAR ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at NASCAR.com. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate, including the NASCAR.com Store. Please see the [NASCAR.COM Store's Privacy Notice](http://store.nascar.com/helpdesk/index.jsp?display=safety&subdisplay=privacy).
+Thank you for visiting NASCAR.COM. Turner Sports Interactive, Inc. ("TSI") operates NASCAR.COM pursuant to agreements with the National Association for Stock Car Auto Racing, Inc. and NASCAR Digital Entertainment, Ltd. (collectively, "NASCAR"). Your privacy is important to TSI and NASCAR ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at NASCAR.COM. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate, including the NASCAR.COM Store. Please see the [NASCAR.COM Store's Privacy Notice](http://store.nascar.com/helpdesk/index.jsp?display=safety&subdisplay=privacy).
 
 The Information We Collect
 
@@ -32,7 +32,7 @@ We sometimes use the non-personally identifiable information that we collect to 
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
 
-Agents and contractors of NASCAR.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for NASCAR.com.
+Agents and contractors of NASCAR.COM who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for NASCAR.COM.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that is collected will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
@@ -40,7 +40,7 @@ We may also disclose personally identifiable information to companies whose prac
 
 We may on occasion combine information we receive online with other information and outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, click here for instructions on how to make your request. 
 
-Finally, NASCAR.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Finally, NASCAR.COM will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
 Cookies & Web Beacons
 
@@ -54,7 +54,7 @@ Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
 
 Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we may not have control over information that is submitted to, or collected by, these third parties.
 
-We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. NASCAR.com does not have ultimate control over these third parties' use of this information. NASCAR.com will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
+We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. NASCAR.COM does not have ultimate control over these third parties' use of this information. NASCAR.COM will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
 We may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on this site's use of such third-party ad servers data collection, please click here.
 
