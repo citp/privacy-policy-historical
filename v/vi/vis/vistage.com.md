@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615104744id_/http%3A//www.vistage.com/about-us/legal-documents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231002420id_/http%3A//vistage.com/about-us/legal-documents/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Vistage International - Privacy Policy
 
 **What This Privacy Policy Covers**
 
