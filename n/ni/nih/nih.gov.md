@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nih.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013826id_/http%3A//www.nih.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nih.gov privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230113229id_/http%3A//www.nih.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Notice - National Institutes of Health (NIH)
 
@@ -10,8 +10,6 @@ About "Cookies"
 While visiting sites within the NIH.GOV domain, you may occasionally encounter a Web page that employs “cookies”. A cookie is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session while you are connected.
 
 Requests to send cookies from NIH Web pages are not designed to collect information about you, but only about your browser "session." The cookie makes it easier for you to use the dynamic features of these Web pages. The cookie and the information about your session will be destroyed automatically shortly after you close your browser — it is not permanently stored on your computer. Unless an NIH web page specifically notifies you otherwise, we will not collect and maintain personal information about you.
-
-Many NIH sites are now running customer satisfaction surveys that employ persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites. [More information is available on this use of persistent cookies](http://www.nih.gov/about/asci.htm).
 
 To protect your privacy, be sure to close your browser completely after you have finished conducting business with a Web site that uses cookies. If you are concerned about the potential use of information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
 
