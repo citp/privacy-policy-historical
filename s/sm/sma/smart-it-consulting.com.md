@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smart-it-consulting.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417225756id_/http%3A//www.smart-it-consulting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smart-it-consulting.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230201206id_/http%3A//www.smart-it-consulting.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
