@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chriscornell.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511203409id_/http%3A//staging.interscope.com/signup/privacypolicy.asp%3Fsrc%3Dhttp%3A//www.chriscornell.com%26scnr%3Dnews) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriscornell.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230045632id_/http%3A//staging.interscope.com/signup/privacypolicy.asp%3Fsrc%3Dhttp%3A//www.chriscornell.com%26scnr%3Dnews) for the most accurate reproduction.*
 
 # UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
@@ -78,3 +78,5 @@ If you have any questions about our privacy practices, please feel free to conta
 **UMG Privacy Officer**  
 2220 Colorado Avenue, Santa Monica , CA 90404  
 (310) 865-5000 or email us by [ clicking here](http://privacypolicy.umusic.com/email/default.asp).
+
+(2) 
