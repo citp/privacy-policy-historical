@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620060100id_/http%3A//www.williams-sonomainc.com/pri/index.cfm%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230232220id_/http%3A//www.williams-sonomainc.com/pri/index.cfm%23pp) for the most accurate reproduction.*
 
 # Williams-Sonoma, Inc.
 
