@@ -1,26 +1,20 @@
-<!--The following is the downloaded HTML source of the dog.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211030id_/http%3A//www.dog.com/helpdesk/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dog.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230122510id_/http%3A//www.dog.com/helpdesk/privacy_policy.asp) for the most accurate reproduction.-->
 
-<html><head>
-
-
-
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function checkMail()
-{
-	var x = document.em.emailadd.value;
-	var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-	if (filter.test(x)) window.open('signuppop.asp?EM='+document.getElementById('emailadd').value,'','status=0,height=350,width=425,resizable=1');
-	else alert('Invalid email address - Please enter email address again');
+<html><head><script language="javascript1.2">
+function getPrinterFriendly(){
+	document.getElementById("printerDataForm").pageSource.value=document.getElementById('PrintableArea').innerHTML;
+	document.getElementById("printerDataForm").submit();
 }
-
-// -->
 </script>
-
-
+</head><body onload=" "><form name="printerDataForm" id="printerDataForm" method="post" action="/printviewcart.asp">
+<input type="hidden" name="pageSource" value="test">			
+</form><!-- Snap Cookie: --><!-- Flex Cookie: --><!-- Referer: -->
+<!-- 2 Set by cookie snap_UID --><!-- NEW 3(MACS) UID=: 3540123007285326 --><!-- 3 Set by Ecometry- UID=:  3540123007285326 --><!-- Source Code (Set Default): DW060101DCOM1 -->
+<!-- After topofpage.asp (UID, etc) : 12/30/2006 7:28:53 AM -->
+<!--Nav Cached<br>-->
+<script language="javascript" type="text/javascript" src="/includes/cookies.js"></script>
+<script language="javascript" type="text/javascript" src="/includes/toolTip.js"></script>
 
 <!--/helpdesk/privacy_policy.asp-->
 <title>Helpdesk : Privacy Policy - Dog.com</title> 
@@ -28,299 +22,277 @@ function checkMail()
 <meta name="KEYWORDS" content="Privacy Policy, dog, dog.com, discount pet supplies, wholesale dog supply, online dog store, pet supply, dog supplies, pet accessories, dog products, toys, treats, dog supply catalog, pet supplies, wholesale dog supplies">
 
 <meta name="robots" content="index,follow">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
-<!-- After header is set  : 6/15/2006 5:11:31 PM -->
+
+<!-- After header is set  : 12/30/2006 7:28:53 AM -->
 
 <link rel="stylesheet" href="/includes/styleSheet.css" type="text/css">
 <script language="javascript" type="text/javascript"><!--
-function Validate(theform) { if (theform.SKW.value== "") { alert("Please enter a search term and try again."); return (false); } return (true) } //-->
+function Validate(theform)
+{
+ if ((theform.SKW.value== "") || (theform.SKW.value == "keyword or item #"))
+ { 
+	alert("Please enter a search term and try again.");
+	return (false);
+ }else 
+ {
+	setNameCookie('dogsearchex',theform.SKW.value,1);
+	return (true);
+ }	
+}
+function ValidateSignIn(theform)
+{
+  if ((theform.name == "RetCust") || (theform.name == "nomatch")){
+    if (theform.L1.value== "")
+    { 
+	  alert("Please enter your email address and try again.");
+	  return (false);
+    }else if (theform.P1.value == ""){
+	  alert("Please enter your password and try again.");
+	  return (false);
+    } else{
+	  return (true);
+	}
+  }else if (theform.name == "MCust"){
+  	if (theform.L1.value== "")
+    { 
+	  alert("Please enter your Last Name and try again.");
+	  return (false);
+    }else if (theform.fname.value == ""){
+	  alert("Please enter your First Name and try again.");
+	  return (false);
+    }  else if (theform.street.value == ""){
+	  alert("Please enter your street address and try again.");
+	  return (false);
+    }  else if (theform.city.value == ""){
+	  alert("Please enter your city and try again.");
+	  return (false);
+    }  else if (theform.state.value == ""){
+	  alert("Please enter a state and try again.");
+	  return (false);
+    }  else if (theform.Zipcode.value == ""){
+	  alert("Please enter your Zip Code and try again.");
+	  return (false);
+    }  else if (theform.P1.value == ""){
+	  alert("Please enter your password and try again.");
+	  return (false);
+    }  else{
+	  return (true);
+	}  
+  } else if (theform.name == "NewCust"){
+    if (theform.L1.value== "")
+    { 
+	  alert("Please enter your Last Name and try again.");
+	  return (false);
+    }else if (theform.F1.value == ""){
+	  alert("Please enter your First Name and try again.");
+	  return (false);
+    }  else if (theform.EM.value == ""){
+	  alert("Please enter your email address and try again.");
+	  return (false);
+    }  else if (theform.P1.value == ""){
+	  alert("Please enter your password and try again.");
+	  return (false);
+    }  else{
+	  return (true);
+	}  
+  }
+}
+ //-->
 </script>
+
+
 <script language="javascript" type="text/javascript" src="/includes/protectpics2.js"></script>
 
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" href="/favicon.ico">
-</head>
-
-<body onload=" ">
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
 
 
 
-<table border="0" align="center" cellspacing="0" cellpadding="0">
+
+
+
+
+<map name="headermap">
+<area href="/ship_new.asp" shape="rect" coords="299, 0, 424, 89">
+<area href="/index.asp" shape="rect" coords="2, 2, 299, 89">
+</map>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="650">
 <tbody><tr>
   <td>
-	<table border="0" cellspacing="0" cellpadding="0" width="911" align="center" id="table35">
+	<div>
+	<table border="0" cellspacing="0" cellpadding="0" id="table35">
 	<tbody><tr>
-      <td align="left" valign="top" width="190">
-        <a href="http://www.dog.com">
-	    <img border="0" src="/images/logo2.gif" alt="Dog Supplies, Discount Dog Supply at Dog.com"></a>
+      <td align="left" valign="top">
+     	    <p align="center">
+     	    <a href="/index.asp"><img border="0" src="/images/DogLogo_where.jpg" alt="Dog Supplies, Discount Dog Supply at Dog.com"></a>
+  </p></td>
+	  <td align="right">
+	    <table border="0" cellpadding="0" cellspacing="0" id="table36" width="620">
+			<tbody><tr>
+			<td valign="bottom" align="left" width="150" nowrap="nowrap"><span valign="middle" style="color:#CC0000; font-weight: bold; font-size: 16px">1-800-367-3647</span>			</td>
 
+			<td align="right"> <span valign="middle" style="color:#CC0000; font-weight: bold; font-size: 12px">&nbsp;&nbsp;</span>
+			<a href="http://forum.dog.com">
+			<img src="/topnav/nav_forum.gif" border="no" align="middle" alt="Dog Forum"></a>&nbsp;
 
+		
+			<a href="/information.asp">
+			<img src="/topnav/nav_doginfo.gif" border="no" align="middle" alt="Dog Info"></a>&nbsp;
 
+		
+				<a href="/catalog.asp">
+			<img src="/topnav/nav_catalog.gif" border="no" align="middle" alt="Free Catalog"></a>&nbsp;
 
+		
+			
+	 <a href="/acc_recall.asp">
+            <img src="/topnav/nav_signin.gif" align="middle" border="no" alt="Sign In"></a>&nbsp;
 
-  </td>
-	  <td align="left" valign="top" width="4">&nbsp;</td><td align="left" width="451">
-	    <table border="0" cellpadding="0" cellspacing="0" id="table36" width="411">
-  	    <tbody><tr>
- 	      <td align="right">
-	        <a href="/viewcart.asp" class="footer"><img src="/images/cart.gif" border="0" alt="Dog.com Shopping Cart" align="bottom"></a> 
-  	        <a href="/viewcart.asp" class="footer">
-	        
-	  	      Cart
-		    </a>
-            | <a href="/acc_recall.asp" class="footer">
-            Sign Up</a>
-            | <a href="/quickorder.asp" class="footer">Quick Order</a> | <a href="/catalog.asp" class="footer">Free Catalog</a> | <a href="/helpdesk/index.asp" class="footer">Help</a>	    
-          </td>
-	    </tr>
-  	    <tr>
-	      <td style="padding-top: 2px;"><a href="/helpdesk/price_guarantee.asp"><img src="/images/top_lowest.gif" width="264" height="24" border="0" align="right"></a></td>
-	    </tr>
-	    <tr>
-  		  <td align="right" style="font-size: 8pt">
-   		    <a href="/information.asp" class="footer">Dog Information</a> | <a href="http://forum.dog.com" target="_blank" class="footer"> Dog Forum</a> |  
-	 	    <a href="/articles/seeall.asp" class="Footer">Dog Articles</a> | <a href="/news/index.asp" class="footer">Dog News</a>
-	      </td>
+			<a href="/quickorder.asp">
+			<img src="/topnav/nav_quickorder.gif" border="no" align="middle" alt="Quick Order"></a>&nbsp;
+			</td><td valign="bottom" align="right" style="padding-bottom:3px;" nowrap=""> 
+			
+<a href="/viewcart.asp" class="shoppingcart">
 
-
-
-	    </tr>
-	    </tbody></table>
+<b>shopping</b>cart</a></td>
+	</tr>
+			<tr>
+			<td valign="middle" align="right" colspan="3"> 
+	
+			<img border="0" src="/topnav/separator.gif" width="608" height="10"></td>
+	</tr>
+			<tr>
+				<td align="center" valign="top" colspan="3">
+				<p align="right">
+				
+				<a href="/ship_new.asp" class="footer"><img src="/topnav/freeshipx22.gif" alt="Free Shipping!!" width="171" height="46" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+				<a href="/marketing/returnPolicy.asp" class="footer"><img src="/topnav/365x22.gif" border="0" alt="365 Day Return Exchange Policy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+				<a href="/marketing/priceProtection.asp" class="footer">
+				<img src="/topnav/110pricex22.gif" alt="Lowest Prices!!" width="225" height="46" border="0" align="top"></a>				</p></td>
+			</tr>
+		</tbody></table>
 	  </td>
-	  <td align="center" width="149">
-	    <strong style="font-weight: bold; font-size: 12px color: #333333;">Best In-Stock Rate<br>in the Industry!</strong><br>
-  	    <span style="font-weight: bold; font-size: 22px; line-height:22px; color: #ff0000;">98.1%</span><br>
-	    <span style="font-weight: bold; font-size: 16px;">In Stock Today!</span>
-	  </td>
+
     </tr>
     </tbody></table>
+  	</div>
   </td>
 </tr>
 <tr>
   <td align="center">
     <table cellspacing="0" cellpadding="0" align="center">
     <tbody><tr>
-      <td><a href="/supervalues.asp"><img src="/testmenu/menu_supervalues.gif" border="0" alt="Super Values" width="102" height="27"></a></td>
-      <td><a href="/beds.asp?Category=Dog Beds"><img src="/testmenu/menu_beds.gif" border="0" alt="Dog Beds" width="52" height="27"></a></td>
-      <td><a href="/crates.asp?Category=Dog Crates"><img src="/testmenu/menu_crates.gif" border="0" alt="Dog Crates" width="61" height="27"></a></td>
-      <td><a href="/puppy.asp?Category=Puppy Supplies"><img src="/testmenu/menu_puppy.gif" border="0" alt="Puppy Supplies" width="59" height="27"></a></td>
-      <td><a href="/shampoo.asp?Category=Shampoo"><img src="/testmenu/menu_shampoo.gif" border="0" alt="Dog Shampoo" width="80" height="27"></a></td>
-      <td><a href="/collars.asp?Category=Collars%20%26%20More"><img src="/testmenu/menu_collars.gif" border="0" alt="Dog Collars" width="63" height="27"></a></td>
-      <td><a href="/treats.asp?Category=Dog Treats"><img src="/testmenu/menu_treats.gif" border="0" alt="Dog Treats" width="60" height="27"></a></td>
-      <td><a href="/greenies.asp?Category=Greenies"><img src="/testmenu/menu_greenies.gif" border="0" alt="Dog Greenies" width="83" height="27"></a></td>
-      <td><a href="/toys.asp?Category=Dog Toys"><img src="/testmenu/menu_toys.gif" border="0" alt="Dog Toys" width="48" height="27"></a></td>
-      <td><a href="/flea.asp?Category=Flea%20%26%20Tick"><img src="/testmenu/menu_flea.gif" border="0" alt="Dog Flea &amp; Tick" width="87" height="27"></a></td>
-      <td><a href="/health.asp?Category=Health"><img src="/testmenu/menu_health.gif" border="0" alt="Dog Health Care" width="59" height="27"></a></td>
-      <td><a href="/sale.asp"><img src="/testmenu/menu_sale.gif" border="0" alt="Sales" width="62" height="27"></a></td>
-      <td><a href="/breed/index.asp"><img src="/testmenu/menu_breeds.gif" border="0" alt="Dog Breeds"></a></td>
+      <td><a href="/crates.asp?Category=Dog Crates">
+		<img src="/topnav/nav_crates.gif" border="0" alt="Dog Crates"></a></td>
+		
+      <td><a href="/beds.asp?Category=Dog Beds">
+		<img src="/topnav/nav_beds.gif" border="0" alt="Dog Beds"></a></td>
+      <td><a href="/supervalues.asp">
+		<img src="/topnav/nav_supervalue.gif" border="0" alt="Super Values"></a></td>
+      <td><a href="/cat.asp?Category=Cat Supplies">
+		<img src="/topnav/nav_cat.gif" border="0" alt="Cat Supplies"></a></td>
+      <td><a href="/shampoo.asp?Category=Shampoo">
+		<img src="/topnav/nav_shampoo.gif" border="0" alt="Dog Shampoo"></a></td>
+      <td><a href="/toys.asp?Category=Dog Toys">
+		<img src="/topnav/nav_toys.gif" border="0" alt="Dog Toys"></a></td>
+      <td><a href="/greenies.asp?Category=Greenies">
+		<img src="/topnav/nav_greenies.gif" border="0" alt="Dog Greenies"></a></td>
+      <td><a href="/treats.asp?Category=Dog Treats">
+		<img src="/topnav/nav_treats.gif" border="0" alt="Dog Treats"></a></td>
+      <td><a href="/collars.asp?Category=Collars%20Leashes%20%26%20Tags">
+		<img src="/topnav/nav_collars.gif" border="0" alt="Dog Collars"></a></td>
+      <td><a href="/flea.asp?Category=Flea%20%26%20Tick">
+		<img src="/topnav/nav_fleatick.gif" border="0" alt="Dog Flea &amp; Tick"></a></td>
+       <td><a href="/health.asp?Category=Health">
+		<img src="/topnav/nav_health.gif" border="0" alt="Dog Health Care"></a></td>
+      <td><a href="/sale.asp">
+		<img src="/topnav/nav_sales.gif" border="0" alt="Sales"></a></td>
+      <td><a href="/breed/index.asp">
+		<img src="/topnav/nav_dogbreeds.gif" border="0" alt="Dog Breeds"></a></td>
     </tr>
-    </tbody></table>
-  </td>
+	</tbody></table>
+    
+    </td>
 </tr>
 <tr>
-  <td width="760" align="center">      
-    <table width="911" cellspacing="0" cellpadding="0">
-    <tbody>
-    <form method="GET" action="/search.asp" onsubmit="return Validate(this)"></form>    
-    <tr>
-      <td width="510" style="padding-top: 3px; padding-bottom: 3px; padding-right: 5px; background-image: url('/images/search_back.gif'); background-repeat:no-repeat; height:30px;">         
-        &nbsp;&nbsp;<span style="font-size: 8pt; font-weight: bold;">&nbsp;Want it? Need it? <span style="color: #CC0000;">Find it!</span></span>
-        <input style="font-size: 11px;" type="text" name="SKW" size="30">
-        <span style="font-size: 11px;"> in </span>
-        <select name="searchcat" style="font-size: 11px;">
-        <option value="">All of Dog.com</option>        
-        <option value="SABATH">Bath</option>
-		<option value="SABED">Beds</option>
-		<option value="SABOWL">Bowls</option>
-		<option value="SACLEANUP">Clean Up</option>
-		<option value="SACLOTHES">Clothes</option>
-		<option value="SACOLLAR">Collars &amp; More</option>
-		<option value="SACRATE">Crates</option>
-		<option value="SADG">Doors &amp; Gates</option>
-		<option value="SAFT">Flea &amp; Tick</option>
-		<option value="SAFOOD">Food</option>
-		<option value="SAGREENIES">Greenies</option>
-		<option value="SAGROOMING">Grooming</option>
-		<option value="SAHEALTH">Health</option>
-		<option value="SASHAMPOO">Shampoo</option>
-		<option value="SATOY">Toys</option>
-		<option value="SATRAVEL">Travel</option>
-		<option value="SATREAT">Treats</option>
-        </select>
-        <input type="image" src="/images/fetch.gif" align="absbottom">
-      </td>
-      <td width="402" align="right">
-<a target="_new" href="http://www.horse.com"><img height="30" alt="Horse Supplies @ Horse.com" src="/images/horsebutn.gif" border="0"></a>
-		<a target="_new" href="http://www.ferret.com/FDOG"><img height="30" alt="Ferret Supplies @ Ferret.com" src="/images/ferretbutn.gif" border="0"></a>
-<a target="_new" href="http://www.bird.com"><img height="30" alt="Bird Supplies @ Bird.com" src="/images/birdbutn.gif" border="0"></a>
-		
-  </td> 
+  <td width="924" align="center" style="padding-left: 3px">     
+	
+    <table width="924" align="center" height="29" cellpadding="0" cellspacing="0" background="/topnav/greynav_bottom.gif">
+    <form method="POST" action="/search.asp" onsubmit="return Validate(this)"></form>    
+    <tbody><tr>
+      <td width="235" height="29" valign="middle" style="padding-bottom: 6px; background-repeat:no-repeat;">         
+        &nbsp;&nbsp;<span style="font-size: 8pt; font-weight: bold;">Search  
+					<script language="javascript">
+						function cleartext(textvalue){
+							if (textvalue.value=="keyword or item #"){
+							textvalue.value="";
+							textvalue.style.color='#000000';}
+						}
+					</script>
+        <input style="font-size: 11px; color:#C0C0C0" type="text" value="keyword or item #" name="SKW" onfocus="cleartext(this)" size="30">
+        </span></td>
+	    <td width="53" valign="middle" style="padding-bottom: 6px; background-repeat:no-repeat;"><span style="font-size: 8pt; font-weight: bold;">
+	      <input name="image" type="image" src="/images/fetch.gif" align="middle" border="0">
+	    </span></td>
+	    <td width="277" align="center" valign="middle" style="padding-bottom: 6px; background-repeat:no-repeat;"><a href="whyShop.asp">Why Shop Dog.com?</a></td>
+	    <td width="357" align="right" valign="middle" style="padding-bottom: 6px; background-repeat:no-repeat;"><a target="_new" href="http://www.horse.com/pets.aspx?site=dog"><img src="/topnav/greynav_bottom1_r1_c1.gif" alt="Horse Supplies @ Horse.com" width="94" height="29" border="0"></a><a target="_new" href="http://www.ferret.com/index.asp?srccode=FDOG"><img src="/topnav/greynav_bottom1_r1_c2.gif" alt="Ferret Supplies @ Ferret.com" width="76" height="29" border="0"></a><a target="_new" href="http://www.bird.com/index.asp?srccode=DOGBRD01"><img src="/topnav/greynav_bottom1_r1_c4.gif" alt="Bird Supplies @ Bird.com" width="93" height="29" border="0"></a><a target="_new" href="http://www.fish.com/index.asp?srccode=DOGFSH01"><img src="/topnav/greynav_bottom1_r1_c5.gif" alt="Aquarium Supplies @ Fish.com" width="93" height="29" border="0"></a></td>
     </tr>
      
-    </tbody>		
-    </table>
+</tbody></table>
+    
   </td>  
 </tr>
 <tr>
   <td colspan="2" style="padding-top: 3px;" width="580" align="center">
-    <img name="s_i_petsullcdog" height="1" width="1" border="0" alt="" src="https://smetrics.dog.com/b/ss/petsullcdog/1/H.2-pdv-2/s87550376916901?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A39%3A45%205%200&amp;pageName=/helpdesk/privacy_policy.asp&amp;g=https%3A//web.archive.org/web/20060615211030id_/http%253A//www.dog.com/helpdesk/privacy_policy.asp&amp;cc=USD&amp;ch=Helpdesk&amp;server=Dog.com&amp;c1=Privacy%20Policy&amp;h1=Home/Helpdesk/Privacy%20Policy&amp;c5=%20&amp;c6=2460061517113071&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><noscript><img
-
-src="http://metrics.dog.com/b/ss/petsullcdog/1/H.2--NS/0"
-
-height="1" width="1" border="0" alt="" /></noscript><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+  
+ <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr>
 	  <td width="155" valign="top">
-        <form action="" name="em">
-        <table border="0" cellspacing="0" cellpadding="0">  
-	    <tbody><tr>
-	      <td width="155">		
-	        <div style="font-size: 4px;">&nbsp;</div>
-	        <span style="color: #CC0000; font-family: Verdana; font-size: 12pt;">Email Exclusives.</span><br>
-	        <span style="font-family: Verdana; font-size: 7pt; font-weight: bold;">Sign up and receive special offers from Dog.com</span><br>
-	        <div style="font-size: 2px;">&nbsp;</div>
-	        <span style="font-size: 11px; font-weight: bold;">E-Mail Address:</span><br>
-	        <input id="emailadd" name="emailadd " type="text" style="font-size: 11px;"><br>
-	        <input style="font-size: 11px;" type="button" onclick="checkMail()" value="Sign Up!">
-	      </td>	
-	    </tr>
-	    </tbody></table>
-	    </form>	 	    	  
+       <table border="0" cellspacing="0" cellpadding="0" id="table37" width="160">
+<tbody><tr>
+<td align="left" valign="top" colspan="3">
+
+<a href="/search.asp?SKW=110158">
+<img src="/images/cratebanner158x45.gif" border="0" alt="50% off Dog.com Dog Crates"></a></td>
+</tr>
+</tbody></table>
 		<table border="0" cellspacing="0" cellpadding="0" style="background-image:url('/images/leftBKG.gif');">
-		<tbody><tr>
+			    <tbody><tr><td align="center" bgcolor="#FFFFFF">
+<a href="/page_comment.asp" class="blue2"><img src="/images/ratethis.gif" border="no"></a>
+</td></tr>
+		<tr>
 		  <td width="155">
-		    <a href="/index.asp"><img border="0" src="/images/Shop_dog.gif" alt="Dog Supplies @ Dog.com"></a>
+		    <a href="/index.asp">
+			<img border="0" src="/images/left_Shopgrey.gif" alt="Dog Supplies @ Dog.com"></a>
 		  </td>
 		</tr>		
 		<tr>
 		  <td valign="top" class="tabs" style="border-bottom: 1px solid #ccc;">
-		  <!-- Before LeftNav : 6/15/2006 5:11:31 PM --> 
-
-              &nbsp;<a href="/helpdesk/shipping_policy.asp" class="leftNav1">Shipping Policy &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/shipping_policy.asp" class="leftNav2">&gt;&nbsp;Shipping Policy</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/shipping_methods.asp" class="leftNav2">&gt;&nbsp;Shipping Methods</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/shipping_specialized.asp" class="leftNav2">&gt;&nbsp;Specialized Shipping</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/tracking_order.asp" class="leftNav2">&gt;&nbsp;Tracking Your Order</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/freight_policy.asp" class="leftNav2">&gt;&nbsp;Freight Policy</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/shipping_itemAvailable.asp" class="leftNav2">&gt;&nbsp;Item Availability</a><br>
-	
-  &nbsp;&nbsp;<a href="/helpdesk/order_overseas.asp" class="leftNav2">&gt;&nbsp;Overseas Orders</a>
-          
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-          
-
-&nbsp;<a href="/helpdesk/payment_options.asp" class="leftNav1">Payment Options &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/payment_options.asp" class="leftNav2">&gt;&nbsp;Payment Options</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/payment_sales_tax.asp" class="leftNav2">&gt;&nbsp;Sales Tax</a><br> 
-  &nbsp;&nbsp;<a href="/helpdesk/payment_redeeming.asp" class="leftNav2">&gt;&nbsp;Redeeming Promtions, Gift Certificates and Discount Codes</a>
-          
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-  
-&nbsp;<a href="/helpdesk/gift_services.asp" class="leftNav1">Gift Services &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/gift_wishlist.asp" class="leftNav2">&gt;&nbsp;Doggie Bag</a>
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-          
-  
-&nbsp;<a href="/helpdesk/orders_email.asp" class="leftNav1">Your Order &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/price_guarantee.asp" class="leftNav2">&gt;&nbsp;Lowest Published Price Guarantee</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_guarantee.asp" class="leftNav2">&gt;&nbsp;100% Satisfaction Guarantee</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_emails.asp" class="leftNav2">&gt;&nbsp;Emails About Your Order </a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_status.asp" class="leftNav2">&gt;&nbsp;Order Status</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/tracking_order.asp" class="leftNav2">&gt;&nbsp;Tracking Your Order</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_delivery.asp" class="leftNav2">&gt;&nbsp;Delivery of Your Items</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_mistake.asp" class="leftNav2">&gt;&nbsp;Order Mistake</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_adjust.asp" class="leftNav2">&gt;&nbsp;Changing or Cancellation of Order</a>
-          
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-          
-
-  &nbsp;<a href="/helpdesk/return_policy.asp" class="leftNav1">Returns &amp; Warranties &gt;&gt;</a><br>
-	
-  &nbsp;&nbsp;<a href="/helpdesk/return_policy.asp" class="leftNav2">&gt;&nbsp;Return Policy</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/return_instructions.asp" class="leftNav2">&gt;&nbsp;Return &amp; Exchange Instructions</a><br>     
-  &nbsp;&nbsp;<a href="/helpdesk/return_damaged.asp" class="leftNav2">&gt;&nbsp;Damaged or Defective Items</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/return_warranty.asp" class="leftNav2">&gt;&nbsp;Product Warranty</a><br>  
-  &nbsp;&nbsp;<a href="/helpdesk/return_specialized.asp" class="leftNav2">&gt;&nbsp;Returns for Customized Products</a>
-         
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-          
-  
-  &nbsp;<a href="/helpdesk/account_open.asp" class="leftNav1">My Account &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/account_open.asp" class="leftNav2">&gt;&nbsp;Opening an Account</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/account_manage.asp" class="leftNav2">&gt;&nbsp;Managing Your Account</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/account_update.asp" class="leftNav2">&gt;&nbsp;Updating Your Account</a>
-          
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-          
-  
-&nbsp;<a href="/helpdesk/account_open.asp" class="leftNav1">Ordering &gt;&gt;</a><br>
-	
-	&nbsp;&nbsp;<a href="/helpdesk/order_howto.asp" class="leftNav2">&gt;&nbsp;Your Order</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_cart.asp" class="leftNav2">&gt;&nbsp;Shopping Cart</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/order_checkout.asp" class="leftNav2">&gt;&nbsp;Secure Checkout</a>
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-         
-
-&nbsp;<a href="/helpdesk/privacy_policy.asp" class="leftNav1">Privacy and Security &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/privacy_policy.asp" class="leftNav2">&gt;&nbsp;Privacy Policy</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/security_policy.asp" class="leftNav2">&gt;&nbsp;Security Policy</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/terms.asp" class="leftNav2">&gt;&nbsp;Terms and Conditions</a>
-         
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-         
-
-&nbsp;<a href="/helpdesk/aboutus.asp" class="leftNav1">About Dog.com &gt;&gt;</a><br>
-
-  &nbsp;&nbsp;<a href="/helpdesk/why_dog.asp" class="leftNav2">&gt;&nbsp;Why Shop Dog.com?</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/FAQ.asp" class="leftNav2">&gt;&nbsp;FAQ</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/affiliates.asp" class="leftNav2">&gt;&nbsp;Affiliate Program</a><br>
-	&nbsp;&nbsp;<a href="/helpdesk/opportunities.asp" class="leftNav2">&gt;&nbsp;Employment Opportunities</a><br>
-  &nbsp;&nbsp;<a href="/helpdesk/contactus.asp" class="leftNav2">&gt;&nbsp;Contact Us</a>
-          <div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div>
-          
-         &nbsp; <a href="/index.asp" class="leftNav1">Return to Shopping &gt;&gt;</a><br>
-<br>
-      
-
+		  <!-- Before LeftNav : 12/30/2006 7:28:53 AM --> 
+     <div style="padding-left: 5px;"><a class="leftnav1" href="/treats.asp?Category=Dog Treats">Dog Treats</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,bullysticks&amp;Category=Dog Treats&amp;subCategory=Bully Sticks">&gt;&nbsp;Bully Sticks<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,dingo&amp;Category=Dog Treats&amp;subCategory=Dingo">&gt;&nbsp;Dingo<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=svtreats&amp;Category=Dog Treats&amp;subCategory=Super Value$">&gt;&nbsp;Super Value$<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,chewy&amp;Category=Dog Treats&amp;subCategory=Soft Treats">&gt;&nbsp;Soft Treats<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,Nylabone&amp;Category=Dog Treats&amp;subCategory=Nylabone">&gt;&nbsp;Nylabone<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=PUPPYTREATS&amp;Category=Dog Treats&amp;subCategory=Puppy Treats">&gt;&nbsp;Puppy Treats<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/clothes.asp?Category=Dog Clothes">Dog Clothes</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SALUXCLOTH&amp;Category=Dog Clothes&amp;subCategory=Designer Dog Clothes">&gt;&nbsp;Designer Dog Clothes<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SVCLOTHES&amp;Category=Dog Clothes&amp;subCategory=Super Value Dog Clothes">&gt;&nbsp;Super Value$<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,dcoat&amp;Category=Dog Clothes&amp;subCategory=Dog Coats">&gt;&nbsp;Dog Coats<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,dsweater&amp;Category=Dog Clothes&amp;subCategory=Dog Sweaters">&gt;&nbsp;Dog Sweaters<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/flea.asp?Category=Flea %26 Tick">Flea Control</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=Advantix&amp;Category=Flea %26 Tick&amp;subCategory=K9 Advantix">&gt;&nbsp;K9 Advantix<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=Advantage&amp;Category=Flea %26 Tick&amp;subCategory=Advantage">&gt;&nbsp;Advantage<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,frontline&amp;Category=Flea %26 Tick&amp;subCategory=Frontline">&gt;&nbsp;Frontline<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SAFT&amp;Category=Flea %26 Tick">&gt;&nbsp;See All<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/puppy.asp?Category=Puppy Supplies">Puppy Supplies</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=PUPPYTOYS&amp;Category=Puppy Supplies&amp;subCategory=Toys">&gt;&nbsp;Toys<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=PUPPYHOUSEBREAKING&amp;Category=Puppy Supplies&amp;subCategory=House Training">&gt;&nbsp;House Training<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=PUPPYCRATES&amp;Category=Puppy Supplies&amp;subCategory=Crates, Ex-Pens %26 Gates">&gt;&nbsp;Crates, Ex-Pens &amp; Gates<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=PUPPYTREATS&amp;Category=Puppy Supplies&amp;subCategory=Treats">&gt;&nbsp;Treats<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/bowls.asp?Category=Bowls">Dog Bowls</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,raised diner&amp;Category=Bowls&amp;subCategory=Raised Diners">&gt;&nbsp;Raised Diners<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,stainless bowl&amp;Category=Bowls&amp;subCategory=Stainless Steel">&gt;&nbsp;Stainless Steel<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SVBOWLS&amp;Category=Bowls&amp;subCategory=Super Value$">&gt;&nbsp;Super Value$<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SABOWL&amp;Category=Bowls">&gt;&nbsp;See All<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/crates.asp?Category=Dog Crates">Dog Crates</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,sside&amp;Category=Dog Crates&amp;subCategory=Soft Sided">&gt;&nbsp;Soft Sided<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=div_05,DOG,vari kennel&amp;Category=Dog Crates&amp;subCategory=Vari Kennels">&gt;&nbsp;Vari Kennels<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=svcrates&amp;Category=Dog Crates&amp;subCategory=Super Value$">&gt;&nbsp;Super Value$<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SACRATE&amp;Category=Dog Crates">&gt;&nbsp;See All<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/toys.asp?Category=Dog Toys">Dog Toys</a><br>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=svtoys&amp;Category=Dog Toys&amp;subCategory=Super Value$">&gt;&nbsp;Super Value$<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SALUXTOY&amp;Category=Dog Toys&amp;subCategory=Discount Luxury">&gt;&nbsp;Discount Luxury<br></a>&nbsp;&nbsp;<a class="leftnav2" href="/search.asp?SKW=SATOY&amp;Category=Dog Toys&amp;t=1">&gt;&nbsp;See All<br></a></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/search.asp?SKW=div_05,sadoghouses&amp;Category=Dog Houses">Dog Houses</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/grooming.asp?Category=Grooming Supply">Grooming Supplies</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/travel.asp?Category=Dog Travel">Dog Travel</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/gates.asp?Category=Doors %26 Gates">Doors &amp; Gates</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/beds.asp?Category=Dog Beds">Dog Beds</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/collars.asp?Category=Collars%20Leashes%20%26%20Tags">Collars Leashes &amp; Tags</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/health.asp?Category=Health">Dog Health</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="greenie" href="/greenies.asp?Category=Greenies">Greenies</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/shampoo.asp?Category=Shampoo">Dog Shampoo</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/food.asp?Category=Dog Food">Dog Food</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/cleanup.asp?Category=Clean Up">Clean Up</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/search.asp?SKW=breeding&amp;Category=Breeding&amp;subCategory=">Breeding</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/agility.asp?Category=Dog Agility">Dog Agility</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/cat.asp?Category=Cat Supplies&amp;subCategory=">Cat Supplies</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/bath.asp?Category=Bath Supply">Bath Supplies</a><br></div><div style="font-size: 3px;">&nbsp;</div><div style="border-bottom: 1px solid #cccccc;"></div><div style="font-size: 3px;">&nbsp;</div><div style="padding-left: 5px;"><a class="leftnav1" href="/search.asp?SKW=div_05,salawnandyard&amp;Category=Lawn and Yard">Lawn and Yard</a><br>   
             
-	         
+	         </div>
 		  </td>
 		</tr>
 	    </tbody></table>		
-        <table>	    
-		<tbody><tr>
-		  <td width="100%" align="center" style="height: 88px;">
-		    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.dog.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
-		  </td>		  
-		</tr>
-		<tr>
-		  <td align="center"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.dog.com"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.dog.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." onclick="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></td>
-		</tr>
-		</tbody></table>
+
 	  </td>
 	  <td width="756" valign="top" colspan="3" style="padding-left: 10px;">	   
 
- <!-- Through Pre_Gutter 6/15/2006 5:11:31 PM -->
+ <!-- Through Pre_Gutter 12/30/2006 7:28:53 AM -->
 
 
 
 
-
-
+		
+		<br><br><table width="560"><tbody><tr><td>
 <center><font color="red"><b>Privacy Policy</b></font></center>
 		<p>
 		<br>
@@ -400,16 +372,53 @@ height="1" width="1" border="0" alt="" /></noscript><table border="0" width="100
 		</ul>
   </td>
 </tr>
-		         <!-- Through Pre_Gutter 6/15/2006 5:11:31 PM -->
-         
-	     
+		
+</tbody></table><table align="center" width="100%">
+    <tbody><tr>
+	
+        <td align="center" width="756">
+	    <span style="font-family: sans-serif; font-weight: 500; font-size: 14pt; color: #FF0000">Quick Find For Dog Supplies!</span>
+		<br>
+      </td>
+        </tr>
+    <tr>
+	
+      <td align="center" width="756">
+		<div style="text-align: center" class="footer">
+
+<!--Nav Cached<br>--><a href="/treats.asp?Category=Dog Treats" class="footer">Dog Treats</a> | <a href="/clothes.asp?Category=Dog Clothes" class="footer">Dog Clothes</a> | <a href="/flea.asp?Category=Flea %26 Tick" class="footer">Flea Control</a> | <a href="/puppy.asp?Category=Puppy Supplies" class="footer">Puppy Supplies</a> | <a href="/bowls.asp?Category=Bowls" class="footer">Dog Bowls</a> | <a href="/crates.asp?Category=Dog Crates" class="footer">Dog Crates</a> <br><a href="/toys.asp?Category=Dog Toys" class="footer">Dog Toys</a> | <a href="/search.asp?SKW=div_05,sadoghouses&amp;Category=Dog Houses" class="footer">Dog Houses</a> | <a href="/grooming.asp?Category=Grooming Supply" class="footer">Grooming Supplies</a> | <a href="/travel.asp?Category=Dog Travel" class="footer">Dog Travel</a> | <a href="/gates.asp?Category=Doors %26 Gates" class="footer">Doors &amp; Gates</a> <br><a href="/beds.asp?Category=Dog Beds" class="footer">Dog Beds</a> | <a href="/collars.asp?Category=Collars%20Leashes%20%26%20Tags" class="footer">Collars Leashes &amp; Tags</a> | <a href="/health.asp?Category=Health" class="footer">Dog Health</a> | <a href="/greenies.asp?Category=Greenies" class="footer">Greenies</a> | <a href="/shampoo.asp?Category=Shampoo" class="footer">Dog Shampoo</a> | <a href="/food.asp?Category=Dog Food" class="footer">Dog Food</a> | <a href="/cleanup.asp?Category=Clean Up" class="footer">Clean Up</a> | <a href="/search.asp?SKW=breeding&amp;Category=Breeding&amp;subCategory=" class="footer">Breeding</a> <br><a href="/agility.asp?Category=Dog Agility" class="footer">Dog Agility</a> | <a href="/cat.asp?Category=Cat Supplies&amp;subCategory=" class="footer">Cat Supplies</a> | <a href="/bath.asp?Category=Bath Supply" class="footer">Bath Supplies</a> | <a href="/search.asp?SKW=div_05,salawnandyard&amp;Category=Lawn and Yard" class="footer">Lawn and Yard</a> 
+
+        </div> <hr width="50%">
+      
+    </td></tr>
+    </tbody></table>
+	
+	    <table align="center" width="100%">
+    <tbody><tr>
+      
+      <td align="center" width="756">
+                
+      
+	<div style="text-align: center" class="footer">
+       <a href="http://www.1-800-save-a-pet.com" class="footer">1-800-Save-A-Pet</a> | <a href="http://www.incentiveprograms.com/" class="footer">Incentive Programs</a> | <a href="http://www.dog.com/sitemap.asp" class="footer">Site Map</a> | <a href="http://www.dog.com/aboutus.asp" class="footer">About Us</a> | <a href="http://www.dog.com/helpdesk/indexgrey.asp" class="footer">Help</a> | <a href="http://www.dog.com/helpdesk/contactus.asp" class="footer">Contact Us</a>
+	    <br><a href="http://www.dog.com/breed/index.asp" class="footer">Dog Breeds</a> | <a href="http://www.dog.com/helpdesk/price_guarantee.asp" class="footer">
+        Price Guarantee</a> | <a href="http://www.dog.com/affiliate.asp" class="footer">Affiliate Program</a> | <a href="http://www.dog.com/helpdesk/privacy_policy.asp" class="footer">Privacy &amp; Security</a> | <a href="http://www.dog.com/helpdesk/terms.asp" class="footer">Terms &amp; Conditions</a><br><br>
+	
+		<a href="http://www.dog.com/" class="footer">Dog Supplies</a> | <a href="http://www.ferret.com/index.asp?srccode=FDOG01" target="_blank" class="footer">Ferret Supplies</a> | <a href="http://www.horse.com" target="_blank" class="footer">Horse Supplies</a> | <a href="http://www.petsupplies.com" target="_blank" class="footer">Pet Supplies</a> | <a href="http://www.fish.com/index.asp?srccode=DOGFSH01" class="footer" target="_blank">Aquarium Supplies</a>  | <a href="http://www.bird.com/index.asp?srccode=DOGBRD01" class="footer" target="_blank">Bird Supplies</a>
+
+	 <br>
+	 <br>   dog.com<sup>SM</sup> <span style="font-size: 14pt">·</span>  e-mail: <a href="mailto:customerservice@dog.com" class="footer2">customerservice@dog.com</a> 
+        <span style="font-size: 14pt">·</span><a href="/helpdesk/index.asp" class="footer2">1 800 367 3647</a></div> 
+      </td>
+    </tr>
+    </tbody></table>
 <!-- SiteCatalyst code version: H.1.
 
 Copyright 1997-2005 Omniture, Inc. More info available at
 
 http://www.omniture.com -->
 
-<script language="JavaScript" src="/includes/s_code.js" type="text/javascript"></script>
+<script language="JavaScript" src="/includes/s_code.js" type="text/javascript"></script><img name="s_i_petsullcdog" height="1" width="1" border="0" alt="" src="https://smetrics.dog.com/b/ss/petsullcdog/1/H.2-pdv-2/s83716946543549?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A39%3A45%205%200&amp;pageName=/helpdesk/privacy_policy.asp&amp;g=https%3A//web.archive.org/web/20061230122510id_/http%253A//www.dog.com/helpdesk/privacy_policy.asp&amp;cc=USD&amp;ch=Helpdesk&amp;server=Dog.com&amp;c1=Privacy%20Policy&amp;h1=Home/Helpdesk/Privacy%20Policy&amp;c5=%20&amp;c6=3540123007285326&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 <script language="JavaScript" type="text/javascript"><!--
 
@@ -423,15 +432,14 @@ s.server="Dog.com"; //server name
 s.channel="Helpdesk"; //site section
 s.pageType=""; //Error Page Flag
 s.prop1="Privacy Policy"; //top level category
-s.prop2=""; //subcategory 1
-s.prop3=""; //subcategory 2
-s.prop4=""; //subcategory 3
+s.prop2=""; // Subcategory
+s.prop3=""; // Landing Page Name
+s.prop4=""; //tell a friend
 s.prop5=" "; //Source Code Tracking
-s.prop6="2460061517113071"; //User ID
+s.prop6="3540123007285326"; //User ID
 s.prop7=""; //internal search term
-s.prop8="";
-s.prop9="";
-s.prop10="";
+s.prop8="" //exclusive search term
+s.prop9="" // Index Page A-B Split Test
 
 /* E-commerce Variables */
 s.campaign="";
@@ -459,7 +467,9 @@ s.eVar14=""; //Size
 s.eVar15="";  //Revenue
 s.eVar16=""; //Shipping Type
 s.eVar17=""; //Out of Stock Item
-s.eVar18="";  
+s.eVar18=""
+
+
 s.eVar19=""; //User ID
 s.eVar20=""; //Gift Certficate ID
 
@@ -474,40 +484,15 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 
-//--></script><!--/DO NOT REMOVE/-->
+//--></script><noscript><img
+
+src="http://metrics.dog.com/b/ss/petsullcdog/1/H.2--NS/0"
+
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!-- End SiteCatalyst code version: H.1. -->
 
  
 
-	  
-	
-    </tbody></table>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="100%" colspan="2">   
-    <table align="center" width="100%">
-    <tbody><tr>
-      <td width="155">&nbsp;</td>
-      <td align="center">
-                
-      
-	<div style="text-align: center" class="footer">
-        <a href="http://www.dog.com/" class="footer">Dog Supplies</a> | <a href="http://www.dog.com/sitemap.asp" class="footer">Site Map</a> | <a href="http://www.dog.com/aboutus.asp" class="footer">About Us</a> | <a href="http://www.dog.com/helpdesk/index.asp" class="footer">Help</a> | <a href="http://www.dog.com/helpdesk/contactus.asp" class="footer">Contact Us</a>
-	    <br><a href="http://www.dog.com/links/index.asp" class="footer">Links</a> | <a href="http://www.dog.com/helpdesk/price_guarantee.asp" class="footer">
-        Lowest Price Guarantee</a> | <a href="http://www.dog.com/affiliate.asp" class="footer">Affiliate Program</a> | <a href="http://www.dog.com/helpdesk/privacy_policy.asp" class="footer">Privacy &amp; Security</a> | <a href="http://www.dog.com/helpdesk/terms.asp" class="footer">Terms &amp; Conditions</a><br><br>
-	    dog.com<sup>SM</sup> <span style="font-size: 14pt">·</span>  e-mail: <a href="mailto:customerservice@dog.com" class="footer2">customerservice@dog.com</a> 
-        <span style="font-size: 14pt">·</span><a href="/helpdesk/index.asp" class="footer2">1 800 367 3647</a></div> 
-      </td>
-    </tr>
-    </tbody></table>
-  </td>
-</tr>
-</tbody></table>
-
-
-<!--Page Stats: 
-Start Time: 6/15/2006 5:11:30 PM
-End Time: 6/15/2006 5:11:31 PM
-Process Time: 1.00 --></body></html>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div></body></html>
