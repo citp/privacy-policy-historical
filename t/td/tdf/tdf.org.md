@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdf.org privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520150736id_/http%3A//www.tdf.org/AboutTDF/tdfprivacypolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdf.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230061706id_/http%3A//www.tdf.org/AboutTDF/tdfprivacypolicies.html) for the most accurate reproduction.*
 
 # Theatre Development Fund Privacy Policies and restrictions
 
@@ -49,4 +49,4 @@ Since time is of the essence, please respond promptly to our offers. We are atte
 CLICK HERE FOR A [TDF USERS' GUIDE](https://web.archive.org/AboutTDF/userguide.html) AND [FREQUENTLY ASKED QUESTIONS ](https://web.archive.org/AboutTDF/faq.html)  
 **[  
 ](https://web.archive.org/contribution/index.html)**[**HOW CAN I CONTRIBUTE TO TDF'S PROGRAMS?**](https://web.archive.org/contribution/index.html)[ **  
-**](https://web.archive.org/web/20060520150736id_/http%3A//www.tdf.org/AboutTDF/contribution/index.html)
+**](https://web.archive.org/web/20061230061706id_/http%3A//www.tdf.org/AboutTDF/contribution/index.html)
