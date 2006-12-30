@@ -1,39 +1,34 @@
-<!--The following is the downloaded HTML source of the ticketmaster.ie privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614184003id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.ie privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230200415id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Ticketmaster.ie - Privacy</title>
-	<meta name="description" content="Find and buy tickets: concerts, sports, arts, theater, theatre, broadway shows, family events at Ticketmaster.com">
-    
-	   <meta name="keywords" content="tickets, concert tickets, concert listings, concert tour dates, sports tickets, theater tickets, family tickets, hot tickets, buy tickets">
-    
-	<meta name="rating" content="general">
-	<meta name="copyright" content="2004, Ticketmaster">
-	<meta name="revisit-after" content="4 Days">
-	<meta name="expires" content="never">
-	<meta name="distribution" content="global">
-	<meta name="robots" content="index"><!-- ClickStream MetaTags - Begin --> 
+    <title>Ticketmaster.ie - Privacy</title>
+
+<meta name="description" content="Find and buy tickets: concerts, sports, arts, theater, theatre, broadway shows, family events at Ticketmaster.com">
+
+    <meta name="keywords" content="tickets, concert tickets, concert listings, concert tour dates, sports tickets, theater tickets, family tickets, hot tickets, buy tickets">
+
+<meta name="rating" content="general">
+<meta name="copyright" content="2006, Ticketmaster">
+<meta name="revisit-after" content="4 Days">
+<meta name="expires" content="never">
+<meta name="distribution" content="global">
+<meta name="robots" content="index">
+<!-- ClickStream MetaTags - Begin -->
     <meta name="DCSext.cntry" id="DCSext.cntry" content="IE">
     <meta name="DCSext.mkt" id="DCSext.mkt" content="99999">
     <meta name="DCSext.lang" id="DCSext.lang" content="en-gb">
     <meta name="DCSext.brand" id="DCSext.brand" content="none">
     <meta name="WT.cg_n" id="WT.cg_n" content="legal">
     <meta name="DCS.dcsuri" id="DCS.dcsuri" content="ie_privacy">
-    <meta name="WT.ti" id="WT.ti" content="ie_privacy"><!-- ClickStream MetaTags - End --> 
-	<link href="http://media.ticketmaster.co.uk/en-gb/css/tm_layout.css" rel="stylesheet" type="text/css">
-	<link href="http://media.ticketmaster.co.uk/en-gb/css/core.css" rel="stylesheet" type="text/css">
-	<link href="http://media.ticketmaster.co.uk/en-gb/css/tmAds.css" rel="stylesheet" type="text/css">
-	<link href="http://media.ticketmaster.co.uk/en-gb/css/tm_style_new.css" rel="stylesheet" type="text/css">
-
-
-
-
-
-
+    <meta name="WT.ti" id="WT.ti" content="ie_privacy"><!-- ClickStream MetaTags - End -->
+    <link href="http://media.ticketmaster.co.uk/en-gb/css/tm_layout.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.co.uk/en-gb/css/core.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.co.uk/en-gb/css/tmAds.css" rel="stylesheet" type="text/css">
+       <link href="http://media.ticketmaster.co.uk/en-gb/css/tm_style_new.css" rel="stylesheet" type="text/css">
 
 <script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/tmjs.js" type="text/javascript"></script>
 <script language="JavaScript" src="http://media.ticketmaster.co.uk/en-gb/js/unicode.js"></script>
-
 
 
 
@@ -45,6 +40,7 @@ function autoabandon_prime(arg2){
 giveuptix=arg2;
 }
 function autoabandon_unload(){}
+
 // <!--
 // This code below extracts the contents of the
 // location.search and conveniently seperates
@@ -52,48 +48,48 @@ function autoabandon_unload(){}
 // Don't alter this code.
 //  -->
 function replace(str, from, to) {
-	var i = str.indexOf(from);
-	if (!from || !str || i == -1) return str;
-	var newstr = str.substring(0, i) + to;
-	if (i+from.length < str.length)
-		newstr += replace(str.substring(
-		i+from.length,str.length),from,to);
-	return newstr;
+    var i = str.indexOf(from);
+    if (!from || !str || i == -1) return str;
+    var newstr = str.substring(0, i) + to;
+    if (i+from.length < str.length)
+        newstr += replace(str.substring(
+        i+from.length,str.length),from,to);
+    return newstr;
 }
 function getQry(nm)
 {
-	if (!location.search) return '';
-	var i, j, qry;
-	qry = location.search.substring(1);
-	i = qry.indexOf(nm)+nm.length+1;
-	if (i == nm.length) return '';
-	j = qry.indexOf('&',i);
-	if (j+1) qry = qry.substring(i,j);
-	else     qry = qry.substring(i);
-	return unescape(replace(qry, '+', ' '));
+    if (!location.search) return '';
+    var i, j, qry;
+    qry = location.search.substring(1);
+    i = qry.indexOf(nm)+nm.length+1;
+    if (i == nm.length) return '';
+    j = qry.indexOf('&',i);
+    if (j+1) qry = qry.substring(i,j);
+    else     qry = qry.substring(i);
+    return unescape(replace(qry, '+', ' '));
 }
 
 function substitute(str, from, to) {
-	var i = str.indexOf(from);
-	if (!from || !str || i == -1) return str;
-	var newstr = str.substring(0, i);
-	if (i+from.length < str.length)
-		newstr += replace(str.substring(
-		i+from.length,str.length),from);
-	return newstr;
+    var i = str.indexOf(from);
+    if (!from || !str || i == -1) return str;
+    var newstr = str.substring(0, i);
+    if (i+from.length < str.length)
+        newstr += replace(str.substring(
+        i+from.length,str.length),from);
+    return newstr;
 
 }
 function convert(nm)
 {
-	if (!location.search) return '';
-	var i, j, qry;
-	qry = location.search.substring(1);
-	i = qry.indexOf(nm)+nm.length+1;
-	if (i == nm.length) return '';
-	j = qry.indexOf('&',i);
-	if (j+1) qry = qry.substring(i,j);
-	else     qry = qry.substring(i);
-	return unescape(substitute(qry, '+'));
+    if (!location.search) return '';
+    var i, j, qry;
+    qry = location.search.substring(1);
+    i = qry.indexOf(nm)+nm.length+1;
+    if (i == nm.length) return '';
+    j = qry.indexOf('&',i);
+    if (j+1) qry = qry.substring(i,j);
+    else     qry = qry.substring(i);
+    return unescape(substitute(qry, '+'));
 }
 
 
@@ -124,8 +120,9 @@ function grabUrl() {
    var tmPath = "http://www.ticketmaster.ie/"
    TMObject(mName).SetVariable("tmUrl", tmPath);
 
-}</script>
-<meta name="DCSext.uri" content="/web/20060614184003id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
+}
+</script>
+<meta name="DCSext.uri" content="/web/20061230200415id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
 <body id="body" onload="SS_preloadImages('http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_music_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_sports_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_arts_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_family_over.jpg')" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
@@ -135,14 +132,32 @@ function grabUrl() {
 
 
 
-
+<style type="text/css">
+#gcFlyover-wrapper{
+	position:absolute;
+	z-index:3;
+	height:70px;
+	width:108px;
+	cursor:pointer;
+	margin:-18px 0px 0px 662px;
+}
+#gcFlyover{
+	height:70px;
+	width:108px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png'); /*  IE6 filter png hack must be absolute path */
+}
+#gcFlyover[id]{
+	background-image:url(http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png); /* blocks png from IE */
+}
+</style>
 <div align="center" class="logoLocation-container" id="logoLocation">
     <table width="755" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
         <td valign="middle">
-        <div class="floatLeft"><a href="http://www.ticketmaster.ie/section"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tmLogo.jpg" alt="Ticketmaster" width="159" height="30" border="0"></a>        </div></td>
+            <div class="floatLeft"><a href="http://www.ticketmaster.ie/section"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tmLogo.jpg" alt="Ticketmaster" width="159" height="30" border="0"></a>            </div></td>
         <td valign="middle" class="paddingLeftRight10px">
-        <div class="floatRight"><a href="http://www.ticketmaster.ie/etc/?tm_link=tm_retail_header" title="Ticket Centres">Ticket Centres</a>  |  <a href="http://www.ticketmaster.ie/legal/privacy.html" class="passive" title="Privacy Policy">Privacy Policy</a> &nbsp;|&nbsp;<a href="http://www.ticketmaster.ie/about_us/worldwide/?tm_link=tm_intl_header">International</a> | <a href="http://www.ticketmaster.ie/h/help.html?tm_link=tm_help_header" title="Help">Help</a>         </div></td>
+            <div class="floatRight"><a href="http://www.ticketmaster.ie/etc/?tm_link=tm_retail_header" title="Ticket Centres">Ticket Centres</a>  |  <a href="http://www.ticketmaster.ie/legal/privacy.html" class="passive" title="Privacy Policy">Privacy Policy</a> &nbsp;|&nbsp;<a href="http://www.ticketmaster.ie/about_us/worldwide/?tm_link=tm_intl_header">International</a> | <a href="http://www.ticketmaster.ie/h/help.html?tm_link=tm_help_header" title="Help">Help</a>            </div>
+         </td>
     </tr>
     </tbody></table>
 </div><script language="JavaScript">
@@ -152,6 +167,7 @@ var member_text, action_text;
 if (member_name == null || member_name.length == 0) {
      member_text = "";
      action_text = "Log In";
+     member_name = null;
 }
 else {
      if (window.decodeURI != null) {
@@ -179,20 +195,17 @@ function buildLink( myFlag ) {
           else {
                var theLink = "http://www.ticketmaster.ie/ticketalerts/?tm_link=tm_alert_header";
           }
-          document.write( "<a href=\"" + theLink + "\" class=\"active\" title=\"Sign Up \/ Log In for ticketAlerts\">");
+          document.write( "<a href=\"" + theLink + "\" class=\"active\" title=\"Sign Up \/ Log In for TicketAlerts\">");
      }
 }
 </script>
-<div id="tabs">
-    <table width="770" cellpadding="0" align="center" cellspacing="0" border="0" class="topNav-subLedgeStroke">
+<div id="tabs">    <table width="770" cellpadding="0" align="center" cellspacing="0" border="0" class="topNav-subLedgeStroke">
         <tbody><tr>
             <td align="center">
                 <table cellpadding="0" cellspacing="0" border="0">
                     <tbody><tr>
                         <td valign="top"><a href="http://www.ticketmaster.ie/section?tm_link=tm_home_header" title="Home"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_home_off.gif" height="27" border="0" alt="Home"></a></td>
-                        <td width="4"></td>                        <td valign="top"><script>buildLink();</script><a href="https://www.ticketmaster.ie/member/edit_subscriptions?tm_link=tm_alert_header" class="active" title="Sign Up / Log In for ticketAlerts"><noscript><a href="http://www.ticketmaster.ie/ticketalerts/?tm_link=tm_alert_header" title="Sign Up / Log In for ticketAlerts"></noscript><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_ticalert_off.gif" height="27" border="0" alt="Sign Up / Log In for ticketAlerts"></a></td>
-                        <td width="4"></td>
-                        <td valign="top"><a href="https://www.ticketmaster.ie/member?tm_link=tm_myaccount_header" title="View your Ticketmaster account"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_myacc_off.gif" height="27" border="0" alt="View your Ticketmaster account"></a></td>
+                        <td width="4"></td>                        <td valign="top"><a href="https://www.ticketmaster.ie/member?tm_link=tm_myaccount_header" title="My Ticketmaster"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_mytm_off.gif" height="27" border="0" alt="My Ticketmaster"></a></td>
                     </tr>
                 </tbody></table>
             </td>
@@ -260,25 +273,26 @@ function buildLink( myFlag ) {
         <br><a href="http://www.ticketmaster.ie/find_area/?tm_link=tm_changeloc_header" title="Change your location settings" style="font-size: 9px;">Change Location</a>
                 </div>
                 <div class="floatRight" style="margin-top: 2px;">
-                    <form name="asb" action="http://uk.ask.com/web" method="get" target="_jeeves" onsubmit="dcsMultiTrack('DCS.dcsuri', 'Ask Jeeves Search', 'WT.ti', 'Ask Jeeves Search', 'WT.cg_n', '', 'DCSext.cntry', '', 'DCSext.mkt', '', 'DCSext.lang', '', 'DCSext.venID', '', 'DCSext.artID', '', 'DCSext.term', '', 'DCSext.results', '', 'DCSext.prmtrID', '' );">
+                    <form name="asb" action="http://uk.ask.com/web" method="get" target="_jeeves" onsubmit="if(this['q'].value == 'Search the Web'){this.q.value = ''};dcsMultiTrack('DCS.dcsuri', 'Ask Jeeves Search', 'WT.ti', 'Ask Jeeves Search', 'WT.cg_n', '', 'DCSext.cntry', '', 'DCSext.mkt', '', 'DCSext.lang', '', 'DCSext.venID', '', 'DCSext.artID', '', 'DCSext.term', '', 'DCSext.results', '', 'DCSext.prmtrID', '' );">
                         <input name="qsrc" type="hidden" value="2034">
                         <input name="o" type="hidden" value="9000">
-                        <input name="iu" type="hidden" value="http://www.ticketmaster.ie">                        <input name="dm" type="hidden" value="ctry">                        <table width="185" cellpadding="2" cellspacing="0" border="0">
-						<tbody><tr>
-							<td width="45">
-							    <img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_Ask_logo.gif" height="21" width="44" border="0" alt="Search the Web, Powered by Ask"></td>
-							<td width="95" align="center">
-								<input type="text" style="width: 90px; height: 13px; color: #666666; font-size: 9px; margin: 0px;" name="q" value="Search the Web" onfocus="if(this.value=='Search the Web')this.value='';" onblur="if(this.value=='')this.value='Search the Web';" title="Search the Web, Powered by Ask"></td>
-							<td width="40" valign="middle" align="right">
-								  <input type="submit" value=" Go " class="buttonJeeves"></td>
-						</tr>
-						</tbody></table>
-				    </form>
-				    <script language="javascript">
+                        <input name="iu" type="hidden" value="http://www.ticketmaster.ie">
+                        <input name="l" type="hidden" value="iac">                        <input name="dm" type="hidden" value="ctry">                        <table width="185" cellpadding="2" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td width="45">
+                                <img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_Ask_logo.gif" height="21" width="44" border="0" alt="Search the Web, Powered by Ask"></td>
+                            <td width="95" align="center">
+                                <input type="text" style="width: 90px; height: 13px; color: #666666; font-size: 9px; margin: 0px;" name="q" value="Search the Web" onfocus="if(this.value=='Search the Web')this.value='';" onblur="if(this.value=='')this.value='Search the Web';" title="Search the Web, Powered by Ask"></td>
+                            <td width="40" valign="middle" align="right">
+                                  <input type="submit" value=" Go " class="buttonJeeves"></td>
+                        </tr>
+                        </tbody></table>
+                    </form>
+                    <script language="javascript">
                     function ie55() {
                         if(navigator.appVersion.indexOf("MSIE 5.5") != -1) {
-		                    document.getElementById("inputjeeves").style.height = "20px";
-	                    }
+                            document.getElementById("inputjeeves").style.height = "20px";
+                        }
                     }
                     </script>
                 </div>
@@ -292,6 +306,7 @@ var member_text, action_text;
 if (member_name == null || member_name.length == 0) {
      member_text = "";
      action_text = "Log In";
+     member_name = null;
 }
 else {
      if (window.decodeURI != null) {
@@ -319,7 +334,7 @@ function buildLink( myFlag ) {
           else {
                var theLink = "http://www.ticketmaster.ie/ticketalerts/?tm_link=tm_alert_header";
           }
-          document.write( "<a href=\"" + theLink + "\" class=\"active\" title=\"Sign Up \/ Log In for ticketAlerts\">");
+          document.write( "<a href=\"" + theLink + "\" class=\"active\" title=\"Sign Up \/ Log In for TicketAlerts\">");
      }
 }
 </script>
@@ -333,7 +348,13 @@ function buildLink( myFlag ) {
     </tbody></table></div><script language="JavaScript">
     var my_content = document.getElementById('welcome_bar');
     my_content.innerHTML = my_content.innerHTML + member_text + "&nbsp;&nbsp;";
-</script></div>
+
+if (!member_text && (document.getElementById('myAccountSubNav'))) {
+    subNavDiv = document.getElementById('myAccountSubNav');
+    subNavDiv.parentNode.removeChild(subNavDiv);
+}
+</script>    </div>
+
 
 
 
@@ -342,12 +363,11 @@ function buildLink( myFlag ) {
 <!-- START CONTENT -->
 
 <div id="main">
-    	<div id="leftCol">
-
+    
+	<div id="leftCol">
 		
 
         
-
         
 		
 <!-- :P:uk:en-gb:legal:guide -->
@@ -361,7 +381,6 @@ function buildLink( myFlag ) {
 			<li><a href="http://www.ticketmaster.ie/legal/privacy.html" title="Privacy">Privacy</a></li>
 		</ul>
 	</div>    
-
 
 
 		
@@ -422,12 +441,37 @@ function buildLink( myFlag ) {
 
     <!-- START FOOTER-->
 <div id="bottom" align="center"><div class="footerContainer" style="border-top: 0px;">    <div class="footerSections" align="center"> <a href="http://www.ticketmaster.ie/section" class="footer">Home</a> <a href="http://www.ticketmaster.ie/section/concerts" class="footer">Music</a> <a href="http://www.ticketmaster.ie/section/sports" class="footer">Sport</a> <a href="http://www.ticketmaster.ie/section/arts_theater" class="footer">Arts &amp; Theatre</a> <a href="http://www.ticketmaster.ie/section/family" class="footer">Family &amp; Attractions</a> </div>            <div class="footerSubSections" align="center">
-                <a href="http://www.ticketmaster.ie/h/help.html">Help</a>|<a href="http://www.ticketmaster.ie/etc/">Ticket Centres</a>|<a href="http://www.ticketmaster.ie/about_us/">About Us</a>|<a href="http://www.ticketmaster.ie/about_us/advertise_with_us/">Advertise with Us</a>|<a href="http://www.ticketmaster.ie/h/selltixwithus.html">Sell Tickets With Us</a>|<a href="http://www.ticketmaster.ie/about_us/worldwide/">International</a>|<a href="http://www.ticketmaster.ie/legal/">Our Policies</a>|<a href="http://www.ticketmaster.ie/legal/privacy.html">Privacy Policy</a>
+                <a href="http://www.ticketmaster.ie/sitemap">Site Map</a> | <a href="http://www.ticketmaster.ie/h/help.html">Help</a>|<a href="http://www.ticketmaster.ie/etc/">Ticket Centres</a>|<a href="http://www.ticketmaster.ie/about_us/">About Us</a>|<a href="http://www.ticketmaster.ie/about_us/advertise_with_us/">Advertise with Us</a>|<a href="http://www.ticketmaster.ie/h/selltixwithus.html">Sell Tickets With Us</a>|<a href="http://www.ticketmaster.ie/about_us/worldwide/">International</a>|<a href="http://www.ticketmaster.ie/legal/">Our Policies</a>|<a href="http://www.ticketmaster.ie/legal/privacy.html">Privacy Policy</a>
             </div>    <div class="footerTOU" align="center">Use of this site is subject to express <a href="http://www.ticketmaster.ie/legal/">terms of use,</a> which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.</div>
 
- <div class="footerCopyRight" align="center">© &nbsp;2006&nbsp;&nbsp;Ticketmaster. All rights reserved.</div>
-    </div>
+ <div class="footerCopyRight" align="center">©&nbsp;2006&nbsp;&nbsp;Ticketmaster. All rights reserved.</div>
+
+<div class="footerPartnerSites" align="center">Partner Sites:
+    <a href="http://www.condodirect.com/" target="_blank">Condo Direct</a>
+    <a href="http://www.cottonblend.com/" target="_blank">Cottonblend</a>
+    <a href="http://www.domania.com/" target="_blank">Domania</a>
+    <a href="http://www.expedia.com/" target="_blank">Expedia</a>
+    <a href="http://www.getsmart.com/" target="_blank">GetSmart</a>
+    <a href="http://www.homeconnections.com/" target="_blank">HomeConnections</a>
+    <a href="http://www.homeloancenter.com/" target="_blank">Home Loan Center</a>
+    <a href="http://www.hotels.com/" target="_blank">Hotels</a>
+    <a href="http://www.hotwire.com/" target="_blank">Hotwire</a>
+    <a href="http://www.improvenet.com/" target="_blank">ImproveNet</a>
+    <a href="http://www.internest.com/" target="_blank">iNest</a><br>    <a href="http://www.ioscatalog.com/" target="_blank">IOS Catalog</a>
+    <a href="http://www.lendingtree.com/" target="_blank">LendingTree</a>
+    <a href="http://www.lendingtreeloans.com/" target="_blank">LendingTree Loans</a>
+    <a href="http://www.livedaily.com/" target="_blank">LiveDaily</a>
+    <a href="http://www.realestate.com/" target="_blank">RealEstate</a>
+    <a href="http://www.reserveamerica.com/" target="_blank">ReserveAmerica</a>
+    <a href="http://www.servicemagic.com/" target="_blank">ServiceMagic</a>
+    <a href="http://www.smithandnoble.com/" target="_blank">Smith + Noble</a>
+    <a href="http://www.ticketweb.com/" target="_blank">TicketWeb</a>
 </div>
+
+        </div>
+</div>
+
+
 
 
 
