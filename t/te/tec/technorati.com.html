@@ -1,95 +1,111 @@
-<!--The following is the downloaded HTML source of the technorati.com privacy policy that was archived on 2006-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613075000id_/http%3A//www.technorati.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the technorati.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230150734id_/http%3A//www.technorati.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Technorati: Privacy Policy</title>
 <link rel="search" type="application/opensearchdescription+xml" title="Technorati Search" href="http://technorati.com/osd.xml">
-<style type="text/css">@import "http://static.technorati.com/css/technorati.css"; @import "http://static.technorati.com/css/tn-sub.css";</style>
-<style type="text/css">@import "http://static.technorati.com/css/tn-content.css";</style>
-<script src="http://static.technorati.com/js/technorati.js" type="text/javascript"></script>
+
+
+<style type="text/css">@import "http://static.technorati.com/static/css/base.css"; @import "http://static.technorati.com/static/css/content.css"; </style>
+<script src="http://static.technorati.com/static/js/base.js" type="text/javascript"></script>
 <link rel="copyright" href="#copyright">
-<meta name="robots" content="index,nofollow">
+	<meta name="robots" content="index,nofollow">
 </head>
 <body id="technorati">
-<div id="b">
-<div id="member" class="box">
-   <p>Currently tracking 44.2 million sites and 2.5 billion links.</p>
-      <ul class="nav">
+<div id="slice" class="wrap"><div class="b">
 
-      
-        <li><a href="/signup/" onclick="signIn('s'); return false;" title="Already a Technorati member? Sign in now!">Member Sign In</a></li>
+	<div class="sitenav">
+	<ul class="navlinks">
+		
+				   <li class="first"><a href="/">Home</a></li>
+		    <li>·</li>
+		
+				   <li><a href="/pop/">Popular</a></li>
+		    <li>·</li>
 
-        <li><a href="/signup/" title="Become a Technorati member today!">Sign Up</a></li>
+				   <li><a href="/favorites/">Favorites</a></li>
+		    <li>·</li>
 
-      
-      
-        <li><a href="/help/" title="Need a hand?">Help</a></li>
+				   <li><a href="/watchlist/">Watchlists</a></li>
+				
+		
+	</ul>
+	</div>
+	<div class="usertools">
+	<ul class="navlinks">
+		<li class="first"><a href="/signup/">Join</a></li>
+    <li>·</li>
+		<li><a href="/signup/" onclick="if(document.all) $('select').hide();if($e('signin').style.display=='block') {$('#signin').slideUp('fast'); } else { $('#signin').slideDown('fast');$e('username').focus()};return false">Sign in</a></li>
+    <li>·</li>
+		<li><a href="/help/">Help</a></li>
+	</ul>
+	</div>
+	
+</div></div>
 
-      
-      
-        <li><span><a href="/about/" title="About Technorati: Who we are and what we do">About</a></span></li>
-
-      
-
-
-   </ul>
-   <b class="cn bl"></b>
-   <b class="cn br"></b>
-</div>
-
-<div id="signin" class="box">
+<div id="signin" class="wrap"><div class="b">
    <form action="/login.php" id="signinform" method="post">
-      <h2>Sign In</h2>
+      <h2>Member Sign In</h2>
       <ul>
          <li id="uname">
-            <label>Username <input type="text" name="username" id="username" tabindex="1"></label>
-            <p><a href="/signup/" title="Join Technorati today">Don't have a username?</a></p>
+            	<label for="username">Username</label>
+				<input type="text" name="username" id="username" tabindex="1">
          </li>
          <li id="pword">
-            <label>Password <input type="password" name="password" id="password" tabindex="2" onkeypress="ieLogin(this);"></label>
-            <p><a href="/signup/lostpassword.html" title="Reset your password">Forgot your password?</a></p>
+            	<label for="password">Password</label>
+				<input type="password" name="password" id="password" tabindex="2">
+				<p><a href="/signup/lostpassword.html" title="Reset your password" class="forgot">forgot your password?</a></p>
          </li>
+		<li id="signinbtn"><input type="submit" class="btn" value="Sign In" tabindex="3"></li>
       </ul>
-      <p>
-         <input type="image" src="http://static.technorati.com/pix/btn-signin.gif" tabindex="3">
-         <a href="#member" id="signin-cancel" onclick="signIn('x'); return false;" title="Nevermind">Cancel</a>
-      </p>
+      <div><a href="#member" id="signin-cancel" onclick="if(document.all) $('select').show();$('#signin').slideUp('fast');return false;" title="Nevermind" class="img"><img src="http://static.technorati.com/static/img/btn/cancel.png" alt="Cancel"></a></div>
+
    </form>
+</div></div>
+<div id="masthead" class="wrap"><div class="b">
+		<a href="/"><img src="http://static.technorati.com/static/img/logo/masthead.png" alt="Technorati"></a>
 
-   <b class="cn bl"></b>
-   <b class="cn br"></b>
-</div>
-<div id="masthead" class="box">
-            <a href="/" title="Back to the Technorati Homepage"><img src="http://static.technorati.com/pix/tn-logo.gif" alt="Technorati"></a><img src="http://static.technorati.com/pix/tn-logo-corner.gif" alt="">
-        <ul class="nav">
-            <li><a href="/search/" title="Technorati Search: Find out what people are talking about right now">Search</a></li>
-    
-                        <li><a href="/tags/" title="Technorati Tags: The real-time web organized by you">Tags</a></li>
-                                    <li><a href="/blogs/" title="Technorati Blog Finder: Find a blog about anything and everything">Blog Finder</a></li>
-            
-                        <li><a href="/explore/" title="">Explore</a></li>
-                </ul>
-    <b class="cn tr"></b>
-    <b class="cn br"></b>
-</div>
+		<form action="/search.php" method="post">
+<div id="searchbox" class="box boxb">
+	<label for="search">Search for</label>
+	<input type="text" name="s" id="search" value="">
+		<select name="bucket" class="bucket">
+		<option value="kwd">in blog posts</option>
+		<option value="tag">in tags</option>
+		<option value="blogs">in blog directory</option>
+	</select>
+	
+	
+	<input type="submit" value="Search" class="btn">
 
-<div id="mw">
+	<a href="/search/">Advanced search</a>
+	<b class="cn tl"></b>
+	<b class="cn tr"></b>
+	<b class="cn bl"></b>
+	<b class="cn br"></b>
+</div>
+</form>
+
+		<div id="breadcrumb">
+			<ul>
+	<li><a href="/">Home</a> /</li>
+	
+<li><a href="/about/">About Technorati</a> /</li>	
+
+</ul><h1>Privacy Policy</h1>
+
+
+
+
+
+
+		</div>
+</div></div>
+<div id="body"><div class="b">
+<div id="detailsBox"></div>
 <div id="main" class="content">
-    <div id="subnav" class="box">
-    <ul class="nav">
-        <li><a href="/about/management.html">Management</a></li>
-        <li><a href="/about/staff.html">Staff</a></li>
-        <li><a href="/about/jobs.html">Jobs</a></li>
-        <li><a href="/press/">Press</a></li>
-        <li><a href="/about/advertising.html">Advertising</a></li>
-        <li><a href="/about/contact.html">Contact</a></li>
-    </ul>
-    <b class="cn bl"></b>
-    <b class="cn br"></b>
-    <b class="cn tl"></b>
-    <b class="cn tr"></b>
-    </div>
+
     <h1>Technorati Privacy Policy</h1>
 
 
@@ -146,93 +162,46 @@
 <p>If you have any questions or suggestions regarding our privacy policy please<a href="/about/contact.html"> contact us</a>.</p>
 
 
-</div> </div>
-
+</div> 
 
 <div id="extra">
-
-<div id="whatsthis" class="section">
-<p><strong>What’s this?</strong> 
-
-
-
-
-
-
-This is Technorati's privacy policy. Short version: We respect your privacy.</p>
-
-
-
-
-
-</div>
-
-
-
-
-<div id="sb-pop" class="sb-module box open">
-    <h3 class="sb-mtitle"><a href="#sb-pop" onclick="boxToggle('sb-pop','kwd-sb-pop');return false" class="action">Today's Most</a> <a href="/pop/" class="goto">Popular</a></h3>
-
+	<div id="sb-nav" class="sb-module sb-grn box">
+    <div class="hdr"><h3><a href="/about/">About Technorati</a></h3></div>
     <div class="contents">
-        <div class="s" onmouseover="divLink(this,'/pop/news/');">
-            <h4><a href="/pop/news/">News</a></h4>
-            <ul>
-                            <li>• Marine Denies Haditha Cov...</li>
-                            <li>• Guantanamo suicides 'acts...</li>
-                            <li>• Guantanamo suicides 'acts...</li>
-                        </ul>
-        </div>
-        <div class="s wimg" onmouseover="divLink(this,'/pop/movies/');">
-                            <a href="/pop/movies/"><img src="/movieimages/tt0317219.jpg" alt="Cars (2006)" title="IMDB: Cars (2006)"></a>
-                        <h4><a href="/pop/movies/">Movies</a></h4>
-            <ul>
-                            <li>• Cars (2006)</li>
-                            <li>• X-Men</li>
-                            <li>• The Omen (2006)</li>
-                        </ul>
-        </div>
-        <div class="s wimg" onmouseover="divLink(this,'/pop/books/');">
-            <a href="/pop/books/"><img src="http://images.amazon.com/images/P/0892048468.01._SCMZZZZZZZ_.jpg" alt="Mario Tailgates NASCAR Style" title="Amazon: Mario Tailgates NASCAR Style"></a>
-
-            <h4><a href="/pop/books/">Books</a></h4>
-
-            <ul>
-                            <li>• Mario Tailgates NASC...</li>
-                            <li>• Harry Potter and the...</li>
-                            <li>• Make Over Your Metab...</li>
-                        </ul>
-        </div>
-        <div class="s" onmouseover="divLink(this,'/pop/blogs/');">
-            <h4><a href="/pop/blogs/">Top 100 Blogs</a></h4>
-            <ul>
-                            <li>• 老徐  徐静蕾   新浪BLOG</li>
-                            <li>• Boing Boing</li>
-                            <li>• Engadget</li>
-                        </ul>
-        </div>
-        <p class="more">
-            <a href="/pop/" class="more">More in Popular »</a>
-        </p>
-    </div>
+	    <ul>
+	        <li><a href="/about/">Welcome</a></li>
+	        <li><a href="/about/tour.html">Tour</a></li>
+	        <li><a href="/weblog/">Weblog</a></li>
+	        <li><a href="/about/management.html">Management</a></li>
+	        <li><a href="/about/staff.html">Staff</a></li>
+	        <li><a href="/about/jobs.html">Jobs</a></li>
+	        <li><a href="/press/">Press</a></li>
+	        <li><a href="/about/advertising.html">Advertising</a></li>
+	        <li><a href="/about/contact.html">Contact</a></li>
+	    </ul>
+	</div>
     <b class="cn tl"></b>
     <b class="cn tr"></b>
     <b class="cn bl"></b>
     <b class="cn br"></b>
 </div>
 
-<div id="sb-technoblog" class="sb-module box open">
-    <h3 class="sb-mtitle"><a href="#sb-pop" onclick="boxToggle('sb-technoblog','kwd-sb-technoblog');return false" class="action">New</a> in the <a href="/weblog/" class="goto">Technorati Blog</a></h3>
-    <div class="contents" onclick="window.location='/weblog/';" onmouseover="window.status='http://' + window.location.hostname + '/weblog/';" onmouseout="window.status='';">
-        <div class="s">
-<h4><a href="http://technorati.com/weblog/2006/05/108.html">Introducing Microformats Search and Pingerati</a></h4>
+<div id="sb-weblog" class="sb-module sb-grn box">
+    <div class="hdr"><h3><a href="/weblog/">Technorati Weblog</a></h3></div>
+    <div class="contents">
+        
+		<h4><a href="http://technorati.com/weblog/2006/12/237.html">Microformats services updates</a></h4>
 <p>
-I'm very pleased to announce the technology preview of Technorati microformats search for...
+ If you're not familiar with hCard or hCalendar, they are simple ways...
 </p>
-        </div>
-        <p class="more">
-            <a href="/weblog/" class="more">More in the Technorati Blog »</a>
-        </p>
+
+	    
+	    <p class="more">
+	        <a href="/weblog/">More in the Technorati Blog »</a>
+	    </p>
+
     </div>
+
     <b class="cn tl"></b>
     <b class="cn tr"></b>
     <b class="cn bl"></b>
@@ -242,44 +211,59 @@ I'm very pleased to announce the technology preview of Technorati microformats s
 
 </div>
 
-<div id="footer" class="box">
-<ul class="nav">
-<li><a href="/" title="Back to the Technorati Homepage">Home</a></li>
-<li><a href="/search/" title="Technorati Search: Find out what people are talking about right now">Search</a></li>
-<li><a href="/tags/" title="Technorati Tags: The real-time web organized by you">Tags</a></li>
-<li><a href="/blogs/" title="Technorati Blog Finder: Find a blog about anything and everything">Blog Finder</a></li>
-<li><a href="/explore/" title="Explore the blogosphere! Find the hottest posts on any topic.">Explore</a></li>
-<li><a href="/pop/" title="Popular News, Books, Movies, and more!">Popular</a></li>
-<li><a href="/weblog/" title="The Technorati Weblog: What's new in Technorati and the Blogosphere">Weblog</a></li>
-<li><a href="/developers/" title="Technorati Developer Center: What's new in the Technorati developer community">Developers</a></li>
-<li><span><a href="/about/" title="About Technorati: Who we are and what we do">About</a></span></li>
-<li><a href="/help/" title="Need help? Click here.">Help</a></li>
-</ul>
+</div></div>
+<div id="footer"><div class="b">
+	<ul class="nav navlinks">
+		<li class="first"><a href="/ping">Ping Us</a></li>
+    <li>·</li>
+		<li><a href="http://m.technorati.com">Mobile</a></li>
+    <li>·</li>
+		<li><a href="/weblog/">Technorati Blog</a></li>
+    <li>·</li>
+		<li><a href="/developers/">Developer Center</a></li>
+    <li>·</li>
+		<li>
+			<a href="/tools/">Technorati Tools</a>
+		</li>
+	</ul>
+	<ul id="footersub" class="nav navlinks">
+	    <li class="first"><span id="copyright">© Technorati, Inc.</span></li>
+        <li>·</li>
+		<li><a href="http://www.technorati.jp">Technorati Japan</a></li>
+        <li>·</li>
+	    <li><a href="http://creativecommons.org/licenses/by-nc/2.5/" rel="license" title="Technorati is licensed under a Creative Commons License">CC License</a></li>
+	  <li>·</li>
+	    <li><a href="/about/dmca.html"><abbr title="Digital Millennium Copyright Act">DMCA</abbr></a></li>
+      <li>·</li>
+	    <li><a href="/about/privacy.html">Privacy Policy</a></li>
+      <li>·</li>
+	    <li><a href="/about/tos.html">Terms of Service</a></li>
+      <li>·</li>
+	    <li><a href="/about/contact.html">Contact Us</a></li>
+      <li>·</li>
+	    <li><a href="/about/">About Us</a></li>
+	</ul>
+	<!-- Begin pageImpression -->
+<script type="text/javascript">
+    var zzt=new Image();
+    zzt.src="http://static.technorati.com/z/127269860.gif?anM9MSZyZWY9LSZ2aXNpdG9yaWQ9LSZ1c2VyaWQ9LSZzZXNzaW9uaWQ9MDBkNGE4NTllYmJmNzU2YzFiNzlhMGQxMjBhNjE0MTcmdXNlcmNsYXNzPTEmYWJjbGFzcz1hJmFic3dpdGNoPTQmbWVtYmVyPS0mc2Vzc2lvbnN0YXJ0dGltZT0xMTY3NDkxMjUzJnNlc3Npb25kdXJhdGlvbj0tJnZpc2l0Y291bnQ9MSZ2aXNpdHN0YXJ0dGltZT0xMTY3NDkxMjUzJnZpc2l0ZHVyYXRpb249LSZ2aXNpdHBhZ2Vjb3VudD0xJm5ld2JpZWZsYWc9MSZhdXRob3JpemVkPTAmYmxvZ2NsYWltcz0w";
+</script>
 
-<ul id="footersub" class="nav">
-    <li><span id="copyright">© Technorati, Inc.</span></li>
-    <li><a href="http://creativecommons.org/licenses/by-nc/2.5/" rel="license" title="Technorati is licensed under a Creative Commons License">CC License</a></li>
-    <li><a href="/about/dmca.html" title="Digital Millennium Copyright Act">DMCA</a></li>
-    <li><a href="/about/privacy.html" title="The Technorati Privacy Policy">Privacy Policy</a></li>
-    <li><a href="/about/tos.html" title="The Technorati Terms of Service">Terms of Service</a></li>
-    <li><a href="/ping" title="Ping Technorati to tell us about your site!">Ping</a></li>
-    <li><a href="/about/contact.html" title="Contact Technorati">Contact</a></li>
-</ul>
-<b class="cn tl"></b>
-<b class="cn tr"></b>
-</div>
-
-</div>
-
-<!-- elapsed render: 0.0056 -->
+<noscript>
+    <div><img width="1" height="1" alt="" src="http://static.technorati.com/z/127269860.gif?anM9MCZyZWY9LSZ2aXNpdG9yaWQ9LSZ1c2VyaWQ9LSZzZXNzaW9uaWQ9MDBkNGE4NTllYmJmNzU2YzFiNzlhMGQxMjBhNjE0MTcmdXNlcmNsYXNzPTEmYWJjbGFzcz1hJmFic3dpdGNoPTQmbWVtYmVyPS0mc2Vzc2lvbnN0YXJ0dGltZT0xMTY3NDkxMjUzJnNlc3Npb25kdXJhdGlvbj0tJnZpc2l0Y291bnQ9MSZ2aXNpdHN0YXJ0dGltZT0xMTY3NDkxMjUzJnZpc2l0ZHVyYXRpb249LSZ2aXNpdHBhZ2Vjb3VudD0xJm5ld2JpZWZsYWc9MSZhdXRob3JpemVkPTAmYmxvZ2NsYWltcz0w"/></div>
+</noscript> 
+<!-- End pageImpression -->
 <!-- Begin ZEDO -->
 <script type="text/javascript">
 var zzp=new Image();
 zzp.src="http://l2.zedo.com/log/p.gif?a=167796;c=577000000;x=3840;n=577;e=i;i=0;s=1;z="+Math.random();</script>
 <noscript>
-<p><img width="1" height="1" alt="" src="http://l2.zedo.com/log/p.gif?a=167796;g=0;c=577000000;x=3840;n=577;i=0;e=i;s=1;z=1150185000" /></p>
+<p><img width="1" height="1" alt="" src="http://l2.zedo.com/log/p.gif?a=167796;g=0;c=577000000;x=3840;n=577;i=0;e=i;s=1;z=1167491253" /></p>
 </noscript>
 <!-- End ZEDO -->
+</div></div>
+
+<!-- elapsed render: 0.0009 -->
 
 
 </body></html>
