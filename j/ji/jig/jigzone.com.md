@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615122732id_/http%3A//www.jigzone.com/faq/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230134138id_/http%3A//www.jigzone.com/faq/privacy.php) for the most accurate reproduction.*
 
 # JigZone: Privacy Policy
 
@@ -6,58 +6,41 @@ Jigzone.com has created this privacy statement in order to demonstrate our firm 
 
 #### Information Collection and Use
 
-  * JigZone collects personally identifiable information when you register for a JigZone account. JigZone may also receive personally identifiable information from our business partners. 
-  * When you register with JigZone, we ask your name, email address. Once you register with JigZone and sign in to our service, you are not anonymous to us. 
-  * Jigzone automatically receives and records information on our server logs from your browser including your IP address, JigZone cookie information and the page you requested. 
-  * Jigzone uses information for three general purposes: to customize the advertising and content you see on our pages, to fulfill your requests for certain products and services, and to contact you about specials and new products.
+  * JigZone collects personally identifiable information when you register for a JigZone account.
+  * When you register with JigZone, we ask your name, email address. Once you register with JigZone and sign in to our service, you are not anonymous to us.
+  * Jigzone automatically receives and records information on our server logs from your browser including your IP address, JigZone cookie information and the page you requested.
 
 
 
 #### Information Sharing and Disclosure
 
-  * JigZone will not sell or rent your personally identifiable information to anyone. 
-  * JigZone will send personally identifiable information about you to other companies or people when: 
-    * We have your consent to share the information;
-    * We need to share your information to provide the product or service you have requested;
-    * We need to send the information to companies who work on behalf of JigZone to provide a product or service to you.
-    * We respond to subpoenas, court orders or legal process; or
-    * We find that your actions on our web sites violate the JigZone Terms of Service or usage guidelines.
+  * We don't collect personal information without your knowledge. We don't sell, rent, or give your personal information to unrelated third parties without your prior permission.
 
 
 
 #### Your Ability to Edit Your account Information and Preferences
 
-  * JigZone gives you the ability to edit your [Registration Information](http://www.jigzone.com/member/changeNEP.php) and preferences at any time at <http://www.jigzone.com/member/changeNEP.php>
+  * JigZone gives you the ability to edit your [Registration Information](https://web.archive.org/member/changeNEP.php) and preferences at any time at [http://www.jigzone.com/member/changeNEP.php](https://web.archive.org/member/changeNEP.php)
 
 
 
 #### Cookies
 
-  * JigZone may set and access Cookies on your computer.
-
-
-
-#### Advertisers
-
-  * We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
+  * JigZone may set and access Cookies on your computer to manage your sign-in status.
+  * The use of advertising cookies sent by third-party servers is standard in the Internet industry. You may occasionally get cookies from our advertisers. JigZone cannot and does not control these cookies.
 
 
 
 #### Security
 
-  * Your JigZone Account Information is password-protected for your privacy and security.
+  * Your JigZone account information is password-protected for your privacy and security.
 
 
 
 #### Subscription
 
-Our site's subscription form requires users to give us their email address and name. Users can un-subscribe by visiting the following URL: [ http://jigzone.com/indexpage/unsubscribe.htm](http://jigzone.com/indexpage/unsubscribe.htm)
-
-#### External Links
-
-This site contains links to other sites. **JigZone** is not responsible for the privacy practices or the content of such Web sites. 
+Our site's subscription form requires users to give us their email address and name. Users can un-subscribe by visiting the following URL: [http://www.jigzone.com/member/pod.php](https://web.archive.org/member/pod.php)
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us throught the [Feedback](https://web.archive.org/faq/feedback.php?T=V) page.   
- 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us throught the [Feedback](https://web.archive.org/faq/feedback.php?T=V) page.
