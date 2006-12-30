@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thewiire.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618022452id_/http%3A//www.thewiire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiire.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230085909id_/http%3A//www.thewiire.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Wiire - Privacy Policy
 
-Last Updated: 04/24/06 
+Last Updated: 09/30/06 
 
-At The Wiire, we strive to bring readers current and accurate news, information, and media relating to Nintendo's next console, codenamed the Revolution. The Wiire is not endorsed, sponsored, nor otherwise affiliated with Nintendo. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services, as well as some of the steps we take to safeguard it. If you have any questions or concerns about this Policy, you may contact us [here](http://www.revolutionreport.com/contact). 
+At [The Wiire](http://www.thewiire.com/), we strive to bring readers current and accurate news, information, and media relating to Nintendo's next video game console, [Wii](http://www.thewiire.com/nintendo_wii_faq#faq1). The Wiire is not endorsed, sponsored, nor otherwise affiliated with [Nintendo](http://www.nintendo.com/). We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services, as well as some of the steps we take to safeguard it. If you have any questions or concerns about this Policy, you may contact us [here](http://www.thewiire.com/contact). 
 
 ## **_Data Collection_**
 
@@ -20,13 +20,13 @@ At The Wiire, we strive to bring readers current and accurate news, information,
 
   * This site complies with The Children's Online Privacy Protection Act of 1998 (COPPA) and as such cannot accept registrations from users under the age of 13 without a written permission document from their parent or guardian. For more information you can read the legislation [here](http://www.cdt.org/legislation/105th/privacy/coppa.html).
   * When registering for a [The Wiire Account](http://www.revolutionreport.com/signup.php), the following information is required: a username, a password, a first name, and a valid e-mail address. Your e-mail address will be used for administrative contact, and for contact from other users. Your e-mail address will be accessible to other site members unless you select to hide it via your user personal account settings after signing up.
-  * Registering for a The Wiire Website Account does not grant the user unlimited or unrestricted access to The Wiire. Certain administrative functions are hidden for security purposes, and may not be accessed by standard users. By registering for an account, the user must comply with the The Wiire Terms of Service (see below).
+  * Registering for a Website Account does not grant the user unlimited or unrestricted access to The Wiire. Certain administrative functions are hidden for security purposes, and may not be accessed by standard users. By registering for an account, the user must comply with the The Wiire Terms of Service (see below).
 
 
 
 ## **_The Wiire Terms of Service_**
 
-> The Terms of Service are available [on this page](http://boards.revolutionreport.net/index.php?act=boardrules). 
+> The Terms of Service are available [on this page](http://boards.thewiire.com/index.php?act=boardrules). 
 > 
 > The Wiire reserves the right to modify these Terms at any time.
 
@@ -40,7 +40,7 @@ At The Wiire, we strive to bring readers current and accurate news, information,
 
 ## **_Updating Your Information_**
 
-  * We provide mechanisms for updating and correcting your personally identifying information on our services.
+  * We provide mechanisms for updating and correcting your personally identifying information on our services. If you need assistance or more information regarding these mechanisms, please consult our [help documentation](http://boards.thewiire.com/index.php?act=Help). 
 
 
 
