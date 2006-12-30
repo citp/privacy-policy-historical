@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105647id_/http%3A//jamster.com/jcw/all/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230051016id_/http%3A//www.jamster.com/jcw/all/disclaimer.do) for the most accurate reproduction.*
 
-# Jamster - Ringtones, Wallpaper, Mobile Games and more
+# Jamster - Cellphone Ringtones, Real Tones, Mobile Games and more
 
-Thank you for visiting our site at www.jamster.com ("Web Site"). Your privacy is important to us and we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit at this site. This policy applies only to Jamster!`s treatment of personally identifiable information collected through our Web Site.
+Thank you for visiting our site at www.jamster.com ("Web Site"). Your privacy is important to us and we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit at this site. This policy applies only to Jamster's treatment of personally identifiable information collected through our Web Site.
 
-If you are visiting our site from outside the United States, please be advised that because we operate internationally, and certain of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. By using the Web Site, you consent to any such transfer of information outside of your country, and you also consent to Jamster! using your personal information to contact you electronically, in writing, or otherwise to provide notices relating to your use of the Web Site and to give you information about the products and services offered by Jamster! and its affiliates. Jamster! may store your information beyond this date if that is required by law or contract.
+If you are visiting our site from outside the United States, please be advised that because we operate internationally, and certain of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. By using the Web Site, you consent to any such transfer of information outside of your country, and you also consent to Jamster using your personal information to contact you electronically, in writing, or otherwise to provide notices relating to your use of the Web Site and to give you information about the products and services offered by Jamster and its affiliates. Jamster may store your information beyond this date if that is required by law or contract.
 
 ## Information Collection & Use of Collected Information
 
@@ -14,7 +14,7 @@ We may collect certain non-personally identifiable information when you visit ma
 
 ## Web Site Customers
 
-In order to purchase products or services from Jamster!, we require that you provide us with certain personally identifiable information (please see Section 3 of our Terms of Service for additional details). The types of personally identifiable information that may be collected at this site include: name, address, e-mail address, cell phone number and MSISDN (mobile station integrated services digital network number), credit card and billing information, download history, customer generated content and/or information about your interests in and use of various products, programs, and services.
+In order to purchase products or services from Jamster, we require that you provide us with certain personally identifiable information (please see Section 3 of our Terms of Service for additional details). The types of personally identifiable information that may be collected at this site include: name, address, e-mail address, cell phone number and MSISDN (mobile station integrated services digital network number), credit card and billing information, download history, customer generated content and/or information about your interests in and use of various products, programs, and services.
 
 We may use such personally identifiable information to provide the information or content you have requested (e.g., fulfill your orders for our ringtones, games, data and news), to contact you about programs, products, features or services in which we believe you may be interested (such as future promotional materials), or for other purposes disclosed from time to time. We also may use your personally identifiable information to contact you regarding your use of our Web Site or changes to our privacy notice, Terms of Service, or other policies or terms that affect you and your use of our Web Site. In addition, we may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes.
 
@@ -46,7 +46,7 @@ We use cookies to understand site usage and to improve the content and offerings
 
 ## Data Security
 
-We have put in place certain physical, electronic, and managerial procedures to help prevent unauthorized access and maintain data security. Due to the open nature of Internet communications, we cannot guarantee that communications between you and Jamster! will be free from unauthorized access by third parties. Visitors of the Website and Customers use the site at their own risk.
+We have put in place certain physical, electronic, and managerial procedures to help prevent unauthorized access and maintain data security. Due to the open nature of Internet communications, we cannot guarantee that communications between you and Jamster will be free from unauthorized access by third parties. Visitors of the Website and Customers use the site at their own risk.
 
 ## Changes to Privacy Policy
 
