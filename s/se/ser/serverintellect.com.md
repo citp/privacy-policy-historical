@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429002518id_/http%3A//serverintellect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230062002id_/http%3A//www.serverintellect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
@@ -52,7 +52,7 @@ Server Intellect/www.serverintellect.com Web pages may contain electronic images
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  Server Intellect prohibits Web beacons from being used to collect or access your personal information. 
 
 **Accessing Web Account Information**  
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to [sales@serverintellect.com](mailto:sales@serverintellect.com) or contacting us via phone at (407) 574-6467. 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to [sales@serverintellect.com](mailto:sales@serverintellect.com) or contacting us via phone at (321) 332-6825. 
 
 **Changes to this Statement**  
 Server Intellect has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
