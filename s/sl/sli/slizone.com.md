@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224429id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230064015id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# NVIDIA Privacy Notice
 
 NVIDIA gathers certain information from and about visitors to our website.  We pay close attention to how information about our visitors is used and shared, and we use that information carefully and sensibly.  This notice describes our privacy policy.  **By visiting NVIDIA's website, you are accepting the practices described in this Privacy Notice.**
 
@@ -13,7 +13,7 @@ We may also gather certain information automatically whenever you interact with 
 
 To help improve our products and to provide services such as product recommendations and special offers, we may also receive information about you from other sources and add it to information we have collected.
 
- **Use of Information**  
+**Use of Information**  
 We use the information that you provide to improve our products, respond to your requests, deliver product information (such as notification of product releases and the availability of updated software drivers and technical information), and make you aware of special offers. 
 
 We are not in the business of selling information about our customers or visitors to our website.  We may, however, share information with select partners working with us to deliver better graphics and multimedia capabilities.  We work with other companies throughout the design, manufacturing, integration, delivery, support, and servicing process, and may provide information we have collected to them to assist in improving their processes and so that they too can offer you useful information and special offers. 
@@ -22,5 +22,11 @@ NVIDIA may sell or buy assets from or to other companies.  Customer information
 
 We may release information on customers and visitors to our website when we believe release is appropriate to comply with laws, to enforce or apply our terms of use or terms of agreements we have entered into, or to protect our rights and property. 
 
-**Conditions of Use and Revisions  
-** If you choose to visit NVIDIA’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of California.  This Privacy Notice may change periodically, and use of information that we have gathered is subject to the Privacy Notice in effect at the time of use.  You should check our website frequently to see recent changes. 
+**Conditions of Use and Revisions**   
+If you choose to visit NVIDIA’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of California.  This Privacy Notice may change periodically, and use of information that we have gathered is subject to the Privacy Notice in effect at the time of use.  You should check our website frequently to see recent changes. 
+
+* * *
+
+  
+  
+
