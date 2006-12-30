@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyfun.go.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211251id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfun.go.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230112814id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
 
 # Privacy Policy for Walt Disney Internet Group
 
@@ -8,7 +8,7 @@ Walt Disney Internet Group
 [](http://disney.go.com/corporate/privacy/kids.html?ppLink=pp_wdig)  
 [](http://disney.go.com/corporate/privacy/safety.html?ppLink=pp_wdig)  
 [](http://disney.go.com/corporate/privacy/terms.html?ppLink=pp_wdig)  
-[](https://web.archive.org/web/20060615211251id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
+[](https://web.archive.org/web/20061230112814id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
 |  |  |   
 ---  
 Privacy Policy/Your California Privacy Rights  
