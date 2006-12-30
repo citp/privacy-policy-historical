@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ziki.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045753id_/http%3A//ziki.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziki.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230210109id_/http%3A//www.ziki.com/help/privacy) for the most accurate reproduction.*
 
-# Ziki.com
+# Ziki.com : Be visible
 
 ### 1\. OUR COMMITMENT TO ONLINE PRIVACY
 
@@ -24,7 +24,10 @@ If you have any questions or concerns about Ziki.com’s Privacy Policy, please 
 
 #### Use of personally identifiable information submitted to Ziki
 
-To facilitate the Service, Ziki.com displays to other Users and visitors some of the personal information that we request. Ziki.com displays User profile information, profile photo, and username, to enable us to personalize a Users’ Ziki.com experience and to enable them to invite new friends and locate other Users with similar interests. Your e-mail address will never be displayed to other Users unless you specifically provide this information in your “about” section. However, we use your e-mail address to send notifications relating to Ziki.com.
+  1. To facilitate the Service, Ziki.com displays to other Users and visitors some of the personal information that we request. Ziki.com displays User profile information, profile photo, and username, to enable us to personalize a Users’ Ziki.com experience and to enable them to invite new friends and locate other Users with similar interests. Your e-mail address will never be displayed to other Users unless you specifically provide this information in your “Contact” section. However, we use your e-mail address to send notifications relating to Ziki.com.
+  2. To promote your Ziki Profile, and thereby Ziki.com, we may sometimes run adword campaigns (listing your Ziki at the top of web search results for Google, Yahoo, MSN and others) by buying your first name and/or last name (provided to us when you registered). If you do not want us to do so, please email us at [contact@ziki.com](mailto:contact@ziki.com) .
+
+
 
 #### Use of non-personally identifiable information
 
@@ -62,9 +65,8 @@ All User accounts are password-protected. We go to great lengths to protect the 
 
 ### 8\. CHANGES IN OUR PRIVACY POLICY
 
-We will continuously assess our Privacy Policy against evolving technologies, business practices, and our Users ’ needs. As we diversify and update our Service, this Privacy Policy also may evolve. Accordingly, we reserve the right to change the Privacy Policy at any time. If we do so, we will post the changes on Ziki.com so that our Users are aware of what information is collected, how that information is used, and under what circumstances, if any, the information is disclosed. Please check the Service periodically for Privacy Policy updates. Should we use your personally identifiable information in a way that is materially different from the terms of the Privacy Policy that was posted when you submitted such information, we will notify you either by e-mail or by posting a prominent notice on Ziki.com.
+We will continuously assess our Privacy Policy against evolving technologies, business practices, and our Users ’ needs. As we diversify and update our Service, this Privacy Policy also may evolve. Accordingly, we reserve the right to change the Privacy Policy at any time. If we do so, we will post the changes on Ziki.com so that our Users are aware of what information is collected, how that information is used, and under what circumstances, if any, the information is disclosed. Please check the Service periodically for Privacy Policy updates.
 
 ### 9\. CONTACT US
 
-If you have any questions about your account, please contact Customer Service at [support@ziki.com](mailto:support@ziki.com) .  
-If you have any questions about this Privacy Policy, please contact at [privacy@ziki.com](mailto:privacy@ziki.com) .
+If you have any questions about your account, please contact Customer Service at [support@ziki.com](mailto:support@ziki.com) . If you have any questions about this Privacy Policy, please contact at [privacy@ziki.com](mailto:privacy@ziki.com) .
