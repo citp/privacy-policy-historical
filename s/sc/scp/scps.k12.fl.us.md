@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scps.k12.fl.us privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616134235id_/http%3A//www.scps.k12.fl.us/privacy/privacyNotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scps.k12.fl.us privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230123207id_/http%3A//www.scps.k12.fl.us/privacy/privacyNotice.cfm) for the most accurate reproduction.*
 
 # Seminole County Public Schools Privacy Notice
 
