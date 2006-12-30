@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184338id_/http%3A//www.sweetandmaxwell.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230062635id_/http%3A//www.sweetandmaxwell.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Law books and online law services from Sweet and Maxwell, leading law publishers in the UK
+# Welcome to Sweet and Maxwell
 
 **SWEET & MAXWELL PRIVACY STATEMENT**
 
