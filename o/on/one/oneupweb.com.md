@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051438id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230185436id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
 
-# Oneupweb :: Integrated Online & Search Engine Marketing: Our Privacy Policy
+# Oneupweb :: Professional Search Engine Marketing Company: Privacy Policy
 
 ## Oneupweb® respects the privacy of its users
 
@@ -12,7 +12,7 @@ Here, you will learn what personally identifiable information of yours is collec
 
 ## What Information is Collected
 
-Oneupweb® collects certain information from and about its users in three ways -- directly from the user and from our Web server logs. User-Supplied Information: When you submit a form we may ask you for your name, e-mail address, and some other personal information. The more accurate information you volunteer, the better we are able to customize your Oneupweb® experience.
+Oneupweb® collects certain information from and about its users in three ways — directly from the user and from our Web server logs. User-Supplied Information: When you submit a form we may ask you for your name, e–mail address, and some other personal information. The more accurate information you volunteer, the better we are able to customize your Oneupweb® experience.
 
 ## Log Information
 
@@ -20,13 +20,13 @@ When you visit an Internet Web site, you disclose certain information about your
 
 ## How and When Information is Used
 
-We use information in different ways, depending on the type of information: User-supplied information: This information is used for purposes such as personalization and verification. Web Server Logs: This information helps us identify which areas of our site are of interest to our visitors. Oneupweb® also collects the Internet [Protocol] (IP) addresses of its visitors for the purposes of system administration.
+We use information in different ways, depending on the type of information: User–supplied information: This information is used for purposes such as personalization and verification. Web Server Logs: This information helps us identify which areas of our site are of interest to our visitors. Oneupweb® also collects the Internet [Protocol] (IP) addresses of its visitors for the purposes of system administration.
 
 ## How We Protect Your Information
 
 The privacy and protection of your personal information is vitally important to us. Oneupweb® does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective partners regarding your Oneupweb® usage are provided in the aggregate only and do not include any personally identifiable information about any individual user.
 
-Your access to some services and content is password protected. We recommend that you do not divulge your password to anyone. Oneupweb® will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. You should not disclose your user name and password to others.
+Your access to some services and content is password protected. We recommend that you do not divulge your password to anyone. Oneupweb® will never ask you for your password in an unsolicited phone call or in an unsolicited e–mail. You should not disclose your user name and password to others.
 
 In addition, if applicable, you should remember to sign out of your Oneupweb® account or service at the end of each session. You may also wish to close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
