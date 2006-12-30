@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeem.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203945id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeem.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230043847id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.*
 
 # imeem! - Privacy
 
@@ -62,7 +62,7 @@ imeem complies with the Children's Online Privacy Protection Act and will not kn
 
 ## Changes to our policies
 
-imeem's Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify registered users by posting bulletins on the imeem service, by email at the address provided by you, or by posting notice of changes at [http://www.imeem.com/privacy.aspx](https://web.archive.org/web/20060615203945id_/http%3A//www.imeem.com/privacy.aspx). Your use of the website or the imeem Software after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
+imeem's Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify registered users by posting bulletins on the imeem service, by email at the address provided by you, or by posting notice of changes at [http://www.imeem.com/privacy.aspx](https://web.archive.org/web/20061230043847id_/http%3A//www.imeem.com/privacy.aspx). Your use of the website or the imeem Software after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
 
 ## Information storage and security
 
