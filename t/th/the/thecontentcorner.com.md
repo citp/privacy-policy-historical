@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613230659id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230093854id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
 
 # Articles for Content @ The Content Corner
 
@@ -46,3 +46,77 @@ United States
 
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email or postal mail.
+
+| 
+
+[ ](http://www.marysheadlines.com/adsenseprofitability/)
+
+**The Truth About AdSense Profitability** \- A special report on real earnings with AdSense.
+
+  
+[ ](http://articlespeedwriting.com/?a_aid=mmurtha)
+
+**Article Speed Writing \- **
+
+** Learn a specific formula to write high quality article content quickly and easily.**  
+
+
+  
+
+* **Recommended Links**  
+Want a permenant text link?[ **Order NOW!**](http://www.thesubjectindex.thecontentcorner.com/)
+
+  
+[ ](http://tinyurl.com/suy23)
+
+Learn the 
+
+**"Seven Golden Rules"** that will **PROTECT** your legitimate opt-in e-mail against bogus spam complaints.
+
+  
+
+* **[Quantum-Seek.com](http://www.quantum-seek.com/)** **Quantum Seek -  
+A Quantum Leap In  
+Specialty Information Searches!**
+
+  
+**Sponsored Links**
+
+[**Facts and Info 4U**](http://www.factsandinfo4u.com/)  
+Gardening, landscaping, foods and drink, games, home improvements, metals, and more!
+
+[**Home Security Systems**](http://www.ezhomesecurityinfo.com/)  
+Learn more about security systems for your home or office.
+
+[**Buy Gold Online**](http://www.goldinfo4u.com/)  
+Gold Bars, Gold Bullion, White Gold and More!
+
+[**Sudoku Games**](http://www.sudokudome.com/)  
+Online Free Sudoku-Sudoku Directions-Sudoku Downloads-Sudoku Puzzles and Much More!
+
+[**Mary's Headlines**](http://www.marysheadlines.com/)  
+Internet marketing News and Reviews, SE News, Niche News, Beginners Basics, and more!
+
+[**Internet Marketing Tips**](http://www.internetmarketingtips4u.com/)  
+Internet marketing tips about sales, advertising, scams, strategies, basics and more!
+
+[**The Wicker Den**](http://www.wickerden.com/)  
+Indoor and outdoor wicker furniture, wicker storage basket, wicker dog crates and more!
+
+[**Gourmet Chocolates**](http://www.thecontentcorner.com/gourmet-chocolate/)  
+Gourmet Chocolate, Hershey Chocolate, chocolate gift baskets and more!
+
+[**Best HD TV Info**](http://www.besthdtvinfo.com/)  
+For all of your HD TV needs and more!
+
+[**Telemetry News**](http://www.telemetrynews.com/)  
+Telemetry Equipment, Telemetry Receivers, Telemetry Transmitters and more!
+
+[**Carpet Cleaning Info**](http://www.bestcarpetcleaninginfo.com/)  
+Carpet cleaning tips, carpet cleaning stains, dry carpet cleaning and more!
+
+[**Special Diets**](http://www.thecontentcorner.com/specialdiets/)  
+Learn how to eat the right foods to help fight acid reflux, diabetes, diverticulitis, gout, high cholesterol and more!
+
+[**Culinary Arts News**](http://www.culinaryartsnews.com/)  
+Learn the latest Culinary Arts news and how you can become a world renown Chef and more!
