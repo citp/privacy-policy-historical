@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192512id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230223538id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
 
 # Multiply
-
-| 
 
 Multiply is a web site that allows you to build and leverage your network of contacts in very powerful ways, via messaging and information sharing. The site is designed to facilitate communication, information sharing and introductions among people in the same network (i.e., your "primary" contacts such as friends, family members, co-workers, etc. as well as the extended group of people you are connected to through these primary contacts) and as such, encourages the disclosure of certain personal information by members to fully leverage its communications facilities. 
 
