@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418002311id_/http%3A//rif.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230083516id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
 
 # Reading Is Fundamental | Privacy Policy
 
@@ -92,7 +92,7 @@ At any time parents can refuse to permit us to collect further personal informat
 
 We may amend our Privacy Policy at any time. We will provide parents notice by e-mail of any material changes in the way we intend to collect, use, and/or share children’s personal information and will make changes in accordance with COPPA. Please note that, at all times, parents should update their personal information to provide us current e-mail addresses.
 
-If you have questions or concerns about our Privacy Policy as it pertains to children please e-mail us at [kids@rif.org](mailto:kids@rif.org "E-mail kids@rif.org") or contact us via regular mail at Reading Is Fundamental, Inc., Attention Heidi Okla, 1825 Connecticut Avenue, NW, Suite 400, Washington, DC 20009 or call us at 1 (877) RIF-READ or (202) 536-3400. 
+If you have questions or concerns about our Privacy Policy as it pertains to children please e-mail us at [kids@rif.org](mailto:kids@rif.org "E-mail kids@rif.org") or contact us via regular mail at Reading Is Fundamental, Inc., Attention Angela Gooden, 1825 Connecticut Avenue, NW, Suite 400, Washington, DC 20009 or call us at 1 (877) RIF-READ or (202) 536-3400. 
 
   8. **Changes to Policy and Contact Information** :  
 Except as set forth in the portion of this policy concerning the collection of personal information of children (Section g), RIF reserves the right, at any time and without notice, to modify this policy by simply posting such changes on our website. Any modifications will be effective immediately upon posting. If you have any questions or comments about this policy, want to review your personal information collected by RIF, or wish to inform us of your solicitation preferences as stated in Section 2, please contact us through any of the following communication channels: 
