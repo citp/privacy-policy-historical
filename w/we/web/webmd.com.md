@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203458id_/http%3A//www.webmd.com/about_webmd/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230041733id_/http%3A//www.webmd.com/about_webmd/privacy.htm) for the most accurate reproduction.*
 
 # WebMD - Privacy, Ethics, and You
 
@@ -154,6 +154,8 @@ If you decide, that you would prefer not to receive personalized email or secure
 
 Interactive tools within the WebMD Health Manager, gather self-reported Personal Health Information. In addition, certain of these tools can store Personal Health Information coming from third party data interchange agreements between your employer, health plan, pharmacy benefits manager and other third parties that provide data interchange services. We maintain and limit the use of that information to the Opt-in permission you have provided at the time you use the tool. 
 
+WebMD Health does not knowingly engage in business with a company that uses Spyware nor does WebMD provide Users with downloadable software that collects or uses any PII without full disclosure and consent.
+
 * * *
 
 **F. Data Warehouse Analysis**
@@ -236,13 +238,13 @@ PART 9: UPDATING YOUR INFORMATION AND CONTACTING WEBMD HEALTH
 
 **A. Updating Your Personally Identifiable Information**
 
-WebMD Health tools that collect and store self-reported data allow you to correct, update or review information you have submitted by going back to the specific tool, logging-in and making the desired changes. 
+WebMD Health tools that collect and store self-reported data allow you to correct, update or review information you have submitted by going back to the specific tool, logging-in and making the desired changes. WebMD may store user submitted data (PII and/or PHI) in an active database for a period of six (6) months. After six (6) months, user submitted data, including PII and/or PHI will be held in an active database or on an inactive back-up medium for a period of not less than six (6) years. 
 
 * * *
 
 **B. Removing your Personal Information**
 
-Our customer service department will forward your complaint to the appropriate internal WebMD Health department for a response or resolution. We try to answer every email within 48 business hours, but may not always able to do so. If you want to (1) delete your Personally Identifiable Information from our systems, (2) update the Personally Identifiable Information that you have provided to us, or (3) change your preferences with respect to marketing contacts or other activities, please use our [Customer Support Form.]()
+If you have a complaint or problem, please use our new [Customer Support Form](). Our customer service department will forward your complaint to the appropriate internal WebMD Health department for a response or resolution. We try to answer every email within 48 business hours, but may not always able to do so. If you want to (1) delete your Personally Identifiable Information from our systems, (2) update the Personally Identifiable Information that you have provided to us, or (3) change your preferences with respect to marketing contacts or other activities, select the privacy option on our [Contact US form](https://data.webmd.com/sdclive/SdcForm.aspx?FormId=customerServiceStart&refdom=/). 
 
 If you do not receive adequate resolution of a privacy related problem, you may write to WebMD Health's Privacy Help Desk at: 
 
@@ -340,6 +342,6 @@ Usernames are also required to access some bulletin board and online services su
 
 * * *
 
-Effective: February 15, 2006 
+Effective: June 28, 2006 
 
 © Copyright 2004. WebMD Inc. All rights reserved. 
