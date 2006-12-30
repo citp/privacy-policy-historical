@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204639id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230082420id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20060615204639id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20060615204639id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20061230082420id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20061230082420id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,7 +58,7 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20060615204639id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20060615204639id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20061230082420id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20061230082420id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
@@ -67,28 +67,28 @@ For any questions about this privacy statement, please contact:
 
 ## What do you want your Web site to do?
 
-|  [ ](http://www.ektron.com/web-content-management-solutions.aspx?cpid=BAC-2106&campaignid=2106) |  **Go beyond just managing content…  
-**Want more out of your Web site than just content management? How about site analytics, online communities, document management. What if there was one product that let you do everything you need to do on the Web, as well as everything you want to do? Now there is.  
----|---  
-  
-[ ](http://www.ektron.com/web-content-management-solutions.aspx?cpid=BAC-2106&campaignid=2106) Ektron’s Web Content Management system gives you all the tools you need to create, deploy, and manage your Web site – all rolled into one application.
+[](http://www.ektron.com/web-content-management-solutions.aspx?cpid=BAC-2106&campaignid=2106)
+
+**What do you want your Web site to do?** Ektron CMS400.NET lets you do everything you need to do on the Web and do everything you want to do.
+
+[ ](http://www.ektron.com/web-content-management-solutions.aspx?cpid=BAC-2106&campaignid=2106) Ektron CMS400.NET gives you all the features you would expect from an enterprise CMS, but also high-demand functionality like real-time Web site analytics, community building, blogging, personalization, and online calendars. Ektron CMS400.NET bridges your Web site gaps.
 
 Use Ektron CMS400.NET for:
 
-  * **Content Management** – Author/edit content, manage navigation, menus, audit trails, workflow, approvals 
-  * **Web Site Analytics** \- track visitors, report on most requested pages, see where they came from and where they are going. 
-  * **HTML Form Engin** e – Create a two-way dialog with visitors using our wizard-like HTML form-building engine with validation and database support 
-  * **Web Alerts** – Manage memberships and subscriptions and automatically email visitors when you add or update content that’s relevant to them 
-  * **Online Communities** \- post **blogs** , add **forums** and message boards, rate content, post polls and surveys 
-  * **Multilingual Support** – Integrated translation tools help you reach multiple audiences by speaking their language 
-  * **Document Management** – Collaborate via the Web on Microsoft Word, PowerPoint, other documents, “save as” PDF & HTML, publish to Web 
-  * **Online Calendars** – Build and manage Web-based calendars and enable users to customize a view based on what’s important to them 
+  * **Content & Document Management** \- Author/edit content, manage navigation, menus, audit trails, workflow, approvals
+  * **Personalzation & Portal Support** \- Allow visitors to create their own view of your web page
+  * **508 & W3C Compliance Checker ** \- Ensure compliance with scheduled or on-demand compliance reports
+  * **Memberships** \- Build online communties with blogs and forums, enable email web alerts, build polls and surveys
+  * **Web Site Analytics** \- track visitors, report on most requested pages, see where they came from and where they are going
+  * **HTML Form Engine** \- Create a two-way dialog with visitors using our wizard-like HTML form-building engine with validation and database support
+  * **Multilingual Support** \- Integrated translation tools help you reach multiple audiences by speaking their language
+  * **Online Calendars** \- Build and manage Web-based calendars and enable users to customize a view based on what’s important to them 
 
 
 
 See why there are 15,000+ Ektron integrations worldwide.
 
-[Click here to learn more, then request a live online demo or download a FREE TRIAL.](http://www.ektron.com/web-content-management-solutions.aspx?cpid=BAC-2106&campaignid=2106)
+[Click here to learn more, then request a live online demo or download a FREE TRIAL](http://www.ektron.com/web-content-management-solutions.aspx?cpid=BAC-2106&campaignid=2106)
 
 * * *
 
