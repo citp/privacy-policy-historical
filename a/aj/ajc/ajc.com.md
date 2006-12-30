@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ajc.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415011233id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajc.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230070956id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ajc.com
+# Welcome to AJC! | ajc.com
 
 LAST UPDATED: March 17, 2006 
 
