@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629042709id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230063013id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php) for the most accurate reproduction.*
 
 # AbsolutVision Royalty Free Stock Photo Gallery
 
-### [Gallery](http://www.absolutvision.com/index.php) | [Privacy policy](https://web.archive.org/web/20060629042709id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php?PHPSESSID=3cf59de60768095508ed0f5c33972621)
+### [Gallery](http://www.absolutvision.com/index.php) | [Privacy policy](https://web.archive.org/web/20061230063013id_/http%3A//www.absolutvision.com/AbsolutVisionV2/sections/privacy_policy.php?PHPSESSID=21722b90cb62d5a08f1efde678e9b8b0)
 
 The following forms are provided without warranty of any kind, express or implied, and the author and publisher specifically disclaim any and all such warranties, including but not limited to the implied warranties of merchantability and fitness for a particular purpose, where permissible, and any and all liability arising directly or indirectly from any use whatsoever of the form agreement. As with any form, these forms cannot appropriately be applied to a specific transaction without first being substantively revised; therefore, it should not be used as a replacement for professional legal, tax, financial, and technical advice in any transaction.
 
