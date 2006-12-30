@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203454id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230092246id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
 
 # National MS Society | Privacy
 
@@ -51,8 +51,10 @@ From time to time, the National MS Society makes postal addresses available to o
 No advertisements are accepted.
 
 **Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-
+| [](http://www.give.org/seal.asp?ID=2035312006)  
+---|---  
+  
 **Copyright Information**  
-All information on this site is the property of the National MS Society. Copyright © 1995-2005, the National Multiple Sclerosis Society. All rights reserved.
+All information on this site is the property of the National MS Society. Copyright © 1995-2006, the National Multiple Sclerosis Society. All rights reserved.
