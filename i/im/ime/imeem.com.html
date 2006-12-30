@@ -1,49 +1,156 @@
-<!--The following is the downloaded HTML source of the imeem.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615203945id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imeem.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230043847id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	imeem! - Privacy
-</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><link id="ctl00_MainCSSLink" rel="stylesheet" href="/resources/css/main.css?v1.1">
-	<script src="/resources/js/rollovers.js" type="text/javascript" language="javascript" charset="utf-8"></script>
+</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><link id="ctl00_MainCSSLink" rel="stylesheet" href="/resources/css/main.css?v1.12">
 	<script src="/resources/js/utility.js" type="text/javascript" language="javascript" charset="utf-8"></script>
 	<script src="/resources/js/imagescaler.js" type="text/javascript" language="javascript" charset="utf-8"></script>
 	<script src="/resources/js/menu.js" type="text/javascript" language="javascript" charset="utf-8"></script>
-	
-	<link rel="stylesheet" type="text/css" href="/resources/submodal/submodal.css">
-	<script type="text/javascript" src="/resources/submodal/common.js"></script>
-	<script type="text/javascript" src="/resources/submodal/subModal.js"></script>
-	
-</head>
+<script type="text/javascript">djConfig = { isDebug: false, baseScriptUri:"/resources/js/dojo-0.4.1/" };</script><script src="http://resources.imeem.com/resources/js/dojo-0.4.1/dojo.js" type="text/javascript" language="javascript" charset="utf-8"></script></head>
 
-<body onload="activateRollovers()">
+<body>
 
-<div id="Container">
-	<div id="Header">
-		<span id="ImeemLogoDisplay"><a id="ctl00_HyperLinkLogo" href="http://www.imeem.com/" style="float:left;"><img id="ctl00_ImeemLogo" src="/resources/graphics/logo.png" alt="imeem!" border="0"></a></span>
-		<div class="Content">
+
+	<script type="text/javascript">
+		<!--
+		var floatingWindow;
+
+		function openLogin(redirectURL) {
+			dojo.require("dojo.widget.Dialog");
 			
-			<ul class="Links">
+			if (floatingWindow)
+			{
+				floatingWindow.hide();
+			}
+			
+			var properties = {
+				hasShadow: false,
+				id: "FloatingLogin" + new Date().getTime(),
+				resizable: false
+			};
+
+			node = document.createElement(properties.id);
+			document.body.appendChild(node);
+			floatingWindow = dojo.widget.createWidget("Dialog", properties, node);
+			
+			if ((!redirectURL) || (redirectURL.length == 0))
+				redirectURL = location.href;
+			
+			floatingWindow.setContent("<div style=\"width:300px;background-color:White;text-align:right;\"><span style=\"font-weight:bold;padding:4px;float:left;color:black;\">Log in to imeem</span>"
+			+ "<img onclick=\"closeFloatingWindow();\" style=\"padding:4px;cursor:pointer;\" src=\"http://resources.imeem.com//resources/graphics/close.gif\"></div>"
+			+ "<iframe src='/dialogs/login.aspx?url=" + redirectURL + "' frameborder='0' width='300px' height='290px' marginwidth='0' marginheight='0'></iframe>");
+			
+			floatingWindow.show();
+		}
+		
+		function openSignup(redirectURL, ra, typeOfSignup) {
+			dojo.require("dojo.widget.Dialog");
+			
+			if (floatingWindow)
+			{
+				floatingWindow.hide();
+			}
+			
+			var properties = {
+				hasShadow: false,
+				id: "FloatingLogin" + new Date().getTime(),
+				resizable: false
+			};
+
+			node = document.createElement(properties.id);
+			document.body.appendChild(node);
+			floatingWindow = dojo.widget.createWidget("Dialog", properties, node);
+			
+			if ((!redirectURL) || (redirectURL.length == 0))
+				redirectURL = location.href;
+			var url = "/dialogs/lbsignup.aspx?url=" + redirectURL;
+			
+			if (arguments.length >= 2) {
+				url += "&ra=" + ra;
+			}
+			
+			if (arguments.length == 3) {
+				url += "&type=" + typeOfSignup;
+			}
+			
+			floatingWindow.setContent("<div style=\"width:420px;background-color:White;text-align:right;\">"
+			+ "<img onclick=\"closeFloatingWindow();\" style=\"padding:4px;cursor:pointer;\" src=\"http://resources.imeem.com//resources/graphics/close.gif\"></div>"
+			+ "<iframe src='" + url + "' frameborder='0' width='420px' height='505px' marginwidth='0' marginheight='0'></iframe>");
+			
+			floatingWindow.show();
+		}	
 				
-					<li><a id="ctl00_SignUpLink" href="https://www.imeem.com/createaccount.aspx"><img id="ctl00_ImageSignUp" onmousedown="this.src='/resources/graphics/signup-pressed.png';" onmouseout="this.src='/resources/graphics/signup.png';" src="/resources/graphics/signup.png" alt="Sign Up!" border="0" style="vertical-align:middle;padding-bottom:2px;"></a></li>
-					<li><a href="http://www.imeem.com/tour/tourhome.aspx" title="Take the imeem tour">Tour</a></li>
-				
-				<li><a href="http://www.imeem.com/download.aspx" title="Get imeem for your desktop.">Download</a></li>
-				
-				<li><a href="https://www.imeem.com/login.aspx" title="Login">Login</a></li>
-				
-			</ul>
+		function closeFloatingWindow()
+		{
+			floatingWindow.hide();
+		}
+		
+		//-->
+	</script>
+
+<div id="HeaderContainer">
+	<table id="MainHeader" cellspacing="0" cellpadding="0" border="0">
+			<colgroup>
+				<col>
+				<col>
+			</colgroup>
+			<tbody>
+				<tr>
+					<td rowspan="2" align="left"><a href="http://www.imeem.com/" title="Go to imeem."><img alt="title bar" src="http://resources.imeem.com//resources/graphics/toolbar/title.gif" class="Title" width="346" height="79"></a><a id="ctl00_SignupLink" title="Start using imeem now!" href="https://www.imeem.com/createaccount.aspx"><img alt="Sign Up!" src="http://resources.imeem.com//resources/graphics/toolbar/signupbutton.gif" id="SignupButton"></a></td>
+					<td align="right" valign="top">
+						<div id="MessageArea">
+							
+							
+							<a href="http://www.imeem.com/aboutimeem.aspx" title="More about imeem.">About</a>
+							<a href="http://www.imeem.com/tour/tourhome.aspx" title="Take a tour of imeem.">Tour</a>
+							<a href="http://www.imeem.com/download.aspx" title="Download imeem for your desktop.">Download</a>
+							<a href="https://www.imeem.com/login.aspx" title="Login to imeem!">Login</a>
+						
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="right" valign="bottom">
+						
+						<table id="SearchFieldContainer" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td><img src="http://resources.imeem.com//resources/graphics/toolbar/searchlabel.gif" width="51" height="12" alt="search label"></td>
+								<td><input name="ctl00$SearchTextField" type="text" id="ctl00_SearchTextField"></td>
+								<td><a href="javascript:initiateTagSearch(dojo.byId('ctl00_SearchTextField').value)" title="Search imeem."><img alt="search button" src="http://resources.imeem.com//resources/graphics/toolbar/searchbutton.gif" id="SearchButton" width="20" height="22"></a></td>
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		
+		<div id="MainToolbar">
+			<div class="Menus">
+				<ul class="MenuBar" id="Toolbar"><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/videos/"><img src="http://resources.imeem.com//resources/graphics/toolbar/videobutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/videobutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/videobutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/videobutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/videos/featured/">Featured</a></li><li><a href="http://www.imeem.com/videos/ranked/">Top Ranked</a></li><li><a href="http://www.imeem.com/videos/gainer/">Rising</a></li><li><a href="http://www.imeem.com/videos/loser/">Falling</a></li><li><a href="http://www.imeem.com/videos/viewed/">Most Viewed</a></li><li><a href="http://www.imeem.com/videos/rated/">Top Rated</a></li><li><a href="http://www.imeem.com/videos/commented/">Most Discussed</a></li><li><a href="http://www.imeem.com/videos/random/">Random</a></li><li><a href="http://www.imeem.com/videos/recent/">Recent</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/music/"><img src="http://resources.imeem.com//resources/graphics/toolbar/musicbutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/musicbutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/musicbutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/musicbutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/music/featured/">Featured</a></li><li><a href="http://www.imeem.com/music/ranked/">Top Ranked</a></li><li><a href="http://www.imeem.com/music/gainer/">Rising</a></li><li><a href="http://www.imeem.com/music/loser/">Falling</a></li><li><a href="http://www.imeem.com/music/viewed/">Most Played</a></li><li><a href="http://www.imeem.com/music/rated/">Top Rated</a></li><li><a href="http://www.imeem.com/music/commented/">Most Discussed</a></li><li><a href="http://www.imeem.com/music/random/">Random</a></li><li><a href="http://www.imeem.com/music/recent/">Recent</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/playlists/"><img src="http://resources.imeem.com//resources/graphics/toolbar/playlist.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/playlist-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/playlist.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/playlist-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/playlists/rated/">Popular</a></li><li><a href="http://www.imeem.com/playlists/random/">Random</a></li><li><a href="http://www.imeem.com/playlists/recent/">Recently Created</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/photos/"><img src="http://resources.imeem.com//resources/graphics/toolbar/photosbutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/photosbutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/photosbutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/photosbutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/photos/viewed/">Most Viewed</a></li><li><a href="http://www.imeem.com/photos/rated/">Top Rated</a></li><li><a href="http://www.imeem.com/photos/commented/">Most Discussed</a></li><li><a href="http://www.imeem.com/photos/random/">Random</a></li><li><a href="http://www.imeem.com/photos/recent/">Recent</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/blogs/"><img src="http://resources.imeem.com//resources/graphics/toolbar/blogsbutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/blogsbutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/blogsbutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/blogsbutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/blogs/rated/">Top Rated</a></li><li><a href="http://www.imeem.com/blogs/random/">Random</a></li><li><a href="http://www.imeem.com/blogs/recent/">Recent</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/tags/"><img src="http://resources.imeem.com//resources/graphics/toolbar/tagsbutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/tagsbutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/tagsbutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/tagsbutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/tags/viewed/">Popular</a></li><li><a href="http://www.imeem.com/tags/rated/">Hot</a></li><li><a href="http://www.imeem.com/tags/random/">Random</a></li><li><a href="http://www.imeem.com/tags/recent/">Recent</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/meems/"><img src="http://resources.imeem.com//resources/graphics/toolbar/meemsbutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/meemsbutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/meemsbutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/meemsbutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/meems/viewed/">Popular</a></li><li><a href="http://www.imeem.com/meems/rated/">Top Rated</a></li><li><a href="http://www.imeem.com/meems/random/">Random</a></li><li><a href="http://www.imeem.com/meems/recent/">Recently Created</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="http://www.imeem.com/people/"><img src="http://resources.imeem.com//resources/graphics/toolbar/peoplebutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/peoplebutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/peoplebutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/peoplebutton-pressed.gif';"></a></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/people/rated/">Popular</a></li><li><a href="http://www.imeem.com/people/random/">Random</a></li></ul></li><li class="Menu" style="float:right;" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a href="https://www.imeem.com/login.aspx?er=12e442ec7de956ced76768413d3056802664562f250c7e1df67915344a9cba50"><img src="http://resources.imeem.com//resources/graphics/toolbar/uploadbutton.gif" onmouseover="this.src='http://resources.imeem.com//resources/graphics/toolbar/uploadbutton-hover.gif';" onmouseout="this.src='http://resources.imeem.com//resources/graphics/toolbar/uploadbutton.gif';" onmousedown="this.src='http://resources.imeem.com//resources/graphics/toolbar/uploadbutton-pressed.gif';"></a></h3></li></ul>
+				<div style="clear:both"></div>
+			</div>
 		</div>
-		<div class="Break"></div>
 	</div>
 
-	<form name="aspnetForm" method="post" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmRkU8upmsY28ERH1RdEo00+jrqEV3M=">
 
-	
-		<ul class="MenuBar" id="Toolbar"><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a>Browse imeem</a><img src="/resources/graphics/menudropdown.gif"></h3><ul class="MenuItems"><li><a href="http://www.imeem.com/channel/photos/">imeem Photos</a></li><li><a href="http://www.imeem.com/channel/videos/">imeem Videos</a></li><li><a href="http://www.imeem.com/channel/music/">imeem Music</a></li><li><a href="http://www.imeem.com/channel/blogs/">imeem Blogs</a></li><li><a href="http://www.imeem.com/channel/meems/">imeem Meems</a></li><li><a href="http://www.imeem.com/channel/tags/">imeem Tags</a></li></ul></li><li class="Menu" onmouseover="ShowMenu(this);" onmouseout="HideMenu(this);"><h3><a>Create &amp; Share</a><img src="/resources/graphics/menudropdown.gif"></h3><ul class="MenuItems"><li><a href="https://www.imeem.com/login.aspx?er=1119c3ef091575d7d4088b62331853cc32a0564d7e8a238a4cb9c5438464424628c03873ccc409c6effa6d6166ebc245">Create Blog Post in my profile...</a></li><li><a href="https://www.imeem.com/login.aspx?er=7d7f8a05a61ec54d33ba16db392f890365799829f1cac779c8625cedee4af9a37de127033141d7d3c63704637af28324">Upload Photos to my profile...</a></li><li><a href="https://www.imeem.com/login.aspx?er=7d7f8a05a61ec54d33ba16db392f89034e3d26a7b59e1f284bc5dfb7faed76b57de127033141d7d3c63704637af28324">Upload Video to my profile...</a></li><li><a href="https://www.imeem.com/login.aspx?er=7d7f8a05a61ec54d33ba16db392f890335eb8451280f7ad079355d5643cf8a867de127033141d7d3c63704637af28324">Upload Music to my profile...</a></li></ul></li></ul>
+	<div id="Container">
+		
+		<div class="Break"></div>
 		
 		<div id="Content">
-			
+			<form name="aspnetForm" method="post" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmRkU8upmsY28ERH1RdEo00+jrqEV3M=">
+
+
+<script type="text/javascript">
+<!--
+document.cookie = "timezone=" + escape(new Date().getTimezoneOffset()/60) + "; domain=.imeem.com";// -->
+</script>
+
+				
 
 <h1 class="bigHeader">Privacy Policy</h1>
 imeem, inc. operates the imeem service, imeem.com and
@@ -261,25 +368,26 @@ Palo Alto, CA 94302-1275<br>
 <small style="text-align:center" class="secondaryColor">Revised on February 17th, 2006</small>
 
 
-			<div class="Break"></div>
+				<div class="Break"></div>
+			
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLV0dzICwLBi+inCuZxzscCR1nnc0vR+q+mfz4tk1Ah"></form>
 		</div>
-	</form>
 	
 	<div id="ctl00_PanelNav">
 	
-		<div id="Footer" class="secondaryColor" style="border-top-style: solid; border-top-width:1px;">
-			<table align="center" border="0" cellspacing="0" cellpadding="0">
+		<div id="Footer" class="secondaryColor secondaryBorderColor" style="border-top-style: solid; border-top-width:1px;">
+			<table style="margin: 0 auto 0 auto;" align="center" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr valign="top">
 					<td style="width:170px">
 						<b>Your account</b>
 						<ul>
 							
-							<li><a href="javascript:showLoginWin('http://www.imeem.com/home/');">Home</a></li>
-							<li><a href="javascript:showLoginWin('https://www.imeem.com/editprofile/');">Edit Profile</a></li>
-							<li><a href="javascript:showLoginWin('http://www.imeem.com/customizeprofile/');">Customize Profile</a></li>
-							<li><a href="javascript:showLoginWin('http://www.imeem.com/friendsearch/');">Find Friends</a></li>
-							<li><a href="javascript:showLoginWin('http://www.imeem.com/linkrequests/');">Manage Friends</a></li>
-							<li><a href="javascript:showLoginWin('http://www.imeem.com/sendinvites/');">Invite Friends</a></li>
+							<li><a href="javascript:openLogin('http://www.imeem.com/home/');">Home</a></li>
+							<li><a href="javascript:openLogin('http://www.imeem.com/editprofile/');">Edit Profile</a></li>
+							<li><a href="javascript:openLogin('http://www.imeem.com/customizeprofile/');">Customize Profile</a></li>
+							<li><a href="javascript:openLogin('http://www.imeem.com/friendsearch/');">Find Friends</a></li>
+							<li><a href="javascript:openLogin('http://www.imeem.com/linkrequests/');">Manage Friends</a></li>
+							<li><a href="javascript:openLogin('http://www.imeem.com/sendinvites/');">Invite Friends</a></li>
 							
 						</ul>
 					</td>
@@ -313,6 +421,7 @@ Palo Alto, CA 94302-1275<br>
 							<li><a href="http://www.imeem.com/contact.aspx">Email Support</a></li>
 							<li><a href="http://www.imeem.com/download.aspx">Download</a></li>
 							<li><a href="http://www.imeem.com/sitemap.aspx">Sitemap</a></li>
+							<li><a href="http://www.imeem.com/developers.aspx">Developers</a></li>
 						</ul>
 					</td>
 					<td>
@@ -337,58 +446,44 @@ Palo Alto, CA 94302-1275<br>
 	
 </div>
 
+
+
 <script type="text/javascript">
-
-function showLoginWin(url) {
-	var newLocation = top.location;
-	if (arguments.length == 1) {
-		newLocation = url;
+<!--
+dojo.event.connect(window, "onload", function (e) {
+	if (dojo.byId("ctl00_SearchTextField")) {
+		dojo.event.connect(dojo.byId("ctl00_SearchTextField"), "onkeypress", function (e)
+		{
+			if(e.keyCode == e.KEY_ENTER) {
+				initiateTagSearch(dojo.byId("ctl00_SearchTextField").value);
+				stopEvent(e);
+				return false;
+			}
+		});
 	}
-	
-	showPopWin('/dialogs/login.aspx', 300, 260, function(success){
-		if (success) {
-			if (top.location == newLocation)
-			{
-				top.location.reload(true);
+
+	if (dojo.byId("SearchField")) {
+		dojo.event.connect(dojo.byId("SearchField"), "onkeypress", function (e)
+		{
+			if(e.keyCode == e.KEY_ENTER) {
+				initiateTagSearch(dojo.byId("SearchField").value);
+				stopEvent(e);
+				return false;
 			}
-			else
-			{
-				top.location = newLocation;
-			}
-		}
-	});
+		});
+	}
+});
+
+function initiateTagSearch(tag)
+{
+	top.location = 'http://www.imeem.com/tag/' + tag;
 }
 
-/* parameterName, parameterValue are optional params used only when we need to pass a param to lbsignup.aspx */
-function showSignupWin(params) {
-	
-	var paramsStr = "";
-	for (var key in params) {
-		paramsStr += key + "=" + params[key] + "&";
-	}
-	var url = "/dialogs/lbsignup.aspx?" + paramsStr;
-	showPopWin(url, 450, 505, function(){ top.location = top.location; });
-}
 
 
+
+//-->
 </script>
-
-
-
-<!-- SubModal popout window -->
-<div id="popupMask">&nbsp;</div>
-
-<div id="popupContainer">
-	<div id="popupInner">
-		<div id="popupTitleBar">
-			<div id="popupTitle"></div>
-			<div id="popupControls">
-				<div id="popupCloseControl" onclick="hidePopWin(window.frames['popupFrame'].alwaysRunCallback);" style="cursor:pointer">X</div>
-			</div>
-		</div>
-		<iframe src="/resources/submodal/loading.html" style="width:100%;height:100%;background-color:transparent;" scrolling="auto" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe>
-	</div>
-</div>
 
 
 
