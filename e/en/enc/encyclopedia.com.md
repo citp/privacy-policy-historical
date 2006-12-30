@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the encyclopedia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202222id_/http%3A//www.encyclopedia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230055723id_/http%3A//www.encyclopedia.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for Encyclopedia.com
+# HighBeam Encyclopedia – Free Online Encyclopedia for Reference, Research, Facts
 
-  
-  
-|  |  | 
-
-  
-**Privacy Policy for ENCYCLOPEDIA.COM**  
 HighBeam esearch, Inc. respects the privacy of our users. We have created this policy in order to demonstrate our privacy commitment to our users. By coming to a HighBeam Research site, you are agreeing to and accepting this Privacy Policy as well as the terms and conditions or other end user agreement for that site.
 
-  * We will not distribute information that identifies you individually or reveals your identity ("Identifying Information") unless you give your prior approval in response to a request made by HighBeam Research or unless distribution of this information is permitted under this Privacy Policy. Your electronic approval will qualify as your consent for this purpose. 
+  * We will not distribute information that identifies you individually or reveals your identity ("Identifying Information") unless you give your prior approval in response to a request made by HighBeam Research or unless distribution of this information is permitted under this Privacy Policy. Your electronic approval will qualify as your consent for this purpose.
   * We will not make Identifying Information available publicly without the prior written or electronic consent of the individual identified unless (a) the information is already publicly available; (b) required by law, court order, or as requested by other government or law enforcement authority; or (c) the information is posted by the user to an on-line bulletin board, chat room, news groups, or other public forum. 
   * We may collect and use information about you and your use of the HighBeam Research sites, including Identifying Information, for our own internal purposes such as, for example, analyzing usage of the HighBeam Research sites in order to improve them. 
   * We may use and/or distribute information about you and your use of the HighBeam Research sites in forms that do not identify you individually or reveal your identity. 
@@ -47,4 +41,4 @@ Chicago, IL 60601 USA
 
 **Updated: February 21, 2002**
 
-|  | 
+| 
