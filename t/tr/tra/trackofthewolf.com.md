@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the trackofthewolf.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229134039id_/http%3A//www.trackofthewolf.com/notices/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackofthewolf.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230054141id_/http%3A//www.trackofthewolf.com/notices/privacy.aspx) for the most accurate reproduction.*
 
 # Track of the Wolf - Privacy Policies
 
-  
+ 
 
-
-## **Our Privacy Policy**
+##  **Our Privacy Policy**
 
   * **Track of the Wolf** is committed to protecting your privacy. We keep your information confidential. We will not sell, trade, rent, loan, or disclose information about our customers, to anyone, or any business.
   * **Track of the Wolf** uses the information supplied by customers and guests, to serve them, answer questions, and fill their orders.
@@ -16,7 +15,7 @@ You may choose to have your computer warn you each time a cookie is sent, or you
   * Email/Feedback information is used to provide our visitors with occasional e-mail updates, about special offers, and new products. However, if you do not wish to receive these, please tell us. We will remove your e-mail address from our database. We enforce our 'no-spam' policy, that renounces unsolicited commercial email.
   * All of the customer information is protected against unauthorized access, and is available only to specially trained customer service staff members, when assisting a customer with their order.
   * This site is not intended for children, especially children under 13 years of age. Parents, please supervise your children.
-  * If you have questions about our privacy policy, please contact me, using our [ on-line form](https://www.trackofthewolf.com/feedback.aspx?Question_Type=6).
+  * If you have questions about our privacy policy, please contact me, using our [ on-line form](https://web.archive.org/web/20061230054141id_/http%3A//www.trackofthewolf.com/Feedback.aspx?Question_Type=6).
 
 Thank you,
 
@@ -25,4 +24,5 @@ Thank you,
 **Track of the Wolf, Inc.**
 
 
+  
 
