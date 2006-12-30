@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417231244id_/http%3A//www.micron.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230145421id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Micron Privacy Policy
 
 **This Privacy Policy applies to all Web sites owned and operated by Micron Technology, Inc. and its subsidiaries ("Micron"), other than Micron's Crucial Technology division whose Privacy Policy may be viewed[here](http://www.crucial.com/store/privacy.asp).**
 
@@ -24,7 +24,7 @@ You may be able to request information on our sites regarding our products and s
 **Children's Guidelines**  
 Micron's sites are not geared towards children. Micron does maintain a few Web pages designed to provide young people educational and charitable information. On all Micron sites, Micron attempts to protect children. Micron must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by Micron is or is not derived from a child. The following sets forth Micron's policy with respect to the collection and/or use of children's information:
 
-  * For purposes of this Policy, a “child” is an individual age 12 or younger.
+  * For purposes of this Policy, a “child” is an individual age 12 or younger. 
   * We do not collect children's contact information without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and for no other purpose. 
   * We do not collect children's personally identifiable offline contact information without prior parental consent. 
   * We do not distribute children's personal information to any third party without prior parental consent. 
@@ -39,7 +39,7 @@ We may use your IP address to help diagnose problems with our servers, administe
 **Cookies**  
 Our Web servers may place small bits of text or "cookies" onto your computer's hard drive and memory. Cookies enable us to identify you so you do not have to re-enter certain information each time you visit our sites and allow us to keep track of your shopping choices.
 
-Often we use third-party services to help us measure the effectiveness of our Web site. Specifically, we use WebSideStory. This company may place third-party cookies on your hard drive to help us analyze the traffic on our Web site and better meet our customers' needs. This does not give Micron or any other company access to your personal information or other information on your computer. We do not track or store any personally identifiable information. If you are concerned, you can set your browser to decline third-party cookies, or you can delete these cookies from your hard drive. To learn more about our partnership and their privacy policies, or to opt out of receiving cookies from them, go to [http://websidestory.com/privacy](https://web.archive.org/leaving.aspx?go=websidestory)
+Often we use third-party services to help us measure the effectiveness of our Web site. Specifically, we use WebSideStory. This company may place third-party cookies on your hard drive to help us analyze the traffic on our Web site and better meet our customers' needs. This does not give Micron or any other company access to your personal information or other information on your computer. We do not track or store any personally identifiable information. If you are concerned, you can set your browser to decline third-party cookies, or you can delete these cookies from your hard drive. To learn more about our partnership and their privacy policies, or to opt out of receiving cookies from them, go to <http://websidestory.com/privacy>
 
 **Agents**  
 We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and providing customer service. 
@@ -60,8 +60,6 @@ If you want to change or modify information you have previously provided to us, 
 If you have any questions about Micron's Privacy Policy or the privacy practices of our sites, please contact us by sending an email to [privacy@micron.com](mailto:privacy@micron.com). 
 
 **Updates/Effective Date**  
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to the Policy will apply to information we have already received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web site to view the most current Policy. The effective date of this version of the Privacy Policy is: September 28, 2005.  
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to the Policy will apply to information we have already received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web site to view the most current Policy. The effective date of this version of the Privacy Policy is: September 28, 2005.
 
-
-  
-
+Some links on this page will take you from the Micron Web site. Micron does not control the content on these Web sites.
