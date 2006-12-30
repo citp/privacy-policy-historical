@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510025607id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230133602id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
 
 # The General - Auto Insurance Online
 
