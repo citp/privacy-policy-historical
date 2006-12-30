@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlemail.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630074739id_/http%3A//mail.google.com/mail/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlemail.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230194801id_/http%3A//mail.google.com/mail/help/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Gmail Privacy Policy
 
