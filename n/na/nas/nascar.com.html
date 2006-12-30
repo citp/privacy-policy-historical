@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nascar.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211728id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nascar.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230151639id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -20,7 +20,93 @@ span.aoltextad { text-align: justify; font-size: 10pt; color: black; font-family
 -->
 </style>
 
+<script language="JavaScript1.2" type="text/javascript">
 
+function CNN_getCookies() {
+	var hash = new Array;
+	if ( document.cookie ) {
+		var cookies = document.cookie.split( '; ' );
+		for ( var i = 0; i < cookies.length; i++ ) {
+			var namevaluePairs = cookies[i].split( '=' );
+			hash[namevaluePairs[0]] = unescape( namevaluePairs[1] ) || null;
+		}
+	}
+	return hash;
+}
+
+function CNN_parseCookieData( cookieDataString ) {
+	var cookieValues = new Object();
+	var separatePairs = cookieDataString.split( '&' );
+	for ( var i = 0; i < separatePairs.length; i++  ) {
+		var separateValues = separatePairs[i].split( ':' );
+		cookieValues[separateValues[0]] = separateValues[1] || null;
+	}
+	return cookieValues;
+}
+
+// default values
+var adHeadOffset = 0;
+var adHeadClass = "us.low";
+
+var allCookies = CNN_getCookies();
+var adHeadCookie = allCookies[ "Target" ] || null;
+var isClassAndOffsetValid = false;
+var alreadySwappedTargetImage = false;
+var alreadySwappedCookieCrumb = false;
+
+if ( adHeadCookie ) {	// got milk?
+	var adHeadHash = CNN_parseCookieData( adHeadCookie );
+	//alert("o=" +  adHeadHash[ "o" ] + "\nclass=" + adHeadHash[ "class"]);
+	if ( adHeadHash[ "o" ] && adHeadHash[ "class" ] ) {
+		var validClassesAndOffsets = [ 'us.low', 0, 'us.high', 1, 'intl', 2, 'intl', 3, 'us.edu', 0, 'us.gov', 0, 'us.mil', 0, 'us.org', 0 ];
+		for ( var i = 0; i < validClassesAndOffsets.length; i+=2 ) {
+			if ( validClassesAndOffsets[i] == adHeadHash[ "class" ] && validClassesAndOffsets[i+1] == adHeadHash[ "o" ] ) {
+				isClassAndOffsetValid = true;
+				break;
+			}
+		}
+	}
+	if ( isClassAndOffsetValid ) {
+		adHeadOffset = adHeadHash[ "o" ];
+		adHeadClass = adHeadHash[ "class" ];
+	}
+}
+
+document.adoffset = adHeadOffset;
+
+//alert( "GLOBAL\nalreadySwappedTargetImage=" + alreadySwappedTargetImage + "\nisClassAndOffsetValid=" + isClassAndOffsetValid );
+
+function getAdHeadCookie( imageRef ) {
+	//alert( "isClassAndOffsetValid=" + isClassAndOffsetValid + "\nadHeadOffset=" + adHeadOffset + "\nadHeadClass=" + adHeadClass);
+	var newSrc = "http://nscrdyn.nascar.com/1.gif?" + new Date().getTime();
+	if ( !alreadySwappedTargetImage && !isClassAndOffsetValid && WM_browserAcceptsCookies() ) {
+		//alert( "getAdHeadCookie\nalreadySwappedTargetImage=" + alreadySwappedTargetImage + "\nisClassAndOffsetValid=" + isClassAndOffsetValid );
+		imageRef.src = newSrc;
+		alreadySwappedTargetImage = true;
+	}
+}
+
+var alreadySwappedDETargetImage = false;
+var cnnDEadDEonCookie = false;
+	
+</script>
+
+<script type="text/javascript">
+
+var alreadySwappedCookieCrumb = false;
+
+function getCookieCrumb( imageRef ) {
+	var cnnCookie = WM_readCookie( "CNNid" );
+	if ( cnnCookie && cnnCookie.charAt( 0 ) == 'G' ) {
+		// it's all good, you already got a cookie
+	} else if ( !alreadySwappedCookieCrumb ) {
+		imageRef.src = "http://nscrdyn.nascar.com/cookie.crumb";
+		alreadySwappedCookieCrumb = true;
+	}
+}
+
+</script>
+<script type="text/javascript" src="http://i.a.cnn.net/cnn/cnn_adspaces/cnn_adspaces.js"></script>
 
 <!--BEGIN BROADBAND MOD MAPS-->
 <map name="modbbTabs"><area alt="Video" shape="rect" coords="3,2,92,22" href="#Video" onclick="bbandTab(this,'modbbV');"><area alt="Audio" shape="rect" coords="98,2,195,22" href="#Audio" onclick="bbandTab(this,'modbbA');"></map>
@@ -81,7 +167,7 @@ writeImageMaps("home");
  <tbody><tr>
     <td width="600" class="cnn_content">
 	<p class="pageHeader1">NASCAR.COM Privacy Notice</p>
-	<p>Thank you for visiting NASCAR.com. Turner Sports Interactive, Inc. ("TSI") operates NASCAR.com pursuant to agreements with the National Association for Stock Car Auto Racing, Inc. and NASCAR Digital Entertainment, Ltd. (collectively, "NASCAR"). Your privacy is important to TSI and NASCAR ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at NASCAR.com. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate, including the NASCAR.com Store. Please see the  <a href="http://store.nascar.com/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy">NASCAR.COM Store's Privacy Notice</a>.</p>
+	<p>Thank you for visiting NASCAR.COM. Turner Sports Interactive, Inc. ("TSI") operates NASCAR.COM pursuant to agreements with the National Association for Stock Car Auto Racing, Inc. and NASCAR Digital Entertainment, Ltd. (collectively, "NASCAR"). Your privacy is important to TSI and NASCAR ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at NASCAR.COM. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate, including the NASCAR.COM Store. Please see the  <a href="http://store.nascar.com/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy">NASCAR.COM Store's Privacy Notice</a>.</p>
 	<p class="pageSubHeader1">The Information We Collect</p>
 	<p>At our site, you may now or in the future be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.</p>
 	<p>You may also be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.</p>
@@ -95,18 +181,18 @@ writeImageMaps("home");
 	<p>If you choose to submit content for publication (e.g., questions for an online chat guest), we may publish your screen name and other information you have provided to us (e.g. transcript of the chat, including your question). </p>
 	<p>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. </p>
 	<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.</p>
-	<p>Agents and contractors of NASCAR.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for NASCAR.com.</p>
+	<p>Agents and contractors of NASCAR.COM who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for NASCAR.COM.</p>
 	<p>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that is collected will never be disclosed in a manner that is inconsistent with this Privacy Notice.</p>
 	<p>We may also disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If our site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please click <a href="#block">here</a>. </p>
 	<p>We may on occasion combine information we receive online with other information and outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, click <a href="#block">here</a> for instructions on how to make your request. </p>
-	<p>Finally, NASCAR.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
+	<p>Finally, NASCAR.COM will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
 	<p class="pageSubHeader1">Cookies &amp; Web Beacons</p>
 	<p>To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.</p>
 	<p>We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.</p>
 	<p>"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes.
 	</p><p class="pageSubHeader1">Collection of Information by Third-Party Sites, Ad Servers, and Sponsors</p>
 	<p>Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we may not have control over information that is submitted to, or collected by, these third parties.</p>
-	<p>We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. NASCAR.com does not have ultimate control over these third parties' use of this information. NASCAR.com will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. </p>
+	<p>We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. NASCAR.COM does not have ultimate control over these third parties' use of this information. NASCAR.COM will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. </p>
 	<p>We may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on this site's use of such third-party ad servers data collection, please click <a href="#party">here</a>.</p>
 	<p class="pageSubHeader1">Our Commitment to Security</p>
 	<p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
@@ -114,7 +200,7 @@ writeImageMaps("home");
 	<p>For instructions on how you can access the personally identifiable information that this site has collected about you online, or how to correct factual errors in such information, please click <a href="#personal">here</a>.</p>
 	<p>To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.</p>
 	<p class="pageSubHeader1">Special Note for Parents</p>
-	<p>The site you are visiting is considered a general audience site. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.</p> 
+	<p>The site you are visiting is considered a general audience site. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.</p>
 	<p class="pageSubHeader1">How to Contact Us</p>
 	<p>If you have any questions or concerns about the online policy for this site or its implementation you may contact us at <a href="mailto:privacy.nascar@turner.com">privacy.nascar@turner.com</a>.</p>
 	<p class="pageSubHeader1">Updates &amp; Effective Date</p>
@@ -144,86 +230,159 @@ email: <a href="mailto:privacy.nascar@turner.com">privacy.nascar@turner.com</a>.
 	<p></p></td>
   <td width="160" bgcolor="#127C12" valign="top"><!--BEGIN RNAV-->
 <div id="cnnRnav">
-<div id="cnnStore"><div class="spacer"><img src="http://i.cnn.net/nascar/.element/1.0/img/utility/pixel.gif" width="1" height="1" alt="pixel" border="0"></div><div class="wrap1"><div class="wrap2"><img src="http://i.cnn.net/nascar/.element/1.0/img/nav/rn/store/hdr.gif" width="153" height="35" border="0" alt="NASCAR.COM Superstore"><div class="storeContent bdr"><div class="ad bdr"><!-- home/consumer_marketing/top.120x90 -->
+	<div id="cnnStore"><div class="spacer"><img src="http://i.a.cnn.net/nascar/.element/1.0/img/utility/pixel.gif" width="1" height="1" alt="pixel" border="0"></div><div class="wrap1"><div class="wrap2"><img src="http://i.a.cnn.net/nascar/.element/1.0/img/nav/rn/store/hdr.gif" width="153" height="35" border="0" alt="NASCAR.COM Superstore"><div class="storeContent bdr"><div class="ad bdr"><!-- home/consumer_marketing/top.120x90 -->
 <script language="JavaScript1.1">
 <!--
 adSetTarget('_top');
 htmlAdWH(93163481, 120, 90);
 //-->
-</script><noscript><a href="http://ar.atwola.com/link/93163481/aol" target="_top"><img src="http://ar.atwola.com/image/93163481/aol" alt="Click Here" width="120" height="90" border="0"></a></noscript></div><ul> <li><a href="http://store.nascar.com/entry.point?entry=2272154&amp;source=nascar_textlink:hamlinfirstwin:06_11_06">Hamlin First Win Tee</a></li>
-<li><a href="http://store.nascar.com/entry.point?entry=2349049&amp;source=nascar_textlink:polo:06_14_06">New Polos &amp; Denims</a></li>
-<li><a href="http://store.nascar.com/entry.point?entry=2363970&amp;source=nascar_textlink:velocity:06_09_06">Leather Cycle Jackets</a></li>
+</script><noscript><a href="http://ar.atwola.com/link/93163481/aol" target="_top"><img src="http://ar.atwola.com/image/93163481/aol" alt="Click Here" width="120" height="90" border="0"></a></noscript></div><ul>     <li><a href="http://auctions.nascar.com/" target="new">Auctions</a></li>
+    <li><a href="http://store.nascar.com/entry.point?entry=2559760&amp;source=nascar_textlink:25wilsons:12_14_06" target="new">25% off Leather</a></li>
+    <li><a href="http://store.nascar.com/entry.point?entry=2587244&amp;source=nascar_textlink:25active:12_14_06" target="new">25% off Select Styles</a></li>
 </ul></div></div></div></div>
-<div id="cnnBpack"><a href="/promos/redirects/2006/racepoints/bpack_header.exclude.html"><img src="http://i.cnn.net/nascar/.element/1.0/img/sect/race_points/ab/rpoints_acc_top.jpg" width="160" height="100" alt="NASCAR RacePoints™" border="0"></a>
-<div id="cnnRpoints"><a href="/promos/redirects/2006/racepoints/bpack_signin.exclude.html">Sign In</a> or <a href="/promos/redirects/2006/racepoints/bpack_learn.exclude.html">Learn More</a><img src="http://i.cnn.net/nascar/.element/1.0/img/sect/race_points/ab/rpoints_acc_divider.gif" width="132" height="1" alt="" border="0">
-<a href="/promos/redirects/2006/racepoints/bpack_promo1.exclude.html">See Over 500 New Rewards</a></div></div><div id="cnnSrchWrap"><div><a href="http://search.nascar.com"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/search/search_hdr.gif" width="159" height="16" alt="NASCAR.COM Search" border="0"></a></div><div id="cnnSrchBdy"><form name="ncar_search" method="get" action="http://search.nascar.com/pages/search/advanced.jsp" onsubmit="checkAction();"><input name="Coll" value="nascar_xml" type="hidden"><input name="QuerySubmit" value="true" type="hidden"><input name="Page" value="1" type="hidden"><input name="LastQuery" value="" type="hidden"><input name="keywords" type="hidden"><input type="hidden" name="source" value="NSS"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="cnnSrchTxtL"><input type="text" class="txt" name="QueryText"></td><td class="cnnSrchTxtR"><input type="image" class="img" src="http://i.a.cnn.net/nascar/.element/1.0/img/nav/rn/search/btn_go.gif"></td></tr></tbody></table><div id="cnnSrchRad"><input type="radio" name="searchwords" id="nascarSearch" checked=""><img src="http://i.cnn.net/nascar/.element/img/1.0/sect/nav/rn/search/search_nascar.gif" width="58" height="16" alt="NASCAR.COM Search" border="0" id="nascar"><input type="radio" name="searchwords" id="superstoreSearch"><img src="http://i.cnn.net/nascar/.element/img/1.0/sect/nav/rn/search/search_superstore.gif" width="50" height="16" alt="Superstore Search" border="0" id="superstore"><img src="http://i.cnn.net/nascar/.element/1.0/img/utility/pixel.gif" width="148" height="1"></div></form><div id="cnnSrchSubLnks"><a href="/tools/sitemap/index.html">Site Map</a> | <a href="/promos/redirects/2006/customer.service/accbar.exclude.html">Help</a></div></div><div><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/search/search_footer.gif" width="159" height="2" alt="" border="0"></div></div><script language="JavaScript1.1" type="text/javascript" src="http://i.cnn.net/nascar/.element/1.0/ssi/code/backpack_new.js"></script>
+	<div id="cnnBpack"><a href="/promos/redirects/2006/racepoints/bpack_header.exclude.html"><img src="http://i.a.cnn.net/nascar/.element/1.0/img/sect/race_points/ab/rpoints_acc_top.jpg" width="160" height="100" alt="NASCAR RacePoints™" border="0"></a>
+		<div id="cnnRpoints"><a href="/promos/redirects/2006/racepoints/bpack_signin.exclude.html">Sign In</a> or <a href="/promos/redirects/2006/racepoints/bpack_learn.exclude.html">Learn More</a><img src="http://i.a.cnn.net/nascar/.element/1.0/img/sect/race_points/ab/rpoints_acc_divider.gif" width="132" height="1" alt="" border="0"><a href="/promos/redirects/2006/racepoints/bpack_promo1.exclude.html">See All Rewards</a></div>
+	</div>	
+	<div id="cnnRnav4pxPad">
+		<div><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/divider.gif" width="152" height="8" alt="" border="0" class="divider" style="margin-top:0;"></div>
+		<div id="cnnSrchHdr"><a href="http://search.nascar.com"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/hdr_search.gif" width="48" height="13" alt="NASCAR.COM Search" border="0"></a><a href="/tools/sitemap/index.html">Site Map</a> | <a href="/promos/redirects/2006/customer.service/accbar.exclude.html">Help</a></div>
+		<form name="ncar_search" method="get" action="http://search.nascar.com/pages/search/advanced.jsp" onsubmit="checkAction();"><input name="Coll" value="nascar_xml" type="hidden"><input name="QuerySubmit" value="true" type="hidden"><input name="Page" value="1" type="hidden"><input name="LastQuery" value="" type="hidden"><input name="keywords" type="hidden"><input type="hidden" name="source" value="NSS">
+		<table cellspacing="0" cellpadding="0" border="0" style="clear:both;"><tbody><tr><td class="cnnSrchTxtL"><input type="text" class="txt" name="QueryText" style="width:118px;"></td><td class="cnnSrchTxtR"><input type="image" class="img" src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/btn_go.gif"></td></tr></tbody></table>
+		<div id="cnnSrchRad"><input type="radio" name="searchwords" id="nascarSearch" checked="">NASCAR.COM<input type="radio" name="searchwords" id="superstoreSearch">Store</div></form>
+		<script language="JavaScript1.1" type="text/javascript" src="http://i.a.cnn.net/nascar/.element/ssi/js/1.0/sect/nav/rn/bpack.js"></script>
 <noscript>
-<div id="cnnAccount"><img src="http://i.a.cnn.net/nascar/.element/1.0/img/nav/rn/account/hdr.gif" width="160" height="13" alt="NASCAR.COM Account"><div class="wrap">RacePoints Requires You to Enable JavaScript</div><img src="http://i.a.cnn.net/nascar/.element/1.0/img/nav/rn/account/ftr.gif" width="160" height="3" alt=""></div>
+<div id="cnnAccount">You must enable JavaScript to access your NASCAR.COM account.</div></div>
 </noscript>
-<div id="cnnGallery"><map name="gallery"><area alt="Current" shape="rect" coords="54,43,102,55" href="javascript:openPopUp('/multimedia/photo_gallery/2006/06/11/pocono_cuprace/frameset_exclude.html','GALLERY','width=667,height=463,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no');"><area alt="Archive" shape="rect" coords="106,43,154,55" href="/multimedia/photo_gallery/"></map>
-<iframe src="http://ad.n2434.doubleclick.net/adi/N2434.nascar/B1825119;sz=1x1;ord=[timestamp]?" width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<script language='JavaScript1.1' src="http://ad.n2434.doubleclick.net/adj/N2434.nascar/B1825119;abr=!ie;sz=1x1;ord=[timestamp]?">
-</script>
-<noscript>
-<a href="http://ad.n2434.doubleclick.net/jump/N2434.nascar/B1825119;abr=!ie4;abr=!ie5;sz=1x1;ord=[timestamp]?">
-<img src="http://ad.n2434.doubleclick.net/ad/N2434.nascar/B1825119;abr=!ie4;abr=!ie5;sz=1x1;ord=[timestamp]?" border=0 width=1 height=1 alt="Click Here"></A>
-</noscript>
-</iframe><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="2"><img src="http://i.cnn.net/nascar/.element/img/sect/promos/2005/pepsi/free/ab_gallery_t.gif" width="160" height="61" border="0" alt="" usemap="#gallery"></td></tr><!--tr><td><img src="http://i.cnn.net/nascar/.element/img/sect/promos/2005/pepsi/free/ab_gallery_l.gif" width="72" height="31" border="0" alt="" usemap="#gallery"></td><td><!--include virtual="/nascar_adspaces/home/multimedia/top.88x31.ad" -->
-<tr><td><table width="159" border="0" cellpadding="0" cellspacing="0" style="border-left:1px solid #000;">
-	<tbody><tr>
-		<td><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/yamaha_71x31.gif" width="71" height="31" alt="" border="0"></td>
-		<td><!-- home/multimedia/top.88x31 -->
-<script language="JavaScript1.1">
-<!--
-adSetTarget('_top');
-htmlAdWH(93132393, 88, 31);
-//-->
-</script><noscript><a href="http://ar.atwola.com/link/93132393/aol" target="_top"><img src="http://ar.atwola.com/image/93132393/aol" alt="Click Here" width="88" height="31" border="0"></a></noscript></td>
-	</tr>
-</tbody></table></td></tr>
-<!-- DO NOT DELETE THIS IFRAME WHEN UPDATING THE GALLERY SPONSORSHIP!!! -->
-<!-- Dodge Microsite Link 1x1 -->
-<!-- Run Dates: 2/20/2006 To 11/30/2006 -->
-<tr><td colspan="2"><img src="http://i.cnn.net/nascar/.element/img/sect/promos/2005/pepsi/free/ab_gallery_b.gif" width="160" height="7" border="0" alt=""></td></tr></tbody></table></div>
-<div><map name="screensavers"><area alt="Latest images" shape="rect" coords="54,22,155,55" href="/promos/redirects/2005/screensavers/accbar.exclude.html"></map><img src="http://i.cnn.net/nascar/.element/1.0/img/nav/rn/ac_screensavers.gif" width="160" height="72" border="0" alt="" usemap="#screensavers"></div>
-<div><a href="/special/earnhardt/index.html"><img src="http://i.cnn.net/nascar/.element/img/1.0/sect/special/earnhardt/ac_plate.gif" width="160" height="28" alt="Dale Earnhardt Tribute" border="0"></a></div>
-<div><a href="/promos/redirects/2006/foundation/accbar.exclude.html"><img src="http://i.cnn.net/nascar/.element/img/1.0/sect/promos/2006/foundation/ac_plate.gif" width="160" height="28" alt="NASCAR Foundation" border="0"></a></div>
-<div><a href="/promos/redirects/2006/biography/acc_plate.exclude.html"><img src="http://i.cnn.net/nascar/.element/img/1.0/sect/promos/2006/biography/acc_plate.gif" width="160" height="28" alt="Biography Channel: NASCAR Driven to Win" border="0"></a></div>
-<div id="cnnNew" class="cnnFeatTab"><h5>What ' s new</h5><table cellspacing="0" cellpadding="0" border="0"> <tbody><tr><td class="left">06|13</td><td><a href="/games/contest/">Dodge sweeps</a></td></tr>
-<tr><td class="left">06|01</td><td><a href="/games/contest/">Allstate sweeps</a></td></tr>
+		<div id="cnnGallery">
+			<map name="pgallery"><area alt="Current" shape="rect" coords="5,5,32,25" href="javascript:openPopUp('/multimedia/photo_gallery/2006/12/02/awards_ceremony/frameset_exclude.html','GALLERY','width=667,height=463,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no');"><area alt="Current" shape="rect" coords="46,15,86,24" href="javascript:openPopUp('/multimedia/photo_gallery/2006/12/02/awards_ceremony/frameset_exclude.html','GALLERY','width=667,height=463,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=no');"><area alt="Archive" shape="rect" coords="95,15,135,24" href="/multimedia/photo_gallery/"></map>
+			<img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/divider.gif" width="152" height="8" alt="" border="0" class="divider">
+			<img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/hdr_media.gif" width="152" height="13" alt="Pictures &amp; Media" border="0">
+			<div style="border:0; margin-top:4px;"><script language="JavaScript1.1" src="http://i.a.cnn.net/nascar/.element/1.0/ssi/code/flash_detect.js" type="text/javascript"></script>
+<script type="text/javascript" language="Javascript1.2">
+	if ( new CNN_FlashDetect().detectVersion( 7 ) ) {
+		var accBarFilmLoop = new CNN_FlashObject( "accBarFilmloop","http://i.a.cnn.net/nascar/.element/img/1.0/sect/promos/2006/photocast/accbar.swf", 152, 40 );
+		accBarFilmLoop.writeHtml();
+		}else{document.write('<div style="background:#000; color:#fff; text-align:center; width:152px; height:40px;"><br><a href="http://www.macromedia.com/go/getflashplayer" target="_blank"><b>GET FLASH</b></a></div>');
+	}
+</script></div>
+			<div><a href="/promos/2006/photocast/"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_photocast.gif" width="152" height="31" alt="Photocast" border="0"></a></div>
+			<div><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_pgallery.gif" width="152" height="31" alt="Photo Gallery" border="0" usemap="#pgallery"></div>
+			<div><a href="/promos/redirects/2005/screensavers/accbar.exclude.html"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_screensavers.gif" width="152" height="31" alt="Screensavers" border="0"></a></div>
+			<div><a href="/promos/redirects/2006/wireless/accbar.exclude.html"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_wireless.gif" width="152" height="31" alt="Wireless" border="0"></a></div>
+			<a href="javascript:openPopUp('/2006/multimedia/audioslide/RyanHorn111706/photo_gallery/index.html','audio_gallery','width=590,height=540,scrolling=no,resize=no');"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_slideshow.gif" width="152" height="31" alt="Audio Slideshow" border="0"></a>
+		</div>
+	<!-- sponsor plates -->
+		<div><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/divider.gif" width="152" height="8" alt="" border="0" class="divider"></div>
+<div style="border-bottom:3px solid #fff; padding-bottom:4px; margin-bottom:4px;"><a href="/races/cup/2007/data/schedule.html"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_07_schedule.gif" width="152" height="28" alt="2007 Schedule" border="0"></a></div>
+<div style="border-bottom:3px solid #fff; padding-bottom:4px; margin-bottom:4px;"><a href="/promos/2006/silly_season/index.html"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_silly_season.gif" width="152" height="28" alt="2007 Schedule" border="0"></a></div>
+<div style="border-bottom:3px solid #fff; padding-bottom:4px; margin-bottom:4px;"><a href="/promos/2006/chase/"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/plate_chase.gif" width="152" height="28" alt="2006 Chase" border="0"></a></div>
+<div><a href="/promos/redirects/2006/foundation/accbar.exclude.html"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/promos/2006/foundation/ac_plate.gif" width="152" height="28" alt="NASCAR Foundation" border="0"></a></div>
+	<!-- weekly content -->
+		<div id="cnnNew" class="cnnFeatTab"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/divider.gif" width="152" height="8" alt="" border="0" class="divider"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/hdr_whatsnew.gif" width="152" height="13" alt="What's New" border="0">
+			<table cellspacing="0" cellpadding="0" border="0">     <tbody><tr>
+     <td class="left">12|27</td>
+     <td><a href="/games/contest/">Contests &amp; Sweeps</a></td>
+    </tr>
+</tbody></table>
+		</div>
+		<div id="cnnWeek" class="cnnFeatTab"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/divider.gif" width="152" height="8" alt="" border="0" class="divider"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/hdr_thisweek.gif" width="152" height="13" alt="This Week" border="0">
+			<table cellspacing="0" cellpadding="0" border="0">     <tbody><tr>
+     <th colspan="2"><a href="/races/tracks/index.html">No Races This Week</a></th>
+    </tr>
+    <tr>
+     <td class="left">MON</td>
+     <td><a href="javascript:openPopUp('/2006/multimedia/audioslide/JimmieJohnson121806/photo_gallery/index.html','audio_gallery','width=590,height=540,scrolling=no,resize=no');">J. Johnson review</a></td>
+    </tr>
+    <tr>
+     <td class="left">MON</td>
+     <td><a href="/2006/news/business/12/25/tstewart.exercise/index.html">Let's get physical</a></td>
+    </tr>
+    <tr>
+     <td class="left">MON</td>
+     <td><a href="/2006/auto/12/25/windshields/index.html">Car Care Tip</a></td>
+    </tr>
+    <tr>
+     <td class="left">TUE</td>
+     <td><a href="javascript:openPopUp('/2006/multimedia/audioslide/MarkMartin122006/photo_gallery/index.html','audio_gallery','width=590,height=540,scrolling=no,resize=no');">M. Martin review</a></td>
+    </tr>
+    <tr>
+     <td class="left">TUE</td>
+     <td><a href="/2006/news/opinion/12/26/rwallace.retired/index.html">Rusty: Aging classic</a></td>
+    </tr>
+    <tr>
+     <td class="left">TUE</td>
+     <td><a href="/2006/news/business/12/26/car.wraps.2/index.html">Business feature</a></td>
+    </tr>
+    <tr>
+     <td class="left">WED</td>
+     <td><a href="javascript:openPopUp('/2006/multimedia/audioslide/Junior121906/photo_gallery/index.html','audio_gallery','width=590,height=540,scrolling=no,resize=no');">Dale Jr. review</a></td>
+    </tr>
+    <tr>
+     <td class="left">WED</td>
+     <td><a href="/2006/news/opinion/12/26/jpate.racing.football/index.html">Racing vs. Football</a></td>
+    </tr>
+    <tr>
+     <td class="left">WED</td>
+     <td><a href="/2006/news/headlines/cup/12/27/espn.busch.cup/index.html">Red carpet for Busch</a></td>
+    </tr>
+    <tr>
+     <td class="left">WED</td>
+     <td><a href="/2006/news/headlines/bg/12/27/espn.series/index.html">ESPN's impact: BGN</a></td>
+    </tr>
+    <tr>
+     <td class="left">WED</td>
+     <td><a href="/2006/news/headlines/bg/12/27/pmenard.10q/index.html">10 Questions</a></td>
+    </tr>
+    <tr>
+     <td class="left">THU</td>
+     <td><a href="javascript:openPopUp('/2006/multimedia/audioslide/DennyHamlin121806/photo_gallery/index.html','audio_gallery','width=590,height=540,scrolling=no,resize=no');">D. Hamlin review</a></td>
+    </tr>
+    <tr>
+     <td class="left">THU</td>
+     <td><a href="/2006/news/opinion/12/28/drodman.roush.rebound/index.html">Roush's bounceback</a></td>
+    </tr>
+    <tr>
+     <td class="left">THU</td>
+     <td><a href="/2006/news/features/track_smack/12/28/rudd/index.html">Track Smack</a></td>
+    </tr>
+    <tr>
+     <td class="left">THU</td>
+     <td><a href="/2006/news/opinion/12/28/drodman.aduncan.nascar.queen/index.html">Duncan's job search</a></td>
+    </tr>
+    <tr>
+     <td class="left">FRI</td>
+     <td><a href="javascript:openPopUp('/2006/multimedia/audioslide/JeffBurton121806/photo_gallery/index.html','audio_gallery','width=590,height=540,scrolling=no,resize=no');">J. Burton review</a></td>
+    </tr>
+    <tr>
+     <td class="left">FRI</td>
+     <td><a href="/2006/news/opinion/12/29/drive.diversity.2007/index.html">Drive for Diversity</a></td>
+    </tr>
+    <tr>
+     <td class="left">FRI</td>
+     <td><a href="/2006/news/opinion/12/29/drodman.development.drivers/index.html">Youth is served</a></td>
+    </tr>
+    <tr>
+     <td class="left">FRI</td>
+     <td><a href="/2006/news/opinion/12/29/rlemasters.jandretti.ppc.future/index.html">ppc Racing's future</a></td>
+    </tr>
 </tbody></table></div>
-<div id="cnnWeek" class="cnnFeatTab"><h5>This Week</h5><table cellspacing="0" cellpadding="0" border="0">     <tbody><tr><th colspan="2"><a href="/races/tracks/mis/index.html">Michigan Int'l Speedway</a></th></tr>
-<tr><td class="left">MON</td><td><a href="/2006/news/opinion/06/11/we.wonder.pocono/index.html">We wonder ... </a></td></tr>
-<tr><td class="left">MON</td><td><a href="/2006/news/opinion/06/12/cross.words.pocono/index.html">Cross' Words</a></td></tr>
-<tr><td class="left">MON</td><td><a href="/2006/news/features/pitmove/06/12/pocono/index.html">Sunoco Pit Move</a></td></tr>
-<tr><td class="left">TUE</td><td><a href="/2006/news/features/last_lap/06/13/cmears.bvickers.michigan/index.html">Last Lap</a></td></tr>
-<tr><td class="left">TUE</td><td><a href="/2006/kyn/tech/06/13/shop.talk.tparrott.blabonte/index.html">Shop Talk </a></td></tr>
-<tr><td class="left">TUE</td><td><a href="/2006/news/business/06/13/3m.mich/index.html">Business feature </a></td></tr>
-<tr><td class="left">TUE</td><td><a href="/2006/news/features/conversation/06/13/jmcmurray.michigan/index.html">Conversation</a></td></tr>
-<tr><td class="left">WED</td><td><a href="/2006/news/headlines/truck/06/14/ecrocker.michigan/index.html">Erin Crocker</a></td></tr>
-<tr><td class="left">WED</td><td><a href="/2006/news/headlines/cup/06/14/kkahne.10.questions/index.html">10 Questions</a></td></tr>
-<tr><td class="left">WED</td><td><a href="/2006/comm/06/14/tailgating_mis/index.html">Tailgating Zone</a></td></tr>
-<tr><td class="left">WED</td><td><a href="/2006/news/features/power_rankings/06/14/michigan/index.html">Power Rankings</a></td></tr>
-<tr><td class="left">WED</td><td><a href="/2006/news/headlines/cup/06/14/bvickers.mailbag.michigan/index.html">Brian Vickers</a></td></tr>
-<tr><td class="left">THU</td><td><a href="/2006/news/features/viewers_guide/06/14/michigan/index.html">Viewer's Guide</a></td></tr>
-<tr><td class="left">THU</td><td><a href="/2006/news/headlines/cup/06/14/jmayfield.smayfield.michigan/index.html">The Mayfields</a></td></tr>
-<tr><td class="left">THU</td><td><a href="/2006/news/features/track_smack/06/14/track.smack.michigan/index.html">Track Smack</a></td></tr>
-<tr><td class="left">FRI</td><td>Around the Track</td></tr>
-<tr><td class="left">FRI</td><td>By the Numbers</td></tr>
-<tr><td class="left">FRI</td><td>Myth Busters</td></tr>
-<tr><td class="left">FRI</td><td>Local Look</td></tr>
-<tr><td class="left">SAT</td><td><a href="/multimedia/live">TrackPass: Busch</a></td></tr>
-<tr><td class="left">SUN</td><td><a href="/multimedia/live">TrackPass: Cup</a></td></tr>
-</tbody></table></div>
-<div id="cnnComing" class="cnnFeatTab"><h5>Coming Soon</h5><table cellspacing="0" cellpadding="0" border="0"> <tbody><tr><td class="left">06|25</td><td><a href="/travel/spr/general/">Infineon</a></td></tr>
-</tbody></table></div>
-<div id="cnnSpecialty" class="cnnFeatTab"><h5>Specialty Content</h5><table cellspacing="0" cellpadding="0" border="0"> <tbody><tr><td><a href="/news/features/lifestyle/">Target</a>All-access racing life</td></tr>
-<tr><td><a href="/promos/2006/dlp/">DLP/TI HDTV</a>Get in the driver's seat</td></tr>
-<tr><td><a href="http://ad.n2434.doubleclick.net/clk;28055530;12718487;j">Dodge Fast Track</a>News, videos &amp; SRT info!</td></tr>
-<tr><td><a href="/travel">NASCAR.COM Travel</a>For your racing travel needs</td></tr>
-</tbody></table></div></div>
-<div id="cnnBotAd"></div>
-<br>
+			<div id="cnnSpecialty" class="cnnFeatTab"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/divider.gif" width="152" height="8" alt="" border="0" class="divider"><img src="http://i.a.cnn.net/nascar/.element/img/1.0/sect/nav/rn/hdr_specialty.gif" width="152" height="13" alt="Specialty Content" border="0"><table cellspacing="0" cellpadding="0" border="0">     <tbody><tr>
+     <td>Harley-Davidson <a href="/promos/2006/harley/index.html ">NASCAR featured driver</a></td>
+    </tr>
+    <tr>
+     <td>Target <a href="/news/features/lifestyle/">All-access racing life</a></td>
+    </tr>
+    <tr>
+     <td>DLP/TI HDTV <a href="/promos/2006/dlp/">Get in the driver's seat</a></td>
+    </tr>
+    <tr>
+     <td>Dodge Fast Track <a href="http://ad.n2434.doubleclick.net/clk;28055530;12718487;j">News, videos &amp; SRT info!</a></td>
+    </tr>
+</tbody></table>
+		</div>
+	</div>
+</div>
+<div id="cnnBotAd"></div><br>
    <table width="160" cellspacing="0" cellpadding="0" border="0">
     <tbody><tr>
      <td width="20">&nbsp;</td>
@@ -233,7 +392,6 @@ htmlAdWH(93132393, 88, 31);
    </tbody></table></td>
  </tr>
 </tbody></table>
-<!--BEGIN TOP NAV AD-->
 <table width="760" cellspacing="0" cellpadding="0" border="0" align="center">
  <tbody><tr>
   <td width="16" class="navAdCornerTL"><img src="http://i.a.cnn.net/nascar/.element/1.0/img/utility/pixel.gif" width="16" height="11" border="0" alt=""></td>
@@ -258,7 +416,7 @@ htmlAdWH( (new Array(93202243,93202243,93202243,93202243))[document.adoffset||0]
   <td width="16" class="navAdCornerBR"><img src="http://i.a.cnn.net/nascar/.element/1.0/img/utility/pixel.gif" width="16" height="12" border="0" alt=""></td>
  </tr>
 </tbody></table>
-<!--END TOP NAV AD--> 
+ 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="760">
  <tbody><tr>
   <td align="center" bgcolor="#756558" valign="middle" width="760"><div class="footer" style="padding:6px;">
