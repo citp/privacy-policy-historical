@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tigerairways.com privacy policy that was archived on 2006-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618191130id_/http%3A//tigerairways.com/home/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerairways.com privacy policy that was archived on 2006-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230133908id_/http%3A//www.tigerairways.com/home/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -43,25 +43,79 @@ var newwindow;
 
 function infowindow(url)
 {
-	newwindow=window.open(url,'name','height=450,width=500');
+	newwindow=window.open(url,'name','height=450,width=500,left=50,top=50,screenX=50,screenY=50');
+	if(window.focus){newwindow.focus()}
+}
+
+function infowindow2(url)
+{
+	newwindow=window.open(url,'name2','height=520,width=500,left=50,top=50,screenX=50,screenY=50');
+	if(window.focus){newwindow.focus()}
+}
+
+function infowindow3(url)
+{
+	newwindow=window.open(url,'name3','height=700,width=500,left=50,top=50,screenX=50,screenY=50');
+	if(window.focus){newwindow.focus()}
+}
+
+function infowindow4(url){
+	newwindow=window.open(url,'name4','height=560,width=500,left=50,top=50,screenX=50,screenY=50');
+	if(window.focus){newwindow.focus()}
+}
+
+function infowindow_s(url)
+{
+	newwindow=window.open(url,'name_s','height=450,width=500,scrollbars=yes,left=50,top=50,screenX=50,screenY=50');
+	if(window.focus){newwindow.focus()}
+}
+
+function infowindow_f(url)
+{
+	newwindow=window.open(url,'name_f','height=500,width=600,left=50,top=50,screenX=50,screenY=50');
 	if(window.focus){newwindow.focus()}
 }
 
 function jumpto(formObj){
+theValue = formObj.options[formObj.selectedIndex].value;
+firstChar = theValue.charAt(0);
 
-	theValue = formObj.options[formObj.selectedIndex].value;
-	firstChar = theValue.charAt(0);
-
-	if (firstChar == "/") {
-		fullURL = "http://www.tigerairways.com/home/";
+	switch(firstChar) {
+		case "/" :
+		fullURL = "http://www.tigerairways.com" + theValue + "/home/";
 		//alert("You will be redirected to >> " + fullURL);
 		window.location=fullURL;
-	} else {
+		break;
+					
+    case "e" :
+		fullURL = "http://www.tigerairways.com/" + theValue;
+		//alert("You will be redirected to Tiger Airways' English language site");
+		window.location=fullURL;
+		break;
+					
+    case "c" :
+		fullURL = "http://www.tigerairways.com/" + theValue;
+		//alert("You will be redirected to Tiger Airways' Chinese language site");
+		window.location=fullURL;
+		break;
+           						
+		case "-" :
 		formObj.options[formObj.selectedIndex].selected = true;
 		theValue = "../home/lang" + theValue + ".php";
 		//alert("You will be redirected to >> " + theValue);
 		window.location=theValue;
-	}
+		break;
+
+		case "f" :
+		fullURL = "http://www.tigerairways.com/home/";
+		//alert("You will be redirected to >> " + fullURL);
+		window.location=fullURL;
+		break;
+
+		default:
+		//something went wrong
+		//and nothing will happen
+		}
 }
 
 </script>
@@ -69,32 +123,57 @@ function jumpto(formObj){
 		<div id="masthead">
 
 			<div id="logo">
-				<a href="/home"><img src="../img/common/logo.gif" width="175" height="70" border="0" alt="Tiger Airways"></a><img src="../img/common/spacer_80.gif" width="80" height="72" border="0"><a href="javascript:infowindow('/home/bt.php');"><img src="../img/common/bt_info_logo.gif" width="190" height="72" border="0" alt="We're moving to Budget Terminal!"></a>
+				<a href="/home"><img src="../img/common/logo.gif" width="175" height="70" border="0" alt="Tiger Airways"></a><img src="../img/common/spacer_80.gif" width="80" height="72" border="0"><!---<a href="javascript:infowindow('/home/bt.php');"><img src="../img/common/bt_info_logo.gif" width="190" height="72" border="0" alt="We're moving to Budget Terminal!" /></a>---><!---img src="../img/common/spacer_20.gif" width="20" height="72" border="0" /><a href="javascript:infowindow2('/home/travel_advisory_thai.php');"><img src="../img/common/thai_advisory1.jpg" width="82" height="72" border="0" alt="Travel Advisory for Thailand" /></a---><!---<a href="javascript:infowindow4('/home/flight_status_szx.php');"><img src="../img/common/flight_status_szx1.jpg" width="82" height="72" border="0" alt="Flight Status Update for Shenzhen" /></a>--->
+<img src="../img/common/capa_award.jpg" width="133" height="72" border="0" alt="CAPA awards Tiger Airways Low Cost Airline of the Year 2006">
 			</div>
 			
-			<div id="lang"><form id="langselect" action=""><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="../img/common/anim-langsel.gif" alt="Choose language" width="110" height="25"></td><td>
+			<div id="lang"><!---div align="right"---><form id="langselect" action=""><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="../img/common/anim-langsel.gif" alt="Choose language" width="110" height="25"></td><td>
       <select onchange="jumpto(this);">
-	     <option value="/sg" selected="selected">English</option>
-	     <option value="-cn">中文（简体）</option>
+	     <option value="en" selected="selected">English</option>
+	     <option value="cn">中文（简体）</option>
 	     <option value="-id">Bahasa Indonesia</option>
 	     <option value="-th">ไทย</option>
        <option value="-vn">Tiếng Việt</option>
 	     <option value="-ph">Filipino</option>
-      </select></td></tr></tbody></table></form></div>
-      <br clear="all">
+      </select></td></tr></tbody></table><!---Table comes out later---></form></div>
+		  <br clear="all"><!---div and br come out later--->
+      
+      <!---tr><td colspan=2>
+      <table border="0" cellpadding="0" cellspacing="0" width="227">
+
+  <tr>
+   <td><img src="spacer.gif" width="65" height="1" border="0" alt=""></td>
+   <td><img src="spacer.gif" width="81" height="1" border="0" alt=""></td>
+   <td><img src="spacer.gif" width="81" height="1" border="0" alt=""></td>
+   <td><img src="spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td colspan="3"><img src="../img/common/flight_info_top.jpg" width="227" height="18" border="0" alt=""></td>
+   <td><img src="spacer.gif" width="1" height="18" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img src="../img/common/flight_info_bot1.jpg" width="65" height="32" border="0" alt=""></td>
+   <td><a href="javascript:infowindow_f('/doc-root/home/tr_arrivals.php');"><img src="../img/common/flight_info_bot2.jpg" width="81" height="32" border="0" alt=""></a></td>
+   <td><a href="javascript:infowindow_f('/doc-root/home/tr_departures.php');"><img src="../img/common/flight_info_bot3.jpg" width="81" height="32" border="0" alt=""></a></td>
+   <td><img src="../img/common/spacer_sm.gif" width="1" height="32" border="0" alt=""></td>
+  </tr>
+</table>
+</td></tr></table--->
+
+  
 		
     </div>
 		<div id="menu">
 			<div id="MenuPos" style="position:relative; width: 749px; height:23px;"><img src="../img/nav/navmap.gif" width="749" height="23"></div>
-			<div id="textMenu">
-			</div>
+			<div id="textMenu"></div>
 		</div>
 
 
 
 <div id="omnibar">
 			<div id="tabbers">
-				<img class="imgOvered" src="../img/bookmag/tab-flight-on.gif" width="100" border="0" height="19" alt="Find a flight"><a href="http://www.octopustravel-asia.com/rs/tiger/index.htm"><img class="imgOver" src="../img/bookmag/tab-hotel-off.gif" width="100" border="0" height="19" alt="Find hotels" hsrc="../img/bookmag/tab-hotel-off_o.gif"></a><a href="../promotions/hertz.php"><img class="imgOver" src="../img/bookmag/tab-car-off.gif" width="100" border="0" height="19" alt="Car Rentals" hsrc="../img/bookmag/tab-car-off_o.gif"></a><br>
+				<img class="imgOvered" src="../img/bookmag/tab-flight-on.gif" width="100" border="0" height="19" alt="Find a flight"><a href="http://www.octopustravel-asia.com/rs/tiger/index.htm"><img class="imgOver" src="../img/bookmag/tab-hotel-off.gif" width="100" border="0" height="19" alt="Find hotels" hsrc="../img/bookmag/tab-hotel-off_o.gif"></a><a href="../promotions/hertz.php"><img class="imgOver" src="../img/bookmag/tab-car-off.gif" width="100" border="0" height="19" alt="Car Rentals" hsrc="../img/bookmag/tab-car-off_o.gif"></a><a href="../insurance/aig_intro.php"><img class="imgOver" src="../img/bookmag/tab-ins-off.gif" width="100" border="0" height="19" alt="Purchase Insurance" hsrc="../img/bookmag/tab-ins-off_o.gif"></a><br>
 			</div>
 			<div id="container">
 				<div id="bookmagContainer">
@@ -123,10 +202,9 @@ function jumpto(formObj){
 
 
 
-
 <!--
 //////////////////////////////////////////////////////////////////////////////
-//    Copyright� 2000 - 2005 Navitaire Inc.  All rights reserved.           //
+//    Copyright(c) 2000 - 2006 Navitaire Inc.  All rights reserved.         //
 //                                                                          //
 //    This source code is protected by copyright law and international      //
 //    treaties.  Unauthorized reproduction, distribution or alteration      //
@@ -134,10 +212,9 @@ function jumpto(formObj){
 //    civil and criminal penalties and will be prosecuted to the maximum    //
 //    extent possible under the law.                                        //
 //                                                                          //
-//  Skylights 7.2a-AK                                    www.navitaire.com  //
+//  Skylights v8.0a                                      www.navitaire.com  //
 //////////////////////////////////////////////////////////////////////////////
 -->
-
 
 
 <script type="text/javascript">
@@ -165,10 +242,9 @@ var sector_2_range_index  	= 0;
 	var sector_2_r_prev			= sector_2_range_index;
 
 
-var Dests = new Array ('BKK','CNX','DAD','DRW','CAN','HAK','HAN','HDY','SGN','KBV','MFM','CRK','PDG','HKT','SZX','SIN',0);
+var Dests = new Array ('BKK','CNX','DRW','CAN','HAK','HAN','HDY','SGN','KBV','MFM','CRK','PDG','HKT','SZX','SIN','UTH',0);
 var sBKK = 'Bangkok Intl';
 var sCNX = 'Chiang Mai';
-var sDAD = 'Danang';
 var sDRW = 'Darwin';
 var sCAN = 'Guangzhou';
 var sHAK = 'Haikou';
@@ -182,23 +258,24 @@ var sPDG = 'Padang';
 var sHKT = 'Phuket';
 var sSZX = 'Shenzhen';
 var sSIN = 'Singapore';
+var sUTH = 'Udon Thani';
 
-	var aBKK	= new Array('SIN',	0);
+	var aBKK	= new Array('DRW','SIN',	0);
 	var aCNX	= new Array('SIN',	0);
-	var aDAD	= new Array('SIN',	0);
-	var aDRW	= new Array('SIN',	0);
+	var aDRW	= new Array('BKK','SGN','KBV','CRK','HKT','SZX','SIN',	0);
 	var aCAN	= new Array('SIN',	0);
 	var aHAK	= new Array('SIN',	0);
 	var aHAN	= new Array('SIN',	0);
 	var aHDY	= new Array('SIN',	0);
-	var aSGN	= new Array('SIN',	0);
-	var aKBV	= new Array('SIN',	0);
+	var aSGN	= new Array('DRW','SIN',	0);
+	var aKBV	= new Array('DRW','SIN',	0);
 	var aMFM	= new Array('CRK','SIN',	0);
-	var aCRK	= new Array('MFM','SIN',	0);
-	var aPDG	= new Array('SIN',	0);
-	var aHKT	= new Array('SIN',	0);
-	var aSZX	= new Array('SIN',	0);
-	var aSIN	= new Array('BKK','CNX','DAD','DRW','CAN','HAK','HAN','HDY','SGN','KBV','MFM','CRK','PDG','HKT','SZX',	0);
+	var aCRK	= new Array('DRW','MFM','SIN',	0);
+	var aPDG	= new Array('HKT','SIN',	0);
+	var aHKT	= new Array('DRW','PDG','SIN',	0);
+	var aSZX	= new Array('DRW','SIN',	0);
+	var aSIN	= new Array('BKK','CNX','DRW','CAN','HAK','HAN','HDY','SGN','KBV','MFM','CRK','PDG','HKT','SZX','UTH',	0);
+	var aUTH	= new Array('SIN',	0);
 
 function checkChildren()
 {
@@ -444,6 +521,7 @@ function setPassengerTypes()
 
 function submit_SB_Form()
 {
+  var validCityPair = false; 
 	captureDates();
 
 	if( window.calendarWindow )
@@ -453,10 +531,26 @@ function submit_SB_Form()
 
 	sector1_o	= document.search_form.sector1_o.options[document.search_form.sector1_o.selectedIndex].value;
 	sector1_d	= document.search_form.sector1_d.options[document.search_form.sector1_d.selectedIndex].value;
+
+  if (sector1_o != "XXX") 	{
+	  var depCity = eval(sector1_o);
+  }
 	if ( sector1_o.length > 3 )
 	{
 		sector1_o	= sector1_o.substring(1,4);
 	}
+  if ( sector1_d.length > 3 ) 	{
+		sector1_d = sector1_d.substring(1,4);
+	}	if (depCity)
+	{
+	  for (var mm = 0; mm < depCity.length - 1; mm++)
+	  {
+		  if (depCity[mm] == sector1_d)
+		  {
+			  validCityPair = true;
+		  }
+	  }
+  }
 
 	if ( rDay != 0 && rMonth != 0 && rYear != 0 )
 	{
@@ -501,7 +595,13 @@ function submit_SB_Form()
 		}
 
 		document.dest1Form.dIndex.value	= document.search_form.sector1_d.selectedIndex;
-		document.search_form.submit();
+		if (validCityPair) 		{
+		  document.search_form.submit();
+		}
+		else
+		{
+		  alert ("\nInvalid city pair!\n\nPlease refresh your browser and wait for the page to load completely before proceeding.\n");
+    }
 	}
 }
 
@@ -751,10 +851,10 @@ function checkDate()
 	{
 		okay = false;
 	}
-	if ( oDay < 19 && oMonthYear <=200606 )
+	if ( oDay < 31 && oMonthYear <=200612 )
 	{
 		alert("\nThe date you selected has already passed.\n\nClick OK to reset your date selection.\n");
-		document.search_form.sector_1_d.options.selectedIndex =18;
+		document.search_form.sector_1_d.options.selectedIndex =30;
 		captureDates();
 		okay = false;
 	}
@@ -781,30 +881,36 @@ function checkDate()
 		okay = false;
 	}
 	
-			
+	return okay;			
 	
-	if (document.search_form.mode.value != "UOBFREE") {
+	if ( (document.search_form.mode.value != "UOBFREE") && (document.search_form.mode.value != "UOBVO") ) {
 	
 	document.search_form.mode.value = "";
 	
+	if ( sector1_o != 'SGN' && sector1_d != 'SGN' )
+	{
 		if (document.search_form.travel_type[1].checked)
 		{
-			if ( (oDay >= 1  && oMonthYear >= 200608) && (oDay <= 28  && oMonthYear <= 200610) )
+			if ( (oDay >= 8  && oMonthYear >= 200701) && (oDay <= 31  && oMonthYear <= 200701) )
 			{
 				document.search_form.mode.value = "DISC_40OFF";
-			}
+			} 
 		}
 		else
 		{
-			if ( ( (oDay >= 1  && oMonthYear >= 200608) && (oDay <= 28  && oMonthYear <= 200610) ) && ( (rDay >= 1  && rMonthYear >= 200608) && (rDay <= 28  && rMonthYear <= 200610) ) )
+			if ( ( (oDay >= 8  && oMonthYear >= 200701) && (oDay <= 31  && oMonthYear <= 200701) ) && ( (rDay >= 8  && rMonthYear >= 200701) && (rDay <= 31  && rMonthYear <= 200701) ) )
 			{
 				document.search_form.mode.value = "DISC_40OFF";
-			}
+			} 			
 		}
 		
 	}
 	
-	return okay;
+	}
+	
+	
+	
+	
 	
 }	
 
@@ -1040,7 +1146,7 @@ function swap_icon(icon_name, icon_state)
 			icon = eval(icon_name + "_icon_" + icon_state + ".src");
 			if (icon)
 			{
-				document.images[icon_name].src = icon;
+				//document.images[icon_name].src = icon;
 			}
 		}
 	}
@@ -1093,7 +1199,7 @@ function swap_icon(icon_name, icon_state)
 -->
 </script>
 
-	<!--- Change this to 10.223.8.225 for internal testing - Mark. --->
+	<!--- Change this to 10.223.8.225 for internal testing, booking.tigerairways.com for LIVE - Mark. --->
 	<form name="search_form" method="post" action="http://booking.tigerairways.com/skylights/cgi-bin/skylights.cgi" class="f_compact" target="_top">
 
 	<table border="0" cellpadding="0" cellspacing="0" width="560">
@@ -1135,7 +1241,6 @@ One Way
 
 			<option value="aBKK">Bangkok Intl (BKK)</option>
 			<option value="aCNX">Chiang Mai (CNX)</option>
-			<option value="aDAD">Danang (DAD)</option>
 			<option value="aDRW">Darwin (DRW)</option>
 			<option value="aCAN">Guangzhou (CAN)</option>
 			<option value="aHAK">Haikou (HAK)</option>
@@ -1149,6 +1254,7 @@ One Way
 			<option value="aHKT">Phuket (HKT)</option>
 			<option value="aSZX">Shenzhen (SZX)</option>
 			<option value="aSIN">Singapore (SIN)</option>
+			<option value="aUTH">Udon Thani (UTH)</option>
 					</select>
 	
 				</td>
@@ -1180,7 +1286,7 @@ One Way
 			
 			
 			
-					<option value="XXX">To</option><option value="BKK">Bangkok Intl (BKK)</option><option value="CNX">Chiang Mai (CNX)</option><option value="DAD">Danang (DAD)</option><option value="DRW">Darwin (DRW)</option><option value="CAN">Guangzhou (CAN)</option><option value="HAK">Haikou (HAK)</option><option value="HAN">Hanoi (HAN)</option><option value="HDY">Hat Yai (HDY)</option><option value="SGN">Ho Chi Minh City (SGN)</option><option value="KBV">Krabi (KBV)</option><option value="MFM">Macau (MFM)</option><option value="CRK">Manila (Clark) (CRK)</option><option value="PDG">Padang (PDG)</option><option value="HKT">Phuket (HKT)</option><option value="SZX">Shenzhen (SZX)</option><option value="SIN">Singapore (SIN)</option></select>
+					<option value="XXX">To</option><option value="BKK">Bangkok Intl (BKK)</option><option value="CNX">Chiang Mai (CNX)</option><option value="DRW">Darwin (DRW)</option><option value="CAN">Guangzhou (CAN)</option><option value="HAK">Haikou (HAK)</option><option value="HAN">Hanoi (HAN)</option><option value="HDY">Hat Yai (HDY)</option><option value="SGN">Ho Chi Minh City (SGN)</option><option value="KBV">Krabi (KBV)</option><option value="MFM">Macau (MFM)</option><option value="CRK">Manila (Clark) (CRK)</option><option value="PDG">Padang (PDG)</option><option value="HKT">Phuket (HKT)</option><option value="SZX">Shenzhen (SZX)</option><option value="SIN">Singapore (SIN)</option><option value="UTH">Udon Thani (UTH)</option></select>
 				</td>
 			</tr>
 		</tbody></table>
@@ -1243,7 +1349,7 @@ One Way
 <option value="16">16</option>
 <option value="17">17</option>
 <option value="18">18</option>
-<option value="19" selected="selected">19</option>
+<option value="19">19</option>
 <option value="20">20</option>
 <option value="21">21</option>
 <option value="22">22</option>
@@ -1255,7 +1361,7 @@ One Way
 <option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
-<option value="31">31</option>
+<option value="31" selected="selected">31</option>
 
 	</select>
 
@@ -1268,15 +1374,17 @@ One Way
 
 
 	<select class="SBmonth1" name="sector_1_m" onchange="reconcile_dates()">
-<option value="062006" selected="selected">Jun 2006</option>
-<option value="072006">Jul 2006</option>
-<option value="082006">Aug 2006</option>
-<option value="092006">Sep 2006</option>
-<option value="102006">Oct 2006</option>
-<option value="112006">Nov 2006</option>
-<option value="122006">Dec 2006</option>
+<option value="122006" selected="selected">Dec 2006</option>
 <option value="012007">Jan 2007</option>
 <option value="022007">Feb 2007</option>
+<option value="032007">Mar 2007</option>
+<option value="042007">Apr 2007</option>
+<option value="052007">May 2007</option>
+<option value="062007">Jun 2007</option>
+<option value="072007">Jul 2007</option>
+<option value="082007">Aug 2007</option>
+<option value="092007">Sep 2007</option>
+<option value="102007">Oct 2007</option>
 
 	</select>
 
@@ -1348,7 +1456,7 @@ One Way
 <option value="16">16</option>
 <option value="17">17</option>
 <option value="18">18</option>
-<option value="19" selected="selected">19</option>
+<option value="19">19</option>
 <option value="20">20</option>
 <option value="21">21</option>
 <option value="22">22</option>
@@ -1360,7 +1468,7 @@ One Way
 <option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
-<option value="31">31</option>
+<option value="31" selected="selected">31</option>
 
 	</select>
 
@@ -1374,15 +1482,17 @@ One Way
 
 	<select class="SBmonth1" name="sector_2_m" onchange="askAboutRoundTrip(this)">
 <option value="000000">-------</option>
-<option value="062006" selected="selected">Jun 2006</option>
-<option value="072006">Jul 2006</option>
-<option value="082006">Aug 2006</option>
-<option value="092006">Sep 2006</option>
-<option value="102006">Oct 2006</option>
-<option value="112006">Nov 2006</option>
-<option value="122006">Dec 2006</option>
+<option value="122006" selected="selected">Dec 2006</option>
 <option value="012007">Jan 2007</option>
 <option value="022007">Feb 2007</option>
+<option value="032007">Mar 2007</option>
+<option value="042007">Apr 2007</option>
+<option value="052007">May 2007</option>
+<option value="062007">Jun 2007</option>
+<option value="072007">Jul 2007</option>
+<option value="082007">Aug 2007</option>
+<option value="092007">Sep 2007</option>
+<option value="102007">Oct 2007</option>
 
 	</select>
 
@@ -1545,11 +1655,11 @@ One Way
 
 			<input type="hidden" name="month_selected" value="">
 			<input type="hidden" name="sector" value="">
-			<input type="hidden" name="dNow" value="19">
-			<input type="hidden" name="mNow" value="06">
+			<input type="hidden" name="dNow" value="31">
+			<input type="hidden" name="mNow" value="12">
 			<input type="hidden" name="yNow" value="2006">
-			<input type="hidden" name="dMax" value="">
-			<input type="hidden" name="mMaxToDisplay" value="9">
+			<input type="hidden" name="dMax" value="30">
+			<input type="hidden" name="mMaxToDisplay" value="11">
 		</form>
 	
 		<form name="dest1Form">
@@ -1765,7 +1875,7 @@ One Way
 
 						2006 © Tiger Airways Pte Ltd
 						&nbsp;
-					</p><a href="../home/250406.xml"><img src="../img/bookmag/spc.gif" border="0"></a>
+					</p>
 
 				</td>
 
@@ -1773,7 +1883,7 @@ One Way
 					<a href="Javascript:verisign();"><img src="../img/common/verisign-logo.gif" border="0" width="134" height="61" alt="Verisign"></a>
 				</td>
 				<td width="16%">
-					<img src="../img/common/l-visa.gif" width="130" height="55" alt="Visa" border="0">
+					<img src="../img/common/vbv_visa_sm.gif" width="130" height="55" alt="Visa" border="0">
 				</td>
 				<td width="16%">
 					<img src="../img/common/l-navitaire.gif" width="130" height="55" alt="Visa" border="0">
@@ -1798,4 +1908,4 @@ One Way
 
 
 
-<div style="position: absolute; visibility: visible; background-color: rgb(102, 102, 102); z-index: 101; width: 299px; height: 23px; top: 97px; left: 309px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 65px; height: 23px; padding-left: 0px; padding-top: 0px; left: 0px; top: 0px;"><img src="../../../img/nav/home-this.gif" name="Menu1i" style="width: 65px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 90px; height: 23px; padding-left: 0px; padding-top: 0px; left: 65px; top: 0px;"><img src="../../../img/nav/flight-off.gif" name="Menu2i" style="width: 90px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 86px; height: 23px; padding-left: 0px; padding-top: 0px; left: 155px; top: 0px;"><img src="../../../img/nav/about-off.gif" name="Menu3i" style="width: 86px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 58px; height: 23px; padding-left: 0px; padding-top: 0px; left: 241px; top: 0px;"><img src="../../../img/nav/help-off.gif" name="Menu4i" style="width: 58px; height: 23px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 607px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 96px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/2-flight.gif" name="Menu2_1i" style="width: 96px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 76px; height: 19px; padding-left: 0px; padding-top: 0px; left: 97px; top: 1px;"><img src="../../../img/nav/sub/2-destinations.gif" name="Menu2_2i" style="width: 76px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 102px; height: 19px; padding-left: 0px; padding-top: 0px; left: 173px; top: 1px;"><img src="../../../img/nav/sub/2-useful.gif" name="Menu2_3i" style="width: 102px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 65px; height: 19px; padding-left: 0px; padding-top: 0px; left: 275px; top: 1px;"><img src="../../../img/nav/sub/2-fare.gif" name="Menu2_4i" style="width: 65px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 124px; height: 19px; padding-left: 0px; padding-top: 0px; left: 340px; top: 1px;"><img src="../../../img/nav/sub/2-onboardm.gif" name="Menu2_5i" style="width: 124px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 142px; height: 19px; padding-left: 0px; padding-top: 0px; left: 464px; top: 1px;"><img src="../../../img/nav/sub/2-onboardf.gif" name="Menu2_6i" style="width: 142px; height: 19px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 298px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 46px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/3-news.gif" name="Menu3_1i" style="width: 46px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 78px; height: 19px; padding-left: 0px; padding-top: 0px; left: 47px; top: 1px;"><img src="../../../img/nav/sub/3-facts.gif" name="Menu3_2i" style="width: 78px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 45px; height: 19px; padding-left: 0px; padding-top: 0px; left: 125px; top: 1px;"><img src="../../../img/nav/sub/3-fleet.gif" name="Menu3_3i" style="width: 45px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 58px; height: 19px; padding-left: 0px; padding-top: 0px; left: 170px; top: 1px;"><img src="../../../img/nav/sub/3-careers.gif" name="Menu3_4i" style="width: 58px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 69px; height: 19px; padding-left: 0px; padding-top: 0px; left: 228px; top: 1px;"><img src="../../../img/nav/sub/4-contact.gif" name="Menu3_5i" style="width: 69px; height: 19px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 413px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 96px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/4-group.gif" name="Menu4_1i" style="width: 96px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 114px; height: 19px; padding-left: 0px; padding-top: 0px; left: 97px; top: 1px;"><img src="../../../img/nav/sub/4-how.gif" name="Menu4_2i" style="width: 114px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 79px; height: 19px; padding-left: 0px; padding-top: 0px; left: 211px; top: 1px;"><img src="../../../img/nav/sub/4-website.gif" name="Menu4_3i" style="width: 79px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 122px; height: 19px; padding-left: 0px; padding-top: 0px; left: 290px; top: 1px;"><img src="../../../img/nav/sub/4-info.gif" name="Menu4_4i" style="width: 122px; height: 19px;"></div></div></body></html>
+<div style="position: absolute; visibility: visible; background-color: rgb(102, 102, 102); z-index: 101; width: 299px; height: 23px; top: 97px; left: 309px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 65px; height: 23px; padding-left: 0px; padding-top: 0px; left: 0px; top: 0px;"><img src="../../../img/nav/home-this.gif" name="Menu1i" style="width: 65px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 90px; height: 23px; padding-left: 0px; padding-top: 0px; left: 65px; top: 0px;"><img src="../../../img/nav/flight-off.gif" name="Menu2i" style="width: 90px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 86px; height: 23px; padding-left: 0px; padding-top: 0px; left: 155px; top: 0px;"><img src="../../../img/nav/about-off.gif" name="Menu3i" style="width: 86px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 58px; height: 23px; padding-left: 0px; padding-top: 0px; left: 241px; top: 0px;"><img src="../../../img/nav/help-off.gif" name="Menu4i" style="width: 58px; height: 23px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 607px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 96px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/2-flight.gif" name="Menu2_1i" style="width: 96px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 76px; height: 19px; padding-left: 0px; padding-top: 0px; left: 97px; top: 1px;"><img src="../../../img/nav/sub/2-destinations.gif" name="Menu2_2i" style="width: 76px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 102px; height: 19px; padding-left: 0px; padding-top: 0px; left: 173px; top: 1px;"><img src="../../../img/nav/sub/2-useful.gif" name="Menu2_3i" style="width: 102px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 65px; height: 19px; padding-left: 0px; padding-top: 0px; left: 275px; top: 1px;"><img src="../../../img/nav/sub/2-fare.gif" name="Menu2_4i" style="width: 65px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 124px; height: 19px; padding-left: 0px; padding-top: 0px; left: 340px; top: 1px;"><img src="../../../img/nav/sub/2-onboardm.gif" name="Menu2_5i" style="width: 124px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 142px; height: 19px; padding-left: 0px; padding-top: 0px; left: 464px; top: 1px;"><img src="../../../img/nav/sub/2-onboardf.gif" name="Menu2_6i" style="width: 142px; height: 19px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 372px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 46px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/3-news.gif" name="Menu3_1i" style="width: 46px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 78px; height: 19px; padding-left: 0px; padding-top: 0px; left: 47px; top: 1px;"><img src="../../../img/nav/sub/3-facts.gif" name="Menu3_2i" style="width: 78px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 45px; height: 19px; padding-left: 0px; padding-top: 0px; left: 125px; top: 1px;"><img src="../../../img/nav/sub/3-fleet.gif" name="Menu3_3i" style="width: 45px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 74px; height: 19px; padding-left: 0px; padding-top: 0px; left: 170px; top: 1px;"><img src="../../../img/nav/sub/3-tales.gif" name="Menu3_4i" style="width: 74px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 58px; height: 19px; padding-left: 0px; padding-top: 0px; left: 244px; top: 1px;"><img src="../../../img/nav/sub/3-careers.gif" name="Menu3_5i" style="width: 58px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 69px; height: 19px; padding-left: 0px; padding-top: 0px; left: 302px; top: 1px;"><img src="../../../img/nav/sub/4-contact.gif" name="Menu3_6i" style="width: 69px; height: 19px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 413px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 96px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/4-group.gif" name="Menu4_1i" style="width: 96px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 114px; height: 19px; padding-left: 0px; padding-top: 0px; left: 97px; top: 1px;"><img src="../../../img/nav/sub/4-how.gif" name="Menu4_2i" style="width: 114px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 79px; height: 19px; padding-left: 0px; padding-top: 0px; left: 211px; top: 1px;"><img src="../../../img/nav/sub/4-website.gif" name="Menu4_3i" style="width: 79px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 122px; height: 19px; padding-left: 0px; padding-top: 0px; left: 290px; top: 1px;"><img src="../../../img/nav/sub/4-info.gif" name="Menu4_4i" style="width: 122px; height: 19px;"></div></div></body></html>
