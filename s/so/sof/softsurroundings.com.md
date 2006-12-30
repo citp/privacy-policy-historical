@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419181810id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230074301id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
 
 # SoftSurroundings.com
 
 **Privacy Policy & Terms of Use**
 
-Last updated: June 2, 2005
+Last updated: May 1, 2006
 
-We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Knights Direct. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
+We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Triad Catalog Co., LLC. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
