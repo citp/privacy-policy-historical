@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629034958id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231084513id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
 
 # digg / privacy policy
 
@@ -67,7 +67,7 @@ You can access your personal information on our website and correct, amend, or d
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
   * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Digg Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your Digg account by using the .deactivate account. button located in your personal profile. This removes all of your past Digg usage from public view (future communication would be through Digg's internal messaging system).
+  * You may request deletion of your Digg account by emailing us at [support@digg.com](mailto:support@digg.com).
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
 
 
@@ -79,3 +79,9 @@ You must be 13 years and older to register to use the Digg website. As a result,
 ### Conditions of Use
 
 If you decide to visit Digg website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+© digg Inc. 2006 — User-posted content, unless source quoted, 
+
+is licensed under a [Creative Commons Public Domain License](http://creativecommons.org/licenses/publicdomain/).
+
+DIGG, DIGG IT, DUGG, DIGG THIS, Digg graphics, logos, designs, page headers, button icons, scripts, and other service names are the trademarks of Digg Inc. 
