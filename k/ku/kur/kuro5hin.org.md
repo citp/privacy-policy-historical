@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuro5hin.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629030935id_/http%3A//www.kuro5hin.org/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuro5hin.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231035851id_/http%3A//www.kuro5hin.org/special/privacy) for the most accurate reproduction.*
 
 # kuro5hin.org || Our Privacy Policy
 
