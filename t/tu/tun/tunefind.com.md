@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tunefind.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512232144id_/http%3A//tunefind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunefind.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231224833id_/http%3A//www.tunefind.com/privacy) for the most accurate reproduction.*
 
 # TuneFind - Find Music from TV and Movies
+
+### TuneFind.com Privacy Policy
 
 We will not, unless legally required to do so, ever share any personally identifiable information collected on this website with anyone outside of TuneFind. We do not currently collect any personally identifiable information. 
 
