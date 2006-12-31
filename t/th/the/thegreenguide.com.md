@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061825id_/http%3A//thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231225506id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
-# The Green Guide
+# Privacy Statement
 
 |  | 
 
