@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumitomocorp.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326153621id_/http%3A//sumitomocorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumitomocorp.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231215513id_/http%3A//www.sumitomocorp.com/privacy.html) for the most accurate reproduction.*
 
 # Sumitomo Corporation of America: Copyright and Terms and Conditions
 
@@ -21,4 +21,4 @@ SCOA intends to protect the integrity of your personal identifiable information,
 **Business Relationships**   
 The SCOA Web site contains links to other Web sites. However, SCOA is not responsible for the privacy practices or the content of such Web sites. 
 
-If you have any further questions, please fill out our [contact ](https://web.archive.org/web/20060326153621id_/http%3A//sumitomocorp.com/contact.html)form.
+If you have any further questions, please fill out our [contact ](https://web.archive.org/web/20061231215513id_/http%3A//www.sumitomocorp.com/contact.html)form.
