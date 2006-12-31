@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428192154id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231082944id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
 
 # SOS Privacy Policy
 
-SOS Privacy Policy
+| 
 
 1\. Information SOS Gathers and Tracks  
 SOS gathers two types of information about users: data that users provide through optional, voluntary registrations on our sites and in certain Competitions; and data SOS gathers through aggregating tracking information derived mainly by counting page views throughout our sites and click-throughs on advertisements. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our web site audience. The only situation in which SOS divulges information about an individual user to a third party is with certain Competitions but _only with the user's express prior consent._
@@ -99,3 +99,5 @@ SOS offers users the ability to correct or change the information collected duri
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of each newsletter you have subscribed to.
 
 _July 2003_
+
+| Sunday 31st December 2006
