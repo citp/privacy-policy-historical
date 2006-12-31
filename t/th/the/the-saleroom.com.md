@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-saleroom.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618225728id_/http%3A//www.the-saleroom.com/contact/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-saleroom.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231102715id_/http%3A//www.the-saleroom.com/contact/Privacy.asp) for the most accurate reproduction.*
 
 # the-saleroom.com - Auction Alerts Tips
 
@@ -24,7 +24,7 @@ Data provided by you is retained as long as the purpose for which the data was c
 
 In order to improve our Internet service to you, we may occasionally wish to use a "cookie" and/or other similar files or programs, which may place certain information on your computer's hard drive when you visit the ATG Web Site. A cookie is a small amount of data that our web server sends to your web browser when you visit certain parts of our Web Site and the use of which is intended to assist our understanding of your interest in our Web Site. Most Internet browser software allows the blocking of all cookies or enables you to receive a warning before a cookie is stored. For further information, please refer to your Internet browser software instructions or help screen. 
 
-ATG reserves the right to amend its prevailing Privacy Statement at any time and will place any such amendments on this Web Site. This Privacy Statement is subject to ATG's [Terms of Use for the Web Site](https://web.archive.org/web/20060618225728id_/http%3A//www.the-saleroom.com/contact/TermsConditions.asp) from time to time 
+ATG reserves the right to amend its prevailing Privacy Statement at any time and will place any such amendments on this Web Site. This Privacy Statement is subject to ATG's [Terms of Use for the Web Site](https://web.archive.org/web/20061231102715id_/http%3A//www.the-saleroom.com/contact/TermsConditions.asp) from time to time 
 
 You may have the right (with limited exceptions) under data protection legislation on payment of a fee to request access to personal information about you held by us and to have it corrected where appropriate. If you have that right and you wish to access or correct or delete any of your personal data held by us, or if you have any questions concerning our Privacy Statement please contact the relevant ATG Data Protection representative: 
 
