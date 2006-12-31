@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051533id_/http%3A//www.suicidepreventionlifeline.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231085635id_/http%3A//www.suicidepreventionlifeline.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Department of Health and Human Services privacy policy at the National Suicide Prevention Lifeline
 
