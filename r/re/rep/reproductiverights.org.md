@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614203912id_/http%3A//reproductiverights.org/ab_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231233417id_/http%3A//reproductiverights.org/ab_privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
+| 
+
 **CENTER FOR REPRODUCTIVE RIGHTS PRIVACY STATEMENT**  
-**Last Updated: January 14, 2003** The Center for Reproductive Rights ("The Center" or "we", "us", "our") shares your concern about the protection of your personal information online. This is our policy regarding the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
+
+
+The Center for Reproductive Rights ("The Center" or "we", "us", "our") shares your concern about the protection of your personal information online. This is our policy regarding the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
 
 **Information That We Collect and Track.** As further described below, we collect two types of information about Site visitors: (i) personal information that individual visitors provide when contributing to The Center, or voluntarily at certain other points; and (ii) tracking data, which is automatically collected from every Site visitor.
 
@@ -11,7 +15,7 @@
 > 
 >   * you purchase a publication from the Site's online bookstore; 
 >   * you make an online donation through the Site; or 
->   * you complete our form to subscribe to the _Reproductive Freedom News_ (the "Mailing Information"). When you complete our Mailing Information form, you will automatically receive various e-mail updates and bulletins that we send out on a periodic basis containing selected articles and other information, with hyperlinks to our Site.
+>   * you complete our form to subscribe to _What's New_ ( "Mailing Information"). When you complete our Mailing Information form, you will automatically receive various e-mail updates and bulletins that we send out on a periodic basis containing selected articles and other information, with hyperlinks to our Site.
 > 
 
 > 
