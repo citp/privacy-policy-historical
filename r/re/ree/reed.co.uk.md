@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195058id_/http%3A//www.reed.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231132042id_/http%3A//www.reed.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# reed.co.uk : Privacy Policy
+# reed.co.uk Privacy
 
 **Why do we have a privacy policy?**   
 Reed is committed to privacy for everyone who accesses the site. Under the Data Protection Acts of 1984 and 1998, we must comply with certain regulations which are designed to ensure that any data you provide to us is processed with due care and attention. 
@@ -24,7 +24,7 @@ The security of your data is extremely important to us. Access to your personal 
 Any policy changes, either due to business reasons or future changes in legislation, will be posted on this page and, if substantial, may be promoted on the website or through e-mail notification.
 
 **What are 'cookies' and why do we use them?**   
-'Cookies' are ways of saving a small amount of personal information. We use cookies to save your user name and details about what type of job you are looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you select the 'Don't remember my details' option when you sign out of your account. This will remove all details from the cookie. If you would like [more information on 'cookies'](http://www.aboutcookies.org/Default.aspx?page=5) please follow the link.
+'Cookies' are ways of saving a small amount of personal information. We use cookies to save your user name and details about what type of job you are looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you select the 'Don't remember my details' option when you sign out of your account. This will remove all details from the cookie. If you would like [more information on 'cookies'](http://www.aboutcookies.org/Default.aspx?page=5 "This link will open in a new window") please follow the link.
 
 **How do you remove your name from the database?**   
 Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 12 months after it was last used. After 12 months of non-usage we will contact you and ask you if you want to keep your details on our database. If you do not indicate by signing in to reed.co.uk that you wish your details to be retained on our database, we will archive your account.
@@ -33,7 +33,7 @@ Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 1
 
 **Terminology**
 
-**Aggregate** \- this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future.
+ **Aggregate** \- this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future.
 
 **Archiving** \- this is the process where candidate users are asked if they want their personal data to remain on the reed.co.uk database. If a user does not indicate that they wish their details to be retained, their record is deleted from the database. This means that the candidate will not be able to sign in to reed.co.uk and also means that their details will not be accessible by any recruiters using reed.co.uk. Please note this process is carried out in accordance with the Employment Agencies Act and the Data Protection Act.
 
@@ -54,5 +54,3 @@ Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 1
 **Third Parties** \- these are companies and people other than Reed and the group of companies of which it is part.
 
 **Users** \- people who use our website and register their details with us for the purposes of recruitment, either to gain employment or for the purposes of recruiting new staff.
-
-top ^
