@@ -1,0 +1,195 @@
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231015323id_/https%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+
+# PayDotCom.com
+
+| |  PAYDOTCOM
+
+ **PAYDOTCOM.COM**
+
+ **PRIVACY POLICY**
+
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20061231015323id_/https%3A//paydotcom.com/terms.php)
+
+ ** _Definitions_**
+
+THE DEFINITIONS WHICH FOLLOW ARE MEANT ONLY FOR CONVENIENCE FOR THIS PRIVACY POLICY. OTHER DEFINITIONS MAY BE CONTAINED WITHIN OTHER APPLICABLE LEGAL AGREEMENTS LOCATED ON THE WEBSITE(S). THIS PRIVACY POLICY AND THE LEGAL DOCUMENTS LOCATED ON THE WEBSITE(S) ARE SUBJECT TO CHANGE WITHOUT NOTICE.  YOU ARE DIRECTED TO REGULARLY CHECK THE WEBSITE(S) FOR THE MOST CURRENT VERSION OF THIS DOCUMENT AND YOU ARE RESPONSIBLE FOR CONFORMING YOUR ACTIONS TO THE MOST CURRENT VERSION OF THIS DOCUMENT.
+
+We understand that privacy online is important to users of Our Site, especially when conducting business.  
+This statement governs Our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by PayDotCom.com (collectively, "Services") ("Authorized Customers").
+
+" **We** ", **"Us", and "Our"** refers to PayDotCom, a division of MikeFilsaime.com, Inc., and its owners, officers, directors, and partners.  The terms "We" refers to each of these individually as well as collectively.
+
+ **"The Website(s)"** refers to the PayDotCom.com website, as well as to the website(s) of any Affiliates through which the Services are available, as well as to the specific content, information, suggestions, ideas, or techniques provided on The Website(s).
+
+ **"The Materials"** refers to any eBooks, Reports, Software, or other information, content, suggestions, ideas, or techniques, from or through The Website(s).
+
+ **"You"** refers to any person or entity using The Website(s) for any reason whatsoever including but not limited to those persons or entities visiting The Website(s), those persons transacting business at or through The Website(s), those persons or entities who register to transact business on the Website(s), those persons or entities who make use of the various Services offered by PayDotCom, or any Affiliate of The Website(s.
+
+" **The Information** " refers to the content of The Website(s), as well as the content of any newsletters published by Us on or through The Website(s).
+
+ **"Personally Identifiable Information"** refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial information and/or profiles, social security number and/or other form of tax identification number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+
+______________________________
+
+  
+We may use "Personally Identifiable Information" subject to the terms of this Privacy Policy. We will never sell, barter, or rent Your email address to any unauthorized third party. We employ specific security measures when storing, retrieving, or accessing any form of financial information and/or other Personally Identifiable Information.
+
+ **How Do We Gather Information From Users?**
+
+How We collect and store information depends on the page You are visiting, the activities in which You elect to participate and the services provided. For example, You may be asked to provide information when You register for access to certain portions of Our site or request certain features, such as newsletters or when You make a purchase. You may provide information when You participate in any of Our programs, on or through The Website(s) and other interactive areas of The Website(s). Like most websites, We also collect information automatically and through the use of electronic tools that may be transparent to You. For example, We may log the name of Your Internet Service Provider or Your IP address, or use information available through the Internet, cookie technology, other forms of technology, and technologies yet to be conceived and/or implemented, to recognize You and hold information from Your visit.  (To learn more about "IP addresses" or "cookies", find information by use of an Internet search engine.)  As We adopt additional technology, We may also gather additional types and categories of information about You and Your use of The Website(s), its Services, Your use of the the Internet, and/or Your implied topics of interest, usage, or research, and do this through other means.
+
+ **What Personally Identifiable Information is collected?  
+** We may collect basic user profile information from all of Our Visitors. We collect the following additional information from Our Authorized Customers: the name, address, phone number and email address, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.  
+ **  
+What organizations are collecting the information?  
+** In addition to Our direct collection of information, Our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit card processing, insurance, and escrow services may collect this information from Our Visitors and Authorized Customers. We do not control how these third parties use such information, but We do ask them to disclose how they use Personally Identifiable Information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.  
+ **  
+How do We use Personally Identifiable Information?  
+** We use Personally Identifiable Information to customize The Website, to make appropriate service offerings, and to fulfill buying and selling requests on The Website. We may email Visitors and Authorized Customers for research purposes or about purchase and selling opportunities on The Website or information related to the subject matter of the The Website. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries or to provide requested information. 
+
+In certain instances, You can choose not to provide us with information, but, if You do, You may be unable to access certain portions of The Website(s) or We may not be able to customize The Website's features according to Your preferences, or You may not be able to become a participant in some or all of the programs offered at The Website(s).  Furthermore, in some instances (as detailed in the Terms and Conditions as well as in the paragraph below entitled "Taxpayer Identification Number") if You fail to provide us with information We request, You may be ineligible to participate in some or all of the programs and/or services offered through The Website(s).
+
+We may use Personally Identifiable Information collected by and/or retained on The Website(s) or through any of Our Affiliates' links, to communicate with You about Your purchases, registration and customization preferences; Our Terms and Conditions, this Privacy Policy, or any other legal documents contained on The Website(s) or any other legal documents which pertain to Your participation; the Services and/or products offered, now or in the future, by Us; or any other topics We think You might find of interest.  Any such communication may be in the form of email or by telephone or any other means suitable to the type of communication, including any new information delivery technologies that might become available.
+
+Personally Identifiable Information collected by and/or retained on or through The Website(s) or through any of Our Affiliates' links, may also be used for other purposes including, but not limited to, site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with You. Certain third parties who provide technical support for the operation of The Website(s) (Our Web hosting service or server rental company, for example), in general, may have indirect access to such information. We will use Your information only as permitted by law and as describes in this Privacy Policy. In addition, from time to time, as We continue to develop Our business, We may sell, buy, merge or partner with other companies or businesses. In such transactions, Your personally identifiable information may be among the transferred assets. We may also disclose Your information in response to a court order, at other times when We believe We are reasonably required to do so by law, in connection with the collection of amounts You may owe to Us, and/or to law enforcement authorities whenever We deem it appropriate or necessary. Please note We may not provide You with notice prior to, or after, disclosure in such cases.
+
+Occasionally We are approached by companies and professional associations seeking to inform Our Users, Partners, and/or Affiliates, about products or services that may be of interest to them. We review these requests and when, in Our judgment, We think the information would be of benefit to You, We may cooperate in getting You this information. We view receiving such information as a benefit for those who are seeking new tools to help them run their online business.  In such cases, We would provide You with this information directly, rather than provide Your Personally Identifiable Information to the outside companies and professional associations. We may initiate the communication of any information or advertising for Our direct or indirect financial gain and it is done so without any compensation due to You or any other recipient of the information.
+
+ **What Do We Do With the Information We Collect?**
+
+Like other web services, We collect general information to formulate lists of topics, categories of interest and/or use, and Your implied specific areas of interest. This may be used to enhance Your visit, deliver more individualized content, to affect Our accounting methodology, to secure Our database(s), to protect Us from illicit usage of The Websites, or to enable or disable certain products, services or programs for use by You. We respect Your privacy and do not share Your information with anyone outside of Our organizations (see definition of "We", "Our", and "Us", above) and any subsidiaries We may have. Additionally, real time transmission of the information may occur to affect, enable, or enhance other programs and services.
+
+Aggregate Information (information that does not personally identify You) may be used in many ways. For example, We may combine information about Your usage patterns with similar information obtained from other users to help enhance The Websites and the services offered therein (e.g., to learn which pages are visited most or what features are most attractive). Aggregate Information may occasionally be shared with Our subsidiaries, Our advertisers, Our business partners, or the general public. Again, this information does not include any Personally Identifiable Information about You or that would allow anyone to identify You individually. Additionally, periodic transmission of the aggregate information may occur to affect, enable, or enhance other products, programs and services that We may offer.
+
+ **Financial Information**
+
+We may use third party merchant payment verification and processing companies to obtain payment and approvals and to bill You for Your purchases. We do not have complete control over the actions or intentions of the third party payment processors or how they use the information that You may provide during a payment transaction and therefore have no responsibility for their use of the data specific to the transaction. These payment processors, and/or Your own financial institution may, in some circumstances, make secondary use of Your personal information and purchasing history; it is Your responsibility to contact the payment processors and/or Your financial institution for information regarding their specific usage of the information conveyed during transactions.
+
+On most purchases and transactions through or from The Website(s), We will normally collect and record merchant/payment processing information. Much of the determination on what information is collected and/or archived before, during, and/or after a purchase transaction, is based on the provisions and/or limitations of the payment processor systems that are implemented on The Website(s), and this may vary from site to site. Purchases will normally be done via third party merchant transaction or other payment providers and such information during the post sale transaction of data and the data communication between their computer(s) and Our computer(s) may or may not not be encrypted or protected with SSL or any other form of encryption software, in some cases. 
+
+The actual account access credentials information is not supplied to Us, but is available only for purposes of processing and completing the purchase transaction. The account and/or credentialization information is only disclosed to specific third parties as necessary to complete the purchase transaction, or during the process of financing the transaction. Additionally, notifications delivered in the form of email to Us will be delivered unencrypted and clearly readable in standard character sets defined by or within the geography of delivery or by or within the receiving computer's configuration. During the entire process of placing and paying for an order, there may be several steps in the process where data is transmitted unencrypted and this may vary from one step to another, or by the payment method and/or payment or merchant transaction processor chosen or available at the time of purchase, or by any third party provider used by the merchant transaction or associated payment processor, all of which is beyond Our control. Your payment processor ID and password, payment processor transaction identifiers, dates and times of transactions, contractual obligations or details specific to the transactions, electronic forms of signature, and any other information used when identifying or explaining or replicating the transaction may be stored temporarily or permanently on The Website(s).
+
+ **Taxpayer Identification Number (applies to Affiliates Only)**
+
+Individuals or entities who register as Affiliates AND who are due any monies from their participation in the Our Affiliate Program, must provide their Taxpayer Identification Number (either their social security number or employer identification number if a United States citizen or resident, or other form of identification provided by their country of origin or residence) to Us. We cannot make any payments to said Payee until the Payee submits their appropriate Taxpayer Identification Number and supporting Identification to Us (as required by the Affiliate Agreement of The Websites).
+
+Furthermore, We may not pay any monies to any United States resident or citizen that would cause such Payee's cumulative earnings to meet or exceed certain statutory limits during a calendar year, until that Payee submits an original, signed copy of IRS form W-9 as per instructions contained in The Website's Terms and Conditions and/or Affiliate Agreement. We are required to collect this information from each Payee in order to report each Payee's earnings to the U.S. Internal Revenue Service, and to issue IRS form 1099-MISC to the Payee and to the IRS. 
+
+If You are neither a citizen nor a resident of the United States, You do not need to provide a U.S. taxpayer identification number, but in this case We are required to withhold a portion of any monies that may be due to You and remit them to the IRS. (You are still required to provide us with Personal Identification as required in The Website's Terms and Conditions and/or Affiliate Agreement.)  For more information on withholdings for foreign persons or entities, click here. (You must apply to the IRS for a refund of this money if You do not oWe any United States income taxes or are not subject to any laws pertaining to United States income taxes.) You should not be asked for (and You should never provide) Your taxpayer identification number, unless You are applying for a Program that entitles You to earn monies.
+
+We will not share any Tax Payer Information that We may have about You unless required to do so by law or court order (as further explained herein), or when necessary if We choose to transfer business assets if We sell, buy, merge or partner with other companies or businesses. Please note We may not provide You with notice prior to, or after, disclosure in such cases.
+
+ **With whom may the information may be shared?  
+** We may share aggregated information about Our Visitors, including the demographics of Our Visitors and/or Authorized Customers, with Our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by Us or by any agency acting on Our behalf.   
+**  
+How is Personally Identifiable Information stored?  
+** Personally Identifiable Information collected at or through the Website is securely stored and is not accessible to any third party except for use as indicated herein.   
+**  
+What choices are available to Visitors regarding collection, use and distribution of the information?  
+** You may opt out of receiving unsolicited information from or being contacted by Us and/or Our vendors and affiliated agencies by responding to emails as instructed, or by contacting Us at[legal@paydotcom.com](mailto:legal@paydotcom.com) **
+
+Are Cookies Used on the Site?
+
+** Cookies are used for a variety of reasons. We may cookies to obtain information about the preferences of Our Visitors and the services they select. We may use cookies for security purposes to protect Our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, We will automatically log the Authorized Customer off.  
+ **  
+How   We use login information?   
+**We use login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer The Website, track a user's movement and use, and gather broad demographic information. **
+
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+
+** We have entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  Such vendors may have access to certain Personally Identifiable Information for evaluating service eligibility. 
+
+This Privacy Policy does not cover the collection or use of this information by such third parties.  Rather, such third party affiliations may have their own privacy policies over which We have no control.  Whenever possible, You are directed to check the websites of any third party affiliates for their specific privacy policies.
+
+ **Disclosure of Personally Identifiable Information to comply with law.  
+** Though We make every effort to preserve user privacy, We may need to disclose Personal Identifiable Information when required by law or when We have a good-faith belief that such action is necessary to:
+
+1) Conform to the edicts of the law or to comply with a current judicial proceeding, a court order, or legal process served on Us;
+
+2) Protect and defend the rights or property of The Website(s) or visitors to The Website(s);
+
+3) Identify persons who may be violating the law, any legal notice, or the rights of third parties (including those violating the Terms and Conditions of The Website(s)); or
+
+4) Cooperate with the investigations of purported unlawful activities.
+
+We may also disclose Personally Identifiable Information when reasonably necessary to protect the safety of Our Visitors and Authorized Customers. Please note We may not provide You with notice prior to, or after, disclosure in such cases.
+
+ **How Does The CAN-SPAM Act Affect You?**
+
+By registering at The Website(s) or by requesting information from Us, or by communicating with Us via email, You give express direct consent to Us and to any third party advertisers who may run advertising in Our publications to receive in-house and third-party advertising in such publication. You understand that We will not provide Your email address to such third party advertisers and that any such mailings would only originate from Us.
+
+Pursuant to the Can-Spam Act, You understand this consent extends to any service, product, brand or other promotional message, where You may have previously advised others, of Your  preference not to receive such messages. You further consent, pursuant to the Act, that the agreed mechanism to unsubscribe from further mailings from Us, is to click the unsubscribe link, which will be contained in every mailing and not by any other means or notice.
+
+ **How are You Affected by Affiliated Sites, Linked Sites and/or Advertisements?**
+
+We expect Our partners, associates, advertisers, and/or Affiliates to respect Your privacy. Be aware, however, that third parties (including, but not limited to, Our partners, associates, advertisers, and/or Affiliates) to respect Your privacy. Our affiliated companies, personnel, consultants, and advisors, other content providers, or other advertising services) (collectively referred to as "Promotional Partners") whose websites may be accessible through The Website(s), may have their own privacy and data collection policies and practices. For example, during Your visit to The Website(s), or websites that The Website(s) links to, You may link to or view, certain content that is actually owned, created, and/or hosted by a third party, or hosted or advertised by another service, or websites far removed from and unrelated to The Website(s). Also, through The Website(s), You may intentionally or unintentionally be introduced to, or be able to access, information, other websites, programs, products, services, features, contests or sweepstakes offered by other parties. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of each of those third parties when providing information on any page operated by a third party.
+
+While on The Website(s), Our Promotional Partners or other third parties may use cookies or other technology to attempt to identify some of Your preferences or retrieve information about You. For example, some of Our advertising is served by third parties and may include cookies that enable the advertiser to determine whether You have seen a particular advertisement before. Other features available on The Website(s) may offer services operated by third parties and may use cookies or other technology to gather information. We do not control the use of this technology by third parties or the resulting information, and are not responsible for any actions or policies of such third parties.
+
+You should also be aware that if You voluntarily disclose Personally Identifiable Information on message boards or in chat areas which may be accessible through The Website(s) or through the information available on The Website(s), that information may be viewed publicly and may be collected and used by third parties without Our knowledge and this may result in unsolicited messages from other individuals or third parties. Such activities are beyond the Our control and also beyond the scope of this Policy.
+
+ **How do We keep Personally Identifiable Information secure?  
+** All of Our employees are familiar with Our security policy and practices. The Personally Identifiable Information of Our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit Our security systems and processes on a regular basis. Sensitive information, such as credit card numbers, social security numbers or tax identification numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While We take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and We cannot guarantee or warrant that such events will not take place and We will not be liable to Visitors or Authorized Customers for any such occurrences.   
+**  
+How can You correct any inaccuracies in Personally Identifiable Information?  
+** Visitors and Authorized Customers may contact Us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing Us at[legal@paydotcom.com](mailto:legal@paydotcom.com) **
+
+Can You delete or deactivate Personally Identifiable Information collected at or through The Website?
+
+** We provide Visitors and Authorized Customers with a mechanism to delete/deactivate some of the Personally Identifiable Information from the Site's database by contacting[legal@paydotcom.com](mailto:legal@paydotcom.com). However, because of backups and records of deletions, it may be impossible to delete all of Your Personally Identifiable Information without retaining some residual information. An individual or entity who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and We will not sell, transfer, or use Personally Identifiable Information relating to that individual or entity in any way in the future.
+
+ **What Happens When You Send Us an Email or Testimonial?**
+
+If You send an email to Us, or if You communicate with Us by phone or mail or other means, the party You are communicating with may collects information about Your communication. By communicating with Us, You give Your permission to collect, archive, retrieve, and otherwise use any information collected as We see fit.
+
+Any communication by You to Us which, in Our sole discretion, We deem to be a testimonial, may be publicized for commercial purposes, and any such testimonial may include Your name, the URL of Your website, and/or Your email address.
+
+ **  
+What happens if this Privacy Policy Changes?  
+** We advise You about changes to this Privacy Policy by posting such changes on The Website. However, if We are changing this Privacy Policy in a manner that might cause disclosure of Personally Identifiable Information that You previously requested not be disclosed, We will contact You to allow You to prevent such disclosure. **
+
+Children
+
+**
+
+We have designed this Policy to comply with the Children's Online Privacy Protection Act ("COPPA"). We do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as required by law. If We discover We have received any information from a child under the age of 13 in violation of this Policy, We will delete that information immediately. If You believe We have any information from or about anyone under the age of 13, please contact Us at the address listed below.
+
+ **Contacting Us**
+
+We can be reached by contacting:
+
+PayDotCom.com
+
+MikeFilsaime.com, Inc.
+
+23 Hampshire Court
+
+Holbrook, NY  11741
+
+legal@paydotcom.com
+
+ **Changes to This Policy.**
+
+We reserve the right to change this policy at any time. Please check this page and The Website(s) periodically for changes. Your continued use of The Website(s) following the posting of changes to this Privacy Policy will mean You accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected and in accordance with the revisions to this Policy.
+
+ **Your Acceptance of These Terms.**
+
+By agreeing to receive information from Us, by using The Website(s), by requesting information from Us, by registering for any reason at The Website(s), or by participating in Our Affiliate Program, You agree to this Privacy Policy. We reserve the right, at Our discretion, to change, modify, add, or remove portions of this Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on The Website(s). Please check this page periodically for changes. Your continued use of The Website or acceptance of any email from Us following the posting of changes to this Policy will mean that You accept these changes.
+
+ **Governing Law.**
+
+The laws of the State of New York, Suffolk County, United States shall apply to any claim or dispute under this Privacy Policy.  You agree that any legal action or proceeding that arises under this Privacy Policy or the parties' obligations hereunder for any purpose concerning this Privacy Policy or the parties' obligations hereunder, will first attempted to be resolved with the help of a mutually agreed-upon online arbitrator. Any costs and fees (other than attorney fees) associated with the arbitrator will be shared equally by the parties.
+
+If it proves impossible to arrive at a mutually satisfactory solution through online mediation, You agree that the dispute will be submitted to binding arbitration either online or in Suffolk County, State of New York, United States, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+
+In no case shall You have the right to go to court or have a jury trial. You will not have the right to engage in pre-trial discovery except as provided in the rules; You will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will be final and binding with limited rights of appeal.
+
+Any cause of action or claim You may have with respect to this Privacy Policy or The Website(s) must be commenced within ninety (90) days after the claim or cause of action arises or such claim or cause of action is barred. Any failure to insist upon or enforce strict performance of any provision of this Privacy Policy shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Privacy Policy. Any of Us may assign Our individual and/or collective rights and duties under this Privacy Policy to any party at any time without notice to You. Use of headings in this document is for convenience only and does not identify legal boundaries or terms explicitly.
+
+This Privacy Policy represents the ENTIRE agreement between Us and You regarding all the matters that have been discussed herein.
+
+_______________________________________________________________________
+
+© Copyright 2005 by Gina Gaudio-Graves, Esq. and The Abundance Group, LLC and licensed to MikeFilsaime.com, Inc..  All Rights Reserved.  
+  
+---|---
