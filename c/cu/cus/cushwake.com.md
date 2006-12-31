@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cushwake.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516162530id_/http%3A//www.cushwake.com/cwglobal/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cushwake.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231173700id_/http%3A//www.cushwake.com/cwglobal/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # Cushman & Wakefield - Global real estate solutions
 
@@ -139,5 +139,5 @@ In order to provide clients with our services and products, we may, with their c
 ### Questions, Concerns and Complaints
 
 For Questions, concerns or complaints about personal information, or about our Privacy Policy, please contact our Privacy Officer using the contact information provide below:  
-**Privacy Officer:** Maureen Hickey  
+**Privacy Officer:** Beth Connor  
 **Contact Information:** (416) 359-2365 or [privacy@ca.cushwake.com](mailto:privacy@royallepage.com)
