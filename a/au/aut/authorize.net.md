@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629123249id_/http%3A//www.authorize.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231102627id_/http%3A//authorize.net/company/privacy) for the most accurate reproduction.*
 
 # Authorize.Net - Privacy Policy
 
@@ -28,9 +28,11 @@ Authorize.Net collects personally identifiable information when you register for
 
 When you register with Authorize.Net, we ask for your contact information (such as your name, street address and e-mail address), as well as certain information pertaining to your business, along with billing information such as a bank account and/or credit card number.
 
-In the course of processing a payment transaction, we typically receive from the merchant or a financial institution information related to the transaction. This normally includes information about the payment that a consumer has furnished the merchant or financial institution in placing the order. We do not acquire any information directly from consumers through the [www.authorize.net](http://www.authorize.net/) Web site.
+In the course of processing a payment transaction, we typically receive from the merchant or a financial institution information related to the transaction. This normally includes information about the payment that a consumer has furnished the merchant or financial institution in placing the order. We do not acquire any information directly from consumers through the [www.authorizenet.com](http://www.authorizenet.com/) Web site.
 
-Authorize.Net uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. We may also send merchants service announcements, newsletters, and periodic notices about specials and new products. Personally identifiable consumer information is used to process payment transactions and for no other purpose.
+The personally identifiable information we acquire in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using our payment services. It may include, for example, the amount of the transaction, the consumer’s name, credit card number and expiration date, checking account number, billing address, and shipping address.
+
+Authorize.Net uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. We may also send merchants service announcements, newsletters, and periodic notices about specials, new products and services and products and services offered by Authorize.Net business partners. Personally identifiable consumer information is used to process payment transactions and for no other purpose.
 
 Authorize.Net does not offer services or sell products to children. Authorize.Net does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
 
@@ -38,13 +40,7 @@ Authorize.Net does not offer services or sell products to children. Authorize.Ne
 
 Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below.
 
-Authorize.Net will send personally identifiable information about you to other companies or people when: 1) we have your consent to share the information; 2) we need to share your information to provide the product or service you have requested; 3) we need to send the information to companies who work on behalf of Authorize.Net to provide a product or service to you (unless we tell you differently these companies do not have any right to use the personally identifiable information we provide them beyond what is necessary to assist us).
-
-Personally identifiable consumer information is shared with third parties (such as banks and credit card processors) to the extent necessary for Authorize.Net to deliver payment processing services.
-
-We also may release personally identifiable information when we believe release is appropriate to comply with law; enforce or apply our Merchant Agreement and other agreements; or protect the rights, property, or safety of Authorize.Net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and risk reduction.
-
-In the unlikely event that Authorize.Net is acquired, merchant account information may be one of the transferred assets.
+Authorize.Net sends personally identifiable information about you to other companies or people: 1) when we have your consent to share the information; 2) when we need to share your information with third parties, such as banks and credit card processors, to provide the product or service you have requested; 3) in connection with products and services offered by Authorize.Net business partners and/or companies who work on behalf of Authorize.Net to provide a product or service to you; 4) it is appropriate to comply with law; 5) it is necessary to enforce or apply the terms and conditions of our Merchant Agreement and other applicable agreements; or 6) it is necessary to protect the rights, property, or safety of Authorize.Net, our users, or others, which may include the exchange of information with other organizations for fraud protection and/or risk reduction. In the event that Authorize.Net is acquired, merchant account information may be one of the transferred assets.
 
 **Information Security**
 
