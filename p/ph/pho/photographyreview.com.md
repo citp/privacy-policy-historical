@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographyreview.com privacy policy that was archived on 2005-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050123063324id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyreview.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231105551id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
 
 # Consumer Product Reviews - ConsumerREVIEW.com
 
