@@ -1,18 +1,29 @@
-<!--The following is the downloaded HTML source of the diabetesdaily.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616020806id_/http%3A//www.diabetesdaily.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diabetesdaily.com privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231173345id_/http%3A//diabetesdaily.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="stylesheet" type="text/css" media="screen, projection" href="/stylesheets/base.css">
-  <!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" href="/stylesheets/iestyles.css"><![endif]-->
+	  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.diabetesdaily.com/stylesheets/base.css">
+  <!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.diabetesdaily.com/stylesheets/iestyles.css"><![endif]-->
   <link rel="top" title="Diabetes Daily: We're here to help!" href="http://www.diabetesdaily.com/">
-  <link rel="alternate" title="Diabetes Daily RSS" href="http://feeds.feedburner.com/diabetesdaily" type="application/rss+xml">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <script src="/scripts/prototype.js" type="text/javascript"></script>
-  <script src="/scripts/moo.dom.js" type="text/javascript"></script>
-  <script src="/scripts/moo.fx.js" type="text/javascript"></script>
-  <script src="/scripts/moo.fx.pack.js" type="text/javascript"></script>
-  <script src="/scripts/common.js" type="text/javascript"></script>  <title>Diabetes Daily - Privacy Policy</title>
+  <link rel="alternate" title="Diabetes Daily Blog" href="http://www.diabetesdaily.com/index.xml" type="application/rss+xml">
+  <link rel="alternate" title="Diabetes Daily Forum" href="http://www.diabetesdaily.com/forum/index.xml" type="application/rss+xml">
+  <link rel="alternate" title="Blog Headlines From Across the Internet" href="http://www.diabetesdaily.com/blogheadlines.xml">
+  <link rel="shortcut icon" href="http://www.diabetesdaily.com/favicon.ico" type="image/x-icon">
+  <script src="http://www.diabetesdaily.com/scripts/prototype.js" type="text/javascript"></script>
+  <script src="http://www.diabetesdaily.com/scripts/moo.dom.js" type="text/javascript"></script>
+  <script src="http://www.diabetesdaily.com/scripts/moo.fx.js" type="text/javascript"></script>
+  <script src="http://www.diabetesdaily.com/scripts/moo.fx.pack.js" type="text/javascript"></script>
+  <script src="http://www.diabetesdaily.com/scripts/common.js" type="text/javascript"></script>
+  <script>
+  function toggleBlock(elementId) {
+    var element = document.getElementById(elementId);
+
+    if(element.style.display == '')
+      element.style.display = 'none';
+    else
+      element.style.display = '';  }
+  </script>  <title>Diabetes Daily - Privacy Policy</title>
   </head>
 <body>
 
@@ -32,13 +43,14 @@
 		<div id="mainnav-sponsor">
 			<ul class="mainnav-sponsor">
 				<li>
-					<a href="http://www.diabetesdaily.com/phpadsnew/adclick.php?bannerid=2&amp;zoneid=2&amp;source=&amp;dest=http%3A%2F%2Fwww.diabetesdaily.com%2Fadvertising.php" target="_blank"><strong>Sponsor us and own this spot!</strong></a><div id="beacon_2" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.diabetesdaily.com/phpadsnew/adlog.php?bannerid=2&amp;clientid=4&amp;zoneid=2&amp;source=&amp;block=0&amp;capping=0&amp;cb=274703215790c5ec24805861fd987a30" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>				</li>
+									</li>
 			</ul>
 		</div>
 		<ul id="mainnav">
 			<li class="begin"><a href="http://www.diabetesdaily.com" title="Diabetes Daily Home">Home</a></li>
+			<li><a href="http://news.diabetesdaily.com">News</a></li>
 			<li class="link-forum"><a href="/forum/">Forum</a></li>
-			<li class="link-blog"><a href="/forum/blogs/">Blogs</a></li>
+			<li class="link-blog"><a href="/forum/blogs/">Member Blogs</a></li>
 			<li class="link-diabetes101"><a href="/diabetes101.php">Diabetes 101</a></li>
 			<li class="link-recipes"><a href="/recipes/">Recipes</a></li>
 			<li><a href="/store/">Bookstore</a></li>
@@ -63,10 +75,13 @@
 				<fieldset>
 					<legend></legend>
                                         <input type="hidden" name="Template" value="diabetes">
-                                        <input type="hidden" name="IncludeBlogs" value="4">
+                                        <input type="hidden" name="IncludeBlogs" value="1,2">
                                         <input size="15" name="search" value="">
-					<input type="submit" value="Search" class="button">
-					<label><a class="advsearch" href="/search.php">Advanced</a></label>
+                                        <input type="hidden" name="do" value="process">
+                                        <input type="hidden" name="showposts" value="0">
+                                        <input type="hidden" name="query">
+					<input type="submit" value="Search Site" class="button">                                 
+                                        <input type="submit" value="Search Forum" class="button" onclick="this.form.query.value=this.form.search.value; this.form.setAttribute('action','/forum/search.php');">
 				</fieldset>
 			</form>
 		
@@ -85,10 +100,10 @@
 		  <div id="user-section">
         <div class="content">
 
-		<ul><li class="begin"><a id="loginlink" class="collapsed" href="http://www.diabetesdaily.com/forum/login.php">Login</a></li><li><a href="http://www.diabetesdaily.com/forum//register.php?s=" target="_parent">Register</a></li><li><a href="/forum/">Visit forum</a></li></ul><ul id="user-utils"><li><a href="/about.php">About</a></li><li><a href="/advertising.php">Advertise</a></li><li><a href="/forum/sendmessage.php">Contact</a></li></ul>
+		<ul><li class="begin"><a id="loginlink" class="collapsed" href="http://www.diabetesdaily.com/forum/login.php">Login</a></li><li><a href="http://www.diabetesdaily.com/forum/register.php?s=" target="_parent">Register</a></li><li><a href="/forum/">Visit forum</a></li></ul><ul id="user-utils"><li><a href="/about.php">About</a></li><li><a href="/advertising.php">Advertise</a></li><li><a href="/forum/sendmessage.php">Contact</a></li></ul>
     <div id="loginform">
-	<form action="http://www.diabetesdaily.com/forum//login.php" method="post" onsubmit="md5hash(vb_login_password,vb_login_md5password,vb_login_md5password_utf)">
-	<script type="text/javascript" src="http://www.diabetesdaily.com/forum//clientscript/vbulletin_md5.js"></script>
+	<form action="http://www.diabetesdaily.com/forum/login.php" method="post" onsubmit="md5hash(vb_login_password,vb_login_md5password,vb_login_md5password_utf)">
+	<script type="text/javascript" src="http://www.diabetesdaily.com/forum/clientscript/vbulletin_md5.js"></script>
 	<legend>Username</legend>
     <input type="text" id="navbar_username" name="vb_login_username" size="15" onfocus="if" (this.value="=" 'user="" name')="" this.value="" ;="">
     <label>Password</label>
@@ -109,7 +124,7 @@
 		
 		<div id="links"> <!-- begin left column -->
 		
-<div class="block" id="block0">
+<div class="block">
 	<div class="title" id="links-guides-title">
 		<h4 class="link-diabetes101"><a href="/diabetes101.php">Diabetes 101</a></h4>
 	</div>
@@ -131,6 +146,7 @@
 	</div>
 </div>
 
+
 <div class="block">
 	<div class="title" id="links-resources-title">
 		<h4 class="link-resources">Resources</h4>
@@ -138,28 +154,13 @@
 
 	<div class="content" id="links-resources-content">
         <ul>
+  	     <li><a href="/forum/">Diabetes Forum</a></li>
+             <li><a href="/content/2005/11/02/diabetes-chat-room.php">Diabetes Chat Room</a></li>
   	     <li><a href="/store/">Bookstore</a></li>
 	     <li><a href="/content/2005/03/20/blood-glucose-conversion.php">Blood Glucose Converter</a></li>
 	     <li><a href="http://www.clinicaltrials.gov/">Clinical Trials</a></li>
 	     <li><a href="/lifestyle/restaurant-nutrition-guide.php">Restaurant Nutrition Guides</a></li>	
-	     <li><a href="/resources.php">Our Favorite Links</a></li>
         </ul>
-	</div>
-</div>
-
-<div class="block">
-	<div class="title" id="links-blogs-title">
-	   <h4 class="link-blog"><a href="/forum/blogs">Member Blogs</a></h4>
-	</div>
-
-	<div class="content" id="links-blogs-content">
-	<ul>
-		<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=18"><strong>Is hair loss a side effect of injectin insulin?</strong> by andyfreud</a></li>
-	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=12"><strong>Something new!</strong> by confused</a></li>
-	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=17"><strong>Following on...</strong> by Inspector</a></li>
-	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=17"><strong>Another day on...</strong> by Inspector</a></li>
-	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=17"><strong>Continued....</strong> by Inspector</a></li>
-    </ul>
 	</div>
 </div>
 
@@ -170,15 +171,15 @@
 
 	<div class="content" id="links-comments-content">
         <ul>
-                        <li><a href="http://www.diabetesdaily.com/content/2006/06/15/the-exit-line-pass.php">The Exit Line Pass (2)</a></li>
+                        <li><a href="http://www.diabetesdaily.com/content/2005/12/02/tough-times-ahead.php">Tough Times Ahead (2)</a></li>
           
-                        <li><a href="http://www.diabetesdaily.com/content/2006/06/10/welcome-to-diabetes-daily-30.php">Welcome to Diabetes Daily 3.0! (4)</a></li>
+                        <li><a href="http://www.diabetesdaily.com/content/2005/12/05/retinopathy.php">Retinopathy (1)</a></li>
           
-                        <li><a href="http://www.diabetesdaily.com/content/2006/06/07/luba-zabell-march-7-1987-june-5-2006.php">Luba Zabell: March 7, 1987- June 5, 2006 (2)</a></li>
+                        <li><a href="http://www.diabetesdaily.com/content/2005/12/29/the-untethered-regimen.php">The "Un-Tethered" Regimen (5)</a></li>
           
-                        <li><a href="http://www.diabetesdaily.com/content/2006/06/05/gluttony.php">Gluttony (2)</a></li>
+                        <li><a href="http://www.diabetesdaily.com/content/2006/12/26/back-in-the-swing-of-things.php">Back in the Swing of Things (3)</a></li>
           
-                        <li><a href="http://www.diabetesdaily.com/content/2005/03/20/blood-glucose-conversion.php">Blood Glucose Conversion (2)</a></li>
+                        <li><a href="http://www.diabetesdaily.com/content/2006/12/25/merry-christmas.php">Merry Christmas! (2)</a></li>
           
           
         </ul>
@@ -193,10 +194,11 @@
 	<div class="content" id="links-site-content">
 	<ul>
 	
-<li><a href="/forum/register.php">Register For Free</a></li>	<li><a href="http://feeds.feedburner.com/diabetesdaily">Blog RSS Feed <img src="http://www.diabetesdaily.com/images/feed-icon-12x12.gif"></a></li>
+<li><a href="/forum/register.php">Register For Free</a></li>	<li><a href="/index.xml">Blog RSS Feed <img src="http://www.diabetesdaily.com/images/feed-icon-12x12.gif"> <img src="http://feeds.feedburner.com/~fc/DiabetesDaily?bg=99FF33&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></li>
+	<li><a href="/forum/index.xml">Forum RSS Feed <img src="http://www.diabetesdaily.com/images/feed-icon-12x12.gif"></a></li>
 	<li><a href="/content/2006/04/25/subscribe-to-diabetes-blog-headlines.php">How to Subscribe</a></li>
 	<li><a href="/forum/sendmessage.php">Contact</a></li>
-        <li><a href="/archives.php">Blog Archives</a></li>
+        <li><a href="/content/">Blog Archives</a></li>
 </ul>
 	</div>
 </div>
@@ -209,41 +211,127 @@
 <div class="block">
 	<div class="title" id="srandblock-title">
 		<h4 class="top">
-			Community Statistics
+			<a href="/forum/"><u>Community Forum</u></a>
 		</h4>
 	</div>
 	<div class="content" id="srandblock-content">
 
-		<div class="stats"><ul>  <li>404 Friendly Members</li>  <li>3,635 Posts	</li><li>544 Threads</li><li><a href="/forum/register.php">Register</a> or <a href="/forum">Visit Forum</a></li></ul></div> 
+		<div class="stats"><ul>  <li>1,340 Friendly Members</li>  <li>17,289 Posts	</li><li>1,986 Threads</li><li><a href="/forum/register.php">Register</a> or <a href="/forum">Visit Forum</a></li></ul></div> 
 	</div>
 </div>
-
 
 <div class="block">
 	<div class="title" id="srandblock-title">
-		<h4 class="top">
-			Sponsored Links
+		<h4>
+			What's Popular
 		</h4>
 	</div>
 	<div class="content" id="srandblock-content">
-<div id="ad-rightcolumn"><script type="text/javascript"><!--
-google_ad_client = "pub-2673141060812446";
-google_ad_width = 125;
-google_ad_height = 125;
-google_ad_format = "125x125_as";
-google_ad_type = "text_image";
-google_ad_channel ="8032154008";
-google_color_border = "FFFFCC";
-google_color_bg = "FFFFCC";
-google_color_link = "0055BB";
-google_color_text = "000000";
-google_color_url = "666666";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><div id="beacon_7" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.diabetesdaily.com/phpadsnew/adlog.php?bannerid=7&amp;clientid=6&amp;zoneid=6&amp;source=&amp;block=0&amp;capping=0&amp;cb=12ec18c6999205cb19f7d3f5f5b44a8d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div> 
+          <ul>
+             <li><strong>New &amp; Improved</strong><br><a href="http://search.diabetesdaily.com">Diabetes Web Search</a><img src="http://www.diabetesdaily.com/images/new.gif"><br><a href="http://news.diabetesdaily.com">News &amp; Blog Headlines</a><br><a href="http://www.diabetesdaily.com/news/feeds.php">Blog Finder</a></li>
+             <li><strong>Diabetes Blog Awards</strong><br>Give kudos to your favorite blogs! We're nominated for <a href="http://www.diabetesdaily.com/content/2006/12/02/vote-in-the-diabetes-oc-blog-awards.php">Best News Site</a>.</li>
+             <li><strong>Join Our Book Club!</strong><br>December's selection is the funny and touching story <a href="http://www.diabetesdaily.com/content/2006/11/29/join-our-book-club.php">Marley &amp; Me: Life and Love With the World's Worst Dog</a>.</li>
+             <li><strong>December Photo Contest</strong><br>Win a $20 gift certificate to Amazon!<br>Topic: <a href="http://www.diabetesdaily.com/content/2006/12/01/december-photo-contest-hope-for-the-future.php">Hope For the Future</a>.</li>
+          </ul>
 	</div>
 </div>
 
+<div class="block">
+	<div class="title" id="srandblock-title">
+		<h4>
+			<a href="/polls/list.php"><u>Poll of the Week</u></a>
+		</h4>
+	</div>
+	<div class="content" id="srandblock-content">
+        <ul><li>
+<table width="170" border="0" cellspacing="0" cellpadding="1" bgcolor="#ffffcc">
+  <tbody><tr align="center"> 
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="2" align="center" bgcolor="#FFFFCC">
+        <tbody><tr> 
+          <td height="40" valign="middle" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="1"><b>What's your favorite season?</b></font></td>
+        </tr>
+        <tr align="right" valign="top"> 
+          <td>
+            <form method="post" action="privacy.php">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                <tbody><tr valign="top" align="center"> 
+                  <td> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="1" align="center">
+ <tbody><tr> 
+   <td width="15%" align="left"><input type="radio" name="option_id" value="1"></td>
+   <td width="85%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">Spring</font></td>
+ </tr>
+ <tr> 
+   <td width="15%" align="left"><input type="radio" name="option_id" value="2"></td>
+   <td width="85%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">Summer</font></td>
+ </tr>
+ <tr> 
+   <td width="15%" align="left"><input type="radio" name="option_id" value="3"></td>
+   <td width="85%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">Fall</font></td>
+ </tr>
+ <tr> 
+   <td width="15%" align="left"><input type="radio" name="option_id" value="4"></td>
+   <td width="85%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">Winter</font></td>
+ </tr>
+                    </tbody></table>
+                    <input type="hidden" name="action" value="vote">
+                    <input type="hidden" name="poll_ident" value="10">
+                    <input type="submit" value="Vote" class="input">
+                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="1"><a href="privacy.php?action=results&amp;poll_ident=10">View results</a><br><a href="/polls/list.php">More Polls</a></font>
+                  </td>
+                </tr>
+              </tbody></table>
+            </form>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+        </li></ul>
+	</div>
+</div>
+
+<div class="block">
+	<div class="title" id="srandblock-title">
+		<h4>
+			<a href="/forum/blogs/"><u>Member Blogs</u></a>
+		</h4>
+	</div>
+	<div class="content" id="srandblock-content">
+        <ul>
+			<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=54"><strong>Chapter 5</strong> by jessipops</a></li>
+	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=54"><strong>Chapter 4 continued</strong> by jessipops</a></li>
+	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=54"><strong>Chapter 4 continued</strong> by jessipops</a></li>
+	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=45"><strong>And so that was Christmas.....................</strong> by caswellhb</a></li>
+	<li><a href="http://www.diabetesdaily.com/forum/journal.php?do=showjournal&amp;j=43"><strong>Vent and happy ughhhhhhhhhh</strong> by cherylbeck127</a></li>
+ 
+        </ul>
+	</div>
+</div>
+
+<div class="block">
+	<div class="title" id="srandblock-title">
+		<h4>
+			<a href="http://news.diabetesdaily.com"><u>News &amp; Blog Headlines</u></a>
+		</h4>
+	</div>
+	<div class="content" id="srandblock-content">
+
+<center><small style="color: #666;">Scanning 100+ blogs every 15 minutes.</small></center>
+		<script language="javascript" src="http://syndicate.diabetesdaily.com/blogheadlines-sidebar.php?num=8" type="text/javascript"></script>
+<noscript><a href="http://news.diabetesdaily.com">View recent headlines</a></noscript>
+
+<ul style="text-align: right;"><li>
+<a href="http://news.diabetesdaily.com"><strong>More Headlines</strong></a><br>
+<a href="/news/feeds.php">Blog Finder</a><br>
+<a href="/forum/sendmessage.php">Suggest a Site</a><br>
+<a href="/syndicate/">Get Headlines on Your Site</a>
+</li></ul>
+
+	</div>
+</div>
 
 <div class="block">
 	<div class="title" id="srandblock-title">
@@ -253,11 +341,11 @@ google_color_url = "666666";
 	</div>
 	<div class="content" id="srandblock-content">
 		<ul>
-	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/0-0&amp;fd=R&amp;url=http://news.bbc.co.uk/1/hi/health/5082780.stm&amp;cid=1107291519&amp;ei=zgeSRJurHZP2oALk9vyNBg">Diabetes 'serious pregnancy risk' </a></li>
-	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/1-0&amp;fd=R&amp;url=http://www.bizjournals.com/birmingham/stories/2006/06/12/daily16.html&amp;cid=1107288262&amp;ei=zgeSRJurHZP2oALk9vyNBg">Sylacauga family donates $1 million to Juvenile Diabetes Research ... </a></li>
-	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/2-0&amp;fd=R&amp;url=http://today.reuters.com/news/newsArticle.aspx%3Ftype%3DhealthNews%26storyID%3D2006-06-15T121633Z_01_COL544172_RTRUKOC_0_US-SUGAR-MONITOR.xml%26archived%3DFalse&amp;cid=1107227050&amp;ei=zgeSRJurHZP2oALk9vyNBg">Sugar monitor gets kids involved in diabetes care </a></li>
-	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/3-0&amp;fd=R&amp;url=http://www.allheadlinenews.com/articles/7003926002&amp;cid=1107274593&amp;ei=zgeSRJurHZP2oALk9vyNBg">Study: Coffee Lowers The Risk Of Diabetes </a></li>
-	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/4-0&amp;fd=R&amp;url=http://www.bestsyndication.com/Articles/2006/Nicole-WILSON/Health/06/061506-type_2_diabetes_rpb4_protein_increased_levels_insulin_resistance.htm&amp;cid=1107259037&amp;ei=zgeSRJurHZP2oALk9vyNBg">Type 2 Diabetes â€“ Elevated levels of RBP4 early indication of ... </a></li>
+	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/0-0&amp;fd=R&amp;url=http://www.insidebayarea.com/argus/localnews/ci_4928495&amp;cid=1112351795&amp;ei=m_OXRZ7hB8vwHIbnuPMM">Program aims to raise diabetes awareness </a></li>
+	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/1-0&amp;fd=R&amp;url=http://www.sentinelandenterprise.com/ci_4929227&amp;cid=0&amp;ei=m_OXRZ7hB8vwHIbnuPMM">Emerson Hospital offers diabetes support groups </a></li>
+	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/2-0&amp;fd=R&amp;url=http://www.postcrescent.com/apps/pbcs.dll/article%3FAID%3D/20061231/APC0401/612310506/1030/APClife&amp;cid=0&amp;ei=m_OXRZ7hB8vwHIbnuPMM">Two women work to find a cure for juvenile diabetes </a></li>
+	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/3-0&amp;fd=R&amp;url=http://www.channelnewsasia.com/stories/singaporelocalnews/view/250026/1/.html&amp;cid=0&amp;ei=m_OXRZ7hB8vwHIbnuPMM">22,000 people claim S$2m from Medisave for diabetes treatment </a></li>
+	<li><a rel="nofollow" target="_blank" href="http://news.google.com/news/url?sa=T&amp;ct=us/4-0&amp;fd=R&amp;url=http://www.iht.com/articles/2006/12/31/news/jan1diabetes.php&amp;cid=1112324530&amp;ei=m_OXRZ7hB8vwHIbnuPMM">Diabetics in the workplace confront a tangle of laws </a></li>
 </ul>
  
 	</div>
@@ -266,197 +354,24 @@ google_color_url = "666666";
 <div class="block">
 	<div class="title" id="srandblock-title">
 		<h4>
-			Blog Headlines
+			Diabetes OC Webring
 		</h4>
 	</div>
 	<div class="content" id="srandblock-content">
-		
 
-  <ul><li class="newsboxes-date">6/15/2006</li>
 
-        <li><a target="_blank" rel="nofollow" href="http://sugardonor.blogspot.com/2006/06/i-got-him-good.html" title="I got him good">I got him good</a><br>
+<!-- BEGIN Diabetes OC Webring code -->
+<p style="color: #666; text-align: center;">
+<a href="http://alt-webring.com/cgi-bin/prev.pl?ringid=DiabetesOC;siteid=diabetesdaily" target="_top" title="Go to the Previous site in the OC Ring"> &lt;&lt; Previous</a> |
+<a href="http://alt-webring.com/cgi-bin/next.pl?ringid=DiabetesOC;siteid=diabetesdaily" target="_top" title="Go to the Next site in the OC Ring">Next &gt;&gt; </a><br>
+<a href="http://alt-webring.com/cgi-bin/home.pl?ringid=DiabetesOC;siteid=diabetesdaily" target="_top" title="View the Official Diabetes OC Homepage">Home/List</a> | <a href="http://alt-webring.com/cgi-bin/rand.pl?ringid=DiabetesOC;siteid=diabetesdaily" target="_top" title="Go to a random site in the OC Ring">Random</a> | <a href="http://www.candiddiabetes.com/the_diabetes_oc_ring/" target="_top" title="Join The Diabetes OC Webring">Join</a>
+</p>
+<!-- END Diabetes OC Webring code -->
 
-             Sugar Donor</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://kelseysdiabetesdiary.blogspot.com/2006/06/rebound.html" title="Rebound!!">Rebound!!</a><br>
-
-             Diabetes Diary</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.thediabetesblog.com/2006/06/15/rbp4-protein-an-early-indicator-of-type-2-diabetes-risk/" title="RBP4 protein an early indicator of Type 2 diabetes risk">RBP4 protein an early indicator of Type 2 diabetes risk</a><br>
-
-             The Diabetes Blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.thediabetesblog.com/2006/06/15/trucker-helps-out-diabetic-grandmother-stranded-at-truck-stop/" title="Trucker helps out diabetic grandmother stranded at truck stop">Trucker helps out diabetic grandmother stranded at truck stop</a><br>
-
-             The Diabetes Blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.thediabetesblog.com/2006/06/15/kids-respond-positively-to-continuous-monitoring-devices/" title="Kids respond positively to continuous monitoring devices">Kids respond positively to continuous monitoring devices</a><br>
-
-             The Diabetes Blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.diabetesmine.com/2006/06/insulin_in_a_pi.html" title="Insulin in a Pill?">Insulin in a Pill?</a><br>
-
-             Diabetes Mine</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://mydiabetes.blogspot.com/2006/06/quick-post.html" title="quick post">quick post</a><br>
-
-             Sugar &amp; Spice</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://thisismylife3.blogspot.com/2006/06/weird.html" title="Weird">Weird</a><br>
-
-             This is My Life</li> 
-
-        <li class="newsboxes-date">6/14/2006</li>
-
-        <li><a target="_blank" rel="nofollow" href="http://thisismylife3.blogspot.com/2006/06/to-parents-of-cwds-everywhere.html" title="To Parents of CWDs Everywhere">To Parents of CWDs Everywhere</a><br>
-
-             This is My Life</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://untilacure.blogspot.com/2006/06/jenny-says-yikes-end-of-school-year.html" title="Untitled">Untitled</a><br>
-
-             Until a Cure</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.kweaver.org/archives/2006/06/byetta_supply_p.html" title="Byetta Supply Problems?">Byetta Supply Problems?</a><br>
-
-             Living With Diabetes</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.kweaver.org/archives/2006/06/guardian_inform.html" title="Guardian Information">Guardian Information</a><br>
-
-             Living With Diabetes</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.candiddiabetes.com/candid_diabetes/2006/06/grading_on_the_.html" title="Grading On the Curve">Grading On the Curve</a><br>
-
-             Candid Diabetes</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://drjekyllandmrslow.blogspot.com/2006/06/continuous-monitoring-part-2.html" title="Continuous Monitoring, Part 2">Continuous Monitoring, Part 2</a><br>
-
-             Dr Jekyll and Mrs Low</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.diabetes-wise.net/2006/06/daft_but_fun.html" title="Daft. But Fun.">Daft. But Fun.</a><br>
-
-             Diabetes Wise</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://diabeticliving.blogspot.com/2006/06/so-much-misinformation.html" title="So much misinformation">So much misinformation</a><br>
-
-             Living with Diabetes</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://sugardonor.blogspot.com/2006/06/meme-too.html" title="MEME TOO!!!">MEME TOO!!!</a><br>
-
-             Sugar Donor</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://the-bad-blog.blogspot.com/2006/06/blooper-time.html" title="Blooper Time">Blooper Time</a><br>
-
-             The B.A.D. Blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.thediabetesblog.com/2006/06/14/undiagnosed-diabetics-at-risk-in-intensive-care/" title="Undiagnosed diabetics at risk in intensive care">Undiagnosed diabetics at risk in intensive care</a><br>
-
-             The Diabetes Blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.thediabetesblog.com/2006/06/14/weighing-in-bmi-used-to-calculate-diabetes-risk/" title="Weighing in: BMI used to calculate diabetes risk">Weighing in: BMI used to calculate diabetes risk</a><br>
-
-             The Diabetes Blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://ryanbruner.blogspot.com/2006/06/what-song-is-playing-on-my-ipod.html" title="What Song Is Playing on MY iPod">What Song Is Playing on MY iPod</a><br>
-
-             Ryan Bruner's blog</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.diabetesmine.com/2006/06/new_prototype_a.html" title="New Prototype a â€œReverse IUDâ€ for Islet Cell Transplantation">New Prototype a â€œReverse IUDâ€ for Islet Cell Transplantation</a><br>
-
-             Diabetes Mine</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://noncompliant.blogspot.com/2006/06/117.html" title="117....">117....</a><br>
-
-             noncompliant</li> 
-
-        <li class="newsboxes-date">6/13/2006</li>
-
-        <li><a target="_blank" rel="nofollow" href="http://acthoughts.blogspot.com/2006/06/for-those-who-dont-know-i-have-my.html" title="Untitled">Untitled</a><br>
-
-             My Blog???  :D</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://sixuntilme.com/blog1/2006/06/flood_sale.html" title="Flood Sale">Flood Sale</a><br>
-
-             Six Until Me.</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://shannonlewis.blogspot.com/2006/06/conversation-from-backseat-of-my.html" title="Conversation From The Backseat Of My Minivan">Conversation From The Backseat Of My Minivan</a><br>
-
-             Mom Wants A Diabetes Cure</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://threeyearsfree.blogspot.com/2006/06/results-are-in.html" title="The results are in">The results are in</a><br>
-
-             My son has diabetes</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://diabetes.blog.com/814126/" title="Byetta cartridge shortage?">Byetta cartridge shortage?</a><br>
-
-             Diabetes.Blog.com</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://scotts-dblife.blogspot.com/2006/06/bloodsugars-and-moods.html" title="Bloodsugars and Moods">Bloodsugars and Moods</a><br>
-
-             Scott's Diabetes Journal</li> 
-
-        
-
-        <li><a target="_blank" rel="nofollow" href="http://www.kweaver.org/archives/2006/06/cardiologist.html" title="Cardiologist">Cardiologist</a><br>
-
-             Living With Diabetes</li> 
-
-        </ul><p class="blogheadlines-subscribe">
-(<a href="http://feeds.feedburner.com/BlogHeadlinesByDiabetesDaily" title="Subscribe to Blog Headlinesy" rel="alternate" type="application/rss+xml">Subscribe</a> or <a href="/forum/sendmessage.php">add your site</a>)</p>
 
 	</div>
 </div>
+
 
 </div> <!-- end right column -->
 
@@ -482,11 +397,14 @@ google_color_url = "666666";
 <p>We despise people that send spam or trade/sell/rent personal information:</p>
 
 <ul class="numbered">
-<li><strong>We will never send unsolicited email messages.</strong> We use <a target="_blank" href="http://www.bloglet.com">Bloglet</a> to send our newsletters. Thousands of bloggers use Bloglet and have reported no abuses of their privacy policy which forbids spam.</li>
+<li><strong>We will never send unsolicited email messages.</strong> </li>
 
-<li><strong>We collect general but not specific information.</strong> We regularly look at our logs to see referring sites, browser types, screen resolutions and region of the world. We do not  try to link this information to a specific name or face.</li>
+<li><strong>When you browse our community, we collect general but not specific information.</strong> We regularly look at our logs to see referring sites, browser types, screen resolutions and region of the world. We do not  try to link this information to a specific name or face.</li>
 
-<li><strong>We do not rent, sell or share personal information.</strong> We will never share personal information such as your name or email address (which are necessary to post comments). However, we may offer generic information like total daily visitors to our advertising partners.</li>
+
+<li><strong>When you register, we collect some personal information to create your account.</strong> This includes your name and birthday. Your birthday is required to comply with applicable child protection laws.</li>
+
+<li><strong>We do not rent, sell or share personal information.</strong> We will never share personal information such as your name or email address. However, we may offer generic information like total daily visitors to our advertising partners.</li>
 
 <li><strong>We may reveal personal information if compelled by a court order.</strong></li>
 
@@ -521,8 +439,8 @@ google_color_url = "666666";
 	
 	<!-- wrapper -->
 
-<div> <!-- footer wrapper -->
-	
+<!-- footer wrapper -->
+
 	<div class="copyright">
 		<p>The content provided on this web site is for information purposes only. It is intended to provide tools  and reference<br> material and is not designed to provide medical advice. Please consult your healthcare provider regarding any medical <br>issues you have relating to symptoms, conditions, diseases, diagnosis, treatments, and side effects.<br>
 © 2006 <a href="http://www.diabetesdaily.com">Diabetes Daily</a><br>
@@ -534,7 +452,7 @@ google_color_url = "666666";
 <a href="http://sm6.sitemeter.com/stats.asp?site=sm6davide101" target="_top">
 <img src="http://sm6.sitemeter.com/meter.asp?site=sm6davide101" alt="Site Meter" border="0"/></a>
 </noscript>
-<!-- Copyright (c)2006 Site Meter --></p>
+<!-- Copyright (c)2006 Site Meter --> <a href="http://www.blogtopsites.com/health/"><img border="0" src="http://www.blogtopsites.com/track_22931.gif" alt="Health Blogs - Blog Top Sites"></a></p>
 
 	</div>
 	
@@ -545,12 +463,11 @@ google_color_url = "666666";
 			<li><a href="/about.php">about</a></li>
 			<li><a href="/advertising.php">advertise</a></li>
 			<li><a href="/privacy.php">privacy</a></li>
-			<li><a href="http://feeds.feedburner.com/diabetesdaily">rss</a></li>
 			<li><a href="/forum/sendmessage.php">contact</a></li>
 		</ul>
 	</div>
 
-</div> <!-- footer wrapper -->
+ <!-- footer wrapper -->
 
 <!-- Start of StatCounter Code -->
 <script type="text/javascript" language="javascript">
@@ -567,6 +484,7 @@ var sc_security="1da72e52";
 </script>
 <script type="text/javascript">
 _uacct = "UA-346820-1";
+_udn="diabetesdaily.com"; 
 urchinTracker();
 </script>
 
