@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2006-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060604141935id_/http%3A//translatorsbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231173503id_/http%3A//translatorsbase.com/privacy.asp) for the most accurate reproduction.*
 
-# นักแปลคือ บริการแปลเอกสาร งานแปลสำหรับนักแปลอิสระ
+# Translators, Translation Services, Translation Jobs - Translatorsbase.com
 
 Verbumsoft wants to demonstrate its commitment to your privacy and has displayed its privacy statement for your review: 
 
