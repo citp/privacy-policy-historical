@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hygienesuppliesdirect.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618042132id_/http%3A//www.hygienesuppliesdirect.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hygienesuppliesdirect.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231093301id_/http%3A//www.hygienesuppliesdirect.com/policies/privacy.php) for the most accurate reproduction.*
 
 # HSD : Privacy Policy
 
