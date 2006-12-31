@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotive.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625080440id_/http%3A//www.automotive.com/about-us/36/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotive.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231051047id_/http%3A//www.automotive.com/about-us/36/privacy/index.html) for the most accurate reproduction.*
 
 # 
 
