@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2006-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060524180147id_/http%3A//pages.alexa.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231015641id_/http%3A//www.alexa.com/site/help/privacy) for the most accurate reproduction.*
 
-# Alexa Web Search -- Privacy Policy
+# Alexa Web Search - Privacy Policy
+
+## 
 
 Alexa Internet Privacy Policy
 
-**Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20060524180147id_/http%3A//pages.alexa.com/help/redline.html#privacy))   
+**Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20061231015641id_/http%3A//www.alexa.com/site/help/redline))   
  
 
-Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/web/20060524180147id_/http%3A//pages.alexa.com/help/terms.html), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
+Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/site/help/terms), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
 
 ALEXA'S TOOLBAR SERVICE COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW, THE DATA YOU ENTER IN ONLINE FORMS AND SEARCH FIELDS, AND, WITH VERSIONS 5.0 AND HIGHER, THE PRODUCTS YOU PURCHASE ONLINE WHILE USING THE TOOLBAR SERVICE. ALTHOUGH ALEXA DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY ALEXA USER, SOME INFORMATION COLLECTED BY THE TOOLBAR SERVICE IS PERSONALLY IDENTIFIABLE. ALEXA AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE AND SHOPPING HABITS.
 
@@ -21,7 +23,7 @@ Alexa does not attempt to determine the identity of any Alexa user by analyzing 
 
 **_What types of information does Alexa collect?_**
 
-If you are visiting the Alexa website (alexa.com), we collect the following information: the full Uniform Resource Locator ("URL") of the Web page from which you came to alexa.com; your Internet Protocol ("IP") address, which may include a domain name; the date and time for each page you view; the name of and information about any advertisement that brought you to the Alexa website; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can track the pages of our website that you view and the order in which you view them.
+If you are visiting the Alexa website (alexa.com), we collect the following information: the full Uniform Resource Locator("URL") of the Web page from which you came to alexa.com; your Internet Protocol ("IP") address, which may include a domain name; the date and time for each page you view; the name of and information about any advertisement that brought you to the Alexa website; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can track the pages of our website that you view and the order in which you view them.
 
 If you use the _E-mail This Site_ feature, we collect your message, the recipient e-mail address(es), and your e-mail address for the purpose of sending the e-mail. We do not send other e-mail to these address(es).  If you choose, we can save your e-mail address in a cookie on your computer to make this feature easier to use.
 
@@ -46,7 +48,7 @@ If you use Internet Explorer's Related Links feature, we collect the full URL of
 
 **_Does Alexa collect personally identifiable information?_**
 
-The URLs we collect through the Toolbar Service sometimes contain personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or sign up for a contest), the operator of the website may insert that information into its URLfor that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URLthat is then transmitted to Alexa and automatically stored in Alexa's databases. This can also occur with words, topics, products, or phrases you enter into search engines – whether those engines are provided by the Alexa Toolbar Service itself or found elsewhere on the Web – while using the Alexa Toolbar Service. Alexa has no control over what information third party websites put into their URLs or where they put it, but any information in each URL is collected and stored by Alexa when you are using the Toolbar Service.
+The URLs we collect through the Toolbar Service sometimes contain personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or sign up for a contest), the operator of the website may insert that information into its URLfor that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URLthat is then transmitted to Alexa and automatically stored in Alexa's databases. This can also occur with words, topics, products, or phrases you enter into search engines - whether those engines are provided by the Alexa Toolbar Service itself or found elsewhere on the Web - while using the Alexa Toolbar Service. Alexa has no control over what information third party websites put into their URLs or where they put it, but any information in each URL is collected and stored by Alexa when you are using the Toolbar Service.
 
 If you use version 5.0 or higher of the Toolbar Servicesoftware, as part of the shopping feature of the Toolbar Service, we collect information about the products you view or search for on the World Wide Web. This allows us to provide more detailed product and comparative shopping information. The information we collect includes product codes (such as ISBN numbers for books), product names, and other identifiers that appear in both the text and the URLs of Web pages that you view. The product information that Alexa gathers is logged together with your IP address, Alexa cookie number, the names of Alexa's business partners that might have additional information about the particular product, and the date and time, in a single data string for each Web page you visit. These strings, which we call "shopping paths," may also contain personally identifiable information. Alexa transmits the product descriptions (without your Alexa cookie number or IP address) to its business partners, who return relevant product information and/or comparison shopping information to the Toolbar Service for your use.
 
@@ -104,7 +106,7 @@ Alexa also segregates certain personally identifiable information provided by yo
 
 **_No Confidentiality for Customer Feedback_**
 
-Feedback and other comments and statements that you chose to submit to Alexa by any means – whether by e-mail to Alexa Customer Service, telephone, letter, or any other means – shall be considered nonconfidential. Alexa is free to use such information on an unrestricted basis.
+Feedback and other comments and statements that you chose to submit to Alexa by any means - whether by e-mail to Alexa Customer Service, telephone, letter, or any other means - shall be considered nonconfidential. Alexa is free to use such information on an unrestricted basis.
 
 **_Data Collection and Use Practices by Other Businesses We Do Not Control_**
 
@@ -118,11 +120,11 @@ You acknowledge and agree that Alexa is not responsible for any content, adverti
 
 **_How to Change Your Information_**
 
-You can inform us of a change in the e-mail address or demographic information you provide us by [contacting us](http://pages.alexa.com/company/contact.html). Alexa does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Toolbar Service. Alexa also does not enable users to delete information, including usage path, shopping, and demographic information.
+You can inform us of a change in the e-mail address or demographic information you provide us by [contacting us](https://web.archive.org/site/company/contact). Alexa does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Toolbar Service. Alexa also does not enable users to delete information, including usage path, shopping, and demographic information.
 
-If you do not want to receive Alexa newsletters, offers, and product and service information, simply [contact us](http://pages.alexa.com/company/contact.html) and be sure to _include the e-mail address_ where such information is being sent, and state that you no longer want to receive Alexa information and updates.
+If you do not want to receive Alexa newsletters, offers, and product and service information, simply [contact us](https://web.archive.org/site/company/contact) and be sure to _include the e-mail address_ where such information is being sent, and state that you no longer want to receive Alexa information and updates.
 
-To submit requests to change or remove website owner contact information, follow the instructions on the following form: [Change Contact Information Form](http://www.alexa.com/data/details/editor?type=contact), or [contact us](http://pages.alexa.com/company/contact.html). Please note that it can take up to 6 weeks for approved requests to be implemented in Alexa's Toolbar Service or website.
+To submit requests to change or remove website owner contact information, follow the instructions on the following form: [Change Contact Information Form](http://www.alexa.com/data/details/editor?type=contact), or [contact us](https://web.archive.org/site/company/contact). Please note that it can take up to 6 weeks for approved requests to be implemented in Alexa's Toolbar Service or website.
 
 **_Glossary of Terms_**
 
@@ -151,7 +153,7 @@ An Internet Protocol ("IP") address is a set of numbers that is automatically as
 
 **_Domain Name_**
 
-A domain name identifies one or more IP addresses. Domain names are used in URLs to identify particular Web pages. For example, in the URL http://pages.alexa.com/company/index.html, the domain name is alexa.com.
+A domain name identifies one or more IP addresses. Domain names are used in URLs to identify particular Web pages. For example, in the URL http://www.alexa.com/site/company, the domain name is alexa.com.
 
 **_Cookies_**
 
