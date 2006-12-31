@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015321id_/http%3A//barbequesgalore.com.au/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231131355id_/http%3A//barbequesgalore.com.au/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Barbeques Galore | Good Times Galore
 
 This privacy policy has been provided for your reference and records.  
   
   
-[](http://www.barbecuesgalore.com.au/misc/disclaimer.aspx "Absoulte Zero Deal")
+[](https://web.archive.org/images/2006_Recipes.pdf "Christmas Recipes")
 
 This privacy statement applies to your use of the Barbeques Galore (Aust) Pty Ltd website at www.barbequesgalore.com.au.
 
@@ -45,4 +45,4 @@ The website statistics for this site are generated from web logs as outlined abo
 Upon clearing your browser values the session cookie set by this website is destroyed and no personal information is maintained which might identify you should you visit our website at a later date.
 
 Contact This Office  
-This site is governed by this privacy policy, if you have any queries, please [contact us here](https://web.archive.org/web/20060616015321id_/http%3A//barbequesgalore.com.au/contactus/general.aspx).
+This site is governed by this privacy policy, if you have any queries, please [contact us here](https://web.archive.org/web/20061231131355id_/http%3A//barbequesgalore.com.au/contactus/general.aspx).
