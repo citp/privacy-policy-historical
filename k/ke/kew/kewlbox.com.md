@@ -1,22 +1,16 @@
-> *The following text is extracted and transformed from the kewlbox.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230071147id_/http%3A//www.kewlbox.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kewlbox.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231081113id_/http%3A//kewlbox.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# Kewlbox.com :: Help :: Privacy Statement
+# Kewlbox -
 
-|  |  Kewlbox Privacy Statement
+At Blockdot, Inc.. ("Blockdot"), we respect your right to privacy and we understand that visitors to Blockdot Sites need to control the uses of their personal information. The privacy policy below details the measures taken by Blockdot to protect your privacy in connection with your use of [ www.kewlbox.com](http://www.kewlbox.com/), [www.blockdot.com](http://www.blockdot.com/), and other sites owned and operated by Blockdot ("Blockdot Sites"). Blockdot does not intend to collect any personal information from children under 13 unless Blockdot believes such collection to be permitted by law; please read below for Blockdot's policy with respect to children under 13.
 
-At Blockdot, Inc.. ("Blockdot"), we respect your right to privacy and we understand that visitors to Blockdot Sites need to control the uses of their personal information. The privacy policy below details the measures taken by Blockdot to protect your privacy in connection with your use of [www.kewlbox.com](http://www.kewlbox.com/), [www.blockdot.com](http://www.blockdot.com/), and other sites owned and operated by Blockdot ("Blockdot Sites"). Blockdot does not intend to collect any personal information from children under 13 unless Blockdot believes such collection to be permitted by law; please read below for Blockdot's policy with respect to children under 13. 
-
-* * *
-
-**_How is my personally identifiable information used by Blockdot?_**
+**HOW IS MY PERSONALLY IDENTIFIABLE INFORMATION USED BY BLOCKDOT?**
 
 **Customized experience.** Blockdot gathers user information to provide you with a customized experience on our sites. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you post high scores, write reviews, download free software, enter a contest, order products, subscribe to a newsletter and/or visit certain areas of an Blockdot site. If you choose not to register you may not have access to areas that require personal identification. 
 
-**E-mail.** If you register with our site or purchase products from us, from time to time we may e-mail you with messages about our services or third party products and services we believe may be of interest to you, such as new products, features, services, special offers and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the email was opened and/or what links (if any) were clicked. We will combine that information with other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. In addition, if you register with a Blockdot site or purchase products you may automatically receive emails confirming your registration and/or purchase and providing you with necessary information relating to the access or use of your registration and/or purchase. With the exception of the emails described in the preceding sentence which are necessary to provide customer support and deliver products and services to you, you may opt-out of receiving email from us as described below under "What are my options to control the use of my personally identifiable information?". 
+**E-mail.** If you register with our site or purchase products from us, from time to time we may e-mail you with messages about our services or third party products and services we believe may be of interest to you, such as new products, features, services, special offers and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the email was opened and/or what links (if any) were clicked. We will combine that information with other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. In addition, if you register with a Blockdot site or purchase products you may automatically receive emails confirming your registration and/or purchase and providing you with necessary information relating to the access or use of your registration and/or purchase. With the exception of the emails described in the preceding sentence which are necessary to provide customer support and deliver products and services to you, you may opt-out of receiving email from us as described below under "What are my options to control the use of my personally identifiable information?".
 
-* * *
-
-**_When does Blockdot collect my information, including personally identifiable information?_**
+**WHEN DOES BLOCKDOT COLLECT MY INFORMATION, INCLUDING PERSONALLY IDENTIFIABLE INFORMATION?**
 
 **Registration.** When you register, Blockdot asks for your e-mail address, a user selected user name, and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information (e.g. a member name, a nickname, and certain user preferences). (Blockdot's policy with respect to children under 13 is below)
 
@@ -30,16 +24,16 @@ At Blockdot, Inc.. ("Blockdot"), we respect your right to privacy and we underst
 
 **Banner Advertisements.** We use various outside companies to serve advertisements on our site. In the process of serving advertisements, the ad serving companies place a cookie in your browser's cookie file and may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other Web sites about goods and services that may be of interest to you. By delivering ads on the Blockdot Sites, the ad server is able to record what ads a user -- identified by the unique cookie -- has seen, and what Blockdot site pages the user was viewing when the ads were delivered. This Web usage information is combined with other ad delivery information the ad server has collected from your visits to Blockdot Sites and other sites not affiliated with Blockdot. This non-personally identifiable information is used as part of the ad serving process for reporting and to select and direct the ads you see online at Blockdot Sites and other sites not affiliated with Blockdot. Unlike the cookies Blockdot uses in other parts of our site, cookies received with banner ads are collected by Falk NA and we do not have access to this information. Additionally, some ads served by Blockdot ad system are generated by third party ad serving systems that also may place a cookie on your browser to provide web usage information to those third parties. To find out more about those specific third party ad serving systems, please click to their sites below: 
 
-  * Accipiter 
-  * Advertising.com 
-  * DoubleClick 
-  * Eyeblaster 
-  * Lycos UK 
-  * Traffic Market Place 
-  * Tribal Fusion 
-  * Unicast 
-  * United Virtualities 
-  * ValueClick 
+  * Accipiter
+  * Advertising.com
+  * DoubleClick
+  * Eyeblaster
+  * Lycos UK
+  * Traffic Market Place
+  * Tribal Fusion
+  * Unicast
+  * United Virtualities
+  * ValueClick
   * 24/7 Real Media
 
 
@@ -50,11 +44,9 @@ At Blockdot, Inc.. ("Blockdot"), we respect your right to privacy and we underst
 
 **Information from Other Sources.** For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs (see the "Web Logs" section below) and add it to the information that we have received from you. 
 
-**Web Logs.** Web logs automatically record anything a web server sees, which may include email addresses you enter into a form or pages viewed by a user at a particular IP address. If you are not a registered user of a Blockdot Site or if you have elected to Opt-Out of receiving email from us, we will not use the information from web logs to market to you. If you are a registered user of a Blockdot Site and have not elected to Opt-Out of receiving email from Blockdot, we may use web log information about your use of the Blockdot Sites in order to inform you about content, products, or services in accordance with your email options. 
+**Web Logs.** Web logs automatically record anything a web server sees, which may include email addresses you enter into a form or pages viewed by a user at a particular IP address. If you are not a registered user of a Blockdot Site or if you have elected to Opt-Out of receiving email from us, we will not use the information from web logs to market to you. If you are a registered user of a Blockdot Site and have not elected to Opt-Out of receiving email from Blockdot, we may use web log information about your use of the Blockdot Sites in order to inform you about content, products, or services in accordance with your email options.
 
-* * *
-
-**_Who does Blockdot share information with?_**
+**WHO DOES BLOCKDOT SHARE INFORMATION WITH?**
 
 We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this Privacy Statement. As stated, and whether or not you have opted-in, Blockdot may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on Blockdot's behalf. In addition, if you Opt-Out, as discussed below, we may share that information with third parties who send emails on our behalf so that they do not email you. 
 
@@ -62,63 +54,38 @@ However, Blockdot may disclose information you provide if required to do so by l
 
 We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
 
-In the event that Blockdot is acquired by another company, your personal information may be part of the assets transferred to the acquiring party. 
+In the event that Blockdot is acquired by another company, your personal information may be part of the assets transferred to the acquiring party.
 
-* * *
+**WHAT ARE MY OPTIONS TO CONTROL THE USE OF MY PERSONALLY IDENTIFIABLE INFORMATION?**
 
-**_What are my options to control the use of my personally identifiable information?_**
+If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information from Blockdot, including information about selected third parties. If you do not want to receive information from Blockdot, you may decline to receive it (or "Opt-Out") either when you provide personal information to Blockdot or you may [sign in](https://web.archive.org/login.aspx) and update your profile (or complete our E-mail form at [ http://www.kewlbox.com/help/contact.aspx](http://www.kewlbox.com/help/contact.aspx)) You may also choose to Opt-Out from certain types of email by following the unsubscribe instructions that appear on each newsletter. You may also contact Blockdot by postal mail at the address below. Note that you might be signed up for multiple email preferences (e.g., Kewlbox.com and IGottaPlay.com, etc.), and you should be sure that you unsubscribe only from the ones you no longer want to receive. Please note that there might be a brief delay between when you submit your request to Opt-Out and when it is processed and reflected in our systems; accordingly you might continue to receive emails from us for a few days after you unsubscribe. We maintain records of those users who Opt-Out of specific email options so that we do not email them with respect to those types of emails and we may share this information with third parties who send emails on our behalf so that they do not email you; this information may also be contained in web logs (see above).
 
-If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information from Blockdot, including information about selected third parties. If you do not want to receive information from Blockdot, you may decline to receive it (or "Opt-Out") either when you provide personal information to Blockdot or you may [sign in](https://web.archive.org/profile/login.cfm) and update your profile (or complete our E-mail form at <http://www.kewlbox.com/corp/contact.cfm>) You may also choose to Opt-Out from certain types of email by following the unsubscribe instructions that appear on each newsletter. You may also contact Blockdot by postal mail at the address below. Note that you might be signed up for multiple email preferences (e.g.,Kewlbox.com and IGottaPlay.com, etc.), and you should be sure that you unsubscribe only from the ones you no longer want to receive. Please note that there might be a brief delay between when you submit your request to Opt-Out and when it is processed and reflected in our systems; accordingly you might continue to receive emails from us for a few days after you unsubscribe. We maintain records of those users who Opt-Out of specific email options so that we do not email them with respect to those types of emails and we may share this information with third parties who send emails on our behalf so that they do not email you; this information may also be contained in web logs (see above). 
-
-* * *
-
-**_What about kids' personally identifiable information?_**
+**WHAT ABOUT KIDS' PERSONALLY IDENTIFIABLE INFORMATION?**
 
 The Blockdot Sites are general audience sites and are not directed to children under the age of 13. Blockdot assumes products purchased through credit card means are purchased by adults. Blockdot respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, Blockdot does not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where Blockdot believes that such collection is permitted under COPPA. 
 
 If a parent believes that his or her child has submitted personal information to Blockdot, he or she can contact us via e-mail or postal mail as listed below. Blockdot will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after Blockdot deletes the information from its active database (see the Web Logs paragraph above, and the Archived Information paragraph below). 
 
-Blockdot believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission. 
+Blockdot believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
 
-* * *
-
-**_What else should I know about my privacy?_**
+**WHAT ELSE SHOULD I KNOW ABOUT MY PRIVACY?**
 
 **Security.** Blockdot has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. 
 
 **Chat Rooms and Other Public Areas.** Blockdot may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by Blockdot's Terms of Service. You should take care to not use personal information in your screen name or other information that might be publicly available to other users. 
 
-**Tell a Friend.** If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and email address. Blockdot will automatically send the friend a one-time email inviting them to visit an Blockdot Site. Blockdot stores this information for the sole purpose of sending this one-time email. 
+**Tell a Friend.** If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and email address. Blockdot will automatically send the friend a one-time email inviting them to visit an Blockdot Site. Blockdot stores this information for the sole purpose of sending this one-time email.
 
 Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with Blockdot in order to prevent others from accessing your personal information. 
 
 **Archived Information.** Blockdot maintains archives of its web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after Blockdot deletes the information from its active database (see the Web Logs paragraph above). Blockdot maintains archives for disaster recovery, legal and other non-marketing purposes. 
 
-* * *
+**How can I update my account information?** You can help Blockdot maintain the accuracy of your profile by notifying us when you change your e-mail address or related information. If at any time you wish to update your information or stop receiving communication from Blockdot, sign in and then select 'update your profile' to change your newsletter preferences.
 
-**_How can I update my Profile?_**
+**CONTACTING BLOCKDOT**  
+Blockdot would like to receive your comments and questions about this Privacy Statement. Please address comments or questions regarding Blockdot's Privacy Statement to us via e-mail or postal mail. Our e-mail and postal address can found on [our contact page](https://web.archive.org/help/contact.aspx).
 
-You can help Blockdot maintain the accuracy of your profile by notifying us when you change your e-mail address or related information. If at any time you wish to update your information or stop receiving communication from Blockdot, sign in and then select 'update your profile' to change your newsletter preferences. 
+**ACCEPTANCE OF PRIVACY STATEMENT**  
+Your use of the Blockdot Sites, including any dispute concerning privacy, is subject to this Privacy Statement and Blockdot's Terms and Conditions of Use. **By using the Blockdot Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use.** We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Blockdot Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes.
 
-* * *
-
-**_Contacting Blockdot._**  
-Blockdot would like to receive your comments and questions about this Privacy Statement. Please address comments or questions regarding Blockdot's Privacy Statement to us via e-mail or postal mail. 
-
-You can complete our e-mail form at: <http://www.blockdot.com/contact/email_us.cfm>
-
-You may also contact Blockdot by mail at: 
-
-Blockdot, Inc.. Attn: Kewlbox Privacy 4153 Commerce Street Dallas, TX 75226 USA 
-
-* * *
-
-**_Acceptance of Privacy Statement._**
-
-Your use of the Blockdot Sites, including any dispute concerning privacy, is subject to this Privacy Statement and Blockdot's Terms and Conditions of Use. 
-
-_By using the Blockdot Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use._
-
-We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Blockdot Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes. 
-
-| 
+Last updated on September 22, 2006. 
