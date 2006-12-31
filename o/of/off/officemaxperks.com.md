@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the officemaxperks.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616160934id_/http%3A//about.officemax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officemaxperks.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231112058id_/http%3A//about.officemax.com/privacy) for the most accurate reproduction.*
 
 # OfficeMax - Privacy Policy
 
-|  |   | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/index.shtml) |   
+|  |   | [](https://web.archive.org/web/20061231112058id_/http%3A//html/index.shtml) |   
 ---|---|---  
   
-| [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_who_we_are.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_market_serve.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_commitments.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_news.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_investors.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_vendors.shtml) | [](http://jobsearch.officemax.careers.monster.com/)  
+| [](https://web.archive.org/web/20061231112058id_/http%3A//html/officemax_who_we_are.shtml) | [](https://web.archive.org/web/20061231112058id_/http%3A//html/officemax_market_serve.shtml) | [](https://web.archive.org/web/20061231112058id_/http%3A//html/officemax_commitments.shtml) | [](https://web.archive.org/web/20061231112058id_/http%3A//html/officemax_news.shtml) | [](https://web.archive.org/web/20061231112058id_/http%3A//html/officemax_investors.shtml) | [](https://web.archive.org/web/20061231112058id_/http%3A//html/officemax_vendors.shtml) | [](http://jobsearch.officemax.careers.monster.com/)  
 ---|---|---|---|---|---|---  
 |  |  |  |  |  |   
   
@@ -75,12 +75,8 @@ Customers can access this information by calling us at the number provided below
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving customer data exchanged with our site. When we transfer and receive certain types of sensitive information, such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. If you feel that this site is not following its stated information policy, you may contact us at the below addresses or phone number.  
 How do I contact OfficeMax:  
 OfficeMax Corporate Headquarters  
-150 East Pierce Road  
-Itasca, IL 60143
-
-OfficeMax Retail Headquarters  
-3605 Warrensville Center Road  
-Shaker Heights, OH 44122
+263 Shuman Blvd.  
+Naperville, IL 60563
 
 We can also be reached at 1-800-283-7674 or by email at [online@officemax.com](mailto:online@officemax.com).  
   
