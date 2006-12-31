@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026080927id_/http%3A//unitedrentals.com/index.php/notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2007-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070101003314id_/http%3A//www.unitedrentals.com/index.php/notices/privacy) for the most accurate reproduction.*
 
 # United Rentals - Privacy Policy
 
