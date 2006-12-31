@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wi-fiplanet.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614082401id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-fiplanet.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231111009id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
+
+[](http://www.jupitermedia.com/RealMedia/ads/click_lx.cgi/intm/www.jupitermedia.com/corporate/privacy/privacypolicy.html/1862418086/336x280/OasDefault/MS_SmallBiz_SW_GEMS_1gex/MS_OA_Red_300x250.gif/34306430616362323435393739613930)
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the JUPM Network. The "JUPM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia Corporation and each of its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Hemera Technologies Inc., PictureArts Corporation, Goodshoot SAS, and the Dynamic Graphics Group as linked directly or indirectly from the Jupitermedia.com (collectively the "Site") home page (collectively hereafter "JUPM"). By accessing the JUPM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
 
