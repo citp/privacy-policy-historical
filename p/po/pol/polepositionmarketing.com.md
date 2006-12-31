@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060652id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231120739id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Pole Position Marketing Privacy Policy
 
 **Privacy**
 
-This privacy policy covers the site http://www.polepositionmarketing.com, http://www.emarketingperformance.com, and http://www.pole-position-directory.com. Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information.
+This privacy policy covers the site http://www.polepositionmarketing.com, http://www.emarketingperformance.com, and http://www.pole-position-directory.com. Because we want to demonstrate our commitment to our users' privacy, we disclose the following information.
 
   * What personally identifiable information Pole Position Marketing collects.
-  * What personally identifiable information third parties collect through the Web site. 
+  * What personally identifiable information third parties collect through the Website. 
   * What organization collects the information. 
   * How Pole Position Marketing uses the information. 
   * With whom Pole Position Marketing may share user information. 
@@ -19,7 +19,7 @@ This privacy policy covers the site http://www.polepositionmarketing.com, http:/
 
 **Information Collection and Use**
 
-Pole Position Marketing is the sole owner of the information collected on our web site. Pole Position Marketing collects information at several different points on our Web site.
+Pole Position Marketing is the sole owner of the information collected on our website. Pole Position Marketing collects information at several different points on our Website.
 
 Non-personal clickstream information is collected about all users for the purpose of general tracking of web traffic to our site. Additional personal information is collected through an optional website form when prospective customers request information a Users have the option to participate in this activity for the purpose of contacting by email or regular mail. A user must provide the clickstream information (internet protocol address, internet service provider, platform type, date/time stamp, operating system), http protocol information (last uri requested and browser type), interaction information (browser interaction such as when the mouse moves over an image), computer information (computer and browser information), state management mechanisms (data allowing a user to be tracked consistently), search terms (search text), user's name, user's employer, user's business contact information, business/organization name and contact information for the business/organization. It is optional for the user to provide User's Name, User's Employer, User's Business Contact Information, Business/Organization Name and Contact Information for the Business/Organization. We encourage users to provide optional information so we can provide a more personalized experience on our site. The reason we use this information is to complete the current transaction, contact by email or regular mail, enhance our site and product offerings and maintain and secure our site. We retain this information for an indeterminate period of time. 
 
@@ -46,7 +46,7 @@ When customers provide us contact information for Website (user participation is
 **Sharing Information**
 
 Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
 
 Personally Identifiable Information  
 Personally identifiable information is not shared with any third parties.
@@ -64,7 +64,7 @@ If a user's personally identifiable information changes (such as zip code, phone
 
 **Links and Advertisements**
 
-Our website contains links to other sites. We do not partner with or have special relationships with any ad server companies. We, Pole Position Marketing, are not responsible for the privacy practices or the content of any other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Our website contains links to other sites. We do not partner with or have special relationships with any ad server companies. We, Pole Position Marketing, are not responsible for the privacy practices or the content of any other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
 
 **Changes to the Privacy Statement**
 
@@ -85,7 +85,24 @@ If you think we have not followed our privacy policy in some way, it can be reso
 
 Pole Position Marketing Customer Service 
 
-Let us meet your total online marketing needs, [contact us for a free consultation](http://www.polepositionmarketing.com/contact-us.php) today.  
+[ ](http://www.bbbonline.org/cks.asp?id=10406241255542076%20)
+
+[](http://www.polepositionmarketing.com/contact-us.php)
+
+  
 
 
-#### _What are Your Marketing Goals?_
+  
+
+
+### Testimonial
+
+The VP of a top SEO firm called me about a month ago to tell me that she had done a webposition on our site and was amazed at how much better the site was doing on the search engines. When I told her that indeed it had **improved greatly since I went with Pole Position Marketing** she said "Oh, you're not with us anymore? Well congratulations on the site improvement." (Click!) They use to use me as a reference and I have been recommending your company to the people that have called.
+
+[read more  
+stats & testimonials](http://www.polepositionmarketing.com/testimonials.php)
+
+[](http://www.emarketingperformance.com/)  
+Marketing Blog Headlines [Google-Mining](http://www.emarketingperformance.com/:/1038/search-engines/google/google-mining/) [The Lazy Week](http://www.emarketingperformance.com/:/1037/search-marketing/the-lazy-week/) [Just Added MyBlogLog to EMP](http://www.emarketingperformance.com/:/1035/search-marketing/just-added-mybloglog-to-emp/) [more...](http://www.emarketingperformance.com/)
+
+[](http://www.sherpastore.com/Buyers-Guides-SEO-PPC.html?8907)Featured in the 2007 Buyer's Guide to SEO & PPC Firms.
