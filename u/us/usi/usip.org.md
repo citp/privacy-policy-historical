@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627213014id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231053554id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
 
 # About USIP: Privacy Policy: United States Institute of Peace
 
@@ -34,4 +34,4 @@ Receive notices of USIP publications, events, and more via e-mail.
 
 [](https://web.archive.org/events/podcast.rss)  [Subscribe](https://web.archive.org/events/podcast.rss) | [About](https://web.archive.org/podcasting.html)
 
-[](https://web.archive.org/headlines.rss)  [Subscribe](https://web.archive.org/headlines.rss) | [About](https://web.archive.org/rss_feed.html)
+[](feed://www.usip.org/headlines.rss)  [Subscribe](feed://www.usip.org/headlines.rss "Subscribe to United States Institute of Peace") | [About](https://web.archive.org/rss_feed.html)
