@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623013045id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231013846id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
 
 # Lyrics Depot - Privacy
 
