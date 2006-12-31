@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the homes.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115455id_/http%3A//corporate.homes.com/privacy.cfm) for the most accurate reproduction.*
 
-# Homes.com - Privacy
+# Privacy Policy
 
-[ ](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/index.html)
-
-| **Browse our....**  
----  
-[**Products**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/products/index.html)  
-[**Services**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/services/index.html)  
-[**Downloads**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/downloads/index.html)  
-[**Technology**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/technology/index.html)  
-[**Investor Relations**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/investors/index.html)  
-[**Customer Service**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/customer_service/index.html)  
-[**Partnership Opportunities**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/partner_opps/index.html)  
-[**Press Room**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/press/index.html)  
-[**Career Opportunities**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/careers/index.html)  
-[**Advertising Opportunities**](https://web.archive.org/web/20021129062534id_/http%3A//corporate.homes.com/major/advertising_opps/index.html)  
-[**Contact Homes.com**](https://web.archive.org/major/contact/index.cfm?SubjectMatter=comments)  
-  
-  | ************
-
-### Homes.com Privacy Policy
+## Homes.com Privacy Policy
 
 **Your Privacy is Important!**
 
@@ -108,10 +90,8 @@ You may edit your personally identifiable information on Homes.com by accessing 
 
 You can also deactivate your account at any time, again using the Preferences section of your personalization account.  However, doing so will prevent you from accessing all personalized Homes.com services.
 
-If you have forgotten your Homes.com password, [click here](http://www.homes.com/My/EmailReminder.cfm) for a reminder or to request a new one. 
+If you have forgotten your Homes.com password, [click here](http://www.homes.com/My/EmailReminder.cfm) for a reminder or to request a new one.
 
 **How does Homes.com protect my sensitive financial information, such as credit card numbers?**
 
 There are several areas on Homes.com that require sensitive financial and personal information to complete a transaction.  This includes mortgage services involving personal finances, product transactions requiring credit cards, and more.  Any time we ask for sensitive information like a credit card number, such information will be transmitted using industry-standard, secure socket layer (SSL) encryption.
-
-|   
