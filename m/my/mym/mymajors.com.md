@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymajors.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623174818id_/http%3A//www.mymajors.com/static/privacystatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymajors.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231213113id_/http%3A//www.mymajors.com/static/privacystatement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,4 +32,4 @@ Upon request, any information you enter can be deleted from our database.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-[info@MyMajors.com](mailto:info@MyMajors.com)
+[MyMajors@gbis.com](mailto:MyMajors@gbis.com)
