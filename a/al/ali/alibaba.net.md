@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibaba.net privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225015519id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231125513id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Alibaba.com - Import Export Trade Leads
 
@@ -49,7 +49,7 @@ We reserve the right to disclose your Collected Information to relevant authorit
 
 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User¡¯s Collected Information in order to pursue our claim or prevent further injury to Alibaba or others.
+If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Alibaba or others.
 
   
 
