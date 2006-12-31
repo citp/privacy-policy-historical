@@ -1,25 +1,49 @@
-> *The following text is extracted and transformed from the mingleville.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417225234id_/http%3A//www.mingleville.com/p-privacy_info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingleville.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231131402id_/http%3A//www.mingleville.com/p-privacy_info.html) for the most accurate reproduction.*
 
 # MingleVille.com :: Privacy Policy
 
-All information you disclose with us is stored securely on our servers which are currently located in New York, United States. You may not provide false information to impersonate another person.
+[](https://web.archive.org/x_home.html) | | Population: | 83,755  
+---|---  
+Members Online: | 673  
+Guests Online: | 191  
+  
+| 
 
-When downloading any file or web page from our servers your IP address and browser user-agent information will be logged and recorded for statistical purposes only. This information is only viewable by the MingleVille administrators & moderators.
+MingleVille's Privacy Policy  
+» Here is our privacy policy. If you have any questions regarding your privacy, please [Contact Us](https://web.archive.org/web/20061231131402id_/http%3A//www.mingleville.com/section-contactus_help.html).  
+  
+---|---  
+  
+Data Collection  
+While browsing or downloading from our website, we will log your IP address and browser user-agent information. This is for tracking your session and for statistical purposes only. This information will not be shared with any third-parties and can only be viewed by MingleVille administrators.
 
-We are currently partnered with [Google](http://www.google.com/adsense) to bring 3rd party advertising to our site. Google may collect information such as your IP address and various browser information (user-agent, flash capabilities). You will need to consult their privacy policy for full information.
+We are currently partnered with [Google AdSense](http://www.google.com/adsense) to bring 3rdparty advertising to our site. Google may collect non-identifiable information to such as your IP address and browser information (name, version, media capabilities). You will need to consult their privacy policy for full information.
 
-Upon registration you are required to provide a username and password. This is required to create your own unique identification as a member on MingleVille. Your password is encrypted and stored in our database. It is impossible to decrypt it which means no MingleVille administrator will be able to see it.
+Personal Information  
+For identification purposes we will require the following personal information from you: 
 
-Upon registration you are required to enter your e-mail address. We require this information as it is unique to your account and allows us to contact you if necessary. Changing your [Privacy Settings](https://web.archive.org/web/20060417225234id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html) when logged in will allow you to set various e-mail settings as to how and when we contact you via e-mail.
+\- Your e-mail address so we can send you notifications regarding your account  
+\- Your birthday so we can identify your real age and that you are 16 or older  
+\- Your gender as it is an important element for your account's profile  
+\- Your country as it is an important element for your account's profile  
 
-Upon registration you are required to provide your birthday. This information will not be viewable by the public but is used to determine your age which is viewable by the public. It is required that you are 16 or over to access and register on MingleVille. In the event that you enter a birthday which calculates your age to be under our minimum requirement, a cookie will be set to prevent you accessing our site. This cookie will expire in 30 days time.
 
-Upon registration you are required to provide your sex (gender). This is required as it is a key part of your profile and allows other users to search through our member database for a specific gender.
+By default, your e-mail address will be hidden from other users but you may choose to display or hide it in your [Privacy Settings](https://web.archive.org/web/20061231131402id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html).
 
-Upon registration you are required to provide which country you live in. This is a key part of your profile and allows other users to search through our member database for members located in a specific country.
+If you disclose your real name and what town or city you live in, these will be visible on your profile. Your gender and country will be visible and cannot be hidden.
 
-Upon registration you may provide which town or city you live in. This information is optional and will be viewable by the public, you should exercise caution when deciding to disclose such personal information.
+Published Information  
+Any information you post, disclose or upload on your profile is visible to the public. To limit your audience you may change your [Privacy Settings](https://web.archive.org/web/20061231131402id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html) to prevent guests (users who have not logged in on MingleVille) from viewing any part of your profile. For those who are logged into MingleVille, you may specify a certain age range who can view your profile pages.
 
-All information you enter or select for your [profile](https://web.archive.org/web/20060417225234id_/http%3A//www.mingleville.com/do-profile.cmd-edit_myaccount.html) is optional and will be viewable by the public, you should exercise caution when deciding to disclose any personal information.
+You should exercise caution when deciding what personal information you wish to be publicly viewable. Anybody can download your pictures or videos from your profile. MingleVille will not be held responsible for any misuse of your personal information, pictures or videos by another person.
 
-All posts that you make in the [groups](https://web.archive.org/web/20060417225234id_/http%3A//www.mingleville.com/x_groups.html) are viewable to only members that are logged in. With the exception of the "Confessions Anonymous" group, all your posts will have your username displayed with them. Any posts you make the "Confessions Anonymous" group will be absolutely anonymous. In no way is your username or user id recorded with your posts.
+Cookies  
+MingleVille uses cookies to keep track of your session. Your settings should allow cookies to be set or you may experience problems with keeping logged in on our site.
+
+When logging in, you may tick the checkbox to automatically log you in every time you visit our site. This will create a cookie which will store some of your account data to allow you to login automatically. This feature should not be used on a shared computer. Simply [Logout](https://web.archive.org/web/20061231131402id_/http%3A//www.mingleville.com/x_logout.html) to clear this cookie and prevent being logged in automatically.
+
+3rdparty Content  
+MingleVille is not responsible for the content or practices of any other websites which may link to through advertisements or links members have posted.
+
+Contact Us  
+You may contact us at any time. Please go to our [Contact Us](https://web.archive.org/web/20061231131402id_/http%3A//www.mingleville.com/section-contactus_help.html) page to see what current contact methods we have available. 
