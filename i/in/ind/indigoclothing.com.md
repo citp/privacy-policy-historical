@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigoclothing.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629053854id_/http%3A//www.indigoclothing.com/info_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigoclothing.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231221137id_/http%3A//www.indigoclothing.com/info_privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Indigo Clothing
 
@@ -14,7 +14,7 @@ When you place an order or request a quote we need to know your name, e-mail add
 
 Your telephone number is also collected in case we need to contact you urgently if there is a problem with your order.
 
-We may also use the order details to occasionally notify you about changes to the website, new services and special offers we think you may find useful. You can opt out by visiting the [newsletter section ](http://www.indigoclothing.com/info_newsletter.shtml)of the website or by [contacting us](https://web.archive.org/web/20060629053854id_/http%3A//www.indigoclothing.com/info_contact.shtml).
+We may also use the order details to occasionally notify you about changes to the website, new services and special offers we think you may find useful. You can opt out by visiting the [newsletter section ](http://www.indigoclothing.com/info_newsletter.shtml)of the website or by [contacting us](https://web.archive.org/web/20061231221137id_/http%3A//www.indigoclothing.com/info_contact.shtml).
 
 We do not sell, trade, rent or otherwise pass your personal details to any third party.
 
