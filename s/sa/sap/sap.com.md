@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230221id_/http%3A//www.sap.com/company/legal/privacy.epx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231212412id_/http%3A//www.sap.com/company/legal/privacy.epx) for the most accurate reproduction.*
 
 # SAP - SAP Privacy Statement
 
@@ -64,7 +64,7 @@ If you have any questions about this privacy statement -- if, for example, you w
 
 Webmaster  
 SAP AG  
-Neurottstrasse 16  
+Dietmar-Hopp-Allee 16  
 69190 Walldorf  
 Germany
 
