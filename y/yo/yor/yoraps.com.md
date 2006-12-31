@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623105240id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231172255id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
 
 # Yo! Raps Magazine - The Timless Return Of Rhyme In Hip Hip, RnB, Soul And Rap
-
-|   
-  
----  
-  
-| » PRIVACY POLICY   
----  
-  
-Yo! Raps is committed to respecting our users privacy. Our purpose in collecting information from you is to provide you with a better service. 
 
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
 
@@ -27,31 +18,14 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
 
 
 
-If you have any concerns or questions about our privacy policy or information collected on our sites, please contact us at [**info@yoraps.com**](mailto:info@yoraps.com)  
-  
-   
-» DISCLAIMER   
-  
+Your use of Yoraps.com is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of Yoraps.com. By using Yoraps.com , you agree to abide by this Privacy Policy. 
+
+If you have any concerns or questions about our privacy policy or information collected on our sites, please contact us.
+
+| 
+
 Yo! Raps takes no responsibility or liability for any errors or inaccuracies on any page of the Yo! Raps site. 
 
 We endeavor to provide accurate information relating to each link provided (including those linked to from text, banner or button advertisements), but as linked sites are regularly updated we cannot accept responsibility for inaccurate descriptions or any of their content. 
 
-Any logos or other copyrighted material used within the site are for the purpose of providing the end-user with relevant information and are not considered to be the intellectual property of Yo! Raps. If you are the copyright holder of any material used and would like it removed, email us with the details.   
-  
-| 
-
-MAILING LIST   
-  
----  
-  
-ADVERTISING  
-  
-** | 
-
-[](http://www.yoraps.com/advertising.php)  
-  
----  
-  
-[](http://www.stronghouserecords.com/shop/product_info.php?products_id=638&osCsid=05517b7564b9de2fd026b5780da0f06c)  
-  
-**
+Any logos or other copyrighted material used within the site are for the purpose of providing the end-user with relevant information and are not considered to be the intellectual property of Yo! Raps. If you are the copyright holder of any material used and would like it removed, email us with the details. 
