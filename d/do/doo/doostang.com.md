@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Doostang.com - Privacy policy
 
-|  |  | [](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/index.asp) |  [](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/about.asp) [](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/howdoyoudoo_.asp) [](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/success_stories.asp)  
+|  |  |  |   |  [](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/about_.asp) [](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/howdoyoudoo_.asp) [](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/success_stories6.asp) [](http://blog.doostang.com/)  
 ---|---  
    
-|    
+|  Privacy policy  
+  
+  
 ---  
-Privacy policy  
   
 Doostang, Inc., - Privacy Policy
 
@@ -52,10 +53,10 @@ Contents
 
 4\. **Who Does the Company Share My Information With?**
 
-  * Your privacy is of utmost importance us. We therefore do not sell, rent or give access to your personal information to third parties for their marketing purposes without your prior consent. 
-  * However, the Company may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on the Company; (2) protect and defend the rights or property of the Company; or (3) act in an emergency to protect someone's safety. 
-  * We may gather demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we specifically ask for your permission at the time of collection of such data. 
-  * As we develop our business, we may buy or sell assets, and, depending upon the transaction, your personal information may be one of the transferred assets. In the event that Company is acquired by another company, your personal information may be part of the assets transferred to the acquiring party. 
+  * Your privacy is of utmost importance us. We therefore do not sell, rent or give access to your personal information to third parties for any purposes. 
+  * However, the Company may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on the Company; (2) act in an emergency to protect someone's safety. 
+  * We may gather demographic information from you (for example, your age, education level etc.) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we specifically ask for your permission at the time of collection of such data. 
+  * In the event that Company is acquired by another company, your personal information may be part of the assets transferred to the acquiring party. 
 
 
 
@@ -88,11 +89,11 @@ Palo Alto, CA 94301
 
 8\. **Acceptance of Privacy Policy**
 
-  * Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company's [Terms and Conditions](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/termsandconditions.asp) of Use. By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+  * Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company's [Terms and Conditions](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/termsandconditions.asp) of Use. By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
   
   
-|    
+|   
 ---  
-Copyright © 2006 Doostang, Inc.   All rights reserved. [Terms of service](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/termsandconditions.asp), [Privacy Policy](https://web.archive.org/web/20060616153836id_/http%3A//www.doostang.com/privacypolicy.asp)  
+Copyright © 2006 Doostang, Inc.   All rights reserved. [Terms of service](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/termsandconditions.asp), [Privacy Policy](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/privacypolicy.asp)  
 |  | 
