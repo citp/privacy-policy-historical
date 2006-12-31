@@ -1,66 +1,113 @@
-<!--The following is the downloaded HTML source of the taxslayerpro.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615083515id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taxslayerpro.com privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231035222id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="description" content="TaxSlayerPro.com provides professional tax preparation software for electronic filing of your income tax return. Tax preparation of both federal income tax forms and state income tax forms.">
 <meta name="robots" content="index all, follow all">
 <meta name="author" content="TaxSlayerPro.com - professional tax preparation, professional tax software, e file, efile, e-file">
-<meta name="copyright" content="Copyright 2004 TaxSlayerPro.com - All Rights Reserved.">
+<meta name="copyright" content="Copyright 2006 TaxSlayerPro.com - All Rights Reserved.">
 <title>TaxSlayer Pro</title>
 <link href="/stylesheet.css" rel="stylesheet">
 </head>
 <body>
-<div id="header"><a href="/"><img src="/images/taxslayer-pro-tax-software.gif" alt="TaxSlayer Pro Tax Software" width="221" height="110" border="0" align="middle"></a><a href="/" style="padding:0px 30px 0px 0px;">home</a><a href="/support/" style="padding:0px 30px 0px 0px;">support</a><a href="/products.aspx" style="padding:0px 30px 0px 0px;">products</a><a href="/news.aspx" style="padding:0px 30px 0px 0px;">news</a>
+<div id="header"><a href="/default.aspx"><img src="/images/taxslayer-pro-tax-software.gif" alt="TaxSlayer Pro Tax Software" width="221" height="110" border="0" align="middle"></a><a href="/default.aspx" style="padding:0px 30px 0px 0px;">home</a><a href="/support/" style="padding:0px 30px 0px 0px;">support</a><a href="/products.aspx" style="padding:0px 30px 0px 0px;">products</a><a href="/news.aspx" style="padding:0px 30px 0px 0px;">news</a>
   <h1><a href="/order.aspx">order now</a></h1>
 </div>
 <div id="content">
   <div id="sidebar">
-    <h1>My Account:</h1>
-    <table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td>Username:<br>
-          <input id="username" type="text">
-        </td>
-      </tr>
-      <tr>
-        <td>Password:<br>
-          <input id="password" type="password">
-        </td>
-      </tr>
-      <tr>
-        <td><a href="/myaccounttemp.aspx"><img src="/images/taxslayer-pro-login.gif" alt="Login" width="66" height="24" border="0"></a></td>
-      </tr>
-    </tbody></table>
-    <h3> <a href="/myaccounttemp.aspx">Forgot Password?</a> </h3>
-    <h3> <a href="/myaccounttemp.aspx">Click here to enter an Activation Code.</a> </h3>
+    <div id="sidebar_top">
+      
+      <form>
+        <h1>My Account:</h1>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td>Username:<br>
+              <input id="username" type="text">
+            </td>
+          </tr>
+          <tr>
+            <td>Password:<br>
+              <input id="password" type="password">
+            </td>
+          </tr>
+          <tr>
+            <td><a href="javascript: loginMyAccount();"><img src="/images/taxslayer-pro-login.gif" alt="Login" width="66" height="24" border="0"></a></td>
+          </tr>
+        </tbody></table>
+        <h3> <a href="https://secure.rhodesfs.com/pro/myaccount/resetpassword.aspx">Forgot Password?</a> </h3>
+        <h3> <a href="https://secure.rhodesfs.com/pro/myaccount/createusername.aspx">Click here to enter an Activation Code.</a> </h3>
+      </form>
+      
+      
+      <script language="JavaScript" type="text/javascript">
+        <!--
+        var strLoginError = ""
+        var strLoginReturnURL
+
+        if (location.href.indexOf('?') > 0) {
+          strLoginReturnURL = location.href.substr(0, location.href.indexOf('?'));
+        }
+        else {
+          strLoginReturnURL = location.href;
+        }
+
+        if (strLoginError != "") {
+          alert("Your user name or password is incorrect. Try again.");
+          document.forms[0].username.focus();
+        }
+
+        function loginMyAccount() {
+          var strURL
+
+          strURL = "https://secure.rhodesfs.com/pro/myaccount/login.aspx?UserName=" + document.forms[0].username.value + "&Password=" + document.forms[0].password.value + "&ReturnUrl=" + strLoginReturnURL;
+
+          window.open(strURL, "_self");
+        }
+
+        function logoutMyAccount() {
+          var strURL
+
+          // Add this to URL for production: https://secure.rhodesfs.com/pro/
+          strURL = "https://secure.rhodesfs.com/pro/myaccount/logout.aspx?ReturnUrl=" + strLoginReturnURL;
+
+          window.open(strURL, "_self");
+        }
+        // -->
+      </script>
+
+    </div>
+    <div id="sidebar_bottom">
+          <a href="/order.aspx"><img src="/images/dvd-case-2005.gif" alt="Order Today"></a><br><br>
+	  <h2>
+      <a href="https://secure.rhodesfs.com/pro/myaccount/onlineSoftwareManual.aspx"><img src="/images/manualcase2006thumb.jpg" width="87" height="70"></a><br>
+	    <a href="https://secure.rhodesfs.com/pro/myaccount/onlineSoftwareManual.aspx">Order your 2006 TaxSlayer Pro Manual</a>
+	  </h2>
     <br>
-    <h1><a href="/order.aspx"><img src="/images/dvd-case-2005.gif" alt="Order Today"></a></h1>
-    <br>
-    Already paid for 2006?<br>
-    <a href="https://secure.rhodesfs.com/pro/application/01app.aspx">Click here to fill out
-    your application. </a><br>
-    <br>
-    <h1>TaxSlayer Books 2006 Seminars </h1>
-    <h2>3 Dates Available:<br><strong>May 25</strong><br><strong>June 22</strong><br><strong>September 14</strong><br><a href="https://secure.rhodesfs.com/pro/bookkeeping/reg_seminar.aspx">Click here for further details and to register for the seminar.</a> <br>
+	  <h1>TaxSlayer Pro Affiliate Program</h1>
+      <h2><a href="/affiliates">Find out more...</a></h2>
       <br>
-      </h2><h1>Contact Info:</h1>
-      <strong>888-420-1040</strong><br>
-      Para información en Español, por favor llame al 888-420-1040 ext. 279 
-    <h4><img src="/images/efile-income-tax-return-irs-e-file-provider.gif" width="47" height="46"><br>
+      <h2>
+        </h2><h1>Contact Info:</h1>
+        <strong>888-420-1040</strong><br>
+        Para informaciÃ³n en EspaÃ±ol, por favor llame al 888-420-1040 ext. 279
+      
+      <h4>
+        <img src="/images/efile-income-tax-return-irs-e-file-provider.gif" width="47" height="46"><br>
+        <br>
+        ©2006 <br>
+        Rhodes Financial Services, Inc.<br>
+        <a href="/privacy.aspx">Privacy Policy</a> | <a href="/refundpolicy.aspx">Refund Policy</a>
+      </h4>
       <br>
-      ©2006 <br>
-      Rhodes Financial Services, Inc.<br>
-      <a href="/privacy.aspx">Privacy Policy</a> | <a href="/refundpolicy.aspx">Refund Policy</a><br>
-    </h4>
-  </div>
+    </div></div>
   <div align="left">
     <h1>TAXSLAYER PRO PRIVACY POLICY</h1> 
     <p id="article">Purchasing our Products <br>
 The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients.&nbsp;This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number.&nbsp;The forms requesting this information are on a secure server.&nbsp;All steps are taken to safeguard your information. <br>
 <br>
 Sharing Information Within TaxSlayer Corporate Family <br>
-    We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside or corporate family, except as noted below:    <br>
+    We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside our corporate family, except as noted below:    <br>
     <br>
     With Service Providers <br>
     In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.    <br>
@@ -89,5 +136,6 @@ Sharing Information Within TaxSlayer Corporate Family <br>
     
   </div>
 </div>
+
 
 </body></html>
