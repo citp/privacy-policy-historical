@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-calorie-counter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185519id_/http%3A//my-calorie-counter.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-calorie-counter.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231173819id_/http%3A//my-calorie-counter.com/Privacy.asp) for the most accurate reproduction.*
 
 # my-calorie-counter Privacy Policy
 
@@ -23,7 +23,7 @@ This notice applies to all information collected or submitted on the my-calorie-
 On some pages, you can submit information about other people. Our website referral functionality asks for the name and email address of the person whom you are referring our website to. 
 
 **The Way We Use Information**  
-We use the information you provide about yourself only as parameters for the software provided by our website. For example, your height, weight and age are used only by the software to provide helpful functionality such as calculating your BMI or other related calculatoins. We do not share this information with outside parties. 
+We use the information you provide about yourself only as parameters for the software provided by our website. For example, your height, weight and age are used only by the software to provide helpful functionality such as calculating your BMI or other related calculations. We do not share this information with outside parties. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
@@ -45,6 +45,6 @@ You can access all your personally identifiable information that we collect onli
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 1-800-507-2557 or send us an email at info@my-calorie-counter.com. 
+Should you have other questions or concerns about these privacy policies, please call us at 1-800-507-2557 or send us an email at customerservice@my-calorie-counter.com. 
 
 * * *
