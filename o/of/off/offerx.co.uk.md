@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616001109id_/http%3A//www.offerx.co.uk/Documents/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231130958id_/http%3A//offerx.co.uk/Documents/Privacy.aspx) for the most accurate reproduction.*
 
-# OfferX
+# Exercise your brain with the Offerx Quiz
 
 Offerx takes your privacy seriously and takes every reasonable precaution to safeguard the personal information you supply to it 
 
