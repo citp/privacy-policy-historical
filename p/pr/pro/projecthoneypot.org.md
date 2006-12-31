@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projecthoneypot.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001214id_/http%3A//www.projecthoneypot.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecthoneypot.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231155806id_/http%3A//www.projecthoneypot.org/privacy_policy.php) for the most accurate reproduction.*
 
-# Project Honey Pot: Privacy Policy
+# Privacy Policy | Project Honey Pot
 
 ## Project Honey Pot Privacy Policy
 
@@ -34,7 +34,7 @@ From time to time, Unspam may notify you about an offer from one of our promotio
 
 ### THIRD PARTY WEBSITES
 
-The Project Honey Pot website and the other websites owned by Unspam, LLC contain links to the sites of third parties. Please be aware that we are not responsible for the privacy practices of these external sites. We encourage users to be aware when they leave our website, and to read the privacy statements of other websites. We cannot guarantee that these third parties abide by the privacy principles outlined here.
+The Project Honey Pot website and the other websites owned by Unspam Technologies, Inc contain links to the sites of third parties. Please be aware that we are not responsible for the privacy practices of these external sites. We encourage users to be aware when they leave our website, and to read the privacy statements of other websites. We cannot guarantee that these third parties abide by the privacy principles outlined here.
 
 ### COURT ORDERS
 
