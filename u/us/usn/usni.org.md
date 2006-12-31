@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usni.org privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624200615id_/http%3A//www.usni.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usni.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231201145id_/http%3A//www.usni.org/privacy.htm) for the most accurate reproduction.*
 
 # U.S. Naval Institute: Privacy Statement
+
+| 
 
 This Privacy Statement sets forth the information gathering, use, and dissemination practices of the U.S. Naval Institute ("We" or the "Naval Institute") in connection with the World Wide Web Sites located at [www.navalinstitute.org](http://www.navalinstitute.org/) and [www.navalhistory.org](http://www.navalhistory.org/) (the "Sites"). This Privacy Statement addresses our practices regarding information collected only directly through or from the Sites-it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Sites, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
 
@@ -59,4 +61,17 @@ Users of this Sites acknowledge that they are at least 18 years of age.
 
 Access to and Ability to Correct Personal Data
 
-Upon a Site user's request via postal mail or e-mail, we will provide to the user a summary of any personally identifiable information retained by us regarding the user, which information has been voluntarily provided to us through an online form, registration form, survey, or other similar mechanism. A registered user may modify, correct, change or update th
+Upon a Site user's request via postal mail or e-mail, we will provide to the user a summary of any personally identifiable information retained by us regarding the user, which information has been voluntarily provided to us through an online form, registration form, survey, or other similar mechanism. A registered user may modify, correct, change or update their personally identifiable information online with this feature: <https://www.usni.org/accounts/index.asp>, or may contact us via postal mail or e-mail at the addresses or numbers above. 
+
+Right to Amend Privacy Statement
+
+We reserve the right to revise this Privacy Statement from time to time, in our sole discretion. Any changes to this Privacy Statement will be posted to this page as soon as reasonably possible, for at least 60 days. It is the obligation of users visiting the Sites before the change to learn of changes to the Privacy Statement since their last visit. Use of the Naval Institute Web Sites constitutes consent to any Privacy Statement then in effect.
+
+Questions? Please contact us at [privacy@navalinstitute.org](mailto:privacy@navalinstitute.org) or the street address identified near the beginning of this Privacy Statement.
+
+This Privacy Statement is effective 7 March 2005.
+
+back to top
+
+|   
+---|---
