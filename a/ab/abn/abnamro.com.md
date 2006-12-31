@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195444id_/http%3A//www.abnamro.com/com/disclaimer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231164146id_/http%3A//www.abnamro.com/com/disclaimer/privacy.jsp) for the most accurate reproduction.*
 
 # ABN AMRO Privacy Statement
 
@@ -22,7 +22,7 @@ ABN AMRO may gather and analyse information regarding usage of this web site, i
 Please note that this Privacy Statement does not extend to third party sites linked to this web site. 
 
 **How to contact ABN  AMRO**  
-If you have any questions about this Privacy Statement or our data processing activities, you can contact us via: [privacy@nl.abnamro.com](mailto:privacy@nl.abnamro.com) or via regular mail:  
+If you have any questions about this Privacy Statement or our data processing activities, you can contact us via our [contact form](https://web.archive.org/com/contact/contact_general.jsp?subject=6) or via regular mail:  
 ABN AMRO Bank N.V.  
 P.O. Box 283 (AA2823)   
 1000 EA Amsterdam  
