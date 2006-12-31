@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619044338id_/https%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231071611id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
 
 # LinkedIn: Privacy Policy
 
-**Last Updated:March 1, 2006**
+**Last Updated:July 14, 2006**
 
 [](https://web.archive.org/redirect?url=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fivalidate%2Ephp%3Furl%3Dwww%2Elinkedin%2Ecom%26sealid%3D103 "New window will open")
 
@@ -38,7 +38,7 @@ If contacting us does not resolve your complaint, you may raise your complaint w
 ### Information Collection
 
 _Registration:_  
-In order to become a LinkedIn user, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code), a brief summary of your professional background (current occupation & networking objectives), and choose a password.
+In order to become a LinkedIn user, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code, a brief summary of your professional background (current occupation & networking objectives), and choose a password.
 
 _Profile Information:_  
 Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities in the LinkedIn system.
@@ -68,6 +68,8 @@ These general targets may also be used by ad networks to display targeted ads on
 
 You may opt-out of use of Web beacons in LinkedIn pages that you view and of placement of a cookie by ad networks in your browser. To opt-out [click here](https://www.linkedin.com/secure/settings?advt=) and go to the “Advertising” section at the bottom and change the setting there to “No”.
 
+In addition, this Web site uses the technology of DoubleClick Inc. to serve ads only when you visit this site. DoubleClick may use non-personal information, such as your state or zip code, in order to provide advertisements about goods and services that may be of interest to you while you visit this Web site. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by DoubleClick, please [click here](https://web.archive.org/redirect?url=http%3A%2F%2Fwww%2Edoubleclick%2Ecom%2Fus%2Fabout_doubleclick%2Fprivacy%2F "New window will open"). Note that when you opt-out of the DoubleClick cookie a special DoubleClick “opt-out” cookie will replace the DoubleClick Ad cookie. If you ever delete the cookies on your browser you will need to again opt-out of the DoubleClick Ad Cookie.
+
 If you opt-out you will lose the potential benefit of receiving ads that are more targeted to your interests.
 
 _Children:_  
@@ -75,7 +77,7 @@ Children are not eligible to use our service and we ask that minors (under the a
 
 ### Information Use
 
-LinkedIn is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by LinkedIn Corporation from the site (such as, by way of example, patterns of utilization) and is exclusively owned by LinkedIn. This information can be utilized by LinkedIn in such manner as LinkedIn, in its sole discretion, deems appropriate.
+LinkedIn is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by LinkedIn Corporation from the site (such as, by way of example, patterns of utilization) and is exclusively owned by LinkedIn. This information can be utilized by LinkedIn in such manner as LinkedIn, in its sole discretion, deems appropriate.
 
 _LinkedIn Communications:_  
 LinkedIn will communicate with you through email and notices posted on this website. These include a series of up to five welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from LinkedIn related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. LinkedIn may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [customer_service@linkedin.com](mailto:customer_service@linkedin.com).
@@ -88,7 +90,7 @@ Information you provide at registration or in your Profile section is also used 
 _Sharing Information With Third Parties:_  
 LinkedIn takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.
 
-LinkedIn offers a “web profile” feature which allows users to publish portions of their LinkedIn profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature, however LinkedIn does not warrant how third-party search engines will update their cache.
+LinkedIn offers a “public profile” feature which allows users to publish portions of their LinkedIn profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature, however LinkedIn does not warrant how third-party search engines will update their cache.
 
 We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email customer service.
 
@@ -107,7 +109,7 @@ You can review the personal information you provided us and make any desired cha
 
 ### Security
 
-In order to secure your personal information, all communications between you and the LinkedIn website, while logged in, are protected through secure socket layer (SSL) encryption. Additionally, private information like your address or credit card number can be accessed only by providing your password.
+In order to secure your personal information, access to your data on LinkedIn is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and our web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center.
 
 ### Changes to this Privacy Policy
 
@@ -124,6 +126,7 @@ Palo Alto, CA 94303
 
 #### Recent Updates:
 
+  * On July 14, 2006, the “Web Beacons” and “Security” sections were updated.
   * On March 1, 2006, the Policy was updated to reflect current product offerings.
   * On December 21, 2005, TRUSTe links and contact information were updated.
   * On September 9, 2005, the “Web Beacons” section under “Information Collection” was added.
