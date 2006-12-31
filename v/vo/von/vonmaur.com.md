@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonmaur.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507044745id_/http%3A//www.vonmaur.com/Default.aspx%3FPageId%3D12%26nt%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonmaur.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231052716id_/http%3A//www.vonmaur.com/Default.aspx%3FPageId%3D12%26nt%3D9) for the most accurate reproduction.*
 
 # Privacy Policy
 
