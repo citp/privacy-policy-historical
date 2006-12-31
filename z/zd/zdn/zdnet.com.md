@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613023919id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231231223id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
 
 # CNET Networks | Editorial | Privacy Policy
 
@@ -14,7 +14,7 @@ We take your privacy seriously. Because we gather certain types of information a
 **1\. What information does CNET Networks collect?**  
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards.
 
-We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
 
 Once you register with one of our CNET Networks sites you are no longer anonymous to us.
 
@@ -144,4 +144,4 @@ None of the sites within our network is directed to children under the age of 13
 **Questions, Comments**  
 Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
 
-Effective date: September 10, 2005
+Effective date: December 13, 2006
