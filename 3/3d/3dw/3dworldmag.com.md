@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dworldmag.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514080713id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dworldmag.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231054108id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
 # FutureNet - Privacy Policy
 
