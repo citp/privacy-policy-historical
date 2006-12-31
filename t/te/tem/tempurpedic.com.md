@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620144907id_/http%3A//www.tempurpedic.com/tempurcmsvb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231080526id_/http%3A//www.tempurpedic.com/TempurCMSVB/privacy) for the most accurate reproduction.*
 
 # Tempur-Pedic: Privacy Policy
 
@@ -18,4 +18,4 @@ If you agreed to receive email from Tempur-Pedic we will not share your email a
 Tempur-Pedic makes use of browser cookies.  We use cookies to enhance your web viewing experience.  A cookie is a small identifier, similar to a license plate.  It is pieces of data sent by a web server to a web browser that can later be read by that server.  Cookies are used to personalize your viewing experience.  They are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads.  Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you.
 
  **To Contact Us**  
-If you have questions about Tempur-Pedic's web site or privacy policy, please contact us by writing to Tempur-Pedic Direct Response, Inc., 1713 Jaggie Fox Way, Lexington, KY 40511 or call us toll free at 1-800-721-5152.  Or email us at [customer.service@tempurpedic.com](mailto:customer.service@tempurpedic.com).
+If you have questions about Tempur-Pedic's web site or privacy policy, please contact us by writing to Tempur-Pedic North America, Inc., 1713 Jaggie Fox Way, Lexington, KY 40511 or call us toll free at 1-800-721-5152.  Or email us at [customer.service@tempurpedic.com](mailto:customer.service@tempurpedic.com).
