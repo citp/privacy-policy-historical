@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkstate.edu privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626052048id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkstate.edu privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231053408id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
 
 # Stark State College Privacy Policy Statement
 
@@ -19,21 +19,22 @@ We collect only the domain name, aggregate information on what pages users acces
 
 The information we collect is used to improve the content of our Web site and for College marketing purposes. The information IS NOT shared with other organizations for any purposes.
 
-Student information entered in the on-line admissions application and in the Student Access portion of the site is collected and used internally by the College. This information may also be reported to other government agencies, groups or individuals as required by law.
+Student information entered in the online admissions application and in the Student Access portion of the site is collected and used internally by the College. This information may also be reported to other government agencies, groups or individuals as required by law.
 
 With respect to cookies: We do not set any cookies.
 
 If you do not want to receive email from us in the future, please let us know by sending us an email to [webmaster@starkstate.edu](mailto:webmaster@starkstate.edu) or by calling the number above.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, emailing us at the above address or writing to us at the above address.
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, emailing us at the above address or writing to us at the above address.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding registration information they have provided on-line.
+Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding registration information they have provided online.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. We will use for these new purposes only data collected from the time of the policy change forward.
 
-Users may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, emailing us at the above address or writing us at the above address.   
+Users may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, emailing us at the above address or writing us at the above address.
+
 Upon request we provide site visitors with access to a description of information that we maintain about them.
 
 Users can access this information by writing to us at the above address.   
@@ -41,4 +42,5 @@ Users can have this information corrected by calling us at the above telephone n
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving user data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at  [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm)
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202-FTC-HELP  
+(202-382-4357) or electronically at  [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm)
