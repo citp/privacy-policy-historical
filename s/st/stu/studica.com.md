@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623074450id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231160516id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Studica.com | Your Student Software Store
 
-  
-[](https://web.archive.org/support/verisign.cfm)   
-[](https://www.thawte.com/cgi/server/certdetails.exe?referer=http://www.studica.com/products/index.cfm) |  |   
+|  |   
 **Studica Privacy Policy**
 
 Studica has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
