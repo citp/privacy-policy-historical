@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223237id_/http%3A//www.greatclips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231082202id_/http%3A//www.greatclips.com/privacy) for the most accurate reproduction.*
 
 # Great Clips, Inc. - Privacy
 
@@ -23,7 +23,7 @@ We collect basic information about our customers in order to conduct business an
 
   * to provide quality, efficient haircuts with personalized service 
   * to remember information about our customers’ last visit, such as technical information related to a particular haircut or products purchased 
-  * to learn about who are customers are, how often they visit us, and their expectations pertaining to their services so we can continue to meet their needs 
+  * to learn about who our customers are, how often they visit us, and their expectations pertaining to their services so we can continue to meet their needs 
   * to send or initiate direct mail marketing programs 
   * to be able to contact customers when they have left a personal item in the salon 
 
