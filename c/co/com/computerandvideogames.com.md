@@ -1,58 +1,22 @@
-> *The following text is extracted and transformed from the computerandvideogames.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413031328id_/http%3A//www.computerandvideogames.com/generic.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerandvideogames.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231054108id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
-# Computer and Video Games
+# FutureNet - Privacy Policy
 
-   
- **Dennis Interactive Limited Privacy Statement**
+Privacy Policy covering the websites of Future Publishing Ltd
 
-Dennis Interactive Limited has created this privacy statement in order to demonstrate our firm commitment to privacy. The following details the information gathering and usage practices for our Web sites. You will find here details of what happens to information you supply on our web sites and what control you have over it. 
+Future Publishing Ltd. Beauford House 30 Monmouth Street Bath BA1 2BW England  
+Tel: (+44) 01225 442244
 
-**Web sites**  
-Dennis Interactive publishes the following web sites: 
-
-  * Auto Express 
-  * Computer and Video Games 
-  * Computer Buyer 
-  * Computer Shopper 
-  * MacUser 
-  * Maxim 
-  * MyMedia 
-  * Official Dreamcast Magazine 
-  * PC Pro 
-  * PC Zone 
-  * PS 
-  * The Den 
-  * The Week 
-
-**Registration**  
-When you first visit one of our sites we ask you to choose a unique user name and also provide us with your first and surname, your post code, country and email address. This user name is valid across all our web sites without further registration. 
-
-Contact information on the registration form is used to send out editorial email newsletters and occasional information about our company and its products and to get in touch with the user when necessary. You may opt-out of these mailings at registration and instructions for how to securely remove yourself from our mailing list can also be found at the end of every email you receive from us. 
-
-User names are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
-
-**Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. 
-
-**Cookies**  
-Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to save your user name so you don't have to re-enter it each time you visit our sites. 
-
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-
-**Surveys and competitions**  
-Our online surveys and competitions will ask you for contact information (like email address). This information may be used to validate entries to surveys and competitions and to send out editorial email newsletters and occasional information about our company and its products and to get in touch with you when necessary. You may opt-out of these mailings and instructions for how to securely remove yourself from our mailing list can be found at the end of every email you receive from us. 
-
-**External Links**  
-Our sites contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
-
-**Public Forums**  
-Our sites make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Security**  
-Our sites have security measures in place to protect the loss, misuse, and alteration of the information under our control. All user databases are password protected. 
-
-**Choice/Opt-Out**  
-We provide users with the opportunity to opt-out of receiving promotional/marketing information from us. For security reasons your individual secure method of removing your details from our mailing list can be found at the end of every email we send you. 
-
-**If you have questions or comments...** If you have any questions about this privacy statement, the practices of this site, or your dealings with our Web sites, you can contact: [privacy@dennisnet.co.uk](mailto:privacy@dennisnet.co.uk)
+  
+1\. General   
+This is a website of Future Publishing Ltd (“Future”). We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the Website editor.  2\. Use of Information   
+If you provide us with any personal information through this Website or any associated poll, survey or competition (“Your Information”) we will use it as set out in this policy and to: (a) provide you with any goods or services that you request and to monitor the provision of those goods and services; and (b) contact you about any goods or services of Future or any of its group companies which may be of interest to you. If you do not wish to receive information about our goods and services or those of our group companies, please follow the unsubscribe instructions on the correspondence you receive or on this Website or contact the Website editor.  3\. Disclosure to third parties   
+We may pass Your Information on to our group companies and our agents, subcontractors and partners and any agents, subcontractors and partners of our group of companies. We may also pass Your Information on to third parties who help us to organise and administer any competition, survey or poll which we run on or through this Website, only if specified in the rules of the competition, survey or poll. Unless expressly stated in this policy, we will not disclose any of Your Information to any other person without your consent. Please note that if you upload or post any information to a public part of this Website, we may use it in accordance with our [website terms and conditions of use](https://web.archive.org/futureonline/termsandconditions.asp) and it may be viewed and used by others.  4\. Our email newsletters and special interest newsletters   
+If you subscribe to receive one of our email newsletters or a special interest newsletter provided by one of our partners, that newsletter will be provided to you free of charge, unless otherwise stated. To enable us to do this you will need to provide us with your email address. We may ask you to provide us with other information which we or our partner may require from time to time for business purposes. Our newsletters and those of our partners may contain promotions or advertisements relating to the goods and services provided by us or our group companies or partners from time to time. If at any time you wish to unsubscribe from an email newsletter or a special interest newsletter you may do so by following the unsubscribe instructions on the newsletter or on this Website or by e-mailing the Website editor.  5\. Third party sites   
+This Website may contain a link to third party websites. We may, on occasion, disclose non-personal aggregated information to the owners or providers of those third party websites.  6\. Cookies   
+This Website may make use of 'cookies' and tracking software. Cookies are pieces of information that are stored by the browser on the hard drive of your computer. Cookies enable us and any person who advertises on our Website to provide features such as remembering certain of Your Information and your preferences. Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. Rejection of cookies will not prevent you from using most of the features on this Website. If you experience any problems having deleted cookies, you should contact the supplier of your web browser. The tracking software monitors traffic patterns and site usage so that we can design and develop this Website to suit the needs and requirements of visitors to it.  7\. Surveys   
+If you choose to take part in an on-line survey or poll conducted by us, we may use the information you provide for the purposes set out in Paragraph 2 above and we may disclose that information to the parties referred to in Paragraph 3 above. We may disclose non-personal, aggregated information we collect from you in this way to any other party.  8\. Security   
+In accordance with our requirements under the Data Protection Act 1998, we shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information.  9\. Usage of information   
+We may disclose Your Information if we are required to do so by any law or other regulatory or government authority.  10\. Corrections/updates   
+If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible.  11\. Policy changes   
+By using this Website you agree to the terms of this privacy policy and our [website terms of use](https://web.archive.org/futureonline/termsandconditions.asp). We may amend this privacy policy and our [website terms of use](https://web.archive.org/futureonline/termsandconditions.asp) from time to time. If we do so, we will post an updated version on this Website. 
