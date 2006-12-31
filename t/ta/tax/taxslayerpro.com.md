@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615083515id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231035222id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
 
 # TaxSlayer Pro
 
@@ -6,7 +6,7 @@ Purchasing our Products
 The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients. This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number. The forms requesting this information are on a secure server. All steps are taken to safeguard your information. 
 
 Sharing Information Within TaxSlayer Corporate Family   
-We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside or corporate family, except as noted below: 
+We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside our corporate family, except as noted below: 
 
 With Service Providers   
 In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf. 
