@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217084607id_/http%3A//weddingchannel.com/ui/buildArticle.action%3FassetUID%3D42591%26c%3D102%26s%3D104%26t%3D10%26p%3D300%26l%3D29642) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231213839id_/http%3A//www.weddingchannel.com/ui/buildArticle.action%3FassetUID%3D42591%26c%3D1375%26s%3D50%26t%3D13%26p%3D300%26l%3D29642) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/home.html?p:42591:t:12:l:46433) > [Home](https://web.archive.org/home.html?t:12:p:42591:l:46433)
+[Home](https://web.archive.org/home.html?p:42591:l:46433) > [Home](https://web.archive.org/home.html?p:42591:l:46433)
 
 Privacy Policy
 
@@ -12,7 +12,7 @@ Effective March 18, 2005**
 
 WeddingChannel.com (and our magazine, WEDDINGBELLS) is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy.
 
-The WeddingChannel.com website is owned and operated by WeddingChannel.com, Inc., which is located at 888 S. Figueroa St., Suite 700, Los Angeles, CA 90017. WeddingChannel.com makes the registries of various retailers available through this website and also offers wedding related products and services provided by other companies.
+The WeddingChannel.com website is owned and operated by WeddingChannel.com, Inc., which is located at 700 South Flower St., Suite 600, Los Angeles, CA 90017. WeddingChannel.com makes the registries of various retailers available through this website and also offers wedding related products and services provided by other companies.
 
 In many instances, when you provide personal information to this website, you are providing it to both WeddingChannel.com and to one of the retailers featured on the website. For example, if you create an account with WeddingChannel.com and then create a registry with a retailer (such as Macy's), your information will be provided to both WeddingChannel.com and Macy's. Likewise, if you purchase an item from a retailer on this website (for example, you buy an item from Bloomingdale's), your information will go to both WeddingChannel.com and Bloomingdale's.
 
@@ -24,18 +24,19 @@ The following are links to the privacy policies of some of the retailers and com
 [Privacy Policy - Bergner's](http://www.bergners.com/assistance/policies.jsp)  
 [Privacy Policy - Boston Store](http://www.bostonstore.com/assistance/policies.jsp)  
 [Privacy Policy - Carson Pirie Scott](http://www.carsons.com/assistance/policies.jsp)  
-[Privacy Policy - Crate and Barrel](https://web.archive.org/ui/buildArticle.action?assetUID=79958&t=12&p=42591&l=75500)  
+[Privacy Policy - Crate and Barrel](https://web.archive.org/ui/buildArticle.action?assetUID=79958&p=42591&t=12&l=75500)  
 [Privacy Policy - Dean & DeLuca](https://web.archive.org/ui/buildArticle.action?assetUID=79959&t=12&p=42591&l=75501)  
 [Privacy Policy - Fortunoff](http://www.fortunoff.com/privacy.asp)  
 [Privacy Policy - Gump's](https://web.archive.org/ui/buildArticle.action?assetUID=79965&t=12&p=42591&l=75502)  
 [Privacy Policy - Herberger's](http://www.herbergers.com/assistance/policies.jsp)  
 [Privacy Policy - JCPenney](http://www2.jcpenney.com/jcp/CustomerServiceSub.aspx?DeptID=12476&CatTyp=CSR&CatID=12490)  
 [Privacy Policy - The Land of Nod](http://www.landofnod.com/landofnod/privacy.asp)  
+[Privacy Policy - Macys](http://wedding.weddingchannel.com/help/privacy_policy_fed.asp)  
 [Privacy Policy - Neiman Marcus](https://web.archive.org/ui/buildArticle.action?assetUID=79956&t=12&p=42591&l=75503)  
 [Privacy Policy - Pottery Barn](https://web.archive.org/ui/buildArticle.action?assetUID=79960&t=12&p=42591&l=75504)  
 [Privacy Policy - Pottery Barn Kids](http://www.potterybarnkids.com/cs/index.cfm?src=hme&s%45ct=privacy&ftest=1&flash=on)  
 [Privacy Policy - Pier 1 Imports](http://wedding.weddingchannel.com/ael/pier1/policies_page/privacy_policy)  
-[Privacy Policy - REI](https://web.archive.org/ui/buildArticle.action?assetUID=79961&t=12&p=42591&l=75505)  
+[Privacy Policy - REI](https://web.archive.org/ui/buildArticle.action?assetUID=79961&t=12&p=42591&l=108124)  
 [Privacy Policy - Restoration Hardware](https://web.archive.org/ui/buildArticle.action?assetUID=79962&t=12&p=42591&l=75506)  
 [Privacy Policy - Sandals](https://web.archive.org/ui/buildArticle.action?assetUID=79963&t=12&p=42591&l=75507)  
 [Privacy Policy - Starwood Hotels and Resorts Worldwide, Inc.](http://www.starwoodhotels.com/corporate/privacy_policy.html)  
@@ -95,7 +96,7 @@ In addition, when you register for certain online bridal registries or other Wed
 Please be aware our website has advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such websites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our Customer Service Center at [customerservice@weddingchannel.com](mailto:customerservice@weddingchannel.com). Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
 **Contact Us**  
-**By Mail:** WeddingChannel.com 888 S. Figueroa St. Suite 700 Los Angeles, CA 90017  
+**By Mail:** WeddingChannel.com 700 Flower St. Suite 600 Los Angeles, CA 90017  
 **By Phone:** 888-267-3187  
 **By E-mail:** [customerservice@weddingchannel.com](mailto:customerservice@weddingchannel.com)
 
