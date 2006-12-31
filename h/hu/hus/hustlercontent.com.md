@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hustlercontent.com privacy policy that was archived on 2005-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051030020747id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlercontent.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231050038id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for LFP, Inc.
 
