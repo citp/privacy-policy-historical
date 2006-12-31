@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614171447id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231233037id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -28,31 +28,26 @@ For questions regarding this privacy statement or the practises of this site, pl
   
    
   
-**Free Gucci, Prada or Fendi Designer Handbag!**
+[](http://www.ofree.net/search.html?what=christmas)
 
-Special Offers!
+**Free $500 Toys燃廼s, K稗 Toys, Target or JCPenney Gift Card !**
+
+Happy Holidays!
 
 **or**  
 Subscribe to Our  
-[RSS Feed](http://www.ofree.net/rss2.xml "Subscribe to my feed, Only Free - Newest Freebies and Free Stuff")  
-[](http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Subscribe to my feed, Only Free - Newest FREEBIES and FREE Stuff")
-
-[](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Only Free - Newest FREEBIES and FREE Stuff")
-
-[](http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff)
-
-[](http://feeds.my.aol.com/add.jsp?url=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff)
+[](http://www.addthis.com/feed.php?h1=http%3A%2F%2Fwww.ofree.net%2Frss2.xml&pub=Faraon "Subscribe to feed using any feed reader!")
 
 and Get Your Freebies Faster and More Reliably! 
 
-**Free LG P7200 Cell Phone!**
+**Free $500 Christmas Dinner Gift Certificate !**
 
-100% Free !
+Nothing could make the holidays more special!
 
-**Free XBOX 360 or Playstation 3 Game Console!**
+**Happy New Year - it will be with a free $500 Visa Gift Card!**
 
-It's your choice!
+HOT Freebies !
 
-**Free Cosmetic !**
+**Free $500 Yankee Candle Gift Card !**
 
-Sign up and Receive !
+Give your home a feeling of comfort, freshness or nostalgia!
