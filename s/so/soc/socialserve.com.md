@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621040606id_/http%3A//socialserve.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231064542id_/http%3A//socialserve.com/Privacy.html) for the most accurate reproduction.*
 
 # Socialserve.com - Privacy Guidelines
 
@@ -7,13 +7,13 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
 **What this Privacy Guideline Covers**
 
   * This Privacy Guideline covers Socialserve.com's treatment of personally identifiable information that Socialserve.com collects when you are on the Socialserve.com site, and when you use Socialserve.com's services. This guideline also covers Socialserve.com's treatment of any personally identifiable information that Socialserve.com's partners share with Socialserve.com or that Socialserve.com may collect on a partner's site. 
-  * This guideline does not apply to the practices of companies that Socialserve.com does not own or control, or to people that Socialserve.com does not employ or manage.
+  * This guideline does not apply to the practices of companies that Socialserve.com does not own or control, or to people that Socialserve.com does not employ or manage. 
 
 
 
 **Information Collection and Use**
 
-  * Although the majority of our site is anonymous for users, Socialserve.com collects personally identifiable information when you register for a Socialserve.com account, when you use certain Socialserve.com products or services (clearly stated when applicable), when you visit certain Socialserve.com pages, and when you subscribe to certain services and/or newsletters. Socialserve.com may also receive personally identifiable information from our partners.
+  * Although the majority of our site is anonymous for users, Socialserve.com collects personally identifiable information when you register for a Socialserve.com account, when you use certain Socialserve.com products or services [clearly stated when applicable], when you visit certain Socialserve.com pages, and when you subscribe to certain services and/or newsletters. Socialserve.com may also receive personally identifiable information from our partners. 
 
 
 
@@ -24,7 +24,7 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
     * We need to share your information to provide the product or service you have requested; 
     * We need to send the information to companies who work on behalf of Socialserve.com to provide a product or service to you; 
     * We respond to subpoenas, court orders or legal processes; or 
-    * We find that your actions on our Websites violate any of our usage guidelines for specific products or services.
+    * We find that your actions on our Websites violate any of our usage guidelines for specific products or services. 
 
 
 
@@ -37,14 +37,14 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
   * Socialserve.com gives you the ability to edit your Socialserve.com Account Information and preferences at any time, including whether you want Socialserve.com to contact you about updates and new services by contacting us. 
-  * You may request deletion of your Socialserve.com account by contacting us and requesting that your account be deleted.
+  * You may request deletion of your Socialserve.com account by contacting us and requesting that your account be deleted. 
 
 
 
 **Security**
 
   * Your Socialserve.com Account Information is encrypted and password-protected for your privacy and security. 
-  * In certain areas Socialserve.com uses industry-standard SSL-encryption to protect data transmissions.
+  * In certain areas Socialserve.com uses industry-standard SSL-encryption to protect data transmissions. 
 
 
 
@@ -56,6 +56,13 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions, please contact us.
+  * If you have questions or suggestions, please contact us. 
 
 
+
+Copyright ©1999 - 2006 - Non-Profit Industries, Inc. - All rights reserved  
+Email: [info@socialserve.com](mailto:info@socialserve.com "Email Socialserve.com") - Socialserve.com - PO Box 35305 - Charlotte, NC 28235
+
+  Phone: 704.334.8722 - Fax: 704.334.0779  
+Toll Free: 1.877.428.8844 - TTD/TTY: 7-1-1 [ [Relay Service ](http://www.fcc.gov/cgb/dro/trsphonebk.html "Relay Service") ]  
+Page Loaded: 12/31/06 01:45 (Eastern Time) - Version 4.0
