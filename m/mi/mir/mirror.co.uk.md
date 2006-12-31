@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirror.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004451id_/http%3A//www.mirror.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirror.co.uk privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231213715id_/http%3A//www.mirror.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Mirror.co.uk - Privacy Policy
 
@@ -42,6 +42,6 @@ Our privacy policy is set out in detail below. Any changes to this policy will b
   * We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
   * We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
   * We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
-  * Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein. For more information about each such third party, please refer to the third party??s privacy policy which can be found by clicking on this link.
+  * Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein. For more information about each such third party, please refer to the third partys privacy policy which can be found by clicking on this link.
 
 
