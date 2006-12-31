@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therichjerk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072452id_/http%3A//www.therichjerk.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therichjerk.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231075312id_/http%3A//www.therichjerk.com/site/privacy) for the most accurate reproduction.*
 
 # The Rich Jerk - Privacy Policy
 
@@ -31,7 +31,7 @@ If you are a Visitor or Member we may use a cookie to save your settings and to 
 Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.   
 
 
-Newsletters: If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. We require that you "Double Opt-in" in order to receive our newsletter. 
+Newsletters: If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. We require that you "Double Opt-in" in order to receive our newsletter. If you subscribe to our newsletter, we may share the personal information you provide with a select group of 3rd party partners that offer similar products/services you may be interested in. We only work with partners that offer you the ability to opt-out of receiving future offers, and do not share your information with others. Our 3rd party partners are separate from therichjerk.com and we are not responsible for their content or offers. If you do not wish your information to be shared with our partners, please do not subscribe to our newsletter.
 
 Choice/Opt-out: We provide you the opportunity to ‘opt-out’ of receiving our newsletter, in which case your email address is permanently removed from our database. If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter. 
 
