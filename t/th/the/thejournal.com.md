@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511151753id_/http%3A//www.101com.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231011452id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
 
-# 101communications - Privacy Policy
+# 1105 Media, Inc. - Privacy Policy
 
-## Privacy Policy
+#### 1105 Media Inc. (formerly 101communications, Stevens Publishing) Privacy Policy for all publications, conferences and properties
 
-##### 101communications Privacy Policy for all publications, conferences and properties
+Effective May 5, 2006
 
-  
-Effective November 16, 2004
-
-101communications recognizes the importance of protecting the privacy of information provided to us. Accordingly, we strive for compliance with all federal and state privacy laws and follow industry best practices in order to best serve our community. We consider all subscribers, customers, members, registrants, conference attendees and speakers part of the 101communications community. The following guidelines have been created to demonstrate our commitment to privacy.
+1105 Media Inc. recognizes the importance of protecting the privacy of information provided to us. Accordingly, we strive for compliance with all federal and state privacy laws and follow industry best practices in order to best serve our community. We consider all subscribers, customers, members, registrants, conference attendees and speakers part of the 1105 Media Inc. community. The following guidelines have been created to demonstrate our commitment to privacy.
 
 Our location and contact information:  
 Privacy Issues  
-101communications  
+1105 Media Inc.  
 9121 Oakdale Avenue, Suite 101  
 Chatsworth, CA 91311  
 Phone: (866) 410-1321  
@@ -35,78 +32,78 @@ Phone: (866) 410-1321
 
 
 
-##### Collected Information
+#### Collected Information
 
-The information we collect is gathered from several sources. These include our websites, conferences, product subscriptions and survey information via telephone, e-mail, and direct mail. For each visitor to our websites, our web server automatically recognizes only the visitor’s domain name and IP address, but not the e-mail address. In addition, we collect aggregate information on what web pages visitors access or visit, and information volunteered by the visitor, such as survey information, and/or site registrations. We collect postal addresses, e-mail addresses, and/or telephone numbers of visitors who post messages to our bulletin boards, make postings to our websites, and/or voluntarily subscribe to our print or digital magazines and/or e-mail newsletters. In addition, we collect information from our conferences (e.g., attendees, exhibitors, speakers).
+The information we collect is gathered from several sources. These include our conferences, product subscription forms/registrations, reader service cards, website message postings, survey information and purchases via telephone, direct mail, email, and other electronic sources. From these sources we may collect postal addresses, e-mail addresses, telephone numbers, and/or demographic information for those individuals that volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name and IP address only, but no other identifiable information unless volunteered. In addition, we collect aggregate information on what web pages visitors access or visit.
 
-##### How We Use Collected Information
+#### How We Use Collected Information
 
-The information we collect is used to improve the content of our web pages, to customize the content and layout of our pages for each individual visitor, and/or to notify visitors about updates to our website. As part of a subscription and/or registration agreement, subscribers and conference registrants will be contacted by us through mail, e-mail, and/or phone to communicate with them about their subscription and/or registration. Subscribers will be contacted for renewal, re-qualification, surveys, updates concerning their account profile and special offers related to their subscription and/or registration. We also use the information to contact them for marketing purposes and share it with other reputable organizations to allow them to contact our subscribers/registrants for pre-screened marketing purposes. We do share non-personal, aggregate statistics about our members, sales, demographics, traffic patterns, and related website and product information with advertisers and reputable third party vendors for marketing and promotional purposes; however, none of the information we disclose in this aggregate form can be used to personally identify you. Certain information — such as your password and credit card number — is never disclosed in any form whatsoever to any outside party. 
+The information we collect is used to improve the content of our web pages, to customize the content and layout of our pages for each individual visitor, and/or to notify visitors about updates to our website. As part of a subscription and/or registration agreement, subscribers and registrants will be contacted by us through mail, e-mail, and/or phone to communicate with them about their subscription and/or registration. They will be contacted for renewal, re-qualification, surveys, updates concerning their account profile and special offers related to their subscription and/or registration. We also use the information to contact them for marketing purposes and share this information with other reputable organizations to allow them to contact our subscribers and registrants. We share both individual contact and demographic information and aggregate statistics about our members with advertisers and reputable third party vendors for marketing and promotional purposes, unless otherwise specified when the information is collected. Certain information — such as your password and credit card number — is never disclosed in any form whatsoever to any outside party.
 
-##### E-mail Communications
+#### E-mail Communications
 
-Subscribers that have registered for our products and/or services, and have supplied an e-mail address, will receive emails pertaining to your subscription and/or registration. These are sent in order to maintain your account with 101communications. Subscribers/registrants can “opt-out” from receiving these types of e-mails by using the opt-out mechanism located within the received e-mail message.
+If you have registered for our products and/or services, and have supplied an e-mail address, you will receive emails pertaining to your subscription and/or registration. These are sent in order to maintain your account with 1105 Media Inc. You can “opt-out” from receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message.
 
-For marketing e-mails, we retain three types of permission for usage of your submitted e-mail address as defined below. We allow subscribers to “opt out” of receiving marketing e-mails about 101communications products or from outside companies either at the time of subscription, in response to a received e-mail or within this Privacy Policy website.
+For marketing e-mails, we retain three types of usage permission for submitted e-mail addresses as defined below. We allow you to “opt out” of receiving marketing e-mails about 1105 Media Inc. products and from outside companies either in response to a received e-mail or within this Privacy Policy.
 
   * **E-mails about Related Products and Services**  
-Subscribers that provided information at the time of registration may from time to time be contacted by us about related products, services and/or upcoming events grouped with your subscription account within one of the [IT Publishing Groups](https://web.archive.org/grouplist.asp) that comprise 101communications. If you do not wish to receive these e-mails from us, please let us know by [clicking here](http://lists.101com.com/privacy.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
-  * **E-mails about Other 101communications Products and Services**  
-Subscribers that provided information at the time of registration may from time to time be contacted by us about other 101communications products, services, and/or upcoming events. If you do not wish to receive these e-mails from us, please let us know by [clicking here](http://lists.101com.com/privacyt.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+If you volunteer an e-mail address you may be contacted by us regarding similar products, services and/or upcoming events that are related to one of the [Publishing Groups](http://www.101com.com/grouplist.asp) within which your account resides. _If you do not wish to receive these types e-mails from us, please let us know by[clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=1&b=Y&o=PRIV)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+  * **E-mails about Other 1105 Media Inc. Products and Services**  
+If you volunteer an e-mail address you may be contacted by us regarding other 1105 Media Inc. products, services, and/or upcoming events. _If you do not wish to receive these types of e-mails from us, please let us know by[clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=2&b=Y&o=PRIV)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **E-mails from Outside Companies**  
-Subscribers that provided information at the time of registration may from time to time be contacted by carefully selected outside companies for reputable pre-screened promotional purposes. If you do not wish to receive e-mails from other companies, please let us know by [clicking here](http://newsletters.101com.com/r/r_101l3.asp?546829) and following the steps provided, calling us at the above telephone number, or writing to us at the above address. 
+If you volunteer an e-mail address you may be contacted by carefully selected outside companies for reputable promotional purposes. _If you do not wish to receive e-mails from other companies, please let us know by[clicking here](http://101.101direct.com/r/r_101l3.asp?546829)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **All E-mails**  
-If you wish to opt-out of these 3 types of e-mail marketing messages at once, please let us know by [clicking here](http://lists.101com.com/privacyall.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address. 
+If you wish to opt-out of these three types of e-mail marketing messages at once, please let us know by [clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=U&b=Y&o=PRIV) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
 
 
-It will take up to 10 business days to process your e-mail opt out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request.
+It will take up to 10 business days to process your e-mail opt-out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request.
 
-##### Postal Communications
+#### Postal Communications
 
-We may use the postal addresses collected for periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other reputable pre-screened companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+If you volunteer a postal address you may receive periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other carefully selected outside companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[_I do not wish to receive any mailings from 101communications or other companies._](https://web.archive.org/privacy/mail.asp)
+[_I do not wish to receive any mailings from 1105 Media Inc. or other companies._](http://www.101com.com/Company/MailForm.aspx)
 
 It will take up to 3 months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request. 
 
-##### Telephone Communications
+#### Telephone Communications
 
-We may use the telephone numbers collected for periodic telephone calls to you to relate information about new products, services, and/or upcoming events. We may also provide this information to other reputable pre-screened companies for promotional purposes. If you do not wish to receive telephone calls from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address. 
+If you volunteer a telephone number you may receive periodic telephone calls about new products, services, and/or upcoming events. We may also provide this information to carefully selected outside companies for promotional purposes. If you do not wish to receive telephone calls from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[_I do not wish to receive any telephone calls from 101communications or other companies._](https://web.archive.org/privacy/call.asp)
+[I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.](http://www.101com.com/Company/CallForm.aspx)
 
 It will take up to 1 month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request.
 
-##### Fax Communications
+#### Fax Communications
 
-We send promotional faxes on a very limited basis to businesses and/or residences. In accordance with the Telephone Consumer Protection Act (TCPA), only those who have provided written permission receive promotional faxes. 
+If you volunteer a fax number you may receive promotional faxes on a very limited basis. Only those with whom we have an existing business relationship (such as an established subscription or registration) will receive such faxes. If you do not wish to receive such faxes, please let us know by sending us an e-mail through the e-mail link provided above, writing to us at the above address, or calling us at the above telephone number.
 
-##### Accessing Personal Information
+#### Accessing Personal Information
 
-Upon request we provide site visitors, subscribers, and conference attendees with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number, e-mail address) that we maintain about them and subscriptions as well as the permission levels provided to us. This information can be requested by sending us an e-mail through the e-mail link provided above or writing to us at the above address. 
+Upon request, we will provide an individual with access to identifying information that we have collected about them (provided that they have given proof of identity). This information can be requested by sending us an e-mail through the e-mail link provided above or writing to us at the above address.
 
-##### Correcting/Updating Personal Information
+#### Correcting/Updating Personal Information
 
-Upon request we offer our subscribers the ability to have inaccuracies corrected within their contact information. This information can be corrected by sending us an e-mail through the e-mail link provided above or writing to us at the above address. Current subscribers to our print magazines or e-newsletters can also access and change their preferences through our websites by selecting the “Subscribe” link within the print magazine or e-newsletter website where they currently subscribe. 
+Upon request, we offer individuals the ability to have inaccuracies corrected within their contact information. This information can be corrected by sending us an e-mail through the e-mail link provided above or writing to us at the above address. Current subscribers and registrants can also access and change their information through our websites by selecting the appropriate link on the website where their current subscription/registration resides.
 
-##### Cookies
+#### Cookies
 
 We use cookies to store visitors’ preferences, record session information (such as items that visitors add to their shopping carts), record user-specific information such as what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize web page content based on a visitor’s browser type or other information that the visitor sends, and store users names and passwords.
 
-##### Ad Servers
+#### Ad Servers
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information.
+To try and bring you offers that may be of interest to you, we have relationships with other carefully selected companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. The use of such information is governed by the privacy policy of these other companies.
 
-##### Security
+#### Security
 
-101communications takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline. When our registration/subscription form asks for credit card number, or other sensitive information, that information is encrypted and is protected with the best encryption software in the industry – SSL.
+1105 Media Inc. takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline. When our registration/subscription form asks for a credit card number or other sensitive information, that information is encrypted and protected with the best encryption software in the industry – SSL.
 
-##### Policy Updates
+#### Policy Updates
 
-From time to time, we may use provided information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change at some time in the future, we will immediately post the policy changes to this Website to notify you of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically.
+From time to time, we may use provided information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change we will immediately post any adjustments to our policy on this website. This will serve as your notification of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically.
 
-##### Enforcement
+#### Enforcement
 
 If you feel that this site is not following its stated information policy, please contact us through the above postal address, e-mail link, or phone number.
 
