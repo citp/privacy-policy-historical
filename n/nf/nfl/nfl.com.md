@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021313id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231041619id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
-[](http://www.nflshop.com/entry.point?entry=2253037&source=NFL_LHHome)
+[](http://www.nflshop.com/entry.point?entry=2508363&source=NFL_LHHome)
 
 [](http://www.jointheteam.com/)
 
 |  |  |  |   |   
 ---|---|---  
-[Play Football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/helpdesk/index.jsp?display=safety&subdisplay=privacy) **NFL.COM and SUPERBOWL.COM Website Privacy Policy**  
+[NFLRush Privacy Policy](http://www.nflrush.com/privacypolicy.asp) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/helpdesk/index.jsp?display=safety&subdisplay=privacy) **NFL.COM and SUPERBOWL.COM Website Privacy Policy**  
 _Effective Date: August 16, 2001  
 Updated: March 1, 2006  
 _
@@ -90,7 +90,7 @@ Click-stream data is information collected by our computers when you request Web
 If you conduct a financial transaction with our Website, such as subscribe to services offered on our Website", we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means. 
 
 **HOW WE USE THE INFORMATION COLLECTED**  
-**Each of the NFL PARTNERS own the information collected via this Webite.** As applicable, the information you provide to us may be used to: 
+**Each of the NFL PARTNERS own the information collected via this Website.** As applicable, the information you provide to us may be used to: 
 
   * contact you about the Website; 
   * contact you relating to your membership status; 
