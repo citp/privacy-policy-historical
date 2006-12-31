@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529074532id_/http%3A//wqam.com/index.php%3Fpage%3D118%26PHPSESSID%3Dc36895bcfc7d6fe93bc8fa3c70ba6d6f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231232616id_/http%3A//www.wqam.com/index.php%3Fpage%3D118) for the most accurate reproduction.*
 
-# wqam.com: WQAM > Home > Home > Privacy Policy
+# wqam.com WQAM
 
-|  Here at WQAM we take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the Beasley Broadcast Group Inc. Privacy Coordinator by email at privacy@bbgi.com. You may also send inquiries by mail to: 
+Here at WQAM we take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the Beasley Broadcast Group Inc. Privacy Coordinator by email at privacy@bbgi.com. You may also send inquiries by mail to: 
 
 Beasley Broadcast Group Inc. Privacy Coordinator 3033 Riviera Drive, Suite 200 Naples, FL 34103 
 
