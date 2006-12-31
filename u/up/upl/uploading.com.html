@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2006-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619210017id_/http%3A//uploading.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231044349id_/http%3A//uploading.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Uploading.com - The best file hosting  service!</title>
@@ -145,7 +145,7 @@ return true;
 function check_types()
 {
 
-  if (document.uploadform.file_p.value == "") // select file
+  if (document.uploadform.remote.value == "" && document.uploadform.file_p.value == "") // select file
    {
      alert("Select file");
      return false;
@@ -163,7 +163,16 @@ function check_types()
      alert("You have indicated an invalid email address.”");
      return false;
    }
-
+*/
+  if (document.uploadform.fromemail.value != "") // from email
+   {
+     if (checkMail(document.uploadform.fromemail.value))
+      {
+        alert("You have indicated an invalid email address.”");
+        return false;
+      }
+   }
+   
   if (document.uploadform.toemail.value != "") // to email
    {
      if (checkMail(document.uploadform.toemail.value))
@@ -172,7 +181,7 @@ function check_types()
         return false;
       }
    }
-
+/*
   if (!document.uploadform.ter.checked) // terms
    {
      alert("You must accept our terms of service.");
@@ -267,7 +276,10 @@ var progress = "Unknown";
 var time_elapsed = "Unknown";
 var speed = "Unknown";
 var status = "Upload initialization";
-var downloadurl = 'http://';
+var downloadurl = '';
+var downloadhref = 'http://';
+var filedelurl = '';
+var filedelhref = 'http://';
 
 function updateprogress()
 {
@@ -288,11 +300,13 @@ function updateprogress()
 function uploaddone()
 {
  try {
-        document.getElementById('downloadurl').innerHTML = downloadurl;
-        document.getElementById('downloadhref').href = downloadurl;
+//        document.getElementById('downloadurl').innerHTML = downloadurl;
+        document.getElementById('download_ta').value = downloadhref;
+        document.getElementById('downloadhref').href = downloadhref;
 
-        document.getElementById('filedel').innerHTML = filedel;
-        document.getElementById('filedelhref').href = filedel;
+//        document.getElementById('filedelurl').innerHTML = filedelurl;
+        document.getElementById('filedel_ta').value = filedelhref;
+        document.getElementById('filedelhref').href = filedelhref;
 
         document.getElementById('filename').innerHTML = filename;
         document.getElementById('filesize').innerHTML = filesize;
@@ -366,7 +380,7 @@ function uploaderror(msg)
 
 
 <table cellpadding="0" cellspacing="1">
-<form action="search.php" method="get"></form>
+<form action="http://www.uploading.com/en/search.php" method="get"></form>
 <tbody><tr>
 <td align="center" valign="top" style="padding-top:3px" nowrap="">
 <b>Search at Uploading:</b><br> <span style="font-size:7pt">version <font color="red"><b>2.0</b></font>: updated</span>
@@ -384,7 +398,7 @@ function uploaderror(msg)
 </tr>
 <tr>
 <td>
-<a href="top.php" class="blue"><b>Uploading Top Files</b></a>
+<a href="http://www.uploading.com/en/top.php" class="blue"><b>Uploading Top Files</b></a>
 </td>
 <td align="right" style="padding-right:5px">
 <table cellpadding="2" cellspacing="0"><tbody><tr>
@@ -404,27 +418,29 @@ function uploaderror(msg)
 </tr>
 </tbody></table>
 
+
 </td>
 </tr>
 </tbody></table>
 
+
 <table cellpadding="0" cellspacing="0" border="0" width="728" height="40" align="center" style="border-bottom:1px solid #585858">
 <tbody><tr>
-  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="banners.php" class="ma"><b>Banners</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="http://www.uploading.com/en/banners.php" class="ma"><b>Banners</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="adv.php" class="ma"><b>Advertise with us</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="http://www.uploading.com/en/adv.php" class="ma"><b>Advertise with us</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="abuse.php" class="ma" nowrap=""><b>Report abuse</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="http://www.uploading.com/en/abuse.php" class="ma" nowrap=""><b>Report abuse</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="contact.php" class="ma"><b>Contact us</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="http://www.uploading.com/en/contact.php" class="ma"><b>Contact us</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="privacy.php" class="ma"><b>Privacy policy</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="http://www.uploading.com/en/privacy.php" class="ma"><b>Privacy policy</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="terms.php" class="ma"><b>Terms of service</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="http://www.uploading.com/en/terms.php" class="ma"><b>Terms of service</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="faq.php" class="ma"><b>FAQ</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="http://www.uploading.com/en/faq.php" class="ma"><b>FAQ</b></a></td>
 <td align="center" valign="bottom"><font color="#585858">|</font></td>
-  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="account.php" class="ma"><b>Account Login</b></a></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="http://www.uploading.com/en/account.php" class="ma"><b>Account Login</b></a></td>
 </tr>
 </tbody></table>
 
@@ -438,6 +454,8 @@ function uploaderror(msg)
 <table cellpadding="0" cellspacing="0" border="0" width="700" align="center">
 <tbody><tr>
 <td width="180" align="left" valign="top" style="text-align: justify;">
+
+<!-- left block here -->
 
 </td>
 <td valign="top" style="padding-top:10px; text-align: justify;">
@@ -494,13 +512,15 @@ Copyright 2005 Uploading.com. All right reserved.
 </div>
 </td>
 <td valign="bottom" style="padding-right:100px;padding-bottom:15px">
-<a href="wsignup.php"><b>$Webmasters$</b></a>
+<a href="http://www.uploading.com/en/wsignup.php"><b>$Webmasters$</b></a>
 </td>
 </tr>
 </tbody></table>
   </td>
 </tr>
 </tbody></table>
+
+
 
 
 
@@ -530,7 +550,7 @@ document.write("<img border='0' alt='' width='100' height='120' usemap='#mse' "+
 "&bp=1&easy=1"+et_sw+et_sc+et_ref+et_pl+"'>");}</script>
 <script type="text/javascript1.2">et_sw=screen.width;et_sc=navigator.
 appName!='Netscape'?screen.colorDepth:screen.pixelDepth;</script>
-<script type="text/javascript">et_eC('lgKCbx');</script><img border="0" alt="" width="100" height="120" usemap="#mse" src="http://www.sedotracker.com/cnt.php?java=y&amp;tc=1582146356705&amp;et=lgKCbx&amp;bp=1&amp;easy=1&amp;swidth=800&amp;scolor=24&amp;p=undefined">
+<script type="text/javascript">et_eC('lgKCbx');</script><img border="0" alt="" width="100" height="120" usemap="#mse" src="http://www.sedotracker.com/cnt.php?java=y&amp;tc=1582146352674&amp;et=lgKCbx&amp;bp=1&amp;easy=1&amp;swidth=800&amp;scolor=24&amp;p=undefined">
 
 <!-- etracker sedo CODE NOSCRIPT -->
 <noscript>
