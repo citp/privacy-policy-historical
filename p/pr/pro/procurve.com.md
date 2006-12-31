@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the procurve.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312223123id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procurve.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231200947id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
 # HP Online privacy statement
 
 |  HP and its subsidiaries respect your privacy and are committed to protecting it. HP provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](https://web.archive.org/country/us/en/privacy/p3p_popup.html), which allows you additional control over your personal information. 
 
-HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/cnfm.cfm?company%3D03311999100448&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
+HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/&exit_text=Continue%20to%20BBBOnLine%20web%20site&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
 
-[](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/cnfm.cfm?company%3D03311999100448&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html)
+[](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/consumer/profileP.asp?ID%3D3311999100448&exit_text=Continue%20to%20BBBOnLine%20HP%20Privacy%20profile&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html)
 
-HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at [http://www.export.gov/safeharbor/](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.export.gov/safeharbor/).
+HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at [http://www.export.gov/safeharbor/](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.export.gov/safeharbor/&exit_text=Continue%20to%20U.S.%20Department%20of%20Commerce%20Safe%20Harbor%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html).
 
   1. Sites covered by this privacy statement
   2. Types of information we collect
@@ -55,10 +55,6 @@ On some HP websites, you can order products or services, apply for instant credi
 
 To personalize our websites, services or communications and improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional.
 
-HP also provides a Web-based business card e-service, [ ecardfile.com](http://www.ecardfile.com/). If you choose to use it, you supply the personal and business contact information of your choice and can set each element as public or private. Information you designate as public is available to any viewer who looks up your card. Ecardfile.com is not a customer registration service.
-
-» 
-
   * ### Non-personal information
 
 is data about usage and service operation that is not associated with a specific personal identity. HP collects and analyzes non-personal information to evaluate how visitors use the HP websites. 
@@ -78,20 +74,22 @@ HP is committed to protecting the privacy needs of children and we encourage par
   
 HP uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers and to personalize some HP websites. Occasionally we may also use your information to contact you for market research regarding HP products or services. We will give you the opportunity to choose your privacy preferences regarding such communications (see section 7, "Your privacy preferences and opting out"). Credit card information is used only for payment processing and fraud prevention. Sensitive personal information is collected only to facilitate our financial service providers' credit decisions and will be shared with them only with your permission. Credit card information and sensitive personal data are not used for any other purpose by our financial services providers or HP and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases. 
 
-Personal data collected online may also be combined with information you provide HP through other sources such as product registration, call centers or public events such as trade shows or seminars. 
+In order to offer you a more consistent and personalized experience in your interactions with HP, information collected through one HP service may be combined with information obtained through other HP services.  
 
-Personal data given to HP may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
+HP is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. Our privacy practices are designed to provide protection for your personal information, all over the world. We may share your personal information within HP and transfer it to countries in the world where we do business. Some countries may provide less legal protection for your information. In such countries HP will still handle information in the manner we describe here. 
 
 Non-personal data is aggregated for reporting about HP website usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
 
 ## 5\. Who we share your information with
 
   
-HP will not sell, rent or lease your personal information to others. HP will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. HP shares customer information across HP-owned business entities and companies working on our behalf, but only as described above in "How we use your information." 
+HP will not sell, rent or lease your personal information to others. HP will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. HP shares customer information across companies working on our behalf and HP-owned business entities, but only as described above in "How we use your information."  
 
-HP contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described in "How we use your information." Suppliers and service providers are required to keep confidential the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP. These service providers may change or we may contract with additional service providers to better accommodate our customers. HP will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law. 
+HP contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described in "How we use your information." Suppliers and service providers are required to keep confidential the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP. These service providers may change or we may contract with additional service providers to better accommodate our customers. 
 
-HP or its related entities could merge with or be acquired by another business entity or some or all of their respective assets could be acquired. If such a combination or acquisition occurs, HP will make every reasonable effort to notify you in the event we share with the merging or acquiring entity some or all of your personal information to continue serving you. 
+HP will not share personal information with any other third parties without your permission, unless to: (i) respond to duly authorized information requests of governmental authorities; (ii) comply with any law, regulation, subpoena, or court order, (iii) help prevent fraud or to enforce or protect the rights and properties of HP or its subsidiaries; or (iv) to protect the personal safety of HP employees and third parties on HP property.  
+
+Circumstances may arise where, whether for strategic or other business reasons, HP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is HP’s practice to seek appropriate protection for information in these types of transactions. 
 
 ## 6\. Your choices
 
@@ -168,7 +166,7 @@ HP Privacy Mailbox
 MS 040307  
 Houston, Texas 77070
 
-_Rev. December 2003_  
+_Rev. February 2006_  
 
 1A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, http://www.HP.com is the URL for HP's U.S. home page.
 
