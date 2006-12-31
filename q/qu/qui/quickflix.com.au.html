@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quickflix.com.au privacy policy that was archived on 2005-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213201222id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quickflix.com.au privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231232008id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"><html><head>
 		<title>Quickflix DVD rental Australia: the smart way to rent DVDs : Privacy policy</title>
@@ -11,63 +11,119 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<script language="JavaScript" type="text/javascript" src="/usercontrols/allpages/tools.js"></script>
 <meta name="robots" content="noindex,nofollow">
+
 <link rel="stylesheet" href="/theme/v3core.css" type="text/css">
 <link rel="stylesheet" href="/theme/v3nav.css" type="text/css">
 <link rel="stylesheet" href="/theme/v3panels.css" type="text/css">
 <link rel="stylesheet" href="/theme/v3overrides-quickflix.css" type="text/css">
+<link rel="stylesheet" href="/theme/ninemsn-overrides.css" type="text/css">
+
 <link rel="SHORTCUT ICON" href="http://www.quickflix.com.au/theme/quickflix/v3/icon/favicon.ico">
+<script type="text/javascript">
+
+var iframeids=["SummaryDisplay"];
+var getFFVersion=navigator.userAgent.substring(navigator.userAgent.indexOf("Firefox")).split("/")[1];
+var FFextraHeight=parseFloat(getFFVersion)>=0.1? 16 : 0; //extra height in px to add to iframe in FireFox 1.0+ browsers
+
+function dyniframesize() {
+	var dyniframe=new Array();
+	for (i=0; i<iframeids.length; i++) {
+		if (document.getElementById) { //begin resizing iframe procedure
+			dyniframe[dyniframe.length] = document.getElementById(iframeids[i]);
+			if (dyniframe[i] != null)
+			{
+				if (dyniframe[i].hiddenBySite != 'undefined')
+				{
+					if (dyniframe[i].hiddenBySite == 'true')
+						return false;
+				}
+				if (dyniframe[i] && !window.opera) {
+					dyniframe[i].style.display="block";
+					if (dyniframe[i].contentDocument && dyniframe[i].contentDocument.body.offsetHeight) { //ns6 syntax
+						dyniframe[i].height = dyniframe[i].contentDocument.body.offsetHeight+FFextraHeight;
+					}
+					else if (dyniframe[i].Document && dyniframe[i].Document.body.scrollHeight) { //ie5+ syntax
+						dyniframe[i].height = dyniframe[i].Document.body.scrollHeight;
+					}
+				}
+			}
+		}
+	}
+}
+
+if (window.addEventListener) {
+	window.addEventListener("load", dyniframesize, false);
+} else if (window.attachEvent) {
+	window.attachEvent("onload", dyniframesize);
+} else {
+	window.onload=dyniframesize;
+}
+
+</script>
+
+
 	</head>
 	<body id="BasePageBody">
-		<form name="Form1" method="post" action="privacypolicy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMjQ0NjM1ODE3OztsPFNpZGVNZW51MTpMb2dpbkJveDE6aW1nTG9naW47U2lkZU1lbnUxOkxvZ2luQm94MTpjaGtSZW1lbWJlckxvZ2luO1NpZGVNZW51MTp1Y01haWxpbmdMaXN0Qm94Ok9LQ29tcGFjdEJ1dHRvbjtTaWRlTWVudTE6aW1nQnRuU2VhcmNoOz4+">
+		<form name="Form1" method="post" action="PrivacyPolicy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxMTA5MjI0NDk0OztsPFNpZGVNZW51MTp1Y01haWxpbmdMaXN0Qm94Ok9LQ29tcGFjdEJ1dHRvbjs+PrhaBJbF6xye9XK1ETK6fdArtl9t">
 
 			<div id="PageBase">
 				<div id="ContainerMain">
 					<div id="ContainerNavigation">
 						
+<a name="#top"></a>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" id="Navigation">
 	<tbody><tr>
-		<td height="82" valign="top">
-		<table height="82" width="100%" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td valign="center" width="340"><a href="/"><img src="http://www.quickflix.com.au/theme/quickflix/v3/logo.gif" id="Logo" alt="Quickflix" border="0"></a></td>
-				<td align="right" valign="center" id="RightHeaderPanel">
-					
-<div class="HeaderboxPanel Light Darken" style="background-image : url(http://www.quickflix.com.au/theme/quickflix/v3/adverts/xmas-vouchers.gif)">
-	<a href="/public/giftvouchers/giftvouchers.aspx" id="PageHeader1_AdvertisingBox1_AdvertHyperlink">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-headerbox-light-top-darkcorners.gif" width="295" height="6" style="display : block" border="0">
-	<img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="295" height="44" alt="Forgotten someone this Christmas? Grab a Gift Voucher!" border="0">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-headerbox-light-bottom-darkcorners.gif" width="295" height="6" style="display : block" border="0">
-	</a>
-</div>
+		<td height="70" valign="top">
+			<table height="70" width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td valign="top" width="340" style="PADDING-LEFT: 15px; PADDING-TOP: 5px"><a id="PageHeader1_HeaderLink" href="/"><img id="PageHeader1_HeaderLogo" src="http://www.quickflix.com.au/theme/quickflix/v3/quickflix-xmas-logo.gif" alt="Quickflix - The smart way to rent and buy DVDs" border="0"></a></td>
+					<td>
+						<table height="70" width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td valign="top" align="right">
+									
+									
+									
+									<div id="PageHeader1_BuyAndGiftAndHelpPanel" style="MARGIN : 8px 16px 0px 0px">
+										<a href="/shop/shophome.aspx">Buy DVDs</a> <img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-subnav-divider.gif" width="1" height="7" style="MARGIN : 0px 8px">
+										<a href="/public/giftvouchers/giftvouchers.aspx">Buy/Redeem gift</a> <img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-subnav-divider.gif" width="1" height="7" style="MARGIN : 0px 8px">
+										<a href="#" target="_self" onclick="window.open('/Public/Home/PopupPage.aspx?ControlToShow=Help', 'CustomerInformation', 'width=600,height=400,resizable=yes,scrollbars=yes,status=no');" class="">Help</a>
 
+										
+											<img style="MARGIN: 0px 8px" height="7" src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-subnav-divider.gif" width="1"> <a href="/members/login.aspx">Member sign in</a>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" valign="middle" id="RightHeaderPanel">
+									
 
-					
-				</td>
-			</tr>
-		</tbody></table>
+									
+									 
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 	<tr>
-		<td height="29">
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td>
-				<table border="0" cellpadding="0" cellspacing="0" height="29"><tbody><tr valign="bottom"><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-left-active.gif" width="16" height="29"></td><td class="NavigationActive"><a href="/">Home</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-active.gif" width="22" height="29"></td><td class="NavigationInactive"><a href="/public/howitworks/howitworks.aspx">How it Works</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-inactive.gif" width="21" height="25"></td><td class="NavigationInactive"><a href="/public/freetrial/freetrial.aspx">Free Trial</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-inactive.gif" width="21" height="25"></td><td class="NavigationInactive"><a href="/public/find/find.aspx">Find a DVD</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-inactive.gif" width="21" height="25"></td><td class="NavigationInactive"><a href="/public/plansandprices/plansandprices.aspx">Plans &amp; Prices</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-inactive.gif" width="14" height="25"></td></tr></tbody></table>
-				</td>
-				<td align="right" style="padding-right : 16px" nowrap="">
-				<div id="PageHeader1_PublicSubNavigationPanel">
-					<a href="/public/giftvouchers/giftvouchers.aspx"><strong>Gifts!</strong></a>
-					<img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-subnav-divider.gif" width="1" height="7" style="MARGIN : 0px 8px">
-					<a href="/public/tutorial/tutorial.aspx">Tutorial</a>
-					<img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-subnav-divider.gif" width="1" height="7" style="MARGIN : 0px 8px">
-					<a href="/public/help/help.aspx">Help</a>
-				</div>
-				
-				</td>
-			</tr>
-		</tbody></table>
+		<td height="10">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td>
+						<table border="0" cellpadding="0" cellspacing="0" height="29"><tbody><tr valign="bottom"><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-left-active.gif" width="16" height="29"></td><td class="NavigationActive"><a href="/">Welcome</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-active.gif" width="22" height="29"></td><td class="NavigationInactive"><a href="/public/howitworks/howitworks.aspx">How it Works</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-inactive.gif" width="21" height="25"></td><td class="NavigationInactive"><a href="/public/find/find.aspx">Browse DVDs</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-inactive.gif" width="21" height="25"></td><td class="NavigationInactive"><a href="/public/plansandprices/plansandprices.aspx">Plans &amp; Prices</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-divider-inactive.gif" width="21" height="25"></td><td class="NavigationInactive"><a href="/public/freetrial/freetrial.aspx">Start your Free Trial</a></td><td><img src="http://www.quickflix.com.au/theme/quickflix/v3/navigation/nav-tab-right-inactive.gif" width="14" height="25"></td></tr></tbody></table>
+					</td>
+					<td align="right" style="PADDING-RIGHT : 16px" nowrap="">
+					</td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
@@ -79,572 +135,344 @@
 								<td valign="top">
 									<div id="ContainerLeft">
 									
-										<table id="QfxPrivacyPolicy" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+
+										
+										<table id="PrivacyPolicyBox_QfxPrivacyPolicy" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
 	
-										
-											<div class="StandardPanel Medium SemiTransparent">
-												<div style="background-image : url(http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-bg-softcurve.gif); background-repeat : no-repeat;">
-													<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-top-darkcorners.gif" width="553" height="6">
-													<div class="PanelSpacer">
-														<h1>Quickflix privacy policy</h1>
-														<p>
-															The following is the privacy policy of Quickflix. Please read it carefully so 
-															you understand how we use and why we collect the personal information we ask 
-															you to submit.
-														</p>
-													</div>
-													<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-bottom-lightcorners.gif" width="553" height="6">
-												</div>
-											</div>
+<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-top-halfdarkcorners.gif" width="553" height="6">
+	<div class="StandardPanel Medium SemiTransparent">
+		<div><!-- style="background-image : url(http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-bg-softcurve.gif); background-repeat : no-repeat;">
+			<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-top-darkcorners.gif" width="553" height="6">-->
+			<div class="PanelSpacer">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td>
+							<h1>Quickflix privacy policy</h1>
+						</td>
+						<td align="right" valign="top">
+							
+						</td>
+					</tr>
+				</tbody></table>
+				<p>
+					The following is the privacy policy of Quickflix. Please read it carefully so 
+					you understand how we use and why we collect the personal information we ask 
+					you to submit.
+				</p>
+			</div>
+			<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-medium-bottom-lightcorners.gif" width="553" height="6">
+		</div>
+	</div>
 
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Information collection and use</h2>
-													<p>
-														When you register as a member with Quickflix, you need to supply personal 
-														information such as:
-													</p>
-													<ul>
-														<li>
-														your name, address and contact details;
-														</li><li>
-														email details;
-														</li><li>
-														password;
-														</li><li>
-														credit card details;
-														</li><li>
-														information obtained as a result of credit checks which you authorise us to 
-														carry out;
-														</li><li>
-														records of communications between you and Quickflix relating to products and 
-														/or services provided by Quickflix to you;
-														</li><li>
-															"promotion codes" if participating in any given competition or promotional 
-															offers.
-														</li>
-													</ul>
-													<p>
-														This information is your personal information and Quickflix will not disclose 
-														or sell this information to any other organisation under any circumstances, 
-														without prior permission, unless they are contracted to Quickflix to keep the 
-														information confidential or are required to comply with all relevant laws 
-														including the Privacy Act. Quickflix allows you full access to your personal 
-														information for viewing and updating which can be reviewed from the "My 
-														account" page. We require this information to help us process and manage your 
-														account.
-													</p>
-													<p>
-														Other ways we collect and use your personal information are:
-													</p>
-													<ul>
-														<li>
-														for credit verification purposes, transactions, fraud, credit worthiness;
-														</li><li>
-														for billing purposes;
-														</li><li>
-														for debt collection;
-														</li><li>
-														to maintain your account;
-														</li><li>
-														to notify you about other or new services or promotions from time to time;
-														</li><li>
-														to provide member support;
-														</li><li>
-														to provide you with the products, services or information you have requested;
-														</li><li>
-														for administration and notification of any Quickflix hosted/run competitions;
-														</li><li>
-														to develop and improve the products, benefits and services we offer to our 
-														members and website users;
-														</li><li>
-														to contact users directly who communicate directly with Quickflix;
-														</li><li>
-														to distribute information about other services and other organisations' 
-														services to you;
-														</li><li>
-														to help us constantly improve our service, in order to maintain a consistent 
-														level of customer satisfaction;
-														</li><li>
-															if required by law or to enforce, protect or apply rights, we may release such 
-															information as required;</li>
-													</ul>
-													<p>
-														We may also disclose to business associates certain generalised membership 
-														information for use in marketing goods or services to our membership, in such a 
-														way that will not reveal the identity of any individual member or customer to 
-														those business associates.
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Site content</h2>
-													<p>The Quickflix website is frequently trawled and indexed by search engines such as Google. Please note that website content written and submitted by a member, for example a movie review, will often be indexed and will therefore be listed within these search engine directories. This type of website content may contain the name of the member who submitted the review, if this constitutes part of the website content. The indexing and retrieval of such site content within search engines such as Google is beyond the control of Quickflix.</p>
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Information collection and use</h2>
+			<p>
+				When you register as a member with Quickflix, you need to supply personal 
+				information such as:
+			</p>
+			<ul>
+				<li>
+				your name, address and contact details;
+				</li><li>
+				email details;
+				</li><li>
+				password;
+				</li><li>
+				credit card details;
+				</li><li>
+				information obtained as a result of credit checks which you authorise us to 
+				carry out;
+				</li><li>
+				records of communications between you and Quickflix relating to products and 
+				/or services provided by Quickflix to you;
+				</li><li>
+					"promotion codes" if participating in any given competition or promotional 
+					offers.
+				</li>
+			</ul>
+			<p>
+				This information is your personal information and Quickflix will not disclose 
+				or sell this information to any other organisation under any circumstances, 
+				without prior permission, unless they are contracted to Quickflix to keep the 
+				information confidential or are required to comply with all relevant laws 
+				including the Privacy Act. Quickflix allows you full access to your personal 
+				information for viewing and updating which can be reviewed from the "My 
+				account" page. We require this information to help us process and manage your 
+				account.
+			</p>
+			<p>
+				Other ways we collect and use your personal information are:
+			</p>
+			<ul>
+				<li>
+				for credit verification purposes, transactions, fraud, credit worthiness;
+				</li><li>
+				for billing purposes;
+				</li><li>
+				for debt collection;
+				</li><li>
+				to maintain your account;
+				</li><li>
+				to notify you about other or new services or promotions from time to time;
+				</li><li>
+				to provide member support;
+				</li><li>
+				to provide you with the products, services or information you have requested;
+				</li><li>
+				for administration and notification of any Quickflix hosted/run competitions;
+				</li><li>
+				to develop and improve the products, benefits and services we offer to our 
+				members and website users;
+				</li><li>
+				to contact users directly who communicate directly with Quickflix;
+				</li><li>
+				to distribute information about other services and other organisations' 
+				services to you;
+				</li><li>
+				to help us constantly improve our service, in order to maintain a consistent 
+				level of customer satisfaction;
+				</li><li>
+					if required by law or to enforce, protect or apply rights, we may release such 
+					information as required;</li>
+			</ul>
+			<p>
+				We may also disclose to business associates certain generalised membership 
+				information for use in marketing goods or services to our membership, in such a 
+				way that will not reveal the identity of any individual member or customer to 
+				those business associates.
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Site content</h2>
+			<p>The Quickflix website is frequently trawled and indexed by search engines such as Google. Please note that website content written and submitted by a member, for example a movie review, will often be indexed and will therefore be listed within these search engine directories. This type of website content may contain the name of the member who submitted the review, if this constitutes part of the website content. The indexing and retrieval of such site content within search engines such as Google is beyond the control of Quickflix.</p>
+
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Mail (electronic and postal)</h2>
+			<p>
+				During the course of your membership, you will receive postal mail and/or 
+				emails from Quickflix that contain information relating to your account and the 
+				service provided to you as a member, including but not limited to website 
+				changes, product additions, news and current updates concerning the industry, 
+				website and account, product availability and the status of deliveries and/or 
+				returned items.
+			</p>
+			<p>
+				After your membership, from time to time we may contact you regarding offers or promotions that may
+				be of interest to you. If you do not wish to receive these emails after your membership is closed you
+				can unsubscribe from the Quickflix Mailing List by visiting:<br> <a href="http://www.quickflix.com.au/public/tools/unsubscribe.aspx">http://www.quickflix.com.au/public/tools/unsubscribe.aspx</a>
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+
+			<h2>Links to external sites</h2>
+			<p>
+				Quickflix does not take any responsibility for its advertisers, outgoing links 
+				or any other part of its website that is not under direct or total control of 
+				Quickflix. We advise that users read the privacy policies of external sites 
+				before submitting personal information.
+			</p>
+
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+			
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+
+			<h2>Cookies</h2>
+			<p>
+				Quickflix stores cookies on your computer's hard drive. Cookies are small 
+				pieces of data that are sent to your browser from a Web server and stored on 
+				your hard drive. Cookies are used to streamline the sign-in process so you 
+				don't need to retype the sign-in information each time you visit our site. 
+				Cookies are also used for security purposes and allow us to gather usage 
+				information which we use to administer and enhance our service and the website. 
+				If your browser is set to not accept cookies, you will not be able to use the 
+				Quickflix site or service.
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Data quality</h2>
+			<p>
+				Quickflix takes all reasonable steps to ensure that all personal information we 
+				collect and use is accurate, complete and up-to-date. To this end we have 
+				provided a facility under "My account" for you to change, amend and update your 
+				personal details. It is your responsibility to make sure this information is 
+				accurate and complete.
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Data security</h2>
+			<p>
+				Quickflix will take reasonable steps to ensure that all information we collect, 
+				use or disclose is accurate, complete, up-to-date and stored in a secure 
+				environment accessed only by authorised persons. Quickflix also takes 
+				reasonable steps to protect personal information it holds from misuse and loss 
+				and from unauthorised access, modification and disclosure.
+			</p>
+			<p>
+				Where credit card details are transmitted, we use 128-bit encryption through 
+				Secure Sockets Layer (SSL) technology. The common name of encryption 
+				certificate may be that of either Quickflix or Quickflix's official hosting 
+				partner. This encryption process ensures that the information you give us is 
+				protected against unauthorised access. If you have any queries concerning 
+				encryption please contact our Customer Service team.
+			</p>
+			<p>
+				We have implemented technology and security features, as well as strict 
+				internal guidelines to safeguard the privacy of your personal information from 
+				unauthorised access. We will continue to enhance these features as technology 
+				changes and becomes available. Whilst we make every effort to ensure that your 
+				information is secure on our system, no data transmission over the internet can 
+				be guaranteed to be 100% secure. As a result, we cannot guarantee the security 
+				of any information you transmit to us, and you do so at your own risk.
+			</p>
+			<p>
+				Furthermore Quickflix takes reasonable steps to destroy or permanently 
+				de-identify personal information if it is no longer needed for any purpose.
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<a name="QFXSurveys"></a><h2>Surveys</h2>
+			<p>
+				We do not collect personally identifiable information about you in our surveys except
+				when you specifically provide this information on a <span style="text-decoration: underline;">voluntary</span>
+				basis. Information is stored and used in anonymous non-traceable form. Quickflix reserves the
+				right to perform statistical analysis of customer behaviour and characteristics.
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Changes to our privacy policy</h2>
+			<p>
+				Quickflix reserves the right from time to time to change this policy at its 
+				sole discretion. We will notify you of any updates by email. The most current 
+				version of the privacy policy will supersede all previous versions and can be 
+				reviewed by clicking on the "Privacy policy" hyperlink located at the bottom of 
+				the pages of the Quickflix website.
+			</p>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
+	<div class="StandardPanel Light">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
+		<div class="PanelSpacer">
+			<h2>Contact</h2>
+			<p>
+				If you have any questions, comments or complaints concerning this policy, 
+				please contact:
+			</p>
+			<p>
+				<b>Privacy Officer</b><br>
+				Quickflix Limited<br>
+				PO Box 7260<br>
+				Cloisters Square<br>
+				Western Australia 6850
+			</p>
+			<p>or use the <a id="PrivacyPolicyBox_hlContactUsLink" href="/Public/Home/ContactUs.aspx">"Contact us"</a> form available on the 
+				Quickflix website.</p>
+			<p>More information on Australian privacy legislation is available from the Office 
+				of the Federal Privacy Commissioner at <a href="http://www.privacy.gov.au">www.privacy.gov.au</a></p>
+			<div align="right">
 				
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Mail (electronic and postal)</h2>
-													<p>
-														During the course of your membership, you will receive postal mail and/or 
-														emails from Quickflix that contain information relating to your account and the 
-														service provided to you as a member, including but not limited to website 
-														changes, product additions, news and current updates concerning the industry, 
-														website and account, product availability and the status of deliveries and/or 
-														returned items.
-													</p>
-													<p>
-														After your membership, from time to time we may contact you regarding offers or promotions that may
-														be of interest to you. If you do not wish to receive these emails after your membership is closed you
-														can unsubscribe from the Quickflix Mailing List by visiting:<br> <a href="http://www.quickflix.com.au/public/tools/unsubscribe.aspx">http://www.quickflix.com.au/public/tools/unsubscribe.aspx</a>
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
+			</div>
+		</div>
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
+	</div>
+	
 
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-
-													<h2>Links to external sites</h2>
-													<p>
-														Quickflix does not take any responsibility for its advertisers, outgoing links 
-														or any other part of its website that is not under direct or total control of 
-														Quickflix. We advise that users read the privacy policies of external sites 
-														before submitting personal information.
-													</p>
-
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-													
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-				
-													<h2>Cookies</h2>
-													<p>
-														Quickflix stores cookies on your computer's hard drive. Cookies are small 
-														pieces of data that are sent to your browser from a Web server and stored on 
-														your hard drive. Cookies are used to streamline the sign-in process so you 
-														don't need to retype the sign-in information each time you visit our site. 
-														Cookies are also used for security purposes and allow us to gather usage 
-														information which we use to administer and enhance our service and the website. 
-														If your browser is set to not accept cookies, you will not be able to use the 
-														Quickflix site or service.
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Data quality</h2>
-													<p>
-														Quickflix takes all reasonable steps to ensure that all personal information we 
-														collect and use is accurate, complete and up-to-date. To this end we have 
-														provided a facility under "My account" for you to change, amend and update your 
-														personal details. It is your responsibility to make sure this information is 
-														accurate and complete.
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Data security</h2>
-													<p>
-														Quickflix will take reasonable steps to ensure that all information we collect, 
-														use or disclose is accurate, complete, up-to-date and stored in a secure 
-														environment accessed only by authorised persons. Quickflix also takes 
-														reasonable steps to protect personal information it holds from misuse and loss 
-														and from unauthorised access, modification and disclosure.
-													</p>
-													<p>
-														Where credit card details are transmitted, we use 128-bit encryption through 
-														Secure Sockets Layer (SSL) technology. The common name of encryption 
-														certificate may be that of either Quickflix or Quickflix's official hosting 
-														partner. This encryption process ensures that the information you give us is 
-														protected against unauthorised access. If you have any queries concerning 
-														encryption please contact our Customer Service team.
-													</p>
-													<p>
-														We have implemented technology and security features, as well as strict 
-														internal guidelines to safeguard the privacy of your personal information from 
-														unauthorised access. We will continue to enhance these features as technology 
-														changes and becomes available. Whilst we make every effort to ensure that your 
-														information is secure on our system, no data transmission over the internet can 
-														be guaranteed to be 100% secure. As a result, we cannot guarantee the security 
-														of any information you transmit to us, and you do so at your own risk.
-													</p>
-													<p>
-														Furthermore Quickflix takes reasonable steps to destroy or permanently 
-														de-identify personal information if it is no longer needed for any purpose.
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<a name="QFXSurveys"></a><h2>Surveys</h2>
-													<p>
-														We do not collect personally identifiable information about you in our surveys except
-														when you specifically provide this information on a <span style="text-decoration: underline;">voluntary</span>
-														basis. Information is stored and used in anonymous non-traceable form. Quickflix reserves the
-														right to perform statistical analysis of customer behaviour and characteristics.
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Changes to our privacy policy</h2>
-													<p>
-														Quickflix reserves the right from time to time to change this policy at its 
-														sole discretion. We will notify you of any updates by email. The most current 
-														version of the privacy policy will supersede all previous versions and can be 
-														reviewed by clicking on the "Privacy policy" hyperlink located at the bottom of 
-														the pages of the Quickflix website.
-													</p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-											<div class="StandardPanel Light">
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-top-lightcorners.gif" width="553" height="6">
-												<div class="PanelSpacer">
-													<h2>Contact</h2>
-													<p>
-														If you have any questions, comments or complaints concerning this policy, 
-														please contact:
-													</p>
-													<p>
-														<b>Privacy Officer</b><br>
-														Quickflix Limited<br>
-														PO Box 7260<br>
-														Cloisters Square<br>
-														Western Australia 6850
-													</p>
-													<p>or use the <a id="hlContactUsLink" href="/Public/Home/ContactUs.aspx">"Contact us"</a> form available on the 
-														Quickflix website.</p>
-													<p>More information on Australian privacy legislation is available from the Office 
-														of the Federal Privacy Commissioner at <a href="http://www.privacy.gov.au">www.privacy.gov.au</a></p>
-												</div>
-												<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-light-bottom-lightcorners.gif" width="553" height="6">
-											</div>
-											
-										
 </td></tr></tbody></table>
 
-										
+
 
 									</div>
 								</td>
 								<td valign="top">
 									<div id="ContainerRight">
 										
-<div class="SidePanel HighLight Splash" style="background-image : url(http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-highlight-bg-softcurve.gif)">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-highlight-top-darkcorners.gif" width="182" height="6">
-	<div class="PanelSpacer">
-		<h1 class="SidePanelHeader">Member sign in</h1>
 
-		<table cellspacing="0" cellpadding="0" border="0" width="100%">
-			<tbody><tr>
-				<td colspan="2" height="5"></td>
-			</tr>
-			<tr>
-				<td>Email:</td>
-				<td align="right"><input name="SideMenu1:LoginBox1:txtEmail" type="text" size="15" id="SideMenu1_LoginBox1_txtEmail" class="InlineObject"></td>
-			</tr>
-			<tr>
-				<td colspan="2" height="3"></td>
-			</tr>
-			<tr>
-				<td>Password:</td>
-				<td align="right"><input name="SideMenu1:LoginBox1:txtPassword" type="password" size="15" id="SideMenu1_LoginBox1_txtPassword" class="InlineObject" onkeypress="
-if(event.keyCode==13)
-{  
-    document.getElementById('SideMenu1_LoginBox1_imgLogin').click();   
-    event.returnValue=false;
-}"></td>
-			</tr>
-			<tr>
-				<td colspan="2" height="5"></td>
-			</tr>
-			<tr>
-				<td colspan="2"><input type="image" name="SideMenu1:LoginBox1:imgLogin" id="SideMenu1_LoginBox1_imgLogin" class="InlineObject" src="http://www.quickflix.com.au/theme/quickflix/v3/buttons/button-signin-small.gif" alt="" align="Right" border="0"><span class="InlineObject"><input id="SideMenu1_LoginBox1_chkRememberLogin" type="checkbox" name="SideMenu1:LoginBox1:chkRememberLogin"><label for="SideMenu1_LoginBox1_chkRememberLogin">Remember me</label></span></td>
-			</tr>
-			<tr>
-				<td colspan="2">
-					<div style="margin-top : 5px; text-align : right;"><a href="/public/forgotpassword/forgotpassword.aspx">Forgotten your password?</a></div>
-				</td>
-			</tr>
-		</tbody></table>
-		
-
-	</div>
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-highlight-bottom-lightcorners.gif" width="182" height="6">
+<div id="SideMenu1_divStartFreeTrialTop" align="left" style="padding-bottom:10px;">
+	<a id="SideMenu1_hlStartFreeTrialTop" href="/public/freetrial/freetrial.aspx"><img id="SideMenu1_imgStartFreeTrialTopButton" src="http://www.quickflix.com.au/theme/quickflix/v3/buttons/signup-button.gif" alt="" border="0"></a>
 </div>
 
 
-<div id="SideMenu1_ucMailingListBox_CompactWidthBox">
-	<div class="SidePanel" style="background-image: url(http://www.quickflix.com.au/theme/quickflix/v3/panels/panel-greygradient-bg.jpg); background-repeat: repeat-x;">
-		<img src="http://www.quickflix.com.au/theme/quickflix/v3/sidebanner-freeezine.gif" width="182" height="51" alt="Free E-zine!">
+<div id="SideMenu1_ucMailingListBox_CompactWidthBox" style="text-align:left;">
+	<div class="SidePanel Medium Soften">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-top-lightcorners.gif" width="182" height="6">
 		<div class="PanelSpacer">
+			<h1 class="SidePanelHeader">Quickflix Newsletter</h1>
 			
 			<div id="SideMenu1_ucMailingListBox_CompactWidthInputControls">
 				<table cellpadding="0" cellspacing="0" border="0" width="100%">
 					<tbody><tr>
 						<td style="padding-bottom: 5px;">
-							Get the latest entertainment updates and special offers
+							Get the latest movie reviews and Quickflix special offers.
+							
 						</td>
 					</tr>
 					<tr>
-						<td>
-							<input name="SideMenu1:ucMailingListBox:EmailCompactTextBox" type="text" size="24" id="SideMenu1_ucMailingListBox_EmailCompactTextBox">
-						</td>
-					</tr>
-					<tr>
-						<td style="padding-top: 5px;" align="right">
-							<input type="image" name="SideMenu1:ucMailingListBox:OKCompactButton" id="SideMenu1_ucMailingListBox_OKCompactButton" src="http://www.quickflix.com.au/theme/quickflix/v3/buttons/button-signup-small.gif" alt="" border="0">
+						<td style="padding-bottom: 3px;">
+							Enter your email here:<br>
+							<input name="SideMenu1:ucMailingListBox:EmailCompactTextBox" type="text" size="25" id="SideMenu1_ucMailingListBox_EmailCompactTextBox" class="InlineObject">
 						</td>
 					</tr>
 				</tbody></table>
+				 <input type="image" name="SideMenu1:ucMailingListBox:OKCompactButton" id="SideMenu1_ucMailingListBox_OKCompactButton" class="InlineImage" src="http://www.quickflix.com.au/theme/quickflix/v3/buttons/button-subscribe-for-free.gif" alt="" align="AbsMiddle" border="0"><br>
+				<a href="#" target="_self" onclick="window.open('/Public/Home/PopupPage.aspx?ControlToShow=PrivacyPolicy', 'CustomerInformation', 'width=600,height=400,resizable=yes,scrollbars=yes,status=no');" class="">We value your privacy</a>
+
 			</div>
 		</div>
-		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-light-bottom-lightcorners.gif" width="182" height="6">
+		<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-bottom-lightcorners.gif" width="182" height="6">
 	</div>
 </div>
 
-<div class="SidePanel Medium SemiTransparent" style="background-image : url(http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-bg.gif)">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-top-lightcorners.gif" width="182" height="6">
-	<div class="PanelSpacer">
-		<h1 class="SidePanelHeader"><a href="/public/tools/advancedsearch.aspx" class="SidePanelHeader">Quicksearch</a></h1>
-		<input name="SideMenu1:txtSearch" type="text" size="24" id="SideMenu1_txtSearch" class="SearchBox" onkeypress="
-if(event.keyCode==13)
-{  
-    document.getElementById('SideMenu1_imgBtnSearch').click();   
-    event.returnValue=false;
-}" style="margin-bottom : 5px;">
-		<table cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td>
-					<select name="SideMenu1:SearchChoiceDropDownList" id="SideMenu1_SearchChoiceDropDownList">
-	<option value="Actor">Actor</option>
-	<option selected="selected" value="Movie">Movie</option>
-	<option value="Director">Director</option>
-	<option value="Year">Year</option>
-
-</select>
-				</td>
-				<td><input type="image" name="SideMenu1:imgBtnSearch" id="SideMenu1_imgBtnSearch" src="http://www.quickflix.com.au/theme/quickflix/v3/buttons/button-search.gif" alt="Search" border="0" style="float : right;"></td>
-			</tr>
-		</tbody></table>
-		
-		<div align="right" style="margin-top : 5px;"><a href="/Public/Tools/AdvancedSearch.aspx">Advanced search...</a></div>
-	</div>
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-bottom-lightcorners.gif" width="182" height="6">
-</div>
 
 
-<div id="SideMenu1_SideMenuAdvertBox1_PublicAdvertisement" class="SidePanel">
-	<div style="background-image : url(http://www.quickflix.com.au/theme/quickflix/v3/sidebanner-vouchers.gif)">
-		<div class="Medium">
-			<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-top-lightcorners.gif" width="182" height="6">
-			<a href="/public/giftvouchers/giftvouchers.aspx"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="182" height="88" border="0"></a>
-			<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-bottom-lightcorners.gif" width="182" height="6">
-		</div>
-	</div>
-</div>
+
+
+
 	
-
-
-<!--%@ OutputCache Duration="60" VaryByParam="None" VaryByCustom="SchemeAndSite" %-->
-
-<div class="SidePanel Light">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-light-top-lightcorners.gif" width="182" height="6">
-	<div class="PanelSpacer">
-		<h1 class="SidePanelHeader"><a href="/public/tools/viewallgenre.aspx" class="SidePanelHeader">Browse by genre</a></h1>
-		<table id="SideMenu1_CachedSideMenuLists_dlGenres" cellspacing="0" border="0">
-	<tbody><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Action/1.aspx">Action</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Adventure/2.aspx">Adventure</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Anime/3.aspx">Anime</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Arthouse/361.aspx">Arthouse</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Australian/4.aspx">Australian</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Children/5.aspx">Children</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Comedy/6.aspx">Comedy</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Crime/7.aspx">Crime</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Documentary/8.aspx">Documentary</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Drama/9.aspx">Drama</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Family/10.aspx">Family</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Fantasy/11.aspx">Fantasy</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Foreign/12.aspx">Foreign</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Horror/13.aspx">Horror</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Lifestyle/370.aspx">Lifestyle</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Music/14.aspx">Music</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Performance/374.aspx">Performance</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Romance/15.aspx">Romance</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/SciFi/16.aspx">SciFi</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Sport/17.aspx">Sport</a></div>
-			</td>
-	</tr><tr>
-		<td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Television/18.aspx">Television</a></div>
-			</td><td>
-				<div class="ListItem" style="padding-bottom : 3px; padding-right : 5px;"><a href="/public/tools/viewgenre/Thriller/19.aspx">Thriller</a></div>
-			</td>
-	</tr>
-</tbody></table>
-		<div id="SideMenu1_CachedSideMenuLists_divAdultFlix" align="left" class="ListItem">
-			<a id="SideMenu1_CachedSideMenuLists_hlAdultFlix" class="InlineObject" href="/public/home/AdultFlixOffer.aspx">Adult</a>&nbsp;&nbsp;<img src="http://www.quickflix.com.au/theme/quickflix/v3/icon/new-purple.gif" class="InlineObject" width="28" height="10" align="absmiddle">
-		</div>
-		<div align="right" style="margin-top : 5px;"><a href="/public/tools/viewallgenre.aspx">More genres...</a></div>
-	</div>
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-light-bottom-lightcorners.gif" width="182" height="6">
-</div>
-
-<div class="SidePanel Medium SemiTransparent">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-top-lightcorners.gif" width="182" height="6">
-	<div class="PanelSpacer">
-		<h1 class="SidePanelHeader"><a href="/Public/Find/Find.aspx" class="SidePanelHeader">Help me find a DVD</a></h1>
-		<div id="SideMenu1_CachedSideMenuLists_ScottGoodingsLink" class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/editorials/scottgoodings.aspx">Scott Goodings: TV Freak</a></div>
-		<div id="SideMenu1_CachedSideMenuLists_MeganSpencerLink" class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/editorials/meganspencer.aspx">Film with Megan Spencer</a></div>
-		
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=194">Santa's choice</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=226">King Kong</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=216">Festive fun</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=181">Featured titles</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=182">Coming soon</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=180">Latest releases</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=183">New to DVD</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=184">New to the library</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=190">Time Magazine's greatest films of all time</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=4">Highly rated</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a href="/public/FindMovie/DVDlistTitles.aspx?ListID=5">Most requested</a></div>
-			
-		
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a id="SideMenu1_CachedSideMenuLists_dlCritic__ctl0_hlCriticId" href="/public/tools/criticreviews/DavidStratton/1.aspx"> David Stratton's reviews</a></div>
-			
-				<div class="ListItem" style="padding-bottom : 3px; text-align : left;"><a id="SideMenu1_CachedSideMenuLists_dlCritic__ctl1_hlCriticId" href="/public/tools/criticreviews/GavinBond/4.aspx"> Gavin Bond's reviews</a></div>
-			
-		<div align="right" style="margin-top : 5px;"><a href="/Public/Tools/ViewLists.aspx">More collections...</a></div>
-	</div>
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-medium-bottom-lightcorners.gif" width="182" height="6">
-</div>
-
-<div class="SidePanel Light">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-light-top-lightcorners.gif" width="182" height="6">
-	<div class="PanelSpacer">
-		<h1 class="SidePanelHeader">Browse alphabetically</h1>
-		<p align="left">
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=A"><strong>A</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=B"><strong>B</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=C"><strong>C</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=D"><strong>D</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=E"><strong>E</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=F"><strong>F</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=G"><strong>G</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=H"><strong>H</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=I"><strong>I</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=J"><strong>J</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=K"><strong>K</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=L"><strong>L</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=M"><strong>M</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=N"><strong>N</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=O"><strong>O</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=P"><strong>P</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=Q"><strong>Q</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=R"><strong>R</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=S"><strong>S</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=T"><strong>T</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=U"><strong>U</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=V"><strong>V</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=W"><strong>W</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=X"><strong>X</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=Y"><strong>Y</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=Z"><strong>Z</strong></a>
-			<a href="/public/findmovie/BrowseByCharacter.aspx?Char=0"><strong>0-9</strong></a>
-		</p>
-	</div>
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-light-bottom-lightcorners.gif" width="182" height="6">
-</div>
-
-
-<div id="SideMenu1_WhyChooseBox" class="SidePanel Highlight Splash">
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-highlight-top-lightcorners.gif" width="182" height="6">
-	<div class="PanelSpacer" align="center" style="margin-bottom: 5px;">
-		<strong><a href="/public/learnmore/learnmore.aspx">Why choose Quickflix?</a></strong>
-	</div>
-	<img src="http://www.quickflix.com.au/theme/quickflix/v3/panels/sidepanel-highlight-bottom-lightcorners.gif" width="182" height="6">
-</div>
-
 <p align="center">
-	<a id="SideMenu1_hlFreeTrial" href="/public/freetrial/freetrial.aspx"><img id="SideMenu1_imgFreeTrial" src="http://www.quickflix.com.au/theme/quickflix/v3/buttons/button-joinnow.gif" alt="" border="0" height="23" width="88"></a>
+	
 </p>
 
 
@@ -656,27 +484,71 @@ if(event.keyCode==13)
 				</div>
 				<div id="ContainerFooter">
 					
-<img src="http://www.quickflix.com.au/theme/v3common/partners-footer.gif" width="791" height="85" alt="Our partners">
+	<!--<table width="791" height="95" border="0" cellpadding="0" cellspacing="0" background="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_28.gif">
+	<tr>
+		<td height="9"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_01.gif" width="791" height="9" class="InlineImage"></td>
+	</tr>
+	<tr>
+		<td height="10" align="center"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_03.gif" width="719" height="10" class="InlineImage"></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_13.gif" width="66" height="41" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_05.gif" width="36" height="41" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_07.gif" width="68" height="41" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_09.gif" width="79" height="41" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_11.gif" width="86" height="41" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_15.gif" width="57" height="41" class="InlineImage"></td>
+	</tr>
+	<tr>
+		<td align="center">--><!--<img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_18.gif" width="127" height="25" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage">--><!--<img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_22.gif" width="56" height="21" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_20.gif" width="84" height="25" class="InlineImage"><!--<img src="http://www.quickflix.com.au/theme/v3common/spacer.gif" width="60" height="10" class="InlineImage"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_24.gif" width="131" height="21" class="InlineImage">--><!--</td>
+	</tr>
+	<tr>
+		<td height="9"><img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates_29.gif" width="791" height="9" class="InlineImage"></td>
+	</tr>
+</table>-->
+<img src="http://www.quickflix.com.au/theme/v3common/Affiliates/affiliates.gif" class="InlineImage">
+
 
 <p>
-<a href="/public/home/aboutus.aspx">About us</a> |
+
+<a href="/">Welcome</a> |
+<a href="/public/howitworks/howitworks.aspx">How it works</a> |
+<a href="/public/find/find.aspx">Browse DVDs</a> |
+<a href="/public/plansandprices/plansandprices.aspx">Plans &amp; prices</a> | 
+
+<a href="/public/freetrial/freetrial.aspx">Start your free trial</a><br>
+
+<a href="/public/home/Aboutus.aspx">About us</a> |
 <a href="/public/home/contactus.aspx">Contact us</a> |
-<a href="/public/giftvouchers/giftvouchers.aspx">Gift subscriptions</a> |
-<a href="/public/learnmore/learnmore.aspx">Learn more</a> |
-<a href="/public/plansandprices/plansandprices.aspx">Plans &amp; prices</a> |
-<a href="/public/home/privacypolicy.aspx">Privacy policy</a> |
-<a href="/public/home/termsandconditions.aspx">Terms &amp; conditions</a> |
 <a href="/public/home/jobs.aspx">Jobs</a> |
-<a href="/public/home/sitemap.aspx">Site map</a>
+<a href="/public/home/sitemap.aspx">Site map</a> |
+<a href="/public/home/resources.aspx">Resources</a> |
+<a href="/public/home/termsandconditions.aspx">Terms &amp; conditions</a> |
+<a href="/public/home/privacypolicy.aspx">Privacy policy</a> |
+<a href="/public/investors/investors.aspx">Investors</a> | 
+<a href="/public/home/affiliates.aspx">Affiliates</a> | 
 
-<br><a href="/public/investors/investors.aspx">Investors</a> | <a href="/public/home/affiliates.aspx">Affiliates</a>
+<a href="/public/giftvouchers/giftvouchers.aspx">Buy/Redeem gift</a>
+<br>
 
 </p>
+
 <p>
-Copyright © 2005 <a href="http://www.quickflix.com.au">Quickflix Ltd</a> (ABN 62 102 459 352). 
-All rights reserved. Version 3.0.13.102 (WEB3)
+Copyright © 2007 Quickflix Ltd (ABN 62 102 459 352). 
+All rights reserved. Version 3.0.15.172
 </p>
-<iframe id="PageFooter1_ratingsiframe" scrolling="no" marginwidth="0" width="0" height="0" marginheight="0" frameborder="0" name="ratingsiframe" vspace="0" hspace="0" style="VISIBILITY: hidden"></iframe>
+
+
+
+	<iframe name="ratingsiframe" id="ratingsiframe" width="0" height="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no" frameborder="0" onload="RefreshSummary()" style="VISIBILITY: hidden"></iframe>
+	<script language="JavaScript" type="text/javascript">
+	WriteTip();
+	</script>
+
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+		_uacct = "UA-225590-3";
+		urchinTracker();
+	</script>
+
+
 
 
 				</div>
