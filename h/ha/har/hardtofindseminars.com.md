@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110117id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231133441id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement LAST UPDATED July 23rd, 2005
 
-> > LAST UPDATED  January 10 2006
+> > LAST UPDATED  October 12 2006
 >> 
 >> JS&M Sales & Marketing Inc. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 >> 
@@ -34,9 +34,7 @@
 >> 
 >> Contacting Us.
 >> 
->> We can be reached by contacting:
->> 
->> Email: [ admin@hardtofindseminars.com](mailto:michael@michaelsenoff.com)
+>> We can be reached by contacting through 
 >> 
 >> Mail: JS&M Sales & Marketing Inc., 3675 South Rainbow Blvd. #107-534, Las Vegas, NV 89103-1059
 >> 
@@ -53,4 +51,4 @@
 >> This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
 >   
 >> 
->> **Copyright © 2005 JS &M Sales & Marketing Inc. **
+>> **Copyright © 2006 JS &M Sales & Marketing Inc. **
