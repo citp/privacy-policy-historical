@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2006-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060405125747id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231021039id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
 
 # SWIFT - About SWIFT - - Privacy statement
 
@@ -16,7 +16,7 @@ If you browse the SWIFT website, you do so anonymously. We may use your IP addre
 When you **voluntarily** supply us with your personal information such as your name, home or business address and email address or other contact information, we will use it to correspond with you. In the future, we may also use it to start a subscription upon your request, to register you for a particular service or event, or to prepare your purchase orders. 
 
 **Recruitment data**  
-Our site also provides a capability for candidates to submit their application via the Internet. To see our recruitment privacy policy, please [click here](https://web.archive.org/web/20060405125747id_/http%3A//www.swift.com/index.cfm?item_id=42639).
+Our site also provides a capability for candidates to submit their application via the Internet. To see our recruitment privacy policy, please [click here](https://web.archive.org/web/20061231021039id_/http%3A//www.swift.com/index.cfm?item_id=42639).
 
 **Sharing your data**   
 Because SWIFT operates globally, we may transfer data you submitted to us within our organisation, including to our subsidiaries (local SWIFT offices), our sub-contractors or business partners strictly in order to fulfil your request(s). These entities are required to maintain the confidentiality of the information and are restricted from using it for any purpose other than helping us to provide you with services. We will not share or sell the information to any outside parties, without your consent. 
@@ -35,4 +35,5 @@ Currently, we only retain information about you in order to reply to your emails
 
 ### Links to other sites 
 
-This website may contain links to other websites that are not controlled or maintained by SWIFT. Please note that SWIFT is not responsible for the content of these sites. SWIFT is providing outside links for your convenience only, and the inclusion of such links does not imply any endorsement of these sites. 
+This website may contain links to other websites that are not controlled or maintained by SWIFT. Please note that SWIFT is not responsible for the content of these sites. SWIFT is providing outside links for your convenience only, and the inclusion of such links does not imply any endorsement of these sites.   
+
