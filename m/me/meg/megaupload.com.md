@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megaupload.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025208id_/http%3A//www.megaupload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaupload.com privacy policy that was archived on 2007-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070110063551id_/http%3A//www.megaupload.com/privacy) for the most accurate reproduction.*
 
-# MEGAUPLOAD.com
+# MEGAUPLOAD - The leading online storage and file delivery service
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by Megaupload for measuring usage. 
@@ -12,7 +12,7 @@ We collect the e-mail addresses of Megaupload Delivery recipients and senders fo
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process. 
 
 **Use of Cookies**   
-Megaupload uses cookies to store the preferences of users, only if they so choose. 
+Megaupload uses cookies to store the preferences of users. 
 
 **File Transfer Security**   
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by Megaupload and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire. 
@@ -23,4 +23,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-Effective Date: April 17, 2005 
+Effective Date: November 1, 2006 
