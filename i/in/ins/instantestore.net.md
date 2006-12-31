@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instantestore.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015450id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantestore.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231053618id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# InstanteStore.com - Ecommerce Solutions & Shopping Cart Software
+# eCommerce Solutions & Shopping Cart Software by InstanteStore
 
 1) InstanteStore.com does collect demographic data and personal data to provide you with a better internet experience.
 
