@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macfixit.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618042259id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macfixit.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231154545id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
 
-# TechTracker – Technology Advertising Network.
+# TechTracker - desktop management solutions and software download tools for Windows, Macintosh, and Palm OS.
 
 **This statement discloses the privacy practices for the TechTracker family of web sites (www.techtracker.com, www.versiontracker.com, and www.macfixit.com) hereafter referenced as TechTracker, or "us" or "we."**
 
@@ -37,6 +37,8 @@ You may edit any of your membership preferences, at any time, by logging in to t
 The security of our users' personally identifiable information is of the highest priority. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or through our Services, and you do so at your own risk. 
 
 Once we receive your transmission, we make our best effort to ensure its security on our systems. Whenever credit card information is transmitted, we use industry-standard, SSL (secure socket layer) encryption. Only those who have your username and password can access your account information. We strongly recommend that you do not share your password with anyone. We will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Please remember to sign out properly and close your browser window when you have finished your work. This helps ensure that others cannot access your personal information. 
+
+We use technology provided by a third-party advertising company (DoubleClick, Inc.) to serve ads when you visit our Web site. This technology may use information about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, such third-party advertising technology may place or recognize a unique 'cookie' on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please click here: <http://www.doubleclick.net/us/corporate/privacy>
 
 We may change this Privacy Policy from time to time. Be assured that even if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent. 
 
