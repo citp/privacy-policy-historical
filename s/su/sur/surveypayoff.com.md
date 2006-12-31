@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypayoff.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021914id_/http%3A//surveypayoff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypayoff.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231191100id_/http%3A//www.surveypayoff.com/privacy.html) for the most accurate reproduction.*
 
 # SurveyPayoff.com - Get Paid For Your Opinion!
 
@@ -8,7 +8,7 @@ Privacy
 
 **Your Information  
 **  
-Information that you submit directly to us will never be shared or sold to any other party without your authorization as explained below.  Surveypayoff.com may use your e-mail address to inform you of updates to our database or new survey offers.  You can simply unsubscribe to these updates by clicking the link at the bottom of the first update e-mail that you may receive or by [clicking here](https://web.archive.org/web/20060615021914id_/http%3A//surveypayoff.com/unsubscribe.html).
+Information that you submit directly to us will never be shared or sold to any other party without your authorization as explained below.  Surveypayoff.com may use your e-mail address to inform you of updates to our database or new survey offers.  You can simply unsubscribe to these updates by clicking the link at the bottom of the first update e-mail that you may receive or by [clicking here](https://web.archive.org/web/20061231191100id_/http%3A//www.surveypayoff.com/unsubscribe.html).
 
  **You may Opt-In to Advertiser Offers**
 
@@ -22,4 +22,4 @@ In the unlikely event that Surveypayoff.com undergoes a corporate restructuring 
 **Our web site contains links to web sites of external companies.  We are not responsible for these sites.  Please make sure you read any privacy notices on these sites as they may differ from ours. Our information about these sites is believed to be correct at the time of publishing , and we strive to keep our information updated. However, it may contain errors at any given time.  In no event will we be liable to you or any other third party for any direct, indirect, special or other consequential damages for any use of this Site, or on any site hyperlinked from this website, including, without limitation, any lost profits, business interruption, loss of programs or other data on your information handling system or otherwise, even if we are expressly advised of the possibility of such damages. 
 
 SurveyPayOff.com is part of Varsityplaza LLC.  
-We can be contacted by [clicking here](https://web.archive.org/web/20060615021914id_/http%3A//surveypayoff.com/contact.html).
+We can be contacted by [clicking here](https://web.archive.org/web/20061231191100id_/http%3A//www.surveypayoff.com/contact.html).
