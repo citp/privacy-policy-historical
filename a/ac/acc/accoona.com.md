@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accoona.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118234601id_/http%3A//www.accoona.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accoona.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231010903id_/http%3A//www.accoona.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Accoona - Privacy Policy
+# accoona - Privacy Policy
 
 **Privacy Policy** \- Last Modified January 21, 2005 
 
@@ -16,7 +16,7 @@ Personal Information means any information that may be used to identify an indiv
 
 _How We May Use Your Information_
 
-If you provide us with Personal Information, we may retain and use that information for several purposes. For example, we may use your Personal Information in order to process and fulfill any transactions or services that you request, such as responding to your questions or sending e-mails to our mailing list subscribers. We may also use Personal Information to ensure compliance with our policies and applicable law. In addition, we may send you periodic communications by e-mail or regular mail, such as special offers or information on our services. If you wish to opt out of receiving e-mail communications from us at any time, simply follow the instructions for doing so in the e-mails that you receive from us. If you need any further assistance, you can contact us at the following page: [http://www.accoona.com/about/contact_us.jsp](https://web.archive.org/about/contact_us.jsp)
+If you provide us with Personal Information, we may retain and use that information for several purposes. For example, we may use your Personal Information in order to process and fulfill any transactions or services that you request, such as responding to your questions or sending e-mails to our mailing list subscribers. We may also use Personal Information to ensure compliance with our policies and applicable law. In addition, we may send you periodic communications by e-mail or regular mail, such as special offers or information on our services. If you wish to opt out of receiving e-mail communications from us at any time, simply follow the instructions for doing so in the e-mails that you receive from us. If you need any further assistance, you can contact us at the following page: <http://www.accoona.com/about/contact_us.jsp>
 
 _With Whom We May Share Your Information_
 
@@ -72,7 +72,7 @@ TRUSTe Privacy Program
 
 Accoona Corp. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.accoona.com](http://www.accoona.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact John Fernandez at [privacy@accoona.com](mailto:privacy@accoona.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact John Fernandez at [privacy@accoona.com](mailto:privacy@accoona.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <https://www.truste.org/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Contacting Us
 
