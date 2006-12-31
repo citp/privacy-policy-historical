@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the zillow.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425013944id_/http%3A//www.zillow.com/corp/Privacy.z) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillow.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231031002id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
 
-# Zillow.com - Privacy Policy
-
-  * [Home](https://web.archive.org/)
-  * Privacy
-
-
+# Zillow - Privacy Policy
 
 Zillow.com respects your privacy and recognizes the importance of protecting information collected from you through Zillow.com's Web site, related data, and/or related services (collectively, the "Services"). We have adopted this privacy policy. Zillow.com will comply with this policy, and applicable privacy-related law, when we gather and use information from users of the Services. 
 
@@ -29,8 +24,8 @@ We will only share personal information in the following circumstances:
 
   * **Consent.** When you consent or direct Zillow.com to share the information.
   * **Affiliates and service providers.** When Zillow.com provides personal information to our affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this privacy policy. 
-  * **Legal Obligation or Protection from Harm.** When Zillow.com has a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/corp/Terms.z), (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, or (d) protect the rights, property, or safety of Zillow.com, its users, or the public against harm. 
-  * **Merger or sale.** When and if Zillow.com is involved in a merger, acquisition, or any form of sale of some or all of its business, personal information may be transferred along with the business. We may share with third parties aggregate information or information that does not personally identify individuals. 
+  * **Legal Obligation or Protection from Harm.** When Zillow.com has a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/corp/Terms.htm), (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, or (d) protect the rights, property, or safety of Zillow.com, its users, or the public against harm. 
+  * **Merger or sale.** When and if Zillow.com is involved in a merger, acquisition, or any form of sale of some or all of its business, personal information may be transferred along with the business. 
 
 
 
@@ -38,7 +33,11 @@ We may share with third parties aggregate information or information that does n
 
 ### Opting Out
 
-If you want Zillow.com to cease sending you e-mail about the Services, you can discontinue such communication by following the instructions included in our e-mail. If you do not want Zillow.com and its marketing service provider to follow your usage of the Services via cookies, you can opt out of the Web site analysis tool by clicking here: <http://www.omniture.com/global/privacy>.
+If you want Zillow.com to cease sending you e-mail about the Services, you can discontinue such communication by following the instructions included in our e-mail, or if you have a user account with Zillow.com, you can [indicate your preference](https://web.archive.org/myzillow/Account.htm). If you do not want Zillow.com and its marketing service provider to follow your usage of the Services via cookies, you can opt out of the Web site analysis tool by clicking here: <http://www.omniture.com/global/privacy>.
+
+### Collection of Information by Ad Servers
+
+Zillow.com may use a third party to present or serve advertisements that you may see at Zillow.com Web pages. These third-party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third-party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on this site's use of such third-party ad servers, please [click here](http://www.networkadvertising.org/).
 
 ### Windows Live™ Virtual Earth
 
@@ -46,7 +45,7 @@ Windows Live Virtual Earth imagery is supplied by Microsoft Corporation, and use
 
 ### Third Party Web Sites
 
-The Services may include links to the Web sites of other companies and/or individuals. These third party Web sites may collect personal information about users, and Zillow.com's privacy policy does not extend to these external Web sites and third parties. Please refer directly to these third parties and Web sites regarding their privacy policies.
+The Services may include links to the Web sites of other companies and/or individuals. These third party Web sites may collect personal information about users on those Web sites, and Zillow.com's privacy policy does not extend to these external Web sites and third parties. Please refer directly to these third parties and Web sites regarding their privacy policies.
 
 ### Children Under the Age of 13
 
@@ -60,4 +59,4 @@ Personal information will be processed and stored by Zillow.com in databases hos
 
 If you have any questions about this privacy statement, or the privacy practices of Zillow.com, please contact us by e-mailing [privacy@zillow.com](mailto:privacy@zillow.com) .
 
-_— Updated April 2006_
+_— Updated November 2006_
