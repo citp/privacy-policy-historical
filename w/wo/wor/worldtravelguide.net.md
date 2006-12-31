@@ -1,29 +1,7 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619081105id_/http%3A//www.worldtravelguide.net/privacy.ehtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115232id_/http%3A//www.worldtravelguide.net/privacy.ehtml) for the most accurate reproduction.*
 
 # Privacy Policy - World Travel Guide
 
-[](http://www.worldtravelguide.net/privacy.ehtml?)    [](http://www.guidemondialdevoyage.com/privacy.ehtml?)    [](http://www.guiamundialdeviajes.com/privacy.ehtml?)    [](http://www.derreisefuehrer.com/privacy.ehtml?)
-
-|   | [Country Guides](http://www.worldtravelguide.net/country/ "Country Guides")  
----|---  
-  | [City Guides](http://cityguide.travel-guides.com/city/ "City Guides")  
-  | [Airport Guides](http://www.worldairportguide.com/airport/ "Airport Guides")  
-  | [Attraction Guides](http://worldtouristattractions.travel-guides.com/attraction/ "Attraction Guides")  
-  | [Event Guides](http://www.worldeventsguide.com/ "World Events Guide")  
-  | [Tour Guides](http://www.worldtravelguide.net/tour/ "Tour Guides")  
-  | [Cruise Guides](http://cruise.travel-guides.com/cruise/ "Cruise Guides")  
-  | [World Clock](https://web.archive.org/clock/ "World Clock")  
-  | [Weather Guides](http://weather.travel-guide.com/weather/ "Weather Guides")  
-  | [Appendices](https://web.archive.org/appendices/ "Appendices")  
-  | [News](https://web.archive.org/news/ "News")  
-  | [Link to Us](https://web.archive.org/link_to_us.ehtml "Link to Us")  
-Travel Centre  
-  | [Travel Insurance](https://web.archive.org/travel_centre/redirect.ehtml?i=travel_insurance&url=http://www.preferential.co.uk/ "Travel Insurance")  
-  | [Car Hire](https://web.archive.org/travel_centre/redirect.ehtml?i=car_hire&url=http://www.beneluxcar.com/ "Car Hire")  
-  | [Brochures](https://web.archive.org/travel_centre/redirect.ehtml?i=brochures&url=/brochures/ "Brochures")  
-  | [Video](https://web.archive.org/travel_centre/redirect.ehtml?i=video&url=http://www.worldtravelguide.net/videos/index.ehtml "Video")  
-   
-  
 ## 1\. Introduction
 
 ### 1.1
@@ -89,6 +67,3 @@ If you tick an opt-in box the Administrators will provide your information to se
 ## 9\. Use of Cookies
 
 This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the World Travel Guide Website Service. You have the right to refuse cookies (please see your web browser's help file for information on doing this), but by doing so you may disrupt the performance of the World Travel Guide Website Service or make it inoperable to you. 
-
-  
-| 
