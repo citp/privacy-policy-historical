@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615090808id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231144801id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -19,11 +19,11 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
 
-|  [](https://web.archive.org/movie.html?id=81914&ad=367)
+|  [](https://web.archive.org/movie.html?id=90013&ad=423)
 
-[**Minotaur**](https://web.archive.org/movie.html?id=81914&ad=367)   
-Coming Jun 20  
-[Remind me when it's released!](https://web.archive.org/reminder.html?id=81914)  
+[**Cannibal Campout**](https://web.archive.org/movie.html?id=90013&ad=423)   
+Coming Jan 16  
+[Remind me when it's released!](https://web.archive.org/reminder.html?id=90013)  
  
 
 [ **Put VideoETA release dates on your web site!**](https://web.archive.org/link.html)  
