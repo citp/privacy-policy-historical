@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222753id_/http%3A//www.alertsite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231223946id_/http%3A//alertsite.com/privacy.shtml) for the most accurate reproduction.*
 
 # AlertSite: The Web Site Monitoring Company
 
@@ -9,11 +9,11 @@ The [www.AlertSite.com](http://www.alertsite.com/) website is owned and operated
 
 AlertSite designed its business practices to safeguard your privacy and responsible use of your personal information as part of AlertSite's attempt to make you a "Customer For Life."
 
-Alertsite is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.AlertSite.com](http://www.alertsite.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Alertsite is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.AlertSite.com](http://www.alertsite.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact a member of our management team at [admin@alertsite.com](mailto:admin@alertsite.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloadable from this site. 
+The TRUSTe program covers only information that is collected through this web site, and does not cover information that may be collected through software downloadable from this site. 
 
 Applicability of Privacy Policy
 
@@ -68,27 +68,27 @@ AlertSite's use of cookies on [www.AlertSite.com](http://www.alertsite.com/) all
 
 Changes to this Privacy Policy
 
-If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. AlertSite reserves the right to modify this Privacy Statement at any time, so please review it frequently. If we make any material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. AlertSite reserves the right to modify this Privacy Statement at any time, so please review it frequently. If we make any material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our homepage.
 
 Choice/Opt-out (Evaluation Period)
 
-AlertSite sends weekly promotional communications to users who have signed up for our 30-day trial evaluation during the evaluation period that contain the users monitoring results to date and additional information regarding AlertSite's products and services. At the end of the 30-day evaluation period, two follow up promotional emails strictly containing information about AlertSite's products and services are sent (one the week after the 30-day expiration and the second thirty days later). Consequently, these communications will end no later than sixty days following the beginning of the evaluation. 
+AlertSite sends weekly promotional communications to users who have signed up for our 30-day trial evaluation during the evaluation period that contain the users monitoring results to date and additional information regarding AlertSite's products and services. At the end of the 30-day evaluation period, two follow up promotional e-mails strictly containing information about AlertSite's products and services are sent (one the week after the 30-day expiration and the second thirty days later). Consequently, these communications will end no later than sixty days following the beginning of the evaluation. 
 
-In addition to the evaluation period communications, users also receive an order confirmation email along with a security verification email immediately following registration. 
+In addition to the evaluation period communications, users also receive an order confirmation e-mail along with a security verification e-mail immediately following registration. 
 
 Users are not given the choice to opt-out of receiving the communications described above since they are requirements of registering for a free evaluation of our services. 
 
 Choice/Opt-out (Other)
 
-Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an opt-out mechanism so users who buy a service from us, but don't want any marketing material such as information about upgrades, discounts or special promotions, can keep their email address off of our lists. For any non-service related communications or information uses, our opt-out mechanism defaults to the opted-in status until users explicitly opt-out for the first time. 
+Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an opt-out mechanism so users who buy a service from us, but don't want any marketing material such as information about upgrades, discounts or special promotions, can keep their e-mail address off of our lists. For any non-service related communications or information uses, our opt-out mechanism defaults to the opted-in status until users explicitly opt-out for the first time. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by emailing us at [customercare@alertsite.com](mailto:customercare@alertsite.com) or by contacting us by telephone or postal mail at the contact listed below. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by e-mailing us at [customercare@alertsite.com](mailto:customercare@alertsite.com) or by contacting us by telephone or postal mail at the contact listed below. 
 
 Access to Personally Identifiable Information
 
 A user may access their personally identifiable information through a secure login provided on our web site. 
 
-If your personally identifiable information changes, you may correct or update it by making the change directly through your manage account control panel. If you should no longer desire our services, you may delete or deactivate your personally identifiable information by emailing our Customer Support at [support@alertsite.com](mailto:support@alertsite.com) or by contacting us by telephone or postal mail at the contact listed below. 
+If your personally identifiable information changes, you may correct or update it by making the change directly through your manage account control panel. If you should no longer desire our services, you may delete or deactivate your personally identifiable information by e-mailing our Customer Support at [support@alertsite.com](mailto:support@alertsite.com) or by contacting us by telephone or postal mail at the contact listed below. 
 
 Customer Forum
 
