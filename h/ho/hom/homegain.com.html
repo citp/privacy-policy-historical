@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homegain.com privacy policy that was archived on 2006-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060624042100id_/http%3A//homegain.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homegain.com privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231071508id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <!-- nav -->
@@ -9,23 +9,15 @@
 <meta name="robots" content="index, follow">
 <meta http-equiv="Pragma" content="no-cache">
 
-
-  
-  
-
+    
 
 <script language="javascript">
 <!--
-
   var forced_entry_id;
-
 // -->
 </script>
 
-
     <script src="/javascript/common_02.js"></script>
-
-
 
 <script src="/javascript/wt_sdc.js"></script>
 
@@ -48,14 +40,11 @@ dcsMeta();
 dcsTag();
 // End WEBTRENDS SDC JS
 
-
   var hg_click = 0;
-
 
 var ad_ord = Math.floor(Math.random()*1000000);
 
 var is_hsx;
-
 
 var curr_qs = "";
 var q_ind = location.href.indexOf('?');
@@ -78,17 +67,54 @@ if (curr_qs.indexOf('setnopopup=1') != -1 ) {
 }
 EM_reg=/(\?|&)EM=([^&]+)/;
 if (EM_reg.test(curr_qs)) setFlagInCookie('ck_hgpartnerinfo', 'EM', '1');
+// start: RFC4043. CJ Persistent Cookie
+// see /exmethods/affiliate_click/AffiliateClick.py#create_affiliate_click
+ck_hgp = getHGCookie('ck_hgpartnerinfo');
+jsck = getHGCookie('jsck');
+//alert("ck_hgp: " + ck_hgp + "\njsck: " + jsck);
+if(ck_hgp.indexOf('cj_qualified') < 0)
+{
+    if (jsck.indexOf('cj_qualified') > -1)
+    {// reset jsck.cj_qualified for next page load
+        //alert(unescape(jsck));
+        idx = jsck.indexOf('cj_qualified') + 'cj_qualified'.length + 1;
+        cj_qualified = jsck.charAt(idx);
+        //alert('cj_qualified: ' + cj_qualified);
+        setFlagInCookie('ck_hgpartnerinfo', 'cj_qualified', cj_qualified);
+    }
+    else
+    {
+        // expected value of unsecure_url: http://www.homegain.com
+        unsecure_url = "http://www.homegain.com";
+        // expected value of location.href: http://www.homegain.com/
+        loc = location.href;
+        //alert(loc);
+        if (loc.lastIndexOf("/") == loc.length - 1)
+        {
+            loc = location.href.substring(0,location.href.length - 1);
+        }
+        //alert(loc);
+        cj_qualified = loc == unsecure_url;
+        if(cj_qualified) cj_qualified = 1;
+        else cj_qualified = 0;
+        //alert("cj_qualified: " + cj_qualified);
+        setFlagInCookie('ck_hgpartnerinfo', 'cj_qualified', cj_qualified);
+    }
+}
+// end: RFC4043
 // -->
 </script>
+ <link rel="stylesheet" href="/css/ie/common_02.css" type="text/css">
+  </head>
 
-<link rel="stylesheet" href="/css/ie/common_02.css" type="text/css">
-
-
-</head>
 
 <body bgcolor="white" link="#0033CC" vlink="#0033CC" topmargin="10" leftmargin="10" marginwidth="10" marginheight="10" onload="listLinks(document)">
 
-        
+
+  
+    
+  
+
 
 <a name="top"></a>
 <!-- modular -->
@@ -98,7 +124,7 @@ if (EM_reg.test(curr_qs)) setFlagInCookie('ck_hgpartnerinfo', 'EM', '1');
     <td>
   <table border="0" cellpadding="0" cellspacing="0" height="40" width="740">
     <tbody><tr>
-      <td valign="bottom" width="216"><a href="/"><img src="http://images.homegain.com/i/logo_only.gif" alt="Real estate online from HomeGain. Find and compare REALTORS, view homes for sale, and get property values." height="40" width="214" border="0"></a></td>
+      <td valign="bottom" width="216"><a href="/"><img src="http://images.homegain.com/i/logos/hg_214x40.gif" alt="Real estate online from HomeGain. Find and compare REALTORS, view homes for sale, and get property values." height="40" width="214" border="0"></a></td>
       <td align="left" valign="bottom" width="94">
 	  &nbsp;
       </td>
@@ -460,7 +486,7 @@ If you have any questions about our privacy policy, please contact us at <a href
           
 
             <noscript>
-              <Img border="0" name="DCSIMG" width="1" height="1" src="http://tagger.homegain.com/dcs.gif?dcsdat=670737&dcsuri=/privacy&WT.js=No">
+              <Img border="0" name="DCSIMG" width="1" height="1" src="http://tagger.homegain.com/dcs.gif?dcsdat=915202&dcsuri=/privacy&WT.js=No">
             </noscript>
 
           
