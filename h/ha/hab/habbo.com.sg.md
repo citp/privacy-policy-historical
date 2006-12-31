@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the habbo.com.sg privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212537id_/http%3A//www.habbo.com.sg/footer_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com.sg privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231175823id_/http%3A//www.habbo.com.sg/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
-# Habbo ~
+# Habbo ~ Privacy Policy
 
 Here at Habbo Hotel we want everyone to have a good time. Also, we promise to keep your hotel as secure and as private as we can. The hotel is a place for you to hang out in and meet new people. We have a few [rules](https://web.archive.org/help/habbo_way.html) that you do need to accept before you can become a member, so you need to read the Privacy Policy all the way through before you can join. 
 
@@ -37,7 +37,7 @@ We make chat facilities and message boards available to you. Please remember tha
 
 **OPTING OUT, UPDATE OR CORRECT YOUR INFORMATION**
 
-If you do not wish to receive the hotel's newsletter, or information about products and services supplied by Sulake Singapore Pte Ltd or third parties, do not tick the boxes at the bottom of the registration form. You may change these options anytime by selecting the 'Update your Habbo ID' link on our home page. 
+If you do not wish to receive the hotel's newsletter, or information about products and services supplied by Sulake Singapore Pte Ltd or third parties, do not tick the boxes at the bottom of the registration form. You may change these options anytime by selecting the 'Update your Habbo ID' link within the game in the Hotel view. 
 
 Alternatively, you may opt out by emailing us. 
 
