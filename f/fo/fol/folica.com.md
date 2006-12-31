@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629035936id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231200235id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Effective Date: 09/22/2006 
 
 **Folica Privacy Policy**
 
@@ -36,7 +38,7 @@ We recognize your right to confidentiality and are committed to protecting your 
 
 Registration at this web site is optional. However, you can use all our convenient site features and check out quickly if you choose to register with us. During registration you will provide contact information (such as name, email address, billing and shipping address). We use this information to contact you about the services on our site in which you have expressed interest. 
 
-We use your information to send you the order confirmation and shipping notification.
+We use your information to send you the order confirmation and shipping notification via email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
 Folica, Inc. is the sole owner of the information collected on Folica.com. Folica, Inc. collects personally identifiable information from our users at several different points on our Web site.
 
@@ -58,21 +60,21 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 **Customer Service**
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
 **Live Chat**
 
-In order to maintain service quality, Folica.com keep internal records which include the following information about each Live Chat session:
+In order to maintain service quality, Folica.com will keep internal records which include the following information about each Live Chat session:
 
-1.                  user's name 
+1.   user's name (if provided - Chat function does not request this information)
 
-2.                  user's e-mail address (if provided) 
+2.   user's e-mail address (if provided - Chat function does not request this information) 
 
-3.                  user's IP adress 
+3.   user's IP adress 
 
-4.                  date and time and
+4.   date and time and
 
-5.                  complete transcript 
+5.   complete transcript 
 
 **Personally identifiable information:   **
 
@@ -84,9 +86,9 @@ We use an outside shipping company (UPS etc) to deliver orders, and a credit car
 
 **Service Providers**
 
-We use other third party, Live Person to provide Live Chat on our site.  When you  use Live Chat, we will share your name as necessary for the third party to provide that service. 
+We use other third parties, such as Live Person to provide Live Chat on our site and an Email Service provider to administer our email lists.
 
-These third parties are prohibited from using your personally identifiable information for any other purpose.
+These third parties are prohibited from using your personally identifiable information for any secondary purposes.
 
 **Legal Disclaimer**
 
@@ -96,7 +98,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 WE DO NOT send unsolicited e-mail. If you receive an unsolicited email that you believe is connected with us in any way, please forward the e-mail (as an enclosure) to and we will investigate.
 
-If you sign up for our promotional email list, you may receive our deal announcement from time to time. You can opt out the list anytime by clicking the “unsubscribe link” in the email.
+If you sign up for our promotional email list, you may receive our deal announcement from time to time. You can opt out the list anytime by replying to the unsubscribe instructions in the email.
 
 **Log Files**
 
