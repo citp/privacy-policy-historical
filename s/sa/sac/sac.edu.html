@@ -1,0 +1,131 @@
+<!--The following is the downloaded HTML source of the sac.edu privacy policy that was archived on 2006-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231012106id_/http%3A//www.rsccd.org/apps/rpub.asp%3FQ%3D676%26T%3DPages) for the most accurate reproduction.-->
+
+<html><head><title>RSCCD Privacy Act Notice</title>
+
+<style>
+ A {color:#0066c0; text-decoration:none; font-weight:normal}
+ A:hover {color:#ffcc00}
+ .xx {color:black; text-decoration: none; font:8.5pt verdana; font-weight:bold}
+ .xx:hover {color:black; text-decoration:underline}
+ .head {color:#336699; font:15pt verdana; font-weight:500; line-height:160%}
+ TD    {color:#000000; font:8.5pt verdana; vertical-align:top}
+ .foot {color:#999999; font:8pt/11pt verdana}
+ .marg {color:#333333; font:8pt/11pt verdana}
+ .marq {color:#ffffff; font:9pt/12pt 'courier new'; background-color:#333333; text-decoration:none}
+ .rep2 {font: 8pt/8pt arial,helvetica; font-weight:bold; text-decoration: none; color:white}
+ .rep1 {color:#cccc99}
+ .rep3 {margin-left:9px; margin-top:0px; margin-bottom:3px}
+ .menu {margin-bottom:5px; margin-left:8px; font:8pt/9pt verdana; color:#666666; list-style-type:square}
+ .mbar {color:#333333; font:8pt tahoma; text-decoration:none; font-weight:bold}
+ .mbar:hover {color:#ff0000}
+ .news {xcolor:#ff3333; text-decoration:underline; font-weight:normal}
+ .cale {color:#000000; font:8.5pt "verdana"}
+ H1    {font:17pt verdana; margin-bottom:-5px}
+ H2    {font:14pt verdana; margin-bottom:-10px}
+ H3    {font:9pt verdana; margin-bottom:-16px;font-weight:bold}
+ H4    {font:7.5pt verdana; color:black; margin-bottom:1px}
+ H5    {font:8.5pt verdana; background-color:#ffff77; padding:6px}
+ H6    {font:8.5pt verdana; border-style:solid; border-width:1px; padding:5px; border-color:silver}
+ INPUT, SELECT, TEXTAREA, .form {color:#000000; font:8pt tahoma,verdana,'MS Sans Serif',helvetica}
+ #menu {color:#333333; text-decoration:none; font:8pt tahoma; font-weight:normal}
+ #menu .popup {position:absolute; display:none; background:#cc9999; padding=5px; width:80pt; xmargin:1pt}
+ #menu P {margin-top:1pt; margin-bottom:1pt}
+ .tbar {color:#808040; font:8.5pt verdana; font-weight:normal; text-decoration:none}
+ .tabl {border:1px solid gray}
+ LI {margin-top:1pt; margin-bottom:4pt}
+ .more {color:#ff9900; text-decoration:none; font-weight:normal}
+ .small{font:8pt/12pt verdana; height:20px; color:#666666}
+ .avar {color:#000080; font-weight:bold}
+ .list {color:#0066c0; text-decoration:none; font-weight:normal}
+ .syst {color:#80A0B0}
+ .topf {color:#aaaa66; font:16pt/10pt 'Times New Roman'; padding-top:18px; color:#800000}
+ .edit {color:#ff9900; font:8pt verdana; text-decoration:none}
+</style>
+<script language="JavaScript">
+var curPop = null;
+var PopClr = "";
+
+function hidePopup() {
+if (event.toElement){
+if (event.toElement.tagName!="DIV" && event.toElement.tagName!="A" && event.toElement.tagName!="P") {
+  if (null != curPop) curPop.style.display = "none";
+  curPop = null;
+  }
+}
+}
+function popup() {
+if(event.srcElement){
+var el = event.srcElement;
+if (("TD" == el.tagName) && ("menubar" == el.parentElement.id) && (el.id!="finito")) {
+  PopClr = el.style.color;
+  hidePopup();
+  var elpop = document.all[el.sourceIndex + 1];
+  elpop.style.pixelLeft = document.all.mama.offsetLeft + document.all.oxe.offsetLeft + el.offsetLeft+1;
+  elpop.style.pixelTop  = el.offsetTop + document.all.mama.offsetTop + document.all.menu.parentElement.offsetHeight+1;
+  elpop.style.display = "block";
+  curPop = elpop;
+  }
+event.cancelBubble = true;
+}
+}
+function newwindow(s,width,height,mode,name) {
+  if (!name) name = "child";
+  hWd = window.open(s,name,"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars="+mode+",resizable=1,width="+width+",height="+height+",top=20,left=20");
+  hWd.focus();
+}
+function help(s) {
+  s = "../forms/help.asp?Q="+s;
+  window.open(s,'HelpWindow',"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=570,height=460,top=20,left=20");
+}
+function datepick(field) {
+  s = "../forms/datepick.asp?F="+field;
+  x = window.event.screenX-5;
+  y = window.event.screenY+10;
+  window.open(s,'cal',"dependent=yes,width=174,height=132,top="+y+",left="+x);
+}
+function MailList(tbl,qry) {
+  window.open("../forms/maillist.asp?Q="+qry+"&T="+tbl,'child',"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=480,height=170,top=40,left=40");
+}
+
+function dialog(s,width,height) {
+  x = (screen.availwidth-width)/2
+  y = (screen.availheight-height)/2
+  window.open("../apps/dialog.asp?Q="+s,'child',"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width="+width+",height="+height+",top="+y+",left="+x);
+}
+function bugwindow(s) {
+  window.open(s,'trace',"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=425,height=400,top=20,left=20");
+}
+function service(s) {
+  window.open(s,'servi',"toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable=0,width=0,height=0,top=9999,left=0");
+}
+</script>
+
+<script language="JavaScript">
+glbEmpty = "Please fill out the following field";
+function newpage(param) {
+  s = "../forms/newpage.asp?"+param;
+  window.open(s,'child',"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=600,height=220,top=120,left=120");
+}
+function delfile(s) {
+  if (confirm("Do you want to remove this file ?")) {window.open("../forms/fileutil.asp?Q=dfi&context="+s,'child',"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=200,height=100,top=10,left=10"); }
+}
+</script>
+</head>
+<body background="../backgnd/interiorbkg.gif" leftmargin="0" topmargin="0">
+<table border="0" background="../backgnd/rsccdhead.gif" height="62" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="4" valign="top" style="padding-left:0;padding-top:0"></td><td class="topf" valign="top">&nbsp;RSCCD Privacy Act Notice</td><td align="right" valign="top">&nbsp;</td></tr></tbody></table><table border="0" xheight="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="154" bgcolor="#70809F" valign="top"><span class="marg"><img src="/pic/logos/measeimg.jpg"><br><br><p class="rep3"><a href="../homex.asp" class="rep2" title="Homepage">Home</a></p><p class="rep3"><nobr><a href="rpub.asp?Q=439" class="rep2" title="">Employment</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=436" class="rep2" title="">Research</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=446" class="rep2" title="">Business Solutions</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=449" class="rep2" title="">Construction Update</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=779" class="rep2" title="">Newsroom</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=459" class="rep2" title="">Events Calendar</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=462" class="rep2" title="">Public Affairs</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=778" class="rep2" title="">Business Operations</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=476" class="rep2" title="">For Students</a></nobr></p><p class="rep3"><nobr><a href="rpub.asp?Q=480" class="rep2" title="">Contact Us</a></nobr></p></span></td>
+<td width="566" valign="top"><table width="100%" border="0" cellpadding="11" cellspacing="0"><tbody><tr height="40"><td bgcolor="#FFAF1F"></td></tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="15"><tbody><tr><td><h2>Rancho Santiago Community College District Privacy&nbsp;Statement 2004</h2>
+<p>RSCCD shows consideration for your privacy and is committed to protecting the personal information you give to us while using the services provided for you on our website. RSCCD has established this privacy&nbsp;statement to help you understand how we utilize this information and the means by which we use to protect it. </p><strong>Personal Information</strong> 
+<p>Personal information is defined by RSCCD as information used to uniquely identify a person or information used to contact an individual when the individual has requested to be contacted. This information may include your name, address, phone number, e-mail address, etc.&nbsp; In most cases, you can utilize our website without specifying this information. However, if you use our online registration services, submit a question to one of our district contacts, or ask district personnel to contact you, this information is collected. RSCCD does not collect information of children under the age of 13 unless submitted by the parent/guardian with regards to “College for Kids” for Community Services classes.&nbsp; <strong>RSCCD does not sell any web collected information to third-party vendors.&nbsp; </strong>RSCCD only uses personal information to provide you with the service or services you have requested. 
+</p><p></p>
+<p><strong>Technology Tools and Automatic Information Collection</strong></p>
+<p>RSCCD may use various technology tools to gather information about the user’s computer to provide the user with a more efficient and/or successful web experience. The technology used may include session identifiers or cookies. The type of information collected may include IP addresses, the date and time web pages are accessed, as well as types of Internet browsers. This information is stored in logs and may be used by RSCCD to analyze patterns of usage, estimate resource needs, and discover or resolve technical issues.</p>
+<p><strong>Third Party Vendors</strong></p>
+<p>RSCCD may work with third party vendors to provide services on our website. RSCCD takes reasonable steps to protect your personal information from third party vendors and only releases this information to provide services the user has requested. RSCCD partners with Versign™ to use SSL certificates (Secure Sockets Layer (SSL) encryption) when a secure connection is required. Within the RSCCD district we use firewalls and database encryption. RSCCD works hard to make sure your personal information is secure.</p>
+<p><strong>Consent</strong></p>By using RSCCD’s web site you consent to the terms of our Privacy Statement. 
+<p><strong>Contact</strong></p>
+<p>For more information regarding this privacy act notification please direct your correspondence to <a href="mailto:RSCCDWebMaster">RSCCD Webmaster</a>.</p><hr noshade="" size="1" color="#999999"><a class="tbar" href='JavaScript:dialog("MailRPub&amp;$1=676&amp;$2=&amp;$3=Pages",490,300,0);'><img src="../gif/docmail.gif" border="0"> Mail this page</a><span style="font:10pt/11pt verdana; color=#000000">&nbsp;|&nbsp;</span><a class="tbar" href='javascript:newwindow("rpubprint.asp?Q=676&amp;T=Pages",780,520,0);'><img src="../gif/printer.gif" border="0"> Print</a>&nbsp;<br><br>©2004 Rancho Santiago Community College District.</td></tr></tbody></table></td>
+</tr></tbody></table>
+
+
+</body></html>
