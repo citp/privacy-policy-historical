@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukathletics.com privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202231320id_/http%3A//www.ukathletics.com/doc_lib/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukathletics.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231110525id_/http%3A//www.ukathletics.com/doc_lib/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Host Communications Privacy Policy
 
