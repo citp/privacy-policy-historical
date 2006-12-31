@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the sbn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbn.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/privpolicy.asp) for the most accurate reproduction.*
 
 # Sbn.com - Privacy Policy
 
-   [About Us](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/about_us.asp)  
-     [Our Concept](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/concept.asp)  
-     [Contact Us](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/contact_mngmt.asp)  
-     [Employment](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/employment.asp)  
-     [Site Stats](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/site_stats.asp)  
-   [Products](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/salesinfo.asp)  
-     [Ad Rate Card](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/ad_rate.asp)  
-     [How to buy an Ad](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/how2buy.asp)  
-     [Ready to buy an Ad](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/ready2buy.asp)  
-     [Crosslinks](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/crosslinks.asp)  
-     [Licensing](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/licensing.asp)  
-   [Navigating Our Site](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/navigation.asp)  
-   [FAQ´s](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/faq.asp)  
-   [Privacy Policy](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/privpolicy.asp)  
-   [Copyright](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/copyright.asp)  
-   [Terms & Conditions](https://web.archive.org/web/20060615110904id_/http%3A//sbn.com/company/termscond.asp)
+   [About Us](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/about_us.asp)  
+     [Our Concept](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/concept.asp)  
+     [Contact Us](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/contact_mngmt.asp)  
+     [Employment](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/employment.asp)  
+     [Site Stats](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/site_stats.asp)  
+   [Products](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/salesinfo.asp)  
+     [Ad Rate Card](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/ad_rate.asp)  
+     [How to buy an Ad](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/how2buy.asp)  
+     [Ready to buy an Ad](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/ready2buy.asp)  
+     [Crosslinks](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/crosslinks.asp)  
+     [Licensing](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/licensing.asp)  
+   [Navigating Our Site](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/navigation.asp)  
+   [FAQ´s](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/faq.asp)  
+   [Privacy Policy](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/privpolicy.asp)  
+   [Copyright](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/copyright.asp)  
+   [Terms & Conditions](https://web.archive.org/web/20061231020452id_/http%3A//sbn.com/company/termscond.asp)
 
 | 
 
