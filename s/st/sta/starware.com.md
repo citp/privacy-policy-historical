@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214352id_/http%3A//www.starware.com/2.0.0.0/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231120900id_/http%3A//www.starware.com/2.0.0.0/privacy.html) for the most accurate reproduction.*
 
 # starware
 
@@ -81,7 +81,7 @@ Changes to this Policy
 
 
 
-To install our product, [Click Here](https://web.archive.org/web/20060615214352id_/http%3A//www.starware.com/2.0.0.0/download.php).
+To install our product, [Click Here](http://files-pl.starware.com/installs/links/starware.exe).
 
 If there are any terms in this policy you don't understand, visit [www.webopedia.com](http://www.webopedia.com/)
 
