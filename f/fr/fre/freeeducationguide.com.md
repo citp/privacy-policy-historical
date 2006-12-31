@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616112459id_/http%3A//freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231094639id_/http%3A//freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
 
 # login_template.jpg
 
@@ -27,4 +27,5 @@
 >  **Protecting the privacy of the very young is especially important to us. For that reason, we never collect or maintain information from those we actually know are under 18, and no part of our website is structured to attract or intended for anyone under 18 years of age. 
 > 
 > **Assignment:  
->  **In its sole discretion, FreeEducationGuide may transfer, sell or assign your personal information collected on and through this website and affiliated online properties to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of FreeEducationGuide and/or its affiliated online properties. ****
+>  **In its sole discretion, FreeEducationGuide may transfer, sell or assign your personal information collected on and through this website and affiliated online properties to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of FreeEducationGuide and/or its affiliated online properties. *****The Privacy Notice posted on this site was updated on or about November 16, 2006. **  
+>  **
