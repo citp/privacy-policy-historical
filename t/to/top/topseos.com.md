@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topseos.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627111635id_/http%3A//www.topseos.com/option%2Ccom_flag/task%2CprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topseos.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231063105id_/http%3A//www.topseos.com/option%2Ccom_flag/task%2CprivacyPolicy) for the most accurate reproduction.*
 
 # Internet Marketing & Search Engine Optimization Services - Terms and Conditions
 
