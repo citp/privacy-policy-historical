@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015947id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231075322id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
 # BuyerZone.com Privacy Policy
 
@@ -90,7 +90,7 @@ CONTACTING US
 If you have any additional questions or comments about BuyerZone.com's privacy statement, please contact us: 
 
 BuyerZone.com  
-125 Walnut Street  
-Watertown, MA 02472  
+404 Wyman Street, Suite 450  
+Waltham, MA 02454  
 617.868.5757  
 [customercare@buyerzone.com](mailto:customercare@buyerzone.com)
