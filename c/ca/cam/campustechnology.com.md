@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campustechnology.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222308id_/http%3A//www.101com.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campustechnology.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231011452id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1105 Media, Inc. - Privacy Policy
 
@@ -47,13 +47,13 @@ If you have registered for our products and/or services, and have supplied an e-
 For marketing e-mails, we retain three types of usage permission for submitted e-mail addresses as defined below. We allow you to “opt out” of receiving marketing e-mails about 1105 Media Inc. products and from outside companies either in response to a received e-mail or within this Privacy Policy.
 
   * **E-mails about Related Products and Services**  
-If you volunteer an e-mail address you may be contacted by us regarding similar products, services and/or upcoming events that are related to one of the [Publishing Groups](http://www.101com.com/grouplist.asp) within which your account resides. _If you do not wish to receive these types e-mails from us, please let us know by[clicking here](http://lists.101com.com/privacy.asp)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+If you volunteer an e-mail address you may be contacted by us regarding similar products, services and/or upcoming events that are related to one of the [Publishing Groups](http://www.101com.com/grouplist.asp) within which your account resides. _If you do not wish to receive these types e-mails from us, please let us know by[clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=1&b=Y&o=PRIV)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **E-mails about Other 1105 Media Inc. Products and Services**  
-If you volunteer an e-mail address you may be contacted by us regarding other 1105 Media Inc. products, services, and/or upcoming events. _If you do not wish to receive these types of e-mails from us, please let us know by[clicking here](http://lists.101com.com/privacyt.asp)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+If you volunteer an e-mail address you may be contacted by us regarding other 1105 Media Inc. products, services, and/or upcoming events. _If you do not wish to receive these types of e-mails from us, please let us know by[clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=2&b=Y&o=PRIV)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **E-mails from Outside Companies**  
-If you volunteer an e-mail address you may be contacted by carefully selected outside companies for reputable promotional purposes. _If you do not wish to receive e-mails from other companies, please let us know by[clicking here](http://newsletters.101com.com/r/r_101l3.asp?546829)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+If you volunteer an e-mail address you may be contacted by carefully selected outside companies for reputable promotional purposes. _If you do not wish to receive e-mails from other companies, please let us know by[clicking here](http://101.101direct.com/r/r_101l3.asp?546829)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **All E-mails**  
-If you wish to opt-out of these three types of e-mail marketing messages at once, please let us know by [clicking here](http://lists.101com.com/privacyall.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+If you wish to opt-out of these three types of e-mail marketing messages at once, please let us know by [clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=U&b=Y&o=PRIV) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
 
 
