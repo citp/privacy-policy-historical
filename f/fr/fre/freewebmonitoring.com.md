@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebmonitoring.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005940id_/http%3A//www.freewebmonitoring.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebmonitoring.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231083951id_/http%3A//www.freewebmonitoring.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Monitoring: Your Free Web Site Monitoring Service
 
@@ -15,7 +15,7 @@ Unlike many web site monitoring services that charge for web site monitoring and
 
 Your use of Free Web Monitoring's web site monitoring service constitutes a business relationship wherein we provide a business service for your web site(s). In exchange, Free Web Monitoring reserves the right to use the contact information collected during sign up to provide our free newsletter included with your weekly statistics, to deliver email alerts, to deliver notices regarding changes or updates to our service, to inform you of additions to the GreenWave Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers. 
 
-You may remove yourself from all email alerts, notices and announcements using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. **Please note, when you unsubscribe you will be removing your Free Web Monitoring membership and web site monitoring service.** Should you encounter problems in this regard, contact [webmaster@freewebmonitoring.com](mailto:webmaster@freewebmonitoring.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
+With the exception of auto-response messages which are sent when you sign-up for our free web site monitoirng service and contain important account information, you may remove yourself from all email alerts, notices and announcements using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. **Please note, when you unsubscribe you will be removing your Free Web Monitoring membership and web site monitoring service.** Should you encounter problems in this regard, contact: inquiry[at]freewebmonitoring.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
 
 **Information Sharing and Disclosure**
 
@@ -35,4 +35,4 @@ Free Web Monitoring may amend this policy from time to time. If significant chan
 
 **Questions or Suggestions**
 
-Questions or suggestions may be sent to: [ info@freewebmonitoring.com](mailto:info@freewebmonitoring.com)
+Questions or suggestions may be sent to: inquiry[at]freewebmonitoring.com 
