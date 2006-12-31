@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000440id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231052929id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Howstuffworks "Privacy Statement for HowStuffWorks.com"
 
@@ -68,3 +68,5 @@ One Capital City Plaza
 Atlanta, Georgia 30326  
 [Click here to send an e-mail message](http://www.howstuffworks.com/contact.php?s=hsw&ct=info)_
 
+
+| 
