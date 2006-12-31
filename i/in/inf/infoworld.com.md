@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618170830id_/http%3A//www.infoworld.com/about/abt_prv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231111250id_/http%3A//www.infoworld.com/about/abt_prv.html) for the most accurate reproduction.*
 
-# InfoWorld: Privacy Policy
+# InfoWorld - Privacy Policy
 
-  
+   
 1\. InfoWorld Media Group ONLINE PRIVACY POLICY
 
 The InfoWorld Web site and associated sites are maintained by
