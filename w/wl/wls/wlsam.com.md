@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619061801id_/http%3A//wlsam.com/article.asp%3Fid%3D152353) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231033929id_/http%3A//www.wlsam.com/article.asp%3Fid%3D152353) for the most accurate reproduction.*
 
 # WLS, 890 AM - Chicago's Talk Station
 
