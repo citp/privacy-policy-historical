@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wugnet.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312053128id_/http%3A//www.wugnet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wugnet.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231083536id_/http%3A//www.wugnet.com/privacy.asp) for the most accurate reproduction.*
 
 # WUGNET - Privacy Statement
 
@@ -9,7 +9,7 @@ WUGNET Publications Inc. is the owner and operator of wugnet.com. Our site is ad
 
 It is our policy not to sell, or share the names, addresses or private contact information of any of our customers with third parties. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly or visit their web sites for more information.
 
-From time to time, WUGNET may send mailings about our product news to our customers. We only send regular, ongoing mailings to customers, or visitors, who have indicated their preference that they would like us to continue to communicate with them. WUGNET offers interesting and free content in several newsletters. These newsletters offer convenient methods to subscribe or unsubscribe (Opt In-Opt Out) from our newsletter mailings. ([Click here](https://web.archive.org/web/20060312053128id_/http%3A//newsletters) for a list of all our newsletters.)
+From time to time, WUGNET may send mailings about our product news to our customers. We only send regular, ongoing mailings to customers, or visitors, who have indicated their preference that they would like us to continue to communicate with them. WUGNET offers interesting and free content in several newsletters. These newsletters offer convenient methods to subscribe or unsubscribe (Opt In-Opt Out) from our newsletter mailings. ([Click here](https://web.archive.org/web/20061231083536id_/http%3A//newsletters) for a list of all our newsletters.)
 
 Shopping on WUGNET is a currently a service offered by a third party business and commerce partner "Digital River." Digital River is a trusted brand in Cyberspace and all e-commerce transactions conducted through this service are conducted through industry-accepted secure methods. For more information about how security is maintained [click here](http://www.digitalriver.com/dr/v2/ec_MAIN.Entry9?SP=10007&PN=4&S1=5&xid=849).
 
@@ -22,7 +22,7 @@ Cookies are very common on the internet. They are small, inoccuous text files th
 
 Cookies are commonly used in online shopping baskets. Patrons of our shopping services presented by Digital River will be presented with a single cookie. Digital River’s cookies are used only to identify the customer, not to identify any specific customer traits. This allows them to maintain consistency in the shopping basket and enable a more pleasant shopping experience. [Click here](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml) for the Digital River Privacy Statement.
 
-The WUGNET site also offers links to our additional sites (Forums) which are hosted by our business partner CompuServe Interactive Service, a subsidiary of AOL. For a complete list of our Forums [click here](https://web.archive.org/web/20060312053128id_/http%3A//compuserve).
+The WUGNET site also offers links to our additional sites (Forums) which are hosted by our business partner CompuServe Interactive Service, a subsidiary of AOL. For a complete list of our Forums [click here](https://web.archive.org/web/20061231083536id_/http%3A//compuserve).
 
 Please note that when you are using our CompuServe Forums you are also responsible for adhering to the Terms of Service and or other rules as may be determined by CompuServe. Visitors to our CompuServe sites should read the Privacy policy and terms of service on those respective pages. From time to time we may also link to other sites. WUGNET recommends that visitors check the Terms of Service or privacy policies of linked sites.
 
