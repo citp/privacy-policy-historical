@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620112142id_/http%3A//www.pens.com/pens/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231220555id_/http%3A//www.pens.com/pens/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-|   
----  
-  
 **Privacy Policy**
 
 > National Pen Company, the sponsor of Pens.com, has created this Privacy Statement to demonstrate our firm commitment to privacy. This statement outlines our information gathering and sharing practices for this web site. 
@@ -27,11 +24,11 @@ Information We Collect and How We Use It
 
 > 4) In the future, we may make some limited name and address information available to other organizations that provide goods or services that we feel may be of interest to you. 
 
-> You can opt out of receiving further marketing promotions at any time. Just e-mail us at [Sales@pens.com ](mailto:Sales@pens.com)or notify us when you give us your personal information. 
+> You can opt out of receiving further marketing promotions at any time. Just e-mail us at [ Sales@pens.com ](mailto:Sales@pens.com)or notify us when you give us your personal information. 
 
 > **Other Important Information About Privacy**
 
-> You can maintain an online account consisting of your e-mail address and a personal password, to order items and use services we offer on our web site. Please be careful whenever you're online. Your password is yours and should not be shared with anyone else. If, at any time, you want to change the e-mail address and password or other profile information please email [webmaster@pens.com](mailto:webmaster@pens.com) with the specific information you would like to change. 
+> You can maintain an online account consisting of your e-mail address and a personal password, to order items and use services we offer on our web site. Please be careful whenever you're online. Your password is yours and should not be shared with anyone else. If, at any time, you want to change the e-mail address and password or other profile information please email [ webmaster@pens.com](mailto:webmaster@pens.com) with the specific information you would like to change. 
 
 **
 
@@ -57,7 +54,4 @@ Security Policy
 
 **
 
-> We know you want secure online ordering. That's why Pens.com uses "Secure Socket Layers" ("SSL"), an industry standard encryption technology that protects your credit card information. SSL encrypts all ordering information, including your name, address and credit card number, so it cannot be read in transit. The secure area of our web site displays a prefix of https:// and the browser should show a lock or key symbol. As required by law under the Fair Credit Billing Act, your credit card issuer must limit your liability to $50 in the extremely rare case of confirmed credit card fraud. When you place an order with Pens.com, a Federally Insured and Accredited Banking Institution manages the credit card processing.   
-  
-  
-
+> We know you want secure online ordering. That's why Pens.com uses "Secure Socket Layers" ("SSL"), an industry standard encryption technology that protects your credit card information. SSL encrypts all ordering information, including your name, address and credit card number, so it cannot be read in transit. The secure area of our web site displays a prefix of https:// and the browser should show a lock or key symbol. As required by law under the Fair Credit Billing Act, your credit card issuer must limit your liability to $50 in the extremely rare case of confirmed credit card fraud. When you place an order with Pens.com, a Federally Insured and Accredited Banking Institution manages the credit card processing. 
