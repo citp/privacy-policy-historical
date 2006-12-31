@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumni.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193553id_/http%3A//alumni.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumni.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231134256id_/http%3A//www.alumni.net/privacy.asp) for the most accurate reproduction.*
 
 # Alumni.NET - Privacy
 
@@ -11,7 +11,7 @@ Alumni.NET may partner with the alumni association of a given organization. This
 **Alumni.NET and Third Party Advertising**  
 Alumni.NET make use of a third-party media company such as DoubleClick's Sonar Network and other third-party advertising companies to display advertising on the site. These ads may contain cookies that the said media company can collect and which Alumni.NET does not have access to. These companies may use information (not including your name, address, email address or telephone number) about your visits to Alumni.NET and other Web sites in order to provide advertisements based on goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
- **Does Alumni.NET sell my Information?**  
+**Does Alumni.NET sell my Information?**  
 Alumni.NET will never sell the information in this web site to direct marketers or any other parties without the specific consent of the registrant. Since the service may depend on some advertising revenue, Alumni.NET reserves the right to compile and distribute aggregate information from the alumni registries. 
 
 **How secure are my dealings with Alumni.NET? How secure is Alumni.NET's Technical System?**  
