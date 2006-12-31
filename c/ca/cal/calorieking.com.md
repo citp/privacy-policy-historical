@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the calorieking.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619101551id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calorieking.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231030045id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](https://web.archive.org/) » Privacy Policy 
 
 Your personal information is important to CalorieKing.com.
 
@@ -38,7 +36,7 @@ Public discussion areas on the Network are not private and are governed by the T
 
 In the event of a complaint, we may receive personal information about you from other parties in our Network, other Users or third parties who may communicate information to us about you in relation to that complaint.
 
-CalorieKing.com uses Cookies and other tracking methods to allow the provision of certain services and to maximize your enjoyment of the Network. We do not link this information back to other information that you have provided to us and CalorieKing.com does not store any information inside Cookies. Any collection of personal information other than that mentioned here, will require your consent.
+CalorieKing.com uses Cookies and other tracking methods to allow the provision of certain services and to maximize your enjoyment of the Network. We do not link this information back to other information that you have provided to us, and CalorieKing.com does not store any information inside Cookies. Any collection of personal information other than that mentioned here will require your consent.
 
 Cookies are pieces of information transferred from a website to your computer's hard disk for record-keeping purposes. Cookies do not personally identify Users, although they do identify a User's browser. Most Web browsers are set to accept Cookies, although you can reset your browser to refuse. 
 
@@ -46,7 +44,7 @@ Cookies and IP addresses can enhance your enjoyment of the Network by allowing u
 
 We also collect and store statistics and other information about the online activities of Users on an aggregate basis. This does not include personal information about you.
 
-By recognizing all of our Users, how they use the Network and what they find interesting, we can focus our resources on features that are the most popular and beneficial to our Users and provide a continuously-improving service for everyone!
+By recognizing how all of our Users utilize the Network and what they find interesting, we can focus our resources on features that are the most popular and beneficial to our Users, and provide continuously-improving services for everyone!
 
 You should be aware that CalorieKing.com places advertising and other material on the Network which may originate from outside individuals or entities. In some cases, if you click on or view these advertisements or other material, a Cookie may be assigned by the relevant third party. CalorieKing.com does not control these Cookies. 
 
@@ -57,7 +55,7 @@ CalorieKing.com will not use or disclose any personal information about you with
   * to comply with the law
   * to comply with our Terms of Use
   * to protect the rights and/or property of CalorieKing.com, the Network, Network Users, Network Subscribers and Members or any other individual or entity, including members of the public
-  * to reduce or avoid a threat to anyone's health, safety or wellbeing
+  * to reduce or avoid a threat to anyone's health, safety or well-being
   * to provide services to you
 
 
@@ -86,7 +84,7 @@ Our employees and data processors are bound to respect the confidentiality of an
 
 ## 5\. Accessing, Changing and Deleting your Personal Information
 
-You may at any time request a copy of your file from CalorieKing.com. If you wish to change the information we have about you or have it deleted entirely please contact CalorieKing.com. We will provide you with a copy of your file and do everything we reasonably can to alter or delete your information, unless we are required to maintain certain information for legal or other reasons. Please allow at least seven days for your request to be processed.
+You may at any time request a copy of your file from CalorieKing.com. If you wish to change the information we have about you or have it deleted entirely, please contact CalorieKing.com. We will provide you with a copy of your file and do everything we reasonably can to alter or delete your information, unless we are required to maintain certain information for legal or other reasons. Please allow at least seven days for your request to be processed.
 
 ## 6\. Links to Other Websites
 
@@ -96,15 +94,15 @@ The Network provides links to other websites which are not controlled by Calorie
 
 Children should always ask a parent or guardian for permission before sending any personal information over the Internet, whether to us or anyone else. This includes making purchases.
 
-We encourage all parents and guardians to make themselves aware of what their children are up to on the Internet and discuss privacy and safety issues with them. Public discussion areas on the Network are not private. Any information posted by your child in such areas may be seen, collected and used by others and may result in unsolicited messages or other unwanted attention! CalorieKing.com can not control this. You should instruct your child not to post any such information without first seeking your permission. Children post at their own risk!
+We encourage all parents and guardians to make themselves aware of what their children are up to on the Internet and discuss privacy and safety issues with them. Public discussion areas on the Network are not private. Any information posted by your child in such areas may be seen, collected and used by others and may result in unsolicited messages or other unwanted attention! CalorieKing.com cannot control this. You should instruct your child not to post any such information without first seeking your permission. Children post at their own risk!
 
 ## 8\. Questions and Concerns
 
-You should contact CalorieKing.com immediately if you have any questions or concerns relating to our Privacy Policy or any other aspect of the Network. CalorieKing.com appreciates your input and will give serious consideration to any issues raised, and take any action we consider necessary to improve the services provided by the Network.
+You should contact CalorieKing.com immediately if you have any questions or concerns relating to our Privacy Policy or any other aspect of the Network. CalorieKing.com appreciates your input and will give serious consideration to any issues raised, and will take any action we consider necessary to improve the services provided by the Network.
 
 ## 9\. Alterations to this Privacy Policy
 
-CalorieKing.com reserves the right to add to, remove and alter any of the features of the Network to improve User enjoyment and satisfaction of all aspects of the Network. It may be necessary for us to alter this Privacy Policy from time to time to reflect these changes. CalorieKing.com reserves the right to alter this Privacy Policy at any time by posting an undated version on the Network. You should refer to this Policy on a regular basis so you are aware of any changes.
+CalorieKing.com reserves the right to add to, remove, and alter any of the features of the Network to improve User enjoyment and satisfaction of all aspects of the Network. It may be necessary for us to alter this Privacy Policy from time to time to reflect these changes. CalorieKing.com reserves the right to alter this Privacy Policy at any time by posting an undated version on the Network. You should refer to this Policy on a regular basis so you are aware of any changes.
 
 ## 10\. Specific Conditions
 
