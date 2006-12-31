@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205542id_/http%3A//www.pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115254id_/http%3A//www.pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
 
 # Pfizer | Privacy Policy
 
