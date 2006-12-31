@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233653id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231233444id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 Privacy Policy  
-_Last Updated: 4/5/2006_
+_Last Updated: 11/8/2006_
 
 **Your Privacy Is Not for Sale**  
-Simply put, we do not and will not sell your personally identifiable information to anyone, for any reason, at any time unless you specifically instruct us to do so. 
+Simply put, we do not and will not sell your personally identifiable information to anyone, for any reason. 
 
 LetsTalk.com is committed to protecting your privacy and providing a secure shopping environment. We use the personal information you supply to process your order and make your shopping experience more enjoyable. By using the latest in secure transaction technologies and practicing a strict privacy policy, LetsTalk.com strives to protect your personal information. Read on for details. 
 
@@ -22,9 +22,9 @@ When you buy a product, you give us contact and shipping information (like your 
   * What if I am reluctant to provide information online?  
 Not a problem, you may contact [Customer Service](https://web.archive.org/about/contact1.htm) and give them your information through fax or via the telephone. If you elect not to provide the information necessary for a service contract, you may choose to acquire a pre-paid service agreement. 
   * What do you do with the information?   
-Your contact and shipping information is given to the carriers, the manufacturer making the product you purchase, and Federal Express or UPS. See all [carriers & phone manufacturers](https://web.archive.org/about/carriercontact1.htm). We also work with service providers who provide services, including but not limited to web hosting, order processing and fulfillment, credit card clearance, data analysis, e-mailing and other services of an administrative nature. Your contact information is shared with such third parties exclusively for the purposes of providing such services. We require service providers to agree to use our customer data strictly for the purposes described above and to not use it for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties. From time to time, we may present offers to you from trusted third party partners. If you provide us with specific instruction and consent we will provide your information to these third parties. 
+Your contact and shipping information is given to the carriers providing your wireless service, the manufacturer making the product you purchase, the store you purchased from and Federal Express or UPS. We also work with service providers who provide services, including but not limited to web hosting, order processing and fulfillment, credit card clearance, data analysis, e-mailing and other services of an administrative nature. Your contact information is shared with such third parties exclusively for the purposes of providing such services. We require service providers to agree to use our customer data strictly for the purposes described above and to not use it for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties. From time to time, we may present offers to you from trusted third party partners. If you provide us with specific instruction and consent we will provide your information to these third parties. 
 
-LetsTalk.com uses your information to follow-up on your order and, if you subscribe to our email, to send you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information. 
+LetsTalk.com uses your information to follow-up on your order and to provide you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information. 
 
 Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list or unsubscribe. Subscribers may also contact us [via email](https://web.archive.org/about/emailsubmit.htm?htId=6). We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
 
@@ -126,5 +126,19 @@ Please consult your documentation or online help files.
 
 
 
+
+iFrames  
+iFrames are frames that are able it be integrated anywhere into the html of a page and are less constrictive to use than traditional html frames. iFrames are used in various places on the Letstalk site. If you received an error message regarding iFrames, your browser may be configured to disallow display. MacAfee Security defaultly disables the display of iFrames. 
+
+There is nothing unsafe or questionable regarding our use of iFrames. To have full site functionality you should enable them. If you choose to modify that setting, follow the instructions below. 
+
+In Internet Explorer, V6
+  * Click tools > Security > Internet
+  * Click "Custom Level"
+  * Select "Launching programs and files in an IFRAME" > enable
+
+For Firefox
+  * In the browser window in the URL, type "about:config" > browser.frames.enabled"
+  * Double click it and set it true
 
 | 
