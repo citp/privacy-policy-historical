@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2006-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/hippa.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/hippa.htm) for the most accurate reproduction.*
 
 # WinCo Foods - Privacy Practices
 
 |  [ Home](http://www.wincofoods.com/)  
 ---  
-[ Who Is WinCo Foods](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/whois.htm)  
-[ Our History](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/history.htm)  
-[ Benefits](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/benefits.htm)  
-[ ESOP](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/esop.htm)  
-[ WinCo Employees](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/employees.htm)  
-[ WinCo Locations](https://web.archive.org/web/20060311111558id_/http%3A//www.wincofoods.com/locations.htm)  
+[ Who Is WinCo Foods](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/whois.htm)  
+[ Our History](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/history.htm)  
+[ Benefits](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/benefits.htm)  
+[ ESOP](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/esop.htm)  
+[ WinCo Employees](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/employees.htm)  
+[ WinCo Locations](https://web.archive.org/web/20061231184715id_/http%3A//www.wincofoods.com/locations.htm)  
   
 This summary is provided to assist you in understanding
 
