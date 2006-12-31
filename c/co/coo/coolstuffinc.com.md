@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619053836id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231200542id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
 
-# Magic the Gathering Cards - Board Games - Minatures - Supplies at CoolStuffInc.com.
+# Magic the Gathering Cards - World of Warcraft TCG - Board Games - Miniatures - Supplies at CoolStuffInc.com.
 
   
 **Information We Collect and How We Use It  
@@ -46,7 +46,7 @@ Each time you purchase a product at CoolStuffInc.com or provide information abou
 **Contacting CoolStuffInc.com** Please contact us if you have any questions about this privacy statement, the practices of this site, or your dealings with this site: 
 
 |  | 1\. You can send e-mail at: [info@CoolStuffInc.com](mailto:info@CoolStuffInc.com) .  
-2\. You can send mail to: CoolStuffInc.com, 3586 Aloma Ave. Suite #6, Winter Park, FL 32792  
+2\. You can send mail to: CoolStuffInc.com, 3592 Aloma Ave. Suite #11, Winter Park, FL 32792  
 3\. You can call us at: (407) 695-6554 or (877) 274-6752  
   
 ---|---
