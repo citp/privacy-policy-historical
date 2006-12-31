@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616163828id_/http%3A//models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231103740id_/http%3A//models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
@@ -110,13 +110,10 @@ MODELS.com may use cookies to improve your Web browsing experience. When you fir
 **3rd Party Measurement Services**  
 Often, advertisers will employ a third-party measurement service other than MODELS.com for tracking the performance of an ad program. In these instances, MODELS.com has no control over the information collected by the third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. If you have questions regarding different third party measurement services and their respective methods of information collection, please contact feedback@models.com. 
 
-MODELS.com uses BurstMedia for advertising banner sales displayed on the MODELS.com site. A link to BurstMedia's privacy policy is included below for your information:  
-<http://www.burstmedia.com/release/privacy.asp>
-
 **Disclosure**  
 MODELS.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [feedback@models.com](mailto:feedback@models.com). 
 
 MODELS.com reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.  
 This Privacy notice was last updated on January 31st 2001 and is deemed effective as of this date. 
 
-© 1999, 2000, 2001 MODELS.com, Inc.
+© 1999-2007 MODELS.com, Inc.
