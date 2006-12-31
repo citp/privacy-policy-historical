@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625045303id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231171801id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Zappos.com Privacy Policy
+
+| 
+
+**[Customer Service](http://www.zappos.com/cs.zhtml): Privacy Policy**  
+  
+
 
 Thank you for accessing the web site ("Site") of Zappos.com, Inc. ("Zappos.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -19,7 +25,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
     * alert you to new information, products, and services that we offer. 
   
 | (a)  
-|  Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.  
+|  Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me Later® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me Later® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.   
   
 ---|---  
 (b)  
@@ -53,7 +59,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
   2. Information Use and Disclosure.  
 (a)  
-|  Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.  
+|  Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.   
   
 ---|---  
 (b)  
@@ -69,15 +75,18 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 |  Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)  
   
 (iii)  
-|  We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.  
+|  In the event you have elected to use the Bill Me Later® payment method, to help you buy products and provide customer service to you, we must provide the last four (4) digits of your social security number and your birth date to the financial-services corporations processing your transaction. When you submit this information to us for approval and authorization, we use state-of-the-art data encryption to protect your information.   
   
 (iv)  
-|  We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.  
+|  We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.  
   
 (v)  
-|  We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.  
+|  We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.  
   
 (vi)  
+|  We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.  
+  
+(vii)  
 |  We publicly disclose the name, city, and state of the weekly winner of the Free Shoe Giveaway.  
   
 
@@ -87,16 +96,17 @@ This Site incorporates physical, electronic, and administrative procedures to sa
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
  **OPT OUT/CORRECTIONS**  
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of this Site <http://www.zappos.com/cs.zhtml>, or by telephoning, or emailing your request to Zappos.com's Customer Support department 1-800-ZAPPOS-1 (1-800-927-7671) or 702-943-7677 or:  
-  
-Please do not email your credit-card number.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of this Site http://www.zappos.com/cs.zhtml, or by telephoning, or emailing your request to Zappos.com's Customer Support department 1-888-492-7767 or  
+. Please do not email your credit-card number or other sensitive information. 
 
- **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**  
+**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**  
 As you might expect from Zappos.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of you personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
  **UPDATES TO THIS POLICY**  
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-800-ZAPPOS-1 (1-800-927-7671) or 702-943-7677 or  
 
 
-Effective July 13, 2004.  
-Privacy Policy copyright © 2004 Zappos.com, Inc.
+Effective November 16, 2006.  
+Privacy Policy copyright © 2006 Zappos.com, Inc.
+
+| | 
