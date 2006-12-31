@@ -1,79 +1,118 @@
-> *The following text is extracted and transformed from the realtor.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207042200id_/http%3A//realtor.com/AboutUs/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231235426id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# REALTOR.com: Privacy Policy
+# Privacy Policy
 
-PRIVACY POLICY  
-**Last updated 9/9/99**  
+Privacy Policy
 
+Last updated June 23, 2006
 
-At the Homestore.com™ family of web sites, user privacy is of utmost concern.  We are committed to your privacy and security, and to providing you the best possible user experience.  This policy may be updated by us from time to time, so please check here frequently. 
+MOVE TAKES YOUR PRIVACY SERIOUSLY. Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Sites (as defined below), including by both consumers and real estate professionals (real estate professionals including, without limitation, REALTORS® , homebuilders, lenders, remodelers, home service professionals and other non-consumer service professionals, are referred to as “Professionals”). Professionals, consumers and other persons using the Sites are individually and collectively referred to as “you”, and Move, Inc. and its subsidiaries and affiliates are referred to as, "Move", "we", "us" and "our". We use the Sites to provide you with information, resources, tools, products and services specific to the real estate industry and related markets, and to provide you with information about us and our advertisers, and our respective products and services. 
 
-What do we mean by privacy?  The Homestore.com™ family of sites - including Homestore.com™, REALTOR.com®, HomeBuilder.com™, SpringStreet.com™, Remodel.com™ and CommercialSource.com™ - is committed to your privacy and security and wants to provide you with the best possible experience.  We will never disclose your personally identifiable information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy. 
+The Move family of sites (the "Site(s)"), including, but not limited to, Move.com™, Homestore.com®, REALTOR.com®, HomeBuilder.com®, RENTNET.com, SeniorHousingNet.com, WelcomeWagon.com, HomeFair.com, TOPPRODUCER.com, Resource.REALTOR.com, Resource.HomeBuilder.com, Moving.com and rentnet.com/moc are committed to implementing policies and procedures designed to protect your privacy and security, in addition to providing you with the best possible online experience. To that end, we want you to understand what kinds of information we gather about you, how this information is used and safeguarded, and how you can control its use.
 
-Here's how we collect and use information from you in our efforts to provide the highest quality user experience:
+In conjunction with this Privacy Policy, you should also review our Terms of Use for a complete understanding of the rules governing our Sites.
 
-**IP Address -** Your IP or "Internet Protocol" address and other site usage data is used to gather broad demographic information.  This data helps us serve you by allowing us to understand how visitors use our web sites. 
+[Click here](http://www.ftc.gov/privacy/index.html) for information on Internet safety and security from the Federal Trade Commission.
 
-**Cookies -** Our sites use a technology called "cookies," small files stored by your browser to help keep track of your user profile.  Our cookies do not collect personally identifiable information, nor do we share them with anyone.  We use cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same ad repeatedly.  We also use cookies to track user trends and improve areas of our sites that our users find valuable. 
+**This privacy policy covers the following issues:**
 
-**Ads -** We sometimes use outside companies to display advertising on our web sites.  These ads may place cookies on your computer, which are referenced by our ad companies.  We do not have access to this information. 
+What information is collected from me?
 
-**Registration -** Some of our sites include registration forms that require users to give us contact information (like your name), unique identifiers (such as your email address), and demographic information (like your Zip code or age).  Customer contact information is shared among the Homestore.com™ family of web sites so that, when possible, you can enjoy member benefits without having to register more than once. 
+_Information You Give Us_ : Information collected from you will vary, depending on how you use the Sites and what information you may choose to provide to us (whether through email or otherwise). It's possible to browse most sections of the Sites without submitting any personally identifiable information. Personally identifiable information (“Personal Information”) means individually identifiable information about you that we collect online, including but not limited to, your full name, a user name and password, email address, phone number, physical address, or, for certain products or services, your social security number, or financial information, and for certain e-commerce transactions your credit card information. If you choose to take advantage of some of our products and/or services, or to access certain of our tools or Site functionality, you may be asked to provide Personal Information. Certain Professionals may also be requested to provide your license or MLS ID#. Whenever we ask for Personal Information, we strive to provide a link to this Privacy Policy to help you understand how your Personal Information will be used before you decide whether to disclose it. You can choose not to provide us with Personal Information, but then you may not be able to fully take advantage of certain features of our Sites and we may not be able to provide you with certain requested information, products and/or services.
 
-We use customer contact information from registration forms to send you information related to our products and services if you consent to receiving such mailings.  Your contact information may also be used to contact you when necessary for administrative purposes related to your account.  We use your email as a unique identifier in our record system, to verify communications from you, and to send you newsletters and promotion offerings that you ask to receive or to tell you about changes to the Homestore.com™ family of web sites. 
+_Automatic Collection of Information_ : Like many Web sites on the Internet, we automatically track certain information about you as you visit and use our Sites to help us to better understand how the Sites are used and how we can enhance your overall experience on each Site. This information may include your computer’s Internet Protocol address, the URLs and Site pages you’ve visited, the number of times you visit each Site page, what downloads and/or search queries you have made, how long you spent on particular sections of each Site and on each Site generally, and your browser type. This automatically gathered data includes information provided through the use of " **cookies** " (which is described in more detail below).
 
-Demographic information and site usage data is also collected on our sites. We use this data to tailor your experience, allowing us to provide content related to your preferences and information on products or services we think you may be interested in.
+_Information from Cookies_ : Cookies are small files that we send to and store on your computer so that we can recognize it as a unique machine the next time you visit the Sites. You are always free to decline any cookies we use if your browser permits. Some of our advertisers and third-party service providers may also utilize their own cookies. Several of them may be part of the _Network Advertising Initiative's ("NAI") Self Regulatory Principles Governing Online Preference Marketing_. To opt out of the NAI's Online Preference Marketing, click here. In addition, we and our service providers sometimes use "clear GIFs" in connection with cookies and other website functions. Clear GIFs perform administrative functions without detracting from your online experience. They may be used to perform statistical and administrative tasks including measuring site and page traffic, verifying advertising avenues and positioning images on the web. Clear GIFs do not collect Personal Information.
 
-**Email Services -** If you take advantage of any email notification features on our sites, you will receive email updates as described in the service. The Homestore.com™ family of sites provides users the opportunity to opt-out of receiving communications from us and our partners. Users can remove their personal information from the database of a particular site by sending a request by email to the contact for the particular site listed below or for SpringStreet, by typing "unsubscribe" in a response to the email received. 
+Top
 
-**Personal Tools -** Certain products on our sites, like the REALTOR.COM™ Personal Planner, allow you to store your personal information for future use.  We do not share this information with third parties. 
+Information Sharing Disclosure - How is my information used and shared?
 
-**Order Forms -** Our sites use forms for you to request information, products and services.  We collect financial information to bill you for the products and services you indicate.  (See "Your Security" below for more on how we safeguard your financial information and social security information.)  We collect social security information to provide credit check, loan application and similar services.  We collect contact information, unique identifiers and demographic information for the purposes described in "Registration" above.  See "Disclosure" for more information on when we provide your information to third party business partners. 
+The use of your information depends on the context in which it is collected. Therefore, pay special attention to the categories below that relate to the features of the Sites that you wish to utilize. 
 
-**Contests and Surveys -** Online, we may also survey visitors for contact information, unique identifiers and demographic information.  You are never required to answer these questions.  The information you submit may be used for analyzing overall site demographics, user preferences and tastes, and similar "getting to know our customers" purposes.  We may disclose this data to third parties in an aggregated form (such as summary reports for our advertisers) but never with user data or identification assigned to the information provided. 
+Personal Information
 
-When you enter a contest, we will require that you submit a limited amount of personally identifiable data such as contact information.  We may also ask you questions related to your preferences and age or background.  We will designate which questions are required to be answered in order to enter the contest.  The information you submit may be used to analyze site demographics and user preferences, and for similar "getting to know our customer" purposes.  We may share this data with third parties in aggregate form only (as in summary reports to advertisers), and never in the form of personally identifiable information. 
+We may share the Personal Information we collect from you only with your consent or under the following circumstances: 
 
-**Your Security -** Homestore.com™, Inc., and its affiliates have taken the following important measures to protect against loss, misuse or alteration of your personal information.  First, we store no financial information or social security information on our sites.  Although you may have to enter your credit card number or social security number twice, we think the benefits of security are worth it.  When we do transmit your data, we use only Secure Servers using current encryption technology to encode your data safely. 
+_User-Requested Services and Information_ : Certain products or services on our Sites may seek Personal Information from you, which may be used in the following ways:
 
-The personal data we do store on our system is protected by firewall and password. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network.  The password you select, along with your unique email address, prevents others from accessing your information.  We suggest that you do not disclose your password to anyone. 
-
-**Third Party Service Providers -** Some of the services available through our family of sites, such as "Change My Address," are provided by third parties that have their own privacy policies that may be different than ours.  You should review the privacy policy of third parties before providing your personal information to them. 
-
-**Outside Links -** While on a Homestore.com™ family web site, you may be led to other web sites.  Be aware that other sites may collect data and personal information and operate according to their own privacy practices.  Please remember that, once outside of our family of sites, any information you submit is outside of our control. 
-
-**Disclosure -** To provide you the best products and services, we team with business partners.  When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated.  Occasionally, we hire consultants that may need access to our member database to perform their services for us.  We take great care to require that these business partners agree by contract not to use any member information that they may receive access to. 
-
-Homestore.com™ may contract with outside companies to administer our mailing lists or provide retail services.  Your personal information may be shared with an outside company for the sole purpose of administering the products, services and programs you have selected. 
-
-**Choice/Opt-out -** The Homestore.com™ family of web sites provides you the opportunity to opt out of receiving communications from our partners and us.  To remove your personal information from one of our web sites, email a request to the site at the address listed in "Contacting Us."  To remove your name from an email service, simply reply to the email and type "Unsubscribe" in the subject line. 
-
-**Correct or Update -** You can change or update your personal information for a particular tool, such as the REALTOR.COM™ Personal Planner or the Registration profile of SpringStreet.com™, by going to the "Edit Profile" or "Member Profile" section of the site and following instructions to update your information. 
-
-**Contacting Us -** If at any time you feel that the Homestore.com™ family of web sites has not adhered to this policy, email us at [**Webmaster@Homestore.com**](mailto:webmaster@homestore.com) and we'll do our best to determine any problem and quickly respond. If you have questions or concerns about our privacy policy, please contact us at **[Webmaster@Homestore.com](mailto:webmaster@homestore.com)**. 
-
-And check this page periodically for changes in our privacy policy.
-
-For information on your legal terms of use of the Homestore.com™ family of web sites, [read more](https://web.archive.org/web/20001207042200id_/http%3A//realtor.com/AboutUs/TermsOfUse.asp).
-
-Here's how to contact the Homestore.com™ family:  
+  * For products and services provided by the Sites, the information you submit is used by us to provide the information, product or service you've requested. We may also share this information with others, but only to the extent necessary to fulfill your request or to facilitate your use of their services. In addition, we may use any registration information that you submit as set forth in the “Registration Information” section below. 
+  * We may use other companies and individuals to perform supporting functions for the various tools, functionality, products and services offered through our Sites on our behalf. These service providers will not be permitted to use the information collected from you for any other purpose other than performing the support functions for Move. 
+  * For products and services offered to you jointly by us and a third party, your Personal Information may be shared with or independently gathered by the third party. In these situations, Move will only use your Personal Information as outlined in this Privacy Policy, but the third party may use the information in different ways. You can tell when a product or service is offered by a third party, because a page of the Sites will be "co-branded" and will display the third party's logo and/or name along with our own, or you will be linked to the third party's site to complete the transaction. Please be aware that each company we do business with has its own policies regarding the use and protection of your information that may differ from those outlined in this Privacy Policy. 
 
 
-This Homestore.com™, Inc., privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control on Homestore.com™, Inc., and is not to be applied in any manner contrary to applicable law or governmental regulation.
 
-We reserve the right at our discretion to make changes to this policy at any time.
+_User-Initiated Communication_ : From time to time, portions of the Sites may enable you to send email to us or to third parties and to participate in public bulletin boards and discussion groups. All postings to public bulletin boards and discussion groups become our property. Whenever you choose to initiate these kinds of communication with us, or anyone else, you may be contacted in return. Also, remember that our bulletin boards and discussion groups are open to the public, and therefore, your postings can be seen by anyone and are not protected by us or any other entity. Please use your own discretion when deciding what to post and whom to contact. We reserve the right, in our sole discretion, to edit or delete inappropriate postings from our bulletin boards and discussion groups. This reservation of rights shall not under any circumstances obligate us to conduct such edits or deletions, nor shall it cause us to be liable for any such edits or deletions.
 
-Homestore.com™, Inc., and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on Homestore.com™, Inc., or its affiliates; (2) protect and defend the property or rights of Homestore.com™, Inc., and its affiliates or the users of the Homestore.com™ family of web sites. 
+_Referrals_ : If you participate in any referral service we may offer:
 
-Back to Top
+  * _Consumers_ : We use the information you submit to determine which of our participating professional(s) may be able to serve your needs. We may then forward your information, which may include Personal Information, contained on our sign-up form to certain professional(s), who may then contact you. 
+  * _Professionals_ : You may receive information from consumers seeking your products or services, including, without limitation, their Personal Information. Because protecting consumer privacy is important, we require that you treat data received from Move consumers as if it was still on the Sites and in accordance with this Privacy Policy. You may only use the information sent to you via our Sites for the purposes of providing products and/or services to the consumer. We require that you otherwise not share, use or transmit this information to or with any third party without the consumer’s consent.
 
-|     
-|   
-  
-Using this site means you agree to our [Terms of Use](https://web.archive.org/AboutUs/TermsOfUse.asp) and [Privacy Policy](https://web.archive.org/default.asp).
 
-© 1995-2000 [NATIONAL ASSOCIATION OF REALTORS®](https://web.archive.org/Redir/Redir.asp?target=http%3A%2F%2Fnar%2EREALTOR%2Ecom%2F) and [RealSelect, Inc.](https://web.archive.org/Redir/Redir.asp?target=http%3A%2F%2Fwww%2Ehomestore%2Ecom%2FAboutUs%2FRealtor%2Easp), and/or their suppliers.  All rights reserved.  No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of RealSelect, Inc., unless otherwise specified.  REALTOR.COM™ is the official site of the NATIONAL ASSOCIATION OF REALTORS® and is operated by RealSelect, Inc.
 
-[Equal Housing Opportunity](https://web.archive.org/Redir/Redir.asp?target=http%3A%2F%2Fwww%2Ehomestore%2Ecom%2FAboutUs%2FEqualHousing%2Easp)
+_Protection of rights_ : We will release Personal Information if we believe that such action is appropriate to: (1) comply with legal process, (2) enforce the Terms of Use Agreement for the applicable Site, or (3) identify, contact or bring legal action against persons or entities who are or we believe will cause injury to us or a third party, or (4) otherwise protect the rights, property or personal safety of Move, its employees, Site users or others.
 
-REALTOR® -- A registered collective membership mark that identifies a real estate professional who is a member of the [National Association of REALTORS](https://web.archive.org/Redir/Redir.asp?target=http%3A%2F%2Fnar%2EREALTOR%2Ecom%2F)® and subscribes to its strict Code of Ethics.  Inquiries regarding the [Code of Ethics](https://web.archive.org/Redir/Redir.asp?target=http%3A%2F%2Fnar%2Erealtor%2Ecom%2Fabout%2Fethicsframe%2Ehtm) should be directed to the [board](https://web.archive.org/NAR/StateLocal.asp) in which a REALTOR® holds membership.
+_Asset transfers_ : We continue to develop our business and in doing so might choose to buy or sell other businesses or assets. Personal Information is generally one of the transferred assets acquired or transferred in such transactions. 
+
+_Registration Information_ : The Personal Information you provide when you become a registered user or customer of one of the Sites is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase or request. This Personal Information may also be shared among the Sites to make your use of the Sites more convenient by, for example, limiting the number of times you have to register with us. Your email address serves as a unique identifier in our record system, and together with your password is designed to prevent unauthorized access to any information you choose to store on the Sites. The data you give us about your personal preferences and demographics (e.g., your age, ZIP code, occupation or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. In addition, we may share this information, in aggregate form, with our current and potential advertisers so that they can present advertisements more effectively. If you forget your password for any registered area of the Sites, we have an automated password recovery system, which can be accessed by clicking on the "Forgot Password?" link on the sign-in page. 
+
+  * Unless you specify that you'd prefer not to hear from us, we may use the email address you provide at the time of registration to contact you for promotional or other purposes. You may have these communications terminated at any time by opting out through your member profile on the applicable Site, or by clicking on any “unsubscribe” link contained in a promotional email. Please be aware that opting out on one of our Sites, does not opt you out from any of our other Sites. If you would like to request to opt out with respect to all of the Sites please email [Privacy@move.com](mailto:privacy@move.com) with your requests. 
+  * _Professionals_. Personal Information provided to us from your trade association is not shared with third parties, unless you authorize it directly. We may offer a newsletter to keep you abreast of the products and services on the Sites or other professional products and services. Information such as your license number or personal financial information will not be shared with third parties except to complete a transaction or as provided in the paragraphs above. Additionally, information provided by you for the purposes of offering your products and services to others via one or more of the Sites will be shared with others, including consumers accessing one or more of the Sites. To the extent such information is necessary to offer such products and services it will be posted on the applicable Site(s). This may include, without limitation, your full name, email address, license number, state of license, address, phone number, graphic images and any other data intended to help consumers identify or contact you and for your products and services. 
+
+
+
+Top
+
+Non-personal Information
+
+_Automatically Gathered Information_ : Information that is automatically gathered, including through the use of cookies, may be shared among the Sites and in aggregate form with other third parties, including listing providers, and advertisers, so that we may better understand how the Sites are used and to enhance your overall experience on the Sites. When such data is aggregated, all Personal Information is eliminated.
+
+_Children’s Privacy_ : Our Sites are general audience Web sites. If you are under the age of 13 you should not register or provide information on our Sites. We do not collect Personal Information from any person we actually know is a child under the age of 13. If you have knowledge that a child under the age of 13 has submitted Personal Information to us, please email [Privacy@move.com.](mailto:privacy@move.com)
+
+Top
+
+How can I access and change my information?
+
+To view, edit or delete the Personal Information you submitted on the Sites during registration, the purchase of a product or service, or elsewhere as described above:
+
+  * _Consumers_ : Follow the instructions found in the "My Profile" or "Edit Your Profile" area of the Site(s) where you registered or submitted Personal Information. If you would like us to no longer use or share with our affiliates, partners or other service providers, your Personal Information we may gather from you to market information to you, please send a request to [Privacy@move.com.](mailto:privacy@move.com)
+  * _Professionals_ : You may edit your information by returning to the area of the Site where you registered and modifying the information there, or by calling our Customer Care Center at (800) 878-4166. By contacting Customer Care to make such changes, you expressly authorize Customer Care to access your data for the purposes of completing your requested edits, modifications and/or deletions.
+
+
+
+Top
+
+How is my information protected?
+
+Whenever Personal Information about you is stored on our computers, that information is password-protected from unauthorized access or use. In addition, this information is kept on servers that are located behind a firewall. Since your financial information and certain other Personal Information (i.e., your social security number) is especially sensitive, we take special care to keep it secure. We will only electronically transmit or ask for this information over secure Internet connections using SSL (Secure Sockets Layer) encryption, the currently accepted standard for online security, and security keys. In addition, we require password authentication from any third parties you have authorized to receive this information. Finally, to the extent that we may ask for your social security number, credit card number or financial information, these will be stored on secure designated servers where access is limited to individuals in departments charged with using such information only in connection with processing your orders for products and services purchased; provided, however, that those orders processed by our partners, marketing allies and service providers that provide the service or product requested may store such information on their servers which are governed by such third party’s privacy policy and security procedures. 
+
+Of course, we appreciate your help in safeguarding the integrity of your own and others' privacy. We hope you'll use common sense whenever you disclose Personal Information over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that the information you share with us is being used in any way contrary to this Privacy Policy. Finally, unfortunately no data transmission over the Internet or the storage of information on servers can be guaranteed to be 100% secure and while we strive to protect your personal information, as described herein, we cannot guarantee or warrant its complete security. To contact us, please send an email to: [Privacy@move.com](mailto:privacy@move.com) or [Webmaster@move.com.](mailto:Webmaster@move.com)
+
+Top
+
+Scope of This Privacy Policy: Outside Links
+
+Be aware that our Sites link to other Web sites that may collect personally identifiable information about you. This Privacy Policy only applies to the Sites, and we are not responsible for the privacy practices or the content for any linked Web sites. You should refer to the privacy policies and statements of other Web sites or contact the respective Webmasters of those Web sites to obtain information regarding their information collection, use and disclosure policies.
+
+Top
+
+Effective Date and Modifications
+
+This Privacy Policy is effective as of the date first written above and may be updated and modified from time to time by us in our sole discretion. If we choose to update or modify this Privacy Policy, such updated or modified policy shall become effective five (5) business days after its posting on the applicable Site(s). Accordingly, we encourage you to periodically review this Privacy Policy and the Sites in order to keep apprised of our current privacy practices. If you do not agree to any provision of this Privacy Policy, or any update or modification thereto, please do not use the Sites.
+
+Top
+
+Contacting Us
+
+If you have concerns about this Privacy Policy or our privacy practices in general, contact us at:
+
+Privacy Administrator   
+Legal Department   
+Move, Inc.   
+30700 Russell Ranch Road   
+Westlake Village, CA 91360   
+Fax: (805) 557-2680   
+Email: [Privacy@move.com](mailto:Privacy@move.com)
+
+Top
