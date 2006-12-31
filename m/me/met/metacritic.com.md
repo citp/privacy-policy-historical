@@ -1,81 +1,147 @@
-> *The following text is extracted and transformed from the metacritic.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305120303id_/http%3A//www.metacritic.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacritic.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231161233id_/http%3A//www.cnetnetworks.com/editorial/privacy.html) for the most accurate reproduction.*
 
-# Metacritic.com Privacy Policy
+# CNET Networks | Editorial | Privacy Policy
 
-THIS PRIVACY STATEMENT WAS LAST UPDATED ON **9 DECEMBER 2004.**
+| 
 
-METACRITIC.COM has created this privacy statement in order to demonstrate our firm commitment to privacy. Please note that in the rare circumstances where we do collect personal and demographic information about you, we do so by ASKING you to provide the information. In addition, we NEVER provide your confidential information to third parties, and we NEVER send you any emails unless you specifically request them. 
+CNET Networks, Inc. is a worldwide media company and creator of content environments for the interactive age. CNET Networks takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CNET Networks' leading brands—such as CNET, GameSpot, MP3.com, Webshots, and ZDNet—focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe.
 
-The following discloses the information gathering and dissemination practices for this Web site.
+This privacy policy applies to the U.S. operations of all brands and services within the CNET Networks family.
 
-### This Policy Statement
+**Overall privacy statement**  
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
-This statement officially communicates the privacy policy of Metacritic.com. You can always access this policy through a link on the Metacritic.com homepage or at the bottom of any page on the site. Any changes to the policy will always be indicated on this page; please refer to the top of this page for the date it was last updated. 
+**1\. What information does CNET Networks collect?**  
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards.
 
-### Information Automatically Logged 
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
 
-Our web servers record information about your web browser and IP address. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information (to allow us, for example, to obtain a country-by-country breakdown of site visitors). 
+Once you register with one of our CNET Networks sites you are no longer anonymous to us.
 
-### Third Party Advertising
+**2\. What is CNET Networks' practice regarding cookies?**  
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
 
-We use multiple third-party advertising companies to serve ads when you visit our Web site. These companies may use information (NOT including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We also use technologies, including electronic images known as _Web bugs_ —sometimes called _transparent GIFs, clear GIFs_ , or _beacons_ —that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
 
-### Cookies
+We use cookies and tracking technologies in a variety of ways, including: 
 
-Cookies are NEVER used to TAKE private information from your computer. Instead, they are used to temporarily store a very small piece of information on your computer to facilite your use of our website. In the future, this will enable us to provide personalized content for you on our site. For any password-protected areas of our site (there are none at the moment, but there may be in the future), we use cookies to save your password so you don't have to re-enter it each time you visit our site. Furthermore, in the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-### Registration Forms 
-
-Currently, Metacritic does not require or provide for site registration. A very brief form must now be completed to submit votes and comments for movies, games, music and books, and to use the "email this page to a friend" service. The information from the email form is not stored. The email address from the voting form is recorded only to prevent duplicate votes; the addresses are NEVER shared with third parties. Your email address is used to mail periodic newsletter(s) about our site, **but only if you specifically request to receive those newsletters**. If you do choose to receive newsletters, you may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-Note that periodically, when clicking on a "Read Full Review" link, you may be taken to a different website (that of the publication which published the full review) that requires registration. Metacritic is not responsible for the content or information gathering practices of these external websites, and we recommend that you read those sites' own privacy policies.
-
-### Surveys
-
-From time to time, our site may contain periodic surveys about various topics. Our online surveys may ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
-
-The information collected from these surveys is used to collect broad demographic information about our users and is never provided to third parties on an individual basis. Aggregate data may be shared with advertisers or other parties.
-
-### Contests
-
-In the future, it is likely that our site will provide various contests. These contests may ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
-
-Contact information from the registration forms is used to collect broad demographic information about our users and is never provided to third parties on an individual basis. Aggregate data may be shared with advertisers or other parties. Your email address is used to mail periodic newsletter(s) about our site, but only if you specifically request to receive those newsletters. If you do choose to receive newsletters, you may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-### External Links 
-
-This site contains links to other sites. metacritic.com is not responsible for the privacy practices or the content of such Web sites. 
-
-### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Any information collected about our site visitors are stored on servers in access-controlled data centers with both physical and electronic security systems in place. 
-
-### Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information and newsletters from us. There are several methods you can use to have your email address removed from these mailing lists: 
-
-  1. You can send email to [newsletters@metacritic.com](mailto:newsletters@metacritic.com)
-  2. You can send regular mail to the following postal address:   
-Metacritic, 1223 Wilshire Blvd #1240, Santa Monica, CA 90403-5400 
+  1. Keeping count of return visits to our site or our advertisers' or partners' sites;
+  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
+  3. Determining which features our overall user population likes best;
+  4. Saving your password so you don't have to re-enter it each time you visit our sites;
+  5. Displaying the most appropriate advertising or content based on your interests.
 
 
 
-### Data Quality/Access 
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-This site gives users the following options for changing and modifying information previously provided: 
+**3\. How does CNET Networks use the information?**  
+We use the information we gather for four general purposes: 
 
-  1. You can send email to [newsletters@metacritic.com](mailto:newsletters@metacritic.com)
-  2. You can send regular mail to the following postal address:   
-Metacritic, 1223 Wilshire Blvd #1240, Santa Monica, CA 90403-5400 
-
-
-
-### Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can:
-
-  1. Use our [contact form](https://web.archive.org/about/contact.shtml) to email us your comments or questions.
-  2. Send regular mail to the following postal address:   
-Metacritic, 1223 Wilshire Blvd #1240, Santa Monica, CA 90403-5400 
+  1. To customize the advertising and the content you see;
+  2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
+  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;
+  4. To send you information you agreed to receive about topics we think will be of interest to you.
 
 
+
+**4\. How does CNET Networks share the information?**  
+**_Personally identifiable information_**  
+We will make your personally identifiable information available to other companies or people when: 
+
+  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
+  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.
+  3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+  4. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
+  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person’s list of people to whom they may not send emails.
+  6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
+  7. When required by law, such as when we respond to subpoenas, court orders, or legal process.
+  8. We believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/editorial/terms.html), or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+
+
+
+**_Aggregate information_**  
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+
+**_ChannelOnline data_**  
+Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties.
+
+**_Business transfers_**  
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+
+**5\. What are my options?**  
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
+We also give users the following options: 
+
+  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;
+  2. Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+
+
+
+**6\. How can I review and update my personally identifiable information?**  
+You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
+
+**BNET**  
+Free services registration [http://www.bnet.com](http://www.bnet.com/)  
+E-mail newsletters <http://nl.com.com/acct_login.jsp?brand=bnet>
+
+**CNET**  
+Account management: <http://reviews.cnet.com/1340-7600-64.html>   
+E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>  
+Registration management [e-mail request]: [mailto:privacy@cnet.com](mailto:privacy@cnet.com)  
+Download.com users: <http://download.com.com/1320-20-3.html>  
+Download.com listings: <http://upload.com.com/>  
+Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
+CNET Advantage: <http://cma.zdnet.com/texis/cnet/showlogin.html>  
+Internet Services listings: <http://webservices.cnet.com/html/postprocess/contactformIAc.asp>  
+ChannelOnline: <http://channelonline.com/us/>  
+CNET News.com Account Management: <http://news.com.com/1340-52-34.html>  
+CNET News.com newsletters: [http://nl.com.com/acct_mgmt.sc?brand=news](http://nl.com.com/acct_mgmt.sc?brand=new)
+
+**GameSpot**  
+Account management: <http://www.gamespot.com/gamespot/misc/reg/manage.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=gamespot>  
+Registration management: <http://www.gamespot.com/gamespot/misc/reg/manage.html>  
+GameSpot Complete: <http://www.gamespot.com/gamespot/misc/complete/signup.html>  
+GameSpot Basic: <http://www.gamespot.com/gamespot/misc/basic/signup.html>
+
+**MP3.com**  
+Email Newsletters: <http://nl.com.com/acct_login.jsp?brand=mp3>  
+Free membership sign-up and services: <http://www.mp3.com/signup/>
+
+**mySimon**  
+Account management: <http://www.mysimon.com/1340-7600-73.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=mysimon>
+
+**Release 1.0**  
+Contact Us: <http://www.release1-0.com/general/contactus.cfm>
+
+**CNET Shopper.com**  
+E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>
+
+**TechRepublic**  
+Account management: <http://techrepublic.com.com/1341-22-20.html>  
+E-mail newsletters: <http://www.techrepublic.com/techmail_promo.jhtml>  
+Registration management: <http://www.techrepublic.com/login.jhtml?gotoURL=%2Findex.jhtml>
+
+**Webshots**  
+Premium Membership: <http://www.webshots.com/MyAccount/MyAccount.fcgi>
+
+**ZDNet**  
+Account management: <http://zdnet.com.com/1340-10-7.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=zdnet>  
+ZDNet Downloads users: <http://downloads-zdnet.com.com/1320-20-4.html>  
+Registration management: <http://www.zdnet.com/members/>  
+BizTech Library: <https://cma.zdnet.com/texis/techinfobase/techinfobase/signon.html>  
+ITPapers users: <http://www.itpapers.com/>
+
+ **7\. How will I know if the privacy policy is changed?**  
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+
+**8\. Privacy of children**  
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+
+**Questions, Comments**  
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+
+Effective date: December 13, 2006
