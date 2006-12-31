@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fda.gov privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507180533id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fda.gov privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231113229id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the FDA Website
 
@@ -168,5 +168,7 @@ If you have any questions or comments about the FDA website, you can contact us 
 
 
 
-back to top  
+back to top
 
+[  
+Español](https://web.archive.org/oc/spanish/privacy.html)
