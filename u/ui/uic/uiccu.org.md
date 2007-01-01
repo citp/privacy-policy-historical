@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uiccu.org privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029203839id_/http%3A//www.uiccu.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uiccu.org privacy policy that was archived on 2007-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070101100310id_/http%3A//www.uiccu.org/asp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
