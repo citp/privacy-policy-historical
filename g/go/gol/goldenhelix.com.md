@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029234854id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2007-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070102100822id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Golden Helix, Inc. | Privacy Statement
 
-|  [](https://web.archive.org/web/20061029234854id_/http%3A//www.goldenhelix.com/about.html)  
+|  [](https://web.archive.org/web/20070102100822id_/http%3A//www.goldenhelix.com/about.html)  
 ---  
 | 
 
@@ -10,9 +10,9 @@ NEWS FLASH
   
 ---  
   
-August 17, 2006 - Harvard University Grants Golden Helix, Inc. Exclusive License to PBAT: Tools for Family Based Association Studies. [More...](https://web.archive.org/web/20061029234854id_/http%3A//www.goldenhelix.com/pressrelease08_17_06.html)
+August 17, 2006 - Harvard University Grants Golden Helix, Inc. Exclusive License to PBAT: Tools for Family Based Association Studies. [More...](https://web.archive.org/web/20070102100822id_/http%3A//www.goldenhelix.com/pressrelease08_17_06.html)
 
-March 21, 2006 - Affymetrix & Golden Helix presented an educational primer on whole genome association studies with 500k GeneChip® Mapping Arrays™. [View...](https://web.archive.org/web/20061029234854id_/http%3A//www.goldenhelix.com/affymetrix_tutorial20060321/AffyGHIWebcast20060321.html)  
+March 21, 2006 - Affymetrix & Golden Helix presented an educational primer on whole genome association studies with 500k GeneChip® Mapping Arrays™. [View...](https://web.archive.org/web/20070102100822id_/http%3A//www.goldenhelix.com/affymetrix_tutorial20060321/AffyGHIWebcast20060321.html)  
   
 |  |  | 
 
