@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005025559id_/http%3A//www.smus.bc.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2007-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070102055733id_/http%3A//www.smus.bc.ca/privacy.html) for the most accurate reproduction.*
 
 # St. Michaels University School :: Canadian Private School :: Privacy Principles
 
