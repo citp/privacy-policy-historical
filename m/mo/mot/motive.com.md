@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115193549id_/http%3A//motive.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2007-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070103182421id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
