@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpapergate.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113141630id_/http%3A//www.wallpapergate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapergate.com privacy policy that was archived on 2007-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070103200151id_/http%3A//www.wallpapergate.com/privacy.html) for the most accurate reproduction.*
 
-# Wallpaper Gate - Privacy
+# WallpaperGate.com - Privacy
 
 How To Contact Us
 
