@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drug-education-resource.com privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902021912id_/http%3A//www.drug-education-resource.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drug-education-resource.com privacy policy that was archived on 2007-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070104001215id_/http%3A//www.drug-education-resource.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Pharmacy
 
