@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinagames.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614204454id_/http%3A//www.vinagames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinagames.org privacy policy that was archived on 2007-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070104235439id_/http%3A//vinagames.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
