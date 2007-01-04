@@ -1,0 +1,521 @@
+<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2007-01-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070104021356id_/http%3A//www.heart1062.co.uk/article.asp%3Fid%3D27079) for the most accurate reproduction.-->
+
+<html><head><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script>
+
+<script language="JAVASCRIPT" type="text/JavaScript">
+/************************************
+ BUILD THE DATA ARRAYS FOR THE MENUS
+************************************/
+// Menu Item Object
+function objMenuItem(sHTML, sURL, sTarget) {
+	if (sTarget == null) sTarget = "";
+
+	this.sHTML = sHTML;
+	this.sURL = sURL;
+	this.sTarget = sTarget;
+}
+// Create the Menu Arrays
+var aryMenu1 = new Array();
+aryMenu1[0] = new objMenuItem('Home','/default.asp');
+aryMenu1[1] = new objMenuItem('On Air','');
+aryMenu1[2] = new objMenuItem('Win','');
+aryMenu1[3] = new objMenuItem('What\'s Happening','');
+aryMenu1[4] = new objMenuItem('Dating','http://www.heartdating.com/heart1062.htm');
+aryMenu1[5] = new objMenuItem('Shop','');
+aryMenu1[6] = new objMenuItem('VIPs','');
+aryMenu1[7] = new objMenuItem('Contact Us','/contactus.asp');
+var aryMenu1_2 = new Array();
+aryMenu1_2[0] = new objMenuItem('DJ Pages','/sectional.asp?id=3334');
+aryMenu1_2[1] = new objMenuItem('Breakfast','/sectional.asp?id=3476');
+aryMenu1_2[2] = new objMenuItem('Drivetime','/sectional.asp?id=7262');
+aryMenu1_2[3] = new objMenuItem('Time Tunnel','/article.asp?id=63286');
+aryMenu1_2[4] = new objMenuItem('Club Classics','/article.asp?id=62963');
+aryMenu1_2[5] = new objMenuItem('The A List','http://www.heart1062.co.uk/goout.asp?u=http://www.thealist.co.uk/');
+aryMenu1_2[6] = new objMenuItem('Schedule','/schedule.asp');
+aryMenu1_2[7] = new objMenuItem('News','/sectional.asp?id=1190');
+aryMenu1_2[8] = new objMenuItem('Travel','/sectional.asp?id=1190');
+aryMenu1_2[9] = new objMenuItem('Showbiz','/sectional.asp?id=1191');
+aryMenu1_2[10] = new objMenuItem('Listen Live','/article.asp?id=66804');
+aryMenu1_2[11] = new objMenuItem('DAB Digital Radio','/Article.asp?id=65994');
+aryMenu1_2[12] = new objMenuItem('Heart on Freeview','/Article.asp?id=321628');
+var aryMenu1_3 = new Array();
+aryMenu1_3[0] = new objMenuItem('Win & Buy Tickets','/sectional.asp?id=3267');
+aryMenu1_3[1] = new objMenuItem('Contests Page','/sectional.asp?id=3432');
+aryMenu1_3[2] = new objMenuItem('Terms & Conditions','/Article.asp?id=302903');
+var aryMenu1_4 = new Array();
+aryMenu1_4[0] = new objMenuItem('Heart Dating','http://www.heartdating.com/heart1062.htm');
+aryMenu1_4[1] = new objMenuItem('Hotcourses','/Article.asp?id=26183');
+aryMenu1_4[2] = new objMenuItem('Ground Patrol','/sectional.asp?id=7423');
+aryMenu1_4[3] = new objMenuItem('Your Community','/sectional.asp?id=3261');
+aryMenu1_4[4] = new objMenuItem('Time Tunnel Challenge','/Article.asp?id=300933');
+aryMenu1_4[5] = new objMenuItem('Photo Gallery','http://www.heart1062.co.uk/Photogallery.asp');
+var aryMenu1_6 = new Array();
+aryMenu1_6[0] = new objMenuItem('Buy Tickets','/Article.asp?id=68502');
+aryMenu1_6[1] = new objMenuItem('Books','/Article.asp?id=322912');
+aryMenu1_6[2] = new objMenuItem('CDs','/Article.asp?id=322564');
+aryMenu1_6[3] = new objMenuItem('DVDs','/Article.asp?id=322580');
+aryMenu1_6[4] = new objMenuItem('Heart Mobile','/sectional.asp?id=3467');
+aryMenu1_6[5] = new objMenuItem('DAB Digital Radio','/Article.asp?id=65994');
+aryMenu1_6[6] = new objMenuItem('Heart Dating','http://www.heartdating.com/heart1062.htm');
+aryMenu1_6[7] = new objMenuItem('Time Tunnel Challenge','/Article.asp?id=300933');
+var aryMenu1_7 = new Array();
+aryMenu1_7[0] = new objMenuItem('VIP Club Info','/Article.asp?id=146254');
+aryMenu1_7[1] = new objMenuItem('VIP Login','/els/elsloginfrm.asp');
+var aryMenu1_8 = new Array();
+aryMenu1_8[0] = new objMenuItem('Contact Us','/contactus.asp');
+aryMenu1_8[1] = new objMenuItem('Advertising info','/article.asp?id=25980');
+aryMenu1_8[2] = new objMenuItem('Ofcom Public Files','/Article.asp?id=237338');
+var aryMenu2 = new Array();
+aryMenu2[0] = new objMenuItem('Home','/');
+aryMenu2[1] = new objMenuItem('On Air','');
+aryMenu2[2] = new objMenuItem('Win','');
+aryMenu2[3] = new objMenuItem('What\'s Happening','');
+aryMenu2[4] = new objMenuItem('Shop','');
+aryMenu2[5] = new objMenuItem('VIPs','');
+aryMenu2[6] = new objMenuItem('Contact Us','');
+var aryMenu2_7 = new Array();
+aryMenu2_7[0] = new objMenuItem('Contact Us','/contactus.asp');
+aryMenu2_7[1] = new objMenuItem('VIPs','/els/');
+aryMenu2_7[2] = new objMenuItem('Heart on Freeview','/Article.asp?id=321628');
+var aryMenu3 = new Array();
+aryMenu3[0] = new objMenuItem('Home','default.asp');
+aryMenu3[1] = new objMenuItem('On Air','schedule.asp');
+aryMenu3[2] = new objMenuItem('Staying In','sectional.asp?ID=12161');
+aryMenu3[3] = new objMenuItem('Going Out','sectional.asp?ID=12161');
+aryMenu3[4] = new objMenuItem('Picture Gallery','photowall.asp');
+aryMenu3[5] = new objMenuItem('Showbiz News','sectional.asp?ID=12161');
+aryMenu3[6] = new objMenuItem('Heart Dating','sectional.asp?ID=12161');
+aryMenu3[7] = new objMenuItem('Your Heart FM','sectional.asp?ID=12161');
+aryMenu3[8] = new objMenuItem('Competitions','sectional.asp?ID=12161');
+var aryMenu3_2 = new Array();
+aryMenu3_2[0] = new objMenuItem('Schedule','schedule.asp');
+aryMenu3_2[1] = new objMenuItem('DJ Pages','sectional.asp?ID=12160');
+aryMenu3_2[2] = new objMenuItem('On Air Subnav 3','default.asp');
+aryMenu3_2[3] = new objMenuItem('Sample Article','article.asp?ID=322171');
+var aryMenu3_3 = new Array();
+aryMenu3_3[0] = new objMenuItem('Staying Out Subnav 1','article.asp');
+aryMenu3_3[1] = new objMenuItem('Staying Out Subnav 2','article.asp');
+aryMenu3_3[2] = new objMenuItem('Staying Out Subnav 3','article.asp');
+var aryMenu3_4 = new Array();
+aryMenu3_4[0] = new objMenuItem('Going Out Subnav 1','article.asp');
+aryMenu3_4[1] = new objMenuItem('Going Out subnav 2','article.asp');
+aryMenu3_4[2] = new objMenuItem('Going Out Nav 3','/article.asp');
+var aryMenu3_5 = new Array();
+aryMenu3_5[0] = new objMenuItem('Picture Gallery Subnav 1','PhotoWall.asp?id=2636');
+aryMenu3_5[1] = new objMenuItem('Picture Gallery Subnav 2','PhotoWall.asp?id=2636');
+aryMenu3_5[2] = new objMenuItem('Picture Gallery Subnav 3','PhotoWall.asp?id=2636');
+var aryMenu3_7 = new Array();
+aryMenu3_7[0] = new objMenuItem('Heart Dating Subnav 1','article.asp');
+aryMenu3_7[1] = new objMenuItem('Heart Dating Subnav 2','article.asp');
+aryMenu3_7[2] = new objMenuItem('Heart Dating Subnav 3','article.asp');
+var aryMenu3_8 = new Array();
+aryMenu3_8[0] = new objMenuItem('Your Heart Subnav 1','article.asp');
+aryMenu3_8[1] = new objMenuItem('Your Heart Subnav 2','article.asp');
+aryMenu3_8[2] = new objMenuItem('Your Heart Subnav 3','article.asp');
+var aryMenu3_9 = new Array();
+aryMenu3_9[0] = new objMenuItem('Competitions Subnav 1','article.asp');
+aryMenu3_9[1] = new objMenuItem('Competitions Subnav 2','article.asp');
+aryMenu3_9[2] = new objMenuItem('Competitions Subnav 3','article.asp');
+
+</script>
+
+
+
+<!-- No Tacoda Tag -->
+<title>Heart 106.2</title>
+<meta name="description" content="Heart 106.2, More Music Variety.  Heart 106.2 features music events, showbiz news, contests, concerts, clubs and more!">
+<meta name="keywords" content="london radio, london music, london, heart 106.2 fm, 106.2, jamie theakston, harriet scott, jamie and harriet, toby anstis, emma b, nick snaith, showbiz, celebrities, music, gossip, hula, hula hoop, hulaing, hula hooping, music, ">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JAVASCRIPT">
+<!--
+//256x360
+function openWin(){}
+function openWin(v,w,h){
+  if (v != null && v !=''){
+       x='/popup.asp?id='+v;  
+  theWin = window.open(x, "newWin", "width="+ w +",height="+ h +",top=100,scrollbars=yes,center=no,location=no,toolbars=no,status=no")
+  theWin.focus;}
+}
+//-->
+</script>
+
+
+<link href="/stylesheets/schedule.css" rel="stylesheet" type="text/css">
+<link href="/stylesheets/bs-sectional4.css" rel="stylesheet" type="text/css">
+<link href="/stylesheets/bs-sectional1.css" rel="stylesheet" type="text/css">
+<link href="/udf/styles.css" rel="stylesheet" type="text/css" id="NavStyles">
+<style>
+.artLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+	padding: 5px;
+}
+.artLink:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: underline;
+	padding: 5px;
+}
+</style>
+
+<script language="JAVASCRIPT"><!--
+document.write('<S'+'CRIPT src=http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ihrt.js?Mode=HTML&fightcache=' + (new Date()).getTime() + '></'+'scr'+'ipt>');
+// --> 
+</script><script src="http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ihrt.js?Mode=HTML&amp;fightcache=1580474546108"></script>
+</head>
+
+<body onload="funPositionMenus();" bgcolor="#FFFFFF" leftmargin="10" topmargin="10" marginwidth="10" marginheight="10">
+
+<div align="left">
+<table width="945" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr align="left" valign="top"> 
+      <td width="760">
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	 <td width="259" height="126" rowspan="2" align="left" valign="top"><a href="/default.asp"><img src="/images/g_logo-1062.gif" width="259" height="126" alt="Home Page" border="0"></a></td>
+	 <td height="62" align="left" valign="top"><a target="_blank" href="/ad/click.asp?adID=44857&amp;adRunID=55537"><img src="http://images.radcity.net/5565/1735784.gif" class="cgBannerAd" border="0" alt="www.peugeot.co.uk"></a><!--<img src="/images/01_banner.gif" width="468" height="60" class="cgBannerAd">--></td>
+	</tr>
+	<tr>
+	 <td align="left" valign="top"><table width="501" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr align="left" valign="top">
+			<td width="259"><table width="248" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr align="left" valign="top">
+				 <td height="8" colspan="3"><img src="/images/trans.gif" width="248" height="8"></td>
+				</tr>
+				<tr align="left" valign="top">
+				 <td width="47"><img src="/images/g_subhead_keyword.gif" width="47" height="15" alt="Search"></td>
+				 
+	<script language="Javascript">
+	<!--
+	function ValidateKeyForm()
+	{
+		isOK = true;
+		if (isOK && (document.formKeyForm.searchstring.value.length < 1)) {
+			alert("Please enter a valid Keyword.");
+			document.formKeyForm.searchstring.focus();
+			isOK = false;
+		}
+		return isOK
+	}
+	//-->
+	</script>
+	<form method="get" action="/SearchResults.asp" name="formKeyForm" onsubmit="return ValidateKeyForm();"></form><input type="hidden" name="search" value="1">
+	<td width="95"><input name="searchstring" type="text" class="cgKeywordInput" value="keyword search" maxlength="35" onclick="document.formKeyForm.searchstring.value=''"></td>
+	<td width="108"><input type="image" src="/images/g_button_keyword.gif" width="108" height="15" id="image1" name="image1" alt="submit"></td>
+    
+				</tr>
+				<tr align="left" valign="top">
+				 <td colspan="3">
+<a class="cgViewText" href="javascript:gohere('dis','/article.asp?id=27079')">View text version</a>
+<br><img src="/images/trans.gif" width="248" height="22"></td>
+				</tr>
+			 </tbody></table></td>
+			<td width="253">
+	<table width="253" border="0" cellspacing="0" cellpadding="0">
+	<form action="/els/elsLoginPrc.asp" method="POST" name="elsLoginForm" id="els" onsubmit="return funValLogin();"></form>
+	<input type="hidden" value="/article.asp?id=27079" name="fldDestination">
+	<input type="hidden" value="" name="Action">
+		<tbody><tr>
+			<td align="left" valign="top"><img src="/images/trans.gif" width="253" height="8"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<table border="0" cellspacing="0" cellpadding="0">
+
+					<tbody><tr align="left" valign="top">
+					   <td width="66"><img src="/images/g_subhead_club.gif" width="66" height="15" alt="VIPs Login"></td>
+					   <td width="76"><input type="text" maxlength="75" name="fldUserName" value="email address" class="cgClubEmail" onfocus="document.els.fldUserName.value=''"></td>
+					   <td width="3"><img src="/images/trans.gif" width="3" height="15"></td>
+					   <td width="51"><input type="password" maxlength="25" name="fldPassword" value="password" class="cgClubPass" onfocus="document.els.fldPassword.value=''"></td>
+					   <td width="27"><input type="image" src="/images/g_button_club.gif" border="0" width="27" height="15" alt="Submit" id="image1" name="image1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top"><img src="/images/trans.gif" width="253" height="3"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+					 <tbody><tr align="left" valign="top">
+						<td width="84" class="cgClubPadding"><a href="Javascript:document.elsLoginForm.Action.value='register';document.elsLoginForm.submit();"><img src="/images/g_subhead_join-club.gif" width="84" height="14" border="0" alt="Join VIP Club"></a></td>
+						<td width="74" class="cgClubPadding"><a href="Javascript:document.elsLoginForm.Action.value='register';document.elsLoginForm.submit();"><img src="/images/g_club_sign-up.gif" width="70" height="14" border="0" alt="Signup"></a></td>
+						<td><input type="checkbox" name="fldSaveLogin" id="fldSaveLogin" value="1"></td>
+						<td width="70" class="cgClubPadding"><img src="/images/g_club_save-login.gif" width="70" height="14" alt="Save my login">
+						</td></tr>
+					</tbody></table>
+
+			</td>
+		</tr>
+	
+	</tbody></table>
+	<script language="Javascript">
+	<!--
+	function funValLogin()
+	{
+		var objForm = document.elsLoginForm;
+		var isOK = true;
+		if (isOK && ! (objForm.fldUserName.value.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1)) {
+			alert("Please enter a valid Email Address.\n\r A valid email address should look like yourname@yourdomain.com");
+			objForm.fldUserName.focus();
+			isOK = false;
+		}
+		if (isOK && (objForm.fldPassword.value.length < 1)) {
+			alert("Please enter a valid Password.");
+			objForm.fldPassword.focus();
+			isOK = false;
+		}
+		return isOK
+	}
+
+	function funLoginPass()
+	{
+		var objForm = document.elsLoginForm;
+
+		if (objForm.fldUserName.value.length < 1) {
+			alert("Please enter a valid Email Address to send your password to.");
+			objForm.fldUserName.focus();
+		}
+		else {
+			objForm.Action.value='mailpass';
+			objForm.submit();
+		}
+	}
+	//-->
+	</script>
+</td>
+		 </tr>
+		</tbody></table></td>
+	</tr>	
+ </tbody></table>
+ <table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	 <td height="27" align="right" valign="top" bgcolor="#7F8487">
+		<script language="JAVASCRIPT">
+<!--
+// Function That Initiates the LEFT MENU
+funCreateNavigation(1);
+-->
+</script><noscript></noscript>
+	 </td>
+	</tr>	
+ </tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	 <td width="254" height="62" align="left" valign="top">&nbsp;</td>
+	 <td width="253" align="left" valign="top"><table width="253" height="62" border="0" cellpadding="0" cellspacing="0">
+		 <tbody><tr align="left" valign="top">
+			<td><table width="253" height="62" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr align="left" valign="top">
+				 <td colspan="2"><img src="/images/g_subhead_now-playing.gif" width="167" height="24"></td>
+				</tr>
+				<tr align="left" valign="top">
+				 <td width="40" height="17"><img src="/images/g_subhead_song.gif" width="40" height="17"></td>
+				 <td width="213" class="cgNowPlaying"><script language="JavaScript">
+	<!--
+	var jsSongTitle = HeartLNTitle;
+	document.write(HeartLNTitle);
+	//-->
+	</script></td>
+				</tr>
+				<tr align="left" valign="top">
+				 <td width="40" height="21"><img src="/images/g_subhead_artist.gif" width="40" height="21"></td>
+				 <td width="127" class="cgNowPlaying"><script language="JavaScript">
+	<!--
+	var jsArtist = HeartLNArtist;
+	document.write(HeartLNArtist);
+	//-->
+	</script></td>
+				</tr>
+			 </tbody></table></td>
+		 </tr>
+		</tbody></table></td>
+	 <td width="253" align="left" valign="top"><table width="253" height="62" border="0" cellpadding="0" cellspacing="0"><tbody><tr align="left" valign="top">
+<td width="101" rowspan="2"><img src="http://images.radcity.net/5565/921236.jpg" width="101" height="62" alt="Gareth" john="" at="" the="" weekend=""><br><img src="/images/trans.gif" width="101" height="1" border="0"><br></td>
+<td><img src="/images/g_subhead_on-air.gif" width="88" height="19" alt="On Air Now"><a href="/showdj.asp?DJID=26287" class="cgDjLink"></a></td></tr><tr align="left" valign="top"><td class="cgDjText">Gareth John at the weekend<br>
+		<script language="JavaScript">
+		<!--	
+		document.write(HeartLNTimes);
+		//-->
+		</script>
+		<br><img src="/images/trans.gif" width="101" height="5"><br><a href="/showdj.asp?DJID=26287" class="cgDjLink">details</a></td></tr></tbody></table>
+
+	<script language="JavaScript">
+	<!--
+		var currentDJID = "26287";
+		var jsDJID = HeartLNDJID;
+		if (currentDJID != jsDJID) {
+			//time to reset djid application variable
+			//check reset value so we don't end up with endless redirects just in case
+			
+			var thisPage = document.location.href;
+			//send to djprc.asp to reset application variable
+			document.location.href = "/djprc.asp?djid=" + jsDJID + "&rurl=" + thisPage;
+			
+		}
+		
+	//-->
+	</script>
+	</td>
+	</tr>	
+ </tbody></table> 
+ <table width="760" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/images/trans.gif" width="700" height="1" border="0"></td></tr></tbody></table>
+ <table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>	 
+	 
+	 <td align="left" valign="top">
+	 
+<script language="JAVASCRIPT" type="text/JavaScript">
+function funListenLive() {
+	document.write ("<a href=http://exodus.interoutemediaservices.com/livestreams/chrysalis/cpg/heart1062/stream.asp?tk=1Vw8Jr39yAg=ZtVGojU60GEDvK2hcEusQbjDa4M=*2><img src=http://images.radcity.net/5565/910371.gif border=0 align=right vspace=3 hspace=5 alt=Listen_Live></a>")
+}
+</script>
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr align="left" valign="top">
+			<td width="606" class="artBackDarkBlue">
+			<table width="606" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				 <td align="left" valign="top" class="artBackDarkBlue2">
+				 <table width="606" border="0" cellspacing="0" cellpadding="0">
+					 <tbody><tr align="left" valign="top">
+				 		<td colspan="3"><img src="/images/trans.gif" width="606" height="18"></td>
+					 </tr>
+					 <tr align="left" valign="top">
+				 		<td width="15"><img src="/images/trans.gif" width="15" height="50"></td>
+						<td width="596" valign="top">
+<font class="Headline">Privacy Policy</font><br><br>
+<font class="Text"><p><font class="gBody"><font color="#ffffff"><font size="1"><font face="Verdana"><strong>General </strong><br><br>Heart 106.2 has structured its web site so that, in general, you can visit the website without identifying yourself or revealing any personal information. This privacy policy explains what we do with the personal information you choose to give us. This policy only applies to the Heart 106.2 site and not to the companies, individuals, organisations or other websites that may be linked to our site. By giving us your personal information, you consent to this information being used in accordance with this policy. Any changes to this policy will be posted on our website. <br><br><b>How we look after your information</b> <br><br>Heart 106.2 is committed to ensuring that your information is as safe as possible. We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with UK Data Protection laws. <br><br><b>When and why do we collect information? </b><br><br>Unless you permit us, only authorised Heart 106.2 and First Media Works employees are permitted to have access to your personal information if their job requires them to. <br><br>When you register with us to join the Heart 106.2 Loyal Listener Club we will collect your contact information (such as your name, postal, and e-mail address). If you register for the Loyal Listener Club we will not share your information with any third party. <br><br>We use your contact information to send you information about our company, products or services in which we think you might be interested, or to contact you when necessary. From time to time, we may also use your information to contact you contact you to invite you to take part in optional research about the website or the station <br><br>If you request certain products or services we will need to share your personal information with the company or organisation providing this product or service. We may also share your information with our subsidiaries, parent company, or our successor in business. <br><br>We will also collect your contact information when you enter the competitions we run on our site. If you provide us with your details in this way, we may share your information with third parties, as detailed below. If you are happy for us to share your information with third parties, please tick the relevant box when you send us your details at that time. <br><br>We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our IT systems properly or to protect ourselves or our users. <br><br>If you believe that any information we are holding on you is incorrect or incomplete, please e-mail us as soon as possible so that we may correct this [link to address]. <br><br><b>Unsubscribe</b> <br><br>If at any time you wish to unsubscribe to the Loyal Listener Club then please </font></font></font><a href="http://www.heart1062.co.uk/els/elsloginfrm.asp" target="_blank"><font face="Verdana" color="#ffff00" size="1">click here</font></a><font face="Verdana" color="#ffffff" size="1">. Login to the club with your user name and password. Once logged in to the club look for the option <b>"Update Your Contact Information"</b> and uncheck these two fields: <b>"I want to join the Loyal Listener Club"</b> and <b>"OK to send me email"</b> then click the <b>"Save My Changes"</b> option at the bottom of the page.</font></font></p><p><font class="gBody"><font face="Verdana" color="#ffffff" size="1"><strong>Heart Network</strong></font></font></p><p><font class="gBody"><font face="Verdana" color="#ffffff" size="1">For this information as relates to other&nbsp;radio stations across the Heart Network, use the following links: <a href="/goout.asp?u=http://www.106fm.co.uk/article.asp?id=92836">Heart 106</a>, <a href="/goout.asp?u=http://www.heart1007.co.uk/article.asp?id=114570">Heart 100.7</a>, <a href="/goout.asp?u=http://www.heartdigital.co.uk/index.htm">Heart Digital</a>
+</font></font></p><p><font class="gBody"><font face="Verdana" color="#ffffff" size="1">
+
+</font><br></font></p></font>
+<br><font class="Text"></font>
+
+						</td>
+						<td width="15"><img src="/images/trans.gif" width="15" height="50"></td>
+						</tr>
+						<tr align="left" valign="top">
+						<td colspan="3"><img src="/images/trans.gif" width="606" height="18"></td>
+						</tr>
+						</tbody></table>
+						 </td>
+				</tr>
+			 </tbody></table></td>
+
+	<td width="8"><img src="/images/trans.gif" width="2" height="100" border="0"></td>
+			<td width="126" valign="top"><table width="126" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				 <td align="center" valign="middle" class="cg600x120border">
+	<table border="0" cellpadding="0" cellspacing="0" class="tileadsMainTable">
+		<tbody><tr>
+		 <td class="tileadsBackground">
+		   <table border="0" cellpadding="0" cellspacing="0" class="tileadsTable">
+			 <tbody><tr>
+				<td colspan="3" class="tileadsTopCapBg"><table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+					 <td class="tileadsTableTitle"></td>
+					 <td class="tileadsTopCapRight"><img src="images/trans.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table></td>
+			 </tr>
+			 <tr>
+				<td class="tileadsTableLeft"><img src="images/trans.gif" width="1" height="1"></td>
+				<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td align="center"><a target="_blank" href="/ad/click.asp?adID=45242&amp;adRunID=55941"><img src="http://images.radcity.net/5565/1749054.gif" border="0" alt="makes a great start to your day"></a></td></tr>
+
+				</tbody></table></td>
+				<td class="tileadsTableRight"><img src="images/trans.gif" width="1" height="1"></td>
+			 </tr>
+			 <tr>
+				<td colspan="3" class="tileadsBottomCapBg"><table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+					 <td class="tileadsTableFooter"><img src="images/trans.gif" width="1" height="1"></td>
+					 <td class="tileadsBottomCapRight"><img src="images/trans.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table></td>
+			 </tr>
+		  </tbody></table></td>
+		</tr>
+	</tbody></table>
+</td>
+				</tr>
+			 </tbody></table></td>
+		 </tr>
+</tbody></table>
+
+ </td>
+	</tr>
+ </tbody></table>
+ <table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	 <td height="58" align="left" valign="middle" class="cgCopyrightBackground">
+	 <table width="760" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr align="left" valign="top">
+			<td width="25"><img src="/images/trans.gif" width="25" height="25"></td>
+			<form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
+			<td width="229">
+				
+<select name="u" class="footerSiteIndex" onchange="submit();"><option>site index</option><option value="/default.asp">home</option><option value="">on air</option><option value="/sectional.asp?id=3334">&nbsp;&nbsp;&nbsp;&nbsp;• dj pages</option><option value="/sectional.asp?id=3476">&nbsp;&nbsp;&nbsp;&nbsp;• breakfast</option><option value="/sectional.asp?id=7262">&nbsp;&nbsp;&nbsp;&nbsp;• drivetime</option><option value="/article.asp?id=63286">&nbsp;&nbsp;&nbsp;&nbsp;• time tunnel</option><option value="/article.asp?id=62963">&nbsp;&nbsp;&nbsp;&nbsp;• club classics</option><option value="http://www.heart1062.co.uk/goout.asp?u=http://www.thealist.co.uk/">&nbsp;&nbsp;&nbsp;&nbsp;• the a list</option><option value="/schedule.asp">&nbsp;&nbsp;&nbsp;&nbsp;• schedule</option><option value="/sectional.asp?id=1190">&nbsp;&nbsp;&nbsp;&nbsp;• news</option><option value="/sectional.asp?id=1190">&nbsp;&nbsp;&nbsp;&nbsp;• travel</option><option value="/sectional.asp?id=1191">&nbsp;&nbsp;&nbsp;&nbsp;• showbiz</option><option value="/article.asp?id=66804">&nbsp;&nbsp;&nbsp;&nbsp;• listen live</option><option value="/Article.asp?id=65994">&nbsp;&nbsp;&nbsp;&nbsp;• dab digital radio</option><option value="/Article.asp?id=321628">&nbsp;&nbsp;&nbsp;&nbsp;• heart on freeview</option><option value="">win</option><option value="/sectional.asp?id=3267">&nbsp;&nbsp;&nbsp;&nbsp;• win &amp; buy tickets</option><option value="/sectional.asp?id=3432">&nbsp;&nbsp;&nbsp;&nbsp;• contests page</option><option value="/Article.asp?id=302903">&nbsp;&nbsp;&nbsp;&nbsp;• terms &amp; conditions</option><option value="">what's happening</option><option value="http://www.heartdating.com/heart1062.htm">&nbsp;&nbsp;&nbsp;&nbsp;• heart dating</option><option value="/Article.asp?id=26183">&nbsp;&nbsp;&nbsp;&nbsp;• hotcourses</option><option value="/sectional.asp?id=7423">&nbsp;&nbsp;&nbsp;&nbsp;• ground patrol</option><option value="/sectional.asp?id=3261">&nbsp;&nbsp;&nbsp;&nbsp;• your community</option><option value="/Article.asp?id=300933">&nbsp;&nbsp;&nbsp;&nbsp;• time tunnel challenge</option><option value="http://www.heart1062.co.uk/Photogallery.asp">&nbsp;&nbsp;&nbsp;&nbsp;• photo gallery</option><option value="http://www.heartdating.com/heart1062.htm">dating</option><option value="">shop</option><option value="/Article.asp?id=68502">&nbsp;&nbsp;&nbsp;&nbsp;• buy tickets</option><option value="/Article.asp?id=322912">&nbsp;&nbsp;&nbsp;&nbsp;• books</option><option value="/Article.asp?id=322564">&nbsp;&nbsp;&nbsp;&nbsp;• cds</option><option value="/Article.asp?id=322580">&nbsp;&nbsp;&nbsp;&nbsp;• dvds</option><option value="/sectional.asp?id=3467">&nbsp;&nbsp;&nbsp;&nbsp;• heart mobile</option><option value="/Article.asp?id=65994">&nbsp;&nbsp;&nbsp;&nbsp;• dab digital radio</option><option value="http://www.heartdating.com/heart1062.htm">&nbsp;&nbsp;&nbsp;&nbsp;• heart dating</option><option value="/Article.asp?id=300933">&nbsp;&nbsp;&nbsp;&nbsp;• time tunnel challenge</option><option value="">vips</option><option value="/Article.asp?id=146254">&nbsp;&nbsp;&nbsp;&nbsp;• vip club info</option><option value="/els/elsloginfrm.asp">&nbsp;&nbsp;&nbsp;&nbsp;• vip login</option><option value="/contactus.asp">contact us</option><option value="/contactus.asp">&nbsp;&nbsp;&nbsp;&nbsp;• contact us</option><option value="/article.asp?id=25980">&nbsp;&nbsp;&nbsp;&nbsp;• advertising info</option><option value="/Article.asp?id=237338">&nbsp;&nbsp;&nbsp;&nbsp;• ofcom public files</option></select>
+			</td>
+			
+			<td class="Copyright"><font class="Copyright">Copyright © 2007 Heart 106.2 and <a class="CopyrightLink" href="Javascript:displayNotice();">MediaSpan</a><br><a class="CopyrightLink" target="_blank" href="http://www.mediaspanonline.com/poweredby/default.asp?d=www.heart1062.co.uk">Powered by MediaSpan Online</a></font><script language="Javascript">
+<!--
+function displayNotice() {
+	noteWin = window.open("http://mediaspanonline.com/PopUpCopyrightNotice.asp?d=www.heart1062.co.uk", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
+	noteWin.focus();
+}
+//-->
+</script></td>
+			<td align="right"><a class="cgPrivacyPolicy" href="/article.asp?id=27079">Privacy Policy</a></td>
+			<td width="10"><img src="/images/trans.gif" width="10" height="25"></td>
+		 </tr>
+		</tbody></table></td>
+	</tr>
+ </tbody></table><!--653or 62.5%-->
+ <div id="Layer1" style="position:absolute; left: 10px; align:left; top:166px; width:100%; height:62; z-index:0; visibility: inherit;">
+	<table cellpadding="0" cellspacing="0" border="0" width="760">
+	<tbody><tr><td width="507" align="left" valign="top">
+	<table width="254" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr align="left" valign="top">
+			<td width="31"><img src="/images/trans.gif" width="31" height="1"><br><img src="/images/g_heart-animated.gif" width="31" height="61"></td>
+			<td valign="top"><img src="/images/trans.gif" width="86" height="1"><br><a href="/article.asp?id=66804"><img src="/images/g_subhead_listen-live.gif" width="86" height="22" border="0" alt="Listen Live"></a></td>
+		 </tr>
+		</tbody></table></td>
+		<td width="101">
+	<table width="101" height="62" border="0" cellpadding="0" cellspacing="0">
+	 <tbody><tr>
+		<td align="left" valign="top"><img src="/images/g_dj_lower-right-corner.gif" width="101" height="62" border="0"></td>
+	 </tr>
+	</tbody></table>
+	</td>
+	<td width="152" align="right" valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="bottom" align="left" height="62" width="68"><a href="/showdj.asp?DJID=26287"><img src="/images/trans.gif" width="60" height="12" border="0"></a></td><td valign="top" align="right"><img src="/images/trans.gif" width="64" height="2" border="0"><br><a href="/showdj.asp?DJID=26287"><img src="/images/g_subhead_email.gif" width="64" height="19" border="0" alt="Email"></a></td></tr></tbody></table>
+	</td>
+	</tr></tbody></table>
+ </div>
+ 
+ </td>
+  
+    </tr>
+  </tbody></table>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-608936-1";
+urchinTracker();
+</script>
+
+
+<script>
+function gohere(x,m){
+location.href="/setDisability.asp?s="+x+"&m="+m
+}
+</script>
+</body></html>
