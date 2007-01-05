@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104031602id_/http%3A//digitalbattle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2007-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070105202255id_/http%3A//digitalbattle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » DigitalBattle
 
