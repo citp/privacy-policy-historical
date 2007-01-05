@@ -1,0 +1,45 @@
+> *The following text is extracted and transformed from the goldpharma.com privacy policy that was archived on 2007-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070105015901id_/http%3A//goldpharma.com/%3Fshow%3Ditem%26item%3D10895) for the most accurate reproduction.*
+
+# Medications Online @ goldpharma
+
+**Online Pharmacy Goldpharma.com Privacy Policy**
+
+At Goldpharma.com safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards as:
+
+ **Accountability.** We are responsible for maintaining and protecting any personal information under our control. In fulfilling this mandate, we have designated an individual who is accountable for Goldpharma.com's compliance with the Ten Privacy Principles.  
+ **Identifying Purposes.** The purposes for which personal information is collected shall be identified before or at the time the information is collected when ordering from Goldpharma.com website.  
+ **Consent.** The knowledge and consent of the customer are required for the collection, use or disclosure of personal information except where required or permitted by law.  
+Limiting Collection. The personal information collected by Goldpharma.com must be limited to those details necessary for the purposes identified by Goldpharma.com. Information must be collected by fair and lawful means.  
+ **Limiting Use, Disclosure and Retention.** Personal information may only be used or disclosed for the purpose for which it was collected unless the customer has otherwise consented, or when it is required or permitted by law. Personal information may only be retained for the period of time required to fulfill the purpose for which it was collected.  
+ **Accuracy.** Personal information must be maintained in as accurate, complete and up-to-date form as is necessary to fulfill the purposes for which it is to be used by Goldpharma.com.  
+ **Safeguarding Personal information.** Personal information must be protected by security safeguards that are appropriate to the sensitivity level of the information.  
+ **Openness.** Goldpharma.com is required to make information available to customers concerning the policies and practices that apply to the management of their information. All this information is available through Goldpharma.com's website or obtainable via the telephone at any time during our regular business hours.   
+**Customer Access.** Upon request, a customer shall be informed of the existence, use and disclosure of their information, and shall be given access to it. Customers may verify the accuracy and completeness of their information, and may request that it be amended, if appropriate.  
+ **Handling Customer Complaints and Suggestions.** Customers may direct any questions or enquires with respect to the privacy principles outlined above or about our practices by contacting the designated person accountable for privacy at Goldpharma.com .  
+The guidelines below set forth the principles we use in gathering, using, maintaining and protection personal information you provide us.
+
+ **The Types of Personal Information We Collect  
+** Goldpharma.com gathers and uses any information that is necessary for fulfilling your orders for our products and services. It typically includes the following personal information:  
+name, mailing address, e-mail address, telephone numbers, referral source, credit card information, including card type and number, expiry date and name of card holder, prescription information;   
+**The choice to provide us with personal information is always yours.** However, your decision to withhold particular details may limit the products and services Goldpharma.com is able to provide and make it more difficult for us to advise you or suggest appropriate alternatives. If Goldpharma.com is unable to accommodate your request based on the information that has been provided, we may ask for additional details in order to identify other ways to be of assistance. We may also maintain a file containing contact history that is used for customer inquiry purposes.  
+ **Goldpharma.com may collect anonymous/non-personal information.** Anonymous/non-personal information is information that cannot be associated with or traced back to a specific individual or business entity.  
+ **The Purposes for which we use Personal Information**  
+Goldpharma.com uses your personal information to communicate with you, enhance your visit to our site, process orders and effectively provide the products and services you have requested.   
+Goldpharma.com may use personal information to offer additional products and services sold by Goldpharma.com. We will not furnish personal information to an outside organization for its use in marketing or solicitation, without your prior consent.  
+Goldpharma.com only uses personal information for the purposes that we have disclosed to you. If for any reason your information is required to fulfill a different purpose, we will notify you and ask you for your consent before we proceed.  
+In some instances such as a legal proceeding or court order, Goldpharma.com may also be required to disclose certain information to authorities. Only the information specifically requested is disclosed and we take precautions to satisfy ourselves that the authorities who are making the request have legitimate grounds to do so.  
+There are some situations where we are legally permitted to disclose personal information such as employing reasonable and legal methods to collect a delinquent account, a medical emergency or suspicion of illegal activities.  
+Goldpharma.com sometimes contract outside organizations to perform specialized services. Our trusted service suppliers may at times be responsible for processing and handling some of the information we receive from you.  
+When you visit our web site, information is not collected that could identify you personally unless you choose to provide it voluntarily. You are welcome to browse the web site at any time anonymously and privately without revealing any personal information about yourself.  
+ **Security Measures**  
+Goldpharma.com uses current technologies and maintain security standards to ensure that your personal information is protected against unauthorized access, disclosure, inappropriate alteration or misuse. All safety and security measures are also appropriate to the sensitivity level of your information. Electronic client files are kept in a secured environment with restricted access. Paper-based files are stored in restricted access areas.  
+Goldpharma.com manages our server environment appropriately and our firewall infrastructure is strictly adhered to. Our security practices are reviewed periodically and we employ current technologies to assist us in protecting the confidentiality and privacy of your information.  
+In the course of daily operations, Goldpharma.com attempts to restrict access to personal information to authorized employees who have a legitimate business purpose and reason for accessing it. As a condition of their employment, all employees of Goldpharma.com are required to abide by the privacy standards we have established and to follow all applicable laws and regulations. Unauthorized access to and/or disclosure of client information by an employee of Goldpharma.com is strictly prohibited. All employees are expected to maintain the confidentiality of personal information at all times and failing to do so will result in appropriate disciplinary measures, which may include dismissal.  
+ **Accessing and Amending Your Information**  
+Decisions are often made based on the information we have. Therefore, it is important that your personal information on record at Goldpharma.com is accurate and complete. As a customer, you have the right to access, verify and amend the information held in your personal and financial files.  
+To help Goldpharma.com keep your personal information up-to-date, we encourage you to amend inaccuracies and make corrections as often as necessary. Despite our efforts, errors sometimes do occur. Should you identify any incorrect or out-of-date information in your file(s), we will make the proper changes and provide you with a copy of the corrected information. Where appropriate, we will communicate these changes to other parties who may have unintentionally received incorrect information from us.  
+Privacy Officer  
+Customers may direct any questions or enquires with respect to our practices or your personal information by contacting our Goldpharma.com's privacy officer, as follows:   
+**Email:**[](mailto:privacy@Goldpharma.com)[ **privacy@Goldpharma.com**](mailto:privacy@Goldpharma.com)  
+ **Updating this Policy  
+** Any changes to Goldpharma.com's privacy policy and information handling practices shall be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. 
