@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laythekat.com privacy policy that was archived on 2006-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060705182121id_/http%3A//www.laythekat.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laythekat.com privacy policy that was archived on 2007-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070105160218id_/http%3A//www.laythekat.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # 
 
