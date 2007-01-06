@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oracle.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024003914id_/http%3A//www.oracle.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oracle.com privacy policy that was archived on 2007-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070106033326id_/http%3A//www.oracle.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
