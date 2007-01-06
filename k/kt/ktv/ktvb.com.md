@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031131829id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2007-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070106193622id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | KTVB.COM | Boise, Idaho News, Weather, Sports & Traffic
 
@@ -100,7 +100,8 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) <http://www.ktvb.com/sharedcontent/registration/membercenter.jsp> in your browser.
+  1. Enter (or click) [http://www.ktvb.com/sharedcontent/registration/  
+membercenter.jsp](http://www.ktvb.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
