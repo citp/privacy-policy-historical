@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216051744id_/http%3A//www.iht.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107100433id_/http%3A//www.iht.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Cookies - International Herald Tribune
 
