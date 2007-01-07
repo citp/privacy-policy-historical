@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionplan.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015152114id_/http%3A//actionplan.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionplan.com privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107071412id_/http%3A//www.actionplan.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Free Marketing Plan Workbook from Action Plan Marketing
 
@@ -42,4 +42,4 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **While we use encryption to protect sensitive information transmitted online, we also protect your information offline.** Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-**If you feel that we are not abiding by this privacy policy,** you should contact us immediately via telephone at 831-338-7790 or [via email.](https://web.archive.org/web/20061015152114id_/http%3A//actionplan.com/contact.html)
+**If you feel that we are not abiding by this privacy policy,** you should contact us immediately via telephone at 831-338-7790 or [via email.](https://web.archive.org/web/20070107071412id_/http%3A//www.actionplan.com/contact.html)
