@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114221442id_/http%3A//www.newyork.com/privacy.html%3Fcat%3Dmain) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107084408id_/http%3A//www.newyork.com/privacy.html%3Fcat%3Dmain) for the most accurate reproduction.*
 
-# NewYork.com
+# NEWYORK.COM Privacy Policy - We respect and protect our users!
 
 **Thank you for visiting NewYork.com.**
 
