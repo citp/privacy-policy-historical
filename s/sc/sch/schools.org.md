@@ -1,29 +1,85 @@
-> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004164239id_/http%3A//www.schools.org/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107054600id_/http%3A//schools.org/legal/privacy.asp) for the most accurate reproduction.*
 
 # Schools Financial Credit Union | 1-916-569-5400
 
 ### Privacy Notice
 
-Schools Financial Credit Union is a member-owned financial cooperative dedicated to serving the financial needs of our members. You joined the Credit Union with the expectation that we act in the best interest of our membership and make available the financial products and services that enable you to meet your financial goals. Trust is the foundation of our relationship with you, and the preservation of that trust is of the highest importance to us. It is with that purpose in mind that we have formulated the following privacy policy: 
+Schools Financial Credit Union is a member-owned financial cooperative dedicated to serving the financial needs of our members. You joined the Credit Union with the expectation that we act in the best interest of our membership and make available the financial products and services that enable you to meet your financial goals. Trust is the foundation of our relationship with you, and the preservation of that trust is of the highest importance to us. It is with that purpose in mind that we have formulated our privacy policy. 
 
-Both Schools Financial Credit Union (“Credit Union”) and Schools Financial Services Corporation (“SFSC”) want you to understand what information we collect, how we use it, and with whom we share it. We will inform you annually about our privacy policy. This joint policy applies to both current and former Schools members and addresses the disclosure of personal information about you that may not be available in public records. We use the terms “affiliate” and "nonaffiliate” to describe companies with which we may share your information. An “affiliate company” is one which either the Credit Union or SFSC owns or over which we have control. As SFSC is a wholly owned subsidiary of the Credit Union, both the Credit Union and SFSC are affiliates of each other. A “nonaffiliate” is a third party with which we have a business or marketing relationship and performs services on our or your behalf. 
+Schools Financial Credit Union ("Credit Union") understands the importance of protecting the privacy of our members. We are committed to maintaining the confidentiality of each member's financial records consistent with state and federal laws. This policy explains how the Credit Union collects and shares your nonpublic personal information (information that is not available publicly) and further describes your rights to limit what information we may share about you. 
 
-**What Information We Collect**
+This privacy policy replaces any previous privacy notices from us. We reserve the right to revise our privacy notice as our business needs and practices change or as the law requires. If we revise our policies, we will provide our active members with copies of our new policies at that time. 
 
-We collect personal information directly from you in the course of providing you our products and services. We collect your personal information from you, your applications, our transactions, consumer reporting agencies, and the verification of your information. The type of information we collect is about your identity (name, address, date of birth, driver’s license number, Social Security Number); your transaction history with us, our affiliates, or others (account balances, payment history, credit card usage); and your assets, income, and credit worthiness. 
+**What Information We Collect**  
+During the course of business, we collect nonpublic personal information ("information") about you from the following sources: 
 
-We collect your personal information in order to provide you with products and services you request; to know who you are and prevent unauthorized access to your information; to offer products and services that are of value to you; and to comply with the regulations that govern us. 
+  * Information obtained from you in person, in writing or through the Internet.
+  * Information obtained through your transactions and experiences with us and our affiliates.
+  * Information we receive from nonaffiliated third parties about their transactions and experiences with you.
+  * Information provided by credit reporting agencies and similar companies.
 
-**What Information We Disclose**
 
-We will not sell, share, give, or otherwise provide your personal information to any nonaffiliated third party for the marketing of their products and services. We may share your personal information as described above with our affiliate organization. In addition, we may offer to our members the products and services of a nonaffiliated third party, but the Credit Union and/or SFSC will market those products and services directly to you, and we will not provide the nonaffiliated third party with information about you. We choose third parties carefully and enter into contractual agreements with them to ensure that the information you gave directly to them is used only to provide you the service you requested. In accordance with our contractual agreements, third parties may not market their products or service directly to you. 
 
-We are permitted by law to share with nonaffiliated third parties the information necessary to administer the products and services we provide, to follow your instruction, to meet our business needs, or to comply with state and federal law. You cannot opt out of the disclosure of this information. Examples of these third parties are credit bureaus, check printers, mail houses, marketing service providers, courts, and state and federal government agencies. Please be assured that we will only share information with nonaffiliated third parties to the extent required or permitted by law. Pursuant to the Fair Credit Reporting Act (“FCRA”), it is our practice to share Transaction/Experience information (as defined by the FCRA) with our affiliates and nonaffiliated third parties to the extent permitted by law and by our policies. 
+We collect this information about you to complete your transactions and to maintain your accounts and related records. In the course of conducting our business, we may share any of the information we collect about you with third parties if: 1) you request or authorize it; 2) the information is provided to help complete a transaction initiated by you; 3) the information is provided to a third party providing services to us, such as data processing, printing services, mailing services and marketing services; 4) the information is provided to a consumer reporting agency in accordance with the Fair Credit Reporting Act; or 5) the disclosure is otherwise lawfully required or permitted. Furthermore, we may also disclose information about you to other nonaffiliated and affiliated third parties not described in this notice as permitted by law. 
 
-**How We Protect Your Information**
+**Information Shared With Non-Financial Service Providers**  
+We sometimes share any of the information we collect about you with outside companies that perform services for us. For example, to maintain and service your accounts or to fulfill your transaction requests, we share information with non-financial companies that provide services to us, such as data-processing companies, printing companies, mailing companies and marketing companies. Prior to sharing any information with such entities, we require them to agree to safeguard our members' information and to comply with all applicable privacy laws. 
 
-We maintain physical, electronic, and procedural controls that comply with federal regulations to guard your information. We restrict access to your personal information to those employees who need it in order to provide products and services to you. Where appropriate, we use security-encoding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of data, and protect your confidentiality. We provide training to educate employees on the purpose and implementation of procedures related to privacy and the confidentiality of member data. 
+**Information Sharing in the Event of Termination of Membership**  
+If you terminate your membership or become an inactive member, we will adhere to the privacy policies and practices as described in this notice. 
 
-**Changes to Our Policy**
+**How We Protect Your Information** We maintain physical, electronic and procedural controls that comply with federal regulations to guard your information. We restrict access to your personal information to those employees who need it in order to provide products and services to you. Where appropriate, we use security-encoding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of data and protect your confidentiality. We provide training to educate employees on the purpose and implementation of procedures related to privacy and the confidentiality of member data. 
 
-We reserve the right to revise our policy as our business needs change or as the law requires. If we revise our policies, we will provide our members with copies of our new policies at that time. Restricting Credit Offers, Direct Mail, and Tele-marketing Solicitations Businesses can obtain information about you from public records, such as those available at County Recorders. They may use this information to market their services and sometimes make reference to your Credit Union. Schools cannot control or restrict the use of publicly available information about you, and we do no authorize these businesses to use our name. However, there are steps you can take to minimize these and other types of direct mail solicitations. 
+**Changes to Our Policy**  
+We reserve the right to revise our policy as our business needs change or as the law requires. If we revise our policies, we will provide our members with copies of our new policies at that time. 
+
+**Restricting Credit Offers, Direct Mail and Telemarketing Solicitations**  
+Businesses can obtain information about you from public records, such as those available at County Recorders. They may use this information to market their services and sometimes make reference to your Credit Union. Schools cannot control or restrict the use of publicly available information about you, and we do not authorize these businesses to use our name. However, there are steps you can take to minimize these and other types of direct mail solicitations. 
+
+**Credit Solicitations**  
+You may contact credit reporting agencies directly and ask that your name be removed from unsolicited credit offers. By doing this, you will no longer receive credit offers from credit card companies and financial institutions, including Schools. You may call 888-5OPT-OUT or write to: 
+
+**Experian Credit Marketing**  
+Opt Out  
+PO Box 919  
+Allen, TX 75013  
+
+
+**Equifax**  
+PO Box 740241  
+Atlanta, GA 30374  
+
+
+**TransUnion**  
+PO Box 505  
+Woodlyn, PA 19094  
+
+
+**Direct Mail and Telemarketing Solicitations**  
+You may contact the Direct Marketing Association (DMA) and ask that your name be removed from lists used for direct mail and telephone solicitations. This will only eliminate advertising from companies that subscribe to these services. To remove your name from the lists of companies not subscribing to DMA services, you must contact them directly. 
+
+**Mail Preference Service  
+Direct Marketing Association**  
+PO Box 1559  
+Carmel, NY 10512  
+
+
+**Telephone Preference Service  
+Direct Marketing Association**  
+PO Box 1559  
+Carmel, NY 10512  
+
+
+**Consumer Information About Telemarketing**  
+Federal and State agencies publish information designed to educate you about telemarketing. You may request copies of this information by contacting them directly. Agencies include: 
+
+**Federal Trade Commission:**  
+"Straight Talk About Telemarketing," toll-free 877-382-4357; Web site: [ftc.gov/bcp/conline/pubs/tmarkg/straight.htm](http://ftc.gov/bcp/conline/pubs/tmarkg/straight.htm)
+
+**Federal Communications Commission:**  
+"Unwanted Telephone Marketing Calls," toll-free 888-225-5322; Web site: [fcc.gov/cgb/consumerfacts/tcpa.html](http://www.fcc.gov/cgb/consumerfacts/tcpa.html)
+
+**California Department of Consumer Affairs:**  
+"Basic Facts About Telemarketing," toll-free 800-952-5210; Web site: [dca.ca.gov/r_r/telemarket.htm](http://dca.ca.gov/r_r/telemarket.htm)
+
+For questions about our Privacy Policy, call **916-569-5400** (Sacramento area) or **800-962-0990**.
