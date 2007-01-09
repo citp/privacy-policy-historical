@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowness.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201130010id_/http%3A//www.shadowness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowness.com privacy policy that was archived on 2007-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070109032208id_/http%3A//www.shadowness.com/privacy) for the most accurate reproduction.*
 
 # Shadowness Art Community
 
