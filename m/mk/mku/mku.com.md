@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mku.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118041842id_/http%3A//www.mku.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mku.com privacy policy that was archived on 2007-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070110210548id_/http%3A//mku.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # MKU :: MKU Privacy Policy, MKU Privacy Statement, Privacy Statement, Privacy Policy
 
-[](https://web.archive.org/web/20061118041842id_/http%3A//www.mku.com/defence_solutions.asp)
+[](https://web.archive.org/web/20070110210548id_/http%3A//mku.com/defence_solutions.asp)
 
 |  |  |  |    
 ---|---|---  
@@ -10,7 +10,7 @@
 |  |    
 | 
 
-The website you have entered is operated by MKU ("MKU"). The privacy statement below covers the site [www.mku.com](https://web.archive.org/web/20061118041842id_/http%3A//www.mku.com/privacy_policy.asp). MKU is committed to protecting your personal privacy. This Privacy Policy outlines the types of information that are collected by MKU on its website, and how we use and protect it. This Policy also explains the choices that you can make about the way your information is collected and used. This Policy applies only to [www.mku.com](https://web.archive.org/web/20061118041842id_/http%3A//www.mku.com/privacy_policy.asp), and it does not apply to banners, sweepstakes and other advertisements or promotions that we may sponsor or participate in on web sites owned by third parties.
+The website you have entered is operated by MKU ("MKU"). The privacy statement below covers the site [www.mku.com](https://web.archive.org/web/20070110210548id_/http%3A//mku.com/privacy_policy.asp). MKU is committed to protecting your personal privacy. This Privacy Policy outlines the types of information that are collected by MKU on its website, and how we use and protect it. This Policy also explains the choices that you can make about the way your information is collected and used. This Policy applies only to [www.mku.com](https://web.archive.org/web/20070110210548id_/http%3A//mku.com/privacy_policy.asp), and it does not apply to banners, sweepstakes and other advertisements or promotions that we may sponsor or participate in on web sites owned by third parties.
 
 |   
 |  |    
@@ -19,7 +19,7 @@ The website you have entered is operated by MKU ("MKU"). The privacy statement b
 | 
 
 **Information Collection**  
-MKU is the sole owner of the information collected on [www.mku.com](https://web.archive.org/web/20061118041842id_/http%3A//www.mku.com/privacy_policy.asp). MKU collects Personal Information from users at several points on our web site.   
+MKU is the sole owner of the information collected on [www.mku.com](https://web.archive.org/web/20070110210548id_/http%3A//mku.com/privacy_policy.asp). MKU collects Personal Information from users at several points on our web site.   
 As used in this Privacy Policy, "Personal Information" means any information that is linked to User's identity such as Name, Address, Telephone number and Email address etc.
 
 |    
