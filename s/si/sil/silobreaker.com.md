@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silobreaker.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029134739id_/http%3A//www.silobreaker.com/Corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silobreaker.com privacy policy that was archived on 2007-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070111111211id_/http%3A//www.silobreaker.com/Corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Silobreaker
 
@@ -22,7 +22,7 @@ You confirm that you will only enter personal information about yourself and tha
 
 We may use aggregate information and statistics for the purposes of monitoring Website usage in order to help us develop the Website and our service and may provide such aggregate information to third parties. 
 
-We will provide some of your details to WorldPay. WorldPay is part of the Royal Bank of Scotland Group and is the company which processes the credit card payments of user subscriptions on our behalf. For more information about WorldPay and the security around credit card payments, please go to the [Security](https://web.archive.org/web/20061029134739id_/http%3A//www.silobreaker.com/Corporate/security.aspx) section of the website. 
+We will provide some of your details to WorldPay. WorldPay is part of the Royal Bank of Scotland Group and is the company which processes the credit card payments of user subscriptions on our behalf. For more information about WorldPay and the security around credit card payments, please go to the [Security](https://web.archive.org/web/20070111111211id_/http%3A//www.silobreaker.com/Corporate/security.aspx) section of the website. 
 
 We or our agents or sub-contractors may occasionally contact you by e-mail to ask you for feedback and comments on our services. 
 
