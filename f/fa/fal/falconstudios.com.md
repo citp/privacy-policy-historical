@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the falconstudios.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104030134id_/http%3A//www.falconstudios.com/shop/privacyPolicy.jsp.cont%3FwebsiteName%3Dfalconstudios) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falconstudios.com privacy policy that was archived on 2007-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070111030813id_/http%3A//www.falconstudios.com/shop/privacyPolicy.jsp.cont%3FwebsiteName%3Dfalconstudios) for the most accurate reproduction.*
 
 # Falcon Family of Companies site
 
-|  |  |  |    
+|  |  |    
 
 
 |  | 
