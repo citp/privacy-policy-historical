@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginecup.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230195410id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginecup.com privacy policy that was archived on 2007-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070114025646id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Imagine Cup - Privacy Statement
 
@@ -13,7 +13,7 @@ We will ask you when we need information that personally identifies you (persona
 
 The Site may collect certain anonymous information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the Site, analyze trends, and administer the Site.
 
-You can choose to create an optional public profile, containing information about yourself - such as your hobbies and interests. Any information you choose to enter in your public profile will be visible to other users of the Site; and when you interact with other users a link to your public profile may be displayed. We urge you to be careful only to enter information on your public profile that you are comfortable sharing with the public at large. You may change, edit or delete information about yourself from your public profile at any time while online by going to your [profile](https://web.archive.org/web/20061230195410id_/http%3A//imaginecup.com/UpdateProfile.aspx) after signing in.
+You can choose to create an optional public profile, containing information about yourself - such as your hobbies and interests. Any information you choose to enter in your public profile will be visible to other users of the Site; and when you interact with other users a link to your public profile may be displayed. We urge you to be careful only to enter information on your public profile that you are comfortable sharing with the public at large. You may change, edit or delete information about yourself from your public profile at any time while online by going to your [profile](https://web.archive.org/web/20070114025646id_/http%3A//imaginecup.com/UpdateProfile.aspx) after signing in.
 
 Please keep in mind that if you disclose personal information through public online forums on the Site, this information may be collected and used by others. We caution you against giving out personal information to strangers online, which they may use for illegal or harmful purposes.
 
@@ -39,7 +39,7 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 Access to Your Personal Information
 
-Customer information is collected by Fast Track Team, Inc (“Fast Track”), a Microsoft vendor. It is stored on Fast Track’s servers [which are at a data center, not physically at fast track’s offices], plus sent back to Microsoft. You can review, edit or delete the personal information by going to your [**profile**](https://web.archive.org/web/20061230195410id_/http%3A//imaginecup.com/UpdateProfile.aspx) after signing in on the Site. You can also access your personal information and edit any contact preferences provided at the Site by sending email to [**support@fasttrackteam.com**](mailto:support@fasttrackteam.com) or writing to:
+Customer information is collected by Fast Track Team, Inc (“Fast Track”), a Microsoft vendor. It is stored on Fast Track’s servers [which are at a data center, not physically at fast track’s offices], plus sent back to Microsoft. You can review, edit or delete the personal information by going to your [**profile**](https://web.archive.org/web/20070114025646id_/http%3A//imaginecup.com/UpdateProfile.aspx) after signing in on the Site. You can also access your personal information and edit any contact preferences provided at the Site by sending email to [**support@fasttrackteam.com**](mailto:support@fasttrackteam.com) or writing to:
 
   
 
