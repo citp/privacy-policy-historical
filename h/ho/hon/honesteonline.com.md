@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215124952id_/http%3A//honesteonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2007-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070115134928id_/http%3A//www.honesteonline.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
