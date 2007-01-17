@@ -1,9 +1,23 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614090242id_/http%3A//tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2007-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070117200017id_/http%3A//tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
-# TCGplayer Magazine - Your #1 Resource for Trading Card Game Info
+# TCGplayer.com: Tradable and Collectible Game Player
 
-**You are not logged into our Forums. You can [[Log In Here](https://web.archive.org/db/forumlogin.asp)].**  
-  
+SUBSCRIBERS
+
+[](https://web.archive.org/premium/premiumlogin.asp) [](http://www.tcgplayer.com/subscribe/)
+
+**CHANNELS**
+
+[](http://forum.tcgplayer.com/) [](https://web.archive.org/db/article_search_result.asp?report_type=News) [](http://magic.tcgplayer.com/) [](http://vs.tcgplayer.com/) [](http://yugioh.tcgplayer.com/) [](http://wow.tcgplayer.com/) [](http://spoils.tcgplayer.com/) [](http://dreamblade.tcgplayer.com/) [](http://pokemon.tcgplayer.com/) [](http://heroclix.tcgplayer.com/) [](http://naruto.tcgplayer.com/) [](http://dm.tcgplayer.com/)
+
+**CONTEST**
+
+[](http://www.tcgplayer.com/contests/articles.asp) [](http://www.tcgplayer.com/contests/submission_tips.asp)
+
+**SITE INFO**
+
+[](mailto:webmaster@tcgplayer.com) [](http://www.tcgplayer.com/advertise/)   
+|  |    
 
 
 ##  Privacy Statement for TCGplayer.com
@@ -85,4 +99,33 @@ This site gives users the following options for changing and modifying informati
 
 ##  Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  [Submit@TCGplayer.com](mailto:submit@TCGplayer.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+[Submit@TCGplayer.com](mailto:submit@TCGplayer.com) All original content herein is Copyright 2000-2006 **Ascension Gaming Network, Inc.**  
+No portion of this web site may be used in any way without expressed written consent.  
+All rights reserved.  
+[Privacy Policy](https://web.archive.org/privacy.asp)  
+
+
+|  | 
+
+  
+
+
+| LATEST Magic ARTICLE  
+---  
+  
+|  **[Drafting RG Archetypes](http://magic.tcgplayer.com/db/article.asp?ID=7283)**  
+---  
+  
+My favorite color combination in Time Spiral draft is RG. The thing is, you can draft RG three different ways. The purpose of this article is to analyze the three different types of RG that you can draft and try to set up the top picks for those decks.   
+  
+LATEST DREAMBLADE ARTICLE  
+---  
+LATEST SPOILS ARTICLE  
+---  
+  
+|  **[Pimpin THE Spoils](http://spoils.tcgplayer.com/db/article.asp?ID=1389)**  
+---  
+  
+Being the owner of a new FLGS in a relatively untapped environment brings a good number of new players who look around at all the different games and can't chose for themselves based upon what little they can see with their eyes. 
