@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101073256id_/http%3A//www.beyondhollywood.com/%3Fpage_id%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2007-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070117124200id_/http%3A//www.beyondhollywood.com/%3Fpage_id%3D15) for the most accurate reproduction.*
 
 # Privacy Policy | BeyondHollywood.com | Asian, Foreign, Horror, and Genre Movie Reviews and News
 
