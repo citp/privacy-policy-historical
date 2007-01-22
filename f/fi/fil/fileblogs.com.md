@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileblogs.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202122820id_/http%3A//fileblogs.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileblogs.com privacy policy that was archived on 2007-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070122093437id_/http%3A//fileblogs.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | FileBlogs.com Article Directory
 
