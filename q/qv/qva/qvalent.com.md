@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qvalent.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514180000id_/http%3A//www.qvalent.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvalent.com privacy policy that was archived on 2007-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070125184719id_/http%3A//www.qvalent.com/privacy.jsp) for the most accurate reproduction.*
 
-# Qvalent: Procurement, Presement and Payment
+# Qvalent: Procurement, Presentment and Payment
 
   
 This statement discloses the privacy practices for the entire Web site. 
