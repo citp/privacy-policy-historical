@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialpad.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118142414id_/http%3A//dialpad.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialpad.com privacy policy that was archived on 2007-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070125192228id_/http%3A//www.dialpad.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Dialpad Communications, Inc - Privacy Policy
 
