@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directcanada.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031205129id_/http%3A//www.directcanada.com/customercare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directcanada.com privacy policy that was archived on 2007-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070125103247id_/http%3A//www.directcanada.com/customercare/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - DirectCanada
 
