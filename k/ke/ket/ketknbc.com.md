@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515171026id_/http%3A//bimedia.ftp.clickability.com/ketkwebftp/legaldocuments/ketk_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2007-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070127102045id_/http%3A//bimedia.ftp.clickability.com/ketkwebftp/legaldocuments/ketk_privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
