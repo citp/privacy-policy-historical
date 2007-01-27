@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220035305id_/http%3A//mig33.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2007-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070127063558id_/http%3A//www.mig33.com/privacy.jsp) for the most accurate reproduction.*
 
 # mig33 - mobile chat
 
