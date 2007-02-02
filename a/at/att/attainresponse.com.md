@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827145600id_/http%3A//www.attainresponse.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202213621id_/http%3A//www.attainresponse.com/privacy_policy.html) for the most accurate reproduction.*
 
-# AttainResponse Privacy Policy
+# Privacy Policy: AttainResponse
 
-#### Privacy Policy
-
-* * *
+## Privacy Policy 
 
 At AttainResponse, LLC. ("AttainResponse" or "Service Provider"), we respect our Users' and Clients' right to privacy with regards to the use of their email and our Web sites. We have adopted a privacy policy ("Privacy Policy") that we hope provides the greatest possible privacy to our Users and Clients, assuming they are not using our services to conduct unlawful activities. Our Privacy Policy makes the following commitments: 
 
@@ -73,3 +71,5 @@ AttainResponse, LLC.
 Attn: Privacy Department  
 2778 Ironwood Circle  
 Erie, CO 80516
+
+[](https://www.attainresponse.com/checkOut1.php)
