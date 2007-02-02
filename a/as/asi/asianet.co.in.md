@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianet.co.in privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220538id_/http%3A//asianet.co.in/codes/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianet.co.in privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202133402id_/http%3A//www.asianet.co.in/codes/privacy.html) for the most accurate reproduction.*
 
 # Broadband
 
