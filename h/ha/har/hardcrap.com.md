@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcrap.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214052id_/http%3A//www.crapville.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcrap.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202231006id_/http%3A//www.crapville.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Crapville - Privacy Policy
 
@@ -21,4 +21,4 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 **[Casale Media - http://www.casalemedia.com/privacy.html](http://www.casalemedia.com/privacy.html)  
 [AdEngage \- http://www.adengage.com/privacy.cfm ](http://www.adengage.com/privacy.cfm)**  
 **Contact Crapville.com**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can [contact the webmaster](https://web.archive.org/web/20060615214052id_/http%3A//www.crapville.com/contact_info.asp). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can [contact the webmaster](https://web.archive.org/web/20070202231006id_/http%3A//www.crapville.com/contact_info.asp). 
