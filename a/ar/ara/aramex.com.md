@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aramex.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213031459id_/http%3A//www.aramex.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramex.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202231159id_/http%3A//aramex.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
