@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2006-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060706124208id_/http%3A//industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202191354id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
-# industrySearch.com.au® Australia - Policies & Conditions of use
+# Privacy Policy
+
+[](https://web.archive.org/)
+
+Australia
 
 **  
 NEWS & INFORMATION POLICY  
@@ -27,7 +31,9 @@ This section outlines the policies and definitions for information published by 
 
 Editorial integrity is a high priority to INDUSTRACOM and as an Australian media & information company, INDUSTRACOM acknowledges a responsibility to publish relevant and accurate news and information . We do not assume responsibility for damages or inaccuracies as a result of information provided or published online advertisers or other independent sources as we act primarily as a conduit for information in these instances.
 
-Information published by INDUSTRACOM originates typically from the following sources: _ _News Wire Services__ -  INDUSTRACOM acquires information from news wire services including Australian Associated Press Pty Limited (AAP) for which it is licensed, authorised and under contract to publish relevant news articles. _ _Advertisers__ \- Advertisers publish and submit content to be featured by INDUSTRACOM. When viewing advertiser information our system provides an indication that content is associated with an advertiser by featuring their name and/or logo together with a link to their profile (Storefront), so as not to confuse advertiser information  with independent news sources. Only selected news & feature articles provided by advertisers are published group content areas of the website (News Centre, Breaking News, DailyNewsWire Email), whereas the majority of products and events published by advertisers will be featured on group content areas. All of a Storefront Advertiser's content will be featured within their own independent Storefront page as well as being searchable on the website. Storefront Advertisers have password protected access to their own Storefront Management Area where they can upload and publish information directly into our system. All content submitted by Storefront Advertisers is viewed and validated by INDUSTRACOM's editorial department before going live on the website. _ _External Sources__ -  INDUSTRACOM receives news, feature articles and events submitted from individuals, government, industry and commercial organisations and determines at its own discretion which information to publish. Selections are make typically based on relevance to our audience, professionalism in writing presentation and style and perceived accuracy of information. INDUSTRACOM maintains full discretion in the selection of information published on its websites.
+Information published on our websites originates from such sources as AAP, Reuters, government and industry bodies. Our editorial policy mandates we are not geared towards the research and validation of original content. 
+
+Our Storefront advertisers can also distribute media releases and are provided access to add them directly into our system using an online submission area. Advertiser media releases go through our standard [editorial process](http://www.industrysearch.com.au/sf_tips.htm#content_exposure) to determine what level of published exposure they will receive. 
 
 BACK TO TOP ^
 
@@ -93,7 +99,8 @@ __Types of Advertising & Marketing Services_ \- _ INDUSTRACOM provides the follo
 _\- Storefronts_ \- An online marketing facility used to promote an advertisers brand, products, news releases, feature articles and events to our audience. This is the primary advertising service offered by INDUSTRACOM and the focus of the terms and conditions below.  
 _\- Direct Email Campaigns_ \- Sponsored e-mails sent to subscribers on behalf of advertisers. _  
 \- Banner Advertising_ \- Placements of banner advertising (also know as display advertising).  
-_\- Event Promotion_ \- The promotion of events.
+_\- Event Promotion_ \- The promotion of events. **Email Campaigns  
+**Due to our quota of one Email Campaign per week (5 days), cancellations within 60 days of campaign dates are not refundable. Clients may however reschedule campaigns to alternative dates at no additional fee.
 
 **Storefront Advertising Service  
 **This is the primary advertising and marketing service offered by INDUSTRACOM and the focus of these standard terms.
@@ -110,7 +117,9 @@ Each Storefront owner receives 1 hour of free setup work performed by our consul
 
 To generate the most effective results from your Storefront, we urge businesses to keep their Storefront information up to date with new products, services and other relevant information as soon as it becomes available.
 
-__Trials and Refunds__ \- Trials and refunds are not provided  _(except for special promotional offers)_ however businesses can participate in our _Satisfaction Guarantee Program_ whereby they can request a full refund if they are not satisfied with the service following 90 days ( _see next paragraph_ ). _ _Satisfaction Guarantee Program__  
+__Trials and Refunds__ \- Trials and refunds are not provided  _(except for special promotional offers)_ however businesses can participate in our _Satisfaction Guarantee Program_ whereby they can request a full refund if they are not satisfied with the service following 90 days ( _see next paragraph_ ).
+
+__Supplier Directory_ \- _Our Supplier Directory is under constant development and improvement. We work with industry experts as well as our advertisers to improve existing categories and add new categories. Storefronts are assigned to a designated number of sub-categories depending on the Storefront level purchased. Advertisers can suggest new categories for inclusion in the directory. Our editors assess suggestions and make the final decision. If a new category is added, all relevant advertisers will be included. _ _Satisfaction Guarantee Program__  
 Purchase a Storefront and if after 90 days you are not satisfied with the results, you will receive a full refund. To qualify:  
 1\. Advertisers must purchase for the Storefront using our standard payment conditions (Credit Card or Invoice 30 Days).  
 2\. Advertised products and services must be relevant to the chosen audience.  
@@ -167,15 +176,21 @@ BACK TO TOP ^
 * * *
 
 **  
-CONTACTING INDUSTRACOM  
+CONTACTING [INDUSTRACOM](http://www.industracom.com/)  
  **  
 If you have any questions about privacy-related issues please contact the INDUSTRACOM Privacy Officer:
 
-  FREECALL: 1800 INDUSTRY (463 878)     
+  FREECALL: 1800 463 878  
 PHONE: +61 (02) 9925 4000  
 FAX: +61 (02) 9925 4099  
 Address: Level 8, 97 Pacific Highway, North Sydney  
 Postal: PO Box 1597, North Sydney, NSW 2059 Australia  
-Last updated: June 7, 2006
+Last updated: December 4, 2006
 
 BACK TO TOP ^
+
+  
+© 1998-2006 [IndustrySearch](https://web.archive.org/) . All rights reserved. Logo and brand is a registered trademark.  
+No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used.
+
+Manufacturing and industrial supplies & equipment. Industry news and information.
