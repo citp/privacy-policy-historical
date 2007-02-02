@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areaguides.net privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003154558id_/http%3A//www.areaguides.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areaguides.net privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202222942id_/http%3A//www.areaguides.net/privacy.html) for the most accurate reproduction.*
 
 # AreaGuides.net
 
