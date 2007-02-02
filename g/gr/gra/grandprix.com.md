@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231320id_/http%3A//www.grandprix.com/hmppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202202334id_/http%3A//grandprix.com/hmppolicy.html) for the most accurate reproduction.*
 
 # GrandPrix.com - Privacy Policy
 
