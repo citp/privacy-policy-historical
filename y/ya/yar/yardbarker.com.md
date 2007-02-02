@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yardbarker.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117075734id_/http%3A//yardbarker.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardbarker.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202211342id_/http%3A//www.yardbarker.com/account/privacy) for the most accurate reproduction.*
 
 # Yardbarker: Privacy Policy
 
