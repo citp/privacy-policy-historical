@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fateback.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208151927id_/http%3A//fateback.com/web-hosting-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fateback.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202233359id_/http%3A//www.fateback.com/web-hosting-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy. FateBack Linux web hosting network.
 
