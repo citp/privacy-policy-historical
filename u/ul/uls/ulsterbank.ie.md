@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulsterbank.ie privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221002646id_/http%3A//ulsterbank.ie/ulster/ri/Privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulsterbank.ie privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202221903id_/http%3A//www.ulsterbank.ie/ri_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
 
 # Ulster Bank: Privacy Policy
 
@@ -43,5 +43,3 @@ You should also be aware that where you link to another website from the ULSTER 
 ULSTER BANK, its directors, employees, servants and agents, affiliates or other representatives and their respective parent and subsidiary companies, shall not be liable in respect of any claims, emergencies, demands, causes of action, damages, losses, expenses, including without limitation, reasonable attorney fees and costs of in accordance with this privacy policy and your consents. 
 
 ULSTER BANK reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any amendments
-
-[Back to previous page](https://web.archive.org/web/20051221002646id_/http%3A//ulsterbank.ie/ulster/ri/default.asp)
