@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206023026id_/http%3A//www.authoria.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202070218id_/http%3A//www.authoria.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Authoria: Integrated, Strategic Talent Management - Recruiting, Performance Management, Incentive Management, Salary Planning, Succession Planning, HR Communications
 
