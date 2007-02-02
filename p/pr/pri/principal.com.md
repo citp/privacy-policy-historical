@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201709id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203004759id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
 
 # Principal.com - Online Privacy Policies - Information Privacy
 
@@ -20,7 +20,7 @@ The Principal Financial Group® understands that Visitors to this Web site are c
 
 
 
-For more information please review our [Information Collection and Use statement](https://web.archive.org/web/20061205201709id_/http://www.principal.com/privacy/onlineprivacy.htm). 
+For more information please review our [Information Collection and Use statement](https://web.archive.org/web/20070202211453id_/http://www.principal.com/privacy/onlineprivacy.htm). 
 
 **Summary Information**  
 We may automatically collect summary information, stored in a "cookie" specific to this Web site (see "[Cookies](https://web.archive.org/privacy/cookies.htm)"). This information is used to improve the content of our Web pages. No other information is gathered from your browser. The summary information is not traceable to a particular Visitor unless the Visitor has voluntarily identified himself or herself. If a Visitor logs in to conduct business, transactions may be tracked and changes maintained on our backend systems for both troubleshooting and confirmation purposes. Any information requested to conduct business is for our internal use to service your request. 
@@ -47,7 +47,7 @@ We also may disclose information about Visitors to third parties with the Visito
 We may also share information with third parties in response to a subpoena; to prevent fraud; to comply with an inquiry by a government agency or other regulator; or as necessary for other legal purposes. For more information, please review our [Information Sharing statement](https://web.archive.org/privacy/infosharing.htm)
 
 **We Do Not Share Medical Information**  
-The member companies of the Principal Financial Group that collect medical information do not share medical information with affiliates or with third parties for any purpose other than for providing and servicing your policies, accounts, claims or contracts; as allowed by the relevant laws protecting your privacy; or in circumstances where you consent. Not all member companies of the Principal Financial Group collect medical information. For more information please review our [HIPAA Policy](https://web.archive.org/web/20061205201709id_/http://www.principal.com/privacy/hipaa.htm).
+The member companies of the Principal Financial Group that collect medical information do not share medical information with affiliates or with third parties for any purpose other than for providing and servicing your policies, accounts, claims or contracts; as allowed by the relevant laws protecting your privacy; or in circumstances where you consent. Not all member companies of the Principal Financial Group collect medical information. For more information please review our [HIPAA Policy](https://web.archive.org/web/20070202211453id_/http://www.principal.com/privacy/hipaa.htm).
 
 **Changes to our Online Privacy Policy**   
 The Principal may make changes to our online privacy policies occasionally. We recommend that Visitors to our site review our Online privacy policies from time to time to learn of new privacy practices and changes to our policies.
