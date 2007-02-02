@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214108id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202200423id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Trust Seals from Trust Guard. Your Website Verification Authority
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20061205214108id_/http%3A//www.trust-guard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20070202200423id_/http%3A//www.trust-guard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
