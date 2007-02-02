@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2006-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060904135726id_/http%3A//www.fly.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202230436id_/http%3A//www.fly.com/index.php/deals/privacy) for the most accurate reproduction.*
 
-# Fly.com™ - Privacy
-
-## Privacy Policy
+# Fly.com™ - Privacy Policy
 
 Fly.com™, Flycor, LLC (The Company) has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this website.
 
@@ -10,40 +8,45 @@ FLY.COM WILL NEVER SELL OR DISCLOSE YOUR PERSONAL INFORMATION TO THIRD PARTIES. 
 
 Without foregoing the following sections, The Company may disclose personal information about you and your use of the website to law enforcement agencies if required by law to do so.
 
-Personally Identifiable Information
+### Personally Identifiable Information
 
 Registered users will have personally identifiable information collected and managed by us, including but not limited to, name, address, email address, phone and fax numbers. The Company is the sole organization that collects this information. This information is used to manage your account. Personally identifiable information is not disclosed to the public or to third parties unless compelled by force of law.
 
 You may correct inaccuracies in your information at any time through online tools expressly for this purpose.
 
-Information Automatically Logged
+### Information Automatically Logged
 
-We record your IP address and file paths you’ve requested to help diagnose problems with our server and to administer our website.
+We record your IP address and file paths you've requested to help diagnose problems with our server and to administer our website.
 
-Cookies
+### Cookies
 
 Browser cookies are used to identify you on subsequent visits and to provide you with a personalized view of the website. Cookies are required if you choose to become a registered user of the website.
 
 You may choose to decline cookies and accept reduced website functionality.
 
-Keyword Search
+### Keyword Search
 
 We record what you search for on the website (through keyword search text-entry boxes). We may choose to display advertisements related to what you search for in hopes that it will be valuable to you.
 
-Aggregate Information
+### Aggregate Information
 
 The Company may sell or disclose aggregate information and statistics about your usage of the site to third parties. Such material will not contain any personally identifiable information.
 
-External Links
+### External Links
 
 This site contains links to other sites. The Company is not responsible for the privacy practices or the content of such web sites.
 
-Email Communications
+### Email Communications
 
 Your E-mail addresses are NEVER sold or distributed in any way to a third party.
 
 If you choose to subscribe to the website newsletter(s) you can always unsubscribe by following the instructions at the bottom of the e-mail.
 
-Contacting the The Company
+### Contacting the The Company
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.fly.com/info/contact_us?department=2).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us at:
+
+Flycor, LLC d/b/a Fly.com™  
+415 Dairy Rd, Ste E-106  
+Kahului, HI 96732-2398  
+USA
