@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109175731id_/http%3A//news.hereisthecity.com/pages/about_us/5.cntns) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202193255id_/http%3A//news.hereisthecity.com/pages/about_us/5.cntns) for the most accurate reproduction.*
 
 # Privacy Policy :: About Us :: Here Is The City News :: The Latest Business & Financial Markets News And Views
 
@@ -20,5 +20,3 @@ If you are aged 16 or under, please get your parent/guardian's permission before
 If we decide to change our privacy policy we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions about or concerns about Here Is The City's privacy policy please feel free to e-mail us at [privacy@hereisthecity.com](mailto:privacy@hereisthecity.com).
 
 Thankyou for using the Here Is The City sites. 
-
-There is no related content.
