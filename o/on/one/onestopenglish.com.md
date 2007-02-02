@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208024929id_/http%3A//www.onestopenglish.com/section.asp%3Fcatid%3D59647) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202225037id_/http%3A//www.onestopenglish.com/section.asp%3Fcatid%3D59647) for the most accurate reproduction.*
 
 # One Stop English | Privacy
 
