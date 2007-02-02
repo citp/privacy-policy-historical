@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115193800id_/http%3A//www.leasticoulddo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202130022id_/http%3A//licd.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Least I Could Do » Home Page
 
@@ -59,5 +59,7 @@ Password:
   
 |  |   
 ---|---|---  
+  
+[](http://licd.com/app/phpAdsNew-2.0.5/adclick.php?bannerid=130&zoneid=6&source=&dest=http%3A%2F%2Fimp.nevertales.com%2Findex3.html)  
   
 |  | 
