@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210000907id_/http%3A//osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203004830id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
 
 # OSI Affiliate Website
 
@@ -21,4 +21,4 @@ Except as provided for in this Privacy Policy, Service Provider will never share
 **Privacy Policy Changes**   
 If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy, our Web site, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you via this page.
 
-**We value your opinions and feedback**. If you have comments or questions about our Privacy Policy, please email [_support@omnistaretools.com_](mailto:support@omnistaretools.com).
+**We value your opinions and feedback**. If you have comments or questions about our Privacy Policy, please send a ticket through our [_help desk_](http://support.omnistaretools.com/).
