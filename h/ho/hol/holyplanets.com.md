@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyplanets.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120847id_/http%3A//www.holyplanets.com/forum/index.php%3Fact%3DHelp%26CODE%3D01%26HID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyplanets.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202191705id_/http%3A//www.holyplanets.com/forum/index.php%3Fact%3DHelp%26CODE%3D01%26HID%3D22) for the most accurate reproduction.*
 
 # Help Topic
 
