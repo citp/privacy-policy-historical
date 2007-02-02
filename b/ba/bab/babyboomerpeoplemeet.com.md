@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyboomerpeoplemeet.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206044119id_/http%3A//www.babyboomerpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyboomerpeoplemeet.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202103048id_/http%3A//www.babyboomerpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# BABYBOOMERPeopleMeet.com - The BabyBoomer Network - 12/05/2006
+# BABYBOOMERPeopleMeet.com - The BabyBoomer Network - 02/02/2007
 
 |  |  | [](https://web.archive.org/sign_up/?a=)  
 ---|---  
