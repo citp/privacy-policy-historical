@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206013058id_/http%3A//www.sfweekly.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203010348id_/http%3A//www.sfweekly.com/about/policy.php) for the most accurate reproduction.*
 
-# 
+# San Francisco - - sfweekly.com
 
 Parent of _SF Weekly_ and sfweekly.com 
 
