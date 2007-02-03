@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006043432id_/http%3A//www.datingsitesreviews.com/index.php%3Ftopic%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203131725id_/http%3A//www.datingsitesreviews.com/index.php%3Ftopic%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Dating Sites Reviews - Privacy Policy
 
