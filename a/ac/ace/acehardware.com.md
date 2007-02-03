@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193159id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203201534id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.*
 
 # Ace Helpdesk
 
