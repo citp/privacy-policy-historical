@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190010id_/http%3A//www.contus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203123559id_/http%3A//www.contus.com/privacy.html) for the most accurate reproduction.*
 
 # Contus Vacation Packages - Privacy
 
