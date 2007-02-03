@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularwoodworking.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194635id_/http%3A//www.popularwoodworking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularwoodworking.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203200112id_/http%3A//www.popularwoodworking.com/privacy.html) for the most accurate reproduction.*
 
 # Popular Woodworking Magazine
 
@@ -20,6 +20,15 @@ In order to process, fulfill and service your book, magazine and school orders, 
 We may ask for personal information when you use certain features of our site, including but not limited to: when you enter a contest or drawing; when you sign up for our e-mail newsletter; or when you sign up for e-mail service. We sometimes ask users to complete surveys used for internal research purposes. If we ask for any specific demographic information, it is only to help us tailor the information, products and services we provide on our site to better fit your needs and interests. Occasionally we may share non-individual statistical or demographic information in aggregate form with third parties, but this is only done to improve the quality and content of our site. We never share your personal information with third parties -- only general information about the site's entire user base. 
 
 We also never sell, trade, rent or release our e-mail lists to any interested third parties. We may occasionally send information provided by outside companies to our e-mail users and subscribers, but only if those users and subscribers have already given us specific permission to do so during their initial registration for the services of our site. This third-party information will always come to you directly from our servers and will be identified as a mailing from us, ensuring that no third party will ever have access to our emailing lists. 
+
+**Popular Woodworking's "All-Star Workshop Giveaway"**
+
+If you enroll in Popular Woodworking's "All-Star Workshop Giveaway" we will share your registration data containing your name, address and e-mail address with the our participating sponsors (Delta® Machinery, Porter-Cable®, Veritas® Tools, Inc. and Titebond®) so that they may send you additional information about their products and services. Click below to view the privacy policy for the "All-Star Workshop Giveway" sponsors: 
+
+Delta Machinery <http://www.deltamachinery.com/index.asp?e=92>  
+Porter-Cable <http://www.portercable.com/index.asp?e=336>  
+Veritas Tools, Inc. <http://www.veritastools.com/PrivacyPolicy.aspx>  
+Titebond <http://www.franklininternational.com/PrivacyCO.htm>
 
 **WHAT ABOUT "COOKIES"?**
 
