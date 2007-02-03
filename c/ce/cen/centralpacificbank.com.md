@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022131316id_/http%3A//centralpacificbank.com/content/additional/privacypolicy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203072441id_/http%3A//www.centralpacificbank.com/content/additional/privacypolicy.shtm) for the most accurate reproduction.*
 
 # Central Pacific Bank - Privacy Policy
 
@@ -154,7 +154,7 @@ For each visitor to CPB’s web site ([www.centralpacificbank.com](http://www.ce
 
   
 This privacy policy may change from time to time.  
-You may obtain the most current copy at [CPB branches](https://web.archive.org/web/20061022131316id_/http%3A//centralpacificbank.com/content/branchandatm/index.shtm) or visit the web site.
+You may obtain the most current copy at [CPB branches](https://web.archive.org/web/20070203072441id_/http%3A//www.centralpacificbank.com/content/branchandatm/index.shtm) or visit the web site.
 
 Effective Date  
 This privacy policy is effective as of October, 2005.
