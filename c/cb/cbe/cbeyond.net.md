@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cbeyond.net privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130104436id_/http%3A//cbeyond.net/constants/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbeyond.net privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203183216id_/http%3A//www.cbeyond.net/constants/privacy.htm) for the most accurate reproduction.*
 
 # Cbeyond - Privacy Policy
 
-Cbeyond Online Privacy Statement
+CbeyondOnline™ Privacy Statement
 
 At Cbeyond, we are committed to honoring the privacy of our on-line customers and visitors to our Web site. We recognize the importance to you, our Web site customer or visitor, of maintaining an appropriate level of privacy and security for the personal information we collect from you through this Web site. The following policy outlines our Web site information gathering, use and disclosure practices with respect to your information that is collected by us or provided by you on and through this Web site. By accessing or using our site, you acknowledge that you have read and accepted the practices, procedures and terms and conditions of this policy and any other terms of use or policies posted by us. Please note that this privacy statement applies only to this site and not to the web sites of our advertisers or of other companies or organizations to which we link. All references to "Cbeyond" throughout this policy statement include, unless otherwise stated, all Cbeyond affiliate companies, successors and assigns.
 
