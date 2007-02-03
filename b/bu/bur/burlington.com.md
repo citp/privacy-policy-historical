@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burlington.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110021036id_/http%3A//www.burlington.com/site/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlington.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203030213id_/http%3A//www.burlington.com/site/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
