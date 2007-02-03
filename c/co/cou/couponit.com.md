@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponit.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108164918id_/http%3A//www.couponit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponit.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203184313id_/http%3A//www.couponit.com/privacy.html) for the most accurate reproduction.*
 
 # Couponit.com - Privacy Policy
 
