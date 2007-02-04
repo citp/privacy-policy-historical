@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033250id_/http%3A//www.fantasyfootball.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204110558id_/http%3A//www.fantasyfootball.com/policy) for the most accurate reproduction.*
 
 # fantasyfootball.com: Privacy Policy
 
