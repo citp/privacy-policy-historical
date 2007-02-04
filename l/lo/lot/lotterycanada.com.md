@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214425id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204235441id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement on Lottery Canada
 
@@ -45,7 +45,7 @@ Lottery Canada Email: [privacy@lotterycanada.com](mailto:privacy@lotterycanada.c
 [](http://canadiansponsors.directtrack.com/z/5562/CD159/)  
   
 All lottery results are unofficial. Please check with your local lottery retailer for confirmation.  
-Application & Design by Q9 Media. Copyright © 2000-2006 LotteryCanada.com. All rights reserved.  
+Application & Design by Q9 Media. Copyright © 2000-2007 LotteryCanada.com. All rights reserved.  
 Read our [Privacy Statement](http://www.lotterycanada.com/lottery/?job=privacy_statement) or [Disclaimer](http://www.lotterycanada.com/lottery/?job=disclaimer).   
 International Results available at [www.latestlotterynumbers.com](http://www.latestlotterynumbers.com/)   
 
