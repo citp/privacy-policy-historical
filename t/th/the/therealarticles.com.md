@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealarticles.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206225026id_/http%3A//www.therealarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealarticles.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204031113id_/http%3A//www.therealarticles.com/privacy.php) for the most accurate reproduction.*
 
 # The Real Articles
 
