@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guessfactory.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223324id_/http%3A//www.guessfactory.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guessfactory.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204235811id_/http%3A//www.guessfactory.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
