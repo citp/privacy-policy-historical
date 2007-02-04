@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftasatellitesource.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftasatellitesource.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FTA Satellite Source Privacy Policy
 
@@ -7,25 +7,20 @@
   
   
   
-March 15, 2006  
 Our **FTA Discussion** is a free forum where people can post comments and questions about fixes, firmware, nagra2, bins etc. or anything else you may want others to know or hear about in regards to Pansat, Viewsat Coolsat, Captiveworks and other FTA receivers. Newbies can register for free, post messages and have questions answered.  
 [View Our FTA Discussions ](http://www.ftasatellitesource.com/ftadiscussion)  
   
   
   
-December 21, 2005
-
 Our **VIP Members Area is an FTA Forum**. FTA Satellite Source offers the best in FULL Support for your **FTA (Free-to-air) Satellite Receiver**. All posts are answered extremely promtly. Emails are answered within 1 business day. We offer support memberships for all Free to Air receiver models. File downloads, keys, firmaware, tutorials, etc are all put together in one easy place.   
   
   
   
   
-FREE NEWSLETTER:  
 
 
-December 21, 2005  
-Which FTA Receiver Models do we support? We have FTA support for all fta receivers, such as[Coolsat 4000 Pro](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/coolsat4000pro_ftasupport.html),[Coolsat 5000 Platinum](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/coolsat5000platinum_ftasupport.html), [Pansat 3500s](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/pansat3500s_ftasupport.html), [Pansat 2700a](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/pansat2700a_ftasupport.html), [Pansat 6000 HXC](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/pansat6000hxc_ftasupport.html), [Pansat 5000 HC](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/pansat5000hc_ftasupport.html), [Pansat 2500a](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/pansat2500a_ftasupport.html), [Pansat 2300a](http://www.ftasatellitesource.com/pansat2300a_ftasupport.html),[Viewsat Extreme](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/viewsatextreme_ftasupport.html), [Viewsat VS 2000](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/viewsatvs2000_ftasupport.html),[Captiveworks CW-600s](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/captiveworks_cw-600s_ftasupport.html) and more!  
-[ Memberships starting as low as $14.99 read more ](https://web.archive.org/web/20061207231328id_/http%3A//www.ftasatellitesource.com/1month_ftasupport.html)  
+Which FTA Receiver Models do we support? We have FTA support for all fta receivers, such as[Coolsat 4000 Pro](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/coolsat4000pro_ftasupport.html),[Coolsat 5000 Platinum](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/coolsat5000platinum_ftasupport.html), [Pansat 3500s](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/pansat3500s_ftasupport.html), [Pansat 2700a](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/pansat2700a_ftasupport.html), [Pansat 6000 HXC](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/pansat6000hxc_ftasupport.html), [Pansat 5000 HC](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/pansat5000hc_ftasupport.html), [Pansat 2500a](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/pansat2500a_ftasupport.html), [Pansat 2300a](http://www.ftasatellitesource.com/pansat2300a_ftasupport.html),[Viewsat Extreme](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/viewsatextreme_ftasupport.html), [Viewsat VS 2000](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/viewsatvs2000_ftasupport.html),[Captiveworks CW-600s](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/captiveworks_cw-600s_ftasupport.html) and more!  
+[ Memberships starting as low as $14.99 read more ](https://web.archive.org/web/20070204155239id_/http%3A//www.ftasatellitesource.com/1month_ftasupport.html)  
   
 | 
 
