@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130153705id_/http%3A//www.teenvogue.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204120358id_/http%3A//www.teenvogue.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: TeenVogue: Privacy Policy
 
@@ -10,7 +10,7 @@ Kids and parents click here!
 
 The following Privacy Policy summarizes the various ways that **CondeNet, Inc.** ("Service Provider," "we" or "our") treats the information you provide while using **www.teenvogue.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://www.teenvogue.com/privacypolicy**. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://www.teenvogue.com/services/privacypolicy.html**. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
 In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/useragreement/). Your use of the Website constitutes agreement to its terms and conditions as well.
 
