@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigabyte.us privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117045723id_/http%3A//www.gigabyte.us/Company/CompanyList.aspx%3FCompanyWebPageID%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigabyte.us privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205174224id_/http%3A//www.gigabyte.us/Company/CompanyList.aspx%3FCompanyWebPageID%3D131) for the most accurate reproduction.*
 
 # GIGABYTE
 
