@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005070843id_/http%3A//carpathiahost.net/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205045728id_/http%3A//carpathiahost.net/privacy/index.shtml) for the most accurate reproduction.*
 
 # Carpathia Hosting, Inc. | PRIVACY POLICY
 
@@ -28,3 +28,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 
 Safe Harbor  
 Carpathia Hosting adheres to the Safe Harbor privacy principles of the Safe Harbor program administered by the U. S. Department of Commerce.
+
+  For a free initial consultation with the Carpathia Hosting engineering team, contact sales today.
+
+#### 888.200.9494 or  [Sales@carpathiahost.com](mailto:Sales@carpathiahost.com)
