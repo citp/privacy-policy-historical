@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nec.edu privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221195536id_/http%3A//www.nec.edu/home/servlet/faqservlet%3Faction%3DAnswerACT%26id%3D591) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.edu privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205141014id_/http%3A//www.nec.edu/home/servlet/faqservlet%3Faction%3DAnswerACT%26id%3D591) for the most accurate reproduction.*
 
 # 
 
