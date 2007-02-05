@@ -1,68 +1,55 @@
-> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011035902id_/http%3A//www.portfolio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205072316id_/http%3A//www.portfolio.com/services/privacypolicy) for the most accurate reproduction.*
 
-# Portfolios.com - Privacy Statement
+# CondéNet and Condé Nast Magazines: Portfolio: Privacy Policy
 
-| 
+Privacy Policy
 
-|  |   
----|---  
-  
-|   
----|---  
-  
-|  | 
+Last Revised December 11, 2006
 
-Portfolios.com collects personal information about you when you use the Website and when you voluntarily provide us with such information. There are four types of information that Portfolios.com collects about you: 
+Kids and parents click here! 
 
-**A.** **Personal Registration Information** We collect the contact information you supply when you register or sign up for one of Portfolios.com 's services, including your name, address, phone, fax or e-mail address and the password you select. This information, which we refer to as "Personal Registration Information", may be edited at any time, either using your password or contacting a Portfolios.com customer representative at [customerservice@Portfolios.com](mailto:customerservice@Portfolios.com). 
+The following Privacy Policy summarizes the various ways that CondeNet, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.Portfolio.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-**B.** **Limited Access Information** We collect the information you provide in the course of using our services. This information, which we refer to as Limited Access Information, is accessible only to you and the people who you give permission to access your files. 
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.Portfolio.com/services/privacypolicy. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-**C.** **Publicly Posted Information** We collect the information you post or want to be publicly viewable, such as your online portfolio on Portfolios.com. We refer to this information as Publicly Posted Information, and it is accessible by anyone with Internet access. 
+In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well. This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
-**D.** **Cookies and Tracking Information** Portfolios.com uses "cookies" to personalize your experience on our Website. Cookies are small data files that contain information about you, that are stored on your hard drive when you visit certain websites. Many popular websites use cookies to store your preferences on a particular site. Cookies collect information such as your browser type, time and length of your visit. 
+**I. THE TYPE OF INFORMATION THE WEBSITE COLLECTS**
 
-|   
----|---|---  
-  
-|  | 
+The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
 
-Portfolios.com has several uses for the information we collect about you. First, we use your information to specify unique preferences and to provide personalized content. Secondly, we track user trends and patterns. Where applicable, we use the information to expand our online directories or contact you regarding future Portfolios.com and third party products and services. This helps us better understand and improve our Website. While both of these activities depend in part on the use of cookies, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. Note that if you refuse cookies, you may be unable to use certain services in the Website. 
+Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. 
 
-Portfolios.com will not sell or otherwise transfer your personal information to unaffiliated third parties without your prior consent. If you do not want the information you provide to Portfolios.com used to inform you of other products, services and special offers available from Portfolios.com, you can indicate this preference to our customer service representatives at [customerservice@Portfolios.com](mailto:customerservice@Portfolios.com). In addition, Portfolios.com may selectively provide certain information about products or services we think may interest you. If you do not want to receive promotional materials regarding third party products or services, again, contact our customer service representatives at customerservice@Portfolios.com and we will honor your preference. Portfolios.com reserves the right to provide aggregate data to third parties for statistical analysis. Such data will not be linked to any particular individuals. In addition, we also reserve the right to disclose your personal information if such disclosure is made pursuant to a legal proceeding or is required by law. 
+**II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
 
-We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law. 
+Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs. Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact our Privacy Policy Coordinator as described below with your changes. 
 
-|   
----|---|---  
-  
-|  | 
+We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
 
-From time to time, we conduct statistical analyses of the collective behavior and characteristics of our users to measure interest in and use of Portfolios.com's services. We sometimes provide our advertisers with this statistical information, such as the number of users that have been exposed to or clicked on their advertising banners. However, we only provide aggregated data from these analyses to third parties, we do not provide personal data characteristics such as your name, address or phone number. 
+While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and about our Website users may be among the transferred assets. 
 
-Portfolios.com permits third parties to offer their services to visitors of our Website through advertisements. Portfolios.com is not responsible for the actions or policies of our advertisers or other third parties; therefore, we recommend that you verify the applicable privacy practices of any other website or third party before you provide them with your personal information. 
+**III. COOKIES**
 
-Outside companies advertise on Portfolios.com using banner advertisements. When you click on these ads to visit an advertiser's website, you may be given a cookie. While we use cookies in other parts of our Website (this use is described in more detail in Section 4 above), only the companies advertising on our Website collect the cookies you may receive with the banner ads. We do not have access to or control over our advertisers' cookies or data collection practices. 
+You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies. 
 
-|   
----|---|---  
-  
-|  | 
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
 
-Your Personal Registration Information -- the information you supply when you register or sign up for one of Portfolios.com's services -- is password-protected so that only you and Portfolios.com have access to this information. Your Limited Access Information is accessible only to you and the people who you give permission to access your files. Your Publicly Posted Information is available to anyone with Internet access. Your Cookie and Tracking Information is used by us for internal purposes only to provide you with personalized service. 
+If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Portfolios.com cannot ensure or warrant the security of any information that you transmit to us through our Website or that you download from our online products or services on our Website, and you do so at your own risk. Once we receive your transmission, we use commercially reasonable efforts to ensure its security on our systems. Your personal information resides on a secure server that only authorized Portfolios.com personnel and contractors have access to via password. 
+   
+**IV. KIDS AND PARENTS**
 
-Please note that there are several places on the Website where you can transmit credit card information in order to complete a purchase transaction. Any time we ask for a credit card number, we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. 
+This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
 
-|   
----|---|---  
-  
-|   
----|---  
-  
-|   
----|---  
-  
-|   
----|---
+If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
+
+**V. PRIVACY POLICY COORDINATOR**
+
+If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
+
+Privacy Policy Coordinator  
+CondéNet Inc.  
+4 Times Square  
+1166 Avenue of the Americas, 15th Floor  
+New York, NY 10036  
+[privacy@condenet.com](mailto:privacy@condenet.com)
