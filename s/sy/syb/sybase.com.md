@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230213408id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205150937id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
 # Sybase Inc. Privacy Policy - Sybase Inc
 
