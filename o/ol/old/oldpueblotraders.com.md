@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227213342id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205115120id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
 
 # Old Pueblo Traders: Security Policy
 
@@ -92,4 +92,4 @@ In addition, we use third-party companies to help us gather data to assist us in
 **A:** To help us improve our privacy and security policies and practices, please send us your questions and feedback [privacyandsecurity@oldpueblotraders.com.](mailto:privacyandsecurity@oldpueblotraders.com)  
   
   
-© 2006, Arizona Mail Order Company, Inc. since 1946
+© 2007, Arizona Mail Order Company, Inc. since 1946
