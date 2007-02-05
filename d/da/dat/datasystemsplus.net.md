@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasystemsplus.net privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721140738id_/http%3A//www.datasystemsplus.net/site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasystemsplus.net privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205035836id_/http%3A//www.datasystemsplus.net/site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Data SystemsPlus, Web Developers in Owensboro Kentucky > Home ( DNN 3.1.1 )
 
