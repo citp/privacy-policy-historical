@@ -1,49 +1,9 @@
-> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015182604id_/http%3A//frontlineplacement.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206000220id_/http%3A//www.frontlineplacement.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D48) for the most accurate reproduction.*
 
-# Frontline Placement Technologies - Automated Replacement Technology
-
-October
-
-  *  PANC
-  * 4-6 MOASPA
-  * 4-6 COASBO
-  * 8-10 COASPA
-  * 11-13 LSASPA
-  * 13-16 ASBO
-  * 15-17 NYASPA
-  * 18-20 AASPA
-  * 25-27 AWSA
-
-
-
-November
-
-  * 10/30-11/1 AAEA
-  * 1-3 FASPA
-  * 1-3 ASPAA
-  * 7-10 ASA
-  * 14-17 TASBO
-  * 17-19 IASBO
-
-
-
-December
-
-  * 11/30-12/1 MSBO
-  * 6-8 GASPA
-  * 6-8 TASPA
-
-
-
-  
-[](https://web.archive.org/web/20061015182604id_/http%3A//frontlineplacement.com/press/Patent_151_Press_Release.pdf) | 
-
-Privacy Policy 
+# Frontline - Privacy Policy
 
   
 The Internet is a powerful medium that allows communication all over the globe, quickly and easily. However, it requires protection and guidelines to be safe and secure. Frontline Placement Technologies, Inc., the owner and exclusive distributor of Aesop, is dedicated to providing you, the user, with a secure and useful experience on the Internet. FrontLine Data adheres to the following policies regarding your private information. 
-
-**Frontline Placement Technologies, Inc. will not provide your information to a third party vendor.**
 
 We believe that your information is private, and as such we will not disclose information to any outside source. The information that you provide online will be sent to the school district(s) for which you work, but will not divulge any information to marketing groups or list vendors. 
 
@@ -72,5 +32,4 @@ IP address: Every computer connected to the Internet has a numeric address calle
 
 Browser type: A user's browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version. 
 
-Referrer: The referrer is the URL of the Internet resource or page that causes a browser to request a page or image from AesopOnline.com servers.   
-
+Referrer: The referrer is the URL of the Internet resource or page that causes a browser to request a page or image from AesopOnline.com servers. 
