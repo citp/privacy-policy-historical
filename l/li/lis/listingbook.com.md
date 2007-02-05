@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listingbook.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214063057id_/http%3A//www.listingbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingbook.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205183642id_/http%3A//www.listingbook.com/page/privacy_policy%3Ftoken%3D) for the most accurate reproduction.*
 
-# Listingbook Services
+# Listingbook.com
 
 | 
 
