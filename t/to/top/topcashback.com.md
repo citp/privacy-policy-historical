@@ -1,17 +1,31 @@
-> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2003-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031113204741id_/http%3A//www.topcashback.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205233735id_/http%3A//www.topcashback.com/privacy.aspx) for the most accurate reproduction.*
 
-# topcashback.com - Online shopping stores rewards .
+# TopCashBack Privacy Policy
 
-> Here at topcashback.com, we highly value our clients and make every effort to ensure that all information that is collected from you or about you is handled with the proper consideration for your privacy.
-> 
-> The information you provide is needed in order to send your cashback, answer any queries you might have and to send out an occasional newsletter to inform you about promotions and online shopping related infromation. You may unsubscribe to this newsletter at any time. **None of the information that you supply to topcashback.com will be released in any personally identifiable way**.
-> 
-> Topcashback.com contains links to other websites and each of these sites may have a privacy policy that differs from that of topcashback.com. The privacy practices of other websites linked to topcashback.com are not covered by this privacy policy. topcashback.com will not disclose any of the personal information supplied upon registration to our merchants. The only information that may be shared between us and one of our merchants is information that pertains to orders such as order numbers and amounts.
-> 
-> It is the member's responsibility to update and maintain accurate contact information in their account. You can make any changes by visiting your account page and entering corrections. Email and postal addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including mailing of cashback cheques. topcashback.com is not responsible for cheques that are sent to incorrect addresses, if the address in question was the address listed in the member's account at the time of issuance.
-> 
-> Topcashback.com uses "cookies" technology so that we may identify our members once they arrive at our site, this enables us to personalize and improve each members visit. In order to take advantage of all the benefits provided by topcashback.com, we recommend that you leave your cookies preference turned on. Cookies are small pieces of information that a web site transfers to your hard drive where it is stored and used for record-keeping. Use of cookies is industry-standard. The information they provide allows us to manage and improve the services on our website to better suit your needs and interests. A cookie does not contain any personally identifying information. You have the option to set your browser to decline cookies, however if you do so you may not be able to use all areas of our web site.
-> 
-> You may be served a cookie from our advertisers and third party sites while visiting topcashback.com. topcashback.com does not control these cookies nor do we have access to the information they collect. These cookies are not subject to the topcashback.com cookies policy.
-> 
-> If you have any queries or concerns about privacy on the topcashback.com site please do not hesitate to [contact us](https://web.archive.org/info/contact.asp).
+  | 
+
+We hold only a minimal amount of information on each registered client. In order to register, we only require an email address (and a password). Prior to sending any payments, we will also require a name and address. your nickname will be used in referral links, and that if you were referred by somebody they can see your earnings up to the referral threshold - to make this anonymous you can set it in the account details page. 
+
+We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with commission levels. Registered users may update their account details online by following the relevant links from within their account page.
+
+Member nicknames & basic related statistics may occassionally be exposed. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £5) may be visible to the referring member. If you were referred to TopCashBack, this fact will be made clear in your account details page,  from which you may opt out of them being able to see your account balance. Where selected (default), account balances are only displayed until you reach the referral threshold (currently £5). Once this is reached your account balance will no longer be visible.
+
+  * We may monitor traffic patterns in order to improve our services, to help monitor purchases and commissions and keep accounts up to date. 
+  * We do not send Junk Email or Spam. We may send emails with site updates or offers, but users will be able to specify the type of emails received. 
+  * We do not pass users details on to third parties, unless specifically requested to do so by the users.
+
+Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £10. 
+
+It is possible that we will wish to use customer information in unanticipated ways, not stated in our Privacy Policy. In this event, we will contact individuals before using the data for new purposes, so that the individual users may opt-out if they wish. 
+
+We aim to be very flexible and transparent in the use of users details. If users wish for their account to be deleted or amended in any way – or if they wish to prevent us from using their information for any purposes, either as initially stated or for any new purposes, then they may contact us using our ‘Contact Us’ form and we will endeavor to comply with their wishes. 
+
+If any user feels this site is not following its stated information policy, then they may inform us through our ‘Contact Us’ form. 
+
+## Cookie Policy
+
+We recommend that all users enable cookies in their browsers in order to make full use of the site and in order to ensure that any purchases on third party sites are recorded. Cookies are small pieces of data or information that are stored by a users browser onto their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their purchases. 
+
+If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page. 
+
+|  
