@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210190349id_/http%3A//www.naturalcollection.com/natcolnew/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205162307id_/http%3A//www.naturalcollection.com/natcolnew/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Data Policy
 
@@ -7,7 +7,7 @@ We use the information you give us to process orders and to provide an improved 
 
 When you order, we need to know your name, e-mail address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfil your orders and to notify you of the status of your order. We also ask for your telephone number, which enables us to contact you urgently if there is a problem with your order. 
 
-We may use the information we collect to occasionally notify you about important functional changes to the Web site, new services and special offers from Green Dot Guides Ltd. [Natural Collection]. If you would rather not receive this information, you may opt out by ticking the appropriate box on the address page of the checkout, or by unsubscribing [here](https://web.archive.org/web/20061210190349id_/http%3A//www.naturalcollection.com/natcolnew/unsubscribe.asp).
+We may use the information we collect to occasionally notify you about important functional changes to the Web site, new services and special offers from Green Dot Guides Ltd. [Natural Collection]. If you would rather not receive this information, you may opt out by ticking the appropriate box on the address page of the checkout, or by unsubscribing [here](https://web.archive.org/web/20070205162307id_/http%3A//www.naturalcollection.com/natcolnew/unsubscribe.asp).
 
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by Data Protection legislation, we adhere to strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
 
