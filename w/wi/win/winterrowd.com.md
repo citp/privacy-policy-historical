@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209005510id_/http%3A//winterrowd.com/HomePage/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205194312id_/http%3A//www.winterrowd.com/HomePage/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # winterrowd.com - your only stop for online pranks!
 
