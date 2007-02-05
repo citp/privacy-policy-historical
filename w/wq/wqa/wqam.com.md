@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231232616id_/http%3A//www.wqam.com/index.php%3Fpage%3D118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205104752id_/http%3A//www.wqam.com/index.php%3Fpage%3D118) for the most accurate reproduction.*
 
 # wqam.com WQAM
 
