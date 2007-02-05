@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensarticles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064750id_/http%3A//womensarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensarticles.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205102224id_/http%3A//www.womensarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Womens Articles Privacy Policy
 
