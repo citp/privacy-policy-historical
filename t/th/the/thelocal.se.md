@@ -1,24 +1,12 @@
-> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606192045id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205162446id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
 
-# The Local - privacy policy
-
-## What information do we collect?
-
-When you subscribe to The Local it is only necessary for you to leave your email address. However, we also ask you for a few other details such as name, age, nationality, sex, location and occupation. 
-
-## Why do we collect this information?
-
-Obviously, if you're going to receive The Local every week by email, we need your email address. But there are two reasons why we ask for more information from you: 
-
-1\. To help us improve our service. We want to make sure that the news stories we cover are what our audience wants to read about. In other words, if 90% of our readers were octogenarian Brazilian rocket scientists living in Kiruna (they're not), we would be able to focus our articles accordingly.
-
-2\. To use anonymous details about our users to sell appropriate advertising space on emails or the site. This might mean showing an advertiser how many female users we have on the site; it does not mean sharing an individual's details with an advertiser. Where we collect registration information from an individual, we will never share that individual's information with a third party, including an advertiser, without that user's explicit permission.
-
-## Privacy
+# The Local - Privacy Policy
 
 We will not share information about you (including your email address) with others without your prior consent. 
 
-You will receive unsolicited mail from The Local and/or from appropriate third parties only if you have agreed to this. We will, however, mail you occasionally with updates about the service and information about your registration.
+By providing The Local with your email address you agree that we may send you a weekly email and occasional 'breaking news' alerts. We will also mail you occasionally with updates about the service and information about your registration.
+
+You will not receive unsolicited mail from third parties.
 
 Otherwise, we will only share anonymous aggregate statistics about our readers with our advertisers.
 
@@ -27,3 +15,60 @@ Should we elect to change our privacy policy we will post the changes here. Wher
 The Local will use all reasonable precautions to ensure only responsible third parties see the information. However we are not responsible for any breach of security or any actions of any third parties who receive the information.
 
 Please note that we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.
+
+**COOKIES**
+
+The Local uses cookies to track users' 'sessions' and to determine whether a user is signed in or not so that relevant information may be delivered. These are not used to identify any individuals and no personal information is stored in relation to the cookies.
+
+You can delete all cookies on your computer via your web browser, as well as switching them off altogether. Click 'help' on your browser for relevant instructions.
+
+**Back to[registration](https://web.archive.org/members/register.php).**
+
+Blog
+
+Highlights
+
+[
+
+**Sweden's hippest ski resort** is boosted as it hosts one of the world's biggest winter sports events
+
+](https://web.archive.org/6275/)
+
+Essentials
+
+[**Jobs - in Sweden, in English**](https://web.archive.org/jobs/)  
+[Get your career on track in 2007 with over 350 jobs from Sweden's top employers.](https://web.archive.org/jobs/)
+
+[**Weather**](https://web.archive.org/weather/)  
+["There is no bad weather, just bad clothes," say the Swedes. Here's the forecast for everyone else.](https://web.archive.org/weather/)
+
+[**Dating**](https://web.archive.org/goTo.php?ID=144)  
+[Looking for your own blonde bombshell? Or is the strong, silent type more your style? Find a Swedish sweetheart here.](https://web.archive.org/goTo.php?ID=144)
+
+[**Stockholm Syndrome**](https://web.archive.org/special/stockholmsyndrome.php)  
+[Tales of crazy Swedish classes, hamfisted attempts to understand - and explain - real Swedes, and varied experiences of fellow foreigners gathered for your amusement.](https://web.archive.org/special/stockholmsyndrome.php)
+
+Register
+
+Register now for:  
+> Free use of noticeboard  
+> Special discounts  
+> Weekly news roundup  
+> Unlimited use of discuss
+
+[REGISTER FOR FREE »](https://web.archive.org/members/register.php)
+
+Definitive Guides
+
+  * [The Nobel Prizes](https://web.archive.org/guides/nobel/the+Nobel+Prizes/)  
+The latest news from the Swedish and Norwegian Committees, plus the background to the prizes.
+  * [Equality in Sweden](https://web.archive.org/guides/equality_sweden/Equality+in+Sweden/)  
+Is Sweden's international billing as the World's Most Equal Country® just a myth?
+  * [Diversity in Sweden](https://web.archive.org/guides/integration/Diversity+in+Sweden/)  
+As Sweden races towards multiculturalism, the country learns that the road can be very bumpy.
+  * [The Big Booze Debate](https://web.archive.org/guides/alcohol/Alcohol+in+Sweden/)  
+Is Sweden's famed state-owned alcohol monopoly, Systembolaget, on the rocks?
+  * [The Royal Family](https://web.archive.org/guides/royalty/the+Swedish+Royal+Family/)  
+Merry monarchist or a rowdy republican, royalty makes good reading.
+
+
