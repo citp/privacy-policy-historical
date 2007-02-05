@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoarticle.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114170540id_/http%3A//neoarticle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoarticle.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205221654id_/http%3A//neoarticle.com/privacy.php) for the most accurate reproduction.*
 
 # NeoArticle.com Free Internet Business Articles | Free Content
 
