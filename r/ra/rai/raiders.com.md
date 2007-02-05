@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192523id_/http%3A//raiders.com/team/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205092813id_/http%3A//www.raiders.com/team/privacy.jsp) for the most accurate reproduction.*
 
 # Oakland Raiders
 
+[](https://web.archive.org/default.jsp)  
   
-  
-  
-Oakland Raiders |    
-
+Oakland Raiders | 
 
 [](http://www.raidersenespanol.com/)  
 
 
-  
+[](http://clients.rqst4.info/dspSurvey.cfm?N=193&SID=2&SEQ=1)
 
-
-[](http://www.raiders.com/raiderettes/squads.jsp)  
+[](http://www.comcast.com/)  
 
 
 |  |   
@@ -153,10 +150,7 @@ Attn: Internet Services Department - Privacy
 1220 Harbor Bay Parkway  
 Alameda, CA 94502
 
-|  |   
----|---|---|---  
-  
-  
-  
+|   
+---|---|---  
   
 
