@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007172852id_/http%3A//www.yourdentistryguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206191445id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Consumer Guide to Dentistry
+
+[Updated January 2007]
 
 We respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
 
@@ -36,8 +38,9 @@ You must be at least 18 years old to have our permission to use this site. Our p
 
 ## Other Sites
 
-You have the opportunity to access other sites from this website, by clicking on either a text link or an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection policies. [](http://www.yourdentistryguide.com/)
+You have the opportunity to access other sites from this website, by clicking on either a text link or an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection policies.
 
-Page last updated October 1, 2006
+Back to Top
 
-Back to top
+© 2006-07 Ceatus Media Group LLC  
+Consumer Guide to Dentistry is a trademark of Ceatus Media Group. Images and text on this site belong to Ceatus Media Group. Copying or reproducing any text or graphics from this website is strictly prohibited by copyright law.
