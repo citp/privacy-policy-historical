@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207232642id_/http%3A//www.50plus.com/display.cfm%3FlibraryID%3D109%26cabinetID%3D319%26documentID%3D8773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206062014id_/http%3A//www.50plus.com/display.cfm%3FlibraryID%3D109%26cabinetID%3D319%26documentID%3D8773) for the most accurate reproduction.*
 
 # 50Plus.com - 50Plus.com Privacy Policy
 
@@ -71,18 +71,23 @@ We may use personal information, without the knowledge or consent of the individ
 **Contacting the Web Site**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-David Cravit Vice-President, Marketing 50plus.com 27 Queen Street East Suite 300> Toronto, Ontario M5C 2M6 [d.cravit@50plus.com](mailto:d.cravit@50plus.com?subject=privacy%20concerns)
+David Cravit  
+Vice-President, Marketing  
+50plus.com  
+27 Queen Street East  
+Suite 300  
+Toronto, Ontario M5C 2M6 [d.cravit@50plus.com](mailto:d.cravit@50plus.com?subject=privacy%20concerns)
 
 Last updated January 18, 2006   
 
 
 **Further reading on the subject of privacy on the Internet:**
 
-* [Privacy Commissioner of Canada](http://www.privcom.gc.ca/)
-
+* [Privacy Commissioner of Canada](http://www.privcom.gc.ca/)  
+  
+---  
 **Average Review:** 0.0    
 (Not yet reviewed)  
 |   
----|---  
   
-[Click here if you would like to see more pages from this section.](https://web.archive.org/web/20061207232642id_/http%3A//www.50plus.com/display.cfm?cabinetID=319&libraryID=109)
+[_Click here if you would like to see more pages from this section._](https://web.archive.org/web/20070206062014id_/http%3A//www.50plus.com/display.cfm?cabinetID=319&libraryID=109)
