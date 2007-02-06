@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016093956id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0%26refer%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206183335id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0%26refer%3D0) for the most accurate reproduction.*
 
-# FXsound.com - FXsound Privacy Statement
+# FXsound.com - Privacy Statement
 
-Maintaining your Internet privacy is of great importance to FXsound and Power Technology. To demonstrate our firm commitment to safeguarding your privacy, we have created this overall privacy statement. Please read this privacy statement to understand how your personal information and other information at FXsound will be treated as you use our software and browse our Web site.
+Maintaining your Internet privacy is of great importance to FXsound.com and Power Technology. To demonstrate our firm commitment to safeguarding your privacy, we have created this overall privacy statement. Please read this privacy statement to understand how your personal information and other information at FXsound.com will be treated as you use our software and browse our Web site.
 
 WE WILL NEVER SHARE YOUR PERSONAL INFORMATION WITHOUT YOUR PERMISSION.
 
@@ -25,9 +25,9 @@ We may collect the above information when you do any of the following from us:
 
   
 **HOW IS THE INFORMATION USED?**  
-FXsound is the sole owner of the information collected on this site. We use different information in different ways, all in the interest of improving your listening experience or maintaining and improving our services. 
+FXsound.com is the sole owner of the information collected on this site. We use different information in different ways, all in the interest of improving your listening experience or maintaining and improving our services. 
 
-  1. **Notify you by email of software updates and upgrades:** FXsound may email you to let you know of new or improved versions of software made available and other relevant information. You may refuse our email by clicking "unsubscribe" at the bottom of the email, however, that means you will no longer be able to receive email about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
+  1. **Notify you by email of software updates and upgrades:** FXsound.com may email you to let you know of new or improved versions of software made available and other relevant information. You may refuse our email by clicking "unsubscribe" at the bottom of the email, however, that means you will no longer be able to receive email about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
   2. **Notify you by email of contests, special offers, and targeted promotions:** If you sign-up for a contest or other promotion, we use your information to enter your name as a contest participant. Demographic information we collect is used to tailor your experience at our site by showing content that we think you might be interested in, and displaying the content according to your preferences. You may refuse our email by clicking "unsubscribe" at the bottom of the email, however, that means you will no longer be able to receive email about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
   3. **Verify your credit worthiness for purchases:** Before providing goods or services requiring payment, we must verify that the credit card you are using is valid and authorized for the purchase. All of this information is used only for credit purposes and is handled over secure, encrypted connections.
   4. **Register your software electronically:** To register and activate our software products, you'll be asked to provide your email address and unique identifier that is transferred over the Internet. Unique identifiers (product IDs, serial numbers, passwords) are collected only to verify your identity and to use as account numbers in our record system.
@@ -42,7 +42,7 @@ FXsound is the sole owner of the information collected on this site. We use diff
 
   
 **INFORMATION ABOUT PARTNER AND ADVERTISER WEB SITES**  
-Our Web site may contain links to other Web sites, including through banner ads and other advertising on the site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. FXsound is not responsible for the content or the privacy policy or practices of any other Web sites or for the actions of the companies responsible for those Web sites. Please review the privacy policies of those Web sites before providing them with any personal information. 
+Our Web site may contain links to other Web sites, including through banner ads and other advertising on the site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. FXsound.com is not responsible for the content or the privacy policy or practices of any other Web sites or for the actions of the companies responsible for those Web sites. Please review the privacy policies of those Web sites before providing them with any personal information. 
 
 **CONTACT FXSOUND**  
 If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us.
