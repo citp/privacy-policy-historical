@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udmercy.edu privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231085706id_/http%3A//www.udmercy.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udmercy.edu privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206174029id_/http%3A//www.udmercy.edu/policies/privacy) for the most accurate reproduction.*
 
 # UDM Web Privacy Policy
 
