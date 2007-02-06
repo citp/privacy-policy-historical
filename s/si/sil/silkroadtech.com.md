@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018211758id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206222429id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
-| 
+[](http://www2.humancapitalinstitute.net/hci/events_innovation_tour.guid?_trainingID=1009&_affiliateID=HOBAK3) | 
 
 SilkRoad technology, inc. considers your privacy important. This policy explains our policies and practices regarding how we use and disclose personal information that you provide to us. By using our Web site, you consent to the collection and use of your personal information by us.
 
@@ -47,9 +47,6 @@ In reviewing the information above, please keep in mind that SilkRoad cannot and
 | 
 
  
-
-
-[ ](http://www.aberdeen.com/link/sponsor.asp?spid=30410362&cid=3393) 
 
 
 ##### Featured Case Study
