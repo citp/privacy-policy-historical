@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000641id_/http%3A//www.whitepages.ca/10002/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207003503id_/http%3A//www.whitepages.ca/10002/privacy) for the most accurate reproduction.*
 
 # WhitePages.ca - Canadian Online Directory Assistance
 
