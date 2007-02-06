@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gearbuyer.com privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716143207id_/http%3A//www.gearbuyer.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearbuyer.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206220236id_/http%3A//www.gearbuyer.com/site/privacy.html) for the most accurate reproduction.*
 
 # GearBuyer.com -- Privacy Policy
-
-GearBuyer.com's mission is to enable you to make the best decision for all of your outdoor gear purchases. We do this by aggregating information from online retailers, then optimizing it for efficient search and comparison.
 
   
 
