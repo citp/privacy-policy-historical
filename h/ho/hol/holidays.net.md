@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003420id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206223108id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
 
-# Holidays on the Net - Advertising Information
+# Holidays on the Net - Privacy Statement and Policy
+
+  
+**Privacy Statement**
 
 Holidays on the Net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Holidays on the Net](http://www.holidays.net/)
 
@@ -16,7 +19,7 @@ Our Site uses cookies to make sure you don't see the same ad repeatedly.
 
 Advertisers
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 Mailing List
 
@@ -24,15 +27,13 @@ Holidays on the Net hosts a number of Newsletters/e-mailing lists that notify ou
 
 Current Holiday on the Net newsletters: 
 
-> **Daily Holidays** (a weekly email listing the daily holidays of the upcoming week) 
-> 
 > **Holidays newsletter** (a email "invitation" to the holiday celebrations of each month. Averaging 2 emails a month) 
 
-Holidays on the Net offers these mailing lists in association with [Yahoo Groups](http://privacy.yahoo.com/privacy/us/) and [Burstmedia](http://www.burstmedia.com/). 
+Holidays on the Net offers this mailing list in association with [Yahoo Groups](http://privacy.yahoo.com/privacy/us/). 
 
 Contact information from the registration form is ONLY used to send information about our website and upcoming holiday celebrations. 
 
-(It is the policy of Holidays on the Net to NEVER sell or exchange members names or email addresses to any other party or organization without the explicit permission of the member. Click to read more of [Yahoo Groups policy](http://www.onelist.com/info/privacy.html) or [Burstmedia's policy](http://burstmedia.com/release/about.asp?gotopage=privacy)) 
+(It is the policy of Holidays on the Net to NEVER sell or exchange members names or email addresses to any other party or organization without the explicit permission of the member. Click to read more of [Yahoo Groups policy](http://www.onelist.com/info/privacy.html)
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -95,4 +96,7 @@ Holidays on the Net
 53 Meadow Lane   
 Levittown, NY 11801   
 516-520-0366   
-[holidayboss@holidays.net ](mailto:holidayboss@holidays.net)
+[holidayboss@holidays.net](mailto:holidayboss@holidays.net)
+
+  
+
