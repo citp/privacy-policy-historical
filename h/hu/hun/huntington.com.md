@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215181910id_/http%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206032619id_/http%3A//huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
 
 # Huntington Privacy Policy
 
