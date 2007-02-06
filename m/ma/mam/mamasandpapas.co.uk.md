@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasandpapas.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207105335id_/http%3A//www.mamasandpapas.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.co.uk privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206220316id_/http%3A//www.mamasandpapas.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Mamas & Papas: the leading brand for pushchairs, baby toys, highchairs, maternitywear, babywear and furniture within the nursery industry
 
