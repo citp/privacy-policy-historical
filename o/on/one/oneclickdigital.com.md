@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneclickdigital.com privacy policy that was archived on 2006-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060715180451id_/http%3A//oneclickdigital.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclickdigital.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206174647id_/http%3A//www.oneclickdigital.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -54,16 +54,15 @@ We use cookies to help identify you when you visit our store and to customize yo
   * **Shipping, Handling, and Insurance charges are not refundable.**
   * **All returns must have a Return Merchandise Authorization (RMA) clearly labeled on the return box. Please call for RMA number prior to returning your package. Returns that are not clearly labeled with RMA number will not be accepted.**
   * **Items returned later than 10 days will not be accepted. Special order items which are not part of our regular stock may be returned for store credit only.**
-  * **All returns will be accecpted with a minimum of 15% restocking fee**
-  * **20% Cancellation  Fee applies on orders in "PROCESSING" status **
-  * **Refused packages are subjected to a 15% restocking fee**
-  * ****Returns should be sent by first class mail with delivery confirmation.****
-  * ****If the item is charged by credit card, a credit will be applied to the same account. Otherwise, a check will be issued.****
-  * ****All returns must be in the same/mint condition as received.****
-  * ****Absolutely No Returns on DJ Equipment,DLP, LCD, & Plasma Televisions over 17"****
-  * ****Extended Service Contracts can not be cancelled****
-  * **All cancellation must be done over the phone and not through email**
-  * ******If you need additional information, please feel free to contact us at[customerservice@digitalsupportdepartment.com](mailto:customerservice@digitalsupportdepartment.com)******  
-
+  * **All returns will be accecpted with a minimum of 20% restocking fee, must be in postal money order only!**
+  * ****25% Cancellation Fee applies on orders in "PROCESSING" status****
+  * ****Refused packages are subjected to a 25% restocking fee****
+  * ******Returns should be sent by first class mail with delivery confirmation.******
+  * ******If the item is charged by credit card, a credit will be applied to the same account. Otherwise, a check will be issued.******
+  * ******All returns must be in the same/mint condition as received.******
+  * ******Absolutely No Returns on DJ Equipment,DLP, LCD, & Plasma Televisions over 17"******
+  * ******Extended Service Contracts can not be cancelled******
+  * ****All cancellation must be done over the phone and not through email****
+  * ********If you need additional information, please feel free to contact us at[customerservice@digitalsupportdepartment.com](mailto:customerservice@digitalsupportdepartment.com)********
 
 
