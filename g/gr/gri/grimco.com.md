@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101194045id_/http%3A//grimco.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206205641id_/http%3A//www.grimco.com/privacy.aspx) for the most accurate reproduction.*
 
 # privacy (Privacy Policy)
 
