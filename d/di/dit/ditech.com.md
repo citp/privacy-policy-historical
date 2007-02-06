@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215071138id_/http%3A//ditech.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206155015id_/http%3A//www.ditech.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ditech.com is known for Low Mortgage Rates and Being a Leader in the Home Loan Industry
 
