@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128034014id_/http%3A//knowledgehound.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206073906id_/http%3A//www.knowledgehound.com/privacy.htm) for the most accurate reproduction.*
 
 # Knowledge Hound Website Privacy Policy
 
@@ -18,13 +18,13 @@ For the privacy policies of our advertisers, see the links below:
 [Google](http://www.google.com/privacy.html)  
 [ValueClick](http://www.valueclickmedia.com/privacy.shtml)
 
-Knowledge Hound publishes a monthly newsletter called '[One Smart Puppy](https://web.archive.org/web/20061128034014id_/http%3A//knowledgehound.com/newsltr/newslett.htm)'. You can view our Newsletter Privacy Policy [here](https://web.archive.org/web/20061128034014id_/http%3A//knowledgehound.com/newsltr/nprivacy.htm). 
+Knowledge Hound publishes a monthly newsletter called '[One Smart Puppy](https://web.archive.org/web/20070206073906id_/http%3A//www.knowledgehound.com/newsltr/newslett.htm)'. You can view our Newsletter Privacy Policy [here](https://web.archive.org/web/20070206073906id_/http%3A//www.knowledgehound.com/newsltr/nprivacy.htm). 
 
 Should changes occur at Knowledge Hound that affect this policy, we will update this document to reflect the changes. Thanks for visiting! 
 
-[Return to main page](https://web.archive.org/web/20061128034014id_/http%3A//knowledgehound.com/index.htm)
+[Return to main page](https://web.archive.org/web/20070206073906id_/http%3A//www.knowledgehound.com/index.htm)
 
 [Contact Us](mailto:khound@knowledgehound.com)
 
-© Copyright 1997-2006 by Knowledge Hound, LLC.  
+© Copyright 1997-2007 by Knowledge Hound, LLC.  
 All rights reserved.
