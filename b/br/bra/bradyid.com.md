@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209152746id_/http%3A//bradyid.com/bradyid/cms/contentView.do%3Furl%3D/BradyID/pages/GenericPage.aspx%3Fid%3D1059) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206182211id_/http%3A//www.bradyid.com/bradyid/cms/contentView.do%3Furl%3D/BradyID/pages/GenericPage.aspx%3Fid%3D1059) for the most accurate reproduction.*
 
 # BRADYID.COM PRIVACY POLICY
 
