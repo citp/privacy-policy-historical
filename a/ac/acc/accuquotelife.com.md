@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuquotelife.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207232442id_/http%3A//www.accuquotelife.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquotelife.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206104345id_/http%3A//www.accuquotelife.com/privacy.cfm) for the most accurate reproduction.*
 
 # AccuQuote - Free Term Life Insurance Quotes
 
@@ -9,7 +9,7 @@
 At AccuQuote, we take your privacy seriously. We believe you have the right to know the privacy policies of the sites you visit.  
 |  |  WHY DOES ACCUQUOTE'S QUOTE REQUEST FORM REQUIRE SO MUCH PERSONAL INFORMATION? |   
 ---|---|---  
-AccuQuote's database contains information on hundreds of life insurance products offered by more than 200 life insurance companies. Each company uses different criteria to rate prospective customers. The information you provide on the quote request form, combined with each insurance company's guidelines, allows us to accurately determine which products and rate classes you'll likely be able to qualify for. The consequence of declining to provide some of the requested information is that the quotes you receive may be inaccurate, and/or that we may not be able to provide a quote for you at all.  
+AccuQuote's database contains information on hundreds of life insurance products offered by more than 140 life insurance companies. Each company uses different criteria to rate prospective customers. The information you provide on the quote request form, combined with each insurance company's guidelines, allows us to accurately determine which products and rate classes you'll likely be able to qualify for. The consequence of declining to provide some of the requested information is that the quotes you receive may be inaccurate, and/or that we may not be able to provide a quote for you at all.  
   
 |  |  WHEN DO YOU SEND MY INFORMATION TO AN INSURANCE COMPANY? |   
 ---|---|---  
@@ -33,7 +33,7 @@ You may be contacted by one of our people to clarify some of the information you
   
 |  |  WILL YOU CONTACT ME IF I'M ON THE NATIONAL DO NOT CALL REGISTRY? |   
 ---|---|---  
-We do not wish to make contact with individuals or companies that are not interested in receiving information or entertaining the possibility of obtaining insurance through our firm. When you fill out our quote request form you are explicitly initiating a relationship with us (as defined by the National Do Not Call Registry), inviting and consenting to the receipt of information (which may be provided to you online, by fax, phone, email, US Mail, etc.) and, as such, are waiving any right extending in perpetuity to claim that we contacted you without your express consent. At any time we will immediately honor any request to be placed on our internal "do not contact" list.  
+We do not wish to make contact with individuals or companies that are not interested in receiving information or entertaining the possibility of obtaining insurance through our firm. When you fill out our quote request form you are explicitly initiating a relationship with us, inviting and consenting to the receipt of information (which may be provided to you online, by fax, phone, email, US Mail, etc.) and, as such, are waiving any right (including claims under the Telemarketing Sales Rule) extending in perpetuity to claim that we contacted you without your express consent. At any time we will immediately honor any request to be placed on our internal "do not contact" list.  
   
 |  |  WHAT IS YOUR POLICY ON SPAMMING? |   
 ---|---|---  
