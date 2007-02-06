@@ -1,21 +1,26 @@
-> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116020037id_/http%3A//abcradio.go.com/story%3Fid%3D212) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206142851id_/http%3A//abcradio.go.com/story%3Fid%3D212) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Policy Rights
 
-**Effective Date: January 1, 2006  
-ABC Radio Network, Inc. Privacy Policy**
+|  | 
 
-For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, ABC Radio Network, Inc. is dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+## **Privacy Policy/Your California Privacy Rights**
+
+ **  
+Effective Date: January 1, 2006  
+ABC Radio Network, Inc. Privacy Policy **
+
+For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, Radio Networks, LLC. is dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
 **Kids' Privacy Policy:**
 
 We do not knowingly collect information from children under the age of 13.
 
-**Q. 1** What information does this Privacy Policy cover? 
+**Q. 1 What information does this Privacy Policy cover?**
 
 A. 1 Except as otherwise specifically described below in A2, A8 (which applies to information gathered about you offline), and A9 (which applies to information collected by any method), this Privacy Policy applies only to personally identifiable information collected on the web site(s) where this Privacy Policy is posted and does not apply to any other information collected through any other means. This Privacy Policy applies to our use and sharing of personally identifiable information collected on and after the date that this Privacy Policy is posted. 
 
-As used in this Privacy Policy, "The Walt Disney Family of Companies" includes The Walt Disney Company and all of its subsidiary entities, including companies such as ABC and ESPN that generally do not offer their products and services under the "Disney" brand name, as well as companies that generally do offer their products and services under the "Disney" brand name. (At times, our web site(s) may refer to The Walt Disney Family of Companies as "The Walt Disney family of companies.") ABC Radio Network, Inc. is a member of The Walt Disney Family of Companies, and is referred to in this Privacy Policy as "we," "us," "our," and "ourselves."
+As used in this Privacy Policy, "The Walt Disney Family of Companies" includes The Walt Disney Company and all of its subsidiary entities, including companies such as ABC and ESPN that generally do not offer their products and services under the "Disney" brand name, as well as companies that generally do offer their products and services under the "Disney" brand name. (At times, our web site(s) may refer to The Walt Disney Family of Companies as "The Walt Disney family of companies.") Radio Networks, LLC, Inc. is a member of The Walt Disney Family of Companies, and is referred to in this Privacy Policy as "we," "us," "our," and "ourselves."
 
 In keeping with the traditions of The Walt Disney Company, we refer to our customers as "guests." When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address or telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." Finally, the terms of this Privacy Policy are subject to all applicable laws. 
 
@@ -33,9 +38,9 @@ Our web site(s) also may use cookies. Cookies are pieces of information that a w
 
 Our web site(s) may use a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of web sites. We also may use these technical methods to analyze the traffic patterns on our web site(s), such as the frequency with which our users visit various parts of our web site(s). These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also may use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
 
-Advertisements may be managed and placed on our web site(s) by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on our web site(s) also may use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our web site(s) and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our web site(s), our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site.   
-**  
-Information That We Collect from Others**  
+Advertisements may be managed and placed on our web site(s) by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on our web site(s) also may use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our web site(s) and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our web site(s), our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
+
+**Information That We Collect from Others**  
 We may supplement personally identifiable information that we have collected directly from our guests with other information that we obtain from third parties and other members of The Walt Disney Family of Companies. In addition, we may obtain information about individuals who are not yet users of our web site(s) or guests of The Walt Disney Family of Companies. In addition, when we associate information that we obtain from third parties or other members of The Walt Disney Family of Companies with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with third parties. 
 
 **Q. 3 How is your personally identifiable information used and shared?**
@@ -43,7 +48,7 @@ We may supplement personally identifiable information that we have collected dir
 A. 3 As described in detail below, we may use your personally identifiable information in many ways, including sending you promotional materials, and sharing your information with other members of The Walt Disney Family of Companies and third parties so that these other members of The Walt Disney Family of Companies and third parties can send you promotional materials. (By "promotional materials," we mean communications that directly promote the use of a web site, or the purchase of products or services.) These promotional materials may concern our products and services, and/or the products and services of another member of The Walt Disney Family of Companies or a third party. As outlined below in A4, you may be entitled to "opt-out" of certain uses of your personal information. 
 
 **ABC Radio Network, Inc.; Disney Family of Companies; Licensees and Co-Branding Participants**  
-Personally identifiable information collected under this Privacy Policy may be used by us and shared with other members of The Walt Disney Family of Companies for many purposes. (We call this type of sharing "promotional sharing" or sharing for "promotional purposes.") For example, we and other members of The Walt Disney Family of Companies may use your personal information to send you promotional materials about goods and services (including special offers and promotions) either offered by us, The Walt Disney Family of Companies or third parties. In some circumstances, these promotional materials may be sent to you by postal mail, e-mail or other means. Your ability to opt out of receiving these communications is described in A4 below. When we share your personal information with another member of The Walt Disney Family of Companies under any circumstance described in this “ABC Radio Network, Inc.; Disney Family of Companies; Licensees and Co-Branding Participants” section, your personal information will become permanently subject to the information use and sharing practices of that other member of The Walt Disney Family of Companies, and that other member will not be restricted by this Privacy Policy with respect to its use and further sharing of your personal information.
+Personally identifiable information collected under this Privacy Policy may be used by us and shared with other members of The Walt Disney Family of Companies for many purposes. (We call this type of sharing "promotional sharing" or sharing for "promotional purposes.") For example, we and other members of The Walt Disney Family of Companies may use your personal information to send you promotional materials about goods and services (including special offers and promotions) either offered by us, The Walt Disney Family of Companies or third parties. In some circumstances, these promotional materials may be sent to you by postal mail, e-mail or other means. Your ability to opt out of receiving these communications is described in A4 below. When we share your personal information with another member of The Walt Disney Family of Companies under any circumstance described in this “Radio Networks, LLC.; Disney Family of Companies; Licensees and Co-Branding Participants” section, your personal information will become permanently subject to the information use and sharing practices of that other member of The Walt Disney Family of Companies, and that other member will not be restricted by this Privacy Policy with respect to its use and further sharing of your personal information.
 
 When you purchase or request products or services, promotional materials may accompany delivery of that product or service. We refer to sending you promotional materials in these circumstances as "Fulfillment Uses" of your personal information. Because these promotional materials accompany products or services that you have requested, your opt-outs for us and other members of The Walt Disney Family of Companies under A4 below will not apply to any of these Fulfillment Uses.
 
@@ -76,17 +81,11 @@ A. 4 With regard to personal information that you have provided under this Priva
 
 **The three opt-out choices we may provide you are:**
 
- _Third Parties_
+_Third Parties:_ You may choose to opt-out of receiving promotional materials from third parties. If you do not choose this opt-out, we may share your personal information so that third parties can send you these promotional materials. Please bear in mind that this opt-out choice for "Third Parties" will not apply to the licensees and co-branding participants described above in A3.
 
-: You may choose to opt-out of receiving promotional materials from third parties. If you do not choose this opt-out, we may share your personal information so that third parties can send you these promotional materials. Please bear in mind that this opt-out choice for "Third Parties" will not apply to the licensees and co-branding participants described above in A3.
+_The Walt Disney Family of Companies:_ You may choose to opt-out of receiving promotional materials from other members of The Walt Disney Family of Companies, including the licensees and co-branding participants described above in A3. 
 
- _The Walt Disney Family of Companies_
-
-: You may choose to opt-out of receiving promotional materials from other members of The Walt Disney Family of Companies, including the licensees and co-branding participants described above in A3. 
-
-_ABC Radio Network, Inc._
-
-: You may choose to opt-out of receiving promotional materials concerning the products and services of ABC Radio Network, Inc.
+_Radio Networks, LLC.:_ You may choose to opt-out of receiving promotional materials concerning the products and services of Radio Networks, LLC.
 
 Please keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from us, (b) we or other members of The Walt Disney Family of Companies use your personal information for either "Operational Uses" or "Fulfillment Uses" (as described above in A3), (c) you either have engaged, simultaneously engage, or later engage in Sponsored Activities (as described above in A3), or (d) we and/or other members of The Walt Disney Family of Companies share your personal information under the provisions of A3 above with respect to "Companies That Facilitate Communications and Transactions With You," "Third Parties Offering Promotions, Products, or Services," "Sale of Business," or "Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites, The Walt Disney Family of Companies and Others."
 
@@ -102,10 +101,20 @@ A. 6 You may be able to access and update the contact information you gave us on
 
 **Q. 7 How will you know if we amend this Privacy Policy?**
 
-A. 9 As of January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [**caprivacy.abcrn.newmedia@abcrn.com**](mailto:%20caprivacy.abcrn.newmedia@abcrn.com) or write us at:
+A. 7 We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use and/or share your personal information, we will notify you of such changes by sending you an e-mail at the last e-mail address that you provided to us, and/or by prominently posting notice of the changes on our web site(s). Any such material changes to this Privacy Policy will be effective thirty (30) calendar days following either our dispatch of an e-mail notice to you or our posting of notice of the changes on our web site(s). Any such material changes to this Privacy Policy may affect our use and sharing of personal information that you provided to us before our notification to you of the changes. If you do not wish to permit material changes in our collection, use or sharing of your personal information that you have provided to us before the effective date of such changes, you must so notify us before the effective date. Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes.
 
-ABC Radio Network, Inc.  
-Attention: California Privacy Compliance  
-125 West End Avenue  
-New York, New York 10023  
+**Q. 8 Information Gathered Offline**
 
+A. 8 The discussion in this A8 applies only to personally identifiable information that you provide to us offline for the purpose of obtaining a product or service primarily for personal, family or household purposes. We may collect this type of personally identifiable information by telephone, mail or other means. We may use this information in a variety of ways. For example, we may use this information to send you promotional materials, and we may share this information with other members of The Walt Disney Family of Companies and other companies so that they can send you promotional materials. We also may use this information for purposes other than sending you promotional materials. For example, we may use this information to process orders requested by you, or to respond to you if you contact us for help. In each instance, our collection, use and sharing of this information will be in accordance with all applicable laws. Finally, from time to time, we may offer you the opportunity to opt-out of certain communications based upon contact information that you provide us offline.
+
+**Q. 9 Do California residents have special rights?**
+
+A. 9 As of January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to **[caprivacy.abcrn.newmedia@abcrn.com](mailto:caprivacy.abcrn.newmedia@abcrn.com)** or write us at:
+
+Radio Networks, LLC.  
+Attention: ABC Radio Networks   
+Digital Media Division  
+California Privacy Compliance  
+444 Madison Ave  
+9th Floor  
+New York, New York 10022
