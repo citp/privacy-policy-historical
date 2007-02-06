@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net4.in privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209121517id_/http%3A//www.net4.in/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net4.in privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206042427id_/http%3A//www.net4.in/asp/privacy.asp) for the most accurate reproduction.*
 
 # net4 :: Leaders in IP based communications
 
