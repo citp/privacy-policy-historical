@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926162433id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207130014id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
@@ -6,19 +6,19 @@
   
 ---  
   
-Ten Of The Best: National Highlights
+Ten Of The Best: Spring Highlights
 
-| **8/10** | [Asics Kingston Running Festival, Surrey](https://web.archive.org/events/viewevent.asp?EN=30206)  
+| **11/2** | [Dover Mercury Half-Marathon, Kent](https://web.archive.org/events/viewevent.asp?EN=34650)  
 ---|---  
-**8/10** | [Liverpool 10K, Merseyside](https://web.archive.org/events/viewevent.asp?EN=33089)  
-**8/10** | [Henley Half-Marathon, Oxon](https://web.archive.org/events/viewevent.asp?EN=31364)  
-**15/10** | [The Great Eastern Run, Cambs](https://web.archive.org/events/viewevent.asp?EN=31948)  
-**15/10** | [Swindon Half-Marathon, Wilts](https://web.archive.org/events/viewevent.asp?EN=31733)  
-**15/10** | [Prince's Trust 10K @ Legoland, Berks](https://web.archive.org/events/viewevent.asp?EN=32095)  
-**22/10** | [Exmoor Stagger 15, Somerset](https://web.archive.org/events/viewevent.asp?EN=26218)  
-**22/10** | [Maidstone Half-Marathon, Kent](https://web.archive.org/events/viewevent.asp?EN=34130)  
-**29/10** | [Worksop Half-Marathon, Notts](https://web.archive.org/events/viewevent.asp?EN=31939)  
-**29/10** | [Snowdonia Marathon, Gwynedd](https://web.archive.org/events/viewevent.asp?EN=30785)  
+**18/2** | [St Peters Great East Run, Suffolk](https://web.archive.org/events/viewevent.asp?EN=34706)  
+**25/2** | [Great North West Half-Marathon, Lancs](https://web.archive.org/events/viewevent.asp?EN=34226)  
+**25/2** | [Tunbridge Wells Half-Marathon, Kent](https://web.archive.org/events/viewevent.asp?EN=35464)  
+**25/2** | [Eastbourne Half-Marathon, East Sussex](https://web.archive.org/events/viewevent.asp?EN=34983)  
+**4/3** | [Puma Woburn 10K, Beds](https://web.archive.org/events/viewevent.asp?EN=34838)  
+**4/3** | [The Great Daffodil Run, Northants](https://web.archive.org/events/viewevent.asp?EN=32771)  
+**11/3** | [Hastings Half-Marathon, East Sussex](https://web.archive.org/events/viewevent.asp?EN=31753)  
+**17/3** | [Rhayader 'Round the Lakes' 20, Powys](https://web.archive.org/events/viewevent.asp?EN=34074)  
+**25/3** | [Liverpool Half-Marathon, Merseyside](https://web.archive.org/events/viewevent.asp?EN=34929)  
 | [More races](https://web.archive.org/entry)  
   
 [](https://web.archive.org/asicsonlineentrypod)  
