@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the competitionseries.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129033428id_/http%3A//www.competitionseries.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitionseries.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207085229id_/http%3A//www.competitionseries.com/privacy.php) for the most accurate reproduction.*
 
-# 2006 StreetConcepts Competition Series
+# 2007 StreetConcepts Competition Series
 
 This is the web site of **StreetConcepts Inc.**.
 
