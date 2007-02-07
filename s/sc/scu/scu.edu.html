@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the scu.edu privacy policy that was archived on 2006-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061210112024id_/http%3A//www.scu.edu/utility/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scu.edu privacy policy that was archived on 2007-02-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070207191440id_/http%3A//www.scu.edu/utility/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Santa Clara University --><!-- Page generated 2006-09-12 22:33:39 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Santa Clara University Web Site - Privacy Statement</title> <meta name="Description" id="Description" content="Santa Clara University's privacy statement applies to Web resources hosted on www.scu.edu.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Santa Clara University --><!-- Page generated 2007-01-05 10:22:53 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Santa Clara University Web Site - Privacy Statement</title> <meta name="Description" id="Description" content="Santa Clara University's privacy statement applies to Web resources hosted on www.scu.edu.">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="Santa Clara University, SCU, university, universities, jesuit university, catholic university, college, colleges, Santa Clara, Jesuit, law school, business school, engineering, graduate programs, college admissions, financial aid, computer engineering, electrical engineering, mechanical engineering, civil engineering, executive MBA, part-time MBA, arts and sciences, professional development, ethics research, de saisset, Paul Locatelli, Catholic, education, graduate, undergraduate, masters, MBA, higher education, higher learning, Silicon Valley, Broncos, ethics, California Mission, California, San Jose, news, events, ">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server CommonSpot v4.6.2.50">
@@ -372,11 +372,31 @@ function ImageSet(imgID,newTarget)
 		<div style="float:right;">
 		
 			<div class="CS_Element_CustomCF"> <div id="CS_CCF_691664_29054"> 
-<form method="get" action="/sitesearch/index.cfm">
-<label for="q">Search  </label>
-<input type="text" value="" name="q" class="searchinput">
-<input name="search" type="image" src="/images/yellow_go_btn.gif" alt="Search">
-</form>
+	<script language="Javascript" type="text/javascript">
+	function submitSearch(){
+		with(document){
+			if(u.q.value.length > 0){	
+				u.submit();
+				}
+			}
+		}
+	</script>
+	<form id="u" name="u" method="get" action="/search/index.cfm">
+	
+		<fieldset>
+			<div class="s">
+			<span style="font-size:smaller;">Search</span> 
+			<input type="radio" id="s1" name="v" value="1" checked="checked"><label for="s1">SCU Web site</label> 
+			<input type="radio" id="s2" name="v" value="2"><label for="s2">People</label> 
+			<input type="text" id="s" name="q" value="" class="searchinput">
+			<input name="search" type="image" src="/images/yellow_go_btn.gif" class="goSearch" alt="Search">
+			</div>
+		</fieldset>
+	</form>
+	<form id="mob-search" method="get" action="/search/index.cfm">
+    	<input type="text" name="q" size="8" value="">
+        <input type="submit" value="search">
+    </form>
 </div> </div> 
 		
 		</div>
