@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719135239id_/http%3A//www.freedom2surf.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207094422id_/http%3A//www.freedom2surf.net/privacypolicy) for the most accurate reproduction.*
 
 # Freedom2surf - Privacy Policy
+
+[](https://web.archive.org/adsl/award.php)
 
 |  | 
 
@@ -21,6 +23,13 @@ This policy sets out how we will use and protect your personal data. Freedom2sur
 
   * We use "cookies" on this site. Cookies are small pieces of computer code which are stored on your computer's hard drive and which are intended to improve your use of this site. 
   * Cookies can be disabled by amending the Internet options in your browser. 
+
+**Collected Data**
+
+  * We take the security of your data very seriously, and not only protect your security sensitive transactions with Secure Socket Layer (SSL) technology but also undertake not to share personal data with third parties unless required by law.
+  
+
+  * We use [Google Analytics](http://www.google.com/analytics/index.html) to track, store and report website statistics under [Google's own privacy policy](http://www.google.com/intl//privacy.html) which makes this information available only to authorised freedom2surf staff. In-line with our policy of not sharing sensitive information with third parties we explicitly ensure that no personal information is sent to or stored by Google Analytics.
 
 **General**
 
