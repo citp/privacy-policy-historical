@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111092228id_/http%3A//www.ubergizmo.com/15/archives/2004/08/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207175435id_/http%3A//www.ubergizmo.com/15/archives/2004/08/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
