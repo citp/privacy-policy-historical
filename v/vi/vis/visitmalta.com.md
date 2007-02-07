@@ -1,65 +1,75 @@
-> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016015059id_/http%3A//www.visitmalta.com/en/about_us/visitmaltaprivacypolicy/vpp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207103935id_/http%3A//www.visitmalta.com/privacy-policy) for the most accurate reproduction.*
 
-# ___ VISIT MALTA ___
+# The Official Tourism Site for Malta, Gozo and Comino : :Privacy Policy
 
-| 
+## 1.0 Privacy Policy 
+
+We are committed to protecting our visitors' privacy and we will not collect any personal information about you as a visitor unless you provide it voluntarily. Any personal information you communicate to us is kept by Visitmalta Limited itself in accordance with the Data Protection Act 2001.  
+
+
+## 2.0 The Data Protection Act 2001
+
+The Data Protection Act 2001 has been enacted on the 14th December 2001 and came fully into force as from the 15th July 2003. We therefore have a legal duty to respect and protect any personal information we collect from you and we will abide by such duty. We take all safeguards necessary to prevent unauthorised access and we shall not pass on details collected from you as a visitor, to any third party or Government Department unless you give us your consent to do so and unless Visitmalta Limited is compelled to do so by law. Further information on your data privacy rights are available and can be accessed from the web site http://www.mjha.gov.mt/home.html  
+
+
+## 3.0 Information Collected
+
+As a visitor, we collect three types of information on you:  
+Contact or feedback information;  
+Web page download information;  
+Site usage information.  
+
+
+> ## 3.1 Contact or Feedback Information
+> 
+> When you fill the form on the "CONTACT US", we use the personal information submitted in the form only to respond to your message. This personal information will not be kept longer than necessary and will be deleted once the feedback requirement is met.
+> 
+> Visitmalta Limited is responsible to reply to the feedback form received. The feedback form should contain the following information:
+> 
+> \- Name and Surname,   
+> \- Email,  
+> \- Country,   
+> \- Address and comments. 
+> 
+> Failure to enter information relative to the above, will result in the form will not being sent.
+> 
+> ## 3.2 Web page Download Information
+> 
+> If you read or download information from our web portal, we automatically collect and store the following non-personal information:  
+> 
+> 
+>   * Your server address 
+>   * Your top-level domain name (e.g. .org, .com, .net, .gov, .de, .uk) 
+>   * The date and time you visited this site 
+>   * The pages of this site you accessed, and the documents you downloaded 
+>   * The previous site you visited 
+>   * The type of web browser you used 
+> 
+
+> 
+> The operating system of the machine running your web browser and the type and version of your web browser.  
+> Please note that this information is strictly for the sole use of Visitmalta Limited. No such information will be released to third parties without your prior consent, unless Visitmalta Limited is compelled to do by law.  
+> 
+> 
+> ## 3.3 Site Usage Information
+> 
+> Visitmalta Limited creates "cookies" for each session when you visit our web portal. These cookies store information that is sent to your browser - along with a web page - when you access a web page. Your browser will return the cookie information only to the domain from where the cookie originated, i.e., Visitmalta and no other web site can request this information. When you return to the Visitmalta web portal, the cookie is sent back to the web server, along with your new request.  
+> 
+
+## 4.0 Links to other Web Sites
+
+Our site has a number of links to other local and international organisations and agencies. In some cases, for the benefit of the visitor, it may be required that we link to other web sites of other organisations after permission is obtained from them respectively.  This privacy policy applies only to www.visitmalta.com. Third party web sites that are linked to from this site are not covered by this statement. Upon linking to another web site, you are no longer on our web portal and you become subject to the privacy policy of the new web site. It is therefore advisable to check the privacy policy of the web site in question to determine how your information will be used when visiting that web site.  
+Third parties who have material and/or information on this web portal are responsible for ensuring that materials and information submitted directly or indirectly for inclusion on this web portal complies with relevant legislation. The Visitmalta Limited web portal does not guarantee the accuracy of such material and information provided and shall not be responsible for error, omission or inaccuracy in the material or information, misrepresentation and any and all loss, negligence or damage caused by relying on the material and information provided in the web portal, any individual’s disappointment or any failure or alleged failure in the delivery or non-delivery of services provided therein. The truthfulness of the information and material provided as well as confirmation of the accuracy and currency of such should be sought directly from the operators or establishments concerned. Furthermore any complaints or loss or damage suffered by the user are to be dealt with directly with the operators or establishments concerned.  
+
+
+## 5.0 Access to your information
+
+Visitmalta Limited will retain the personal information that it holds on any person or organization until notice requiring removal of such information is given by such person or organisation, Any person or organization who has registered with this web portal, and who believes that we have gathered and stored personal information relating to them, may request, at any point in time, to view that information.  Any inaccuracies in the information submitted may be corrected and where applicable erased,  if deletion has not already taken place.  
+
+
+## 6.0 Changes to this Privacy Policy
+
+If there are any changes to this privacy policy, we will replace this page with an updated version. It is therefore in your own interest to visit regularly the "Privacy Policy" page so as to be aware of any changes which may occur from time to time.
 
   
-| 
 
-This web site is maintained and administered by the Malta Tourism Authority (MTA). This privacy policy details how we deal with any information submitted to us through this web site by the public. Our privacy policy is based on, and is consistent with, Malta's Data Protection Laws. These laws, and other relevant legislation, can be viewed online at [www.justice.magnet.mt](http://www.justice.magnet.mt/)
-
-**What happens when you visit our web site**
-
-When you visit this web site, a record of your visit is kept for statistical and research purposes only. This helps us know which aspects of our site are the most visited, and the most of interest, and helps us include more of what we understand you would like to know about Malta. Similar records may be kept when you use any of the interactive features of this web site. The information kept is:
-
-• Your server address  
-• Your top-level domain name (e.g. .org, .com, .net, .gov, .de, .uk)  
-• The date and time you visited this site  
-• The pages of this site you accessed, and the documents you downloaded  
-• The previous site you visited  
-• The type of web browser you used
-
-We will not use this information to identify you. However, this information may be used for this purpose in the unlikely event that a government law enforcement body or other party obtains and exercises a warrant, sub poena, or similar legal order to obtain access to our service provider's logs.
-
-**Cookies**
-
-To collect this information and save any preferences you may indicate to us on the various interactive subscriber form for mailing lists, we use cookies. Cookies are a small string of code that a web site can send to your web browser. A cookie cannot extractinformation from your computer, transmit computer viruses, or capture or transmit your email address. You can decide to de-activate cookies on your computer by accessing your web browser settings.  
-  
----  
-  
-  
-| 
-
-**Personal Information**
-
-Some of the interactive features of this site, including forms used under the My Malta personal travel brochure facility, Contact Us, Keep in Touch, and for requesting information under What's On (events mailing list) may require you to enter personal information. The MTA stores this information in encrypted form, and disposes of it once the purpose for which it was collected has been achieved. The length of time for which it is stored may vary according to the purpose for which it has been collected. No such information will be released to a third party without your prior consent, unless the MTA is compelled to do so by law.  
-  
-**Registering for E-Mail News & Updates**
-
-If you decide to register to receive updates from us, such as details of events or activities of interest to you, we may ask you to submit information on preferences and some personal details. This information will be stored for our use only for the following purposes:
-
-• For research and statistics  
-• To identify your interests  
-• And to add your name to our mailing list (with your consent only)
-
-Our aim in collating this information is to be able to provide a more relevant and timely service on news and information on the Maltese Islands. As a result, you may receive information from us relating to your preferences and details of holidays, special offers and other matters of interest. You are able to unsubscribe from the mailing lists at any time.
-
-The information you provide will not be released to any third party without your consent, which will be indicated to you at the time of registration, or at a time thereafter. If you give your consent, we may pass on generic, but never specific, personal information, to our tourism partners for purposes of research and marketing. Please note that the MTA disclaims any responsibility or liability for the uses to which such information is put by our tourism partners.
-
-If you unsubscribe from our mailing lists, we will remove your name from our database mailing lists, but we will not be held responsible for ensuring that our tourism partners remove your name from their mailing lists.  
-  
----  
-  
-| 
-
-**Access to Information**
-
-Any person or organisation, who has registered with this web site, and who believes that we have gathered and stored personal information relating to them, may request  
-to view that information under the provisions of the relevant data protection laws.Any request is to be directed to: [webmaster@visitmalta.com  
-](mailto:webmaster@visitmalta.com)  
-See [Contact Us](https://web.archive.org/web/20061016015059id_/http%3A//www.visitmalta.com/en/about_us/index.html) for our telephone and address.
-
-[Disclaimers](https://web.archive.org/web/20061016015059id_/http%3A//www.visitmalta.com/en/about_us/visitmaltaprivacypolicy/disc.html)  
-  
----
