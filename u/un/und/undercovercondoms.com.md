@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123060037id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207032851id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
 
 # Undercover Condoms - Privacy Policy
 
