@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014907id_/http%3A//iphantom.com/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208200602id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
 
 # Phantom Technologies
 
@@ -13,7 +13,7 @@ Phantom Technologies LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is 
   
 ---|---  
   
-If you have questions or concerns regarding this statement, you should first contact our support team at support@iphantom.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our support team at [support@iphantom.com](mailto:support@iphantom.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Welcome to the online Privacy Statement page for the iPhantom.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
 
