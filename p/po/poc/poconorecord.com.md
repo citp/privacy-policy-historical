@@ -1,26 +1,36 @@
-> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211085428id_/http%3A//www.poconorecord.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208174946id_/http%3A//www.poconorecord.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.*
 
-# Pocono Record Online: Privacy Policy
+# Pocono Record - Privacy Policy
 
-[](http://ads.poconorecord.com/ads/adclick.php?n=ad74923b)
+  
+Member of Real Cities Network 
 
-* * *
+| 
 
-_This privacy policy was last updated on 11/30/04._
+## Privacy Policy
+
+## This privacy policy was last updated 11/21/05 
 
 Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "Pocono Record"). This Privacy Policy describes how we treat personal information received about you when you visit the Pocono Record. 
 
-### Information Collected
+Website Usage Information
 
-**Web Site Usage Information** : We automatically collects IP addresses and web site usage information from you when you visit the Pocono Record. This information helps us in evaluating how our visitors use and navigate the Pocono Record on an aggregate basis, including the number and frequency of visitors to each page of the Pocono Record, and the length of their visits. 
+We automatically collects IP addresses and web site usage information from you when you visit the Pocono Record. This information helps us in evaluating how our visitors use and navigate the Pocono Record on an aggregate basis, including the number and frequency of visitors to each page of the Pocono Record, and the length of their visits. 
 
-**Special Features:** When you use some of the special features of the Pocono Record and at other times, we may collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your interests and similar information.
+Features
 
-**Surveys and Forms:** We may conduct occasional online surveys or ask you to fill in forms. For example, when you are within the Pocono Record, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys and forms are entirely voluntary and you may easily decline to participate.
+When you use some of the special features of the Pocono Record and at other times, we may collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your interests and similar information. 
 
-**Children:** We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on the Pocono Record without their permission.
+Surveys and Forms
 
-**How We Use Information Collected**  
+We may conduct occasional online surveys or ask you to fill in forms. For example, when you are within the Pocono Record, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys and forms are entirely voluntary and you may easily decline to participate. 
+
+Children
+
+We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on the Pocono Record without their permission. 
+
+How We Use Information Collected
+
 We may use information that you provide us in the following ways: 
 
   * For the purposes for which you specifically provided the information, for example, when you request that additional information be sent to you, we will use your personal information to process your request. 
@@ -39,42 +49,46 @@ We may disclose and use personally identifiable information in special circumsta
 
 Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of Ottaway unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
 
-**Your Ability to Choose  
-**You can always decide not to provide your personal information to the Pocono Record, however in some cases failing to provide such information may limit your ability to use certain or features available at the Pocono Record. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [webmaster@poconorecord.com](mailto:webmaster@poconorecord.com). 
+Your Ability to Choose
 
-**Cookies**  
-We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site's special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Cookies are small files (just a few hundred bytes) and should not pose any significant disk-space concerns. When you visit the Pocono Record, or use some of the features, like saving your personalized Pocono Record settings, we may pass cookies to your computer. Some of the cookies that we pass to your computer are long term. Otherwise, we would need to ask you for certain information with each new session, such as your login information. Some cookies do expire after a short period of time.
+You can always decide not to provide your personal information to the Pocono Record, however in some cases failing to provide such information may limit your ability to use certain or features available at the Pocono Record. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [webmaster@poconorecord.com](mailto:webmaster@poconorecord.com)
 
-Other cookies that you will receive during your sessions here are from third-party service providers or third party network advertisers. These network advertisers may use their own cookies in order to serve ads on the Pocono Record, ensuring that you will not see the same ads over and over again. We are not responsible for the cookies of such third parties or any use of your personal information collected by such third parties.
+Cookies
 
-**Pocono Record Ads**  
-When you view an ad for the Pocono Record on other sites, our third party advertising company may place or recognize a unique cookie on your browser. The Pocono Record and the advertising company may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which Pocono Record pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts.
+We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site's special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Cookies are small files (just a few hundred bytes) and should not pose any significant disk-space concerns. When you visit the Pocono Record, or use some of the features, like saving your personalized Pocono Record settings, we may pass cookies to your computer. Some of the cookies that we pass to your computer are long term. Otherwise, we would need to ask you for certain information with each new session, such as your login information. Some cookies do expire after a short period of time. 
 
-**Links to Third Party Web Sites**  
-We may make third party content or services from other web sites available to you from links located on the Pocono Record. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators.
+Other cookies that you will receive during your sessions here are from third-party service providers or third party network advertisers. These network advertisers may use their own cookies in order to serve ads on the Pocono Record, ensuring that you will not see the same ads over and over again. We are not responsible for the cookies of such third parties or any use of your personal information collected by such third parties. 
 
-**Security**  
+Pocono Record Ads
+
+When you view an ad for the Pocono Record on other sites, our third party advertising company may place or recognize a unique cookie on your browser. The Pocono Record and the advertising company may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which Pocono Record pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts. 
+
+Links to Third Party Websites
+
+We may make third party content or services from other web sites available to you from links located on the Pocono Record. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators. 
+
+Security
+
 The personally identifiable information we collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information. 
 
-**Review and Correction**  
-You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [webmaster@poconorecord.com](mailto:webmaster@poconorecord.com).
+Review and Correction
 
-**Exclusions**  
+You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [webmaster@poconorecord.com](mailto:webmaster@poconorecord.com)
+
+Exclusions
+
 Any submissions that you make to any public areas of the Pocono Record including but not limited to, chat services, bulletin boards, reviews, letters to the editor (collectively "Public Areas") will be public and will not be subject to this Privacy Policy. We do not control, and are not responsible for, the actions of other users of the Pocono Record with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by us and by others to send you unsolicited messages and for other purposes. 
 
-**Policy Modifications**  
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
+Policy Modifications
 
-**Comments and Questions**  
+We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. 
+
+Comments and Questions
+
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [webmaster@poconorecord.com](mailto:webmaster@poconorecord.com) or by regular mail at: 511 Lenox Street, Stroudsburg, PA 18360, Attn: Webmaster. 
 
-|  |  |  |   
+| 
 
+##### Pocono Job Search
 
-* * *
-
-* * *
-
-* * *
-
- 
+ADVERTISEMENT
