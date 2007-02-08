@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficland.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111151109id_/http%3A//trafficland.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficland.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208225636id_/http%3A//www.trafficland.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TrafficLand.com - Traffic Cameras, Traffic Video, Live Traffic Cams, U.S.
 
