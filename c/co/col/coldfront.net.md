@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2006-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060814202203id_/http%3A//www.coldfront.net/index/content/view/106/51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208182304id_/http%3A//www.coldfront.net/index/content/view/106/51) for the most accurate reproduction.*
 
 # Coldfront - Come in and Feel the Chill! - Privacy Policy
 
