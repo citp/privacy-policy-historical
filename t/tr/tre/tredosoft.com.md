@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tredosoft.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207190552id_/http%3A//tredosoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tredosoft.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208170437id_/http%3A//tredosoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TredoSoft
 
@@ -30,4 +30,4 @@ Advertisements apprearing on this site will have their own privacy policies prov
 
 Send us an email via [our feedback form](https://web.archive.org/feedback) if you have further questions about this policy. 
 
-Submitted by [Yousif](https://web.archive.org/user/1 "View user profile.") on Tue, 02/05/2006 - 1:40pm.  1483 reads 
+Submitted by [Yousif](https://web.archive.org/user/1 "View user profile.") on Tue, 02/05/2006 - 1:40pm.  2351 reads 
