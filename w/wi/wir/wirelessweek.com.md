@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223612id_/http%3A//www.wirelessweek.com/info/CA513927.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208230759id_/http%3A//www.wirelessweek.com/info/CA513927.html) for the most accurate reproduction.*
 
 # Privacy Policy - 3/30/2005 11:09:00 AM - Wireless Week - CA513927
 
