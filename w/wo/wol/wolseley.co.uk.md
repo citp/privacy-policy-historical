@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolseley.co.uk privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928110115id_/http%3A//www.wolseley.co.uk/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolseley.co.uk privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208134946id_/http%3A//www.wolseley.co.uk/corp/privacy.html) for the most accurate reproduction.*
 
 # Wolseley UK
 
