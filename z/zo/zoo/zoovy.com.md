@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2006-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060718085741id_/http%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208100309id_/http%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
 
 # Zoovy Privacy Policy
 
-#### 1\. PRIVACY STATEMENT
+## 1\. PRIVACY STATEMENT
 
 Zoovy, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website zoovy.com. This policy does not address the individual websites that may be hosted by Zoovy. Zoovy recommends, but does not require that these individual sites poses an individual privacy statement. You should contact the owner of the individual site, regarding their privacy policy and information disclosure practices. 
 
@@ -76,12 +76,11 @@ This site gives users the following options for changing and modifying informati
 
 #### 14\. CONTACTING ZOOVY
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](http://www.zoovy.net/contact.php) or contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](http://www.zoovy.net/contact.php) or contact:
 
 Zoovy, Inc.  
 Customer Care  
 445 Marine View Avenue  
 Suite 200  
 Del Mar, CA 92014-3969  
-[support@zoovy.com](mailto:support@zoovy.com) 
-
+[support@zoovy.com](mailto:support@zoovy.com)
