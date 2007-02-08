@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the eurorailways.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018073317id_/http%3A//eurorailways.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurorailways.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208023302id_/http%3A//www.eurorailways.com/corp/privacy.htm) for the most accurate reproduction.*
 
 # Euro Railways Privacy Policy Information
 
 |  **Product Families**  
 ---  
   
-    [Multi Countries Passes **            **](http://www.eurorailways.com/rail/mcp/index.htm "Eurail, Europass, ScanRail, European East...")  
+    [Multi Countries Passes **            **](http://www.eurorailways.com/products/trains_passes/multi_countries/index.htm "Eurail, Europass, ScanRail, European East...")  
   
-**     ** [Single Country Passes            ](http://www.eurorailways.com/rail/scp/index.htm "BritRail, German Railpass, France, Italy, Swiss...")  
+**     ** [Single Country Passes            ](http://www.eurorailways.com/products/trains_passes/single_country/index.htm "BritRail, German Railpass, France, Italy, Swiss...")  
   
-    [Senior Passes                         ](http://www.eurorailways.com/rail/senior/index.htm "+ 60 years old")  
+    [Senior Passes                         ](http://www.eurorailways.com/senior/index.htm "+ 60 years old")  
   
-    [Youth Passes                          ](http://www.eurorailways.com/rail/youth/index.htm "Under 26 years old")  
+    [Youth Passes                          ](http://www.eurorailways.com/youth/index.htm "Under 26 years old")  
   
-    [Rail' n Drive Passes                ](http://www.eurorailways.com/rail/railndrive/index.htm "Rail passes and car rental vouchers ")  
+    [Rail' n Drive Passes                ](http://www.eurorailways.com/products/trains_passes/rail_and_drive/index.htm "Rail passes and car rental vouchers ")  
   
-    [Point to Point Tickets             ](http://www.eurorailways.com/ptp/index.htm "Point to Point tickets - Open tickets")  
+    [Point to Point Tickets             ](http://www.eurorailways.com/products/trains_tickets/index.htm "Point to Point tickets - Open tickets")  
   
-    [Overnight Trains                   ](http://www.eurorailways.com/sleepers/index.htm "Sleepers accommodations")  
+    [Overnight Trains                   ](http://www.eurorailways.com/products/night_trains/index.htm "Sleepers accommodations")  
   
-    [Reservations (seats)                   ](https://www.eurorailways.com/reservation/index.htm "Seat/Sleeper Reservations")  
+    [Reservations (seats)                   ](http://www.eurorailways.com/products/reservations/index.htm "Seat/Sleeper Reservations")  
   
-    [Premier Trains](http://www.eurorailways.com/rail/premier/index.htm "Eurostar, Thalys, AVE, TGV")  
+    [Premier Trains](http://www.eurorailways.com/products/premier_trains/index.htm "Eurostar, Thalys, AVE, TGV")  
   
-    [Scenic Trains                     ](http://www.eurorailways.com/scenic/index.htm "Scenic Trains: Norway in a Nutshell, Glacier Express, Bernina Express")  
+    [Scenic Trains                     ](http://www.eurorailways.com/products/scenic_trains/index.htm "Scenic Trains: Norway in a Nutshell, Glacier Express, Bernina Express")  
   
-    [Hotels                                 ](http://www.eurorailways.com/hotel/index.htm "Hotel Deals")  
+    [Hotels                                 ](http://www.eurorailways.com/hotels/index.htm "Hotel Deals")  
   
     [Car Rental                         ](http://travel.ian.com/cars/index.jsp?cid=3076 "Car Rental offers")   
   
@@ -33,23 +33,23 @@
   
 **Useful Information**  
   
-  [ Brochures              ](http://www.eurorailways.com/brochure/index.htm "Brochures Collection")  
+  [ Brochures              ](http://www.eurorailways.com/kb/brochures/index.htm "Brochures Collection")  
   
    [Timetable / Schedules](http://www.eurorailways.com/timetable/index.htm "Timetables / Schedules")  
   
-   [All about rail trips                ](http://www.eurorailways.com/info/index.htm "Useful information about rail trips")  
+   [All about rail trips                ](http://www.eurorailways.com/kb/index.htm "Useful information about rail trips")  
   
-   [Aid Offices in Europe ](http://www.eurorailways.com/info/aidoffice/index.htm)           
+   [Aid Offices in Europe ](http://www.eurorailways.com/kb/aidoffice/index.htm)           
   
-   [Personal Travel Assistant      ](http://www.eurorailways.com/pta/index.htm "A True Personal Travel Assistant")  
+   [Personal Travel Assistant      ](http://www.eurorailways.com/support/pta/index.htm "A True Personal Travel Assistant")  
   
 **Euro Railways**  
   
-   [About Us                               ](http://www.eurorailways.com/aboutus/index.htm "About Us, Contacts")  
+   [About Us                               ](http://www.eurorailways.com/corp/index.htm "About Us, Contacts")  
   
-   [Terms & Policies                     ](http://www.eurorailways.com/info/terms.htm "Terms & Policies")  
+   [Terms & Policies                     ](http://www.eurorailways.com/corp/terms.htm "Terms & Policies")  
   
-   [Affiliates                                ](http://www.eurorailways.com/cgi-bin/ya/affil.pl "Euro Railways Affiliates Web Site")  
+   [Affiliates                                ](http://www.eurorailways.com/affiliate "Euro Railways Affiliates Web Site")  
   
 ### Privacy Policy
 
