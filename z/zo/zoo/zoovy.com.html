@@ -1,182 +1,63 @@
-<!--The following is the downloaded HTML source of the zoovy.com privacy policy that was archived on 2006-07-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060718085741id_/http%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoovy.com privacy policy that was archived on 2007-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070208100309id_/http%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Zoovy Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="/styles/global.css">
-<style type="text/css">
-body	{margin: 10px;}
-</style>
-<script language="javascript" type="text/javascript">
-	window.name= "mainpage";
-</script>
-<script language="javascript" src="/pop.js" type="text/javascript"></script>
-<script src="/reveal.js" type="text/javascript"></script>
-<script type="text/javascript">
-// Set slideShowSpeed (milliseconds)
-var slideShowSpeed = 4000
 
-// Duration of crossfade (seconds)
-var crossFadeDuration = 3
 
-// Specify the image files
-var Pic = new Array() // don't touch this
-// to add more images, just continue
-// the pattern, adding to the array below
+<script language="javascript" src="/includes/slideshow.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.zoovy.com/graphics/general/jslib/prototype.js"></script>
+<script type="text/javascript" src="http://static.zoovy.com/graphics/general/jslib/scriptaculous/scriptaculous.js"></script>
+<script type="text/javascript" src="http://static.zoovy.com/graphics/general/jslib/scriptaculous/effects.js"></script>
 
-Pic[0] = '/images/testimonials/brandname-170x100.gif'
-Pic[1] = '/images/testimonials/greatlookz-170x100.gif'
-Pic[2] = '/images/testimonials/outrageous-170x100.gif'
-Pic[3] = '/images/testimonials/tiki-170x100.gif'
-Pic[4] = '/images/testimonials/vista-170x100.gif'
-
-// =======================================
-// do not edit anything below this line
-// =======================================
-
-var t
-var j = 0
-var p = Pic.length
-
-var preLoad = new Array()
-for (i = 0; i < p; i++){
-   preLoad[i] = new Image()
-   preLoad[i].src = Pic[i]
-}
-
-function runSlideShow(){
-   if (document.all){
-      document.images.SlideShow.style.filter="blendTrans(duration=2)"
-      document.images.SlideShow.style.filter="blendTrans(duration=crossFadeDuration)"
-      document.images.SlideShow.filters.blendTrans.Apply()      
-   }
-   document.images.SlideShow.src = preLoad[j].src
-   if (document.all){
-      document.images.SlideShow.filters.blendTrans.Play()
-   }
-   j = j + 1
-   if (j > (p-1)) j=0
-   t = setTimeout('runSlideShow()', slideShowSpeed)
-}
-</script>
+<link rel="stylesheet" type="text/css" href="/styles/new_global.css">
 </head>
-<body><div align="center"><div style="width:780px; padding:3px; background-color:#ffffff; border:1px solid #B2B29D;">
-<table cellspacing="0" cellpadding="0" border="0" width="780">
-<tbody><tr>
-	<td width="180" valign="middle" bgcolor="#ffffff"><div align="center"><a href="/"><img src="/images/zoovy_logo_transparent.gif" height="65" width="136" alt="Zoovy, Inc." border="0"></a></div></td>
-	<td width="600"><table cellspacing="0" cellpadding="0" border="0" width="600">
-	<tbody><tr style="background-color:#6F7C94; height: 54px;">
+<body style="font-family:Arial, Helvetica, sans-serif; color:#666666; margin:0px; background-color:#2F3C40; background-image:url(/images/zoovy/background-1x853.jpg); background-repeat:repeat-x; background-position:top;" onload="runSlideShow();">
+<div align="center">
+<div style="width:774px; position:relative;">
 
-		<td align="left" width="40%"><img src="/images/design/header.gif" alt="Complete eCommerce Solutions for Merchants" width="402" height="54"></td>
-
-		<td align="left" valign="top" nowrap=""><div style="font-size: 9px; text-align:right; padding:3px 4px 0px 0px;" class="white"><a href="#" class="white" style="text-decoration: none;" onclick="changeDisplay('formula','block'); document.login2.login.focus();">Login</a> | <a href="http://www.zoovy.net/contact.php" class="white" style="text-decoration: none;">Contact</a> | <a href="http://www.zoovy.net/sitemap/" class="white" style="text-decoration: none;">Site Map</a></div>
-<div style="position:relative">		
-<div id="formula" style="position:absolute; display:none; z-index: 100;background-color: #E7E7DB; border:1px solid #58595C; width: 160px; left:20px; padding:4px; height:60px;">
-<form method="post" name="login2" target="_top" action="http://www.zoovy.com/login/index.cgi" style="margin: 0px;">
+<div style="position:absolute; right:5px; top:5px; width:360px; height:50px; background-color:#C8D8EC; border:1px solid #2461AA; padding:1px; z-index:1000; display:none; " id="loginForm">
+<form target="_top" method="post" name="FrmLogin" action="/login/index.cgi">
 <input type="hidden" name="authenticate" value="true">
-<div style="position:absolute; right:4px; top:5px;">Username: <input type="text" size="12" class="login_form" name="login" style="width:85px;"></div>
-<div style="position:absolute; right:4px; top:23px;">Password: <input type="password" size="12" class="login_form" name="password" style="width:85px;"></div>
-<div style="position:absolute; right:4px; top:42px;"><input type="submit" value="login" class="button"></div>
+<table cellspacing="3" cellpadding="0">
+<tbody><tr>
+	<td class="small">Account ID:</td>
+	<td style="padding-right:5px;"><input value="" type="text" name="login" size="15" maxlength="25" class="formed"></td>
+	<td class="small">Password:</td>
+	<td style="padding-right:5px;"><input type="password" name="password" size="15" maxlength="25" class="formed"></td>
+	<td><input type="submit" class="button" value=" login "></td>
+</tr>
+<tr>
+	<td align="right" class="small" colspan="7"><a href="/recover/">lost password?</a> | <a href="https://www.zoovy.com/login/">secure login</a> | <a href="#" onclick="new Effect.Fade('loginForm'); return false;">cancel</a></td>
+</tr>
+</tbody></table>
 </form>
-</div>		
-		</div>
-		</td>
+</div>
 
-	</tr>
-	<tr>
-		<td colspan="2" height="4"><!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript" type="text/javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg.hitbox.com";
+<table cellspacing="2" cellpadding="0" width="774" style="background-color:#FFFFFF; height:100%;">
+<tbody><tr>
+	<td style="height:55px;"><div style="margin-left:32px;"><a href="/index.html"><img src="/images/zoovy/zoovy_logo-170x41.gif" height="41" width="170" alt="Zoovy.com" border="0"></a></div></td>
+	<td align="right" style="font-size:8pt;" nowrap="">
+	<div style="margin-right:32px; font-size:8pt;">
+	<img src="/images/zoovy/phonenumber-291x19.gif" border="0" width="291" height="19" alt="call toll free: 1.877.966.8948" style="margin-bottom:5px;"><br>
+<a href="/" class="menu">Home</a> | <a href="/solutions/" class="menu">Zoovy 1</a> | <a href="/company/testimonials/" class="menu">Testimonials</a> | <a href="/partners/" class="menu">Partners</a> | <a href="/company/contact/" class="menu">Contact</a> | <a href="#" onclick="new Effect.Appear('loginForm');return false;" class="menu">Login</a>
+	</div>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="background-color:#F0F0F1; height:2px; border-top:1px solid #E4E4E5;"><img src="/images/blank.gif" height="2" width="1" alt="" border="0"></td>
+</tr><tr>
+	<td colspan="2" valign="top"><div align="center">
 
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM510410N0WE57EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="Corporate+Site";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="http://www.zoovy.net/includes/hbx.js" type="text/javascript"></script>
-<!--END WEBSIDESTORY CODE-->
+	<div style="width:710px; text-align:left;">
+	<table cellspacing="0" cellpadding="0" width="710">
+	<tbody><tr>
+		<td valign="top" style="background-image:url(/images/zoovy/content_shadow-479x362.gif); background-position:right bottom; background-repeat:no-repeat; padding: 15px 25px 25px 0px; box-sizing: border-box; -moz-box-sizing: border-box; height:400px;">
 
 
-
-
-		</td>
-	</tr>
-	<tr>
-	<!-- begin tabs -->
-		<td colspan="2"><table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr bgcolor="#ffffff">
-<td class="tab_bg_off tab_pad" nowrap=""><a href="/" class="menu_off">Home</a></td><td width="1"><img src="/images/blank.gif" height="1" width="1" alt=""></td><td class="tab_bg_off tab_pad" nowrap=""><a href="/solutions" class="menu_off">Solutions</a></td><td width="1"><img src="/images/blank.gif" height="1" width="1" alt=""></td><td class="tab_bg_off tab_pad" nowrap=""><a href="/features" class="menu_off">Features</a></td><td width="1"><img src="/images/blank.gif" height="1" width="1" alt=""></td><td class="tab_bg_off tab_pad" nowrap=""><a href="/partners/marketplace" class="menu_off">Partners</a></td><td width="1"><img src="/images/blank.gif" height="1" width="1" alt=""></td><!-- this is the free trial tab -->
-			<td class="trial_tab tab_pad" nowrap=""><a href="http://www.zoovy.com/freetrial" class="menu_off">Live Demo &amp; Pricing</a></td>
-<!-- end free trial tab -->
-			<td><img src="/images/blank.gif" height="26" width="1" border="0" alt=""></td>
-<!-- this is the login tab -->
-			<td class="tab_bg_off tab_pad" nowrap=""><a href="#" onclick="changeDisplay('formula','block'); document.login2.login.focus();" class="menu_off">Login</a></td>
-<!-- end login tab -->
-			<td><img src="/images/blank.gif" height="26" width="1" border="0" alt=""></td>
-
-			<td align="left" width="98%" class="tab_bg_off"><img src="/images/blank.gif" height="26" width="1" border="0" alt=""></td>
-		</tr>
-<!-- End tabs -->				
-		</tbody></table></td>
-	</tr></tbody></table></td>
-</tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr>
-	<td height="4" class="blue_bg"><img src="/images/blank.gif" height="4" width="1" alt=""></td></tr></tbody></table>
-
-	<table cellspacing="4" cellpadding="0" border="0" width="100%"><tbody><tr><td>
 <h1>Privacy Policy</h1>
-<h4>1. PRIVACY STATEMENT</h4>
+<h2>1. PRIVACY STATEMENT</h2>
 <p>Zoovy, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website zoovy.com. This policy does not address the individual websites that may be hosted by Zoovy. Zoovy recommends, but does not require that these individual sites poses an individual privacy statement. You should contact the owner of the individual site, regarding their privacy policy and information disclosure practices. </p>
 
 <h4>2. GATHERING OF SYSTEM INFORMATION</h4>
@@ -243,41 +124,228 @@ Copyright. Without limiting any other remedies, Zoovy may suspend or terminate y
 This site gives users the following options for changing and modifying information previously provided. Customers of a user may do this by going to the users respective website. Zoovy users may do this by visiting http://www.zoovy.com/ and supplying a system assigned username and password. </p>
 
 <h4>14. CONTACTING ZOOVY</h4>
-<p>
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can <a href="http://www.zoovy.net/contact.php">click here</a> or  contact:
-</p><ul>
-
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can <a href="http://www.zoovy.net/contact.php">click here</a> or  contact:</p>
+<div style="margin-left:100px;">
 Zoovy, Inc.<br>
 Customer Care<br>
 445 Marine View Avenue<br>
 Suite 200<br>
 Del Mar, CA 92014-3969<br>
 	<a href="mailto:support@zoovy.com">support@zoovy.com</a>
- </ul><p></p></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
+</div>
+
+
+
+
+
+
+
+
+</td><td valign="top" width="222" align="right" style="padding-top:20px; height:100%;"><div style="margin-bottom:10px; width:216px;" class="box">
+
+	<div style="background-color:#C8D8EC; width:auto; padding:6px; margin:1px;">
+
+	<img src="/images/zoovy/form_head-200x94.gif" height="94" width="200" alt="" border="0">
+
+
+<form action="http://www.zoovy.com/freetrial/index.cgi" method="POST" name="thisFrm">
+<input type="hidden" name="ACTION" value="SAVE">
+<table cellspacing="1" width="202" cellpadding="0" style="margin-bottom:3px;">
+<tbody><tr style="height:22px;">
+	<td align="left" valign="bottom"><span class="white" style="font-weight:bold;">Name:</span></td>
+	<td align="right" valign="bottom"><input value="" type="text" name="fullname" size="21" class="formed"></td>
+</tr>
+<tr>
+	<td><span class="white" style="font-weight:bold;">Company:</span></td>
+	<td align="right"><input value="" type="text" name="company" size="21" class="formed"></td>
+</tr>
+<tr>
+	<td><span class="white" style="font-weight:bold;">Email:</span></td>
+	<td align="right"><input value="" type="text" name="email" size="21" class="formed"></td>
+</tr>
+<tr>
+	<td><span class="white" style="font-weight:bold;">Phone:</span></td>
+	<td align="right"><input value="" type="text" name="phone" size="21" class="formed"></td>
+</tr>
+<tr>
+	<td colspan="2" align="right"><input type="submit" value="Contact Me"></td>
+</tr>
+</tbody></table>
+<input type="hidden" name="PACKAGE" value="STORE">
+</form>
+
+	<img src="/images/zoovy/form_foot-200x46.gif" height="46" width="200" alt="" border="0">
+	</div>
+
+</div>
+
+
+<div style="padding:1px; width:216px; " class="box">
+
+	<div style="width:auto; padding:6px; text-align:left;">
+
+
+<a href="/legal/copyright">Website Copyright</a><br>
+<a href="/legal/terms">Terms of Service</a><br>
+<a href="/legal/privacy">Privacy Statement</a><br>
+<a href="/legal/license">Software Binary Code License</a><br>
+<!-- <a href="/legal/affiliate">Affiliate Agreement</a><br /> -->
+
+
+	</div>
+</div>
+
+<div style="padding:1px; width:216px;" class="box">
+<div style="width:auto; padding:6px; text-align:left;">
+<div style="font-size:13pt; color:#AB7865;">Need technical info?</div>
+<div style="margin-bottom:10px;">Search the extensive Zoovy 1 'webdoc' online documentation system.</div>
+
+<form action="http://webdoc.zoovy.com/index.cgi" method="get" target="webdoc" style="margin:0px; display:inline;">
+<input type="hidden" name="VERB" value="SEARCH">
+
+<b>Please enter your topic of interest:</b><br>
+
+<table>
 <tbody><tr>
-	<td colspan="3" height="4" class="blue_bg"><img src="/images/blank.gif" height="4" width="1" border="0" alt=""></td>
-</tr>
-<tr>
-	<td colspan="3" height="2"><img src="/images/blank.gif" height="2" width="1" border="0" alt=""></td>
-</tr>
-<tr>
 
-	<td height="15" valign="top" width="10%" align="right"><img src="/images/blank.gif" height="1" width="178" border="0" alt=""></td>
-
-	<td nowrap="" align="center"><span style="font-size: 9px;">&nbsp;&nbsp;<a href="/company" class="no_under">Company</a> | <a href="/legal/privacy" class="no_under">Privacy</a> | <a href="/legal/tos" class="no_under">Terms of Service</a> | <a href="/legal/copyright" class="no_under">Copyright</a> | <a href="/legal/binary" class="no_under">Software License</a> | <a href="http://webdoc.zoovy.com" target="help" class="no_under">Help</a>&nbsp;&nbsp;</span></td>
-
-	<td valign="top" width="40%" align="left"><img src="/images/blank.gif" height="1" width="1" border="0" alt=""></td>
+	<td><input type="text" name="keywords" value="" class="formed" style="width:120px;"></td>
+	<td><input type="submit" value="search" class="button"></td>
 
 </tr>
 </tbody></table>
+</form>
+
+	</div>
+</div>
+</td></tr></tbody></table>
+	
+<!-- 
+<script type='text/javascript'>
+// used to load another page into a div.
+function loadVideo(divID,url,merchant)	{
+	var pars = 'merchant='+merchant+'&divID='+divID;
+	var myAjax = new Ajax.Updater(divID, url, {method: 'get', parameters: pars});
+	new Effect.Grow(divID); 
+	}
+</script>
+-->
+<div style="position:relative; height:114px; width:710px;">
+
+<!-- This is the video div.  The flash video will load into this. -->
+<div id="videoTestimonial" style="height:182px; width:242px; display:none; z-index:1000; position:absolute; left:-11px; top:-85px;" class="border">
 
 </div>
 
-<div style="font-size: 7pt; margin-top:3px; color:#9B9B9B;">&nbsp;&nbsp;Zoovy © Copyright, 2006 All Rights Reserved&nbsp;&nbsp;</div>
 
+
+<!-- video testimonial thumbnail div -->
+	<div style="float:left; width:221px; height:114px; border:1px solid #AFAFD1; background-image:url(/images/zoovy/box_bg-230x114.jpg); text-align:center"><!-- <a href='#' onClick='loadVideo("videoTestimonial","/company/testimonials/video.html","wallsthatspeak");'> --><a href="/company/testimonials/wallsthatspeak_256k.wmv" target="_blank"><img src="/images/testimonials/video_wallsthatspeak-210x104.gif" width="210" height="104" border="0" name="video" alt="Video Testimonial" style="margin-top:4px;"></a></div>
+
+<!-- text testimonial thumbnail div -->
+	<div style="float:left; width:220px; height:114px; border:1px solid #AFAFD1; background-image:url(/images/zoovy/box_bg-230x114.jpg); margin-left:26px;  text-align:center;"><img src="https://web.archive.org/images/testimonials/txt_greatlookz-210x104.gif" width="210" height="104" border="0" name="SlideShow" alt="" style="margin-top:4px;"></div>
+
+<!-- call to action graphic div -->
+	<div style="float:right; width:217px; height:114px; border:1px solid #E0C2A8; background-image:url(/images/zoovy/box_bg-230x114.jpg);  vertical-align:middle; text-align:center;"><a href="/1"><img src="/images/zoovy/zoovy1_b-210x104.gif" width="210" height="104" border="0" alt="Click here to receive a whitepaper on multi-channel selling." style="margin-top:4px;"></a></div>
+
+</div>
+	</div>
 </div>
 
 
+	</td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+<div style="border:1px solid #EAEAEB; width:710px; margin-top:7px;">
+<img src="/images/zoovy/partner_logos-707x37.gif" width="707" height="37" alt="" style="margin:4px 0px 4px 0px;" usemap="#PartnerMap" border="0">
+<map name="PartnerMap">
+	<area shape="rect" coords="1,1,80,18" href="/amazon/">
+	<area shape="rect" coords="577,3,630,19" href="/buysafe/">
+	<area shape="rect" coords="97,0,146,17" href="/fedex/">
+	<area shape="rect" coords="643,16,704,36" href="/eonlinedata/">
+	<area shape="rect" coords="238,17,297,34" href="/overstock/">
+	<area shape="rect" coords="300,0,380,15" href="/pricegrabber/">
+	<area shape="rect" coords="317,16,366,33" href="/ups/">
+	<area shape="rect" coords="377,13,429,35" href="/quickbooks/">
+	<area shape="rect" coords="477,22,553,36" href="/yahooshopping/">
+	<area shape="rect" coords="431,2,472,36" href="/pkg-ebay/">
+</map>
 
-	</body></html>
+</div>
+  </td>
+</tr>
+<tr>
+	<td align="right" colspan="2" style="background-color:#F0F0F1; border-top:1px solid #E4E4E5;"><div style="margin-right:32px; font-size:8pt;">
+<a href="/company/" class="menu">Company</a> | <a href="/company/news" class="menu">In the News</a> | <a href="/company/pressreleases" class="menu">Press Releases</a> | <a href="http://www.zoovydocs.com" target="_blank" class="menu">Help</a> | <a href="/legal/" class="menu">Legal</a> | <a href="/legal/privacy/" class="menu">Privacy</a> | <a href="/sitemap/index.html" class="menu">Sitemap</a>
+	</div></td>
+</tr>
+<tr>
+	<td colspan="2" align="right" style="height:50%;" valign="top">
+	<div style="margin-right:32px; font-size:7pt; color:#828282;">Copyright © 2007, Zoovy Inc.  All Rights Reserved.</div>
+	</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript" type="text/javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM510410N0WE57EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="Corporate+Site";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="none";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" src="http://www.zoovy.com/includes/hbx.js" type="text/javascript"></script>
+<!--END WEBSIDESTORY CODE-->
+</body></html>
