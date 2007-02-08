@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208124523id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
+
+# Practical Action - Practical Action privacy policy
+
+Practical Action respects the privacy of visitors to our website. This policy sets out the manner in which information about visitors is collected and used.
+
+## Cookies
+
+Practical Action may collect information on how users access the Website by using a tracking ID unique to each user through the use of cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. You may set your browser's preferences to block the storage of cookies.
+
+## Log files
+
+In common with most websites, Practical Action use web server log files to collect aggregate information about visitor behaviour. This includes IP addresses, browser type, operating system, screen size, referring pages, search terms, pages visited and documents downloaded. This information is only stored in aggregate and is not linked to personally identifiable information.
+
+## How we use the information
+
+Practical Action uses data collected from log files for internal analysis of user behaviour and trends, to evaluate traffic flow (eg. busiest times of day/week) and to assess the relative popularity of different parts of the website.
+
+We do not share individual data, although we may share aggregate information with partners and donors. We do not track user behaviour after you have left our site.
+
+## Technical Information Service
+
+We may collect basic information about users of our Technical Information Service at the point of download, ie. when a user requests a Technical document. This includes email address, potential number of beneficiaries, country of use and nature of user. Email addresses are collected to identify users for the analysis of trends, and where permission is given, to contact users subsequently to enquire after the effectiveness of our materials. Email addresses are not used for any other purpose, and will not be shared with any third party. If you have given your email address as part of the download process for technical information, you will not be contacted by Practical Action for any other purpose other than to solicit comments on our technical information.
+
+## E-mail addresses
+
+We sometimes ask you for an e-mail address. This will be:  
+- to send you news and information on Practical Action's work and campaigns in form of an e-newsletter (only available by specific request);  
+- to follow up a request for technical information, so as to measure the effectiveness of that information;  
+- to take a campaign action; or  
+- to follow up a feedback form, in order to get a better picture of our audience's needs
+
+If you sign up for an e-newsletter or take a campaign action, the e-mail address you supply will only be used to send you information on Practical Action's work. If you give us your e-mail address when downloading technical information, that address will only be used to follow up that request.
+
+## Storage of information
+
+The information provided to Practical Action is saved indefinitely and may be stored on one or more databases directly maintained by us.
+
+## Online donations
+
+All our online donations are handled through JustGiving's secure servers. Please see [JustGiving's separate privacy policy](http://www.justgiving.com/statements/privacy_policy_popup/affiliate/default.asp?did=%27,%27%27,%27width=510,height=600,scrollbars=yes%27).
+
+## Questions
+
+If you have any questions about Practical Action's privacy policy, please email [webeditor@practicalaction.org.uk](mailto:webeditor@practicalaction.org.uk)
+
+## 1998 Data Protection Act
+
+Practical Action holds any details you give us for our own marketing purposes. If you do not wish to receive future information, please write to the data controller at this address: _Data Controller, Practical Action, The Schumacher Centre for Technology & Development, Bourton on Dunsmore, Rugby CV23 9QZ, United Kingdom._ Telephone: +44 (0) 1926 634400, e-mail: [_practicalaction@practicalaction.org.uk_](mailto:practicalaction@practicalaction.org.uk)
