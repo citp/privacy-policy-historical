@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217015127id_/http%3A//www.kingstoncommunications.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209134238id_/http%3A//www.kingstoncommunications.com/privacypolicy) for the most accurate reproduction.*
 
 # Kingston Communications - Privacy Policy
 
@@ -8,17 +8,17 @@ This privacy policy is published by Kingston Communications ( Hull) plc (" Kings
 
 **Contents**
 
-  * [Our approach](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Our%20approach)
-  * [Information collection ](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Information%20collection)
-  * [Use of information we collect](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Use%20of%20information%20we%20collect)
-  * [Who may process data](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Who%20may%20process%20data)
-  * [Security measures](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Security%20measures)
-  * [Cookies](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Cookies)
-  * [What is a web beacon?](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#What%20is%20a%20web%20beacon)
-  * [Access and changes to your personal information](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Access%20and%20changes%20to%20your%20personal%20information)
-  * [Changes to this policy](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Changes%20to%20this%20policy)
-  * [Enquiries](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Enquiries)
-  * [Managing your contact with Kingston](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Managing%20your%20contact%20with%20Kingston)
+  * [Our approach](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Our%20approach)
+  * [Information collection ](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Information%20collection)
+  * [Use of information we collect](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Use%20of%20information%20we%20collect)
+  * [Who may process data](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Who%20may%20process%20data)
+  * [Security measures](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Security%20measures)
+  * [Cookies](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Cookies)
+  * [What is a web beacon?](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#What%20is%20a%20web%20beacon)
+  * [Access and changes to your personal information](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Access%20and%20changes%20to%20your%20personal%20information)
+  * [Changes to this policy](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Changes%20to%20this%20policy)
+  * [Enquiries](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Enquiries)
+  * [Managing your contact with Kingston](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Managing%20your%20contact%20with%20Kingston)
 
 
 
@@ -32,7 +32,7 @@ If we decide to change our privacy policy for this Website, we will post those c
 
 We collect personal information (such as your name, email address and any other details you provide to us that identifies you as an individual) from you when you submit a request for information or when you submit your details for any other reason. Personal information will only be collected with your consent. 
 
-When you browse our Website, we may also log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend here. We do not link your IP address to any other personal information that you send to us. Like many other websites, we may use a standard technology called a "cookie" to collect information about how you use the Website (see section [6\. Cookies](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Cookies)) 
+When you browse our Website, we may also log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend here. We do not link your IP address to any other personal information that you send to us. Like many other websites, we may use a standard technology called a "cookie" to collect information about how you use the Website (see section [6\. Cookies](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Cookies)) 
 
 Save for the use of cookies, we do not automatically log data or collect data apart from information you specifically provide to us. 
 
@@ -60,7 +60,7 @@ You can find more information on cookies, their use and your rights, if you visi
 
 **6.2 How we use cookies**
 
-We use cookies which are generated by a third party to enable us to track user trends in association with web beacons (see section [7\. What is a web beacon?](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#What%20is%20a%20web%20beacon)) to ensure the website is structured in a user friendly manner. The cookies that are issued merely contain a unique number and therefore contain no personal data. They have a lifetime of 5 years.   Data collected by cookies will not otherwise be passed to any third party, the data is kept for internal use only. Our cookies will not be used to analyse your visits to other sites. 
+We use cookies which are generated by a third party to enable us to track user trends in association with web beacons (see section [7\. What is a web beacon?](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#What%20is%20a%20web%20beacon)) to ensure the website is structured in a user friendly manner. The cookies that are issued merely contain a unique number and therefore contain no personal data. They have a lifetime of 5 years.   Data collected by cookies will not otherwise be passed to any third party, the data is kept for internal use only. Our cookies will not be used to analyse your visits to other sites. 
 
 You have options with regards to cookies.  By changing the settings of your browser, you may opt to accept cookies, to be informed when a cookie is being placed on your PC or to reject all cookies.  (see section 6.3 How to disable cookies) 
 
@@ -81,7 +81,7 @@ To be alerted prior to accepting cookies, you may choose to follow one of these 
 
 ## 7\. WHAT IS A WEB BEACON? 
 
-Some of our web pages may contain electronic images known as web beacons (or sometimes known as clear gifs or web bugs) that allow us to count users who have visited our web pages. Web beacons collect limited information such as a cookie number (see section [6\. Cookies](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Cookies)), time and date of a page view, and a description of the page on which the web beacon resides. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of our site or particular campaigns. 
+Some of our web pages may contain electronic images known as web beacons (or sometimes known as clear gifs or web bugs) that allow us to count users who have visited our web pages. Web beacons collect limited information such as a cookie number (see section [6\. Cookies](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#Cookies)), time and date of a page view, and a description of the page on which the web beacon resides. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of our site or particular campaigns. 
 
 You can find more information on web beacons, their use and your rights, if you visit <http://www.allaboutcookies.org/>.
 
@@ -133,4 +133,4 @@ If you would like Kingston ONLY not to call or mail you with details of products
 
 If you would like to stop unsolicited marketing facsimiles (faxes), please contact the Fax Preference Service on 0845 0700702 and register your fax number(s). Direct marketing faxes should stop after 28 days. If you are an individual consumer or a sole trader, it is illegal to send you such faxes unless you have given explicit permission to the sender. 
 
-[>back to top](https://web.archive.org/web/20061217015127id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#top)
+[>back to top](https://web.archive.org/web/20070209134238id_/http://www.kingstoncommunications.com/privacypolicy/default.asp#top)
