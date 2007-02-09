@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the starmagazine.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610084457id_/http%3A//starmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmagazine.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209033715id_/http%3A//www.starmagazine.com/privacy) for the most accurate reproduction.*
 
 # Star Magazine
-
-Privacy Policy
 
 Internet user privacy is of paramount importance to Star Magazine and our partners. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Star Magazine's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
@@ -33,9 +31,6 @@ Star Magazine, along with thousands of other Web sites, uses cookies to enhance 
 Here's how it works. When you are first served an ad through starmagazine.com, Star Magazine, or our advertising partner, assigns you a unique number and records that number in the cookie file of your computer. Star Magazine may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. The cookie can help ensure that you do not see the same ad over and over again. Cookies can also help advertisers measure how you utilize an advertiser's site. This information helps our advertisers cater their ads to your needs. 
 
 While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. 
-
-**Disclosure**  
-Star Magazine makes available all of our information practices at http://www.weeklyworldnews.com/wwn/privacy.cfm including in-depth descriptions of our targeting capabilities, our privacy policy, and full disclosure on the use of cookies. In addition, we provide all users with the option to contact us at [ letters@starmagazine.com](mailto:letters@starmagazine.com) with any further questions or concerns. 
 
 **Security**  
 Star Magazine will maintain the confidentiality of the information that it collects during the process of delivering an ad. Star Magazine maintains internal practices that help to protect the security and confidentiality of this information by limiting employee access to and use of this information. 
