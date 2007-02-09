@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224213050id_/http%3A//www.quotewizard.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209012652id_/http%3A//www.quotewizard.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
