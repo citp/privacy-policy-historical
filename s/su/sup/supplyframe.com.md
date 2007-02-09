@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the supplyframe.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127163455id_/http%3A//www.supplyframe.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyframe.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209015237id_/http%3A//www.supplyframe.com/privacy.shtml) for the most accurate reproduction.*
 
 # SupplyFrame | Quoting Tools for Electronic Components
-
-PRIVACY & SECURITY
 
 ## SupplyFrame, Inc. is committed to the protection of personal and company information obtained in the process of using this site. Any information that can identify you personally or your company will never be sold, nor will it be distributed to any third party not directly associated with your business unless you provide your approval.
 
