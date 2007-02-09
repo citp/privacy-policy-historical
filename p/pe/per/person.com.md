@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the person.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130162610id_/http%3A//person.com/faka.phtml%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the person.com privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210002208id_/http%3A//person.com/faka.phtml%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Person.com: Frequently Asked Questions
 
@@ -6,7 +6,7 @@
 
 [](https://web.archive.org/)
 
-|  |  |  |  |  [make us your homepage]() |  |  [202135 members](https://web.archive.org/new/search.personals.phtml) |  |  [2014 members online](https://web.archive.org/new/search.personals.phtml?onlineOnly=1) |  |  [bookmark us]() |  |  [support](https://web.archive.org/support.phtml?msection=support)  
+|  |  |  |  |  [make us your homepage]() |  |  [234873 members](https://web.archive.org/new/search.personals.phtml) |  |  [2367 members online](https://web.archive.org/new/search.personals.phtml?onlineOnly=1) |  |  [bookmark us]() |  |  [support](https://web.archive.org/new/support.phtml)  
 ---|---|---|---|---|---|---|---|---|---|---  
 |  |  | 
 
@@ -27,7 +27,7 @@ Please make sure to read the Site's [Terms & Conditions](http://person.com/faka.
 \- We also collect your IP address.   
 \- Finally, we collect and keep your login and password (the information you need to use the site) as well as any publications you post on the site for others to view. For example: if you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
 
-You should know that your email information can’t be accessed or used by the public to send you direct messages. All users can send you email only by using person.com message system.   
+You should know that your email information can't be accessed or used by the public to send you direct messages. All users can send you email only by using person.com message system.   
   
 |  | 
 
