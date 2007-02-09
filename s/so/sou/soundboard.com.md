@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128105733id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209170852id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Soundboard.com Privacy Policy
 
@@ -38,7 +38,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by logging in to your account [here](https://web.archive.org/web/20061128105733id_/http%3A//www.soundboard.com/login.aspx). We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by logging in to your account [here](https://web.archive.org/web/20070209170852id_/http%3A//www.soundboard.com/login.aspx). We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by editing it within your account interface. 
 
@@ -47,3 +47,14 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [webmaster@soundboard.com](mailto:webmaster@soundboard.com). 
+
+| 
+
+Search Soundboards  
+
+
+Featured Soundboards 
+
+Make your own Soundboard  
+It's fast, easy and free. Showcase your sound, show, service or yourself! [Learn more ](https://web.archive.org/web/20070209170852id_/http%3A//about.aspx)  
+[Start building](https://web.archive.org/web/20070209170852id_/http%3A//register.aspx)
