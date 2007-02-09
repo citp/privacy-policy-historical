@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2006-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061001043450id_/http%3A//nationalpriorities.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209051944id_/http%3A//nationalpriorities.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D126) for the most accurate reproduction.*
 
 # National Priorities Project - Privacy
 
