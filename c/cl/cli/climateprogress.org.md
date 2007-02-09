@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206030943id_/http%3A//www.americanprogressaction.org/site/pp.asp%3Fc%3DklLWJcP7H%26b%3D86391) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209104645id_/http%3A//www.americanprogressaction.org/site/pp.asp%3Fc%3DklLWJcP7H%26b%3D86391) for the most accurate reproduction.*
 
-# Privacy Policy - American Progress Action Fund
+# Privacy Policy - Center for American Progress Action Fund
 
 _Last updated:   September 6, 2006_
 
