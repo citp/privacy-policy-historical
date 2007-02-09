@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadesoflight.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024230259id_/http%3A//shadesoflight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadesoflight.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209045528id_/http%3A//www.shadesoflight.com/privacy.html) for the most accurate reproduction.*
 
 # Shades of Light|Bath Lights Chandeliers Fans Floor Lamps Table Lamps Ceiling Lights Shades Sconces, Richmond, VA
 
