@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rpdata.net.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820103221id_/http%3A//rpdata.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpdata.net.au privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209162840id_/http%3A//www.rpdata.net.au/privacy.htm) for the most accurate reproduction.*
 
-# RP DATA Privacy Statement
+# RP Data Privacy Statement
 
-**Privacy statement**
+BY VISITING AND USING THE WEB SITE YOU AGREE AS FOLLOWS: 
 
 **This Privacy Statement is made on behalf of RP Data Ltd and all references to "RP", "we", "us", or "our" in this statement are references to RP Data Ltd (ABN 67 087 759 171) and its related bodies corporate.**
 
@@ -24,7 +24,7 @@ A cookie is a text file placed into the memory of your computer by our computers
 
 Cookies are used for a number of purposes. RP uses cookies to identify you for the purposes of aiding security in your use of the website.
 
-If you think the information we hold about you is incorrect or you want to update it
+**If you think the information we hold about you is incorrect or you want to update it**
 
 We rely on the accuracy of the information you provide to us. If you think that we hold information about you that is incorrect in any way, or out of date, or you simply want to notify us of something new, please send RP an email at privacy@rpdata.com indicating that your information is incorrect and the details.
 
@@ -44,4 +44,4 @@ This information relates to our current privacy standards. We may vary our priva
 
 **Feedback**
 
-If you have any comments or suggestions regarding our website or this privacy statement please email us at [privacy@rpdata.com](mailto:privacy@rpdata.com) or [click here](https://web.archive.org/web/20060820103221id_/http%3A//rpdata.net.au/contact.htm)
+If you have any comments or suggestions regarding our website or this privacy statement please email us at [privacy@rpdata.com](mailto:privacy@rpdata.com) or [click here](https://web.archive.org/web/20070209162840id_/http%3A//www.rpdata.net.au/contact.htm)
