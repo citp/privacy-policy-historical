@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kusd.edu privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907031738id_/http%3A//www.kusd.edu/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kusd.edu privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209202803id_/http%3A//www.kusd.edu/help/privacy.html) for the most accurate reproduction.*
 
 # Kenosha Unified School District No. 1 - Kenosha, Wisconsin
 
