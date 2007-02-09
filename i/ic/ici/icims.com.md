@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120130850id_/http%3A//icims.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209113228id_/http%3A//icims.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Recruiting Software | Applicant Tracking Systems (ATS)
 
