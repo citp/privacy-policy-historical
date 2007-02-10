@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023205358id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210124123id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
