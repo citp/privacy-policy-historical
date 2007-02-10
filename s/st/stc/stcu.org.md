@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stcu.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230071556id_/https%3A//www.stcu.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stcu.org privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210114432id_/http%3A//www.stcu.org/privacy.html) for the most accurate reproduction.*
 
 # STCU: Privacy Policy
 
