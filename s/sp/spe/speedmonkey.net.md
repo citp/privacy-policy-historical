@@ -1,8 +1,36 @@
-> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230050014id_/http%3A//www.speedmonkey.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210193928id_/http%3A//www.speedmonkey.net/view-rant/speedmonkey-privacy-policy) for the most accurate reproduction.*
 
-# pop culture archives teen dating
+# SpeedMonkey Privacy Policy -SpeedMonkey Privacy Policy- Pop culture Politics Perversion Advice Speedmonkey.net
 
-Personal Information that SpeedMonkey May Collect Online:
+#### Details
+
+Views: 108
+
+Rating: 3
+
+Votes: 0
+
+Comments: 
+
+#### Rate
+
+  *   *   *   *   *   * 
+
+
+#### Images
+
+[](https://web.archive.org/editorial-images/336-206b39da22b292c968a78f77b157aac9.jpg)
+
+#### Tags
+
+[](https://web.archive.org/view-by-tag/) | 
+
+## Disclaimer  
+
+
+SpeedMonkey.net is all about gossip and satire. The content that is published contains rumors, speculation, assumptions, opinions, and factual information. Postings may contain erroneous or inaccurate information. The owner of this site does not insure the accurateness of any content presented on SpeedMonkey.net.
+
+## Personal Information that SpeedMonkey May Collect Online:
 
 SpeedMonkey collects the following types of personal information: names, postal and e-mail addresses, phone and facsimile numbers. SpeedMonkey may also collect business information from sole proprietorships some of which could constitute personal information, as well as personal information from individuals acting solely in their business capacity. 
 
@@ -12,7 +40,7 @@ How SpeedMonkey Uses Personal Information Collected Online
 
 Unless you consent, we will not use your personal information for any purpose other than that for which it is submitted. We use personal information to reply to inquiries, handle complaints, provide operational notices and in program record-keeping. 
 
-At any time you can add or remove your name from a SpeedMonkey list by contacting us at [monkey@speedmonkey.net](mailto:monkey@speedmonkey.net)
+At any time you can add or remove your name from a SpeedMonkey list by contacting us at monkey@speedmonkey.net 
 
 SpeedMonkey may also release personal information to appropriate governmental authorities under the following circumstances: 
 
@@ -23,3 +51,8 @@ SpeedMonkey may also release personal information to appropriate governmental au
 \- Where warranted by a company's failure to participate in the advertising self-regulatory process or respond to an online privacy complaint, or where a company fails to honor the recommendations of the National Advertising Division, Children's Advertising Review Unit, National Advertising Review Board or; 
 
 \- Where your communication suggests possible harm to others. 
+
+[Read more rants and raves](https://web.archive.org/list-rants)
+
+  
+
