@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232541id_/http%3A//www.rightmove.co.uk/privacy.rsp%3Fhpt%3Df5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210204808id_/http%3A//www.rightmove.co.uk/privacy.rsp%3Fhpt%3Df5) for the most accurate reproduction.*
 
 # UK Estate agents with homes, houses & property for sale on rightmove.co.uk
 
