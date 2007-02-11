@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219110438id_/http%3A//www.typingweb.com/knowledge/questions/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211161027id_/http%3A//www.typingweb.com/knowledge/questions/21) for the most accurate reproduction.*
 
 # TypingWeb KnowledgeBase :: Privacy Policy
 
