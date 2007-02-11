@@ -1,86 +1,45 @@
-> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2006-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060818022850id_/http%3A//www.adultspace.com/home/%3FS%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211205237id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Adultspace.com | A Stimulating Social Network For the Adult Community.
+# Adultspace.com | A Stimulating Social Network For the Adult Community - Special Edition
 
-**ADULTspace Privacy Policy**
+Adultspace takes very seriously the private nature of your personal information. This Privacy Policy explains how we handle the information we collect when you visit our site and/or become a member. Please read this notice carefully.  
+Adultspace (“we” and “our”) is an online adult-oriented community where you can learn about and communicate with others. As a user, you can create a public personal profile, which can include pictures and other information about yourself. The purpose of profiles is to provide an easy way for our members to identify people they might be interested in meeting. To facilitate this social purpose of our service, the information you include in your profile is freely displayed to the public. Users can also search profiles, and communicate and send messages to each other through Adultspace.
 
-  
+## How We Collect And Use Information
 
+### Your Email Address. 
 
-Last Updated on 4/01/2004  
-ADULTspace does not send Spam or sell email addresses.
+When you join Adultspace, you are required to supply us with your email address. This is the only piece of user-specific information that we gather from you. We collect this information to authenticate users, to market our services (including those of our other sites, but not third party sites), and to send notifications to users relating to our services or your account.   
+Except as otherwise provided in this policy statement or as required by law, we will keep your email address strictly confidential—we will never provide, share, rent, trade or sell user-specific personal information such as your email address to any third party marketers, unless you ask us to.   
+Profile Information   
+When joining Adultspace.com, you are asked and in some cases required to provide certain information for display in your public personal profile, such as a username, a description of yourself and your interests, profession, educational level, body type, eye color, height, martial status, age, location, whether you smoke or drink, and your sexual activities and interests.   
+User’s should be aware that any information in their profile is public and is freely displayed, and accessible to anyone. In addition, when other users of the site perform searches, they may locate your user profile because of the information you include there. Members may find and contact you based on the information you put in your profile.  
+If you wish to remain anonymous, don’t include profile information that would allow anyone to personally identify you. For example, don’t put your real name or street address in your description of yourself, and don’t adopt a username that is similar to your real name. Also be aware that any photograph you supply will be publicly displayed, and people may recognize you.   
+We may also use your profile data to improve our site and/or tailor your experience at our site, showing you content that we think you might be interested in. We may also share this information with others, such as advertisers interested in our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.  
+Members can change their profile information at any time.
 
-**About ADULTspace and the Information We Collect**
+### Information Logged By Adultspace 
 
-ADULTspace is an online social networking community that connects people through networks of friends for dating or making new friends. To accomplish this, our users create their own profiles which are shown to the people in their personal network. A personal network consists of a user's friends as well as the extended group of people that a user is connected to via chains of mutual friends. To fulfill the purpose of this site, some personal information we ask for is displayed to people within these personal networks.  
-Information Collected/Tracked by ADULTspace
+In addition to the information-gathering described above, we also log certain non-personally-identifiable information, including the IP address assigned to your computer by your Internet Service Provider, aggregate user data, and browser type, as you visit our site or use our service. This data is used to help manage our website and provide a better user experience, to track usage, to focus advertising and in the case of IP addresses, for security and monitoring purposes. Except as expressly described in this privacy policy statement, we will not share this information with any third parties such as marketers; although non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members.  
+Information You Provide When Using Your Credit Card  
+Users must make a payment in order to become full paid members of Adultspace. Members make such payments using a credit card or check payment. Because we use the services of an outside vendor to collect these payments, we never receive information such as your credit card or bank account number, or any other information you furnish when setting up payments. Our outside vendor for payment has its own privacy policy, which may be viewed at its website http://about.ccbill.com/html_forms/privacy_policy-english.html (the website at which you make your payment). We will not use any outside vendor for payment or any other service unless they maintain a stringent privacy policy and represent that they will never give out personally-identifiable information about you.
 
-**Information submitted to ADULTspace**
+### Use of Cookies 
 
-ADULTspace collects user-submitted account information such as name and email address to identify users and send notifications related to the use of the service. ADULTspace also collects user-submitted profile information such as gender, age, occupation, location, etc.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Like most sites, we use cookies to store user and visitor data and to record session information, for enhancement of the user experience, and to focus advertising. Users may be able to configure their browser to accept or reject cookies, or notify the user when a cookie is set. It is the user's responsibility to set browser preferences regarding cookies, although you should be aware that disabling cookies will affect performance and functionality of our site
 
-**Information not Directly Submitted by Users to ADULTspace**
+**Links**. You may encounter links to other sites on Adultspace. We are not responsible for the privacy policies and/or practices on other sites. When linking to another site, you should read the privacy policy appearing on that site. 
 
-This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site.  
-Use of Information Obtained by ADULTspace
+**Cookies By Advertisers**. Our advertisers may set cookies to allow an ad server to recognize your computer each time the advertiser sends you an online advertisement. In this way, advertisers may gather information about where you accessed their advertisements and determine which ads you clicked on. This information allows an ad network to deliver focused advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Adultspace and does not cover the use of cookies by any advertisers.
 
-**Information users submit to ADULTspace**
+**Security**. Your user account is protected by the user ID and password you created. We take reasonable and proper precautions to make sure that this information is kept secret. For example, we provide access to your user information only to those employees who need access to perform their job functions, such as our technical staff. 
 
-Profile information as well as first name and photos are displayed to people in a user's personal network, to support the function of the site as social networking community where users can meet new people through their friends. Email address and full name are used when a user invites a friend via email to join the service, when a user requests to add another user to their friend list, and when we send notifications to a user related to their use of the service. Except when inviting or adding friends, a user's email address is not shared or displayed with people within a user's personal network. Users within a personal network communicate on ADULTspace with each other through the ADULTspace service, without disclosing email addresses. We may also use a user's email address to send weekly updates or news regarding our site, but the user may choose not to receive email of this type by accessing their Account Info.
+**Choice/Opt-Out.** If we ever send you information by e-mail concerning new products or services that you did not expressly request, we will provide you with an e-mail address by which you may request no future notices.
 
-**Information that users do not submit to us**
+**Successors**.   
+We reserve the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale or acquisition of our company. 
 
-We use your server, IP address, and browser-type related information in the general administration of our website.  
-**  
-** **Sharing of the Information this Site Gathers/Tracks**
+**Changes in Our Privacy Policy**.   
+We may occasionally make changes to this privacy policy. If so, we will post all changes on our site so users will always be aware of what information we collect, how we use it, and how and when we may disclose it. You are bound by any minor changes to the policy when you use the site after those changes have been posted. If we make a significant change, however, we will notify users by posting a notice on our Web site for 30 days.
 
-As a matter of policy, except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership. However, ADULTspace may share profile information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. In such situations we will never disclose information that will be used to personally identify you.
-
-**Links**
-
-This site may contain links to other websites. Please be aware that ADULTspace is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-**Use of Cookies**
-
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies are used to manage sessions on our site. Users must enable cookies to use our site. Also, users may optionally use a cookie to remember their password in order to automatically log in to our site. We do not and will not use cookies to collect private information from any user which they did not intentionally submit to us.
-
-**Correcting/Updating or Removing Information**
-
-ADULTspace users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info.  
-**  
-** **Changes in Our Privacy Policy**
-
-If we change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email or by placing a prominent notice on our site.
-
-**Invite a Friend**
-
-If a user elects to use our Invite feature to invite a friend to our site, we ask them for the friend's email address. ADULTspace will automatically send the friend an email inviting them to join the site. ADULTspace stores this email address for the purpose of automatically adding the respondent to the friends list of the user sending the invitation, and also to send reminders of the invitation. ADULTspace does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. The friend may contact ADULTspace to request the removal of this information from our database.
-
-**Chat Rooms, Message Boards, and Public Forums**
-
-Please keep in mind that whenever you voluntarily disclose personal information online for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
-
-**Security**
-
-Your ADULTspace account is password-protected. This web site takes every precaution to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us.
-
-**Email Choice/Opt-out**
-
-Users who no longer wish to receive our weekly updates or news may opt-out of receiving these communications by following the instructions contained in the email or by logging-in and changing their settings in the Account Info section of the site.
-
-**Third Party Advertising**
-
-The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. ADULTspace does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks.
-
-This privacy statement covers the use of cookies by ADULTspace and does not cover the use of cookies by any advertisers.
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us.  
-
-
-| 
-
-[](http://passion.com/go/g454613-pct)
-
-[](http://passion.com/go/g454613-pct)
+**Contacting the Web Site**. We take our users privacy extremely seriously, and we have adopted policies and practices that will prevent the sharing of private information you provide. If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please contact us at [privacy@adultspace.com](mailto:privacy@adultspace.com)
