@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127024744id_/http%3A//stopagingnow.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211192540id_/http%3A//stopagingnow.com/pages/privacy) for the most accurate reproduction.*
 
 # Nutrition news, expert health advice best multi vitamins supplements antioxidants
 
@@ -28,7 +28,7 @@ We value your trust and the security of your personal and credit card informatio
 
 Electronic mail:   Any mail sent to us, is private, and your address will never be used, or sold to any mailing list. When you visit us or send e-mails to us, you are communicating with us electronically. You hereby consent to receive communications from us electronically when sending any query to us. We will communicate with you by e-mail and you hereby agree that all agreements, notices, disclosures and other communications that we provide to you electronically, satisfy any legal requirement that such communications be in writing. 
 
-Newsletters:  If you however decide to join our FREE newsletter service, newsflash service or our general mailing list, you may do so, and we will also not sell, rent or make available your mailing address to any other party. You are also entitled to request to be unsubscribed from the newsletter by visiting [www.stopagingnow.com/signup](http://stopagingnow.com/pages/unsub) and filling out the required form. Please allow 7-10 business days to process your request. 
+Newsletters:  If you however decide to join our FREE newsletter service, newsflash service or our general mailing list, you may do so, and we will also not sell, rent or make available your mailing address to any other party. You are also entitled to request to be unsubscribed from the newsletter by visiting [www.stopagingnow.com/signup](http://www.stopagingnow.com/pages/unsub) and filling out the required form. Please allow 7-10 business days to process your request. 
 
 **Copyright**
 
