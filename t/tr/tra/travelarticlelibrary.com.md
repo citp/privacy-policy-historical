@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelarticlelibrary.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218003354id_/http%3A//www.travelarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelarticlelibrary.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211185102id_/http%3A//www.travelarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Article Library.com
 
