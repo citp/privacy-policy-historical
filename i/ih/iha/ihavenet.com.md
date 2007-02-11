@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212113312id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211211710id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
 
 # Breaking News and Headlines: Single Source to Headlines, Breaking News and Top Stories
 
