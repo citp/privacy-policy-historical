@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017094401id_/http%3A//www.iogear.com/main.php%3Floc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212162925id_/http%3A//www.iogear.com/main.php%3Floc%3Dprivacy%26PHPSESSID%3D157e0693eb0238eb5575b1588173b2cb) for the most accurate reproduction.*
 
 # IOGEAR: Expand Your Connectivity
 
