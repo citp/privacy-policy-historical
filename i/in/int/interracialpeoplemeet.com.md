@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the interracialpeoplemeet.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029234634id_/http%3A//www.interracialpeoplemeet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialpeoplemeet.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212153437id_/http%3A//www.interracialpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# INTERRACIALPeopleMeet.com - The Interracial People Network - 10/29/2006
+# INTERRACIALPeopleMeet.com - The Interracial People Network - 02/12/2007
 
 |  |  |   
 ---  
 The Interracial People Network  
-[](https://web.archive.org/sign_up/?a=url)  
+[](https://web.archive.org/sign_up/?a=)  
   
 |   
 ---  
