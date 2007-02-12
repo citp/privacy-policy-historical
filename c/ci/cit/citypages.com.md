@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210303id_/http%3A//citypages.com/contactus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212083547id_/http%3A//citypages.com/contactus/privacy.asp) for the most accurate reproduction.*
 
 # City Pages - Contact Us
 
