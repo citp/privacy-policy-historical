@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightsource.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215232946id_/http%3A//www.lightsource.com/aboutus/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightsource.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212163649id_/http%3A//www.lightsource.com/aboutus/49) for the most accurate reproduction.*
 
 # LightSource.com - About Us
 
