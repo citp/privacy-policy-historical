@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211222332id_/http%3A//www.igmarkets.com.sg/content/sites/sgx/en_GB/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2007-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070213170922id_/http%3A//www.igmarkets.com.sg/content/sites/sgx/en_GB/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
