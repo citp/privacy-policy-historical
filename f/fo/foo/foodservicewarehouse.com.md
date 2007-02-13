@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216185139id_/http%3A//www.foodservicewarehouse.com/HelpCenter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2007-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070213205024id_/http%3A//www.foodservicewarehouse.com/HelpCenter/Privacy.aspx) for the most accurate reproduction.*
 
 # FoodServiceWarehouse.com - Commercial Kitchen and Restaurant Equipment Wholesaler
 
