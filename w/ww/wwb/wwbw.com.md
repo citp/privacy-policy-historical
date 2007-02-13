@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2007-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070213101340id_/http%3A//www.wwbw.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,11 +15,6 @@
   
   
   
-  
-
-
-[](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/csShop_tradein.aspx)
-
   
 
 
@@ -74,5 +69,5 @@ We believe our Policy provides you with the safest shopping experience possible.
 
 If you have any questions about the security of our website, or your privacy, please contact us.  
   
-|  |  |  [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WWBW.COM&lang=en) |  [](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/csShop_paytypes.aspx) |  [](http://www.the-dma.org/dmalogotext.html) |  [](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/infoGSA.aspx) |  [](http://www.bizrate.com/ratings_guide/cust_reviews__mid--31908.html)  
+|  |  |  [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WWBW.COM&lang=en) |  [](https://web.archive.org/web/20070213101340id_/http%3A//www.wwbw.com/CustomerService/csShop_paytypes.aspx) |  [](http://www.the-dma.org/dmalogotext.html) |  [](https://web.archive.org/web/20070213101340id_/http%3A//www.wwbw.com/CustomerService/infoGSA.aspx) |  [](http://www.bizrate.com/ratings_guide/cust_reviews__mid--31908.html)  
 ---|---|---|---|---
