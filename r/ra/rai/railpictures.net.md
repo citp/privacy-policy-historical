@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railpictures.net privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230073547id_/http%3A//www.railpictures.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railpictures.net privacy policy that was archived on 2007-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070214030938id_/http%3A//www.railpictures.net/privacy) for the most accurate reproduction.*
 
 # RailPictures.Net » Privacy Policy
 
