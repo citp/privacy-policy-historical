@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104164854id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D199) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2007-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070215005641id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D2037) for the most accurate reproduction.*
 
-# Econocom, Mastering IT Resources - Privacy
+# Econocom
 
 Copyright © Econocom - All Rights Reserved. Information is subject to change without notice. Econocom assumes no responsibility for errors that appear on this website. Econocom is a registered trademark of Econocom Group. All other trademarks and registered trademarks are the property of their respective companies.
 
@@ -46,7 +46,7 @@ Nowhere on the Econocom site however are cookies being used that store specific 
 
 ##  4\. Data Quality and Access
 
-The accuracy of your individual identifying information is important to us. We are working on ways to make it easier for you to review and correct the information that Econocom maintains about you, since you are entitled to reviewing, amending and removing your personal data. In the meantime forward your questions concerning this subject to the corporate webmaster via E-mail at [webmaster@econocom.com](mailto:webmaster@econocom.com)  
+The accuracy of your individual identifying information is important to us. We are working on ways to make it easier for you to review and correct the information that Econocom maintains about you, since you are entitled to reviewing, amending and removing your personal data. In the meantime forward your questions concerning this subject to the corporate webmaster via E-mail at [_webmaster@econocom.com_](mailto:webmaster@econocom.com)  
  
 
 ## 5\. Data Security
@@ -65,3 +65,5 @@ When your cooperation is requested in a web survey on our website we will articu
 ## 8\. Links to Other Websites
 
 The Econocom website contains links to other websites of product and service vendors, manufacturers and partner companies. When you use the links to visit these sites the privacy policy of the visited website will be applicable from the moment you enter the new domain.
+
+top  
