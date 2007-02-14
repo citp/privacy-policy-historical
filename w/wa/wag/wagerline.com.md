@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216011235id_/http%3A//www.wagerline.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2007-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070214042052id_/http%3A//www.wagerline.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Wagerline.com - FREE Real-time Scores, Odds, & Contests for All Major Sports
 
@@ -50,7 +50,7 @@ A Person's consent can be express, implied, or given through an authorized repre
 
 i) Write to Customer Service - Privacy, SportsDirect Inc., 77 Chain Lake Drive, Halifax, NS, B3S 1E1; or 
 
-ii) Provide information to SportsDirect Inc. through the form provided on our [ feedback page ](https://web.archive.org/web/20061216011235id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
+ii) Provide information to SportsDirect Inc. through the form provided on our [ feedback page ](https://web.archive.org/web/20070216013128id_/http://www.wagerline.com/info/email_us.aspx?uid=1). 
 
 ### Refusing or withdrawing Consent: 
 
@@ -307,7 +307,7 @@ B3S 1E1
 
 or 
 
-ii) Provide information to SportsDirect Inc. through our [ feedback page ](https://web.archive.org/web/20061216011235id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
+ii) Provide information to SportsDirect Inc. through our [ feedback page ](https://web.archive.org/web/20070216013128id_/http://www.wagerline.com/info/email_us.aspx?uid=1). 
 
 10.2 SportsDirect Inc. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures. 
 
@@ -323,7 +323,7 @@ Registration Form
 
 WagerLine.com's registration form requires users to provide contact information (like their name and email address).  This information is used to verify eligibility of contest winners, and to contact you if you win a prize.  We may also periodically use this information to send you promotional material regarding WagerLine.com or our advertisers. 
 
-**We never sell, give, or trade our mailing list or email list to any other company, so you can rest assured that will not receive “spam” email or be placed on any other mailing lists as a result of registering on WagerLine.com.**
+**We never sell, give, or trade our mailing list or email list to any other company, so you can rest assured that will not receive “spam" email or be placed on any other mailing lists as a result of registering on WagerLine.com.**
 
 Links 
 
