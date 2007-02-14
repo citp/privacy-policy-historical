@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2006-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060219190116id_/http%3A//www.drivingsales.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2007-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070214021002id_/http%3A//www.drivingsales.com/privacy.php) for the most accurate reproduction.*
 
 # Car Dealer Performance Management Headquarters - DrivingSales.com
 
