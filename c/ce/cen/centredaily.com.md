@@ -1,142 +1,60 @@
-> *The following text is extracted and transformed from the centredaily.com privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119015000id_/http%3A//www.centredaily.com/special/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centredaily.com privacy policy that was archived on 2007-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070215050500id_/http%3A//www.centredaily.com/309) for the most accurate reproduction.*
 
-# Privacy Statement, Centre Daily Times Online
+# www.centredaily.com | Privacy Policy
 
-|  | [  **NEWS**](http://web.centredaily.com/content/centredaily/today/news/)  
----  
-[  **Obituaries**](http://web.centredaily.com/content/centredaily/today/obituaries/)  
-[  **Business**](http://web.centredaily.com/content/centredaily/today/business/)  
-[  **Weather**](http://realstatecollege.com/weather/)  
-[  **SPORTS**](http://web.centredaily.com/content/centredaily/today/sports/)  
-[  **PSU Sports**](http://web.centredaily.com/content/centredaily/pssports/)  
-[  **PSU Football**](http://web.centredaily.com/content/centredaily/psfootball/)  
-[  **Calendar**](http://community.realstatecollege.com/realcities/ignore?MIval=cal_framed&GID=01002011110940114337565039&PG=01002011110940114337746917)  
-[  **OPINION**](http://web.centredaily.com/content/centredaily/today/opinion/)  
-[  **Letters**](http://web.centredaily.com/content/centredaily/today/opinion/letters.htm)  
-[  **LIVING**](http://web.centredaily.com/content/centredaily/today/living/)  
-[  **Adopt-a-Pet**](http://www.centredaily.com/adoptapet/)  
-[  **Celebrations**](http://web.centredaily.com/content/centredaily/today/celebrations/)  
-[  **Crossword**](http://www2.uclick.com/client/unv/cx/)  
-[  **Comics**](http://www.centredaily.com/comics/)  
-[  **Freebies**](http://www.centredaily.com/freebies/)  
-[  **CLASSIFIEDS**](http://www.centredaily.com/class/)  
-[  **Cars.com**](http://www.cars.com/centredaily/)  
-[  **Real Estate**](http://www.centredaily.com/realestate/)  
-[  **Careers**](http://careers.realstatecollege.com/)  
-[  **Personals**](http://www.date-finder.com/statecollege/)  
-[  **Yellow Pages**](http://yp.realstatecollege.com/)  
-[  **ENTERTAINMENT**](http://justgo.realcities.com/centredaily/)  
-[  **Dining**](http://justgo.realcities.com/centredaily/dining/)  
-[  **Events**](http://www.centredaily.com/events/)  
-[  **Freebies**](http://www.centredaily.com/freebies/)  
-[  **Movies**](http://justgo.realcities.com/centredaily/movies/)  
-[  **Music**](http://justgo.realcities.com/centredaily/music/)  
-[  **On Stage**](http://justgo.realcities.com/centredaily/onstage/)  
-[  **Television**](http://www.tvguide.com/listings/)  
-[  **SEARCH**](http://www.centredaily.com/find/archive.htm)  
-[  **Archives**](http://www.centredaily.com/find/archive.htm)  
-[  **FAQ**](http://www.centredaily.com/special/faq.htm)  
-[  **Site Index**](http://www.centredaily.com/special/siteindex.htm)  
-[  **CDT SERVICES**](http://www.centredaily.com/services/)  
-[  **Advertising**](http://www.centredaily.com/services/advertising/)  
-[  **Circulation**](http://www.centredaily.com/services/subscribe/)  
-[  **Classifieds**](http://www.centredaily.com/services/classifieds/)  
-[  **Contact Us**](http://www.centredaily.com/services/contacts/)  
-[  **Internet**](http://www.centredaily.com/services/internet/)  
-[  **Jobs**](http://www.centredaily.com/class/cdtjobs.htm)  
-[  **Photos**](http://www.centredaily.com/services/photo/)  
-[  **Printing**](http://www.centredaily.com/services/commprint/)  
-[  **Submit News**](http://www.centredaily.com/special/faq.htm#news)  
-[  **Subscribe**](https://web.archive.org/http://www.centredaily.com/services/subscribe/subscribe.htm)  
-| 
+Centre Daily Times has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information-gathering and disclosure.
 
-### Centredaily.com Privacy Statement
+## Your Personal Information
 
-**Centredaily.com** is a member of the Knight Ridder Real Cities Network (RCN), a national network of Web sites in the United States. **Centredaily.com** , along with the Real Cities Network, is strongly commited to protecting your privacy. The following FAQ for the entire RealCities Network should answer most of your important questions. However, if you still have concerns, please send email to [privacyissues@realcities.com](mailto:privacyissues@realcities.com?subject=Privacy_on_Centredaily.com). 
+From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for Centre Daily Times services such as e-mail, forums, or promotions. We use this information to operate Centre Daily Times' services, provide you with the highest quality services and offer you opportunities we think will be of interest.
 
-In order to provide convenient and personalized service to our Web site visitors, the Real Cities Network (RCN) has developed a variety of systems to collect and store customer information. You can take advantage of these systems by signing up for a Passport at a local RCN site currently offering Passport. As a Passport holder, you will enjoy a growing range of interactive features across the Network, including personalized home pages, Email News Digests, chat rooms, improved message boards, RCN promotions and sweepstakes, Premium Content, and more. 
+We will not disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of Centre Daily Times, or as explained below or in our [User Agreement](https://web.archive.org/310).
 
-In addition to greatly improving your online experience, knowing a bit more about you also allows us to display advertising to you in a more intelligent fashion. Targeted advertisements are probably more interesting for you, and they are definitely more productive for our advertisers. 
+In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does not identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range.
 
-For all these reasons, Passports are an exciting development for Real Cities. Still, we understand how important your privacy is to you, and we hope that the following answers will reassure you that the information you have given us will not be missused. 
+Occasionally, we may disclose personal information in other circumstances, but we will only do this if we have explained at the time we collect the information the purpose for which it will be disclosed.
 
-**Frequently Asked Questions about PRIVACY and related issues:**
+## Kids' Privacy
 
-  * Does the Real Cities Network ask for personal information?
-  * How Does the Real Cities Network use my personal information?
-  * How does the Real Cities Network target advertising? 
-  * Will the Real Cities Network disclose any of my personal information?
-  * Will the Real Cities Network use my information for direct mailings? 
-  * Does the Real Cities Network use cookies and "IP Addresses"? 
-  * What else should I know about my privacy? 
-  * Want more information? Click here for helpful links ... 
+Centre Daily Times is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by Centre Daily Times that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the Centre Daily Times services to provide additional personal information. Parental consent can be provided in two ways:
+
+  1. Send a copy of the completed [Parental Consent Form](https://web.archive.org/308), including your signature, to the fax number provided on the form; or
+  2. Call (800) 327-5500.
 
 
 
-* * *
+Centre Daily Times will not knowingly disclose personal information about users under the age of 13 without prior parental consent, except as required by law. If for any reason you wish to access, update or remove information about your child or terminate your child's account, you may fax or call [paper name] at the numbers listed above or send an email to the [webmaster](mailto:cdtonline@centredaily.com).
 
-**Does the RCN ask for personal information?**
+Centre Daily Times strongly recommends parental supervision when a child uses the Internet, and particularly when a child enters a forum or uses email. We also encourage parents to instruct their children not to give out personal information in these areas.
 
-> Yes. A Real Cities Passport consists of four basic elements: a username and a password, an email address, and a postal code. From time to time, you may wish to add information to your Passport in order to let other Passport holders get to know you better, to take advantage of more services or to participate in a special promotion or sweepstakes. 
+## E-Commerce
 
-* * *
+Centre Daily Times hosts a number of online stores that sell a variety of goods and services. These stores may collect information from you such as your name, credit card number and other contact information. [paper name] does not collect, use or disclose this information nor does it own or control the stores or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in e-commerce on or through this site, please contact the store merchants directly.
 
-**How does the RCN use this information?**
+## Cookies
 
-> The Real Cities Network (RCN) uses Passport information for two basic purposes: To improve your online experience by enabling personalization and interactivity and to help target advertisements. 
+A "cookie" is a small data text file that is placed in your browser and allows Centre Daily Times to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Centre Daily Times does not use cookies to collect personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests.
 
-* * *
+## Direct Mailings and "Opting Out"
 
-**How does the RCN target advertising?**
+We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by sending us an email to the [webmaster](mailto:cdtonline@centredaily.com) and requesting that you not receive any of these of these offers.
 
-> When a Passport holder makes use of one of our services, such as a digest of sports stories delivered via email, we "remember" that the user is interested in sports. Then, when an advertiser wants to reach an audience of sports fans, we simply serve the advertisements to those users who we have been flagged as sports fans. Alternatively, if a local grocery market wants to get news of a sale to its community, we can display that advertisement to Passport holders with relevant Zip Codes. It is important to note that in such cases we do not share the details of your Passport information with the advertiser. We act as the middleman between you and the companies that want to reach you. 
+## You Can Change Your Private Information at any Time
 
-* * *
+Information you provide to Centre Daily Times may be stored by us for an indefinite time. However, please feel free to change, update or delete this information at any time by sending an email to the [webmaster](mailto:cdtonline@centredaily.com).
 
-**Will the RCN disclose any of my personal information?**
+## Remember The Risks Whenever You Use The Internet
 
-> RCN will disclose personal information in some limited circumstances. In all such cases, the purpose will be explained to you beforehand, and you will be informed when we collect the information, such as in the rules of sweepstakes or other promotions, or when we believe in good faith that the law requires it. When the RCN decides to integrate 3rd party services which depend upon customer information, the RCN may share its own customer information with the third party. In such cases, the 3rd party will be bound by the RCN privacy policy. Also, RCN does disclose aggregated user statistics (for example, 55% of our users come from the Southwest) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+You should know that when you voluntarily disclose personal information on the Centre Daily Times system (for example, in forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to Centre Daily Times and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, our partners and other Internet sites or services that may be accessible through [paper name] have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-* * *
+## Tell Us How We're Doing
 
-**Will RCN use my information for direct mailings?**
+If you have any questions or comments about our policies, please contact us by sending an email to the [webmaster](mailto:cdtonline@centredaily.com).
 
-> Only if you have given us your permission. We will send you information about our productsand services, or other products and services we feel may be of interest to you. Only RCN (or agents working on behalf of RCN and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily update your RCN Passport such that you no longer receive such offers and mailings. 
+## Advertising Policy
 
-* * *
+Centre Daily Times has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on obtaining information from our users.
 
-**Does the RCN use cookies and "IP Addresses"?**
+"Advertisements served by Real Media appear on pages throughout this site. Real Media utilizes certain technologies to deliver specific advertisements to visitors to this site. Privacy issues surrounding this technology are disclosed in their privacy policy, which can be viewed at http://www.realmedia.com/privacy.html."
 
-> Yes. If you choose "automatic login" when you sign up for a Passport, the RCN stores a scrambled version of your Passport username in a permanent cookie so that we can remember who you are from one visit to the next. If you do not choose "automatic login", we will use a temporary cookie after you log in (which expires after each visit) to keep track of you as youmove from page to page during a given visit to our site. Without these cookies, it is impossible for us to provide any level of personalized service or to target advertising. In addition, some of our sites and advertising systems may set additional cookies which contain no personal information whatsoever. 
-> 
-> Other than the Passport Username, which is scrambled (and without a password), we do not store any sensitive information in these cookies, nor can we use the cookie to track your use of anything other than our web site. Think of these cookies as "claim checks". Like a coat room clerk, we use the cookie to help us keep track of your information on our systems. To anyone other than us, the information stored in your cookies is meaningless. 
-> 
-> You might wonder if another Web site or online user would be able to steal your Passport username from your cookie? The answer is no. Only your RCN site can read the information about your Passport Username. Due to the design of Web servers and browsers, no other Website has access to your RCN cookie and vice versa. However, if you have chosen Automatic Login, anyone who sits down at your computer can log on to our site using your Passport information. Because there is no financial information currently associated with your Passport, this is likely to be more of an inconvencience than it is a threat to your privacy. Still, users who share a machine may elect not to choose Automatic Login. 
-> 
-> The RCN may also collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers. 
-
-* * *
-
-**What else should I know about protecting my privacy?**
-
-> Please remember that the protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of your Passport password, and you should always be careful and responsible whenever disclosing information online. 
-
-* * *
-
-**Want more information?**
-
-> Click here for helpful links.... 
-> 
-> [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rightsonline. 
-> 
-> [Electronic Privacy Information Center](http://www.epic.org/) \- established to focus public attention on emerging civilliberties issues relating to the National Information Infrastructure. 
-> 
-> [Privacy Issues Page](http://www.cdt.org/) \- from the Center for Democracy and Technology (CDT). 
-> 
-> [Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies 
-> 
-> [The EPIC Cookies Page](http://www.epic.org/privacy/cookies/default.html) \- links, news, and explanations 
-
-[](http://ads.realcities.com/click.ng/site=cdt&size=468x60) |  | 
-
-| 
+If you have any questions or comments about our policies, please contact us by sending an email to the [webmaster](mailto:cdtonline@centredaily.com).
