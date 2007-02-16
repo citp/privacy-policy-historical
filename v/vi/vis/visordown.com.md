@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016184629id_/http%3A//www.visordown.com/about/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2007-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070216020931id_/http%3A//www.visordown.com/about/disclaimer.html) for the most accurate reproduction.*
 
 # 
 
