@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218082752id_/http%3A//www.identityguard.com/gs/english/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217064440id_/https%3A//www.identityguard.com/gs/english/privacy.asp) for the most accurate reproduction.*
 
 # Identity Guard®
 
