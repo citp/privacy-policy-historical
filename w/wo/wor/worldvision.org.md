@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928102101id_/http%3A//www.worldvision.org/worldvision/comms2.nsf/stable/privacy%3FOpen%26lid%3Dprivacy%26lpos%3Dbotnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217092047id_/http%3A//www.worldvision.org/worldvision/comms2.nsf/stable/privacy%3FOpen%26lid%3Dprivacy%26lpos%3Dbotnav) for the most accurate reproduction.*
 
 # Privacy Policy Statement for World Vision United States on the Web
 
@@ -92,7 +92,7 @@ Federal Way, WA 98063-9716
   
 **Who Is World Vision?**
 
-We are a Christian relief and development organization dedicated to helping children and their communities worldwide reach their full potential by tackling the causes of poverty.
+World Vision is a Christian humanitarian organization dedicated to working with children, families and their communities worldwide to reach their full potential by tackling the causes of poverty and injustice.
 
   
   
