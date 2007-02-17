@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the costumecauldron.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321042355id_/http%3A//www.costumecauldron.com/index.asp%3FPageAction%3DCustom%26ID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecauldron.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217103653id_/http%3A//www.costumecauldron.com/index.asp%3FPageAction%3DCustom%26ID%3D3) for the most accurate reproduction.*
 
 # Costume Cauldron ~ Privacy Policy ~
 
-**PRIVACY POLICY:**
-
+  
 Your privacy is very important to us. We want to make your experience on the internet as enjoyable and rewarding as possible, and we want you to use the internet’s vast array of information, tools, and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Costume Cauldron collects information from all end users of Costume Cauldron's internet services (the "Services") — those who access some of our Services but do not make a purchase ("Visitors") as well as those who make a purchase ("Customers") — what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. Costume Cauldronrequests that you read this Privacy Policy carefully.
@@ -12,7 +11,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 **Costume Cauldron collects information in different ways from Visitors and Customers who access the various parts of our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
 **Data Security  
-**The information you provide—including credit card information—is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+**The information you provide—including credit card information—is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Our store is a MonsterCommerce Store, hosted by [MonsterCommerce](http://www.monstercommerce.com/), one of the world's largest providers of secure e-commerce solutions. Using [Moneris Solutions](http://www.moneris.com/) as an online payment gateway we can safely and easily accept Visa and Mastercard payments. Moneris Solutions® is Canada’s largest payment processor and the 6th largest in North America. 
 
 **Responses to Email Inquiries  
 **When Visitors or Customers send email inquiries to Costume Cauldron, the return email address is used to answer the email inquiry we receive. Costume Cauldron does not use the return email address for any other purpose and does not share the return email address with any third party.
@@ -31,14 +30,4 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 Where to Direct Questions About the Costume Cauldron Privacy Policy
 
-If you have any questions about this Privacy Policy or the practices described herein, contact:
-
-**[Costume Cauldron](http://www.costumecauldron.com/)**  
-1840 W. Whittier Blvd #1222  
-La Habra, CA, 90631  
-United States
-
-email:
-
-[info@costumecauldron.com](mailto:info@costumecauldron.com)  
-call center:(604) 602.9799
+If you have any questions about this Privacy Policy or the practices described herein contact us **.**
