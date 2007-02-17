@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exclaim.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaim.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/Privacy.asp) for the most accurate reproduction.*
 
 # Exclaim
 
-|  |  | [](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/AboutExclaim.asp) | [](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/Consumer_Vision.asp) | [](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/BusinessSolutionsVision.asp) | [](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/ContactUs.asp) |  |  |   
+|  |  | [](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/AboutExclaim.asp) | [](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/Consumer_Vision.asp) | [](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/BusinessSolutionsVision.asp) | [](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/ContactUs.asp) |  |  |   
 ---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/default.asp)  
+[](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/default.asp)  
    
 |  |  |  dotPhoto, Inc. (DBA ExclaimTM)   
 Customer Privacy Policy - June 15, 2004  
@@ -130,4 +130,4 @@ How to Contact Us Regarding Privacy; Notice:
 |  If, to the extent required by law or otherwise, we notify you that the security of the information you submit has been compromised, then you agree that we may give you such notice by email or electronic notification instead of by regular mail.  
 Back to Top  
   
-[Home](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/default.asp) | [About Us](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/AboutExclaim.asp) | [Terms](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/Terms.asp) | | [Contact Us](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/ContactUs.asp) | [Site Index](https://web.archive.org/web/20061123200141id_/http%3A//www.exclaim.com/SiteIndex.asp)
+[Home](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/default.asp) | [About Us](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/AboutExclaim.asp) | [Terms](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/Terms.asp) | | [Contact Us](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/ContactUs.asp) | [Site Index](https://web.archive.org/web/20070218001619id_/http%3A//exclaim.com/SiteIndex.asp)
