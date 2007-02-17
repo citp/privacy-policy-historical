@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the singlefeed.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020230505id_/http%3A//www.singlefeed.com/%3Fs%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlefeed.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217115621id_/http%3A//www.singlefeed.com%3Fs%3Dpp) for the most accurate reproduction.*
 
 # SingleFeed - Data feed management, data feed submission, and data feed optimization
-
-[Return to home page](https://web.archive.org/web/20061020230505id_/http%3A//www.singlefeed.com/%3Fs%3Dpp?)
 
 Your privacy is very important to us. We use the information you provide about yourself when placing an order only to complete your order. We do not share this information with outside parties except to the extent necessary to complete your order. 
 
