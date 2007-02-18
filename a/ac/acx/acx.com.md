@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acx.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617115453id_/http%3A//www.mide.com/legal_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acx.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218035844id_/http%3A//www.mide.com/legal_privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions
 
-[home](https://web.archive.org/web/20060617115453id_/http%3A//www.mide.com/index.html) | privacy policy 
+[home](https://web.archive.org/web/20070218035844id_/http%3A//www.mide.com/index.html) | privacy policy 
 
 We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Midé will be held with the utmost care, and will not be used in ways to which you have not consented. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to contact us. 
 
