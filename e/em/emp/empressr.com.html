@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the empressr.com privacy policy that was archived on 2006-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060820181155id_/http%3A//www.empressr.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the empressr.com privacy policy that was archived on 2007-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070218145149id_/http%3A//www.empressr.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Empressr</title>
@@ -7,12 +7,13 @@
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 		<link type="text/css" rel="stylesheet" href="includes/style/general.css">
 		<link type="text/css" rel="stylesheet" href="includes/style/corners.css">
+			
 	</head>
 	<body marginwidth="0" marginheight="0">
 		<form name="Form1" method="post" action="privacy.aspx" id="Form1">
 <input type="hidden" name="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" value="dDwxOTMxNDIwMTk4O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDE+O2k8Mz47PjtsPHQ8O2w8aTw1PjtpPDc+Oz47bDx0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+O3Q8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47bDxpPDI+O2k8ND47PjtsPHQ8cDxsPGhyZWY7PjtsPGh0dHA6Ly9lbXByZXNzci5ibG9nc3BvdC5jb20vOz4+Ozs+O3Q8cDxwPGw8TmF2aWdhdGVVcmw7PjtsPGh0dHA6Ly93d3cuZW1wcmVzc3IuY29tL2ZwZm9ydW07Pj47Pjs7Pjs+Pjs+Pjt0PDtsPGk8MT47aTwzPjs+O2w8dDxwPGw8aHJlZjs+O2w8aHR0cDovL2VtcHJlc3NyLmJsb2dzcG90LmNvbS87Pj47Oz47dDxwPGw8aHJlZjs+O2w8aHR0cDovL3d3dy5lbXByZXNzci5jb20vZnBmb3J1bTs+Pjs7Pjs+Pjs+Pjs+PjtsPGZwSGVhZGVyOnJlbWVtYmVySUQ7Pj4wg5wOamFQhIjD223jm+/aXWFffQ==">
+<input type="hidden" name="__VIEWSTATE" value="dDwxOTMxNDIwMTk4O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDE+O2k8Mz47PjtsPHQ8O2w8aTwxPjtpPDU+Oz47bDx0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+O3Q8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47Oz47Pj47dDw7bDxpPDE+Oz47bDx0PHA8bDxocmVmOz47bDxodHRwOi8vZW1wcmVzc3IuYmxvZ3Nwb3QuY29tLzs+Pjs7Pjs+Pjs+Pjs+PjtsPGZwSGVhZGVyOnJlbWVtYmVySUQ7Pj7Vd8o88QsQ1QXGvxb3MeJ4aNjvqA==">
 
 <script language="javascript" type="text/javascript">
 <!--
@@ -35,162 +36,255 @@
 				<div id="containerPage">
 					<div id="containerHeader">
 						
+<script type="text/javascript" src="includes/js/login.js"></script>
+		<script type="text/javascript" src="includes/js/roll.js"></script>
+		
+		<script language="javascript">
+document.getElementsByClassNames = function(className) {
+	var children = document.getElementsByTagName('*') || document.all;
+	var elements = new Array();
+	    
+	for (var i = 0; i < children.length; i++) {
+		var child = children[i];
+		var classNames = child.className.split(' ');
+		for (var j = 0; j < classNames.length; j++) {
+			if (classNames[j] == className) {
+				elements.push(child);
+				break;
+			}
+		}
+	}
+	
+	return elements;
+}
 
+function forgotIsValidEmail(email) {		
+	if (email.length==0){ 
+		
+			return false;			
+	}			
+	if (email.indexOf("@") < 1) { //  must contain @, and it must not be the first character
+		return false;
+	} else if (email.lastIndexOf(".") <= email.indexOf("@")) {  // last dot must be after the @
+		return false;
+	} else if (email.indexOf("@") == email.length) {  // @ must not be the last character
+		return false;
+	} else if (email.indexOf("..") >=0) { // two periods in a row is not valid
+	return false;
+	} else if (email.indexOf(".") == email.length) {  // . must not be the last character
+	return false;
+	}
+	return true;
+}
+
+
+
+
+function forgotValidate(){
+
+	var valid=true;
+	if(!forgotIsValidEmail(document.getElementById("forgotemail").value)){
+		valid = false;	
+		alert("Please enter a correct email address.");
+
+	}	
+	if(valid){
+		forgot(document.getElementById("forgotemail").value);
+		document.getElementById("fpHeader_logUser").style.display="none";	
+	}
+}
+
+function forgotCreateRequestObject() {
+	var request_o;
+	//declare the variable to hold the object.
+	value = false;
+	while (!value) {
+		if (document.getElementById) {
+			try {
+				request_o = (window.ActiveXObject) ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();
+				value = true;
+			} catch (e) {
+				//trace("ERROR: \n" + e);
+				value = false;
+			}
+		}
+	}
+	return request_o;
+	//return the object
+}
+
+function forgot(username) {
+	urchinTracker("/login/forgotpassword/email/"+username);
+	var faker = new Date().getTime();
+	var doc = forgotCreateRequestObject();
+	doc.onreadystatechange = function() {
+		if (doc.readyState == 4 && doc.status == 200) {
+			//trace("hello");
+			var respon = doc.responseText;
+		
+			document.getElementById("forgotalert").style.display="";
+			
+			
+		}
+	};
+	doc.open("GET", "login.aspx?pwforgot="+username+"&faker=" + faker, true);
+	doc.setRequestHeader("Content-Type", "text");
+	doc.send(null);
+}
+
+
+		</script>
 <div id="header">
-	<div id="fusepointeLogo"><img src="images/empressrheader.jpg" width="566" height="112" alt="" border="0" onclick="javascript:window.location='default.aspx';" style="CURSOR:pointer"></div>
-	<div id="mainNav">
-		<ul>
-			<li>
-				<a href="learnIt.aspx"><span>LEARN IT</span></a>
-			</li><li>
-				<a id="fpHeader_tryit2" href="javascript:__doPostBack('fpHeader$tryit2','')">
-					<span>CREATE IT</span></a>
-			</li><li>
-				<a href="faqs.aspx"><span>FAQs</span></a>
-			</li><li class="nomargin">
-				<a href="aboutUS.aspx"><span>ABOUT US</span></a>
-			</li>
-		</ul>
-	</div>
-</div>
-<div id="signIn">
-	<div id="signInBox"><b class="signInCorners"> <b class="signInCorners1"><b></b></b><b class="signInCorners2">
-				<b></b></b><b class="signInCorners3"></b><b class="signInCorners4"></b><b class="signInCorners5">
-			</b></b>
-		<div class="signInCorners_content">
-			<div id="fpHeader_notLogedIN" class="logIn">
-				TO SAVE PRESENTATIONS, SIGN IN.
-				<ul>
-					<li>
-					Empressr ID
-					</li><li class="right">
-						<input name="fpHeader:userName" id="fpHeader_userName" type="text" tabindex="1" size="20"></li></ul>
-				<ul>
-					<li>
-					Password
-					</li><li class="right">
-						<input name="fpHeader:pword" type="password" size="20" id="fpHeader_pword" tabindex="2">
-						</li></ul>
-				<ul>
-					<li class="small">
-						<input name="fpHeader:rememberID" id="fpHeader_rememberID" type="checkbox"> Remember my ID on this 
-						computer</li></ul>
-				<ul>
-					<li class="small">
-						<a href="forgot.aspx">Forgot your password?</a>
-					</li><li class="right">
-						<a id="fpHeader_logUser" class="signInButt" href="javascript:__doPostBack('fpHeader$logUser','')"></a></li></ul>
-			</div>
+	<div id="empressrLogo">
+		<a href="default.aspx" border="0"><img src="images/spc.gif" width="300" height="75" alt=""></a>
+		<div id="headerForm">
 			
 		</div>
-		<b class="signInCorners"><b class="signInCorners5"></b><b class="signInCorners4"></b>
-			<b class="signInCorners3"></b><b class="signInCorners2"><b></b></b><b class="signInCorners1">
-				<b></b></b></b>
-	</div>
-	<div id="signUp" align="right">
-		
-		<span id="fpHeader_signedOutWelcome">
-				<span class="forgot">Don't have an Empressr ID?</span>
-					<a class="signUpButt" href="register.aspx"><span>sign up</span></a>
-				</span>
-	</div>
-	<div id="errorFly"><span id="fpHeader_loginErr" class="error"></span></div>
-</div>
+		<!-- headerForm -->
+		<div class="logIn">
+			<div id="mainNav">
+				<div id="main_nav"></div>
+				<ul id="fpHeader_notLogedIN">
+					<li>
+						<a href="#" id="savedlinks" onclick="toggleLogin(true); return false;" class="blue" name="savedlinks"><span>LOG IN</span></a></li>
+					<li class="nomargin">
+						<a href="register.aspx?signup=header" class="blue" onclick="javascript:urchinTracker('/home/top/signup/click');"><span>SIGN UP</span></a></li>
+				</ul>
 				
-
-
-					</div>
-					<div id="containerBody" align="left">
-						
-						<div id="bodyText" align="left">
-							<h1 class="top">Empressr Privacy Policy Statement</h1>
-							<span>We collect the e-mail addresses of those who communicate with us via e-mail, 
-								aggregate information on what pages consumers access or visit, and information 
-								volunteered by the consumer (such as survey information and/or site 
-								registrations). The information we collect is used to improve the content of 
-								our Web pages and the quality of our service, and is not shared with or sold to 
-								other organizations for commercial purposes, except to provide products or 
-								services you've requested, when we have your permission, or under the following 
-								circumstances:</span> <span>It is necessary to share information in order to 
-								investigate, prevent, or take action regarding illegal activities, suspected 
-								fraud, situations involving potential threats to the physical safety of any 
-								person, violations of Terms of Service, or as otherwise required by law.</span>
-							<span>We transfer information about you if Fusebox or Empressr is acquired by or 
-								merged with another company. In this event, Fusebox will notify you before 
-								information about you is transferred and becomes subject to a different privacy 
-								policy.</span>
-							<hr>
-							<h1>Information Gathering and Usage</h1>
-							<span>When you register for Empressr we ask for information such as your name, 
-								company name, email address, billing address, credit card information. Members 
-								who sign up for the free account are not required to enter a credit card.</span>
-							<span>Fusebox uses collected information for the following general purposes: 
-								products and services provision, billing, identification and authentication, 
-								services improvement, contact, and research.</span>
-							<hr>
-							<h1>Cookies</h1>
-							<span>A cookie is a small amount of data, which often includes an anonymous unique 
-								identifier, that is sent to your browser from a web site's computers and stored 
-								on your computer's hard drive.</span> <span>Cookies are required to use the 
-								Empressr service.</span> <span>We use cookies to record current session 
-								information, but do not use permanent cookies. You are required to log-in to 
-								your Empressr Site after a certain period of time has elapsed to protect you 
-								against others accidentally accessing your account contents.</span>
-							
+			</div>
+			<!-- mainNav -->
+		</div>
+		<div id="master">
+	
+			<div id="loginWidget" class="loginWidget" style="DISPLAY:none;">
+				<a href="javascript:void(0);" onclick="toggleLogin(false);"><img src="images/b_close.gif" width="10" height="10" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; RIGHT: 0px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; POSITION: absolute; TOP: 0px"></a>
+				<img src="images/corner_top-left.gif" width="10" height="10" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; LEFT: 0px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; POSITION: absolute; TOP: 0px">
+				<img src="images/corner_bottom-left.gif" width="10" height="10" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; LEFT: 0px; BORDER-LEFT: medium none; BOTTOM: 0px; BORDER-BOTTOM: medium none; POSITION: absolute">
+				<img src="images/corner_bottom-right.gif" width="10" height="10" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; RIGHT: 0px; BORDER-LEFT: medium none; BOTTOM: 0px; BORDER-BOTTOM: medium none; POSITION: absolute">
+				<div id="logHolder">
+					<div style="BORDER-RIGHT:#788592 1px solid;PADDING-RIGHT:0px;BORDER-TOP:#788592 1px solid;PADDING-LEFT:0px;PADDING-BOTTOM:0px;MARGIN:15px;BORDER-LEFT:#788592 1px solid;PADDING-TOP:0px;BORDER-BOTTOM:#788592 1px solid"><p class="msg">To 
+							Save Presentations, Sign In</p>
+						<div class="loginWidget_right">
+							<span class="loginWidget_message"></span>
+							<div style="MARGIN-BOTTOM: 5px">E-Mail: <input name="fpHeader:userName" id="fpHeader_userName" type="text" style="WIDTH: 150px;HEIGHT: 15px"></div>
+							<div style="MARGIN-BOTTOM: 5px">Password: <input name="fpHeader:pword" id="fpHeader_pword" type="password" style="WIDTH: 150px;HEIGHT: 15px"></div>
+							<div style="FONT-WEIGHT: normal; FONT-SIZE: 10px; MARGIN-BOTTOM: 5px; COLOR: #fff"><input name="fpHeader:rememberID" id="fpHeader_rememberID" type="checkbox" style="border:0px;">&nbsp;&nbsp;Remember&nbsp;&nbsp;me</div>
+							<div style="MARGIN-BOTTOM: 5px"><a href="javascript:void(0);" onclick="toggleForgotPass();" style="FONT-WEIGHT: normal; FONT-SIZE: 10px">Forgot 
+									Password?</a></div>
+							<div onclick="javascript:urchinTracker('/home/top/login/click');"><a id="fpHeader_logUser" class="signInButt" href="javascript:__doPostBack('fpHeader$logUser','')"></a>
+								<div style="CLEAR: both"></div>
 							</div>
-							<div id="bodyText" align="left">
-							<h1 class="top">Client Data Storage</h1>
-							<span>Although Fusebox owns the data storage, databases and all rights to the 
-								Empressr application, you retain all rights to your data and we will never sell 
-								or share your client data with any third-parties, contact your clients 
-								directly, or use your data for our own business advantage. We will also not 
-								utilize your data in our databases to compete with you, market to your clients, 
-								advertise to, or contact them for any other means of profit. We respect the 
-								privacy of our subscribers, and the privacy of their client data.</span>
-							<hr>
-							<h1>Disclosure</h1>
-							<span>Fusebox may disclose personally identifiable information under special 
-								circumstances, such as to comply with subpoenas or when your actions violate 
-								the Terms of Service.</span>
-							<hr>
-							<h1>Changes</h1>
-							<span>Fusebox may periodically update this policy. We will notify you about 
-								significant changes in the way we treat personal information by sending a 
-								notice to the primary email address specified in your Empressr account holder 
-								account or by placing a prominent notice on our site.</span>
-							<hr>
-							<h1>Questions</h1>
-							<span>Any questions about this Privacy Policy should be addressed to <a href="contact.html">
-									privacy@Empressr.com</a> or by mail to: Fusebox Inc, 36 West 20th Street, 
-								New York, NY 10011 USA</span>
 						</div>
+						<div style="CLEAR: both"></div>
 					</div>
-					<div id="containerFooter">
-						<div id="footerAds"><hr class="top">
-							<script type="text/javascript"><!--
-google_ad_client = "pub-7059317786182264"; google_ad_width = 728; google_ad_height = 90; google_ad_format = "728x90_as"; google_ad_type = "text"; google_ad_channel ="9703384290"; google_color_border = "FFFFFF"; google_color_bg = "FFFFFF"; google_color_link = "336699"; google_color_text = "454545"; google_color_url = "336699"; //--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+				</div>
+				<div id="forgotHolder" style="DISPLAY:none">
+					<div style="BORDER-RIGHT:#788592 1px solid;PADDING-RIGHT:0px;BORDER-TOP:#788592 1px solid;PADDING-LEFT:0px;PADDING-BOTTOM:0px;MARGIN:15px;BORDER-LEFT:#788592 1px solid;PADDING-TOP:0px;BORDER-BOTTOM:#788592 1px solid">
+						<p class="msg">Request New Password</p>
+						<p id="forgotPassEmailMessage">Enter your email address to receive a new password.</p>
+						<div class="loginWidget_right">
+							<span class="loginWidget_message"></span>
+							<div style="MARGIN-BOTTOM: 5px">
+								E-Mail Address:&nbsp;&nbsp;<input type="text" id="forgotemail" name="forgotemail" style="MARGIN: 0px; WIDTH: 120px; HEIGHT: 15px">
+							</div>
+							<div><a id="fpHeader_logUser" class="submitButt" onclick="javascript:forgotValidate();" style=""><span>Submit</span></a>
+								<span id="forgotalert" style="display:none;">The password has been sent. </span>
+								<div style="CLEAR: both"></div>
+							</div>
 						</div>
+						<div style="CLEAR: both"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> <!-- empressrLogo -->
+</div> <!-- header -->
+<div id="errorFly"><span id="fpHeader_loginErr" class="error" style=" TEXT-ALIGN:left"></span></div>
+
+					</div>
+					<div id="containerBody">
+		
+		<div class="twoColLeft">
+			<h2>Empressr Privacy Policy Statement</h2>
+			<p>We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
+			<p>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.</p>
+			<p>We transfer information about you if Fusebox or Empressr is acquired by or merged with another company. In this event, Fusebox will notify you before information about you is transferred and becomes subject to a different privacy policy.</p>
+			<hr>
+			<h2>Information Gathering and Usage</h2>
+			<p>When you register for Empressr we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.</p>
+			<p>Fusebox uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</p>
+			<hr>
+			<h2>Cookies</h2>
+			<p>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.</p>
+			<p>Cookies are required to use the Empressr service.</p>
+			<p>We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Empressr Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.</p>
+			</div>
+			<div class="twoColRight">
+			<h2>Client Data Storage</h2>
+			<p>Although Fusebox owns the data storage, databases and all rights to the Empressr application, you retain all rights to your data and we will never sell or share your client data with any third-parties, contact your clients directly, or use your data for our own business advantage. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit. We respect the privacy of our subscribers, and the privacy of their client data.</p>
+			<hr>
+			<h2>Disclosure</h2>
+			<p>Fusebox may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.</p>
+			<hr>
+			<h2>Changes</h2>
+			<p>Fusebox may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Empressr account holder account or by placing a prominent notice on our site.</p>
+			<hr>
+			<h2>Questions</h2>
+			<p>Any questions about this Privacy Policy should be addressed to <a href="contactUs.aspx">privacy@Empressr.com</a> or by mail to: Fusebox Inc, 36 West 20th Street, New York, NY 10011 USA</p>
+			
+			
+		</div>
+	</div>
+					<div id="containerFooter">
+					
 						
-<div id="fusepointeFooter">
-<hr class="bottom">
-	<span class="left" style="width:220px;">Empressr Alpha v. 01 ©2006 <a href="http://www.fusebox.com" target="_blank">Fusebox Inc</a></span>
-	<span class="right" style="width:500px;">
-		<a href="http://empressr.blogspot.com/" id="Footer2_blog" target="_blank">Blog</a>
-		| <a href="http://www.empressr.com/fpforum" id="Footer2_forum" target="_blank">Forum</a>
-		<span id="Footer2_contacts">	| <a href="contactUs.aspx">Contact Us</a>
-		 | <a href="privacy.aspx">Privacy Policy</a> | <a href="terms.aspx">Terms of Use</a>
-		</span>
-</span></div>
+<div id="links">
+	<ul>
+		<li class="link1">
+		<h3>Compatability</h3>
+		<p>Empressr is compatible with Internet Explorer 6.0+ and Firefox 1.5+ browsers. We are working to incorporate Safari.</p>
+		</li>
+	</ul>
+	<ul>
+		<li class="link2">
+		<h3>About Us</h3>
+		<p><a href="aboutUS.aspx">Who Are We?</a><br><a href="http://empressr.blogspot.com/" id="Footer2_blog" target="_blank">Blog</a></p>
+		</li>
+	</ul>
+	<ul>
+		<li class="link2">
+		<h3>Contact Us</h3>
+		<p><a href="contactUs.aspx?contact=techsupport">Tech Support</a><br><a href="contactUs.aspx?contact=bug">Report a Bug</a><br><a href="contactUs.aspx?contact=request">Requests</a><br><a href="contactUs.aspx?contact=comment">General Questions</a></p>
+		</li>
+	</ul>
+	<ul>
+		<li class="link2">
+		<h3>More</h3>
+		<p><a href="learnIt.aspx">Learn It</a><br><a href="faqs.aspx">FAQ</a><br><a href="privacy.aspx">Privacy Policy</a><br><a href="terms.aspx">Terms of Use</a></p>
+		</li>
+	</ul>
+	<ul class="no_border">
+		<li class="link2">
+		<h3>Usage Rights</h3>
+		<p><a href="http://creativecommons.org/licenses/by/2.5/" target="_blank"><img src="images/cc.gif" width="88" heigth="31"></a><br><span>Empressr Alpha v. 1.1.4 by <a href="http://www.fusebox.com/">Fusebox, Inc</a></span></p>
+		</li>
+	</ul>
+		<div class="clear">&nbsp;</div>
+	
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-351662-4";
+	_userv=2;
+	urchinTracker();
+</script>
+<!--<script src="/__utm.js" type="text/javascript"></script>-->
+
+
 					</div>
 				</div>
 			</div>
 		</form>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-351662-4";
-urchinTracker();
-</script>	
+	
 
 </body></html>
