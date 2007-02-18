@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syncing.net privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011003722id_/http%3A//www.syncing.net/index.php%3Fln%3Den%26menu%3Dlegal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncing.net privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218183757id_/http%3A//www.syncing.net/index.php%3Fln%3Den%26menu%3Dlegal%23privacy) for the most accurate reproduction.*
 
-# Synchronize Outlook®, work in team and share your calendar, contacts, emails, notes and tasks!
+# Sync Outlook without a server on multiple computers and notebooks
 
 ### TERMS OF USE
 
@@ -119,21 +119,21 @@ If you have any questions related to this Privacy Policy please send us an email
 
 END-USER LICENSE AGREEMENT FOR SYNCING.NET for Outlook®
 
-This End-User License Agreement (EULA) is a legal agreement between you (either an individual or a single entity) and SYNCING.NET Technologies GmbH for the software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this LICENSE AGREEMENT. If you do not agree to the terms of this LICENSE AGREEMENT, do not install or use the SOFTWARE PRODUCT. Please do NOT order a registration key if you do not agree to this license agreement. 
+This End-User License Agreement (EULA) is a legal agreement between you (either an individual or a single entity) and SYNCING.NET Technologies GmbH Berlin (SYNCING.NET) for the software product identified above, which includes computer software and may include associated media, printed materials, and online or electronic documentation (SOFTWARE PRODUCT). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT. Please do NOT order a license key if you do not agree to this EULA. 
 
   
 
 
 License Conditions
 
-The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. This also applies to demo versions. No part of the software or the manual may be multiplied, disseminated or processed in any way without the written consent of IT-Service Andre Hacker. Violations of these conditions will be prosecuted in every case. The use of the software is done at your own risk. The manufacturer and developer accept no liability for any damages, either as a direct or indirect consequence of the use of this product or software. The SOFTWARE PRODUCT is licensed, not sold. 
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. This also applies to demo versions. No part of the software or the manual may be multiplied, disseminated or processed in any way without the written consent of SYNCING.NET. Violations of these conditions will be prosecuted in every case. The use of the software is done at your own risk. The manufacturer and developer accept no liability for any damages, either as a direct or indirect consequence of the use of this product or software. The SOFTWARE PRODUCT is licensed, not sold. 
 
   
 
 
 Grant of License
 
-This LICENSE AGREEMENT grants you the following rights: 
+This EULA grants you the following rights: 
 
   
 
@@ -161,19 +161,19 @@ You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, ex
 
 Termination
 
-Without prejudice to any other rights, SYNCING.NET Technologies GmbH may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts. 
+Without prejudice to any other rights, SYNCING.NET may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts. 
 
-If you have any questions on this EULA, please send an email to [info@syncing.net](mailto:info@syncing.net), or write to: 
+If you have any questions on this EULA, please send an email to [info@syncing.net](mailto:info@syncing.net) or write to: 
 
 SYNCING.NET Technologies GmbH
 
-Boxhagenerstr. 27  
-D-10245 Berlin  
+Torellstr. 1  
+D-10243 Berlin  
 GERMANY  
 
 
 SYNCING.NET for Outlook®  
-Copyright © 2006 SYNCING.NET Technologies GmbH. All rights reserved. 
+Copyright © 2006-2007 SYNCING.NET Technologies GmbH. All rights reserved. 
 
   
 
