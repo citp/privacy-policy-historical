@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219135303id_/http%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218161345id_/http%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SlashGear, Latest Tech and Gadget News
 
@@ -16,4 +16,4 @@ SlashGear includes links to other websites, and provides access to products and 
 
 Questions on Privacy
 
-If you have questions or concerns about the children’s privacy statement, the privacy practices of the SlashGear site, or your dealings with SlashGear, please [contact us](http://www.slashgear.com/contact/ "Contact Us"). 
+If you have questions or concerns about the children’s privacy statement, the privacy practices of the SlashGear site, or your dealings with SlashGear, please [contact us](http://www.slashgear.com/contact/ "Contact Us").
