@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2006-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060918215016id_/http%3A//www.sportspyder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218125358id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
 
 # SportSpyder - Privacy Statement
 
-### why do you need my email?
+### Why do you need my email?
 
 To communicate with you
      We need your e-mail to confirm you are an actual person, and to communicate with you about your account with SportSpyder. We will only send you updates about SportSpyder if you choose to receive such emails. 
 We keep it to ourselves
      SportSpyder uses your information for internal purposes only. We keep this information private and will never sell, share, or distribute this information to anyone else. 
 
-### what type of personal information do you gather?
+### What type of personal information do you gather?
 
 What you give us
      We store any information you give us when registering and logging into our website. Any customizations to the website that you do are stored so that you can keep these personalized settings for a later date. 
@@ -18,7 +18,7 @@ IP address
 Cookies
      Cookies are bits of information that are stored on your computer to help us remember you when you come back to SportSpyder. We use cookies to display preferences when you access the site as well as allowing you to login and customize your experience on SportSpyder. 
 
-### can I change my privacy preferences?
+### Can I change my privacy preferences?
 
 Your SportSpyder profile
      When logged in you can change your privacy preferences on your "My SportSpyder" page. 
