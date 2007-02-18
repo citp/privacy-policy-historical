@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the petsathome.com privacy policy that was archived on 2006-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017201634id_/http%3A//www.petsathome.com/page/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petsathome.com privacy policy that was archived on 2007-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070218162810id_/http%3A//www.petsathome.com/page/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -121,7 +121,7 @@
 	<h4>Search:</h4>
 <form name="search" method="get" action="http://www.petsathome.com/bin/venda" onsubmit="if (document.search.searchex.value=='By Keyword'){document.search.searchex.value='';}">
 	<input type="hidden" name="ex" value="co_wizr-xapian">
-	<input type="hidden" name="threshold" value="30">
+	<input type="hidden" name="threshold" value="1">
 	<input type="hidden" name="bsref" value="petsathome">
 	<input type="hidden" name="searchfld" value=""><!-- SEARCH FIELD - LEAVE BLANK ( "") IF YOU WANT TO SEARCH ALL FIELDS -->
 	<input type="hidden" name="searchpage" value=""><!-- SEARCH PAGE - HAVE A VALUE OF 1 IF YOU WANT TO SEARCH ALL PAGES -->
@@ -130,6 +130,7 @@
 	<input type="hidden" name="searchlike" value="1"><!-- SEARCH LIKE - HAVE A VALUE OF 1 IF YOU WANT YOUR SEARCH TO BE TRUNCATED-->
 	<input type="hidden" name="itemsperpage" value="4">
 	<input type="hidden" name="ARG_DEFAULTOP" value="AND">
+	<input type="hidden" name="SYNALL" value="1"> <!-- SYNALL - HAVE A VALUE OF 1 IF YOU WANT TO  USE SYNONYM OR SUBSTITUTION-->
 	<fieldset>
 		<input type="text" maxsize="100" name="searchex" id="searchex" value="By Keyword" onclick="if (this.value=='By Keyword'){this.value='';}">
 		<input border="0" type="image" alt="search" src="http://www.petsathome.com/content/ebiz/petsathome/resources/images/buttons/bt_go.gif" class="button">
@@ -139,9 +140,8 @@
 	<h4>Browse:</h4>
 <ul>
 	<li><a href="http://www.petsathome.com/page/openinghours">Opening Hours</a></li>
-<li><a href="http://www.clearpresentations.com/pets_special_offers/special_offers.htm" target="_blank">Offers In Store</a></li>
+        <li><a href="http://www.petsathome.com/page/special_offers">Offers In Store</a></li>
 	<li><a href="http://www.petsathome.com/pcat/storeevents">Store Events</a></li>
-<li><a href="http://www.clearpresentations.com/pets_form/form.asp" target="_blank">Pets at Home Club</a></li>
 	<li><a href="http://www.petsathome.com/pcat/bluecross">Charity</a></li>
  	<li><a href="http://www.petsathome.com/page/contactus">Contact Us</a></li>
 <li><a href="http://www.petsathome.com/page/termsandconditions">Terms &amp; 
@@ -168,7 +168,7 @@ Conditions</a></li>
 </form>
 <br class="clear"><br></div>
 		<!-- store finder -->
-	<a href="http://www.petsathome.com/page/storelocator"><img src="http://www.petsathome.com/content/ebiz/petsathome/resources/images/img_storefinder.gif" width="130" height="46" alt="Store Finder" title="Store Finder" border="0"></a><br class="clear">
+	<a href="http://www.petsathome.com/page/lt_store_locator"><img src="http://www.petsathome.com/content/ebiz/petsathome/resources/images/img_storefinder.gif" width="130" height="46" alt="Store Finder" title="Store Finder" border="0"></a><br class="clear">
 	<!-- Dogs for the Disabled -->
 	<div class="topspacer"><a href="http://www.petsathome.com/pcat/bluecross"><img src="http://www.petsathome.com/content/ebiz/petsathome/resources/images/img_bluecross.gif" width="130" height="46" alt="Dogs for the Disabled - Blue Cross" title="Dogs for the Disabled - Blue Cross" border="0"></a></div>
 	<!-- Vacancies -->
@@ -565,5 +565,24 @@ if (typeof query!="undefined") {
 
 
  
+
+<!-- if on a secure page use pull in the SSL JS -->
+
+<!-- if on a non-secure page pull in the non-secure JS -->
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+
+
+<!-- standard tag for non shopcart/register workflow-->
+
+<script type="text/javascript">
+_uacct = "UA-345269-1";
+urchinTracker();
+</script>
+
+
+<!--dynamic tag for shopcart/register workflow-->
+
 
 </body></html>
