@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investis.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221051700id_/http%3A//investis.com/investis/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investis.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218034116id_/http%3A//www.investis.com/investis/store/privacy) for the most accurate reproduction.*
 
 # Investis - Privacy statement
 
