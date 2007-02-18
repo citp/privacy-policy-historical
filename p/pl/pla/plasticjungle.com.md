@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plasticjungle.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127121517id_/http%3A//plasticjungle.com/privacy.asp%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticjungle.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218173304id_/http%3A//www.plasticjungle.com/privacy.asp%3Fid%3D0) for the most accurate reproduction.*
 
 # PlasticJungle.com : Privacy Policy
 
-|   |  |  |   
+|  |  |   |  |  |   
 ---  
 |  |  |   
 ---  
