@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edom.co.uk privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624145943id_/http%3A//www.edom.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edom.co.uk privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219171627id_/http%3A//www.edom.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Ebooks, mobile phones,mobile accessories, and more ebooks at eDOM.co.uk :: Help zone
+# eDOM.co.uk ebook shop :: Help zone
 
 eDOM.co.uk strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."  
 
