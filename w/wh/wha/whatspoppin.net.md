@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatspoppin.net privacy policy that was archived on 2006-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060908222903id_/http%3A//www.whatspoppin.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatspoppin.net privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219111504id_/http%3A//whatspoppin.net/privacy.php) for the most accurate reproduction.*
 
 # WhatsPoppin.net
 
