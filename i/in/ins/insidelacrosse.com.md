@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213054151id_/http%3A//www.insidelacrosse.com/page.cfm%3FpageRID%3D6%26news%3Dfdetail%26storyid%3D1648%26archive%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220000907id_/http%3A//www.insidelacrosse.com/page.cfm%3FpageRID%3D6%26news%3Dfdetail%26storyid%3D1648%26archive%3Dyes) for the most accurate reproduction.*
 
 # Inside Lacrosse - Recruiting
 
