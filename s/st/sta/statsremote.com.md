@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the statsremote.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216205653id_/http%3A//www.statsremote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsremote.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219155841id_/http%3A//www.statsremote.com/privacy.php) for the most accurate reproduction.*
 
 # StatsRemote :: Privacy Policy :: Your privacy is important to us.
 
 Network 24/7 GmbH respects your privacy and personal sphere. 
 
 **Collection and Processing of Personal Data**  
-When you visit our Web sites, our Web server automatically records the name of your Internet service provider, the Web site from which you visit us, the Web sites you actually visit and the date and length of your visit. Additional personal data is only stored if volunteered by you, for example in the context of a registration or a survey.
+When you visit our Web sites, our Web server automatically records your IP address, the Web site from which you visit us, the Web sites you actually visit and the date and time of your visit. Additional personal data is only stored if volunteered by you, for example in the context of a registration or a survey.
 
 **When using our software your personal login details and numbers of the supported affiliate programs and pay per click search engines are stored encrypted on your hard drive. We do not have access to your data at any time. Before StatsRemote checks your stats the software will connect to our server in order to check whether you are authorized to use the software. No information except the StatsRemote username and password is sent to our server at any time.**
 
