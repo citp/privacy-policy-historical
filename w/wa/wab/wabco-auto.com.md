@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510151412id_/http%3A//www.wabco-auto.com/service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219184229id_/http%3A//www.wabco-auto.com/service/privacy_policy) for the most accurate reproduction.*
 
 # American Standard - Privacy Policy
 
-Raising the Standard
-
-5/3/2006
-
-|   | 
+American Standard Companies, Inc. Privacy Policy 
 
 American Standard Companies, Inc. ("American Standard") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. American Standard strives to collect, use and disclose Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. American Standard abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Privacy Policy (the "Policy") sets forth the privacy principles that American Standard follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the twenty-five member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States. 
 
@@ -14,11 +10,15 @@ The United States Department of Commerce and the European Commission have agreed
 
 American Standard has a Global Director of Data Protection who assists in ensuring compliance with this Policy and data security issues. American Standard educates its employees concerning compliance with this Policy and has self-assessment procedures in place to assure compliance. American Standard's Global Director of Data Protection William H. Murray and its Corporate Legal Team are available to any of its valued employees, customers, vendors, business partners or others who may have questions concerning this Policy or data security practices. Relevant contact information is provided herein.
 
+II. SCOPE
+
 This Policy applies to all Personal information received by American Standard in any format including electronic, paper or verbal. American Standard collects and processes Personal information concerning current and former employees and their respective family members, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. American Standard is the sole owner of information it collects from current and former employees, applicants for employment, customers, vendors and others. American Standard will not sell or share this information with third parties in ways different than what is disclosed in this Privacy Policy. On a global basis, American Standard will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy.
 
 Personal information collected by American Standard from employees and applicants for employment is maintained at its corporate offices in Piscataway, New Jersey in the United States as well as the local office of the employee or applicant. American Standard collects Personal information for, among other things, legitimate human resource business reasons such as payroll administration; filling employment positions; administration and operations of its benefit programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. American Standard does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent American Standard maintains information on an individual's medical health or ethnicity (as legally required), American Standard will protect, secure and use that information in a manner consistent with this Policy and applicable law.
 
 Personal information collected by American Standard from prospective customers, consumers, vendors, business partners and others may be maintained at its corporate offices in Piscataway, New Jersey or at other American Standard facilities. American Standard collects Personal information for, among other things, legitimate business reasons such as customer service; product, warranty and claims administration; meeting governmental reporting and records requirements; maintenance of accurate accounts payable and receivable records; internal marketing research; safety and performance management; financial and sales data; and contact information. All Personal information collected by American Standard will be used for legitimate business purposes consistent with this Policy.
+
+III. DEFINITIONS
 
 For purposes of this Policy, the following definitions shall apply:
 
@@ -29,6 +29,8 @@ For purposes of this Policy, the following definitions shall apply:
 "Personal information" means any information or set of information that identifies or could be used by or on behalf of American Standard to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal information.
 
 "Sensitive Personal information" means Personal information that reveals race, ethnic origin, trade union membership, or that concerns health. In addition, American Standard will treat as sensitive Personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+
+IV. PRIVACY PRINCIPLES
 
 The privacy principles in this Policy are based on the seven Safe Harbor Principles.
 
@@ -50,7 +52,11 @@ American Standard will provide individuals with reasonable mechanisms to exercis
 
 (7) ENFORCEMENT: American Standard will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy and the US Department of Commerce Safe Harbor Principles. Any employee that American Standard determines is in violation of this Policy will be subject to disciplinary action up to and including termination of employment.
 
+V. DISPUTE RESOLUTION
+
 Any questions or concerns regarding the use or disclosure of Personal information should be directed to the American Standard Privacy Office at the address given below. American Standard will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between American Standard and the complainant, American Standard has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles.
+
+VI. INTERNET PRIVACY
 
 American Standard sees the Internet, intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners and others. American Standard recognizes the importance of maintaining the privacy of Personal information collected through websites that it operates. American Standard's sole purpose for operating its websites is to provide information concerning products and services to the public. In general, visitors can reach American Standard on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via American Standard websites but are not required to do so. American Standard collects information from visitors to the websites who voluntarily provide Personal information by filling out and submitting online questionnaires concerning feedback on the website, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. American Standard collects this information so it may answer questions and forward requested information. American Standard does not sell or share this information with non-agent third parties.
 
@@ -70,6 +76,6 @@ The inquiries should include the individual's name, address, and other relevant 
 
 American Standard websites may contain links to other "non-American Standard" websites. American Standard assumes no responsibility for the content or the privacy policies and practices on those websites. American Standard encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of American Standard.
 
-The practices described in this Policy are current Personal data protection policies as of February 21, 2006. American Standard reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.
+VII. CHANGES TO THIS SAFE HARBOR PRIVACY POLICY
 
-|   |   |  
+The practices described in this Policy are current Personal data protection policies as of February 21, 2006. American Standard reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.
