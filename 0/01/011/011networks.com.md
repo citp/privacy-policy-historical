@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 011networks.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218204909id_/http%3A//www.011networks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 011networks.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219044858id_/http%3A//www.011networks.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for 011 Networks
 
@@ -66,4 +66,4 @@ O'Fallon, MO  63366
 
 Copyright 2004 - 011 Networks  
 
-**[Home](https://web.archive.org/web/20061218204909id_/http%3A//www.011networks.com/index.htm)**
+**[Home](https://web.archive.org/web/20070219044858id_/http%3A//www.011networks.com/index.htm)**
