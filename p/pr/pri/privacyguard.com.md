@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211015908id_/http%3A//www.privacyguard.com/pages/View/Content.asp%3Fcontent%3DCustomerService%252FPrivacyPolicies%26SID%3D49102CC578BD417F5921e4b2573cbba6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219115436id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fPrivacyPolicies%26SID%3DE1185422869549DB54371ce78c8bfa9d) for the most accurate reproduction.*
 
 # PrivacyGuard
 
@@ -7,15 +7,15 @@
 
 |    
 ---  
-|   | [About Us](https://web.archive.org/Content.aspx?content=CustomerService%2fAboutUs&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
+|   | [About Us](https://web.archive.org/Content.aspx?content=CustomerService%2fAboutUs&SID=E78705E9640C47A91802fd2927d082e0)  
 ---|---  
-  | [Contact Us](https://web.archive.org/Content.aspx?content=CustomerService%2fContactUs&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
-  | [Frequently Asked Questions](https://web.archive.org/Content.aspx?content=CustomerService%2fFaqs&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
-  | [Privacy Policies](https://web.archive.org/Content.aspx?content=CustomerService%2fPrivacyPolicies&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
-  | [Terms and Conditions](https://web.archive.org/Content.aspx?content=CustomerService%2fTermsConditions&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
-  | [Copyright Information](https://web.archive.org/Content.aspx?content=CustomerService%2fCopyright&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
-  | [Fair Credit Reporting Act](https://web.archive.org/Content.aspx?content=CustomerService%2fFcraPolicy&SID=F9BA2412F6CF4CDC8172278bd4f372b3)  
-|  |  [ Use of Financial Information Privacy Policy ](https://web.archive.org/Content.aspx?SID=F9BA2412F6CF4CDC8172278bd4f372b3&content=CustomerService%2fFinInfoPolicy)
+  | [Contact Us](https://web.archive.org/Content.aspx?content=CustomerService%2fContactUs&SID=E78705E9640C47A91802fd2927d082e0)  
+  | [Frequently Asked Questions](https://web.archive.org/Content.aspx?content=CustomerService%2fFaqs&SID=E78705E9640C47A91802fd2927d082e0)  
+  | [Privacy Policies](https://web.archive.org/Content.aspx?content=CustomerService%2fPrivacyPolicies&SID=E78705E9640C47A91802fd2927d082e0)  
+  | [Terms and Conditions](https://web.archive.org/Content.aspx?content=CustomerService%2fTermsConditions&SID=E78705E9640C47A91802fd2927d082e0)  
+  | [Copyright Information](https://web.archive.org/Content.aspx?content=CustomerService%2fCopyright&SID=E78705E9640C47A91802fd2927d082e0)  
+  | [Fair Credit Reporting Act](https://web.archive.org/Content.aspx?content=CustomerService%2fFcraPolicy&SID=E78705E9640C47A91802fd2927d082e0)  
+|  |  [ Use of Financial Information Privacy Policy ](https://web.archive.org/Content.aspx?SID=E78705E9640C47A91802fd2927d082e0&content=CustomerService%2fFinInfoPolicy)
 
 Online Privacy Policy 
 
@@ -46,7 +46,7 @@ In addition to employing these high-security measures, PrivacyGuard has undergon
   
 When visiting the PrivacyGuard Web site (the "PrivacyGuard Web site") and other Trilegiant Corporation related sites (collectively with the PrivacyGuard Web site, the "Trilegiant Corporation Web sites"), in order to authenticate your identity and access your credit report from credit bureau databases, register to use certain services, respond to a survey or update your information you may be asked to provide certain personally identifiable information about yourself, such as your name, e-mail address, physical address, telephone number, date of birth, mother's maiden name, Social Security number or credit card number. The personal information that we request is to ensure that you are the only person that can access your credit report and other personal information. You may review and revise any personal information we have about you by sending a request to [service@privacyguard.com](mailto:service@privacyguard.com) or calling at 1-877-202-8828.
 
-We use personal information provided on registration forms to fulfill requests for credit reports and requests for other personal information and to contact you when necessary, such as when your request cannot be processed. Trilegiant Corporation may also use this information to notify consumers about new products or services and special promotions offered by Trilegiant Corporation or any of its affiliates. If you do not want to receive future promotional information from Trilegiant Corporation or any of its affiliates, you may let us know by going to [ https://www.privacyguard.com/global/scripts/secure/EmailOptsUsers.asp](https://www.privacyguard.com/secure/EmailOptsUsers.aspx?SID=F9BA2412F6CF4CDC8172278bd4f372b3) and entering your email address. Please allow up to 10 days for your email to be removed. From time to time, unless we are restricted by applicable contract, we may also share your Personal Information with trustworthy unaffiliated third parties, who offer products or services that we feel may be of interest to you. We value your privacy. If you would prefer not to receive marketing emails from PrivacyGuard in the future, go to [https://www.privacyguard.com/global/scripts/secure/EmailOptsUsers.asp](https://www.privacyguard.com/secure/EmailOptsUsers.aspx?SID=F9BA2412F6CF4CDC8172278bd4f372b3) and enter your email address.  
+We use personal information provided on registration forms to fulfill requests for credit reports and requests for other personal information and to contact you when necessary, such as when your request cannot be processed. Trilegiant Corporation may also use this information to notify consumers about new products or services and special promotions offered by Trilegiant Corporation or any of its affiliates. If you do not want to receive future promotional information from Trilegiant Corporation or any of its affiliates, you may let us know by going to [ https://www.privacyguard.com/global/scripts/secure/EmailOptsUsers.asp](https://www.privacyguard.com/secure/EmailOptsUsers.aspx?SID=E78705E9640C47A91802fd2927d082e0) and entering your email address. Please allow up to 10 days for your email to be removed. From time to time, unless we are restricted by applicable contract, we may also share your Personal Information with trustworthy unaffiliated third parties, who offer products or services that we feel may be of interest to you. We value your privacy. If you would prefer not to receive marketing emails from PrivacyGuard in the future, go to [https://www.privacyguard.com/global/scripts/secure/EmailOptsUsers.asp](https://www.privacyguard.com/secure/EmailOptsUsers.aspx?SID=E78705E9640C47A91802fd2927d082e0) and enter your email address.  
 Please allow up to 10 days for your email to be removed.
 
 We may share Personal Information relating to your transactions or experience with us, with our affiliates, such as the other membership services operated by Trilegiant Corporation and its affiliates (including those existing currently or in the future).
