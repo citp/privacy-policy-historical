@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208014701id_/http%3A//www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219073419id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement at www.48hourprint.com
+# 48HourPrint.com Privacy Statement
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
 
@@ -14,24 +14,7 @@ This site may contain links to other sites. We are not responsible for the priva
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information and unique identifiers. Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.
 
-**Security**
+**Security**  
+
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All data is protected using the most advanced methods available. We do not store financial information like credit card numbers or personal information like social security numbers on this site.
-
-**Un-Subscribe**
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive mail list messages.
-
-  * [You can send email to us by visiting the Contact Page](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&rnd=8614856&rrc=N&affl=&cip=209.237.238.175&act=&aff=&pg=contact)  
-
-  * [You can visit the Mail List Page to un-subscribe](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&rnd=8614856&rrc=N&affl=&cip=209.237.238.175&act=&aff=&pg=maillist)  
-
-
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  * [You can send email to us by visiting Contact Page](https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&rnd=8614856&rrc=N&affl=&cip=209.237.238.175&act=&aff=&pg=contact)  
-
-
-
