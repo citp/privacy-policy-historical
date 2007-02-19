@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hustlercash.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118122335id_/http%3A//www.hustlercash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlercash.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219221337id_/http%3A//hustlercash.com/privacy.php) for the most accurate reproduction.*
 
 # Hustler ® Cash
 
