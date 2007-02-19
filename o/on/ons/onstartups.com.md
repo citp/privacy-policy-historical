@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the onstartups.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022011019id_/http%3A//onstartups.com/Home/tabid/3339/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onstartups.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219145810id_/http%3A//onstartups.com/Home/tabid/3339/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# OnStartups.com - Practical Advice for Software Startups
+# On Startups - Advice For Software Startups by Dharmesh Shah
+
+  
+
 
 OnStartups.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the OnStartups.com Web site and governs data collection and usage. By using the OnStartups.com website, you consent to the data practices described in this statement.
 
