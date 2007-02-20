@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112134444id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220145947id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Brown Cafe: UPS info for UPSers - Brown Cafe Privacy Statement
+# Brown Cafe - Brown Cafe Privacy Statement
 
 |  **»[UPS Brown Cafe](http://www.browncafe.com/forum/search.php)**  
 ---  
@@ -183,14 +183,14 @@ Not a member yet?
   
 **» Stats**  
 ---  
-Members: 6,991  
-Threads: 40,973  
-Posts: 87,537  
-Top Poster: [BrownCafe](http://www.browncafe.com/forum/members/browncafe.html) (18,986)  
+Members: 8,667  
+Threads: 61,090  
+Posts: 118,922  
+Top Poster: [BrownCafe](http://www.browncafe.com/forum/members/browncafe.html) (32,557)  
   
-Welcome to our newest member, [tkolony](http://www.browncafe.com/forum/members/tkolony.html)  
+Welcome to our newest member, [gideon](http://www.browncafe.com/forum/members/gideon.html)  
   
-All times are GMT -7. The time now is 06:44 AM.
+All times are GMT -8. The time now is 06:59 AM.
 
   
 
