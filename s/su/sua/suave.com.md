@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suave.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112004224id_/http%3A//www.unileverus.com/privacy/policy.html%3Fsite%3Dwww.suave.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suave.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220115202id_/http%3A//www.unileverus.com/privacy/policy.html%3Fsite%3Dwww.suave.com) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
