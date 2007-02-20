@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216203957id_/http%3A//gamecrazy.com/util/offsite.aspx%3Furl%3Dhttp%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220021603id_/http%3A//www.gamecrazy.com/util/offsite.aspx%3Furl%3Dhttp%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Hollywood Video - Privacy Policy
 
