@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treblezine.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215034001id_/http%3A//treblezine.com/viewer.cgi%3Ftype%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treblezine.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220012120id_/http%3A//treblezine.com/viewer.cgi%3Ftype%3Dpp) for the most accurate reproduction.*
 
 # 
 
