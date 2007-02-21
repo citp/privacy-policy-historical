@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcpc.com privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813192205id_/http%3A//smartcpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcpc.com privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221024617id_/http%3A//www.smartcpc.com/privacy.php) for the most accurate reproduction.*
 
 # SmartCPC.com — Intelligent Online Marketing: Privacy
 
