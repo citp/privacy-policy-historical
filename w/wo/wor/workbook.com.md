@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the workbook.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127023906id_/http%3A//www.workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbook.com privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221172658id_/http%3A//www.workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.*
 
-# Legal
+# WORKBOOK Legal - Workbook, Inc. Online Privacy Policy (USA)
 
-## Workbook, Inc. Online Privacy Policy (USA)
+The Workbook, workbook.com, Framed, Workbook Portfolios Online, and any other business unit of Scott, Butler, Scott, Inc. respects your ability to make informed choices about the collection and uses of your personal information. This privacy policy tells you about our online products and uses of information that identifies you personally so that you can make an informed choice about using this site. We are committed to respecting the privacy rights of Web site visitors. The following policy describes how we collect, protect and use information we receive from Web site visitors. The terms of this policy apply to www.workbook.com and other sites which Scott, Butler, Scott, Inc. hosts or operates, unless different terms are specified in a form or contract provided to you online or off-line.
 
-Workbook, Inc. dba Workbook, workbook.com, Workbook Stock, Number Magazine, Framed, framed.workbook.com, Workbook Portfolios Online, Workbook Co/Op Stock, coopstock.com and Workbook & Company and any other business unit of Workbook, Inc. respects your ability to make informed choices about the collection and uses of your personal information. This privacy policy tells you about our online products and uses of information that identifies you personally so that you can make an informed choice about using this site. We are committed to respecting the privacy rights of Web site visitors. The following policy describes how we collect, protect and use information we receive from Web site visitors. The terms of this policy apply to [www.workbook.com](https://web.archive.org/) and other sites which Workbook, Inc. hosts or operates, unless different terms are specified in a form or contract provided to you online or off-line.
-
-Please note, that when you enter any third party sub-sites accessible through workbook.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each site. This site is operated by Workbook, Inc. in the United States. By using this Web site, you understand and agree that
+Please note, that when you enter any third party sub-sites accessible through workbook.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each site. This site is operated by Scott, Butler, Scott, Inc. in the United States. By using this Web site, you understand and agree that
 
 (1) the information collected from this site may be retained indefinitely, and may be stored, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction;
 
-(2) Workbook, Inc. may use this information for a variety of purposes including direct marketing (unless you opt out of receiving direct marketing);
+(2) Scott, Butler, Scott, Inc. may use this information for a variety of purposes including direct marketing (unless you opt out of receiving direct marketing);
 
-(3) Workbook, Inc. may disclose this information to affiliates, subsidiaries, agents, third party content providers, and necessary payment processors, whose privacy policies and practices may be different from those of Workbook, Inc., and for which Workbook, Inc. assumes no responsibility; 
+(3) Scott, Butler, Scott, Inc. may disclose this information to affiliates, subsidiaries, agents, third party content providers, and necessary payment processors, whose privacy policies and practices may be different from those of Scott, Butler, Scott, Inc., and for which Scott, Butler, Scott, Inc. assumes no responsibility; 
 
 (4) information about our customers, including personal information, may be disclosed as part of any merger, sale of the company assets or acquisition as well as in the unlikely event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company; and 
 
 (5) we reserve the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
 
-What information do we collect?  
-How do we use your information?  
-How do we protect visitor information?  
-Do we use "cookies"?  
-How can you opt-out, remove, or modify information that you have provided to us? 
+What information do we collect ?  
+How do we use your information ?  
+How do we protect visitor information ?  
+Do we use "cookies" ?  
+How can you opt-out, remove, or modify information that you have provided to us ?
 
 ### What information do we collect?
 
@@ -66,7 +64,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. "Cookies" are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Workbook, Inc. conduct and improve its business. These companies may use cookies to gather anonymous data about our visitors on behalf of Workbook, Inc. They do not collect personally identifiable information like e-mail, credit card number, phone number, or name. 
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Scott, Butler, Scott, Inc. conduct and improve its business. These companies may use cookies to gather anonymous data about our visitors on behalf of Workbook, They do not collect personally identifiable information like e-mail, credit card number, phone number, or name. 
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. Most browsers allow you to decline cookies, but if you elect to do so, these pages may not display properly. You are free to delete cookies after your session, and your browser should contain instructions on how to do this.
 
@@ -95,7 +93,7 @@ We reserve the right to change the terms of this privacy policy at any time, but
 
 ### Questions and Feedback 
 
-We welcome your questions, comments, and concerns about privacy. Please send us any feedback pertaining to privacy, or any other issue to . If at any time you believe that Workbook, Inc. has not followed the above policy, let us know by sending an e-mail to . We will make reasonable efforts to identify and correct any problem.
+We welcome your questions, comments, and concerns about privacy. Please send us any feedback pertaining to privacy, or any other issue to . If at any time you believe that Scott, Butler, Scott, Inc. has not followed the above policy, let us know by sending an e-mail to . We will make reasonable efforts to identify and correct any problem.
 
 ### Online Policy Only 
 
@@ -103,7 +101,7 @@ This online privacy policy applies only to information collected through our Web
 
 ### Site Terms and Conditions 
 
-Please also visit our [Site Terms and Conditions of Use](https://web.archive.org/legal/siteterms.lasso) section establishing the use, disclaimers, and limitations of liability governing the use of our Web site.
+Please also visit our [Site Terms](https://web.archive.org/legal/siteterms.lasso) section establishing the use, disclaimers, and limitations of liability governing the use of our Web site.
 
 ### Your Consent 
 
@@ -117,6 +115,6 @@ We do not intend to either solicit or collect personal information from anyone u
 
 If you would like to review or revise information you previously provided on an online form, or believe that what we currently have on record is incorrect, you may update your information in the "Your Account" section of this Web site.
 
-Revised 062005
+Rev. 101106
 
 ( top of page )
