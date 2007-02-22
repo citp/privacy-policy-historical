@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022101351id_/http%3A//insync.co.in/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222171707id_/http%3A//www.insync.co.in/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,12 @@ This site may place a "cookie" on your personal computer. Cookies are short text
 
 Queries
 
-If you have any queries about our privacy policy, or you are concerned that it has not been followed, please write to us at:  
-InSync Tech-Fin Solutions Limited, 5/2, Russel Street, 6C- Poonam Bldg., Kolkata, - 700071 , West Bengal, India   
-or contact us via e-mail at: contact@insync.co.in 
+If you have any queries about our privacy policy, or you are concerned that it has not been followed, please write to us at:
+
+**InSync Tech-Fin Solutions Limited,  
+5/2, Russel Street, 6C- Poonam Bldg.,  
+Kolkata, - 700071 , West Bengal, India 
+
+or contact us via e-mail at: contact@insync.co.in
+
+**
