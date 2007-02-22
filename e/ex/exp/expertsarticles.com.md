@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the expertsarticles.com privacy policy that was archived on 2006-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060711200918id_/http%3A//www.expertsarticles.com//01privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsarticles.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222072100id_/http%3A//expertsarticles.com/01privacy.php) for the most accurate reproduction.*
 
-# Submit, Share, Distribute News And Articles. Free free content, RSS and Javascript feeds with Experts Articles Directory.
+# Free Article Directory, Submit, Share, Distribute News And Articles. Free content, Free RSS and Javascript feeds.
 
 | **Articles Area**  
 ---  
-[Home](http://www.expertsarticles.com/index.php)  
-[Browse Articles](http://www.expertsarticles.com/index/browse)  
-[Search Articles](http://www.expertsarticles.com/article.search.php)  
-[Submit/Edit an Article ](http://www.expertsarticles.com/user.login.php)  
-[Get RSS Feeds ](http://www.expertsarticles.com/rss.feeds.php)  
-[Add Free Article Content](http://www.expertsarticles.com/rss.feeds.iframe.php)  
-[Most Viewed](http://www.expertsarticles.com/article.most.viewed.php)  
-[What's Hot](http://www.expertsarticles.com/#hot)  
-[Popular Articles](http://www.expertsarticles.com/#popular)  
-[Latest Articles](http://www.expertsarticles.com/#latest)  
-[Most Emailed ](http://www.expertsarticles.com/articlelistview/mail)  
-[Article Ratings ](http://www.expertsarticles.com/articlelistview/rate)  
+[Home](http://expertsarticles.com/index.php)  
+[Browse Articles](http://expertsarticles.com/index/browse)  
+[Search Articles](http://expertsarticles.com/article.search.php)  
+[Submit/Edit an Article ](http://expertsarticles.com/user.login.php)  
+[Get RSS Feeds ](http://expertsarticles.com/rss.feeds.php)  
+[Add Free Article Content](http://expertsarticles.com/rss.feeds.iframe.php)  
+[Most Viewed](http://expertsarticles.com/article.most.viewed.php)  
+[What's Hot](http://expertsarticles.com/index.php/#hot)  
+[Popular Articles](http://expertsarticles.com/index.php/#popular)  
+[Latest Articles](http://expertsarticles.com/index.php/#latest)  
+[Most Emailed ](http://expertsarticles.com/articlelistview/mail)  
+[Article Ratings ](http://expertsarticles.com/articlelistview/rate)  
 **For Publishers**  
-[Free Email Alert](http://www.expertsarticles.com/subscribe.php)  
-[Manage Subscriptions](http://www.expertsarticles.com/subscribe.manage.php)  
+[Free Email Alert](http://expertsarticles.com/subscribe.php)  
+[Manage Subscriptions](http://expertsarticles.com/subscribe.manage.php)  
 **Guidelines**  
-[Authors](http://www.expertsarticles.com/authorguideline.php)  
-[Publishers](http://www.expertsarticles.com/publisherguideline.php)  
+[Authors](http://expertsarticles.com/authorguideline.php)  
+[Publishers](http://expertsarticles.com/publisherguideline.php)  
 **Advertise Here**  
-[Contact Us to Advertise ](http://www.expertsarticles.com/contactus.php)  
+[Contact Us to Advertise ](http://expertsarticles.com/contactus.php)  
   
 This privacy statement was written to make clear our firm commitment to privacy. The following document explains the practices employed by us to gather and disseminate information. 
 
