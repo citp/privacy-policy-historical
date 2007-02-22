@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complex.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103052224id_/http%3A//complex.com/index.php%3Ftask%3DArticles%26id%3D294%26section%3D88%26issue%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complex.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222223208id_/http%3A//www.complex.com/index.php%3Ftask%3DArticles%26id%3D294%26section%3D88%26issue%3D1) for the most accurate reproduction.*
 
 # Complex.com Static Content - Privacy Policy
 
