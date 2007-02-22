@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210505id_/http%3A//www.yankeemagazine.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222010828id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
 
-# Yankee Magazine - Privacy Policy
+# Privacy Policy - Yankee Magazine
+
+#### [Contact](https://web.archive.org/contact) → [About YANKEE](https://web.archive.org/contact/aboutyankee) → 
 
 **For Web Visitors**
 
