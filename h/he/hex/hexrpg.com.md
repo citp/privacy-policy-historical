@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113202202id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222021247id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
 
 # Hogwarts Extreme : An Interactive Harry Potter RPG Website
 
@@ -21,11 +21,11 @@ We collect the following :
 
 **How We Use the Information**
 
-Your email address is not displayed to any users, but simply used for verification in the event a password is forgotten. Occasional emails will also be sent out to all users to give everyone a general site update/status. In order to protect a child under the age of 13, we collect everyone's date of birth so we may prevent your child by means of PHP coding from accessing parts of the site that might be inappropriate. The age of every user on the website is displayed on the user info page, and forum posts for general informational purposes for other users. First names and locations are displayed in user infos, and also are a tool for us to see where our users are coming from. IP addresses are logged to protect everyone on the site. In the event a user is causing a large problem, the IP of the user will be reported to the appropriate authorities to keep the users of Hogwarts Extreme safe. 
+Your email address is not displayed to any users, but simply used for verification in the event a password is forgotten. Occasional emails will also be sent out to all users to give everyone a general site update/status. In order to protect a child under the age of 13, we collect everyone's date of birth so we may prevent a child by means of PHP coding from accessing parts of the site that might be inappropriate to them. The age of every user on the website is displayed on the user info page, and forum posts for general informational purposes for other users. First names and locations are displayed in user infos, and also are a tool for us to see where our users are coming from. IP addresses are logged to protect everyone on the site. In the event a user is causing a large problem, the IP of the user will be reported to the appropriate authorities to keep the users of Hogwarts Extreme safe. 
 
 **How You Can Control Your Personal Information**
 
-Everything can be readily updated by you at anytime except date of birth and gender. Since your date of birth will never change and your gender will most likely stay the same, we do not let anyone readily change them. If you accidentally selected a wrong option during registration, simply contact us via the "Contact Link" or by using the "Owl System" to reach a staff member to have it changed. 
+Everything can be readily updated by you at anytime except date of birth and gender. Since your date of birth will never change and your gender will most likely stay the same, we do not let anyone readily change them. If you accidentally selected a wrong option during registration, simply use the owl system. to reach a staff member to have it changed. 
 
 **Third Party Disclosing**
 
@@ -37,8 +37,16 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 **Parents**
 
-Please view our [COPPA Policy](https://web.archive.org/web/20061113202202id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/web/20070222021247id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
 
 **Updating of this Policy**
 
 If this policy is modified, a news post will be made on the main page or an asterisk will be put next to the link to this policy. It is your responsibility to notice these notifications. 
+
+* * *
+
+[About](https://web.archive.org/about.php) | [Terms](https://web.archive.org/terms.php) | [Privacy Policy](https://web.archive.org/terms.php?view=pp) | [COPPA Policy](https://web.archive.org/terms.php?view=coppa) | [Credits](https://web.archive.org/terms.php?view=credits) | [Contact](https://web.archive.org/contact.php) |  
+| [Multiple Accounts](https://web.archive.org/multiples.php) All scripts, images, and content belong to Hogwarts Extreme.  
+Hogwarts Extreme is an independent HP fan website.  
+Images, contents © Warner Brothers, J.K. Rowling, and/or their respective owners.  
+User content on this website is credited to the individuals. 
