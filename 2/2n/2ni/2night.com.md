@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2night.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502032030id_/http%3A//www.us1.2night.com/legal.asp%3FContent%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2night.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222071802id_/http%3A//www.us1.2night.com/legal.asp%3FContent%3DPrivacy) for the most accurate reproduction.*
 
 # 2night.com - Privacy
 
