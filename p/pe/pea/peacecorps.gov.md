@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210115654id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223232213id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
 
 # Peace Corps | Peace Corps HQ | Policies | General Policies
 
@@ -6,7 +6,7 @@ Use of Links
 Use of Text and Images  
 Accessibility  
 Website Privacy Policy  
-[Questions About Our Policies](https://web.archive.org/web/20061210115654id_/http%3A//www.peacecorps.gov/index.cfm?shell=#shell###Qs)
+[Questions About Our Policies](https://web.archive.org/web/20070223232213id_/http%3A//www.peacecorps.gov/index.cfm?shell=#shell###Qs)
 
 Use of Links
 
