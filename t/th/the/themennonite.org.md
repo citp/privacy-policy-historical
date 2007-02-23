@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230163921id_/http%3A//themennonite.org/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223062019id_/http%3A//www.themennonite.org/php/privacy.php) for the most accurate reproduction.*
 
 # The Mennonite -- News, articles and discussion resources to serve Mennonite Church USA
 
