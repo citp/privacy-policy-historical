@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111072604id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223115804id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Note that we can disclose your aggregate information to third parties, but only 
 
 The security and confidentiality of your information is extremely important to us. We ensure implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. But note that despite our best efforts, no security measures are perfect or impenetrable. 
 
-[Ask additional question regarding topic "Privacy Policy" in spyware removal Forum](http://www.2-spyware.com/forum/posting.php?mode=newtopic&f=7&subject=Privacy%20Policy)
+Discuss topic "Privacy Policy" in [spyware removal Forum](http://www.2-spyware.com/forum/forum7)
 
 \--  
 Article submitted on 13/02/05
