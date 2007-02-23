@@ -1,0 +1,1239 @@
+<!--The following is the downloaded HTML source of the hollandbulbfarms.com privacy policy that was archived on 2007-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070223160535id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">
+var sWOName="";
+var sWOCompany="";
+var sWOEmail="";
+var sWOTelephone="";
+</script>
+
+
+
+	
+		<title>Holland Bulb Farms Privacy Policy</title>
+		
+	<meta name="Keywords" content="bulbs, elephant ears, dahlia,holland bulbs, water plants, canna,water lily, summer bulbs, lilies, cannas, holland bulb, water lilies, dahlias, flower spring, calla lilies, gladioli, lily, water garden, tulip bulbs, amaryllis, holland tulips, daffodil, hyacinth, crocus, allium">      
+	<meta name="robots" content="index, follow">
+	
+	<link rel="stylesheet" href="hbf_styles.css" type="text/css">
+	
+	<script language="JavaScript" type="text/javascript" src="scripts/EOStrings.js"></script>
+<script language="JavaScript" type="text/javascript" src="scripts/EoConstants1.js"></script>
+<script language="JavaScript">
+
+var selectedShipIndex;
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function will be called when user selects edit shipping or 
+//  @											billing address action = B (edit billing address) action = S edit 
+//  @											shipping address We are here checking for hidden type or not. 
+//  @											Because if only one shipping address is there for a customre then 
+//  @                     shipping code will be in hidden field instead of radio type.
+//	@	  Pages Affected  : Checkout.asp
+//  @		Function Name		: editaddress(action)									
+//	@		Input Parameters: action = B(edit billing address) or S (edit shipping address)
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function editaddress(action,defAddrCode,bShipDefault)
+{	
+	if (document.frmEditAddress.iShipCode.value == defAddrCode & action != 'N')
+	{
+		alert(getMessage("iCannotEditEventHoldAddr"));
+		return;
+	}
+	
+	document.frmEditAddress.todo.value = action;
+	if(action == "S"){
+		
+		if (bShipDefault == "False")
+		{
+			if(document.frmCheckout.ishipCode)
+			{			
+				if (document.frmCheckout.ishipCode.length >1)
+				{
+					document.frmEditAddress.iShipCode.value=document.frmCheckout.ishipCode[selectedShipIndex].value
+					if (document.frmEditAddress.NONEditableAddr.value.indexOf("||" + document.frmCheckout.ishipCode[selectedShipIndex].value + "||") != -1 )
+					{
+						alert(getMessage("iNonEditableAddresses"));
+						return;
+					}
+				
+					if(document.frmCheckout.ishipCode[selectedShipIndex].value < 1)
+					{						
+						alert(getMessage("iSelectShipAddr"));
+						return;
+					}
+				}
+				else
+				{
+					document.frmEditAddress.iShipCode.value=document.frmCheckout.ishipCode.value
+					if (document.frmEditAddress.NONEditableAddr.value.indexOf("||" + document.frmCheckout.ishipCode.value + "||") != -1 )
+					{
+						alert(getMessage("iNonEditableAddresses"));
+						return;
+					}
+					else
+					{
+						if(document.frmCheckout.ishipCode.value < 1)
+						{
+							document.frmEditAddress.action = "http://www.hollandbulbfarms.com/accinfo.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+						}
+					}
+				}
+			}
+			else
+			{
+				document.frmEditAddress.action = "http://www.hollandbulbfarms.com/accinfo.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+			}
+		}		
+	}
+	if(action=="B")
+	{
+		if (document.frmEditAddress.NONEditableAddr.value.indexOf("||" + document.frmCheckout.iBillCode.value + "||") != -1 ){
+			alert(getMessage("iNonEditableAddresses"));
+			return;
+		}
+		document.frmEditAddress.iBillCode.value = document.frmCheckout.iBillCode.value;
+		
+		}
+	document.frmEditAddress.submit();
+	return;
+}
+// End of the function editaddress(action)
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is used to set the zip code, zone code and ship code
+//  @											to a hidden field whenever user changes his shipping address by 
+//  @                     checking some radio button.
+//	@	  Pages Affected  : Checkout.asp
+//  @		Function Name		: setshipmethod(shipcode,i)									
+//	@		Input Parameters: shipcode = Ship code value,i = index
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function setshipmethod(shipcode,i){ 
+		document.frmEditAddress.iShipCode.value = shipcode
+		selectedShipIndex = i;
+}
+// End of the function setshipmethod(shipcode,i)
+
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is used to submit this page to Shipping page when
+//  @											user clicks the continue image.
+//	@	  Pages Affected  : Checkout.asp
+//  @		Function Name		: continueme()									
+//	@		Input Parameters: option = 1->NonsecuredServer 2->SecuredServer
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function continueme(option,bIsNotWishListItemInCart,defAddrCode)
+{
+
+if (bIsNotWishListItemInCart == 1 & (document.frmEditAddress.iShipCode.value == defAddrCode))
+{
+	if (! confirm(getMessage("iNonWishListItemsInCartPresent")))
+	return;
+}
+
+	if(option==2)
+	document.frmCheckout.action = "https://www.hollandbulbfarms.com/shipping.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&SSL=1";
+	else
+        document.frmCheckout.action = "http://www.hollandbulbfarms.com/shipping.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+	document.frmCheckout.submit();
+}
+  
+
+// End of the function continueme()
+
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is used to check whether valid invoice number is 
+//  @											entered or not. If invoice number is entered then it submits  
+//  @                     the page to rma page, else to ordlist.asp page.
+//	@	  Pages Affected  : Ordtrack.asp
+//  @		Function Name		: Validate_Rma()									
+//	@		Input Parameters: null
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function Validate_Rma(){	
+	var retval
+	if(document.frmRma.singleinv[0].checked)
+	{	
+		retval=IsNumeric(document.frmTrack.txtorderno.value)
+		if(retval == 1)
+		{
+			alert(getMessage("iValidInvNo"));
+			document.frmRma.invoiceno.value="";
+			document.frmRma.invoiceno.focus();
+			return false;
+		}
+	}
+	if(document.frmRma.singleinv[1].checked)
+		document.frmRma.action = "http://www.hollandbulbfarms.com/ordlist.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&rma=rma&bk=si";
+	document.frmRma.submit();
+}
+// End of the function Validate_Rma()
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function validates the order number entered by the user 
+//  @											whether it is numeric or not.
+//	@	  Pages Affected  : Ordtrack.asp
+//  @		Function Name		: Validate_OrdNo()									
+//	@		Input Parameters: option = 1->NonSecurePath, 2->SecurePath
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function Validate_OrdNo(option){
+	var retval
+	retval=IsNumeric(document.frmTrack.txtorderno.value)
+	if(retval == 1)
+	{
+		alert(getMessage("iValidNo"));
+		document.frmTrack.txtorderno.select();
+		document.frmTrack.txtorderno.focus();
+		return false;
+	}
+	if(option==2)
+		document.frmTrack.action = "https://www.hollandbulbfarms.com/ordstatus.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&SSL=1";
+	else
+		document.frmTrack.action = "http://www.hollandbulbfarms.com/ordstatus.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+ 	document.frmTrack.submit();
+}	
+// End of the function Validate_OrdNo()
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is to change the action of the form. 
+//	@	  Pages Affected  : Ordtrack.asp
+//  @		Function Name		: multipleorder(option)									
+//	@		Input Parameters: option = 1->NonSecurePath, 2->SecurePath
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function multipleorder(option){
+	if(option==2)
+		document.frmMainForm.action = "https://www.hollandbulbfarms.com/ordlist.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&SSL=1";
+	else
+		document.frmMainForm.action = "http://www.hollandbulbfarms.com/ordlist.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+  if(validateSubmitDate('frmMainForm','frommonth','fromday','fromyear','tomonth','today','toyear')==0)
+   return false;
+ 	document.frmMainForm.submit();
+}	
+// End of the function multipleorder(option)
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: Function IsNumeric checks whether the entered value is a 
+//	@											numeric or not.
+//  @		Function Name		: IsNumeric(value)									
+//	@		Input Parameters: value to be tested
+//	@		Return Value		: 0 - Success	  1 - Failure			
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function IsNumeric(value)
+{
+	var validate=/(^\d+$)/
+	if (validate.test(value))
+		return 0; 
+	else
+		return 1; 
+}
+// End of the function IsNumeric(value)
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function changes the no. of days dynamically according to  
+//  @											the month and the year.
+//	@	  Pages Affected  : Ordtrack.asp, Shipping.asp
+//  @		Function Name		: DateValidate(which,frmName)									
+//	@		Input Parameters: which=which date should be validated
+//  @                         frmName=For which form  date should be validated
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function DateValidate(which,frmName)
+{
+	
+	var sel = eval("document." + frmName +"." + which + "day.selectedIndex");
+	var i=eval("document."+ frmName +"." + which + "month.options[document." +frmName + "." + which + "month.selectedIndex].value");
+	var j=eval("document."+ frmName +"." + which + "year.options[document." +frmName +"." + which + "year.selectedIndex].value");
+	var k;
+	if(i=="1" || i=="3" || i=="5" || i=="7" || i=="8" || i=="10" || i=="12")
+	{
+		eval("document." + frmName+"." + which + "day.length=31");
+		for(k=28;k<=30;k++)
+		{
+			eval("document."+ frmName +" ." + which + "day.options[" + k + "].value=" + parseInt(k+1));
+			eval("document."+ frmName +"." + which + "day.options[" + k + "].text=" + parseInt(k+1));
+		}
+	}
+	if(i=="4" || i=="6" || i=="9" || i=="11")
+	{
+		eval("document."+frmName+"." + which + "day.length=30");
+		for(k=28;k<=29;k++)
+		{
+			eval("document."+frmName+"." + which + "day.options[" + k + "].value=" + parseInt(k+1));
+			eval("document."+frmName+"." + which + "day.options[" + k + "].text=" + parseInt(k+1));
+		}
+	}
+	var mydate = new Date();
+	if(i==2)
+	{
+		mydate.setDate(1);
+		mydate.setYear(j);
+		mydate.setMonth(1);
+		mydate.setDate(31);
+		var k=31-mydate.getDate();
+		eval("document."+frmName+"." + which + "day.length=" + k);
+		if((k==29) || (k==28))
+		{
+			eval("document."+frmName+"." + which + "day.options[" + (k-1) + "].value=" + k);
+			eval("document."+frmName+"." + which + "day.options[" + (k-1) + "].text=" + k);
+		}
+	}
+	
+	if((sel+1) > eval("document."+ frmName+"." + which + "day.length"))
+	{
+		eval("document."+frmName+"." + which + "day.selectedIndex=document."+ frmName +" ." + which + "day.length-1");
+	}
+}
+// End of the function DateValidate(which)
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function shows current date as the selected date by default.
+//	@	  Pages Affected  : Ordtrack.asp
+//  @		Function Name		: YourDate()									
+//	@		Input Parameters: null
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function YourDate()
+{
+	var tdate,tday,tmonth,tyear
+	tdate=new Date();
+	tday=tdate.getDate();
+	tmonth=tdate.getMonth();
+  tyear=tdate.getFullYear();
+	if(document.frmMainForm){
+		document.frmMainForm.fromday.selectedIndex;
+		document.frmMainForm.tomonth.selectedIndex=tmonth;
+		document.frmMainForm.toyear.selectedIndex=tyear-1995;
+		DateValidate('from','frmMainForm');
+		DateValidate('to','frmMainForm');
+		document.frmMainForm.fromday.selectedIndex=tday-1;
+		document.frmMainForm.frommonth.selectedIndex=tmonth;
+		document.frmMainForm.today.selectedIndex=tday-1;
+	}
+	if(document.frmRMA){
+		document.frmRMA.selfromday.selectedIndex;
+		document.frmRMA.seltomonth.selectedIndex=tmonth;
+		
+		document.frmRMA.seltoyear.selectedIndex=tyear-1995;  
+		DateValidate('selfrom','frmRMA');
+		DateValidate('selto','frmRMA');
+		document.frmRMA.selfromday.selectedIndex=tday-1;
+		document.frmRMA.selfrommonth.selectedIndex=tmonth;
+		document.frmRMA.seltoday.selectedIndex=tday-1;
+	}
+}	
+// End of the function YourDate()
+
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is to find whether the user has selected a new card 
+//  @                     or an existing card.
+//	@	  Pages Affected  : Addcard.asp
+//  @		Function Name		: cardType(type,option)									
+//	@		Input Parameters: type = 1(default card) or 2(new card),option = 1->NonSecurePath, 2->SecurePath
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function cardType(type,option,sSource)
+{
+	var date = new Date();
+	var month = date.getMonth();
+	var year = date.getFullYear();
+	
+	if(parseInt(type) == 1)
+		document.frmCardList.cardtype.value = "defcard";
+	if(parseInt(type) == 2)
+	{
+		document.frmCardList.cardtype.value = "newcard";
+		if((document.frmCardList.CARDNUMBER.value == "") || (parseInt(valcard()) == 0))
+		{
+			alert(getMessage("iValidCardNumber"));
+			document.frmCardList.CARDNUMBER.focus();
+			document.frmCardList.CARDNUMBER.select();
+			return;
+		}
+		if(parseInt(document.frmCardList.EXPMONTH.options[document.frmCardList.EXPMONTH.selectedIndex].value,10) == 0)
+		{
+			alert(getMessage("iSelectExpMonth"));
+			document.frmCardList.EXPMONTH.focus();
+			return;
+		}
+		if((document.frmCardList.EXPYEAR.options[document.frmCardList.EXPYEAR.selectedIndex].value == year) && (parseInt(document.frmCardList.EXPMONTH.options[document.frmCardList.EXPMONTH.selectedIndex].value,10) < parseInt(month+1)))
+		{
+			alert(getMessage("iValidExpMonth"));
+			document.frmCardList.EXPMONTH.focus();
+			return;
+		}
+		if(parseInt(document.frmCardList.EXPYEAR.options[document.frmCardList.EXPYEAR.selectedIndex].value) == 0)
+		{
+			alert(getMessage("iSelectExpYear"));
+			document.frmCardList.EXPYEAR.focus();
+			return;
+		}
+	}
+	if(option==2)
+		document.frmCardList.action = "https://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&Source=" + sSource ;
+	else
+		document.frmCardList.action = "http://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&Source="+ sSource ;
+	document.frmCardList.submit();
+}
+// End of the function cardType(type,option)
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is to validate card number.
+//	@	  Pages Affected  : Addcard.asp
+//  @		Function Name		: valcard()									
+//	@		Input Parameters: null
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function valcard()
+{	
+	var cardNumber,cardType,Checksum,Flag,Counter,PartNumber,Number;
+	cardType= document.frmCardList.CARDNAME.options[document.frmCardList.CARDNAME.selectedIndex].text;
+	cardNumber=document.frmCardList.CARDNUMBER.value
+	var length = cardNumber.length;
+	if( length == 0 ) {						
+		alert(getMessage("iValidCardNumber"));
+		return(0);				
+	}
+	var validate=/(^\d+$)/
+	if (validate.test(cardNumber)==false)
+		 return(0);
+	
+	switch( cardType ) {
+		case 'AMERICAN EXPRESS':
+			if( length != 15 ) {
+				return(0);
+			}
+			var prefix = parseInt( cardNumber.substring(0,2));
+			if( prefix != 34 && prefix != 37 ) {
+				return(0);
+			}
+			break;
+		case 'DISCOVER':
+			if( length != 16 ) {
+				return(0);
+			}
+			var prefix = parseInt( cardNumber.substring(0,4));
+			if( prefix != 6011 ) {
+				return(0);
+			}
+			break;
+		case 'MASTER CARD':
+			if( length != 16 ) {
+				return(0);
+			}
+			var prefix = parseInt( cardNumber.substring(0,2));
+			if( prefix < 51 || prefix > 55) {
+				return(0);
+			}
+			break;
+		case 'VISA':
+			if( length != 16 && length != 13 ) {
+				return(0);
+			}
+			var prefix = parseInt( cardNumber.substring(0,1));
+			if( prefix != 4 ) {
+				return(0);
+			}
+			break;
+	}
+
+	Counter=length;
+	Checksum=0;
+	Number=0;
+	PartNumber='';
+	Flag=0;
+	while(Counter > 0) {		
+		PartNumber = cardNumber.charAt(Counter-1);
+		Number = parseInt(PartNumber);
+		if (Flag) {
+			Number*=2;
+			if (Number >= 10) Number-=9;
+		}
+		Checksum +=	Number;
+		Flag=!(Flag)
+		Counter = Counter -1;
+	}
+	if (Checksum%10 == 0)
+		return(1); 
+	else
+		return(0);
+}
+// End of the function valcard()
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is used to check whether any of RMA type is
+//  @                            selected in ordtrack.asp if selected then submit to rmalist.asp 
+//  @                             otherwise set focus back to ordtrack page
+//	@	  Pages Affected  : Ordtrack.asp
+//  @		Function Name		: RmaValidate()									
+//	@		Input Parameters: option = 1->NonSecurePath, 2->SecurePath
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+function RmaValidate(){	
+	var retval
+	retval=document.frmRMA.selRMATypes.options[document.frmRMA.selRMATypes.selectedIndex].value;
+
+	if(retval=="SelOne")
+		{
+			alert(getMessage("iSelectRMAType"));
+			document.frmRMA.selRMATypes.focus();
+			return false;
+        }
+  if(validateSubmitDate('frmRMA','selfrommonth','selfromday','selfromyear','seltomonth','seltoday','seltoyear')==0)
+  return false;
+ 	document.frmRMA.submit();
+}
+// End of the function RmaValidate()
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function is used to submit this page to Shipping page when
+//  @											user clicks the continue image.
+//	@	  Pages Affected  : Checkout.asp
+//  @		Function Name		: ChangeOption()									
+//	@		Input Parameters: CardID,CardNumber,Option,ssloption
+//						
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function ChangeOption(CardID,CardNumber,Option,CardDesc)
+{
+	if (Option==2)
+	{
+		if (!confirm(getMessage("iRemoveCard")))
+		{
+		return;	
+		}
+	}
+	var bchecked;
+	if (Option==5)
+	{
+		if(document.frmCardDetails.RadDefault.length>1)
+		{	
+			for (i=0; i<document.frmCardDetails.RadDefault.length; i++)
+			{
+				if (document.frmCardDetails.RadDefault[i].checked)
+					 bchecked="T";	
+				if(bchecked=="T")
+				{
+				   break;
+				}	
+			}
+		}
+		else
+			{
+				if (document.frmCardDetails.RadDefault.checked)
+					 bchecked="T";
+			}
+	
+		if(bchecked != "T")	
+		{			
+			alert(getMessage("iDefaultCard"));
+			return false;
+		}	
+	}
+	document.frmCardDetails.HdnOption.value=Option
+	document.frmCardDetails.HdnCardId.value=CardID
+	document.frmCardDetails.HdnCardNumber.value=CardNumber
+	document.frmCardDetails.HdnCardDesc.value=CardDesc
+	document.frmCardDetails.submit();
+}
+
+
+// End of the function ChangeOption()
+
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description			: This function shows default date as the selected date .
+//	@	  Pages Affected		: AddCard.asp
+//  @		Function Name		: ateSelected()									
+//	@		Input Parameters: year,month
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function DateSelected(syear,smonth,dDataServerDate)
+{
+		var date = new Date();
+		var year = dDataServerDate.substr(2,5);
+		var yearindex = (syear-(year-1));
+		if (yearindex <= 0)
+		{
+			smonth = (date.getMonth())+1;
+			yearindex = 1;
+		}
+		document.frmEditCard.SELEXPYEAR.selectedIndex=yearindex;
+		document.frmEditCard.SELEXPMONTH.selectedIndex=smonth;
+		
+}
+
+// End of the function DateSelected() 
+
+
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//	@		Description: This function is to validate Zip,and Date.
+//	@	  Pages Affected  : Addcard.asp
+//  @		Function Name		: validatecard()									
+//	@		Input Parameters: null
+//	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+function validatecard(option,AddressStatus,dDataServerDate)
+{
+	if(document.frmEditCard.SELEXPMONTH.options[document.frmEditCard.SELEXPMONTH.selectedIndex].value=="0")
+	{
+		alert(getMessage("iCC_Expiry_Msg6") + "\n" + getMessage("iCC_Expiry_Msg7"));
+		document.frmEditCard.SELEXPMONTH.focus();
+		return;
+	}
+	if(document.frmEditCard.SELEXPYEAR.options[document.frmEditCard.SELEXPYEAR.selectedIndex].value=="0")
+	{
+		alert(getMessage("iCC_Expiry_Msg6") + "\n" + getMessage("iCC_Expiry_Msg7"));
+		document.frmEditCard.SELEXPYEAR.focus();
+		return;
+	}
+
+	var month = dDataServerDate.substr(0,2);
+	var year = dDataServerDate.substr(2,5);
+	
+	if ((document.frmEditCard.SELEXPYEAR.options[document.frmEditCard.SELEXPYEAR.selectedIndex].value == parseInt(year)) && (parseInt(document.frmEditCard.SELEXPMONTH.options[document.frmEditCard.SELEXPMONTH.selectedIndex].value,10) < parseInt(month)))
+		{
+			alert(getMessage("iCC_Expiry_Msg6") + "\n" + getMessage("iCC_Expiry_Msg7"));
+			document.frmEditCard.SELEXPMONTH.focus();
+			return;
+		}
+    if(AddressStatus == "4")
+	{
+		if(document.frmEditCard.TxtZipCode.value == "" || document.frmEditCard.TxtZipCode.value.indexOf(" ") == 0)
+		{
+			alert(getMessage("iEnterZipCode"));
+			frmEditCard.TxtZipCode.focus();
+			frmEditCard.TxtZipCode.value = "";
+			frmEditCard.TxtZipCode.select();
+			return false;
+		}
+		if((document.frmEditCard.TxtAddress.value == "") || (document.frmEditCard.TxtAddress.value.charAt(0)==" "))
+		{
+			alert(getMessage("iStAddrStartSpace"));
+			document.frmEditCard.TxtAddress.focus();
+			document.frmEditCard.TxtAddress.select();
+			return false;
+		}
+	}
+
+	if(option==2)
+		document.frmEditCard.action = "https://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+	else
+		document.frmEditCard.action = "http://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+	document.frmEditCard.submit();
+}	
+// End of the function validatecard()
+// For Validation of From Date and To Date 
+function validateSubmitDate(frmName,FromMonth,FromDay,FromYear,ToMonth,ToDay,ToYear)		
+{
+       var sFromDay= eval("document."+ frmName +"." + FromDay + ".options[document." +frmName + "." + FromDay + ".selectedIndex].value");
+       var sFromMonth = eval("document."+ frmName +"." + FromMonth + ".options[document." +frmName + "." + FromMonth + ".selectedIndex].value");
+       var sFromYear = eval("document."+ frmName +"." + FromYear + ".options[document." +frmName + "." + FromYear + ".selectedIndex].value");
+       var sToDay= eval("document."+ frmName +"." + ToDay + ".options[document." +frmName + "." + ToDay + ".selectedIndex].value");
+       var sToMonth = eval("document."+ frmName +"." + ToMonth + ".options[document." +frmName + "." + ToMonth + ".selectedIndex].value");
+       var sToYear = eval("document."+ frmName +"." + ToYear + ".options[document." +frmName + "." + ToYear + ".selectedIndex].value");
+		if (sToYear<sFromYear)
+		{
+			alert(getMessage("iEndDateVal"));
+			eval("document."+frmName+"."+ToYear+".focus()");
+			return 0;
+		}
+		else
+		{
+			if(sToYear==sFromYear)
+			{				
+				if(parseInt(sToMonth,10) < parseInt(sFromMonth,10))
+				{
+					alert(getMessage("iEndDateVal"));
+					eval("document."+frmName+"."+ToYear+".focus()");
+					return 0;
+				}
+				if(parseInt(sToMonth,10)==parseInt(sFromMonth,10))
+				{
+					if(parseInt(sToDay,10) < parseInt(sFromDay,10))
+					{
+						alert(getMessage("iEndDateVal"));
+						eval("document."+frmName+"."+ToYear+".focus()");
+						return 0;
+					}
+				}
+			}
+		}
+}
+
+</script>
+
+	<style type="text/css">
+<!--
+.style1 {font-size: 24pt}
+.style2 {font-size: 18pt}
+.style4 {font-size: 14pt}
+.style5 {color: brown}
+-->
+    </style>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
+
+	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('imgs/header/menu_trackOrder_on.gif','imgs/header/menu_helpcenter_on.gif')">
+	
+
+<link rel="SHORTCUT ICON" href="imgs/hbf_logo.ico">
+
+
+<script type="text/JavaScript">
+<!--
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<div id="header" style=" padding-top:6px;">
+ <div id="logo_nav" style="background:url(imgs/header/logo_tab_2.jpg) no-repeat ">
+   <a href="http://www.hollandbulbfarms.com/index.asp?url=IND"> 
+   	<img src="imgs/1X1clear.gif" height="56" width="145" border="0" title=""></a>
+   <span style="position:absolute; right:1px; z-index:1; top:28px; "><a href="sweepstakes/" target="_sweepstakes"><img src="imgs/header/sweepstakes_banner.gif" width="520" height="30" border="0" title=""></a></span> 
+   <a href="catalogRequest.asp"><img src="imgs/header/free_cat_anim.gif" width="98" height="19" border="0" title=""></a> </div>
+	
+</div><div style="background:#a2c488"> 
+  <div align="right">
+
+<!--Bottom right space underneath logo-->
+
+
+  </div>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+      <tr class="header_menubgcolor">
+        <td class="header_menubgcolor" colspan="3" height="25" nowrap="nowrap" valign="center" width="100%">
+		<div id="headerMenu">
+		<script type="text/javascript" src="includes/cnt.js"></script>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0" align="right">
+  <tbody><tr>
+    <td width="691" style="padding-left:5px;" align="left"><a href="#" onclick="document.getElementById('shippingStartsDiv').style.display='block'" style="text-decoration:none;"><span style="font-size:16px; color:#FFFFFF; font-weight:bold">Shipping begins in</span> <span style="font-size:18px; color:#FFFFFF; font-weight:bold;" id="cd">6 days 15h 09m 30s</span></a></td>
+    <td width="10%" align="right" nowrap="nowrap" bgcolor="aea971">
+	
+	<a href="ordtrack.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','imgs/header/menu_trackOrder_on.gif',1)"><img src="imgs/header/menu_trackOrder_off.gif" alt="Track your Order" name="Image3" width="124" height="30" border="0" id="Image3" title="Track your Order"></a><a href="help.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','imgs/header/menu_helpcenter_on.gif',1)"><img src="imgs/header/menu_helpcenter_off.gif" alt="Help " name="Image2" width="131" height="30" border="0" id="Image2" title="Help "></a></td>
+	
+  
+
+<script language="Javascript">
+function submitMainsearch()
+{ 
+	if (document.frmMainsearch.SearchWord.value.indexOf(" ") == 0)
+	{
+		alert("Search string should not start with spaces.");
+		document.frmMainsearch.SearchWord.focus();
+		return false;
+	}
+	if (document.frmMainsearch.SearchWord.value == "")
+	{
+		alert("Please enter a search string.");
+		document.frmMainsearch.SearchWord.focus();
+		return false;
+	}
+	document.frmMainsearch.submit();
+	return true;
+}
+</script>
+
+
+<!--### SEARCH BOX STARTS HERE ###-->
+    
+	
+			<form name="frmMainsearch" method="get" action="http://www.hollandbulbfarms.com/searchresult.asp" onsubmit="JavaScript:submitMainsearch();return false"></form>
+			<td width="2%" bgcolor="8f8d72" align="right" style="padding-left:8px"><img src="imgs/header/searchbox_text.gif" width="52" height="22" title=""></td>
+    <td width="2%" bgcolor="8f8d72" align="right"><input type="text" name="SearchWord" size="18" style="font-weight:bold; padding-left:2px;" class="content" maxlength="20" value=""></td>
+    <td width="29" bgcolor="8f8d72" align="right" valign="middle"><a href="#" onclick="JavaScript:submitMainsearch();return false"><img src="imgs/1X1clear.gif" width="3" border="0" title=""><img src="imgs/header/submit_go.gif" width="26" height="27" border="0" title=""></a></td>
+    <td width="9" bgcolor="8f8d72" align="right"><img src="imgs/1X1clear.gif" width="4" border="0" title=""></td>
+				<input type="hidden" name="from">
+				<input type="hidden" name="FrmSearchWords">
+                <input type="hidden" name="hidSearchStringType" value="1">
+				<input type="hidden" name="layout" value="">
+				
+				
+				
+
+			
+
+
+
+	
+  </tr>
+</tbody></table>
+
+		</div>
+          <div class="welcome_cart_text" id="Menu_right_options">
+            <div align="right" style="color:000000">  
+<!--### CART CONTENTS TABLE STARTS HERE ###-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="550">
+      <tbody><tr>
+        <td width="15" valign="bottom" bgcolor="#8E8D71"><img name="cart_r1_c1" src="imgs/cart_r1_c1.jpg" width="15" height="22" border="0" id="cart_r1_c1" alt="" title=""></td>
+        <td colspan="3" bgcolor="#8E8D71"><span class="welcome_cart_text">Welcome, 
+		
+		<a href="http://www.hollandbulbfarms.com/acclogin.asp?url=AL" style="color:#FFFFFF">sign in</a>  or <a href="accregister.asp?msg=" style="color:#FFFFFF">register now!</a> </span>
+		
+		&nbsp;|</td>
+        <td width="90" bgcolor="#8E8D71"><a href="http://www.hollandbulbfarms.com/viewcart.asp?url=VC"><img name="cart_r1_c2" src="imgs/cart_viewcart.gif" width="85" height="22" border="0" id="cart_r1_c2" alt="(click me) You currently have 0 item(s) in your cart for a total of $0.00" title="(click me) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
+        <td width="106" bgcolor="#8E8D71"><a href="http://www.hollandbulbfarms.com/viewcart.asp?url=VC" style="color:#FFFFFF;"><span class="welcome_cart_text">You have 0 item(s)&nbsp;</span></a><span class="welcome_cart_text"> | </span></td>
+        <td width="89" bgcolor="#8E8D71"><a href="http://www.hollandbulbfarms.com/checkout.asp?url=CK"><img name="cart_r1_c2" src="imgs/cart_checkout.gif" width="85" height="22" border="0" id="cart_r1_c2" alt="(click ) You currently have 0 item(s) in your cart for a total of $0.00" title="(click ) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
+        <!-- <td width="100" bgcolor="#8E8D71">
+		<div align="left">
+		<strong><a href="http://www.hollandbulbfarms.com/viewcart.asp?url=VC" class="podtext style2" style="color:#FFFFFF; font-size:14px; ">
+				$0.00
+		</strong></a></div>
+	</td>-->
+          <td width="70" bgcolor="#8E8D71"><span class="welcome_cart_text"> |&nbsp; <a href="http://www.hollandbulbfarms.com/accinfo.asp?url=AI" style="color:#FFFFFF;" "=""> My Account</a></span></td>
+      </tr>
+</tbody></table>
+
+
+<!--### CART CONTENTS TABLE ENDS HERE ###-->
+</div>
+          </div>
+	    </td>
+      </tr>
+
+ <!-- Future Add Space <tr><td height="0">erer</td></tr>-->
+ 
+ </tbody>
+</table>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+//-->
+</script>
+
+		<div id="shippingStartsDiv" style="display:none; position:absolute; width:400px; left: 14px; top: 98px; height: 130px; filter:alpha(opacity=97); -moz-opacity:0.97; opacity: 0.97;">
+		<table cellpadding="0" cellspacing="0" border="0" width="412">
+		<tbody><tr>
+        	<td valign="top" style="BORDER:1px double; BORDER-COLOR:#000000" bgcolor="#CC3300">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#CC3300">
+						 <tbody><tr>
+						<td height="224" class="content">
+						<div align="right" class="style17 style25"><a href="#" class="style18" onclick="document.getElementById('shippingStartsDiv').style.display='none'"><span style="color:#FFFFFF"><strong>Close X</strong></span></a></div>
+						<hr color="#000000">
+						<div class="style20" style=" padding-left:10px; padding-right:10px; padding-bottom:10px;color:#FFFFFF">
+						  <p align="center" style="color:#000000"><strong>Holland Bulb Farms prides itself on our excellent   service and quality of our products. But what our customers really love is our QUICK shipping.&nbsp; Spring 2007 shipments start on   February 26, 2007 and then shipments are packed and processed on a weekly   basis.</strong></p>
+						  <hr color="#000000">
+						  <p><strong>After your order is   placed:</strong></p>
+						  <ul type="disc">
+                            <li><strong>We <u>process</u> it </strong></li>
+						    <li><strong>We <u>package</u> it </strong></li>
+						    <li><strong>We <u>ship</u> it </strong></li>
+					      </ul>
+						  <p><strong>All in 2-3 business days</strong>!!</p>
+						  </div>
+						</td>
+						</tr>
+			  </tbody></table>
+			</td>
+      </tr>
+	</tbody></table>
+</div>
+
+<!-- END HEADER -->
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+
+		
+    <!-- BEGIN LEFT_NAVIGATION -->
+      <td class="leftnavbody" valign="top" width="150">
+
+    <div class="">
+	  
+		
+      <div style=""></div>
+	  
+		</div>
+	<div style="padding-top:7px; padding-bottom:0px;">
+	<table id="browse_nav" cellspacing="0" cellpadding="0border=0">
+  <tbody>
+    <tr>
+      <td width="201" align="middle" class="links_title"><img src="imgs/storefront/browse_top.gif" alt="" title=""></td>
+    </tr>
+    <tr>
+      <td class="links" valign="top">
+	  
+	  <div style="padding-top:5px; padding-bottom:5px;"><a href="#" onclick="document.CustomSearch.submit(); return false;"><img src="imgs/storefront/browse_newitems.gif" border="0" title=""></a></div>
+	  <img src="imgs/storefront/browse_spring_planting.gif" width="93" height="20" title="">
+	    <ul id="navlist">	
+   
+
+		<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Begonias&amp;layout=">Begonias </a></li>
+
+	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=CallaLilies&amp;layout=">Calla Lilies </a></li>
+
+	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Cannas&amp;layout=">Cannas</a></li>
+
+	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Dahlias&amp;layout=">Dahlias </a></li>
+
+	<li><a href="items.asp?Cc=ELEPHANTEARS&amp;layout=">Elephant Ears / Caladiums</a></li>
+
+	<li><a class="featured" href="items.asp?Cc=FRUITS&amp;Bc=&amp;layout=">Fruits</a></li>
+
+	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=GLADIOLI&amp;layout=">Gladiolus </a></li>
+
+	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Lilies&amp;layout=">Lilies </a></li>
+
+	<li><a class="featured" href="items.asp?Cc=PERENNIALS&amp;Bc=&amp;layout=">Perennials&nbsp;<img src="imgs/cat_sale_small.gif" border="0" title=""></a></li>
+
+	<li><a class="featured" href="items.asp?Cc=VEGETABLES&amp;Bc=&amp;layout=">Vegetables</a></li>
+
+	<li><a class="featured" href="items.asp?Cc=WATERPLANTS&amp;iTpStatus=0&amp;Tp=&amp;Bc=&amp;layout=">Water Plants</a></li>
+	
+	<li><a class="featured" href="items.asp?Cc=SPECIALTY&amp;iTpStatus=0&amp;Tp=&amp;Bc=&amp;layout=">Unusual &amp; Specialty Bulbs</a></li>
+	</ul>
+		
+	  <br>
+	   <img src="imgs/storefront/browse_spring_collections.gif" title="">
+	   <ul id="navlist"><li><a class="featured" href="items.asp?Cc=SYMPHONYOFCOLOR&amp;Bc=&amp;layout=">Symphony of Color</a></li>
+		  <li><a class="featured" href="items.asp?Cc=VALUEBAGSSPRING&amp;Bc=&amp;layout=">Value Bags</a></li>
+		  <li><a class="featured" href="items.asp?Cc=VIBRANTGARDENS&amp;Bc=&amp;layout=">Vibrant Garden Collections</a></li>
+	      </ul>
+		  <br>
+		  
+		  
+		  <div style="padding-bottom:5px; padding-top:4px; padding-left:3px;">
+		  <img src="imgs/storefront/browse_shop_by_color.gif" alt="To Shop By Color click below" title="To Shop By Color click below">
+		  </div>
+		  <div>
+		  <table width="70%" border="0" cellspacing="1" cellpadding="1" align="center" style="padding-bottom:10px;">
+  <tbody><tr>
+    <td><a href="#" onclick="FindByColor('Yellow'); return false;"><img src="imgs/storefront/browse_shpcolorYellow.gif" alt="Click here to view all of our ”Yellow” products." border="0" title="Click here to view all of our ”Yellow” products."></a></td>
+    <td><a href="#" onclick="FindByColor('Pink'); return false;"><img src="imgs/storefront/browse_shpcolorPink.gif" alt="Click here to view all of our ”Pink” products." border="0" title="Click here to view all of our ”Pink” products."></a></td>
+    <td><a href="#" onclick="FindByColor('White'); return false;"><img src="imgs/storefront/browse_shpcolorWhite.gif" alt="Click here to view all of our ”White” products." border="0" title="Click here to view all of our ”White” products."></a></td>
+    <td><a href="#" onclick="FindByColor('Blue'); return false;"><img src="imgs/storefront/browse_shpcolorBlue.gif" alt="Click here to view all of our ”Blue” products." border="0" title="Click here to view all of our ”Blue” products."></a></td>
+  </tr>
+  <tr>
+     <td><a href="#" onclick="FindByColor('Red'); return false;"><img src="imgs/storefront/browse_shpcolorRed.gif" alt="Click here to view all of our ”Red” products." border="0" title="Click here to view all of our ”Red” products."></a></td>
+    <td><a href="#" onclick="FindByColor('Green'); return false;"><img src="imgs/storefront/browse_shpcolorGreen.gif" alt="Click here to view all of our ”Green” products." border="0" title="Click here to view all of our ”Green” products."></a></td>
+    <td><a href="#" onclick="FindByColor('Purple'); return false;"><img src="imgs/storefront/browse_shpcolorPurple.gif" alt="Click here to view all of our ”Purple” products." border="0" title="Click here to view all of our ”Purple” products."></a></td>
+    <td><a href="#" onclick="FindByColor('Orange'); return false;"><img src="imgs/storefront/browse_shpcolorOrange.gif" alt="Click here to view all of our ”Orange” products." border="0" title="Click here to view all of our ”Orange” products."></a></td>
+  </tr>
+</tbody></table>
+
+		  </div>
+		  
+		  <a href="http://www.hollandbulbfarms.com/items.asp?Cc=AMARYL/PWHITE&amp;Bc=&amp;layout=grid"><img src="imgs/storefront/browse_clearance.gif" alt="Limited Quantity Available" width="69" height="22" border="0" title="Limited Quantity Available"></a>
+	
+			 <div style=" padding-bottom:10px; padding-top:10px; BORDER-top:  #999999 1px  dashed; ">
+		  <!-- START WhosOn CODE -->
+		  
+<script type="text/javascript" language="javascript">
+
+function FindByColor(color){
+	document.findbycolor.TxtCUSTCHAR2.value = color
+	document.findbycolor.submit()
+}
+</script>
+
+
+
+<script type="text/javascript" src="whoson_holland_bulb_farms.js"></script><a target="_blank" href="https://hosted6.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com&amp;lang=en" onclick="javascript:window.open('https://hosted6.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com&amp;lang=en','new_win','width=484,height=361');return false;"><img border="0" src="https://gateway6.whoson.com/stat.gif?u=&amp;d=www.hollandbulbfarms.com&amp;p='https%3A//web.archive.org/web/20070223160535id_/http%253A//www.hollandbulbfarms.com/privacy.asp'&amp;r=''&amp;response=g" title=""></a><script language="Javascript" src="https://gateway6.whoson.com/invite.js?domain=www.hollandbulbfarms.com"></script>
+	  <!-- END WhosOn CODE -->
+	</div>
+		<br>
+	<br>
+	   
+	
+	<div align="center"><a href="security.asp?layout="><img src="imgs/storefront/browse_safe_secure.gif" border="0" title=""></a></div>
+	
+	<div id="certificates" align="center" style="padding-top:10px">
+	<div>
+	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.hollandbulbfarms.com"><img border="0" src="//images.scanalert.com/meter/www.hollandbulbfarms.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" title="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
+	</div>
+	<div style="padding-top:5px;"><script language="JavaScript" src="includes/trustlogo.js"></script>
+	  	<script type="text/javascript">TrustLogo("imgs/credit_card_site.gif", "SC", "none");</script><a href="javascript:if(window.open('https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20070223160535id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5','tl_wnd_credentials'+(new Date()).getTime(),'toolbar=0,scrollbars=1,location=1,status=1,menubar=1,resizable=1,width=450,height=500,left=60,top=120')){};tLlB(tLTB);" onmouseover="tLeB(event,'https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=C&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20070223160535id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5','tl_popupSC')" onmousemove="tLXB(event)" onmouseout="tLTC('tl_popupSC')" ondragstart="return false;"><img src="imgs/credit_card_site.gif" border="0" onmousedown="return tLKB(event,'https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20070223160535id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5');" oncontextmenu="return tLLB(event);" title=""></a><!----><div id="tl_popupSC" name="tl_popupSC" style="position:absolute;z-index:0;visibility: hidden;background-color: transparent;overflow:hidden;" onmouseover="tLoB('tl_popupSC')" onmousemove="tLpC('tl_popupSC')" onmouseout="tLpB('tl_popupSC')">&nbsp;</div>
+	</div>
+	<div style="padding-top:5px;">
+	<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.hollandbulbfarms.com&amp;lang=en" target="_blank"><img src="imgs/verisign_services.gif" alt="Payment Services Provided Securely By VeriSign" border="0" title="Payment Services Provided Securely By VeriSign"></a>
+	</div>
+	<div style="padding-top:5px;">
+	<a href="http://www.bbbonline.org/cks.asp?id=10611061589327" target="_blank"><img src="imgs/BBB_alone.gif" border="0" title=""></a> 
+	</div>
+<br>
+</div>
+	
+
+		<p>
+		</p><div style="BORDER-top:  #999999 1px  dashed; BORDER-bottom:  #999999 1px  dashed;  padding-left:6px;">
+	    <img src="imgs/storefront/browse_siteinfo.gif" title=""></div>
+	      <ul id="browse_siteinfo_nav" style="padding-left:5px;">	
+		<li><a href="catalogRequest.asp?layout=">Catalog Sign Up</a></li>
+		<li><a href="contact.asp?layout=">Contact Us</a></li>
+	    <li><a href="help.asp?layout=">Help Center </a><a href="#"></a></li>
+	    <li><a href="accLogin.asp?layout=">Login</a><a href="#"></a></li>
+	    <li><a href="privacy.asp?layout=">Privacy Policy</a></li>
+	    <li><a href="items.asp?Cc=GiftCard&amp;layout=">Buy Gift Certificates</a></li>
+	   </ul>
+		<p></p>  
+
+	    </td>
+    </tr>
+    <tr>
+      <td class="links_title" align="middle"><img src="imgs/storefront/browse_bottom.gif" alt="Shop by Size" title="Shop by Size"></td>
+    </tr>
+  </tbody>
+</table>
+		</div>
+		
+		 <form name="findbycolor" method="post" action="http://www.hollandbulbfarms.com/itemsSort.asp?Tp=&amp;srtColor=t" onsubmit="return false;">
+		<input type="hidden" name="PageNo">
+        <input type="hidden" name="txtCode" value="">
+        <input type="hidden" name="txtKey" value="">
+        <input type="hidden" name="selBrand" value="">
+        <input type="hidden" name="selManufacturer" value="">
+        <input type="hidden" name="selCategory" value="">
+        <input type="hidden" name="txtMin" value="">
+        <input type="hidden" name="txtMax" value="">
+        <input type="hidden" name="radSort" value="1">
+        <input type="hidden" name="sCatDesc" value="All Categories">
+        <input type="hidden" name="sManDesc" value="All Manufacturers">
+        <input type="hidden" name="sBrandDesc" value="All Brands">
+        <input type="hidden" name="txtModel" value="">
+		<input type="hidden" name="TxtCUSTCHAR2" value="">
+		<input type="hidden" name="layout" value="">
+		
+		</form>
+		
+		
+
+<form id="CustomSearch" name="CustomSearch" method="post" action="itemsSort.asp">
+<input type="hidden" name="radSort" value="4">  
+<input type="hidden" name="layout" value="">
+<input type="hidden" name="PageNo">
+<input type="hidden" name="txtCode" value="">
+<input type="hidden" name="txtKey" value="">
+<input type="hidden" name="selBrand" value="">
+<input type="hidden" name="selManufacturer" value="">
+<input type="hidden" name="selCategory" value="">
+<input type="hidden" name="txtMin" value="">
+<input type="hidden" name="txtMax" value="">
+<input type="hidden" name="sCatDesc" value="">
+<input type="hidden" name="sManDesc" value="All Manufacturers">
+<input type="hidden" name="sBrandDesc" value="All Brands">
+<input type="hidden" name="txtModel" value="">
+<input type="hidden" name="TxtCUSTLOG1" value="T">
+<input type="hidden" name="CatName" value="New Items">
+</form>	
+</td>
+
+
+<td align="center" valign="top" id="content">					
+
+      <!-- ****** Begin Crumb Trail ****** -->
+      <table align="center" border="0" cellpadding="1" cellspacing="0" width="99%">
+        <tbody>
+          <tr>
+            <td width="75%" valign="top" class="breadcrumb"><a href="index.asp?url=IND">Home</a> &nbsp;<img src="imgs/crumb_trail_arrow.gif" title="">&nbsp;
+              Privacy <!-- ****** END Crumb Trail ****** -->
+            </td>
+            <td width="25%" align="right" style="padding-top:4; padding-right:9"><img src="imgs/call_us_800_num.gif" title=""></td>
+          </tr>
+        </tbody>
+      </table>
+      <table width="100%">
+        <tbody>
+        
+        <tr>
+        
+        <td align="center" valign="top" style="padding-left:30px;">		
+					<!-- ### CONTENT PANEL STARTS HERE ###-->
+					<table border="0" cellspacing="0" cellpadding="0" width="98%" valign="top">
+						<tbody><tr>
+						  <td align="LEFT" valign="TOP" class="ItemTitleMain">Privacy Policy </td>
+						  <td height="10" align="right">&nbsp;</td></tr>
+						<tr><td class="siteNav7TD" colspan="2" height="2"><img src="images/blank.gif" width="1" height="1" border="0" alt="" title=""></td></tr>
+				</tbody></table><p>
+				
+				<table width="98%" border="0" cellpadding="0" cellspacing="0" class="content" valign="top" style="font-size:13px">
+						<tbody><tr>
+						  <td><div align="left">
+                              <div>At HollandBulbFarms.com, we are committed to providing   our customers with high quality products. So that our customers can feel as   confident and secure about shopping on line as they do with our products   generally, we have developed the following policy to explain our dedication to   the customer's privacy and to ensure that customers have easy access to   information about our data collection and dissemination practices. </div><br><br>
+						      <div><strong>Customer Information We   Collect On Line</strong></div>
+						      <div>When you visit HollandBulbFarms.com, our web server will automatically recognize   your domain name, but will not gain automatic access to any other individually   identifying customer information, including your e-mail address. With the   exception of this single automatic process, the only information we collect   about you is that which you volunteer either when requesting a catalog or at the   check-out screen when you are ordering our products. On each of these screens,   you have the opportunity to provide us with your personal contact information   (i.e., name, address, e-mail). Additionally, when you place an order with us,   you may volunteer your credit card billing information and e-mail address, so   that we may process your order and timely notify you of its status. </div><br><br>
+						      <div><strong>How We Protect Customer   Information</strong></div>
+						      <div>When you volunteer personal information on our web site, all such   information is encrypted before it is sent to our server. We utilize SSL (Secure   Socket Layering) to encrypt your information when transferring it to our server.   Additionally, we maintain appropriate safeguards internally to ensure the   security, integrity and privacy of your personal information within our company We provide a Safe &amp; Secure shopping experience to guarantee that the information you provide us stays with us, and no one else. <br>
+						        <span class="style5">(Read more about our Security and Safe Shopping Guarantee)						        </span>
+						        <div>
+                                    <div><br>
+                                  Do We Employ Cookies? Cookies are small files stored on your computer hard   drive. They are generated by web sites such as HollandBulbFarms.com to provide   customers with certain features which increase the ease of on line shopping. </div><br><br>
+						          <div></div>
+						          <br><br>
+						          <div><strong>Our Mailing List:</strong> Removing or Making   Corrections to Your Personal Information By contacting us through any of the   above-listed means, you may also choose to remove your name from our own   customer list, which we use to send customers catalogs, notices of upcoming   promotions and other hard-copy and e-mail information. So long as you choose to   remain on our mailing list, however, we provide you with the ability to update,   correct or change your personal information by contacting us at the telephone   number, e-mail and postal addresses listed above. </div><br><br><br><br>
+					            </div>
+					          </div>
+				          </div>						    <p></p></td>
+						</tr>
+				</tbody></table>
+				<!-- ### CONTENT PANEL ENDS HERE ###-->
+			  </p></td>
+				
+        </tr>
+		
+        </tbody>
+      </table>
+      <!-- END RIGHT_NAVIGATION -->
+	  
+	  </td>
+    <!--- END Main Page --->
+  </tr>
+  </tbody>
+</table>
+		<!-- ### FOOTER ENDS HERE ###-->
+		
+
+<form method="post" action="http://oi.vresp.com?fid=66740da27e" target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
+<table class="footerbgcolor1" width="100%">
+  <tbody>
+    <tr class="footerfontcolor2">
+      <td nowrap="nowrap" align="center">
+	  <div style="padding-bottom:1px; padding-top:1px;">
+	  <table width="300">
+  <tbody><tr>
+    <td><div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
+      <div class="smallfootertext" style="padding-left:8px;"><strong><img src="imgs/footer_shopcart.gif" width="15" height="14" title=""><span class="podtext">shop</span></strong>
+	  	<div style="padding-left:5px;">
+		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="items.asp?shopBrandStatus=0&amp;url=IND" class="podtext">view all categories</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ship.asp#shippingcharges" class="podtext">shipping and delivery</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="guarantee.asp" class="podtext">satisfaction gaurantee</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="viewcart.asp?url=VC" class="podtext">shopping cart</a></div>
+	  </div> 
+    </div></td>
+    <td width="2"></td>
+    <td>
+	<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
+      <div class="smallfootertext" style="padding-left:8px; padd"><strong><img src="imgs/footer_ribbon.gif" width="19" height="14" title=""><span class="podtext">gifts</span></strong>
+	  	<div style="padding-left:5px;"><img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="http://www.hollandbulbfarms.com/searchresult.asp?SearchWord=Gift&amp;from=&amp;FrmSearchWords=&amp;hidSearchStringType=1&amp;layout=" class="podtext">gift ideas </a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="WishListSearch.asp" class="podtext">search for a wishlist </a><br>
+          <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="CreateWishList.asp?msg=055" class="podtext">make a wishlist</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" style="visibility:hidden" title=""><a href="CreateWishList.asp?msg=055" class="podtext" style="visibility:hidden">make a list</a>
+		 </div>
+	  </div> 
+    </div>	</td>
+     <td width="2"></td>
+    <td>
+		<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:2px;">
+      <div class="smallfootertext" style="padding-left:8px; padd"><strong><img src="imgs/footer_phone.gif" width="17" height="14" title=""><span class="podtext">customer service </span></strong>
+	  	<div style="padding-left:5px;">
+		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ordtrack.asp" class="podtext">order tracking</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="privacy.asp" class="podtext">privacy policy</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="security.asp" class="podtext">safe shopping gaurantee</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ship.asp#Payments" class="podtext">payment methods</a></div>
+	  </div> 
+    </div>	</td>
+     <td width="2"></td>
+    <td>
+		<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
+      <div class="smallfootertext" style="padding-left:8px; padd"><strong><img src="imgs/footer_questionmark.gif" width="17" height="14" title=""><span class="podtext">learn </span></strong>
+	  	<div style="padding-left:5px;">
+		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="learn.asp" class="podtext">our on-line shop</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="help.asp" class="podtext">faq's</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="zones.asp" class="podtext">hardiness zone finder </a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="contact.asp?url=CT" class="podtext">contact us</a></div>
+	  </div> 
+    </div>	</td>
+  </tr>
+  <tr height="50">
+    <td colspan="3" style="padding-top:5px;">
+	<div style="background:#FFFFFF; height:100%; padding-top:9px; padding-bottom:9px; padding-right:12px;">
+		<div id="contactpodText" class="smallfootertext" style="padding-left:6px;">
+			<img src="imgs/arrow_green.gif" border="0" title="">
+			<strong><span class="podtext">have questions or comments</span></strong>
+		</div>
+		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:1px"> you may call <nobr>800-689-BULB (2852)</nobr>, <a href="contact.asp"><strong>contact us</strong></a> , or just give us some <a onclick="window.open('popup_form.asp?msg=2','contactWindow','height=499,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#"><strong>feedback</strong></a> on or store </div>
+	</div>
+	</td>
+    <td></td>
+   <td colspan="3" style="padding-top:5px;">
+
+	<div style="background:#FFFFFF; height:100%; padding-top:10px; padding-bottom:9px; padding-right:12px;">
+		<div id="contactpodText" class="smallfootertext" style="padding-left:6px;">
+			<img src="imgs/arrow_green.gif" border="0" title="">
+			<strong><span class="podtext">get special savings, tips and invite only pricing</span></strong>		</div>
+		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:4px">  
+		  <input name="email_address" type="text" value="enter e-mail address please" tabindex="49" size="40" maxlength="50" class="smallform" onclick="this.value = ''">
+		  <input name="submitlogin" type="image" id="submitlogin" tabindex="50" src="imgs/submit_btn_green.gif" align="absmiddle" onclick="this.form.submit()">
+		
+		  </div>
+	</div>
+
+	</td>
+    </tr>
+</tbody></table>      
+	  
+	  </div>
+	  </td>
+    </tr>
+  </tbody>
+</table>
+<div align="center" style="padding-top:6px; padding-bottom:2px;">
+<table width="100%">
+  <tbody><tr>
+    <td width="425" style="font-size:.6em"><a onclick="window.open('popup_form.asp?msg=1','contactWindow','height=466,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#">What's wrong with this page? (let us know) </a></td>
+    <td width=""></td>
+	
+	<td width="276"></td>
+    <td width="34">&nbsp;</td>
+  </tr>
+</tbody></table>
+</div>
+  </form>
+<script language="javascript">
+setTitleForImages();
+if((navigator.userAgent.toUpperCase().indexOf("MAC") != -1) && (navigator.userAgent.toUpperCase().indexOf("GECKO") == -1))
+{
+setHrefForLinks();
+}
+</script>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-648404-3";
+urchinTracker();
+</script>
+
+<!--Everest E-Commerce Advanced Edition : Enterprise version-V3.0720.00000.162.00000.162.00000 ,ASP version-V3.0720.00000.162.00000.162.00000-->
+	
+
+</body></html>
