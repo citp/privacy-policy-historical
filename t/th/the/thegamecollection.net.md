@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230032411id_/http%3A//www.thegamecollection.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224201424id_/http%3A//www.thegamecollection.net/privacy.php) for the most accurate reproduction.*
 
 # gamecollection.net
 
