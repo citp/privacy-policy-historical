@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216025612id_/http%3A//www.numericacu.com/htm/about_legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224185131id_/http%3A//www.numericacu.com/htm/about_legal.php) for the most accurate reproduction.*
 
 # Numerica Credit Union
 
@@ -17,10 +17,10 @@ The Credit Union collects only relevant information about members that is needed
 Back to top
 
 Member Information We Share  
-In order to provide financial services to you, we share certain information about you with our third party service providers. How-ever, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater conve-nience. Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law. 
+In order to provide financial services to you, we share certain information about you with our third party service providers. However, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law.
 
 **Sharing Information with Third Party Service Providers.**  
-In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including: data processing companies; check, ATM and other payment processing companies; payment networks; loan service providers; loan product providers; insurance companies; collection agencies; credit reporting agencies; financial planners; securities brokerage and insurance companies; and financial service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the member informa-tion we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided: 
+In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including: data processing companies; check, ATM and other payment processing companies; payment networks; loan service providers; loan product providers; insurance companies; collection agencies; credit reporting agencies; financial planners; securities brokerage and insurance companies; and financial service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the member information we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided:
 
   * Personal information (name, address, and account number)
   * Account information (type of accounts, account balances, and transaction history) 
@@ -41,7 +41,7 @@ We maintain strict policies and security controls to assure that member informat
 Back to top
 
 Online Privacy Protections  
-At our website, [www.numericacu.com](http://www.numericacu.com/), you may apply for accounts and services, and you may communicate with us via e-mail. To protect the information you provide us on-line, we use multiple levels of security. The application information we accept on-line and our Home Banking service relies on industry standard “Secure Sockets Layer” (SSL) encryption to secure your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address, and phone number, it will be obtained using a secure (SSL encryp-tion) e-mail form. When you visit our website, you can access site information, without revealing your personal identity. However, in order to help us identify you for future visits, we use “cookies” to track your visit. A “cookie” is a piece of information that our web server stores on your computer hard drive and retrieves later. The cookie will not request, require, or collect personal identity information, and you remain anonymous. Your member information is not accessed by or stored within a cookie in any way.
+At our website, [www.numericacu.com](http://www.numericacu.com/), you may apply for accounts and services, and you may communicate with us via e-mail. To protect the information you provide us on-line, we use multiple levels of security. The application information we accept on-line and our Home Banking service relies on industry standard “Secure Sockets Layer” (SSL) encryption to secure your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address, and phone number, it will be obtained using a secure (SSL encryption) e-mail form. When you visit our website, you can access site information, without revealing your personal identity. However, in order to help us identify you for future visits, we use “cookies” to track your visit. A “cookie” is a piece of information that our web server stores on your computer hard drive and retrieves later. The cookie will not request, require, or collect personal identity information, and you remain anonymous. Your member information is not accessed by or stored within a cookie in any way.
 
 Back to top
 
@@ -49,7 +49,7 @@ Protecting Children's Information Privacy
 Numerica does not knowingly collect, maintain, or use personal information about children under age 13 from its website. If a person sends personal information to us through any online service and identifies himself or herself as being under the age of 13, we will only use that information to respond directly to that child or to notify the parents. We will not retain such information unless we obtain parental consent.
 
 Privacy Policy Inquiries  
-If you have any questions about our privacy practices, contact us by calling (509) 535-7613 or 1-800-433-1837, by logging on to our website, [www.numericacu.com](http://www.numericacu.com/index.html) and sending us an email or writing to us at: 
+If you have any questions about our privacy practices, contact us by calling (509) 535-7613 or 1-800-433-1837, by logging on to our website, [www.numericacu.com](http://www.numericacu.com/index.php) and sending us an email or writing to us at: 
 
 Numerica Credit Union  
 P.O. Box 6011  
