@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901022042id_/http%3A//taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224045818id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Taylor Gifts - Diet, Exercise, As Seen On TV, Novelty, Home Decor, and More!
 
