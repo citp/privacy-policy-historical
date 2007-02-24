@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivaterra.com privacy policy that was archived on 2006-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061130225018id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivaterra.com privacy policy that was archived on 2007-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070224013949id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="distribution" content="Global">
@@ -47,7 +47,7 @@ obj.value=obj.value.substring(0,mlength)
         return null;
       }
       function session_id(){
-        return "108733233311";
+        return "138156242404";
       }
     //-->
   </script>
@@ -87,173 +87,42 @@ obj.value=obj.value.substring(0,mlength)
   
     <!-- script for navigation dropdowns -->
     <script language="javascript" type="text/javascript">
-      <!--
-      function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-        if (init==true) with (navigator) {
-          if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-            document.MM_pgW=innerWidth;
-            document.MM_pgH=innerHeight;
-            onresize=MM_reloadPage;
-          }
-        }
-        else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH){
-          location.reload();
-        }
-      } //MM_reloadPage
-      MM_reloadPage(true);
 
-      function MM_findObj(n, d) { //v4.01
-        var p,i,x;
-        if(!d){
-          d=document;
-        }
-        if((p=n.indexOf("?"))>0&&parent.frames.length) {
-          d=parent.frames[n.substring(p+1)].document;
-          n=n.substring(0,p);
-        }
-        if(!(x=d[n])&&d.all){
-          x=d.all[n];
-        }
-        //for (i=0;!x&&i<d.forms.length;i++){
-        //  x=d.forms[i][n];
-        //}
-        for(i=0;!x&&d.layers&&i<d.layers.length;i++){
-          x=MM_findObj(n,d.layers[i].document);
-        }
-        if(!x && d.getElementById){
-          x=d.getElementById(n);
-        }
-        return x;
-      } //MM_findObj
+      function resetDropdownDiv(objid, parid, vis, dir) {
+        var par,obj;
+        if (document.getElementById) {
 
-      function showIframe(div_in){
-        var ifr = MM_findObj("dd_navigation_iframe");
-        if (ifr.style) {
-          ifr.style.width = div_in.offsetWidth;
-          ifr.style.height = div_in.offsetHeight;
-          ifr.style.top = div_in.offsetTop;
-          ifr.style.left = div_in.offsetLeft;
-          ifr.style.display = "block";
-        }
-      } //showIframe
+          if ((obj=document.getElementById(objid))!=null){
 
-      function hideIframe(){
-        var ifr = MM_findObj("dd_navigation_iframe");
-        if (ifr.style) {
-          ifr.style.display  = "none";
-        }
-      } //hideIframe
-
-      function P7_hideDiv(evt) { //v1.3 by PVII
-        var b,relT,mT=false;
-        var testing = "";
-        if(document.layers){
-          b=evt.target;
-          if(b.p7ahD){
-            b.visibility="hidden";
-            hideIframe();
-            testing = "" + testing + "a1:";
-          }
-          else{
-            routeEvent(evt);
-            testing = "" + testing + "a2:";
-          }
-        }
-        else if(document.all&&!window.opera){
-          b=event.srcElement;
-          testing = "" + testing + "b1:";
-          while(b!=null){
-            if(b.tagName=="DIV" && b.p7ahD){
-              mT=true;
-              break;
-            }
-            b=b.parentElement;
-          }
-          if(!b.contains(event.toElement)){
-            b.style.visibility="hidden";
-            hideIframe();
-            testing = "" + testing + "b2:";
-          }
-        }
-        else if(document.getElementById){
-          /* This does not seem to work for Mozilla, use code below
-          b=evt.currentTarget;
-          relT=evt.relatedTarget;
-          testing = "" + testing + "c1:";
-          while(relT!=null){
-            if(b==relT){
-              mT=true;
-              break;
-            }
-            relT=relT.parentNode;
-          }
-          */
-          b=evt.currentTarget;
-          testing = "" + testing + "c1:";
-          while(b!=null){
-            if(b.tagName=="DIV" && b.p7ahD){
-              mT=true;
-              break;
-            }
-            b=b.parentNode;
-          }
-          if(!mT){
-            b.style.visibility="hidden";
-            hideIframe();
-            testing = "" + testing + "c2:";
-          }
-        }
-        //alert("P7_hideDiv() " + testing);
-      } //P7_hideDiv
-
-      function P7_autoHide() { //v1.3 by PVII
-        var i,g,args=P7_autoHide.arguments;
-        for(i=0;i<args.length;i++){
-          if((g=MM_findObj(args[i]))!=null){
-            if(document.layers){
-              g.captureEvents(Event.MOUSEOUT);
-            }
-            g.onmouseout=P7_hideDiv;
-            g.p7ahD=true;
-          }
-        }
-      } //P7_autoHide
-
-      function MM_showHideLayers() { //v6.0
-        var i,p=false,v,obj,args=MM_showHideLayers.arguments;
-        for (i=0; i<(args.length-2); i+=3){
-          if ((obj=MM_findObj(args[i]))!=null){
-            v=args[i+2];
             if (obj.style) {
-              if (v=="show") {
-                v = "visible";
-                showIframe(obj);
-                p = true;
+              //check for parent to set left/right position
+              if ((par=document.getElementById(parid))!=null){
+                if (dir == "left") {
+                  //submenu should go left of the parent, use the right edge
+                  obj.style.right = par.offsetWidth;
+                }
+                else {
+                  //submenu should go right of the parent, use the left edge
+                  obj.style.left = par.offsetWidth;
+                }
               }
-              else if (v=="hide") {
-                v = "hidden";
-              }
-              //v=(v=='show')?'visible':(v=='hide')?'hidden':v;
-            }
-            obj.style.visibility=v;
-          }
-        }
-        if (!p) { //all divs were hidden
-          hideIframe();
-        }
-      } //MM_showHideLayers
+              //now set the visibility
+              obj.style.visibility = vis;
+            } //object supports styles
 
-      //-->
+          } //object found
+
+        } //if we have browser support
+      } //resetDropdownDiv
+
     </script>
-</head>
+  </head>
 <body>
-<!-- Copyright Enetrix Technologies 2006 (www.enetrix.com) -->
+<!-- Copyright Enetrix Technologies 2007 (www.enetrix.com) -->
 
-<iframe id="dd_navigation_iframe" src="stmenu_template.empty" scrolling="no" frameborder="0" style="display:none;" class="DDNavigationContainer">
-</iframe>
 <table class="bodyTable" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
-<td valign="bottom" align="left" class="BannerHeader" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','hide','486161','','hide','484107','','hide','826941','','hide','488301','','hide');">
+<td valign="bottom" align="left" class="BannerHeader">
 <table border="0" cellpadding="0" cellspacing="0" class="BannerHeader">
 <tbody><tr>
 <td valign="bottom" align="left" class="logoHeader"><a href="!stmenu_template.main"><img src="object_utils.display_object?id=1067416&amp;dummy=0" alt="" name="" border="0"></a></td>
@@ -277,187 +146,136 @@ obj.value=obj.value.substring(0,mlength)
 </td></tr>
 <tr>
 <td valign="bottom" align="right" class="BannerSubHeader" width="100%">
-<table cellpadding="0" cellspacing="0" border="0" class="BannerSubNavigation"><tbody><tr class="BannerSubNavigation"><td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','show','1062176','','hide','486160','','hide','486161','','hide','484107','','hide','826941','','hide','488301','','hide');"><div id="484184" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('484184');">
+<table cellpadding="0" cellspacing="0" border="0" class="BannerSubNavigation"><tbody><tr class="BannerSubNavigation"><td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_484184','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_484184','','hidden', '');">
+<div id="dd_div_484184" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.486182.cat"><div class="DDNavigationInner">Eco Accents</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.1062178.cat"><div class="DDNavigationInner">Furniture</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.919994.cat"><div class="DDNavigationInner">Display &amp; Storage</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.484198.cat"><div class="DDNavigationInner">Garden</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.1062177.cat"><div class="DDNavigationInner">Rugs &amp; Mats</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.908043.cat"><div class="DDNavigationInner">New</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.907971.cat"><div class="DDNavigationInner">Home &amp; Garden Sale</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.486182.cat">Eco Accents</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.1062178.cat">Furniture</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.919994.cat">Display &amp; Storage</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.484198.cat">Garden</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.1062177.cat">Rugs &amp; Mats</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.908043.cat">New</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484184.484184.907971.cat">Home &amp; Garden Sale</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.484184..484184.cat" onmouseover="image_484184.src='object_utils.display_object?id=1067494&amp;dummy=0';" onmouseout="image_484184.src='object_utils.display_object?id=829805&amp;dummy=0';"><img src="object_utils.display_object?id=829805&amp;dummy=0" alt="" name="image_484184" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','hide','1062176','','show','486160','','hide','486161','','hide','484107','','hide','826941','','hide','488301','','hide');"><div id="1062176" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('1062176');">
+</div><a href="!stmenu_template.main?complex_id_in=482007.484184..484184.cat" onmouseover="image_484184.src='object_utils.display_object?id=1067494&amp;dummy=0';" onmouseout="image_484184.src='object_utils.display_object?id=829805&amp;dummy=0';"><img src="object_utils.display_object?id=829805&amp;dummy=0" alt="" name="image_484184" border="0"></a></td>
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_1062176','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_1062176','','hidden', '');">
+<div id="dd_div_1062176" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907954.cat"><div class="DDNavigationInner">Dinnerware</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907958.cat"><div class="DDNavigationInner">Glassware</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907957.cat"><div class="DDNavigationInner">Flatware</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907959.cat"><div class="DDNavigationInner">Serving Ware</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907969.cat"><div class="DDNavigationInner">Table Decor</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.908563.cat"><div class="DDNavigationInner">Food Prep</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.921091.cat"><div class="DDNavigationInner">Kitchen Accessories</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.1062183.cat"><div class="DDNavigationInner">New</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.1062184.cat"><div class="DDNavigationInner">Dining &amp; Kitchen Sale</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907954.cat">Dinnerware</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907958.cat">Glassware</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907957.cat">Flatware</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907959.cat">Serving Ware</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.907969.cat">Table Decor</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.908563.cat">Food Prep</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.921091.cat">Kitchen Accessories</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.1062183.cat">New</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.1062176.1062176.1062184.cat">Dining &amp; Kitchen Sale</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.1062176..1062176.cat" onmouseover="image_1062176.src='object_utils.display_object?id=1067497&amp;dummy=0';" onmouseout="image_1062176.src='object_utils.display_object?id=1067496&amp;dummy=0';"><img src="object_utils.display_object?id=1067496&amp;dummy=0" alt="" name="image_1062176" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','show','486161','','hide','484107','','hide','826941','','hide','488301','','hide');"><div id="486160" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('486160');">
+</div><a href="!stmenu_template.main?complex_id_in=482007.1062176..1062176.cat" onmouseover="image_1062176.src='object_utils.display_object?id=1067497&amp;dummy=0';" onmouseout="image_1062176.src='object_utils.display_object?id=1067496&amp;dummy=0';"><img src="object_utils.display_object?id=1067496&amp;dummy=0" alt="" name="image_1062176" border="0"></a></td>
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_486160','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_486160','','hidden', '');">
+<div id="dd_div_486160" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.486183.cat"><div class="DDNavigationInner">Gift Sets</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.486184.cat"><div class="DDNavigationInner">Tea &amp; Coffee</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.484134.cat"><div class="DDNavigationInner">Chocolate &amp; Sweets</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.484227.cat"><div class="DDNavigationInner">Fresh Food</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.919683.cat"><div class="DDNavigationInner">New</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.486183.cat">Gift Sets</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.486184.cat">Tea &amp; Coffee</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.484134.cat">Chocolate &amp; Sweets</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486160.486160.919708.cat">Organic Gourmet Sale</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.486160..486160.cat" onmouseover="image_486160.src='object_utils.display_object?id=1067499&amp;dummy=0';" onmouseout="image_486160.src='object_utils.display_object?id=1067498&amp;dummy=0';"><img src="object_utils.display_object?id=1067498&amp;dummy=0" alt="" name="image_486160" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','hide','486161','','show','484107','','hide','826941','','hide','488301','','hide');"><div id="486161" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('486161');">
+</div><a href="!stmenu_template.main?complex_id_in=482007.486160..486160.cat" onmouseover="image_486160.src='object_utils.display_object?id=1067499&amp;dummy=0';" onmouseout="image_486160.src='object_utils.display_object?id=1067498&amp;dummy=0';"><img src="object_utils.display_object?id=1067498&amp;dummy=0" alt="" name="image_486160" border="0"></a></td>
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_486161','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_486161','','hidden', '');">
+<div id="dd_div_486161" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.486194.cat"><div class="DDNavigationInner">Gift Sets</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.484187.cat"><div class="DDNavigationInner">Bath Accessories</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.1058944.cat"><div class="DDNavigationInner">Towels &amp; Robes</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.908110.cat"><div class="DDNavigationInner">Bedding</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.486195.cat"><div class="DDNavigationInner">Personal Care</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.918444.cat"><div class="DDNavigationInner">New</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.918448.cat"><div class="DDNavigationInner">Bed, Bath &amp; Spa Sale</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.484187.cat">Bath Accessories</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.1058944.cat">Towels &amp; Robes</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.908110.cat">Bedding</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.486195.cat">Personal Care</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.918444.cat">New</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.486161.486161.918448.cat">Bed, Bath &amp; Spa Sale</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.486161..486161.cat" onmouseover="image_486161.src='object_utils.display_object?id=1067501&amp;dummy=0';" onmouseout="image_486161.src='object_utils.display_object?id=1067500&amp;dummy=0';"><img src="object_utils.display_object?id=1067500&amp;dummy=0" alt="" name="image_486161" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','hide','486161','','hide','484107','','show','826941','','hide','488301','','hide');"><div id="484107" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('484107');">
+</div><a href="!stmenu_template.main?complex_id_in=482007.486161..486161.cat" onmouseover="image_486161.src='object_utils.display_object?id=1067501&amp;dummy=0';" onmouseout="image_486161.src='object_utils.display_object?id=1067500&amp;dummy=0';"><img src="object_utils.display_object?id=1067500&amp;dummy=0" alt="" name="image_486161" border="0"></a></td>
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_484107','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_484107','','hidden', '');">
+<div id="dd_div_484107" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.1020781.cat"><div class="DDNavigationInner">Apparel</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.484108.cat"><div class="DDNavigationInner">Jewelry - <b>Free Shipping</b></div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.486189.cat"><div class="DDNavigationInner">Bags</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.919788.cat"><div class="DDNavigationInner">New</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.919829.cat"><div class="DDNavigationInner">Women's Sale</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.1020781.cat">Apparel</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.484108.cat">Jewelry</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.486189.cat">Bags</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.919788.cat">New</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.484107.484107.919829.cat">Women's Sale</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.484107..484107.cat" onmouseover="image_484107.src='object_utils.display_object?id=1067503&amp;dummy=0';" onmouseout="image_484107.src='object_utils.display_object?id=1067502&amp;dummy=0';"><img src="object_utils.display_object?id=1067502&amp;dummy=0" alt="" name="image_484107" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','hide','486161','','hide','484107','','hide','826941','','show','488301','','hide');"><div id="826941" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('826941');">
+</div><a href="!stmenu_template.main?complex_id_in=482007.484107..484107.cat" onmouseover="image_484107.src='object_utils.display_object?id=1067503&amp;dummy=0';" onmouseout="image_484107.src='object_utils.display_object?id=1067502&amp;dummy=0';"><img src="object_utils.display_object?id=1067502&amp;dummy=0" alt="" name="image_484107" border="0"></a></td>
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_826941','','visible', 'right');" onmouseout="resetDropdownDiv('dd_div_826941','','hidden', '');">
+<div id="dd_div_826941" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.907971.cat"><div class="DDNavigationInner">Home &amp; Garden Sale</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.1062184.cat"><div class="DDNavigationInner">Dining &amp; Kitchen Sale</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.918448.cat"><div class="DDNavigationInner">Bed, Bath &amp; Spa Sale</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.919829.cat"><div class="DDNavigationInner">Women's Sale</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.1636464.cat"><div class="DDNavigationInner">Final Clearance</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.907971.cat">Home &amp; Garden Sale</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.1062184.cat">Dining &amp; Kitchen Sale</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.919708.cat">Organic Gourmet Sale</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.918448.cat">Bed, Bath &amp; Spa Sale</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.919829.cat">Women's Sale</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.826941.826941.1636464.cat">Final Clearance</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.826941..826941.cat" onmouseover="image_826941.src='object_utils.display_object?id=1067507&amp;dummy=0';" onmouseout="image_826941.src='object_utils.display_object?id=1067504&amp;dummy=0';"><img src="object_utils.display_object?id=1067504&amp;dummy=0" alt="" name="image_826941" border="0"></a></td>
-<td class="BannerSubNavigation" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','hide','486161','','hide','484107','','hide','826941','','hide','488301','','show');"><div id="488301" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer" onmouseout="javascript: P7_autoHide('488301');">
+</div><a href="!stmenu_template.main?complex_id_in=482007.826941..826941.cat" onmouseover="image_826941.src='object_utils.display_object?id=1067507&amp;dummy=0';" onmouseout="image_826941.src='object_utils.display_object?id=1067504&amp;dummy=0';"><img src="object_utils.display_object?id=1067504&amp;dummy=0" alt="" name="image_826941" border="0"></a></td>
+<td class="BannerSubNavigation" onmouseover="resetDropdownDiv('dd_div_488301','','visible', 'left');" onmouseout="resetDropdownDiv('dd_div_488301','','hidden', '');">
+<div id="dd_div_488301" style="z-index: 103; visibility:hidden; position: absolute;" class="DDNavigationContainer">
 <table cellpadding="0" cellspacing="0" border="0" class="DDNavigation">
-<tbody><tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493438.cat"><div class="DDNavigationInner">Under $50</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.1062137.cat"><div class="DDNavigationInner">$50 - $100</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493435.cat"><div class="DDNavigationInner">Over $100</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493428.cat"><div class="DDNavigationInner">For her</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493429.cat"><div class="DDNavigationInner">For him</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.1874449.cat"><div class="DDNavigationInner">Business gifts</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.917044.cat"><div class="DDNavigationInner">Wedding</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493430.cat"><div class="DDNavigationInner">Host or hostess</div></a></div>
-</td></tr>
-<tr class="DDNavigation"><td class="DDNavigation">
-<div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.907946.cat"><div class="DDNavigationInner">Housewarming</div></a></div>
-</td></tr>
+<tbody><tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.917044.cat">Wedding</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.907946.cat">Housewarming</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493430.cat">Host or hostess</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493438.cat">Under $50</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.1062137.cat">$50 - $100</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493435.cat">Over $100</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493428.cat">For her</a></div></td>
+</tr>
+<tr class="DDNavigation"><td class="DDNavigation"><div class="DDNavigationOuter"><a href="!stmenu_template.main?complex_id_in=482007.488301.488301.493429.cat">For him</a></div></td>
+</tr>
 </tbody></table>
-</div>
-<a href="!stmenu_template.main?complex_id_in=482007.488301..488301.cat" onmouseover="image_488301.src='object_utils.display_object?id=1067509&amp;dummy=0';" onmouseout="image_488301.src='object_utils.display_object?id=1067508&amp;dummy=0';"><img src="object_utils.display_object?id=1067508&amp;dummy=0" alt="" name="image_488301" border="0"></a></td>
+</div><a href="!stmenu_template.main?complex_id_in=482007.488301..488301.cat" onmouseover="image_488301.src='object_utils.display_object?id=1067509&amp;dummy=0';" onmouseout="image_488301.src='object_utils.display_object?id=1067508&amp;dummy=0';"><img src="object_utils.display_object?id=1067508&amp;dummy=0" alt="" name="image_488301" border="0"></a></td>
 </tr></tbody></table>
 </td>
 </tr>
 <tr>
-<td class="mainTableWithFooter" onmouseover="MM_showHideLayers('484184','','hide','1062176','','hide','486160','','hide','486161','','hide','484107','','hide','826941','','hide','488301','','hide');">
+<td class="mainTableWithFooter">
 <table border="0" cellpadding="0" cellspacing="0" class="mainTableWithFooter">
 <tbody><tr valign="top" class="mainContentArea">
 <td class="mainTable">
@@ -594,7 +412,7 @@ US Mail: VivaTerra, P.O. Box 9330, Pueblo CO 81008
 <!-- bCategoryHasContent=Y rParamRec.param_value_name="None" -->
   <!-- end of output from template_utils.show_content -->
 <!-- end of output from template_utils.display_content -->
-<!-- Content took 00:00:00.066439000 to generate -->
+<!-- Content took 00:00:00.059029000 to generate -->
 <!-- END MAIN CONTENT AREA -->
 <!-- END MAIN CONTENT AREA -->
 <!-- END MAIN CONTENT AREA -->
@@ -604,7 +422,7 @@ US Mail: VivaTerra, P.O. Box 9330, Pueblo CO 81008
 </td>
 </tr>
 <tr valign="top" width="100%" class="FooterSpacerTop">
-<td valign="bottom" class="FooterSpacerTop" width="100%"><img src="object_utils.display_object?id=685484&amp;dummy=0" alt="" name="" border="0"></td>
+<td valign="bottom" class="FooterSpacerTop" width="100%"></td>
 </tr>
 <tr valign="top" class="BannerFooter">
 <td valign="bottom" class="BannerFooter" width="100%">
@@ -616,10 +434,6 @@ US Mail: VivaTerra, P.O. Box 9330, Pueblo CO 81008
 <table align="left" valign="top" border="0" cellpadding="0" cellspacing="0" class="BannerFooterNavigation">
 <tbody><tr><td valign="bottom" align="left" class="BannerFooterNavigation">
 <span class="BannerFooterNavigationButton"><a href="!stmenu_template.main?complex_id_in=482007.488490..488490.cat">Customer Service</a></span></td>
-<td valign="bottom" align="left" class="BannerFooterNavigation">
-<span class="BannerFooterNavigationSpacer">&nbsp;|&nbsp;</span></td>
-<td valign="bottom" align="left" class="BannerFooterNavigation">
-<span class="BannerFooterNavigationButton"><a href="!stmenu_template.main?complex_id_in=482007.1815936..1815936.cat">Business Giving</a></span></td>
 <td valign="bottom" align="left" class="BannerFooterNavigation">
 <span class="BannerFooterNavigationSpacer">&nbsp;|&nbsp;</span></td>
 <td valign="bottom" align="left" class="BannerFooterNavigation">
@@ -645,7 +459,7 @@ US Mail: VivaTerra, P.O. Box 9330, Pueblo CO 81008
 </td>
 </tr>
 <tr valign="top" width="100%" class="FooterSpacerBottom">
-<td valign="bottom" class="FooterSpacerBottom" width="100%"><img src="object_utils.display_object?id=685485&amp;dummy=0" alt="" name="" border="0"></td>
+<td valign="bottom" class="FooterSpacerBottom" width="100%"></td>
 </tr>
 </tbody></table>
 </td>
