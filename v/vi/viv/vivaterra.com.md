@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130225018id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224013949id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.*
 
 # VivaTerra - Eco Living With Style
 
