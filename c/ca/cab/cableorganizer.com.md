@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016164031id_/http%3A//cableorganizer.com/supportsuite/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D334%26nav%3D0%2C71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226045858id_/http%3A//cableorganizer.com/supportsuite/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D334%26nav%3D0%2C71) for the most accurate reproduction.*
 
 # CableOrganizer.com - Tips & Advice
 
@@ -18,7 +18,7 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used to improve the content of our Web page, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We set one cookie to help our log analysis program accurately reflect user sessions. We use Urchin's UTM for our log analyis. No personal information is contained within this cookie.. 
+With respect to cookies: We set one cookie to help our log analysis program accurately reflect user sessions. We use Urchin's UTM for our log analysis. No personal information is contained within this cookie.. 
 
 We have an opt in list for our newsletter and only send promotional mail to those who have opted in. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [newsletter@cableorganizer.com](mailto:newsletter@cableorganizer.com)
 
