@@ -1,0 +1,398 @@
+<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2007-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070226163351id_/http%3A//www.lacartes.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>::..Welcome to LaCartes.com..::</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link href="css/invitra.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table width="768" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr><td width="102%"><script language="javascript" src="include/liveclock.js"></script>
+<script type="text/javascript">
+/***********************************************
+* Ultimate Fade-In Slideshow (v1.5): © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages[0]=["top_images/DSC00052.jpg", "", ""] //plain image syntax
+ fadeimages[1]=["top_images/DSC00452.jpg", "", ""] //plain image syntax
+ fadeimages[2]=["top_images/DSC00304.jpg", "", ""] //plain image syntax
+ fadeimages[3]=["top_images/DSC00081.jpg", "", ""] //plain image syntax
+ 
+var fadeimages2=new Array() //2nd array set example. Remove or add more sets as needed.
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+fadeimages2[1]=["photo2.jpg", "http://www.cssdrive.com", ""] //image with link syntax
+fadeimages2[2]=["photo3.jpg", "http://www.javascriptkit.com", "_new"] //image with link and target syntax
+
+var fadebgcolor="white"
+
+////NO need to edit beyond here/////////////
+
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);-moz-opacity:10;-khtml-opacity:10;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);-moz-opacity:10;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=obj.degree/100
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+ 
+</script>
+ <table width="768" cellpadding="0" cellspacing="0" border="0" align="center"> 
+  <tbody><tr> 
+     <td colspan="2"> <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+         <tbody><tr> 
+          <td width="312" height="20" bgcolor="#F9FBFA" class="blacktext"> &nbsp; 
+             <script language="javascript"><!--
+					new LiveClock('arial','1.5','#000000','#F9FBFA',' ','','320','24hour','',0,4,'');
+		//--></script><font color="#000000" face="arial" size="1.5">   Mon, 24th February 2020, 5:12:20</font> </td> 
+          <td width="660" align="right" class="greytext">  
+             <a href="index.php" class="greytext">Home</a> </td> 
+        </tr> 
+       </tbody></table></td> 
+   </tr> 
+  <tr> 
+     <td colspan="2"> <table width="768" border="0" cellspacing="0" cellpadding="0"> 
+         <tbody><tr> 
+          <td width="180" align="left"><a href="index.php"><img src="images/white_logo.jpg" alt="LaCartes.com" border="0"></a></td> 
+          <td width="790"> <table width="600" cellspacing="0" cellpadding="0"> 
+              <tbody><tr valign="top"> 
+                <td width="33%"> <table align="center" cellpadding="0" cellspacing="0"> 
+                    <tbody><tr> 
+                      <td bgcolor="#FF8C01"> <script type="text/javascript">
+				new fadeshow(fadeimages, 263, 176, 0, 5000, 0, "R")
+			</script><div id="master0" style="position:relative;width:263px;height:176px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 263px; height: 176px; top: 0px; left: 0px; background-color: white; z-index: 1;"><img src="https://web.archive.org/web/20070226163351id_/http%3A//www.lacartes.com/top_images/DSC00081.jpg" border="0px"></div><div id="canvas0_1" style="position:absolute;width:263px;height:176px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);-moz-opacity:10;background-color:white"><img src="https://web.archive.org/web/20070226163351id_/http%3A//www.lacartes.com/top_images/DSC00452.jpg" border="0px"></div></div> </td> 
+                    </tr> 
+                  </tbody></table></td> 
+                <td bgcolor="#FF8C01"> <table width="95%" align="left" cellpadding="0" cellspacing="0"> 
+                    <tbody><tr> 
+                      <td colspan="2" bgcolor="#FF8C01"><img src="images/welcome_to_lacartes.jpg" width="244" height="37"></td> 
+                    </tr> 
+                    <tr> 
+                      <td>&nbsp;</td> 
+                      <td>&nbsp;</td> 
+                    </tr> 
+                    <tr> 
+                      <td class="whitetext" width="5%">&nbsp;</td> 
+                      <td class="whitetext"> <span style="FONT-FAMILY: Tahoma"><span style="FONT-SIZE: 4pt; FONT-FAMILY: Verdana; mso-ascii-font-family: Verdana; mso-bidi-font-family: Arial; mso-hansi-font-family: Verdana">  <p align="left"><font face="Tahoma, Verdana, Arial, Times New Roman" size="2"><font size="4">Search below for&nbsp;menus, photos and home delivery details of&nbsp;restaurants and takeaways&nbsp;near you.</font> </font></p></span></span> </td> 
+                    </tr> 
+                  </tbody></table></td> 
+              </tr> 
+            </tbody></table></td> 
+        </tr> 
+       </tbody></table></td> 
+   </tr> 
+   
+</tbody></table> 
+</td></tr>
+  <tr>
+    <td height="34"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td valign="top" class="orange_vert_line" width="170"><table width="99%" cellpadding="2" cellspacing="2">
+  <tbody><tr> 
+    <td><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'"><a class="left_menulinks" style="" href="http://www.lacartes.com/advsearch.php">Restaurants 
+      Search</a></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td width="93%" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'"><a class="left_menulinks" href="http://www.lacartes.com/restjobsearch.php">Find 
+      Restaurant Jobs</a></td>
+  </tr>
+    <tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+    <tr> 
+    <td colspan="2"></td>
+  </tr>
+    <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td width="93%" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'"><a class="left_menulinks" href="http://www.lacartes.com/business_solutions.php">
+	Business Solutions</a></td>
+  </tr>
+  <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td width="93%" class="left_menulinks" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'" onclick="javascript:window.location.href='http://www.lacartes.com/customerexperience.php';">Customer 
+      Experience</td>
+  </tr>
+        <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <!--<td><a href="aboutus.php" class="left_menulinks">About Us</a></td>-->
+    <td width="93%" class="left_menulinks" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'" onclick="javascript:window.location.href='http://www.lacartes.com/contactus.php';">Contact 
+      Us</td>
+  </tr>
+  <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td width="93%" class="left_menulinks" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'" onclick="javascript:window.location.href='http://www.lacartes.com/lacartesprizes.php';">LaCartes 
+      Prizes</td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td width="93%" class="left_menulinks" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'" onclick="javascript:window.location.href='http://www.lacartes.com/login.php';">Signup 
+      / Login</td>
+  </tr>
+  <tr> 
+    <td width="7%"><img src="http://www.lacartes.com/images/orange_arrows.gif" width="7" height="6"></td>
+    <td width="93%" class="left_menulinks" onmouseover="this.style.backgroundColor='#FFCC00'; this.style.cursor='pointer'; this.style.color='#FFFFFF'" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#474747'" onclick="javascript:window.location.href='http://www.lacartes.com/index.php';">Home</td>
+  </tr>
+      <!-- <tr>
+    <td><img src="images/orange_arrows.gif" width="7" height="6" ></td>
+    <td><a href="customerexperience.php" class="left_menulinks">Customer Experience </a></td>
+  </tr>
+  -->
+  <tr> 
+    <td valign="middle" colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2">
+      <table width="98%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td>
+            
+<script language="javascript">
+function showWindowPoll(name)
+{
+	//alert(name);
+	var fname = name;
+	
+	//var cnt   = document.frmPoll.cntPoll.value;
+	
+	for(i=0;i<document.frmPoll.txtOption.length;i++)
+	{
+		if(document.frmPoll.txtOption[i].checked == true)
+			cnt1		=	document.frmPoll.txtOption[i].value;
+	}
+	
+	fname = fname + '&cnt=' + cnt1;
+	window.open(fname ,'newwin','scrollbars=yes,width=500,height=350,top=120,left=120');	
+	//return false;
+}
+/*function showWindow(fname)
+{	
+	document.write('window.open(fname,"newwin","scrollbars=yes,width=500,height=450,top=120,left=120");');
+	document.write('}');	
+
+}*/
+</script>
+
+
+<table width="100%" align="center" bgcolor="#FFFFFF" cellpadding="1" cellspacing="1">
+<tbody><tr bgcolor="#EDF5FC">
+	<td height="22" align="center" bgcolor="#DBE8DE" class="blacktext">LaCartes Survey</td>
+</tr>
+<tr bgcolor="#EDF5FC">
+    <td bgcolor="#FFFFFF">
+		<table bgcolor="#FFFFFF" width="100%" cellpadding="1" cellspacing="1">
+		<tbody><tr>
+			<td width="12"></td>
+			<td align="left" class="blacktext"><b>How often do you place home delivery orders?</b></td>
+		</tr>		
+		<form name="frmPoll" action="http://www.lacartes.com/viewminipoll.php"></form>
+		<input type="hidden" name="cntPoll" value="4">
+		<tr>
+			<td class="sitetext" colspan="2">
+				<table width="90%" align="center" class="sitetext">
+				<tbody><tr>
+											<td><input type="radio" name="txtOption" value="1">&nbsp;Every other day</td>
+										</tr><tr>
+											<td><input type="radio" name="txtOption" value="2">&nbsp;Once a week</td>
+										</tr><tr>
+											<td><input type="radio" name="txtOption" value="3">&nbsp;Once or twice a month</td>
+										</tr><tr>
+											<td><input type="radio" name="txtOption" value="4">&nbsp;Only when there is no alternative</td>
+										</tr>				<tr>
+					<td align="center" class="sitetext"><a href="http://www.lacartes.com/#" onclick="showWindowPoll('http://www.lacartes.com/showminipoll.php?idmp=12');"><img src="http://www.lacartes.com/images/vote_now_but.gif" width="65" height="23" border="0"></a></td>
+				</tr>
+			  </tbody></table>
+			</td>
+		</tr>
+		
+	  </tbody></table>
+	</td>
+</tr>
+</tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+</td>
+        <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td colspan="2"><img src="images/privacy_header.jpg" width="380" height="39"></td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" class="content">
+                <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td class="content"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>Privacy Policy</strong></font></p>  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">This online privacy policy tells you about the information LaCartes.com collects through our website(s), </font><a href="http://www.lacartes.com/"><font face="Verdana, Arial, Helvetica, sans-serif" color="#ff6600" size="1">www.LaCartes.com</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> (the "Website"), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can email us<br><br>PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING ANY OF LACARTES.COM SERVICES. BY USING ANY SUCH SERVICES AND/OR NAVIGATING THROUGH THE WEBSITE YOU ARE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTAND THIS POLICY AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY, SIMPLY EXIT THIS PAGE WITHOUT ACCESSING OR USING ANY OF OUR SERVICES. <br><br>This Privacy Policy is incorporated into and subject to the terms of the Terms of Services Agreement, which is also posted at the Website. This Privacy Policy was last updated on 23rd September 2005.<br><br>Below you will find information on a number of topics, including:&nbsp;<br>What personally identifiable information of yours is collected from you through the Website;&nbsp;</font></p><font face="Verdana, Arial, Helvetica, sans-serif">  <ul>  <li><font size="1">How the collected information is used;&nbsp; </font></li>  <li><font size="1">With whom such information may be shared;&nbsp; </font></li>  <li><font size="1">What choices are available to you regarding collection, use and distribution of the information;&nbsp; </font></li>  <li><font size="1">The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control; and&nbsp; </font></li>  <li><font size="1">How you can correct any inaccuracies in the information. </font></li></ul>  <p><font size="1">A Special Note About Children. Children are not eligible to use our service and we ask that minors (under the age of 13) do not submit any personal information to us or use the service. LaCartes.com does not collect or maintain information from those actually known to be under the age of 13, and no part of our Website is structured to attract anyone under the age of 13.</font></p>  <p><font size="1"><strong>General Information Collection and Use <br></strong><br>LaCartes.com is the sole owner of the information collected on the Website. We will not sell, share or rent this information to others in ways different from what is disclosed in this policy, without first obtaining your consent. Generally, we request this information when registering visitors to the Website, when visitors to the Website and/or registered users request a particular service, or when website visitors enter a sweepstakes or contest. This information collected is used to register the user for the selected service and to contact the user about such service (e.g. email address). Information required to be submitted to become a registered user includes name, gender, year of birth, email address and postcode. In addition to the foregoing, for purposes of allowing targeted marketing to such individuals, applicable restaurant owners are provided with access to the gender, age and partial postcode information for each review or suggestion for their restaurant once such item has been purchased. Certain of our clients have the ability to sign up to receive emails from LaCartes.com, however no such emails will be sent to a client unless such client has requested to receive it.<br><br>Some of our services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us to provide these services to you, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.<br><br></font><font size="1"><strong>Customer Service Correspondence<br></strong><br>If you send us correspondence, including emails and faxes, we may retain such information in the records of your account. We may also retain customer service correspondence and other correspondence from LaCartes.com to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our Terms of services Agreement. We may, over time, delete these records if permitted by law. <br></font></p>  <p><font size="1"><strong>Cookies<br></strong><br>A "cookie" is a piece of data stored on a user's hard drive containing information about the user. As part of offering and providing personalized services, we may use cookies in an effort to save you time while on our Website. If a user rejects the cookie, he or she may still have limited use of the Website. Generally we use cookies to:<br>Remind us who you are and to access your account information; </font></p>  <ul>  <li><font size="1">Track and target the interests of our users to enhance the experience on our Website; and <br></font></li>  <li><font size="1">Estimate our audience size and measure certain traffic patterns. </font></li></ul>  <p><font size="1"><strong>IP Addresses</strong><br>Every computer connected to the Internet is given an IP address. We use IP addresses to analyze trends, administer the Website, track users' movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, and our web servers do not record the email addresses of our visitors.<br><br></font><font size="1"><strong>Sharing<br></strong><br>As a general rule, except as described in this privacy policy, we will not disclose any of your personally identifiable information except when we have your permission or under special circumstances (such as when we believe the law requires it). We may disclose or share aggregated demographic information with certain partners, affiliates and advertisers, however, except as described above, this is not linked to any personal information that can identify any individual person or company. In addition, LaCartes.com may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with LaCartes.com's rights or property, other Website users or anyone else that could be harmed by such activities.</font></p>  <p><br><font size="1">LaCartes.com may also release personal information to appropriate governmental authorities under the following circumstances:&nbsp;</font></p>  <ul>  <li><font size="1">Where release is required by law or regulation, or is requested by a government agency conducting investigations or proceedings; or <br></font></li>  <li><font size="1">Where our records indicate a company may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of. </font></li></ul>  <p><font size="1">As with any other business, it is possible that LaCartes.com in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by LaCartes.com, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described herein.<br></font></p>  <p><font size="1"><strong>Links<br></strong><br>This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites, as this privacy policy applies solely to the Website. We encourage our users to remain vigilant when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. <br><br></font><font size="1"><strong>Surveys<br></strong><br>From time-to-time our Website may request information from users via surveys (e.g. within the Survey section of the Website). Participation in these surveys, to the extent we run any, is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic information (such as zip code and age level). <br><br></font><font size="1"><strong>Security<br></strong><br>This Website takes numerous precautions to protect our users' information. When users submit sensitive information via the Website (e.g. [credit card information]), such information is protected both on- and offline. <strong>[We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that our visitors' information is safe as it is sent over the Internet to our server. SSL works by using a private key to encrypt data that is transferred over the SSL connection]</strong>. In addition, all of our users' sensitive information is restricted in our offices. While LaCartes.com employs commercially reasonable security measures to protect our data and seeks to partner with companies which do the same, we cannot absolutely guarantee the security of any data transmission over the Internet or any wireless network. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, and we therefore are not responsible for any breach of security or for any actions of any third parties that may receive any such information.</font></p>  <p><br><font size="1"><strong>Correction/Updating Personal Information<br></strong><br>If your personally identifiable information changes at any time, please send us an email.<br><br></font><font size="1"><strong>Choice/Opt-out<br></strong><br>Our users are given the opportunity to "opt-out" of receiving communications from LaCartes.com by sending us an email.<br><br></font><font size="1"><strong>Notification of Changes<br></strong><br>If we decide to change our privacy policy, we will post those changes under the appropriate link on the "home page" of our Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. The new terms shall be effective immediately upon being posted on the Website. It is the responsibility of each user to review the latest terms from time to time, and if any user does not agree with any updates to the privacy policy, such user should immediately cease use of the Website and any purchased services.<br>back to top</font></p></font></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+            <tr>
+              <td width="52%">&nbsp;</td>
+              <td valign="top">&nbsp;</td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td background="images/botbg.gif" height="34"><table width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	<td class="footer">© 2006 LaCartes.com. All rights reserved. <!--<a href="http://www.invitratech.com" target="_blank" class="footer">Web Design by Invitra Tech</a>--></td>
+	<td align="right"> <a href="http://www.lacartes.com/termsofservices.php" class="footer">Terms of Services</a> <span class="footer">|</span> <a href="http://www.lacartes.com/workforus.php" class="footer">Work for LaCartes</a> <span class="footer">|</span> <a href="http://www.lacartes.com/privacypolicy.php" class="footer">Privacy Policy</a><span class="footer">|</span> <a href="http://www.lacartes.com/sitemap.php" class="footer">Sitemap</a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+</body></html>
