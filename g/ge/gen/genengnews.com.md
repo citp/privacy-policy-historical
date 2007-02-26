@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126092436id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226203107id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
 
 # Genetic Engineering News - Biotechnology from Bench to Business
 
-This Privacy Statement is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website and our products and services. Genetic Engineering News is committed to maintaining the privacy of clients and potential clients alike. Our relationships with our clients and potential clients are of the utmost importance; the trust we’ve developed with them is a paramount concern of ours. 
+This Privacy Statement is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website and our products and services. Genetic Engineering & Biotechnology News is committed to maintaining the privacy of clients and potential clients alike. Our relationships with our clients and potential clients are of the utmost importance; the trust we’ve developed with them is a paramount concern of ours. 
 
 We collect two types of information from users of our website: (1) personal information you choose to disclose to us; and (2) aggregate information collected on users of our website. 
 
