@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208091901id_/http%3A//www.hsabank.com/forms/privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226040805id_/http%3A//www.hsabank.com/forms/privacy_statement.pdf) for the most accurate reproduction.*
 
 # Webster Financial Corporation Privacy Policy and Disclosure
 
