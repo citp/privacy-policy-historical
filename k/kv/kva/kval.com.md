@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830004627id_/http%3A//www.kvaltv.com/prebuilt/kval_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227194719id_/http%3A//www.kval.com/about/privacy) for the most accurate reproduction.*
 
-# KVAL Privacy Policy
+# KVAL 13 - Eugene, Oregon - KVAL Privacy Policy
 
-**_PRIVACY POLICY_**
+This Privacy Policy governs the use and collection of information that kvaltv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site"). 
 
-This Privacy Policy governs the use and collection of information that kvaltv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site").   
 In this Privacy Policy, we address the following questions:
 
   * What information do we collect and how is it collected?
