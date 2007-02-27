@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101153416id_/http%3A//www.highlandwoodworking.com/index.asp%3FPageAction%3DCustom%26ID%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227074541id_/http%3A//www.highlandwoodworking.com/index.asp%3FPageAction%3DCustom%26ID%3D33) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -11,22 +11,24 @@
 
 
 **Highland Affiliate Program**  
-Many have asked and now it's here - the Highland Woodworking Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted retailers. [Become an affiliate member](https://web.archive.org/index.asp?PageAction=Custom&ID=131) of our woodworking team and earn sale commissions while establishing name recognition for your own site. It's as simple as posting a link on your site to refer customers to Highland Woodworking.
+Many have asked and now it's here - the Highland Woodworking Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted retailers. [Become an affiliate member](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131) of our woodworking team and earn sale commissions while establishing name recognition for your own site. It's as simple as posting a link on your site to refer customers to Highland Woodworking.
 
-**Customer Kudos**  
-_Just placed order on-line and thought I would follow-up with e-mail. I was just looking back at my notes/e-mails and wanted to say thank you again for all your help.  
-Sometimes customers forget to say thanks to good people that go out of their way to help.  
-You've done a great job helping me.   
-Have a Great Day.   
-Bill W. _
+**Customer Kudos January 2007**  
+_I would like to take this opportunity to thank you for this outstanding example of world class customer service! I have been a customer in the past and have always been pleased with your fine products, prompt service and excellent prices.  
+Rest assured that in the future, I will look to Highland Woodworking first, for all of my woodworking needs!
+
+Sincerely,   
+Stewart S. 
+
+_
 
 | | | | 
 
 Your Privacy
 
-We appreciate the trust you place in Highland Hardware and we are committed to respecting your privacy and the security of your personal information. Across our business, we recognize the importance of protecting all information provided us by customers, and we have procedures to ensure that your personal information is handled in a safe and secure manner.
+We appreciate the trust you place in Highland Woodworking and we are committed to respecting your privacy and the security of your personal information. Across our business, we recognize the importance of protecting all information provided us by customers, and we have procedures to ensure that your personal information is handled in a safe and secure manner.
 
-Highland Hardware strictly adheres to the government's CAN-SPAM act and follows its guidelines in all aspects of our email marketing. We never share customer email addresses with third parties. We only send emails to customers who have offered their addresses to us to receive occasional information regarding woodworking tips, seminar information, industry developments and company promotions.
+Highland Woodworking strictly adheres to the government's CAN-SPAM act and follows its guidelines in all aspects of our email marketing. We never share customer email addresses with third parties. We only send emails to customers who have offered their addresses to us to receive occasional information regarding woodworking tips, seminar information, industry developments and company promotions.
 
 Our website is a secure site as authenticated through Equifax Securesite. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
 
@@ -35,12 +37,12 @@ All personal information stored on our site is protected through digital certifi
 Policy Statement
 
 This is the web site of  
-**Highland Hardware, Inc.**  
+**Highland Hardware, Inc., d/b/a Highland Woodworking**  
 Our postal address is  
 **1045 North Highland Avenue  
 Atlanta, GA 30306**
 
-We can be reached via e-mail at [customerservice@highland-hardware.com](mailto:customerservice@highland-hardware.com)  
+We can be reached via e-mail at [customerservice@highlandwoodworking.com](mailto:customerservice@highlandwoodworking.com)  
 or you can reach us by telephone at 800-241-6748
 
   * For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
