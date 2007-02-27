@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed4.net privacy policy that was archived on 2006-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060905004846id_/http%3A//www.ed4.net/company_prvcy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed4.net privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227140104id_/http%3A//www.ed4.net/company_prvcy.cfm) for the most accurate reproduction.*
 
 # e-Dialog Company
 
@@ -97,7 +97,7 @@ All e-mail sent by
 
 e-Dialog will contain clear and concise instructions (such as clicking on the link at the bottom of an e-mail) for how to opt-out of receiving future communications. 
 
-Upon request we provide site visitors with access to all information that we maintain about them. Visitors have the ability to correct or remove their contact information or update their profiles by sending an e-mail to [profile update](mailto:%75%70%64%61%74%65%70%72%6F%66%69%6C%65%40%65%2D%44%69%61%6C%6F%67%2E%63%6F%6D). All requests will be honored within 30 days of the user notification.
+Upon request we provide site visitors with access to all information that we maintain about them. Visitors have the ability to correct or remove their contact information or update their profiles by sending an e-mail to [profile update](mailto:%75%70%64%61%74%65%70%72%6F%66%69%6C%65%40%65%2D%44%69%61%6C%6F%67%2E%63%6F%6D). All requests will be honored within 10 days of the user notification.
 
 Links   
 The 
@@ -145,4 +145,5 @@ Additional Resources
 
 [  
   
-](http://www.truste.org/ivalidate.php?url=www.e-dialog.com&sealid=102)
+](http://www.truste.org/ivalidate.php?url=www.e-dialog.com&sealid=102)  
+
