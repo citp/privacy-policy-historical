@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2006-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060912053327id_/http%3A//www.nwtc.edu/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301033918id_/http%3A//www.nwtc.edu/Privacy.htm) for the most accurate reproduction.*
 
-# NWTC Privacy Statement
+# NWTC Privacy Statement~committed to protecting your privacy
 
 [](http://www.nwtc.edu/)
 
 ## NWTC Privacy Policy
-
-* * *
 
 Northeast Wisconsin Technical College has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: www.nwtc.edu, my.nwtc.edu, online.nwtc.edu, joborders.nwtc.edu, and notes.nwtc.edu. 
 
@@ -18,7 +16,7 @@ This site may make chat rooms, forums, and/or discussion boards available to its
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-NWTC uses WebTrends Live to gather statistics about our visitors and to monitor usage of individual web pages. WebTrends Corporation is firmly committed to the privacy of its customers and visitors to our web site. You may view their Privacy Policy at <http://www.webtrendslive.com/privacy_policy.htm>. 
+NWTC uses Google Analytics to gather statistics about our visitors and to monitor usage of individual web pages. Google Analytics is firmly committed to the privacy of visitors to our web site. You may view their Privacy Policy at <http://www.google.com/analytics/tos.html>. 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
@@ -26,4 +24,38 @@ If you have any questions about this privacy statement, the practices of this si
 
 NWTC is committed to ensuring accessibility of its Web site for people with disabilities. If you have questions or comments regarding our web site accessibility, please contact [web.team@nwtc.edu](mailto:web.team@nwtc.edu) or call 1-800-422-6982, Ext. 6825.
 
-* * *
+Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under the following conditions (34 CFR § 99.31): 
+
+  * School officials with legitimate educational interest; 
+  * Other schools to which a student is transferring; 
+  * Specified officials for audit or evaluation purposes; 
+  * Appropriate parties in connection with financial aid to a student; 
+  * Organizations conducting certain studies for or on behalf of the school; 
+  * Accrediting organizations; 
+  * To comply with a judicial order or lawfully issued subpoena; 
+  * Appropriate officials in cases of health and safety emergencies; and 
+  * State and local authorities, within a juvenile justice system, pursuant to specific State law. 
+
+
+
+Schools may disclose, without consent, "directory" information such as a student's name, address, telephone number, date and place of birth, honors and awards, and dates of attendance. However, schools must tell parents and eligible students about directory information and allow parents and eligible students a reasonable amount of time to request that the school not disclose directory information about them. Schools must notify parents and eligible students annually of their rights under FERPA. The actual means of notification (special letter, inclusion in a PTA bulletin, student handbook, or newspaper article) is left to the discretion of each school. 
+
+Under the Federal regulations defined by the Family Education Rights and Privacy Act, you have the right to choose to restrict directory information from release to agencies with a legitimate educational interest. 
+
+**Examples of Who Has a Legitimate Educational Interest**
+
+  1. Student of record. 
+  2. College employees and/or “School Officials” : Instructors, Special Services, Financial Aid, Research, Safety, Housing, Food Service, Board of Trustees, Work Study students. 
+  3. Government/State supported officials and programs . 
+  4. Companies employed or contracted by College : Research, marketing, legal counsel, publications, auditors, accrediting organizations. 
+  5. Law Enforcement Agencies : Judicial order, subpoena, courts, Immigration. 
+
+
+
+Northeast Wisconsin Technical College defines the following information as directory information: dates of attendance, enrollment status (full-time/part-time), degree(s) and date conferred, honors and awards received, major field of study – program and participation in officially recognized activities, and other similar information as defined by NWTC. 
+
+  
+Students may request, while still enrolled , that NWTC not release any directory information. Students can do this by completing a Privacy Request Form. To receive the form, please contact Enrollment Services at 920-498-5444 or 1-800-422-NWTC, Ext. 5444. Completed form must be submitted in person with a photo ID to the Registrar or Assistant Registrar . 
+
+  
+Please consider carefully the consequences of any decision made by you to withhold directory information, as any future requests for such information from non-institutional persons or organizations such as prospective colleges and employers will be refused.
