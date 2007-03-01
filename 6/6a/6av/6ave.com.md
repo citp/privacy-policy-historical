@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025060011id_/http%3A//www.6ave.com/help_privacysecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301142347id_/http%3A//www.6ave.com/help_privacysecurity.jsp) for the most accurate reproduction.*
 
 # 6ave.com - The Online Electronics Showcase TM
 
