@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016123850id_/http%3A//www.itworldcanada.com/c/Privacy%26loc%3DnavigationBar%26parentPage%3D.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301122656id_/http%3A//www.itworldcanada.com/c/Privacy%26loc%3DnavigationBar%26parentPage%3D.html) for the most accurate reproduction.*
 
 # IT World Canada Inc. Online Privacy Statement
 
@@ -17,7 +17,7 @@ Please read this Privacy Statement completely before using or submitting informa
 
 **PRIVACY QUESTIONS AND ACCESS**
 
-ITWorldCanada.com is the Web site for IT World Canada Inc. and its publications: _CIO Canada, ComputerWorld Canada, Network World Canada, CIO Governments' Review_ and _IT Focus_.
+ITWorldCanada.com is the Web site for IT World Canada Inc. and its publications: _CIO Canada, ComputerWorld Canada, Network World Canada and CIO Governments' Review_.
 
 This site is maintained by:  
 IT World Canada  
@@ -51,11 +51,11 @@ For a more detailed explanation of our use of cookies, please see the section, _
 We are committed to providing you with an Internet experience that respects and protects your personal privacy choices and concerns. Personally identifying information is collected by IT World Canada only when you specifically and knowingly provide it.
 
  **COLLECTION AND USE OF PERSONALLY IDENTIFYING INFORMATION**  
-Beyond the site registration described previously, IT World Canada collects and uses your personal information primarily for the purpose of providing you with the products and services you have requested from us, including the delivery of the publications _CIO Canada, ComputerWorld Canada, Network World Canada, CIO Governments' Review_ and _IT Focus_ and related content; delivery of electronic or direct-mailed newsletters; and, event registration confirmations, updates and other information related to IT World Canada events and seminars.
+Beyond the site registration described previously, IT World Canada collects and uses your personal information primarily for the purpose of providing you with the products and services you have requested from us, including the delivery of the publications _CIO Canada, ComputerWorld Canada, Network World Canada and CIO Government Review_ and related content; delivery of electronic or direct-mailed newsletters; and, event registration confirmations, updates and other information related to IT World Canada products, events and seminars.
 
-The information we collect is also used to communicate with you about your subscriptions and to provide you with information related to other IT World Canada publications and services.
+The information we collect is also used to communicate with you about your subscriptions and to provide you with information related to other IT World Canada and its sister IDG companies and the IDG Network publications and services.
 
-All e-mails sent to subscribers clearly identify the source of the e-mail as IT World Canada or its publications.
+All e-mails sent to subscribers clearly identify the source of the e-mail as IT World Canada, its publications or IDG.
 
 Subscribers may elect not to receive e-mail from third parties when e-mail information is collected, and in response to any e-mail received. Subscribers may change their preferences at any time by e-mail to IT World Canada [circulation@itworldcanada.com](mailto:circulation@itworldcanada.com) or by calling the circulation department at (613) 475-3217
 
