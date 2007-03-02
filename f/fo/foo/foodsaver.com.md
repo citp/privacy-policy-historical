@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020114808id_/http%3A//www.foodsaver.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302181209id_/http%3A//www.foodsaver.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Welcome To JardenStore.com
+# JardenStore® - privacy.aspx
 
 JardenStore.com Privacy Policy
 
@@ -36,12 +36,12 @@ Third Party Websites
 We do not control the information collection and distribution policies on Internet domains other than this Site. When you are on this Site, you may be directed to other sites that are beyond our control. For example, if you "click" on a link on this Site, the "click" may take you off of this Site. These other sites may independently collect data, solicit personal information, or send their own cookies to you. We are not responsible for any use of the information including click-stream data that you may create when using such third party sites.
 
 Updating or Removing User Information  
-You may choose to correct or update the PII you have submitted to us online by emailing us at customerservice@JardenStore.com or online through the "My Account" page. You may also remove your PII from your "My Accounts" page by editing that page. If you request to have your PII removed from your "My Account" page, we will remove it from its active database, though it may remain stored indefinitely in our back-up media and archival records.
+You may choose to correct or update the PII you have submitted to us online through the "My Account" page. You may also remove your PII from your "My Accounts" page by editing that page. If you request to have your PII removed from your "My Account" page, we will remove it from its active database, though it may remain stored indefinitely in our back-up media and archival records.
 
 Opt-Out  
-We do not disclose an individual customer's PII to third parties for third-party direct marketing purposes if that individual has submitted a request not to have his or her PII shared for this purpose. If you would like to opt out of having your PII shared with third parties for third-party direct marketing purposes, you may submit your opt-out request by email at customerservice@JardenStore.com or by U.S. mail at JardenStore.com, P.O. Box 194530, San Francisco, CA 94119-4530.
+We do not disclose an individual customer's PII to third parties for third-party direct marketing purposes if that individual has submitted a request not to have his or her PII shared for this purpose. If you would like to opt out of having your PII shared with third parties for third-party direct marketing purposes, by U.S. mail at JardenStore.com, P.O. Box 194530, San Francisco, CA 94119-4530.
 
-In addition, we also allow you to decide whether you want to receive promotional email from us. If you do not wish to receive promotional email messages from us, please change your setting on the "My Account" page or submit your request by email at customerservice@JardenStore.com.
+In addition, we also allow you to decide whether you want to receive promotional email from us. If you do not wish to receive promotional email messages from us, please change your setting on the "My Account" page.
 
 Offline v. Online Practices  
 This Policy applies solely to our collection, use and disclosure of PII obtained online through this Site, and does not apply to any of our practices conducted offline.
@@ -62,5 +62,4 @@ JardenStore.com
 P.O. Box 194530  
 San Francisco, CA 94119-4530
 
-[customerservice@jardenstore.com](mailto:customerservice@jardenstore.com)  
 1-800-777-5452 
