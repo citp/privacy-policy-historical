@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031004730id_/http%3A//www.leovia.com/%3Fq%3Dnode/119) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302200534id_/http%3A//www.leoweekly.com/%3Fq%3Dnode/119) for the most accurate reproduction.*
 
 # Privacy Statement | LEO Weekly
 
-### [Privacy Statement](http://www.leovia.com/?q=node/119 "Privacy Statement")
+### [Privacy Statement](http://www.leoweekly.com/?q=node/119 "Privacy Statement")
 
 By LEO Weekly
 
