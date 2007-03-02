@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the allcaribbeanjobs.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302234742id_/http%3A//www.allcaribbeanjobs.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy - All Caribbean Jobs
+
+All data collected by AllWorldJobs Ltd for the operation of this site is collected stritly in compliance with our obligations under the Data Protection Act (UK) - one of the strongest data protection acts in the world. Wherever you are from your personal data will be kept secure and safe, as described below.
+
+**Your data is never provided to third parties without your express permission**
+
+**What data do we collect?** \- When you register you need to provide a certain amount of personal information to complete a registration. This includes your name, email address and a short text introduction that you may write freely. We ask for far less personal information than the vast majority of recruitment sites - for example we do not ask for your date of birth. 
+
+**What is this data used for?** \- This data is presented to recruiters if you apply for one of their jobs, along with your resume file. If you have **not** ticked the "Recruiter Search" box to allow recruiters to contact you directly, this will be the only time your personal information will ever be provided to a third party. 
+
+**What happens if I check the "Recruiter Search" box?** \- If you check this box then it will mean your personal details (name, email, free text description and job requirements) are available for search by validated recruiters on our website. Such access is only granted to recruiters who pay a monthly fee for this service, who meet our strict requirements to ensure they do not store or forward on any data they have accessed from this site and guarantee only to use this information to contact potential candidates about genuine vacancy opportunities you may be interested in. It can be a very effective way to find out about suitable jobs - even if you are not looking for a change in career at the current time, you can still be kept informed of interesting positions. You can opt out of this (and opt back in) at any time by updating your details once logged in. 
+
+**Could my current employer find out that I am searching for jobs?** \- If your current employer is registered on this website to be able to search for candidates then yes, they could in theory find your record here. They do not get told when you registered on the site or which jobs you have applied for. You can also use the Employer Directory to see if your employer is currently registered on the site. If they are, youy may wish to disable the "Recruiter Search" box as explained above. 
+
+**Will we get spam email?** \- You can opt-in to receive automated email announcements of new job opportunities that might suit you when you register or update your details. These can be as frequent as one every night depending on how many vacancies are added. You can opt out of this (and opt back in) at any time by updating your details once logged in. Apart from this, AllWorldJobs may send occasional service update emails and announcements about extended service and new features from time to time, however we aim to send these no more frequently than once ever two or three months. These emails are important as they may contain updated information that is critical to your use of the web site. You can opt out of these emails by removing your account from the website. 
+
+**Do you use cookies?** \- Yes we use what are called 'session cookies' to maintain your connection when you are logged in. If you restrict or block session cookies then you will not be able to use this site to register or apply for jobs. Session cookies are automatically deleted when your browser is closed so do not pose any real privacy risk.
+
+**How is the data safeguarded?** \- We run our own dedicated servers in a secure datacenter. Datacenter staff do not have access to data on these systems, the data can only be accessed by staff from AllWorldJobs. All our servers are maintained to a high level of security to reduce the risk of unauthorized access to our systems, and although noone can guarantee that such security breaches can never happen, we regard the security of your data as of paramount importance to us. 
+
+**How do I remove my details from the database?** \- Please use the contact form to send us the following details: Your Name. Your Email Address. We will send you a confirmation email, and when this is replied to your details will be permanently removed from the site. 
