@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pandecta.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016005434id_/http%3A//pandecta.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandecta.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302161314id_/http%3A//www.pandecta.com/pp.html) for the most accurate reproduction.*
 
 # Pandecta Privacy Policy
-
-  | 
 
 **Information Logging:**
 
@@ -35,5 +33,3 @@ Because we value our relationship with you, we will not give, share, sell or tra
 **Help:**
 
 If you have any further concerns about your privacy while on this site, please let us know: [**help@pandecta.com**](mailto:help@pandecta.com)
-
-|  
