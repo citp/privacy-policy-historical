@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thedmonline.com privacy policy that was archived on 2006-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215165255id_/http%3A//www.thedmonline.com/user/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedmonline.com privacy policy that was archived on 2007-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070302164912id_/http%3A//www.thedmonline.com/user/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -16,58 +16,64 @@ var bAdVariantBanners = 0;
 var origserver =  window.document.location.host.toString();
 if (typeof sectioncategory=="undefined"){
 var sectioncategory = '';}
+if (typeof story_id=="undefined"){
+var story_id = '';
+}
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/mtvi/mtvi.js"></script>
 <script type="text/javascript">
-	MTVi.config.path="http://media.collegepublisher.com/media/scripts/mtvi/";
-</script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/mtvi/mtvi_required.js"></script>
+/* <![CDATA[ */
+document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/scripts/commonFunctions.js?2>'+'</SCR'+'IPT>');
+/* ]]> */
+</script><script src="http://media.collegepublisher.com/media/scripts/commonFunctions.js?2"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/mtvi_reporting.js"></script>
 <script type="text/javascript">
 //<![CDATA[
- function getPageName(){
-  var defaultPageName = "index.cfm"
-  return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
- }
- function getHierarchy(argPageName){
-  return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
- }
- MTVi.config.sendReportingCall=true;
- var qString = MTVi.util.queryStringToHash(location.search);
- var refsource = (typeof qString["refsource"] != "undefined")?qString["refsource"]:"";
- // Reporting Config
- MTVi.reporting.Config={
-  account: "viay2m",
-  filters: "javascript:,y2m.com"
- };
- // Reporting Object
- MTVi.reporting.Map=function(){
-  return{
-   pageName: getPageName(),
-   hier1: getHierarchy(getPageName()), 
-   prop1: 'displayPrivacyPolicy', 
-   prop2: sectioncategory, 
-   prop3: 'event=displayPrivacyPolicy',
-   prop4: refsource,
-   prop5: window.document.location.pathname.toString() + window.document.location.search.toString(),
-   prop6: origserver,
-   prop7: 'Daily Mississippian',
-   prop8: 'www.thedmonline.com',
-   prop9: '',
-   prop10: '876'
-  };
- };
-MTVi.reporting.Dispatcher.sendCall();
-//]]>
+	function getPageName(){
+		var defaultPageName = "index.cfm"
+		return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
+ 	}
+	function getHierarchy(argPageName){
+		return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
+	}
+	var qString = com.mtvi.util.queryStringToHash(location.search);
+	var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
+	var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
+	if(refsource != null && refsource.length > 0) {
+		SetCookie('refsourcekey', refsource);
+	}
+	// Reporting Account Config
+	com.mtvi.reporting.Account={
+		name:"viay2m",
+		filters: "javascript:,y2m.com"
+	};
+	var dispatcher=com.mtvi.reporting.Dispatcher;
+	dispatcher.setAttribute('pageName',getPageName());
+	dispatcher.setAttribute('hier1',getHierarchy(getPageName())); 
+	dispatcher.setAttribute('prop1','displayPrivacyPolicy');
+	dispatcher.setAttribute('prop2',sectioncategory);
+	dispatcher.setAttribute('prop3','event=displayPrivacyPolicy');
+	dispatcher.setAttribute('prop4',refsource);
+	dispatcher.setAttribute('prop5',window.document.location.pathname.toString() + window.document.location.search.toString());
+	dispatcher.setAttribute('prop6',origserver);
+	dispatcher.setAttribute('prop7','Daily Mississippian');
+	dispatcher.setAttribute('prop8','www.thedmonline.com');
+	dispatcher.setAttribute('prop9',story_id);
+	dispatcher.setAttribute('prop10','876');
+	dispatcher.setAttribute('prop11','user');
+	dispatcher.setAttribute('prop12',GetCookie('refsourcekey'));
+	dispatcher.setAttribute('prop13',reffeature);
+	dispatcher.sendCall();
+	//]]>
 </script>
 <base href="http://www.thedmonline.com/">
-<link href="http://media.collegepublisher.com/media/css/global.css?v18" rel="stylesheet" type="text/css" media="screen">
+<link href="http://media.collegepublisher.com/media/css/global.css?v40" rel="stylesheet" type="text/css" media="screen">
 <link href="http://media.collegepublisher.com/media/css/features_1024.css?v1" rel="alternate stylesheet" type="text/css" title="1024 x 768">
 <link href="http://media.collegepublisher.com/media/css/popup_new.css?v12" rel="stylesheet" type="text/css" media="screen">
 <link href="http://media.collegepublisher.com/media/css/print.css?v1" rel="stylesheet" type="text/css" media="print">
 <link href="http://www.thedmonline.com/media/paper876/styles.css?v13" rel="stylesheet" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="RSS feed for Daily Mississippian" href="http://www.thedmonline.com/articles.rss">
-<!-- Some web 2.0 resources. -->
+<!-- Some "Web 2.0" Resources. -->
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/prototype.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/global.js?13"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/network_channel.js"></script>
@@ -78,7 +84,8 @@ MTVi.reporting.Dispatcher.sendCall();
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/youarehere.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/spry/xpath.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/spry/SpryData.js"></script>
-
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/contentslider.js?1"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/ufo.js?1"></script>
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="-1">
 <meta name="robots" content="all">
@@ -87,20 +94,34 @@ MTVi.reporting.Dispatcher.sendCall();
 <meta name="author" content="The Staff of Daily Mississippian">
 <meta name="description" content="Daily Mississippian, a college media publication.">
 <meta name="keywords" content="Daily Mississippian, newspaper, college media, student media">
-<meta name="copyright" content="Copyright 2006 Daily Mississippian.">
+<meta name="copyright" content="Copyright 2007 Daily Mississippian.">
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var currentissuedate='12/01/06';
+var currentissuedate='03/02/07';
 var currentissuedayname='Friday';
-var currentissuemonthname='December';
-var currentissueday='1';
-var currentissuemonth='12';
-var currentissueyear='2006';
+var currentissuemonthname='March';
+var currentissueday='2';
+var currentissuemonth='3';
+var currentissueyear='2007';
 var basehref='http://www.thedmonline.com/';
 var paper_id='876';
+var paperzip='38677';
 var paper_name='Daily Mississippian';
 var paper_domain='www.thedmonline.com';
+
+
+
+var dart_paper_name = 'UniversityofMississippi_876';
+
+var dart_primary_section = sectioncategory ==''? 'user' : sectioncategory.toLowerCase();
+
+var dart_ord = Math.random() * 10000000000000000;
+var dart_tileNumber = 1;
+dart_primary_section = dart_primary_section.replace(/^(\d.+?)$/,"_$1");
+dart_primary_section = dart_primary_section.replace(/\s{1,}/g,"");
+dart_primary_section = dart_primary_section.replace(/\/{1,}/g,"");
+
 
 var slideshowpath='http://www.thedmonline.com/home/index.cfm?event=displaySlideShow&islides=';	
 		
@@ -109,29 +130,26 @@ var slideshowpath='http://www.thedmonline.com/home/index.cfm?event=displaySlideS
 var aSectionNames = new Array();
 var aSectionLinks = new Array();
 aSectionNames[0] = 'News';
-aSectionLinks[0] = '/news/2006/12/01/News/';
-aSectionNames[1] = 'Multimedia';
-aSectionLinks[1] = '/news/2006/12/01/Multimedia/';
-aSectionNames[2] = 'Sports';
-aSectionLinks[2] = '/news/2006/12/01/Sports/';
-aSectionNames[3] = 'Arts & Entertainment';
-aSectionLinks[3] = '/news/2006/12/01/ArtsEntertainment/';
-aSectionNames[4] = 'Lifestyles';
-aSectionLinks[4] = '/news/2006/12/01/Lifestyles/';
-aSectionNames[5] = 'Opinion';
-aSectionLinks[5] = '/news/2006/12/01/Opinion/';
-aSectionNames[6] = 'Community Submissions';
-aSectionLinks[6] = '/news/2006/12/01/CommunitySubmissions/';
-aSectionNames[7] = 'Obituaries';
-aSectionLinks[7] = '/news/2006/12/01/Obituaries/';
+aSectionLinks[0] = '/news/2007/03/01/News/';
+aSectionNames[1] = 'Community';
+aSectionLinks[1] = '/news/2007/03/01/Community/';
+aSectionNames[2] = 'Community Submissions';
+aSectionLinks[2] = '/news/2007/03/01/CommunitySubmissions/';
+aSectionNames[3] = 'Multimedia';
+aSectionLinks[3] = '/news/2007/03/01/Multimedia/';
+aSectionNames[4] = 'Sports';
+aSectionLinks[4] = '/news/2007/03/01/Sports/';
+aSectionNames[5] = 'Arts & Entertainment';
+aSectionLinks[5] = '/news/2007/03/01/ArtsEntertainment/';
+aSectionNames[6] = 'Lifestyles';
+aSectionLinks[6] = '/news/2007/03/01/Lifestyles/';
+aSectionNames[7] = 'Opinion';
+aSectionLinks[7] = '/news/2007/03/01/Opinion/';
+aSectionNames[8] = 'Obituaries';
+aSectionLinks[8] = '/news/2007/03/01/Obituaries/';
 /* ]]> */
 </script>
 
-<script type="text/javascript">
-/* <![CDATA[ */
-document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/scripts/commonFunctions.js?2>'+'</SCR'+'IPT>');
-/* ]]> */
-</script><script src="http://media.collegepublisher.com/media/scripts/commonFunctions.js?2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 pcdateobject=new Date();
@@ -148,7 +166,6 @@ if (section_name != '') {
     }
   }
 }
-var story_id = '';
 
 var result = document.location.href.match(/mkey(=|\/|%3D)(-9+)/);
 if (result && result[1]) {
@@ -194,10 +211,21 @@ if (bAdmanagerClientAlive) {
 	
 }
 
-if (bAdmanagerNetworkAlive) {
-	document.write('<SCR'+'IPT SRC='+'http://admanager3.collegepublisher.com/runtime/javascriptcache/national/876/national.js>'+'</SCR'+'IPT>');
-	
-}
+
+
+
+	if (bAdmanagerNetworkAlive) {
+		document.write('<SCR'+'IPT SRC='+'http://admanager3.collegepublisher.com/runtime/javascriptcache/national/876/national.js>'+'</SCR'+'IPT>');
+		
+	}
+
+
+
+
+		
+
+
+
 /* ]]> */
 </script>
 
@@ -252,8 +280,8 @@ if (bAdmanagerNetworkAlive) {
 					<div id="net_channels">
 						<ul>
 							
+							<li><a href="http://media.www.thedmonline.com/channel/collegeheadlines/" target="_parent">Top National College News</a></li>
 							<li><a href="/books/" target="_parent">Books</a></li>
-							<li><a href="/housingchannel/" target="_parent">Housing</a></li>
 							<li><a href="/careers/" target="_parent">Job Search</a></li>
 							<li><a href="/movies/" target="_parent">Movies</a></li>
 							
@@ -292,6 +320,7 @@ if (bAdmanagerNetworkAlive) {
 	<div class="gutter">
 		<div id="flan_meta_left">
 <ul>
+<center>
 <script type="text/JavaScript">
 	<!--
 	//   "aSectionNames[count]" = the name of the section  
@@ -303,7 +332,8 @@ if (bAdmanagerNetworkAlive) {
 		}
 	}
 	//-->					
-</script><li><a href="/news/2006/12/01/News/">News</a></li><li><a href="/news/2006/12/01/Multimedia/">Multimedia</a></li><li><a href="/news/2006/12/01/Sports/">Sports</a></li><li><a href="/news/2006/12/01/ArtsEntertainment/">Arts &amp; Entertainment</a></li><li><a href="/news/2006/12/01/Lifestyles/">Lifestyles</a></li><li><a href="/news/2006/12/01/Opinion/">Opinion</a></li><li><a href="/news/2006/12/01/CommunitySubmissions/">Community Submissions</a></li><li><a href="/news/2006/12/01/Obituaries/">Obituaries</a></li>
+</script><li><a href="/news/2007/03/01/News/">News</a></li><li><a href="/news/2007/03/01/Community/">Community</a></li><li><a href="/news/2007/03/01/CommunitySubmissions/">Community Submissions</a></li><li><a href="/news/2007/03/01/Multimedia/">Multimedia</a></li><li><a href="/news/2007/03/01/Sports/">Sports</a></li><li><a href="/news/2007/03/01/ArtsEntertainment/">Arts &amp; Entertainment</a></li><li><a href="/news/2007/03/01/Lifestyles/">Lifestyles</a></li><li><a href="/news/2007/03/01/Opinion/">Opinion</a></li><li><a href="/news/2007/03/01/Obituaries/">Obituaries</a></li>
+</center>
 </ul>
 		</div>
 		<div id="flan_meta_right">
@@ -335,10 +365,9 @@ if (bAdmanagerNetworkAlive) {
 			<div id="flan_body_wrap">
 				<div id="flan_content">
 					<div class="gutter">
-						<div id="loggedin_controlbar">
-<script language="JAVASCRIPT">
+						<script language="JAVASCRIPT">
   if (GetCookie('CANSEELOGINBAR') == 1) {
-	document.write('<table width=100% cellspacing=0 cellpadding=0 border=0 id=loggedin_bar>');
+	document.write('<div id=loggedin_controlbar><table width=100% cellspacing=0 cellpadding=0 border=0 id=loggedin_bar>');
 	document.write('<tr>');
 	document.write('<td valign=middle align=left>');
 	document.write('<img src=/home/images/face.gif>');
@@ -347,17 +376,16 @@ if (bAdmanagerNetworkAlive) {
 	document.write('<strong><a href=/user/index.cfm?event=editUserPreferencesForm>MY ACCOUNT</a>'); 	
 	document.write('&nbsp;&nbsp;&nbsp;&nbsp;<a href=/user/index.cfm?event=processLogout>LOG OUT</a></strong></td>');
 	document.write('</tr>');
-	document.write('</table>');
+	document.write('</table></div>');
  }
-</script>
-</div><div id="banner_client_2" class="cp_banner_client">
+</script><div id="banner_client_2" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
 		showClientBanner(2);
 	}
 	</script>
 	<noscript>
-	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=2&iPaper_id=876&javascriptIncludeMode=0&callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&iSection_Id=&iStory_Id=&iPaper_Id=876&javascriptIncludeMode=0&iPosition=2" border="0"></a></cfoutput>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=2&amp;iPaper_id=876&amp;javascriptIncludeMode=0&amp;callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=876&amp;javascriptIncludeMode=0&amp;iPosition=2" border="0"></a></cfoutput>
 	</noscript>
 </div><h2>Privacy Commitment</h2>
 
@@ -456,16 +484,7 @@ if (bAdmanagerNetworkAlive) {
 
 <p>Email: feedback@collegepublisher.com<br>
 Phone: (617) 248-9880<br>
-Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
-	<script language="JAVASCRIPT">
-	if (clientBannersAvailable == 1) {
-		showClientBanner(5);
-	}
-	</script>
-	<noscript>
-	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=5&iPaper_id=876&javascriptIncludeMode=0&callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&iSection_Id=&iStory_Id=&iPaper_Id=876&javascriptIncludeMode=0&iPosition=5" border="0"></a></cfoutput>
-	</noscript>
-</div><div id="object2971">
+Fax: (617) 248-8747</p><div id="object2971">
 	<div align="center" class="cpfooter">
 		<a href="http://www.mtvu.com/about/advertising/" target="_blank">National College Advertising and Marketing</a><br>
 		<a href="/user/privacypolicy/">Privacy Policy</a> &nbsp; &nbsp; <a href="/syndication">Article Syndication</a> &nbsp; &nbsp; <a href="/user/rssterms" target="_blank">RSS Terms of Use</a>
@@ -528,32 +547,7 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 					document.write('<\/div>');
 					
 				}
-</script><div class="content">
-	<h4>Poll</h4>
-	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
-		<div class="pollquestionstyle">Do you think paid parking on the Square is a good idea?</div>
-		<div id="poll_answers">
-			
-				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_82593" value="82593">
-					<label for="poll_answer_82593">Yes... more money for the city!</label>
-				</div>
-			
-				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_82594" value="82594">
-					<label for="poll_answer_82594">I don't know/No opinion</label>
-				</div>
-			
-				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_82595" value="82595">
-					<label for="poll_answer_82595">No... we already pay a lot while on the Square!</label>
-				</div>
-			
-		</div>
-		<a href="javascript:document.voteform.submit();" class="faux_button">Submit Vote</a>
-		<p id="view_results"><a href="/poll/index.cfm?event=displayPollResults">View Results</a></p>
-	</form>
-</div><div id="banner_client_4" class="cp_banner_client">
+</script><div id="banner_client_4" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
 		showClientBanner(4);
@@ -561,6 +555,45 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 	</script>
 	<noscript>
 	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=4&iPaper_id=876&javascriptIncludeMode=0&callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&iSection_Id=&iStory_Id=&iPaper_Id=876&javascriptIncludeMode=0&iPosition=4" border="0"></a></cfoutput>
+	</noscript>
+</div><div class="content">
+	<h4>Poll</h4>
+	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
+		<div class="pollquestionstyle">Do you plan to live in campus housing next year?</div>
+		<div id="poll_answers">
+			
+				<div>
+					<input type="radio" name="poll_answer_id" id="poll_answer_90329" value="90329">
+					<label for="poll_answer_90329">Yes</label>
+				</div>
+			
+				<div class="poll_even">
+					<input type="radio" name="poll_answer_id" id="poll_answer_90330" value="90330">
+					<label for="poll_answer_90330">No</label>
+				</div>
+			
+				<div>
+					<input type="radio" name="poll_answer_id" id="poll_answer_90331" value="90331">
+					<label for="poll_answer_90331">Depends on lottery.</label>
+				</div>
+			
+				<div class="poll_even">
+					<input type="radio" name="poll_answer_id" id="poll_answer_90332" value="90332">
+					<label for="poll_answer_90332">No idea</label>
+				</div>
+			
+		</div>
+		<a href="javascript:document.voteform.submit();" class="faux_button">Submit Vote</a>
+		<p id="view_results"><a href="/poll/index.cfm?event=displayPollResults">View Results</a></p>
+	</form>
+</div><div id="banner_client_5" class="cp_banner_client">
+	<script language="JAVASCRIPT">
+	if (clientBannersAvailable == 1) {
+		showClientBanner(5);
+	}
+	</script>
+	<noscript>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=5&amp;iPaper_id=876&amp;javascriptIncludeMode=0&amp;callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=876&amp;javascriptIncludeMode=0&amp;iPosition=5" border="0"></a></cfoutput>
 	</noscript>
 </div><div id="advertisements">
 	<h4>Advertisements</h4>
@@ -573,8 +606,8 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 				showNetworkBanner(9);
 			</script>
 			<noscript>
-				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=9&ipaper_id=876&callingSite=www%2Ethedmonline%2Ecom" target="new">
-					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=9&ipaper_id=876" border="0">
+				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=9&amp;ipaper_id=876&amp;callingSite=www%2Ethedmonline%2Ecom" target="new">
+					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=9&amp;ipaper_id=876" border="0">
 				</a>
 			</noscript>
 			
@@ -588,8 +621,8 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 				showNetworkBanner(10);
 			</script>
 			<noscript>
-				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=10&ipaper_id=876&callingSite=www%2Ethedmonline%2Ecom" target="new">
-					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=10&ipaper_id=876" border="0">
+				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=10&amp;ipaper_id=876&amp;callingSite=www%2Ethedmonline%2Ecom" target="new">
+					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=10&amp;ipaper_id=876" border="0">
 				</a>
 			</noscript>
 			
@@ -601,7 +634,7 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 		showNetworkBanner(12);
 	</script>
 	<noscript>
-		<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=2&ipaper_id=876&callingSite=www.thedmonline.com" target="new"> <img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=2&ipaper_id=876" border="0"> </a>
+		<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=2&amp;ipaper_id=876&amp;callingSite=www.thedmonline.com" target="new"> <img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=2&amp;ipaper_id=876" border="0"> </a>
 	</noscript>
 </div>
 					</div>
@@ -629,8 +662,8 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 	
 <h4>The DM in PDF</h4>
 <ul>
-		<li><a href="media/paper876/documents/pdxxk830.pdf">Full PDF of The DM</a></li>
-		</ul>
+		<li><a href="media/paper876/documents/62790h42.pdf">Full PDF of The DM</a></li>
+       		</ul>
 	
 </div>
 <h4>Directories</h4>
@@ -651,18 +684,9 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 	}
 	</script>
 	<noscript>
-	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=1&iPaper_id=876&javascriptIncludeMode=0&callingSite=www%2Ethedmonline%2Ecom" target="_blank"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&iSection_Id=&iStory_Id=&iPaper_Id=876&javascriptIncludeMode=0&iPosition=1" alt="Advertisement" border="0"></a></cfoutput>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=1&amp;iPaper_id=876&amp;javascriptIncludeMode=0&amp;callingSite=www%2Ethedmonline%2Ecom" target="_blank"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=876&amp;javascriptIncludeMode=0&amp;iPosition=1" alt="Advertisement" border="0"></a></cfoutput>
 	</noscript>
 </div><ul class="flan_pdf">
-	
-	<li>
-		
-		
-			<a href="http://media.collegepublisher.com/media/paper876/documents/s8a78699.pdf" target="_blank" id="printpreview">
-		
-			<img src="http://media.collegepublisher.com/media/paper876/thumbs/t_s8a78699.png" border="none" alt="Download Print Edition PDF">
-		</a>
-	</li>
 	
 </ul><div id="banner_client_3" class="cp_banner_client">
 	<script language="JAVASCRIPT">
@@ -671,19 +695,21 @@ Fax: (617) 248-8747</p><div id="banner_client_5" class="cp_banner_client">
 	}
 	</script>
 	<noscript>
-	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=3&iPaper_id=876&javascriptIncludeMode=0&callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&iSection_Id=&iStory_Id=&iPaper_Id=876&javascriptIncludeMode=0&iPosition=3" border="0"></a></cfoutput>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=3&amp;iPaper_id=876&amp;javascriptIncludeMode=0&amp;callingSite=www%2Ethedmonline%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=77v3s527t1&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=876&amp;javascriptIncludeMode=0&amp;iPosition=3" border="0"></a></cfoutput>
 	</noscript>
 </div>
 				</div>	
 			</div>
 		</div>
 		<div id="flan_footer">
-			<p>© 2006 <a href="/" title="Daily Mississippian"><strong>Daily Mississippian</strong></a></p>
+			© <script type="text/javascript" charset="utf-8">
+var copyrightdate = new Date();
+document.write(copyrightdate.getFullYear());
+</script>2020
+<a href="/" title="Daily Mississippian"><strong>Daily Mississippian</strong>
+</a> 
+
 <p>Powered by <a href="http://collegepublisher.com" title="Powered by College Publisher"><strong>College Publisher</strong></a></p>
-
-
-
-
 
 
 
