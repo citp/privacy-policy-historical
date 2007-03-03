@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025092546id_/http%3A//1800lighting.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303033856id_/http%3A//www.1800lighting.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Capitol Lighting
+# Capitol Lighting's 1800lighting.com - Your Source for Residential and Commercial Lighting
 
 **Privacy Policy**
 
