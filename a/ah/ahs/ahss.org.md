@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahss.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926080207id_/http%3A//www.ahss.org/PrivacyPolicy/tabid/132/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahss.org privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304001547id_/http%3A//www.ahss.org/PrivacyPolicy/tabid/132/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
