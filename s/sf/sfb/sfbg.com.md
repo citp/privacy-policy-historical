@@ -1,19 +1,34 @@
-> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317115556id_/http%3A//www.sfbg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303215030id_/http%3A//www.sfbg.com/privacy) for the most accurate reproduction.*
 
-# sfbg.com privacy policy | San Francisco Bay Guardian
-
-sfbg.com privacy policy
+# San Francisco Bay Guardian : Privacy Policy : Home Page
 
   
-Hi. Here at sfbg.com we will ask you to register to receive our newsletter and get really cool free stuff that we’d rather keep for ourselves – but the promotions department told us we gotta give it away. 
-
-We keep this information **strictly confidential**. We reserve the right to occasionally send you information about sfbg.com and Bay Guardian promotions. Trust us, you want to know about this stuff anyway. 
-
-We may allow advertisers to use this information, but only if you tell us that’s OK. Before giving them access to the information – in most cases at the time you register – we will tell you if we plan to do this. And for what reason. 
-
-We also may use “cookie” technology that allows us to keep track of users and to expedite your accessing sfbg.com pages. This technology will place information on your hard drive. This information will not be sold to anybody, and will be kept in a hermetically-sealed mayonnaise jar in the on-line business manager’s office. Or even a more secure place, if we can find one. 
-
-We will inform you, through postings on the site, of any changes to this policy. Those changes may include coming up with better jokes to insert in the privacy policy. You may have your information removed from our database if you see fit because of those changes.  
 
 
-Questions, comments? Send a note to me [here](mailto:%20webmaster@sfbg.com). 
+#### The San Francisco Bay Guardian  
+Privacy Policy
+
+Last Updated on March 1, 2007 
+
+This Privacy Policy discloses the privacy practices for The San Francisco Bay Guardian newspaper and sfbg.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Guardian" include sfbg.com and The San Francisco Bay Guardian newspaper.
+
+**Information Gathering**
+
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address, and 2) tracking information collected as you navigate through our sites.
+
+**Use of Information**
+
+* If you have registered online to one of our sites, The Guardian will not sell, rent, swap or authorize any third party to use your e-mail address without your permission. This also applies to any information that personally identifies you, except as noted immediately below. We do, however, share information about our audience in aggregate form. For example, we may want to know how long the average reader spends on our site, or which pages or features get the most attention.  
+* The Guardian may perform statistical analyses of subscribers and their subscribing and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our subscriber base.  
+* We may use demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent.  
+* We contract with other companies to provide services on our behalf, including credit-card and billing processing, e-mail distribution, list processing and analytics or promotions management.  
+* Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by The Guardian for online and offline promotional or commercial uses in any and all media.
+
+**Your Privacy Choices**
+
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail.  
+To view and edit your personal information, please visit the appropriate part of any of our Web sites.
+
+**How To Contact Us**
+
+For any questions or comments regarding our information or security practices, you may contact us by e-mail at [online@sfbg.com](mailto:online@sfbg.com) or by mail at Ad Services Dept., 135 Mississippi St., San Francisco, CA 94107.
