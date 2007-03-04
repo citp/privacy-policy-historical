@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Memsaab.com
 
-| [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/memfashion/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//secretme/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/memtv/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/gossip/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/abroad/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/bollywood/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/shoppingcart/store/default.asp) | 
+| [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/memfashion/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//secretme/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/memtv/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/gossip/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/abroad/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/bollywood/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/shoppingcart/store/default.asp) | 
 
     
 
 
-| ******Last updated: 20th September, 2006  **  
+| ******Last updated: 15th January, 2007  **  
 ---  
   
 Memsaab.com delivers content drawn from its partners and other sources, as well as providing access to message boards, chat sessions. Any information that you provide under memsaab.com services provided through the site may be collected and used by memsaab.com.
