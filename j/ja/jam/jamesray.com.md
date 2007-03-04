@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2006-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060814183056id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304050746id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# James Ray International | Help zone | Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual. Practical results through spiritual growth.
+# James Arthur Ray | Help zone | Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual. Practical results through spiritual growth.
 
   
 
@@ -88,7 +88,7 @@ If your information is currently being used to send you marketing communications
 To opt-out of receiving marketing material from James Ray International: 
 
   1. Follow directions on a marketing e-mail or direct mail communication from us. 
-  2. Call 760.476.9077 
+  2. Call 760-476-9077 
   3. Send an email with your current contact information to [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Opt%20Out)
   4. Send a request with your current contact information to:  
 James Ray International  
@@ -114,7 +114,7 @@ James Ray International
 Attn: Customer Care  
 2386 Faraday Avenue Suite 110  
 Carlsbad, CA 92008 
-  4. Call 760.476.9077 
+  4. Call 760-476-9077 
 
 
 
@@ -155,7 +155,7 @@ Attn: Privacy Manager
 2386 Faraday Avenue Suite 110  
 Carlsbad, CA 92008 
   2. Email: [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Privacy%20Policy)
-  3. Phone: 760.476.9077 
+  3. Phone: 760-476-9077 
 
 
 
