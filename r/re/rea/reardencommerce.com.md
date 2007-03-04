@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reardencommerce.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218205214id_/http%3A//reardencommerce.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reardencommerce.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304082532id_/http%3A//www.reardencommerce.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Rearden Commerce - Privacy Policy
 
