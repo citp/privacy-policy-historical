@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230080342id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304083516id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
 
 # Surfing the Net with Kids: Privacy Policy
 
@@ -18,4 +18,4 @@ Surfnetkids.com, Inc.
 991C Lomas Santa Fe Drive #415  
 Solana Beach, CA 92075  
 (858)793-8300  
-
+Write to us at [ReplyToBarbara.com](http://www.replytobarbara.com/)
