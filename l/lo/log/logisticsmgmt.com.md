@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logisticsmgmt.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221104508id_/http%3A//www.logisticsmgmt.com/index.asp%3Flayout%3DSiteInfoWebzine%26view%3Dprivacy%26articleid%3DCA6344321) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logisticsmgmt.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304023719id_/http%3A//www.logisticsmgmt.com/index.asp%3Flayout%3DSiteInfoWebzine%26view%3Dprivacy%26articleid%3DCA6344321) for the most accurate reproduction.*
 
 # Logistics Management - siteInfo
 
