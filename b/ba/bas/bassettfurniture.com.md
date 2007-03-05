@@ -1,47 +1,43 @@
-> *The following text is extracted and transformed from the bassettfurniture.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015222942id_/http%3A//www.bassettfurniture.com/PrivacyStatement/tabid/76/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassettfurniture.com privacy policy that was archived on 2007-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070305090808id_/http%3A//www.bassettfurniture.com/customer-service/privacy.asp) for the most accurate reproduction.*
 
-# Bassett Furniture > Privacy Statement
+# Bassett Furniture » Customer Service
 
-Bassett Furniture Industries, Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Bassett Furniture Industries, Inc. Web site and governs data collection and usage. By using the Bassett Furniture Industries, Inc. website, you consent to the data practices described in this statement.
+Welcome to [www.bassettfurniture.com](http://www.bassettfurniture.com/).  Please take a few minutes to review our Privacy Statement for this site.
 
-Collection of your Personal Information
+This Statement of Privacy applies only to the website of Bassett Furniture Industries (Bassett), located on the internet at [www.bassettfurniture.com](http://www.bassettfurniture.com/) and governs data collection and usage. By using the Bassett website, you consent to the data practices described in this statement.
 
-Bassett Furniture Industries, Inc. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Bassett Furniture Industries, Inc. also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+This is the website of Bassett Furniture Industries.
 
-There is also information about your computer hardware and software that is automatically collected by Bassett Furniture Industries, Inc. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Bassett Furniture Industries, Inc. for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Bassett Furniture Industries, Inc. Web site.
+Our postal address is:  
+Bassett Furniture Industries  
+3525 Fairystone Park Hwy.  
+Bassett, VA 24055
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Bassett Furniture Industries, Inc. public message boards, this information may be collected and used by others. Note: Bassett Furniture Industries, Inc. does not read any of your private online communications.
+Email address: [support@bassettfurniture.com](mailto:support@bassettfurniture.com)  
+Telephones:  276.629.6000
 
-Bassett Furniture Industries, Inc. encourages you to review the privacy statements of Web sites you choose to link to from Bassett Furniture Industries, Inc. so that you can understand how those Web sites collect, use and share your information. Bassett Furniture Industries, Inc. is not responsible for the privacy statements or other content on Web sites outside of the Bassett Furniture Industries, Inc. and Bassett Furniture Industries, Inc. family of Web sites.
+_Information We Collect_  
+For each visitor to our website, our web server automatically recognizes a visitors domain name, IP address, browser type, access times and referring website addresses.  We also collect and store any information provided to us via forms or emails.
 
-Use of your Personal Information
+Bassett collects and uses information to operate the Bassett Furniture Industries website and deliver the services you have requested.  Any information provided to us via this site, including emails, can be used by Bassett for research, analysis, and internal statistics.
 
-Bassett Furniture Industries, Inc. collects and uses your personal information to operate the Bassett Furniture Industries, Inc. Web site and deliver the services you have requested. Bassett Furniture Industries, Inc. also uses your personally identifiable information to inform you of other products or services available from Bassett Furniture Industries, Inc. and its affiliates. Bassett Furniture Industries, Inc. may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+From time to time, we may also use this information to contact you in regards to a question that you have asked, or to inform you of new product or services.  We may also contact you via surveys to conduct research about your opinion of current services.  If you do not wish to receive emails or mailings from us, you may request this at the above address.
 
-Bassett Furniture Industries, Inc. does not sell, rent or lease its customer lists to third parties. Bassett Furniture Industries, Inc. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information e-mail, name, address, telephone number is not transferred to the third party. In addition, Bassett Furniture Industries, Inc. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Bassett Furniture Industries, Inc., and they are required to maintain the confidentiality of your information.
+Bassett does not sell, rent or lease its customer lists to third parties or any company or person outside of the Bassett Furniture Industries corporation. Bassett will only disclose information if required by local, state, or federal law.
 
-Bassett Furniture Industries, Inc. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+_With Respect to Cookies_  
+We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site.
 
-Bassett Furniture Industries, Inc. keeps track of the Web sites and pages our customers visit within Bassett Furniture Industries, Inc., in order to determine what Bassett Furniture Industries, Inc. services are the most popular. This data is used to deliver customized content and advertising within Bassett Furniture Industries, Inc. to customers whose behavior indicates that they are interested in a particular subject area.
+  
+_With Respect to Personal Information_  
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number.
 
-Bassett Furniture Industries, Inc. Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: a conform to the edicts of the law or comply with legal process served on Bassett Furniture Industries, Inc. or the site; b protect and defend the rights or property of Bassett Furniture Industries, Inc.; and, c act under exigent circumstances to protect the personal safety of users of Bassett Furniture Industries, Inc., or the public.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes.
 
-Use of Cookies
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or contacting us via telephone.
 
-The Bassett Furniture Industries, Inc. Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+  
+_Security of Information_  
+Bassett has the appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  We secure all personal information from unauthorized access, use or disclosure. Bassett secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Bassett Furniture Industries, Inc. pages, or register with Bassett Furniture Industries, Inc. site or services, a cookie helps Bassett Furniture Industries, Inc. to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Bassett Furniture Industries, Inc. Web site, the information you previously provided can be retrieved, so you can easily use the Bassett Furniture Industries, Inc. features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Bassett Furniture Industries, Inc. services or Web sites you visit.
-
-Security of your Personal Information
-
-Bassett Furniture Industries, Inc. secures your personal information from unauthorized access, use or disclosure. Bassett Furniture Industries, Inc. secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information such as a credit card number is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer SSL protocol.
-
-Changes to this Statement
-
-Bassett Furniture Industries, Inc. will occasionally update this Statement of Privacy to reflect company and customer feedback. Bassett Furniture Industries, Inc. encourages you to periodically review this Statement to be informed of how Bassett Furniture Industries, Inc. is protecting your information.
-
-Contact Information
-
-Bassett Furniture Industries, Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Bassett Furniture Industries, Inc. has not adhered to this Statement, please contact Bassett Furniture Industries, Inc. at [support@bassettfurniture.com](mailto:support@bassettfurniture.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
