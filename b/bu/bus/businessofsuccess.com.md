@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessofsuccess.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018100620id_/http%3A//www.businessofsuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsuccess.com privacy policy that was archived on 2007-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070305011846id_/http%3A//www.businessofsuccess.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D31%26Itemid%3D43) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Business of Success
 
 **B.O.S. Online Privacy Notice**  
 (Updated - November 11, 2004)
@@ -109,7 +109,7 @@ If you are a registered member of B.O.S., you can review and update your member 
 
 **How to Reach Us**
 
-If you have questions or concerns about your privacy when using a B.O.S. Web site, please contact us by e-mail: [privacy@businessofsuccess.com](mailto:privacy@businessofsuccess.com) or by mail at:
+If you have questions or concerns about your privacy when using a B.O.S. Web site, please contact us by e-mail:  [privacy@businessofsuccess.com](mailto:privacy@businessofsuccess.com) or by mail at:
 
 Business of Success  
 Online Privacy Office  
