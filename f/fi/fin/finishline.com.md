@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214714id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2007-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070305172143id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Finish Line :: Customer Service
 
 |  |  |  |  |  [](https://web.archive.org/store/catalog/store.jsp?categoryId=cat10003) [](https://web.archive.org/store/catalog/store.jsp?categoryId=cat10005) [](https://web.archive.org/store/catalog/store.jsp?categoryId=cat10007) [](https://web.archive.org/store/catalog/store.jsp?categoryId=cat10015) [](https://web.archive.org/store/catalog/store.jsp?categoryId=cat10017) [](https://web.archive.org/store/catalog/brands.jsp) [](https://web.archive.org/store/catalog/store.jsp?categoryId=cat10019)     [](https://web.archive.org/store/my_account/wc_main.jsp) |   
 ---|---|---|---|---|---  
-[](https://web.archive.org/store/global/promos/freeshipping.jsp)  
 |  |  | 
 
 ONLINE POLICIES - PRIVACY STATEMENT
