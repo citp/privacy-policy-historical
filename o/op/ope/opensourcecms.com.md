@@ -1,9 +1,68 @@
-> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2004-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041118055002id_/http%3A//www.opensourcecms.com/index.php%3Foption%3Dcontent%26task%3Dview%26id%3D313%26Itemid%3D73) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2007-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php%3Foption%3Dcontent%26task%3Dview%26id%3D313%26Itemid%3D73) for the most accurate reproduction.*
 
-# opensourceCMS.com
+# OpenSourceCMS - Privacy Policy
 
-Thursday, 17 June 2004  
- 
+|  Demo Refresh   
+---  
+Count Down: 01:44:37   
+  
+Main Menu   
+---  
+| [Home](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_frontpage&Itemid=1)  
+---  
+[News and More!](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=content&task=view&id=314&Itemid=75)  
+  
+  
+[Hosting Providers](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2172&Itemid=176)  
+[Commercial CMSs](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2173&Itemid=177)  
+[Coders / Themes / Consultants](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2174&Itemid=178)  
+  
+  
+[Advertising Info](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=312&Itemid=170)  
+CMS Demo Menu   
+---  
+  
+Open All | Close All   
+  
+Latest News  
+---  
+  
+  * [ Typolight ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2224&Itemid=73)
+  * [ Doop ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2223&Itemid=73)
+  * [ MyTopix ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2222&Itemid=73)
+  * [ 'Code Prix' competition will award $10,000 in cash prizes ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2221&Itemid=79)
+  * [ iGaming CMS ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2220&Itemid=73)
+  * [ Easyportal ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2219&Itemid=73)
+  * [ OvBB ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2218&Itemid=73)
+  * [ Elxis ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2217&Itemid=73)
+  * [ PHP-Update ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2216&Itemid=73)
+  * [ WikyBlog ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2215&Itemid=73)
+  * [ Welcome to opensourceCMS.com ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2214&Itemid=79)
+  * [ ContentNow ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=2213&Itemid=73)
+
+  
+Login Form   
+---  
+|  Username   
+  
+Password   
+  
+Remember me   
+  
+---  
+[ Password Reminder ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_registration&task=lostPassword)  
+No account yet? [ Create one ](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_registration&task=register)  
+  
+Donate   
+---  
+Support opensourceCMS in making a small donation:  
+  
+[Home](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php) Privacy Policy 
+
+|  Privacy Policy  |  |   
+---|---|---  
+User Rating: / 8   
+PoorBest 
 
 ### Privacy Policy
 
@@ -44,3 +103,56 @@ The internal laws of the State of Virginia, without reference to any choice of l
 
 **Contact Us**  
 If you have any questions about this Policy or our web site, please contact us at admin @ opensourcecms.com.
+
+[ Back ] 
+
+|  OpenSourceHost   
+---  
+  
+
+
+[](http://opensourcecms.com/adserver/adclick.php?n=a473c4f0)  
+  
+Packt Publishing   
+---  
+  
+[](http://opensourcecms.com/adserver/adclick.php?n=ad0f2114)  
+
+
+  
+  
+Advertise Here   
+---  
+  
+  
+  
+Supporters   
+---  
+  
+[](https://www.opensourcehost.com/)   
+[](https://web.archive.org/web/20070309201524id_/http%3A//opensourcecms.com/index.php?option=com_content&task=view&id=312&Itemid=170)   
+[Reseller Web Hosting](http://www.thewebbrains.com/)  
+[Open Source Hosting](http://www.buyhttp.com/open_source_hosting.html)  
+[Web Hosting](http://www.siteground.com/)  
+[PHPCow Content Management](http://www.phpcow.com/ "PHPCow article, news publishing script, content management system")  
+[Website Hosting Australia](http://www.i-net.com.au/ "Website
+hosting, Website & Ecommerce design, website templates, Sydney,
+Australia")  
+Who's Online   
+---  
+We have 905 guests online and 2 members online   
+  
+**Visitors:** 36478404 
+
+Syndicate   
+---  
+  
+[ ](http://www.opensourcecms.com/index2.php?option=com_rss&feed=RSS0.91&no_html=1)
+
+[ ](http://www.opensourcecms.com/index2.php?option=com_rss&feed=RSS1.0&no_html=1)
+
+[ ](http://www.opensourcecms.com/index2.php?option=com_rss&feed=RSS2.0&no_html=1)
+
+[ ](http://www.opensourcecms.com/index2.php?option=com_rss&feed=ATOM0.3&no_html=1)
+
+[ ](http://www.opensourcecms.com/index2.php?option=com_rss&feed=OPML&no_html=1)
