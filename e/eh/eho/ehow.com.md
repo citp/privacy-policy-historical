@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223931id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2007-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070309221923id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - eHow.com
 
@@ -56,6 +56,6 @@ Yes, we do share information but only as described below. Otherwise we will not 
 
 Demand Media, eHow, and weHow are trademarks or registered trademarks of Demand Media, Inc. in the United States and/or other countries. 
 
-Copyright © 2006. Demand Media, Inc.
+Copyright © 2007. Demand Media, Inc.
 
-Last updated: October 25, 2006
+Last updated: January 24, 2007
