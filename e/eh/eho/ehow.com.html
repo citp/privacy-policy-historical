@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ehow.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205223931id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ehow.com privacy policy that was archived on 2007-03-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070309221923id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 <title>Privacy Policy - eHow.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="verify-v1" content="nY4G2G7zUzsXGPNHcVzvcfTAJYc3bwplVD1i4uCfekY=">
 
 	<meta content="Learn how to do anything and get what you need to do it--from experts and people like you." name="description">
@@ -34,6 +34,61 @@
 
 -->
 </style>
+<script language="javascript">
+    function SelectOption(opt)
+   {
+        var hdn = document.getElementById('Options');
+        var hdnBottom = document.getElementById('OptionsBottom');
+        var tb = document.getElementById('s');
+        var spanArtOn = document.getElementById('ctl00_phArtOn');
+        var spanArtOff = document.getElementById('ctl00_phArtOff');
+        var spanMemberOn = document.getElementById('ctl00_phMemberOn');
+        var spanMemberOff = document.getElementById('ctl00_phMemberOff');
+        var spanArtOnBottom = document.getElementById('ctl00_phArtOnBottom');
+        var spanArtOffBottom = document.getElementById('ctl00_phArtOffBottom');
+        var spanMemberOnBottom = document.getElementById('ctl00_phMemberOnBottom');
+        var spanMemberOffBottom = document.getElementById('ctl00_phMemberOffBottom');
+                
+        hdn.value = opt;
+        hdnBottom.value = opt;
+        if(opt == 3)
+        {
+            spanMemberOn.style.display = "inline";
+            spanMemberOff.style.display = "none";
+            spanArtOn.style.display = "none";
+            spanArtOff.style.display = "inline";
+            spanMemberOnBottom.style.display = "inline";
+            spanMemberOffBottom.style.display = "none";
+            spanArtOnBottom.style.display = "none";
+            spanArtOffBottom.style.display = "inline";                
+        }
+        else
+        {
+            spanMemberOn.style.display = "none";
+            spanMemberOff.style.display = "inline";
+            spanArtOn.style.display = "inline";
+            spanArtOff.style.display = "none";
+            spanMemberOnBottom.style.display = "none";
+            spanMemberOffBottom.style.display = "inline";
+            spanArtOnBottom.style.display = "inline";
+            spanArtOffBottom.style.display = "none";    
+        }
+        
+        if(tb.value != "" && tb.value != null)
+        {
+            document.formSearch.submit();
+        }
+        
+         
+   }
+   function CopyToTop()
+   {
+        var tb = document.getElementById('s');
+        var tbBottom = document.getElementById('s');
+        tb.value = tbBottom.value;
+   } 
+</script>
+<script src="/js/google.js"></script>
 </head>
 
 <body>
@@ -51,51 +106,48 @@
       </div>
 		
 		
-      <div id="hdr-br2">
-         <div id="logo"><a href="/"><img src="/images/ehow/logo-ehow-tag.gif" height="61" width="146" alt="eHow - How to do just about everything!"></a></div>
-			
-			
-			<div id="hdr-srch">
-			
-				<form method="get" action="http://www.google.com/custom">
-					<a href="http://www.google.com/"><img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" style="position:relative;float:left"></a>
-					<input type="hidden" name="domains" value="eHow.com">
-					<input type="text" name="q" size="20" maxlength="255" value="">
-					<input type="submit" id="button2" name="doit" value="Search">
-					<input type="radio" name="sitesearch" value=""> Web
-					<input type="radio" name="sitesearch" value="eHow.com" checked=""> eHow
-					<input type="hidden" name="client" value="pub-5540093232741418">
-					<input type="hidden" name="forid" value="1">
-					<input type="hidden" name="channel" value="5414437852">
-					<input type="hidden" name="ie" value="ISO-8859-1">
-					<input type="hidden" name="oe" value="ISO-8859-1">
-					<input type="hidden" name="cof" value="GALT:#339900;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0033CC;LC:0033CC;T:000000;GFNT:0000FF;GIMP:0000FF;LH:40;LW:145;L:http://www.ehow.com/images/ehow/logo-ehow.gif;S:http://www.ehow.com;FORID:1;">
-					<input type="hidden" name="hl" value="en">
-				</form>
-
-				<!--
-				<form method="get" action="/Search.aspx">
-                <input name="s" type="text" value="" size="30" id="s" maxlength="200" class="srch-text" />
-                <select name="Options" id="Options" class="srch-opts">
-                    <option value="0" >Entire Site</option>
-                    <option value="1" >eHow Articles</option>
-                    <option value="2" >weHow Articles</option>
-                    <option value="3" >User Profiles</option>
-                </select>
-                <input type="image" src="/images/ehow/btn-search.gif" height="22" width="92" name="btnSearch" value="Search" id="btnSearch" class="srch-btn" />
-					 
-            </form>
-				-->
-
-			</div>
-      </div>
+		<div id="hdr-br2">
+			<table width="100%" cellspacing="0" border="0">
+				<tbody><tr>
+					<td id="hdr-clm1">
+						<div id="logo"><a href="http://www.ehow.com" id="ctl00_lnkeHowLogo"><img src="/images/ehow/logo-ehow-tag.gif" height="61" width="146" alt="eHow - How to do just about everything!"></a></div>
+						
+					</td>
+					<td id="hdr-clm2">
+						<div class="tbl-cnt">
+							<div id="hdr-srch">
+								<table width="100%" cellspacing="0" border="0">
+									<tbody><tr>
+										<td colspan="3"><span id="ctl00_phArtOn" class="srch-link-on-a" style="display:inline">How To Articles</span><span id="ctl00_phArtOff" class="srch-link-off-a" style="display:none"><a href="javascript:SelectOption('0');">How To Articles</a></span><span id="ctl00_phMemberOn" class="srch-link-on-b" style="display:none">Members</span><span id="ctl00_phMemberOff" class="srch-link-off-b" style="display:inline"><a href="javascript:SelectOption('3');">Members</a></span>
+										</td>
+									</tr>
+									<tr>
+										<td width="100%">
+											<form method="get" action="/Search.aspx" name="formSearch">
+											<input name="s" type="text" value="" size="30" id="s" maxlength="200" class="srch-text">
+											<input type="hidden" value="" id="Options" name="Options">
+										</form></td>
+										<td width="5">&nbsp;</td>
+										<td width="95"><input type="image" src="/images/ehow/btn-search.gif" height="24" width="91" name="btnSearch" value="Search" id="btnSearch" class="srch-btn">
+											
+											
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+						</div>
+					</td>
+					<td id="hdr-clm3">&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</div>
 		
-      <div id="hdr-br3">
+		<div id="hdr-br3">
 			<p id="hdr-bcrmb">
-	<a href="/">Home</a> » <a href="/privacy/privacy.jsp">Privacy</a>
+	<a href="http://www.ehow.com" id="ctl00_cplBreadCrumbs_lnkHome">Home</a> » <a href="/privacy/privacy.jsp">Privacy</a>
 </p>
 		</div>
-   </div>
+		</div>
         
    <div class="clearfix">
       
@@ -155,9 +207,9 @@
 
 <p>Demand Media, eHow, and weHow are trademarks or registered trademarks of Demand Media, Inc. in the United States and/or other countries. </p>
 
-<p>Copyright © 2006. Demand Media, Inc.</p>
+<p>Copyright © 2007. Demand Media, Inc.</p>
 
-<p>Last updated: October 25, 2006</p>
+<p>Last updated: January 24, 2007</p>
 		</div>
 	</div>
 
@@ -178,25 +230,22 @@
 		
 			
 		
-		
-		
 		<br>
-		<div id="promo-box-1" class="clm-margin">
-			<a href="http://www.wehow.com"><img src="/images/wehow/whywehow_banner1.gif" width="178" height="170"></a>
-		</div>
 		
+		<div id="promo-box-1" class="clm-margin">
+			<a href="http://www.surveymonkey.com/s.asp?u=781933118996" target="_blank"><img src="/images/shared/survey.gif" width="178" height="170" alt="eHow Survey"></a>
+		</div>
 		</div>
 	</div>
 
 
    </div>
         
-      <div id="ftr">
-      
-      <h2>Check out Thousands of How-To Solutions in eHow's Categories</h2>
-      <div id="ftr-br2">
-			<ul id="ftr-chnls">
-			    
+	<div id="ftr">
+		<h2>Check out Thousands of How-To Solutions in eHow's Categories</h2>
+			<div id="ftr-br2">
+				<ul id="ftr-chnls">
+					
 <li><a href="http://www.ehow.com/center_8.html">Business &amp; Finance </a></li>
 
 <li><a href="http://www.ehow.com/center_7.html">Car Information </a></li>
@@ -204,6 +253,8 @@
 <li><a href="http://www.ehow.com/center_3.html">Careers &amp; Education </a></li>
 
 <li><a href="http://www.ehow.com/center_5.html">Computers </a></li>
+
+<li><a href="http://www.ehow.com/center_16.html">Consumer Electronics </a></li>
 
 <li><a href="http://www.ehow.com/center_1.html">Family &amp; Relationships </a></li>
 
@@ -225,44 +276,46 @@
 
 <li><a href="http://www.ehow.com/center_14.html">Travel Information </a></li>
 
-			</ul>
-      </div>
-      <div id="ftr-br3">
-			<div id="ftr-srch">
-			    <form method="get" action="http://www.google.com/custom">
-					<a href="http://www.google.com/"><img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" style="position:relative;float:left"></a>
-					<input type="hidden" name="domains" value="eHow.com">
-					<input type="text" name="q" size="20" maxlength="255" value="">
-					<input type="submit" id="Submit1" name="doit" value="Search">
-					<input type="radio" name="sitesearch" value=""> Web
-					<input type="radio" name="sitesearch" value="eHow.com" checked=""> eHow
-					<input type="hidden" name="client" value="pub-5540093232741418">
-					<input type="hidden" name="forid" value="1">
-					<input type="hidden" name="channel" value="5414437852">
-					<input type="hidden" name="ie" value="ISO-8859-1">
-					<input type="hidden" name="oe" value="ISO-8859-1">
-					<input type="hidden" name="cof" value="GALT:#339900;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0033CC;LC:0033CC;T:000000;GFNT:0000FF;GIMP:0000FF;LH:40;LW:145;L:http://www.ehow.com/images/ehow/logo-ehow.gif;S:http://www.ehow.com;FORID:1;">
-					<input type="hidden" name="hl" value="en">
-				</form>
-				<!--
-				<form method="get" action="/Search.aspx">
-                <input name="s" type="text" value="" size="30" id="s" maxlength="200" class="srch-text" />
-                <select name="Options" id="Options" class="srch-opts">
-                    <option value="0" >Entire Site</option>
-                    <option value="1" >eHow Articles</option>
-                    <option value="2" >weHow Articles</option>
-                    <option value="3" >User Profiles</option>
-                </select>
-                <input type="image" src="/images/ehow/btn-search.gif" height="22" width="92" name="btnSearch" value="Search" id="btnSearch" class="srch-btn" />
-					 
-            </form>-->
-			
+				</ul>
 			</div>
-      </div>
+
+		<div id="ftr-br3">
+			<table width="100%" cellspacing="0" border="0">
+					<tbody><tr>
+						<td id="hdr-clm1">&nbsp;</td>
+						<td id="hdr-clm2">
+							<div class="tbl-cnt">
+								<div id="ftr-srch">
+									<table width="100%" cellspacing="0" border="0">
+										<tbody><tr>
+											<td colspan="3"><span id="ctl00_phArtOnBottom" class="srch-link-on-a" style="display:inline">How To Articles</span><span id="ctl00_phArtOffBottom" class="srch-link-off-a" style="display:none"><a href="javascript:SelectOption('0');">How To Articles</a></span><span id="ctl00_phMemberOnBottom" class="srch-link-on-b" style="display:none">Members</span><span id="ctl00_phMemberOffBottom" class="srch-link-off-b" style="display:inline"><a href="javascript:SelectOption('3');">Members</a></span>
+											</td>
+										</tr>
+										<tr>
+											<td width="100%">
+											<form method="get" action="/Search.aspx" name="formSearchBottom">
+											<input name="s" type="text" value="" size="30" id="sBottom" maxlength="200" class="srch-text">
+											<input type="hidden" value="" id="OptionsBottom" name="Options">
+											</form></td>
+											<td width="5">&nbsp;</td>
+											<td width="95"><input type="image" src="/images/ehow/btn-search.gif" height="24" width="91" name="btnSearch" value="Search" id="btnSearch" class="srch-btn">
+											
+											
+											</td>
+										</tr>
+									</tbody></table>
+								</div>
+							</div>
+						</td>
+						<td id="hdr-clm3">&nbsp;</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
       
       <div id="ftr-br4">
 			<ul id="ftr-nav">
-				<li class="nav-1"><a href="/">Home</a></li>
+				<li class="nav-1"><a href="http://www.ehow.com" id="ctl00_lnkHome">Home</a></li>
 				<li><a href="/sitemap.html">Site Map</a></li>
 				<li><a href="/about_us/about_us.aspx">About eHow</a></li>
 				<li><a href="/about_us/contact_us.aspx">Contact Us</a></li>
@@ -273,27 +326,23 @@
 			</ul>
 		</div>
 		<div id="ftr-br5">
-			<div id="ftr-copy">Copyright © 1999-2006 eHow, Inc. Use of this web site constitutes acceptance of the eHow <a href="/terms/terms_use.jsp">Terms of Use</a> and <a href="/privacy/privacy.jsp">Privacy Policy</a>.</div>
+			<div id="ftr-copy">Copyright © 1999-2007 eHow, Inc. Use of this web site constitutes acceptance of the eHow <a href="/terms/terms_use.jsp">Terms of Use</a> and <a href="/privacy/privacy.jsp">Privacy Policy</a>.</div>
 		</div>
 		
 		
 		
    </div>
 
-</div></div></div></div></div></div>
+</div></div></div></div></div>
 
 
-        
-<!-- adsense code-->
-<script type="text/javascript" src="/js/gasp.js"></script>
-<!-- i2a tracking code-->
-<script type="text/javascript" src="/js/i2a.js"></script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct="UA-31420-1";
 urchinTracker();
 </script>
+
 
 
 </body></html>
