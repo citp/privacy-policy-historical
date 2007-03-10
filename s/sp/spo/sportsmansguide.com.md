@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222200237id_/http%3A//www.sportsmansguide.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2007-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070310192021id_/http%3A//www.sportsmansguide.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Discount Hunting Gear, Discount Hunting Boots, Discount Shoes, Discount Ammunition, Discount Ammo, Discount Boots, Military Surplus, Outdoor Gear
 
