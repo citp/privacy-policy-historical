@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataindicombroadband.in privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020140154id_/http%3A//tataindicombroadband.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataindicombroadband.in privacy policy that was archived on 2007-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070310051236id_/http%3A//www.tataindicombroadband.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Tata Indicom Broadband
 
