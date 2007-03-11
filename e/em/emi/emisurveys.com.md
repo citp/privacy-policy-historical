@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emisurveys.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225005130id_/http%3A//www.emisurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emisurveys.com privacy policy that was archived on 2007-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070311013003id_/http%3A//emisurveys.com/privacy.html) for the most accurate reproduction.*
 
 # EMI Surveys
 
