@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the retailingtoday.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030044400id_/http%3A//www.retailingtoday.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailingtoday.com privacy policy that was archived on 2007-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070311234013id_/http%3A//www.retailingtoday.com/privacy.cfm) for the most accurate reproduction.*
 
 # Retailing Today - Privacy Policy
 
-Lebhar-Friedman, Inc. Privacy Policy 
+Lebhar-Friedman, Inc. Privacy Policy
 
 This site is produced by Lebhar-Friedman, Inc. This policy applies to all sites produced by Lebhar-Friedman, Inc. This policy does not cover information collected on sites linked to/from Lebhar-Friedman, Inc. sites. 
 
