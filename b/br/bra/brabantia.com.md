@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brabantia.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110010019id_/http%3A//brabantia.com/%3Fgoto%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brabantia.com privacy policy that was archived on 2007-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070311040211id_/http%3A//www.brabantia.com/%3Fgoto%3Dprivacy) for the most accurate reproduction.*
 
 # BrabantiaŽ, Solid company - Privacy Policy
 
