@@ -1,0 +1,572 @@
+<!--The following is the downloaded HTML source of the oversources.com privacy policy that was archived on 2007-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070311214438id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.-->
+
+<html><head>
+<title>Privacy Notice at China Electronics Wholesaler</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href="http://static.oversources.com/v1.1/style/global.css" rel="stylesheet">
+<link href="http://static.oversources.com/v1.1/style/commons.css" rel="stylesheet">
+<script language="javascript" src="http://static.oversources.com/v1.1/js/commons.js"></script> 
+<script language="javascript" src="http://static.oversources.com/v1.1/js/connection.js"></script> 
+<script language="javascript" src="http://static.oversources.com/v1.1/js/verify.js"></script> 
+<script language="javascript" src="http://static.oversources.com/v1.1/js/category.js"></script> 
+</head>
+<body>
+<table id="outside" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td id="header">
+
+<script language="javascript">
+<!--
+
+var _currencies_rate = "0.13,US$#,2";
+function chgCurrency(el) {
+  try {
+	var surl = "http://www.oversources.com/product/rate";
+	var postData = "currency=" + el.value;
+	var request = Connect.asyncRequest('POST', surl, { success:successCurrency, failure:failureCurrency }, postData)
+	GetE("currency_prompt").focus();
+  } catch (ex) {
+    failureCurrency();
+  }
+}
+
+function successCurrency(o) {
+  try {
+	if(o.responseText == undefined) {
+		failureCurrency(o);
+		return;  
+	}
+	var tmps = o.responseText.split(",");
+	if (tmps==null || tmps.length != 4) {
+        failureCurrency(o);
+		return;  
+	}
+
+	var rate = parseFloat(tmps[0]);
+	var displayName = tmps[1];
+	var bit = tmps[2];
+	var cartTotal = parseFloat(tmps[3]);
+
+    _currencies_rate = rate + "," + displayName + "," + bit;
+    if (cartTotal > 0) {
+		var formatCartTotal = formatPrice(cartTotal, bit);
+		if (GetE("shopping_cart_total")) {
+			GetE("shopping_cart_total").innerHTML = displayName.replace("#", formatCartTotal);
+		}
+		if (GetE("sub_total")) {			
+			GetE("sub_total").title = cartTotal;
+			GetE("sub_total").innerHTML = displayName.replace("#", formatCartTotal);
+		}
+	}
+
+
+    var spans = GetByTagName("span");
+	for (var i=0; i<spans.length; i++) {
+      parsePrice(spans[i], displayName, rate, bit);
+	}
+	for (var x=0; x<3; x++) {
+	  for (var i=0; i<spans.length; i++) {
+        priceHandle(spans[i], displayName, rate, bit, x*10);
+	  }
+	}
+  } catch (ex) {
+    failureCurrency();
+  }
+}
+
+function failureCurrency(o) {
+	window.location.reload();
+}
+
+function parsePrice(o, dsp, rate, bit) {
+	var name = o.className;
+	if (name=="default_currency") {
+	  var currency = GetE("currency");
+	  o.innerHTML=currency.options[currency.selectedIndex].text;
+	  return;
+	}
+    if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price") return;
+	var price = parseFloat(o.lang);
+	if (isNaN(price)) return;	
+	if (price < 0) return;	
+    o.innerHTML = dsp.replace("#", formatPrice(price * rate, bit));
+}
+
+function priceHandle(o, dsp, rate, bit, order) {
+    var name = o.className;
+    if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price") return;
+    var price = parseFloat(o.lang);
+    if (price>0) return;	
+	var formula = o.id;
+	if (price==(-1-order)) {
+		if (formula.indexOf("*") > 0) {
+			var fs = formula.split("*");
+			var tmpid = fs[0];
+			var tmpcount = parseInt(fs[1]);
+			var tmpprice = parseFloat(GetE(tmpid).title);
+			if (isNaN(perPrice)) {
+			  tmpprice = parseFloat(GetE(tmpid).lang);
+			  if (isNaN(tmpprice)) return;	
+			  if (tmpprice < 0) return;	
+			  tmpprice = parseFloat(getPrice(tmpprice * rate, bit))
+			}			
+            var formatTotal = formatPrice(tmpprice * tmpcount, bit);
+			o.innerHTML = dsp.replace("#", formatTotal);
+			o.title = formatTotal;
+		}
+	} else if (price==(-2-order)) {
+		var total = 0;
+		if (formula.indexOf("+") > 0) {
+			var fs = formula.split("+");			
+			var perPrice = 0;
+			for (var i=0; i<fs.length; i++) {
+				if (GetE(fs[i])) {
+					perPrice = parseFloat(GetE(fs[i]).title);
+					if (isNaN(perPrice)) {
+						perPrice = parseFloat(GetE(fs[i]).lang);
+						if (isNaN(perPrice)) continue;	
+						if (perPrice < 0) continue;	
+						perPrice = getPrice(perPrice * rate, bit);
+					}
+					total += perPrice;
+				}
+			}
+		} else {
+			total = parseFloat(GetE(formula).title);
+		}
+		var formatTotal = formatPrice(total, bit);
+		o.title = formatTotal;
+		o.innerHTML = dsp.replace("#", formatTotal);
+	} else if (price==(-3-order)) {
+        if (formula.indexOf("/") > 0) {
+			var fs = formula.split("/");
+			var tmpid = fs[0];
+			var tmpcount = parseInt(fs[1]);
+			var tmpprice = parseFloat(GetE(tmpid).title);
+			if (isNaN(tmpprice)) {
+			  tmpprice = parseFloat(GetE(tmpid).lang);
+			  if (isNaN(tmpprice)) return;	
+			  if (tmpprice < 0) return;	
+			  tmpprice = parseFloat(getPrice(tmpprice * rate, bit))
+			}	
+			var formatTotal = formatPrice(tmpprice / tmpcount, bit);
+			o.innerHTML = dsp.replace("#", formatTotal);
+			o.title = formatTotal;
+		}
+	} 
+}
+
+function chgOtherBrand(el) {
+	GetE("brand").focus();
+	if (el.value=="") return;    
+	window.location = "http://www.oversources.com/browse/b." + el.value + "/";
+}
+
+function getPrice(price, bit) {
+  return Math.round(price * Math.pow(10, bit)) / Math.pow(10, bit);
+}
+
+function formatPrice(price, bit) {
+    if (bit < 1) {
+		var tmpPrice = Math.round(price) + "";
+		var temp = "";
+		while (tmpPrice.length > 3) {
+			temp = "," + tmpPrice.substring(tmpPrice.length - 3) + temp;
+			tmpPrice = tmpPrice.substring(0, tmpPrice.length - 3);
+		}
+		return tmpPrice + temp;
+	}
+	var dspPrice = Math.round(price * Math.pow(10, bit)) + "";
+	if (dspPrice.isBlank()) {
+		return "0." + repeat("0", bit);
+	}
+	var len = dspPrice.length;
+	if (len <= bit) {
+		return "0." + repeat("0", bit - len) + dspPrice;
+	}
+    
+    var index = len - bit;
+	var prePrice = dspPrice.substring(0, index);
+	var tmp = "";
+	while (prePrice.length > 3) {
+		tmp = "," + prePrice.substring(prePrice.length - 3) + tmp;
+		prePrice = prePrice.substring(0, prePrice.length - 3);
+	}
+	return prePrice + tmp + "." + dspPrice.substring(index);
+}
+
+function repeat(s, count) {
+    if (s==null) return null;
+	if (count < 1) return "";
+	var tmp = "";
+	for (var i=0; i<count; i++) {
+        tmp += s;
+	}
+	return tmp;
+}
+
+function showPrice(price, rate, displayName, bit) {
+    var dspPrice = displayName.replace("#", formatPrice(price * rate, bit));
+    return '<span lang="'+price+'" class="currently_price">'+dspPrice+'</span>';
+}
+
+function showShippingCost(price, rate, displayName, bit) {
+	if (price==0) {
+		return '<span class="unavailable">Unavailable</span>';
+	}
+    var dspPrice = displayName.replace("#", formatPrice(price * rate, bit));
+    return '<span lang="'+price+'" class="currently_price">'+dspPrice+'</span>';
+}
+-->
+</script> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="logo"><a href="http://www.oversources.com/"><img border="0" src="http://www.oversources.com/images/oversources.jpg" width="200" height="80" alt="China Electronics Wholesaler"></a></td>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="title"><h1>China Electronics Wholesaler</h1></td>
+    <td class="account" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+	    <td class="diagonal"><img border="0" src="http://static.oversources.com/v1.1/images/diagonal.jpg" width="25" height="25"></td>
+	    <td class="space">&nbsp;</td>	 
+      
+        <td><span class="icon">»</span><a href="http://www.oversources.com/account/login">Sign In</a></td>
+		
+		<td><span class="icon">»</span><a href="http://www.oversources.com/account/register">Sign Up</a></td>
+		
+	  
+		<td><a href="http://www.oversources.com/shopping/check_out"><img class="checkout" src="http://static.oversources.com/v1.1/images/check-out.gif" width="28" height="13" alt="Check Out">Check Out</a></td>
+	  </tr>
+	</tbody></table>
+	</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+		<td class="description">Wholesale Consumer Electronics, Car Audio, Digital Cameras, Car Electronics, MP3 Players, Bluetooth Products, MP4 Players, Spy Cameras, Security Products and Electronic Gadgets from China. Selling small lots to oversea buyers at low factory prices!</td>
+		<td class="shopping">
+   
+          <div id="mycart"><a href="http://www.oversources.com/shopping/shopping_cart">0 Items(s)</a>(<span id="shopping_cart_total"><span lang="0.0" class="currently_price">US$0.00</span></span>)</div>
+
+          <table id="currencies" border="0" cellspacing="0" cellpadding="0">
+		    <tbody><tr>
+			  <td id="currency_prompt">Currencies: </td>
+			  <td><select id="currency" name="currency" onchange="chgCurrency(this);"><option value="USD" selected="selected">USD</option><option value="AUD">Australian Dollar</option><option value="CAD">Canadian Dollar</option><option value="CHF">Swiss Franc</option><option value="EUR">Euro</option><option value="GBP">British Pound</option><option value="HKD">Hong Kong Dollar</option><option value="JPY">Japanese Yen</option><option value="SGD">Singapore Dollar</option></select></td>
+			</tr>
+		  </tbody></table>		  
+		</td>
+	  </tr>
+	</tbody></table></td>
+  </tr>
+</tbody></table></td>
+  </tr>
+</tbody></table>
+<div class="menuside">
+<table class="menu" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="search"><form name="_search" method="get" action="http://www.oversources.com/product/search">
+	  Search 
+	  <input type="hidden" name="action" value="result">
+	  <input class="input" type="text" name="q">
+	  <input class="button" type="submit" value="GO">	 
+	</form></td>    
+	<td class="space">&nbsp;</td>
+
+	  
+      
+	    <td class="item"><a href="/list/hot.shtml">Featured Products</a></td>
+	  
+
+	        
+		<td class="interval">•</td>
+	  
+      
+	    <td class="item"><a href="/list/specials.shtml">Special Promotion</a></td>
+	  
+
+	        
+		<td class="interval">•</td>
+	  
+      
+	    <td class="item"><a href="/list/new.shtml">New Arrivals</a></td>
+	  
+
+	        
+		<td class="interval">•</td>
+	  
+      
+	    <td class="item"><a href="/list/coming.shtml">Coming Soon</a></td>
+	  
+
+	        
+		<td class="interval">•</td>
+	  
+      
+	    <td class="item"><a href="http://www.oversources.com/static/volume_purchase.shtml">Volume Purchase</a></td>
+	  
+
+	<td class="right">&nbsp;</td>
+  </tr>
+</tbody></table>
+</div></td>
+  </tr>
+  <tr>
+	<td id="navigation">
+<div class="navcontent">
+  <a class="first" href="http://www.oversources.com/">Home</a>&gt;&gt;<span>Privacy Notice</span>
+</div></td>
+  </tr>
+  <tr>
+    <td id="content"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td id="left" valign="top">
+
+
+
+<table class="item" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="title"><a href="http://www.oversources.com/category/">Wholesale Categories</a></td>
+  </tr>
+  <tr>
+    <td class="body">
+	  <table class="category_item" border="0" cellspacing="0" cellpadding="0"><tbody><tr id="mp3_mp4_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.mp3_mp4_players/">MP3/MP4 Players &amp; Accessories</a></td></tr><tr id="computer_hardware"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.computer_hardware/">Computer Hardware</a></td></tr><tr id="dvd_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.dvd_players/">DVD Players</a></td></tr><tr id="gps_devices"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.gps_devices/">GPS &amp; Accessories</a></td></tr><tr id="tv_monitors"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.tv_monitors/">TV &amp; Monitors</a></td></tr><tr id="bluetooth"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.bluetooth/">Bluetooths</a></td></tr><tr id="digital_imaging"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.digital_imaging/">Digital Imaging</a></td></tr><tr id="Electronic_gadgets"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.Electronic_gadgets/">Electronic Gadgets</a></td></tr></tbody></table>
+	</td>
+  </tr>
+  <tr>
+    <td><img border="0" height="1" width="158" src="http://static.oversources.com/v1.1/images/blank.gif"></td>
+  </tr>
+</tbody></table>
+
+
+<table class="item" border="0" cellspacing="0" cellpadding="0">
+  
+  <tbody><tr>
+    <td class="title">Browse By Features</td>
+  </tr>
+  
+  <tr>
+    <td class="body">
+	<div id="brand">
+	  <ul>
+	
+	    <li class="row0"><a href="http://www.oversources.com/browse/b.audio_video/">Audio/Video</a></li>
+	
+	    <li class="row1"><a href="http://www.oversources.com/browse/b.car_electronic/">Car_Electronic</a></li>
+	
+	    <li class="row0"><a href="http://www.oversources.com/browse/b.home_electronic/">Home_Electronic</a></li>
+	
+	    <li class="row1"><a href="http://www.oversources.com/browse/b.mobile/">Mobile</a></li>
+	
+	    <li class="row0"><a href="http://www.oversources.com/browse/b.spy_electronic/">Spy_Electronic</a></li>
+	
+	    <li class="row1"><a href="http://www.oversources.com/browse/b.wireless/">Wireless</a></li>
+	
+	  </ul>
+	</div>
+  
+	</td>
+  </tr>
+</tbody></table>  
+   
+
+  
+             
+
+		  
+             
+
+<table class="item" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="title"><a href="http://www.oversources.com/service/faqs/">Helpful Information</a></td>
+  </tr>
+  <tr>
+    <td class="body">
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e829bd1cb004b.shtml">Why Should I Choose Kindbridge?</a></div>
+	  <div class="dspcontent">What’s So Good About Kindbridge? I Saw Similar Products Somewhere Else For Less Anyway!  Oversources.com is one of very few companies that offer immediate online ordering for direct delivery of ...</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e85733b010e8df8c1e922db.shtml">How to Find a Supplier in China?</a></div>
+	  <div class="dspcontent">Suppose you come up with a product idea or think you have market channels for certain products, and you want to find a supplier in China because of the low product development cost and low production ...</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e8293a6d4004a.shtml">Tell Me About Kindbridge - Company Info</a></div>
+	  <div class="dspcontent">What is Kindbridge? Are you, like, Chinese, or what?   Kindbridge is a Chinese based general trading and wholesale company located in the city of Shenzhen, China.  Almost all of our business is done t...</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e82587ac5003e.shtml">Visiting kindbridge</a></div>
+	  <div class="dspcontent">Can I visit you? I want to meet the wonderful people of Kindbridge!  
+     If you’re in China and you want to come and see us, let us know. (You can from    customer service     page to send us...</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e85733b010e8debe40f22da.shtml">How to Import from China?</a></div>
+	  <div class="dspcontent">You may be able to find a new business opportunity or profit growth by directly importing products from China. It can be complicated, but it can pay off in both immediate profit and long-term success....</div>
+  
+	</td>
+  </tr>
+</tbody></table>
+
+
+		  
+             
+
+<table class="item" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="title"><a href="http://www.oversources.com/content/knowledge_base/">Knowledge Base</a></td>
+  </tr>
+  <tr>
+    <td class="body">
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/52917542112778d101113f8673fd00b5.shtml">Introduction to How GPS Receivers Work</a></div>
+	  <div class="dspcontent">Our ancestors had to go to pretty extreme measures to keep from getting lost.</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/52917542112778d10111343aa1490096.shtml">Introduction to How Bluetooth Works</a></div>
+	  <div class="dspcontent">There are lots of different ways that electronic devices can connect to one another.</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/529175421113614001112698bf5a010a.shtml">How MP3 Players work?</a></div>
+	  <div class="dspcontent">The MP3 player is the most recent in an evolution of music formats that have helped consumers enjoy their tunes.</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/529175421113614001111ddf27420044.shtml">What is personal computer?</a></div>
+	  <div class="dspcontent">A small, relatively inexpensive computer designed for an individual user.</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/5291754211136140011127379e6b0110.shtml">About Digital camera.</a></div>
+	  <div class="dspcontent">Instead of film, a digital camera has a sensor that converts light into electrical charges.</div>
+  
+	</td>
+  </tr>
+</tbody></table>
+
+        
+</td>
+    <td id="mainarea" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td id="workarea"><div id="static_content">	  
+	     <font face="Verdana"><font size="4">Privacy Notice</font>&nbsp; </font>
+<p><font face="Verdana">Kindbridge International Ltd. ( hereinafter Kindbridge) values the privacy of our vistors/customers and takes every known precaution to safe guard the information we collect from unauthorized use. The following is a detailed explanation of the privacy policy for Kindbridge.</font></p>
+<p><font face="Verdana"><strong>WHAT INFORMATION DO WE COLLECT?</strong> </font></p>
+<p><font face="Verdana">Kindbridge believes it is important for you to know what types of information we collect when you use our site. We employ various methods for collecting information. To begin with, we use “cookies” that are needed to compile aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card numbers, bank accounts, social security numbers, home address, email address and the like. This is the type of information that most people consider private and deem the most important to protect from unauthorized access. Non-personally identifiable information most often consists of things such as your search preferences, the types of products you have bought, how many times you have visited a particular web site, etc. This type of information is usually associated with a particular computer or IP address but not with a particular person. "Cookies" are pieces of information generated by a Web server and stored in the user’s computer, ready for future access. Each time you access our web site; our server finds the relevant cookie on your computer. The information contained within that cookie is then used to customize your experience with our site. The following is a list of the information we collect: Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password.</font></p>
+<p align="left"><font face="Verdana"><strong>WHY DO WE COLLECT THIS INFORMATION?</strong> </font></p>
+<p><font face="Verdana">We use this information in order to serve the needs of our customers. We need to know who you are in order to verify the credit card information you have sent us. We collect several pieces of personal information from you in order to complete this verification process. The non-personal information that we collect from you is used in order to offer you better service and to make your experience with our site more enjoyable. Any information that we may inadvertently collect from you, that does not serve one of these reasons stated above, is immediately purged from our system.<br><br></font></p>
+<p align="left"><strong><font face="Verdana">HOW IS YOUR INFORMATION PROTECTED? </font></strong></p>
+<p><font face="Verdana">We use the latest in encryption technology, including 128 bit SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our information storage areas. We maintain a rigorous hiring process to screen out potential employees with criminal backgrounds. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system. When an employee is terminated or is no longer with the company, we change the access codes that the employee used to access any customer accounts. Account login sessions are terminated after three failed login attempts; all terminated login sessions are logged for follow-up. Passwords must contain at least six characters, one of which is nonalphanumeric. Passwords are case sensitive and must be updated every 90 days. Unused customer accounts, those that have shown no activity for 6 months are purged from our system. </font></p>
+<p align="left"><strong><font face="Verdana">WHO HAS ACCESS TO MY INFORMATION? </font></strong></p>
+<p><font face="Verdana">Only those employees that are responsible for handling your account have access to your information. Additionally, employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work. In order to process your credit card we have to consult with an out side credit card processing company. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business. The processing companies will have access to your credit card information, billing address, name, and possibly your telephone number. The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in. Additionally, judicial requests by a duly authorized court will require us to divulge certain information regarding your account should that situation arise. Finally, should our company ever be bought or sold, your account information would then become the property of the new owner/entity. </font></p>
+<p align="left"><strong><font face="Verdana">CAN I CORRECT OR REMOVE INFORMATION FROM YOUR SITE? </font></strong></p>
+<p><font face="Verdana">You always have the option to view your account to make sure the information we have collected from you is indeed correct. You also have the option of removing any information from your account that you wish to keep private. However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested. We recommend, that you contact us first to discuss which information you may remove without interrupting the quality of service we intend to provide for you. </font></p>
+<p align="left"><strong><font face="Verdana">CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED? </font></strong></p>
+<p><font face="Verdana">You have the option of disabling your computer’s ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for. </font></p>
+<p align="left"><font face="Verdana"><strong>NOTICE OF CHANGES TO THIS PRIVACY POLICY</strong> </font></p>
+<p><font face="Verdana">We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate. </font></p>
+		</div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+	<td id="navigation">
+<div class="navcontent">
+  <a class="first" href="http://www.oversources.com/">Home</a>&gt;&gt;<span>Privacy Notice</span>
+</div></td>
+  </tr>
+  <tr>
+    <td id="footer">
+<div id="footlayer"><table cellspacing="0" cellpadding="0" width="100%" border="0">
+    <thead>
+        <tr>
+            <td width="20%">CUSTOMER SERVICE</td>
+            <td width="20%">SHOPPING HELP</td>
+            <td width="20%">MY ACCOUNT</td>
+            <td width="20%">COMPANY INFO</td>
+            <td width="20%">TOOLS &amp; RESOURCES</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+            <div>
+            <ul>
+                <li><a href="http://www.oversources.com/static/contact_us.shtml">Contact Us</a> </li>
+                <li><a href="http://www.oversources.com/service/rma">RMA Request</a> </li>
+                <li><a href="http://www.oversources.com/service/customer_service/find_item">Looking for a item</a> </li>
+                <li><a href="http://www.oversources.com/service/customer_service">Send Us a Message</a> </li>
+            </ul>
+            </div>
+            </td>
+            <td>
+            <div>
+            <ul>
+                <li><a href="http://www.oversources.com/service/faq_display/5291754210da85370110dde2741401ab.shtml">Shopping Process</a> </li>
+                <li><a href="http://www.oversources.com/static/return_policy.shtml">Return Policy</a>&nbsp; </li>
+                <li><a href="http://www.oversources.com/service/faqs/">FAQs</a> </li>
+                <li><a href="http://www.oversources.com/content/knowledge_base/">Knowledge Base</a> </li>
+            </ul>
+            </div>
+            </td>
+            <td>
+            <div>
+            <ul>
+                <li><a href="http://www.oversources.com/account/login">Login/Register</a> </li>
+                <li><a href="http://www.oversources.com/account/index">My Account</a> </li>
+                <li><a href="http://www.oversources.com/account/my_order">Order History</a> </li>
+                <li><a href="http://www.oversources.com/shopping/wish_list">My Wish list</a> </li>
+            </ul>
+            </div>
+            </td>
+            <td>
+            <div>
+            <ul>
+                <li><a href="http://www.oversources.com/static/about_us.shtml">About Us</a> </li>
+                <li><a href="http://www.oversources.com/content/list/news/">Wholesale News</a> </li>
+                <li><a href="http://www.oversources.com/content/customer_comments/">Customer Comments</a> </li>
+            </ul>
+            </div>
+            </td>
+            <td>
+            <div>
+            <ul>
+                <li><a href="http://www.oversources.com/service/sitemap/">Site Map</a> </li>
+                <li><a href="http://www.oversources.com/download/">Downloads</a> </li>
+                <li><a href="http://www.oversources.com/product/search">Search</a> </li>
+                <li><a href="http://www.oversources.com/content/links.shtml">Links</a> </li>
+            </ul>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p align="center"><img height="21" alt="visa" src="/resources/Image/Certificate/visa.gif" width="37"><img height="21" alt="mastercard" src="/resources/Image/Certificate/mastercard.gif" width="37"><img alt="discover" src="/resources/Image/Certificate/discover.gif"><img height="21" alt="echeck" src="/resources/Image/Certificate/echeck.gif" width="37"><img height="21" alt="amex" src="/resources/Image/Certificate/amex.gif" width="37"><img height="21" alt="paypal" src="/resources/Image/Certificate/paypal.gif" width="57"><a href="https://www.paypal.com/verified/pal=paypal%40chinabatterys.com"><img height="70" alt="PayPal Verified" src="/resources/Image/Certificate/paypalverifyseal.gif" width="70" border="0"></a></p></div>
+<div id="copyright">
+
+
+      
+	    <span class="item"><a href="http://www.oversources.com/static/policies.shtml">Policies</a></span>
+	  
+	    <span class="interval">|</span>
+
+
+      
+	    <span class="item"><a href="http://www.oversources.com/static/privacy_notice.shtml">Privacy Notice</a></span>
+	  
+	    <span class="interval">|</span>
+
+   Copyright © 2006 China Electronics Wholesaler Inc. All rights reserved. 
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+try {
+  _uacct = "UA-938608-1";
+  urchinTracker();
+} catch (ex) {}
+-->
+</script>
+</td>
+  </tr>
+</tbody></table>
+
+</body></html>
