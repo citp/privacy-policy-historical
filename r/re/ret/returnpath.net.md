@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224182106id_/http%3A//www.returnpath.net/company/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2007-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070312084927id_/http%3A//www.returnpath.net/company/privacyPolicy.php) for the most accurate reproduction.*
 
 # Return Path Solutions for Increased Email Delivery, Performance
 
@@ -150,4 +150,4 @@ Phone: 212-905-5500
 Fax: 212-905-5501
 
 [Company](https://web.archive.org/company/) | [Delivery Assurance ](http://www.senderscore.com/) | [Email List Quality](https://web.archive.org/listquality/) | [Customer Acquisition](http://www.postmasternetwork.net/) | [Strategic Solutions ](https://web.archive.org/strategic/) | [Client Login](https://web.archive.org/login/)  
-Copyright 2000-2006 Return Path, Inc., All Rights Reserved. Return Path is a registered trademark of Return Path, Inc.
+Copyright 2000-2007 Return Path, Inc., All Rights Reserved. Return Path is a registered trademark of Return Path, Inc.
