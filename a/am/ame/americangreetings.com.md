@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212182653id_/http%3A//www.americangreetings.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2007-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070313211308id_/http%3A//www.americangreetings.com/new_warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com
 
