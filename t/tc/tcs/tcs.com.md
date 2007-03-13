@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211025623id_/http%3A//www.tcs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2007-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070313204724id_/http%3A//www.tcs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # TCS - Privacy Policy
 
