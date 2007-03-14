@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501112656id_/http%3A//www.mastercard.com/au/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314145756id_/http%3A//www.mastercard.com/au/general/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MasterCard® Australia
 
