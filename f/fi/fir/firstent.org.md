@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstent.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923111556id_/https%3A//www.firstent.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstent.org privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314045238id_/http%3A//www.firstent.org/site/privacy.html) for the most accurate reproduction.*
 
 # First Entertainment Credit Union - Privacy Policy
 
@@ -22,7 +22,7 @@ The Credit Union and our affiliate, Media Benefits Corporation, understand the i
 **Section I  
 Collection and Use of Information**
 
-During the course of business, we collect nonpublic information ("information") about you from the following sources.
+During the course of business, we collect nonpublic information ("information") about you from the following sources:
 
   1. Information that you provide to us in person, in writing or through the Internet;
   2. Information obtained through your transactions and experiences with us and our affiliates;
