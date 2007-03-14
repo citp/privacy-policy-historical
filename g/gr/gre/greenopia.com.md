@@ -1,74 +1,50 @@
-> *The following text is extracted and transformed from the greenopia.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119191148id_/http%3A//www.greenopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenopia.com privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314205441id_/http%3A//greenopia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenopia
 
-It is our policy never to sell your information, spam you, or otherwise misuse your information or violate your privacy. We despise spam as much as the next person and wouldn’t wish it on our worst enemies. Here are the details of our privacy policy. 
+Greenopia™ / Green Media Group, LLC PRIVACY POLICY  
+Effective Date: April 2006
 
-This is our privacy policy for [http://www.greenopia.com](http://www.greenopia.com/ "http://www.greenopia.com"). It is effective from the 12th of April 2006
+At Greenopia, we respect your privacy and will never sell, rent, trade, or otherwise share your personal information to anyone without your consent. We will never spam you.
 
-### Contact Information
+ **Personal Information**
 
-Our homepage on the Internet is located at: [http://www.greenopia.com](http://www.greenopia.com/ "http://www.greenopia.com")
+Greenopia collects user submitted information such as name, email address, and zipcode to authenticate users, communicate with users on technical issues, and appropriately provide regional information. 
 
-Our mailing address is:  
-Greenopia  
-P.O. Box 1706  
-Santa Monica, CA 90406-1706  
-USA
+If a user provides complete address information it is used solely to enable a smarter connection for directions for GoogleMaps, and will not be used or published in any other way. 
 
-You may contact us by e-mail at [info@greenopia.com](mailto:info@greenopia.com)  
-Or by phone at (310) 917-1100.
+Greenopia also collects other profile data including but not limited to:  personal interests and statements, so that other users reading your comments and reviews may more accurately interpret submitted content. Members' pictures and chosen screen names are displayed to users and visitors in order to facilitate interaction. This information is submitted voluntarily and is not required to use the site. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-### Opt-In / Opt-Out
+Greenopia also collects demographic data such as age, gender for use in our understanding who our user base is, which will only be used in the aggregate for information we supply to our advertisers, or to provide more personally relevant information to you over time. 
 
-If you wish to either opt-in or opt-out of the use of your information, you may do so by contacting us at the email address above.
+Greenopia also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type from users and visitors to the site. This data is used to track usage of the website and improve services. This aggregated data may be shared with third parties to provide more relevant and targeted advertisements or services to users.
 
-### Dispute Resolution
+ **E-mail Communication**
 
-Any disputes will be handled by a customer service representative who is available to promptly correct any errors.
+A valid e-mail address is required to register with the site. Greenopia will not e-mail you without your consent. Users may choose to subscribe to a monthly email newsletter and to receive private messages from other users. At no time will your e-mail address be shared with a third party without your consent. Users can unsubscribe to newsletters at any time. 
 
-### Data Collection
+**Cookies**
 
-When visiting Web sites, certain information about you and your computer can sometimes be collected. This section explains what information Greenopia collects and how it is used.
+Greenopia will set a cookie when you select a region, to set as your default region.  Greenopia will set a cookie that identifies you when you log in to the site, as a registered user. This is necessary to maintain your preferences and to prevent you from having to log in to every page. You can always change your default region in your profile and it will reset that cookie. 
 
-We collect the following information about our visitors:
+**Content**
 
-  * user.name data
-  * user.bdate data
-  * user.gender data
-  * user.home-info data
-  * user.business-info data
-  * dynamic.clickstream data
-  * dynamic.http data
-  * dynamic.searchtext data
-  * dynamic.interactionrecord data
-  * dynamic.cookies data
-  * dynamic.miscdata data
+All content posted to the site in forums, public profiles, comments on features, and reviews of listings is publicly available and may be accessed by non-members.  Content posts can only be by registered members. 
 
+**Third Party Privacy Policies**
 
+This site contains links to other sites. Greenopia is not responsible for the privacy practices or the content of such web sites. When linking to another site, a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on Greenopia.
 
-We collect this information for the following reasons
+ **Security**
 
-  * Completion and Support of Current Activity
-  * Web Site and System Administration
-  * Research and Development
-  * Affirmative Customization
-  * Pseudonymous Analysis
-  * Individual Analysis
-  * Individual Decision
-  * Contacting Visitors for Marketing of Services or Products
-  * Historical Preservation
+This site has standard security measures in place to protect the loss, misuse and alteration of the information under our control. Greenopia takes standard precautions to insure that member account information is kept private. We use commercially reasonable measures (and not necessarily the latest or most advanced technology) to protect member information that is stored within our database.  Greenopia does not guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time.
 
-Collecting your email address will allow us to communicate with you
+ **General**
 
+Except as otherwise described in this privacy statement, Greenopia will not knowingly disclose personal information to any third-party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process, whether or not a response is required by applicable law; (2) to enforce the Greenopia Terms of Use Agreement or to protect our rights; or (3) to protect the safety, security and livelihood of members of the public and users of the service. Greenopia reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Greenopia or substantially all of its assets to that successor in interest.
 
+ **Changes**
 
+We reserve the right to make changes to this privacy policy, which will be posted here.
 
-### Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it
-
-Our Web site uses the following cookies: name="PHPSESSID" value="session id" domain="greenopia.com" path="*" This is used for determining which user you are to the web site system.
-
-  
-
+Published on [greenopia.com](http://www.greenopia.com/)
