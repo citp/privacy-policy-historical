@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231115215id_/http%3A//www.zones.com/cgi-bin/zones/site/statics/static_page.html%3Fname%3Daboutus_privacy%26zone%3Dcorp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316063402id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Daboutus_privacy%26zone%3Dzbs) for the most accurate reproduction.*
 
 # Zones: Connecting Businesses and Technology
 
@@ -72,4 +72,4 @@ Email: [customerservice@zones.com](mailto:customerservice@zones.com)
 Hours: M-F: 6 a.m. to 5 p.m. PST  
 
 
-Or please review our complete [Contact List](http://www.zones.com/cgi-bin/zones/site/statics/static_page.html?name=cs_contactus)
+Or please review our complete [Contact List](http://www.zones.com/site/statics/static_page.html?name=cs_contactus)
