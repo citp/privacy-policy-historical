@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103161706id_/http%3A//www.masn.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316071000id_/http%3A//www.masn.tv/privacypolicy) for the most accurate reproduction.*
 
 # MASN - Mid-Atlantic Sports Network
 
