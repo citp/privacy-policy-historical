@@ -1,28 +1,13 @@
-> *The following text is extracted and transformed from the citimortgage.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401135951id_/http%3A//www.citibank.com/privacy%3Ftd%3Did1796919%7C1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citimortgage.com privacy policy that was archived on 2007-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070317004134id_/http%3A//www.citimortgage.com/Mortgage/Home.do%3Fpage%3Dprivacy%26td%3Did19103814%7C1) for the most accurate reproduction.*
 
-# Citi - Privacy
+# CitiMortgage.com – Home Mortgage Loans - Help : Privacy
 
-| 
+Our goal is to maintain your trust and confidence when handling personal information.
 
-Your privacy is important to Citibank. This is why, as a member of Citigroup, we are committed to the Citigroup Privacy Promise for Consumers, which is as follows: 
+## YOU HAVE CHOICES
 
-**Citigroup Privacy Promise for Consumers**
+As a Citigroup customer, you have the opportunity to make choices about how personal information about you may be shared. As you consider this, we encourage you to make choices that enable us to provide you with quality products and services that help you meet your financial needs and objectives.
 
-While information is the cornerstone of our ability to provide superior service, our most important asset is our customers' trust. Keeping customer information secure, and using it only as our customers would want us to, is a top priority for all of us at Citigroup. Here then, is our promise to our individual customers: 
+## SECURITY OF PERSONAL INFORMATION
 
-  1. We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us. 
-  2. We will limit the collection and use of customer information to the minimum we require to deliver superior service to our customers, which includes advising our customers about our products, services and other opportunities, and to administer our business. 
-  3. We will permit only authorized employees, who are trained in the proper handling of customer information, to have access to that information. Employees who violate our Privacy Promise will be subject to our normal disciplinary process. 
-  4. We will not reveal customer information to any external organization unless we have previously informed the customer in disclosures or agreements, have been authorized by the customer, or are required by law. 
-  5. We will always maintain control over the confidentiality of our customer information. We may, however, facilitate relevant offers from reputable companies. These companies are not permitted to retain any customer information unless the customer has specifically expressed interest in their products or services. 
-  6. We will tell customers in plain language initially, and at least once annually, how they may remove their names from marketing lists. At any time, customers can contact us to remove their names from such lists. 
-  7. Whenever we hire other organizations to provide support services, we will require them to conform to our privacy standards and to allow us to audit them for compliance. 
-  8. For purposes of credit reporting, verification and risk management, we will exchange information about our customers with reputable reference sources and clearinghouse services. 
-  9. We will not use or share - internally or externally - personally identifiable medical information for any purpose other than the underwriting or administration of a customer's policy, claim or account, or as disclosed to the customer when the information is collected, or to which the customer consents. 
-  10. We will attempt to keep customer files complete, up-to-date, and accurate. We will tell our customers how and where to conveniently access their account information (except when we're prohibited by law) and how to notify us about errors which we will promptly correct. 
-
-We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct our business in a manner that fulfills our Promise in the many nations in which we do business. 
-
-Please also read [Citibank's Internet Privacy Policy](https://web.archive.org/web/20040402112934id_/http://www.citibank.com/privacy/privacy.htm), which outlines our privacy policy for our Internet site users.
-
-| 
+The security of personal information about you is our priority. We protect personal information we collect about you by maintaining physical, electronic, and procedural safeguards that meet or exceed applicable law. We train our employees in the proper handling of personal information. Whenever we use other companies to provide services for us, we require them to protect the confidentiality of personal information they receive.
