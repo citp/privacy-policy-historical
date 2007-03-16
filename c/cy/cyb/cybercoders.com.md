@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008221653id_/http%3A//cybercoders.com/privacy.aspx%3Fad%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316130107id_/http%3A//www.cybercoders.com/privacy.aspx) for the most accurate reproduction.*
 
 # CyberCoders is the premier recruiting & job search firm nationwide. Search hundreds of jobs -- engineering, executive, financial, accounting & sales.
 
@@ -14,7 +14,8 @@ CyberCoders, Inc. and its affiliates ("CyberCoders") are committed to protecting
 >  Is Personally-Identifiable Information Disclosed to Third   
 >  Links to Third Party Sites  
 >  How Can I Access, Change, and/or Delete Information?  
->  Security Children's Online Privacy Protection  
+>  Security  
+>  Children's Online Privacy Protection  
 >  Consent  
 >  Contact Our Privacy Department
 
