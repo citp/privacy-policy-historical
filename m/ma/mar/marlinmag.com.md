@@ -1,53 +1,171 @@
-> *The following text is extracted and transformed from the marlinmag.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404112732id_/http%3A//www.marlinmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marlinmag.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316172031id_/http%3A//www.marlinmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
-# marlin fishing saltwater - Marlin Magazine
+# Marlin - Privacy Policy
 
-This web site is owned and controlled by World Publications, LLC, 460 N. Orlando Ave, Suite 200 Winter Park FL 32789, USA.
+**Privacy Policy**
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. World Publications, LLC does periodically collect information from and about our users. Except as set forth within this Privacy Policy and other published guidelines, we do not release personally identifiable information (as described below) about users of this site without their permission.
+This website ("Company Website") is operated by Bonnier Corporation. ("Company") and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded, sub domains, micro sites, and successor sites). This policy does not cover information collected on sites linked to or from the Company's Websites.
 
-**Effect of This and Other Related Documents:**
+We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you check back often to determine any changes to this Privacy Policy so that you understand our current privacy practices.  Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
-This Privacy Policy, together with other published guidelines, governs your interaction with this Site, and your registration for, and use of World Publications LLC's online services.
+**PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO THE COMPANY'S WEBSITES AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE.**
 
-**Periodic Policy Changes:**
+The Company's address is: 
 
-Please note that World Publications, LLC reviews its privacy practices from time to time (e.g., to track technology and/or legal changes), and that those practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our privacy policy.
+460 North Orlando Avenue, Suite 200   
+Winter Park, FL 32789   
+United States of America 
 
-At World Publications, LLC web sites, you can enter contests, vote in polls, subscribe to our magazines, sign-up for services such as our online e-newsletters, or participate in our online forums and communities. In order to participate in these services, we may ask you to provide us with certain types of personally identifiable information.
+We may be reached via email at privacy@worldpub.net 
 
-**Personally Identifiable Information:**
+**PARENTS AND CHILDREN UNDER THE AGE OF 13:   **
 
-The types of personally identifiable information that may be collected at these pages LLC include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in, and use of various products, programs, and services. The names and contact information of persons who visit our Web sites are added to our database, so that, for example, they may be contacted in the future regarding World Publications, LLC's products, services or future opportunities. Such contact may occur by e-mail, telephone or mail, as World Publications, LLC deems appropriate.
+**THIS SITE IS NOT MEANT FOR CHILDREN UNDER THE AGE OF 13.   CHILDREN SHOULD GET THEIR PARENTS PERMISSION BEFORE VISITING THE SITE AND SHOULD NOT PROVIDE BONNIER CORPORATION ANY PERSONALLY IDENTIFIABLE INFORMATION.  SINCE BONNIER CORPORATION DOES NOT DETERMINE THE AGE OF A WEB SITE VISITOR WITHOUT PROVIDING PERSONALLY IDENTIFIABLE INFORMATION, IT IS THE RESPONSIBILITY OF THE CHILD AND PARENTS TO MAKE SURE THE CHILD IS NOT VIEWING THE WEB SITE WITHOUT PERMISSION OF THE PARENT.  ANY PERSOANLLY IDENTIFIABLE INFORMATION ENTERED SHOULD ALWAYS BE DONE BY PERSONS OVER THE AGE OF 18. **
 
-World Publications, LLC provides notice to users that personally identifiable (i.e., non-aggregated) information will be collected during the web-browsing process; this Privacy Policy also serves as notice that such information is collected under those circumstances.
+**SHOULD YOU BE MADE AWARE OF ANY INFORMATION BEING SENT BY BONNIER CORPORATION TO A MINOR, PLEASE CONTACT THE COMPANY TO HAVE THIS INFORMATION REMOVED.**
 
-World Publications, LLC does not provide user information to third parties. 
+**Introduction**
 
-**Non-personally-identifiable information** :
+It is the goal of our Websites to provide information around individual interests, at the same time protecting your privacy. The following privacy policy describes the information we collect, how we use it and what rights you have to it. By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Company Website.
 
-When users come to our Site, we may collect certain non-personally identifiable information such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Road Runner, etc.). Such information helps us identify popular content, and assists us in determining the effectiveness of our various promotional activities.
+**Information We Collect**
 
-We aggregate data on users' home servers for internal review purposes, in order to build higher quality, more useful online services and better products, e.g., by performing statistical analyses of the collective characteristics and behavior of our users. Following such internal review, such aggregated information is then superseded by more recent information.
+The Company collects personal information from you at on the Company's Websites when you voluntarily submit it to us.  The Company requests personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, home address, work address, landline phone number, cell phone number, credit card number, and other personal preferences such as  preferred brands, wish list, other products and services purchased, income and education level, interests, and instant messenger information).  Following are identifiers that permit the physical or online contacting of a specific individual when you:
 
-**Lack of World Publications, LLC Responsibility For Third Party Content On Site:**
+  * Subscribe to receive email newsletters or other correspondence; 
+  * Subscribe to receive print or digital versions of one of the Company's magazines; 
+  * Complete a request, registration, survey, application or other form; 
+  * Request information on a product or service from us or from one of our vendors, suppliers or other agents; 
+  * Submit any content or materials to this Website; 
+  * Participate in a contest, sweepstakes, or any form of promotional activity sponsored by the Company, affiliate or third party. 
+  * Request materials from the Company or one of it's affiliates; and/or 
+  * Request e-mail, fax, mail or telephone support or services. 
 
-World Publications, LLC cannot and does not control the acts of the users of its web site's services or monitor the accuracy of postings by such users. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, or other forum or public area of this site, that information might be collected, circulated, and used by others.
 
-In the event that you encounter any user who is improperly collecting or using information about you or other users, please e-mail [info@worldpub.net.](mailto:info@worldpub.net)
 
-**Requesting Available Information:**
+You will be asked for your credit card information if you subscribe to one or more of the Company's magazines or buy any other product from this Site. Your credit card information, along with the personal identifying information you submit, is transferred to and used by third party fulfillment and financial institutions to verify the credit card numbers, to authorize the processing of the transaction, and fulfill the subscription or product orders. Be sure to review all privacy policies published by our third party service providers and contact them directly if you have questions as they may have privacy terms that differ from The Company's Privacy Policy. 
 
-If you want to find out what information World Publications, LLC has in its database about you, please write World Publications, LLC at the address aboveor e-mail [info@worldpub.net.](mailto:info@worldpub.net) Please include your name, e-mail address, and other information in the same format that you originally supplied to World Publications, LLC, so we can be more certain of matching your request to the correct information.
+The Company's Websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored by one or more third parties. By virtue of a third party sponsorship, these organizations may obtain personally identifiable information that you voluntarily submit.  The Company has no control over the third-party sponsors' use of this information. Be sure to review all privacy policies published by these third parties and contact them directly if you have questions as they may have privacy terms that differ from The Company's Privacy Policy. 
 
-**Personally-Identifiable Information/Opt-Out Option:**
+The Company also collects non-personally-identifiable information from your Web browser to determine aggregated trends and usage statistics (including, but not limited to, number of visitors, time spent on the Website, browser type and version, pages requested, and pages visited),  for purposes of site administration and to compile aggregate information about usage of the Website.  The non-personally-identifiable information that is collected will not permit individual identification, meaning you will remain anonymous.  Personally identifiable information is obtained if you elect to provide us with this information during your visit to a Company Website or during   an earlier visit or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.
 
-If you would like to have your personally-identifiable information removed from World Publications, LLC's databases going forward or e-mail [info@worldpub.net.](mailto:info@worldpub.net)
+The Company will also work with service providers that provide tracking and data collection technologies in order to: 
 
-**Security:**
+  * Serve ads across the Company's Websites, 
+  * Deliver and track email communications; 
+  * Process purchase orders through e-commerce transactions; 
+  * Fulfill print and digital subscription orders; and 
+  * Provide marketing leads to third party organizations. 
 
-We work hard to maintain data security. We have in place physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access.
 
-World Publications, LLC reserves the right to disclose information contained in our access logs concerning any user as we reasonably feel is necessary to protect our systems or business. In particular, we reserve the right to disclose specific user information when a specific user is in violation of this stated policy and/or other published guidelines, or participates (or is reasonably believed so) in any illegal activity, even without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, and as otherwise required by law.
 
-In reviewing the information above, please keep in mind that World Publications, LLC cannot and does not assume any responsibility for any actions or omissions of third parties, including site users and the manner in which they might use information received from World Publications, LLC or independently.
+These companies may collect personal information about your visits to the Company's Websites and your interaction with the Website, including advertising.  
+You may choose not to provide us with any personal information. In such event, you can still access and use many portions of the Company's Websites; however, you will not be able to access and use those portions of this Company Website or the services available on or through this Company Website that require your personal information.
+
+**Using Information**
+
+We may use the information we collect to:
+
+  * Enhance the online customer experience, provide more relevant content and information, customize and/or personalize communications, improve page load time, deliver more relevant advertising and promotional offers, develop new products and Websites, and improve the overall site navigation and usability; 
+  * Send you Company related promotional, marketing, sales, and public relations efforts; 
+  * Provide marketing leads to third party organizations. 
+  * Respond to customer service inquiries; 
+  * Communicate about your subscription and account information or other customer service needs; 
+  * Communicate with you about our Company services, events, products, and other promotional purposes; 
+  * Improve our service; 
+  * Track your visits to the site and usage of the site; 
+  * Administer contests, promotions, surveys or other website features; 
+  * Provide technical support to you; and 
+  * Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein. 
+
+
+
+**Sharing Information**
+
+Unless you opt out, we may use your registration information to send you promotional materials from the Company or a third party via email or postal mail.  If you provide the Company with your email and/or postal address, we may include that address in email and/or postal address lists that the Company either sells, trades, or rents to third parties. If you would like us to stop including your postal address in such lists, please contact us in one of the following ways: 
+
+Mail:  BONNIER CORPORATION, Attention: Opt-Out Circulation, 460 North Orlando Avenue, Suite 200, Winter Park, FL 32789  
+Phone: (407) 628-4802             
+Fax:    (407) 628-7061  
+Email:  privacy@worldpub.net 
+
+In your request, please state the list you would like to be removed from the date of your request, your postal mailing address, and contact information in case we need to personally contact you in an effort to handle your request. For example, you may want to be removed from receiving information from third party organizations, but still want to receive information from Bonnier Corporation and its various brands.  You also may not want to receive any information at all. If the Company receives such a letter from you, we will remove your postal address from future postal address lists that we rent to third parties.
+
+We may use and/or transfer your personally identifiable information to other Company affiliates for internal management and administrative purposes. Your personal data will be transferred to other Company affiliates where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+
+The Company will disclose your personal information to third parties in specific circumstances that include, but are not limited to, the sale of Company or any portion thereof; during the due diligence in connection with a potential sale of Company or any portion thereof; during any bankruptcy, insolvency or liquidation of Company; or in other similar circumstances. 
+
+As stated earlier, for the purpose of providing you with certain services and products and to process your requests, purchases, and payments, the Company may disclose your personal information to one or more of our affiliates, service providers or other third parties who are assisting Company in performing such services. Without limiting the foregoing, these third parties may provide Company with payment processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable measures in an effort to require them to safeguard your personal information and limit their use of it.
+
+The Company also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith that disclosure is required by law; to enforce our Privacy Policy, terms and conditions or other agreements and polices on the Company's Websites; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property including, but not limited to, claims for infringement of intellectual property, trespass upon any of the Company's Web sites, invasions of privacy or situations involving threats or alleged threats to the physical safety of a person's property. We may also share information with companies assisting in fraud protection or investigation.  We do not provide information to these agencies or companies for marketing purposes.
+
+The Company may also use, transfer, sell, and share aggregated, anonymous data about our users as a group for any legal purposes whatsoever, such as analyzing usage trends and seeking compatible advertisers and partners.
+
+**Protecting Your Information**
+
+We use commercially reasonable measures in an effort to safeguard and secure your personal information while stored on our computer systems. We use a variety of security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information that is stored by the Company is done so behind firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the Internet can be guaranteed to be 100% secure.
+
+We use commercially reasonable measures in an effort to safeguard and secure the transmission of your personal information from your computer to the Company's computers. When you access your personal information or place orders, we offer the use of a secure server. To the extent you select the secure server method or your browser supports such functionality, all credit account information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
+
+**Cookies and Pixel Tags**
+
+The Company's Websites use cookies. A cookie is a small, removable data file that is stored by your Web browser on your computer. Cookies allow you to place an order on this Company Website and allow us to enhance, facilitate and personalize your online surfing and user experience. For example, we use cookies to:
+
+  * Recognize you when you return to this Company Website; 
+  * Present relevant content to you when you visit this Company Website; 
+  * Analyze visitor behavior; and 
+  * Facilitate other similar types of activities. 
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Web browser settings. If you turn cookies off, you won't have access to many features that make your visits to the Company's Websites more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.
+
+The Company also uses pixel tags – tiny graphic images – to help us analyze your online behavior and information about visitors to this Company Website and our customers. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us.
+
+**Tell a Friend**
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. The Company collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit, but does not use this information for any other purpose.
+
+**Children's Online Privacy**
+
+This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
+
+If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
+
+If you want to notify us of our receipt of personal information belonging to a child under the age of 13, please do so at privacy@worldpub.net 
+
+**Chat Rooms, Blogs, Forums, and Consumer Generated Media**
+
+This Company Website may now or in the future include web logs (i.e., blogs), chat rooms, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. The Company may also syndicate this content using RSS or other technologies that permit the display of such content on other unaffiliated third party Websites.  You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Company cannot safeguard the privacy of personal information that is disclosed online in this manner.  If you elect to submit content that includes personally or non-personally identifiable information, you must assume that the content submitted to a Company Website can and may be displayed on any Website on the Internet. 
+
+**Other Websites**
+
+As stated previously, when browsing the Company's Website, you may be directed to other Websites that are beyond the control of the Company. These other Websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Company may be affiliated with these Websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Company is not responsible or liable for the conduct, policies or actions of the owners of such Websites or the content displayed on these websites. You acknowledge that accessing any Website that is linked to the Company's Websites is done at your own risk.
+
+**Unsubscribing, Removing or Modifying Your Information**
+
+We want to communicate with you only if you want to hear from us.  You may modify or delete any or all of the personal information you have provided to us at anytime.  You may unsubscribe from receiving communications from us at any time by using the link included at the bottom of each email communication. You may also unsubscribe by:
+
+Mail:  460 North Orlando Avenue, Suite 200, Winter Park, FL 32789  
+Phone: (407) 628-4802  
+Fax:    (407) 628-7061  
+Email:  privacy@worldpub.net
+
+In your communication, please state that you would like to unsubscribe, what you would like to unsubscribe from, the email address you used to subscribe, the date of your unsubscribe request, and a way to contact you in case we have any questions or issues that arise. 
+
+In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our policies, the Company may retain in our files the information you have requested to remove. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+
+We reserve the right to send you certain communications related to this Company Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+
+**Questions and Feedback**
+
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Company or this Company Website to:
+
+Bonnier Corporation
+
+Mail:  460 North Orlando Avenue, Suite 200, Winter Park, FL 32789  
+Phone: (407) 628-4802           
+Fax:    (407) 628-7061  
+Email:  privacy@worldpub.net 
+
+**Last Updated: December 6, 2006**
