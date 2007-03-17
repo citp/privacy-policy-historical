@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theproxyfree.com privacy policy that was archived on 2006-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060714202722id_/http%3A//theproxyfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproxyfree.com privacy policy that was archived on 2007-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070317031310id_/http%3A//theproxyfree.com/privacy.php) for the most accurate reproduction.*
 
 # TheProxyFree: Visit websites via an anonymous proxy, bypass the firewall of your institution
 
@@ -19,4 +19,4 @@ This site does not allow the parent to obtain the information collected from the
 **5\. Change of privacy policy**  
 TheProxyFree.com reserves the right to change our privacy policy at any time without prior notices. 
 
-If you have any questions on our site, please 
+If you have any questions on our site, please [click here](https://web.archive.org/web/20070317031310id_/http%3A//theproxyfree.com/contactus.php) to contact us.
