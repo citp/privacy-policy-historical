@@ -1,0 +1,118 @@
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2007-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070319001716id_/http%3A//www.my1stop.com.my/v1/index.php%3Fcontent%3Dprivacy%26PHPSESSID%3D792143a74772dc20f632ad677a96391c) for the most accurate reproduction.*
+
+# My1Stop Virtual Mall: online shopping, business, advertising, e-store rental, free listing, reseller and affiliate program
+
+#### My1Stop Privacy Policy
+
+##### _Scope_
+
+This Privacy Policy describes how we handle your personal information on My1Stop website. This policy applies throught our website, our subdomains. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 1st, 2006.
+
+##### _Collection_
+
+You can browse our website without telling us who you are or revealing any personal information about yourself. Once you’ve submitted your personal information on our website, you therefore consent to the transfer and storage of that information to our servers. 
+
+We may collect and store the following personal information: 
+
+  * email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers; 
+  * transactional information based on your activities on the Sites (such as buying, selling, item and content you generate or that relates to your account); 
+  * shipping, billing and other information you provide to purchase or ship an item; 
+  * community discussions correspondence through the Site, and correspondence sent to us; 
+  * computer sign-on data, statistics on page views, traffic to and from the Site, and ad data; 
+  * other information, including IP address and standard web log information, and 
+  * supplemental information from third parties.
+
+
+
+##### _Marketing_
+
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We only promote e-store URLs as part of our services to e-store owners.
+
+##### _Use_
+
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to: 
+
+  * provide the services and customer support you request; 
+  * collect fees; 
+  * enforce our User Agreement; 
+  * customize, measure, and improve our services and the Sites' content and layout; 
+  * tell you about targeted marketing, service updates, and promotional offers.
+
+
+
+##### _Our Disclosure of Your Information_
+
+We may disclose personal information to respond to legal requirements, enforce our policies, or protect anyone's rights, property, or safety. 
+
+We may also share your personal information with: 
+
+  * members of our corporate family to help detect and prevent potentially illegal acts and provide joint services; (Our corporate affiliates will market only to users who request these services.) 
+  * service providers under contract who help with our business operations; (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards) 
+  * other third parties to whom you explicitly ask us to send your information; (or about whom you are otherwise explicitly notified and consent to when using a specific service) 
+  * law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity; (In such events we will disclose name, address, telephone number, email address, and transaction history.) 
+  * other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
+
+
+
+Without limiting the above, in an effort to respect your privacy, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+
+##### _Account Protection_
+
+All of your activities on the Site will be traceable to your User ID. Although your User ID may be made public on certain pages on our website, we protect your User ID through encryption to prevent hacking on sensitive pages. We also encrypt your password in the database which will not be decryptable. 
+
+If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify My1Stop and change your password.
+
+##### _Using Information from My1Stop_
+
+Our Sites enable you to share personal and financial information in order to complete transactions. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. When users are involved in a transaction, they may have access to each other's name, email address, and other contact and shipping information. We encourage you to disclose your privacy practices and respect the privacy of other users.
+
+You agree to use user information only for:
+
+  1. My1Stop transaction-related purposes that are not unsolicited commercial messages; 
+  2. using services offered through My1Stop, or 
+  3. other purposes that a user expressly chooses.
+
+
+
+##### _Cookies_
+
+We use "cookies" (small files placed on your hard drive) on certain pages of the Site to help analyze our web page flow, customize our services, measure promotional effectiveness, and schedule safe ads display on your screen.
+
+A few important things you should know about cookies are that: 
+
+  * We offer certain features that are only available through the use of cookies. 
+  * We use cookies to help identify you and maintain your signed-in status. 
+  * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. 
+  * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of our website. 
+
+
+
+##### _Mailing List_
+
+We only send safe newsletters containing new or promotional products or latest news corresponding to My1Stop to our mailing list. We provide the option of unsubscribing to the mailing list at anytime through a link at the footer of our newsletters.
+
+##### _Accessing, Reviewing and Changing Your Personal Information_
+
+You can see, review and change most of your personal information by logging into the Site. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement, and take other actions otherwise permitted by law.
+
+##### _Security_
+
+Your information is stored on our servers located in Malaysia. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the Site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+
+##### _Third Parties_
+
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are buyers, or sellers on our website or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Since My1Stop does not control the privacy policies of third parties, you are subject to the privacy policies of those third parties. We encourage you to ask questions before you disclose your personal information to others.
+
+##### _General_
+
+We may amend this Privacy Policy at any time by posting the amended terms on the website. All amended terms automatically take effect 30 days after they are initially posted on the website. If you have any queries regarding this Privacy Policy, you may write to us at: 
+
+Carwin Solutions,  
+34A, Jalan SG 1/5,   
+Taman Sri Gombak, Batu Caves,  
+68100 Gombak,  
+Selangor,  
+Malaysia .
+
+Or email us using our [Contact Us online form](https://web.archive.org/v1/index.php?content=contactus&PHPSESSID=73e2c1f2e01b11fdb32e953e71dfeb01).  
+
