@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipe4living.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230182059id_/http%3A//www.recipe4living.com/content/view/49/128) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipe4living.com privacy policy that was archived on 2007-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070318012552id_/http%3A//www.recipe4living.com/content/view/49/128) for the most accurate reproduction.*
 
 # Recipe4Living - Privacy Policy
 
@@ -62,4 +62,6 @@ Northbrook, IL 60062
 
                                                                                                                                 [Site Map](http://www.recipe4living.com/sitemap.html)
 
-[](http://www.recipe4living.com/sitemap.html)
+[](http://www.recipe4living.com/sitemap.html)  
+  
+Before you eat, take a picture of this of this recipe! We'll feature your photo on this page and make you famous. Plus you'll get a $5 Amazon gift card for your photo submission. [Submit Your Photo Here!](http://editors.myfree.com/talkToUs/contact.php?f=rflrecipe)
