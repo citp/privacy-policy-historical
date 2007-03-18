@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213014203id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2007-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070318011719id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Government Liquidation
 
