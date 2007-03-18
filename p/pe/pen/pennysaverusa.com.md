@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennysaverusa.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217205455id_/http%3A//pennysaverusa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennysaverusa.com privacy policy that was archived on 2007-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070318031722id_/http%3A//www.pennysaverusa.com/privacy.aspx) for the most accurate reproduction.*
 
 # PennySaverUSA.com Privacy Policy
 
