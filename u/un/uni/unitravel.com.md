@@ -1,24 +1,7 @@
-> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721034129id_/http%3A//www.unitravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2007-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070319233423id_/http%3A//www.unitravel.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - Unitravel, Hotel reservation and accommodation worldwide. Online hotel booking with discount hotels and luxury accommodation
+# Unitravel.com - Privacy Policy.
 
-|  | [**Hotel booking online**](http://www.unitravel.com/?param\[lang\]=en) **:** Unitravel, hotels, Hotel reservation, Online hotel booking, accommodation, luxury hotels, discount hotels   
----  
-  
-[](http://www.unitravel.com/)  
-  
-| **Change dates or destination**  
----  
-   
-  
-
-
-| 
-
-### Privacy  
-  
----  
-  
 **General Information**  
 Unitravel may collect personal data and/or demographical information about you when: 
 
@@ -57,14 +40,13 @@ Compliance with Italian Law on Privacy
 
   * necessary activities strictly connected with access to the system, online booking services as well as activation of the booking services;
   * activities connected with relevant notifications sent out to users;
-  * functional Unitravel activities, including market research, economic and statistic analysis, as well as the sending of advertising and commercial material. It is always possible to decline processing and release of the personal data provided for this purpose.
+  * functional Unitravel activities, including market research, economic and statistic analysis, as well as the sending of advertising and commercial material. It is always possible to decline processing and release   
+of the personal data provided for this purpose.
 
 
 
-The processing of personal data shall be regulated by the principles of correctness, lawfulness and transparency and shall take place, in compliance with the abovementioned law, in full observance of the utmost privacy and protection of the customer's rights. Processing shall also be performed with the aid of computers and will either be directly automated and/or executed by third parties. The submission of the requested data is mandatory in order to enable access to the system and online booking services. Refusal to provide said data will result in failure to gain access to the system and booking services and therefore, the impossibility of making the bookings themselves. Customers hereby declare they are aware of their rights pursuant to art. 7 of Italian Legislative Decree no. 196/2003 (click here to read the summary). 
+The processing of personal data shall be regulated by the principles of correctness, lawfulness and transparency and shall take place, in compliance with the abovementioned law, in full observance of the utmost privacy and protection of the customer's rights. Processing shall also be performed with the aid of computers and will either be directly automated and/or executed by third parties. The submission of the requested data is mandatory in order to enable access to the system and online booking services. Refusal to provide said data will result in failure to gain access to the system and booking services and therefore, the impossibility of making the bookings themselves. Customers hereby declare they are aware of their rights pursuant to art. 7 of Italian Legislative Decree no. 196/2003 (click here to read the summary). **
 
-**Use of Cookies**   
-This website, property of Unitravel, employes cookies. The cookies created by this web site have a maximum lifespan of 30 days. The cookies created by this web site do not contain any personally identifiable data . This website uses the cookie to optimize your experience in using this website only. This web site can contain links to external pages not owned by or under the control of Unitravel. Unitravel invites you to review the privacy policies of such pages whenever directed to them. 
+Further Information
 
-**Further Information**  
-Unitravel reserves the right to change its privacy policy according to its needs and following amendments required by law. Any changes will be published in these pages and should there be changes that could be detrimental to users, they may be notified of said changes via email. The information presented in this page is of an informative nature and does not constitute contractual bonds nor do they give users any legal rights over Unitravel save where provided by the Italian law concerning privacy. 
+** Unitravel reserves the right to change its privacy policy according to its needs and following amendments required by law. Any changes will be published in these pages and should there be changes that could be detrimental to users, they may be notified of said changes via email. The information presented in this page is of an informative nature and does not constitute contractual bonds nor do they give users any legal rights over GHRS save where provided by the Italian law concerning privacy. 
