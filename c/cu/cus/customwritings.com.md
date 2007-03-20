@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102232947id_/http%3A//customwritings.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320153354id_/http%3A//www.customwritings.com/privacy.htm) for the most accurate reproduction.*
 
 # Custom Writing Service
 
