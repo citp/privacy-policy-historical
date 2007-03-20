@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysmblog.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228113241id_/http%3A//docs.yahoo.com/info/privacy/us/yas.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysmblog.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320163312id_/http%3A//docs.yahoo.com/info/privacy/us/yas.html) for the most accurate reproduction.*
 
 # Yahoo! Advertising Solutions Privacy Policy
 
