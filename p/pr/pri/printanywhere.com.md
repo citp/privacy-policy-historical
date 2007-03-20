@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printanywhere.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114090517id_/http%3A//www.printanywhere.com/about_us/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printanywhere.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320084523id_/http%3A//www.printanywhere.com/about_us/legal/privacy.html) for the most accurate reproduction.*
 
 # PrinterOn - Privacy Policy
 
