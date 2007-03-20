@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechennaisilks.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127070512id_/http%3A//thechennaisilks.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechennaisilks.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320175521id_/http%3A//www.thechennaisilks.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # The Chennai Silks
 
