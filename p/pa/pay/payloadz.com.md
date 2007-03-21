@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225174734id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321084609id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
 
 # PayLoadz :: Sell Downloads with PayPal
-
-This site is owned and operated by PayLoadz, Inc . We want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -54,5 +52,4 @@ We give users options wherever necessary and practical. Such choices include:
 · Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
 YOUR CONSENT   
-By using this site, you consent to the collection and use of this information by PayLoadz, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. **  
-**
+By using this site, you consent to the collection and use of this information by PayLoadz, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
