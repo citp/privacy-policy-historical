@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114031551id_/http%3A//knfilters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321092300id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
 
 # K&N Engineering, Inc. Privacy Policy
 
@@ -7,4 +7,4 @@
 
 * * *
 
-Copyright © 2006 K&N Engineering, Inc. All Rights Reserved.
+Copyright © 2007 K&N Engineering, Inc. All Rights Reserved.
