@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115063400id_/http%3A//myactv.net/memberresources/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2007-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070322135028id_/http%3A//www.myactv.net/memberresources/privacy_policy.html) for the most accurate reproduction.*
 
 # MyACTV.net
 
@@ -14,7 +14,7 @@ This policy does not apply to practices of companies that ACT does not own or co
 
 **The Cable Privacy Act**
 
-In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20061115063400id_/http%3A//myactv.net/memberresources/privacy_policy_annexa.html).
+In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20070322135028id_/http%3A//www.myactv.net/memberresources/privacy_policy_annexa.html).
 
 **Information Collection and Use**
 
@@ -66,7 +66,7 @@ You must be 18 or older to sign up for an account with ACT. We do not knowingly 
 
 **Changes to this Privacy Policy**
 
-ACT reserves the right to revise this policy, or any part thereof, or impose new conditions, without advance notice. We will post revision to this policy on this site. Use of the Service following such revisions or additions constitutes your acceptance of the revised policy. . Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the site immediately.
+ACT reserves the right to revise this policy, or any part thereof, or impose new conditions, without advance notice. We will post revision to this policy on this site. Use of the Service following such revisions or additions constitutes your acceptance of the revised policy. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the site immediately.
 
 **Miscellaneous**
 
