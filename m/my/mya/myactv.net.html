@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the myactv.net privacy policy that was archived on 2006-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061115063400id_/http%3A//myactv.net/memberresources/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myactv.net privacy policy that was archived on 2007-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070322135028id_/http%3A//www.myactv.net/memberresources/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>MyACTV.net</title>
 	<link rel="stylesheet" href="/main.css" type="text/css">
 </head>
 
-<body>
+<body onload="switchSearchEngine();">
 
 <!-- this map turns the MyACTV logo (in the header) into a hotspot -->
 <map name="headerMap">
@@ -20,7 +20,7 @@
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0" width="782">
     <tbody><tr>
-        <td colspan="4"><div id="headerFall"><div class="floatleft"><img src="/images/pixel.gif" width="470" height="83" border="0" usemap="#headerMap"></div>
+        <td colspan="3"><div id="headerSpring"><div class="floatleft"><img src="/images/pixel.gif" width="470" height="83" border="0" usemap="#headerMap"></div>
         <div id="promo"><a href="http://www.antpod.com/"><img src="/images/promo_ant_pod.gif" width="274" height="51" border="0" alt="Local Podcasts Are Here - antPod.com"></a></div></div>
         <map name="headerMap">
         <area alt="Antietam Cable Television" coords="254,39,462,55" href="http://www.antietamcable.com/">
@@ -30,20 +30,86 @@
         </map>
         </td>
     </tr>
-	<tr height="55">
-		<td width="69" bgcolor="#ffffff"><img src="/images/traffic_light_green.jpg" id="traffic_light" name="traffic_light" width="69" height="55" alt=""></td>
+	<tr>
+		<td width="69" bgcolor="#ffffff" valign="top"><img src="/images/traffic_light_green.jpg" id="traffic_light" name="traffic_light" width="69" height="55" alt=""></td>
 		<td width="316" bgcolor="#ffffff" class="netstatusmessage" align="left" valign="top">
 			<p class="netstatusmessage">
 				Network OK				&nbsp;&nbsp;[ <a href="/networkstatus/">more</a> ]</p>
 			
 		</td>
-		<td bgcolor="#ffffff" width="310" style="background-image: url(/images/google_searchform_area.jpg);">
-			<form action="http://www.google.com/custom" method="get" style="margin: 0px 0px 0px">
-				<label for="keywords">Search the web for:</label> <input type="text" name="q" id="keywords" size="20" maxlength="255" class="textinputgoogle"> <input type="submit" value="go" class="button">
-			</form>
+		<td align="right" valign="top" bgcolor="#ffffff" width="397" style="background-image: url(/images/google_searchform_area.jpg); background-repeat: no-repeat;" class="textgoogle">
+            <img src="/images/pixel.gif" width="1" height="16" alt="" border="0"><br>
+            <form name="searchform" action="http://search.nethound.com/sp" onsubmit="doSearchSubmit();" method="get" style="margin: 0px 0px 0px">
+            <input type="hidden" name="aff" value="100">
+            <input type="hidden" name="keywords" value="">
+            <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td>
+            				<label for="q">Search</label>
+                            <select name="whichsearch" class="dropdowngoogle" onchange="switchSearchEngine();">
+                                <option selected="" value="nethound">local listings</option>
+                                <option value="google">the web</option>
+                            </select> 
+                            for: <input type="text" name="q" id="q" size="20" maxlength="255" class="textinputgoogle">
+                    </td>
+                    <td>&nbsp;<input type="submit" value="go" class="button"></td>
+                    <td rowspan="2"><img src="/images/pixel.gif" width="15" height="1" alt="" border="0"></td>
+                </tr>
+                <tr>
+                    <td align="right"><img name="poweredby" src="/images/powered_by_nethound.gif" alt=""></td>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody></table>
+            </form>
 
+            <script language="JavaScript">
+            <!--
+                function switchSearchEngine() {
+
+                    switch(document.searchform.whichsearch.value) {
+
+                        case 'nethound':
+                            document.searchform.action = 'http://search.nethound.com/sp';
+                            document.searchform.aff.value = '100';  // hidden formfield only used by nethound
+                            document.searchform.poweredby.src = '/images/powered_by_nethound.gif';
+                            break;
+                            
+                        case 'google':
+                            document.searchform.action = 'http://www.google.com/custom';
+                            document.searchform.aff.value = '';
+                            document.searchform.poweredby.src = '/images/powered_by_google.gif';
+                            break;
+                    }
+                }
+                
+                function doSearchSubmit() {
+
+                    // copy search string into the correct form field, depending on
+                    // which search engine is selected
+                
+                    switch(document.searchform.whichsearch.value) {
+
+                        case 'nethound':
+                                // nethound search string is named 'keywords'
+                                document.searchform.keywords.value = document.searchform.q.value;
+                                // document.searchform.q.value = '';
+                            break;
+
+                        case 'google':
+                                // google search string is named 'q'
+                                // so we don't need to do anything
+                            break;
+                    }
+                    
+                    return true;
+                }
+                
+                // Call function to set initial values
+                // switchSearchEngine();  // Commented because it now happens via body onLoad
+            
+            // -->
+            </script>
 		</td>
-		<td bgcolor="#ffffff" width="87"><img src="/images/powered_by_google.gif" id="powered_by_google" name="powered_by_google" width="87" height="55" alt="Powered by Google"></td>
 	</tr>
 </tbody></table>
 </div>
@@ -238,7 +304,7 @@ in your child's experience on the Internet.</p>
 or impose new conditions, without advance notice. We will post 
 revision to this policy on this site. Use of the Service following 
 such revisions or additions constitutes your acceptance of the 
-revised policy. . Accordingly, we urge you to frequently review 
+revised policy.  Accordingly, we urge you to frequently review 
 this Privacy Policy, and, if you do not agree to the terms of 
 this or any revised policy, please exit the site immediately.</p>
 
