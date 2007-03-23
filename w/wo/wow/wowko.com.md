@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116082715id_/http%3A//www.wowko.com/privacy.html%3FwowkoSid%3Da37398440458e79ca4a65ef0f92d684e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2007-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070323172354id_/http%3A//www.wowko.com/index.php%3Fmain_page%3Dpage%26id%3D5) for the most accurate reproduction.*
 
-# Wowko,Buy wow gold,world of warcraft gold,Lineage II Adena,EverQuest II,EvE Online,FFXI Gil,Star Wars,Diablo II Items and more.....
+# Privacy Policy : Wowko.com, Buy wow gold,world of warcraft gold,Lineage II Adena,EverQuest II,EvE Online,FFXI Gil,Star Wars,Diablo II Items and more.....
 
 ### ACCEPTANCE OF TERMS
 
@@ -38,7 +38,7 @@ If you do not want Wowko to communicate with you about other offers regarding Wo
 
 #### Internet Protocol (IP) Address
 
-Your current IP address (72.20.99.48) has been stored.  
+Your current IP address (127.0.0.1) has been stored.  
 Your information is safe with us!
 
 #### Cookies
