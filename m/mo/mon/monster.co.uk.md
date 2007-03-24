@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.co.uk privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218152347id_/http%3A//www.monster.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.co.uk privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324233916id_/http%3A//www.monster.co.uk/privacy) for the most accurate reproduction.*
 
 # Monster.co.uk: Privacy and Cookies
 
