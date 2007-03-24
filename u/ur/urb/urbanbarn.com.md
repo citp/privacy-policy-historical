@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanbarn.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126025152id_/http%3A//urbanbarn.com/PRIVACYPOLICYURBANBARN.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanbarn.com privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324144127id_/http%3A//www.urbanbarn.com/PRIVACYPOLICYURBANBARN.pdf) for the most accurate reproduction.*
 
 # 
 
