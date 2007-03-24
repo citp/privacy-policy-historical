@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004929id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324014443id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
 
-# Time Out Dubai - Corporate - Privacy
+# Privacy Policy - TimeOutDubai.com
 
-Privacy
+##### Privacy 
 
 **Our privacy policy**  
 Time Out Dubai always promises to serve its audience with integrity and honesty. The same is true for what we publish online. Time Out Dubai has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutdubai.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
@@ -22,26 +22,30 @@ Areas of our site that request personal information contain a box that, if check
 
 **Third-party disclosure of personal information**
 
-> **1.** Links to other sites: Our site contains links to other sites that are not under our control, even though some of them may feature the Time Out Dubai logo through a marketing agreement with us. Time Out Dubai cannot be held responsible for the privacy policies of other companies. We recommend that you review the privacy policy of any site you visit on the Internet. 
-> 
-> **2.** On occasion, Time Out Dubai sponsors special promotions, sweepstakes and contests that are hosted by partner websites, which may require that your browser accept cookies. 
-> 
-> **3.** Magazine subscriptions: Time Out Dubai subscriptions are managed by The Information & Technology Publishing Co. Ltd, publishers of Time Out Dubai. Time Out Dubai sometimes makes the names and addresses of our magazine subscribers available to carefully screened organisations outside Time Out Dubai whose products and activities might prove interesting to you. If you do not wish to receive mailings from such organizations, please let us know by writing to us at Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates.
-> 
-> **4.** Required disclosures: Time Out Dubai cooperates with all law-enforcement inquiries and reserves the right to disclose personally identifying or aggregate information in connection with a subpoena or other court-sanctioned demand for such information.
+**1.** Links to other sites: Our site contains links to other sites that are not under our control, even though some of them may feature the Time Out Dubai logo through a marketing agreement with us. Time Out Dubai cannot be held responsible for the privacy policies of other companies. We recommend that you review the privacy policy of any site you visit on the Internet. 
 
-**Security**  
+**2.** On occasion, Time Out Dubai sponsors special promotions, sweepstakes and contests that are hosted by partner websites, which may require that your browser accept cookies. 
+
+**3.** Magazine subscriptions: Time Out Dubai subscriptions are managed by The Information & Technology Publishing Co. Ltd, publishers of Time Out Dubai. Time Out Dubai sometimes makes the names and addresses of our magazine subscribers available to carefully screened organisations outside Time Out Dubai whose products and activities might prove interesting to you. If you do not wish to receive mailings from such organizations, please let us know by writing to us at Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates.
+
+**4.** Required disclosures: Time Out Dubai cooperates with all law-enforcement inquiries and reserves the right to disclose personally identifying or aggregate information in connection with a subpoena or other court-sanctioned demand for such information.
+
+S **ecurity**  
 Time Out Dubai has invested, and will continue to invest, in the best-quality security available to guard access to information, data quality, and physical security of servers where information is stored. Our site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Despite these efforts, we can’t guarantee that a hacker will not obtain access to communications between you and the site.
 
+  
 **Accessing your personal information**  
 If you wish to review any personal information that Time Out Dubai maintains about you, please mail your request and a self-addressed, stamped envelope to: Privacy Request, Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates. If you prefer, you may e-mail [privacy@timeoutdubai.com](mailto:privacy@timeoutdubai.com.%20).
 
+  
 **Unsubscribing to Time Out Dubai e-mail**  
 You can unsubscribe to any e-mail you receive from Time Out Dubai. All of our e-mail includes instructions on how to unsubscribe.
 
+  
 **Collection of personal data from children**  
 Our site is not directed to users under the age of 13. Time Out Dubai will not knowingly (i) collect information from individuals under the age of 13 ("children") or (ii) provide any personally identifying information collected from children, regardless of its source, to any third party for any purpose whatsoever. No information collected through the site from users self-identified as children will knowingly be used for any marketing or promotional purposes whatsoever, either inside or outside Time Out Dubai. 
 
+  
 **Time Out Dubai's right to change privacy policy and no impediment on transfer of assets**  
 This policy is effective as of September 26, 2001. Time Out Dubai may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede Time Out Dubai’s right or ability to transfer, sell or otherwise dispose of any of its assets.
 
@@ -49,38 +53,3 @@ This policy is effective as of September 26, 2001. Time Out Dubai may change thi
 You can contact Time Out Dubai regarding this policy either by mail, at Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates, Attention: Webmaster, or by e-mail at [privacy@timeoutdubai.com. ](mailto:privacy@timeoutdubai.com.%20)
 
 If you would like to review the material about you that we have collected via our site, please mail a self-addressed, stamped addressed envelope to: Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates, Attention: Webmaster. 
-
-This Week's Magazine
-
-  
-
-
-Dubai Directory
-
-Weekly Poll
-
-Hot Tickets
-
-[Queen…It's A Kind Of Magic](https://web.archive.org/events/review.php?id=4192)
-
- **Date:** Thursday, June 29, 2006  
- **Price:** Regular - Dhs190,  
-Stalls - Dhs250,  
-VIP - Dhs350
-
-[Buy Tickets Now »](https://web.archive.org/events/review.php?id=4192)
-
-[FIFA World Cup Fan Park - 1st and 2nd round](https://web.archive.org/events/review.php?id=4201)
-
- **Date:** Thursday, June 15, 2006Friday, June 16, 2006Saturday, June 17, 2006Sunday, June 18, 2006Monday, June 19, 2006Tuesday, June 20, 2006Wednesday, June 21, 2006Thursday, June 22, 2006Friday, June 23, 2006Saturday, June 24, 2006Sunday, June 25, 2006Monday, June 26, 2006Tuesday, June 27, 2006  
- **Price:** Dhs10
-
-[Buy Tickets Now »](https://web.archive.org/events/review.php?id=4201)
-
-[All tickets for sale » ](http://www.itptickets.com/)
-
-Newsletter
-
-Enter your email address to receive the very latest news on all the top events, films, meal deals, hot tickets and competitions of the week.
-
-Competitions
