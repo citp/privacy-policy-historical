@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citysquares.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201153332id_/http%3A//www.citysquares.com/privacy.html%26Action%3Dm_reset_square) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysquares.com privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324070941id_/http%3A//www.citysquares.com/privacy.html) for the most accurate reproduction.*
 
-# | Citysquares.com - Your Neighborhood, Online
+# Citysquares.com - Your Neighborhood, Online
 
 ## Citysquares Online, Inc. Privacy Policy
 
@@ -44,7 +44,7 @@ We do not specifically collect information about children. We believe that child
 
 ## Privacy Policy Changes 
 
-If we decide to change this Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Citysquares’ privacy policy please send an e-mail to us at [comments@citysquares.com](mailto:comments@citysquares.com). You may also write to us at Citysquares Online, Inc., 9 Hamilton Place, Suite 200, Boston, MA 02108 Attn: Privacy.
+If we decide to change this Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Citysquares’ privacy policy please write to us at Citysquares Online, Inc., 411A Highland Ave, Suite 368, Somerville, MA 02144. Attn: Privacy.
 
 ## General
 
@@ -53,5 +53,5 @@ This is the complete and exclusive agreement between Citysquares and you regardi
 Thank you for using Citysquares Online, Inc.  
 
 
-Last revised 1/11/2006 8:35 PM.  
+Last revised 2/23/2007 4:02 PM.  
 
