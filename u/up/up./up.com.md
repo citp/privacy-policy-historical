@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123095629id_/http%3A//www.up.com/uprr/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2007-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070325225153id_/http%3A//www.up.com/uprr/aboutup/info/privacy.shtml) for the most accurate reproduction.*
 
 # UP: Web Site Privacy Policy
-
-Web Site Privacy Policy
 
 Our Commitment to Privacy
 
@@ -26,13 +24,13 @@ Social Security Numbers and/or Credit Card Numbers submitted to us as part of an
 
 Registered User Access
 
-Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Web Site Security Policy](https://web.archive.org/web/20060707083249/http://www.uprr.com/aboutup/info/security.shtml). 
+Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Web Site Security Policy](https://web.archive.org/web/20070327230425id_/http://www.uprr.com/aboutup/info/security.shtml). 
 
 ^Top
 
 Links to Other Sites
 
-UP provides links to its parent company, the Union Pacific Corporation, as well as its [subsidiaries](https://web.archive.org/web/20060707083249/http://www.uprr.com/aboutup/info/up-sites.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its Web site, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UPRR.com (the "refer address").
+UP provides links to its parent company, the Union Pacific Corporation, as well as its [subsidiaries](https://web.archive.org/web/20070327230425id_/http://www.uprr.com/aboutup/info/up-sites.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its Web site, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UPRR.com (the "refer address").
 
 UP is not responsible or liable for the independent privacy policies of these third party sites. You should consult the privacy policies at these sites to determine how your information may be used.
 
@@ -58,11 +56,11 @@ Changing or Correcting Your Information
 
 Registered users of MyUPRR can access the personally identifiable information that we collect online and maintain, by clicking on the Customer link under "My Profile" at MyUPRR. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making changes.
 
-Inquiries submitted via "Feedback," sent via e-mail, or sent using the Webmaster link, are processed and responded to as soon as possible. If there is a need to access or update a past e-mail, please direct inquiries to [Webmaster@up.com](https://web.archive.org/web/20060707083249/mailto:%22webmaster@up.com%22)
+Inquiries submitted via "Feedback," sent via e-mail, or sent using the Webmaster link, are processed and responded to as soon as possible. If there is a need to access or update a past e-mail, please direct inquiries to [Webmaster@up.com](mailto:%22webmaster@up.com%22)
 
 Credit card information, submitted for Photo Gallery orders, is not maintained beyond the time period necessary for order processing.
 
-Applicants who wish to amend information submitted with a job application, or Suppliers needing to change Bidder's Registration information, may direct inquiries to the [Webmaster@up.com](https://web.archive.org/web/20060707083249/mailto:%22webmaster@up.com%22)
+Applicants who wish to amend information submitted with a job application, or Suppliers needing to change Bidder's Registration information, may direct inquiries to the [Webmaster@up.com](mailto:%22webmaster@up.com%22)
 
 ^Top
 
@@ -74,6 +72,6 @@ While we do not direct any of the information on our site specifically to childr
 
 Contact Us 
 
-Should you have other questions or concerns about this Privacy Policy, please contact the [Webmaster@up.com](https://web.archive.org/web/20060707083249/mailto:%22webmaster@up.com%22)
+Should you have other questions or concerns about this Privacy Policy, please contact the [Webmaster@up.com](mailto:%22webmaster@up.com%22)
 
 Effective Date: March 2001
