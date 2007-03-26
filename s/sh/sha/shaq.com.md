@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205064228id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2007-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070326115348id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
 
 # SportsLine.com - CBS SportsLine.com
 
