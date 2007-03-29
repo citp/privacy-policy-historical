@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2007-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="Pragma" content="no-cache">	<!-- this one is for firefox-->
 		<meta http-equiv="Expires" content="-1">		<!-- this one is for IE-->
 		<title>About RealAge — RealAge Privacy Statement</title>
-		<link rel="stylesheet" type="text/css" href="http://www.realage.com/App_Styles/GlobalStyles.css">
+		<link rel="stylesheet" type="text/css" href="http://www.realage.com/App_Styles/Corporate/GlobalStyles.css">
 		<link rel="stylesheet" type="text/css" href="inc/aboutRA_Styles.css">
 	</head>
 	<body>
@@ -18,10 +18,11 @@
     var TrackingEnabled = true;
     // page level tracking variables
     var thisPageURL = escape(location.href);
-	var hpp = 'http://www.realage.com/';
-	var frUrl = escape('');
-	var pgUrl = escape('http://www.realage.com/company_info/privacy.aspx');
+	var hpp = 'http://www.realage.com/';	
+	var frUrl = '';
+	var pgUrl = 'http%253a%252f%252fwww.realage.com%252fcompany_info%252fprivacy.aspx';
 	var toUrl;
+	var pageModKey = '';
 	var validateUrl;
 	// Attempts to create an instance of XmlHttp.  If successful, the 
 	// instance is returned.  If not successful (i.e. if the browser 
@@ -64,15 +65,19 @@
 				}
 			}else{
 				toUrl = '';
-			}			
-			var XmlHttp = CreateXmlHttp();
-			if (XmlHttp) 
-			{	
-				XmlHttp.open('GET', 
-					hpp + 'App_Pages/AJAX_Tracking.aspx?idl=' + itemIds + '&pgu=' + pgUrl +
-					'&tou=' + toUrl + '&fru=' + frUrl + '&clt=' + clientId, true);
-				XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
-				XmlHttp.send(null);		
+			}	
+			
+			// validation of hpp is necessary to avoid intermitent errors which are occurring - AT 1.17.2006
+			if (typeof hpp != "undefined"){								
+				var XmlHttp = CreateXmlHttp();
+				if (XmlHttp) 
+				{				
+					XmlHttp.open('GET', 
+						hpp + 'App_Pages/AJAX_Tracking.aspx?idl=' + itemIds + '&pgu=' + pgUrl +
+						'&tou=' + toUrl + '&fru=' + frUrl + '&clt=' + clientId, true);
+					XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
+					XmlHttp.send(null);		
+				}
 			}
 		}
 	}
@@ -81,14 +86,17 @@
 	{
 		if (TrackingEnabled) 
 		{	
-			var XmlHttp = CreateXmlHttp();
-			if (XmlHttp) 
-			{	
-				XmlHttp.open('GET', 
-					hpp + 'App_Pages/AJAX_Tracking.aspx?idl=' + itemIds + '&pgu=' + pgUrl +
-					'&tou=' + aToUrl + '&fru=' + frUrl + '&clt=' + clientId, true);
-				XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
-				XmlHttp.send(null);		
+			// validation of hpp is necessary to avoid intermitent errors which are occurring - AT 1.17.2006
+			if (typeof hpp != "undefined"){
+				var XmlHttp = CreateXmlHttp();
+				if (XmlHttp) 
+				{	
+					XmlHttp.open('GET', 
+						hpp + 'App_Pages/AJAX_Tracking.aspx?idl=' + itemIds + '&pgu=' + pgUrl +
+						'&tou=' + aToUrl + '&fru=' + frUrl + '&clt=' + clientId, true);
+					XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
+					XmlHttp.send(null);		
+				}
 			}
 		}
 	}	
@@ -121,351 +129,25 @@
 <input name="Header2:CurrentSearchState" id="Header2_CurrentSearchState" type="hidden" value="0">
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<!-- BeginOldNavigationTrackingMarker --> 
-	<tbody><tr id="Header2_OldNavigation">
-	<td>
-<!--style sheet-->
-<link rel="stylesheet" type="text/css" href="http://www.realage.com/uc/inc/ddl.css">
-<input type="hidden" id="logOutUserFlag" name="logOutUserFlag" value="0">
-<!-- Menu UI -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr id="Header2_DropDown1_trMenu">
-		<td bgcolor="#073887" valign="bottom">			
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="bottom"><img src="http://www.realage.com/uc/img/clear.gif" border="0" width="132" height="21"></td>			
-					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/health_guides/hg_entry.aspx" onmouseover="swapImage('m1','http://www.realage.com/uc/img/health_tools_on.gif');" onmouseout="swapImage('m1','http://www.realage.com/uc/img/health_tools_off.gif');"><img src="http://www.realage.com/uc/img/health_tools_off.gif" name="m1" border="0" onmouseout="delayedHideSubMenu('sm0');" onmouseover="showSubMenu('sm0');"></a></td>
-					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('m2','http://www.realage.com/uc/img/about_ra_on.gif');" onmouseout="swapImage('m2','http://www.realage.com/uc/img/about_ra_off.gif');"><img src="http://www.realage.com/uc/img/about_ra_off.gif" name="m2" border="0" onmouseout="delayedHideSubMenu('sm1');" onmouseover="showSubMenu('sm1');"></a></td>
-					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('m3','http://www.realage.com/uc/img/help_desk_on.gif');" onmouseout="swapImage('m3','http://www.realage.com/uc/img/help_desk_off.gif');"><img src="http://www.realage.com/uc/img/help_desk_off.gif" name="m3" border="0" onmouseout="delayedHideSubMenu('sm2');" onmouseover="showSubMenu('sm2');"></a></td>
-					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('m4','http://www.realage.com/uc/img/my_acct_on.gif');" onmouseout="swapImage('m4','http://www.realage.com/uc/img/my_acct_off.gif');"><img src="http://www.realage.com/uc/img/my_acct_off.gif" name="m4" border="0" onmouseout="delayedHideSubMenu('sm3');" onmouseover="showSubMenu('sm3');"></a></td>					
-				</tr>
-			</tbody></table>			
-		</td>
-	</tr>
-	
-	
-</tbody></table>
-
-<script language="javascript">
-
-	// Create menu for w3c compliant browsers only
-	if (document.getElementById)
-	{
-		// Preload images - prevents caching issues with image states
-		if (document.images) {
-			img1 = new Image();
-			img1.src = "http://www.realage.com/UC/img/health_tools_off.gif";
-			img2 = new Image();
-			img2.src = "http://www.realage.com/UC/img/health_tools_on.gif";
-			img3 = new Image();
-			img3.src = "http://www.realage.com/UC/img/about_ra_off.gif";			
-			img4 = new Image();
-			img4.src = "http://www.realage.com/UC/img/about_ra_on.gif";
-			img5 = new Image();
-			img5.src = "http://www.realage.com/UC/img/help_desk_off.gif";
-			img6 = new Image();
-			img6.src = "http://www.realage.com/UC/img/help_desk_on.gif";
-			img7 = new Image();
-			img7.src = "http://www.realage.com/UC/img/my_acct_off.gif";
-			img8 = new Image();
-			img8.src = "http://www.realage.com/UC/img/my_acct_on.gif";
-			/*
-			img9 = new Image();
-			img9.src = "http://www.realage.com/UC/img/RAMag_MenuTab_v1.gif";
-			img10 = new Image();
-			img10.src = "http://www.realage.com/UC/img/RAMag_MenuTabRO_v1.gif";
-			img11 = new Image();
-			img11.src = "http://www.realage.com/UC/img/RAMag_MenuTab_v2.gif";
-			img12 = new Image();
-			img12.src = "http://www.realage.com/UC/img/RAMag_MenuTabRO_v2.gif";
-			*/
-		}
-			
-		/////////////////////////////////////////////	
-		// Global variables		
-		var menuBorderColor		= '#FFFFFF';
-		var menuBackgroundColor = '#CEE7E7';
-		var linkStyle			= 'ddlink';
-		var menuSpaceLeft		= 132;
-		var menuTopMargin		= 0;
-		var menuLeftMargin		= 0;
-		var menuSpaceTop		= 21;
-		var hideDelay			= 300;
-		var topMenu				= new Menu(menuSpaceLeft, menuLeftMargin, menuTopMargin);
-		//var isPremiumMember		= 0;	
-		//var isUserSignedIn		= 0;	
-		
-		// Build SubMenu 1 MenuItems
-		var sm0_item0 = new MenuItem('The RealAge<br>Test', 'http://www.realage.com/reg/regassess.aspx?mod=LONGFORM', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i0', false);
-		var sm0_item1 = new MenuItem('Tip of the Day', 'http://www.realage.com/news_features/tip.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i1', false);
-		var sm0_item2 = new MenuItem('Health Centers', 'http://www.realage.com/health_guides/hg_entry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i2', false);
-		var sm0_item3 = new MenuItem('Health News', 'http://www.realage.com/news_features/news_entry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i3', false);
-		var sm0_item4 = new MenuItem('LIFE Challenge', 'http://www.realage.com/LIFE/jmplife.aspx?hp=1&lid=LfeChlg', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i4', false);
-		var sm0_item5 = new MenuItem('Encyclopedia', 'http://www.realage.com/research_library/library.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i5', false);		
-		var sm0_item6 = new MenuItem('12 Ways to Be Younger', 'http://www.realage.com/research_library/12ways.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i7', false);
-		var sm0_item7 = new MenuItem('RealAge Books', 'http://www.realage.com/research_library/rec_reading.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i8', false);
-		
-		// Build SubMenu 1
-		var sm0 = new SubMenu(115, topMenu.SpaceLeft, menuSpaceTop, menuBorderColor, menuBackgroundColor, 'sm0');
-		sm0.MenuItems[0] = sm0_item0;
-		sm0.MenuItems[1] = sm0_item1;
-		sm0.MenuItems[2] = sm0_item2;
-		sm0.MenuItems[3] = sm0_item3;
-		sm0.MenuItems[4] = sm0_item4;
-		sm0.MenuItems[5] = sm0_item5;
-		sm0.MenuItems[6] = sm0_item6;
-		sm0.MenuItems[7] = sm0_item7;
-			
-		// Build SubMenu 2 MenuItems
-		var sm1_item0 = new MenuItem('The Company', 'http://www.realage.com/company_info/company_entry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i0', false);
-		var sm1_item1 = new MenuItem('Advertise with Us', 'http://www.realage.com/company_info/advertising.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i1', false);
-		var sm1_item2 = new MenuItem('Our Sponsors', 'http://www.realage.com/company_info/oursponsors.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i2', false);
-		var sm1_item3 = new MenuItem('License the Brand', 'http://www.realage.com/company_info/licensing.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i3', false);
-		var sm1_item4 = new MenuItem('Our Science', 'http://www.realage.com/company_info/RA_faqs.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i4', false);
-		var sm1_item5 = new MenuItem('Link to Us', 'http://www.realage.com/help_desk/link2RA.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i5', false);
-		var sm1_item6 = new MenuItem('Contact Us', 'http://www.realage.com/company_info/contactra.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i6', false);
-		var sm1_item7 = new MenuItem('More Options', 'http://www.realage.com/company_info/company_entry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm1_i7', false);
-		// Build SubMenu 2
-		var sm1 = new SubMenu(115, topMenu.SpaceLeft + 115 , menuSpaceTop, menuBorderColor, menuBackgroundColor, 'sm1');
-		sm1.MenuItems[0] = sm1_item0;
-		sm1.MenuItems[1] = sm1_item1;
-		sm1.MenuItems[2] = sm1_item2;
-		sm1.MenuItems[3] = sm1_item3;
-		sm1.MenuItems[4] = sm1_item4;
-		sm1.MenuItems[5] = sm1_item5;
-		sm1.MenuItems[6] = sm1_item6;
-		sm1.MenuItems[7] = sm1_item7;
-		
-		// Build SubMenu 3 MenuItems
-		var sm2_item0 = new MenuItem('Password', 'http://www.realage.com/help_desk/site_faqs.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm2_i0', false);
-		var sm2_item1 = new MenuItem('Technical', 'http://www.realage.com/help_desk/cust_request.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm2_i1', false);
-		var sm2_item2 = new MenuItem('E-mail Us', 'mailto:feedback@realage.com', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm2_i2', false);
-		var sm2_item3 = new MenuItem('More Options', 'http://www.realage.com/help_desk/site_faqs.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm2_i3', false);
-		// Build SubMenu 3
-		var sm2 = new SubMenu(115, topMenu.SpaceLeft + 230 , menuSpaceTop, menuBorderColor, menuBackgroundColor, 'sm2');		
-		sm2.MenuItems[0] = sm2_item0;
-		sm2.MenuItems[1] = sm2_item1;
-		sm2.MenuItems[2] = sm2_item2;
-		sm2.MenuItems[3] = sm2_item3;
-		
-		// Build SubMenu 4 MenuItems
-		var sm3_item0 = new MenuItem('Change E-mail', 'http://www.realage.com/reg/MyAcntTC.aspx?mat=100', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm3_i0', false);
-		var sm3_item1 = new MenuItem('Update Personal Info', 'http://www.realage.com/reg/MyAcntTC.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm3_i1', false);
-		var sm3_item2 = new MenuItem('Change Subscriptions', 'http://www.realage.com/reg/MyAcntTC.aspx?mat=107', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm3_i2', false);
-		var sm3_item3 = new MenuItem('More Options', 'http://www.realage.com/reg/MyAcntTC.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm3_i3', false);
-		// Build SubMenu 4
-		var sm3 = new SubMenu(115, topMenu.SpaceLeft + 345 , menuSpaceTop, menuBorderColor, menuBackgroundColor, 'sm3');
-		sm3.MenuItems[0] = sm3_item0;
-		sm3.MenuItems[1] = sm3_item1;
-		sm3.MenuItems[2] = sm3_item2;				
-		sm3.MenuItems[3] = sm3_item3;
-		
-		// PREMIUM DROP-DOWN REMOVED 5.18.05 - AT
-		// Build SubMenu 5 MenuItems
-		//var sm4_item0 = new MenuItem('The RealAge Report', "http://www.realage.com/Premium/report18k.aspx?cbr=&mod=PEREPORT", 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm4_i0', false);
-		//var sm4_item1 = new MenuItem('My Age Reduction Plan', "http://www.realage.com/Premium/report18k.aspx?cbr=&mod=MYPLAN", 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm4_i1', false);
-		//var sm4_item2 = new MenuItem('Tip Archive', "http://www.realage.com/Premium/report18k.aspx?cbr=&mod=TIPARCH", 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm4_i2', false);
-		//var sm4_item3 = new MenuItem('Order PREMIUM', "http://www.realage.com/Premium/report18k.aspx?cbr=&mod=PEREPORT", 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm4_i3', false);
-			
-		//if (isUserSignedIn && !isPremiumMember)	// Build Sign in/Sign out link
-		//	var sm4_item4 = new MenuItem('Sign In', "http://www.realage.com/Premium/report18k.aspx?cbr=", 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm4_i4', false);
-		
-		// Build SubMenu 5
-		//var sm4 = new SubMenu(115, topMenu.SpaceLeft + 460 , menuSpaceTop, menuBorderColor, menuBackgroundColor, 'sm4');
-		//sm4.MenuItems[0] = sm4_item0;
-		//sm4.MenuItems[1] = sm4_item1;
-		//sm4.MenuItems[2] = sm4_item2;
-		//sm4.MenuItems[3] = sm4_item3;
-		
-		//if (isUserSignedIn && !isPremiumMember)		
-		//{
-		//	// Only build order link for non-premium members			
-		//	sm4.MenuItems[4] = sm4_item4;
-		//}
-		
-		// Add SubMenus to Menu	
-		topMenu.SubMenus[0] = sm0;
-		topMenu.SubMenus[1] = sm1;
-		topMenu.SubMenus[2] = sm2;
-		topMenu.SubMenus[3] = sm3;
-		//topMenu.SubMenus[4] = sm4;
-		
-		// Generate the menu display
-		renderMenu(topMenu);
-	}
-	
-	
-	/////////////////////////////////////////////	
-	// Object constructors
-	function Menu(SpaceLeft, LeftMargin, TopMargin)
-	{
-		this.SubMenus   = new Array();
-		this.SpaceLeft  = SpaceLeft;
-		this.LeftMargin = LeftMargin;
-		this.TopMargin  = TopMargin;				
-	}
-	
-	function SubMenu(Width, Left, Top, BorderColor, BackGroundColor, SubMenuID)
-	{
-		this.MenuItems			 = new Array();		
-		this.Width				 = Width;
-		this.Left				 = Left;
-		this.Top				 = Top;
-		this.BorderColor		 = BorderColor;
-		this.BackGroundColor	 = BackGroundColor;		
-		this.SubMenuID		     = SubMenuID;
-	}
-	
-	function MenuItem(Text, Destination, BulletImagePath, Style, MenuItemID, OpensNewWindow)
-	{
-		this.Text			 = Text;
-		this.Destination	 = Destination;
-		this.BulletImagePath = BulletImagePath;
-		this.Style			 = Style;		
-		this.OpensNewWindow  = OpensNewWindow;
-		this.MenuItemID		 = MenuItemID;
-	}		
-	
-		
-	/////////////////////////////////////////////	
-	// Methods
-	function swapImage(imageName, newImagePath)
-	{
-		imgSrc = eval("document.images['" + imageName + "']");
-		if (imgSrc != null)
-		{						
-			imgSrc.src = newImagePath;					
-		}
-	}
-	
-	// Delays the hiding of the subMenu for aesthetic purposes
-	var setTimeOutId;
-	function delayedHideSubMenu(subMenuID)
-	{
-		if (document.getElementById)// prevents this from being called in non w3c compliant browsers
-		{
-			setTimeOutId = setTimeout("hideSubMenu('" + subMenuID + "')", hideDelay);
-		}
-	}
-	
-	// Shows the passed in submenu
-	function showSubMenu(subMenuID)
-	{	
-		var x;
-		
-		if (document.getElementById)// prevents this from being called in non w3c compliant browsers
-		{
-			// Hide all other submenus immediately
-			for (x=0; x<topMenu.SubMenus.length; x++)
-			{						
-				if (topMenu.SubMenus[x].SubMenuID != subMenuID)
-					hideSubMenu(topMenu.SubMenus[x].SubMenuID);
-			}		
-			
-			clearTimeout(setTimeOutId);		
-			var subMenu = eval("document.getElementById('" + subMenuID + "')");				
-			subMenu.style.display = 'block';
-		}
-	}
-	
-	// Hides the passed in submenu
-	function hideSubMenu(subMenuID)
-	{
-		var subMenu = eval("document.getElementById('" + subMenuID + "')");
-		subMenu.style.display = 'none';
-	}
-	
-	// Creates the menu display
-	function renderMenu(menuToRender)
-	{
-		// Loop through 
-		var x;
-		var y;
-		for (x=0; x<topMenu.SubMenus.length; x++)
-		{
-			var curSubMenu = topMenu.SubMenus[x];
-			
-			// Generate SubMenu div container
-			var menuString = "<div style=LEFT:" + (parseFloat(topMenu.LeftMargin + curSubMenu.Left) + 1) + "px;z-index:1;display:none;POSITION:absolute;TOP:" +
-				parseFloat(topMenu.TopMargin + curSubMenu.Top) + "px; id=" + curSubMenu.SubMenuID + " onmouseout=delayedHideSubMenu('" + curSubMenu.SubMenuID + 
-				"'); onmouseover=showSubMenu('" + curSubMenu.SubMenuID + "');>";
-			
-			// Generate the beginning of menu table
-			menuString += "<table width=113 cellpadding=0 cellspacing=0 border=0><tr><td width=1 bgcolor=" + 
-				curSubMenu.BorderColor + "><img src=http://www.realage.com/uc/img/clear.gif width=1 height=1>" +
-				"</td><td bgcolor=" + curSubMenu.BackGroundColor + " width=100%><table width=100% cellpadding=0 " + 
-				"cellspacing=0 border=0></td></tr><tr><td colspan=2><img src=http://www.realage.com/uc/img/clear.gif " + 
-				"width=1 height=4></td></tr>"
-				
-			// Loop through MenuItems and add them to the SubMenu
-			for (y=0; y<curSubMenu.MenuItems.length; y++)
-			{
-				var curMenuItem	 = curSubMenu.MenuItems[y];
-				var openInNew	 = '';
-				var spacerHeight = '3';
-				var spacerPath	 = 'http://www.realage.com/uc/img/dotted_line.gif';
-				
-				// Set a target=_blank if the link is set to open in 
-				// a new window
-				if (curMenuItem.OpensNewWindow)
-					openInNew = ' target=_blank ';
-					
-				// Add a bit more space to the bottom of the menu, and don't use
-				// the dotted line spacer
-				if (y == curSubMenu.MenuItems.length-1)
-				{
-					spacerHeight = '4';
-					spacerPath	 = 'http://www.realage.com/uc/img/clear.gif';
-				}
-				
-				menuString += "<tr><td valign=top><img src=http://www.realage.com/uc/img/clear.gif " + 
-					"width=12 height=16 name=" + curMenuItem.MenuItemID + "></td><td valign=top width=109><span class=" + 
-					curMenuItem.Style + "><a href=" + curMenuItem.Destination + " onmouseover=swapImage('" + 
-					curMenuItem.MenuItemID + "','http://www.realage.com/uc/img/bullet_fullsize.gif'); onmouseout=" + 
-					"swapImage('" + curMenuItem.MenuItemID + "','http://www.realage.com/uc/img/clear.gif');" + 
-					openInNew + ">" + curMenuItem.Text + "</a></span></td></tr><tr><td colspan=2><img " + 
-					"src=" + spacerPath + " height=" + spacerHeight + "></td></tr>"
-			}
-				
-			// Generate the end of menu table
-			menuString += "</table></td><td width=1 bgcolor=" + curSubMenu.BorderColor + "><img " + 
-				"src=http://www.realage.com/uc/img/clear.gif width=1 height=1></td></tr><tr>" + 
-				"<td colspan=3 bgcolor=" + curSubMenu.BorderColor + " height=1></td></tr></table></div>"
-				
-			// Write the menu text to the page			
-			document.write(menuString);
-		}		
-	}
-	
-	// This is used to open a new window to the premium report.  If a window is already open, it
-	// will not open another one.
-	var newWin;
-	function openNewWindowSpecial(path)
-	{	
-		if (newWin != null)
-		{
-			if (newWin.closed)
-				newWin = window.open(path, '', 'location,status,scrollbars,resizable,menubar,toolbar,width=750,height=550');
-			else
-				newWin.focus();
-		}
-		else		
-			newWin = window.open(path, '', 'location,status,scrollbars,resizable,menubar,toolbar,width=750,height=550');
-	}		
-</script><div style="LEFT:133px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm0" onmouseout="delayedHideSubMenu('sm0');" onmouseover="showSubMenu('sm0');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/regassess.aspx?mod=LONGFORM" onmouseover="swapImage('sm0_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i0','http://www.realage.com/uc/img/clear.gif');">The RealAge<br>Test</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/news_features/tip.aspx" onmouseover="swapImage('sm0_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i1','http://www.realage.com/uc/img/clear.gif');">Tip of the Day</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/health_guides/hg_entry.aspx" onmouseover="swapImage('sm0_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i2','http://www.realage.com/uc/img/clear.gif');">Health Centers</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/news_features/news_entry.aspx" onmouseover="swapImage('sm0_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i3','http://www.realage.com/uc/img/clear.gif');">Health News</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i4"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/LIFE/jmplife.aspx?hp=1&amp;lid=LfeChlg" onmouseover="swapImage('sm0_i4','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i4','http://www.realage.com/uc/img/clear.gif');">LIFE Challenge</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i5"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/library.aspx" onmouseover="swapImage('sm0_i5','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i5','http://www.realage.com/uc/img/clear.gif');">Encyclopedia</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i7"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/12ways.aspx" onmouseover="swapImage('sm0_i7','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i7','http://www.realage.com/uc/img/clear.gif');">12 Ways to Be Younger</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i8"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/rec_reading.aspx" onmouseover="swapImage('sm0_i8','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i8','http://www.realage.com/uc/img/clear.gif');">RealAge Books</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:248px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm1" onmouseout="delayedHideSubMenu('sm1');" onmouseover="showSubMenu('sm1');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('sm1_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i0','http://www.realage.com/uc/img/clear.gif');">The Company</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/advertising.aspx" onmouseover="swapImage('sm1_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i1','http://www.realage.com/uc/img/clear.gif');">Advertise with Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/oursponsors.aspx" onmouseover="swapImage('sm1_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i2','http://www.realage.com/uc/img/clear.gif');">Our Sponsors</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/licensing.aspx" onmouseover="swapImage('sm1_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i3','http://www.realage.com/uc/img/clear.gif');">License the Brand</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i4"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/RA_faqs.aspx" onmouseover="swapImage('sm1_i4','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i4','http://www.realage.com/uc/img/clear.gif');">Our Science</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i5"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/link2RA.aspx" onmouseover="swapImage('sm1_i5','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i5','http://www.realage.com/uc/img/clear.gif');">Link to Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i6"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/contactra.aspx" onmouseover="swapImage('sm1_i6','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i6','http://www.realage.com/uc/img/clear.gif');">Contact Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i7"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('sm1_i7','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i7','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:363px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm2" onmouseout="delayedHideSubMenu('sm2');" onmouseover="showSubMenu('sm2');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('sm2_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i0','http://www.realage.com/uc/img/clear.gif');">Password</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/cust_request.aspx" onmouseover="swapImage('sm2_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i1','http://www.realage.com/uc/img/clear.gif');">Technical</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="mailto:feedback@realage.com" onmouseover="swapImage('sm2_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i2','http://www.realage.com/uc/img/clear.gif');">E-mail Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('sm2_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i3','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:478px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm3" onmouseout="delayedHideSubMenu('sm3');" onmouseover="showSubMenu('sm3');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx?mat=100" onmouseover="swapImage('sm3_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i0','http://www.realage.com/uc/img/clear.gif');">Change E-mail</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('sm3_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i1','http://www.realage.com/uc/img/clear.gif');">Update Personal Info</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx?mat=107" onmouseover="swapImage('sm3_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i2','http://www.realage.com/uc/img/clear.gif');">Change Subscriptions</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('sm3_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i3','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div></td>
-</tr>
- <!-- EndOldNavigationTrackingMarker --> 
-	<tr> 
+	<tbody><tr> 
 		<td nowrap="">
 			<table width="770" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
-					<td rowspan="3" class="HeaderContentLogoV2"><a href="http://www.realage.com/index.aspx" onclick="Call_AJAX_Tracking('209,F',this,'');"><img src="http://www.realage.com/App_Images/Header/hd_ra-logo2.gif"></a></td>
+					<td rowspan="3" class="HeaderContentLogoV2"><a href="http://www.realage.com/index.aspx" onclick="Call_AJAX_Tracking('207,F',this,'');"><img src="http://www.realage.com/App_Images/Header/hd_ra-logo2.gif"></a></td>
 					<td><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="16" width="1"></td>				
-					<td align="right" valign="bottom"><span id="Header2_WelcomeText"><span class="FontVerySmall" id="WelcomeTextSpan">Welcome to RealAge! <a href="http://www.realage.com/Reg/Regassess.aspx?mod=DEFAULT&amp;dest=http%3a%2f%2fwww.realage.com%2fcompany_info%2fprivacy.aspx">Please sign in</a> to view personalized health information.</span></span></td>
+					<td align="right" valign="bottom"></td>
 					
 				</tr>
 				<tr>	
 					<td><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="38" width="1"></td>				
-					<td valign="middle" nowrap=""><div class="HeaderTitleImgContainer"><span class="FontMedium"><img src="http://www.realage.com/App_Images/Header/hd_about.gif" alt="" border="0"><br>Read about our company, our science and executive teams, our policies, and more</span></div></td>
+					<td valign="middle" nowrap="">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody><tr>
+								<td><div class="HeaderTitleImgContainer"><span class="FontMedium"><img src="http://www.realage.com/App_Images/Corporate/Header/hdcorp_aboutrealage.gif" alt="" border="0"><br>Read about our company, our science and executive teams, our policies, and more</span></div></td>
+								<td align="right"></td>
+							</tr>
+						</tbody></table>
+					</td>
 				</tr>
 				<tr>	
 					<td colspan="2"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="11" width="1"></td>
@@ -473,44 +155,23 @@
 			</tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td bgcolor="#45688E" nowrap="" class="HeaderNavTile" height="25" valign="top"></td>
+	</tr>
+	<tr>
+		<td class="HeaderPixel2Height"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="2"></td>
+	</tr>
+	<tr>
+		<td class="HeaderPixel1Height"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="1"></td>
+	</tr>
 	
 	<tr>
-		<td bgcolor="#43698E"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="2"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#003366"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="1"></td>
-	</tr>
-	<tr id="Header2_Search">
-	<td class="HeaderSearchContainer" valign="bottom">			
-			<table cellpadding="0" cellspacing="0" border="0" style="margin-top:7px;">
-				<tbody><tr>
-					<td valign="bottom"><img src="http://www.realage.com/App_Images/Header/hd_searchbox_left.gif"></td>
-					<td class="HeaderSearchBoxContainer" valign="top">						
-						<table cellpadding="0" cellspacing="0" align="center">
-							<form id="SearchForm" action="http://www.realage.com/srch/RASearch.aspx" method="get"></form>
-							<input type="hidden" id="Catno" name="Catno" value="-1">
-							<input type="hidden" name="m" value="1">
-							<tbody><tr>
-								<td valign="top"><input name="query" type="text" size="40" style="margin-top:6px;" id="SearchTextBox"></td>
-								<td valign="top"><a href="javascript:document.getElementById('SearchForm').submit();" onclick="Call_AJAX_Tracking(216 + ',F',this,'');"><img src="http://www.realage.com/App_Images/Buttons/bt_smartsearch.gif" style="margin-left:5px;margin-top:6px;"></a></td>
-								<td valign="top"><div class="FontSmall" style="color:#003366;line-height:1em;margin-top:6px;margin-left:10px;">RealAge Smart Search (BETA)<br>Hand-selected health results. <a href="http://www.realage.com/srch/RASearch.aspx" onclick="Call_AJAX_Tracking('219,F',this,'');">Learn More</a>.</div></td>
-							</tr>							
-							
-						</tbody></table>						
-					</td>
-					<td valign="bottom"><img src="http://www.realage.com/App_Images/Header/hd_searchbox_right.gif"></td>
-				</tr>
-			</tbody></table>
-		</td>
-</tr>
-
-	<tr>
-		<td class="HeaderSearchBottom">
-	</td></tr>	
-</tbody></table>	</td>
+		<td class="HeaderSearchBottom"></td>
+	</tr>	
+</tbody></table></td>
 			</tr>
 			<form name="Form1" method="post" action="privacy.aspx" id="Form1"></form>
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTI2NzMxNzAzNjt0PDtsPGk8MD47aTwyPjs+O2w8dDw7bDxpPDE+O2k8Mz47aTw1Pjs+O2w8dDxwPGw8VmlzaWJsZTs+O2w8bzx0Pjs+PjtsPGk8MD47PjtsPHQ8O2w8aTwwPjs+O2w8dDw7bDxpPDE+Oz47bDx0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+Oz4+Oz4+Oz4+O3Q8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47Oz47dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjs+Pjt0PDtsPGk8Mz47PjtsPHQ8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47Oz47Pj47Pj47PoBPc1vfPwmT9ndjuF5vW3ja6Jac">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMTc3ODEwMDQ3NDt0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDI+O2k8NT47aTw2Pjs+O2w8dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjt0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+O3Q8cDxsPFZpc2libGU7PjtsPG88Zj47Pj47Oz47dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjs+Pjs+Pjs+lzb4rctvKXc2haO8dQDH7ezR2W8=">
 
 			<tr>
 				<td valign="top" height="100%" class="MainContainer">										
@@ -521,20 +182,18 @@
 								<!-- Start Left Navigation -->
 								<!-- ********************* -->
 								
-								<div class="LeftNavigationContainer"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_top-corners.gif"><div class="LeftNavigationHeadingOuterBox"><div class="LeftNavigationHeadingInnerBox"><div class="LeftNavigationHeadingContentBox">ABOUT REALAGE</div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/company_entry.aspx">THE COMPANY</a></div></div></div><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/rapromise.aspx">The RealAge Promise</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/raexecstaff.aspx">Executive Team</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/directors.aspx">Board of Directors</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/scienceteam.aspx">Scientific Advisory Board</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/privacy.aspx">Privacy Policy</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/copyright.aspx">Patents</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/advertisingpolicy.aspx">Marketing and Editorial Standards</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/RA_faqs.aspx">Our Science</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/prbooks.aspx">Our Books</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_solid_spacer.gif" alt="" border="0"><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/press/pressreleases.aspx">PRESS ROOM</a></div></div></div><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/pressreleases.aspx">Press Releases</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/prarticles.aspx">Media Activity</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" alt="" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/mediaspotlight.aspx">Speaking Engagements</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_solid_spacer.gif" alt="" border="0"><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/bus_overview.aspx">BUSINESS OVERVIEW</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/advertising.aspx">ADVERTISE WITH US</a></div></div></div><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/oursponsors.aspx">Our Sponsors</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_solid_spacer.gif" alt="" border="0"><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/licensing.aspx">LICENSE THE BRAND</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/raTV.aspx">REALAGE TELEVISION</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/permission_request.aspx">PERMISSIONS</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/contactra.aspx">CONTACT US</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/careers.aspx">CAREERS</a></div></div></div></div><p>
-
 								
 								<!-- ******************* -->										
 								<!-- End Left Navigation -->
 								<!-- ******************* -->
-							</p></td>
+							</td>
 							<td valign="top">
 								<table cellpadding="0" cellspacing="0" border="0">
 									<tbody><tr>
-										<td colspan="3"><img src="http://www.realage.com/App_Images/Miscellaneous/bkgd_3ctp.gif"></td>
+										<td colspan="3" class="Template1MainBoxBar"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="15px" border="0"></td>
 									</tr>
 									<tr>
-										<td valign="top"><img src="http://www.realage.com/App_Images/Miscellaneous/bkgd_lfsd.gif"></td>
+										<td valign="top"><img src="http://www.realage.com/App_Images/Corporate/Miscellaneous/left_corp.gif"></td>
 										<td valign="top" bgcolor="FFFFFF">
 											<div class="Template1Container">
 												<table width="100%" cellpadding="0" cellspacing="0">
@@ -687,8 +346,7 @@
 																	periodically send you free newsletters and e-mails that directly promote the 
 																	use of our site(s) or the purchase of our products or services and may contain 
 																	advertisements for third parties. As a benefit of becoming a member, you may 
-																	receive promotional e-mail from RealAge divisions such as DogAge, CatAge, Years 
-																	Ahead, RealBeauty, MyLifestyleInterests, and others. If you would like to cease 
+																	receive promotional e-mail from RealAge divisions such as DogAge, CatAge, RealBeauty, MyLifestyleInterests, and others. If you would like to cease 
 																	receiving these communications from us, you may unsubscribe by visiting those 
 																	Web pages.
 																	<br><br>
@@ -716,7 +374,7 @@
 																	<br><br>
 																	RealAge is a company with either subsidiaries, joint ventures, or other 
 																	companies under a common control (collectively, “affiliates”). These affiliates 
-																	include, but are not limited to, DogAge, CatAge, Years Ahead, RealBeauty, and 
+																	include, but are not limited to, DogAge, CatAge, RealBeauty, and 
 																	MyLifestyleInterests. We may share some or all of your Personal Data with these 
 																	affiliates, in which case we will require our affiliates to honor this Privacy 
 																	Statement. If another company acquires our company or our assets, that company 
@@ -867,7 +525,7 @@
 												</tbody></table>												
 											</div>
 										</td>
-										<td valign="top"><img src="http://www.realage.com/App_Images/Miscellaneous/bkgd_rtsd.gif"></td>
+										<td valign="top"><img src="http://www.realage.com/App_Images/Corporate/Miscellaneous/right_corp.gif"></td>
 									</tr>
 								</tbody></table>								
 							</td>
@@ -890,34 +548,9 @@
 			</tr>		
 				
 			<tr>
-				<td valign="bottom">
-<searchignore><!--this tag prevents the Thunderstone Search Engine from indexing this text-->
-<div class="FooterBackground">
-	<div id="Footer1_sitePageFooter" class="FooterContainer">
-		<a href="http://www.realage.com/index.aspx">Home</a>&nbsp;|&nbsp;
-		<a href="http://www.realage.com/help_desk/sitemap.aspx">Site Map</a>&nbsp;|&nbsp;
-		<a href="http://www.realage.com/company_info/privacy.aspx">Privacy</a>&nbsp;|&nbsp;
-		<a href="http://www.realage.com/company_info/copyright.aspx">Copyright, Patents and Trademarks</a>&nbsp;|&nbsp;
-		<a href="http://www.realage.com/company_info/termsofuse.aspx">Terms of Use</a>
-		<br>
-		<a href="http://www.realage.com/index.aspx">www.RealAge.com</a>&nbsp;Copyright© 2006, RealAge, Inc.
-		<br><br>		
-		Medical Disclaimer:  All information on this site is of a general nature and is furnished for your knowledge and understanding only.  This information is<br>
-		not to be taken as medical or other health advice pertaining to your specific health and medical condition.		
-	</div>
-	
-	
-	
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-224406-2";
-urchinTracker();
-</script>
-</div>
-</searchignore></td>
+				<td valign="bottom"><br><br></td>
 			</tr>
 		</tbody></table>
 		
 	
-<script type="text/javascript">document.getElementById('WelcomeTextSpan').innerHTML="Welcome to RealAge! <a href='http://www.realage.com/Reg/Regassess.aspx?mod=DEFAULT&dest=http%3a%2f%2fwww.realage.com%2fcompany_info%2fprivacy.aspx'>Please sign in</a> to view personalized health information.";document.getElementById('SearchTextBox').value = '';Call_AJAX_Tracking('208,F',this,'');</script><script type="text/javascript">function CreateXmlHttp() {   var XmlHttp = null;   try {	    XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');   }    catch (e) {	    try {		    XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');	    } 	    catch (e) {		    try {			    XmlHttp = new XMLHttpRequest();		    }		    catch (e) {			    return null;		    }	    }   }   return XmlHttp;}var xmlTest = CreateXmlHttp();if (xmlTest == null || !(document.getElementById)) {	alert('For the best experience using RealAge, we recommend that you upgrade to the latest version of Safari, Mozilla, Firefox, or Netscape (Mac or PC), or Internet Explorer for PC.');}</script></body></html>
+<script type="text/javascript">Call_AJAX_Tracking('206,F',this,'');</script><script type="text/javascript">function CreateXmlHttp() {   var XmlHttp = null;   try {	    XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');   }    catch (e) {	    try {		    XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');	    } 	    catch (e) {		    try {			    XmlHttp = new XMLHttpRequest();		    }		    catch (e) {			    return null;		    }	    }   }   return XmlHttp;}var xmlTest = CreateXmlHttp();if (xmlTest == null || !(document.getElementById)) {	alert('For the best experience using RealAge, we recommend that you upgrade to the latest version of Safari, Mozilla, Firefox, or Netscape (Mac or PC), or Internet Explorer for PC.');}</script></body></html>
