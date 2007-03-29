@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickeasyarticles.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626163424id_/http%3A//www.clickeasyarticles.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3Daca4ebd188fdd6df6affdc23345a5cde) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickeasyarticles.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329213559id_/http%3A//www.clickeasyarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Submit Free Articles - Get Easy Web Content - ClickEasyArticles.com
 
