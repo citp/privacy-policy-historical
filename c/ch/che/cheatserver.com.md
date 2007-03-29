@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209233303id_/http%3A//cheatserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329093305id_/http%3A//cheatserver.com/privacy.asp) for the most accurate reproduction.*
 
 # Cheat Server Privacy Statement
 
@@ -14,7 +14,7 @@ We use [Google](http://www.google.com/), [Burst Media](http://www.burstmedia.com
 
 <http://www.networkadvertising.org/optout_nonppii.asp>
 
-You can view the privacy policies of our third party ad companies the we use here: <http://www.google.com/privacy.html>, <http://www.burstmedia.com/release/privacy.asp>, <http://www.interclick.com/privacy_policy.aspx>, <http://www.tribalfusion.com/TribalFusion/privacy.html>, <http://www.casalemedia.com/privacy.html>
+You can view the privacy policies of our third party ad companies the we use here: <http://www.google.com/privacy.html>, <http://www.burstmedia.com/release/privacy.asp>, <http://www.tribalfusion.com/TribalFusion/privacy.html>, <http://www.casalemedia.com/privacy.html>
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  
