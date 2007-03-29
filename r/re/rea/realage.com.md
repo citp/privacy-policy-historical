@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
 
 # About RealAge — RealAge Privacy Statement
 
@@ -38,7 +38,7 @@ RealAge uses your Personal Data to provide you with a customized Web experience 
 
 We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users’ aggregate behavior so that we may enhance the content of our services and improve site navigation. RealAge reserves the right to use and disclose Anonymous Data to third parties in its discretion. 
 
-If you elect to receive communications from us (as described below), we will periodically send you free newsletters and e-mails that directly promote the use of our site(s) or the purchase of our products or services and may contain advertisements for third parties. As a benefit of becoming a member, you may receive promotional e-mail from RealAge divisions such as DogAge, CatAge, Years Ahead, RealBeauty, MyLifestyleInterests, and others. If you would like to cease receiving these communications from us, you may unsubscribe by visiting those Web pages. 
+If you elect to receive communications from us (as described below), we will periodically send you free newsletters and e-mails that directly promote the use of our site(s) or the purchase of our products or services and may contain advertisements for third parties. As a benefit of becoming a member, you may receive promotional e-mail from RealAge divisions such as DogAge, CatAge, RealBeauty, MyLifestyleInterests, and others. If you would like to cease receiving these communications from us, you may unsubscribe by visiting those Web pages. 
 
 **Disclosure of Your Personal Data**   
 Except as otherwise stated in this policy, we do not sell, trade, or rent the Personal Data collected from our services to third parties. However, we will share your Personal Data with third parties to charge your credit card (if authorized by you), fill your order, and deliver promotional e-mails. These third parties are required not to use your Personal Data other than to provide the services requested by RealAge. You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the sole purpose of providing services to you. 
@@ -47,7 +47,7 @@ If you send a testimonial or comment to us, we may post it on our site or use it
 
 Regardless of any choices you make regarding your Personal Data (as described below), RealAge may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on RealAge; or (b) protect or defend the rights or property of RealAge or users of RealAge services. 
 
-RealAge is a company with either subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”). These affiliates include, but are not limited to, DogAge, CatAge, Years Ahead, RealBeauty, and MyLifestyleInterests. We may share some or all of your Personal Data with these affiliates, in which case we will require our affiliates to honor this Privacy Statement. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Statement. 
+RealAge is a company with either subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”). These affiliates include, but are not limited to, DogAge, CatAge, RealBeauty, and MyLifestyleInterests. We may share some or all of your Personal Data with these affiliates, in which case we will require our affiliates to honor this Privacy Statement. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Statement. 
 
 If you provide RealAge with your mailing address, we may share your name and mailing address with our affiliates or other third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out of having your Personal Data shared with affiliated or unaffiliated third parties for their direct marketing purposes. To submit such an opt-out request, please go to [My Account](http://www.realage.com/reg/MyAcntTC.aspx) or write to:  
 _RealAge, Inc._  
@@ -60,12 +60,12 @@ Be sure to include your full name and address in your opt-out request, in order 
 **Control of Your Personal Data**
 
 **Your Choices Regarding Your Personal Data**   
-We offer you choices regarding the collection, use, and sharing of your Personal Data. You may proactively make such choices by visiting [My Account](https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). 
+We offer you choices regarding the collection, use, and sharing of your Personal Data. You may proactively make such choices by visiting [My Account](https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). 
 
-When you become a member of RealAge by registering on our site, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by checking the box located on the registration form. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, or by going to [My Account](https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). If at any time you wish to subscribe to any communications from us, you may visit [My Account](https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Statement. 
+When you become a member of RealAge by registering on our site, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by checking the box located on the registration form. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, or by going to [My Account](https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). If at any time you wish to subscribe to any communications from us, you may visit [My Account](https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Statement. 
 
 **Accessing, Reviewing, and Changing Your Personal Data**   
-You may change any of your contact information in your account online by visiting [My Account](https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). Note that we may retain changed or deleted information in our archives. 
+You may change any of your contact information in your account online by visiting [My Account](https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). Note that we may retain changed or deleted information in our archives. 
 
 **Security of Your Personal Data**   
 RealAge is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. 
@@ -94,4 +94,4 @@ We may amend this Privacy Statement from time to time. If we make material chang
 
 This Privacy Statement was last revised in February 2005. 
 
-[View our Copyright, Patents, and Trademarks](https://web.archive.org/web/20061205231356id_/http%3A//www.realage.com/company_info/copyright.aspx). 
+[View our Copyright, Patents, and Trademarks](https://web.archive.org/web/20070329050756id_/http%3A//www.realage.com/company_info/copyright.aspx). 
