@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231074347id_/http%3A//www.g-loaded.eu/about/statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2007-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070330192350id_/http%3A//www.g-loaded.eu/about/statements) for the most accurate reproduction.*
 
 # G-Loaded! » Privacy Statement and Terms of Use
 
@@ -54,4 +54,5 @@ If for any reason you cannot accept these terms and conditions or this web site�
 
 You are free to use any info posted in this web site as long as you comply with the site’s license or any other license information that is stated. Read my [License Information and Disclaimer](https://web.archive.org/about/disclaimer-and-license/ "Link to G-Loaded! License Info and Disclaimer").
 
-This page is under continuous construction and maintenance, so check back often for updates.
+This page is under continuous construction and maintenance, so check back often for updates.  
+Last Update: `2007-02-24T09:15:54+0200`
