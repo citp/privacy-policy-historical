@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193342id_/https%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2007-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070331095432id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
