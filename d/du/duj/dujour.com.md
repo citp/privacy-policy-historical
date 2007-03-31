@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dujour.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224651id_/http%3A//benjamin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dujour.com privacy policy that was archived on 2007-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070331203217id_/http%3A//www.benjamin.com/privacy.htm) for the most accurate reproduction.*
 
 # Gold Canyon and Phoenix Arizona Realtors –Bob and Carolin Benjamin - 480-201-3001
 
@@ -15,7 +15,7 @@ Collected Information:
 Your personal information is collected through our contact forms only. This website currently has no applications or programs that gather information from your computer without your consent. Users are required to give us contact information (e.g., your name and email address) and demographic information (e.g., your zip code). Certain information, such as your email address, is collected in order to verify your identity and for use in our records. Information collected at this website is kept in our records only as long as is necessary to provide requested services to our clients.
 
 Summation:  
-If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20061205224651id_/http%3A//benjamin.com/contact.htm)
+If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20070331203217id_/http%3A//www.benjamin.com/contact.htm)
 
   
 | 
