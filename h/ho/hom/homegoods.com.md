@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201115801id_/http%3A//www.homegoods.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2007-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070331112426id_/http%3A//www.homegoods.com/privacy.asp) for the most accurate reproduction.*
 
 # HomeGoods
+
+|  | 
 
 Welcome to homegoods.com (the "Website"), a website for HomeGoods, a division of The TJX Companies, Inc. ("TJX"). TJX, HomeGoods, Marshalls, T.J. Maxx, Bob's Stores, A.J. Wright, and its other affiliates are the "TJX Businesses." This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's Terms of Use. If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control.
 
@@ -89,7 +91,7 @@ If you are a California resident, California law provides that you be given the 
 
 California residents can opt-out of our sharing your information as described above by contacting Customer Service, Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-888-0776, and requesting that you would like to opt-out from receiving all marketing communications from HomeGoods and all other TJX Businesses. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to thirty (30) days to fully process your opt-out request.
 
-To review our complete Privacy and Security Policy, please [click here](https://web.archive.org/web/20061201115801id_/http%3A//www.homegoods.com/privacy.asp#top). 
+To review our complete Privacy and Security Policy, please [click here](https://web.archive.org/web/20070331112426id_/http%3A//www.homegoods.com/privacy.asp#top). 
 
 **Contact Information**
 
@@ -106,4 +108,6 @@ We reserve the right to modify our Privacy and Security Policy by updating this 
 
 This statement was last updated as of October 24, 2005.
 
-®2006 HomeGoods. All rights reserved.
+©2007 HomeGoods. All rights reserved.  
+  
+---|---
