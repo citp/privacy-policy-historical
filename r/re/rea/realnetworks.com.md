@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210259id_/http%3A//www.realnetworks.com/R/TXPPrnpp_060809R/www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2007-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070401164353id_/http%3A//www.realnetworks.com/R/TXPPrnpp_070327R/www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., RealNetworks Digital Music of California, Inc. and Listen.com, Inc. Privacy Policy
 
