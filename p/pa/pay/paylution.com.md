@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paylution.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428124534id_/http%3A//www.paylution.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylution.com privacy policy that was archived on 2007-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070401204549id_/http%3A//www.paylution.com/privacy.htm) for the most accurate reproduction.*
 
-# Paylution - Privacy Policy
+# Paylution prepaid debit card product and service privacy policy
 
 When you become a PAYlution cardholder, and in the course of your transactions through PAYlution, you share some of your important personal information with us. Your privacy is important to us and we understand the sensitive nature of this information. PAYlution is vigilant in its efforts to ensure that information about its cardholders is protected. While your privacy has always been important to us, our new Privacy Policy provides you with all of the safeguards set forth in the Canadian federal Personal Information Protection and Electronic Documents Act (PIPEDA) and in other applicable personal information protection legislation ("Privacy Laws"). Nothing in this Privacy Policy will limit our rights and obligations pursuant to such Privacy Laws. 
 
@@ -113,8 +113,8 @@ Please contact our Privacy Officer to discuss any privacy issues or concerns you
 By Mail:**  
 Privacy Officer  
 hyperWALLET Systems Inc.  
-302-750 West Pender St.  
-Vancouver, BC V6C 2T8
+1200-736 Granville St.  
+Vancouver, BC V6Z 1G3
 
  **By E-mail:**  
 [privacyofficer@paylution.com](mailto:privacyofficer@paylution.com)
