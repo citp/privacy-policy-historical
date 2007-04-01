@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelthailand.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030205625id_/http%3A//www.hotelthailand.com/customer_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelthailand.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402010422id_/http%3A//hotelthailand.com/customer_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Hotel Thailand Privacy Policy Information - Thailand Hotels-large selection of hotels and resorts in Thailand, find your accommodations online.
 
@@ -52,7 +52,4 @@ HotelThailand.com contains links to other Web sites. Please note that when you c
 
 In addition to the circumstances described above, HotelThailand.com may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of HotelThailand.com or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
 
-Any material changes in the way HotelThailand.com uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to services(a)HotelThailand.com [(a) = @] . Please reference the privacy policy in your subject line. HotelThailand.com will attempt to respond to all reasonable concerns or inquiries.   
-  
-| [](http://www.hotelthailand.com/live_chat.html "Live Chat 24/7 Support")  
----
+Any material changes in the way HotelThailand.com uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to services(a)HotelThailand.com [(a) = @] . Please reference the privacy policy in your subject line. HotelThailand.com will attempt to respond to all reasonable concerns or inquiries. 
