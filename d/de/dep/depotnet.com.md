@@ -1,25 +1,58 @@
-> *The following text is extracted and transformed from the depotnet.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207213911id_/http%3A//depotnet.com/about.php%3Fp%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depotnet.com privacy policy that was archived on 2007-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070401184313id_/http%3A//www.depotnet.com/content/site/node/9) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | DepotNet
 
-|  |  |  |   
----  
-At DepotNet.com, we recognize and respect the importance of maintaining the privacy of our customers and members and have established this Privacy Policy as a result. Below we describe why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of DepotNet.com.  
-**Why do we gather information?**  
-We gather personal information to allow us to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of special offers and discounts.   
-**What information do we gather?**  
-When you order from our Web site, we may collect the following information: your name, telephone number, email address, billing address, shipping address products purchased, any relevant promotion code.   
-**How we use "cookies"**  
-A "cookie" is a small file stored on your computer by a Web site which gives you a numeric user ID and stores certain information about your activity on the site. We use cookies to let us know that you are a prior customer and to provide certain features to you, for example to store information on your product selections as you shop on our site, but we do not store any personal information or financial information about you using cookies.   
-Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature, certain aspects of DepotNet.com, such as the shopping basket, will not function properly.   
-**How we use the information we collect about you.**  
-We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you and your gift recipients of offers and discounts from DepotNet.com or other sites and companies that we own. In addition, we periodically make such information, including aggregated information, available to selected third parties including but not limited to, those who trade or rent information for direct marketing purposes. However, we do not make you, or your gift recipient's email addresses available to third parties (except for subsidiaries, subcontractors or agents acting on our behalf in compliance with this Privacy Policy) or any Successor (see below) to our business. If you would like us to email you a notice when our Privacy Policy or Terms of Use change, please follow the instructions below. Any email sent to your gift recipients will include a link to our Privacy Policy and a link to use if they wish not to receive further emails. You may instruct us not to share personal information you provide with third parties by following the instructions provided below. A Successor to our business is not to be considered to be a third party for these purposes (see below). 
+**Our Commitment to Privacy**   
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.   
+**  
+What Information Do We Collect?**   
+When you visit [www.depotnet.com](http://www.depotnet.com/ "www.depotnet.com") or using associated products, you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site or use our products.
 
-In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of DepotNet.com (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers and members. However, the use of this information by any Successor would still be governed by the terms of this privacy policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. 
+**1\. Personal Information You Choose to Provide** **Credit Card Information**   
+If you choose to purchase products or services from us, you may need to give personal or business information and authorization to obtain information from various credit services.
 
-We may disclose any information you provide to DepotNet.com (i) when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site; or (iii) to protect the rights or property of DepotNet.com, its users, Sponsors, Providers, Licensors, or Merchants.   
+**Email Information**   
+In addition to providing the foregoing information to us, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+
+**2\. Web Site Use Information**   
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+
+**How Do We Use the Information That You Provide to Us?**   
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional business standards designed to safeguard the security and privacy of our customers’ personal information. As a customer, you will always be given the opportunity to notify us of your desire not to receive these offers.
+
+**What Are Cookies?**   
+Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.  
   
-**Your Security**  
-Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator. However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us.   
-**Your Consent and Changes to this Policy**  
-Subject to the above provisions, by using our Web site, you consent to the collection and use of information by us and the terms of this Privacy Policy. We may change our Privacy Policy from time to time and we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like prior notice of changes to the Privacy Policy or Terms of Use, contact us. By using DepotNet.com, after such changes and posting, you agree to be legally bound and to abide by the changes and other provisions contained in the Privacy Policy and Terms of Use. 
+**How Do We Use Information We Collect from Cookies?**   
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the user-friendliest manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.  
+Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you.
+
+**Sharing Information with Strategic Partners**   
+We may enter into strategic alliances or partnerships to provide you with additional shopping cart related services and they may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your personal financial data.   
+  
+**Notice of New Services and Changes**   
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at en.general[AT]depotnet.com
+
+**How Do We Secure Information Transmissions?**   
+When you send confidential personal credit card information to us on our Web site, secure server software, which we have licensed, encrypts all information you input before it is sent to us. The information is scrambled en route and decoded once it reaches our Web site.  
+Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as Social Security or account numbers to us through an unsecured email. 
+
+**How Do We Protect Your Information?**   
+**Information Security.** We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
+
+**Evaluation of Information Protection Practices**. Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
+
+**Employee Access, Training and Expectations.** Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
+
+**How Can You Access and Correct Your Information?**   
+You may request in writing access to all your personally identifiable information that we collect online and make changes to the information by emailing en.general[AT]depotnet.com
+
+**What About Legally Compelled Disclosure of Information?**   
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
+
+**What About Other Web Sites Linked to Our Web Site?**   
+We are not responsible for the practices employed by Web sites linked to or from neither our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  
+Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites, which have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.  
+  
+**Your Consent**   
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
