@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031140228id_/http%3A//www.dealsdirect.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402052351id_/http%3A//www.dealsdirect.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Statements - Deals Direct Australia
+# Privacy Statement - Deals Direct Australia
 
-  * [Privacy and Security](http://www.dealsdirect.com.au/privacy.php#privacy)
-  * [The National Privacy Principles](http://www.dealsdirect.com.au/privacy.php#nationalprivacy)
-  * [Collecting Personal Information About You](http://www.dealsdirect.com.au/privacy.php#personalinformation)
-  * [Using and Disclosing Your Personal Information](http://www.dealsdirect.com.au/privacy.php#disclosingpersonalinformation)
-  * [Access to Your Personal Information](http://www.dealsdirect.com.au/privacy.php#accesspersonalinformation)
-  * [Correcting Your Personal Information](http://www.dealsdirect.com.au/privacy.php#correctingpersonalinformation)
-  * [Securing and Storing Your Personal Information](http://www.dealsdirect.com.au/privacy.php#securingpersonalinformation)
-  * [Disposal of Personal Information](http://www.dealsdirect.com.au/privacy.php#disposal)
-  * [For more information or to complain about a breach of your privacy](http://www.dealsdirect.com.au/privacy.php#breach)
-  * [Changes To Our Privacy Policy](http://www.dealsdirect.com.au/privacy.php#changeprivacy)
+  * [Privacy and Security](http://www.dealsdirect.com.au/privacy/#privacy)
+  * [The National Privacy Principles](http://www.dealsdirect.com.au/privacy/#nationalprivacy)
+  * [Collecting Personal Information About You](http://www.dealsdirect.com.au/privacy/#personalinformation)
+  * [Using and Disclosing Your Personal Information](http://www.dealsdirect.com.au/privacy/#disclosingpersonalinformation)
+  * [Access to Your Personal Information](http://www.dealsdirect.com.au/privacy/#accesspersonalinformation)
+  * [Correcting Your Personal Information](http://www.dealsdirect.com.au/privacy/#correctingpersonalinformation)
+  * [Securing and Storing Your Personal Information](http://www.dealsdirect.com.au/privacy/#securingpersonalinformation)
+  * [Disposal of Personal Information](http://www.dealsdirect.com.au/privacy/#disposal)
+  * [For more information or to complain about a breach of your privacy](http://www.dealsdirect.com.au/privacy/#breach)
+  * [Changes To Our Privacy Policy](http://www.dealsdirect.com.au/privacy/#changeprivacy)
 
   
 
