@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209165342id_/http%3A//www.oneworld.com/ow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402231659id_/http%3A//www.oneworld.com/ow/privacy-policy) for the most accurate reproduction.*
 
 # oneworld - Privacy Policy
 
@@ -6,7 +6,7 @@ Your privacy is important to us. **one** world® pledges to be responsible when 
 
 .
 
-**one** world is an alliance of eight international airlines - American Airlines, British Airways, Qantas, Cathay Pacific Airways, Iberia, LAN, Finnair and Aer Lingus. The alliance is based in Vancouver, Canada. As an alliance, **one** world and its members share information, including personal information. Therefore, as outlined in this Privacy Policy, we may share data about sites' visitors to third parties located both inside and outside Canada. 
+**one** world is an alliance of ten international airlines - American Airlines, British Airways, Qantas, Cathay Pacific Airways, Iberia, Japan Airlines, LAN, Finnair, Royal Jordanian Airlines and Malév Hungarian Airlines. The alliance is based in Vancouver, Canada. As an alliance, **one** world and its members share information, including personal information. Therefore, as outlined in this Privacy Policy, we may share data about sites' visitors to third parties located both inside and outside Canada. 
 
 .
 
