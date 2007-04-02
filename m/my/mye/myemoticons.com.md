@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033131id_/http%3A//myemoticons.com/privacy/my_emoticons_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403000442id_/http%3A//myemoticons.com/privacy/my_emoticons_privacy.htm) for the most accurate reproduction.*
 
 # Emoticons : privacy policy for free emoticons and smileys
 
