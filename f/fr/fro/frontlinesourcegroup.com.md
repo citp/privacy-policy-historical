@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193347id_/http%3A//www.frontlinesourcegroup.com/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402233410id_/http%3A//www.frontlinesourcegroup.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
 # Staffing Agency-Privacy Policy Dallas Texas-Frontline Source Group
 
@@ -52,9 +52,9 @@ frontline source group may amend this policy from time to time. If we make any s
 
 [ ](http://www.frontlinesourcegroup.com/)  Click to Return to the home page
 
-######  [ Employment Agencies Temporary](http://www.frontline.jobs/) [ Staffing](http://www.staffingtexas.net/) [ Temp](http://www.frontlinesourcegroup.com/texas.htm) [ Agency](http://www.frontlinesourcegroup.com/texas.htm) **[ Dallas ](http://www.dfwhr.com/)** \- **Fort Worth** **[ Texas](http://www.nounemployment.com/)**
+######  [ Employment Agencies Temporary](http://www.frontline.jobs/) [ Staffing](http://www.staffingtexas.net/) [ Temp](http://www.frontlinesourcegroup.com/texas.htm) [ Agency](http://www.frontlinesourcegroup.com/texas.htm) **[ Dallas ](http://www.dfwhr.com/)** \- **Fort Worth** ** Austin Houston  [ Texas](http://www.nounemployment.com/)**
 
-[IT Technology Accounting Finance Staffing Agency Dallas Fort Worth Texas](http://www.frontlinesourcegroup.com/)
+[IT Technology Accounting Finance Staffing Agency Austin Dallas Fort Worth Houston Texas](http://www.frontlinesourcegroup.com/)
 
 **[Temporary Agency](http://www.frontlinesourcegroup.com/blog/blog.html) [Staffing Site Map](http://www.frontlinesourcegroup.com/sitemap.htm)**
 
