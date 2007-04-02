@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201093750id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402175804id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Cartridge SAVE -- Privacy Policy
 
@@ -24,6 +24,6 @@ We may use technology to track the patterns of behaviour of visitors to our site
 We will not send any unsolicited commercial email (also known as spam) to personal email addresses and all marketing emails will include details of how to opt-out / unsubscribe. 
 
 Cartridge SAVE  
-418 Gorton Road, Reddish  
-Cheshire, SK5 6RS, UK  
+Units 1&2 Oadby Place, Leicester Street  
+Stockport, SK5 6NS, UK  
 
