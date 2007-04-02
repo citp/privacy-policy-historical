@@ -1,16 +1,9 @@
-> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106111217id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402031428id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
 
-# Terms of Service
+# Justmommies Terms of Service
 
-| 
+Our message boards are free for all registered users. You may read our boards without registering but in order to post or private message you must be registered. We would like our boards to be a safe place for people to post. We would like to avoid censorship, however, there are times when it will be necessary. Please read our guidelines for what is unacceptable. We reserve the right to remove any posts we believe are against our terms of service.
 
-Welcome to Justmommies.com! We are an online community for mothers created in April 2003.Anyone using our site is responsible for abiding by our terms of service. Justmommies terms of service may be updated at any time. Users are responsible for reviewing our terms of service. 
-
-Our message boards are free for all registered users. You may read our boards without registering but in order to post or private message you must be registered. We would like our boards to be a safe place for people to post. We would like to avoid censorship, however, there are times when it will be necessary. Please read our guidelines for what is unacceptable. We reserve the right to remove any posts we believe are against our terms of service. 
-
-|   
----|---  
-  
 **Signature Guidelines:  **  
 Policy changes for August 2, 2005:   
 Justmommies has signature guidelines restricting signatures to 600x600 pixels. The reason this is set is because of load time on our pages. Huge signatures slow down the time pages load quite dramatically. We are requesting that signatures please stay within these guidelines. 
