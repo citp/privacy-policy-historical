@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the animeupload.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202144818id_/http%3A//www.animeupload.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeupload.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403181558id_/http%3A//www.animeupload.com/privacy-policy) for the most accurate reproduction.*
 
 # AnimeUpload.com - Privacy Policy
 
-### Advertising  
-  
----  
-  
-
-
-### Privacy Policy  
-  
----  
-  
 The following webpage outlines AnimeUpload.com's collection and use of personal information from it's users. AnimeUpload.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to AnimeUpload.com with anyone. This includes your e-mail address, name, and location. Upon logging on to AnimeUpload.com such things as your IP address and hostname are logged for statistical and security reasons. 
 
 Cookies  
@@ -32,7 +22,10 @@ Third Parties
 Third Party websites may collect information from users of AnimeUpload.com, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Nedstat, and Webalizer. 
 
 Website Policy Changes  
-AnimeUpload.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at our [Contact Page](https://web.archive.org/web/20061202144818id_/http%3A//www.animeupload.com/contact).
+AnimeUpload.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at our [Contact Page](http://www.animeupload.com/contact).
 
 By continuing to access AnimeUpload.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of AnimeUpload.com, and are also in agreeance with our Disclaimer and Terms of Use.  
 
+
+[ ](http://www.animeupload.com/contact/)  
+ 
