@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningangel.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130063649id_/http%3A//burningangel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningangel.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403231022id_/http%3A//www.burningangel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BurningAngel.com Privacy Policy
 
@@ -30,7 +30,7 @@ The only personally-identifying information we collect and store about you is th
 
 When a visitor, member, subscriber, or other Site user, requests web pages from the Site's server, clicks on banners or other links or otherwise uses the Site's services or other functionalities, we or our agents may automatically collect some information or data about the user and the user's Site use, including the IP address from which the Site is being accessed, the pages or links that were requested, the special preferences or requests of the user and cookie information received from the computer of the user. You agree that all such information and other Data may be collected and used by the Site and its agents.
 
-When any Site user signs-on as a member or subscriber of this Site or related services, that person will be required to provide certain personal as well as demographic information. Such Optional Information, may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site, the Company and its agents, may collect any and all such Optional Information and include it in its databases with Data and other information.
+When any Site user signs-on as a member or subscriber of this Site or related services, that person will be required to provide certain personal as well as demographic information. Such Optional Information, may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, username and password, and special interests or affiliations. This Site, the Company and its agents, may collect any and all such Optional Information and include it in its databases with Data and other information.
 
 If a visitor, member, subscriber or other Site user sends any personal communication or correspondence, by any means, to the Site, the Company or any of its employees, agents or representatives, we may collect, in databases and otherwise, and use, any and all such information and other Data regarding that communication, consistent with this privacy policy. 
 
