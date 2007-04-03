@@ -1,39 +1,76 @@
-> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021220519id_/http%3A//www.fonality.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403204657id_/http%3A//www.fonality.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Fonality
 
-|  Information Collection and Use   
+| |  |   
 ---  
   
-When Fonality captures user information upon sign-up, we use the client information to activate the customer account. Once a client has signed up with Fonality, future mailing may periodically be sent out to the Fonality client base, introducing new products, product updates, and important Fonality news and information. Our users and clients have the option of receiving the Fonality company newsletter. Should a client choose to receive the newsletter via e-mail, we will not distribute the user e-mail address for any other purpose than the sending of our newsletter or other Fonality service information. If a user would like to cease receiving the newsletter or other promotional e-mail correspondence from Fonality, they may send an e-mail request to [support@fonality.com](mailto:support@fonality.com) and immediately be removed from future mailings. Fonality requires a valid, working e-mail address upon account setup in order to send our client account information details, including a welcome packet, and account username and password. 
+|  General   
+---  
+  
+Fonality takes your privacy and the confidentiality of your business data very seriously. We understand that your phone system is critical to your business, and that you need to trust that system and the company that provides it fully. 
 
-Fonality does not disclose any user/customer information to any third party, other than what we explicitly state upon account activation or as detailed in our Terms of Use. Billing and financial information is required upon account activation for Fonality to bill for services rendered. Fonality will only use this billing information to verify the validity of the account, and bill for Fonality services. When Fonality bills for services rendered, a third-party processing company is used to charge customer credit cards and collect payment. This third-party is used only to process credit card charges, and does not store or distribute customer credit card or billing information. 
+This policy outlines the types of information Fonality may collect, and our commitment to keeping that information safe, secure and private.   
+  
+Collection and Use of Customer Information   
+  
+Fonality provides a service where our customers upload and store their system configuration information and call statistics data on Fonality servers and equipment. Customers using PBXtra version 3.4 or later have the ability to disable the collection of call statistics data, which will cause all call data to be stored locally on the customer's PBXtra. Disabling this data collection will disable PBXtra's graphical reporting capabilities. 
 
-Additionally, the Fonality website may contain content from third-party content providers, but these content providers neither receive nor distribute Fonality user or customer information, nor do they receive user or customer information from Fonality. 
+In addition, Fonality software gives customers, at their discretion, the ability to record and save voicemails, phones calls and chats. All communications content is stored locally on the customer's PBXtra, and unless provided for under a separate service contract, Fonality does not store any voicemail, call recordings, chats or other communications. 
 
-Fonality provides a service where our customers upload and store their data on Fonality servers and equipment. Fonality does not review, edit, disseminate, or use this data in any way, except as may be required by law, or as outlined in our Terms of Use. Customer data or records may be viewed from time to time to handle a technical support request that is initiated by the client, or to resolve any other problem or technical issue. Additionally, individual records may be viewed if required so by law, or if there is a suspected Terms of Use violation. 
+Fonality does not review, edit, disseminate, or use individual customer information, data or communications in any way, except to investigate a technical support request initiated by a customer, to investigate a suspected Terms of Use violation or as may be required by law. We may use aggregated, non-identifiable usage statistics to assess system performance and scale.   
+  
+No Monitoring of Customer Communications   
+  
+All phone calls are routed locally on the customer'ss individual PBXtra system, and externally via the customer's selected communications service providers. Fonality does not provide voice services, and customer phone calls or other voice communications do not access or otherwise pass through the Fonality network. Fonality does not monitor the content of any phone calls.   
+  
+Maintenance of Optional Secure Connection to PBXtra   
+  
+In order to monitor the performance of your system, provide you with technical support and provide product enhancements and upgrades, Fonality by default maintains a secure electronic connection to your PBXtra. Fonality implements numerous security techniques to ensure the safety of customer data and system access and to minimize the risk of network intrusion. 
 
-Fonality users are solely and individually responsible for maintaining the privacy and confidentiality of their own data, as well as their usernames and passwords. Fonality may collect information from visitors to the Fonality web site. Most commonly, we may collect the Internet addresses of Fonality site visitors. We use the information that we log from the Fonality website to both improve our services, and help troubleshoot possible Fonality website problems. We may also analyze non-identifying statistics that we collect from website visitor usage, and provide this data to qualified third parties.   
+Customers can, at their discretion, elect to disconnect this connection. Disconnecting the connection will prevent the administration of your PBXtra system, and will disable other important features, including graphical reporting. In addition, we will not be able to provide technical support or software updates to the connection is re-established. 
+
+Fonality provides additional information on maximizing the security of a PBXtra installation in our KnowledgeBase at [www.fonality.com/help ](http://www.fonality.com/help)  
+  
+Billing Information   
+  
+When Fonality bills for services rendered, a third-party processing company is used to charge customer credit cards and collect payment. This third-party is used only to process credit card charges, and does not store or distribute customer credit card or billing information.   
+  
+Fonality Web Properties   
+  
+Fonality may collect information from visitors to the Fonality.com or trixbox.org web sites, or any other web sites operated by Fonality. We may collect the Internet addresses of Fonality site visitors. We use the information that we log from the Fonality website to both improve our services, and help troubleshoot possible Fonality website problems. We may also analyze non-identifying statistics that we collect from website visitor usage, and provide this data to qualified third parties. 
+
+Additionally, Fonality web properties may contain content from third-party content providers, but these content providers neither receive nor distribute Fonality user or customer information, nor do they receive user or customer information from Fonality.   
+  
+Electronic and Physical Mailing Addresses   
+Fonality requires a valid, working e-mail address upon account setup in order to send our client account information details, including a welcome packet, and account username and password. If you wish to receive no further communications from Fonality after the installation process is complete, you may issue a request at <http://cp.fonality.com/support/>. Removal from this list will significantly limit our ability to provide you with technical support. 
+
+During the quotation, sales and installation process, Fonality requires users to provide both a valid, working e-mail address and a physical mailing address. We use this information to communicate with you about your quote, order or installed system, and to provide you with a welcome packet, account username and password. 
+
+In addition, Fonality may periodically communicate with you regarding new products, product updates, and important Fonality news and information. You have the option to exclude yourself from these communications. If you would like to cease receiving communications from Fonality, please issue a request <http://cp.fonality.com/support/> indicating you would like to "UNSUBSCRIBE". 
+
+We will not sell or distribute your e-mail or physical address to any third party, other than a) a qualified provider of services to Fonality who also subscribes to the terms of this Privacy Policy or b) with your express permission, to a qualified Fonality partner upon your request.   
   
 Cookies   
-Security protocols put into operation by Fonality are determined by encrypted session Ids and dynamic data. Should you select to activate the Fonality "Remember Me" feature, we will use a "cookie" that contains partial or full authentication information depending on your preference. The cookie will reside on your local system. Further, we use a third party to provide statistical analysis regarding our users use of the www.Fonality web site and may set cookies in order to gather the information needed to perform their statistical analysis. The information collected by the third party cookies does not contain any personal information or can be linked back to any individual user.   
+  
+Our site uses cookies to enhance the user's experience by allowing us to recognize a user's return visit to our own service. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have their browser refuse cookies, it is possible that some areas of our site will not function as effectively, and you may be unable to log into our web based administration tools, preventing the administration of your PBXtra system. 
+
+Further, we may use a third party to provide statistical analysis regarding our web users and may set cookies in order to gather the information needed to perform their statistical analysis. The information collected by the third party cookies does not contain any personal information and cannot be linked back to any individual user.   
+  
 Log Files   
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
 Links   
-Our web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site or the Fonality application.   
+Our web sites contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by Fonality web properties site or the Fonality application.   
 Surveys   
 From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and demographic information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site or of the Fonality application.   
 Security   
-Fonality has chosen to implement the latest technology that allows for the highest levels of Internet security that are possible today. If you are accessing our site with 4.0 versions or higher of Microsoft Internet Explorer or Netscape Navigator browsers, your information is encrypted and authenticated, using Secure Socket Layer (SSL) technology. The SSL systems provide complete data security for you and your users, and the authentication ensures that your valuable content is available only to registered users, and is not accessible to unwanted parties. Each registered user in your organization is provided with a unique username and password. Each time a user logs onto your Fonality application, they can only be authenticated and allowed access using the correct username and password that has been assigned. A session is issued for the purpose of capturing encrypted authentication data for the length of the session. Neither the username nor the password is included in the session. Security protocols put into operation by Fonality are determined by encrypted session Ids and dynamic data. Should you select to activate the Fonality "Remember Me" feature, we will use a "cookie" that contains partial or full authentication information depending on your preference. The cookie will reside on your local system.   
-Opt-Out Policy   
-Fonality offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to [support@fonality.com](mailto:support@fonality.com).   
-What about "cookies"?   
-  
-Cookies are pieces of information that some websites transfer to the computer that is browsing that website and are used for record-keeping purposes at many websites. Use of cookies makes Web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases, personal preferences regarding the use of the particular website and to make sure the user does not see the same ad repeatedly. Many consider the use of cookies to be an industry standard. Our site uses cookies to enhance the user's experience by allowing us to recognize a user's return visit to our own service. 
-
-Browsers are usually set to accept cookies. However, if users would prefer not to receive cookies, they may alter the configuration of their browser to refuse cookies. If they choose to have their browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users.   
-  
+Fonality implements numerous security techniques to ensure the safety of customer data and system access. If you are accessing our site with 4.0 versions or higher of Microsoft Internet Explorer or Netscape Navigator browsers, your information is encrypted and authenticated, using Secure Socket Layer (SSL) technology. The SSL systems provide data security for you and your users, and the authentication ensures that your valuable content is available only to registered users, and is not accessible to unwanted parties. Each registered user in your organization is provided with a unique username and password. Each time a user logs onto your Fonality application, they can only be authenticated and allowed access using the correct username and password that has been assigned. A session is issued for the purpose of capturing encrypted authentication data for the length of the session. Neither the username nor the password is included in the session. Security protocols put into operation by Fonality are determined by encrypted session Ids and dynamic data.   
 Children's Privacy Policy   
-Fonality does not sell products or services for purchase by children. Fonality does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. In addition, Fonality will not knowingly link to any third party web site that solicits or collects customer identifiable information from minors. If you believe that a minor has disclosed personally identifiable information to Fonality, please contact Fonality at [support@fonality.com](mailto:support@fonality.com) so that the information can be removed.   
+Fonality does not sell products or services for purchase by children. Fonality does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. In addition, Fonality will not knowingly link to any third party web site that solicits or collects customer identifiable information from minors. If you believe that a minor has disclosed personally identifiable information to Fonality, please contact Fonality at <http://cp.fonality.com/support/> so that the information can be removed.   
+Your Responsibilities   
+We promise to be extremely careful with any information you entrust us with, and we would ask that you do the same. This includes ensuring the physical and electronic security of your network, and maintaining the privacy and confidentiality of your own data, usernames and passwords.   
 Additional Information   
-If you have any questions about this Statement or the practices of our website, you can send an email to [support@fonality.com](mailto:support@fonality.com)
+If you have any questions about this Statement or the practices of our website, you can issue a request at[ http://cp.fonality.com/support/](http://cp.fonality.com/support/).   
+  
+|  |   
+---|---
