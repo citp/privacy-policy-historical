@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203449id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403224615id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,10 +48,11 @@ Main Menu:
 [Membership](http://www.abcteach.com/subscribe.php "Membership")  
 [Site License](http://www.abcteach.com/site_license.php "Site License")  
 [Gift Memberships](https://web.archive.org/gift.php "Gift Memberships")  
-[Member Newsletter Archive](https://web.archive.org/newsletter/ "Member Newsletter Archive")  
+[University Partnerships](https://web.archive.org/universities.php "University Partnerships")  
+[Newsletter Archive](https://web.archive.org/newsletter/ "Newsletter Archive")  
 [My Account](http://www.abcteach.com/member_tools.php "My Account")  
 [Submission Guidelines](http://www.abcteach.com/submission_guidelines.php "Submission Guidelines")  
-[Who's Who](http://www.abcteach.com/who_is_who.php "Who's Who")  
+[Who's Who](http://www.abcteach.com/about_us.php "Who's Who")  
 [Contact Us](http://www.abcteach.com/contact_us.php "Contact Us")  
 [Advertise](https://web.archive.org/advertising.php "Advertise")  
 [Help](http://www.abcteach.com/help.php "Help")
