@@ -1,39 +1,39 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GuildPortal Guild Hosting and Management - World of Warcraft, Guild Wars, EverQuest, Vanguard, Dungeons and Dragons Online, City of Heroes and More! - Privacy Policy
 
-|  |  [](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Default.aspx) |   |  [](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/NewGuild.aspx) |  [](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/NewUser.aspx) |  [](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Search.aspx)  
+|  |  [](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Default.aspx) |   |  [](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/NewGuild.aspx) |  [](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/NewUser.aspx) |  [](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Search.aspx)  
 ---|---|---|---|---|---  
-[](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Default.aspx) [Home](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Default.aspx) > Privacy Policy  
-[New Account](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/NewUser.aspx)  
-[New Guild](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/NewGuild.aspx)  
-[Support Form](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Support.aspx)  
-[Feature Request](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/FeatureRequest.aspx)  
-[Admin Guide](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Guide.aspx)
+[](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Default.aspx) [Home](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Default.aspx) > Privacy Policy  
+[New Account](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/NewUser.aspx)  
+[New Guild](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/NewGuild.aspx)  
+[Support Form](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Support.aspx)  
+[Feature Request](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/FeatureRequest.aspx)  
+[Admin Guide](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Guide.aspx)
 
 Search Guilds
 
 We Recommend
 
 [TenTonHammer](http://www.tentonhammer.com/ "TenTonHammer, the BEST *legit* source of gaming information!")  
-[Member Blogs](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/MemberBlogs.aspx "Blogs from members of GuildPortal-hosted guilds!")  
+[Member Blogs](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/MemberBlogs.aspx "Blogs from members of GuildPortal-hosted guilds!")  
 [GuildHelper](http://www.guildhelper.com/ "GuildHelper, for all your guild graphics and startup needs!")  
 [Offline T-Shirts](http://www.offlinetshirts.com/ "Gaming shirts!")
 
 Service News
 
-[WoW Add-On Upd...](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=370 "WoW Add-On Updated")  
-[New User Signu...](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=369 "New User Signups")  
-[EQ2 Rosters Of...](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=368 "EQ2 Rosters Offline")  
-[Upgrade Update](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=367 "Upgrade Update")  
-[Maintenance To...](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=366 "Maintenance Tonight between 9-Midnight EST")  
-[Auto-Roster fo...](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=365 "Auto-Roster for World of Warcraft Available!")  
-[Code Updates](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=364 "Code Updates")  
-[New Member Adm...](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=362 "New Member Admin Functionality")  
-[EQ2 Rosters](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=361 "EQ2 Rosters")  
-[BB Code](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/ShowNews.aspx?News=360 "BB Code")
+[Security Update](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=376 "Security Update")  
+[Emergency Main...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=375 "Emergency Maintenance")  
+[Server Mainten...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=374 "Server Maintenance")  
+[Idle Monitor,...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=373 "Idle Monitor, Vanguard and More")  
+[WoW Add-On Upd...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=372 "WoW Add-On Updated")  
+[Ignore Lists](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=371 "Ignore Lists")  
+[WoW Add-On Upd...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=370 "WoW Add-On Updated")  
+[New User Signu...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=369 "New User Signups")  
+[EQ2 Rosters Of...](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=368 "EQ2 Rosters Offline")  
+[Upgrade Update](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/ShowNews.aspx?News=367 "Upgrade Update")
 
-[](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/RSS/Feed.aspx)
+[](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/RSS/Feed.aspx)
 
 | 
 
@@ -83,23 +83,23 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 | 
 
-[](http://www.fh.org/)For every subscription and subscription renewal, GuildPortal donates $1 to Food for the Hungry and other humanitarian organizations. Click [here](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Donations.aspx) to view our record!
+[](http://www.fh.org/)For every subscription and subscription renewal, GuildPortal donates $1 to Food for the Hungry and other humanitarian organizations. Click [here](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Donations.aspx) to view our record!
 
   
-[](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/TrackAd.aspx?Ad=265)  
+[](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/TrackAd.aspx?Ad=265)  
 
 
-Click [ here](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Testimonials.aspx) for all testimonials, and find out why others have used GuildPortal for their Guild Management and Guild Hosting needs!
+Click [ here](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Testimonials.aspx) for all testimonials, and find out why others have used GuildPortal for their Guild Management and Guild Hosting needs!
 
-"GuildPortal has been an invaluable asset to our guild, its formation and communication by leaders and members alike. Having a website meeting place is important to any guild, but having a place such as one provided by GuildPortal... well, who could ask for anything better?"
+"I have used GuildPortal for 3 years now, and it's by far the best guild management site out there. Trust me, I've tried them all! Their CS is fast and friendly and their web site features work and are just what we need!"
 
-Snoe, Vigilant Paradox
+Aviendeha, Wayfarers
 
   
 
 
 Active sites listed by member count  
   
-GuildPortal ©2006 Axiom Shift, Inc. All rights reserved. [Terms of Use](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Terms.aspx) | [Privacy Policy](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Privacy.aspx) | [Support](https://web.archive.org/web/20061217010700id_/http%3A//guildportal.com/Support.aspx)
+GuildPortal ©2001-2007 Axiom Shift, Inc. All rights reserved. [Terms of Use](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Terms.aspx) | [Privacy Policy](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Privacy.aspx) | [Support](https://web.archive.org/web/20070403173132id_/http%3A//guildportal.com/Support.aspx)
 
-Current Web Build: 2.1.2529.30159
+Current Web Build: 2.1.2648.34586
