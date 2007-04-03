@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrenssalon.co.uk privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211160015id_/http%3A//www.childrensalon.co.uk/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrenssalon.co.uk privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404000841id_/http%3A//www.childrensalon.co.uk/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Childrens Salon
 
