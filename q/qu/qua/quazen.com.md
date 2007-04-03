@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quazen.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202090916id_/http%3A//www.quazen.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quazen.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403033907id_/http%3A//www.quazen.com/privacy.php) for the most accurate reproduction.*
 
 # Quazen :: Privacy Policy
 
