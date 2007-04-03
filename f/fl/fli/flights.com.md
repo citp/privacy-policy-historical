@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005755id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403115329id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
 
-# Flights.com privacy policy for flight bookings in the US, to Russia, Sweden and beyond
+# Flights.com Privacy Policy
 
-When booking your journey in Flights.com you are using a secure SSL connection. Your personal details will not be passed on to any third parties. By entering and storing your information you are also granting approval for this. The only data stored by the user that are collected are those, which are necessary as regards the efficient completion of travel reservations. 
+When booking your journey in Flights.com you are using a secure socket layer (SSL) connection. Your contact information and payment details will be transmitted through SSL Secure Server technology. Furthermore, your personal details will not be passed on to any third parties. The only data stored by Flights.com is that which is necessary for the efficient completion of your travel arrangements. By entering and storing your information, you are also granting approval for this. 
 
 ### Flights.com Privacy Statement
 
@@ -14,7 +14,7 @@ We do not disclose personal information such as your name, address, email addres
 
 ### Flights Email News
 
-If at any point, you do not wish to be a member of our email news list, you can select the link at the bottom of every email to unsubscribe or receive less or more information about our products. Should you wish to receive updates and the latest news you can subscribe [here](http://ui.constantcontact.com/d.jsp?m=1101171306967&p=oi). 
+If at any point, you do not wish to be a member of our email news list, you can select the link at the bottom of every email to unsubscribe or receive less or more information about our products. 
 
 ### Security
 
