@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206174103id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404002806id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,18 +22,18 @@ Aplus.Net has created this privacy statement in order to demonstrate our firm co
 
 **Contacting Aplus.Net** If you have any questions about this privacy statement, the practices of this site, or your dealings with Aplus.Net, please contact: Privacy Policy Issues/ Product Management
 
-**Aplus.net**  
-10350 Barnes Canyon Rd  
-San Diego, CA. 92121  
+**Aplus.Net**  
+7500 W 110th St., Suite 400  
+Overland Park, KS 66210  
 [privacy@aplus.net](mailto:privacy@aplus.net)   
 Fax (858) 450-0567 
 
 * * *
 
-Copyright © 1996-2003  
-**Aplus.net**  
-10350 Barnes Canyon Rd  
-San Diego, CA. 92121  
+Copyright © 1996-2007  
+**Aplus.Net**  
+7500 W 110th St., Suite 400  
+Overland Park, KS 66210  
 **Sales:** 877-275-8763 or 858-410-6929 [sales@aplus.net](mailto:sales@aplus.net)  
 **Tech. Support:** (858) 410-6900 [support@aplus.net](mailto:support@aplus.net)
 
