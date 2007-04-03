@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222131946id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403051031id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids.com: Lids Online has an extensive selection of hats, apparel and accessories for your favorite teams
 
@@ -34,6 +34,8 @@
   
 [](http://www.lidscyo.com/)  
 [Create Your Own Hat](http://www.lidscyo.com/)  
+  
+[](http://www.lids.com/passport_club.html?ipsrc=media&reftype=promo&sptype=20061201_promo)  
 |    
 |  | 
 
@@ -138,4 +140,4 @@ LIDS, HATWORLD and THE HAT ZONE are concerned with the protection and privacy of
 |    
 CUSTOMER CARE DEPARTMENT: Open 24 hours a day, 7 days a week. Call us toll-free at 1-888-564-HATS(4287)  
   
-© 2006 LIDS, Genesco. All Rights Reserved.
+© 2007 LIDS, Genesco. All Rights Reserved.
