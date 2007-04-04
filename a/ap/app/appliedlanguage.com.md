@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206074302id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405000256id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Translation Services Company - Language Translation Agency
 
@@ -49,8 +49,8 @@ HD4 7NR
 
 USA
 
-511 N. Brookhurst Str.,  
-Ste 204,  
+511 N. Brookhurst Street,  
+Suite 204,  
 Anaheim,  
 CA 92801
 
