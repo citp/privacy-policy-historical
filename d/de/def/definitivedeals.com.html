@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the definitivedeals.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616022455id_/http%3A//definitivedeals.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the definitivedeals.com privacy policy that was archived on 2007-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070404061044id_/http%3A//definitivedeals.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
-<title>Definitivedeals.com - Your definitive source for all online deals, offers, coupons, savings, bargains &amp; discounts</title><meta name="description" content="Find the best deals, coupons, savings and offers for hundreds of merchants"><meta name="keywords" content=" deal, deals, offers, shopping, coupon, coupon code, bargain, free shipping, clearance, ecoupononline coupon, cheap camera, cheap computer, free stuff, cheap tickets">
-<meta name="googlebot" content="all">
+<title>DefinitiveDeals.com - Privacy Policy Statement for this website</title><meta name="description" content="Privacy Policy Statement for definitivedeals.com"><meta name="keywords" content="coupon codes, coupons, coupon, free shipping, online code, online coupon code, definitivedeals.com"><meta name="googlebot" content="all">
 <meta name="robots" content="all">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta name="resource-type" content="document">
@@ -16,181 +15,142 @@
 <meta http-equiv="imagetoolbar" content="no">
 <link rel="stylesheet" type="text/css" href="/css/styles.css">
 <link rel="shortcut icon" href="/img/dd.ico">
-
-
-<script language="javascript" type="text/javascript">
-
-function verifySearch () {
-    if (document.search.searchstring.value == "") {
-        alert("Please enter a word to search for!");
-        document.search.searchstring.focus();
-        return false;
-    }
-
-    if (document.search.searchstring.value.length < 2) {
-        alert("Please provide at least two (2) characters!");
-        document.search.searchstring.focus();
-        return false;
-    }
-
-    return true;
-}
-
-function bookmarksite(title, url){
-  if (document.all)
-    window.external.AddFavorite(url, title);
-  else if (window.sidebar)
-    window.sidebar.addPanel(title, url, "")
-}
-
-
-function toggle( targetId ) {
-   if ( document.getElementById ) {
-    target = document.getElementById( targetId );
-    if ( target.style.display == "none" ) {
-     target.style.display = "";
-    } else {
-     target.style.display = "none";
-    }
-   }
-}
-
-function OnViewMerch( merch_idchar) {
-	document.dealform.action = "/coupons_and_deals/" + merch_idchar;
-	document.dealform.submit();	
-	return true;
-}
-
-function myOpenWin(url,name) {
-  winfeat = "location=1,directories=1,resizable=1,status=1,menubar=1,scrollbars=1,toolbar=1,top=5,left=5";
-  owin = window.open(url,name,winfeat);
-  if (window.focus) {owin.focus();}
-  return true;
-}
-
-function myOpenPopup(url) {
-  var myWidth=512; var myHeight=384;  
-  winfeat = "location=1,directories=1,resizable=1,status=1,menubar=1,scrollbars=1,toolbar=1,width="+myWidth+",height="+myHeight+",top=5,left=5";
-  owin = window.open(url,"preload",winfeat);
-  if (window.focus) {self.focus();}
-  return true;
-}
-
-function myClosePopup() {
-  return true;
-  winfeat = "location=1,directories=1,resizable=1,status=1,menubar=1,scrollbars=1,toolbar=1,top=5,left=5,width=1,height=1";
-  window.open("/closepopup.html", "preload", winfeat);
-  return true;
-}
-
-function vote(merch_idchar, vote) {
-  //newloc = window.location.href+"&r="+vote;
-  var conf = confirm("Please confirm your rating of "+vote+" out of 5 ");
-  if (conf) {
-    newloc = "/coupons_and_deals/"+merch_idchar+"&r="+vote;
-    window.location.href=newloc;
-    return true;
-  } else {
-    return false;
-  }
-}
-
-</script>
-
+<script type="text/javascript" src="/include/defdeals_js.js"></script>
 </head>
-
-<body>
-
-<!-- <BODY OnLoad="document.search.searchbox.focus();">  -->
+<body><!-- <BODY OnLoad="document.search.searchbox.focus();">  -->
 <!-- <NOSCRIPT>
 <span style='font-size:11px; font-weight:bold; background-color:orange; color:black; padding:3px;'>NOTE: JavaScript is turned off, you may not be able to access all features of this site</span>
 </NOSCRIPT>
 -->
+
+
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
     <tbody><tr>
-        <td width="455px">
-            <a href="/home/featured.html"><img src="/img/logo.gif" alt="Definitive Deals - Your definitive source for all deals, offers, coupons, sales &amp; bargains!" border="0" width="439" height="37"></a>
-        </td>
-		<form name="search" method="post" action="/search.php" onsubmit="return verifySearch();"></form>
-        <td align="left" valign="top" style="font-family: arial; font-size:8pt; color:black; ">Find my deal
-            <br>
-            <input id="searchbox" type="text" name="searchstring" size="22" value="">
-            <input id="searchbutton" type="Submit" value="search">  
+        <td width="475px">
+            <a href="/home/featured.html"><img src="/img/logo.gif" alt="DefinitiveDeals - Your definitive source for all online deals, coupons, coupon codes &amp; discounts!" border="0" width="439" height="37"></a>
         </td>
 		
+		<form name="search" method="post" action="/search.php" onsubmit="return verifySearch();"></form>
+        <td align="left" valign="top" style="font-family: arial; font-size:8pt; color:black; ">
+			<!-- <fieldset style='background-color:#ffedd6; '> -->
+			<b>Find my deal</b>
+            <br>
+            <input id="searchbox" type="text" name="searchstring" size="22" maxlength="40" value="">
+            <input id="searchbutton" type="Submit" value="Search!" style="font-size:12px; font-weight:bold;">  
+	        <!-- </fieldset> -->
+		</td>
+		
+  		
+  		<td align="right">
+  	      		</td>
+  
     </tr>
 </tbody></table>
-<span class="toptext">Your definitive source for all deals, offers, coupons, sales &amp; bargains! &nbsp;<a onmouseover="window.status='Click here to bookmark us!'; return true;" onmouseout="window.status=' '; return true;" href="javascript:bookmarksite('DefinitiveDeals.com', 'http://www.definitivedeals.com')"><b>Click here to bookmark us!</b></a></span><table id="topnav" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top:5px;"><tbody><tr><td><a href="/home/featured.html">HOME</a></td><td><a href="/home/featured.html">FEATURED DEALS</a></td><td><a href="/home/latest.html">LATEST DEALS</a></td><td><a href="/home/expiring.html">EXPIRING SOON</a></td><td><a href="/home/upcoming.html">UPCOMING</a></td><td><a href="/home/freeship.html">FREE SHIPPING</a></td><td><a href="/faq.php">F.A.Q.</a></td></tr></tbody></table><div class="toptext2" style="margin-top:2px; text-align:center; white-space:nowrap;"><a class="toptext2" href="/shopping_guide/fathers_day">Click here for Father's Day Gift ideas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="toptext2" href="/coupons_and_deals/Things_Remembered">20% OFF Things Remembered</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="toptext2" href="/coupons_and_deals/Eastbay">30% OFF Eastbay ** One Day only **</a></div>
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td width="100px"><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="100px"><tbody><tr><td class="top">MERCHANTS</td></tr><tr><td><a onmouseover="window.status='View merchants alphabetically'; return true;" onmouseout="window.status=' '; return true;" href="/byletter/A.html">Alphabetical A-Z</a></td></tr><tr><td><a onmouseover="window.status='View all merchants'; return true;" onmouseout="window.status=' '; return true;" href="/byletter/ALL.html">ALL</a></td></tr></tbody></table><br><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="100px"><tbody><tr><td class="top">Shopping Guides</td></tr><tr><td><a onmouseover="window.status='Father's Day'; return true;" onmouseout="window.status=' '; return true;" href="/shopping_guide/fathers_day">Father's Day</a></td></tr></tbody></table><br><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="100px"><tbody><tr><td class="top">CATEGORIES</td></tr><tr><td><a onmouseover="window.status='View category APPAREL/SHOES'; return true;" onmouseout="window.status=' '; return true;" href="/category/Apparel_Shoes">APPAREL/SHOES</a></td></tr><tr><td><a onmouseover="window.status='View category AUTOMOTIVE'; return true;" onmouseout="window.status=' '; return true;" href="/category/Automotive">AUTOMOTIVE</a></td></tr><tr><td><a onmouseover="window.status='View category BABY/KIDS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Baby_Kids">BABY/KIDS</a></td></tr><tr><td><a onmouseover="window.status='View category BOOKS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Books">BOOKS</a></td></tr><tr><td><a onmouseover="window.status='View category COMPUTERS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Computers">COMPUTERS</a></td></tr><tr><td><a onmouseover="window.status='View category ELECTRONICS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Electronics">ELECTRONICS</a></td></tr><tr><td><a onmouseover="window.status='View category FINANCIAL'; return true;" onmouseout="window.status=' '; return true;" href="/category/Financial">FINANCIAL</a></td></tr><tr><td><a onmouseover="window.status='View category FLOWERS &amp; GIFTS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Flowers_Gifts">FLOWERS &amp; GIFTS</a></td></tr><tr><td><a onmouseover="window.status='View category FOOD &amp; DRINK'; return true;" onmouseout="window.status=' '; return true;" href="/category/Food_Drink">FOOD &amp; DRINK</a></td></tr><tr><td><a onmouseover="window.status='View category GAMES &amp; TOYS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Games_Toys">GAMES &amp; TOYS</a></td></tr><tr><td><a onmouseover="window.status='View category HEALTH &amp; BEAUTY'; return true;" onmouseout="window.status=' '; return true;" href="/category/Health_Beauty">HEALTH &amp; BEAUTY</a></td></tr><tr><td><a onmouseover="window.status='View category HOME &amp; GARDEN'; return true;" onmouseout="window.status=' '; return true;" href="/category/Home_Garden">HOME &amp; GARDEN</a></td></tr><tr><td><a onmouseover="window.status='View category JEWLERY'; return true;" onmouseout="window.status=' '; return true;" href="/category/Jewlery">JEWLERY</a></td></tr><tr><td><a onmouseover="window.status='View category MUSIC &amp; MOVIES'; return true;" onmouseout="window.status=' '; return true;" href="/category/Music_Movies">MUSIC &amp; MOVIES</a></td></tr><tr><td><a onmouseover="window.status='View category OFFICE'; return true;" onmouseout="window.status=' '; return true;" href="/category/Office">OFFICE</a></td></tr><tr><td><a onmouseover="window.status='View category PETS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Pets">PETS</a></td></tr><tr><td><a onmouseover="window.status='View category SPORTS'; return true;" onmouseout="window.status=' '; return true;" href="/category/Sports">SPORTS</a></td></tr><tr><td><a onmouseover="window.status='View category TRAVEL'; return true;" onmouseout="window.status=' '; return true;" href="/category/Travel">TRAVEL</a></td></tr></tbody></table><br><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="100px"><tbody><tr><td class="top">POPULAR STORES</td></tr><tr><td><a onmouseover="window.status='View all deals from Overstock.com'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Overstock.com">Overstock.com</a></td></tr><tr><td><a onmouseover="window.status='View all deals from Buy.com'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Buy.com">Buy.com</a></td></tr><tr><td><a onmouseover="window.status='View all deals from Walmart.com'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Walmart.com">Walmart.com</a></td></tr><tr><td><a onmouseover="window.status='View all deals from Dell Home'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Dell_Home">Dell Home</a></td></tr><tr><td><a onmouseover="window.status='View all deals from SmartBargains'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/SmartBargains">SmartBargains</a></td></tr><tr><td><a onmouseover="window.status='View all deals from RadioShack'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/RadioShack">RadioShack</a></td></tr><tr><td><a onmouseover="window.status='View all deals from Lane Bryant'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Lane_Bryant">Lane Bryant</a></td></tr><tr><td><a onmouseover="window.status='View all deals from Lillian Vernon'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Lillian_Vernon">Lillian Vernon</a></td></tr><tr><td><a onmouseover="window.status='View all deals from Orbitz'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/Orbitz">Orbitz</a></td></tr><tr><td><a onmouseover="window.status='View all deals from HP Home Store'; return true;" onmouseout="window.status=' '; return true;" href="/coupons_and_deals/HP_Home_Store">HP Home Store</a></td></tr></tbody></table></td><td width="10"></td><td>
+<span class="toptext">Your definitive source for all online deals, coupons, coupon codes &amp; discounts! &nbsp;<a href="javascript:bookmarksite('DefinitiveDeals.com - Latest Coupons &amp; Deals', 'http://www.definitivedeals.com')"><b>Click here to bookmark us!</b></a></span><table id="topnav" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top:5px;"><tbody><tr><td><a href="/home/featured.html">FEATURED DEALS</a></td><td><a href="/home/latest.html">LATEST DEALS</a></td><td><a href="/home/expiring.html">EXPIRING SOON</a></td><td><a href="/home/upcoming.html">UPCOMING DEALS</a></td><td style="color:red;"><a href="/home/hot_coupons.html">HOT DEALS</a></td><td><a href="/home/freeship.html">FREE SHIPPING</a></td><td><a href="/home/giftcards.html">BUY GIFT CARDS</a></td></tr></tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td width="100px"><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="120px"><tbody><tr><td class="top">STORES</td></tr><tr><td><a href="/byletter/ALL.html">All Stores&nbsp;&nbsp;&nbsp;A-Z</a></td></tr></tbody></table><br><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="120px"><tbody><tr><td class="top">CATEGORIES</td></tr><tr><td><a href="/category/Apparel_Shoes">Apparel/Shoes</a></td></tr><tr><td><a href="/category/Automotive">Automotive</a></td></tr><tr><td><a href="/category/Baby_Kids">Baby/Kids</a></td></tr><tr><td><a href="/category/Books">Books</a></td></tr><tr><td><a href="/category/Computers">Computers</a></td></tr><tr><td><a href="/category/Electronics">Electronics</a></td></tr><tr><td><a href="/category/Financial">Financial</a></td></tr><tr><td><a href="/category/Flowers_Gifts">Flowers &amp; Gifts</a></td></tr><tr><td><a href="/category/Food_Drink">Food &amp; Drink</a></td></tr><tr><td><a href="/category/Games_Toys">Games &amp; Toys</a></td></tr><tr><td><a href="/category/Health_Beauty">Health &amp; Beauty</a></td></tr><tr><td><a href="/category/Home_Garden">Home &amp; Garden</a></td></tr><tr><td><a href="/category/Jewelry">Jewelry</a></td></tr><tr><td><a href="/category/Music_Movies">Music &amp; Movies</a></td></tr><tr><td><a href="/category/Office">Office</a></td></tr><tr><td><a href="/category/Pets">Pets</a></td></tr><tr><td><a href="/category/Sports">Sports</a></td></tr><tr><td><a href="/category/Travel">Travel</a></td></tr></tbody></table><br><form name="leftnavform" method="POST" action="/newsletter"><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="120px"><tbody><tr><td class="top">Coupon Newsletter</td></tr><tr><td style="color:black; padding-bottom:8px;padding-top:5px; background-color:#ffedd6 ">Enter e-mail here:<input id="news_email" type="text" name="news_email" size="17" maxlength="40" value="" style="font-size:10px;">&nbsp;<input id="newssubmit" type="Submit" value=" Sign-Up! " style="font-size:10px;">  <input type="HIDDEN" size="10" maxlength="10" name="referer" value="leftnav"> </td></tr></tbody></table></form><table id="leftnav" cellspacing="0" cellpadding="0" border="0" width="120px"><tbody><tr><td class="top">POPULAR STORES</td></tr><tr><td><a href="/coupons_and_deals/Overstock.com">Overstock.com</a></td></tr><tr><td><a href="/coupons_and_deals/Buy.com">Buy.com</a></td></tr><tr><td><a href="/coupons_and_deals/Walmart.com">Walmart.com</a></td></tr><tr><td><a href="/coupons_and_deals/Dell_Home">Dell Home</a></td></tr><tr><td><a href="/coupons_and_deals/SmartBargains">SmartBargains</a></td></tr><tr><td><a href="/coupons_and_deals/RadioShack">RadioShack</a></td></tr><tr><td><a href="/coupons_and_deals/Lane_Bryant">Lane Bryant</a></td></tr><tr><td><a href="/coupons_and_deals/Lillian_Vernon">Lillian Vernon</a></td></tr><tr><td><a href="/coupons_and_deals/Orbitz">Orbitz</a></td></tr><tr><td><a href="/coupons_and_deals/HP_Home_Store">HP Home Store</a></td></tr></tbody></table></td><td width="10"></td><td>
 
-<div id="privacytext">
+<div id="legaltext" style="border: 1px solid blue;">
 
-<p style="font-size:14px; font-weight:bold;">Privacy Policy Statement for DefinitiveDeals.com</p>
-We respect user's privacy and make every effort to protect the privacy of the visitors to this website.
+<p style="font-size:16px; font-weight:bold; color:black; text-align:center;">Privacy Policy Statement for DefinitiveDeals.com</p>
+We respect our user's privacy and make every effort to protect the privacy of the visitors to this website.
 <br><br>
 
-<b>Contact</b>
+<span id="legalno">1. Site Information &amp; Contact</span>
 <br>
-The administrator for this site can be reached via email at <a href="mailto:admin@definitivedeals.com?subject=privacy">admin@definitivedeals.com</a>.&nbsp;&nbsp;All efforts will be made to respond to any inquires within 48 hours.
-<br>
-<br>
-
-<b>Information that is collected</b>
-<br>
-Information such as domain name, browser type and statistics for links and deals that are being viewed are collected by this website.  DefinitiveDeals only uses this information internally to improve the content and navigation of this site.  Information that is volunteered by visitors such as e-mail addresses, contact information, comments etc. is also collected but are never shared with third parties.
+This website is owned and operated by DefinitiveDeals.com.  The administrator for this site can be reached via email at <a href="mailto:contact@definitivedeals.com?subject=privacy">contact@definitivedeals.com</a>.&nbsp;&nbsp;All efforts will be made to respond to any inquires within 48 hours.
 <br>
 <br>
 
-<b>Links to other websites</b>
+<span id="legalno">2. Information that is collected</span>
 <br>
-DefinitiveDeals links to several outside sites such as merchants, advertisers, partners and sponsors.  When leaving DefinitiveDeals and browsing external sites, you are encouraged to review the privacy policy of those sites as it may or will differ from this privacy policy. DefinitiveDeals is not responsible for the privacy practices or policies of any third party web sites and this privacy policy statement does not apply to those Web sites.  DefinitiveDeals makes no representation to the accuracy or existence  of other websites' privacy policies.
-
-<br>
-<br>
-
-<b>E-mail addresses</b>
-<br>
-DefinitiveDeals only collects and stores e-mail addresses that are submitted voluntarily to us by our visitors.  The e-mail addresses are used to send out newsletters other related information and are <b>never</b> shared with outside parties.  Providing your e-mail address to DefinitiveDeals is voluntary and is not required to browse the site.  If you have previously submitted your e-mail address to DefinitiveDeals but no longer wish to receive e-mails from us, please send an e-mail to <a href="mailto:remove@definitivedeals.com?subject=remove">remove@definitivedeals.com</a> and we will promptly remove your e-mail information.
+Information such as domain name, browser type and statistics for pages and deals that are being viewed are collected by this website.  DefinitiveDeals only uses this information internally to improve the content and navigation of this site.  Information that is volunteered by visitors such as e-mail addresses, contact information, comments etc. is also collected. 
 <br>
 <br>
 
-<b>Cookies</b>
+<span id="legalno">3. No use by persons under the age of 13</span>
 <br>
-DefinitiveDeals do not set or make use of cookies.  However, other merchants and organizations that are linked to on this website may set cookies when visiting their sites.
+No children under 13 should disclose personal information such as e-mail addresses on this site.
 <br>
 <br>
 
 
-<b>Data Security</b>
+<span id="legalno">4. Links to other websites</span>
 <br>
-DefinitiveDeals takes reasonable precautions to keep all personal information secure.  There are managerial and physical procedures in place to prevent unauthorized access to data.
+DefinitiveDeals links to several external sites such as merchants, advertisers, partners and sponsors.  When leaving DefinitiveDeals and browsing external sites, you are encouraged to review the privacy policy of those sites as it may or will differ from this privacy policy. DefinitiveDeals is not responsible for the privacy practices or policies of any third party web sites and this privacy policy statement does not apply to those Web sites.  DefinitiveDeals makes no representation to the accuracy or existence  of other websites' privacy policies.
+
+<br>
+<br>
+
+<span id="legalno">5. E-mail addresses</span>
+<br>
+DefinitiveDeals only collects and stores names and e-mail addresses that are submitted voluntarily to us by our visitors.  The e-mail addresses are used to send out newsletters and other related information and are <b>never</b> shared with outside parties except as detailed in section 9.  Providing your e-mail address to DefinitiveDeals is voluntary and is not required to browse or use this site.  If you have previously submitted your e-mail address to DefinitiveDeals but no longer wish to receive e-mails from us, please send an e-mail to <a href="mailto:remove@definitivedeals.com?subject=remove">remove@definitivedeals.com</a> and we will promptly remove your e-mail information.
+<br>
+<br>
+
+<span id="legalno">6. Financial Information</span>
+<br>
+We do NOT collect any kind of financial information from our visitors.  Any financial transaction you may enter into is strictly between yourself and the merchant you are purchasing goods or services from.  DefinitiveDeals.com will not be responsible or otherwise liable for any use or disclosure of your financial information by such third parties.  Please review the privacy policies of the merchants you are purchasing from for more information.  
 <br>
 <br>
 
 
-<b>Changes to the Privacy Policy</b>
+<span id="legalno">7. Cookies</span>
 <br>
-DefinitiveDeals reserves the right to change and/or amend this privacy policy at any time.  Any updates will be posted on this page.
+DefinitiveDeals does not make use of cookies.  However, other merchants and organizations that are linked to on this website may set cookies when visiting their sites.
+<br>
+<br>
+
+
+<span id="legalno">8. Data Security</span>
+<br>
+DefinitiveDeals takes reasonable precautions to keep all personal information secure.  There are managerial and physical procedures in place to prevent unauthorized access to data.  Please note that due to the open nature of the public Internet, you should consider any communication between yourself and definitivedeals.com as non-confidential as we can not guarantee that all communication between you and our servers will be completely free from unauthorized access.  The only personally identifiable data we store is though limited to names and email-addresses.  No other personal data is stored.   
+<br>
+<br>
+
+
+<!-- Note, changes to this numbering - also change text in section 5 -->
+<span id="legalno">9. Sharing of Personally Identifiable Data</span>
+<br>
+We do not divulge any information collected by us, or volunteered by our users, to any third parties unless; <b>(i)</b> We are required to do so by law, court order or subpoena;  <b>(ii)</b> If required to enforce our <a href="/terms_and_conditions.php">Terms and Conditions</a>; or <b>(iii)</b> If required to protect our website, trademarks and property.
+<br>
+<br>
+
+
+<span id="legalno">10. Changes to the Privacy Policy</span>
+<br>
+DefinitiveDeals reserves the right to change and/or amend this privacy policy at any time with and without notice.  Any updates will be posted on this page and are effective immediately.
+
+<br>
+<br>
+<span id="legalno">11. Your Acceptance</span>
+<br>Your continued use of this site means that you understand this Privacy Policy and agree to its terms.  Your continued use of this site also means that you understand and accept our <a href="/terms_and_conditions.php">Terms and Conditions</a>.
+
+
 <br><br><br>
 <i>
 Administrator <br>
 DefinitiveDeals.com
 </i>
 
-<br><br>
-<p align="right" style="font-size:8pt;">This Privacy Policy was last updated on October 27, 2005</p>
+<p align="right" style="font-size:8pt;">This Privacy Policy was last updated on February 1, 2007</p>
 
 </div>
 
+
+</td></tr></tbody></table><br>
+
+<div class="bottomnote" align="center">DefinitiveDeals makes every effort to provide correct and accurate information.  However all deals are subject to change and may not be valid at all times.</div>
+
 <br>
-<div id="links">
-<a onmouseover="window.status='Back to the deals'; return true;" onmouseout="window.status=' '; return true;" href="javascript:history.go(-1);">Back to the deals!</a></div>
+<div align="center" id="links">
+<a href="/aboutus.php">About Us</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/faq.php#contact">Contact Us</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/privacy.php">Privacy Policy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/terms_and_conditions.php">Terms &amp; Conditions</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/faq.php">FAQ &amp; Help</a>
+<div align="center" class="copyright">© Copyright 2005-2007 DefinitiveDeals.com  All rights reserved.</div>
 
-</td></tr></tbody></table>
-
-
-
+Page created in 0.24155306816101 seconds
 
 
 
-</body></html>
+
+
+
+</div></body></html>
