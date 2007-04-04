@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020083738id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404095926id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ We use various third parties to deliver adverts on File Den. Some information ab
 
 **Information Collection**
 
-File Den will only ever require personally identifiable information during registration. This information will only ever be used to identify you as a unique visitor and will never be shared with other parties without your prior consent.
+File Den will only ever require personally identifiable information during registration. This information is used for demographic purposes and may also be disclosed to companies working with File Den in order to target advertising towards you throughout the website. Information collected will not be used to send you unsolicited mail of any form.
 
 **IP Addresses**
 
