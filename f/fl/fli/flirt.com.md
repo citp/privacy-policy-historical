@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the flirt.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215081939id_/http%3A//flirt.com/hilfe/datenschutz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404211505id_/http%3A//www.flirt.com/hilfe/datenschutz.php) for the most accurate reproduction.*
 
 # FLIRT.com - Online Dating for Cool People
 
-|  |  |  | | | FLIRT.COM PRIVACY POLICY  
+|    
+  
+|  |  | 
+
+| | | FLIRT.COM PRIVACY POLICY  
 ---|---  
 Personal relationships and flirting are private matters. Flirt.com respects your privacy.
 
@@ -43,4 +47,6 @@ The Site has security measures in place to protect against the loss, misuse and 
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.   
 **How You Can Access and Update Your Email Preferences, Personal Information and Public Information**  
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the Account Settings or My Profile section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from Flirt.com, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from Flirt.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.   
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at legal@Flirt.com. You can also send us mail to: Flirt.com, Privacy Department, PO Box 34987, Los Angeles, CA 90034-0987.
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at legal@Flirt.com. You can also send us mail to: Flirt.com, Privacy Department, PO Box 34987, Los Angeles, CA 90034-0987.  
+  
+| 
