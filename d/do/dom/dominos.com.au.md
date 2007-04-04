@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006210253id_/http%3A//www.dominos.com.au/great_company/default.asp%3FID%3D96%26pnav%3D6%26snav%3D96) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404082059id_/http%3A//www.dominos.com.au/great_company/default.asp%3FID%3D96%26pnav%3D6%26snav%3D96) for the most accurate reproduction.*
 
 # Domino's Pizza - your privacy is our policy
 
 your privacy is our policy
 
-Domino’s Pizza Australia New Zealand Limited (“Domino’s”) acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino’s and its franchisees hold and sets out the way in which Domino’s and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores, including franchisee stores.
+Domino’s Pizza Enterprises Limited (“Domino’s”) acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino’s and its franchisees hold and sets out the way in which Domino’s and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores, including franchisee stores.
 
 Domino’s may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates. This policy is effective as from March 2006.
 
@@ -93,15 +93,4 @@ With most Internet Browsers, you can erase Cookies from your computer hard drive
 
 **Links to other sites**
 
-Domino’s may provide links to other third party web sites. If you use these links, you will leave our sites and Domino’s are not responsible for any of these sites, or their usage of your personal information. We advise that you check the privacy policies on those sites.
-
-**Contact us**
-
-If you wish to discuss any privacy issues, or if you do not wish to receive any future communications from us, please contact us at the following mailing or email address.
-
-Domino’s Pizza Australia New Zealand Ltd  
-TAB Building, Level 8  
-240 Sandgate Road  
-Albion, QLD, 4010
-
-Email: [privacy@dominos.com.au](mailto:privacy@dominos.com.au)
+Domino’s may provide links 
