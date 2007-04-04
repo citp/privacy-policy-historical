@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresses.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024081926id_/http%3A//www.dresses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresses.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404163913id_/http%3A//www.dresses.com/privacy.html) for the most accurate reproduction.*
 
 # Dresses.com - Privacy and Security Statement
 
