@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accepted.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215172822id_/http%3A//www.accepted.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accepted.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404213408id_/http%3A//www.accepted.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Note: the privacy practices set forth in this privacy policy are for Accepted.co
 
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, like adding you to one of our mailing lists or processing your order.
 
-We do not share, sell, lease, or give away
+We do not share, sell, lease, or give it away.
 
 ### Cookie/Tracking Technology
 
