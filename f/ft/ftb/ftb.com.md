@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210213519id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405000359id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # First Tennessee | All Things Financial : Privacy Policy
 
@@ -105,13 +105,12 @@ Our privacy promise applies to information about current and former customers of
   * Highland Capital Management Corp.
   * Killebrew, Lyman & Woodworth x
   * Mann, Smith & Cummings, Inc.
-  * Merritt & McKenzie, Inc.
+  * First Horizon Insurance Agency, Inc.
   * Peoples Bank*
   * Polk & Sullivan Group, Inc.
   * SFSR, Inc.
   * Synaxis Benefits Services xx
   * Synaxis Group, Inc.
-  * Van Meter Insurance, Inc.
 
 
   * * A division of First Tennessee Bank National Association
