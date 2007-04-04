@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019100621id_/http%3A//checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404212528id_/http%3A//www.checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
 
 # CheckM8 - Rich Media and Online Ad Technology
 
@@ -34,9 +34,9 @@ CheckM8, Inc. reserves the right to modify this privacy policy statement at any 
 
 **Testimonials**
 
-"We needed to be able to forecast, run and report on ads across multiple media properties and streamline our internal and external workflow processes.  CheckM8 allows us to consolidate our media properties, improve our inventory forecasting and streamline our sales operations through their ad serving solution, rather than having to integrate various systems from multiple vendors." 
+"We have evaluated several different technologies, and we found CheckM8 technology far more advanced than any other technology. CheckM8 technology will allow us to improve campaign performance through rich media while maintaining fastest time-to-market and controlling production costs, and allow us to continue leading the market in Japan while providing the best service to our clients".
 
-**John Lerner, Vice President and General Manager, VNU eMedia**
+**Toshio Arai, President & CEO, CCI**
 
   
 
