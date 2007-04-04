@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206053917id_/http%3A//www.amstat.org/site/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404062225id_/http%3A//www.amstat.org/site/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
@@ -84,8 +84,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Webmaster   
 American Statistical Association   
-1429 Duke St.   
-Alexandria, VA 22314-3402, USA
+732 N. Washington St.  
+Alexandria, VA 22314-1943, USA
 
 Telephone 888-231-3473 or 703-684-1221  
 [webmaster@amstat.org](mailto:webmaster@amstat.org)
