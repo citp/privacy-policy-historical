@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028074326id_/http%3A//www.forextips.com/forexpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404143751id_/http%3A//www.forextips.com/forexpolicy.htm) for the most accurate reproduction.*
 
 # forex refund policy, MTI. Online Forex Trading in the foreign currency exchange, with live trading calls. Invest in the forex market
 
-**Refund of Tuition Fees**
-
-**MTI will make a full refund of tuition fees in the following circumstances:**   
+**MTI will make a full refund of tuition fees in the following circumstances:**  
  
+
   *  Application for a student visa is unsuccessful; or
 
   *  Program ceases to be provided at any time after it starts but before it is completed; or 
@@ -16,7 +15,8 @@
 
   *  An offer of a place is withdrawn by MTI; or
 
-  *  Applicant is unable to satisfy prescribed conditions stipulated in the Offer Conditions. 
+  *  Applicant is unable to satisfy prescribed conditions stipulated in the Offer Conditions.   
+
 
 **Refund of course materials**
 
@@ -51,7 +51,7 @@ Use of ForexTips.com requires the submission of personal data. However, in order
 
 
 
-The following discloses the information gathering and dissemination practices for this Web site:  [** ForexTips.Com** ](http://www.forextips.com/)
+The following discloses the information gathering and dissemination practices for this Web site:  [**ForexTips.Com** ](http://www.forextips.com/)
 
 #### Information Automatically Logged 
 
@@ -61,7 +61,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 Basic registration requires you to provide us a screen name and password, as well as some demographic information and a current email address. This information will then gain you access to the ForexTips.com real-time members services area. You will also have access to any new tools we may offer in the future. The information you provide us helps us administer these features. You are free to use as your screen name your real name or a set of characters you find easy to remember. For contests or promotions occasionally offered on the site, ForexTips.com may ask participants for additional personal data necessary to run the contest or notify winners. Any information you may provide to third parties in the course of purchasing any products and services which may be featured on ForexTips.com, is subject to the privacy policies of those organizations.
 
-** Privacy of Personal Data on ForexTips.com**
+**Privacy of Personal Data on ForexTips.com**
 
 No data you provide ForexTips.com as part of your basic registration or personalization will be sold to outside organizations. ForexTips.com, however, reserves the right to disclose personal identifying information when required or permitted by law. The information is stored on secure servers. You may occasionally receive from us at your designated email address notifications of new ForexTips.com features or offers. You may opt out of receiving those notifications by notifying us of personal preferences. Please remember to change your personal preferences for each email address that you may have registered with us.
 
@@ -69,7 +69,7 @@ No data you provide ForexTips.com as part of your basic registration or personal
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-** Cookie Policy**
+**Cookie Policy**
 
 We use cookie technology to help members move faster through the site and to keep track of your shopping cart. We also use cookies to deliver content specific to your interests. A cookie is a small file sent to your computer by the ForexTips.com site server. The most commonly employed cookies on ForexTips.com are those that help us establish (1) whether you are a registered member of ForexTips.com, and (2) whether a registered member has opted to use the "auto-login" feature, which eliminates the need for registered members to identify themselves each time they visit. A separate cookie from the company that handles our advertising production and tracking system helps identify which ad you may be clicking on, so that you will be linked to the right site. We may also use cookie technology to track the site's aggregate page views, which helps us determine which features the user base seems to be most or least interested in. An important point: We do not track your individual usage patterns using cookies, nor do we use them to track your financial holdings or other personal preferences in any individually identified way. Contrary to what you might have heard from other sources, cookies cannot get information from your hard drive against your will, cannot destroy files and cannot send you viruses.
 
@@ -124,9 +124,9 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. 
 
-  1. You can send email to  [MTI](mailto:info@forextips.com?subject=assistance) . 
+  1. You can send email to [ MTI](mailto:info@forextips.com?subject=assistance) . 
 
-  2.  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [MTI](mailto:info@forextips.com?subject=assistance) .
+  2.  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [ MTI](mailto:info@forextips.com?subject=assistance) .
 
 
 
