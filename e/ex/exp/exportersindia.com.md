@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exportersindia.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212002437id_/http%3A//exportersindia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exportersindia.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405002158id_/http%3A//www.exportersindia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Exporters India
 
