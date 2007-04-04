@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017165038id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404060313id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
 
-# Digital Image Cafe: Digital Photo Contest, Photography and More
+# Photo Contest - Digital Image Cafe
 
 **PRIVACY POLICY**
 
