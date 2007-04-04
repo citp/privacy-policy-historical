@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216063018id_/http%3A//www.fairchildsemi.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404180555id_/http%3A//www.fairchildsemi.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Fairchild Semiconductor
 
