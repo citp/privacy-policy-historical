@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtylilly.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213092152id_/http%3A//www.dirtylilly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtylilly.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404222133id_/http%3A//www.dirtylilly.com/privacy.htm) for the most accurate reproduction.*
 
 # watch me be naughty - Yours DirtyLilly
 
