@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastdrive.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214150036id_/http%3A//www.fastdrive.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastdrive.org privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404203728id_/http%3A//www.fastdrive.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
