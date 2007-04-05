@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201943id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405065637id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - Brunswick Bowling
+
+## LEGAL NOTICES, TERMS OF USE, AND PRIVACY POLICY
 
 These are the legal notices and terms of use and the privacy policy that apply to all of the following domains.  We refer to each of the websites accessible through these domain names as a “site” and, collectively, the “sites.” 
 
@@ -18,9 +20,9 @@ www.brunswickids.com
 [www.bowlbrunswick.com](http://www.bowlbrunswick.com/)   
 [www.brunswickfun.com](http://www.brunswickfun.com/)
 
-When we refer to “we,” “us,” or “our,” we mean Brunswick Corporation or the specific division, subsidiary, or affiliate that operates the site, provides its content, or processes information received through it, each as appropriate and applicable.
+When we refer to "we", "us", or "our", we mean Brunswick Corporation or the specific division, subsidiary, or affiliate that operates the site, provides its content, or processes information received through it, each as appropriate and applicable.
 
-When we refer to “you” or “your,” we mean the person accessing the site. If the person accessing the site does so on behalf of, or for the purposes of, another person, including a business or other organization, “you” or “your” also means that other person, including business organization.
+When we refer to "you" or "your", we mean the person accessing the site. If the person accessing the site does so on behalf of, or for the purposes of, another person, including a business or other organization, “you” or “your” also means that other person, including business organization.
 
 **Legal Notices and Terms of Use**
 
@@ -39,7 +41,8 @@ NASCAR is a registered trademark of the National Association For Stoc Car Auto R
 PEPSI and the PEPSI Globe design are registered trademarks of PepsiCo, Inc.   
 © Coors Global Properties, Inc. (2005) Coors Trademarks are properties of Coors Global Properties, Inc, used under license by Brunswick.  
 Bruswick/MLBP 2005. ©2005 Miller Brewing Company © 2005 Orange County Choppers, Inc. All rights reserved.  
-TM & ©2005 Hanna-Barbera.  THE SIMPSONS TM and © 2005.   
+TM & ©2005 Hanna-Barbera.   
+THE SIMPSONS TM and © 2005.   
 20th Century Fox Film Corporation. All rights reserved. TM & ©2005 Warner Bros. Entertainment Inc.  
 ©2005 King Features Syndicate,Inc./Fleischer Studios, Inc. TM Heart Holdings,Inc./Fleischer Studios,Inc.   
 We make no claim to the trademarks of others. 
@@ -94,7 +97,7 @@ We may terminate, change, suspend, or discontinue any aspect of any site, includ
 
 **International Users**.
 
-The site is controlled, operated and administered by us or our agents from offices within the United States of America. We make no representation that materials at this site are appropriate or available for transmission to or from, or use in, locations outside of the United States and accessing the any site from any jurisdictions where such site’s contents are illegal is prohibited. You may not use the site or export the materials in violation of United States or any other import or export laws and regulations. If you access this Site from a location outside of the United States, you are responsible for compliance with all local laws. 
+The site is controlled, operated and administered by us or our agents from offices within the United States of America. We make no representation that materials at this site are appropriate or available for transmission to or from, or use in, locations outside of the United States and accessing the any site from any jurisdictions where such site’s contents are illegal is prohibited. You may not use the site or export the materials in violation of United States or any other import or export laws and regulations. If you access this site from a location outside of the United States, you are responsible for compliance with all local laws. 
 
 **Choice of Law, Jurisdiction, and Venue**. 
 
@@ -114,17 +117,17 @@ Certain areas and features of sites contain terms and conditions specific to tho
 
 **Privacy Policy**
 
-This privacy policy discloses the privacy practices for the sites.  This privacy policy does not cover information we collect by means other than a site.  If you have any questions about how we use information collected by means other than a site, you should inquire at or before the time you give such information to us.
+This privacy policy discloses the privacy practices for these sites.  This privacy policy does not cover information we collect by means other than a site.  If you have any questions about how we use information collected by means other than a site, you should inquire at or before the time you give such information to us.
 
 **Note that this policy contains several important exceptions, most notably the exception involving use of information to identify and/or pursue persons who are under criminal investigation or who damage, or may damage, our information or other resources.   Please read the entire privacy policy to be sure that you understand these exceptions.**
 
 **Information Ownership, Collection and Use**
 
-We are the sole owner of the information collected through the sites. We will not sell, share, or rent this information to others in ways different from those disclosed in this policy. We may collect information from its users at several different points on the site.
+We are the sole owner of the information collected through these sites. We will not sell, share, or rent this information to others in ways different from those disclosed in this policy. We may collect information from its users at several different points on the site.
 
-This privacy policy addresses some types of information, means of collecting information, and uses of information that may not presently apply to one or more of the sites.  We tell you about these types of information, means of collecting information, and uses of information anyway because we want to maintain flexibility in offering additional features without having to revisit our terms and conditions or privacy policy every time we revise a site or offer new functions.  No description of any type of information, means of collecting information, or use of information will require us to collect any particular information, make any particular use of any information, or offer any particular functionality through any site.
+This privacy policy addresses some types of information, means of collecting information, and uses of information that may not presently apply to one or more of these sites.  We tell you about these types of information, means of collecting information, and uses of information anyway because we want to maintain flexibility in offering additional features without having to revisit our terms and conditions or privacy policy every time we revise a site or offer new functions.  No description of any type of information, means of collecting information, or use of information will require us to collect any particular information, make any particular use of any information, or offer any particular functionality through any site.
 
-Brunswick takes its obligations to your privacy seriously. By completing and submitting web forms on this site or other sites covered by this privacy policy, you consent and authorize Brunswick to collect and disclose this information to its affiliates, dealers, and marketing agencies in order to better maintain its relationship with you, determine your needs, and to contact you regarding offers, programs, discounts, and surveys. Brunswick will not sell, share or rent this information to others except to our designated agents and strictly for our communication to you. If you choose to access, revise, or remove your personal information from Brunswick's database, located at Third Wave Research, 131 W. Wilson St., Ste. M102, Madison, WI 53703, please call the Brunswick Privacy Liaison, at (847)735-4700 or e-mail [privacy@brunbowl.com](mailto:privacy@brunbowl.com)
+Brunswick takes its obligations to your privacy seriously. By completing and submitting web forms on this site or other sites covered by this privacy policy, you consent and authorize Brunswick to collect and disclose this information to its affiliates, dealers, and marketing agencies in order to better maintain its relationship with you, determine your needs, and to contact you regarding offers, programs, discounts, and surveys. Brunswick will not sell, share or rent this information to others except to our designated agents and strictly for our communication to you. If you choose to access, revise, or remove your personal information from Brunswick's database, please call the Brunswick Privacy Liaison, at (847)735-4700 or e-mail [privacy@brunbowl.com](mailto:privacy@brunbowl.com)
 
 **COPPA Privacy Policy**
 
@@ -165,7 +168,7 @@ A direct notice to parents containing the information included on this site will
 
 **Ordering, Event Registration and Related Processes**
 
-When and if you order products or services using a site or register for an event, we request information from you using an order form. When we already have information about you (such as through a previous order or registration, whether received through a site or otherwise), we may use such information to facilitate the order or registration process. When using an order form, you must provide contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your order. If we have trouble processing an order, we use this contact information to contact the you.
+When and if you order products or services using a site or register for an event, we request information from you using an order form. When we already have information about you (such as through a previous order or registration, whether received through a site or otherwise), we may use such information to facilitate the order or registration process. When using an order form, you must provide contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your order. If we have trouble processing an order, we use this contact information to contact you.
 
 **Cookies**
 
@@ -183,11 +186,11 @@ One or more of the organizations with which we do business, or to which we provi
 
 **Log Files**
 
-We, or our hosting provider may collect traffic information from visitors for statistical analysis and site improvement. When you access a site, we or our hosting provider may collect information about your visit in a log file on a server. Log file information may include, but is not limited to, Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We, or our hosting provider use this information to analyze trends, administer the site, track users’ movements in the aggregate, and gather demographic information for aggregate use. IP addresses and other log file information are not linked to personally identifiable information. We do not try to track users or to identify users individually, but we, or our hosting provider do review this information to understand overall trends and to determine what kinds of content are popular and useful to users.
+We or our hosting provider may collect traffic information from visitors for statistical analysis and site improvement. When you access a site, we or our hosting provider may collect information about your visit in a log file on a server. Log file information may include, but is not limited to, Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We, or our hosting provider use this information to analyze trends, administer the site, track users’ movements in the aggregate, and gather demographic information for aggregate use. IP addresses and other log file information are not linked to personally identifiable information. We do not try to track users or to identify users individually, but we, or our hosting provider do review this information to understand overall trends and to determine what kinds of content are popular and useful to users.
 
 **Sharing**
 
-**(a) Aggregated information**. We, or our hosting provider may share aggregated demographic information with our users, our affiliated organizations, and other organizations with which we do, or contemplate doing, business. Such information is aggregated and is not linked to any information that can identify individual users.
+**(a) Aggregated information**. We or our hosting provider may share aggregated demographic information with our users, our affiliated organizations, and other organizations with which we do, or contemplate doing, business. Such information is aggregated and is not linked to any information that can identify individual users.
 
 **(b) Outsourcing providers**. We may use outside shipping or other outsourcing providers to process and ship orders, or perform other functions.  We require that these outsourcing providers not retain, share, store, or use personally identifiable information for any secondary purposes, except for backup and recovery operations. Although we use good faith efforts to ensure compliance by its outsourcing providers, we cannot, and will not, be responsible to users for misuse of personally identifiable information by such outsourcing providers.
 
@@ -205,7 +208,7 @@ If you wish to subscribe to a newsletter we offer or to a mailing list that we m
 
 **Surveys and Contests**
 
-From time to time, we may request information from you using surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as zip code and type of user). We will use such contact information to notify winners and award prizes, and to monitor or improve the use of one or more sites and provide aggregated information for our own uses or to our customers or other organizations, and we may also use it to notify you of news about us or our affiliates or promotions of our products or services or the products or services of people with whom we do business.
+From time to time, we may request information from you using surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether or not to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as zip code and type of user). We will use such contact information to notify winners and award prizes, and to monitor or improve the use of one or more sites and provide aggregated information for our own uses or to our customers or other organizations, and we may also use it to notify you of news about us or our affiliates or promotions of our products or services or the products or services of people with whom we do business.
 
 **Tell-A-Friend**
 
@@ -237,7 +240,7 @@ If your personal information changes, or if you no longer desire service, you ma
 
 Users who no longer wish to receive newsletters or promotional materials or have their information provided to third parties may opt to not receive such communications or have information shared by contacting us using the information below.  We will comply with such requests as soon as is commercially practicable.  Such compliance may involve batch processing and other processes that take 30 days or longer.  If you opt not to receive such communications or allow us to share your information and then give your personal information to us again using one of the sites under circumstances that permit us to use your information, we will regard your opt-out as rescinded. 
 
-In most cases, it is impractical for use to stop any other party to whom we have supplied your information from continuing to use the information and opting out will usually not stop other to whom we have provided your information from continuing to use it.
+In most cases, it is impractical for us to stop any other party to whom we have supplied your information from continuing to use the information and opting out will usually not stop others to whom we may have provided your information from continuing to use it.
 
 To change your preference with regard to the way your information is treated, visit the appropriate area of the website or e-mail the Privacy Liaison [privacy@brunbowl.com](mailto:privacy@brunbowl.com).
 
@@ -261,7 +264,7 @@ Notwithstanding anything else in this privacy policy to the contrary, we may col
 
 **Contact Information**
 
-If you feel that we are not abiding by this privacy policy or if you have questions regarding the policy, you may contact our privacy liaison using the following information.
+If you feel that we are not abiding by this privacy policy or if you have questions regarding the policy, you may contact our Privacy Liaison using the following information.
 
 Privacy Liaison   
 Brunswick Corporation   
@@ -281,4 +284,4 @@ Phone: (847) 735-4700
 Fax: (847) 735-4765   
 **[[webmaster@brunbowl.com]](mailto:webmaster@brunbowl.com)**
 
-Last Modified 8/16/2006     Effective 10-6-2005
+Last Modified 12/20/2006     Effective 10-6-2005
