@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fashion.ie privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201062120id_/http%3A//www.fashion.ie/women-ireland-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion.ie privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405025642id_/http%3A//www.fashion.ie/women-ireland-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion.ie Ireland
-
-[](https://web.archive.org/women-ireland-recommended_christmas_gifts_2006.html "fashion.ie recommended christmas gifts 2006")
 
 Privacy Policy 
 
