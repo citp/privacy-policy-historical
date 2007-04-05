@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016211319id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405051033id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
 # The Cult - ChuckPalahniuk.net
 
