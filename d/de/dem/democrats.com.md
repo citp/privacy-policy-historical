@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021193504id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405215701id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Democrats.com
 
@@ -29,3 +29,8 @@ Finally, we use anonymous aggregate statistics to help us improve our site.
 Updated 8/31/05
 
 p.s. Notice to postmasters: **Democrats.com does not spam so please do not block our email**. We use SPF to verify the authenticity of our email. If you have any questions about our policies, [contact us](http://democrats.com/contact) and we will reply promptly.
+
+  * [Printer-friendly version](https://web.archive.org/book/export/html/3264 "Show a printer-friendly version of this book page and its sub-pages.")
+  * [Send to friend](https://web.archive.org/send/send/3264)
+
+
