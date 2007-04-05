@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212141353id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405192751id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
 
-# digitalart.org - Privacy Statement
+# Privacy Statement - digitalart.org
 
 digitalart.org has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site.
 
@@ -32,6 +32,6 @@ We use industry-standard encryption technologies when transferring and receiving
 
 Data Access/Quality
 
-Upon request, we provide site users with access to all information that we maintain about them, transaction information (e.g., dates on which Premium Membership orders were placed and amounts spent), communications that the user has directed to our site (e.g., e-mails, inquiries), and contact information (e.g., e-mail address, name, etc.) that we maintain about them. Persons can access this information by contacting us via our [Contact Form](https://web.archive.org/info.contact.php). Upon request, we offer everyone the ability to have inaccuracies in their information corrected.
+Upon request, we provide site users with access to all information that we maintain about them, transaction information (e.g., dates on which Premium Membership orders were placed and amounts spent), communications that the user has directed to our site (e.g., e-mails, inquiries), and contact information (e.g., e-mail address, name, etc.) that we maintain about them. Persons can access this information by contacting us via our [Contact Form](http://digitalart.org/info.contact.php). Upon request, we offer everyone the ability to have inaccuracies in their information corrected.
 
-If you have any questions about this privacy statement, the practices of this site, your dealings with this Web site, or if you feel that this site is not following its stated information policy, you may contact us by sending an e-mail via our [Contact Form](https://web.archive.org/info.contact.php).
+If you have any questions about this privacy statement, the practices of this site, your dealings with this Web site, or if you feel that this site is not following its stated information policy, you may contact us by sending an e-mail via our [Contact Form](http://digitalart.org/info.contact.php).
