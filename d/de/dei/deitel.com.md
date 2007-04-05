@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deitel.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018062816id_/http%3A//deitel.com/shared/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deitel.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405105202id_/http%3A//deitel.com/shared/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Deitel & Associates, Inc. Privacy Statement
 
