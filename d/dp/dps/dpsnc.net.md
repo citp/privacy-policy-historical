@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213164931id_/http%3A//www.dpsnc.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2028%26Itemid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405025656id_/http%3A//www.dpsnc.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2028%26Itemid%3D715) for the most accurate reproduction.*
 
 # Durham Public Schools located in Durham, North Carolina - Your Privacy
 
