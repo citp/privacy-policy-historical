@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020120154id_/http%3A//www.discountofficeitems.com/privacy.cgis) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405143337id_/http%3A//www.discountofficeitems.com/privacy.cgis) for the most accurate reproduction.*
 
 # Discount Office Items Privacy Policy
 
-  
 **About this Privacy Policy:**  
     The entire site, or at least specific portions of this site are assisted by Zoovy technology. Zoovy has created this privacy policy as a template for customers who are using Zoovy technology with their websites. Zoovy in no way takes responsibility for the accuracy or enforcement of this policy. For a copy of Zoovy's privacy policy (which does not necessarily apply to the customers of its customers) visit http://www.zoovy.com/legal  
   
@@ -42,8 +41,8 @@ We provide the ability to Correct/Update YOUR information.
 
 Contacting the Web Site
 
-    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-  
+    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
 **Amendments made directly by Discount Office Items:  
 **   
 No amendments have been made.
