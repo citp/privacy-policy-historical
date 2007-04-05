@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213643id_/http%3A//chinesepod.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405072443id_/http%3A//chinesepod.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Learn Chinese
 
