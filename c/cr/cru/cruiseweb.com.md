@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214222id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406083140id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
 
 # Cruises to Caribbean, Bahamas, Bermuda, Mexico, Europe, Alaska, Mediterranean, Hawaii.
 
@@ -57,7 +57,7 @@ Pricing & Information? Call 1-800-377-9383
 Take advantage of The Cruise Web's enormous buying power! It's easy!  
  **COMPLETE THE FORM BELOW** and we will call or email you with our lowest quote for any cruises.
 
-The Cruise Web fully respects your [privacy](https://web.archive.org/web/20061205214222id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) and will only use your information to service your vacation needs. We do not sell or give this information to any other third parties. 
+The Cruise Web fully respects your [privacy](https://web.archive.org/web/20070406083140id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) and will only use your information to service your vacation needs. We do not sell or give this information to any other third parties. 
 
   
 
