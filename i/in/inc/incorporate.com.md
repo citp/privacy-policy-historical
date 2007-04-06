@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221180351id_/http%3A//www.corporate.com/privacyPolicy.jsp%23_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406034100id_/http%3A//www.corporate.com/privacyPolicy.jsp%23_Privacy) for the most accurate reproduction.*
 
 # The Company Corporation Privacy Policy | The Company Corporation
 
@@ -6,7 +6,7 @@ Guarantee
 Refund/Cancellation Policy  
 Registered Agent Services  
 Privacy Policy  
-[Terms and Conditions](https://web.archive.org/web/20061221180351id_/http%3A//www.corporate.com/termsConditions.jsp)
+[Terms and Conditions](https://web.archive.org/web/20070406034100id_/http%3A//www.corporate.com/termsConditions.jsp)
 
 ## Guarantee:
 
