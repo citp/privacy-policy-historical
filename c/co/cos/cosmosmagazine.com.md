@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210164418id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406101028id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | COSMOS magazine
 
@@ -51,7 +51,7 @@ Luna Media Pty Ltd
 Level 2, 25 Cooper Street  
 SURRY HILLS NSW 2010
 
-Phone +61 2 9219 2500  
-Fax +61 2 9281 2360 
+Phone +61 2 9310 8500  
+Fax +61 2 9698 4899 
 
 Email: [privacy@lunamedia.com.au](mailto:privacy@lunamedia.com.au)
