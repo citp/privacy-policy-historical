@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2006-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060816170440id_/http%3A//www.biogen.com/site/008.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406104324id_/http%3A//www.biogenidec.com/site/008.html) for the most accurate reproduction.*
 
 # Biogen Idec - Privacy Policy
 
