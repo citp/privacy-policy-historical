@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217040756id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406132013id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
 
 # BikeReg.com - online cycling event registration
 
@@ -8,7 +8,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code or age). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also provided to event promoters of events the customer has registered for and used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
 
@@ -18,9 +18,7 @@ Our site uses an order form for customers to request information, products, and 
 
 Financial information that is collected is used to bill the user for products and services. 
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
+Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code or age). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
@@ -48,7 +46,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Service  
 BikeReg.com  
-5 Strong Avenue, Suite 206  
+5 Strong Avenue, Suite 211  
 Northampton, MA 01060  
 info@BikeReg.com  
 (413) 303-9286 
