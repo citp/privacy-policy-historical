@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206053445id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406051115id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Bargain Outfitters
 
