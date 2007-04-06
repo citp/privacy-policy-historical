@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207014115id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406105440id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
 
 # Bitrock :: About Us :: Privacy
-
-|  | 
 
 We hate spam as much as you do. At BitRock, we will never share your information with any third party. Read below for the details.
 
@@ -28,6 +26,4 @@ If a user's personally identifiable information changes (such as your zip code,)
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.   
-  
----|---
+If we decide to change our privacy policy, we will post those changes so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
