@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129204530id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406225612id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Edfinancial
 
-  
-|  |  |  |  | 
+|  |  |  | 
 
 | At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on January 5, 2006. | [](http://www.truste.org/ivalidate.php?companyName=EdFinancial%20Services&sealid=101 "TRUSTe Click to Verify Seal")  
 ---|---  
@@ -17,7 +16,7 @@
 ### What this Privacy Policy Covers
 
   * This Privacy Statement applies to Edfinancial Services family of websites and governs data collection and usage at all Edfinancial Services sites and services. As part of our mission to expand access to higher education, Edfinancial Services hosts innovative websites such as [www.eCampusTours.com](http://www.ecampustours.com/ "www.eCampusTours.com"), [www.Edamerica.net](http://www.edamerica.net/ "www.Edamerica.net"), [www.Edfinancial.com](http://www.edfinancial.com/ "www.Edfinancial.com"), [www.Edconsolidation.com](http://www.edconsolidation.com/ "www.Edconsolidation.com") and [www.Edsouth.org](http://www.edsouth.org/ "www.Edsouth.org"). 
-  * A nonprofit corporation, Edfinancial Services is a servicer of student loans and provides various online services for other providers of educational funding. You may access some services provided by Edfinancial Services with pages that are co-branded through the site of one of our partner lenders. It is important to note that this privacy policy does not apply to other areas of that lender's site that are not provided by Edfinancial Services. 
+  * Edfinancial Services is a servicer of student loans and provides various online services for other providers of educational funding. You may access some services provided by Edfinancial Services with pages that are co-branded through the site of one of our partner lenders. It is important to note that this privacy policy does not apply to other areas of that lender's site that are not provided by Edfinancial Services. 
   * Some areas of our websites may provide links to non-Edfinancial Services sites. If you link to a site that is not an Edfinancial Services website, the privacy policy of that site and its terms of Use of use apply to you. We encourage you to learn about the privacy policy of any third party before giving personal information to them. 
   * This policy also covers affiliated parties of Edfinancial Services which include Edamerica, Inc. and Educational Funding of the South, aka, Edsouth.
 
