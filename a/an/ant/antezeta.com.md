@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207062545id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406131947id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
 
 # » Antezeta - Data Privacy Statement
 
@@ -58,7 +58,7 @@ Antezeta will not sell, rent or lease your personal information to others. Antez
 
 ## Inquires
 
-If you have a question or complaint about this _Privacy Statement_ or about the site, you can [contact us](http://www.antezeta.com/contact.html "Contact Antezeta").
+If you have a question or complaint about this _Privacy Statement_ or about the site, you can [contact us](http://www.antezeta.com/cntct.html "Contact Antezeta").
 
 ## Changes to this Privacy Statement
 
