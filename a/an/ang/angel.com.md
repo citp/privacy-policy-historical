@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220024729id_/http%3A//www.angel.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406145527id_/http%3A//angel.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Angel.com - Privacy Policy
 
@@ -37,7 +37,7 @@ We may also share such information with our affiliates and other third parties t
 Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with i) the issuer of a criminal or civil subpoena; ii) governmental authorities when legally required to do so; or iii) governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our [Terms and Conditions](https://web.archive.org/terms-conditions.jsp) of Use, our Privacy Policy, or other policies that affect you and your use of our Service.
 
 **Your Ability to Opt Out or Opt In**  
-Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on the Angel.com website or by emailing us at [optout@angel.com](mailto:optout@angel.com).
+Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on the Angel.com website or by emailing us at [info@angel.com](mailto:info@angel.com).
 
 Opt In. Several of the services we provide, including many of the email notifications and the surveys we conduct, are entirely voluntary. You will not receive such services unless you opt in, i.e., unless you expressly choose to receive these services.
 
