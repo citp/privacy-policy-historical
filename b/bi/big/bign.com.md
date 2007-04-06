@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209043508id_/http%3A//www.bign.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406101515id_/http%3A//www.bign.com/privacy/default.asp) for the most accurate reproduction.*
 
 # National Companies
 
-[Home](https://web.archive.org/web/20061209043508id_/http%3A//www.bign.com/default.asp) > [Privacy Policy](https://web.archive.org/web/20061209043508id_/http%3A//www.bign.com/privacy/default.asp)  
+[Home](https://web.archive.org/web/20070406101515id_/http%3A//www.bign.com/default.asp) > [Privacy Policy](https://web.archive.org/web/20070406101515id_/http%3A//www.bign.com/privacy/default.asp)  
 Privacy Policy
 
 Our Commitment To Privacy   
@@ -38,7 +38,7 @@ Our Commitment To Children's Privacy
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.
 
 How To Contact Us   
-Should you have other questions or concerns about these privacy policies, please call us at 954-584-2151 or send us an email at [ customerservice@team-national.com](mailto:customerservice@team-national.com).
+Should you have other questions or concerns about these privacy policies, please call us at 954-584-2151 or send us an email at [ customerservice@bign.com](mailto:customerservice@bign.com).
 
 Sharing of Information With Third Parties
 
