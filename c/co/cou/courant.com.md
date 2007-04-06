@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courant.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019171639id_/http%3A//www.courant.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courant.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406071038id_/http%3A//www.courant.com/go/privacy) for the most accurate reproduction.*
 
 # Connecticut News from The Hartford Courant ::: State, National, & World News On courant.com
 
