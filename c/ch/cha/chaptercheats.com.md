@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202336id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406160311id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,7 +36,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Visit Adtegrity's privacy policy here: <http://www.adtegrity.com/privacy.asp>
 
-© 1999-2006,  
+© 1999-2007,  
 [www.chaptercheats.com](http://www.chaptercheats.com/)
 
 Chaptercheats.com is the web's number one destination for video game console cheats...and much, much more!
