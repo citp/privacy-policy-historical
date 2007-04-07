@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012080325id_/http%3A//www.ebird.org/content/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407181545id_/http%3A//ebird.org/content/privacyStatement.html) for the most accurate reproduction.*
 
 # eBird || North America's destination for birding on the Web
 
