@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215011129id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407091217id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # eRenterPlan - Insurance For Apartment Residents
 
@@ -13,7 +13,7 @@ Information about you is safeguarded in a number of ways. We use advanced data-e
   * Auditing company security practices. 
 
 
- 
+
 
 In order to issue and service your insurance policies, comply with government regulations, improve our products and services and better understand your insurance needs, we may collect and maintain nonpublic personal information about you: 
 
@@ -30,7 +30,7 @@ We may disclose information we receive from you on applications and other forms 
 
 LeasingDesk may also share certain personal information with the insurance company with which your insurance is placed.  We may also provide confirmation of policy issuance and/or canceallation to your sponsoring apartment community's management personnel. However, LeasingDesk will not give information to another nonaffiliated party for the purpose of soliciting you. Because of our privacy practices, we do not disclose information about our customers or former customers other than as described above or as required or permitted by law.
 
-For each visitor to LeasingDesk websites (including LeasingDesk.com and eRenterPlan.com), our web server automatically recognizes the consumer's domain name, but not the e-mail address, and tracks the pages of our site that are visited. The generalized information we gather enables us to serve you better by continually improving our site based on current use patterns. Nonpublic personal information required as part of an electronic application process is transmitted over a secure connection. 
+For each visitor to LeasingDesk websites (including LeasingDesk.com and  eRenterPlan .com), our web server automatically recognizes the consumer's domain name, but not the e-mail address, and tracks the pages of our site that are visited. The generalized information we gather enables us to serve you better by continually improving our site based on current use patterns. Nonpublic personal information required as part of an electronic application process is transmitted over a secure connection. 
 
 The policies and practices described in this notice are subject to change, but we will communicate any significant changes to you as required by law. We will also post such changes and update the revision date in this document, so that you will always know what information we collect and how to use it. The policies and procedures described in this disclosure replace all previous notices or statements regarding this subject. 
 
