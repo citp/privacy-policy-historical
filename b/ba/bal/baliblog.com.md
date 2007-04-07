@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baliblog.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217053207id_/http%3A//www.baliblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliblog.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407073111id_/http%3A//www.baliblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bali Blog
 
