@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2006-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060810193742id_/http%3A//entertainment.ie/sundry/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407144959id_/http%3A//entertainment.ie/sundry/privacy.asp) for the most accurate reproduction.*
 
 # entertainment ireland - Privacy Policy
 
