@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221210730id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407174924id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Terms of Service | About Us | Phoenix News| azfamily - KTVK| News for Phoenix, Arizona
 
