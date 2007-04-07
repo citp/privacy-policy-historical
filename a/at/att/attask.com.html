@@ -1,21 +1,14 @@
-<!--The following is the downloaded HTML source of the attask.com privacy policy that was archived on 2006-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061219040123id_/http%3A//www.attask.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the attask.com privacy policy that was archived on 2007-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070407202016id_/http%3A//www.attask.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="keywords" content="project management software, projects, tasks, resources, documents, issues, gantt">
 	<meta name="description" content=" The most effective project management software for your enterprise. Manage your projects, tasks, resources, documents, and issues across the organization.">
 	<title>AtTask Project Management Software - AtTask Privacy Policy</title>
 	<link rel="shortcut icon" href="/at.ico">
 	<link rel="stylesheet" type="text/css" href="/css/project-management-software-main.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/css/project-management-software-nav.css" media="all">
-	<!-- BEGIN GA Code -->
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		_uacct = "UA-77071-1";
-		urchinTracker();
-	</script>
-<!-- END GA Code -->
 	<script language="JavaScript" type="text/javascript">
 	<!--
 		var orgID = "";
@@ -24,7 +17,7 @@
 		<script language="JavaScript" type="text/javascript">
 	<!--
 		function viewDemo() {
-			demoWin = window.open("/view_demo_new.html", "FlashDemo", "width=800,height=600,resize=false");
+			demoWin = window.open("/demo/form.html", "FlashDemo", "width=800,height=600,resize=false");
 			demoWin.focus();
 		}
 		
@@ -48,6 +41,10 @@
 			eval(wName + " = window.open('"+page+"', '"+wName+"_ss', '"+params+"');");
 			eval(wName+".focus();");
 		}
+		function viewScreens(page) {
+			ssWin = window.open(page, "ScreenshotWin", "width=800,height=600,resize=false");
+			ssWin.focus();
+		}
 	//-->
 	</script>
 
@@ -62,14 +59,14 @@
 
 startList = function() {
 	navRoot = document.getElementById("nav");
-	for (i=0; i<navRoot.childNodes.length; i++) {
+	for (i=0; i < navRoot.childNodes.length; i++) {
 		node = navRoot.childNodes[i];
 		if (node.nodeName == "LI") {
-			node.onmouseover=function() {
-				this.className+=" over";
+			node.onmouseover = function() {
+				this.className += " over";
 			}
 			node.onmouseout = function() {
-				this.className=this.className.replace(" over", "");
+				this.className = this.className.replace(" over", "");
 			}
 		}
 	}
@@ -88,7 +85,6 @@ window.onload = startList;
 						<li><a href="/architecture.html">Architecture</a></li>
 						<li><a href="/system-recommendations.html">System Recommendations</a></li>
 						<li><a href="/library.html">Library</a></li>
-						<li><a href="/pricing.html">Pricing</a></li>
 						<li><a href="/screenshot-tour.html">Screenshot Tour</a></li>
 					</ul>
 				</li>
@@ -111,9 +107,9 @@ window.onload = startList;
 					</ul>
 				</li>
 				<li id="partners" class="top">
-					<div><a href="/partner.html"><img src="/img/nav_partners.gif" alt="Partners" title="Partners" width="83" height="27"></a></div>
+					<div><a href="/partner/partner-application.html"><img src="/img/nav_partners.gif" alt="Partners" title="Partners" width="83" height="27"></a></div>
 					<ul class="levelOne">
-						<li><a href="/partner/">Partner Program</a></li>
+						<li><a href="/partner/partner-application.html">Partner Program</a></li>
 						<!--li><a href="#">Consulting Program</a></li-->
 						<li><a href="/partner/partner-locator.html">Find a Partner</a></li>
 					</ul>
@@ -122,6 +118,7 @@ window.onload = startList;
 					<div><a href="/news-releases.html"><img src="/img/nav_news.gif" alt="News" title="News" width="66" height="27"></a></div>
 					<ul class="levelOne">
 						<li><a href="/news-releases.html">Press Releases</a></li>
+						<li><a href="/newsletters/">Newsletter Archive</a></li>
 						<li><a href="/news-inthenews.html">In The News</a></li>
 						<li><a href="/news-events.html">Events</a></li>
 						<li><a href="/news-presskit.html">Press Kit</a></li>
@@ -132,6 +129,7 @@ window.onload = startList;
 					<ul class="levelOne">
 						<li><a href="/support-faq.html/">Support FAQs</a></li>
 						<li><a href="/forums/">User Forums</a></li>
+						<li><a href="/developer/">Developer SDK</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -217,7 +215,7 @@ window.onload = startList;
 		</div>
 	</div>
 		<div id="footer">
-			© 2000-2006 Licensed Copyright by AtTask, Inc. All rights reserved. 
+			© 2000-2007 Licensed Copyright by AtTask, Inc. All rights reserved. 
 			<a href="/privacy.html" title="AtTask Privacy Policy">Privacy</a>
 			&nbsp;|
 			<a href="/sitemap.html" title="Site Map">Site Map</a>
@@ -225,8 +223,25 @@ window.onload = startList;
 			<a href="/contact.html" title="Contact AtTask">Contact</a>
 			&nbsp;|
 			<a href="http://www.attask.com/" title="AtTask Project Management Software">Project Management Software Home</a>
+			<br><br>
+			<a href="http://www.attask.jp/" title="@task プロジェクト管理ソフトウェア">日本語</a>
+			&nbsp;|
+			<a href="http://www.attask.de/" title="@task Projektmanagement-Software">Deutsch</a>
+			&nbsp;|
+			<a href="http://www.attask.fr/" title="@task Logiciel de Gestion de Projet">Français</a>
+			&nbsp;|
+			<a href="http://www.attask.cn/" title="@task 项目管理软件">中文</a>
 		</div>
 	</div>
+<script type="text/javascript" src="https://ssl.kieden.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
+<!-- BEGIN GA Code -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_uacct = "UA-77071-1";
+		urchinTracker();
+	</script>
+<!-- END GA Code -->
 
 
 </body></html>
