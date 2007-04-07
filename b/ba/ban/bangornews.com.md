@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316201506id_/http%3A//bangornews.com/news/templates/%3Fa%3D112776%26z%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407180946id_/http%3A//bangordailynews.com/news/t/company.aspx%3Farticleid%3D112776%26zoneid%3D273) for the most accurate reproduction.*
 
-# Privacy policy - Bangornews.com Staff
+# Privacy policy
 
-[](https://web.archive.org/mainehighschoolsports/link) [NEWS](https://web.archive.org/mainenews/)
+  
 
-**Privacy policy**  
-_Thursday, April 28, 2005 - Bangor Daily News_ << Back
 
  
 
