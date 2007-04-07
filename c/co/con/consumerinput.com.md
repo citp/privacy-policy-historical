@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207095826id_/http%3A//www.consumerinput.com/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408010327id_/http%3A//www.consumerinput.com/privacy.csp) for the most accurate reproduction.*
 
 # Consumer Input
 
@@ -19,4 +19,4 @@ Inadvertently, the URL information we collect and license sometimes contains per
 
 We transmit website usage information about visitors to our website to the servers of a reputable third party for the purpose of targeting Internet banner advertisements on other sites. To do this, we use Web beacons and cookies provided by our third-party ad server on this site. The information that is collected and logged on our behalf through this technology is not personally identifiable. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
-If you have questions related to privacy, please contact [privacy@consumerinput.com](mailto:privacy@consumerinput.com). Consumer Input is owned and operated by Compete, Inc. Copyright © 2000-2006 Compete™ All Rights Reserved. 
+If you have questions related to privacy, please contact [privacy@consumerinput.com](mailto:privacy@consumerinput.com). Consumer Input is owned and operated by Compete, Inc. Copyright © 2000-2007 Compete™ All Rights Reserved. 
