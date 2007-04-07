@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deanza.edu privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206215939id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deanza.edu privacy policy that was archived on 2007-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070407021256id_/http%3A//deanza.edu/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
 
@@ -124,7 +124,7 @@
 
 </style>
 
-<script language="JavaScript">
+<script type="text/javascript">
 
 var nameDivs = new Array(
 	'about',
@@ -507,7 +507,7 @@ function hidestuser()
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
-			<span class="menu">Admissions Info</span>
+			<span class="menu">How to Apply and Register</span>
 		</td>
 		<td align="left" valign="middle" width="15">
 			<a href="" onmouseover="showadinfo();" onmouseout="hideadinfo();"><img src="/template/standard/images/tri.gif" border="0" width="15" height="15" alt="right arrow" align="absmiddle"></a>
@@ -589,7 +589,7 @@ function hidestuser()
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
-			<a class="menu" href="/admissions/getstarted.html">How to Apply and Register</a>
+			<a class="menu" href="/admissions/getstarted.html">Steps for New Students</a>
 		</td>
 	</tr>
 	<tr>
@@ -609,7 +609,7 @@ function hidestuser()
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/admissions/faq.html">FAQ</a>
+			<a class="menu" href="/admissions/faq.html">Frequently Asked Questions</a>
 		</td>
 	</tr>
 	<tr>
@@ -625,7 +625,7 @@ function hidestuser()
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
-			<a class="menu" href="/registration/current.html">Registration Steps</a>
+			<a class="menu" href="/registration/current.html">Steps for Current Students</a>
 		</td>
 	</tr>
 	
@@ -686,20 +686,21 @@ function hidestuser()
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/publications/catalog/">College Catalog</a>
+			<a class="menu" href="http://faculty.deanza.edu/">Faculty Web Sites</a>
 		</td>
 	</tr>
+	
 	<tr>
 		<td>
 			<a class="menu" href="/courseinfo/majors.html">Majors/Areas of Study</a>
 		</td>
 	</tr>	
-		
 	<tr>
 		<td>
-			<a class="menu" href="/workforceed/">Workforce Education</a>
+			<a class="menu" href="/publications/catalog/">College Catalog</a>
 		</td>
-	</tr>
+	</tr>	
+	
 	<tr>
 		<td>
 			<a class="menu" href="http://distance.deanza.edu">Distance Learning</a>
@@ -708,6 +709,11 @@ function hidestuser()
 	<tr>
 		<td>
 			<a class="menu" href="http://communityeducation.fhda.edu/">Community Ed. Short Courses</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/workforceed/">Workforce Education</a>
 		</td>
 	</tr>
 	</tbody></table>
@@ -872,6 +878,15 @@ function hidestuser()
 
 
 
+
+<style type="text/css">
+.toplinks { 
+	font-size: 90%;
+	font-weight: bold;
+}
+</style>
+
+
 <map name="navbar3t">
 <area shape="rect" coords="720,11,789,30" href="/friends/" alt="Friends and Community">
 <area shape="rect" coords="640,11,709,30" href="/faculty/" alt="Faculty and Staff">
@@ -891,14 +906,27 @@ function hidestuser()
 <a href="/"><img src="/images/dalogow.jpg" width="119" height="54" alt="De Anza College" border="0"></a>
 </td><form name="search" method="get" action="http://gsearch.fhda.edu/search"></form>
 <td width="675" align="right" valign="middle">
-<font size="2"><b><a href="/news/">News</a>&nbsp;•&nbsp;<a href="/eventscalendar/">Events</a>&nbsp;•&nbsp;<a href="/directory/dir-az.html">Site Index</a>&nbsp;•&nbsp;<a href="/directory/">Directories</a>&nbsp;•&nbsp;<a href="/comment.html">Contact Us</a> &nbsp; &nbsp; </b></font>
+<span class="toplinks"><a href="/news/">News</a>&nbsp;•&nbsp;<a href="/eventscalendar/">Events</a>&nbsp;•&nbsp;<a href="/directory/dir-az.html">A-Z Index</a>&nbsp;•&nbsp;<a href="/directory/">Directories</a>&nbsp;•&nbsp;<a href="/comment.html">Contact</a>&nbsp;</span>
 	<input type="hidden" name="site" value="Main_Crawl">
 	<input type="hidden" name="client" value="Main_Crawl">
 	<input type="hidden" name="proxystylesheet" value="Main_Crawl">
 	<input type="hidden" name="output" value="xml_no_dtd">
-	<font size="2"><b><a href="/searchcenter/">Search</a>:</b> <input type="text" size="20" name="q">
-	<input type="image" name="btnG" src="/images/ndgo3tw.gif" width="22" height="22" alt="Search"></font> 
-</td></tr></tbody></table><img src="/images/navbarwhite3T.gif" width="800" height="55" alt="Global Navigation" usemap="#navbar3t" border="0"><br>
+	<input type="text" size="20" name="q" value="" onclick="ClearIfAppropriate();">
+	<input type="image" name="btnG" src="/images/ndgo3tw.gif" width="22" height="22" alt="Search"><span class="hpmisc"><a href="/searchcenter/">Advanced Search</a></span>
+</td><script type="text/javascript">
+
+var LabelText = " Search";
+
+if(document.search.q.value.length == 0) 
+{ document.search.q.value = LabelText; }
+
+function ClearIfAppropriate() 
+{ 
+	if(document.search.q.value == LabelText) 
+	{ document.search.q.value = ""; }
+}
+
+</script></tr></tbody></table><img src="/images/navbarwhite3T.gif" width="800" height="55" alt="Global Navigation" usemap="#navbar3t" border="0"><br>
 <table border="0" width="800" cellspacing="0" cellpadding="0" summary="Main Content"><tbody><tr valign="top">
 <td width="10" bgcolor="#fcf0d2">&nbsp;<br></td>
 <td width="180" bgcolor="#fcf0d2"><br>
