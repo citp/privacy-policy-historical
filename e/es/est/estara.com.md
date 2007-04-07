@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230042921id_/http%3A//estara.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407074255id_/http%3A//www.estara.com/company/privacy.php) for the most accurate reproduction.*
 
 # eStara: Privacy Statement
 
-|  | 
-
-Privacy Statement and Online Merchant Policies  
-
+| 
 
 **eStara Privacy Statement**   
 eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for the eStara website located at [http://www.estara.com/](http://www.estara.com/) ("the Site"). 
@@ -103,4 +100,4 @@ If you have any questions or concerns regarding this statement, you should first
 **Physical Address** : eStara Inc., 1821 Michael Faraday Drive, Suite 100, Reston, VA  20190
 
   
-|  |  |  | 
+
