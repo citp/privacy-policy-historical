@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212192121id_/http%3A//dailyreckoning.com/Vitals/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408034746id_/http%3A//www.dailyreckoning.com/Vitals/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
