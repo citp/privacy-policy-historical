@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207152201id_/http%3A//www.centreforaviation.com/aviation/content/view/37/90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408053010id_/http%3A//www.centreforaviation.com/aviation/content/view/37/90) for the most accurate reproduction.*
 
 # - CAPA - Privacy
 
