@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018180922id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408053212id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Astromart - Privacy Policy
 
-[Home](https://web.archive.org/web/20061018180922id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20061018180922id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
+[Home](https://web.archive.org/web/20070408053212id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20070408053212id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
 
 ### Astromart Privacy Policy
 
@@ -12,7 +12,7 @@ Your browser transmits some information, such as your IP address, whenever you v
 
 If you respond to an ad, you enter your email address, but we do not store that email address; your reply goes only to the person who placed the ad. The ads themselves are stored in a secure SQL database. The only access to ad information is on the Astromart web site. 
 
-Astromart's registration form requires users to provide contact information (like their name and email address) and your address. This information is used ONLY for Astromart ads. Your contact information is not and will not be sold or given to any third party or to Anacortes Telescope and Wild Bird, who provide Astromart as a free service to the amateur astronomy community. If required by any government authority, such as by subpoena, we will disclose information as required by law. 
+Astromart's registration form requires users to provide contact information (like their name and email address) and your address. This information is used ONLY for Astromart ads. Your contact information is not and will not be sold or given to any third party or to Anacortes Telescope and Wild Bird, who provide Astromart as a service to the amateur astronomy community. If required by any government authority, such as by subpoena, we will disclose information as required by law. 
 
 This site contains links to other sites. Astromart is not responsible for the privacy practices or the content of such Web sites. 
 
