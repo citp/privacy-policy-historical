@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspdotnetstorefront.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116025158id_/http%3A//www.aspdotnetstorefront.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspdotnetstorefront.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408043635id_/http%3A//www.aspdotnetstorefront.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Shopping Cart - AspDotNetStorefront: Asp.Net Shopping Cart E-Commerce Platform
 
