@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006123730id_/http%3A//www.davenport.edu/Home/UniversityDepartments/tabid/125/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408232735id_/http%3A//www.davenport.edu/Home/UniversityDepartments/tabid/125/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Davenport University - Departments
 
