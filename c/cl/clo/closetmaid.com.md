@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021000235id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408150851id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Closetmaid - Kitchen/Pantry
+# Closetmaid - Main
 
 |  |   
 ---  
