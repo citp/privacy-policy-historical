@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bombingscience.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217001059id_/http%3A//www.bombingscience.com/disclamer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombingscience.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408155836id_/http%3A//www.bombingscience.com/disclamer.htm) for the most accurate reproduction.*
 
 # Link the graffiti newsletter
 
