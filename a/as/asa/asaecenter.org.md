@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asaecenter.org privacy policy that was archived on 2006-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060910045921id_/http%3A//www.asaecenter.org/content.cfm%3FItemNumber%3D8088%26navItemNumber%3D16215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asaecenter.org privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408172826id_/http%3A//asaecenter.org/content.cfm%3FItemNumber%3D8088%26navItemNumber%3D16215) for the most accurate reproduction.*
 
 # ASAE and The Center for Association Leadership - Privacy Notice
 
