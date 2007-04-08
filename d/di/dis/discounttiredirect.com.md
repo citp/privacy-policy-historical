@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discounttiredirect.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021165144id_/http%3A//www.discounttiredirect.com/direct/brochure/general/tmpPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discounttiredirect.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408230629id_/http%3A//www.discounttiredirect.com/direct/brochure/general/tmpPrivacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Discount Tire Direct
 
@@ -22,20 +22,18 @@ This website contains links and references to other sites, and is in no way resp
 This website utilizes security measures to protect the loss, misuse and alteration of the information under our control.
 
 **Choice; Opt Out**  
-You may opt-out of receiving communications from our partners, and from us, by sending an email to [consumeraffairs@discounttire.com](mailto:consumeraffairs@discounttiredirect.com).
+You may opt-out of receiving communications from our partners, and from us, by sending an email to [consumeraffairs@discounttire.com](mailto:consumeraffairs@discounttiredirect.com;jsessionid=GZ112mkBvQjdXQhMp4vvp8pMvyjkzpH0DKTxkhLvQxyTdMd3Pg22!1045354492!NONE).
 
 **Contacting Our Administrators**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us at:
 
 **Consumer Affairs  
 Discount Tire Co.  
-7333 E. Helm Dr.  
-Suite 7  
-Scottsdale, AZ 85260  
-800-589-6789
+20225 N. Scottsdale Rd.  
+Scottsdale, AZ 85255
 
 or
 
-[Consumer Affairs](mailto:consumeraffairs@discounttiredirect.com)
+[Consumer Affairs](mailto:consumeraffairs@discounttiredirect.com;jsessionid=GZ112mkBvQjdXQhMp4vvp8pMvyjkzpH0DKTxkhLvQxyTdMd3Pg22!1045354492!NONE)
 
 **
