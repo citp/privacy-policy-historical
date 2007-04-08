@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidz.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220712id_/http%3A//secur.bidz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidz.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408193401id_/http%3A//www.bidz.com/ht/help%3Fpage%3Dprivacy_state) for the most accurate reproduction.*
 
-# Bidz.com - Privacy Statement
+# Bidz.com - Online Jewelry Auctions. Shop for diamond jewelry, engagement rings, designer watches, and much more.
 
 **_Information collected on Bidz.com will not be sold, shared or rented to others._**
 
@@ -14,7 +14,7 @@ A cookie is a piece of data stored on the customer's hard drive containing infor
 
 Log Files
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 Links
 
