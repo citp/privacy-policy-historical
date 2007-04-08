@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221121731id_/http%3A//www.easycar.com/nossl/Privacy.aspx/EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408075937id_/http%3A//www.easycar.com/nossl/Privacy.aspx/EN) for the most accurate reproduction.*
 
 # Privacy
 
 |  | Privacy  
 ---  
-easyCar has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.easyCar.com.  
+We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.  
 IP Address  
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information.  
 Registration  
@@ -28,6 +28,6 @@ Correct/Update
 This site gives users the following options for changing and modifying information previously provided.  
 * | Follow the Customer Login link to update your profile  
 Links to Other Sites  
-This site may contain links to other sites. easyCar.com is not responsible for the privacy practices or the content of such Web sites.  
+This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  
 Contacting the web site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please follow the FAQ link below or call the phone number on the home page.
