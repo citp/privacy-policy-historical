@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101140611id_/http%3A//davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408193420id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
 
-Dave Draper's IronOnline has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
+[](http://davedraper.com/)
+
+Before you get distracted by all the great options you're about to find here, please sign up for Dave's free weekly newsletter so he can continue to encourage and motivate you toward your fitness goals. 
+
+**Chris M writes:**  
+"You blend plain-spoken wisdom, motivational fire and wry humor into a weekly email jolt that leaves me itching to hit the gym. Whether I'm looking for workout routines, diet tips or a friendly kick in the butt, the Bomber comes through every time." ... [**_Read more..._**](http://www.davedraper.com/newsletter-testimonials.html)
+
+The following discloses our information gathering and dissemination practices for this website. 
 
 This site contains links to other sites. **davedraper.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -11,18 +18,6 @@ Our site uses an order form for customers to order products and services. We col
 ## Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Specifically, the credit card information is entered into our host's secure server and is never transferred via email.
-
-## Children's Guidelines
-
-Our IronOnline site meets the guidelines of TRUSTe's children's program. We do: 
-
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
-
-
 
 ## Choice/Opt-Out
 
@@ -33,24 +28,16 @@ This site gives users the following options for removing their information from 
   1. Un-subscribe instructions are found at the bottom of each weekly newsletter. 
   2. You can email Laree directly for assistance at [ldraper@davedraper.com](mailto:laree@davedraper.com)
   3. You can send mail to the following postal address:  P. O. Box 1335, Aptos, CA 95001
-  4. You can call the following toll-free telephone number: 888-466-9185 
+  4. You can call the following toll-free telephone number: 888-466-9185 or our regular phone at 831-466-9182 
   5. You can send mail via FAX to 831-466-9183 
 
 
 
-## Correct/Update
+You are also welcome to use the above contact information to change or modify information previously provided. 
 
-This site gives users the following options for changing and modifying information previously provided. 
+## Contacting us
 
-  1. Email [ldraper@davedraper.com](mailto:ldraper@davedraper.com)
-  2. Send mail to the following postal address:  P. O. Box 1335, Aptos, CA 95001
-  3. Call the following telephone number: 831-466-8182 
-  4. You can also fax 831-466-8193 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with us, please contact:  
 
 
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Laree Draper Dave Draper's IronOnline P. O. Box 1335 Aptos, CA 95001 831-466-9182
+Laree Draper  **Dave Draper's IronOnline** **P. O. Box 1335** **Aptos, CA 95001 USA** **831-466-9182 | 888-466-9185 | FAX:831-466-9183**
