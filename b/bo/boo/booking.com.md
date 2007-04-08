@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booking.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011226id_/http%3A//booking.com/general.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booking.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408103233id_/http%3A//www.booking.com/general.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
 
-# None
+# BOOKING.COM online hotel reservations
 
 You are here: [Home](https://web.archive.org/index.html) > Policies > Privacy statement 
 
@@ -25,7 +25,7 @@ Your credit card details will be kept at BOOKING.COM until your arrival date at 
 
 ## Control over your data
 
-You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at ewuvqogt0ugtxkegBdqqmkpi0eqo. Please state ‘request personal data’ in the subject line of your email.
+You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at phfgbzre.freivpr@obbxvat.pbz. Please state 'request personal data' in the subject line of your email.
 
 If your personal data is incorrect, we will change it upon your request. You can also ask BOOKING.COM to remove your personal data from its database by sending us an email to the same email address.
 
@@ -37,4 +37,4 @@ Sometimes BOOKING.COM may send feedback emails after your stay at the hotel. If 
 
 In the reservation process you can request our newsletter, which contains special offers and more information about BOOKING.COM. You can also choose to stop receiving the newsletter at any time.
 
-If you have any suggestions or remarks about this privacy statement, please send an email to ewuvqogt0ugtxkegBdqqmkpi0eqo.
+If you have any suggestions or remarks about this privacy statement, please send an email to phfgbzre.freivpr@obbxvat.pbz.
