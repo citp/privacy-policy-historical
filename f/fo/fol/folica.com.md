@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231200235id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408200248id_/http%3A//www.folica.com/Privacy_Policy_d1272.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
