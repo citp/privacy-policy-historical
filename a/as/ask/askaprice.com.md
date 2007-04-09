@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002228id_/http%3A//askaprice.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409045836id_/http%3A//www.askaprice.com/privacy.asp) for the most accurate reproduction.*
 
-# Car Leasing, New Cars, Insurance & Car Finance Quotes
+# Car leasing, new cars, insurance & car finance quotes
 
 Askaprice is committed to protecting your privacy. We will only use the information that we collect about you lawfully and in accordance with the Data Protection Act of 1998. 
 
@@ -21,15 +21,11 @@ If you need any advice or have a query relating to the askaprice concept then pl
 
 Our Business hours are Monday to Friday 9.00am 5.00pm
 
-**Email:** customerservices@askaprice.com
-
-**Telephone:** (Local Rate) 0870 042 38 02
-
-**Fax:** 0151 922 8747
+**Email:** info@askaprice.com
 
 **Postal Address:**   
 askaprice.com,   
-Washington Parade,   
-Bootle,   
-Merseyside,   
-L20 1AA 
+1 Henry Street   
+Liverpool   
+Merseyside   
+L1 5BS 
