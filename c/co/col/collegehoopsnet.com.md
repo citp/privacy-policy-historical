@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212165634id_/http%3A//collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409052645id_/http%3A//www.collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
 
 # Collegehoopsnet.com - Privacy Policy
 
