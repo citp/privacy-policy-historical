@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205618id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409164516id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Security - FamilyChristian.com
 
@@ -10,7 +10,9 @@ FamilyChristian.com respects and wants to protect the privacy of our users. We d
 
 An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers identify your computer by its IP address. FamilyChristian.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
-Use of Cookies Cookies are files that your Web browser places on your computer's hard drive for record-keeping purposes. FamilyChristian.com creates and then uses these cookie files to track your clicks as you go through the FamilyChristian.com Web site. The use of cookies is an industry standard and you will find them at most major Web sites.
+## Use of Cookies
+
+Cookies are files that your Web browser places on your computer's hard drive for record-keeping purposes. FamilyChristian.com creates and then uses these cookie files to track your clicks as you go through the FamilyChristian.com Web site. The use of cookies is an industry standard and you will find them at most major Web sites.
 
 The information we retrieve from the cookie files helps us track user trends and patterns. We use the information from cookies to provide services that better fit our users' needs. FamilyChristian.com also uses cookies to deliver content specific to your interests. 
 
@@ -32,12 +34,10 @@ At FamilyChristian.com protecting your personal information through online secur
 
 If you use one of the following browsers then SSL encryption is protecting your information: 
 
-  * Microsoft Internet Explorer 3.0 or higher 
-
-  * Netscape 2.0 or higher 
-
-  * America Online 3.0 or higher 
-
+  * Microsoft Internet Explorer 3.0 or higher (Curent version 7.0) 
+  * Mozilla FireFox 1.5 or higher (Curent version 2.0) 
+  * Netscape 2.0 or higher (Curent version 8.1.2) 
+  * America Online 3.0 or higher (Curent version 8.0) 
 
 
 
@@ -67,7 +67,10 @@ Correct/ Update This site gives users the following options for changing and mod
 
 If you have any questions about this Privacy and Security Statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-> Familychristian.com 5300 Patterson Ave SE - A3 Grand Rapids, MI 49530 [info@fcsdirect.familychristian.com](mailto:info@fcsdirect.familychristian.com)
+> Familychristian.com   
+>  5300 Patterson Ave SE - A3  
+>  Grand Rapids, MI 49530  
+>  [info@fcsdirect.familychristian.com](mailto:info@fcsdirect.familychristian.com)
 
 ## Use of Web Site
 
