@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asknow.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223170025id_/http%3A//asknow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknow.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409185135id_/http%3A//www.asknow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Find Your Perfect Psychic or Tarot Reader - AskNow
 
