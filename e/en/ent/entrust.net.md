@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191024id_/http%3A//www.entrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409074431id_/http%3A//www.entrust.com/privacy) for the most accurate reproduction.*
 
 # Entrust Resources: Entrust Web Site Privacy Statement
 
@@ -42,7 +42,7 @@ c/o Web Site Privacy Manager
 1000 Innovation Drive  
 Ottawa, Ontario, Canada  
 K2K 3E7  
-email: [privacy.officer@entrust.com](mailto:privacy.officer@entrust.com)
+email: [privacyofficer@entrust.com](mailto:privacyofficer@entrust.com)
 
 We will investigate all the concerns we receive and take appropriate measures to ensure that our practices are as stated in this Privacy Statement.
 
