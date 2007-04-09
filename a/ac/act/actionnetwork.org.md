@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201154310id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410005848id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
