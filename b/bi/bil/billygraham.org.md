@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206163630id_/http%3A//www.billygraham.org/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409182107id_/http%3A//www.billygraham.org/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # BGEA: About Us: Privacy Policy
 
@@ -32,7 +32,7 @@ From time to time, we may send a "cookie" to your computer. A cookie is a small 
 Many Web sites place cookies on your hard drive. You can choose whether to accept cookies by changing the settings of your browser. Your browser can refuse all cookies, or show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended. 
 
 **Children's Online Privacy**  
-We are concerned about the privacy of young children and do not knowingly collect any personal information from a child under 13. We encourage you to become involved with your child's access to the Internet and to our site in order to ensure that his or her privacy is well protected. 
+We are concerned about the privacy of young children, and we do not collect any more personal information than is reasonably necessary to enable them to participate in the activities we offer on our sites. We encourage you to become involved with your child's access to the Internet and to our site in order to ensure that his or her privacy is well protected. 
 
 To read more about online safety and how to become more involved with your child's online experience, visit the [Federal Trade Commission](https://web.archive.org/disclaimer.asp?l=http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/) Web site. You may also benefit from the information and resources available on [ProtectKids.com](https://web.archive.org/disclaimer.asp?l=http://www.protectkids.com/). 
 
