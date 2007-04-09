@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029231954id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409031418id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
 # C# C Sharp and Tutorials on C# Friends.com
 
