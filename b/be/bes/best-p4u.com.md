@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-p4u.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104232333id_/http%3A//www.best-p4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-p4u.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409020316id_/http%3A//www.best-p4u.com/privacy.php) for the most accurate reproduction.*
 
 # www.best-p4u.com: Private Policy
 
