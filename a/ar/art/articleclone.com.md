@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleclone.com privacy policy that was archived on 2006-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060824051912id_/http%3A//articleclone.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleclone.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409150456id_/http%3A//www.articleclone.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# Article Directory: privacy ArticleClone Article Directory : Free Articles And Content For Your Websites and Blogs
+# Article Directory: privacy Free Articles :: ArticleClone.com
 
 ArticleClone will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us in the quote or order form. 
 
