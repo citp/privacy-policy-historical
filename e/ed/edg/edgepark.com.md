@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgepark.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210160238id_/http%3A//edgepark.com/information/ordering/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgepark.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409031152id_/http%3A//www.edgepark.com/information/ordering/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Ordering Information: Privacy Policy
 
@@ -10,5 +10,5 @@ Edgepark Medical Supplies reserves the right to change this statement at any tim
 
 ## Notice of Privacy Practices
 
-[](https://web.archive.org/web/20061210160238id_/http%3A//edgepark.com/information/ordering/documents/NPPVersion0403.pdf "download notice of privacy practices") [Click here](https://web.archive.org/web/20061210160238id_/http%3A//edgepark.com/information/ordering/documents/NPPVersion0403.pdf "download notice of privacy practices") to download the Notice of Privacy Practices.  
+[](https://web.archive.org/web/20070409031152id_/http%3A//www.edgepark.com/information/ordering/documents/NPPVersion0403.pdf "download notice of privacy practices") [Click here](https://web.archive.org/web/20070409031152id_/http%3A//www.edgepark.com/information/ordering/documents/NPPVersion0403.pdf "download notice of privacy practices") to download the Notice of Privacy Practices.  
 You will need [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/ "get acobe acrobat reader") to view this file.
