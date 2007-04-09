@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119071147id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409053453id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
 
 # Article-Buzz Directory | Free Author Submission | Find Free Content for Publication | RSS Feeds
 
@@ -70,10 +70,14 @@ Publishers
 
 Information
 
-Article-Buzz News
-
 Tools and Resources
+
+[](http://www.articlemarketer.com/?a_aid=af6363ce&a_bid=c3dbc1d1)
 
 Featured Articles
 
-[](http://www.article-buzz.com/recommends/articleaday.html)
+Article-Buzz News
+
+[](http://www.otogoldmine.com/10961/go)
+
+[](http://m0dernclick.com/redirect.php?a=CD2888&b=6902&optinfo=&d=0&l=0&p=0)
