@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030082308id_/http%3A//hitwise.com.au/other/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410232507id_/http%3A//www.hitwise.com.au/other/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ Hitwise shall respond to your data access request within 40 days of receiving yo
 All newsletter subscribers and customers have the right to access or update personal data that they have submitted through the Hitwise website by clicking here or by contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com). Should subscribers and customers subsequently choose to unsubscribe from mailing lists they can do so by following the instructions on how to unsubscribe provided in all Hitwise communications. On request, Hitwise will delete personally identifiable information that has been submitted from the current database, unless it is required to retain such information by law. As a general principle, Hitwise will retain customer records for 7 years.
 
 **Children's Online Privacy Protection**  
-Hitwise has established and put in place password protection procedures to ensure that only adult customers can access the Hitwise services as the services are not intended to be used by children or minors under the age of eighteen. All newsletter subscribers and customers must be over the age of eighteen or have parental permission to subscribe or use of our services.
+The Hitwise service is directed towards adult business users. Hitwise does not knowingly collect information from children under the age of 13. Children under the age of 13 should not use the Hitwise website or submit information to Hitwise.
 
 **Legal nature of this Privacy Statement**  
 Please note that this Privacy Statement is not intended to create a legally binding agreement between Hitwise and customers of the Hitwise services. This statement has been created as a guide to the privacy practices of Hitwise, and is not a contractual document. Hitwise will act to ensure it complies with the privacy principles contained in this Customer Privacy Policy.
