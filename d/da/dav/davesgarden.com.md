@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018153831id_/http%3A//davesgarden.com/about/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410172439id_/http%3A//davesgarden.com/about/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Dave's Garden: About: Privacy Policy
 
-[
+|  [
 
 ### About Dave's Garden
 
@@ -64,4 +64,8 @@ But only for login, and not for any other use.
 
 After obtaining your permission, these are published along with your user information.
 
-| Dave's Garden is a community type website, and members enjoy knowing the general whereabouts of the other people who join. For this reason, we give members the opportunity to publish their city, state, zip and country. Anytime, outside of the subscription system, that the system asks for your zipcode or other location information, that may be published next to your name.
+| Dave's Garden is a community type website, and members enjoy knowing the general whereabouts of the other people who join. For this reason, we give members the opportunity to publish their city, state, zip and country. Anytime, outside of the subscription system, that the system asks for your zipcode or other location information, that may be published next to your name.  
+  
+If you don't have an account yet, visit the [registration page](https://web.archive.org/signup.php) to sign up. 
+
+If you already have an account, you may login here: 
