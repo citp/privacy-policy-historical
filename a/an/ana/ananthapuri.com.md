@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ananthapuri.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224092952id_/http%3A//ananthapuri.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananthapuri.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410022319id_/http%3A//www.ananthapuri.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
