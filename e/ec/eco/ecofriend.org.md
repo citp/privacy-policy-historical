@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813104327id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410063719id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Ecofriend - Latest news, reviews and suggestions for great consumer products which are environmentally responsible.
+# Privacy Policy - Ecofriend - Lead a Green Life with this guide to the latest information and reviews on eco-friendly products, alternative energy, solar, wind, wave, bio-fuels, gadgets, biodegradable products, hybrid vehicles, and more...
 
 This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.
 
