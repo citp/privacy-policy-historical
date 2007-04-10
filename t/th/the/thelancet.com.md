@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the thelancet.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226202812id_/http%3A//www.thelancet.com/misc/privacypop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelancet.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410223537id_/http%3A//www.thelancet.com/misc/privacypop) for the most accurate reproduction.*
 
 # The Lancet
 
-This web site ("Site") is owned and operated by Elsevier Limited, The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, Reg. Co. No. 1982084, VAT No. 494627212 ("Elsevier", "we", "us", "our"). 
+This web site ("Site") is owned and operated by Elsevier Limited, whose registered office is at The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, registered in England and Wales, Reg. Co. No. 1982084, VAT No. 494627212 ("Elsevier", "we", "us", "our"). 
 
 Elsevier is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information and the choices you have about how we use your information. 
 
 Collection of Information Provided by Your Browser and Through Use of Cookies
 
-This Site automatically collects information on our server logs from your web browser regarding your use of the Site. Examples of information we collect automatically from all users include the Internet Protocol ("IP") address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on the Site.am data, including date and time, cookie number and content you viewed or searched for on the Site. 
+This Site automatically collects information on our server logs from your web browser regarding your use of the Site. Examples of information we collect automatically from all users include the Internet Protocol ("IP") address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on the Site. 
 
-This Site also collects information through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site's computers and stored on your computer's hard drive. The type of information we collect as a result of a cookie being stored on your computer is specific to your computer. We use "session" cookies to collect information about your use of the Site (e.g., whether you are logged in) and so that you may view articles, abstracts or other records and browse from page to page. These cookies are temporary and are deleted when you close your browser. We use "persistent" cookies to give you a more personalized browsing experience and help you navigate the Site more efficiently 
+This Site also collects information through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site's computers and stored on your computer's hard drive. The type of information we collect as a result of a cookie being stored on your computer is specific to your computer. We use "session" cookies to collect information about your use of the Site (e.g., whether you are logged in) and so that you may view articles, abstracts or other records and browse from page to page. These cookies are temporary and are deleted when you close your browser. We use "persistent" cookies to give you a more personalized browsing experience and help you navigate the Site more efficiently. 
 
-We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and administrating and improving the Site 
+We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and administrating and improving the Site. 
 
 You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu. If you choose to disable cookies altogether, you will not be able to use the Site. 
 
@@ -111,7 +111,7 @@ If at any time this Site offers any chat rooms, blogs, newsgroups, notice boards
 
 About This Privacy Policy
 
-The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page. Our policy does not create a contract or any legal rights 
+The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page. Our policy does not create a contract or any legal rights. 
 
 This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail). 
 
@@ -134,4 +134,4 @@ E-mail: [custserv@lancet.com](mailto:custserv@lancet.com); [lancetfeedback@lance
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem. 
 
-Last revised: 16 June 2006 
+Last revised: 24 January 2007 
