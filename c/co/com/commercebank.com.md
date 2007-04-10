@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207084430id_/http%3A//commercebank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410094817id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
 
 # Commerce Bank | Serving Kansas Missouri and Illinois
 
@@ -24,7 +24,7 @@ We may collect "nonpublic personal information" about you from the following sou
 
 REST ASSURED, WE DO NOT SELL YOUR NONPUBLIC PERSONAL INFORMATION TO OTHERS.
 
-> **NOTE:** Protecting the privacy and security of your confidential financial information is our top priority. The FBI has received complaints involving unsolicited e-mails directing consumers to a phony “customer service” Web site or directly asking for customer information. These scams may result in identity theft, credit card fraud, or other fraudulent financial schemes. Commerce Bank offers secure e-mail for personal questions, requests, and information through an Online Banking account. If you suspect that the security of your accounts has been compromised due to information you've disclosed, please contact our Customer Care Center at 1-800-453-BANK. 
+> **NOTE:** Protecting the privacy and security of your confidential financial information is our top priority. The FBI has received complaints involving unsolicited e-mails directing consumers to a phony “customer service” Web site or directly asking for customer information. These scams may result in identity theft, credit card fraud, or other fraudulent financial schemes. Commerce Bank offers secure e-mail for personal questions, requests, and information through an Online Banking account. If you suspect that the security of your accounts has been compromised due to information you've disclosed, please contact our Customer Care Center at 1-800-453-2265. 
 
 **HOW WE PROTECT YOUR INFORMATION**
 
