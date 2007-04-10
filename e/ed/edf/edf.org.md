@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130094159id_/http%3A//www.environmentaldefense.org/article.cfm%3FcontentID%3D5184%26linkID%3D44) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410072212id_/http%3A//www.environmentaldefense.org/page.cfm%3FtagID%3D703) for the most accurate reproduction.*
 
-# Environmental Defense - Privacy Policy
+# Privacy Policy - Environmental Defense
 
-Posted on: 03/30/2006 **This article is not active**
+### [About Us](https://web.archive.org/aboutus.cfm "About Us")
 
-Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Fight Global Warming](http://www.fightglobalwarming.com/) web site, the [Back from the Brink](http://www.backfromthebrink.org/) web site, the [Environmental Defense](http://www.environmentaldefense.org/) web site, the [Get Green](http://www.getgreen.com/) web site, [Oceans Alive](http://www.oceansalive.org/) web site, the [Texas Environmental Profiles](http://www.texasep.org/) web site, the [Undoit.org](http://www.undoit.org/) web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/) web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.)
+Founded in 1967 as the Environmental Defense Fund, or EDF, we speak for 500,000 members. We find innovative, practical ways to solve the most urgent environmental problems.
+
+[More about us »](https://web.archive.org/aboutus.cfm "More about us »")
+
+Environmental Defense and Environmental Defense Action Fund put high priority on protecting your privacy. This privacy policy applies to the [Fight Global Warming](http://www.fightglobalwarming.com/ "Fight Global Warming") web site, the [Back from the Brink](http://www.backfromthebrink.org/ "Back from the Brink") web site, the [Environmental Defense](http://www.environmentaldefense.org/ "Environmental Defense") web site, the [Get Green](http://www.getgreen.com/ "Get Green") web site, [Oceans Alive](http://www.oceansalive.org/ "Oceans Alive") web site, the [Texas Environmental Profiles](http://www.texasep.org/ "Texas Environmental Profiles") web site, the [Undoit.org](http://www.undoit.org/ "Undoit.org") web site, and the [Environmental Defense Action Network](http://www.actionnetwork.org/ "Environmental Defense Action Network") web site. (Action Network sites operated by other organizations described below are governed by their own privacy policies.)
 
 When you register for special services on one of our sites (to get personalized content or free subscriptions, use our Action Network, enter contests, etc.), you give us personal information about yourself (such as name, address, zip code, email address, etc.). We use this information to provide you with services from ourselves and our partners and affiliates which we think may be of interest to you. You can always "opt-out," now or at any time later, to keep from getting any unwanted messages or solicitations.
 
@@ -42,16 +46,16 @@ If you ask for one of our many personalized or enhanced services, we will ask yo
 
 [top]
 
-**2.   What Organization is Collecting Your Information?**
+ **2.   What Organization is Collecting Your Information?**
 
-We are Environmental Defense, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational site is [www.environmentaldefense.org](http://www.environmentaldefense.org/). In addition, we sponsor:
+We are Environmental Defense, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational site is [www.environmentaldefense.org](http://www.environmentaldefense.org/ "www.environmentaldefense.org"). In addition, we sponsor:
 
-  * **[Scorecard](http://www.scorecard.org/)** , a comprehensive online tool for monitoring and taking action on chemical releases and other forms of pollution nationwide; 
-  * **[Environmental Defense's Action Network](http://www.actionnetwork.org/), **an online activist tool to influence policy (parts of which are operated by **other organizations** ); 
-  * **[GetGreen](http://www.getgreen.org/)** , which features tips on how to save money while saving the environment; 
-  * [**Alliance for Environmental Innovation**](http://www.environmentaldefense.org/alliance), the web site for our joint project with The Pew Charitable Trusts that works with private companies to create environmental change; 
-  * [**Texas Environmental Profiles**](http://www.texasep.org/), where the Texas Center for Policy Studies joins with Environmental Defense to present rankings of air, water, land use and energy issues in the Lone Star State. 
-  * [**Undoit.org**](http://www.undoit.org/), a Web site dedicated to informing the public about the consequences of global warming and the steps we can take to not just stop global warming, but to undo it. 
+  *  **[Scorecard](http://www.scorecard.org/ "Scorecard")** , a comprehensive online tool for monitoring and taking action on chemical releases and other forms of pollution nationwide; 
+  * **[Environmental Defense's Action Network](http://www.actionnetwork.org/ "Environmental Defense's Action Network"), **an online activist tool to influence policy (parts of which are operated by **other organizations** ); 
+  * **[GetGreen](http://www.getgreen.org/ "GetGreen")** , which features tips on how to save money while saving the environment; 
+  * [**Alliance for Environmental Innovation**](http://www.environmentaldefense.org/alliance "Alliance for Environmental Innovation"), the web site for our joint project with The Pew Charitable Trusts that works with private companies to create environmental change; 
+  * [**Texas Environmental Profiles**](http://www.texasep.org/ "Texas Environmental Profiles"), where the Texas Center for Policy Studies joins with Environmental Defense to present rankings of air, water, land use and energy issues in the Lone Star State. 
+  * [**Undoit.org**](http://www.undoit.org/ "Undoit.org"), a Web site dedicated to informing the public about the consequences of global warming and the steps we can take to not just stop global warming, but to undo it. 
 
 
 
@@ -59,7 +63,7 @@ We are Environmental Defense, a non-profit, tax-deductible environmental advocac
 
 [top]
 
-**3.   How Your Information May Be Used**
+ **3.   How Your Information May Be Used**
 
 We use your personal information to be able to give you personalized service (for example, information about your neighborhood, or your favorite subjects); to send you email alerts; to answer your requests; to let you become a member online, etc. You can easily opt-out at any time, to stop any further contact from us.
 
@@ -69,41 +73,41 @@ We may also use this information to suggest other web site services to you, ask 
 
 [top]
 
-**4.  What Choices Are Available to You Regarding Collection, Use, and Distribution of Your Information?**
+ **4.  What Choices Are Available to You Regarding Collection, Use, and Distribution of Your Information?**
 
 Now, or at any time in the future, you can correct or update information about you, and you can tell us not to send you any messages or solicitations at all.
 
 [top]
 
-**5.   What Kind of Security Procedures Are In Place to Protect Against the Loss, Misuse, or Alteration of Your Information?**
+ **5.   What Kind of Security Procedures Are In Place to Protect Against the Loss, Misuse, or Alteration of Your Information?**
 
 We store your personally identifiable information on secure servers. We also use other "anti-hacking" security measures and employ security consultants. We accept credit card donations only via a secure server. 
 
 [top]
 
-**6.   How You Can Access, Update, or Delete Your Information**
+ **6.   How You Can Access, Update, or Delete Your Information**
 
 Please contact our Privacy Manager to obtain, change, update or delete our records of your personal information, or to change your privacy options.
 
 [top]
 
-**7.   How "Cookies" Are Used**
+ **7.   How "Cookies" Are Used**
 
 Some of our web sites use "cookie" messages to automatically help provide better services. They remind us who you are and how you like to use our web site, based on what you've done and told us before. The "cookie" is placed in your computer and is read when you come back to our web site. Cookies let us take you to the information and features you're particularly interested in. They also let us track your and others' usage, so we know which parts of our sites are most popular. You can reject cookies or very easily cancel them later.
 
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services, WebTrends Live does not have a database of individual profiles for each visitor; WebTrends Live only collects aggregate data. For more information about WebTrends Live's privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm).
+WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services, WebTrends Live does not have a database of individual profiles for each visitor; WebTrends Live only collects aggregate data. For more information about WebTrends Live's privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm "here").
 
 If you would like your browser to reject cookies, you can instruct your browser to do so although some features (such as posting to Scorecard's discussion forum) would be unavailable.
 
 [top]
 
-**8.   Changes in Our Privacy Policy**
+ **8.   Changes in Our Privacy Policy**
 
 Should our practices change, this notice will be immediately updated. Regardless of later updates, we will never use the information you submit under this current notice in a new way (in a way not described in this notice) without first providing you an opportunity to opt-out or otherwise prevent that use. See Official Terms and Conditions of using our web sites.
 
 [top]
 
-**9.   Official Terms and Conditions**
+ **9.   Official Terms and Conditions**
 
   1. Copyright and Re-publication. We want you to use information you find on our web sites. Scorecard and other web site materials are protected by copyright, and we have applied for patents on technology we have developed. But you can use information you get from our web sites for free for any non-commercial purpose, as long as you include the copyright notice below and the address of the web site where you found it. 
 
@@ -134,17 +138,3 @@ To opt-out from receiving content from Environmental Defense or its partners and
 
 
 [top]
-
-### Rate This Page
-
-  * 1 
-  * 2 
-  * 3 
-  * 4 
-  * 5 
-
-
-
-Your Rating: \--   
-Average Rating: 5.0   
-Total Votes: 2
