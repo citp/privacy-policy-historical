@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206055340id_/http%3A//articlesender.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411031449id_/http%3A//www.articlesender.com/privacy.html) for the most accurate reproduction.*
 
 # Article Submission
 
@@ -21,17 +21,17 @@ OTHER SERVICES
 
 TESTIMONIAL
 
-This site is great I used it and it boosted my web sites popularity up a bunch, thanks Article Sender. 
+I have been using so many different SEO tools to increase my sites' ranking but at last I have found the best solution for this.Articlesender.com is over all the SEO strategies and gives full satisfaction to the user.. 
 
-Kyle Perry   
-[Professional Foam](http://www.professionalfoam.com/)
+Murat Aydogdu   
+[Istanbul Hotels Online](http://www.hotelsistanbul.net/)
 
 TESTIMONIAL
 
-Great site! I can honestly say it works and it's worth the time. Really helps getting the word out on our Special offers and promotions. 
+We have found that article sender is very efficient when it comes to syndicating articles. This is currently the only syndication service we use because we are confident in it's ROI. 
 
-Federico Blanco   
-[Online Sports Betting](http://www.sportsbook.com/)
+Chad Ledford   
+[3tailer - The Internet Retailer](https://web.archive.org/web/20070411031449id_/http%3A//www.articlesender.com/www.3tailer.com)
 
 TESTIMONIAL
 
@@ -99,7 +99,10 @@ You may also use the above contact information if you think any information abou
 
 This Privacy Policy was last revised on November 22, 2005. 
 
-  
+* * *
+
+Orlando, Fl: My brother, Chris Dupre has been a professional guitarist for 18 years and has been teaching guitar lessons for the past 5 years. He is taking new students for one to one lessons in your home. If you are interested, please see his [Orlando Guitar Lessons](http://www.guitar-lesson-world.com/) website.
+
 | 
 
 January 30, 2020    [](https://web.archive.org/free-content.html)
