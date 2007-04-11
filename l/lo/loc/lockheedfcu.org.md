@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockheedfcu.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209034653id_/http%3A//www.lockheedfcu.org/Content/includes/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockheedfcu.org privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411084905id_/http%3A//www.lockheedfcu.org/Content/includes/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
