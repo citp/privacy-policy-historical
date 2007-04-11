@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heraldtimesonline.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210748id_/http%3A//www.heraldtimesonline.com/htoservices/htoprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldtimesonline.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411130343id_/http%3A//www.heraldtimesonline.com/htoservices/htoprivacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - HeraldTimesOnline.com
+# HeraldTimesOnline.com - Bloomington, Indiana
 
 **Privacy Policy**
 
