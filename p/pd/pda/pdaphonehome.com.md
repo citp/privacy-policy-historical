@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209154340id_/http%3A//www.pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411161146id_/http%3A//www.pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PDAPhoneHome.com - Privacy Policy
 
@@ -7,16 +7,17 @@
   
 |  **» Current Poll**  
 ---  
-What method should I go with?  
-Stand alone gps (magellan roadmate 6000t)  
-bt gps receiver (rbt-2010)  
-other  
+Should software from defunct companies be Public Domain?  
+Yes. There is no one to exercise the rights  
+No. The rights still belong to the programmer  
+No. Software should always cost money  
+I don't know. What is public domain?  
   
-» [View Poll Results](http://pdaphonehome.com/forums/poll.php?do=showresults&pollid=496)
+» [View Poll Results](http://pdaphonehome.com/forums/poll.php?do=showresults&pollid=508)
 
-» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=82160)
+» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=87012)
 
-» [This Poll Has 15 Replies](http://pdaphonehome.com/forums/showthread.php?t=82160)  
+» [This Poll Has 0 Replies](http://pdaphonehome.com/forums/showthread.php?t=87012)  
   
 **» Site Navigation**  
 ---  
@@ -35,15 +36,14 @@ other
 
 » [XDA FAQ](https://web.archive.org/index.php?page=xda)  
   
-**» December 2006**  
+**» April 2007**  
 ---  
 S | M | T | W | T | F | S  
-26| 27| 28| 29| 30|  1 |  2  
-3 |  4 |  5 |  6 |  7 |  8 |  9  
-10 |  11 |  12 |  13 |  14 |  15 |  16  
-17 |  18 |  19 |  20 |  21 |  22 |  23  
-24 |  25 |  26 |  27 |  28 |  29 |  30  
-31 | 1| 2| 3| 4| 5| 6  
+1 |  2 |  3 |  4 |  5 |  6 |  7  
+8 |  9 |  10 |  11 |  12 |  13 |  14  
+15 |  16 |  17 |  18 |  19 |  20 |  21  
+22 |  23 |  24 |  25 |  26 |  27 |  28  
+29 |  30 | 1| 2| 3| 4| 5  
   
 **» Advertiser**  
 ---  
@@ -51,34 +51,30 @@ S | M | T | W | T | F | S
   
 **» Today's Birthdays**  
 ---  
-[texas](http://pdaphonehome.com/forums/member.php?u=4284)  
-[CathyS](http://pdaphonehome.com/forums/member.php?u=10479)  
-[storminsince73](http://pdaphonehome.com/forums/member.php?u=25567)  
-[dmayo](http://pdaphonehome.com/forums/member.php?u=25632)  
-[NickT](http://pdaphonehome.com/forums/member.php?u=29156) (70)  
-[anole1](http://pdaphonehome.com/forums/member.php?u=24911) (64)  
-[mohlin](http://pdaphonehome.com/forums/member.php?u=33413) (56)  
-[radford](http://pdaphonehome.com/forums/member.php?u=4749) (53)  
-[Galego](http://pdaphonehome.com/forums/member.php?u=4068) (46)  
-[fred23](http://pdaphonehome.com/forums/member.php?u=30134) (41)  
-[agit8or](http://pdaphonehome.com/forums/member.php?u=14519) (36)  
-[natecorbitt](http://pdaphonehome.com/forums/member.php?u=36078) (33)  
-[duperdude25](http://pdaphonehome.com/forums/member.php?u=21563) (31)  
-[Zylograth](http://pdaphonehome.com/forums/member.php?u=35439) (30)  
-[markgin](http://pdaphonehome.com/forums/member.php?u=25772) (29)  
-[jeff8622](http://pdaphonehome.com/forums/member.php?u=13575) (28)  
-[911Paramedic](http://pdaphonehome.com/forums/member.php?u=27652) (28)  
-[treo_TSR](http://pdaphonehome.com/forums/member.php?u=32944) (25)  
-[cgymnasticsboy](http://pdaphonehome.com/forums/member.php?u=12795) (24)  
-[atomic](http://pdaphonehome.com/forums/member.php?u=15730) (24)  
-[jide300](http://pdaphonehome.com/forums/member.php?u=18694) (21)  
-[lfrushin](http://pdaphonehome.com/forums/member.php?u=30038) (17)   
+[XDASHERS](http://pdaphonehome.com/forums/member.php?u=13952)  
+[cecco_m](http://pdaphonehome.com/forums/member.php?u=6302) (57)  
+[wizard51](http://pdaphonehome.com/forums/member.php?u=19191) (54)  
+[esmerido](http://pdaphonehome.com/forums/member.php?u=38117) (52)  
+[Reilley](http://pdaphonehome.com/forums/member.php?u=29365) (44)  
+[SweetD](http://pdaphonehome.com/forums/member.php?u=26047) (39)  
+[rd3504](http://pdaphonehome.com/forums/member.php?u=14765) (34)  
+[pkaine](http://pdaphonehome.com/forums/member.php?u=11276) (33)  
+[rectro](http://pdaphonehome.com/forums/member.php?u=19224) (33)  
+[Zottig](http://pdaphonehome.com/forums/member.php?u=26669) (33)  
+[A920_Needs_help](http://pdaphonehome.com/forums/member.php?u=16479) (26)  
+[darehead](http://pdaphonehome.com/forums/member.php?u=27633) (26)  
+[jonathanmr](http://pdaphonehome.com/forums/member.php?u=37459) (26)  
+[DJDarkAngel](http://pdaphonehome.com/forums/member.php?u=38903) (25)  
+[Steve@Sprint](http://pdaphonehome.com/forums/member.php?u=16119) (24)  
+[leevur2000](http://pdaphonehome.com/forums/member.php?u=34318) (24)  
+[alienwcy](http://pdaphonehome.com/forums/member.php?u=28194) (23)  
+[Pru](http://pdaphonehome.com/forums/member.php?u=21027) (21)   
   
-**»[Online Users: 618](http://pdaphonehome.com/forums/online.php)**  
+**»[Online Users: 801](http://pdaphonehome.com/forums/online.php)**  
 ---  
-40 members and 578 guests  
-[bkhaas](http://pdaphonehome.com/forums/member.php?u=4410), [bootheresa](http://pdaphonehome.com/forums/member.php?u=39216), [Carol](http://pdaphonehome.com/forums/member.php?u=47870), [corys00](http://pdaphonehome.com/forums/member.php?u=35451), [cougargt](http://pdaphonehome.com/forums/member.php?u=16429), [ctret10](http://pdaphonehome.com/forums/member.php?u=51571), [darkness231](http://pdaphonehome.com/forums/member.php?u=48389), [docdg](http://pdaphonehome.com/forums/member.php?u=38442), [IndianaGuard](http://pdaphonehome.com/forums/member.php?u=44703), [jgeib](http://pdaphonehome.com/forums/member.php?u=51053), [jhalsey205](http://pdaphonehome.com/forums/member.php?u=6908), [Ken B](http://pdaphonehome.com/forums/member.php?u=4011), [lambo13](http://pdaphonehome.com/forums/member.php?u=32628), [Marctronixx](http://pdaphonehome.com/forums/member.php?u=19), [Marty](http://pdaphonehome.com/forums/member.php?u=13), [mattb5](http://pdaphonehome.com/forums/member.php?u=10245), [Maylize](http://pdaphonehome.com/forums/member.php?u=47854), [mlciskey](http://pdaphonehome.com/forums/member.php?u=220), [Mojo](http://pdaphonehome.com/forums/member.php?u=52636), [mrailing](http://pdaphonehome.com/forums/member.php?u=18082), [NVH Engr](http://pdaphonehome.com/forums/member.php?u=11312), [overresearched](http://pdaphonehome.com/forums/member.php?u=30942), [Paul_Hammons](http://pdaphonehome.com/forums/member.php?u=13457), [perfeng702](http://pdaphonehome.com/forums/member.php?u=25191), [phurth](http://pdaphonehome.com/forums/member.php?u=34855), [Playdeep](http://pdaphonehome.com/forums/member.php?u=39003), [ppclover](http://pdaphonehome.com/forums/member.php?u=38851), [Proto732](http://pdaphonehome.com/forums/member.php?u=42242), [rightinthenads](http://pdaphonehome.com/forums/member.php?u=49582), [SlappyM](http://pdaphonehome.com/forums/member.php?u=34096), [Squid](http://pdaphonehome.com/forums/member.php?u=38922), [stingershive](http://pdaphonehome.com/forums/member.php?u=32766), [tonydiv](http://pdaphonehome.com/forums/member.php?u=5028)  
-Most users ever online was 1444, 01-16-2006 at 03:55 PM.  
+57 members and 744 guests  
+[acslam](http://pdaphonehome.com/forums/member.php?u=38219), [AdmSuvvuk](http://pdaphonehome.com/forums/member.php?u=28900), [AlanB9_5](http://pdaphonehome.com/forums/member.php?u=39757), [almost.infamous](http://pdaphonehome.com/forums/member.php?u=54358), [bkhaas](http://pdaphonehome.com/forums/member.php?u=4410), [bootheresa](http://pdaphonehome.com/forums/member.php?u=39216), [Bushrod](http://pdaphonehome.com/forums/member.php?u=38116), [chippyt](http://pdaphonehome.com/forums/member.php?u=29323), [colonel](http://pdaphonehome.com/forums/member.php?u=18538), [csodjd](http://pdaphonehome.com/forums/member.php?u=40569), [dswalins](http://pdaphonehome.com/forums/member.php?u=34056), [dyastrab](http://pdaphonehome.com/forums/member.php?u=55890), [ejfont](http://pdaphonehome.com/forums/member.php?u=47428), [Electroflash](http://pdaphonehome.com/forums/member.php?u=19046), [fivepetpalace](http://pdaphonehome.com/forums/member.php?u=23945), [fixn278](http://pdaphonehome.com/forums/member.php?u=3228), [flooty333](http://pdaphonehome.com/forums/member.php?u=29054), [grey](http://pdaphonehome.com/forums/member.php?u=44802), [iampedro](http://pdaphonehome.com/forums/member.php?u=6015), [inflamed](http://pdaphonehome.com/forums/member.php?u=55498), [iProb8](http://pdaphonehome.com/forums/member.php?u=35729), [jimmyz](http://pdaphonehome.com/forums/member.php?u=33897), [JKingGrim](http://pdaphonehome.com/forums/member.php?u=34428), [john94si](http://pdaphonehome.com/forums/member.php?u=15111), [jonji](http://pdaphonehome.com/forums/member.php?u=44613), [JUSTQUAN2](http://pdaphonehome.com/forums/member.php?u=52907), [lowlife](http://pdaphonehome.com/forums/member.php?u=41221), [LTH777](http://pdaphonehome.com/forums/member.php?u=42742), [MACKDADDY](http://pdaphonehome.com/forums/member.php?u=16279), [Marty](http://pdaphonehome.com/forums/member.php?u=13), [masters](http://pdaphonehome.com/forums/member.php?u=42270), [mcollins756](http://pdaphonehome.com/forums/member.php?u=56396), [mlr69](http://pdaphonehome.com/forums/member.php?u=28150), [mvaughn12](http://pdaphonehome.com/forums/member.php?u=18144), [Noname in HNL](http://pdaphonehome.com/forums/member.php?u=42726), [ppc6700freak](http://pdaphonehome.com/forums/member.php?u=42795), [pw-man](http://pdaphonehome.com/forums/member.php?u=17661), [rduckwor1](http://pdaphonehome.com/forums/member.php?u=22253), [rglover](http://pdaphonehome.com/forums/member.php?u=41365), [Robb Bates](http://pdaphonehome.com/forums/member.php?u=37590), [SaltyDawg](http://pdaphonehome.com/forums/member.php?u=14134), [screamr](http://pdaphonehome.com/forums/member.php?u=24732), [Tar Heel](http://pdaphonehome.com/forums/member.php?u=51333), [vahighland](http://pdaphonehome.com/forums/member.php?u=42522), [virtualdavid](http://pdaphonehome.com/forums/member.php?u=13513), [waltie](http://pdaphonehome.com/forums/member.php?u=18991), [Wayne Orwig](http://pdaphonehome.com/forums/member.php?u=33318), [Zachoo](http://pdaphonehome.com/forums/member.php?u=31695)  
+Most users ever online was 1444, 01-16-2006 at 02:55 PM.  
   
 **»[Search Forums](http://pdaphonehome.com/forums/search.php)**  
 ---  
@@ -163,15 +159,12 @@ This policy applies to the **pdaPhoneHome** web site and only webpages that cont
   
 * * *  
   
-**[The PDA of your dreams](http://pdaphonehome.com/forums/showthread.php?t=79649)**  
+**[How to Convert (RIP) Video And DVD For Pocket PC/Palm](http://pdaphonehome.com/forums/showthread.php?t=67186)**  
 ---  
-Sep 23, 2006 - 3:31 PM - by [kevinrichy113](http://pdaphonehome.com/forums/member.php?u=50193)  
-WE ARE THE SELLER OF VARIOUS TYPES OF MOBILE PHONES, IPODS, POCKET PC, PSP, LAPTOPS,VIDEO GAMES,   
-GPS NAVIGATOR AND MANY MORE WITH COMPLETE ACCESSORIES, WELL PACKED AND SEALED IN ORIGINAL COMPANY BOX,ALL OUR PRODUCTS comes with Complete accessories(Well packed and sealed in original company box)  
-Unlocked / sim free. Brand new (original manufacturer) box - no copies  
-All phones have english language as default language.  
-All material (software, manual) - car chargers -... [[Read More](http://pdaphonehome.com/forums/showthread.php?t=79649)]  
-[](http://pdaphonehome.com/forums/sendmessage.php?do=sendtofriend&t=79649) [](http://pdaphonehome.com/forums/printthread.php?t=79649) 0 Replies | 346 Views  
+Feb 22, 2006 - 7:40 AM - by [kitkat](http://pdaphonehome.com/forums/member.php?u=40929)  
+1\. Download, install and run [Pocket DVD Studio](http://www.lightsparkle.com/download/pdvdstudio_v723.exe). It can convert from _video files(wmv, avi, mpg, mpeg, rm, rmvb, Tivo2go, etc) and DVDs_.  
+([Pocket DVD Studio Download](http://www.lightsparkle.com/download/pdvdstudio_v723.exe))[[](http://www.lightsparkle.com/download/pdvdstudio_v723.exe)[Read More](http://pdaphonehome.com/forums/showthread.php?t=67186)]   
+[](http://pdaphonehome.com/forums/sendmessage.php?do=sendtofriend&t=67186) [](http://pdaphonehome.com/forums/printthread.php?t=67186) 1 Reply | 5,308 Views  
   
   
 
