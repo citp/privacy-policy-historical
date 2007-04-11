@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222083846id_/http%3A//www.freeiva.com/cs_info/cs_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411162225id_/http%3A//www.freeiva.com/cs_info/cs_privacy.htm) for the most accurate reproduction.*
 
-# private tour guide,interpreter,meeting interpreter, city guide, travel companion,shanghai,beijing,china
+# China,tour guide,interpreter,exhibition,trade show translator,canton fair,beijing,shanghai,guangzhou
 
 _Privacy Policy / Term Condition_
 
