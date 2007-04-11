@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205230841id_/http%3A//www.jewishjournal.com/corporate/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411051359id_/http%3A//www.jewishjournal.com/corporate/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # JewishJournal.com
 
@@ -74,6 +74,6 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 
 **IF YOU HAVE A PRIVACY QUESTION**
 
-If you have a privacy question about our Site, please email: Dennis Wilen at Lisao@jewishjournal.com. Or write: Los Angeles Jewish Publications, Inc., Attn: Dennis Wilen, 3580 Wilshire Boulevard, Suite 1510, Los Angeles, California, 90010. Or call us at (213) 368-1661. 
+If you have a privacy question about our Site, please email: Dennis Wilen at webmaster@jewishjournal.com. Or write: Los Angeles Jewish Publications, Inc., Attn: Dennis Wilen, 3580 Wilshire Boulevard, Suite 1510, Los Angeles, California, 90010. Or call us at (213) 368-1661. 
 
 (end of policy) 
