@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216191504id_/http%3A//www.mbs.edu/go/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411232029id_/http%3A//www.mbs.edu/go/footer/privacy) for the most accurate reproduction.*
 
 # MBS: Privacy
 
@@ -56,7 +56,7 @@ We collect and store information so that we can process enrolments or enquiries,
 
 Within this broad organisational purpose, each department and research centre has its own specific, related purpose for collecting the personal information that is necessary for it to carry out its functions and activities.
 
-For example, MBS's Career Services division collects personal information, such as name, gender, date of birth, electronic, postal and telephone contact details, education, work experience, career aspirations, general interests and availability for employment, about students who are nearing completion of their degree and have requested that their resumes be placed online for job search purposes as participants in the School's online job posting system.
+For example, MBS's Career Centre division collects personal information, such as name, gender, date of birth, electronic, postal and telephone contact details, education, work experience, career aspirations, general interests and availability for employment, about students who are nearing completion of their degree and have requested that their resumes be placed online for job search purposes as participants in the School's online job posting system.
 
 ## What information MBS collects and how
 
