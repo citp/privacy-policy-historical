@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210040057id_/http%3A//www.paydq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411191918id_/http%3A//www.paydq.com/privacy.html) for the most accurate reproduction.*
 
 # Crescent Systems - Privacy Statement
 
