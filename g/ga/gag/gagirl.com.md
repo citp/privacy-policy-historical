@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214124id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411155131id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,9 +19,9 @@ If you do nothing during your visit but browse through the website, read pages, 
                telephone number.   
                Email addresses are never collected, distributed or sold. 
 
-This site uses the services of Google Adsense and Fastclick.com, Inc. for the serving and/or targeting of ads, promotions and other marketing messages. To learn more about Google and Fastclick, including your ability to opt out of their system, visit their sites. 
+This site uses the services of Google Adsense and ValueClick Media for the serving and/or targeting of ads, promotions and other marketing messages. To learn more about Google and ValueClick, including your ability to opt out of their system, visit their sites. 
 
-[http://www.google.com/privacy_faq.html](http://www.fastclick.com/co_privacy.html)  or  <http://www.fastclick.com/co_privacy.html>
+<http://www.google.com/privacy_faq.html>  or  <https://www.valueclickmedia.com/privacy.shtml>
 
 If you have any questions about our dedication to privacy, please [contact us.](http://www.gagirl.com/mail.html)   
  
