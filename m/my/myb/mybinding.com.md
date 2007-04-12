@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113080739id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412144509id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
 
-# www.mybinding.com - GBC and IBICO binding machines and laminating machines
+# Book Binding Equipment|GBC Laminator|Ibico Binding Machine
 
   
 **Secure Shopping Guaranteed**
