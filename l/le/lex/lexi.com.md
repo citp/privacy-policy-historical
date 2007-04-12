@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221155851id_/http%3A//www.lexi.com/web/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412081649id_/http%3A//www.lexi.com/web/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Lexi-Comp, Inc.
 
@@ -30,7 +30,7 @@ Choice Opt-Out
 
 Our site provides users with the opportunity to Opt-Out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives our users the following options for removing their information from our database, to not receive future communications, or to no longer receive our service.
 
-1.    Update your profile: [ http://www.lexi.com/updateprofile.html](https://web.archive.org/updateprofile.html)  
+1.    Update your profile: [ http://www.lexi.com/updateprofile.html](https://checkout.netsuite.com/app/common/entity/custprofile.nl?category=billing&sc=4)  
 2.    You can send e-mail to privacy-concerns@lexi.com  
 3.    You can send mail to the following postal address:  
 _        Internet Privacy Concerns, Attn: Network Administrator  
@@ -42,7 +42,7 @@ Correct / Update
 
 This site give users the following options for changing and modifying information previously provided:
 
-1.    Update your profile: [ http://www.lexi.com/updateprofile.html](https://web.archive.org/updateprofile.html)  
+1.    Update your profile: [ http://www.lexi.com/updateprofile.html](https://checkout.netsuite.com/app/common/entity/custprofile.nl?category=billing&sc=4)  
 2.    You can send e-mail to privacy-concerns@lexi.com  
 3.    You can send mail to the following postal address:  
 _        Internet Privacy Concerns, Attn: Network Administrator  
