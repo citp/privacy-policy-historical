@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215000044id_/https%3A//www.oldnational.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2007-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070413061652id_/https%3A//www.oldnational.com/privacy.asp) for the most accurate reproduction.*
 
 # Old National Privacy Policy
 
@@ -75,11 +75,10 @@ To help the government fight the funding of terrorism and money laundering activ
 **Keeping Up to Date with Our Privacy Policy.**   
 We will provide notice of our privacy policy annually, as long as you maintain an ongoing relationship with us. We reserve the right to change this policy at any time upon proper notice to you. You may view our policy and a current listing of our family of companies on our web site at oldnational.com or contact us for another copy.
 
-*Old National Family of Companies. The following is a list, as of December 31, 2005, of the Old National subsidiaries and affiliates to which this policy applies: 
+*Old National Family of Companies. The following is a list, as of December 31, 2006, of the Old National subsidiaries and affiliates to which this policy applies: 
 
 Old National Bank   
 Old National Investments   
-Old National Mortgage Company   
 Old National Trust Company   
 Old National Wealth Management   
 ONB Benefits Administration, LLC   
@@ -93,5 +92,5 @@ JW Flynn Agency
 JWF Specialty Co.   
 Regional Title Services, LLC 
 
-Rev. 12/05   
-Copyright © 2005 Old National Bancorp; All Rights Reserved
+Rev. 12/06  
+Copyright © 2006 Old National Bancorp; All Rights Reserved
