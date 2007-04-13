@@ -1,75 +1,61 @@
-> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208220851id_/http%3A//www.oliverpeoples.com/help_security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2007-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070413104642id_/http%3A//www.oliverpeoples.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Oliver Peoples - The online store of stimulating eyewear by Larry Leight
+# Privacy - Oliver Peoples Official Site
 
-Security & Privacy  
+oliverpeoples.com values its customers and respects their privacy. We collect customer information in an effort to improve our customers' shopping experience and to communicate with our customers about our products, services, contests and promotions. We recognize that we must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. 
+
+If our information practices change in the future, we will let you know before we use your information in a manner not previously disclosed in our privacy policy by posting the policy changes on our website or by communicating directly with you. At that time, you will have the opportunity to opt out of any new use of your information.
+
+**What kind of information does oliverpeoples.com collect?**
+
+We collect information, such as your name, email and postal addresses, phone and credit card numbers, that you provide to us when you place an order, when you save your info with us or when you participate in a contest, promotion or survey. We may acquire from third parties names, email and postal addresses for select mailings. 
+
+**How does oliverpeoples.com use my information?**
+
+When you make a purchase from oliverpeoples.com, we use your information to process your order. We will also send you emails to confirm your order and may need to contact you via phone, postal mail or email if we have other questions regarding your order. 
+
+When you save your information with oliverpeoples.com, you will be automatically signed up to receive email updates. If you participate in a contest or promotion, you will have the opportunity to choose to receive emails from us regarding our products, services, contests and promotions. 
+
+If at any time you would like us to remove you from our email or postal mailing lists, feel free to contact us by contacting oliverpeoples.com customer service via email. Please be sure to include your email address, full name and password. If you have previously asked to be removed from our email mailing list, we will not sign you up for email updates if you place an order online. Please note that it may take up to 48 hours to remove your email address from our list. 
+
+From time to time, we may also send you emails to help us learn more about your shopping preferences. In addition, we use information about your product interests and purchases to help us improve our site design and your shopping experience. If you save your information with us or if you purchase from us online we may also send you notices about our products, services, contests and promotions through postal mail. 
+
+To serve you better, we may combine information you give us online about your product interest and purchases with demographic information that is publicly available. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, contests and promotions that may be of interest to you.   
+**  
+Does oliverpeoples.com share my information with third parties?**
+
+We contract with third parties to assist us in maintaining and managing our customer information, to fulfill promotions and to communicate with our customers. We do not authorize any of those third parties to make any other use of your information. 
+
+When we offer contests and promotions, or join with other companies to do so, customers who choose to participate in those contests and promotions may be asked to provide personal information to participate. That information may then be used by us and by any company offering the contest or promotion to notify winners or to fulfill promotional obligations. 
+
+In addition, when we team up with another company to offer or provide products, services, contests or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations. 
+
+If, prior to participating in a contest or promotion, you opted not to receive information about or mailings from us, you may still receive information from or about oliverpeoples.com in connection with the contest or promotion if you choose to register for or participate in it. You may opt not to participate in these contests or promotions if you do not want to receive information about oliverpeoples.com or share your information with oliverpeoples.com and the other companies sponsoring those contests or promotions. 
+
+If you are a catalog customer, we may share your name and mailing address with third parties that have products or services we think may interest you. We also may share aggregate, non-personally identifiable information about you, such as age, gender and types of products purchased, with our business partners to fulfill our contractual obligations. Except as described above, we do not share, rent or sell any information we collect online to any unaffiliated third party. 
+
+**How do I access my information? How do I change or delete my information?**
+
+Simply [**log into your account**](https://web.archive.org/store/os/login.aspx) to change your information.  
   
-Thank you for visiting Oliverpeoples.com. Oliverpeoples.com is committed to protecting your privacy. Oliverpeoples.com Security   
-We use the latest encryption technology (Secure Sockets Layer, or SSL) to keep the personal information you provide to us secure. The information you provide to us when you place an order is encrypted (or coded) using a secure server for maximum security. This coding makes it nearly impossible for anyone to reach your information as it moves through our ordering system. 
+**How does oliverpeoples.com protect kids' privacy?**
 
-To check the security of your computer, look at the lower left hand corner of your browser window. If you see an unbroken key or a closed lock, then the encryption technology is active and the server is secure. You can also check by looking at the URL line of your browser; when you access a secure server, the initial characters of the site address will be "https".
+Like you, we at oliverpeoples.com are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we receive actual knowledge that a subscriber to oliverpeoples.com is under the age of 13, we will remove all personally identifiable information about that person from our files. 
 
-You should never give your credit card or personal information in an email; email messages are not secure.
+**What are cookies? How does oliverpeoples.com use cookies on its site?**
 
-Certain browsers will not permit communication through secure servers. If this is the case, you will not be able to place an order on-line and you will need to download a different browser.
+A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information, such as a unique user ID that websites use to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie. 
 
-What if you link to another site?  
-Our website may provide links to other sites not under our control. We are not responsible for these linked websites, their copy or for the actions of the providers of such sites. You should review the privacy and security policies and terms of use of such sites.
+We use cookies in order to improve your shopping experience. Cookies enable us to keep track of your order as you shop on our site. Through our use of cookies, we also track and maintain the identity of the web site you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites. 
 
-Contact Us   
-If you have any questions about this security statement, the practices of this site, or your dealings with Oliverpeoples.com, you can contact us:
+You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order to enable you to purchase from our site. To override your current cookie handling practices for individual sites: Select “Internet Options” from the “Tools” Menu. Click on the “Edit” button in the “Override cookie handling for individual websites” section. This will open the “Per Site Privacy Actions” dialogue box. Type “www.oliverpeoples.com” in the “Address of Website” box. Click the “Allow” button. Click the “OK” button, then close the “Per Site Privacy Actions” dialogue box. Click the “OK” button to close the “Internet Options” dialogue box and apply your changes. 
 
-Customer Service  
-Oliverpeoples.com  
-127 E. 9th St. #207  
-Los Angeles, CA 90015
+**How do I know my order information is secure?**
 
-1-866-865-7599
+Protecting your order information is important to us. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), your connection is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." 
 
-[service@oliverpeoples.com](mailto:service@oliverpeoples.com)
+Some versions of browsers and some firewalls don't permit communication through secure servers like the ones we use to process orders at oliverpeoples.com. In that case, you'll be unable to connect to the server, which means you won't be able to mistakenly place an order through an unsecured connection.
 
-Oliverpeoples.com Privacy
+**What about links to other websites and services?**
 
-At Oliverpeoples.com, we are committed to protecting your privacy. We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below. 
-
-Kid's policy (individuals under 13 years of age)   
-Oliverpeoples.com is committed to protecting the safety of children online. In compliance with the Children's Privacy Protection Act of 1998, Oliverpeoples.com will never knowingly request or use personal information from children under 13 years of age without prior parental consent. If oliverpeoples.com receives actual knowledge that a subscriber is under 13 years of age, oliverpeoples.com will eliminate all personal information relating to this subscriber from our files.
-
-What information do we collect?    
-When an order is placed on our Web site, we need to know your name, email address, mailing address, phone number, credit card number and credit card expiration date. This information is necessary for us to process and fill your order and to keep you informed of the status of your order. You may also register with us by providing information similar to that which you provide us when you make a purchase to help us better serve your interests.
-
-From time to time, we may run contests or other promotions. If you participate, we may request your name, mailing address, email address and other information in order to administer the promotion and notify winners. 
-
-When you submit a request, review or comment to our customer service department, we may ask you for your email address.
-
-When you visit our Web site, we also collect IP addresses in aggregate form, but these are not linked to any of your personally identifiable information. 
-
-We may from time to time conduct on-line surveys. When you complete a survey on-line, we may ask for certain information from you, including your age, zip code, shopping habits, email and/or mailing address. 
-
-How do we use the information?    
-When you place an order on our Web site, we will use your information to process and fill your order. We may send you an email to confirm or update you on your order. We may also need to contact you by regular mail, email or phone if we have any questions regarding your order.
-
-When you order, register, complete a survey or participate in any contest or promotion on our Web site, we will use the information you provided to us to send you email or regular mail from us regarding products, services or other contests and promotions that we think may be of interest to you.
-
-We may also use information you provide to us to personalize your shopping experience by using your product interests and purchase information to recommend other products, services or promotions that we believe may interest you, including those of other companies. We may also notify you of functionality changes to the Web site.
-
-In addition, in an effort to better service our customers and improve the shopping experience on our site, we may from time to time aggregate your information with information of other customers to help us analyze trends, purchasing patterns and preferences, and demographics.
-
-How do we use "cookies"?    
-"Cookies" are small pieces of information stored by your browser on your computer's hard drive. Cookies do not contain personally identifying information. Most web browsers are set up to accept cookies; you can usually change your browser settings to refuse cookies.
-
-We use cookies to enhance your shopping experience at our site, to allow you to navigate quickly, and to keep track of items when you shop on-line. Cookies are not used on our site to store your account information; this information is stored securely on the site's server. When you log in at the site with your username and password or make a purchase, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of our site.
-
-We also use cookies to track the identity of the Web site you visited immediately prior to visiting our site. Otherwise, we will not track information about your use of other Web sites.
-
-Contact Us   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Oliverpeoples.com, you can contact us: 
-
-Customer Service  
-Oliverpeoples.com  
-127 E. 9th St. #207  
-Los Angeles, CA 90015
-
-1-866-865-7599
-
-[service@oliverpeoples.com](mailto:service@oliverpeoples.com)
+The oliverpeoples.com website may contain links to other sites that are not under our control. These websites have their own policies regarding privacy. You should review those policies before visiting the websites. We have no responsibility for linked websites, and we provide these links solely for the convenience and information of our visitors. 
