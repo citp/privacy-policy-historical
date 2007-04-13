@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charliepage.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221242id_/http%3A//www.realworldtactics.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charliepage.com privacy policy that was archived on 2007-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070413120708id_/http%3A//www.realworldtactics.com/terms.html) for the most accurate reproduction.*
 
 # Real World Tactics - Privacy & Terms
 
