@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232453id_/http%3A//www.pitch.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2007-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070414120011id_/http%3A//www.pitch.com/about/policy.php) for the most accurate reproduction.*
 
-# 
+# Kansas City - - pitch.com
 
 Parent of _The Pitch_ and pitch.com 
 
