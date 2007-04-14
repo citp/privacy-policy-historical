@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navexpress.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209172855id_/http%3A//navexpress.com/info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navexpress.com privacy policy that was archived on 2007-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070414093739id_/http%3A//www.navexpress.com/info/privacy_policy.htm) for the most accurate reproduction.*
 
 # NavExpress - Privacy policy
 
