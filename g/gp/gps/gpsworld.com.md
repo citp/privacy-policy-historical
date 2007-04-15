@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpsworld.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029200331id_/http%3A//www.gpsworld.com/gpsworld/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsworld.com privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415102855id_/http%3A//www.gpsworld.com/gpsworld/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - GPS World
 
