@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsu.edu privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210194738id_/http%3A//www.nsu.edu/policies/pdf/WebAcceptableUse_revised.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsu.edu privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415130530id_/http%3A//www.nsu.edu/policies/pdf/WebAcceptableUse_revised.pdf) for the most accurate reproduction.*
 
 # 61.001: Internet Website Acceptable Use and Privacy Policy
 
