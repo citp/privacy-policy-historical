@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209033244id_/http%3A//www.innerrange.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415180342id_/http%3A//www.innerrange.com/Privacy.htm) for the most accurate reproduction.*
 
 # Inner Range - Privacy Statement
 
