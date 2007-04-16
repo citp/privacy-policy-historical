@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222224427id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416134902id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
-
-UPS Saturday Overnight delivery is available to select zip codes. Please call (888) 880-3811 to take advantage of this option. The Jenson USA store in Ontario, Calfornia is open from 9AM - 1PM on Saturday the 23rd for last minute shopping. 
-
-The [Jenson USA eGift Card](http://www.jensonusa.com/store/giftcard.aspx) with email delivery can be delivered within hours.
 
 By visiting JensonUSA.com you agree to accept the practices described in this Privacy Policy.
 
@@ -40,4 +36,4 @@ We will release personally identifiable information to third parties and organiz
 
 Our Web site protects the security of personal information you transmit to us by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal your credit card number when we confirm your order. In order to protect against unauthorized access to your account you should sign off when you finish visiting our site.
 
-© 2006 JensonUSA - All rights reserved.
+© 2007 JensonUSA - All rights reserved.
