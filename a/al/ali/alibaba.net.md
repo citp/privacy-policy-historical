@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibaba.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231125513id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.net privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417230428id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Alibaba.com - Import Export Trade Leads
 
