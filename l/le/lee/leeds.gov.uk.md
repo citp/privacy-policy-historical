@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095105id_/http%3A//www.leeds.gov.uk/Internet%2520Privacy%2520Statement/page.aspx%3Fstyle%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417031147id_/http%3A//www.leeds.gov.uk/page.aspx%3FegmsIdentifier%3DBF207A6A0A90CCA380256E14003DDACB) for the most accurate reproduction.*
 
-# Leeds City Council - Internet privacy statement
+# Leeds City Council - Privacy statement
 
 Protecting your privacy is very important to us. You do not have to give any personal or private information about yourself when you visit our website. 
 
