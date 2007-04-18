@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendall.edu privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209132602id_/http%3A//www.kendall.edu/Administration/tabid/192/ctl/Edit/mid/374/PrivacyPolicy/tabid/273/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendall.edu privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418143247id_/http%3A//www.kendall.edu/Administration/tabid/192/ctl/Edit/mid/374/PrivacyPolicy/tabid/273/Default.aspx) for the most accurate reproduction.*
 
 # ADA and Privacy Policies
 
@@ -22,7 +22,7 @@ These guidelines promulgate policies and procedures that students of Kendall Col
 
 **I. GENERAL PROVISIONS**
 
-Kendall does not discriminate on the basis of disability in any of its programs, services or activities. The school will not deny any otherwise qualified student with a disability the opportunity to participate in, or benefit from, any aid, benefit or service that Kendall provides. Kendall will also strive to accommodate students with disabilities on an individual basis. 
+Kendall does not discriminate on the basis of disability in any of its programs, services or activities. The school will not deny any otherwise qualified student with a disability the opportunity to participate in, or benefit from, any aid, benefit or service that Kendall provides. Kendall will also strive to accommodate applicants and students with disabilities on an individual basis. 
 
 While Kendall College strives to accommodate students as fully as possible, reasonable adjustments or accommodations do not include measures which fundamentally alter the academic programs of Kendall College, or which place an undue financial burden on the school. The College will, however, engage in a good-faith interactive process with all disabled students to attempt to identify reasonable, mutually-acceptable disability accommodations.
 
