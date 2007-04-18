@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspace.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001102id_/http%3A//www.myspace.com/Modules/Common/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspace.com privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418193514id_/http%3A//www.myspace.com/Modules/Common/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - MySpace.com
 
