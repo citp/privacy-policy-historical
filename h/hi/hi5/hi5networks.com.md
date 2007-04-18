@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224225918id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418195936id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
 
 # hi5 - Who's in?
 
@@ -61,7 +61,7 @@ An "Internet protocol address" or "IP Address" is a number that is automatically
 Other third parties may place advertisements and cookies on webpages within the hi5 network. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
  **Your Ability to Edit and Delete Your Account Information and Preferences**  
-We reserve the right to send you certain communications relating to the hi5 service, such as service announcements, administrative messages and the hi5 Newsletter, that are considered part of your hi5 account. If you would like to opt out of these messages, you may delete your account by sending an e-mail message to support@hi5.com, subject: account deletion. Please include your full name, e-mail address in the body of the message.
+We reserve the right to send you certain communications relating to the hi5 service, such as service announcements, administrative messages and the hi5 Newsletter, that are considered part of your hi5 account. If you would like to opt out of certain messages, log into hi5 and go to your account settings by clicking the account link in the top right hand corner. On that page you can edit your preferences. If you would like to delete your account, log into hi5, go to your account settings page by clicking the account link in the top right hand corner. On that page, right below the email address field you will see a link to cancel your account.
 
  **Confidentiality and Security**  
 We limit access to personal information about you to employees and third parties who we reasonably believe need access to that information to provide products or services to you or in order to do their jobs. 
