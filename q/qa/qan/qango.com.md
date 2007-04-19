@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the qango.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118110542id_/http%3A//info.qango.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qango.com privacy policy that was archived on 2007-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070419154118id_/http%3A//info.qango.com/company/privacy) for the most accurate reproduction.*
 
 # Qango Info - Privacy Policy
 
 Privacy Policy
-
-**Privacy Policy for the Qango.com Search Network**
 
 Qango.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices:
 
