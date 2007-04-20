@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207090507id_/http%3A//ipayment.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420032655id_/http%3A//www.ipayment.com/privacy.asp) for the most accurate reproduction.*
 
 # Core Business Technologies: Privacy
 
