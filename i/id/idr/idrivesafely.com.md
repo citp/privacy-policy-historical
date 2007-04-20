@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207020334id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420214413id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
 # Defensive Driving Online Traffic School
-
-I DRIVE SAFELY is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site **www.idrivesafely.com**. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
-
-If users have questions or concerns regarding this statement, you should first contact Customer Service by email at [privacy@idrivesafely.com](mailto:privacy@idrivesafely.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the website to resolve users concerns. 
 
 I DRIVE SAFELY is the sole owner of the information collected on its web site. I DRIVE SAFELY collects personally identifiable information from our customers and potential affiliates at several different points on our website. We will deny requests for marketing, scholastic, demographic, or other information requests from entities that could derive commercial or social benefits from such data. We will not use or sell this information to promote products or services unrelated to this traffic safety course or in ways different from what is disclosed in this statement.
 
@@ -66,8 +62,8 @@ If, however, we are going to use users' personally identifiable information in a
 
 **Corporate Office**
 
-674 Via de la Valle, Suite 300  
-Solana Beach, CA 92075  
-858.724.0040
+294 La Moree Road  
+San Marcos, CA 92078  
+760.744.3070
 
 "Privacy Policy effective November 11, 2005" 
