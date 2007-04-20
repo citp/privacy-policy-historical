@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628191548id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420023942id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GOP.com | Republican National Committee :: Privacy Policy
 
-|  |   
+|   
 ---  
-[](http://www.gop.com/default.aspx) |   
-WEDNESDAY | JUNE 28, 2006  |  |  |   
-|  |  |   
-[](http://www.gop.com/Issues/)[](http://www.gop.com/News/)[](http://www.gop.com/States/)[](https://www.gop.com/Secure/Signup.aspx)[](http://www.gop.com/RegisterToVote/)[](http://www.gop.com/LinkRedirect.aspx)[](http://www.gop.com/About/)[](http://www.gop.com/Teams/)[](http://www.gop.com/Blog/)  
 | 
 
 Welcome to GOP.com, the official Web site of the Republican National Committee (RNC). We hope you enjoy your visit. The RNC knows your right to privacy online is important. You do not have to identify yourself or divulge personal information unless you choose to give us your personal information. 
@@ -59,9 +55,10 @@ Parents with questions may email [webmaster@GOP.com](mailto:webmaster@GOP.com) o
 
 Strict security measures are in place to protect the loss, misuse and alteration of any and all information pertaining to GOP.com. In addition, GOP.com is run on servers located in a secure server room and locked in a rack. Staff is onsite 24 hours a day, monitoring equipment and services. 
 
-**www.GOP.com** uses a secured/encrypted server for online credit card donations. The online contribution form is in compliance with FEC regulations. The RNC has put in place appropriate physical, electronic and managerial procedures to prevent unauthorized access. 
+**www.GOP.com** uses a secured/encrypted server for online credit card donations. The online contribution form is in compliance with FEC regulations. The RNC has put in place appropriate physical, electronic and managerial procedures to prevent unauthorized access.   
 
-  * **Use of cookies and protecting your privacy:** We do make use of cookies to personalize and customize your interaction with GOP.com and to provide you with the best possible online experience. A cookie is a tiny text file that is placed on your hard drive when you voluntarily register with GOP.com or voluntarily take part in one of our online polls. These text files do not contain any personal information and cannot be used by GOP.com or anyone else to obtain any information that you do not voluntarily provide. 
+
+  * **Use of cookies and protecting your privacy:** We do make use of cookies to personalize and customize your interaction with GOP.com and to provide you with the best possible online experience. A cookie is a tiny text file that is placed on your hard drive and does not contain any personal information about you. These text files cannot be used by GOP.com or anyone else to obtain any information that you do not voluntarily provide. 
 
 For Microsoft Internet Explorer, please visit:   
 <http://www.microsoft.com/info/cookies.htm>
@@ -95,7 +92,7 @@ When registering with GOP.com, please know that you are opting to receive these 
 
 **How do I contact the Republican National Committee?**
 
-  * **Contact information for the Republican National Committee:** If you have any questions, comments or concerns please contact the RNC by e-mail or by phone using the contact information [provided here](https://web.archive.org/contactus.aspx). 
+  * **Contact information for the Republican National Committee:** If you have any questions, comments or concerns please contact the RNC by e-mail or by phone using the contact information [provided here](https://web.archive.org/contactus/default.aspx). 
 
 
 
@@ -105,7 +102,7 @@ When registering with GOP.com, please know that you are opting to receive these 
 
 
 
-Updated November 4, 2005
+Updated July 17, 2006
 
 |  |   
 ---  
@@ -116,8 +113,8 @@ p: 202.863.8500 | f: 202.863.8820 | e: [info@gop.com](mailto:info@gop.com)
 [ PRIVACY POLICY](http://www.gop.com/PrivacyPolicy.aspx) | [ SITE MAP](http://www.gop.com/SiteMap.aspx)
 
 Paid for by the Republican National Committee  
-Not Authorized By Any Candidate Or Candidate Committee   
-www.GOP.com © 2006 Republican National Committee
+Not Authorized By Any Candidate Or Candidate's Committee   
+www.GOP.com © 2007 Republican National Committee
 
   
 |   
