@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obout.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005936id_/http%3A//obout.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obout.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420142821id_/http%3A//www.obout.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # obout inc - How to install Slide Menu
 
@@ -28,4 +28,4 @@ Your Choices
   
 How to Contact Us
 
-Questions about this statement or about Obout Inc.'s handling of your information may be sent to: info@obout.com, or Privacy, Obout Inc., 815 Neck Road, Ste 4J, Brooklyn, NY 11223. 
+Questions about this statement or about Obout Inc.'s handling of your information may be sent to: info@obout.com, or Privacy, Obout Inc., 728 Ocean View Ave, Ste A1, Brooklyn, NY 11235. 
