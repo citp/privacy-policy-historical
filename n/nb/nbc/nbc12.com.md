@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206163239id_/http%3A//www.nbc12.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420050412id_/http%3A//www.nbc12.com/privacy) for the most accurate reproduction.*
 
-# NBC 12 - WWBT Privacy Policy
+# NBC12 | WWBT Privacy Policy
 
 This document describes NBC12's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site. 
 
@@ -26,6 +26,6 @@ NBC12 uses cookies on only a few pages where you are asked to login or register 
 **Changes**  
 We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time. 
 
-Story Created: Apr 18, 2006 at 4:27 PM EST 
+Story Created: Apr 18, 2006 at 5:27 PM EDT 
 
-Story Updated: Apr 18, 2006 at 4:28 PM EST 
+Story Updated: Apr 18, 2006 at 5:28 PM EDT 
