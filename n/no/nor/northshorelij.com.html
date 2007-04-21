@@ -1,51 +1,51 @@
-<!--The following is the downloaded HTML source of the northshorelij.com privacy policy that was archived on 2006-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061212032631id_/http%3A//www.northshorelij.com/body.cfm%3Fid%3D102) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northshorelij.com privacy policy that was archived on 2007-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070421061411id_/http%3A//www.northshorelij.com/body.cfm%3Fid%3D102) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-	<title>Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<style type="text/css">
-		@import url(default.css);
-	</style>
-	
+		<title>Privacy Policy</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="verify-v1" content="2h5H7JknWdKnfrx+oPvgLnKeQNDuoU5SmZVZk1v/yF0=">
+		<link rel="stylesheet" type"text="" css"="" href="default.css" media="screen">
+		<link rel="stylesheet" type"text="" css"="" href="CSS/neuroMenu.css" media="screen">
+		<link rel="stylesheet" type"text="" css"="" href="print.css" media="print">
 	</head>
- 
-
-
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr> 
-		<td width="100%" valign="top" style="background-image: url(images/logo_nsnew.gif ); background-repeat: no-repeat; background-position: top left;">
+  <div id="nslij-site-header">
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr> 
-				<td width="1%">
-				<a href="default.cfm"><img src="images/logo_nsclear.gif" border="0" alt="North Shore Jewish Long Island Health System - Click to Return Home"></a></td>
-				<td width="99%" align="left" valign="bottom">
-				
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
-	
+				<td width="100%" valign="top" style="background-image: url(images/logo_nsnew.gif ); background-repeat: no-repeat; background-position: top left;">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr> 
+							<td width="1%">
+								<a href="default.cfm"><img src="images/logo_nsclear.gif" border="0" alt="North Shore Jewish Long Island Health System - Click to Return Home"></a>
+							</td>
+							<td width="99%" align="left" valign="bottom">
 								
-
-				<script language="JavaScript" type="text/javascript">
-					
-				
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
+	
+            <script language="JavaScript" type="text/javascript">
+            <!--//
+                  var ns4 = (document.layers);
+                  var ie  = (document.all);
+                  var ie4 = (ie && !document.getElementById);
+                  var ie5 = (ie && document.getElementById);
+                  var ns6 = (!ie && document.getElementById);
+   
 						var aryMoused = new Array();
 						var aryLayerMoused = new Array();
 						var aryMoImages = new Array();
 						var imageList = new Array();
-						var runMouseOvers = false;
+						var runMouseOvers = true;
 						var TimerID = null;
 						var iLimit = 25;
 						var itmp = 0;
 						
-						var BillzTime = 100;
-						var BillzTimes = 2;
-						var BillzmoveDistance = 1;
-						var BillzThisLoc = 325;
+						var nbTime = 100;
+						var nbTimes = 2;
+						var nbThisLoc = 325;
 						var aryLayerNames = new Array();
 						var aryNavBarLayerInfo = new Array();
 						var aryNavBarLayers = new Array();
@@ -54,11 +54,11 @@
 						var viz = "hide";
 
 						function MOImage() {
-							var a = MOImage.arguments;
-							this.ptrImage = BillzNavBarMM_findObj(a[0]);
+							var arg = MOImage.arguments;
+							this.ptrImage = BillzNavBarMM_findObj(arg[0]);
 							this.imageMO = new Image();
-							this.imageMO.src = a[1];
-							this.HTMLname = a[0];
+							this.imageMO.src = arg[1];
+							this.HTMLname = arg[0];
 							this.Moused = false;
 							this.OriginalSrc = '';
 							return true;
@@ -66,31 +66,46 @@
 						function BillzImagePreload() {
 						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
 							var arg = BillzImagePreload.arguments;
-							var imageKey = (arg[2]) ? arg[2] : arg[0];
+							nbImagePreload(arg[0], arg[1], arg[2]);
+						}
+                  function nbImagePreload(img_name, mo_img_src, rollover_key_img_name)
+                  {
+                     var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
 							imageList[imageList.length] = imageKey;
 							if (!(aryMoImages[imageKey])) {
-								aryMoImages[imageKey] = new MOImage(arg[0], arg[1]);
+								aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
 							}
-						}
+                  }
+                  
 						function BillzMouseover() {
-							var a = null;
+							var arg = null;
+							if (runMouseOvers) {		
+								arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
+								nbMouseover(arg[0], arg[1], arg[2]);
+							}
+							return true;
+						}
+                  // args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
+                  function nbMouseover(img_name, orig_src, img_key)
+                  {
 							var imageKey = null;
 							var o = null;
-							if (runMouseOvers) {
-								//args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)					
-								a = BillzMouseover.arguments;
-								imageKey = (a[2]) ? a[2] : a[0];
+							if (runMouseOvers) 
+                     {				
+								imageKey = (img_key.length > 0) ? img_key : img_name;
 								if (!(aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(a[0]);
+									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);
 								}
-								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].OriginalSrc = a[1];
+								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) 
+                        {
+									aryMoImages[imageKey].OriginalSrc = orig_src;
 									aryMoImages[imageKey].Moused = true;
 									o.src = aryMoImages[imageKey].imageMO.src;
 								}
 							}
 							return true;
-						}
+                  }
+                  
 						var NavBarTempOnload = null;
 						if (window.onload && window.onload != null){
 							NavBarTempOnload = window.onload;
@@ -103,23 +118,35 @@
 							return true;
 						}
 						function BillzMouseOutTimer() {
+							return nbMouseOutTimer();
+						}
+                  function nbMouseOutTimer() 
+                  {
 							if (TimerID) {
 								clearTimeout(TimerID);
 							}
-							TimerID = setTimeout("BillzLayerRestore()",5000);
+							TimerID = setTimeout("nbLayerRestore()",5000);
 							return true;
 						}
 						function RestoreAll() {
-							BillzMouseoverRestore();
-							BillzLayerRestore();
+							nbMouseoverRestore();
+							nbLayerRestore();
 							return true;
 						}
+                  
 						function BillzMouseoverRestore() {
+							return nbMouseoverRestore();
+						}
+                  function nbMouseoverRestore() 
+                  {
 							var i = 0;
 							var o = null;
-							if (runMouseOvers) {
-								for (i = 0; i < imageList.length; i++) {
-									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
+							if (runMouseOvers) 
+                     {
+								for (i = 0; i < imageList.length; i++) 
+                        {
+									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) 
+                           {
 										o.src = aryMoImages[imageList[i]].OriginalSrc;
 										aryMoImages[imageList[i]].Moused = false;
 									}
@@ -127,15 +154,23 @@
 							}
 							return true;
 						}
+                  
 						function BillzLayerRestore() {
+							return nbLayerRestore();
+						}
+                  function nbLayerRestore() 
+                  {
 							var i = 0;
-							for (i = 0; i < aryLayerNames.length; i++) {
+							for (i = 0; i < aryLayerNames.length; i++) 
+                     {
 								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
 									BillzNavBarRestoreLayers(aryLayerNames[i]);
 								}
 							}
 							return true;
 						}
+                  
+                  
 						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
 							var pushIt = true;
 							var i = 0;
@@ -159,7 +194,23 @@
 							}
 							return varItemToPop;
 						}
-						function BillzNavBarMM_findObj(n, d) { //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+                  
+                  //Heikoz "just get me the freakin' div object handle" function
+                  function getDivRef(id)
+                  {
+                     var divref;
+                  	if(ns4)
+                  		divref = document.layers[id];
+                  	else if(ie4)
+                  		divref = document.all[id];
+                  	else if(ie5 || ns6)  // remaining cases
+                  		divref = document.getElementById(id);
+                  
+                  	return divref;
+                  }
+   
+                  //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+						function BillzNavBarMM_findObj(n, d) {
 						  	var p,i,x;
 						
 							if (registeredObjects[n]) {
@@ -168,7 +219,13 @@
 							if (!(d)) {
 								d = document;
 							}
-							if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+                     try {
+                        p = n.indexOf("?");
+                     }
+                     catch(e) {
+                        p = 0;
+                     }
+							if (p > 0 && parent.frames.length) {
 								d = parent.frames[n.substring(p+1)].document;
 								n = n.substring(0,p);
 							}
@@ -188,21 +245,21 @@
 						 	return x;
 						}
 						function BillzArrayContains() {
-							var a = BillzArrayContains.arguments;
+							var arg = BillzArrayContains.arguments;
 							var foundit = false;
 							var i = 0;
-							for (i = 0; i < a[0].length && !foundit; i++) {
-								foundit = (a[1] == a[0][i]);
+							for (i = 0; i < arg[0].length && !foundit; i++) {
+								foundit = (arg[1] == arg[0][i]);
 							}
 							return foundit;
 						}
 						function NavBarRegisterLayer() {
-							var a = NavBarRegisterLayer.arguments;
-							var n = a[0];
-							var d = a[1];
+							var arg = NavBarRegisterLayer.arguments;
+							var n = arg[0];
+							var d = arg[1];
 							var mo = false;
 							var o = null;
-							if (a[2] && a[2] == 'MOutLayer') {
+							if (arg[2] && arg[2] == 'MOutLayer') {
 								mo = true;
 							} else {
 								mo = false;
@@ -226,7 +283,7 @@
 							var args = BillzNavBarMM_showHideLayers.arguments;
 
 							if (args[args.length - 1] != "menu") {
-								BillzMouseOutTimer();
+								nbMouseOutTimer();
 							}
 						  	for (i = 0; i < (args.length - 2); i += 3) {
 								if (!aryNavBarLayers[args[i]]) {
@@ -248,6 +305,7 @@
 							}
 							return true;
 						}
+                  
 						function BillzNavBarRestoreLayers() {
 							var i = 0;
 							var x = "";
@@ -271,31 +329,37 @@
 							return true;
 						}
 						function NavBarLayer() {
-							var a = NavBarLayer.arguments;
-							this.defaultVisibility = a[1];
+							var arg = NavBarLayer.arguments;
+							this.defaultVisibility = arg[1];
 							this.isDefault = true;
-							this.MOutLayer = a[2];
+							this.MOutLayer = arg[2];
 							return true;
 						}
 						function BillzNavMove() {
+							return nbNavMove();
+						}
+                  function nbNavMove() 
+                  {
 							var thisl = null;
 							var otherl = null;
-							if (thisl = BillzNavBarMM_findObj("BillzScrollLayer")) {
+							if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) 
+                     {
 								if (thisl.style) {
 									thisl = thisl.style;
 									viz = "hidden";
 								} 
-								thisl.top = BillzThisLoc -= 3;
-								if (BillzThisLoc < -750) {
-									BillzThisLoc = 325;
-									BillzTimes--;
+								thisl.top = nbThisLoc -= 3;
+								if (nbThisLoc < -750) {
+									nbThisLoc = 325;
+									nbTimes--;
 								}
 							}
-							if (BillzTimes <= 0) {
+							if (nbTimes <= 0) 
+                     {
 								otherl = BillzNavBarMM_findObj("BillzLayer");
 								otherl.visibility = viz;
 							} else {
-								setTimeout("BillzNavMove()", BillzTime);
+								setTimeout("nbNavMove()", nbTime);
 							}
 							
 							return true;
@@ -309,34 +373,31 @@
 				</script>
 			
 		<!-- Begin NavBar Bar #1 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="top" align="left" background=""><img src="images/clear.gif" width="0" height="1"></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="default.cfm?id=1&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('welcome_1_1','images/welcome.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/welcome.gif" border="0" alt="Home" id="welcome_1_1" name="welcome_1_1" onload="BillzImagePreload('welcome_1_1','images/welcome_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="nonav.cfm?id=3734&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('contactus_1_2','images/contactus.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/contactus.gif" border="0" alt="Contact Us" id="contactus_1_2" name="contactus_1_2" onload="BillzImagePreload('contactus_1_2','images/contactus_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=11&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('aboutus_1_3','images/aboutus.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/aboutus.gif" border="0" alt="About Us" id="aboutus_1_3" name="aboutus_1_3" onload="BillzImagePreload('aboutus_1_3','images/aboutus_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="http://69.18.146.5/healthport/indexinternal.cfm" onmouseover="RestoreAll();BillzMouseover('healthport_1_4','images/healthport.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/healthport.gif" border="0" alt="HealthPort" id="healthport_1_4" name="healthport_1_4" onload="BillzImagePreload('healthport_1_4','images/healthport_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=10&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('employment_1_5','images/employment.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/employment.gif" border="0" alt="Employment" id="employment_1_5" name="employment_1_5" onload="BillzImagePreload('employment_1_5','images/employment_on.gif');"></a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left"><img src="images/clear.gif" width="0" height="1" alt=""></td>
+		<td class="" valign="top" align="left" title=""><a href="default.cfm?id=1&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('welcome_1_1','images/welcome.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/welcome.gif" border="0" alt="Home" id="welcome_1_1" name="welcome_1_1"></a><script type="text/javascript">nbImagePreload('welcome_1_1','images/welcome_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="nonav.cfm?id=3734&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('contactus_1_2','images/contactus.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/contactus.gif" border="0" alt="Contact Us" id="contactus_1_2" name="contactus_1_2"></a><script type="text/javascript">nbImagePreload('contactus_1_2','images/contactus_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=11&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('aboutus_1_3','images/aboutus.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/aboutus.gif" border="0" alt="About Us" id="aboutus_1_3" name="aboutus_1_3"></a><script type="text/javascript">nbImagePreload('aboutus_1_3','images/aboutus_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.northshorelij.com/healthport/indexinternal.cfm" onmouseover="RestoreAll();nbMouseover('healthport_1_4','images/healthport.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/healthport.gif" border="0" alt="HealthPort" id="healthport_1_4" name="healthport_1_4"></a><script type="text/javascript">nbImagePreload('healthport_1_4','images/healthport_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=10&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('employment_1_5','images/employment.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/employment.gif" border="0" alt="Employment" id="employment_1_5" name="employment_1_5"></a><script type="text/javascript">nbImagePreload('employment_1_5','images/employment_on.gif', '');</script></td>
 	</tr>
 
-</tbody></table>
-	
+</tbody></table> 
 		<!-- End NavBar Output -->
 	
- 
-
+							</td>
+						</tr>
+					</tbody></table>
 				</td>
 			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr> 
-		<td valign="top">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td valign="top" width="1%">
-				
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+			<tr> 
+				<td valign="top">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td valign="top" width="1%">
+								
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
 			<!-- Begin NavBar #2 Local Javascript Output... -->
 
@@ -349,10 +410,8 @@
 		NavBarRegisterLayer('lyrresearch','show');
 		NavBarRegisterLayer('lyrforhealthcare','show');
 		
-				
 					BillzArrayPushUnique(aryLayerMoused, "lyrBottomMO','','show");
 				
-			
 				var aryEvents = new Array();
 				function BillzEventHandler() {
 				
@@ -368,32 +427,28 @@
 					eval(eval('"'+aryEvents[args[0]][args[1]].replace(/this_navbar_(linkid|image|buttongraphicNoExt|buttongraphic|form)/gi, "\"+event_object[\"$1\"]+\"")+'"'));
 				}
 				
-			
 				aryEvents[2] = new Array("","","","","");
 
 			
 			</script>
 		
 		<!-- Begin NavBar Bar #2 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="nonav.cfm?id=7&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('hospitalsfacilities_2_1','images/hospitalsfacilities.gif');BillzNavBarMM_showHideLayers('lyrhospitalsfacilities','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/hospitalsfacilities.gif" border="0" alt="Hospitals &amp; Facilities" id="hospitalsfacilities_2_1" name="hospitalsfacilities_2_1" onload="BillzImagePreload('hospitalsfacilities_2_1','images/hospitalsfacilities_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=78&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('diseasehealth_2_2','images/diseasehealth.gif');BillzNavBarMM_showHideLayers('lyrdiseasehealth','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/diseasehealth.gif" border="0" alt="Disease &amp; Health Information" id="diseasehealth_2_2" name="diseasehealth_2_2" onload="BillzImagePreload('diseasehealth_2_2','images/diseasehealth_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="bodyiframe.cfm?id=147&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('findaphysician_2_3','images/findaphysician.gif');BillzNavBarMM_showHideLayers('lyrfindaphysician','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/findaphysician.gif" border="0" alt="Find a Physician" id="findaphysician_2_3" name="findaphysician_2_3" onload="BillzImagePreload('findaphysician_2_3','images/findaphysician_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=6&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('newsevents_2_4','images/newsevents.gif');BillzNavBarMM_showHideLayers('lyrnewsevents','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/newsevents.gif" border="0" alt="News &amp; Events" id="newsevents_2_4" name="newsevents_2_4" onload="BillzImagePreload('newsevents_2_4','images/newsevents_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=9&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('waystogive_2_5','images/waystogive.gif');BillzNavBarMM_showHideLayers('lyrwaystogive','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/waystogive.gif" border="0" alt="Ways to Give" id="waystogive_2_5" name="waystogive_2_5" onload="BillzImagePreload('waystogive_2_5','images/waystogive_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=2867&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('research_2_6','images/research.gif');BillzNavBarMM_showHideLayers('lyrresearch','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/research.gif" border="0" alt="Education and Research" id="research_2_6" name="research_2_6" onload="BillzImagePreload('research_2_6','images/research_on.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=8&amp;oTopID=0" onmouseover="RestoreAll();BillzMouseover('forhealthcare_2_7','images/forhealthcare.gif');BillzNavBarMM_showHideLayers('lyrforhealthcare','','show','lyrBottomMO','','show','menu');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/forhealthcare.gif" border="0" alt="For Health Professionals" id="forhealthcare_2_7" name="forhealthcare_2_7" onload="BillzImagePreload('forhealthcare_2_7','images/forhealthcare_on.gif');"></a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left" title=""><a href="nonav.cfm?id=7&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('hospitalsfacilities_2_1','images/hospitalsfacilities.gif','');BillzNavBarMM_showHideLayers('lyrhospitalsfacilities','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/hospitalsfacilities.gif" border="0" alt="Hospitals &amp; Facilities" id="hospitalsfacilities_2_1" name="hospitalsfacilities_2_1"></a><script type="text/javascript">nbImagePreload('hospitalsfacilities_2_1','images/hospitalsfacilities_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=78&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('diseasehealth_2_2','images/diseasehealth.gif','');BillzNavBarMM_showHideLayers('lyrdiseasehealth','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/diseasehealth.gif" border="0" alt="Disease &amp; Health Information" id="diseasehealth_2_2" name="diseasehealth_2_2"></a><script type="text/javascript">nbImagePreload('diseasehealth_2_2','images/diseasehealth_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="bodyiframe.cfm?id=147&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('findaphysician_2_3','images/findaphysician.gif','');BillzNavBarMM_showHideLayers('lyrfindaphysician','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/findaphysician.gif" border="0" alt="Find a Physician" id="findaphysician_2_3" name="findaphysician_2_3"></a><script type="text/javascript">nbImagePreload('findaphysician_2_3','images/findaphysician_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=6&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('newsevents_2_4','images/newsevents.gif','');BillzNavBarMM_showHideLayers('lyrnewsevents','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/newsevents.gif" border="0" alt="News &amp; Events" id="newsevents_2_4" name="newsevents_2_4"></a><script type="text/javascript">nbImagePreload('newsevents_2_4','images/newsevents_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=9&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('waystogive_2_5','images/waystogive.gif','');BillzNavBarMM_showHideLayers('lyrwaystogive','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/waystogive.gif" border="0" alt="Ways to Give" id="waystogive_2_5" name="waystogive_2_5"></a><script type="text/javascript">nbImagePreload('waystogive_2_5','images/waystogive_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=2867&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('research_2_6','images/research.gif','');BillzNavBarMM_showHideLayers('lyrresearch','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/research.gif" border="0" alt="Education and Research" id="research_2_6" name="research_2_6"></a><script type="text/javascript">nbImagePreload('research_2_6','images/research_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=8&amp;oTopID=0" onmouseover="RestoreAll();nbMouseover('forhealthcare_2_7','images/forhealthcare.gif','');BillzNavBarMM_showHideLayers('lyrforhealthcare','','show','lyrBottomMO','','show','menu');" onmouseout="nbMouseoverRestore();" class=""><img src="images/forhealthcare.gif" border="0" alt="For Health Professionals" id="forhealthcare_2_7" name="forhealthcare_2_7"></a><script type="text/javascript">nbImagePreload('forhealthcare_2_7','images/forhealthcare_on.gif', '');</script></td>
 	</tr>
 
-</tbody></table>
-	
+</tbody></table> 
 		<!-- End NavBar Output -->
 	
- 
-
-				</td>
-				<td width="99%" valign="middle"><div align="center">
+							</td>
+							<td width="99%" valign="middle"><div align="center">
 
 <style name="text/css" class="search">		
 	td.search {background-color: FFFFFF; background-image: URL(images/clear.gif); font-family: verdana,arial; font-weight: 700; font-size: 12px; font-color: 000000;}				
@@ -414,39 +469,40 @@
 </tbody></table>
 
 </div></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr> 
+				<td width="100%" valign="top" align="right" bgcolor="FFFDEE">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+								
+						</tr>
+					</tbody></table>	  
+				</td>
+			</tr>
+			<tr> 
+				<td width="100%" valign="top">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td width="80%" valign="top" align="left"><br><font style="font-family: verdana; font-size: 18px; font-weight: bold; padding-left: 22px;">Privacy Policy</font></td>
+							<td width="20%" valign="top" align="right"><img src="images/pageimage_default.jpg"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" style="background-image: url(images/drop_top.gif); background-repeat: repeat-x;">
+					<img src="images/drop_topleft.gif"></td>
 			</tr>
 		</tbody></table>
-		</td>
-	</tr>
-	<tr> 
-		<td width="100%" valign="top" align="right" bgcolor="FFFDEE">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	</div>
+	<div id="nslij-site-content-wrapper">
+		<table width="100%" height="568" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-			 
-
-				
-			</tr>
-		</tbody></table>	  
-		</td>
-	</tr>
-	<tr> 
-		<td width="100%" valign="top">
-		<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="80%" valign="top" align="left"><br><font style="font-family: verdana; font-size: 18px; font-weight: bold; padding-left: 22px;">Privacy Policy</font></td>
-				<td width="20%" valign="top" align="right"><img src="images/pageimage_default.jpg"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" style="background-image: url(images/drop_top.gif); background-repeat: repeat-x;"><img src="images/drop_topleft.gif"></td>
-	</tr>
-</tbody></table>
-<table width="100%" height="568" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td bgcolor="C9E0FF" valign="top" align="center" width="166" style="background-image: url(images/left_grad.gif); background-repeat: repeat-x; background-position: top;"><img src="images/clear.gif" height="1" width="166">
-		
+				<td class="no-print" bgcolor="C9E0FF" valign="top" align="center" width="166" style="background-image: url(images/left_grad.gif); background-repeat: repeat-x; background-position: top;"><img src="images/clear.gif" height="1" width="166">
+					
 		<style>				
 			table.mainCont1 {width: 100%;}
 			tr.clTop1 {}	
@@ -473,58 +529,22 @@
 			td.pHTMLafter1 {padding:0px;}
 			td.cHTMLafter1 {padding:0px;}
 		</style>
-	 
-</td>
-		<td width="7" style="background-image: url(images/drop_left.gif); background-repeat: repeat-y;"><img src="images/clear.gif" height="1" width="7"></td>  
-		<td valign="top">
-		<table width="100%" border="0" cellspacing="0" cellpadding="6">
-			<tbody><tr>
-    			<td valign="top" align="right" colspan="2">				
-				<img src="images/clear.gif" height="5" width="592"><br>
-			   
-					<div align="right"> 
-
-
- 
-
- 
-
-
-
-
 	
-	
-	
-		
-	
-	
-		
-		
-			
-				
-				
-				
-				
-			
-			
-		
-		
-	
-		
-		
-			
-			
-		
-		
-	
-
-
-
+				</td>
+				<td class="no-print" width="7" style="background-image: url(images/drop_left.gif); background-repeat: repeat-y;">
+					<img src="images/clear.gif" height="1" width="7">
+				</td>
+				<td valign="top">
+					<table width="100%" border="0" cellspacing="0" cellpadding="6">
+						<tbody><tr>
+							<td class="no-print" valign="top" align="right" colspan="2">
+								<img src="images/clear.gif" height="5" width="592"><br>
+								
+									<div align="right"> 
 <table style="width:1%; background-image:  url(images/crumbline.gif); background-repeat: repeat-x; background-position: bottom left;" cellpadding="1" cellspacing="0" class="">
 <tbody><tr>
 	
 	<td nowrap="" width="1%"><a href="default.cfm" style="padding-left: 4px; text-decoration: none;color: 98A7CF; font-family: verdana; font-size: 9px; font-weight: bold;">Home</a></td>
-	
 	
 	<td width="1%" class=""><img src="images/breadarrow.gif"></td>
 	<td width="1%" nowrap=""><a href="/body.cfm?id=102" style="color: 335098; font-family: verdana; text-decoration: none; font-weight: bold; font-size: 9px;">Privacy Policy</a></td>
@@ -532,18 +552,14 @@
 	<td width="1%" nowrap="">&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </tbody></table> 
-
 </div><br>			   	
-				
-				</td>		
-			</tr>
-			<tr>
-				<td valign="top">
-
-
-
-
-	
+								
+							</td>		
+						</tr>
+						<tr>
+							<td valign="top">
+								<div id="nslij-site-content">
+									
 	<table border="0" width="100%" cellspacing="0" cellpadding="0" style="padding-left: 30px; padding-right: 30px;">
 	  <tbody><tr>
 	    <td valign="top" style="padding-left: 10px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px;">
@@ -558,231 +574,440 @@ NS-LIJ will not release your name, address, telephone number, credit card number
 	  </tr>
 	</tbody></table>
 	
- 
-
-
-
-</td>	
-				
-				
-					
-				
-				
-				
-				
-					
-					
-												
-						
-  			</tr>
-  			<tr>
-    			<td valign="top" colspan="2"><br>	
-						
-		
-			
-		
-				
-						
-			
-				
-	 
-
-</td>
-  			</tr>
-  			<tr>
-   			<td valign="bottom" align="center" colspan="2">
-      		<table border="0" width="100%" cellspacing="0" cellpadding="0">
-         		<tbody><tr>
-		    <td valign="middle" align="center"><span id="footer">© North Shore - Long Island Jewish Health System serves the New York counties of Nassau, Suffolk, Queens and Staten Island.</span>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-</tr><tr>
-            		<td valign="middle" align="center"><br>
-						
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+								</div>
+							</td>
+										
+							</tr>
+							<tr>
+								<td valign="top" colspan="2"><br> </td>
+							</tr>
+							<tr>
+							<td valign="bottom" align="center" colspan="2">
+								<table border="0" width="100%" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td valign="middle" align="center"><span id="footer">
+											© North Shore - Long Island Jewish Health System serves the New York counties of Nassau, Suffolk, Queens and Staten Island.</span>&nbsp;&nbsp;&nbsp;&nbsp;
+										</td>
+									</tr>
+									<tr>
+										<td valign="middle" align="center"><br>
+											
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
 		<!-- Begin NavBar Bar #3 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="nonav.cfm?id=101" class="">Disclaimer</a></td>
-		<td class="" valign="top" align="left" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=103" class="">Site Index</a></td>
-		<td class="" valign="top" align="left" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=102" class="">Privacy Policy</a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left" title=""><a href="nonav.cfm?id=101" class="">Disclaimer</a></td>
+		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=103" class="">Site Index</a></td>
+		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=102" class="">Privacy Policy</a></td>
 	</tr>
 
-</tbody></table>
-	
+</tbody></table> 
 		<!-- End NavBar Output -->
 	
- 
-</td>
-         		</tr>
-    			</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
 				</td>
-  			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-</tbody></table>  
-
-
+			</tr>
+		</tbody></table>  
+	</div>
+	
 	
 
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<script type="text/javascript"><!--
+var gService = false;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+	dCur.setTime(dCur.getTime()+adj);
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+	if (document.cookie.indexOf(name+"=")==-1){
+		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+			WT.co_f=gWtId;
+		}
+		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+			WT.co_f=gTempWtId;
+			WT.vt_f="1";
+		}
+		else{
+			WT.co_f="2";
+			var cur=dCur.getTime().toString();
+			for (var i=2;i<=(32-cur.length);i++){
+				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+			}
+			WT.co_f+=cur;
+			WT.vt_f="1";
+		}
+		if (typeof(gWtAccountRollup)=="undefined"){
+			WT.vt_f_a="1";
+		}
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
+	}
+	else{
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+	if (document.cookie.indexOf(name+"=")==-1){
+		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+		WT.vt_f=WT.vt_f_a="2";
+	}
+}
 
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gConvert=true;
 
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
 
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
 
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<script type="text/javascript"><!--
+var gDomain="69.18.146.6";
+var gDcsId="dcszln8u92nsp5aaaice9bjde_2s3s";
 
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+//-->
+</script><script type="text/javascript" src="https://69.18.146.6/dcszln8u92nsp5aaaice9bjde_2s3s/wtid.js"></script>
+<script type="text/javascript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+var gI18n=false;
+if (window.RegExp){
+	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+	var I18NRE={"%25":/\%/g};
+}
 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-		  
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-		  
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-		  
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-		  
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-		  
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-		  
-	
-	 
-	
-	
-	
-	
-	
-	
-	
-		
-		
-	
-		
-		
-			
-	
-	
-	 
+// Add customizations here
 
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
+	}
+	WT.js="Yes";
+	WT.jv=dcsJV();
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		for(var i=10;i>0;i--){
+			try{
+				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+				WT.fi="Yes";
+				WT.fv=i+".0";
+				break;
+			}
+			catch(e){
+			}
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	if (gI18n){
+		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
+		if (typeof(document.defaultCharset)=="string"){
+			WT.le=document.defaultCharset;
+		} 
+		else if (typeof(document.characterSet)=="string"){
+			WT.le=document.characterSet;
+		}
+	}
+	WT.tv="8.0.0";
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
+		}
+	}
+}
 
+function dcsA(N,V){
+	return "&"+N+"="+dcsEscape(V, RE);
+}
 
+function dcsEscape(S, REL){
+	if (typeof(REL)!="undefined"){
+		var retStr = new String(S);
+		for (R in REL){
+			retStr = retStr.replace(REL[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
 
- 
+function dcsEncode(S){
+	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+}
 
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
 
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
+				}
+			}
+		}
+	}
+}
 
+function dcsTag(){
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=dcsA(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=dcsA("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=dcsA(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
 
+function dcsJV(){
+	var agt=navigator.userAgent.toLowerCase();
+	var major=parseInt(navigator.appVersion);
+	var mac=(agt.indexOf("mac")!=-1);
+	var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+	var nn4=(nn&&(major==4));
+	var nn6up=(nn&&(major>=5));
+	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+	var ie5up=(ie&&!ie4);
+	var op=(agt.indexOf("opera")!=-1);
+	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+	var op7up=(op&&!op5&&!op6);
+	var jv="1.1";
+	if (nn6up||op7up){
+		jv="1.5";
+	}
+	else if ((mac&&ie5up)||op6){
+		jv="1.4";
+	}
+	else if (ie5up||nn4||op5){
+		jv="1.3";
+	}
+	else if (ie4){
+		jv="1.2";
+	}
+	return jv;
+}
 
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
 
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://69.18.146.6/dcszln8u92nsp5aaaice9bjde_2s3s/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->
 
 
 
