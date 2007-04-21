@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216220335id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421062125id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # recordonline.com - The Times Herald-Record, serving New York"s Hudson Valley and the Catskills
 
@@ -44,7 +44,7 @@ Except as otherwise set forth in this Privacy Policy, we will not share your per
 
 Your Ability to Choose
 
-You can always decide not to provide your personal information to this website, however in some cases failing to provide such information may limit your ability to use certain or features available at this website. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [_Insert web address here_](mailto:#)
+You can always decide not to provide your personal information to this website, however in some cases failing to provide such information may limit your ability to use certain or features available at this website. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [_webmaster@th-record.com_](mailto:webmaster@th-record.com)
 
 Cookies
 
@@ -65,7 +65,7 @@ The personally identifiable information we collect about you is stored in limite
 
 Review and Correction
 
-You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [_Insert email address here_](mailto:#)
+You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [_webmaster@th-record.com_](mailto:webmaster@th-record.com)
 
 Exclusions
 
@@ -77,4 +77,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [_Insert email address here_](mailto:#) or by regular mail at: _Insert address here_
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [_webmaster@th-record.com_](mailto:webmaster@th-record.com) or by regular mail at: _40 Mulberry St. Middletown, NY 10940_
