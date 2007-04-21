@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234937id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421210946id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
 
 # EDJOIN Privacy Statement
 
