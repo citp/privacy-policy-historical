@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kpho.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207152917id_/http%3A//www.kpho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpho.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421173921id_/http%3A//www.kpho.com/privacy) for the most accurate reproduction.*
 
-# kpho.com - Your #1 Source For Late-Breaking News - Privacy
+# KPHO.com - Privacy
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.KPHO.com](http://www.kpho.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
 
