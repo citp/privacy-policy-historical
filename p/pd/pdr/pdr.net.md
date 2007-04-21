@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010640id_/https%3A//www.thomsonhc.com/register/librarian/PFActionId/pf.ShowPage/PageId/register.PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421145558id_/https%3A//www.thomsonhc.com/register/librarian/PFActionId/pf.ShowPage/PageId/register.PrivacyStatement) for the most accurate reproduction.*
 
 # Thomson Healthcare: Privacy Policy Statement
 
