@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2006-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060713065640id_/http%3A//www.shopintimates.com/home/page.php%3Fpage%3Dinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421215227id_/http%3A//www.shopintimates.com/page.php%3Fpage%3Dinfo) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ At ShopIntimates Singapore, we're committed to our customers' privacy and have m
 
 First of all, every box we ship is tightly sealed in plain brown paper, and thus tamper-proof, hiding all contents from view. The return address on every postal label, the bill itself **,** and credit card statement all Shows only item order number. We will neither sell, exchange or otherwise benefit from the information a customer provides on the website and will never contact our customers unless directly asked to. An "OPT-IN" prompt allows customers to make this decision for themselves. 
 
-Shopintimates Singapore does not collect credit card info from you, this is collected by [eNETS](http://www.nets.com.sg/corporate/history.asp). 
+Shopintimates Singapore does not collect credit card info from you, this is collected by [Paypal](http://www.paypal.com/)
 
 ShopIntimates Singapore does not sell products for purchase by children. We do not knowingly collect, maintain, or use Personal Information from children under age 18. If you are under age 18, do not share personal information with us. 
 
@@ -20,7 +20,7 @@ At your request, we will provide you with reasonable access to your Personal Inf
 
 Security 
 
-[**eNETS**](http://www.nets.com.sg/corporate/history.asp) protect your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information that you provide online at **[eNETS](http://www.nets.com.sg/corporate/history.asp)** credit card payment Web Site.
+eNETS & Paypal protect your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information that you provide online at eNETS or Paypal credit card payment Web Site.
 
 Dispute Resolution 
 
