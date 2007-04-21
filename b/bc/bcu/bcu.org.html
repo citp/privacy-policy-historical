@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bcu.org privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206092028id_/http%3A//www.bcu.org/PrivacyandSecurity.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcu.org privacy policy that was archived on 2007-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070421055535id_/http%3A//www.bcu.org/PrivacyandSecurity.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
       <script type="text/javascript" src="common/org/tool-man/xsscheck.js"></script>
@@ -121,7 +121,8 @@ var calClose = "close";
                   </li>
                   
                   <li>
-                     <a href="ContactUsNotLoggedIn.aspx">
+                     <!-- <a href="ContactUsNotLoggedIn.aspx"> -->
+                        <a href="LocationsIllinois.aspx">
                         contact us
                      </a>|
                   </li>
@@ -131,8 +132,8 @@ var calClose = "close";
                      </a>|
                   </li>
                   <li>
-                     <a href="AboutBCU.aspx">
-                        about bcu
+                     <a href="AboutUs.aspx">
+                        about us
                      </a>
 |
                   </li>
@@ -218,7 +219,345 @@ margin-top: 8px;
       
 
 <!-- BCU login module -->
-<script language="javascript">
+<!-- DP 03/07/07 Project 5225b added the fingerprint script to capture browser info -->
+<script type="text/javascript">
+var SEP = '|';
+var PAIR = '=';
+// browser detection
+ua = navigator.userAgent.toLowerCase();
+opera = ua.indexOf("opera") >= 0;
+ie = ua.indexOf("msie") >= 0 && !opera;
+iemac = ie && ua.indexOf("mac") >= 0;
+moz = ua.indexOf("mozilla") && !ie && !opera;
+os = navigator.platform;
+// misc. functions
+function activeXDetect(componentClassID) {
+componentVersion =
+document.body.getComponentVersion('{'+componentClassID+'}','ComponentID');
+return (componentVersion != null) ? componentVersion : false;
+}
+function stripIllegalChars(value) {
+t = "";
+//first we need to escape any "\n" or "/" or "\"
+value = value.toLowerCase();
+for (i = 0; i < value.length; i++) {
+if (value.charAt(i) != '\n' && value.charAt(i) != '/' && 
+value.charAt(i) != "\\")
+{
+t += value.charAt(i);
+}
+else if (value.charAt(i) == '\n')
+{
+t += "n";
+}
+}
+return t;
+}
+function stripFullPath(tempFileName, lastDir) {
+fileName = tempFileName;
+//anything before the last lastDir will be lost
+filenameStart = 0;
+filenameStart = fileName.lastIndexOf(lastDir);
+if (filenameStart < 0)
+return tempFileName;
+filenameFinish = fileName.length;
+fileName = fileName.substring(filenameStart + lastDir.length, 
+filenameFinish);
+return fileName;
+}
+// fingerprinting functions
+function fingerprint_browser () {
+t = ua +SEP+ navigator.appVersion +SEP+ navigator.platform;
+if (ie) {
+t += SEP + navigator.appMinorVersion +SEP+ navigator.cpuClass +SEP+
+navigator.browserLanguage;
+t += SEP + ScriptEngineBuildVersion();
+} else if (moz) {
+t += SEP + navigator.language;
+}
+return t;
+}
+function fingerprint_display () {
+t = "";
+if (self.screen) {
+t += screen.colorDepth +SEP+ screen.width +SEP+ screen.height +SEP+
+screen.availHeight;
+}
+return t;
+}
+function fingerprint_software () {
+t = "";
+isFirst = true;
+/*
+Create a Hashtable of mozilla components
+*/
+var ht = new Hashtable();
+ht.put('npnul32.dll','def'); // Default netscape plugin
+ht.put('npqtplugin6.dll','qt6'); // Quicktime 6.5.1
+ht.put('npqtplugin5.dll','qt5'); // Quicktime 6.5.1
+ht.put('npqtplugin4.dll','qt4'); // Quicktime 6.5.1
+ht.put('npqtplugin3.dll','qt3'); // Quicktime 6.5.1
+ht.put('npqtplugin2.dll','qt2'); // Quicktime 6.5.1
+ht.put('npqtplugin.dll','qt1'); // Quicktime 6.5.1
+ht.put('nppdf32.dll','pdf'); // Adobe Acrobat
+ht.put('NPSWF32.dll','swf'); // Macromedia Flash
+ht.put('NPJava11.dll','j11'); // Java 1.4.2_02
+ht.put('NPJava12.dll','j12'); // Java 1.4.2_02
+ht.put('NPJava13.dll','j13'); // Java 1.4.2_02
+ht.put('NPJava32.dll','j32'); // Java 1.4.2_02
+ht.put('NPJava14.dll','j14'); // Java 2 5.0 Update 4
+ht.put('npoji600.dll','j61'); // Java 2 5.0 Update 4
+ht.put('NPJava131_16.dll','j16'); // Java 1.3.1_16
+ht.put('NPOFFICE.DLL','mso'); // Microsoft Office 2003
+ht.put('npdsplay.dll','wpm'); // Windows Media Player
+ht.put('npwmsdrm.dll','drm'); // Windows DRM
+ht.put('npdrmv2.dll','drn'); // Netscape DRM
+ht.put('nprjplug.dll','rjl'); // Real Jukebox
+ht.put('nppl3260.dll','rpl'); // Real Player Live Connect
+ht.put('nprpjplug.dll','rpv'); // Real Player Version
+ht.put('npchime.dll','chm'); // Chime
+ht.put('npCortona.dll','cor'); // Cortina
+ht.put('np32dsw.dll','dsw'); // Macromedia Director
+ht.put('np32asw.dll','asw'); // Macromedia Authorware
+if (navigator.plugins.length > 0) {
+// since opera will give the full path of the file, we will
+// just extract the filenames, ignoring descripton and length since 
+// filenames are
+// distinguished enough
+temp = "";
+moz = "";
+key = "";
+lastDir = "Plugins";
+for (i = 0; i < navigator.plugins.length; i++) {
+plugin = navigator.plugins[i];
+moz = stripFullPath(plugin.filename, lastDir);
+if (isFirst==true)
+{
+key = ht.containsKey(moz);
+if(key)
+{
+temp += ht.get(moz) + PAIR + moz;
+isFirst=false;
+}
+else
+{
+//temp += "unknown" + PAIR + moz;
+temp = "";
+isFirst=false;
+}
+}
+else
+{
+key = ht.containsKey(moz);
+if(key)
+{
+temp += SEP + ht.get(moz) + PAIR + moz;
+}
+else
+{
+//temp += SEP + "unknown" + PAIR + moz;
+temp += "";
+}
+}
+}
+t = stripIllegalChars(temp);
+}
+else if (navigator.mimeTypes.length > 0)
+{
+key = "";
+for (i = 0; i < navigator.mimeTypes.length; i++)
+{
+mimeType = navigator.mimeTypes[i];
+if (isFirst==true)
+{
+key = ht.containsKey(mimeType);
+if(key)
+{
+t += ht.get(mimeType) + PAIR + mimeType;
+isFirst=false;
+}
+else
+{
+t += "unknown" + PAIR + mimeType;
+isFirst=false;
+}
+}
+else
+{
+key = ht.containsKey(mimeType);
+if(key)
+{
+t += SEP + ht.get(mimeType) + PAIR + mimeType;
+}
+else
+{
+//t += SEP + "unknown" + PAIR + mimeType;
+temp += "";
+}
+}
+}
+}
+else if (ie) {
+names = new Array(
+"abk", // Address Book
+"wnt", // Windows Desktop Update NT
+"aol", // AOL ART Image Format Support
+"arb", // Arabic Text Display Support
+"chs", // Chinese (Simplified) Text Display Support
+"cht", // Chinese (traditional) Text Display Support
+"dht", // Dynamic HTML Data Binding
+"dhj", // Dynamic HTML Data Binding for Java
+"dan", // DirectAnimation
+"dsh", // DirectShow
+"heb", // Hebrew Text Display Support
+"ie5", // Internet Explorer 5 Browser
+"icw", // Internet Connection Wizard
+"ibe", // Internet Explorer Browsing Enhancements
+"iec", // Internet Explorer Classes for Java
+"ieh", // Internet Explorer Help
+"iee", // Internet Explorer Help Engine
+"jap", // Japanese Text Display Support
+"krn", // Korean Text Display Support
+"lan", // Language Auto-Selection
+"swf", // Macromedia Flash
+"shw", // Macromedia Shockwave Director
+"msn", // MSN Messenger Service
+"wmp", // Windows Media Player
+"obp", // Offline Browsing Pack
+"oex", // Outlook Express
+"net", // NetMeeting NT
+"pan", // Pan-European Text Display Support
+"thi", // Thai Text Display Support
+"tks", // Task Scheduler
+"uni", // Uniscribe
+"vtc", // Vector Graphics Rendering (VML)
+"vnm", // Vietnamese Text Display Support
+"mvm", // Microsoft virtual machine
+"vbs", // Visual Basic Scripting Support
+"wfd" // Web Folders
+);
+components = new Array(
+"7790769C-0471-11D2-AF11-00C04FA35D02",
+"89820200-ECBD-11CF-8B85-00AA005B4340",
+"47F67D00-9E55-11D1-BAEF-00C04FC2D130",
+"76C19B38-F0C8-11CF-87CC-0020AFEECF20",
+"76C19B34-F0C8-11CF-87CC-0020AFEECF20",
+"76C19B33-F0C8-11CF-87CC-0020AFEECF20",
+"9381D8F2-0288-11D0-9501-00AA00B911A5",
+"4F216970-C90C-11D1-B5C7-0000F8051515",
+"283807B5-2C60-11D0-A31D-00AA00B92C03",
+"44BBA848-CC51-11CF-AAFA-00AA00B6015C",
+"76C19B36-F0C8-11CF-87CC-0020AFEECF20",
+"89820200-ECBD-11CF-8B85-00AA005B4383",
+"5A8D6EE0-3E18-11D0-821E-444553540000",
+"630B1DA0-B465-11D1-9948-00C04F98BBC9",
+"08B0E5C0-4FCB-11CF-AAA5-00401C608555",
+"45EA75A0-A269-11D1-B5BF-0000F8051515",
+"DE5AED00-A4BF-11D1-9948-00C04F98BBC9",
+"76C19B30-F0C8-11CF-87CC-0020AFEECF20",
+"76C19B31-F0C8-11CF-87CC-0020AFEECF20",
+"76C19B50-F0C8-11CF-87CC-0020AFEECF20",
+"D27CDB6E-AE6D-11CF-96B8-444553540000",
+"2A202491-F00D-11CF-87CC-0020AFEECF20",
+"5945C046-LE7D-LLDL-BC44-00C04FD912BE",
+"22D6F312-B0F6-11D0-94AB-0080C74C7E95",
+"3AF36230-A269-11D1-B5BF-0000F8051515",
+"44BBA840-CC51-11CF-AAFA-00AA00B6015C",
+"44BBA842-CC51-11CF-AAFA-00AA00B6015B",
+"76C19B32-F0C8-11CF-87CC-0020AFEECF20",
+"76C19B35-F0C8-11CF-87CC-0020AFEECF20",
+"CC2A9BA0-3BDD-11D0-821E-444553540000",
+"3BF42070-B3B1-11D1-B5C5-0000F8051515",
+"10072CEC-8CC1-11D1-986E-00A0C955B42F",
+"76C19B37-F0C8-11CF-87CC-0020AFEECF20",
+"08B0E5C0-4FCB-11CF-AAA5-00401C608500",
+"4F645220-306D-11D2-995D-00C04F98BBC9",
+"73FA19D0-2D75-11D2-995D-00C04F98BBC9"
+);
+document.body.addBehavior("#default#clientCaps")
+for (i = 0; i < components.length; i++) {
+ver = activeXDetect(components[i]);
+name = names[i];
+if (ver) {
+if (isFirst==true)
+{
+t += name + PAIR + ver;
+isFirst=false;
+}
+else
+{
+t += SEP + name + PAIR + ver;
+}
+}
+else
+{
+t +="";
+isFirst=false;
+}
+}
+}
+return t;
+}
+function fingerprint_timezone () {
+var gmtHours = (new Date().getTimezoneOffset()/60)*(-1);
+return gmtHours;
+}
+function fingerprint_lang(){
+var lang;
+if (typeof(navigator.language) != "undefined")
+{
+lang = navigator.language;
+}
+else if (typeof(navigator.browserLanguage) != "undefined")
+{
+lang = navigator.browserLanguage;
+}
+else
+{
+lang = "";
+}
+return lang;
+}
+function fingerprint_syslang () {
+var lang;
+(typeof(navigator.systemLanguage) != "undefined") ? lang = 
+navigator.systemLanguage
+: lang = "";
+return lang;
+}
+function fingerprint_userlang () {
+var lang;
+(typeof(navigator.userLanguage) != "undefined") ? lang = 
+navigator.userLanguage :
+lang = "";
+return lang;
+}
+// async post methods
+function form_add_data(fd, name, value) {
+if (fd && fd.length > 0) {
+fd += "&";
+}
+else {
+fd = "";
+}
+fd += name + '=' + escape(value);
+return fd;
+}
+function form_add_fingerprint(fd, name, value) {
+fd = form_add_data(fd, name + "d", value);
+return fd;
+}
+// fingerprint communiation
+function post_fingerprints( form) {
+form.fp_browser.value = fingerprint_browser();
+form.fp_display.value = fingerprint_display();
+form.fp_software.value = fingerprint_software();
+form.fp_timezone.value = fingerprint_timezone();
+form.fp_lang.value = fingerprint_lang();
+form.fp_syslang.value = fingerprint_syslang();
+form.fp_userlang.value = fingerprint_userlang();
+//alert("fingerprint called");
+}
 function setQS(uri, key, value)
 {
 	var newuri = uri;
@@ -273,60 +612,83 @@ function validateLoginFields()
    var pinNumber = grab("textPIN").value;
    if ( pinNumber.length <= 0 ) 
    {
-      DisplayError( 'You must specify a value for your PIN.' );
+      DisplayError( 'Invalid Login Attempt. Please try again.' );
        
       grab("textPIN").focus();
       return false;
    }
-   
+   <!-- DP 02/01/06 removed numeric test, Password can now be alphanumeric -->
+/*
    if ( regexNumeric.test( pinNumber ) == false )
    {
-      DisplayError( 'PIN must be a 4 digit value.' );
+      DisplayError( 'Invalid Login Attempt. Please try again.' );
       grab("textPIN").focus();
       return false;
    }
+*/
    //Added to validate the PIN has to be minimum 4 digits per 
    //Help Desk ticket 286489. Jessica Wong 03/03/06
-   if ( pinNumber.length < 4 )
+   if ( pinNumber.length < 4 || pinNumber.length == 5)
    {
-      DisplayError( 'PIN must be a 4 digit value.' );
-      grab("textPIN").focus();
+      DisplayError( 'Invalid Login Attempt. Please try again.' );
+      <!-- DP 22/01/07 Clear both the member and the Password field and focus on member -->
+      grab("textMemberNumber").focus();
+      grab("textPIN").value = "";
+      grab("textMemberNumber").value = "";
    
       return false;
    }
+   // DP 03/07/07 Project 5225b - Calling the post_fingerprint function to capture browser info 
+    post_fingerprints(frmLogin)
    return true;
 }
 </script>
-<form id="frmLogin" action="https://www.bcu.org/PrivacyandSecurity.aspx" method="post" name="frmLogin" onsubmit="return validateLoginFields();">
+<form id="frmLogin" action="https://www.bcu.org/privacyandsecurity.aspx" method="post" name="frmLogin" onsubmit="return validateLoginFields();">
    <div id="login">
-     <h6><a href="#" class="iconHelp" onclick="openPopup('HelpSecureLogin.aspx','Help','scrollbars=auto,width=300,height=270')">Login</a><a href="#" class="iconSecurity" onclick="openPopup('HelpSecurity.aspx','Security','scrollbars=auto,width=300,height=270')">Security</a></h6>
-      <div style="margin-top: 5px; margin-bottom: 0;">
-         <p style="padding: 0 0 5px 10px; margin: 0;">Member Number<br>
-            <input type="text" name="textMemberNumber" id="textMemberNumber" maxlength="10" length="10" size="15" onfocus="this.select();">
+     <h6>
+<a href="#" class="iconHelp" onclick="openPopup('HelpSecureLogin.aspx','Help','scrollbars=auto,width=300,height=270')">Login</a>
+<a href="#" class="iconSecurity" onclick="openPopup('HelpSecurity.aspx','Security','scrollbars=auto,width=300,height=270')">Security</a>
+</h6>
+      
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="2">Member Number</td>
+  </tr>
+  <tr>
+    <td colspan="2"><input type="text" name="textMemberNumber" id="textMemberNumber" maxlength="10" length="10" size="15" onfocus="this.select();"></td>
+  </tr>
+  <tr>
+    <td colspan="2">Password</td>
+  </tr>
+  <tr>
+    <td><input type="password" name="textPIN" align="absmiddle" id="textPIN" maxlength="20" length="20" size="10" onfocus="this.select();"></td>
+    <td><input name="btnLogin" alt="Login" align="absmiddle" type="image" src="images/blue/buttons/btn_login.gif">
+</td>
+  </tr>
+</tbody></table>
+<p style="padding: 0 0 0 10px;
+margin: 0;
+position: relative;
+top: 0px;
+">
+            <a href="ResetPasswordController.aspx?src=resetpassword" onclick="if(grab('textMemberNumber').value != 'Member Number') {this.href = setQS(this.href, 'membernumber', grab('textMemberNumber').value);}">I forgot my password</a>
          </p>
-         <!-- Changed to size from 15 to 4 per defect 757. Jessica Wong 02/01/05 -->
-         <p style="padding: 0 0 5px 10px; margin: 0;">
-            PIN<br><input type="password" name="textPIN" align="absmiddle" id="textPIN" maxlength="4" length="10" size="4" onfocus="this.select();">&nbsp;&nbsp;&nbsp;&nbsp;<input name="btnLogin" alt="Login" align="absmiddle" type="image" src="images/blue/buttons/login.gif">
-         </p>
-<!-- SRS - moved link -->
          <p style="padding: 0 0 0 10px;
 margin: 0;
 position: relative;
 top: 0px;
 ">
-<!-- SRS moved link -->
-            <a href="ResetPinController.aspx?src=resetpin" onclick="if(grab('textMemberNumber').value != 'Member Number') {this.href = setQS(this.href, 'membernumber', grab('textMemberNumber').value);}">I forgot my PIN</a>
+            <a href="ResetPasswordController.aspx?src=firsttime" onclick="if(grab('textMemberNumber').value != 'Member Number') { this.href = setQS(this.href, 'membernumber', grab('textMemberNumber').value); }">I'm logging in for the first time</a>
          </p>
-         <p style="padding: 0 0 0 10px;
-margin: 0;
-position: relative;
-top: 0px;
-">
-            <a href="ResetPinController.aspx?src=firsttime" onclick="if(grab('textMemberNumber').value != 'Member Number') { this.href = setQS(this.href, 'membernumber', grab('textMemberNumber').value); }">I'm logging in for the first time</a>
-         </p>
-         <input type="hidden" name="hdnDoLogin" id="hdnDoLogin" value="true">
-      </div>
+       <input type="hidden" name="hdnDoLogin" id="hdnDoLogin" value="true"> 
    </div>
+		<input id="fp_browser" type="hidden" name="fp_browser" value=""> 
+		<input id="fp_userlang" type="hidden" name="fp_userlang" value="">
+		<input id="fp_software" type="hidden" name="fp_software" value=""> 
+		<input id="fp_timezone" type="hidden" name="fp_timezone" value="">
+		<input id="fp_lang" type="hidden" name="fp_lang" value=""> 
+		<input id="fp_syslang" type="hidden" name="fp_syslang" value="">
+		<input id="fp_display" type="hidden" name="fp_display" value="">
 </form>
 <!-- Added to focus to the member number per defect 844. Jessica Wong 01/24/05 -->
 <script language="javascript">
@@ -415,9 +777,9 @@ top: 0px;
    <p style="vertical-align: middle;">
       <a href="NCUAandEqualHousing.aspx"><img src="images/page_elements/ncua.gif" alt="NCUA" align="middle"></a> 
       <a href="NCUAandEqualHousing.aspx"><img src="images/page_elements/equal_opportunity.gif" alt="Equal Opportunity Lender" align="middle"></a>
-      <nobr>Copyright © 2006 BCU All rights reserved. 400 N. Lakeview Parkway, Vernon Hills, IL 60061. <!--<a href="PrivacyandSecurity.aspx" style="font-weight: normal; text-decoration:underline; color:#000000; font-size: 11px">Privacy Policy</a>.--></nobr>
+      <nobr>Copyright © 2007 BCU All rights reserved. 400 N. Lakeview Parkway, Vernon Hills, IL 60061. <!--<a href="PrivacyandSecurity.aspx" style="font-weight: normal; text-decoration:underline; color:#000000; font-size: 11px">Privacy Policy</a>.--></nobr>
    </p>
-<p style="text-align: center"><img src="images/page_elements/anniversary.gif"></p>
+<!-- <p style="text-align: center"><img src="images/page_elements/anniversary.gif"></p>-->
 </div>
 
       </div>
