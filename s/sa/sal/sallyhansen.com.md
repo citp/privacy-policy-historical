@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118191142id_/http%3A//www.sallyhansen.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421072136id_/http%3A//www.sallyhansen.com/privacy.cfm) for the most accurate reproduction.*
 
 # Sally Hansen: Privacy Policy
 
