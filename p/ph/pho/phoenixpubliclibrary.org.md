@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the phoenixpubliclibrary.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212065415id_/http%3A//www.phoenixpubliclibrary.org/eprivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixpubliclibrary.org privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422070425id_/http%3A//www.phoenixpubliclibrary.org/eprivacy.jsp) for the most accurate reproduction.*
 
-# Phoenix Public Library - www.phxlib.org
+# Phoenix Public Library - www.phoenixpubliclibrary.org
+
+E-Privacy Statement
 
 **POLICY  
 **Collection, use and control of personal information related to use of the Library's electronic resources and/or use of the Internet on a Phoenix Public Library public computer is handled in accordance with the guidelines outlined below.
@@ -13,9 +15,11 @@
   2. Personally Identifiable Information: The Phoenix Public Library may collect personally identifiable information, such as patron e-mail addresses, names, home or work addresses or telephone numbers. Information collected at one of the Phoenix Public Library web sites may be shared within the Phoenix Public Library family of web sites. 
   3. Email a Friend (Event Calendar): If a patron uses the Phoenix Public Library's "Email a Friend" feature (in the online calendar) none of the requested email addresses will be retained on our web site or used in any way by the Phoenix Public Library, except for the sole purpose of emailing the event information to the supplied email address. 
 
+
+
 _Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through other web sites, chat rooms, online communities or other public online forums, this information may be collected and used by others._
 
-**Use of Personal Information**  
+ **Use of Personal Information**  
 The Phoenix Public Library web sites collect and use patron personal information to operate the Phoenix Public Library web sites and deliver the services that are requested. The Phoenix Public Library does not sell, rent, lease, or otherwise provide its customer lists to third parties.
 
 _Please note that user information may be subject to disclosure under Arizona's Public Records Law except to the extent it contains library user information and is privileged or confidential._
