@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the databasedev.co.uk privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924044409id_/http%3A//www.databasedev.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databasedev.co.uk privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422021747id_/http%3A//www.databasedev.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Microsoft Access Database Solutions & Downloads - Privacy Information
 
