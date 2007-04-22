@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mariosalexandrou.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214230100id_/http%3A//www.mariosalexandrou.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariosalexandrou.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422031114id_/http%3A//www.mariosalexandrou.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+  
+
 
 Marios Alexandrou has a firm commitment to privacy and your privacy is important to me. This statement discloses the information practices for the MariosAlexandrou.com web sites, including what type of information is collected, how the information is used, and with whom the information is shared. 
 
@@ -19,6 +20,8 @@ When you browse through this sites your browser issues HTTP requests for web pag
   * originating IP address
   * referring web page
   * user-agent information
+
+
 
 In general, I do not require users to identify themselves and I do not log the specific identity of visitors. However, to gain access to restricted sections of our sites a visitor is required to provide password information. 
 
@@ -40,11 +43,13 @@ I collect the information mentioned above for web site administration purposes, 
   * to make sure other web sites link to our sites in a proper manner
   * for security purposes
 
+
+
 How I share the collected information with others   
 I do not share or disclose any identifying data to any third party for any purpose. 
 
 How you can access information we have collected about you   
-[Contact me](https://web.archive.org/web/20061214230100id_/http%3A//www.mariosalexandrou.com/contact.asp) to request a copy of the information collected about your visit to this site. 
+[Contact me](https://web.archive.org/web/20070422031114id_/http%3A//www.mariosalexandrou.com/contact.asp) to request a copy of the information collected about your visit to this site. 
 
 How long I store the collected information   
 I store the information I collect indefinitely. 
@@ -55,4 +60,4 @@ Our web sites contain links to other web sites. Marios Alexandrou is not respons
 Security I carefully protect the quality and integrity of your personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Data is stored in password-controlled servers with limited access. 
 
 Contact information   
-If you have any questions about this privacy statement, the practices of this web sites, or your dealings with my web site, you can [contact me](https://web.archive.org/web/20061214230100id_/http%3A//www.mariosalexandrou.com/contact.asp). 
+If you have any questions about this privacy statement, the practices of this web sites, or your dealings with my web site, you can [contact me](https://web.archive.org/web/20070422031114id_/http%3A//www.mariosalexandrou.com/contact.asp). 
