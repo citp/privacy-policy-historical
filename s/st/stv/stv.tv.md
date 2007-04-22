@@ -1,68 +1,70 @@
-> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202195956id_/http%3A//www.stv.tv/system/modules/com.smg.copland/elements/news/popups/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422101252id_/http%3A//www.stv.tv/system/modules/com.smg.copland/elements/news/popups/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # STV-Privacy policy
 
-**Privacy Policy**
+**We are committed to protecting your privacy. You may be asked to submit personal information about yourself in order to receive information or use services on our Website. If you provide information to us, we will treat that information in accordance with this privacy policy. By submitting personal information to us, you are agreeing to use of this information by us as described in this Policy.**
 
-We, Scottish Television Limited & Grampian Television Limited (we or us), are committed to preserving your privacy.  Please read the following privacy policy to understand how we use and protect the information that you provide to us.
+We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been fulfilled or, if you no longer wish to continue being registered for our services.
 
-By registering or subscribing on this the website, [www.stv.tv](http://www.stv.tv/) (“the Website”), or otherwise providing personal information to us, you consent to the collection, storage, use and transfer of your personal information under the terms of this policy.
+We will ensure that all personal information supplied is held securely, and otherwise in accordance with Data Protection legislation.
 
-**Information We Collect From You**
+**The Information We Collect**
 
-We collect information about you: 
+We request very little identifying information from you and only for a narrow set of purposes. Typically, identifying information is collected:   
+· For registration to certain areas of the Website including competitions;   
+· To allow us to consider your comments, queries and suggestions and respond if necessary;   
+· To allow us to respond to your enquiries for further information; and   
+· To distribute requested materials;
 
-  • when you register with us, request services from us or our business partners, enter competitions or otherwise provide us with your personal details (such as your name, address, email address, telephone number(s) etc);
+The type of personal information collected on the Website could include your name, company name, address (including postcode), email address, telephone number (including mobile), user name and password.
 
-• from your usage of the Website and any other information you post on the Website, email or otherwise send to us.
+Sometimes, we may ask questions where you are not personally identifiable from your response although we may post responses on the Website. These instances will be highlighted to you but in all other instances, you should assume that we track any information you provide on a personally identifiable basis.
 
-**Use of Your Information**
+**The Way We Use Information**
 
-We use your information to:
+Users may provide their mobile phone numbers in order to receive relevant SMS text messages regarding offers featured on the Website.
 
-• to enable us to supply you with the goods, services and information which you have requested from us or our business partners;   
-• to analyse the information we collect so that we can administer, support and improve and develop our business and our Website;   
-• to enable us or our business partners and/or Group Companies to contact you in order to send you details of goods and services available from us or through our Website which may be of interest to you but only where you have requested to receive such communications;   
-• to provide you with access to certain parts of our Website;  and   
-• to contact you for your views on our products and services.
+If you register with the Website, you can elect to receive information and updates on our products and services. Information will not be used for this purpose unless you request to receive communications. We use return email addresses to answer any emails that we receive, and we may use return email addresses to send to other information that you may request. Such addresses are not used for any other purpose.
 
-We may contact you by post, telephone, fax or SMS as well as by e-mail.  If you change your mind about being contacted in the future by any of these means then please let us know.  Our contact details appear at the end of this policy.
+We may use information that you provide to better design the Website and to improve our marketing strategy and our products. We collect IP Addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from this Website, our servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us.
 
-**Disclosure Of Your Information**
+We may pass your personal information to one of our Group Companies who may send you details of services that may be of interest to you and offer you the opportunity to subscribe to them. If you would prefer not to receive this information, please send an email to [ecommerce@stv.tv](mailto:ecommerce@stv.tv). Your personal information will not be supplied to any other persons without first obtaining your consent unless we are obliged by law to disclose it.
 
-The information you provide to us will be treated as confidential.  However, we may disclose your information to other third parties who act for us and to our business partners for the purposes set out in the policy or for purposes approved by you.
-
-Where you have consented in providing us with your details we may also allow carefully selected third parties to contact you occasionally about products and services which may be of interest to you.  They may contact you by post, telephone or fax as well as by e-mail.  If you change your mind about being contacted by these selected third parties in the future by any of these means please let us know.
-
-In addition, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
-
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
-
-**Cookies**
-
-A “cookie” is a piece of software that attaches to the hard drive of your computer and remembers information about the configuration of your computer.
-
-We use this information to track your movements through our Website, to find out how it is being used and to assess its usefulness.  Personal information about you is not collected during the tracking process.
-
-You can disable the cookies that we attach if your browser supports this.  For further information on how to do this, please refer to [www.about-cookies.org](http://www.about-cookies.org/) .  However, you should bear in mind that if you exercise this option, you may be unable to use some of our on-line services.
+By using the Website, you consent to the collection and use of this information by us and the Group Companies in the manner described above.
 
 **Third Party Websites**
 
-Because we want your experience of our Website to be as informative and useful as possible, we provide a number of links to Third Party Websites.  Please be aware that we do not control such Third Party Websites and that such Third Party Websites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information gathering practices of Third Party Websites that you are able to access through our Website, and we encourage you to review each Third Party Website's privacy policy before disclosing any personally identifiable information.
+Because we want your experience of the Website to be as informative and useful as possible, we provide a number of links to Third Party Websites. Always be aware of where you end up. Third Party Websites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information gathering practices of websites that you are able to access through ours, and we encourage you to review each website's privacy policy before disclosing any personally identifiable information.
 
 **Our Commitment to Data Security**
 
-We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect.
+We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk.
 
-Please help us keep our records up-to-date by informing us of any changes to your email address and other contact details.   
-Changes in Our Policy
+**Access to Information/ Delete/Unsubscribe**
 
-We reserve the right to amend this policy from time to time. If we make substantial changes to our policy we will notify you by posting a prominent notice on our Website.
+You have the right to access any personal information that you have submitted to us through the Website. We give you the following options for managing or removing your information from our database:   
+1\. Send us an email: at website@scottishtv.co.uk . Be sure to include your name and clear instructions on what you would like us to do.   
+2\. Write to us at: Website Manager, STV Central Limited, STV Pacific Quay, Glasgow, G51 1PQ. Be sure to include your name and clear instructions on what you would like us to do.
 
-**Your rights**
+If you require us to supply you with details of the personal information that we hold about you, then a small charge will be made.
 
-You have the right to ask for a copy the personal information that we hold about you, in return for which we may charge a small fee.  You also have the right to require us to correct any inaccuracies in your information.
+**Changes in Our Policy**
+
+We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. We encourage you to visit this area frequently so as to stay informed. If there is any material change in the type of personal information we collect, we will obtain your permission before we attempt to collect the additional information. We will not make any changes that allow us to give personal information to any other person without obtaining permission from you first.
+
+**Your Consent to this Privacy Policy**
+
+By using the Website, you are accepting our Privacy Policy. If you do not agree with any term in this Policy, please do not use the Website or submit any personal information.
 
 **How to Contact Us**
 
-If you have any queries concerning your personal information or any questions or concerns about this policy or the use of your personal information, please e-mail us at [website@smg.tv](mailto:website@smg.tv).
+Should you have any questions or concerns about this Privacy Policy or the use of information, please e-mail us at [ecommerce@stv.tv](mailto:ecommerce@stv.tv)
+
+Please note: The laws and regulations in different countries impose different (and even conflicting) requirements on the Internet and data protection. We are located in Scotland in the UK, as are the servers that make this site available worldwide. Scots law governs all matters relating to this site. If you are located outside the UK and you contact us please note that any information you provide will be transferred to the UK and by submitting the information you authorise this transfer.
+
+**Legal Information - STV Central Limited, STV North Limited**
+
+Registered in Scotland No: 172149   
+Registered Address: Pacific Quay, Glasgow, G51 1PQ   
+Data Protection Registration No: Z651679X   
+VAT Registration No: GB 612 4395 58
