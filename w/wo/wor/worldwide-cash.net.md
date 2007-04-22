@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwide-cash.net privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017083911id_/http%3A//worldwide-cash.net/pages/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwide-cash.net privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422234613id_/http%3A//www.worldwide-cash.net/pages/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # :: World Wide Cash .net :: Get Paid To Read, Click, Refer, Signup, and much more! :: No Minimum payout! Directly paid on e-gold!
 
@@ -24,9 +24,9 @@ We do not collect online contact information without prior parental consent or p
 
   
 **Choice/Opt-Out:  
-** WorldWide-Cash.net provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. WorldWide-Cash.net gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](https://web.archive.org/pages/contact.php) and request your membership to be canceled at anytime.   
+** WorldWide-Cash.net provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. WorldWide-Cash.net gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](http://www.worldwide-cash.net/pages/contact.php) and request your membership to be canceled at anytime.   
   
 **Correct/Update:  
 **
 
-WorldWide-Cash.net gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with WorldWide-Cash.net, you can [Contact Us](https://web.archive.org/pages/contact.php). 
+WorldWide-Cash.net gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with WorldWide-Cash.net, you can [Contact Us](http://www.worldwide-cash.net/pages/contact.php). 
