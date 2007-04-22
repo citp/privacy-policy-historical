@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115234020id_/http%3A//www.newdirectionsaromatics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422222028id_/http%3A//www.newdirectionsaromatics.com/privacy.php) for the most accurate reproduction.*
 
 # New Directions Aromatics
 
