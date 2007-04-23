@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetell.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207102145id_/http%3A//www.gadgetell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetell.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423181525id_/http%3A//www.gadgetell.com/privacy) for the most accurate reproduction.*
 
 # Gadgetell
 
@@ -30,7 +30,7 @@ If we decide to change our privacy policy, you will be able to find the updated 
 
 **Contact**
 
-If you read through our privacy policy and have any questions regarding it, you may contact us in the follow ways: send an email to comments@dabbledoo.com or snail mail at Dabbledoo Media, P.O. Box 4323, Chesterfield, MO 63006. 
+If you read through our privacy policy and have any questions regarding it, you may contact us in the follow ways: send an email to comments@dabbledoo.com or snail mail at Dabbledoo Media, P.O. Box 4323, Chesterfield, MO 63006.
 
   
 
