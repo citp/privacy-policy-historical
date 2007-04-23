@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216162813id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423141845id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # POP ART UK: Privacy Policy
 
@@ -18,10 +18,11 @@ If you have any questions or require clarification, please [contact us](https://
 This is the web site of **PopArtUK Limited**. Our postal address is: 
 
 **PopArtUK Ltd  
-43 Bull Street  
+Unit B, Nelson Square  
+Heath Drive,  
 Holt  
 Norfolk  
-NR25 6HP  
+NR25 6ER  
 United Kingdom**
 
 We can be reached via e-mail at [contact@popartuk.com](mailto:contact@popartuk.com) or by phone on 01263 713 417 (UK) / 0044 1263 713 417 (outside UK) 
