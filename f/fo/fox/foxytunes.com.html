@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foxytunes.com privacy policy that was archived on 2006-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215001758id_/http%3A//www.foxytunes.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxytunes.com privacy policy that was archived on 2007-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070423110949id_/http%3A//www.foxytunes.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
@@ -11,61 +11,86 @@
 <meta name="Generator" content="Vim 6.2 (GVim)">
 <meta name="Copyright" content="FoxyTunes (c) 2004-2006">
 
-<link rel="stylesheet" type="text/css" href="/styles/main.v2.css">
-<link rel="stylesheet" type="text/css" href="/styles/foxytunes.v2.css">
-<!--[if gt IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/styles/ie7.css"><![endif]-->
+<link rel="stylesheet" type="text/css" href="http://static.foxytunes.com/l/styles/main.v2.css">
+<link rel="stylesheet" type="text/css" href="http://static.foxytunes.com/l/styles/foxytunes.v2.css">
+<!--[if gt IE 6]><link rel="stylesheet" type="text/css" media="screen" href="http://static.foxytunes.com/l/styles/ie7.css"><![endif]-->
 
 <link rel="alternate" type="application/rss+xml" title="FoxyTunes Blog RSS Feed" href="http://blog.foxytunes.com/feed/">
 
 
 <link rel="SHORTCUT ICON" href="/favicon.ico"> 
 <link rel="icon" type="image/x-icon" href="/favicon.ico"> 
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch-plugin.php" title="FoxyTunes Planet">
 
-<script src="/js/main.js" type="text/javascript" language="JavaScript"></script>
+
+<script src="http://static.foxytunes.com/l/js/main.js" type="text/javascript" language="JavaScript"></script>
 
 </head>
 <body>
 <a name="top"></a>
-<div id="pagewrapper">
+
 
 <div class="top-navigation clearfix">
 
-<div id="logo">
-<a class="img" href="/"><img src="/images/logo.gif" width="158" height="31" alt="FoxyTunes" title="Go to home page"></a>
+<div style="float:right">
+    <a class="navigation-link" href="/spread-the-word">spread the word</a>
+    <span class="sep">|</span>
+    <a class="navigation-link" href="/help/">help</a>
+    <span class="sep">|</span>
+    <a class="navigation-link" href="http://forums.foxytunes.com">forums</a>
+    <span class="sep">|</span>
+    <a class="navigation-link" href="http://blog.foxytunes.com">blog</a>
+    <a class="img" href="http://blog.foxytunes.com/feed/"><img border="0" src="http://static.foxytunes.com/l/images/feed-icon-12x12.png" width="12" height="12" alt="Subscribe to RSS" align="bottom"></a>
 </div>
 
-<a class="navigation-link" href="/">home</a>
-<span class="sep">|</span>
-<a class="navigation-link" href="http://forums.foxytunes.com">forums</a>
-<span class="sep">|</span>
-<a class="navigation-link" href="http://blog.foxytunes.com">blog</a>
-<a class="img" href="http://blog.foxytunes.com/feed/"><img border="0" src="/images/feed-icon-12x12.png" width="12" height="12" alt="Subscribe to RSS" align="bottom"></a>
+<div class="topNavLeftPanel">
+    <div id="logo">
+                <a class="img" href="/"><img src="http://static.foxytunes.com/l/images/logo-music-tools-smaller.gif" width="149" height="46" alt="FoxyTunes" title="Go to home page"></a>
+        
+    </div>
+  
+    <span id="topNavMainButtons" class=""> 
+              
+       <span id="topNavPlanetButton"><span><a style="margin-left: 2em;padding-bottom:5px" class="img" href="/planet"><img width="16" height="16" alt="" src="http://static.foxytunes.com/l/images/foxytunes-planet-icon-head.gif"></a></span><span class="topNavButton "><a style="margin-left: 3px" href="/planet"><span>Planet</span></a> </span></span>
 
-<div id="tabs" class="clearfix">
-  <ul>
-    <li class=""><a href="http://www.foxytunes.com/"><span>Home</span></a> </li>
-    <li class=""><a href="/download/"><span>Download</span></a> </li>
-    <li class=""><a href="/screenshots/"><span>Screenshots</span></a> </li>
-    <li class=""><a href="/spreadFoxyTunes.html"><span>Share</span></a> </li>
-    <li class=""><a href="http://blog.foxytunes.com"><span>Blog</span></a> </li>
-    <li class=""><a href="/help/"><span>Help</span></a> </li>
-  </ul>
+       <span class="sep">|</span>
+       <span class="topNavButton "><a href="/download/"><span>Download</span></a> </span>
+       <span class="sep">|</span>
+       <span class="topNavButton "><a href="/screenshots/"><span>Screenshots</span></a> </span>
+       <span class="sep">|</span>
+       <span class="topNavButton "><a href="http://blog.foxytunes.com"><span>Blog</span></a> </span>
+    </span>
 </div>
-</div>
+
+</div> 
+
+<div id="pagewrapper">
 <script type="text/javascript" language="JavaScript">
 <!--
 
 function installExtension(aEvent, name, iconURL) {
+   var host = window.location.hostname;
+   host = host.replace(/^www\./, '');
+   var staticHost = 'static.' + 	host;
+
+   try {
+	   if (tt_Hide) tt_Hide(); // hide install hint tooltip
+   } catch(e) {}
+
    if (!name) {
         name = "FoxyTunes";
    }
 
    if (!iconURL) {
-        iconURL = '/firefox/images/logo.png';
+        iconURL = 'http://' + staticHost + '/l/firefox/images/logo.png';
    }
 
    var extensionParams = new Object();
    extensionParams.URL = aEvent.target.href;
+   if (!extensionParams.URL) {
+       // the triggering elem can be an image
+       extensionParams.URL = aEvent.target.parentNode.href;
+   }
    extensionParams.IconURL = iconURL;
    extensionParams.toString = function () { return this.URL; }
 
@@ -74,15 +99,17 @@ function installExtension(aEvent, name, iconURL) {
 
    var res = InstallTrigger.install(params);
    if (!res) { 
-	alert("If you see an error bar at the top of your browser, follow these instructions:\n" +
-		"1. Click the \"Edit Options...\" button on the error bar.\n" + 
-		"2. Click the \"Allow\" button in the dialog box that appears.\n" + 
-		"3. Click \"OK\" to confirm and close the dialog box.\n" + 
-		"Now you can install extensions from this site.\n" +
-		"Click the install link again to install the extension.\n\n" +
-		"If you don't see the error bar, please make sure you have enabled \n" + 
-		"extension installation from Web sites in the \"Options\" dialog."
- 		);
+        var installHelpElem = document.getElementById('firefox-install-help');
+        if (!installHelpElem) {
+             installHelpElem = document.createElement('div');
+             installHelpElem.id = 'firefox-install-help';
+             installHelpElem.setAttribute('style', "display:none; position:fixed;top:0;right:0px;background:InfoBackground;border: 1px solid #9D9DA1; border-width: 0 0 1px 1px;  -moz-border-radius-bottomleft:10px;");
+             installHelpElem.innerHTML = '<img style="cursor:not-allowed" alt="" width="670" height="101" src="http://' + staticHost + '/l/images/firefox-install-help.png"><a style="position: absolute; right:5px;bottom:2px;border:none;background:none;color:#888;font-size:0.8em;border-bottom:1px solid #ddd;line-height:0.9em" href="#" onclick="this.parentNode.style.display = \'none\'; return false">close</a>';
+            document.getElementsByTagName('body')[0].appendChild(installHelpElem); 
+        }
+        if (installHelpElem) {
+            setTimeout(function() { installHelpElem.style.display = 'block'; }, 500);
+        }
    }
 
    return false;
@@ -135,25 +162,31 @@ If you have any comments or questions about our privacy policy please <a href="h
 
 
 </p></div>
+</div>  <!-- pagewrapper -->
+
 <br clear="all">
 <div id="end-of-content-marker"></div>
-<div id="footer">
+<div id="footer" class="clearfix">
 
-<div class="bottom-navigation">
-<a href="#top">top</a> 
-| <span class="copyright">© 2004-2006 FoxyTunes</span>
-| <a href="/legal.html">terms of use</a>
-| <a href="/privacy.html">privacy policy</a>
-| <a href="/about/aboutus.html">about</a>
-| <a href="/contact.html">contact</a>
-| <a class="navigation-link" href="/inthepress.html">press</a>
-| <a class="navigation-link" href="http://blog.foxytunes.com">blog</a>
-<a class="img" href="http://blog.foxytunes.com/feed/"><img border="0" src="/images/feed-icon-12x12.png" width="12" height="12" alt="Subscribe to RSS" align="bottom"></a>
+<span class="copyright">© 2004-2007 FoxyTunes</span>
 
- </div>
+<span class="bottom-navigation">
+<a href="/legal.html">terms of use</a>
+<span class="sep">|</span>
+<a href="/privacy.html">privacy policy</a>
+<span class="sep">|</span>
+<a href="/about/aboutus.html">about</a>
+<span class="sep">|</span>
+<a href="/contact.html">contact</a>
+<span class="sep">|</span>
+<a class="navigation-link" href="/inthepress.html">press</a>
+<span class="sep">|</span>
+<a class="navigation-link" href="http://blog.foxytunes.com">blog</a>
+<a class="img" href="http://blog.foxytunes.com/feed/"><img border="0" src="http://static.foxytunes.com/l/images/feed-icon-12x12.png" width="12" height="12" alt="Subscribe to RSS" align="bottom"></a>
+
+</span>
 
 </div> <!-- footer -->
-</div> <!-- pagewrapper -->
 
 
 
