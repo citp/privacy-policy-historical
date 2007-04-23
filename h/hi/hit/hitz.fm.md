@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113141621id_/http%3A//www.hitz.fm/05/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423152450id_/http%3A//www.hitz.fm/05/home/privacy.asp) for the most accurate reproduction.*
 
 # www.hitz.fm :: Malaysia's No.1 Hit Station::
 
