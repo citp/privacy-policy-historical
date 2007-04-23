@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haier.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102063921id_/http%3A//haier.com/others/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haier.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423123234id_/http%3A//www.haier.com/others/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
