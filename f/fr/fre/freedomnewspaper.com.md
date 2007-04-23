@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomnewspaper.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213182729id_/http%3A//freedomnewspaper.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomnewspaper.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423140915id_/http%3A//www.freedomnewspaper.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Welcome to Freedom Newspaper Online
 
