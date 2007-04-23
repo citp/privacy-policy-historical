@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationworld.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207175724id_/http%3A//www.educationworld.com/help/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationworld.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423103936id_/http%3A//www.educationworld.com/help/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Education World ® Help Center: Privacy Policy
 
