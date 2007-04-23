@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231233037id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423044849id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -28,11 +28,11 @@ For questions regarding this privacy statement or the practises of this site, pl
   
    
   
-[](http://www.ofree.net/search.html?what=christmas)
+[](http://www.ofree.net/go/go.asp?lf3q3mntfh)
 
-**Free $500 Toys燃廼s, K稗 Toys, Target or JCPenney Gift Card !**
+**Free $500 Dining Gift Card !**
 
-Happy Holidays!
+Carrabba's, Macaroni Grill, P.F. Chang’s…hungry yet?
 
 **or**  
 Subscribe to Our  
@@ -40,14 +40,14 @@ Subscribe to Our
 
 and Get Your Freebies Faster and More Reliably! 
 
-**Free $500 Christmas Dinner Gift Certificate !**
+**Free College Information !**
 
-Nothing could make the holidays more special!
+Make more money, earn your degree online !
 
-**Happy New Year - it will be with a free $500 Visa Gift Card!**
+**Free Apple iPhone**
 
-HOT Freebies !
+Surf the Web, download TV shows or call up your friends
 
-**Free $500 Yankee Candle Gift Card !**
+**Free Swiffer Sweeper**
 
-Give your home a feeling of comfort, freshness or nostalgia!
+you’ll never want to clean your floors any other way
