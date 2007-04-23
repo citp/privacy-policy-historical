@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210151502id_/http%3A//www.myfantasyleague.com/policies.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423125559id_/http%3A//www.myfantasyleague.com/policies.htm%23privacy) for the most accurate reproduction.*
 
 # MyFantasyLeague Fantasy Football League Management - Our Policies
 
@@ -39,4 +39,4 @@ Finally, we never use or share the personally identifiable information provided 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
   
 **How To Contact Us:**  
-  | Should you have other questions or concerns about these privacy policies, please fill our our [support form](http://football8.myfantasyleague.com/2006/support). 
+  | Should you have other questions or concerns about these privacy policies, please fill our our [support form](http://football8.myfantasyleague.com/2007/support). 
