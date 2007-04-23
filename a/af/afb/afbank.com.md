@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021192310id_/http%3A//afbank.com/site_help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423075239id_/http%3A//www.afbank.com/security/privacy.cfm) for the most accurate reproduction.*
 
-# Armed Forces Bank || Privacy Policy
+# Armed Forces Bank, N.A. || Privacy Policy Statement
+
+| 
+
+Privacy Policy Statement
+
+Protecting your financial and personal privacy is important to us!
 
 Our policy is to protect personal or financial information which comes into our possession during the normal course of business. The following privacy guidelines serve as standards our employees will use when collecting, using, and maintaining your personal information. 
 
@@ -55,16 +61,20 @@ We recognize and respect your privacy expectations. We want you to understand ou
 
 9\. PRIVACY INFORMATION SPECIFIC TO INTERNET USAGE 
 
-  1. When you visit our web site (www.afbank.com, www.academybankco. com, www.afbca.com), we want to assure you that we adhere to this Privacy Policy.
+  1. When you visit our web site (www.afbank.com, www.academybankco.com, www.afbca.com), we want to assure you that we adhere to this Privacy Policy.
   2. We collect and store information about "hits" on our web site for internal review purposes only. Such information may include the name of the domain from which you access the Internet (such as AOL.com or ATT.net), the date and time you access our site, and the Internet address of the web site from which you linked to us. This information enables us to see how you use our web site and keep our web site user-friendly.
   3. Our web site may require you disclose any personally identifying information. If you do provide personal information, such as your mailing and e-mail address, telephone and fax numbers, or demographic and customer identification, we will not disclose (share, sell, or divulge) it except:
     * In order to complete a transaction initiated by you
     * At your request
     * In response to legal process (for example, a subpoena that complies with applicable right to financial privacy laws)
     * To persons who provide us with products or services that help us furnish banking services to you (for example, check printers, appraisers, loan processors, etc.)
+  
+
   4. In order to provide better service, we will occasionally use a "cookie." A cookie is a small piece of information, which a web site stores on your PC for later retrieval. The cookie cannot be read by a web site other than the one that set the cookie. We use cookies for a number of administrative purposes, for example, to store preferences for certain kinds of information or to store a password so that it does not have to be input for every visit someone makes to our site. Most cookies last only through a single session, or visit. None will contain information that will enable anyone to contact the visitor via telephone, e-mail, orregular mail. In addition, web browsers can be set to inform the visitor when cookies are set or to prevent cookies from being set.
   5. We do not knowingly solicit information from children and we do not market specifically to children. We recognize that protecting children's identities and privacy on-line is important and that the responsibility to do so rests with parents and the on-line industry.
   6. Internet connections can be insecure and may provide the opportunity for the unauthorized interception, diversion, access or disclosure of your private information. Computers are regularly subjected to attacks by third-parties attempting to obtain unauthorized access to your private information through malicious software, malware, spyware or other electronic means. You are responsible for maintaining protection against unauthorized third-party access to your private information stored on or transmitted to and from your computer. Except as otherwise provided in the Account Terms and Conditions we are not responsible for any loss, financial loss, injury or damage, whether direct or indirect, special or consequential, arising in any way out of the installation, use or maintenance of your PC, electronic device or related software, including without limitation the use of any information obtained by a third-party from your PC by any means including that obtained by the use of any malicious computer code or program.
+
+
 
 DISCLOSURES
 
@@ -88,19 +98,4 @@ THANK YOU FOR BANKING WITH US!
 
 We understand how important your privacy is. We value the trust you place in us and will keep your personal and financial information confidential. 
 
-  [Security Tips](https://web.archive.org/web/20061021192310id_/http%3A//afbank.com/security/tips.cfm)
-
-|    [Display, Print and Web Browsers](https://web.archive.org/web/20061021192310id_/http%3A//afbank.com/site_help/index.cfm)  
-  
-  [Security](http://afbank.com/security/)  
-  
-  [Frequently Asked Questions](https://web.archive.org/web/20061021192310id_/http%3A//afbank.com/site_help/faq.cfm)
-
-To contact us about lost or stolen information, or suspected fraudulent activity, you can contact us 7 days a week, 24 hours a day.
-
-| Phone: |  | 1-888-929-2265  
----|---|---  
-Online: |  | [Customer Support Form](https://secure.webcreate.com/clients/13/support.cfm)  
-Write: |  | Armed Forces Bank, N.A.  
-320 Kansas Avenue  
-Fort Leavenworth, KS 66027
+| 
