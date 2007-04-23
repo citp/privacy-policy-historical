@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113151536id_/http%3A//solveyourproblem.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423161152id_/http%3A//www.solveyourproblem.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - SolveYourProblem.com
 
