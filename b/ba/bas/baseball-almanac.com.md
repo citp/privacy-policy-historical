@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseball-almanac.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211163139id_/http%3A//www.baseball-almanac.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseball-almanac.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423205449id_/http%3A//www.baseball-almanac.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Baseball Almanac Privacy Policy
 
@@ -25,7 +25,7 @@ Baseball Almanac, Inc. takes your privacy seriously. Please read the following t
 
 **Collection of Information**
 
-  * Baseball Almanac, Inc. collects personal information when you register with [Baseball Fever](http://www.baseball-fever.com/), when you register for our [newsletter](https://web.archive.org/web/20061211163139id_/http%3A//www.baseball-almanac.com/mlmstart.shtml), and when you buy a download or financially support our efforts to preserve the history of our national pastime. Baseball Almanac, Inc. does not combine information about you with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register and sign in to our services, you are not anonymous to us.
+  * Baseball Almanac, Inc. collects personal information when you register with [Baseball Fever](http://www.baseball-fever.com/), when you register for our [newsletter](https://web.archive.org/web/20070423205449id_/http%3A//www.baseball-almanac.com/mlmstart.shtml), and when you buy a download or financially support our efforts to preserve the history of our national pastime. Baseball Almanac, Inc. does not combine information about you with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register and sign in to our services, you are not anonymous to us.
 
   * Baseball Almanac, Inc., via our site host, receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you requested.
 
@@ -73,7 +73,7 @@ Baseball Almanac, Inc. takes your privacy seriously. Please read the following t
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please visit our [feedback page](https://web.archive.org/web/20061211163139id_/http%3A//www.baseball-almanac.com/feedmenu.shtml) or you can contact us at:
+  * If you have questions or suggestions, please visit our [feedback page](https://web.archive.org/web/20070423205449id_/http%3A//www.baseball-almanac.com/feedmenu.shtml) or you can contact us at:
 
 
 
@@ -92,7 +92,7 @@ Effective Date: April 1, 2005
 ---|---|---  
 | 
 
-The Baseball Almanac, Inc. privacy policy includes our very popular [newsletter](https://web.archive.org/web/20061211163139id_/http%3A//www.baseball-almanac.com/mlmstart.shtml) which contains your personal email - that information will never be shared with a third party.
+The Baseball Almanac, Inc. privacy policy includes our very popular [newsletter](https://web.archive.org/web/20070423205449id_/http%3A//www.baseball-almanac.com/mlmstart.shtml) which contains your personal email - that information will never be shared with a third party.
 
 Usenet newsgroups, spiders and robots may retrieve your public / viewable username; however, our [forums](http://www.baseball-fever.com/) are safe and your identity is encrypted on the server as well as your IP address.
 
