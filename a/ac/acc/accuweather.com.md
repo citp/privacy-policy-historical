@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accuweather.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205255id_/http%3A//wwwa.accuweather.com/privacy.asp%3Fpartner%3Daccuweather%26traveler%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuweather.com privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424150554id_/http%3A//wwwa.accuweather.com/privacy.asp%3Fpartner%3Daccuweather%26traveler%3D0) for the most accurate reproduction.*
 
-# ADC 2006
+# AccuWeather.com
 
 * **What We Collect About You.** AccuWeather collects information on this site during the registration process for business purposes that will allow us to better and more efficiently serve you. Our personalization, interactive communications, online commerce and other types of services, allow us to deliver better service and content that is relevant to our Subscriber base. Some uses AccuWeather makes of this information are processing and verifying subscriptions, billing, and providing you with up-to-date information on the newest AccuWeather Products. 
 
