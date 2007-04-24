@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230061639id_/http%3A//www.sjcd.edu/files/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424112224id_/http%3A//www.sjcd.edu/files/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy for San Jacinto College Website
 
