@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214113941id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424150618id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Policy
 
@@ -88,7 +88,11 @@ ThomasNet reserves the right to change this policy as required. Users who have s
 
 **CONTACTING THOMASNET**
 
-If you have any questions regarding this policy please contact us via e-mail or by mail at: Privacy   
+If you have any questions regarding this policy please contact us via e-mail by clicking [here](https://web.archive.org/contact-privacy.html)
+
+Or write to us at: 
+
+Privacy Manager  
 ThomasNet  
 Thomas Industrial Network, Inc.   
 5 Penn Plaza  
