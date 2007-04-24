@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the goodhousekeeping.co.uk privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009022249id_/http%3A//goodhousekeeping.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodhousekeeping.co.uk privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424193902id_/http%3A//www.goodhousekeeping.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
 
 # Good Housekeeping :: Privacy Statement
-
-### Search the site
-
-###### 
-
-### Get GH every month
-
-[](http://www.qualitymagazines.co.uk/gh/ob44)
-
-### Subscribe today  
-£6.55 per quarter
 
   
 
@@ -33,4 +22,4 @@ Data Protection: The National Magazine Company and our sponsors and promoters ma
 
 Please leave the Site and its Service now if you don't agree to our privacy terms.
 
-###### See our full [Terms and Conditions](http://www.goodhousekeeping.co.uk/index.php?module=roles&func=terms).
+#### See our full [Terms and Conditions](http://www.goodhousekeeping.co.uk/index.php?module=roles&func=terms).
