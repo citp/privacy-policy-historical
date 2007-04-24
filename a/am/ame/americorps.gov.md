@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019022309id_/http%3A//www.americorps.gov/home/privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425011859id_/http%3A//www.americorps.gov/home/privacy_policy/index.asp) for the most accurate reproduction.*
 
 # AmeriCorps
 
