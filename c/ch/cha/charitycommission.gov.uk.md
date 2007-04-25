@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213231504id_/http%3A//www.charitycommission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425123903id_/http%3A//www.charitycommission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
 
 # COPYRIGHT STATEMENT
 
 ## © Crown copyright 2003
 
 The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than the Register of Charities, the Royal Arms or departmental logos) may be reproduced free of charge in any format or medium provided it is reproduced accurately and not used in a misleading context. Where any of the Crown copyright items on this site are being republished or copied to others, the source of the material must be identified and the copyright status acknowledged. The permission to reproduce Crown protected material does not extend to any material on this site which is identified as being the copyright of a third party. Authorisation to reproduce such material must be obtained from the copyright holders concerned. The Charity Commission encourages users to establish hypertext links to this site. 
+
+The departmental logos are registered as Trademarks. Authority for their use should be obtained from us. Enquiries should be made in writing to Charity Commission Direct, PO Box 1227, Liverpool, L69 3UG or by [email](mailto:enquiries@charitycommission.gsi.gov.uk "enquiries@charitycommission.gsi.gov.uk").
 
 ## Database right statement for the Register of Charities
 
@@ -18,7 +20,7 @@ Crown database right 2001. The Central Register of Charities ("The Register") is
 
 3\. download all or a substantial part of the contents of the Register containing factual information of any description for any purpose which does not involve making all or a substantial part of those contents available to the public by any means.
 
-These are the permitted uses. Any other proposed use of the Register and its contents would require a licence from HMSO. You can apply for a licence to the Licensing Division of HMSO, St Clements House, 2 - 16 Colegate, Norwich NR3 1BQ, Fax 01603 723000 or [e-mail](mailto:hmsolicensing@cabinet-office.x.gsi.gov.uk). The grant of a licence will be considered by HMSO in consultation with the Charity Commission.
+These are the permitted uses. Any other proposed use of the Register and its contents would require a licence from HMSO. You can apply for a licence to the Licensing Division of HMSO, St Clements House, 2 - 16 Colegate, Norwich NR3 1BQ, Fax 01603 723000 or [email](mailto:hmsolicensing@cabinet-office.x.gsi.gov.uk). The grant of a licence will be considered by HMSO in consultation with the Charity Commission.
 
 The Commission has a statutory obligation to permit the inspection by any member of the public of the information entered on the Register, and to provide, on request, and on payment of any prescribed charge, copies of entries on the Register. The Commission also has a statutory obligation to permit such inspection of the accounts and reports which are sent to it, and of the trusts of charities which are entered on the register. Again, it has to provide copies on request, and on payment of any prescribed charge.
 
@@ -87,7 +89,7 @@ We will be unable to display certain pages such as the Welsh version of our site
 
 **What are Cookies?**
 
-Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and [accessibility options](https://web.archive.org/web/20061213231504id_/http%3A//www.charitycommission.gov.uk/access.asp) . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk 
+Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and [accessibility options](https://web.archive.org/web/20070425123903id_/http%3A//www.charitycommission.gov.uk/access.asp) . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk 
 
 **Log files**
 
