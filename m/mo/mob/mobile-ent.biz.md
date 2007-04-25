@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020130426id_/http%3A//mobile-ent.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426003537id_/http%3A//www.mobile-ent.biz/privacy.php) for the most accurate reproduction.*
 
-# Mobile Entertainment: Privacy and Cookies
+# Privacy and Cookies : Mobile Entertainment
 
 The purpose of this page is to inform you on every aspect of our Privacy Policy with respect to our data gathering.
 
