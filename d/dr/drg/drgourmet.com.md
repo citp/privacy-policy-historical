@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030161459id_/http%3A//drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425173455id_/http%3A//www.drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
 
 # Dr. Gourmet : Privacy Policy
 
@@ -13,3 +13,6 @@ You are certainly free to opt-out of participation of any disclosure of your inf
 In short, we will never share your information with anyone without your advance written permission.
 
 Last updated: 02/02/06
+
+|   
+
