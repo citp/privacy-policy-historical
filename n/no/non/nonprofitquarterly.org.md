@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113032134id_/http%3A//www.nonprofitquarterly.org/section/797.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425162406id_/http%3A//www.nonprofitquarterly.org/section/797.html) for the most accurate reproduction.*
 
 # NPQ - Contact Us - Web Site Feedback - Privacy Policy
 
