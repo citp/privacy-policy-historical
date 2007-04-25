@@ -1,0 +1,344 @@
+<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2007-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070425172946id_/http%3A//www.panpacific.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+
+
+<title>Pan Pacific Hotels - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Source" content="Pan Pacific">
+<meta name="DC.Rights" content="Copyright (c) 2007 by Pan Pacific">
+
+<script type="text/javascript" src="/jasmine3.0/scripts/popup.js"></script>
+<link href="/application/css/screen.css" rel="stylesheet" type="text/css">
+<link href="/application/css/structure_2cols.css" rel="stylesheet" type="text/css">
+<meta name="KEYWORDS" content="Pan Pacific Hotels Privacy Policy, ">
+<meta name="DESCRIPTION" content="Pan Pacific Hotels and Resorts (PPHR) is committed to ensuring your personal information is protected. PPHR understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy Statement will explain how we go about treating your personal information.
+In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g."><meta name="Content-Management" content="Jasmine WebSuite, Copyright (c) 2006 by MediaConcepts, www.mediaconcepts.com"><style>
+/*
+ * Structual rules for CONTENTLEFT
+ */
+#contentLeft {
+width: 928px;
+}
+
+/*
+ * Structual rules for CONTENTCENTER
+ */
+#contentCenter {
+width: 0;
+}
+
+
+/*
+ * Structual rules for CONTENTRIGHT
+ */
+#contentRight {
+width: 0;
+}
+
+div.main_content {
+width:740px;
+padding-bottom:20px;
+}
+</style>
+<meta name="verify-v1" content="Bw0CeOiqOeifkpkkf3tY0oTd7xKhwR7iEIsjtQTyVLI=">
+<link href="/jasmine3.0/css/common.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/jasmine3.0/scripts/jsonrpc.js"></script>
+<script type="text/javascript">
+   try {
+		jsonrpc = new JSONRpcClient("/JSON-RPC");
+        //Secure_jsonrpc = new JSONRpcClient("https://panpac/JSON-RPC");
+		}
+	catch(e) {}	
+</script>
+
+<script type="text/javascript">
+	AvailableLanguages = {'en' : 'English','jp' : 'Japanese'}
+	</script>
+<script type="text/javascript" src="/jasmine3.0/scripts/LanguageManager.js"></script>
+<script type="text/javascript">var lang = new LanguageManager();</script>
+</head>
+<body>
+<div id="template_xxxx">
+	<div id="overDiv" style="position:absolute; visibility:hide;z-index:1;"></div>
+		
+<script type="text/javascript" src="/jasmine3.0/scripts/RightClick.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/overlib/overlib.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/overlib/overlib_hideform.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/overlib/overlib_shadow.js"></script>
+<div id="containerTop"></div>
+<div id="container">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="border-collapse: collapse" id="tableFrame">
+    <thead>
+      <tr>
+        <td colspan="3" valign="top" align="left" class="header"><div id="header"><div id="pp_logo" class="pp_logo">
+  <a href="/"><img src="/media/en/images/Website/Images/logo_panpac.gif" border="0"></a>
+</div><!--<div id="NotLoggedIn" class="pp_login" style="padding-top:7px;display:block">
+  
+</div>
+
+<div id="LoggedIn" class="pp_login" style="padding-top:7px;display:none">
+  <table cellspacing="2" cellpadding="0" border="0">
+    <tr>
+      <td colspan="2"><h4>My Pan Pacific</h4></td>
+    </tr>
+    <tr>
+      <td nowrap id='WelcomeName'>Welcome </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td id='LastLogin'> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="right" style="padding-top:5px;padding-bottom:5px;">
+		<a href="/" onclick='Logout()'>Logout</a> </td>
+    </tr>
+  </table>
+</div>-->
+
+
+<script type="text/javascript">
+
+function Logout()
+	{
+	try {
+		javascript:jsonrpc.JSONRPC_UserBean.LogoutUser();
+		}
+	 	catch(e){ 
+	 		alert("Unable to Log you out at this time. Your session may have expired");
+	 		location.href="/";
+	  	}
+	}
+
+function validateUser(UserName, Password, DestinationOnSuccess, DestinationOnFail)
+	{
+	try
+		{
+		var isLoggedIn = jsonrpc.JSONRPC_UserBean.LoginUser(UserName, Password, 'English');
+		if(isLoggedIn == true)
+			{
+			document.getElementById('WelcomeName').innerHTML="Welcome "+jsonrpc.JSONRPC_UserBean.getRealname();
+			document.getElementById('LastLogin').innerHTML="Last Login "+jsonrpc.JSONRPC_UserBean.getLastLogin();
+			if (DestinationOnSuccess==null)
+				{
+				location.href = '/mypanpac/index.html';
+				}
+			else if (DestinationOnSuccess=='refresh')
+				{
+				location.reload(true);
+				}
+			else
+				{
+				location.href = DestinationOnSuccess;
+				}
+			}
+		else
+			{
+			if (DestinationOnFail==null)
+				{
+				location.href = '/mypanpac/help.html';
+				}
+			else if (DestinationOnFail=='refresh')
+				{
+				location.reload(true);
+				}
+			else
+				{
+				location.href = DestinationOnFail;
+				}
+			}
+		}
+	catch(e)
+		{
+		// alert("We are sorry that we are unable to log you in at this time. Your session may have expired.") 
+		location.href="/";
+		}
+		
+	}
+
+/*try {
+	if (jsonrpc.JSONRPC_UserBean.isAuthenticated()==true)
+		{
+		document.getElementById('WelcomeName').innerHTML="Welcome "+jsonrpc.JSONRPC_UserBean.getRealname();
+		document.getElementById('LastLogin').innerHTML="Last Login "+jsonrpc.JSONRPC_UserBean.getLastLogin();
+		document.getElementById('LoggedIn').style.display = "block";
+		document.getElementById('NotLoggedIn').style.display = "none";
+		}
+	else
+		{
+		document.getElementById('LoggedIn').style.display = "none";
+		document.getElementById('NotLoggedIn').style.display = "block";
+		}	
+	}
+catch(e)
+	{
+	document.getElementById('LoggedIn').style.display = "none";
+	document.getElementById('NotLoggedIn').style.display = "block";
+	}*/
+	
+</script><div class="pp_navmenu">
+  <table cellspacing="0" border="0" width="100%">
+    <tbody><tr>
+      <td><a href="/index.html">Home</a> | <a href="/hotels_resorts.html">Hotels &amp; Resorts</a> | <a href="/specialoffers.html">Latest Offers</a> | <a href="/meetingevents.html">Meetings &amp; Events</a> | <a href="/global_relax_and_rejuvenate.html">Relax &amp; Rejuvenate</a> 
+      
+     </td><td align="right" style="display:Block"><a id="languagelink" href="https://web.archive.org/jp/privacy.html"><img src="/media/images/Website/Buttons/bt_jap.gif" border="0"></a></td></tr>
+  </tbody></table>
+</div>
+<script type="text/javascript">
+var currentURL = window.location + "";
+var URLquery = "";
+if(currentURL.indexOf("?")>0){
+  var tempURL = currentURL.split("?");
+  URLquery = "?" + tempURL[1];
+}
+document.getElementById("languagelink").href = document.getElementById("languagelink").href + URLquery;
+</script><div class="pp_breadcrumb">
+<a href="/index.html">Home</a> » Privacy</div>
+</div>
+        </td>
+      </tr>
+    </thead>
+    
+    <tbody class="main">
+      <tr>
+        <td valign="top" align="left" width="18%" class="leftColumn"><div id="contentLeft"><div class="sec_navmenu">
+<ul id="companyOverview"><li class=""><a href="/en/overview.html">Company Overview</a></li>
+<li class="indent"><a href="/en/tokyu.html">Tokyu Group</a></li>
+<li class="indent"><a href="/en/development.html">Hotel Development</a></li>
+<li class="indent"><a href="/en/GHA.html">Global Hotel Alliance</a></li>
+<li class="indent"><a href="/en/programmes.html">Programmes</a></li>
+<li class="indent"><a href="/en/community.html">In the Community</a></li>
+</ul>
+
+<ul>
+<li class="indent"><a href="/press_releases_default_listing.html">Press Releases</a></li>
+<li class="indent"><a href="/news_events_default.html">What's Happening</a></li>
+</ul>
+
+<ul>
+<li><a href="/currentopening.html">Careers</a></li>
+</ul>
+
+<ul>
+<li><a href="/contactus.html">Contact Us</a></li>
+</ul>
+
+</div>
+
+<script type="text/javascript">
+var i;
+var objectCO = document.getElementById("companyOverview");
+var nodeCount = objectCO.childNodes.length;
+for (i=1;i<nodeCount;i++){
+     objectCO.childNodes[i].className = "indent";
+}
+</script><div class="main_content"><h4>Privacy</h4>
+<!--2006-10-13 to 2009-07-08<br/>-->
+
+<p>Pan Pacific Hotels and Resorts (PPHR) is committed to ensuring your personal information is protected. PPHR understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This privacy policy statement (“Privacy Policy Statement”) will explain how we go about using and safeguarding personal information collected from you, or that you provide to PPHR or its affiliates via this Pan Pacific Site and services. <br><br>A reference to “this Pan Pacific Site" is to the website owned and operated by Pan Pacific Hotels and Resorts Pte Ltd ("PPHR") and located at <a href="http://www.panpacific.com">www.panpacific.com</a> or such other URL as may be designated by PPHR from time to time. <br>In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy Statement and those specific and additional provisions, the specific and additional provisions will prevail.</p>
+<p><strong>The information we collect about you</strong><br>The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, your contact number, credit card details and, where you have the option to comment on our services or products, whatever other information you choose to supply to us.&nbsp; If you contact us, we may keep a record of that correspondence.</p>
+<p>Other information we may collect and process about you include the following:<br><br>•&nbsp;Information derived from cookies (small text files placed on our computer which uniquely identify your browser the next time you visit this Pan Pacific Site, save where you disable cookies or otherwise manage them, or do not use any PPHR services which require cookies to be enabled.<br>•&nbsp;Information gathered automatically by our computer systems programmed to gather certain anonymous data to help us understand how this Pan Pacific Site is being used and how we can improve it. This automatically gathered data includes [your computer’s IP or “Internet Protocol” address, browser type, browser language, the pages visited, previous or subsequent sites visited, length of user sessions, access status or conditions.<br>•&nbsp;Information that is gathered through registration that you specifically give PPHR.</p>
+<p><strong>How we use your information and whom we may disclose it to<br></strong>The information that we collect about you is used to help you access the services or acquire the goods that PPHR provides more easily. PPHR will use reasonable endeavours to keep the information we collect from you confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any third parties. We may disclose the personal information, other information or data we collect from you if:</p>
+<ul>
+    <li>disclosure of information to our service providers, agents or business partners and affiliates that we work with in connection with our business; </li>
+    <li>in circumstances where we believe that disclosure is required under the law, to cooperate with regulators or law enforcement authorities; or to enforce our Terms of Use or other agreements; or to&nbsp; protect our rights, property or safety of PPHR, our customers or others. The foregoing includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk protection; </li>
+    <li>In the event that PPHR or substantially all of its assets are acquired by or merged with another company, your personal information may become subject to a different privacy policy; </li>
+    <li>PPHR may contract with third parties who do analysis and development on our behalf. We may share your information with such a third party provided that such third party uses the information only to perform services as requested by PPHR and agrees to maintain the information as strictly confidential. </li>
+    <li>We may also use your information to send you promotional material, which you may find of interest. If you do not wish to receive any such material you may simply choose to "unsubscribe" from our mailing lists and no further material will be sent to you. </li>
+</ul>
+<p><strong>&nbsp;Storage of data</strong><br>Any personal information that we collect about customers including email addresses will be kept in a database of the PPHR.&nbsp; PPHR will take all steps reasonably necessary to ensure that the database is treated securely and in accordance with this Privacy Policy Statement, and to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.<br><br><strong>Our security procedures</strong><br>Once we receive personal information from you, we take all reasonable steps to ensure that all information we collect, use or disclose is accurate, up to date and stored in a secure environment and accessed only by authorised persons.&nbsp; Your personal information is password protected from unauthorized access or use whenever such information is stored in our systems. In addition, this information is only kept on servers that are located behind a “firewall”, which protects their contents from outside users. Where you may be requested to provide sensitive information (such as credit card numbers etc) through this Pan Pacific Site, such information would be encrypted and protected with industry standard SSL (secure socket layer) communication protocol.<br><br>We require our privacy standards to be observed by external parties who provide services to us and who may come into contact with your information. While we encourage all parties involved to adhere to our privacy standards, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from PPHR or independently.</p>
+<p><strong>Your Responsibility</strong><br>Please note that you play an important and substantial part in protecting the security and confidentiality of your personal information.&nbsp; Where we have given you (or you have chosen) a password which enables you to access any PPHR service, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. <br>We would advise you that the transmission of information via the internet is not completely secure, and may be intercepted or accessed by unauthorized third parties. While we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to any PPHR service; any transmission is at your own risk. It is your responsibility to take all necessary security precautions to ensure the integrity of your computer system, to minimize the risks of third parties gaining unnoticed access to your computer system, and to protect your computer system from viruses and other malicious code. </p>
+<p><strong>Outside Links</strong><br>This Privacy Policy Statement only applies to this Pan Pacific Site. This Pan Pacific Site may contain links to third party websites which are outside our control. These sites may also collect information about you, and use this information according to their privacy practices which may differ from this Privacy Policy Statement. Once you’re outside this Pan Pacific Site, any information you submit is outside of our control.</p>
+<p><br><strong>Amendments</strong><br>PPHR reserves the right to modify this Privacy Policy Statement at any time. Continued use of this Pan Pacific Site or any PPHR service provided herein signifies acceptance of any such modification. </p>
+<p><strong>Contact</strong><br>We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at (65) 6622 2300, our corporate office in Singapore.</p>
+<p>You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If PPHR does not allow you to access your personal information we will provide you with the reasons for our decision.</p>
+<p>PPHR shall use all reasonable endeavours to adhere to the following Privacy Principles:<br>1.&nbsp;PPHR only collects personal information by fair, lawful and non-intrusive means. <br>2.&nbsp;PPHR endeavours to use or disclose information for the purpose for which it was collected unless the person has provided permission to send direct marketing material.<br>3.&nbsp;PPHR takes reasonable steps within the boundaries of accepted everyday work practises to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to date.<br>4.&nbsp;PPHR implements systems that protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure. <br>5.&nbsp;PPHR has a policy document outlining its information handling practices and make this available to anyone who asks.<br>6.&nbsp;PPHR provides printed and digital means for individual access to personal information it holds about that individual on request.<br>7.&nbsp;PPHR provides methods for customers to interact anonymously whenever it is lawful and practicable to do.<br>8.&nbsp;PPHR only transfers personal information to a recipient in a foreign country in circumstances where the information will have an appropriate level of protection.<br>9.&nbsp;PPHR does not collect sensitive information unless the individual has consented, unless it is required by law – or in other special specified circumstances, for example relating to health services provision and individual or public health or safety.</p></div></div></td>
+        <td valign="top" align="left" width="0" class="centerColumn"><div id="contentCenter"></div></td>
+        <td valign="top" align="left" class="rightColumn"><div id="contentRight"></div></td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3" valign="top" align="left" class="footer"><div id="footer"> <div class="pp_corpnav">
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<a href="/overview.html" onmouseover="toggleSecMenu(true)">About Pan Pacific</a> | 
+<a href="/GHA.html" onmouseover="toggleSecMenu(false)">Global Hotel Alliance</a> | 
+<a href="/programmes.html" onmouseover="toggleSecMenu(false)">Programmes</a> | 
+<a href="/community.html" onmouseover="toggleSecMenu(false)">In The Community</a> | 
+<a href="/press_releases_default_listing.html" onmouseover="toggleSecMenu(false)">Press &amp; Media</a> | 
+<a href="/contactus.html" onmouseover="toggleSecMenu(false)">Contact Us</a>
+</td>
+</tr>
+<tr>
+<td>
+<div id="secmenu" style="display:none; margin-top: 5px;">
+<a href="/overview.html">Company Overview</a> | 
+<a href="/tokyu.html">Tokyu Group</a> | 
+<a href="/development.html">Hotel Development</a> | 
+<a href="/currentopening.html">Careers</a>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+</div>
+
+<script type="text/javascript">
+function toggleSecMenu(show)
+{
+var o = document.getElementById('secmenu');
+if (o)
+{
+if (show)
+{
+o.style.display = 'block';
+}
+else
+{
+o.style.display = 'none';
+}
+}
+}
+</script>
+<div class="pp_footersearch">
+<form name="searchForm" action="/search.html" method="post">
+<a href="/sitemap.html">Site Map</a> | 
+Search
+<input type="text" name="keywords"> <a href="javascript: document.searchForm.submit();"><img src="/media/en/images/Website/Buttons/bt_go_grey.gif" align="top" border="0"></a>
+</form></div><div class="pp_footerlinks">
+  <a href="/privacy.html">Privacy Policy</a> | <a href="/termsofuse.html">Terms of Use</a>
+</div><div class="pp_copyright">
+© 2007 Pan Pacific Hotels and Resorts
+</div> </div>
+        </td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+<div id="containerBottom"></div>
+
+	
+
+
+	 
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	
+		<script type="text/javascript">
+	
+		_uacct = "UA-1267804-1";
+		urchinTracker();	
+	</script>
+	
+    
+	
+
+</div>
+
+
+
+</body></html>
