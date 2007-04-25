@@ -1,33 +1,21 @@
-> *The following text is extracted and transformed from the vixenval.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231203316id_/http%3A//www.vixenval.com/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vixenval.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425182309id_/http%3A//www.mifrabv.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Untitled Document
 
-**  
-Privacy Policy**
+**This website is owned by MIFRA BV.**
 
-Our Commitment To Privacy 
+**This policy explains what kind of information we may gather from any user and/or members on our sites. This site is an adult site and its purposes should only be used by persons that are 18 or older. All persons under that age are not allowed to view the content of this site and should leave immediately.**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**The Information We Collect**
 
-The Information We Collect: "We do not collect any customer information. Please see our payment processor's Privacy Policy concerning collected information".
+  
+This notice applies to all information collected or submitted on MIFRA B.V. ’s website(s). On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc. 
 
-This notice applies to all information collected or submitted on V V S Productions website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+**The Way We Use Information**   
+The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom MIFRA BV purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications. As soon as the subscriber uses the website, the subscriber agrees that MIFRA BV may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties. 
 
-Name:   
-Address:  
-Email address:  
-Phone number:
+**Our Commitment To Data Security**   
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-The Way We Use Information: 
-
-Our Commitment To Data Security 
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-How To Contact Us: V V S Productions Po Box 26902 West Haven CT 06516 vvsproductions@snet.net 
-
-. 
+**How To Contact Us**  
+Should you have other questions or concerns about these privacy policies, please use our [contact page](https://web.archive.org/web/20070425182309id_/http%3A//www.mifrabv.com/contact.htm).
