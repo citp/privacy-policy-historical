@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandleader.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208185336id_/http%3A//www.clevelandleader.com/node/625) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandleader.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426003943id_/http%3A//www.clevelandleader.com/node/625) for the most accurate reproduction.*
 
 # The Cleveland Leader
 
