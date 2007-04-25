@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the skyfacet.com privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004234107id_/http%3A//www.skyfacet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyfacet.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425212133id_/http%3A//www.skyfacet.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Sky Facet | Diamond Engagement Rings Platinum Wedding Rings Diamond Earrings Jewelry Bracelets Pendants Bands
+# Privacy Policy Sky Facet
 
+|    Search |   
+---|---  
+| 
+
+  
+|   
+---  
+  
+|      
+---  
 |   |    
 ---|---  
   | **Privacy Statement:**  
