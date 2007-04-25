@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2006-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060919034823id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425034148id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,16 +26,16 @@ Please feel free to e-mail any questions or comments to [info@casinotop10.net](m
 
 Blackjack is actually a game of skill. Of course, there's a lot of chance involved in the decision of an individual hand, but chance evens out over time. Knowing when to hit and when to stand is what decides your success as a blackjack player.
 
-[_No translation available_ >](https://web.archive.org/blackjack-strategy.shtml)
+[Read Full Article >](https://web.archive.org/blackjack-strategy.shtml)
 
 ## Roulette Tips
 
 Since Roulette is a game of pure chance, one might think that it is impossible to give any advice on how to play the game. But it's not! There are a few tips for how you can be a smarter roulette player. Read about them here!
 
-[_No translation available_ >](https://web.archive.org/the-roulette-rules.shtml)
+[Read Full Article >](https://web.archive.org/the-roulette-rules.shtml)
 
 ## Slots Strategy
 
 The online world is full of slot machines. It would be impossible to describe them all, or even name them. Nevertheless, there are a number of tips and ideas regarding the best way of playing Slots.
 
-[_No translation available_ >](https://web.archive.org/slots-strategy-545.shtml)
+[Read Full Article >](https://web.archive.org/slots-strategy-545.shtml)
