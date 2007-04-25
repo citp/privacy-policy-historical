@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesac.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212183636id_/http%3A//www.sesac.com/aboutsesac/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesac.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425152101id_/http%3A//www.sesac.com/aboutsesac/privacy.aspx) for the most accurate reproduction.*
 
 # SESAC - Privacy
 
@@ -17,6 +17,7 @@ SESAC is committed to using all reasonable efforts to abide by the following Pol
   5. ** Sensitive Data**. The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be made available for External Distribution outside SESAC (although it may be made available through Onward Transfer as described below).   
 
     1. **Onward Transfer**. Whenever SESAC permits a third party to access Personal Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorized purposes and by authorized persons in a manner consistent with the choices affiliates and licensees have made under this Policy, and that the security, integrity and privacy of the information is maintained. Please note that our Website may contain links to other Websites that have their own privacy policies and practices. While SESAC will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, SESAC cannot make any guarantees with respect to the actions or policies of such third parties.
+
 
 
 
