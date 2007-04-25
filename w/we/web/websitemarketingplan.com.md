@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206232722id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425215208id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## 60 Day Free Trial  
-Constant Contact Email Service (below):  
+  
+   
   
 ---  
-__________________  
-   
   
 ##  **Information Use**
 
