@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shapeservices.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204151id_/http%3A//www.shapeservices.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapeservices.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425031709id_/http%3A//www.shapeservices.com/en/privacy) for the most accurate reproduction.*
 
-# 
+# SHAPE Services - Privacy Policy
 
 Last Updated: 05.06.2006
 
