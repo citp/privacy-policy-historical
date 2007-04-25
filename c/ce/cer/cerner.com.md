@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208062817id_/http%3A//www.cerner.com/public/Cerner_2.asp%3Fid%3D27618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425200410id_/http%3A//www.cerner.com/public/Cerner_2.asp%3Fid%3D27618) for the most accurate reproduction.*
 
 # Cerner Corporation: Privacy Policy
 
-|  | 
-
-|  | 
+| 
 
 **Overview**  
 Cerner Corporation, its subsidiaries and its affiliates ("Cerner") is committed to protecting the privacy and security of its users. Cerner’s goal is to provide you with a personalized Internet experience that delivers the information, resources and services that are most relevant and helpful to you. In order to achieve this goal, Cerner sometimes collects information during your visits to understand what differentiates you from other users of Cerner.com. Cerner operates under the following set of strict privacy principles:
@@ -67,7 +65,7 @@ Cerner.com
 Cerner Corporation  
 2800 Rockcreek Parkway  
 North Kansas City, Missouri 64117-2551  
-Attn: Matt Olson
+
   * You can call the following telephone number: (816) 201-1122
 
 
