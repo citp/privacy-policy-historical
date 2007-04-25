@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the longandfoster.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206003848id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the longandfoster.com privacy policy that was archived on 2007-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070425020357id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Privacy Policy
-</title><link rel="shortcut icon" href="http://images.longandfoster.com/images/lf.ico"><link id="ctl00_gblcss" rel="stylesheet" type="text/css" media="screen" href="/SharedUserControls/StyleSheets/NF-global.css"><link rel="stylesheet" href="/SharedUserControls/StyleSheets/print.css" type="text/css" media="print">
+</title><link rel="shortcut icon" href="http://images.longandfoster.com/images/lf.ico"><link id="ctl00_gblcss" rel="stylesheet" href="/SharedUserControls/StyleSheets/global.css" type="text/css" media="screen"><link rel="stylesheet" href="/SharedUserControls/StyleSheets/print.css" type="text/css" media="print">
 
     <script language="javascript" src="/SharedUserControls/js/global.js" type="text/javascript"></script><link rel="stylesheet" href="/inc/firefox.css" type="text/css" media="screen">
 
@@ -17,121 +17,16 @@
     <!--[if gte IE 5.5000]>
    <script language="JavaScript"> var ie55up = true </script>
 <![endif]-->
-<script language="VBScript" type="text/vbscript">
-<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
-Function VBGetSwfVer(i)
-  on error resume next
-  Dim swControl, swVersion
-  swVersion = 0  
-  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
-  if (IsObject(swControl)) then
-    swVersion = swControl.GetVariable("$version")    
-  end if
-  VBGetSwfVer = swVersion
-End Function
-// -->
-</script>
- <script type="text/javascript" language="javascript"> 
- // Major version of Flash required
-var requiredMajorVersion = 8;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Minor version of Flash required
-var requiredRevision = 0;
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-// JavaScript helper required to detect Flash Player PlugIn version information
-function JSGetSwfVer(i){
-	// NS/Opera version >= 3 check for Flash plugin in plugin array
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";			
-      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;      		
-			descArray = flashDescription.split(" ");
-			tempArrayMajor = descArray[2].split(".");
-			versionMajor = tempArrayMajor[0];
-			versionMinor = tempArrayMajor[1];
-			if ( descArray[3] != "" ) {
-				tempArrayMinor = descArray[3].split("r");
-			} else {
-				tempArrayMinor = descArray[4].split("r");
-			}
-      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
-            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
-      	} else {
-			flashVer = -1;
-		}
-	}
-	// MSN/WebTV 2.6 supports Flash 4
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
-	// WebTV 2.5 supports Flash 3
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
-	// older WebTV supports Flash 2
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
-	// Can't detect in all other cases
-	else {
-		
-		flashVer = -1;
-	}
-	return flashVer;
-} 
 
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
-{
- 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
-   	// loop backwards through the versions until we find the newest version	
-	for (i=25;i>0;i--) {	
-		if (isIE && isWin && !isOpera) {
-			versionStr = VBGetSwfVer(i);
-		} else {
-			versionStr = JSGetSwfVer(i);		
-		}
-		if (versionStr == -1 ) { 
-			return false;
-		} else if (versionStr != 0) {
-			if(isIE && isWin && !isOpera) {
-				tempArray         = versionStr.split(" ");
-				tempString        = tempArray[1];
-				versionArray      = tempString .split(",");				
-			} else {
-				versionArray      = versionStr.split(".");
-			}
-			versionMajor      = versionArray[0];
-			versionMinor      = versionArray[1];
-			versionRevision   = versionArray[2];
-			
-			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
-			versionNum        = parseFloat(versionString);
-        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
-			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
-				return true;
-			} else {
-				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
-			}
-		}
-	}	
-}
 
- var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
-var g_c_p='ctl00_';
- if (!(hasReqestedVersion)) 
- {
- document.getElementById(g_c_p + 'gblcss').setAttribute('href','/SharedUserControls/StyleSheets/NF-global.css');
- }
- else
- {
-  document.getElementById(g_c_p + 'gblcss').setAttribute('href','/SharedUserControls/StyleSheets/global.css');
- }
 
-</script>
 
 </head>
 <body>
 
 
     <form name="aspnetForm" method="post" action="Privacy_Policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIFD2QWAgIFD2QWDAIBDw8WAh4EVGV4dAUFVU5JLTlkZAIDDw8WBB4ISW1hZ2VVcmwFOmh0dHA6Ly9pbWFnZXMubG9uZ2FuZGZvc3Rlci5jb20vaW1hZ2VzL0Jhbm5lclN3YXAvcGljMy5qcGceB1Zpc2libGVnZGQCBQ8PFgIfAmdkZAIGDw8WBB8ABQhBYm91dCBVcx4LTmF2aWdhdGVVcmwFM2h0dHA6Ly93d3cubG9uZ2FuZGZvc3Rlci5jb20vQWJvdXRfVXMvYWJvdXRfdXMuYXNweGRkAggPDxYCHwJnZGQCCQ8PFgIfAAUOUHJpdmFjeSBQb2xpY3lkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUbY3RsMDAkTGVmdE5hdiRzZWNvbmRhcnlNZW51ZPy3jbvRFM3T1F1iNZbod4NNWbk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgICD2QWAgIFD2QWCgIBDw8WAh4EVGV4dAUFVU5JLTlkZAIDDw8WAh4HVmlzaWJsZWdkZAIEDw8WBB8ABQhBYm91dCBVcx4LTmF2aWdhdGVVcmwFM2h0dHA6Ly93d3cubG9uZ2FuZGZvc3Rlci5jb20vQWJvdXRfVXMvYWJvdXRfdXMuYXNweGRkAgYPDxYCHwFnZGQCBw8PFgIfAAUOUHJpdmFjeSBQb2xpY3lkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUbY3RsMDAkTGVmdE5hdiRzZWNvbmRhcnlNZW51VBpvvnUnRdebeIOkTFbfl88g7Q8=">
 
         
         
@@ -156,6 +51,8 @@ var g_c_p='ctl00_';
         <br>
         <a href="http://homes.longandfoster.com/Real-Estate/Open-House.aspx">Open House Search</a>
          <span style="border-left:solid 1px #666666"><a style="padding-left:3px" href="http://homes.longandfoster.com/Real-Estate/Classic-Search.aspx">Classic Search</a></span>
+         <br style="clear: left"><br>
+         <a href="http://homes.longandfoster.com/Real-Estate/Beta-Map-Search.aspx" title="Beta Map Search">Beta Map Search</a><span style="float:left; margin-left:-27px" class="red">New!</span>
     </div>
     <div class="topNavLogo">
         <img src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
@@ -170,7 +67,9 @@ var g_c_p='ctl00_';
          <span style="border-left:solid 1px #666666"><a style="padding-left:3px" href="http://www.longandfoster.com/About_Us/Executive-Team.aspx">Executive Management</a></span><br style="clear: left"><br>
         <a href="http://www.longandfoster.com/About_Us/Regional-Management.aspx">Regional Sales
             Officers</a> <span style="border-left:solid 1px #666666"><a style="padding-left:3px" href="http://real-estate-careers.longandfoster.com/Employment-Opportunities.aspx">
-                Employment Opportunities</a></span>
+                Employment Opportunities</a></span><br style="clear: left"><br>
+                <a href="http://www.longandfoster.com/About_Us/Scholarship_Program.aspx">
+                        Scholarship Program</a>
     </div>
     <div class="topNavLogo">
         <img src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
@@ -203,62 +102,49 @@ function AddUserInfo(element, flag)
 		}
 	}
 </script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
 
+<script type="text/javascript">
+_uacct = "UA-230575-1";
+ _udn="longandfoster.com"; 
+urchinTracker();
+</script>
 
             </div>
-            <div>
+                            <div>
                 <img src="http://images.longandfoster.com/images/container_top.gif" width="958" height="23" alt=""></div>
             <div id="contentContainer">
                 <table cellspacing="0" cellpadding="0" border="0" width="958">
                     <tbody><tr>
                         <td style="width:12px" class="leftShadow">
                             &nbsp;</td>
-                        <td width="27" height="760">
+                        <td style="width:27px; height:760px">
                             &nbsp;</td>
-                        <td width="880" valign="top">
+                        <td style="width:880px" valign="top">
                             
-<div id="top">
-    <table cellspacing="0" cellpadding="0" border="0" width="880">
-        <tbody><tr>
-            <td style="width: 351px" rowspan="2">
-                <a href="http://www.longandfoster.com/index.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Real Estate">
-                    <img src="http://images.longandfoster.com/images/logo.gif" width="351" height="77" border="0" alt="Long &amp; Foster Real Estate: The Total Homeownership Experience"></a></td>
-            <td style="width: 26px; height: 50px">
-                <span id="ctl00_TopInfo_ServerConnectedTo" class="editInfoTextHidden">UNI-9</span>
-                &nbsp;</td>
-            <td align="right" valign="bottom" style="width: 330px">
-               
-                <div style="border: none; top: 40px; left: 632px; position: absolute; z-index: 65">
-                    <img id="ctl00_TopInfo_changeImage" src="http://images.longandfoster.com/images/BannerSwap/pic3.jpg" alt="1 888 752 6637" height="68" width="318" border="0">
-                </div>
-
-
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="right" valign="bottom">
-                <div class="breadcrumb">
-                    <a class="breadcrumb" href="http://www.longandfoster.com/index.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-                    Home</a>
-                    <span id="ctl00_TopInfo_firstarrow" class="breadcrumb"> &gt; </span><a id="ctl00_TopInfo_Level2" class="breadcrumb" href="http://www.longandfoster.com/About_Us/about_us.aspx">About Us</a><span id="ctl00_TopInfo_LabelLevel2" class="breadcrumb"></span><span id="ctl00_TopInfo_secondarrow" class="breadcrumb"> &gt; </span><span id="ctl00_TopInfo_Level3" class="breadcrumb">Privacy Policy</span>
-                </div>
-            </td>
-        </tr>
-    </tbody></table>
+<div id="top" style="width: 880px; height: 77px; clear: both">
+    <div style="width: 351px; height: 77px; float: left">
+        <a href="http://www.longandfoster.com/index.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Real Estate">
+            <img src="http://images.longandfoster.com/images/logo.gif" width="351" height="77" border="0" alt="Long &amp; Foster Real Estate: The Total Homeownership Experience"></a></div>
+    <div style="border: none; top: 40px; left: 632px; position: absolute; z-index: 65">
+        <span id="ctl00_TopInfo_ServerConnectedTo" class="editInfoTextHidden">UNI-9</span>
+    </div>
+    <div class="breadcrumb" style="width: 351px; float: right; padding-top: 57px">
+        <a class="breadcrumb" href="http://www.longandfoster.com/index.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+            Home</a><span id="ctl00_TopInfo_firstarrow" class="breadcrumb"> &gt; </span><a id="ctl00_TopInfo_Level2" class="breadcrumb" href="http://www.longandfoster.com/About_Us/about_us.aspx">About Us</a><span id="ctl00_TopInfo_LabelLevel2" class="breadcrumb"></span><span id="ctl00_TopInfo_secondarrow" class="breadcrumb"> &gt; </span><span id="ctl00_TopInfo_Level3" class="breadcrumb">Privacy Policy</span>
+    </div>
 </div>
-
 
                             <div class="hr3">
                             </div>
                             
 <div id="tnav">
     
-    <a href="http://homes.longandfoster.com/Buying-Real-Estate.aspx" id="ctl00_TopNav_buying" onmouseover="startClock('buyingMenu','buyingbg','buy-menu.gif')" onmouseout="stopClock('buyingMenu','buyingbg')">Buying</a>
-    | <a href="http://homes.longandfoster.com/Selling-Real-Estate.aspx" id="ctl00_TopNav_selling" onmouseover="startClock('sellingMenu','sellingbg','sell-menu.gif')" onmouseout="stopClock('sellingMenu','sellingbg')">
-        Selling</a> | <a href="http://homes.longandfoster.com/Rentals.aspx" id="ctl00_TopNav_renting" onmouseover="startClock('rentingMenu','rentingbg','rent-menu.gif')" onmouseout="stopClock('rentingMenu','rentingbg')">
-            Renting</a> | <a href="http://mortgages.longandfoster.com/prosperity_mortgage.aspx" id="ctl00_TopNav_financing" onclick="javascript:AddUserInfo(this, 'false')" onmouseover="startClock('financingMenu','financingbg','mort-menu.gif')" onmouseout="stopClock('financingMenu','financingbg')">Financing</a> | <a href="http://homes.longandfoster.com/Owning.aspx" id="ctl00_TopNav_owning" onmouseover="startClock('owningMenu','owningbg','owning-menu.gif')" onmouseout="stopClock('owningMenu','owningbg')">
-                    Owning</a> | <a href="http://www.longandfoster.com/Mid-Atlantic-Region.aspx" id="ctl00_TopNav_living" onmouseover="startClock('livingMenu','livingbg','liv-menu.gif')" onmouseout="stopClock('livingMenu','livingbg')">
-                        Living</a> | <a href="http://real-estate-careers.longandfoster.com/Careers.aspx" id="ctl00_TopNav_careers" onclick="javascript:AddUserInfo(this, 'false')" onmouseover="startClock('careersMenu','careersbg','careers-menu.gif')" onmouseout="stopClock('careersMenu','careersbg')">Careers</a>
+    <a href="http://homes.longandfoster.com/Buying-Real-Estate.aspx" id="ctl00_TopNav_buying" onmouseover="startClock('buyingMenu','buyingbg','buy-menu.gif')" onmouseout="stopClock('buyingMenu','buyingbg')" title="Buying real estate or homes for sale">
+        Buying</a> | <a href="http://homes.longandfoster.com/Selling-Real-Estate.aspx" id="ctl00_TopNav_selling" onmouseover="startClock('sellingMenu','sellingbg','sell-menu.gif')" onmouseout="stopClock('sellingMenu','sellingbg')" title="Selling homes and real estate">Selling</a> | <a href="http://homes.longandfoster.com/Rentals.aspx" id="ctl00_TopNav_renting" onmouseover="startClock('rentingMenu','rentingbg','rent-menu.gif')" onmouseout="stopClock('rentingMenu','rentingbg')" title="Rental properties">Renting</a> | <a href="http://mortgages.longandfoster.com/prosperity_mortgage.aspx" id="ctl00_TopNav_financing" onclick="javascript:AddUserInfo(this, 'false')" onmouseover="startClock('financingMenu','financingbg','mort-menu.gif')" onmouseout="stopClock('financingMenu','financingbg')" title="Prosperity Mortgage">Financing</a>
+    | <a href="http://homes.longandfoster.com/Owning.aspx" id="ctl00_TopNav_owning" onmouseover="startClock('owningMenu','owningbg','owning-menu.gif')" onmouseout="stopClock('owningMenu','owningbg')" title="Owning a home">
+        Owning</a> | <a href="http://www.longandfoster.com/Mid-Atlantic-Region.aspx" id="ctl00_TopNav_living" onmouseover="startClock('livingMenu','livingbg','liv-menu.gif')" onmouseout="stopClock('livingMenu','livingbg')" title="Mid-Atlantic real estate">Living</a> | <a href="http://real-estate-careers.longandfoster.com/Careers.aspx" id="ctl00_TopNav_careers" onclick="javascript:AddUserInfo(this, 'false')" onmouseover="startClock('careersMenu','careersbg','careers-menu.gif')" onmouseout="stopClock('careersMenu','careersbg')" title="Careers in real estate">Careers</a>
 </div>
 <br style="clear: left">
 <div id="buyingMenu" onmouseover="showDropMenu('buyingMenu')" onmouseout="hideDropMenu('buyingMenu')">
@@ -266,46 +152,48 @@ function AddUserInfo(element, flag)
     property.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 370px">
     </div>
-    <a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty">
-        Search for Homes</a>
+    <a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty" title="Homes for Sale">Search for Homes</a>
     <div class="sub">
-        <a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty">
-            Power Search</a><span>|</span><a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?ps=map">
-                Map Search</a><span>|</span><a href="http://homes.longandfoster.com/Real-Estate/Quick-Search-for-Homes.aspx">
-                    Quick Search</a> <a href="http://homes.longandfoster.com/Real-Estate/Vacation-Power-Search.aspx?Vacation=DeepCreek">
-                        Lake Search</a><span>|</span> <a href="http://homes.longandfoster.com/Real-Estate/Open-House.aspx">
-                            Open House Search</a><span>|</span> <a href="http://homes.longandfoster.com/Real-Estate/Classic-Search.aspx">
-                                Classic Search</a>
+        <a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?mode=cityCounty" title="Real Estate Search">Power Search</a><span>|</span><a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?ps=map" title="Home Search"> Map Search</a><span>|</span><a href="http://homes.longandfoster.com/Real-Estate/Quick-Search-for-Homes.aspx" title="Houses for Sale"> Quick Search</a> <a href="http://homes.longandfoster.com/Real-Estate/Vacation-Power-Search.aspx?Vacation=DeepCreek" title="Vacation Home Search">Lake Search</a><span>|</span> <a href="http://homes.longandfoster.com/Real-Estate/Open-House.aspx" title="Real Estate for Sale">Open House Search</a><span>|</span>
+        <a href="http://homes.longandfoster.com/Real-Estate/Classic-Search.aspx" title="Houses for Sale">
+            Classic Search</a> <a href="http://homes.longandfoster.com/Real-Estate/Beta-Map-Search.aspx" title="Beta Map Search">Beta Map Search</a><span style="float:left; margin-left:-27px" class="red">New!</span>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://homes.longandfoster.com/Buyers-Guide/Buyers-Guide.aspx">Buyer's Guide</a>
+    <a href="http://homes.longandfoster.com/Buyers-Guide/Buyers-Guide.aspx" title="Home Buyers Guide">
+        Buyer's Guide</a>
     <br style="clear: left">
     <br>
-    <a href="http://homes.longandfoster.com/New-Homes/New-Construction.aspx">New Homes</a>
+    <a href="http://homes.longandfoster.com/New-Homes/New-Construction.aspx" title="New Construction">
+        New Homes</a>
     <br style="clear: left">
     <br>
-    <a href="http://homes.longandfoster.com/Real-Estate/Extraordinary_Properties.aspx" style="clear: left">Extraordinary Properties</a>®<br>
+    <a href="http://homes.longandfoster.com/Real-Estate/Extraordinary_Properties.aspx" title="Extraordinary Properties Search" style="clear: left">Extraordinary Properties</a>®<br>
     <br>
-    <a href="http://homes.longandfoster.com/Vacation/Buying-Vacation-Property.aspx">Vacation
-        Properties</a><br>
+    <a href="http://homes.longandfoster.com/Vacation/Buying-Vacation-Property.aspx" title="Vacation Home Search">
+        Vacation Properties</a><br>
     <br>
-    <a href="http://homes.longandfoster.com/Commercial/Commercial-Buying.aspx">Commercial
-        Properties</a><br>
+    <a href="http://homes.longandfoster.com/Commercial/Commercial-Buying.aspx" title="Commercial Real Estate">
+        Commercial Properties</a><br>
     <br>
-    <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')">Insurance</a>
+    <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Homeowners Insurance">Insurance</a>
     <br style="clear: left">
     <br>
     <div>
         <div style="float: left">
-            <a href="http://real-estate-services.longandfoster.com/Settlement-title.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')">Settlement Services</a><br>
+            <a href="http://real-estate-services.longandfoster.com/Settlement-title.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Home Title and Settlement Services">Settlement
+                Services</a><br>
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')">Home Service Connections</a>
+            <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Home Service Connections">
+                Home Service Connections</a>
             <br style="clear: left">
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')">Home Warranty</a><br>
+            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Home Warranty Services">Home Warranty</a><br>
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Relocation/Relocation.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')">Relocation</a>
+            <a href="http://real-estate-services.longandfoster.com/Relocation/Relocation.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Relocation Advice">Relocation</a>
+             <br>
+             <br>
+            <a href="http://mortgages.longandfoster.com/Credit-Report.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Credit Reports">Credit Reports</a>
         </div>
         <div style="float: left">
             <img style="margin: 25px 0 0 100px" src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
@@ -317,33 +205,38 @@ function AddUserInfo(element, flag)
     home to closing the deal.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 290px">
     </div>
-    <a href="http://homes.longandfoster.com/List-with-us.aspx">List Your Home With Us</a><br>
+    <a href="http://homes.longandfoster.com/List-with-us.aspx" title="List Your Home">List
+        Your Home With Us</a><br>
     <br>
-    <a href="http://homes.longandfoster.com/Sellers-Guide/Sellers-Guide.aspx">Seller's Guide</a>
+    <a href="http://homes.longandfoster.com/Sellers-Guide/Sellers-Guide.aspx" title="Home Sellers Guide">
+        Seller's Guide</a>
     <br style="clear: left">
     <br>
-    <a href="http://homes.longandfoster.com/Real-Estate/EP-Selling.aspx">Extraordinary Properties</a>®
+    <a href="http://homes.longandfoster.com/Real-Estate/EP-Selling.aspx" title="Extraordinary Properties">
+        Extraordinary Properties</a>®
     <br>
     <br>
-    <a href="http://homes.longandfoster.com/Commercial/Commercial_Selling.aspx">Commercial
-        Properties</a>
+    <a href="http://homes.longandfoster.com/Commercial/Commercial_Selling.aspx" title="Commercial Properties">
+        Commercial Properties</a>
     <br>
     <br>
     <div>
         <div style="float: left">
-            <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')">Insurance</a>
+            <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')" title="Long and Foster Insurance">Insurance</a>
             <br style="clear: left">
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')">Home Service Connections</a>
+            <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')" title="Home Service Connections">
+                Home Service Connections</a>
             <br style="clear: left">
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')">Home Warranty</a>
+            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')" title="Home Warranty Services">Home Warranty</a>
             <br>
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Relocation/Relocation.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')">Relocation</a>
+            <a href="http://real-estate-services.longandfoster.com/Relocation/Relocation.aspx?sec=Selling" onclick="javascript:AddUserInfo(this, 'true')" title="Relocation Advice">Relocation</a>
             <br style="clear: left">
             <br>
-            <a href="http://homes.longandfoster.com/Guaranteed-Sales.aspx">Guaranteed Sales</a>
+            <a href="http://homes.longandfoster.com/Guaranteed-Sales.aspx" title="Guaranteed Sales">
+                Guaranteed Sales</a>
         </div>
         <div style="float: left">
             <img style="margin: 45px 0 0 10px" src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
@@ -355,49 +248,46 @@ function AddUserInfo(element, flag)
     offer great selection and outstanding value.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 370px">
     </div>
-    <a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?SearchCategory=Rental&amp;sec=Renting">
-        Power Search</a><br>
+    <a href="http://homes.longandfoster.com/Real-Estate/Power-Search.aspx?SearchCategory=Rental&amp;sec=Renting" title="Rental Home Search">Power Search</a><br>
     <br>
-    <a href="http://homes.longandfoster.com/Rent/Rental-Guide.aspx">Renter's Guide</a>
-    <br>
-    <br>
-    <a href="http://real-estate-services.longandfoster.com/Property_Management/Leasing_Services.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')">Residential Rentals</a>
+    <a href="http://homes.longandfoster.com/Rent/Rental-Guide.aspx" title="Home Renters Guide">
+        Renter's Guide</a>
     <br>
     <br>
-    <a href="http://real-estate-services.longandfoster.com/Property_Management/Property_Management.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')">Property Management</a>
+    <a href="http://real-estate-services.longandfoster.com/Property_Management/Leasing_Services.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Leasing Services">Residential
+        Rentals</a>
+    <br>
+    <br>
+    <a href="http://real-estate-services.longandfoster.com/Property_Management/Property_Management.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Long and Foster Property Management">
+        Property Management</a>
     <br style="clear: left">
     <br>
-    <a href="http://homes.longandfoster.com/Vacation/Vacation_Rentals.aspx">Vacation Properties</a>
+    <a href="http://homes.longandfoster.com/Vacation/Vacation_Rentals.aspx" title="Vacation Rentals">
+        Vacation Properties</a>
     <div class="sub">
-        <a href="http://homes.longandfoster.com/Vacation/Deep_Creek_Lake.aspx">Deep Creek Lake</a><span>|</span>
-        <a href="http://homes.longandfoster.com/Vacation/Smith_Mountain_Lake.aspx">Smith Mountain
-            Lake</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Rehoboth_Beach_Vacation_Rentals.aspx">
-                Rehoboth Beach</a><a href="http://homes.longandfoster.com/Vacation/Bethany_Beach_Vacation_Rentals.aspx">
-                    Bethany Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Dewey_Beach_Vacation_Rentals.aspx">
-                        Dewey Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Fenwick_Island_Vacation_Rentals.aspx">
-                            Fenwick Island</a><a href="http://homes.longandfoster.com/Vacation/Lewes_Vacation_Rentals.aspx">
-                                Lewes</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_City_Vacation_Rentals.aspx">
-                                    Ocean City</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_Pines_Vacation_Rentals.aspx">
-                                        Ocean Pines</a>
+        <a href="http://homes.longandfoster.com/Vacation/Deep_Creek_Lake.aspx" title="Deep Creek Lake Rentals">
+            Deep Creek Lake</a><span>|</span> <a href="http://homes.longandfoster.com/Vacation/Smith_Mountain_Lake.aspx" title="Smith Mountain Lake Rentals">Smith Mountain Lake</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Rehoboth_Beach_Vacation_Rentals.aspx" title="Rehoboth Beach Vacation Rentals"> Rehoboth Beach</a><a href="http://homes.longandfoster.com/Vacation/Bethany_Beach_Vacation_Rentals.aspx" title="Bethany Beach Vacation Rentals"> Bethany Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Dewey_Beach_Vacation_Rentals.aspx" title="Dewey Beach Vacation Rentals"> Dewey Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Fenwick_Island_Vacation_Rentals.aspx" title="Fenwick Island Rentals"> Fenwick Island</a><a href="http://homes.longandfoster.com/Vacation/Lewes_Vacation_Rentals.aspx" title="Lewes Delaware Vacation Rentals"> Lewes</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_City_Vacation_Rentals.aspx" title="Ocean City Vacation Rentals"> Ocean City</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_Pines_Vacation_Rentals.aspx" title="Ocean Pines Maryland Vacation Rentals"> Ocean Pines</a>
     </div>
     <br style="clear: left">
-    
-    <a href="http://homes.longandfoster.com/Commercial/Commercial-Renting.aspx">Commercial
-        Properties</a>
+    <a href="http://homes.longandfoster.com/Commercial/Commercial-Renting.aspx" title="Rental Commercial Properties">
+        Commercial Properties</a>
     <br>
     <br>
     <div>
         <div style="float: left">
-        <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')">Insurance</a>
-        <br style="clear: left">
-        <br>
-         <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')">Home Warranty</a><br>
-        <br>
-        <a href="http://real-estate-services.longandfoster.com/Relocation/Relocation.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')">Relocation</a>
-        <br style="clear: left">
-        <br>
-        <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')">Home Service Connections</a>
-       </div>
+            <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Long and Foster Insurance">
+                Insurance</a>
+            <br style="clear: left">
+            <br>
+            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Home Warranty Services">Home
+                Warranty</a><br>
+            <br>
+            <a href="http://real-estate-services.longandfoster.com/Relocation/Relocation.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Relcation Advice">Relocation</a>
+            <br style="clear: left">
+            <br>
+            <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Home Service Connections">
+                Home Service Connections</a>
+        </div>
         <div style="float: left">
             <img style="margin: 25px 0 0 90px" src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
         </div>
@@ -408,26 +298,24 @@ function AddUserInfo(element, flag)
     Prosperity Mortgage.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 290px">
     </div>
-    <a href="http://mortgages.longandfoster.com/Pre-Approval.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-        Online Pre-approval</a>
+    <a href="http://mortgages.longandfoster.com/Pre-Approval.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Prosperity Mortgage Application">Online Pre-approval</a>
     <br>
     <br>
     <div>
         <div style="float: left">
-            <a href="http://mortgages.longandfoster.com/assumptions.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-                Assumptions</a>
+            <a href="http://mortgages.longandfoster.com/assumptions.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Current Mortgage Rates">Assumptions</a>
             <br>
             <br>
-            <a href="http://mortgages.longandfoster.com/Prosperity-100.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-                Prosperity 100</a>
+            <a href="http://mortgages.longandfoster.com/Prosperity-100.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Mortgage Financing">Prosperity 100</a>
             <br>
             <br>
-            <a href="http://mortgages.longandfoster.com/SimpliFI.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-                SimpliFi</a>
+            <a href="http://mortgages.longandfoster.com/SimpliFI.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Refinancing Mortgage Loan">SimpliFi</a>
             <br>
             <br>
-            <a href="http://mortgages.longandfoster.com/Calculators.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-                Mortgage Calculators</a>
+            <a href="http://mortgages.longandfoster.com/Calculators.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Calculators">Mortgage Calculators</a>
+            <br>
+             <br>
+            <a href="http://mortgages.longandfoster.com/Credit-Report.aspx" onclick="javascript:AddUserInfo(this, 'true')" title="Credit Reports">Credit Reports</a>
         </div>
         <div style="float: left">
             <img style="margin: 25px 0 0 50px" src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
@@ -439,20 +327,25 @@ function AddUserInfo(element, flag)
     to maintain, upgrade, and protect your home.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 320px">
     </div>
-    <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') ">Home Service Connections</a>
+    <a href="http://real-estate-services.longandfoster.com/Home-Services/Home-Services.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') " title="Home Service Connections">
+        Home Service Connections</a>
     <br style="clear: left">
     <br>
     <div>
         <div style="float: left">
-            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') ">Home Warranty</a><br>
+            <a href="http://real-estate-services.longandfoster.com/Home-Warranty/Warranty.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') " title="Home Warranty Services">Home
+                Warranty</a><br>
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') ">Insurance</a>
+            <a href="http://real-estate-services.longandfoster.com/Insurance/Insurance.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') " title="Long and Foster Insurance">
+                Insurance</a>
             <br style="clear: left">
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Property_Management/Property_Management.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') ">Property Management</a>
+            <a href="http://real-estate-services.longandfoster.com/Property_Management/Property_Management.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') " title="Long and Foster Property Management">
+                Property Management</a>
             <br style="clear: left">
             <br>
-            <a href="http://real-estate-services.longandfoster.com/Property_Management/Leasing_Services.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') ">Residential Rentals</a>
+            <a href="http://real-estate-services.longandfoster.com/Property_Management/Leasing_Services.aspx?sec=Owning" onclick="javascript:AddUserInfo(this, 'true') " title="Residentials Rentals">Residential
+                Rentals</a>
         </div>
         <div style="float: left">
             <img style="margin: 25px 0 0 70px" src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
@@ -464,64 +357,72 @@ function AddUserInfo(element, flag)
     out what the diverse Mid-Atlantic region has to offer.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 390px">
     </div>
-    <a href="http://delaware-homes.longandfoster.com/Homes_in_Delaware.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-        Delaware</a>
+    <a href="http://delaware-homes.longandfoster.com/Homes_in_Delaware.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Delaware Real Estate">Delaware</a>
     <br>
     <div class="sub">
-        <a href="http://delaware-homes.longandfoster.com/Eastern_Shore_of_Delaware/Homes_in_the_Delaware_Eastern_Shore.aspx" onclick="javascript:AddUserInfo(this, 'false')">Eastern Shore</a>
+        <a href="http://delaware-homes.longandfoster.com/Eastern_Shore_of_Delaware/Homes_in_the_Delaware_Eastern_Shore.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Eastern Shore Delaware Homes">
+            Eastern Shore</a>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://maryland-homes.longandfoster.com/Homes_in_Maryland.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-        Maryland</a>
+    <a href="http://maryland-homes.longandfoster.com/Homes_in_Maryland.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Maryland Real Estate">Maryland</a>
     <br>
     <div class="sub">
-        <a href="http://maryland-homes.longandfoster.com/Baltimore_Real_Estate/Homes_in_Baltimore.aspx" onclick="javascript:AddUserInfo(this, 'false')">Baltimore</a><span>|</span><a href="http://maryland-homes.longandfoster.com/Washington_DC_Suburbs/Homes_in_DC_Suburbs.aspx" onclick="javascript:AddUserInfo(this, 'false')">DC Suburbs</a><span>|</span><a href="http://maryland-homes.longandfoster.com/Eastern_Shore_Real_Estate/Homes_in_the_Eastern_Shore.aspx" onclick="javascript:AddUserInfo(this, 'false')">Eastern Shore</a><a href="http://maryland-homes.longandfoster.com/Southern_MD_Real_Estate/Homes_in_Southern_Maryland.aspx" onclick="javascript:AddUserInfo(this, 'false')">Southern MD</a><span>|</span><a href="http://maryland-homes.longandfoster.com/Western_MD_Real_Estate/Homes_in_Western_MD.aspx" onclick="javascript:AddUserInfo(this, 'false')">Western MD</a>
+        <a href="http://maryland-homes.longandfoster.com/Baltimore_Real_Estate/Homes_in_Baltimore.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Baltimore Real Estate">Baltimore</a><span>|</span><a href="http://maryland-homes.longandfoster.com/Washington_DC_Suburbs/Homes_in_DC_Suburbs.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Homes for sale in the DC Suburbs">DC Suburbs</a><span>|</span><a href="http://maryland-homes.longandfoster.com/Eastern_Shore_Real_Estate/Homes_in_the_Eastern_Shore.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Eastern Shore Maryland Homes">Eastern
+                    Shore</a><a href="http://maryland-homes.longandfoster.com/Southern_MD_Real_Estate/Homes_in_Southern_Maryland.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southern Maryland Real Estate">Southern
+                        MD</a><span>|</span><a href="http://maryland-homes.longandfoster.com/Western_MD_Real_Estate/Homes_in_Western_MD.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Western Maryland Real Estate">Western
+                            MD</a>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://new-jersey-homes.longandfoster.com/homes_in_new_jersey.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+    <a href="http://new-jersey-homes.longandfoster.com/homes_in_new_jersey.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="New Jersey Real Estate">
         New Jersey</a><br>
-    <br>
-    <a href="http://north-carolina-homes.longandfoster.com/Homes_in_North_Carolina.aspx" onclick="javascript:AddUserInfo(this, 'false')">North Carolina</a>
-    <br>
-    <div class="sub">
-        <a href="http://north-carolina-homes.longandfoster.com/Homes-Albemarle-Sound.aspx" onclick="javascript:AddUserInfo(this, 'false')">Albemarle Sound</a>
+        <div class="sub">
+        <a href="http://new-jersey-homes.longandfoster.com/Homes-Camden-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Camden County Real Estate">Camden County</a>
+    <span>|</span>
+        <a href="http://new-jersey-homes.longandfoster.com/Homes-Mercer-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Mercer County Real Estate">Mercer County</a>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://pennsylvania-homes.longandfoster.com/homes_in_pennsylvania.aspx" onclick="javascript:AddUserInfo(this, 'false')">Pennsylvania</a>
+    <a href="http://north-carolina-homes.longandfoster.com/Homes_in_North_Carolina.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="North Carolina Homes">North Carolina</a>
     <br>
     <div class="sub">
-        <a href="http://pennsylvania-homes.longandfoster.com/Philadelphia_Real_Estate/Homes_in_Philadelphia.aspx" onclick="javascript:AddUserInfo(this, 'false')">Philadelphia</a><span>|</span><a href="http://pennsylvania-homes.longandfoster.com/Southern_PA_Real_Estate/Homes_in_Southern_Pennsylvania.aspx" onclick="javascript:AddUserInfo(this, 'false')">Southern PA</a>
+        <a href="http://north-carolina-homes.longandfoster.com/Homes-Albemarle-Sound.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Albemarle Sound Homes">Albemarle Sound</a>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://virginia-homes.longandfoster.com/homes_in_virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+    <a href="http://pennsylvania-homes.longandfoster.com/homes_in_pennsylvania.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Pennsylvania Homes for Sale">Pennsylvania</a>
+    <br>
+    <div class="sub">
+        <a href="http://pennsylvania-homes.longandfoster.com/Philadelphia_Real_Estate/Homes_in_Philadelphia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Philadelphia Homes for Sale">Philadelphia</a><span>|</span><a href="http://pennsylvania-homes.longandfoster.com/Southern_PA_Real_Estate/Homes_in_Southern_Pennsylvania.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southern Pennsylvania Homes for Sale">Southern PA</a>
+    </div>
+    <br style="clear: left">
+    <br>
+    <a href="http://virginia-homes.longandfoster.com/homes_in_virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Virginia Real Estate">
         Virginia</a><br>
     <div class="sub">
-        <a href="http://virginia-homes.longandfoster.com/Northern_Virginia_Real_Estate/Homes_in_Northern_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')">Northern VA</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Richmond_Real_Estate/Homes_in_Richmond.aspx" onclick="javascript:AddUserInfo(this, 'false')">Richmond</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Hampton_Roads_Real_Estate/Homes_in_Hampton_Roads.aspx" onclick="javascript:AddUserInfo(this, 'false')">Hampton Roads</a> <a href="http://virginia-homes.longandfoster.com/Southwest_Virginia_Real_Estate/Homes_in_Southwest_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')">Southwest VA</a><span>|</span>
-        <a href="http://virginia-homes.longandfoster.com/Northern_Neck_Real_Estate/Homes_in_Northern_Neck.aspx" onclick="javascript:AddUserInfo(this, 'false')">Northern Neck</a><span>|</span><a href="http://virginia-homes.longandfoster.com/VA_Eastern_Shore_Real_Estate/Eastern_Shore_VA_Homes.aspx" onclick="javascript:AddUserInfo(this, 'false')">Eastern Shore</a>
+        <a href="http://virginia-homes.longandfoster.com/Northern_Virginia_Real_Estate/Homes_in_Northern_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northern Virginia Real Estate">Northern VA</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Richmond_Real_Estate/Homes_in_Richmond.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Richmond Real Estate">Richmond</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Hampton_Roads_Real_Estate/Homes_in_Hampton_Roads.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Hampton Roads Real Estate">Hampton Roads</a> <a href="http://virginia-homes.longandfoster.com/Southwest_Virginia_Real_Estate/Homes_in_Southwest_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southwest Virginia Real Estate">Southwest VA</a><span>|</span>
+        <a href="http://virginia-homes.longandfoster.com/Northern_Neck_Real_Estate/Homes_in_Northern_Neck.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northern Neck Real Estate">Northern Neck</a><span>|</span><a href="http://virginia-homes.longandfoster.com/VA_Eastern_Shore_Real_Estate/Eastern_Shore_VA_Homes.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Eastern Shore Virginia Homes">Eastern Shore</a>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://washington-dc-homes.longandfoster.com/homes_in_dc.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+    <a href="http://washington-dc-homes.longandfoster.com/homes_in_dc.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Washington DC Real Estate">
         Washington DC</a>
     <br>
     <div class="sub">
-        <a href="http://washington-dc-homes.longandfoster.com/Northeast.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-            Northeast</a><span>|</span><a href="http://washington-dc-homes.longandfoster.com/Northwest.aspx" onclick="javascript:AddUserInfo(this, 'false')">Northwest</a><span>|</span><a href="http://washington-dc-homes.longandfoster.com/Southeast.aspx" onclick="javascript:AddUserInfo(this, 'false')">Southeast</a> <a href="http://washington-dc-homes.longandfoster.com/Southwest.aspx" onclick="javascript:AddUserInfo(this, 'false')">Southwest</a>
+        <a href="http://washington-dc-homes.longandfoster.com/Northeast.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northeast DC Real Estate">
+            Northeast</a><span>|</span><a href="http://washington-dc-homes.longandfoster.com/Northwest.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northwest DC Real Estate">Northwest</a><span>|</span><a href="http://washington-dc-homes.longandfoster.com/Southeast.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southeast DC Real Estate">Southeast</a> <a href="http://washington-dc-homes.longandfoster.com/Southwest.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southwest DC Real Estate">Southwest</a>
     </div>
     <br style="clear: left">
     <br>
-    <a href="http://west-virginia-homes.longandfoster.com/Homes_in_West_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')">West Virginia</a>
+    <a href="http://west-virginia-homes.longandfoster.com/Homes_in_West_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="West Virginia Real Estate">West Virginia</a>
     <br>
     <div class="sub" style="float: left">
-        <a href="http://west-virginia-homes.longandfoster.com/Homes-Morgan-County.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+        <a href="http://west-virginia-homes.longandfoster.com/Homes-Morgan-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Morgan County Real Estate">
             Morgan County</a><br>
-        <a href="http://west-virginia-homes.longandfoster.com/Homes-Jefferson-County.aspx" onclick="javascript:AddUserInfo(this, 'false')">Jefferson County</a><br>
-        <a href="http://west-virginia-homes.longandfoster.com/Homes-Berkeley-County.aspx" onclick="javascript:AddUserInfo(this, 'false')">Berkeley County</a><br>
-        <a href="http://west-virginia-homes.longandfoster.com/Homes-Mineral-County.aspx" onclick="javascript:AddUserInfo(this, 'false')">Mineral County</a>
+        <a href="http://west-virginia-homes.longandfoster.com/Homes-Jefferson-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Jefferson County Real Estate">Jefferson County</a><br>
+        <a href="http://west-virginia-homes.longandfoster.com/Homes-Berkeley-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Berkeley County Real Estate">Berkeley County</a><br>
+        <a href="http://west-virginia-homes.longandfoster.com/Homes-Mineral-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Mineral County Real Estate">Mineral County</a>
     </div>
     <img style="float: left; margin: -15px 0 0 120px" src="http://images.longandfoster.com/Images/logos/nav_logo.gif" alt="">
 </div>
@@ -529,27 +430,27 @@ function AddUserInfo(element, flag)
     Jump start your career with Long &amp; Foster, the largest privately-owned real estate
     company in America.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 325px">
-    </div>
-    <a href="http://real-estate-careers.longandfoster.com/Why-Us.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+    </div> <a href="http://real-estate-careers.longandfoster.com/Licensing-Courses.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Licensing Courses">
+                Register Now!</a><br>
+            <br>
+    <a href="http://real-estate-careers.longandfoster.com/Why-Us.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Why Us?">
         Why Us?</a><br>
     <br>
-    <a href="http://real-estate-careers.longandfoster.com/Career_Counselors.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+    <a href="http://real-estate-careers.longandfoster.com/Career_Counselors.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Real Estate Career Advice">
         Career Counselors</a><br>
     <br>
-    <a href="http://real-estate-careers.longandfoster.com/Career-Seminars.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+    <a href="http://real-estate-careers.longandfoster.com/Career-Seminars.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Long and Foster Class">
         Career Seminars</a><br>
     <br>
     <div>
         <div style="float: left">
-            <a href="http://real-estate-careers.longandfoster.com/Getting-Started.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+            <a href="http://real-estate-careers.longandfoster.com/Getting-Started.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Getting Started">
                 Getting Started</a><br>
             <br>
-            <a href="http://real-estate-careers.longandfoster.com/Licensing-Courses.aspx" onclick="javascript:AddUserInfo(this, 'false')">
-                Real Estate Licensing Information</a><br>
+           
+            <a href="http://real-estate-careers.longandfoster.com/Employment-Opportunities.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Employment Opportunities">Employment Opportunities</a><br>
             <br>
-            <a href="http://real-estate-careers.longandfoster.com/Employment-Opportunities.aspx" onclick="javascript:AddUserInfo(this, 'false')">Employment Opportunities</a><br>
-            <br>
-            <a href="http://real-estate-careers.longandfoster.com/Training.aspx" onclick="javascript:AddUserInfo(this, 'false')">
+            <a href="http://real-estate-careers.longandfoster.com/Training.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Training">
                 Training</a>
         </div>
         <div style="float: left">
@@ -557,16 +458,13 @@ function AddUserInfo(element, flag)
         </div>
     </div>
 </div>
-<img id="buyingbg" alt="" style="visibility:hidden">
-<img id="sellingbg" alt="" style="visibility:hidden">
-<img id="rentingbg" alt="" style="visibility:hidden">
-<img id="owningbg" alt="" style="visibility:hidden">
-<img id="financingbg" alt="" style="visibility:hidden">
-<img id="livingbg" alt="" style="visibility:hidden">
-<img id="careersbg" alt="" style="visibility:hidden">
-
-
-
+<img id="buyingbg" alt="" style="visibility: hidden">
+<img id="sellingbg" alt="" style="visibility: hidden">
+<img id="rentingbg" alt="" style="visibility: hidden">
+<img id="owningbg" alt="" style="visibility: hidden">
+<img id="financingbg" alt="" style="visibility: hidden">
+<img id="livingbg" alt="" style="visibility: hidden">
+<img id="careersbg" alt="" style="visibility: hidden">
 
                             <div id="LeftMenu">
                             <a href="#ctl00_LeftNav_secondaryMenu_SkipLink"><img alt="Skip Navigation Links." src="/WebResource.axd?d=yB4xGeAuzInompZjEvBGdA2&amp;t=632772621497823713" width="0" height="0" border="0"></a><div id="ctl00_LeftNav_secondaryMenu">
@@ -612,7 +510,7 @@ function AddUserInfo(element, flag)
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://www.longandfoster.com/About_Us/Executive-Team.aspx" id="ctl00_LeftNav_secondaryMenun5">Executive Management</a></td>
+			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://www.longandfoster.com/About_Us/Scholarship_Program.aspx" id="ctl00_LeftNav_secondaryMenun5">Scholarship Program</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -620,7 +518,7 @@ function AddUserInfo(element, flag)
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://www.longandfoster.com/About_Us/Regional-Management.aspx" id="ctl00_LeftNav_secondaryMenun6">Regional Sales Officers</a></td>
+			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://www.longandfoster.com/About_Us/Executive-Team.aspx" id="ctl00_LeftNav_secondaryMenun6">Executive Management</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -628,7 +526,15 @@ function AddUserInfo(element, flag)
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://real-estate-careers.longandfoster.com/Employment-Opportunities.aspx" id="ctl00_LeftNav_secondaryMenun7">Employment Opportunities</a></td>
+			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://www.longandfoster.com/About_Us/Regional-Management.aspx" id="ctl00_LeftNav_secondaryMenun7">Regional Sales Officers</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><table width="3">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td class="Itemli"><a class="Itemli" href="http://real-estate-careers.longandfoster.com/Employment-Opportunities.aspx" id="ctl00_LeftNav_secondaryMenun8">Employment Opportunities</a></td>
 		</tr>
 	</tbody></table>
 </div><a id="ctl00_LeftNav_secondaryMenu_SkipLink"></a>
@@ -787,20 +693,21 @@ function AddUserInfo(element, flag)
                             
                             
                         </td>
-                        <td width="27">
+                        <td style="width:27px">
                             &nbsp;</td>
                         <td style="width:12px" class="rightShadow">
                             &nbsp;</td>
                     </tr>
                 </tbody></table>
             </div>
-            
+                        
             
             <div style="margin-top: -1px;">
                 <img src="http://images.longandfoster.com/images/container_bot.gif" width="958" height="23" alt="container bottom"></div>
+             
             
             
-            <div>
+<div>
                 
 <div id="footLinksR1">
 <a href="http://www.longandfoster.com" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Real Estate</a>
@@ -815,28 +722,22 @@ function AddUserInfo(element, flag)
     <a href="http://homes.longandfoster.com/Selling-Real-Estate.aspx" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Selling Real Estate</a>
     
     <a href="http://homes.longandfoster.com/Rentals.aspx" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Rentals</a>
+<a href="http://openhouses.longandfoster.com" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Open Houses</a>
     <a href="http://mortgages.longandfoster.com/prosperity_mortgage.aspx" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Finance &amp; Mortgage</a>
     <a href="http://homes.longandfoster.com/Owning.aspx" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Owning a Home</a>
     <a href="http://www.longandfoster.com/Mid-Atlantic-Region.aspx" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Mid-Atlantic Region</a> <a href="http://www.longandfoster.com/Site-Map.aspx" class="util foot" onclick="javascript:AddUserInfo(this, 'false')">Site Map</a> <a href="http://www.longandfoster.com/ContactUs/Beta-Feedback.aspx?sec=About Us" class="util foot" onclick="javascript:AddUserInfo(this, 'true')">Feedback</a>
 </div>
 <div id="copyright">
-    All contents are copyright © 2006 Long &amp; Foster Real Estate, Inc.<br>
+    All contents are copyright © 2007 Long &amp; Foster Real Estate, Inc.<br>
     All rights reserved. <a href="http://www.longandfoster.com/Important_Notice.aspx" class="util">Important notices</a> and <a href="http://www.longandfoster.com/Privacy_Policy.aspx" class="util">privacy policy</a>.</div>
 <img src="http://images.longandfoster.com/images/logos/equalHousing.png" alt="Equal Housing Opportunity" style="position: relative; left: 900px; top: -60px; width: 43px; height: 41px" onload="fixPNG(this)">
 <!--  DO NOT REMOVE --->
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 
-<script type="text/javascript">
-_uacct = "UA-230575-1";
- _udn="longandfoster.com"; 
-urchinTracker();
-</script>
 <!-- SiteCatalyst code version: H.5.
 Copyright 1997-2006 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" src="/SharedUserControls/js/s_code.js" type="text/javascript"></script><img name="s_i_lnfdev" height="1" width="1" border="0" alt="" src="https://longandfoster.112.2O7.net/b/ss/lnfdev/1/H.5-pdv-2/s73827164144128?[AQB]&amp;ndh=1&amp;t=31/0/2020%203%3A56%3A58%205%200&amp;ns=longandfoster&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20061206003848id_/http%253A//www.longandfoster.com/Privacy_Policy.aspx&amp;cc=USD&amp;ch=General&amp;server=QA%20Server&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/SharedUserControls/js/s_code.js" type="text/javascript"></script><img name="s_i_lnfdev" height="1" width="1" border="0" alt="" src="https://longandfoster.112.2O7.net/b/ss/lnfdev/1/H.5-pdv-2/s71653151596712?[AQB]&amp;ndh=1&amp;t=31/0/2020%203%3A57%3A0%205%200&amp;ns=longandfoster&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20070425020357id_/http%253A//www.longandfoster.com/Privacy_Policy.aspx&amp;cc=USD&amp;ch=General&amp;server=QA%20Server&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -885,6 +786,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
             </div>
+            
         </div>
         
         
@@ -896,36 +798,40 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <img src="http://images.longandfoster.com/images/planner_collapsed_bg-2.png" style="width:89px; height:630px" onload="fixPNG(this)" alt="">
 </div>
 <div id="flashTabs">
-    <script type="text/javascript">
-            if (navigator.appName == "Microsoft Internet Explorer")
-            {        
-                     AC_AX_RunContent( 'width','277',
-                                       'height','570',
-                                       'style','position:absolute;left:0px;top:-30px;z-index:105',
-                                       'type','application/x-shockwave-flash',
-                                       'data','../SharedUserControls/flash/tabCollapsed.swf',
-                                       'allowscriptaccess','sameDomain',
-                                       'movie','../SharedUserControls/flash/tabCollapsed.swf',
-                                       'quality','high',
-                                       'wmode','transparent',
-                                       'bgcolor','#000000',                           
-                                       'flashvars','userLoginSte=1&filePathURI=..%2fSharedUserControls%2fflash%2f&userID=&userType=buy,rent,own&steUber=buy0&gatewayURL=http%3a%2f%2fuser-controls-shared.longandfoster.com%2fgateway.aspx&buyInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&sellInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&ownInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&rentInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&own_manPropURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&own_ownCalURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx&own_messagesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx&own_ownDocsURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx&own_ownTodosURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx&own_stateURL=http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx&own_photoURL=http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx');
-            }
-            else
-            {
-                             AC_AX_RunContent( 'width','100',
-                                       'height','570',
-                                       'style','position:absolute;left:180px;top:-30px;z-index:105',
-                                       'type','application/x-shockwave-flash', 
-                                       'data','../SharedUserControls/flash/tabALT.swf',
-                                       'allowscriptaccess','sameDomain',
-                                       'movie','../SharedUserControls/flash/tabALT.swf',
-                                       'quality','high',
-                                       'wmode','transparent',
-                                       'bgcolor','#000000',                           
-                                       'flashvars','filePathURI=../SharedUserControls/flash/&userType=buy,rent,own&steUber=buy0&steMinor=&buy_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=1&buy_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=1&buy_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=1&buy_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=1&rent_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=3&rent_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=3&rent_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=3&rent_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=3&buy_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=1&buy_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=1&buy_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=1&buy_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=1&rent_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=3&rent_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=3&rent_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=3&rent_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=3&sell_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=2&sell_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=2&sell_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=2&sell_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=2&own_manPropURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&own_ownCalURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx&own_messagesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx&own_ownDocsURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx&own_todosURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx&own_stateURL=http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx&own_photoURL=http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx&own_homShowURL=http://www.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&sell_myListURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx?profileTypeID=2&buyInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&sellInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&ownInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&rentInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx');
-            }
-</script><object width="100" height="570" style="position:absolute;left:180px;top:-30px;z-index:105" type="application/x-shockwave-flash" data="../SharedUserControls/flash/tabALT.swf"><param name="allowscriptaccess" value="sameDomain"> <param name="movie" value="../SharedUserControls/flash/tabALT.swf"> <param name="quality" value="high"> <param name="wmode" value="transparent"> <param name="bgcolor" value="#000000"> <param name="flashvars" value="filePathURI=../SharedUserControls/flash/&amp;userType=buy,rent,own&amp;steUber=buy0&amp;steMinor=&amp;buy_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=1&amp;buy_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=1&amp;buy_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=1&amp;buy_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=1&amp;rent_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=3&amp;rent_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=3&amp;rent_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=3&amp;rent_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=3&amp;buy_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=1&amp;buy_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=1&amp;buy_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=1&amp;buy_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=1&amp;rent_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=3&amp;rent_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=3&amp;rent_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=3&amp;rent_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=3&amp;sell_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=2&amp;sell_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=2&amp;sell_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=2&amp;sell_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=2&amp;own_manPropURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&amp;own_ownCalURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx&amp;own_messagesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx&amp;own_ownDocsURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx&amp;own_todosURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx&amp;own_stateURL=http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx&amp;own_photoURL=http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx&amp;own_homShowURL=http://www.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&amp;sell_myListURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx?profileTypeID=2&amp;buyInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&amp;sellInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&amp;ownInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&amp;rentInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx">  &gt;</object> 
+    <script type="text/javascript"> 
+        var plannerSwitch = '1'        
+        if (plannerSwitch == '1')
+        {
+                if (navigator.appName == "Microsoft Internet Explorer")        
+                    {        
+                             AC_AX_RunContent( 'width','277',
+                                               'height','570',
+                                               'style','position:absolute;left:0px;top:-30px;z-index:105',
+                                               'type','application/x-shockwave-flash',
+                                               'data','../SharedUserControls/flash/tabCollapsed.swf',
+                                               'allowscriptaccess','sameDomain',
+                                               'movie','../SharedUserControls/flash/tabCollapsed.swf',
+                                               'quality','high',
+                                               'wmode','transparent',
+                                               'bgcolor','#000000',                           
+                                               'flashvars','userLoginSte=1&filePathURI=..%2fSharedUserControls%2fflash%2f&userID=&userType=buy,rent&steUber=buy0&gatewayURL=http%3a%2f%2fuser-controls-shared.longandfoster.com%2fgateway.aspx&buyInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&sellInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&ownInactiveURL=&rentInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&own_manPropURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&own_ownCalURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx&own_messagesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx&own_ownDocsURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx&own_ownTodosURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx&own_stateURL=http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx&own_photoURL=http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx&own_manPropShow=0&own_ownCalShow=0&own_messagesShow=0&own_ownDocsShow=0&own_ownTodosShow=0&own_stateShow=0&own_photoShow=0');
+                    }
+                    else
+                    {
+                                     AC_AX_RunContent( 'width','100',
+                                               'height','570',
+                                               'style','position:absolute;left:180px;top:-30px;z-index:105',
+                                               'type','application/x-shockwave-flash', 
+                                               'data','../SharedUserControls/flash/tabALT.swf',
+                                               'allowscriptaccess','sameDomain',
+                                               'movie','../SharedUserControls/flash/tabALT.swf',
+                                               'quality','high',
+                                               'wmode','transparent',
+                                               'bgcolor','#000000',                           
+                                               'flashvars','filePathURI=../SharedUserControls/flash/&userType=buy,rent&steUber=buy0&steMinor=&buy_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=1&buy_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=1&buy_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=1&buy_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=1&rent_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=3&rent_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=3&rent_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=3&rent_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=3&buy_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=1&buy_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=1&buy_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=1&buy_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=1&rent_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=3&rent_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=3&rent_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=3&rent_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=3&sell_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=2&sell_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=2&sell_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=2&sell_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=2&own_manPropURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&own_ownCalURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx&own_messagesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx&own_ownDocsURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx&own_todosURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx&own_stateURL=http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx&own_photoURL=http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx&own_homShowURL=http://www.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&sell_myListURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx?profileTypeID=2&buyInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&sellInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&ownInactiveURL=&rentInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&own_manPropShow=0&own_ownCalShow=0&own_messagesShow=0&own_ownDocsShow=0&own_ownTodosShow=0&own_stateShow=0&own_photoShow=0');
+                    }
+           }
+</script><object width="100" height="570" style="position:absolute;left:180px;top:-30px;z-index:105" type="application/x-shockwave-flash" data="../SharedUserControls/flash/tabALT.swf"><param name="allowscriptaccess" value="sameDomain"> <param name="movie" value="../SharedUserControls/flash/tabALT.swf"> <param name="quality" value="high"> <param name="wmode" value="transparent"> <param name="bgcolor" value="#000000"> <param name="flashvars" value="filePathURI=../SharedUserControls/flash/&amp;userType=buy,rent&amp;steUber=buy0&amp;steMinor=&amp;buy_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=1&amp;buy_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=1&amp;buy_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=1&amp;buy_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=1&amp;rent_savSrchsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=3&amp;rent_savHomesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=3&amp;rent_tripURL=http://www.longandfoster.com/My_Long_And_Foster/Trip-Planner-Select.aspx?profileTypeID=3&amp;rent_placesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Places.aspx?profileTypeID=3&amp;buy_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=1&amp;buy_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=1&amp;buy_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=1&amp;buy_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=1&amp;rent_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=3&amp;rent_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=3&amp;rent_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=3&amp;rent_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=3&amp;sell_calURL=http://www.longandfoster.com/My_Long_And_Foster/My-Calender.aspx?profileTypeID=2&amp;sell_contactsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Contacts.aspx?profileTypeID=2&amp;sell_docsURL=http://www.longandfoster.com/My_Long_And_Foster/My-Documents.aspx?profileTypeID=2&amp;sell_todosURL=http://www.longandfoster.com/My_Long_And_Foster/To-Do.aspx?profileTypeID=2&amp;own_manPropURL=http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx&amp;own_ownCalURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx&amp;own_messagesURL=http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx&amp;own_ownDocsURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx&amp;own_todosURL=http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx&amp;own_stateURL=http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx&amp;own_photoURL=http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx&amp;own_homShowURL=http://www.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&amp;sell_myListURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx?profileTypeID=2&amp;buyInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&amp;sellInactiveURL=http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx&amp;ownInactiveURL=&amp;rentInactiveURL=http://homes.longandfoster.com/My_Long_And_Foster/Account-Overview2.aspx&amp;own_manPropShow=0&amp;own_ownCalShow=0&amp;own_messagesShow=0&amp;own_ownDocsShow=0&amp;own_ownTodosShow=0&amp;own_stateShow=0&amp;own_photoShow=0">  &gt;</object> 
 </div>
 <div id="NonFlashTabs">
     
@@ -942,7 +848,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
             <area shape="rect" alt="SavedHomes" coords="26,70,78,137" href="http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=1" onclick="javascript:pageNavigate(this,'Log In')">
             <area shape="rect" alt="Saved Searches" coords="26,1,79,69" href="http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=1" onclick="javascript:pageNavigate(this,'Log In')">
             <area shape="rect" alt="Selling" coords="0,316,26,414" href="http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx">
-            <area shape="rect" alt="Owning" coords="0,226,26,316" href="http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx">
+            <area shape="rect" alt="Owning" onclick="showOwning();" coords="0,226,26,316" href="javascript://">
             <area shape="rect" alt="Renting" onclick="showRenting()" coords="0,134,26,225" href="javascript://">
             <area shape="rect" alt="Buying" coords="0,24,26,133" href="javascript://">
         </map>        
@@ -960,7 +866,24 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
             <area shape="rect" alt="SavedHomes" coords="26,70,78,137" href="http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Homes.aspx?profileTypeID=3" onclick="javascript:pageNavigate(this,'Log In')">
             <area shape="rect" alt="Saved Searches" coords="26,1,79,69" href="http://www.longandfoster.com/My_Long_And_Foster/My-Saved-Search.aspx?profileTypeID=3" onclick="javascript:pageNavigate(this,'Log In')">
             <area shape="rect" alt="Selling" coords="0,316,26,414" href="http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx">
-            <area shape="rect" alt="Owning" coords="0,226,26,316" href="http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx">
+            <area shape="rect" alt="Owning" onclick="showOwning();" coords="0,226,26,316" href="javascript://">
+            <area shape="rect" alt="Renting" onclick="showRenting();" coords="0,134,26,225" href="javascript://">
+            <area shape="rect" alt="Buying" onclick="showBuying();" coords="0,24,26,133" href="javascript://">
+        </map>
+    </div>
+    <div id="OwningPlanner" style="display: none">
+        <img src="http://images.longandfoster.com/images/Planner/imagemaps/Managed-Properties.jpg" style="width: 80px; height: 526px; border: 0; position: absolute; top: 248px;
+                left: 883px; z-index: 104" alt="" usemap="#Managed_Properties_Map">
+        <map id="Managed_Properties_Map" name="Managed_Properties_Map">
+            <area shape="rect" alt="Photos &amp; Videos" coords="26,388,78,464" href="http://www.longandfoster.com/My_Long_And_Foster/Photos-Videos.aspx ">
+            <area shape="rect" alt="Statements" coords="26,328,78,387" href="http://www.longandfoster.com/My_Long_And_Foster/My-Statements.aspx ">
+            <area shape="rect" alt="To Do's" coords="26,265,77,326" href="http://www.longandfoster.com/My_Long_And_Foster/Owners-To-Do.aspx ">
+            <area shape="rect" alt="Documents" coords="26,199,77,264" href="http://www.longandfoster.com/My_Long_And_Foster/Owners-Documents.aspx ">
+            <area shape="rect" alt="Messages" coords="26,138,78,198" href="http://www.longandfoster.com/My_Long_And_Foster/My-Messages.aspx ">
+            <area shape="rect" alt="Calendar" coords="26,70,78,137" href="http://www.longandfoster.com/My_Long_And_Foster/Owners-Calendar.aspx ">
+            <area shape="rect" alt="Managed Properties" coords="26,1,79,69" href="http://www.longandfoster.com/My_Long_And_Foster/Managed-Properties.aspx ">
+            <area shape="rect" alt="Selling" coords="0,316,26,414" href="http://www.longandfoster.com/My_Long_And_Foster/Coming-Soon.aspx">
+            <area shape="rect" alt="Owning" coords="0,226,26,316" href="javascript://">
             <area shape="rect" alt="Renting" onclick="showRenting();" coords="0,134,26,225" href="javascript://">
             <area shape="rect" alt="Buying" onclick="showBuying();" coords="0,24,26,133" href="javascript://">
         </map>
@@ -999,14 +922,26 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 function showRenting()
 {
-document.getElementById('RentingPlanner').style.display='block';
-document.getElementById('BuyingPlanner').style.display='none';
+    document.getElementById('RentingPlanner').style.display='block';
+    document.getElementById('OwningPlanner').style.display='none';
+    document.getElementById('BuyingPlanner').style.display='none';
 }
 function showBuying()
 {
-document.getElementById('RentingPlanner').style.display='none';
-document.getElementById('BuyingPlanner').style.display='block';
+    document.getElementById('RentingPlanner').style.display='none';
+    document.getElementById('OwningPlanner').style.display='none';
+    document.getElementById('BuyingPlanner').style.display='block';
 }
+function showOwning()
+{
+    if('False'=='True')
+    {
+        document.getElementById('RentingPlanner').style.display='none';
+        document.getElementById('BuyingPlanner').style.display='none';
+        document.getElementById('OwningPlanner').style.display='block';   
+    }
+}
+
 function pageNavigate(element,status)
 {
     if(status=='Log In')
@@ -1035,8 +970,234 @@ if(typeof sIFR == "function"){
         </script>
 
     
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKi9eCVCQKChNL9DwlZNfJBvR7zywrEUqMa83dVqEio"></form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKKu6qoCAKChNL9D4G1G6nd0GelreJcHSUEycbHn9CX"></form>
 
 
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")    
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+
+ <script type="text/javascript" language="javascript"> 
+
+ function checkBrowser()
+
+{
+
+    var nagent = navigator.userAgent;
+
+    var isSaf=(nagent.indexOf('Safari')!=-1);
+
+    return isSaf;
+
+}
+
+ // Major version of Flash required
+
+var requiredMajorVersion = 8;
+
+// Minor version of Flash required
+
+var requiredMinorVersion = 0;
+
+// Minor version of Flash required
+
+var requiredRevision = 0;
+
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+// JavaScript helper required to detect Flash Player PlugIn version information
+
+function JSGetSwfVer(i){
+
+      // NS/Opera version >= 3 check for Flash plugin in plugin array
+
+      if (navigator.plugins != null && navigator.plugins.length > 0) {
+
+            if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+
+                  var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";                
+
+                  var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;                
+
+                  descArray = flashDescription.split(" ");
+
+                  tempArrayMajor = descArray[2].split(".");
+
+                  versionMajor = tempArrayMajor[0];
+
+                  versionMinor = tempArrayMajor[1];
+
+                  if ( descArray[3] != "" ) {
+
+                        tempArrayMinor = descArray[3].split("r");
+
+                  } else {
+
+                        tempArrayMinor = descArray[4].split("r");
+
+                  }
+
+                  versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+
+            } else {
+
+                  flashVer = -1;
+
+            }
+
+      }
+
+      // MSN/WebTV 2.6 supports Flash 4
+
+      else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+
+      // WebTV 2.5 supports Flash 3
+
+      else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+
+      // older WebTV supports Flash 2
+
+      else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+
+      // Can't detect in all other cases
+
+      else {
+
+            
+
+            flashVer = -1;
+
+      }
+
+      return flashVer;
+
+} 
+
+ 
+
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+
+{
+
+      reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+
+      // loop backwards through the versions until we find the newest version 
+
+      for (i=25;i>0;i--) {    
+
+            if (isIE && isWin && !isOpera) {
+
+                  versionStr = VBGetSwfVer(i);
+
+            } else {
+
+                  versionStr = JSGetSwfVer(i);        
+
+            }
+
+            if (versionStr == -1 ) { 
+
+                  return false;
+
+            } else if (versionStr != 0) {
+
+                  if(isIE && isWin && !isOpera) {
+
+                        tempArray         = versionStr.split(" ");
+
+                        tempString        = tempArray[1];
+
+                        versionArray      = tempString .split(",");                       
+
+                  } else {
+
+                        versionArray      = versionStr.split(".");
+
+                  }
+
+                  versionMajor      = versionArray[0];
+
+                  versionMinor      = versionArray[1];
+
+                  versionRevision   = versionArray[2];
+
+                  
+
+                  versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+
+                  versionNum        = parseFloat(versionString);
+
+            // is the major.revision >= requested major.revision AND the minor version >= requested minor
+
+                  if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+
+                        return true;
+
+                  } else {
+
+                        return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );  
+
+                  }
+
+            }
+
+      }     
+
+}
+
+var g_c_p='ctl00_';
+
+ if(!checkBrowser())
+
+ {
+
+    var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+    if (!(hasReqestedVersion)) 
+
+    {
+
+        document.getElementById(g_c_p + 'gblcss').setAttribute('href','/SharedUserControls/StyleSheets/NF-global.css');
+
+    }
+
+    else
+
+    {
+
+        document.getElementById(g_c_p + 'gblcss').setAttribute('href','/SharedUserControls/StyleSheets/global.css');
+
+    }
+
+ }
+
+ else
+
+{    
+
+    document.getElementById(g_c_p + 'gblcss').setAttribute('href','/SharedUserControls/StyleSheets/global.css');
+
+} 
+
+ 
+
+</script>
 
 </body></html>
