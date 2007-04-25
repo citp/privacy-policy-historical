@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubagroup.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123011733id_/http%3A//ubagroup.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubagroup.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425222308id_/http%3A//www.ubagroup.com/group_info/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to UBA Group Website
 
@@ -25,7 +25,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail:    
-By Phone: 
+By e-mail:cic@ubagroup.com    
+By Phone: +234 (1) 2644651-700 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
