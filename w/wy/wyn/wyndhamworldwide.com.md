@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129021152id_/http%3A//www.wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425045131id_/http%3A//wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Wyndham Worldwide: Privacy Policy
 
@@ -81,7 +81,7 @@ In the event that you decide that you want to opt out from Wyndham's use of any 
 ###  James Ryan 
 
   
-Phone: 1-973-496-2571
+Phone: 1-973-753-6718
 
 Email: [james.ryan@wyndhamworldwide.com](mailto:james.ryan@wyndhamworldwide.com)
 
