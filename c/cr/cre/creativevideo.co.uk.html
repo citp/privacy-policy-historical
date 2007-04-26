@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the creativevideo.co.uk privacy policy that was archived on 2006-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061128111939id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creativevideo.co.uk privacy policy that was archived on 2007-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426144203id_/http%3A//www.creativevideo.co.uk/public/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <noscript><meta http-equiv="refresh" content="0;URL=http://www.creativevideo.co.uk/public/nojscript.php"/></noscript>
  
 <link href="cvpsuggest.css" type="text/css" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.creativevideo.co.uk/rss/feed.php?feed=all">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 
@@ -39,7 +40,7 @@ if (document.images)
 </script>
 <meta name="author" content="Creative Video Productions Ltd">
 <meta name="copyright" content="Creative Video Ltd 1986-2006">
-<meta name="created" content="20061128">
+<meta name="created" content="20070426">
 <meta name="description" content="">
 <meta name="distribution" content="Global">
 <meta name="generator" content="Creative Video ">
@@ -71,17 +72,30 @@ var whichImage = Math.round(Math.random()*(p-1));
 function showImage(){
 document.write('<img src="'+theImages[whichImage]+'" border=0>');
 }
+function copyit(theField) {
+var tempval=eval("document."+theField)
+tempval.focus()
+tempval.select()
+therange=tempval.createTextRange()
+}
+
 //  End -->
 </script>
+
+
 
  <script type="text/javascript" src="/public/privacy.php/jscore"></script><script src="mccart_new.js" language="javascript" type="text/javascript"></script>
 <script src="js/utility.txt" language="javascript" type="text/javascript"></script>
 <script src="js/popup.js" language="javascript" type="text/javascript"></script>
 <script src="global.js" language="javascript" type="text/javascript"></script>
 </head>
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('images/focus2.jpg','images/compress2.jpg');">
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="loadreadystate();trap();">
+
 <form name="kiepskizartajax" style="visibility:hidden; display:none;">
 <input type="hidden" name="naprawdekiepskizartajax" value="NOPEWNIE">
+</form>
+<form name="loadedcheck" style="visibility:hidden; display:none;">
+<input type="hidden" name="isloaded" value="NOPEWNIE">
 </form>
 <!--<div>
 <table cellpadding="0" cellspacing="0"><tr><td width="687"><a href="index.php"><img src="images/headerleft.jpg" width="687" height="77" border=0></a></td>
@@ -101,20 +115,23 @@ document.write('<img src="'+theImages[whichImage]+'" border=0>');
 
 <div id="welcometextcontainer"><div id="welcometext" onclick="javascript:top.location.href='index.php' ">Welcome</div></div>
 <div id="menutext" class="menutext" onclick="javascript:top.location.href='index.php' ">
- <a href="index.php"><strong>Home</strong></a> | 
-<a href="productcat.php"><strong>Products</strong></a> | 
- <a href="register.php"><strong>New account</strong></a> | 
-<a href="forum_index.php"><strong>Forum</strong></a> | 
-<a href="articles.php"><strong>Information</strong></a> | 
-<a href="events.php"><strong>Events</strong></a> | 
-<a href="educate.php"><strong>Education</strong></a> | 
-<a href="news_script.php"><strong>News</strong></a> | 
+ 
+
+
+<a href="index.php"><strong>Home</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="productcat.php"><strong>Products</strong></a>&nbsp;&nbsp;|&nbsp;
+ <a href="register.php"><strong>New account</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="forum_index.php"><strong>Forum</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="articles.php"><strong>Information</strong></a>&nbsp;&nbsp;|&nbsp;
+<!--<a href="events.php" < ? echo($classmenu); ?>><strong>Events</strong></a> | --><!-- TEMP removed events link and added extra spacing to each link -->
+<a href="educate.php"><strong>Education</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="news_script.php"><strong>News</strong></a>&nbsp;&nbsp;|&nbsp;
 
 
 
-<a href="jobs.php"><strong>Jobs</strong></a> | 
+<a href="jobs.php"><strong>Jobs</strong></a>&nbsp;&nbsp;|&nbsp;
 
-<a href="aboutus.php"><strong>About us</strong></a> | 
+<a href="aboutus.php"><strong>About us</strong></a>&nbsp;&nbsp;|&nbsp;
 
 
 
@@ -129,9 +146,11 @@ document.write('<img src="'+theImages[whichImage]+'" border=0>');
 <div style="">
 <form action="search.php" method="GET" id="f" style="display:inline;" name="searchformleft"><center>
 <table cellpadding="0" cellspacing="3" border="0"><tbody><tr>
-<td><input name="q" type="text" class="searchbox" size="12" value="" id="fq" autocomplete="off"></td>
+<td><input name="q" type="text" class="searchbox" onload="focus();" size="12" value="" id="fq" autocomplete="off"></td>
 <td><img src="images/go_button.gif" onclick="document.searchformleft.submit();"></td>
 </tr></tbody></table>
+
+
 
 
 </center>
@@ -347,7 +366,12 @@ function showadv(faqno) {
   
    </td></tr>
 
-   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=17&amp;xdev=Used Equipment" class="specialmenu"><strong>Used Equipment</strong></a>
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=17&amp;xdev=Used Broadcast &amp; Professional Equipment" class="specialmenu"><strong>Used Broadcast &amp; Professional Equipment</strong></a>
+
+  
+   </td></tr>
+
+   <tr><td valign="top"><span class="menubullet">۞&nbsp;</span></td><td valign="top" style="border-bottom:1px dashed #336699;padding-bottom:2px;"><a href="show_category.php?categoryID=46&amp;xdev=Video Test &amp; Measurement" class="specialmenu"><strong>Video Test &amp; Measurement</strong></a>
 
   
    </td></tr>
@@ -363,20 +387,60 @@ function showadv(faqno) {
 <img src="images2/osupport.gif"  border="0" width="136" height="22"><br>
 <img src="images/faye1.jpg" name="kurcze" id="kurcze" border="0" width="136"></a>
 <img src="images2/menubottom.gif" width="136" height="22"></div>
--->
+
 <img src="images2/safeeasy.gif" border="0" width="136" height="22"><br>
 <div id="friger" class="leftmenumain2" align="center"><div style="padding:5px;border:1px solid #336699;">
 <br>For both your  security and convenience, we have integrated the following in to our web site:<br>
-<br><a href="#" title="Online shopping is safe with us!" onclick="open_secure('secure_payments.php')">
+
+<br>
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.creativevideo.co.uk"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.creativevideo.co.uk/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+<br>
+
+<br><a href="#" title="Online shopping is safe with us!" onClick="open_secure('secure_payments.php')">
 <img src="images/hsbc1.jpg" width="90" height="29" border="0" style="border:1px solid #000000;"><br><br>
-<img src="images/v12_logo_small.jpg" border="0"></a><br><br><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script><br><br>
+< ? if($v12_finance_system_active=="yes"){ echo("<img src=\"images/v12_logo_small.jpg\"  border=\"0\" ></a><br><br>");} ?>
+<script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script><br><br>
 </div><img src="images2/menubottom.gif" width="136" height="22"></div>
 
 <span style="font-size:5px;"><br></span>
+-->
+<div id="forum" class="leftmenumain">
+   <a href="knowledge.php"><img src="images2/knwldg.gif" border="0" width="136" height="22"></a>
 
+   <!--
+     <div style="margin-left:5px;margin-right:5px;margin-bottom:5px;margin-top:5px;">
+	 <center>   <a href="forum_index.php"><img src="images/forum-icon.jpg" border="0"></a></center>
+     <span class="whitetext">< ? include("lastpost.php"); ?></span>
+     </div>
+-->
+   
+     <div style="margin-left:5px;margin-bottom:5px;margin-top:5px;margin-right:5px;">
+	 <center><a href="news_script.php"><img src="images/newsss.jpg" border="0"></a></center>
+     <div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
+   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=48" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>Save £££ with our package deals</strong></a>
+   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>25/04/2007  9:11</span></div><div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
+   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=45" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>Panasonic HVX200 Special Package Deal</strong></a>
+   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>26/01/2007  22:38</span></div><div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
+   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=44" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>We're Sony HDCAM Accredited</strong></a>
+   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>07/01/2007  14:21</span></div><div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
+   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=39" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>Adobe announces new audio software</strong></a>
+   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>06/11/2006  11:26</span></div>     </div><img src="images2/menubottom.gif" width="136" height="22"></div>
 
+	 
+<!-- <div id="friger343434" class="leftmenumain2" align="center">
+<img src="images2/safeeasy.gif" border="0" width="136" height="22">
+<div style="padding:9px;border:1px solid #336699;">
+<img src="images/find_it.gif">
+If you cannot find what you are looking for online
+then please give us a call and we will find it for you.
+01527 854 222
+</div><img src="images2/menubottom.gif" width="136" height="22"></div>-->
 
-
+<div id="jobad" class="leftmenumain">
+<a href="jobs.php"><img src="images/jobtop.jpg" border="0" width="136"></a><br>
+<a href="jobs.php"><center><img src="images/working2.jpg" title="Click for a promising career with one of the UK's leading suppliers of broadcast solutions." border="0"></center></a>
+<img src="images2/menubottom.gif" width="136" height="22" border="0"><br>
+</div>
 </div>
 <div id="maindivbody" class="maindivbody">
 
@@ -424,7 +488,7 @@ function capsDetect( e ) {
 <!--
 <div align="left"></div>-->
 </div></form>     </div><img src="images2/menubottom.gif" width="136" height="22"></div>
-<div id="yourbasket22" class="leftmenumain"><a href="javascript:show_basket();"><img src="images2/yb.gif" border="0" width="136" height="22"></a><br><br><center><span class="whitetextbold">Your basket<br>is empty.</span></center><br><img src="images2/menubottom.gif" width="136" height="22"></div><div id="yourquote22"></div>
+<div id="yourbasket22" class="leftmenumain"><a href="javascript:show_basket();"><img src="images2/yb.gif" border="0" width="136" height="22"></a><br><br><center><span class="whitetextbold">Your basket<br>is empty.</span></center><br><img src="images2/menubottom.gif" width="136" height="22"></div><div id="yourquote22" class="leftmenumain"><a href="view_quote.php"><img src="images/yq.gif" border="0" width="136" height="22"></a><br><br><center><span class="whitetextbold">Your package<br>is empty.</span></center><br><img src="images2/menubottom.gif" width="136" height="22"></div><span style="font-size:1px;"><br></span>
    
    <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -453,10 +517,54 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 
+<!------------------------>
+
+
+<!--
+<div id="onlinesupport" class="leftmenumain"><a href="#" onClick="open_window('live_support/< ?=$chatlink?>')">
+<img src="images2/osupport.gif"  border="0" width="136" height="22"><br>
+<img src="images/faye1.jpg" name="kurcze" id="kurcze" border="0" width="136"></a>
+<img src="images2/menubottom.gif" width="136" height="22"></div>
+-->
+<img src="images2/safeeasy.gif" border="0" width="136" height="22"><br>
+<div id="friger" class="leftmenumain2" align="center"><div style="padding:9px;border:1px solid #336699;" onselectstart="return false" ondragstart="return false">
+For both your  security and convenience, we have integrated the following in to our web site:<br>
+
+<br><a href="#" title="Online shopping is safe with us!" onclick="open_secure('secure_payments.popup');">
+<img width="94" height="54" border="0" style="margin-bottom:10px;" src="//images.scanalert.com/meter/www.creativevideo.co.uk/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;">
+
+<!-------------  CARD AWARE  ---------------->
+<table width="105" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><a href="#" style="text-decoration:none;" title="CardAware stops over 99.9% of credit card fraud." onclick="open_secure('secure_payments.popup');"><img src="images/caa.jpg" border="0"></a></td>
+    <td><div align="center"><a href="#" style="text-decoration:none;font-size:9px;font-family:arial;color:#000000;" title="CardAware stops over 99.9% of credit card fraud." onclick="open_secure('secure_payments.popup');">Protected by<br>
+      <span style="color:#F70201;">CardAware</span>™<br>
+    Anti-Fraud</a></div></td>
+  </tr>
+  <tr>
+    <td colspan="2" height="8" valign="top" bgcolor="eeeeee"><div align="center"><a href="#" style="text-decoration:none;font-size:9px;font-family:arial;color:#F70201;" title="CardAware stops over 99.9% of credit card fraud." onclick="open_secure('secure_payments.popup');">Verified: 
+        26/04/2007</a>
+    </div></td>
+  </tr>
+</tbody></table>
+<span style="font-size:5px;font-family:arial;color:#F70201;"><br>
+<br></span>
+
+<!--------------  SCAN ALERT  --------------->
 
 
 
+<iframe src="thawtesiteseal.html" width="64" height="64" hspace="0" vspace="0" frameborder="0" style="margin-bottom:10px;"></iframe>
+<br>
 
+<img src="images/hsbc_secure.jpg" border="0" style="margin-bottom:10px;"><img src="images/v12_logo_small.jpg" style="margin-bottom:10px;" border="0"></a><img src="images/cvp_verified_by_mastercard.jpg" title="100% secure online order processing." border="0"><span style="font-size:5px;"><br><br></span><img src="images/cvp_verified_by_visa.jpg" title="100% secure online order processing." border="0"></div><img src="images2/menubottom.gif" width="136" height="22"></div>
+
+<span style="font-size:5px;"><br></span>
+
+<!------------------------>
+
+
+<!--
 <div id="forum" class="leftmenumain">
    <a href="knowledge.php"><img src="images2/knwldg.gif" border="0" width="136" height="22"></a>
 
@@ -466,17 +574,12 @@ function MM_swapImage() { //v3.0
      <span class="whitetext">< ? include("lastpost.php"); ?></span>
      </div>
 -->
-   
+   <!--
      <div style="margin-left:5px;margin-bottom:5px;margin-top:5px;margin-right:5px;">
 	 <center><a href="news_script.php"><img src="images/newsss.jpg" border="0"></a></center>
-     <div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
-   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=40" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>We are now open Saturdays</strong></a>
-   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>10/11/2006  17:44</span></div><div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
-   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=39" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>Adobe announces new audio software</strong></a>
-   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>06/11/2006  11:26</span></div><div style="background-color:#336699;padding:3px;border-bottom:1px solid #336699;">
-   <img src="images/newsico.gif" align="middle">&nbsp;<a href="news_script.php?story=38" style="font-size:12px;font-family:arial;color:#ffffff;"><strong>Apple FCP 5.1.2 gives 25p support</strong></a>
-   <span style="font-size:9px;color:#cccccc;font-family:verdana;"><br>04/10/2006  9:15</span></div>     </div><img src="images2/menubottom.gif" width="136" height="22"></div>
-	 
+     < ? include("newsincludesmall.php"); ?>
+     </div><img src="images2/menubottom.gif" width="136" height="22"></div>
+	 -->
 	 
 	
 
@@ -492,11 +595,7 @@ function MM_swapImage() { //v3.0
 <img src="images2/menubottom.gif" width="136" height="22" border="0"><br>
 </div>
 
-<div id="jobad" class="leftmenumain">
-<a href="jobs.php"><img src="images/jobtop.jpg" border="0" width="136"></a><br>
-<a href="jobs.php"><center><img src="images/working2.jpg" title="Click for a promising career with one of the UK's leading suppliers of broadcast solutions." border="0"></center></a>
-<img src="images2/menubottom.gif" width="136" height="22" border="0"><br>
-</div>
+
 
  
 
@@ -546,7 +645,7 @@ function MM_swapImage() { //v3.0
 <!--
 <div id="content" class="content" style="background-image: url(images/loading.jpg); background-repeat: no-repeat;"> 
 -->
-<div id="content" class="content"> 
+<div id="content" class="content" onselectstart="return false" ondragstart="return false" oncopy="alert('Copyright Creative Video. If you want this content then please request permission first.');"> 
 
 <!-- -------------------------------------------------------- Creative Video Productions Copyright --------------------------------------------------------------->
 
@@ -617,45 +716,40 @@ By supplying us with your information you confirm that you do not consider use o
 
 <script language="Javascript1.2" type="text/javascript">
 <!--
-// please keep these lines on when you copy the source
-// made by: Nicolas - http://www.javascript-page.com
-
 var message = "Print this Page";
-
 function printpage() {
 window.print();  
 }
-
-//document.write("<form><input type=button "
-//+"value=\""+message+"\" onClick=\"printpage()\"></form>");
-
 //-->
 </script>
 <center><img src="images/printerico.gif" border="0" onclick="printpage()"><br>
- <a href="index.php" class="special"><strong>Home</strong></a> | 
-<a href="productcat.php" class="special"><strong>Products</strong></a> | 
- <a href="register.php" class="special"><strong>New account</strong></a> | 
-<a href="forum_index.php" class="special"><strong>Forum</strong></a> | 
-<a href="articles.php" class="special"><strong>Information</strong></a> | 
-<a href="events.php" class="special"><strong>Events</strong></a> | 
-<a href="educate.php" class="special"><strong>Education</strong></a> | 
-<a href="news_script.php" class="special"><strong>News</strong></a> | 
+ 
+
+
+<a href="index.php" class="special"><strong>Home</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="productcat.php" class="special"><strong>Products</strong></a>&nbsp;&nbsp;|&nbsp;
+ <a href="register.php" class="special"><strong>New account</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="forum_index.php" class="special"><strong>Forum</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="articles.php" class="special"><strong>Information</strong></a>&nbsp;&nbsp;|&nbsp;
+<!--<a href="events.php" < ? echo($classmenu); ?>><strong>Events</strong></a> | --><!-- TEMP removed events link and added extra spacing to each link -->
+<a href="educate.php" class="special"><strong>Education</strong></a>&nbsp;&nbsp;|&nbsp;
+<a href="news_script.php" class="special"><strong>News</strong></a>&nbsp;&nbsp;|&nbsp;
 
 
 
-<a href="jobs.php" class="special"><strong>Jobs</strong></a> | 
+<a href="jobs.php" class="special"><strong>Jobs</strong></a>&nbsp;&nbsp;|&nbsp;
 
-<a href="aboutus.php" class="special"><strong>About us</strong></a> | 
+<a href="aboutus.php" class="special"><strong>About us</strong></a>&nbsp;&nbsp;|&nbsp;
 
 
 
 <a href="contactus.php" class="special"><strong>Contact us</strong></a><br><a href="privacy.php" class="special">Privacy Policy</a> | <a href="terms.php" class="special">Terms of Service</a> | <a href="sitemap.php" class="special">Site map</a><br>
-© 2006 Creative Video Productions Limited • 
+© 2007 Creative Video Productions Limited • 
 Studley • Warwickshire • UK<br>
 <strong>E&amp;OE</strong>
 </center>
 <br><br><center><span style="font-family:arial;font-size:10px;color:#cccccc;">This web site requires cookies &amp; javascript enabled and is optimised for 1024 x 768 (XVGA).<br>Tested &amp; compliant with MSIE 6, MSIE 7, Opera 8.5, Firefox 1.5 and Safari 2.<br></span>
-<a href="checkout_script.php" class="\&quot;special\&quot;">a link</a></center>
+</center>
 
 
 
