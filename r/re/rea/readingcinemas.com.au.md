@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013170334id_/http%3A//readingcinemas.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426090801id_/http%3A//www.readingcinemas.com.au/home/privacypolicy.asp) for the most accurate reproduction.*
 
-# Reading Cinemas Australia - Privacy Policy
+# Reading Cinemas : Privacy Policy
 
 **PRIVACY STATEMENT**
 
@@ -14,9 +14,9 @@ We collect personal information from you in a variety of ways. For example, we m
   * email or SMS; 
   * when you visit our website; 
   * online transactions; 
-  * when you join our loyalty program;
+  * when you join our loyalty program; 
   * credit card details via credit card purchases; and 
-  * information collected from third parties.
+  * information collected from third parties. 
 
 
 
@@ -51,10 +51,10 @@ The only personal information a cookie can contain is information you supply you
 
 We do not collect any information about your racial or ethnic origin, political opinions or membership, religious or philosophical beliefs, trade association or union membership, sexual preferences or criminal record, unless:
 
-  * you have given us specific consent to do so, or
-  * where we are required by law to do so, or
-  * it is necessary to prevent a serious and imminent threat to the life or health of a person, or
-  * it is necessary for the establishment, exercise or defence of a legal claim.
+  * you have given us specific consent to do so, or 
+  * where we are required by law to do so, or 
+  * it is necessary to prevent a serious and imminent threat to the life or health of a person, or 
+  * it is necessary for the establishment, exercise or defence of a legal claim. 
 
 
 
@@ -69,9 +69,9 @@ In relation to our loyalty program, information we collect may be used to invite
 
 We may sometimes use the personal information we collect for a secondary purpose, that is, for use in a way different from the original reason for collection. We will only do this in the following circumstances:
 
-  * where you have consented,
-  * where the secondary purpose is directly related to the primary purpose, and you would reasonably expect us to use or disclose the information in such a way, or
-  * where we are permitted or required by law, or it is in the interests of public safety to do so.
+  * where you have consented, 
+  * where the secondary purpose is directly related to the primary purpose, and you would reasonably expect us to use or disclose the information in such a way, or 
+  * where we are permitted or required by law, or it is in the interests of public safety to do so. 
 
 
 
@@ -82,8 +82,8 @@ For example, we may use your contact details for editorial and feedback purposes
 We treat personal information which we collect from you in the same way that we treat our other confidential information. We will not sell to anyone, the information which we collect about you.  
 We will not disclose to a third party, the information which we collect about you, except where it is necessary to conduct our business, and then only if the third party:
 
-  * first enters into appropriate confidentiality undertakings with us, or
-  * has a privacy policy which is similar to ours.
+  * first enters into appropriate confidentiality undertakings with us, or 
+  * has a privacy policy which is similar to ours. 
 
 
 
@@ -138,7 +138,3 @@ By providing your personal information to us or by using our web site, you are i
   
 If you have any questions about our privacy statement, please contact our privacy officer at [privacy@readingcinemas.com.au](mailto:privacy@readingcinemas.com.au) or by mail to Privacy Officer, Reading Entertainment Australia Pty Limited, 6 Bay Street, Port Melbourne, Victoria 3207.  
 
-
-Copyright © 2002 Reading, Inc. All Rights Reserved.   
-  
-[](http://www.kinesis.com.au/)
