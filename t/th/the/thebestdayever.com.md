@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestdayever.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218180841id_/http%3A//www.thebestdayever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdayever.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426031127id_/http%3A//www.thebestdayever.com/privacy.php) for the most accurate reproduction.*
 
 # Peak Performance Nutrition Archives - Our Privacy Policy
 
