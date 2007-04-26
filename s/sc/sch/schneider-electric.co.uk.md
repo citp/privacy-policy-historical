@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229193753id_/http%3A//www.schneider.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426154950id_/http%3A//www.schneider.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.*
 
 # Privacy policy
 
