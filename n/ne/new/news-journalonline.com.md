@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225539id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426154304id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
 
-# Daytona Beach News-Journal Online -- Privacy Statement
+# Community - newsjournalonline.com
 
 The News-Journal is committed to bringing you the best possible online experience that we can provide. One important aspect of that experience is ensuring that you are aware of when and how the News-Journal collects information about you and how that information is used. We believe that this policy effectively balances your privacy and our collection of necessary information to enhance our services to you.
 
@@ -15,7 +15,7 @@ The News-Journal offers you the opportunity to renew your subscription to The Da
 **AFFILIATE WEBSITES:**  
 The News-Journal has partnered with other companies that provide additional services in association with News-Journal Online. These companies have their own information collection and privacy policies that may or may not be the same as the News-Journal´s policies. Whenever you have the opportunity to visit one of our affiliate sites, please review their privacy policy before using their services.
 
- **LINKS:**  
+**LINKS:**  
 News-Journal Online contains links to other web sites and other web sites contain links to News-Journal Online. The News-Journal is not responsible for the content or information practices of these linked sites.
 
 **PROMOTIONS AND CONTESTS:**  
@@ -29,6 +29,3 @@ Aggregate data is that information which tracks activity on News-Journal Online 
 
 **CHANGES TO THIS POLICY:**  
 By using this web site, you consent to our collection and use of your personal information as described in this policy. The News-Journal reserves the right to change its privacy policy and practices at any time without notice.
-
-  
-
