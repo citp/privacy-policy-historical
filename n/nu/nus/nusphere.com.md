@@ -1,45 +1,104 @@
-> *The following text is extracted and transformed from the nusphere.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205053832id_/http%3A//nusphere.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nusphere.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426140849id_/http%3A//www.nusphere.com/privacy.htm) for the most accurate reproduction.*
 
-# Your Privacy and NuSphere
+# 
 
-NuSphere and your privacy
+Privacy Policy
 
-At NuSphere we respect your right to privacy and we understand that, as a visitor to NuSphere.com, you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of www.NuSphere.com, download free software, request new information, or subscribe to the NuSphere newsletter.
+Last update: Monday, October 04, 2004
 
-We will guard the personal information you share with us to ensure the content, services, and advertising that we provide on NuSphere.com (and related NuSphere sites) are always tailored to your current, designated preferences.
+We at NuSphere Corporation ("NuSphere") are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
 
-When you provide NuSphere with your name (or alias), mailing address, or telephone number, NuSphere and NuSphere representatives may use your postal address and phone number to alert you to certain upgrades, special offers, updated information, classes, and/or new services. ("Representatives" include value-added resellers and authorized training partners.)
+When you visit NuSphere.com, you may be providing NuSphere with information about your visit on two levels: 
 
-When you provide NuSphere with your e-mail address (as an alternative to, or in addition to, your mailing address and phone number), NuSphere may contact you via e-mail. NuSphere never releases e-mail addresses to its Representatives. NuSphere also does not offer, or allow for the selling of, any user-provided information to third parties.
+  * Statistics collected as you browse our Web site. 
+  * Organizational and personal information you knowingly give us. 
 
-If you do not want NuSphere or NuSphere representatives to contact you, you may "opt out" of this preference at any time, whether you're online or contacting NuSphere directly. As part of your preference flexibility, you'll always have the option to opt [back] in and have NuSphere contact you based on your previous or new preferences. For detailed instructions, please see the section "Contact Us," below.
 
-If you choose not to register or provide personal information, you can still visit most of NuSphere's Web sites; however, you will not have access to areas that require personal identification.
 
-NuSphere membership
+Because NuSphere respects your right to privacy, we want you to be aware of how we handle this information.
 
-NuSphere offers free membership to all NuSphere.com visitors. In order to establish membership, visitors are requested to provide both personal information and preferences. This information is stored and protected by your user-established Member ID and Password.
+Our Commitment to Your Privacy
 
-There is an additional "Remember Me" option that allows you to be recognized (by your user-designated name or alias) when returning to any NuSphere Web site in the future. Acceptance of this option allows NuSphere to place a log file (cookie) that contains only enough information to identify you upon return visits. This eliminates the need to continually ask you for the same information. This cookie contains no personal information, with the exception of your name or alias that you previously provided.
+NuSphere assures you that we do not 
 
-No information, other than that found in the cookie, will be accessed by any NuSphere system. Access to your user information always requires both your Member ID and Password.
+  * Sell the names and addresses of our customers [site users] to outside vendors. 
 
-How NuSphere will protect your personal information
 
-NuSphere will always protect the personal information that you share with us. NuSphere stores information internally in a controlled, secure environment. If, for example, you make a purchase online, we route all transactions through SSL (Secure Socket Layers) and will process your credit card number only to secure your current payment. The SSL transaction does not retain your credit card number subsequent to the transaction at hand, and will not use the number for marketing purposes.
 
-If NuSphere requests general demographic information, this information is limited to reporting purposes only; members remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities.
+NuSphere does: 
 
-NuSphere may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
+  * Safeguard customers' information from unauthorized access. 
+  * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customer's needs (e.g. customer care or new products or services). 
+  * Honor customers' requests to remove their names from our telephone or mail solicitation lists in a timely manner. Just [Contact Us](http://shop.nusphere.com/contact_us/index.php). 
+  * Maintain confidentiality of customer information when undertaking projects with other companies. 
 
-NuSphere would like to receive your comments and questions about this Privacy Policy
 
-Please address comments or questions regarding NuSphere's Privacy Policy to one of the addresses listed below (for online, e-mail, or postal mail). NuSphere may occasionally update, amend, or change this Privacy Policy based on user feedback and as needed or appropriate. Notice of revisions will always be posted on this Privacy Web page.
 
-For more information, please contact...
+NuSphere has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our Privacy Policy, please [Contact Us](http://shop.nusphere.com/contact_us/index.php).
 
-**NuSphere**  
-[info@nusphere.com](mailto:info@nusphere.com)  
-14 Oak Park  
-Bedford, Massachusetts 01730 USA  
-Phone: +1.781.280.4600
+__Information this Site Gathers/Tracks__
+
+Statistics Collected as You Browse Our Web Sites
+
+As you browse the site, NuSphere's Web servers collect information about your visit, not about you personally. Via Web server logs, we monitor statistics such as: 
+
+  * How many people visit our Web site. 
+  * Which pages people visit on our Web site. 
+  * From which domains our visitors come (e.g., "yahoo.com" or "aol.com"). 
+  * Which browsers people use to visit our Web site. 
+
+
+
+While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web site, to monitor its performance, and to make it easier for you and other visitors to use.
+
+Organizational and Personal Information You Knowingly Give Us
+
+Within www.NuSphere.com, you may be asked to give us personal or organizational information in order to receive information about a product or service. This information may range from your generic zip code, to your specific phone number, product serial number, control codes, account number, credit card number, e-mail address, organization, URL or mailing address.
+
+__Use of the Information this Site Gathers/Tracks__
+
+Your IP Address and Host Name 
+
+NuSphere's Web site logs Host Names (or IP addresses when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the Web content.
+
+Registration Forms
+
+We encourage all visitors to register with NuSphere.com, although registration is not required, except for access to our premium content areas. The registration forms require users to give us accurate contact information (like name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers, and newsletters. To opt out of receiving communications from NuSphere, please [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+
+_Order Forms and Enrollment Forms_
+
+Our order forms securely collect visitor's contact information and financial information (like your credit card number and other billing information). Contact information on the order form is used for order fulfillment and may be shared with our Partners or Resellers if that is necessary to fulfill your request. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product. During the purchasing process, you may be given the opportunity to sign up for future e-mailings regarding our products, services, and promotions. If you sign up, NuSphere will share your contact information with other NuSphere partner companies only, not with other outside companies.
+
+As NuSphere's online systems become more sophisticated, you may also be given the option of registering a profile with NuSphere. This would store your name, purchase history, and billing information to make it easier for you to shop and purchase products/services from us in the future. Once profiling is available, you may opt out of this feature at any time by changing/canceling your profile online.
+
+Cookies
+
+A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique NuSphere User ID. We use cookies to deliver Web content specific to your interests and to control access to NuSphere premium content. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique NuSphere User ID. Please be aware that cookies may be required to complete certain functions on NuSphere.com.
+
+__Sharing of the Information this Site Gathers/Tracks__
+
+The information you submit may be shared with third parties if it is necessary to complete your request, provide you with access to downloadable software, or as required by law.
+
+Information Security
+
+We have security measures in place to protect the loss, misuse and alteration of information under our control. When you place an order, the information is encrypted using the Secure Socket Layer (SSL) protocol.
+
+Links to Other Sites
+
+The NuSphere Web sites contain links to other Web sites. Please be aware that our privacy policy does not apply to these other sites.
+
+Opt-out Policy and Procedure
+
+Our site provides users with the opportunity to opt-out of receiving communications from us and our Partners at the point where we request information about the visitor. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+
+Correcting/Update Policy
+
+If you would like to correct and/or update your information, please [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+
+Oversight
+
+If you have comments or questions about our privacy policy, please [Contact Us](http://shop.nusphere.com/contact_us/index.php). We will address any issue to the best of our abilities.
+
+Changes to Policy
+
+NuSphere will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy.
