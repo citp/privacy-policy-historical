@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209152252id_/http%3A//www.pedipedbabyshoes.com/Home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426061937id_/http%3A//www.pediped.com/Home/Privacy.aspx) for the most accurate reproduction.*
 
-# pediped Infant Footwear | Soft-Soled Baby Shoes | Infant Toddler Baby Shoes | Privacy Policy
+# pediped footwear | Soft-Soled Baby Shoes | Infant Toddler Baby Shoes | Privacy Policy
 
 Thank you for visiting www.pediped.com. Your privacy is very important to us. 
 
@@ -23,4 +23,4 @@ Maintaining the confidentiality of your personal information is important to ped
 
 **Should you have any questions regarding our privacy policy, email us at[customerservice@pediped.com](mailto:customerservice@pediped.com) **
 
-**_[Click here](https://web.archive.org/web/20061209152252id_/http%3A//www.pedipedbabyshoes.com/Home/Terms.aspx)_ for Legal Information**
+**_[Click here](https://web.archive.org/web/20070426061937id_/http%3A//www.pediped.com/Home/Terms.aspx)_ for Legal Information**
