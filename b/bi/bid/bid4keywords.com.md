@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213001533id_/http%3A//bid4keywords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426023023id_/http%3A//bid4keywords.com/privacy.html) for the most accurate reproduction.*
 
 # Bid4Keywords Search Marketing: Conversions not just clicks
 
