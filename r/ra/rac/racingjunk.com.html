@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the racingjunk.com privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207210629id_/http%3A//www.racingjunk.com/s/site_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the racingjunk.com privacy policy that was archived on 2007-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426232722id_/http%3A//racingjunk.com/s/site_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -12,14 +12,39 @@
 	<meta name="verify-v1" content="zbc/Q75bgF8Zx9FjnaaFbOC+syVHJk8uaKbsByOE5kY=">
 
 
+    <link href="/layout.css" rel="stylesheet" type="text/css">
     <link href="http://static.racingjunk.com/1/css/site.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="http://static.racingjunk.com/1/jscript/rj.js"></script>
+    <script language="javascript" src="http://static.racingjunk.com/1/jscript/ajax.js" type="text/javascript"></script>
+    
+    <script language="javascript" type="text/javascript">
+
+    function loadtabs()
+    {
+      var tid = 'tab'+rand(3);
+      setTabs(tid);
+      GetContent('tabcontent','hometabs?id='+tid, false);
+      var tabs = document.getElementsByClassName('tabies');
+      for (var i = 0; i < tabs.length; i++)
+      {
+        $(tabs[i].id).onclick = function () {
+            GetContent('tabcontent','hometabs?id='+this.id, false);
+            setTabs(this.id);
+        }
+      }
+    }
+    </script>
+    
     
 
   </head>
   <body>
 
-    <div id="main">
+	<!-- begin mainFrame -->
+    <div id="mainFrame">
+
+	<!-- begin mainHeader -->
+	<div id="mainHeader">
 
       <table id="siteTitle" cellspacing="0">
         <tbody><tr>
@@ -41,27 +66,26 @@
         </tr>
       </tbody></table>
 
-			    <!-- Header Banner Ad Begin -->
+			
+    <!-- Header Banner Ad Begin -->
       <table id="siteBannerAd" cellspacing="0">
         <tbody><tr>
           <td align="center">
 			<table><tbody><tr><td style="padding: 0px; border: 1px solid #000000;">
-			<script language="JavaScript" src="http://adserv1.racingjunk.com/oasis/oasisi-j.php?s=2&amp;w=728&amp;h=90&amp;t=_blank">
+			<script language="javascript" type="text/javascript" src="http://adserv1.racingjunk.com/oasis/oasisi-j.php?s=2&amp;w=728&amp;h=90&amp;t=_blank">
 			</script>
 			<noscript>
-			<A HREF="http://adserv1.racingjunk.com/oasis/oasisc.php?s=2&w=728&h=90&t=_blank"><IMG SRC="http://adserv1.racingjunk.com/oasis/oasisi.php?s=2&w=728&h=90&t=_blank&l=1" WIDTH=728 HEIGHT=90 BORDER=0></A>
+			<a href="http://adserv1.racingjunk.com/oasis/oasisc.php?s=2&amp;w=728&amp;h=90&amp;t=_blank"><img src="http://adserv1.racingjunk.com/oasis/oasisi.php?s=2&amp;w=728&amp;h=90&amp;t=_blank&amp;l=1" width="728" height="90" border="0" alt="" /></a>
 			</noscript>
 			</td></tr></tbody></table>
           </td>
         </tr>
       </tbody></table>
     <!-- Header Banner Ad End -->
-
-	
-    <table id="siteNav" cellspacing="0">
+	    <table id="siteNav" cellspacing="0">
       <tbody><tr>
 	  <td class="left" width="7"></td>
-        <td class="center"><a href="/" title="HOME">HOME</a><span><a href="/post_ad" title="Browse Classifieds">POST AD</a></span><span><a href="/category" title="Post Classified Ads">BROWSE</a></span><span><a href="/search" title="Search Racing Classifieds">SEARCH</a></span><span><a href="/by_day_ads" title="View Classifieds By Day">ADS BY DAY</a></span><span><a href="/most_recent_ads" title="Most Recent Ads">MOST RECENT</a></span><span><a href="/most_popular_ads" title="Most Popular Classified Ads">MOST POPULAR</a></span><span><a href="/honor_payment" title="Make Honor Payment">HONOR PAYMENT</a></span><span><a href="http://forums.racingjunk.com" title="Racing Junk Forum">FORUM</a></span><span><a href="/help" title="Help!">HELP!</a></span></td>
+        <td class="center"><a href="/" title="HOME">HOME</a><span><a href="/post_ad" title="Browse Classifieds">POST AD</a></span><span><a href="/category" title="Post Classified Ads">BROWSE</a></span><span><a href="/search" title="Search Racing Classifieds">SEARCH</a></span><span><a href="/by_day_ads" title="View Classifieds By Day">ADS BY DAY</a></span><span><a href="/most_recent_ads/" title="Most Recent Ads">MOST RECENT</a></span><span><a href="/most_popular_ads" title="Most Popular Classified Ads">MOST POPULAR</a></span><span><a href="/honor_payment" title="Make Honor Payment">HONOR PAYMENT</a></span><span><a href="http://forums.racingjunk.com" title="Racing Junk Forum">FORUM</a></span><span><a href="/help" title="Help!">HELP!</a></span></td>
 		<td class="right" width="7"></td>
       </tr>
     </tbody></table>
@@ -85,15 +109,16 @@
     </tbody></table>
     <!-- Header LoginNav End -->
 <table id="siteHouseBanner"><tbody><tr>
-		<td valign="TOP"><small>
+		<td valign="top"><small>
 		<a href="http://www.racingjunk.com" title="Racing Motorsports Classifieds">Racing Classifieds</a> | 
-		<a href="http://shop.racingjunk.com" title="RacingJunk.com Store"><b>Store</b></a> | 
+		<a href="http://shop.racingjunk.com/?s=house_banner" title="RacingJunk.com Store"><b>Store</b></a> | 
 		<a href="http://news.racingjunk.com" title="Motorsports News">News</a> | 
 		<a href="http://www.racingjunkrides.com" title="RacingJunk Rides">RacingJunk Rides</a> | 
 		<a href="http://rjtv.racingjunk.com" title="Racing Photos and Videos">Photos &amp; Videos</a> | 
 		<a href="http://www.motorcyclejunk.com" title="Motorcycle, Harley Classifieds">MotorcycleJunk</a> | 
 		<a href="http://www.boatingjunk.com" title="Boats, Yachts, Sail Boat Classifieds">BoatingJunk</a> | 
-		<a href="http://directory.racingjunk.com" title="Racing Directory">Directory</a>
+		<a href="http://directory.racingjunk.com" title="Racing Directory">Directory</a> |
+		<a href="/contest" title="Contests">Contests</a>
 		</small></td>
 	 </tr>
 
@@ -113,10 +138,12 @@
 <!-- show to basic members -->
 <!-- end show to basic members -->
 
-<!-- Content Begin -->
-<table id="content" cellpadding="3" cellspacing="0" border="0" width="760">
-  <tbody><tr>
-    <td valign="top" width="100%"><div id="terms">
+</div>
+<!-- end mainHeader -->
+<!-- begin mainContent -->
+<div id="mainContent">
+
+<div id="terms">
         <h2> RacingJunk.com Privacy Policy </h2>
         <p> <strong><u>GENERAL STATEMENT</u></strong> </p>
         <p> RacingJunk.com is a classified advertising service. You do not need to be a registered RacingJunk.com member to view this web site. However, there are some features that are only accessible if you are registered. This privacy policy (the "Privacy Policy") discloses the privacy practices for Raceway Media, LLC ("Raceway"). Raceway is committed to your privacy. Raceway hereby notifies you of: </p>
@@ -193,21 +220,21 @@
         <p> <strong><u>RECOMMEND AD</u></strong> </p>
         <p> If a user elects to use RacingJunk.com's referral service called "Recommend Ad" to tell a friend about the RacingJunk.com site, Raceway asks for the friend's name and e-mail address. Raceway will automatically send the friend a one-time e-mail inviting the friend to visit the site. Raceway stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Raceway at info@RacingJunk.com to request the removal of this information from Raceway's database. </p>
         <p> Copyright ©2005 Raceway Media, LLC. All rights reserved. </p>
-      </div></td>
-  </tr>
-</tbody></table>
-<!-- Content End -->
-  <!-- Footer Begin -->
-      <table id="footer">
+      </div>
+</div>
+<!-- end mainContent --> 
+  <!-- begin mainFooter -->
+  <div id="mainFooter">
+      <table width="100%">
         <tbody><tr>
-          <td>
-            <a href="/">Home</a> | <a href="/category">Classifieds</a> | <a href="/s/about_us">About Us</a> | <a href="/s/contact_us">Contact</a> | <a href="http://shop.racingjunk.com">Store</a> | <a href="/s/advertise">Advertise</a> | <a href="/affiliate">Affiliate Program</a> | <a href="/s/pricing">Pricing Guide</a> | <a href="/s/faq">FAQ's</a>
+          <td><small>
+            <a href="/">Home</a> | <a href="/category">Classifieds</a> | <a href="/s/about_us">About</a> | <a href="/s/contact_us">Contact</a> | <a href="http://shop.racingjunk.com/?s=footer">Store</a> | <a href="/s/advertise">Advertise</a> | <a href="/affiliate">Affiliate Program</a> | <a href="/s/pricing">Pricing Guide</a> | <a href="/s/faq">FAQ</a> | <a href="/send_link/s/site_policy">Send Link to a Friend</a></small>
           </td>
         </tr>
         <tr>
           <td>
           <div class="copyright">
-            Copyright ©2005 <a href="http://www.racewaymedia.com" target="_blank">RacewayMedia LLC</a> All Rights Reserved.<p></p>
+            Copyright ©2005 <a href="http://www.racewaymedia.com" target="_blank">RacewayMedia LLC</a> All Rights Reserved.
             <br>Designated trademarks and brands are the property of their respective owners.
             <br>Use of this Web site constitutes acceptance of the
             <br>RacewayMedia LLC <a href="/s/site_terms">Terms</a>, <a href="/s/site_guidelines">Classified Guidelines</a> and <a href="/s/site_policy">Privacy Policy</a>
@@ -232,15 +259,13 @@
       <table id="exectime" width="100%">
         <tbody><tr>
           <td>
-            <p>Execution Time: 41 ms</p>
+            <p>Execution Time: 51 ms<br>
+		    <script src="http://adserv2.racingjunk.com/ut/ut-js.php" type="text/javascript"></script></p>
           </td>
         </tr>
       </tbody></table>
 
-      </div>
-    <!-- Footer End -->
-
-<p></p><center> Buy, Sell and Trade Race Cars for Free</center><p>
+<center>Buy, Sell and Trade Race Cars for Free</center>
 
 <!-- BEGIN GOOGLE ANALYTICS -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -252,6 +277,15 @@ urchinTracker();
 <!-- END GOOGLE ANALYTICS -->
 
 
+      <iframe src="http://adserv2.racingjunk.com/ut/ut.php?t=0" width="0" height="0" frameborder="0"></iframe>
+	  
+      </div>
+	  <!-- end mainFooter -->
+
+	</div>
+    <!-- end mainFrame-->
+
+
   
 
-</p></body></html>
+</body></html>
