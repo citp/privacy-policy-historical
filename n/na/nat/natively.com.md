@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125172158id_/http%3A//www.natively.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426182732id_/http%3A//www.natively.com/Privacy.asp) for the most accurate reproduction.*
 
 # Natively - Dictionary and Translation Software, Award Winning Language learning tools
 
-|  |   
-PRIVACY POLICY  
+|  |    
+PRIVACY POLICY   
+(Last updated December 11, 2006)  
 ---  
 Privacy Protection Commitment by Natively.com  
 Natively.com is obliged to protect the privacy of its clients.  
-This obligation is, as mentioned, subject to changes and updates from time to time - you are therefore required to check in from time to time.
+This obligation is, as mentioned, subject to changes and updates from time to time \- you are therefore required to check in from time to time.
 
 At purchasing time, Natively gathers information such as the user's age range, gender,  
 country, zip code, e-mail address and general interests.  
@@ -30,6 +31,8 @@ While these means exceed the industry standards, no complaint has been raised as
 Links:  
 Natively.com includes links to different sites. Please note that when 'clicking' any of these links, you are 'clicking' another site. We request that you read the Privacy Protection Notice on these sites, since theirs may differ from ours.  
   
+Personally Identifiable Information:  
+Usafis Organization may provide your email information to selected partners, reputable companies or organizations whose products and services may interest you. If Usafis Organization discloses personally identifiable information to third-party companies who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. In addition, Usafis Organization may share personally identifiable information with selected 3rd parties, and may utilize the services of 3rd party marketing partners to combine additional information from these 3rd parties with the collected personal information. These 3rd parties may send you offers via online marketing. If you prefer not to receive online marketing information from Usafis Organization or third-party companies, please [contact](http://www.natively.com/Contact.asp) online.   
 Opt-out:  
 Natively.com sends messages to its subscribers via email from time to time, concerning new services, improvements, notice of scheduled services etc. Our subscribers may choose not to receive this information by suspending their subscription with us.  
   
