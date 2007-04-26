@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtech.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026135858id_/http%3A//www.playtech.com/html/main.php%3Fpage%3D61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtech.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426162545id_/http%3A//www.playtech.com/html/main.php%3Fpage%3D61) for the most accurate reproduction.*
 
 # Playtech - The Source of Success
 
