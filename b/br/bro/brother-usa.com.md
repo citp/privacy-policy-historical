@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212120034id_/http%3A//brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426175928id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
-# default
+# Brother International - Privacy Statement
 
-  | 
+| 
 
-BROTHER INTERNATIONAL CORPORATION   
-PRIVACY STATEMENT 
+**BROTHER INTERNATIONAL CORPORATION  
+PRIVACY STATEMENT**
 
-Overview
+**Overview**
 
 Brother International Corporation (“Brother” or “we”) is headquartered in Bridgewater, New Jersey (U.S.A) and knows that the privacy of personal information is an important concern to our customers and business associates (“you”, “users”, or “your”). 
 
@@ -22,7 +22,7 @@ Please note that this policy is intended to supply you with information concerni
 
 By using the Site or providing your personal information to Brother, you agree to the terms and conditions of this privacy policy. If you do not agree to the terms and conditions of this privacy policy, please do not use the Site or provide your personal information to Brother.
 
-Collection of Personal Information
+**Collection of Personal Information**
 
 Brother collects information from our users in a variety of ways, including through telephone, mail, e-mail and any other forms of communication. The information may be collected from registration and warranty forms, parties dealing with customer service issues, several different points on Brother’s websites, and, at times, from third parties, both at the request of Brother and through referrals to Brother. 
 
@@ -34,7 +34,7 @@ In addition, when you use the Site, information collected through cookies, log f
 
 If you receive newsletters or promotional e-mails from Brother, we may collect additional information about you through the use of customized links or similar technologies to determine whether the e-mail was opened and which links were utilized by you in order to provide you more focused e-mail communications or other information.
 
-Use of Your Personal Information
+**Use of Your Personal Information**
 
 Brother uses your personal information to deliver services, fulfill your requests, provide customer service, operate and improve its sites and operations, and other generally accepted business related purposes. Brother uses personal information collected to better understand your preferences, respond to your needs and enhance your overall experience with Brother and its business associates. Brother may communicate with you on a regular basis to provide requested services and in regards to issues relating to your business transactions with Brother. The personal information Brother may request from you will be used to fulfill your requests for information and assistance regarding Brother products and services, and other generally accepted business related purposes. Brother usually replies to inquiries and requests via email, US mail or phone. If you prefer a certain method of communication for Brother’s reply, please indicate your preference when making the request.
 
@@ -44,7 +44,7 @@ Occasionally we may invite you to participate in surveys or contests. Participat
 
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if Brother’s service is temporarily suspended for maintenance, a mailing or e-mail announcement may be sent to you. Generally, if you have provided your e-mail address to Brother, you may not opt-out of these types of communications. Note that these communications are not promotional in nature and you may always opt-out of promotional communications. See “ **Your Control Options** ” below.
 
-Sharing 
+**Sharing**
 
 Except as described in this privacy policy, Brother does not disclose your personal information to third parties outside of Brother without your consent. In addition, Brother does not share your personal information with third parties for third party marketing purposes. 
 
@@ -56,7 +56,7 @@ Brother shares aggregated demographic information with its business associates a
 
 When sharing your personal information with third party service providers or business associates, we take reasonable measures to protect the information.
 
-Confidentiality and Security 
+**Confidentiality and Security**
 
 When you provide Brother with personal information, your information is protected whether Brother receives it online or offline. We have security measures and tools in place to help protect against the loss, misuse, and alteration of the information under our control. When Brother receives personal information (such as name address, phone, e-mail, etc.), on-line, the information is transferred to us by your browser in an encrypted format using industry standard, Secure Socket Layer (SSL) encryption. While on a secure page, such as the order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
@@ -64,41 +64,41 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 Brother reserves the right to disclose information about you and your interaction with us when we believe such disclosure is reasonable and/or appropriate. Though Brother works to preserve user privacy, Brother may need to disclose personal information when required by law, to cooperate with governmental or internal investigations, during judicial proceedings, in response to a court order or legal process served on Brother or its affiliates or to enforce Brother’s rights.
 
-Collection and Use of Children’s Personal Information
+**Collection and Use of Children’s Personal Information**
 
 The Site and other Brother on-line materials, although intended for general audiences, are not directed to individuals under the age of 13 and Brother does not knowingly collect personal information from such individuals. We request that individuals under the age of 13 not provide personal information on the Site. If a user identifies himself/herself as under the age of 13, Brother’s on-line services will block such users from providing personal information. We encourage parents to monitor and participate in their children’s activities on the Internet.
 
-Your Control Options* 
+**Your Control Options***
 
 Choice of Opt-in / Opt-out. During the times you provide information to Brother on-line on this Site, you are given the opportunity to opt-in to have your information used for other purposes at the point where Brother asks for the information. For example, this Site has an opt-in feature, so that if you want to access certain areas of the Site and receive selected information, but not receive other materials, you can prevent receipt of certain materials by not choosing an Opt-in for those materials. In addition, if you later no longer wish to receive Brother’s e-mail communications, you may opt-out of receiving these by following the instructions included with each e-mail. In certain other materials, such as product registration cards, for example, Brother allows you to select certain preferences for receiving information from Brother. Brother also offers an opt-out mechanism for all communications while registering a product online, or you may contact us at 1-877-276-8437 to opt-out. 
 
 *These features apply only to the Site administered by Brother International Corporation.
 
-Use of Cookies 
+**Use of Cookies**
 
 Your on-line experience with the Site provides additional information to Brother of which you may not be aware. A cookie is a piece of data stored on the user's computer tied to information about the user. Brother uses both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
 Cookies may be used to customize delivery of content or enable special convenience features on this Site. For example, by registering for this Site, a cookie may be set so that you would not have to log in a password more than once or re-enter your contact information into forms, thereby saving time while you are on this Site. If you reject the cookie, you may still use this Site but may have to log in again to access some areas of this Site. For example, you will not be able to take advantage of materials available in the download areas without registering and accepting the resultant cookie. Persistent cookies enable Brother to track and target your interests to enhance your experience on this Site. 
 
-Links 
+**Links**
 
 Please understand that some sites provide geographic choices when you enter the Site. Upon selecting a geographic area, however, you may be redirected to a different site, with a different privacy policy. For example, when you visit the site located at [http://www.brother.com](http://www.brother.com/), you are not visiting a site covered by this policy. This policy applies only after you select a geography associated with “U.S.A.” or otherwise visit a Site associated with Brother International Corporation. 
 
 The Site may contain links to other sites. Please be aware that Brother is not responsible for the content or privacy practices of such other sites. Brother usually distinguishes these third party web sites by methods such as either opening them in a separate browser window or within a frame indicating the area within is not part of the Site. In these instances the privacy policy of the Site will not apply. Brother encourages you to be aware when you leave the Site and to read the privacy policies of each and every website that you visit. PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
 
-Assignment
+**Assignment**
 
 We reserve the right to transfer any and all information that we collect from users to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Brother's assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
 
-Correcting and Updating Personal Information 
+**Correcting and Updating Personal Information**
 
 If your personal information changes, or if you no longer desire Brother’s service, please contact Brother by telephone at 1-877-276-8437 or by e-mail to privacydata@brother.com to correct or update your personal information. 
 
-Notification of Changes 
+**Notification of Changes**
 
 If Brother decides to amend or update this privacy policy, Brother will post those changes to this privacy policy, accessible from the Site, and other places Brother deems appropriate so you are always aware of what information Brother collects, how Brother uses it, and under what circumstances, if any, Brother discloses it. Brother will use information in accordance with the privacy policy under which the information was collected. Brother may elect to e-mail those of you, who have opted to receive e-mail communications from Brother, notifying you of the changes in Brother’s privacy practices. However, if you have elected not to receive any communication communications from Brother then you will not be contacted about privacy changes. Any changes to our privacy policy will become effective upon posting of the revised privacy policy on the Internet, accessible through the Site. You can determine when this privacy policy was last revised by referring to the “ **Last Updated** ” legend at the top of this page. Continued communication with Brother, following such changes constitutes your acceptance of the revised privacy policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our privacy policy.
 
-Other Information
+**Other Information**
 
 This privacy policy represents the sole, authorized statement of Brother’s practices with respect to the collection of personal information and Brother’s use of such information. Any summaries of this privacy policy generated by third party software or otherwise (for example, in connection with the "Platform for Privacy Preferences" or "P3P") shall have no legal effect, do not bind Brother, shall not be relied upon in substitute for this privacy policy, and neither supersede nor modify this privacy policy. This privacy policy is in the English language. Any translation of this privacy policy shall have no legal validity. In the event of any inconsistency between the English language version hereof and any translation of this privacy policy into another language, this English language version will govern.
 
@@ -106,11 +106,11 @@ This privacy policy does not apply to those Brother sites, services and products
 
 Personal information collected by Brother will be stored and processed in the United States or any other country in which Brother or any of Brother’s third party vendors store or process information. By contacting Brother and providing your personal information, you consent to the collection, use and transfer of your personal information to the US and around the globe.
 
-Your Consent 
+**Your Consent**
 
 By your interaction and communication with Brother, including the use of the Site, you consent to the collection and use of personal information as outlined in this privacy policy. 
 
-Contact Information 
+**Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please contact Brother International Corporation. 
 
@@ -123,5 +123,4 @@ Postal Address: Brother International Corporation, 100 Somerset Corporate Blvd, 
 
 Website URL ([http://www.brother-usa.com](http://www.brother-usa.com/)) 
 
-|    
----|---|---
+| 
