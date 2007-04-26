@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230063332id_/http%3A//www.turningtechnologies.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426090151id_/http%3A//www.turningtechnologies.com/privacy.cfm) for the most accurate reproduction.*
 
-# Turning Technologies Audience Response Systems, Group Response System, Privacy
+# TurningTechnologies.com | Privacy Policy
 
 Turning Technologies, LLC has created this privacy statement to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for Turning Technologies' website: [www.turningtechnologies.com.](http://www.turningtechnologies.com/)
 
