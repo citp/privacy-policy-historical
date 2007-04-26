@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024012441id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426151925id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
