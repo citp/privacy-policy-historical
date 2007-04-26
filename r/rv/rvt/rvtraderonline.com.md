@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvtraderonline.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017120042id_/http%3A//www.rvtraderonline.com/about.html%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvtraderonline.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426104522id_/http%3A//www.rvtraderonline.com/about.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Your online classified advertising company - RVTraderOnline.com
 
