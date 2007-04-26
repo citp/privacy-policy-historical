@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211155751id_/http%3A//www.ncte.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426090852id_/http%3A//www.ncte.org/privacy) for the most accurate reproduction.*
 
 # NCTE - Privacy Policy Statement
 
