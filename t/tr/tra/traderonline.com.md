@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderonline.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118210449id_/http%3A//www.traderonline.com/about.html%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderonline.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427012951id_/http%3A//www.traderonline.com/about.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # About Trader Online
 
