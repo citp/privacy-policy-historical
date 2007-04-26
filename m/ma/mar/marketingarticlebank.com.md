@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingarticlebank.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209235236id_/http%3A//www.marketingarticlebank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingarticlebank.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426184044id_/http%3A//www.marketingarticlebank.com/privacy.php) for the most accurate reproduction.*
 
 # MarketingArticleBank.com
 
