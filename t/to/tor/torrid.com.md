@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215000119id_/http%3A//www.torrid.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426132356id_/http%3A//www.torrid.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
 
-# Torrid Privacy Policy
+# Torrid.com - Plus Sizes Privacy Policy
 
 |  |  |  |  |             
 ---|---  
@@ -43,7 +43,7 @@ On-Line Parental Consent
 City of Industry, CA 91748   
 (626) 839-4686 Fax 
 
-[Consent form](https://web.archive.org/web/20061215000119id_/http%3A//www.torrid.com/services/parentalconsent.pdf)
+[Consent form](https://web.archive.org/web/20070426132356id_/http%3A//www.torrid.com/services/parentalconsent.pdf)
 
 **
 
