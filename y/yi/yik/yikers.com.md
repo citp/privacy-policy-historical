@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212132959id_/http%3A//www.yikers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426101844id_/http%3A//www.yikers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Yikers Privacy Policy
 
-|  |  |  |   
+|  |  |   
 ---|---|---  
 |  | Yikers.com Privacy Policy  
 ---  
@@ -34,7 +34,7 @@ Personally Identifiable Information collected by Yikers.com is securely stored a
   
 What choices are available to Visitors regarding collection, use and distribution of the information?  
 ---  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [help@yikers.com](mailto:help@yikers.com)  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@yikers.com](mailto:privacy@yikers.com)  
   
 Are Cookies Used on the Site?  
 ---  
@@ -58,11 +58,11 @@ All of our employees are familiar with our security policy and practices. The Pe
   
 How can Visitors correct any inaccuracies in Personally Identifiable Information?  
 ---  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [help@yikers.com](mailto:help@yikers.com)  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@yikers.com](mailto:privacy@yikers.com)  
   
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  
 ---  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [help@yikers.com](mailto:help@yikers.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.   
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@yikers.com](mailto:privacy@yikers.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.   
   
 What happens if the Privacy Policy Changes?  
 ---  
@@ -70,4 +70,10 @@ We will let our Visitors and Authorized Customers know about changes to our priv
   
   
 |  |   
-[Contact Us](mailto:help@yikers.com) \- [Webmasters](https://web.archive.org/web/20061212132959id_/http%3A//www.yikers.com/webmasters.html) \- [Privacy Policy](https://web.archive.org/privacy_policy.html) \- [Advertise on Yikers](https://web.archive.org/web/20061212132959id_/http%3A//www.yikers.com/advertise.html)[RSS / XML Feed](http://www.yikers.com/rss/rss.xml) \- [Unsubscribe](http://www.yikers.com/unsubscribe.html)
+[Contact Us](mailto:help@yikers.com) \- [Webmasters](https://web.archive.org/web/20070426101844id_/http%3A//www.yikers.com/webmasters.html) \- [Privacy Policy](https://web.archive.org/privacy_policy.html) \- [Advertise With Us](http://www.liveuniverse.com/advertise/)[RSS / XML Feed](http://www.yikers.com/rss/rss.xml) \- [Unsubscribe](http://www.yikers.com/unsubscribe.html) \- [DMCA](http://www.yikers.com/dmca.html)
+
+[ ](http://extremetracking.com/open?login=yikers)
+
+  
+  
+
