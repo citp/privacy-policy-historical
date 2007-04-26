@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the playtech.com privacy policy that was archived on 2006-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061026135858id_/http%3A//www.playtech.com/html/main.php%3Fpage%3D61) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playtech.com privacy policy that was archived on 2007-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426162545id_/http%3A//www.playtech.com/html/main.php%3Fpage%3D61) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Playtech - The Source of Success</title>
 <link href="styles.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/JavaScript" src="lightbox.js"></script>
+<script language="javaScript" type="text/javaScript" src="js/default.js"></script>
 
 
 
@@ -93,7 +94,49 @@ function menu(input) {
 		}*/
 	}
 }
+
+function OpenMenuItem2(input) {
+	if (input) {
+		if (input == 'indexMenu') {
+			menuConnectorAdd = '00';
+		} else if (input == 'productsMenu') {
+			menuConnectorAdd = '01';
+		} else if (input == 'corporateMenu') {
+			menuConnectorAdd = '02';
+		} else if (input == 'investorMenu') {
+			menuConnectorAdd = '03';
+		} else if (input == 'newsMenu') {
+			menuConnectorAdd = '04';
+		} else if (input == 'contactsMenu') {
+			menuConnectorAdd = '05';
+		} else if (input == 'langMenu') {
+			menuConnectorAdd = '07';
+		}
+
+		document.getElementById(input).style.display = '';
+		document.getElementById('menuConnector').className = 'menuConnector' + menuConnectorAdd;
+		document.getElementById(input + '_LI').className = 'menuActive';
+	}
+}
+
+function menu2(input) {
+	if (input) {
+		CloseMenuItem('indexMenu');
+		CloseMenuItem('productsMenu');
+		CloseMenuItem('corporateMenu');
+		CloseMenuItem('investorMenu');
+		CloseMenuItem('newsMenu');
+		CloseMenuItem('contactsMenu');
+		CloseMenuItem('langMenu');
+		
+		OpenMenuItem2(input);
+	}
+}
+
 </script>
+
+
+
   <script language="JavaScript" type="text/JavaScript">
 <!--
 	function MM_displayStatusMsg(msgStr) { //v1.0
@@ -143,15 +186,40 @@ function detailsSwitch(more, nomore, detail) {
 
 
 
+<style>
+#mainText, #secondText {
+	text-align: justify;
+}
+</style>
 
 
-
+<style>
+body {
+	background: url(images/heading_ee_2.jpg) left top no-repeat;
+}
+</style>
+	
 </head>
 
-<body><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">Click anywhere to close</div></div></div>
+<body onload="MM_preloadImages('images/lang/lang12_over.gif')">
+
 <div id="container">
   <div id="headingContainer">
     <div id="headingLogo"><a href="index.php"><img src="images/spacer.gif" alt="" width="350" height="90"></a></div>
+    <div id="langBar">
+      <a href="index.php" onmouseover="MM_swapImage('lang1','','images/lang/lang01_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang01.gif" name="lang1" id="lang1" border="0" alt=""></a>
+      <a href="main.php?page=70&amp;lang=de" onmouseover="MM_swapImage('lang2','','images/lang/lang02_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang02.gif" border="0" alt="" name="lang2" id="lang2"></a>
+      <a href="main.php?page=70&amp;lang=tr" onmouseover="MM_swapImage('lang3','','images/lang/lang03_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang03.gif" border="0" alt="" name="lang3" id="lang3"></a>
+      <a href="main.php?page=70&amp;lang=es-xm" onmouseover="MM_swapImage('lang4','','images/lang/lang04_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang04.gif" border="0" alt="" name="lang4" id="lang4"></a>
+      <a href="main.php?page=70&amp;lang=it" onmouseover="MM_swapImage('lang5','','images/lang/lang05_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang05.gif" border="0" alt="" name="lang5" id="lang5"></a>
+      <a href="main.php?page=70&amp;lang=fr" onmouseover="MM_swapImage('lang6','','images/lang/lang06_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang06.gif" border="0" alt="" name="lang6" id="lang6"></a>
+      <a href="main.php?page=70&amp;lang=nl" onmouseover="MM_swapImage('lang7','','images/lang/lang07_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang07.gif" border="0" alt="" name="lang7" id="lang7"></a>
+      <a href="main.php?page=70&amp;lang=ru" onmouseover="MM_swapImage('lang8','','images/lang/lang08_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang08.gif" border="0" alt="" name="lang8" id="lang8"></a>
+      <a href="main.php?page=70&amp;lang=ja" onmouseover="MM_swapImage('lang9','','images/lang/lang09_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang09.gif" border="0" alt="" name="lang9" id="lang9"></a>
+      <a href="main.php?page=70&amp;lang=ko" onmouseover="MM_swapImage('lang10','','images/lang/lang10_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang10.gif" border="0" alt="" name="lang10" id="lang10"></a>
+      <a href="main.php?page=70&amp;lang=zh-cn" onmouseover="MM_swapImage('lang11','','images/lang/lang11_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang11.gif" border="0" alt="" name="lang11" id="lang11"></a>
+      <a href="main.php?page=70&amp;lang=zh-tw" onmouseover="MM_swapImage('lang12','','images/lang/lang12_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang12.gif" border="0" alt="" name="lang12" id="lang12"></a>
+    </div>
   </div>
   <div id="menuContainer">
     <ul id="menu">
@@ -211,12 +279,9 @@ function detailsSwitch(more, nomore, detail) {
       <li><a href="main.php?page=52">player inquiry</a></li>
     </ul>
   </div>
-
-<!-- we represent - 61 -->
   <div id="sidebarContainer">
     <div id="sidebarImageContainer"><img src="view.php?code=th31" alt=""></div>
   </div>
-<!-- we represent - 61 -->
   <div id="mainContentContainer">
     <div class="textboxContainer">
       <div id="mainContentLeft"><img src="images/main_content_left.png" alt="" width="8" height="187" style="behavior: url('pngbehaviour.htc');"></div>
@@ -225,7 +290,6 @@ function detailsSwitch(more, nomore, detail) {
         <div id="mainContent">
           <div id="mainText">
     	    <h1>Privacy Policy</h1>
-<!-- we represent 2 - 61 -->
     	    <p>This privacy policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Playtech.  If you have any requests concerning your personal information or any queries with regard to these practices please contact us at <a href="mailto:privacy@playtech.com">privacy@playtech.com</a>.<br><br><span style="font-weight: bold;">Information Collected</span><br>Every time you visit our website, move from page to page, read pages, or download content onto your computer, we learn which pages are visited and what content is downloaded. However, this is measured only in aggregate and not on an individual basis. <br><br>When you send us an e-mail or ask us to respond to you by e-mail, we learn your e-mail address and the information that you have included in the email form shown on our website.<br><br><span style="font-weight: bold;">Use of personal information</span><br>We use the aggregate statistical information to determine how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most popular so that we can improve our website and make it easier for you to access this information. We record the statistical information on the number of visitors to our website but no information about you in particular is kept or used. <br><br>In relation to the information we gain when you email us, we may use your e-mail address to acknowledge your comments and/or reply to your questions and we may store your communication and our reply in case we need to correspond at a later date. We will not provide your e-mail address to anyone. <br><br><span style="font-weight: bold;">Disclosures</span><br>We will only disclose personal information to other companies within our group of companies, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf.<br><br><span style="font-weight: bold;">Internet-based transfers</span><br>Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.  Therefore by browsing this website and communicating electronically with us, you acknowledge and agree to our processing of personal data this way.</p>
           <div style="clear: both; "></div>
         </div>
