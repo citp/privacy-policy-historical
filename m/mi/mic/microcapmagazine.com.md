@@ -1,41 +1,30 @@
-> *The following text is extracted and transformed from the microcapmagazine.com privacy policy that was archived on 2004-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040506135349id_/http%3A//www.microcapmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcapmagazine.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426150424id_/http%3A//www.microcapmagazine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D287%26Itemid%3D45) for the most accurate reproduction.*
 
-# Privacy Policy
+# Microcap Magazine - Privacy Policy
 
-**Please Read Our Privacy Policy**
+Written by Administrator      
+Monday, 22 January 2007   
+  
+WiredStocks.com is vigorously committed to safeguarding your online privacy. Any personal information you provide through WiredStocks.com.com will not be disclosed to third parties, except for information used for the purpose of compiling demographic statistics for site advertisers. This demographic information is valuable to advertisers, clients and sponsors and supports some of the free features of WiredStocks.com. No individual-specific information will be disclosed at any time and we will not identify personal characteristics of single users to third parties.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Specific exceptions to this policy include: 
 
-**Our Commitment To Data Security**
+The use of "cookies". Creation of a cookie improves the quality of your visit to WiredStocks.com. A "cookie" is a small file that WiredStocks.com.com downloads to your personal computer. This file stores your member name and password and allows WiredStocks.com.com to automatically identify you when you access WiredStocks.com.com from the computer you are using. These "cookies" make your access faster and allows us to provide you with customized tools and information you may have registered to view or use. Nothing in a cookie can identify you individually or harm your computer.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Personal information required to provide customized services. This includes data which you may supply so that we can allow you to personalize certain features of WiredStocks.com In order to personalize certain tools, it's necessary to identify your individual account (from session to session) and this requires that we maintain a log of user names, passwords and email addresses. If you prefer not to register for any of these specialized services, you can still visit and access many of the non-member features of WiredStocks.com
 
-**Our Commitment To Children's Privacy**
+Signing up for mailing lists. When you register with WiredStocks.com..com you agree to be included on a mailing list of WiredStocks.com.com or any mailing list of any company, service, advertiser or sponsor found on WiredStocks.com. This may also include any third party that provides WiredStocks.com.com with email fulfillment services.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+E-commerce transactions. Any e-commerce transactions that may require information such as credit card number or other personal information that is forwarded to the appropriate vendor or merchant for processing. 
 
-**How You Can Access Or Correct Your Information**
+Compliance with legal and/or regulatory authorities. WiredStocks.com reserves the right to access and disclose individually identifiable information to comply with applicable laws, regulations and lawful requests from legal or regulatory authorities, or to protect itself or its users. Where practical, WiredStocks.com will use reasonable efforts to attempt to contact the individual to obtain their prior consent before disclosing individually identifiable information.
 
-You can access all your personally identifiable information that we collect by request. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+Postings on Forums. Each posting in the discussion forum area includes an IP address Verification number that identifies the numerical Internet address of the person who has done the posting. This practice helps Forum users to differentiate between posters who may be posting under different names or aliases. 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+WiredStocks.com makes no representations or warranties as to the privacy policies of any of its clients, advertisers, sponsors, partners and suppliers found on WiredStocks.com.
 
-T **he Information We Collect**
+WiredStocks.com voluntarily and visibly provides users the opportunity to opt-out of receiving communications from WiredStocks.com, its clients, advertisers, sponsors, partners and/or suppliers.
 
-This notice applies to all information collected or submitted on the Microcap Magazine website. On some pages, you can  make requests, and register to receive materials. The types of personal information collected at these pages are:
-
-        Name  
-        Email Address
-
-           **The Way We Use Information**
-
-We use the information you provide about yourself to keep members informed of our equities research. We do not share this information with outside parties.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-**How To Contact Us**  
-
-
-Should you have other questions or concerns about these privacy policies, please send us an email at : [support@microcapmagazine.com](mailto:support@microcapmagazine.com)
+Please contact us if you have any questions or comments concerning our privacy policy.  
+  
+Last Updated ( Monday, 22 January 2007 ) 
