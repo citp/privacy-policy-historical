@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ngohq.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217202838id_/http%3A//www.ngohq.com/home.php%3Fpage%3DDisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngohq.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426040338id_/http%3A//www.ngohq.com/home.php%3Fpage%3DDisclaimer) for the most accurate reproduction.*
 
-# NVIDIA GeForce 8800 7950 7800 7900 7600 7300 ATI RADEON X1950 X1900 X1800 X1650 X1600 X1300 - NGOHQ.com
+# ATI Radeon Catalyst HD2900 X1950 X1900 X1650 NVIDIA GeForce ForceWare 8800 8600 7950 7900 - NGOHQ.com
 
 **Disclaimer**
 
