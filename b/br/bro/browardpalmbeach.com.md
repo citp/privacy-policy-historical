@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113000104id_/http%3A//browardpalmbeach.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426182555id_/http%3A//www.browardpalmbeach.com/about/policy.php) for the most accurate reproduction.*
 
-# 
+# Broward-Palm Beach - - browardpalmbeach.com
 
 Parent of _Broward-Palm Beach New Times_ and browardpalmbeach.com 
 
@@ -41,26 +41,3 @@ In the event of a sale of Broward-Palm Beach New Times or a sale of substantiall
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@browardpalmbeach.com](mailto:web@browardpalmbeach.com). 
 
 | 
-
-[ ](https://web.archive.org/community/registration/login.php)
-
-[ ](http://ftlauderdale.backpage.com/)  
-
-
-[**community (849)**](http://ftlauderdale.backpage.com/community/classifieds/Results?section=4382)  
-[**automotive (1,719)**](http://ftlauderdale.backpage.com/automotive/classifieds/Results?section=191221)  
-[**buy, sell, trade (5,700)**](http://ftlauderdale.backpage.com/buyselltrade/classifieds/Results?section=4378)  
-[**musician (1,076)**](http://ftlauderdale.backpage.com/musician/classifieds/Results?section=4380)  
-[**rentals (7,344)**](http://ftlauderdale.backpage.com/rentals/classifieds/Results?section=4376)  
-[**real estate for sale (6,892)**](http://ftlauderdale.backpage.com/realestate/classifieds/Results?section=4375)  
-[**jobs (7,439)**](http://ftlauderdale.backpage.com/employment/classifieds/Results?section=4373)  
-[**personals (675)**](http://ftlauderdale.backpage.com/personals/classifieds/Disclaimer?section=4383)  
-[**adult entertainment (1,586)**](http://ftlauderdale.backpage.com/adult/classifieds/Disclaimer?section=4381)  
-[**services (4,105)**](http://ftlauderdale.backpage.com/services/classifieds/Results?section=4374)  
-
-
-[](https://web.archive.org/promotions/freestuff.php)
-
-[](https://web.archive.org/search/happyhour.php)
-
-[](https://web.archive.org/autobuzz/)
