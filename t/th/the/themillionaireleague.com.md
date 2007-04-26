@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213174528id_/http%3A//www.themillionaireleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426165229id_/http%3A//www.themillionaireleague.com/privacy.html) for the most accurate reproduction.*
 
-# The Millionaire League.com
+# The Millionaire League.com - Earn Leagues Above The Best!
 
-[](http://www.themillionaireleague.com/)
+  
 
-Privacy Policy Statement
 
 TheMillionaireLeague.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -43,7 +42,3 @@ This policy and the use of this Site are governed by the law. If a dispute arise
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-**[Home](http://www.themillionaireleague.com/) | [Affiliates](https://web.archive.org/web/20061213174528id_/http%3A//www.themillionaireleague.com/affiliates) | [Terms Of Use](https://web.archive.org/web/20061213174528id_/http%3A//www.themillionaireleague.com/terms.html) | [ Earnings Disclaimer](https://web.archive.org/web/20061213174528id_/http%3A//www.themillionaireleague.com/disclaimer.html) | [ Privacy Policy](https://web.archive.org/web/20061213174528id_/http%3A//www.themillionaireleague.com/privacy.html)** **|** [**Contact**](mailto:info@themillionaireleague.com)
-
-**© Copyright 2006 TheMillionaireLeague.com. All rights reserved.**
