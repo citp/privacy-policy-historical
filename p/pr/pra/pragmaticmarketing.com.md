@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210013550id_/http%3A//www.pragmaticmarketing.com/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426151922id_/http%3A//www.pragmaticmarketing.com/AboutUs/privacy.asp) for the most accurate reproduction.*
 
 # Pragmatic Marketing: About Us
 
