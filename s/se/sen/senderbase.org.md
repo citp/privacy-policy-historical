@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the senderbase.org privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820151514id_/http%3A//www.ironport.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senderbase.org privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426200401id_/http%3A//www.ironport.com/privacy.html) for the most accurate reproduction.*
 
 # IronPort® Privacy
 
 | 
 
-The following statement discloses privacy practices for all of the Websites of IronPort Systems, Inc., including www.ironport.com, www.senderbase.org, and those of its subsidiaries, such as SpamCop.net, Inc., Our privacy statement is effective as of June 30, 2004, as updated June 15, 2005. We may update our policy from time to time without notice, so please check back periodically. All updates will be published at this site.
+The following statement discloses privacy practices for all of the Websites of IronPort Systems, Inc., including [www.ironport.com](http://www.ironport.com/), [www.senderbase.org](http://www.senderbase.org/), and those of its subsidiaries, such as SpamCop.net, Inc., Our privacy statement is effective as of June 30, 2004, as updated December 1, 2006. We may update our policy from time to time without notice, so please check back periodically. All updates will be published at this site.
 
 ## Personal Information
 
-As the leading e-mail security provider for organizations ranging from small businesses to the Global 2000, IronPort understands your desire to protect personal information. We intend to inform you of how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on one of our Websites where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences. 
+As the leading internet gateway security provider for organizations ranging from small businesses to the Global 2000, IronPort understands your desire to protect personal information. We intend to inform you of how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on one of our Websites where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences. 
 
 ## What Information We Gather
 
-We will request personal information when you place an order, register a product, request or register for a service, answer a survey, enter a contest, correspond with us or engage in certain other activities on our Websites. When you submit an order on-line with us, for example, we will ask you for information necessary to complete the transaction, such as your name, address and payment information. When you register for our SenderBaseTM Network Participation Program, as another example, we will collect aggregated statistics about your e-mail including information about your incoming e-mail, message attributes, and the types of messages handled by our products for you. When you request technical support online, as a final example, we will ask you for information necessary to complete the transaction, such as your name, address and information about your computer hardware, software and the nature of the problem you are experiencing. Providing such information is completely voluntary, and you are under no obligation to provide such information to IronPort, but you may not get the full benefit of our products and services without providing such information. 
+We will request personal information when you place an order, register a product, request or register for a service, answer a survey, enter a contest, correspond with us or engage in certain other activities on our Websites. When you submit an order with us, for example, we will ask you for information necessary to complete the transaction, such as your name, address and payment information. When you register for our SenderBase® Network Participation Program, as another example, we will collect aggregated statistics about your e-mail including information about your incoming e-mail, message attributes, and the types of messages handled by our products for you. When you request technical support online, as a final example, we will ask you for information necessary to complete the transaction, such as your name, address and information about your computer hardware, software and the nature of the problem you are experiencing. Providing such information is completely voluntary, and you are under no obligation to provide such information to IronPort, but you may not get the full benefit of our products and services without providing such information. 
 
 ## How We Use the Information We Gather and Track
 
@@ -31,7 +31,7 @@ If you agree to provide personal information, we will use it in the following wa
 
 ## With Whom We May Share Your Information
 
-We will not sell or rent your personal information to any third party. From time to time, however, unless we have stated otherwise, we may provide certain information to selected business partners in order to effectively provide the product or service requested. For example, we share information about the e-mail practices of applicants for our Bonded SenderTM Program with TRUSTe, the leading independent, non-profit entity dedicated to building trust and confidence on the Internet. In addition, registered users of our SpamCop™ service may file complaints about unwanted e-mail that are forwarded to Internet abuse desks. IronPort cannot control what happens to any personally identifying information contained in a complaint once the complaint is sent, but IronPort will not send complaints without your consent. 
+We will not sell or rent your personal information to any third party. From time to time, however, unless we have stated otherwise, we may provide certain information to selected business partners in order to effectively provide the product or service requested. For example, registered users of our SpamCop™ service may file complaints about unwanted e-mail that are forwarded to Internet abuse desks. IronPort cannot control what happens to any personally identifying information contained in a complaint once the complaint is sent, but IronPort will not send complaints without your consent. 
 
 In addition, IronPort may retain the services of outside contractors to provide services for us. They may be used to ship products, provide technical support, handle order processing or perform other services for us. We require that these contractors keep the personal information of customers secure and confidential. We also require that these contractors use personal information only on behalf of IronPort. 
 
@@ -57,7 +57,7 @@ If you provide to us your personal information and at any time you believe that 
 
 ## Cookies
 
-IronPort may use cookies from time to time. A cookie is a small amount of data stored on the hard drive of the individual's computer that allows us to identify the individual with his or her corresponding data that resides in our databases. You may read more about cookies at http://cookiecentral.com. IronPort may use cookies to personalize your pages at our Support Website, or to remember you when you register for products or services. If you do not want IronPort to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our Websites. 
+IronPort may use cookies from time to time. A cookie is a small amount of data stored on the hard drive of the individual's computer that allows us to identify the individual with his or her corresponding data that resides in our databases. You may read more about cookies at [http://cookiecentral.com](http://cookiecentral.com/). IronPort may use cookies to personalize your pages at our Support Website, or to remember you when you register for products or services. If you do not want IronPort to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our Websites. 
 
 IronPort may also use cookies to track your visit to our Websites. While our Web servers may automatically log your IP address, your Internet traffic statistics will not be tied back to other personal information. 
 
@@ -71,7 +71,7 @@ At the IronPort Websites, we list a number of business partners with whom we hav
 
 ## Links
 
-IronPort Websites also contain links to other sites. Please be aware that IronPort is not responsible for the privacy practices of such other sites. We encourage our visitors to, when they leave our Websites, to read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by IronPort Websites. 
+IronPort Websites also contain links to other sites. Please be aware that IronPort is not responsible for the privacy practices of such other sites. We encourage our visitors to, when they leave our Websites, read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by IronPort Websites. 
 
 ## Other Privacy Considerations
 
