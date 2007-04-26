@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeographic.co.in privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210125123id_/http%3A//www.nationalgeographic.co.in/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.co.in privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426042358id_/http%3A//www.nationalgeographic.co.in/info/privacy.aspx) for the most accurate reproduction.*
 
 # National Geographic Channel
 
