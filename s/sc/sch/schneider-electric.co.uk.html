@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schneider-electric.co.uk privacy policy that was archived on 2006-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061229193753id_/http%3A//www.schneider.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schneider-electric.co.uk privacy policy that was archived on 2007-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426154950id_/http%3A//www.schneider.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy policy</title><meta name="keywords" content="Electrical distribution, automation control, switchgear, transformers, substations, wiring accessories, intelligent home controls"><meta name="description" content="Schneider Electric manufactures electrical distribution and automation control equipment utilising its world leading brands - Merlin Gerin, Telemecanique, Square D, Clipsal, Sarel and Mita"><meta name="robots" content="all"><meta name="revisit-after" content="30 days">
@@ -9,48 +9,6 @@ function gotoSite() {
 	var frm = window.document.forms[0];
 	var page = frm.countrywebsites.value;
 	window.open(page,'popup','width=600,height=600,left=200,top=0,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');
-}
-
-function searchDomain() {
-	vDebug = false;
-	//alert("Hello");
-	if (window.event && window.event.keyCode == 13) {
-		window.event.keyCode = 10;
-		if ( vDebug ) alert( window.event.keyCode );
-		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
-		if ( vDebug ) alert( show_props( document.forms[0], "forms.0" ) );
-		if ( vDebug ) alert( show_props( document.forms[0].SimpleQuery, "forms.0.SimpleQuery" ) );
-		//if (document.forms[0].SimpleQuery[0] != "" ) {
-		exclude = "DomainSearchExclude" ;
-		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
-		if ( typeof( document.forms[0].SimpleQuery[0] ) == "undefined" ) {
-			sTxt = document.forms[0].SimpleQuery.value;
-		} else {
-			sTxt = document.forms[0].SimpleQuery[0].value;
-		}
-		if ( vDebug ) alert( sTxt );
-/*
-if ( vDebug ) alert( typeof( document.forms[0]["Structure.dbHome"] ) );
-if ( typeof( document.forms[0]["Structure.dbHome"] ) == "undefined" ) {
-		sDB = "/internet/pws/pws.nsf";
-	} else {
-		sDB = document.forms[0]["Structure.dbHome"].value;
-	}
-}
-*/
-//sDB = document.forms[0]["Structure.dbHome"].value;
-
-		if ( sTxt !="" ) {
-			sDB = "/internet/pws/pws.nsf";
-			if ( vDebug ) alert( sDB + " : " + sTxt );
-			sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + "*)AND(NOT("+exclude+"))&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
-			if ( vDebug ) alert( sURL );
-			window.location.href = sURL;
-//}
-		}
-	} else {
-//		alert( "Not an enter key=" + window.event.keyCode )
-	}
 }
 // -->
 </script>
@@ -110,6 +68,96 @@ function gotoSite() {
 	if ( vDebug ) alert( page );
 	
 	window.open(page,'popup','width=600,height=600,left=200,top=0,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');
+}
+
+function searchDomain() {
+	vDebug = false;
+	//alert("Hello");
+	if (window.event && window.event.keyCode == 13) {
+		window.event.keyCode = 10;
+		if ( vDebug ) alert( window.event.keyCode );
+		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
+		if ( vDebug ) alert( show_props( document.forms[0], "forms.0" ) );
+		if ( vDebug ) alert( show_props( document.forms[0].SimpleQuery, "forms.0.SimpleQuery" ) );
+		//if (document.forms[0].SimpleQuery[0] != "" ) {
+		exclude = "DomainSearchExclude" ;
+		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
+		if ( typeof( document.forms[0].SimpleQuery[0] ) == "undefined" ) {
+			sTxt = document.forms[0].SimpleQuery.value;
+		} else {
+			sTxt = document.forms[0].SimpleQuery[0].value;
+		}
+		if ( vDebug ) alert( sTxt );
+/*
+if ( vDebug ) alert( typeof( document.forms[0]["Structure.dbHome"] ) );
+if ( typeof( document.forms[0]["Structure.dbHome"] ) == "undefined" ) {
+		sDB = "/internet/pws/pws.nsf";
+	} else {
+		sDB = document.forms[0]["Structure.dbHome"].value;
+	}
+}
+*/
+//sDB = document.forms[0]["Structure.dbHome"].value;
+
+		if ( sTxt !="" ) {
+			sDB = "/internet/pws/pws.nsf";
+			if ( vDebug ) alert( sDB + " : " + sTxt );
+			sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + "*)AND(NOT("+exclude+"))&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
+			if ( vDebug ) alert( sURL );
+			window.location.href = sURL;
+//}
+		}
+	} else {
+//		alert( "Not an enter key=" + window.event.keyCode )
+	}
+}
+
+function doSearch ( s ) {
+
+	f = document.forms[0];
+	elibDb = "http://" + location.host + "/internet/pws/literature.nsf";
+	
+	var myRegExp = / /gi;
+	s = s.value.replace(myRegExp,"*+AND+*");
+	
+	//var thisDb = f.thisDatabaseWithPath.value;
+	
+	if (f.searchselect[1].checked) {
+		location.href = elibDb + "/luSearchCatalogues?SearchView&Query=[fReference=*" + s + "*]";
+	} else {
+		location.href = elibDb + "/luSearchCatalogues?SearchView&Query=*" + s + "*";
+		}
+	//openDbRelativeURL("All?SearchView&Query=" + s.value);
+}
+
+function doSearchA ( s ) {
+
+	f = document.forms[0];
+	elibDb = "http://" + location.host + "/internet/pws/literature.nsf";
+
+	if (window.event && window.event.keyCode == 13) {
+		window.event.keyCode = 10;
+		var myRegExp = / /gi;
+		s = s.value.replace(myRegExp,"*+AND+*");
+	
+		//var thisDb = f.thisDatabaseWithPath.value;
+	
+		if (f.searchselect[1].checked) {
+			location.href = elibDb + "/luSearchCatalogues?SearchView&Query=[fReference=*" + s + "*]";
+		} else {
+			location.href = elibDb + "/luSearchCatalogues?SearchView&Query=*" + s + "*";
+		}
+	//openDbRelativeURL("All?SearchView&Query=" + s.value);
+	} else {
+		//		alert( "Not an enter key=" + window.event.keyCode )
+	}
+}
+
+
+function checkValue(o) {
+	f = document.forms[0];
+	f.searchselect[o].checked = false;
+	f.searchstring.focus();
 }function radScript() {
 	alert("2006");
 	return false;
@@ -180,8 +228,8 @@ if (!ver4) event = null;
 <table width="100%" height="100%">
 <tbody><tr valign="top"><td width="20%" class="column1">
 <table width="96%" class="searcharea" cellspacing="2">
-<tbody><tr><td><span class="sitesearchtext">Quick site search </span></td></tr>
-<tr valign="center"><td height="15"><span class="sitesearchinput"><input name="SimpleQuery" required="" size="16" maxlength="100" style="color:green" onkeypress="javascript:searchDomain()"><a onclick="vDebug = true;
+<tbody><tr><td><span class="sitesearchtext"><img src="/internet/pws/pws.nsf/gensitesearchicon.gif" border="0" align="absmiddle">General site search </span></td></tr>
+<tr valign="center"><td height="15"><span class="sitesearchinput"><input name="SimpleQuery" required="" size="16" maxlength="100" style="color:green" onkeypress="javascript:searchDomain()">&nbsp;<a onclick="vDebug = false;
 exclude = &quot;DomainSearchExclude&quot; ;
 if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
 if ( typeof( document.forms[0].SimpleQuery[0] ) == &quot;undefined&quot; ) {
@@ -208,7 +256,12 @@ sURL = sDB + &quot;/SearchResults?SearchDomain&amp;Query=(&quot; + sTxt + &quot;
 if ( vDebug ) alert( sURL );
 location.href = sURL
 }
-return false;" href=""><img src="/internet/pws/pws.nsf/01search.gif?OpenImageResource" width="16" height="16" border="0"></a></span></td></tr></tbody></table>
+return false;" href=""><img src="/internet/pws/pws.nsf/01search.gif?OpenImageResource" width="16" height="16" border="0"></a>&nbsp;</span></td></tr>
+</tbody></table>
+<table width="96%" class="searcharea" cellspacing="2">
+<tbody><tr><td><span class="sitesearchtext"><img src="/internet/pws/pws.nsf/elibsearchicon.gif" border="0" align="absmiddle">eCatalogue search</span></td></tr>
+<tr valign="center"><td height="15"><span class="sitesearchinput"><input type="text" name="searchstring" size="16" onkeypress="javascript:doSearchA(this.form.searchstring)">&nbsp;<a href="javascript:doSearch(this.form.searchstring)"><img src="/internet/pws/pws.nsf/01search.gif" border="0"></a>&nbsp;</span><br><input type="checkbox" name="searchselect" checked="" value="K" onclick="checkValue(1)">Keyword<input type="checkbox" name="searchselect" value="R" onclick="checkValue(0)">Cat Ref</td></tr>
+</tbody></table>
 <table><tbody><tr><td></td></tr></tbody></table>
 <table width="100%" class="countrywebsitebox">
 <tbody><tr><td>
@@ -223,11 +276,10 @@ return false;" href=""><img src="/internet/pws/pws.nsf/01search.gif?OpenImageRes
 <tbody><tr><td><span class="menuTitle">Customer service</span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=sales">Sales support</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=product">Product support</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/5CEEFB157E2A6EB1802570F10050E094?open">Training information</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/796EE241A376E547802570C400415250?open">FAQ's</a></span></td></tr><tr><td><span class="menuTitle">Downloads</span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/literature.nsf/lulibrary?open">Product info/catalogues</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/681C8872B68F0D178025710300497CDC?open">Software</a></span></td></tr><tr><td><span class="menuLink"><a href="http://www.schneider.co.uk/internet/pws/literature.nsf/lulibrary?open&amp;login">Login</a></span></td></tr><tr><td><span class="menuTitle">Useful information</span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/distributorlist.nsf/formSearch?open">Approved Distributors</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/4B656FD92F327371802570F3004F6698?open">Systems Integrators</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/254E7C40EE0BE887802570C40049DECF?open">Our locations</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/312C7171D9A571BF802570C4003CCCCE?open">Quality certification</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/B0785AC105B44A20802570C40035DF91?open">Environmental policy</a></span></td></tr>
 </tbody></table>
 <br>
-<table cellspacing="0" height="120" valign="top">
+<table cellspacing="0" height="80" valign="top">
 <tbody><tr><td><span class="quicklinktext">Quick Links</span></td></tr>
-<tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/luAllByID/A504A1A5FFCD4C40802571A90042300C?open">Most popular downloads</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/contents/763F5166A8090C00802570F4005B6CB3?open">Consultancy services</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/formSitemapAZ">Site Index A - Z</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/literature.nsf/lulibrary?open">Find a catalogue</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/distributorlist.nsf/formSearch?open">Buy products</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="https://www.my-schneider-electric.com/edist/schneider/jsp/Login.do?languageCode=en&amp;countryCode=UK">My Schneider Electric</a></span></td></tr>
+<tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/luAllByID/A504A1A5FFCD4C40802571A90042300C?open">Most popular downloads</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/contents/763F5166A8090C00802570F4005B6CB3?open">Consultancy services</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/formSitemapAZ">Site Index A - Z</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/luAllByID/2B2E22758137C98480257282004F1819?open">Events</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/literature.nsf/lulibrary?open">Find a catalogue</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/distributorlist.nsf/formSearch?open">Buy products</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="https://www.my-schneider-electric.com/edist/schneider/jsp/Login.do?languageCode=en&amp;countryCode=UK">My Schneider Electric</a></span></td></tr>
 </tbody></table>
-<br>
 </td>
 <td width="20%" class="column2" cellspacing="0" cellpadding="0">
 <center><img src="/internet/pws/pws.nsf/luImages/5ACFF2E9E1E1F5F7802570D7004F84B5/$file/rail.jpg?openElement" width="150" height="357"></center>
@@ -296,6 +348,20 @@ Privacy policy
 </td></tr>
 
 
+<input name="thisServer" type="hidden" value="">
+<input name="Structure.dbSiteMap" type="hidden" value="internet\SiteMap.nsf">
+<input name="Structure.dbRegistration" type="hidden" value="internet\registration.nsf">
+<input name="Structure.dbBasket" type="hidden" value="internet\Basket.nsf">
+<input name="Structure.dbPortal" type="hidden" value="internet\MySchneider.nsf">
+<input name="thisDatabase" type="hidden" value="pws.nsf">
+<input name="thisDatabaseWithPath" type="hidden" value="/internet/pws/pws.nsf">
+<input name="Structure.dbHome" type="hidden" value="/internet/pws/pws.nsf">
+<input name="Query_String" type="hidden" value="open">
+<input name="HTTP_HOST" type="hidden" value="www.schneider.co.uk">
+<input name="WebUserName" type="hidden" value="Anonymous">
+<input name="SimpleQuery" type="hidden" value="">
+<input name="SearchForm" type="hidden" value="<SPAN class=&quot;sitesearchinput&quot;><INPUT type=&quot;text&quot; name=&quot;searchstring&quot; size=&quot;16&quot; onKeyPress=&quot;javascript:doSearchA(this.form.searchstring)&quot;>&amp;nbsp;<a href=&quot;javascript:doSearch(this.form.searchstring)&quot;><IMG SRC=&quot;/internet/pws/pws.nsf/01search.gif&quot; border=&quot;0&quot;></A>&amp;nbsp;</SPAN><BR><INPUT type=&quot;checkbox&quot; name=&quot;searchselect&quot; checked value=&quot;K&quot; onclick=&quot;checkValue(1)&quot;>Keyword<INPUT type=&quot;checkbox&quot; name=&quot;searchselect&quot; value=&quot;R&quot; onclick=&quot;checkValue(0)&quot;>Cat Ref">
+<input name="pColumn2Image" type="hidden" value="<IMG SRC=/internet/pws/pws.nsf/luImages/5ACFF2E9E1E1F5F7802570D7004F84B5/$file/rail.jpg?openElement WIDTH=150 HEIGHT=357>">
 
 
 </tbody></table></center></form></body></html>
