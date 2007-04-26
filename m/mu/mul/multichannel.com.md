@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the multichannel.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212191045id_/http%3A//www.multichannel.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA318737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multichannel.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426104315id_/http%3A//www.multichannel.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA318737) for the most accurate reproduction.*
 
 # Privacy Policy - Multichannel News
+
+## Privacy Policy
 
 Last Revised: May/2006
 
