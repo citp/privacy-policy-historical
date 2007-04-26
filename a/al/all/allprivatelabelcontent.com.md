@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allprivatelabelcontent.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213113507id_/http%3A//www.allprivatelabelcontent.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allprivatelabelcontent.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426165309id_/http%3A//www.allprivatelabelcontent.com/policies.html) for the most accurate reproduction.*
 
 # Policies
 
@@ -18,9 +18,11 @@ Please note that information you place in your "profile" on the message boards c
 
 By participating in the message boards, you agree that we may reproduce any of your contributions elsewhere on the website, in advertising or in our newsletter. However, we will only publish the information that you make available to other members.
 
+Message board participation is available only while your subscription is active. Monthly memberships must be in good standing to have access to the message board. Bundles have one month access from the date of purchase, regardless of number of bundles purchased.
+
 **Copyright**
 
-All documents, information and logos included on this website are copyright AllPrivateLabelContent.com, 2006 except where noted. Any reproduction of other documents or information is strictly prohibited without the written consent of Alice Seba and Mila Sidman. 
+All documents, information and logos included on this website are copyright AllPrivateLabelContent.com, except where noted. Any reproduction of other documents or information is strictly prohibited without the written consent of Alice Seba and Mila Sidman. 
 
 **Terms of Use**
 
