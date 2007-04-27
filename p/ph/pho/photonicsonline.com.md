@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015183633id_/http%3A//www.photonicsonline.com/content/Membership/privacy.asp%3FReturn%3Dhttp%3A//www.photonicsonline.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428004639id_/http%3A//www.photonicsonline.com/content/Membership/privacy.asp%3FReturn%3Dhttp%3A//www.photonicsonline.com) for the most accurate reproduction.*
 
 # M E M B E R S H I P R E G I S T R A T I O N
 
