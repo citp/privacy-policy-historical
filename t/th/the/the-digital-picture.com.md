@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-digital-picture.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208011705id_/http%3A//the-digital-picture.com/Help/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-digital-picture.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427204457id_/http%3A//www.the-digital-picture.com/Help/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The-Digital-Picture.com Privacy Policy
 
@@ -6,7 +6,7 @@ Our privacy policy is very simple - we will respect you as a person. We must col
 
  
 
-[](https://web.archive.org/web/20061208011705id_/http%3A//the-digital-picture.com/Help/Terms-Of-Use.aspx) [](https://web.archive.org/web/20061208011705id_/http%3A//the-digital-picture.com/Help/ContactUs.aspx)       [](mailto:Info@The-Digital-Picture.com?subject=***%20The-Digital-Picture.com%20***)
+[](https://web.archive.org/web/20070427204457id_/http%3A//www.the-digital-picture.com/Help/Terms-Of-Use.aspx) [](https://web.archive.org/web/20070427204457id_/http%3A//www.the-digital-picture.com/Help/ContactUs.aspx)       [](mailto:Info@The-Digital-Picture.com?subject=***%20The-Digital-Picture.com%20***)
 
   
   
