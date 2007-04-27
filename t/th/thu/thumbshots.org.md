@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbshots.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203537id_/http%3A//www.thumbshots.org/privacy.pxf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbshots.org privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427095031id_/http%3A//www.thumbshots.org/privacy.aspx) for the most accurate reproduction.*
 
 # Open Thumbshots Project - Privacy Policy
 
@@ -37,11 +37,3 @@ Finally, the Smartdevil sites covered by this Privacy Notice will not use or tra
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites.
 
 "Web beacons" are small pieces of code placed on a web page to monitor the behaviour and collect data about the visitors viewing a web page. We may use web beacons on this site from time to time for this and other purposes. ****
-
-**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**
-
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. ****
-
-**Our Commitment to Security**
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. ****
