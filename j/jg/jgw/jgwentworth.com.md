@@ -1,68 +1,81 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130230834id_/http%3A//www.jgwfunding.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427175529id_/http%3A//www.jgwentworth.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Financial Information Privacy Policy at JG Wentworth
+# JG Wentworth | Privacy Policy
 
-[JG Wentworth](http://www.jgwfunding.com/ "JG Wentworth") > Privacy **YOUR PRIVACY IS OUR CONCERN**
+[Home](https://web.archive.org/Default.aspx "Home") > Privacy Policy 
 
-We recognize the importance of protecting your personal information. We collect and retain information about you to communicate with you, to process your requests for products and services, and to inform you about other financial services that may be of interest to you. Except as explained here in our Privacy Policy, we do not sell nonpublic personal information about current or former customers, nor do we share this type of information with anyone other than our affiliates. The examples in this Privacy Policy are illustrative only and are not intended to be exclusive.
+**YOUR PRIVACY IS OUR CONCERN**
 
- **What types of information does J.G. WENTWORTH collect about you and from whom?**
+The J.G. Wentworth, LLC family of companies (J.G. WENTWORTH) recognizes the importance of protecting your nonpublic personal information. Because your privacy is our concern, we have developed this Privacy Policy to inform you about our privacy practices. The examples in this Privacy Policy are illustrative only and are not intended to be exclusive. 
 
-We obtain most of our information directly from you on the application or in telephone conversations with you during the application process. Depending on the nature of your transaction, we may need additional information about you or others who may have an interest in your settlement.
+**What types of information does J.G. WENTWORTH collect about you and from whom?**
 
-We may obtain non-public personal information about you from some or all of the following sources:
+We obtain information about you directly from you, from applications, contracts, documents and forms you complete or sign, or in telephone conversations with you. We may obtain additional information about you or, with your authorization, others who may have an interest in your insurance policy or annuity contract, from additional sources, including your insurance company, insurance producer, health care providers, credit reporting agencies, and your representatives or advisors. We may also obtain information about you from public records and, with your authorization, other persons. 
 
-  * Financial Information, such as credit history, banking information and account numbers;
-  * Public Records, such as a drivers license number, judgments, liens, bankruptcies, divorces, probate, and other civil and criminal court proceedings;
-  * Consumer Reporting Agencies, such as credit reports;
-  * Employment Information, such as your occupation and employer; and
-  * General Information,such as birth date, social security number, phone, fax, email, street, and mailing address.
+We may obtain the following types of nonpublic personal information about you: 
 
-
-
- **What does J.G. WENTWORTH do with the information collected about you?**
-
-We review the information collected about you when evaluating a transaction. We will also maintain this information in our contract records and may use it for purposes related to buying settlement payments and collecting pledged or assigned payments. J.G. WENTWORTH may also use this information to identify opportunities for you to learn more products and services that may be of interest to you.
-
- **Information Sharing and Disclosure**
-
-J.G. WENTWORTH does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with J.G. WENTWORTH under confidentiality agreements. These companies may use your personal information to help J.G. WENTWORTH communicate with you about offers from J.G. WENTWORTH and our marketing partners. However, these companies do not have any independent right to share this information.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of J.G. WENTWORTH terms of use, or as otherwise required by law.
-  * We transfer information about you if J.G. WENTWORTH is acquired by or merged with another company. In this event, J.G. WENTWORTH will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * Personal information, such as your name, address, social security number, driver's license number, occupation and employer;
+  * Financial information, such as assets, income, credit history, banking information and account numbers;
+  * Legal information, such as judgments, liens, bankruptcies, divorces, probate, and other civil and criminal court proceedings;
+  * Other identifying information, such as birth date, telephone and fax numbers, and email, street, and mailing addresses;
+  * Insurance or annuity policy information, including the policy terms, conditions and limits, the named beneficiaries, and your premiums and payment history; and
+  * Medical information, such as your current health status and prior health care treatments.
 
 
 
- **OUR FORMER CUSTOMERS**  
-We treat information about our former customers in the same manner as we treat information about our current customers.
+**To whom does J.G. WENTWORTH disclose the information collected about you?**
 
- **CONFIDENTIALITY AND SECURITY**  
-We restrict access to nonpublic personal information about you to only those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information against unauthorized access or use.
+**Information Sharing and Disclosure**
 
-Maintaining the accuracy of your information is a shared responsibility. We maintain the integrity of the information you provide us and will update your records when you notify us of a change. Please contact us at the address or phone number listed below when information concerning you changes.
+J.G. WENTWORTH will not rent or sell your nonpublic personal information to anyone without first obtaining your consent. However, we will disclose your information if we are required by law to do so. Additionally, with your authorization, we will disclose your nonpublic personal health information to our affiliates and non-affiliated companies that provide services for us related to a transaction you request. With your authorization, we will disclose your nonpublic personal health information to entities that provide us with financing or financial support for a transaction that you request. Additionally, as permitted by law and with your authorization, we may disclose your health information to allow our authorized representative to contact you for purposes of determining your current health status. 
 
- **UPDATES TO OUR PRIVACY POLICY**  
-As long as you remain a customer, we will provide you with an annual notice of this policy. We will provide notice of any revised policy to current customers and those consumers whose nonpublic personal information we share as described above. We reserve the right to change this policy at any time.
+As permitted by law or with your authorization, we will share your nonpublic personal financial information (1) to our affiliates and non-affiliated companies that provide services for us related to a transaction you request and (2) under the following additional circumstances: 
 
- **FOR VERMONT RESIDENTS**  
-The information-sharing practices described above are in accordance with federal law. Vermont law places additional restrictions on sharing information about Vermont residents, so long as they remain Vermont residents. In accordance with Vermont law:
-
-  * We will not share consumer credit reports with our affiliates without your consent, and
-  * We will only disclose your name, contact information and our own transaction and experience information to other financial institutions with which we have joint-marketing arrangements.
+  * To establish or exercise our legal rights or defend against legal claims;
+  * In connection with a proposed or actual sale, merger, transfer, exchange or consolidation of J.G. WENTWORTH or any portion of our business;
+  * To secure services and advice from our attorneys, accountants and auditors; and
+  * To permit our affiliates to contact you about other products and services offered by the J.G. WENTWORTH companies.
 
 
 
-Otherwise, we will share information in accordance with all of the practices described above.
+We may also disclose your nonpublic personal financial information for other purposes or to other persons with your authorization or otherwise as required or permitted by law. 
 
-If you have questions about the information in this notice, please write us:
+**Our Former Customers**
 
-> Customer Service — Privacy Coordinator  
-> J.G. WENTWORTH  
-> 40 Morris Ave.  
-> Bryn Mawr, PA 19010
+We treat information about our former customers in the same manner as we treat information about our current customers. 
 
-If you have any further questions, please visit our website at [www.jgwfunding.com](http://www.jgwfunding.com/), write to the address listed above, or call us at 866-386-3102.
+**Confidentiality and Security**
 
-This policy is effective November 22, 2004.
+We restrict access to the nonpublic personal information we receive about you. Only employees of the J.G. WENTWORTH companies who need to know that information to provide products or services to you have access to your information. We also maintain physical, electronic and procedural safeguards to guard your nonpublic personal information against unauthorized access or use. Non-affiliated companies to whom we disclose your nonpublic personal information are obligated to maintain your privacy under confidentiality agreements and do not have any independent right to use your information. 
+
+Maintaining the accuracy of your information is a shared responsibility. We maintain the integrity of the information you provide us and will update your records when you notify us of a change. Please contact us at the address or phone number listed below when information concerning you changes. 
+
+**Updates to our Privacy Policy**
+
+From time to time we may change our Privacy Policy. If our information practices change, we will post the changed policy to our website at [www.jgwentworth.com](https://web.archive.org/web/20070427175529id_/http%3A//www.jgwentworth.com/ "www.jgwentworth.com"). We reserve the right to change this policy at any time. 
+
+**Linked Websites**
+
+Because J.G. WENTWORTH cannot control the content of sites linking to or from our site, we are not responsible, nor can we make representations to the content of those websites or their individual privacy policies. 
+
+**"Cookies"**
+
+Cookies may be sent to your browser from our website in order to provide you with better service when you return to our website. A cookie is a string of data that is stored on your hard drive, which enables us to track your use of our website. With them we can determine the number of unique users accessing the various pages on the site and improve flow and content. 
+
+**Contact Information**
+
+The J.G. WENTWORTH family of companies includes:  
+J.G. WENTWORTH, LLC  
+J.G. WENTWORTH LIFE SETTLEMENTS, LLC  
+J.G. WENTWORTH LIFE SETTLEMENTS (DE), LLC  
+321 HENDERSON RECEIVABLES ORIGINATION, LLC  
+RC HENDERSON, LLC 
+
+If you have questions about the information in this notice, please write us at:  
+Customer Service—Privacy Coordinator  
+J.G. WENTWORTH  
+40 Morris Ave.  
+Bryn Mawr PA 19010  
+
+
+This policy is effective January 2007.
