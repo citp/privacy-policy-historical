@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hofmag.com privacy policy that was archived on 2006-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060818064228id_/http%3A//www.hofmag.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hofmag.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427144229id_/http%3A//www.hofmag.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D49) for the most accurate reproduction.*
 
-# Hall Of Fame Magazine - Privacy Policy
+# Privacy Policy
 
 This is the web site of **Hall of Fame Magazine, LLC**. 
 
