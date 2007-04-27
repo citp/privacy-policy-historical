@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swreg.org privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101200119id_/http%3A//www.swreg.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swreg.org privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427101408id_/http%3A//www.swreg.org/privacy.htm) for the most accurate reproduction.*
 
 # SWREG: Privacy
 
@@ -81,4 +81,5 @@ SWREG, Inc. may amend this Policy from time-to-time. We suggest you visit this W
 
 **SWREG, Inc. Contact Information**
 
-If you have questions or comments or would like to contact us concerning our Privacy Statement or if you feel your inquiry or request has not been handled to your satisfaction, please contact Digital River’s Privacy Department via e-mail [privacypolicy@reply.digitalriver.com](mailto:privacypolicy@reply.digitalriver.com). 
+If you have questions or comments or would like to contact us concerning our Privacy Statement or if you feel your inquiry or request has not been handled to your satisfaction, please contact Digital River’s Privacy Department via e-mail [privacypolicy@reply.digitalriver.com](mailto:privacypolicy@reply.digitalriver.com).   
+
