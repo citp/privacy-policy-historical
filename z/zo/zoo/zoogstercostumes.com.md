@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoogstercostumes.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216094809id_/http%3A//www.zoogstercostumes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoogstercostumes.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427180907id_/http%3A//www.zoogstercostumes.com/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
