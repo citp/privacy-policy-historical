@@ -1,95 +1,77 @@
-> *The following text is extracted and transformed from the villagevoice.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305105104id_/http%3A//www.villagevoice.com/generic/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagevoice.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427233400id_/http%3A//www.villagevoice.com/generic/privacypolicy.php) for the most accurate reproduction.*
 
-# The Village Voice
+# village voice > aboutus
 
-PRIVACY POLICY (Last Updated As Of: October 18, 2004)
+## PRIVACY POLICY
 
-A detailed privacy policy follows, but the bottom line is this: _The Village Voice_ will not sell or share any of your personal information to a third party unless you say it's okay _The Voice_ will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. Be a well-informed villagevoice.com user by reading the details below, and check back regularly for updates.
+**_Village Voice_ Media Parent of _Village Voice_ and villagevoice.com** _Village Voice_ Media respects your privacy. Our privacy policy for this site follows, but the bottom line is this: _Village Voice_ Media will not sell or share any of your personal information to a third party unless you say it's okay. _Village Voice_ Media will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. 
 
-Thank you for visiting Villagevoice.com (the "Site"), a Village Voice Media, Inc. website. At _The Village Voice_ (" _The Voice_ ", "us", "we", or "our"), we recognize and respect the importance of maintaining your privacy. We have established this Privacy Policy (the "Privacy Policy") to inform you of the kinds of information we may gather during your visit to the Site, why we gather customer information, what we use the information for, under what circumstances we may disclose such information, and how you can instruct us to limit the use of that information.
+_Policy effective as of September 25, 2006_
 
-By visiting the Site, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes.
+### Personally Identifiable Information
 
-If you have any questions please [e-mail us](mailto:webmaster@villagevoice.com), or write us to 36 Cooper Square, New York, NY, 10003 with comments or questions. See [About Village Voice](https://web.archive.org/aboutus/) to find out more about our Voice and our policies.
+We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside _Village Voice_ Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside _Village Voice_ Media with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to _Village Voice_ Media. The only _Village Voice_ Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
 
-1\. What Information We Gather
+We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
 
-We do not intentionally collect any personally identifiable information about you except when you provide it.
+Please remember that any information you share in public area, such as message boards becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private.
 
-Classified Ads:
+### Cookies
 
-When you place a classified ad on our Site, we will ask you for your e-mail address and other information that allows respondents to contact you. We will not share that information with any third party. You can choose to hide your personal information from other Site users.
+"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. _Village Voice_ Media does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a _Village Voice_ Media cookie, such as a user code. We have no control over whether and how our advertisers use cookies **that originate from their website**. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our site's features, and we recommend that you leave them turned on. 
 
-Newsletter:
-
-_The Voice_ collects email addresses and zip codes of all users who subscribe to our weekly newsletter. This information is not shared with any third parties for any purposes. Anyone who wishes to no longer receive this newsletter can, at any time, click on the "Unsubscribe" feature located within each newsletter.
-
-Anonymous Use Information:
-
-We do collect anonymous information about all of our users, including the way our users access the Site and the content. We analyze information to determine how our users are making use of various parts of the Site, to improve the Site, and so we can share "rating" information with our partners. This information is typically shared on an aggregated basis and cannot be used to identify individual Users.
-
-Giveaways and Contests
-
-If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us.
-
-Under 13:
-
-We do not knowingly collect any information from persons under the age of 13. If we learn that any persons under the age of 13 have provided information about themselves, the information will be deleted. Our Site is designed for adults. Our Site is not intentionally targeted to children under the age of 13. Children under the age of 13 should not use our Site without obtaining prior parental consent.
-
-Co-Branded Services:
-
-We work closely with our partners to offer co-branded services such as, the online personals service provided by [Spring Street Networks](http://www.springstreetnetworks.com/). For privacy policies governing these types of services, please see the separate privacy policies within these sections. To the extent such policies conflict with the terms of this Privacy Policy, the terms of such other policy shall govern.
-
-Links to Other Sites:
-
-Our Site contains links to other Web sites whose information practices may be different than ours. Please be aware that when you click on links and/or advertisement banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we are not responsible for the actions and privacy policies of third parties and other Web sites. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site. This Privacy Policy applies solely to information collected by _The Voice_ on this Site.
-
-2\. How We Use the Information We Gather
-
-The information collected is used internally by _The Voice_ for four main purposes: (1) To determine which areas, features, and products our users like the most and find most helpful as part of our continuing efforts to improve our Site; (2) To personalize the Site for our users (for example, if you have indicated an interest in jazz, we may make you aware of upcoming jazz events); (3) To enable our users to participate in sweepstakes, contests, services, and other activities on our Site; and (4) to enable users to place classified advertisements in designated areas of the Site. In all cases described below we will not sell or share any personally identifiable information with any third party without your consent.
-
-When we conduct user surveys to find out how we can improve our Site for you, we may share aggregated non-personal information about our users with advertisers or other third parties. For example, we might disclose that a certain percentage of our users are female.
-
-We also use certain third-party advertising services (including, in particular, Real Media) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. (See "Cookies and IP Addresses", below, if you're not sure what a cookie is.)
-
-We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in any way other than to provide the requested services to the Site
-
-You can choose to electronically forward a story from our Site to a friend by entering the friend's e-mail address. You can also request that we send an email alert when your favorite columnist posts a column or when certain classified ads are posted. We don't sell or share the addresses used in our E-mail This to a Friend service or our alerts to any third-party.
-
-Please remember that any information you share in public areas, such as message boards like [Bulletin Board](https://web.archive.org/classifieds/ads.php?category=Bulletin+Board&sort=1&database=0&a=0&class=9999) or [Online Classified](https://web.archive.org/classifieds/) sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private.
-
-Please note that whenever you choose to share information in the public areas of the Site, you grant us a license (as described in The Village Voice's [Terms of Use](http://www.villagevoice.com/classifieds/termsofuse.php)) to that information you publish. We occasionally will publish or use in connection with promotional and/or marketing materials any posted comments on our Site or feedback received via e-mail (especially if you say nice things about us).
-
-3\. How We Use "Cookies" and IP Addresses
-
-_Cookies_ : When you visit the Site, we send your computer a "cookie," a small data file that's stored on your hard drive. We use cookies to understand Site usage and to give you better, more personalized service. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features, and we recommend that you leave them turned on. We do not install, or authorize the installation of, web beacons, web bugs, "single-pixel gifs" or other types of spyware on users' computers.
-
-**Note** : You will see advertising on our Site that originates with outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, the advertisers will assign a cookie for ad tracking and presentation purposes. We are not responsible for nor have any control over these cookies.
-
-_IP address tracking_ : All computers and servers on the Internet use IP addresses to recognize and communicate with each other. _The Voice_ collects IP addresses to administer and analyze our Site and report aggregate, non-personal information (such as how many visitors we have). When you call up our Site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information.
+_IP address tracking_ : All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect IP addresses to administer and analyze our site and report aggregate, non-personal information (such as how many visitors we have). When you call up our site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information. 
 
 We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer.
 
-4\. Additional Circumstances When Information May be Shared
+### Your Letter to the Editor Contributions
 
-In addition to what is stated above, we share customer information only under the following, limited circumstances:
+As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
 
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to comply with the law or with legal process, protect and defend our rights and property, protect against misuse or unauthorized use of the Site or protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+### Communication from _Village Voice_ Media
 
-Although your privacy is very important to us, in the existing legal regulatory and security environment, we cannot fully guarantee that your personal information will not be disclosed to third parties. For example, under certain circumstances the government or unrelated third parties might legally require us to disclose information to them, or third parties might unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
+From time to time, we may send you information with announcements and updates about the site and _Village Voice_ Media and our partners. Any ongoing communication you may receive from _Village Voice_ Media via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list.
 
-5\. Security
+### Giveaways and Contests
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted with secure socket layer (SSL) encryption technology prior to transmission over the Internet.
+If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us. We will not use your personally identifiable information for any purpose other than the administration of the giveaway or contest without your permission.
 
-While we make reasonable efforts to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. As a result, we cannot ensure or warrant the security of any information you transmit to us or information we transmit to you from our Site, and you do so at your own risk.
+### Children
 
-6\. Governing Law/ Sale of the Company
+_Village Voice_ Media does not orient this site toward children under the age of 13 or target them as an audience, nor does it screen them from using the site. Some of the material on this site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. Children under the age of 13 should not use this site. _Village Voice_ Media does not collect or distribute information indicating whether a user is a child. 
 
-Our Site is a published in the United States. U. S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise.
+### Links to Other Sites
 
-In the event of a sale of _the Voice_ or a sale of substantially all _the Voice_ 's assets, the email database and all user information shall accrue to the new owners. So that the services provided to our users may continue uninterrupted. Any such sales are not anticipated to otherwise alter the basic terms of this Privacy Policy.
+This site provides links and pointers to Web sites maintained by other organizations. _Village Voice_ Media provides these links as a convenience to users, but it does not operate, control or endorse such sites. _Village Voice_ Media also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. _Village Voice_ Media does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
 
-7\. Changes
+### E-Commerce and Our Secure Server
 
-As our Site continues to develop, we may add new services and features to our Site. In the event that these additions, changes to the law or changes to Voice policy affect our Privacy Policy, we may change our Privacy Policy from time to time. Please read this Privacy Policy each time you use our Site to be informed of any such changes.
+All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. _Village Voice_ Media disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001)
+
+### Policy Changes
+
+The privacy policy is effective as of September 25, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes.
+
+### Governing Law/Sale of Company
+
+Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise. 
+
+In the event of a sale of _Village Voice_ or a sale of substantially all _Village Voice_ 's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time.
+
+### More Questions? Updates and Changes to Your Information.
+
+If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@villagevoice.com](mailto:web@villagevoice.com).
+
+| 
+
+[Contact Us](https://web.archive.org/aboutus/index.php?page=contact)  
+Send your comment or question to the web site or paper. 
+
+[Get the Paper](https://web.archive.org/aboutus/index.php?page=getpaper)  
+Pick-up locations, how to subscribe, get back issues. 
+
+[Voice Store](http://www.cafepress.com/thevillagevoice)  
+Buy the latest _Village Voice_ merchandise. 
+
+[Print Production](https://web.archive.org/aboutus/index.php?page=prodhome)  
+Newspaper advertising specs and sizing information. 
