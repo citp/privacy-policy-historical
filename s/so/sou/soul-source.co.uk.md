@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928205116id_/http%3A//www.soul-source.co.uk/modules/article/view.article.php/c24/12585) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427074731id_/http%3A//www.soul-source.co.uk/site-official-section/privacy-policy-soul-source.htm) for the most accurate reproduction.*
 
-# Soul Source:a rare and northern soul site - Rare and Northern Soul News and Articles - Privacy Policy - Soul Source
+# Privacy Policy - Soul Source | Soul Source Rare and Northern Soul
 
-Telasource understands and respects the rights of individualsâ€™ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.  
+Telasource understands and respects the rights of individuals’ privacy and is committed in providing on-line data security. This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.  
  **  
 Use of Information, Data Protection and Internet Privacy**
 
@@ -10,7 +10,7 @@ Telasource is concerned for the privacy of visitors to its web sites; protection
 
 The following sections generally describe the types of information collected at Telasource sites and the uses made of it.
 
- **Personally Identifiable Information**
+**Personally Identifiable Information**
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, competitions, forum and soul-source membership.
 
@@ -20,7 +20,7 @@ Any further details you choose to supply about yourself when you register are pr
 
 We also allow users to update their personal information at any time.
 
- **Non-Personally Identifiable Information**
+**Non-Personally Identifiable Information**
 
 Telasource also collects non-personally identifiable information in aggregate form to track data such as the total number of visits to our web sites, the number of visitors to each page of our web sites, and the domain names of our visitors' internet service providers. We use this information, which remains in aggregate form, to understand how our visitors use our web sites so that we may improve them. NO PERSONALLY IDENTIFIABLE INFORMATION IS DISCLOSED IN THIS PROCESS.  
  **  
@@ -32,26 +32,29 @@ Links to Other Web Sites**
 
 Telasource websites provide links to other telasourceand third party websites as a service to our users. The privacy policy described here does not apply to those sites. Please ensure you check the legal and privacy policy sections of any site you link to.
 
- **Cookies**
+**Cookies**
 
 Telasource may place a "cookie" in your computer's browser. Cookies are small text files which provide us with information about how often someone visits our site, and what they do during those visits. Cookies do not themselves contain any personally identifiable information but if you provide such information to us, for example by registering with us, it may be linked to the data stored in the cookie.
 
 Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to disable cookies or to inform you when they are set. However you may not be able to take full advantage of the features of our website if you disable them.
 
-You can find out more about the way cookies work and how to disable them on [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+You can find out more about the way cookies work and how to disable them on [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
 
- **Security**
+**Security**
 
 Telasource has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. . Whilst we cannot guarantee that loss, misuse or alteration to data will not occur, we make every effort to prevent such unfortunate occurrences.
 
- **Sharing Personally Identifiable Information with Third Parties**
+**Sharing Personally Identifiable Information with Third Parties**
 
 Telasource will not sell or rent personally identifiable information to any third party for any purpose. In certain special cases, we may disclose your personally identifiable information in the following circumstances: (i) when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with Telasource's rights, property or operations, other users of this site, or anyone else who could be harmed by such activities(ii) when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation.
 
- **Binding Nature**
+**Binding Nature**
 
 By submitting personal data you agree to be bound by our privacy policy and agree that Telasource may, in its sole discretion, disclose information about you in the circumstances and to the extent set out in this policy.
 
- **Changes**
+**Changes**
 
 Any changes to this privacy policy will be communicated promptly on this page.
+
+  
+
