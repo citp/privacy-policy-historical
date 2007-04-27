@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106085056id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427141045id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Kareo | On-Demand Revenue Cycle Automation
 
