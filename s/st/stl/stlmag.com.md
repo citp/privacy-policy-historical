@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlmag.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118003510id_/http%3A//stlmag.com/media/St-Louis-Magazine/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlmag.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427131530id_/http%3A//www.stlmag.com/media/St-Louis-Magazine/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - St. Louis, Missouri
 
