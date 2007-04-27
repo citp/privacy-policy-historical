@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rel.co.in privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212045343id_/http%3A//rel.co.in/copy/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rel.co.in privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427144832id_/http%3A//www.rel.co.in/copy/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::::::::::Reliance Energy Ltd.::::::::::
 
