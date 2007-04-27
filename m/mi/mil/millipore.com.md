@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206092459id_/http%3A//millipore.com/ec.nsf/docs/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428000215id_/http%3A//www.millipore.com/ec.nsf/docs/security) for the most accurate reproduction.*
 
 # Millipore - E-Commerce - Security and Privacy
 
