@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231144id_/http%3A//www.eenews.net/learn_more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eenews.net privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428225716id_/http%3A//www.eenews.net/learn_more/privacy_policy) for the most accurate reproduction.*
 
 # E&E Publishing -- Privacy Policy
 
