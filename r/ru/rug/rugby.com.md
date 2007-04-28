@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113043342id_/http%3A//www.polo.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428221712id_/http%3A//www.polo.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
 
 # Ralph Lauren Polo.com Customer Assistance
 
   
-Last modified: April 7, 2006 
+Last modified: January 17, 2007 
 
 **Privacy Policy**
 
-Polo Ralph Lauren Corporation respects your privacy. Consistent with our commitment to providing you a satisfying and helpful shopping experience, we have found that collecting Personal Information (defined below) through [www.polo.com](http://www.polo.com/) (the "Site") and our stores, including but not limited to Ralph Lauren stores, Polo Ralph Lauren Factory Stores and Polo Jeans Co. Factory Outlets (referred to in this Privacy Policy as the "Stores"), helps us better understand the products and services most helpful to you. Our Privacy Policy describes the types of information we gather online and in our Stores and how we use this information. Please read this information carefully. 
+Polo Ralph Lauren Corporation respects your privacy. Consistent with our commitment to providing you a satisfying and helpful shopping experience, we have found that collecting Personal Information (defined below) through [www.polo.com](http://www.polo.com/) (the "Site"), affiliate sites (listed at the bottom of this document) and our stores, including but not limited to Ralph Lauren stores, Polo Ralph Lauren Factory Stores and Polo Jeans Co. Factory Outlets (referred to in this Privacy Policy as the "Stores"), helps us better understand the products and services most helpful to you. Our Privacy Policy describes the types of information we gather online and in our Stores and how we use this information. Please read this information carefully. 
 
 By accessing the Site and shopping in our Stores, you agree to be bound by the Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this Policy (which appears at the top of this page) and review any changes since the last version. If at any time you do not agree to the terms of this Privacy Policy, please do not use this Site and refrain from purchasing from us. 
 
@@ -19,7 +19,7 @@ Our policies relating to the transfer of Personal Information from the European 
 
 Polo may collect two types of information about users: "Personal Information" (such as name, email address, mailing address, phone number, credit card number and the items you purchase) and "Aggregate Information" (such as information about how many users log on to our Site on a daily basis or frequency of customer visits to Polo Ralph Lauren Stores). 
 
-We use customer information in an effort to improve your shopping experience and to communicate with you about our products, services, promotions and contests. We may also use this information to make offers to you, to help us target specific products and services to you, and to help us develop and improve our Site and Stores and tailor our Site and Stores to your interests. 
+We use customer information in an effort to improve your shopping experience and to communicate with you about our products, services, promotions and contests. We may also use this information to make offers to you, to help us target specific products and services to you, and to help us develop and improve our Site and Stores and tailor our Sites and Stores to your interests. 
 
 **Personal Information Collected Online by Polo.com and at Our Stores**
 
@@ -48,7 +48,7 @@ Polo.com does not share, sell or trade with third parties your Personal Informat
 
 The Personal Information and Aggregate Information collected at our Stores may be shared with Polo.com as well as reputable third-party organizations to contact consumers for marketing and promotional purposes. Third party contacts to our customers may be initiated only by postal mail. Except as described in this Privacy Policy, our Stores will not share your telephone number or e-mail address. In addition, in the event that you apply for a credit card account, our Stores may share the Personal Information we have collected with credit card companies and credit agencies. 
 
-Polo.com and our Stores may divulge Personal Information if such action is required for Polo or any of our service providers or consultants to comply with any valid legal process, such as a subpoena, search warrant, statute or court order, or any valid administrative request from a law enforcement agency. In addition, we may divulge Personal Information if we or any of our service providers or consultants believes that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customer or of the general public. 
+Polo.com, affiliate sites, and our Stores may divulge Personal Information if such action is required for Polo or any of our service providers or consultants to comply with any valid legal process, such as a subpoena, search warrant, statute or court order, or any valid administrative request from a law enforcement agency. In addition, we may divulge Personal Information if we or any of our service providers or consultants believes that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customer or of the general public. 
 
 **Service Providers, Consultants and Affiliates**
 
@@ -58,7 +58,7 @@ For example, we use the services of Omniture, Inc ([www.omniture.com](http://www
 
 We also share with DoubleClick Site usage information about visitors to our Site who have received a targeted promotional campaign with DoubleClick for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, Polo.com and DoubleClick note some of the pages you visit on our Site through the use of web beacons, which are defined below. 
 
-Finally, both Polo.com and our Stores, use Acxiom ([www.acxiom.com](http://www.acxiom.com/)) for data processing services relating to the maintenance of our customer marketing database. Acxiom has agreed to maintain our customer information in confidence and to not disclose customer information to any third parties unless required to do so by law or authorized to do so by Polo Ralph Lauren for purposes consistent with this Privacy Policy. 
+Finally, both Polo.com, affiliate sites, and our Stores, use Acxiom ([www.acxiom.com](http://www.acxiom.com/)) for data processing services relating to the maintenance of our customer marketing database. Acxiom has agreed to maintain our customer information in confidence and to not disclose customer information to any third parties unless required to do so by law or authorized to do so by Polo Ralph Lauren for purposes consistent with this Privacy Policy. 
 
 **Use of Cookies**
 
@@ -80,7 +80,7 @@ Protecting your order information is a priority for us. We use Secure Sockets La
 
 **Information Removal/Opt-Out**
 
-If you prefer not to receive marketing emails from Polo.com, please let us know by clicking on the unsubscribe link within any marketing email you receive from us. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 8th Floor, New York, NY 10022. Please be sure to include in any email or postal mail your full name, email address, postal address and any message. 
+If you prefer not to receive marketing emails from Polo.com or affiliate sites, please let us know by clicking on the unsubscribe link within any marketing email you receive from us. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 8th Floor, New York, NY 10022. Please be sure to include in any email or postal mail your full name, email address, postal address and any message. 
 
 Please note that such requests may take up to ten (10) days to become effective. 
 
@@ -90,11 +90,11 @@ If you do not wish to have Personal Information collected in our Stores shared w
 
 Polo.com is concerned about the safety of children when they use the internet, and understands that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. 
 
-Our Site is not directed to children under the age of 13, and we will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. 
+Our Site and affiliate sites are not directed to children under the age of 13, and we will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. 
 
 **Links to Other Sites**
 
-Polo.com may contain links to sites other than our own. Those sites may have their own privacy policy, or no privacy policy at all. Neither we nor any of our service providers have any responsibility for those sites, and we provide these links solely for the convenience of our visitors. Such links may be to advertisers, content providers or other companies who may use our logo and/or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies and terms of use of any third-party sites or services before providing any of them with any of your Personal Information. Neither Polo nor any of our service providers control the content that appears on these sites or take any responsibility for their content, nor should it be implied that Polo.com endorses or otherwise recommends such sites or their products or services offered. 
+Polo.com and affiliate sites may contain links to sites other than our own. Those sites may have their own privacy policy, or no privacy policy at all. Neither we nor any of our service providers have any responsibility for those sites, and we provide these links solely for the convenience of our visitors. Such links may be to advertisers, content providers or other companies who may use our logo and/or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies and terms of use of any third-party sites or services before providing any of them with any of your Personal Information. Neither Polo nor any of our service providers control the content that appears on these sites or take any responsibility for their content, nor should it be implied that Polo.com endorses or otherwise recommends such sites or their products or services offered. 
 
 **Personal Information Collected By Polo and Correction Requests**
 
@@ -113,6 +113,10 @@ IN NO EVENT SHALL POLO.COM, THE POLO RALPH LAUREN STORES OR ANY OF THEIR AFFILIA
 **Applicable Law**
 
 The laws of the State of New York will govern these disclaimers, terms and conditions without giving effect to any principles of conflict of law. 
+
+**Affiliate Sites**
+
+The above privacy policy refers to sites owned and managed by the Polo Ralph Lauren Corporation. The following is a list of affiliate sites: Global Sites, RLHome.Polo.com, Entertainment.Polo.com, RalphHot.com, RalphHotFragrance.com, Chaps.com, Investor.Polo.com, RalphLaurenCenter.org, RLRestaurant.polo.com, RalphFragrances.com, RalphRocks.com.
 
 Back to Top   
 
