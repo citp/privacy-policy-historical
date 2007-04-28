@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813152417id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428091816id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
 
 # RACGP | Privacy Statement
 
@@ -33,7 +33,7 @@ The College will not use or disclose any information about you without your cons
 
 In order to provide some services to members, the College may be required to provide Members' contact details to third party suppliers of services. The College provides the opportunity to opt-out of such third party arrangements.
 
-If any Member does not want their contact details passed on to third parties for the purposes of member benefits, please contact our Membership Office on (03) 8699 0414.
+If any Member does not want their contact details passed on to third parties for the purposes of member benefits, please contact our Membership Office on 1800 331 626.
 
 ## "Spam" (Promotional Mail)
 
@@ -51,7 +51,7 @@ If you wish to know what information we hold about you, please contact the Membe
 
 ## What to do if you have a problem or question
 
-If the College becomes aware of any ongoing concerns or problems with sites on our Network, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us on (03) 8699 0414.
+If the College becomes aware of any ongoing concerns or problems with sites on our Network, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact our Membership Office on 1800 331 626.
 
 ## Future changes
 
