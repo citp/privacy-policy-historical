@@ -1,35 +1,40 @@
-> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016081425id_/http%3A//vbdotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428182720id_/http%3A//vbdotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Mindcracker Network - Privacy Policy
 
 |  |   
 ---  
-| **Home >>Privacy Policy**  
+|   
 ---  
-Privacy Policy    
-  
-Date: October 16, 2006
+|   
+---  
+| 
+
+Date: April 28, 2007
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
-
+  
+  
+---  
+| 
 
   
 **
 
-Information Collection and Use
+Information Collection and Use 
 
 **
 
 The information we collect may include your email, name, address, phone number, business name and address. We may also ask you to provide us with information regarding your personal or professional interests, demographics, and education. We use your information to understand you better and improve our services. If you have subscribed to our newsletter, you may receive our newsletter and website updates from time to time. We may also use your information for our marketing research to understand the demographics and other preferences of our users. To protect a great respect for our users and do not share, sell, or rent your personal information to others unless we have your permission or are required by law.
 
-If you ever has concerned about sharing your information, please send us email [**here**](https://web.archive.org/web/20061016081425id_/http%3A//vbdotnetheaven.com/frmContactUs.aspx) or contact us by mail at 1135 Kirk Road , Boothwyn, PA 19061, Attention: Melanie Chand   
+If you ever has concerned about sharing your information, please send us email [**here**](https://web.archive.org/web/20070428182720id_/http%3A//vbdotnetheaven.com/frmContactUs.aspx) or contact us by mail at 1135 Kirk Road , Boothwyn, PA 19061, Attention: Melanie Chand   
   
 ---  
   
   
 **
 
-Information Storage and Security
+Information Storage and Security 
 
 **
 
@@ -37,21 +42,21 @@ We are committed to ensuring the security of your information. To prevent unauth
 
 Your access to some services and content is password protected. We recommend that you do not divulge your password to anyone. Mindcracker will never ask you for your password in an unsolicited phone call or in an unsolicited email. You should not disclose your user name and password to others. In addition, if applicable, you should remember to sign out of your Mindcracker account or service at the end of each session. You may also wish to close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library. 
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our best efforts to protect your personal information, We cannot completely ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems.  
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our best efforts to protect your personal information, We cannot completely ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems.   
   
   
 **
 
-Third Party Web Sites Links
+Third Party Web Sites Links 
 
 **
 
-Links to third party web sites are provided solely as a convenience to you. If you use these links, you will leave the Mindcracker site. Mindcracker has not comprehensively reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, Mindcracker does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do this entirely at your own risk.  
+Links to third party web sites are provided solely as a convenience to you. If you use these links, you will leave the Mindcracker site. Mindcracker has not comprehensively reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, Mindcracker does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do this entirely at your own risk.   
   
   
 **
 
-Use of Cookies
+Use of Cookies 
 
 **
 
@@ -60,25 +65,17 @@ A cookie is a piece of text asking permission to be placed on your computer's ha
   
 **
 
-Contact Information
+Contact Information 
 
 **
 
-If you have any questions or comments regarding our privacy policy, please send us mail [**here**](https://web.archive.org/web/20061016081425id_/http%3A//vbdotnetheaven.com/frmContactUs.aspx) or 1135 Kirk Road,Boothwyn, PA 19061, Attention: Melanie Chand by mail.   
+If you have any questions or comments regarding our privacy policy, please send us mail [**here**](https://web.archive.org/web/20070428182720id_/http%3A//vbdotnetheaven.com/frmContactUs.aspx) or 1135 Kirk Road,Boothwyn, PA 19061, Attention: Melanie Chand by mail.   
   
   
 **
 
-Privacy Policy Changes
+Privacy Policy Changes 
 
 **
 
-This privacy policy is subject to change any time without any prior notification. We will post the updated date in this document whenever we update our privacy policy. Please visit this page back to learn latest about our privacy policy.  
-  
-  
-  
-  
-|   
----  
-[Hosted by MaximumASP](http://www.maximumasp.com/) | | | [Found a broken link?](https://web.archive.org/frmContactUs.aspx) | | | [Contact Us](https://web.archive.org/frmContactUs.aspx) | | | [Terms and conditions](https://web.archive.org/frmTermsConditions.aspx) | | | [Privacy Policy](https://web.archive.org/PrivacyPolicy.aspx) | | | [Advertise with us](http://www.vbdotnetheaven.com/media/) |  |   
-© 2000 - 2006  Mindcracker LLC. All Rights Reserved
+This privacy policy is subject to change any time without any prior notification. We will post the updated date in this document whenever we update our privacy policy. Please visit this page back to learn latest about our privacy policy. 
