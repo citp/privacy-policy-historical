@@ -1,182 +1,95 @@
-> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201439id_/http%3A//www.verisign.com/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428210614id_/http%3A//www.starbucks.ca/en-ca/privacypolicy.htm) for the most accurate reproduction.*
 
-# About VeriSign - Privacy Statement from VeriSign, Inc.
+# English - privacypolicy
 
-|  |  |   
----|---  
+|  Privacy Policy
+
+**Privacy Statement.**   
+The Starbucks name and reputation were built on a foundation of trust. Therefore, this online privacy statement tells you about the information Starbucks collects through the services available on our web site, Starbucks.com (the "Site") and the Starbucks Card Program, how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this statement, as modified from time to time by us. If we decide to change our privacy statement, we will post a new statement on our Site and change the date at the top of the statement. Therefore, we encourage you to check the date of our privacy statement whenever you visit this Site for any updates or changes. Please see our Terms of Use for a more detailed legal explanation of our general online policies. 
+
+If you have any questions about our privacy statement or our use of your information, or if you need help changing or deleting your Starbucks.com account you can e-mail us at [webmaster@starbucks.com](mailto:webmaster@starbucks.com). 
+
+**Information About You.**   
+We collect several types of information on our Site. We collect "Personal Information", which generally speaking is information that can be used to identify you individually, such as your name and address. We also collect "Non-personal Information", which is information about you that does not itself identify you individually. Examples of Non-personal Information include age range and gender. We also collect "Aggregate Information", which is information about use of our site, such as pages visited on our Site. The information we collect depends on what services you use on our Site. The following is a more detailed explanation of these types of information as well as when and how we collect and use it. 
+
+**Personal and Non-Personal Information.  
+** Registration and Transactional Data. When you register on our Site, we may collect various kinds of Personal Information including your name, e-mail address, home address, and home phone number. We also collect and store access information related to your account including guest name and user password. When you make purchases from our Site, we may collect purchasing information such as product orders, shipping address(es), and credit card information. 
+
+**Registration and Authentication.  
+** You may select two different methods to register on our Site, either directly with us or through Microsoft® .NET Passport. You may use either method but not both. 
+
+Registration Directly with Starbucks. When you register with us on the Site, you are required to submit an e-mail address (which is your user id for the Site) and password. Additional information may be included in your registration profile such as name, address and billing information. At registration, you are given the opportunity to specify your privacy preferences. As described below, you may change these preferences at any time. 
+
+Microsoft® .NET Passport Users. We currently support the use of Microsoft® Passport accounts to register and use our Site. Passport registered user sign-in and authentication is performed using the Microsoft® .NET Passport Single Sign-In Service, a service of Microsoft Corporation. We encourage you to read the .NET Passport Privacy Policy, which governs the information collected in your .NET Passport profile and how that information is shared. When you sign-in to Starbucks.com using .NET Passport, we receive certain information from your .NET Passport profile to help us identify you and update your Starbucks.com account. If you have questions about the .NET Passport Privacy Policy or use of your .NET Passport profile, or if you need additional assistance with this service, please email .NET Passport directly at passpriv@microsoft.com. Also, .NET Passport registration may also require the acceptance of a “cookie;” please see the section below labeled Cookies for additional information. 
+
+**Surveys.  
+** From time-to-time we may post surveys on our Site. The surveys may request demographic information (such as age range, gender, areas of interest, and familiarity with Starbucks channels, products and services) and customer feedback. Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to disclose information. Such survey information will be used to improve the overall experience on Starbucks.com. 
+
+**Customer Service Correspondence.  
+** We may collect information that identifies you personally when you submit comments, questions or suggestions to our Customer Service department. 
+
+**Chat Rooms.  
+** Our Site may have chat rooms, discussion boards, online forums and other interactive technologies that allow individual comments and messages to be tied to a guest's name or e-mail address. Any information you post in such forums is public information and Starbucks can not control what uses third parties may make of personal information you share in such forums. 
+
+**Resumes.**   
+If you are interested in applying for a job with Starbucks, we may collect your resume. Resumes you submit for job applications will not be used for marketing purposes. 
+
+**Use of Your Personal and Non-Personal Information.  
+** Except as disclosed in this statement, we do not sell or disclose information that identifies our guests personally or makes it possible for other parties to contact them directly without our guests' consent. We may use, sell, disclose, or otherwise dispose of Personal Information we collect in the following circumstances: 
+
+Internal Analysis and Promotions. We may use information about you for our own internal statistical, design, operational purposes such as to estimate our audience size; measure aggregate traffic patterns; and understand demographic, customer interest, purchasing and other trends among our guests and customers. We may also use your Personal Information for the marketing and/or promotion of our products or services. We may outsource all of these tasks to third parties on a confidential basis. If you do not want to receive promotional materials from us or third parties, click here to change your preference settings. 
+
+Co-Branded Service Offerings. We may share this information with certain businesses with whom Starbucks has formed a strategic alliance. You may be able to identify these businesses because Starbucks has authorized them to display co-branded Web pages or links to Starbucks. These strategic partners are requested to clearly state their own privacy policies on their own web sites or promotional materials. If you do not want to have your personal information shared with these businesses you may click here. 
+
+Transaction Processing. We may use your Personal Information to create a convenient and easy-to-use shopping process that includes an online "shopping cart" that allows you to track selected products and proceed through purchase. Also we may share transactional information with entities as is necessary to process credit card payments or other purchasing or delivery systems. 
+
+Third-Party Offers. We may arrange to have marketing and promotional information of other companies sent to you that we think might be of interest to you. If you do not want to receive these materials, you may click here. 
+
+Legal Requirement. We may disclose personal information: (a) to conform with the law, respond to claims or comply with legal process served on Starbucks Coffee Company (e.g., a lawful subpoena, warrant or court order); (b) to enforce or apply our policies or agreements (including to initiate, render, bill, and collect for amounts owed to us); (c) to protect and defend our or our user's rights or property, the Site, our employees, guests or the public, including fraudulent, abusive, or unlawful use of, our Site or the Starbucks Card; or (d) if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+
+Company Sale. Information collected through our Site is considered a trade secret of Starbucks. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
+
+**Starbucks Card Program.**   
+Holders of Starbucks Cards may voluntarily register their cards through the Site or by telephone. When you register your card, we collect additional personal information such as birth date, card number, and city of birth. This information may be linked to your purchasing history. We use this additional information as part of our Lost/Stolen Card Recovery Program and to provide enhanced benefits to cardholders, such as promotional offers. The use and disclosure of personal information collected as part of the Starbucks Card Program is governed by this Privacy Statement. If you do not wish to receive any promotional materials associated with your use of the Starbucks Card from us or a third party, you may click here to change your privacy preferences if you registered your Starbucks Card online, or call us at 1-800-STARBUC (1-800-782-7282) if you registered your Starbucks Card via telephone. 
+
+**Aggregate Information.  
+** We collect Aggregate Information about you and your use of our Site whenever you visit us online. For instance, we may collect various forms of "click stream" information such as entry and exit points for our Site (i.e., referring URLs or domains), site traffic statistics, page views, impressions, and operating system and browser type. In addition, when users request pages on our Site, our servers automatically log their IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. We also use third-party software that tracks traffic directed to Starbucks.com from affiliate Web sites and the purchases that result from this traffic. This information is aggregated and is not tied to an individual purchase. This Aggregate Information generally will not personally identify you or be correlated to you individually for external purposes. We may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all Aggregate Information, provided that, such information does not personally identify you. When we share such information with other companies, it is not traceable to any particular user, and will not be used to contact you. If we do correlate any Aggregate Information to you, such information will be treated like any other Personal Information under this statement. 
+
+**Cookies.**   
+We may make use of "cookies" on our Site. Cookies are small text files that are stored on a user's computer by a Web server based on the permissions set in a user's browser software. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information, with the cookie. 
+
+We use cookies to allow us to automate access and data entry functions of our Site such as to correlate online ordering information for purchases you may make while at the Site (if any), tailor the Site to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of the Site to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update the Site effectively. 
+
+You may adjust your Web browsers to either alert you of the use of cookies or refuse to accept cookies entirely. For Internet Explorer or AOL users, you can click on the "Start" button and then select Control Panel, Internet Options and the Security tab. If you click on the "Custom" button, you will be able to see the cookie options. For Netscape users, in the browser, select File, Preferences and then Advanced to view the cookie options. Be aware that if you elect not to accept cookies, the Site may not function properly or permit access. 
+
+**Use of Web Beacons.**   
+We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the web page to see whether the page is using a web beacon. 
+
+Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web beacons to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web beacons is to provide an independent accounting of how many people have visited a particular Web site. Web beacons are also used to gather statistics about Web browser usage at different places on the Internet. 
+
+**Links to Other Sites  
+** Please be aware that we provide links to third-party Web sites as a service to our guests, and that we are not responsible for the content or information collection practices of those pages. Please note that these Web sites' privacy policies may differ from those of Starbucks. We encourage you to review and understand their privacy practices before providing them with information. 
+
+**Children.  
+** Our Site is a general audience site that is not designed nor intended to collect Personal Information from children under the age of 13. To respect the privacy of children and to comply with the Children's Online Privacy Protection Act, children under the age of 13 should not provide any Personal Information on this Site. We ask that parents supervise their children while online. 
+
+**Security.  
+** We use commercially reasonable efforts to store and maintain Personal Information to protect it from loss, misuse, alternation or destruction by any unauthorized party: 
+
+We encrypt order information, including credit card numbers, using Secure Sockets Layer (SSL) technology to ensure that our customers' information is safe as it is sent over the Internet to our server. For more information about credit card security, please read our FAQ. 
+
+Your .NET Passport profile and Starbucks.com account information can be accessed only after signing-in through the .NET Passport service. Therefore, you should not disclose your .NET Passport password to any unauthorized third parties. If your password is compromised, you should access your account and change your password immediately. 
+
+**Access.  
+** You may view, change or delete information in your Starbucks.com account. Please sign-in to the Site and use the online form at the Your Account page to change or close your Starbucks.com account automatically. You can access your communication preferences on this page at any time and elect to receive or stop receiving information from us or any third party as described by this statement. 
+
+**Opting-Out of Promotional Materials.**   
+As noted above, we may use your e-mail address and other contact information provided to us through the Site or the Starbucks Card program to send you promotional materials from us or third parties. If you do not want to receive such promotional information, you can change your privacy preference and remove yourself from our e-mail list at any time: 
+
+If you are registered with our Site, please sign-in and use the preference form at Your Account. 
+
+If you have NOT completed the registration process, please e-mail your request to be removed to [webmaster@starbucks.com](mailto:webmaster@starbucks.com). 
+
+If you registered your Starbucks Card via telephone, please call us at 1-800-STARBUC (1-800-782-7282) with your request. Notwithstanding any preference that you select, we may contact you from time to time to provide services that you have requested or for customer service matters, such as responding to service-related inquiries, updating our policies, or notifying you of changes to existing services.   
   
-## Privacy Statement
-
-Version 2.14 - Effective May 18, 2006   
-[](https://www.truste.org/ivalidate.php?url=www.verisign.com)VeriSign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign.com site and about special privacy practices related to our Safe Harbor Participation (see below section on “EU Safe Harbor Participation”).  This Privacy Statement is not applicable to any of our other privacy practices, including, without limitation, data collected from other VeriSign sites or offline. VeriSign services may be hosted on partner sites on behalf of VeriSign, and if this VeriSign Privacy Statement is listed on that site, then it will also apply.   
-
-
-VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. VeriSign has agreed to disclose its privacy, practices and have them reviewed and audited for compliance by TRUSTe. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
-
-  * What personal information our site gathers about you
-  * How we use and with whom we share the personal information we gather
-  * Your ability to opt-out of future notifications 
-  * What security procedures we have in place to protect your personal information from loss, misuse, or alteration 
-  * How you can correct or update your personal information 
-
-
-
-Questions regarding this Privacy Statement should be directed to [practices@verisign.com](mailto:practices@verisign.com). Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-650-426-5555. If you do not receive a reply from us or if you believe that your inquiry has not been satisfactorily resolved, please contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
-
-[](http://www.truste.org/ivalidate.php?url=www.verisign.com&sealid=102)VeriSign adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing certain services.  Information about VeriSign’s participation in Safe Harbor can be found in the section below entitled “Safe Harbor Participation”.”
-
-### Overview
-
-Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at VeriSign are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Web site. Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are enrolling for a VeriSign digital certificate ("Digital ID"), you may be asked to provide certain personal information. Please note, however, that we are asking for this information for the limited purposes of creating your Digital ID, providing the services that may be part of your Digital ID, and authenticating your identity in order to issue you a Digital ID.  If you are enrolling in VeriSign’s Digital Brand Management Services, you may be asked to provide certain personal information in order for us to create your company’s account with us.  You should be assured that we do not provide or sell personal information about our customers or site visitors to vendors that are not involved in the provision of VeriSign's public certification and other services.
-
-This Privacy Statement applies to the verisign.com site. Many of our subsidiaries maintain their own privacy policies that may be viewed on their Web sites. For our Public Certification Services and for our payment services, VeriSign has a "network" of domestic and international "Affiliates" that provide certain certification and payment services on a worldwide basis. We strive to provide our visitors and subscribers with the highest level of privacy possible, and therefore require that our Affiliates offer no less protection than that offered in this Privacy Statement. In addition, each of our Affiliates must meet the data protection requirements of their relevant national laws. 
-
-  Please note that our site contains links to other sites. VeriSign is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
-
-### Privacy Policy Enforcement
-
-VeriSign supports TRUSTe's comprehensive assurance process. In order to ensure compliance with its Privacy Program, TRUSTe monitors our site by conducting initial and periodic reviews and "seeding" (tracking unique identifiers in our site's database). TRUSTe also relies on online users to report violations of posted privacy statements or specific privacy concerns. If a TRUSTe participant is suspected of not conforming to the TRUSTe principles, TRUSTe will investigate the issue, which could result in penalties, additional audits, or revocation of the participant's right to use the TRUSTe trustmark. Extreme violations may even be escalated to the Federal Trade Commission ("FTC"). These enforcement measures are intended to provide some assurances that you can rely on our representations in this Privacy Statement. For more information on the TRUSTe assurance process, see [http://www.truste.org/consumers/compliance.php](http://www.truste.org/consumers/compliance.php)
-
-  If you feel that we are violating this Privacy Statement, please contact us at [practices@verisign.com](mailto:practices@verisign.com). Please specify "Privacy Statement" in the subject line of your e-mail.  You may also call us at 1-650-426-5555.  If you feel that we do not provide you with an appropriate response, you may file a report with TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)
-
-### Information We Gather from You
-
-#### Personal Information
-
-There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information:
-
-E-mail Request for Information or Registrations for Guides or Seminars \- We use links throughout our site to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
-
-Enrollment \- If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, credit card number, bank account information, IP address, and/or social security number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service. 
-
-Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life.
-
-### Statistical Information About Your Visit
-
-When you visit our site, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to our site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web site.
-
-### Use of Cookies
-
-We only use "cookies" as described in this Section. A "cookie" is a piece of information that our Web site sends to your browser, which then stores this information on your system. If a cookie is used, our Web site will be able to "remember" information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender personal or other information from your computer.
-
-Our uses of "cookies" are limited to the following specific situations. The first situation is with respect to temporary cookies. There are two instances in which we use temporary cookies. First, if you are accessing our services through one of our online applications our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our site. The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser. This bit of information is erased when you close your current browser window. If you come to our site from one of our business partners, our Web server may also send your browser a temporary cookie that reflects an "origination code" for that business partner. We use this information for statistical and marketing purposes. Second, if you are using VeriSign's Personal Trust Agent to log into an access-controlled section of our site, we set a temporary session cookie to establish that you have been authenticated. The information contained in these cookies consists of random data that is used by the server to authenticate the browser requests to the server for that particular session. It does not include any type of personally identifiable information. This bit of information is erased when you close your current browser window. If you choose not to accept a temporary cookie, you will not be able to navigate in these online applications or use the Personal Trust Agent .
-
-The second situation in which we may use cookies is with respect to permanent cookies.  This type of cookie remains on your system, although you can always delete or disable it through your browser preferences.  There are two instances in which we use a permanent cookie.  First, when you visit our Web site and request documentation or a response from us. When you are filling out a form you may be given the option of having our Web site deliver a cookie to your local hard drive. You might choose to receive this type of cookie in order to save time in filling out forms and/or revisiting our Web site. We only send this type of cookie to your browser when you have clicked on the box labeled "Please remember my profile information" when submitting information or communicating with us The second instance where we use a permanent cookie is where we track traffic patterns on our site.  Analysis of the collected information by our tracking technologies allows us to improve our web site and the user experience.  In both instances of a persistent cookie, if you choose not to accept the cookie, you will still be able to use our Web site.  Even if you choose to receive this type of cookie, you can always set your browser to notify you when you receive any cookie, giving you the chance to decide whether to accept it in each situation in which one is sent. 
-
-### Bulletin Boards, Chat Rooms and Forums 
-
-If you use a forum, bulletin board, chat room or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  VeriSign is not responsible for the personally identifiable information you choose to submit in these forums.  You are also responsible for using these forums in a manner consistent with the Rules of Engagement or other terms and conditions set forth on the relevant forum site.
-
-### How We Use and With Whom We Share the Personal Information We Gather
-
-We assure you that the personal information we gather from you is used by us only as explained below.
-
-#### Sending you responses and updates
-
-We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive. We may also retain this correspondence to improve our products, services, and Web site, and for other disclosed purposes. Frequently we retain contact information so that we can send individuals updates or other important information about our services and products. Occasionally these updates or other important information may be sent out by third parties on our behalf. Please be assured that any third party who contacts you in this capacity has executed a confidentiality agreement with us that contains a provision ensuring the privacy and security of any transferred information and limits the third party's use of the shared information to sending updates or providing services on our behalf. Our subsidiary companies may also send you information about their services and products. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by a VeriSign business partner, we may also send the information you have supplied to the VeriSign business partners that offer such products or services. Please be assured that these VeriSign business partners have agreed to ensure the privacy and security of any transferred information and may only use the shared information to send you information about products or services about which you asked.
-
-#### Facilitating the support, renewal, and purchase of our products and services 
-
-We may use the information you submit to contact you to discuss the support, renewal, and purchase of our products and services. We may provide our subsidiary companies with your information so that they may send you information about their services and products. We may also provide the information you have submitted to us to a VeriSign subsidiary, business partner, or independent reseller (either within or outside the United States) so that the subsidiary, business partner, or independent reseller can contact you and facilitate the support, renewal, and purchase of VeriSign products and services.  You may receive a communication directly from one of our subsidiaries, business partners, or independent resellers. Please be assured that any subsidiary, business partner, or independent reseller who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement. To find out the names and locations of the subsidiaries, business partners, and/or independent resellers to whom we have provided your information, please contact us at the address given at the end of this Privacy Statement.
-
-#### Facilitating the provision of certain included products and services (if you are applying for certain types of Digital IDs or certain of our Digital Brand Management Services)
-
-Certain types of Digital IDs come with additional third-party services or products that are included with the Digital ID. If you purchase one of these Digital IDs, we may forward some or all of the information in your application to third party providers so that they can provide you with the service or product and follow up with you directly regarding their service or product or an upgrade. Please be assured that we have agreements with these third-party service or product providers that prevent them from disclosing the information to other parties.
-
-Likewise, certain of our Digital Brand Management Services will involve the disclosure of some or all of your information to a registrar or registry of domain names or to a third party service provider so that they can provide you with the service you have requested. For further explanation about this disclosure or the types of third party services available in Digital Brand Management Services, please refer to your contract with VeriSign for the purchase of these services.
-
-#### Validating your identity (if you are applying for certain types of Digital IDs)
-
-Certain types of Digital IDs require that we compare some of the information in your application to information contained in a third-party database or with some other third party source. We do this in order to authenticate your identity and other attributes, and also to prevent identity theft. We have confidentiality agreements in place with these third-party databases restricting the disclosure of your information. In certain limited situations, we have contracts in place permitting the third-party database to disclose the information to its subcontractors or affiliates, but only for authenticating your identity and only in accordance with confidentiality agreements.
-
-#### Forming the contents of a Digital ID
-
-The exact information that appears in our different types of Digital IDs is set forth in the relevant enrollment page and this Privacy Statement. Generally this information is limited to e-mail address and name, but certain classes of Digital IDs contain additional information. For example, SSL Certificates may contain the organization's Dun and Bradstreet number. Please note that all information that you provide us that forms the content of a Digital ID will be "published." Publication of Digital IDs in an accessible location (a repository) is an integral part of enabling the widespread use of Digital IDs. Your Digital ID will be published in our repository so that a third party may access, review, and rely upon your Digital ID. You should have no expectation of privacy regarding the content of your Digital ID.
-
-#### Processing payments (if you are using our payment service)
-
-If you use the VeriSign Payment Services payment gateway for online transactions, we may provide your personal information to appropriate financial institutions, processors, and third parties under contract with VeriSign or our independent resellers for providing a subset of the payment services (for example, credit authorization and fraud screening). For financial institutions and processors, the use of personally identifiable consumer information is governed by federal and state privacy laws. For other third parties under contract with VeriSign, the use and distribution of your personal information will be used by such entity for its internal use related to fulfilling the transaction services for VeriSign, will be treated as confidential by this entity, and will be transferred between VeriSign and this entity only via encrypted means. We may also permit the merchant through which you placed your order to review the personal information you provide. The merchant's use of your personal information should be governed by your agreement with the merchant.
-
-#### Disclosure by Law and Protection of VeriSign and Others
-
-If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, VeriSign may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign's agreements.
-
-#### Surveys
-
-From time-to-time we may request information from customers via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Web site, and improving our customer service and product offerings.
-
-### Your Ability to Opt-Out of Further Notifications
-
-From time-to-time, we notify our subscribers of new products, announcements, upgrades and updates. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
-
-If you would like to change your preferences online, please visit [http://www.verisign.com/compref/](http://www.verisign.com/compref/). If you receive a marketing communication from our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly.  Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our Digital IDs or other products or services.
-
-### Our Security Procedures
-
-We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the [Secure Sockets Layer](https://web.archive.org/web/20060615201439id_/http%3A//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html) (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
-
-### How You Can Update or Correct Your Personal Information
-
-If you need to update or correct information contained in a Digital ID you will need to revoke your Digital ID and obtain a new one because we digitally sign each subscriber's Digital ID as a part of the Digital ID issuance process. If we were to subsequently modify or remove any information listed in a Digital ID, our digital signature would not verify the Digital ID's new content. Furthermore, if a subscriber (sender) then digitally signed a message with his or her private key, a third party would not be able to properly verify the sender's signature (created using the sender's private key) because the sender's Digital ID would have been altered after the key pair's creation. For more information and tutorials on digital signatures, Digital IDs, keys, and related subjects, click here [http://www.verisign.com/repository](http://www.verisign.com/repository)
-
-If you would like to update or correct any personal information in our records that is not contained in your Digital ID, please contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs)), at [vps-support@verisign.com](mailto:vps-support@verisign.com) (for payment transaction services), or at the address given at the end of this Privacy Statement. You may correct or update any information that you have supplied in using Digital Brand Management Services by logging into the Digital Brand Manager and making the necessary changes to your information or, alternatively, contacting our customer service group at [dbms-support@verisign.com](mailto:dbms-support@verisign.com) to request these changes.
-
-### How You Can Revoke (Deactivate) Your Digital ID
-
-When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital ID. We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, revoke (deactivate) your Digital ID. A revoked Digital ID will still appear in our repository with an indication that it has been revoked. If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at [http://www.verisign.com/ssl/revoke.html](https://web.archive.org/web/20060615201439id_/http%3A//www.verisign.com/ssl/revoke.html) and follow the listed instructions or contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) or at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs) or at the address given at the end of this Privacy Statement.
-
-### Email this Page
-
-If you use VeriSign’s “Email this page” feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.
-
-### Changes to this Privacy Statement
-
-If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information then, with the prior written approval from TRUSTe, we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page.
-
-Our mailing address is:
-
-| 
-
-VeriSign, Inc.   
-Attention: Support   
-487 East Middlefield Road   
-Mountain View, California 94043  
-  
----|---  
-  
-### EU Safe Harbor Participation
-
-This Section of the Privacy Statement describes how VeriSign, Inc. (“VeriSign”) handles personal data of representatives of, and event data related to, certain customers from the European Union in connection with the following Managed Security Services:  Firewall Management Services (formerly known as Managed Firewall and VPN Services), Firewall Monitoring Services, Intrusion Prevention Management Services (formerly known as Managed Intrusion Prevention Services), Intrusion Prevention Monitoring Services, Intrusion Detection Management Services (formerly known as Managed Intrusion Detection Services), Intrusion Detection Monitoring Services, Vulnerability Management Services (formerly known as Managed Vulnerability Protection Services), Vulnerability Alerting Services (formerly known as Managed Vulnerability Alerting Services), PCI Quarterly Scanning Services, and Incident Response and Forensics Services (formerly known as Managed Incident Response and Forensics Services) (the “Covered Services”).  Specifically, VeriSign adheres to the US-EU Safe Harbor Privacy Principles (“EU Safe Harbor”) with respect to certain personally identifiable information that it receives from customers in the European Union related to the Covered Services (“EU Personal Data”).  VeriSign has various other business units, service offerings, and data collections which are not covered by this Section of the Privacy Statement, nor by VeriSign’s participation in the EU Safe Harbor and VeriSign makes no EU Safe Harbor representations with respect to any data collected or used in these business units, service offerings or data collections.  For further background about the EU Safe Harbor, please refer to the U.S. Department of Commerce’s website at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-Collection and Use of EU Personal Data
-
-From its customers of the Covered Services, VeriSign may collect name, title, address, phone, fax, pager number, and other contact information (“Contact Data”) for purposes of contacting customers as necessary or appropriate to provide or support the Covered Services.  Where permitted by law, VeriSign may also use this Contact Data to communicate regarding VeriSign products or services, and disclose such data to subsidiaries, business partners and independent resellers of VeriSign services for the same purposes. 
-
-With respect to any sharing of EU Personal Data for purposes of marketing VeriSign products and services, VeriSign obtains promises from its subsidiaries, business partners and independent resellers that such entities will use and disclose the EU Personal Data for purposes of marketing VeriSign products and services only. Individuals may opt-out of further disclosures of their EU Personal Data from VeriSign to subsidiaries, business partners and independent resellers, and further uses of their data by VeriSign for marketing, by contacting VeriSign at [http://www.verisign.com/compref/](http://www.verisign.com/compref/).  If you receive a marketing communication from one our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly.
-
-In connection with providing the Covered Services VeriSign may collect passwords, user names, and other data from customer networks (“Event Data”) for the exclusive purposes of monitoring the customers’ networks and systems, and otherwise performing the Covered Services to customers.  At all times with respect to this Event Data, VeriSign acts as a mere “data processor” on behalf of its customers.
-
-Data Integrity and Access
-
-VeriSign makes reasonable efforts to keep EU Personal Data reliable for its intended use, accurate, current, and complete.  VeriSign also provides customer contacts with the opportunity to access, review and correct their own Contact Data, and otherwise provides customers access in accordance with the EU Safe Harbor.  Individuals may contact VeriSign as indicated below in order to review their EU Personal Data.  However, customer contacts may first wish to contact their company’s representative (i.e., VeriSign’s customer), as that might be the most efficient means of addressing their issues.  VeriSign will respond to the request within 30 days. 
-
-Other Disclosures
-
-VeriSign may also disclose EU Personal Data as necessary in connection with the sale or transfer of all or part of its business, provided that it will notify affected customers in accordance with the procedure for changing this Privacy Statement as noted above. In situations where VeriSign discloses EU Personal Data to any third parties acting as “agents” on behalf of VeriSign, VeriSign will require the recipient to protect the data in accordance with the relevant principles in the EU Safe Harbor, or otherwise take steps to ensure that the EU Personal Data is appropriately protected.  VeriSign may also disclose EU Personal Data where required or permitted by law, where VeriSign believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by the EU Safe Harbor, or in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign’s agreements.
-
-Questions
-
-If you have any questions about this EU Safe Harbor Privacy Statement, or if you would like to request access to EU Personal Data that VeriSign may maintain about you, please contact us as follows:
-
-Rebecca Matthias   
-Senior Corporate Counsel, Legal Department   
-VeriSign, Inc.   
-487 East Middlefield Road   
-Mountain View, California 94043   
-Email:  [EUsafeharbor@verisign.com](mailto:EUsafeharbor@verisign.com)   
-Telephone:  1-650-426-5555 (specify Safe Harbor)
-
-Any questions regarding VeriSign’s EU Safe Harbor Participation should first be directed to the VeriSign contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint) for further information.
-
-Failed to load XML file with Content ID '002866'.   
-
+---|---
