@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the igt.com privacy policy that was archived on 2006-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017002827id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igt.com privacy policy that was archived on 2007-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070428173812id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -462,6 +462,155 @@ function jsCloseChildRedirectParent(argURL){
 <!-- *** FIX for Flash activation on Internet Explorer -->
 <script language="javascript">AC_FL_RunContent = 0;</script>
 <script src="/JavaScript/AC_RunActiveContent.js" language="javascript"></script>
+
+
+
+<script language="javascript">
+var GetChaturl = "bingoNotice/chat_get.aspx"
+var SendChaturl = "bingoNotice/chat_send.aspx"
+
+//var GetChaturl = "http://rnow0064012/bingoNotice/chat_get.aspx"
+//var SendChaturl = "http://rnow0064012/bingoNotice/chat_send.aspx"
+var lastID = -1; //initial value will be replaced by the latest known id
+
+//window.onload = initJavaScript;
+
+function initJavaScript() {
+	//document.forms['chatForm'].elements['chatbarText'].setAttribute('autocomplete','off'); //this non standard attribute prevents firefox' autofill function to clash with this script	
+	//checkStatus(''); //sets the initial value and state of the input comment	
+	//checkName(); //checks the initial value of the input name	
+	receiveChatText(); //initiates the first data query
+}
+
+//initiates the first data queryfunction 
+function receiveChatText() {
+	if (httpReceiveChat.readyState == 4 || httpReceiveChat.readyState == 0) {  
+		httpReceiveChat.open("GET",GetChaturl + '?lastID=' + lastID + '&rand='+Math.floor(Math.random() * 1000000), true);
+ 	   	httpReceiveChat.onreadystatechange = handlehHttpReceiveChat;   	
+		httpReceiveChat.send(null);	}
+}
+
+
+//deals with the servers' reply to requesting new content
+function handlehHttpReceiveChat() { 
+	 if(httpReceiveChat.readyState == 4) {  
+		document.getElementById("chatOutput").innerHTML = httpReceiveChat.responseText;//.split('---');	           
+		setTimeout('receiveChatText();',600000);    //40000, 1250000); //executes the next data query in 40 seconds   - 600000 = every 10 minutes
+	}
+}
+
+//inserts the new content into the page
+function insertNewContent(liName,liText) {	
+	insertO = document.getElementById("outputList");	
+	oLi = document.createElement('li');	
+	oSpan = document.createElement('span');	
+	oSpan.setAttribute('className','name'); //for IE's sake	
+	oSpan.setAttribute('class','name');	
+	oName = document.createTextNode(liName+': ');	
+	oText = document.createTextNode(liText);	
+	oSpan.appendChild(oName);	
+	oLi.appendChild(oSpan);	
+	oLi.appendChild(oText);	
+	insertO.insertBefore(oLi, insertO.firstChild);
+}
+
+//stores a new comment on the server
+function sendComment() {	
+	currentChatText = document.forms['chatForm'].elements['txtBox'].value;
+	currentChatText = currentChatText.replace(/&/g,"&amp;");
+	if (currentChatText != '' & (httpSendChat.readyState == 4 || httpSendChat.readyState == 0)) {
+		currentName = document.forms['chatForm'].elements['memID'].value;
+		param = 'n='+ currentName+'&c='+ currentChatText;
+		httpSendChat.open("POST", SendChaturl, true);		
+		httpSendChat.setRequestHeader('Content-Type','application/x-www-form-urlencoded');  	
+		httpSendChat.onreadystatechange = handlehHttpSendChat;  	
+		httpSendChat.send(param);  	
+		document.forms['chatForm'].elements['txtBox'].value = 'Enter new message here';
+		window.focus();
+		receiveChatText();
+	} 
+else {		
+	setTimeout('sendComment();',1000);
+	}
+}
+
+//stores a new comment on the server
+function deleteComment() {	
+	if (httpSendChat.readyState == 4 || httpSendChat.readyState == 0) {
+		currentName = document.forms['chatForm'].elements['memID'].value;
+		param = 'n='+ currentName+'&c=deleteMe';
+		httpSendChat.open("POST", SendChaturl, true);		
+		httpSendChat.setRequestHeader('Content-Type','application/x-www-form-urlencoded');  	
+		httpSendChat.onreadystatechange = handlehHttpSendChat;  	
+		httpSendChat.send(param);  	
+		document.forms['chatForm'].elements['txtBox'].value = 'Enter new message here';
+		receiveChatText();
+} 
+else {		
+	setTimeout('sendComment();',1000);
+}
+}
+
+//deals with the servers' reply to sending a comment
+function handlehHttpSendChat() {  
+	if (httpSendChat.readyState == 4) {  	
+		receiveChatText(); //refreshes the chat after a new comment has been added (this makes it more responsive)  
+}
+}
+
+//does clever things to the input and submit 
+function checkStatus(focusState) {	
+
+	currentChatText = document.forms['chatForm'].elements['txtBox'];
+	oSubmit = document.forms['chatForm'].elements['submit'];
+	if (currentChatText.value != '' || focusState == 'active') {
+		oSubmit.disabled = false;	
+} else {		
+	oSubmit.disabled = true;	
+}
+}
+
+//autoassigns a random name to a new user
+function checkName() {
+	currentName = document.forms['chatForm'].elements['name'];	
+	if (currentName.value == '') {		
+	currentName.value = 'guest_'+ Math.floor(Math.random() * 10000);	
+}
+}
+
+//initiates the XMLHttpRequest object
+function getHTTPObject() {  
+	var xmlhttp;    
+	if(window.XMLHttpRequest) {
+		xmlhttp = new XMLHttpRequest();
+	}else if(window.ActiveXObject) {
+		xmlhttp = new ActiveXObject("MSXML2.XMLHTTP");
+	}  
+return xmlhttp;
+}
+
+// initiates the two objects for sending and receiving data
+var httpReceiveChat = getHTTPObject();
+var httpSendChat = getHTTPObject();
+
+</script>
+
+<script language="JavaScript">
+<!-- Begin
+function ShowBingoAdminDiv() {
+
+if( document.getElementById("divBingoAdmin").style.display == "none" ) {
+    document.getElementById("divBingoAdmin").style.display = "inline"; 
+    document.getElementById("image").src = "img/Menu_minus.gif"
+  } 
+  else { 
+    document.getElementById("divBingoAdmin").style.display = "none";
+    document.getElementById("image").src = "img/Menu_plus.gif"
+  }
+}
+// End -->
+</script>
+
 </head>
 <body leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
 <layer top="0" left="0" width="765">
@@ -476,7 +625,7 @@ function jsCloseChildRedirectParent(argURL){
 
 <!--		<td align="left" valign="top"><a href="http://< %= sWebName %>.SodakGaming.com"><img border="0" src="< %=strImagePath%>SodakLogo_150w.gif" /></a></td> -->
 
-		<td align="left" valign="top"><a href="http://www.IGT.com"><img border="0" src="http://media.IGT.com/images/Logo_IGTSilverAnniversary_Home.gif"></a></td>
+		<td align="left" valign="top"><a href="http://www.IGT.com"><img border="0" src="http://media.IGT.com/images/Logo_IGT_100w.gif"></a></td>
 		
 	</tr>
 </tbody></table>
@@ -1083,7 +1232,7 @@ function jsCloseChildRedirectParent(argURL){
 		<td valign="top"><img border="0" src="http://media.IGT.com/images/spacer.gif" width="1" height="10"></td>
 	</tr>
 	<tr>
-		<td class="Copyright" nowrap="">© 2002-2006 IGT.<br>
+		<td class="Copyright" nowrap="">© 2002-2007 IGT.<br>
 		All rights reserved.<br>
        <a href="http://www.igt.com/Reference/Legal.asp?pid=11" class="CopyrightA" target="_top">Privacy Policy</a><br>
        <a href="http://www.igt.com/Reference/Legal.asp?pid=12" class="CopyrightA" target="_top">Terms of Use</a><br>
