@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215004900id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428164929id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-[](https://web.archive.org/ISEO-ralscspd/popups/shipping_popup.html)
+For more than 33 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
-  
+If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1-888-955-6000; e-mail us at [webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
 
+## Crutchfield.com, CrutchfieldAdvisor.com and Crutchfieldenespanol.com Privacy Notice
 
-For more than 31 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
-
-If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1-800-955-9091; e-mail us at [webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
-
-## Crutchfield.com and CrutchfieldAdvisor.com Privacy Notice
-
-By visiting either Crutchfield.com or CrutchfieldAdvisor.com you agree to accept the practices described in this Privacy Notice.
+By visiting Crutchfield.com, CrutchfieldAdvisor.com or Crutchfieldenespanol.com you agree to accept the practices described in this Privacy Notice.
 
 ## Changes to this Privacy Notice, Conditions of Use and Notices:
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on November 9, 2005. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20051215004900id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on February 27, 2007. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20070428164929id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
 
 ## Personal Information Collected By Crutchfield:
 
@@ -37,9 +32,9 @@ Affiliated Businesses and Crutchfield Corporation: We may share any information 
 
 Independent Contractors: We may employ other companies or individuals to provide certain services to us such as sending e-mail, analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any other purpose.
 
-DirecTV, XM Radio, SIRIUS, TiVo, MySony.com, Rainbow DBS Company LLC (Voom), and other third party service providers: Some of the products which we sell require us to provide your name, address, phone number and product serial number to the third party service provider that requires this information to activate the service. These third party service providers have their own privacy and data collection policies which are not controlled by Crutchfield. We have no responsibility or liability for these policies and urge you to contact the third party provider if you have any questions. We may occasionally partner with MySony.com in various email programs. If you link to Crutchfield.com from any MySony.com website and purchase a Sony product on Crutchfield.com we will forward a copy of your email address to MySony.com so that MySony.com can assure that you are awarded the correct points for your purchase and auto-register your purchase in the MySony.com product locker. Please note that MySony.com has its own privacy and data collection policies which are not controlled by Crutchfield.
+DirecTV, XM Radio, SIRIUS, TiVo, MySony.com, and other third party service providers: Some of the products which we sell require us to provide your name, address, phone number and product serial number to the third party service provider that requires this information to activate the service. These third party service providers have their own privacy and data collection policies which are not controlled by Crutchfield. We have no responsibility or liability for these policies and urge you to contact the third party provider if you have any questions. We may occasionally partner with MySony.com in various email programs. If you link to Crutchfield.com from any MySony.com website and purchase a Sony product on Crutchfield.com we will forward a copy of your email address to MySony.com so that MySony.com can assure that you are awarded the correct points for your purchase and auto-register your purchase in the MySony.com product locker. Please note that MySony.com has its own privacy and data collection policies which are not controlled by Crutchfield. If you link to our site from Optimumstore.com we will provide the following personally identifiable information to CSC Holdings, Inc ("Cablevision"): your name, address, and information about the product you purchased. If you do not wish to have this information provided to Cablevision please do not visit Crutchfield.com from Optimumstore.com to make your purchase.
 
-Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog we may share your name and mailing address with a few carefully selected marketing partners. If you wish to opt out of sharing this information, please call 1-800-955-9091 or e-mail [service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s).
+Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1-888-955-6000 or e-mail [service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s).
 
 Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually.
 
@@ -57,7 +52,7 @@ Third Party Checkout Links: If you use a third party checkout link on our site s
 
 We contract with an outside service called Coremetrics to help us better understand your use of Crutchfield.com and CrutchfieldAdvisor.com. Coremetrics places cookies on your computer to collect various kinds of information for us related to the use of our websites, so that we may continue to refine and improve the sites and better serve you. We do not allow Coremetrics to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Coremetrics is contractually required to maintain all the information collected for us in strict confidence. You may opt out of the Coremetrics information collection by [clicking here](https://web.archive.org/ISEO-ralscspd/optOut.html).
 
-We contract with I-Media Insights to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by us or I-media Insights, please [click here](http://www.imiclk.com/optout.html).
+We contract with an outside service called Omniture to help us better understand your use of Crutchfield.com, Crutchfieldenespanol.com and CrutchfieldAdvisor.com. Omniture places cookies on your computer to collect various kinds of information for us related to the use of our websites, so that we may continue to refine and improve the sites and better serve you. Omniture is not allowed to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Omniture is contractually required to maintain all the information collected for us in strict confidence. You may opt out of the Omniture information collection by [clicking here](http://www.omniture.com/privacy/2o7#optout).
 
 ## Law Enforcement and Protection of Users:
 
@@ -65,7 +60,7 @@ We will release personally identifiable information to third parties and organiz
 
 ## Business Transfer:
 
-Crutchfield has been in business independently for years, and our intent is continue for at least another 31 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets.
+Crutchfield has been in business independently for years, and our intent is continue for at least another 33 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets.
 
 ## Security:
 
@@ -73,7 +68,7 @@ Our Web site protects the security of personal information you transmit to us by
 
 ## Choice/Opt-Out:
 
-Our Web site gives you the opportunity to opt-out of receiving communications from us. If you no longer wish to receive communications from us you may opt-out by calling 1-800-955-9091 or e-mail [service@crutchfield.com](mailto:service@crutchfield.com).
+Our Web site gives you the opportunity to opt-out of receiving communications from us. If you no longer wish to receive communications from us you may opt-out by calling 1-888-955-6000 or e-mail [service@crutchfield.com](mailto:service@crutchfield.com).
 
 ## Children's Online Policy
 
