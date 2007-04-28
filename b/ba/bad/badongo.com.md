@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badongo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213137id_/http%3A//www.badongo.com/%3Fpage%3Dbprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badongo.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428181646id_/http%3A//www.badongo.com/privacy) for the most accurate reproduction.*
 
-# Badongo One Click Web hosting
+# Badongo free file hosting and image hosting
 
   
 BADONGO.COM Privacy Statement 
