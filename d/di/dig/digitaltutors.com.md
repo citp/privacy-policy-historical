@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaltutors.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207153612id_/http%3A//www.digitaltutors.com/digital_tutors/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltutors.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429014413id_/http%3A//www.digitaltutors.com/digital_tutors/privacy_policy.php) for the most accurate reproduction.*
 
 # Digital-Tutors : Corporate / Privacy Policy
 
