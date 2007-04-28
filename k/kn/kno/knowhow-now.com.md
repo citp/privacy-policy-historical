@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217135837id_/http%3A//www.knowhow-now.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428131848id_/http%3A//knowhow-now.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # 
+
+  
+[](http://contentcomposer.com/go/track)
 
 **KnowHow-Now.com  Privacy Policy**
 
@@ -48,6 +51,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-[ ](http://www.mypagerank.net/) [ ](http://www.serenity-article-directory.com/Top10/) [](http://top-marketing-sites.afroarticles.com/) **[Vote For KnowHow-Now: Content When You Need It!  
-at Top Article Directory List](http://articles.top-site-list.com/vote19.html)  
-** [TopList](http://www.top-site-list.com/)
+[ ](http://www.mypagerank.net/) [](http://top-marketing-sites.afroarticles.com/)
