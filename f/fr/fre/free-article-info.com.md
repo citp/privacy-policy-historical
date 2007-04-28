@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-article-info.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216215310id_/http%3A//www.free-article-info.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-article-info.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429010353id_/http%3A//www.free-article-info.com/privacy.html) for the most accurate reproduction.*
 
 # free-article-info.com | FREE Information and Articles on All Topics and Subjects
 
@@ -6,27 +6,23 @@ This is the web site of **free-article-info.com**.
 
 Our postal address is **Melbourne, Australia**
 
-We can be reached via e-mail at [article@free-article-info.com](mailto:article@free-article-info.com)
+We can be reached via e-mail at [freearti@free-article-info.com](mailto:freearti@free-article-info.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations (if applicable). 
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, and used to notify consumers about updates to our Web site.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We do not use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by e-mailing us at the above address. 
-
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by e-mailing us at the above address. 
+We DO NOT make the e-mail addresses of those who access our site available to anyone without any prior consent. Otherwise, please let us know by e-mailing us at the above address.
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
