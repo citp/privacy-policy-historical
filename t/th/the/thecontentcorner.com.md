@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230093854id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429013916id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
 
 # Articles for Content @ The Content Corner
 
@@ -19,7 +19,7 @@ While both of these activities depend on the use of a "cookie," visitors to this
 
 **Information Gathering**
 
-This web site collects contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. Users may opt-out of receiving future mailings; see the opt-out/modify section below.
+This web site collects contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, to get in touch with the user when necessary, or to send out promotional emails for ebooks, reports, softwares, and any other offer The Content Corner believes will help you succeed in your onlime business. Users may opt-out of receiving future mailings; see the opt-out/modify section below.
 
 **Information Dissemination**
 
@@ -31,7 +31,7 @@ This site contains links to other sites. The Content Corner is not responsible f
 
 **Opt-Out/Modify**
 
-The Content Corner provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
+The Content Corner provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. Please note that when you opt-out of our email database, your author's account will be terminated. You may do either one of the above in the following ways:
 
 **Contacting The Content Corner.com**
 
@@ -49,9 +49,10 @@ If you have any questions about this privacy statement, the practices of this we
 
 | 
 
-[ ](http://www.marysheadlines.com/adsenseprofitability/)
+  
+[ ](http://www.learnsocialbookmarking.com/)
 
-**The Truth About AdSense Profitability** \- A special report on real earnings with AdSense.
+**Learn Social Bookmarking** \- Insider Secrets to getting more traffic and sales fast!
 
   
 [ ](http://articlespeedwriting.com/?a_aid=mmurtha)
