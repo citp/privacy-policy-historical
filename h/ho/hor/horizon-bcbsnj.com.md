@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizon-bcbsnj.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215173852id_/http%3A//horizon-bcbsnj.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizon-bcbsnj.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429014102id_/http%3A//www.horizon-bcbsnj.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Horizon BCBSNJ - Privacy Policy
 
