@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the togoparts.com privacy policy that was archived on 2006-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061217035804id_/http%3A//www.togoparts.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the togoparts.com privacy policy that was archived on 2007-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070428093708id_/http%3A//www.togoparts.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>togoparts.com</title>
@@ -13,7 +13,7 @@
       <a href="http://www.togoparts.com"><img src="/images/logo2002_blue_t.gif" border="0"></a>
     </td>
     <td width="502" align="right" valign="middle"> 
-    <span class="gBannerBg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="468" height="60"><param name="movie" value="http://www.togoparts.com/ads/2006cinelli468x60.swf?clickTAG=http://www.togoparts.com/advertising/adclick.php%3Fbannerid=40%26zoneid=1%26source=%26dest=http%3A%2F%2Fwww.togoparts.com%2Fbikeshops%2Fshop_details.php%3Fsid%3D85"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.togoparts.com/ads/2006cinelli468x60.swf?clickTAG=http://www.togoparts.com/advertising/adclick.php%3Fbannerid=40%26zoneid=1%26source=%26dest=http%3A%2F%2Fwww.togoparts.com%2Fbikeshops%2Fshop_details.php%3Fsid%3D85" quality="high" wmode="transparent" width="468" height="60" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/go/getflashplayer"></object><div id="beacon_40" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=40&amp;clientid=26&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=de87d966018777497620cdd80a70a817" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></span>
+    <span class="gBannerBg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="468" height="60"><param name="movie" value="http://www.togoparts.com/ads/togoparts_1.swf"><param name="quality" value="high"><embed src="http://www.togoparts.com/ads/togoparts_1.swf" quality="high" width="468" height="60" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/go/getflashplayer"></object><div id="beacon_1" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=1&amp;clientid=2&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=630b4ba98d75082daa374135c4385f46" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></span>
     </td>
   </tr>
 </tbody></table>
@@ -157,7 +157,15 @@
       )
       
       membersmenu = new Array(
+	  //"Members Search","/members/members_listing.php",0
         "Priv. Membership","/shopping/pmsignup.php",0
+      )
+
+	  
+	  mytgpmenu = new Array(
+	  "Invite Friends","/common/includes/login_dialog.php?cb=%2Fmembers%2Fmembers_listing.php",0
+        ,"Approve Friends","/members/view_request.php",0
+		,"My Friends", "/members/all_friends.php?userid=",0	  
       )
 
       absPath="";
@@ -232,7 +240,7 @@
           <td class="verdana1" nowrap="">
             <b>
               <a href="/bikeprofile/index.php" style="color:white; text-decoration: none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; } " onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } ">
-                Zhng My Bike
+                Rides
               </a>
             </b>
           </td>
@@ -287,7 +295,15 @@
               </a>
             </b>
           </td>
-          <!--members-->
+          
+          <td class="verdana1" nowrap="">
+            <b>
+              <a href="/showroom/category.php" style="color:white; text-decoration: none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; } " onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } ">
+                Showrooms
+              </a>
+            </b>
+          </td>
+		  <!--comm-->
           <td class="verdana1" nowrap="" onmouseover="chgBg('membersid',3);expandMenu('membersmenu','membersid',event)" onmouseout="chgBg('membersid',0);collapseMenu('membersmenu')" id="membersid">
             <b>
               <a href="/members/members_listing.php" style="color:white; text-decoration:none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; }  expandMenuNS('membersmenu',event);" onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } collapseMenuNS('membersmenu');">
@@ -295,10 +311,12 @@
               </a> 
             </b>
           </td>
-          <td class="verdana1" nowrap="">
+		  
+<!--my tgp-->
+		  <td nowrap="" background="../../images/common/tabmytgp.gif" bgcolor="#FF9600" class="verdana1" id="mytgpid" onmouseover="chgBg('mytgpid',3);expandMenu('mytgpmenu','mytgpid',event)" onmouseout="chgBg('mytgpid',0);collapseMenu('mytgpmenu')">
             <b>
-              <a href="/showroom/category.php" style="color:white; text-decoration: none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; } " onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } ">
-                Showrooms
+              <a href="/members/index.php" style="color:white; text-decoration: none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; } " onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } ">
+                My Togoparts
               </a>
             </b>
           </td>
@@ -319,11 +337,11 @@
                   </a>
                               |
                 Users Online:
-                <u><a onclick="popUpWin_usersonline('/members/users_online.php');" style="cursor:pointer;">2172</a></u>
+                <u><a onclick="popUpWin_usersonline('/members/users_online.php');" style="cursor:pointer;">2611</a></u>
                 |
                 <!-- <i><u>Text Ad:</u></i> -->
                 &nbsp;
-								Share, Upload Pictures and Blog your Ride Experiences with <a href="http://www.togoparts.com/bikeprofile/viewbikeprofile.php">Zhng My Bike!</a><div id="beacon_66" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=66&amp;clientid=19&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=444fab4377d3f6ec3b57194b95a60513" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>				              </font>
+								Get your <a href="http://www.togoparts.com/advertising/adclick.php?log=no&amp;bannerid=12&amp;zoneid=&amp;source=&amp;dest=http%3A%2F%2Fwww.togoparts.com%2Fshopping%2Fstore.php">Togoparts T-shirts, Stickers and Lanyards</a> online and have it delivered!<div id="beacon_12" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=12&amp;clientid=19&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=b2c0560ff3752bfe3351bb8a9c0dc6f5" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>				              </font>
             </b>
           </td>
         </tr>
@@ -331,18 +349,7 @@
     </td>
   </tr>
 </tbody></table>
-<table width="780" border="0" cellspacing="0" cellpadding="0" height="90">
-  <tbody><tr>
-    <td width="60" valign="middle" bgcolor="#EBEAE7">
-    <!--Ad spacer-->
-      <img src="/images/adtabv.gif">
-    </td>
-    <td width="720" align="right">
-      <div style="z-index:-1000; border: 1px solid #666666;"><a href="http://www.togoparts.com/advertising/adclick.php?bannerid=95&amp;zoneid=9&amp;source=&amp;dest=http%3A%2F%2Fwww.togoparts.com%2Fclubrainbow%2Findex.php" target="_blank"><img src="http://www.togoparts.com/ads/2006clubrainbow.jpg" width="728" height="90" alt="" title="" border="0"></a><div id="beacon_95" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=95&amp;clientid=67&amp;zoneid=9&amp;source=&amp;block=0&amp;capping=0&amp;cb=9f2a53a2a728cf4a8db8986b14d4a3c3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
-    </td>
-  </tr>
-</tbody></table>
- 
+
 
 <table border="0" cellspacing="0" cellpadding="0" width="780">
   <tbody><tr>
@@ -512,7 +519,7 @@
             </font>
     </td>
     <td width="36%" align="right">
-      <font color="#999999" class="arial1">Copyright© 2000-2006 Togoparts.com All Rights Reserved.</font>
+      <font color="#999999" class="arial1">Copyright© 2007 Togoparts.com All Rights Reserved.</font>
     </td>
   </tr>
 </tbody></table>
