@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214183117id_/http%3A//www.travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428094458id_/http%3A//www.travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,3 +72,6 @@ TravelPod reserves the right to change this Privacy Policy at any time by notify
 Contacting Us 
 
 If you have any questions about this Privacy Policy or the privacy practices of TravelPod in respect of this Web site, please direct your inquiry to us via our [contact form](https://web.archive.org/cgi-bin/feedback1.pl). 
+
+Last updated November 2005   
+
