@@ -1,35 +1,34 @@
-> *The following text is extracted and transformed from the customerthink.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607165006id_/http%3A//www.customerthink.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerthink.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428205323id_/http%3A//www.customerthink.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CustomerThink
 
-Privacy Policy 
+CustomerThink.com is fully committed to protecting the privacy of this site's members, visitors, advertisers and partners. Unless explicitly stated on the site, and agreed to by users, we do not share any names or email addresses collected during any registration process on this web site with third parties. 
 
-We are strongly committed to safeguarding subscribers' privacy on this web site. We operate under the following strict privacy policy: 
+**What personal information does CustomerThink.com collect?**
 
-The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason.
+We at CustomerThink.com abide by a policy of collecting only information that we need during the registration process. CustomerThink.com collects personally-identifying information during: membership registration (email, blogs, discussion); order process in the online store; member surveys; postings to our discussion lists; and personal correspondence.
 
-Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. 
+**What does CustomerThink.com do with the information it collects?**
 
-**Cookies**  
-Each time a subscriber logs into this web site, we store a temporary 'cookie' in the browser files of that subscriber's computer. This cookie is used during your online session to allow you free access to the Subscribers Area, without repeatedly requiring you to re-enter your user name and password.
+CustomerThink.com uses the information it collects primarily to email publications and fulfill orders or for other purposes clearly identified on pages where the information is collected. In addition, CustomerThink.com may disclose personally identifying information about members, member accounts or any content members provide on site, if CustomerThink.com believes in good faith that such action is reasonably necessary to enforce its [Terms of Use](https://web.archive.org/terms_of_use) or copyright policy, to comply with the law, to comply with legal process, to operate its systems properly or to protect the rights or property of itself, its members, its visitors or others. 
 
-When you log off or leave the site, the cookies file is automatically removed.
+**How will CustomerThink.com protect your personal information?**
 
- **External Links**  
-In order to provide visitors with greater value, some of our pages may provide links to various third party websites. In no case is subscriber information or 'cookies' provided to the third party sites.
+CustomerThink.com will take appropriate steps to protect the information you share with us. We use secure server technology to process credit cards, and credit card numbers are not retained for marketing or any other purpose. Access to our database of members is restricted to those in our organization and in our list hosting service that need access to mail our publications. 
 
-However, keep in mind that many sites do attempt to capture visitor information when you browse those sites. Once you leave our site, we are not able to alert you should another site attempt to gather information from your browser.
+**How to unsubscribe**
 
- **Private Forums**  
-We provide our subscribers with a multi-tiered Discussion Forum (when available) that makes sharing information with other subscribers easy. To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed.
+CustomerThink.com has implemented procedures to make it as easy as possible for members to remove themselves from our email distribution list. A personalized encoded "profile update" link is provided at the bottom of every newsletter to enable opt-in subscribers to change their newsletter preferences or to unsubscribe entirely from CustomerThink publications. In addition, a newsletter subscriber may request removal by contacting CustomerThink member services at service@cusotmerthink.com.
 
-However, remember that any information you disclose in the message board areas can be read by all other subscribers, so exercise caution when deciding to disclose your personal information. 
+**Use of cookies**
 
-**Security**  
-We use a variety of security measures including encryption and authentication protect the loss, misuse and alteration of your personal information under our control. 
+CustomerThink.com uses cookies (small text files placed on the user's hard drive) to improve the browsing experience by storing profile information, so users can use the site without logging in with each visit. No personally identifiable information is collected or used by CustomerThink.com.
 
-**Choice/Opt-In**  
-Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. This site also gives users options for removing their information from our database in order to stop receiving our communications. 
+By using this site, you agree to this CustomerThink.com Privacy Policy. If you do not agree to this policy, please do not use the site. We reserve the right, at our discretion, to change, modify, add or remove portions of this policy at any time. Please check this page periodically for changes. 
 
-**Other**  
-If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20040607165006id_/http%3A//www.customerthink.com/public/7.cfm).
+**Questions about the CustomerThink Privacy Policy?**
+
+Send email with any further questions to us at [service@customerthink.com](mailto:service@customerthink.com).
+
+  
+
