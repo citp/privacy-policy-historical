@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030001005id_/http%3A//www.idealist.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealist.org privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428030054id_/http%3A//www.idealist.org/about/privacy.html) for the most accurate reproduction.*
 
-# Idealist.org - Privacy Statement
+# Welcome to Idealist.org - Imagine. Connect. Act.
+
+Idealist.org - Privacy Statement
 
 Thank you for visiting our website and reviewing our Privacy Statement. This website, Idealist.org (" **Site** "), is operated on behalf of Action Without Borders/Idealist.org (" **Idealist** ," " **we** ," " **us** ," and " **our** "). Your privacy is important to us. It is our policy to protect your Personal Information (as defined below) and to use it in accordance with this Privacy Statement. This Privacy Statement only covers privacy practices involving information we collect online. Please note that your use of the Site and services is subject to our Terms and Conditions of Service which you may access from our homepage or other Site pages by clicking on Terms and Conditions. 
 
@@ -52,7 +54,7 @@ We do not sell or trade or provide Personal Information to marketing companies o
 
 Please remember that, although we endeavor to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. 
 
-**5   USE OF COOKIES **
+5  USE OF COOKIES 
 
 The use of cookies enables us to enhance your visits to the Site. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, but this will limit your ability to use some features. Cookies enable us to recognize your browser and provide features that are tailored to your needs. 
 
@@ -60,13 +62,13 @@ We may use information from cookies for purposes of planning and tracking, as we
 
 **6   CHILDREN AND PARENTS **
 
-If you are under fifteen (15), we bly encourage you to use this Site only with the knowledge of a parent or guardian. Any information you submit will be treated in accordance with the policies in this Privacy Statement. 
+If you are under fifteen (15), we strongly encourage you to use this Site only with the knowledge of a parent or guardian. Any information you submit will be treated in accordance with the policies in this Privacy Statement. 
 
 **7   PROVIDING AND RECEIVING INFORMATION **
 
 You can always choose not to provide information or to opt out of receiving communications from us at any time. We give users the following options: 
 
-Email: [concerns@idealist.org ](mailto:concerns@idealist.org)
+[Email us about your concerns](https://web.archive.org/if/idealist/en/ContactUs/default?TYPE=General&SUBTYPE=Complaints/Concerns)
 
 Telephone: 212-843-3973 
 
