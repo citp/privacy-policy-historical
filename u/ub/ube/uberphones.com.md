@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123013424id_/http%3A//www.uberphones.com/2006/01/privacy_policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428020534id_/http%3A//www.uberphones.com/2006/01/privacy_policy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.uberphones.com/2005/12/motorola_revamps_ui_to_woo_new_customers/) [](http://www.uberphones.com/) [](http://www.uberphones.com/2006/01/terms_of_use/) [](http://www.uberbargain.com/)
+
+### Privacy Policy
+
+Categorie(s): 
 
 **Uberphones.com Privacy Statement**
 
@@ -51,3 +57,5 @@ Whenever Uberphones changes our privacy policy, we will post those changes to th
 **Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at contact@Uberphones.com
+
+Story posted on: January 01, 2006
