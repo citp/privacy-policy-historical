@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2006-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060211051750id_/http%3A//www.hinesville.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428162452id_/http%3A//www.hinesville.com/privacy.html) for the most accurate reproduction.*
 
 # Hinesville.com
 
@@ -25,7 +25,7 @@ Optional Voluntary Information
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-## _Privacy Policy Sample_
+## _Privacy Policy_
 
 1\. Electronic newsletters policy (Dispatches)
 
@@ -51,8 +51,6 @@ Hinesville.com may occasionally conduct user surveys to better target our conten
 
 Users of the site's Classified Ads must register separately (free of charge) in order to post ads, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
-## _Privacy Policy Template changes_
-
 Children
 
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
@@ -70,8 +68,6 @@ We may place a text file called a "cookie" in the browser files of your computer
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
 ## _Privacy Policy Use_
-
-_How the information you gather is used if relevent._
 
 USE OF INFORMATION
 
