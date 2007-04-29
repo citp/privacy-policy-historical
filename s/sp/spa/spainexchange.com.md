@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200849id_/http%3A//spainexchange.com/privacy-en.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130316id_/http%3A//www.spainexchange.com/privacy-en.htm) for the most accurate reproduction.*
 
 # SpainExchange.com Privacy Statement
 
