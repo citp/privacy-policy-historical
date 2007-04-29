@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230222127id_/http%3A//wilkinsrv.com/content.asp%3Fid%3D138%26uid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429071839id_/http%3A//wilkinsrv.dealerweb.myrvadvantage.com/Home/Hidden/PrivacyPolicy/tabid/5901/Default.aspx) for the most accurate reproduction.*
 
-# Welcome to Wilkins RV: Privacy Policy
+# Privacy Policy
 
 **_Privacy Policy_**
 
@@ -21,5 +21,4 @@ In connection with your transaction **, Wilkins Recreational Vehicles** may obta
 
 
 
-> >   
-
+> > 
