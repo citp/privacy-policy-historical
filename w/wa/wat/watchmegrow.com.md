@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the watchmegrow.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109164939id_/http%3A//watchmegrow.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmegrow.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429181105id_/http%3A//www.watchmegrow.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # WatchMeGrow Childcare Internet Video Cameras & Online Viewing Systems
 
+---  
+  |  |   
+---  
+  
 ##### [Home](http://www.watchmegrow.com/index.shtml) 
 
 ##### [Sign Up](https://www.watchmegrow.com/signup.shtml) 
 
-##### [Demonstration](http://www.watchmegrow.com/demonstration.shtml) 
+##### [Demonstration](https://www.watchmegrowdemo.com/) 
 
-##### [Childcare Providers](http://www.watchmegrow.com/childcareProviders.shtml) 
+##### [Products](http://www.watchmegrow.com/products.shtml) 
 
-##### [Intergrators](http://www.watchmegrow.com/integrators.shtml) 
+##### [Integrators](http://www.watchmegrow.com/integrators.shtml) 
 
 ##### [Testimonials](http://www.watchmegrow.com/testimonials.shtml) 
 
@@ -44,12 +48,6 @@ While we use encryption to protect sensitive information transmitted online, we 
   
 
 
-#### We have greatly enjoyed the access WatchMeGrow provides to our child. Thank you!  
--Texas
-
-#### I am a stay-at-home Mom with a business I run out of the home. I am on the computer all day and I really miss Jacob and I love to watch what he is doing at school. I really depend on this service.  
--Seattle, WA
-
-**For more information,  
-please click below...** [](https://web.archive.org/web/20061109164939id_/http%3A//watchmegrow.com/childcareProviders.shtml) [](https://web.archive.org/web/20061109164939id_/http%3A//watchmegrow.com/parents.shtml) [](http://www.bbbonline.org/cks.asp?id=1051208104212)   
-
+[](http://www.bbbonline.org/cks.asp?id=1051208104212)   
+  
+ 
