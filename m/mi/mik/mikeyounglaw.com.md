@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219053943id_/http%3A//www.mikeyounglaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429071841id_/http%3A//www.mikeyounglaw.com/privacy.html) for the most accurate reproduction.*
 
 # Law Firm Privacy Policy
 
