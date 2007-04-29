@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvweek.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010936id_/http%3A//www.tvweek.com/page.cms%3FpageId%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvweek.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429031757id_/http%3A//www.tvweek.com/page.cms%3FpageId%3D5) for the most accurate reproduction.*
 
 # TV Week
 
