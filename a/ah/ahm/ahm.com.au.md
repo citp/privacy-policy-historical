@@ -1,30 +1,37 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011111522id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429021950id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Health Insurance Australia - privacy policy
 
 ## Your privacy is important to us
 
-Australian Health Management (ahm) is subject to the Privacy Act 1988. The Privacy Act contains a set of principles for handling your personal information in a confidential and secure manner.
+Australian Health Management Group Limited (ahm) is subject to the Privacy Act 1988 and complies with the principles for handling your personal information. 
 
-**Your Privacy and personal information is important to us and we will:**
+You can contact us anonymously. However, if you choose not to be identified we are very limited in our ability to insure you, pay claims or offer you services.
 
-  * Only collect, use and disclose personal information about you that is required in the provision of product and services you are entitled to; administration of the fund; or to meet any legal obligations imposed on ahm.
-  * Seek your consent to collect, use or disclose your personal information for any other purposes.
-  * Use only fair and lawful ways to collect personal information.
+**Your privacy and personal information is important to us and we will do each of the following:**
+
+  * Only collect, use and disclose personal information about you that is required in the provision of information about or the promotion or delivery of our products and services to you; administration of ahm’s business; business analysis; or to meet any legal obligations imposed on ahm (Purpose). 
+  * Only disclose your personal information to third parties for a Purpose and with whom we have entered into an agreement that gives you (or that the law requires to give you) at least the same level of protection to your personal information as we do.
+  * Only use de-identified information for any statistical or other analysis or similar research purposes.
+  * Only disclose your information to a third party in connection with a product or service offered by that third party with your prior consent.
+  * Only transfer your personal information outside Australia or health information outside New South Wales if it is in accordance with the law and is necessary for any of the following: 
+    * To prove your membership of other health funds and to confirm waiting periods have been served.
+    * To investigate claims.
+    * For the administration or delivery of health insurance, health management programs , dental services and related products and services. 
+  * Use only fair and lawful ways to collect personal information. Sometimes we may need to collect sensitive information from third parties such as doctors or hospitals so we can assess risks or process claims. We may also need to ask for it from another health fund, if you are looking to transfer your membership. We may contact a service provider who has treated you in the past, if the information is likely to be relevant to your current treatment. 
   * Collect personal information directly from you if it is reasonable and practicable to do so.
-  * Take reasonable steps to make you aware of (either at the time of collection or as soon as practicable afterwards): 
-    * why we are collecting your personal information
-    * who will have access to your information
-    * the consequences of not providing the information requested.
-  * Take reasonable steps to ensure you are aware of any information we collect, even if we have collected it from a third party.
-  * Take reasonable steps to ensure the personal information that ahm collects, uses or discloses is accurate, complete and up-to-date.
-  * Take reasonable steps to protect the personal information about you from misuse and loss and from unauthorised access, modification or disclosure.
+  * Allow the contributor (the person who pays the premium) to have complete information on all aspects of the policy, including benefits claimed under the policy. This may include disclosing your sensitive information. This is required under our contract with the contributor. We send all communications on policies that cover more than one person to the address supplied by the contributor.
+  * Take reasonable steps to ensure the personal information that ahm collects, uses or discloses is accurate, complete and up-to-date. If you need to update your contact details, please let us know.
+  * Take reasonable steps to protect your personal information from misuse, loss and unauthorised access, modification or disclosure.
   * Take reasonable steps to destroy or permanently de-identify personal information if we no longer need it for any purpose.
-  * On request, take reasonable steps to let you know what sort of personal information we hold, what purposes we hold it for and how we collect, use and disclose that information.
-  * On request, we will give access to the personal information we hold about you unless particular circumstances apply (including emergency situations, specified business imperatives, law enforcement or other public interests).
-  * You are entitled to access any of your personal information and to make corrections if needed. You can do this in writing or over the phone. From time to time, the fund may offer you additional products and services. If you do not wish to receive such information, you can request that your name is removed from the mailing lists. You can do this by writing or over the phone.
+  * On request, we will give you access to the personal information we hold about you. If any personal information we hold about you is out of date or inaccurate, we encourage you to let us know, and ask us correct it. If we cannot deal with your request, you will receive our reasons in writing.
 
 
+
+If you want to complain about an interference with your privacy by ahm, you can visit an ahm office, call ahm on 134 246, write to ahm member feedback, Locked Bag 1006, Matraville, NSW, 2036 or [email us](mailto:feedback@ahm.com.au). We will do our best to resolve your complaint as quickly as possible. If you are not satisfied with our response to your complaint, you can refer the matter to the Federal Privacy Commissioner: 
+
+Director of Complaints, Office of the Federal Privacy Commissioner, GPO Box 5218, Sydney NSW 1042.   
+Telephone: 1300 363 992 
 
 ## Web site information collection and dissemination practices
 
@@ -58,6 +65,8 @@ We recommend that you notify us if you change your address or contact details as
 
 For further information on changing your address, please see our [Common Questions](https://web.archive.org/3742/Membership-FAQ).
 
-For further information about the contents of this statement, please contact us on 134 246, or email us at [webmaster@ahm.com.au. ](mailto:webmaster@ahm.com.au)
+For further information about the contents of this statement, please contact us on 134 246, or [email us](mailto:info@ahm.com.au). 
 
 Back to top
+
+**Last updated 14 February 2007**
