@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedes-benz.ca privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217175542id_/http%3A//www.mercedes-benz.ca/index.cfm%3Fid%3D3248) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.ca privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429121359id_/http%3A//www.mercedes-benz.ca/index.cfm%3Fid%3D3248) for the most accurate reproduction.*
 
 # Mercedes-Benz Canada
 
