@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220357id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429115919id_/http%3A//simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
