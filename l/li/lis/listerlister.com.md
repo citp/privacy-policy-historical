@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listerlister.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119151227id_/http%3A//www.listerlister.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listerlister.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429223101id_/http%3A//www.listerlister.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
