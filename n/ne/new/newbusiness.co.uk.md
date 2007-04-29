@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029002624id_/http%3A//www.newbusiness.co.uk/p109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429161033id_/http%3A//www.newbusiness.co.uk/p109) for the most accurate reproduction.*
 
-# Home - NewBusiness
+# Business Advice for business startups, SMEs and Entrepreneurs | NewBusiness Magazine
 
 **1\. Introduction**
 
