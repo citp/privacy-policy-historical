@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005214131id_/http%3A//northumbria.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429124322id_/http%3A//northumbria.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Northumbria University, Newcastle UK
 
@@ -12,7 +12,7 @@ Northumbria University is committed to protecting the privacy of all individuals
 
 
 
-This Web Site is managed by the [Web Team](mailto:er.webteam@northumbria.ac.uk)
+This Web Site is managed by the [Web Team](mailto:it.webteam@northumbria.ac.uk)
 
 If you have any concerns about privacy on the Northumbria University Web Site, please contact: the Data Protection Officer, Northumbria University, Ellison Place, Newcastle upon Tyne, NE1 8ST.
 
@@ -76,4 +76,4 @@ Office of the Information Commissioner
   
 
 
-[Back to previous page](javascript:window.history.back\(\))
+[<< Back to previous page](javascript:window.history.back\(\))
