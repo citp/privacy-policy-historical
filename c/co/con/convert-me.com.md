@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217093245id_/http%3A//www.convert-me.com/en/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429144948id_/http%3A//www.convert-me.com/en/privacy_policy_en.html) for the most accurate reproduction.*
 
 # Privacy Policy for Convert-me.Com
 
@@ -26,7 +26,7 @@ You do not have any obligation to supply any personal information.
 Our system may also collect some personal information automatically. The types of personal information collected automatically are:
 
   * The number of posts you have made to our site forum 
-  * The date you regestered to receive access to special site areas 
+  * The date you registered to receive access to special site areas 
   * Internet addresses (IP addresses) you were accessing the Internet from when posting messages to our site forum 
 
 
