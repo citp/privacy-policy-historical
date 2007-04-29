@@ -1,109 +1,55 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211174408id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430010456id_/http%3A//www.dannylipford.com/privacy-policy) for the most accurate reproduction.*
 
-# This Old House Privacy Policy
+# DIY: Privacy Policy - Danny Lipford
 
-  |  |   |    
-**PRIVACY NOTICE** |    
-  
-**Table of Contents** |    
-* Netscape Network Registered Users
-* The Information We Collect
-* How We Use the Information 
-* Collection of Information by Third-Party Sites and Sponsors
-* Cookies
-* Our Commitment to Security
-* How You can Access or Correct Information
-* Special Note for Parents
-* How to Contact Us
-|    
-  
-Thank you for visiting This Old House, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Inc. site. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice. |    
-  
-**Netscape Network Registered Users**  
-If you have registered with the Netscape Network, the [Netscape Network's Privacy Policy](http://about.netscape.com/networkprivacy/index.html) and [Registered User Agreement](http://about.netscape.com/networkterms/index.html) govern the information practices and terms and conditions of use that apply to you when you use the Netscape Network | back to top  
-  
-**The Information We Collect**  
-At some Time Inc. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+## Privacy Policy
 
-At some other Time Inc. sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+* * *
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
+### www.dannylipford.com
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+_Last Updated: August 2006_
 
-| back to top  
-  
-**How We Use the Information**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+Welcome to the Today’s Homeowner with Danny Lipford website, located at www.dannylipford.com (the “Website”) and operated by Remodeling Today, Inc. (“Remodeling Today”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how Remodeling Today collects and uses your personally identifiable information (“PII”) and other information in operating the Website.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+**How does the Website Work?**
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
+The Website offers anonymous browsers (“Visitors”) the ability to learn about Remodeling Today’s products, and Visitors who are at least eighteen (18) years of age and who register with the Website (“Registrants”) with the ability to and purchase our products online. Visitors and Registrants are collectively referred to herein as “you” or “your”. 
 
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us. 
+By using the Website, you consent to the collection and use of your information by Remodeling Today as described herein. Remodeling Today reserves the right to change how we handle the information we collect through the Website at any time. We will update this Privacy Policy to reflect any changes in our privacy collection and handling practices, and such changes will take effect immediately once posted to the Website.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+**What type of PII does Remodeling Today collect from you and how do we use it?**
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+Registrants must provide certain personally identifiable information (“PII”) to Remodeling Today in order to purchase our products, and participate in polls, surveys and sweepstakes from time to time. Such PII includes basic biographical information, such as your name and email address. We may also ask you for general statistical, non-PII about yourself and your interests. 
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+Unless you provide PII to Remodeling Today through the Website, we will not collect any PII from you. 
 
-Agents and contractors of Time Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc.
+Remodeling Today may provide your PII to entities who work on our behalf or with us. These entities may use your PII to help fulfill your requests in connection with the Website and to help us communicate with you about different resources offered as part of the Website. For instance, we may transfer information submitted by you, including PII, to service providers and other third parties who assist us in running the Website and to third party vendors in order to execute transactions requested by you. 
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+**Under what other circumstances may we release PII?**
 
-|    
-  
-**Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse?offline=yes&referring_url=&dnp_source=E). |    
-  
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse?online=yes&referring_url=&dnp_source=E).
+We may also release your PII if we believe such release is necessary to comply with the law (e.g., a legal process or a statutory authorization), to apply or enforce our customer agreements, to fulfill our obligations as a result of a merger, acquisition or like event with another entity or individual, to protect our rights or property, to protect Registrants and/or Visitors from fraudulent, abusive, or unlawful use of the Website, or if we reasonably believe that a danger to any person requires disclosure of such PII. 
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse?online=yes&referring_url=&dnp_source=E). 
+**What other information does Remodeling Today collect?**
 
-Finally, Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+We also collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer’s operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow the website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Tags may be associated with cookie information. We may also use such anonymous and aggregate information for promotional purposes. 
 
-| back to top  
-  
-**Collection of Information by Third-Party Sites and Sponsors**  
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+**Do I have the ability not to be identified by Remodeling Today?**
 
-Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Inc. has no control over the third-party sponsors' use of this information. The Time Inc. site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
+Yes. If you do not want to be identified by us, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. If you do not want us to have any of your PII, do not submit any of your PII to us. 
 
-Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on this site's use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
+**How do we store information?**
 
-|    
-  
-**Cookies**  
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+Remodeling Today takes steps consistent with commercially reasonable industry standards to secure any PII collected from you from loss, misuse, unauthorized access and destruction while under our control. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+**Does Remodeling Today provide links to other websites?**
 
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
+Remodeling Today may provide links to other websites or resources of possible interest to you. Because we have no control over such websites or resources, the collection and use of your PII and other information by such websites shall be subject to the policies and procedures of such websites and not this Privacy Policy. 
 
-| back to top  
-  
-**Our Commitment to Security**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. |    
-  
-**How You can Access or Correct Information**  
-For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=TH). 
+**What are our policies regarding children?**
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+You must be eighteen (18) years of age or older in order to purchase our products. Remodeling Today does not knowingly collect PII from anyone under thirteen (13) years of age. 
 
-|    
-  
-**Special Note for Parents**  
-The site you are visiting is one of the Time Inc. general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. |    
-  
-**How to Contact Us**  
-If you have any questions or concerns about the Time Inc. online policy for this site or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=TH) or at the following address:
+**Do we have a mechanism to address the removal of PII and complaints about the handling of information that we collect?**
 
-Time Customer Service  
-Attention: Consumer Affairs  
-3000 University Center Drive  
-Tampa, Florida 33612-6408 
-
-[http://www.thisoldhouse.com](http://www.thisoldhouse.com/)
-
-| back to top
+If you wish to remove PII that you have submitted to Remodeling Today, please send us an email requesting such removal to [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [webmaster@dannylipford.com](mailto:webmaster@dannylipford.com).
