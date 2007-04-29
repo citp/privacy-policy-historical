@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swiss.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230060449id_/http%3A//www.swiss.com/web/le-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiss.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429162742id_/http%3A//yourcountry.swiss.com/local/le-privacy-statement-usa) for the most accurate reproduction.*
 
-# Swiss International Air Lines -> Privacy & Legal, plane ticket, last minute flights, flight prices, cheap flight, first class airfare, business class airfare, airline ticket, flight ticket, last minute airfares, flight booking, flights switzerland
+# SWISS - Legal disclaimer - Legal notice
 
 SWISS has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practises for this website.
 
