@@ -1,47 +1,63 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429024714id_/http%3A//www.greatwesternbank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Online Privacy Policy of Great Western Bank**
+Protecting your privacy is important to Great Western Bank and Great Western Insurance. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology and internal controls to manage and maintain customer information. The following policy serves as a standard for all Great Western Bank and Great Western Insurance employees for collection, use, retention and security of nonpublic personal information.
 
-Great Western Bank recognizes the importance of the privacy of your personal information. Because of our interest in protecting our valued customers and others visiting our web site, we have developed the following principles and disclosures, continuing our commitment to provide outstanding service to Omaha and surrounding communities: 
+##   
+Information We Collect
 
-**Use and Collection of Your Personal Information**
+We may collect “nonpublic personal information” about you from the following sources:
 
-Great Western Bank collects and retains information through our online sites to assist us with communicating with you, responding to your questions, and tracking visitation to improve the efficiency of our site. We will NOT obtain information that identifies you personally unless you specifically choose to disclose such information. Great Western Bank will NOT sell personal information to a third party for the purpose of solicitation or for a third party's own independent use without prior notification and opportunity to decline. We may, however, share information if it is required by law (i.e. subpoena, investigation of fraudulent activity, etc.) or within the departments of the bank for the purpose of delivering products and services to you, including communication and customer service. 
+  * Information we receive from you on applications or other loan and account forms 
+  * Information about your transactions with us, our affiliates or others 
+  * Information we receive from third parties such as consumer reporting agencies 
+  * When you send us an e-mail, we will retain your e-mail address, the content of the e-mail, and our response to better serve you and assist us with any follow-up questions 
 
-**Employee Access and Use of Personal Information**
 
-Great Western Bank's employees are committed to and are required to follow our Privacy Policy. Our Privacy Policy provides that all employees are required to keep all customer information confidential and never disclose this information inside or outside Great Western Bank unless they are conducting appropriate bank business. Access to personally identifiable information is limited to those with a business reason for knowing such information. 
 
-**Protection of Information**
+“Nonpublic personal information” is nonpublic information about you that we obtain in connection with providing a financial product or service to you. For example, nonpublic personal information includes your account balance, payment history, overdraft history, etc. 
 
-Great Western Bank has established security standards for access that provide for protection of personal information. These security standards include the requirement of access codes, firewalls and encryption, where deemed appropriate. 
+##   
+Information We Disclose
 
-**Privacy and E-Mail**
+We do not disclose any information you might consider to be private to nonaffiliated third parties, except as permitted by law, such as reports to credit bureaus or responses to subpoenas.
 
-When you send us an e-mail, Great Western Bank will retain your e-mail address, the content of the e-mail, and our response to better serve you and assist us with any follow-up questions that you may have. Our e-mails are not secure; if the information that you are sending to us is of a confidential nature, please consider using the telephone, fax or mail. 
+We are permitted under law to share information about our experiences or transaction experience with you or your account to our affiliates. We also may share the following nonpublic personal information with our affiliated companies:
 
-**Maintenance and Accuracy of Personal Information**
+  * Information we receive from you on applications or other forms, such as your name, address, assets and income 
+  * Information we receive from a consumer reporting agency, such as credit worthiness and credit history 
 
-If you have any concerns about the accuracy of your personal information, you may contact us by e-mail, mail or by telephone at the phone number or address listed below. Any discrepancies will be corrected in a timely manner. Thank you for your interest in privacy and Great Western Bank! 
 
-Great Western Bank  
-P. O. Box 4070  
-Omaha, NE 68104-0070  
-(402) 551-4310 or (800) 952-2015  
-E-Mail: [pcbank@radiks.net](mailto:pcbank@radiks.net)
 
-**In Omaha phone: 1-402-551-4310, outside Omaha phone: 1-800-952-2039  
-Email: [pcbank@greatwesternbank.com](mailto:pcbank@greatwesternbank.com)**
+_An affiliate is a company we own or control, or a company that owns or controls us. Our affiliate companies comprise the bank’s family of companies._
+
+##   
+Benefits of Sharing Information
+
+The benefit of sharing information is to inform you of products or services available within our family of companies that may be beneficial to you in achieving financial goals.
+
+If you prefer that we not share your information with our affiliated companies, you may direct us not to share information except as permitted by law. To “opt out” of information sharing with our affiliates, call us at 1-888-620-2265 to request an opt out form.
+
+Note: Exercising your right to opt out may result in you not being informed about special products and savings available within our family of companies. 
+
+If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice.   
+
+
+## Safeguarding Customer Information
+
+We also take steps to safeguard customer information. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
+
+##   
+E-mail
+
+All electronic transmissions on the World Wide Web cannot be guaranteed secure. If the information that you are sending via e-mail is of a confidential nature, please consider using the telephone, fax or mail.
+
+  * ### Great Western Bank
+
+  * [History](https://web.archive.org/about/history/)
+  * [Employment](https://web.archive.org/about/employment/)
+  * [Privacy Policy](https://web.archive.org/privacy/)
 
   
-[Deposits](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/deposits.html)| [Internet Banking](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/ibank.html) | [ Credit Cards ](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/credit.html) | [Investments](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/investments.html)| [Loans](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/lending.html)| [ Current Rates](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/Rates.html)  
-[Trust Services](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/trusts.html) | [XpressPhone Banking ](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/phone.html)| [Employment](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/Jobs.html) | [Email](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/mailus.html)   
-[Financial Calculators](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/fincalc.html) |[ Privacy Policy ](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/privacy.html) | [Online Accounts](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/app.html)| [ MyCardStatement.com](http://www.mycardstatement.com/)  
-[ Newsletters](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/newsletters.html)| [About Us](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/aboutgwb.html) | [ Great Western Bank Home ](https://web.archive.org/web/20021203013533id_/http%3A//www.greatwesternbank.com/Welcome.html)
 
-* * *
-
-© 1996-2002 Great Western Bank  
-Site Design: [ACTONet](http://www.acton.com/ACTONet)
