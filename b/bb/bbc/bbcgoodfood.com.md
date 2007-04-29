@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214231849id_/http%3A//www.bbcgoodfood.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429095422id_/http%3A//www.bbcgoodfood.com/content/privacy) for the most accurate reproduction.*
 
 # BBC Good Food | Privacy policy
 
