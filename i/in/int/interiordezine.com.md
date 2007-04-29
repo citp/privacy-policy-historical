@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiordezine.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208014412id_/http%3A//www.interiordezine.com/index.cfm/Site_Information/Our_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordezine.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130337id_/http%3A//www.interiordezine.com/index.cfm/Site_Information/Our_Privacy_Policy) for the most accurate reproduction.*
 
 # Interiordezine.com Privacy Policy for interior design.
 
@@ -30,10 +30,10 @@ If you have any queries or concerns please e-mail [privacy@interiordezine.com](m
 
 | 
 
-[Site Information Contents](http://www.interiordezine.com/index.cfm/Site_Information) [Company Profile](http://www.interiordezine.com/index.cfm/Site_Information/Company_Profile) [Our Privacy Policy](http://www.interiordezine.com/index.cfm/Site_Information/Our_Privacy_Policy) [Our Website Terms of Use](http://www.interiordezine.com/index.cfm/Site_Information/Our_Website_Terms_of_Use) [Enquiry](http://www.interiordezine.com/index.cfm/Site_Information/Enquiry) [Website Alphabetical Contents A-C](http://www.interiordezine.com/index.cfm/Site_Information/Contents) [Website Alphabetical Contents D-F](http://www.interiordezine.com/index.cfm/Site_Information/Contents_1) [Website Alphabetical Contents G-K](http://www.interiordezine.com/index.cfm/Site_Information/Contents_2) [Website Alphabetical Contents L-Q](http://www.interiordezine.com/index.cfm/Site_Information/Contents_3) [Website Alphabetical Contents R-Z](http://www.interiordezine.com/index.cfm/Site_Information/Contents_4) [Free Interior Decorating Course](http://www.interiordezine.com/index.cfm/Products/interior_decorating_ecourse)
+[Site Information Contents](http://www.interiordezine.com/index.cfm/Site_Information) [Company Profile](http://www.interiordezine.com/index.cfm/Site_Information/Company_Profile) [Our Privacy Policy](http://www.interiordezine.com/index.cfm/Site_Information/Our_Privacy_Policy) [Our Website Terms of Use](http://www.interiordezine.com/index.cfm/Site_Information/Our_Website_Terms_of_Use) [Enquiry](http://www.interiordezine.com/index.cfm/Site_Information/Enquiry) [Website Alphabetical Contents A-C](http://www.interiordezine.com/index.cfm/Site_Information/Contents) [Website Alphabetical Contents D-F](http://www.interiordezine.com/index.cfm/Site_Information/Contents_1) [Website Alphabetical Contents G-K](http://www.interiordezine.com/index.cfm/Site_Information/Contents_2) [Website Alphabetical Contents L-Q](http://www.interiordezine.com/index.cfm/Site_Information/Contents_3) [Website Alphabetical Contents R-Z](http://www.interiordezine.com/index.cfm/Site_Information/Contents_4) [Interior Design and Decorating Links](http://links.interiordezine.com/index.html) [Free Interior Decorating Course](http://www.interiordezine.com/index.cfm/Products/interior_decorating_ecourse)
 
   
 Other Sites
 
-[color](http://www.color.interiordezine.com/) [curtains](http://www.curtains.interiordezine.com/) [modern furniture designers](http://www.modernfurnituredesigners.interiordezine.com/)  
+[color](http://www.color.interiordezine.com/) [curtains](http://www.curtains.interiordezine.com/) [modern furniture designers](http://www.modernfurnituredesigners.interiordezine.com/) [interior dezine pix](http://www.interior-dezine-pix.com/) [interior dezine links](http://links.interiordezine.com/) [design directory](http://design-directory.interiordezine.com/)  
 ---|---|---
