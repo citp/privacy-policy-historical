@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211191657id_/http%3A//www.tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429084522id_/http%3A//tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
 
 # Texas A&M Health Science Center Privacy Statement
 
