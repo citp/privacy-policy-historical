@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127120056id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430004602id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
