@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613093010id_/http%3A//www.mallofamerica.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429191155id_/http%3A//www.mallofamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Mall of America
+# Privacy Policy
 
 The Mall of America understands that privacy is very important to you. The following policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. We continue to develop our web site and take advantage of technologies to improve the services we provide. As a result, our policies will continue to evolve. By using the Mall of America web site, you consent to our use of guest information as described in this Online Privacy Policy. As we implement new technology and introduce new services, we will update our Online Privacy Policy. We encourage you to refer to this policy on an ongoing basis for our most current privacy policy practices. 
 
