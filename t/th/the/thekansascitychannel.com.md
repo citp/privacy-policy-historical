@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekansascitychannel.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208075114id_/http%3A//www.thekansascitychannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekansascitychannel.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429171529id_/http%3A//www.thekansascitychannel.com/privacy) for the most accurate reproduction.*
 
 # TheKansasCityChannel.com - Privacy
 
