@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231932id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130028id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,15 +32,30 @@ Ensuring secure online ordering is an important part of our pledge to honor your
 
 |  | 
 
-#### Testimonials to the Success of _Brilliant Compensation_
+#### **Will these online movies work for you?** Read what users have to say.
 
-Thank you very much Tim!!  
-I began using the Brilliant Compensation® online program almost a year ago and my results have truly been unbelievable. I was just named a top sponsor in my company last week, so I know it's working.  
-The beauty of using this system is that **I no longer have to overcome the objection of Network Marketing. This NEVER even comes up!** Using the power of the Internet and the tools available, such as Brilliant Compensation®, my sponsoring efforts have gone through the roof!  
-I'm sold on the power of this system and intend to keep this program in my arsenal!  
-\- Jackie U.
+**We have nearly tripled the amount of people who have joined via the Internet.** This Brilliant Compensation® Presentation has helped us to explain the advantages of Network Marketing so much better. - Bert Jensen.
 
-Before using these movies, my group had one out of every 40 visitors to our website request further information about our business. **Now, since we have added the movies, we have one out of every 12 visitors request more information. That's a 333% increase!"**  
-\- V.Z.
+**I no longer have to overcome the objection of Network Marketing. This NEVER even comes up!** My results have truly been unbelievable. I was just named a top sponsor in my company last week, so I know it's working. - Jackie U.
 
-More Testimonials
+**Since we have added the movies, we have one out of every 12 visitors request more information.** Before using these movies, my group had one out of every 40 visitors to our website request further information about our business. **That's a 333% increase!"** \- Vickie Z.
+
+**The number of people who are eager to get started increased substantially.** All I have to do with a prospect is show them how those concepts apply to our specific opportunity and my prospects can see why and how it is possible to build residual income from home. - Valentina O.
+
+**This is one of the most powerful video presentations that I've ever seen.** I've had people who already own their own business watch the video and say "Now I understand why I can't get ahead. It's about leverage." - Tom J.
+
+**I was just glued to my computer screen. The information was just so good.** It just started making me think differently than I had 10 min before watching it. - Joe S.
+
+**It is a wonderful presentation and it does change the minds of the skeptical people.** \- Shirley Alquist
+
+**I just got the online presentation and have already sponsored two people this week with it.** \- Byron Spinney
+
+**The Brilliant Compensation video is creating a surge of activity.** I have had it on my website for about two weeks now. Thank you so much, this tool has been incredibly worth it. – Ricci N.
+
+I have been using “Brilliant Compensation” in my training classes for over 2 years now. **It is one of the most effective tools I have ever seen in my 15 years in business.** \--Joe H.
+
+**The “Brilliant Compensation” Flash presentation is without question in my mind the BEST prospecting/training tool around.** \- Anson MacLauchlan
+
+I used to struggle having someone to talk to – someone in the pipeline. But now that I have access to these movies **the entire character of my business has changed.** \- David
+
+For those with ears to hear and eyes to see I ask them to watch the Brilliant Compensation Video. **One of our downline distributors increased his monthly sales volume** 600% **by utilizing your movie.** – Les Martin
