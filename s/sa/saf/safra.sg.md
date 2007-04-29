@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209085342id_/http%3A//www.safra.sg/privacy.aspx%3Fpageid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430011205id_/http%3A//www.safra.sg/privacy.aspx%3Fpageid%3D100) for the most accurate reproduction.*
 
 # SAFRA - Bringing NSMen Closer Together
 
-|  | Privacy Policy  
+Privacy Policy  
 
 
 The information we learn from customers helps us personalize and continually improve your experience at SAFRA. Here are the types of information we gather. 
@@ -55,3 +55,5 @@ You provide most such information when you search, signup for an account, book f
 **Automatic Information**
 
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; booking history, which we sometimes aggregate with similar information from others through, and from our Web site, including date and time; cookie number; information you viewed or searched for. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+For members who do not wish to receive updates on promotions, benefits or privileges via any channels, please submit the [Opt Out Form](https://web.archive.org/UserFiles/File/Opt%20Out%20form.pdf) at any SAFRA clubs.
