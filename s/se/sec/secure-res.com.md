@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure-res.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220031624id_/http%3A//www.secure-res.com/hotel-services/customer-service/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure-res.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429163135id_/http%3A//www.secure-res.com/hotel-services/customer-service/privacy-policy.htm) for the most accurate reproduction.*
 
 # Secure Hotel Website Reservations Privacy Policy from SECURE-RES
 
