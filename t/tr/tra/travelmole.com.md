@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118180234id_/http%3A//www.travelmole.com/privacy.php%3Fref%3Dnolog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429131955id_/http%3A//www.travelmole.com/privacy.php%3Fref%3Dnolog) for the most accurate reproduction.*
 
 # TravelMole - The Online Community for the Travel and Tourism Industry
 
