@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192459id_/http%3A//www.westword.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429055843id_/http%3A//www.westword.com/about/policy.php) for the most accurate reproduction.*
 
-# 
+# Denver - - westword.com
 
 Parent of _Westword_ and westword.com 
 
