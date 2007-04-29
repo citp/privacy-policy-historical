@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcolympics.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115002028id_/http%3A//www.nbcolympics.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcolympics.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429105201id_/http%3A//www.nbcolympics.com/privacypolicy) for the most accurate reproduction.*
 
 # NBCOlympics.com - Privacy Policy -
 
