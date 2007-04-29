@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websouls.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128000817id_/http%3A//www.websouls.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websouls.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429193644id_/http%3A//www.websouls.com/privacypolicy.php) for the most accurate reproduction.*
 
 # A Reliable Hosting Provider for quality and 24 hours support conscious people - Websouls offers low cost Web Hosting Solutions (Windows, Linux, Managed,Virtual/Dedicated Servers, Re-seller ship), Cheap Domain Registrations.
 
