@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215201235id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430003301id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
 
 # Communication training
 
@@ -18,7 +18,7 @@ Our Web server recognises no personal information. We collect the domain name, b
 
 ### Cookies
 
-Our site does not set any cookies. We use PayPal for the paid versions of our Factory Gate articles, and PayPal may use cookies to identify your purchases. This is outside our control. We also display ads from Amazon and Google who may also use cookies to track visitors. This is also beyond our control. 
+Most areas of our site do not set any cookies. We do use temporary cookies if you book an open course online. This is to store your course choices, providing 'shopping cart' functionality while making your booking. We use PayPal for the paid versions of our Factory Gate articles, and PayPal may use cookies to identify your purchases. This is outside our control. We also display ads from Amazon and Google who may also use cookies to track visitors. This is also beyond our control. 
 
 ### Contact
 
