@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcyclistonline.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205700id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclistonline.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429175205id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Primedia Consumer Privacy Policy
 
