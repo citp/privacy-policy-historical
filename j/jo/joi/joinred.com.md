@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the joinred.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429184636id_/http%3A//www.joinred.com/privacy.asp) for the most accurate reproduction.*
+
+# (RED)
+
+[](https://web.archive.org/web/20070429184636id_/http%3A//www.joinred.com/red.asp)
+
+**The information you submit when you register on the (PRODUCT) RED website or when you send us e-mail not directed to an associated third party -**
+
+The Persuaders, LLC ("us" or "The Persuaders") has legal obligations towards you in the way we deal with (PRODUCT) RED website user data that is being collected from the (PRODUCT) RED website. That data is being managed securely by The Persuaders and we must collect the information fairly and let you know how we will use it. 
+
+This policy applies to any personally identifiable information of yours that we acquire through this website. When we say personally identifiable information, we mean any data that identifies you as a particular individual, such as your name, postal address, e-mail address, and telephone number. Also, our privacy policy applies not only to information you personally provide to us, but also to information we collect through technology, such as your IP addresses, cookies, and stored passwords, if any. Once you click on an advertisement, however, and you are no longer on our website, you must read the privacy policy of the advertiser to see how your personal information will be handled on that site. 
+
+Your data will be held on The Persuaders' data systems after you have registered on the (PRODUCT) RED website and will be removed in the event that the purpose for registration has been met or you inform us that you no longer wish to continue your registration as a recipient of (PRODUCT) RED related information. The Persuaders will ensure that all personal information supplied in the registration process is held securely and is accessible to you in accordance with the Safe Harbor Principles issued by the United States Department of Commerce. The Persuaders will ensure you are only supplied with communications associated with (PRODUCT) RED and that your registration data is not passed to any associated third party (except as regards e-mail directed to an associated third party, as described below), unless you request otherwise. By signing up to keep in touch with us, or completing an action on our behalf, you are not joining any associated third party's mailing lists. 
+
+We collect only limited personal information from children ages 13 and under (like their e-mail addresses) to register on the (PRODUCT) RED website. That information will be removed in the event that the purpose for registration has been met or the child, or child’s parent, informs us that the child no longer wishes to continue registration as a recipient of (PRODUCT) RED related information. We may also ask a child to provide an e-mail address of a parent so we can notify the parent or seek consent. We will not collect more detailed information from a child age 13 and younger, such as a postal address or a telephone number, without the consent of a parent or guardian. The Persuaders will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. We urge parents to regularly monitor and supervise their children's on-line activities. 
+
+The security and confidentiality of your information is extremely important to us. We use technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. We may update our security measures from time to time to ensure we are using new technology and safety methods, but please keep in mind that despite our best efforts, no security measures are perfect or impenetrable. Also, we must reserve the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
+
+The Persuaders, LLC is a State of Delaware, United States, Limited Liability Company, whose address is 12400 Wilshire Blvd., Suite 1275, Los Angeles, California 90025, United States. 
+
+If you have any questions regarding our privacy policy, please contact [info@joinred.com](mailto:info@joinred.com)
+
+**The information you submit when you send us e-mail directed to an associated third party -**
+
+If you wish to send us e-mail directed to a (PRODUCT) RED associated third party, please note that your e-mail will be passed directly to the applicable associated third party. The applicable associated third party will identify themselves when they respond to your e-mail and will be responsible for keeping the data you provide secure and for complying with all applicable data protection laws. The Persuaders is not and shall not be responsible for your data after you send e-mail directed to a (PRODUCT) RED associated third party. Each (PRODUCT) RED associated third party receiving e-mail from this website has committed not to put your personal information onto their organization's mailing lists without your permission. 
+
+Once you click on an advertisement, however, and you are no longer on our website or the website of an associated third party, you must read the privacy policy of the advertiser to see how your personal information will be handled on that site. 
+
+©2006 The Persuaders, LLC. All rights reserved. 
