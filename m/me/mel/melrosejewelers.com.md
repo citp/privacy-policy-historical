@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the melrosejewelers.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218200239id_/http%3A//www.melrosejewelers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melrosejewelers.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429122242id_/http%3A//www.melrosejewelers.com/privacy.htm) for the most accurate reproduction.*
 
-# Melrose Jewelers: Wholesale-priced Rolex Watches
+# Melrose Jewelers: Authentic Preowned Rolex Wristwatches at Discount Prices
 
 Privacy Notice  
 ---  
