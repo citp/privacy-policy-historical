@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fwditon.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221112932id_/http%3A//www.fwditon.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwditon.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429030508id_/http%3A//fwditon.com/docs/privacy.php) for the most accurate reproduction.*
 
 # FWDitOn.com - Privacy Policy
+
+See the latest [news post](http://fwditon.com/news/view_news.php?id=16) for info on our latest improvement for videos. Banner Advertising is now available, please [contact us](http://fwditon.com/contact/)
 
 This privacy policy sets out how “FWDitOn.com” uses and protects any information that you give “FWDitOn.com” when you use this website.  
 “FWDitOn.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
