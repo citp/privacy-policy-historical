@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiscali.co.uk privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129001907id_/http%3A//www.tiscali.co.uk/aboutus/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiscali.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429234909id_/http%3A//www.tiscali.co.uk/aboutus/policy.html) for the most accurate reproduction.*
 
 # Tiscali - Privacy Policy
 
