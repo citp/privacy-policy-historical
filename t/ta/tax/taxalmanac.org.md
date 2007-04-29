@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the taxalmanac.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214174501id_/http%3A//www.taxalmanac.org/index.php/TaxAlmanac%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxalmanac.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429053138id_/http%3A//www.taxalmanac.org/index.php/TaxAlmanac%3APrivacy_policy) for the most accurate reproduction.*
 
 # TaxAlmanac - TaxAlmanac:Privacy
+
+_From TaxAlmanac, A Free Online Resource_
+
+### From TaxAlmanac
 
 At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. Throughout this policy, we refer to information that personally identifies you as “personal information.” 
 
@@ -29,7 +33,7 @@ Like many Web sites, we use technology, such as cookies, that allow us to make y
 
 ### We give you choice and control
 
-Contact information you provide to us when registering for TaxAlmanac.com will be used to register you for the service and may be used to contact you regarding your postings or to inquire about your TaxAlmanac experience. Contact information you provide outside of registration may be used to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. You may also specify your contact preferences by visiting our [Privacy Web site](https://privacy.intuit.com/cpi/do/home?p_sourceid=306 "https://privacy.intuit.com/cpi/do/home?p sourceid=306"). Your contact preferences only apply to marketing contact. We may need to communicate with you regarding the usability of your product or critical messages relating to your service or software (such as service messages, subscription renewal notices, critical notices, or legally mandated notices). 
+Contact information you provide to us when registering for TaxAlmanac.com will be used to register you for the service and may be used to contact you regarding your postings or to inquire about your TaxAlmanac experience. Contact information you provide outside of registration may be used to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. You may also specify your contact preferences by visiting our [Privacy Web site](https://privacy.intuit.com/cpi/do/home?p_sourceid=306 "https://privacy.intuit.com/cpi/do/home?p_sourceid=306"). Your contact preferences only apply to marketing contact. We may need to communicate with you regarding the usability of your product or critical messages relating to your service or software (such as service messages, subscription renewal notices, critical notices, or legally mandated notices). 
 
 You can update or correct your contact information relating to your Tax Almanac account by using our [User Preference](https://web.archive.org/index.php/Special:Preferences "Special:Preferences") page. 
 
