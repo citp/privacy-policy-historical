@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019151711id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429084421id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
 
 # Canada Success Coach, Life Coach, Leadership Training, Self Motivation, Life Coach, Robin Sharma
 
