@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refreshcartridges.co.uk privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124000652id_/http%3A//www.refreshcartridges.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refreshcartridges.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429094311id_/http%3A//www.refreshcartridges.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Refresh Cartridges - Privicy Policy - Refresh Cartridges
 
