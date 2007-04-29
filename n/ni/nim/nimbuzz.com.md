@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the nimbuzz.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901181622id_/http%3A//www.nimbuzz.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzz.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429021009id_/http%3A//www.nimbuzz.com/legal/privacy) for the most accurate reproduction.*
 
-# Legal privacy
-
-**Nimbuzz  
-Privacy Statement**
+# Nimbuzz - Privacy Statement
 
 Your privacy is important to Nimbuzz. Therefore, Nimbuzz is committed to respecting Your privacy and the confidentiality of Your personal data, traffic data and communications content. This Privacy Statement is designed to assist You in understanding how Nimbuzz uses and safeguards the information You provide in using Nimbuzz’s Software and/or Nimbuzz’s Services.
 
