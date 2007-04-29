@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213072201id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429131315id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
 
 # Cedora, Inc. Privacy Policy
 
@@ -103,7 +103,7 @@ Protection of personal or professional information, e-mail addresses and passwor
 
 ### **Additional Information**
 
-Questions regarding our Privacy Policy should be directed to [/mv/feedback.mv](https://web.archive.org/mv/feedback.mv).
+Questions regarding our Privacy Policy should be directed to [/mv/feedback.mv](http://www.realadventures.com/mv/feedback.mv).
 
 **Also check out the following sites:**
 
