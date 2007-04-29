@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006232044id_/http%3A//search.boatshop24.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429194343id_/http%3A//search.boatshop24.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# BoatShop24 - Boats For Sale, Used Boats and Outboards & New Boats for Sale throughout the UK and Europe - Free Boat Adverts
+# 
 
 All personal information collected and used from the Marine Trader Media site will be processed in accordance with the 1998 Data Protection Act
 
