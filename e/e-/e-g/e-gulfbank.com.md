@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-gulfbank.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124013013id_/http%3A//e-gulfbank.com/a_details.asp%3FarticleID%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-gulfbank.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429031709id_/http%3A//www.e-gulfbank.com/a_details.asp%3FarticleID%3D27) for the most accurate reproduction.*
 
 # Gulf Bank, Kuwait
 
