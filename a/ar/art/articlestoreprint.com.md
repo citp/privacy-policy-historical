@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlestoreprint.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102192846id_/http%3A//www.articlestoreprint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlestoreprint.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429234207id_/http%3A//www.articlestoreprint.com/privacy.php) for the most accurate reproduction.*
 
 # ArticlesToReprint, free content for your website
 
