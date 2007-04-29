@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101193235id_/http%3A//www.careers.govt.nz/default.aspx%3Fid0%3D29900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429214257id_/http%3A//www.careers.govt.nz/default.aspx%3Fid0%3D29900) for the most accurate reproduction.*
 
 # Career Services :: General :: Privacy Statement
 
