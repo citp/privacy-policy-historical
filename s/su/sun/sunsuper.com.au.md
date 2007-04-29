@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831080841id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429145722id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
 
 # Sunsuper - Privacy policy
 
@@ -51,7 +51,7 @@ Some examples of parties outside Sunsuper, to whom we may disclose your personal
 
   * Sunsuper's administration service provider, for the purposes of administering the superannuation fund
   * Mail service providers for the mailing of member statements and other information
-  * Insurers, insurance assessors or medical practitioners for the purpose of the assessment of claims for insurance benefits or request for insurance cover
+  * Insurers, insurance assessors or medical practitioners for the purpose of the assessment of claims for insurance benefits or requests for insurance cover
   * Sometimes, if there is a dispute about a benefit we may disclose personal information about you to other experts such as legal advisers.
   * Occasionally, we are required or authorised by law to disclose your personal information. For example, we may disclose your personal information to the Australian Taxation Office following a direction issued under taxation laws or to a Court in response to a subpoena.
   * We may disclose your personal information to third parties where you give us written permission to do so (for example, to a financial planner with whom you are dealing).
