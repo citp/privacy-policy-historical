@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kl-hotels.com privacy policy that was archived on 2006-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061119001704id_/http%3A//www.kl-hotels.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kl-hotels.com privacy policy that was archived on 2007-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429204439id_/http%3A//www.kl-hotels.com/privacy.html) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/index-main.dwt" --><!-- DW6 --><!--Kuala Lumpur Hotels Guide and Travel Information--><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -123,6 +123,10 @@
             <td class="cell-hotelnavi"><a href="/accommodation/accommodation2.htm" class="navi-link1" target="_top"> In Golden Triangle</a></td>
           </tr>
           <tr>
+            <td class="cell-hotelnavi"><a href="/accommodation/accommodation4.htm" class="navi-link1" target="_top">In 
+              Bukit Bintang </a></td>
+          </tr>
+          <tr>
             <td class="cell-hotelnavi"><a href="/accommodation/accommodation3.htm" class="navi-link1" target="_top">In 
               Kuala Lumpur</a></td>
           </tr>
@@ -158,113 +162,349 @@
               By Price</a></td>
           </tr>
         </tbody></table>
+		<style type="text/css">
+<!--
+.sm10aShort {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000}
+.calendar10Short {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000}
+-->
+</style>
+<script language="JavaScript" src="/checkavailability/shortVersion/scripts/CheckAvailajaxShort.js"></script>
+		<form action="https://www.awd.ws/" method="POST" name="checkAvailShort" target="_blank" style="display:inline;">
+			<input type="hidden" name="checkHotel[All]" value="1">
+			<input type="hidden" name="pDestinationID" value="255">
+			<input type="hidden" name="DestinationID" value="0">
+			<input type="hidden" name="checkHotel[LanguageCode]" value="en">
+			<input type="hidden" name="checkHotel[Portal]" value="kl-hotels.com">
+			<input type="hidden" name="checkHotel[Rsvnv]" value="2.0">
+			  <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFCC00">
+				<tbody><tr> 
+				  
+      <td align="center"> <b><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif" size="2">Instant Hotel Availability</font></b> 
+        <table border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF" width="100%">
+          <tbody><tr> 
+            <td class="sm10aShort"><font size="1">Area</font></td>
+            <td colspan="2" class="sm10aShort" align="left" nowrap="">
+              <select style="FONT-SIZE: 11px;" name="checkHotel[DestinationID]" size="1" class="sm" onchange="changeDestinationShort();" disabled="">
+                <option value="75">All Destinations</option>
+              </select>            </td>
+          </tr>
+          <tr id="StarRowHotelShort">
+            <td class="sm10aShort"><font size="1">Stars</font></td>
+            <td colspan="2" class="sm10aShort" align="left" nowrap=""><select style="FONT-SIZE: 11px;" name="checkHotel[Category]" size="1" class="sm" disabled="">
+				<option value="1|2">2-3 Star</option>
+				<option value="2|3">3-4 Star</option>
+				<option value="3|4" selected="selected">4-5 Star</option>
+              </select></td>
+          </tr>
+          <tr> 
+            <td class="sm10aShort"><font size="1">From</font></td>
+            <td class="sm10aShort" align="left" nowrap=""><font size="1"> 
+              <input type="hidden" id="txtCheck_InShort" name="txtCheck_InShort" value="30/01/2020">
+              <input type="hidden" id="txtCheck_OutShort" name="txtCheck_OutShort" value="02/02/2020">
+              <select style="FONT-SIZE: 11px;" name="checkHotel[sDay]" onchange="updateCheckAvailAllShort('sDate');" size="1" class="sm">
+                <option value="01">01</option>
+                <option value="02">02</option>
+                <option value="03">03</option>
+                <option value="04">04</option>
+                <option value="05">05</option>
+                <option value="06">06</option>
+                <option value="07">07</option>
+                <option value="08">08</option>
+                <option value="09">09</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+                <option value="19">19</option>
+                <option value="20">20</option>
+                <option value="21">21</option>
+                <option value="22">22</option>
+                <option value="23">23</option>
+                <option value="24">24</option>
+                <option value="25">25</option>
+                <option value="26">26</option>
+                <option value="27">27</option>
+                <option value="28">28</option>
+                <option value="29">29</option>
+                <option value="30">30</option>
+                <option value="31">31</option>
+              </select>
+              </font></td>
+            <td class="sm10aShort" align="left" nowrap=""><font size="1"> 
+              <input type="hidden" name="checkHotel[sMonth]" id="checkHotel[sMonth]" value="01">
+              <input type="hidden" name="checkHotel[sYear]" id="checkHotel[sYear]" value="2020">
+              <input type="hidden" name="checkHotel[eDay]" id="checkHotel[eDay]" value="02">
+              <input type="hidden" name="checkHotel[eMonth]" id="checkHotel[eMonth]" value="02">
+              <input type="hidden" name="checkHotel[eYear]" id="checkHotel[eYear]" value="2020">
+              <select style="FONT-SIZE: 11px;" name="checkHotel[sMonth2]" onchange="updateCheckAvailAllShort('sDate',1);" size="1" class="sm">
+              <option value="01/2020">Jan 20</option><option value="02/2020">Feb 20</option><option value="03/2020">Mar 20</option><option value="04/2020">Apr 20</option><option value="05/2020">May 20</option><option value="06/2020">Jun 20</option><option value="07/2020">Jul 20</option><option value="08/2020">Aug 20</option><option value="09/2020">Sep 20</option><option value="10/2020">Oct 20</option><option value="11/2020">Nov 20</option><option value="12/2020">Dec 20</option><option value="01/2021">Jan 21</option><option value="02/2021">Feb 21</option><option value="03/2021">Mar 21</option><option value="04/2021">Apr 21</option><option value="05/2021">May 21</option><option value="06/2021">Jun 21</option></select>
+              </font><font size="1"><img style="cursor:pointer;" src="/checkavailability/shortVersion/images/calendar/calendar.gif" size="10" onclick="javascript:prefixYear(2);opencalendar('dd/mm/yyyy',getElcheckavailabilityShort('txtCheck_InShort'),this,'showChangeDateShort(\'in\');', event.x, event.y);return false;"> 
+              </font></td>
+          </tr>
+        </tbody></table>
+        <table border="0" cellpadding="1" cellspacing="0" align="center" bgcolor="#FFFFFF" width="100%">
+          <tbody><tr> 
+          </tr>
+          <tr> 
+            <td align="left" class="sm10aShort" nowrap=""><font size="1"> Nights 
+              </font></td>
+            <td align="left" class="sm10aShort" nowrap=""><font size="1"> 
+              <select style="FONT-SIZE: 11px;" name="checkHotel[Nights]" class="sm" onchange="updateCheckAvailAllShort('Nights');">
+                <option value="01">01</option>
+                <option value="02">02</option>
+                <option value="03" selected="selected">03</option>
+                <option value="04">04</option>
+                <option value="05">05</option>
+                <option value="06">06</option>
+                <option value="07">07</option>
+                <option value="08">08</option>
+                <option value="09">09</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+                <option value="19">19</option>
+                <option value="20">20</option>
+                <option value="21">21</option>
+                <option value="22">22</option>
+                <option value="23">23</option>
+                <option value="24">24</option>
+                <option value="25">25</option>
+                <option value="26">26</option>
+                <option value="27">27</option>
+                <option value="28">28</option>
+                <option value="29">29</option>
+                <option value="30">30</option>
+                <option value="31">31</option>
+              </select>
+              </font></td>
+            <td align="left" class="sm10aShort" nowrap=""><font size="1"> 
+              <select style="FONT-SIZE: 11px;" name="checkHotel[TotalRooms]" class="sm">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+              Rooms</font></td>
+          </tr>
+          <tr> 
+            <td align="left" class="sm10aShort" valign="top"><font size="1"> Adults/<br>Room&nbsp; 
+              <br>
+              </font><font size="1"> </font></td>
+            <td align="left" class="sm10aShort"><font size="1"> 
+              <select style="FONT-SIZE: 11px;" name="checkHotel[TotalAdults]" class="sm">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+              </select>
+              </font></td>
+            <td align="left" class="sm10aShort"><font size="1"> 
+              <select style="FONT-SIZE: 11px;" name="checkHotel[TotalChildren]" class="sm">
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+              </select>
+              Children</font></td>
+          </tr>
+        </tbody></table>
+                  </td>
+                </tr>
+                <tr> 
+                  <td align="right"><input type="image" name="Submit" src="/checkavailability/shortVersion/images/next.gif" width="75" height="17" vspace="0" hspace="2" style="display:none;"></td>
+                </tr>
+			  </tbody></table>
+			</form>
+<script language="JavaScript">
+<!--
+if(String(typeof(crossobj))=="undefined") {
+	var currlang = 'en';
+	var prefixpath = '/checkavailability/shortVersion/';
+	if(String(typeof(hasLongType))=="undefined") var hasShortType = "true";
+	else var hasShortType = "false";
+}
+//-->
+</script>
+<script language="javascript" src="/checkavailability/shortVersion/scripts/gblcalendarShort.js"></script><div onclick="bShow=true" id="calendar" style="z-index:+999;position:absolute;visibility:hidden;">	<table cellspacing="0" cellpadding="0" style="font-family:arial;font-size:11px;">		<tbody><tr><td>			<table width="100%" cellspacing="0" cellpadding="0" border="0">				<tbody><tr><td><img src="/checkavailability/shortVersion/images/calendar/cornertopleft.gif"></td>					<td bgcolor="#ffbf00" style="padding-top:3px;font-family:arial; font-size:11px;" width="158"><font color="#ffffff"><b><span id="caption"></span></b></font></td>					<td align="right" bgcolor="#ffbf00">						<table id="closeButton" cellpadding="0" cellspacing="1" border="0" bgcolor="#f9d35f">							<tbody><tr><td><a href="javascript:hideCalendar()" onmouseover="document.getElementById(&quot;closeButton&quot;).className=&quot;whiteBorder&quot;" onmouseout="document.getElementById(&quot;closeButton&quot;).className=&quot;&quot;"><img src="/checkavailability/shortVersion/images/calendar/close.gif" border="0" alt="Close"></a></td></tr>						</tbody></table></td>					<td><img src="/checkavailability/shortVersion/images/calendar/cornertopright.gif"></td></tr>			</tbody></table>		</td></tr>		<tr><td style="padding:0px" bgcolor="#ffffff">			<table width="100%" cellspacing="0" cellpadding="0" border="0">				<tbody><tr><td width="1" bgcolor="#FFBF00"></td><td><span id="content"></span></td><td width="1" bgcolor="#FFBF00"></td></tr>			</tbody></table>		</td></tr><tr><td align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td rowspan="2" width="1"><img src="/checkavailability/shortVersion/images/calendar/cornerbotleft.gif"></td><td align="center" height="5" bgcolor="#FFFFFF"><span id="lblToday" style="font-family:Verdana;font-size:9px;"></span></td><td rowspan="2"><img src="/checkavailability/shortVersion/images/calendar/cornerbotright.gif"></td></tr><tr><td bgcolor="#FFBF00" width="100%" height="1"></td></tr></tbody></table></td></tr></tbody></table></div><div id="selectMonth" style="z-index:+999;position:absolute;visibility:hidden;"></div><div id="selectYear" style="z-index:+999;position:absolute;visibility:hidden;"></div>
+<script language="javascript" src="/checkavailability/shortVersion/scripts/httpsShort.js"></script>
+<script language="JavaScript">
+<!--
+		showshortDestination("");
+		createlistYearShort();
+		setDefDateShort();
+-->
+</script>
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td class="cell-on"><a href="http://www.kuala-lumpur.ws/tours/index.htm" class="navi-link-on" target="_top">TOURS</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/tours/kltours.htm" class="navi-link" target="_top">Kuala 
-              Lumpur Tours </a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/tours/beyond.htm" class="navi-link" target="_top">Tours 
-              Beyond KL</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="https://www.awd.ws/kltours/book.php?id=17" class="navi-link" target="_top">Book 
-              A Tour</a></td>
-          </tr>
-          <tr>
-            <td class="cell-on"><a href="http://www.kuala-lumpur.ws/activities/index.htm" class="navi-link-on" target="_top">ACTIVITIES</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/entertainments/index.html" class="navi-link" target="_top">Entertainment</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/food-dining/index.html" class="navi-link" target="_top">Dining</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/nightlife/index.html" class="navi-link" target="_top">Nightlife</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/spas/index.html" class="navi-link" target="_top">Spas</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/golfing/index.html" class="navi-link" target="_top">Golfing</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/diving/index.html" class="navi-link" target="_top">Diving</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/shortstopover/index.html" class="navi-link" target="_top">Short 
-              Stopovers</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/honeymooners/index.html" class="navi-link" target="_top">Honeymooners</a></td>
-          </tr>
-          <tr>
-            <td class="cell-on"><a href="http://www.kuala-lumpur.ws/attractions/index.html" class="navi-link-on" target="_top">ATTRACTIONS</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/architectualwonders.html" class="navi-link">Sightseeing</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/ethnicexcitement.html" class="navi-link">KL's 
-              colourful areas</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klshopping/index.html" class="navi-link" target="_top"> Shopping</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/Eco-tourism/index.html" class="navi-link" target="_top">Eco-tourism</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/themeparks/index.html" class="navi-link" target="_top">Theme 
-              Parks</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/funforkids/index.html" class="navi-link" target="_top">Fun 
-              for Kids</a></td>
-          </tr>
-          <tr>
-            <td class="cell-on"><a href="http://www.kuala-lumpur.ws/practicalinfo/index.html" class="navi-link-on" target="_top">KL 
-              GENERAL INFO</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/transportation/index.htm" class="navi-link" target="_top">Transportation</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/gettingaround/index.html" class="navi-link" target="_top">Getting 
-              Around</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/events/index.html" class="navi-link" target="_top">Events 
-              &amp; Festivals</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/culture-traditions/index.html" class="navi-link" target="_top">Culture 
-              &amp; Traditions</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klhistory/index.html" class="navi-link" target="_top">KL 
-              History</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/ourgovernment/index.html" class="navi-link" target="_top">Our 
-              Government</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a href="http://www.kuala-lumpur.ws/visas-embassies/index.html" class="navi-link" target="_top">Visas 
-              &amp; Embassies</a></td>
-          </tr>
-          <tr>
-            <td class="cell-off"><a class="navi-link" href="http://www.kuala-lumpur.ws/putrajaya/index.html">About 
-              Putrajaya </a></td>
-          </tr>
-          <tr>
-            <td class="cell-on"><a href="http://www.kuala-lumpur.ws/maps/index.html" class="navi-link-on">Kuala 
-              Lumpur Maps</a></td>
-          </tr>
+        <tbody><tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/tours/index.htm" class="navi-link-on" target="_top">TOURS</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/tours/kltours.htm" class="navi-link" target="_top">Kuala 
+            Lumpur Tours </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/tours/beyond.htm" class="navi-link" target="_top">Tours 
+            Beyond KL</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="https://www.awd.ws/kltours/book.php?id=17" class="navi-link" target="_top">Book 
+            A Tour</a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/klareas/index.html" class="navi-link-on" target="_top">KL By Areas </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/bukitbintang.html" class="navi-link" target="_top"> Bukit Bintang </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/klcc.html" class="navi-link" target="_top"> Kuala Lumpur City Centre </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/golden.html" class="navi-link" target="_top"> Golden Triangle</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/chinatown.html" class="navi-link" target="_top"> Chinatown </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/bangsar.html" class="navi-link">Bangsar</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/ampang.html" class="navi-link">Ampang </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/pj.html" class="navi-link" target="_top">Petaling Jaya</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/oldklang.html" class="navi-link" target="_top">Old Klang Road</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/index.html#subang" class="navi-link" target="_top">Shah Alam &amp; Subang</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klareas/index.html#klang" class="navi-link" target="_top">Klang</a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/klshopping/index.html" class="navi-link-on" target="_top">Shopping</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klshopping/whatobuy.html" class="navi-link">What to Buy </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klshopping/wheretobuy.html" class="navi-link">Where To Buy </a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/attractions/index.html" class="navi-link-on" target="_top">ATTRACTIONS</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/placetovisit.html" class="navi-link">Places to Visit </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/placetovisit.html" class="navi-link">Architectural Landmarks </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/nature.html" class="navi-link" target="_top"> Science, Nature &amp; Recreation </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/themepark.html" class="navi-link" target="_top">Theme Parks </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/attractions/putrajaya.html" class="navi-link" target="_top">Putrajaya</a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/food-dining/index.html" class="navi-link-on" target="_top">Dining &amp; Restaurants </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/food-dining/whattoeat.html" class="navi-link" target="_top">What to Eat </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/food-dining/wheretoeat.html" class="navi-link" target="_top">Where To Eat </a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/activities/index.htm" class="navi-link-on" target="_top">ACTIVITIES</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/sports/index.html" class="navi-link" target="_top">Sports</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/spas/index.html" class="navi-link" target="_top">Spas</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/entertainments/index.html" class="navi-link" target="_top">Entertainment</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/nightlife/index.html" class="navi-link" target="_top">Nightlife</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/shortstopover/index.html" class="navi-link" target="_top">Short 
+            Stopovers</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/honeymooners/index.html" class="navi-link" target="_top">Honeymooners</a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/funforkids/index.html" class="navi-link-on" target="_top">Fun For Kids </a></td>
+        </tr>
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/practicalinfo/index.html" class="navi-link-on" target="_top">KL 
+            GENERAL INFO</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/klhistory/index.html" class="navi-link" target="_top">About KL</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/culture-traditions/index.html" class="navi-link" target="_top">Culture 
+            &amp; Traditions</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/gettingaround/index.html" class="navi-link" target="_top">Getting 
+            Around</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/festivals/index.html" class="navi-link" target="_top">Festivals &amp; Events </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/medical/index.html" class="navi-link" target="_top">Medical Care </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/realestate/index.html" class="navi-link" target="_top">Real Estate </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/information-technology/index.html" class="navi-link" target="_top">Information Technology </a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/visas-embassies/index.html" class="navi-link" target="_top">Visas &amp; Embassies</a></td>
+        </tr>
+        <tr>
+          <td class="cell-off"><a href="http://www.kuala-lumpur.ws/education/index.html" class="navi-link" target="_top">Education</a></td>
+        </tr>
+        
+        <tr>
+          <td class="cell-on"><a href="http://www.kuala-lumpur.ws/maps/index.html" class="navi-link-on">Kuala 
+            Lumpur Maps</a></td>
+        </tr>
           <tr>
             <td class="cell-on"><a href="http://www.kl-photos.com" class="navi-link-on" target="_blank">Kuala 
               Lumpur PHOTOS</a></td>
@@ -281,7 +521,7 @@
 <script language="javascript">
 if(document.title=="") document.title = "Summary";
 function viewpoll(skey) {
-	var wina = window.open("about:blank","winvotes","menubar=no,width=500,height=430,resizable=yes");wina.focus();
+	var wina = window.open("about:blank","winvotes","menubar=no,width=500,height=450,resizable=yes");wina.focus();
 	var forms;
 	try {
 		forms = document.formviewpoll;
@@ -335,7 +575,7 @@ function sendvote(forms, tmprdio) {
 	fname = tmprdio[1];
 	var flag = confirm("Are you sure?");
 	if(flag==false) return false;
-	var wina = window.open("about:blank","winvotes","menubar=no,width=500,height=430,resizable=yes");wina.focus();
+	var wina = window.open("about:blank","winvotes","menubar=no,width=500,height=450,resizable=yes");wina.focus();
 	a.value = "not post twice";
 	return flag;
 }
@@ -495,18 +735,16 @@ function sendvote(forms, tmprdio) {
 
 
 
-
                       </td>
                     </tr>
-                  </tbody></table>
-                </td>
+                  </tbody></table>                </td>
               </tr>
             </tbody></table></td></tr>
           <tr>
             <td class="cell-on"><a href="http://www.asiawebdirect.com" class="navi-link-on" target="_blank">ABOUT 
               US</a></td>
           </tr>
-        </tbody></table></td>
+      </tbody></table></td>
   </tr>
 </tbody></table>
 
@@ -550,108 +788,127 @@ function sendvote(forms, tmprdio) {
     </td>
   </tr>
 </tbody></table>
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td class="cell-on"><span class="navi-link-on">BEYOND KL</span></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.malaysia-hotels.net/" target="_blank" class="navi-link">Malaysia 
+    <td class="cell-off-sm"> <a href="http://www.malaysia-hotels.net/" target="_blank" class="navi-link">Malaysia 
+      Hotels</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.langkawi-resorts.com/" target="_blank" class="navi-link">Langkawi 
+      Hotels</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.malacca-hotels.com/" target="_blank" class="navi-link">Malacca 
+      Hotels</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"><a href="http://www.penang-hotels.com/" target="_blank" class="navi-link">Penang 
       Hotels</a></td>
   </tr>
   <tr>
-    <td class="cell-off"><a href="http://www.kuantan-hotels.com/" target="_blank" class="navi-link">Kuantan 
+    <td class="cell-off-sm"><a href="http://www.kuantan-hotels.com/" target="_blank" class="navi-link">Kuantan 
       Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.langkawi-resorts.com/" target="_blank" class="navi-link">Langkawi 
-      Hotels</a></td>
-  </tr>
-  <tr> 
-    <td class="cell-off"> <a href="http://www.malacca-hotels.com/" target="_blank" class="navi-link">Malacca 
-      Hotels</a></td>
-  </tr>
-  <tr> 
-    <td class="cell-off"><a href="http://www.penang-hotels.com/" target="_blank" class="navi-link">Penang 
+    <td class="cell-off-sm"><a href="http://www.borneo-hotels.com/" target="_blank" class="navi-link">Borneo 
       Hotels</a></td>
   </tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td class="cell-on"><span class="navi-link-on">BEYOND Malaysia</span></td>
+    <td class="cell-on"><span class="navi-link-on">Beyond </span><a href="http://www.visit-malaysia.com" class="navi-link-on" target="_blank">Malaysia</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.asia-hotel.net/" target="_blank" class="navi-link">Asia 
+    <td class="cell-off-sm"> <a href="http://www.asia-hotel.net/" target="_blank" class="navi-link">Asia 
       Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.bali-indonesia.com" target="_blank" class="navi-link">Bali 
+    <td class="cell-off-sm"> <a href="http://www.bali-indonesia.com" target="_blank" class="navi-link">Bali 
       Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.hong-kong-hotels.ws/" target="_blank" class="navi-link">Hong 
+    <td class="cell-off-sm"> <a href="http://www.hong-kong-hotels.ws/" target="_blank" class="navi-link">Hong 
       Kong Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"><a href="http://www-singapore.com/" target="_blank" class="navi-link">Singapore 
+    <td class="cell-off-sm"><a href="http://www-singapore.com/" target="_blank" class="navi-link">Singapore 
       Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-on"><span class="navi-link-on">In</span> <a href="http://www.thaiwave.com" class="navi-link-on" target="_blank"> 
-      Thailand</a></td>
+    <td class="cell-off-sm"><a href="http://www.asia-hotel.net/maldives/" target="_blank" class="navi-link">Maldives 
+      Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.bangkok.com" class="navi-link" target="_blank">Bangkok 
+    <td class="cell-on"><a href="http://www.thailand-hotels.net" class="navi-link-on" target="_blank"> 
+      Thailand Hotels</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.bangkok-hotels.net" class="navi-link" target="_blank">Bangkok 
       Hotels </a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.phuket.com" class="navi-link" target="_blank">Phuket</a></td>
+    <td class="cell-off-sm"> <a href="http://www.phuket-hotels.com" class="navi-link" target="_blank">Phuket 
+      Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"><a href="http://www.pattaya.bangkok.com" target="_blank" class="navi-link">Pattaya</a></td>
+    <td class="cell-off-sm"><a href="http://www.gothailand.com/pattaya/indexhotels.htm" target="_blank" class="navi-link">Pattaya 
+      Hotels</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"><a href="http://www.huahin.bangkok.com" class="navi-link" target="_blank">Hua 
+    <td class="cell-off-sm"><a href="http://www.huahin.bangkok.com" class="navi-link" target="_blank">Hua 
+      Hin Hotels </a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.samui-hotels.com" class="navi-link" target="_blank">Koh 
+      Samui Hotels</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.gothailand.com/chiang-mai/indexhotels.htm" class="navi-link" target="_blank">Chiang 
+      Mai Hotels</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-on"><a href="http://www.thaiwave.com" class="navi-link-on" target="_blank">Thailand</a> 
+      <span class="navi-link-on">Guides</span></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.bangkok.com" class="navi-link" target="_blank">Bangkok</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"> <a href="http://www.phuket.com" class="navi-link" target="_blank">Phuket</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"><a href="http://www.pattaya.bangkok.com" target="_blank" class="navi-link">Pattaya</a></td>
+  </tr>
+  <tr> 
+    <td class="cell-off-sm"><a href="http://www.huahin.bangkok.com" class="navi-link" target="_blank">Hua 
       Hin </a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.kosamui.com" class="navi-link" target="_blank">Koh 
+    <td class="cell-off-sm"> <a href="http://www.kosamui.com" class="navi-link" target="_blank">Koh 
       Samui</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.gochiangmai.com" class="navi-link" target="_blank">Chiang 
+    <td class="cell-off-sm"> <a href="http://www.gochiangmai.com" class="navi-link" target="_blank">Chiang 
       Mai</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.phiphi.phuket.com" class="navi-link" target="_blank">Phi 
+    <td class="cell-off-sm"> <a href="http://www.phiphi.phuket.com" class="navi-link" target="_blank">Phi 
       Phi Island</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"><a href="http://www.kohlanta-thailand.com" class="navi-link" target="_blank">Koh 
+    <td class="cell-off-sm"><a href="http://www.kohlanta-thailand.com" class="navi-link" target="_blank">Koh 
       Lanta</a></td>
   </tr>
   <tr> 
-    <td class="cell-off"> <a href="http://www.khaolak-hotels.com" class="navi-link" target="_blank">Khao 
+    <td class="cell-off-sm"> <a href="http://www.khaolak-hotels.com" class="navi-link" target="_blank">Khao 
       Lak </a></td>
   </tr>
   <tr> 
-    <td class="cell-off"><a href="../travel-info.htm" class="navi-link" target="_top">More</a></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div align="center">
-<script type="text/javascript"><!-- 
-google_ad_client = "pub-0635962263168929"; 
-google_ad_width = 120; 
-google_ad_height = 600; 
-google_ad_format = "120x600_as"; 
-google_ad_type = "text_image"; 
-google_ad_channel =""; 
-//--></script> 
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
-</script>
-</div></td>
+    <td class="cell-off-sm"><a href="../travel-info.htm" class="navi-link" target="_top">More</a></td>
   </tr>
 </tbody></table>
 
@@ -663,7 +920,7 @@ google_ad_channel ="";
     <td width="10" background="images/016.gif" class="print"><img src="images/016.gif" width="14" height="1"></td>
     <td width="160" class="print"><img src="images/space.gif" border="0" width="160" height="1"></td>
   </tr>
-</tbody></table>
+</tbody></table><script type="text/javascript" id="jsShOChaVDestination" src="http://https:/reserve/indexShort.php?action=dest&amp;dest=255&amp;deF=0&amp;lang=en"></script>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center" height="1150">
   <tbody><tr> 
     <td width="176" valign="top" class="print"> 
@@ -1012,63 +1269,14 @@ if (parseInt(navigator.appVersion)>=4)
                 </tbody></table>
             
 <table width="120" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center"><a href="http://www.malaysia-hotels.net/accommodation/promotion.htm" target="_blank"><img src="http://www.malaysia-hotels.net/images/banner/banner-promotion.gif" width="147" border="0"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="147" height="180">
+  <tbody><tr> 
+    <td align="center"> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="147" height="180">
         <param name="movie" value="../images/banner/regent.swf">
         <param name="quality" value="high">
-        <embed src="../images/banner/regent.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="147" height="180">
+        <embed src="../images/banner/regent.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="147" height="180">         
       </object></td>
   </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.malaysia-hotels.net/sports/golf.htm" target="_blank"><img src="http://www.malaysia-hotels.net/images/banner/banner-golf.gif" width="147" border="0" usemap="#Map"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/century/" target="_blank"><img src="/images/banner/ban_royalebintang.jpg" width="147" height="70" border="0"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/swissinn/" target="_blank"><img src="/images/banner/ban-swissinn.jpg" width="147" height="70" border="0"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/quality/" target="_blank"><img src="/images/banner/ban_quality.jpg" width="147" height="70" border="0"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/novotelkl/" target="_blank"><img src="/images/banner/ban_novotel.jpg" width="147" height="70" border="0"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/stanfordkl/" target="_blank"><img src="/images/banner/ban_stanford.jpg" width="147" height="70" border="0"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/dutapalms" target="_blank"><img src="/images/banner/ban-dutapalm.jpg" width="147" height="70" border="0"></a></td>
-  </tr>
-  <tr>
+  <tr> 
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
   <tr>
@@ -1078,7 +1286,12 @@ if (parseInt(navigator.appVersion)>=4)
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://www.kl-hotels.com/pnbdarbypark" target="_blank"><img src="/images/banner/ban_pnb.jpg" width="147" height="70" border="0"></a></td>
+    <td align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="147" height="200" title="Bi-Monhtly Promotion">
+      <param name="movie" value="http://www.visit-malaysia.com/images/banner/bimonthly.swf">
+      <param name="quality" value="high">
+	  <param name="wmode" value="transparent">
+      <embed src="http://www.visit-malaysia.com/images/banner/bimonthly.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="147" height="200">
+    </object></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
@@ -1090,7 +1303,7 @@ if (parseInt(navigator.appVersion)>=4)
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://kl-hotels.com/swissgardenhotel/" target="_blank"><img src="/images/banner/ban-swissgarden.jpg" width="147" height="70" border="0"></a></td>
+    <td align="center"><a href="http://www.kl-hotels.com/cititel/" target="_blank"><img src="/images/banner/ban_cititel.jpg" width="147" height="70" border="0"></a></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
@@ -1101,9 +1314,14 @@ if (parseInt(navigator.appVersion)>=4)
   <tr>
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
-  
   <tr>
-    <td align="center"><a href="http://kl-hotels.com/midah/" target="_blank"><img src="/images/banner/ban-hotelmidah.jpg" width="147" height="70" border="0"></a></td>
+    <td align="center"><a href="http://www.kl-hotels.com/pnbdarbypark" target="_blank"><img src="/images/banner/ban_pnb.jpg" width="147" height="70" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.kl-hotels.com/stanfordkl/" target="_blank"><img src="/images/banner/ban_cititelexpress.jpg" width="147" height="60" border="0"></a></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
@@ -1115,27 +1333,57 @@ if (parseInt(navigator.appVersion)>=4)
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
   <tr>
+    <td align="center"><a href="http://kl-hotels.com/midah/" target="_blank"><img src="/images/banner/ban-hotelmidah.jpg" width="147" height="70" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://kl-hotels.com/swissgardenhotel/" target="_blank"><img src="/images/banner/ban-swissgarden.jpg" width="147" height="70" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://www.kl-hotels.com/brisdalekl/" target="_blank"><img src="/images/banner/ban_brisdale.jpg" width="147" height="70" border="0"></a></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
   <tr>
+    <td align="center"><a href="http://www.kl-hotels.com/quality/" target="_blank"><img src="/images/banner/ban_quality.jpg" width="147" height="70" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
+  </tr>
+  <tr> 
+    <td align="center"><a href="http://www.kl-hotels.com/swissinn/" target="_blank"><img src="/images/banner/ban-swissinn.jpg" width="147" height="70" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.kl-hotels.com/malaya/" target="_blank"><img src="/images/banner/ban_malaya.jpg" width="147" height="70" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
+  </tr>
+  <tr> 
     <td align="center"><a href="http://www.kl-hotels.com/sunwaylagoon/" target="_blank"><img src="/images/banner/ban_lagoon.jpg" width="147" height="70" border="0"></a></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center"><a href="http://www.kl-hotels.com/cruisetasik/" target="_blank"><img src="/images/banner/ban_tasik.jpg" width="147" height="70" border="0"></a></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center"><a href="http://www.kuala-lumpur.ws/tours/index.htm"><img src="/images/asiantrails.jpg" width="147" height="70" border="0"></a></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
   <tr> 
@@ -1147,10 +1395,23 @@ if (parseInt(navigator.appVersion)>=4)
   <tr> 
     <td align="center"><a href="http://www.kuala-lumpur.ws/wsrentacar/" target="_blank"><img src="/images/ws_logo.jpg" width="147" height="70" border="0"></a></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center"><img src="/images/space.gif" width="100" height="6"></td>
   </tr>
-<!--  <tr>
+  <tr> 
+    <td align="center"> 
+      <script type="text/javascript"><!-- 
+google_ad_client = "pub-0635962263168929"; 
+google_ad_width = 120; 
+google_ad_height = 600; 
+google_ad_format = "120x600_as"; 
+google_ad_type = "text_image"; 
+google_ad_channel =""; 
+//--></script>
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
+</script>    </td>
+  </tr>
+  <!--  <tr>
     <td align="center"><script language=JavaScript src="/scripts/banner.js"></script>
 	<a href="javascript:;" onClick="this.href=urlswitch()"><IMG width="147" height="70" border=0 src="/images/Borneo_add3.jpg" name="banner1" ></a></td>
   </tr> -->
@@ -1297,7 +1558,7 @@ Fax :
 Email : <a class="smallwhite" onmouseover="window.status='Contact kl-hotels.com'; return true" onmouseout="window.status=''; return true" href="http://www.asiawebdirect.com/customer/?destination=kl">Contact 
 us here</a><br>
 Please read our <a class="smallwhite" href="http://www.kl-hotels.com/privacy.html">Privacy Policy</a> 
-and <a class="smallwhite" href="http://www.kl-hotels.com/copyright.html">Copyright Notice</a><br>
+and <a class="smallwhite" href="http://www.kl-hotels.com/copyright.html">Copyright Notice</a><br><!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/28564483/x.js?cmd=file&amp;file=chatScript3&amp;site=28564483&amp;&amp;category=en;woman;2"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
  
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
   <tbody><tr align="center"> 
@@ -1321,7 +1582,7 @@ and <a class="smallwhite" href="http://www.kl-hotels.com/copyright.html">Copyrig
 	string+=" border='0' height='1' width='1'>";
 	document.write(string);
 //-->
-</script><img src="http://www.phuket.com/webcounter.php?username=kl-hotels.com&amp;referrer=bookmark&amp;url=https%3A//web.archive.org/web/20061119001704id_/http%253A//www.kl-hotels.com/privacy.html&amp;cti=1580406023952" border="0" height="1" width="1">
+</script><img src="http://www.phuket.com/webcounter.php?username=kl-hotels.com&amp;referrer=bookmark&amp;url=https%3A//web.archive.org/web/20070429204439id_/http%253A//www.kl-hotels.com/privacy.html&amp;cti=1580406025035" border="0" height="1" width="1">
 <br>
 <a class="smallwhite" href="http://www.andagraf.com/" target="_blank">Web Design</a> 
 by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Graphics</a></span>
@@ -1375,6 +1636,10 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
 
+            <option value="http://www.kl-hotels.com/panpacific/">Best Western Premier Seri Pacific Kuala Lumpur</option>
+
+
+
             <option value="http://www.kl-hotels.com/bestotel/">Bestotel City Centre</option>
 
 
@@ -1392,6 +1657,10 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
             <option value="http://www.kl-hotels.com/carcosa/">Carcosa Seri Negara</option>
+
+
+
+            <option value="http://www.kl-hotels.com/stanfordkl/">Cititel Express Kuala Lumpur</option>
 
 
 
@@ -1467,6 +1736,10 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
 
+            <option value="http://www.kl-hotels.com/grandpacific/">Grand Pacific Hotel</option>
+
+
+
             <option value="http://www.kl-hotels.com/grandseasons/">Grand Seasons Hotel</option>
 
 
@@ -1523,6 +1796,10 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
 
+            <option value="http://www.kl-hotels.com/flamingo/">Hotel Flamingo</option>
+
+
+
             <option value="http://www.kl-hotels.com/istana/">Hotel Istana</option>
 
 
@@ -1559,7 +1836,7 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
 
-            <option value="http://www.phuket-hotels.com/kl-plaza-suites-apartment/">KL Plaza Suites Apartment</option>
+            <option value="http://www.kl-hotels.com/klanghistana/">Klang Histana Hotel</option>
 
 
 
@@ -1599,7 +1876,7 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
 
-            <option value="http://www.kl-hotels.com/pacificregency/">Pacific Regency Hotel Apartments</option>
+            <option value="http://www.kl-hotels.com/pacificregency/">Pacific Regency Hotel Suites</option>
 
 
 
@@ -1667,10 +1944,6 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
 
-            <option value="http://www.kl-hotels.com/panpacific/">Seri Pacific Kuala Lumpur</option>
-
-
-
 
             <option value="http://www.kl-hotels.com/shahsvillagehotel/">Shahs Village Hotel Petaling Jaya</option>
 
@@ -1681,10 +1954,6 @@ by <a class="smallwhite" href="http://andagraf.com/" target="_blank">Andaman Gra
 
 
             <option value="http://www.kl-hotels.com/imperial-sheraton/">Sheraton Imperial Kuala Lumpur</option>
-
-
-
-            <option value="http://www.kl-hotels.com/stanfordkl/">Stanford Hotel Kuala Lumpur</option>
 
 
 
