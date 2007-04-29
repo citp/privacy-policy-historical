@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208231538id_/http%3A//www.kxly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429082347id_/http%3A//www.kxly.com/privacy) for the most accurate reproduction.*
 
 # KXLY.com
 
@@ -38,4 +38,4 @@ The only time we collect personally identifiable information from any user is wh
 
  _Ability to Update or Delete Information_
 
-If we become aware that any child under 13 has provided us with personally identifiable information, we will delete the account, order or entry and the information provided. Parents or others who become aware that information has been collected on one of our sites from a child under 13 should contact and inform us at privacy@kxly.com, and we will delete the information and the account, order or entry in which such information was collected. 
+If we become aware that any child under 13 has provided us with personally identifiable information, we will delete the account, order or entry and the information provided. Parents or others who become aware that information has been collected on one of our sites from a child under 13 should contact and inform us at privacy@kxly.com, and we will delete the information and the account, order or entry in which such information was collected.
