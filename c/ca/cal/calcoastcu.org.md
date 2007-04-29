@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the calcoastcu.org privacy policy that was archived on 2005-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050312194444id_/http%3A//www.calcoastcu.org/infodesk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcoastcu.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429031537id_/http%3A//www.calcoastcu.org/infodesk/policy.html) for the most accurate reproduction.*
 
 # California Coast Credit Union Privacy Policy
 
-California Coast Credit Union Privacy Policy California Coast Credit Union Privacy Policy For 75 years, California Coast Credit Union has been committed to supporting and improving the financial well-being of members throughout San Diego County.  We recognize the trust and confidence placed in us by our members. 
+California Coast Credit Union Privacy Policy California Coast Credit Union Privacy Policy
 
-Keeping our members' personal information confidential and secure - no matter how you choose to do business with us \- is a top priority at California Coast Credit Union.  Below we share our privacy policies and important information about your online security.
+For 75 years, California Coast Credit Union has been committed to supporting and improving the financial well-being of members throughout San Diego County.  We recognize the trust and confidence placed in us by our members. 
+
+Keeping our members' personal information confidential and secure - no matter how you choose to do business with us - is a top priority at California Coast Credit Union.  Below we share our privacy policies and important information about your online security.
 
 ****Email Privacy** **
 
@@ -22,17 +24,17 @@ If there are any problems using these links, please report the error to [support
 
 ****Online Privacy** **
 
-California Coast Credit Union recognizes the importance of protecting the privacy of personal information about our members and it is our goal to protect the information on every level that we interact with you, whether it be in a branch, at one of our ATMs, on the telephone or online through the Internet and our web site. 
+California Coast Credit Union recognizes the importance of protecting the privacy of personal information about our members and it is our goal to protect the information on every level that we interact with you, whether it be in a branch, at one of our ATMs, on the telephone or online through the Internet and our web site.
 
 We limit the collection and use of member information to the minimum amount necessary to deliver personalized caring member service, which includes advising you about our products and services, to help us respond to your questions and applications, and to provide account information and services you request.
 
 **Information Collected and How it is Used**
 
 _**IP Address**  
-_ We use your [IP address](https://web.archive.org/web/20050312194444id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#ip) to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information which we may use to help provide you with more specific information about our products and services. The information collected by your IP address does not include personal, identifying information.
+_ We use your [IP address](https://web.archive.org/web/20070429031537id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#ip) to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information which we may use to help provide you with more specific information about our products and services. The information collected by your IP address does not include personal, identifying information.
 
 _**Cookies  
-**_ When you use our home banking (CU@Home) service, our site uses [cookies](https://web.archive.org/web/20050312194444id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#cookies) to keep track of your member number and to ensure that your financial transactions are secure and authorized. When you exit our home banking site the cookie is removed. This ensures that each home banking session is completely secure and confidential. 
+**_ When you use our home banking (CU@Home) service, our site uses [cookies](https://web.archive.org/web/20070429031537id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#cookies) to keep track of your member number and to ensure that your financial transactions are secure and authorized. When you exit our home banking site the cookie is removed. This ensures that each home banking session is completely secure and confidential. 
 
 We may also use cookies to gather information about your preferences and interests in our products and services. Any information gathered in this way will be used to tailor your experience at our site and to provide content that we think you might be interested in. You may choose to disable your browser from accepting cookies. Disabling cookies, however, may prevent you from utilizing certain services on our web site, including our [CU@Home](https://www.calcoastcu.org/onlineserv/HB/Signon.cgi) home banking product.
 
@@ -48,12 +50,11 @@ Financial information that is collected is used to check the visitor's qualifica
 
 **Links to non-California Coast Credit Union Sites**
 
-This site contains links to other web sites. Although California Coast Credit Union is not responsible for the privacy practices or the content of such web sites, we do make every effort to ensure that our partner's privacy policies are in line with our own. [Click here](https://web.archive.org/web/20050312194444id_/http%3A//www.calcoastcu.org/infodesk/vendors.html) to see a list of these links. These sites are not authorized by California Coast Credit Union to collect information about you, however, they may independently collect information about you and/or use cookies during your use of their web sites. You may wish to review the Privacy Policy for any site you visit. 
+This site contains links to other web sites. Although California Coast Credit Union is not responsible for the privacy practices or the content of such web sites, we do make every effort to ensure that our partner's privacy policies are in line with our own. [Click here](https://web.archive.org/web/20070429031537id_/http%3A//www.calcoastcu.org/infodesk/vendors.html) to see a list of these links. These sites are not authorized by California Coast Credit Union to collect information about you, however, they may independently collect information about you and/or use cookies during your use of their web sites. You may wish to review the Privacy Policy for any site you visit. 
 
-  
 ****Security****
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Forms which our visitors submit which may contain personal or sensitive information are submitted via secure encrypted transactions. Our home banking ([CU@Home](https://www.calcoastcu.org/onlineserv/HB/Signon.cgi) ) service resides entirely on a secure server. For further information regarding online security issues, [click here](https://web.archive.org/web/20050312194444id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#security).
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Forms which our visitors submit which may contain personal or sensitive information are submitted via secure encrypted transactions. Our home banking ([CU@Home](https://www.calcoastcu.org/onlineserv/HB/Signon.cgi)) service resides entirely on a secure server. For further information regarding online security issues, [click here](https://web.archive.org/web/20070429031537id_/http%3A//www.calcoastcu.org/infodesk/techhelp.html#security).
 
 **Children's Guidelines**
 
@@ -61,11 +62,11 @@ The California Coast Credit Union web site is intended to be used primarily by a
 
 **Opt-Out Options**
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. However, if you choose to withhold the requested information, you will not be eligible to take advantage of certain California Coast Credit Union and/or partner services offered on our web site. 
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. However, if you choose to withhold the requested information, you will not be eligible to take advantage of certain California Coast Credit Union and/or partner services offered on our web site.
 
-If you later wish to change your opt-out choice, you may contact us at: 
+If you later wish to change your opt-out choice, you may contact us at:
 
-Email us at: | [support@calcoastcu.org](mailto:support@calcoastcu.org)  
+| Email us at: | [support@calcoastcu.org](mailto:support@calcoastcu.org)  
 ---|---  
 Write to us at: | California Coast Credit Union  
 P.O. Box 502080  
@@ -81,6 +82,4 @@ Email us at: | [support@calcoastcu.org](mailto:support@calcoastcu.org)
 Write to us at: |  California Coast Credit Union  
 P.O. Box 502080  
 San Diego, CA 92150-2080  
-Call us at: | (877) 495-1600  
-  
-> 
+Call us at: | (877) 495-1600
