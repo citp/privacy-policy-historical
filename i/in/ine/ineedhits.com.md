@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201833id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx%3Ffrombnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130130id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx%3Ffrombnav) for the most accurate reproduction.*
 
 # Privacy Policy and Free Search Engine Submission Information - ineedhits
 
 |  [ ](http://www.truste.org/ivalidate.php?url=www.ineedhits.com&sealid=101) |  We at ineedhits.com [Ineedhits.com Pty Ltd] pride ourselves on attention to detail regarding our customers’ privacy. Please read the following to learn more about our Privacy Policy.  
 ---|---  
   
-**Effective as of: 28 December 2004**
+**Last Updated on 21 March 2007**
 
 ineedhits.com [Ineedhits.com Pty Ltd] is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
 
@@ -42,7 +42,7 @@ Top
 
   
 **SHARING:**  
-ineedhits.com share personal information with third parties who we use to perform functions on our behalf. For example, we use a third party (Camtech Corporation) to verify and process your credit card information in order for us to bill you for requested services. All third parties are contractually obligated to use your personal information only for the purpose for which it is given. ineedhits.com acts as a reseller for products and services offered on co-branded partner Web sites. Any sharing of personal information with our co-branded partner Web sites (Yahoo! Search Submit - searchSubmit.ineedhits.com, ExactSeek Featured Listings - ineedhits.exactseek.com, whatUseek Submit A Site - www.ineedhits.com/whatuseek/, and Hitslink - ineedhits.hitslink.com) occurs only as a direct result of a transaction involving the purchase or free trial of the respective co-branded products or services.
+ineedhits.com share personal information with third parties who we use to perform functions on our behalf. For example, we use a third party (Camtech Corporation) to verify and process your credit card information in order for us to bill you for requested services. All third parties are contractually obligated to use your personal information only for the purpose for which it is given. ineedhits.com acts as a reseller for products and services offered on ineedhits.com site or on co-branded partner Web sites. Any sharing of personal information with our co-branded partner Web sites (Yahoo! Search Submit - searchSubmit.ineedhits.com, ExactSeek Featured Listings - ineedhits.exactseek.com, whatUseek Submit A Site - www.ineedhits.com/whatuseek/, and Hitslink - ineedhits.hitslink.com) occurs only as a direct result of a transaction involving the purchase or free trial of the respective co-branded products or services.
 
 When registering your Web site to 300+ Search Engines, most require us to provide minimal personal information such as your…
 
@@ -53,7 +53,7 @@ When registering your Web site to 300+ Search Engines, most require us to provid
 
 We do not provide your personal email address in this service. We consider your “personal” contact email as confidential and kept 'entirely private'. We only use your personal email address for our Customer Care representatives and SEO Specialists to send service reports or notifications to you and for some submissions in Premium Submit because of confirmations required to complete the submission process.
 
-We may also disclose your personal information when required by law or in the our belief that such action is necessary in order to conform to acts of the law or comply with a legal process served on our main Web site or co-branded partner Web sites.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 **LINKS TO OTHER WEB SITES:**  
 ineedhits.com and its co-branded Web sites (Yahoo! Search Submit - searchSubmit.ineedhits.com, ExactSeek Featured Listings - ineedhits.exactseek.com, whatUseek Submit A Site - www.ineedhits.com/whatuseek/, and Hitslink - ineedhits.hitslink.com) contain links to other sites. Please be aware that ineedhits.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected on our Web sites.
@@ -69,6 +69,8 @@ First, we use a feature of your browser called a cookie to assign identification
 Second, we keep track of your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information about you, such as your location and your Internet service provider. ineedhits.com may also collect combined information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. No IP address/logfile information is tied to Personally Identifiable Information (PII). 
 
 Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Except as otherwise stated in this Privacy Policy, we do not provide this information to third parties, except in combined form.
+
+Fourth, we post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
 
 Top
 
@@ -97,9 +99,11 @@ If you have any questions about the security at our Web site, you can send an em
 
 Top
 
-##  7. How users can correct any inaccuracies in the information.
+##  7. How users can correct any inaccuracies in the information?
 
   
+If your personally identifiable information changes, you may correct or update it by making the change in your account area on the Account Details page, by emailing our Customer Support at [query@ineedhits.com](mailto:query@ineedhits.com), or by contacting us by telephone or postal mail at the contact information listed on the [Contact](https://web.archive.org/search-engine-help/contact.aspx) page. 
+
 All users of our co-branded paid inclusion services can review and modify their account or profile information in the respective account management areas. Alternatively they can also contact us by email through several avenues provided on pages of our [www.ineedhits.com](http://www.ineedhits.com/) Web site or directly email us with the customer support links provided in our service report emails. 
 
 Top
