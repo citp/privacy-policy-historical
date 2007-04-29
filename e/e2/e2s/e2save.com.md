@@ -1,40 +1,107 @@
-> *The following text is extracted and transformed from the e2save.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603115328id_/http%3A//www.e2save.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2save.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429154820id_/http%3A//www.e2save.com/privacy_policy.php) for the most accurate reproduction.*
 
-# e2save.com - Mobile Phone Retailer - About Us.
+# Mobile Phone Retailer :: e2save.com :: Best Mobile Phone Offers.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+When you place an order with e2save.com, we need to collect certain information to be able to process your order. What we need varies depending on the items you have ordered, and the pages you are asked to complete will vary accordingly. The information is sent to us via an SSL encrypted server. This information will form part of a permanent record of your dealings with e2save.com.
 
-We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best possible service. 
+When you email us, we may ask for certain information to be able to check this record and answer your questions quickly and accurately. When you contact us, in any way, we may make a note of this contact if it is relevant to your permanent record. This allows us to provide a higher level of ongoing customer care.
 
-We will not e-mail you in the future unless you have given us your permission. 
+We will keep your personal dcoetails, given to us by you or others during your relationship with us and other companies in the Carphone Warehouse Group plc group of companies.
 
-We will give you the chance to refuse any marketing materials in the future. 
+These include:
 
-The type of information we will collect about you includes: 
-
-  * your name 
-  * your age 
-  * your address 
-  * your previous address if you have resided at your current address for less than three years 
-  * your phone number (including mobile and fax if applicable)
-  * your email address 
-  * your credit/debit card details
+  * details you give us on application forms or during conversations with you on the telephone or at any of our stores,
+  * details you give us so that we can provide you with goods and services,
+  * details we receive from credit reference and fraud detection agencies.
 
 
 
-We will never collect sensitive information about you without your explicit consent. 
+You agree that we may use and update this centrally held information:
 
-If you have opted to take out insurance on your mobile phone your details will be sent to Allianz Cornhill (our chosen insurer) in order to process your application. In addition, if you have opted to sign up to talktalk and save up to 30% on your BT landline bill, your information will be forwarded on in order to process your application at Carphone Warehouse. 
+  * for credit and credit related services and to manage your accounts;
+  * to provide you with other services;
+  * to identify other products and services which might be suitable for you;
+  * to recover debts;
+  * to prevent and detect fraud;
+  * to update our records about you;
+  * to prevent money laundering; and
+  * to check your identity.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
 
-The personal information which we hold will be held securely in accordance with our internal security policy and English law. 
 
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. 
+You agree that we may use your personal information to make a credit check on you before we provide you with any services. These searches will be recorded by the credit reference agencies. We may disclose information about how you run your accounts to the credit reference agencies. We and other organisations may also use credit reference agency and fraud prevention agency records that we receive about you, people financially linked to you and others in your household to help make decisions about you and them.
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening but we advise that you leave this option on so we may process your order with greater ease. The information collected in this way can be used to identify you unless you modify your browser settings. 
+We may also use your information for research and statistical analysis with the aim of improving our services.
 
-From time to time calls may be recorded for training purposes. 
+When assessing an application, we may use automated decision-making systems.
 
-If you have any questions/comments about privacy, you should submit a query via our [customer services form](https://web.archive.org/web/20040603115328id_/http%3A//www.e2save.com/customer_services_form.php)  
+If you request it, on payment of a fee, which is currently £10, we will provide you with a copy of the personal information to which you are entitled that we hold about you.
 
+The information we hold about you is confidential. We will only disclose it outside the Carphone Warehouse Group when:
+
+  * you give us your consent,
+  * it is needed by certain reputable third parties involved in running accounts and/or providing services for you (for example, credit reference agencies who do credit checks for us),
+  * in order to obtain professional advice,
+  * we or others need to investigate or prevent crime (e.g. to fraud prevention agencies),
+  * the law permits or requires it, or any regulatory or governmental body requests or requires it, even without your consent, or,
+  * there is a duty to the public to reveal the information.
+
+
+
+We may administer your account and provide other services from centres in countries outside Europe that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected, and we will remain bound by our obligations under the Data Protection Act even when your personal information is processed outside Europe.
+
+This website uses cookies. Cookies collect information about your use of the website, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. 
+
+This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers’ rights. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you refuse cookies.
+
+We may monitor, record, store and use any telephone, email or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service.
+
+We will monitor network traffic from time to time for the purposes of backup and problem solving and in order to ensure that you are not misusing any of the services provided to you.
+
+To the extent that sensitive personal data is processed about you, we will employ appropriate security measures given the nature of that data. However, you recognise that your use of the Internet and our website is entirely at your own risk. We have tried to create a secure and reliable website for our users. However, we have no responsibility or liability for the security of personal information transmitted via the Internet.
+
+We may need to provide some of your personal information to third parties that we use for the purposes of delivering specific services to you (e.g. customer support, or a shipping company if you have asked us to send something to you).
+
+Our website may provide links and banner advertisements to third party sites. Please note that we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. Since we do not control those websites, you are responsible for reviewing and abiding by the privacy policies of these third party sites.
+
+We may check what you have told us and share that information with fraud prevention agencies. It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this at the fraud prevention agencies.
+
+You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You confirm that you will inform us of any change to your personal information as soon as is reasonably practicable in order that we may update our records. Please note that notification of any change to your personal information must be in writing (to the address below), and should include your account and/or telephone numbers with us.
+
+If you feel your privacy has been breached by us, then please write to:
+
+e2save.com  
+Customer Care  
+Belton Road West Extension  
+Loughborough  
+LE11 5XH 
+
+or call customer services on 0845 655 55 22
+
+During your time on this site you will have the opportunity to consent to us contacting you by e-mail, phone, SMS or MMS from time to time occasionally about products and services which we, our subsidiary companies (including, without limitation, our insurance and fixed line telephony subsidiaries) and carefully selected third parties believe may be of interest to you. This will allow us to keep you up to date, and ensure you have all the information at your disposal to get the most out of your mobile life.
+
+You may change your mind at any time by writing to or emailing us with your name and customer ID at:
+
+Marketing Compliance Manager  
+e2save  
+3R House  
+Belton Road West Extension  
+Belton Road Trading Estate  
+Loughborough  
+LE11 5XH
+
+or email us at [compliance1@e2save.com](mailto:compliance1@e2save.com)
+
+If you buy a handset from us, we will pass your information to the Mobile Equipment National Database ("MEND") and the Stolen Equipment National Database ("SEND") (organisations operated by Recipero Limited, a company registered in England and Wales under Company No. 3794898 and with its registered office at Lawrence House, Lower Bristol Road, Bath BA2 9ET) to enable MEND or SEND to contact you in the event that you lose your Mobile Phone or it is stolen from you. Please contact customer services on 0845 655 55 22. if you do not want your information to be passed to MEND and/or SEND. PLEASE NOTE: Once you have been registered with MEND and SEND, it is your responsibility to ensure that you notify any change of mobile phone to MEND and SEND to ensure that there is no interruption of their service to you.
+
+You must not use any computers, computer equipment, network resources or any services provided by us for any illegal purpose, or for accessing, receiving or transmitting any material deemed illegal, indecent, offensive or otherwise unacceptable under UK law.
+
+You must not use any false identity in email or other network communications.
+
+You must not use the services and/or network systems or any part thereof for fraudulent activities, or to breach another organisation's security (cross-network hacking). This is an illegal act and prosecution under criminal law may result.
+
+Please note that this policy will be reviewed, and may change, from time to time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
+
+By using this website you are consenting to this privacy policy. We may in the future change this policy, and if we do so we will post the amended policy on this website.
+
+Any decision made by us in relation to the services provided to you shall be final.
