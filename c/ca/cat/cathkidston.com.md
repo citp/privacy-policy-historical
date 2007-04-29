@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathkidston.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215131500id_/http%3A//www.cathkidston.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathkidston.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429170215id_/http%3A//www.cathkidston.com/privacy.phtml) for the most accurate reproduction.*
 
 # cath kidston
 
