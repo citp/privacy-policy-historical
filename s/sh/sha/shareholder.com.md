@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719164206id_/http%3A//www.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429173842id_/http%3A//www360.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
 
-# Shareholder.com :: Company :: Privacy Statement ::
+# Shareholder.Com | A Nasdaq Company | Shareholder.com
+
+[](https://web.archive.org/home/Company/privacy.cfm?sh_print=yes&)
 
 Shareholder.com takes your privacy seriously. This privacy statement describes the personal information we collect, how we use that information, and what we do to protect that information.
 
@@ -34,7 +36,7 @@ Access to all personal information is limited to Shareholder.com employees who n
 **Security of Personal Information**  
 Shareholder.com is committed to protecting the security of your personal information. We follow industry best practices to maintain the security of your data including limiting physical access to our computers systems, using network security devices such as firewalls and intrusion protection systems, conducting regular security audits of our computer systems, and regularly training our personnel on security and privacy.
 
-Shareholder.com sites are neither designed for the use of children nor marketed to children. Therefore we do not knowingly collect personal information from children. 
+Shareholder.com sites are neither designed for the use of children nor marketed to children. Therefore we do not knowingly collect personal information from children.
 
 **Contact Information**  
 If you have any questions or comments about this policy, you can [contact us electronically](https://web.archive.org/home/contact/comments.cfm) or via postal mail at the following address: 
