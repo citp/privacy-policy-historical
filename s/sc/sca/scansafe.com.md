@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scansafe.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213042932id_/http%3A//www.scansafe.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansafe.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429220613id_/http%3A//www.scansafe.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - ScanSafe
+# ScanSafe - Privacy Policy
 
 **General  
 ** This is the Privacy Policy of ScanSafe Limited.  You may contact ScanSafe directly using any of the communication means outlined at the end of this statement.
