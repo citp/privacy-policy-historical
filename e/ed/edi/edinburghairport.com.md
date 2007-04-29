@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020012446id_/http%3A//www.edinburghairport.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3De04f83322f5f3010VgnVCM10000036821c0a____%26ChPath%3DEDI%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429222719id_/http%3A//www.edinburghairport.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3De04f83322f5f3010VgnVCM10000036821c0a____%26ChPath%3DEDI%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
 
 # BAA Edinburgh: Privacy Statement
 
 Please read carefully
 
 1.Introduction  
-BAA plc and its group companies including World Duty Free ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
+BAA Limited and its group companies including World Duty Free ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
 
 2\. The information we collect through the Website and the way we use it  
 If you give us your personal details when you use the Website, we will inform you of the uses we make of that information at the time we collect it from you.
