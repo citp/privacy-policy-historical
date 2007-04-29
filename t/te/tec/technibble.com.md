@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119052340id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429024243id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy Statement - Technibble - A Resource for Computer Repair Technicians & to get PC tech support help.
 
@@ -12,4 +12,4 @@ In rare circumstances, we will send out an announcement email to our members abo
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type and your IP address.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
