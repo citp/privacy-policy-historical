@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lingeriediva.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021070135id_/http%3A//www.lingeriediva.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingeriediva.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429211532id_/http%3A//www.lingeriediva.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Women's Lingerie | Sexy Clothes | Lingerie
+# Lingerie | Sexy Clothes | Women's Lingerie
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20061021070135id_/http%3A//www.lingeriediva.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20070429211532id_/http%3A//www.lingeriediva.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
