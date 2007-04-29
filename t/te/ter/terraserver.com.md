@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127133933id_/http%3A//www.terraserver.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429204142id_/http%3A//www.terraserver.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # TerraServer®.com - Privacy Policy
 
@@ -65,6 +65,8 @@ The information you submit to us is controlled by the privacy policy in effect a
 
 Contact Information  
 Using the following information, you can contact us if you have questions about our privacy policy.   
+
+
 |   | TerraServer®.com  
 ---|---  
   | 5995 Chapel Hill Rd., Suite 109  
