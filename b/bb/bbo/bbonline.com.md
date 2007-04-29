@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bbonline.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208100630id_/http%3A//bbonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbonline.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429175052id_/http%3A//www.bbonline.com/privacy.html) for the most accurate reproduction.*
 
 # Bed & Breakfast Inns ONLINE - Privacy Statement
-
-**Privacy Statement**  
-
 
 Bed & Breakfasts Inns ONLINE ("BBonline"), an Internet Brands website, is committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit www.BBonline.com ("Site") without revealing who you are or providing any personal information about yourself. 
 
@@ -36,3 +33,9 @@ This site has reasonable security measures in place to protect the loss, misuse 
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently. 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: 
+
+[info@bbonline.com](mailto:info@bbonline.com)
+
+Bed & Breakfast Inns ONLINE 
+
+Effective 7/19/2006 
