@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031031626id_/http%3A//kidsii.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429035253id_/http%3A//www.kidsii.com/privacy.asp) for the most accurate reproduction.*
 
 # Kids II
 
