@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205040745id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429043214id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
 
 # National Grid - Privacy Policy
 
@@ -18,7 +18,7 @@ When on a secure page, you will see the lock icon on the bottom of your Internet
 We use order forms which allow customers to request information and apply for services. When applicable, we collect personal contact and identification information (such as your email address and home address). This information is used to answer your questions, solve your problems, and provide interactivity. We do not provide this information to any other parties.
 
 **Website Cookies**   
-A cookie is a small text file that is stored on your computer. We use both session ID cookies and persistent cookies on our website. A session ID cookie is temporary and once you close your browser, the cookie terminates. A persistent cookie is stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. On all National Grid-USA websites, cookies are not used to invade the privacy of internet users.
+A cookie is a small text file that is stored on your computer. We use both session ID cookies and persistent cookies on our website. A session ID cookie is temporary and once you close your browser, the cookie terminates. A persistent cookie is stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. On our websites, cookies are not used to invade the privacy of internet users.
 
 Our cookies are used to improve the user experience. Persistent cookies enable us to track website usage patterns and analyze trends in the aggregate. This helps us to make nationalgridus.com more useful to visitors. If users reject this cookie, they will still have full access to our website. This cookie does not include any personally identifiable information.
 
@@ -26,8 +26,8 @@ We also use cookies to create a continuous connection to the website. This type 
 
 Please see the following websites for detailed discussions of cookies: 
 
-  * Microsoft's website: Cookies: What They Are, Why You Are In Charge
-  * Netscape's Website: Cookies
+  * Microsoft's website: Cookies: What They Are, Why You Are In Charge*
+  * Netscape's Website: Cookies*
 
 
 
@@ -55,7 +55,7 @@ It is expressly understood and agreed that neither National Grid nor its directo
 
 The access and use of any provided information shall be governed by the laws of the State of New York. 
 
-For more information regarding online privacy issues, please visit the Federal Trade Commission homepage at http://www.ftc.gov/. 
+For more information regarding online privacy issues, please visit the Federal Trade Commission homepage at http://www.ftc.gov/*. 
 
 **Modifications to Privacy Policy**   
 We may modify this privacy policy at any time; please check back for updates.
@@ -63,10 +63,12 @@ We may modify this privacy policy at any time; please check back for updates.
 **Contacting Us**   
 We offer various ways that you may contact us online—by electronic mail or online forms. Please note that while we are in the process of answering your questions or fulfilling your request, information you submit to us may be seen by various people in National Grid. If you decide to send us personally identifying information—for example, in an electronic mail message containing a question or problem—we will only use this information to help us solve your problem or answer your question. 
 
-If you have any questions about this privacy statement, please [Contact Us](https://web.archive.org/0-4_contact.asp?topic=WEB).
+If you have any questions about this privacy statement, please [Contact Us](https://web.archive.org/0-4_contact.asp?topic=WEB&category=SINGLE).
 
 You may also write to:   
-Niagara Mohawk   
+National Grid   
 Web & E-Business, A-2   
 300 Erie Boulevard West   
 Syracuse, NY 13202
+
+* Please note that by using this link, you will be leaving nationalgrid.com's website. Please review our [Privacy Policy](https://web.archive.org/0-1_privacypolicy.asp) for information on other websites.
