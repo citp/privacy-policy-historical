@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2006-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215090013id_/http%3A//folkd.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2007-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429125109id_/http%3A//folkd.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="application/xhtml+xml;  charset=utf-8">
 	<title>folkd.com - Enrich your websurfing experience</title>
-	<link rel="stylesheet" href="/styles/folkd.css" type="text/css">
-	<link rel="stylesheet" href="/styles/form.css" type="text/css">
-	<link rel="stylesheet" href="/styles/table.css" type="text/css">
-	<link rel="stylesheet" href="/styles/list.css" type="text/css">
-	<link rel="shortcut icon" href="/images/favicon.ico">
-	<script src="/js/scriptaculous/lib/prototype.js" language="javascript" type="text/javascript"></script>
+	<link rel="stylesheet" href="/styles/folkd.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/styles/form.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/styles/table.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/styles/list.css" type="text/css" media="screen">
+	<!-- style definitions for calendar -->
+	<link rel="stylesheet" href="/styles/calendar.css" type="text/css" media="screen">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link id="rssfeed" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.php?items=3&amp;find=0&amp;sort=2">	<script src="/js/scriptaculous/lib/prototype.js" language="javascript" type="text/javascript"></script>
 	<script src="/js/scriptaculous/src/scriptaculous.js" language="javascript" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/slider.js"></script>
 	<script src="/js/common.js" language="javascript" type="text/javascript"></script>
 </head>
@@ -21,7 +23,7 @@
 				<a href="/page/privacy.html?lang=de"><img src="/images/flag-germany.gif" alt="use german"></a>
 				<a href="/page/privacy.html?lang=es"><img src="/images/flag-spain.gif" alt="use spanish"></a>
 				<a href="/page/privacy.html?lang=fr"><img src="/images/flag-france.gif" alt="use french"></a><br>
-				<a href="/page/explore.html">Explore</a> · <a href="/page/recent.html">Recent</a> · <a href="/page/popular.html">Popular</a> · <a href="/blog">Blog</a> · <a href="/page/feedback.html">Help / Feedback</a>
+				<a href="/page/explore.html">Explore</a> · <a href="/channel">Channels</a> · <a href="/blog">Blog</a> · <a href="/page/feedback.html">Help / Feedback</a>
 			</div>
 		
 								<div id="title"><a href="/"><img src="/images/title.gif"></a></div>
@@ -41,34 +43,29 @@
 	<form action="/page/search.html" method="post" accept-charset="utf-8">
 		<input type="hidden" name="global_search_sent" value="1">
 				
-		<div id="global_search_stringandtypes">
-			<input type="text" id="searchfor_word" name="searchfor_word" value="" style="color: rgb(128, 128, 128);"><input class="submit" type="submit" id="global_search_submit" value="Search"><br>
-			<input type="checkbox" class="cb" id="check_pages" name="check_pages"><label for="check_pages"><img src="/images/dot-page.gif"></label> <a href="/page/pages.html">pages</a>
-			<input type="checkbox" class="cb" id="check_audio" name="check_audio"><label for="check_audio"><img src="/images/dot-audio.gif"></label> <a href="/page/audio.html">audio</a>
-			<input type="checkbox" class="cb" id="check_news" name="check_news"><label for="check_news"><img src="/images/dot-news.gif"></label> <a href="/page/news.html">news</a>
-			<input type="checkbox" class="cb" id="check_notes" name="check_notes"><label for="check_notes"><img src="/images/dot-notes.gif"></label> <a href="/page/notes.html">notes</a>
+		<div id="global_search_languages">
+			<input class="cb" type="checkbox" id="lang_en" name="lang_en" checked="checked" onclick="updateLanguage('en');"><label for="lang_en"><img src="/images/flag-usa.gif" width="15" height="12" alt="english"></label>
+			<input class="cb" type="checkbox" id="lang_de" name="lang_de" onclick="updateLanguage('de');"><label for="lang_de"><img src="/images/flag-germany.gif" width="15" height="12" alt="german"></label><br>
+			<input class="cb" type="checkbox" id="lang_es" name="lang_es" onclick="updateLanguage('es');"><label for="lang_es"><img src="/images/flag-spain.gif" width="15" height="12" alt="spanish"></label>
+			<input class="cb" type="checkbox" id="lang_fr" name="lang_fr" onclick="updateLanguage('fr');"><label for="lang_fr"><img src="/images/flag-france.gif" width="15" height="12" alt="french"></label>
 		</div>
 		
 		<div id="global_search_filterandsort">
-			<div>
+			<div style="overflow-y:hidden;">
 				<label for="find_mode">select</label>
 					<select id="find_mode" name="find_mode" disabled="disabled">
 						<option value="0" selected="selected">all items</option>
 						<option disabled="disabled">- - - login to activate - - -</option>						<option disabled="disabled" value="1">my saved items</option>
 						<option disabled="disabled" value="2">my folkd' items</option>
-						<option disabled="disabled" value="4">my favorites</option>
-						<option disabled="disabled" value="8">my private items</option>
-						<!--<option disabled>my Network</option>
-						<option disabled>my Friends</option>
-						<option disabled>my VIPs</option>-->
+												<option disabled="disabled" value="8">my private items</option>
 											</select>
 							</div>
 			<div>
 				<label for="sort_mode">sort by</label>
 				<select id="sort_mode" name="sort_mode">
 					<!--<option value="0" selected="selected">none</option>-->
-					<option value="16">Recently Saved</option>
-					<option value="2">Popular Today</option>
+											<option value="16">Recently Saved</option>
+											<option value="2">Popular Today</option>
 					<option value="4">Popular this Week</option>
 					<option value="8">Popular this Month</option>
 					<option value="1">Total Reputation</option>
@@ -78,23 +75,26 @@
 			</div>
 		</div>
 		
-		<div id="global_search_languages">
-			<input class="cb" type="checkbox" id="lang_en" name="lang_en" checked="checked" onclick="updateLanguage('en');"><label for="lang_en"><img src="/images/flag-usa.gif" width="15" height="12" alt="english"></label>
-			<input class="cb" type="checkbox" id="lang_de" name="lang_de" checked="checked" onclick="updateLanguage('de');"><label for="lang_de"><img src="/images/flag-germany.gif" width="15" height="12" alt="german"></label><br>
-			<input class="cb" type="checkbox" id="lang_es" name="lang_es" checked="checked" onclick="updateLanguage('es');"><label for="lang_es"><img src="/images/flag-spain.gif" width="15" height="12" alt="spanish"></label>
-			<input class="cb" type="checkbox" id="lang_fr" name="lang_fr" checked="checked" onclick="updateLanguage('fr');"><label for="lang_fr"><img src="/images/flag-france.gif" width="15" height="12" alt="french"></label>
+		<div id="global_search_stringandtypes">
+			<input type="text" id="searchfor_word" name="searchfor_word" value="" style="color: rgb(128, 128, 128);"><input class="submit" type="submit" style="margin:0 0 -1px 4px;" id="global_search_submit" value="Search"><br>
+			<input type="checkbox" id="check_pages" name="check_pages" checked="checked"><label for="check_pages"><img src="/images/dot-page.gif"></label> <a href="/page/pages.html">pages</a>
+			<input type="checkbox" id="check_audio" name="check_audio" checked="checked"><label for="check_audio"><img src="/images/dot-audio.gif"></label> <a href="/page/audio.html">audio</a>
+			<input type="checkbox" id="check_news" name="check_news" checked="checked"><label for="check_news"><img src="/images/dot-news.gif"></label> <a href="/page/news.html">news</a>
+			<input type="checkbox" id="check_video" name="check_video" checked="checked"><label for="check_video"><img src="/images/dot-video.gif"></label> <a href="/page/video.html">video</a>
+			<input type="checkbox" id="check_notes" name="check_notes" checked="checked"><label for="check_notes"><img src="/images/dot-notes.gif"></label> <a href="/page/blogs.html">blogs</a>
 		</div>
+		
 	</form>
 </div>
 
 <script type="text/javascript" src="/js/global_search.js"></script></div><div id="subpage_navi">
-<strong>business</strong>
-<ul>
-	<li><a href="/page/contact.html" class="navi_unsel">Contact</a></li>
-	<li><a href="/page/advertising.html" class="navi_unsel">Advertising</a></li>
-	<li><a href="/page/press.html" class="navi_unsel">Press</a></li>
-</ul>
-<br>
+	<strong>business</strong>
+	<ul>
+		<li><a href="/page/contact.html" class="navi_unsel">Contact</a></li>
+		<li><a href="/page/advertising.html" class="navi_unsel">Advertising</a></li>
+		<li><a href="/page/press.html" class="navi_unsel">Press</a></li>
+	</ul>
+	<br>
 	<strong>legal</strong>
 	<ul>
 		<li><a href="/page/terms.html" class="navi_unsel">Terms Of Use</a></li>
@@ -199,12 +199,11 @@
 	<br>
 	<br>
 	Effective Date: Mai 24, 2006<br>
-</div>	<div id="prefooter">
-					<!--<a href="#top" onmouseout="img_toplink.src='/images/top_off.gif'" onmouseover="img_toplink.src='/images/top_on.gif'">back to top</a>-->
-			<a href="#top" onmouseout="img_toplink.src='/images/top_off.gif'" onmouseover="img_toplink.src='/images/top_on.gif'"><img id="img_toplink" src="/images/top_off.gif" alt="back to top" title="back to top"></a>
-			&nbsp;
-	</div>
-	
+</div>			<div id="prefooter">
+			<div id="prefooter">		<a href="#top" onmouseout="img_toplink.src='/images/top_off.gif'" onmouseover="img_toplink.src='/images/top_on.gif'"><img id="img_toplink" src="/images/top_off.gif" alt="back to top" title="back to top"></a>
+		</div>&nbsp;
+		</div>
+			
 	<div id="footer">
 	<div style="width:120px; float:left;" class="grey">Folkd.com service:</div> 
 		<a href="/page/about.html">About folkd.com</a>
@@ -226,7 +225,8 @@
 		<br>
 		
 	<div style="float:left; width:120px;" class="grey">Spread folkd.com:</div>
-		<a href="/page/invite.html">Invite your Friends</a>
+		<a href="/page/folkdcommunity.html">Community</a>
+		· <a href="/page/invite.html">Invite your Friends</a>
 		· <a href="/page/webpublishers.html">folkd for Web Publishers</a>
 	
 		<br>
