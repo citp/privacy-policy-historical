@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerblocktv.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128093531id_/http%3A//powerblocktv.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerblocktv.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429205031id_/http%3A//www.powerblocktv.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Disclaimer
 
