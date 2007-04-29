@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216103553id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429213057id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
 
-# Regtransfers.co.uk - Our Privacy Policy
+# Regtransfers.co.uk ::: Our Privacy Policy
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
