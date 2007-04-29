@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214170843id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429102405id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
 
 # Powerhouse Fitness: Privacy Policy
 
@@ -8,10 +8,7 @@
 
 [ ](http://www.powerhouse-fitness.co.uk/store/terms.asp#security?)
 
-|  |  | 
-
-You are not logged in. [**Log in**](https://web.archive.org/web/20061214170843id_/http%3A//www.powerhouse-fitness.co.uk/store/customer_login.asp) or [**sign up**](https://web.archive.org/web/20061214170843id_/http%3A//www.powerhouse-fitness.co.uk/store/customer_newuser.asp) for special offers and downloads.   
-  
+|  |  |   
 ---|---  
   
   
@@ -74,4 +71,7 @@ This will then bring up the window below. Click ‘ **Always allow this site to 
 Note that switching on cookies for Powerhouse-fitness will have no bearing on the rest of your cookie settings for any other websites. For more information on Cookies and what they are, please see [ Microsoft's official Cookie page](http://www.microsoft.com/info/cookies.mspx). 
 
    
-  |   |  
+  |   |    
+  
+  
+
