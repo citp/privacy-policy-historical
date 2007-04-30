@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225627id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430074618id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
 
 # Privacy Statement
 
