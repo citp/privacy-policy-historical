@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719110010id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430053450id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
 
 # Criticker - Home of the TCI
 
