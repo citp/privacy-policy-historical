@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218063500id_/http%3A//www.clontech.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430121609id_/http%3A//www.clontech.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-[Home](https://web.archive.org/web/20061218063500id_/http%3A//www.clontech.com/default.asp) > [About](https://web.archive.org/web/20061218063500id_/http%3A//www.clontech.com/about/default.asp) > Website Privacy Policy 
+[Home](https://web.archive.org/web/20070430121609id_/http%3A//www.clontech.com/default.asp) > [About](https://web.archive.org/web/20070430121609id_/http%3A//www.clontech.com/about/default.asp) > Website Privacy Policy 
 
-**Effective Date: This Terms of Use Agreement was last updated on April 27, 2006.**
+**Effective Date: This Terms of Use Agreement was last updated on April 24, 2007.**
 
 ## 1\. Acknowledgement and Acceptance of Terms 
 
@@ -14,61 +14,41 @@ Clontech Laboratories, Inc. is committed to protecting your privacy. This Privac
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Clontech’s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
 
-## 3\. Information We Collect and How We Use It 
+## 3\. Notice
 
-Clontech Laboratories, Inc. collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. 
+Where Clontech collects personal information directly from individuals in the U.S. and EU, it will inform them about the type of personal information collected, the purposes for which it collects and uses the personal information, and the types of non-agent third parties to which the Company discloses or may disclose that information, and the choices and means. Notice will be provided in clear language when individuals are first asked to provide personal information to the Company, or as soon as practicable thereafter, and in any event before the Company uses or discloses the information for a purpose other than that for which it was originally collected. 
 
-**a. Web Server Logs**
+## 4\. Choice
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+Clontech will offer individuals the opportunity to choose (opt-out or opt-in) regarding future correspondence when subscribing to our web site for any current information. The Company will provide individuals with reasonable mechanisms to exercise their choices regarding receipt of information from Clontech. 
 
-• Your Internet protocol address.  
-• The kind of browser or computer you use.   
-• Number of links you click within the site.   
-• State or country from which you accessed the site.   
-• Date and time of your visit.   
-• Name of your Internet service provider.   
-• Web page you linked to our site from.   
-• Pages you viewed on the site. 
+## 5\. Transfers to Agents
 
-**b. Use of Cookies**
+The Company will obtain assurances from their agents that they will safeguard personal information consistently with this Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding. 
 
-Clontech Laboratories, Inc. may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+## 6\. Access and Correction
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
+Upon request, Clontech will grant individuals reasonable access to personal information that it holds about them. In addition, the Company will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. 
 
-Clontech reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value. 
+## 7\. Security
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website. 
+Clontech will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-**c. Use of Personal Information**
+## 8\. Data Integrity
 
-Visitors to our website can register to purchase products. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing products, we will request financial information. Any financial information we collect is used only to bill you for the products you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
+Clontech will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. The Company will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. 
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including the following situations. 
+## 9\. Enforcement
 
-• To fulfill your service requests for services  
-• To protect ourselves from liability  
-• To respond to legal process or comply with law   
-• In connection with a merger, acquisition, or liquidation of the company
+Clontech will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that the Company determines is in violation of this policy will be subject to disciplinary action.
 
-## 4\. Use of Web Beacons or GIF files 
-
-Clontech Laboratories, Inc. web pages may contain electronic images known as web beacons – sometimes also called single-pixel gifs – that allow Clontech to count users who have visited those pages and to deliver co-branded services. Clontech may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
-
-Some of these web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Clontech prohibits web beacons from being used to collect or access your personal information. 
-
-## 5\. Accessing Web Account Information 
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant at [**literature@clontech.com**](mailto:literature@clontech.com). 
-
-## 6\. Changes to this Statement 
+## 10\. Changes to this Statement 
 
 Clontech Laboratories, Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
-## 7\. Contacting Us 
+## 11\. Contacting Us 
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [**orders@clontech.com**](mailto:literature@clontech.com) or send your comments to :
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [**privacy@clontech.com**](mailto:privacy@clontech.com), [**webmaster@clontech.com**](mailto:webmaster@clontech.com), or send your comments to :
 
 **Clontech Laboratories, Inc**  
  **Attn: Customer Service**  
