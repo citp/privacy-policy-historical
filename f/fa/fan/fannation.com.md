@@ -1,111 +1,54 @@
-> *The following text is extracted and transformed from the fannation.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203044817id_/http%3A//network.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fannation.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430223541id_/http%3A//fannation.com/fannation/privacy) for the most accurate reproduction.*
 
-# Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTIST direct Network
+# FanNation | The Republic of Sport
 
-  |  **ARTISTdirect NETWORK - PRIVACY POLICY**
+(As of July 25, 2006)
 
-**Privacy Policy Overview**  
-We understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration, and play. To make sure you understand our approach to online privacy issues, you MUST read this Privacy Policy and our Terms of Use as a condition to using the ARTISTdirect Network.
+FanNation is committed to protecting the privacy of its users to the greatest extent possible. This Privacy Policy ("the Policy") describes how personal information is collected from users of FanNation's Web site located at **www.FanNation.com** ("the Site"), and how that information is used and disclosed in order that you may make an educated decision on whether you would like to use the Site considering all the circumstances, including the Policy. If you use the Site, you are thereby consenting to the terms of this Policy.
 
-We ask you for your personal information when you sign up for our mailing list, when you make a purchase, download music, participate in any community features, access ticket pre-sales or enter a contest or sweepstakes. We also may ask you various questions about your interests or preferences. We use this information to personalize the Site for you, to inform you about or offer you new features or services customized to your preferences, for marketing purposes, to contact you about your purchases, or to notify you if you have won a prize or contest. 
+**_Personal Information_**  
+Personal information is information that specifically identifies a person, such as a name, address, telephone number, e-mail address, credit card or other account number, and information about that person's activities when directly linked to that person such as information about his or her purchases or use of services. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that together identifies a person. Personal information is distinguished from and does not include "aggregate" information. Aggregate information is data that may be collected about a group or category of products, services or users from which individual user identities have been removed, i.e, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Similarly, data about the products you purchase may be collected and combined with information about the products purchased by others. Aggregate data helps FanNation understand user needs and predict trends so that FanNation can more wisely consider new products and services and more accurately match currently existing products and services with user desires.
 
-We'll give you the choice whether to receive email or other contact from us and from any of the companies we work with, and we give you the opportunity to unsubscribe from receiving unwanted communications (click here for instructions.) Also, we provide the opportunity for you to update and/or correct information we have about you (click here for instructions.) 
+**_Personal Information Collected by FanNation_**  
+You provide personal information to FanNation in a number of ways when you visit the Site or use the various services and activities available on the Site. For example, you provide FanNation with personal information when you: (1) register on the Site; (2) participate or make postings in any interactive areas of the Site; (3) submit/post an article or comment to the Site and voluntarily include your name or other personal information (including, without limitation, any personally identifying photographs or images you submit/post); or (4) contact FanNation by email for any reason.   
+FanNation also collects personal information from you if you submit a job application or resume to FanNation via email. Personal information collected in this regard includes your name and email address, as well as other employment related information that you provide to FanNation in the resume and/or application.  
+When you visit the Site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of "Cookies." Cookies are small files that are stored on your computer by a Web site to give you a unique identification. FanNation also uses cookies on the Site to keep track of services you have used, to record registration information regarding your login name and password, to ensure you do not repeatedly see advertisements, to record your user preferences and to keep you logged into the Site. FanNation treats automatically collected information as personal information only if combined with or linked to any of the personally identifying information described above. Otherwise, it is used in the aggregate only. Additionally, FanNation uses, and allows third parties to use, "Web Beacons" on the Site to monitor the effectiveness of advertising or for other legitimate purposes. Web Beacons are small, graphic images on Web pages or Web-based documents or in email messages that allow FanNation or third parties to monitor who is visiting the Site or if the email should be read. Web beacons collect the IP address of the computer that the Web Beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web Beacons can also be linked to your personal information. FanNation may use third parties advertisers to deliver ads to you on FanNation's behalf. These third-party advertisers may also use Cookies, Web Beacons or other technology to collect non-personally identifiable information about your visits to the Site in order to use it to present advertisements that may be more pertinent to you.
 
-We do not sell your personally identifiable information. We may, however, share it with companies that help us operate the Site, such as our credit card companies and the company that packages and ships our merchandise for delivery to you. We might also share it with prize providers for our sweepstakes and contests. If you've given us your permission, we may share your personal information with other companies that provide products or services we think will be of interest to you, and we may send you information in connection with the musical preferences you have selected. We use industry-standard efforts to safeguard any personal information, and any financial information we receive from you is encrypted. However, we may be required to release personal information about you as a result of a law suit or subpoena or as immediately necessary to protect our rights or the rights and safety of other users. Remember though, "perfect security" doesn't exist on the Internet. 
+**_How Collected Information is Used_**  
+For the most part, FanNation uses personal information to process your requests or transactions, provide you with products and services, and inform you about other products or services which may be of interest to you. For example, but not by way of limitation, FanNation uses the information it collects to (i) contact you for administrative purposes or provide you with customer service; (ii) complete transactions requested by you or to verify that you have submitted an article or comment; (iii) respond to any questions, problems or complaints, or request feedback; (iv) organize the Site and its various services and activities to better serve you and customize or develop FanNation's products and services; and (v) send you emails or other communications containing information about products and services that you might find of interest. Personal information provided on the Site may be linked together or merged with other personal information we obtained about you to more accurately understand your needs and inform you about FanNation's products or services and those of FanNation's business partners. In addition, if FanNation receives personal information from third parties, it may combine this information with the other personal information FanNation maintains about you. In either case, this Policy governs this information.
 
-For a complete discussion of the terms of our Privacy Policy, please see the FAQ below. This Privacy Policy is incorporated into and subject to our Terms of Use. ARTISTdirect may modify this Privacy Policy at any time. You are responsible for reviewing our Privacy Policy before using the Sites or providing any information. If you believe we have violated these policies, please notify us, and we will promptly investigate and try to remedy the problem (click here for instructions.)
+**_Disclosure of Information_**  
+FanNation will not sell, license or share personal information about with third parties without your prior consent except in the limited circumstances described in this Policy. As partially described above, personal information is shared with third-party vendors who assist FanNation in performing internal functions necessary to operate FanNation's business. These functions may include, for example, analyzing data and providing marketing or advertising assistance. In all cases, FanNation strives to limit the information shared with its third-party vendors to that which is necessary to carry out those functions. You are solely responsible for any information you provide to these parties directly, and FanNation encourages you to become familiar with their practices before disclosing information directly to them. FanNation also discloses personal information when it believe appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this Policy or FanNation's other policies or agreements; to initiate, render, bill and collect for amounts owed to FanNation; to protect FanNation's or FanNation's users' rights, property or safety; to protect FanNation's users from fraudulent, abusive, or unlawful use of FanNation's Site; or if FanNation believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. Additionally, information about FanNation's users, including personally identifiable information, may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of FanNation's business assets.
 
-**Frequently Asked Questions**
+**_Links to Other Web Sites_**  
+The Site contains links to other Web sites. Links from the Site to other sites or content are provided for your convenience only, and FanNation does not have control over the content or privacy and security practices and policies, if any, of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy, if any. You are encouraged to learn about their privacy and security practices and policies before providing them with personal information.
 
-What information do we collect?  
-How do we use the personal information we collect?  
-Is the Site secure so that other people can not obtain your information from the site without your consent?  
-Limits on our abilities  
-What about the privacy of users who are 13 and under?  
-How can you change or correct the personal information you provided to us?  
-What about cookies?
+**_Choice and Access_**  
+To request access to or that we correct or delete your personal information, or to opt-out of receiving communications from FanNation, you have the following options: (1) follow the "Unsubscribe" instructions contained in the communication from FanNation; (2) email FanNation at privacy@FanNation.com; or (3) write to FanNation at the following address with your request:
 
-**What information do we collect?**  
-The information we collect that falls into one of two categories - personally identifiable information and aggregated information. Personally identifiable information is information that can be used to identify you. Aggregated information is information that is not associated with a specific user, but instead anonymous information on many users, such as the number of visitors to the Site in a month's time. We collect personally identifiable information (such as name, email, residence address, and credit card information) whenever you voluntarily submit it to the Site. Examples of information that you submit voluntarily include: when you make a purchase, answer our polls, enter sweepstakes or contests, fill out the registration page, send us feedback, download music, or post in our chat rooms or to our message boards. If you register, we might also ask you about your musical preferences or other information to customize the Site for you. You always have the option of choosing not to reveal this personally identifiable information to us, although certain services may be unavailable if you do not. In the event of a complaint, we may also receive and collect personally identifiable information about you from other users or third parties who may communicate information to us about you in relation to such a complaint. In addition, we collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts. 
+FanNation  
+50 Albany Turnpike  
+Suite 2020  
+Canton, CT 06019 
 
-**Third Party Advertising**   
-In addition to what we have explained above, we use DoubleClick and other third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Sites in order to provide advertisements on the Site about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/naiprivacy). 
+If FanNation decides in the future to share personal information with any third parties for any third party direct marketing purposes, the Policy will be updated to reflect such change and provide you with the opportunity to opt-out of such disclosure of your personal information. Please note that opting out of receiving communications from FanNation will not prevent you from receiving administrative communications, such as those concerning the operation of the Site or about an article or comment you have submitted.
 
-back to FAQ
+**_Children under 13_**  
+The Site is neither intended nor designed for Children under the age of 13, nor to collect personal information from children under the age of 13. If you are under 13 years old, you should not register with, use or otherwise provide personal information to the Site.
 
-**How do we use the personal information we collect?**  
-ARTISTdirect uses both aggregated and personally identifiable information to operate and enhance our Sites and to enhance your experience by displaying content and marketing messages that we believe will be of interest to you. 
+**_Security_**  
+Reasonable security measures are used on the Site in an effort to prevent loss, misuse and alteration of information under FanNation's control. FanNation cannot, however, guarantee protection of all information against interception, misappropriation, misuse, or alteration, or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Moreover, FanNation has no control over the security of other sites you might visit, interact with or do business with.  
+Information you provide through the Site is protected by an encryption technology to ensure privacy and security. Your registration information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site by any person using your password. Please advise FanNation immediately if you believe your password has been misused or otherwise misappropriated.
 
-We do not sell your personally identifiable information to third parties. However, if you give us your permission, we may share your personally identifiable information with third parties. 
+**_Policy Changes_**  
+This Policy will be modified by FanNation if its privacy practices materially change in the future. FanNation will notify you of such changes only by posting the new policy on the Site and indicating at the top of the Policy the date it was last updated. FanNation encourages you to review the Policy each time you visit the Site to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
 
-We also may share your personally identifiable information with third parties who provide services to us in order to enhance the functionality available to you as part of the Sites. 
+**_Conditions of Use_**  
+If you decide to visit the Site website, your visit and any possible dispute over privacy is subject to this and FanNation's Terms of Use, including limitations on damages, arbitration of disputes, and application of Connecticut state law and Hartford County, Connecticut venue.
 
-We use the personal information we collect to communicate with you purchases, to deliver purchases, to notify you if you've won a prize for a contest that you've entered, or to be able to personalize a part of the site with the services and information you choose. If you choose to subscribe to our newsletter, we use your personal information to select and deliver messages to you. 
-
-ARTISTdirect uses aggregated information to sell and deliver advertising. We disclose aggregated information about our Site to third parties, including information regarding the effectiveness of our advertisers' advertisements. Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in our Site's shopping areas. Remember, information you provide as part of your community Profile of preferences ([User Profiles](http://bbs.artistdirect.com/memberlist.php?s=)) is not confidential, and is accessible by the public. Similarly, any information you provide in chat rooms, message boards, or other public forums is not confidential and we may not remind you, so please keep this in mind if you're going to use these parts of our Site. Your choice to disclose personally identifiable information in such cases is up to you. 
-
-In addition, if ARTISTdirect is acquired by or merges with another company, we may transfer your information to such a company. 
-
-back to FAQ
-
-**Is the Site secure so that other people can not obtain your information from the site without your consent?**  
-Personal information that we collect is stored in secure operating environments that are not available to the public. Credit card information is encrypted. All the information we collect and store is protected by our firewall. Also, any information that we store at our business is kept secure, and only designated employees may obtain access to it. However, "perfect security" does not exist on the Internet. 
-
-back to FAQ
-
-**Limits on our abilities**  
-We'll do everything we can to protect you and your personal information, but we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. We may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. If we need to investigate or resolve possible problems or inquiries, we may use any information about you to help private entities, law enforcement, or other government officials as we believe necessary. 
-
-back to FAQ
-
-**What about the privacy of users who are 13 and under?**  
-We're committed to protecting the safety and privacy of all our users, especially those who are under 13. To this end, we comply with the Children's Online Privacy Protection Act (16 C.F.R. Part 312). We do not collect or display the individually identifying information of users who are under the age of 13. Except for the community areas of the ARTISTdirect Network, if you're under 13, you will be able to create a user name and passcode, but we won't keep any information that's personal to you. In addition, because we do not collect your individually identifying information if you are under 13, you will not receive any direct communications from ARTISTdirect. If you would like to learn more about the Children's Online Privacy Protection Act, please visit the Federal Trade Commission's website at <http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm>. 
-
-back to FAQ
-
-**How can you change or correct the personal information you provided to us?**  
-You can click here or call us here to request changes to your basic user information. If you would like to know what personal information you have given us, click here for instructions for instructions. We will have to verify your identity before we confirm the information we have and before you can make any changes. 
-
-back to FAQ
-
-**What about cookies?**  
-Cookies are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major websites use them to provide useful features for their users. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of a website if you do so. For more information on cookies, see [www.cookiecentral.com](http://www.cookiecentral.com/). 
-
-We use cookies or IP addresses for a number of uses, including helping us to tailor a website or a marketing message to better match your needs and interests, and to allow us to better understand how users use our Site. You are always free to instruct your web browser to decline our cookies if it has the capability to do so, but some parts of our Site may not work properly if you do. 
-
-Third Party Cookies  
-In the course of serving advertisements to the Site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Even though these advertisements are embedded in our Sites, cookies may be assigned by the advertisers themselves. ARTISTdirect does not control these cookies. To find out more about these "cookies," [click here](http://www.doubleclick.net/naiprivacy). 
-
-back to FAQ
-
-Choice/Opt-Out  
-Our Site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-> 1.send email to [customerservice@artistdirect.com](mailto:customerservice@artistdirect.com)  
->  2\. call the toll-free: 1-877-5-ARTIST (1-877-527-8478)
-
-****
-
-**Reviews/Correct/Update**
-
-ARTISTdirect.com gives users the following options for reviewing and modifying information previously provided. 
-
-> 1\. email _[customerservice@artistdirect.com](mailto:customerservice@artistdirect.com)   
->  _2\. call toll-free 1-877-5-ARTIST (1-877-527-8478)
-
-****
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-_Customer Service  
-ARTISTdirect, Inc.  
-5670 Wilshire Blvd., Suite 200  
-Los Angeles, CA 90036  
-USA  
-Email: [policy@ubl.com](mailto:policy@ubl.com)  
-Phone: 1-877-5-ARTIST (1-877-527-8478)_  
-  
----|---
+**_Further Questions_**  
+If you have any further questions about this Policy, or the practices of or your dealings with the Site, please email FanNation at privacy@FanNation.com or write at:  
+Sports Technologies, Inc.  
+10 Front Street  
+Suite 301  
+Canton, CT 06019
