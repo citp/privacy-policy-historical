@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112090909id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430203258id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
 
-# WJACTV.com - WJAC-TV - Privacy Policy
+# Privacy Policy - WJAC-TV News Story - WJAC Johnstown
 
 Effective date: 2/6/03 
 
