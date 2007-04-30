@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214249id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430085422id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK.com | Powered by The Oklahoman and NEWS 9
 
@@ -31,8 +31,6 @@ To gain a better understanding of our users and their usage pattern as a whole
 
 
     * To communicate changes and improvements to our website or any registration you have made 
-
-
 
 NewsOK does not give away, sell, rent or lease its users' personally identifiable information to any merchant, advertiser or web publisher. Non-personally identifiable user information (such as usage pattern, browser type and your computer) may be shared with third party businesses or advertisers with which we have a business or contractual relationship. We reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of NewsOK's or its affiliates assets.
 
