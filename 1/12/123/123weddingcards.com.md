@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216203226id_/http%3A//123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430033038id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 123weddingCards : Privacy Policy of 123WeddingCards.com
 
@@ -38,7 +38,7 @@ Our Couriers :
 |   
 ---|---|---|---|---|---|---|---|---|---|---  
   
-©2001-2006 Charu Overseas. All rights reserved  
+©2001-2007 Charu Overseas. All rights reserved  
   
 ---  
 ...a [ GetCyberhome](http://www.getcyberhome.com/) creation
