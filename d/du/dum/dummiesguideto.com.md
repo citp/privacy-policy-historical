@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dummiesguideto.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212230516id_/http%3A//www.dummiesguideto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummiesguideto.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430121413id_/http%3A//www.dummiesguideto.com/privacy.php) for the most accurate reproduction.*
 
 # Free article content at The Dummies Guide to Everything
 
