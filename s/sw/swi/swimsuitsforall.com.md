@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231145350id_/http%3A//www.swimsuitsforall.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430192321id_/http%3A//www.swimsuitsforall.com/Privacy.html) for the most accurate reproduction.*
 
 # Swimsuits For All -
 
@@ -44,7 +44,7 @@ You also have the ability to change your contact preferences at any time by foll
 
 Access to your Personal Information
 
-You may update, edit or delete the personal information you have shared with Swimsuits For All, or change your contact preferences, at any time when you are signed in to the Swimsuits For All site, from within the My Account page by following visiting [Members-edit.html](https://web.archive.org/web/20061231145350id_/http%3A//www.swimsuitsforall.com/Members-edit.html) when logged into the Swimsuits For All site.
+You may update, edit or delete the personal information you have shared with Swimsuits For All, or change your contact preferences, at any time when you are signed in to the Swimsuits For All site, from within the My Account page by following visiting [Members-edit.html](https://web.archive.org/web/20070430192321id_/http%3A//www.swimsuitsforall.com/Members-edit.html) when logged into the Swimsuits For All site.
 
 If you have difficulty modifying any of your information, please send e-mail to [help@swimsuitsforall.com](mailto:%20help@swimsuitsforall.com) to receive further assistance.
 
@@ -96,4 +96,4 @@ Swimsuits For All will occasionally update this privacy statement to reflect com
 
 Contact Information
 
-Swimsuits For All welcomes your comments regarding this privacy statement. If you believe that Swimsuits For All has not adhered to this statement, please contact us by e-mail, and we will use commercially reasonable efforts to promptly determine and remedy the problem. Please send e-mails to [help@swimsuitsforall.com](mailto:help@swimsuitsforall.com) or postal mail to SwimsuitsForAll.com, 1720 Hwy 34, Block 942 Lot 82, PO Box 1349, Wall, NJ 07719. Swimsuitsforall.com is a BargainBeachwear.com web site and can be contacted using the address above.
+Swimsuits For All welcomes your comments regarding this privacy statement. If you believe that Swimsuits For All has not adhered to this statement, please contact us by e-mail, and we will use commercially reasonable efforts to promptly determine and remedy the problem. Please send e-mails to [help@swimsuitsforall.com](mailto:help@swimsuitsforall.com) or postal mail to SwimsuitsForAll.com, 262 Old New Brunswick Road, Piscataway New Jeresey, 08854. Swimsuitsforall.com is a BargainBeachwear.com web site and can be contacted using the address above.
