@@ -1,69 +1,10 @@
-<!--The following is the downloaded HTML source of the itftennis.com privacy policy that was archived on 2006-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061119111622id_/http%3A//www.itftennis.com/abouttheitf/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itftennis.com privacy policy that was archived on 2007-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070430203213id_/http%3A//www.itftennis.com/abouttheitf/legal/privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-    <!--
-       // Clear all the current options in the parse select object 
-
-function fnRelationClearOption(strObject) {
-			
-			// DELETE all options in MediaDesc list before building the new list.
-			var intSelectLen = strObject.length;
-			for (var j = 0; j < intSelectLen ; j++) {
-				strObject.options[0] = null;
-			}
-		}
-
-function jsGetOptions(sRegionCode, sType,sTennisCategory){
-var xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-  xmlhttp.open("GET","/shared/libs/lib.dynamicNationlist.asp?region=" + sRegionCode +"&tenniscategory=" +sTennisCategory,false);
- 	    xmlhttp.send();
-        return xmlhttp.responseText;
-	}
-
-  function JSBuildList (sTarget, sRegionCode, sType,objAutoClear,sTennisCategory) {
-			if (objAutoClear != "") {
-				var objDisableElm = null;
-				var arrClearElements = objAutoClear.split("|")
-				for (var k =0; k < arrClearElements.length; k++) {
-					objDisableElm = eval( arrClearElements[k] );
-					fnRelationClearOption(objDisableElm);
-					objDisableElm.disabled = true;
-				}
-			} else {
-				fnRelationClearOption (document.getElementById(sTarget));
-			}
- var strOptions = jsGetOptions(sRegionCode, sType,sTennisCategory);
-var arrOptions = strOptions.split("|")
-	 if (sType == "nation") {
-          var newOption = document.createElement("OPTION")
-          newOption.text = "None";
-          newOption.value = "null";
-//var where = (navigator.appName == "Microsoft Internet Explorer") ? -1 : null;
-       //document.getElementById(sTarget).add(newOption);
-        }
-        for (var i = 0; i < arrOptions.length-1; i++) {
-          var arrValues = arrOptions[i].split("^")
-           if (arrValues[0] != "0") {  
-            var newOption = document.createElement("OPTION")
-            newOption.text = arrValues[1];
-            newOption.value = arrValues[0];
-            document.getElementById(sTarget).add(newOption);
-          } else { 
-            //alert("The '"+ strType +"' select box has no options.\n Please alert the Administrator.") 
-          }
-        }
-      }
-
-
-    //-->
-    </script>
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>ITF Tennis - About the ITF - Privacy Policy</title>
 <base href="http://www.itftennis.com/abouttheitf/">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Type" content="text/html;charset=windows-1252;">
 <meta name="description" content="The website of the International Tennis Federation, the world governing body of tennis - information on all aspects of tennis including players, records, rules and events such as Davis Cup and Fed Cup.">
 <meta name="keywords" content="Tennis,ITF,Davis Cup,DavisCup,Fed Cup,FedCup,Wimbledon,International Tennis Federation,Sports,Sport,Sporting">
 <link href="_assets/style/style.css" type="text/css" rel="stylesheet">
@@ -77,8 +18,7 @@ var arrOptions = strOptions.split("|")
 <body>
 <a name="top"></a>
 
-<!-- General ASP/HTML code specific to this weblet -->
-<!-- End specific code --><table width="760" border="0" cellpadding="0" cellspacing="0" align="center">
+<table width="760" border="0" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr><td colspan="2"><img src="_assets/images/topstrip760.gif" width="760" height="2" alt="" border="0"></td></tr>
 <tr>
 <td width="330" class="blackback"><a href="/" border="0"><img src="/shared/images/frame/ITFBlackBar400x25.gif" width="400" height="25" alt="Return to the ITF homepage" border="0"></a></td>
@@ -114,8 +54,6 @@ var arrOptions = strOptions.split("|")
 </td>
 </tr>
 </tbody></table>
-
-
 		
 <table width="760" border="0" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr><td><a href=""><img src="_assets/images/webletheader.gif" width="760" height="70" border="0" alt="Return to the About the ITF homepage" usemap="#topbanner"></a></td></tr>
@@ -155,29 +93,30 @@ oCMenu.makeMenu('m1389','m1245','Facts & Figures','http://www.itftennis.com/abou
 oCMenu.makeMenu('m1344','m1343','Latest News','http://www.itftennis.com/abouttheitf/news/index.asp','','120')
 oCMenu.makeMenu('m1371','m1370','Overview','http://www.itftennis.com/abouttheitf/abouttheitf/index.asp','','120')
 oCMenu.makeMenu('m1390','m1384','Overview','http://www.itftennis.com/abouttheitf/rulesregs/index.asp','','150')
-oCMenu.makeMenu('m1408','m1387','Overview','http://www.itftennis.com/abouttheitf/commercial/index.asp','','100')
-oCMenu.makeMenu('m1424','m1385','Overview','http://www.itftennis.com/abouttheitf/worldwide/index.asp','','180')
 oCMenu.makeMenu('m1398','m1386','National Associations Address List','http://www.itftennis.com/abouttheitf/nationalassociations/index.asp','','200')
 oCMenu.makeMenu('m1399','m1388','ITF Publications','http://www.itftennis.com/abouttheitf/publications/index.asp','','150')
 oCMenu.makeMenu('m1404','m1389','Overview','http://www.itftennis.com/abouttheitf/facts/index.asp','','103')
+oCMenu.makeMenu('m1408','m1387','Overview','http://www.itftennis.com/abouttheitf/commercial/index.asp','','100')
+oCMenu.makeMenu('m1424','m1385','Overview','http://www.itftennis.com/abouttheitf/worldwide/index.asp','','180')
+oCMenu.makeMenu('m1410','m1387','Sponsorship','http://www.itftennis.com/abouttheitf/commercial/sponsorship','','100')
 oCMenu.makeMenu('m1405','m1389','ITF Database','http://www.itftennis.com/abouttheitf/facts/database.asp','','103')
 oCMenu.makeMenu('m1400','m1388','ITF Year','http://www.itftennis.com/abouttheitf/publications/itfyear.asp','','150')
-oCMenu.makeMenu('m1443','m1343','News Archive','http://www.itftennis.com/abouttheitf/news/archive.asp','','120')
-oCMenu.makeMenu('m1410','m1387','Sponsorship','http://www.itftennis.com/abouttheitf/commercial/sponsorship','','100')
 oCMenu.makeMenu('m1391','m1384','Rules of Tennis','http://www.itftennis.com/abouttheitf/rulesregs/rules.asp','','150')
 oCMenu.makeMenu('m1372','m1370','Role of the ITF','http://www.itftennis.com/abouttheitf/abouttheitf/role.asp','','120')
+oCMenu.makeMenu('m1443','m1343','Search Articles','http://www.itftennis.com/abouttheitf/news/archive.asp','','120')
 oCMenu.makeMenu('m3118','m1385','History of Tennis','http://www.itftennis.com/abouttheitf/worldwide/history.asp','','180')
 oCMenu.makeMenu('m1481','m1385','Davis Cup by BNP Paribas','http://www.itftennis.com/abouttheitf/worldwide/daviscup.asp','','180')
 oCMenu.makeMenu('m1374','m1370','Structure','http://www.itftennis.com/abouttheitf/abouttheitf/structure','','120')
 oCMenu.makeMenu('m1379','m1343','This Week ','http://www.itftennis.com/abouttheitf/news/thisweekarchive.asp','','120')
-oCMenu.makeMenu('m1394','m1384','Rulebooks','http://www.itftennis.com/abouttheitf/rulesregs/rulebooks.asp','','150')
-oCMenu.makeMenu('m1425','m1387','TV','http://www.itftennis.com/abouttheitf/commercial/tv','','100')
 oCMenu.makeMenu('m1401','m1388','Davis Cup Yearbook','http://www.itftennis.com/abouttheitf/publications/daviscupyearbook.asp','','150')
 oCMenu.makeMenu('m1406','m1389','Roll Of Honour','http://www.itftennis.com/abouttheitf/facts/rollofhonour.asp','','103')
+oCMenu.makeMenu('m1425','m1387','TV','http://www.itftennis.com/abouttheitf/commercial/tv','','100')
+oCMenu.makeMenu('m1394','m1384','Rulebooks','http://www.itftennis.com/abouttheitf/rulesregs/rulebooks.asp','','150')
+oCMenu.makeMenu('m1395','m1384','Technical Role','http://www.itftennis.com/abouttheitf/rulesregs/technical.asp','','150')
+oCMenu.makeMenu('m1409','m1387','ITF Foundation','http://www.itftennis.com/abouttheitf/commercial/foundation.asp','','100')
+oCMenu.makeMenu('m1436','m1343','Photo Galleries','http://www.itftennis.com/abouttheitf/news/galleryarchive.asp','','120')
 oCMenu.makeMenu('m1407','m1389','Results','http://www.itftennis.com/abouttheitf/facts/results.asp','','103')
 oCMenu.makeMenu('m1403','m1388','ITFWorld','http://www.itftennis.com/abouttheitf/publications/itfworld.asp','','150')
-oCMenu.makeMenu('m1409','m1387','ITF Foundation','http://www.itftennis.com/abouttheitf/commercial/foundation.asp','','100')
-oCMenu.makeMenu('m1395','m1384','Technical Role','http://www.itftennis.com/abouttheitf/rulesregs/technical.asp','','150')
 oCMenu.makeMenu('m1381','m1370','History of the ITF','http://www.itftennis.com/abouttheitf/abouttheitf/history.asp','','120')
 oCMenu.makeMenu('m1482','m1385','Fed Cup by BNP Paribas','http://www.itftennis.com/abouttheitf/worldwide/fedcup.asp','','180')
 oCMenu.makeMenu('m1483','m1385','Olympic / Paralympic Tennis','http://www.itftennis.com/abouttheitf/worldwide/olympics.asp','','180')
@@ -194,35 +133,34 @@ oCMenu.makeMenu('m1485','m1385','Hyundai Hopman Cup','http://www.itftennis.com/a
 oCMenu.makeMenu('m2093','m1385','Nations Senior Cup','http://www.itftennis.com/abouttheitf/worldwide/seniorcup.asp','','180')
 oCMenu.makeMenu('m1428','m1385','Calendars','http://www.itftennis.com/abouttheitf/worldwide/calendars.asp','','180')
 oCMenu.makeMenu('m1375','m1374','Overview','http://www.itftennis.com/abouttheitf/abouttheitf/structure/index.asp','','160')
-oCMenu.makeMenu('m1411','m1410','Overview','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/index.asp','','150')
+oCMenu.makeMenu('m1411','m1410','Overview','http://www.itftennis.com/abouttheitf/commercial/sponsorship/index.asp','','150')
 oCMenu.makeMenu('m1426','m1425','Overview','http://www.itftennis.com/abouttheitf/commercial/tv/index.asp','','100')
 oCMenu.makeMenu('m1692','m1691','Overview','http://www.itftennis.com/abouttheitf/worldwide/grandslams/index.asp','','130')
 oCMenu.makeMenu('m2972','m2971','News','http://www.itftennis.com/abouttheitf/worldwide/tmc/index.asp','','120')
-oCMenu.makeMenu('m1696','m1691','Australian Open','http://www.itftennis.com/abouttheitf/worldwide/grandslams/ausopen.asp','','130')
-oCMenu.makeMenu('m1427','m1425','ITF Archive','http://www.itftennis.com/abouttheitf/commercial/tv/archive.asp','','100')
-oCMenu.makeMenu('m1412','m1410','BNP Paribas','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/bnpparibas.asp','','150')
-oCMenu.makeMenu('m1377','m1374','Nat&#39;l Associations & AGM','http://www.itftennis.com/abouttheitf/abouttheitf/structure/nationalassociations.asp','','160')
 oCMenu.makeMenu('m2973','m2971','History','http://www.itftennis.com/abouttheitf/worldwide/tmc/history.asp','','120')
-oCMenu.makeMenu('m2977','m2971','Roll of Honour','http://www.itftennis.com/abouttheitf/worldwide/tmc/rollhonour.asp','','120')
+oCMenu.makeMenu('m1427','m1425','ITF Archive','http://www.itftennis.com/abouttheitf/commercial/tv/archive.asp','','100')
+oCMenu.makeMenu('m1696','m1691','Australian Open','http://www.itftennis.com/abouttheitf/worldwide/grandslams/ausopen.asp','','130')
+oCMenu.makeMenu('m1377','m1374','Nat&#39;l Associations & AGM','http://www.itftennis.com/abouttheitf/abouttheitf/structure/nationalassociations.asp','','160')
+oCMenu.makeMenu('m1412','m1410','BNP Paribas','http://www.itftennis.com/abouttheitf/commercial/sponsorship/bnpparibas.asp','','150')
 oCMenu.makeMenu('m1376','m1374','Board of Directors','http://www.itftennis.com/abouttheitf/abouttheitf/structure/board.asp','','160')
-oCMenu.makeMenu('m1413','m1410','Adecco','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/adecco.asp','','150')
 oCMenu.makeMenu('m1695','m1691','Roland Garros','http://www.itftennis.com/abouttheitf/worldwide/grandslams/rolandgarros.asp','','130')
-oCMenu.makeMenu('m1421','m1410','Camozzi','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/camozzi.asp','','150')
+oCMenu.makeMenu('m3501','m1410','Rolex','http://www.itftennis.com/abouttheitf/commercial/sponsorship/rolex.asp','','150')
+oCMenu.makeMenu('m2977','m2971','Roll of Honour','http://www.itftennis.com/abouttheitf/worldwide/tmc/rollhonour.asp','','120')
 oCMenu.makeMenu('m1693','m1691','Wimbledon','http://www.itftennis.com/abouttheitf/worldwide/grandslams/wimbledon.asp','','130')
 oCMenu.makeMenu('m1378','m1374','Executive Officers','http://www.itftennis.com/abouttheitf/abouttheitf/structure/executive.asp','','160')
+oCMenu.makeMenu('m1413','m1410','Adecco','http://www.itftennis.com/abouttheitf/commercial/sponsorship/adecco.asp','','150')
 oCMenu.makeMenu('m1380','m1374','Committees & Commissions','http://www.itftennis.com/abouttheitf/abouttheitf/structure/committees.asp','','160')
+oCMenu.makeMenu('m1421','m1410','Camozzi','http://www.itftennis.com/abouttheitf/commercial/sponsorship/camozzi.asp','','150')
 oCMenu.makeMenu('m1694','m1691','US Open','http://www.itftennis.com/abouttheitf/worldwide/grandslams/usopen.asp','','130')
-oCMenu.makeMenu('m1477','m1410','Fossil','http://www.itftennis.com/abouttheitf/commercial/sponsorship/fossil.asp','','150')
-oCMenu.makeMenu('m1416','m1410','Getronics','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/getronics.asp','','150')
-oCMenu.makeMenu('m1415','m1410','BOSS Hugo Boss','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/hugoboss.asp','','150')
-oCMenu.makeMenu('m1419','m1410','Invacare','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/invacare.asp','','150')
-oCMenu.makeMenu('m1414','m1410','Kia','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/kia.asp','','150')
+oCMenu.makeMenu('m1415','m1410','BOSS Hugo Boss','http://www.itftennis.com/abouttheitf/commercial/sponsorship/hugoboss.asp','','150')
+oCMenu.makeMenu('m1419','m1410','Invacare','http://www.itftennis.com/abouttheitf/commercial/sponsorship/invacare.asp','','150')
+oCMenu.makeMenu('m1414','m1410','Kia','http://www.itftennis.com/abouttheitf/commercial/sponsorship/kia.asp','','150')
 oCMenu.makeMenu('m2888','m1410','Lufthansa','http://www.itftennis.com/abouttheitf/commercial/sponsorship/lufthansa.asp','','150')
-oCMenu.makeMenu('m1420','m1410','NEC','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/nec.asp','','150')
+oCMenu.makeMenu('m1420','m1410','NEC','http://www.itftennis.com/abouttheitf/commercial/sponsorship/nec.asp','','150')
 oCMenu.makeMenu('m2717','m1410','NTT Communications','http://www.itftennis.com/abouttheitf/commercial/sponsorship/ntt.asp','','150')
 oCMenu.makeMenu('m1893','m1410','NH Hoteles','http://www.itftennis.com/abouttheitf/commercial/sponsorship/nhhoteles.asp','','150')
 oCMenu.makeMenu('m3357','m1410','SEGA','http://www.itftennis.com/abouttheitf/commercial/sponsorship/sega.asp','','150')
-oCMenu.makeMenu('m1417','m1410','Wilson Sporting Goods','http://www.itftennis.com/abouttheitf/commercial/Sponsorship/wilson.asp','','150')
+oCMenu.makeMenu('m1417','m1410','Wilson Sporting Goods','http://www.itftennis.com/abouttheitf/commercial/sponsorship/wilson.asp','','150')
 
 
 
@@ -325,7 +263,7 @@ We may use personal information collected about you to personalise your visits t
 <br>
 We may use personal information collected about you to let you know about functionality changes to our web site or changes to our terms and conditions of use.<br>
 <br>
-Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our <a href="/feedback.asp?id=7">feedback form</a>.<br>
+Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our <a href="/feedback.asp?userid=7">feedback form</a>.<br>
 <br>
 <b>Traffic Data</b><br>
 <br>
@@ -382,7 +320,7 @@ A cookie is a piece of information that is stored on your computer's hard drive 
 <td width="80" class="footer"><a class="white" href="contact.asp">Contact Us</a></td> 
 </tr> 
 <tr><td class="smallprint" colspan="3">
-© Copyright 2003 by ITF Licensing (UK) Ltd. All rights reserved. No portion of this website may be duplicated, redistributed, or manipulated in any form. By accessing any information beyond this page, you agree to abide by the itftennis.com <a href="legal/privacy.asp" style="color: #999;">Privacy Policy</a> and <a href="legal/terms.asp" style="color: #999;">Terms and Conditions</a>.
+© Copyright by ITF Licensing (UK) Ltd. All rights reserved. No portion of this website may be duplicated, redistributed, or manipulated in any form. By accessing any information beyond this page, you agree to abide by the itftennis.com <a href="legal/privacy.asp" style="color: #999;">Privacy Policy</a> and <a href="legal/terms.asp" style="color: #999;">Terms and Conditions</a>.
 </td></tr> 
 </tbody></table>
 
