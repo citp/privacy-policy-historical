@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the trueship.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163449id_/http%3A//trueship.com/TruePrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueship.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430043530id_/http%3A//trueship.com/TrueShip-Privacy.html) for the most accurate reproduction.*
 
-# TrueShip Shipping Software
+# TrueShip - Privacy Policy
 
-|    
----  
-  
+**Privacy Policy**
+
 **Our Pledge to You, Our Customer **  
 
 
-TrueShip™ respects your privacy. We do not sell, rent, loan or transfer any personal information regarding our customers to any unrelated third parties. Any information you give us is held with the utmost care and security and will not be used in ways to which you have not consented.   
+TrueShip respects your privacy. We do not sell, rent, loan or transfer any personal information regarding our customers to any unrelated third parties. Any information you give us is held with the utmost care and security and will not be used in ways to which you have not consented.   
 
 
 Information collected on our web site is collected and used by TrueShip, LLC. and its affiliates. TrueShip will not collect any personal or business information except when specifically and knowingly provided. Examples of personally identifiable information include full name, address, email address and phone number.   
