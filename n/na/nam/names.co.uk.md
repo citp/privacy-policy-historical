@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010045927id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430084603id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: Domain Names, Hosting, Dedicated Server Solutions and Broadband ADSL, Namesco Limited
 
