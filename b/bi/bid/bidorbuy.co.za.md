@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218181228id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430041543id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # bidorbuy - Privacy Policy
 
-[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/help/RatingRules.html) | [Prohibited Goods & Services](https://web.archive.org/static/help/Prohibited.html) | **Privacy Statement**
+[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement**
 
-bidorbuy.co.za PRIVACY STATEMENT  
 This Privacy Statement was last revised on 20 July 2001. 
 
 This privacy statement discloses the privacy practices for the **bidorbuy.co.za site**.
@@ -133,4 +132,4 @@ If we change the way we use your Personally Identifiable Information we will not
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/help/RatingRules.html) | [Prohibited Goods & Services](https://web.archive.org/static/help/Prohibited.html) | **Privacy Statement**
+[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement**
