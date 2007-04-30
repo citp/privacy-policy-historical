@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljseek.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206004203id_/http%3A//www.ljseek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljseek.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430074641id_/http%3A//www.ljseek.com/privacy.php) for the most accurate reproduction.*
 
 # LJSEEK.COM: Privacy Policy
 
