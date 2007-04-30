@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the draft.com privacy policy that was archived on 2006-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618223207id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the draft.com privacy policy that was archived on 2007-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070430065423id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -21,6 +21,118 @@
 	  //--></script><script type="text/javascript" src="http://www.draft.com/include/xoops.js"></script><script type="text/javascript"><!--
 	  //-->
 	  </script>
+<style style="text/css">
+
+.lcdstyle{ /*Example CSS to create LCD countdown look*/
+background-color:;
+color:yellow;
+font: bold 12px Arial;
+padding: 3px;
+}
+
+.lcdstyle sup{ /*Example CSS to create LCD countdown look*/
+font-size: 80%
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Dynamic Countdown script- © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function cdtime(container, targetdate){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+this.currentTime=new Date()
+this.targetdate=new Date(targetdate)
+this.timesup=false
+this.updateTime()
+}
+
+cdtime.prototype.updateTime=function(){
+var thisobj=this
+this.currentTime.setSeconds(this.currentTime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdtime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdtime.prototype.showresults=function(){
+var thisobj=this
+
+
+var timediff=(this.targetdate-this.currentTime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+/////CUSTOM FORMAT OUTPUT FUNCTIONS BELOW//////////////////////////////
+
+//Create your own custom format function to pass into cdtime.displaycountdown()
+//Use arguments[0] to access "Days" left
+//Use arguments[1] to access "Hours" left
+//Use arguments[2] to access "Minutes" left
+//Use arguments[3] to access "Seconds" left
+
+//The values of these arguments may change depending on the "baseunit" parameter of cdtime.displaycountdown()
+//For example, if "baseunit" is set to "hours", arguments[0] becomes meaningless and contains "n/a"
+//For example, if "baseunit" is set to "minutes", arguments[0] and arguments[1] become meaningless etc
+
+
+function formatresults(){
+if (this.timesup==false){//if target date/time not yet met
+var displaystring=arguments[0]+" days "+arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds left until April 28, 2007 12:00:00"
+}
+else{ //else if target date/time met
+var displaystring="Future date is here!"
+}
+return displaystring
+}
+
+function formatresults2(){
+if (this.timesup==false){ //if target date/time not yet met
+var displaystring="<span class='lcdstyle'>"+arguments[0]+" <sup>days</sup> "+arguments[1]+" <sup>hours</sup> "+arguments[2]+" <sup>minutes</sup> "+arguments[3]+" <sup>seconds</sup></span><br> till the 2007 NFL draft"
+}
+else{ //else if target date/time met
+var displaystring="" //Don't display any text
+alert("The draft is here!") //Instead, perform a custom alert
+}
+return displaystring
+}
+
+</script>
   </head>
   <body style="background-image: url(http://www.draft.com/themes/draft/images/background2.gif)">
     	<div class="wrapper">
@@ -66,21 +178,21 @@
   </div>
 </div>
 <!-- End Header -->
-<script language="JavaScript" type="text/javascript" src="http://www.fantasyfootball.com/modules/phpadsnew/adx.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://70.84.137.194/~fantasyf/modules/phpadsnew/adx.js"></script>
 <script language="JavaScript" type="text/javascript">
 <!--
    if (!document.phpAds_used) document.phpAds_used = ',';
    phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
    
    document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.fantasyfootball.com/modules/phpadsnew/adjs.php?n=" + phpAds_random);
+   document.write ("http://70.84.137.194/~fantasyf/modules/phpadsnew/adjs.php?n=" + phpAds_random);
    document.write ("&amp;what=zone:19&amp;target=_blank");
    document.write ("&amp;exclude=" + document.phpAds_used);
    if (document.referrer)
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.fantasyfootball.com/modules/phpadsnew/adjs.php?n=956555569&amp;what=zone:19&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://www.fantasyfootball.com/modules/phpadsnew/adclick.php?n=a7ffb3fd' target='_blank'><img src='http://www.fantasyfootball.com/modules/phpadsnew/adview.php?what=zone:19&amp;n=a7ffb3fd' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://70.84.137.194/~fantasyf/modules/phpadsnew/adjs.php?n=991119231&amp;what=zone:19&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://70.84.137.194/~fantasyf/modules/phpadsnew/adclick.php?n=a20411bc' target='_blank'><img src='http://70.84.137.194/~fantasyf/modules/phpadsnew/adview.php?what=zone:19&amp;n=a20411bc' border='0' alt=''></a></noscript>
 <div id="adBottom" class="adBottom" style="background-image: url(http://www.draft.com/themes/draft/images/ad_bottom.gif)"><img src="http://www.draft.com/themes/draft/images/spacer.gif" width="51" height="7"></div>	    <table id="contentContainer" class="contentContainer" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
 	<td class="leftCol" valign="top">
 	    <img src="http://www.draft.com/themes/draft/images/main_menu.gif"><br><!--<div class="lblockTitle">GENERAL MENU</div>-->
@@ -88,8 +200,13 @@
 <div class="title">GENERAL INFO</div>
 <div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/&quot;">» <a href="http://www.draft.com/">Home</a></div>
 
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfsection/article.php?articleid=82&quot;">» <a href="http://www.draft.com/modules/wfsection/article.php?articleid=82">Craigs Blog</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfsection/article.php?articleid=77&quot;">» <a href="http://www.draft.com/modules/wfsection/article.php?articleid=77">2007 Draft Order</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/free_agents/&quot;">» <a href="http://www.draft.com/free_agents/">Top Free Agents</a></div>
+
 <div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=13">Draft Links</a></div>
-<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=49&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=49">Draft Radio Show</a></div>
 
 <div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=52&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=52">Latest News</a></div>
 
@@ -97,17 +214,130 @@
 
 <div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/forum/&quot;">» <a href="http://www.draft.com/forum/">Message Board</a></div>
 
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=325&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=325">Player Interviews</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfsection/article.php?articleid=129&quot;">» <a href="http://www.draft.com/modules/wfsection/article.php?articleid=129">Pro Day Info</a></div>
+
 <div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=3&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=3">Underclassmen</a></div>
 
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=299&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=299">Weekly Itinerary</a></div>
+
+</div></div><!--<div class="lblockTitle">PREMIUM SECTION</div>-->
+<div class="lblockContent"><div class="menubg">
+<div class="title">Premium Section</div>
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=333&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=333">Combine Results</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=328&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=328">NFL Team Needs</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=302&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=302">Staff Mock Draft</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfsection/article.php?articleid=86&quot;">» <a href="http://www.draft.com/modules/wfsection/article.php?articleid=86">Positional Rankings</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=316&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=316">Top 100 Prospects</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=319&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=319">Value Board Rd1-3</a></div>
+
+<div class="menu" onmouseover="this.className = &quot;menuover&quot;" onmouseout="this.className = &quot;menu&quot;" onclick="document.location.href=&quot;http://www.draft.com/modules/wfchannel/index.php?pagenum=389&quot;">» <a href="http://www.draft.com/modules/wfchannel/index.php?pagenum=389">Value Board Rd4-7</a></div>
 </div></div><!--<div class="lblockTitle">MENU END</div>-->
-<div class="lblockContent"><img src="http://www.draft.com/themes/draft/images/menu_end.gif"></div><!--<div class="lblockTitle">SPONSOR</div>-->
+<div class="lblockContent"><img src="http://www.draft.com/themes/draft/images/menu_end.gif"></div><!--<div class="lblockTitle">TEAM REPORTS NAV</div>-->
+<div class="lblockContent"><div style="padding-left: 2px;">
+<img src="http://www.draft.com/themes/draft/images/teamreports.gif">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<form name="form2">
+  &nbsp;<select onchange="MM_jumpMenu('parent',this,0)" name="menu2" style="width: 150px;font-size: 10px; font-family: verdana"> 
+    <option selected="">Select a Player</option> 
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=368">C Doug Datish</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=297">CB Aaron Ross</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=332">CB Antonio Smith</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=381">CB Chris Houston</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=329">CB Darrelle Revis</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=340">CB Kasey Ross</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=310">CB Leon Hall</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=309">CB Marcus McCauley</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=397">DE Adam Carriker</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=347">DE Gaines Adams</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=301">DE Jamaal Anderson</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=380">DE Jarvis Moss</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=358">DE Quentin Moses</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=324">DL Alan Branch</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=383">DL Justin Harrell</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=343">DL Quintin Echols</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=345">DT Amobi Okoye</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=382">DT DeMarcus Tyler</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=344">DT Quinn Pitcock</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=392">FB Brian Leonard</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=362">K Justin Medlock</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=339">K Mason Crosby</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=367">K Nick Folk</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=384">LB Brandon Siler</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=305">LB Buster Davis</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=350">LB David Harris</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=349">LB Jon Beason</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=331">LB Lawrence Timmons</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=341">LB Patrick Willis</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=315">LB Paul Posluszny</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=386">LB Rufus Alexander</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=311">OL Arron Sears</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=321">OL Ben Grubbs</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=303">OL Joe Thomas</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=360">OL Josh Beekman</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=307">OL Justin Blalock</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=371">OL Kyle Young</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=322">OL Levi Brown</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=395">OL Manuel Ramirez</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=342">OL Ryan Kalil</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=396">OL Tony Ugoh</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=326">P Adam Podlesh</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=346">P Daniel Sepulveda</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=377">P Sean Douglas</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=313">QB Brady Quinn</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=320">QB Drew Stanton</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=298">QB JaMarcus Russell</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=364">QB Kevin Kolb</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=390">QB Trent Edwards</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=312">QB Troy Smith</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=294">RB Adrian Peterson</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=338">RB Antonio Pittman</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=374">RB Kenny Irons</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=373">RB Lorenzo Booker</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=296">RB Marshawn Lynch</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=391">RB Michael Bush</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=372">RB Tony Hunt</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=385">S Aaron Rouse</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=399">S Brandon Meriweather</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=317">S LaRon Landry</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=330">S Michael Griffin</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=308">S Reggie Nelson</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=394">TE Ben Patrick</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=314">TE Greg Olsen</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=366">TE Joe Newton</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=365">TE Zach Miller</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=295">WR Calvin Johnson</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=376">WR Dwayne Bowe</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=304">WR Dwayne Jarrett</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=379">WR Robert Meachem</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=337">WR Roy Hall</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=378">WR Sidney Rice</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=393">WR Steve Smith</option>
+      <option value="http://www.draft.com/modules/wfchannel/index.php?pagenum=300">WR Ted Ginn Jr.</option>
+    </select> 
+</form>
+<br>
+</div></div><!--<div class="lblockTitle">SPONSOR</div>-->
 <div class="lblockContent"><br><br><div align="center">
 <br>
-<a href="http://www.thesportsking.com" target="_blank"><img src="http://www.fantasybaseball.com/images/banners/sportskingbutton.gif"></a>
+<a href="http://www.thesportsking.com" target="_blank"><img src="http://www.draft.com/images/banners/sportskingbutton.gif"></a>
 </div></div>		
 	</td>
 	<td valign="top" class="centerCol">
-		<div id="content" class="content">
+		<div id="intelliTXT" class="content">
           	<div id="pageContent" class="pageContent">
 <!-- Opentable for block decoration -->
 <div align="left"><div align="left"><p><font face="Arial" size="2"><strong><font color="#d78100" size="3">Fantasy Planet Privacy Policy</font></strong><br><br>Fantasy Planet considers the maintenance of user privacy to be extremely important. Following is a description of the manner in which Fantasy Planet manages user information ("Privacy Policy" or "Policy"). </font></p><p><font face="Arial" size="2"><strong>Scope</strong> </font></p><ul><li><font face="Arial" size="2">The Policy covers describes the manner in which Fantasy Planet treats personal information that it collects and/or receives, including information related to a user’s historical use of Fantasy Planet and Fantasy Planet affiliate services. A user’s personal information is information that is personally identifiable, such as the user’s name, address, email address, or phone number, and that is not otherwise publicly available. </font></li><li><font face="Arial" size="2">The Fantasy Planet Privacy Policy does not apply to the practices of companies that Fantasy Planet does not own or control, or to people or entities that Fantasy Planet does not employ or manage. In addition, certain Fantasy Planet affiliates and promotional partners may have their own privacy policy(ies), which may be viewed separately at the affiliates’ or partners'website(s), as applicable. </font></li></ul><p><font face="Arial" size="2">Collection and Use of User Information </font></p><p><font face="Arial" size="2"><strong>General </strong></font></p><ul><li><font face="Arial" size="2">Fantasy Planet collects personal information when you register with Fantasy Planet.com, or with an affiliate fantasy sports or content partner of Fantasy Planet.com. Fantasy Planet may record information when you visit Fantasy Planet.com pages or the pages of Fantasy Planet affiliates. Fantasy Planet may combine information it collects with information it obtains from business partners or other companies. </font></li><li><font face="Arial" size="2">When you register, Fantasy Planet asks for information such as your name, email address, age, gender, zip code, occupation, and referral information. Once you register with Fantasy Planet and sign in to our services, you are not anonymous to us. </font></li><li><font face="Arial" size="2">As part of the registration process, you are given an option to receive periodic email promotions from Fantasy Planet partners. You may change your preferred setting in this regard at any time by visiting your "My Profile" link or emailing <a href="http://webmaster@fantasyplanet.com/"></a><a href="mailto:webmaster@fantasyplanet.com"></a><a href="mailto:webmaster@fantasyplanet.com"><font color="#a60601"></font></a><font color="#a60601"><a href="mailto:webmaster@fantasyplanet.com">webmaster@fantasyplanet.com</a></font><a href="mailto:webmaster@fantasyplanet.com"></a>. </font></li><li><font face="Arial" size="2">Fantasy Planet collects information about your transactions with us and with some of our business partners. Fantasy Planet automatically receives and records information on our server logs from your browser, including your IP address, Fantasy Planet and/or affiliate cookie information, and the page(s) you request. </font></li><li><font face="Arial" size="2">Fantasy Planet uses the information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. If you opt to receive periodic email promotions from Fantasy Planet partners, Fantasy Planet may also use your information to send you the promotions, or may make your information available to partners to send the promotions. Should you change your mind, and wish to stop receiving promotional offers from Fantasy Planet or its partners, you can follow the “Unsubscribe” link in any email that you receive, or you can send an email to <a href="mailto:support@fantasyplanet.com"></a><a href="mailto:support@fantasyplanet.com"><font color="#a60601"></font></a><font color="#a60601"><a href="mailto:support@fantasyplanet.com">support@fantasyplanet.com</a></font> with the word “Unsubscribe” in the subject line. </font></li></ul><p><font face="Arial" size="2"><strong>Information Sharing and Disclosure</strong> </font></p><ul><li><font face="Arial" size="2">Fantasy Planet does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide promotional materials for products or services when we have your permission, or under the following circumstances: </font><ul><li><font face="Arial" size="2">We provide the information to trusted partners who work on behalf of or with Fantasy Planet under agreements restricting the use of user information in substantially the same manner as set forth in this Policy. These companies may use your personal information to help Fantasy Planet communicate with you about offers from Fantasy Planet and our marketing partners. </font></li><li><font face="Arial" size="2">We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; </font></li><li><font face="Arial" size="2">We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Fantasy Planet’ terms of use, or as otherwise required by law. </font></li><li><font face="Arial" size="2">We transfer information about you if Fantasy Planet is acquired by or merged with another company. In this event, Fantasy Planet will notify you before information about you is transferred and becomes subject to a different privacy policy. </font></li></ul></li><li><font face="Arial" size="2">Fantasy Planet displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria. </font><ul><li><font face="Arial" size="2">Fantasy Planet does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. </font></li></ul></li><li><font face="Arial" size="2">Fantasy Planet does not share your credit card information or other payment information with outside parties, except as may be necessary to process payments that you authorize, or as may be required by order of law. </font></li></ul><p><font face="Arial" size="2"><strong>Cookies</strong> </font></p><ul><li><font face="Arial" size="2">Fantasy Planet may set and access Fantasy Planet cookies on your computer. </font></li><li><font face="Arial" size="2">Fantasy Planet may permit advertisers on some of its pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this Policy. Advertisers or other companies do not have access to Fantasy Planet’ cookies. </font></li></ul><p><font face="Arial" size="2">Your Ability to Edit Your Account Information and Preferences </font></p><p><font face="Arial" size="2"><strong>General </strong></font></p><ul><li><font face="Arial" size="2">You can edit your Fantasy Planet user profile, including your personal information and marketing preferences, at any time. </font></li><li><font face="Arial" size="2">New categories of marketing communications may be added to the opt-in section of your Profile page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. </font></li><li><font face="Arial" size="2">Fantasy Planet reserves the right to send you certain communications relating to the Fantasy Planet service, such as service announcements, administrative messages and game newsletters, that are considered part of your Fantasy Planet account, without offering you the opportunity to opt-out of receiving them. </font></li><li><font face="Arial" size="2">You can unsubscribe from your account by replying to any Fantasy Planet email with the word “Unsubscribe” in the reply subject line. </font></li></ul><p><font face="Arial" size="2"><strong>Confidentiality and Security</strong> </font></p><ul><li><font face="Arial" size="2">We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. </font></li><li><font face="Arial" size="2">Fantasy Planet employs physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. </font></li></ul><p><font face="Arial" size="2"><strong>Changes to this Privacy Policy</strong> </font></p><ul><li><font face="Arial" size="2">Fantasy Planet may update this Policy at any time. Fantasy Planet will notify you about significant changes in the way it treats personal information by sending a notice to the primary email address specified in your Fantasy Planet account or by placing a prominent notice on our site. </font></li></ul><p><font face="Arial" size="2"><strong>Questions and Support</strong> </font></p><ul><li><font face="Arial" size="2">If you have questions about this Policy, including any relationship between Fantasy Planet and its affiliates and/or partners, please send an email to <a href="mailto:support@Fantasy"><font color="#a60601"></font></a><font color="#a60601"><a href="mailto:support@Fantasy">support@Fantasy</a></font> Planet.com, or send your question to: </font></li></ul><p align="center"><font face="Arial" size="2">Fantasy Planet, L.P.<br>Customer Support<br>4245 Kemp Suite 818<br>Wichita Falls, TX 76308<br>(866) 475-9002 </font></p></div><!-- Closetable for block decoration --></div>
@@ -139,44 +369,41 @@ Search: <input type="text" name="query" size="14" style="width: 80px;"><input ty
  
   <tbody><tr> 
     <td valign="top" style="padding-left: 10px"><li></li></td>
-    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=72">2006 NFL Mock Draft: Rounds 1 and 2</a> (2006/4/6)</td> 
+    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=162">Waiting in the Weeds</a> (2007/4/27)</td> 
   </tr> 
    
   <tr> 
     <td valign="top" style="padding-left: 10px"><li></li></td>
-    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=70">2006 Rookie Report: RB Maurice Drew</a> (2006/4/3)</td> 
+    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=161">First Round Draft Targets</a> (2007/4/27)</td> 
   </tr> 
    
   <tr> 
     <td valign="top" style="padding-left: 10px"><li></li></td>
-    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=69">2006 Rookie Report: QB Brodie Croyle</a> (2006/4/3)</td> 
+    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=81">2007 Player Profiles</a> (2007/4/27)</td> 
   </tr> 
    
   <tr> 
     <td valign="top" style="padding-left: 10px"><li></li></td>
-    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=68">The Top 150 Draft Prospects</a> (2006/2/15)</td> 
+    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=160">Trade Updates</a> (2007/4/26)</td> 
   </tr> 
    
   <tr> 
     <td valign="top" style="padding-left: 10px"><li></li></td>
-    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=67">2006 AFC Team Needs</a> (2006/2/7)</td> 
+    <td width="100%"><a href="http://www.draft.com/modules/wfsection/article.php?articleid=82">From the Desk of Craig Davis</a> (2007/4/26)</td> 
   </tr> 
    
 </tbody></table></div></div>
 </div>                  <div class="rblock">
-<div class="rblockTitle">SPONSOR</div><div class="rblockContent"><div align="center">
-   <a href="http://www.distantreplays.com" target="_blank"><img src="/images/banners/150x60_anim_d.gif"></a>
-</div></div>
+<div class="rblockContent"><div align="center">
+   <a href="http://www.draft.com/modules/wfsection/article.php?articleid=76 "><img src="/images/banners/draft_prem_ani.gif"></a><br><br></div></div>
 </div>                  <div class="rblock">
 <div class="rblockTitle">POLLS</div><div class="rblockContent"><form style="margin: 0px;" action="http://www.draft.com/modules/xoopspoll/index.php" method="post">
 <div><img src="http://www.draft.com/themes/draft/images/poll_header.gif"></div>
 <div class="blockContent">
-  <div style="padding-bottom: 4px;"><input type="hidden" name="poll_id" value="11">Who will be the #1 Overall Pick?</div>
-    <input type="radio" name="option_id" value="65">&nbsp;RB Reggie Bush<br>
-    <input type="radio" name="option_id" value="66">&nbsp;QB Matt Leinart<br>
-    <input type="radio" name="option_id" value="67">&nbsp;OT D'Brickashaw Ferguson<br>
-    <input type="radio" name="option_id" value="68">&nbsp;LB A.J. Hawk<br>
-    <input type="radio" name="option_id" value="69">&nbsp;QB Vince Young<br>
+  <div style="padding-bottom: 4px;"><input type="hidden" name="poll_id" value="22">Who Will the Raiders Select with the #1 Pick?</div>
+    <input type="radio" name="option_id" value="121">&nbsp;JaMarcus Russell<br>
+    <input type="radio" name="option_id" value="122">&nbsp;Calvin Johnson<br>
+    <input type="radio" name="option_id" value="123">&nbsp;Trade The Pick<br>
   </div>
  <div class="blockFooter" align="center">
    <input name="Vote!" type="image" src="http://www.draft.com/themes/draft/images/vote.gif" border="0">
@@ -196,6 +423,10 @@ Search: <input type="text" name="query" size="14" style="width: 80px;"><input ty
 <img src="http://www.draft.com/themes/draft/images/spacer.gif" width="774" height="8">
 <a href="http://www.allairis.com" target="_blank"><img src="http://www.draft.com/themes/draft/images/allairisfooter.gif"></a><br></div>
 	</div>
-	    
+	    <!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://draft.us.intellitxt.com/intellitxt/front.asp?ipid=6927"></script>
+<!-- end Vibrant Media IntelliTXT script section-->   
    
+
+
 </body></html>
