@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the freeoneslive.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021091056id_/http%3A//www.freeoneslive.com/privacy.php%3Fservice%3Dgirls%26mp_code%3Dbbc3%26source_code%3Diframe%26PHPSESSID%3Dbbd4c13f22d3b64ad410ec505d3fac0d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeoneslive.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501005535id_/http%3A//www.freeoneslive.com/privacy.php%3Fservice%3Dgirls%26mp_code%3Dbbc3%26source_code%3Ddefault%26PHPSESSID%3D0424b5663880bb58e9061535eca39ec6) for the most accurate reproduction.*
 
 # Free Ones Live : Live Adult Chat
 
-  
+|  | [](https://web.archive.org/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=0164081f3cd8ccb6b91efc4dd1c3fdb9)  
+---  
+|    
 |  |   
   
 ---|---  
@@ -10,14 +12,14 @@
 |   
 |   
   
-[Forget your password?](https://web.archive.org/lookup.php?service=girls&mp_code=bbc3&source_code=iframe&PHPSESSID=bbd4c13f22d3b64ad410ec505d3fac0d)  
+[Forget your password?](https://web.archive.org/lookup.php?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=0164081f3cd8ccb6b91efc4dd1c3fdb9)  
 |   
   
   
   
 
 
-[](http://www.freeoneslivevip.com/?service=girls&mp_code=bbc3&source_code=iframe&PHPSESSID=bbd4c13f22d3b64ad410ec505d3fac0d)
+[](http://www.freeoneslivevip.com/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=0164081f3cd8ccb6b91efc4dd1c3fdb9)
 
   
 
@@ -61,7 +63,7 @@ What Information Can I Access?
 
 Free Ones Live gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=bbc3&source_code=iframe&PHPSESSID=bbd4c13f22d3b64ad410ec505d3fac0d)
+  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=bbc3&source_code=default&PHPSESSID=0164081f3cd8ccb6b91efc4dd1c3fdb9)
 
 What Choices Do I Have?
 
