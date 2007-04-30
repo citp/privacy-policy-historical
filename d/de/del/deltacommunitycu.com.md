@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltacommunitycu.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214144525id_/http%3A//www.deltacommunitycu.com/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltacommunitycu.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430071530id_/http%3A//www.deltacommunitycu.com/privpolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
