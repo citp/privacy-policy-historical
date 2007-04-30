@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216032134id_/http%3A//www.bunnings.com.au/privacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430184436id_/http%3A//www.bunnings.com.au/privacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # Bunnings Warehouse - Privacy Policy
 
@@ -190,4 +190,4 @@ Acceptance
   
 28\. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use. 
 
-All information ©2002 Bunnings Group Limited 
+All information ©2002 Bunnings Group Limited
