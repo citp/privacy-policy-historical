@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000456id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430054345id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Terms and Conditions :: Traffic.com
 
