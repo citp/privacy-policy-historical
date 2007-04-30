@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the stylelife.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430232218id_/http%3A//www.stylelife.com/phase2xl/about/privacy) for the most accurate reproduction.*
+
+# Stylelife - The Online Academy for Attraction - Arts and Sciences
+
+**YOUR PRIVACY IS IMPORTANT TO US**
+
+**I. General:** Stylelife respects the privacy of every individual who visits our web sites or responds to our e-mail campaigns. This Privacy Policy outlines the type of information we typically collect from our web sites and e-mail campaigns, and how we may use that information. This Policy will also instruct you on what to do if you do not want to share personal information with us. We may update this Policy from time to time, so please check it occasionally. 
+
+**II. Your Provision of Personal Information is Voluntary:** At Stylelife, we may ask you for information such as your name, address, telephone number, date of birth and/or your e-mail address. Your agreement to and provision of such personal information is completely voluntary. 
+
+When you do provide us with personal information, unless you are advised otherwise, we (or a fulfillment house or other third-party on our behalf with whom we share such information) may use that information to improve our website and programs; as an entry for a contest or sweepstakes; or to contact you. Except as stated in this Policy, we do not sell, transfer or disclose your personal information to third parties unless we have your express consent. 
+
+If you do not want information collected from our Web sites, please do not agree to the collection of information nor submit any information to us. If you have already submitted personal information and would like us to remove it from our records, please follow the procedures listed in Section V of this Policy. 
+
+**III. Violation of Access Restrictions by People Under Age:** Stylelife are intended only for persons 18 or older. If someone under age has provided us with personal information by obtaining access in violation of the Web site policy, we ask that the parent or guardian of that person contact us immediately at the e-mail address listed at the bottom of this Statement so we can immediately remove such information from our records. 
+
+**IV. Some Non-Personal Information Is Collected Automatically:** We may automatically collect certain non-personal information when you connect to one of our Web sites. Examples of this type of information include the type of Internet browser used, the type of computer operating system used, the connection speed used and the domain name from the Web site from which you linked to our site. 
+
+When you view one of our Web sites, we may store some information on your computer. This information will be in the form of a .cookie. or similar file and may be used by us to collect other information during your visit to our Web sites, such as the particular site areas you visit and the activities in which you participate at our Web sites. The use of cookies is an industry standard and you will find them at most Web sites. Please note that with most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or help screen to learn more about these functions. 
+
+Stylelife (or a fulfillment house or other third party on our behalf with whom we share such information) uses this information to tailor our Web sites to better match your interests and preferences and to improve our site and programs. Except as stated in this Policy, we do not sell, transfer or disclose that information to third parties unless we have your express consent. 
+
+**V. How to Request Deletion of Previously Provided Information:** If you have submitted personal information to Stylelife and would like that information deleted from our records, please send an e-mail to [help@stylelife.com](mailto:help@stylelife.com) with the word DELETE MY RECORDS in the subject line and body of your message. Upon your request, you will not receive any further communication from us, and we will delete this personal information from our existing files. Please note that removing your e-mail address from our mailing list may take up to ten days, so you may receive additional messages from Stylelife for a short period. Should you receive any messages from Stylelife following your removal request, please rest assured we are working on your request and no further action is required on your part. In the event that a user unsubscribes from our database, we will retain a record of any personal information and the unsubscribe action for our internal records as evidence of the action and our compliance with this Policy. 
+
+We are pleased that you have chosen to visit our site. Further questions [Contact us](mailto:help@stylelife.com)
