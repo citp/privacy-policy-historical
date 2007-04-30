@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004033853id_/http%3A//www.bunnings.co.nz/site/awdep.asp%3Fdealer%3D5709%26depnum%3D9344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430024849id_/http%3A//www.bunnings.co.nz/privacyPolicy/default.aspx) for the most accurate reproduction.*
 
-# Bunnings Group Limited :: Privacy Policy
+# Bunnings Warehouse - Privacy Policy
 
-  
-PRIVACY STATEMENT
+PRIVACY STATEMENT 
 
-Bunnings Group Limited is committed to protecting your privacy and personal information when you deal with us. 
+Bunnings Group Limited is committed to protecting your privacy and personal information when you deal with us. 
 
   
 Our privacy policy endorses and complies with the Commonwealth legislation governing privacy of personal information by businesses. 
@@ -42,7 +41,7 @@ Telephone (08) 9365 1501
 
 Facsimile (08) 9356 6460 
 
-E-mail [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
+E-mail [privacy@bunnings.com.au ](http://mailto:privacy@bunnings.com.au/)
 
   
 BUNNINGS PRIVACY POLICY 
@@ -137,7 +136,8 @@ Access to and correction of personal information
 17\. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer: 
 
   
-Mr Dominic Antenucci Company Secretary/Compliance Manager 126 Pilbara Street Welshpool WA 6000 Telephone (08) 9365 0501 Facsimile (08) 9356 6460 E-mail: [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
+Mr Dominic Antenucci Company Secretary/Compliance Manager 126 Pilbara Street Welshpool WA 6000 Telephone (08) 9365 0501 Facsimile (08) 9356 6460   
+E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
   
 18\. Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. 
@@ -149,7 +149,7 @@ Mr Dominic Antenucci Company Secretary/Compliance Manager 126 Pilbara Street Wel
 Complaints 
 
   
-20\. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us at E-mail: [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
+20\. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us at E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
   
 21\. We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint. 
@@ -179,10 +179,10 @@ Contacting us
   
 26\. If you require further information regarding our Privacy Policy, please contact us at the following address: 
 
-E-mail: [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
+E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
   
-27\. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+27\. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at [www.privacy.gov.au.](http://www.privacy.gov.au./)
 
   
 Acceptance 
@@ -190,5 +190,4 @@ Acceptance
   
 28\. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use. 
 
-All information ©2002 Bunnings Group Limited   
- 
+All information ©2002 Bunnings Group Limited
