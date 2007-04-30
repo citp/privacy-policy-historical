@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230182905id_/http%3A//www.whsv.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430113632id_/http%3A//www.whsv.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WHSV - HomePage
+
+GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
