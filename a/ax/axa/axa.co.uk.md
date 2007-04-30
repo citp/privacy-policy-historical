@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218190019id_/http%3A//axa.co.uk/security_privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430062900id_/http%3A//www.axa.co.uk/security_privacy/index.html) for the most accurate reproduction.*
 
 # security and privacy - privacy statement
 
