@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618223207id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430065423id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.*
 
 # Draft.com - Content
 
   
+
+
+    
 
 
 [](http://www.thesportsking.com/)
@@ -94,6 +97,4 @@ Wichita Falls, TX 76308
 
 | 
 
-SPONSOR
-
-[](http://www.distantreplays.com/)
+[](http://www.draft.com/modules/wfsection/article.php?articleid=76)
