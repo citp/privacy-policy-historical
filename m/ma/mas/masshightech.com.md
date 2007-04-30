@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masshightech.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183113id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masshightech.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430102721id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
 
 # bizjournals: Privacy Policy
 
