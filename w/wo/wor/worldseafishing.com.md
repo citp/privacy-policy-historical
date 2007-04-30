@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117022201id_/http%3A//www.worldseafishing.com/news/156/ARTICLE/1659/2000-06-19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430020758id_/http%3A//www.worldseafishing.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# About World Sea Fishing
 
-  
+[Back to about us](https://web.archive.org/aboutus/)
 
+### Privacy Policy 
 
 This privacy policy is applicable to any personal information which is given by You to World Sea Fishing ("User Information") via the web site located at www.worldseafishing.com and all its related domains, the World Sea Fishing web site.
 
@@ -22,3 +23,7 @@ You may notify World Sea Fishing of any updates, amendments and corrections to p
 World Sea Fishing reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
 Our web site uses third party advert servers (such as DoubleClick, ValueClick, Google) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you.
+
+| 
+
+* * *
