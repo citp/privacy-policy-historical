@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102094155id_/http%3A//lbc.co.uk/article.asp%3Fid%3D26816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430162215id_/http%3A//www.lbc.co.uk/article.asp%3Fid%3D26816) for the most accurate reproduction.*
 
-# LBC
+# LBC Radio
 
-|  Privacy PolicyThis policy applies to the website of LBC for the radio stations LBC 97.3FM and LBC News 1152AM at www.lbc.co.uk 
+| 
 
-If you have any questions about this privacy policy please contact [anna.tingey@chrysalis.com](mailto:anna.tingey@chrysalis.com)
+  
+  
+  
+---  
+Privacy PolicyThis policy applies to the website of LBC for the radio stations LBC 97.3FM and LBC News 1152AM at www.lbc.co.uk 
+
+If you have any questions about this privacy policy please contact [sam.walker@lbc.co.uk](mailto:sam.walker@lbc.co.uk)
 
 Your privacy on the Internet is important to us. As part of the operation of our site, we gather certain types of information about our users, and we would like to explain the types of information we gather and what we do with it. 
 
@@ -42,6 +48,4 @@ It is important to note that this site contains links to other sites, and that t
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.**
 
-We reserve the right to change this policy at any time by posting a revised privacy policy here.   
-  
----|---
+We reserve the right to change this policy at any time by posting a revised privacy policy here. 
