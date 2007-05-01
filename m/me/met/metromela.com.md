@@ -1,26 +1,46 @@
-> *The following text is extracted and transformed from the metromela.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420063045id_/http%3A//www.metromela.com/privacy_policy.php%3Fcity%3DHyderabad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromela.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501234805id_/http%3A//metromela.com%3Faction%3Dstatic%26do%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Welcome to Metromela
+# Welcome to MetroMela
 
-| This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the MetroMela website (“MetroMela”) work.  
+|    
 ---  
+| Privacy Policy  
+---  
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the MetroMela website work.  
+   
 Collection  
-  
-We collect and store the following personal information:   
-  
-**Use**  
+|   | >> | Email address, physical contact information, and (depending on the service used) sometimes financial information.  
+---|---|---  
+  | >> | Computer sign-on data, statistics on page views, traffic to and from MetroMela and ad data.  
+  | >> | Other information, including users' IP addresses and standard web log information.   
+   
+Use  
+  | >> | Provide our services.  
+  | >> | Resolve disputes, collect fees, and troubleshoot problems.  
+  | >> | Enforce our policies.  
+  | >> | Shall not directly or indirectly violate the laws of the country of your residence or that of the person(s) to whom the material is made available.  
+  | >> | Customise users� experience, measure interest in our services, and inform users about services and updates.  
+  | >> | Communicate marketing and promotional offers to you.  
+   
 Disclosure  
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates others' rights, or protect anyone’s rights, property, or safety. We may also share personal information with:   
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates others' rights, or protect anyone�s rights, property, or safety. We may also share personal information with :  
+  | >> | Corporate affiliates who help detect and prevent potentially illegal acts and provide joint services.  
+  | >> | Service providers who help with our business operations.  
+  | >> | Carefully screened third party service providers who wish to provide our users with offers of value.  
+   
 Using Information from MetroMela  
-You may use personal information gathered from MetroMela only to follow up with another user about a specific posting, not to send spam or collect personal information from another user without that user’s express permission.   
-Access, Modification, and Deletion   
-  
-You can review, modify or erase your personal information by reviewing your posting or account status page. We delete personal information when we no longer need it for the purposes we described earlier.   
-  
+You may use personal information gathered from MetroMela only to follow up with another user about a specific posting, not to send spam or collect personal information from another user without that user�s express permission.  
+   
+Access, Modification, and Deletion  
+You can review, modify or erase your personal information by reviewing your posting or account status page. We delete personal information when we no longer need it for the purposes we described earlier.  
+   
 Security  
-We use several tools such as encryption, passwords, and physical security to protect your personal information against unauthorised access and disclosure, but we do not guarantee the security of your personal information.   
+We use several tools such as encryption, passwords, and physical security to protect your personal information against unauthorised access and disclosure, but we do not guarantee the security of your personal information.  
+   
 General  
-We may update this policy at any time, with updates taking effect when you next use any MetroMela service. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@Metromela.com](mailto:privacy@Metromela.com)  
-Information Provided to External Entities   
+We may update this policy at any time, with updates taking effect when you next use any MetroMela service. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@metromela.com.](mailto:privacy@metromela.com)  
+   
+Information Provided to External Entities  
 This privacy policy is applicable for information collected by us and any information provided by you to any other entity by virtue of use of any services rendered by MetroMela or to any of the advertisers in the site shall be governed by the privacy policies if any of such entity.  
+   
  
