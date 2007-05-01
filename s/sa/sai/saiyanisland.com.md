@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216123732id_/http%3A//saiyanisland.com%3Fsi%3Dsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502014003id_/http%3A//saiyanisland.com%3Fsi%3Dsite/privacy) for the most accurate reproduction.*
 
-# Saiyan Island - DBZ, Naruto, Anime, Bleach, images, tests, information
+# SAIYANISLAND - Excited for Naruto: Hurricane Chronicles!
 
 | |  Saiyan Island understands the importance of privacy and respects each and every visitor
 
@@ -36,7 +36,7 @@ By continuing to access SaiyanIsland.Com, its files, and affiliates, you are exp
   
 
 
-All original content © 2006 Saiyan Island. All other trademarks, logos, and images are the property of their respective and rightful owners. This web site has been created for the sole purpose of providing entertainment, knowledge and encouragement toward the growth of Japanese Animation 
+All original content © 2007 Saiyan Island. All other trademarks, logos, and images are the property of their respective and rightful owners. This web site has been created for the sole purpose of providing entertainment, knowledge and encouragement toward the growth of Japanese Animation 
 
 [ ](http://extremetracking.com/open?login=siland)  
   
