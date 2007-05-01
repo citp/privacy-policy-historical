@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216021546id_/http%3A//nickhotel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502003959id_/http%3A//www.nickhotel.com/privacy_policy) for the most accurate reproduction.*
 
 # Fun Things To Do In Orlando, Florida Event Calendar & FL Kid Activities - Nickelodeon Resort
 
 | 
 
-### Welcome to NickHotel's Privacy Policy
+### Welcome to Our Privacy Policy
 
 Nickelodeon Family Suites by Holiday Inn is committed to protecting the privacy of everyone who visits our website from any source. The Policy below outlines information you may wish to know about how we protect you. 
 
