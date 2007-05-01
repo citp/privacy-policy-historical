@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206061633id_/http%3A//www.racer.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501044733id_/http%3A//www.racer.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Racer Communications
 
-Thanks for visiting haymarketworldwide.com. Haymarket Worldwide Inc. respects the privacy of our visitors, and we have developed these guidelines for the management of your personal information.
+Thanks for visiting haymarketworldwide.com. Haymarket Worldwide LLC respects the privacy of our visitors, and we have developed these guidelines for the management of your personal information.
 
 haymarketworldwide.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities and transactions on haymarketworldwide.com including, but not limited to, any sweepstakes, contests, message boards and chats that may be conducted.
 
@@ -18,7 +18,7 @@ Information collected during the registration process is used to personalize you
 
 haymarketworldwide.com may also share such information with other businesses, including our marketing, sponsorship and advertising partners. However, we will only share such information with third parties whose policies regarding personal information is consistent with our Privacy Policy.
 
-Haymarket Worldwide Inc. may need to use your account profile to contact you regarding your account status or other issues relevant to the haymarketworldwide.com service. Haymarket Worldwide Inc. may also disclose user information when we believe in good faith that the law requires it.
+Haymarket Worldwide LLC may need to use your account profile to contact you regarding your account status or other issues relevant to the haymarketworldwide.com service. Haymarket Worldwide LLC may also disclose user information when we believe in good faith that the law requires it.
 
 You should be aware that any information you voluntarily disclose on bulletin boards or chat areas can be collected and used by others.
 
