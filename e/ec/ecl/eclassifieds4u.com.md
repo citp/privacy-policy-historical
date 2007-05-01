@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2006-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060818175325id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501163946id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - eClassifieds 4U - Free Classified Ads in Canada for Computers, Electronics, Cars, Jobs, Housing, and More
+# Privacy Policy Canada Classifieds at eClassifieds 4U - Free Classified Ads in Canada for Computers, Electronics, Cars, Jobs, Housing, and More
 
 **eClassifieds4U Privacy Policy**
 
