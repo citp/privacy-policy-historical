@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isagenix.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214032947id_/http%3A//isagenix.com/company_privacy.dhtml%3Finv%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isagenix.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501094922id_/http%3A//isagenix.com/company_privacy.dhtml%3Finv%3D0) for the most accurate reproduction.*
 
 # ISAGENIX International
 
