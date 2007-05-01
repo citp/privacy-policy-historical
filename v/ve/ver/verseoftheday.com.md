@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verseoftheday.com privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012032511id_/http%3A//www.heartlight.org/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verseoftheday.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501123601id_/http%3A//www.heartlight.org/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Support: HEARTLIGHT®
 
