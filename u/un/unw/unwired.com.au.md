@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unwired.com.au privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620172945id_/http%3A//www.unwired.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwired.com.au privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501233425id_/http%3A//www.unwired.com.au/privacy.php) for the most accurate reproduction.*
 
 # Unwired - Privacy Policy
 
