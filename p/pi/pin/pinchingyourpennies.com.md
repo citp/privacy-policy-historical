@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinchingyourpennies.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209124010id_/http%3A//pinchingyourpennies.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchingyourpennies.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501051140id_/http%3A//www.pinchingyourpennies.com/privacy.htm) for the most accurate reproduction.*
 
 # Pinching Your Pennies Home
 
