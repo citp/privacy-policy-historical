@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212093359id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501084401id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Sports Authority Helpdesk
 
