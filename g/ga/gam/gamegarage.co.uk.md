@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegarage.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214112731id_/http%3A//www.gamegarage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegarage.co.uk privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501102921id_/http%3A//gamegarage.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameGarage.co.uk
 
