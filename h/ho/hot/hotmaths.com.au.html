@@ -1,0 +1,409 @@
+<!--The following is the downloaded HTML source of the hotmaths.com.au privacy policy that was archived on 2007-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070502012236id_/http%3A//www.hotmaths.com.au/showContent.do%3Ftype%3Dprivacy) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="SHORTCUT ICON" href="/images/HOTmaths.ico">
+<title>HOTmaths - privacy</title>
+<link href="stylesheets/home/main.css" rel="stylesheet" type="text/css">
+<link href="stylesheets/home/content.css" rel="stylesheet" type="text/css">
+
+	<link href="stylesheets/home/content_nonav.css" rel="stylesheet" type="text/css">
+
+<link href="stylesheets/home/topNavStyles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/javascript/focus.js"></script>
+<script type="text/javascript" language="javascript">
+function contentResize(){
+/*	document.getElementById("tabnav").style.marginRight=0+"px";*/
+	contentResizeWidth();
+	contentResizeHeight();
+	document.getElementById("tabcontent").style.visibility="visible";
+}
+function contentResizeHeight(){
+	document.getElementById("leftnav").style.height    = "";
+	document.getElementById("pagetext").style.height   = "";
+	document.getElementById("tabcontent").style.height = "";
+	if (typeof document.body.style.maxHeight != "undefined") {
+		// IE 7, mozilla, safari, opera 9
+		document.getElementById("pagetext").style.backgroundAttachment="scroll"; // Otherwise background will not display
+
+		var col1 = document.getElementById("col1").offsetHeight - 74; // 77px compensates for tabnav
+		var col2 = document.getElementById("col2").offsetHeight - 74;
+		var contentHeight = document.getElementById("pagetext").offsetHeight;
+
+		if((col1)>col2) contentHeight = col1;
+//		document.getElementById("tom").style.height=contentHeight+"px";
+//		document.getElementById("pagetext").style.borderLeft="2px solid red";
+
+		if(navigator.userAgent.indexOf("MSIE 7") > 0) {
+			// IE 7
+			document.getElementById("leftnav").style.height    = contentHeight - 0 + "px";
+			document.getElementById("pagetext").style.height   = contentHeight - 0 + "px";
+			document.getElementById("tabcontent").style.height = contentHeight + "px";
+		} else {
+			document.getElementById("leftnav").style.height    = contentHeight - 20 + "px";
+			document.getElementById("pagetext").style.height   = contentHeight - 30 + "px";
+			document.getElementById("tabcontent").style.height = contentHeight + "px";
+		}
+	} else {
+		// IE6, older browsers
+		var col1 = document.getElementById("col1").offsetHeight - 77; // 77px compensates for tabnav
+		var col2 = document.getElementById("col2").offsetHeight;
+
+		// STEP 1: Set to minimum height
+		document.getElementById("tabcontent").style.height = col1 + "px";
+		document.getElementById("leftnav").style.height    = col1 + "px";
+		document.getElementById("pagetext").style.height   = col1 + "px";
+
+		// STEP 2: Get content height and resize where items didn't fit
+		var contentHeight = document.getElementById("pagetext").offsetHeight;
+		if(contentHeight > col1) {
+			document.getElementById("leftnav").style.height    = contentHeight + "px";
+			document.getElementById("pagetext").style.height   = contentHeight + "px";
+			document.getElementById("tabcontent").style.height = contentHeight + "px";
+		}
+	}
+}
+
+function contentResizeWidth(){
+	var totalAvailable = document.body.offsetWidth - 50;
+/*	var totalContent = document.getElementById("content").offsetWidth;
+	var totalLogo = document.getElementById("logo").offsetWidth;
+	var totalLogin = document.getElementById("loginform").offsetWidth;
+*/	if(totalAvailable < 950) totalAvailable = 950;
+
+/*	document.getElementById("wrapper").style.width=totalAvailable+"px";
+	document.getElementById("filler").style.width=totalAvailable - totalLogo - totalLogin+"px";
+*/	
+	var tabnav = document.getElementById("tabnav").offsetWidth;
+	var col1 = document.getElementById("col1").offsetWidth;
+	var leftnav = document.getElementById("leftnav").offsetWidth;
+//	document.getElementById("tom").style.width=tabnav-leftnav-10 +"px";
+
+	if (typeof document.body.style.maxHeight != "undefined" && !(navigator.userAgent.indexOf("MSIE 7") > 0)) 
+		document.getElementById("pagetext").style.width=tabnav-leftnav-43 +"px";
+	else
+		document.getElementById("pagetext").style.width=tabnav-leftnav-18 +"px";
+
+}
+
+</script>
+
+</head>
+<body onload="contentResize();document.getElementById('content').style.visibility='visible';document.getElementById('banner').style.visibility='visible';setFocus('','');" onresize="contentResize();">
+	<div id="wrapper">
+		
+		 
+
+
+<script type="text/javascript" src="/javascript/controlCentre/topNav.js"></script>
+<script>
+function MM_openBrWindow(winName,features) { //v2.0
+    
+    sysWin = window.open('/sysReqPopUpNonModal.jsp',winName,features);
+    sysWin.focus();
+   
+}
+</script>
+<div id="banner" style="visibility: visible;">
+	<div id="logo">
+		<a href="/"><img src="/images/home/HOTmaths_logo.gif" alt="HOTmaths Homepage"></a>
+	</div>
+	<div id="filler">&nbsp;</div>
+	<div id="loginform">
+		<div id="logindetails">
+			<table cellpadding="0" cellspacing="0">
+			  <form name="loginForm" method="post" action="/loginForm.do;jsessionid=BFF48E33ECB70310FB1B227CE1F4FEE3" onsubmit="changeurl()"></form>
+				<tbody><tr>
+				  <td>username</td>
+				  <td>password</td>
+				  <td>&nbsp;</td>
+				</tr>
+				<tr>
+				  <td valign="middle"><input type="text" name="username" size="20" value="" class="textfield"></td>
+				  <td valign="middle"><input type="password" name="password" size="20" value="" class="textfield">
+				  	<input type="hidden" name="from" value="/web/20070502012236id_/http%3A//www.hotmaths.com.au/showContent.do%3Ftype%3Dprivacy"></td>
+				  <td valign="top" style="padding-top: 2px;">
+						<input type="submit" value="LOGIN" style="border-width:1px;border-style: solid;border-color:#CCC;height:17px;color: #FFFFFF;font-size: 8px;background-color: #999; cursor:pointer">
+				  </td>
+				</tr>
+			  
+			</tbody></table>
+			<script type="text/javascript" language="javascript">
+			function setupLoginForm(){
+				
+				
+				document.loginForm.from.value=document.location.pathname+document.location.search;
+				
+					
+			}
+			setupLoginForm();
+			function changeurl(){
+				document.loginForm.action = "/loginForm.do";
+				return true;
+			}
+			</script>
+		</div>
+		<div id="loginerror">
+			<span id="errorMessage" class="loginError">This system is best viewed at the screen resolution of 1024 x 768 or higher.</span>
+		</div>
+		<div id="forgotpassword">
+			<a href="/forgottenPassword.do">forgotten login details?</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:MM_openBrWindow('sysWin','width=800,height=600,resizable=1,toolbar=no,location=0,directories=0,status=0,menuBar=0')">system requirements</a>
+		</div>
+		<div id="loginmenu">
+			<ul id="menuList" class="mainMenu" style="z-index: 1000;">
+				<li class=" hasSubMenu"><a href="#" class="navItem" style="font-size: 9px; background-color: #F5901C" id="navItem_0"><font color="white"><b>JOIN NOW!</b></font></a><!--<img src="/images/home/btn_joinnow.gif" alt="join now"/>-->
+					<ul class="navMenu" id="navMenu_0">
+						<li><a class="navItem" href="/viewStudentDetails.do?type=join" id="navItem_0.1">students</a></li>
+						<li><a class="navItem" href="/viewParentDetails.do?type=join" id="navItem_0.2">parents</a></li>
+						<li><a class="navItem" href="/viewTeacherDetails.do?type=join" id="navItem_0.3">teachers</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+<script type="text/javascript" language="javascript">
+var displayString;
+
+//do checks for cookies and display size
+var failDisplay = window.screen.width < 1024 && window.screen.height < 768;
+
+/* Discover Adobe Acrobat */
+var acrobat=new Object();
+acrobat.installed=false;
+acrobat.version='0.0';
+
+if (navigator.plugins && navigator.plugins.length) {
+	for (x=0; x<navigator.plugins.length;x++) {
+		if (navigator.plugins[x].description.indexOf('Adobe Acrobat')!= -1) {
+			acrobat.version=parseFloat(navigator.plugins[x].description.split('Version ')[1]);
+			
+			if (acrobat.version.toString().length == 1) acrobat.version+='.0';
+			
+			acrobat.installed=true;
+			displayString = acrobat.version;
+			break;
+		}
+		else if(navigator.plugins[x].description.indexOf('Adobe PDF')!= -1){
+			acrobat.installed=true;
+			displayString = '8.0';
+			break;
+		}
+	}
+} else if (window.ActiveXObject) {
+	for (x=2; x<10; x++) {
+		try {
+			oAcro=eval("new ActiveXObject('PDF.PdfCtrl."+x+"');");
+			if (oAcro) {
+				acrobat.installed=true;
+				
+				acrobat.version=x+'.0';
+				displayString = acrobat.version;
+			}
+		} catch(e) {}
+}
+
+try {
+	oAcro4=new ActiveXObject('PDF.PdfCtrl.1');
+	if (oAcro4) {
+		acrobat.installed=true;
+		acrobat.version='4.0';
+		displayString = acrobat.version;
+	}
+} catch(e) {}
+
+try {
+	oAcro7=new ActiveXObject('AcroPDF.PDF.1');
+	if (oAcro7) {
+		acrobat.installed=true;
+		acrobat.version='7.0';
+		displayString = acrobat.version;
+	}
+} catch(e) {}
+}
+
+/* check if the user is safari or MAC if so do not display the acrobat message*/
+var sUserAgent = navigator.userAgent.toLowerCase();
+var isSafari=(sUserAgent.indexOf('safari')!=-1)?true:false;
+var isMac=(sUserAgent.indexOf('mac')!=-1)?true:false;
+
+/* Display Message */
+// if the user doesn't have acrobat or has a version earlier then 7 display message
+if ((!displayString || displayString < 6) && !isSafari && !isMac) {
+	document.getElementById("errorMessage").innerHTML='You will need the Adobe Acrobat Reader to view some of the documents on this site. <br>If you do not have Adobe Acrobat Reader on your computer, you can download it by clicking on the icon below. <br><a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank" tabindex="4"><img src="/images/get_adobe_reader.gif" border=0 alt="get adobe acrobat"></a>'
+}
+
+
+if(failDisplay){
+//document.getElementById("errorMessage").innerHTML=
+//alert("width = "+window.screen.width+" height = "+window.screen.height+" - "+failDisplay)
+	document.getElementById("errorMessage").innerHTML='This system is best viewed at the screen resolution of 1024 x 768 or higher.'
+}
+
+// if the user doesn't have flash installed
+
+	
+
+	
+	
+	
+	
+
+
+</script>
+
+		
+		<div id="content" style="visibility: visible;">
+			<div class="col1" id="col1">
+				<div class="sidebar">
+					
+<a href="/viewStudentDetails.do?type=join" style="text-decoration: none;">
+<div style="background: no-repeat url('/images/home/content/promoBlank.gif'); width: 185px; height: 176px; cursor: pointer;">
+<div style="float: left; margin-top: 52px; width:100%;">
+<div class="promoYellow" style="margin-left: 20px;"><b>STUDENTS</b></div>
+<div class="promoOrangeLarge" style="margin-left:5px; padding:0; top:0px;"><b>$9.95</b></div>
+<div class="promoOrangeSmall" style="width: 100%; text-align: center;"><b>PER MONTH</b> (gst incl.)</div></div></div>
+</a>
+<a href="/showContent.do?user=student&amp;type=scorcherInfo"><img src="/images/home/content/promo2.gif" alt="SCORCHER"></a>
+<a href="/showContent.do?user=student&amp;type=testimonials"><img src="/images/home/content/promo3.gif" alt="Testimonials"></a>
+
+				</div>
+			</div>
+			
+			<div class="col2" id="col2">
+				<div class="tabnav" id="tabnav">
+					
+<script type="text/javascript">
+function changeImage(e){
+	var targ;
+	if(e.target) targ = e.target;
+	else if (e.srcElement) targ = e.srcElement;
+	if (targ.nodeType == 3) targ = targ.parentNode; // defeat Safari bug
+	
+	var source = "/images/home/content/"+targ.id;
+	if (e.type == "mouseover") source += "_o";
+	else source += "";
+	source += ".gif";
+
+	targ.src=source;
+}
+</script>
+
+
+
+
+
+<a href="/showContent.do?user=teacher&amp;type=teacher" id="teachertab">
+	<img onfocus="changeImage(event)" onblur="changeImage(event)" onmouseover="changeImage(event)" onmouseout="changeImage(event)" id="tab_teachers" src="/images/home/content/tab_teachers.gif" alt="Information for teachers"></a>
+<a href="/showContent.do?user=parent&amp;type=parent" id="parenttab">
+	<img onfocus="changeImage(event)" onblur="changeImage(event)" onmouseover="changeImage(event)" onmouseout="changeImage(event)" id="tab_parents" src="/images/home/content/tab_parents.gif" alt="Information for parents"></a>
+<a href="/showContent.do?user=student&amp;type=student" id="studenttab">
+	<img onfocus="changeImage(event)" onblur="changeImage(event)" onmouseover="changeImage(event)" onmouseout="changeImage(event)" id="tab_students" src="/images/home/content/tab_students.gif?" alt="Information for students"></a>
+
+				</div>		
+				<div class="tabcontent" id="tabcontent" style="height: 1023px; visibility: visible;">
+					<div class="leftnav" id="leftnav" style="height: 1003px;">
+						
+
+
+					</div>
+					<div class="pagetext" id="pagetext" style="width: 530px; background-attachment: scroll; height: 993px;">
+						
+
+
+
+<h1><strong>HOTmaths privacy policy and security statement</strong></h1>
+<h2>What is this policy about?</h2>
+<ul>
+<li>This policy covers the gathering by HOTmaths of personally identifiable information that HOTmaths obtains when you register to use the site and when you use the HOTmaths online mathematics tutorial program, and the way that information is handled by HOTmaths.
+</li><li>This policy does not cover the practices of people, organisations or companies for which HOTmaths does not have responsibility. The policy also does not cover the practices of individuals with whom the subscriber has shared their mathematics progress activity reports.
+</li></ul>
+<h2>What is covered by this policy?</h2>
+<ul>
+<li>This policy covers the mathematics online tutorial programs which are operated by HOTmaths Pty Ltd.
+</li></ul>
+<h2>What information does HOTmaths collect and use, and why?</h2>
+<ul>
+<li>HOTmaths collects information that identifies you when you register on the site for a HOTmaths account.
+</li><li>When you subscribe to HOTmaths, you are asked for your first and last name, a username, password, email address, sex, subscriber type, postcode and school.
+</li><li>HOTmaths collects a username and password so that only you can access your account. Designated HOTmaths administrators at your school have access to usernames and passwords for students at your school so that they can remind you if you forget them. HOTmaths school administrators may not give your username and password to any other user and they are required to treat this as confidential information.
+</li><li>Last name is collected so that if you choose to allow your teacher to view your progress activity report, your report will be organised alphabetically with the names of your classmates. 
+</li><li>Email address collection allows HOTmaths to contact you about changes to the site or to advise you of matters regarding your use of the site. 
+</li><li>Postcode data allows HOTmaths to analyse student demand geographically. 
+</li><li>Name of school is required to allow organisation of classes, results in class groups for teachers to view, Scorcher leaderboard records, and special school discount subscription rates. 
+</li><li>Subscriber type tells HOTmaths whether you are a teacher or student. HOTmaths offers different features to different subscriber types.
+</li><li>HOTmaths also adds a cookie to your computer as an important part of interacting with your web browser and your computer. This is so that HOTmaths knows if the computer you are using has visited HOTmaths before and to ensure that only one person can access your account at any time. 
+</li><li>HOTmaths does not collect any information such as date and time of visit by anyone visiting the public sections of the site who has not logged on to the site.
+</li></ul>
+<h2>Information sharing and disclosure</h2>
+<ul>
+<li>HOTmaths does not give, rent, lease or sell any personally identifying information about you to another individual, organisation or company outside HOTmaths.
+</li><li>You can share your own progress reports with a teacher or parent if you choose. You can also remove the right of someone to view your progress. HOTmaths does not share your progress information with any other user.
+</li></ul>
+<h2>Exceptions</h2>
+<ul>
+<li>The only exception to your privacy would be if HOTmaths were required by a court order or subpoena to provide information deemed relevant to legal misuse of the site.
+</li></ul>
+<h2>Your control over your personally identifying information</h2>
+<ul>
+<li>All personally identifying information collected by HOTmaths can be edited and changed by you through the ‘Edit your details’ section.
+</li><li>No person other than you and the HOTmaths team can access any of your details. The HOTmaths team would only manually edit your details if you request that this be done for you.
+</li></ul>
+<h2>Security of information</h2>
+<ul>
+<li>Your personal information is password protected. For your own protection, do not allow anyone else to know or use your password 
+</li><li>SSL encryption is used in some areas of the site where sensitive data is transmitted.
+</li></ul>
+<h2>Changes to this policy</h2>
+<ul>
+<li>HOTmaths may change this policy from time to time. If it does so, you will be notified by a message in your HOTmaths message centre.
+</li></ul>
+<h2>Further information</h2>
+<ul>
+<li>If you would like further information about this policy or about HOTmaths, click on CONTACT US and complete the form in the ‘General enquiry’ link.
+</li></ul>
+					</div>
+				</div>
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+
+		
+<div id="footer">
+	<ul>
+		<li><a href="/">home</a></li>
+	    <li><a href="/showContent.do?type=aboutUs">about us</a></li>
+	    <!--li><a href="/showContent.do?type=faq">faq</a></li-->
+	    <li><a href="/showContent.do?type=resources">resources</a></li>
+	    <!--li><a href="/showContent.do?type=dictionary">dictionary</a></li-->
+	    <li><a href="/showContent.do?type=contact">contact us</a></li>
+	    <li><a href="/showContent.do?type=media">media</a></li>
+	    <li><a href="/showContent.do?type=privacy">privacy</a></li>
+	    <li><a href="/showContent.do?type=terms">terms of use</a></li>
+	    <li><a href="/showContent.do?type=siteMap">site map</a></li>
+	    
+	</ul>
+	<div style="clear:both"></div>
+</div>
+
+		
+	</div>
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+
+<script type="text/javascript">
+_uacct = "UA-723521-1";
+urchinTracker();
+</script>
+
+
+</body></html>
