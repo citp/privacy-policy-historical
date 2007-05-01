@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2006-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061109220107id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2007-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070501022551id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>IronPlanet - Privacy Statement</title>
@@ -15,9 +15,8 @@
 
 
 
-
 	<!-- Common JavaScript -->
-	<script language="JavaScript" type="text/javascript" src="/js/ipscripts.js"></script> 
+	<script language="JavaScript" type="text/javascript" src="/js/ipscripts.jsp"></script> 
 
 
 </head>
@@ -63,6 +62,16 @@ function hide_menu(mx) {
   	timeOn = setTimeout("menuOut()", 200);
 }
 
+function do_lang_change(pg) {
+	var switcherFrame = document.createElement('iframe');
+	switcherFrame.setAttribute("src",pg);
+	switcherFrame.setAttribute("width", "0");
+	switcherFrame.setAttribute("height", "0");
+	switcherFrame.setAttribute("border", "0");
+	switcherFrame.setAttribute("frameborder", "0");
+	document.body.appendChild(switcherFrame);
+}
+
 function menuOut() {
 	if (document.getElementById) document.getElementById([mm]).style.visibility = "hidden";	
 	if (document.forms[0]) {  // This reshows form elements in the page
@@ -91,6 +100,30 @@ function getCookie(name) {
     end = dc.length;
   return unescape(dc.substring(begin + prefix.length, end));
 }
+function decodeUTF8(utftext) {
+  var string = "";
+  var i = 0;
+  var c = c1 = c2 = 0;
+  while (i < utftext.length) {
+    c = utftext.charCodeAt(i);
+    if (c < 128){
+      string += String.fromCharCode(c);
+      i++;
+    }
+    else if ((c > 191) && (c < 224)) {
+      c2 = utftext.charCodeAt(i+1);
+      string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+      i += 2;
+    }
+    else {
+      c2 = utftext.charCodeAt(i+1);
+      c3 = utftext.charCodeAt(i+2);
+      string+=String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+      i += 3;
+      }
+  }
+  return string;
+}
 
 var loggedIn = getCookie("loggedin");
 var loginName = getCookie("login");
@@ -98,7 +131,7 @@ var acsLevel = getCookie("reglevel");
 var termsTips = getCookie(loginName +"-termsTips");
 
 if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
-	var w2 = window.open('/pop/terms_popup.html','Terms','width=695, height=435,scrollbars=yes');
+	var w2 = window.open('/pop/terms_popup.jsp','Terms','width=695, height=435,scrollbars=yes');
 
 	if(w2 != null)
 		w2.focus();
@@ -112,30 +145,49 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 // -->
 </script>
-
 <div style="position:absolute; left:15px; top:1px; z-index:4;"><a href="/index.jsp"><img src="/k_images/logo_home.gif" border="0" alt="Home" title="Home"></a></div>
 <table id="yogurt" width="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr class="hdr_row1">
     <td width="172px;"><img src="/k_images/dot.gif" width="172" height="1" alt=""></td>
     <td><img src="/k_images/dot.gif" width="590" height="1" alt=""><br>
-    	<table style="width:100%" cellspacing="0" cellpadding="0" border="0">
+    	<table style="width:100%;" cellspacing="0" cellpadding="0">
+    	<tbody><tr class="hdr_row1">
+    		<td style="padding-right:2px;">
+    		<span style="float:right;">
+    		  <table cellspacing="0" cellpadding="0">
     	<tbody><tr>
-    		<td style="padding-bottom:3px; padding-left:10px; ">
+                        <td style="text-align:right; padding-bottom:5px;">|</td>
+		    			<td style="text-align:right; padding-bottom:5px; padding-left:2px; padding-right:2px"><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=es_MX');">Español</a> 
+						</td>
+					
+    		  </tr>
+    		  </tbody></table>
+    		  </span>
+	         </td>
+	         </tr>
+	         <tr class="hdr_row1">
+	          <td>
+				<table style="width:100%" cellspacing="0" cellpadding="0">
+    			<tbody><tr><td style="padding-bottom:3px; padding-left:10px;">         
 	    		<script language="javascript">
 					<!-- 
 					if (loginName == null) loginName = "";
 					  if (loggedIn && loginName != "")  {
-					  document.write("Logged in as: <nobr>"+loginName+"</nobr> | <a href=/jsp/logout_nd.jsp><b>Logout</b></a>");
+					  document.write("Logged in as: <nobr>"+decodeUTF8(loginName)+"</nobr> | <a href=/jsp/logout_nd.jsp><b>"+"Logout"+"</b></a>");
 					  } else {
-					  document.write("<a href='/jsp/acct/my-account.jsp'>Login</a> | <a href='/jsp/acct/register.jsp'>Register Now...</a> it's quick, easy, and FREE!");
+					  document.write("<a href='/jsp/acct/my-account.jsp'>"+"Login"+"</a> | "+"<a href='/jsp/acct/register.jsp'>Register Now...</a> it's quick, easy, and FREE!");
 					}
 					// -->
 					</script><a href="/jsp/acct/my-account.jsp">Login</a> | <a href="/jsp/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
 					<noscript>
 						<a href='/jsp/acct/my-account.jsp'>Login</a> or <a href="/jsp/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
 					</noscript>
-    		</td>
-    		<td style="text-align:right; padding-bottom:3px;"><a href="/main/contact.jsp">Contact Us</a> : <img src="/k_images/icon_phone4_inv.gif" style="position:relative; top:2px;"> 888-433-5426&nbsp;&nbsp;</td>
+			</td>
+    		<td style="text-align:right; padding-bottom:3px;">   		
+    		<a href="/main/contact.jsp">Contact Us</a> : <img src="/k_images/icon_phone4_inv.gif" style="position:relative; top:2px;"> 888-433-5426&nbsp;&nbsp;</td>
+    	</tr>
+    	</tbody></table> 
+    	</td>
     	</tr>
     	</tbody></table> 
     </td>
@@ -152,13 +204,21 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 
 
+	
+
+
+
+
+
+
+
 
 
 	<a href="/jsp/find/searchresults.jsp?category=1198&amp;command=NewSearch&amp;h=400" style="display:block">Aerial Work Platforms</a>
 	
 	<a href="/jsp/find/searchresults.jsp?category=8&amp;command=NewSearch&amp;h=400" style="display:block">Aggregate</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=12&amp;command=NewSearch&amp;h=400" style="display:block">Asphalt</a>
+	<a href="/jsp/find/searchresults.jsp?category=12&amp;command=NewSearch&amp;h=400" style="display:block">Asphalt/Paving/Concrete</a>
 	
 	<a href="/jsp/find/searchresults.jsp?category=21&amp;command=NewSearch&amp;h=400" style="display:block">Backhoes</a>
 	
@@ -205,11 +265,11 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 
 
-			<a href="/jsp/equip/auction.jsp?groupId=1367" style="display:block">Wed Nov 15</a>
+			<a href="/jsp/equip/auction.jsp?groupId=1667" style="display:block">Thu May 3</a>
 			
-			<a href="/jsp/equip/auction.jsp?groupId=1346" style="display:block">Thu Nov 16</a>
+			<a href="/jsp/equip/auction.jsp?groupId=1687" style="display:block">Thu May 10</a>
 			
-			<a href="/jsp/listing/listing_form.jsp" style="display:block">Thu Dec 7</a>
+			<a href="/jsp/listing/listing_form.jsp" style="display:block">Thu May 17</a>
 			
 
 
@@ -222,8 +282,8 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 					<a href="/main/auction_results.jsp">Past Auction Results</a>
 		   		</div>
 			</td>
-			<td><a class="menu_item" href="/buy/how2buy.jsp" id="menu3">HOW TO BUY</a></td>
-			<td><a class="menu_item" href="/sell/how2sell.jsp" id="menu4">HOW TO SELL</a></td>
+			<td><a class="menu_item" href="/jsp/s/howto/howtoBuy.html" id="menu3">HOW TO BUY</a></td>
+			<td><a class="menu_item" href="/jsp/s/howto/howtoSell.html" id="menu4">HOW TO SELL</a></td>
 			<td><a class="menu_item" href="/jsp/acct/my-account.jsp" id="menu5">MY ACCOUNT</a></td>
 			<td><a class="menu_item" href="/jsp/equip/index.jsp" id="menu6" style="text-align:right; padding-right:8px;">SEARCH</a></td>
 		</tr>
@@ -233,7 +293,6 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 <tr class="hdr_row3"><td colspan="2"><img src="/k_images/dot.gif" height="2" alt=""></td></tr>
 </tbody></table>
 <div id="motd" class="no_motd"></div>
-
 
 
 
@@ -285,12 +344,12 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
           about our services or third party products and services 
           we believe may be of interest to you. 
       </p></blockquote>
-      <p><b>Who does IronPlanet share information with?<br>
+      <p><b>With whom does IronPlanet share information?<br>
         </b>IronPlanet may share user information with specific third 
         parties for the purpose of providing additional services. 
         In particular, IronPlanet has several service partners who 
         provide services or products and as part of such operations, 
-        these companies may have access to your personal information. 
+        these companies may be provided certain of your contact information. 
         In addition, IronPlanet also discloses aggregated user statistics 
         in order to describe our services and reach to prospective 
         partners, advertisers and other third parties. However aggregate 
@@ -365,7 +424,7 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 		<a href="/main/contact.jsp">Contact Us</a>
 	</td>
 </tr>
-<tr><td colspan="2" class="sub_footer" style="text-align:right; color:#666; font-size:10px; padding-top:5px;">IronPlanet, Inc. © 2006 All Rights Reserved &nbsp;&nbsp; <a href="/pop/short_terms.jsp" onclick="popUp('/pop/short_terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a><br>&nbsp;
+<tr><td colspan="2" class="sub_footer" style="text-align:right; color:#666; font-size:10px; padding-top:5px;">IronPlanet, Inc. © 2007 All Rights Reserved &nbsp;&nbsp; <a href="/pop/short_terms.jsp" onclick="popUp('/pop/short_terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a><br>&nbsp;
 	<div class="WL"><a class="WL" href="/heavy_equipment.jsp">I</a><a class="WL" href="/construction_equipment_auction.html">r</a><a class="WL" href="/heavy_equipment_auction.html">o</a><a class="WL" href="/heavy_equipment_for_sale.html">n</a><a class="WL" href="/used_backhoes.html">P</a><a class="WL" href="/used_dozers.html">l</a><a class="WL" href="/used_caterpillar_equipment.html">a</a><a class="WL" href="/used_construction_equipment.html">n</a><a class="WL" href="/used_heavy_equipment.html">e</a><a class="WL" href="/used_farm_tractors.html">t</a><a class="WL" href="/used_farm_tractors_for_sale.html">&nbsp;I</a><a class="WL" href="/used_case_equipment.html">n</a><a class="WL" href="/used_caterpillar_equipment.html">c</a><a class="WL" href="/used_bulldozers.html">.</a></div>
 </td></tr>
 </tbody></table>
