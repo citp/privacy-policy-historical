@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219161025id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501055408id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
 
@@ -49,7 +49,7 @@ privacyX@XLearn2Type.com
 
 |   
 
-Content and materials on this website are Copyright ©1999-2006 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2007 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
