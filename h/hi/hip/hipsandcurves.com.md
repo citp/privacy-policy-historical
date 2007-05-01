@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216203442id_/http%3A//www.hipsandcurves.com/help_content%7Efc%7E90.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501220748id_/http%3A//www.hipsandcurves.com/help_content%7Efc%7E90.htm) for the most accurate reproduction.*
 
-# HipsandCurves.com - Welcome to our online shop
+# HipsandCurves.com - Sexy Plus Size Lingerie, large size intimate apparel, plus sized corsets, costumes, panties, thongs and super-size lingerie exclusively for full-figured women and their admirers. - Store Front Page
 
 What is your privacy policy?
 
