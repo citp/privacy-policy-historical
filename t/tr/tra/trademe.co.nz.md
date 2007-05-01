@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104121438id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501113205id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
 
 # TradeMe - New Zealand Online Auctions and Classifieds
 
-Trade Me has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about Trade Me, please review our [ Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp). 
+Trade Me has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about Trade Me, please review our [ Terms and Conditions](https://web.archive.org/Help/Topic.aspx?help_id=143). 
 
 **Use of your information**  
-Trade Me **does not** sell or rent your personal identification to third parties. 
+Trade Me **does not** sell or rent your personal information to third parties. 
 
-We release account and other personal information only when we believe release is appropriate to comply with law; enforce or apply our terms and conditions; or protect the rights, property, or safety of Trade Me Limited, our users, or others. 
+We release account and other personal information only when we believe release is appropriate to comply with law; facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of Trade Me Limited, our users, or others. 
 
 **Email**  
 It is the policy of Trade Me to send our members email throughout the auction process and other email they elect to receive, in addition to customary business communications (payment confirmations, etc.). Further, it is our policy to immediately remove any member from any mailing list upon the member's request. In addition, Trade Me will send a monthly newsletter to members. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
@@ -15,13 +15,13 @@ It is the policy of Trade Me to send our members email throughout the auction pr
 We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/Help/ContactUs.aspx) with your questions or comments. 
 
 **Emailing Tools**  
-Trade Me provides facilities throughout the site to refer a friend to Trade Me or to send references to a specific listing to a friend. You may not use the "Email This Auction to a Friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our privacy policy or [Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp). We do not permanently store, sell, or rent these email messages or the email addresses. 
+Trade Me provides facilities throughout the site to refer a friend to Trade Me or to send references to a specific listing to a friend. You may not use the "Email This Auction to a Friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our privacy policy or [Terms and Conditions](https://web.archive.org/Help/Topic.aspx?help_id=143). We do not permanently store, sell, or rent these email messages or the email addresses. 
 
 **Membership Registration**  
 Our site's registration form requires you to provide us contact information and may also require demographic information. We may use your contact information from the registration form to send you information about our company and promotional material from some of our affiliated partners. Your contact information is also used to contact you when necessary. 
 
 **Updating Your Personal Information**  
-Trade Me provides you with ways in which you can alter your personal data, including changing your email address, password, phone number, etc. Trade Me will store previous email addresses against your profile to ensure compliance with our [Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp) \- specifically the use of one account per member. 
+Trade Me provides you with ways in which you can alter your personal data, including changing your email address, password, phone number, etc. Trade Me will store previous email addresses against your profile to ensure compliance with our [Terms and Conditions](https://web.archive.org/Help/Topic.aspx?help_id=143) \- specifically the use of one account per member. 
 
 **Delivery Address Details**  
 Trade Me enables you to save one or more of your delivery addresses which we will store against your profile. When you buy an item you have the option of selecting a delivery address which we will then send to the seller. We will never give the seller your address without your permission. 
@@ -35,9 +35,12 @@ You are responsible for all actions taken with your user name, email address and
 **Credit Card Security**  
 We work diligently to protect the security of your personal information, including credit card information. 
 
-We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. When paying by credit card, you can choose to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by Direct Payment Solutions (DPS). [ Review their Privacy Policy](https://web.archive.org/structure/helpdocs/dps_privacy_policy.pdf) (PDF document). Your credit card details are not held by Trade Me and can not be accessed by Trade Me staff. 
+We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. When paying by credit card, you can choose to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by Direct Payment Solutions (DPS). [ Review their Privacy Policy](https://web.archive.org/Partners/DPS/dps_privacy_policy.pdf) (PDF document). Your credit card details are not held by Trade Me and can not be accessed by Trade Me staff. 
 
 It is important for you to protect against unauthorized access to your password and to your computer by ensuring you logoff when you have finished visiting Trade Me using a shared computer. 
+
+**Job applications**  
+The "Apply Online" feature enables you to send a job application to organisations advertising on Trade Me Jobs. We forward these applications directly to the organisation listing the job and they are stored on our servers for a short time. We do not read these applications. 
 
 **Cookies**  
 Cookies are small pieces of information that are stored in a browser-related file on your computer's hard drive when you use our Web site. We use cookies to improve the member experience. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites. 
