@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/privacy.cfm) for the most accurate reproduction.*
 
 # IBERIABANK
 
-[](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/default.cfm)
+[](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/default.cfm)
 
-Sunday, October 15, 2006
+Tuesday, May 1, 2007
 
 ##  Merger News 
 
-IBERIABANK Announces Merger Agreements With [Pulaski Investment Corporation](http://www.iberiabank.com/irPressRelease.cfm?releaseID=893909) and [Pocahontas Bancorp, Inc.](http://www.iberiabank.com/irPressRelease.cfm?releaseID=888385)
+IBERIABANK Announces Completed Acquisition of [Pulaski Investment Corporation](http://www.iberiabank.com/irPressRelease.cfm?releaseID=957012) and [Pocahontas Bancorp, Inc.](http://www.iberiabank.com/irPressRelease.cfm?releaseID=957712)
 
 ##  Easy Switch Kit 
 
 Click for our [Easy Switch Kit](http://www.iberiabank.com/pdfs/pdfLibrary/Switchkitonline.pdf).
 
-##  [ Location! Location! Location! ](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/news.cfm?selNewsItem=1008)
+##  [ Location! Location! Location! ](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/news.cfm?selNewsItem=1008)
 
 IBERIABANK is expanding quickly throughout Louisiana.
 
-  * [Reorder Checks Online](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/checkReorder.cfm)
-  * [Learn More About Online Banking](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/onlineFeatures.cfm)
+  * [Reorder Checks Online](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/checkReorder.cfm)
+  * [Learn More About Online Banking](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/onlineFeatures.cfm)
   * Deluxe Gift Card
 
 
@@ -50,8 +50,8 @@ How? | All financial companies need to share customers’ personal information t
 **For joint marketing with other financial companies** | Yes | No  
 **For our affiliates’ everyday business purposes** – information about your transactions and experiences  | Yes | No  
 **For affiliates to market to you** | Yes | No  
-**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
-**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
 **Sharing practices**  
 ---  
 **How often does IBERIABANK notify me about their practices?** | We must notify you about our sharing practices when you open an account and each year while you are a customer.   
@@ -113,7 +113,7 @@ A formal agreement between nonaffiliated financial companies that together marke
 **Sharing practices**  
 **Contact us** | 
 
-**By mail:**[Print this mail-in form](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf) (PDF), mark your choices, fill in and send form to: 
+**By mail:**[Print this mail-in form](https://web.archive.org/web/20070501151014id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf) (PDF), mark your choices, fill in and send form to: 
 
 Customer Privacy Control Desk  
 IBERIABANK  
