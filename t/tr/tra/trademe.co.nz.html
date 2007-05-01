@@ -1,433 +1,556 @@
-<!--The following is the downloaded HTML source of the trademe.co.nz privacy policy that was archived on 2006-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061104121438id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trademe.co.nz privacy policy that was archived on 2007-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070501113205id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		
 
 <!--
 If you're looking at our HTML source, you're exactly the person
 who should send us your resume. 
 View current vacancies at http://www.trademe.co.nz/careers
 -->
-<title id="Title_Title">TradeMe - New Zealand Online Auctions and Classifieds</title>
+<title id="SiteTitle_Title">TradeMe - New Zealand Online Auctions and Classifieds</title>
+
 <base target="_top">
-<meta id="Title_Description" name="description" content="TradeMe - New Zealand Online Auctions and Classifieds Trade Me is New Zealand's leading shopping website, with thousands of online auctions and classifieds. Buy and sell online at TradeMe.co.nz!">
-<meta id="Title_Keywords" name="keywords" content="TradeMe - New Zealand Online Auctions and Classifieds, auctions, online auctions, auction sites, used cars for sale, car auctions, computer auctions, used computer parts, computers for sale, music sales, books for sale, movies for sale, digital camera sales, used dvd, trade me, trademe, new zealand, auckland, wellington">
+
+<meta id="SiteTitle_Description" name="description" content="TradeMe - New Zealand Online Auctions and Classifieds Trade Me is New Zealand's leading shopping website, with thousands of online auctions and classifieds. Buy and sell online at TradeMe.co.nz!">
+<meta id="SiteTitle_Keywords" name="keywords" content="TradeMe - New Zealand Online Auctions and Classifieds, auctions, online auctions, auction sites, used cars for sale, car auctions, computer auctions, used computer parts, computers for sale, music sales, books for sale, movies for sale, digital camera sales, used dvd, trade me, trademe, new zealand, auckland, wellington">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta http-equiv="expires" content="-1">
 <meta http-equiv="pragma" content="no-cache">
 <link title="Trade Me Search" type="application/opensearchdescription+xml" rel="search" href="/API/OpenSearch.xml">
-<style type="text/css"> @import url(/Styles/Default.css); </style>
-<script type="text/javascript" src="/javascript/common.js"></script>
-<script language="javascript" type="text/javascript">
-function popup_help_full(helpid,x,y,width,height){
-if (x==0) x=50;
-if (y==0) y=50;
-if (width==0) width=585;
-if (height==0) height=520;
-winOptions = "location=no,toolbar=yes,menubar=no,resizable=yes,scrollbars=yes,height=" + height + ",width=" + width;
-if (navigator.appName == "Netscape")
-winOptions += ",screenX=" + x + ",screenY=" + y;
-else
-winOptions += ",left=" + x + ",top=" + y;
-window.open("/Help/PopUp.aspx?help_id=" + helpid, "pop", winOptions);
-}
+<style type="text/css">@import url(/Styles/Common8.css);</style>
+
+<script type="text/javascript">
+    var scripts = [];
+    
+    function IsScriptLoaded(scriptName)
+    {
+        var i;
+        scriptName = scriptName.toLowerCase();
+        for( i = 0; i < scripts.length; i++ )
+        {
+            if( scripts[i] == scriptName )
+                return true;
+        };
+        return false;
+    };
+    
+    function AddLoadedScript(scriptName)
+    {
+        scripts[scripts.length] = scriptName.toLowerCase();
+    };
+    
+    function addLoadEvent(func)
+    {
+        if( IsScriptLoaded('Common.js') && IsScriptLoaded('LoadScripts.js') ) 
+        {
+            if( typeof(func) == 'string' )
+            {
+                var funcCall = function() { eval(func) };           
+                addWindowLoadEvent(funcCall);
+            }
+            else     
+                addWindowLoadEvent(func);            
+        }
+        else
+        {	
+            if( typeof(func) == 'string' )
+		        setTimeout( 'addLoadEvent(\'' + func + '\')', 500 );
+            else
+		        setTimeout( 'addLoadEvent(' + func + ')', 500 );
+		    
+        };
+    };
+    
+    addLoadEvent('TradeMe.init()');
+     
+	function popup_help_full(helpid,x,y,width,height){ 
+		if (x==0) x=50 ;
+		if (y==0) y=50; 
+		if (width==0) width=585; 
+		if (height==0) height=520; 
+		
+		winOptions = "location=no,toolbar=yes,menubar=no,resizable=yes,scrollbars=yes,height=" + height + ",width=" + width; 
+		if (navigator.appName == "Netscape")
+			winOptions += ",screenX=" + x + ",screenY=" + y; 
+		else 
+			winOptions += ",left=" + x + ",top=" + y; 
+			
+		window.open("/Help/PopUp.aspx?help_id=" + helpid, "pop", winOptions); 
+	}
 </script>
 
-<script language="javascript" type="text/javascript">
-if ((parent) && (parent.frames.length > 0)) {
-parent.location.href = self.location.href;
-}
-</script>
+<script type="text/javascript" src="/JavaScript/Common1.js"></script>
+<script type="text/javascript" src="/JavaScript/LoadScripts7.js"></script>
+<script type="text/javascript" src="/JavaScript/LoginWarning.js"></script>
+
+
+	<script language="javascript" type="text/javascript">
+		if ((parent) && (parent.frames.length > 0)) {
+			parent.location.href = self.location.href;
+		}
+	</script>
 
 
 
-</head>
-<body>
-<div id="site-nav">    <a href="http://www.stuff.co.nz">Stuff</a>	<span>Trade&nbsp;Me</span>	<a href="http://www.findsomeone.co.nz">Find&nbsp;Someone</a>	<a href="http://www.oldfriends.co.nz">Old&nbsp;Friends</a>	<a href="http://www.smaps.co.nz">Smaps</a>	<a class="last nav" href="https://secure.safetrader.co.nz">SafeTrader</a></div>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr align="center">
-<td align="left">
-<h1 id="HeaderLogo">
-
-
-
-<a href="http://www.trademe.co.nz" id="Header_SiteTabs_HomeLink"><img src="/images/banner_kiwi3.gif" id="Header_SiteTabs_KevinImage" vspace="2" hspace="3" border="0" alt="TradeMe - New Zealand Online Auctions and Classifieds"></a>
-</h1>
-<div id="HeaderUtilLinks">
-
-<a href="/Members/Login.aspx" id="Header_SiteTabs_LoginLink" class="t">Login</a>
-
-&nbsp;&nbsp;&nbsp;
-
-
-<a href="/Members/Register.aspx" class="t">Register</a>
-&nbsp;&nbsp;&nbsp;
-
-
-
-<a href="/Help/Default.aspx"><img src="/images/icon_help.gif" border="0" alt=""></a>
-<a href="/Help/Default.aspx" class="t">Help</a>
-
+	</head>
+	<body class="body">
+		
+<div id="head">
+	<div id="minWidth">
+		
+<div id="site-nav">
+	<a href="http://www.stuff.co.nz">Stuff</a>
+	<span>Trade Me</span>
+	<a href="http://www.findsomeone.co.nz">Find Someone</a>
+	<a href="http://www.oldfriends.co.nz">Old Friends</a>
+	<a href="http://www.smaps.co.nz">Smaps</a>
+	<a class="last" href="https://secure.safetrader.co.nz">SafeTrader</a>
+	<div id="timeBar">11:32 pm, 1 May</div>
 </div>
-<br style="clear: both;">
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="HeaderTabOff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="HeaderTabOff"><a href="http://www.trademe.co.nz" class="t">Home</a>&nbsp;</td><td><img src="/images/tab_mid_off2.gif" width="42" height="26" alt=""></td><td class="HeaderTabOff">&nbsp;<a href="/category_index.htm" class="t">Browse</a>&nbsp;</td><td><img src="/images/tab_mid_off2.gif" width="42" height="26" alt=""></td><td class="HeaderTabOff">&nbsp;&nbsp;<a href="/Sell/Default.aspx" class="t">Sell</a>&nbsp;&nbsp;</td><td><img src="/images/tab_mid_off2.gif" width="42" height="26" alt=""></td><td class="HeaderTabOff" width="100"><a href="/MyTradeMe/Default.aspx" class="t">My&nbsp;Trade&nbsp;Me</a></td><td><img src="/images/tab_mid_off2.gif" width="42" height="26" alt=""></td><td class="HeaderTabOff" width="100"><a href="/Community/Default.aspx" class="t">Community</a></td><td><img src="/images/tab_right_off2.gif" width="33" height="26" alt=""></td><td width="100%" style="background: url(/images/tab_bg_right.gif);">&nbsp;</td></tr></tbody></table>
-</td>
-<td align="right" valign="middle" style="background-image:url(/images/ads/rotating/banner_bg.gif);"><a href="http://www.trademe.co.nz/Track.aspx?site=TRADEME%2c%2cbanner_tab--mo_whl_borrow_3010_tab.gif&amp;redirect=http%3a%2f%2fadsfac.net%2flink.asp%3fcc%3dHSI002.27709.0%26clk%3d1%26creativeID%3d43523"><img src="http://images.trademe.co.nz/photoserver/adserver/mo_whl_borrow_tab.gif" border="0" alt="" title=""></a></td>
-</tr>
+
+		
+			<div id="kevinArea" style="">
+				
+				
+				
+				<a href="http://www.trademe.co.nz" id="SiteHeader_SiteTabs_homeLink"><img src="/images/3/common/new_kevin.gif" id="SiteHeader_SiteTabs_kevin" class="kevin" alt="kevin"></a>
+			</div>
+			<ul id="snav">
+				
+				<li>
+					
+					<a href="/Members/Login.aspx" id="SiteHeader_SiteTabs_LoginLink">Login</a>
+					</li>
+					
+					<li><a href="/Members/Register.aspx">Register</a></li>
+				<li>
+					
+					<a href="/Help/Default.aspx"><img src="/images/icon_help.gif" alt=""></a>&nbsp;<a href="/Help/Default.aspx">Help</a>
+				</li>
+			</ul>
+			<div id="nav" class="nav">
+				<table cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td id="navLeft">&nbsp;</td>
+						<td id="navLinks">
+							<ul>
+								<li id="navHome"><a href="/">Home</a></li>
+<li id="navBrowse"><a href="/category_index.htm">Browse</a></li>
+<li id="navSell"><a href="/Sell/Default.aspx">Sell</a></li>
+<li id="navMTM"><a href="/MyTradeMe/Default.aspx">My Trade Me</a></li>
+<li id="navCommunity"><a href="/Community/Default.aspx">Community</a></li>
+
+							</ul>
+						</td>
+						<td id="navRight">&nbsp;</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<div id="topAd" style="">
+				<a href="http://www.trademe.co.nz/Track.aspx?site=TRADEME%2c%2cbanner_tab--ad_kb_tm_elbow_3004ros_tab.gif&amp;redirect=http%3a%2f%2fwww.thekiwiway.co.nz%2f"><img src="http://images.trademe.co.nz/photoserver/adserver/ad_kb_tm_elbow_tab.gif" border="0" alt=""></a>
+			</div>
+			<div id="utilityBarOuter"><!--empty div to get gradient effect--></div>
+			
+<table id="utilityBar">
+	<tbody><tr>
+		<td id="utilityBarLeft"><img src="/images/1pixel.gif" width="100" height="1" alt="hk"><br><div id="ubl"><span id="greetingName">&nbsp;</span><br></div></td>
+		<td id="utilityBarCenter">
+			<form name="generalSearch" onsubmit="return TradeMe.searchFormSubmitHandler()" method="get" action="/Browse/SearchResults.aspx">
+				<span id="srch">Search:</span>
+				<select name="searchType" id="searchType" class="searchType">
+<option value="all">All listings</option>
+<option>-------------------</option>
+<option value="0187-">Antiques &amp; collectables</option>
+<option value="0339-">Art</option>
+<option value="0351-">Baby gear</option>
+<option value="0193-">Books</option>
+<option value="5964-">Building &amp; renovation</option>
+<option value="0010-">Business, farming &amp; industry</option>
+<option value="0001-">Cars, boats &amp; motorbikes</option>
+<option value="0153-">Clothing</option>
+<option value="0002-">Computers</option>
+<option value="0341-">Crafts</option>
+<option value="0003-">DVDs &amp; movies</option>
+<option value="0124-">Electronics &amp; photography</option>
+<option value="2975-">Flatmates wanted</option>
+<option value="0202-">Gaming</option>
+<option value="4798-">Health &amp; beauty</option>
+<option value="0004-">Home &amp; living</option>
+<option value="0246-">Jewellery &amp; watches</option>
+<option value="5000-">Jobs</option>
+<option value="0344-">Mobile phones</option>
+<option value="0343-">Music &amp; instruments</option>
+<option value="0340-">Pottery &amp; glass</option>
+<option value="0350-">Real estate</option>
+<option value="0005-">Sports</option>
+<option value="0347-">Toys &amp; models</option>
+<option>-------------------</option>
+<option value="Help" selected="selected">Site help</option>
+<option value="Seller">Members</option>
+
+</select> 
+<input type="text" name="searchString" id="searchString" class="searchString" value=""> 
+<input type="image" src="/Images/3/Common/go.gif" value="Go" id="goG"> 
+<span id="utilityAdvanced"><a href="/Browse/SearchResults.aspx?advanced=true&amp;empty=true&amp;mcat=help&amp;searchstring=&amp;searchregion=">More options</a></span><br><span id="regions"><input type="radio" name="searchRegion" value="100" id="searchRegion100" checked="checked"><label id="searchRegionLabel" for="searchRegion100">NZ</label> <input type="radio" name="searchRegion" value="2" id="searchRegion2"><label id="userSearchRegion" for="searchRegion2">Auckland</label> <a href="/MyTradeMe/SelectRegion.aspx?url=%2fHelp%2fTopic.aspx%3f%3fhelp_id%3d145" onclick="return TradeMe.regionChooserToggle()"><img id="changeRegionImage" src="/Images/3/Common/region.jpg" alt="Change region"></a></span>
+				<input type="hidden" value="Search" name="type">
+			</form>
+		</td>
+		<td id="utilityBarRight" width="150"><div id="ubr"><a href="http://www.trademe.co.nz/Track.aspx?site=TRADEME%2c%2cUtilityBar--ad_tm_courierbags_utilitylink.gif&amp;redirect=http%3a%2f%2fwww.trademe.co.nz%2fMembers%2fPayNowListings.aspx%3fsellerid%3d2265">Buy cheap courier bags<br>&amp; post tickets</a></div></td>
+	</tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffcc00"><tbody><tr><td height="20"><small>&nbsp;</small></td><td align="right"><font color="#997A00" size="1">1:14 am&nbsp;&nbsp;&nbsp;</font></td></tr><tr bgcolor="#FFB600"><td height="1" colspan="2"><img src="/images/1pixel.gif" height="1" alt=""></td></tr></tbody></table>
-<img src="/images/1pixel.gif" height="12" alt=""><br>
-
-<script language="javascript" type="text/javascript" src="/Javascript/LoginWarning.js"></script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-
-<td width="20%" align="center" valign="top" bgcolor="#ffcc00">
-
-<div class="SBHeader">Search</div>
-<form id="SBSForm" action="/Browse/SearchResults.aspx" method="get">
-<select name="searchtype">
-<option value="GENERAL">All Listings</option>
-<option id="Header_SideSearch_SearchTypeCar" value="CAR">Trade Me Motors</option>
-<option id="Header_SideSearch_SearchTypeSeller" value="SELLER">Members</option>
-<option id="Header_SideSearch_SearchTypeHelp" value="HELP">Trade Me Help</option>
-</select><br>
-<input type="text" id="SBSFormText" maxlength="30" name="searchstring" value="">
-<input type="image" id="SBSFormGoButton" name="go" src="/images/b_go.gif">
-<div id="SBSFormRegion">
-<input type="radio" name="searchregion" value="100" checked="checked">
-NZ <input type="radio" name="searchregion" value="2">
-Auckland
+			
+			
+			
+			
+	</div>
 </div>
+<table id="main">
+	<tbody><tr>
+		<td id="sideBar">
+				
 
 
-<div id="SBSFormDividor"><img src="/images/1pixel.gif" height="1" width="1" alt=""></div>
-<div id="SBSFormAdvancedOptions">
-<a href="/Browse/SearchResults.aspx?advanced=true&amp;empty=true&amp;mcat=&amp;searchstring=&amp;searchregion=" id="Header_SideSearch_AdvancedSearchLink">Advanced search</a><br>
-
-<a href="/MyTradeMe/SelectRegion.aspx?url=%2fhelp%2ftopic.aspx%3fhelp_id%3d145%26amp%3bsearchregion%3d100">Change my region</a>
+<div id="Login">
+	<form name="signin" action="/Members/Login.aspx" method="post">
+		<input type="hidden" value="1" name="login_attempts"> 
+		<input type="hidden" value="Y" name="submitted">
+		<input type="hidden" value="/Help/Topic.aspx?help_id=145" name="url">
+		<p>Email</p>
+		<input tabindex="1" maxlength="50" style="width: 160px;" name="email"><br>
+		Password<br>
+		<input tabindex="2" type="password" maxlength="50" size="12" value="" name="password">&nbsp;<input style="vertical-align: top;margin-top:4px;" tabindex="4" type="image" src="/Images/3/Common/login_button.gif" name="go" value="Login"><br>
+		<div id="SigninKeepLoggedIn">
+			<input id="auto_login" onclick="if(remBrowser) remBrowser()" tabindex="3" type="checkbox" value="true" name="auto_login"> 
+			<label for="auto_login" id="for_auto_login">Keep me logged in<br>
+				on this computer</label>
+		</div>
+		<div id="Reminder"><a href="/Members/PasswordReminder.aspx">Forgot your password?</a></div>
+	</form>
 </div>
-</form><table bgcolor="white" width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/1pixel.gif" height="10" alt=""></td></tr></tbody></table>
-<div class="SBHeader">Login</div>
-<form action="/Members/Login.aspx" method="post" id="signin" name="signin">
-<input type="hidden" name="login_attempts" value="1">
-<input type="hidden" name="submitted" value="Y">
-<input type="hidden" name="url" value="/HELP/TOPIC.ASPX?help_id=145&amp;">
-<div class="SiginSection">
-email<br>
-<input type="text" name="email" size="19" maxlength="50" tabindex="1"><br>
-password<br>
-<input name="password" type="password" size="13" maxlength="50" tabindex="2">&nbsp;
-<input type="image" name="go" src="/images/b_go.gif" tabindex="4" style="vertical-align: top;"><br>
-<div id="SigninKeepLoggedIn">
-<input type="checkbox" name="auto_login" id="auto_login" value="true" onclick="if(remBrowser) remBrowser()" tabindex="3">
-<div>Keep me logged in<br>on this computer</div>
-</div>
-</div>
-<div class="SiginSection">
-&nbsp;<a href="/Members/PasswordReminder.aspx">Forgot your password?</a>
-</div>
-</form>
-
-<div id="TowerAd">
-<table align="center" width="90%" border="0"><tbody><tr><td align="center"><a href="http://www.trademe.co.nz/Track.aspx?site=TRADEME%2c%2cbanner_tower--mo_whl_borrow_3010_tower.gif&amp;redirect=http%3a%2f%2fadsfac.net%2flink.asp%3fcc%3dHSI002.27709.0%26clk%3d1%26creativeID%3d43523"><img src="http://images.trademe.co.nz/photoserver/adserver/mo_whl_borrow_tower.gif" border="0" alt="" title=""></a></td></tr></tbody></table>
-</div>
-<a id="Header_HideSidebarLink">hide sidebar</a>
-</td>
-
-
-
-<td valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td width="100%" valign="top">
-<form name="search_help" id="search_help" method="get" action="/Help/Search.aspx"><table width="520" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="background-image:url(/images/helpdocs/help_bg.gif)"><a href="/Help/Topic.aspx"><img src="/images/helpdocs/help_logo.gif" width="215" height="41" border="0"></a></td><td bgcolor="#FFFFFF" style="background-image:url(/images/helpdocs/help_bg.gif); vertical-align: top;" width="100%"><img src="/images/1pixel.gif" width="1" height="5"><br><input type="text" name="search_string" size="25" value="">&nbsp;&nbsp;<input type="submit" style="font-family: verdana; font-size: 10pt; font-face: bold;" value="Search help" id="submit_search_help" name="submit_search_help"></td></tr></tbody></table><br></form>
-<a href="/Help/Default.aspx">Help</a> <font color="#cccccc">&gt;</font> Privacy policy
+				
+			<div class="breakerTop">
+				<div id="sideAd">
+					<a href="http://www.trademe.co.nz/Track.aspx?site=TRADEME%2c%2cbanner_tower--ad_kb_tm_elbow_3004ros_tower.gif&amp;redirect=http%3a%2f%2fwww.thekiwiway.co.nz%2f"><img src="http://images.trademe.co.nz/photoserver/adserver/ad_kb_tm_elbow_tower.gif" border="0" alt=""></a>
+					
+					
+				</div>
+			</div>
+			<img src="/Images/1pixel.gif" id="SiteHeader_hk" alt="hk" height="1" width="190">
+		</td>
+		<td id="mainContent" class="mainContent">
+		<form name="search_help" id="search_help" method="get" action="/Help/Search.aspx"><table width="520" cellspacing="0" cellpadding="0" border="0" height="41"><tbody><tr><td style="background-image: url(/images/helpdocs/help_bg.gif);"><a href="/Help/Topic.aspx"><img src="/images/helpdocs/help_logo.gif" width="215" height="41" alt="Site Help" border="0" style="vertical-align: top;"></a></td><td style="background-image:url(/images/helpdocs/help_bg.gif); vertical-align: top;" width="100%"><img src="/images/1pixel.gif" width="1" height="5" alt=""><br><input type="text" name="search_string" size="25" value="">&nbsp;&nbsp;<input type="submit" style="font-family: verdana; font-size: 10pt; font-face: bold;" value="Search help" id="submit_search_help" name="submit_search_help"></td></tr></tbody></table><br></form>
+		<a href="/Help/Default.aspx">Help</a> <font color="#cccccc">&gt;</font> Privacy policy
 <br><br>
 
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td>
-<table cellspacing="1" cellpadding="5" border="0">
+	<tbody><tr>
+		<td>
+			<table cellspacing="1" cellpadding="5" border="0">
 
+				
 
-<tbody><tr><td>
-
+				
+				<tbody><tr><td>
+				
 <table width="500">
-<tbody><tr>
-<td>
-<h1>Trade Me Privacy Policy</h1>
-Trade Me has created this privacy statement in order to demonstrate our firm
-commitment to privacy. This document discloses our information gathering and
-usage practices. For additional information about Trade Me, please review our <a href="/structure/helpdocs/terms_and_conditions.asp">
-Terms and Conditions</a>.
-<br>
-<br>
-<br>
-<b>Use of your information</b><br>
-Trade Me <b>does not</b> sell or rent your personal identification to third
-parties.
-<br>
-<br>
-We release account and other personal information only when we believe release
-is appropriate to comply with law; enforce or apply our terms and conditions;
-or protect the rights, property, or safety of Trade Me Limited, our users, or
-others.
-<br>
-<br>
-<br>
-<b>Email</b><br>
-It is the policy of Trade Me to send our members email throughout the auction
-process and other email they elect to receive, in addition to customary
-business communications (payment confirmations, etc.). Further, it is our
-policy to immediately remove any member from any mailing list upon the member's
-request. In addition, Trade Me will send a monthly newsletter to members.
-Newsletters will contain clear and obvious instructions for how the member can
-remove himself or herself from that mailing list.
-<br>
-<br>
-We do use email as a means of receiving feedback from our members, and we
-encourage you to <a href="/Help/ContactUs.aspx">email us</a> with your
-questions or comments.
-<br>
-<br>
-<br>
-<b>Emailing Tools</b><br>
-Trade Me provides facilities throughout the site to refer a friend to Trade Me
-or to send references to a specific listing to a friend. You may not use the
-"Email This Auction to a Friend" service or other email forwarding services
-that we offer to send spam or otherwise send content that would violate our
-privacy policy or <a href="/structure/helpdocs/terms_and_conditions.asp">Terms and
-Conditions</a>. We do not permanently store, sell, or rent these email
-messages or the email addresses.
-<br>
-<br>
-<br>
-<b>Membership Registration</b><br>
-Our site's registration form requires you to provide us contact information and
-may also require demographic information. We may use your contact information
-from the registration form to send you information about our company and
-promotional material from some of our affiliated partners. Your contact
-information is also used to contact you when necessary.
-<br>
-<br>
-<br>
-<b>Updating Your Personal Information</b><br>
-Trade Me provides you with ways in which you can alter your personal data,
-including changing your email address, password, phone number, etc. Trade Me
-will store previous email addresses against your profile to ensure compliance
-with our <a href="/structure/helpdocs/terms_and_conditions.asp">Terms and
-Conditions</a> - specifically the use of one account per member.
-<br>
-<br>
-<br>
-<b>Delivery Address Details</b><br>
-Trade Me enables you to save one or more of your delivery addresses which we
-will store against your profile. When you buy an item you have the option of
-selecting a delivery address which we will then send to the seller. We will
-never give the seller your address without your permission.
-<br>
-<br>
-<br>
-<b>Payment Instructions Setup</b><br>
-Trade Me enables you to save and send a standard payment instructions email to
-the successful buyer when your auction ends. When you set up each auction you
-can choose to have the saved message sent automatically or edit your message at
-that time.
-<br>
-<br>
-<br>
-<b>Control of Your Password</b><br>
-You are responsible for all actions taken with your user name, email address
-and password, including fees. Therefore we do not recommend that you disclose
-your Trade Me password to any third parties. If you choose to share your user
-name, email address and password or your information with third parties to
-provide you additional services, you are responsible for all actions taken with
-this information and therefore you should review that third party's privacy
-policy.
-<br>
-<br>
-<br>
-<b>Credit Card Security</b><br>
-We work diligently to protect the security of your personal information,
-including credit card information.
-<br>
-<br>
-We protect your credit card information during transmission by using Secure
-Sockets Layer (SSL) software, which encrypts information you input. When paying
-by credit card, you can choose to "save this card for next time". If you choose
-this option, your credit card details are encrypted and securely stored by
-Direct Payment Solutions (DPS). <a href="/structure/helpdocs/dps_privacy_policy.pdf">
-Review their Privacy Policy</a> (PDF document). Your credit card details
-are not held by Trade Me and can not be accessed by Trade Me staff.
-<br>
-<br>
-It is important for you to protect against unauthorized access to your password
-and to your computer by ensuring you logoff when you have finished visiting
-Trade Me using a shared computer.
-<br>
-<br>
-<br>
-<b>Cookies</b><br>
-Cookies are small pieces of information that are stored in a browser-related
-file on your computer's hard drive when you use our Web site. We use cookies to
-improve the member experience. We also use them to deliver information and
-fresh content specific to your interests. Cookies are widely used on most major
-Web sites.
-<br>
-<br>
-Trade Me mostly uses "session" cookies, which are removed from your computer
-once you leave Trade Me. These are used so our service can remember that you
-have logged in already and prevent you doing so more frequently. The technology
-we use (Microsoft Active Server Pages), requires the use of session cookies.
-Session cookies expire and are deleted after 30 minutes of no activity on Trade
-Me.
-<br>
-<br>
-Trade Me also uses persistent cookies to personalise the user experience, to
-help protect our members and to provide us with research information (such as
-how often members visit Trade Me each month). Persistent cookies allow us to
-track users on Trade Me and helps us identify users abusing the Trade Me
-service.
-<br>
-<br>
-<br>
-<b>Other information we collect</b><br>
-We use additional information to do internal research on our users'
-demographics, interests, and behavior to better understand and serve you and
-our community. This information may include the URL that you just came from
-(whether this URL is on our site or not), which URL you next go to (whether
-this URL is on our site or not), what browser you are using, and your IP
-address.
-<br>
-<br>
-Users who login have their IP addresses recorded. This information can be used
-to track users who abuse the Trade Me system and will be only be provided to
-legal authorities in cases of suspected fraud. IP addresses can be used, in
-conjunction with an Internet Service Provider, to find the dial-in account of a
-user and, ultimately, further information to identify a user. This information
-is stored securely and will not be provided to other members or non-authorised
-parties.
-<br>
-<br>
-If you choose to post messages in our message areas or leave feedback for other
-users, we will collect that information you provide to us.
-<br>
-<br>
-If you send us personal correspondence, such as emails or letters, or if other
-users or third parties send us correspondence about your activities or postings
-on the Site, we may collect such information into a file specific to you.
-<br>
-<br>
-<br>
-<b>Membership Removal</b><br>
-If you wish to have your registration removed from our directory for any
-reason, simply send us an email requesting to be removed.
-<br>
-<br>
-<br>
-<b>Advertising and Third Party Links</b><br>
-Some Trade Me advertisers may request information directly from users, or link
-to sites that do so. Trade Me has no control over its advertisers' privacy
-policies, and encourages users to review such policies prior to submitting any
-personal information to them.
-<br>
-<br>
-Trade Me contains non-advertising links to a variety of third party sites to
-enhance the member experience. Trade Me has no control of either the content or
-privacy policies of such sites, nor should such links be considered an
-endorsement of these sites except where otherwise noted.
-<br>
-<br>
-<br>
-<b>Nielsen//NetRatings - NZ internet statistics</b><br>
-Trade Me, like most large New Zealand websites, uses the Nielsen//NetRatings
-counting system to collect information such as the number of visitors per day
-or the number of pages requested per day. To do this, Trade Me has a small
-piece of code on each page which counts these statistics. This enables us to
-see where we are in the 'top 10' list of New Zealand websites.
-<br>
-<br>
-For more information, <a href="#" onclick="window.open('http://www.netratings.com/privacy.jsp?section=leg_scs')">
-View the Nielsen//NetRatings privacy policy</a>.
-<br>
-<br>
-<br>
-<b>Updates to our information practices</b><br>
-From time to time, we make changes to our information practices or alter the
-functionality of our Web site. We always update this statement accordingly, so
-we encourage you to periodically review this page for the latest information on
-privacy practices at Trade Me.
-<br>
-<br>
-<br>
-If you have any questions about our privacy policies or any other matter,
-please <a href="/Help/ContactUs.aspx">contact us</a>.
-</td>
-</tr>
+	<tbody><tr>
+		<td>
+			<h1>Trade Me Privacy Policy</h1>
+			Trade Me has created this privacy statement in order to demonstrate our firm 
+			commitment to privacy. This document discloses our information gathering and 
+			usage practices. For additional information about Trade Me, please review our <a href="/Help/Topic.aspx?help_id=143">
+				Terms and Conditions</a>.
+			<br>
+			<br>
+			<br>
+			<b>Use of your information</b><br>
+			Trade Me <b>does not</b> sell or rent your personal information to third 
+			parties.
+			<br>
+			<br>
+			We release account and other personal information only when we believe release 
+			is appropriate to comply with law; facilitate court proceedings; enforce or 
+			apply our terms and conditions; or protect the rights, property, or safety of Trade Me Limited, 
+			our users, or others.
+			<br>
+			<br>
+			<br>
+			<b>Email</b><br>
+			It is the policy of Trade Me to send our members email throughout the auction 
+			process and other email they elect to receive, in addition to customary 
+			business communications (payment confirmations, etc.). Further, it is our 
+			policy to immediately remove any member from any mailing list upon the member's 
+			request. In addition, Trade Me will send a monthly newsletter to members. 
+			Newsletters will contain clear and obvious instructions for how the member can 
+			remove himself or herself from that mailing list.
+			<br>
+			<br>
+			We do use email as a means of receiving feedback from our members, and we 
+			encourage you to <a href="/Help/ContactUs.aspx">email us</a> with your 
+			questions or comments.
+			<br>
+			<br>
+			<br>
+			<b>Emailing Tools</b><br>
+			Trade Me provides facilities throughout the site to refer a friend to Trade Me 
+			or to send references to a specific listing to a friend. You may not use the 
+			"Email This Auction to a Friend" service or other email forwarding services 
+			that we offer to send spam or otherwise send content that would violate our 
+			privacy policy or <a href="/Help/Topic.aspx?help_id=143">Terms and Conditions</a>. 
+			We do not permanently store, sell, or rent these email messages or the email 
+			addresses.
+			<br>
+			<br>
+			<br>
+			<b>Membership Registration</b><br>
+			Our site's registration form requires you to provide us contact information and 
+			may also require demographic information. We may use your contact information 
+			from the registration form to send you information about our company and 
+			promotional material from some of our affiliated partners. Your contact 
+			information is also used to contact you when necessary.
+			<br>
+			<br>
+			<br>
+			<b>Updating Your Personal Information</b><br>
+			Trade Me provides you with ways in which you can alter your personal data, 
+			including changing your email address, password, phone number, etc. Trade Me 
+			will store previous email addresses against your profile to ensure compliance 
+			with our <a href="/Help/Topic.aspx?help_id=143">Terms and Conditions</a> - 
+			specifically the use of one account per member.
+			<br>
+			<br>
+			<br>
+			<b>Delivery Address Details</b><br>
+			Trade Me enables you to save one or more of your delivery addresses which we 
+			will store against your profile. When you buy an item you have the option of 
+			selecting a delivery address which we will then send to the seller. We will 
+			never give the seller your address without your permission.
+			<br>
+			<br>
+			<br>
+			<b>Payment Instructions Setup</b><br>
+			Trade Me enables you to save and send a standard payment instructions email to 
+			the successful buyer when your auction ends. When you set up each auction you 
+			can choose to have the saved message sent automatically or edit your message at 
+			that time.
+			<br>
+			<br>
+			<br>
+			<b>Control of Your Password</b><br>
+			You are responsible for all actions taken with your user name, email address 
+			and password, including fees. Therefore we do not recommend that you disclose 
+			your Trade Me password to any third parties. If you choose to share your user 
+			name, email address and password or your information with third parties to 
+			provide you additional services, you are responsible for all actions taken with 
+			this information and therefore you should review that third party's privacy 
+			policy.
+			<br>
+			<br>
+			<br>
+			<b>Credit Card Security</b><br>
+			We work diligently to protect the security of your personal information, 
+			including credit card information.
+			<br>
+			<br>
+			We protect your credit card information during transmission by using Secure 
+			Sockets Layer (SSL) software, which encrypts information you input. When paying 
+			by credit card, you can choose to "save this card for next time". If you choose 
+			this option, your credit card details are encrypted and securely stored by 
+			Direct Payment Solutions (DPS). <a href="/Partners/DPS/dps_privacy_policy.pdf">
+				Review their Privacy Policy</a> (PDF document). Your credit card details 
+			are not held by Trade Me and can not be accessed by Trade Me staff.
+			<br>
+			<br>
+			It is important for you to protect against unauthorized access to your password 
+			and to your computer by ensuring you logoff when you have finished visiting 
+			Trade Me using a shared computer.
+			<br>
+			<br>
+			<br>
+			<b>Job applications</b><br>
+			The "Apply Online" feature enables you to send a job application to 
+			organisations advertising on Trade Me Jobs. We forward these applications 
+			directly to the organisation listing the job and they are stored on our servers 
+			for a short time. We do not read these applications.
+			<br>
+			<br>
+			<b>Cookies</b><br>
+			Cookies are small pieces of information that are stored in a browser-related 
+			file on your computer's hard drive when you use our Web site. We use cookies to 
+			improve the member experience. We also use them to deliver information and 
+			fresh content specific to your interests. Cookies are widely used on most major 
+			Web sites.
+			<br>
+			<br>
+			Trade Me mostly uses "session" cookies, which are removed from your computer 
+			once you leave Trade Me. These are used so our service can remember that you 
+			have logged in already and prevent you doing so more frequently. The technology 
+			we use (Microsoft Active Server Pages), requires the use of session cookies. 
+			Session cookies expire and are deleted after 30 minutes of no activity on Trade 
+			Me.
+			<br>
+			<br>
+			Trade Me also uses persistent cookies to personalise the user experience, to 
+			help protect our members and to provide us with research information (such as 
+			how often members visit Trade Me each month). Persistent cookies allow us to 
+			track users on Trade Me and helps us identify users abusing the Trade Me 
+			service.
+			<br>
+			<br>
+			<br>
+			<b>Other information we collect</b><br>
+			We use additional information to do internal research on our users' 
+			demographics, interests, and behavior to better understand and serve you and 
+			our community. This information may include the URL that you just came from 
+			(whether this URL is on our site or not), which URL you next go to (whether 
+			this URL is on our site or not), what browser you are using, and your IP 
+			address.
+			<br>
+			<br>
+			Users who login have their IP addresses recorded. This information can be used 
+			to track users who abuse the Trade Me system and will be only be provided to 
+			legal authorities in cases of suspected fraud. IP addresses can be used, in 
+			conjunction with an Internet Service Provider, to find the dial-in account of a 
+			user and, ultimately, further information to identify a user. This information 
+			is stored securely and will not be provided to other members or non-authorised 
+			parties.
+			<br>
+			<br>
+			If you choose to post messages in our message areas or leave feedback for other 
+			users, we will collect that information you provide to us.
+			<br>
+			<br>
+			If you send us personal correspondence, such as emails or letters, or if other 
+			users or third parties send us correspondence about your activities or postings 
+			on the Site, we may collect such information into a file specific to you.
+			<br>
+			<br>
+			<br>
+			<b>Membership Removal</b><br>
+			If you wish to have your registration removed from our directory for any 
+			reason, simply send us an email requesting to be removed.
+			<br>
+			<br>
+			<br>
+			<b>Advertising and Third Party Links</b><br>
+			Some Trade Me advertisers may request information directly from users, or link 
+			to sites that do so. Trade Me has no control over its advertisers' privacy 
+			policies, and encourages users to review such policies prior to submitting any 
+			personal information to them.
+			<br>
+			<br>
+			Trade Me contains non-advertising links to a variety of third party sites to 
+			enhance the member experience. Trade Me has no control of either the content or 
+			privacy policies of such sites, nor should such links be considered an 
+			endorsement of these sites except where otherwise noted.
+			<br>
+			<br>
+			<br>
+			<b>Nielsen//NetRatings - NZ internet statistics</b><br>
+			Trade Me, like most large New Zealand websites, uses the Nielsen//NetRatings 
+			counting system to collect information such as the number of visitors per day 
+			or the number of pages requested per day. To do this, Trade Me has a small 
+			piece of code on each page which counts these statistics. This enables us to 
+			see where we are in the 'top 10' list of New Zealand websites.
+			<br>
+			<br>
+			For more information, <a href="#" onclick="window.open('http://www.netratings.com/privacy.jsp?section=leg_scs')">
+				View the Nielsen//NetRatings privacy policy</a>.
+			<br>
+			<br>
+			<br>
+			<b>Updates to our information practices</b><br>
+			From time to time, we make changes to our information practices or alter the 
+			functionality of our Web site. We always update this statement accordingly, so 
+			we encourage you to periodically review this page for the latest information on 
+			privacy practices at Trade Me.
+			<br>
+			<br>
+			<br>
+			If you have any questions about our privacy policies or any other matter, 
+			please <a href="/Help/ContactUs.aspx">contact us</a>.
+		</td>
+	</tr>
 </tbody></table>
-</td></tr>
 
-</tbody></table>
+				</td></tr>
+				
+
+			</tbody></table>
+
 </td>
+
 <td valign="top" align="right">&nbsp;</td>
+
 </tr>
 </tbody></table>
 
-<br><table width="520" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td style="background-image:url(/images/helpdocs/dotted.gif)" colspan="2"><img src="/images/1pixel.gif" width="1" height="1"></td>
-</tr>
-<tr bgcolor="#eeeeee">
-<td>
-<img src="/images/1pixel.gif" width="8" height="1">
-</td>
-<td style="background-image:url(/images/helpdocs/phone_bg.gif)">
-<img src="/images/1pixel.gif" width="1" height="7"><br>
-<img src="/images/helpdocs/small_phone.gif" width="28" height="21" style="vertical-align: middle">
-&nbsp;<font size="3"><b>Want phone support?</b></font>
-<br><img src="/images/1pixel.gif" width="1" height="9"><br>
-For an immediate answer call 0900 TRADE (0900 87233). <br>Phone support is available Monday to Thursday from 8am - 10pm, Friday from 8am - 8pm,  and Saturday and Sunday from 9am - 5pm.<br><br><small>Calls cost $1.99 + GST per minute.</small>
-<br><img src="/images/1pixel.gif" width="1" height="9"><br>
-</td>
-</tr>
-<tr>
-<td style="background-image:url(/images/helpdocs/dotted.gif)" colspan="2"><img src="/images/1pixel.gif" width="1" height="1"></td>
-</tr>
-</tbody></table><br>
 
 
-</td></tr></tbody></table>
 
-</td>
-</tr>
-</tbody></table>
-<br>
-<br>
-<div id="PageFooter" style="text-align: center; line-height: 1.5;">
-<a href="/Community/SiteAnnouncements.aspx">Announcements</a>&nbsp; &nbsp;
-<a href="/Help/SafeComputingCentre.aspx">Safe Computing Centre</a>&nbsp; &nbsp;
-<a href="/Help/SafeBuyingAdvice.aspx">Safe Buying Advice</a>&nbsp; &nbsp;
-<a href="/Help/Postage.aspx">Postage Centre</a>&nbsp; &nbsp;
-<br>
-<a href="/Careers/Default.aspx">Careers</a>&nbsp; &nbsp;
-<a href="/structure/helpdocs/terms_and_conditions.asp">Terms &amp; Conditions</a>&nbsp; &nbsp;
-<a href="/Help/Topic.aspx?help_id=145">Privacy Policy</a>&nbsp; &nbsp;
-<a href="/Help/ContactUs.aspx">Contact Us</a>
-<br>
-<br>
-<span style="font-size: 0.8em;">
-© 2006 Trade Me Ltd<br>
-<span style="color: #666;">1:14 am, Sun 5 Nov</span>
-
-</span>
-</div>
+	<br><table width="520" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td style="background-image:url(/images/helpdocs/dotted.gif)" colspan="2"><img src="/images/1pixel.gif" width="1" height="1"></td>
+	</tr>
+	<tr bgcolor="#eeeeee">
+	<td>
+	<img src="/images/1pixel.gif" width="8" height="1">
+	</td>
+	<td style="background-image:url(/images/helpdocs/phone_bg.gif)">
+	<img src="/images/1pixel.gif" width="1" height="7"><br>
+	<img src="/images/helpdocs/small_phone.gif" width="28" height="21" style="vertical-align: middle">
+	&nbsp;<font size="3"><b>Want phone support?</b></font>
+	<br><img src="/images/1pixel.gif" width="1" height="9"><br>
+	<b>Our 0900 support line is currently available</b><br>
+For immediate assistance call 0900 TRADE (0900 87233). <br>
+Our phone support hours are 8am to 10pm Monday to Thursday, 8am to 6pm Friday and 9am to 5pm Saturday and Sunday. Outside these hours please send us an email.<br><br>
+<small>Calls cost $1.99 + GST per minute.</small>
 
 
+	<br><img src="/images/1pixel.gif" width="1" height="9"><br>
+	</td>
+	</tr>
+	<tr>
+	<td style="background-image:url(/images/helpdocs/dotted.gif)" colspan="2"><img src="/images/1pixel.gif" width="1" height="1"></td>
+	</tr>
+	</tbody></table><br>
+
+
+
+
+		
+				</td> 
+			</tr> 
+		</tbody></table>
+		<div id="footer">
+			<a href="/Help/SafeComputingCentre.aspx">
+				Safe Computing Centre</a>&nbsp; &nbsp; <a href="/Help/SafeBuyingAdvice.aspx">Safe 
+				Buying Advice</a>&nbsp; &nbsp; <a href="/Help/Postage.aspx">Postage Centre</a>&nbsp; 
+			&nbsp;<a href="/Help/SellerAccelerationCentre.aspx">Seller Acceleration Centre</a>&nbsp;&nbsp;
+			<br>
+			<a href="/Community/SiteAnnouncements.aspx">Announcements</a>&nbsp; &nbsp; <a href="/Careers/Default.aspx">Careers</a>&nbsp; &nbsp; <a href="/Help/Topic.aspx?help_id=143">
+				Terms &amp; Conditions</a>&nbsp; &nbsp; <a href="/Help/Topic.aspx?help_id=145">Privacy 
+				Policy</a>&nbsp; &nbsp; <a href="/Help/ContactUs.aspx">Contact Us</a>
+			<div>©
+				2007
+				Trade Me Ltd<br>
+				<span>
+					11:32 pm, Tue 1 May
+				</span>
+				
+			</div>
+		</div>
+		
+		
 <!-- START Nielsen//NetRatings SiteCensus V5.1 -->
 <!-- COPYRIGHT 2004 Nielsen//NetRatings -->
 <script language="JavaScript" type="text/javascript">
 <!-- 
-var _rsCI="trademe";
+var _rsCI= 'trademe';
 var _rsCG="0";
 
 var _rsDT=1; // to turn on whether to get the document title, 1=on
@@ -438,23 +561,35 @@ var _rsSI=escape(window.location);
 var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
 var _rsRP=escape(document.referrer);
 var _rsND=_rsLP+'//secure-nz.imrworldwide.com/';
+
 if (parseInt(navigator.appVersion)>=4)
 {
-var _rsRD=(new Date()).getTime();
-var _rsSE=0;
-var _rsSV="";
-var _rsSM=0;
-_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="/Javascript/v51.js"><\/scr'+'ipt>';
+	var _rsRD=(new Date()).getTime();
+	var _rsSE=0;
+	var _rsSV="";
+	var _rsSM=1;
+	
+	if ((window.location.href.toLowerCase().indexOf('http://www.trademe.co.nz/browse/property/default.aspx') != -1) 
+		|| (window.location.href.toLowerCase().indexOf('http://www.trademe.co.nz/trade-me-property/index.htm') != -1)) {
+		_rsSE=1;
+	}
+	
+	_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="/Javascript/v51.js"><\/scr'+'ipt>';
 }
 else
 {
-_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
 }
 document.write(_rsCL);
 //-->
-</script><script language="JavaScript" type="text/javascript" src="/Javascript/v51.js"></script><img src="https://secure-nz.imrworldwide.com/cgi-bin/m?rnd=1580355701225&amp;ci=trademe&amp;cg=0&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;ct=&amp;hp=&amp;tl=TradeMe%20-%20New%20Zealand%20Online%20Auctions%20and%20Classifieds&amp;si=https%3A//web.archive.org/web/20061104121438id_/http%253A//www.trademe.co.nz/Help/Topic.aspx%253Fhelp_id%253D145&amp;rp=" width="1" height="1" id="rsTrackingBug">
+</script><script language="JavaScript" type="text/javascript" src="/Javascript/v51.js"></script><img src="https://secure-nz.imrworldwide.com/cgi-bin/m?rnd=1580355701938&amp;ci=trademe&amp;cg=0&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;ct=&amp;hp=&amp;tl=TradeMe%20-%20New%20Zealand%20Online%20Auctions%20and%20Classifieds&amp;si=https%3A//web.archive.org/web/20070501113205id_/http%253A//www.trademe.co.nz/Help/Topic.aspx%253Fhelp_id%253D145&amp;rp=" width="1" height="1" id="rsTrackingBug">
 <noscript><img src="http://secure-nz.imrworldwide.com/cgi-bin/m?ci=trademe&amp;cg=0" alt="" /></noscript>
 <!-- END Nielsen//NetRatings SiteCensus V5.1 -->
 
+		
+		
+		<script type="text/javascript" src="/JavaScript/Ajax1.js"></script>
+		<script type="text/javascript" src="/JavaScript/AjaxErrorHandler.js"></script>
+	
 
 </body></html>
