@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213420id_/http%3A//www.upack.com/about/privacy.asp%3Fnlnk%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501033613id_/http%3A//www.upack.com/about/privacy.asp%3Fnlnk%3Dfoot) for the most accurate reproduction.*
 
 # ABF U-Pack Moving Privacy Policy
 
@@ -14,7 +14,7 @@ All credit card information is encrypted by digital certificates using Secure So
 
 ## Does the U-Pack site use cookies?
 
-Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the [Cookie and Privacy FAQ](http://channels.netscape.com/ns/browsers/security.jsp) at the Netscape site.
+Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the Cookie and Privacy FAQ at microsoft.com.
 
 ## Privacy Policies of other Web sites
 
