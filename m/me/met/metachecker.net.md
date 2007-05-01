@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metachecker.net privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118061055id_/http%3A//www.metachecker.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metachecker.net privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501153241id_/http%3A//www.metachecker.net/privacy.html) for the most accurate reproduction.*
 
 # Meta Tag Analysis Tool by MetaChecker.net
 
