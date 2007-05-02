@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214231757id_/http%3A//mcvuk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502060721id_/http%3A//www.mcvuk.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Cookies : MCV
 
