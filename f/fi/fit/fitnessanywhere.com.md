@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027084450id_/http%3A//fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502140250id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
 
 # Fitness Anywhere: The New Revolution in Bodyweight Training
 
