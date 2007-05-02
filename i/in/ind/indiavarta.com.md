@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiavarta.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202013049id_/http%3A//www.indiavarta.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiavarta.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502111649id_/http%3A//indiavarta.com/privacy/index.asp) for the most accurate reproduction.*
 
 # indiavarta.com - Privacy Policy
 
