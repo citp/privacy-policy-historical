@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioalice.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018054428id_/http%3A//radioalice.com/pages/82773.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioalice.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502025734id_/http%3A//www.radioalice.com/pages/82773.php) for the most accurate reproduction.*
 
 # Radioalice.com - Alice @ 97.3 San Francisco - privacy policy
 
