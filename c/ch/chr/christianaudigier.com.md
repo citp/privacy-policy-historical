@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaudigier.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216073750id_/http%3A//www.christianaudigier.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudigier.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502021925id_/http%3A//www.christianaudigier.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Christian Audigier
 
