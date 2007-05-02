@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103204800id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502185918id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
-# Careers & Education - Privacy Policy
+# Privacy Policy | Careers & Education
 
 **www.CareersandEducation.com Privacy Policy  
 Effective Date: 09/08/06**
