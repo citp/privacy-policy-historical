@@ -1,119 +1,16 @@
-> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901111435id_/http%3A//www.cxholidays.com/chl/v/index.jsp%3Fvgnextoid%3De530f2c44f301010VgnVCM100000e6ce1c39RCRD%26lang%3Den%26nav%3Dtop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502063950id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.*
 
 # Cathay Pacific Holidays - Data Privacy and Security Policy
 
 **Our Commitment to Protecting Your Privacy**
 
-We are committed to protecting your personal and data privacy. To ensure you can make informed decisions and feel confident about supplying personally identifiable information ("Data") relating to you when using our website, this notice outlines Cathay Pacific Holiday's online information practices and the choices you have concerning how the Data is being collected and used.
+We are committed to protecting your personal and data privacy. To ensure you can make informed decisions and feel confident about supplying personally identifiable information ("Data") relating to you when using our website, this notice outlines Cathay Holidays Limited online information practices and the choices you have concerning how the Data is being collected and used.
 
 We collect and process only information that we need to administer our business, to provide you with the highest quality service and to offer various opportunities which may be of interest to you.
 
 This privacy statement is in compliance with the Personal Data (Privacy) Ordinance of the Hong Kong SAR.
 
-**The Data We Collect**
-
-We request information in several areas of our website, including but not limited to, when you: 
-
-  1. submit reservation request forms;
-  2. use the "Email to a friends" service;
-  3. register for our newsletter subscription;
-  4. participate in our special marketing programmes and contests.
-
-
-
-The types of Data we collect, depending on the specific part of the site, are: 
-
-  1. Contact information of the person making the reservation request: 
-
-
-
->   1. Title
->   2. Family name
->   3. Given name
->   4. Email address
->   5. Telephone number(s) (primary and other)
->   6. Fax number(s)
-> 
-
-
-  2. Traveller(s)'s information (where applicable) - number of traveller(s), and for each traveller (where applicable), their:
-
-
-
->   1. Title
->   2. Family name
->   3. Given name
->   4. Age group for adults, specific age of children and infants
->   5. Asia Miles membership number
-> 
-
-
-  3. Travel details: 
-
-
-
->   1. Name of package or hotel programme
->   2. Flight information (where applicable):
-> 
-
->
->>   * Departure city
->>   * Destination
->>   * Departure date
->>   * Return date
->>   * Flight preferences (time or flight number)
->> 
-
-> 
->   3. Hotel selection (where applicable):
-> 
-
->
->>   * Check-in date
->>   * Check-out date
->>   * Number of rooms and room type
->>   * Hotel room special request
->> 
-
-> 
->   4. Date and time preferences of included tours or activities (where applicable)
->   5. Indication of interests in optional add-ons (where applicable)
-> 
-
-
-  4. Credit card information:
-
-
-
->   1. Credit card type
->   2. Name of cardholder
->   3. Credit card number
->   4. Expiry date
-> 
-
-
-  5. Sender and recipient(s)'s information for "Email to a friends" form:
-
-
-
->   1. Name of sender
->   2. Email address of sender
->   3. Email address(es) of recipient(s)
->   4. Personal message
-> 
-
-
-  6. Newsletter subscription:
-
-
-
->   1. Email address
-> 
-
-
-If you fail to supply the Data as requested from each specific service, we may be unable to deliver you the online services in full.
-
-**Cookies**
+ **Cookies**
 
 A cookie is a piece of information about the user that a website can send to your web browser which may then store it on your computer system. With the use of cookies, we can better serve you when you return to our site. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future.
 
@@ -161,9 +58,9 @@ Should you prefer not to receive any email updates from us, feel free to opt out
 
 This website contains links to other sites that are operated under different privacy practices. You should remain alert when you leave our site, and read the privacy statements of other websites. We have no control over Data that is submitted to these third parties.
 
-All such websites are classed as entirely independent from this website and from Cathay Pacific Holidays and its affiliates. Cathay Pacific Holidays and its affiliates have no control over the contents of such other websites or their privacy policies or compliance with the law, and do not vouch for their security. You should therefore be fully aware the provision of the link does not constitute an endorsement, approval, or any form of association by or with Cathay Pacific Holidays or any of its affiliates.
+All such websites are classed as entirely independent from this website and from Cathay Holidays Limited and its affiliates. Cathay Holidays Limited and its affiliates have no control over the contents of such other websites or their privacy policies or compliance with the law, and do not vouch for their security. You should therefore be fully aware the provision of the link does not constitute an endorsement, approval, or any form of association by or with Cathay Holidays Limited or any of its affiliates.
 
-You should therefore remain alert when you leave our site, and read the privacy statements of other websites. We have no control over Data submitted to these third parties. You access the data on such websites at your own risk. Please note that the sites of Cathay Pacific Holidays, Cathay Pacific Cargo and Asia Miles have their own separate privacy statements. We recommend you read such statements when entering these sites.
+You should therefore remain alert when you leave our site, and read the privacy statements of other websites. We have no control over Data submitted to these third parties. You access the data on such websites at your own risk. Please note that the sites of Cathay Holidays Limited, Cathay Pacific Cargo and Asia Miles have their own separate privacy statements. We recommend you read such statements when entering these sites.
 
 **Our Commitment to Children's Privacy**
 
@@ -175,4 +72,4 @@ We post new or updated statements in this section if we deem it necessary to cha
 
 **Legal Disclaimer**
 
-We may disclose Data when required by law or by court order, or as requested by other government or law enforcement authorities. It may also be revealed in good faith that disclosure is otherwise necessary or advisable including, and without limitation to protect the rights or properties of Cathay Pacific Holidays. This also applies when we have reason to believe that disclosing Data is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
+We may disclose Data when required by law or by court order, or as requested by other government or law enforcement authorities. It may also be revealed in good faith that disclosure is otherwise necessary or advisable including, and without limitation to protect the rights or properties of Cathay Holidays Limited. This also applies when we have reason to believe that disclosing Data is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
