@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203425id_/http%3A//www.ireland.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502184842id_/http%3A//www.ireland.com/about/privacy) for the most accurate reproduction.*
 
 # ireland.com - About Us
 
