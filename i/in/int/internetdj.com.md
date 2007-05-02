@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206013914id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502094708id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
-# Privacy Statement for InternetDJ.com - InternetDJ.com
+# Privacy Statement for InternetDJ.com
 
-[Home](https://web.archive.org/) > [Features & News](https://web.archive.org/web/20061206013914id_/http%3A//www.internetdj.com/news.php) > [Other News](https://web.archive.org/web/20061206013914id_/http%3A//www.internetdj.com/search.php?topic=31)
-
-* * *
+[](https://web.archive.org/search.php?query=&topic=31)
 
 InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 
@@ -54,15 +52,17 @@ New York, New York 10004
 
 This policy, like the online medium itself, is subject to change. 
 
-* * *
+[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
 
-Article Comments
+### Article Comments
 
- _ **No comments found for this article**_
+  
+ _ **No comments found for this article**_  
 
-Post Your Comment
+
+### Post Your Comment
 
 **You need to be logged in** in order to post your comments. 
 
-[**Click Here**](https://web.archive.org/web/20061206013914id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
+[**Click Here**](https://web.archive.org/web/20070502094708id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
 
