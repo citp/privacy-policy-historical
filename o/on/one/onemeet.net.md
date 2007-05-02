@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemeet.net privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111223034id_/http%3A//onemeet.net/ext.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemeet.net privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502182558id_/http%3A//www.onemeet.net/ext.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # OneMeet: a date can change your life !
 
@@ -59,6 +59,22 @@ Customer has the right of to set himself against, in all or part:
 
 
 
-Customer, moreover, will have always directed approached via web the own data, like in possession of Holding PSN, through the own codes of access ("Username " and "Password "). Customer in this way will be able to integrate to modify or to cancel the data, anytime and without intermediation, independently and under the own responsibility. Through the same interface the Customer will be able to manage the reception, the regularity and the content of the information supplied from Holding PSN . 
+Customer, moreover, will have always directed approached via web the own data, like in possession of OneMeet, through the own codes of access ("Username " and "Password "). Customer in this way will be able to integrate to modify or to cancel the data, anytime and without intermediation, independently and under the own responsibility. Through the same interface the Customer will be able to manage the reception, the regularity and the content of the information supplied from OneMeet . 
 
 The acquired personal data from OneMeet joint-stock corporation could be communicate you to all the dependent, advisory collaborators to whichever title it of our Society, to all the social organs. The same data, moreover, could be communicate to you to controlled society or connected or affiliated to OneMeet joint-stock corporation that is the partners trades them of OneMeet joint-stock corporation (producers, suppliers, carriers, etc.) that is of the societies that carry out surveyings on the preferences of the customers, and that always in the respect of the purposes of the treatment already indicated . 
+
+Cancellation profile: 
+
+Users can delete own profile going to "My account" area and selecting "delete profile". In this way all data will be removed from our database.. 
+
+Directions for no receiving emails: 
+
+You can disable your e-mail address entering the own personal data (nick and password) visiting my account area and selecting "enabled mail to receive messages". Updating page, this entry will be changed with "disabled email". . 
+
+Registration Mail use: 
+
+E-mail address has only required during the registration and it will be used from website and our affiliates for newsletters, promotional messages and the website updating. Senders of these messages and the corresponding e-mail addresses will be the following  
+Senders( Alias)  
+OneMeet , Staff OneMeet e OneMeet.Staff  
+E-mail addresses  
+noreply@takeasy.net , no-reply@takeasy.net , no-reply@onemeet.net , noreply@onemeet.net , onemeet@bounce.kiwari.com ),no_reply@onemeet.net. 
