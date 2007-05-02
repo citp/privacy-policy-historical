@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206172430id_/http%3A//us20.trymicrosoftoffice.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502153713id_/http%3A//us20.trymicrosoftoffice.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Microsoft Office Online
 
@@ -36,7 +36,7 @@ Customer information is collected by Digital River, a Microsoft vendor. It is st
 _Digital River  
 Attn: Microsoft Privacy Information   
 9625 West 76th Street  
-Eden Prairie, MN  55344_
+Eden Prairie, MN 55344_
 
 **Security of Your Personal Information**   
 Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
@@ -60,7 +60,7 @@ Microsoft welcomes your comments regarding this privacy statement. If you believ
 _Digital River  
 Attn: Microsoft Privacy Information   
 9625 West 76th Street  
-Eden Prairie, MN  55344_
+Eden Prairie, MN 55344_
 
   
   
