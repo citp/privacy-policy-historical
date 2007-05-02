@@ -1,0 +1,577 @@
+<!--The following is the downloaded HTML source of the talent6.com privacy policy that was archived on 2007-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070502095529id_/http%3A//talent6.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"><html><head>
+<title>Talent6 Community</title>
+<base href="http://www.talent6.com/">
+<link href="i/style.css" rel="stylesheet" type="text/css">
+<link href="i/edit_portfolio.css" rel="stylesheet" type="text/css">
+<link href="i/smenu.css" rel="stylesheet" type="text/css">
+<link rel="SHORTCUT ICON" href="i/favicon.ico">
+<script language="JavaScript" type="text/javascript" src="js/tooltips.js"></script>
+<script language="JavaScript" type="text/javascript">
+var request;
+var member_id = false;
+
+window.onload = function()
+{
+
+	//		document.getElementById('login').focus();
+	
+	if (document.createElement) tooltip.d();
+//	var ddm1 = new DropDownMenu1('menu1');
+//	ddm1.position.top = -1;
+//	ddm1.init();
+
+// Let's make URL clear of these notifications, so they will not pop up every time
+	var request       = new Object();
+	var elems_to_del  = ['sent', 'favorites'];
+	var new_mform_url = window.location.pathname + '?';
+	var j, flag;
+
+	// GET QUERY STRINGS
+	if (window.location.search)
+	{
+
+		var vals = window.location.search.substr(1).split('&');
+
+		for (var i in vals)
+		{
+			if (typeof vals[i] != 'undefined')   // If last symbol in the location is &
+			{
+
+				vals[i] = vals[i].replace(/\+/g, ' ').split('=');
+
+				request[vals[i][0]] = vals[i][1];
+
+
+				//if (elems_to_del.indexOf(vals[i][0]) == -1)
+
+				// If flag = 1, than we found coicidence, and we do not add this elem to new URL
+				for (j = flag = 0; (j < elems_to_del.length && flag == 0); j++)
+				{
+					if ( (vals[i][0] == elems_to_del[j]) || (vals[i][0] == '') )
+					{
+						flag = 1;
+					}
+				}
+
+				// If flag = 0, than we can add this element to new url, it's a useful one
+				if (flag == 0)
+				{
+					new_mform_url += vals[i][0] + '=' + vals[i][1] + '&';
+				}
+			}
+		}
+
+		if (new_mform_url.charAt(new_mform_url.length - 1) == '&')
+		{
+			new_mform_url = new_mform_url.substr(0, new_mform_url.length - 1);
+		}
+	}
+// Have formed new URL
+
+
+	
+		if ( (typeof request.sent != 'undefined') && (request.sent == 'invitation') )
+	{
+		alert('Your invitation has been sent');
+		window.location.assign(new_mform_url);
+		return false;
+	}
+		if ( (typeof request.favorites != 'undefined') && (request.favorites == 'photo') )
+	{
+		alert('Photo was added to favorites');
+		window.location.assign(new_mform_url);
+		return false;
+	}
+// Finished to clear URL from notifications
+
+}
+</script>
+
+<script type="text/javascript" src="js/ie5.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/scripts.js?v=6add0834d36c819a03297e2584e5fc93"></script>
+	<script type="text/javascript" src="js/menu.js?qwqw"></script>
+	<link rel="stylesheet" type="text/css" href="js/menu.css">
+<script type="text/javascript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters))
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }
+}
+
+function isIE5() { return (navigator.userAgent.indexOf("MSIE 5") > -1); }
+function isIE6() { return ((navigator.userAgent.indexOf("MSIE 6") > -1) && (navigator.userAgent.indexOf("Opera") == -1)); }
+function isIE() { return (isIE5() || isIE6()); }
+if ( isIE()) { window.attachEvent("onload", correctPNG); }
+</script>
+
+<script language="JavaScript" type="text/javascript" src="js/smiles.js"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+// We need to check DOM before to introduce DOM changes, in case if a page loads too long
+// Class class_check_dom
+function class_check_dom(){}
+
+class_check_dom.prototype = {
+
+	arr_funcs      : [],
+	arr_elems      : [],
+	cycle_counter  : 0,
+	cycle_delay    : 250, // msec
+	max_cycle      : 60,
+
+	// Function gets as parameters name of function and ARRAY of elements to check
+	add_function: function (func_name, arr_elems)
+	{
+		this.arr_funcs.push(func_name);
+		this.arr_elems.push(arr_elems);
+	}, // End of function add_function(
+
+	del_function: function(func_nr)
+	{
+		this.arr_funcs.splice(func_nr, 1);
+		this.arr_elems.splice(func_nr, 1);
+	}, // End of function del_function()
+
+	// Check for every element in arr_elems if it is defined in DOM already
+	check_elems: function(arr_elems)
+	{
+		var flag = true;
+		for (var j = 0; typeof arr_elems[j] != 'undefined'; j++)
+		{
+			if (document.getElementById(arr_elems[j]) == null) {flag = false;}
+		}
+		return flag;
+	}, // End of function check_elems()
+
+	check: function()
+	{
+	    this.cycle_counter++;
+
+    	if ( (typeof document.getElementsByTagName != 'undefined') && (document.getElementsByTagName('body')[0] != null || document.body != null) )
+    	{
+			for (var i = 0; typeof this.arr_funcs[i] != 'undefined'; i++)
+			{
+				// Check for every function array of elements
+				if ( this.check_elems(this.arr_elems[i]) == true )
+				{
+					// Execute function and delete it from array
+					window.setTimeout(this.arr_funcs[i], 20);
+					this.del_function(i);
+				}
+			} // for
+		} // if
+
+		if ( (this.arr_funcs.length > 0) && (this.cycle_counter < this.max_cycle) )
+		{
+		    setTimeout('check_dom.check()', this.cycle_delay);
+		}
+	} // End of function check()
+} // End of check_dom prototype declaration
+
+var check_dom = new class_check_dom();
+check_dom.add_function('modal()', ['overlay']); // Function name, ARRAY of elements ID to check
+// End of class DOM_CHECK
+</script>
+
+
+</head>
+<body>
+<div id="overlay" style="display:none;" onclick="return false;"></div>
+<!-- SYSTEM MESSAGE WINDOW -->
+<div id="inv" style="width: 250px;" class="modal">
+<table width="100%" class="blockInfo">
+	<tbody><tr>
+		<td class="titleWhite">Invitation</td>
+	</tr>
+	<tr>
+		<td class="dataLeft">
+			<form method="POST" action="privacy.html">
+			<input type="hidden" id="profile_id" name="profile_id">
+			<input type="hidden" name="pr_id_modal" value="1">
+			<input type="hidden" name="sent_message_form" value="invite_member">
+			Are you sure you want to invite this member to be your Contact?<br><br>
+			<input type="submit" name="invite" value="Sure" class="btn"> or <span class="link" onclick="modal.close('inv')">Go back</span>
+			</form>
+		</td>
+	</tr>
+</tbody></table>
+</div>
+<!-- -->
+
+<!-- SEND MESSAGE WINDOW -->
+<div id="msgModal" style="width: 370px;" class="modal">
+		<table width="100%" class="blockInfo">
+		<tbody><tr>
+			<td class="titleWhite" id="id_title_send_message">
+			Send Personal Message			</td>
+			<td class="titleWhite" align="right"><img src="i/ico_close.gif" onclick="modal.close('msg')" style="cursor:pointer;"><span class="link" onclick="modal.close('msg')"></span></td>
+		</tr>
+		<tr>
+			<td class="dataLeft" colspan="2">
+				<form method="POST" id="msgForm" action="privacy.html">
+
+				<input type="hidden" id="prof_id" name="portfolio_message[profile_id]" value="123">
+				<input type="hidden" id="testJavaScript" name="portfolio_message[testJavaScriptName]" value="123">
+
+				<input type="hidden" name="sent_message_form" value="contest_menu">
+				<table width="100%" border="0">
+					<tbody><tr>
+						<td colspan="2" class="error" id="portfolio_message_err" style="display: none; visibility: hidden;">&nbsp;</td>
+					</tr>
+					<tr><td colspan="2" id="sMessageTo"></td></tr>
+					<tr><td colspan="2"><div align="justify" id="sPhotoDiscl">
+						<small><font color="#888888">WHEN SHOOTING WITH A PHOTOGRAPHER YOU HAVEN'T WORKED WITH BEFORE, ALWAYS CONSIDER BRINGING A CHAPERONE - WHETHER THAT'S A FRIEND, FAMILY MEMBER OR JUST SOMEONE YOU TRUST TO WATCH OUT FOR YOU. THIS IS ABSOLUTELY NECESSARY FOR ANYBODY UNDER THE AGE OF 18 AND COMMON SENSE FOR EVERYONE ELSE. ANY PROFESSIONAL PHOTOGRAPHER WILL COMPLETELY UNDERSTAND.</font></small>					</div></td></tr>
+					<tr>
+						<td colspan="2"><b>Type your message here:</b></td>
+					</tr>
+					<tr>
+						<td colspan="2">
+					
+							<textarea name="portfolio_message[msg]" class="w100" rows="5" id="community" onkeyup="txtCount(this,500)" _onchange="txtCount(this,500)" onblur="txtCount(this,500)"></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+						<table width="280px" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" align="left"><tbody><tr><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706819_1.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-)</small>" onclick="add_smile(':-)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706827_2.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>;-)</small>" onclick="add_smile(';-)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706836_3.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-P</small>" onclick="add_smile(':-P','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706845_4.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-D</small>" onclick="add_smile(':-D','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706854_5.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-(</small>" onclick="add_smile(':-(','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706863_6.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:\'-(</small>" onclick="add_smile(':\'-(','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706877_7.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-O</small>" onclick="add_smile(':-O','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706896_9.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-$</small>" onclick="add_smile(':-$','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706905_10.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-|</small>" onclick="add_smile(':-|','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706915_11.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-S</small>" onclick="add_smile(':-S','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706924_12.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>B-)</small>" onclick="add_smile('B-)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706938_13.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(Y)</small>" onclick="add_smile('(Y)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706948_14.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(N)</small>" onclick="add_smile('(N)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707091_29.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-*</small>" onclick="add_smile(':-*','community');"></td><td style="padding:2px;"><img src="http://www.talent6.com/i/sft_d.jpg" style="cursor:Pointer;" onclick="show('more_smilescommunity');"></td></tr></tbody></table></td></tr><tr><td><table border="0" name="more_smilescommunity" id="more_smilescommunity" style="display: none;" cellpadding="0" cellspacing="0" align="left"><tbody><tr><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706887_8.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-@</small>" onclick="add_smile(':-@','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706957_15.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(6)</small>" onclick="add_smile('(6)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706965_16.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(B)</small>" onclick="add_smile('(B)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706975_17.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(%)</small>" onclick="add_smile('(%)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706989_18.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(D)</small>" onclick="add_smile('(D)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166706999_19.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>>:)</small>" onclick="add_smile('>:)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707008_20.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-B</small>" onclick="add_smile(':-B','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707016_21.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-?</small>" onclick="add_smile(':-?','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707027_22.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>*-:)</small>" onclick="add_smile('*-:)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707037_23.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>8-X</small>" onclick="add_smile('8-X','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707046_24.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:O)</small>" onclick="add_smile(':O)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707054_25.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-&amp;</small>" onclick="add_smile(':-&amp;','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707063_26.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>|-)</small>" onclick="add_smile('|-)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707073_27.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>(C)</small>" onclick="add_smile('(C)','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707081_28.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-\'</small>" onclick="add_smile(':-\'','community');"></td></tr><tr><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707100_30.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>@};-</small>" onclick="add_smile('@};-','community');"></td><td align="center" width="19px" style="padding:2px;"><img src="http://www.talent6.com/video/smiles/1166707111_31.gif" style="border:1px solid #C0C0C0; cursor:pointer;" alt="<small>:-N</small>" onclick="add_smile(':-N','community');"></td><td width="100%"></td></tr></tbody></table></td></tr></tbody></table>						</td>
+					</tr>
+					<tr>
+						<td>
+						<input type="submit" name="portfolio_message[send]" value="Send!" class="btn" style="cursor:pointer;"> or <span class="link" onclick="modal.close('msg')">Go back</span></td>
+						<td align="right"><span id="communityCnt">500</span> characters left</td>
+					</tr>
+					<tr>
+						<td colspan="2"><small><div align="justify">
+						
+						We STRONGLY advise you NOT to reveal your contact information to other Members. This includes your e-mail address, instant messaging screen name, telephone number, home or work address, etc. talent6.com reserves the right to monitor communications between you and other Members. Messages may be rejected if they contain material that Talent6 considers inappropriate.
+						You are solely responsible for your interactions with other Members and Guests. <span class="link" onclick="openWindow('message_disclaimer.html', 600, 300)">More</span>						</div></small></td>
+					</tr>
+				</tbody></table>
+				</form>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<!-- -->
+
+
+
+
+
+
+<!-- AUTH MEMBERS ONLY ZONE -->
+<div id="authModal" style="width: 370px;" class="modal">
+		<table width="100%" style="background:url(i/restrict/restrict_bg.jpg) repeat-x; border:1px solid black;" align="center">
+		<tbody><tr>
+			<td align="right" style="color:#333399">
+				<center>
+				<h1 style="color:#9999cc">Dear Talent6 user,</h1><br><br>
+				Access to this feature is restricted to Talent6 members only. For unlimited
+				access to over 4000 casting calls start your trial now.<br><br>
+				<img src="i/restrict/start_trial.jpg" style="cursor:pointer;" onclick="document.location.href='joinus.php'"><br><br>
+				Already a Talent6 Member? <a href="login.php">Sign in here</a><br><br>
+				</center>
+				<a href="javascript: modal.close('authModal');">Close window</a>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<!-- -->
+
+
+
+
+
+
+
+
+
+<div id="systemMenu" style="display: none; position: absolute;" onmouseover="sMenu.on=1" onmouseout="sMenu.on=0; setTimeout('sMenu.hideDiv()',500);">
+<form method="POST" id="sMenuForm" action="privacy.html">
+<table width="150" style="padding: 0px; margin: 0px;">
+	<tbody><tr>
+		<td style="padding: 0px; margin: 0px;" id="sName"></td>
+		<td style="padding: 0px; margin: 0px;" align="right" width="16">
+			<img src="i/ico_close.gif" onclick="sMenu.on=0; sMenu.hideDiv();" class="hand" style="border: 0px;">
+		</td>
+	</tr>
+</tbody></table>
+
+<ul class="menu">
+		<div id="viewPhotoLi">
+			<a href="javascript: void(0);" onclick="openWindow(photo_path, 640, 500);" id="viewPhoto">View Photo</a>
+		</div>
+		<div id="viewVideoLi">
+			<a href="javascript: void(0);" onclick="openWindow(video_path, 340, 290);" id="viewPhoto">View Video</a>
+		</div>
+		<div id="viewLi">
+			<a href="" id="view">View Portfolio</a>
+		</div>
+					<div id="under18years"></div>
+					<div id="fakeMsgLi">
+			<a href="javascript: void(0);" id="fakeMsg">
+				Send Message
+			</a>
+		</div>
+			<div id="conLi">
+			<a href="javascript: void(0);" id="contacts">View Contacts</a>
+		</div>
+	</ul>
+<input type="hidden" name="favorites[pr_id]" id="menuPrId">
+<input type="hidden" name="favorites[ph_id]" id="menuPhId">
+<input type="hidden" name="favorites[fav_type]" id="favType">
+<input type="hidden" name="blockPrId" id="blockPrId">
+</form>
+</div>
+
+<table width="780" height="100%" align="center" class="norm" border="0">
+
+	<tbody><tr>
+						<td id="headerLogo"><a href="http://www.talent6.com/"><img src="i/talent6-logo.gif"></a></td>
+					<td id="headerAdvert2" align="right">
+								<script language="JavaScript" type="text/javascript" src="http://www.talent6.com/ads/adx.js"></script>
+					<script language="JavaScript" type="text/javascript">
+					<!--
+					   if (!document.phpAds_used) document.phpAds_used = ',';
+					   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+					   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+					   document.write ("http://www.talent6.com/ads/adjs.php?n=" + phpAds_random);
+					   document.write ("&amp;clientid=14");
+					   document.write ("&amp;exclude=" + document.phpAds_used);
+					   if (document.referrer)
+					      document.write ("&amp;referer=" + escape(document.referrer));
+					   document.write ("'><" + "/script>");
+					//-->
+					</script><script language="JavaScript" type="text/javascript" src="http://www.talent6.com/ads/adjs.php?n=250286889&amp;clientid=14&amp;exclude=,"></script><noscript><a href='http://www.talent6.com/ads/adclick.php?n=a22c6241' target='_blank'>
+					<img src='http://www.talent6.com/ads/adview.php?clientid=14&amp;n=a22c6241' border='0' alt=''></a></noscript>
+
+	<!--			<div class="advLink" onclick="window.location='advertize.php'">advertise with us</div>-->
+						</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="right" id="loginMenu">
+			<form method="POST" action="index.php">
+						<table width="100%" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td align="right">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+<!--								<td valign="middle" ><span style="color:#454545">Username:</span>&nbsp;</td>
+								<td valign="middle"><input type="text" name="usr" class="smallFields" value="" id="login">&nbsp;</td>
+								<td valign="middle" ><span style="color:#454545">Password:</span>&nbsp;</td>
+								<td valign="middle"><input type="password" name="pwd" class="smallFields" value="">&nbsp;</td>
+								<td valign="middle">
+                                  <input type="checkbox" name="remember_me" value="Login">&nbsp;<span class="setupGray">Remember my ID&nbsp;</span>
+								  
+									<input type="image" src="i/log_in.gif" name="login" value="Login" align="absmiddle" > -->
+														<td align="right"><a href="forgot.php">Forgot your password?</a>&nbsp;&nbsp;&nbsp;</td>
+																<td valign="middle">
+									<a href="login.php"><img src="i/v_log_in.jpg" border="0"></a>									<input type="hidden" name="login" value="Login">
+									<input type="hidden" name="resolution" value="800x600" id="screen">
+                                    <script language="javascript">
+                                    	document.getElementById('screen').value=screen.width+'x'+screen.height;
+                                    </script>
+								</td>
+							
+							
+								<!-- td valign="middle">&nbsp;&nbsp;<a href="http://talent6.com/join.php?select=type"><img src="i/sign_up.gif" align="absmiddle"></a></td -->
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+
+						</form>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="left" id="topMenu" valign="bottom">
+<!--		MAIN MENU-->
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+<!--					<td align="center" valign="baseline">
+						<a href="index.php"><img src="i/ico_home.gif" alt="Home" style="margin-top: 4px; margin-left:4px;"></a>
+					</td>
+-->					<td>
+						<div class="sample1">
+							<div class="horz_menu">
+							<script type="text/javascript">var sub10 = {"Member Search"  : "talent_search.php"};
+var sub13 = {"Jokes"  : "jokes.php", "Stories"  : "stories.php", "Tips"  : "tips.php", "Movie Reviews"  : "movie_reviews.php"};
+var sub18 = {"Search"  : "photographers.php", "Gallery"  : "galleries.php?show=8"};
+var sub1 = {"Testimonials"  : "testimonials.php", "<table width='100%' cellpadding=0 cellspacing=0 border=0><tr><td>Talents</td><td align=right><img src='i/arrow.gif'></td></tr></table>" : sub10, "<table width='100%' cellpadding=0 cellspacing=0 border=0><tr><td>Forums</td><td align=right><img src='i/arrow.gif'></td></tr></table>" : sub13, "<table width='100%' cellpadding=0 cellspacing=0 border=0><tr><td>Photographers</td><td align=right><img src='i/arrow.gif'></td></tr></table>" : sub18};
+var sub30 = {"Search"  : "castingcalls.php"};
+var sub38 = {"NEW Members"  : "fresh_meat.php", "TOP Rated Photos"  : "galleries.php", "Video Gallery"  : "videogallery.php", "Music/Audio Gallery"  : "audiogallery.php", "Mr. &amp; Ms State"  : "miss.php", "New uploads"  : "galleries.php?show=5", "Most Active Talents"  : "galleries.php?show=2", "Guest Gallery"  : "galleries.php?show=3", "Slideshow"  : "slideshow.php", "Contests"  : "contest.php"};
+var sub50 = {"About Us"  : "about.php", "Entertainment Guide"  : "guide.php", "FAQ"  : "faq.php", "Financial Calculator"  : "calculator.php"};
+var menu = {"cmntLnk" : sub1, "sub30" : sub30, "sub38" : sub38, "sub50" : sub50}
+</script><b><a id="cmntLnk" style="color: #f1ff3f; " href="community.php">&nbsp;Community&nbsp;<img src="i/arrow_yellow.gif"></a></b>
+<b><a id="sub30" style="" href="castingcalls.php">&nbsp;Casting Calls&nbsp;<img src="i/ico_menu_bullet.gif"></a></b>
+<b><a id="sub38" style="" href="galleries.php">&nbsp;Galleries&nbsp;<img src="i/ico_menu_bullet.gif"></a></b>
+<b><a id="sub50" style="" href="faq.php">&nbsp;Help&nbsp;<img src="i/ico_menu_bullet.gif"></a></b>
+<script type="text/javascript">dhtmlmenu_build(menu);</script>								<!--								<div class="horz_menu_right">
+									<a href="invite_friend.php" onClick="openWindow('invite_friend.php', 450, 370); return false;" style="color: #F7FF23; background: transparent;">
+										Invite a friend
+									</a>
+								</div>-->
+															</div>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+<!--//		MAIN MENU-->
+		</td>
+	</tr>
+
+<script language="JavaScript" type="text/JavaScript">
+	var concierge_profile=443935;
+</script>
+
+	<!--	<tr><td class="space"></td></tr>-->
+		<tr>
+		<td colspan="2">
+				</td>
+	</tr>
+
+
+	<tr>
+		<td colspan="2" id="general" style="padding-left: 0px; padding-right: 0px;"><table width="100%" class="block">
+	<tbody><tr>
+		<td class="title">Privacy Policy</td>
+	</tr>
+	<tr>
+		<td class="dataLeft" align="justify">
+<p class="terms">Talent6 understands the importance of privacy for our members.
+If you have any questions about this privacy policy, please contact us at <a href="mailto:privacy@talent6.com">privacy@talent6.com</a>.</p>
+
+<p class="terms">In order to register as a member of Talent6, you have provided certain personal
+information including your name, e-mail address, username and password, contact address, phone number, and
+credit card information. Talent6 retains and uses this information for the following reasons:
+</p><ul>
+1. To inform you about casting calls and provide other content we feel may be of interest to you.<br>
+2. To collect membership fees.<br>
+3. To maintain the security of our website.<br>
+4. To adjust and improve our marketing techniques and customized content, products and services.<br>
+5. To comply with applicable law in response to a subpoena, court order, or other legal process whether or not a
+response is required under applicable law; or it is necessary to share the information in order to enforce Talent6ts terms of use or investigate or prevent illegal activity or possible harm to the physical safety of any person.<br>
+6. Unless you choose to decline this aspect of our services, your information may be shared with third parties -
+including our marketing partners. Talent6 may use the information that you provide to work with third
+parties to bring you retail opportunities by e-mail, direct mail and telemarketing. Talent6 may sell
+or rent user, member, or former member information, including name, address, telephone number, e-mail address,
+payment information, as well as aggregate statistical information, to a third party or marketing partner.
+If you prefer that Talent6 not reveal any of your information to a third party, please follow this
+link to set your privacy information preferences.
+<br>
+<a href="non_disclosure.php" onclick="openWindow('non_disclosure.php', 450, 230); return false;">Set your privacy preferences</a>
+</ul>
+<p></p>
+
+		</td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" height="100%"></td>
+	</tr>
+	<tr>
+		<td colspan="2" id="footer" valign="top">
+			<table width="100%">
+				<tbody><tr>
+					<td width="100%" colspan="3">
+						<table align="center">
+							<tbody><tr>
+															<td>
+									<span class="link" onclick="show('writeFeedback')"><b>Feedback</b></span>&nbsp;|
+								</td><td align="right" nowrap="">
+									<a href="about.php">About Us</a>&nbsp;|
+								</td><td align="right" nowrap="">
+									<a href="faq.php?show=21#contact">Contact Us</a>&nbsp;|
+								</td><td align="center" nowrap="">
+									<a href="faq.php">FAQ</a>&nbsp;|
+								</td><td align="center" nowrap="">
+									<a href="privacy.html">Privacy Policies</a>&nbsp;|
+								</td><td align="center" nowrap="">
+									<a href="terms.html">Terms and Conditions</a>
+								</td>
+								<td align="center" nowrap="">
+									|&nbsp;<a href="advertize.php">Advertise with us</a>
+								</td>
+																						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						&nbsp;
+					</td>
+					<td width="60%" valign="top" class="norm" align="center"><br><br>
+
+										<div style="display: none; width: 100%;" id="writeFeedback">
+					<form method="POST" action="privacy.html">
+										<textarea class="w100" rows="4" name="feedback" id="feedback" onkeyup="txtCount(this,3000)"></textarea><br>
+						<table width="100%">
+							<tbody><tr>
+								<td align="left"><input type="submit" name="sendFeedback" value="Send" class="btn"> or <span class="link" onclick="show('writeFeedback')">Go back</span></td>
+								<td align="right"><span id="feedbackCnt">3000</span> characters left</td>
+							</tr>
+						</tbody></table>
+						<br><br>
+					</form>
+					We'll be happy to answer any questions you may have. We would also appreciate any comments or ideas about how to improve the site.<br><br>
+					</div>
+					
+					</td>
+					<td width="20%">
+						&nbsp;
+					</td>
+				</tr>
+								<tr>
+					<td colspan="3" align="center">
+						Copyright © 2004 - 2007 All Rights Reserved.<br>
+							Talent6 Official Service. There are 76 visitors online
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<div style="color: white;">old: 0 new: 4 Version: SFT_4_6_5
+</div>
+<script language="JavaScript" type="text/javascript">check_dom.check();</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1424971-1";
+urchinTracker();
+</script>
+
+
+
+</body></html>
