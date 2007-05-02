@@ -1,275 +1,901 @@
-<!--The following is the downloaded HTML source of the careersandeducation.com privacy policy that was archived on 2006-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061103204800id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careersandeducation.com privacy policy that was archived on 2007-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070502185918id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-<title>Careers &amp; Education - Privacy Policy</title>
+<title>Privacy Policy | Careers &amp; Education</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css" media="all">@import "/misc/drupal.css";</style><link rel="alternate" type="application/rss+xml" title="All comments" href="http://www.careersandeducation.com/crss">
+
+<link rel="alternate" type="application/rss+xml" title="Comments for Privacy Policy" href="http://www.careersandeducation.com/crss/node/1550">
+
+<link rel="alternate" type="application/rss+xml" title="Comments for all *page* posts" href="http://www.careersandeducation.com/crss/nodetype/page">
+
+<meta name="description" content="www.CareersandEducation.com Privacy Policy Effective Date: 09/08/06 This Privacy Policy describes the types of personal and non-personal information we collect on www.CareersandEducation.com (the &amp;ldquo;Website&amp;rdquo;), how we use it and how we may disclose it. By using the Website, you fully and unconditionally agree to the terms of this Privacy Policy. If you do not, please do not use the Website. Collection of Information Personal Information We only collect personal information from you when you: (1) register on the Website; (2) ask to receive information about a topic or article; (3) register for a newsletter; or (4) contact us. Non-Personal Information As part of the standard operation of the Website, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Website. In addition, we may collect information about your browsing behavior, such as the">
+<meta name="robots" content="index,follow">
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
+<style type="text/css" media="all">@import "/modules/advuser/advuser.css";</style><style type="text/css" media="all">@import "/modules/cck/content.css";</style><style type="text/css" media="all">@import "/modules/simplenews/simplenews.css";</style><script type="text/javascript"> </script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="Careers &amp; Education ; Privacy Policy">
-<meta name="description" content="www.CareersandEducation.com Privacy Policy Effective Date:  09/08/06 This Privacy Policy describes the types of personal and non-personal information we ...">
-<link href="/themes/careers/styles/global.css" type="text/css" rel="stylesheet">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="keywords" content="Privacy Policy"><link href="/themes/careers/styles/global.css" type="text/css" rel="stylesheet">
 <link href="/themes/careers/styles/page2.css" type="text/css" rel="stylesheet">
 <script language="JavaScript" src="/themes/careers/styles/scripts.js"></script>
 <script language="JavaScript">
 <!--
 var path_to_theme = "themes/careers";
+var ipms_redirect = "http://www.careersandeducation.com/privacy-policy";
+<!-- Added to update the IPMS_subID field -->
+function insert_subID()
+{
+    if(document.getElementById('form') && readCookie("SITE_TRACKING_ID")!=null)
+    {        
+        //Add the site tracking id.
+        var formToPopulate  = document.getElementsByName('templateform');
+        var applicationForm = formToPopulate[0];
+        var fieldToPopulate = document.getElementsByName('SITE_TRACKING_ID');
+        if(fieldToPopulate.length < 1)
+        {            
+            var field   = document.createElement("input");
+            field.type  = "hidden";
+            field.name  = "SITE_TRACKING_ID";
+            field.value = readCookie("SITE_TRACKING_ID");
+            applicationForm.appendChild(field);
+        }
+        else
+        {
+            var newValue = readCookie("SITE_TRACKING_ID");            
+            fieldToPopulate[0].value = newValue;
+        }
+        
+    //Find the banner image and replace it with one that tracks impressions.
+        var banner = document.getElementById('bannerimg');
+        var campaignID          = document.getElementsByName('IPMS_Client_ID');
+        var campaignIDvalue     = campaignID[0].value;
+        var affiliateID         = document.getElementsByName('IPMS_Affiliate_ID');
+        var affiliateIDvalue    = affiliateID[0].value;
+    //Couldn't find the tracking banner. Downloaded the hidded tracking pixel and
+    //attached it to the page.        
+        if(!banner)
+        {
+            var trackingImage = document.createElement("img");
+            trackingImage.id = "hidden_Banner";
+            //trackingImage.style.display = "none";
+            trackingImage.src = "http://ipms.innovationads.com/soap/track2/"+campaignIDvalue+"/"+affiliateIDvalue+"/"+readCookie("SITE_TRACKING_ID")+"/tracker.GIF";
+            applicationForm.appendChild(trackingImage);
+        }
+    //Found the banner. Now downloading the tracking version.
+        else
+        {        
+            var originalSource      = banner.src;
+            var imageTarget = originalSource.split("/");        
+            var endValue    = imageTarget.length;
+            banner.src = "http://ipms.innovationads.com/soap/track2/"+campaignIDvalue+"/"+affiliateIDvalue+"/"+readCookie("SITE_TRACKING_ID")+"/"+imageTarget[endValue-1];
+        }
+    }
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
 //-->
 </script>
+
+
 </head>
 
-<body onload="preloadImages()">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript"> _uacct = "UA-831387-1"; urchinTracker(); </script>
-
+<body>
 <div class="careersandeducation">
-	<h1><a href="http://www.careersandeducation.com">CareersandEducation.com</a></h1>
+	<h1><a href="/">CareersandEducation.com</a></h1>
 </div>
 
-<div id="container">
-
-<!--node/1550/ ... q=privacy-policy
+<div id="container"><!--node/1550/// ... q=privacy-policy
 Array
 (
     [0] => 1184
 )
 -->
-	<div id="header" onclick="document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0;"><a href="http://www.careersandeducation.com"><img src="/themes/careers/images/spacer.gif" width="365" height="40" border="0"></a></div>
+
+	<div id="header" onclick="document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0;"><a href="/"><img src="/themes/careers/images/spacer.gif" width="365" height="40" border="0"></a></div>
 
 	<div id="topnav" onclick="document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0;">
 
 		<span class="nav">
-			<a href="/">Home</a> | <a href="/degrees">Degrees</a> | <a href="/careers">Careers</a> | <a href="/on-campus-education">On-Campus Education</a> | <a href="/online-education">Online Education</a> | <a href="/career-colleges">Career Colleges</a> | <a href="/scholarships">Scholarships</a>
+			<a href="/">Home</a> | <a href="/degrees">Degrees</a> | <a href="/careers">Careers</a> | <a href="/on-campus-education">On-Campus Education</a> | <a href="/online-education">Online Education</a> | <a href="/career-colleges">Career Colleges</a> | <a href="/scholarships">Scholarships</a> | <a href="/submit-universities">For Universities</a>
 		</span>
 
 	</div>
 
 	<div class="margintop">&nbsp;</div>
 
-	<div id="leftcolumn" onclick="document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0;">
+
+		<div style="position: relative; width: 955px">
+			<div style="position: relative; float: right; width: 762px">
+			
+	<div class="breadcrumb"> Privacy Policy</div>
+	<div id="centercolumn" onclick="if (document.getElementById('myaccountmenu')) document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0">
+
+
+<script language="javascript">
+	function forward() {
+		document.getElementById('forward').style.display = "block";
+	}
+</script>
+
+		<p class="degrees" align="right" style="margin: 0px; font-weight: bold">
+			<img src="/themes/careers/images/print.gif" style="position: absolute; right: 176px; top: 2px;">
+			<a href="/print/?print=yes&amp;q=privacy-policy" target="_blank" style="color: #005995">[Print Page]</a>
+
+ | <a style="color: #005995; font-weight: bold" href="javascript:forward()">Email this page</a>
+ 			</p>
+
+
+<div id="forward" style="border: 1px solid #000000; display: none; margin: 10px 0px 15px auto; width: 475px">
+
+	<div style="height: 18px; padding: 3px 5px 0px 10px; font-weight: bold; color: #FFFFFF; background-image: url(/themes/dev/images/forward_bg.jpg);">
+		<div style="position: relative; float: left">Email this page to a friend</div>
+		<div style="position: relative; float: right"><img src="/themes/careers/images/bluex.gif" onclick="document.getElementById('forward').style.display = 'none'" style="cursor: pointer"></div>
+	</div>
+
+	<div style="margin: 10px">
+	<form action="" method="POST" id="forward_form">
+		<input type="hidden" name="edit[form_id]" id="edit-forward-form" value="forward_form">
+		<input type="hidden" name="edit[nid]" id="edit-nid" value="1550">
+		<input type="hidden" name="edit[forward_footer]" id="edit-forward_footer" value="">
+
+		<div class="form-item">
+			<label for="edit-yemail">Your Email: <span class="form-required" title="This field is required.">*</span></label>
+			<input type="text" maxlength="256" name="edit[yemail]" id="edit-yemail" size="50" value="" class="form-text required">
+		</div>
+
+		<div class="form-item">
+			<label for="edit-yname">Your Name: <span class="form-required" title="This field is required.">*</span></label>
+			<input type="text" maxlength="256" name="edit[yname]" id="edit-yname" size="50" value="" class="form-text required">
+		</div>
+
+		<div class="form-item">
+			<label for="edit-recipients">Send To: <span class="form-required" title="This field is required.">*</span></label>
+			<textarea cols="50" rows="3" name="edit[recipients]" id="edit-recipients" class="form-textarea resizable required"></textarea>
+			<div class="description">Enter multiple addresses on separate lines or separate them with commas.</div>
+		</div>
+
+		<div class="form-item">
+			<label for="edit-message">Your Personal Message: <span class="form-required" title="This field is required.">*</span></label>
+			<textarea cols="50" rows="4" name="edit[message]" id="edit-message" class="form-textarea resizable required"></textarea>
+		</div>
+
+		<div class="form-item">
+			<input type="image" src="/themes/careers/images/forward_submit.gif" name="op" value="Send Message">
+		</div>
+			</form>
+	</div>
+
+</div>
+
+		<h1 class="header" style="font-size:18px;">Privacy Policy</h1><!-- begin content -->	<div class="node">
+				<span class="submitted">Submitted by Administrator on October 3, 2006 - 9:47am.</span>
+		<span class="taxonomy"><a href="/privacy-policy-0" rel="tag" title="">Privacy Policy</a></span>
+		<div class="content"><p align="center"><strong>www.CareersandEducation.com Privacy Policy<br> Effective Date:  09/08/06</strong></p>
+<p>This Privacy Policy describes the types of personal and non-personal information we collect on www.CareersandEducation.com (the “Website”), how we use it and how we may disclose it.  By using the Website, you fully and unconditionally agree to the terms of this Privacy Policy.  If you do not, please do not use the Website.</p>
+<p><strong>Collection of Information</strong></p>
+<ul>
+<li><strong>Personal Information</strong></li>
+</ul>
+<p>We only collect personal information from you when you:  (1) register on the Website; (2) ask to receive information about a topic or article; (3) register for a newsletter; or (4) contact us.</p>
+<ul>
+<li><strong>Non-Personal Information</strong></li>
+</ul>
+<p>As part of the standard operation of the Website, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Website.  In addition, we may collect information about your browsing behavior, such as the date and time you visit the Website, the areas or pages of the Website that you visit, the amount of time you spend viewing the Website, the number of times you return to the Website and other click-stream data.</p>
+<ul>
+<li><strong>Cookies</strong></li>
+</ul>
+
+<p>We may use cookies to collect the non-personal information described above.  We may also use cookies to:  (1) provide you with customized content and advertising; (2) monitor Website usage; and (3) conduct research to improve our content and services.</p>
+<p>You are free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings.  Check the “Help” menu of your browser to learn how to change your cookie preferences.</p>
+<ul>
+<li><strong>Web Beacons</strong></li>
+</ul>
+<p>We may use web beacons on the Website, in our advertisements on other sites and in e-mails.  A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email.  Web beacons allow us to recognize users by accessing our cookies.  They help us measure the effectiveness of our site, our advertising and our email campaigns in various ways, for example, by counting the number of individuals who visit our site from a particular advertisement, as well as by telling us when a web page is viewed and a description of the page where the web beacon is placed.  Web beacons also help us count the number of individuals who open or act upon an email message.  The information we collect may include personal information.  We may also combine the information that we collect through web beacons with other personal information we have collected from you, such as your registration information.  We use this information to respond to your questions (for example, if you do not remember registering on the Website or don’t know how we received your email address).  We also use this information to prevent fraud by members of our affiliate program and others.</p>
+<p>Members of our affiliate program may also use web beacons to help us track the number of individuals the affiliate has directed to the Website.  These web beacons do not collect any personal information.</p>
+<p>We will not share any personal information collected through web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.</p>
+<p>You can make some web beacons unusable by rejecting cookies.</p>
+<p><strong>Use of Information</strong></p>
+<p>We may use the information we collect from you for any of the following purposes:  (1) to contact you with information and promotional materials and offers from us, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (2) to contact you when necessary; (3) to review Website usage and operations; (4) to address problems with the Website, our business or our products and services; and (5) to protect the security or integrity of the Website and our business.</p>
+<p><strong>Disclosure of Information</strong></p>
+<p>We may disclose the information we collect from and about you as follows:  (1) to our employees, independent contractors, subsidiaries, affiliates, service providers and suppliers, if the disclosure will enable any of these entities to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the Website Terms of Use, of our rights or of the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) in connection with the sale of all or part of our assets.  In addition, with your explicit consent, we may share your information with third parties for their use in marketing their own and/or their clients’ products and services to you.</p>
+<p><strong>Your Ability to Opt Out</strong></p>
+<p>If you would prefer that we not use your personal information to send you marketing materials, please send an email telling us that to <a href="mailto:privacy@CareersandEducation.com" target="_blank">privacy@CareersandEducation.com </a>.</p>
+<p> If you would prefer that we not share your personal information with third parties for their own and/or their clients’ marketing purposes, please send an email telling us that to <a href="mailto:privacy@CareersandEducation.com " target="_blank">privacy@CareersandEducation.com </a>.
+</p><p>&nbsp;</p>
+<p><strong>Access to Information You Provide to Us</strong></p>
+<p>You may access any personal information you provide to us, correct or modify any such personal information or direct us to make no further use of or to delete your personal information.  To do so, please send an email with your request to <a href="mailto:privacy@CareersandEducation.com " target="_blank">privacy@CareersandEducation.com </a>.</p>
+<p><strong>Security</strong></p>
+<p>We have taken certain physical, electronic, contractual and procedural steps to safeguard your information.</p>
+<p><strong>Children</strong></p>
+<p>We do not direct the Website to, nor do we knowingly collect any personal information from, children under thirteen.</p>
+<p><strong>Third Party Websites</strong></p>
+<p>The Website may contain links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the activities and practices that take place on these sites.  Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Website.</p>
+<p><strong>Changes</strong></p>
+<p>If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly.  Material changes to the policy will be posted on the Website for 30 days before taking effect.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have questions or concerns about this Privacy Policy, please contact us at <a href="mailto:info@CareersandEducation.com " target="_blank">info@CareersandEducation.com </a>.</p>
+			</div>
+	</div>
+
+	<!-- end content -->	<iframe name="user-registration" style="display:none;"></iframe>
+	</div>
+</div>	<div id="leftcolumn" onclick="document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0;">
 
 		<h1 class="degree_by">Quick Degree Finder</h1>
 
 		<div id="rightmenu" style="padding-bottom: 10px">
 
-			<p class="drop_down_text" style="color:#cc0000; margin-left:12px;">Select one or more criteria.</p>
+			<p class="drop_down_text">Find degree by:</p>
 
-			<p class="drop_down_text">1. Degree Level:</p>
+			<select id="criteria" style="margin-left:12px; width:150px" onchange="chooseCriteria()">
+				<option value="destination" selected="">(Select Criteria)</option>
+				<option value="level">Degree Level</option>
+				<option value="subject">Degree Subject</option>
+				<option value="concentration">Degree Concentration</option>
+				<option value="school">School</option>
+			</select><br>
+		
+			<img src="/images/spacer.gif" height="7" width="1"><br>
 
-			<select name="level" id="level" style="margin-left:12px; width:150px" onchange="validate('level')">
-				<option value="select" selected="selected">Select Level</option>
-				<option value="1174">Associate Degrees</option>
-				<option value="1173">Bachelor Degrees</option>
-				<option value="1175">Certificate Programs</option>
-				<option value="3">College Courses</option>
-				<option value="1176">Diploma/GED</option>
-				<option value="1171">Doctorate Degrees</option>
-				<option value="1172">Master's Degrees</option>
+			<select id="destination" style="margin-left:12px; width:150px" disabled="">
+				<option>Select criteria first</option>
+			</select>
+		
+			<select name="level" id="level" style="display: none; margin-left:12px; width:150px" onchange="validate('level')">
+				<option value="select" selected="">(Select Level)</option>
+				<option value="/degrees/degrees-by-level/associate-degrees">Associate Degrees</option>
+				<option value="/degrees/degrees-by-level/bachelor-degrees">Bachelor Degrees</option>
+				<option value="/degrees/degrees-by-level/certificate-programs">Certificate Programs</option>
+				<option value="/degrees/degrees/degrees-by-level/degrees-by-le-0">Certificate for Accounting and Finance</option>
+				<option value="/online-degrees/college-courses">College Courses</option>
+				<option value="/degrees/degrees-by-level/diploma-ged">Diploma/GED</option>
+				<option value="/degrees/degrees-by-level/doctorate-degrees">Doctorate Degrees</option>
+				<option value="/degrees/degrees-by-level/masters-degrees">Master's Degrees</option>
 			</select>
 
-			<p class="drop_down_text">2. Degree Subject:</p>
-
-			<select name="subject" id="subject" style="margin-left:12px; width:150px" onchange="validate('subject')">
-				<option value="select" selected="selected">Select Subject</option>
-				<option value="142">Arts and Humanities</option>
-				<option value="161">Business</option>
-				<option value="162">Education</option>
-				<option value="163">Engineering</option>
-				<option value="164">Health and Medical</option>
-				<option value="158">Law and Criminal Justice</option>
-				<option value="165">Science</option>
-				<option value="61">Social Science</option>
-				<option value="167">Technology</option>
+			<select name="subject" id="subject" style="display: none; margin-left:12px; width:150px" onchange="validate('subject')">
+				<option value="select" selected="">(Select Subject)</option>
+				<option value="/arts-and-humanities">Arts and Humanities</option>
+				<option value="/online-degrees-subject/business">Business</option>
+				<option value="/online-degrees-subject/education">Education</option>
+				<option value="/online-degrees-subject/engineering">Engineering</option>
+				<option value="/online-degrees-subject/health-and-medical">Health and Medical</option>
+				<option value="/online-degrees-subject/law-and-criminal-justice">Law and Criminal Justice</option>
+				<option value="/online-degrees-subject/science">Science</option>
+				<option value="/online-degrees-subject/social-science-degrees/social-science">Social Science</option>
+				<option value="/online-degrees-subject/technology">Technology</option>
 			</select>
 
-			<p class="drop_down_text">3. Degree Concentration:</p>
-			
-			<select name="concentration" id="concentration" style="margin-left:12px; width:150px" onchange="validate('concentration')">
-				<option value="select" selected="selected">Select Concentration</option>
-				<option value="355">Accounting</option>
-				<option value="1495">Adult Education</option>
-				<option value="1841">Advertising</option>
-				<option value="1842">Aerospace Engineering</option>
-				<option value="1680">Agriculture</option>
-				<option value="604">American Studies and Ethnicity</option>
-				<option value="605">Animation</option>
-				<option value="533">Applied Management</option>
-				<option value="1682">Archaeology</option>
-				<option value="612">Architecture</option>
-				<option value="237">Art</option>
-				<option value="1684">Aviation Science</option>
-				<option value="1476">Banking</option>
-				<option value="1687">Basic Sciences</option>
-				<option value="302">Behavioral Science</option>
-				<option value="1544">Biological Engineering</option>
-				<option value="266">Biology</option>
-				<option value="1692">Biotechnology</option>
-				<option value="514">Business Administration</option>
-				<option value="268">Chemical Engineering</option>
-				<option value="271">Chemistry</option>
-				<option value="644">Childhood Education</option>
-				<option value="1550">Civil Engineering</option>
-				<option value="143">Classical Studies</option>
-				<option value="1568">Clinical Research</option>
-				<option value="542">Communication</option>
-				<option value="1571">Communication Sciences</option>
-				<option value="1722">Communications Technology</option>
-				<option value="1505">Computer Education</option>
-				<option value="1726">Computer Engineering</option>
-				<option value="1729">Computer Forensics</option>
-				<option value="1731">Computer Networking</option>
-				<option value="1733">Computer Programming</option>
-				<option value="1736">Computer Science</option>
-				<option value="548">Construction Management</option>
-				<option value="1634">Corrections</option>
-				<option value="306">Counseling</option>
-				<option value="1637">Court Reporting</option>
-				<option value="1639">Crime Scene</option>
-				<option value="175">Criminal Justice</option>
-				<option value="1644">Criminology</option>
-				<option value="1912">Culinary Arts</option>
-				<option value="638">Curriculum Design</option>
-				<option value="1647">Cyber Crime (Cybercrime)</option>
-				<option value="1739">Database Administration</option>
-				<option value="1573">Dental Hygiene</option>
-				<option value="615">Design</option>
-				<option value="1650">Disaster Management</option>
-				<option value="639">Distance Education</option>
-				<option value="527">E-Business</option>
-				<option value="1574">EMS &amp; Paramedic</option>
-				<option value="183">Economic Crime</option>
-				<option value="320">Economics</option>
-				<option value="1519">Education Programs</option>
-				<option value="640">Educational Administration</option>
-				<option value="641">Educational Leadership</option>
-				<option value="642">Educational Technology</option>
-				<option value="1551">Electrical Engineering</option>
-				<option value="1741">Electronics</option>
-				<option value="1552">Engineering Geology</option>
-				<option value="1553">Engineering Management</option>
-				<option value="39">Engineering Studies</option>
-				<option value="528">Entrepreneurship &amp; Small Business</option>
-				<option value="372">Environmental Engineering</option>
-				<option value="252">Environmental Science</option>
-				<option value="622">Fashion</option>
-				<option value="623">Film &amp; Theater</option>
-				<option value="356">Finance</option>
-				<option value="429">Financial Management</option>
-				<option value="485">Financial Planning</option>
-				<option value="625">Fine Arts</option>
-				<option value="1695">Fire Science</option>
-				<option value="1478">Forensic Accounting</option>
-				<option value="1654">Forensics</option>
-				<option value="629">Game Art Design</option>
-				<option value="1744">Game Design</option>
-				<option value="373">Gas Engineering</option>
-				<option value="171">General Studies</option>
-				<option value="1698">Geography</option>
-				<option value="1703">Geology</option>
-				<option value="1706">Geophysics</option>
-				<option value="1577">Geriatric Health</option>
-				<option value="1520">Gifted Student Education</option>
-				<option value="1746">Graphics and Multimedia</option>
-				<option value="1590">Health &amp; Medical Sciences</option>
-				<option value="1581">Health Care Administration</option>
-				<option value="1588">Health Information Technology</option>
-				<option value="1592">Health Services</option>
-				<option value="645">Higher Education</option>
-				<option value="330">History</option>
-				<option value="1657">Homeland Security</option>
-				<option value="534">Human Resources</option>
-				<option value="1839">Human Services</option>
-				<option value="210">Humanities</option>
-				<option value="626">Individual Studies</option>
-				<option value="368">Industrial Engineering</option>
-				<option value="1748">Information Assurance</option>
-				<option value="1754">Information Security</option>
-				<option value="1757">Information Systems</option>
-				<option value="1760">Information Technology</option>
-				<option value="630">Interior Design</option>
-				<option value="529">International Business</option>
-				<option value="1763">Internet Technologies</option>
-				<option value="336">Journalism &amp; Communications</option>
-				<option value="1660">Justice Administration</option>
-				<option value="1663">Juvenile Justice</option>
-				<option value="646">K-12 Education</option>
-				<option value="543">Labor Relations</option>
-				<option value="236">Language and Culture</option>
-				<option value="1665">Law Degree</option>
-				<option value="55">Law Enforcement</option>
-				<option value="535">Leadership</option>
-				<option value="1669">Legal Studies</option>
-				<option value="627">Liberal Studies</option>
-				<option value="238">Library Science</option>
-				<option value="1831">Life Sciences</option>
-				<option value="342">Linguistics</option>
-				<option value="628">Literature</option>
-				<option value="348">Management</option>
-				<option value="1766">Managing Innovation</option>
-				<option value="369">Manufacturing Engineering</option>
-				<option value="549">Manufacturing and Industrial</option>
-				<option value="546">Marketing and Sales</option>
-				<option value="1554">Materials Engineering</option>
-				<option value="1708">Mathematics &amp; Statistics</option>
-				<option value="1826">Mechanical Engineering</option>
-				<option value="1595">Medical Assisting</option>
-				<option value="1597">Medical Billing</option>
-				<option value="1599">Medicine</option>
-				<option value="1601">Mental Health</option>
-				<option value="1555">Mining Engineering</option>
-				<option value="631">Museum Studies</option>
-				<option value="632">Music</option>
-				<option value="1768">Network Management</option>
-				<option value="1770">Network Security</option>
-				<option value="1603">Nursing</option>
-				<option value="1605">Nutrition &amp; Food Sciences</option>
-				<option value="1612">Occupational Health</option>
-				<option value="1615">Occupational Therapy</option>
-				<option value="1481">Office Administration</option>
-				<option value="1672">Paralegal</option>
-				<option value="1616">Pharmacy</option>
-				<option value="228">Philosophy</option>
-				<option value="633">Photography</option>
-				<option value="648">Physical &amp; Health Education</option>
-				<option value="1710">Physical Sciences</option>
-				<option value="1617">Physical Therapy</option>
-				<option value="1713">Physics</option>
-				<option value="345">Political Science</option>
-				<option value="540">Project Management</option>
-				<option value="1840">Psychology</option>
-				<option value="530">Public Administration</option>
-				<option value="1619">Public Health</option>
-				<option value="532">Public Policy</option>
-				<option value="547">Public Relations</option>
-				<option value="1675">Public Safety</option>
-				<option value="1622">Radiologic Science</option>
-				<option value="1489">Real Estate</option>
-				<option value="231">Religious Studies</option>
-				<option value="1626">Respiratory Therapy</option>
-				<option value="1558">Safety Engineering</option>
-				<option value="208">Secondary Education</option>
-				<option value="1678">Security &amp; Loss Prevention</option>
-				<option value="1714">Social Work</option>
-				<option value="319">Sociology</option>
-				<option value="1772">Software Development</option>
-				<option value="374">Software Engineering</option>
-				<option value="649">Special Education</option>
-				<option value="1523">Speech</option>
-				<option value="1628">Sports Sciences</option>
-				<option value="1563">Systems Engineering</option>
-				<option value="509">Taxation</option>
-				<option value="647">Teacher Licensure</option>
-				<option value="1531">Teaching Assistant</option>
-				<option value="1775">Technical Writing</option>
-				<option value="1913">Technological Engineer</option>
-				<option value="1776">Technology Management</option>
-				<option value="1777">Telecommunications</option>
-				<option value="552">Tourism and Hospitality</option>
-				<option value="1536">Training and Development</option>
-				<option value="1719">Veterinary Science</option>
-				<option value="1778">Web Design</option>
-				<option value="1779">Web Development</option>
-				<option value="347">Woman's Studies</option>
-				<option value="634">Writing</option>
+			<select name="concentration" id="concentration" style="display: none; margin-left:12px; width:150px" onchange="validate('concentration')">
+				<option value="select" selected="">(Select Concentration)</option>
+				<option value="/degrees/degrees-by-subject/business/accounting">Accounting</option>
+				<option value="/degrees/degrees-by-subject/education/adult-educa">Adult Education</option>
+				<option value="/degrees/degrees-by-subject/business/advertising">Advertising</option>
+				<option value="/degrees/degrees-by-subject/engineering/aerospace">Aerospace Engineering</option>
+				<option value="/degrees/degrees-by-subject/science/agriculture">Agriculture</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/a">American Studies and Ethnicity</option>
+				<option value="/taxonomy/term/605">Animation</option>
+				<option value="/degrees/degrees-by-subject/business/applied-mana">Applied Management</option>
+				<option value="/degrees/degrees-by-subject/science/archaeology">Archaeology</option>
+				<option value="/taxonomy/term/612">Architecture</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities-0">Art</option>
+				<option value="/degrees/degrees-by-subject/social-science/art-ed">Art Education Master Online</option>
+				<option value="/taxonomy/term/237">Art Management</option>
+				<option value="/degrees/degrees-by-subject/social-science/associ">Associate Degree Education Elementary Online</option>
+				<option value="/degrees/degrees-by-subject/science/aviation-scie">Aviation Science</option>
+				<option value="/degrees/degrees-by-subject/business/banking">Banking</option>
+				<option value="/degrees/degrees-by-subject/science/basic-science">Basic Sciences</option>
+				<option value="/degrees/degrees-by-subject/social-science/behavi">Behavioral Science</option>
+				<option value="/degrees/degrees-by-subject/engineering/biologica">Biological Engineering</option>
+				<option value="/degrees/degrees-by-subject/science/biology">Biology</option>
+				<option value="/degrees/degrees-by-subject/science/biotechnology">Biotechnology</option>
+				<option value="/degrees/degrees-by-subject/business/business-adm">Business Administration</option>
+				<option value="/degrees/degrees-by-subject/engineering/chemical-">Chemical Engineering</option>
+				<option value="/degrees/degrees-by-subject/science/chemistry">Chemistry</option>
+				<option value="/degrees/degrees-by-subject/education/childhood-e">Childhood Education</option>
+				<option value="/degrees/degrees-by-subject/engineering/civil-eng">Civil Engineering</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/c">Classical Studies</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/cl">Clinical Research</option>
+				<option value="/degrees/degrees-by-subject/business/communicatio">Communication</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/co">Communication Sciences</option>
+				<option value="/degrees/degrees-by-subject/technology/communicat">Communications Technology</option>
+				<option value="/degrees/degrees-by-subject/education/computer-ed">Computer Education</option>
+				<option value="/degrees/degrees-by-subject/technology/computer-e">Computer Engineering</option>
+				<option value="/degrees/degrees-by-subject/technology/computer-f">Computer Forensics</option>
+				<option value="/degrees/degrees-by-subject/technology/computer-n">Computer Networking</option>
+				<option value="/degrees/degrees-by-subject/technology/computer-p">Computer Programming</option>
+				<option value="/degrees/degrees-by-subject/technology/computer-s">Computer Science</option>
+				<option value="/degrees/degrees-by-subject/business/construction">Construction Management</option>
+				<option value="/taxonomy/term/1634">Corrections</option>
+				<option value="/degrees/degrees-by-subject/social-science/counse">Counseling</option>
+				<option value="/taxonomy/term/1637">Court Reporting</option>
+				<option value="/taxonomy/term/1639">Crime Scene</option>
+				<option value="/degrees/degrees-by-subject/law-and-criminal-just">Criminal Justice</option>
+				<option value="/taxonomy/term/1644">Criminology</option>
+				<option value="/taxonomy/term/1912">Culinary Arts</option>
+				<option value="/degrees/degrees-by-subject/education/curriculum-">Curriculum Design</option>
+				<option value="/taxonomy/term/1647">Cyber Crime (Cybercrime)</option>
+				<option value="/degrees/degrees-by-subject/technology/database-a">Database Administration</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/de">Dental Hygiene</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/d">Design</option>
+				<option value="/taxonomy/term/1650">Disaster Management</option>
+				<option value="/degrees/degrees-by-subject/education/distance-ed">Distance Education</option>
+				<option value="/degrees/degrees-by-subject/business/e-business">E-Business</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/em">EMS &amp; Paramedic</option>
+				<option value="/taxonomy/term/183">Economic Crime</option>
+				<option value="/degrees/degrees-by-subject/social-science/econom">Economics</option>
+				<option value="/degrees/degrees-by-subject/education/education-p">Education Programs</option>
+				<option value="/degrees/degrees-by-subject/education/educational">Educational Administration</option>
+				<option value="/degrees/degrees-by-subject/education/education-0">Educational Leadership</option>
+				<option value="/taxonomy/term/642">Educational Technology</option>
+				<option value="/degrees/degrees-by-subject/engineering/electrica">Electrical Engineering</option>
+				<option value="/degrees/degrees-by-subject/technology/electronic">Electronics</option>
+				<option value="/degrees/degrees-by-subject/engineering/engineeri">Engineering Geology</option>
+				<option value="/degrees/degrees-by-subject/engineering/enginee-0">Engineering Management</option>
+				<option value="/online-degrees-subject/engineering-degrees">Engineering Studies</option>
+				<option value="/degrees/degrees-by-subject/business/entrepreneur">Entrepreneurship &amp; Small Business</option>
+				<option value="/degrees/degrees-by-subject/engineering/environme">Environmental Engineering</option>
+				<option value="/degrees/degrees-by-subject/science/environmental">Environmental Science</option>
+				<option value="/taxonomy/term/623">Film &amp; Theater</option>
+				<option value="/degrees/degrees-by-subject/business/finance">Finance</option>
+				<option value="/degrees/degrees-by-subject/business/financial-ma">Financial Management</option>
+				<option value="/degrees/degrees-by-subject/business/financial-pl">Financial Planning</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/f">Fine Arts</option>
+				<option value="/degrees/degrees-by-subject/science/fire-science">Fire Science</option>
+				<option value="/degrees/degrees-by-subject/business/forensic-acc">Forensic Accounting</option>
+				<option value="/taxonomy/term/1654">Forensics</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/g">Game Art Design</option>
+				<option value="/degrees/degrees-by-subject/technology/game-desig">Game Design</option>
+				<option value="/degrees/degrees-by-subject/engineering/gas-engin">Gas Engineering</option>
+				<option value="/taxonomy/term/171">General Studies</option>
+				<option value="/degrees/degrees-by-subject/science/geography">Geography</option>
+				<option value="/degrees/degrees-by-subject/science/geology">Geology</option>
+				<option value="/degrees/degrees-by-subject/science/geophysics">Geophysics</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/ge">Geriatric Health</option>
+				<option value="/degrees/degrees-by-subject/education/gifted-stud">Gifted Student Education</option>
+				<option value="/degrees/degrees-by-subject/technology/graphics-a">Graphics and Multimedia</option>
+				<option value="/taxonomy/term/1590">Health &amp; Medical Sciences</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/he">Health Care Administration</option>
+				<option value="/taxonomy/term/1588">Health Information Technology</option>
+				<option value="/taxonomy/term/1592">Health Services</option>
+				<option value="/degrees/degrees-by-subject/education/higher-educ">Higher Education</option>
+				<option value="/degrees/degrees-by-subject/social-science/histor">History</option>
+				<option value="/taxonomy/term/1657">Homeland Security</option>
+				<option value="/degrees/degrees-by-subject/business/human-resour">Human Resources</option>
+				<option value="/degrees/degrees-by-subject/social-science/human-">Human Services</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/h">Humanities</option>
+				<option value="/taxonomy/term/626">Individual Studies</option>
+				<option value="/degrees/degrees-by-subject/engineering/industria">Industrial Engineering</option>
+				<option value="/degrees/degrees-by-subject/technology/informatio">Information Assurance</option>
+				<option value="/taxonomy/term/1754">Information Security</option>
+				<option value="/taxonomy/term/1757">Information Systems</option>
+				<option value="/degrees/degrees-by-subject/technology/informat-0">Information Technology</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/i">Interior Design</option>
+				<option value="/degrees/degrees-by-subject/business/internationa">International Business</option>
+				<option value="/degrees/degrees-by-subject/technology/internet-t">Internet Technologies</option>
+				<option value="/degrees/degrees-by-subject/social-science/journa">Journalism &amp; Communications</option>
+				<option value="/taxonomy/term/1660">Justice Administration</option>
+				<option value="/taxonomy/term/1663">Juvenile Justice</option>
+				<option value="/degrees/degrees-by-subject/education/k-12-educat">K-12 Education</option>
+				<option value="/degrees/degrees-by-subject/business/labor-relati">Labor Relations</option>
+				<option value="/taxonomy/term/236">Language and Culture</option>
+				<option value="/taxonomy/term/1665">Law Degree</option>
+				<option value="/online-degrees-subject/law-criminal-justice-degrees/law-enforcement">Law Enforcement</option>
+				<option value="/degrees/degrees-by-subject/business/leadership">Leadership</option>
+				<option value="/taxonomy/term/1669">Legal Studies</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/l">Liberal Studies</option>
+				<option value="/taxonomy/term/238">Library Science</option>
+				<option value="/degrees/degrees-by-subject/social-science/life-s">Life Sciences</option>
+				<option value="/degrees/degrees-by-subject/social-science/lingui">Linguistics</option>
+				<option value="/taxonomy/term/628">Literature</option>
+				<option value="/degrees/degrees-by-subject/business/management">Management</option>
+				<option value="/degrees/degrees-by-subject/technology/managing-i">Managing Innovation</option>
+				<option value="/degrees/degrees-by-subject/engineering/manufactu">Manufacturing Engineering</option>
+				<option value="/degrees/degrees-by-subject/business/manufacturin">Manufacturing and Industrial</option>
+				<option value="/degrees/degrees-by-subject/business/marketing-an">Marketing and Sales</option>
+				<option value="/degrees/degrees-by-subject/engineering/materials">Materials Engineering</option>
+				<option value="/degrees/degrees-by-subject/science/mathematics-s">Mathematics &amp; Statistics</option>
+				<option value="/degrees/degrees-by-subject/engineering/mechanica">Mechanical Engineering</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/me">Medical Assisting</option>
+				<option value="/taxonomy/term/1597">Medical Billing</option>
+				<option value="/taxonomy/term/1599">Medicine</option>
+				<option value="/taxonomy/term/1601">Mental Health</option>
+				<option value="/degrees/degrees-by-subject/engineering/mining-en">Mining Engineering</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/m">Museum Studies</option>
+				<option value="/taxonomy/term/632">Music</option>
+				<option value="/degrees/degrees-by-subject/technology/network-ma">Network Management</option>
+				<option value="/degrees/degrees-by-subject/technology/network-se">Network Security</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/nu">Nursing</option>
+				<option value="/taxonomy/term/1605">Nutrition &amp; Food Sciences</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/oc">Occupational Health</option>
+				<option value="/taxonomy/term/1615">Occupational Therapy</option>
+				<option value="/degrees/degrees-by-subject/business/office-admin">Office Administration</option>
+				<option value="/taxonomy/term/1672">Paralegal</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/ph">Pharmacy</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/p">Philosophy</option>
+				<option value="/taxonomy/term/633">Photography</option>
+				<option value="/degrees/degrees-by-subject/education/physical-he">Physical &amp; Health Education</option>
+				<option value="/degrees/degrees-by-subject/science/physical-scie">Physical Sciences</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/-0">Physical Therapy</option>
+				<option value="/degrees/degrees-by-subject/science/physics">Physics</option>
+				<option value="/degrees/degrees-by-subject/social-science/politi">Political Science</option>
+				<option value="/degrees/degrees-by-subject/business/project-mana">Project Management</option>
+				<option value="/degrees/degrees-by-subject/social-science/psycho">Psychology</option>
+				<option value="/degrees/degrees-by-subject/business/public-admin">Public Administration</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/pu">Public Health</option>
+				<option value="/degrees/degrees-by-subject/business/public-polic">Public Policy</option>
+				<option value="/degrees/degrees-by-subject/business/public-relat">Public Relations</option>
+				<option value="/taxonomy/term/1675">Public Safety</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/rn">RN to BSN</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/ra">Radiologic Science</option>
+				<option value="/degrees/degrees-by-subject/business/real-estate">Real Estate</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/r">Religious Studies</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/re">Respiratory Therapy</option>
+				<option value="/degrees/degrees-by-subject/engineering/safety-en">Safety Engineering</option>
+				<option value="/degrees/degrees-by-subject/education/secondary-e">Secondary Education</option>
+				<option value="/degrees/degrees-by-subject/law-and-criminal-ju-0">Security &amp; Loss Prevention</option>
+				<option value="/degrees/degrees-by-subject/science/social-work">Social Work</option>
+				<option value="/degrees/degrees-by-subject/social-science/sociol">Sociology</option>
+				<option value="/degrees/degrees-by-subject/technology/software-d">Software Development</option>
+				<option value="/degrees/degrees-by-subject/engineering/software-">Software Engineering</option>
+				<option value="/degrees/degrees-by-subject/education/special-edu">Special Education</option>
+				<option value="/degrees/degrees-by-subject/education/speech">Speech</option>
+				<option value="/degrees/degrees-by-subject/health-and-medical/sp">Sports Sciences</option>
+				<option value="/degrees/degrees-by-subject/engineering/systems-e">Systems Engineering</option>
+				<option value="/degrees/degrees-by-subject/business/taxation">Taxation</option>
+				<option value="/degrees/degrees-by-subject/education/teacher-lic">Teacher Licensure</option>
+				<option value="/degrees/degrees-by-subject/education/teaching-as">Teaching Assistant</option>
+				<option value="/degrees/degrees-by-subject/technology/technical-">Technical Writing</option>
+				<option value="/degrees/degrees-by-subject/engineering/technolog">Technological Engineer</option>
+				<option value="/degrees/degrees-by-subject/technology/technology">Technology Management</option>
+				<option value="/degrees/degrees-by-subject/technology/telecommun">Telecommunications</option>
+				<option value="/degrees/degrees-by-subject/business/tourism-and-">Tourism and Hospitality</option>
+				<option value="/degrees/degrees-by-subject/education/training-an">Training and Development</option>
+				<option value="/degrees/degrees-by-subject/science/veterinary-sc">Veterinary Science</option>
+				<option value="/degrees/degrees-by-subject/technology/web-design">Web Design</option>
+				<option value="/degrees/degrees-by-subject/technology/web-develo">Web Development</option>
+				<option value="/degrees/degrees-by-subject/social-science/womans">Woman's Studies</option>
+				<option value="/degrees/degrees-by-subject/arts-and-humanities/w">Writing</option>
+			</select>
+
+			<select name="school" id="school" style="display: none; margin-left:12px; width:150px" onchange="validate('school')">
+				<option value="select" selected="">(Select School)</option>
+				<option value="/taxonomy/term/1298">3D Training Institute - New York</option>
+				<option value="/taxonomy/term/1137">A.T. Still University of Health Sciences</option>
+				<option value="/taxonomy/term/1136">A.T. Still Unversity</option>
+				<option value="/taxonomy/term/1299">Aakers Business College</option>
+				<option value="/taxonomy/term/1300">Akron Institute</option>
+				<option value="/taxonomy/term/1302">All-State Career</option>
+				<option value="/taxonomy/term/1301">Allied Medical &amp; Technical Institute</option>
+				<option value="/alphabetical-list-of-career-colleges">Alphabetical List of Career Colleges</option>
+				<option value="/taxonomy/term/1303">American Career College</option>
+				<option value="/taxonomy/term/1304">American Institute of Health Technology</option>
+				<option value="/taxonomy/term/1138">American Inter-Continental University Online</option>
+				<option value="/taxonomy/term/1305">American InterContinental University</option>
+				<option value="/taxonomy/term/1139">American Sentinel University</option>
+				<option value="/taxonomy/term/2126">American University</option>
+				<option value="/taxonomy/term/1140">Andrew Jackson University</option>
+				<option value="/taxonomy/term/1141">Anthem College</option>
+				<option value="/taxonomy/term/1306">Antonelli College</option>
+				<option value="/taxonomy/term/1307">Apollo College</option>
+				<option value="/taxonomy/term/1309">Arizona Culinary Institute</option>
+				<option value="/taxonomy/term/2124">Arizona State University</option>
+				<option value="/taxonomy/term/1142">Arizona Universities Network</option>
+				<option value="/taxonomy/term/1143">Ashford University</option>
+				<option value="/taxonomy/term/1310">Ashmead College</option>
+				<option value="/taxonomy/term/1144">Aspen University</option>
+				<option value="/taxonomy/term/1311">Atlantic Culinary Academy</option>
+				<option value="/taxonomy/term/2127">Auburn University</option>
+				<option value="/taxonomy/term/1145">Azusa Pacific University</option>
+				<option value="/taxonomy/term/1146">Baker College Online</option>
+				<option value="/taxonomy/term/2128">Baker University</option>
+				<option value="/taxonomy/term/1147">Bellevue University</option>
+				<option value="/taxonomy/term/1148">Benedictine University</option>
+				<option value="/taxonomy/term/1312">Berdan Institute - Wayne</option>
+				<option value="/taxonomy/term/1313">Berkeley College</option>
+				<option value="/taxonomy/term/1314">Berks Technical Institute</option>
+				<option value="/taxonomy/term/1315">Bethel University</option>
+				<option value="/taxonomy/term/1316">Bohecker College - Ravenna</option>
+				<option value="/taxonomy/term/2129">Boise State University</option>
+				<option value="/taxonomy/term/1317">Border Institute of Technology</option>
+				<option value="/taxonomy/term/2131">Boston College</option>
+				<option value="/taxonomy/term/2130">Boston University</option>
+				<option value="/taxonomy/term/2052">Bowling Green State University</option>
+				<option value="/taxonomy/term/1318">Bradford School</option>
+				<option value="/taxonomy/term/1319">Branford Hall Career Institute</option>
+				<option value="/taxonomy/term/1320">Briarcliffe College - Bethpage</option>
+				<option value="/taxonomy/term/1321">Briarcliffe College - Patchogue</option>
+				<option value="/taxonomy/term/1322">Brookdale Community College</option>
+				<option value="/taxonomy/term/2053">Brooklyn College</option>
+				<option value="/taxonomy/term/1323">Brooks College - Long Beach</option>
+				<option value="/taxonomy/term/1324">Brooks College - Sunnyvale</option>
+				<option value="/taxonomy/term/1325">Brooks Institute of Photography</option>
+				<option value="/taxonomy/term/1326">Brown College</option>
+				<option value="/taxonomy/term/1151">Bryant &amp; Stratton College</option>
+				<option value="/taxonomy/term/1856">Bryman College</option>
+				<option value="/taxonomy/term/1327">Bryman Institute</option>
+				<option value="/taxonomy/term/1332">CDI College</option>
+				<option value="/taxonomy/term/1333">CDM Institute</option>
+				<option value="/taxonomy/term/1158">CEI Online</option>
+				<option value="/taxonomy/term/1343">CSMT</option>
+				<option value="/taxonomy/term/1152">California Coast University</option>
+				<option value="/taxonomy/term/1328">California College San Diego</option>
+				<option value="/taxonomy/term/1857">California Culinary Academy</option>
+				<option value="/taxonomy/term/1153">California Lutheran University</option>
+				<option value="/taxonomy/term/1329">California School of Culinary Arts</option>
+				<option value="/taxonomy/term/1154">California School of Law</option>
+				<option value="/taxonomy/term/1155">California State University - Northridge</option>
+				<option value="/taxonomy/term/1156">Capella University</option>
+				<option value="/taxonomy/term/1330">Capital Culinary Institute of Keiser College</option>
+				<option value="/taxonomy/term/1157">Cardean University</option>
+				<option value="/career-colleges">Career Colleges</option>
+				<option value="/taxonomy/term/1331">Career Education Institute</option>
+				<option value="/taxonomy/term/2330">Career Technical College</option>
+				<option value="/taxonomy/term/1854">Centenary College</option>
+				<option value="/taxonomy/term/1334">Center for Digital Imaging Arts at Boston University</option>
+				<option value="/taxonomy/term/1335">Central Pennsylvania College</option>
+				<option value="/taxonomy/term/2049">Chamberlain College</option>
+				<option value="/schools/online-education/alphabetical-list-schoo">Champlain College</option>
+				<option value="/taxonomy/term/1159">Chatham Online</option>
+				<option value="/taxonomy/term/2327">City College</option>
+				<option value="/taxonomy/term/2326">City College - Casselberry</option>
+				<option value="/taxonomy/term/1160">City University</option>
+				<option value="/taxonomy/term/1336">Clark University Computer Career Institute</option>
+				<option value="/taxonomy/term/1161">Clayton College of Natural Health</option>
+				<option value="/taxonomy/term/2054">Clemson University</option>
+				<option value="/taxonomy/term/1162">Cleveland Institute of Electronics</option>
+				<option value="/taxonomy/term/1163">Coleman College</option>
+				<option value="/taxonomy/term/2056">Colgate University</option>
+				<option value="/taxonomy/term/1337">College America</option>
+				<option value="/taxonomy/term/2000">College Degree Distance Education Online School</option>
+				<option value="/taxonomy/term/2055">College of Charleston</option>
+				<option value="/taxonomy/term/1338">College of Westchester</option>
+				<option value="/taxonomy/term/1339">Collins College</option>
+				<option value="/schools/on-campus-education/alphabetical-list-of">Colorado Technical University</option>
+				<option value="/taxonomy/term/1164">Colorado Technical University Online</option>
+				<option value="/taxonomy/term/1165">Columbia Southern University</option>
+				<option value="/taxonomy/term/2057">Columbia University</option>
+				<option value="/taxonomy/term/1340">Computer Career Institute at Johns Hopkins University</option>
+				<option value="/taxonomy/term/1166">Concord Law School</option>
+				<option value="/taxonomy/term/1167">Concordia University</option>
+				<option value="/taxonomy/term/2058">Concordia University-Nebraska</option>
+				<option value="/taxonomy/term/1341">Connecticut Culinary Institute</option>
+				<option value="/taxonomy/term/1342">Cooking and Hospitality Institute of Chicago</option>
+				<option value="/taxonomy/term/2059">Cornell University</option>
+				<option value="/taxonomy/term/1168">Crown College</option>
+				<option value="/taxonomy/term/1346">DMAC</option>
+				<option value="/taxonomy/term/2060">Dartmouth College</option>
+				<option value="/taxonomy/term/1169">Davenport University</option>
+				<option value="/taxonomy/term/2132">DePaul University</option>
+				<option value="/taxonomy/term/1189">DePaul University School of Computer Science Telecommunications</option>
+				<option value="/taxonomy/term/1345">DeVry University Center</option>
+				<option value="/taxonomy/term/1190">DeVry University Online</option>
+				<option value="/taxonomy/term/1170">Deaconess College of Nursing</option>
+				<option value="/taxonomy/term/1466">Devry University</option>
+				<option value="/taxonomy/term/1347">Dover Business College</option>
+				<option value="/taxonomy/term/2133">Drake University</option>
+				<option value="/taxonomy/term/1348">Duff's Business Institute</option>
+				<option value="/taxonomy/term/2061">Duke University</option>
+				<option value="/taxonomy/term/1349">Duluth Business University - Duluth</option>
+				<option value="/taxonomy/term/1350">ECPI College of Technology</option>
+				<option value="/taxonomy/term/1194">ECPI Online</option>
+				<option value="/taxonomy/term/1191">Eastern Kentucky University</option>
+				<option value="/taxonomy/term/1195">Edinburgh Business School</option>
+				<option value="/taxonomy/term/1196">Ellis College of New York Institute of Technology</option>
+				<option value="/taxonomy/term/2062">Elon University</option>
+				<option value="/taxonomy/term/1351">Everest College</option>
+				<option value="/taxonomy/term/1197">Everest College Online</option>
+				<option value="/taxonomy/term/1198">Everglades University</option>
+				<option value="/taxonomy/term/1352">Expression College of Digital Arts - Emeryville</option>
+				<option value="/taxonomy/term/2122">Fairfield University</option>
+				<option value="/taxonomy/term/1199">Fielding Graduate University</option>
+				<option value="/taxonomy/term/1200">Florida Atlantic University</option>
+				<option value="/taxonomy/term/1353">Florida Career College</option>
+				<option value="/taxonomy/term/1354">Florida Culinary Institute</option>
+				<option value="/taxonomy/term/1201">Florida Hospital College of Health Sciences</option>
+				<option value="/taxonomy/term/1355">Florida Metropolitan University</option>
+				<option value="/taxonomy/term/1205">Florida National College</option>
+				<option value="/taxonomy/term/2134">Florida State University</option>
+				<option value="/taxonomy/term/2063">Fordham University</option>
+				<option value="/taxonomy/term/1206">Fort Hays State University</option>
+				<option value="/taxonomy/term/1357">Fox College</option>
+				<option value="/taxonomy/term/1207">Franklin University</option>
+				<option value="/taxonomy/term/2064">George Washington University</option>
+				<option value="/taxonomy/term/2135">Georgetown University</option>
+				<option value="/taxonomy/term/1358">Georgia Medical Institute</option>
+				<option value="/taxonomy/term/2136">Georgia State University</option>
+				<option value="/taxonomy/term/1359">Gibbs College - Boston</option>
+				<option value="/taxonomy/term/1360">Gibbs College - Montclair</option>
+				<option value="/taxonomy/term/1361">Gibbs College - Norwalk</option>
+				<option value="/taxonomy/term/1362">Gibbs College - Vienna</option>
+				<option value="/taxonomy/term/1363">Golden Gate University</option>
+				<option value="/taxonomy/term/2065">Gonzaga University</option>
+				<option value="/taxonomy/term/1210">Grand Canyon University Online</option>
+				<option value="/taxonomy/term/1211">Grantham University</option>
+				<option value="/taxonomy/term/1364">Hagerstown Business College</option>
+				<option value="/taxonomy/term/1365">Hamilton College</option>
+				<option value="/taxonomy/term/1366">Harrington College of Design</option>
+				<option value="/taxonomy/term/1367">Harris School of Business</option>
+				<option value="/taxonomy/term/2137">Harvard University</option>
+				<option value="/taxonomy/term/1368">Heald College</option>
+				<option value="/taxonomy/term/1369">Herzing College</option>
+				<option value="/taxonomy/term/1212">Herzing College Online</option>
+				<option value="/taxonomy/term/1370">Hesser College</option>
+				<option value="/taxonomy/term/1371">Hickey College</option>
+				<option value="/taxonomy/term/1213">Hondros College</option>
+				<option value="/taxonomy/term/1372">ICHM</option>
+				<option value="/taxonomy/term/1214">ICS Canada</option>
+				<option value="/taxonomy/term/1373">ICT College</option>
+				<option value="/taxonomy/term/1830">ITT Technical Institute</option>
+				<option value="/taxonomy/term/1215">Independence University</option>
+				<option value="/taxonomy/term/1375">Indiana Business College</option>
+				<option value="/taxonomy/term/1216">Indiana State University</option>
+				<option value="/taxonomy/term/2308">Indiana Tech</option>
+				<option value="/taxonomy/term/2138">Indiana University Bloomington</option>
+				<option value="/taxonomy/term/2333">Institute of Business &amp; Technology</option>
+				<option value="/taxonomy/term/1376">International Academy of Design &amp; Technology</option>
+				<option value="/taxonomy/term/1377">International Business College</option>
+				<option value="/taxonomy/term/1217">Iowa Central College Online</option>
+				<option value="/taxonomy/term/2139">Jackson State University</option>
+				<option value="/taxonomy/term/2066">James Madison University</option>
+				<option value="/taxonomy/term/1220">Jamestown Community College</option>
+				<option value="/taxonomy/term/2067">John Carroll University</option>
+				<option value="/taxonomy/term/1221">Jones College</option>
+				<option value="/taxonomy/term/1222">Jones International University</option>
+				<option value="/taxonomy/term/2140">Kalamazoo College</option>
+				<option value="/taxonomy/term/1468">Kaplan University</option>
+				<option value="/taxonomy/term/1378">Katherine Gibbs School - Melville</option>
+				<option value="/taxonomy/term/1379">Katherine Gibbs School - New York</option>
+				<option value="/taxonomy/term/1380">Katherine Gibbs School - Philadelphia</option>
+				<option value="/taxonomy/term/1381">Katherine Gibbs School - Piscataway</option>
+				<option value="/taxonomy/term/1382">Katherine Gibbs School - Providence</option>
+				<option value="/taxonomy/term/1383">Kee Business College</option>
+				<option value="/taxonomy/term/1225">Keller Graduate School</option>
+				<option value="/taxonomy/term/1384">Keller Graduate School of Management of DeVry University</option>
+				<option value="/taxonomy/term/1385">Kendall College</option>
+				<option value="/taxonomy/term/2068">Kent State University</option>
+				<option value="/taxonomy/term/2141">Kentucky State University</option>
+				<option value="/taxonomy/term/1386">King's College</option>
+				<option value="/schools/on-campus-education/alphabetical-list--0">Kitchen Academy</option>
+				<option value="/taxonomy/term/2332">Lamson College</option>
+				<option value="/taxonomy/term/1387">Las Vegas College</option>
+				<option value="/taxonomy/term/1388">Le Cordon Bleu College of Culinary Arts</option>
+				<option value="/taxonomy/term/1227">LeTourneau University</option>
+				<option value="/taxonomy/term/2070">Lehigh University</option>
+				<option value="/taxonomy/term/1389">Lehigh Valley College</option>
+				<option value="/taxonomy/term/1390">Lincoln Technical Institute</option>
+				<option value="/taxonomy/term/1391">Louisville Technical Institute</option>
+				<option value="/taxonomy/term/1228">Loyola University - New Orleans</option>
+				<option value="/taxonomy/term/2142">Loyola University Chicago</option>
+				<option value="/taxonomy/term/1392">Maric College</option>
+				<option value="/taxonomy/term/1229">Marist College</option>
+				<option value="/taxonomy/term/2071">Marshall University</option>
+				<option value="/taxonomy/term/2143">Massachusettes Institute of Technology</option>
+				<option value="/taxonomy/term/2329">McCann School of Business and Technology</option>
+				<option value="/taxonomy/term/1393">McIntosh College</option>
+				<option value="/taxonomy/term/1394">Medix</option>
+				<option value="/taxonomy/term/2298">Metropolitan College of New York</option>
+				<option value="/taxonomy/term/1230">Miami International University of Art &amp; Design</option>
+				<option value="/taxonomy/term/2072">Miami University of Ohio</option>
+				<option value="/taxonomy/term/2144">Michigan State University</option>
+				<option value="/taxonomy/term/1395">Minneapolis Business College</option>
+				<option value="/taxonomy/term/1231">Minnesota School of Business</option>
+				<option value="/taxonomy/term/1396">Minnesota School of Business &amp; Globe College</option>
+				<option value="/taxonomy/term/1397">Missouri College</option>
+				<option value="/taxonomy/term/2145">Missouri State University</option>
+				<option value="/taxonomy/term/2073">Monmouth University</option>
+				<option value="/taxonomy/term/2074">Montana State University Northern</option>
+				<option value="/taxonomy/term/1398">Morrison University</option>
+				<option value="/taxonomy/term/1232">Mountain State University</option>
+				<option value="/taxonomy/term/1399">National American University</option>
+				<option value="/taxonomy/term/2050">National College of Business and Technology</option>
+				<option value="/taxonomy/term/1400">National Holistic Institute</option>
+				<option value="/taxonomy/term/1401">National Institute of Technology</option>
+				<option value="/taxonomy/term/1402">National School of Technology</option>
+				<option value="/taxonomy/term/1403">Nevada School of Massage Therapy</option>
+				<option value="/taxonomy/term/1404">New England Institute of Technology</option>
+				<option value="/taxonomy/term/1405">New England Technical Institute</option>
+				<option value="/taxonomy/term/1406">New School of Architecture and Design</option>
+				<option value="/taxonomy/term/2075">New York University</option>
+				<option value="/taxonomy/term/2076">North Carolina State University</option>
+				<option value="/taxonomy/term/1234">Northcentral University</option>
+				<option value="/taxonomy/term/1235">Northeastern University</option>
+				<option value="/taxonomy/term/1236">Northern Arizona University</option>
+				<option value="/taxonomy/term/1407">Northface University</option>
+				<option value="/taxonomy/term/1408">Northwestern Business College</option>
+				<option value="/taxonomy/term/2146">Northwestern University</option>
+				<option value="/taxonomy/term/1237">Norwich University</option>
+				<option value="/taxonomy/term/1238">Nova Southeastern University</option>
+				<option value="/taxonomy/term/1409">Ohio Institute of Photography and Technology</option>
+				<option value="/taxonomy/term/2077">Ohio State University Columbus</option>
+				<option value="/taxonomy/term/2078">Ohio University</option>
+				<option value="/taxonomy/term/2079">Oklahoma State University Tulsa</option>
+				<option value="/taxonomy/term/1410">Olympia Career Training Institute</option>
+				<option value="/taxonomy/term/1411">Olympia College</option>
+				<option value="/Traditional-Campus-Education">On-Campus Education</option>
+				<option value="/online-education">Online Education</option>
+				<option value="/taxonomy/term/1239">Oregon State University</option>
+				<option value="/taxonomy/term/1412">Orlando Culinary Academy</option>
+				<option value="/taxonomy/term/1413">PC AGE</option>
+				<option value="/taxonomy/term/1240">Pacific Western University</option>
+				<option value="/taxonomy/term/1241">Park University</option>
+				<option value="/taxonomy/term/2080">Parsons School of Design</option>
+				<option value="/taxonomy/term/1242">Penn Foster Career School</option>
+				<option value="/taxonomy/term/1414">Pennsylvania Culinary Institute</option>
+				<option value="/taxonomy/term/1415">Pennsylvania Institute of Technology</option>
+				<option value="/taxonomy/term/2081">Pennsylvania State University</option>
+				<option value="/taxonomy/term/1416">Pioneer Pacific College</option>
+				<option value="/taxonomy/term/1417">Pittsburgh Technical Institute</option>
+				<option value="/taxonomy/term/1418">Platt College</option>
+				<option value="/taxonomy/term/1243">Portland State University</option>
+				<option value="/taxonomy/term/1419">Potamac College</option>
+				<option value="/taxonomy/term/2082">Princeton University</option>
+				<option value="/taxonomy/term/1420">Professional Career Development Institute</option>
+				<option value="/taxonomy/term/2083">Providence College</option>
+				<option value="/taxonomy/term/2147">Purdue University</option>
+				<option value="/taxonomy/term/1421">Rasmussen College</option>
+				<option value="/taxonomy/term/1422">Remington College</option>
+				<option value="/taxonomy/term/2084">Rhode Island College</option>
+				<option value="/taxonomy/term/1247">Robert Kennedy College</option>
+				<option value="/taxonomy/term/1423">Rochester Business Institute</option>
+				<option value="/taxonomy/term/1248">Roosevelt University</option>
+				<option value="/taxonomy/term/2085">Rutgers University New Brunswick</option>
+				<option value="/taxonomy/term/1432">SSMT</option>
+				<option value="/taxonomy/term/2121">Saint Joseph's College of Maine</option>
+				<option value="/taxonomy/term/1250">Saint Leo University</option>
+				<option value="/taxonomy/term/1251">Salem International University</option>
+				<option value="/taxonomy/term/1252">Salve Regina University</option>
+				<option value="/taxonomy/term/1253">San Joaquin Valley College</option>
+				<option value="/taxonomy/term/1424">Sanford-Brown College</option>
+				<option value="/taxonomy/term/1425">Sanford-Brown Institute</option>
+				<option value="/taxonomy/term/2086">Sarah Lawrence College</option>
+				<option value="/taxonomy/term/1426">Schuylkill Institute of Business &amp; Technology</option>
+				<option value="/taxonomy/term/1427">Scottsdale Culinary Institute</option>
+				<option value="/taxonomy/term/1428">Seacoast Career School</option>
+				<option value="/taxonomy/term/2087">Seton Hall University</option>
+				<option value="/taxonomy/term/2088">Sierra Nevada College</option>
+				<option value="/taxonomy/term/1429">Sonoma College</option>
+				<option value="/taxonomy/term/1255">South University</option>
+				<option value="/taxonomy/term/1430">Southwest Florida College</option>
+				<option value="/taxonomy/term/1431">Spencerian College</option>
+				<option value="/taxonomy/term/2148">St. John's University</option>
+				<option value="/taxonomy/term/2166">St. Louis University</option>
+				<option value="/taxonomy/term/1433">Stevens-Henager College</option>
+				<option value="/taxonomy/term/1256">Stonecliffe College Online</option>
+				<option value="/taxonomy/term/1434">Strayer University</option>
+				<option value="/taxonomy/term/1435">Suburban Technical School</option>
+				<option value="/taxonomy/term/1436">Sullivan University</option>
+				<option value="/taxonomy/term/2089">Syracuse University</option>
+				<option value="/taxonomy/term/1439">TESST College of Technology</option>
+				<option value="/taxonomy/term/1437">Technical Career Institute - Miami</option>
+				<option value="/taxonomy/term/1438">Technology Education College</option>
+				<option value="/taxonomy/term/2090">Texas A&amp;M University</option>
+				<option value="/taxonomy/term/1440">Texas Computer Training Institute</option>
+				<option value="/taxonomy/term/1441">Texas Culinary Academy</option>
+				<option value="/taxonomy/term/2091">Texas Tech University</option>
+				<option value="/taxonomy/term/1443">The Chubb Institute</option>
+				<option value="/taxonomy/term/2092">The Citadel</option>
+				<option value="/taxonomy/term/1444">The Cittone Institute</option>
+				<option value="/taxonomy/term/1259">The College Network</option>
+				<option value="/taxonomy/term/1445">The Culinary Academy of Long Island</option>
+				<option value="/taxonomy/term/1446">The Culinary Institute of America - Hyde Park</option>
+				<option value="/taxonomy/term/1260">The George Washington University</option>
+				<option value="/taxonomy/term/1261">The International Import-Export Institute</option>
+				<option value="/taxonomy/term/2093">The Julliard School</option>
+				<option value="/taxonomy/term/1447">The Salter School</option>
+				<option value="/taxonomy/term/1262">The University of Liverpool - Online Higher Education</option>
+				<option value="/taxonomy/term/1263">The University of Notre Dame Mendoza College of Business</option>
+				<option value="/taxonomy/term/1264">The University of Scranton</option>
+				<option value="/taxonomy/term/1448">Thompson Institute</option>
+				<option value="/taxonomy/term/1266">Tiffin University</option>
+				<option value="/taxonomy/term/1267">Touro University International</option>
+				<option value="/taxonomy/term/2331">Tucson College</option>
+				<option value="/taxonomy/term/2167">Tufts University</option>
+				<option value="/taxonomy/term/1268">Tulane University Freeman School of Business</option>
+				<option value="/taxonomy/term/2125">Tuskegee University</option>
+				<option value="/taxonomy/term/1269">UMassOnline</option>
+				<option value="/taxonomy/term/1449">United Education Institute</option>
+				<option value="/taxonomy/term/2149">United States Naval Academy</option>
+				<option value="/taxonomy/term/1270">United States Sports Academy</option>
+				<option value="/taxonomy/term/1450">Universal Technical Institute</option>
+				<option value="/taxonomy/term/1271">Universitas 21 Global</option>
+				<option value="/taxonomy/term/1273">University of Advancing Technology</option>
+				<option value="/taxonomy/term/2170">University of Alaska Southeast</option>
+				<option value="/taxonomy/term/2150">University of Baltimore</option>
+				<option value="/taxonomy/term/2168">University of California, San Diego</option>
+				<option value="/taxonomy/term/2151">University of Chicago</option>
+				<option value="/taxonomy/term/1274">University of Cincinnati</option>
+				<option value="/schools/online-education/alphabetical-list-sch-0">University of Cumberlands</option>
+				<option value="/taxonomy/term/2094">University of Dayton</option>
+				<option value="/taxonomy/term/1275">University of Denver - University College</option>
+				<option value="/taxonomy/term/1276">University of Florida</option>
+				<option value="/taxonomy/term/2152">University of Hartford</option>
+				<option value="/taxonomy/term/2153">University of Hawaii-West Oahu</option>
+				<option value="/taxonomy/term/2154">University of Idaho</option>
+				<option value="/taxonomy/term/2155">University of Illinois at Urbana-Champaign</option>
+				<option value="/taxonomy/term/2156">University of Iowa</option>
+				<option value="/taxonomy/term/2157">University of Kansas</option>
+				<option value="/taxonomy/term/2158">University of Kentucky</option>
+				<option value="/taxonomy/term/2159">University of Louisville</option>
+				<option value="/taxonomy/term/2120">University of Maine</option>
+				<option value="/taxonomy/term/1277">University of Mary</option>
+				<option value="/taxonomy/term/1279">University of Maryland - Baltimore County</option>
+				<option value="/taxonomy/term/1281">University of Maryland - College Park</option>
+				<option value="/taxonomy/term/1280">University of Maryland - University College</option>
+				<option value="/taxonomy/term/1940">University of Maryland University College</option>
+				<option value="/taxonomy/term/2169">University of Maryland, Baltimore</option>
+				<option value="/taxonomy/term/2160">University of Michigan, Ann Arbor</option>
+				<option value="/taxonomy/term/2161">University of Minnesota</option>
+				<option value="/taxonomy/term/2162">University of Mississippi</option>
+				<option value="/taxonomy/term/2095">University of Missouri Columbia</option>
+				<option value="/taxonomy/term/2096">University of Montana Western</option>
+				<option value="/taxonomy/term/2097">University of Nebraska Lincoln</option>
+				<option value="/taxonomy/term/1282">University of Nebraska at Kearney</option>
+				<option value="/taxonomy/term/2098">University of Nevada Las Vegas</option>
+				<option value="/taxonomy/term/2099">University of New Hampshire</option>
+				<option value="/taxonomy/term/2100">University of New Mexico</option>
+				<option value="/taxonomy/term/1283">University of North Alabama</option>
+				<option value="/taxonomy/term/2101">University of North Carolina Chapel Hill</option>
+				<option value="/taxonomy/term/2102">University of North Dakota</option>
+				<option value="/taxonomy/term/2163">University of Notre Dame</option>
+				<option value="/taxonomy/term/2103">University of Oklahoma</option>
+				<option value="/taxonomy/term/2104">University of Oregon</option>
+				<option value="/taxonomy/term/1469">University of Phoenix</option>
+				<option value="/taxonomy/term/1285">University of Phoenix Online</option>
+				<option value="/taxonomy/term/1286">University of Scranton</option>
+				<option value="/taxonomy/term/2105">University of South Dakota</option>
+				<option value="/taxonomy/term/2106">University of Tennessee Memphis</option>
+				<option value="/taxonomy/term/2107">University of Texas Austin</option>
+				<option value="/taxonomy/term/2108">University of Utah</option>
+				<option value="/taxonomy/term/2109">University of Vermont</option>
+				<option value="/taxonomy/term/2110">University of Virginia</option>
+				<option value="/taxonomy/term/2111">University of Wisconsin Madison</option>
+				<option value="/taxonomy/term/1287">Upper Iowa University</option>
+				<option value="/taxonomy/term/1453">Utah Career College</option>
+				<option value="/schools/career-colleges/alphabetical-list-of-car">Utah College of Massage Therapy</option>
+				<option value="/taxonomy/term/1288">Utica College</option>
+				<option value="/taxonomy/term/1289">Vanderbilt University</option>
+				<option value="/taxonomy/term/1472">Vatterott College</option>
+				<option value="/taxonomy/term/1290">Vermont College of Union Institute &amp; University</option>
+				<option value="/taxonomy/term/1454">Vet Tech Institute</option>
+				<option value="/taxonomy/term/2112">Villanova University</option>
+				<option value="/taxonomy/term/1292">Virginia College Online</option>
+				<option value="/taxonomy/term/2113">Wake Forest University</option>
+				<option value="/taxonomy/term/2164">Walden University</option>
+				<option value="/taxonomy/term/2283">Walden University PHD</option>
+				<option value="/taxonomy/term/2048">Warren National University</option>
+				<option value="/taxonomy/term/2115">Washington State University</option>
+				<option value="/taxonomy/term/2116">Washington University in St. Louis</option>
+				<option value="/taxonomy/term/2114">Washington and Lee University</option>
+				<option value="/taxonomy/term/2117">West Virginia University</option>
+				<option value="/taxonomy/term/1455">Western Career College</option>
+				<option value="/taxonomy/term/1456">Western Culinary Institute</option>
+				<option value="/taxonomy/term/1294">Western Governors University</option>
+				<option value="/taxonomy/term/1457">Western International University</option>
+				<option value="/taxonomy/term/1458">Western School of Health and Business</option>
+				<option value="/taxonomy/term/2310">Westmont College</option>
+				<option value="/taxonomy/term/1470">Westwood College</option>
+				<option value="/taxonomy/term/1296">Westwood College Online</option>
+				<option value="/taxonomy/term/2118">Whitman College</option>
+				<option value="/taxonomy/term/1459">Wood Tobé-Coburn School</option>
+				<option value="/taxonomy/term/1297">Worchester Polytechnic Institute Career Schools</option>
+				<option value="/taxonomy/term/1460">WyoTech</option>
+				<option value="/taxonomy/term/2119">Xavier University</option>
+				<option value="/taxonomy/term/2165">Yale University</option>
+				<option value="/schools/career-colleges/alphabetical-list-of-c-0">York Technical Institute</option>
+				<option value="/taxonomy/term/1192">eCornell</option>
 			</select>
 
 		</div>
@@ -304,92 +930,92 @@ Array
 		
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','1')">Arts &amp; Humanities</a></span><br>
 			<div id="bysubject1" class="submenu">
-				<a href="?q=/node/902">Art Management Degrees</a><br>
-				<a href="?q=/node/2">Classical Studies</a><br>
-				<a href="?q=/node/575">Philosophy Degrees</a><br>
-				<a href="?q=/node/576">Religious Studies Degrees</a><br>
-				<a href="?q=/node/913">Writing</a><br>
-				<a href="/taxonomy/term/142" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/arts-humanities-arts-management/art">Art Management Degrees</a><br>
+				<a href="/online-degrees-subject/arts-humanities-liberal-arts-humanities/humanities">Humanities Degrees</a><br>
+				<a href="/online-degrees-subject/library-and-information-science">Library Science Degrees</a><br>
+				<a href="/online-degrees-subject/arts-humanities-arts-management/museum-studies">Museum Studies Degree P...</a><br>
+				<a href="/online-degrees-subject/arts-humanities-creative-visual-arts/writing">Writing Degree Programs</a><br>
+				<a href="/arts-and-humanities" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','2')">Business</a></span><br>
 			<div id="bysubject2" class="submenu">
-				<a href="?q=/node/923">Applied Management</a><br>
-				<a href="?q=/node/938">Construction Management</a><br>
-				<a href="?q=/node/1038">Forensic Accounting</a><br>
-				<a href="?q=/node/924">Human Resource Management</a><br>
-				<a href="?q=/node/930">Project Management</a><br>
-				<a href="/taxonomy/term/161" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/business-degrees-accounting-finance/accounting">Accounting Degree Progr...</a><br>
+				<a href="/online-degrees-subject/business-degrees-accounting-finance/finance">Finance Degree Programs</a><br>
+				<a href="/online-degrees-subject/business-degrees-accounting-finance/financial-management">Financial Management De...</a><br>
+				<a href="/online-degrees-subject/business-degrees-accounting-finance/financial-planning">Financial Planning Degr...</a><br>
+				<a href="/online-degrees-subject/business-degrees-communication-relations-marketing-sales/labor-relations">Labor Relations Degree ...</a><br>
+				<a href="/online-degrees-subject/business" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','3')">Education</a></span><br>
 			<div id="bysubject3" class="submenu">
-				<a href="?q=/node/950"> K-12 education</a><br>
-				<a href="?q=/node/942">Curriculum Design</a><br>
-				<a href="?q=/node/943">Distance Eduation</a><br>
-				<a href="?q=/node/946">Educational Technology</a><br>
-				<a href="?q=/node/334">Utica College</a><br>
-				<a href="/taxonomy/term/162" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/education-degrees-administration-instruction-theory/distance-education">Distance Eduation Degre...</a><br>
+				<a href="/online-courses/early-childhood-development-courses">Early Childhood Develop...</a><br>
+				<a href="/online-degrees-subject/education-degrees-instructional-levels/higher-education">Higher Education Degree...</a><br>
+				<a href="/online-degrees-subject/education-degrees-special-focus/physical-health">Physical &amp; Health Educa...</a><br>
+				<a href="/online-degrees-subject/education-degrees-special-focus/special-education">Special Education Degre...</a><br>
+				<a href="/online-degrees-subject/education" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','4')">Engineering</a></span><br>
 			<div id="bysubject4" class="submenu">
-				<a href="?q=/node/578">Civil Engineering</a><br>
-				<a href="?q=/node/1873">Degrees in Engineering Studies</a><br>
-				<a href="?q=/node/1874">Degrees in Mining Engineering</a><br>
-				<a href="?q=/node/1863">Degrees in Technological Engineering</a><br>
-				<a href="?q=/node/586">Environmental Engineering</a><br>
-				<a href="/taxonomy/term/163" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/technology-degrees-systems-operation-management/computer-engineering">Degrees in Computer Eng...</a><br>
+				<a href="/online-degrees-subject/engineering-degrees-specializations/engineering-management">Degrees in Engineering ...</a><br>
+				<a href="/online-degrees-subject/engineering-degrees-specializations/manufacturing-engineering">Degrees in Manufacturin...</a><br>
+				<a href="/degrees-in-safety-engineering">Degrees in Safety Engin...</a><br>
+				<a href="/online-degrees-subject/engineering-degrees-specializations/software-engineering">Degrees in Software Eng...</a><br>
+				<a href="/online-degrees-subject/engineering" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','5')">Health &amp; Medical</a></span><br>
 			<div id="bysubject5" class="submenu">
-				<a href="?q=/node/1608">EMS and Paramedic</a><br>
-				<a href="?q=/node/1644">Occupational Health and Safety</a><br>
-				<a href="?q=/node/1615">Pharmacy</a><br>
-				<a href="?q=/node/1656">Physician and Medical Assisting</a><br>
-				<a href="?q=/node/1620">Sports Sciences</a><br>
-				<a href="/taxonomy/term/164" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/health-medical-degrees-dental-health/communication-sciences">Communication Sciences ...</a><br>
+				<a href="/online-degrees-subject/health-medical-degrees-dental-health/health-care-administration">Health Care Administrat...</a><br>
+				<a href="/online-courses/occupational-health-and-safety-specialists-and-technicians">Occupational Health and...</a><br>
+				<a href="/online-degrees-subject/health-medical-degrees-dental-health/physical-therapy">Physical Therapy Degree...</a><br>
+				<a href="/online-degrees-subject/health-medical-degrees-dental-health/respiratory-therapy">Respiratory Therapy Deg...</a><br>
+				<a href="/online-degrees-subject/health-and-medical" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','6')">Law &amp; Criminal Justice</a></span><br>
 			<div id="bysubject6" class="submenu">
-				<a href="?q=/node/978">Economic Crime</a><br>
-				<a href="?q=/node/979">Forensics</a><br>
-				<a href="?q=/node/1623">Justice Administration</a><br>
-				<a href="?q=/node/1625">Legal Studies</a><br>
-				<a href="?q=/node/982">Security and Loss Prevention</a><br>
-				<a href="/taxonomy/term/158" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/law-criminal-justice-degrees-security-corrections/court-reporting">Court Reporting Degree ...</a><br>
+				<a href="/online-degrees-subject/law-criminal-justice-degrees-security-corrections/criminal-justice">Criminal Justice Degree...</a><br>
+				<a href="/online-degrees-subject/law-criminal-justice-degrees-security-corrections/justice-administration">Justice Administration ...</a><br>
+				<a href="/online-degrees-subject/law-criminal-justice-degrees-security-corrections/law-degree">Law Degree</a><br>
+				<a href="/online-degrees-subject/law-criminal-justice-degrees-security-corrections/public-safety-management">Public Safety Managemen...</a><br>
+				<a href="/online-degrees-subject/law-and-criminal-justice" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','7')">Science</a></span><br>
 			<div id="bysubject7" class="submenu">
-				<a href="?q=/node/984"> Biology</a><br>
-				<a href="?q=/node/983">Aviation Science</a><br>
-				<a href="?q=/node/1646">Environmental Science</a><br>
-				<a href="?q=/node/987">Fire Science</a><br>
-				<a href="?q=/node/990">Veterinary Science</a><br>
-				<a href="/taxonomy/term/165" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/science-degrees-biology-physics-chemistry/biology"> Biology Degree Programs</a><br>
+				<a href="/online-degrees-subject/science-degrees-biology-physics-chemistry/aviation-science">Aviation Science Degree...</a><br>
+				<a href="/online-degrees-subject/science-degrees-biology-physics-chemistry/biotechnology">Biotechnology Degree Pr...</a><br>
+				<a href="/online-degrees-subject/science-degrees-biology-physics-chemistry/fire-science">Fire Science Degree Pro...</a><br>
+				<a href="/online-degrees-subject/science-degrees-biology-physics-chemistry/social-work">Social Work Degree Prog...</a><br>
+				<a href="/online-degrees-subject/science" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','8')">Social Science</a></span><br>
 			<div id="bysubject8" class="submenu">
-				<a href="?q=/node/991">Behavioral Science</a><br>
-				<a href="?q=/node/997">Economics</a><br>
-				<a href="?q=/node/1000">Linguistics</a><br>
-				<a href="?q=/node/996">Sociology</a><br>
-				<a href="?q=/node/1002">Women's Studies</a><br>
-				<a href="/taxonomy/term/61" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/social-science-degrees-psychology-counseling/behavioral-science">Behavioral Science Degr...</a><br>
+				<a href="/online-degrees-subject/social-science-degrees-social-science/economics">Economics Degree Progra...</a><br>
+				<a href="/online-degrees-subject/social-science-degrees-social-science/journalism-communications">Journalism and Communic...</a><br>
+				<a href="/online-degrees-subject/social-science-degrees-social-science/linguistics">Linguistics Degree Prog...</a><br>
+				<a href="/online-degrees-subject/social-science-degrees-socialogy-social-science/sociology">Sociology Degree Progra...</a><br>
+				<a href="/online-degrees-subject/social-science-degrees/social-science" class="showall">Show All...</a><br>
 			</div>
 			
 			<span class="subject bold"><a href="javascript:menuShow('bysubject','9')">Technology</a></span><br>
 			<div id="bysubject9" class="submenu">
-				<a href="?q=/node/1008"> Information Systems Security</a><br>
-				<a href="?q=/node/1630">Computer Programming</a><br>
-				<a href="?q=/node/1007">Information Systems</a><br>
-				<a href="?q=/node/1018">Internet Technologies</a><br>
-				<a href="?q=/node/1004">Software Development</a><br>
-				<a href="/taxonomy/term/167" class="showall">Show All...</a><br>
+				<a href="/online-degrees-subject/technology-degrees-graphics-multimedia/graphics-multimedia">Graphics and Multimedia...</a><br>
+				<a href="/online-degrees-subject/technology-degrees-systems-operation-management/information-assurance">Information Assurance D...</a><br>
+				<a href="/online-degrees-subject/technology-degrees-systems-operation-management/managing-innovation">Managing Innovation Deg...</a><br>
+				<a href="/online-degrees-subject/technology-degrees-training-support/technical-writing">Technical Writing Degre...</a><br>
+				<a href="/online-degrees-subject/technology-degrees-systems-operation-management/technology-management">Technology Management D...</a><br>
+				<a href="/online-degrees-subject/technology" class="showall">Show All...</a><br>
 			</div>
 			
 		</div>
@@ -434,21 +1060,21 @@ Array
 			<span class="subject">
 
 				<span class="bold"><a href="javascript:menuShow('bysubject','10')">Scholarship Headlines</a></span><br>
-				<div id="bysubject10" class="submenu"><a href="/aggregator/sources/4">DANCE; Applying for Early Admission (Very Early)</a><br>
+				<div id="bysubject10" class="submenu"><a href="/aggregator/sources/4">Lacking Big-City Lust...</a><br>
+					<a href="/aggregator/sources/4">[TS] Teenager's Scien...</a><br>
+					<a href="/aggregator/sources/4">[TS] 20 Students Who ...</a><br>
+					<a href="/aggregator/sources/4">[TS] ON EDUCATION; A ...</a><br>
 					<a href="/aggregator/sources/4">Show Them the Money</a><br>
-					<a href="/aggregator/sources/4">OP-ED CONTRIBUTOR; Too Poor to Graduate</a><br>
-					<a href="/aggregator/sources/4">[TS] DANCE; Applying for Early Admission (Very Early)</a><br>
-					<a href="/aggregator/sources/4">[TS] Too Poor to Graduate</a><br>
 					
 					<a href="/scholarship-headlines" class="showall">Show All...</a><br>
 				</div>
 
 				<span class="bold"><a href="javascript:menuShow('bysubject','11')">Education Headlines</a></span><br>
-				<div id="bysubject11" class="submenu"><a href="/aggregator/sources/5">Let's Really Throw Open Doors to Higher Education</a><br>
-					<a href="/aggregator/sources/5">Expectations + Rigor = Promising Results</a><br>
-					<a href="/aggregator/sources/5">Secretary Announces Plan for Higher Education</a><br>
-					<a href="/aggregator/sources/5">TV Show and Webcast September 19: American Competitiveness, Math and Science Education</a><br>
-					<a href="/aggregator/sources/5">Report on Future of Higher Education</a><br>
+				<div id="bysubject11" class="submenu"><a href="/aggregator/sources/5">Secretary Spellings V...</a><br>
+					<a href="/aggregator/sources/5">New Regulations for A...</a><br>
+					<a href="/aggregator/sources/5">Secretary Spellings V...</a><br>
+					<a href="/aggregator/sources/5">Teacher Incentive Fun...</a><br>
+					<a href="/aggregator/sources/5">Nation's Report Card ...</a><br>
 					
 					<a href="/education-headlines" class="showall">Show All...</a><br>
 				</div>
@@ -458,7 +1084,7 @@ Array
 			</span>
 		</div>
 
-<!--
+
 		<h1 class="degree_by">Newsletter Signup</h1>
 
 		<div style="margin:5px 0px 10px 0px">
@@ -468,28 +1094,47 @@ Array
 			</div>
 
 			<table cellspacing="0" cellpadding="0" border="0" style="margin-left:15px">
-				<tr>
-					<td style="padding: 0px">
-						<form action=""  method="post" id="zip_form">
-							<input type="hidden" name="edit[form_id]" id="zip-form" value="zip_form">
-							<input type="hidden" name="op" value="Search">
-							<input type="text" maxlength="128" style="background-image:url(/themes/careers/images/input_bg.gif); width: 100px; height: 15px; font-size: 9px; color: #020167; margin: 0px; border: 1px solid #000000; padding: 2px 0px 0px 3px;" name="edit[zip_form_keys]" id="edit-zip_form_keys" value="" alt="Enter the zip code you wish to search for.">
+				<tbody><tr>
+					<td style="padding: 1px 0px 0px 0px">
+						<form action="?q=privacy-policy" method="post" id="_simplenews_subscription_manager">
+							<input type="hidden" name="edit[form_id]" id="edit--simplenews-subscription-manager" value="_simplenews_subscription_manager">
+							<input name="edit[sn_1942]" id="edit-sn_1942" value="1" class="form-checkbox" type="checkbox" style="display:none" checked="checked">
+							<input name="sn_update" value="Go" type="hidden">
+							<input type="text" maxlength="128" style="background-image:url(/themes/careers/images/input_bg.gif); width: 100px; height: 15px; font-size: 9px; color: #020167; margin: 0px; border: 1px solid #000000; padding: 2px 0px 0px 3px;" name="edit[sn_email]" id="edit-sn_email" value="">
 						</form></td>
-					<td style="padding: 2px 0px 2px 0px;"><div style="background-image:url(/themes/careers/images/buttons.jpg); padding: 1px 8px 1px 8px; border: 1px solid #000000; border-left: none; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; font-weight: bold; cursor: pointer" onClick="document.getElementById('zip_form').submit()">Go</div></td>
+					<td style="padding: 3px 0px 2px 0px;"><div style="background-image:url(/themes/careers/images/buttons.jpg); padding: 1px 8px 1px 8px; border: 1px solid #000000; border-left: none; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; font-weight: bold; cursor: pointer" onclick="document.getElementById('_simplenews_subscription_manager').submit()">Go</div></td>
 				</tr>
-			</table>
+			</tbody></table>
 
 		</div>
--->
 
-		<h1 class="degree_by">Quick Links A-Z</h1>
+
+		<h1 class="degree_by">College Test Prep</h1>
 
 		<div class="leftmenu">
 			<span class="degrees bold">
-				<a href="/taxonomy/term/99/all">View All Careers</a><br>
-				<a href="/taxonomy/term/959/all">View All Online Schools</a><br>
-				<a href="/taxonomy/term/688">View All Campus Schools</a><br>
-				<a href="/taxonomy/term/78/all?view=all">View All Career Colleges</a><br>
+				<div class="view view-College_Test_Prep_list"><div class="item-list"><ul><li style="float: left; width: 100px"><div class="view-item view-item-College_Test_Prep_list"><div class="view-field view-data-node_title"><a href="/college-test-prep-ACT">ACT</a></div></div>
+</li><li style="float: left"><div class="view-item view-item-College_Test_Prep_list"><div class="view-field view-data-node_title"><a href="/college-test-prep-CLEP">CLEP</a></div></div>
+</li><li style="float: left; width: 100px"><div class="view-item view-item-College_Test_Prep_list"><div class="view-field view-data-node_title"><a href="/college-test-prep-AP">AP</a></div></div>
+</li><li style="float: left"><div class="view-item view-item-College_Test_Prep_list"><div class="view-field view-data-node_title"><a href="/college-test-prep-GED">GED</a></div></div>
+</li></ul><br clear="all"></div><div class="more-link"><a href="/college-test-prep-list">View all college test prep information</a></div></div>
+
+				<style type="text/css">
+					.more-link {text-align: left; margin-top: 3px}
+					.more-link a {font-weight: normal}
+				</style>
+			</span>
+		</div>
+
+
+		<h1 class="degree_by">Educational Links A-Z</h1>
+
+		<div class="leftmenu">
+			<span class="degrees bold">
+				<a href="/alphabetical-list-of-careers">View All Careers</a><br>
+				<a href="/alphabetical-list-schools-that-offer-online-classes">View All Online Schools</a><br>
+				<a href="/alphabetical-list-of-traditional-universities">View All Campus Schools</a><br>
+				<a href="/alphabetical-list-of-career-colleges">View All Career Colleges</a><br>
 			</span>
 		</div>
 <!--
@@ -508,67 +1153,7 @@ Array
 -->
 	</div>
 
-	<div class="breadcrumb"> Privacy Policy</div>
-	<div id="centercolumn" onclick="document.getElementById('myaccountmenu').style.display = 'none'; userticktock = 0;">
-		<p class="degrees" align="right" style="margin: 0px; font-weight: bold">
-			<img src="/themes/careers/images/print.gif" style="position: absolute; right: 82px; top: 2px;">
-			<a href="?print=yes&amp;q=privacy-policy" target="_blank" style="color: #005995">[Print Page]</a>
-		</p>
-
-		<h1 class="header" style="font-size:18px;">Privacy Policy</h1><!-- begin content -->  <div class="node">
-            <span class="submitted">Submitted by Administrator on October 3, 2006 - 10:47am.</span>
-    <span class="taxonomy"><a href="/taxonomy/term/1184" rel="tag" title="">Privacy Policy</a></span>
-    <div class="content"><p align="center"><strong>www.CareersandEducation.com Privacy Policy<br> Effective Date:  09/08/06</strong></p>
-<p>This Privacy Policy describes the types of personal and non-personal information we collect on www.CareersandEducation.com (the “Website”), how we use it and how we may disclose it.  By using the Website, you fully and unconditionally agree to the terms of this Privacy Policy.  If you do not, please do not use the Website.</p>
-<p><strong>Collection of Information</strong></p>
-<ul>
-<li><strong>Personal Information</strong></li>
-</ul>
-<p>We only collect personal information from you when you:  (1) register on the Website; (2) ask to receive information about a topic or article; (3) register for a newsletter; or (4) contact us.</p>
-<ul>
-<li><strong>Non-Personal Information</strong></li>
-</ul>
-<p>As part of the standard operation of the Website, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Website.  In addition, we may collect information about your browsing behavior, such as the date and time you visit the Website, the areas or pages of the Website that you visit, the amount of time you spend viewing the Website, the number of times you return to the Website and other click-stream data.</p>
-<ul>
-<li><strong>Cookies</strong></li>
-</ul>
-
-<p>We may use cookies to collect the non-personal information described above.  We may also use cookies to:  (1) provide you with customized content and advertising; (2) monitor Website usage; and (3) conduct research to improve our content and services.</p>
-<p>You are free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings.  Check the “Help” menu of your browser to learn how to change your cookie preferences.</p>
-<ul>
-<li><strong>Web Beacons</strong></li>
-</ul>
-<p>We may use web beacons on the Website, in our advertisements on other sites and in e-mails.  A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email.  Web beacons allow us to recognize users by accessing our cookies.  They help us measure the effectiveness of our site, our advertising and our email campaigns in various ways, for example, by counting the number of individuals who visit our site from a particular advertisement, as well as by telling us when a web page is viewed and a description of the page where the web beacon is placed.  Web beacons also help us count the number of individuals who open or act upon an email message.  The information we collect may include personal information.  We may also combine the information that we collect through web beacons with other personal information we have collected from you, such as your registration information.  We use this information to respond to your questions (for example, if you do not remember registering on the Website or don’t know how we received your email address).  We also use this information to prevent fraud by members of our affiliate program and others.</p>
-<p>Members of our affiliate program may also use web beacons to help us track the number of individuals the affiliate has directed to the Website.  These web beacons do not collect any personal information.</p>
-<p>We will not share any personal information collected through web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.</p>
-<p>You can make some web beacons unusable by rejecting cookies.</p>
-<p><strong>Use of Information</strong></p>
-<p>We may use the information we collect from you for any of the following purposes:  (1) to contact you with information and promotional materials and offers from us, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (2) to contact you when necessary; (3) to review Website usage and operations; (4) to address problems with the Website, our business or our products and services; and (5) to protect the security or integrity of the Website and our business.</p>
-<p><strong>Disclosure of Information</strong></p>
-<p>We may disclose the information we collect from and about you as follows:  (1) to our employees, independent contractors, subsidiaries, affiliates, service providers and suppliers, if the disclosure will enable any of these entities to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the Website Terms of Use, of our rights or of the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) in connection with the sale of all or part of our assets.  In addition, with your explicit consent, we may share your information with third parties for their use in marketing their own and/or their clients’ products and services to you.</p>
-<p><strong>Your Ability to Opt Out</strong></p>
-<p>If you would prefer that we not use your personal information to send you marketing materials, please send an email telling us that to <a href="mailto:privacy@CareersandEducation.com" target="_blank">privacy@CareersandEducation.com </a>.</p>
-<p> If you would prefer that we not share your personal information with third parties for their own and/or their clients’ marketing purposes, please send an email telling us that to <a href="mailto:privacy@CareersandEducation.com " target="_blank">privacy@CareersandEducation.com </a>.
-</p><p>&nbsp;</p>
-<p><strong>Access to Information You Provide to Us</strong></p>
-<p>You may access any personal information you provide to us, correct or modify any such personal information or direct us to make no further use of or to delete your personal information.  To do so, please send an email with your request to <a href="mailto:privacy@CareersandEducation.com " target="_blank">privacy@CareersandEducation.com </a>.</p>
-<p><strong>Security</strong></p>
-<p>We have taken certain physical, electronic, contractual and procedural steps to safeguard your information.</p>
-<p><strong>Children</strong></p>
-<p>We do not direct the Website to, nor do we knowingly collect any personal information from, children under thirteen.</p>
-<p><strong>Third Party Websites</strong></p>
-<p>The Website may contain links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the activities and practices that take place on these sites.  Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Website.</p>
-<p><strong>Changes</strong></p>
-<p>If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly.  Material changes to the policy will be posted on the Website for 30 days before taking effect.</p>
-<p><strong>Contact Us</strong></p>
-<p>If you have questions or concerns about this Privacy Policy, please contact us at <a href="mailto:info@CareersandEducation.com " target="_blank">info@CareersandEducation.com </a>.</p>
-	    	</div>
-
-  </div>
-<!-- end content -->
-	</div>
-				
-	<br clear="all">
+</div><br clear="all">	<br clear="all">
 
 
 	<div class="google_menu" style="left: 101px" id="google1" onmouseover="ticktock = 0; googleMenu('1',10)" onmouseout="ticktock = 1; googleMenu('1',10)">
@@ -675,35 +1260,44 @@ Array
 	</div>
 
 	<div id="footer">
-
 		<p style="margin: 0px">"It is our goal to provide students, parents, educators and career professionals with the highest quality and up-to-date information about everything Education related. By helping our members with inside information on careers and education, we believe we can help them choose the right Education Program and put them one step closer to a phenomenal Career." - Senior Editor, CareersandEducation.com.</p>
 
 		<p align="center" style="margin: 10px 0px 10px 0px">
 			<img src="/themes/careers/images/footer_logo.jpg"></p>
 		
 		<p align="center" class="footer" style="margin: 15px 0px 15px 0px;">
-			<a href="/">Home</a> | <a href="/about-us">About Us</a> | <a href="/contact-us">Contact Us</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-use">Terms of Use</a> | <a href="/site-map">Site Map</a> | <a href="/affiliates">Affiliates</a> | <a href="/advertisers">Advertise</a> | <a href="/articles">Articles</a> | <a href="/press">Press Room</a></p>
+			<a href="/">Home</a> | <a href="/about-us">About Us</a> | <a href="/contact-us">Contact Us</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-use">Terms of Use</a> | <a href="/site-map">Site Map</a> | <a href="/affiliates">Affiliates</a> | <a href="/node/add/content_link_to_us_submission">Link to Us</a> | <a href="/advertisers">Advertise</a> | <a href="/articles">Articles</a> | <a href="/press">Press Room</a></p>
 		
-		<p style="margin: 15px 0px 15px 0px;">Content within CareersandEducation.com is created by students and graduated students of various Universities as well as career professionals. The views and opinions come from real personal experiences and extensive research about each topic. It is the ambition of CareersandEducation.com to be the best education guide and directory online. By focusing on what the people are searching for, we provide users with the best research tools and learning experience possible. Our writers provide up to date information about Degrees, Online and Campus Education, Career Colleges, Diplomas, Certificates, Scholarships, Job Assistance and much more in real time. If you ever have any questions or feel we need to add additional categories to make our site better and more useful, please feel free to contact <a href="mailto:editor@theeducationinsider.com">editor@careersandeducation.com</a>.</p>
+		<p style="margin: 15px 0px 15px 0px;">Content within CareersandEducation.com is created by students and graduated students of various Universities as well as career professionals. The views and opinions come from real personal experiences and extensive research about each topic. It is the ambition of CareersandEducation.com to be the best education guide and directory online. By focusing on what the people are searching for, we provide users with the best research tools and learning experience possible. Our writers provide up to date information about Degrees, Online and Campus Education, Career Colleges, Diplomas, Certificates, Scholarships, Job Assistance and much more in real time. If you ever have any questions or feel we need to add additional categories to make our site better and more useful, please feel free to contact <a href="mailto:editor@careersandeducation.com">editor@careersandeducation.com</a>.
+<!--HitTail Code--><script src="http://14280.hittail.com/mlt.js" type="text/javascript"></script><!--End HitTail Code--></p>
 
 		<p align="center" style="margin: 15px 0px 15px 0px;">
-			Copyright © 2006 Innovation Ads, Inc. All Rights Reserved.</p>
+			Copyright © 2007 Innovation Ads, Inc. All Rights Reserved.</p>
 
 	</div>
 
-	<div style="position:absolute; top:10px; right:10px">
+
+	<div style="position: absolute; top: 13px; right: 15px; font-size: 11px; color: #FFFFFF; font-weight: bold">
+		Want phone help? Call us at 866-532-0788</div>
+
+
+
+	<div style="position:absolute; top:25px; right:15px">
 		<div class="usermenu" style="right:295px">
 
 			<p id="accountlink" onmouseover="this.style.backgroundImage='url(/themes/careers/images/login_bg_over.jpg)'" onclick="window.location='/user/register'" onmouseout="this.style.backgroundImage='url(/themes/careers/images/login_bg.jpg)'">New&nbsp;Account</p>
 			<div id="myaccountmenu" style="margin-left: 90px" onmouseover="userticktock = 0; userMenu('accountlink0',10);" onmouseout="userticktock = 0; userMenu('accountlink0',10)">User login<br>
 <form action="/privacy-policy?destination=privacy-policy" method="post" id="user-login-form">
-<div><div class="form-item">
- <div class="form-left">Username: <span class="form-required" title="This field is required.">*</span></div>
- <div class="form-right"><input type="text" maxlength="60" name="edit[name]" id="edit-name" size="15" value="" class="form-text required"></div><br clear="all">
+<div><div class="form-item" id="form-edit-name">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="edit[name]" id="edit-name" size="15" value="" class="form-text required">
 </div>
-<div class="form-item">
- <div class="form-left">Password: <span class="form-required" title="This field is required.">*</span></div>
- <div class="form-not"><input type="password" maxlength="" name="edit[pass]" id="edit-pass" size="15" class="form-text required"></div>
+<div class="form-item" id="form-edit-pass">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" maxlength="" name="edit[pass]" id="edit-pass" size="15" class="form-text required">
+</div>
+<div class="form-item" id="form-edit-persistent_login">
+ <label class="option"><input type="checkbox" name="edit[persistent_login]" id="edit-persistent_login" value="1" class="form-checkbox"> Remember me</label>
 </div>
 <input type="submit" name="op" value="Log in" class="form-submit">
 <div class="item-list"><ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="edit[form_id]" id="edit-user-login-block" value="user_login_block">
@@ -718,20 +1312,36 @@ Array
 			<p id="loglink" onmouseover="userticktock = 0; userMenu('loglink',10); this.style.backgroundImage='url(/themes/careers/images/login_bg_over.jpg)'" onmouseout="userticktock = 1; userMenu('loglink',10); this.style.backgroundImage='url(/themes/careers/images/login_bg.jpg)'" onclick="window.location='/user'">Login</p>
 		</div>
 
-		<form action="" method="post" id="search_theme_form">
 		<table cellspacing="0" cellpadding="0" border="0">
 			<tbody><tr>
 				<td style="padding: 1px 0px 0px 0px">
-					<input type="hidden" name="edit[form_id]" id="edit-search-theme-form" value="search_theme_form">
-					<input type="hidden" name="op" value="Search">
-					<input type="text" maxlength="128" style="background-image:url(/themes/careers/images/input_bg.gif); width: 130px; height: 15px; font-size: 9px; color: #020167; margin: 0px; border: 1px solid #000000; padding: 2px 0px 0px 3px;" name="edit[search_theme_form_keys]" id="edit-search_theme_form_keys" value="" alt="Enter the terms you wish to search for."></td>
+					<form action="" method="post" id="search_theme_form">
+						<input type="hidden" name="edit[form_id]" id="edit-search-theme-form" value="search_theme_form">
+						<input type="hidden" name="op" value="Search">
+						<input type="text" maxlength="128" style="background-image:url(/themes/careers/images/input_bg.gif); width: 130px; height: 15px; font-size: 9px; color: #020167; margin: 0px; border: 1px solid #000000; padding: 2px 0px 0px 3px;" name="edit[search_theme_form_keys]" id="edit-search_theme_form_keys" value="" alt="Enter the terms you wish to search for.">
+					</form></td>
 				<td style="padding: 3px 0px 2px 0px;"><div style="background-image:url(/themes/careers/images/buttons.jpg); padding: 1px 8px 1px 8px; border: 1px solid #000000; border-left: none; font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; font-weight: bold; cursor: pointer" onclick="document.getElementById('search_theme_form').submit()">Search</div></td>
 			</tr>
 		</tbody></table>
-		</form>
 
 	</div>
+
+<!-- BEGIN Invitation Positioning  -->
+<script language="javascript">
+var lpPosY = 100;
+var lpPosX = 100;
+</script>
+<!-- END Invitation Positioning  -->
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script><script type="text/javascript">_uacct = "UA-831387-1";urchinTracker();</script>
 </div>
+
+<script language="javascript">
+	preloadImages();
+insert_subID();</script>
 
 
 </body></html>
