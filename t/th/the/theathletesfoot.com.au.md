@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026092729id_/http%3A//www.theathletesfoot.com.au/content.cfm%3Fpid%3D4825) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502033423id_/http%3A//www.theathletesfoot.com.au/content.cfm%3Fpid%3D4825) for the most accurate reproduction.*
 
 # The Athletes Foot
 
-**The Athlete's Foot Privacy Policy**
+**The Athlete‘s Foot Privacy Policy**
 
-Privacy Statement for The Athlete's Foot (TAF) Australia & New Zealand online web site.
+Privacy Statement for The Athlete‘s Foot (TAF) Australia & New Zealand online web site and e-News.
 
 We do not sell your personal information or email address to any third party. TAF makes every endeavour to secure the personal information and confidentiality of our members. High level security measures are employed in order to protect the misuse, loss, and alteration of the personal information.
 
@@ -18,7 +18,7 @@ Should you wish to access, update or correct personal information supplied to us
 Our Web site also uses "cookies" to make your visits more convenient. You are free to browse and use TAF Online with your cookie option turned off. TAF does not control the activation or deactivation of cookies. If you would like to activate or de-activate the use of cookies please contact your internet browser supplier directly.
 
  **Sensitive Information  
-** Sensitive as defined in the Privacy Act 1988 (Cth) includes information about a person's race or ethnic origin; political opinions or membership of a political association; religious beliefs or affiliations; philosophical beliefs; professional or trade association membership or trade union membership; sexual preference or practices; criminal record or health information.
+** Sensitive as defined in the Privacy Act 1988 (Cth) includes information about a person‘s race or ethnic origin; political opinions or membership of a political association; religious beliefs or affiliations; philosophical beliefs; professional or trade association membership or trade union membership; sexual preference or practices; criminal record or health information.
 
  TAF will not collect or disclose sensitive information about a person unless that person has consented, the collection is required by law, or the collection is necessary to prevent or lessen a serious and imminent threat to life or health of that person.
 
