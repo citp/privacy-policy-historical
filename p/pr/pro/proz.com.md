@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212034437id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502133600id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # Translation services, translation jobs, and freelance translators
 
-**ProZ.com Privacy Statement**
+ProZ.com Privacy Statement
 
-  
 This privacy statement discloses the privacy practices for ProZ.com. ProZ.com will not sell, share, or rent information collected to others in ways different from what is disclosed in the following statement. 
 
 **Mandatory information collected by ProZ.com**
@@ -16,7 +15,6 @@ This privacy statement discloses the privacy practices for ProZ.com. ProZ.com wi
 
  **Optional information collected by ProZ.com**
 
-  
 \- Name  
 \- Address  
 \- Phone number  
@@ -25,13 +23,11 @@ This privacy statement discloses the privacy practices for ProZ.com. ProZ.com wi
 
  **Company behind the site**
 
-  
 ProZ.com (a California corporation)  
 9405 Carousel Center Syracuse, NY 13290 USA 
 
 **How the information is used**
 
-  
 ProZ.com offers to members the opportunity to have notice of jobs, translation questions, etc., sent to them by email. The **email address** is required for this purpose. 
 
 Members are also given the option of showing their **names** , **professional qualifications** , etc., on their profile pages, or on bids made for translation jobs, answers proposed to translation qustions, etc. This information is optionally entered, and optionally shown by members. Members are free to withhold, or remove this information, at any time and at their sole discretion.
@@ -48,29 +44,24 @@ Apart from the desired username, which appears on each profile page and elsewher
 
 **Security of the information**
 
-  
 ProZ.com has attempted to create a database that is secure from theft. In order to collect the personal information listed above, it would be necessary for a thief to bypass password protections, etc., that have been put in place to protect user information. 
 
 **Control of the information**
 
-  
 Members have full control over their personal information and the manner in which it is used. Members who wish to change any of the information they have provided, may do so at any time. 
 
 **Log Files**
 
-  
 ProZ.com uses IP addresses to analyze trends, administer the site, track user�s movement, and gather broad demographic information for aggregate use. 
 
 **Links**
 
-  
 This web site contains links to other sites. Please be aware that ProZ.com is not responsible for the privacy practices of such other sites. 
 
 ProZ.com users are encouraged to be aware when they leave the site and to read the privacy statements of each and every web site that collects personally identifiable information. 
 
 **Surveys & Contests**
 
-  
 From time-to-time ProZ.com requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. 
 
 Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). 
@@ -81,14 +72,12 @@ Survey information will be used for purposes of monitoring or improving the use 
 
 **Tell-A-Friend**
 
-  
 If a member elects to use the ProZ.com referral service for informing a friend about the site, they are asked to enter the friend's email address. ProZ.com will automatically send the friend (visible to the inviter prior to sending) a one-time email inviting them to visit the site. 
 
 ProZ.com stores this information for the sole purpose of sending this one-time email. The friend may contact ProZ.com at info@proz.com to request the removal of this information from their database. 
 
 **Security**
 
-  
 This website takes a number of precautions to protect members' information. When members submit sensitive information via the website, their information is protected both online and off-line. 
 
 All of members� information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
@@ -99,12 +88,10 @@ If you have any questions about the security at our website, you can send an ema
 
 **Site and Service Updates**
 
-  
 ProZ.com members are also sent a newsletter and, from time to time, service announcement updates. Members are not able to unsubscribe from the newsletter and service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
 **Notification of Changes**
 
-  
 If the ProZ.com privacy policy is ever to be changed, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. 
 
 If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. 
