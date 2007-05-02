@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the writersdigest.com privacy policy that was archived on 2006-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061112114930id_/http%3A//writersdigest.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the writersdigest.com privacy policy that was archived on 2007-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070502114850id_/http%3A//www.writersdigest.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title> WritersDigest.com </title>
@@ -29,7 +29,7 @@
 					<script language="JavaScript">
 					rnum=Math.round(Math.random() * 100000);
 					document.write('<scr'+'ipt src="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/v=2.0D/sz=468X60A|728X90A/kw=noforum/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-					</script><script src="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/v=2.0D/sz=468X60A|728X90A/kw=noforum/50270/RETURN-CODE/JS/"></script>
+					</script><script src="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/v=2.0D/sz=468X60A|728X90A/kw=noforum/42924/RETURN-CODE/JS/"></script>
 					<noscript><a href="http://ads.addesktop.com/ads/ad12946bc-map.cgi/ns/v=2.0D/sz=468X60A|728X90A/kw=noforum/" target="_top">
 					<img src="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/ns/v=2.0D/sz=468X60A|728X90A/kw=noforum/" border="0" alt="Click Here"></a>
 					</noscript>
@@ -71,16 +71,45 @@
 		<!-- column 1, left nav -->
 		<td width="165" valign="top" bgcolor="#f2f2ff">
 			<img src="/images/dot.gif" width="165" height="1" alt="[spacer]"><br>
-			<table bgcolor="#009900" cellpadding="0" cellspacing="2" width="100%">
+			<script>
+function Set_Cookie( name, value, expires, path, domain, secure ) 
+
+{
+// set time, it's in milliseconds
+var today = new Date();
+today.setTime( today.getTime() );
+
+/*
+if the expires variable is set, make the correct 
+expires time, the current script below will set 
+it for x number of days, to make it for hours, 
+delete * 24, for minutes, delete * 60 * 24
+*/
+
+if ( expires )
+{
+ expires = expires * 1000 * 60 * 60 * 24;
+}
+
+var expires_date = new Date( today.getTime() + (expires) );
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+( ( path ) ? ";path=" + path : "" ) + 
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+</script>
+<script src="http://recp.mkt32.net/ui/library/formValidate.js" language="JavaScript"></script>
+<table bgcolor="#009900" cellpadding="0" cellspacing="2" width="100%">
 <tbody><tr>
 	<td valign="top" align="center">
 <a href="http://www.writersdigest.com/newsletter.asp"><img src="/images/btn_emailnews.gif" border="0"></a><br>
 <table cellpadding="5" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
 		<td bgcolor="#CEEBCE" align="left">
-			<form action="/newsletter.asp?action=homesubmit" method="post" name="newsletter">
+			<form action="http://recp.mkt32.net/servlet/UserSignUp?f=9003&amp;postMethod=HTML&amp;m=0&amp;j=MAS2" method="post" name="form2" onsubmit="if ((this.EMAIL.value.length > 0)) { Set_Cookie('email', document.form2.EMAIL.value, 1, '/', '', ''); return true; } else { alert('Please enter your email address before continuing.'); return false; }">
 				<span class="small">
-					<input type="text" name="email" value="" size="12">&nbsp;<input type="submit" value="go"></span></form>
+					<input type="TEXT" name="EMAIL" size="16" maxlength="40" value=" :: email :: " onfocus="if (this.value == ' :: email :: ') { this.value = ''; }" onblur="if (this.value == '') { this.value = ' :: email :: '; }"><input type="hidden" name="EMAIL_REQUIRED" value="T"><input type="hidden" name="EMAIL_DATATYPE" value="">&nbsp;<input type="submit" value="GO" name="submit" border="0" width="18" height="14"></span></form>
 </td></tr></tbody></table></td></tr></tbody></table>
 		</td>
 		<!-- end column 1 -->
@@ -150,13 +179,13 @@
 	</tr>
 	
 
-	<tr>
-		<td valign="top"><img src="/images/dot.gif" width="4" height="1" border="0"></td>
+	<!-- <tr>
+		<td valign=top><img src="/images/dot.gif" width=4 height=1 border=0></td>
 
-		<td valign="top"><a href="http://www.writersdigest.com/writestuff_2006/" class="redlink">The WriteStuff Writers' Conference</a></td>
+		<td valign=top><a href="http://www.writersdigest.com/writestuff_2006/" class=redlink>The WriteStuff Writers' Conference</a></td>
 
-		<td valign="top"><img src="/images/dot.gif" width="3" height="1" border="0"></td>
-	</tr>
+		<td valign=top><img src="/images/dot.gif" width=3 height=1 border=0></td>
+	</tr> -->
 
 
 	<tr>
@@ -166,21 +195,21 @@
 
 		<td valign="top"><img src="/images/dot.gif" width="3" height="1" border="0"></td>
 	</tr>
-	<tr>
-		<td valign="top"><img src="/images/dot.gif" width="4" height="1" border="0"></td>
+	<!-- <tr>
+		<td valign=top><img src="/images/dot.gif" width=4 height=1 border=0></td>
 
-		<td valign="top"><a href="/wds/" class="redlink">Writer's Digest School</a>
+		<td valign=top><a href="/wds/" class=redlink>Writer's Digest School</a>
 
-		</td><td valign="top"><img src="/images/dot.gif" width="3" height="1" border="0"></td>
+		<td valign=top><img src="/images/dot.gif" width=3 height=1 border=0></td>
+	</tr> -->
+	<!-- <tr>
+		<td valign=top><img src="/images/dot.gif" width=4 height=1 border=0></td>
+
+		<td valign=top><a href="/second_draft/" class=redlink>2nd Draft</a></td>
+
+		<td valign=top><img src="/images/dot.gif" width=3 height=1 border=0></td>
 	</tr>
-	<tr>
-		<td valign="top"><img src="/images/dot.gif" width="4" height="1" border="0"></td>
-
-		<td valign="top"><a href="/second_draft/" class="redlink">2nd Draft</a></td>
-
-		<td valign="top"><img src="/images/dot.gif" width="3" height="1" border="0"></td>
-	</tr>
-
+ -->
 	<!--
 	<tr>
 		<td valign=top><img src="/images/dot.gif" width=4 height=1 border=0></td>
@@ -276,17 +305,18 @@ Because earning your trust and confidence is so vital to us, we will always be u
 					<a href="/subscribe.asp" class="redlink" target="_blank">Subscribe to Writer's Digest</a>&nbsp;•
 					<a href="https://secure.palmcoastd.com/pcd/document?ikey=0768PIBG1" class="redlink" target="_blank">Gift Subscriptions</a>&nbsp;•
 					<a href="/store/books.asp" class="redlink">Bookstore</a>&nbsp;•
-					<br>
-					<a href="http://www.writersdigestbookclub.com/" class="redlink" target="_new">Writer's Digest Book Club</a>&nbsp;•
+					
+					<a href="http://www.writersdigestbookclub.com/" class="redlink" target="_new">Book Club</a>&nbsp;•<br>
 					<a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDc2OFAyNzIzNQ==" class="redlink" target="_blank"><!--Subscription -->Customer Service</a>&nbsp;•
 					<a href="/csfaqs.asp" class="redlink"><!--Customer Service -->FAQs</a>&nbsp;•
 					<!--&nbsp;&#149;  <a href="/affiliate/" class=redlink>Affiliate Program</a>-->
-					<br>
+					
 					<a href="/contactus.asp" class="redlink">Contact Us</a>&nbsp;•
 					<a href="/aboutus.asp" class="redlink">About Us</a>&nbsp;•
+					<a href="/wdguidelines.asp" class="redlink">Writer’s Digest Guidelines</a>&nbsp;•<br>
 					<a href="http://www.fwpublications.com/careers.asp" class="redlink" target="_new">Job Opportunities</a>&nbsp;•
 					<a href="http://advertise.fwpublications.com/mediakit.asp?ac=WRD" class="redlink">Advertise</a>
-     <font color="#cc0000">•</font><br>
+     <font color="#cc0000">•</font>
 					<a href="http://fwpublications.nettraction.com/static/fwpublications.nettraction.com/advertisers.html" target="_blank" class="redlink">Join Our Affiliate Program</a> 
 </font>
 			</div>
@@ -295,7 +325,7 @@ Because earning your trust and confidence is so vital to us, we will always be u
 	<tr>
 		<td width="8"><img src="/images/dot.gif" width="8" height="25"></td>
 
-		<td valign="bottom"><div class="small"><a href="/privacypolicy.asp" class="redlink">Privacy Policy</a>&nbsp;| Copyright © 2006 F&amp;W Publications Inc.  All rights reserved.</div></td>
+		<td valign="bottom"><div class="small"><a href="/privacypolicy.asp" class="redlink">Privacy Policy</a>&nbsp;| Copyright © 2007 F&amp;W Publications Inc.  All rights reserved.<br>Writer's Digest is a registered trademark of <a href="http://www.fwpublications.com" class="redlink">F+W Publications, Inc</a>.</div></td>
 	</tr>
 </tbody></table>
 <br>
@@ -309,7 +339,7 @@ Because earning your trust and confidence is so vital to us, we will always be u
 <script language="JavaScript">
 rnum=Math.round(Math.random() * 100000);
 document.write('<scr'+'ipt src="http://ads.addesktop.com/cgi-bin/ads/12946bd.cgi/v=2.0D/sz=468X60B|728X90B/kw=noforum/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-</script><script src="http://ads.addesktop.com/cgi-bin/ads/12946bd.cgi/v=2.0D/sz=468X60B|728X90B/kw=noforum/70163/RETURN-CODE/JS/"></script>
+</script><script src="http://ads.addesktop.com/cgi-bin/ads/12946bd.cgi/v=2.0D/sz=468X60B|728X90B/kw=noforum/53628/RETURN-CODE/JS/"></script>
 <noscript><a href="http://ads.addesktop.com/ads/12946bd-map.cgi/ns/v=2.0D/sz=468X60B|728X90B/kw=noforum/" target="_top">
 <img src="http://ads.addesktop.com/cgi-bin/ads/12946bd.cgi/ns/v=2.0D/sz=468X60B|728X90B/kw=noforum/" border="0" alt="Click Here"></a>
 </noscript>
