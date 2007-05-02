@@ -1,25 +1,19 @@
-> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206171053id_/http%3A//free-to-try.com/MoreInfo/FTT%2520Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502141015id_/http%3A//www.free-to-try.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy:
+# Free-To-Try.com - Privacy Statement
 
-**Free-To-Try Software’s Privacy Policy:**
+**Information Collection and Use**
 
-Free-To-Try Software will never sell or give our customer or client information to third parties. For customers, this means that the only people who have access to your address information is our 3rd party credit card processor. 
+Free-To-Try.com respects the privacy of visitors to any Website owned and operated by the network. When a visitor requests pages from Free-To-Try.com site, our Web servers automatically recognize the browser's domain name, and IP address. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals.
 
-What information do we collect? How do we use it?
+**Cookies**
 
-When ordering from any of our sites or partner sites we collect the purchaser's name, email address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill orders and provide notification of the order status. 
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. 
 
-How do 3rd party credit card processors protect customer information?
+Currently we do not use cookies on public pages of Free-To-Try.com site. But we use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-Customers who buy through Free-To-Try Software are shopping on a secure server hosted by RegNow and other 3rd party credit card processors that encrypts all of the customer's personal information including name, address and credit card number. Encryption ensures that no one can access or use personal information in an unauthorized manner. 
+**Links to Other Resources**
 
-RegNow.com commerce system was developed in-house with security as its number one priority. This single entry point allows Free-To-Try Software/RegNow to maintain the tightest access control - eliminating (rather than closing) the backdoor. 
+Free-To-Try.com web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. 
 
-Our 3rd party credit card processors and privacy statements : RegNow.com
-
-What about cookies?
-
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Free-To-Try Software/RegNow's cookies are used only to identify the customer, not to identify any specific customer traits. These cookies do not store sensitive data. This enables a more pleasant shopping experience with Free-To-Try Software every time you shop with us. 
-
-Free-To-Try Software welcomes your questions and comments about privacy. Please send an email to: [**free-to-@www.free-to-try.com**](mailto:webmaster@medafan.com)
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20070502141015id_/http%3A//www.free-to-try.com/contact.php).
