@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113170308id_/http%3A//www.watertowndailytimes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503202545id_/http%3A//www.watertowndailytimes.com/privacy.php) for the most accurate reproduction.*
 
 # Watertown Daily Times: Covering Northern New York's Jefferson, Lewis, and St. Lawrence Counties
 
@@ -51,6 +51,6 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 |  | 
 
-Watertown High School group pictures will be taken at school Tuesday and Wednesday.
+Jefferson Community College offices will close at 3:45 p.m. Friday so faculty and staff can attend the annual recognition celebration at 4 p.m. in the courtyard.
 
-[more »](https://web.archive.org/web/20061113170308id_/http%3A//www.watertowndailytimes.com/news_paragraphs.php)
+[more »](https://web.archive.org/web/20070503202545id_/http%3A//www.watertowndailytimes.com/news_paragraphs.php)
