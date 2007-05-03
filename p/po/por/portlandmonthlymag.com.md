@@ -1,22 +1,34 @@
-> *The following text is extracted and transformed from the portlandmonthlymag.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130172903id_/http%3A//www.portlandmonthlymag.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandmonthlymag.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504003548id_/http%3A//www.portlandmonthlymag.com/privacy) for the most accurate reproduction.*
 
-# Portland Monthly Magazine :: Portland, Oregon
+# Portland Monthly Magazine » Privacy Policy
 
-| 
+This is the web site of Portland Monthly Inc.
 
-Privacy Policy for Website Visitors:   
-Occasionally, visitors to our website may be asked to voluntarily supply certain personally identifying information. If you choose to give us your name, e-mail address, postal address, phone number, organization, or any other identifying information, unless such information is provided in the course of subscribing to _Portland Monthly_ magazine, it will be used only to provide you with products or services you have requested or additional information about _Portland Monthly_ or its affiliates. If you provide identifying information to subscribe to our magazine, please read the policy pertaining to "Print Subscribers" below. We will not sell or rent any personally identifying information obtained through this website (other than in connection with magazine subscriptions ordered, as explained below) to any other organization and will never willfully disclose any personally identifying information about our audience to any third party without first receiving the user's permission. We do not collect personally identifying information from our visitors, other than what is supplied to us on a voluntary basis.
+Our postal address is  
+623 SW Oak St., Suit 300  
+Portland, OR 97210  
+We can be reached via e-mail at info@portlandmonthlymag.com  
+or you can reach us by telephone at 503.222.5144
 
-Privacy Policy for Print Subscribers:   
-From time to time we make our subscribers' names and addresses available to reputable companies whose products or services we feel may interest you. Many of our subscribers find this a valuable and time-saving service. If you want us to exclude your name from these mailings, just send a letter to our offices asking us not to release your name to third parties. Include your address label if possible. Please allow 12 weeks for your request to take effect.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
-Copyright Information  
-Copyright © 2005 Portland Monthly Inc  
-All rights reserved.  
-Portland Monthly Inc  
-623 SW Oak St, Suite 300  
-Portland, Oregon 97205
+We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-[> Contact Us](https://web.archive.org/web/20061130172903id_/http%3A//www.portlandmonthlymag.com/contact_us.aspx)
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
 
-| 
+With respect to cookies: We do not set any cookies.
+
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+
+From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.  
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+
+Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
