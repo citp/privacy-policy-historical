@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217162027id_/http%3A//www.kolotv.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503084012id_/http%3A//www.kolotv.com/unclassified/647.html) for the most accurate reproduction.*
 
 # KOLO | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
