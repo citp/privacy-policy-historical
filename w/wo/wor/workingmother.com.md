@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128004122id_/http%3A//www.workingmother.com/%3Fservice%3Dvpage/126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504003203id_/http%3A//www.workingmother.com/%3Fservice%3Dvpage/126) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Working Mother Media, Inc. and its affiliated companies (collectively, "Working Mother Media," "We," "Us") provide a variety of e-commerce and other online services ("Services") through its Web sites located at, including but not limited to http://www.workingmother.com (the "Sites"). Working Mother Media is committed to safeguarding your privacy on the Internet. Please read the following policy to understand how your personal information will be treated. Please note that by using the Services and/or the Sites you signify your agreement to this Privacy Policy. This Privacy Policy may change from time to time. Changes to this Privacy Policy will become effective when those changes are posted to the Sites. Your continued use of the Services and the Sites subsequent to any changes to this Privacy Policy will mean that you accept the changes. Please periodically review this Policy to ensure continuing familiarity with its most current provisions.
 
