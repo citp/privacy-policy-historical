@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedzilla.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206222945id_/http%3A//www.feedzilla.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedzilla.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503120329id_/http%3A//www.feedzilla.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -65,7 +65,7 @@ All Your Information is stored on Coldbrook' secure server at Brinkster, our web
 
 **7.   Changes in Our Privacy Policy **
 
-We may amend our Privacy Policy at any time by posting a notice on the Site ( [www.FeedZilla.com ](http://www.feedzilla.com/)). All amended terms shall automatically be effective 30 days after they are initially posted on the Site. This agreement may not be otherwise amended except in a writing signed by you and Coldbrook Business Corp. 
+We may amend our Privacy Policy at any time by posting a notice on the Site ( [www.FeedZilla.com ](http://www.feedzilla.com/)). All amended terms shall automatically be effective 30 days after they are initially posted on the Site. This agreement may not be otherwise amended except in a writing signed by you and Butterfly Effect SA. 
 
 **8.   How to contact us **
 
