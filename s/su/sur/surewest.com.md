@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118142749id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503183244id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SureWest - Privacy Policy
 
