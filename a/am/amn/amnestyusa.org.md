@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222733id_/http%3A//www.amnestyusa.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504235858id_/http%3A//www.amnestyusa.org/page.do%3Fn%3D90) for the most accurate reproduction.*
 
-# Amnesty International USA: Privacy Policy
+# Privacy Policy
+
+| 
 
 ### Privacy Notice for the Amnesty International USA Web site
 
@@ -32,12 +34,16 @@ The AIUSA Web site will not post personal contact information for volunteers, in
 
 ### Opting Out
 
-Persons who join or donate via the Web site will receive periodic updates from Amnesty International by regular mail. You may request limited mail updates, or opt out of receiving information from other organizations, by sending e-mail to [aimember@aiusa.org](mailto:aimember@aiusa.org) or by writing to: 
+All persons who join or donate to Amnesty International, whether via regular postal mail, over the phone or through the Web site, will receive periodic updates from Amnesty International by these same methods (regular mail, phone or e-mail). You may request limited mail updates or request no phone calls by contacting Member Services. Further, we may occasionally exchange or rent the names and postal addresses of our members with other organizations in exchange for access to their member or supporter lists, so that we can invite others to join Amnesty International. If you prefer to opt out having your name/address exchanged in this manner, please contact Member Services. 
+
+You can reach Member Services by sending an e-mail to [aimember@aiusa.org](mailto:aimember@aiusa.org), by phone at 1-212-633-4254 (M-F, 9a-5pm EST) or by writing to: 
 
 > **Member Services  
 >  Amnesty International USA  
->  5 Penn Plaza 14th Floor  
+>  5 Penn Plaza 16th Floor  
 >  New York, NY 10001**
+
+IMPORTANT: Please provide your full name and address, and your member ID# if possible, and the best way to reach you, when contacting Member Services, so that we can fulfill your requests promptly. 
 
 ### Outside Links
 
@@ -46,3 +52,7 @@ This site contains hypertext links to other sites. Amnesty International USA is 
 ### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, your confidential use of this site cannot be guaranteed by Amnesty International USA. Amnesty International USA shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of this site or any information you transmitted to this site. 
+
+  
+|  |  |  |    
+| 
