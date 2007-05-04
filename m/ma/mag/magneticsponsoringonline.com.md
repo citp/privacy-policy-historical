@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magneticsponsoringonline.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124131023id_/http%3A//magneticsponsoringonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticsponsoringonline.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504034347id_/http%3A//magneticsponsoringonline.com/privacy.php) for the most accurate reproduction.*
 
 # - Login
 
