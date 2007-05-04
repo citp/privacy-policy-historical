@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210503id_/http%3A//www.elitetrader.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505000724id_/http%3A//elitetrader.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
