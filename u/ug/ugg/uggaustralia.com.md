@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uggaustralia.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215220808id_/http%3A//www.uggaustralia.com/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uggaustralia.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504103708id_/http%3A//www.uggaustralia.com/About/privacy.aspx) for the most accurate reproduction.*
 
 # UGG Boots, Women's Boots, Sheepskin Boots, Men's Boots
 
