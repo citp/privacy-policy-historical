@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615100002id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504054321id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.*
 
-# WWLTV.com | News for New Orleans, Louisiana | Privacy Policy
-
-| 
+# Terms of Service | About Us | News for New Orleans, Louisiana | wwltv.com
 
 ## Privacy Policy
 
@@ -102,7 +100,8 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) <http://www.wwltv.com/sharedcontent/registration/membercenter.jsp> in your browser.
+  1. Enter (or click) [http://www.wwltv.com/sharedcontent/registration/  
+membercenter.jsp](http://www.wwltv.com/sharedcontent/registration/membercenter.jsp) in your browser.
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -124,13 +123,3 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 **Effective Date and Changes**
 
 This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
-
-| 
-
-Advertising 
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1446903894/Position1/default/empty.gif/7a2f4868374634304b326741434a3474?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/621897034/Position4/default/empty.gif/7a2f4868374634304b326741434a3474?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1799671223/Position5/default/empty.gif/7a2f4868374634304b326741434a3474?x)
