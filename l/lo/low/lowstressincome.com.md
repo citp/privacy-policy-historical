@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lowstressincome.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192749id_/http%3A//www.lowstressincome.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowstressincome.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504060435id_/http%3A//www.lowstressincome.com/privacy.php) for the most accurate reproduction.*
 
-# www.LowStressIncome.com — Low-Stress Income
+# Low-Stress Income
 
-**PRIVACY POLICY**
+|  | 
+
+PRIVACY POLICY
 
 Welcome to www.LowStressIncome.com (the "Site").
 
@@ -55,3 +57,6 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+
+|   
+---|---|---
