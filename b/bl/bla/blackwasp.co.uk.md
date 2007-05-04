@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212132655id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504182534id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy :: BlackWasp
+# Privacy Policy :: BlackWasp Software Development
 
 ##  Personal Information Collection
 
