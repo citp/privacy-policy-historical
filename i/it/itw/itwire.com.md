@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213173350id_/http%3A//www.itwire.com.au/content/view/1945/893) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504052531id_/http%3A//www.itwire.com.au/content/view/1945/893) for the most accurate reproduction.*
 
 # iTWire - PRIVACY
 
@@ -92,3 +92,5 @@ We have the right, but not the obligation, to take any of the following actions 
 You agree that we will not be liable to you or any third party for taking any of these actions.
 
 You understand and agree that our Services may include communications such as service announcements and administrative messages from us or from our partners and that these communications are considered part of the Services. You will not be able to opt out of receiving these messages. You also understand that our Services may include advertisements.
+
+ _ _Tags:__
