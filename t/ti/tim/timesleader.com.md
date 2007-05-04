@@ -1,96 +1,81 @@
-> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207034700id_/http%3A//www.timesleader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504080734id_/http%3A//www.timesleader.com/privacypolicy) for the most accurate reproduction.*
 
-# TIMES LEADER Online Privacy Policy
+# Times Leader | Times Leader | Privacy Policy
 
-[](http://www.timesleader.com/)
+Monday, February 24, 2020  8:49 A.M. 
 
-### TIMES LEADER Online Privacy Statement
+Effective March 28, 2007
 
-**TIMES LEADER Online** is a member of the Knight Ridder Real Cities Network (RCN), a national network of Web sites in the United States. **TIMES LEADER Online** , along with the Real Cities Network, is strongly commited to protecting your privacy. The following FAQ for the entire RealCities Network should answer most of your important questions. However, if you still have concerns, please send email to [privacyissues@realcities.com](mailto:privacyissues@realcities.com?subject=Privacy_on_TIMES%20LEADER%20Online). 
+This Wilkes-Barre Publishing Company, Inc. site, TimesLeader.com , is covered by the policies herein. 
 
-In order to provide convenient and personalized service to our Web site visitors, the Real Cities Network (RCN) has developed a variety of systems to collect and store customer information. You can take advantage of these systems by signing up for a Passport at a local RCN site currently offering Passport. As a Passport holder, you will enjoy a growing range of interactive features across the Network, including personalized home pages, Email News Digests, chat rooms, improved message boards, RCN promotions and sweepstakes, Premium Content, and more. 
+Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. If you have questions or concerns regarding this statement, you should first contact Wilkes-Barre Publishing Company, Inc. at: [TimesLeader.com Feedback](mailto:feedback@timesleader.com "click here to contact TimesLeader.com Feedback"). 
 
-In addition to greatly improving your online experience, knowing a bit more about you also allows us to display advertising to you in a more intelligent fashion. Targeted advertisements are probably more interesting for you, and they are definitely more productive for our advertisers. 
+The privacy policy covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-For all these reasons, Passports are an exciting development for Real Cities. Still, we understand how important your privacy is to you, and we hope that the following answers will reassure you that the information you have given us will not be missused. 
+**When does Wilkes-Barre Publishing Company, Inc. collect my personally identifiable information?**
 
-**Frequently Asked Questions about PRIVACY and related issues:**
+When you register for one of Wilkes-Barre Publishing Company, Inc.'s sites, or for services on any of our sites, we collect personally identifying information from you. During registration you are asked to provide your email address and some demographic information including such items as your gender, year of birth, and address. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences. In addition to registration, we may collect personally identifiable information from you when you enter contests and sweepstakes (which may be done in conjunction with site registration), participate in promotions and special programs, register for premium or customized services, make a purchase at one of our merchants or partners, subscribe to one of our print publications, or download a software product or plug-in. 
 
-  * Does the Real Cities Network ask for personal information?
-  * How Does the Real Cities Network use my personal information?
-  * How does the Real Cities Network target advertising? 
-  * Will the Real Cities Network disclose any of my personal information?
-  * Will the Real Cities Network use my information for direct mailings? 
-  * Does the Real Cities Network use cookies and "IP Addresses"? 
-  * What else should I know about my privacy? 
-  * Want more information? Click here for helpful links ... 
+If you are making a purchase or enrolling in a premium service for which there is a fee, we, or a 3rd party working in partnership with us, will collect your credit card, billing address, and other verifying information. In addition, we may collect personally identifiable information from you when you provide content to us for display or use on one or more Wilkes-Barre Publishing Company, Inc. sites, including but not limited to, when you participate in user surveys, post messages to bulletin boards or chat areas, submit personals or other classified listings, build a home page, report a problem with one of our sites or services, or submit a letter to the editor.
 
+If you use our referral service ("Email and Article to a Friend") to tell a friend about our site, we will ask for your email address and theirs. We automatically send a one-time email to the address you provided. Neither your email address nor the email address you provide is stored or used for any other purpose.
 
+**How is my personally identifiable information used?**
 
-* * *
+Our main goal is to provide you with a customized and more relevant experience on Wilkes-Barre Publishing Company, Inc. sites. We review our users' preferences, demographics, traffic patterns, and other information in aggregate so that we can better understand who our audience is, and what it is you want. Tracking user preferences also helps us serve you more relevant advertising. Please note that we do not share your personally identifying information with the advertiser. 
 
-**Does the RCN ask for personal information?**
+We use a third party to serve ads when you visit our site. This third party ad server may use certain information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you, but they are not allowed to collect or use personally identifiable information about you for their own purposes. 
 
-> Yes. A Real Cities Passport consists of four basic elements: a username and a password, an email address, and a postal code. From time to time, you may wish to add information to your Passport in order to let other Passport holders get to know you better, to take advantage of more services or to participate in a special promotion or sweepstakes. 
+All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Wilkes-Barre Publishing Company, Inc. assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. If you have any questions about security on our Web site, you can contact us at: [TimesLeader.com Feedback](mailto:feedback@timesleader.com "click here to contact TimesLeader.com Feedback")
 
-* * *
+The email address provided by you at registration, or as updated, may be used by Wilkes-Barre Publishing Company, Inc. and its affiliated entities, including Wilkes-Barre Publishing Company, Inc., to contact you for any reason, including: (1) Your account status (including an email confirmation of registration), (2) Major changes to the Web site, the Terms of Use and Privacy Policy, (3) Participation in user surveys, asking for feedback on the Web site and (4) notifying you of existing or prospective products and services offered by us or our advertisers and partners. This information helps us to improve our Web site. The information provided by you at registration may be used by Wilkes-Barre Publishing Company, Inc. and its affiliated entities, to contact you with special offers and promotions. 
 
-**How does the RCN use this information?**
+To update your personal information such as name, or mailing address, you can sign into your account and visit the Update Account page. To update your newsletter subscriptions you either a) visit your newsletter subscription page in your account, or b) unsubscribe by following the instructions within the email newsletter. 
 
-> The Real Cities Network (RCN) uses Passport information for two basic purposes: To improve your online experience by enabling personalization and interactivity and to help target advertisements. 
+If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be , however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.
 
-* * *
+**What other information does Wilkes-Barre Publishing Company, Inc. collect and how is it used?**
 
-**How does the RCN target advertising?**
+**Cookies.** Wilkes-Barre Publishing Company, Inc. uses cookies to store and track your preferences to provide you with a more personalized user experience. A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services, and you may be required to repeatedly log in to participate in various services, promotions, or product offerings. Cookies make your experience easier by saving your preferences and passwords. 
 
-> When a Passport holder makes use of one of our services, such as a digest of sports stories delivered via email, we "remember" that the user is interested in sports. Then, when an advertiser wants to reach an audience of sports fans, we simply serve the advertisements to those users who we have been flagged as sports fans. Alternatively, if a local grocery market wants to get news of a sale to its community, we can display that advertisement to Passport holders with relevant Zip Codes. It is important to note that in such cases we do not share the details of your Passport information with the advertiser. We act as the middleman between you and the companies that want to reach you. 
+We also use cookies that contain no personal information at all. These cookies, help us estimate our audience size, determine which areas of Wilkes-Barre Publishing Company, Inc. sites are the most popular, and serve targeted advertising. Third party advertisers and our ad server may set and access their cookies on your computer in accordance with their own privacy policies. 
 
-* * *
+Some parts of TimesLeader.com site use cookies to collect information about visitors' use of the Web site and to facilitate return visits. Information collected about user activity may be done in partnership using a 3rd party tracking tool. The information collected from cookies is tracked to enhance security and to improve the functionality of the Web site by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content. Cookies on the site may collect the following information: a unique identifier, user preferences and profile information used to personalize the content that is shown, and membership information to access sitename,com's services. Some cookies used by sitename.com may remain on the user's computer after they leave the Web site. 
 
-**Will the RCN disclose any of my personal information?**
+Most browsers can be configured to reject cookies or alert you when cookies are being sent. Keep in mind that if you refuse cookies, it is possible that some portions of Wilkes-Barre Publishing Company, Inc. sites may not function exactly as intended. 
 
-> RCN will disclose personal information in some limited circumstances. In all such cases, the purpose will be explained to you beforehand, and you will be informed when we collect the information, such as in the rules of sweepstakes or other promotions, or when we believe in good faith that the law requires it. When the RCN decides to integrate 3rd party services which depend upon customer information, the RCN may share its own customer information with the third party. In such cases, the 3rd party will be bound by the RCN privacy policy. Also, RCN does disclose aggregated user statistics (for example, 55% of our users come from the Southwest) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+**IP Address.** Wilkes-Barre Publishing Company, Inc. may also collect IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g. how many visitors logged in to a Wilkes-Barre Publishing Company, Inc. site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular Wilkes-Barre Publishing Company, Inc. web page, our servers log your IP address. Your IP address is not linked to anything personally identifiable. 
 
-* * *
+**Who does Wilkes-Barre Publishing Company, Inc. share information with?**
 
-**Will RCN use my information for direct mailings?**
+User information is shared within Wilkes-Barre Publishing Company, Inc. in order to provide you with a more integrated and customized user experience. We will not disclose your personally identifiable information to third parties except (1) to the extent necessary to provide you with a requested product or service, or (2) in order to provide targeted promotional offers during the registration process. If you do not accept any of the offers, your information will not be retained by our registration offers partner. 
 
-> Only if you have given us your permission. We will send you information about our productsand services, or other products and services we feel may be of interest to you. Only RCN (or agents working on behalf of RCN and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily update your RCN Passport such that you no longer receive such offers and mailings. 
+To the extent you are notified of uses of your personal information which are different from those described in this Policy Statement during your enrollment in any particular service, sweepstakes, contest or promotion, the uses of which you are specifically notified will govern that service, sweepstakes, contest or promotion. We may co-sponsor some contests on our site with other companies. If you enter one of these contests, our co-sponsor may receive the information collected. In such cases, we will tell you who the co-sponsor is and notify you the use of this information is governed by the co-sponsor's privacy policy.
 
-* * *
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
 
-**Does the RCN use cookies and "IP Addresses"?**
+**What else should I know about my privacy?**
 
-> Yes. If you choose "automatic login" when you sign up for a Passport, the RCN stores a scrambled version of your Passport username in a permanent cookie so that we can remember who you are from one visit to the next. If you do not choose "automatic login", we will use a temporary cookie after you log in (which expires after each visit) to keep track of you as youmove from page to page during a given visit to our site. Without these cookies, it is impossible for us to provide any level of personalized service or to target advertising. In addition, some of our sites and advertising systems may set additional cookies which contain no personal information whatsoever. 
-> 
-> Other than the Passport Username, which is scrambled (and without a password), we do not store any sensitive information in these cookies, nor can we use the cookie to track your use of anything other than our web site. Think of these cookies as "claim checks". Like a coat room clerk, we use the cookie to help us keep track of your information on our systems. To anyone other than us, the information stored in your cookies is meaningless. 
-> 
-> You might wonder if another Web site or online user would be able to steal your Passport username from your cookie? The answer is no. Only your RCN site can read the information about your Passport Username. Due to the design of Web servers and browsers, no other Website has access to your RCN cookie and vice versa. However, if you have chosen Automatic Login, anyone who sits down at your computer can log on to our site using your Passport information. Because there is no financial information currently associated with your Passport, this is likely to be more of an inconvencience than it is a threat to your privacy. Still, users who share a machine may elect not to choose Automatic Login. 
-> 
-> The RCN may also collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers. 
+You should be aware that if you voluntarily disclose personal information online in a public area, that information may be collected and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a chat room, forum, on your home page, or any other publicly accessible place on Wilkes-Barre Publishing Company, Inc. sites, you do so at your own risk and you understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes. 
 
-* * *
+Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online. 
 
-**What else should I know about protecting my privacy?**
+This Web site contains links to other sites that are not owned or controlled by Wilkes-Barre Publishing Company, Inc.. Please be aware that we, Wilkes-Barre Publishing Company, Inc., are not responsible for the privacy practices of such other sites. 
 
-> Please remember that the protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of your Passport password, and you should always be careful and responsible whenever disclosing information online. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-* * *
+This privacy statement applies only to information collected by this Web site. 
 
-**Want more information?**
+**PRIVACY PROTECTION FOR CHILDREN.** In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Wilkes-Barre Publishing Company, Inc. sites to persons under the age of thirteen (13). If Wilkes-Barre Publishing Company, Inc. later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Wilkes-Barre Publishing Company, Inc. sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
 
-> Click here for helpful links.... 
-> 
-> [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rightsonline. 
-> 
-> [Electronic Privacy Information Center](http://www.epic.org/) \- established to focus public attention on emerging civilliberties issues relating to the National Information Infrastructure. 
-> 
-> [Privacy Issues Page](http://www.cdt.org/) \- from the Center for Democracy and Technology (CDT). 
-> 
-> [Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies 
-> 
-> [The EPIC Cookies Page](http://www.epic.org/privacy/cookies/default.html) \- links, news, and explanations 
+**Acceptance of Privacy Policy.** By using Wilkes-Barre Publishing Company, Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Wilkes-Barre Publishing Company, Inc. sites. We reserve the right, to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Wilkes-Barre Publishing Company, Inc. sites following notification or posting of such changes, will constitute your accept of those changes. If you have questions or concerns about our specific policies, please contact us through our feedback form at: [TimesLeader.com Feedback](mailto:feedback@timesleader.com "click here to contact TimesLeader.com Feedback").
 
-[](http://www.timesleader.com/)
+**Want more information? Check out these helpful links...**
 
-[](https://web.archive.org/event.ng/Type=click&ProfileID=134&RunID=24367&AdID=13490&GroupID=1&FamilyID=1080&TagValues=196.298.314.414.682&Redirect=http:%2F%2Fwww.crossroadsrx.com)
+[Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online. 
+
+[Electronic Privacy Information Center](http://www.epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. 
+
+[Privacy Issues Page](http://www.cdt.org/) \- from the Center for Democracy and Technology (CDT). 
+
+[Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies. 
