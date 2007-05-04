@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222125010id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504141429id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
 
 # BodyJewelleryShop.com Privacy Statement
 
@@ -39,17 +39,15 @@ Our servers are held in a secure data centre located in the UK, and are protecte
 External websites   
 This privacy policy covers the usage of BodyJewelleryShop.com only. Where we have linked to external sites, a different privacy policiy may apply.
 
-|  [](https://web.archive.org/body_jewellery_shop/)  
-  
-[](https://web.archive.org/body_jewellery_shop/body_piercing_jewellery/)  
-  
-[](https://web.archive.org/body_jewellery_shop/body_piercings/)  
-  
-[](https://web.archive.org/online_store/gift_section_534.cfm)  
-  
-[](https://web.archive.org/online_store/silver_jewellery_703.cfm)  
-  
-[](https://web.archive.org/online_store/adult_section_877.cfm)
+|    
+[](https://web.archive.org/body_jewellery_shop/ "Jewellery Materials")  
+[](https://web.archive.org/body_jewellery_shop/body_piercing_jewellery/ "Jewellery Materials")  
+[](https://web.archive.org/body_jewellery_shop/body_piercings/ "Jewellery Materials")  
+[](https://web.archive.org/online_store/fashion_jewellery_1069.cfm "Fashion Jewellery")  
+[](https://web.archive.org/online_store/fashion_accessories_894.cfm "Jewellery Materials")  
+[](https://web.archive.org/online_store/gift_section_534.cfm "Jewellery Materials")  
+[](https://web.archive.org/online_store/adult_section_877.cfm "Jewellery Materials")  
+
 
 Shopping Cart
 
@@ -68,6 +66,6 @@ About Body Jewellery Shop
 
 Jewellery Essentials
 
-[](http://www.bodyjewelleryshop.com/online_store/piercing_tools_426.cfm)  
-[](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercing_jewellery/flesh_tunnels_flesh_plugs.cfm)  
-[](https://web.archive.org/about_BJS/shipping_information/packaging.cfm) [](https://web.archive.org/forum/showthread.php?t=9274) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65)
+[](http://www.bodyjewelleryshop.com/about_BJS/shipping_information/) [](https://web.archive.org/about_BJS/catalogue/) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65) [](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercing_jewellery/bananabells_navel_bananabells.cfm)  
+[](http://www.bodyjewelleryshop.com/online_store/nitrite_o_rings_for_flesh_plugs_430.cfm)  
+[](https://web.archive.org/about_BJS/shipping_information/index.cfm)
