@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016045355id_/http%3A//1800gotjunk.com/content/page.asp%3Fz%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504092125id_/http%3A//1800gotjunk.com/content/page.asp%3Fz%3D171) for the most accurate reproduction.*
 
 # Junk & Debris Removal & Rubbish Removal Services: 1-800-GOT-JUNK?
 
@@ -72,8 +72,8 @@ HOW TO CONTACT US
 
 If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact us at [customerservice@1800gotjunk.com](mailto:customerservice@1800gotjunk.com)
 
-|  |  [](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfCityWeService.aspx?r=na_en&pw=cityWeServ&)  
+|  |  [](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfCityWeService.aspx?r=na_en&pw=cityWeServ&action=viewArticle&a=167&z=171&n=Privacy-Policy)  
 [](http://www.1800gotjunk.com/content/tf/blue.asp?action=viewArticle&a=545&z=544&n=Press-Room)  
-[](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfBook10.aspx?na_en&e3trty6yh7=879665)  
+[](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfBook10.aspx?na_en)  
 [](https://web.archive.org/genie)  
 [](https://web.archive.org/forms/refer_a_friend.asp) | 
