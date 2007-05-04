@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworldgame.com.au privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212194403id_/http%3A//www.sbs.com.au/sbscorporate/index.html%3Fid%3D402) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworldgame.com.au privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504235741id_/http%3A//www.sbs.com.au/sbscorporate/index.html%3Fid%3D402) for the most accurate reproduction.*
 
 # SBS Corporation
 
@@ -27,6 +27,6 @@ logs.
 
   
 
-* If you require further information about privacy in Australia please visit the Australian Federal Privacy Commissioner’s website at [www.privacy.gov.au](https://web.archive.org/web/20061212194403id_/http://www20.sbs.com.au/sbscorporate/%22http://www.privacy.gov.au/%22).
+* If you require further information about privacy in Australia please visit the Australian Federal Privacy Commissioner’s website at [www.privacy.gov.au](https://web.archive.org/web/20070504235741id_/http://www20.sbs.com.au/sbscorporate/%22http://www.privacy.gov.au/%22).
   
 
