@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodigy.net privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212203240id_/http%3A//myhome.prodigy.net/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodigy.net privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504064454id_/http%3A//myhome.prodigy.net/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -112,6 +112,6 @@ Because some of the content on the Internet consists of material that is adult-o
 There may be extraneous hits as well. Prodigy recommends that to avoid any such surprises, you take advantage of the access controls that Prodigy offers, as we discuss above, and be diligent in your supervision of any children you allow to use Prodigy Internet. 
 
 **Contact Information**  
-For answers to specific concerns regarding privacy that are not addressed here, see our [Contact Us](https://web.archive.org/web/20061212203240id_/http%3A//myhome.prodigy.net/about/company_contact.html) and [Report Violations](https://web.archive.org/web/20061212203240id_/http%3A//myhome.prodigy.net/help/legal/violations.html) sites. These sites provide information on whom and how to contact us at Prodigy. 
+For answers to specific concerns regarding privacy that are not addressed here, see our [Contact Us](https://web.archive.org/web/20070504064454id_/http%3A//myhome.prodigy.net/about/company_contact.html) and [Report Violations](https://web.archive.org/web/20070504064454id_/http%3A//myhome.prodigy.net/help/legal/violations.html) sites. These sites provide information on whom and how to contact us at Prodigy. 
 
 +  **[Send this page to my inbox for easy reference later](mailto:?body=http://help.prodigy.net/help/legal/privacy.html)**
