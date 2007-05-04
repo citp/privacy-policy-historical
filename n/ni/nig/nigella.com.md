@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigella.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217030124id_/http%3A//www.nigella.com/detail.asp%3Farticle%3D202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigella.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504223527id_/http%3A//www.nigella.com/detail.asp%3Farticle%3D202) for the most accurate reproduction.*
 
 # Nigella Template
 
@@ -34,8 +34,11 @@ You have the right to request a copy of any information that we currently hold a
 
 **Privacy**  
 Pabulum Productions Ltd.  
-11 Conway Street  
-London W1T 6BL
+5 Elstree Gate  
+Elstree Way  
+Borehamwood  
+Hertfordshire  
+WD6 1JD
 
 **Other Websites**  
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours. 
