@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvsa.co.za privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926133639id_/http%3A//www.tvsa.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsa.co.za privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504160923id_/http%3A//www.tvsa.co.za/privacy.asp) for the most accurate reproduction.*
 
-# TVSA - Privacy Policy
+# Privacy Policy
 
 **PRIVACY POLICY:**
 
