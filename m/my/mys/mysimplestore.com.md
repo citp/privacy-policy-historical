@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysimplestore.com privacy policy that was archived on 2006-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060906164448id_/http%3A//mysimplecity.com/My_Simple_Store/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysimplestore.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504084103id_/http%3A//mysimplecity.com/My_Simple_Store/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # My Simple Store
 
