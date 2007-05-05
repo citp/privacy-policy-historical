@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015220126id_/http%3A//www.academy.com/index.php%3Fpage%3Dcontent%26target%3Dcompany/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505031933id_/http%3A//academy.com/index.php%3Fpage%3Dcontent%26target%3Dcompany/privacy_policy%26lnkSRC%3DSLfromFOOTER) for the most accurate reproduction.*
 
 # Academy Sports & Outdoors Privacy Policy
 
@@ -30,9 +30,9 @@ If you are still unsure about the security of your information traveling across 
 
 Email
 
-Upon registration with Academy.com, you can choose to receive e-mail updates, invitations, product announcements or information from Academy Sports & Outdoors. At any time, you can choose to remove your name from our e-mail list, and we will promptly make every effort to remove your e-mail address from our distribution list.
+Upon registration with Academy.com, you can choose to receive e-mail updates, invitations, product announcements or information from Academy Sports + Outdoors. At any time, you can choose to remove your name from our e-mail list, and we will promptly make every effort to remove your e-mail address from our distribution list.
 
-Academy Sports & Outdoors utilizes a third party e-mail service provider to send e-mail communications from Academy Sports & Outdoors about our products and services. This third party agrees to use information collected only for the purposes of providing e-mail services to Academy Sports & Outdoors and is contractually obligated to keep the information secure and confidential.
+Academy Sports + Outdoors utilizes a third party e-mail service provider to send e-mail communications from Academy Sports + Outdoors about our products and services. This third party agrees to use information collected only for the purposes of providing e-mail services to Academy Sports + Outdoors and is contractually obligated to keep the information secure and confidential.
 
 Links to Other Sites
 
