@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122092311id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505050422id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
 
-# Privacy Policy - WHIO-TV - WHIOTV.com | WHIO
+# Privacy Policy - WHIO-TV News Story - WHIO Dayton
 
 Effective date: 1/24/03 
 
 We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Miami Valley Broadcasting Corporation, d/b/a WHIO-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-Pat Enright  
-Executive Producer  
+Becky Grimes  
+Web Manager  
 WHIO-TV  
 1414 Wilmington Ave.  
 Dayton, OH 45420  
-[pat.enright@cox.com](mailto:pat.enright@cox.com)
+[becky.grimes@whiotv.com](mailto:becky.grimes@whiotv.com)
 
  **CHILDREN'S PRIVACY**
 
