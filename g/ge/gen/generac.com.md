@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016011512id_/http%3A//www.generac.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505164218id_/http%3A//www.generac.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Generac Power Systems - Privacy Statement
 
@@ -28,4 +28,4 @@ Because Internet technologies are rapidly evolving, this Privacy Policy is subje
 
 Copyright Notice
 
-Copyright © 1998 - 2006 Generac Power Systems, Inc. All rights reserved.
+Copyright © 1998 - 2007 Generac Power Systems, Inc. All rights reserved.
