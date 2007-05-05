@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019202145id_/http%3A//www.fandom.com/0/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505114154id_/http%3A//www.mania.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Cinescape – Movies, TV, Comic Books, DVDs, Toys, Video Games, Music and more.
+# Privacy Policy
 
 Mania Entertainment LLC takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
 What this Privacy Policy Covers 
 
-• This Privacy Policy covers Mania Entertainment`s treatment of personally identifiable information that Mania Entertainment collects when you are on the Mania Entertainment site, and when you use Mania Entertainment`s services. This policy also covers Mania Entertainment`s treatment of any personally identifiable information that Mania Entertainment`s business partners share with Mania Entertainment or that Mania Entertainment may collect on a partner`s site. 
+• This Privacy Policy covers Mania Entertainment's treatment of personally identifiable information that Mania Entertainment collects when you are on the Mania Entertainment site, and when you use Mania Entertainment's services. This policy also covers Mania Entertainment's treatment of any personally identifiable information that Mania Entertainment's business partners share with Mania Entertainment or that Mania Entertainment may collect on a partner's site. 
 
 • This policy does not apply to the practices of companies that Mania Entertainment does not own or control, or to people that Mania Entertainment does not employ or manage. 
 
@@ -38,7 +38,7 @@ Cookies
 
 • Mania Entertainment may set and access Mania Entertainment cookies on your computer. 
 
-• Mania Entertainment allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies` use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mania Entertainment`s cookies. 
+• Mania Entertainment allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mania Entertainment's cookies. 
 
 • Mania Entertainment uses web beacons to access our cookies within and outside our network of web sites and in connection with Mania Entertainment products and services. 
 
