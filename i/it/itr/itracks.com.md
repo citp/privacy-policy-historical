@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213170937id_/http%3A//itracks.com/Pages/01_About/06_misc/01_privacy.aspx%3Fdir%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505120534id_/http%3A//www.itracks.com/Pages/01_About/06_misc/01_privacy.aspx%3Fdir%3Dpriv) for the most accurate reproduction.*
 
 # About Us :: Privacy :: Itracks
 
