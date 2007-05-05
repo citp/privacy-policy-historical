@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114024728id_/http%3A//www.speedo.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D302%26Itemid%3D153%26lc%3Den%26cc%3Dglobal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505100230id_/http%3A//www.speedo.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D302%26Itemid%3D153%26lc%3Den%26cc%3Dglobal) for the most accurate reproduction.*
 
-# Speedo - Privacy policy
+# Speedo - Privacy Policy
 
 Speedo takes its relationship with all our users seriously, and this includes how we handle the data you give us.
 
@@ -28,7 +28,7 @@ Providing personal information is up to you. We collect personally identifiable 
 If you register on the website we ask you to let us know if you would like receive further information or updates from us via email. We will only send you an email update if you request to receive it. We don't want to bombard your inbox, so the most number of updates we will send you is one a week - but normally it is only one every fortnight or less. (We might send you a more frequent update if a really cool event or offer is coming up that you might be interested in).
 
  What if you change your mind?  
-We always provide you with the opportunity to opt in or out of receiving communication via email. You can do this on the website by clicking on to the Register/Log In section and selecting the ÔDelete DetailsÕ option.
+We always provide you with the opportunity to opt in or out of receiving communication via email. You can do this on the website by clicking on to the Register/Log In section and selecting the "Delete Details" option.
 
  Who processes my information?  
 Speedo (and those people or companies employed by Speedo who help make this site, its content and its services) use the information you tell us in order to respond to your feedback - like writing a new feature topic because you asked for it, or running a new competition.
@@ -63,4 +63,6 @@ Marketing Department
 Speedo International Limited  
 Ascot Road  
 Nottingham  
-NG8 5JA 
+NG8 5JA  
+
+Copyright © 2007 Speedo International. All rights reserved. 
