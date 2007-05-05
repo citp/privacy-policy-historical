@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005223720id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505052915id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
 
 # Interactive Investor - About us
 
@@ -8,7 +8,7 @@ Version: 14 September 2004
 
 1\. We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act. 
 
-2\. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](http://iiidev3.iii.co.uk/help/help.epl?page=terms.epl) and the Act. 
+2\. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/about/?type=legal&subtype=terms) and the Act. 
 
 ## What Personal Data do we collect and why
 
@@ -16,20 +16,20 @@ Version: 14 September 2004
 
 4\. The principal purposes for which we process and store your Personal Data are:
 
-  * to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own portfolios); 
-  * to speed up the application process for Trading Services (for example, by collecting personal details we can pre-populate new applications and other forms on the Site saving you time in filling in those details); 
-  * to monitor, improve and administer the Site and the services provided on the Site; 
-  * to enable Service Providers to assist in providing, maintaining and operating the Trading Services; 
-  * to enable us to conduct surveys and aggregate user profiles; 
-  * to enable us to conduct prize draws which you have entered via the Site; 
-  * to provide you with information on selected products and selected services that we think may be of interest to you (unless you have asked us not to do so); and 
-  * to enable us to comply with our legal and regulatory obligations. 
+  * to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own portfolios);
+  * to speed up the application process for Trading Services (for example, by collecting personal details we can pre-populate new applications and other forms on the Site saving you time in filling in those details);
+  * to monitor, improve and administer the Site and the services provided on the Site;
+  * to enable Service Providers to assist in providing, maintaining and operating the Trading Services;
+  * to enable us to conduct surveys and aggregate user profiles;
+  * to enable us to conduct prize draws which you have entered via the Site;
+  * to provide you with information on selected products and selected services that we think may be of interest to you (unless you have asked us not to do so); and
+  * to enable us to comply with our legal and regulatory obligations.
 
 
 
 Full details of the purposes are set out in our Data Protection registration.
 
-5\. As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company’s products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Interactive Investor Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.
+5\. As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company's products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Interactive Investor Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.
 
 ## Use of Cookies
 
@@ -59,9 +59,8 @@ Full details of the purposes are set out in our Data Protection registration.
 
 The Interactive Investor Data Protection Officer  
 Interactive Investor Trading Limited  
-Dashwood House,  
-69 Old Broad Street,  
+21 Mansell Street,  
 London  
-EC2M 1QS 
+EC1 8AA 
 
 15\. We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act. If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on 0845 88 00 267 as soon as possible.
