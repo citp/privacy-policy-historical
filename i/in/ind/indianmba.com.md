@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmba.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024131417id_/http%3A//www.indianmba.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmba.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506150603id_/http%3A//www.indianmba.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,5 +64,5 @@ Effective May 2006
   
 [**Back to IndianMBA.com main page**](http://www.indianmba.com/)  
   
-IndianMBA.com | © AllWays DESiGNS 2000-2005 | All Rights Reserved  
+IndianMBA.com | © AllWays DESiGNS 2000-2007 | All Rights Reserved  
 .. 
