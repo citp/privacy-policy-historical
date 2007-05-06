@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214107id_/http%3A//www.devere.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506183911id_/http%3A//www.devere.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# De Vere Hotels - Privicy Policy
+# De Vere privacy policy
 
-Register now for exclusive offers and the latest news from  
-De Vere
+### Keep me updated
 
-* * *
-
-**Winter at  
-De Vere**  
-Find out more about Christmas at De Vere.
-
-[](https://web.archive.org/web/20061205214107id_/http%3A//www.devere.co.uk/Christmas/Default.aspx)
+... with exclusive offers and news by email 
 
 This policy statement sets out the data processing practices carried out through the use of the Internet and World Wide Web by all hotel companies of the De Vere Group PLC. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Customer Services Department on 01928 756137.
 
