@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215234542id_/http%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506191803id_/http%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
 
-# Sugar Daddy & Sugar Baby Online Dating Personals
+# SeekingArrangement - Privacy Policy
 
 |  | 
 
@@ -46,7 +46,7 @@ Online Transactions
 
 When you place an order online, your personal details and credit card information are encrypted using SSL encryption techology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details, SSL makes it very difficult for your information to be stolen or intercepted while being transferred. 
 
-Our credit card transactions are processed by [MultiCards.com](http://www.multicards.com/). All information sent to MultiCards.com is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about MultiCards' privacy statement, please click [HERE](http://www.multicards.com/pages/privacy.html). 
+Our credit card transactions are processed by [PayPal](http://www.multicards.com/) or [MultiCards](http://www.multicards.com/). All information sent to PayPal or MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about PayPal's privacy policy, please click [HERE](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). For MultiCards' privacy statement, please click [HERE](http://www.multicards.com/pages/privacy.html). 
 
 Cookies
 
