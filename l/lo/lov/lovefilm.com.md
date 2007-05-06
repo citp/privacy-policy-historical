@@ -1,109 +1,134 @@
-> *The following text is extracted and transformed from the lovefilm.com privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929100509id_/http%3A//www.lovefilm.com/privacypolicypop.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovefilm.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506091033id_/http%3A//www.lovefilm.com/info/privacypolicy.html) for the most accurate reproduction.*
 
-# LOVEFiLM Privacy Policy
+# LOVEFiLM | Europe's No.1 online DVD rental service
 
-**Summary**
+| 
 
-We respect your privacy. This policy sets out what personal information we gather about you when you visit our website, how we may use that information and with whom we may share it.
+LOVEFiLM (a trading name of LOVEFiLM International Ltd. ) recognises that your privacy is very important to you and that it is your right to control your personal information. We know that providing personal information is an act of trust and we take that trust seriously. LOVEFiLM will _never_ sell, rent or otherwise disclose any of your personal information, including your Email address, to any third party without your consent. Unless you give us specific consent to act otherwise, the following policies will govern how LOVEFiLM handles the personal information that you provide to us.
 
-**What we collect**
+This Privacy Policy sets out:
 
-General information: LOVEFiLM is owned and operated by LOVEFiLM International Ltd. When you visit the LOVEFiLM website, we automatically retrieve general information related to your use of the site where relevant, including the DVDs you view and rent, your ratings and reviews of DVDs, areas of the site you have visited, your IP address and the domain name and browser that you are accessing the internet from. None of this information personally identifies you to us or to any other third party. 
-
-Personal information: 
-
-If you register as a [LOVEFiLM Member](https://web.archive.org/tsandcs.php "\[Opens in new window\]"), you must provide us with certain personal information, including your name, date of birth, email address and physical address. If you register for and use [LOVEFiLM Services](https://web.archive.org/tsandcs.php "\[Opens in new window\]"), you will also need to provide us with your relevant credit or debit card and payment details. 
-
-**How we use the information**
-
-The information you supply to us is used in the following ways:
-
-If you register as a [LOVEFiLM Member](https://web.archive.org/tsandcs.php "\[Opens in new window\]"), we will use your personal information:
-
-  * held within the Your Account section of the website for the purposes of maintaining your account and continued access to the LOVEFiLM website; 
-  * to promote and market LOVEFiLM Services to you, unless you opt-out of receiving such marketing information; and
-  * to promote and market third party services which may be of interest to you, if you elect to opt-in to receive such marketing. 
+  * Collection and use of information
+  * Information storage
+  * Information sharing and disclosure
+  * Security and prevention against loss, misuse or alteration of information
+  * Your ability to edit and cancel your account
+  * Changes to this Privacy Policy
+  * Contact details
 
 
 
-If you elect to use [LOVEFiLM Services](https://web.archive.org/tsandcs.php "\[Opens in new window\]"), in addition to the above uses we we will use your personal information to: 
+### Collection and use of information
 
-  * provide you with such services (including sending you DVDs, enabling you to download films, communicating with you regarding your account and charging you);
-  * verify your eligibility to receive a free trial of our service (if applicable);
-  * keep records of your use of LOVEFiLM Services, for business recording purposes and to tailor services and related communications to meet your requirements; and
-  * tell you about changes to LOVEFiLM Services.
+LOVEFiLM collects personally identifiable information when you subscribe to the LOVEFiLM service.
+
+| **What we collect** | **How we use it**  
+---|---  
+  
+  * Nickname
+  * Full name
+  * Email address
+  * Address
+  * Telephone number
+  * Mobile telephone number (optional)
+  * Credit card type
+  * Credit card number
+  * Credit card expiry date
+  * Gender
+  * Date of birth
+
+| 
+
+  * To check that a credit card is valid
+  * To pay your account
+  * To send you DVDs you would like to rent
+  * To recommend other movies you may like to rent
+  * To display your favourites list to others
+  * To communicate with you on LOVEFiLM-related matters
+  * To provide you with order and billing history information
+
+  
+  
+When you visit the site, LOVEFiLM collects additional information about you in order to provide the service.
+
+**What we collect** | **How we use it**  
+---|---  
+  
+  * Movies you have rented
+  * Movies you would like to rent
+  * Your movie ratings
+  * Your movie reviews
+
+| 
+
+  * To send you DVDs you would like to rent
+  * To establish rental trends in order to recommend other movies you may like to rent
+
+  
+  
+### Information storage
+
+All information you provide to us is stored in the UK only on secure servers that are protected in secure facilites including firewall protection.
+
+### Cookies
+
+LOVEFiLM uses cookies to help speed up the login process and for security purposes. A cookie is a small amount of data that is sent to your web browser from a web server and stored on your computer.
+
+LOVEFiLM may store up to two types of cookie on your computer:
+
+  1. A unique ID is stored in a _permanent_ cookie so that you do not need to retype information every time you visit our site.
+  2. Your web browser's session identification is stored in a _temporary_ cookie to help prevent unauthorised use of your account.
 
 
 
-Your personal information is used by us only. We will not sell or disclose your personal information to any third party without your permission, except where we are required or permitted by law to do so. You agree that we may disclose your personal information to relevant authorities, parties and/or applicable intellectual property rights holders (or their representatives) if we have reasonable grounds to believe that you have breached our Terms and Conditions or to anyone to whom we transfer or may transfer our rights and obligations. 
+More detailed information on cookies may be found in the Help section of your web browser.
 
-We use general information collected to: 
+### Information sharing and disclosure
 
-  * Send you your DVD selections;
-  * Recommend additional DVDs that you might want to rent; and
-  * Improve the usability of our site.
+LOVEFiLM is committed to protecting your personal information. We will not disclose your personally identifiable information to third parties without your consent except where:
+
+  1. LOVEFiLM is required by law to disclose information to third parties.
+  2. the service is necessary for the performance of our operations ie. mail delivery, hosting services, protecting us from fraud, and payment of your account.
+  3. LOVEFiLM buys or sells subsidiaries or business units. In such transactions customer information is one of the transferred assets, but would remain subject to the commitments made in any pre-existing Privacy Policy or equivalent.
 
 
 
-We may provide aggregate statistical information (e.g. number of customers in each post code, most popular DVD titles rented, etc) to suppliers or other partners in order to improve our service and business. Such information will never include data that may identify you personally. 
+Companies and individuals registered in the LOVEFiLM Affiliate Program receive aggregate information about customers that they direct to LOVEFiLM through links on their website. No personally identifiable information is provided to affiliate members; the information collected from our affiliates is used strictly for the affiliates program and will not be used for general marketing purposes.
 
-**Storage and Security**
+LOVEFiLM also provides analyses of our customers in the aggregate to prospective partners, advertisers, movie distributors and other third parties. We do this so that we and our business partners can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific customers.
 
-LOVEFiLM uses Secure Sockets Layer (SSL) technology to encrypt your details as they are being transmitted to us. This is designed to try and keep your personal information (including your credit and debit cards) private.
+Linked websites are not under the control of LOVEFiLM and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. As a subscriber you have certain rights under the Data Protection Act 1998. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the LOVEFiLM privacy policy please write to us at: LOVEFiLM, c/o Lovefilm International Limited, No 9, 6 Portal Way, London W3 6RU.
 
-We make every effort to ensure that your personal information is stored securely. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, any information that you send to us over the internet is sent at your own risk. Similarly, you are responsible for keeping your login password private and secure. You should contact us immediately if you believe there has been any unauthorised use of your account or if your login and password details have become known to someone else. 
+### Security and prevention against loss, misuse or alteration of information
 
-We let you store your card details with us, so that you can continue your subscription and use of LOVEFiLM Services without needing to re-enter your details on each occasion. We only ever show the last four digits of your card number on our public Internet site and of course, this information is intended 'for your eyes only'.
+LOVEFiLM has implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorised access or improper use. We will continue to enhance our security procedures as new technology becomes available.
 
-Your payment details are held in a secure server in the UK that is not accessible from the Internet. 
+For transmitting your personal information to us, we use a secure server with a 128-bit SSL certificate from Verisign which encrypts all of your personal information. This encryption process ensures that the information you give us is protected against unauthorised use.
 
-We will retain your personal information for a period of time after the cancellation of your membership with LOVEFiLM. This is required for general business recording, accounting and taxation purposes. We will hold your information only for as long as we are required to retain that information. 
+While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.
 
-If you subscribe to LOVEFiLM Services we will continue to provide you with services available to a LOVEFiLM Member unless you inform us otherwise, including by opting out of any related marketing.
+Your LOVEFiLM account information is password-protected for your privacy and security. You can play an important role in keeping your personal information secure by maintaining the confidentiality of your password used on the LOVEFiLM website. We recommend that you change your password from time to time for additional security. Please advise us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
-**Payment Information**
+Access authorisation is granted to key LOVEFiLM (LOVEFiLM International Ltd.) staff only. Backups are run to prevent loss of information, and our Internet servers are housed in secure facilities.
 
-Your credit and/or debit card details are encrypted on a secure server and are used by us to process the payment for your regular monthly subscription. 
+### Your ability to edit and cancel your account
 
-**Access to Data**
+You can access My Account from every page on the site to update and correct the personal details that we gathered when you subscribed. You must be logged in to access this information. All information is password-protected so no one can access the information but you.
 
-You have certain rights under the Data Protection Act 1998, including the right to be told what personal information we hold about you on our database. If you wish to exercise that right, you should write to us at:
+If you decide to cancel your LOVEFiLM subscription, your account will be deactivated immediately. However we are required to retain your information for accounting and taxation purposes.
 
-**Customer Services**
+### Changes to this Privacy Policy
 
-LOVEFiLM International Ltd   
-PO BOX 7021   
-HARLOW   
-CM19 5WR
+From time to time, LOVEFiLM will review and may edit this policy in accordance with potential changes to our business and as required by law. LOVEFiLM reserves the right to change its Privacy Policy at any time.
 
-**Cookies**
+### Contact details
 
-A cookie is a small file that we place on your machine to allow us to remember you and your details. Cookies make the LOVEFiLM website easier to use. Each cookie we use recognises only the browser that you access the LOVEFiLM website from and not the individual in person. . 
+If you have questions or concerns regarding this Privacy Policy, please contact LOVEFiLM:
 
-In order to protect your privacy, we suggest you log out on each occasion when you have finished browsing the LOVEFiLM website - this is particularly important when you are using a shared computer in a public location (e.g. a library, Internet cafe or other location).
+Attention: Privacy Officer   
+LOVEFiLM International Ltd, No 9, 6 Portal Way, London W3 6RU, UK   
+Email: [support@lovefilm.com](mailto:support@lovefilm.com)
 
-If you wish, you can adjust your browser so that your computer does not accept cookies. If you do this, you will still be able to view the LOVEFiLM homepage. You will not be able to use LOVEFiLM Services or certain facilities (such as the 'remember me' function) where cookies are used in order to provide such services or facilities. 
+LOVEFiLM (a registered trademark) is owned and operated by LOVEFiLM International Ltd Registered No: 4392195; Registered Office: No. 9, 6 Portal Way, London W3 6RU, UK.
 
-Find out how to [enable/disable cookies](http://www.allaboutcookies.org/manage-cookies).
-
-**Marketing and opting out**
-
-By becoming a [LOVEFiLM Member](https://web.archive.org/tsandcs.php "\[Opens in new window\]") or by subscribing to or paying for [LOVEFiLM Services](https://web.archive.org/tsandcs.php "\[Opens in new window\]") you consent to receive emails from us regarding your account via the email address that you provide. 
-
-We may also send out regular newsletters, offers, updates and other marketing and promotional material to you via email and post. If subsequently, you decide that you do not wish to receive marketing or promotional emails and/or post from us, we recommend that you visit Your Account > General Preferences, where you can tailor the information you receive from us or opt out of receiving any such information. 
-
-**Your ability to edit and cancel your account**
-
-You can access your account via the My Account section of the LOVEFiLM website. You are responsible for correcting and updating the personal details that we gathered when you registered. You must be logged in to access this information. All information is password-protected so no third party can access the information. You may also cancel your membership from this area.
-
-**Changes to the Privacy Policy**
-
-We may modify or update this privacy policy from time to time. Any changes to the privacy policy will be posted here.
-
-**Your Comments, Questions, Concerns**
-
-Please send any questions or comments about this privacy policy to Customer Services at [privacy@lovefilm.com](mailto:privacy@lovefilm.com).
-
-Amended 22nd February 2006
-
-Close Window
+This version last updated 25th April 2007.
