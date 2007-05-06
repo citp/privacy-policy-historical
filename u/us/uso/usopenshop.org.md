@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2006-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060811201935id_/http%3A//www.usopenshop.org/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506203011id_/http%3A//www.usopenshop.org/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
 
-# Privacy
+# US Open Online Shop Privacy
 
-|  |  |  |  |   | 
+| | | |  |   | 
 
   
 **_PRIVACY POLICY_**  
@@ -11,7 +11,7 @@
   | **  
 Welcome  
 **  
-Welcome to [www.ustashop.com](http://www.usta.com/). This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. 
+Welcome to [www.usopenshop.org](http://www.usopenshop.org/). This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. 
 
 **Your Consent  
 **  
@@ -99,5 +99,5 @@ If this Privacy Policy changes, the revised policy will be posted on this Site. 
   
 | 
 
-[](https://web.archive.org/web/20060811201935id_/http%3A//www.usopenshop.org/shoppingcartsoftware_help.asp)   
+[](https://web.archive.org/web/20070506203011id_/http%3A//www.usopenshop.org/shoppingcartsoftware_help.asp)   
 
