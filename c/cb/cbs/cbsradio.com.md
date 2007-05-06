@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232025id_/http%3A//www.cbsradio.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506065928id_/http%3A//www.cbsradio.com/info/privacy_policy.php) for the most accurate reproduction.*
 
-# CBS RADIO
+# CBS RADIO - Home
 
 **CBS RADIO Inc. PRIVACY POLICY  
 AND YOUR CALIFORNIA PRIVACY RIGHTS**
@@ -89,7 +89,7 @@ The use of cookies is an industry standard and they are currently used on most w
 
 In short, cookies and image tags collect a user's Internet protocols and server information. Such data files allow our Site to remember your web browser when you visit our Site and are necessary tools for quick and efficient access to membership clubs, awards programs and contests. A cookie will not allow the Site to learn any Personal Information (such as your real name and email address) or Sensitive Personal Information that you have not otherwise disclosed. Cookies and image tags allow the Site to remember important information that will make the Site easier for you to use and helpful in our administration of various activities. We do not use cookies or image tags to collect other Personal Information or Sensitive Personal Information unless you give us permission to do so. 
 
-You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features at our Site that make your Internet experience more efficient and enjoyable – like the features mentioned above – and some of our other services will not function properly. 
+You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features at our Site that make your Internet experience more efficient and enjoyable  like the features mentioned above  and some of our other services will not function properly. 
 
 **_EMAIL_**
 
