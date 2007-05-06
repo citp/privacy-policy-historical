@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214060103id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506090208id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
 
 # trig.com - Legal :: Privacy
 
@@ -35,6 +35,10 @@ Trig.com may contain links to Websites managed by third parties. These Websites 
 ## COMMENTING OR POSTING ON TRIG.COM
 
 It is important that you have in mind that whenever you post information or comment on something, that it can be accessed by others. This means that you may for example get unsolicited communications. We do not take any responsibility for any personal information that you choose to post on our services. Neither do we accept any responsibility for the consequences.
+
+Trig merely provides a space for its users to exchange and express their own opinions. In accordance with the terms of use, you are entirely responsible and liable for all Content that you post on Trig. We do not guarantee that the Content posted on the forum on Trig is accurate, reliable or up to date. Any reliance upon the Content published on the forum is at the user’s own risk. The content is published “AS-IS” and may not represent Our official view and opinion.
+
+It is not possible for Us to review the Content before it is posted and We assume no responsibility or liability for any posted Content. It is very important that you report any illegal or inappropriate Content that you become aware of to Trig.com or by clicking on "Report Inappropriate Content".
 
 ## COMMUNICATIONS TO NON-MEMBERS
 
