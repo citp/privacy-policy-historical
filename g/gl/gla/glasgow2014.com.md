@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030031246id_/http%3A//www.glasgow2014.com/getinvolved/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506053250id_/http%3A//www.glasgow2014.com/getinvolved/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Glasgow's Bid for the 2014 Commonwealth Games
 
