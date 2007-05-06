@@ -1,640 +1,363 @@
-<!--The following is the downloaded HTML source of the nbcactionnews.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206134745id_/http%3A//web.kshb.com/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nbcactionnews.com privacy policy that was archived on 2007-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070506052426id_/http%3A//www.nbcactionnews.com/legal/default.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>KSHB: Privacy Policy </title>
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="http://www.nbcactionnews.com/kshb/cda/styles/main">
-<link rel="stylesheet" type="text/css" href="main.css">
-<script language="JavaScript">
-
-function popup(url,w,h,menu) {
-	x = Math.floor((screen.width - w) / 2);
-	y = Math.floor((screen.height - h) / 2);        
-	now = new Date();
-	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
-
-	if (menu != null) {
-		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
-		features += ",menubar=yes,toolbar=yes";
-	} else {
-		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
-		features += ",menubar=no,toolbar=no"; 
-	}
-	window.open(url,"newwin",features);
-}
-
-
-function MM_reloadPage(init) {  
-  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {
-    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-     document.MM_pgW=innerWidth; 
-	 document.MM_pgH=innerHeight;
-	 onresize=MM_reloadPage; 
-    }
-  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
-    location.reload();
-}
-
-// for Netscape thisdomain = www.scripps.com
-// for other browser thisdomain = scripps.com
-
-thisdomain = document.location + "";
-thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
-thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
-thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
-
-
-
-function getCookieVal (offset) {
-	var endstr = document.cookie.indexOf(';',offset);
-	if (endstr == -1) {
-		endstr = document.cookie.length;
-	}
-	return unescape(document.cookie.substring(offset,endstr))
-}
-
-
-function SetCookie (name, value, expires, path, domain, secure) {
-	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
-} 
-
-
-function GetCookie (name) {
-	var arg = name + "=";
-	var alen = arg.length;
-	var clen = document.cookie.length;
-	var i = 0;
-
-	while (i < clen) {
-		var j = i + alen;
-		if (document.cookie.substring(i,j) == arg) {
-			return getCookieVal(j);
-		}
-		i = document.cookie.indexOf(" ", i) + 1;
-		if (i==0) break;
-	}
-	return null;  
-}
-
-
-function DeleteCookie (name, path, domain) {
-   if (GetCookie(name)) {
-    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
-   }
-}
-
-
-function FixCookieDate (date) { 
-	var base = new Date(0); 
-	var skew = base.getTime();
-	if(skew > 0)
-		date.setTime (date.getTime() - skew);     
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function vod (url,streamtitle,customfeatures) {
-	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
-
-	//Browser Detection
-	var browser = "";
-	var browsername = navigator.appName;
-	var browserversion = parseInt(navigator.appVersion);
-	var browserplatform = navigator.userAgent;
-	if (browsername == "Netscape") {
-		browser = "ns" + browserversion;
-	} else {
-		if (browsername == "Microsoft Internet Explorer") {
-			if (browserversion >= 4) {
-				browser = "ie" + browserversion;
-			} else {
-				browser = "ie3";
-			}
-		}
-	}
-
-	if ((customfeatures) && customfeatures != '') {
-		windowFeatures = customfeatures;
-	}
-
-	if (url.indexOf(".rm",(url.length-10)) != -1) {
-		if (browser != 'ie3') {
-			hasplugin = 'false';
-			// Mac Browser (Not Netscape)
-			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
-				numPlugins = 0;
-				// Real Strange never goes into the followinf loop
-				// because numPlugins is 0
-				for (i = 0; i < numPlugins; i++) {
-					plugin = navigator.embeds[i];
-					if (plugin.name.substring(0,10)=="RealPlayer") {
-						hasplugin = 'true';
-					}
-				}
-			} else {
-				numPlugins = navigator.plugins.length;
-				for (i = 0; i < numPlugins; i++) {
-					plugin = navigator.plugins[i];
-					if (plugin.name.substring(0,10)=="RealPlayer") {
-						hasplugin = 'true';
-					}
-				}
-			}
-			if (browser.substring(0,2) == 'ie') {
-				hasplugin = 'true';
-			}
-			if (hasplugin == 'true') {
-				videoWin = window.open (url , 'video', windowFeatures);
-				if (streamtitle != '') {
-					videoWin.streamtitle=streamtitle;
-				}
-				videoWin.document.close();              
-			} else {
-				stream = url.substring(0,(url.length-5));
-				location.href=stream + '.ram';
-			}
-		} else {
-			videoWin = window.open (url , 'video', windowFeatures);
-			if (document.images) {
-				if (streamtitle != '') {
-					videoWin.streamtitle=streamtitle;
-				}
-			}
-			videoWin.document.close();                      
-		}               
-	} else {
-		videoWin = window.open (url , 'video', windowFeatures);
-		if (document.images) {
-			if (streamtitle != '') {
-				videoWin.streamtitle=streamtitle;
-			}
-		}
-		videoWin.document.close();
-	}
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="description" content="Legal">
+<meta name="keywords" content="legal terms and conditions privacy policy">
+<meta http-equiv="refresh" content="1200"><style type="text/css"> body { font-size: 12px; } </style>
+<link rel="stylesheet" href="http://www.nbcactionnews.com/styles/scripps/structure.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.nbcactionnews.com/styles/scripps/styles.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.nbcactionnews.com/styles/scripps/structure.css" type="text/css" media="print">
+<link rel="stylesheet" href="http://www.nbcactionnews.com/styles/scripps/styles.css" type="text/css" media="print">
+<link rel="stylesheet" href="http://www.nbcactionnews.com/Sites/KSHB/styles.css" type="text/css" media="screen">
+<title>
+	Terms &amp; Conditions - NBC Action News KSHB-TV 41
+</title></head>
+<body>
+<!-- NetTracker Page Variables -->
+<script type="text/javascript" language="JavaScript"> 
+var NTPT_PGEXTRA = 'pv=0'; 
 </script>
-<script type="text/javascript">
-		<!--
-		// Prevent others from including this site
-		var preview = 'no'
-		if (preview != 'yes') {
-			if (top != self) {
-				top.location = location;
-			}
-		}
+<!-- NetTracker Page Tag -->
+<!-- Copyright 2004 Sane Solutions, LLC.  All rights reserved. -->
+<script type="text/javascript" language="JavaScript" src="http://www.nbcactionnews.com/common/pagereporting/nettracker/ntpagetag.aspx"></script>
+<noscript>
+<img src="http://www.nbcactionnews.com/common/pagereporting/nettracker/ntpagetag.gif?js=0&amp;pv=0&amp;lc=http%3a%2f%2fwww.nbcactionnews.com%2flegal%2fdefault.aspx&amp;rf=" height="1" width="1" border="0" hspace="0" vspace="0" alt="" />
+</noscript>
+<!-- END: NetTracker Page Tag -->
 
-		MM_reloadPage(true);
+<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkxMDk1Njg2Mw9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAgIFD2QWAgIDD2QWAgIJD2QWAmYPZBYGAgEPEGQPFgJmAgEWAhAFEFNlYXJjaCBUaGlzIFNpdGUFAzEyNWcQBQ5TZWFyY2ggdGhlIFdlYgUDMTI2Z2RkAgMPD2QWAh4Kb25rZXlwcmVzcwVacmV0dXJuIElETVRleHRCb3hLZXlQcmVzcyhldmVudCwgJ2N0bDAwX2N0bDAwX2N0bDAwX2N0bDAwX0NvbW1vblBhZ2VfU2VhcmNoQmFyX19fU2VhcmNoJyk7ZAIHDw8WAh4ISW1hZ2VVcmwFIy9zaXRlcy9rc2hiL2ltYWdlcy9nb29nbGUtYmxhY2suanBnZGRkgV7fFXILxFS0EndxrnHJqORnih0=">
 
-		if (GetCookie('cookieChk') == null) { 
-			var expdate = new Date ();
 
-			// Correct for Mac date bug - call only once for given Date object!
-			FixCookieDate (expdate); 
+<script src="/WebResource.axd?d=BTwjwXlJFUzpkqLmBLw95W1tHc6gbqCiIPgmwQL2Bg9qK8v3fcCTrmohLXWO5ziqaMgewI4b0zhVfrQ6lWhAg1fgEPqXxjq5wB9mJU1cQN-1GK6evcmA3ivgxTq_zfpI0&amp;amp;t=633137817437178594" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=QFi-Fq5vATcAEgBHpXfaG35S_OtwSbhWCxKl8DNloHO58VoxT5ZEcz2yQPR7fzY_2pW2mwEp20pbV1bJ6LMAFIxhBA2cqBlBahKqATKYK_U1&amp;t=633082564341291157" type="text/javascript"></script>
 
-			// expires 30 days from now
-			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
-			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
-		}
-		// -->
-</script>
-</head>
 
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#993333" vlink="#993333" alink="#993333">
 
-<table width="750" cellpadding="0" cellspacing="0" border="0" style="z-index: 10" align="">
-  <tbody><tr>
-    <td>
-    <table width="750" height="100" cellpadding="0" cellspacing="0" border="0" align="" background="http://www.nbcactionnews.com/kshb/images/headers/header_home.jpg">
-      <tbody><tr>
-        <td>
-        <table width="750" cellpadding="0" cellspacing="0" border="0" align="" background="">
-          <tbody><tr>
-            <td width="750" height="90" colspan="2"><img src="http://www.nbcactionnews.com/kshb/images/spacers/spacer.gif" width="145" height="10"></td>
-          </tr>
-          <tr class="navbarbgcolor">
-            <td width="145">
-            <img src="http://www.nbcactionnews.com/kshb/images/spacers/spacer.gif" width="145" height="10"></td>
-            <td width="605" height="21" class="navbartext2"><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/home/0,1925,KSHB_9410,00.html" class="navbartext2">Home</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/news/0,1925,KSHB_9418,00.html" class="navbartext2">News</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/weather/0,1925,KSHB_9437,00.html" class="navbartext2">Weather</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/sports/0,1925,KSHB_9430,00.html" class="navbartext2">Sports</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/business/0,1925,KSHB_9389,00.html" class="navbartext2">Business</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/call_for_action/0,1925,KSHB_9396,00.html" class="navbartext2">Call For Action</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a class="navbartext2" href="http://www.nbcactionnews.com/kshb/nw_investigators/0,2678,KSHB_21759,00.html">Investigators</a><span class="navbartext2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.nbcactionnews.com/kshb/channel_38/0,1925,KSHB_9400,00.html" class="navbartext2">38 the spot</a></td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
+
+
+
+
+
+<div id="Common">
+	<div id="CommonHeader">
+		
+		<div id="CommonMasthead">
+			<div id="CommonMastheadRight">
+				<div id="CommonWelcome">
+					<div class="FloatLeft"><a href="/login.aspx?ReturnUrl=%2flegal%2fdefault.aspx">Sign in</a> | <a href="/createuser.aspx?ReturnUrl=%2flegal%2fdefault.aspx">Join</a> | <a href="/help.aspx">Help</a> | <a href="/feedback.aspx">Feedback</a></div>
+					<div class="FloatRight">
+						<span class="DownloadsBar"><b>Download:&nbsp;</b><a href="/rss/default.aspx">RSS</a>&nbsp;|&nbsp;<a href="/emailalerts/default.aspx">Email Alerts</a>&nbsp;|&nbsp;<a href="http://mobile.kshb.com/wireless/signup.cfm?sid=5">Wireless</a></span>
+					</div>
+				</div>
+				<div id="CommonLeaderboard">
+					
+<script type="text/javascript" language="JavaScript">
+<!--
+adserver = "http://w10.centralmediaserver.com";
+target = "/SITE=KSHB/AREA=CCTVI.OTHER/POS=MASTHEAD/AFFIL=nbc/DMA=kansascity_ks/AAMSZ=728X90";
+random = Math.round(Math.random() * 100000000);
+if(!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+if(!idmAdTagCounter) var idmAdTagCounter = 1;
+else idmAdTagCounter++;
+document.write('<scr');
+document.write('ipt src="' + adserver + '/jserver/' + target + '/pageid=' + pageNum + '/acc_random=' + random + '">');
+document.write('</scr');
+document.write('ipt>');
+// --></script><script src="http://w10.centralmediaserver.com/jserver//SITE=KSHB/AREA=CCTVI.OTHER/POS=MASTHEAD/AFFIL=nbc/DMA=kansascity_ks/AAMSZ=728X90/pageid=6009628/acc_random=56043699"></script>
+				</div>
+				<div id="GoogleSearchBar">
+					
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td valign="bottom">
+			<select name="ctl00$ctl00$ctl00$ctl00$CommonPage$SearchBar$_$SearchType" id="ctl00_ctl00_ctl00_ctl00_CommonPage_SearchBar___SearchType" class="GoogleSearchBarDrop">
+	<option value="125">Search This Site</option>
+	<option value="126">Search the Web</option>
+
+</select>
+		</td>
+		<td width="5"></td>
+		<td valign="bottom">
+			<input name="ctl00$ctl00$ctl00$ctl00$CommonPage$SearchBar$_$Query" type="text" id="ctl00_ctl00_ctl00_ctl00_CommonPage_SearchBar___Query" class="GoogleSearchBarText" onkeypress="return IDMTextBoxKeyPress(event, 'ctl00_ctl00_ctl00_ctl00_CommonPage_SearchBar___Search');">
+		</td>
+		<td valign="bottom">
+			<input type="submit" name="ctl00$ctl00$ctl00$ctl00$CommonPage$SearchBar$_$Search" value="Go" id="ctl00_ctl00_ctl00_ctl00_CommonPage_SearchBar___Search" class="GoogleSearchBarButton">
+		</td>
+		<td valign="bottom">
+			<img id="ctl00_ctl00_ctl00_ctl00_CommonPage_SearchBar___PoweredBy" src="/sites/kshb/images/google-black.jpg" border="0">
+		</td>
+	</tr>
 </tbody></table>
-<table width="750" border="0" cellspacing="0" cellpadding="0" height="3" bgcolor="#000000">
-  <tbody><tr>
-    <td>
-    <img src="http://web.kshb.com/kshb/images/trans.gif" width="1" height="1"></td>
-  </tr>
+				</div>
+			</div>
+			<div id="CommonMastheadLogo">
+				
+
+
+
+
+			</div>
+		</div>
+		<div id="CommonTopNav">
+			<ul class="">
+	<li><a href="http://www.nbcactionnews.com/default.aspx">Home</a></li><li><a href="http://www.nbcactionnews.com/news/default.aspx">News</a></li><li><a href="http://www.nbcactionnews.com/weather/default.aspx">Weather</a></li><li><a href="http://www.nbcactionnews.com/sports/default.aspx">Sports</a></li><li><a href="http://www.nbcactionnews.com/business/default.aspx">Business</a></li><li><a href="http://www.nbcactionnews.com/entertainment/default.aspx">Entertainment</a></li><li><a href="http://www.nbcactionnews.com/mediacenter/default.aspx">Videos</a></li><li><a href="http://www.nbcactionnews.com/content/kclive/default.aspx">KC Live</a></li><li><a href="http://www.nbcactionnews.com/content/investigative/default.aspx">Investigators</a></li><li><a href="http://www.nbcactionnews.com/content/cfa/default.aspx">Call For Action</a></li><li><a href="http://www.nbcactionnews.com/content/blogs/default.aspx">Blogs</a></li><li><a href="http://www.nbcactionnews.com/content/health/default.aspx">Health</a></li><li><a href="http://www.nbcactionnews.com/content/contactus/default.aspx">Contact</a></li><li><a href="http://www.nbcactionnews.com/entertainment/listings/default.aspx">TV Guide</a></li>
+</ul>
+		</div>
+	</div>
+	<div id="CommonBody">
+			
+			
+				
+		
+		
+		
+<div id="CommonSideNavigation">
+
+<div class="SideNavigation">
+	<span class="Hidden">Side Navigation</span><ul>
+		<li><span>On Air Links</span></li><li><span>Station Links</span><ul>
+			<li><span><a href="/content/anewyou/default.aspx">A New You</a></span></li>
+<li><span><a href="/content/btw/default.aspx">Behind The Wheel</a></span></li>
+<li><span><a href="/content/buyowner/default.aspx">Buy Owner</a></span></li>
+<li><span><a href="/contests/default.aspx">Contests</a></span></li>
+<li><span><a href="/content/aroundthehouse/default.aspx">Around The House</a></span></li>
+<li><span><a href="/content/trolleyrun/default.aspx">Trolley Run</a></span></li>
+
+		</ul></li><li><span>About Us</span><ul>
+			<li><span><a href="/content/about/employment/default.aspx">Employment</a></span></li>
+<li><span><a href="/content/about/news/default.aspx"> News Anchors</a></span></li>
+<li><span><a href="/content/about/weather/default.aspx">Weather</a></span></li>
+<li><span><a href="/content/about/reporters/default.aspx">Reporters</a></span></li>
+<li><span><a href="/content/about/sports/default.aspx">Sports</a></span></li>
+<li><span><a href="/content/about/kcl/default.aspx">Kansas City Live</a></span></li>
+
+		</ul></li>
+	</ul>
+</div>
+
+</div>
+<div id="CommonContent">
+
+
+<div class="AlertBar">
+	<div>
+		<table>
+			<tbody><tr valign="middle">
+				<td></td><td><a href="/weather/alerts.aspx">
+TORNADO WATCH OUTLINE UPDATE FOR WT 237
+</a></td>
+			</tr>
+		</tbody></table>
+	</div>
+</div>
+
+
+
+
+
+
+<table cellpadding="15" cellspacing="0" border="0" width="760">
+	<tbody><tr>
+		<td>
+
+<font face="Arial" size="2">
+
+<center><b>PRIVACY POLICY</b></center><p></p>
+
+All materials on this site © 2000 E.W. Scripps Co. or used with permission. All rights reserved.
+NBCActionNews.com ® is a registered trademark of the Company.
+<br><br>
+<b>LEGAL NOTICE</b><br>
+While we have endeavored to ensure the accuracy of information presented in this site, The E.W. Scripps Company is not liable for any errors or omissions or for updating the information.
+
+<br><br>
+Please note, the information in this site is subject to change without notice.
+
+<br><br>
+The Privacy Policy was modified on 09/02/2005 and is effective as of 09/02/2005.
+
+<br><br>
+The User Agreement was modified on 09/02/2005 and is effective as of 09/02/2005.
+<br><br>
+<b>TERMS OF USE</b> <br>
+Use of this site signifies your agreement with the following terms of use. If you do not agree with any of these terms of use, please do not use this site. The E.W. Scripps Company (the "Company") reserves the right, in its sole discretion, to modify these Terms of Use at any time and you agree to be bound by such modifications through your use of the Company’s site.
+<br><br>
+<b>TRADEMARKS, COPYRIGHTS &amp; RESTRICTIONS </b><br>
+All materials on this site, including, but not limited to, images, illustrations, audio clips, video clips (the "Materials") are protected by copyrights which are owned or licensed by the Company. NBCActionNews.com and Scripps lighthouse logos are trademarks of the Company. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit, or distribute in any way whatsoever any Materials from www.nbcactionnews.com or any other web site owned or operated by the Company without the prior written permission of the Company. However, you may download or make one copy of the Materials, and other downloadable items displayed on the site, for personal non-commercial home use only, provided all copyright and other notices contained in the Materials are left intact. Any modification of the Materials, or any portion thereof, or use of the Materials for any other purpose constitutes an infringement of the Company’s copyrights and other proprietary rights. Use of these Materials on any other web site or other networked computer environment is prohibited without prior written permission from the Company.
+<br><br>
+<b>SUBMISSIONS</b> <br>
+Although comments and questions are welcomed, the Company does not accept unsolicited submissions or creative ideas for its Company programs, newspapers, or products. Any bulletin board postings, messages, suggestions, ideas, or concepts that are submitted shall become, and remain, the property of the Company. Furthermore, the Company is not responsible for the confidentiality of any information communicated to the Company web site. By communicating Materials to the Company’s site, you are granting the Company a royalty-free, non-exclusive, perpetual, unrestricted, worldwide license to publish, transmit, perform and display the Materials for any purpose, including, but not limited to, advertising and promotional purposes.
+<br><br>
+The Company is not responsible for any Materials posted on the Company bulletin boards or on any other forum on the site (the "Forums"). You agree not to upload, transmit, distribute or otherwise publish in these or any other Forums connected with the Company any Materials which are:
+•	libelous, defamatory, obscene, abusive, pornographic, threatening, or an invasion of privacy; 
+•	an infringement of the intellectual property rights, including, but not limited to, copyrights and trademarks, of any person or entity; 
+•	illegal in any way or which advocate illegal activity; 
+•	an advertisement or solicitation of funds, goods, or services. 
+<br><br>
+The Company does not and cannot review or monitor every posting made on its web site and on the Forums, and is not responsible as such for the content of such postings. However, the Company reserves the right at all times to disclose any information necessary in its sole discretion to satisfy any law, regulation or governmental request, or to edit, refuse to post or remove any information or Materials, in whole or in part, that in the Company’s sole discretion are objectionable or in violation of these terms and conditions.
+<br><br>
+To notify the Company of a copyright infringement, webmaster@nbcactionnews.com.
+<br><br>
+<b>LINKS</b><br>
+The Company is not responsible for the content of any sites which may be linked to http://www.nbcactionnews.com. These links are provided for your convenience only and you access them at your own risk.
+<br><br>
+<b>DISCLAIMERS</b> <br>
+By using this web site and/or posting Materials, you agree to indemnify the Company, its officers, directors, employees, agents, distributors and affiliates for any and all claims, damages, losses and causes of action arising out of your breach or alleged breach of this agreement.
+THE MATERIALS ON THIS SITE ARE TRANSMITTED AND DISTRIBUTED "AS IS" AND APPEAR ON THE SITE WITHOUT EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. THE COMPANY MAKES NO WARRANTY AS TO THE QUALITY, ACCURACY, COMPLETENESS AND VALIDITY OF ANY MATERIALS ON THE WEB SITE AND DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED ON THE WEB SITE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED. Where applicable law does not allow the exclusion of implied warranties, the foregoing exclusions may not apply to you.
+The Materials provided on this web site are for entertainment and promotional purposes only. Information and opinions expressed in bulletin boards or other Forums are not necessarily those of the Company. Neither the Company, nor its officers, directors, employees, agents, distributors or affiliates are responsible or liable for any loss damage (including, but not limited to, actual, consequential, or punitive), liability, claim, or other injury or cause related to or resulting from any information posted on the Company’s web site.
+<br><br>
+<b>TERMINATION</b> <br>
+The Company may, in its sole discretion, terminate or suspend your access to all or part of the site, including, but not limited to, any bulletin boards on its site, for any reason, including without limitation, breach of this agreement. In the event this agreement is terminated, the restrictions regarding Materials appearing on the site, and the representations and warranties, indemnities, and limitations of liabilities set forth in this agreement shall survive any such termination.
+<br><br>
+<b>JURISDICTION</b> <br>
+This site is controlled and operated by the Company from the Company’s headquarters in Cincinnati, OH. The Company does not represent or warrant that Materials on the site are appropriate or available for use in other locations. If you choose to access this site from other locations, you do so at your own risk and are responsible for compliance with any and all local laws.
+<br><br>
+This agreement shall be governed by and construed in accordance with the laws of the State of Ohio, as it is applied to agreements entered into and performed within that State. Any action brought to enforce this agreement or matters related to the site shall be brought in either the State or Federal Courts of The United States of America. If any provision of this agreement is deemed void, unlawful or otherwise unenforceable for any reason, that provision shall be severed from this agreement and the remaining provisions of this agreement shall remain in force. This contains the entire agreement between you and the Company concerning your use of the site, and the agreement shall not be modified, except in writing, signed by both parties.
+
+
+
+<p></p>
+
+
+<center><b>TERMS OF USE AGREEMENT</b></center>
+<p>
+
+NBCActionNews.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At NBCActionNews.com we intend to give you as much control as possible over your personal information.
+<br><br>
+The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. By your use of our site(s) you signify your assent to this privacy policy. If you do not assent to this privacy policy, you are not permitted to use our site(s). By your use of our site(s) following posted changes to this privacy policy, you signify your assent to those changes.
+<br><br>
+Our site(s) may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites.
+<br><br>
+<b>I. Information Which We Collect</b><br>
+We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
+<br><br>
+Like many other commercial sites, our site(s) may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web site(s) may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
+<br><br>
+We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site. 
+<br><br>
+We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics.
+<br><br>
+In addition, users may complete a subscription form online to subscribe to any of our affiliate news sites. To subscribe, users must submit personal information in order for us to send the newspaper to you.
+<br><br>
+<b>II. Use of User Information</b><br> 
+We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent.
+<br><br>
+<b>III. Disclosure to Third Parties</b> <br>
+We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
+<br><br>
+
+<b>III. (A) Compliance with Legal Process</b><br>
+We may disclose personal information in special cases when we believe that disclosing information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference with our site(s), anyone else who could be harmed by such activities, or where we are required to do so by court order to applicable law. We reserve the right to disclose personal information when we believe, in good faith, that the law requires it.
+<br><br>
+<b>IV. Accuracy of User Information</b><br> 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. To the extent that such information is also stored in other databases, we cannot always ensure that such correction or deletion will reach other databases. We will use all reasonable efforts to ensure that your information is removed from or correct in our records. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Laura McCabe, Executive Producer (mccabe@nbcactionnews.com), or our Webmaster (webmaster@nbcactionnews.com). You can also write us at:
+KSHB-TV<br>
+NBC Action News<br>
+4720 Oak Street<br>
+Kansas City, MO 64112<br><br>
+These privacy policies are effective as of February 1, 2003. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
+<br><br>
+<b>V. Security of Information</b><br> 
+We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
+<br><br>
+<b>VI. Opting-out</b><br> 
+At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s)). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above.
+<br><br>
+<b>VII. Use of Materials</b><br> 
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at webmaster@nbcactionnews.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please click here.
+
+
+
+</p></font></td>
+	</tr>
 </tbody></table>
-<!-- BEGIN TABLE FOR CONTENT AREA -->
-<table width="750" border="0" cellspacing="0" cellpadding="0" height="500">
-  <tbody><tr>
-    <!-- BEGIN CELL FOR LEFT SIDE CONTENT -->
-    <td width="145" valign="top" class="lnbbgcolor">
-    <img src="http://web.kmci.com/kshb/images/trans.gif" width="1" height="10"><br>
-    <table width="145" cellpadding="0" cellspacing="0" border="0" align="center">
-      <tbody><tr>
-        <td>
-        <table width="145" cellpadding="0" cellspacing="0" border="0" align="center">
-  <tbody><tr>
-    <td>
-      <table border="0" width="145" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="100%"><a href="http://www.nbcactionnews.com/kshb/home/0,1925,KSHB_9410,00.html"><img src="http://www.nbcactionnews.com/kshb/images/icons/actionnews_homelnb.gif" alt="Home" border="0" width="145" height="22"></a><br>
-          <img src="http://www.nbcactionnews.com/kshb/images/spacers/spacer.gif" width="1" height="2"></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/news/0,1925,KSHB_9418,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Action News</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/weather/0,1925,KSHB_9437,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Action Weather Plus</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/call_for_action/0,1925,KSHB_9396,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Call For Action</a></td>
-        </tr>
-       <!-- <tr>
-          <td class="subnavtext" width="100%"><a href="http://web.kshb.com/kshb/traffic/index.shtml" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;TimeSaving Traffic</a></td>
-        </tr>-->
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/nw_mondays_child/0,1925,KSHB_9425,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Monday's Child</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/nw_dont_waste_money/0,1925,KSHB_15856,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Don't Waste Your $</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/bu_business_in_action/0,2678,KSHB_21756,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Business In Action</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/lp_behind_the_wheel/article/0,1925,KSHB_19289_3707770,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Behind the Wheel</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/as_seen/0,2678,KSHB_21757,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;As Seen On NBC</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://web.kshb.com/fall_lineup.shtml" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Fall Programming</a></td>
-        </tr>
-        <tr>
-          <td class="subnavtext" width="100%"><a href="http://www.nbcactionnews.com/kshb/contact_us/0,1925,KSHB_9402,00.html" class="subnavtext" style="font-size: 11px">&nbsp;&nbsp;&nbsp;Contact Us</a></td>
-        </tr>
-        <tr>
-          <td width="100%"><img src="http://www.nbcactionnews.com/kshb/images/spacers/spacer.gif" width="1" height="2"></td>
-        </tr>
-        <tr>
-          <td width="100%" bgcolor="#F8AA03"><img src="http://www.nbcactionnews.com/kshb/images/spacers/spacer.gif" width="1" height="1"></td>
-        </tr>
-        <tr>
-          <td width="100%"><img src="http://www.nbcactionnews.com/kshb/images/spacers/spacer.gif" width="1" height="2"></td>
-        </tr>
-      </tbody></table>
 
-<table width="135" border="0" cellspacing="0" cellpadding="1" align="center">
- 
-
-       <tbody><tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://web.kshb.com/kshb/video/index.shtml" class="subnavtext">Action News Video</a></td>
-        </tr>
-        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://kshb.com/kshb/ask_the_expert/0,1925,KSHB_9384,00.html" class="subnavtext">Kansas City Live</a></td>
-        </tr>
-        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://www.nbcactionnews.com/kshb/local_programming/" class="subnavtext">Local Programming</a></td>
-        </tr>
-        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://www.nbcactionnews.com/kshb/nbc_programming/0,1925,KSHB_9415,00.html" class="subnavtext">NBC Programming</a></td>
-        </tr>
-
-        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://web.kshb.com/kshb/job_link/" class="subnavtext">Station Employment</a></td>
-        </tr><!--
-        <tr>
-          <td width="5" valign="top"><IMG src='http://www.kshb.com/kshb/images/nav/lnb_bullet.gif' width=3 height=3 vspace=3 border=0 hspace=3></td>
-          <td class="subnavtext" width="135"><a href="" class="subnavtext">Sign-Ups</a></td>
-        </tr> -->
-        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://www.nbcactionnews.com/kshb/ab_community/0,1925,KSHB_9377,00.html" class="subnavtext">Community Events</a></td>
-        </tr>
-        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://web.kshb.com/about_us.shtml" class="subnavtext">About Us</a></td>
-        </tr>
-		        <tr>
-          <td width="5" valign="top"><img src="http://www.kshb.com/kshb/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"></td>
-          <td class="subnavtext" width="135"><a href="http://web.kshb.com/advertising.shtml" class="subnavtext">Advertise with Us</a></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-        <p>
-        <!-- MaxSize (2) --></p></td>
-      </tr>
-    </tbody></table>
-    </td>
-    <!-- END OF CELL FOR LEFT SIDE CONTENT -->
-    <!-- BEGIN CELL FOR CONTENT AREA -->
-    <td width="440" valign="top">
-    <table width="440" border="0" cellspacing="0" cellpadding="12">
-      <tbody><tr valign="top">
-        <td class="bodytext">
-        <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
-          <tbody><tr>
-            <td>
-            <script language="javascript">
-				function MakeArray(n) {
-					this.length = n;
-					return this;
-				}
 	
-				// A JavaScript 1.0-compliant method of displaying the date in another timezone
-				function customDateString(siteOffset, strTz) {
-
-					// Month and Day strings
-					monthNames = new MakeArray(12);
-					monthNames[1] = "January";
-					monthNames[2] = "February";
-					monthNames[3] = "March";
-					monthNames[4] = "April";
-					monthNames[5] = "May";
-					monthNames[6] = "June";
-					monthNames[7] = "July";
-					monthNames[8] = "August";
-					monthNames[9] = "September";
-					monthNames[10] = "October";
-					monthNames[11] = "November";
-					monthNames[12] = "December";
 		
-					dayNames = new MakeArray(7);
-					dayNames[1] = "Sun";
-					dayNames[2] = "Mon";
-					dayNames[3] = "Tue";
-					dayNames[4] = "Wed";
-					dayNames[5] = "Thu";
-					dayNames[6] = "Fri";
-					dayNames[7] = "Sat";
 
-					// Set the datetime object to passed timezone adjusted for local time
-					var oneDate = new Date();
-					var utcString = oneDate.toGMTString();
-					var localValue = Date.parse(utcString);
-					var localOffset = oneDate.getTimezoneOffset() * 60 * 1000;
-					oneDate.setTime(localValue+localOffset+siteOffset);
 
-					// Get the individual time elements and format them
-					var theHour = oneDate.getHours();
-					var theMin = padString(new String(oneDate.getMinutes()), 2, "0");
-					var theDate = oneDate.getDate();
-					var theDay = dayNames[oneDate.getDay()+1];
-					var theMonth = monthNames[oneDate.getMonth() + 1];
-					var theYear = oneDate.getYear();
-
-					// Convert 24-hour clock to U.S. standard
-					var theTime = milToStd(theHour, theMin);
-		
-					// Assure a Y2K-compliant year (getFullYear fixes this in JavaScript 1.3)
-					if (theYear < 1000) {
-						theYear += 1900;
-					}
-		
-					// Return a formatted string
-					// return theDay+", "+theMonth+" "+theDate+", "+theYear+" "+theTime+" "+strTz;
-					return theDay+", "+theMonth+" "+theDate+", "+theYear;
-				}
+<p align="center">
 	
-				// Zero-pad our strings
-				function padString(strToPad, minLength, pad) {
-					var strPadded = new String;
-					for (i=strToPad.length; i<minLength; i++) {
-						strPadded += pad;
-					}
-					strPadded += strToPad;
-					return strPadded;
-				}
-	
-				// Convert 24-hour clock to U.S. standard
-				function milToStd(iHour, iMin) {
-					if (iHour >= 12) {
-						if (iHour >= 13) {
-							iHour -= 12;
-						}
-						strTime = iHour + ":" + iMin + " p.m.";
-					} else if (iHour == 0) {
-						strTime = "12:" + iMin + " a.m.";
-					} else {
-						strTime = iHour + ":" + iMin + " a.m.";
-					}
-					return strTime;
-				}
-		
-			</script>
-            <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF" height="22">
-              <tbody><tr>
-                <td valign="center">
-                <img src="http://web.kshb.com/kmci/images/trans.gif" width="8" height="8" border="0">
-                <span class="smalltext"><b>
-                <script language="javascript">
-				  var myOffset = -21600000;
-				  var myTz = "CST";
-				  document.write(customDateString(myOffset, myTz));
-				</script>Thu, January 30, 2020 | Kansas City, MO</b></span></td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td valign="top" class="bodytext">
-                <table width="100%" border="0" cellspacing="0" cellpadding="1">
-                  <tbody><tr>
-                    <td bgcolor="#000000"><span class="sectionheader2">&nbsp;Privacy 
-                    Policy</span></td>
-                  </tr>
-                </tbody></table>
-                <p><strong>NBCActionNews.com</strong> is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web 
-                 will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At 
-                  <strong>NBCActionNews.com</strong> we intend to give you as much control as possible over your personal information.</p>
-                <p></p>
-                <p>The purpose of our policy is to inform you about the types of information we gather about you when you visit our <strong>site(s)</strong>, how we may use 
-                 that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the 
-                 information. By your use of our site(s) you signify your assent to this privacy policy. If you do not assent to this privacy policy, you are not permitted to use our site(s). By your use of our site(s) following posted changes to this privacy policy, you signify your assent to those changes.</p>
-                <p>Our <strong>site(s)</strong> may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices 
-                 or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should 
-                 check the applicable privacy policy of the web site sponsor when linking to other web sites.</p>
-                <p class="headline2">I. Information Which We Collect<br>
-                 <span class="bodytext">We may request that you voluntarily supply us with personal information, including your e-mail address, postal 
-                 address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as 
-                 correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via 
-                 the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for 
-                 example -- it is our intent to let you know how we will use such information.</span></p>
-                <p>Like many other commercial sites, our <strong>site(s)</strong> may utilize a standard technology called a "cookie" to collect information about how our 
-                 site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any 
-                 preferences that may have been set while the user was browsing the site. <strong>A cookie cannot retrieve any other data from your hard drive, pass 
-                 on a computer virus, or capture your e-mail address</strong>. Our web <strong>site(s)</strong> may use cookies to enhance your visit. Cookies can securely store a 
-                 user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those 
-                 selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use 
-                 "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you 
-                 without your consent.</p>
-                <p>We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information 
-                 pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your 
-                 experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to 
-                 allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other 
-                 sites as indicated on the particular site. </p>
-                <p>We may require you to supply us with personal information (demographic information such as average age, income, education, population 
-                 data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to 
-                 register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this 
-                 general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination 
-                 of these or other demographics.</p>
-				 <p>In addition, users may complete a subscription form online to subscribe to <strong>any of our affiliate news sites</strong>. To subscribe, users must submit personal information in order for us to send the newspaper to you.</p>
-                <p class="headline2">II. Use of User Information <br>
-                 <span class="bodytext">We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest 
-                 in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to 
-                 improve the content of the web sites, to enhance users' experiences when visiting our <strong>site(s)</strong>, to customize the content and/or layout of 
-                 our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that 
-                 is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a 
-                 particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an 
-                 e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your 
-                 permission and consent.</span></p>
-                <p class="headline2">III. Disclosure to Third Parties <br>
-                 <span class="bodytext">We do not share personal identifying information with any third party without your permission. We disclose <em>only in 
-                 aggregate form</em> our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some 
-                 instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our 
-                 affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE 
-                 AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third 
-                 parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.</span></p>
-<p class="headline2">III. (A) Compliance with Legal Process<br>
-                 <span class="bodytext">We may disclose personal information in special cases when we believe that disclosing information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference with our site(s), anyone else who could be harmed by such activities, or where we are required to do so by court order to applicable law. We reserve the right to disclose personal information when we believe, in good faith, that the law requires it.</span></p>
+<script type="text/javascript" language="JavaScript">
+<!--
+adserver = "http://w10.centralmediaserver.com";
+target = "/SITE=KSHB/AREA=CCTVI.OTHER/POS=MAINBOTTOM/AFFIL=nbc/DMA=kansascity_ks/AAMSZ=300X250";
+random = Math.round(Math.random() * 100000000);
+if(!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+if(!idmAdTagCounter) var idmAdTagCounter = 1;
+else idmAdTagCounter++;
+document.write('<scr');
+document.write('ipt src="' + adserver + '/jserver/' + target + '/pageid=' + pageNum + '/acc_random=' + random + '">');
+document.write('</scr');
+document.write('ipt>');
+// --></script><script src="http://w10.centralmediaserver.com/jserver//SITE=KSHB/AREA=CCTVI.OTHER/POS=MAINBOTTOM/AFFIL=nbc/DMA=kansascity_ks/AAMSZ=300X250/pageid=6009628/acc_random=87963603"></script>
+</p>
 
-                <p class="headline2">IV. Accuracy of User Information <br>
-                 <span class="bodytext">In order to ensure the accuracy of personal information provided for registration, you may return to the 
-                 registration form online in order to change information you have provided at any time. To the extent that such information is also stored in other databases, we cannot always ensure that such correction or deletion will reach other databases. We will use all reasonable efforts to ensure that your information is removed from or correct in our records. Questions regarding our privacy policy, the accuracy 
-                 of your personal information or the use of the information collected should be directed via e-mail to 
-				Laura McCabe, Executive Producer 
-                 (<a href="mailto:mccabe@nbcactionnews.com">mccabe@nbcactionnews.com</a>), or 
-				our Webmaster (<a href="mailto:webmaster@nbcactionnews.com">webmaster@nbcactionnews.com</a>). You can also write us at:</span></p>
-                <p class="headline3">KSHB-TV<br>
-                 NBC Action News<br>
-                 4720 Oak Street<br>
-                 Kansas City, MO 64112</p>
-                <p>These privacy policies are effective as of February 1, 2003. We reserve the right to change this policy at any time, and will post any 
-                 changes to this policy as soon as they go into effect.</p>
-                <p class="headline2">V. Security of Information <br>
-                 <span class="bodytext">We use our best efforts to ensure the security of personal information submitted by users. When collecting credit 
-                 card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from 
-                 intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does 
-                 not have access to it.</span></p>
-                <p class="headline2">VI. Opting-out <br>
-                 <span class="bodytext">At any time while assessing our <strong>site(s)</strong>, any user while online may "opt-out" of further e-mail contact from us 
-                 (while still allowing access to our <strong>site(s)</strong>). For further information about opting-out, contact us at the e-mail address, postal address or 
-                 telephone number stated above.</span></p>
-                <p class="headline2">VII. Use of Materials <br>
-                 <span class="bodytext">The right to download and store or output the materials in our <strong>site(s)</strong> is granted for the user's personal use only, 
-                 and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these 
-                 materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to 
-                 obtain permission to reprint or reproduce any materials appearing on these sites may contact us at <a href="mailto:webmaster@nbcactionnews.com">webmaster@nbcactionnews.com</a>. To link to 
-                 the full Terms of Use Agreement pertaining to use of our site(s), please
-                <a href="user_agreement.shtml">click here</a>.</span></p></td>
-              </tr>
-            </tbody></table>
-            <!-- MaxSize (4) --></td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-    </tbody></table>
-    </td>
-    <!-- END OF CELL FOR CONTENT -->
-    <!-- BEGIN CELL THAT HOLDS RIGHT GUTTER INFO -->
-    <td width="165" valign="top" class="gutterbgcolor">&nbsp;
-    </td>
-    <!-- END CELL THAT HOLDS RIGHT GUTTER INFO -->
-  </tr>
-</tbody></table>
-<!-- END OF TABLE FOR CONTENT AREA -->
-<!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->
-<!-- Vignette V/5 Fri Jan 31 15:20:31 2003 -->
-<link rel="stylesheet" href="http://www.kshb.com/kshb/cda/styles/main">
-<table width="750" border="0" cellspacing="0" cellpadding="10" bgcolor="#000000">
-  <tbody><tr>
-    <td class="footertext" width="30"><a href="http://www.scripps.com" target="_blank"><img src="http://www.nbcactionnews.com/kshb/images/temp/scripp302.gif" width="27" height="26" hspace="0" vspace="2" border="0"></a></td>
-    <td class="footertext">© 2003 - 2006 The E.W. Scripps Co.<br>
-    <a href="http://web.kshb.com/privacy_policy.shtml" class="footertext"><b>Privacy Policy</b></a> | 
-    <a href="http://web.kshb.com/user_agreement.shtml" class="footertext"><b>User Agreement</b></a><br>
-    EEO Public File: <a class="footertext" href="http://web.kshb.com/eeo/2004.pdf" target="_blank"><b>2004</b></a> | 
-     <a class="footertext" href="http://web.kshb.com/eeo/2005.pdf" target="_blank"><b>2005</b></a> |
-     <a class="footertext" href="http://web.kshb.com/eeo/2006.pdf" target="_blank"><b>2006</b></a></td>
-    <td><center>
-    <table width="100%" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        <td width="10"><img src="http://web.kshb.com/kshb/images/trans.gif" width="10" height="1"></td>
-        <td class="footertext" align="center"><a href="http://www.diynet.com" class="footertext" target="_blank">
-        <img src="http://web.kshb.com/kshb/images/footer_diy.jpg" border="0" width="50" height="26"><br>
-        DIY Network</a></td>
-        <td width="10"><img src="http://web.kshb.com/kshb/images/trans.gif" width="10" height="1"></td>
-        <td class="footertext" align="center"><a href="http://www.fineliving.com" class="footertext" target="_blank">
-        <img src="http://web.kshb.com/kshb/images/footer_fineliving.jpg" border="0" width="57" height="26"><br>
-        Fine Living</a></td>
-        <td width="10"><img src="http://web.kshb.com/kshb/images/trans.gif" width="10" height="1"></td>
-        <td class="footertext" align="center"><a href="http://www.foodtv.com" class="footertext" target="_blank">
-        <img src="http://web.kshb.com/kshb/images/footer_foodnetwork.jpg" border="0" width="47" height="26"><br>
-        Food Network</a></td>
-        <td width="10"><img src="http://web.kshb.com/kshb/images/trans.gif" width="10" height="1"></td>
-        <td class="footertext" align="center"><a href="http://www.hgtv.com" class="footertext" target="_blank">
-        <img src="http://web.kshb.com/kshb/images/footer_hgtv.jpg" border="0" width="47" height="26"><br>
-        HGTV</a></td>
-        <td width="10"><img src="http://web.kshb.com/kshb/images/trans.gif" width="10" height="1"></td>
-      </tr>
-    </tbody></table>
-    </center></td>
-  </tr>
-  <tr>
-    <td class="footertext" colspan="3" align="center">Comparison Shop for <a class="navbartext2" href="http://www.shopzilla.com/7X--Cosmetics_-_cat_id--95__rf--shb001" title="Cosmetics"><b>Cosmetics</b></a> and <a class="navbartext2" href="http://www.shopzilla.com/8B--Bedroom_-_cat_id--13170104__rf--shb001" title="Bedroom Furniture"><b>Bedroom Furniture</b></a> at <a class="navbartext2" href="http://www.shopzilla.com/index.xpml?rf=shb001" title="Shopzilla"><b>Shopzilla</b></a> &amp; 
+
+</div>
+
+		<div id="FooterAd">
+			
+<script type="text/javascript" language="JavaScript">
+<!--
+adserver = "http://w10.centralmediaserver.com";
+target = "/SITE=KSHB/AREA=CCTVI.OTHER/POS=FOOTER/AFFIL=nbc/DMA=kansascity_ks/AAMSZ=728X90";
+random = Math.round(Math.random() * 100000000);
+if(!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+if(!idmAdTagCounter) var idmAdTagCounter = 1;
+else idmAdTagCounter++;
+document.write('<scr');
+document.write('ipt src="' + adserver + '/jserver/' + target + '/pageid=' + pageNum + '/acc_random=' + random + '">');
+document.write('</scr');
+document.write('ipt>');
+// --></script><script src="http://w10.centralmediaserver.com/jserver//SITE=KSHB/AREA=CCTVI.OTHER/POS=FOOTER/AFFIL=nbc/DMA=kansascity_ks/AAMSZ=728X90/pageid=6009628/acc_random=8969417"></script>
+		</div>
+		<div id="CommonContentFooter"></div>
+	</div>
+	<div id="CommonFooter">
+		<div id="ScrippsFooter">
+			<div class="Logo">
+				<a href="http://www.scripps.com"><img src="http://www.nbcactionnews.com/sites/scripps/images/footer/lighthouse.jpg" alt="Scripps"></a>
+			</div>
+			<div class="Copyright">
+				© 2007 The E.W. Scripps Co.<br>
+				<strong><a href="/legal/default.aspx">Privacy Policy</a> | <a href="/legal/default.aspx">User Agreement</a> | <a href="/sites/KSHB/eeo/2006.pdf" target="_new">EEO</a></strong>
+			</div>
+			<div class="Partners">
+				<div class="Row1">
+					<a href="http://www.hgtv.com" target="_blank"><img src="http://www.nbcactionnews.com/sites/scripps/images/footer/hgtv.jpg" alt="Home and Garden Network"></a>
+					<a href="http://www.foodnetwork.com" target="_blank"><img src="http://www.nbcactionnews.com/sites/scripps/images/footer/food.jpg" alt="Food Network"></a>
+					<a href="http://www.diynet.com" target="_blank"><img src="http://www.nbcactionnews.com/sites/scripps/images/footer/diy.jpg" alt="Do It Yourself Network"></a>
+					<a href="http://www.fineliving.com" target="_blank"><img src="http://www.nbcactionnews.com/sites/scripps/images/footer/fineliving.jpg" alt="Fine Living Network"></a>
+					<a href="http://www.gactv.com/" target="_blank"><img src="http://www.nbcactionnews.com/sites/scripps/images/footer/gac.jpg" alt="Great American Country"></a>
+				</div>
+				<div class="Row2">
+					Comparison Shop for 
+					<a href="http://www.bizrate.com/cosmetics/__rf--shb001.html" title="Cosmetics" target="_new"><b>Cosmetics</b></a> and 
+					<a href="http://www.bizrate.com/handbags_luggage/__rf--shb001.html" title="Handbags" target="_new"><b>Handbags</b></a> at 
+					<a href="http://www.shopzilla.com/index.xpml?rf=shb001" title="Shopzilla" target="_new"><b>Shopzilla</b></a> &amp; 
+					<a href="http://www.bizrate.com/index__rf--shb001.html" target="_new" title="BizRate.com" rel="nofollow"><b>BizRate</b></a>
+				</div>
+				<div class="Row3">
+					<a href="http://www.uswitch.com/" target="_blank">uSwitch.com</a> compares <a href="http://www.uswitch.com/Energy/Index.aspx" target="_blank">gas &amp; electricity</a>, <a href="http://www.uswitch.com/Home-Phone/Index.aspx" target="_blank">home phone</a>, <a href="http://www.uswitch.com/Mobiles/index.aspx" target="_blank">mobile phones</a>, <a href="http://www.uswitch.com/Broadband/Index.aspx" target="_blank">broadband</a>, <a href="http://www.uswitch.com/CreditCards/index.aspx" target="_blank">credit cards</a>, <a href="http://www.uswitch.com/Loans/Index.aspx" target="_blank">loans</a> and <a href=" http://www.uswitch.com/Car-Insurance/Index.aspx" target="_blank">car insurance</a> 
+				</div>
+			</div>
+		</div>
+		<div id="InergizeFooter">
+			<a href="http://www.inergizedigitalmedia.com" target="_new"><img src="http://www.nbcactionnews.com/images/inergize_logo_copyright.png" border="0"></a>&nbsp;&nbsp;This site is hosted and managed by <a href="http://www.inergizedigitalmedia.com" target="_new">Inergize Digital Media</a>.
+		</div>
+	</div>
+</div>
+
+
 
 <script type="text/javascript">
-<!-- 
-document.write('<a href="http://' + 'www.bizrate' + '.com/index__rf--shb001.html" class="navbartext2" target="_new" title="BizRate.com" rel="nofollow"><b>BizRate</b></a>'); 
-//--> 
-</script><a href="http://www.bizrate.com/index__rf--shb001.html" class="navbartext2" target="_new" title="BizRate.com" rel="nofollow"><b>BizRate</b></a></td>
-  </tr>
-</tbody></table>
-<!-- MaxSize (1) -->
-<!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
-<!-- Layer tag to support Netscape 4.x for HTML included job ads in gutter -->
-<iframe width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=KSHB&amp;vgncontent=TOP_JOBS&amp;Section=top_jobs&amp;PagePos=2">
-<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=KSHB&vgncontent=TOP_JOBS&Section=top_jobs&PagePos=2">
-</script></iframe>
-
-
+<!--
+Sys.Application.initialize();
+// -->
+</script>
+</form>
 
 </body></html>
