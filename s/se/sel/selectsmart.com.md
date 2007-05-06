@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the selectsmart.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215138id_/http%3A//selectsmart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectsmart.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506164311id_/http%3A//selectsmart.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
 **Privacy Statement**   
-We respect your privacy. At SelectSmart.com your individual opinions are private, unless you share them in our [discussion groups](http://www.selectsmart.com/DISCUSS). SelectSmart.com does not collect or store any individual's information or opinions. Creators of [free selectors](http://www.selectsmart.com/FREE) have the option of collecting results with the participant's permissions. We certainly do not share nor sell email addresses, names or other information. Please note that we link to other sites that we deem of value. These sites may or may not have the same views of privacy as SelectSmart.com. 
+We respect your privacy. Your individual opinions are private, unless you share them in our [discussion groups](http://www.selectsmart.com/DISCUSS). We do not collect or store any individual's information or opinions. Creators of [free selectors](http://www.selectsmart.com/FREE) have the option of collecting results with the participant's permissions. We certainly do not share nor sell email addresses, names or other information. Please note that we link to other sites that we deem of value. These sites may or may not have the same views of privacy as SelectSmart.com, SelectPoll.com and YouDebateIt.com. 
 
-SelectSmart.com works with third parties that serves ads to this site. 
+We work with third parties that serves ads to this site. 
 
 * * *
 
   
 Third Party Advertising   
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here.](http://www.networkadvertising.org/optout_nonppii.asp)
+We use ValueClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
 Third Party Cookies   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 * * *
 
@@ -32,7 +32,7 @@ Our selectors use a numeric point system. If an item has a trait or characterist
   
 We are dedicated to continuous improvement. Please notify us if you have corrections or suggestions. 
 
-[Send your comments or questions to Curt Anderson of SelectSmart.com. ](mailto:anderson@SelectSmart.com)
+[Send your comments or questions to Curt Anderson of SelectSmart.com. ](mailto:Staff@SelectSmart.com)
 
-**Copyright © 1999-2001 SelectSmart.com  
+**Copyright © 1999-2007 SelectSmart.com  
 All Rights Reserved **
