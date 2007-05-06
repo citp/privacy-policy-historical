@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184246id_/http%3A//www.cleartrip.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506182024id_/http%3A//www.cleartrip.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Cleartrip Privacy Policy
 
@@ -10,4 +10,4 @@ If you provide unique identifying information, such as name, address and other i
 
 Any personally identifiable information you submit while booking with Cleartrip will ONLY be disclosed to travel suppliers who are linked to your bookings. We will not disclose, sell, share or in any way reveal your information to any other third party.
 
-We assume no responsibility for the security of this information and shall not be held liable or responsible to bear or pay any monies to any person whatsoever from our usage of the information made available to us on this Site.
+We want you to feel confident about using Cleartrip.com to plan and purchase your travel, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. 
