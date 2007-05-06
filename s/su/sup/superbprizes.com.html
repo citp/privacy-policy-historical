@@ -1,0 +1,1093 @@
+<!--The following is the downloaded HTML source of the superbprizes.com privacy policy that was archived on 2007-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070506164634id_/http%3A//superbprizes.com/pp%3Bjsessionid%3D0D1203D20BD0C5D837F6B6FFA1F96E84.wwx01-1ws17.web%3FJSESSIONID%3D0D1203D20BD0C5D837F6B6FFA1F96E84.wwx01-1ws17.web) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>Superb Prizes</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.5335.5" name="GENERATOR">
+
+
+<style>
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+  	font-size: 12px;
+  	font-family: arial;
+  	color: #222222;
+  	background: #f7c71d url( http://sites-01.net-blue.net/superbprizes_sitebody_bg.gif ) top left repeat-x;
+  	width: 100%;
+}
+
+a {  
+  	color: #0000FF;  
+  	font-size: 12px; 
+  	font-family: arial;
+  	text-decoration: underline  
+}
+
+.container {
+	margin-top:  0px;
+	margin-bottom:  20px;
+	margin-left:  auto;
+	margin-right:  auto;
+	
+	border-top:  solid 0px black;
+	border-bottom:  solid 0px black;
+	border-left:  solid 0px black;
+	border-right:  solid 0px black;
+	
+}
+
+.strike { 
+	text-decoration: line-through; 
+}
+
+.red { 
+	color: red;
+}
+
+.redbold { 
+	color: red;
+  font-weight: bold;
+}
+
+.clear { 
+clear: both;
+margin-top: -1px;
+height: 1px;
+width: 1px;
+overflow: hidden;
+}
+
+.onFocus {
+	border: solid 2px #55D4FF;
+	background-color: #FFFFD4;
+}
+
+.onBlur {
+	border: solid 1px #c1c1c1;
+	background-color: white;
+}
+
+.onError {
+	border: solid 2px red;
+	background-color: #FFCFCF;
+}
+
+</style>
+
+<script>
+function $() {
+  var elements = new Array();
+
+  for (var i = 0; i < arguments.length; i++) {
+    var element = arguments[i];
+    if (typeof element == 'string')
+      element = document.getElementById(element);
+
+    if (arguments.length == 1)
+      return element;
+
+    elements.push(element);
+  }
+
+  return elements;
+}
+
+var actionTakenFlag = 0;
+
+function actionTaken(flagValue){
+	if(flagValue == ''){
+		alert("flag value not defined.");
+	}
+	else{
+	actionTakenFlag = flagValue;
+	}
+}
+
+var onloads = new Array();
+var onunloads = new Array();
+var onsubmits = new Array();
+var validateStack = new Array();
+
+function bodyOnLoad() {
+
+	for ( var i = 0 ; i < onloads.length ; i++ )
+		onloads[i]();
+}
+
+function bodyOnUnLoad()  {
+    for ( var i = 0; i < onunloads.length; i++ )
+        onunloads[i]();
+}
+
+
+function changeEventClass( object, mode ) {
+	if( mode == 'focus' ) {
+		object.style.borderColor = "#5BFF02";
+		object.style.backgroundColor = "#FFFFD4";
+	}
+	
+	if( mode == 'blur' ) {
+		object.style.borderColor = object.orgBorderColor;
+		object.style.backgroundColor = object.orgBackgroundColor;
+	}
+	
+	if( mode == 'error' ) {
+		object.style.borderColor = "red";
+		object.style.backgroundColor = "#FFCFCF";
+	}
+	
+}
+
+function init() {
+if (document.getElementsByTagName("form").length > 0) {
+  var forms = document.getElementsByTagName("form");
+
+for (var i=0; i<forms.length; i++) {
+  var formName = forms[i].name;
+	var formObj = $(formName);
+
+  if (typeof formName == 'object'){
+    formName = forms[i].id;
+  }
+	var formObj = $(formName);
+	var msg = '';
+  var funcName;
+	if( formObj ) {
+		formObj.onsubmit = function() {
+      if (this.name == "theForm") {
+        funcName = "validateForm()";
+      } else if (this.name == "QStheForm") {
+        funcName = "QSValid()";
+      } else if (this.name == "BWtheForm") {
+        funcName = "BWValid()";
+      } else if (this.id == "CUtheForm") {
+        funcName = "validateContactUs()";
+      } else {
+        funcName = "validateForm()";
+      }
+			msg = eval(funcName);
+			if( msg != '' ){
+				alert( msg );
+				return false;
+			}
+			actionTaken(2);
+	  	for ( var i = 0; i < onsubmits.length; i++ ) {
+	  		onsubmits[i]();
+			}
+	  return true;	
+	  };
+  }
+}
+} 
+	
+if (document.getElementsByTagName("input").length > 0){
+	var inputs = document.getElementsByTagName("input");
+	for( var i=0; i<inputs.length; i++ ) {
+	
+		if( inputs[i].type != "button" && inputs[i].type != "submit" &&
+			inputs[i].type != "image" && inputs[i].type != "radio" ) {
+			
+			inputs[i].orgBorderColor = inputs[i].style.borderColor;
+			inputs[i].orgBackgroundColor = inputs[i].style.backgroundColor;
+			
+			inputs[i].onfocus = function() {
+				changeEventClass( this, 'focus' );
+				
+			};
+
+			
+		}
+
+	}
+} 	
+if (document.getElementsByTagName("select").length > 0) {
+	var selects = document.getElementsByTagName("select");
+	for( var i=0; i<selects.length; i++ ) {
+		
+		selects[i].orgBorderColor = selects[i].style.borderColor;
+		selects[i].orgBackgroundColor = selects[i].style.backgroundColor;
+		
+		selects[i].onfocus = function() {
+			changeEventClass( this, 'focus' );
+		};
+
+	}
+} 
+if (document.getElementsByTagName("a").length > 0) {
+	var links = document.getElementsByTagName("a");
+  for( var i=0; i<links.length; i++ ) {
+
+      links[i].onclick = function() {
+        actionTaken(1);
+
+      };
+
+  }
+
+
+
+}
+} 
+onloads.push(init);
+
+function validateForm() {
+	var validated = 'Please correct the following errors:\n';
+	var errMsg = '';
+	for ( var i = 0; i < validateStack.length; i++ ) {
+		
+		//if ( errMsg != '' )
+			//break;
+			
+		errMsg = errMsg + validateStack[i]();
+	
+	}
+	
+	if ( errMsg == '' )
+		return '';
+	else 
+		return validated + errMsg;
+}
+
+window.onload = bodyOnLoad;
+window.onunload = bodyOnUnLoad;
+
+function popDiv(ele, name, opacity) {
+	if( $(name) != undefined ) {
+		$(name).style.display = 'block';
+		return;
+	}
+
+	var pop = document.createElement('div');
+	pop.id = name;
+	pop.name = name;
+	
+	var popHeader = document.createElement('div');
+	popHeader.id = "popHeader";
+	pop.appendChild(popHeader);
+	
+	var headerText = document.createTextNode("This is a pop up div with the product image: ");
+	popHeader.appendChild(headerText);
+	
+	var popImg = document.createElement('img');
+	popImg.src = "http://sites-01.net-blue.net/xbox.gif";
+	pop.appendChild(popImg);
+
+	pop.style.display = 'block';
+	
+	pop.style.left = '280px';
+	pop.className = "popClass";
+	
+ if (navigator.appName.indexOf("Netscape")!=-1
+  &&parseInt(navigator.appVersion)>=5)
+    pop.style.MozOpacity=.7;
+	
+	$('info').appendChild(pop);
+	
+
+}
+
+function hideDiv(name) {
+	$(name).style.display = 'none';
+
+}
+
+
+function partnerWindow(adTagId, width, height, poptype, scrollable, resizable, left, top) {
+  var url = "adTagId=" + adTagId;
+  var newurl = "offerClick;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web";
+  if (newurl.search(/\?/) == -1) {
+    newurl = newurl + "?" + url ;
+   }
+  else {
+    newurl = newurl + "&" + url;
+  }
+	openWindow(newurl,"",width,height,poptype,scrollable,resizable,left,top);
+}
+function fopWindow(adTagId) {
+  var url = "adTagId=" + adTagId; 
+  var newurl = "offerClick;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web";
+  if (newurl.search(/\?/) == -1) {
+    newurl = newurl + "?" + url ;
+   }
+  else {
+    newurl = newurl + "&" + url;
+  }
+  window.open(newurl);
+}
+function popupInstruction(adTagId, width, height, poptype, scrollable, resizable, left, top) {
+	var url = "adTagId=" + adTagId;
+  var newurl = "notice;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web";
+  if (newurl.search(/\?/) == -1) {
+    newurl = newurl + "?" + url ;
+   }
+  else {
+    newurl = newurl + "&" + url;
+  }
+	openWindow(newurl,"",width,height,poptype,scrollable,resizable,left,top);
+}
+
+function blankField(fIn) {
+  f=document.getElementById(fIn);
+  var at='@';
+  if (f.value.match(at) == null) {
+    f.value = '';
+  }
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function slAgreeChecked() {
+  object = $('agree');
+
+  if( object.checked == false ) {
+    return '* Please check the box to agree\n';
+  } else {
+    return '';
+  }
+}
+
+function slSetSelectedPromotion( promoId ) {
+  $('selectedPromotion').value = promoId;
+}
+
+
+function goToRegistrationPage(pageType, destID, adTagId) {
+    if (document.promotions.selectedPromotion) {
+      var sP = document.promotions.selectedPromotion.value;
+    } else {
+      var sP = "";
+    }
+
+  if (pageType == "home") {
+    var url = "id=" + destID + "&adTagId=" + adTagId + "&selectedPromotion=" + sP;
+    var newurl = "dest;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web";
+  } else {
+    var url = "adTagId=" + adTagId + "&selectedPromotion=" + sP;
+    var newurl = "landOC;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web";
+  }
+  if (newurl.search(/\?/) == -1) {
+    newurl = newurl + "?" + url ;
+   }
+  else {
+    newurl = newurl + "&" + url;
+  }
+location=newurl;
+}
+
+
+function onOfferChoiceOfferclick (adTagId) {
+ 
+  
+  
+
+
+    if (document.promotions.selectedPromotion) {
+      var sP = document.promotions.selectedPromotion.value;
+    } else {
+      var sP = "";
+    }
+
+  var url = "adTagId=" + adTagId + "&selectedPromotion=" + sP;
+  var newurl = "cdrOfferClick;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web";
+  if (newurl.search(/\?/) == -1) {
+    newurl = newurl + "?" + url ;
+   }
+  else {
+    newurl = newurl + "&" + url;
+  }
+  openWindow(newurl,"","800","520","maxUnder","yes","yes","0","0");
+
+}
+
+function noPromoSelected () {
+  }
+
+function emailValid(x) {
+  if (x === undefined) {
+     object = $('email');
+  }
+  else {
+    object = x;
+  }
+
+
+  if ( object.value == '' ) {
+                changeEventClass( object, 'error');
+    return '* Please enter email\n';
+  }
+
+  if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(object.value)) {
+    return '';
+  }
+  else {
+                changeEventClass( object, 'error');
+    return '* Please enter valid email\n';
+  }
+        changeEventClass( object, 'error');
+  return '* Email is not valid\n';
+
+}
+
+function zipValid() {
+        object = $('zip');
+        validString = /^\d{5}$/;
+
+        if ( object.value == '' ) {
+                changeEventClass( object, 'error');
+                return '* Please enter zip code\n';
+        }
+
+        if ( object.value.length < 5 || !validString.test( object.value ) ) {
+                changeEventClass( object, 'error');
+                return '* Please enter valid zip code\n';
+        }
+
+        changeEventClass( object, 'focus');
+        return '';
+}
+
+
+function productValid() {
+        object = $('product');
+
+        if( object.value == '' ) {
+                changeEventClass(object, 'error');
+                return '* Please select a product\n' ;
+        }
+        else return '';
+}
+
+
+function openWindow(url,name,w,h,popType,scrollable,resizable,winLeft,winTop) {
+  // Adjust width and height for browser border dimensions.
+  // Set left and top to zero for max windows
+  if (popType == "maxOver" || popType == "maxUnder") {
+    w = screen.availWidth - 8;
+    h = screen.availHeight - 36;
+    winLeft = 0;
+    winTop = 0;
+  }
+  // Adjust 'left' position if taskbar is along side instead of at bottom
+  if ( (screen.width != screen.availWidth) && (winLeft < (screen.width - screen.availWidth)) ) {
+    winLeft = winLeft + (screen.width - screen.availWidth);
+  }
+  // Now pop the window
+  winPop = window.open(url,name,"width="+w+",height="+h+",scrollbars="+scrollable+",resizable="+resizable+",left="+winLeft+",top="+winTop);
+  // If window is designated as 'under' make it so
+  if (popType == "under" || popType == "maxUnder") {
+    if (winPop){
+			winPop.blur();
+			this.focus();
+		}
+  }
+}
+
+function callFunctionBonusWindow() {
+  
+  
+  
+
+  openWindow("bonusOffer;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web&page_type=privacy policy","BonusGifts","800","800","over","no","yes","0","0");
+}
+
+
+
+function actionTest(url, name, width, height, poptype, scrollable, resizable, left, top){
+	if ( actionTakenFlag == 0){
+		openWindow(url,name,width,height,poptype,scrollable,resizable,left,top);
+	}
+	else{
+	}
+}
+
+function callFunctionOnload(){
+
+
+
+}
+
+function callFunctionOnunload(){
+
+
+
+
+}
+
+function callFunctionOnsubmit(){
+
+
+}
+
+function callFunctionOnclick(adTagId){
+
+       
+  
+  
+
+       fopWindow(adTagId);
+
+          
+  
+  
+
+       popupInstruction(adTagId, "500", "400", "over", "yes", "yes", "200", "200");
+   
+}
+
+function callFunctionBonusOnclick(adTagId){
+ 
+  
+  
+
+ partnerWindow(adTagId,"800","600","over","yes","yes","0","0");
+}
+
+
+
+
+
+
+
+		
+		
+		
+
+
+
+
+
+</script>
+<script language="javascript" type="text/javascript">
+String.prototype.trim = function() {
+	return this.replace(/^\s+|\s+$/g,"");
+};
+</script>
+
+
+</head>
+
+<body>
+
+<iframe name="sites-pixel" src="pixel;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web" width="0" height="0" scrolling="no" noresize="" frameborder="0"></iframe>
+
+    <div class="container" align="center">
+        <script language="javascript">
+
+// Validate login form with email and password
+
+var Email = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+var validated = 'Please correct the following errors:\n';
+var errMsg = '';
+
+
+function validateEmailField(object,text) {
+  if (object.value == "")
+  {
+    errMsg = text + " address\n";
+    //object.focus();
+    changeEventClass(object, 'error');
+    return errMsg;
+  }
+
+  if ( (object.value.match( Email ) == null) || (object.value.length < 3) )
+  {
+    errMsg = text + " address in the form: yourname@yourdomain.com\n";
+    //object.focus();
+    changeEventClass(object, 'error');
+    return errMsg;
+  }
+  return '';
+}
+
+function validatePasswordField(object,text) {
+  if (object.value == "")
+  {
+    errMsg = text + "\n";
+    //object.focus();
+    changeEventClass(object, 'error');
+    return errMsg;
+  }
+  return '';
+}
+
+function validateNameField(object,text) {
+  if (object.value == "")
+  {
+    errMsg = text + "\n";
+    //object.focus();
+    changeEventClass(object, 'error');
+    return errMsg;
+  }
+  return '';
+}
+
+function validateBodyField(object,text) {
+  if (object.value == "")
+  {
+    errMsg = text + "\n";
+    //object.focus();
+    changeEventClass(object, 'error');
+    return errMsg;
+  }
+  return '';
+}
+
+function validateLogin(){
+  errMsg =          validateEmailField(document.theForm.email,"* Your email ");
+  errMsg = errMsg + validatePasswordField(document.theForm.password,"* Your password");
+if (errMsg == '')
+	alert (validated + "Invalid email or password");
+else
+	alert (validated + errMsg);
+  return true;
+}
+
+function validateAccountSetup(){
+  errMsg =          validateEmailField(document.theForm.email,"* Your email");
+  errMsg = errMsg + validatePasswordField(document.theForm.password,"* Your password");
+  errMsg = errMsg + validatePasswordField(document.theForm.password2,"* Your password again");
+
+  return true;
+}
+
+function validatePasswordSetup(){
+  errMsg =          validateEmailField(document.theForm.email,"* Your email");
+  errMsg = errMsg + validateEmailField(document.theForm.email2,"* Your email again");
+
+  return true;
+}
+
+function validateContactUs(){
+  errMsg =          validateNameField(document.CUtheForm.name,"* Your name");
+  errMsg = errMsg + validateEmailField(document.CUtheForm.email,"* Your email");
+  errMsg = errMsg + validateBodyField(document.CUtheForm.body,"* Your comments");
+
+  if (errMsg == '')
+		return '';
+  else
+    return validated + errMsg;
+}
+
+function validateProductDetails(){
+  errMsg =          validateEmailField(document.theForm.email,"* Your email ");
+  if (errMsg == '')
+		return '';
+  else
+    return errMsg;
+}
+
+</script>
+    
+<style>
+.cloudLeftCol {
+    background-image: url('');
+	text-align: left;
+	background-repeat: no-repeat;
+	background-color: ;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+.cloudRightCol {
+    background-image: url('');
+	text-align: left;
+	background-repeat: no-repeat;
+	background-color: ;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+.cloudMidCol {
+    background-image: url('http://sites-01.net-blue.net/superbprizes_midCol_bg.gif?key=cloudMidCol.background-image');
+	background-repeat: repeat;
+	background-color: white;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+.cloudMidCol2 {
+    background-image: url('');
+	background-repeat: no-repeat;
+	background-color: ;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+.cloudMidCol3 {
+    background-image: url('');
+	background-repeat: no-repeat;
+	background-color: ;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+.cloudMidCol4 {
+    background-image: url('');
+	background-repeat: no-repeat;
+	background-color: ;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+.cloudMidCol5 {
+    background-image: url('');
+	background-repeat: no-repeat;
+	background-color: ;
+	border-left: ;
+	border-right: ;
+	border-top: ;
+	border-bottom: ;
+}
+
+</style>
+
+
+<div align="center">
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="750px" height="">
+<tbody><tr><td colspan="3">  <style>
+
+.header1aLinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-align: ;
+	padding-top: ;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	
+}
+.header1aLinks a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.header1aLinks a:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.header1aLinks a:link{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.header1aLinks a:active{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.header1aMenu {
+    background-image: url('http://sites-01.net-blue.net/superbprizes_header1aBg.jpg?key=header1aBg');
+	text-align: right;
+	height: 72px;
+	background-repeat: no-repeat;
+  padding: ;
+}
+
+.header1bLinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-align: ;
+	
+}
+.header1bLinksHover a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.header1bLinksVisited a:visited{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.header1bLinksLink a:link{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.header1bLinksActive a:active{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.header1bMenu {
+    background-image: url('http://sites-01.net-blue.net/superbprizes_header1bBg.jpg?key=header1bBg');
+	height: 37px;
+	background-repeat: no-repeat;
+  padding: ;
+}
+.iogHeaderContainer {
+	position: relative;
+}
+.headerLogo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+</style>
+
+		<div class="iogHeaderContainer">
+  <table width="750px" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td align="left" valign="bottom" class="header1aMenu">
+		  <div class="headerLogo"><a href="home;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web"><img src="http://sites-01.net-blue.net/pixel.gif?key=spacer" width="160" height="140" alt="" border="0"></a></div>
+			<div class="header1aLinks">
+		  </div></td>
+    </tr>
+	<tr>
+    <td valign="bottom" class="header1bMenu" align="right">
+			<table height="29px" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td>
+					<a href="home;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web" id="headerButton1">
+						<img id="headerButton1" src="http://sites-01.net-blue.net/superbprizes_home_button.gif?key=headerButton1" border="0"></a></td>
+				<td>
+					<a href="au;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web" id="headerButton2">
+						<img id="headerButton2" src="http://sites-01.net-blue.net/superbprizes_about_button.gif?key=headerButton2" border="0"></a></td>
+				<td>
+					<a href="account;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web" id="headerButton3">
+						<img id="headerButton3" src="http://sites-01.net-blue.net/superbprizes_myaccount_button.gif?key=headerButton3" border="0"></a></td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+    <td><img id="header1cImage" src="http://sites-01.net-blue.net/superbprizes_header1cImage.jpg?key=header1cImage" border="0"></td>
+	</tr>
+	</tbody></table></div>
+
+
+
+</td></tr>
+<tr>
+<td width="750px" height="" valign="top" class="cloudMidCol" align="center">  <style>
+
+.privacyPolicy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	padding-left: ;
+	padding-right: ;
+}
+
+.privacyPolicyHeading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.privacyPolicySubHeading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.privacyPolicyTableHeading {
+	font-family: ;
+	font-size: ;
+	color: ;
+	font-weight: ;
+	text-decoration: ;
+}
+
+.privacyPolicyContentOuterTable {
+  border-top: ;
+  border-left: ;
+  border-right: ;
+  border-bottom: ;
+  margin-right: ;
+  background: ;
+}
+
+</style>
+
+	
+
+  <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0" class="privacyPolicyContentOuterTable">
+    <tbody><tr>
+      <td width="4"><img src="http://sites-01.net-blue.net/blank.gif" width="1" height="1" border="0"></td>
+      <td width="700px" colspan="2">
+   
+      <!-- Start main content -->
+
+<table cellpadding="0" cellspacing="0" height="" width="500" align="center" border="0">
+<tbody><tr><td>&nbsp;</td></tr>
+<tr>
+	<td>
+		<table cellpadding="0" cellspacing="0" border="0" width="500">
+		<tbody><tr><td>
+      <b class="privacyPolicyHeading">Privacy Policy</b><br><br> <div class="privacyPolicy"> Thank you for visiting the privacy policy page Superb Prizes (the "Site"). Superb Prizes takes privacy seriously, and wants you to feel comfortable using the Site.  This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our terms of use. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our terms of use. If you do not agree to this Privacy Policy or our terms of use, please do not use or visit this Site, and do not disclose any information to us. This Privacy Policy does not apply to other online or offline Superb Prizes sites, products or services.  <br><br> <b>Changes to Privacy Policy</b> <br> If we change this Privacy Policy, we will notify you by posting the revised privacy policy on the Site. It is your responsibility to periodically revisit the Site.  We may also notify you by sending you an email notification to the email address that you provided to us. It is your responsibility to provide us with your current email address. If we revise our Privacy Policy to broaden our use of your personal information, you may contact us at the address below to request that we either refrain from using your personal information or destroy your personal information.  <br><br> <b>Collection of Personal Information</b> <br> Each time you provide information to take advantage of a promotional offer, enter to win a contest, send us an email, or otherwise transmit information via the Site, Superb Prizes may obtain and collect personally identifiable information including (but not limited to) your name, email address, mailing address, and telephone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, such as your gender, birthday, marital status, and education level (collectively with the personally identifiable information, "personal information"). If you choose to use our services, we may require you to provide information as indicated on the forms throughout the Site.  <br><br> <b>Use of Personal Information</b> <br> Superb Prizes may always use and share with others your personal information: <br><br> <ul> <li class="privacyPolicy">to enable us to generally respond to you, or to process, validate and verify requests and/or purchase orders; </li> <li class="privacyPolicy">to fulfill any of your requests;</li> <li class="privacyPolicy">to send information to you about additional goods or services;</li> <li class="privacyPolicy">to compile and/or distribute information about our website users and usage patterns;</li> <li class="privacyPolicy">to provide useful information to our website designers for developing new features and services;</li> <li class="privacyPolicy">to tailor your experience on our websites, e.g., showing content that we believe may interest you or altering the content based on your personal preferences; and in any way we deem advisable to provide better goods or services to our customers.</li> </ul> <br> Superb Prizes may also use personal information for any marketing and survey purpose on behalf of itself and its affiliates and subsidiaries. Superb Prizes may disclose personal information to third party agents and independent contractors that help us conduct our marketing and survey efforts. Further, Superb Prizes may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to Superb Prizes. Finally, if Superb Prizes or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets.  <br><br> Additionally, Superb Prizes will use or disclose your personal information under the following circumstances: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with Superb Prizes; (3) we believe you will harm the property or rights of Superb Prizes or those of Superb Prizes's other customers, (4) we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Superb Prizes's terms of use, or as otherwise required by law, or (5) personal information may also be shared with or sold to any successor to, or purchaser of, part or all of the assets of Superb Prizes.  <br><br> <b>Opting-Out</b> <br> Superb Prizes members are automatically opted-in to receive Superb Prizes newsletters and offer e-mails at the time of enrollment. You may opt-out by visiting the unsubscribe page.  <br><br> <b>Canceling Membership</b> <br> You may cancel your Superb Prizes membership at any time by visiting the unsubscribe page. If you decide to cancel your membership and later wish to re-enroll, you will not receive credit gifts earned using your previous account. Superb Prizes reserves the right to terminate or suspend any account at any time with or without notice. Superb Prizes does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or Superb Prizes.  <br><br> <b>Cookies</b> <br> "Cookies" are a feature on your browser software. If enabled, cookies may store small amounts of data on your computer about your visit to any of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this Site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this Site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set.  <br><br> <b>IP Addresses</b> <br> We automatically track certain information based upon your behavior on the Site. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages.  <br><br> <b>Computer Profiles</b> <br> Superb Prizes may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, Superb Prizes may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. Unless you provide us with personally identifiable information, we will not use such visitor data to identify you.  <br><br> <b>Links and Companies providing Offers</b> <br> This Privacy Policy applies only to the Site. The Site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of a promotional offer, you will be directed to the web sites of our marketing partners that will also collect your personal information, such as credit card companies. Superb Prizes does not control, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites, which may employ cookies and/or collect personal information. In addition, Superb Prizes will not and cannot censor or edit the content of any third party site. Please be sure to read the privacy policy of each third party website that you visit.  <br><br> <b>Adult Supervision</b> <br> Persons under the age of 18 are not eligible to use this Site unsupervised and we ask that minors do not submit any personal information to us. Persons under the age of 18 may only use this Site in conjunction with and under the supervision of their parents or guardians.  <br><br> Superb Prizes does not knowingly collect contact or personal information from persons under the age of 13. This Site is not intended to solicit information of any kind from children under the age of 13. It is possible that by fraud or deception we may receive information pertaining to children under the age of 13.  <br><br> <b>Location of Data and Security</b> <br> Your information may be stored and processed in the United States or any other country in which Superb Prizes or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country.  <br><br> We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, and "firewalls." We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, perfect security does not exist on the Internet.  <br><br> Version 20060411 Effective Date: April 11, 2006 <br><br> <b>Sign-in Specs</b> <br> User has the ability to check prize status <br><br> Prize status<br> Email address<br> Shipping Information<br> Change password<br> Receive confirmation email - if changes are made to personal information <br><br><br> <b>Register Specs</b> <br> User has the ability to register and become a member <br><br> Email address<br> Shipping Information<br> Create password<br> Receive Confirmation email </div> <br><br><br> 		</td></tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+</tbody></table>
+
+      <!-- End main content -->  
+
+        </td>
+      <td width="2"><img src="http://sites-01.net-blue.net/blank.gif" width="1" height="1px" border="0"></td>
+    </tr>
+
+  </tbody></table>
+
+
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="750px" height="">
+<tbody><tr><td colspan="3" align="center">  <style>
+.footerLinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	font-weight: normal;
+    background-image: url('');
+	height: 25px;
+	background-repeat: repeat-x;
+}
+
+</style>
+	
+	    <table width="750px" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td class="footerLinks" valign="middle">          
+			<p><a href="au;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web">About Us</a> | <a href="help;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web">Help</a> | <a href="tc;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web">Terms and Conditions</a>
+
+ | <a href="unsubP;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web">Unsubscribe</a>
+
+ | <a href="pp;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web">Privacy Policy</a>
+
+ | <a href="ep;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web">Email Policy</a>
+
+
+</p>
+		  </td>
+		</tr>
+		</tbody></table>
+		
+		
+
+</td></tr>
+<tr><td colspan="3" align="center">  <style>
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	text-align: left;
+  padding-top: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+	background: ;
+}
+
+</style>
+	
+	    <table width="650px" height="90px" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td class="footer">          
+			<p>*This promotion is conducted exclusively by Superb Prizes and is subject to participation <a href="tc;jsessionid=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web?JSESSIONID=D5E769E8F49CC9101A512FA99C859DAD.wwx01-1ws17.web" class="footer">terms and conditions</a>. Receipt of your item requires compliance with offer terms, including: age and residency requirements; registration with valid e-mail address, shipping address and phone number; completion of user survey and sponsor offers.  Upon completion of all requirements, we will ship your incentive gift to your verified shipping address.  Fulfillment may be delayed based on availability.</p><p>Trademarks, service marks, logos, and/or domain names (including, without limitation, the individual names of products and companies) are the property of their respective owners, who have no association with and do not make any endorsement of the products or services provided by Superb Prizes. </p>
+		  </td>
+		</tr>
+		</tbody></table>
+		
+
+</td></tr>
+<tr><td colspan="3" align="center">  
+</td></tr>
+<tr><td colspan="3" align="center">  <style>
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #ffffff;
+	text-align: center;
+  background-color: ;
+	padding-left: center;
+	padding-right: center;
+	padding-top: 10px;
+	padding-bottom: center;
+}
+
+</style>
+	
+	    <table width="750px" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td class="copyright">          
+				<p>Copyright © 2007. Superb Prizes. All Rights Reserved.</p>
+		  </td>
+		</tr>
+		</tbody></table>
+		
+<!-- copyright -->
+
+</td></tr>
+<tr><td colspan="3" align="center">  
+</td></tr>
+<tr><td colspan="3" align="center">  
+</td></tr>
+</tbody></table>
+
+</div>
+    </div>
+
+
+
+
+</body></html>
