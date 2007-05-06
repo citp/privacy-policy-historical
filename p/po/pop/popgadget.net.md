@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popgadget.net privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125135923id_/http%3A//www.popgadget.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popgadget.net privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506115857id_/http%3A//www.popgadget.net/privacy.php) for the most accurate reproduction.*
 
-# Popgadget: Personal Tech for Women
+# Popgadget Privacy Policy
 
 | 
 
@@ -57,8 +57,6 @@ Back to Top
 
 | 
 
-[](http://www.presto.com/?cid=ADV-Popgadget-Top300x250+Betty)
-
-[](http://www.babygadget.net/)  
+[](http://www.babygadget.net/ "Your on-line shopping guide and product review for the modern parent")  
   
 ---|---|---
