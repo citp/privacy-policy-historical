@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prophet.net privacy policy that was archived on 2006-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060901014400id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prophet.net privacy policy that was archived on 2007-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070506210041id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.-->
 
 <html><!-- sitescope --><head>
  	<meta http-equiv="Keywords" content="charts, stock, stocks, futures, java, data, historical, financial, metastock, omega, historical, quotes, supercharts, tradestation, analysis, financial, technical, real-time, quotes, commodities">
@@ -9,6 +9,7 @@
 	 </title>
 
  <script language="javascript" src="/javascripts/dhtmlControl.js"></script>
+ <script language="javascript" src="/javascripts/utils.js"></script>
  <script language="javascript">
   var setSymbolOnPageFlag = false;
  </script>
@@ -517,10 +518,70 @@ BODY {font-family:verdana,arial,helvetica;font-size:10px;margin:0px}
 
 
 
- <script language="JavaScript" src="/javascripts/trafficTracking.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://web.archive.org/web/20060417233147/http://lm.investools.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20060901014400id_/http%253A//www.prophet.net/forms/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580396227151" height="1" width="1"></div>
+ <script language="JavaScript" src="/javascripts/trafficTracking.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://web.archive.org/web/20060417233147/http://lm.investools.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20070506210041id_/http%253A//www.prophet.net/forms/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580396228772" height="1" width="1"></div>
 
 
 	
+
+    <!-- Start of DeepMetrix (.NET) StatScript -->
+    <script language="javascript" type="text/javascript">
+    var DMNETdomain = "";
+    var DMNETpage = window.location;
+    var DMNETversion = "86";
+    var DMNETsendTo = "//livestats.investools.com/dm.gif?";
+    var DMNETsession;
+
+	//window.onerror=dmneterr;
+	var s = new Date();
+
+	if (navigator.userAgent.indexOf('Mac') >= 0 && s.getTimezoneOffset() >= 720)
+	  s.setTime (s.getTime() - 1440*60*1000);
+
+	var dmnetURL = location.protocol +
+	DMNETsendTo+"v="+DMNETversion+"&vst=1";
+	var dmnetCookieString = document.cookie.toString();
+
+	if(dmnetCookieString.indexOf("_dmnid") == -1)
+	  {
+	    DMNETsession = parseInt( Math.random()*1000000 ) + "_" + s.getTime();
+	    var domStr = "";
+	    if(DMNETdomain != "")
+	    {
+	      domStr = "domain="+ DMNETdomain +";";
+	    }
+	    document.cookie = "_dmnid=" + DMNETsession + ";expires=Mon,31-Dec-2008 00:00:00 GMT;"+domStr+"path=/;";
+	  }
+	dmnetCookieString = document.cookie.toString();
+	if(dmnetCookieString.indexOf('_dmnid') == -1)
+	  {
+	    DMNETsession = "";
+	  }
+	else
+	  {
+	    if(dmnetCookieString.indexOf(';') == -1)
+	      dmnetCookieString = dmnetCookieString.replace(/_dm/g, ';_dm');
+
+	    var start = dmnetCookieString.indexOf("_dmnid=") + 7;
+	    var end = dmnetCookieString.indexOf(";",start);
+
+	    if (end == -1)
+	      end = dmnetCookieString.length;
+	    DMNETsession = unescape(dmnetCookieString.substring(start,end));
+	  }
+	dmnetURL += "&id="+DMNETsession+"&url="+escape(DMNETpage) + "&ref="+escape(document.referrer)+"&lng=" + ((!document.all ||
+	navigator.userAgent.match('Opera')) ? navigator.language :
+	navigator.userLanguage) + "&tz=" + (Math.round(new Date('dec 1, 2002').getTimezoneOffset()/60)*-1);
+	if(screen)
+	  dmnetURL += "&scr=" + escape( screen.width + "x" + screen.height + " "
+	+ screen.colorDepth + "bpp" );
+	dmnetURL += "&rnd=" + new Date().getTime();
+
+	if(document.layers)
+	    document.write( "<layer name=\"DMStats\" visibility=hide><img src=\""+dmnetURL+"\" height=1 width=1 name=image1></layer>" );
+    else
+	    document.write( "<div id=\"DMStats\" STYLE=\"position:absolute;visibility:hidden;\"><img src=\""+dmnetURL+"\"height=1 width=1 name=image1></div>" );
+
+    </script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://livestats.investools.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20070506210041id_/http%253A//www.prophet.net/forms/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580396228776" height="1" width="1" name="image1"></div>
 
 
 
@@ -669,7 +730,7 @@ winStat();
         <table width="100%" cellpadding="0" cellspacing="0" border="0">
           <tbody><tr>
             <td valign="middle" class="datetime">
-              <b>Thu 31 August 2006 9:44 PM EDT</b>&nbsp;&nbsp;|&nbsp;&nbsp;Welcome to Prophet.Net! <a href="/forms/signin.jsp" class="datetime">Sign in</a> or  <a href="/forms/signout.jsp?register=true" class="datetime">register</a>. It's free!
+              <b>Sun 6 May 2007 5:00 PM EDT</b>&nbsp;&nbsp;|&nbsp;&nbsp;Welcome to Prophet.Net! <a href="/forms/signin.jsp" class="datetime">Sign in</a> or  <a href="/forms/signout.jsp?register=true" class="datetime">register</a>. It's free!
             </td>
           </tr>
         </tbody></table>
@@ -689,7 +750,7 @@ winStat();
             
             <td width="468">
             
-                <div id="bannerAd_29" name="bannerAd_29" style="position:relative;z-index:1;width:468;height:60"><img src="/images/shim.gif" width="468" height="60"></div>
+                <div id="bannerAd_29" name="bannerAd_29" style="position:relative;z-index:1;width:468;height:60"><a href="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&amp;ZoneID=29&amp;CampaignID=397&amp;AdvertiserID=75&amp;BannerID=949&amp;SiteID=0&amp;RandomNumber=27174" target="_Blank"><img src="http://www.prophet.net/images/campaigns/thinkorswim/bnr_thinkorswim.gif" width="468" height="60" alt="" align="Center" border="0"></a><br></div>
             
             </td>
             <td width="4"><img src="/images/shim.gif" width="10"></td>
@@ -1072,7 +1133,7 @@ function swapTo(favObj, viewtype) {
 // set up symbol/company arrays
 symbolArray = new Array('INTC','IBM','MSFT');
 //symbolArray.sort();
-companyArray = new Array('Intel Corp','Intl Bus. Machines','Microsoft Corp');
+companyArray = new Array('Intel Corporation','Intl Business Mach','Microsoft Corporation');
 //companyArray.sort();
 
 function createOptionArray(companyA, symbolA){
@@ -1146,7 +1207,7 @@ function updateSymbol () {
 <a href="javascript: openWindow('/manage/selectWatchListPopup.jsp', 'WLSelector', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=400,height=400');" style="font-size:10px;">Watch Lists:</a>
 
 <select class="jumpmenus" id="favorites" name="favorites" onchange="javascript:callFavorites(getElement('favorites'), getElement('quicksymbol'));">
-     <option value="">[Favorite Symbols]</option><option value="INTC">Intel Corp</option><option value="IBM">Intl Bus. Machines</option><option value="MSFT">Microsoft Corp</option><option value="">--------------</option><option value="Show As Symbols">Show As Symbols</option></select>
+     <option value="">[Favorite Symbols]</option><option value="INTC">Intel Corporation</option><option value="IBM">Intl Business Mach</option><option value="MSFT">Microsoft Corporation</option><option value="">--------------</option><option value="Show As Symbols">Show As Symbols</option></select>
 
 <input class="jumpmenus" type="text" size="5" id="quicksymbol" name="quicksymbol" value="INTC" onfocus="this.select();" onchange="javascript:updateSymbol();">
 
@@ -1237,45 +1298,28 @@ drawFavorites(globalFavObj, optionArray, 'NAMES');
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#BBBBBB">
 
-		<tbody><tr><td width="88" height="42" valign="middle"> <div id="bannerAd_33" name="bannerAd_33" style="position:relative;z-index:1;width=88;height=31;"></div></td>
+		<tbody><tr><td width="88" height="42" valign="middle"> <div id="bannerAd_33" name="bannerAd_33" style="position:relative;z-index:1;width=88;height=31;"><a href="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&amp;ZoneID=33&amp;CampaignID=433&amp;AdvertiserID=76&amp;BannerID=987&amp;SiteID=0&amp;RandomNumber=52284" target="_Blank"><img hspace="0" vspace="0" src="http://www.prophet.net/images/campaigns/acmarkets/88x31B.gif" width="88" height="31" alt="" align="Center" border="0"></a></div></td>
 		<td width="4"><img src="/images/shim.gif" width="2" height="1"></td>
-		<td width="88" height="42" valign="middle"><div id="bannerAd_34" name="bannerAd_34" style="position:relative;z-index:1;width=88;height=31;"></div></td>
+		<td width="88" height="42" valign="middle"><div id="bannerAd_34" name="bannerAd_34" style="position:relative;z-index:1;width=88;height=31;"><a href="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&amp;ZoneID=34&amp;CampaignID=60&amp;AdvertiserID=21&amp;BannerID=151&amp;SiteID=0&amp;RandomNumber=18033" target="_Blank"><img hspace="0" vspace="0" src="http://streamer.prophetfinance.com/banners/barrons/barronsg.gif" width="88" height="31" alt="" align="Left" border="0"></a></div></td>
 
 </tr></tbody></table>
 
 <table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#DDDDDD"><tbody><tr><td width="100%" bgcolor="#FFFFFF"><table width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="5" border="0">
 <tbody><tr>
-	<td></td>
+	<td><b><a href="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&amp;ZoneID=57&amp;CampaignID=431&amp;AdvertiserID=76&amp;BannerID=988&amp;SiteID=0&amp;RandomNumber=14839" target="_blank">Practice Forex Trading with ACM<br>
+Unbeatable conditions<br>
+2-3 pip spreads, 100:1 margin
+</a></b><br></td>
 </tr>
 </tbody></table></td></tr></tbody></table>
 
 <table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#DDDDDD"><tbody><tr><td width="100%" bgcolor="#FFFFFF"><table width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="5" border="0">
 <tbody><tr>
-	<td></td>
+	<td> </td>
 </tr>
 </tbody></table></td></tr></tbody></table>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="1" bgcolor="#FFFFFF" height="4"><img src="/images/shim.gif" width="1" height="4"></td></tr></tbody></table>
-
-
-
-
-
-<table width="100%" height="20" border="0" cellpadding="2" cellspacing="0" background="/images/bar_green.gif" background-size:auto;"=""><tbody><tr><td width="97%" height="20" class="header" nowrap=""><font color="#FFFFFF">&nbsp;Tell A Friend&nbsp;</font></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#DDDDDD"><tbody><tr><td width="100%" bgcolor="#FFFFFF"><table width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="4" border="0">
-
-
-
- <tbody><tr>
-  <td>Share the power to profit! <a href="javascript:void window.open('/forms/tellafriendPopup.jsp?colorscheme=home','searchwin','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=auto,resizable=yes,width=500,height=500');">Email a friend</a> to tell them about Prophet.Net.<br><br>You can earn free service by referring your friends to Prophet through our membership referral program.<br>
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr><td><a href="/forms/tellAfriend.jsp">Learn more...</a></td><td>&nbsp;</td><td><a href="/forms/tellAfriend.jsp"><img src="/images/goArrow.gif" border="0" vspace="0" hspace="4"></a></td></tr>
-		</tbody></table>
-	</td>
- </tr>
-
-
-</tbody></table></td></tr></tbody></table>
 
 
 
@@ -1439,7 +1483,40 @@ Palo Alto, CA 94301
       <table cellspacing="0" cellpadding="0" border="0" bgcolor="ffffff" width="120">
         <tbody><tr><td><img width="120" height="4" src="/images/shim.gif"></td></tr>
       </tbody></table>
-      
+      <script language="JavaScript">
+<!--
+var ShockMode = 0;
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin) {
+if (navigator.plugins && navigator.plugins["Shockwave Flash"])
+ShockMode = 1;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+&& (navigator.userAgent.indexOf("Windows 9")>=0 || navigator.userAgent.indexOf("Windows NT")>=0)) {
+document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+document.write('on error resume next \n');
+document.write('ShockMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) ');
+document.write('<\/SCRIPT\> ');
+}
+if ( ShockMode ) {
+document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+document.write(' codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0"');
+document.write(' ID=banner WIDTH=120 HEIGHT=600 >');
+document.write(' <PARAM NAME=movie VALUE="http://www.prophet.net/images/campaigns/acmarkets/prophet120x600.swf?url=http%3A%2F%2Fstreamer%2Eprophetfinance%2Ecom%2Fads%2Fbanman%2Easp%3FTask%3DClick%26ZoneID%3D50%26CampaignID%3D435%26AdvertiserID%3D76%26BannerID%3D985%26SiteID%3D0%26RandomNumber%3D5697"> ');
+document.write(' <PARAM NAME=quality VALUE=autohigh> ');
+document.write('<EMBED SRC="http://www.prophet.net/images/campaigns/acmarkets/prophet120x600.swf?url=http%3A%2F%2Fstreamer%2Eprophetfinance%2Ecom%2Fads%2Fbanman%2Easp%3FTask%3DClick%26ZoneID%3D50%26CampaignID%3D435%26AdvertiserID%3D76%26BannerID%3D985%26SiteID%3D0%26RandomNumber%3D5697"');
+document.write(' swLiveConnect=FALSE WIDTH=120 HEIGHT=600');
+document.write(' QUALITY=autohigh');
+document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+document.write('</EMBED>');
+document.write('</OBJECT>');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+document.write('<A HREF="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=435&AdvertiserID=76&BannerID=985&SiteID=0&RandomNumber=5697" TARGET="_top"><IMG SRC="http://www.prophet.net/images/campaigns/acmarkets/prophet120x600.gif" WIDTH=120 HEIGHT=600 BORDER=0></A>');
+}
+//-->
+</script><a href="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&amp;ZoneID=50&amp;CampaignID=435&amp;AdvertiserID=76&amp;BannerID=985&amp;SiteID=0&amp;RandomNumber=5697" target="_top"><img src="http://www.prophet.net/images/campaigns/acmarkets/prophet120x600.gif" width="120" height="600" border="0"></a>
+<noembed><A HREF="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=435&AdvertiserID=76&BannerID=985&SiteID=0&RandomNumber=5697" TARGET="_top"><IMG SRC="http://www.prophet.net/images/campaigns/acmarkets/prophet120x600.gif" WIDTH=120 HEIGHT=600 BORDER=0></A></noembed>
+<noscript><A HREF="http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=435&AdvertiserID=76&BannerID=985&SiteID=0&RandomNumber=5697" TARGET="_top"><IMG SRC="http://www.prophet.net/images/campaigns/acmarkets/prophet120x600.gif" WIDTH=120 HEIGHT=600 BORDER=0></A></noscript>
+
     </td>
 
   <td valign="top">&nbsp;</td>
@@ -1512,7 +1589,7 @@ Palo Alto, CA 94301
       <font size="1" face="verdana,arial">
         <a href="/forms/termsofuse.jsp" target="_new">terms of use</a> | <a href="/forms/privacy.jsp" target="_new">privacy statement</a> | <img src="/images/prophet.poweredby.logo.gif" width="136" height="22" alt="Powered by Prophet Finance" border="0" align="absmiddle">
         <br>
-        © 2002-2006 Prophet Financial Systems, Inc. All Rights Reserved.
+        © 2002-2007 Prophet Financial Systems, Inc. All Rights Reserved.
         <br>
         <img src="/images/icon.greenball.gif" width="11" height="11" border="0" align="absmiddle">&nbsp;real-time data |
         <img src="/images/icon.yellowball.gif" width="11" height="11" border="0" align="absmiddle">&nbsp;<a href="javascript: var popwin = window.open('/help/exchangedelay.jsp', 'GeneralInfoWin', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=400,height=500');">delayed</a> data |
