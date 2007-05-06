@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetypinggame.net privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215063132id_/http%3A//www.freetypinggame.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetypinggame.net privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506052450id_/http%3A//freetypinggame.net/privacy.asp) for the most accurate reproduction.*
 
 # FreeTypingGame.net - Free typing games online, fun and lesson based keyboarding games including home row!
 
