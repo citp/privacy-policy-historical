@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111012508id_/http%3A//www.t-systems.com/coremedia/generator/w3.t-systems.de/en/Metanavigation/PrivacyPolicy/templateId%3DrenderNormal/id%3D126940.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506212445id_/http%3A//www.t-systems.com/tsi/en/28650/Metanavigation/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# t-systems.de: Privacy Policy
 
 Thank you for visiting this website. T-Systems places great importance on data security and data protection. Protecting personal rights is integral to our corporate culture and built into our services and products. We respect the safety of your personal data. That is why T-Systems continuously works to improve data security measures to protect you and your privacy. 
 
@@ -32,9 +32,10 @@ To protect your personal data saved by us against unauthorized access and misuse
 
 Please direct any questions, suggestions or specific requests to change, freeze or delete your personal data to T-Systems or, if known, directly to the company concerned. 
 
-e-mail: [datenschutz@T-Systems.com](mailto:datenschutz@T-Systems.com)
-
 Data Protection Officer:  
-Heiko Kern   
-Hahnstr. 43 d  
-60528 Frankfurt, Germany 
+Deutsche Telekom AG   
+Konzerndatenschutz / Group Privacy   
+Konzernbeauftragter für den Datenschutz / CPO   
+Dr. Claus-Dieter Ulmer  
+Friedrich-Ebert-Allee 140   
+D-53113 Bonn 
