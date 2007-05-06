@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208181202id_/http%3A//www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506050036id_/http%3A//www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm%23privacy) for the most accurate reproduction.*
 
 # Joe's New Balance Outlet - Privacy and Security
 
@@ -47,7 +47,7 @@ If you have any questions about this privacy statement, the practices of this si
 Joe's New Balance Outlet  
 1529 Fencorp Drive  
 Fenton, Missouri 63026  
-1-866-590-4965  
+(866) 590-4965  
   
 [Back to Top](http://www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm#top)
 
