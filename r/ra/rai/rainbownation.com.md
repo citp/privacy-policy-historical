@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227004840id_/http%3A//rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506045554id_/http%3A//www.rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
 
-# The RainbowNation.com Privacy Statement
+# Privacy Statement for RainbowNation.com
 
-|  |  | 
-
-You are here: [Home](https://web.archive.org/web/20061227004840id_/http%3A//rainbownation.com/index.asp) > [Services](https://web.archive.org/web/20061227004840id_/http%3A//rainbownation.com/about/index.asp) > Privacy 
-
-(last updated: July 2004)
+[last updated: November 2006]
 
 RainbowNation is committed to protecting your privacy. This RainbowNation Privacy Statement applies to data collection and usage on RainbowNation sites and services; it does not apply to other online or offline RainbowNation sites, products or services. Please read the RainbowNation Privacy Statement below and also any supplementary information at the end of this statement for additional details about particular RainbowNation sites and services that you may use.
 
-RainbowNation is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement. This Statement contains a section with specific details regarding personal information collected from children. Click  here to read more.
+RainbowNation is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement. This Statement contains a section with specific details regarding personal information collected from children. Click here to read more.
 
-## Collection of your Personal Information
+### Collection of your Personal Information
 
 At some sites, RainbowNation collects personal information, such as your e-mail address, name, home or work address or telephone number. RainbowNation may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favourites. Information collected by RainbowNation may be combined with information obtained from other RainbowNation services and other companies.
 
@@ -26,6 +22,8 @@ RainbowNation also collects certain information about your computer hardware and
 
 Certain RainbowNation services may be co-branded and offered in conjunction with another company. If you register for or use such services, both RainbowNation and the other company may receive information collected in conjunction with the co-branded services.
 
+### Use of your Personal Information
+
 RainbowNation and its operational service partners collect and use your personal information to operate RainbowNation and deliver the services you have requested. These services may include the display of customized content and advertising based upon the information RainbowNation has collected. RainbowNation does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
 RainbowNation also uses your personal information to inform you of other products or services available from RainbowNation and its affiliates. RainbowNation may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
@@ -38,7 +36,7 @@ RainbowNation may access and/or disclose your personal information if required t
 
 Personal information collected on this site may be stored and processed in the United States or any other country in which RainbowNation or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. RainbowNation abides by the safe harbour framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-## Control of your Personal Information
+### Control of your Personal Information
 
 RainbowNation offers its customers choices for the collection, use and sharing of personal information. You may choose not to receive marketing material from RainbowNation or on behalf of external third party business partners. You may also stop the delivery of future promotional e-mail from RainbowNation by following the specific instructions in the e-mail you receive. The instructions explain how to stop receiving such e-mails.
 
@@ -46,17 +44,19 @@ There are some RainbowNation services, that send out periodic e-mails informing 
 
 You may subscribe and unsubscribe to RainbowNation Newsletters and each RainbowNation newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
 
-## Security of your Personal Information
+### Security of your Personal Information
 
 RainbowNation is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-## Collection and Use of Children's Personal Information
+### Collection and Use of Children's Personal Information
 
 The RainbowNation site is intended for users of all ages. Children may visit these general audience areas of RainbowNation and provide personal information, which will be collected, used and disclosed as described is this Privacy Statement. Some, but not all, RainbowNation sites require users to provide age information. For those users who visit such sites and identify themselves as under 13, RainbowNation will not collect any of their information.
 
-**Please note that if you grant consent for your child to use such general audience communication services your child will be able to communicate with other users of all ages. Before providing consent, please be aware that such services will give your child the ability to disclose personal information (e.g. name, address, e-mail, phone numbers) on his or her own.** We encourage you to talk with your children about communicating with strangers and disclosing personal information online. 
+**Please note that if you grant consent for your child to use such general audience communication services your child will be able to communicate with other users of all ages. Before providing consent, please be aware that such services will give your child the ability to disclose personal information (e.g. name, address, e-mail, phone numbers) on his or her own.**
 
-## Use of Cookies
+We encourage you to talk with your children about the issues surrounding with communicating with strangers and disclosing personal information online. 
+
+### Use of Cookies
 
 RainbowNation uses "cookies" to help you personalise your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -64,18 +64,18 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the RainbowNation services or Web sites you visit. 
 
-## Use of Web Beacons
+### Use of Web Beacons
 
 RainbowNation Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow RainbowNation to count users who have visited those pages and to deliver co-branded services. RainbowNation may include web beacons in promotional e-mail messages or RainbowNation Newsletters in order to count how many messages have been opened and acted upon.
 
 Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. RainbowNation Web pages may also contain Web beacons placed there by third parties in order to compile aggregated statistics and to help determine the effectiveness of our joint promotional or advertising campaigns. RainbowNation prohibits web beacons from being used to access your personal information.
 
-## Use of Third Party Ad Networks
+### Use of Third Party Ad Networks
 
 The majority of the online banner advertisements you see on RainbowNation Web pages are displayed by RainbowNation.
 
 In addition, RainbowNation allows other companies, called third-party ad servers or ad networks, to display advertisements on RainbowNation Web pages. Some of these ad networks may place a persistent cookie on your computer. Doing this allows the ad network to recognise your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. RainbowNation does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks.
 
-## Changes to this Statement
+### Changes to this Statement
 
-RainbowNation will occasionally update this Privacy Statement to reflect company and customer feedback. If there are material changes to this Statement or in how RainbowNation will use your personal information, RainbowNation will prominently post such changes prior to implementing the change. RainbowNation encourages you to periodically review this Statement to be informed of how RainbowNation is protecting your information. | 
+RainbowNation will occasionally update this Privacy Statement to reflect company and customer feedback. If there are material changes to this Statement or in how RainbowNation will use your personal information, RainbowNation will prominently post such changes prior to implementing the change. RainbowNation encourages you to periodically review this Statement to be informed of how RainbowNation is protecting your information.
