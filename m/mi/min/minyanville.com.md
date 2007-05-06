@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218061226id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506180647id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Minyanville
 
@@ -44,7 +44,7 @@ Please be aware that advertisers or Web sites that have links on our site may co
 
 This statement may change from time to time, so please check back periodically. 
 
-© 2006 Minyanville Publishing and Multimedia, LLC. All Rights Reserved. 
+© 2007 Minyanville Publishing and Multimedia, LLC. All Rights Reserved. 
 
 **DEFINITIONS** : 
 
