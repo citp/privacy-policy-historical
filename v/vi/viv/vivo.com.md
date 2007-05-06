@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229105556id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3Dunagi.8083645%26pageregion%3Dfooter%26src%3Dvivo%26pcode%3Drn%26opage%3Dvivo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506125338id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3DvivoPage%26pageregion%3Dfooter%26src%3Dvivo%26pcode%3Drn%26opage%3Dvivo) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., RealNetworks Digital Music of California, Inc. and Listen.com, Inc. Privacy Policy
 
