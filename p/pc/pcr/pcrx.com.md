@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pcrx.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002828id_/http%3A//pcrx.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrx.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506190530id_/http%3A//www.pcrx.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # PCRx.com
+
+**Privacy Policies**
 
 PCRx.com is the creator and owner of this web site and its content 
 
