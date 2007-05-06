@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215155948id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506054117id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # SWAGELOK.COM® PRIVACY POLICY
 
 |   
 ---  
-|  [](http://www.swagelok.com/ChangeLanguage.aspx) |  [ Change Language ](http://www.swagelok.com/ChangeLanguage.aspx) |  | [ Home ](http://www.swagelok.com/default.aspx)|  |  [ Log In ](https://www.swagelok.com/MyAccount.aspx) |  |  [](http://www.swagelok.com/shopping/part_list.aspx?list_type=sc) |  [ Shopping Cart ](http://www.swagelok.com/shopping/part_list.aspx?list_type=sc) |  | [ Sales & Service ](http://www.swagelok.com/distributors/locate_dist.aspx)|  |  [Tell Us](http://www.swagelok.com/Feedback.aspx) |  [](http://www.swagelok.com/Feedback.aspx) |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  [](http://www.swagelok.com/ChangeLanguage.aspx) |  [ Change Language ](http://www.swagelok.com/ChangeLanguage.aspx) |  | [ Home ](http://www.swagelok.com/default.aspx)|  |  [ Log In ](https://www.swagelok.com/MyAccount.aspx) |  |  [ ](http://www.swagelok.com/shopping/part_list.aspx?list_type=sc) |  [ Shopping Cart ](http://www.swagelok.com/shopping/part_list.aspx?list_type=sc) |  | [ Sales & Service ](http://www.swagelok.com/distributors/locate_dist.aspx)|  | [ Site Map ](http://www.swagelok.com/site_map.aspx)|  |  [ Tell Us ](http://www.swagelok.com/Feedback.aspx) |  [ ](http://www.swagelok.com/Feedback.aspx) |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  | [](http://www.swagelok.com/default.aspx) |  | Fluid System Technologies | Search |  |   |  |   
 ---|---|---|---|---|---|---|---|---  
   
@@ -59,8 +59,7 @@ For users who do register with an authorized sales and service center, a profile
 
 
 
-If you choose to communicate with us by e-mail or otherwise complete on-line forms or other documents, this information may also be collected in your profile. If you choose to use the forward to a friend function, or link to referenced documents or sources, this information is leveraged to analyze site usage metrics.  
-
+If you choose to communicate with us by e-mail or otherwise complete on-line forms or other documents, this information may also be collected in your profile. If you choose to use the forward to a friend function, or link to referenced documents or sources, this information is leveraged to analyze site usage metrics.
 
 5. Limitations of Privacy Policy.
 
