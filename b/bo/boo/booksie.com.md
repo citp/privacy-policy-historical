@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksie.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113002942id_/http%3A//www.booksie.com/about/site_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksie.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506165513id_/http%3A//www.booksie.com/about/site_privacy_policy.html) for the most accurate reproduction.*
 
 # Booksie
 
@@ -36,7 +36,7 @@ As you view our Web site, the site uses its cookies to differentiate you from ot
 
 ### Sharing Information with Third Parties
 
-We use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Member email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. We will not otherwise disclose or sell your personal information. 
+We use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Member email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. We will not otherwise disclose or sell your personal information without your permission. 
 
 ### How Do We Secure Information Transmissions?
 
