@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseweb.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203718id_/http%3A//www.houseweb.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseweb.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506205752id_/http%3A//www.houseweb.co.uk/privacy.html) for the most accurate reproduction.*
 
 # HouseWeb Terms of Use
 
@@ -51,7 +51,7 @@ CB4 OWS
 UK
 
   3. You can fax us on (0870) 432 1975 
-  4. You can call Customer Services on (0845) 123 5181 (during office hours) 
+  4. You can call Customer Services on 0845 003 0720 (during office hours) 
 
 
 
