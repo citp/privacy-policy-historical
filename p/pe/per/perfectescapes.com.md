@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the perfectescapes.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectescapes.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506150425id_/http%3A//www.perfectescapes.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Perfect Escapes - Privacy Policy
 
-|  [](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/index.aspx) |  [About Perfect Escapes](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/About.aspx) | [Customer Support](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/Support.aspx) |   
+|  []() |  [About Perfect Escapes](https://web.archive.org/web/20070506150425id_/http%3A//www.perfectescapes.com/About.aspx) |  [Customer Support](https://web.archive.org/web/20070506150425id_/http%3A//www.perfectescapes.com/Support.aspx) |   
 ---|---|---  
-[](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/index.aspx) |  [Register for our Top 20 Escape Routes Newsletter](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/Register.aspx) |  |   
-[](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/index.aspx) |  |   
+[]() |  [Register to receive The Perfect 10 Newsletter](https://web.archive.org/web/20070506150425id_/http%3A//www.perfectescapes.com/Register.aspx) |  |   
+[]() |  |   
   
  
 
@@ -19,7 +19,7 @@ This Privacy Policy describes the information Perfect Escapes collects about its
 
 By using this Site, you signify your assent to this Privacy Policy. Perfect Escapes may amend this Privacy Policy at any time and will notify Users of any such amendment by posting the amended Privacy Policy on the Site. Any such amendment will take effect thirty (30) days after the date on which the amendment is so posted. A User’s continued use of Perfect Escapes’ services, or of this Site, following such posting will mean that the User has accepted those amendments.
 
-By accepting the Perfect Escapes User Agreement, you consent to our use and disclosure of your personally identifiable information as set forth in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Perfect Escapes [User Agreement](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/Agreement.aspx) and [ Legal Notice](https://web.archive.org/web/20061213225533id_/http%3A//www.perfectescapes.com/Legal.aspx). Any dispute over privacy is subject to this Privacy Policy and to our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California
+By accepting the Perfect Escapes User Agreement, you consent to our use and disclosure of your personally identifiable information as set forth in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Perfect Escapes [User Agreement](https://web.archive.org/web/20070506150425id_/http%3A//www.perfectescapes.com/Agreement.aspx) and [ Legal Notice](https://web.archive.org/web/20070506150425id_/http%3A//www.perfectescapes.com/Legal.aspx). Any dispute over privacy is subject to this Privacy Policy and to our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California
 
 INFORMATION THAT PERFECT ESCAPES COLLECTS.
 
