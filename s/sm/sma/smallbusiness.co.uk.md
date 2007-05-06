@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926064720id_/http%3A//smallbusiness.co.uk/5.83.90/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506123234id_/http%3A//www.smallbusiness.co.uk/5.83.90/corporate/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Our Privacy Policy
 
 This website is operated by Vitesse Media Plc, referred to in this policy as "we" or "us".   
 We are committed to protecting and respecting your privacy online while providing a personalised and valuable service. This policy explains:  
@@ -59,11 +59,11 @@ We also have a number of partner companies who provide links to our site. We use
 **How we protect your information:**  
 When you register or subscribe to our services, we offer the use of a secure server. The secure server encrypts the information (e.g. credit card details) that you input before it is transmitted to us. 
 
-**Submitting a question**  
+**Submitting a question**
 
 By submitting your question to smallbusiness.co.uk and in businessGO you agree that your question and its answer may be published in businessGO, on smallbusiness.co.uk and within other Vitesse Media Plc publications where relevant. 
 
-The answer to each question is of necessity general in its nature and may not apply to your particular query or problem as it must be seen in the context of your business. Vitesse Media Plc accepts no responsibility in the event of mistake, omission or misinterpretation and cannot be held liable for any loss suffered as a consequence of any response given on this website or any other Vitesse Media Group publication.
+The answer to each question is of necessity general in its nature and may not apply to your particular query or problem as it must be seen in the context of your business. Vitesse Media Plc accepts no responsibility in the event of mistake, omission or misinterpretation and cannot be held liable for any loss suffered as a consequence of any response given on this website or any other Vitesse Media Group publication. 
 
 **Updating your details:  
 ** It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. If any of your personal information changes including your email address or payment details, or if you simply wish to cancel any subscription to any service or publication, just let us know by emailing [info@vitessemedia.co.uk](mailto:info@vitessemedia.co.uk) or by edit your profile on SmallBusiness.co.uk, which you can do at any time.
@@ -78,12 +78,10 @@ We may log the IP addresses and browser types of visitors to the site to help us
 **Contact details:  
 ** If you have any queries or concerns about this statement, please contact us at: 
 
-  
 Vitesse Media Plc  
-95 Aldwych, London, WC2B 4JF  
-Tel: 020 7430 9777 Fax: 020 7430 9888.  
+Octavia House, 50 Banner Street, London, EC1Y 8ST  
+Tel: 020 7250 7010 Fax: 020 7250 7011.  
 [Privacy@vitessemedia.co.uk](mailto:Privacy@vitessemedia.co.uk)
 
-  
-Annika Williams 020 7421 3446 [Annika.williams@vitessemedia.co.uk](mailto:Annika.williams@vitessemedia.co.uk)  
+Annika Williams 020 7250 7037 [Annika.williams@vitessemedia.co.uk](mailto:Annika.williams@vitessemedia.co.uk)  
 ©Vitesse Media plc 2005
