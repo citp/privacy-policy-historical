@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107062124id_/http%3A//www.uhhospitals.org/tabid/840/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506081340id_/http%3A//www.uhhospitals.org/tabid/840/Default.aspx) for the most accurate reproduction.*
 
 # University Hospitals > Menu System > FooterLinks > Privacy
 
