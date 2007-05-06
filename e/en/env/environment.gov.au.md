@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023214118id_/http%3A//www.environment.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506121941id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
-# Environment Portal Privacy Notice Highlights
+# Department of the Environment and Water Resources - privacy statement
 
 ## Scope
 
-This notice applies to the Department of the Environment and Heritage web site only. The web site is managed by the Australian Government Department of the Environment and Heritage.
+This notice applies to the Department of the Environment and Water Resources web site only. The web site is managed by the Australian Government Department of the Environment and Water Resources.
 
 ## Personal Information
 
 The use of the term "personal information" in this privacy notice means any information from which your identity is apparent or can be reasonably ascertained.
 
-The Department of the Environment and Heritage collects personal information that you choose to give us, for example your email address.
+The Department of the Environment and Water Resources collects personal information that you choose to give us, for example your email address.
 
 We do not collect identifiable personal information about you if you only browse this web site.
 
@@ -20,9 +20,9 @@ We only use your personal information for the purposes for which you gave it to 
 
 We do not share information about you with other government agencies, other organisations, or other persons without your permission unless it:
 
-  * is necessary to provide you with a service that you have requested 
-  * is required or authorised by law 
-  * will prevent or lessen a serious and imminent threat to somebody's health 
+  * is necessary to provide you with a service that you have requested
+  * is required or authorised by law
+  * will prevent or lessen a serious and imminent threat to somebody's health
 
 
 
@@ -44,10 +44,10 @@ We also follow the _Guidelines for Federal and ACT Government websites_ issued b
 
 ## Contact us
 
-If you have any privacy concerns with the Department of the Environment and Heritage web site, please [contact the Privacy Contact Officer](mailto:privacy@deh.gov.au):
+If you have any privacy concerns with the Department of the Environment and Water Resources web site, please [contact the Privacy Contact Officer](mailto:privacy@deh.gov.au):
 
 Privacy Contact Officer  
-Australian Government Department of the Environment and Heritage  
+Australian Government Department of the Environment and Water Resources  
 GPO Box 787  
 Canberra ACT 2601  
 Australia  
@@ -57,4 +57,4 @@ fax: +61 2 6274 1587
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20061023214118id_/http%3A//www.environment.gov.au/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20070506121941id_/http%3A//www.environment.gov.au/about/privacyfull.html).
