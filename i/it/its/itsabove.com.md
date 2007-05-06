@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118101601id_/http%3A//www.itsabove.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507000306id_/http%3A//www.itsabove.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Its Above.com Privacy policy
 
