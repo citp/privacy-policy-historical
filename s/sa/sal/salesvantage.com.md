@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024223651id_/http%3A//salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506113948id_/http%3A//salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
+
+  | 
 
   
 **The SalesVantage.com Privacy Policy**  
@@ -28,16 +30,18 @@ Some parts of the SalesVantage.com site use "cookies." A cookie is an element of
 
 Contact Information
 
-If you would like to update or delete any of your contact information, please send an e-mail to [support@SalesVantage.com.com](mailto:support@SalesVantage.com.com). If you have any questions about our privacy practices you may contact the Publisher at [jmcmahon@salesvantage.com](mailto:jmcmahon@salesvantage.com). Or you may write to the address below. If SalesVantage.com makes any changes to its privacy policy, those changes will be noted on the SalesVantage.com home page and you will have the opportunity to opt-out or otherwise prevent that use. 
+If you would like to update or delete any of your contact information, please send an e-mail to support@salesvantage.com.com. If you have any questions about our privacy practices you may contact the Publisher at jmcmahon@salesvantage.com. Or you may write to the address below. If SalesVantage.com makes any changes to its privacy policy, those changes will be noted on the SalesVantage.com home page and you will have the opportunity to opt-out or otherwise prevent that use. 
 
 SalesVantage.com Inc.  
-201 East Jefferson Street # 170  
-Syracuse, New York 13202   
-Tel: 315.428.8646   
-Fax: 315.410.5405
+982 Main Street, #215  
+Fishkill, New York 12524   
+Tel: 845.831.4518   
+Fax: 315.410.5405 
 
 Policy effective date: July 15, 2003; updated September 18, 2006
 
 * * *
 
 Copyright © 2000 - 2006 SALESVANTAGE.com, Inc. All rights reserved. 
+
+|  
