@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randygage.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117215507id_/http%3A//randygage.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randygage.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507121401id_/http%3A//randygage.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Gage Direct Prime Concepts Group
 
