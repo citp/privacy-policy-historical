@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the district196.org privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022063309id_/http%3A//www.district196.org/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district196.org privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507081309id_/http%3A//www.district196.org/PrivacyStatement.cfm) for the most accurate reproduction.*
 
 # Welcome to Independent School District 196
 
