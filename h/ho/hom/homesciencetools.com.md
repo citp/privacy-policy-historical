@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507183739id_/http%3A//www.hometrainingtools.com/faq/shopping-information/q1342.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507101947id_/http%3A//www.hometrainingtools.com/faq/shopping-information/q1342.html) for the most accurate reproduction.*
 
 # FAQ: Privacy & Security
 
@@ -17,7 +17,7 @@ To ensure our customer security and site performance, our web servers are hosted
 If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call 1-800-860-6272. Our fax number for orders is 1-888-860-2344. Or, send your order to : 
 
 Home Science Tools  
-546 S 18th St W, Suite B  
+665 Carbon St  
 Billings, MT 59102 
 
 If you have any further question regarding your online security, please contact us at 1-800-860-6272 or e-mail us at [service@homesciencetools.com](mailto:%20service@homesciencetools.com). 
@@ -29,7 +29,7 @@ Protecting your privacy is important to Home Science Tools. Please take a moment
 **Why we collect personal information**  
 Home Science Tools collects and uses your personal information to serve you before and after your purchase. We use your contact information and preferences to keep you up to date on product announcements, offers, science teaching tips, company news, and other information we think you'd like to learn about. When you request information about a product, a customer service representative will contact you to follow-up on your inquiry. We may also use your personal information to contact you about participating in a market research survey, so that we can gauge customer satisfaction and develop better products. 
 
-To control what kind of communications you receive from Home Science Tools, use the [My Account](https://web.archive.org/web/20060507183739id_/http%3A//www.hometrainingtools.com/faq/shopping-information/account.php) button on our web site. 
+To control what kind of communications you receive from Home Science Tools, use the [My Account](https://web.archive.org/web/20070507101947id_/http%3A//www.hometrainingtools.com/faq/shopping-information/account.php) button on our web site. 
 
 **How we collect personal information**  
 We might ask for your contact information when you correspond with us, call us to make a purchase or request service, register on our web site, request a product catalog, ask a question of our Frequently Asked Question database, or participate in an online survey. When you ask to be included in an email mailing list, such as subscribing to our company newsletter, we also collect your personal information. 
@@ -41,7 +41,7 @@ Your personal information may be shared within the Home Science Tools organizati
 
 With your permission, we may refer you to other independent organizations that can provide you a complementary or superior product or service. 
 
-If you do not want to receive promotional information from Home Science Tools, use the [My Account](https://web.archive.org/web/20060507183739id_/http%3A//www.hometrainingtools.com/faq/shopping-information/account.php) button to update your contact information and personal preferences. 
+If you do not want to receive promotional information from Home Science Tools, use the [My Account](https://web.archive.org/web/20070507101947id_/http%3A//www.hometrainingtools.com/faq/shopping-information/account.php) button to update your contact information and personal preferences. 
 
 Home Science Tools works with other companies that help us provide you with products and services. We may provide your contact information to these companies. For example, we give shipping companies this information so they can deliver your products. The information they receive is for shipping and delivery purposes only. 
 
@@ -53,12 +53,12 @@ At times we may be required by law or legal process to disclose your personal in
 Home Science Tools safeguards the security of the data you send us with physical, electronic, and internal management procedures. 
 
 **Access to your personal information**  
-You have access to the contact information we have about you. To review and update your contact information, use the [My Account](https://web.archive.org/web/20060507183739id_/http%3A//www.hometrainingtools.com/faq/shopping-information/account.php) button on our website. If you would like to review other personal information that Home Science Tools may have about you, email us at [service@hometrainingtools.com](mailto:service@hometrainingtools.com). 
+You have access to the contact information we have about you. To review and update your contact information, use the [My Account](https://web.archive.org/web/20070507101947id_/http%3A//www.hometrainingtools.com/faq/shopping-information/account.php) button on our website. If you would like to review other personal information that Home Science Tools may have about you, email us at [service@hometrainingtools.com](mailto:service@hometrainingtools.com). 
 
 **Collecting other information**  
 When you browse the Home Science Tools website, you are able to do so anonymously. However, your browser does automatically tell us the type of computer and operating system you are using. 
 
-Home Science Tools's website uses cookies. Specifically, the website will set a temporary "session cookie" that lasts the length of your visit to the site, and allows us to collect information on what you view on the site. However, this information is not in anyway identified with you personally, unless you choose to browse the site while signed in. We study usage patterns so we can improve our site's convenience and ease of use. 
+Home Science Tools's website uses cookies. Specifically, the website will set a temporary "session cookie" that lasts the length of your visit to the site, and allows us to collect information on what you view on the site. However, this information is not in any way identified with you personally, unless you choose to browse the site while signed in. We study usage patterns so we can improve our site's convenience and ease of use. 
 
 Emails we send you may contain hypertext links back to our web site. We track click-throughs to these links to help us determine your interest in particular topics and measure the effectiveness of our customer communications. 
 
