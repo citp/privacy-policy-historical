@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015950id_/http%3A//www.netmarketinginsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507081252id_/http%3A//www.dralexmarketing.com/privacy.php) for the most accurate reproduction.*
 
-# Net Marketing Insider: Privacy Policy
+# Dr Alex Internet Marketing: Privacy Policy
 
 ### Privacy Policy
 
-[Net Marketing Insider](https://web.archive.org/web/20060615015950id_/http%3A//www.netmarketinginsider.com/index.php) and [Antechinus® Creative Software](http://www.c-point.com/) are owned and operated by C Point Pty Ltd, incorporated under Australian Company Number (ABN): 085 516 552, Australian Business Number (ABN): 48 085 516 552.  
+[Dr Alex Internet Marketing](https://web.archive.org/web/20070507081252id_/http%3A//www.dralexmarketing.com/index.php) and [Antechinus® Creative Software](http://www.c-point.com/) are owned and operated by C Point Pty Ltd, incorporated under Australian Company Number (ABN): 085 516 552, Australian Business Number (ABN): 48 085 516 552.  
 Our postal address is:   
 71 Williamson Road  
 Para Hills 5096, Adelaide, Australia
 
-We can be reached via e-mail at [info@c-point.com](mailto:info@c-point.com)   
+We can be reached via e-mail at [_info@DrAlexMarketing.com_](mailto:info@DrAlexMarketing.com)   
 or you can reach us by telephone at +618  8263 3623, or by fax at +618 8396 1477
 
 **In short:**
