@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216023010id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507070453id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
-# Gardening equipment products gardeners advice UK
+# Gardening articledisplay UK
 
-The following is for guidance only and does not affect the [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46).   
+|   
+---  
   
+The following is for guidance only and does not affect the [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46). 
+
 Greenfingers.com is committed to protecting your privacy. We use the information we collect about you to administer your account, promote goods and services to you, and for market research purposes. We are committed to keeping your confidential information exactly that - confidential.
 
 Please read on for more details about our privacy policy. 
@@ -66,7 +69,7 @@ Please read on for more details about our privacy policy.
 
 > For further information regarding all aspects of Greenfingers.com's contracts with customers please see our full [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46).
 
-| **Other Privacy Policy Articles**  
+**Other Privacy Policy Articles**  
 ---  
    [Privacy Policy](https://web.archive.org/articledisplay.asp?id=1287) |      |   
   
