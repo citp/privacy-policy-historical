@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitalbmx.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020090010id_/http%3A//www.vitalbmx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D108%26Itemid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalbmx.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507065949id_/http%3A//www.vitalbmx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D108%26Itemid%3D53) for the most accurate reproduction.*
 
-# VitalBMX.com - Privacy Policy
+# Privacy Policy
 
    
 VitalMediaNetwork.com, VitalMediaNet.com, VitalMX.com, VitalSkate.com, and VitalBMX.com are part of the Vital Media Network group of sites and services. 
