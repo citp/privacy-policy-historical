@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003121756id_/http%3A//www.parkers.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507190328id_/http%3A//www.parkers.co.uk/legal) for the most accurate reproduction.*
 
-# Parker's - Car prices, car reviews, news, buying guides, finance and insurance advice. Parkers.co.uk has the most comprehensive and accurate valuations for cars and vans in the UK.
+# Legal/Privacy/Cookies - Parker's
 
-**This is Parker's Online, part of the Parker's portfolio of products + services, owned by EMAP Automotive Ltd.**
+This is parkers.co.uk, part of the Parker's portfolio of products and services, owned by Emap Consumer Media Limited.
 
 Your use of this web site is subject to the following terms and conditions, which by using the web site you are deemed to accept: 
 
@@ -18,7 +18,7 @@ Whilst we try to ensure that the information on this site is accurate and comple
 
 **3\. Links to Other sites**
 
-On this site you will be offered automatic links to other sites which we hope you will be interested in. Emap Consumer Media Limited does not accept any responsibility for the content of those sites, the owners of which do not necessarily have any link, commercial or otherwise, with Emap Consumer Media Limited. 
+On this site you will be offered links to other sites. Emap Consumer Media Limited does not accept any responsibility for the content of those sites, the owners of which do not necessarily have any link, commercial or otherwise, with Emap Consumer Media Limited. 
 
 **4\. Cookies**
 
@@ -34,7 +34,7 @@ We also support Platform for Privacy Preferences (P3P) policies, which are a for
 
 **5\. Collection of personal details**
 
-If you contact us by completing a form on the web site, your e-mail address and, optionally, other personal information will be stored on our servers. This information will be used to contact you and to help us deal with your queries. To purchase any of our services or products you must register your details with the website. We secure all personal data using a password that the user chooses. If you wish to add, modify or delete any of the information that we hold about you, please login at: [https://secure.parkers.co.uk](https://secure.parkers.co.uk/) or use the contact us link (at the bottom of every page). 
+If you contact us by completing a form on the web site, your e-mail address and, optionally, other personal information will be stored on our servers. This information will be used to contact you and to help us deal with your queries. To purchase any of our services or products you must register your details with the website. We secure all personal data using a password that the user chooses. If you wish to add, modify or delete any of the information that we hold about you, please login at: https://secure.parkers.co.uk or use the contact us link (at the bottom of every page). 
 
 Any personal information you send us, for whatever purpose, is held in the strictest confidence and will not be disclosed to a third party without your express permission, unless legally required. We meet the UK Data Protection Requirements and our organisation is registered with the Data Protection Registrar. 
 
@@ -44,4 +44,4 @@ Nothing in these Terms of Use shall restrict or exclude any liability that we ha
 
 **7\. Feedback**
 
-If you have any concerns at all about our privacy policy, or have a dispute about how we are handling your personal data, then please let us know by clicking the contact us link (which is located at the bottom of every web page). 
+If you have any concerns at all about our privacy policy, or have a dispute about how we are handling your personal data, then please let us know by clicking the contact us link. 
