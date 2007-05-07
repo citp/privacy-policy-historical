@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialpeace.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225163010id_/http%3A//www.daveramsey.com/etc/cms/privacy_policy_39.htmlc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpeace.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507062747id_/http%3A//www.daveramsey.com/etc/cms/privacy_policy_39.htmlc) for the most accurate reproduction.*
 
 # Privacy Policy
 
