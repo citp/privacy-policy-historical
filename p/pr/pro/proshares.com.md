@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proshares.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222230430id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proshares.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507093740id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.*
 
-# ProShares.com: www.proshares.com - Privacy Policy
+# Privacy Policy
 
 * * *
 
