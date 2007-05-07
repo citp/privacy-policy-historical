@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507093743id_/http%3A//www.moneymagpie.com/showPrivacyStatement) for the most accurate reproduction.*
+
+# Privacy Statement
+
+You are here: [Home](https://web.archive.org/) > Privacy Statement
+
+  1. This Privacy Policy sets out how we will deal with the personal information which you provide to us while using the website located at _[www.moneymagpie.com](https://web.archive.org/web/20070507093743id_/http://)_ (the “ **Site** ”) and/or the services provided from it (the “ **Services** ”).  We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site.
+  2.  To provide the Site and the Services, it is necessary for us to hold and process certain personal information.  We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. ** __** All personal information is processed by us in accordance with data protection legislation applicable in the UK. 
+  3.  From time to time, we may ask you to provide some or all of the following: details of your name, company name, address, telephone/facsimile number(s), e-mail address and credit card details.  This personal information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Services and services associated with them. We may also use your personal information: to analyse use of the Site; and to keep you up-to-date with other services which we think may be of interest to you.  If you do not want to receive this information, click _here_. 
+  4.  We will not transfer or sell your personal information to any third parties.
+  5.  If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, click _here_.
+  6.  We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us. 
+  7.  We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly.
+  8.  Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws.  Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
+  9.  If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us at [info@moneymagpie.com](mailto:info@moneymagpie.com) or at: Information, MoneyMagpie Limited, 22 Pembridge Gardens, London  W2 4DX.
+
+
