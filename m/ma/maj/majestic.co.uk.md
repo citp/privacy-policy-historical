@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005225715id_/http%3A//www.majestic.co.uk/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D272%26langId%3D-1%26catalogId%3D10001%26contentPage%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507111212id_/http%3A//www.majestic.co.uk/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D272%26langId%3D-1%26catalogId%3D10001%26contentPage%3Dsecurity) for the most accurate reproduction.*
 
 # Majestic Wine Warehouses
 
